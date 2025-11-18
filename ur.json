@@ -1,0 +1,1334 @@
+[
+  {
+    "name": "Uruzgān",
+    "country": "AF",
+    "lat": 32.92775,
+    "lng": 66.63253
+  },
+  {
+    "name": "Urgun",
+    "country": "AF",
+    "lat": 32.9515,
+    "lng": 69.1828
+  },
+  {
+    "name": "Ura Vajgurore",
+    "country": "AL",
+    "lat": 40.76889,
+    "lng": 19.87778
+  },
+  {
+    "name": "Urtsadzor",
+    "country": "AM",
+    "lat": 39.91949,
+    "lng": 44.82507
+  },
+  {
+    "name": "Urdinarrain",
+    "country": "AR",
+    "lat": -32.69104,
+    "lng": -58.88842
+  },
+  {
+    "name": "Uriburu",
+    "country": "AR",
+    "lat": -36.50701,
+    "lng": -63.86207
+  },
+  {
+    "name": "Urunga",
+    "country": "AU",
+    "lat": -30.49701,
+    "lng": 153.01422
+  },
+  {
+    "name": "Urraween",
+    "country": "AU",
+    "lat": -25.29522,
+    "lng": 152.82206
+  },
+  {
+    "name": "Urangan",
+    "country": "AU",
+    "lat": -25.29214,
+    "lng": 152.90535
+  },
+  {
+    "name": "Uralla",
+    "country": "AU",
+    "lat": -30.6411,
+    "lng": 151.50069
+  },
+  {
+    "name": "Ursel",
+    "country": "BE",
+    "lat": 51.12895,
+    "lng": 3.48655
+  },
+  {
+    "name": "Urubichá",
+    "country": "BO",
+    "lat": -15.39286,
+    "lng": -62.94661
+  },
+  {
+    "name": "Uruoca",
+    "country": "BR",
+    "lat": -3.31389,
+    "lng": -40.55667
+  },
+  {
+    "name": "Urucurituba",
+    "country": "BR",
+    "lat": -3.12873,
+    "lng": -58.15501
+  },
+  {
+    "name": "Uruçuí",
+    "country": "BR",
+    "lat": -7.22944,
+    "lng": -44.55611
+  },
+  {
+    "name": "Urucará",
+    "country": "BR",
+    "lat": -2.53639,
+    "lng": -57.76
+  },
+  {
+    "name": "Uruburetama",
+    "country": "BR",
+    "lat": -3.625,
+    "lng": -39.50833
+  },
+  {
+    "name": "Urbano Santos",
+    "country": "BR",
+    "lat": -3.20778,
+    "lng": -43.40361
+  },
+  {
+    "name": "Urutaí",
+    "country": "BR",
+    "lat": -17.46361,
+    "lng": -48.20167
+  },
+  {
+    "name": "Urussanga",
+    "country": "BR",
+    "lat": -28.51778,
+    "lng": -49.32083
+  },
+  {
+    "name": "Urupês",
+    "country": "BR",
+    "lat": -21.20167,
+    "lng": -49.29
+  },
+  {
+    "name": "Urupema",
+    "country": "BR",
+    "lat": -27.95278,
+    "lng": -49.87306
+  },
+  {
+    "name": "Uruguaiana",
+    "country": "BR",
+    "lat": -29.75472,
+    "lng": -57.08833
+  },
+  {
+    "name": "Urucuia",
+    "country": "BR",
+    "lat": -16.1325,
+    "lng": -45.74222
+  },
+  {
+    "name": "Uruçuca",
+    "country": "BR",
+    "lat": -14.59306,
+    "lng": -39.28444
+  },
+  {
+    "name": "Urucânia",
+    "country": "BR",
+    "lat": -20.35083,
+    "lng": -42.73944
+  },
+  {
+    "name": "Urubici",
+    "country": "BR",
+    "lat": -28.015,
+    "lng": -49.59167
+  },
+  {
+    "name": "Uruana",
+    "country": "BR",
+    "lat": -15.5036,
+    "lng": -49.68266
+  },
+  {
+    "name": "Uruaçu",
+    "country": "BR",
+    "lat": -14.52472,
+    "lng": -49.14083
+  },
+  {
+    "name": "Uru",
+    "country": "BR",
+    "lat": -21.78389,
+    "lng": -49.28083
+  },
+  {
+    "name": "Urânia",
+    "country": "BR",
+    "lat": -20.24611,
+    "lng": -50.64306
+  },
+  {
+    "name": "Urandi",
+    "country": "BR",
+    "lat": -14.77139,
+    "lng": -42.655
+  },
+  {
+    "name": "Uraí",
+    "country": "BR",
+    "lat": -23.1975,
+    "lng": -50.79639
+  },
+  {
+    "name": "Uruana de Minas",
+    "country": "BR",
+    "lat": -16.06417,
+    "lng": -46.25417
+  },
+  {
+    "name": "Uruará",
+    "country": "BR",
+    "lat": -3.7175,
+    "lng": -53.73667
+  },
+  {
+    "name": "Urupá",
+    "country": "BR",
+    "lat": -11.12607,
+    "lng": -62.37209
+  },
+  {
+    "name": "Urechcha",
+    "country": "BY",
+    "lat": 52.9479,
+    "lng": 27.893
+  },
+  {
+    "name": "Urtenen",
+    "country": "CH",
+    "lat": 47.02667,
+    "lng": 7.50081
+  },
+  {
+    "name": "Urnäsch",
+    "country": "CH",
+    "lat": 47.31669,
+    "lng": 9.2795
+  },
+  {
+    "name": "Urdorf",
+    "country": "CH",
+    "lat": 47.38507,
+    "lng": 8.42581
+  },
+  {
+    "name": "Urdorf / Bodenfeld",
+    "country": "CH",
+    "lat": 47.3892,
+    "lng": 8.42265
+  },
+  {
+    "name": "Urdorf / Moos",
+    "country": "CH",
+    "lat": 47.38977,
+    "lng": 8.42886
+  },
+  {
+    "name": "Urdorf / Oberurdorf",
+    "country": "CH",
+    "lat": 47.38072,
+    "lng": 8.42343
+  },
+  {
+    "name": "Urumita",
+    "country": "CO",
+    "lat": 10.56095,
+    "lng": -73.0134
+  },
+  {
+    "name": "Urrao",
+    "country": "CO",
+    "lat": 6.31696,
+    "lng": -76.1342
+  },
+  {
+    "name": "Uribia",
+    "country": "CO",
+    "lat": 11.71505,
+    "lng": -72.26592
+  },
+  {
+    "name": "Uribe",
+    "country": "CO",
+    "lat": 3.2409,
+    "lng": -74.35497
+  },
+  {
+    "name": "Uramita",
+    "country": "CO",
+    "lat": 6.89944,
+    "lng": -76.17417
+  },
+  {
+    "name": "Určice",
+    "country": "CZ",
+    "lat": 49.43045,
+    "lng": 17.07291
+  },
+  {
+    "name": "Urspringen",
+    "country": "DE",
+    "lat": 49.90166,
+    "lng": 9.67123
+  },
+  {
+    "name": "Ursensollen",
+    "country": "DE",
+    "lat": 49.40204,
+    "lng": 11.75503
+  },
+  {
+    "name": "Ursberg",
+    "country": "DE",
+    "lat": 48.26428,
+    "lng": 10.44594
+  },
+  {
+    "name": "Urmitz",
+    "country": "DE",
+    "lat": 50.41667,
+    "lng": 7.51667
+  },
+  {
+    "name": "Urbar",
+    "country": "DE",
+    "lat": 50.38333,
+    "lng": 7.63333
+  },
+  {
+    "name": "Urbach-Überdorf",
+    "country": "DE",
+    "lat": 50.5569,
+    "lng": 7.58695
+  },
+  {
+    "name": "Urbach",
+    "country": "DE",
+    "lat": 51.29468,
+    "lng": 10.6054
+  },
+  {
+    "name": "Urbach",
+    "country": "DE",
+    "lat": 48.8168,
+    "lng": 9.5769
+  },
+  {
+    "name": "Urdaneta",
+    "country": "EC",
+    "lat": -3.60534,
+    "lng": -79.21076
+  },
+  {
+    "name": "Urcuquí",
+    "country": "EC",
+    "lat": 0.41845,
+    "lng": -78.19477
+  },
+  {
+    "name": "Urrácal",
+    "country": "ES",
+    "lat": 37.3974,
+    "lng": -2.36485
+  },
+  {
+    "name": "Urda",
+    "country": "ES",
+    "lat": 39.41179,
+    "lng": -3.71493
+  },
+  {
+    "name": "Urretxu",
+    "country": "ES",
+    "lat": 43.091,
+    "lng": -2.31701
+  },
+  {
+    "name": "Urzainqui",
+    "country": "ES",
+    "lat": 42.83029,
+    "lng": -0.94617
+  },
+  {
+    "name": "Uruñuela",
+    "country": "ES",
+    "lat": 42.4431,
+    "lng": -2.70749
+  },
+  {
+    "name": "Urueñas",
+    "country": "ES",
+    "lat": 41.35589,
+    "lng": -3.77391
+  },
+  {
+    "name": "Urueña",
+    "country": "ES",
+    "lat": 41.72738,
+    "lng": -5.20304
+  },
+  {
+    "name": "Urriés",
+    "country": "ES",
+    "lat": 42.51943,
+    "lng": -1.13022
+  },
+  {
+    "name": "Urrea de Jalón",
+    "country": "ES",
+    "lat": 41.66715,
+    "lng": -1.2342
+  },
+  {
+    "name": "Urones de Castroponce",
+    "country": "ES",
+    "lat": 42.09911,
+    "lng": -5.28222
+  },
+  {
+    "name": "Urnieta",
+    "country": "ES",
+    "lat": 43.24727,
+    "lng": -1.99084
+  },
+  {
+    "name": "Urdiales del Páramo",
+    "country": "ES",
+    "lat": 42.37034,
+    "lng": -5.77297
+  },
+  {
+    "name": "Urdazubi / Urdax",
+    "country": "ES",
+    "lat": 43.26727,
+    "lng": -1.50389
+  },
+  {
+    "name": "Urduña / Orduña",
+    "country": "ES",
+    "lat": 42.99435,
+    "lng": -3.00974
+  },
+  {
+    "name": "Urús",
+    "country": "ES",
+    "lat": 42.35131,
+    "lng": 1.85343
+  },
+  {
+    "name": "Urbanizacion Casas Viejas",
+    "country": "ES",
+    "lat": 38.98289,
+    "lng": -1.94065
+  },
+  {
+    "name": "Urjala",
+    "country": "FI",
+    "lat": 61.08333,
+    "lng": 23.53333
+  },
+  {
+    "name": "Urheilupuisto",
+    "country": "FI",
+    "lat": 60.44267,
+    "lng": 22.26326
+  },
+  {
+    "name": "Urzy",
+    "country": "FR",
+    "lat": 47.04877,
+    "lng": 3.20295
+  },
+  {
+    "name": "Urville-Nacqueville",
+    "country": "FR",
+    "lat": 49.67444,
+    "lng": -1.73664
+  },
+  {
+    "name": "Urt",
+    "country": "FR",
+    "lat": 43.49382,
+    "lng": -1.29059
+  },
+  {
+    "name": "Urrugne",
+    "country": "FR",
+    "lat": 43.36243,
+    "lng": -1.70019
+  },
+  {
+    "name": "Urmatt",
+    "country": "FR",
+    "lat": 48.52752,
+    "lng": 7.32565
+  },
+  {
+    "name": "Uriménil",
+    "country": "FR",
+    "lat": 48.10079,
+    "lng": 6.40046
+  },
+  {
+    "name": "Urcuit",
+    "country": "FR",
+    "lat": 43.48546,
+    "lng": -1.33693
+  },
+  {
+    "name": "Urmston",
+    "country": "GB",
+    "lat": 53.44852,
+    "lng": -2.35419
+  },
+  {
+    "name": "Ureki",
+    "country": "GE",
+    "lat": 41.99556,
+    "lng": 41.77861
+  },
+  {
+    "name": "Urlingford",
+    "country": "IE",
+    "lat": 52.72056,
+    "lng": -7.5825
+  },
+  {
+    "name": "Urun-Islāmpur",
+    "country": "IN",
+    "lat": 17.05,
+    "lng": 74.26667
+  },
+  {
+    "name": "Urmar",
+    "country": "IN",
+    "lat": 31.68137,
+    "lng": 75.63549
+  },
+  {
+    "name": "Uri",
+    "country": "IN",
+    "lat": 34.086,
+    "lng": 74.032
+  },
+  {
+    "name": "Uravakonda",
+    "country": "IN",
+    "lat": 14.94348,
+    "lng": 77.25494
+  },
+  {
+    "name": "Uran",
+    "country": "IN",
+    "lat": 18.87813,
+    "lng": 72.93924
+  },
+  {
+    "name": "Urakam",
+    "country": "IN",
+    "lat": 10.43333,
+    "lng": 76.21667
+  },
+  {
+    "name": "Urimāri",
+    "country": "IN",
+    "lat": 23.7052,
+    "lng": 85.30331
+  },
+  {
+    "name": "Urakam",
+    "country": "IN",
+    "lat": 11.05124,
+    "lng": 75.98833
+  },
+  {
+    "name": "Urjanagar",
+    "country": "IN",
+    "lat": 19.99368,
+    "lng": 79.30329
+  },
+  {
+    "name": "Uras",
+    "country": "IT",
+    "lat": 39.69799,
+    "lng": 8.70143
+  },
+  {
+    "name": "Urzulei",
+    "country": "IT",
+    "lat": 40.09284,
+    "lng": 9.508
+  },
+  {
+    "name": "Ururi",
+    "country": "IT",
+    "lat": 41.81518,
+    "lng": 15.01611
+  },
+  {
+    "name": "Uri",
+    "country": "IT",
+    "lat": 40.63841,
+    "lng": 8.48881
+  },
+  {
+    "name": "Urgnano",
+    "country": "IT",
+    "lat": 45.59943,
+    "lng": 9.69473
+  },
+  {
+    "name": "Urbisaglia",
+    "country": "IT",
+    "lat": 43.19304,
+    "lng": 13.37474
+  },
+  {
+    "name": "Urbino",
+    "country": "IT",
+    "lat": 43.72621,
+    "lng": 12.63633
+  },
+  {
+    "name": "Urbania",
+    "country": "IT",
+    "lat": 43.66832,
+    "lng": 12.52093
+  },
+  {
+    "name": "Urbe",
+    "country": "IT",
+    "lat": 44.48714,
+    "lng": 8.58615
+  },
+  {
+    "name": "Urago d'Oglio",
+    "country": "IT",
+    "lat": 45.51598,
+    "lng": 9.86966
+  },
+  {
+    "name": "Urbana",
+    "country": "IT",
+    "lat": 45.19278,
+    "lng": 11.4449
+  },
+  {
+    "name": "Ureshinomachi-shimojuku",
+    "country": "JP",
+    "lat": 33.11358,
+    "lng": 130.00292
+  },
+  {
+    "name": "Urayasu",
+    "country": "JP",
+    "lat": 35.65879,
+    "lng": 139.90055
+  },
+  {
+    "name": "Urasa",
+    "country": "JP",
+    "lat": 37.16804,
+    "lng": 138.92424
+  },
+  {
+    "name": "Uryū",
+    "country": "JP",
+    "lat": 43.63944,
+    "lng": 141.88778
+  },
+  {
+    "name": "Urausunai",
+    "country": "JP",
+    "lat": 43.42389,
+    "lng": 141.82028
+  },
+  {
+    "name": "Urakawa",
+    "country": "JP",
+    "lat": 42.15556,
+    "lng": 142.78361
+  },
+  {
+    "name": "Urasoe",
+    "country": "JP",
+    "lat": 26.25902,
+    "lng": 127.73012
+  },
+  {
+    "name": "Uruma",
+    "country": "JP",
+    "lat": 26.37609,
+    "lng": 127.85908
+  },
+  {
+    "name": "Ureshino",
+    "country": "JP",
+    "lat": 33.13525,
+    "lng": 130.05718
+  },
+  {
+    "name": "Urzhar",
+    "country": "KZ",
+    "lat": 47.09302,
+    "lng": 81.62939
+  },
+  {
+    "name": "Urdgol",
+    "country": "MN",
+    "lat": 47.83333,
+    "lng": 92.65
+  },
+  {
+    "name": "Urt",
+    "country": "MN",
+    "lat": 43.23245,
+    "lng": 101.04813
+  },
+  {
+    "name": "Uruapan",
+    "country": "MX",
+    "lat": 19.41116,
+    "lng": -102.05644
+  },
+  {
+    "name": "Uruachi",
+    "country": "MX",
+    "lat": 27.86763,
+    "lng": -108.21557
+  },
+  {
+    "name": "Urique",
+    "country": "MX",
+    "lat": 27.21272,
+    "lng": -107.91491
+  },
+  {
+    "name": "Uricho",
+    "country": "MX",
+    "lat": 19.57104,
+    "lng": -101.71614
+  },
+  {
+    "name": "Uriangato",
+    "country": "MX",
+    "lat": 20.14085,
+    "lng": -101.18251
+  },
+  {
+    "name": "Ures municipality",
+    "country": "MX",
+    "lat": 29.42708,
+    "lng": -110.3876
+  },
+  {
+    "name": "Urén",
+    "country": "MX",
+    "lat": 19.84564,
+    "lng": -102.10524
+  },
+  {
+    "name": "Urireo",
+    "country": "MX",
+    "lat": 20.21314,
+    "lng": -100.84188
+  },
+  {
+    "name": "Uripitio",
+    "country": "MX",
+    "lat": 19.95338,
+    "lng": -100.538
+  },
+  {
+    "name": "Urecho",
+    "country": "MX",
+    "lat": 20.65408,
+    "lng": -100.07438
+  },
+  {
+    "name": "Uruétaro",
+    "country": "MX",
+    "lat": 19.79056,
+    "lng": -101.08778
+  },
+  {
+    "name": "Uruobo-Okija",
+    "country": "NG",
+    "lat": 5.90016,
+    "lng": 6.84312
+  },
+  {
+    "name": "Urualla",
+    "country": "NG",
+    "lat": 5.85397,
+    "lng": 7.09906
+  },
+  {
+    "name": "Uromi",
+    "country": "NG",
+    "lat": 6.7,
+    "lng": 6.33333
+  },
+  {
+    "name": "Urua Inyang",
+    "country": "NG",
+    "lat": 5.02309,
+    "lng": 7.53895
+  },
+  {
+    "name": "Urue Offong",
+    "country": "NG",
+    "lat": 4.75275,
+    "lng": 8.1677
+  },
+  {
+    "name": "Urmond",
+    "country": "NL",
+    "lat": 50.99083,
+    "lng": 5.77222
+  },
+  {
+    "name": "Urk",
+    "country": "NL",
+    "lat": 52.6625,
+    "lng": 5.60139
+  },
+  {
+    "name": "Ureterp",
+    "country": "NL",
+    "lat": 53.09244,
+    "lng": 6.16718
+  },
+  {
+    "name": "Urubamba",
+    "country": "PE",
+    "lat": -13.30472,
+    "lng": -72.11583
+  },
+  {
+    "name": "Uripa",
+    "country": "PE",
+    "lat": -13.5325,
+    "lng": -73.67722
+  },
+  {
+    "name": "Urcos",
+    "country": "PE",
+    "lat": -13.68611,
+    "lng": -71.62278
+  },
+  {
+    "name": "Urasqui",
+    "country": "PE",
+    "lat": -16.03154,
+    "lng": -73.17423
+  },
+  {
+    "name": "Uranmarca",
+    "country": "PE",
+    "lat": -13.6724,
+    "lng": -73.66951
+  },
+  {
+    "name": "Urpay",
+    "country": "PE",
+    "lat": -8.34792,
+    "lng": -77.39183
+  },
+  {
+    "name": "Urb. Santo Domingo",
+    "country": "PE",
+    "lat": -11.87655,
+    "lng": -77.03345
+  },
+  {
+    "name": "Urdaneta",
+    "country": "PH",
+    "lat": 15.97611,
+    "lng": 120.57111
+  },
+  {
+    "name": "Urbiztondo",
+    "country": "PH",
+    "lat": 15.8227,
+    "lng": 120.3295
+  },
+  {
+    "name": "Urzejowice",
+    "country": "PL",
+    "lat": 50.01182,
+    "lng": 22.46189
+  },
+  {
+    "name": "Urzędów",
+    "country": "PL",
+    "lat": 50.99323,
+    "lng": 22.1426
+  },
+  {
+    "name": "Urszulin",
+    "country": "PL",
+    "lat": 51.3939,
+    "lng": 23.1948
+  },
+  {
+    "name": "Ursus",
+    "country": "PL",
+    "lat": 52.19517,
+    "lng": 20.88419
+  },
+  {
+    "name": "Ursynów",
+    "country": "PL",
+    "lat": 52.15051,
+    "lng": 21.05041
+  },
+  {
+    "name": "Urra",
+    "country": "PT",
+    "lat": 39.2283,
+    "lng": -7.39856
+  },
+  {
+    "name": "Urgeses",
+    "country": "PT",
+    "lat": 41.4272,
+    "lng": -8.29796
+  },
+  {
+    "name": "Urzicuţa",
+    "country": "RO",
+    "lat": 44.01667,
+    "lng": 23.55
+  },
+  {
+    "name": "Urziceni",
+    "country": "RO",
+    "lat": 47.73333,
+    "lng": 22.4
+  },
+  {
+    "name": "Urziceni",
+    "country": "RO",
+    "lat": 44.71667,
+    "lng": 26.63333
+  },
+  {
+    "name": "Urziceanca",
+    "country": "RO",
+    "lat": 44.63052,
+    "lng": 25.8424
+  },
+  {
+    "name": "Urși",
+    "country": "RO",
+    "lat": 44.99404,
+    "lng": 24.08895
+  },
+  {
+    "name": "Urseni",
+    "country": "RO",
+    "lat": 45.69269,
+    "lng": 21.30993
+  },
+  {
+    "name": "Ursa",
+    "country": "RO",
+    "lat": 43.78783,
+    "lng": 24.63787
+  },
+  {
+    "name": "Urmeniş",
+    "country": "RO",
+    "lat": 46.76667,
+    "lng": 24.36667
+  },
+  {
+    "name": "Urleta",
+    "country": "RO",
+    "lat": 45.08732,
+    "lng": 25.79354
+  },
+  {
+    "name": "Urleasca",
+    "country": "RO",
+    "lat": 45.13697,
+    "lng": 27.64736
+  },
+  {
+    "name": "Urlaţi",
+    "country": "RO",
+    "lat": 44.98333,
+    "lng": 26.23333
+  },
+  {
+    "name": "Uriu",
+    "country": "RO",
+    "lat": 47.2,
+    "lng": 24.05
+  },
+  {
+    "name": "Uricani",
+    "country": "RO",
+    "lat": 45.33731,
+    "lng": 23.1524
+  },
+  {
+    "name": "Urecheşti",
+    "country": "RO",
+    "lat": 46.13333,
+    "lng": 27.08333
+  },
+  {
+    "name": "Urecheşti",
+    "country": "RO",
+    "lat": 45.6,
+    "lng": 27.06667
+  },
+  {
+    "name": "Urecheni",
+    "country": "RO",
+    "lat": 47.16667,
+    "lng": 26.51667
+  },
+  {
+    "name": "Urdari",
+    "country": "RO",
+    "lat": 44.8,
+    "lng": 23.3
+  },
+  {
+    "name": "Urca",
+    "country": "RO",
+    "lat": 46.54885,
+    "lng": 23.96187
+  },
+  {
+    "name": "Urzica",
+    "country": "RO",
+    "lat": 43.8567,
+    "lng": 24.28952
+  },
+  {
+    "name": "Urzhum",
+    "country": "RU",
+    "lat": 57.11442,
+    "lng": 49.99925
+  },
+  {
+    "name": "Uryv-Pokrovka",
+    "country": "RU",
+    "lat": 51.1159,
+    "lng": 39.16394
+  },
+  {
+    "name": "Uryupinsk",
+    "country": "RU",
+    "lat": 50.806,
+    "lng": 42.00923
+  },
+  {
+    "name": "Urvan’",
+    "country": "RU",
+    "lat": 43.48936,
+    "lng": 43.76379
+  },
+  {
+    "name": "Urussu",
+    "country": "RU",
+    "lat": 54.59701,
+    "lng": 53.45625
+  },
+  {
+    "name": "Urus-Martan",
+    "country": "RU",
+    "lat": 43.13053,
+    "lng": 45.53791
+  },
+  {
+    "name": "Urukh",
+    "country": "RU",
+    "lat": 43.29335,
+    "lng": 44.02647
+  },
+  {
+    "name": "Urshel’skiy",
+    "country": "RU",
+    "lat": 55.67833,
+    "lng": 40.21692
+  },
+  {
+    "name": "Urozhaynoye",
+    "country": "RU",
+    "lat": 44.78833,
+    "lng": 44.92278
+  },
+  {
+    "name": "Urmary",
+    "country": "RU",
+    "lat": 55.67894,
+    "lng": 47.94396
+  },
+  {
+    "name": "Urman",
+    "country": "RU",
+    "lat": 54.88314,
+    "lng": 56.87417
+  },
+  {
+    "name": "Urma",
+    "country": "RU",
+    "lat": 42.53894,
+    "lng": 47.28639
+  },
+  {
+    "name": "Urkarakh",
+    "country": "RU",
+    "lat": 42.16292,
+    "lng": 47.6303
+  },
+  {
+    "name": "Uritsk",
+    "country": "RU",
+    "lat": 59.83889,
+    "lng": 30.17528
+  },
+  {
+    "name": "Uren’",
+    "country": "RU",
+    "lat": 57.46125,
+    "lng": 45.78558
+  },
+  {
+    "name": "Urdoma",
+    "country": "RU",
+    "lat": 61.75335,
+    "lng": 48.5442
+  },
+  {
+    "name": "Urazovo",
+    "country": "RU",
+    "lat": 50.0836,
+    "lng": 38.0395
+  },
+  {
+    "name": "Urazovka",
+    "country": "RU",
+    "lat": 55.40068,
+    "lng": 45.61552
+  },
+  {
+    "name": "Ural’skiy",
+    "country": "RU",
+    "lat": 57.9349,
+    "lng": 55.5513
+  },
+  {
+    "name": "Uralets",
+    "country": "RU",
+    "lat": 57.6614,
+    "lng": 59.6497
+  },
+  {
+    "name": "Urengoy",
+    "country": "RU",
+    "lat": 65.9655,
+    "lng": 78.36929
+  },
+  {
+    "name": "Uray",
+    "country": "RU",
+    "lat": 60.13044,
+    "lng": 64.78896
+  },
+  {
+    "name": "Ural",
+    "country": "RU",
+    "lat": 55.9052,
+    "lng": 94.7537
+  },
+  {
+    "name": "Ursk",
+    "country": "RU",
+    "lat": 54.45417,
+    "lng": 85.40028
+  },
+  {
+    "name": "Ural’skiy",
+    "country": "RU",
+    "lat": 56.6757,
+    "lng": 61.0824
+  },
+  {
+    "name": "Urusha",
+    "country": "RU",
+    "lat": 54.05141,
+    "lng": 122.88451
+  },
+  {
+    "name": "Urik",
+    "country": "RU",
+    "lat": 52.46051,
+    "lng": 104.24016
+  },
+  {
+    "name": "Ursviken",
+    "country": "SE",
+    "lat": 64.71261,
+    "lng": 21.1658
+  },
+  {
+    "name": "Urla",
+    "country": "TR",
+    "lat": 38.32292,
+    "lng": 26.76403
+  },
+  {
+    "name": "Uruş",
+    "country": "TR",
+    "lat": 40.24903,
+    "lng": 32.13785
+  },
+  {
+    "name": "Urunda",
+    "country": "TZ",
+    "lat": -8.65,
+    "lng": 34.3
+  },
+  {
+    "name": "Urambo",
+    "country": "TZ",
+    "lat": -5.06667,
+    "lng": 32.05
+  },
+  {
+    "name": "Urzuf",
+    "country": "UA",
+    "lat": 46.91495,
+    "lng": 37.10426
+  },
+  {
+    "name": "Urozhaynoye",
+    "country": "UA",
+    "lat": 45.33625,
+    "lng": 35.06865
+  },
+  {
+    "name": "Uralo-Kavkaz",
+    "country": "UA",
+    "lat": 48.3211,
+    "lng": 39.80302
+  },
+  {
+    "name": "Urozhaynoye",
+    "country": "UA",
+    "lat": 45.04522,
+    "lng": 34.13511
+  },
+  {
+    "name": "Urania",
+    "country": "US",
+    "lat": 31.86378,
+    "lng": -92.29597
+  },
+  {
+    "name": "Urbana",
+    "country": "US",
+    "lat": 39.32594,
+    "lng": -77.35137
+  },
+  {
+    "name": "Urbancrest",
+    "country": "US",
+    "lat": 39.89756,
+    "lng": -83.08685
+  },
+  {
+    "name": "Urbana",
+    "country": "US",
+    "lat": 42.22416,
+    "lng": -91.87434
+  },
+  {
+    "name": "Urbandale",
+    "country": "US",
+    "lat": 41.62666,
+    "lng": -93.71217
+  },
+  {
+    "name": "Urbana",
+    "country": "US",
+    "lat": 40.11059,
+    "lng": -88.20727
+  },
+  {
+    "name": "Urbana",
+    "country": "US",
+    "lat": 40.10839,
+    "lng": -83.75243
+  },
+  {
+    "name": "Urgut Shahri",
+    "country": "UZ",
+    "lat": 39.41902,
+    "lng": 67.26118
+  },
+  {
+    "name": "Urganch",
+    "country": "UZ",
+    "lat": 41.55177,
+    "lng": 60.63143
+  },
+  {
+    "name": "Urumaco",
+    "country": "VE",
+    "lat": 11.19996,
+    "lng": -70.25543
+  },
+  {
+    "name": "Ureña",
+    "country": "VE",
+    "lat": 7.92162,
+    "lng": -72.44396
+  },
+  {
+    "name": "Uracoa",
+    "country": "VE",
+    "lat": 8.99432,
+    "lng": -62.35202
+  },
+  {
+    "name": "Urachiche",
+    "country": "VE",
+    "lat": 10.15847,
+    "lng": -69.00782
+  }
+]

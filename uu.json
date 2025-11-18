@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Uulu",
+    "country": "EE",
+    "lat": 58.28361,
+    "lng": 24.58722
+  },
+  {
+    "name": "Uuemõisa",
+    "country": "EE",
+    "lat": 58.93944,
+    "lng": 23.58944
+  },
+  {
+    "name": "Uus-Lavola",
+    "country": "FI",
+    "lat": 61.04258,
+    "lng": 28.102
+  },
+  {
+    "name": "Uusikaupunki",
+    "country": "FI",
+    "lat": 60.80043,
+    "lng": 21.40841
+  },
+  {
+    "name": "Uurainen",
+    "country": "FI",
+    "lat": 62.5,
+    "lng": 25.45
+  },
+  {
+    "name": "Uusikylä",
+    "country": "FI",
+    "lat": 61.49544,
+    "lng": 23.82888
+  },
+  {
+    "name": "Uummannaq",
+    "country": "GL",
+    "lat": 70.67442,
+    "lng": -52.12545
+  },
+  {
+    "name": "Uujim",
+    "country": "MN",
+    "lat": 48.9,
+    "lng": 89.61667
+  },
+  {
+    "name": "Uubulan",
+    "country": "MN",
+    "lat": 48.60885,
+    "lng": 101.93424
+  }
+]

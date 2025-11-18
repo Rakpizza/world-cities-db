@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Vnorovy",
+    "country": "CZ",
+    "lat": 48.93096,
+    "lng": 17.3505
+  },
+  {
+    "name": "Vnukovo",
+    "country": "RU",
+    "lat": 55.61194,
+    "lng": 37.29611
+  },
+  {
+    "name": "Vniissok",
+    "country": "RU",
+    "lat": 55.65639,
+    "lng": 37.21194
+  },
+  {
+    "name": "Vnanje Gorice",
+    "country": "SI",
+    "lat": 46.00722,
+    "lng": 14.42194
+  }
+]

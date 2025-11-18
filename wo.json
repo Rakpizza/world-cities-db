@@ -1,0 +1,2612 @@
+[
+  {
+    "name": "Wolkersdorf im Weinviertel",
+    "country": "AT",
+    "lat": 48.38333,
+    "lng": 16.51667
+  },
+  {
+    "name": "Wolfurt",
+    "country": "AT",
+    "lat": 47.46667,
+    "lng": 9.75
+  },
+  {
+    "name": "Wolfsthal",
+    "country": "AT",
+    "lat": 48.13333,
+    "lng": 17.0
+  },
+  {
+    "name": "Wolfsgraben",
+    "country": "AT",
+    "lat": 48.1587,
+    "lng": 16.12098
+  },
+  {
+    "name": "Wolfsegg am Hausruck",
+    "country": "AT",
+    "lat": 48.10669,
+    "lng": 13.67274
+  },
+  {
+    "name": "Wolfsberg im Schwarzautal",
+    "country": "AT",
+    "lat": 46.84389,
+    "lng": 15.65889
+  },
+  {
+    "name": "Wolfsberg",
+    "country": "AT",
+    "lat": 46.84056,
+    "lng": 14.84417
+  },
+  {
+    "name": "Wolfsbach",
+    "country": "AT",
+    "lat": 48.07893,
+    "lng": 14.67029
+  },
+  {
+    "name": "Wolfpassing",
+    "country": "AT",
+    "lat": 48.07785,
+    "lng": 15.06453
+  },
+  {
+    "name": "Wolfau",
+    "country": "AT",
+    "lat": 47.25,
+    "lng": 16.1
+  },
+  {
+    "name": "Wolfern",
+    "country": "AT",
+    "lat": 48.08278,
+    "lng": 14.37201
+  },
+  {
+    "name": "Wooroloo",
+    "country": "AU",
+    "lat": -31.8038,
+    "lng": 116.31311
+  },
+  {
+    "name": "Woodville",
+    "country": "AU",
+    "lat": -34.877,
+    "lng": 138.54291
+  },
+  {
+    "name": "Woodside",
+    "country": "AU",
+    "lat": -34.95433,
+    "lng": 138.87901
+  },
+  {
+    "name": "Woy Woy",
+    "country": "AU",
+    "lat": -33.48433,
+    "lng": 151.32471
+  },
+  {
+    "name": "Worrigee",
+    "country": "AU",
+    "lat": -34.9,
+    "lng": 150.63333
+  },
+  {
+    "name": "Worongary",
+    "country": "AU",
+    "lat": -28.05,
+    "lng": 153.35
+  },
+  {
+    "name": "Woree",
+    "country": "AU",
+    "lat": -16.95,
+    "lng": 145.75
+  },
+  {
+    "name": "Woori Yallock",
+    "country": "AU",
+    "lat": -37.78062,
+    "lng": 145.53819
+  },
+  {
+    "name": "Woorim",
+    "country": "AU",
+    "lat": -27.06931,
+    "lng": 153.20427
+  },
+  {
+    "name": "Woonona",
+    "country": "AU",
+    "lat": -34.34932,
+    "lng": 150.91443
+  },
+  {
+    "name": "Woombye",
+    "country": "AU",
+    "lat": -26.66054,
+    "lng": 152.96947
+  },
+  {
+    "name": "Woolloomooloo",
+    "country": "AU",
+    "lat": -33.87042,
+    "lng": 151.21968
+  },
+  {
+    "name": "Woolgoolga",
+    "country": "AU",
+    "lat": -30.11058,
+    "lng": 153.20067
+  },
+  {
+    "name": "Woodridge",
+    "country": "AU",
+    "lat": -27.63333,
+    "lng": 153.1
+  },
+  {
+    "name": "Woodgate",
+    "country": "AU",
+    "lat": -25.1083,
+    "lng": 152.56254
+  },
+  {
+    "name": "Woodford",
+    "country": "AU",
+    "lat": -33.73333,
+    "lng": 150.48333
+  },
+  {
+    "name": "Woodford",
+    "country": "AU",
+    "lat": -26.95291,
+    "lng": 152.77747
+  },
+  {
+    "name": "Woodend",
+    "country": "AU",
+    "lat": -37.35469,
+    "lng": 144.52902
+  },
+  {
+    "name": "Wonthaggi",
+    "country": "AU",
+    "lat": -38.60586,
+    "lng": 145.59355
+  },
+  {
+    "name": "Wonga Park",
+    "country": "AU",
+    "lat": -37.73333,
+    "lng": 145.26667
+  },
+  {
+    "name": "Wondai",
+    "country": "AU",
+    "lat": -26.3177,
+    "lng": 151.87242
+  },
+  {
+    "name": "Wollongbar",
+    "country": "AU",
+    "lat": -28.8182,
+    "lng": 153.39686
+  },
+  {
+    "name": "Wollert",
+    "country": "AU",
+    "lat": -37.58333,
+    "lng": 145.03333
+  },
+  {
+    "name": "Wodonga",
+    "country": "AU",
+    "lat": -36.12179,
+    "lng": 146.88809
+  },
+  {
+    "name": "Wollongong",
+    "country": "AU",
+    "lat": -34.424,
+    "lng": 150.89345
+  },
+  {
+    "name": "Woolooware",
+    "country": "AU",
+    "lat": -34.04583,
+    "lng": 151.14312
+  },
+  {
+    "name": "Woronora",
+    "country": "AU",
+    "lat": -34.02436,
+    "lng": 151.03862
+  },
+  {
+    "name": "Woollahra",
+    "country": "AU",
+    "lat": -33.8878,
+    "lng": 151.23681
+  },
+  {
+    "name": "Wolli Creek",
+    "country": "AU",
+    "lat": -33.93133,
+    "lng": 151.15222
+  },
+  {
+    "name": "Wooloowin",
+    "country": "AU",
+    "lat": -27.42244,
+    "lng": 153.04204
+  },
+  {
+    "name": "Woolloongabba",
+    "country": "AU",
+    "lat": -27.48855,
+    "lng": 153.03655
+  },
+  {
+    "name": "Wongawallan",
+    "country": "AU",
+    "lat": -27.87553,
+    "lng": 153.22865
+  },
+  {
+    "name": "Woody Point",
+    "country": "AU",
+    "lat": -27.25608,
+    "lng": 153.10427
+  },
+  {
+    "name": "Wongaling Beach",
+    "country": "AU",
+    "lat": -17.91327,
+    "lng": 146.09611
+  },
+  {
+    "name": "Wonthella",
+    "country": "AU",
+    "lat": -28.76689,
+    "lng": 114.63338
+  },
+  {
+    "name": "Woorree",
+    "country": "AU",
+    "lat": -28.76677,
+    "lng": 114.65806
+  },
+  {
+    "name": "Woodroffe",
+    "country": "AU",
+    "lat": -12.50173,
+    "lng": 130.98016
+  },
+  {
+    "name": "Woodcroft",
+    "country": "AU",
+    "lat": -35.10236,
+    "lng": 138.56292
+  },
+  {
+    "name": "Woodvale",
+    "country": "AU",
+    "lat": -31.78928,
+    "lng": 115.79676
+  },
+  {
+    "name": "Woodberry",
+    "country": "AU",
+    "lat": -32.79311,
+    "lng": 151.67687
+  },
+  {
+    "name": "Woongarrah",
+    "country": "AU",
+    "lat": -33.24134,
+    "lng": 151.47563
+  },
+  {
+    "name": "Wondunna",
+    "country": "AU",
+    "lat": -25.31758,
+    "lng": 152.85912
+  },
+  {
+    "name": "Woodpark",
+    "country": "AU",
+    "lat": -33.84137,
+    "lng": 150.96055
+  },
+  {
+    "name": "Woodend",
+    "country": "AU",
+    "lat": -27.60554,
+    "lng": 152.75307
+  },
+  {
+    "name": "Woodbine",
+    "country": "AU",
+    "lat": -34.04589,
+    "lng": 150.82146
+  },
+  {
+    "name": "Woodrising",
+    "country": "AU",
+    "lat": -32.98595,
+    "lng": 151.60657
+  },
+  {
+    "name": "Woodcroft",
+    "country": "AU",
+    "lat": -33.75637,
+    "lng": 150.88071
+  },
+  {
+    "name": "Wollstonecraft",
+    "country": "AU",
+    "lat": -33.8328,
+    "lng": 151.18981
+  },
+  {
+    "name": "Woronora Heights",
+    "country": "AU",
+    "lat": -34.03562,
+    "lng": 151.02734
+  },
+  {
+    "name": "Woodville North",
+    "country": "AU",
+    "lat": -34.872,
+    "lng": 138.54309
+  },
+  {
+    "name": "Woodville Park",
+    "country": "AU",
+    "lat": -34.88696,
+    "lng": 138.54648
+  },
+  {
+    "name": "Woodville South",
+    "country": "AU",
+    "lat": -34.88186,
+    "lng": 138.53477
+  },
+  {
+    "name": "Woodville West",
+    "country": "AU",
+    "lat": -34.8864,
+    "lng": 138.53095
+  },
+  {
+    "name": "Woodville Gardens",
+    "country": "AU",
+    "lat": -34.86788,
+    "lng": 138.54798
+  },
+  {
+    "name": "Woodbridge",
+    "country": "AU",
+    "lat": -31.88695,
+    "lng": 115.99196
+  },
+  {
+    "name": "Wollongong city centre",
+    "country": "AU",
+    "lat": -34.4279,
+    "lng": 150.89268
+  },
+  {
+    "name": "Woumen",
+    "country": "BE",
+    "lat": 51.00145,
+    "lng": 2.86965
+  },
+  {
+    "name": "Wortel",
+    "country": "BE",
+    "lat": 51.39827,
+    "lng": 4.7946
+  },
+  {
+    "name": "Wortegem",
+    "country": "BE",
+    "lat": 50.85357,
+    "lng": 3.51
+  },
+  {
+    "name": "Wondelgem",
+    "country": "BE",
+    "lat": 51.08705,
+    "lng": 3.70909
+  },
+  {
+    "name": "Wonck",
+    "country": "BE",
+    "lat": 50.76687,
+    "lng": 5.6362
+  },
+  {
+    "name": "Wommersom",
+    "country": "BE",
+    "lat": 50.81266,
+    "lng": 5.01771
+  },
+  {
+    "name": "Wommelgem",
+    "country": "BE",
+    "lat": 51.20452,
+    "lng": 4.5225
+  },
+  {
+    "name": "Wolvertem",
+    "country": "BE",
+    "lat": 50.95172,
+    "lng": 4.30964
+  },
+  {
+    "name": "Woluwe-Saint-Lambert",
+    "country": "BE",
+    "lat": 50.84389,
+    "lng": 4.42912
+  },
+  {
+    "name": "Wolkrange",
+    "country": "BE",
+    "lat": 49.62882,
+    "lng": 5.79877
+  },
+  {
+    "name": "Woesten",
+    "country": "BE",
+    "lat": 50.89971,
+    "lng": 2.78959
+  },
+  {
+    "name": "Wodecq",
+    "country": "BE",
+    "lat": 50.71805,
+    "lng": 3.74649
+  },
+  {
+    "name": "Woburn",
+    "country": "CA",
+    "lat": 43.76657,
+    "lng": -79.22773
+  },
+  {
+    "name": "Wolfville",
+    "country": "CA",
+    "lat": 45.08345,
+    "lng": -64.36546
+  },
+  {
+    "name": "Woodstock",
+    "country": "CA",
+    "lat": 46.15796,
+    "lng": -67.58377
+  },
+  {
+    "name": "Woodstock",
+    "country": "CA",
+    "lat": 43.13339,
+    "lng": -80.7497
+  },
+  {
+    "name": "Woodbine Corridor",
+    "country": "CA",
+    "lat": 43.67836,
+    "lng": -79.31571
+  },
+  {
+    "name": "Woodbine-Lumsden",
+    "country": "CA",
+    "lat": 43.69214,
+    "lng": -79.3097
+  },
+  {
+    "name": "Woodwards",
+    "country": "CA",
+    "lat": 49.14675,
+    "lng": -123.15489
+  },
+  {
+    "name": "Worben",
+    "country": "CH",
+    "lat": 47.10279,
+    "lng": 7.29518
+  },
+  {
+    "name": "Worb",
+    "country": "CH",
+    "lat": 46.92984,
+    "lng": 7.56306
+  },
+  {
+    "name": "Wollerau",
+    "country": "CH",
+    "lat": 47.19478,
+    "lng": 8.71903
+  },
+  {
+    "name": "Wolhusen",
+    "country": "CH",
+    "lat": 47.05983,
+    "lng": 8.07389
+  },
+  {
+    "name": "Wolfwil",
+    "country": "CH",
+    "lat": 47.26871,
+    "lng": 7.79652
+  },
+  {
+    "name": "Wolfenschiessen",
+    "country": "CH",
+    "lat": 46.90322,
+    "lng": 8.39423
+  },
+  {
+    "name": "Wohlen",
+    "country": "CH",
+    "lat": 47.35066,
+    "lng": 8.27517
+  },
+  {
+    "name": "Wohlen",
+    "country": "CH",
+    "lat": 46.97118,
+    "lng": 7.35685
+  },
+  {
+    "name": "Wolfhausen",
+    "country": "CH",
+    "lat": 47.25619,
+    "lng": 8.7991
+  },
+  {
+    "name": "Worosantyakaha",
+    "country": "CI",
+    "lat": 9.70657,
+    "lng": -5.08761
+  },
+  {
+    "name": "Worofla",
+    "country": "CI",
+    "lat": 8.27335,
+    "lng": -6.90555
+  },
+  {
+    "name": "Wora",
+    "country": "CI",
+    "lat": 10.08407,
+    "lng": -6.32683
+  },
+  {
+    "name": "Wongé",
+    "country": "CI",
+    "lat": 8.32675,
+    "lng": -6.57449
+  },
+  {
+    "name": "Womon",
+    "country": "CI",
+    "lat": 10.13068,
+    "lng": -6.37496
+  },
+  {
+    "name": "Wombolo",
+    "country": "CI",
+    "lat": 9.37156,
+    "lng": -5.96758
+  },
+  {
+    "name": "Wodoro",
+    "country": "CI",
+    "lat": 9.63079,
+    "lng": -5.75742
+  },
+  {
+    "name": "Wogninkro",
+    "country": "CI",
+    "lat": 5.35553,
+    "lng": -3.45451
+  },
+  {
+    "name": "Wonséaly",
+    "country": "CI",
+    "lat": 6.17149,
+    "lng": -7.03729
+  },
+  {
+    "name": "Wofo",
+    "country": "CN",
+    "lat": 29.90825,
+    "lng": 105.78706
+  },
+  {
+    "name": "Worringen",
+    "country": "DE",
+    "lat": 51.065,
+    "lng": 6.85936
+  },
+  {
+    "name": "Worpswede",
+    "country": "DE",
+    "lat": 53.21667,
+    "lng": 8.93333
+  },
+  {
+    "name": "Worms",
+    "country": "DE",
+    "lat": 49.63278,
+    "lng": 8.35916
+  },
+  {
+    "name": "Woringen",
+    "country": "DE",
+    "lat": 47.91667,
+    "lng": 10.2
+  },
+  {
+    "name": "Worbis",
+    "country": "DE",
+    "lat": 51.41997,
+    "lng": 10.3633
+  },
+  {
+    "name": "Wonsees",
+    "country": "DE",
+    "lat": 49.97614,
+    "lng": 11.30047
+  },
+  {
+    "name": "Wonfurt",
+    "country": "DE",
+    "lat": 50.01667,
+    "lng": 10.46667
+  },
+  {
+    "name": "Woltersdorf",
+    "country": "DE",
+    "lat": 52.95,
+    "lng": 11.21667
+  },
+  {
+    "name": "Woltersdorf",
+    "country": "DE",
+    "lat": 52.45554,
+    "lng": 13.74986
+  },
+  {
+    "name": "Wolsdorf",
+    "country": "DE",
+    "lat": 52.19098,
+    "lng": 10.93878
+  },
+  {
+    "name": "Wolpertswende",
+    "country": "DE",
+    "lat": 47.89471,
+    "lng": 9.61202
+  },
+  {
+    "name": "Wolpertshausen",
+    "country": "DE",
+    "lat": 49.1675,
+    "lng": 9.84472
+  },
+  {
+    "name": "Wolnzach",
+    "country": "DE",
+    "lat": 48.6038,
+    "lng": 11.62568
+  },
+  {
+    "name": "Wolmirstedt",
+    "country": "DE",
+    "lat": 52.24856,
+    "lng": 11.62945
+  },
+  {
+    "name": "Wolmirsleben",
+    "country": "DE",
+    "lat": 51.95,
+    "lng": 11.48333
+  },
+  {
+    "name": "Wollmatingen",
+    "country": "DE",
+    "lat": 47.69226,
+    "lng": 9.14595
+  },
+  {
+    "name": "Wollbach",
+    "country": "DE",
+    "lat": 50.36667,
+    "lng": 10.23333
+  },
+  {
+    "name": "Wolkramshausen",
+    "country": "DE",
+    "lat": 51.42185,
+    "lng": 10.73815
+  },
+  {
+    "name": "Wolkenstein",
+    "country": "DE",
+    "lat": 50.65552,
+    "lng": 13.07132
+  },
+  {
+    "name": "Wolken",
+    "country": "DE",
+    "lat": 50.33333,
+    "lng": 7.46667
+  },
+  {
+    "name": "Wolgast",
+    "country": "DE",
+    "lat": 54.052,
+    "lng": 13.77105
+  },
+  {
+    "name": "Wolfstein",
+    "country": "DE",
+    "lat": 49.58411,
+    "lng": 7.60496
+  },
+  {
+    "name": "Wolfsegg",
+    "country": "DE",
+    "lat": 49.10731,
+    "lng": 11.9781
+  },
+  {
+    "name": "Wolfschlugen",
+    "country": "DE",
+    "lat": 48.65,
+    "lng": 9.28333
+  },
+  {
+    "name": "Wolfsburg",
+    "country": "DE",
+    "lat": 52.42452,
+    "lng": 10.7815
+  },
+  {
+    "name": "Wolfratshausen",
+    "country": "DE",
+    "lat": 47.91289,
+    "lng": 11.42166
+  },
+  {
+    "name": "Wolframs-Eschenbach",
+    "country": "DE",
+    "lat": 49.22675,
+    "lng": 10.72769
+  },
+  {
+    "name": "Wolfhagen",
+    "country": "DE",
+    "lat": 51.32611,
+    "lng": 9.17015
+  },
+  {
+    "name": "Wolfertschwenden",
+    "country": "DE",
+    "lat": 47.8935,
+    "lng": 10.26715
+  },
+  {
+    "name": "Wolferstadt",
+    "country": "DE",
+    "lat": 48.90352,
+    "lng": 10.78129
+  },
+  {
+    "name": "Wolfersdorf",
+    "country": "DE",
+    "lat": 48.47937,
+    "lng": 11.70949
+  },
+  {
+    "name": "Wolferode",
+    "country": "DE",
+    "lat": 51.5065,
+    "lng": 11.51299
+  },
+  {
+    "name": "Wolfenbüttel",
+    "country": "DE",
+    "lat": 52.16442,
+    "lng": 10.54095
+  },
+  {
+    "name": "Wolfen",
+    "country": "DE",
+    "lat": 51.66122,
+    "lng": 12.26873
+  },
+  {
+    "name": "Wolfegg",
+    "country": "DE",
+    "lat": 47.8203,
+    "lng": 9.79491
+  },
+  {
+    "name": "Wolfach",
+    "country": "DE",
+    "lat": 48.29319,
+    "lng": 8.2158
+  },
+  {
+    "name": "Woldegk",
+    "country": "DE",
+    "lat": 53.46058,
+    "lng": 13.58356
+  },
+  {
+    "name": "Wohnbach",
+    "country": "DE",
+    "lat": 50.42864,
+    "lng": 8.82923
+  },
+  {
+    "name": "Wohltorf",
+    "country": "DE",
+    "lat": 53.51667,
+    "lng": 10.28333
+  },
+  {
+    "name": "Wohldorf-Ohlstedt",
+    "country": "DE",
+    "lat": 53.69282,
+    "lng": 10.13117
+  },
+  {
+    "name": "Woodford Hill",
+    "country": "DM",
+    "lat": 15.58093,
+    "lng": -61.33149
+  },
+  {
+    "name": "Wonji",
+    "country": "ET",
+    "lat": 8.4541,
+    "lng": 39.21752
+  },
+  {
+    "name": "Worabe",
+    "country": "ET",
+    "lat": 7.85257,
+    "lng": 38.18529
+  },
+  {
+    "name": "Woustviller",
+    "country": "FR",
+    "lat": 49.07636,
+    "lng": 7.00487
+  },
+  {
+    "name": "Wormhout",
+    "country": "FR",
+    "lat": 50.88129,
+    "lng": 2.46901
+  },
+  {
+    "name": "Wolfisheim",
+    "country": "FR",
+    "lat": 48.58723,
+    "lng": 7.66708
+  },
+  {
+    "name": "Wolfgantzen",
+    "country": "FR",
+    "lat": 48.02805,
+    "lng": 7.5004
+  },
+  {
+    "name": "Woippy",
+    "country": "FR",
+    "lat": 49.15111,
+    "lng": 6.15132
+  },
+  {
+    "name": "Woincourt",
+    "country": "FR",
+    "lat": 50.0663,
+    "lng": 1.53676
+  },
+  {
+    "name": "Woerth",
+    "country": "FR",
+    "lat": 48.93953,
+    "lng": 7.74279
+  },
+  {
+    "name": "Wouldham",
+    "country": "GB",
+    "lat": 51.34986,
+    "lng": 0.45816
+  },
+  {
+    "name": "Wotton-under-Edge",
+    "country": "GB",
+    "lat": 51.63242,
+    "lng": -2.34512
+  },
+  {
+    "name": "Worton",
+    "country": "GB",
+    "lat": 51.31611,
+    "lng": -2.04111
+  },
+  {
+    "name": "Wortley",
+    "country": "GB",
+    "lat": 53.48333,
+    "lng": -1.53333
+  },
+  {
+    "name": "Worthing",
+    "country": "GB",
+    "lat": 50.81795,
+    "lng": -0.37538
+  },
+  {
+    "name": "Worlaby",
+    "country": "GB",
+    "lat": 53.6113,
+    "lng": -0.46685
+  },
+  {
+    "name": "Worksop",
+    "country": "GB",
+    "lat": 53.30182,
+    "lng": -1.12404
+  },
+  {
+    "name": "Workington",
+    "country": "GB",
+    "lat": 54.6425,
+    "lng": -3.54413
+  },
+  {
+    "name": "Worcester Park",
+    "country": "GB",
+    "lat": 51.37992,
+    "lng": -0.24445
+  },
+  {
+    "name": "Worcester",
+    "country": "GB",
+    "lat": 52.18935,
+    "lng": -2.22001
+  },
+  {
+    "name": "Wootton",
+    "country": "GB",
+    "lat": 53.63021,
+    "lng": -0.35328
+  },
+  {
+    "name": "Wootton",
+    "country": "GB",
+    "lat": 52.09525,
+    "lng": -0.53494
+  },
+  {
+    "name": "Wootton",
+    "country": "GB",
+    "lat": 51.1738,
+    "lng": 1.1794
+  },
+  {
+    "name": "Wootton",
+    "country": "GB",
+    "lat": 50.72847,
+    "lng": -1.23536
+  },
+  {
+    "name": "Woolwich",
+    "country": "GB",
+    "lat": 51.491,
+    "lng": 0.0648
+  },
+  {
+    "name": "Woolton",
+    "country": "GB",
+    "lat": 53.37401,
+    "lng": -2.87
+  },
+  {
+    "name": "Woolston",
+    "country": "GB",
+    "lat": 50.89305,
+    "lng": -1.37801
+  },
+  {
+    "name": "Woolpit",
+    "country": "GB",
+    "lat": 52.22454,
+    "lng": 0.88826
+  },
+  {
+    "name": "Woolley",
+    "country": "GB",
+    "lat": 53.61339,
+    "lng": -1.51457
+  },
+  {
+    "name": "Wooler",
+    "country": "GB",
+    "lat": 55.54755,
+    "lng": -2.01186
+  },
+  {
+    "name": "Wool",
+    "country": "GB",
+    "lat": 50.67966,
+    "lng": -2.2189
+  },
+  {
+    "name": "Woodstock",
+    "country": "GB",
+    "lat": 51.8485,
+    "lng": -1.35132
+  },
+  {
+    "name": "Woodsetts",
+    "country": "GB",
+    "lat": 53.34804,
+    "lng": -1.17204
+  },
+  {
+    "name": "Woodley",
+    "country": "GB",
+    "lat": 51.45,
+    "lng": -0.88333
+  },
+  {
+    "name": "Woodhall Spa",
+    "country": "GB",
+    "lat": 53.15215,
+    "lng": -0.21453
+  },
+  {
+    "name": "Wood Green",
+    "country": "GB",
+    "lat": 51.6,
+    "lng": -0.11667
+  },
+  {
+    "name": "Woodford Green",
+    "country": "GB",
+    "lat": 51.60938,
+    "lng": 0.02329
+  },
+  {
+    "name": "Woodford",
+    "country": "GB",
+    "lat": 52.38231,
+    "lng": -0.58099
+  },
+  {
+    "name": "Woodford",
+    "country": "GB",
+    "lat": 51.11667,
+    "lng": -1.83333
+  },
+  {
+    "name": "Woodcote",
+    "country": "GB",
+    "lat": 52.73333,
+    "lng": -2.33333
+  },
+  {
+    "name": "Woodchurch",
+    "country": "GB",
+    "lat": 51.07605,
+    "lng": 0.77346
+  },
+  {
+    "name": "Woodbridge",
+    "country": "GB",
+    "lat": 52.09332,
+    "lng": 1.32042
+  },
+  {
+    "name": "Woodborough",
+    "country": "GB",
+    "lat": 51.33852,
+    "lng": -1.83976
+  },
+  {
+    "name": "Wooburn",
+    "country": "GB",
+    "lat": 51.57888,
+    "lng": -0.693
+  },
+  {
+    "name": "Wombwell",
+    "country": "GB",
+    "lat": 53.52189,
+    "lng": -1.39698
+  },
+  {
+    "name": "Wombourne",
+    "country": "GB",
+    "lat": 52.53333,
+    "lng": -2.18333
+  },
+  {
+    "name": "Wolverhampton",
+    "country": "GB",
+    "lat": 52.58547,
+    "lng": -2.12296
+  },
+  {
+    "name": "Wolston",
+    "country": "GB",
+    "lat": 52.37717,
+    "lng": -1.39544
+  },
+  {
+    "name": "Wolsingham",
+    "country": "GB",
+    "lat": 54.73085,
+    "lng": -1.88319
+  },
+  {
+    "name": "Wollaston",
+    "country": "GB",
+    "lat": 52.25794,
+    "lng": -0.67038
+  },
+  {
+    "name": "Wold Newton",
+    "country": "GB",
+    "lat": 54.1428,
+    "lng": -0.39993
+  },
+  {
+    "name": "Wold Newton",
+    "country": "GB",
+    "lat": 53.45,
+    "lng": -0.13333
+  },
+  {
+    "name": "Woldingham",
+    "country": "GB",
+    "lat": 51.28527,
+    "lng": -0.03372
+  },
+  {
+    "name": "Wokingham",
+    "country": "GB",
+    "lat": 51.4112,
+    "lng": -0.83565
+  },
+  {
+    "name": "Woking",
+    "country": "GB",
+    "lat": 51.31903,
+    "lng": -0.55893
+  },
+  {
+    "name": "Woburn Sands",
+    "country": "GB",
+    "lat": 52.01579,
+    "lng": -0.64982
+  },
+  {
+    "name": "Woburn",
+    "country": "GB",
+    "lat": 51.98865,
+    "lng": -0.61903
+  },
+  {
+    "name": "Woolavington",
+    "country": "GB",
+    "lat": 51.16493,
+    "lng": -2.93814
+  },
+  {
+    "name": "Woodbury",
+    "country": "GB",
+    "lat": 50.67664,
+    "lng": -3.4016
+  },
+  {
+    "name": "Wormley",
+    "country": "GB",
+    "lat": 51.13622,
+    "lng": -0.64673
+  },
+  {
+    "name": "Wood Street Village",
+    "country": "GB",
+    "lat": 51.25098,
+    "lng": -0.63695
+  },
+  {
+    "name": "Wolvercote",
+    "country": "GB",
+    "lat": 51.78406,
+    "lng": -1.29338
+  },
+  {
+    "name": "World's End",
+    "country": "GB",
+    "lat": 51.65746,
+    "lng": -0.10955
+  },
+  {
+    "name": "Wooburn Green",
+    "country": "GB",
+    "lat": 51.58776,
+    "lng": -0.67935
+  },
+  {
+    "name": "Woodside",
+    "country": "GB",
+    "lat": 51.69443,
+    "lng": -0.40171
+  },
+  {
+    "name": "Wong Tai Sin",
+    "country": "HK",
+    "lat": 22.35,
+    "lng": 114.18333
+  },
+  {
+    "name": "Wo Che",
+    "country": "HK",
+    "lat": 22.39016,
+    "lng": 114.19217
+  },
+  {
+    "name": "Wong Chuk Hang",
+    "country": "HK",
+    "lat": 22.23981,
+    "lng": 114.17001
+  },
+  {
+    "name": "Wotu",
+    "country": "ID",
+    "lat": -2.5906,
+    "lng": 120.804
+  },
+  {
+    "name": "Wori",
+    "country": "ID",
+    "lat": 1.59714,
+    "lng": 124.85246
+  },
+  {
+    "name": "Wonosobo",
+    "country": "ID",
+    "lat": -7.35889,
+    "lng": 109.90306
+  },
+  {
+    "name": "Wonosari",
+    "country": "ID",
+    "lat": -7.96556,
+    "lng": 110.60361
+  },
+  {
+    "name": "Wonorejo",
+    "country": "ID",
+    "lat": -2.4937,
+    "lng": 120.8126
+  },
+  {
+    "name": "Wonopringgo",
+    "country": "ID",
+    "lat": -6.98333,
+    "lng": 109.61667
+  },
+  {
+    "name": "Wonogiri",
+    "country": "ID",
+    "lat": -7.81444,
+    "lng": 110.92056
+  },
+  {
+    "name": "Wongsorejo",
+    "country": "ID",
+    "lat": -7.9908,
+    "lng": 114.4009
+  },
+  {
+    "name": "Wolowaru",
+    "country": "ID",
+    "lat": -8.7835,
+    "lng": 121.886
+  },
+  {
+    "name": "Wonotirto",
+    "country": "ID",
+    "lat": -8.2245,
+    "lng": 112.154
+  },
+  {
+    "name": "Wolowona",
+    "country": "ID",
+    "lat": -8.8322,
+    "lng": 121.6765
+  },
+  {
+    "name": "Woja",
+    "country": "ID",
+    "lat": -8.6366,
+    "lng": 118.3542
+  },
+  {
+    "name": "Woha",
+    "country": "ID",
+    "lat": -8.61802,
+    "lng": 118.64788
+  },
+  {
+    "name": "Wokha",
+    "country": "IN",
+    "lat": 26.09717,
+    "lng": 94.25817
+  },
+  {
+    "name": "Worthi",
+    "country": "IN",
+    "lat": 21.24013,
+    "lng": 79.64424
+  },
+  {
+    "name": "Wote",
+    "country": "KE",
+    "lat": -1.78079,
+    "lng": 37.62882
+  },
+  {
+    "name": "Wolgot",
+    "country": "KR",
+    "lat": 37.71646,
+    "lng": 126.55429
+  },
+  {
+    "name": "Wormeldange",
+    "country": "LU",
+    "lat": 49.61114,
+    "lng": 6.40546
+  },
+  {
+    "name": "Wotje",
+    "country": "MH",
+    "lat": 9.45429,
+    "lng": 170.23674
+  },
+  {
+    "name": "Wotho",
+    "country": "MH",
+    "lat": 10.16575,
+    "lng": 166.01022
+  },
+  {
+    "name": "Wouw",
+    "country": "NL",
+    "lat": 51.52167,
+    "lng": 4.39028
+  },
+  {
+    "name": "Woudsend",
+    "country": "NL",
+    "lat": 52.94357,
+    "lng": 5.62843
+  },
+  {
+    "name": "Woudrichem",
+    "country": "NL",
+    "lat": 51.815,
+    "lng": 5.00139
+  },
+  {
+    "name": "Woudenberg",
+    "country": "NL",
+    "lat": 52.08083,
+    "lng": 5.41667
+  },
+  {
+    "name": "Woubrugge",
+    "country": "NL",
+    "lat": 52.17,
+    "lng": 4.63611
+  },
+  {
+    "name": "Workum",
+    "country": "NL",
+    "lat": 52.97969,
+    "lng": 5.4471
+  },
+  {
+    "name": "Wooldrik",
+    "country": "NL",
+    "lat": 52.21667,
+    "lng": 6.91667
+  },
+  {
+    "name": "Woolde",
+    "country": "NL",
+    "lat": 52.2721,
+    "lng": 6.75891
+  },
+  {
+    "name": "Wommels",
+    "country": "NL",
+    "lat": 53.10883,
+    "lng": 5.58749
+  },
+  {
+    "name": "Wolvega",
+    "country": "NL",
+    "lat": 52.87545,
+    "lng": 5.99691
+  },
+  {
+    "name": "Wolphaartsdijk",
+    "country": "NL",
+    "lat": 51.53167,
+    "lng": 3.81944
+  },
+  {
+    "name": "Wolfsbos",
+    "country": "NL",
+    "lat": 52.71734,
+    "lng": 6.49881
+  },
+  {
+    "name": "Wolfheze",
+    "country": "NL",
+    "lat": 52.00333,
+    "lng": 5.79028
+  },
+  {
+    "name": "Wolder",
+    "country": "NL",
+    "lat": 50.83752,
+    "lng": 5.65938
+  },
+  {
+    "name": "Woerden",
+    "country": "NL",
+    "lat": 52.085,
+    "lng": 4.88333
+  },
+  {
+    "name": "Woenselse Heide",
+    "country": "NL",
+    "lat": 51.48333,
+    "lng": 5.46667
+  },
+  {
+    "name": "Woensdrecht",
+    "country": "NL",
+    "lat": 51.42897,
+    "lng": 4.30355
+  },
+  {
+    "name": "Woudhuis",
+    "country": "NL",
+    "lat": 52.21323,
+    "lng": 6.01124
+  },
+  {
+    "name": "Woodend",
+    "country": "NZ",
+    "lat": -43.31667,
+    "lng": 172.66667
+  },
+  {
+    "name": "Woodville",
+    "country": "NZ",
+    "lat": -40.33719,
+    "lng": 175.86678
+  },
+  {
+    "name": "Woodlands Park",
+    "country": "NZ",
+    "lat": -36.9482,
+    "lng": 174.62019
+  },
+  {
+    "name": "Woburn",
+    "country": "NZ",
+    "lat": -41.21827,
+    "lng": 174.90019
+  },
+  {
+    "name": "Woodridge",
+    "country": "NZ",
+    "lat": -41.21692,
+    "lng": 174.83072
+  },
+  {
+    "name": "Wołomin",
+    "country": "PL",
+    "lat": 52.34006,
+    "lng": 21.24207
+  },
+  {
+    "name": "Wola Żarczycka",
+    "country": "PL",
+    "lat": 50.2912,
+    "lng": 22.25023
+  },
+  {
+    "name": "Wola Zabierzowska",
+    "country": "PL",
+    "lat": 50.07257,
+    "lng": 20.33217
+  },
+  {
+    "name": "Wola Uhruska",
+    "country": "PL",
+    "lat": 51.32139,
+    "lng": 23.62627
+  },
+  {
+    "name": "Wola Sernicka",
+    "country": "PL",
+    "lat": 51.44978,
+    "lng": 22.68351
+  },
+  {
+    "name": "Wola Rębkowska",
+    "country": "PL",
+    "lat": 51.90181,
+    "lng": 21.55818
+  },
+  {
+    "name": "Wolanów",
+    "country": "PL",
+    "lat": 51.3803,
+    "lng": 20.97702
+  },
+  {
+    "name": "Wola Jachowa",
+    "country": "PL",
+    "lat": 50.84524,
+    "lng": 20.85814
+  },
+  {
+    "name": "Wola Dębińska",
+    "country": "PL",
+    "lat": 49.98214,
+    "lng": 20.68777
+  },
+  {
+    "name": "Wola Batorska",
+    "country": "PL",
+    "lat": 50.05262,
+    "lng": 20.26617
+  },
+  {
+    "name": "Wola",
+    "country": "PL",
+    "lat": 52.23477,
+    "lng": 20.96004
+  },
+  {
+    "name": "Wojsławice",
+    "country": "PL",
+    "lat": 50.91916,
+    "lng": 23.54602
+  },
+  {
+    "name": "Wojnicz",
+    "country": "PL",
+    "lat": 49.958,
+    "lng": 20.83785
+  },
+  {
+    "name": "Wojcieszków",
+    "country": "PL",
+    "lat": 51.76922,
+    "lng": 22.31589
+  },
+  {
+    "name": "Wojciechowice",
+    "country": "PL",
+    "lat": 50.84226,
+    "lng": 21.58942
+  },
+  {
+    "name": "Wojciechów",
+    "country": "PL",
+    "lat": 51.23543,
+    "lng": 22.24551
+  },
+  {
+    "name": "Wojaszówka",
+    "country": "PL",
+    "lat": 49.77777,
+    "lng": 21.67079
+  },
+  {
+    "name": "Wohyń",
+    "country": "PL",
+    "lat": 51.75642,
+    "lng": 22.78582
+  },
+  {
+    "name": "Wodzisław",
+    "country": "PL",
+    "lat": 50.52047,
+    "lng": 20.1915
+  },
+  {
+    "name": "Wodynie",
+    "country": "PL",
+    "lat": 52.0404,
+    "lng": 21.95575
+  },
+  {
+    "name": "Wożniki",
+    "country": "PL",
+    "lat": 50.58934,
+    "lng": 19.05991
+  },
+  {
+    "name": "Woźniki",
+    "country": "PL",
+    "lat": 49.93774,
+    "lng": 19.49078
+  },
+  {
+    "name": "Wolsztyn",
+    "country": "PL",
+    "lat": 52.11552,
+    "lng": 16.11712
+  },
+  {
+    "name": "Wołowice",
+    "country": "PL",
+    "lat": 49.98876,
+    "lng": 19.7263
+  },
+  {
+    "name": "Wołów",
+    "country": "PL",
+    "lat": 51.33656,
+    "lng": 16.64429
+  },
+  {
+    "name": "Wolin",
+    "country": "PL",
+    "lat": 53.84214,
+    "lng": 14.61465
+  },
+  {
+    "name": "Wołczyn",
+    "country": "PL",
+    "lat": 51.01845,
+    "lng": 18.04994
+  },
+  {
+    "name": "Wolbrom",
+    "country": "PL",
+    "lat": 50.37957,
+    "lng": 19.75831
+  },
+  {
+    "name": "Wolbórz",
+    "country": "PL",
+    "lat": 51.50196,
+    "lng": 19.83049
+  },
+  {
+    "name": "Wola Radziszowska",
+    "country": "PL",
+    "lat": 49.90558,
+    "lng": 19.78827
+  },
+  {
+    "name": "Wola Krzysztoporska",
+    "country": "PL",
+    "lat": 51.34418,
+    "lng": 19.5809
+  },
+  {
+    "name": "Wola Filipowska",
+    "country": "PL",
+    "lat": 50.13433,
+    "lng": 19.58013
+  },
+  {
+    "name": "Wola",
+    "country": "PL",
+    "lat": 50.01745,
+    "lng": 19.12333
+  },
+  {
+    "name": "Wojkowice",
+    "country": "PL",
+    "lat": 50.36509,
+    "lng": 19.03652
+  },
+  {
+    "name": "Wojcieszów",
+    "country": "PL",
+    "lat": 50.95194,
+    "lng": 15.92185
+  },
+  {
+    "name": "Wodzisław Śląski",
+    "country": "PL",
+    "lat": 50.00377,
+    "lng": 18.47205
+  },
+  {
+    "name": "Wodzierady",
+    "country": "PL",
+    "lat": 51.71826,
+    "lng": 19.15123
+  },
+  {
+    "name": "Wojszyce",
+    "country": "PL",
+    "lat": 51.05837,
+    "lng": 17.04513
+  },
+  {
+    "name": "Woodlands",
+    "country": "SG",
+    "lat": 1.43801,
+    "lng": 103.78877
+  },
+  {
+    "name": "Woodlands North Coast",
+    "country": "SG",
+    "lat": 1.45102,
+    "lng": 103.78373
+  },
+  {
+    "name": "Wong Sawang",
+    "country": "TH",
+    "lat": 13.81671,
+    "lng": 100.51587
+  },
+  {
+    "name": "Wobulenzi",
+    "country": "UG",
+    "lat": 0.72833,
+    "lng": 32.51222
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 33.20678,
+    "lng": -87.15
+  },
+  {
+    "name": "Woodley Park",
+    "country": "US",
+    "lat": 38.92872,
+    "lng": -77.05581
+  },
+  {
+    "name": "Woodridge",
+    "country": "US",
+    "lat": 38.93122,
+    "lng": -76.97109
+  },
+  {
+    "name": "Woodlawn Beach",
+    "country": "US",
+    "lat": 30.38825,
+    "lng": -86.9908
+  },
+  {
+    "name": "Woodville",
+    "country": "US",
+    "lat": 30.31409,
+    "lng": -84.2474
+  },
+  {
+    "name": "Woodbine",
+    "country": "US",
+    "lat": 30.96396,
+    "lng": -81.72416
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 34.10149,
+    "lng": -84.51938
+  },
+  {
+    "name": "Wood River",
+    "country": "US",
+    "lat": 38.86116,
+    "lng": -90.09761
+  },
+  {
+    "name": "Worden",
+    "country": "US",
+    "lat": 38.93144,
+    "lng": -89.83899
+  },
+  {
+    "name": "Worthington",
+    "country": "US",
+    "lat": 39.12504,
+    "lng": -86.97945
+  },
+  {
+    "name": "Worthington",
+    "country": "US",
+    "lat": 38.54841,
+    "lng": -82.72433
+  },
+  {
+    "name": "Worthington Hills",
+    "country": "US",
+    "lat": 38.30896,
+    "lng": -85.5269
+  },
+  {
+    "name": "Worthington",
+    "country": "US",
+    "lat": 38.31562,
+    "lng": -85.56163
+  },
+  {
+    "name": "Woodmere",
+    "country": "US",
+    "lat": 29.85798,
+    "lng": -90.08035
+  },
+  {
+    "name": "Woodworth",
+    "country": "US",
+    "lat": 31.14658,
+    "lng": -92.49736
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 39.32288,
+    "lng": -76.72803
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 38.94956,
+    "lng": -76.89136
+  },
+  {
+    "name": "Woodmore",
+    "country": "US",
+    "lat": 38.92122,
+    "lng": -76.80303
+  },
+  {
+    "name": "Woodsboro",
+    "country": "US",
+    "lat": 39.53316,
+    "lng": -77.31471
+  },
+  {
+    "name": "Woodson Terrace",
+    "country": "US",
+    "lat": 38.72505,
+    "lng": -90.35845
+  },
+  {
+    "name": "Woodville",
+    "country": "US",
+    "lat": 31.10462,
+    "lng": -91.29956
+  },
+  {
+    "name": "Woodfin",
+    "country": "US",
+    "lat": 35.63344,
+    "lng": -82.58207
+  },
+  {
+    "name": "Wood-Lynne",
+    "country": "US",
+    "lat": 39.91734,
+    "lng": -75.09629
+  },
+  {
+    "name": "Woodbine",
+    "country": "US",
+    "lat": 39.24178,
+    "lng": -74.81517
+  },
+  {
+    "name": "Woodbury",
+    "country": "US",
+    "lat": 39.83817,
+    "lng": -75.15268
+  },
+  {
+    "name": "Woodbury Heights",
+    "country": "US",
+    "lat": 39.81706,
+    "lng": -75.15518
+  },
+  {
+    "name": "Woodstown",
+    "country": "US",
+    "lat": 39.6515,
+    "lng": -75.32825
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 39.252,
+    "lng": -84.47022
+  },
+  {
+    "name": "Woodsfield",
+    "country": "US",
+    "lat": 39.76257,
+    "lng": -81.11538
+  },
+  {
+    "name": "Woodward",
+    "country": "US",
+    "lat": 36.43365,
+    "lng": -99.39039
+  },
+  {
+    "name": "Woodlyn",
+    "country": "US",
+    "lat": 39.87233,
+    "lng": -75.33713
+  },
+  {
+    "name": "Woodfield",
+    "country": "US",
+    "lat": 34.05932,
+    "lng": -80.93092
+  },
+  {
+    "name": "Woodruff",
+    "country": "US",
+    "lat": 34.73957,
+    "lng": -82.03705
+  },
+  {
+    "name": "Woodbury",
+    "country": "US",
+    "lat": 35.82757,
+    "lng": -86.07166
+  },
+  {
+    "name": "Wolfe City",
+    "country": "US",
+    "lat": 33.37067,
+    "lng": -96.06886
+  },
+  {
+    "name": "Woodbranch",
+    "country": "US",
+    "lat": 30.18105,
+    "lng": -95.18882
+  },
+  {
+    "name": "Woodcreek",
+    "country": "US",
+    "lat": 30.02827,
+    "lng": -98.11112
+  },
+  {
+    "name": "Woodsboro",
+    "country": "US",
+    "lat": 28.23834,
+    "lng": -97.31999
+  },
+  {
+    "name": "Woodville",
+    "country": "US",
+    "lat": 30.7752,
+    "lng": -94.41548
+  },
+  {
+    "name": "Woodway",
+    "country": "US",
+    "lat": 31.506,
+    "lng": -97.20501
+  },
+  {
+    "name": "Wortham",
+    "country": "US",
+    "lat": 31.78794,
+    "lng": -96.46248
+  },
+  {
+    "name": "Wolf Trap",
+    "country": "US",
+    "lat": 38.93983,
+    "lng": -77.28609
+  },
+  {
+    "name": "Woodbridge",
+    "country": "US",
+    "lat": 38.65817,
+    "lng": -77.2497
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 36.72235,
+    "lng": -80.82285
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 38.71678,
+    "lng": -77.13276
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 38.88178,
+    "lng": -78.50584
+  },
+  {
+    "name": "Wolcott",
+    "country": "US",
+    "lat": 41.60232,
+    "lng": -72.98677
+  },
+  {
+    "name": "Woodbridge",
+    "country": "US",
+    "lat": 41.3526,
+    "lng": -73.00844
+  },
+  {
+    "name": "Woodbury",
+    "country": "US",
+    "lat": 41.54454,
+    "lng": -73.209
+  },
+  {
+    "name": "Woodmont",
+    "country": "US",
+    "lat": 41.22815,
+    "lng": -72.99149
+  },
+  {
+    "name": "Woodbine",
+    "country": "US",
+    "lat": 41.73832,
+    "lng": -95.70278
+  },
+  {
+    "name": "Woodward",
+    "country": "US",
+    "lat": 41.85693,
+    "lng": -93.9219
+  },
+  {
+    "name": "Wonder Lake",
+    "country": "US",
+    "lat": 42.3853,
+    "lng": -88.34731
+  },
+  {
+    "name": "Wood Dale",
+    "country": "US",
+    "lat": 41.96336,
+    "lng": -87.97896
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 41.77948,
+    "lng": -87.59949
+  },
+  {
+    "name": "Woodridge",
+    "country": "US",
+    "lat": 41.74697,
+    "lng": -88.05034
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 42.31474,
+    "lng": -88.4487
+  },
+  {
+    "name": "Worth",
+    "country": "US",
+    "lat": 41.68975,
+    "lng": -87.79728
+  },
+  {
+    "name": "Wolcottville",
+    "country": "US",
+    "lat": 41.52588,
+    "lng": -85.36665
+  },
+  {
+    "name": "Woodburn",
+    "country": "US",
+    "lat": 41.12533,
+    "lng": -84.8533
+  },
+  {
+    "name": "Woburn",
+    "country": "US",
+    "lat": 42.47926,
+    "lng": -71.15228
+  },
+  {
+    "name": "Worcester",
+    "country": "US",
+    "lat": 42.26259,
+    "lng": -71.80229
+  },
+  {
+    "name": "Woolwich",
+    "country": "US",
+    "lat": 43.91869,
+    "lng": -69.80116
+  },
+  {
+    "name": "Wolf Lake",
+    "country": "US",
+    "lat": 43.25474,
+    "lng": -86.10978
+  },
+  {
+    "name": "Wolverine Lake",
+    "country": "US",
+    "lat": 42.5567,
+    "lng": -83.47383
+  },
+  {
+    "name": "Woodhaven",
+    "country": "US",
+    "lat": 42.13893,
+    "lng": -83.2416
+  },
+  {
+    "name": "Woodland Beach",
+    "country": "US",
+    "lat": 41.94005,
+    "lng": -83.31326
+  },
+  {
+    "name": "Woodbury",
+    "country": "US",
+    "lat": 44.92386,
+    "lng": -92.95938
+  },
+  {
+    "name": "Worthington",
+    "country": "US",
+    "lat": 43.61996,
+    "lng": -95.5964
+  },
+  {
+    "name": "Wood River",
+    "country": "US",
+    "lat": 40.82057,
+    "lng": -98.60007
+  },
+  {
+    "name": "Wolfeboro",
+    "country": "US",
+    "lat": 43.58397,
+    "lng": -71.20729
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 43.97757,
+    "lng": -71.68508
+  },
+  {
+    "name": "Woodsville",
+    "country": "US",
+    "lat": 44.15229,
+    "lng": -72.03731
+  },
+  {
+    "name": "Woodland Park",
+    "country": "US",
+    "lat": 40.88982,
+    "lng": -74.19487
+  },
+  {
+    "name": "Wood-Ridge",
+    "country": "US",
+    "lat": 40.84566,
+    "lng": -74.08792
+  },
+  {
+    "name": "Woodbridge",
+    "country": "US",
+    "lat": 40.5576,
+    "lng": -74.28459
+  },
+  {
+    "name": "Woodcliff Lake",
+    "country": "US",
+    "lat": 41.02343,
+    "lng": -74.06653
+  },
+  {
+    "name": "Wolcott",
+    "country": "US",
+    "lat": 43.22062,
+    "lng": -76.81496
+  },
+  {
+    "name": "Woodbury",
+    "country": "US",
+    "lat": 40.82565,
+    "lng": -73.46762
+  },
+  {
+    "name": "Woodbury",
+    "country": "US",
+    "lat": 41.36454,
+    "lng": -74.10598
+  },
+  {
+    "name": "Woodhaven",
+    "country": "US",
+    "lat": 40.68927,
+    "lng": -73.85791
+  },
+  {
+    "name": "Woodlawn",
+    "country": "US",
+    "lat": 40.89816,
+    "lng": -73.86736
+  },
+  {
+    "name": "Woodmere",
+    "country": "US",
+    "lat": 40.63205,
+    "lng": -73.71263
+  },
+  {
+    "name": "Woodrow",
+    "country": "US",
+    "lat": 40.5415,
+    "lng": -74.19106
+  },
+  {
+    "name": "Woodside",
+    "country": "US",
+    "lat": 40.74538,
+    "lng": -73.90541
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 42.04092,
+    "lng": -74.1182
+  },
+  {
+    "name": "Worcester",
+    "country": "US",
+    "lat": 42.59146,
+    "lng": -74.75043
+  },
+  {
+    "name": "Wolfhurst",
+    "country": "US",
+    "lat": 40.06924,
+    "lng": -80.7837
+  },
+  {
+    "name": "Woodville",
+    "country": "US",
+    "lat": 41.45144,
+    "lng": -83.36576
+  },
+  {
+    "name": "Wooster",
+    "country": "US",
+    "lat": 40.80517,
+    "lng": -81.93646
+  },
+  {
+    "name": "Worthington",
+    "country": "US",
+    "lat": 40.09312,
+    "lng": -83.01796
+  },
+  {
+    "name": "Wolfdale",
+    "country": "US",
+    "lat": 40.19285,
+    "lng": -80.28784
+  },
+  {
+    "name": "Womelsdorf",
+    "country": "US",
+    "lat": 40.36176,
+    "lng": -76.18411
+  },
+  {
+    "name": "Woodbourne",
+    "country": "US",
+    "lat": 40.19233,
+    "lng": -74.88878
+  },
+  {
+    "name": "Woodland Heights",
+    "country": "US",
+    "lat": 41.40978,
+    "lng": -79.71172
+  },
+  {
+    "name": "Woodside",
+    "country": "US",
+    "lat": 40.22178,
+    "lng": -74.87544
+  },
+  {
+    "name": "Wormleysburg",
+    "country": "US",
+    "lat": 40.26287,
+    "lng": -76.91386
+  },
+  {
+    "name": "Woxall",
+    "country": "US",
+    "lat": 40.31066,
+    "lng": -75.44879
+  },
+  {
+    "name": "Woonsocket",
+    "country": "US",
+    "lat": 42.00288,
+    "lng": -71.51478
+  },
+  {
+    "name": "Woonsocket",
+    "country": "US",
+    "lat": 44.0536,
+    "lng": -98.27564
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 43.62424,
+    "lng": -72.51843
+  },
+  {
+    "name": "Woodville",
+    "country": "US",
+    "lat": 44.95302,
+    "lng": -92.2913
+  },
+  {
+    "name": "Wofford Heights",
+    "country": "US",
+    "lat": 35.7069,
+    "lng": -118.4562
+  },
+  {
+    "name": "Woodacre",
+    "country": "US",
+    "lat": 38.0127,
+    "lng": -122.64526
+  },
+  {
+    "name": "Woodbridge",
+    "country": "US",
+    "lat": 38.15408,
+    "lng": -121.30134
+  },
+  {
+    "name": "Woodcrest",
+    "country": "US",
+    "lat": 33.88224,
+    "lng": -117.35727
+  },
+  {
+    "name": "Woodlake",
+    "country": "US",
+    "lat": 36.41356,
+    "lng": -119.09872
+  },
+  {
+    "name": "Woodland",
+    "country": "US",
+    "lat": 38.67852,
+    "lng": -121.7733
+  },
+  {
+    "name": "Woodland Hills",
+    "country": "US",
+    "lat": 34.16834,
+    "lng": -118.60592
+  },
+  {
+    "name": "Woodside",
+    "country": "US",
+    "lat": 37.42994,
+    "lng": -122.25386
+  },
+  {
+    "name": "Woodville",
+    "country": "US",
+    "lat": 36.09356,
+    "lng": -119.199
+  },
+  {
+    "name": "Woodland Park",
+    "country": "US",
+    "lat": 38.99388,
+    "lng": -105.05693
+  },
+  {
+    "name": "Woodmoor",
+    "country": "US",
+    "lat": 39.10138,
+    "lng": -104.84748
+  },
+  {
+    "name": "Wolfforth",
+    "country": "US",
+    "lat": 33.50592,
+    "lng": -102.00906
+  },
+  {
+    "name": "Wolf Point",
+    "country": "US",
+    "lat": 48.09057,
+    "lng": -105.64056
+  },
+  {
+    "name": "Wood Village",
+    "country": "US",
+    "lat": 45.53429,
+    "lng": -122.4187
+  },
+  {
+    "name": "Woodburn",
+    "country": "US",
+    "lat": 45.14373,
+    "lng": -122.85537
+  },
+  {
+    "name": "Wolf Creek",
+    "country": "US",
+    "lat": 41.33327,
+    "lng": -111.82716
+  },
+  {
+    "name": "Woodland Hills",
+    "country": "US",
+    "lat": 40.01532,
+    "lng": -111.64868
+  },
+  {
+    "name": "Woods Cross",
+    "country": "US",
+    "lat": 40.87161,
+    "lng": -111.89216
+  },
+  {
+    "name": "Wollochet",
+    "country": "US",
+    "lat": 47.26871,
+    "lng": -122.58402
+  },
+  {
+    "name": "Woodinville",
+    "country": "US",
+    "lat": 47.75427,
+    "lng": -122.16346
+  },
+  {
+    "name": "Woodland",
+    "country": "US",
+    "lat": 45.90456,
+    "lng": -122.74399
+  },
+  {
+    "name": "Woods Creek",
+    "country": "US",
+    "lat": 47.87871,
+    "lng": -121.89846
+  },
+  {
+    "name": "Woodway",
+    "country": "US",
+    "lat": 47.79621,
+    "lng": -122.38291
+  },
+  {
+    "name": "Worland",
+    "country": "US",
+    "lat": 44.0169,
+    "lng": -107.95537
+  },
+  {
+    "name": "Woodbury Center",
+    "country": "US",
+    "lat": 41.54453,
+    "lng": -73.20476
+  },
+  {
+    "name": "Woodside East",
+    "country": "US",
+    "lat": 39.06756,
+    "lng": -75.53748
+  },
+  {
+    "name": "Woodlake",
+    "country": "US",
+    "lat": 37.42106,
+    "lng": -77.67931
+  },
+  {
+    "name": "Woodburn",
+    "country": "US",
+    "lat": 38.84745,
+    "lng": -77.23605
+  },
+  {
+    "name": "Woodstock",
+    "country": "US",
+    "lat": 44.37494,
+    "lng": -70.60849
+  },
+  {
+    "name": "Woodbridge",
+    "country": "US",
+    "lat": 33.67724,
+    "lng": -117.79442
+  },
+  {
+    "name": "Wolmaransstad",
+    "country": "ZA",
+    "lat": -27.1974,
+    "lng": 25.98311
+  },
+  {
+    "name": "Worcester",
+    "country": "ZA",
+    "lat": -33.64651,
+    "lng": 19.44852
+  },
+  {
+    "name": "Wolseley",
+    "country": "ZA",
+    "lat": -33.41403,
+    "lng": 19.20052
+  },
+  {
+    "name": "Woodlands",
+    "country": "ZA",
+    "lat": -34.00208,
+    "lng": 24.17132
+  },
+  {
+    "name": "Wolfenkop",
+    "country": "ZA",
+    "lat": -25.52121,
+    "lng": 28.99197
+  }
+]

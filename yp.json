@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ypäjä",
+    "country": "FI",
+    "lat": 60.8,
+    "lng": 23.28333
+  },
+  {
+    "name": "Yport",
+    "country": "FR",
+    "lat": 49.73716,
+    "lng": 0.31537
+  },
+  {
+    "name": "Ypenburg",
+    "country": "NL",
+    "lat": 52.04098,
+    "lng": 4.36981
+  },
+  {
+    "name": "Ypacarai",
+    "country": "PY",
+    "lat": -25.40777,
+    "lng": -57.28889
+  },
+  {
+    "name": "Ypsilanti",
+    "country": "US",
+    "lat": 42.24115,
+    "lng": -83.61299
+  }
+]

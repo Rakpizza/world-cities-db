@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Vreshtas",
+    "country": "AL",
+    "lat": 40.79694,
+    "lng": 20.77694
+  },
+  {
+    "name": "Vranisht",
+    "country": "AL",
+    "lat": 40.20972,
+    "lng": 19.69083
+  },
+  {
+    "name": "Vrnograč",
+    "country": "BA",
+    "lat": 45.16369,
+    "lng": 15.95444
+  },
+  {
+    "name": "Vroenhoven",
+    "country": "BE",
+    "lat": 50.82614,
+    "lng": 5.63995
+  },
+  {
+    "name": "Vreren",
+    "country": "BE",
+    "lat": 50.75168,
+    "lng": 5.49588
+  },
+  {
+    "name": "Vremde",
+    "country": "BE",
+    "lat": 51.17535,
+    "lng": 4.52321
+  },
+  {
+    "name": "Vrasene",
+    "country": "BE",
+    "lat": 51.22098,
+    "lng": 4.19094
+  },
+  {
+    "name": "Vratsa",
+    "country": "BG",
+    "lat": 43.21052,
+    "lng": 23.56312
+  },
+  {
+    "name": "Vrouo",
+    "country": "CI",
+    "lat": 7.69644,
+    "lng": -6.55352
+  },
+  {
+    "name": "Vršovice",
+    "country": "CZ",
+    "lat": 50.06732,
+    "lng": 14.46026
+  },
+  {
+    "name": "Vroutek",
+    "country": "CZ",
+    "lat": 50.17999,
+    "lng": 13.37986
+  },
+  {
+    "name": "Vrdy",
+    "country": "CZ",
+    "lat": 49.92153,
+    "lng": 15.47243
+  },
+  {
+    "name": "Vrchlabí",
+    "country": "CZ",
+    "lat": 50.62697,
+    "lng": 15.60937
+  },
+  {
+    "name": "Vrbovec",
+    "country": "CZ",
+    "lat": 48.79978,
+    "lng": 16.10061
+  },
+  {
+    "name": "Vrbno pod Pradědem",
+    "country": "CZ",
+    "lat": 50.12095,
+    "lng": 17.38316
+  },
+  {
+    "name": "Vrbice",
+    "country": "CZ",
+    "lat": 49.88333,
+    "lng": 18.31667
+  },
+  {
+    "name": "Vrbice",
+    "country": "CZ",
+    "lat": 48.91508,
+    "lng": 16.89779
+  },
+  {
+    "name": "Vrbátky",
+    "country": "CZ",
+    "lat": 49.50805,
+    "lng": 17.19994
+  },
+  {
+    "name": "Vratimov",
+    "country": "CZ",
+    "lat": 49.76995,
+    "lng": 18.31015
+  },
+  {
+    "name": "Vranovice",
+    "country": "CZ",
+    "lat": 48.966,
+    "lng": 16.6066
+  },
+  {
+    "name": "Vrané nad Vltavou",
+    "country": "CZ",
+    "lat": 49.93585,
+    "lng": 14.37706
+  },
+  {
+    "name": "Vracov",
+    "country": "CZ",
+    "lat": 48.97523,
+    "lng": 17.211
+  },
+  {
+    "name": "Vrees",
+    "country": "DE",
+    "lat": 52.88333,
+    "lng": 7.76667
+  },
+  {
+    "name": "Vreden",
+    "country": "DE",
+    "lat": 52.03792,
+    "lng": 6.828
+  },
+  {
+    "name": "Vrå",
+    "country": "DK",
+    "lat": 57.3537,
+    "lng": 9.94176
+  },
+  {
+    "name": "Vrigne-aux-Bois",
+    "country": "FR",
+    "lat": 49.73716,
+    "lng": 4.85567
+  },
+  {
+    "name": "Vred",
+    "country": "FR",
+    "lat": 50.39455,
+    "lng": 3.23029
+  },
+  {
+    "name": "Vrontádos",
+    "country": "GR",
+    "lat": 38.40876,
+    "lng": 26.12948
+  },
+  {
+    "name": "Vrýses",
+    "country": "GR",
+    "lat": 35.37585,
+    "lng": 24.20109
+  },
+  {
+    "name": "Vraná",
+    "country": "GR",
+    "lat": 38.12497,
+    "lng": 23.95198
+  },
+  {
+    "name": "Vrachnaíika",
+    "country": "GR",
+    "lat": 38.16253,
+    "lng": 21.66693
+  },
+  {
+    "name": "Vrachnaíika",
+    "country": "GR",
+    "lat": 38.10722,
+    "lng": 21.47869
+  },
+  {
+    "name": "Vrakháti",
+    "country": "GR",
+    "lat": 37.95895,
+    "lng": 22.80573
+  },
+  {
+    "name": "Vrontoú",
+    "country": "GR",
+    "lat": 40.19356,
+    "lng": 22.43203
+  },
+  {
+    "name": "Vrilissia",
+    "country": "GR",
+    "lat": 38.03381,
+    "lng": 23.82962
+  },
+  {
+    "name": "Vreed-en-Hoop",
+    "country": "GY",
+    "lat": 6.8109,
+    "lng": -58.19375
+  },
+  {
+    "name": "Vranjic",
+    "country": "HR",
+    "lat": 43.53333,
+    "lng": 16.46667
+  },
+  {
+    "name": "Vrsi",
+    "country": "HR",
+    "lat": 44.26472,
+    "lng": 15.2325
+  },
+  {
+    "name": "Vrsar",
+    "country": "HR",
+    "lat": 45.14917,
+    "lng": 13.60528
+  },
+  {
+    "name": "Vrpolje",
+    "country": "HR",
+    "lat": 45.21056,
+    "lng": 18.40556
+  },
+  {
+    "name": "Vrlika",
+    "country": "HR",
+    "lat": 43.90828,
+    "lng": 16.3983
+  },
+  {
+    "name": "Vrhovine",
+    "country": "HR",
+    "lat": 44.85167,
+    "lng": 15.41917
+  },
+  {
+    "name": "Vrgorac",
+    "country": "HR",
+    "lat": 43.20583,
+    "lng": 17.37111
+  },
+  {
+    "name": "Vrginmost",
+    "country": "HR",
+    "lat": 45.35305,
+    "lng": 15.86563
+  },
+  {
+    "name": "Vrbovsko",
+    "country": "HR",
+    "lat": 45.36861,
+    "lng": 15.07833
+  },
+  {
+    "name": "Vrbovec",
+    "country": "HR",
+    "lat": 45.88333,
+    "lng": 16.42167
+  },
+  {
+    "name": "Vrbnik",
+    "country": "HR",
+    "lat": 45.07583,
+    "lng": 14.6725
+  },
+  {
+    "name": "Vrbje",
+    "country": "HR",
+    "lat": 45.1875,
+    "lng": 17.41917
+  },
+  {
+    "name": "Vrbanja",
+    "country": "HR",
+    "lat": 44.98139,
+    "lng": 18.92722
+  },
+  {
+    "name": "Vratišinec",
+    "country": "HR",
+    "lat": 46.47806,
+    "lng": 16.45778
+  },
+  {
+    "name": "Vrindāvan",
+    "country": "IN",
+    "lat": 27.58105,
+    "lng": 77.69662
+  },
+  {
+    "name": "Vriddhāchalam",
+    "country": "IN",
+    "lat": 11.5183,
+    "lng": 79.32411
+  },
+  {
+    "name": "Vrutok",
+    "country": "MK",
+    "lat": 41.76861,
+    "lng": 20.83917
+  },
+  {
+    "name": "Vratnica",
+    "country": "MK",
+    "lat": 42.14333,
+    "lng": 21.11694
+  },
+  {
+    "name": "Vrapčište",
+    "country": "MK",
+    "lat": 41.83481,
+    "lng": 20.8857
+  },
+  {
+    "name": "Vraneštica",
+    "country": "MK",
+    "lat": 41.44496,
+    "lng": 21.02683
+  },
+  {
+    "name": "Vroomshoop",
+    "country": "NL",
+    "lat": 52.46083,
+    "lng": 6.56528
+  },
+  {
+    "name": "Vriezenveen",
+    "country": "NL",
+    "lat": 52.40833,
+    "lng": 6.62222
+  },
+  {
+    "name": "Vries",
+    "country": "NL",
+    "lat": 53.07417,
+    "lng": 6.57778
+  },
+  {
+    "name": "Vrieheide",
+    "country": "NL",
+    "lat": 50.92192,
+    "lng": 5.96701
+  },
+  {
+    "name": "Vreewijk",
+    "country": "NL",
+    "lat": 51.88428,
+    "lng": 4.51967
+  },
+  {
+    "name": "Vreeswijk",
+    "country": "NL",
+    "lat": 52.01088,
+    "lng": 5.09285
+  },
+  {
+    "name": "Vredenburg",
+    "country": "NL",
+    "lat": 51.95355,
+    "lng": 5.90284
+  },
+  {
+    "name": "Vrâncioaia",
+    "country": "RO",
+    "lat": 45.85,
+    "lng": 26.73333
+  },
+  {
+    "name": "Vrata",
+    "country": "RO",
+    "lat": 44.19197,
+    "lng": 22.84928
+  },
+  {
+    "name": "Vrănești",
+    "country": "RO",
+    "lat": 44.84595,
+    "lng": 25.00716
+  },
+  {
+    "name": "Vrani",
+    "country": "RO",
+    "lat": 45.03833,
+    "lng": 21.4925
+  },
+  {
+    "name": "Vršac",
+    "country": "RS",
+    "lat": 45.11667,
+    "lng": 21.30361
+  },
+  {
+    "name": "Vrnjačka Banja",
+    "country": "RS",
+    "lat": 43.62725,
+    "lng": 20.89634
+  },
+  {
+    "name": "Vrčin",
+    "country": "RS",
+    "lat": 44.66845,
+    "lng": 20.59325
+  },
+  {
+    "name": "Vranjska Banja",
+    "country": "RS",
+    "lat": 42.555,
+    "lng": 21.99222
+  },
+  {
+    "name": "Vranje",
+    "country": "RS",
+    "lat": 42.55139,
+    "lng": 21.90028
+  },
+  {
+    "name": "Vranić",
+    "country": "RS",
+    "lat": 44.60237,
+    "lng": 20.32872
+  },
+  {
+    "name": "Vračar",
+    "country": "RS",
+    "lat": 44.79256,
+    "lng": 20.47491
+  },
+  {
+    "name": "Vrdnik",
+    "country": "RS",
+    "lat": 45.12174,
+    "lng": 19.79227
+  },
+  {
+    "name": "Vrbas",
+    "country": "RS",
+    "lat": 45.57139,
+    "lng": 19.64083
+  },
+  {
+    "name": "Vrangel’",
+    "country": "RU",
+    "lat": 42.73012,
+    "lng": 133.08381
+  },
+  {
+    "name": "Vrigstad",
+    "country": "SE",
+    "lat": 57.35,
+    "lng": 14.46667
+  },
+  {
+    "name": "Vrtojba",
+    "country": "SI",
+    "lat": 45.9125,
+    "lng": 13.63417
+  },
+  {
+    "name": "Vrhnika",
+    "country": "SI",
+    "lat": 45.9635,
+    "lng": 14.29484
+  },
+  {
+    "name": "Vransko",
+    "country": "SI",
+    "lat": 46.24436,
+    "lng": 14.95098
+  },
+  {
+    "name": "Vrbov",
+    "country": "SK",
+    "lat": 49.08764,
+    "lng": 20.4253
+  },
+  {
+    "name": "Vranov nad Topľou",
+    "country": "SK",
+    "lat": 48.88836,
+    "lng": 21.68479
+  },
+  {
+    "name": "Vrútky",
+    "country": "SK",
+    "lat": 49.11328,
+    "lng": 18.91714
+  },
+  {
+    "name": "Vrbové",
+    "country": "SK",
+    "lat": 48.61973,
+    "lng": 17.7226
+  },
+  {
+    "name": "Vrakuňa",
+    "country": "SK",
+    "lat": 48.1383,
+    "lng": 17.20866
+  },
+  {
+    "name": "Vrakúň",
+    "country": "SK",
+    "lat": 47.94293,
+    "lng": 17.60113
+  },
+  {
+    "name": "Vráble",
+    "country": "SK",
+    "lat": 48.24371,
+    "lng": 18.30846
+  },
+  {
+    "name": "Vradiyivka",
+    "country": "UA",
+    "lat": 47.86425,
+    "lng": 30.58881
+  },
+  {
+    "name": "Vryheid",
+    "country": "ZA",
+    "lat": -27.76952,
+    "lng": 30.79165
+  },
+  {
+    "name": "Vryburg",
+    "country": "ZA",
+    "lat": -26.95659,
+    "lng": 24.7284
+  },
+  {
+    "name": "Vredefort",
+    "country": "ZA",
+    "lat": -27.00805,
+    "lng": 27.3646
+  },
+  {
+    "name": "Vrede",
+    "country": "ZA",
+    "lat": -27.42573,
+    "lng": 29.16585
+  },
+  {
+    "name": "Vredendal",
+    "country": "ZA",
+    "lat": -31.66833,
+    "lng": 18.50119
+  },
+  {
+    "name": "Vredenburg",
+    "country": "ZA",
+    "lat": -32.90719,
+    "lng": 17.98997
+  }
+]

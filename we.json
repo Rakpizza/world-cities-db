@@ -1,0 +1,6506 @@
+[
+  {
+    "name": "West End Village",
+    "country": "AI",
+    "lat": 18.17191,
+    "lng": -63.14941
+  },
+  {
+    "name": "Wenceslao Escalante",
+    "country": "AR",
+    "lat": -33.17166,
+    "lng": -62.76931
+  },
+  {
+    "name": "Weyregg",
+    "country": "AT",
+    "lat": 47.90294,
+    "lng": 13.57193
+  },
+  {
+    "name": "Weyer",
+    "country": "AT",
+    "lat": 47.85717,
+    "lng": 14.66409
+  },
+  {
+    "name": "Wetzelsdorf",
+    "country": "AT",
+    "lat": 47.05293,
+    "lng": 15.39923
+  },
+  {
+    "name": "Wettmannstätten",
+    "country": "AT",
+    "lat": 46.83056,
+    "lng": 15.38722
+  },
+  {
+    "name": "Westendorf",
+    "country": "AT",
+    "lat": 47.43208,
+    "lng": 12.21406
+  },
+  {
+    "name": "Wernstein am Inn",
+    "country": "AT",
+    "lat": 48.50802,
+    "lng": 13.461
+  },
+  {
+    "name": "Wernersdorf",
+    "country": "AT",
+    "lat": 46.71592,
+    "lng": 15.20718
+  },
+  {
+    "name": "Werndorf",
+    "country": "AT",
+    "lat": 46.92417,
+    "lng": 15.49083
+  },
+  {
+    "name": "Wernberg",
+    "country": "AT",
+    "lat": 46.61667,
+    "lng": 13.93333
+  },
+  {
+    "name": "Werfenweng",
+    "country": "AT",
+    "lat": 47.46204,
+    "lng": 13.25582
+  },
+  {
+    "name": "Werfen",
+    "country": "AT",
+    "lat": 47.47585,
+    "lng": 13.1902
+  },
+  {
+    "name": "Weppersdorf",
+    "country": "AT",
+    "lat": 47.57954,
+    "lng": 16.42679
+  },
+  {
+    "name": "Wenns",
+    "country": "AT",
+    "lat": 47.16667,
+    "lng": 10.73333
+  },
+  {
+    "name": "Weng im Innkreis",
+    "country": "AT",
+    "lat": 48.23508,
+    "lng": 13.17801
+  },
+  {
+    "name": "Wendling",
+    "country": "AT",
+    "lat": 48.23182,
+    "lng": 13.66622
+  },
+  {
+    "name": "Wels",
+    "country": "AT",
+    "lat": 48.16667,
+    "lng": 14.03333
+  },
+  {
+    "name": "Weiz",
+    "country": "AT",
+    "lat": 47.21667,
+    "lng": 15.61667
+  },
+  {
+    "name": "Weitra",
+    "country": "AT",
+    "lat": 48.7,
+    "lng": 14.88333
+  },
+  {
+    "name": "Weitersfelden",
+    "country": "AT",
+    "lat": 48.4773,
+    "lng": 14.72546
+  },
+  {
+    "name": "Weitersfeld",
+    "country": "AT",
+    "lat": 48.78097,
+    "lng": 15.81345
+  },
+  {
+    "name": "Weitensfeld",
+    "country": "AT",
+    "lat": 46.84743,
+    "lng": 14.19213
+  },
+  {
+    "name": "Weiten",
+    "country": "AT",
+    "lat": 48.29564,
+    "lng": 15.2601
+  },
+  {
+    "name": "Weistrach",
+    "country": "AT",
+    "lat": 48.05,
+    "lng": 14.58333
+  },
+  {
+    "name": "Weißkirchen in Steiermark",
+    "country": "AT",
+    "lat": 47.15409,
+    "lng": 14.73882
+  },
+  {
+    "name": "Weisskirchen an der Traun",
+    "country": "AT",
+    "lat": 48.16202,
+    "lng": 14.12395
+  },
+  {
+    "name": "Weißenkirchen in der Wachau",
+    "country": "AT",
+    "lat": 48.3979,
+    "lng": 15.46931
+  },
+  {
+    "name": "Weißenbach bei Liezen",
+    "country": "AT",
+    "lat": 47.57265,
+    "lng": 14.20451
+  },
+  {
+    "name": "Weissenbach an der Triesting",
+    "country": "AT",
+    "lat": 47.98211,
+    "lng": 16.03935
+  },
+  {
+    "name": "Weissenbach am Lech",
+    "country": "AT",
+    "lat": 47.44162,
+    "lng": 10.64071
+  },
+  {
+    "name": "Weissach",
+    "country": "AT",
+    "lat": 47.57091,
+    "lng": 12.16255
+  },
+  {
+    "name": "Weinzierl am Walde",
+    "country": "AT",
+    "lat": 48.43211,
+    "lng": 15.4321
+  },
+  {
+    "name": "Weingraben",
+    "country": "AT",
+    "lat": 47.51393,
+    "lng": 16.36375
+  },
+  {
+    "name": "Weinburg am Saßbach",
+    "country": "AT",
+    "lat": 46.75361,
+    "lng": 15.72111
+  },
+  {
+    "name": "Weinburg",
+    "country": "AT",
+    "lat": 48.11351,
+    "lng": 15.53295
+  },
+  {
+    "name": "Weiler",
+    "country": "AT",
+    "lat": 47.29972,
+    "lng": 9.65
+  },
+  {
+    "name": "Weilbach",
+    "country": "AT",
+    "lat": 48.27725,
+    "lng": 13.37165
+  },
+  {
+    "name": "Weikersdorf am Steinfelde",
+    "country": "AT",
+    "lat": 47.80612,
+    "lng": 16.14389
+  },
+  {
+    "name": "Weikendorf",
+    "country": "AT",
+    "lat": 48.34438,
+    "lng": 16.76651
+  },
+  {
+    "name": "Weigelsdorf",
+    "country": "AT",
+    "lat": 47.95,
+    "lng": 16.4
+  },
+  {
+    "name": "Weidling",
+    "country": "AT",
+    "lat": 48.291,
+    "lng": 16.30865
+  },
+  {
+    "name": "Weiden bei Rechnitz",
+    "country": "AT",
+    "lat": 47.3,
+    "lng": 16.35
+  },
+  {
+    "name": "Weiden am See",
+    "country": "AT",
+    "lat": 47.92532,
+    "lng": 16.86899
+  },
+  {
+    "name": "Weichselbaum",
+    "country": "AT",
+    "lat": 46.9416,
+    "lng": 16.1871
+  },
+  {
+    "name": "Weibern",
+    "country": "AT",
+    "lat": 48.18333,
+    "lng": 13.7
+  },
+  {
+    "name": "Weer",
+    "country": "AT",
+    "lat": 47.30375,
+    "lng": 11.64498
+  },
+  {
+    "name": "Weerberg",
+    "country": "AT",
+    "lat": 47.29841,
+    "lng": 11.66592
+  },
+  {
+    "name": "Weißenkirchen im Attergau",
+    "country": "AT",
+    "lat": 47.94964,
+    "lng": 13.41843
+  },
+  {
+    "name": "Wembley",
+    "country": "AU",
+    "lat": -31.93308,
+    "lng": 115.81783
+  },
+  {
+    "name": "Wellard",
+    "country": "AU",
+    "lat": -32.26667,
+    "lng": 115.83333
+  },
+  {
+    "name": "West Wyalong",
+    "country": "AU",
+    "lat": -33.92373,
+    "lng": 147.20473
+  },
+  {
+    "name": "West Wallsend",
+    "country": "AU",
+    "lat": -32.9,
+    "lng": 151.58333
+  },
+  {
+    "name": "West Tamworth",
+    "country": "AU",
+    "lat": -31.10236,
+    "lng": 150.91447
+  },
+  {
+    "name": "West Pymble",
+    "country": "AU",
+    "lat": -33.76667,
+    "lng": 151.13333
+  },
+  {
+    "name": "Westmead",
+    "country": "AU",
+    "lat": -33.80383,
+    "lng": 150.98768
+  },
+  {
+    "name": "West Hoxton",
+    "country": "AU",
+    "lat": -33.93388,
+    "lng": 150.83234
+  },
+  {
+    "name": "Westcourt",
+    "country": "AU",
+    "lat": -26.8,
+    "lng": 150.15
+  },
+  {
+    "name": "Westbury",
+    "country": "AU",
+    "lat": -41.52914,
+    "lng": 146.83914
+  },
+  {
+    "name": "Westbrook",
+    "country": "AU",
+    "lat": -27.61667,
+    "lng": 151.86667
+  },
+  {
+    "name": "Wesburn",
+    "country": "AU",
+    "lat": -37.76667,
+    "lng": 145.63333
+  },
+  {
+    "name": "Werris Creek",
+    "country": "AU",
+    "lat": -31.34908,
+    "lng": 150.6487
+  },
+  {
+    "name": "Werribee",
+    "country": "AU",
+    "lat": -37.9,
+    "lng": 144.66667
+  },
+  {
+    "name": "Wentworthville",
+    "country": "AU",
+    "lat": -33.80652,
+    "lng": 150.96785
+  },
+  {
+    "name": "Wentworth Falls",
+    "country": "AU",
+    "lat": -33.71033,
+    "lng": 150.37534
+  },
+  {
+    "name": "Wentworth",
+    "country": "AU",
+    "lat": -34.10726,
+    "lng": 141.91315
+  },
+  {
+    "name": "Wendouree",
+    "country": "AU",
+    "lat": -37.53078,
+    "lng": 143.82838
+  },
+  {
+    "name": "Wellington Point",
+    "country": "AU",
+    "lat": -27.48333,
+    "lng": 153.25
+  },
+  {
+    "name": "Wellington",
+    "country": "AU",
+    "lat": -32.55588,
+    "lng": 148.94508
+  },
+  {
+    "name": "Weipa",
+    "country": "AU",
+    "lat": -12.62346,
+    "lng": 141.87883
+  },
+  {
+    "name": "Wee Waa",
+    "country": "AU",
+    "lat": -30.2266,
+    "lng": 149.44041
+  },
+  {
+    "name": "Weetangera",
+    "country": "AU",
+    "lat": -35.25,
+    "lng": 149.05
+  },
+  {
+    "name": "Werribee South",
+    "country": "AU",
+    "lat": -37.9475,
+    "lng": 144.71667
+  },
+  {
+    "name": "West End",
+    "country": "AU",
+    "lat": -27.47923,
+    "lng": 153.0096
+  },
+  {
+    "name": "West Melbourne",
+    "country": "AU",
+    "lat": -37.81014,
+    "lng": 144.95
+  },
+  {
+    "name": "West Gosford",
+    "country": "AU",
+    "lat": -33.42578,
+    "lng": 151.31701
+  },
+  {
+    "name": "West Perth",
+    "country": "AU",
+    "lat": -31.94896,
+    "lng": 115.84199
+  },
+  {
+    "name": "Wellesley Islands",
+    "country": "AU",
+    "lat": -16.63184,
+    "lng": 139.4014
+  },
+  {
+    "name": "Werrington",
+    "country": "AU",
+    "lat": -33.7592,
+    "lng": 150.75266
+  },
+  {
+    "name": "Wetherill Park",
+    "country": "AU",
+    "lat": -33.84277,
+    "lng": 150.90061
+  },
+  {
+    "name": "Westleigh",
+    "country": "AU",
+    "lat": -33.71176,
+    "lng": 151.07139
+  },
+  {
+    "name": "Wentworth Point",
+    "country": "AU",
+    "lat": -33.8308,
+    "lng": 151.07441
+  },
+  {
+    "name": "West Beach",
+    "country": "AU",
+    "lat": -34.94597,
+    "lng": 138.50935
+  },
+  {
+    "name": "Westlake",
+    "country": "AU",
+    "lat": -27.54862,
+    "lng": 152.91276
+  },
+  {
+    "name": "Westcourt",
+    "country": "AU",
+    "lat": -16.93044,
+    "lng": 145.75296
+  },
+  {
+    "name": "Westdale",
+    "country": "AU",
+    "lat": -31.09052,
+    "lng": 150.85678
+  },
+  {
+    "name": "West Croydon",
+    "country": "AU",
+    "lat": -34.89448,
+    "lng": 138.55931
+  },
+  {
+    "name": "Westminster",
+    "country": "AU",
+    "lat": -31.86744,
+    "lng": 115.83919
+  },
+  {
+    "name": "West Lakes",
+    "country": "AU",
+    "lat": -34.87299,
+    "lng": 138.49458
+  },
+  {
+    "name": "Westbourne Park",
+    "country": "AU",
+    "lat": -34.97165,
+    "lng": 138.59525
+  },
+  {
+    "name": "Weston",
+    "country": "AU",
+    "lat": -35.33582,
+    "lng": 149.05929
+  },
+  {
+    "name": "West End",
+    "country": "AU",
+    "lat": -19.26687,
+    "lng": 146.79365
+  },
+  {
+    "name": "Westmeadows",
+    "country": "AU",
+    "lat": -37.67604,
+    "lng": 144.88701
+  },
+  {
+    "name": "West Footscray",
+    "country": "AU",
+    "lat": -37.79746,
+    "lng": 144.87727
+  },
+  {
+    "name": "Werrington County",
+    "country": "AU",
+    "lat": -33.7465,
+    "lng": 150.73929
+  },
+  {
+    "name": "Werrington Downs",
+    "country": "AU",
+    "lat": -33.74206,
+    "lng": 150.72779
+  },
+  {
+    "name": "West Pennant Hills",
+    "country": "AU",
+    "lat": -33.7457,
+    "lng": 151.04764
+  },
+  {
+    "name": "West Ryde",
+    "country": "AU",
+    "lat": -33.80543,
+    "lng": 151.07386
+  },
+  {
+    "name": "West Hindmarsh",
+    "country": "AU",
+    "lat": -34.90794,
+    "lng": 138.56412
+  },
+  {
+    "name": "West Lakes Shore",
+    "country": "AU",
+    "lat": -34.8601,
+    "lng": 138.48966
+  },
+  {
+    "name": "Wembley Downs",
+    "country": "AU",
+    "lat": -31.91169,
+    "lng": 115.77358
+  },
+  {
+    "name": "West Leederville",
+    "country": "AU",
+    "lat": -31.94141,
+    "lng": 115.83117
+  },
+  {
+    "name": "West Moonah",
+    "country": "AU",
+    "lat": -42.84996,
+    "lng": 147.28181
+  },
+  {
+    "name": "West Hobart",
+    "country": "AU",
+    "lat": -42.87658,
+    "lng": 147.30688
+  },
+  {
+    "name": "West Mackay",
+    "country": "AU",
+    "lat": -21.15467,
+    "lng": 149.16181
+  },
+  {
+    "name": "West Rockhampton",
+    "country": "AU",
+    "lat": -23.37941,
+    "lng": 150.48175
+  },
+  {
+    "name": "West Woombye",
+    "country": "AU",
+    "lat": -26.66644,
+    "lng": 152.92557
+  },
+  {
+    "name": "West Wollongong",
+    "country": "AU",
+    "lat": -34.4248,
+    "lng": 150.86417
+  },
+  {
+    "name": "West Beach",
+    "country": "AU",
+    "lat": -33.87464,
+    "lng": 121.89013
+  },
+  {
+    "name": "West Launceston",
+    "country": "AU",
+    "lat": -41.45092,
+    "lng": 147.13114
+  },
+  {
+    "name": "West Albury",
+    "country": "AU",
+    "lat": -36.07979,
+    "lng": 146.89227
+  },
+  {
+    "name": "West Wodonga",
+    "country": "AU",
+    "lat": -36.12346,
+    "lng": 146.85193
+  },
+  {
+    "name": "West Busselton",
+    "country": "AU",
+    "lat": -33.65792,
+    "lng": 115.32293
+  },
+  {
+    "name": "West Gladstone",
+    "country": "AU",
+    "lat": -23.86123,
+    "lng": 151.2453
+  },
+  {
+    "name": "West Kempsey",
+    "country": "AU",
+    "lat": -31.05757,
+    "lng": 152.82794
+  },
+  {
+    "name": "West Ulverstone",
+    "country": "AU",
+    "lat": -41.14744,
+    "lng": 146.1267
+  },
+  {
+    "name": "West Ballina",
+    "country": "AU",
+    "lat": -28.862,
+    "lng": 153.53291
+  },
+  {
+    "name": "West Bathurst",
+    "country": "AU",
+    "lat": -33.4092,
+    "lng": 149.56324
+  },
+  {
+    "name": "West Lamington",
+    "country": "AU",
+    "lat": -30.74707,
+    "lng": 121.45248
+  },
+  {
+    "name": "West Nowra",
+    "country": "AU",
+    "lat": -34.88593,
+    "lng": 150.58333
+  },
+  {
+    "name": "West Haven",
+    "country": "AU",
+    "lat": -31.63555,
+    "lng": 152.78378
+  },
+  {
+    "name": "Weir Views",
+    "country": "AU",
+    "lat": -37.73116,
+    "lng": 144.57578
+  },
+  {
+    "name": "Welchman Hall",
+    "country": "BB",
+    "lat": 13.18676,
+    "lng": -59.57663
+  },
+  {
+    "name": "Wezembeek-Oppem",
+    "country": "BE",
+    "lat": 50.8395,
+    "lng": 4.49427
+  },
+  {
+    "name": "Wezemaal",
+    "country": "BE",
+    "lat": 50.94848,
+    "lng": 4.75536
+  },
+  {
+    "name": "Wevelgem",
+    "country": "BE",
+    "lat": 50.8,
+    "lng": 3.16667
+  },
+  {
+    "name": "Wetteren",
+    "country": "BE",
+    "lat": 51.00526,
+    "lng": 3.88341
+  },
+  {
+    "name": "Westvleteren",
+    "country": "BE",
+    "lat": 50.92744,
+    "lng": 2.71688
+  },
+  {
+    "name": "Westrozebeke",
+    "country": "BE",
+    "lat": 50.93178,
+    "lng": 3.01001
+  },
+  {
+    "name": "Westouter",
+    "country": "BE",
+    "lat": 50.79722,
+    "lng": 2.74647
+  },
+  {
+    "name": "Westmeerbeek",
+    "country": "BE",
+    "lat": 51.06127,
+    "lng": 4.83835
+  },
+  {
+    "name": "Westmalle",
+    "country": "BE",
+    "lat": 51.29767,
+    "lng": 4.69013
+  },
+  {
+    "name": "Westkerke",
+    "country": "BE",
+    "lat": 51.16448,
+    "lng": 3.01084
+  },
+  {
+    "name": "Westkapelle",
+    "country": "BE",
+    "lat": 51.31511,
+    "lng": 3.3017
+  },
+  {
+    "name": "Westerlo",
+    "country": "BE",
+    "lat": 51.09049,
+    "lng": 4.91544
+  },
+  {
+    "name": "Westende",
+    "country": "BE",
+    "lat": 51.15961,
+    "lng": 2.7687
+  },
+  {
+    "name": "Wespelaar",
+    "country": "BE",
+    "lat": 50.96081,
+    "lng": 4.63984
+  },
+  {
+    "name": "Wervik",
+    "country": "BE",
+    "lat": 50.78069,
+    "lng": 3.03854
+  },
+  {
+    "name": "Werchter",
+    "country": "BE",
+    "lat": 50.97308,
+    "lng": 4.7012
+  },
+  {
+    "name": "Wenduine",
+    "country": "BE",
+    "lat": 51.2983,
+    "lng": 3.08213
+  },
+  {
+    "name": "Wemmel",
+    "country": "BE",
+    "lat": 50.90812,
+    "lng": 4.30613
+  },
+  {
+    "name": "Wellin",
+    "country": "BE",
+    "lat": 50.08133,
+    "lng": 5.11413
+  },
+  {
+    "name": "Wellen",
+    "country": "BE",
+    "lat": 50.84096,
+    "lng": 5.33867
+  },
+  {
+    "name": "Welle",
+    "country": "BE",
+    "lat": 50.89876,
+    "lng": 4.05602
+  },
+  {
+    "name": "Welkenraedt",
+    "country": "BE",
+    "lat": 50.6605,
+    "lng": 5.97034
+  },
+  {
+    "name": "Welden",
+    "country": "BE",
+    "lat": 50.87684,
+    "lng": 3.65453
+  },
+  {
+    "name": "Wegnez",
+    "country": "BE",
+    "lat": 50.57895,
+    "lng": 5.81705
+  },
+  {
+    "name": "Weerde",
+    "country": "BE",
+    "lat": 50.97345,
+    "lng": 4.47487
+  },
+  {
+    "name": "Weelde",
+    "country": "BE",
+    "lat": 51.40777,
+    "lng": 4.99251
+  },
+  {
+    "name": "Wechelderzande",
+    "country": "BE",
+    "lat": 51.26304,
+    "lng": 4.78652
+  },
+  {
+    "name": "Webbekom",
+    "country": "BE",
+    "lat": 50.9741,
+    "lng": 5.04032
+  },
+  {
+    "name": "Wenceslau Braz",
+    "country": "BR",
+    "lat": -23.87389,
+    "lng": -49.80278
+  },
+  {
+    "name": "Wenceslau Guimarães",
+    "country": "BR",
+    "lat": -13.686,
+    "lng": -39.47803
+  },
+  {
+    "name": "Wenceslau Braz",
+    "country": "BR",
+    "lat": -22.53489,
+    "lng": -45.36247
+  },
+  {
+    "name": "Westfália",
+    "country": "BR",
+    "lat": -29.42839,
+    "lng": -51.76604
+  },
+  {
+    "name": "West End",
+    "country": "BS",
+    "lat": 26.68711,
+    "lng": -78.97702
+  },
+  {
+    "name": "Werda",
+    "country": "BW",
+    "lat": -25.26667,
+    "lng": 23.28333
+  },
+  {
+    "name": "Western Paradise",
+    "country": "BZ",
+    "lat": 17.47088,
+    "lng": -88.29546
+  },
+  {
+    "name": "Welcome Beach",
+    "country": "CA",
+    "lat": 49.47959,
+    "lng": -123.89239
+  },
+  {
+    "name": "Welland",
+    "country": "CA",
+    "lat": 42.98342,
+    "lng": -79.24958
+  },
+  {
+    "name": "Wellesley",
+    "country": "CA",
+    "lat": 43.47691,
+    "lng": -80.76209
+  },
+  {
+    "name": "Wells",
+    "country": "CA",
+    "lat": 45.38508,
+    "lng": -65.929
+  },
+  {
+    "name": "Wembley",
+    "country": "CA",
+    "lat": 55.14995,
+    "lng": -119.13602
+  },
+  {
+    "name": "West End",
+    "country": "CA",
+    "lat": 49.28333,
+    "lng": -123.13333
+  },
+  {
+    "name": "West Hill",
+    "country": "CA",
+    "lat": 43.76737,
+    "lng": -79.1795
+  },
+  {
+    "name": "Westlock",
+    "country": "CA",
+    "lat": 54.15016,
+    "lng": -113.86876
+  },
+  {
+    "name": "West Lorne",
+    "country": "CA",
+    "lat": 42.60009,
+    "lng": -81.59976
+  },
+  {
+    "name": "Westmount",
+    "country": "CA",
+    "lat": 45.48341,
+    "lng": -73.59918
+  },
+  {
+    "name": "Westmount",
+    "country": "CA",
+    "lat": 49.34509,
+    "lng": -123.21824
+  },
+  {
+    "name": "West Nipissing",
+    "country": "CA",
+    "lat": 46.37157,
+    "lng": -79.92451
+  },
+  {
+    "name": "Weston",
+    "country": "CA",
+    "lat": 43.70359,
+    "lng": -79.51513
+  },
+  {
+    "name": "West Point Grey",
+    "country": "CA",
+    "lat": 49.26667,
+    "lng": -123.2
+  },
+  {
+    "name": "Westridge",
+    "country": "CA",
+    "lat": 49.28333,
+    "lng": -122.95
+  },
+  {
+    "name": "Westsyde",
+    "country": "CA",
+    "lat": 50.76667,
+    "lng": -120.35
+  },
+  {
+    "name": "Westville",
+    "country": "CA",
+    "lat": 45.56685,
+    "lng": -62.71534
+  },
+  {
+    "name": "Wetaskiwin",
+    "country": "CA",
+    "lat": 52.96683,
+    "lng": -113.36869
+  },
+  {
+    "name": "Weyburn",
+    "country": "CA",
+    "lat": 49.66675,
+    "lng": -103.85109
+  },
+  {
+    "name": "Weymontachie",
+    "country": "CA",
+    "lat": 47.8994,
+    "lng": -73.7772
+  },
+  {
+    "name": "West Kelowna",
+    "country": "CA",
+    "lat": 49.8625,
+    "lng": -119.58333
+  },
+  {
+    "name": "West Vancouver",
+    "country": "CA",
+    "lat": 49.3286,
+    "lng": -123.16019
+  },
+  {
+    "name": "Wendake",
+    "country": "CA",
+    "lat": 46.86136,
+    "lng": -71.35727
+  },
+  {
+    "name": "Wendover",
+    "country": "CA",
+    "lat": 45.57275,
+    "lng": -75.12757
+  },
+  {
+    "name": "Westlake",
+    "country": "CA",
+    "lat": 55.22228,
+    "lng": -118.80415
+  },
+  {
+    "name": "Weedon Centre",
+    "country": "CA",
+    "lat": 45.70802,
+    "lng": -71.45986
+  },
+  {
+    "name": "West Humber-Clairville",
+    "country": "CA",
+    "lat": 43.71619,
+    "lng": -79.59636
+  },
+  {
+    "name": "Wexford/Maryvale",
+    "country": "CA",
+    "lat": 43.74857,
+    "lng": -79.29864
+  },
+  {
+    "name": "Weston-Pellam Park",
+    "country": "CA",
+    "lat": 43.67396,
+    "lng": -79.46024
+  },
+  {
+    "name": "Westminster-Branson",
+    "country": "CA",
+    "lat": 43.77881,
+    "lng": -79.45242
+  },
+  {
+    "name": "West St. Paul",
+    "country": "CA",
+    "lat": 50.01043,
+    "lng": -97.14213
+  },
+  {
+    "name": "West Cambie",
+    "country": "CA",
+    "lat": 49.18293,
+    "lng": -123.11691
+  },
+  {
+    "name": "Westwood Plateau",
+    "country": "CA",
+    "lat": 49.30461,
+    "lng": -122.79338
+  },
+  {
+    "name": "West Lynn Terrace",
+    "country": "CA",
+    "lat": 49.33221,
+    "lng": -123.02613
+  },
+  {
+    "name": "West End",
+    "country": "CA",
+    "lat": 50.67333,
+    "lng": -120.3486
+  },
+  {
+    "name": "West Clayton",
+    "country": "CA",
+    "lat": 49.12908,
+    "lng": -122.71571
+  },
+  {
+    "name": "West Island",
+    "country": "CC",
+    "lat": -12.15681,
+    "lng": 96.82251
+  },
+  {
+    "name": "Wetzikon",
+    "country": "CH",
+    "lat": 47.3264,
+    "lng": 8.79779
+  },
+  {
+    "name": "Wettingen",
+    "country": "CH",
+    "lat": 47.46606,
+    "lng": 8.32663
+  },
+  {
+    "name": "Werthenstein",
+    "country": "CH",
+    "lat": 47.05578,
+    "lng": 8.10182
+  },
+  {
+    "name": "Welschenrohr",
+    "country": "CH",
+    "lat": 47.28052,
+    "lng": 7.52664
+  },
+  {
+    "name": "Weisslingen",
+    "country": "CH",
+    "lat": 47.43063,
+    "lng": 8.76787
+  },
+  {
+    "name": "Weiningen",
+    "country": "CH",
+    "lat": 47.42022,
+    "lng": 8.43644
+  },
+  {
+    "name": "Weinfelden",
+    "country": "CH",
+    "lat": 47.56667,
+    "lng": 9.1
+  },
+  {
+    "name": "Weggis",
+    "country": "CH",
+    "lat": 47.03208,
+    "lng": 8.43219
+  },
+  {
+    "name": "Wegenstetten",
+    "country": "CH",
+    "lat": 47.49797,
+    "lng": 7.93141
+  },
+  {
+    "name": "Weesen",
+    "country": "CH",
+    "lat": 47.13447,
+    "lng": 9.09644
+  },
+  {
+    "name": "Wetzikon / Unter-Wetzikon",
+    "country": "CH",
+    "lat": 47.31637,
+    "lng": 8.79369
+  },
+  {
+    "name": "Wetzikon / Ober-Wetzikon",
+    "country": "CH",
+    "lat": 47.32514,
+    "lng": 8.80005
+  },
+  {
+    "name": "Wettswil / Wettswil (Dorf)",
+    "country": "CH",
+    "lat": 47.34152,
+    "lng": 8.47149
+  },
+  {
+    "name": "Wettswil / Ausser-Dorf",
+    "country": "CH",
+    "lat": 47.33197,
+    "lng": 8.47732
+  },
+  {
+    "name": "Wetzikon / Robenhausen",
+    "country": "CH",
+    "lat": 47.33089,
+    "lng": 8.78762
+  },
+  {
+    "name": "Wetzikon / Kempten",
+    "country": "CH",
+    "lat": 47.33319,
+    "lng": 8.80982
+  },
+  {
+    "name": "Wettswil",
+    "country": "CH",
+    "lat": 47.33725,
+    "lng": 8.47527
+  },
+  {
+    "name": "Wendéné",
+    "country": "CI",
+    "lat": 8.57303,
+    "lng": -4.09027
+  },
+  {
+    "name": "Wehou",
+    "country": "CI",
+    "lat": 5.52399,
+    "lng": -3.45092
+  },
+  {
+    "name": "Wendong",
+    "country": "CN",
+    "lat": 23.16667,
+    "lng": 99.9
+  },
+  {
+    "name": "Wensu",
+    "country": "CN",
+    "lat": 41.27548,
+    "lng": 80.23612
+  },
+  {
+    "name": "Wenchang",
+    "country": "CN",
+    "lat": 31.63625,
+    "lng": 105.15502
+  },
+  {
+    "name": "Weifen",
+    "country": "CN",
+    "lat": 38.48064,
+    "lng": 111.16664
+  },
+  {
+    "name": "Wenfeng",
+    "country": "CN",
+    "lat": 31.40495,
+    "lng": 109.23459
+  },
+  {
+    "name": "Wenxing",
+    "country": "CN",
+    "lat": 28.68208,
+    "lng": 112.87864
+  },
+  {
+    "name": "Wenzhou",
+    "country": "CN",
+    "lat": 27.99942,
+    "lng": 120.66682
+  },
+  {
+    "name": "Wenquan",
+    "country": "CN",
+    "lat": 34.94083,
+    "lng": 113.07187
+  },
+  {
+    "name": "Wenxian Chengguanzhen",
+    "country": "CN",
+    "lat": 32.94712,
+    "lng": 104.68139
+  },
+  {
+    "name": "Wenshui",
+    "country": "CN",
+    "lat": 28.45056,
+    "lng": 106.52667
+  },
+  {
+    "name": "Wenshang",
+    "country": "CN",
+    "lat": 35.7275,
+    "lng": 116.49611
+  },
+  {
+    "name": "Wenquan",
+    "country": "CN",
+    "lat": 31.35911,
+    "lng": 108.52224
+  },
+  {
+    "name": "Wenquan",
+    "country": "CN",
+    "lat": 30.84928,
+    "lng": 115.6991
+  },
+  {
+    "name": "Wenping",
+    "country": "CN",
+    "lat": 27.19306,
+    "lng": 103.5273
+  },
+  {
+    "name": "Wenling",
+    "country": "CN",
+    "lat": 28.37524,
+    "lng": 121.38416
+  },
+  {
+    "name": "Wenlin",
+    "country": "CN",
+    "lat": 29.99814,
+    "lng": 104.13992
+  },
+  {
+    "name": "Wenjiang",
+    "country": "CN",
+    "lat": 28.38812,
+    "lng": 104.56339
+  },
+  {
+    "name": "Wenheng",
+    "country": "CN",
+    "lat": 25.66742,
+    "lng": 116.75429
+  },
+  {
+    "name": "Wenfeng",
+    "country": "CN",
+    "lat": 27.19899,
+    "lng": 115.11963
+  },
+  {
+    "name": "Wenchang",
+    "country": "CN",
+    "lat": 19.55158,
+    "lng": 110.80279
+  },
+  {
+    "name": "Wen’an",
+    "country": "CN",
+    "lat": 38.86502,
+    "lng": 116.45501
+  },
+  {
+    "name": "Weizhou",
+    "country": "CN",
+    "lat": 31.49267,
+    "lng": 103.58491
+  },
+  {
+    "name": "Weiyuan",
+    "country": "CN",
+    "lat": 36.85316,
+    "lng": 101.99169
+  },
+  {
+    "name": "Weiyuan",
+    "country": "CN",
+    "lat": 23.46831,
+    "lng": 100.68354
+  },
+  {
+    "name": "Wei Xian",
+    "country": "CN",
+    "lat": 36.35712,
+    "lng": 114.93034
+  },
+  {
+    "name": "Weituo",
+    "country": "CN",
+    "lat": 30.03983,
+    "lng": 106.14701
+  },
+  {
+    "name": "Weitang",
+    "country": "CN",
+    "lat": 30.85021,
+    "lng": 120.91138
+  },
+  {
+    "name": "Weishui",
+    "country": "CN",
+    "lat": 38.03361,
+    "lng": 114.13668
+  },
+  {
+    "name": "Weishi Chengguanzhen",
+    "country": "CN",
+    "lat": 34.41361,
+    "lng": 114.18722
+  },
+  {
+    "name": "Weishan",
+    "country": "CN",
+    "lat": 25.22912,
+    "lng": 100.30683
+  },
+  {
+    "name": "Weinan",
+    "country": "CN",
+    "lat": 34.50355,
+    "lng": 109.50891
+  },
+  {
+    "name": "Weimiao",
+    "country": "CN",
+    "lat": 34.58333,
+    "lng": 117.06667
+  },
+  {
+    "name": "Weiji",
+    "country": "CN",
+    "lat": 34.03333,
+    "lng": 117.95
+  },
+  {
+    "name": "Weihai",
+    "country": "CN",
+    "lat": 37.50914,
+    "lng": 122.11356
+  },
+  {
+    "name": "Weifang",
+    "country": "CN",
+    "lat": 36.71,
+    "lng": 119.10194
+  },
+  {
+    "name": "Wenlan",
+    "country": "CN",
+    "lat": 23.36002,
+    "lng": 103.43684
+  },
+  {
+    "name": "Wenquan",
+    "country": "CN",
+    "lat": 22.32528,
+    "lng": 110.25556
+  },
+  {
+    "name": "Weihui",
+    "country": "CN",
+    "lat": 35.40747,
+    "lng": 114.0592
+  },
+  {
+    "name": "Wenbi",
+    "country": "CN",
+    "lat": 39.3874,
+    "lng": 111.19115
+  },
+  {
+    "name": "Weining",
+    "country": "CN",
+    "lat": 26.85,
+    "lng": 104.23333
+  },
+  {
+    "name": "Wenquan",
+    "country": "CN",
+    "lat": 34.65193,
+    "lng": 105.05352
+  },
+  {
+    "name": "Weiwangzhuang",
+    "country": "CN",
+    "lat": 39.025,
+    "lng": 117.44083
+  },
+  {
+    "name": "Weichang",
+    "country": "CN",
+    "lat": 41.94763,
+    "lng": 117.75785
+  },
+  {
+    "name": "Weicheng",
+    "country": "CN",
+    "lat": 34.3314,
+    "lng": 108.71691
+  },
+  {
+    "name": "Weiyang",
+    "country": "CN",
+    "lat": 34.298,
+    "lng": 108.94
+  },
+  {
+    "name": "Weidian",
+    "country": "CN",
+    "lat": 35.10243,
+    "lng": 105.5656
+  },
+  {
+    "name": "Wenquan",
+    "country": "CN",
+    "lat": 47.1756,
+    "lng": 119.94809
+  },
+  {
+    "name": "Wenhe",
+    "country": "CN",
+    "lat": 32.39523,
+    "lng": 119.42688
+  },
+  {
+    "name": "Wenhua",
+    "country": "CN",
+    "lat": 30.81436,
+    "lng": 107.77436
+  },
+  {
+    "name": "Wenfu",
+    "country": "CN",
+    "lat": 29.27908,
+    "lng": 107.95215
+  },
+  {
+    "name": "Weixin",
+    "country": "CN",
+    "lat": 30.0468,
+    "lng": 105.89146
+  },
+  {
+    "name": "Weilong",
+    "country": "CN",
+    "lat": 29.62317,
+    "lng": 106.0067
+  },
+  {
+    "name": "Wenhua",
+    "country": "CN",
+    "lat": 37.39106,
+    "lng": 121.58959
+  },
+  {
+    "name": "Wenshan City",
+    "country": "CN",
+    "lat": 23.36306,
+    "lng": 104.25047
+  },
+  {
+    "name": "Weiwu'eryuqiwen",
+    "country": "CN",
+    "lat": 43.75598,
+    "lng": 81.86063
+  },
+  {
+    "name": "Weixinghu",
+    "country": "CN",
+    "lat": 29.2445,
+    "lng": 105.88001
+  },
+  {
+    "name": "Wenfeng",
+    "country": "CN",
+    "lat": 36.08985,
+    "lng": 114.35856
+  },
+  {
+    "name": "Weibin",
+    "country": "CN",
+    "lat": 35.30332,
+    "lng": 113.85325
+  },
+  {
+    "name": "Weisi Science & Technology Garden",
+    "country": "CN",
+    "lat": 22.68472,
+    "lng": 113.7823
+  },
+  {
+    "name": "West Gate",
+    "country": "CN",
+    "lat": 22.51825,
+    "lng": 114.05652
+  },
+  {
+    "name": "West Gate",
+    "country": "CN",
+    "lat": 22.57278,
+    "lng": 113.90544
+  },
+  {
+    "name": "Weyhausen",
+    "country": "DE",
+    "lat": 52.46208,
+    "lng": 10.71699
+  },
+  {
+    "name": "Weyerbusch",
+    "country": "DE",
+    "lat": 50.71667,
+    "lng": 7.55
+  },
+  {
+    "name": "Weyarn",
+    "country": "DE",
+    "lat": 47.85838,
+    "lng": 11.79923
+  },
+  {
+    "name": "Wewelsfleth",
+    "country": "DE",
+    "lat": 53.84516,
+    "lng": 9.40509
+  },
+  {
+    "name": "Wetzlar",
+    "country": "DE",
+    "lat": 50.56109,
+    "lng": 8.50495
+  },
+  {
+    "name": "Wetzendorf",
+    "country": "DE",
+    "lat": 49.47056,
+    "lng": 11.04148
+  },
+  {
+    "name": "Wettringen",
+    "country": "DE",
+    "lat": 52.20939,
+    "lng": 7.31895
+  },
+  {
+    "name": "Wettin",
+    "country": "DE",
+    "lat": 51.58604,
+    "lng": 11.8063
+  },
+  {
+    "name": "Wetterzeube",
+    "country": "DE",
+    "lat": 51.0,
+    "lng": 12.01667
+  },
+  {
+    "name": "Wetter",
+    "country": "DE",
+    "lat": 51.38747,
+    "lng": 7.39277
+  },
+  {
+    "name": "Wetter",
+    "country": "DE",
+    "lat": 50.90254,
+    "lng": 8.72366
+  },
+  {
+    "name": "Wetschen",
+    "country": "DE",
+    "lat": 52.61295,
+    "lng": 8.44883
+  },
+  {
+    "name": "Westhofen",
+    "country": "DE",
+    "lat": 49.70444,
+    "lng": 8.24806
+  },
+  {
+    "name": "Westheim",
+    "country": "DE",
+    "lat": 49.2464,
+    "lng": 8.32357
+  },
+  {
+    "name": "Westheim",
+    "country": "DE",
+    "lat": 49.0,
+    "lng": 10.66667
+  },
+  {
+    "name": "Westhausen",
+    "country": "DE",
+    "lat": 48.88333,
+    "lng": 10.18333
+  },
+  {
+    "name": "Westerstetten",
+    "country": "DE",
+    "lat": 48.51916,
+    "lng": 9.95494
+  },
+  {
+    "name": "Westerstede",
+    "country": "DE",
+    "lat": 53.25682,
+    "lng": 7.92737
+  },
+  {
+    "name": "Westerrönfeld",
+    "country": "DE",
+    "lat": 54.27954,
+    "lng": 9.65031
+  },
+  {
+    "name": "Wester-Ohrstedt",
+    "country": "DE",
+    "lat": 54.50796,
+    "lng": 9.18574
+  },
+  {
+    "name": "Westerland",
+    "country": "DE",
+    "lat": 54.9079,
+    "lng": 8.30326
+  },
+  {
+    "name": "Westerkappeln",
+    "country": "DE",
+    "lat": 52.31667,
+    "lng": 7.88333
+  },
+  {
+    "name": "Westerhorn",
+    "country": "DE",
+    "lat": 53.85711,
+    "lng": 9.67959
+  },
+  {
+    "name": "Westerholt",
+    "country": "DE",
+    "lat": 53.59005,
+    "lng": 7.45676
+  },
+  {
+    "name": "Westerheim",
+    "country": "DE",
+    "lat": 48.51511,
+    "lng": 9.62424
+  },
+  {
+    "name": "Westerheim",
+    "country": "DE",
+    "lat": 48.01667,
+    "lng": 10.3
+  },
+  {
+    "name": "Westerhausen",
+    "country": "DE",
+    "lat": 51.80566,
+    "lng": 11.05631
+  },
+  {
+    "name": "Westergellersen",
+    "country": "DE",
+    "lat": 53.23333,
+    "lng": 10.25
+  },
+  {
+    "name": "Westeregeln",
+    "country": "DE",
+    "lat": 51.96328,
+    "lng": 11.39265
+  },
+  {
+    "name": "Westerburg",
+    "country": "DE",
+    "lat": 50.55938,
+    "lng": 7.97482
+  },
+  {
+    "name": "Westensee",
+    "country": "DE",
+    "lat": 54.27452,
+    "lng": 9.89584
+  },
+  {
+    "name": "Westendorf",
+    "country": "DE",
+    "lat": 48.57209,
+    "lng": 10.84049
+  },
+  {
+    "name": "Westendorf",
+    "country": "DE",
+    "lat": 47.93333,
+    "lng": 10.71667
+  },
+  {
+    "name": "Westend",
+    "country": "DE",
+    "lat": 52.51708,
+    "lng": 13.27636
+  },
+  {
+    "name": "Weste",
+    "country": "DE",
+    "lat": 53.05943,
+    "lng": 10.70283
+  },
+  {
+    "name": "Wessobrunn",
+    "country": "DE",
+    "lat": 47.87407,
+    "lng": 11.02461
+  },
+  {
+    "name": "Weßling",
+    "country": "DE",
+    "lat": 48.07452,
+    "lng": 11.2482
+  },
+  {
+    "name": "Wesseln",
+    "country": "DE",
+    "lat": 54.20985,
+    "lng": 9.07644
+  },
+  {
+    "name": "Wesseling",
+    "country": "DE",
+    "lat": 50.82709,
+    "lng": 6.9747
+  },
+  {
+    "name": "Wesselburen",
+    "country": "DE",
+    "lat": 54.21227,
+    "lng": 8.92366
+  },
+  {
+    "name": "Wesendorf",
+    "country": "DE",
+    "lat": 52.6,
+    "lng": 10.53333
+  },
+  {
+    "name": "Wesenberg",
+    "country": "DE",
+    "lat": 53.2803,
+    "lng": 12.96936
+  },
+  {
+    "name": "Weselberg",
+    "country": "DE",
+    "lat": 49.33662,
+    "lng": 7.6078
+  },
+  {
+    "name": "Wesel",
+    "country": "DE",
+    "lat": 51.6669,
+    "lng": 6.62037
+  },
+  {
+    "name": "Wertingen",
+    "country": "DE",
+    "lat": 48.56314,
+    "lng": 10.68149
+  },
+  {
+    "name": "Werther",
+    "country": "DE",
+    "lat": 52.07771,
+    "lng": 8.41793
+  },
+  {
+    "name": "Wertheim",
+    "country": "DE",
+    "lat": 49.759,
+    "lng": 9.50852
+  },
+  {
+    "name": "Wertach",
+    "country": "DE",
+    "lat": 47.60301,
+    "lng": 10.40966
+  },
+  {
+    "name": "Wersten",
+    "country": "DE",
+    "lat": 51.18459,
+    "lng": 6.81249
+  },
+  {
+    "name": "Werpeloh",
+    "country": "DE",
+    "lat": 52.87207,
+    "lng": 7.50831
+  },
+  {
+    "name": "Wernshausen",
+    "country": "DE",
+    "lat": 50.72404,
+    "lng": 10.35086
+  },
+  {
+    "name": "Wernigerode",
+    "country": "DE",
+    "lat": 51.83652,
+    "lng": 10.78216
+  },
+  {
+    "name": "Werneuchen",
+    "country": "DE",
+    "lat": 52.63275,
+    "lng": 13.73437
+  },
+  {
+    "name": "Wernersberg",
+    "country": "DE",
+    "lat": 49.19062,
+    "lng": 7.92756
+  },
+  {
+    "name": "Werneck",
+    "country": "DE",
+    "lat": 49.98201,
+    "lng": 10.09884
+  },
+  {
+    "name": "Werne",
+    "country": "DE",
+    "lat": 51.66446,
+    "lng": 7.63421
+  },
+  {
+    "name": "Wernberg-Köblitz",
+    "country": "DE",
+    "lat": 49.53931,
+    "lng": 12.1613
+  },
+  {
+    "name": "Wernau",
+    "country": "DE",
+    "lat": 48.69306,
+    "lng": 9.41533
+  },
+  {
+    "name": "Wermsdorf",
+    "country": "DE",
+    "lat": 51.28333,
+    "lng": 12.95
+  },
+  {
+    "name": "Wermelskirchen",
+    "country": "DE",
+    "lat": 51.1397,
+    "lng": 7.21583
+  },
+  {
+    "name": "Werlte",
+    "country": "DE",
+    "lat": 52.85,
+    "lng": 7.68333
+  },
+  {
+    "name": "Werl",
+    "country": "DE",
+    "lat": 51.55493,
+    "lng": 7.91403
+  },
+  {
+    "name": "Werftpfuhl",
+    "country": "DE",
+    "lat": 52.66014,
+    "lng": 13.79351
+  },
+  {
+    "name": "Werdohl",
+    "country": "DE",
+    "lat": 51.26011,
+    "lng": 7.76608
+  },
+  {
+    "name": "Werder",
+    "country": "DE",
+    "lat": 52.37874,
+    "lng": 12.934
+  },
+  {
+    "name": "Werdau",
+    "country": "DE",
+    "lat": 50.73604,
+    "lng": 12.37534
+  },
+  {
+    "name": "Werda",
+    "country": "DE",
+    "lat": 50.43811,
+    "lng": 12.30473
+  },
+  {
+    "name": "Werben",
+    "country": "DE",
+    "lat": 51.81667,
+    "lng": 14.18333
+  },
+  {
+    "name": "Werbach",
+    "country": "DE",
+    "lat": 49.67083,
+    "lng": 9.63944
+  },
+  {
+    "name": "Wenzendorf",
+    "country": "DE",
+    "lat": 53.34948,
+    "lng": 9.77234
+  },
+  {
+    "name": "Wenzenbach",
+    "country": "DE",
+    "lat": 49.07561,
+    "lng": 12.19954
+  },
+  {
+    "name": "Wentorf bei Hamburg",
+    "country": "DE",
+    "lat": 53.5,
+    "lng": 10.25
+  },
+  {
+    "name": "Wennigsen",
+    "country": "DE",
+    "lat": 52.27404,
+    "lng": 9.57287
+  },
+  {
+    "name": "Weng",
+    "country": "DE",
+    "lat": 48.65866,
+    "lng": 12.36927
+  },
+  {
+    "name": "Wendtorf",
+    "country": "DE",
+    "lat": 54.41212,
+    "lng": 10.28952
+  },
+  {
+    "name": "Wendorf",
+    "country": "DE",
+    "lat": 54.2554,
+    "lng": 13.07682
+  },
+  {
+    "name": "Wendlingen am Neckar",
+    "country": "DE",
+    "lat": 48.67124,
+    "lng": 9.37632
+  },
+  {
+    "name": "Wendisch Rietz",
+    "country": "DE",
+    "lat": 52.21613,
+    "lng": 14.00845
+  },
+  {
+    "name": "Wendisch Evern",
+    "country": "DE",
+    "lat": 53.21667,
+    "lng": 10.46667
+  },
+  {
+    "name": "Wenden",
+    "country": "DE",
+    "lat": 52.32401,
+    "lng": 10.51392
+  },
+  {
+    "name": "Wenden",
+    "country": "DE",
+    "lat": 50.96667,
+    "lng": 7.86667
+  },
+  {
+    "name": "Wendelstein",
+    "country": "DE",
+    "lat": 49.3523,
+    "lng": 11.15069
+  },
+  {
+    "name": "Wendelsheim",
+    "country": "DE",
+    "lat": 49.76667,
+    "lng": 8.0
+  },
+  {
+    "name": "Wendeburg",
+    "country": "DE",
+    "lat": 52.32957,
+    "lng": 10.39255
+  },
+  {
+    "name": "Wemding",
+    "country": "DE",
+    "lat": 48.87461,
+    "lng": 10.72452
+  },
+  {
+    "name": "Welzow",
+    "country": "DE",
+    "lat": 51.58381,
+    "lng": 14.17082
+  },
+  {
+    "name": "Welzheim",
+    "country": "DE",
+    "lat": 48.87675,
+    "lng": 9.63434
+  },
+  {
+    "name": "Welver",
+    "country": "DE",
+    "lat": 51.61667,
+    "lng": 7.96667
+  },
+  {
+    "name": "Welsleben",
+    "country": "DE",
+    "lat": 52.00304,
+    "lng": 11.63851
+  },
+  {
+    "name": "Welschbillig",
+    "country": "DE",
+    "lat": 49.85,
+    "lng": 6.56667
+  },
+  {
+    "name": "Wellingsbüttel",
+    "country": "DE",
+    "lat": 53.64104,
+    "lng": 10.0798
+  },
+  {
+    "name": "Wellendingen",
+    "country": "DE",
+    "lat": 48.14745,
+    "lng": 8.70375
+  },
+  {
+    "name": "Wellen",
+    "country": "DE",
+    "lat": 52.14518,
+    "lng": 11.44106
+  },
+  {
+    "name": "Welle",
+    "country": "DE",
+    "lat": 53.23985,
+    "lng": 9.80178
+  },
+  {
+    "name": "Welden",
+    "country": "DE",
+    "lat": 48.45505,
+    "lng": 10.66086
+  },
+  {
+    "name": "Weitramsdorf",
+    "country": "DE",
+    "lat": 50.256,
+    "lng": 10.87989
+  },
+  {
+    "name": "Weitnau",
+    "country": "DE",
+    "lat": 47.64171,
+    "lng": 10.12732
+  },
+  {
+    "name": "Weiterstadt",
+    "country": "DE",
+    "lat": 49.9039,
+    "lng": 8.58874
+  },
+  {
+    "name": "Weitersburg",
+    "country": "DE",
+    "lat": 50.41667,
+    "lng": 7.6
+  },
+  {
+    "name": "Weitenhagen",
+    "country": "DE",
+    "lat": 54.05372,
+    "lng": 13.40998
+  },
+  {
+    "name": "Weiten",
+    "country": "DE",
+    "lat": 49.53011,
+    "lng": 6.54064
+  },
+  {
+    "name": "Weitefeld",
+    "country": "DE",
+    "lat": 50.72541,
+    "lng": 7.92805
+  },
+  {
+    "name": "Weisweil",
+    "country": "DE",
+    "lat": 48.19939,
+    "lng": 7.67713
+  },
+  {
+    "name": "Weißwasser",
+    "country": "DE",
+    "lat": 51.50403,
+    "lng": 14.64017
+  },
+  {
+    "name": "Weißkeißel",
+    "country": "DE",
+    "lat": 51.49405,
+    "lng": 14.71515
+  },
+  {
+    "name": "Weißig",
+    "country": "DE",
+    "lat": 51.29192,
+    "lng": 13.44117
+  },
+  {
+    "name": "Weißenthurm",
+    "country": "DE",
+    "lat": 50.41719,
+    "lng": 7.45072
+  },
+  {
+    "name": "Weißenstadt",
+    "country": "DE",
+    "lat": 50.10217,
+    "lng": 11.88849
+  },
+  {
+    "name": "Weißensee",
+    "country": "DE",
+    "lat": 51.19989,
+    "lng": 11.06914
+  },
+  {
+    "name": "Weißensberg",
+    "country": "DE",
+    "lat": 47.5813,
+    "lng": 9.72586
+  },
+  {
+    "name": "Weißenohe",
+    "country": "DE",
+    "lat": 49.63089,
+    "lng": 11.25369
+  },
+  {
+    "name": "Weißenhorn",
+    "country": "DE",
+    "lat": 48.30501,
+    "lng": 10.16047
+  },
+  {
+    "name": "Weißenfels",
+    "country": "DE",
+    "lat": 51.20148,
+    "lng": 11.96843
+  },
+  {
+    "name": "Weißenburg in Bayern",
+    "country": "DE",
+    "lat": 49.03095,
+    "lng": 10.97221
+  },
+  {
+    "name": "Weißenbrunn",
+    "country": "DE",
+    "lat": 50.2,
+    "lng": 11.35
+  },
+  {
+    "name": "Weißenborn-Lüderode",
+    "country": "DE",
+    "lat": 51.5319,
+    "lng": 10.41889
+  },
+  {
+    "name": "Weißenborn",
+    "country": "DE",
+    "lat": 50.92393,
+    "lng": 11.87947
+  },
+  {
+    "name": "Weißenborn",
+    "country": "DE",
+    "lat": 50.73952,
+    "lng": 12.47051
+  },
+  {
+    "name": "Weißenberg",
+    "country": "DE",
+    "lat": 51.19644,
+    "lng": 14.65874
+  },
+  {
+    "name": "Weißdorf",
+    "country": "DE",
+    "lat": 50.18333,
+    "lng": 11.85
+  },
+  {
+    "name": "Weißbach",
+    "country": "DE",
+    "lat": 49.29717,
+    "lng": 9.59531
+  },
+  {
+    "name": "Weißandt-Gölzau",
+    "country": "DE",
+    "lat": 51.6707,
+    "lng": 12.07338
+  },
+  {
+    "name": "Weissach",
+    "country": "DE",
+    "lat": 48.84687,
+    "lng": 8.92828
+  },
+  {
+    "name": "Weismain",
+    "country": "DE",
+    "lat": 50.08512,
+    "lng": 11.24024
+  },
+  {
+    "name": "Weiskirchen",
+    "country": "DE",
+    "lat": 49.55,
+    "lng": 6.81667
+  },
+  {
+    "name": "Weisendorf",
+    "country": "DE",
+    "lat": 49.62283,
+    "lng": 10.82531
+  },
+  {
+    "name": "Weisenbach",
+    "country": "DE",
+    "lat": 48.72757,
+    "lng": 8.35378
+  },
+  {
+    "name": "Weisen",
+    "country": "DE",
+    "lat": 53.02518,
+    "lng": 11.7871
+  },
+  {
+    "name": "Weisel",
+    "country": "DE",
+    "lat": 50.11667,
+    "lng": 7.8
+  },
+  {
+    "name": "Weischlitz",
+    "country": "DE",
+    "lat": 50.45,
+    "lng": 12.06667
+  },
+  {
+    "name": "Weinstadt-Endersbach",
+    "country": "DE",
+    "lat": 48.81311,
+    "lng": 9.36387
+  },
+  {
+    "name": "Weinsheim",
+    "country": "DE",
+    "lat": 50.23333,
+    "lng": 6.46667
+  },
+  {
+    "name": "Weinsheim",
+    "country": "DE",
+    "lat": 49.83333,
+    "lng": 7.76667
+  },
+  {
+    "name": "Weinsberg",
+    "country": "DE",
+    "lat": 49.15127,
+    "lng": 9.28762
+  },
+  {
+    "name": "Weinheim",
+    "country": "DE",
+    "lat": 49.54887,
+    "lng": 8.66697
+  },
+  {
+    "name": "Weingarten",
+    "country": "DE",
+    "lat": 49.25946,
+    "lng": 8.2862
+  },
+  {
+    "name": "Weingarten",
+    "country": "DE",
+    "lat": 49.05457,
+    "lng": 8.52678
+  },
+  {
+    "name": "Weingarten",
+    "country": "DE",
+    "lat": 47.81009,
+    "lng": 9.63863
+  },
+  {
+    "name": "Weinböhla",
+    "country": "DE",
+    "lat": 51.16667,
+    "lng": 13.56667
+  },
+  {
+    "name": "Weinbach",
+    "country": "DE",
+    "lat": 50.43843,
+    "lng": 8.29133
+  },
+  {
+    "name": "Weimar",
+    "country": "DE",
+    "lat": 50.9803,
+    "lng": 11.32903
+  },
+  {
+    "name": "Weiltingen",
+    "country": "DE",
+    "lat": 49.03878,
+    "lng": 10.45052
+  },
+  {
+    "name": "Weilmünster",
+    "country": "DE",
+    "lat": 50.43143,
+    "lng": 8.37673
+  },
+  {
+    "name": "Weil im Schönbuch",
+    "country": "DE",
+    "lat": 48.6227,
+    "lng": 9.06355
+  },
+  {
+    "name": "Weilheim an der Teck",
+    "country": "DE",
+    "lat": 48.61572,
+    "lng": 9.53751
+  },
+  {
+    "name": "Weilheim",
+    "country": "DE",
+    "lat": 47.84147,
+    "lng": 11.15484
+  },
+  {
+    "name": "Weilheim",
+    "country": "DE",
+    "lat": 47.66667,
+    "lng": 8.23333
+  },
+  {
+    "name": "Weilerswist",
+    "country": "DE",
+    "lat": 50.75292,
+    "lng": 6.84585
+  },
+  {
+    "name": "Weilerbach",
+    "country": "DE",
+    "lat": 49.48333,
+    "lng": 7.63333
+  },
+  {
+    "name": "Weiler",
+    "country": "DE",
+    "lat": 49.95696,
+    "lng": 7.86484
+  },
+  {
+    "name": "Weil der Stadt",
+    "country": "DE",
+    "lat": 48.74953,
+    "lng": 8.87176
+  },
+  {
+    "name": "Weilburg",
+    "country": "DE",
+    "lat": 50.48438,
+    "lng": 8.26249
+  },
+  {
+    "name": "Weilbach",
+    "country": "DE",
+    "lat": 49.66812,
+    "lng": 9.21639
+  },
+  {
+    "name": "Weil am Rhein",
+    "country": "DE",
+    "lat": 47.59331,
+    "lng": 7.62082
+  },
+  {
+    "name": "Weil",
+    "country": "DE",
+    "lat": 48.11717,
+    "lng": 10.92161
+  },
+  {
+    "name": "Weikersheim",
+    "country": "DE",
+    "lat": 49.47866,
+    "lng": 9.89977
+  },
+  {
+    "name": "Weihmichl",
+    "country": "DE",
+    "lat": 48.6,
+    "lng": 12.05
+  },
+  {
+    "name": "Weiherhammer",
+    "country": "DE",
+    "lat": 49.63333,
+    "lng": 12.06667
+  },
+  {
+    "name": "Weihenzell",
+    "country": "DE",
+    "lat": 49.35,
+    "lng": 10.61667
+  },
+  {
+    "name": "Weigendorf",
+    "country": "DE",
+    "lat": 49.49773,
+    "lng": 11.56869
+  },
+  {
+    "name": "Weiding",
+    "country": "DE",
+    "lat": 49.26282,
+    "lng": 12.76311
+  },
+  {
+    "name": "Weidhausen bei Coburg",
+    "country": "DE",
+    "lat": 50.20354,
+    "lng": 11.14006
+  },
+  {
+    "name": "Weidenthal",
+    "country": "DE",
+    "lat": 49.41667,
+    "lng": 8.0
+  },
+  {
+    "name": "Weidenstetten",
+    "country": "DE",
+    "lat": 48.5525,
+    "lng": 9.9961
+  },
+  {
+    "name": "Weidenbach",
+    "country": "DE",
+    "lat": 49.19817,
+    "lng": 10.64489
+  },
+  {
+    "name": "Weiden",
+    "country": "DE",
+    "lat": 49.67682,
+    "lng": 12.15613
+  },
+  {
+    "name": "Weida",
+    "country": "DE",
+    "lat": 50.77449,
+    "lng": 12.06028
+  },
+  {
+    "name": "Weichs",
+    "country": "DE",
+    "lat": 48.38333,
+    "lng": 11.41667
+  },
+  {
+    "name": "Weichering",
+    "country": "DE",
+    "lat": 48.71713,
+    "lng": 11.32141
+  },
+  {
+    "name": "Weibersbrunn",
+    "country": "DE",
+    "lat": 49.93083,
+    "lng": 9.36611
+  },
+  {
+    "name": "Weibern",
+    "country": "DE",
+    "lat": 50.40808,
+    "lng": 7.14669
+  },
+  {
+    "name": "Weißensee",
+    "country": "DE",
+    "lat": 52.55632,
+    "lng": 13.46649
+  },
+  {
+    "name": "Wehringen",
+    "country": "DE",
+    "lat": 48.25,
+    "lng": 10.8
+  },
+  {
+    "name": "Wehrheim",
+    "country": "DE",
+    "lat": 50.3,
+    "lng": 8.56667
+  },
+  {
+    "name": "Wehrda",
+    "country": "DE",
+    "lat": 50.83814,
+    "lng": 8.7556
+  },
+  {
+    "name": "Wehr",
+    "country": "DE",
+    "lat": 50.41667,
+    "lng": 7.21667
+  },
+  {
+    "name": "Wehr",
+    "country": "DE",
+    "lat": 47.62983,
+    "lng": 7.90423
+  },
+  {
+    "name": "Wehingen",
+    "country": "DE",
+    "lat": 48.14533,
+    "lng": 8.79151
+  },
+  {
+    "name": "Wegscheid",
+    "country": "DE",
+    "lat": 48.60136,
+    "lng": 13.78733
+  },
+  {
+    "name": "Wegeleben",
+    "country": "DE",
+    "lat": 51.88376,
+    "lng": 11.17347
+  },
+  {
+    "name": "Wegberg",
+    "country": "DE",
+    "lat": 51.14221,
+    "lng": 6.28436
+  },
+  {
+    "name": "Weferlingen",
+    "country": "DE",
+    "lat": 52.31205,
+    "lng": 11.05791
+  },
+  {
+    "name": "Wefensleben",
+    "country": "DE",
+    "lat": 52.18319,
+    "lng": 11.16074
+  },
+  {
+    "name": "Weeze",
+    "country": "DE",
+    "lat": 51.62678,
+    "lng": 6.19792
+  },
+  {
+    "name": "Wees",
+    "country": "DE",
+    "lat": 54.80621,
+    "lng": 9.51695
+  },
+  {
+    "name": "Weener",
+    "country": "DE",
+    "lat": 53.16332,
+    "lng": 7.35052
+  },
+  {
+    "name": "Wedel",
+    "country": "DE",
+    "lat": 53.58374,
+    "lng": 9.69835
+  },
+  {
+    "name": "Weddingstedt",
+    "country": "DE",
+    "lat": 54.23428,
+    "lng": 9.09103
+  },
+  {
+    "name": "Wedding",
+    "country": "DE",
+    "lat": 52.54734,
+    "lng": 13.35594
+  },
+  {
+    "name": "Weddersleben",
+    "country": "DE",
+    "lat": 51.76533,
+    "lng": 11.08531
+  },
+  {
+    "name": "Weddelbrook",
+    "country": "DE",
+    "lat": 53.90252,
+    "lng": 9.82865
+  },
+  {
+    "name": "Wechselburg",
+    "country": "DE",
+    "lat": 51.00214,
+    "lng": 12.77661
+  },
+  {
+    "name": "Wechingen",
+    "country": "DE",
+    "lat": 48.89229,
+    "lng": 10.61331
+  },
+  {
+    "name": "Weiler-Simmerberg",
+    "country": "DE",
+    "lat": 47.58261,
+    "lng": 9.91352
+  },
+  {
+    "name": "Weilersbach",
+    "country": "DE",
+    "lat": 49.75,
+    "lng": 11.11667
+  },
+  {
+    "name": "Werdervorstadt",
+    "country": "DE",
+    "lat": 53.63909,
+    "lng": 11.42767
+  },
+  {
+    "name": "Weststadt",
+    "country": "DE",
+    "lat": 53.63472,
+    "lng": 11.39565
+  },
+  {
+    "name": "Westhagen",
+    "country": "DE",
+    "lat": 52.40425,
+    "lng": 10.73939
+  },
+  {
+    "name": "Weinberg",
+    "country": "DE",
+    "lat": 52.25703,
+    "lng": 10.47446
+  },
+  {
+    "name": "Wesley",
+    "country": "DM",
+    "lat": 15.56667,
+    "lng": -61.31667
+  },
+  {
+    "name": "Werota",
+    "country": "ET",
+    "lat": 11.91667,
+    "lng": 37.7
+  },
+  {
+    "name": "Were Īlu",
+    "country": "ET",
+    "lat": 10.58964,
+    "lng": 39.43767
+  },
+  {
+    "name": "Wenjī",
+    "country": "ET",
+    "lat": 8.45,
+    "lng": 39.28333
+  },
+  {
+    "name": "Wendo",
+    "country": "ET",
+    "lat": 6.6,
+    "lng": 38.41667
+  },
+  {
+    "name": "Wenago",
+    "country": "ET",
+    "lat": 6.31667,
+    "lng": 38.26667
+  },
+  {
+    "name": "Welk’īt’ē",
+    "country": "ET",
+    "lat": 8.28333,
+    "lng": 37.78333
+  },
+  {
+    "name": "Welench’ītī",
+    "country": "ET",
+    "lat": 8.66667,
+    "lng": 39.43333
+  },
+  {
+    "name": "Weldiya",
+    "country": "ET",
+    "lat": 11.8277,
+    "lng": 39.59164
+  },
+  {
+    "name": "Wegeda",
+    "country": "ET",
+    "lat": 11.21566,
+    "lng": 38.36452
+  },
+  {
+    "name": "Westend",
+    "country": "FI",
+    "lat": 60.16378,
+    "lng": 24.79842
+  },
+  {
+    "name": "Weno",
+    "country": "FM",
+    "lat": 7.44648,
+    "lng": 151.84135
+  },
+  {
+    "name": "Weyersheim",
+    "country": "FR",
+    "lat": 48.71622,
+    "lng": 7.80127
+  },
+  {
+    "name": "Wettolsheim",
+    "country": "FR",
+    "lat": 48.05755,
+    "lng": 7.29844
+  },
+  {
+    "name": "Westhoffen",
+    "country": "FR",
+    "lat": 48.60352,
+    "lng": 7.44289
+  },
+  {
+    "name": "Wervicq-Sud",
+    "country": "FR",
+    "lat": 50.7745,
+    "lng": 3.04207
+  },
+  {
+    "name": "Weitbruch",
+    "country": "FR",
+    "lat": 48.75455,
+    "lng": 7.77935
+  },
+  {
+    "name": "Weymouth",
+    "country": "GB",
+    "lat": 50.61448,
+    "lng": -2.45991
+  },
+  {
+    "name": "Weybridge",
+    "country": "GB",
+    "lat": 51.37178,
+    "lng": -0.45975
+  },
+  {
+    "name": "Wetwang",
+    "country": "GB",
+    "lat": 54.0175,
+    "lng": -0.57738
+  },
+  {
+    "name": "Wetherby",
+    "country": "GB",
+    "lat": 53.92836,
+    "lng": -1.38672
+  },
+  {
+    "name": "Wetheral",
+    "country": "GB",
+    "lat": 54.88401,
+    "lng": -2.83327
+  },
+  {
+    "name": "Westwood",
+    "country": "GB",
+    "lat": 51.33462,
+    "lng": -2.27975
+  },
+  {
+    "name": "West Wickham",
+    "country": "GB",
+    "lat": 51.36667,
+    "lng": -0.01667
+  },
+  {
+    "name": "West Wellow",
+    "country": "GB",
+    "lat": 50.97273,
+    "lng": -1.58293
+  },
+  {
+    "name": "West Walton",
+    "country": "GB",
+    "lat": 52.69782,
+    "lng": 0.17406
+  },
+  {
+    "name": "West Thurrock",
+    "country": "GB",
+    "lat": 51.47828,
+    "lng": 0.27672
+  },
+  {
+    "name": "West Rainton",
+    "country": "GB",
+    "lat": 54.81667,
+    "lng": -1.5
+  },
+  {
+    "name": "Westonzoyland",
+    "country": "GB",
+    "lat": 51.10854,
+    "lng": -2.92843
+  },
+  {
+    "name": "Weston Underwood",
+    "country": "GB",
+    "lat": 52.14574,
+    "lng": -0.73862
+  },
+  {
+    "name": "Weston Turville",
+    "country": "GB",
+    "lat": 51.79168,
+    "lng": -0.75767
+  },
+  {
+    "name": "Weston-super-Mare",
+    "country": "GB",
+    "lat": 51.34603,
+    "lng": -2.97665
+  },
+  {
+    "name": "Westoning",
+    "country": "GB",
+    "lat": 51.9814,
+    "lng": -0.49698
+  },
+  {
+    "name": "Weston",
+    "country": "GB",
+    "lat": 53.06667,
+    "lng": -2.4
+  },
+  {
+    "name": "West Molesey",
+    "country": "GB",
+    "lat": 51.39985,
+    "lng": -0.37997
+  },
+  {
+    "name": "West Mersea",
+    "country": "GB",
+    "lat": 51.77798,
+    "lng": 0.91873
+  },
+  {
+    "name": "West Malling",
+    "country": "GB",
+    "lat": 51.29273,
+    "lng": 0.40907
+  },
+  {
+    "name": "West Linton",
+    "country": "GB",
+    "lat": 55.74972,
+    "lng": -3.35607
+  },
+  {
+    "name": "West Kirby",
+    "country": "GB",
+    "lat": 53.37302,
+    "lng": -3.18417
+  },
+  {
+    "name": "West Kilbride",
+    "country": "GB",
+    "lat": 55.69004,
+    "lng": -4.85771
+  },
+  {
+    "name": "Westhoughton",
+    "country": "GB",
+    "lat": 53.54899,
+    "lng": -2.52464
+  },
+  {
+    "name": "West Horsley",
+    "country": "GB",
+    "lat": 51.26033,
+    "lng": -0.45563
+  },
+  {
+    "name": "West Ham",
+    "country": "GB",
+    "lat": 51.53333,
+    "lng": 0.01667
+  },
+  {
+    "name": "West Hallam",
+    "country": "GB",
+    "lat": 52.97093,
+    "lng": -1.35846
+  },
+  {
+    "name": "West Haddon",
+    "country": "GB",
+    "lat": 52.34168,
+    "lng": -1.07804
+  },
+  {
+    "name": "Westgate on Sea",
+    "country": "GB",
+    "lat": 51.38239,
+    "lng": 1.33673
+  },
+  {
+    "name": "Westerham",
+    "country": "GB",
+    "lat": 51.26632,
+    "lng": 0.06892
+  },
+  {
+    "name": "West End",
+    "country": "GB",
+    "lat": 50.92741,
+    "lng": -1.33282
+  },
+  {
+    "name": "West Drayton",
+    "country": "GB",
+    "lat": 51.5,
+    "lng": -0.46667
+  },
+  {
+    "name": "West Derby",
+    "country": "GB",
+    "lat": 53.43279,
+    "lng": -2.90963
+  },
+  {
+    "name": "Westcott",
+    "country": "GB",
+    "lat": 51.22438,
+    "lng": -0.37195
+  },
+  {
+    "name": "West Coker",
+    "country": "GB",
+    "lat": 50.91912,
+    "lng": -2.68707
+  },
+  {
+    "name": "West Clandon",
+    "country": "GB",
+    "lat": 51.26063,
+    "lng": -0.50323
+  },
+  {
+    "name": "West Calder",
+    "country": "GB",
+    "lat": 55.85188,
+    "lng": -3.56981
+  },
+  {
+    "name": "West Byfleet",
+    "country": "GB",
+    "lat": 51.33764,
+    "lng": -0.50649
+  },
+  {
+    "name": "Westbury",
+    "country": "GB",
+    "lat": 52.67856,
+    "lng": -2.95433
+  },
+  {
+    "name": "Westbury",
+    "country": "GB",
+    "lat": 51.26,
+    "lng": -2.1875
+  },
+  {
+    "name": "West Bromwich",
+    "country": "GB",
+    "lat": 52.51868,
+    "lng": -1.9945
+  },
+  {
+    "name": "West Bridgford",
+    "country": "GB",
+    "lat": 52.92979,
+    "lng": -1.12537
+  },
+  {
+    "name": "West Bergholt",
+    "country": "GB",
+    "lat": 51.91221,
+    "lng": 0.84986
+  },
+  {
+    "name": "Werrington",
+    "country": "GB",
+    "lat": 50.66667,
+    "lng": -4.36667
+  },
+  {
+    "name": "Weobley",
+    "country": "GB",
+    "lat": 52.1596,
+    "lng": -2.875
+  },
+  {
+    "name": "Wenvoe",
+    "country": "GB",
+    "lat": 51.44776,
+    "lng": -3.26369
+  },
+  {
+    "name": "Wentworth",
+    "country": "GB",
+    "lat": 53.47816,
+    "lng": -1.415
+  },
+  {
+    "name": "Wendron",
+    "country": "GB",
+    "lat": 50.13333,
+    "lng": -5.25
+  },
+  {
+    "name": "Wendover",
+    "country": "GB",
+    "lat": 51.76194,
+    "lng": -0.73986
+  },
+  {
+    "name": "Wemyss Bay",
+    "country": "GB",
+    "lat": 55.87614,
+    "lng": -4.8895
+  },
+  {
+    "name": "Wembury",
+    "country": "GB",
+    "lat": 50.32272,
+    "lng": -4.07529
+  },
+  {
+    "name": "Wembley",
+    "country": "GB",
+    "lat": 51.55242,
+    "lng": -0.29686
+  },
+  {
+    "name": "Wem",
+    "country": "GB",
+    "lat": 52.85835,
+    "lng": -2.71826
+  },
+  {
+    "name": "Welwyn Garden City",
+    "country": "GB",
+    "lat": 51.80174,
+    "lng": -0.20691
+  },
+  {
+    "name": "Welwyn",
+    "country": "GB",
+    "lat": 51.8331,
+    "lng": -0.21359
+  },
+  {
+    "name": "Welton",
+    "country": "GB",
+    "lat": 53.73211,
+    "lng": -0.55232
+  },
+  {
+    "name": "Welshpool",
+    "country": "GB",
+    "lat": 52.65973,
+    "lng": -3.1471
+  },
+  {
+    "name": "Wells-next-the-Sea",
+    "country": "GB",
+    "lat": 52.95164,
+    "lng": 0.8511
+  },
+  {
+    "name": "Wells",
+    "country": "GB",
+    "lat": 51.20794,
+    "lng": -2.64896
+  },
+  {
+    "name": "Wellow",
+    "country": "GB",
+    "lat": 51.32444,
+    "lng": -2.37417
+  },
+  {
+    "name": "Wellington",
+    "country": "GB",
+    "lat": 52.7,
+    "lng": -2.51667
+  },
+  {
+    "name": "Wellington",
+    "country": "GB",
+    "lat": 52.12934,
+    "lng": -2.74214
+  },
+  {
+    "name": "Wellingborough",
+    "country": "GB",
+    "lat": 52.30273,
+    "lng": -0.69446
+  },
+  {
+    "name": "Welling",
+    "country": "GB",
+    "lat": 51.46246,
+    "lng": 0.10759
+  },
+  {
+    "name": "Wellesbourne Mountford",
+    "country": "GB",
+    "lat": 52.19246,
+    "lng": -1.60967
+  },
+  {
+    "name": "Wellesbourne",
+    "country": "GB",
+    "lat": 52.19709,
+    "lng": -1.59053
+  },
+  {
+    "name": "Welford",
+    "country": "GB",
+    "lat": 52.41706,
+    "lng": -1.05871
+  },
+  {
+    "name": "Welford",
+    "country": "GB",
+    "lat": 51.45727,
+    "lng": -1.41131
+  },
+  {
+    "name": "Weeting",
+    "country": "GB",
+    "lat": 52.4644,
+    "lng": 0.61485
+  },
+  {
+    "name": "Weedon Bec",
+    "country": "GB",
+    "lat": 52.22955,
+    "lng": -1.08371
+  },
+  {
+    "name": "Wednesfield",
+    "country": "GB",
+    "lat": 52.5963,
+    "lng": -2.08508
+  },
+  {
+    "name": "Wednesbury",
+    "country": "GB",
+    "lat": 52.5514,
+    "lng": -2.02355
+  },
+  {
+    "name": "Wedmore",
+    "country": "GB",
+    "lat": 51.22727,
+    "lng": -2.81152
+  },
+  {
+    "name": "Weaverham",
+    "country": "GB",
+    "lat": 53.26018,
+    "lng": -2.57291
+  },
+  {
+    "name": "West End of London",
+    "country": "GB",
+    "lat": 51.51414,
+    "lng": -0.1551
+  },
+  {
+    "name": "Westcliff-on-Sea",
+    "country": "GB",
+    "lat": 51.54424,
+    "lng": 0.69179
+  },
+  {
+    "name": "Westhill",
+    "country": "GB",
+    "lat": 57.15263,
+    "lng": -2.27966
+  },
+  {
+    "name": "West Ealing",
+    "country": "GB",
+    "lat": 51.51355,
+    "lng": -0.3229
+  },
+  {
+    "name": "Westergate",
+    "country": "GB",
+    "lat": 50.83988,
+    "lng": -0.67123
+  },
+  {
+    "name": "West Kingsdown",
+    "country": "GB",
+    "lat": 51.34281,
+    "lng": 0.26127
+  },
+  {
+    "name": "Welham Green",
+    "country": "GB",
+    "lat": 51.7346,
+    "lng": -0.22084
+  },
+  {
+    "name": "Westhill",
+    "country": "GB",
+    "lat": 57.47323,
+    "lng": -4.14893
+  },
+  {
+    "name": "Westquarter",
+    "country": "GB",
+    "lat": 55.99142,
+    "lng": -3.74016
+  },
+  {
+    "name": "West Ilsley",
+    "country": "GB",
+    "lat": 51.53993,
+    "lng": -1.32368
+  },
+  {
+    "name": "Wealdstone",
+    "country": "GB",
+    "lat": 51.59983,
+    "lng": -0.33711
+  },
+  {
+    "name": "West End",
+    "country": "GB",
+    "lat": 51.51235,
+    "lng": -0.14358
+  },
+  {
+    "name": "Westbourne",
+    "country": "GB",
+    "lat": 51.52126,
+    "lng": -0.19378
+  },
+  {
+    "name": "West Horndon",
+    "country": "GB",
+    "lat": 51.57,
+    "lng": 0.34
+  },
+  {
+    "name": "West Watford",
+    "country": "GB",
+    "lat": 51.65739,
+    "lng": -0.41655
+  },
+  {
+    "name": "Wellingara Ba",
+    "country": "GM",
+    "lat": 13.41667,
+    "lng": -15.4
+  },
+  {
+    "name": "Welingara",
+    "country": "GM",
+    "lat": 13.40361,
+    "lng": -16.67361
+  },
+  {
+    "name": "Wekerletelep",
+    "country": "HU",
+    "lat": 47.45561,
+    "lng": 19.12609
+  },
+  {
+    "name": "Weru",
+    "country": "ID",
+    "lat": -6.711,
+    "lng": 108.5037
+  },
+  {
+    "name": "Werinama",
+    "country": "ID",
+    "lat": -3.5029,
+    "lng": 130.1105
+  },
+  {
+    "name": "Weleri",
+    "country": "ID",
+    "lat": -6.9713,
+    "lng": 110.0666
+  },
+  {
+    "name": "Welahan",
+    "country": "ID",
+    "lat": -6.8,
+    "lng": 110.71667
+  },
+  {
+    "name": "Wedi",
+    "country": "ID",
+    "lat": -7.74306,
+    "lng": 110.57944
+  },
+  {
+    "name": "Wedarijaksa",
+    "country": "ID",
+    "lat": -6.68155,
+    "lng": 111.07161
+  },
+  {
+    "name": "Weda",
+    "country": "ID",
+    "lat": 0.32952,
+    "lng": 127.87389
+  },
+  {
+    "name": "Welamosa",
+    "country": "ID",
+    "lat": -8.6058,
+    "lng": 121.71763
+  },
+  {
+    "name": "Werang",
+    "country": "ID",
+    "lat": -8.6488,
+    "lng": 120.0106
+  },
+  {
+    "name": "Weriagar",
+    "country": "ID",
+    "lat": -2.27117,
+    "lng": 132.89141
+  },
+  {
+    "name": "Wexford",
+    "country": "IE",
+    "lat": 52.33417,
+    "lng": -6.4575
+  },
+  {
+    "name": "Westport",
+    "country": "IE",
+    "lat": 53.8,
+    "lng": -9.51667
+  },
+  {
+    "name": "West Jerusalem",
+    "country": "IL",
+    "lat": 31.78199,
+    "lng": 35.21961
+  },
+  {
+    "name": "Weir",
+    "country": "IN",
+    "lat": 27.0186,
+    "lng": 77.17636
+  },
+  {
+    "name": "Wellington",
+    "country": "IN",
+    "lat": 11.36552,
+    "lng": 76.78442
+  },
+  {
+    "name": "Webuye",
+    "country": "KE",
+    "lat": 0.6004,
+    "lng": 34.77119
+  },
+  {
+    "name": "West Bay",
+    "country": "KY",
+    "lat": 19.38197,
+    "lng": -81.39281
+  },
+  {
+    "name": "Welisara",
+    "country": "LK",
+    "lat": 7.0281,
+    "lng": 79.9014
+  },
+  {
+    "name": "Weligama",
+    "country": "LK",
+    "lat": 5.97501,
+    "lng": 80.42968
+  },
+  {
+    "name": "Wellawaya",
+    "country": "LK",
+    "lat": 6.73694,
+    "lng": 81.10279
+  },
+  {
+    "name": "Weiswampach",
+    "country": "LU",
+    "lat": 50.13722,
+    "lng": 6.075
+  },
+  {
+    "name": "Weimerskirch",
+    "country": "LU",
+    "lat": 49.62361,
+    "lng": 6.13639
+  },
+  {
+    "name": "Weiler-la-Tour",
+    "country": "LU",
+    "lat": 49.54083,
+    "lng": 6.20083
+  },
+  {
+    "name": "Werekela",
+    "country": "ML",
+    "lat": 14.33263,
+    "lng": -5.94515
+  },
+  {
+    "name": "Webula",
+    "country": "MM",
+    "lat": 23.01667,
+    "lng": 93.91667
+  },
+  {
+    "name": "Westwoud",
+    "country": "NL",
+    "lat": 52.685,
+    "lng": 5.13472
+  },
+  {
+    "name": "West-Terschelling",
+    "country": "NL",
+    "lat": 53.35911,
+    "lng": 5.21482
+  },
+  {
+    "name": "West-Souburg",
+    "country": "NL",
+    "lat": 51.46417,
+    "lng": 3.59167
+  },
+  {
+    "name": "Westmaas",
+    "country": "NL",
+    "lat": 51.78667,
+    "lng": 4.475
+  },
+  {
+    "name": "Westlaren",
+    "country": "NL",
+    "lat": 53.0848,
+    "lng": 6.66469
+  },
+  {
+    "name": "Westkapelle",
+    "country": "NL",
+    "lat": 51.52917,
+    "lng": 3.44028
+  },
+  {
+    "name": "Westerzicht",
+    "country": "NL",
+    "lat": 51.46252,
+    "lng": 3.58687
+  },
+  {
+    "name": "Westervoort",
+    "country": "NL",
+    "lat": 51.95583,
+    "lng": 5.97222
+  },
+  {
+    "name": "Westerlee",
+    "country": "NL",
+    "lat": 53.14583,
+    "lng": 6.9875
+  },
+  {
+    "name": "Westerhoven",
+    "country": "NL",
+    "lat": 51.3325,
+    "lng": 5.39583
+  },
+  {
+    "name": "Westerhaar-Vriezenveensewijk",
+    "country": "NL",
+    "lat": 52.45583,
+    "lng": 6.62361
+  },
+  {
+    "name": "Westerbork",
+    "country": "NL",
+    "lat": 52.85,
+    "lng": 6.60833
+  },
+  {
+    "name": "Westeneng",
+    "country": "NL",
+    "lat": 52.1275,
+    "lng": 5.71528
+  },
+  {
+    "name": "Westeinde",
+    "country": "NL",
+    "lat": 53.20853,
+    "lng": 5.76812
+  },
+  {
+    "name": "Westdorpe",
+    "country": "NL",
+    "lat": 51.2325,
+    "lng": 3.82639
+  },
+  {
+    "name": "Wessem",
+    "country": "NL",
+    "lat": 51.15954,
+    "lng": 5.88146
+  },
+  {
+    "name": "Wernhout",
+    "country": "NL",
+    "lat": 51.455,
+    "lng": 4.64167
+  },
+  {
+    "name": "Werkhoven",
+    "country": "NL",
+    "lat": 52.025,
+    "lng": 5.24444
+  },
+  {
+    "name": "Werkendam",
+    "country": "NL",
+    "lat": 51.81,
+    "lng": 4.89444
+  },
+  {
+    "name": "Wemeldinge",
+    "country": "NL",
+    "lat": 51.51833,
+    "lng": 3.99722
+  },
+  {
+    "name": "Wellerlooi",
+    "country": "NL",
+    "lat": 51.53417,
+    "lng": 6.13611
+  },
+  {
+    "name": "Well",
+    "country": "NL",
+    "lat": 51.55,
+    "lng": 6.08889
+  },
+  {
+    "name": "Welberg",
+    "country": "NL",
+    "lat": 51.57667,
+    "lng": 4.33056
+  },
+  {
+    "name": "Wekerom",
+    "country": "NL",
+    "lat": 52.1125,
+    "lng": 5.71389
+  },
+  {
+    "name": "Weiteveen",
+    "country": "NL",
+    "lat": 52.6725,
+    "lng": 6.9875
+  },
+  {
+    "name": "Weijpoort",
+    "country": "NL",
+    "lat": 52.08167,
+    "lng": 4.80278
+  },
+  {
+    "name": "Weesp",
+    "country": "NL",
+    "lat": 52.3075,
+    "lng": 5.04167
+  },
+  {
+    "name": "Weert",
+    "country": "NL",
+    "lat": 51.25167,
+    "lng": 5.70694
+  },
+  {
+    "name": "Weerestein",
+    "country": "NL",
+    "lat": 52.30381,
+    "lng": 4.58861
+  },
+  {
+    "name": "Welgelegen",
+    "country": "NL",
+    "lat": 52.21397,
+    "lng": 5.97643
+  },
+  {
+    "name": "Westenenk",
+    "country": "NL",
+    "lat": 52.19624,
+    "lng": 5.95656
+  },
+  {
+    "name": "Weston",
+    "country": "NZ",
+    "lat": -45.08333,
+    "lng": 170.91667
+  },
+  {
+    "name": "West Melton",
+    "country": "NZ",
+    "lat": -43.51667,
+    "lng": 172.36667
+  },
+  {
+    "name": "West Eyreton",
+    "country": "NZ",
+    "lat": -43.35,
+    "lng": 172.38333
+  },
+  {
+    "name": "Wellsford",
+    "country": "NZ",
+    "lat": -36.28333,
+    "lng": 174.51667
+  },
+  {
+    "name": "Wellington",
+    "country": "NZ",
+    "lat": -41.28664,
+    "lng": 174.77557
+  },
+  {
+    "name": "Westport",
+    "country": "NZ",
+    "lat": -41.75262,
+    "lng": 171.6037
+  },
+  {
+    "name": "West End",
+    "country": "NZ",
+    "lat": -44.38835,
+    "lng": 171.2201
+  },
+  {
+    "name": "Westmorland",
+    "country": "NZ",
+    "lat": -43.57833,
+    "lng": 172.60013
+  },
+  {
+    "name": "Welbourn",
+    "country": "NZ",
+    "lat": -39.07221,
+    "lng": 174.09094
+  },
+  {
+    "name": "Westown",
+    "country": "NZ",
+    "lat": -39.07135,
+    "lng": 174.06215
+  },
+  {
+    "name": "West End",
+    "country": "NZ",
+    "lat": -40.3659,
+    "lng": 175.59843
+  },
+  {
+    "name": "Westmere",
+    "country": "NZ",
+    "lat": -36.85538,
+    "lng": 174.71991
+  },
+  {
+    "name": "West Harbour",
+    "country": "NZ",
+    "lat": -36.8182,
+    "lng": 174.61019
+  },
+  {
+    "name": "Western Heights",
+    "country": "NZ",
+    "lat": -36.8782,
+    "lng": 174.61019
+  },
+  {
+    "name": "Wellington Central",
+    "country": "NZ",
+    "lat": -41.28755,
+    "lng": 174.77523
+  },
+  {
+    "name": "Wewak",
+    "country": "PG",
+    "lat": -3.54964,
+    "lng": 143.63229
+  },
+  {
+    "name": "Wesoła",
+    "country": "PL",
+    "lat": 52.25451,
+    "lng": 21.22407
+  },
+  {
+    "name": "Wesoła",
+    "country": "PL",
+    "lat": 49.79977,
+    "lng": 22.10029
+  },
+  {
+    "name": "Werbkowice",
+    "country": "PL",
+    "lat": 50.75373,
+    "lng": 23.76411
+  },
+  {
+    "name": "Wejherowo",
+    "country": "PL",
+    "lat": 54.60568,
+    "lng": 18.23559
+  },
+  {
+    "name": "Wed Alnkil",
+    "country": "SA",
+    "lat": 25.4267,
+    "lng": 42.8343
+  },
+  {
+    "name": "West Coast Village",
+    "country": "SG",
+    "lat": 1.31667,
+    "lng": 103.75
+  },
+  {
+    "name": "Wete",
+    "country": "TZ",
+    "lat": -5.05589,
+    "lng": 39.72938
+  },
+  {
+    "name": "Weaver",
+    "country": "US",
+    "lat": 33.75205,
+    "lng": -85.81135
+  },
+  {
+    "name": "Webb",
+    "country": "US",
+    "lat": 31.26045,
+    "lng": -85.27327
+  },
+  {
+    "name": "Wedowee",
+    "country": "US",
+    "lat": 33.309,
+    "lng": -85.48467
+  },
+  {
+    "name": "West Blocton",
+    "country": "US",
+    "lat": 33.11817,
+    "lng": -87.125
+  },
+  {
+    "name": "Westover",
+    "country": "US",
+    "lat": 33.34955,
+    "lng": -86.53582
+  },
+  {
+    "name": "Wetumpka",
+    "country": "US",
+    "lat": 32.54374,
+    "lng": -86.21191
+  },
+  {
+    "name": "West Crossett",
+    "country": "US",
+    "lat": 33.14096,
+    "lng": -91.99402
+  },
+  {
+    "name": "West Fork",
+    "country": "US",
+    "lat": 35.92425,
+    "lng": -94.18854
+  },
+  {
+    "name": "West Helena",
+    "country": "US",
+    "lat": 34.55066,
+    "lng": -90.64177
+  },
+  {
+    "name": "West Memphis",
+    "country": "US",
+    "lat": 35.14648,
+    "lng": -90.18454
+  },
+  {
+    "name": "Wedgefield",
+    "country": "US",
+    "lat": 28.48778,
+    "lng": -81.07729
+  },
+  {
+    "name": "Weeki Wachee Gardens",
+    "country": "US",
+    "lat": 28.53361,
+    "lng": -82.62954
+  },
+  {
+    "name": "Wekiwa Springs",
+    "country": "US",
+    "lat": 28.69861,
+    "lng": -81.42563
+  },
+  {
+    "name": "Wellborn",
+    "country": "US",
+    "lat": 30.23106,
+    "lng": -82.81957
+  },
+  {
+    "name": "Wellington",
+    "country": "US",
+    "lat": 26.65868,
+    "lng": -80.24144
+  },
+  {
+    "name": "Wesley Chapel",
+    "country": "US",
+    "lat": 28.23973,
+    "lng": -82.32787
+  },
+  {
+    "name": "West Bradenton",
+    "country": "US",
+    "lat": 27.50254,
+    "lng": -82.61399
+  },
+  {
+    "name": "Westchase",
+    "country": "US",
+    "lat": 28.05502,
+    "lng": -82.60982
+  },
+  {
+    "name": "West DeLand",
+    "country": "US",
+    "lat": 29.01582,
+    "lng": -81.33312
+  },
+  {
+    "name": "West Gate",
+    "country": "US",
+    "lat": 26.70257,
+    "lng": -80.0981
+  },
+  {
+    "name": "West Hollywood",
+    "country": "US",
+    "lat": 26.02065,
+    "lng": -80.18394
+  },
+  {
+    "name": "West Little River",
+    "country": "US",
+    "lat": 25.85704,
+    "lng": -80.23699
+  },
+  {
+    "name": "West Melbourne",
+    "country": "US",
+    "lat": 28.07168,
+    "lng": -80.65339
+  },
+  {
+    "name": "West Miami",
+    "country": "US",
+    "lat": 25.76343,
+    "lng": -80.29616
+  },
+  {
+    "name": "West Palm Beach",
+    "country": "US",
+    "lat": 26.71534,
+    "lng": -80.05337
+  },
+  {
+    "name": "West Park",
+    "country": "US",
+    "lat": 25.98454,
+    "lng": -80.19894
+  },
+  {
+    "name": "West Pensacola",
+    "country": "US",
+    "lat": 30.42659,
+    "lng": -87.27969
+  },
+  {
+    "name": "West Perrine",
+    "country": "US",
+    "lat": 25.60594,
+    "lng": -80.36283
+  },
+  {
+    "name": "West Samoset",
+    "country": "US",
+    "lat": 27.46948,
+    "lng": -82.55676
+  },
+  {
+    "name": "West Vero Corridor",
+    "country": "US",
+    "lat": 27.63775,
+    "lng": -80.48576
+  },
+  {
+    "name": "West and East Lealman",
+    "country": "US",
+    "lat": 27.81993,
+    "lng": -82.68944
+  },
+  {
+    "name": "Westchester",
+    "country": "US",
+    "lat": 25.75482,
+    "lng": -80.32727
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 26.10037,
+    "lng": -80.39977
+  },
+  {
+    "name": "Westview",
+    "country": "US",
+    "lat": 25.88204,
+    "lng": -80.24199
+  },
+  {
+    "name": "Westwood Lake",
+    "country": "US",
+    "lat": 25.72927,
+    "lng": -80.37283
+  },
+  {
+    "name": "Wewahitchka",
+    "country": "US",
+    "lat": 30.1127,
+    "lng": -85.20047
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 32.87791,
+    "lng": -85.18327
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 32.79347,
+    "lng": -83.80741
+  },
+  {
+    "name": "West Frankfort",
+    "country": "US",
+    "lat": 37.89783,
+    "lng": -88.93146
+  },
+  {
+    "name": "West Terre Haute",
+    "country": "US",
+    "lat": 39.46504,
+    "lng": -87.45002
+  },
+  {
+    "name": "Westport",
+    "country": "US",
+    "lat": 39.17589,
+    "lng": -85.57303
+  },
+  {
+    "name": "Wellington",
+    "country": "US",
+    "lat": 37.2653,
+    "lng": -97.37171
+  },
+  {
+    "name": "Wellsville",
+    "country": "US",
+    "lat": 38.71834,
+    "lng": -95.08164
+  },
+  {
+    "name": "Westmoreland",
+    "country": "US",
+    "lat": 39.39389,
+    "lng": -96.41361
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 39.04056,
+    "lng": -94.6169
+  },
+  {
+    "name": "West Buechel",
+    "country": "US",
+    "lat": 38.19701,
+    "lng": -85.66329
+  },
+  {
+    "name": "West Liberty",
+    "country": "US",
+    "lat": 37.92148,
+    "lng": -83.25962
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 38.48314,
+    "lng": -82.66988
+  },
+  {
+    "name": "Welsh",
+    "country": "US",
+    "lat": 30.23604,
+    "lng": -92.82265
+  },
+  {
+    "name": "West Ferriday",
+    "country": "US",
+    "lat": 31.64044,
+    "lng": -91.57318
+  },
+  {
+    "name": "West Monroe",
+    "country": "US",
+    "lat": 32.51848,
+    "lng": -92.14764
+  },
+  {
+    "name": "Westlake",
+    "country": "US",
+    "lat": 30.24215,
+    "lng": -93.25071
+  },
+  {
+    "name": "Westwego",
+    "country": "US",
+    "lat": 29.90604,
+    "lng": -90.1423
+  },
+  {
+    "name": "Westminster",
+    "country": "US",
+    "lat": 30.4138,
+    "lng": -91.0876
+  },
+  {
+    "name": "West Arlington",
+    "country": "US",
+    "lat": 39.33677,
+    "lng": -76.69497
+  },
+  {
+    "name": "West Elkridge",
+    "country": "US",
+    "lat": 39.20705,
+    "lng": -76.72692
+  },
+  {
+    "name": "West Forest Park",
+    "country": "US",
+    "lat": 39.32036,
+    "lng": -76.69176
+  },
+  {
+    "name": "West Laurel",
+    "country": "US",
+    "lat": 39.10122,
+    "lng": -76.8997
+  },
+  {
+    "name": "West Ocean City",
+    "country": "US",
+    "lat": 38.3315,
+    "lng": -75.10685
+  },
+  {
+    "name": "Westernport",
+    "country": "US",
+    "lat": 39.48537,
+    "lng": -79.04475
+  },
+  {
+    "name": "Westminster",
+    "country": "US",
+    "lat": 39.57538,
+    "lng": -76.99581
+  },
+  {
+    "name": "Westphalia",
+    "country": "US",
+    "lat": 38.84539,
+    "lng": -76.81108
+  },
+  {
+    "name": "Westport",
+    "country": "US",
+    "lat": 39.26205,
+    "lng": -76.63552
+  },
+  {
+    "name": "Weatherby Lake",
+    "country": "US",
+    "lat": 39.23778,
+    "lng": -94.69607
+  },
+  {
+    "name": "Webb City",
+    "country": "US",
+    "lat": 37.14645,
+    "lng": -94.463
+  },
+  {
+    "name": "Webster Groves",
+    "country": "US",
+    "lat": 38.59255,
+    "lng": -90.35734
+  },
+  {
+    "name": "Weldon Spring",
+    "country": "US",
+    "lat": 38.71339,
+    "lng": -90.68929
+  },
+  {
+    "name": "Wellston",
+    "country": "US",
+    "lat": 38.67283,
+    "lng": -90.29928
+  },
+  {
+    "name": "Wellsville",
+    "country": "US",
+    "lat": 39.07198,
+    "lng": -91.57016
+  },
+  {
+    "name": "Wentzville",
+    "country": "US",
+    "lat": 38.81144,
+    "lng": -90.85291
+  },
+  {
+    "name": "West Plains",
+    "country": "US",
+    "lat": 36.72812,
+    "lng": -91.85237
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 39.41111,
+    "lng": -94.90163
+  },
+  {
+    "name": "Wesson",
+    "country": "US",
+    "lat": 31.70128,
+    "lng": -90.39759
+  },
+  {
+    "name": "West Gulfport",
+    "country": "US",
+    "lat": 30.40409,
+    "lng": -89.0942
+  },
+  {
+    "name": "West Hattiesburg",
+    "country": "US",
+    "lat": 31.31906,
+    "lng": -89.37506
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 33.60762,
+    "lng": -88.65033
+  },
+  {
+    "name": "Weaverville",
+    "country": "US",
+    "lat": 35.69705,
+    "lng": -82.56069
+  },
+  {
+    "name": "Weddington",
+    "country": "US",
+    "lat": 35.02237,
+    "lng": -80.7609
+  },
+  {
+    "name": "Welcome",
+    "country": "US",
+    "lat": 35.90292,
+    "lng": -80.25699
+  },
+  {
+    "name": "Weldon",
+    "country": "US",
+    "lat": 36.4271,
+    "lng": -77.59553
+  },
+  {
+    "name": "Wentworth",
+    "country": "US",
+    "lat": 36.40014,
+    "lng": -79.77448
+  },
+  {
+    "name": "Wesley Chapel",
+    "country": "US",
+    "lat": 35.00709,
+    "lng": -80.67451
+  },
+  {
+    "name": "Wendell",
+    "country": "US",
+    "lat": 35.78099,
+    "lng": -78.36972
+  },
+  {
+    "name": "West Canton",
+    "country": "US",
+    "lat": 35.53788,
+    "lng": -82.85819
+  },
+  {
+    "name": "West Jefferson",
+    "country": "US",
+    "lat": 36.40374,
+    "lng": -81.49288
+  },
+  {
+    "name": "West Marion",
+    "country": "US",
+    "lat": 35.6579,
+    "lng": -82.02539
+  },
+  {
+    "name": "West Raleigh",
+    "country": "US",
+    "lat": 35.78682,
+    "lng": -78.66389
+  },
+  {
+    "name": "Westport",
+    "country": "US",
+    "lat": 35.50125,
+    "lng": -80.97869
+  },
+  {
+    "name": "Wenonah",
+    "country": "US",
+    "lat": 39.79456,
+    "lng": -75.14879
+  },
+  {
+    "name": "West Cape May",
+    "country": "US",
+    "lat": 38.93872,
+    "lng": -74.94184
+  },
+  {
+    "name": "Westville",
+    "country": "US",
+    "lat": 39.86789,
+    "lng": -75.13156
+  },
+  {
+    "name": "Wellston",
+    "country": "US",
+    "lat": 39.12341,
+    "lng": -82.53294
+  },
+  {
+    "name": "West Alexandria",
+    "country": "US",
+    "lat": 39.7445,
+    "lng": -84.53217
+  },
+  {
+    "name": "West Carrollton City",
+    "country": "US",
+    "lat": 39.67228,
+    "lng": -84.25216
+  },
+  {
+    "name": "West Jefferson",
+    "country": "US",
+    "lat": 39.94478,
+    "lng": -83.2688
+  },
+  {
+    "name": "West Milton",
+    "country": "US",
+    "lat": 39.96255,
+    "lng": -84.328
+  },
+  {
+    "name": "West Portsmouth",
+    "country": "US",
+    "lat": 38.75841,
+    "lng": -83.02906
+  },
+  {
+    "name": "West Union",
+    "country": "US",
+    "lat": 38.79452,
+    "lng": -83.54519
+  },
+  {
+    "name": "Wetherington",
+    "country": "US",
+    "lat": 39.36367,
+    "lng": -84.37744
+  },
+  {
+    "name": "Weatherford",
+    "country": "US",
+    "lat": 35.52616,
+    "lng": -98.70757
+  },
+  {
+    "name": "Westville",
+    "country": "US",
+    "lat": 35.99258,
+    "lng": -94.568
+  },
+  {
+    "name": "Wetumka",
+    "country": "US",
+    "lat": 35.23759,
+    "lng": -96.24167
+  },
+  {
+    "name": "Wewoka",
+    "country": "US",
+    "lat": 35.15869,
+    "lng": -96.49335
+  },
+  {
+    "name": "Weigelstown",
+    "country": "US",
+    "lat": 39.98371,
+    "lng": -76.82247
+  },
+  {
+    "name": "West Chester",
+    "country": "US",
+    "lat": 39.96097,
+    "lng": -75.60804
+  },
+  {
+    "name": "West Grove",
+    "country": "US",
+    "lat": 39.82205,
+    "lng": -75.82744
+  },
+  {
+    "name": "West Kensington",
+    "country": "US",
+    "lat": 39.9865,
+    "lng": -75.13907
+  },
+  {
+    "name": "West York",
+    "country": "US",
+    "lat": 39.9526,
+    "lng": -76.75136
+  },
+  {
+    "name": "Wedgefield",
+    "country": "US",
+    "lat": 33.89266,
+    "lng": -80.51814
+  },
+  {
+    "name": "Wedgewood",
+    "country": "US",
+    "lat": 33.88377,
+    "lng": -80.51258
+  },
+  {
+    "name": "Welcome",
+    "country": "US",
+    "lat": 34.82651,
+    "lng": -82.43901
+  },
+  {
+    "name": "Wellford",
+    "country": "US",
+    "lat": 34.95095,
+    "lng": -82.10594
+  },
+  {
+    "name": "West Columbia",
+    "country": "US",
+    "lat": 33.99349,
+    "lng": -81.07398
+  },
+  {
+    "name": "Westminster",
+    "country": "US",
+    "lat": 34.66482,
+    "lng": -83.09654
+  },
+  {
+    "name": "Westmoreland",
+    "country": "US",
+    "lat": 36.56199,
+    "lng": -86.24804
+  },
+  {
+    "name": "Weatherford",
+    "country": "US",
+    "lat": 32.7593,
+    "lng": -97.79725
+  },
+  {
+    "name": "Webster",
+    "country": "US",
+    "lat": 29.53773,
+    "lng": -95.11826
+  },
+  {
+    "name": "Weimar",
+    "country": "US",
+    "lat": 29.70301,
+    "lng": -96.78053
+  },
+  {
+    "name": "Wells Branch",
+    "country": "US",
+    "lat": 30.44604,
+    "lng": -97.67945
+  },
+  {
+    "name": "Weslaco",
+    "country": "US",
+    "lat": 26.15952,
+    "lng": -97.99084
+  },
+  {
+    "name": "West",
+    "country": "US",
+    "lat": 31.80238,
+    "lng": -97.09167
+  },
+  {
+    "name": "West Columbia",
+    "country": "US",
+    "lat": 29.14386,
+    "lng": -95.64522
+  },
+  {
+    "name": "West Lake Hills",
+    "country": "US",
+    "lat": 30.29798,
+    "lng": -97.80195
+  },
+  {
+    "name": "West Livingston",
+    "country": "US",
+    "lat": 30.69825,
+    "lng": -95.00188
+  },
+  {
+    "name": "West Orange",
+    "country": "US",
+    "lat": 30.08215,
+    "lng": -93.75822
+  },
+  {
+    "name": "West Sharyland",
+    "country": "US",
+    "lat": 26.27257,
+    "lng": -98.32863
+  },
+  {
+    "name": "West Tawakoni",
+    "country": "US",
+    "lat": 32.89373,
+    "lng": -96.02941
+  },
+  {
+    "name": "West University Place",
+    "country": "US",
+    "lat": 29.71801,
+    "lng": -95.43383
+  },
+  {
+    "name": "Westlake",
+    "country": "US",
+    "lat": 32.99124,
+    "lng": -97.19501
+  },
+  {
+    "name": "Westworth",
+    "country": "US",
+    "lat": 32.75735,
+    "lng": -97.41085
+  },
+  {
+    "name": "Weber City",
+    "country": "US",
+    "lat": 37.75514,
+    "lng": -78.28389
+  },
+  {
+    "name": "Weber City",
+    "country": "US",
+    "lat": 36.62288,
+    "lng": -82.5621
+  },
+  {
+    "name": "West Gate",
+    "country": "US",
+    "lat": 38.78289,
+    "lng": -77.49749
+  },
+  {
+    "name": "West Lynchburg",
+    "country": "US",
+    "lat": 37.4032,
+    "lng": -79.17808
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 37.53153,
+    "lng": -76.79635
+  },
+  {
+    "name": "West Springfield",
+    "country": "US",
+    "lat": 38.77261,
+    "lng": -77.22109
+  },
+  {
+    "name": "Weyers Cave",
+    "country": "US",
+    "lat": 38.28846,
+    "lng": -78.91308
+  },
+  {
+    "name": "Webster Springs",
+    "country": "US",
+    "lat": 38.47927,
+    "lng": -80.41342
+  },
+  {
+    "name": "Welch",
+    "country": "US",
+    "lat": 37.43289,
+    "lng": -81.58455
+  },
+  {
+    "name": "West Union",
+    "country": "US",
+    "lat": 39.29647,
+    "lng": -80.77705
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 39.03843,
+    "lng": -80.46731
+  },
+  {
+    "name": "Westover",
+    "country": "US",
+    "lat": 39.63453,
+    "lng": -79.96979
+  },
+  {
+    "name": "West Barnstable",
+    "country": "US",
+    "lat": 41.70566,
+    "lng": -70.37447
+  },
+  {
+    "name": "Weatogue",
+    "country": "US",
+    "lat": 41.84371,
+    "lng": -72.82843
+  },
+  {
+    "name": "West Hartford",
+    "country": "US",
+    "lat": 41.76204,
+    "lng": -72.74204
+  },
+  {
+    "name": "West Haven",
+    "country": "US",
+    "lat": 41.27065,
+    "lng": -72.94705
+  },
+  {
+    "name": "West Simsbury",
+    "country": "US",
+    "lat": 41.87315,
+    "lng": -72.85815
+  },
+  {
+    "name": "West Torrington",
+    "country": "US",
+    "lat": 41.81843,
+    "lng": -73.14372
+  },
+  {
+    "name": "Westport",
+    "country": "US",
+    "lat": 41.14149,
+    "lng": -73.3579
+  },
+  {
+    "name": "Wethersfield",
+    "country": "US",
+    "lat": 41.71427,
+    "lng": -72.65259
+  },
+  {
+    "name": "Webster City",
+    "country": "US",
+    "lat": 42.46942,
+    "lng": -93.81605
+  },
+  {
+    "name": "Wellman",
+    "country": "US",
+    "lat": 41.46418,
+    "lng": -91.83823
+  },
+  {
+    "name": "West Branch",
+    "country": "US",
+    "lat": 41.67141,
+    "lng": -91.34655
+  },
+  {
+    "name": "West Burlington",
+    "country": "US",
+    "lat": 40.82504,
+    "lng": -91.15654
+  },
+  {
+    "name": "West Des Moines",
+    "country": "US",
+    "lat": 41.57721,
+    "lng": -93.71133
+  },
+  {
+    "name": "West Liberty",
+    "country": "US",
+    "lat": 41.57002,
+    "lng": -91.26377
+  },
+  {
+    "name": "West Union",
+    "country": "US",
+    "lat": 42.96276,
+    "lng": -91.80822
+  },
+  {
+    "name": "West Chicago",
+    "country": "US",
+    "lat": 41.88475,
+    "lng": -88.20396
+  },
+  {
+    "name": "West Dundee",
+    "country": "US",
+    "lat": 42.09808,
+    "lng": -88.28286
+  },
+  {
+    "name": "West Elsdon",
+    "country": "US",
+    "lat": 41.79392,
+    "lng": -87.7245
+  },
+  {
+    "name": "West Englewood",
+    "country": "US",
+    "lat": 41.77809,
+    "lng": -87.66672
+  },
+  {
+    "name": "West Garfield Park",
+    "country": "US",
+    "lat": 41.88059,
+    "lng": -87.72922
+  },
+  {
+    "name": "West Lawn",
+    "country": "US",
+    "lat": 41.77281,
+    "lng": -87.72227
+  },
+  {
+    "name": "West Peoria",
+    "country": "US",
+    "lat": 40.69254,
+    "lng": -89.62788
+  },
+  {
+    "name": "West Ridge",
+    "country": "US",
+    "lat": 41.99975,
+    "lng": -87.69284
+  },
+  {
+    "name": "West Town",
+    "country": "US",
+    "lat": 41.89381,
+    "lng": -87.67493
+  },
+  {
+    "name": "Westchester",
+    "country": "US",
+    "lat": 41.85059,
+    "lng": -87.882
+  },
+  {
+    "name": "Western Springs",
+    "country": "US",
+    "lat": 41.80975,
+    "lng": -87.90062
+  },
+  {
+    "name": "Westmont",
+    "country": "US",
+    "lat": 41.79586,
+    "lng": -87.97562
+  },
+  {
+    "name": "Westville",
+    "country": "US",
+    "lat": 40.04226,
+    "lng": -87.63863
+  },
+  {
+    "name": "West Lafayette",
+    "country": "US",
+    "lat": 40.42587,
+    "lng": -86.90807
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 40.04282,
+    "lng": -86.12749
+  },
+  {
+    "name": "Westville",
+    "country": "US",
+    "lat": 41.54143,
+    "lng": -86.90058
+  },
+  {
+    "name": "Webster",
+    "country": "US",
+    "lat": 42.0501,
+    "lng": -71.88007
+  },
+  {
+    "name": "Wellesley",
+    "country": "US",
+    "lat": 42.29649,
+    "lng": -71.29256
+  },
+  {
+    "name": "Wellfleet",
+    "country": "US",
+    "lat": 41.93761,
+    "lng": -70.0328
+  },
+  {
+    "name": "Wendell",
+    "country": "US",
+    "lat": 42.54814,
+    "lng": -72.39675
+  },
+  {
+    "name": "Wenham",
+    "country": "US",
+    "lat": 42.60426,
+    "lng": -70.89116
+  },
+  {
+    "name": "West Boylston",
+    "country": "US",
+    "lat": 42.36676,
+    "lng": -71.78563
+  },
+  {
+    "name": "West Bridgewater",
+    "country": "US",
+    "lat": 42.01899,
+    "lng": -71.00782
+  },
+  {
+    "name": "West Chatham",
+    "country": "US",
+    "lat": 41.68122,
+    "lng": -69.99113
+  },
+  {
+    "name": "West Concord",
+    "country": "US",
+    "lat": 42.45843,
+    "lng": -71.39534
+  },
+  {
+    "name": "West Brookfield",
+    "country": "US",
+    "lat": 42.23537,
+    "lng": -72.14119
+  },
+  {
+    "name": "West Dennis",
+    "country": "US",
+    "lat": 41.66456,
+    "lng": -70.1728
+  },
+  {
+    "name": "West Falmouth",
+    "country": "US",
+    "lat": 41.60427,
+    "lng": -70.63447
+  },
+  {
+    "name": "West Newbury",
+    "country": "US",
+    "lat": 42.80148,
+    "lng": -70.98978
+  },
+  {
+    "name": "West Newton",
+    "country": "US",
+    "lat": 42.3501,
+    "lng": -71.23283
+  },
+  {
+    "name": "West Somerville/Davis Square",
+    "country": "US",
+    "lat": 42.39593,
+    "lng": -71.12255
+  },
+  {
+    "name": "West Springfield",
+    "country": "US",
+    "lat": 42.10704,
+    "lng": -72.62037
+  },
+  {
+    "name": "West Stockbridge",
+    "country": "US",
+    "lat": 42.34592,
+    "lng": -73.36622
+  },
+  {
+    "name": "West Tisbury",
+    "country": "US",
+    "lat": 41.38122,
+    "lng": -70.67447
+  },
+  {
+    "name": "West Roxbury",
+    "country": "US",
+    "lat": 42.27926,
+    "lng": -71.1495
+  },
+  {
+    "name": "West Wareham",
+    "country": "US",
+    "lat": 41.78983,
+    "lng": -70.76031
+  },
+  {
+    "name": "West Yarmouth",
+    "country": "US",
+    "lat": 41.65011,
+    "lng": -70.24113
+  },
+  {
+    "name": "Westborough",
+    "country": "US",
+    "lat": 42.26954,
+    "lng": -71.61618
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 42.12509,
+    "lng": -72.74954
+  },
+  {
+    "name": "Westford",
+    "country": "US",
+    "lat": 42.57926,
+    "lng": -71.43784
+  },
+  {
+    "name": "Westhampton",
+    "country": "US",
+    "lat": 42.30287,
+    "lng": -72.77454
+  },
+  {
+    "name": "Westminster",
+    "country": "US",
+    "lat": 42.54592,
+    "lng": -71.91063
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 42.36676,
+    "lng": -71.30311
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 42.21399,
+    "lng": -71.2245
+  },
+  {
+    "name": "Weweantic",
+    "country": "US",
+    "lat": 41.73538,
+    "lng": -70.73198
+  },
+  {
+    "name": "Weymouth",
+    "country": "US",
+    "lat": 42.22093,
+    "lng": -70.93977
+  },
+  {
+    "name": "Wells Beach Station",
+    "country": "US",
+    "lat": 43.32397,
+    "lng": -70.59144
+  },
+  {
+    "name": "West Paris",
+    "country": "US",
+    "lat": 44.32423,
+    "lng": -70.57395
+  },
+  {
+    "name": "West Scarborough",
+    "country": "US",
+    "lat": 43.57036,
+    "lng": -70.38783
+  },
+  {
+    "name": "Westbrook",
+    "country": "US",
+    "lat": 43.67703,
+    "lng": -70.37116
+  },
+  {
+    "name": "Webberville",
+    "country": "US",
+    "lat": 42.66698,
+    "lng": -84.17413
+  },
+  {
+    "name": "West Branch",
+    "country": "US",
+    "lat": 44.27641,
+    "lng": -84.23861
+  },
+  {
+    "name": "West Ishpeming",
+    "country": "US",
+    "lat": 46.48355,
+    "lng": -87.70097
+  },
+  {
+    "name": "West Monroe",
+    "country": "US",
+    "lat": 41.91393,
+    "lng": -83.4316
+  },
+  {
+    "name": "Westland",
+    "country": "US",
+    "lat": 42.3242,
+    "lng": -83.40021
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 42.30282,
+    "lng": -85.63362
+  },
+  {
+    "name": "Wells",
+    "country": "US",
+    "lat": 43.74607,
+    "lng": -93.72884
+  },
+  {
+    "name": "West Coon Rapids",
+    "country": "US",
+    "lat": 45.15969,
+    "lng": -93.34967
+  },
+  {
+    "name": "West Saint Paul",
+    "country": "US",
+    "lat": 44.91608,
+    "lng": -93.10161
+  },
+  {
+    "name": "West Fargo",
+    "country": "US",
+    "lat": 46.87497,
+    "lng": -96.90036
+  },
+  {
+    "name": "Weeping Water",
+    "country": "US",
+    "lat": 40.87,
+    "lng": -96.14057
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 41.84167,
+    "lng": -96.70864
+  },
+  {
+    "name": "Weare",
+    "country": "US",
+    "lat": 43.0948,
+    "lng": -71.73063
+  },
+  {
+    "name": "Webster",
+    "country": "US",
+    "lat": 43.32897,
+    "lng": -71.71786
+  },
+  {
+    "name": "West Swanzey",
+    "country": "US",
+    "lat": 42.87008,
+    "lng": -72.32175
+  },
+  {
+    "name": "Westmoreland",
+    "country": "US",
+    "lat": 42.96203,
+    "lng": -72.44231
+  },
+  {
+    "name": "Weehawken",
+    "country": "US",
+    "lat": 40.76955,
+    "lng": -74.02042
+  },
+  {
+    "name": "West Belmar",
+    "country": "US",
+    "lat": 40.16928,
+    "lng": -74.03542
+  },
+  {
+    "name": "West Freehold",
+    "country": "US",
+    "lat": 40.24206,
+    "lng": -74.30126
+  },
+  {
+    "name": "West Long Branch",
+    "country": "US",
+    "lat": 40.29039,
+    "lng": -74.01764
+  },
+  {
+    "name": "West Milford",
+    "country": "US",
+    "lat": 41.13121,
+    "lng": -74.36737
+  },
+  {
+    "name": "West New York",
+    "country": "US",
+    "lat": 40.78788,
+    "lng": -74.01431
+  },
+  {
+    "name": "West Orange",
+    "country": "US",
+    "lat": 40.79871,
+    "lng": -74.23904
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 40.65899,
+    "lng": -74.34737
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 40.522,
+    "lng": -74.578
+  },
+  {
+    "name": "Westville",
+    "country": "US",
+    "lat": 40.84454,
+    "lng": -74.29959
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 40.99121,
+    "lng": -74.03264
+  },
+  {
+    "name": "Webster",
+    "country": "US",
+    "lat": 43.21229,
+    "lng": -77.42999
+  },
+  {
+    "name": "Weedsport",
+    "country": "US",
+    "lat": 43.04868,
+    "lng": -76.56272
+  },
+  {
+    "name": "Wellsville",
+    "country": "US",
+    "lat": 42.12201,
+    "lng": -77.94806
+  },
+  {
+    "name": "Wellsville",
+    "country": "US",
+    "lat": 42.87591,
+    "lng": -74.27235
+  },
+  {
+    "name": "Wesley Hills",
+    "country": "US",
+    "lat": 41.15926,
+    "lng": -74.06986
+  },
+  {
+    "name": "West Albany",
+    "country": "US",
+    "lat": 42.68313,
+    "lng": -73.77845
+  },
+  {
+    "name": "West Babylon",
+    "country": "US",
+    "lat": 40.71816,
+    "lng": -73.35429
+  },
+  {
+    "name": "West Bay Shore",
+    "country": "US",
+    "lat": 40.70871,
+    "lng": -73.28123
+  },
+  {
+    "name": "West Carthage",
+    "country": "US",
+    "lat": 43.97423,
+    "lng": -75.61519
+  },
+  {
+    "name": "West Elmira",
+    "country": "US",
+    "lat": 42.07813,
+    "lng": -76.84524
+  },
+  {
+    "name": "West End",
+    "country": "US",
+    "lat": 42.46869,
+    "lng": -75.09378
+  },
+  {
+    "name": "West Glens Falls",
+    "country": "US",
+    "lat": 43.30007,
+    "lng": -73.68401
+  },
+  {
+    "name": "West Haverstraw",
+    "country": "US",
+    "lat": 41.20954,
+    "lng": -73.98542
+  },
+  {
+    "name": "West Hempstead",
+    "country": "US",
+    "lat": 40.70482,
+    "lng": -73.65013
+  },
+  {
+    "name": "West Henrietta",
+    "country": "US",
+    "lat": 43.04006,
+    "lng": -77.66167
+  },
+  {
+    "name": "West Hills",
+    "country": "US",
+    "lat": 40.81621,
+    "lng": -73.43234
+  },
+  {
+    "name": "West Hurley",
+    "country": "US",
+    "lat": 41.99731,
+    "lng": -74.10486
+  },
+  {
+    "name": "West Islip",
+    "country": "US",
+    "lat": 40.70621,
+    "lng": -73.30623
+  },
+  {
+    "name": "West Nyack",
+    "country": "US",
+    "lat": 41.09649,
+    "lng": -73.97292
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 41.39148,
+    "lng": -73.95597
+  },
+  {
+    "name": "West Sand Lake",
+    "country": "US",
+    "lat": 42.64341,
+    "lng": -73.60873
+  },
+  {
+    "name": "West Sayville",
+    "country": "US",
+    "lat": 40.72788,
+    "lng": -73.09761
+  },
+  {
+    "name": "West Seneca",
+    "country": "US",
+    "lat": 42.85006,
+    "lng": -78.79975
+  },
+  {
+    "name": "Westbury",
+    "country": "US",
+    "lat": 40.75566,
+    "lng": -73.58763
+  },
+  {
+    "name": "Westerleigh",
+    "country": "US",
+    "lat": 40.62121,
+    "lng": -74.13181
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 42.32228,
+    "lng": -79.5781
+  },
+  {
+    "name": "Westhampton",
+    "country": "US",
+    "lat": 40.82454,
+    "lng": -72.66621
+  },
+  {
+    "name": "Westhampton Beach",
+    "country": "US",
+    "lat": 40.80316,
+    "lng": -72.61454
+  },
+  {
+    "name": "Westmere",
+    "country": "US",
+    "lat": 42.69119,
+    "lng": -73.86873
+  },
+  {
+    "name": "Weston Mills",
+    "country": "US",
+    "lat": 42.0759,
+    "lng": -78.37252
+  },
+  {
+    "name": "Westons Mills",
+    "country": "US",
+    "lat": 42.06229,
+    "lng": -78.37724
+  },
+  {
+    "name": "Westvale",
+    "country": "US",
+    "lat": 43.04757,
+    "lng": -76.22048
+  },
+  {
+    "name": "Wellington",
+    "country": "US",
+    "lat": 41.16894,
+    "lng": -82.21794
+  },
+  {
+    "name": "Wellsville",
+    "country": "US",
+    "lat": 40.60284,
+    "lng": -80.64896
+  },
+  {
+    "name": "West Hill",
+    "country": "US",
+    "lat": 41.23283,
+    "lng": -80.51924
+  },
+  {
+    "name": "West Lafayette",
+    "country": "US",
+    "lat": 40.27535,
+    "lng": -81.75096
+  },
+  {
+    "name": "West Liberty",
+    "country": "US",
+    "lat": 40.25228,
+    "lng": -83.75577
+  },
+  {
+    "name": "West Salem",
+    "country": "US",
+    "lat": 40.97144,
+    "lng": -82.10987
+  },
+  {
+    "name": "West Unity",
+    "country": "US",
+    "lat": 41.58616,
+    "lng": -84.43495
+  },
+  {
+    "name": "Westerville",
+    "country": "US",
+    "lat": 40.12617,
+    "lng": -82.92907
+  },
+  {
+    "name": "Westfield Center",
+    "country": "US",
+    "lat": 41.02644,
+    "lng": -81.9332
+  },
+  {
+    "name": "Westlake",
+    "country": "US",
+    "lat": 41.45532,
+    "lng": -81.91792
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 41.34477,
+    "lng": -83.79716
+  },
+  {
+    "name": "Weatherly",
+    "country": "US",
+    "lat": 40.94175,
+    "lng": -75.82964
+  },
+  {
+    "name": "Wellsboro",
+    "country": "US",
+    "lat": 41.74868,
+    "lng": -77.30053
+  },
+  {
+    "name": "Wernersville",
+    "country": "US",
+    "lat": 40.33009,
+    "lng": -76.0805
+  },
+  {
+    "name": "Wescosville",
+    "country": "US",
+    "lat": 40.56676,
+    "lng": -75.55296
+  },
+  {
+    "name": "Wesleyville",
+    "country": "US",
+    "lat": 42.14033,
+    "lng": -80.01506
+  },
+  {
+    "name": "West Conshohocken",
+    "country": "US",
+    "lat": 40.06983,
+    "lng": -75.3163
+  },
+  {
+    "name": "West Easton",
+    "country": "US",
+    "lat": 40.67871,
+    "lng": -75.23684
+  },
+  {
+    "name": "West Fairview",
+    "country": "US",
+    "lat": 40.27509,
+    "lng": -76.91553
+  },
+  {
+    "name": "West Hamburg",
+    "country": "US",
+    "lat": 40.54759,
+    "lng": -76.00216
+  },
+  {
+    "name": "West Hazleton",
+    "country": "US",
+    "lat": 40.9587,
+    "lng": -75.99604
+  },
+  {
+    "name": "West Hills",
+    "country": "US",
+    "lat": 40.82423,
+    "lng": -79.5431
+  },
+  {
+    "name": "West Homestead",
+    "country": "US",
+    "lat": 40.39396,
+    "lng": -79.91199
+  },
+  {
+    "name": "West Kittanning",
+    "country": "US",
+    "lat": 40.81034,
+    "lng": -79.52949
+  },
+  {
+    "name": "West Lawn",
+    "country": "US",
+    "lat": 40.32981,
+    "lng": -75.99438
+  },
+  {
+    "name": "West Leechburg",
+    "country": "US",
+    "lat": 40.62229,
+    "lng": -79.61282
+  },
+  {
+    "name": "West Mayfield",
+    "country": "US",
+    "lat": 40.78006,
+    "lng": -80.3384
+  },
+  {
+    "name": "West Mifflin",
+    "country": "US",
+    "lat": 40.3634,
+    "lng": -79.86644
+  },
+  {
+    "name": "West Mount Airy",
+    "country": "US",
+    "lat": 40.05261,
+    "lng": -75.19796
+  },
+  {
+    "name": "West Newton",
+    "country": "US",
+    "lat": 40.20979,
+    "lng": -79.76699
+  },
+  {
+    "name": "West Norriton",
+    "country": "US",
+    "lat": 40.12955,
+    "lng": -75.37852
+  },
+  {
+    "name": "West Oak Lane",
+    "country": "US",
+    "lat": 40.06928,
+    "lng": -75.16629
+  },
+  {
+    "name": "West Pittston",
+    "country": "US",
+    "lat": 41.32758,
+    "lng": -75.79297
+  },
+  {
+    "name": "West Reading",
+    "country": "US",
+    "lat": 40.3337,
+    "lng": -75.94743
+  },
+  {
+    "name": "West View",
+    "country": "US",
+    "lat": 40.52229,
+    "lng": -80.03422
+  },
+  {
+    "name": "West Wyoming",
+    "country": "US",
+    "lat": 41.3198,
+    "lng": -75.84603
+  },
+  {
+    "name": "West Wyomissing",
+    "country": "US",
+    "lat": 40.32454,
+    "lng": -75.99077
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 41.91924,
+    "lng": -77.53887
+  },
+  {
+    "name": "Westmont",
+    "country": "US",
+    "lat": 40.31563,
+    "lng": -78.95169
+  },
+  {
+    "name": "West Warwick",
+    "country": "US",
+    "lat": 41.69689,
+    "lng": -71.52194
+  },
+  {
+    "name": "Westerly",
+    "country": "US",
+    "lat": 41.3776,
+    "lng": -71.82729
+  },
+  {
+    "name": "Webster",
+    "country": "US",
+    "lat": 45.33218,
+    "lng": -97.52009
+  },
+  {
+    "name": "Wessington Springs",
+    "country": "US",
+    "lat": 44.07916,
+    "lng": -98.56954
+  },
+  {
+    "name": "West Brattleboro",
+    "country": "US",
+    "lat": 42.85592,
+    "lng": -72.60315
+  },
+  {
+    "name": "West Rutland",
+    "country": "US",
+    "lat": 43.59312,
+    "lng": -73.04511
+  },
+  {
+    "name": "West Baraboo",
+    "country": "US",
+    "lat": 43.47443,
+    "lng": -89.7704
+  },
+  {
+    "name": "West Allis",
+    "country": "US",
+    "lat": 43.01668,
+    "lng": -88.00703
+  },
+  {
+    "name": "West Bend",
+    "country": "US",
+    "lat": 43.42528,
+    "lng": -88.18343
+  },
+  {
+    "name": "West Milwaukee",
+    "country": "US",
+    "lat": 43.01251,
+    "lng": -87.97259
+  },
+  {
+    "name": "West Salem",
+    "country": "US",
+    "lat": 43.89913,
+    "lng": -91.08125
+  },
+  {
+    "name": "Westby",
+    "country": "US",
+    "lat": 43.65692,
+    "lng": -90.8543
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 43.88359,
+    "lng": -89.49346
+  },
+  {
+    "name": "Weston",
+    "country": "US",
+    "lat": 44.8908,
+    "lng": -89.54762
+  },
+  {
+    "name": "Weyauwega",
+    "country": "US",
+    "lat": 44.32137,
+    "lng": -88.93372
+  },
+  {
+    "name": "Weirton",
+    "country": "US",
+    "lat": 40.41896,
+    "lng": -80.58952
+  },
+  {
+    "name": "Weirton Heights",
+    "country": "US",
+    "lat": 40.4084,
+    "lng": -80.53924
+  },
+  {
+    "name": "Wellsburg",
+    "country": "US",
+    "lat": 40.27201,
+    "lng": -80.60952
+  },
+  {
+    "name": "West Liberty",
+    "country": "US",
+    "lat": 40.16979,
+    "lng": -80.59369
+  },
+  {
+    "name": "West Kennebunk",
+    "country": "US",
+    "lat": 43.4087,
+    "lng": -70.58144
+  },
+  {
+    "name": "Wellton",
+    "country": "US",
+    "lat": 32.67283,
+    "lng": -114.14688
+  },
+  {
+    "name": "Weedpatch",
+    "country": "US",
+    "lat": 35.23802,
+    "lng": -118.9151
+  },
+  {
+    "name": "Weldon",
+    "country": "US",
+    "lat": 35.66579,
+    "lng": -118.29036
+  },
+  {
+    "name": "West Athens",
+    "country": "US",
+    "lat": 33.92335,
+    "lng": -118.30341
+  },
+  {
+    "name": "West Carson",
+    "country": "US",
+    "lat": 33.82168,
+    "lng": -118.29257
+  },
+  {
+    "name": "West Rancho Dominguez",
+    "country": "US",
+    "lat": 33.8939,
+    "lng": -118.27063
+  },
+  {
+    "name": "West Covina",
+    "country": "US",
+    "lat": 34.06862,
+    "lng": -117.93895
+  },
+  {
+    "name": "West Hollywood",
+    "country": "US",
+    "lat": 34.09001,
+    "lng": -118.36174
+  },
+  {
+    "name": "West Menlo Park",
+    "country": "US",
+    "lat": 37.43355,
+    "lng": -122.20302
+  },
+  {
+    "name": "West Park",
+    "country": "US",
+    "lat": 36.71023,
+    "lng": -119.85126
+  },
+  {
+    "name": "West Puente Valley",
+    "country": "US",
+    "lat": 34.05168,
+    "lng": -117.9684
+  },
+  {
+    "name": "West Sacramento",
+    "country": "US",
+    "lat": 38.58046,
+    "lng": -121.53023
+  },
+  {
+    "name": "Westlake Village",
+    "country": "US",
+    "lat": 34.14584,
+    "lng": -118.80565
+  },
+  {
+    "name": "Westminster",
+    "country": "US",
+    "lat": 33.75918,
+    "lng": -118.00673
+  },
+  {
+    "name": "Westmont",
+    "country": "US",
+    "lat": 33.9414,
+    "lng": -118.3023
+  },
+  {
+    "name": "Westmorland",
+    "country": "US",
+    "lat": 33.03727,
+    "lng": -115.62138
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 34.05612,
+    "lng": -118.43063
+  },
+  {
+    "name": "Welby",
+    "country": "US",
+    "lat": 39.83665,
+    "lng": -104.95915
+  },
+  {
+    "name": "Westcliffe",
+    "country": "US",
+    "lat": 38.13472,
+    "lng": -105.46584
+  },
+  {
+    "name": "Westminster",
+    "country": "US",
+    "lat": 39.83665,
+    "lng": -105.0372
+  },
+  {
+    "name": "Wellington",
+    "country": "US",
+    "lat": 34.85617,
+    "lng": -100.21373
+  },
+  {
+    "name": "West Odessa",
+    "country": "US",
+    "lat": 31.84235,
+    "lng": -102.49876
+  },
+  {
+    "name": "Westway",
+    "country": "US",
+    "lat": 31.95871,
+    "lng": -106.57805
+  },
+  {
+    "name": "Wellington",
+    "country": "US",
+    "lat": 39.54247,
+    "lng": -110.73543
+  },
+  {
+    "name": "West Sedona",
+    "country": "US",
+    "lat": 34.86724,
+    "lng": -111.80543
+  },
+  {
+    "name": "West Bishop",
+    "country": "US",
+    "lat": 37.36104,
+    "lng": -118.45511
+  },
+  {
+    "name": "Wellsville",
+    "country": "US",
+    "lat": 41.63854,
+    "lng": -111.93383
+  },
+  {
+    "name": "Weaverville",
+    "country": "US",
+    "lat": 40.73098,
+    "lng": -122.94197
+  },
+  {
+    "name": "Weed",
+    "country": "US",
+    "lat": 41.42265,
+    "lng": -122.38613
+  },
+  {
+    "name": "Westwood",
+    "country": "US",
+    "lat": 40.306,
+    "lng": -121.00579
+  },
+  {
+    "name": "Wellington",
+    "country": "US",
+    "lat": 40.70387,
+    "lng": -105.00859
+  },
+  {
+    "name": "Weiser",
+    "country": "US",
+    "lat": 44.251,
+    "lng": -116.96933
+  },
+  {
+    "name": "Wendell",
+    "country": "US",
+    "lat": 42.77574,
+    "lng": -114.70422
+  },
+  {
+    "name": "West Glendive",
+    "country": "US",
+    "lat": 47.11085,
+    "lng": -104.74968
+  },
+  {
+    "name": "West Yellowstone",
+    "country": "US",
+    "lat": 44.66215,
+    "lng": -111.10411
+  },
+  {
+    "name": "Wells",
+    "country": "US",
+    "lat": 41.11159,
+    "lng": -114.96449
+  },
+  {
+    "name": "West Wendover",
+    "country": "US",
+    "lat": 40.7391,
+    "lng": -114.07335
+  },
+  {
+    "name": "West Haven",
+    "country": "US",
+    "lat": 45.51762,
+    "lng": -122.76954
+  },
+  {
+    "name": "West Linn",
+    "country": "US",
+    "lat": 45.36568,
+    "lng": -122.61231
+  },
+  {
+    "name": "West Slope",
+    "country": "US",
+    "lat": 45.49873,
+    "lng": -122.76454
+  },
+  {
+    "name": "Wendover",
+    "country": "US",
+    "lat": 40.73715,
+    "lng": -114.03751
+  },
+  {
+    "name": "West Bountiful",
+    "country": "US",
+    "lat": 40.89383,
+    "lng": -111.90188
+  },
+  {
+    "name": "West Haven",
+    "country": "US",
+    "lat": 41.203,
+    "lng": -112.05105
+  },
+  {
+    "name": "West Jordan",
+    "country": "US",
+    "lat": 40.60967,
+    "lng": -111.9391
+  },
+  {
+    "name": "West Mountain",
+    "country": "US",
+    "lat": 40.06079,
+    "lng": -111.78827
+  },
+  {
+    "name": "West Point",
+    "country": "US",
+    "lat": 41.11828,
+    "lng": -112.08411
+  },
+  {
+    "name": "West Valley City",
+    "country": "US",
+    "lat": 40.69161,
+    "lng": -112.00105
+  },
+  {
+    "name": "Wenatchee",
+    "country": "US",
+    "lat": 47.42346,
+    "lng": -120.31035
+  },
+  {
+    "name": "West Lake Sammamish",
+    "country": "US",
+    "lat": 47.5776,
+    "lng": -122.10123
+  },
+  {
+    "name": "West Lake Stevens",
+    "country": "US",
+    "lat": 47.99343,
+    "lng": -122.1018
+  },
+  {
+    "name": "West Longview",
+    "country": "US",
+    "lat": 46.16789,
+    "lng": -122.999
+  },
+  {
+    "name": "West Pasco",
+    "country": "US",
+    "lat": 46.24541,
+    "lng": -119.18279
+  },
+  {
+    "name": "West Richland",
+    "country": "US",
+    "lat": 46.3043,
+    "lng": -119.36141
+  },
+  {
+    "name": "West Valley",
+    "country": "US",
+    "lat": 46.59207,
+    "lng": -120.60507
+  },
+  {
+    "name": "West Wenatchee",
+    "country": "US",
+    "lat": 47.44374,
+    "lng": -120.35341
+  },
+  {
+    "name": "Westport",
+    "country": "US",
+    "lat": 46.89009,
+    "lng": -124.10406
+  },
+  {
+    "name": "West Loch Estates",
+    "country": "US",
+    "lat": 21.37244,
+    "lng": -158.02418
+  },
+  {
+    "name": "Weston Lakes",
+    "country": "US",
+    "lat": 29.68324,
+    "lng": -95.93571
+  },
+  {
+    "name": "Westbrook Center",
+    "country": "US",
+    "lat": 41.27997,
+    "lng": -72.44254
+  },
+  {
+    "name": "West Falls Church",
+    "country": "US",
+    "lat": 38.86484,
+    "lng": -77.18787
+  },
+  {
+    "name": "Weissport East",
+    "country": "US",
+    "lat": 40.83697,
+    "lng": -75.68643
+  },
+  {
+    "name": "West Caldwell",
+    "country": "US",
+    "lat": 40.84852,
+    "lng": -74.29695
+  },
+  {
+    "name": "West Bloomfield Township",
+    "country": "US",
+    "lat": 42.56891,
+    "lng": -83.38356
+  },
+  {
+    "name": "West End-Cobb Town",
+    "country": "US",
+    "lat": 33.6525,
+    "lng": -85.8742
+  },
+  {
+    "name": "West Clarkston-Highland",
+    "country": "US",
+    "lat": 46.40287,
+    "lng": -117.06395
+  },
+  {
+    "name": "West Haven-Sylvan",
+    "country": "US",
+    "lat": 45.51613,
+    "lng": -122.76809
+  },
+  {
+    "name": "West Modesto",
+    "country": "US",
+    "lat": 37.61754,
+    "lng": -121.03914
+  },
+  {
+    "name": "West Pleasant View",
+    "country": "US",
+    "lat": 39.73256,
+    "lng": -105.17852
+  },
+  {
+    "name": "West Side Highway",
+    "country": "US",
+    "lat": 46.18399,
+    "lng": -122.91715
+  },
+  {
+    "name": "West Whittier-Los Nietos",
+    "country": "US",
+    "lat": 33.976,
+    "lng": -118.06909
+  },
+  {
+    "name": "Westhaven-Moonstone",
+    "country": "US",
+    "lat": 41.04489,
+    "lng": -124.10239
+  },
+  {
+    "name": "West Hammond",
+    "country": "US",
+    "lat": 36.68071,
+    "lng": -108.04921
+  },
+  {
+    "name": "West Hills",
+    "country": "US",
+    "lat": 34.19731,
+    "lng": -118.64398
+  },
+  {
+    "name": "West Greenwich",
+    "country": "US",
+    "lat": 41.637,
+    "lng": -71.66004
+  },
+  {
+    "name": "Western Lake",
+    "country": "US",
+    "lat": 32.62338,
+    "lng": -97.81155
+  },
+  {
+    "name": "West Warrenton",
+    "country": "US",
+    "lat": 33.41217,
+    "lng": -82.67517
+  },
+  {
+    "name": "West Hills",
+    "country": "US",
+    "lat": 39.29736,
+    "lng": -76.70662
+  },
+  {
+    "name": "Westfield",
+    "country": "US",
+    "lat": 39.35917,
+    "lng": -76.55148
+  },
+  {
+    "name": "Westgate",
+    "country": "US",
+    "lat": 39.28445,
+    "lng": -76.70673
+  },
+  {
+    "name": "Westpark",
+    "country": "US",
+    "lat": 33.68527,
+    "lng": -117.81371
+  },
+  {
+    "name": "West Cambridge/Harvard Square",
+    "country": "US",
+    "lat": 42.37247,
+    "lng": -71.11947
+  },
+  {
+    "name": "West Fens",
+    "country": "US",
+    "lat": 42.34298,
+    "lng": -71.09839
+  },
+  {
+    "name": "Westonaria",
+    "country": "ZA",
+    "lat": -26.31905,
+    "lng": 27.6486
+  },
+  {
+    "name": "Western Areas",
+    "country": "ZA",
+    "lat": -26.35,
+    "lng": 27.7
+  },
+  {
+    "name": "Westbrook",
+    "country": "ZA",
+    "lat": -29.59215,
+    "lng": 31.16549
+  },
+  {
+    "name": "Wesselsbron",
+    "country": "ZA",
+    "lat": -27.8549,
+    "lng": 26.36583
+  },
+  {
+    "name": "Wesley",
+    "country": "ZA",
+    "lat": -33.31949,
+    "lng": 27.33962
+  },
+  {
+    "name": "Wepener",
+    "country": "ZA",
+    "lat": -29.72866,
+    "lng": 27.03805
+  },
+  {
+    "name": "Wembesi",
+    "country": "ZA",
+    "lat": -29.04912,
+    "lng": 29.78232
+  },
+  {
+    "name": "Welverdiend",
+    "country": "ZA",
+    "lat": -26.38752,
+    "lng": 27.27789
+  },
+  {
+    "name": "Welverdiend",
+    "country": "ZA",
+    "lat": -24.58007,
+    "lng": 31.32559
+  },
+  {
+    "name": "Welkom",
+    "country": "ZA",
+    "lat": -27.97742,
+    "lng": 26.73506
+  },
+  {
+    "name": "Weenen",
+    "country": "ZA",
+    "lat": -28.84918,
+    "lng": 30.07722
+  },
+  {
+    "name": "Wellington",
+    "country": "ZA",
+    "lat": -33.63981,
+    "lng": 19.0112
+  },
+  {
+    "name": "Wegdraai",
+    "country": "ZA",
+    "lat": -28.8413,
+    "lng": 21.8747
+  },
+  {
+    "name": "Wemmershoek",
+    "country": "ZA",
+    "lat": -33.87286,
+    "lng": 19.04329
+  },
+  {
+    "name": "Westville",
+    "country": "ZA",
+    "lat": -33.82908,
+    "lng": 25.48575
+  }
+]

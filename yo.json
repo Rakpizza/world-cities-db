@@ -1,0 +1,1382 @@
+[
+  {
+    "name": "York",
+    "country": "AU",
+    "lat": -31.88809,
+    "lng": 116.7678
+  },
+  {
+    "name": "Young",
+    "country": "AU",
+    "lat": -34.3135,
+    "lng": 148.30107
+  },
+  {
+    "name": "Yoogali",
+    "country": "AU",
+    "lat": -34.29944,
+    "lng": 146.08443
+  },
+  {
+    "name": "Yowie Bay",
+    "country": "AU",
+    "lat": -34.05116,
+    "lng": 151.10228
+  },
+  {
+    "name": "Yorkeys Knob",
+    "country": "AU",
+    "lat": -16.80278,
+    "lng": 145.72083
+  },
+  {
+    "name": "Youngtown",
+    "country": "AU",
+    "lat": -41.48332,
+    "lng": 147.17067
+  },
+  {
+    "name": "Yokine",
+    "country": "AU",
+    "lat": -31.90113,
+    "lng": 115.85319
+  },
+  {
+    "name": "Yomala",
+    "country": "AX",
+    "lat": 60.16689,
+    "lng": 19.93341
+  },
+  {
+    "name": "Yo Creek",
+    "country": "BZ",
+    "lat": 18.09098,
+    "lng": -88.64607
+  },
+  {
+    "name": "Yorkton",
+    "country": "CA",
+    "lat": 51.2167,
+    "lng": -102.46766
+  },
+  {
+    "name": "Youbou",
+    "country": "CA",
+    "lat": 48.86632,
+    "lng": -124.20271
+  },
+  {
+    "name": "York University Heights",
+    "country": "CA",
+    "lat": 43.76574,
+    "lng": -79.48888
+  },
+  {
+    "name": "Yonge-St.Clair",
+    "country": "CA",
+    "lat": 43.68786,
+    "lng": -79.39787
+  },
+  {
+    "name": "Yorkdale-Glen Park",
+    "country": "CA",
+    "lat": 43.71467,
+    "lng": -79.45711
+  },
+  {
+    "name": "Yonge-Eglinton",
+    "country": "CA",
+    "lat": 43.70469,
+    "lng": -79.40359
+  },
+  {
+    "name": "Yoya",
+    "country": "CI",
+    "lat": 6.58013,
+    "lng": -8.04296
+  },
+  {
+    "name": "Youorédoula",
+    "country": "CI",
+    "lat": 7.31758,
+    "lng": -6.71288
+  },
+  {
+    "name": "Youkou",
+    "country": "CI",
+    "lat": 5.27423,
+    "lng": -7.31232
+  },
+  {
+    "name": "Yogonon",
+    "country": "CI",
+    "lat": 7.67433,
+    "lng": -6.43261
+  },
+  {
+    "name": "Yoténéré",
+    "country": "CI",
+    "lat": 9.54522,
+    "lng": -3.3252
+  },
+  {
+    "name": "Yopohua",
+    "country": "CI",
+    "lat": 6.39596,
+    "lng": -5.82952
+  },
+  {
+    "name": "Yonango",
+    "country": "CI",
+    "lat": 7.44031,
+    "lng": -3.0641
+  },
+  {
+    "name": "Yomya",
+    "country": "CI",
+    "lat": 7.81667,
+    "lng": -2.93333
+  },
+  {
+    "name": "Yomian Kouadiokro",
+    "country": "CI",
+    "lat": 7.83302,
+    "lng": -5.165
+  },
+  {
+    "name": "Yomakrou",
+    "country": "CI",
+    "lat": 7.51627,
+    "lng": -3.51582
+  },
+  {
+    "name": "Yoman Kouahipla",
+    "country": "CI",
+    "lat": 7.92166,
+    "lng": -5.77963
+  },
+  {
+    "name": "Yokoréa II",
+    "country": "CI",
+    "lat": 6.7029,
+    "lng": -6.64593
+  },
+  {
+    "name": "Yokoboué",
+    "country": "CI",
+    "lat": 5.26933,
+    "lng": -5.10658
+  },
+  {
+    "name": "Yodolo",
+    "country": "CI",
+    "lat": 8.90354,
+    "lng": -4.23518
+  },
+  {
+    "name": "Yorobodi",
+    "country": "CI",
+    "lat": 8.11913,
+    "lng": -3.68191
+  },
+  {
+    "name": "Youampleu",
+    "country": "CI",
+    "lat": 6.79954,
+    "lng": -8.28196
+  },
+  {
+    "name": "Yorodougou",
+    "country": "CI",
+    "lat": 7.78356,
+    "lng": -7.88024
+  },
+  {
+    "name": "Youhoulil",
+    "country": "CI",
+    "lat": 5.4234,
+    "lng": -4.48806
+  },
+  {
+    "name": "Yoleu",
+    "country": "CI",
+    "lat": 7.19543,
+    "lng": -8.18102
+  },
+  {
+    "name": "Yobouéagui",
+    "country": "CI",
+    "lat": 5.30081,
+    "lng": -6.64875
+  },
+  {
+    "name": "Youwasso",
+    "country": "CI",
+    "lat": 4.70464,
+    "lng": -6.9666
+  },
+  {
+    "name": "Yobouessou",
+    "country": "CI",
+    "lat": 6.92748,
+    "lng": -4.04531
+  },
+  {
+    "name": "Yomidji",
+    "country": "CI",
+    "lat": 5.53894,
+    "lng": -4.53322
+  },
+  {
+    "name": "Yoho",
+    "country": "CI",
+    "lat": 6.92297,
+    "lng": -5.57969
+  },
+  {
+    "name": "Yoboué-N'Zué",
+    "country": "CI",
+    "lat": 7.59147,
+    "lng": -5.47954
+  },
+  {
+    "name": "Youndouo",
+    "country": "CI",
+    "lat": 8.82541,
+    "lng": -2.95745
+  },
+  {
+    "name": "Yoko",
+    "country": "CM",
+    "lat": 5.53333,
+    "lng": 12.31667
+  },
+  {
+    "name": "Yokadouma",
+    "country": "CM",
+    "lat": 3.51667,
+    "lng": 15.05
+  },
+  {
+    "name": "Youdian",
+    "country": "CN",
+    "lat": 24.82894,
+    "lng": 99.59232
+  },
+  {
+    "name": "Youyupu",
+    "country": "CN",
+    "lat": 27.5517,
+    "lng": 109.135
+  },
+  {
+    "name": "Yongtai",
+    "country": "CN",
+    "lat": 25.8713,
+    "lng": 118.9277
+  },
+  {
+    "name": "Youxian Chengguanzhen",
+    "country": "CN",
+    "lat": 26.99168,
+    "lng": 113.36062
+  },
+  {
+    "name": "Youxi",
+    "country": "CN",
+    "lat": 29.20936,
+    "lng": 106.14428
+  },
+  {
+    "name": "Youxi",
+    "country": "CN",
+    "lat": 26.17361,
+    "lng": 118.17889
+  },
+  {
+    "name": "Youting",
+    "country": "CN",
+    "lat": 29.43128,
+    "lng": 105.73757
+  },
+  {
+    "name": "Youguzhuang",
+    "country": "CN",
+    "lat": 39.90583,
+    "lng": 117.24611
+  },
+  {
+    "name": "Youchou",
+    "country": "CN",
+    "lat": 28.96346,
+    "lng": 109.14147
+  },
+  {
+    "name": "Yongzhou",
+    "country": "CN",
+    "lat": 26.42389,
+    "lng": 111.61306
+  },
+  {
+    "name": "Yongxing",
+    "country": "CN",
+    "lat": 34.20778,
+    "lng": 105.32889
+  },
+  {
+    "name": "Yongxing",
+    "country": "CN",
+    "lat": 28.98968,
+    "lng": 106.17612
+  },
+  {
+    "name": "Yongxing Chengguanzhen",
+    "country": "CN",
+    "lat": 26.12408,
+    "lng": 113.12852
+  },
+  {
+    "name": "Yongxin",
+    "country": "CN",
+    "lat": 28.96667,
+    "lng": 106.53333
+  },
+  {
+    "name": "Yongqing",
+    "country": "CN",
+    "lat": 39.3107,
+    "lng": 116.49181
+  },
+  {
+    "name": "Yongqing",
+    "country": "CN",
+    "lat": 34.74806,
+    "lng": 106.12694
+  },
+  {
+    "name": "Yongning",
+    "country": "CN",
+    "lat": 33.83956,
+    "lng": 106.18865
+  },
+  {
+    "name": "Yongning",
+    "country": "CN",
+    "lat": 28.52449,
+    "lng": 114.36576
+  },
+  {
+    "name": "Yongning",
+    "country": "CN",
+    "lat": 27.83333,
+    "lng": 100.66667
+  },
+  {
+    "name": "Yongning",
+    "country": "CN",
+    "lat": 24.68,
+    "lng": 118.69
+  },
+  {
+    "name": "Yongjia",
+    "country": "CN",
+    "lat": 29.5719,
+    "lng": 106.00134
+  },
+  {
+    "name": "Yonghe",
+    "country": "CN",
+    "lat": 39.07528,
+    "lng": 117.47556
+  },
+  {
+    "name": "Yongfu",
+    "country": "CN",
+    "lat": 24.99204,
+    "lng": 109.99167
+  },
+  {
+    "name": "Yongfeng",
+    "country": "CN",
+    "lat": 27.45493,
+    "lng": 112.16943
+  },
+  {
+    "name": "Yongding",
+    "country": "CN",
+    "lat": 26.04122,
+    "lng": 101.68642
+  },
+  {
+    "name": "Yongding",
+    "country": "CN",
+    "lat": 25.1986,
+    "lng": 102.46189
+  },
+  {
+    "name": "Yongdeng Chengguanzhen",
+    "country": "CN",
+    "lat": 36.73361,
+    "lng": 103.25931
+  },
+  {
+    "name": "Yongcong",
+    "country": "CN",
+    "lat": 26.04222,
+    "lng": 109.13139
+  },
+  {
+    "name": "Yongchun",
+    "country": "CN",
+    "lat": 25.32493,
+    "lng": 118.28982
+  },
+  {
+    "name": "Yongchang Chengguanzhen",
+    "country": "CN",
+    "lat": 38.27053,
+    "lng": 102.02017
+  },
+  {
+    "name": "Yongchuan",
+    "country": "CN",
+    "lat": 29.35376,
+    "lng": 105.89392
+  },
+  {
+    "name": "Yongbei",
+    "country": "CN",
+    "lat": 26.64623,
+    "lng": 100.78073
+  },
+  {
+    "name": "Yong’an",
+    "country": "CN",
+    "lat": 31.01894,
+    "lng": 109.45949
+  },
+  {
+    "name": "Yong’an",
+    "country": "CN",
+    "lat": 25.96367,
+    "lng": 117.36025
+  },
+  {
+    "name": "Yongning",
+    "country": "CN",
+    "lat": 22.76101,
+    "lng": 108.48359
+  },
+  {
+    "name": "Yongle",
+    "country": "CN",
+    "lat": 33.26465,
+    "lng": 104.23278
+  },
+  {
+    "name": "Yongshan",
+    "country": "CN",
+    "lat": 28.23571,
+    "lng": 103.63388
+  },
+  {
+    "name": "Yong’an",
+    "country": "CN",
+    "lat": 39.69571,
+    "lng": 113.68708
+  },
+  {
+    "name": "Yong’an",
+    "country": "CN",
+    "lat": 36.65762,
+    "lng": 111.56643
+  },
+  {
+    "name": "Yongxi",
+    "country": "CN",
+    "lat": 29.73853,
+    "lng": 105.97941
+  },
+  {
+    "name": "Yongping",
+    "country": "CN",
+    "lat": 34.28994,
+    "lng": 105.27225
+  },
+  {
+    "name": "Youyi",
+    "country": "CN",
+    "lat": 46.76499,
+    "lng": 131.80022
+  },
+  {
+    "name": "Youhao",
+    "country": "CN",
+    "lat": 47.85306,
+    "lng": 128.83565
+  },
+  {
+    "name": "Yongyang",
+    "country": "CN",
+    "lat": 31.65811,
+    "lng": 119.02772
+  },
+  {
+    "name": "Yongchang",
+    "country": "CN",
+    "lat": 31.66574,
+    "lng": 104.43726
+  },
+  {
+    "name": "Yongle",
+    "country": "CN",
+    "lat": 31.01048,
+    "lng": 109.50479
+  },
+  {
+    "name": "Yong’an",
+    "country": "CN",
+    "lat": 30.3531,
+    "lng": 107.51289
+  },
+  {
+    "name": "Yongdong",
+    "country": "CN",
+    "lat": 28.61108,
+    "lng": 109.12219
+  },
+  {
+    "name": "Yongrong",
+    "country": "CN",
+    "lat": 29.33898,
+    "lng": 105.65778
+  },
+  {
+    "name": "Youganning",
+    "country": "CN",
+    "lat": 34.73564,
+    "lng": 101.61141
+  },
+  {
+    "name": "Youjiang",
+    "country": "CN",
+    "lat": 23.90427,
+    "lng": 106.61552
+  },
+  {
+    "name": "Yongjian",
+    "country": "CN",
+    "lat": 25.42543,
+    "lng": 100.21244
+  },
+  {
+    "name": "Yousuo",
+    "country": "CN",
+    "lat": 26.02527,
+    "lng": 100.06771
+  },
+  {
+    "name": "Yongping",
+    "country": "CN",
+    "lat": 30.15108,
+    "lng": 107.43452
+  },
+  {
+    "name": "Yongcheng",
+    "country": "CN",
+    "lat": 29.02133,
+    "lng": 106.82012
+  },
+  {
+    "name": "Yotoco",
+    "country": "CO",
+    "lat": 3.86048,
+    "lng": -76.38364
+  },
+  {
+    "name": "Yopal",
+    "country": "CO",
+    "lat": 5.33573,
+    "lng": -72.3939
+  },
+  {
+    "name": "Yondó",
+    "country": "CO",
+    "lat": 7.00621,
+    "lng": -73.90972
+  },
+  {
+    "name": "Yolombó",
+    "country": "CO",
+    "lat": 6.59841,
+    "lng": -75.0114
+  },
+  {
+    "name": "Yoboki",
+    "country": "DJ",
+    "lat": 11.51139,
+    "lng": 42.10639
+  },
+  {
+    "name": "Youx",
+    "country": "FR",
+    "lat": 46.14467,
+    "lng": 2.79903
+  },
+  {
+    "name": "Yoxall",
+    "country": "GB",
+    "lat": 52.76659,
+    "lng": -1.79068
+  },
+  {
+    "name": "Youlgreave",
+    "country": "GB",
+    "lat": 53.17399,
+    "lng": -1.69044
+  },
+  {
+    "name": "York",
+    "country": "GB",
+    "lat": 53.95763,
+    "lng": -1.08271
+  },
+  {
+    "name": "Youkounkoun",
+    "country": "GN",
+    "lat": 12.5311,
+    "lng": -13.1224
+  },
+  {
+    "name": "Yomou",
+    "country": "GN",
+    "lat": 7.56748,
+    "lng": -9.26283
+  },
+  {
+    "name": "Yona Village",
+    "country": "GU",
+    "lat": 13.40974,
+    "lng": 144.77697
+  },
+  {
+    "name": "Yoro",
+    "country": "HN",
+    "lat": 15.13824,
+    "lng": -87.12838
+  },
+  {
+    "name": "Yorito",
+    "country": "HN",
+    "lat": 15.06667,
+    "lng": -87.28333
+  },
+  {
+    "name": "Yosowilangun",
+    "country": "ID",
+    "lat": -8.2391,
+    "lng": 113.3136
+  },
+  {
+    "name": "Yogyakarta",
+    "country": "ID",
+    "lat": -7.80139,
+    "lng": 110.36472
+  },
+  {
+    "name": "Youghal",
+    "country": "IE",
+    "lat": 51.95,
+    "lng": -7.85056
+  },
+  {
+    "name": "Yoqne‘am ‘Illit",
+    "country": "IL",
+    "lat": 32.65385,
+    "lng": 35.10382
+  },
+  {
+    "name": "Yoqneam",
+    "country": "IL",
+    "lat": 32.65497,
+    "lng": 35.11381
+  },
+  {
+    "name": "Yol",
+    "country": "IN",
+    "lat": 32.16423,
+    "lng": 76.19622
+  },
+  {
+    "name": "Yol Cantonment",
+    "country": "IN",
+    "lat": 32.18446,
+    "lng": 76.38158
+  },
+  {
+    "name": "Yotsutsuji",
+    "country": "JP",
+    "lat": 35.53333,
+    "lng": 135.1
+  },
+  {
+    "name": "Yoshino-chō",
+    "country": "JP",
+    "lat": 34.39611,
+    "lng": 135.85768
+  },
+  {
+    "name": "Yoshino",
+    "country": "JP",
+    "lat": 33.31667,
+    "lng": 133.13333
+  },
+  {
+    "name": "Yoshikawa",
+    "country": "JP",
+    "lat": 35.89232,
+    "lng": 139.84184
+  },
+  {
+    "name": "Yoshii",
+    "country": "JP",
+    "lat": 36.25,
+    "lng": 138.98333
+  },
+  {
+    "name": "Yoshida-kasugachō",
+    "country": "JP",
+    "lat": 37.68333,
+    "lng": 138.88333
+  },
+  {
+    "name": "Yorii",
+    "country": "JP",
+    "lat": 36.11567,
+    "lng": 139.19429
+  },
+  {
+    "name": "Yorii",
+    "country": "JP",
+    "lat": 33.96667,
+    "lng": 134.35
+  },
+  {
+    "name": "Yono",
+    "country": "JP",
+    "lat": 35.88333,
+    "lng": 139.63333
+  },
+  {
+    "name": "Yonakuni",
+    "country": "JP",
+    "lat": 24.46667,
+    "lng": 123.0
+  },
+  {
+    "name": "Yonago",
+    "country": "JP",
+    "lat": 35.43333,
+    "lng": 133.33333
+  },
+  {
+    "name": "Yonabaru",
+    "country": "JP",
+    "lat": 26.20437,
+    "lng": 127.75267
+  },
+  {
+    "name": "Yokota",
+    "country": "JP",
+    "lat": 35.75,
+    "lng": 139.38333
+  },
+  {
+    "name": "Yokosuka",
+    "country": "JP",
+    "lat": 35.28361,
+    "lng": 139.66722
+  },
+  {
+    "name": "Yokose",
+    "country": "JP",
+    "lat": 33.93333,
+    "lng": 134.48333
+  },
+  {
+    "name": "Yokohama",
+    "country": "JP",
+    "lat": 35.43333,
+    "lng": 139.65
+  },
+  {
+    "name": "Yokokawa",
+    "country": "JP",
+    "lat": 35.70484,
+    "lng": 139.8156
+  },
+  {
+    "name": "Yokkaichi",
+    "country": "JP",
+    "lat": 34.96667,
+    "lng": 136.61667
+  },
+  {
+    "name": "Yokkaichi",
+    "country": "JP",
+    "lat": 33.53537,
+    "lng": 131.32808
+  },
+  {
+    "name": "Youkaichi",
+    "country": "JP",
+    "lat": 35.11626,
+    "lng": 136.19768
+  },
+  {
+    "name": "Yotsukaidō",
+    "country": "JP",
+    "lat": 35.65,
+    "lng": 140.16667
+  },
+  {
+    "name": "Yoshioka",
+    "country": "JP",
+    "lat": 38.44139,
+    "lng": 140.87639
+  },
+  {
+    "name": "Yonezawa",
+    "country": "JP",
+    "lat": 37.91,
+    "lng": 140.11667
+  },
+  {
+    "name": "Yokote",
+    "country": "JP",
+    "lat": 39.31691,
+    "lng": 140.55034
+  },
+  {
+    "name": "Yokoshiba",
+    "country": "JP",
+    "lat": 35.65,
+    "lng": 140.48333
+  },
+  {
+    "name": "Yokohama",
+    "country": "JP",
+    "lat": 41.08333,
+    "lng": 141.25
+  },
+  {
+    "name": "Yoichi",
+    "country": "JP",
+    "lat": 43.20389,
+    "lng": 140.77028
+  },
+  {
+    "name": "Yomogita",
+    "country": "JP",
+    "lat": 40.98015,
+    "lng": 140.65455
+  },
+  {
+    "name": "Yoshitomi",
+    "country": "JP",
+    "lat": 33.60247,
+    "lng": 131.17599
+  },
+  {
+    "name": "Yotsuya",
+    "country": "JP",
+    "lat": 35.68972,
+    "lng": 139.71641
+  },
+  {
+    "name": "Yono",
+    "country": "JP",
+    "lat": 34.92194,
+    "lng": 135.4952
+  },
+  {
+    "name": "Yomitan",
+    "country": "JP",
+    "lat": 26.40167,
+    "lng": 127.74503
+  },
+  {
+    "name": "Yoyogi",
+    "country": "JP",
+    "lat": 35.67855,
+    "lng": 139.69146
+  },
+  {
+    "name": "Yonedacho Sendo",
+    "country": "JP",
+    "lat": 34.7756,
+    "lng": 134.82551
+  },
+  {
+    "name": "Yoshinogawa",
+    "country": "JP",
+    "lat": 34.03858,
+    "lng": 134.29207
+  },
+  {
+    "name": "Yokoze",
+    "country": "JP",
+    "lat": 35.9845,
+    "lng": 139.0946
+  },
+  {
+    "name": "Yonghwa",
+    "country": "KR",
+    "lat": 36.0213,
+    "lng": 127.7665
+  },
+  {
+    "name": "Yongan",
+    "country": "KR",
+    "lat": 36.11962,
+    "lng": 126.95283
+  },
+  {
+    "name": "Yongsan-dong",
+    "country": "KR",
+    "lat": 37.5445,
+    "lng": 126.9837
+  },
+  {
+    "name": "Yongsan",
+    "country": "KR",
+    "lat": 36.2603,
+    "lng": 127.8285
+  },
+  {
+    "name": "Youssoufia",
+    "country": "MA",
+    "lat": 32.24634,
+    "lng": -8.52941
+  },
+  {
+    "name": "Youwarou",
+    "country": "ML",
+    "lat": 15.3684,
+    "lng": -4.2628
+  },
+  {
+    "name": "Yorosso",
+    "country": "ML",
+    "lat": 12.35811,
+    "lng": -4.77688
+  },
+  {
+    "name": "Yotholin",
+    "country": "MX",
+    "lat": 20.32786,
+    "lng": -89.45429
+  },
+  {
+    "name": "Yoloxóchitl",
+    "country": "MX",
+    "lat": 16.81605,
+    "lng": -98.68627
+  },
+  {
+    "name": "Yolotepec",
+    "country": "MX",
+    "lat": 20.38767,
+    "lng": -99.07307
+  },
+  {
+    "name": "Yobain",
+    "country": "MX",
+    "lat": 21.23435,
+    "lng": -89.11488
+  },
+  {
+    "name": "Yosphí",
+    "country": "MX",
+    "lat": 20.17083,
+    "lng": -99.95222
+  },
+  {
+    "name": "Yoshib",
+    "country": "MX",
+    "lat": 16.84528,
+    "lng": -92.44611
+  },
+  {
+    "name": "Yopi",
+    "country": "MX",
+    "lat": 19.82667,
+    "lng": -97.38028
+  },
+  {
+    "name": "Yong Peng",
+    "country": "MY",
+    "lat": 2.0136,
+    "lng": 103.0659
+  },
+  {
+    "name": "Youri Kourtéré",
+    "country": "NE",
+    "lat": 13.3342,
+    "lng": 2.2475
+  },
+  {
+    "name": "Yola",
+    "country": "NG",
+    "lat": 9.20839,
+    "lng": 12.48146
+  },
+  {
+    "name": "Yorongos",
+    "country": "PE",
+    "lat": -6.13972,
+    "lng": -77.14389
+  },
+  {
+    "name": "Yook",
+    "country": "PH",
+    "lat": 13.22608,
+    "lng": 121.964
+  },
+  {
+    "name": "Yoshkar-Ola",
+    "country": "RU",
+    "lat": 56.63877,
+    "lng": 47.89078
+  },
+  {
+    "name": "Yonibana",
+    "country": "SL",
+    "lat": 8.44347,
+    "lng": -12.23929
+  },
+  {
+    "name": "Yovon",
+    "country": "TJ",
+    "lat": 38.31408,
+    "lng": 69.03784
+  },
+  {
+    "name": "Yolöten",
+    "country": "TM",
+    "lat": 37.29886,
+    "lng": 62.35975
+  },
+  {
+    "name": "Yozgat",
+    "country": "TR",
+    "lat": 39.82,
+    "lng": 34.80444
+  },
+  {
+    "name": "Yoncalı",
+    "country": "TR",
+    "lat": 39.00913,
+    "lng": 38.2532
+  },
+  {
+    "name": "Yolboyu",
+    "country": "TR",
+    "lat": 37.89764,
+    "lng": 40.00086
+  },
+  {
+    "name": "Yolbaşı",
+    "country": "TR",
+    "lat": 37.38736,
+    "lng": 41.3166
+  },
+  {
+    "name": "Yolağzı",
+    "country": "TR",
+    "lat": 37.5248,
+    "lng": 41.35308
+  },
+  {
+    "name": "Yoğun",
+    "country": "TR",
+    "lat": 38.09906,
+    "lng": 39.51321
+  },
+  {
+    "name": "Yomra",
+    "country": "TR",
+    "lat": 40.95326,
+    "lng": 39.85546
+  },
+  {
+    "name": "Yoğuntaş",
+    "country": "TR",
+    "lat": 41.83081,
+    "lng": 27.06971
+  },
+  {
+    "name": "Yongkang",
+    "country": "TW",
+    "lat": 23.02444,
+    "lng": 120.25556
+  },
+  {
+    "name": "Yongjing",
+    "country": "TW",
+    "lat": 23.92148,
+    "lng": 120.54594
+  },
+  {
+    "name": "Yosypivka",
+    "country": "UA",
+    "lat": 46.407,
+    "lng": 30.43552
+  },
+  {
+    "name": "Yordaneshty",
+    "country": "UA",
+    "lat": 48.1038,
+    "lng": 25.81099
+  },
+  {
+    "name": "Yorktown",
+    "country": "US",
+    "lat": 37.23858,
+    "lng": -76.50894
+  },
+  {
+    "name": "York",
+    "country": "US",
+    "lat": 32.48625,
+    "lng": -88.29642
+  },
+  {
+    "name": "Youngstown",
+    "country": "US",
+    "lat": 30.36436,
+    "lng": -85.43826
+  },
+  {
+    "name": "Young Harris",
+    "country": "US",
+    "lat": 34.93315,
+    "lng": -83.84712
+  },
+  {
+    "name": "Youngsville",
+    "country": "US",
+    "lat": 30.09965,
+    "lng": -91.99012
+  },
+  {
+    "name": "Youngsville",
+    "country": "US",
+    "lat": 36.02487,
+    "lng": -78.47444
+  },
+  {
+    "name": "Yoe",
+    "country": "US",
+    "lat": 39.90899,
+    "lng": -76.63691
+  },
+  {
+    "name": "York",
+    "country": "US",
+    "lat": 39.9626,
+    "lng": -76.72774
+  },
+  {
+    "name": "Yorklyn",
+    "country": "US",
+    "lat": 39.99232,
+    "lng": -76.64635
+  },
+  {
+    "name": "Yorktown",
+    "country": "US",
+    "lat": 39.97345,
+    "lng": -75.15296
+  },
+  {
+    "name": "York",
+    "country": "US",
+    "lat": 34.9943,
+    "lng": -81.24202
+  },
+  {
+    "name": "Yoakum",
+    "country": "US",
+    "lat": 29.28775,
+    "lng": -97.15193
+  },
+  {
+    "name": "Yorktown",
+    "country": "US",
+    "lat": 28.98109,
+    "lng": -97.50277
+  },
+  {
+    "name": "Yorkshire",
+    "country": "US",
+    "lat": 38.79317,
+    "lng": -77.44777
+  },
+  {
+    "name": "Yorkville",
+    "country": "US",
+    "lat": 41.64114,
+    "lng": -88.44729
+  },
+  {
+    "name": "Yorktown",
+    "country": "US",
+    "lat": 40.17365,
+    "lng": -85.49414
+  },
+  {
+    "name": "York Beach",
+    "country": "US",
+    "lat": 43.17148,
+    "lng": -70.60894
+  },
+  {
+    "name": "York Harbor",
+    "country": "US",
+    "lat": 43.13676,
+    "lng": -70.64561
+  },
+  {
+    "name": "Young America (historical)",
+    "country": "US",
+    "lat": 44.78274,
+    "lng": -93.91358
+  },
+  {
+    "name": "York",
+    "country": "US",
+    "lat": 40.86807,
+    "lng": -97.592
+  },
+  {
+    "name": "Yorketown",
+    "country": "US",
+    "lat": 40.30789,
+    "lng": -74.33765
+  },
+  {
+    "name": "Yonkers",
+    "country": "US",
+    "lat": 40.9304,
+    "lng": -73.89789
+  },
+  {
+    "name": "Yorkshire",
+    "country": "US",
+    "lat": 42.53006,
+    "lng": -78.4728
+  },
+  {
+    "name": "Yorktown Heights",
+    "country": "US",
+    "lat": 41.27093,
+    "lng": -73.77763
+  },
+  {
+    "name": "Yorkville",
+    "country": "US",
+    "lat": 43.11285,
+    "lng": -75.271
+  },
+  {
+    "name": "Youngstown",
+    "country": "US",
+    "lat": 43.24728,
+    "lng": -79.05005
+  },
+  {
+    "name": "Yorkville",
+    "country": "US",
+    "lat": 40.15452,
+    "lng": -80.71036
+  },
+  {
+    "name": "Youngstown",
+    "country": "US",
+    "lat": 41.09978,
+    "lng": -80.64952
+  },
+  {
+    "name": "Youngsville",
+    "country": "US",
+    "lat": 40.78121,
+    "lng": -75.47685
+  },
+  {
+    "name": "Youngsville",
+    "country": "US",
+    "lat": 41.85228,
+    "lng": -79.31866
+  },
+  {
+    "name": "Youngwood",
+    "country": "US",
+    "lat": 40.24035,
+    "lng": -79.57671
+  },
+  {
+    "name": "Youngtown",
+    "country": "US",
+    "lat": 33.59393,
+    "lng": -112.30294
+  },
+  {
+    "name": "Yokuts Valley",
+    "country": "US",
+    "lat": 36.74023,
+    "lng": -119.24679
+  },
+  {
+    "name": "Yorba Linda",
+    "country": "US",
+    "lat": 33.88863,
+    "lng": -117.81311
+  },
+  {
+    "name": "Yosemite Lakes",
+    "country": "US",
+    "lat": 37.19106,
+    "lng": -119.77265
+  },
+  {
+    "name": "Yountville",
+    "country": "US",
+    "lat": 38.40158,
+    "lng": -122.36081
+  },
+  {
+    "name": "Yoncalla",
+    "country": "US",
+    "lat": 43.59845,
+    "lng": -123.28342
+  },
+  {
+    "name": "Yosemite Valley",
+    "country": "US",
+    "lat": 37.74075,
+    "lng": -119.57788
+  },
+  {
+    "name": "Young",
+    "country": "UY",
+    "lat": -32.69844,
+    "lng": -57.62693
+  },
+  {
+    "name": "Yozyovon",
+    "country": "UZ",
+    "lat": 40.66139,
+    "lng": 71.74361
+  }
+]

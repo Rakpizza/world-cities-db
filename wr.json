@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Wright",
+    "country": "AU",
+    "lat": -35.32239,
+    "lng": 149.03456
+  },
+  {
+    "name": "Wrist",
+    "country": "DE",
+    "lat": 53.93249,
+    "lng": 9.75301
+  },
+  {
+    "name": "Wriezen",
+    "country": "DE",
+    "lat": 52.72091,
+    "lng": 14.13425
+  },
+  {
+    "name": "Wriedel",
+    "country": "DE",
+    "lat": 53.0313,
+    "lng": 10.29848
+  },
+  {
+    "name": "Wrestedt",
+    "country": "DE",
+    "lat": 52.90435,
+    "lng": 10.57494
+  },
+  {
+    "name": "Wremen",
+    "country": "DE",
+    "lat": 53.65,
+    "lng": 8.51667
+  },
+  {
+    "name": "Wroxall",
+    "country": "GB",
+    "lat": 52.33791,
+    "lng": -1.66898
+  },
+  {
+    "name": "Wroxall",
+    "country": "GB",
+    "lat": 50.61625,
+    "lng": -1.22292
+  },
+  {
+    "name": "Wroughton",
+    "country": "GB",
+    "lat": 51.52411,
+    "lng": -1.79559
+  },
+  {
+    "name": "Wrotham",
+    "country": "GB",
+    "lat": 51.30856,
+    "lng": 0.30899
+  },
+  {
+    "name": "Writtle",
+    "country": "GB",
+    "lat": 51.72906,
+    "lng": 0.42938
+  },
+  {
+    "name": "Wrington",
+    "country": "GB",
+    "lat": 51.36173,
+    "lng": -2.76319
+  },
+  {
+    "name": "Wrexham",
+    "country": "GB",
+    "lat": 53.04664,
+    "lng": -2.99132
+  },
+  {
+    "name": "Wrea Green",
+    "country": "GB",
+    "lat": 53.77651,
+    "lng": -2.91573
+  },
+  {
+    "name": "Wrawby",
+    "country": "GB",
+    "lat": 53.56672,
+    "lng": -0.46194
+  },
+  {
+    "name": "Wragby",
+    "country": "GB",
+    "lat": 53.28333,
+    "lng": -0.3
+  },
+  {
+    "name": "Wright",
+    "country": "PH",
+    "lat": 11.77028,
+    "lng": 125.02194
+  },
+  {
+    "name": "Wrzeszcz",
+    "country": "PL",
+    "lat": 54.37648,
+    "lng": 18.60753
+  },
+  {
+    "name": "Września",
+    "country": "PL",
+    "lat": 52.32512,
+    "lng": 17.56519
+  },
+  {
+    "name": "Wrząsowice",
+    "country": "PL",
+    "lat": 49.95862,
+    "lng": 19.94654
+  },
+  {
+    "name": "Wronki",
+    "country": "PL",
+    "lat": 52.71051,
+    "lng": 16.38044
+  },
+  {
+    "name": "Wrocław",
+    "country": "PL",
+    "lat": 51.10286,
+    "lng": 17.03006
+  },
+  {
+    "name": "Wróblew",
+    "country": "PL",
+    "lat": 51.61215,
+    "lng": 18.61487
+  },
+  {
+    "name": "Wręczyca Wielka",
+    "country": "PL",
+    "lat": 50.84589,
+    "lng": 18.92086
+  },
+  {
+    "name": "Wrzeszcz Dolny",
+    "country": "PL",
+    "lat": 54.38473,
+    "lng": 18.61273
+  },
+  {
+    "name": "Wrzeszcz Górny",
+    "country": "PL",
+    "lat": 54.37978,
+    "lng": 18.59539
+  },
+  {
+    "name": "Wrightsville",
+    "country": "US",
+    "lat": 34.60232,
+    "lng": -92.21681
+  },
+  {
+    "name": "Wright",
+    "country": "US",
+    "lat": 30.45575,
+    "lng": -86.63829
+  },
+  {
+    "name": "Wrens",
+    "country": "US",
+    "lat": 33.20765,
+    "lng": -82.39179
+  },
+  {
+    "name": "Wrightsville",
+    "country": "US",
+    "lat": 32.72933,
+    "lng": -82.71986
+  },
+  {
+    "name": "Wright City",
+    "country": "US",
+    "lat": 38.82755,
+    "lng": -91.02014
+  },
+  {
+    "name": "Wrightsboro",
+    "country": "US",
+    "lat": 34.2885,
+    "lng": -77.9211
+  },
+  {
+    "name": "Wrightsville Beach",
+    "country": "US",
+    "lat": 34.2085,
+    "lng": -77.79637
+  },
+  {
+    "name": "Wrentham",
+    "country": "US",
+    "lat": 42.06677,
+    "lng": -71.32811
+  },
+  {
+    "name": "Wrightsville",
+    "country": "US",
+    "lat": 40.02565,
+    "lng": -76.52997
+  },
+  {
+    "name": "Wrightstown",
+    "country": "US",
+    "lat": 44.32582,
+    "lng": -88.16288
+  },
+  {
+    "name": "Wrightwood",
+    "country": "US",
+    "lat": 34.36083,
+    "lng": -117.63339
+  },
+  {
+    "name": "Wray",
+    "country": "US",
+    "lat": 40.07582,
+    "lng": -102.22325
+  },
+  {
+    "name": "Wrangell",
+    "country": "US",
+    "lat": 56.47083,
+    "lng": -132.37667
+  },
+  {
+    "name": "Wright",
+    "country": "US",
+    "lat": 43.75124,
+    "lng": -105.49201
+  },
+  {
+    "name": "Wright-Patterson AFB",
+    "country": "US",
+    "lat": 39.81113,
+    "lng": -84.05731
+  }
+]

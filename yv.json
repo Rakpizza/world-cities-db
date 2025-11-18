@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Yvoir",
+    "country": "BE",
+    "lat": 50.3279,
+    "lng": 4.88059
+  },
+  {
+    "name": "Yves-Gomezée",
+    "country": "BE",
+    "lat": 50.23926,
+    "lng": 4.49344
+  },
+  {
+    "name": "Yvonand",
+    "country": "CH",
+    "lat": 46.80034,
+    "lng": 6.74249
+  },
+  {
+    "name": "Yverdon-les-Bains",
+    "country": "CH",
+    "lat": 46.77852,
+    "lng": 6.64115
+  },
+  {
+    "name": "Yvré-le-Pôlin",
+    "country": "FR",
+    "lat": 47.81953,
+    "lng": 0.15253
+  },
+  {
+    "name": "Yvrac",
+    "country": "FR",
+    "lat": 44.88063,
+    "lng": -0.4618
+  },
+  {
+    "name": "Yvignac-la-Tour",
+    "country": "FR",
+    "lat": 48.35,
+    "lng": -2.18333
+  },
+  {
+    "name": "Yvetot",
+    "country": "FR",
+    "lat": 49.61744,
+    "lng": 0.75814
+  },
+  {
+    "name": "Yves",
+    "country": "FR",
+    "lat": 46.01909,
+    "lng": -1.04806
+  }
+]

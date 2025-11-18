@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Vlorë",
+    "country": "AL",
+    "lat": 40.4696,
+    "lng": 19.48379
+  },
+  {
+    "name": "Vllahinë",
+    "country": "AL",
+    "lat": 40.45694,
+    "lng": 19.64361
+  },
+  {
+    "name": "Vlasenica",
+    "country": "BA",
+    "lat": 44.18183,
+    "lng": 18.94096
+  },
+  {
+    "name": "Vlissegem",
+    "country": "BE",
+    "lat": 51.25531,
+    "lng": 3.05604
+  },
+  {
+    "name": "Vlimmeren",
+    "country": "BE",
+    "lat": 51.2952,
+    "lng": 4.78128
+  },
+  {
+    "name": "Vlijtingen",
+    "country": "BE",
+    "lat": 50.83202,
+    "lng": 5.58432
+  },
+  {
+    "name": "Vlierzele",
+    "country": "BE",
+    "lat": 50.93171,
+    "lng": 3.8959
+  },
+  {
+    "name": "Vliermaalroot",
+    "country": "BE",
+    "lat": 50.86512,
+    "lng": 5.42622
+  },
+  {
+    "name": "Vliermaal",
+    "country": "BE",
+    "lat": 50.84069,
+    "lng": 5.42862
+  },
+  {
+    "name": "Vlezenbeek",
+    "country": "BE",
+    "lat": 50.80778,
+    "lng": 4.23197
+  },
+  {
+    "name": "Vlamertinge",
+    "country": "BE",
+    "lat": 50.85485,
+    "lng": 2.82024
+  },
+  {
+    "name": "Vladslo",
+    "country": "BE",
+    "lat": 51.04644,
+    "lng": 2.91601
+  },
+  {
+    "name": "Vlkoš",
+    "country": "CZ",
+    "lat": 48.9896,
+    "lng": 17.16356
+  },
+  {
+    "name": "Vlčnov",
+    "country": "CZ",
+    "lat": 49.0099,
+    "lng": 17.58183
+  },
+  {
+    "name": "Vlašim",
+    "country": "CZ",
+    "lat": 49.70632,
+    "lng": 14.89881
+  },
+  {
+    "name": "Vladislav",
+    "country": "CZ",
+    "lat": 49.21017,
+    "lng": 15.9883
+  },
+  {
+    "name": "Vlachovo Březí",
+    "country": "CZ",
+    "lat": 49.08135,
+    "lng": 13.95842
+  },
+  {
+    "name": "Vlachovice",
+    "country": "CZ",
+    "lat": 49.12377,
+    "lng": 17.94001
+  },
+  {
+    "name": "Vlotho",
+    "country": "DE",
+    "lat": 52.1653,
+    "lng": 8.85996
+  },
+  {
+    "name": "Vlachópoulo",
+    "country": "GR",
+    "lat": 37.03186,
+    "lng": 21.79158
+  },
+  {
+    "name": "Vlachiótis",
+    "country": "GR",
+    "lat": 36.86094,
+    "lng": 22.70831
+  },
+  {
+    "name": "Vlycháda",
+    "country": "GR",
+    "lat": 38.02734,
+    "lng": 23.43663
+  },
+  {
+    "name": "Vladislavci",
+    "country": "HR",
+    "lat": 45.45944,
+    "lng": 18.57417
+  },
+  {
+    "name": "Vlaka",
+    "country": "HR",
+    "lat": 42.99917,
+    "lng": 17.52417
+  },
+  {
+    "name": "Vladimirovo",
+    "country": "MK",
+    "lat": 41.71,
+    "lng": 22.79278
+  },
+  {
+    "name": "Vlokhoven",
+    "country": "NL",
+    "lat": 51.46667,
+    "lng": 5.48333
+  },
+  {
+    "name": "Vlodrop",
+    "country": "NL",
+    "lat": 51.13333,
+    "lng": 6.07639
+  },
+  {
+    "name": "Vlissingen",
+    "country": "NL",
+    "lat": 51.4425,
+    "lng": 3.57361
+  },
+  {
+    "name": "Vlietwijk",
+    "country": "NL",
+    "lat": 52.12436,
+    "lng": 4.45736
+  },
+  {
+    "name": "Vlierden",
+    "country": "NL",
+    "lat": 51.445,
+    "lng": 5.75833
+  },
+  {
+    "name": "Vliedberg",
+    "country": "NL",
+    "lat": 51.68961,
+    "lng": 5.19031
+  },
+  {
+    "name": "Vleuten",
+    "country": "NL",
+    "lat": 52.10583,
+    "lng": 5.01528
+  },
+  {
+    "name": "Vledder",
+    "country": "NL",
+    "lat": 52.85583,
+    "lng": 6.20833
+  },
+  {
+    "name": "Vlagtwedde",
+    "country": "NL",
+    "lat": 53.0275,
+    "lng": 7.10833
+  },
+  {
+    "name": "Vlaardingen",
+    "country": "NL",
+    "lat": 51.9125,
+    "lng": 4.34167
+  },
+  {
+    "name": "Vlăsineşti",
+    "country": "RO",
+    "lat": 47.93333,
+    "lng": 26.88333
+  },
+  {
+    "name": "Vlăsceni",
+    "country": "RO",
+    "lat": 44.58522,
+    "lng": 25.59931
+  },
+  {
+    "name": "Vlașca",
+    "country": "RO",
+    "lat": 44.39664,
+    "lng": 27.84865
+  },
+  {
+    "name": "Vlăhiţa",
+    "country": "RO",
+    "lat": 46.345,
+    "lng": 25.527
+  },
+  {
+    "name": "Vlăduleni",
+    "country": "RO",
+    "lat": 44.88857,
+    "lng": 23.23727
+  },
+  {
+    "name": "Vlad Ţepeş",
+    "country": "RO",
+    "lat": 44.35,
+    "lng": 27.08333
+  },
+  {
+    "name": "Vlad Țepeș",
+    "country": "RO",
+    "lat": 44.13282,
+    "lng": 26.13355
+  },
+  {
+    "name": "Vladimirescu",
+    "country": "RO",
+    "lat": 46.16628,
+    "lng": 21.40102
+  },
+  {
+    "name": "Vlădila",
+    "country": "RO",
+    "lat": 44.0,
+    "lng": 24.4
+  },
+  {
+    "name": "Vlădești",
+    "country": "RO",
+    "lat": 45.15,
+    "lng": 24.91667
+  },
+  {
+    "name": "Vlădeşti",
+    "country": "RO",
+    "lat": 45.85,
+    "lng": 28.08333
+  },
+  {
+    "name": "Vlădeşti",
+    "country": "RO",
+    "lat": 45.11667,
+    "lng": 24.3
+  },
+  {
+    "name": "Vlădeni-Deal",
+    "country": "RO",
+    "lat": 47.5225,
+    "lng": 26.87295
+  },
+  {
+    "name": "Vlădeni",
+    "country": "RO",
+    "lat": 47.71667,
+    "lng": 26.51667
+  },
+  {
+    "name": "Vlădeni",
+    "country": "RO",
+    "lat": 47.41667,
+    "lng": 27.33333
+  },
+  {
+    "name": "Vlădeni",
+    "country": "RO",
+    "lat": 44.8755,
+    "lng": 25.77318
+  },
+  {
+    "name": "Vlădeni",
+    "country": "RO",
+    "lat": 44.61667,
+    "lng": 27.88333
+  },
+  {
+    "name": "Vlădaia",
+    "country": "RO",
+    "lat": 44.35,
+    "lng": 23.03333
+  },
+  {
+    "name": "Vlasotince",
+    "country": "RS",
+    "lat": 42.96697,
+    "lng": 22.13402
+  },
+  {
+    "name": "Vlajkovac",
+    "country": "RS",
+    "lat": 45.07207,
+    "lng": 21.19945
+  },
+  {
+    "name": "Vladimirovac",
+    "country": "RS",
+    "lat": 45.03122,
+    "lng": 20.86566
+  },
+  {
+    "name": "Vladičin Han",
+    "country": "RS",
+    "lat": 42.70778,
+    "lng": 22.06333
+  },
+  {
+    "name": "Vladimirci",
+    "country": "RS",
+    "lat": 44.61472,
+    "lng": 19.78528
+  },
+  {
+    "name": "Vlasikha",
+    "country": "RU",
+    "lat": 55.68423,
+    "lng": 37.19661
+  },
+  {
+    "name": "Vladimirskoye",
+    "country": "RU",
+    "lat": 56.82002,
+    "lng": 45.11843
+  },
+  {
+    "name": "Vladimirskaya",
+    "country": "RU",
+    "lat": 44.5455,
+    "lng": 40.7933
+  },
+  {
+    "name": "Vladimir",
+    "country": "RU",
+    "lat": 56.13854,
+    "lng": 40.39976
+  },
+  {
+    "name": "Vladikavkaz",
+    "country": "RU",
+    "lat": 43.04101,
+    "lng": 44.66986
+  },
+  {
+    "name": "Vlasikha",
+    "country": "RU",
+    "lat": 53.29722,
+    "lng": 83.57417
+  },
+  {
+    "name": "Vladivostok",
+    "country": "RU",
+    "lat": 43.10562,
+    "lng": 131.87353
+  },
+  {
+    "name": "Vladimiro-Aleksandrovskoye",
+    "country": "RU",
+    "lat": 42.89199,
+    "lng": 133.07768
+  },
+  {
+    "name": "Vlasivka",
+    "country": "UA",
+    "lat": 49.11832,
+    "lng": 33.27971
+  },
+  {
+    "name": "Vladislavovka",
+    "country": "UA",
+    "lat": 45.16654,
+    "lng": 35.37268
+  },
+  {
+    "name": "Vladimirovka",
+    "country": "UA",
+    "lat": 45.1476,
+    "lng": 33.57583
+  },
+  {
+    "name": "Vladychna",
+    "country": "UA",
+    "lat": 48.42728,
+    "lng": 26.34034
+  }
+]

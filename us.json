@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Ushi",
+    "country": "AM",
+    "lat": 40.34729,
+    "lng": 44.37512
+  },
+  {
+    "name": "Ushuaia",
+    "country": "AR",
+    "lat": -54.81084,
+    "lng": -68.31591
+  },
+  {
+    "name": "Usher",
+    "country": "AU",
+    "lat": -33.37982,
+    "lng": 115.6292
+  },
+  {
+    "name": "Ustikolina",
+    "country": "BA",
+    "lat": 43.58338,
+    "lng": 18.79106
+  },
+  {
+    "name": "Ushachi",
+    "country": "BY",
+    "lat": 55.17611,
+    "lng": 28.61949
+  },
+  {
+    "name": "Usiazh",
+    "country": "BY",
+    "lat": 54.07598,
+    "lng": 28.00698
+  },
+  {
+    "name": "Uster",
+    "country": "CH",
+    "lat": 47.34713,
+    "lng": 8.72091
+  },
+  {
+    "name": "Uster / Kirch-Uster",
+    "country": "CH",
+    "lat": 47.34579,
+    "lng": 8.71839
+  },
+  {
+    "name": "Uster / Nieder-Uster",
+    "country": "CH",
+    "lat": 47.34743,
+    "lng": 8.70088
+  },
+  {
+    "name": "Uster / Gschwader",
+    "country": "CH",
+    "lat": 47.36016,
+    "lng": 8.7139
+  },
+  {
+    "name": "Uster / Ober-Uster",
+    "country": "CH",
+    "lat": 47.34874,
+    "lng": 8.73319
+  },
+  {
+    "name": "Uster / Nossikon",
+    "country": "CH",
+    "lat": 47.34088,
+    "lng": 8.72555
+  },
+  {
+    "name": "Usiacurí",
+    "country": "CO",
+    "lat": 10.74313,
+    "lng": -74.97604
+  },
+  {
+    "name": "Ustersbach",
+    "country": "DE",
+    "lat": 48.31667,
+    "lng": 10.65
+  },
+  {
+    "name": "Uslar",
+    "country": "DE",
+    "lat": 51.6569,
+    "lng": 9.63501
+  },
+  {
+    "name": "Usingen",
+    "country": "DE",
+    "lat": 50.33554,
+    "lng": 8.53688
+  },
+  {
+    "name": "Usedom",
+    "country": "DE",
+    "lat": 53.87537,
+    "lng": 13.92394
+  },
+  {
+    "name": "Usagre",
+    "country": "ES",
+    "lat": 38.35,
+    "lng": -6.16667
+  },
+  {
+    "name": "Usurbil",
+    "country": "ES",
+    "lat": 43.27164,
+    "lng": -2.04912
+  },
+  {
+    "name": "Used",
+    "country": "ES",
+    "lat": 41.05554,
+    "lng": -1.55954
+  },
+  {
+    "name": "Usera",
+    "country": "ES",
+    "lat": 40.38866,
+    "lng": -3.70035
+  },
+  {
+    "name": "Ustaritz",
+    "country": "FR",
+    "lat": 43.39991,
+    "lng": -1.45696
+  },
+  {
+    "name": "Usson-en-Forez",
+    "country": "FR",
+    "lat": 45.39174,
+    "lng": 3.94142
+  },
+  {
+    "name": "Usson-du-Poitou",
+    "country": "FR",
+    "lat": 46.27803,
+    "lng": 0.52773
+  },
+  {
+    "name": "Ussel",
+    "country": "FR",
+    "lat": 45.54804,
+    "lng": 2.30917
+  },
+  {
+    "name": "Ussac",
+    "country": "FR",
+    "lat": 45.19389,
+    "lng": 1.51337
+  },
+  {
+    "name": "Us",
+    "country": "FR",
+    "lat": 49.1,
+    "lng": 1.96667
+  },
+  {
+    "name": "Usk",
+    "country": "GB",
+    "lat": 51.70347,
+    "lng": -2.90332
+  },
+  {
+    "name": "Ushaw Moor",
+    "country": "GB",
+    "lat": 54.77803,
+    "lng": -1.6472
+  },
+  {
+    "name": "Usumatlán",
+    "country": "GT",
+    "lat": 14.94779,
+    "lng": -89.77712
+  },
+  {
+    "name": "Uspantán",
+    "country": "GT",
+    "lat": 15.34672,
+    "lng": -90.8705
+  },
+  {
+    "name": "Usilampatti",
+    "country": "IN",
+    "lat": 9.96936,
+    "lng": 77.78621
+  },
+  {
+    "name": "Usgao",
+    "country": "IN",
+    "lat": 15.43333,
+    "lng": 74.06667
+  },
+  {
+    "name": "Usehat",
+    "country": "IN",
+    "lat": 27.79796,
+    "lng": 79.23763
+  },
+  {
+    "name": "Usuppūr",
+    "country": "IN",
+    "lat": 11.38155,
+    "lng": 79.69702
+  },
+  {
+    "name": "Ustica",
+    "country": "IT",
+    "lat": 38.70985,
+    "lng": 13.19293
+  },
+  {
+    "name": "Ussassai",
+    "country": "IT",
+    "lat": 39.80998,
+    "lng": 9.39508
+  },
+  {
+    "name": "Ussaramanna",
+    "country": "IT",
+    "lat": 39.6925,
+    "lng": 8.9085
+  },
+  {
+    "name": "Ussana",
+    "country": "IT",
+    "lat": 39.39374,
+    "lng": 9.07496
+  },
+  {
+    "name": "Usellus",
+    "country": "IT",
+    "lat": 39.80833,
+    "lng": 8.85167
+  },
+  {
+    "name": "Usseglio",
+    "country": "IT",
+    "lat": 45.23274,
+    "lng": 7.21993
+  },
+  {
+    "name": "Usmate-Velate",
+    "country": "IT",
+    "lat": 45.64798,
+    "lng": 9.36245
+  },
+  {
+    "name": "Usini",
+    "country": "IT",
+    "lat": 40.66416,
+    "lng": 8.53919
+  },
+  {
+    "name": "Uscio",
+    "country": "IT",
+    "lat": 44.41233,
+    "lng": 9.16227
+  },
+  {
+    "name": "Usseaux",
+    "country": "IT",
+    "lat": 45.04894,
+    "lng": 7.02851
+  },
+  {
+    "name": "Usuki",
+    "country": "JP",
+    "lat": 33.12342,
+    "lng": 131.80401
+  },
+  {
+    "name": "Ushibukamachi",
+    "country": "JP",
+    "lat": 32.20142,
+    "lng": 130.02171
+  },
+  {
+    "name": "Ushitsu",
+    "country": "JP",
+    "lat": 37.30791,
+    "lng": 137.15219
+  },
+  {
+    "name": "Usui",
+    "country": "JP",
+    "lat": 35.73333,
+    "lng": 140.18333
+  },
+  {
+    "name": "Ushiku",
+    "country": "JP",
+    "lat": 35.96667,
+    "lng": 140.13333
+  },
+  {
+    "name": "Ushigome",
+    "country": "JP",
+    "lat": 35.46437,
+    "lng": 140.39178
+  },
+  {
+    "name": "Usa",
+    "country": "JP",
+    "lat": 33.43946,
+    "lng": 131.33675
+  },
+  {
+    "name": "Usenge",
+    "country": "KE",
+    "lat": -0.06731,
+    "lng": 34.0566
+  },
+  {
+    "name": "Uspenka",
+    "country": "KZ",
+    "lat": 52.90727,
+    "lng": 77.41813
+  },
+  {
+    "name": "Ushtobe",
+    "country": "KZ",
+    "lat": 45.25258,
+    "lng": 77.98284
+  },
+  {
+    "name": "Usharal",
+    "country": "KZ",
+    "lat": 46.16926,
+    "lng": 80.94331
+  },
+  {
+    "name": "Ust-Kamenogorsk",
+    "country": "KZ",
+    "lat": 49.97143,
+    "lng": 82.60586
+  },
+  {
+    "name": "Useldange",
+    "country": "LU",
+    "lat": 49.76972,
+    "lng": 5.98222
+  },
+  {
+    "name": "Ustia",
+    "country": "MD",
+    "lat": 47.25524,
+    "lng": 29.12406
+  },
+  {
+    "name": "Usje",
+    "country": "MK",
+    "lat": 41.95871,
+    "lng": 21.45835
+  },
+  {
+    "name": "Uspero",
+    "country": "MX",
+    "lat": 19.01421,
+    "lng": -102.26907
+  },
+  {
+    "name": "Usmajac",
+    "country": "MX",
+    "lat": 19.87468,
+    "lng": -103.54131
+  },
+  {
+    "name": "Usipa",
+    "country": "MX",
+    "lat": 17.50028,
+    "lng": -92.43806
+  },
+  {
+    "name": "Usakos",
+    "country": "NA",
+    "lat": -22.00219,
+    "lng": 15.58601
+  },
+  {
+    "name": "Uselu",
+    "country": "NG",
+    "lat": 6.38429,
+    "lng": 5.60984
+  },
+  {
+    "name": "Usquert",
+    "country": "NL",
+    "lat": 53.4025,
+    "lng": 6.61111
+  },
+  {
+    "name": "Ustupo",
+    "country": "PA",
+    "lat": 9.13112,
+    "lng": -77.9262
+  },
+  {
+    "name": "Usquil",
+    "country": "PE",
+    "lat": -7.81583,
+    "lng": -78.41921
+  },
+  {
+    "name": "Usicayos",
+    "country": "PE",
+    "lat": -14.12472,
+    "lng": -69.96611
+  },
+  {
+    "name": "Uson",
+    "country": "PH",
+    "lat": 12.2253,
+    "lng": 123.7834
+  },
+  {
+    "name": "Usab",
+    "country": "PH",
+    "lat": 12.32974,
+    "lng": 123.58091
+  },
+  {
+    "name": "Usta Muhammad",
+    "country": "PK",
+    "lat": 28.17723,
+    "lng": 68.04367
+  },
+  {
+    "name": "Ustrzyki Dolne",
+    "country": "PL",
+    "lat": 49.4304,
+    "lng": 22.59381
+  },
+  {
+    "name": "Ustronie Morskie",
+    "country": "PL",
+    "lat": 54.21517,
+    "lng": 15.75568
+  },
+  {
+    "name": "Ustroń",
+    "country": "PL",
+    "lat": 49.72153,
+    "lng": 18.80198
+  },
+  {
+    "name": "Ustka",
+    "country": "PL",
+    "lat": 54.58048,
+    "lng": 16.86194
+  },
+  {
+    "name": "Ususău",
+    "country": "RO",
+    "lat": 46.07063,
+    "lng": 21.81371
+  },
+  {
+    "name": "Usvyaty",
+    "country": "RU",
+    "lat": 55.74283,
+    "lng": 30.75194
+  },
+  {
+    "name": "Usukhchay",
+    "country": "RU",
+    "lat": 41.42245,
+    "lng": 47.91318
+  },
+  {
+    "name": "Ustyuzhna",
+    "country": "RU",
+    "lat": 58.8394,
+    "lng": 36.4321
+  },
+  {
+    "name": "Ust’ye",
+    "country": "RU",
+    "lat": 59.63043,
+    "lng": 39.73596
+  },
+  {
+    "name": "Ust-Tsilma",
+    "country": "RU",
+    "lat": 65.44104,
+    "lng": 52.14978
+  },
+  {
+    "name": "Ust’-Shonosha",
+    "country": "RU",
+    "lat": 61.1531,
+    "lng": 41.343
+  },
+  {
+    "name": "Ust’-Luga",
+    "country": "RU",
+    "lat": 59.66755,
+    "lng": 28.28713
+  },
+  {
+    "name": "Ust’-Labinsk",
+    "country": "RU",
+    "lat": 45.21439,
+    "lng": 39.6884
+  },
+  {
+    "name": "Ust’-Kulom",
+    "country": "RU",
+    "lat": 61.68754,
+    "lng": 53.68938
+  },
+  {
+    "name": "Ust’-Kishert’",
+    "country": "RU",
+    "lat": 57.36635,
+    "lng": 57.24837
+  },
+  {
+    "name": "Ust’-Katav",
+    "country": "RU",
+    "lat": 54.9366,
+    "lng": 58.1757
+  },
+  {
+    "name": "Ust’-Kachka",
+    "country": "RU",
+    "lat": 58.0038,
+    "lng": 55.6721
+  },
+  {
+    "name": "Ust’-Izhora",
+    "country": "RU",
+    "lat": 59.81194,
+    "lng": 30.58139
+  },
+  {
+    "name": "Ust’-Dzheguta",
+    "country": "RU",
+    "lat": 44.0834,
+    "lng": 41.9763
+  },
+  {
+    "name": "Ust’-Donetskiy",
+    "country": "RU",
+    "lat": 47.64377,
+    "lng": 40.8718
+  },
+  {
+    "name": "Uspenskoye",
+    "country": "RU",
+    "lat": 44.83182,
+    "lng": 41.38647
+  },
+  {
+    "name": "Uspenskaya",
+    "country": "RU",
+    "lat": 45.76448,
+    "lng": 41.06696
+  },
+  {
+    "name": "Usol’ye",
+    "country": "RU",
+    "lat": 59.42209,
+    "lng": 56.68413
+  },
+  {
+    "name": "Usogorsk",
+    "country": "RU",
+    "lat": 63.41064,
+    "lng": 48.68722
+  },
+  {
+    "name": "Usman’",
+    "country": "RU",
+    "lat": 52.04479,
+    "lng": 39.72569
+  },
+  {
+    "name": "Usisha",
+    "country": "RU",
+    "lat": 42.25111,
+    "lng": 47.39278
+  },
+  {
+    "name": "Usinsk",
+    "country": "RU",
+    "lat": 66.00866,
+    "lng": 57.53054
+  },
+  {
+    "name": "Usyatskoye",
+    "country": "RU",
+    "lat": 52.56806,
+    "lng": 85.76085
+  },
+  {
+    "name": "Ust’yanka",
+    "country": "RU",
+    "lat": 53.4527,
+    "lng": 78.7425
+  },
+  {
+    "name": "Ust’-Tarka",
+    "country": "RU",
+    "lat": 55.56704,
+    "lng": 75.70557
+  },
+  {
+    "name": "Ust’-Koksa",
+    "country": "RU",
+    "lat": 50.27246,
+    "lng": 85.62613
+  },
+  {
+    "name": "Ust’-Kan",
+    "country": "RU",
+    "lat": 50.93254,
+    "lng": 84.76608
+  },
+  {
+    "name": "Ust’-Kalmanka",
+    "country": "RU",
+    "lat": 52.12283,
+    "lng": 83.30798
+  },
+  {
+    "name": "Ust’-Ishim",
+    "country": "RU",
+    "lat": 57.69335,
+    "lng": 71.16648
+  },
+  {
+    "name": "Ust’-Isha",
+    "country": "RU",
+    "lat": 52.18201,
+    "lng": 85.96757
+  },
+  {
+    "name": "Ust’-Charyshskaya Pristan’",
+    "country": "RU",
+    "lat": 52.39466,
+    "lng": 83.66346
+  },
+  {
+    "name": "Ust’-Bagaryak",
+    "country": "RU",
+    "lat": 56.13278,
+    "lng": 61.84722
+  },
+  {
+    "name": "Ust’-Abakan",
+    "country": "RU",
+    "lat": 53.83573,
+    "lng": 91.39047
+  },
+  {
+    "name": "Uspenka",
+    "country": "RU",
+    "lat": 56.80158,
+    "lng": 69.22702
+  },
+  {
+    "name": "Ust’-Ilimsk",
+    "country": "RU",
+    "lat": 57.98925,
+    "lng": 102.70641
+  },
+  {
+    "name": "Ust’-Uda",
+    "country": "RU",
+    "lat": 54.17387,
+    "lng": 103.02865
+  },
+  {
+    "name": "Ust’-Ordynskiy",
+    "country": "RU",
+    "lat": 52.80878,
+    "lng": 104.74705
+  },
+  {
+    "name": "Ust-Maya",
+    "country": "RU",
+    "lat": 60.41553,
+    "lng": 134.54405
+  },
+  {
+    "name": "Ust-Kuyga",
+    "country": "RU",
+    "lat": 70.00208,
+    "lng": 135.54876
+  },
+  {
+    "name": "Ust’-Kut",
+    "country": "RU",
+    "lat": 56.7979,
+    "lng": 105.78657
+  },
+  {
+    "name": "Ust’-Karsk",
+    "country": "RU",
+    "lat": 52.70002,
+    "lng": 118.79969
+  },
+  {
+    "name": "Ust’-Ilimsk",
+    "country": "RU",
+    "lat": 58.00056,
+    "lng": 102.66194
+  },
+  {
+    "name": "Ust’-Barguzin",
+    "country": "RU",
+    "lat": 53.41116,
+    "lng": 109.03103
+  },
+  {
+    "name": "Ussuriysk",
+    "country": "RU",
+    "lat": 43.80467,
+    "lng": 131.95734
+  },
+  {
+    "name": "Usol’ye-Sibirskoye",
+    "country": "RU",
+    "lat": 52.75194,
+    "lng": 103.64528
+  },
+  {
+    "name": "Ushumun",
+    "country": "RU",
+    "lat": 52.78633,
+    "lng": 126.53767
+  },
+  {
+    "name": "Ust’-Kamchatsk Staryy",
+    "country": "RU",
+    "lat": 56.22778,
+    "lng": 162.47778
+  },
+  {
+    "name": "Ust’-Omchug",
+    "country": "RU",
+    "lat": 61.13672,
+    "lng": 149.63259
+  },
+  {
+    "name": "Ust-Nera",
+    "country": "RU",
+    "lat": 64.56968,
+    "lng": 143.237
+  },
+  {
+    "name": "Ust’-Kamchatsk",
+    "country": "RU",
+    "lat": 56.236,
+    "lng": 162.533
+  },
+  {
+    "name": "Ust’-Bol’sheretsk",
+    "country": "RU",
+    "lat": 52.82582,
+    "lng": 156.2829
+  },
+  {
+    "name": "Ust’-Kinel’skiy",
+    "country": "RU",
+    "lat": 53.2682,
+    "lng": 50.57815
+  },
+  {
+    "name": "Usulután",
+    "country": "SV",
+    "lat": 13.34467,
+    "lng": -88.43994
+  },
+  {
+    "name": "Uskumruköy",
+    "country": "TR",
+    "lat": 41.22034,
+    "lng": 29.02326
+  },
+  {
+    "name": "Usoke",
+    "country": "TZ",
+    "lat": -5.16667,
+    "lng": 32.35
+  },
+  {
+    "name": "Ushirombo",
+    "country": "TZ",
+    "lat": -3.49194,
+    "lng": 31.96389
+  },
+  {
+    "name": "Usevia",
+    "country": "TZ",
+    "lat": -7.1,
+    "lng": 31.23333
+  },
+  {
+    "name": "Usangi",
+    "country": "TZ",
+    "lat": -3.7,
+    "lng": 37.66667
+  },
+  {
+    "name": "Usagara",
+    "country": "TZ",
+    "lat": -2.68333,
+    "lng": 33.0
+  },
+  {
+    "name": "Usa River",
+    "country": "TZ",
+    "lat": -3.36667,
+    "lng": 36.85
+  },
+  {
+    "name": "Ustynivka",
+    "country": "UA",
+    "lat": 47.95619,
+    "lng": 32.53938
+  },
+  {
+    "name": "Ustyluh",
+    "country": "UA",
+    "lat": 50.86048,
+    "lng": 24.15444
+  },
+  {
+    "name": "Ust-Chorna",
+    "country": "UA",
+    "lat": 48.32472,
+    "lng": 23.93439
+  },
+  {
+    "name": "Uspenivka",
+    "country": "UA",
+    "lat": 46.185,
+    "lng": 29.86392
+  },
+  {
+    "name": "Uspenka",
+    "country": "UA",
+    "lat": 48.39077,
+    "lng": 39.16284
+  },
+  {
+    "name": "Usatove",
+    "country": "UA",
+    "lat": 46.52893,
+    "lng": 30.64951
+  },
+  {
+    "name": "Usatove",
+    "country": "UA",
+    "lat": 46.51553,
+    "lng": 30.60905
+  },
+  {
+    "name": "Usmat Shaharchasi",
+    "country": "UZ",
+    "lat": 39.73982,
+    "lng": 67.6479
+  }
+]

@@ -1,0 +1,3464 @@
+[
+  {
+    "name": "Zayed City",
+    "country": "AE",
+    "lat": 23.65416,
+    "lng": 53.70522
+  },
+  {
+    "name": "Za'abeel",
+    "country": "AE",
+    "lat": 25.22536,
+    "lng": 55.305
+  },
+  {
+    "name": "Zaybāk",
+    "country": "AF",
+    "lat": 36.52947,
+    "lng": 71.3441
+  },
+  {
+    "name": "Zarghūn Shahr",
+    "country": "AF",
+    "lat": 32.84734,
+    "lng": 68.44573
+  },
+  {
+    "name": "Zaṟah Sharan",
+    "country": "AF",
+    "lat": 33.14641,
+    "lng": 68.79213
+  },
+  {
+    "name": "Zaranj",
+    "country": "AF",
+    "lat": 30.95962,
+    "lng": 61.86037
+  },
+  {
+    "name": "Zamtō Kêlay",
+    "country": "AF",
+    "lat": 32.3726,
+    "lng": 66.17708
+  },
+  {
+    "name": "Zargarān",
+    "country": "AF",
+    "lat": 34.78764,
+    "lng": 69.05878
+  },
+  {
+    "name": "Zavalinë",
+    "country": "AL",
+    "lat": 40.98083,
+    "lng": 20.28083
+  },
+  {
+    "name": "Zapod",
+    "country": "AL",
+    "lat": 42.05056,
+    "lng": 20.5525
+  },
+  {
+    "name": "Zall-Reç",
+    "country": "AL",
+    "lat": 41.87611,
+    "lng": 20.32
+  },
+  {
+    "name": "Zall-Dardhë",
+    "country": "AL",
+    "lat": 41.80667,
+    "lng": 20.33611
+  },
+  {
+    "name": "Zall-Herr",
+    "country": "AL",
+    "lat": 41.38944,
+    "lng": 19.8275
+  },
+  {
+    "name": "Zall-Bastar",
+    "country": "AL",
+    "lat": 41.42972,
+    "lng": 19.93028
+  },
+  {
+    "name": "Zaritap",
+    "country": "AM",
+    "lat": 39.63892,
+    "lng": 45.51111
+  },
+  {
+    "name": "Zangakatun",
+    "country": "AM",
+    "lat": 39.82233,
+    "lng": 45.04169
+  },
+  {
+    "name": "Zar",
+    "country": "AM",
+    "lat": 40.25848,
+    "lng": 44.73328
+  },
+  {
+    "name": "Zartonk",
+    "country": "AM",
+    "lat": 40.10828,
+    "lng": 44.16388
+  },
+  {
+    "name": "Zapala",
+    "country": "AR",
+    "lat": -38.90056,
+    "lng": -70.06674
+  },
+  {
+    "name": "Zams",
+    "country": "AT",
+    "lat": 47.15844,
+    "lng": 10.5897
+  },
+  {
+    "name": "Zagersdorf",
+    "country": "AT",
+    "lat": 47.76471,
+    "lng": 16.51382
+  },
+  {
+    "name": "Zangilan",
+    "country": "AZ",
+    "lat": 39.08371,
+    "lng": 46.65988
+  },
+  {
+    "name": "Zardob",
+    "country": "AZ",
+    "lat": 40.2184,
+    "lng": 47.71214
+  },
+  {
+    "name": "Zaqatala",
+    "country": "AZ",
+    "lat": 41.6316,
+    "lng": 46.64479
+  },
+  {
+    "name": "Zabrat",
+    "country": "AZ",
+    "lat": 40.47746,
+    "lng": 49.94174
+  },
+  {
+    "name": "Zavidovići",
+    "country": "BA",
+    "lat": 44.44583,
+    "lng": 18.14972
+  },
+  {
+    "name": "Zabrišće",
+    "country": "BA",
+    "lat": 43.79224,
+    "lng": 16.94224
+  },
+  {
+    "name": "Zaventem",
+    "country": "BE",
+    "lat": 50.88365,
+    "lng": 4.47298
+  },
+  {
+    "name": "Zarren",
+    "country": "BE",
+    "lat": 51.01844,
+    "lng": 2.95814
+  },
+  {
+    "name": "Zarlardinge",
+    "country": "BE",
+    "lat": 50.76214,
+    "lng": 3.8285
+  },
+  {
+    "name": "Zandvoorde",
+    "country": "BE",
+    "lat": 51.19942,
+    "lng": 2.9722
+  },
+  {
+    "name": "Zandhoven",
+    "country": "BE",
+    "lat": 51.21488,
+    "lng": 4.66164
+  },
+  {
+    "name": "Zandbergen",
+    "country": "BE",
+    "lat": 50.80279,
+    "lng": 3.96636
+  },
+  {
+    "name": "Zaffelare",
+    "country": "BE",
+    "lat": 51.13385,
+    "lng": 3.86357
+  },
+  {
+    "name": "Zabré",
+    "country": "BF",
+    "lat": 11.1825,
+    "lng": -0.63222
+  },
+  {
+    "name": "Zavet",
+    "country": "BG",
+    "lat": 43.76036,
+    "lng": 26.68063
+  },
+  {
+    "name": "Zanandore",
+    "country": "BI",
+    "lat": -3.2548,
+    "lng": 30.11404
+  },
+  {
+    "name": "Zagnanado",
+    "country": "BJ",
+    "lat": 7.22097,
+    "lng": 2.38335
+  },
+  {
+    "name": "Zabelê",
+    "country": "BR",
+    "lat": -8.07556,
+    "lng": -37.09833
+  },
+  {
+    "name": "Zacarias",
+    "country": "BR",
+    "lat": -21.05222,
+    "lng": -50.05083
+  },
+  {
+    "name": "Zabelê",
+    "country": "BR",
+    "lat": -5.37405,
+    "lng": -35.73825
+  },
+  {
+    "name": "Zaslawye",
+    "country": "BY",
+    "lat": 54.0114,
+    "lng": 27.2695
+  },
+  {
+    "name": "Zamostochye",
+    "country": "BY",
+    "lat": 53.8198,
+    "lng": 27.8685
+  },
+  {
+    "name": "Zanaga",
+    "country": "CG",
+    "lat": -2.85028,
+    "lng": 13.82611
+  },
+  {
+    "name": "Zangokro",
+    "country": "CI",
+    "lat": 7.85,
+    "lng": -5.57099
+  },
+  {
+    "name": "Zaguinasso",
+    "country": "CI",
+    "lat": 10.04886,
+    "lng": -6.35999
+  },
+  {
+    "name": "Zahia",
+    "country": "CI",
+    "lat": 6.91672,
+    "lng": -6.57811
+  },
+  {
+    "name": "Zata",
+    "country": "CI",
+    "lat": 6.87914,
+    "lng": -5.40398
+  },
+  {
+    "name": "Zaroko",
+    "country": "CI",
+    "lat": 6.13911,
+    "lng": -5.30224
+  },
+  {
+    "name": "Zaranou",
+    "country": "CI",
+    "lat": 6.4265,
+    "lng": -3.36171
+  },
+  {
+    "name": "Zarala",
+    "country": "CI",
+    "lat": 8.27819,
+    "lng": -2.53031
+  },
+  {
+    "name": "Zaragoua",
+    "country": "CI",
+    "lat": 6.79276,
+    "lng": -6.40022
+  },
+  {
+    "name": "Zanzra",
+    "country": "CI",
+    "lat": 7.47962,
+    "lng": -6.21069
+  },
+  {
+    "name": "Zanzansso",
+    "country": "CI",
+    "lat": 7.37356,
+    "lng": -3.87782
+  },
+  {
+    "name": "Zantongouin",
+    "country": "CI",
+    "lat": 7.5827,
+    "lng": -7.78805
+  },
+  {
+    "name": "Zanoufla",
+    "country": "CI",
+    "lat": 6.79667,
+    "lng": -6.00278
+  },
+  {
+    "name": "Zanikro",
+    "country": "CI",
+    "lat": 7.81792,
+    "lng": -5.29676
+  },
+  {
+    "name": "Zan Hounien",
+    "country": "CI",
+    "lat": 7.11636,
+    "lng": -8.12395
+  },
+  {
+    "name": "Zangué",
+    "country": "CI",
+    "lat": 6.43055,
+    "lng": -5.35551
+  },
+  {
+    "name": "Zagoué",
+    "country": "CI",
+    "lat": 7.48018,
+    "lng": -7.49731
+  },
+  {
+    "name": "Zangboplé",
+    "country": "CI",
+    "lat": 9.32082,
+    "lng": -5.85694
+  },
+  {
+    "name": "Zangagleu",
+    "country": "CI",
+    "lat": 7.45466,
+    "lng": -8.30066
+  },
+  {
+    "name": "Zanfouénou",
+    "country": "CI",
+    "lat": 6.70516,
+    "lng": -4.10607
+  },
+  {
+    "name": "Zanasso",
+    "country": "CI",
+    "lat": 10.59658,
+    "lng": -6.39456
+  },
+  {
+    "name": "Zanaplidougou",
+    "country": "CI",
+    "lat": 10.10162,
+    "lng": -5.1805
+  },
+  {
+    "name": "Zamou",
+    "country": "CI",
+    "lat": 8.55646,
+    "lng": -3.76894
+  },
+  {
+    "name": "Zambakro",
+    "country": "CI",
+    "lat": 6.73322,
+    "lng": -5.41117
+  },
+  {
+    "name": "Zamaka",
+    "country": "CI",
+    "lat": 6.911,
+    "lng": -3.41532
+  },
+  {
+    "name": "Zaliohouan",
+    "country": "CI",
+    "lat": 6.79519,
+    "lng": -6.2355
+  },
+  {
+    "name": "Zala",
+    "country": "CI",
+    "lat": 7.33296,
+    "lng": -6.69131
+  },
+  {
+    "name": "Zakroguhé",
+    "country": "CI",
+    "lat": 6.34387,
+    "lng": -6.47286
+  },
+  {
+    "name": "Zakoua",
+    "country": "CI",
+    "lat": 6.80149,
+    "lng": -6.4518
+  },
+  {
+    "name": "Zakuéoua",
+    "country": "CI",
+    "lat": 6.24931,
+    "lng": -6.50741
+  },
+  {
+    "name": "Zakarékro",
+    "country": "CI",
+    "lat": 5.10965,
+    "lng": -5.60241
+  },
+  {
+    "name": "Zahirogbeu",
+    "country": "CI",
+    "lat": 6.76219,
+    "lng": -6.88421
+  },
+  {
+    "name": "Zaïpobli",
+    "country": "CI",
+    "lat": 5.95402,
+    "lng": -7.47469
+  },
+  {
+    "name": "Zaïbo",
+    "country": "CI",
+    "lat": 6.9893,
+    "lng": -6.66673
+  },
+  {
+    "name": "Zahourayo",
+    "country": "CI",
+    "lat": 5.4748,
+    "lng": -6.03742
+  },
+  {
+    "name": "Zahibohio",
+    "country": "CI",
+    "lat": 6.45,
+    "lng": -5.95
+  },
+  {
+    "name": "Zaguédia",
+    "country": "CI",
+    "lat": 6.67672,
+    "lng": -6.42838
+  },
+  {
+    "name": "Zagoréta",
+    "country": "CI",
+    "lat": 6.6756,
+    "lng": -6.15347
+  },
+  {
+    "name": "Zagné",
+    "country": "CI",
+    "lat": 6.21016,
+    "lng": -7.48284
+  },
+  {
+    "name": "Zadioa",
+    "country": "CI",
+    "lat": 6.43153,
+    "lng": -6.39783
+  },
+  {
+    "name": "Zadiayo",
+    "country": "CI",
+    "lat": 6.15696,
+    "lng": -6.24583
+  },
+  {
+    "name": "Zabré",
+    "country": "CI",
+    "lat": 5.31012,
+    "lng": -6.27536
+  },
+  {
+    "name": "Zabanandougou",
+    "country": "CI",
+    "lat": 8.27009,
+    "lng": -8.16712
+  },
+  {
+    "name": "Zaakro",
+    "country": "CI",
+    "lat": 6.59968,
+    "lng": -5.07086
+  },
+  {
+    "name": "Zaadi",
+    "country": "CI",
+    "lat": 6.33317,
+    "lng": -5.73659
+  },
+  {
+    "name": "Za",
+    "country": "CI",
+    "lat": 6.71535,
+    "lng": -6.4345
+  },
+  {
+    "name": "Zakogbeu",
+    "country": "CI",
+    "lat": 6.78305,
+    "lng": -6.81606
+  },
+  {
+    "name": "Zangohoba",
+    "country": "CI",
+    "lat": 9.30196,
+    "lng": -7.20137
+  },
+  {
+    "name": "Zakoa",
+    "country": "CI",
+    "lat": 6.19962,
+    "lng": -6.2397
+  },
+  {
+    "name": "Zahidougba",
+    "country": "CI",
+    "lat": 5.78713,
+    "lng": -5.75686
+  },
+  {
+    "name": "Zagoué-Guiané",
+    "country": "CI",
+    "lat": 7.86789,
+    "lng": -7.43064
+  },
+  {
+    "name": "Zaodrou",
+    "country": "CI",
+    "lat": 7.15835,
+    "lng": -7.1848
+  },
+  {
+    "name": "Zaguiéta",
+    "country": "CI",
+    "lat": 6.78815,
+    "lng": -6.06288
+  },
+  {
+    "name": "Zanakaha",
+    "country": "CI",
+    "lat": 9.63872,
+    "lng": -5.63665
+  },
+  {
+    "name": "Zandanakaha",
+    "country": "CI",
+    "lat": 10.05314,
+    "lng": -5.2573
+  },
+  {
+    "name": "Zanakaha",
+    "country": "CI",
+    "lat": 8.70167,
+    "lng": -5.53533
+  },
+  {
+    "name": "Zangguy",
+    "country": "CN",
+    "lat": 37.28333,
+    "lng": 78.76667
+  },
+  {
+    "name": "Zaindainxoi",
+    "country": "CN",
+    "lat": 31.85,
+    "lng": 93.66667
+  },
+  {
+    "name": "Zaozhuang",
+    "country": "CN",
+    "lat": 34.86472,
+    "lng": 117.55417
+  },
+  {
+    "name": "Zaoyang",
+    "country": "CN",
+    "lat": 32.12722,
+    "lng": 112.75417
+  },
+  {
+    "name": "Zaoqiang",
+    "country": "CN",
+    "lat": 37.51177,
+    "lng": 115.72523
+  },
+  {
+    "name": "Zaojiacheng",
+    "country": "CN",
+    "lat": 39.27706,
+    "lng": 117.43574
+  },
+  {
+    "name": "Zanhuang",
+    "country": "CN",
+    "lat": 37.65813,
+    "lng": 114.38647
+  },
+  {
+    "name": "Zagunao",
+    "country": "CN",
+    "lat": 31.44618,
+    "lng": 103.17662
+  },
+  {
+    "name": "Zaoxia",
+    "country": "CN",
+    "lat": 22.68833,
+    "lng": 113.80095
+  },
+  {
+    "name": "Zangbawa",
+    "country": "CN",
+    "lat": 34.87725,
+    "lng": 103.8617
+  },
+  {
+    "name": "Zaoxia",
+    "country": "CN",
+    "lat": 22.56566,
+    "lng": 113.89864
+  },
+  {
+    "name": "Zarzal",
+    "country": "CO",
+    "lat": 4.39462,
+    "lng": -76.0715
+  },
+  {
+    "name": "Zaragoza",
+    "country": "CO",
+    "lat": 7.48971,
+    "lng": -74.86919
+  },
+  {
+    "name": "Zapatoca",
+    "country": "CO",
+    "lat": 6.81532,
+    "lng": -73.26768
+  },
+  {
+    "name": "Zambrano",
+    "country": "CO",
+    "lat": 9.7474,
+    "lng": -74.81572
+  },
+  {
+    "name": "Zarcero",
+    "country": "CR",
+    "lat": 10.18455,
+    "lng": -84.39163
+  },
+  {
+    "name": "Zapotal",
+    "country": "CR",
+    "lat": 10.0,
+    "lng": -85.3
+  },
+  {
+    "name": "Zaza del Medio",
+    "country": "CU",
+    "lat": 21.99712,
+    "lng": -79.36678
+  },
+  {
+    "name": "Zastávka",
+    "country": "CZ",
+    "lat": 49.188,
+    "lng": 16.3631
+  },
+  {
+    "name": "Zašová",
+    "country": "CZ",
+    "lat": 49.4741,
+    "lng": 18.04436
+  },
+  {
+    "name": "Zaječov",
+    "country": "CZ",
+    "lat": 49.77435,
+    "lng": 13.84072
+  },
+  {
+    "name": "Zaječí",
+    "country": "CZ",
+    "lat": 48.87295,
+    "lng": 16.76646
+  },
+  {
+    "name": "Zadní Mostek",
+    "country": "CZ",
+    "lat": 50.4967,
+    "lng": 15.69804
+  },
+  {
+    "name": "Zabrušany",
+    "country": "CZ",
+    "lat": 50.60495,
+    "lng": 13.78748
+  },
+  {
+    "name": "Zarrentin",
+    "country": "DE",
+    "lat": 53.55075,
+    "lng": 10.9155
+  },
+  {
+    "name": "Zarrendorf",
+    "country": "DE",
+    "lat": 54.23689,
+    "lng": 13.10094
+  },
+  {
+    "name": "Zarpen",
+    "country": "DE",
+    "lat": 53.87039,
+    "lng": 10.51623
+  },
+  {
+    "name": "Zappendorf",
+    "country": "DE",
+    "lat": 51.51024,
+    "lng": 11.79514
+  },
+  {
+    "name": "Zapfendorf",
+    "country": "DE",
+    "lat": 50.01783,
+    "lng": 10.93243
+  },
+  {
+    "name": "Zangberg",
+    "country": "DE",
+    "lat": 48.2748,
+    "lng": 12.42311
+  },
+  {
+    "name": "Zandt",
+    "country": "DE",
+    "lat": 49.15,
+    "lng": 12.73333
+  },
+  {
+    "name": "Zaisenhausen",
+    "country": "DE",
+    "lat": 49.10667,
+    "lng": 8.81278
+  },
+  {
+    "name": "Zahna",
+    "country": "DE",
+    "lat": 51.9141,
+    "lng": 12.78561
+  },
+  {
+    "name": "Zachenberg",
+    "country": "DE",
+    "lat": 48.96667,
+    "lng": 13.0
+  },
+  {
+    "name": "Zaberfeld",
+    "country": "DE",
+    "lat": 49.05611,
+    "lng": 8.92694
+  },
+  {
+    "name": "Zabeltitz",
+    "country": "DE",
+    "lat": 51.35147,
+    "lng": 13.50462
+  },
+  {
+    "name": "Zaouiet ed Debarh",
+    "country": "DZ",
+    "lat": 29.69905,
+    "lng": 0.71274
+  },
+  {
+    "name": "Zaouia",
+    "country": "DZ",
+    "lat": 26.70201,
+    "lng": 1.38889
+  },
+  {
+    "name": "Zaruma",
+    "country": "EC",
+    "lat": -3.69227,
+    "lng": -79.61254
+  },
+  {
+    "name": "Zamora",
+    "country": "EC",
+    "lat": -4.06446,
+    "lng": -78.95123
+  },
+  {
+    "name": "Zambi",
+    "country": "EC",
+    "lat": -3.91445,
+    "lng": -79.53616
+  },
+  {
+    "name": "Zagazig",
+    "country": "EG",
+    "lat": 30.58768,
+    "lng": 31.502
+  },
+  {
+    "name": "Zarza la Mayor",
+    "country": "ES",
+    "lat": 39.87692,
+    "lng": -6.86211
+  },
+  {
+    "name": "Zarza de Montánchez",
+    "country": "ES",
+    "lat": 39.25756,
+    "lng": -6.03248
+  },
+  {
+    "name": "Zarza de Alange",
+    "country": "ES",
+    "lat": 38.81814,
+    "lng": -6.21756
+  },
+  {
+    "name": "Zarra",
+    "country": "ES",
+    "lat": 39.09175,
+    "lng": -1.07532
+  },
+  {
+    "name": "Zalamea la Real",
+    "country": "ES",
+    "lat": 37.68012,
+    "lng": -6.65977
+  },
+  {
+    "name": "Zalamea de la Serena",
+    "country": "ES",
+    "lat": 38.65131,
+    "lng": -5.66063
+  },
+  {
+    "name": "Zahinos",
+    "country": "ES",
+    "lat": 38.33135,
+    "lng": -6.95533
+  },
+  {
+    "name": "Zahara de los Atunes",
+    "country": "ES",
+    "lat": 36.1369,
+    "lng": -5.84591
+  },
+  {
+    "name": "Zahara",
+    "country": "ES",
+    "lat": 36.84055,
+    "lng": -5.39128
+  },
+  {
+    "name": "Zagra",
+    "country": "ES",
+    "lat": 37.25561,
+    "lng": -4.16905
+  },
+  {
+    "name": "Zafra de Záncara",
+    "country": "ES",
+    "lat": 39.89203,
+    "lng": -2.55786
+  },
+  {
+    "name": "Zafra",
+    "country": "ES",
+    "lat": 38.42539,
+    "lng": -6.41734
+  },
+  {
+    "name": "Zafarraya",
+    "country": "ES",
+    "lat": 36.97554,
+    "lng": -4.14442
+  },
+  {
+    "name": "Zazuar",
+    "country": "ES",
+    "lat": 41.69528,
+    "lng": -3.55451
+  },
+  {
+    "name": "Zas",
+    "country": "ES",
+    "lat": 43.09885,
+    "lng": -8.91558
+  },
+  {
+    "name": "Zarzuela del Pinar",
+    "country": "ES",
+    "lat": 41.26018,
+    "lng": -4.18457
+  },
+  {
+    "name": "Zarzuela del Monte",
+    "country": "ES",
+    "lat": 40.80888,
+    "lng": -4.33613
+  },
+  {
+    "name": "Zarzuela de Jadraque",
+    "country": "ES",
+    "lat": 41.06838,
+    "lng": -3.04436
+  },
+  {
+    "name": "Zarzuela",
+    "country": "ES",
+    "lat": 40.25902,
+    "lng": -2.11034
+  },
+  {
+    "name": "Zarzosa",
+    "country": "ES",
+    "lat": 42.18294,
+    "lng": -2.34297
+  },
+  {
+    "name": "Zarzalejo",
+    "country": "ES",
+    "lat": 40.54811,
+    "lng": -4.18176
+  },
+  {
+    "name": "Zarza de Tajo",
+    "country": "ES",
+    "lat": 40.01591,
+    "lng": -3.12877
+  },
+  {
+    "name": "Zarza de Granadilla",
+    "country": "ES",
+    "lat": 40.23723,
+    "lng": -6.0485
+  },
+  {
+    "name": "Zarratón",
+    "country": "ES",
+    "lat": 42.51649,
+    "lng": -2.88094
+  },
+  {
+    "name": "Zarautz",
+    "country": "ES",
+    "lat": 43.28444,
+    "lng": -2.16992
+  },
+  {
+    "name": "Zaratán",
+    "country": "ES",
+    "lat": 41.65971,
+    "lng": -4.78417
+  },
+  {
+    "name": "Zaratamo",
+    "country": "ES",
+    "lat": 43.21667,
+    "lng": -2.86667
+  },
+  {
+    "name": "Zarapicos",
+    "country": "ES",
+    "lat": 41.0383,
+    "lng": -5.84526
+  },
+  {
+    "name": "Zaragoza",
+    "country": "ES",
+    "lat": 41.65606,
+    "lng": -0.87734
+  },
+  {
+    "name": "Zapardiel de la Ribera",
+    "country": "ES",
+    "lat": 40.35554,
+    "lng": -5.32826
+  },
+  {
+    "name": "Zapardiel de la Cañada",
+    "country": "ES",
+    "lat": 40.60648,
+    "lng": -5.33791
+  },
+  {
+    "name": "Zaorejas",
+    "country": "ES",
+    "lat": 40.76209,
+    "lng": -2.2012
+  },
+  {
+    "name": "Zamudio",
+    "country": "ES",
+    "lat": 43.286,
+    "lng": -2.87
+  },
+  {
+    "name": "Zamora",
+    "country": "ES",
+    "lat": 41.50633,
+    "lng": -5.74456
+  },
+  {
+    "name": "Zambrana",
+    "country": "ES",
+    "lat": 42.66102,
+    "lng": -2.87909
+  },
+  {
+    "name": "Zamayón",
+    "country": "ES",
+    "lat": 41.14861,
+    "lng": -5.83054
+  },
+  {
+    "name": "Zamarra",
+    "country": "ES",
+    "lat": 40.51893,
+    "lng": -6.45248
+  },
+  {
+    "name": "Zaldibia",
+    "country": "ES",
+    "lat": 43.0372,
+    "lng": -2.1506
+  },
+  {
+    "name": "Zaldibar",
+    "country": "ES",
+    "lat": 43.16667,
+    "lng": -2.53333
+  },
+  {
+    "name": "Zaidín",
+    "country": "ES",
+    "lat": 41.60402,
+    "lng": 0.26429
+  },
+  {
+    "name": "Zafrilla",
+    "country": "ES",
+    "lat": 40.2,
+    "lng": -1.61667
+  },
+  {
+    "name": "Zael",
+    "country": "ES",
+    "lat": 42.10587,
+    "lng": -3.82623
+  },
+  {
+    "name": "Zalla",
+    "country": "ES",
+    "lat": 43.23333,
+    "lng": -3.13333
+  },
+  {
+    "name": "Zahesi",
+    "country": "GE",
+    "lat": 41.82458,
+    "lng": 44.75361
+  },
+  {
+    "name": "Zarós",
+    "country": "GR",
+    "lat": 35.1303,
+    "lng": 24.90412
+  },
+  {
+    "name": "Zakynthos",
+    "country": "GR",
+    "lat": 37.78022,
+    "lng": 20.89555
+  },
+  {
+    "name": "Zacháro",
+    "country": "GR",
+    "lat": 37.48333,
+    "lng": 21.65
+  },
+  {
+    "name": "Zagorá",
+    "country": "GR",
+    "lat": 39.45,
+    "lng": 23.1
+  },
+  {
+    "name": "Zagkliveri",
+    "country": "GR",
+    "lat": 40.57146,
+    "lng": 23.28878
+  },
+  {
+    "name": "Zaragoza",
+    "country": "GT",
+    "lat": 14.64968,
+    "lng": -90.89034
+  },
+  {
+    "name": "Zapotitlán",
+    "country": "GT",
+    "lat": 14.13917,
+    "lng": -89.82628
+  },
+  {
+    "name": "Zacualpa",
+    "country": "GT",
+    "lat": 15.02681,
+    "lng": -90.87815
+  },
+  {
+    "name": "Zacapa",
+    "country": "GT",
+    "lat": 14.96867,
+    "lng": -89.52732
+  },
+  {
+    "name": "Zamora",
+    "country": "HN",
+    "lat": 15.63333,
+    "lng": -86.06667
+  },
+  {
+    "name": "Zambrano",
+    "country": "HN",
+    "lat": 14.26667,
+    "lng": -87.4
+  },
+  {
+    "name": "Zaton",
+    "country": "HR",
+    "lat": 42.69083,
+    "lng": 18.03806
+  },
+  {
+    "name": "Zaprešić",
+    "country": "HR",
+    "lat": 45.85639,
+    "lng": 15.80778
+  },
+  {
+    "name": "Zagvozd",
+    "country": "HR",
+    "lat": 43.3975,
+    "lng": 17.05694
+  },
+  {
+    "name": "Zagreb",
+    "country": "HR",
+    "lat": 45.81444,
+    "lng": 15.97798
+  },
+  {
+    "name": "Zadvorsko",
+    "country": "HR",
+    "lat": 45.71978,
+    "lng": 15.9088
+  },
+  {
+    "name": "Zadvarje",
+    "country": "HR",
+    "lat": 43.43139,
+    "lng": 16.88972
+  },
+  {
+    "name": "Zadar",
+    "country": "HR",
+    "lat": 44.11578,
+    "lng": 15.22514
+  },
+  {
+    "name": "Zabok",
+    "country": "HR",
+    "lat": 46.02626,
+    "lng": 15.90391
+  },
+  {
+    "name": "Zagorska Sela",
+    "country": "HR",
+    "lat": 46.09694,
+    "lng": 15.635
+  },
+  {
+    "name": "Zagyvarékas",
+    "country": "HU",
+    "lat": 47.26667,
+    "lng": 20.13333
+  },
+  {
+    "name": "Zamárdi",
+    "country": "HU",
+    "lat": 46.88488,
+    "lng": 17.95366
+  },
+  {
+    "name": "Zalaszentgrót",
+    "country": "HU",
+    "lat": 46.94474,
+    "lng": 17.07925
+  },
+  {
+    "name": "Zalalövő",
+    "country": "HU",
+    "lat": 46.84802,
+    "lng": 16.5875
+  },
+  {
+    "name": "Zalakomár",
+    "country": "HU",
+    "lat": 46.53795,
+    "lng": 17.18094
+  },
+  {
+    "name": "Zalaegerszeg",
+    "country": "HU",
+    "lat": 46.83695,
+    "lng": 16.84401
+  },
+  {
+    "name": "Zagyvaszántó",
+    "country": "HU",
+    "lat": 47.77703,
+    "lng": 19.67092
+  },
+  {
+    "name": "Zalafa",
+    "country": "IL",
+    "lat": 32.54805,
+    "lng": 35.1852
+  },
+  {
+    "name": "Zarzir",
+    "country": "IL",
+    "lat": 32.72754,
+    "lng": 35.21381
+  },
+  {
+    "name": "Zamānia",
+    "country": "IN",
+    "lat": 25.41961,
+    "lng": 83.55786
+  },
+  {
+    "name": "Zaidpur",
+    "country": "IN",
+    "lat": 26.83093,
+    "lng": 81.32929
+  },
+  {
+    "name": "Zahirābād",
+    "country": "IN",
+    "lat": 17.68138,
+    "lng": 77.60743
+  },
+  {
+    "name": "Zafarābād",
+    "country": "IN",
+    "lat": 25.69867,
+    "lng": 82.73354
+  },
+  {
+    "name": "Zawlnuam",
+    "country": "IN",
+    "lat": 24.13466,
+    "lng": 92.33194
+  },
+  {
+    "name": "Zaxo",
+    "country": "IQ",
+    "lat": 37.14871,
+    "lng": 42.68591
+  },
+  {
+    "name": "Zarrīnābād",
+    "country": "IR",
+    "lat": 36.42622,
+    "lng": 48.28158
+  },
+  {
+    "name": "Zarand",
+    "country": "IR",
+    "lat": 30.81271,
+    "lng": 56.56399
+  },
+  {
+    "name": "Zanjan",
+    "country": "IR",
+    "lat": 36.67642,
+    "lng": 48.49628
+  },
+  {
+    "name": "Zarrīn Shahr",
+    "country": "IR",
+    "lat": 32.39057,
+    "lng": 51.37654
+  },
+  {
+    "name": "Zahedan",
+    "country": "IR",
+    "lat": 29.4963,
+    "lng": 60.8629
+  },
+  {
+    "name": "Zambrone",
+    "country": "IT",
+    "lat": 38.69878,
+    "lng": 15.98982
+  },
+  {
+    "name": "Zagarise",
+    "country": "IT",
+    "lat": 38.99985,
+    "lng": 16.6642
+  },
+  {
+    "name": "Zafferana Etnea",
+    "country": "IT",
+    "lat": 37.67895,
+    "lng": 15.10432
+  },
+  {
+    "name": "Zaccanopoli",
+    "country": "IT",
+    "lat": 38.66548,
+    "lng": 15.92874
+  },
+  {
+    "name": "Zavattarello",
+    "country": "IT",
+    "lat": 44.86766,
+    "lng": 9.26662
+  },
+  {
+    "name": "Zapponeta",
+    "country": "IT",
+    "lat": 41.4571,
+    "lng": 15.95615
+  },
+  {
+    "name": "Zanica",
+    "country": "IT",
+    "lat": 45.64088,
+    "lng": 9.68566
+  },
+  {
+    "name": "Zanè",
+    "country": "IT",
+    "lat": 45.722,
+    "lng": 11.44932
+  },
+  {
+    "name": "Zandobbio",
+    "country": "IT",
+    "lat": 45.68613,
+    "lng": 9.85785
+  },
+  {
+    "name": "Zambana",
+    "country": "IT",
+    "lat": 46.1517,
+    "lng": 11.09618
+  },
+  {
+    "name": "Zagarolo",
+    "country": "IT",
+    "lat": 41.84159,
+    "lng": 12.8154
+  },
+  {
+    "name": "Zaḩar",
+    "country": "JO",
+    "lat": 32.5667,
+    "lng": 35.77811
+  },
+  {
+    "name": "Zarqa",
+    "country": "JO",
+    "lat": 32.07275,
+    "lng": 36.08796
+  },
+  {
+    "name": "Zama",
+    "country": "JP",
+    "lat": 35.4879,
+    "lng": 139.39101
+  },
+  {
+    "name": "Zaisho",
+    "country": "JP",
+    "lat": 25.83158,
+    "lng": 131.23039
+  },
+  {
+    "name": "Zaysan",
+    "country": "KZ",
+    "lat": 47.46657,
+    "lng": 84.87144
+  },
+  {
+    "name": "Zavodskoy",
+    "country": "KZ",
+    "lat": 52.47031,
+    "lng": 72.01514
+  },
+  {
+    "name": "Zahlé",
+    "country": "LB",
+    "lat": 33.84675,
+    "lng": 35.90203
+  },
+  {
+    "name": "Zarasai",
+    "country": "LT",
+    "lat": 55.73225,
+    "lng": 26.25115
+  },
+  {
+    "name": "Zawīlah",
+    "country": "LY",
+    "lat": 26.16188,
+    "lng": 15.12522
+  },
+  {
+    "name": "Zalţan",
+    "country": "LY",
+    "lat": 32.94699,
+    "lng": 11.86668
+  },
+  {
+    "name": "Zawiya",
+    "country": "LY",
+    "lat": 32.75222,
+    "lng": 12.72778
+  },
+  {
+    "name": "Zayda",
+    "country": "MA",
+    "lat": 32.81921,
+    "lng": -4.96099
+  },
+  {
+    "name": "Zawyat ech Cheïkh",
+    "country": "MA",
+    "lat": 32.64445,
+    "lng": -5.91826
+  },
+  {
+    "name": "Za Bougrine",
+    "country": "MA",
+    "lat": 33.85524,
+    "lng": -4.48813
+  },
+  {
+    "name": "Zaouïa Aït Ishak",
+    "country": "MA",
+    "lat": 32.76181,
+    "lng": -5.72535
+  },
+  {
+    "name": "Zaïo",
+    "country": "MA",
+    "lat": 34.94282,
+    "lng": -2.7329
+  },
+  {
+    "name": "Zagora",
+    "country": "MA",
+    "lat": 30.33241,
+    "lng": -5.8384
+  },
+  {
+    "name": "Zag",
+    "country": "MA",
+    "lat": 28.0221,
+    "lng": -9.29397
+  },
+  {
+    "name": "Zawyat an Nwaçer",
+    "country": "MA",
+    "lat": 33.37981,
+    "lng": -7.61932
+  },
+  {
+    "name": "Zawit Al Bour",
+    "country": "MA",
+    "lat": 30.67478,
+    "lng": -8.17424
+  },
+  {
+    "name": "Zajas",
+    "country": "MK",
+    "lat": 41.60722,
+    "lng": 20.93833
+  },
+  {
+    "name": "Zambla",
+    "country": "ML",
+    "lat": 10.24245,
+    "lng": -6.98682
+  },
+  {
+    "name": "Zamiin Uud",
+    "country": "MN",
+    "lat": 43.7193,
+    "lng": 111.90777
+  },
+  {
+    "name": "Zamachihue",
+    "country": "MX",
+    "lat": 22.50986,
+    "lng": -99.6562
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 19.77097,
+    "lng": -97.55506
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 19.1483,
+    "lng": -99.64405
+  },
+  {
+    "name": "Zapotlán de Juárez",
+    "country": "MX",
+    "lat": 19.97709,
+    "lng": -98.8642
+  },
+  {
+    "name": "Zapotitlán",
+    "country": "MX",
+    "lat": 18.3296,
+    "lng": -97.47399
+  },
+  {
+    "name": "Zapotitlán Palmas",
+    "country": "MX",
+    "lat": 17.88965,
+    "lng": -97.81849
+  },
+  {
+    "name": "Zapotitlán",
+    "country": "MX",
+    "lat": 20.00209,
+    "lng": -97.71385
+  },
+  {
+    "name": "Zapoapan de Cabañas",
+    "country": "MX",
+    "lat": 18.33395,
+    "lng": -95.09725
+  },
+  {
+    "name": "Zapoapan de Amapan",
+    "country": "MX",
+    "lat": 18.23778,
+    "lng": -95.18452
+  },
+  {
+    "name": "Zacualtipán",
+    "country": "MX",
+    "lat": 20.65002,
+    "lng": -98.65628
+  },
+  {
+    "name": "Zacualpan",
+    "country": "MX",
+    "lat": 20.43332,
+    "lng": -98.3483
+  },
+  {
+    "name": "Zacualpan",
+    "country": "MX",
+    "lat": 18.71895,
+    "lng": -99.77605
+  },
+  {
+    "name": "Zacoalpan",
+    "country": "MX",
+    "lat": 16.74491,
+    "lng": -98.28763
+  },
+  {
+    "name": "Zacatlán",
+    "country": "MX",
+    "lat": 19.9355,
+    "lng": -97.96125
+  },
+  {
+    "name": "Zacatla",
+    "country": "MX",
+    "lat": 19.00528,
+    "lng": -97.13437
+  },
+  {
+    "name": "Zacatepec",
+    "country": "MX",
+    "lat": 19.26631,
+    "lng": -97.5328
+  },
+  {
+    "name": "Zacatepec",
+    "country": "MX",
+    "lat": 18.65409,
+    "lng": -99.18981
+  },
+  {
+    "name": "Zacapoaxtla",
+    "country": "MX",
+    "lat": 19.87271,
+    "lng": -97.58899
+  },
+  {
+    "name": "Zacapala",
+    "country": "MX",
+    "lat": 18.59415,
+    "lng": -98.06583
+  },
+  {
+    "name": "Zacamixtle",
+    "country": "MX",
+    "lat": 21.24762,
+    "lng": -97.72155
+  },
+  {
+    "name": "Zacacuautla",
+    "country": "MX",
+    "lat": 20.215,
+    "lng": -98.22887
+  },
+  {
+    "name": "Zautla",
+    "country": "MX",
+    "lat": 19.71475,
+    "lng": -97.67146
+  },
+  {
+    "name": "Zacatepec",
+    "country": "MX",
+    "lat": 17.16005,
+    "lng": -95.91455
+  },
+  {
+    "name": "Zaniza",
+    "country": "MX",
+    "lat": 16.65531,
+    "lng": -97.33785
+  },
+  {
+    "name": "Zacatepec",
+    "country": "MX",
+    "lat": 16.76369,
+    "lng": -97.99028
+  },
+  {
+    "name": "Zacaola",
+    "country": "MX",
+    "lat": 18.88099,
+    "lng": -97.84762
+  },
+  {
+    "name": "Zamora Pico de Oro",
+    "country": "MX",
+    "lat": 16.33205,
+    "lng": -90.7656
+  },
+  {
+    "name": "Zacualpa",
+    "country": "MX",
+    "lat": 15.1682,
+    "lng": -92.62705
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 16.66923,
+    "lng": -97.79322
+  },
+  {
+    "name": "Zapotitlán Lagunas",
+    "country": "MX",
+    "lat": 17.75621,
+    "lng": -98.38958
+  },
+  {
+    "name": "Zarzal",
+    "country": "MX",
+    "lat": 17.01419,
+    "lng": -95.03738
+  },
+  {
+    "name": "Zacatal",
+    "country": "MX",
+    "lat": 16.93982,
+    "lng": -95.20312
+  },
+  {
+    "name": "Zacualtipanito",
+    "country": "MX",
+    "lat": 21.15407,
+    "lng": -98.79997
+  },
+  {
+    "name": "Zacatelco",
+    "country": "MX",
+    "lat": 19.21583,
+    "lng": -98.23972
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 17.00906,
+    "lng": -91.64033
+  },
+  {
+    "name": "Zacatonal de Juárez",
+    "country": "MX",
+    "lat": 17.27097,
+    "lng": -92.79936
+  },
+  {
+    "name": "Zaragoza la Montaña",
+    "country": "MX",
+    "lat": 16.41653,
+    "lng": -92.20512
+  },
+  {
+    "name": "Zacacoyuca",
+    "country": "MX",
+    "lat": 18.25029,
+    "lng": -99.52763
+  },
+  {
+    "name": "Zacalaca",
+    "country": "MX",
+    "lat": 20.0624,
+    "lng": -88.59606
+  },
+  {
+    "name": "Zapoapan",
+    "country": "MX",
+    "lat": 18.84018,
+    "lng": -96.99297
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 17.95783,
+    "lng": -94.64231
+  },
+  {
+    "name": "Zacate Colorado",
+    "country": "MX",
+    "lat": 20.49735,
+    "lng": -97.52416
+  },
+  {
+    "name": "Zamora",
+    "country": "MX",
+    "lat": 18.58101,
+    "lng": -95.48361
+  },
+  {
+    "name": "Zacamulpa",
+    "country": "MX",
+    "lat": 19.35565,
+    "lng": -99.33145
+  },
+  {
+    "name": "Zacamulpa Tlalmimilolpan",
+    "country": "MX",
+    "lat": 19.38934,
+    "lng": -99.44615
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 28.4932,
+    "lng": -100.9223
+  },
+  {
+    "name": "Zapotlanejo",
+    "country": "MX",
+    "lat": 20.62268,
+    "lng": -103.06813
+  },
+  {
+    "name": "Zapotlán del Rey",
+    "country": "MX",
+    "lat": 20.46639,
+    "lng": -102.92611
+  },
+  {
+    "name": "Zapotitlán de Vadillo",
+    "country": "MX",
+    "lat": 19.5493,
+    "lng": -103.81111
+  },
+  {
+    "name": "Zapotitán de Hidalgo",
+    "country": "MX",
+    "lat": 20.3253,
+    "lng": -103.47944
+  },
+  {
+    "name": "Zapotiltic",
+    "country": "MX",
+    "lat": 19.62749,
+    "lng": -103.41752
+  },
+  {
+    "name": "Zapotanito",
+    "country": "MX",
+    "lat": 21.30533,
+    "lng": -104.60899
+  },
+  {
+    "name": "Zapotán",
+    "country": "MX",
+    "lat": 21.08936,
+    "lng": -104.86246
+  },
+  {
+    "name": "Zapopan",
+    "country": "MX",
+    "lat": 20.72111,
+    "lng": -103.38742
+  },
+  {
+    "name": "Zamora",
+    "country": "MX",
+    "lat": 19.9855,
+    "lng": -102.28387
+  },
+  {
+    "name": "Zacualpan",
+    "country": "MX",
+    "lat": 21.24715,
+    "lng": -105.1657
+  },
+  {
+    "name": "Zacualpan",
+    "country": "MX",
+    "lat": 19.36318,
+    "lng": -103.82433
+  },
+  {
+    "name": "Zacualpan",
+    "country": "MX",
+    "lat": 17.08895,
+    "lng": -100.3259
+  },
+  {
+    "name": "Zacoalco de Torres",
+    "country": "MX",
+    "lat": 20.22627,
+    "lng": -103.56981
+  },
+  {
+    "name": "Zacatula",
+    "country": "MX",
+    "lat": 18.00983,
+    "lng": -102.17946
+  },
+  {
+    "name": "Zacatecas",
+    "country": "MX",
+    "lat": 22.76843,
+    "lng": -102.58141
+  },
+  {
+    "name": "Zacapú",
+    "country": "MX",
+    "lat": 19.81396,
+    "lng": -101.79157
+  },
+  {
+    "name": "Zalamea",
+    "country": "MX",
+    "lat": 20.31341,
+    "lng": -102.51004
+  },
+  {
+    "name": "Zapote de Cestao",
+    "country": "MX",
+    "lat": 20.48362,
+    "lng": -101.67596
+  },
+  {
+    "name": "Zapote de Barajas",
+    "country": "MX",
+    "lat": 20.37536,
+    "lng": -101.69964
+  },
+  {
+    "name": "Zapote de Peralta",
+    "country": "MX",
+    "lat": 20.45068,
+    "lng": -101.39481
+  },
+  {
+    "name": "Zapotillo de Mogotes",
+    "country": "MX",
+    "lat": 20.3785,
+    "lng": -101.24795
+  },
+  {
+    "name": "Zacazonapan",
+    "country": "MX",
+    "lat": 19.07317,
+    "lng": -100.25515
+  },
+  {
+    "name": "Zacapuato",
+    "country": "MX",
+    "lat": 18.66867,
+    "lng": -100.60653
+  },
+  {
+    "name": "Zapopan2",
+    "country": "MX",
+    "lat": 20.7167,
+    "lng": -103.4
+  },
+  {
+    "name": "Zamora",
+    "country": "MX",
+    "lat": 29.26158,
+    "lng": -110.88627
+  },
+  {
+    "name": "Zacango",
+    "country": "MX",
+    "lat": 18.95611,
+    "lng": -99.69806
+  },
+  {
+    "name": "Zacualpan de Amilpas",
+    "country": "MX",
+    "lat": 18.78389,
+    "lng": -98.76583
+  },
+  {
+    "name": "Zapotlán",
+    "country": "MX",
+    "lat": 19.54667,
+    "lng": -98.90306
+  },
+  {
+    "name": "Zahuatlán de Morelos (San José)",
+    "country": "MX",
+    "lat": 18.98333,
+    "lng": -97.8675
+  },
+  {
+    "name": "Zacapalco",
+    "country": "MX",
+    "lat": 18.63917,
+    "lng": -98.95944
+  },
+  {
+    "name": "Zapotitlán Tablas",
+    "country": "MX",
+    "lat": 17.42417,
+    "lng": -98.78056
+  },
+  {
+    "name": "Zaragoza",
+    "country": "MX",
+    "lat": 19.31861,
+    "lng": -98.26389
+  },
+  {
+    "name": "Zaragoza (Puerto de Medina)",
+    "country": "MX",
+    "lat": 19.87389,
+    "lng": -100.11778
+  },
+  {
+    "name": "Zangarro (Zangarro Nuevo)",
+    "country": "MX",
+    "lat": 20.85806,
+    "lng": -101.27278
+  },
+  {
+    "name": "Zapuyo",
+    "country": "MX",
+    "lat": 21.35472,
+    "lng": -98.92139
+  },
+  {
+    "name": "Zapote de Palomas",
+    "country": "MX",
+    "lat": 20.58444,
+    "lng": -101.115
+  },
+  {
+    "name": "Zacate Colorado Segundo (Fraternidad)",
+    "country": "MX",
+    "lat": 18.68333,
+    "lng": -95.97111
+  },
+  {
+    "name": "Zacamulpa",
+    "country": "MX",
+    "lat": 20.00583,
+    "lng": -99.25694
+  },
+  {
+    "name": "Zacapechpan",
+    "country": "MX",
+    "lat": 19.05441,
+    "lng": -98.35109
+  },
+  {
+    "name": "Zacapu",
+    "country": "MX",
+    "lat": 19.82189,
+    "lng": -101.78928
+  },
+  {
+    "name": "Zaria",
+    "country": "NG",
+    "lat": 11.11128,
+    "lng": 7.7227
+  },
+  {
+    "name": "Zango",
+    "country": "NG",
+    "lat": 13.05313,
+    "lng": 8.48574
+  },
+  {
+    "name": "Zalanga",
+    "country": "NG",
+    "lat": 10.61432,
+    "lng": 10.17647
+  },
+  {
+    "name": "Zakirai",
+    "country": "NG",
+    "lat": 12.10033,
+    "lng": 8.88524
+  },
+  {
+    "name": "Zaki Biam",
+    "country": "NG",
+    "lat": 7.50671,
+    "lng": 9.6104
+  },
+  {
+    "name": "Zadawa",
+    "country": "NG",
+    "lat": 11.4496,
+    "lng": 10.3672
+  },
+  {
+    "name": "Zandvoort",
+    "country": "NL",
+    "lat": 52.37125,
+    "lng": 4.53306
+  },
+  {
+    "name": "Zandberg",
+    "country": "NL",
+    "lat": 51.57333,
+    "lng": 4.78472
+  },
+  {
+    "name": "Zaltbommel",
+    "country": "NL",
+    "lat": 51.81,
+    "lng": 5.24444
+  },
+  {
+    "name": "Zaanstad",
+    "country": "NL",
+    "lat": 52.45313,
+    "lng": 4.81356
+  },
+  {
+    "name": "Zaandijk",
+    "country": "NL",
+    "lat": 52.47494,
+    "lng": 4.80686
+  },
+  {
+    "name": "Zaandam",
+    "country": "NL",
+    "lat": 52.43854,
+    "lng": 4.82643
+  },
+  {
+    "name": "Zaamslag",
+    "country": "NL",
+    "lat": 51.3125,
+    "lng": 3.9125
+  },
+  {
+    "name": "Zandweg-Oostwaard",
+    "country": "NL",
+    "lat": 52.13638,
+    "lng": 5.05196
+  },
+  {
+    "name": "Zapotillo",
+    "country": "PA",
+    "lat": 8.00719,
+    "lng": -81.50917
+  },
+  {
+    "name": "Zapatero",
+    "country": "PE",
+    "lat": -6.531,
+    "lng": -76.49134
+  },
+  {
+    "name": "Zarumilla",
+    "country": "PE",
+    "lat": -3.50306,
+    "lng": -80.27306
+  },
+  {
+    "name": "Zarraga",
+    "country": "PH",
+    "lat": 10.81972,
+    "lng": 122.60806
+  },
+  {
+    "name": "Zaragoza",
+    "country": "PH",
+    "lat": 16.3871,
+    "lng": 119.9443
+  },
+  {
+    "name": "Zaragoza",
+    "country": "PH",
+    "lat": 15.44903,
+    "lng": 120.79627
+  },
+  {
+    "name": "Zamboanguita",
+    "country": "PH",
+    "lat": 9.1025,
+    "lng": 123.1996
+  },
+  {
+    "name": "Zamboanga",
+    "country": "PH",
+    "lat": 6.91028,
+    "lng": 122.07389
+  },
+  {
+    "name": "Zaida",
+    "country": "PK",
+    "lat": 34.0595,
+    "lng": 72.4669
+  },
+  {
+    "name": "Zahir Pir",
+    "country": "PK",
+    "lat": 28.81284,
+    "lng": 70.52341
+  },
+  {
+    "name": "Zafarwal",
+    "country": "PK",
+    "lat": 32.34464,
+    "lng": 74.8999
+  },
+  {
+    "name": "Zawichost",
+    "country": "PL",
+    "lat": 50.80743,
+    "lng": 21.85408
+  },
+  {
+    "name": "Zatory",
+    "country": "PL",
+    "lat": 52.59929,
+    "lng": 21.18258
+  },
+  {
+    "name": "Zarzecze",
+    "country": "PL",
+    "lat": 50.52767,
+    "lng": 22.19522
+  },
+  {
+    "name": "Zarzecze",
+    "country": "PL",
+    "lat": 49.98633,
+    "lng": 22.53716
+  },
+  {
+    "name": "Zarszyn",
+    "country": "PL",
+    "lat": 49.58178,
+    "lng": 22.01283
+  },
+  {
+    "name": "Zamość",
+    "country": "PL",
+    "lat": 50.72314,
+    "lng": 23.25196
+  },
+  {
+    "name": "Zamch",
+    "country": "PL",
+    "lat": 50.31713,
+    "lng": 23.02786
+  },
+  {
+    "name": "Zambrów",
+    "country": "PL",
+    "lat": 52.9855,
+    "lng": 22.24319
+  },
+  {
+    "name": "Załuski",
+    "country": "PL",
+    "lat": 52.51152,
+    "lng": 20.52864
+  },
+  {
+    "name": "Zaleszany",
+    "country": "PL",
+    "lat": 50.64799,
+    "lng": 21.89069
+  },
+  {
+    "name": "Zalesie Górne",
+    "country": "PL",
+    "lat": 52.02768,
+    "lng": 21.03659
+  },
+  {
+    "name": "Zalesie",
+    "country": "PL",
+    "lat": 52.03743,
+    "lng": 23.3636
+  },
+  {
+    "name": "Zakrzówek",
+    "country": "PL",
+    "lat": 50.95124,
+    "lng": 22.38138
+  },
+  {
+    "name": "Zakrzew",
+    "country": "PL",
+    "lat": 51.44095,
+    "lng": 21.00105
+  },
+  {
+    "name": "Zakrzew",
+    "country": "PL",
+    "lat": 50.89004,
+    "lng": 22.59115
+  },
+  {
+    "name": "Zakroczym",
+    "country": "PL",
+    "lat": 52.43351,
+    "lng": 20.61207
+  },
+  {
+    "name": "Zaklików",
+    "country": "PL",
+    "lat": 50.75769,
+    "lng": 22.10226
+  },
+  {
+    "name": "Zakliczyn",
+    "country": "PL",
+    "lat": 49.85589,
+    "lng": 20.80935
+  },
+  {
+    "name": "Zahutyń",
+    "country": "PL",
+    "lat": 49.52989,
+    "lng": 22.23358
+  },
+  {
+    "name": "Zagórzyce",
+    "country": "PL",
+    "lat": 50.0169,
+    "lng": 21.67517
+  },
+  {
+    "name": "Zagórz",
+    "country": "PL",
+    "lat": 49.51457,
+    "lng": 22.26706
+  },
+  {
+    "name": "Zagnańsk",
+    "country": "PL",
+    "lat": 50.98037,
+    "lng": 20.66314
+  },
+  {
+    "name": "Zabłudów",
+    "country": "PL",
+    "lat": 53.01442,
+    "lng": 23.33831
+  },
+  {
+    "name": "Zabierzów Bocheński",
+    "country": "PL",
+    "lat": 50.06821,
+    "lng": 20.31896
+  },
+  {
+    "name": "Zawoja",
+    "country": "PL",
+    "lat": 49.64396,
+    "lng": 19.54227
+  },
+  {
+    "name": "Zawiercie",
+    "country": "PL",
+    "lat": 50.48766,
+    "lng": 19.41679
+  },
+  {
+    "name": "Zawidz",
+    "country": "PL",
+    "lat": 52.82745,
+    "lng": 19.87367
+  },
+  {
+    "name": "Zawidów",
+    "country": "PL",
+    "lat": 51.02546,
+    "lng": 15.06213
+  },
+  {
+    "name": "Zawadzkie",
+    "country": "PL",
+    "lat": 50.60503,
+    "lng": 18.48467
+  },
+  {
+    "name": "Zator",
+    "country": "PL",
+    "lat": 49.99604,
+    "lng": 19.43799
+  },
+  {
+    "name": "Zarzecze",
+    "country": "PL",
+    "lat": 50.36715,
+    "lng": 19.69591
+  },
+  {
+    "name": "Zarzecze",
+    "country": "PL",
+    "lat": 49.71932,
+    "lng": 19.17526
+  },
+  {
+    "name": "Zapolice",
+    "country": "PL",
+    "lat": 51.54319,
+    "lng": 18.88335
+  },
+  {
+    "name": "Zaniemyśl",
+    "country": "PL",
+    "lat": 52.15561,
+    "lng": 17.16228
+  },
+  {
+    "name": "Zamarski",
+    "country": "PL",
+    "lat": 49.78254,
+    "lng": 18.66972
+  },
+  {
+    "name": "Zalewo",
+    "country": "PL",
+    "lat": 53.84534,
+    "lng": 19.60519
+  },
+  {
+    "name": "Zalas",
+    "country": "PL",
+    "lat": 50.08033,
+    "lng": 19.62132
+  },
+  {
+    "name": "Zakrzów",
+    "country": "PL",
+    "lat": 49.82558,
+    "lng": 19.64973
+  },
+  {
+    "name": "Zakrzewo",
+    "country": "PL",
+    "lat": 53.41186,
+    "lng": 17.15472
+  },
+  {
+    "name": "Zakopane",
+    "country": "PL",
+    "lat": 49.29899,
+    "lng": 19.94885
+  },
+  {
+    "name": "Zagrodno",
+    "country": "PL",
+    "lat": 51.19134,
+    "lng": 15.86533
+  },
+  {
+    "name": "Zagórze",
+    "country": "PL",
+    "lat": 50.09449,
+    "lng": 19.40357
+  },
+  {
+    "name": "Zagórów",
+    "country": "PL",
+    "lat": 52.16835,
+    "lng": 17.89561
+  },
+  {
+    "name": "Zagórnik",
+    "country": "PL",
+    "lat": 49.8371,
+    "lng": 19.37868
+  },
+  {
+    "name": "Zadzim",
+    "country": "PL",
+    "lat": 51.77666,
+    "lng": 18.84928
+  },
+  {
+    "name": "Zabrzeg",
+    "country": "PL",
+    "lat": 49.91619,
+    "lng": 18.94292
+  },
+  {
+    "name": "Zabrze",
+    "country": "PL",
+    "lat": 50.32492,
+    "lng": 18.78576
+  },
+  {
+    "name": "Zaborze",
+    "country": "PL",
+    "lat": 50.02175,
+    "lng": 19.24067
+  },
+  {
+    "name": "Zaborze",
+    "country": "PL",
+    "lat": 49.87279,
+    "lng": 18.8037
+  },
+  {
+    "name": "Zabór",
+    "country": "PL",
+    "lat": 51.95194,
+    "lng": 15.71676
+  },
+  {
+    "name": "Zabłocie",
+    "country": "PL",
+    "lat": 49.90282,
+    "lng": 18.78147
+  },
+  {
+    "name": "Zabierzów",
+    "country": "PL",
+    "lat": 50.11425,
+    "lng": 19.79788
+  },
+  {
+    "name": "Zalesie",
+    "country": "PL",
+    "lat": 50.01226,
+    "lng": 22.53262
+  },
+  {
+    "name": "Zaspa-Młyniec",
+    "country": "PL",
+    "lat": 54.39127,
+    "lng": 18.59848
+  },
+  {
+    "name": "Zaspa-Rozstaje",
+    "country": "PL",
+    "lat": 54.39672,
+    "lng": 18.61299
+  },
+  {
+    "name": "Zakrzów",
+    "country": "PL",
+    "lat": 51.16624,
+    "lng": 17.13688
+  },
+  {
+    "name": "Zacisze",
+    "country": "PL",
+    "lat": 51.12303,
+    "lng": 17.07465
+  },
+  {
+    "name": "Zalesie i Stadion",
+    "country": "PL",
+    "lat": 51.1197,
+    "lng": 17.09194
+  },
+  {
+    "name": "Zaytā",
+    "country": "PS",
+    "lat": 32.3856,
+    "lng": 35.05122
+  },
+  {
+    "name": "Zaytā Jammā‘īn",
+    "country": "PS",
+    "lat": 32.13698,
+    "lng": 35.18595
+  },
+  {
+    "name": "Zawātā",
+    "country": "PS",
+    "lat": 32.24611,
+    "lng": 35.2265
+  },
+  {
+    "name": "Za‘tarah",
+    "country": "PS",
+    "lat": 31.67361,
+    "lng": 35.25662
+  },
+  {
+    "name": "Zambujeira do Mar",
+    "country": "PT",
+    "lat": 37.52799,
+    "lng": -8.78483
+  },
+  {
+    "name": "Zau de Câmpie",
+    "country": "RO",
+    "lat": 46.61382,
+    "lng": 24.1308
+  },
+  {
+    "name": "Zamostea",
+    "country": "RO",
+    "lat": 47.86667,
+    "lng": 26.2
+  },
+  {
+    "name": "Zam",
+    "country": "RO",
+    "lat": 46.0,
+    "lng": 22.45
+  },
+  {
+    "name": "Zalha",
+    "country": "RO",
+    "lat": 47.18333,
+    "lng": 23.53333
+  },
+  {
+    "name": "Zalău",
+    "country": "RO",
+    "lat": 47.2,
+    "lng": 23.05
+  },
+  {
+    "name": "Zagra",
+    "country": "RO",
+    "lat": 47.33333,
+    "lng": 24.28333
+  },
+  {
+    "name": "Zagon",
+    "country": "RO",
+    "lat": 45.76667,
+    "lng": 26.11667
+  },
+  {
+    "name": "Zagavia",
+    "country": "RO",
+    "lat": 47.41911,
+    "lng": 26.8979
+  },
+  {
+    "name": "Zagăr",
+    "country": "RO",
+    "lat": 46.35,
+    "lng": 24.61667
+  },
+  {
+    "name": "Zaječar",
+    "country": "RS",
+    "lat": 43.90358,
+    "lng": 22.26405
+  },
+  {
+    "name": "Zayukovo",
+    "country": "RU",
+    "lat": 43.61611,
+    "lng": 43.33389
+  },
+  {
+    "name": "Zaymishche",
+    "country": "RU",
+    "lat": 52.7264,
+    "lng": 32.2334
+  },
+  {
+    "name": "Zav’yalovo",
+    "country": "RU",
+    "lat": 56.79196,
+    "lng": 53.37612
+  },
+  {
+    "name": "Zavoronezhskoye",
+    "country": "RU",
+    "lat": 52.8801,
+    "lng": 40.5526
+  },
+  {
+    "name": "Zavolzh’ye",
+    "country": "RU",
+    "lat": 56.64051,
+    "lng": 43.39446
+  },
+  {
+    "name": "Zavolzhsk",
+    "country": "RU",
+    "lat": 57.48198,
+    "lng": 42.13821
+  },
+  {
+    "name": "Zavidovo",
+    "country": "RU",
+    "lat": 56.53333,
+    "lng": 36.53333
+  },
+  {
+    "name": "Zavety Il’icha",
+    "country": "RU",
+    "lat": 56.04284,
+    "lng": 37.85153
+  },
+  {
+    "name": "Zavetnoye",
+    "country": "RU",
+    "lat": 47.11894,
+    "lng": 43.88945
+  },
+  {
+    "name": "Zavetnoye",
+    "country": "RU",
+    "lat": 44.7492,
+    "lng": 41.5995
+  },
+  {
+    "name": "Zaterechnyy",
+    "country": "RU",
+    "lat": 44.79306,
+    "lng": 45.20972
+  },
+  {
+    "name": "Zasosna",
+    "country": "RU",
+    "lat": 50.63072,
+    "lng": 38.3965
+  },
+  {
+    "name": "Zasechnoye",
+    "country": "RU",
+    "lat": 53.1092,
+    "lng": 45.07936
+  },
+  {
+    "name": "Zarubino",
+    "country": "RU",
+    "lat": 58.735,
+    "lng": 33.47556
+  },
+  {
+    "name": "Zarechnyy",
+    "country": "RU",
+    "lat": 57.46931,
+    "lng": 42.28431
+  },
+  {
+    "name": "Zarechnyy",
+    "country": "RU",
+    "lat": 53.7306,
+    "lng": 39.59437
+  },
+  {
+    "name": "Zarechnyy",
+    "country": "RU",
+    "lat": 53.20356,
+    "lng": 45.19227
+  },
+  {
+    "name": "Zaraysk",
+    "country": "RU",
+    "lat": 54.76327,
+    "lng": 38.88076
+  },
+  {
+    "name": "Zaprudnya",
+    "country": "RU",
+    "lat": 56.56667,
+    "lng": 37.43333
+  },
+  {
+    "name": "Zapolyarnyy",
+    "country": "RU",
+    "lat": 69.426,
+    "lng": 30.811
+  },
+  {
+    "name": "Zaplavnoye",
+    "country": "RU",
+    "lat": 48.7048,
+    "lng": 45.0229
+  },
+  {
+    "name": "Zapadnaya Dvina",
+    "country": "RU",
+    "lat": 56.25901,
+    "lng": 32.07454
+  },
+  {
+    "name": "Zaokskiy",
+    "country": "RU",
+    "lat": 54.73028,
+    "lng": 37.39729
+  },
+  {
+    "name": "Zandak",
+    "country": "RU",
+    "lat": 43.0571,
+    "lng": 46.45566
+  },
+  {
+    "name": "Zamoskvorech’ye",
+    "country": "RU",
+    "lat": 55.73333,
+    "lng": 37.63333
+  },
+  {
+    "name": "Zamishevo",
+    "country": "RU",
+    "lat": 52.5395,
+    "lng": 32.0129
+  },
+  {
+    "name": "Zalukokoazhe",
+    "country": "RU",
+    "lat": 43.90063,
+    "lng": 43.2143
+  },
+  {
+    "name": "Zalegoshch’",
+    "country": "RU",
+    "lat": 52.89907,
+    "lng": 36.88961
+  },
+  {
+    "name": "Zakharovo",
+    "country": "RU",
+    "lat": 54.36821,
+    "lng": 39.27678
+  },
+  {
+    "name": "Zakan-Yurt",
+    "country": "RU",
+    "lat": 43.26224,
+    "lng": 45.42307
+  },
+  {
+    "name": "Zainsk",
+    "country": "RU",
+    "lat": 55.3195,
+    "lng": 52.06942
+  },
+  {
+    "name": "Zagoryanskiy",
+    "country": "RU",
+    "lat": 55.9325,
+    "lng": 37.95806
+  },
+  {
+    "name": "Zadonsk",
+    "country": "RU",
+    "lat": 52.3904,
+    "lng": 38.9261
+  },
+  {
+    "name": "Zabolotovka",
+    "country": "RU",
+    "lat": 50.27798,
+    "lng": 39.31439
+  },
+  {
+    "name": "Zavetnyy",
+    "country": "RU",
+    "lat": 44.9316,
+    "lng": 41.1373
+  },
+  {
+    "name": "Zaozërsk",
+    "country": "RU",
+    "lat": 69.40135,
+    "lng": 32.44837
+  },
+  {
+    "name": "Zarechnyy",
+    "country": "RU",
+    "lat": 53.13333,
+    "lng": 46.58333
+  },
+  {
+    "name": "Zaykovo",
+    "country": "RU",
+    "lat": 57.5613,
+    "lng": 62.75681
+  },
+  {
+    "name": "Zav’yalovo",
+    "country": "RU",
+    "lat": 52.83817,
+    "lng": 80.91921
+  },
+  {
+    "name": "Zavodouspenskoye",
+    "country": "RU",
+    "lat": 56.86256,
+    "lng": 65.01553
+  },
+  {
+    "name": "Zavodoukovsk",
+    "country": "RU",
+    "lat": 56.50328,
+    "lng": 66.54672
+  },
+  {
+    "name": "Zaural’skiy",
+    "country": "RU",
+    "lat": 54.7855,
+    "lng": 61.2421
+  },
+  {
+    "name": "Zaton",
+    "country": "RU",
+    "lat": 53.29361,
+    "lng": 83.80722
+  },
+  {
+    "name": "Zarinsk",
+    "country": "RU",
+    "lat": 53.70821,
+    "lng": 84.94307
+  },
+  {
+    "name": "Zarechnyy",
+    "country": "RU",
+    "lat": 56.811,
+    "lng": 61.3254
+  },
+  {
+    "name": "Zapolyarnyy",
+    "country": "RU",
+    "lat": 67.49552,
+    "lng": 63.73275
+  },
+  {
+    "name": "Zaozyornyy",
+    "country": "RU",
+    "lat": 55.9618,
+    "lng": 94.707
+  },
+  {
+    "name": "Zalesovo",
+    "country": "RU",
+    "lat": 53.99295,
+    "lng": 84.74432
+  },
+  {
+    "name": "Zavodskoy",
+    "country": "RU",
+    "lat": 43.45916,
+    "lng": 132.28384
+  },
+  {
+    "name": "Zavitinsk",
+    "country": "RU",
+    "lat": 50.11105,
+    "lng": 129.44035
+  },
+  {
+    "name": "Zarubino",
+    "country": "RU",
+    "lat": 42.64524,
+    "lng": 131.06666
+  },
+  {
+    "name": "Zarechnyy",
+    "country": "RU",
+    "lat": 51.84928,
+    "lng": 107.521
+  },
+  {
+    "name": "Zalari",
+    "country": "RU",
+    "lat": 53.55879,
+    "lng": 102.50909
+  },
+  {
+    "name": "Zakamensk",
+    "country": "RU",
+    "lat": 50.37627,
+    "lng": 103.28706
+  },
+  {
+    "name": "Zaigrayevo",
+    "country": "RU",
+    "lat": 51.83257,
+    "lng": 108.26277
+  },
+  {
+    "name": "Zabaykal’sk",
+    "country": "RU",
+    "lat": 49.65137,
+    "lng": 117.32674
+  },
+  {
+    "name": "Zavety Il’icha",
+    "country": "RU",
+    "lat": 49.03484,
+    "lng": 140.25938
+  },
+  {
+    "name": "Zarech’ye",
+    "country": "RU",
+    "lat": 55.68667,
+    "lng": 37.3924
+  },
+  {
+    "name": "Zagor’ye",
+    "country": "RU",
+    "lat": 55.57657,
+    "lng": 37.66709
+  },
+  {
+    "name": "Zarya",
+    "country": "RU",
+    "lat": 52.59696,
+    "lng": 85.1757
+  },
+  {
+    "name": "Zarya",
+    "country": "RU",
+    "lat": 55.75533,
+    "lng": 38.09578
+  },
+  {
+    "name": "Zarech’ye",
+    "country": "RU",
+    "lat": 53.73078,
+    "lng": 35.63246
+  },
+  {
+    "name": "Zagorskie Dali",
+    "country": "RU",
+    "lat": 56.39101,
+    "lng": 37.99201
+  },
+  {
+    "name": "Zainsk",
+    "country": "RU",
+    "lat": 55.28359,
+    "lng": 51.99865
+  },
+  {
+    "name": "Zalinguei",
+    "country": "SD",
+    "lat": 12.90918,
+    "lng": 23.47058
+  },
+  {
+    "name": "Zavrč",
+    "country": "SI",
+    "lat": 46.39048,
+    "lng": 16.05004
+  },
+  {
+    "name": "Zagorje ob Savi",
+    "country": "SI",
+    "lat": 46.13179,
+    "lng": 14.99694
+  },
+  {
+    "name": "Zabukovica",
+    "country": "SI",
+    "lat": 46.21408,
+    "lng": 15.15954
+  },
+  {
+    "name": "Zasip",
+    "country": "SI",
+    "lat": 46.39284,
+    "lng": 14.10869
+  },
+  {
+    "name": "Zaragoza",
+    "country": "SV",
+    "lat": 13.58944,
+    "lng": -89.28889
+  },
+  {
+    "name": "Zacatecoluca",
+    "country": "SV",
+    "lat": 13.50872,
+    "lng": -88.87017
+  },
+  {
+    "name": "Zafarobod",
+    "country": "TJ",
+    "lat": 40.17603,
+    "lng": 68.84679
+  },
+  {
+    "name": "Zaouiet Sousse",
+    "country": "TN",
+    "lat": 35.78553,
+    "lng": 10.62725
+  },
+  {
+    "name": "Zaouiet Kountech",
+    "country": "TN",
+    "lat": 35.63333,
+    "lng": 10.76667
+  },
+  {
+    "name": "Zaouiet Medien",
+    "country": "TN",
+    "lat": 36.76767,
+    "lng": 9.08894
+  },
+  {
+    "name": "Zaouiet Azmour",
+    "country": "TN",
+    "lat": 36.92441,
+    "lng": 11.0078
+  },
+  {
+    "name": "Zaouiat Djedidi",
+    "country": "TN",
+    "lat": 36.64375,
+    "lng": 10.57428
+  },
+  {
+    "name": "Zahānah",
+    "country": "TN",
+    "lat": 37.03959,
+    "lng": 10.03876
+  },
+  {
+    "name": "Zaghouan",
+    "country": "TN",
+    "lat": 36.40291,
+    "lng": 10.14292
+  },
+  {
+    "name": "Zaafrane",
+    "country": "TN",
+    "lat": 33.44269,
+    "lng": 8.92065
+  },
+  {
+    "name": "Zarzis",
+    "country": "TN",
+    "lat": 33.50398,
+    "lng": 11.11215
+  },
+  {
+    "name": "Zarat",
+    "country": "TN",
+    "lat": 33.66655,
+    "lng": 10.34896
+  },
+  {
+    "name": "Zara",
+    "country": "TR",
+    "lat": 39.89778,
+    "lng": 37.75833
+  },
+  {
+    "name": "Zanzibar",
+    "country": "TZ",
+    "lat": -6.16394,
+    "lng": 39.19793
+  },
+  {
+    "name": "Zavodske",
+    "country": "UA",
+    "lat": 48.99888,
+    "lng": 25.85369
+  },
+  {
+    "name": "Zaitseve",
+    "country": "UA",
+    "lat": 48.52675,
+    "lng": 38.07086
+  },
+  {
+    "name": "Zaitseve",
+    "country": "UA",
+    "lat": 48.42905,
+    "lng": 35.6713
+  },
+  {
+    "name": "Zavorychi",
+    "country": "UA",
+    "lat": 50.70587,
+    "lng": 31.14122
+  },
+  {
+    "name": "Zavetnoye",
+    "country": "UA",
+    "lat": 45.32697,
+    "lng": 34.80837
+  },
+  {
+    "name": "Zavetnoye",
+    "country": "UA",
+    "lat": 45.12305,
+    "lng": 36.39965
+  },
+  {
+    "name": "Zavet-Leninskiy",
+    "country": "UA",
+    "lat": 45.86258,
+    "lng": 34.3916
+  },
+  {
+    "name": "Zavallya",
+    "country": "UA",
+    "lat": 48.21674,
+    "lng": 30.01741
+  },
+  {
+    "name": "Zavodivka",
+    "country": "UA",
+    "lat": 47.22533,
+    "lng": 30.81498
+  },
+  {
+    "name": "Zatoka",
+    "country": "UA",
+    "lat": 46.07016,
+    "lng": 30.46265
+  },
+  {
+    "name": "Zatyshshya",
+    "country": "UA",
+    "lat": 47.33497,
+    "lng": 29.87797
+  },
+  {
+    "name": "Zastavna",
+    "country": "UA",
+    "lat": 48.52137,
+    "lng": 25.8426
+  },
+  {
+    "name": "Zarozhany",
+    "country": "UA",
+    "lat": 48.41546,
+    "lng": 26.29894
+  },
+  {
+    "name": "Zarichchia",
+    "country": "UA",
+    "lat": 48.51828,
+    "lng": 24.64681
+  },
+  {
+    "name": "Zarichchia",
+    "country": "UA",
+    "lat": 48.27945,
+    "lng": 22.99365
+  },
+  {
+    "name": "Zarichne",
+    "country": "UA",
+    "lat": 51.8126,
+    "lng": 26.12902
+  },
+  {
+    "name": "Zarechnoye",
+    "country": "UA",
+    "lat": 45.73636,
+    "lng": 34.48345
+  },
+  {
+    "name": "Zarechnoye",
+    "country": "UA",
+    "lat": 44.85048,
+    "lng": 34.26426
+  },
+  {
+    "name": "Zaporizhzhya",
+    "country": "UA",
+    "lat": 47.85167,
+    "lng": 35.11714
+  },
+  {
+    "name": "Zaozyornoye",
+    "country": "UA",
+    "lat": 45.15816,
+    "lng": 33.27866
+  },
+  {
+    "name": "Zamostia",
+    "country": "UA",
+    "lat": 48.35372,
+    "lng": 25.42106
+  },
+  {
+    "name": "Zaliztsi",
+    "country": "UA",
+    "lat": 49.80074,
+    "lng": 25.38387
+  },
+  {
+    "name": "Zaliznyy Port",
+    "country": "UA",
+    "lat": 46.12337,
+    "lng": 32.29892
+  },
+  {
+    "name": "Zaliznychne",
+    "country": "UA",
+    "lat": 47.64855,
+    "lng": 36.16715
+  },
+  {
+    "name": "Zaliznychne",
+    "country": "UA",
+    "lat": 45.74876,
+    "lng": 28.61436
+  },
+  {
+    "name": "Zalesnoye",
+    "country": "UA",
+    "lat": 48.03104,
+    "lng": 38.80934
+  },
+  {
+    "name": "Zalishchyky",
+    "country": "UA",
+    "lat": 48.64098,
+    "lng": 25.7317
+  },
+  {
+    "name": "Zakupne",
+    "country": "UA",
+    "lat": 49.11721,
+    "lng": 26.33256
+  },
+  {
+    "name": "Zahvizdia",
+    "country": "UA",
+    "lat": 48.92266,
+    "lng": 24.66356
+  },
+  {
+    "name": "Zahnitkiv",
+    "country": "UA",
+    "lat": 48.04749,
+    "lng": 28.88694
+  },
+  {
+    "name": "Zachepylivka",
+    "country": "UA",
+    "lat": 49.19743,
+    "lng": 35.24202
+  },
+  {
+    "name": "Zabolotiv",
+    "country": "UA",
+    "lat": 48.467,
+    "lng": 25.28523
+  },
+  {
+    "name": "Zarichne",
+    "country": "UA",
+    "lat": 49.0234,
+    "lng": 37.93161
+  },
+  {
+    "name": "Zarichne",
+    "country": "UA",
+    "lat": 48.73251,
+    "lng": 35.30929
+  },
+  {
+    "name": "Zakharivka",
+    "country": "UA",
+    "lat": 47.33134,
+    "lng": 29.754
+  },
+  {
+    "name": "Zavodske",
+    "country": "UA",
+    "lat": 50.40065,
+    "lng": 33.40118
+  },
+  {
+    "name": "Zalizne",
+    "country": "UA",
+    "lat": 48.37083,
+    "lng": 37.8855
+  },
+  {
+    "name": "Zalesye",
+    "country": "UA",
+    "lat": 44.88687,
+    "lng": 34.10168
+  },
+  {
+    "name": "Zachary",
+    "country": "US",
+    "lat": 30.64852,
+    "lng": -91.1565
+  },
+  {
+    "name": "Zanesville",
+    "country": "US",
+    "lat": 39.94035,
+    "lng": -82.01319
+  },
+  {
+    "name": "Zapata",
+    "country": "US",
+    "lat": 26.90726,
+    "lng": -99.27143
+  },
+  {
+    "name": "Zarbdor Shaharchasi",
+    "country": "UZ",
+    "lat": 40.08083,
+    "lng": 68.16454
+  },
+  {
+    "name": "Zafarobod Shaharchasi",
+    "country": "UZ",
+    "lat": 40.38903,
+    "lng": 67.82169
+  },
+  {
+    "name": "Zafar",
+    "country": "UZ",
+    "lat": 40.98333,
+    "lng": 68.9
+  },
+  {
+    "name": "Zaraza",
+    "country": "VE",
+    "lat": 9.35029,
+    "lng": -65.32452
+  },
+  {
+    "name": "Zarājah",
+    "country": "YE",
+    "lat": 14.86692,
+    "lng": 44.37868
+  },
+  {
+    "name": "Zabīd",
+    "country": "YE",
+    "lat": 14.1951,
+    "lng": 43.31518
+  },
+  {
+    "name": "Zakhim",
+    "country": "YE",
+    "lat": 14.29496,
+    "lng": 44.68504
+  },
+  {
+    "name": "Zastron",
+    "country": "ZA",
+    "lat": -30.30225,
+    "lng": 27.08395
+  },
+  {
+    "name": "Zambezi",
+    "country": "ZM",
+    "lat": -13.54323,
+    "lng": 23.10467
+  }
+]

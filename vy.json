@@ -1,0 +1,518 @@
+[
+  {
+    "name": "Vyanda",
+    "country": "BI",
+    "lat": -4.1024,
+    "lng": 29.606
+  },
+  {
+    "name": "Vysokaye",
+    "country": "BY",
+    "lat": 52.37091,
+    "lng": 23.37083
+  },
+  {
+    "name": "Vyetka",
+    "country": "BY",
+    "lat": 52.55428,
+    "lng": 31.18067
+  },
+  {
+    "name": "Vyaliki Trastsyanets",
+    "country": "BY",
+    "lat": 53.851,
+    "lng": 27.7139
+  },
+  {
+    "name": "Vyalikaya Byerastavitsa",
+    "country": "BY",
+    "lat": 53.19563,
+    "lng": 24.01992
+  },
+  {
+    "name": "Vyšší Brod",
+    "country": "CZ",
+    "lat": 48.61598,
+    "lng": 14.31183
+  },
+  {
+    "name": "Vysoké nad Jizerou",
+    "country": "CZ",
+    "lat": 50.68559,
+    "lng": 15.40152
+  },
+  {
+    "name": "Vysoké Mýto",
+    "country": "CZ",
+    "lat": 49.9532,
+    "lng": 16.16169
+  },
+  {
+    "name": "Vysočany",
+    "country": "CZ",
+    "lat": 50.10938,
+    "lng": 14.51667
+  },
+  {
+    "name": "Vyškov",
+    "country": "CZ",
+    "lat": 49.27747,
+    "lng": 16.99897
+  },
+  {
+    "name": "Vysehrad",
+    "country": "CZ",
+    "lat": 50.06509,
+    "lng": 14.41711
+  },
+  {
+    "name": "Vypīn",
+    "country": "IN",
+    "lat": 9.96667,
+    "lng": 76.25
+  },
+  {
+    "name": "Vyāra",
+    "country": "IN",
+    "lat": 21.11079,
+    "lng": 73.39365
+  },
+  {
+    "name": "Vyyezdnoye",
+    "country": "RU",
+    "lat": 55.38154,
+    "lng": 43.78638
+  },
+  {
+    "name": "Vytegra",
+    "country": "RU",
+    "lat": 61.00636,
+    "lng": 36.44811
+  },
+  {
+    "name": "Vysotskoye",
+    "country": "RU",
+    "lat": 45.025,
+    "lng": 42.90639
+  },
+  {
+    "name": "Vysotsk",
+    "country": "RU",
+    "lat": 60.62534,
+    "lng": 28.56808
+  },
+  {
+    "name": "Vysokovsk",
+    "country": "RU",
+    "lat": 56.31667,
+    "lng": 36.55
+  },
+  {
+    "name": "Vysokinichi",
+    "country": "RU",
+    "lat": 54.90928,
+    "lng": 36.93148
+  },
+  {
+    "name": "Vysokaya Gora",
+    "country": "RU",
+    "lat": 55.90988,
+    "lng": 49.31343
+  },
+  {
+    "name": "Vyshniy Volochëk",
+    "country": "RU",
+    "lat": 57.5888,
+    "lng": 34.56854
+  },
+  {
+    "name": "Vyshneye Dolgoye",
+    "country": "RU",
+    "lat": 52.06302,
+    "lng": 37.40518
+  },
+  {
+    "name": "Vyshkov",
+    "country": "RU",
+    "lat": 52.4764,
+    "lng": 31.6873
+  },
+  {
+    "name": "Vysha",
+    "country": "RU",
+    "lat": 53.84768,
+    "lng": 42.37766
+  },
+  {
+    "name": "Vyselki",
+    "country": "RU",
+    "lat": 45.58058,
+    "lng": 39.65741
+  },
+  {
+    "name": "Vyritsa",
+    "country": "RU",
+    "lat": 59.40778,
+    "lng": 30.34806
+  },
+  {
+    "name": "Vypolzovo",
+    "country": "RU",
+    "lat": 57.87667,
+    "lng": 33.69861
+  },
+  {
+    "name": "Vyl’gort",
+    "country": "RU",
+    "lat": 61.62423,
+    "lng": 50.75724
+  },
+  {
+    "name": "Vyksa",
+    "country": "RU",
+    "lat": 55.32058,
+    "lng": 42.17402
+  },
+  {
+    "name": "Vykhino-Zhulebino",
+    "country": "RU",
+    "lat": 55.70196,
+    "lng": 37.81178
+  },
+  {
+    "name": "Vygonichi",
+    "country": "RU",
+    "lat": 53.09978,
+    "lng": 34.06741
+  },
+  {
+    "name": "Vydropuzhsk",
+    "country": "RU",
+    "lat": 57.3647,
+    "lng": 34.84287
+  },
+  {
+    "name": "Vychegodskiy",
+    "country": "RU",
+    "lat": 61.24702,
+    "lng": 46.89842
+  },
+  {
+    "name": "Vyborg",
+    "country": "RU",
+    "lat": 60.70763,
+    "lng": 28.75283
+  },
+  {
+    "name": "Vybor",
+    "country": "RU",
+    "lat": 57.22716,
+    "lng": 29.1663
+  },
+  {
+    "name": "Vyazovaya",
+    "country": "RU",
+    "lat": 54.905,
+    "lng": 58.35611
+  },
+  {
+    "name": "Vyazniki",
+    "country": "RU",
+    "lat": 56.24227,
+    "lng": 42.14911
+  },
+  {
+    "name": "Vyaz’ma",
+    "country": "RU",
+    "lat": 55.20997,
+    "lng": 34.29695
+  },
+  {
+    "name": "Vyatskiye Polyany",
+    "country": "RU",
+    "lat": 56.22912,
+    "lng": 51.06098
+  },
+  {
+    "name": "Vyartsilya",
+    "country": "RU",
+    "lat": 62.17645,
+    "lng": 30.69296
+  },
+  {
+    "name": "Vyshestebliyevskaya",
+    "country": "RU",
+    "lat": 45.19611,
+    "lng": 37.01806
+  },
+  {
+    "name": "Vysokoye",
+    "country": "RU",
+    "lat": 43.46304,
+    "lng": 39.96701
+  },
+  {
+    "name": "Vysokiy Mys",
+    "country": "RU",
+    "lat": 61.22684,
+    "lng": 72.13662
+  },
+  {
+    "name": "Vysokogornyy",
+    "country": "RU",
+    "lat": 50.09889,
+    "lng": 139.12342
+  },
+  {
+    "name": "Vydrino",
+    "country": "RU",
+    "lat": 51.463,
+    "lng": 104.6425
+  },
+  {
+    "name": "Vyazemskiy",
+    "country": "RU",
+    "lat": 47.53342,
+    "lng": 134.75785
+  },
+  {
+    "name": "Vysokiy",
+    "country": "RU",
+    "lat": 68.13583,
+    "lng": 33.41917
+  },
+  {
+    "name": "Vysoké Tatry",
+    "country": "SK",
+    "lat": 49.13637,
+    "lng": 20.24386
+  },
+  {
+    "name": "Vyšné Ružbachy",
+    "country": "SK",
+    "lat": 49.30387,
+    "lng": 20.56558
+  },
+  {
+    "name": "Vysoká nad Kysucou",
+    "country": "SK",
+    "lat": 49.37852,
+    "lng": 18.54408
+  },
+  {
+    "name": "Vydrany",
+    "country": "SK",
+    "lat": 48.01806,
+    "lng": 17.58588
+  },
+  {
+    "name": "Vysoká pri Morave",
+    "country": "SK",
+    "lat": 48.32944,
+    "lng": 16.91191
+  },
+  {
+    "name": "Vyshchetarasivka",
+    "country": "UA",
+    "lat": 47.57106,
+    "lng": 34.88115
+  },
+  {
+    "name": "Vysokopillya",
+    "country": "UA",
+    "lat": 47.4893,
+    "lng": 33.53056
+  },
+  {
+    "name": "Vysokyi",
+    "country": "UA",
+    "lat": 49.89156,
+    "lng": 36.12175
+  },
+  {
+    "name": "Vyshkovo",
+    "country": "UA",
+    "lat": 48.04885,
+    "lng": 23.41986
+  },
+  {
+    "name": "Vyshhorod",
+    "country": "UA",
+    "lat": 50.58476,
+    "lng": 30.4898
+  },
+  {
+    "name": "Vypasne",
+    "country": "UA",
+    "lat": 46.19092,
+    "lng": 30.25615
+  },
+  {
+    "name": "Vynohradiv",
+    "country": "UA",
+    "lat": 48.14126,
+    "lng": 23.03623
+  },
+  {
+    "name": "Vylok",
+    "country": "UA",
+    "lat": 48.11034,
+    "lng": 22.8389
+  },
+  {
+    "name": "Vylkove",
+    "country": "UA",
+    "lat": 45.40279,
+    "lng": 29.5869
+  },
+  {
+    "name": "Vyhurivshchyna-Troieshchyna",
+    "country": "UA",
+    "lat": 50.51137,
+    "lng": 30.60251
+  },
+  {
+    "name": "Vyhoda",
+    "country": "UA",
+    "lat": 48.93154,
+    "lng": 23.9089
+  },
+  {
+    "name": "Vyhoda",
+    "country": "UA",
+    "lat": 46.61645,
+    "lng": 30.40031
+  },
+  {
+    "name": "Vyzyrka",
+    "country": "UA",
+    "lat": 46.68655,
+    "lng": 30.9991
+  },
+  {
+    "name": "Vyzhnytsya",
+    "country": "UA",
+    "lat": 48.24482,
+    "lng": 25.18112
+  },
+  {
+    "name": "Vyzhenka",
+    "country": "UA",
+    "lat": 48.21091,
+    "lng": 25.18183
+  },
+  {
+    "name": "Vytylivka",
+    "country": "UA",
+    "lat": 48.40452,
+    "lng": 25.80456
+  },
+  {
+    "name": "Vysunsk",
+    "country": "UA",
+    "lat": 47.26105,
+    "lng": 32.82324
+  },
+  {
+    "name": "Vyshneve",
+    "country": "UA",
+    "lat": 50.38913,
+    "lng": 30.3705
+  },
+  {
+    "name": "Vyshneve",
+    "country": "UA",
+    "lat": 48.43691,
+    "lng": 33.91213
+  },
+  {
+    "name": "Vyshneve",
+    "country": "UA",
+    "lat": 45.80661,
+    "lng": 29.77381
+  },
+  {
+    "name": "Vyshnivets",
+    "country": "UA",
+    "lat": 49.90087,
+    "lng": 25.74384
+  },
+  {
+    "name": "Vyshnivchyk",
+    "country": "UA",
+    "lat": 49.23143,
+    "lng": 25.37165
+  },
+  {
+    "name": "Vyshenky",
+    "country": "UA",
+    "lat": 50.2994,
+    "lng": 30.71952
+  },
+  {
+    "name": "Vynohradove",
+    "country": "UA",
+    "lat": 46.36867,
+    "lng": 32.93836
+  },
+  {
+    "name": "Vynohradivka",
+    "country": "UA",
+    "lat": 47.19281,
+    "lng": 32.265
+  },
+  {
+    "name": "Vynohradivka",
+    "country": "UA",
+    "lat": 46.08029,
+    "lng": 29.12035
+  },
+  {
+    "name": "Vynohradivka",
+    "country": "UA",
+    "lat": 45.82822,
+    "lng": 29.38228
+  },
+  {
+    "name": "Vynohradivka",
+    "country": "UA",
+    "lat": 45.67896,
+    "lng": 28.57571
+  },
+  {
+    "name": "Vynohradne",
+    "country": "UA",
+    "lat": 47.22498,
+    "lng": 31.09896
+  },
+  {
+    "name": "Vynohradne",
+    "country": "UA",
+    "lat": 45.80776,
+    "lng": 28.99473
+  },
+  {
+    "name": "Vynohradar",
+    "country": "UA",
+    "lat": 46.67999,
+    "lng": 30.34124
+  },
+  {
+    "name": "Vynohrad",
+    "country": "UA",
+    "lat": 49.23921,
+    "lng": 30.54705
+  },
+  {
+    "name": "Vynnyky",
+    "country": "UA",
+    "lat": 49.81672,
+    "lng": 24.14417
+  },
+  {
+    "name": "Vyshneve",
+    "country": "UA",
+    "lat": 49.99702,
+    "lng": 32.63115
+  }
+]

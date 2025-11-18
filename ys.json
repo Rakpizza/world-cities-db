@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Ysper",
+    "country": "AT",
+    "lat": 48.28865,
+    "lng": 15.06131
+  },
+  {
+    "name": "Yssingeaux",
+    "country": "FR",
+    "lat": 45.14282,
+    "lng": 4.12372
+  },
+  {
+    "name": "Ystrad Mynach",
+    "country": "GB",
+    "lat": 51.64276,
+    "lng": -3.2362
+  },
+  {
+    "name": "Ystradgynlais",
+    "country": "GB",
+    "lat": 51.76667,
+    "lng": -3.76667
+  },
+  {
+    "name": "Ystalyfera",
+    "country": "GB",
+    "lat": 51.76716,
+    "lng": -3.78082
+  },
+  {
+    "name": "Ysselsteyn",
+    "country": "NL",
+    "lat": 51.49,
+    "lng": 5.89722
+  },
+  {
+    "name": "Ystad",
+    "country": "SE",
+    "lat": 55.42966,
+    "lng": 13.82041
+  }
+]

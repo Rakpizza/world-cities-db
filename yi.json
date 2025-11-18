@@ -1,0 +1,578 @@
+[
+  {
+    "name": "Yingpan",
+    "country": "CN",
+    "lat": 26.45,
+    "lng": 99.15
+  },
+  {
+    "name": "Yingjiang",
+    "country": "CN",
+    "lat": 24.71022,
+    "lng": 97.93671
+  },
+  {
+    "name": "Yining",
+    "country": "CN",
+    "lat": 43.97799,
+    "lng": 81.51804
+  },
+  {
+    "name": "Yitang",
+    "country": "CN",
+    "lat": 34.25833,
+    "lng": 117.88889
+  },
+  {
+    "name": "Yingchuan",
+    "country": "CN",
+    "lat": 34.16278,
+    "lng": 113.46389
+  },
+  {
+    "name": "Yizhuang",
+    "country": "CN",
+    "lat": 34.15651,
+    "lng": 117.59367
+  },
+  {
+    "name": "Yi Xian",
+    "country": "CN",
+    "lat": 39.35372,
+    "lng": 115.49601
+  },
+  {
+    "name": "Yizhang Chengguanzhen",
+    "country": "CN",
+    "lat": 25.38323,
+    "lng": 112.97897
+  },
+  {
+    "name": "Yiyang",
+    "country": "CN",
+    "lat": 34.51711,
+    "lng": 112.18713
+  },
+  {
+    "name": "Yitiaoshan",
+    "country": "CN",
+    "lat": 37.1533,
+    "lng": 104.062
+  },
+  {
+    "name": "Yisuhe",
+    "country": "CN",
+    "lat": 27.76544,
+    "lng": 112.92683
+  },
+  {
+    "name": "Yishui",
+    "country": "CN",
+    "lat": 35.78472,
+    "lng": 118.62806
+  },
+  {
+    "name": "Yishi",
+    "country": "CN",
+    "lat": 35.16497,
+    "lng": 110.74598
+  },
+  {
+    "name": "Yishan",
+    "country": "CN",
+    "lat": 34.29944,
+    "lng": 119.25417
+  },
+  {
+    "name": "Yisa",
+    "country": "CN",
+    "lat": 23.33231,
+    "lng": 102.44711
+  },
+  {
+    "name": "Yinying",
+    "country": "CN",
+    "lat": 37.93694,
+    "lng": 113.5575
+  },
+  {
+    "name": "Yinma",
+    "country": "CN",
+    "lat": 36.66083,
+    "lng": 119.4625
+  },
+  {
+    "name": "Yinliu",
+    "country": "CN",
+    "lat": 39.9825,
+    "lng": 117.39639
+  },
+  {
+    "name": "Yining",
+    "country": "CN",
+    "lat": 29.03009,
+    "lng": 114.54001
+  },
+  {
+    "name": "Yingxian",
+    "country": "CN",
+    "lat": 39.55912,
+    "lng": 113.18554
+  },
+  {
+    "name": "Yingtan",
+    "country": "CN",
+    "lat": 28.23333,
+    "lng": 117.0
+  },
+  {
+    "name": "Yingshang Chengguanzhen",
+    "country": "CN",
+    "lat": 32.62945,
+    "lng": 116.27013
+  },
+  {
+    "name": "Yinggen",
+    "country": "CN",
+    "lat": 19.03833,
+    "lng": 109.84
+  },
+  {
+    "name": "Yingdu",
+    "country": "CN",
+    "lat": 24.97167,
+    "lng": 118.24417
+  },
+  {
+    "name": "Yingcheng",
+    "country": "CN",
+    "lat": 24.16588,
+    "lng": 113.41267
+  },
+  {
+    "name": "Yinchuan",
+    "country": "CN",
+    "lat": 38.46806,
+    "lng": 106.27306
+  },
+  {
+    "name": "Yima",
+    "country": "CN",
+    "lat": 34.73806,
+    "lng": 111.88389
+  },
+  {
+    "name": "Yijing",
+    "country": "CN",
+    "lat": 37.83556,
+    "lng": 113.60194
+  },
+  {
+    "name": "Yiyang",
+    "country": "CN",
+    "lat": 28.39096,
+    "lng": 117.43976
+  },
+  {
+    "name": "Yigou",
+    "country": "CN",
+    "lat": 35.81139,
+    "lng": 114.31667
+  },
+  {
+    "name": "Yichun",
+    "country": "CN",
+    "lat": 27.83333,
+    "lng": 114.4
+  },
+  {
+    "name": "Yichuan",
+    "country": "CN",
+    "lat": 34.42004,
+    "lng": 112.42594
+  },
+  {
+    "name": "Yicheng",
+    "country": "CN",
+    "lat": 31.70472,
+    "lng": 112.25611
+  },
+  {
+    "name": "Yixing",
+    "country": "CN",
+    "lat": 31.36059,
+    "lng": 119.82016
+  },
+  {
+    "name": "Yichang",
+    "country": "CN",
+    "lat": 30.71444,
+    "lng": 111.28472
+  },
+  {
+    "name": "Yibin",
+    "country": "CN",
+    "lat": 28.7593,
+    "lng": 104.63994
+  },
+  {
+    "name": "Yinzhu",
+    "country": "CN",
+    "lat": 35.87861,
+    "lng": 119.97528
+  },
+  {
+    "name": "Yilong",
+    "country": "CN",
+    "lat": 23.69137,
+    "lng": 102.48701
+  },
+  {
+    "name": "Yizhou",
+    "country": "CN",
+    "lat": 24.5,
+    "lng": 108.66667
+  },
+  {
+    "name": "Yixing",
+    "country": "CN",
+    "lat": 37.3376,
+    "lng": 113.53926
+  },
+  {
+    "name": "Yiwu",
+    "country": "CN",
+    "lat": 29.31506,
+    "lng": 120.07676
+  },
+  {
+    "name": "Yiyang",
+    "country": "CN",
+    "lat": 26.38893,
+    "lng": 112.37925
+  },
+  {
+    "name": "Yinglin",
+    "country": "CN",
+    "lat": 24.63222,
+    "lng": 118.58056
+  },
+  {
+    "name": "Yitong",
+    "country": "CN",
+    "lat": 43.33966,
+    "lng": 125.29815
+  },
+  {
+    "name": "Yingshouyingzi",
+    "country": "CN",
+    "lat": 40.54842,
+    "lng": 117.65393
+  },
+  {
+    "name": "Yingkou",
+    "country": "CN",
+    "lat": 40.66472,
+    "lng": 122.23176
+  },
+  {
+    "name": "Yilan",
+    "country": "CN",
+    "lat": 46.3223,
+    "lng": 129.56081
+  },
+  {
+    "name": "Yichun",
+    "country": "CN",
+    "lat": 47.72143,
+    "lng": 128.87529
+  },
+  {
+    "name": "Yi’an",
+    "country": "CN",
+    "lat": 47.89116,
+    "lng": 125.2996
+  },
+  {
+    "name": "Yijiang",
+    "country": "CN",
+    "lat": 31.31546,
+    "lng": 118.36053
+  },
+  {
+    "name": "Yiwa",
+    "country": "CN",
+    "lat": 34.13744,
+    "lng": 103.16894
+  },
+  {
+    "name": "Yinxingshu",
+    "country": "CN",
+    "lat": 33.80497,
+    "lng": 106.03793
+  },
+  {
+    "name": "Yihe",
+    "country": "CN",
+    "lat": 31.15734,
+    "lng": 108.08256
+  },
+  {
+    "name": "Yinping",
+    "country": "CN",
+    "lat": 30.54197,
+    "lng": 107.57518
+  },
+  {
+    "name": "Yiju",
+    "country": "CN",
+    "lat": 28.87656,
+    "lng": 108.5911
+  },
+  {
+    "name": "Yihe",
+    "country": "CN",
+    "lat": 29.73734,
+    "lng": 107.21918
+  },
+  {
+    "name": "Yinla",
+    "country": "CN",
+    "lat": 29.5773,
+    "lng": 94.48301
+  },
+  {
+    "name": "Ying’awati",
+    "country": "CN",
+    "lat": 37.29875,
+    "lng": 79.83031
+  },
+  {
+    "name": "Yingwusitangcun",
+    "country": "CN",
+    "lat": 38.17883,
+    "lng": 85.41506
+  },
+  {
+    "name": "Yinqiao Zhen",
+    "country": "CN",
+    "lat": 25.75429,
+    "lng": 100.12346
+  },
+  {
+    "name": "Yinhai",
+    "country": "CN",
+    "lat": 21.4513,
+    "lng": 109.13571
+  },
+  {
+    "name": "Yingqiu",
+    "country": "CN",
+    "lat": 36.52663,
+    "lng": 118.99285
+  },
+  {
+    "name": "Yishan",
+    "country": "CN",
+    "lat": 36.22107,
+    "lng": 118.69663
+  },
+  {
+    "name": "Yidu",
+    "country": "CN",
+    "lat": 36.77121,
+    "lng": 118.42454
+  },
+  {
+    "name": "Yingli",
+    "country": "CN",
+    "lat": 37.065,
+    "lng": 118.81029
+  },
+  {
+    "name": "Yintai",
+    "country": "CN",
+    "lat": 35.11524,
+    "lng": 109.09702
+  },
+  {
+    "name": "Yigai'erqi",
+    "country": "CN",
+    "lat": 38.34075,
+    "lng": 77.46915
+  },
+  {
+    "name": "Yingwusitang",
+    "country": "CN",
+    "lat": 38.31368,
+    "lng": 77.22775
+  },
+  {
+    "name": "Yishikuli",
+    "country": "CN",
+    "lat": 38.48889,
+    "lng": 77.20145
+  },
+  {
+    "name": "Ying'airike",
+    "country": "CN",
+    "lat": 37.25468,
+    "lng": 79.90014
+  },
+  {
+    "name": "Yisilamu'awati",
+    "country": "CN",
+    "lat": 37.58491,
+    "lng": 80.18401
+  },
+  {
+    "name": "Yingye'er",
+    "country": "CN",
+    "lat": 37.37312,
+    "lng": 79.77745
+  },
+  {
+    "name": "Yiwu",
+    "country": "CN",
+    "lat": 43.24968,
+    "lng": 94.68801
+  },
+  {
+    "name": "Yizhou",
+    "country": "CN",
+    "lat": 42.82352,
+    "lng": 93.51632
+  },
+  {
+    "name": "Yingbazha",
+    "country": "CN",
+    "lat": 41.16454,
+    "lng": 80.26327
+  },
+  {
+    "name": "Yindu",
+    "country": "CN",
+    "lat": 36.11205,
+    "lng": 114.30332
+  },
+  {
+    "name": "Yirga Ch’efē",
+    "country": "ET",
+    "lat": 6.16667,
+    "lng": 38.2
+  },
+  {
+    "name": "Yirga ‘Alem",
+    "country": "ET",
+    "lat": 6.75,
+    "lng": 38.41667
+  },
+  {
+    "name": "Yimnón",
+    "country": "GR",
+    "lat": 38.44048,
+    "lng": 23.884
+  },
+  {
+    "name": "Yigo Village",
+    "country": "GU",
+    "lat": 13.53605,
+    "lng": 144.88855
+  },
+  {
+    "name": "Yiu Tung Estate",
+    "country": "HK",
+    "lat": 22.27849,
+    "lng": 114.22299
+  },
+  {
+    "name": "Yirkā",
+    "country": "IL",
+    "lat": 32.95435,
+    "lng": 35.21197
+  },
+  {
+    "name": "Yinnon",
+    "country": "IL",
+    "lat": 31.74199,
+    "lng": 34.78229
+  },
+  {
+    "name": "Yif‘at",
+    "country": "IL",
+    "lat": 32.6775,
+    "lng": 35.22333
+  },
+  {
+    "name": "Yingkiong",
+    "country": "IN",
+    "lat": 28.61037,
+    "lng": 95.04753
+  },
+  {
+    "name": "Yibeljoj",
+    "country": "MX",
+    "lat": 16.9575,
+    "lng": -92.50361
+  },
+  {
+    "name": "Yiẕhar",
+    "country": "PS",
+    "lat": 32.16744,
+    "lng": 35.23875
+  },
+  {
+    "name": "Yio Chu Kang",
+    "country": "SG",
+    "lat": 1.39111,
+    "lng": 103.85139
+  },
+  {
+    "name": "Yishun New Town",
+    "country": "SG",
+    "lat": 1.43333,
+    "lng": 103.83111
+  },
+  {
+    "name": "Yirol",
+    "country": "SS",
+    "lat": 6.5525,
+    "lng": 30.49806
+  },
+  {
+    "name": "Yi-ngo",
+    "country": "TH",
+    "lat": 6.40297,
+    "lng": 101.70625
+  },
+  {
+    "name": "Yiğityolu",
+    "country": "TR",
+    "lat": 35.99563,
+    "lng": 36.26004
+  },
+  {
+    "name": "Yiğitler",
+    "country": "TR",
+    "lat": 39.8675,
+    "lng": 26.61111
+  },
+  {
+    "name": "Yingge",
+    "country": "TW",
+    "lat": 24.95608,
+    "lng": 121.3507
+  },
+  {
+    "name": "Yilan",
+    "country": "TW",
+    "lat": 24.757,
+    "lng": 121.753
+  },
+  {
+    "name": "Yizhivtsi",
+    "country": "UA",
+    "lat": 48.02526,
+    "lng": 25.64626
+  }
+]
