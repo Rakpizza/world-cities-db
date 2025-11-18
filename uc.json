@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Ucuma",
+    "country": "AO",
+    "lat": -12.96121,
+    "lng": 15.05958
+  },
+  {
+    "name": "Ucu Seles",
+    "country": "AO",
+    "lat": -11.41237,
+    "lng": 14.30663
+  },
+  {
+    "name": "Ucacha",
+    "country": "AR",
+    "lat": -33.03175,
+    "lng": -63.50667
+  },
+  {
+    "name": "Uccle",
+    "country": "BE",
+    "lat": 50.80225,
+    "lng": 4.33943
+  },
+  {
+    "name": "Uchoa",
+    "country": "BR",
+    "lat": -20.95278,
+    "lng": -49.17472
+  },
+  {
+    "name": "Ucluelet",
+    "country": "CA",
+    "lat": 48.94153,
+    "lng": -125.54635
+  },
+  {
+    "name": "Uckerath",
+    "country": "DE",
+    "lat": 50.73015,
+    "lng": 7.36921
+  },
+  {
+    "name": "Uchtspringe",
+    "country": "DE",
+    "lat": 52.54011,
+    "lng": 11.59959
+  },
+  {
+    "name": "Uchte",
+    "country": "DE",
+    "lat": 52.49975,
+    "lng": 8.90928
+  },
+  {
+    "name": "Uclés",
+    "country": "ES",
+    "lat": 39.97938,
+    "lng": -2.86143
+  },
+  {
+    "name": "Ucero",
+    "country": "ES",
+    "lat": 41.71685,
+    "lng": -3.05154
+  },
+  {
+    "name": "Uceda",
+    "country": "ES",
+    "lat": 40.83944,
+    "lng": -3.4604
+  },
+  {
+    "name": "Uckange",
+    "country": "FR",
+    "lat": 49.30304,
+    "lng": 6.1492
+  },
+  {
+    "name": "Uchaux",
+    "country": "FR",
+    "lat": 44.21667,
+    "lng": 4.8
+  },
+  {
+    "name": "Uchaud",
+    "country": "FR",
+    "lat": 43.75725,
+    "lng": 4.26948
+  },
+  {
+    "name": "Uckfield",
+    "country": "GB",
+    "lat": 50.96948,
+    "lng": 0.09589
+  },
+  {
+    "name": "Ucria",
+    "country": "IT",
+    "lat": 38.04624,
+    "lng": 14.88087
+  },
+  {
+    "name": "Uchiko",
+    "country": "JP",
+    "lat": 33.54993,
+    "lng": 132.6471
+  },
+  {
+    "name": "Uch-Korgon",
+    "country": "KG",
+    "lat": 40.22881,
+    "lng": 72.05924
+  },
+  {
+    "name": "Ucú",
+    "country": "MX",
+    "lat": 21.03142,
+    "lng": -89.74454
+  },
+  {
+    "name": "Uci",
+    "country": "MX",
+    "lat": 21.12682,
+    "lng": -89.26827
+  },
+  {
+    "name": "Ucum",
+    "country": "MX",
+    "lat": 18.50258,
+    "lng": -88.51836
+  },
+  {
+    "name": "Ucareo",
+    "country": "MX",
+    "lat": 19.8985,
+    "lng": -100.68595
+  },
+  {
+    "name": "Ucuncha",
+    "country": "PE",
+    "lat": -7.13333,
+    "lng": -77.88333
+  },
+  {
+    "name": "Uco",
+    "country": "PE",
+    "lat": -9.18831,
+    "lng": -76.92848
+  },
+  {
+    "name": "Uchiza",
+    "country": "PE",
+    "lat": -8.45917,
+    "lng": -76.46333
+  },
+  {
+    "name": "Uchumayo",
+    "country": "PE",
+    "lat": -16.42508,
+    "lng": -71.67215
+  },
+  {
+    "name": "Uciechów",
+    "country": "PL",
+    "lat": 50.75487,
+    "lng": 16.68175
+  },
+  {
+    "name": "Ucea de Sus",
+    "country": "RO",
+    "lat": 45.75189,
+    "lng": 24.68082
+  },
+  {
+    "name": "Ucea de Jos",
+    "country": "RO",
+    "lat": 45.7841,
+    "lng": 24.67097
+  },
+  {
+    "name": "Uchkulan",
+    "country": "RU",
+    "lat": 43.45705,
+    "lng": 42.09643
+  },
+  {
+    "name": "Uchkeken",
+    "country": "RU",
+    "lat": 43.94508,
+    "lng": 42.51652
+  },
+  {
+    "name": "Uchaly",
+    "country": "RU",
+    "lat": 54.35806,
+    "lng": 59.43611
+  },
+  {
+    "name": "Uchkent",
+    "country": "RU",
+    "lat": 43.11427,
+    "lng": 47.08255
+  },
+  {
+    "name": "Ucgoz",
+    "country": "TR",
+    "lat": 37.64029,
+    "lng": 37.96559
+  },
+  {
+    "name": "Ucon",
+    "country": "US",
+    "lat": 43.5963,
+    "lng": -111.96386
+  },
+  {
+    "name": "UC Irvine",
+    "country": "US",
+    "lat": 33.63967,
+    "lng": -117.84164
+  },
+  {
+    "name": "Uchtepa Qishlog’i",
+    "country": "UZ",
+    "lat": 40.20447,
+    "lng": 67.90396
+  },
+  {
+    "name": "Uchqŭrghon Shahri",
+    "country": "UZ",
+    "lat": 41.11371,
+    "lng": 72.07915
+  },
+  {
+    "name": "Uchko‘prik",
+    "country": "UZ",
+    "lat": 40.54222,
+    "lng": 71.06083
+  },
+  {
+    "name": "Uchkuduk",
+    "country": "UZ",
+    "lat": 41.05,
+    "lng": 62.78333
+  },
+  {
+    "name": "Uchquduq Shahri",
+    "country": "UZ",
+    "lat": 42.15001,
+    "lng": 63.55221
+  }
+]

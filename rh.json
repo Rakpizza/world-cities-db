@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Rhodes",
+    "country": "AU",
+    "lat": -33.82663,
+    "lng": 151.0881
+  },
+  {
+    "name": "Rhisnes",
+    "country": "BE",
+    "lat": 50.50682,
+    "lng": 4.80592
+  },
+  {
+    "name": "Rheinfelden",
+    "country": "CH",
+    "lat": 47.55437,
+    "lng": 7.79403
+  },
+  {
+    "name": "Rheineck",
+    "country": "CH",
+    "lat": 47.4663,
+    "lng": 9.59028
+  },
+  {
+    "name": "Rhäzüns",
+    "country": "CH",
+    "lat": 46.79891,
+    "lng": 9.39764
+  },
+  {
+    "name": "Rhumspringe",
+    "country": "DE",
+    "lat": 51.58333,
+    "lng": 10.3
+  },
+  {
+    "name": "Rhodt unter Rietburg",
+    "country": "DE",
+    "lat": 49.26972,
+    "lng": 8.10778
+  },
+  {
+    "name": "Rhinow",
+    "country": "DE",
+    "lat": 52.75094,
+    "lng": 12.34194
+  },
+  {
+    "name": "Rheurdt",
+    "country": "DE",
+    "lat": 51.46667,
+    "lng": 6.46667
+  },
+  {
+    "name": "Rhens",
+    "country": "DE",
+    "lat": 50.28125,
+    "lng": 7.6175
+  },
+  {
+    "name": "Rheinzabern",
+    "country": "DE",
+    "lat": 49.11806,
+    "lng": 8.27806
+  },
+  {
+    "name": "Rheinsberg",
+    "country": "DE",
+    "lat": 53.09972,
+    "lng": 12.89885
+  },
+  {
+    "name": "Rheinhausen",
+    "country": "DE",
+    "lat": 51.40055,
+    "lng": 6.71187
+  },
+  {
+    "name": "Rheinfelden",
+    "country": "DE",
+    "lat": 47.56013,
+    "lng": 7.78715
+  },
+  {
+    "name": "Rheine",
+    "country": "DE",
+    "lat": 52.28509,
+    "lng": 7.44055
+  },
+  {
+    "name": "Rheinbrohl",
+    "country": "DE",
+    "lat": 50.5,
+    "lng": 7.33333
+  },
+  {
+    "name": "Rheinbreitbach",
+    "country": "DE",
+    "lat": 50.61667,
+    "lng": 7.23333
+  },
+  {
+    "name": "Rheinböllen",
+    "country": "DE",
+    "lat": 50.01127,
+    "lng": 7.67249
+  },
+  {
+    "name": "Rheinberg",
+    "country": "DE",
+    "lat": 51.54649,
+    "lng": 6.59525
+  },
+  {
+    "name": "Rheinbach",
+    "country": "DE",
+    "lat": 50.62562,
+    "lng": 6.94911
+  },
+  {
+    "name": "Rheinau",
+    "country": "DE",
+    "lat": 48.87173,
+    "lng": 8.19133
+  },
+  {
+    "name": "Rheden",
+    "country": "DE",
+    "lat": 52.05784,
+    "lng": 9.78714
+  },
+  {
+    "name": "Rhede",
+    "country": "DE",
+    "lat": 53.0602,
+    "lng": 7.27127
+  },
+  {
+    "name": "Rhede",
+    "country": "DE",
+    "lat": 51.83537,
+    "lng": 6.69602
+  },
+  {
+    "name": "Rheda-Wiedenbrück",
+    "country": "DE",
+    "lat": 51.84967,
+    "lng": 8.30017
+  },
+  {
+    "name": "Rhaunen",
+    "country": "DE",
+    "lat": 49.8638,
+    "lng": 7.34198
+  },
+  {
+    "name": "Rhade",
+    "country": "DE",
+    "lat": 53.32872,
+    "lng": 9.1135
+  },
+  {
+    "name": "Rheinau",
+    "country": "DE",
+    "lat": 48.66602,
+    "lng": 7.93659
+  },
+  {
+    "name": "Rheinstetten",
+    "country": "DE",
+    "lat": 48.9685,
+    "lng": 8.30704
+  },
+  {
+    "name": "Rhinau",
+    "country": "FR",
+    "lat": 48.32017,
+    "lng": 7.70527
+  },
+  {
+    "name": "Rhymney",
+    "country": "GB",
+    "lat": 51.75998,
+    "lng": -3.28553
+  },
+  {
+    "name": "Rhyl",
+    "country": "GB",
+    "lat": 53.31929,
+    "lng": -3.49228
+  },
+  {
+    "name": "Rhuddlan",
+    "country": "GB",
+    "lat": 53.29203,
+    "lng": -3.46996
+  },
+  {
+    "name": "Rhu",
+    "country": "GB",
+    "lat": 56.01667,
+    "lng": -4.76667
+  },
+  {
+    "name": "Rhosneigr",
+    "country": "GB",
+    "lat": 53.23186,
+    "lng": -4.5148
+  },
+  {
+    "name": "Rhosllannerchrugog",
+    "country": "GB",
+    "lat": 53.00974,
+    "lng": -3.05814
+  },
+  {
+    "name": "Rhoose",
+    "country": "GB",
+    "lat": 51.38818,
+    "lng": -3.3543
+  },
+  {
+    "name": "Rhondda",
+    "country": "GB",
+    "lat": 51.65896,
+    "lng": -3.44885
+  },
+  {
+    "name": "Rhayader",
+    "country": "GB",
+    "lat": 52.30154,
+    "lng": -3.51146
+  },
+  {
+    "name": "Rhiwbina",
+    "country": "GB",
+    "lat": 51.52792,
+    "lng": -3.2141
+  },
+  {
+    "name": "Rhythm Garden",
+    "country": "HK",
+    "lat": 22.33617,
+    "lng": 114.20272
+  },
+  {
+    "name": "Rhenok",
+    "country": "IN",
+    "lat": 27.17821,
+    "lng": 88.64675
+  },
+  {
+    "name": "Rho",
+    "country": "IT",
+    "lat": 45.53245,
+    "lng": 9.0402
+  },
+  {
+    "name": "Rhemes-Notre-Dame",
+    "country": "IT",
+    "lat": 45.56965,
+    "lng": 7.1187
+  },
+  {
+    "name": "Rhemes-Saint-Georges",
+    "country": "IT",
+    "lat": 45.65226,
+    "lng": 7.1544
+  },
+  {
+    "name": "Rhoon",
+    "country": "NL",
+    "lat": 51.8575,
+    "lng": 4.42222
+  },
+  {
+    "name": "Rhenen",
+    "country": "NL",
+    "lat": 51.95917,
+    "lng": 5.56806
+  },
+  {
+    "name": "Rheden",
+    "country": "NL",
+    "lat": 52.005,
+    "lng": 6.02917
+  },
+  {
+    "name": "Rhar el Melah",
+    "country": "TN",
+    "lat": 37.16939,
+    "lng": 10.19064
+  },
+  {
+    "name": "Rhennouch",
+    "country": "TN",
+    "lat": 33.94055,
+    "lng": 10.06439
+  },
+  {
+    "name": "Rhodhiss",
+    "country": "US",
+    "lat": 35.77402,
+    "lng": -81.4312
+  },
+  {
+    "name": "Rhome",
+    "country": "US",
+    "lat": 33.05346,
+    "lng": -97.47197
+  },
+  {
+    "name": "Rhinebeck",
+    "country": "US",
+    "lat": 41.92676,
+    "lng": -73.91264
+  },
+  {
+    "name": "Rhawnhurst",
+    "country": "US",
+    "lat": 40.06178,
+    "lng": -75.05573
+  },
+  {
+    "name": "Rheems",
+    "country": "US",
+    "lat": 40.13009,
+    "lng": -76.57052
+  },
+  {
+    "name": "Rhinelander",
+    "country": "US",
+    "lat": 45.63662,
+    "lng": -89.41208
+  },
+  {
+    "name": "Rheenendal",
+    "country": "ZA",
+    "lat": -33.95,
+    "lng": 22.95
+  }
+]

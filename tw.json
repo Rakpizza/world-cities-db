@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Tweng",
+    "country": "AT",
+    "lat": 47.18333,
+    "lng": 13.6
+  },
+  {
+    "name": "Two Wells",
+    "country": "AU",
+    "lat": -34.59327,
+    "lng": 138.51367
+  },
+  {
+    "name": "Two Rocks",
+    "country": "AU",
+    "lat": -31.49985,
+    "lng": 115.58737
+  },
+  {
+    "name": "Tweed Heads",
+    "country": "AU",
+    "lat": -28.17671,
+    "lng": 153.5452
+  },
+  {
+    "name": "Tweed Heads West",
+    "country": "AU",
+    "lat": -28.18736,
+    "lng": 153.52278
+  },
+  {
+    "name": "Tweed Heads South",
+    "country": "AU",
+    "lat": -28.19517,
+    "lng": 153.53964
+  },
+  {
+    "name": "Twin Waters",
+    "country": "AU",
+    "lat": -26.63422,
+    "lng": 153.08114
+  },
+  {
+    "name": "Tweed",
+    "country": "CA",
+    "lat": 44.47512,
+    "lng": -77.31616
+  },
+  {
+    "name": "Twillingate",
+    "country": "CA",
+    "lat": 49.64992,
+    "lng": -54.76486
+  },
+  {
+    "name": "Two Hills",
+    "country": "CA",
+    "lat": 53.71031,
+    "lng": -111.74595
+  },
+  {
+    "name": "Twin Creeks",
+    "country": "CA",
+    "lat": 49.30156,
+    "lng": -122.83236
+  },
+  {
+    "name": "Twistringen",
+    "country": "DE",
+    "lat": 52.79926,
+    "lng": 8.64163
+  },
+  {
+    "name": "Twist",
+    "country": "DE",
+    "lat": 52.63793,
+    "lng": 7.06622
+  },
+  {
+    "name": "Twyford",
+    "country": "GB",
+    "lat": 51.47518,
+    "lng": -0.86037
+  },
+  {
+    "name": "Twickenham",
+    "country": "GB",
+    "lat": 51.44489,
+    "lng": -0.3377
+  },
+  {
+    "name": "Tweedbank",
+    "country": "GB",
+    "lat": 55.60449,
+    "lng": -2.76692
+  },
+  {
+    "name": "Twechar",
+    "country": "GB",
+    "lat": 55.95415,
+    "lng": -4.08219
+  },
+  {
+    "name": "Twifu Praso",
+    "country": "GH",
+    "lat": 5.61411,
+    "lng": -1.5502
+  },
+  {
+    "name": "Twimoraet’ŏ",
+    "country": "KP",
+    "lat": 38.99567,
+    "lng": 125.69026
+  },
+  {
+    "name": "Twante",
+    "country": "MM",
+    "lat": 16.70836,
+    "lng": 95.9336
+  },
+  {
+    "name": "Twon-Brass",
+    "country": "NG",
+    "lat": 4.31231,
+    "lng": 6.24091
+  },
+  {
+    "name": "Twisk",
+    "country": "NL",
+    "lat": 52.74083,
+    "lng": 5.05278
+  },
+  {
+    "name": "Twijzelerheide",
+    "country": "NL",
+    "lat": 53.24015,
+    "lng": 6.04591
+  },
+  {
+    "name": "Twijzel",
+    "country": "NL",
+    "lat": 53.23152,
+    "lng": 6.08952
+  },
+  {
+    "name": "Twello",
+    "country": "NL",
+    "lat": 52.23667,
+    "lng": 6.10278
+  },
+  {
+    "name": "Twekkelerveld",
+    "country": "NL",
+    "lat": 52.23064,
+    "lng": 6.86004
+  },
+  {
+    "name": "Tweede Exloërmond",
+    "country": "NL",
+    "lat": 52.90917,
+    "lng": 6.93333
+  },
+  {
+    "name": "Twizel",
+    "country": "NZ",
+    "lat": -44.25842,
+    "lng": 170.10063
+  },
+  {
+    "name": "Tworóg",
+    "country": "PL",
+    "lat": 50.531,
+    "lng": 18.71572
+  },
+  {
+    "name": "Tworków",
+    "country": "PL",
+    "lat": 50.00559,
+    "lng": 18.23576
+  },
+  {
+    "name": "Twardogóra",
+    "country": "PL",
+    "lat": 51.36487,
+    "lng": 17.46878
+  },
+  {
+    "name": "Twardawa",
+    "country": "PL",
+    "lat": 50.34349,
+    "lng": 17.99097
+  },
+  {
+    "name": "Twin Lakes",
+    "country": "US",
+    "lat": 26.18092,
+    "lng": -80.16005
+  },
+  {
+    "name": "Twin City",
+    "country": "US",
+    "lat": 32.58294,
+    "lng": -82.15512
+  },
+  {
+    "name": "Twin Grove",
+    "country": "US",
+    "lat": 40.49337,
+    "lng": -89.0798
+  },
+  {
+    "name": "Twin Lake",
+    "country": "US",
+    "lat": 43.36279,
+    "lng": -86.16478
+  },
+  {
+    "name": "Two Harbors",
+    "country": "US",
+    "lat": 47.02271,
+    "lng": -91.67073
+  },
+  {
+    "name": "Twin Rivers",
+    "country": "US",
+    "lat": 40.264,
+    "lng": -74.49126
+  },
+  {
+    "name": "Twinsburg",
+    "country": "US",
+    "lat": 41.31256,
+    "lng": -81.44011
+  },
+  {
+    "name": "Twin Lakes",
+    "country": "US",
+    "lat": 42.53113,
+    "lng": -88.24815
+  },
+  {
+    "name": "Two Rivers",
+    "country": "US",
+    "lat": 44.15388,
+    "lng": -87.56925
+  },
+  {
+    "name": "Twain Harte",
+    "country": "US",
+    "lat": 38.03965,
+    "lng": -120.23269
+  },
+  {
+    "name": "Twentynine Palms",
+    "country": "US",
+    "lat": 34.13556,
+    "lng": -116.05417
+  },
+  {
+    "name": "Twin Lakes",
+    "country": "US",
+    "lat": 36.96745,
+    "lng": -121.99802
+  },
+  {
+    "name": "Twin Lakes",
+    "country": "US",
+    "lat": 39.82499,
+    "lng": -105.0047
+  },
+  {
+    "name": "Twin Lakes",
+    "country": "US",
+    "lat": 35.70919,
+    "lng": -108.77481
+  },
+  {
+    "name": "Twin Falls",
+    "country": "US",
+    "lat": 42.56297,
+    "lng": -114.46087
+  },
+  {
+    "name": "Twin Lakes",
+    "country": "US",
+    "lat": 38.24927,
+    "lng": -78.44378
+  },
+  {
+    "name": "Tweespruit",
+    "country": "ZA",
+    "lat": -29.18521,
+    "lng": 27.03189
+  },
+  {
+    "name": "Tweeling",
+    "country": "ZA",
+    "lat": -27.55513,
+    "lng": 28.51609
+  }
+]

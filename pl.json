@@ -1,0 +1,3092 @@
+[
+  {
+    "name": "Plottier",
+    "country": "AR",
+    "lat": -38.96667,
+    "lng": -68.23333
+  },
+  {
+    "name": "Plaza Huincul",
+    "country": "AR",
+    "lat": -38.93012,
+    "lng": -69.20778
+  },
+  {
+    "name": "Plesching",
+    "country": "AT",
+    "lat": 48.32099,
+    "lng": 14.33802
+  },
+  {
+    "name": "Plankenau",
+    "country": "AT",
+    "lat": 47.32673,
+    "lng": 13.19282
+  },
+  {
+    "name": "Plainfeld",
+    "country": "AT",
+    "lat": 47.83333,
+    "lng": 13.18333
+  },
+  {
+    "name": "Plympton",
+    "country": "AU",
+    "lat": -34.962,
+    "lng": 138.55496
+  },
+  {
+    "name": "Plenty",
+    "country": "AU",
+    "lat": -37.66667,
+    "lng": 145.11667
+  },
+  {
+    "name": "Plainland",
+    "country": "AU",
+    "lat": -27.56667,
+    "lng": 152.41667
+  },
+  {
+    "name": "Plumpton",
+    "country": "AU",
+    "lat": -33.75184,
+    "lng": 150.83686
+  },
+  {
+    "name": "Plumpton",
+    "country": "AU",
+    "lat": -37.68701,
+    "lng": 144.69082
+  },
+  {
+    "name": "Plympton Park",
+    "country": "AU",
+    "lat": -34.98071,
+    "lng": 138.54918
+  },
+  {
+    "name": "Plombières",
+    "country": "BE",
+    "lat": 50.73656,
+    "lng": 5.95922
+  },
+  {
+    "name": "Ploegsteert",
+    "country": "BE",
+    "lat": 50.72659,
+    "lng": 2.88019
+  },
+  {
+    "name": "Plancenoit",
+    "country": "BE",
+    "lat": 50.66228,
+    "lng": 4.42835
+  },
+  {
+    "name": "Plainevaux",
+    "country": "BE",
+    "lat": 50.54562,
+    "lng": 5.52329
+  },
+  {
+    "name": "Plovdiv",
+    "country": "BG",
+    "lat": 42.15387,
+    "lng": 24.75001
+  },
+  {
+    "name": "Pliska",
+    "country": "BG",
+    "lat": 43.36667,
+    "lng": 27.11667
+  },
+  {
+    "name": "Pleven",
+    "country": "BG",
+    "lat": 43.41791,
+    "lng": 24.61666
+  },
+  {
+    "name": "Platina",
+    "country": "BR",
+    "lat": -22.63778,
+    "lng": -50.20389
+  },
+  {
+    "name": "Planura",
+    "country": "BR",
+    "lat": -20.13778,
+    "lng": -48.70194
+  },
+  {
+    "name": "Planalto",
+    "country": "BR",
+    "lat": -27.32889,
+    "lng": -53.05861
+  },
+  {
+    "name": "Planalto",
+    "country": "BR",
+    "lat": -21.03444,
+    "lng": -49.92917
+  },
+  {
+    "name": "Planaltina do Paraná",
+    "country": "BR",
+    "lat": -23.02303,
+    "lng": -52.91616
+  },
+  {
+    "name": "Planaltina",
+    "country": "BR",
+    "lat": -15.45278,
+    "lng": -47.61417
+  },
+  {
+    "name": "Plácido de Castro",
+    "country": "BR",
+    "lat": -10.33528,
+    "lng": -67.18556
+  },
+  {
+    "name": "Placas",
+    "country": "BR",
+    "lat": -3.86778,
+    "lng": -54.22
+  },
+  {
+    "name": "Planaltino",
+    "country": "BR",
+    "lat": -13.25889,
+    "lng": -40.36889
+  },
+  {
+    "name": "Planalto",
+    "country": "BR",
+    "lat": -25.71611,
+    "lng": -53.76611
+  },
+  {
+    "name": "Planalto",
+    "country": "BR",
+    "lat": -14.66972,
+    "lng": -40.47111
+  },
+  {
+    "name": "Planalto Alegre",
+    "country": "BR",
+    "lat": -27.07028,
+    "lng": -52.86556
+  },
+  {
+    "name": "Planaltina",
+    "country": "BR",
+    "lat": -15.61791,
+    "lng": -47.64874
+  },
+  {
+    "name": "Planalto da Serra",
+    "country": "BR",
+    "lat": -14.66281,
+    "lng": -54.77561
+  },
+  {
+    "name": "Plano Piloto",
+    "country": "BR",
+    "lat": -15.79411,
+    "lng": -47.8825
+  },
+  {
+    "name": "Plyeshchanitsy",
+    "country": "BY",
+    "lat": 54.4235,
+    "lng": 27.8301
+  },
+  {
+    "name": "Placencia",
+    "country": "BZ",
+    "lat": 16.51419,
+    "lng": -88.36647
+  },
+  {
+    "name": "Plantagenet",
+    "country": "CA",
+    "lat": 45.5326,
+    "lng": -74.99369
+  },
+  {
+    "name": "Plattsville",
+    "country": "CA",
+    "lat": 43.30794,
+    "lng": -80.61618
+  },
+  {
+    "name": "Pleasantside",
+    "country": "CA",
+    "lat": 49.29167,
+    "lng": -122.85
+  },
+  {
+    "name": "Plessisville",
+    "country": "CA",
+    "lat": 46.21856,
+    "lng": -71.76201
+  },
+  {
+    "name": "Plaster Rock",
+    "country": "CA",
+    "lat": 46.90654,
+    "lng": -67.38997
+  },
+  {
+    "name": "Pleasant View",
+    "country": "CA",
+    "lat": 43.78609,
+    "lng": -79.33502
+  },
+  {
+    "name": "Playter Estates-Danforth",
+    "country": "CA",
+    "lat": 43.6797,
+    "lng": -79.35489
+  },
+  {
+    "name": "Plan-les-Ouates",
+    "country": "CH",
+    "lat": 46.16789,
+    "lng": 6.11664
+  },
+  {
+    "name": "Plaffeien",
+    "country": "CH",
+    "lat": 46.74198,
+    "lng": 7.28666
+  },
+  {
+    "name": "Pli Akakro",
+    "country": "CI",
+    "lat": 7.84264,
+    "lng": -5.56297
+  },
+  {
+    "name": "Plibo",
+    "country": "CI",
+    "lat": 7.97728,
+    "lng": -5.40529
+  },
+  {
+    "name": "Pleuro",
+    "country": "CI",
+    "lat": 8.97305,
+    "lng": -5.77152
+  },
+  {
+    "name": "Plahankro",
+    "country": "CI",
+    "lat": 8.00673,
+    "lng": -5.28992
+  },
+  {
+    "name": "Playarrica",
+    "country": "CO",
+    "lat": 4.05694,
+    "lng": -75.41028
+  },
+  {
+    "name": "Planeta Rica",
+    "country": "CO",
+    "lat": 8.4115,
+    "lng": -75.58508
+  },
+  {
+    "name": "Planadas",
+    "country": "CO",
+    "lat": 3.19698,
+    "lng": -75.64506
+  },
+  {
+    "name": "Plato",
+    "country": "CO",
+    "lat": 9.79029,
+    "lng": -74.78244
+  },
+  {
+    "name": "Playa Baracoa",
+    "country": "CU",
+    "lat": 23.04601,
+    "lng": -82.56723
+  },
+  {
+    "name": "Placetas",
+    "country": "CU",
+    "lat": 22.31184,
+    "lng": -79.6544
+  },
+  {
+    "name": "Plaza de la Revolución",
+    "country": "CU",
+    "lat": 23.11936,
+    "lng": -82.39197
+  },
+  {
+    "name": "Plumlov",
+    "country": "CZ",
+    "lat": 49.46614,
+    "lng": 17.01502
+  },
+  {
+    "name": "Plesná",
+    "country": "CZ",
+    "lat": 50.2207,
+    "lng": 12.34669
+  },
+  {
+    "name": "Plavy",
+    "country": "CZ",
+    "lat": 50.70324,
+    "lng": 15.31736
+  },
+  {
+    "name": "Plasy",
+    "country": "CZ",
+    "lat": 49.93449,
+    "lng": 13.39035
+  },
+  {
+    "name": "Plánice",
+    "country": "CZ",
+    "lat": 49.38993,
+    "lng": 13.47106
+  },
+  {
+    "name": "Plaňany",
+    "country": "CZ",
+    "lat": 50.0501,
+    "lng": 15.02944
+  },
+  {
+    "name": "Planá nad Lužnicí",
+    "country": "CZ",
+    "lat": 49.35444,
+    "lng": 14.70147
+  },
+  {
+    "name": "Planá",
+    "country": "CZ",
+    "lat": 49.86816,
+    "lng": 12.74378
+  },
+  {
+    "name": "Pluwig",
+    "country": "DE",
+    "lat": 49.68976,
+    "lng": 6.71239
+  },
+  {
+    "name": "Plüderhausen",
+    "country": "DE",
+    "lat": 48.79875,
+    "lng": 9.59587
+  },
+  {
+    "name": "Plötzky",
+    "country": "DE",
+    "lat": 52.05207,
+    "lng": 11.80202
+  },
+  {
+    "name": "Plötzkau",
+    "country": "DE",
+    "lat": 51.75,
+    "lng": 11.68333
+  },
+  {
+    "name": "Plößberg",
+    "country": "DE",
+    "lat": 49.91977,
+    "lng": 11.86883
+  },
+  {
+    "name": "Plön",
+    "country": "DE",
+    "lat": 54.16202,
+    "lng": 10.42765
+  },
+  {
+    "name": "Plochingen",
+    "country": "DE",
+    "lat": 48.71067,
+    "lng": 9.41949
+  },
+  {
+    "name": "Pliezhausen",
+    "country": "DE",
+    "lat": 48.55934,
+    "lng": 9.20749
+  },
+  {
+    "name": "Pliening",
+    "country": "DE",
+    "lat": 48.19556,
+    "lng": 11.80069
+  },
+  {
+    "name": "Pleystein",
+    "country": "DE",
+    "lat": 49.64907,
+    "lng": 12.40631
+  },
+  {
+    "name": "Plettenberg",
+    "country": "DE",
+    "lat": 51.20949,
+    "lng": 7.87261
+  },
+  {
+    "name": "Plessa",
+    "country": "DE",
+    "lat": 51.46667,
+    "lng": 13.61667
+  },
+  {
+    "name": "Pleiskirchen",
+    "country": "DE",
+    "lat": 48.30713,
+    "lng": 12.59832
+  },
+  {
+    "name": "Pleinfeld",
+    "country": "DE",
+    "lat": 49.10473,
+    "lng": 10.98194
+  },
+  {
+    "name": "Pleidelsheim",
+    "country": "DE",
+    "lat": 48.9592,
+    "lng": 9.20311
+  },
+  {
+    "name": "Plauen",
+    "country": "DE",
+    "lat": 50.4973,
+    "lng": 12.13782
+  },
+  {
+    "name": "Plaue",
+    "country": "DE",
+    "lat": 50.77835,
+    "lng": 10.89969
+  },
+  {
+    "name": "Plau am See",
+    "country": "DE",
+    "lat": 53.45821,
+    "lng": 12.26246
+  },
+  {
+    "name": "Plattling",
+    "country": "DE",
+    "lat": 48.77866,
+    "lng": 12.87509
+  },
+  {
+    "name": "Plattenburg",
+    "country": "DE",
+    "lat": 52.95919,
+    "lng": 12.02951
+  },
+  {
+    "name": "Plate",
+    "country": "DE",
+    "lat": 53.55145,
+    "lng": 11.50927
+  },
+  {
+    "name": "Plankstadt",
+    "country": "DE",
+    "lat": 49.39444,
+    "lng": 8.59611
+  },
+  {
+    "name": "Planegg",
+    "country": "DE",
+    "lat": 48.10672,
+    "lng": 11.42483
+  },
+  {
+    "name": "Plaidt",
+    "country": "DE",
+    "lat": 50.3926,
+    "lng": 7.39251
+  },
+  {
+    "name": "Plänterwald",
+    "country": "DE",
+    "lat": 52.48106,
+    "lng": 13.47276
+  },
+  {
+    "name": "Playa de Oro",
+    "country": "EC",
+    "lat": 0.87582,
+    "lng": -78.79493
+  },
+  {
+    "name": "Playas",
+    "country": "EC",
+    "lat": -2.63199,
+    "lng": -80.38808
+  },
+  {
+    "name": "Playa de San Juan",
+    "country": "ES",
+    "lat": 28.18159,
+    "lng": -16.81689
+  },
+  {
+    "name": "Pliego",
+    "country": "ES",
+    "lat": 37.98946,
+    "lng": -1.50444
+  },
+  {
+    "name": "Playa Blanca",
+    "country": "ES",
+    "lat": 28.86426,
+    "lng": -13.82814
+  },
+  {
+    "name": "Plasenzuela",
+    "country": "ES",
+    "lat": 39.38194,
+    "lng": -6.04786
+  },
+  {
+    "name": "Planes",
+    "country": "ES",
+    "lat": 38.78524,
+    "lng": -0.34271
+  },
+  {
+    "name": "Plou",
+    "country": "ES",
+    "lat": 40.99274,
+    "lng": -0.85441
+  },
+  {
+    "name": "Plentzia",
+    "country": "ES",
+    "lat": 43.4053,
+    "lng": -2.94794
+  },
+  {
+    "name": "Plenas",
+    "country": "ES",
+    "lat": 41.11209,
+    "lng": -0.96442
+  },
+  {
+    "name": "Pleitas",
+    "country": "ES",
+    "lat": 41.71135,
+    "lng": -1.20251
+  },
+  {
+    "name": "Plasencia de Jalón",
+    "country": "ES",
+    "lat": 41.68154,
+    "lng": -1.22996
+  },
+  {
+    "name": "Plasencia",
+    "country": "ES",
+    "lat": 40.03116,
+    "lng": -6.08845
+  },
+  {
+    "name": "Planoles",
+    "country": "ES",
+    "lat": 42.31667,
+    "lng": 2.1
+  },
+  {
+    "name": "Plan",
+    "country": "ES",
+    "lat": 42.58126,
+    "lng": 0.33742
+  },
+  {
+    "name": "Playa del Ingles",
+    "country": "ES",
+    "lat": 27.7567,
+    "lng": -15.5787
+  },
+  {
+    "name": "Playa de las Américas",
+    "country": "ES",
+    "lat": 28.06403,
+    "lng": -16.73012
+  },
+  {
+    "name": "Platja d'Alcúdia",
+    "country": "ES",
+    "lat": 39.83383,
+    "lng": 3.1206
+  },
+  {
+    "name": "Pluzunet",
+    "country": "FR",
+    "lat": 48.64097,
+    "lng": -3.37046
+  },
+  {
+    "name": "Pluvigner",
+    "country": "FR",
+    "lat": 47.77524,
+    "lng": -3.01049
+  },
+  {
+    "name": "Plurien",
+    "country": "FR",
+    "lat": 48.62644,
+    "lng": -2.40383
+  },
+  {
+    "name": "Pluneret",
+    "country": "FR",
+    "lat": 47.67558,
+    "lng": -2.95887
+  },
+  {
+    "name": "Plumieux",
+    "country": "FR",
+    "lat": 48.1031,
+    "lng": -2.58372
+  },
+  {
+    "name": "Plumergat",
+    "country": "FR",
+    "lat": 47.74192,
+    "lng": -2.91751
+  },
+  {
+    "name": "Plumelin",
+    "country": "FR",
+    "lat": 47.86224,
+    "lng": -2.88731
+  },
+  {
+    "name": "Pluméliau",
+    "country": "FR",
+    "lat": 47.95805,
+    "lng": -2.97351
+  },
+  {
+    "name": "Plumelec",
+    "country": "FR",
+    "lat": 47.83797,
+    "lng": -2.64074
+  },
+  {
+    "name": "Plumaugat",
+    "country": "FR",
+    "lat": 48.25538,
+    "lng": -2.23876
+  },
+  {
+    "name": "Pluherlin",
+    "country": "FR",
+    "lat": 47.69645,
+    "lng": -2.36329
+  },
+  {
+    "name": "Pluguffan",
+    "country": "FR",
+    "lat": 47.98044,
+    "lng": -4.17873
+  },
+  {
+    "name": "Pluduno",
+    "country": "FR",
+    "lat": 48.53128,
+    "lng": -2.26832
+  },
+  {
+    "name": "Plozévet",
+    "country": "FR",
+    "lat": 47.98546,
+    "lng": -4.4261
+  },
+  {
+    "name": "Plouzévédé",
+    "country": "FR",
+    "lat": 48.59593,
+    "lng": -4.11223
+  },
+  {
+    "name": "Plouzané",
+    "country": "FR",
+    "lat": 48.38131,
+    "lng": -4.61805
+  },
+  {
+    "name": "Plouvorn",
+    "country": "FR",
+    "lat": 48.57875,
+    "lng": -4.03746
+  },
+  {
+    "name": "Plouvien",
+    "country": "FR",
+    "lat": 48.52956,
+    "lng": -4.45233
+  },
+  {
+    "name": "Plourivo",
+    "country": "FR",
+    "lat": 48.74561,
+    "lng": -3.07112
+  },
+  {
+    "name": "Plourin-lès-Morlaix",
+    "country": "FR",
+    "lat": 48.53333,
+    "lng": -3.78333
+  },
+  {
+    "name": "Plouray",
+    "country": "FR",
+    "lat": 48.14591,
+    "lng": -3.38805
+  },
+  {
+    "name": "Plounévez-Quintin",
+    "country": "FR",
+    "lat": 48.28995,
+    "lng": -3.23134
+  },
+  {
+    "name": "Plounévez-Moëdec",
+    "country": "FR",
+    "lat": 48.55676,
+    "lng": -3.44561
+  },
+  {
+    "name": "Plounévez-Lochrist",
+    "country": "FR",
+    "lat": 48.61734,
+    "lng": -4.21184
+  },
+  {
+    "name": "Plounévézel",
+    "country": "FR",
+    "lat": 48.29422,
+    "lng": -3.59399
+  },
+  {
+    "name": "Plounéventer",
+    "country": "FR",
+    "lat": 48.51392,
+    "lng": -4.21264
+  },
+  {
+    "name": "Plounéour-Trez",
+    "country": "FR",
+    "lat": 48.65066,
+    "lng": -4.31797
+  },
+  {
+    "name": "Plounéour-Ménez",
+    "country": "FR",
+    "lat": 48.43917,
+    "lng": -3.89159
+  },
+  {
+    "name": "Ploumoguer",
+    "country": "FR",
+    "lat": 48.40322,
+    "lng": -4.72305
+  },
+  {
+    "name": "Ploumilliau",
+    "country": "FR",
+    "lat": 48.68046,
+    "lng": -3.52361
+  },
+  {
+    "name": "Ploumagoar",
+    "country": "FR",
+    "lat": 48.54532,
+    "lng": -3.13221
+  },
+  {
+    "name": "Plouisy",
+    "country": "FR",
+    "lat": 48.5787,
+    "lng": -3.18379
+  },
+  {
+    "name": "Plouigneau",
+    "country": "FR",
+    "lat": 48.56726,
+    "lng": -3.70142
+  },
+  {
+    "name": "Plouider",
+    "country": "FR",
+    "lat": 48.60835,
+    "lng": -4.29887
+  },
+  {
+    "name": "Plouhinec",
+    "country": "FR",
+    "lat": 48.01443,
+    "lng": -4.48688
+  },
+  {
+    "name": "Plouharnel",
+    "country": "FR",
+    "lat": 47.59856,
+    "lng": -3.11442
+  },
+  {
+    "name": "Plouha",
+    "country": "FR",
+    "lat": 48.6761,
+    "lng": -2.92795
+  },
+  {
+    "name": "Plouguin",
+    "country": "FR",
+    "lat": 48.52425,
+    "lng": -4.60134
+  },
+  {
+    "name": "Plouguiel",
+    "country": "FR",
+    "lat": 48.79698,
+    "lng": -3.2412
+  },
+  {
+    "name": "Plouguernével",
+    "country": "FR",
+    "lat": 48.24028,
+    "lng": -3.25442
+  },
+  {
+    "name": "Plouguerneau",
+    "country": "FR",
+    "lat": 48.60676,
+    "lng": -4.50638
+  },
+  {
+    "name": "Plouguenast",
+    "country": "FR",
+    "lat": 48.28136,
+    "lng": -2.70464
+  },
+  {
+    "name": "Plougrescant",
+    "country": "FR",
+    "lat": 48.84026,
+    "lng": -3.22886
+  },
+  {
+    "name": "Plougourvest",
+    "country": "FR",
+    "lat": 48.55484,
+    "lng": -4.08609
+  },
+  {
+    "name": "Plougoumelen",
+    "country": "FR",
+    "lat": 47.65175,
+    "lng": -2.91801
+  },
+  {
+    "name": "Plougoulm",
+    "country": "FR",
+    "lat": 48.66401,
+    "lng": -4.04539
+  },
+  {
+    "name": "Plougonven",
+    "country": "FR",
+    "lat": 48.52124,
+    "lng": -3.7129
+  },
+  {
+    "name": "Plougonvelin",
+    "country": "FR",
+    "lat": 48.34059,
+    "lng": -4.71846
+  },
+  {
+    "name": "Plougastel-Daoulas",
+    "country": "FR",
+    "lat": 48.37368,
+    "lng": -4.36978
+  },
+  {
+    "name": "Plougasnou",
+    "country": "FR",
+    "lat": 48.69597,
+    "lng": -3.79179
+  },
+  {
+    "name": "Ploufragan",
+    "country": "FR",
+    "lat": 48.49005,
+    "lng": -2.79605
+  },
+  {
+    "name": "Plouezoc'h",
+    "country": "FR",
+    "lat": 48.63944,
+    "lng": -3.82308
+  },
+  {
+    "name": "Plouézec",
+    "country": "FR",
+    "lat": 48.74894,
+    "lng": -2.98466
+  },
+  {
+    "name": "Plouescat",
+    "country": "FR",
+    "lat": 48.65668,
+    "lng": -4.17471
+  },
+  {
+    "name": "Plouër-sur-Rance",
+    "country": "FR",
+    "lat": 48.5275,
+    "lng": -2.00325
+  },
+  {
+    "name": "Plouénan",
+    "country": "FR",
+    "lat": 48.62844,
+    "lng": -3.9877
+  },
+  {
+    "name": "Plouédern",
+    "country": "FR",
+    "lat": 48.48442,
+    "lng": -4.24551
+  },
+  {
+    "name": "Plouëc-du-Trieux",
+    "country": "FR",
+    "lat": 48.68333,
+    "lng": -3.2
+  },
+  {
+    "name": "Ploudaniel",
+    "country": "FR",
+    "lat": 48.53693,
+    "lng": -4.31146
+  },
+  {
+    "name": "Ploudalmézeau",
+    "country": "FR",
+    "lat": 48.54042,
+    "lng": -4.65792
+  },
+  {
+    "name": "Ploubezre",
+    "country": "FR",
+    "lat": 48.70396,
+    "lng": -3.44849
+  },
+  {
+    "name": "Ploubazlanec",
+    "country": "FR",
+    "lat": 48.80039,
+    "lng": -3.03194
+  },
+  {
+    "name": "Ploubalay",
+    "country": "FR",
+    "lat": 48.58018,
+    "lng": -2.14166
+  },
+  {
+    "name": "Plouay",
+    "country": "FR",
+    "lat": 47.91466,
+    "lng": -3.33482
+  },
+  {
+    "name": "Plouasne",
+    "country": "FR",
+    "lat": 48.30188,
+    "lng": -2.00836
+  },
+  {
+    "name": "Plouarzel",
+    "country": "FR",
+    "lat": 48.43413,
+    "lng": -4.731
+  },
+  {
+    "name": "Plouaret",
+    "country": "FR",
+    "lat": 48.61206,
+    "lng": -3.47262
+  },
+  {
+    "name": "Plouagat",
+    "country": "FR",
+    "lat": 48.53638,
+    "lng": -2.99908
+  },
+  {
+    "name": "Plonévez-du-Faou",
+    "country": "FR",
+    "lat": 48.25333,
+    "lng": -3.8256
+  },
+  {
+    "name": "Plonéour-Lanvern",
+    "country": "FR",
+    "lat": 47.90324,
+    "lng": -4.28346
+  },
+  {
+    "name": "Plonéis",
+    "country": "FR",
+    "lat": 48.01731,
+    "lng": -4.21049
+  },
+  {
+    "name": "Plomodiern",
+    "country": "FR",
+    "lat": 48.18119,
+    "lng": -4.23238
+  },
+  {
+    "name": "Plomeur",
+    "country": "FR",
+    "lat": 47.84025,
+    "lng": -4.28457
+  },
+  {
+    "name": "Plomelin",
+    "country": "FR",
+    "lat": 47.93566,
+    "lng": -4.15336
+  },
+  {
+    "name": "Plombières-lès-Dijon",
+    "country": "FR",
+    "lat": 47.33333,
+    "lng": 4.96667
+  },
+  {
+    "name": "Plombières-les-Bains",
+    "country": "FR",
+    "lat": 47.96337,
+    "lng": 6.45758
+  },
+  {
+    "name": "Plogonnec",
+    "country": "FR",
+    "lat": 48.078,
+    "lng": -4.19488
+  },
+  {
+    "name": "Plogoff",
+    "country": "FR",
+    "lat": 48.037,
+    "lng": -4.66606
+  },
+  {
+    "name": "Plogastel-Saint-Germain",
+    "country": "FR",
+    "lat": 47.98375,
+    "lng": -4.27186
+  },
+  {
+    "name": "Ploëzal",
+    "country": "FR",
+    "lat": 48.7166,
+    "lng": -3.20337
+  },
+  {
+    "name": "Plœuc-sur-Lié",
+    "country": "FR",
+    "lat": 48.35,
+    "lng": -2.75
+  },
+  {
+    "name": "Ploërmel",
+    "country": "FR",
+    "lat": 47.93167,
+    "lng": -2.39746
+  },
+  {
+    "name": "Ploeren",
+    "country": "FR",
+    "lat": 47.65619,
+    "lng": -2.86592
+  },
+  {
+    "name": "Ploërdut",
+    "country": "FR",
+    "lat": 48.08732,
+    "lng": -3.28713
+  },
+  {
+    "name": "Ploemeur",
+    "country": "FR",
+    "lat": 47.73512,
+    "lng": -3.42952
+  },
+  {
+    "name": "Ploemel",
+    "country": "FR",
+    "lat": 47.65169,
+    "lng": -3.07182
+  },
+  {
+    "name": "Plobsheim",
+    "country": "FR",
+    "lat": 48.46979,
+    "lng": 7.72442
+  },
+  {
+    "name": "Plobannalec-Lesconil",
+    "country": "FR",
+    "lat": 47.81667,
+    "lng": -4.21667
+  },
+  {
+    "name": "Pleyber-Christ",
+    "country": "FR",
+    "lat": 48.50491,
+    "lng": -3.87556
+  },
+  {
+    "name": "Pleyben",
+    "country": "FR",
+    "lat": 48.22598,
+    "lng": -3.96972
+  },
+  {
+    "name": "Pleuven",
+    "country": "FR",
+    "lat": 47.90606,
+    "lng": -4.04384
+  },
+  {
+    "name": "Pleurtuit",
+    "country": "FR",
+    "lat": 48.57939,
+    "lng": -2.05984
+  },
+  {
+    "name": "Pleumeur-Gautier",
+    "country": "FR",
+    "lat": 48.80234,
+    "lng": -3.15737
+  },
+  {
+    "name": "Pleumeur-Bodou",
+    "country": "FR",
+    "lat": 48.77309,
+    "lng": -3.51735
+  },
+  {
+    "name": "Pleumeleuc",
+    "country": "FR",
+    "lat": 48.18449,
+    "lng": -1.91922
+  },
+  {
+    "name": "Pleumartin",
+    "country": "FR",
+    "lat": 46.73754,
+    "lng": 0.76592
+  },
+  {
+    "name": "Pleugueneuc",
+    "country": "FR",
+    "lat": 48.39755,
+    "lng": -1.90328
+  },
+  {
+    "name": "Pleugriffet",
+    "country": "FR",
+    "lat": 47.98705,
+    "lng": -2.68538
+  },
+  {
+    "name": "Pleudihen-sur-Rance",
+    "country": "FR",
+    "lat": 48.51667,
+    "lng": -1.96667
+  },
+  {
+    "name": "Pleudaniel",
+    "country": "FR",
+    "lat": 48.76825,
+    "lng": -3.14187
+  },
+  {
+    "name": "Pleucadeuc",
+    "country": "FR",
+    "lat": 47.7588,
+    "lng": -2.37563
+  },
+  {
+    "name": "Pleubian",
+    "country": "FR",
+    "lat": 48.84219,
+    "lng": -3.13935
+  },
+  {
+    "name": "Plestin-les-Grèves",
+    "country": "FR",
+    "lat": 48.65783,
+    "lng": -3.63071
+  },
+  {
+    "name": "Plestan",
+    "country": "FR",
+    "lat": 48.42391,
+    "lng": -2.44753
+  },
+  {
+    "name": "Plessé",
+    "country": "FR",
+    "lat": 47.54178,
+    "lng": -1.88725
+  },
+  {
+    "name": "Plessala",
+    "country": "FR",
+    "lat": 48.27642,
+    "lng": -2.61876
+  },
+  {
+    "name": "Pleslin-Trigavou",
+    "country": "FR",
+    "lat": 48.53333,
+    "lng": -2.06667
+  },
+  {
+    "name": "Plescop",
+    "country": "FR",
+    "lat": 47.69803,
+    "lng": -2.80633
+  },
+  {
+    "name": "Plérin",
+    "country": "FR",
+    "lat": 48.53451,
+    "lng": -2.76975
+  },
+  {
+    "name": "Plerguer",
+    "country": "FR",
+    "lat": 48.5269,
+    "lng": -1.84862
+  },
+  {
+    "name": "Pléneuf-Val-André",
+    "country": "FR",
+    "lat": 48.59111,
+    "lng": -2.54846
+  },
+  {
+    "name": "Plénée-Jugon",
+    "country": "FR",
+    "lat": 48.36451,
+    "lng": -2.40015
+  },
+  {
+    "name": "Plémy",
+    "country": "FR",
+    "lat": 48.33595,
+    "lng": -2.6822
+  },
+  {
+    "name": "Plémet",
+    "country": "FR",
+    "lat": 48.17713,
+    "lng": -2.59433
+  },
+  {
+    "name": "Plélo",
+    "country": "FR",
+    "lat": 48.55605,
+    "lng": -2.94732
+  },
+  {
+    "name": "Plélan-le-Petit",
+    "country": "FR",
+    "lat": 48.43421,
+    "lng": -2.21907
+  },
+  {
+    "name": "Plélan-le-Grand",
+    "country": "FR",
+    "lat": 48.00186,
+    "lng": -2.09935
+  },
+  {
+    "name": "Pleine-Fougères",
+    "country": "FR",
+    "lat": 48.53406,
+    "lng": -1.56375
+  },
+  {
+    "name": "Pléhédel",
+    "country": "FR",
+    "lat": 48.69645,
+    "lng": -3.00859
+  },
+  {
+    "name": "Pléguien",
+    "country": "FR",
+    "lat": 48.63507,
+    "lng": -2.93968
+  },
+  {
+    "name": "Plédran",
+    "country": "FR",
+    "lat": 48.44561,
+    "lng": -2.7461
+  },
+  {
+    "name": "Plédéliac",
+    "country": "FR",
+    "lat": 48.44962,
+    "lng": -2.38861
+  },
+  {
+    "name": "Pléchâtel",
+    "country": "FR",
+    "lat": 47.89492,
+    "lng": -1.74878
+  },
+  {
+    "name": "Pleaux",
+    "country": "FR",
+    "lat": 45.13479,
+    "lng": 2.22652
+  },
+  {
+    "name": "Plauzat",
+    "country": "FR",
+    "lat": 45.62157,
+    "lng": 3.14896
+  },
+  {
+    "name": "Plaudren",
+    "country": "FR",
+    "lat": 47.77929,
+    "lng": -2.69359
+  },
+  {
+    "name": "Plappeville",
+    "country": "FR",
+    "lat": 49.13019,
+    "lng": 6.12471
+  },
+  {
+    "name": "Planguenoual",
+    "country": "FR",
+    "lat": 48.533,
+    "lng": -2.57642
+  },
+  {
+    "name": "Plan-de-Cuques",
+    "country": "FR",
+    "lat": 43.34753,
+    "lng": 5.46398
+  },
+  {
+    "name": "Plan-d'Aups-Sainte-Baume",
+    "country": "FR",
+    "lat": 43.33333,
+    "lng": 5.71667
+  },
+  {
+    "name": "Plancoët",
+    "country": "FR",
+    "lat": 48.5232,
+    "lng": -2.23427
+  },
+  {
+    "name": "Plancher-les-Mines",
+    "country": "FR",
+    "lat": 47.7615,
+    "lng": 6.74308
+  },
+  {
+    "name": "Plancher-Bas",
+    "country": "FR",
+    "lat": 47.71977,
+    "lng": 6.73041
+  },
+  {
+    "name": "Plaisir",
+    "country": "FR",
+    "lat": 48.82319,
+    "lng": 1.9541
+  },
+  {
+    "name": "Plaisance-du-Touch",
+    "country": "FR",
+    "lat": 43.56554,
+    "lng": 1.29645
+  },
+  {
+    "name": "Plaisance",
+    "country": "FR",
+    "lat": 43.60562,
+    "lng": 0.04589
+  },
+  {
+    "name": "Plaintel",
+    "country": "FR",
+    "lat": 48.40754,
+    "lng": -2.8179
+  },
+  {
+    "name": "Plainfaing",
+    "country": "FR",
+    "lat": 48.17284,
+    "lng": 7.01539
+  },
+  {
+    "name": "Plaine-Haute",
+    "country": "FR",
+    "lat": 48.44524,
+    "lng": -2.855
+  },
+  {
+    "name": "Plaimpied-Givaudins",
+    "country": "FR",
+    "lat": 46.998,
+    "lng": 2.45428
+  },
+  {
+    "name": "Plailly",
+    "country": "FR",
+    "lat": 49.10288,
+    "lng": 2.58549
+  },
+  {
+    "name": "Plabennec",
+    "country": "FR",
+    "lat": 48.50234,
+    "lng": -4.42615
+  },
+  {
+    "name": "Plaine 2",
+    "country": "FR",
+    "lat": 48.91543,
+    "lng": 2.36405
+  },
+  {
+    "name": "Pleyel",
+    "country": "FR",
+    "lat": 48.91964,
+    "lng": 2.34327
+  },
+  {
+    "name": "Plaine 3",
+    "country": "FR",
+    "lat": 48.90523,
+    "lng": 2.36312
+  },
+  {
+    "name": "Plaine 1",
+    "country": "FR",
+    "lat": 48.91981,
+    "lng": 2.35339
+  },
+  {
+    "name": "Plaine 4",
+    "country": "FR",
+    "lat": 48.92156,
+    "lng": 2.36477
+  },
+  {
+    "name": "Plymstock",
+    "country": "GB",
+    "lat": 50.35999,
+    "lng": -4.09049
+  },
+  {
+    "name": "Plympton",
+    "country": "GB",
+    "lat": 50.39074,
+    "lng": -4.06022
+  },
+  {
+    "name": "Plymouth",
+    "country": "GB",
+    "lat": 50.37153,
+    "lng": -4.14305
+  },
+  {
+    "name": "Plumstead",
+    "country": "GB",
+    "lat": 51.48333,
+    "lng": 0.08333
+  },
+  {
+    "name": "Plumpton Green",
+    "country": "GB",
+    "lat": 50.9342,
+    "lng": -0.0612
+  },
+  {
+    "name": "Plean",
+    "country": "GB",
+    "lat": 56.06516,
+    "lng": -3.87596
+  },
+  {
+    "name": "Plains",
+    "country": "GB",
+    "lat": 55.88044,
+    "lng": -3.92349
+  },
+  {
+    "name": "Plomári",
+    "country": "GR",
+    "lat": 38.97527,
+    "lng": 26.37137
+  },
+  {
+    "name": "Platýkampos",
+    "country": "GR",
+    "lat": 39.61667,
+    "lng": 22.53333
+  },
+  {
+    "name": "Platariá",
+    "country": "GR",
+    "lat": 39.45044,
+    "lng": 20.27781
+  },
+  {
+    "name": "Plátanos",
+    "country": "GR",
+    "lat": 37.66731,
+    "lng": 21.61108
+  },
+  {
+    "name": "Plagiári",
+    "country": "GR",
+    "lat": 40.47276,
+    "lng": 22.9579
+  },
+  {
+    "name": "Platý",
+    "country": "GR",
+    "lat": 40.64241,
+    "lng": 22.53458
+  },
+  {
+    "name": "Platanórevma",
+    "country": "GR",
+    "lat": 40.20083,
+    "lng": 22.02488
+  },
+  {
+    "name": "Pláka Dílesi",
+    "country": "GR",
+    "lat": 38.3495,
+    "lng": 23.65056
+  },
+  {
+    "name": "Playa Grande",
+    "country": "GT",
+    "lat": 15.9855,
+    "lng": -90.77292
+  },
+  {
+    "name": "Ploče",
+    "country": "HR",
+    "lat": 43.05611,
+    "lng": 17.43278
+  },
+  {
+    "name": "Pleternica",
+    "country": "HR",
+    "lat": 45.28861,
+    "lng": 17.80639
+  },
+  {
+    "name": "Plaški",
+    "country": "HR",
+    "lat": 45.07639,
+    "lng": 15.36806
+  },
+  {
+    "name": "Plaisance",
+    "country": "HT",
+    "lat": 19.59795,
+    "lng": -72.46994
+  },
+  {
+    "name": "Plaine du Nord",
+    "country": "HT",
+    "lat": 19.67707,
+    "lng": -72.26969
+  },
+  {
+    "name": "Plumbon",
+    "country": "ID",
+    "lat": -6.705,
+    "lng": 108.47278
+  },
+  {
+    "name": "Plampang",
+    "country": "ID",
+    "lat": -8.7974,
+    "lng": 117.7791
+  },
+  {
+    "name": "Platì",
+    "country": "IT",
+    "lat": 38.22149,
+    "lng": 16.0453
+  },
+  {
+    "name": "Platania",
+    "country": "IT",
+    "lat": 39.0062,
+    "lng": 16.32194
+  },
+  {
+    "name": "Plataci",
+    "country": "IT",
+    "lat": 39.90042,
+    "lng": 16.43272
+  },
+  {
+    "name": "Placanica",
+    "country": "IT",
+    "lat": 38.41078,
+    "lng": 16.45274
+  },
+  {
+    "name": "Ploaghe",
+    "country": "IT",
+    "lat": 40.67068,
+    "lng": 8.74962
+  },
+  {
+    "name": "Plaus",
+    "country": "IT",
+    "lat": 46.65623,
+    "lng": 11.04178
+  },
+  {
+    "name": "Pleyne",
+    "country": "IT",
+    "lat": 44.58063,
+    "lng": 7.01712
+  },
+  {
+    "name": "Plodio",
+    "country": "IT",
+    "lat": 44.35394,
+    "lng": 8.24725
+  },
+  {
+    "name": "Plesio",
+    "country": "IT",
+    "lat": 46.04742,
+    "lng": 9.22882
+  },
+  {
+    "name": "Plan d'Introd",
+    "country": "IT",
+    "lat": 45.69203,
+    "lng": 7.18328
+  },
+  {
+    "name": "Planken",
+    "country": "LI",
+    "lat": 47.18516,
+    "lng": 9.54437
+  },
+  {
+    "name": "Pleebo City",
+    "country": "LR",
+    "lat": 4.58953,
+    "lng": -7.67218
+  },
+  {
+    "name": "Plunge",
+    "country": "LT",
+    "lat": 55.91139,
+    "lng": 21.84417
+  },
+  {
+    "name": "Plateliai",
+    "country": "LT",
+    "lat": 56.04657,
+    "lng": 21.81615
+  },
+  {
+    "name": "Plužine",
+    "country": "ME",
+    "lat": 43.15211,
+    "lng": 18.83902
+  },
+  {
+    "name": "Pljevlja",
+    "country": "ME",
+    "lat": 43.3567,
+    "lng": 19.35843
+  },
+  {
+    "name": "Plav",
+    "country": "ME",
+    "lat": 42.5969,
+    "lng": 19.94415
+  },
+  {
+    "name": "Plasnica",
+    "country": "MK",
+    "lat": 41.46786,
+    "lng": 21.12272
+  },
+  {
+    "name": "Plymouth",
+    "country": "MS",
+    "lat": 16.70555,
+    "lng": -62.21292
+  },
+  {
+    "name": "Plaine Magnien",
+    "country": "MU",
+    "lat": -20.42967,
+    "lng": 57.66968
+  },
+  {
+    "name": "Plaine des Papayes",
+    "country": "MU",
+    "lat": -20.065,
+    "lng": 57.5725
+  },
+  {
+    "name": "Plaines des Roches",
+    "country": "MU",
+    "lat": -20.11167,
+    "lng": 57.69083
+  },
+  {
+    "name": "Plan de Iguala",
+    "country": "MX",
+    "lat": 22.03638,
+    "lng": -98.46457
+  },
+  {
+    "name": "Pluma Hidalgo",
+    "country": "MX",
+    "lat": 15.92711,
+    "lng": -96.41852
+  },
+  {
+    "name": "Playa Vicente",
+    "country": "MX",
+    "lat": 17.83107,
+    "lng": -95.81189
+  },
+  {
+    "name": "Playa del Carmen",
+    "country": "MX",
+    "lat": 20.6274,
+    "lng": -87.07987
+  },
+  {
+    "name": "Platón Sánchez",
+    "country": "MX",
+    "lat": 21.27182,
+    "lng": -98.37456
+  },
+  {
+    "name": "Platanillo",
+    "country": "MX",
+    "lat": 17.06478,
+    "lng": -99.91088
+  },
+  {
+    "name": "Plan de las Hayas",
+    "country": "MX",
+    "lat": 19.75963,
+    "lng": -96.67594
+  },
+  {
+    "name": "Plan de Ayala",
+    "country": "MX",
+    "lat": 14.98383,
+    "lng": -92.47661
+  },
+  {
+    "name": "Plan de Arroyos",
+    "country": "MX",
+    "lat": 19.89297,
+    "lng": -97.10888
+  },
+  {
+    "name": "Playas del Rosario",
+    "country": "MX",
+    "lat": 17.85289,
+    "lng": -92.93243
+  },
+  {
+    "name": "Plan de Ayala",
+    "country": "MX",
+    "lat": 17.47379,
+    "lng": -93.48762
+  },
+  {
+    "name": "Plan de Ayala",
+    "country": "MX",
+    "lat": 16.47152,
+    "lng": -92.02735
+  },
+  {
+    "name": "Playa de Chachalacas",
+    "country": "MX",
+    "lat": 19.42352,
+    "lng": -96.3228
+  },
+  {
+    "name": "Plan del Río",
+    "country": "MX",
+    "lat": 19.40184,
+    "lng": -96.6525
+  },
+  {
+    "name": "Plan de Ayala",
+    "country": "MX",
+    "lat": 20.54889,
+    "lng": -97.47129
+  },
+  {
+    "name": "Plateros",
+    "country": "MX",
+    "lat": 23.22936,
+    "lng": -102.84098
+  },
+  {
+    "name": "Plan de Ayala (Campo Cinco)",
+    "country": "MX",
+    "lat": 25.7691,
+    "lng": -109.04121
+  },
+  {
+    "name": "Plancarte",
+    "country": "MX",
+    "lat": 20.58681,
+    "lng": -100.7962
+  },
+  {
+    "name": "Placeres del Oro",
+    "country": "MX",
+    "lat": 18.23578,
+    "lng": -100.902
+  },
+  {
+    "name": "Plan de Ayala",
+    "country": "MX",
+    "lat": 21.07209,
+    "lng": -101.72165
+  },
+  {
+    "name": "Plan Guanajuato (La Sandía)",
+    "country": "MX",
+    "lat": 20.92167,
+    "lng": -101.69694
+  },
+  {
+    "name": "Playa Azul",
+    "country": "MX",
+    "lat": 17.9817,
+    "lng": -102.34761
+  },
+  {
+    "name": "Plan de Ayala",
+    "country": "MX",
+    "lat": 22.54028,
+    "lng": -98.76722
+  },
+  {
+    "name": "Plutarco Elías Calles (La Y Griega)",
+    "country": "MX",
+    "lat": 30.80194,
+    "lng": -112.71833
+  },
+  {
+    "name": "Plan de Agua Prieta",
+    "country": "MX",
+    "lat": 16.13111,
+    "lng": -92.79139
+  },
+  {
+    "name": "Plaza Nueva",
+    "country": "MX",
+    "lat": 18.92944,
+    "lng": -99.43444
+  },
+  {
+    "name": "Playa Chica",
+    "country": "MX",
+    "lat": 18.06139,
+    "lng": -96.51833
+  },
+  {
+    "name": "Playa de la Libertad",
+    "country": "MX",
+    "lat": 19.08306,
+    "lng": -96.09778
+  },
+  {
+    "name": "Plimmerton",
+    "country": "NZ",
+    "lat": -41.08333,
+    "lng": 174.86667
+  },
+  {
+    "name": "Pleasant Point",
+    "country": "NZ",
+    "lat": -44.26667,
+    "lng": 171.13333
+  },
+  {
+    "name": "Plaza de Caisán",
+    "country": "PA",
+    "lat": 8.74346,
+    "lng": -82.82066
+  },
+  {
+    "name": "Playón Chico",
+    "country": "PA",
+    "lat": 9.31128,
+    "lng": -78.2327
+  },
+  {
+    "name": "Playa Leona",
+    "country": "PA",
+    "lat": 8.78868,
+    "lng": -79.77237
+  },
+  {
+    "name": "Playa Chiquita",
+    "country": "PA",
+    "lat": 9.5662,
+    "lng": -79.29185
+  },
+  {
+    "name": "Plan de Chorcha",
+    "country": "PA",
+    "lat": 8.46507,
+    "lng": -82.16439
+  },
+  {
+    "name": "Platanillo",
+    "country": "PA",
+    "lat": 8.81962,
+    "lng": -78.38267
+  },
+  {
+    "name": "Platería",
+    "country": "PE",
+    "lat": -15.94858,
+    "lng": -69.83321
+  },
+  {
+    "name": "Platagata",
+    "country": "PH",
+    "lat": 11.303,
+    "lng": 123.1567
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 15.65853,
+    "lng": 121.02009
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 14.88722,
+    "lng": 120.85722
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 13.9551,
+    "lng": 122.0208
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 10.8974,
+    "lng": 123.4894
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 10.5667,
+    "lng": 124.7645
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 9.3786,
+    "lng": 118.50174
+  },
+  {
+    "name": "Plaridel",
+    "country": "PH",
+    "lat": 8.6214,
+    "lng": 123.7101
+  },
+  {
+    "name": "Placer",
+    "country": "PH",
+    "lat": 11.8687,
+    "lng": 123.9184
+  },
+  {
+    "name": "Placer",
+    "country": "PH",
+    "lat": 9.65814,
+    "lng": 125.60153
+  },
+  {
+    "name": "Pleśna",
+    "country": "PL",
+    "lat": 49.92642,
+    "lng": 20.94526
+  },
+  {
+    "name": "Plewiska",
+    "country": "PL",
+    "lat": 52.36706,
+    "lng": 16.80985
+  },
+  {
+    "name": "Pleszew",
+    "country": "PL",
+    "lat": 51.89636,
+    "lng": 17.78549
+  },
+  {
+    "name": "Playa Fortuna",
+    "country": "PR",
+    "lat": 18.37967,
+    "lng": -65.74516
+  },
+  {
+    "name": "Playita",
+    "country": "PR",
+    "lat": 18.04469,
+    "lng": -65.90738
+  },
+  {
+    "name": "Playita Cortada",
+    "country": "PR",
+    "lat": 17.98497,
+    "lng": -66.43906
+  },
+  {
+    "name": "Plugova",
+    "country": "RO",
+    "lat": 44.9625,
+    "lng": 22.35864
+  },
+  {
+    "name": "Plugari",
+    "country": "RO",
+    "lat": 47.48333,
+    "lng": 27.1
+  },
+  {
+    "name": "Plutonița",
+    "country": "RO",
+    "lat": 47.48081,
+    "lng": 25.79145
+  },
+  {
+    "name": "Ploștina",
+    "country": "RO",
+    "lat": 44.82398,
+    "lng": 22.98791
+  },
+  {
+    "name": "Ploscuțeni",
+    "country": "RO",
+    "lat": 46.07859,
+    "lng": 27.27032
+  },
+  {
+    "name": "Ploscoș",
+    "country": "RO",
+    "lat": 46.64303,
+    "lng": 23.84663
+  },
+  {
+    "name": "Plosca",
+    "country": "RO",
+    "lat": 44.03333,
+    "lng": 25.13333
+  },
+  {
+    "name": "Plopu",
+    "country": "RO",
+    "lat": 46.39256,
+    "lng": 26.50268
+  },
+  {
+    "name": "Plopu",
+    "country": "RO",
+    "lat": 45.14847,
+    "lng": 27.51387
+  },
+  {
+    "name": "Plopu",
+    "country": "RO",
+    "lat": 45.01667,
+    "lng": 26.15
+  },
+  {
+    "name": "Plopşoru",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 23.35
+  },
+  {
+    "name": "Plopșoru",
+    "country": "RO",
+    "lat": 44.0119,
+    "lng": 25.99306
+  },
+  {
+    "name": "Plopiş",
+    "country": "RO",
+    "lat": 47.13333,
+    "lng": 22.68333
+  },
+  {
+    "name": "Plopii Slăviţeştí",
+    "country": "RO",
+    "lat": 43.96667,
+    "lng": 24.68333
+  },
+  {
+    "name": "Plopeni",
+    "country": "RO",
+    "lat": 47.65874,
+    "lng": 26.33913
+  },
+  {
+    "name": "Plopeni",
+    "country": "RO",
+    "lat": 45.04955,
+    "lng": 25.95202
+  },
+  {
+    "name": "Plopeni",
+    "country": "RO",
+    "lat": 43.95089,
+    "lng": 28.19452
+  },
+  {
+    "name": "Plopana",
+    "country": "RO",
+    "lat": 46.68333,
+    "lng": 27.21667
+  },
+  {
+    "name": "Ploieşti",
+    "country": "RO",
+    "lat": 44.95,
+    "lng": 26.01667
+  },
+  {
+    "name": "Ploieștiori",
+    "country": "RO",
+    "lat": 44.98157,
+    "lng": 26.01795
+  },
+  {
+    "name": "Plevna",
+    "country": "RO",
+    "lat": 45.37815,
+    "lng": 27.0131
+  },
+  {
+    "name": "Pleşoiu",
+    "country": "RO",
+    "lat": 44.46667,
+    "lng": 24.26667
+  },
+  {
+    "name": "Pleșoi",
+    "country": "RO",
+    "lat": 44.35077,
+    "lng": 23.53345
+  },
+  {
+    "name": "Pleşcuţa",
+    "country": "RO",
+    "lat": 46.3,
+    "lng": 22.43333
+  },
+  {
+    "name": "Pleniţa",
+    "country": "RO",
+    "lat": 44.21667,
+    "lng": 23.18333
+  },
+  {
+    "name": "Pleașov",
+    "country": "RO",
+    "lat": 43.84971,
+    "lng": 24.74886
+  },
+  {
+    "name": "Pleașa",
+    "country": "RO",
+    "lat": 45.00583,
+    "lng": 26.07211
+  },
+  {
+    "name": "Plăvălari",
+    "country": "RO",
+    "lat": 47.56832,
+    "lng": 26.35925
+  },
+  {
+    "name": "Platonești",
+    "country": "RO",
+    "lat": 44.60712,
+    "lng": 27.69706
+  },
+  {
+    "name": "Plătăreşti",
+    "country": "RO",
+    "lat": 44.35,
+    "lng": 26.36667
+  },
+  {
+    "name": "Plopeni",
+    "country": "RO",
+    "lat": 45.06552,
+    "lng": 25.98114
+  },
+  {
+    "name": "Plandište",
+    "country": "RS",
+    "lat": 45.22722,
+    "lng": 21.12167
+  },
+  {
+    "name": "Platičevo",
+    "country": "RS",
+    "lat": 44.82213,
+    "lng": 19.79487
+  },
+  {
+    "name": "Plyussa",
+    "country": "RU",
+    "lat": 58.42583,
+    "lng": 29.36644
+  },
+  {
+    "name": "Pleshanovo",
+    "country": "RU",
+    "lat": 52.84671,
+    "lng": 53.48848
+  },
+  {
+    "name": "Plesetsk",
+    "country": "RU",
+    "lat": 62.71165,
+    "lng": 40.29104
+  },
+  {
+    "name": "Plyos",
+    "country": "RU",
+    "lat": 57.45862,
+    "lng": 41.51579
+  },
+  {
+    "name": "Plekhanovo",
+    "country": "RU",
+    "lat": 52.63822,
+    "lng": 39.84729
+  },
+  {
+    "name": "Plavsk",
+    "country": "RU",
+    "lat": 53.7084,
+    "lng": 37.29457
+  },
+  {
+    "name": "Platonovka",
+    "country": "RU",
+    "lat": 52.71058,
+    "lng": 41.95199
+  },
+  {
+    "name": "Platnirovskaya",
+    "country": "RU",
+    "lat": 45.39531,
+    "lng": 39.3842
+  },
+  {
+    "name": "Plastunovskaya",
+    "country": "RU",
+    "lat": 45.29432,
+    "lng": 39.26505
+  },
+  {
+    "name": "Planovskoye",
+    "country": "RU",
+    "lat": 43.39846,
+    "lng": 44.1949
+  },
+  {
+    "name": "Plast",
+    "country": "RU",
+    "lat": 54.36914,
+    "lng": 60.81361
+  },
+  {
+    "name": "Plotnikovo",
+    "country": "RU",
+    "lat": 55.02472,
+    "lng": 85.94361
+  },
+  {
+    "name": "Plastun",
+    "country": "RU",
+    "lat": 44.75997,
+    "lng": 136.28421
+  },
+  {
+    "name": "Plaisance",
+    "country": "SC",
+    "lat": -4.64085,
+    "lng": 55.46179
+  },
+  {
+    "name": "Plavecký Štvrtok",
+    "country": "SK",
+    "lat": 48.37512,
+    "lng": 16.99863
+  },
+  {
+    "name": "Plai Phraya",
+    "country": "TH",
+    "lat": 8.53278,
+    "lng": 98.8637
+  },
+  {
+    "name": "Pluak Daeng",
+    "country": "TH",
+    "lat": 12.97122,
+    "lng": 101.21463
+  },
+  {
+    "name": "Pla Pak",
+    "country": "TH",
+    "lat": 17.18064,
+    "lng": 104.52606
+  },
+  {
+    "name": "Plaeng Yao",
+    "country": "TH",
+    "lat": 13.58467,
+    "lng": 101.28403
+  },
+  {
+    "name": "Ploske",
+    "country": "UA",
+    "lat": 48.6649,
+    "lng": 22.89684
+  },
+  {
+    "name": "Plodovoye",
+    "country": "UA",
+    "lat": 44.87156,
+    "lng": 33.85615
+  },
+  {
+    "name": "Plavni",
+    "country": "UA",
+    "lat": 45.39632,
+    "lng": 28.58239
+  },
+  {
+    "name": "Plakhtiyivka",
+    "country": "UA",
+    "lat": 46.095,
+    "lng": 29.7189
+  },
+  {
+    "name": "Plateau",
+    "country": "US",
+    "lat": 30.73562,
+    "lng": -88.06063
+  },
+  {
+    "name": "Pleasant Grove",
+    "country": "US",
+    "lat": 33.49094,
+    "lng": -86.97027
+  },
+  {
+    "name": "Pleasant Plains",
+    "country": "US",
+    "lat": 38.93067,
+    "lng": -77.03025
+  },
+  {
+    "name": "Placid Lakes",
+    "country": "US",
+    "lat": 27.24144,
+    "lng": -81.40702
+  },
+  {
+    "name": "Plant City",
+    "country": "US",
+    "lat": 28.01888,
+    "lng": -82.11469
+  },
+  {
+    "name": "Plantation",
+    "country": "US",
+    "lat": 26.13421,
+    "lng": -80.23184
+  },
+  {
+    "name": "Plantation",
+    "country": "US",
+    "lat": 24.97624,
+    "lng": -80.55228
+  },
+  {
+    "name": "Plantation",
+    "country": "US",
+    "lat": 27.06811,
+    "lng": -82.37287
+  },
+  {
+    "name": "Plantation Mobile Home Park",
+    "country": "US",
+    "lat": 26.70312,
+    "lng": -80.13227
+  },
+  {
+    "name": "Plainfield",
+    "country": "US",
+    "lat": 39.70421,
+    "lng": -86.39944
+  },
+  {
+    "name": "Plainville",
+    "country": "US",
+    "lat": 39.23473,
+    "lng": -99.29816
+  },
+  {
+    "name": "Pleasanton",
+    "country": "US",
+    "lat": 38.17781,
+    "lng": -94.71135
+  },
+  {
+    "name": "Plano",
+    "country": "US",
+    "lat": 36.88032,
+    "lng": -86.41832
+  },
+  {
+    "name": "Pleasure Ridge Park",
+    "country": "US",
+    "lat": 38.14535,
+    "lng": -85.8583
+  },
+  {
+    "name": "Plaquemine",
+    "country": "US",
+    "lat": 30.29005,
+    "lng": -91.23497
+  },
+  {
+    "name": "Pleasant Hills",
+    "country": "US",
+    "lat": 39.47955,
+    "lng": -76.39413
+  },
+  {
+    "name": "Platte City",
+    "country": "US",
+    "lat": 39.37028,
+    "lng": -94.78246
+  },
+  {
+    "name": "Plattsburg",
+    "country": "US",
+    "lat": 39.56555,
+    "lng": -94.44801
+  },
+  {
+    "name": "Pleasant Hill",
+    "country": "US",
+    "lat": 38.78751,
+    "lng": -94.26939
+  },
+  {
+    "name": "Pleasant Valley",
+    "country": "US",
+    "lat": 39.21639,
+    "lng": -94.48412
+  },
+  {
+    "name": "Plantersville",
+    "country": "US",
+    "lat": 34.21344,
+    "lng": -88.6645
+  },
+  {
+    "name": "Plain View",
+    "country": "US",
+    "lat": 35.2485,
+    "lng": -78.55529
+  },
+  {
+    "name": "Pleasant Garden",
+    "country": "US",
+    "lat": 35.96208,
+    "lng": -79.76225
+  },
+  {
+    "name": "Pleasant Hill",
+    "country": "US",
+    "lat": 35.87347,
+    "lng": -79.48169
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 35.86683,
+    "lng": -76.74856
+  },
+  {
+    "name": "Pleasantville",
+    "country": "US",
+    "lat": 39.38984,
+    "lng": -74.52404
+  },
+  {
+    "name": "Pleasant Grove",
+    "country": "US",
+    "lat": 39.95201,
+    "lng": -81.95902
+  },
+  {
+    "name": "Pleasant Run",
+    "country": "US",
+    "lat": 39.29978,
+    "lng": -84.56356
+  },
+  {
+    "name": "Pleasant Run Farm",
+    "country": "US",
+    "lat": 39.30311,
+    "lng": -84.548
+  },
+  {
+    "name": "Pleasant View",
+    "country": "US",
+    "lat": 36.39422,
+    "lng": -87.03667
+  },
+  {
+    "name": "Plano",
+    "country": "US",
+    "lat": 33.01984,
+    "lng": -96.69889
+  },
+  {
+    "name": "Pleak",
+    "country": "US",
+    "lat": 29.48913,
+    "lng": -95.80773
+  },
+  {
+    "name": "Pleasanton",
+    "country": "US",
+    "lat": 28.96719,
+    "lng": -98.47863
+  },
+  {
+    "name": "Plum Grove",
+    "country": "US",
+    "lat": 32.1957,
+    "lng": -96.98945
+  },
+  {
+    "name": "Pleasant Valley",
+    "country": "US",
+    "lat": 39.45536,
+    "lng": -80.14175
+  },
+  {
+    "name": "Plainfield",
+    "country": "US",
+    "lat": 41.67649,
+    "lng": -71.91507
+  },
+  {
+    "name": "Plainville",
+    "country": "US",
+    "lat": 41.67454,
+    "lng": -72.85816
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 41.67204,
+    "lng": -73.05289
+  },
+  {
+    "name": "Pleasant Hill",
+    "country": "US",
+    "lat": 41.58388,
+    "lng": -93.51994
+  },
+  {
+    "name": "Pleasantville",
+    "country": "US",
+    "lat": 41.38583,
+    "lng": -93.26937
+  },
+  {
+    "name": "Plainfield",
+    "country": "US",
+    "lat": 41.62697,
+    "lng": -88.20395
+  },
+  {
+    "name": "Plano",
+    "country": "US",
+    "lat": 41.66281,
+    "lng": -88.53702
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 41.34366,
+    "lng": -86.30973
+  },
+  {
+    "name": "Plainville",
+    "country": "US",
+    "lat": 42.00427,
+    "lng": -71.33283
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 41.95844,
+    "lng": -70.66726
+  },
+  {
+    "name": "Plympton",
+    "country": "US",
+    "lat": 41.95288,
+    "lng": -70.81448
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 44.76729,
+    "lng": -69.21033
+  },
+  {
+    "name": "Plainwell",
+    "country": "US",
+    "lat": 42.44004,
+    "lng": -85.6489
+  },
+  {
+    "name": "Pleasant Ridge",
+    "country": "US",
+    "lat": 42.47115,
+    "lng": -83.14215
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 42.37143,
+    "lng": -83.47021
+  },
+  {
+    "name": "Plainview",
+    "country": "US",
+    "lat": 44.16497,
+    "lng": -92.17156
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 45.01052,
+    "lng": -93.45551
+  },
+  {
+    "name": "Plainview",
+    "country": "US",
+    "lat": 42.34973,
+    "lng": -97.79201
+  },
+  {
+    "name": "Plattsmouth",
+    "country": "US",
+    "lat": 41.01139,
+    "lng": -95.88223
+  },
+  {
+    "name": "Plaistow",
+    "country": "US",
+    "lat": 42.83648,
+    "lng": -71.09478
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 43.75702,
+    "lng": -71.68813
+  },
+  {
+    "name": "Plainfield",
+    "country": "US",
+    "lat": 40.63371,
+    "lng": -74.40737
+  },
+  {
+    "name": "Plainsboro Center",
+    "country": "US",
+    "lat": 40.33177,
+    "lng": -74.5946
+  },
+  {
+    "name": "Plainedge",
+    "country": "US",
+    "lat": 40.71732,
+    "lng": -73.48374
+  },
+  {
+    "name": "Plainview",
+    "country": "US",
+    "lat": 40.77649,
+    "lng": -73.46735
+  },
+  {
+    "name": "Plandome",
+    "country": "US",
+    "lat": 40.80677,
+    "lng": -73.70346
+  },
+  {
+    "name": "Plandome Heights",
+    "country": "US",
+    "lat": 40.8026,
+    "lng": -73.7043
+  },
+  {
+    "name": "Plattekill",
+    "country": "US",
+    "lat": 41.61759,
+    "lng": -74.07598
+  },
+  {
+    "name": "Plattsburgh",
+    "country": "US",
+    "lat": 44.69949,
+    "lng": -73.45291
+  },
+  {
+    "name": "Pleasant Valley",
+    "country": "US",
+    "lat": 41.74454,
+    "lng": -73.82124
+  },
+  {
+    "name": "Pleasantville",
+    "country": "US",
+    "lat": 41.13287,
+    "lng": -73.79263
+  },
+  {
+    "name": "Plain City",
+    "country": "US",
+    "lat": 40.10756,
+    "lng": -83.26742
+  },
+  {
+    "name": "Pleasant Hill",
+    "country": "US",
+    "lat": 40.05172,
+    "lng": -84.34439
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 40.99561,
+    "lng": -82.66712
+  },
+  {
+    "name": "Plains",
+    "country": "US",
+    "lat": 41.27536,
+    "lng": -75.8502
+  },
+  {
+    "name": "Pleasant Gap",
+    "country": "US",
+    "lat": 40.86812,
+    "lng": -77.74667
+  },
+  {
+    "name": "Pleasant Hill",
+    "country": "US",
+    "lat": 40.3362,
+    "lng": -76.44163
+  },
+  {
+    "name": "Pleasant Hills",
+    "country": "US",
+    "lat": 40.33563,
+    "lng": -79.96061
+  },
+  {
+    "name": "Plum",
+    "country": "US",
+    "lat": 40.50035,
+    "lng": -79.74949
+  },
+  {
+    "name": "Plumsteadville",
+    "country": "US",
+    "lat": 40.38733,
+    "lng": -75.14656
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 41.24036,
+    "lng": -75.94464
+  },
+  {
+    "name": "Plymouth Meeting",
+    "country": "US",
+    "lat": 40.10233,
+    "lng": -75.27435
+  },
+  {
+    "name": "Plankinton",
+    "country": "US",
+    "lat": 43.71555,
+    "lng": -98.48509
+  },
+  {
+    "name": "Platte",
+    "country": "US",
+    "lat": 43.38694,
+    "lng": -98.84453
+  },
+  {
+    "name": "Platteville",
+    "country": "US",
+    "lat": 42.73416,
+    "lng": -90.47846
+  },
+  {
+    "name": "Pleasant Prairie",
+    "country": "US",
+    "lat": 42.55308,
+    "lng": -87.93341
+  },
+  {
+    "name": "Plover",
+    "country": "US",
+    "lat": 44.45636,
+    "lng": -89.54401
+  },
+  {
+    "name": "Plymouth",
+    "country": "US",
+    "lat": 43.74861,
+    "lng": -87.97704
+  },
+  {
+    "name": "Placentia",
+    "country": "US",
+    "lat": 33.87224,
+    "lng": -117.87034
+  },
+  {
+    "name": "Placerville",
+    "country": "US",
+    "lat": 38.72963,
+    "lng": -120.79855
+  },
+  {
+    "name": "Planada",
+    "country": "US",
+    "lat": 37.29077,
+    "lng": -120.31852
+  },
+  {
+    "name": "Pleasant Hill",
+    "country": "US",
+    "lat": 37.94798,
+    "lng": -122.0608
+  },
+  {
+    "name": "Pleasanton",
+    "country": "US",
+    "lat": 37.66243,
+    "lng": -121.87468
+  },
+  {
+    "name": "Plumas Lake",
+    "country": "US",
+    "lat": 39.02073,
+    "lng": -121.55802
+  },
+  {
+    "name": "Plains",
+    "country": "US",
+    "lat": 37.2603,
+    "lng": -100.59265
+  },
+  {
+    "name": "Placitas",
+    "country": "US",
+    "lat": 35.30698,
+    "lng": -106.42475
+  },
+  {
+    "name": "Plains",
+    "country": "US",
+    "lat": 33.18871,
+    "lng": -102.82799
+  },
+  {
+    "name": "Plainview",
+    "country": "US",
+    "lat": 34.18479,
+    "lng": -101.70684
+  },
+  {
+    "name": "Platteville",
+    "country": "US",
+    "lat": 40.21498,
+    "lng": -104.82275
+  },
+  {
+    "name": "Plummer",
+    "country": "US",
+    "lat": 47.33518,
+    "lng": -116.88851
+  },
+  {
+    "name": "Plains",
+    "country": "US",
+    "lat": 47.46021,
+    "lng": -114.88291
+  },
+  {
+    "name": "Plentywood",
+    "country": "US",
+    "lat": 48.77475,
+    "lng": -104.56246
+  },
+  {
+    "name": "Plain City",
+    "country": "US",
+    "lat": 41.298,
+    "lng": -112.08605
+  },
+  {
+    "name": "Pleasant Grove",
+    "country": "US",
+    "lat": 40.36412,
+    "lng": -111.73854
+  },
+  {
+    "name": "Pleasant View",
+    "country": "US",
+    "lat": 41.31828,
+    "lng": -111.99216
+  },
+  {
+    "name": "Plainfield Village",
+    "country": "US",
+    "lat": 41.67686,
+    "lng": -71.92489
+  },
+  {
+    "name": "Plattsburgh West",
+    "country": "US",
+    "lat": 44.68315,
+    "lng": -73.50295
+  },
+  {
+    "name": "Plum Creek",
+    "country": "US",
+    "lat": 37.12984,
+    "lng": -80.5006
+  },
+  {
+    "name": "Plainview",
+    "country": "US",
+    "lat": 36.17731,
+    "lng": -83.79534
+  },
+  {
+    "name": "Plei Kần",
+    "country": "VN",
+    "lat": 14.70495,
+    "lng": 107.6862
+  },
+  {
+    "name": "Pleiku",
+    "country": "VN",
+    "lat": 13.98333,
+    "lng": 108.0
+  },
+  {
+    "name": "Plettenberg Bay",
+    "country": "ZA",
+    "lat": -34.05274,
+    "lng": 23.3716
+  },
+  {
+    "name": "Plumtree",
+    "country": "ZW",
+    "lat": -20.48333,
+    "lng": 27.81667
+  }
+]

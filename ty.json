@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Tyabb",
+    "country": "AU",
+    "lat": -38.25,
+    "lng": 145.18333
+  },
+  {
+    "name": "Tyonlé",
+    "country": "CI",
+    "lat": 7.0564,
+    "lng": -7.66649
+  },
+  {
+    "name": "Tyongofolokaha",
+    "country": "CI",
+    "lat": 9.63337,
+    "lng": -5.42972
+  },
+  {
+    "name": "Tyolohokaha",
+    "country": "CI",
+    "lat": 9.21667,
+    "lng": -5.5
+  },
+  {
+    "name": "Tyésérila",
+    "country": "CI",
+    "lat": 9.94282,
+    "lng": -7.64458
+  },
+  {
+    "name": "Tyésan",
+    "country": "CI",
+    "lat": 7.35909,
+    "lng": -7.37968
+  },
+  {
+    "name": "Tyénigoué",
+    "country": "CI",
+    "lat": 7.84819,
+    "lng": -6.10421
+  },
+  {
+    "name": "Tyengala",
+    "country": "CI",
+    "lat": 8.33971,
+    "lng": -5.12556
+  },
+  {
+    "name": "Tyémorokaha",
+    "country": "CI",
+    "lat": 8.49923,
+    "lng": -5.20325
+  },
+  {
+    "name": "Tyémasoba",
+    "country": "CI",
+    "lat": 7.81532,
+    "lng": -6.45253
+  },
+  {
+    "name": "Tyélivogo",
+    "country": "CI",
+    "lat": 9.52229,
+    "lng": -5.733
+  },
+  {
+    "name": "Tyégana",
+    "country": "CI",
+    "lat": 9.20199,
+    "lng": -5.70862
+  },
+  {
+    "name": "Tyéfindougou",
+    "country": "CI",
+    "lat": 8.15411,
+    "lng": -5.73176
+  },
+  {
+    "name": "Tyrlaching",
+    "country": "DE",
+    "lat": 48.06667,
+    "lng": 12.66667
+  },
+  {
+    "name": "Tylstrup",
+    "country": "DK",
+    "lat": 57.1947,
+    "lng": 9.95308
+  },
+  {
+    "name": "Tyrnävä",
+    "country": "FI",
+    "lat": 64.76469,
+    "lng": 25.6523
+  },
+  {
+    "name": "Tykki",
+    "country": "FI",
+    "lat": 61.04888,
+    "lng": 28.18691
+  },
+  {
+    "name": "Tytherington",
+    "country": "GB",
+    "lat": 51.5925,
+    "lng": -2.47972
+  },
+  {
+    "name": "Tynemouth",
+    "country": "GB",
+    "lat": 55.01788,
+    "lng": -1.42559
+  },
+  {
+    "name": "Tyldesley",
+    "country": "GB",
+    "lat": 53.51393,
+    "lng": -2.46754
+  },
+  {
+    "name": "Tycroes",
+    "country": "GB",
+    "lat": 51.77806,
+    "lng": -4.02
+  },
+  {
+    "name": "Tyberton",
+    "country": "GB",
+    "lat": 52.0455,
+    "lng": -2.90414
+  },
+  {
+    "name": "Tywyn",
+    "country": "GB",
+    "lat": 52.58578,
+    "lng": -4.09276
+  },
+  {
+    "name": "Tympáki",
+    "country": "GR",
+    "lat": 35.07286,
+    "lng": 24.76851
+  },
+  {
+    "name": "Tycheró",
+    "country": "GR",
+    "lat": 41.02878,
+    "lng": 26.29455
+  },
+  {
+    "name": "Tyukod",
+    "country": "HU",
+    "lat": 47.85378,
+    "lng": 22.5633
+  },
+  {
+    "name": "Tyāgadurgam",
+    "country": "IN",
+    "lat": 11.74114,
+    "lng": 79.07698
+  },
+  {
+    "name": "Tyup",
+    "country": "KG",
+    "lat": 42.7276,
+    "lng": 78.36476
+  },
+  {
+    "name": "Tyul’kubas",
+    "country": "KZ",
+    "lat": 42.48578,
+    "lng": 70.29601
+  },
+  {
+    "name": "Tyuratam",
+    "country": "KZ",
+    "lat": 45.65005,
+    "lng": 63.31163
+  },
+  {
+    "name": "Tyre",
+    "country": "LB",
+    "lat": 33.27333,
+    "lng": 35.19389
+  },
+  {
+    "name": "Tytuvėnėliai",
+    "country": "LT",
+    "lat": 55.62345,
+    "lng": 23.17162
+  },
+  {
+    "name": "Tynaarlo",
+    "country": "NL",
+    "lat": 53.0775,
+    "lng": 6.61667
+  },
+  {
+    "name": "Tytsjerk",
+    "country": "NL",
+    "lat": 53.21343,
+    "lng": 5.90961
+  },
+  {
+    "name": "Tysvær",
+    "country": "NO",
+    "lat": 59.33204,
+    "lng": 5.48981
+  },
+  {
+    "name": "Tysse",
+    "country": "NO",
+    "lat": 60.37404,
+    "lng": 5.75952
+  },
+  {
+    "name": "Tynset",
+    "country": "NO",
+    "lat": 62.27594,
+    "lng": 10.78241
+  },
+  {
+    "name": "Tyszowce",
+    "country": "PL",
+    "lat": 50.61699,
+    "lng": 23.69927
+  },
+  {
+    "name": "Tyrawa Wołoska",
+    "country": "PL",
+    "lat": 49.57744,
+    "lng": 22.36988
+  },
+  {
+    "name": "Tymbark",
+    "country": "PL",
+    "lat": 49.72859,
+    "lng": 20.32539
+  },
+  {
+    "name": "Tylicz",
+    "country": "PL",
+    "lat": 49.39598,
+    "lng": 21.02368
+  },
+  {
+    "name": "Tykocin",
+    "country": "PL",
+    "lat": 53.20567,
+    "lng": 22.77457
+  },
+  {
+    "name": "Tyczyn",
+    "country": "PL",
+    "lat": 49.96384,
+    "lng": 22.03398
+  },
+  {
+    "name": "Tyniec Mały",
+    "country": "PL",
+    "lat": 51.01948,
+    "lng": 16.91998
+  },
+  {
+    "name": "Tychy",
+    "country": "PL",
+    "lat": 50.13717,
+    "lng": 18.96641
+  },
+  {
+    "name": "Tychowo",
+    "country": "PL",
+    "lat": 53.92774,
+    "lng": 16.25771
+  },
+  {
+    "name": "Tyrnyauz",
+    "country": "RU",
+    "lat": 43.40578,
+    "lng": 42.92744
+  },
+  {
+    "name": "Tyulyachi",
+    "country": "RU",
+    "lat": 55.88889,
+    "lng": 50.23416
+  },
+  {
+    "name": "Tyul’gan",
+    "country": "RU",
+    "lat": 52.34127,
+    "lng": 56.16157
+  },
+  {
+    "name": "Tyrnyauz",
+    "country": "RU",
+    "lat": 43.38278,
+    "lng": 42.91833
+  },
+  {
+    "name": "Tyarlevo",
+    "country": "RU",
+    "lat": 59.70777,
+    "lng": 30.44543
+  },
+  {
+    "name": "Tyoply Stan",
+    "country": "RU",
+    "lat": 55.62047,
+    "lng": 37.49338
+  },
+  {
+    "name": "Tyube",
+    "country": "RU",
+    "lat": 43.04926,
+    "lng": 47.30742
+  },
+  {
+    "name": "Tyumentsevo",
+    "country": "RU",
+    "lat": 53.3243,
+    "lng": 81.50196
+  },
+  {
+    "name": "Tyumen",
+    "country": "RU",
+    "lat": 57.15222,
+    "lng": 65.52722
+  },
+  {
+    "name": "Tyukhtet",
+    "country": "RU",
+    "lat": 56.54164,
+    "lng": 89.31573
+  },
+  {
+    "name": "Tyukalinsk",
+    "country": "RU",
+    "lat": 55.87245,
+    "lng": 72.19796
+  },
+  {
+    "name": "Tyubuk",
+    "country": "RU",
+    "lat": 56.05521,
+    "lng": 60.9405
+  },
+  {
+    "name": "Tyazhinskiy",
+    "country": "RU",
+    "lat": 56.11028,
+    "lng": 88.51904
+  },
+  {
+    "name": "Tyrma",
+    "country": "RU",
+    "lat": 50.04559,
+    "lng": 132.17115
+  },
+  {
+    "name": "Tyret’ Pervaya",
+    "country": "RU",
+    "lat": 53.67028,
+    "lng": 102.31056
+  },
+  {
+    "name": "Tynda",
+    "country": "RU",
+    "lat": 55.14941,
+    "lng": 124.73676
+  },
+  {
+    "name": "Tygda",
+    "country": "RU",
+    "lat": 53.11169,
+    "lng": 126.32907
+  },
+  {
+    "name": "Tymovskoye",
+    "country": "RU",
+    "lat": 50.84767,
+    "lng": 142.66256
+  },
+  {
+    "name": "Tyringe",
+    "country": "SE",
+    "lat": 56.16037,
+    "lng": 13.59811
+  },
+  {
+    "name": "Tygelsjö",
+    "country": "SE",
+    "lat": 55.51667,
+    "lng": 13.0
+  },
+  {
+    "name": "Tyvriv",
+    "country": "UA",
+    "lat": 49.01206,
+    "lng": 28.50044
+  },
+  {
+    "name": "Tysovets",
+    "country": "UA",
+    "lat": 48.17298,
+    "lng": 25.89877
+  },
+  {
+    "name": "Tysmenytsia",
+    "country": "UA",
+    "lat": 48.9036,
+    "lng": 24.84695
+  },
+  {
+    "name": "Tysmenychany",
+    "country": "UA",
+    "lat": 48.77096,
+    "lng": 24.66449
+  },
+  {
+    "name": "Tynne",
+    "country": "UA",
+    "lat": 50.60145,
+    "lng": 26.18486
+  },
+  {
+    "name": "Tyachiv",
+    "country": "UA",
+    "lat": 48.01092,
+    "lng": 23.57168
+  },
+  {
+    "name": "Tyshkivka",
+    "country": "UA",
+    "lat": 48.49665,
+    "lng": 30.94229
+  },
+  {
+    "name": "Tymoshivka",
+    "country": "UA",
+    "lat": 47.1828,
+    "lng": 35.1085
+  },
+  {
+    "name": "Tybee Island",
+    "country": "US",
+    "lat": 32.00022,
+    "lng": -80.84567
+  },
+  {
+    "name": "Tyrone",
+    "country": "US",
+    "lat": 33.47123,
+    "lng": -84.59715
+  },
+  {
+    "name": "Tylertown",
+    "country": "US",
+    "lat": 31.11601,
+    "lng": -90.14203
+  },
+  {
+    "name": "Tyro",
+    "country": "US",
+    "lat": 35.80903,
+    "lng": -80.37283
+  },
+  {
+    "name": "Tye",
+    "country": "US",
+    "lat": 32.45762,
+    "lng": -99.87148
+  },
+  {
+    "name": "Tyler",
+    "country": "US",
+    "lat": 32.35126,
+    "lng": -95.30106
+  },
+  {
+    "name": "Tysons",
+    "country": "US",
+    "lat": 38.91872,
+    "lng": -77.23109
+  },
+  {
+    "name": "Tyngsboro",
+    "country": "US",
+    "lat": 42.67676,
+    "lng": -71.42451
+  },
+  {
+    "name": "Tyler",
+    "country": "US",
+    "lat": 44.2783,
+    "lng": -96.13475
+  },
+  {
+    "name": "Tyrone",
+    "country": "US",
+    "lat": 40.67062,
+    "lng": -78.23862
+  },
+  {
+    "name": "Tyndall",
+    "country": "US",
+    "lat": 42.99333,
+    "lng": -97.86285
+  },
+  {
+    "name": "Tyhee",
+    "country": "US",
+    "lat": 42.95158,
+    "lng": -112.46637
+  },
+  {
+    "name": "Tyndall Air Force Base",
+    "country": "US",
+    "lat": 30.08535,
+    "lng": -85.60731
+  },
+  {
+    "name": "Tyusha",
+    "country": "ZA",
+    "lat": -32.76494,
+    "lng": 27.318
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "name": "Ulëz",
+    "country": "AL",
+    "lat": 41.68278,
+    "lng": 19.89333
+  },
+  {
+    "name": "Ulapes",
+    "country": "AR",
+    "lat": -31.57323,
+    "lng": -66.23709
+  },
+  {
+    "name": "Ulrichskirchen",
+    "country": "AT",
+    "lat": 48.4,
+    "lng": 16.48333
+  },
+  {
+    "name": "Ulrichsberg",
+    "country": "AT",
+    "lat": 48.67498,
+    "lng": 13.91049
+  },
+  {
+    "name": "Ulverstone",
+    "country": "AU",
+    "lat": -41.16026,
+    "lng": 146.18242
+  },
+  {
+    "name": "Ulladulla",
+    "country": "AU",
+    "lat": -35.35906,
+    "lng": 150.47247
+  },
+  {
+    "name": "Ultimo",
+    "country": "AU",
+    "lat": -33.87722,
+    "lng": 151.1972
+  },
+  {
+    "name": "Ulianópolis",
+    "country": "BR",
+    "lat": -3.74194,
+    "lng": -47.49472
+  },
+  {
+    "name": "Ulan",
+    "country": "CN",
+    "lat": 39.09374,
+    "lng": 107.98022
+  },
+  {
+    "name": "Uliastai",
+    "country": "CN",
+    "lat": 45.55,
+    "lng": 116.83333
+  },
+  {
+    "name": "Ulan Hua",
+    "country": "CN",
+    "lat": 41.51306,
+    "lng": 111.69639
+  },
+  {
+    "name": "Ulanhot",
+    "country": "CN",
+    "lat": 46.08333,
+    "lng": 122.08333
+  },
+  {
+    "name": "Ulashan",
+    "country": "CN",
+    "lat": 40.665,
+    "lng": 108.74472
+  },
+  {
+    "name": "Ulanqab",
+    "country": "CN",
+    "lat": 40.993,
+    "lng": 113.133
+  },
+  {
+    "name": "Ulloa",
+    "country": "CO",
+    "lat": 4.70444,
+    "lng": -75.74028
+  },
+  {
+    "name": "Ulrichstein",
+    "country": "DE",
+    "lat": 50.5755,
+    "lng": 9.19272
+  },
+  {
+    "name": "Ulmen",
+    "country": "DE",
+    "lat": 50.20943,
+    "lng": 6.97941
+  },
+  {
+    "name": "Ulm",
+    "country": "DE",
+    "lat": 48.39841,
+    "lng": 9.99155
+  },
+  {
+    "name": "Ulstrup",
+    "country": "DK",
+    "lat": 56.38994,
+    "lng": 9.79354
+  },
+  {
+    "name": "Ullerslev",
+    "country": "DK",
+    "lat": 55.36172,
+    "lng": 10.6519
+  },
+  {
+    "name": "Ulfborg",
+    "country": "DK",
+    "lat": 56.26725,
+    "lng": 8.32167
+  },
+  {
+    "name": "Uldum",
+    "country": "DK",
+    "lat": 55.84714,
+    "lng": 9.58956
+  },
+  {
+    "name": "Uleila del Campo",
+    "country": "ES",
+    "lat": 37.1846,
+    "lng": -2.20491
+  },
+  {
+    "name": "Ulea",
+    "country": "ES",
+    "lat": 38.14045,
+    "lng": -1.33007
+  },
+  {
+    "name": "Ultramort",
+    "country": "ES",
+    "lat": 42.0364,
+    "lng": 3.03455
+  },
+  {
+    "name": "Ullastret",
+    "country": "ES",
+    "lat": 42.0,
+    "lng": 3.06667
+  },
+  {
+    "name": "Ulldemolins",
+    "country": "ES",
+    "lat": 41.32216,
+    "lng": 0.8765
+  },
+  {
+    "name": "Ulldecona",
+    "country": "ES",
+    "lat": 40.59734,
+    "lng": 0.44718
+  },
+  {
+    "name": "Ullastrell",
+    "country": "ES",
+    "lat": 41.52643,
+    "lng": 1.95537
+  },
+  {
+    "name": "Ullà",
+    "country": "ES",
+    "lat": 42.04964,
+    "lng": 3.10754
+  },
+  {
+    "name": "Ulvila",
+    "country": "FI",
+    "lat": 61.42844,
+    "lng": 21.87103
+  },
+  {
+    "name": "Ullava",
+    "country": "FI",
+    "lat": 63.6,
+    "lng": 24.08333
+  },
+  {
+    "name": "Ullanlinna",
+    "country": "FI",
+    "lat": 60.15753,
+    "lng": 24.94892
+  },
+  {
+    "name": "Ully-Saint-Georges",
+    "country": "FR",
+    "lat": 49.27914,
+    "lng": 2.28094
+  },
+  {
+    "name": "Ulverston",
+    "country": "GB",
+    "lat": 54.19594,
+    "lng": -3.09626
+  },
+  {
+    "name": "Ulrome",
+    "country": "GB",
+    "lat": 53.99198,
+    "lng": -0.22968
+  },
+  {
+    "name": "Ulley",
+    "country": "GB",
+    "lat": 53.382,
+    "lng": -1.30222
+  },
+  {
+    "name": "Ullapool",
+    "country": "GB",
+    "lat": 57.89872,
+    "lng": -5.16039
+  },
+  {
+    "name": "Ulceby",
+    "country": "GB",
+    "lat": 53.61667,
+    "lng": -0.33333
+  },
+  {
+    "name": "Ulu",
+    "country": "ID",
+    "lat": 2.70363,
+    "lng": 125.39375
+  },
+  {
+    "name": "Uluale",
+    "country": "ID",
+    "lat": -3.9072,
+    "lng": 119.7441
+  },
+  {
+    "name": "Ulakan",
+    "country": "ID",
+    "lat": -8.4978,
+    "lng": 115.5129
+  },
+  {
+    "name": "Uleeglee",
+    "country": "ID",
+    "lat": 5.19066,
+    "lng": 96.34875
+  },
+  {
+    "name": "Ulee Gle",
+    "country": "ID",
+    "lat": 5.20314,
+    "lng": 96.3269
+  },
+  {
+    "name": "Ullong",
+    "country": "ID",
+    "lat": -1.37083,
+    "lng": 133.91306
+  },
+  {
+    "name": "Ulu Siau",
+    "country": "ID",
+    "lat": 2.73144,
+    "lng": 125.40825
+  },
+  {
+    "name": "Uluberiya",
+    "country": "IN",
+    "lat": 22.4756,
+    "lng": 88.09898
+  },
+  {
+    "name": "Ullal",
+    "country": "IN",
+    "lat": 12.80569,
+    "lng": 74.86058
+  },
+  {
+    "name": "Ulhasnagar",
+    "country": "IN",
+    "lat": 19.21667,
+    "lng": 73.15
+  },
+  {
+    "name": "Ulundurpet",
+    "country": "IN",
+    "lat": 11.69099,
+    "lng": 79.2873
+  },
+  {
+    "name": "Ula",
+    "country": "IN",
+    "lat": 22.7225,
+    "lng": 88.55556
+  },
+  {
+    "name": "Ullagaram",
+    "country": "IN",
+    "lat": 12.979,
+    "lng": 80.19703
+  },
+  {
+    "name": "Ulliyeri",
+    "country": "IN",
+    "lat": 11.45247,
+    "lng": 75.76662
+  },
+  {
+    "name": "Ullūr",
+    "country": "IN",
+    "lat": 10.97057,
+    "lng": 79.40632
+  },
+  {
+    "name": "Uliyazhathura",
+    "country": "IN",
+    "lat": 8.58165,
+    "lng": 76.92242
+  },
+  {
+    "name": "Ulassai",
+    "country": "IT",
+    "lat": 39.81033,
+    "lng": 9.49962
+  },
+  {
+    "name": "Uliveto Terme",
+    "country": "IT",
+    "lat": 43.69609,
+    "lng": 10.51728
+  },
+  {
+    "name": "Ulà Tirso",
+    "country": "IT",
+    "lat": 40.0457,
+    "lng": 8.90326
+  },
+  {
+    "name": "Ultimo - Ulten",
+    "country": "IT",
+    "lat": 46.54832,
+    "lng": 11.00417
+  },
+  {
+    "name": "Ulster Spring",
+    "country": "JM",
+    "lat": 18.31482,
+    "lng": -77.52067
+  },
+  {
+    "name": "Ulsan",
+    "country": "KR",
+    "lat": 35.53722,
+    "lng": 129.31667
+  },
+  {
+    "name": "Ulytau",
+    "country": "KZ",
+    "lat": 48.65504,
+    "lng": 67.00586
+  },
+  {
+    "name": "Ul’ba",
+    "country": "KZ",
+    "lat": 50.26581,
+    "lng": 83.37804
+  },
+  {
+    "name": "Ulken Naryn",
+    "country": "KZ",
+    "lat": 49.21245,
+    "lng": 84.50758
+  },
+  {
+    "name": "Ulbroka",
+    "country": "LV",
+    "lat": 56.9363,
+    "lng": 24.30387
+  },
+  {
+    "name": "Ulcinj",
+    "country": "ME",
+    "lat": 41.92936,
+    "lng": 19.22436
+  },
+  {
+    "name": "Uliastay",
+    "country": "MN",
+    "lat": 47.74167,
+    "lng": 96.84444
+  },
+  {
+    "name": "Ulaantolgoy",
+    "country": "MN",
+    "lat": 46.68333,
+    "lng": 92.78333
+  },
+  {
+    "name": "Ulaangom",
+    "country": "MN",
+    "lat": 49.98111,
+    "lng": 92.06667
+  },
+  {
+    "name": "Uldz",
+    "country": "MN",
+    "lat": 48.69028,
+    "lng": 111.99463
+  },
+  {
+    "name": "Ulaan-Uul",
+    "country": "MN",
+    "lat": 46.0674,
+    "lng": 100.81724
+  },
+  {
+    "name": "Ulaan-Uul",
+    "country": "MN",
+    "lat": 44.33333,
+    "lng": 111.23333
+  },
+  {
+    "name": "Ulaanjirem",
+    "country": "MN",
+    "lat": 45.05,
+    "lng": 105.56667
+  },
+  {
+    "name": "Ulaanhudag",
+    "country": "MN",
+    "lat": 47.33333,
+    "lng": 104.5
+  },
+  {
+    "name": "Ulaanhad",
+    "country": "MN",
+    "lat": 47.94993,
+    "lng": 105.55321
+  },
+  {
+    "name": "Ulaan-Ereg",
+    "country": "MN",
+    "lat": 46.9,
+    "lng": 109.75
+  },
+  {
+    "name": "Ulaandel",
+    "country": "MN",
+    "lat": 46.36446,
+    "lng": 113.577
+  },
+  {
+    "name": "Ulan Bator",
+    "country": "MN",
+    "lat": 47.90771,
+    "lng": 106.88324
+  },
+  {
+    "name": "Ulaanshiveet",
+    "country": "MN",
+    "lat": 47.28948,
+    "lng": 103.85659
+  },
+  {
+    "name": "Ulu Tiram",
+    "country": "MY",
+    "lat": 1.6,
+    "lng": 103.81667
+  },
+  {
+    "name": "Ulu Kinta",
+    "country": "MY",
+    "lat": 4.66667,
+    "lng": 101.21667
+  },
+  {
+    "name": "Ulu Kelang",
+    "country": "MY",
+    "lat": 3.18,
+    "lng": 101.773
+  },
+  {
+    "name": "Ulongué",
+    "country": "MZ",
+    "lat": -14.72278,
+    "lng": 34.36083
+  },
+  {
+    "name": "Ulvenhout",
+    "country": "NL",
+    "lat": 51.54907,
+    "lng": 4.79931
+  },
+  {
+    "name": "Ulrum",
+    "country": "NL",
+    "lat": 53.35917,
+    "lng": 6.33333
+  },
+  {
+    "name": "Ulft",
+    "country": "NL",
+    "lat": 51.89,
+    "lng": 6.37778
+  },
+  {
+    "name": "Ulestraten",
+    "country": "NL",
+    "lat": 50.90583,
+    "lng": 5.78194
+  },
+  {
+    "name": "Ulvik",
+    "country": "NO",
+    "lat": 60.56791,
+    "lng": 6.91645
+  },
+  {
+    "name": "Ulsteinvik",
+    "country": "NO",
+    "lat": 62.34317,
+    "lng": 5.84869
+  },
+  {
+    "name": "Ulefoss",
+    "country": "NO",
+    "lat": 59.28245,
+    "lng": 9.26548
+  },
+  {
+    "name": "Ulcumayo",
+    "country": "PE",
+    "lat": -10.96747,
+    "lng": -75.8778
+  },
+  {
+    "name": "Ullulluco",
+    "country": "PE",
+    "lat": -8.45556,
+    "lng": -77.42667
+  },
+  {
+    "name": "Ullpayacu",
+    "country": "PE",
+    "lat": -4.65169,
+    "lng": -76.58781
+  },
+  {
+    "name": "Uling",
+    "country": "PH",
+    "lat": 10.28048,
+    "lng": 123.71
+  },
+  {
+    "name": "Ula",
+    "country": "PH",
+    "lat": 7.13222,
+    "lng": 125.49222
+  },
+  {
+    "name": "Ulhówek",
+    "country": "PL",
+    "lat": 50.44969,
+    "lng": 23.79956
+  },
+  {
+    "name": "Ulanów",
+    "country": "PL",
+    "lat": 50.49031,
+    "lng": 22.26362
+  },
+  {
+    "name": "Ulgueira",
+    "country": "PT",
+    "lat": 38.78642,
+    "lng": -9.47594
+  },
+  {
+    "name": "Ulimang",
+    "country": "PW",
+    "lat": 7.62416,
+    "lng": 134.64208
+  },
+  {
+    "name": "Ulmu",
+    "country": "RO",
+    "lat": 44.95,
+    "lng": 27.31667
+  },
+  {
+    "name": "Ulmu",
+    "country": "RO",
+    "lat": 44.26667,
+    "lng": 26.91667
+  },
+  {
+    "name": "Ulmi",
+    "country": "RO",
+    "lat": 44.9,
+    "lng": 25.5
+  },
+  {
+    "name": "Ulmi",
+    "country": "RO",
+    "lat": 44.48667,
+    "lng": 25.78028
+  },
+  {
+    "name": "Ulmeni",
+    "country": "RO",
+    "lat": 47.46667,
+    "lng": 23.3
+  },
+  {
+    "name": "Ulmeni",
+    "country": "RO",
+    "lat": 45.06667,
+    "lng": 26.65
+  },
+  {
+    "name": "Ulmeni",
+    "country": "RO",
+    "lat": 44.15,
+    "lng": 26.71667
+  },
+  {
+    "name": "Ulma",
+    "country": "RO",
+    "lat": 47.88333,
+    "lng": 25.3
+  },
+  {
+    "name": "Ulieşti",
+    "country": "RO",
+    "lat": 44.58333,
+    "lng": 25.41667
+  },
+  {
+    "name": "Uljma",
+    "country": "RS",
+    "lat": 45.04213,
+    "lng": 21.15393
+  },
+  {
+    "name": "Ulyanovsk",
+    "country": "RU",
+    "lat": 54.32824,
+    "lng": 48.38657
+  },
+  {
+    "name": "Ul’yanovka",
+    "country": "RU",
+    "lat": 59.63944,
+    "lng": 30.76472
+  },
+  {
+    "name": "Ulu-Telyak",
+    "country": "RU",
+    "lat": 54.9157,
+    "lng": 56.9827
+  },
+  {
+    "name": "Ulukulevo",
+    "country": "RU",
+    "lat": 54.4355,
+    "lng": 56.3221
+  },
+  {
+    "name": "Ullubiyaul",
+    "country": "RU",
+    "lat": 42.59689,
+    "lng": 47.71825
+  },
+  {
+    "name": "Ulluaya",
+    "country": "RU",
+    "lat": 42.37377,
+    "lng": 47.37451
+  },
+  {
+    "name": "Ulagan",
+    "country": "RU",
+    "lat": 50.6314,
+    "lng": 87.95897
+  },
+  {
+    "name": "Ulety",
+    "country": "RU",
+    "lat": 51.35589,
+    "lng": 112.4843
+  },
+  {
+    "name": "Ulan-Ude",
+    "country": "RU",
+    "lat": 51.82648,
+    "lng": 107.59979
+  },
+  {
+    "name": "Ulakhan-An",
+    "country": "RU",
+    "lat": 61.30101,
+    "lng": 128.26078
+  },
+  {
+    "name": "Ult-Ugun",
+    "country": "RU",
+    "lat": 61.50571,
+    "lng": 74.21618
+  },
+  {
+    "name": "Ulricehamn",
+    "country": "SE",
+    "lat": 57.79159,
+    "lng": 13.41422
+  },
+  {
+    "name": "Ulu Bedok",
+    "country": "SG",
+    "lat": 1.33333,
+    "lng": 103.93333
+  },
+  {
+    "name": "Uluyatır",
+    "country": "TR",
+    "lat": 36.96333,
+    "lng": 37.69361
+  },
+  {
+    "name": "Ulupınar",
+    "country": "TR",
+    "lat": 36.45344,
+    "lng": 30.43233
+  },
+  {
+    "name": "Ulukışla",
+    "country": "TR",
+    "lat": 37.54776,
+    "lng": 34.48528
+  },
+  {
+    "name": "Uludere",
+    "country": "TR",
+    "lat": 37.44074,
+    "lng": 42.85236
+  },
+  {
+    "name": "Uluborlu",
+    "country": "TR",
+    "lat": 38.07825,
+    "lng": 30.45019
+  },
+  {
+    "name": "Ulubey",
+    "country": "TR",
+    "lat": 38.41987,
+    "lng": 29.29129
+  },
+  {
+    "name": "Ulaşlı",
+    "country": "TR",
+    "lat": 38.17663,
+    "lng": 41.3204
+  },
+  {
+    "name": "Ulaş",
+    "country": "TR",
+    "lat": 39.44492,
+    "lng": 37.039
+  },
+  {
+    "name": "Ulaş",
+    "country": "TR",
+    "lat": 36.99713,
+    "lng": 34.78223
+  },
+  {
+    "name": "Ula",
+    "country": "TR",
+    "lat": 37.10491,
+    "lng": 28.41667
+  },
+  {
+    "name": "Ulukapı",
+    "country": "TR",
+    "lat": 36.81174,
+    "lng": 31.48647
+  },
+  {
+    "name": "Ulus",
+    "country": "TR",
+    "lat": 41.58417,
+    "lng": 32.64139
+  },
+  {
+    "name": "Uluköy",
+    "country": "TR",
+    "lat": 40.78556,
+    "lng": 36.41806
+  },
+  {
+    "name": "Ulubey",
+    "country": "TR",
+    "lat": 40.86863,
+    "lng": 37.75405
+  },
+  {
+    "name": "Ulaşlı",
+    "country": "TR",
+    "lat": 40.70583,
+    "lng": 29.69608
+  },
+  {
+    "name": "Ulugöz",
+    "country": "TR",
+    "lat": 36.35485,
+    "lng": 33.93946
+  },
+  {
+    "name": "Ulenje",
+    "country": "TZ",
+    "lat": -8.93333,
+    "lng": 33.68333
+  },
+  {
+    "name": "Ulychne",
+    "country": "UA",
+    "lat": 49.23164,
+    "lng": 23.64612
+  },
+  {
+    "name": "Ulaniv",
+    "country": "UA",
+    "lat": 49.69512,
+    "lng": 28.13298
+  },
+  {
+    "name": "Ulysses",
+    "country": "US",
+    "lat": 37.58141,
+    "lng": -101.35517
+  },
+  {
+    "name": "Ulundi",
+    "country": "ZA",
+    "lat": -28.33523,
+    "lng": 31.41617
+  }
+]

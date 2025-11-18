@@ -1,0 +1,3194 @@
+[
+  {
+    "name": "Qurghān",
+    "country": "AF",
+    "lat": 36.91939,
+    "lng": 65.0649
+  },
+  {
+    "name": "Quchanghī",
+    "country": "AF",
+    "lat": 34.06183,
+    "lng": 66.27801
+  },
+  {
+    "name": "Qukës-Skënderbe",
+    "country": "AL",
+    "lat": 41.08389,
+    "lng": 20.43806
+  },
+  {
+    "name": "Quibaxe",
+    "country": "AO",
+    "lat": -8.50055,
+    "lng": 14.58589
+  },
+  {
+    "name": "Quipungo",
+    "country": "AO",
+    "lat": -14.81909,
+    "lng": 14.53504
+  },
+  {
+    "name": "Quilenda",
+    "country": "AO",
+    "lat": -11.46667,
+    "lng": 14.13333
+  },
+  {
+    "name": "Quibala",
+    "country": "AO",
+    "lat": -10.73366,
+    "lng": 14.97995
+  },
+  {
+    "name": "Quissecula",
+    "country": "AO",
+    "lat": -11.39223,
+    "lng": 15.09201
+  },
+  {
+    "name": "Quilmes",
+    "country": "AR",
+    "lat": -34.72065,
+    "lng": -58.25454
+  },
+  {
+    "name": "Quitilipi",
+    "country": "AR",
+    "lat": -26.8708,
+    "lng": -60.21537
+  },
+  {
+    "name": "Quimilí",
+    "country": "AR",
+    "lat": -27.64615,
+    "lng": -62.41655
+  },
+  {
+    "name": "Quilino",
+    "country": "AR",
+    "lat": -30.21417,
+    "lng": -64.49937
+  },
+  {
+    "name": "Quemú Quemú",
+    "country": "AR",
+    "lat": -36.05483,
+    "lng": -63.56594
+  },
+  {
+    "name": "Quorn",
+    "country": "AU",
+    "lat": -32.34676,
+    "lng": 138.04176
+  },
+  {
+    "name": "Quindalup",
+    "country": "AU",
+    "lat": -33.6356,
+    "lng": 115.14899
+  },
+  {
+    "name": "Quinns Rocks",
+    "country": "AU",
+    "lat": -31.67379,
+    "lng": 115.70372
+  },
+  {
+    "name": "Quirindi",
+    "country": "AU",
+    "lat": -31.50763,
+    "lng": 150.67902
+  },
+  {
+    "name": "Queenstown",
+    "country": "AU",
+    "lat": -42.0805,
+    "lng": 145.55646
+  },
+  {
+    "name": "Queenscliff",
+    "country": "AU",
+    "lat": -38.26789,
+    "lng": 144.66193
+  },
+  {
+    "name": "Queanbeyan",
+    "country": "AU",
+    "lat": -35.35493,
+    "lng": 149.232
+  },
+  {
+    "name": "Quakers Hill",
+    "country": "AU",
+    "lat": -33.73333,
+    "lng": 150.88333
+  },
+  {
+    "name": "Queens Park",
+    "country": "AU",
+    "lat": -32.00314,
+    "lng": 115.94621
+  },
+  {
+    "name": "Queenstown",
+    "country": "AU",
+    "lat": -34.86091,
+    "lng": 138.51048
+  },
+  {
+    "name": "Queenscliff",
+    "country": "AU",
+    "lat": -33.78278,
+    "lng": 151.28495
+  },
+  {
+    "name": "Quarry Hill",
+    "country": "AU",
+    "lat": -36.77646,
+    "lng": 144.28024
+  },
+  {
+    "name": "Queens Park",
+    "country": "AU",
+    "lat": -33.89946,
+    "lng": 151.24724
+  },
+  {
+    "name": "Queenton",
+    "country": "AU",
+    "lat": -20.07453,
+    "lng": 146.2817
+  },
+  {
+    "name": "Queanbeyan East",
+    "country": "AU",
+    "lat": -35.34625,
+    "lng": 149.24596
+  },
+  {
+    "name": "Queanbeyan West",
+    "country": "AU",
+    "lat": -35.35497,
+    "lng": 149.20412
+  },
+  {
+    "name": "Qubadlı",
+    "country": "AZ",
+    "lat": 39.34441,
+    "lng": 46.58183
+  },
+  {
+    "name": "Qusar",
+    "country": "AZ",
+    "lat": 41.4275,
+    "lng": 48.4302
+  },
+  {
+    "name": "Quba",
+    "country": "AZ",
+    "lat": 41.36108,
+    "lng": 48.51341
+  },
+  {
+    "name": "Quiévrain",
+    "country": "BE",
+    "lat": 50.40737,
+    "lng": 3.68351
+  },
+  {
+    "name": "Quévy-le-Petit",
+    "country": "BE",
+    "lat": 50.36879,
+    "lng": 3.93602
+  },
+  {
+    "name": "Quevaucamps",
+    "country": "BE",
+    "lat": 50.51888,
+    "lng": 3.68128
+  },
+  {
+    "name": "Queue-du-Bois",
+    "country": "BE",
+    "lat": 50.63759,
+    "lng": 5.67993
+  },
+  {
+    "name": "Quenast",
+    "country": "BE",
+    "lat": 50.66959,
+    "lng": 4.15661
+  },
+  {
+    "name": "Quaregnon",
+    "country": "BE",
+    "lat": 50.44067,
+    "lng": 3.8653
+  },
+  {
+    "name": "Quime",
+    "country": "BO",
+    "lat": -16.98333,
+    "lng": -67.21667
+  },
+  {
+    "name": "Quillacollo",
+    "country": "BO",
+    "lat": -17.39228,
+    "lng": -66.27838
+  },
+  {
+    "name": "Quixeré",
+    "country": "BR",
+    "lat": -5.07417,
+    "lng": -37.98861
+  },
+  {
+    "name": "Quixeramobim",
+    "country": "BR",
+    "lat": -5.19917,
+    "lng": -39.29278
+  },
+  {
+    "name": "Quixelô",
+    "country": "BR",
+    "lat": -6.25444,
+    "lng": -39.20194
+  },
+  {
+    "name": "Quixadá",
+    "country": "BR",
+    "lat": -4.97139,
+    "lng": -39.01528
+  },
+  {
+    "name": "Quixabá",
+    "country": "BR",
+    "lat": -7.72028,
+    "lng": -37.84833
+  },
+  {
+    "name": "Quixaba",
+    "country": "BR",
+    "lat": -7.03139,
+    "lng": -37.14861
+  },
+  {
+    "name": "Quipapá",
+    "country": "BR",
+    "lat": -8.82778,
+    "lng": -36.01167
+  },
+  {
+    "name": "Queimadas",
+    "country": "BR",
+    "lat": -7.35833,
+    "lng": -35.89833
+  },
+  {
+    "name": "Queimada Nova",
+    "country": "BR",
+    "lat": -8.57944,
+    "lng": -41.41944
+  },
+  {
+    "name": "Quebrangulo",
+    "country": "BR",
+    "lat": -9.31889,
+    "lng": -36.47111
+  },
+  {
+    "name": "Quatipuru",
+    "country": "BR",
+    "lat": -0.89694,
+    "lng": -47.00528
+  },
+  {
+    "name": "Quiterianópolis",
+    "country": "BR",
+    "lat": -5.84426,
+    "lng": -40.70195
+  },
+  {
+    "name": "Quissamã",
+    "country": "BR",
+    "lat": -22.10667,
+    "lng": -41.47222
+  },
+  {
+    "name": "Quirinópolis",
+    "country": "BR",
+    "lat": -18.44833,
+    "lng": -50.45167
+  },
+  {
+    "name": "Quinze de Novembro",
+    "country": "BR",
+    "lat": -28.74833,
+    "lng": -53.09361
+  },
+  {
+    "name": "Quintana",
+    "country": "BR",
+    "lat": -22.0725,
+    "lng": -50.3075
+  },
+  {
+    "name": "Quinta do Sol",
+    "country": "BR",
+    "lat": -23.85222,
+    "lng": -52.12972
+  },
+  {
+    "name": "Quilombo",
+    "country": "BR",
+    "lat": -26.72611,
+    "lng": -52.72056
+  },
+  {
+    "name": "Quijingue",
+    "country": "BR",
+    "lat": -10.7525,
+    "lng": -39.20917
+  },
+  {
+    "name": "Quevedos",
+    "country": "BR",
+    "lat": -29.3525,
+    "lng": -54.07167
+  },
+  {
+    "name": "Querência do Norte",
+    "country": "BR",
+    "lat": -23.08361,
+    "lng": -53.48444
+  },
+  {
+    "name": "Queluzito",
+    "country": "BR",
+    "lat": -20.74,
+    "lng": -43.88444
+  },
+  {
+    "name": "Queluz",
+    "country": "BR",
+    "lat": -22.53857,
+    "lng": -44.77393
+  },
+  {
+    "name": "Queiroz",
+    "country": "BR",
+    "lat": -21.79889,
+    "lng": -50.24028
+  },
+  {
+    "name": "Queimados",
+    "country": "BR",
+    "lat": -22.71611,
+    "lng": -43.55528
+  },
+  {
+    "name": "Queimadas",
+    "country": "BR",
+    "lat": -10.97833,
+    "lng": -39.62639
+  },
+  {
+    "name": "Quatro Pontes",
+    "country": "BR",
+    "lat": -24.575,
+    "lng": -53.97694
+  },
+  {
+    "name": "Quatro Irmãos",
+    "country": "BR",
+    "lat": -27.82833,
+    "lng": -52.41417
+  },
+  {
+    "name": "Quatro Barras",
+    "country": "BR",
+    "lat": -25.36556,
+    "lng": -49.07694
+  },
+  {
+    "name": "Quatis",
+    "country": "BR",
+    "lat": -22.40722,
+    "lng": -44.25806
+  },
+  {
+    "name": "Quatiguá",
+    "country": "BR",
+    "lat": -23.56722,
+    "lng": -49.91361
+  },
+  {
+    "name": "Quatá",
+    "country": "BR",
+    "lat": -22.2475,
+    "lng": -50.69833
+  },
+  {
+    "name": "Quartel Geral",
+    "country": "BR",
+    "lat": -19.27361,
+    "lng": -45.55722
+  },
+  {
+    "name": "Quaraí",
+    "country": "BR",
+    "lat": -30.3875,
+    "lng": -56.45139
+  },
+  {
+    "name": "Quadra",
+    "country": "BR",
+    "lat": -23.29944,
+    "lng": -48.05472
+  },
+  {
+    "name": "Quedas do Iguaçu",
+    "country": "BR",
+    "lat": -25.45303,
+    "lng": -52.90464
+  },
+  {
+    "name": "Quarto Centenário",
+    "country": "BR",
+    "lat": -24.27944,
+    "lng": -53.07639
+  },
+  {
+    "name": "Querência",
+    "country": "BR",
+    "lat": -12.59694,
+    "lng": -52.19972
+  },
+  {
+    "name": "Quitandinha",
+    "country": "BR",
+    "lat": -25.8725,
+    "lng": -49.49778
+  },
+  {
+    "name": "Quixabeira",
+    "country": "BR",
+    "lat": -11.41167,
+    "lng": -40.12833
+  },
+  {
+    "name": "Qualicum Beach",
+    "country": "CA",
+    "lat": 49.34783,
+    "lng": -124.44231
+  },
+  {
+    "name": "Queensborough",
+    "country": "CA",
+    "lat": 49.18333,
+    "lng": -122.93333
+  },
+  {
+    "name": "Queens Park",
+    "country": "CA",
+    "lat": 49.21563,
+    "lng": -122.90658
+  },
+  {
+    "name": "Queenswood Heights",
+    "country": "CA",
+    "lat": 45.47083,
+    "lng": -75.50556
+  },
+  {
+    "name": "Quesnel",
+    "country": "CA",
+    "lat": 52.97842,
+    "lng": -122.4931
+  },
+  {
+    "name": "Quinte West",
+    "country": "CA",
+    "lat": 44.18342,
+    "lng": -77.56618
+  },
+  {
+    "name": "Quispamsis",
+    "country": "CA",
+    "lat": 45.42135,
+    "lng": -65.95127
+  },
+  {
+    "name": "Québec",
+    "country": "CA",
+    "lat": 46.81228,
+    "lng": -71.21454
+  },
+  {
+    "name": "Quilchena",
+    "country": "CA",
+    "lat": 49.24341,
+    "lng": -123.1508
+  },
+  {
+    "name": "Quarten",
+    "country": "CH",
+    "lat": 47.107,
+    "lng": 9.24199
+  },
+  {
+    "name": "Quirihue",
+    "country": "CL",
+    "lat": -36.27998,
+    "lng": -72.54118
+  },
+  {
+    "name": "Quintero",
+    "country": "CL",
+    "lat": -32.78588,
+    "lng": -71.53222
+  },
+  {
+    "name": "Quilpué",
+    "country": "CL",
+    "lat": -33.04752,
+    "lng": -71.44249
+  },
+  {
+    "name": "Quillota",
+    "country": "CL",
+    "lat": -32.88341,
+    "lng": -71.24882
+  },
+  {
+    "name": "Quillón",
+    "country": "CL",
+    "lat": -36.74553,
+    "lng": -72.47481
+  },
+  {
+    "name": "Quilicura",
+    "country": "CL",
+    "lat": -33.36799,
+    "lng": -70.71388
+  },
+  {
+    "name": "Quellón",
+    "country": "CL",
+    "lat": -43.11819,
+    "lng": -73.61661
+  },
+  {
+    "name": "Quxu",
+    "country": "CN",
+    "lat": 29.3554,
+    "lng": 90.73214
+  },
+  {
+    "name": "Quxar",
+    "country": "CN",
+    "lat": 29.1,
+    "lng": 87.65
+  },
+  {
+    "name": "Qushi",
+    "country": "CN",
+    "lat": 25.21667,
+    "lng": 98.6
+  },
+  {
+    "name": "Qulukay",
+    "country": "CN",
+    "lat": 43.95583,
+    "lng": 81.66222
+  },
+  {
+    "name": "Quyang",
+    "country": "CN",
+    "lat": 33.14472,
+    "lng": 113.99028
+  },
+  {
+    "name": "Quzhou",
+    "country": "CN",
+    "lat": 36.77414,
+    "lng": 114.95044
+  },
+  {
+    "name": "Quzhou",
+    "country": "CN",
+    "lat": 28.95944,
+    "lng": 118.86861
+  },
+  {
+    "name": "Quyang",
+    "country": "CN",
+    "lat": 26.57507,
+    "lng": 109.63808
+  },
+  {
+    "name": "Qu",
+    "country": "CN",
+    "lat": 30.84071,
+    "lng": 106.96898
+  },
+  {
+    "name": "Qushui",
+    "country": "CN",
+    "lat": 30.68316,
+    "lng": 108.02053
+  },
+  {
+    "name": "Qujing",
+    "country": "CN",
+    "lat": 25.48333,
+    "lng": 103.78333
+  },
+  {
+    "name": "Qujiang",
+    "country": "CN",
+    "lat": 30.84206,
+    "lng": 106.96785
+  },
+  {
+    "name": "Qufu",
+    "country": "CN",
+    "lat": 35.59667,
+    "lng": 116.99111
+  },
+  {
+    "name": "Quanzhou",
+    "country": "CN",
+    "lat": 25.93545,
+    "lng": 111.06752
+  },
+  {
+    "name": "Quanzhou",
+    "country": "CN",
+    "lat": 24.91389,
+    "lng": 118.58583
+  },
+  {
+    "name": "Quanjiang",
+    "country": "CN",
+    "lat": 26.30955,
+    "lng": 114.51292
+  },
+  {
+    "name": "Quchi",
+    "country": "CN",
+    "lat": 31.03628,
+    "lng": 109.74886
+  },
+  {
+    "name": "Quwa",
+    "country": "CN",
+    "lat": 33.91885,
+    "lng": 103.99341
+  },
+  {
+    "name": "Qu’ao",
+    "country": "CN",
+    "lat": 35.39397,
+    "lng": 102.92422
+  },
+  {
+    "name": "Qukou",
+    "country": "CN",
+    "lat": 31.13804,
+    "lng": 108.47907
+  },
+  {
+    "name": "Qunli",
+    "country": "CN",
+    "lat": 30.30093,
+    "lng": 105.83766
+  },
+  {
+    "name": "Quzhang",
+    "country": "CN",
+    "lat": 21.85003,
+    "lng": 109.56698
+  },
+  {
+    "name": "Qugaona",
+    "country": "CN",
+    "lat": 33.43322,
+    "lng": 104.62708
+  },
+  {
+    "name": "Quankou",
+    "country": "CN",
+    "lat": 37.35222,
+    "lng": 101.7393
+  },
+  {
+    "name": "Quipile",
+    "country": "CO",
+    "lat": 4.74517,
+    "lng": -74.53378
+  },
+  {
+    "name": "Quinchía",
+    "country": "CO",
+    "lat": 5.33957,
+    "lng": -75.73018
+  },
+  {
+    "name": "Quimbaya",
+    "country": "CO",
+    "lat": 4.62306,
+    "lng": -75.76278
+  },
+  {
+    "name": "Quibdó",
+    "country": "CO",
+    "lat": 5.69188,
+    "lng": -76.65835
+  },
+  {
+    "name": "Quetame",
+    "country": "CO",
+    "lat": 4.33234,
+    "lng": -73.86141
+  },
+  {
+    "name": "Quebradanegra",
+    "country": "CO",
+    "lat": 5.11737,
+    "lng": -74.47944
+  },
+  {
+    "name": "Quípama",
+    "country": "CO",
+    "lat": 5.5194,
+    "lng": -74.17765
+  },
+  {
+    "name": "Quesada",
+    "country": "CR",
+    "lat": 10.3266,
+    "lng": -84.432
+  },
+  {
+    "name": "Quepos",
+    "country": "CR",
+    "lat": 9.43063,
+    "lng": -84.16231
+  },
+  {
+    "name": "Quivicán",
+    "country": "CU",
+    "lat": 22.82313,
+    "lng": -82.35558
+  },
+  {
+    "name": "Quemado de Güines",
+    "country": "CU",
+    "lat": 22.78816,
+    "lng": -80.25226
+  },
+  {
+    "name": "Quitzdorf",
+    "country": "DE",
+    "lat": 51.28333,
+    "lng": 14.76667
+  },
+  {
+    "name": "Quierschied",
+    "country": "DE",
+    "lat": 49.31667,
+    "lng": 7.05
+  },
+  {
+    "name": "Quickborn",
+    "country": "DE",
+    "lat": 53.72821,
+    "lng": 9.91078
+  },
+  {
+    "name": "Quern",
+    "country": "DE",
+    "lat": 54.75859,
+    "lng": 9.72109
+  },
+  {
+    "name": "Querfurt",
+    "country": "DE",
+    "lat": 51.38124,
+    "lng": 11.60047
+  },
+  {
+    "name": "Quellendorf",
+    "country": "DE",
+    "lat": 51.74916,
+    "lng": 12.12796
+  },
+  {
+    "name": "Queis",
+    "country": "DE",
+    "lat": 51.47626,
+    "lng": 12.13455
+  },
+  {
+    "name": "Queidersbach",
+    "country": "DE",
+    "lat": 49.36667,
+    "lng": 7.63333
+  },
+  {
+    "name": "Quedlinburg",
+    "country": "DE",
+    "lat": 51.78843,
+    "lng": 11.15006
+  },
+  {
+    "name": "Quarnbek",
+    "country": "DE",
+    "lat": 54.33042,
+    "lng": 9.98522
+  },
+  {
+    "name": "Quakenbrück",
+    "country": "DE",
+    "lat": 52.67502,
+    "lng": 7.94983
+  },
+  {
+    "name": "Querum -  Wabenkamp",
+    "country": "DE",
+    "lat": 52.29462,
+    "lng": 10.56841
+  },
+  {
+    "name": "Querumer Forst",
+    "country": "DE",
+    "lat": 52.30453,
+    "lng": 10.56407
+  },
+  {
+    "name": "Quisqueya",
+    "country": "DO",
+    "lat": 18.55542,
+    "lng": -69.40814
+  },
+  {
+    "name": "Quisapincha",
+    "country": "EC",
+    "lat": -1.2349,
+    "lng": -78.68463
+  },
+  {
+    "name": "Quito",
+    "country": "EC",
+    "lat": -0.22985,
+    "lng": -78.52495
+  },
+  {
+    "name": "Quiroga",
+    "country": "EC",
+    "lat": 0.28295,
+    "lng": -78.28492
+  },
+  {
+    "name": "Quingue",
+    "country": "EC",
+    "lat": 0.71788,
+    "lng": -80.0944
+  },
+  {
+    "name": "Quimiag",
+    "country": "EC",
+    "lat": -1.658,
+    "lng": -78.56737
+  },
+  {
+    "name": "Quevedo",
+    "country": "EC",
+    "lat": -1.02881,
+    "lng": -79.46264
+  },
+  {
+    "name": "Quero",
+    "country": "EC",
+    "lat": -1.38068,
+    "lng": -78.6083
+  },
+  {
+    "name": "Quinsaloma",
+    "country": "EC",
+    "lat": -1.20601,
+    "lng": -79.31383
+  },
+  {
+    "name": "Quwaysinā",
+    "country": "EG",
+    "lat": 30.56482,
+    "lng": 31.15777
+  },
+  {
+    "name": "Quţūr",
+    "country": "EG",
+    "lat": 30.97225,
+    "lng": 30.95614
+  },
+  {
+    "name": "Quintanar del Rey",
+    "country": "ES",
+    "lat": 39.33333,
+    "lng": -1.93333
+  },
+  {
+    "name": "Quintanar de la Orden",
+    "country": "ES",
+    "lat": 39.59369,
+    "lng": -3.04165
+  },
+  {
+    "name": "Quintana de la Serena",
+    "country": "ES",
+    "lat": 38.74595,
+    "lng": -5.67233
+  },
+  {
+    "name": "Quesada",
+    "country": "ES",
+    "lat": 37.84338,
+    "lng": -3.06561
+  },
+  {
+    "name": "Quesa",
+    "country": "ES",
+    "lat": 39.1197,
+    "lng": -0.74
+  },
+  {
+    "name": "Quero",
+    "country": "ES",
+    "lat": 39.51111,
+    "lng": -3.24741
+  },
+  {
+    "name": "Quéntar",
+    "country": "ES",
+    "lat": 37.19253,
+    "lng": -3.46653
+  },
+  {
+    "name": "Quatretonda",
+    "country": "ES",
+    "lat": 38.95,
+    "lng": -0.4
+  },
+  {
+    "name": "Quartell",
+    "country": "ES",
+    "lat": 39.73751,
+    "lng": -0.26458
+  },
+  {
+    "name": "Quart de Poblet",
+    "country": "ES",
+    "lat": 39.48139,
+    "lng": -0.43937
+  },
+  {
+    "name": "Quismondo",
+    "country": "ES",
+    "lat": 40.10533,
+    "lng": -4.32394
+  },
+  {
+    "name": "Quiruelas de Vidriales",
+    "country": "ES",
+    "lat": 42.01762,
+    "lng": -5.82947
+  },
+  {
+    "name": "Quiroga",
+    "country": "ES",
+    "lat": 42.47678,
+    "lng": -7.27463
+  },
+  {
+    "name": "Quinto",
+    "country": "ES",
+    "lat": 41.42378,
+    "lng": -0.49592
+  },
+  {
+    "name": "Quintela de Leirado",
+    "country": "ES",
+    "lat": 42.13967,
+    "lng": -8.10126
+  },
+  {
+    "name": "Quintanilla de Urz",
+    "country": "ES",
+    "lat": 42.0329,
+    "lng": -5.84866
+  },
+  {
+    "name": "Quintanilla de Trigueros",
+    "country": "ES",
+    "lat": 41.85449,
+    "lng": -4.65931
+  },
+  {
+    "name": "Quintanilla de Onsoña",
+    "country": "ES",
+    "lat": 42.46937,
+    "lng": -4.66385
+  },
+  {
+    "name": "Quintanilla de Onésimo",
+    "country": "ES",
+    "lat": 41.6249,
+    "lng": -4.36291
+  },
+  {
+    "name": "Quintanilla del Olmo",
+    "country": "ES",
+    "lat": 41.90561,
+    "lng": -5.40726
+  },
+  {
+    "name": "Quintanilla del Monte",
+    "country": "ES",
+    "lat": 41.86812,
+    "lng": -5.34928
+  },
+  {
+    "name": "Quintanilla del Molar",
+    "country": "ES",
+    "lat": 41.98935,
+    "lng": -5.44928
+  },
+  {
+    "name": "Quintanilla del Coco",
+    "country": "ES",
+    "lat": 41.98333,
+    "lng": -3.51667
+  },
+  {
+    "name": "Quintanilla de la Mata",
+    "country": "ES",
+    "lat": 41.98855,
+    "lng": -3.76756
+  },
+  {
+    "name": "Quintanilla de Arriba",
+    "country": "ES",
+    "lat": 41.61974,
+    "lng": -4.21774
+  },
+  {
+    "name": "Quintana y Congosto",
+    "country": "ES",
+    "lat": 42.25585,
+    "lng": -6.03636
+  },
+  {
+    "name": "Quintanavides",
+    "country": "ES",
+    "lat": 42.48084,
+    "lng": -3.42449
+  },
+  {
+    "name": "Quintanas de Gormaz",
+    "country": "ES",
+    "lat": 41.50926,
+    "lng": -2.97631
+  },
+  {
+    "name": "Quintana Redonda",
+    "country": "ES",
+    "lat": 41.63905,
+    "lng": -2.61449
+  },
+  {
+    "name": "Quintanar de la Sierra",
+    "country": "ES",
+    "lat": 41.98288,
+    "lng": -3.03765
+  },
+  {
+    "name": "Quintanapalla",
+    "country": "ES",
+    "lat": 42.40914,
+    "lng": -3.53296
+  },
+  {
+    "name": "Quintanaortuño",
+    "country": "ES",
+    "lat": 42.45,
+    "lng": -3.68333
+  },
+  {
+    "name": "Quintanaélez",
+    "country": "ES",
+    "lat": 42.66921,
+    "lng": -3.29877
+  },
+  {
+    "name": "Quintana del Puente",
+    "country": "ES",
+    "lat": 42.08471,
+    "lng": -4.20649
+  },
+  {
+    "name": "Quintana del Pidio",
+    "country": "ES",
+    "lat": 41.75886,
+    "lng": -3.75121
+  },
+  {
+    "name": "Quintana del Marco",
+    "country": "ES",
+    "lat": 42.2067,
+    "lng": -5.8503
+  },
+  {
+    "name": "Quintana del Castillo",
+    "country": "ES",
+    "lat": 42.65987,
+    "lng": -6.04978
+  },
+  {
+    "name": "Quintanabureba",
+    "country": "ES",
+    "lat": 42.58665,
+    "lng": -3.36685
+  },
+  {
+    "name": "Quijorna",
+    "country": "ES",
+    "lat": 40.42763,
+    "lng": -4.05683
+  },
+  {
+    "name": "Quicena",
+    "country": "ES",
+    "lat": 42.14797,
+    "lng": -0.36049
+  },
+  {
+    "name": "Querol",
+    "country": "ES",
+    "lat": 41.42293,
+    "lng": 1.39684
+  },
+  {
+    "name": "Quer",
+    "country": "ES",
+    "lat": 40.60532,
+    "lng": -3.2753
+  },
+  {
+    "name": "Quemada",
+    "country": "ES",
+    "lat": 41.70073,
+    "lng": -3.57476
+  },
+  {
+    "name": "Quel",
+    "country": "ES",
+    "lat": 42.22979,
+    "lng": -2.05196
+  },
+  {
+    "name": "Quart d'Onyar",
+    "country": "ES",
+    "lat": 41.94047,
+    "lng": 2.84079
+  },
+  {
+    "name": "Quintana",
+    "country": "ES",
+    "lat": 40.43701,
+    "lng": -3.64507
+  },
+  {
+    "name": "Quistinic",
+    "country": "FR",
+    "lat": 47.90456,
+    "lng": -3.13459
+  },
+  {
+    "name": "Quissac",
+    "country": "FR",
+    "lat": 43.91073,
+    "lng": 4.00102
+  },
+  {
+    "name": "Quintin",
+    "country": "FR",
+    "lat": 48.4033,
+    "lng": -2.91019
+  },
+  {
+    "name": "Quintenas",
+    "country": "FR",
+    "lat": 45.18892,
+    "lng": 4.68743
+  },
+  {
+    "name": "Quinssaines",
+    "country": "FR",
+    "lat": 46.32721,
+    "lng": 2.5104
+  },
+  {
+    "name": "Quinsac",
+    "country": "FR",
+    "lat": 44.75537,
+    "lng": -0.48844
+  },
+  {
+    "name": "Quingey",
+    "country": "FR",
+    "lat": 47.1025,
+    "lng": 5.88312
+  },
+  {
+    "name": "Quincy-Voisins",
+    "country": "FR",
+    "lat": 48.90114,
+    "lng": 2.87559
+  },
+  {
+    "name": "Quincy-sous-Sénart",
+    "country": "FR",
+    "lat": 48.67294,
+    "lng": 2.53419
+  },
+  {
+    "name": "Quincieux",
+    "country": "FR",
+    "lat": 45.91374,
+    "lng": 4.77698
+  },
+  {
+    "name": "Quincié-en-Beaujolais",
+    "country": "FR",
+    "lat": 46.11898,
+    "lng": 4.61635
+  },
+  {
+    "name": "Quincey",
+    "country": "FR",
+    "lat": 47.61165,
+    "lng": 6.18556
+  },
+  {
+    "name": "Quincampoix",
+    "country": "FR",
+    "lat": 49.5271,
+    "lng": 1.18849
+  },
+  {
+    "name": "Quimperlé",
+    "country": "FR",
+    "lat": 47.87215,
+    "lng": -3.54994
+  },
+  {
+    "name": "Quimper",
+    "country": "FR",
+    "lat": 47.99597,
+    "lng": -4.09795
+  },
+  {
+    "name": "Quilly",
+    "country": "FR",
+    "lat": 47.46182,
+    "lng": -1.95411
+  },
+  {
+    "name": "Quillebeuf-sur-Seine",
+    "country": "FR",
+    "lat": 49.46934,
+    "lng": 0.52793
+  },
+  {
+    "name": "Quillan",
+    "country": "FR",
+    "lat": 42.87549,
+    "lng": 2.18142
+  },
+  {
+    "name": "Quiévy",
+    "country": "FR",
+    "lat": 50.16804,
+    "lng": 3.42834
+  },
+  {
+    "name": "Quiévrechain",
+    "country": "FR",
+    "lat": 50.39172,
+    "lng": 3.66815
+  },
+  {
+    "name": "Quiers-sur-Bézonde",
+    "country": "FR",
+    "lat": 47.99615,
+    "lng": 2.44141
+  },
+  {
+    "name": "Quiberon",
+    "country": "FR",
+    "lat": 47.48368,
+    "lng": -3.11986
+  },
+  {
+    "name": "Quévert",
+    "country": "FR",
+    "lat": 48.46391,
+    "lng": -2.08663
+  },
+  {
+    "name": "Quéven",
+    "country": "FR",
+    "lat": 47.78887,
+    "lng": -3.41616
+  },
+  {
+    "name": "Quevauvillers",
+    "country": "FR",
+    "lat": 49.82376,
+    "lng": 2.08431
+  },
+  {
+    "name": "Quettreville-sur-Sienne",
+    "country": "FR",
+    "lat": 48.96802,
+    "lng": -1.46782
+  },
+  {
+    "name": "Quettehou",
+    "country": "FR",
+    "lat": 49.59308,
+    "lng": -1.30352
+  },
+  {
+    "name": "Quetigny",
+    "country": "FR",
+    "lat": 47.31667,
+    "lng": 5.11667
+  },
+  {
+    "name": "Questembert",
+    "country": "FR",
+    "lat": 47.661,
+    "lng": -2.45323
+  },
+  {
+    "name": "Quessoy",
+    "country": "FR",
+    "lat": 48.42141,
+    "lng": -2.65873
+  },
+  {
+    "name": "Quesnoy-sur-Deûle",
+    "country": "FR",
+    "lat": 50.71359,
+    "lng": 2.99996
+  },
+  {
+    "name": "Querrien",
+    "country": "FR",
+    "lat": 47.9595,
+    "lng": -3.53705
+  },
+  {
+    "name": "Querqueville",
+    "country": "FR",
+    "lat": 49.66251,
+    "lng": -1.69119
+  },
+  {
+    "name": "Quend",
+    "country": "FR",
+    "lat": 50.31584,
+    "lng": 1.63609
+  },
+  {
+    "name": "Quemper-Guézennec",
+    "country": "FR",
+    "lat": 48.70421,
+    "lng": -3.10595
+  },
+  {
+    "name": "Quéménéven",
+    "country": "FR",
+    "lat": 48.11357,
+    "lng": -4.12152
+  },
+  {
+    "name": "Quelaines-Saint-Gault",
+    "country": "FR",
+    "lat": 47.93333,
+    "lng": -0.8
+  },
+  {
+    "name": "Quédillac",
+    "country": "FR",
+    "lat": 48.25001,
+    "lng": -2.14225
+  },
+  {
+    "name": "Québriac",
+    "country": "FR",
+    "lat": 48.34504,
+    "lng": -1.82735
+  },
+  {
+    "name": "Quarouble",
+    "country": "FR",
+    "lat": 50.38634,
+    "lng": 3.62306
+  },
+  {
+    "name": "Quarante",
+    "country": "FR",
+    "lat": 43.34665,
+    "lng": 2.96265
+  },
+  {
+    "name": "Quaëdypre",
+    "country": "FR",
+    "lat": 50.93527,
+    "lng": 2.45445
+  },
+  {
+    "name": "Quinze-Vingts",
+    "country": "FR",
+    "lat": 48.84656,
+    "lng": 2.37439
+  },
+  {
+    "name": "Quorndon",
+    "country": "GB",
+    "lat": 52.74461,
+    "lng": -1.17348
+  },
+  {
+    "name": "Queniborough",
+    "country": "GB",
+    "lat": 52.70591,
+    "lng": -1.04749
+  },
+  {
+    "name": "Queensferry",
+    "country": "GB",
+    "lat": 55.99089,
+    "lng": -3.39847
+  },
+  {
+    "name": "Queensferry",
+    "country": "GB",
+    "lat": 53.2,
+    "lng": -3.03333
+  },
+  {
+    "name": "Queensbury",
+    "country": "GB",
+    "lat": 53.76657,
+    "lng": -1.84912
+  },
+  {
+    "name": "Queenborough",
+    "country": "GB",
+    "lat": 51.4176,
+    "lng": 0.74441
+  },
+  {
+    "name": "Queen's Park",
+    "country": "GB",
+    "lat": 51.52949,
+    "lng": -0.20868
+  },
+  {
+    "name": "Quezaltepeque",
+    "country": "GT",
+    "lat": 14.63553,
+    "lng": -89.44241
+  },
+  {
+    "name": "Quetzaltenango",
+    "country": "GT",
+    "lat": 14.84462,
+    "lng": -91.52316
+  },
+  {
+    "name": "Quesada",
+    "country": "GT",
+    "lat": 14.27028,
+    "lng": -90.04028
+  },
+  {
+    "name": "Quinhámel",
+    "country": "GW",
+    "lat": 11.88694,
+    "lng": -15.85556
+  },
+  {
+    "name": "Quebo",
+    "country": "GW",
+    "lat": 11.33333,
+    "lng": -14.93333
+  },
+  {
+    "name": "Quarry Bay",
+    "country": "HK",
+    "lat": 22.28768,
+    "lng": 114.2135
+  },
+  {
+    "name": "Queen's Terrace",
+    "country": "HK",
+    "lat": 22.28702,
+    "lng": 114.14723
+  },
+  {
+    "name": "Quimistán",
+    "country": "HN",
+    "lat": 15.34752,
+    "lng": -88.4052
+  },
+  {
+    "name": "Quezailica",
+    "country": "HN",
+    "lat": 14.87652,
+    "lng": -88.72714
+  },
+  {
+    "name": "Quebrada Seca",
+    "country": "HN",
+    "lat": 15.66065,
+    "lng": -87.9493
+  },
+  {
+    "name": "Quebradas",
+    "country": "HN",
+    "lat": 14.5,
+    "lng": -87.35
+  },
+  {
+    "name": "Quebrada Larga",
+    "country": "HN",
+    "lat": 14.1,
+    "lng": -86.36667
+  },
+  {
+    "name": "Quebrada de Arena",
+    "country": "HN",
+    "lat": 15.76667,
+    "lng": -85.91667
+  },
+  {
+    "name": "Quartier Morin",
+    "country": "HT",
+    "lat": 19.69696,
+    "lng": -72.15712
+  },
+  {
+    "name": "Queula",
+    "country": "IN",
+    "lat": 15.39011,
+    "lng": 73.98557
+  },
+  {
+    "name": "Quepem",
+    "country": "IN",
+    "lat": 15.2128,
+    "lng": 74.0772
+  },
+  {
+    "name": "Quthbullapur",
+    "country": "IN",
+    "lat": 17.50107,
+    "lng": 78.45818
+  },
+  {
+    "name": "Quimoh",
+    "country": "IN",
+    "lat": 33.72154,
+    "lng": 75.08562
+  },
+  {
+    "name": "Qushtepe",
+    "country": "IQ",
+    "lat": 36.00887,
+    "lng": 44.03205
+  },
+  {
+    "name": "Quattromiglia",
+    "country": "IT",
+    "lat": 39.34474,
+    "lng": 16.23802
+  },
+  {
+    "name": "Quartu Sant'Elena",
+    "country": "IT",
+    "lat": 39.22935,
+    "lng": 9.25004
+  },
+  {
+    "name": "Quartucciu",
+    "country": "IT",
+    "lat": 39.25262,
+    "lng": 9.17764
+  },
+  {
+    "name": "Quistello",
+    "country": "IT",
+    "lat": 45.00794,
+    "lng": 10.98377
+  },
+  {
+    "name": "Quinzano d'Oglio",
+    "country": "IT",
+    "lat": 45.3143,
+    "lng": 10.00785
+  },
+  {
+    "name": "Quinto Vicentino",
+    "country": "IT",
+    "lat": 45.57534,
+    "lng": 11.62815
+  },
+  {
+    "name": "Quinto Vercellese",
+    "country": "IT",
+    "lat": 45.3792,
+    "lng": 8.3621
+  },
+  {
+    "name": "Quinto di Treviso",
+    "country": "IT",
+    "lat": 45.64351,
+    "lng": 12.16509
+  },
+  {
+    "name": "Quingentole",
+    "country": "IT",
+    "lat": 45.03801,
+    "lng": 11.04575
+  },
+  {
+    "name": "Quindici",
+    "country": "IT",
+    "lat": 40.86497,
+    "lng": 14.64663
+  },
+  {
+    "name": "Quincinetto",
+    "country": "IT",
+    "lat": 45.56157,
+    "lng": 7.80834
+  },
+  {
+    "name": "Quiliano",
+    "country": "IT",
+    "lat": 44.29215,
+    "lng": 8.41406
+  },
+  {
+    "name": "Quero",
+    "country": "IT",
+    "lat": 45.92094,
+    "lng": 11.93151
+  },
+  {
+    "name": "Quercianella",
+    "country": "IT",
+    "lat": 43.45959,
+    "lng": 10.36757
+  },
+  {
+    "name": "Quattro Castella",
+    "country": "IT",
+    "lat": 44.63496,
+    "lng": 10.47429
+  },
+  {
+    "name": "Quattordio",
+    "country": "IT",
+    "lat": 44.89877,
+    "lng": 8.40495
+  },
+  {
+    "name": "Quassolo",
+    "country": "IT",
+    "lat": 45.52294,
+    "lng": 7.83305
+  },
+  {
+    "name": "Quasano",
+    "country": "IT",
+    "lat": 40.96724,
+    "lng": 16.57354
+  },
+  {
+    "name": "Quarto Oggiaro",
+    "country": "IT",
+    "lat": 45.51314,
+    "lng": 9.14343
+  },
+  {
+    "name": "Quarto Inferiore",
+    "country": "IT",
+    "lat": 44.5309,
+    "lng": 11.41679
+  },
+  {
+    "name": "Quarto d'Altino",
+    "country": "IT",
+    "lat": 45.57944,
+    "lng": 12.37333
+  },
+  {
+    "name": "Quartesana",
+    "country": "IT",
+    "lat": 44.8049,
+    "lng": 11.73873
+  },
+  {
+    "name": "Quart",
+    "country": "IT",
+    "lat": 45.74096,
+    "lng": 7.4152
+  },
+  {
+    "name": "Quarrata",
+    "country": "IT",
+    "lat": 43.84837,
+    "lng": 10.97888
+  },
+  {
+    "name": "Quarona",
+    "country": "IT",
+    "lat": 45.76044,
+    "lng": 8.26749
+  },
+  {
+    "name": "Quarna Sopra",
+    "country": "IT",
+    "lat": 45.87307,
+    "lng": 8.37355
+  },
+  {
+    "name": "Quargnento",
+    "country": "IT",
+    "lat": 44.94566,
+    "lng": 8.48821
+  },
+  {
+    "name": "Quarata",
+    "country": "IT",
+    "lat": 43.49859,
+    "lng": 11.82742
+  },
+  {
+    "name": "Quarantoli",
+    "country": "IT",
+    "lat": 44.91954,
+    "lng": 11.10324
+  },
+  {
+    "name": "Qualiano",
+    "country": "IT",
+    "lat": 40.91899,
+    "lng": 14.15352
+  },
+  {
+    "name": "Quagliuzzo",
+    "country": "IT",
+    "lat": 45.42654,
+    "lng": 7.78101
+  },
+  {
+    "name": "Quadri",
+    "country": "IT",
+    "lat": 41.92402,
+    "lng": 14.28768
+  },
+  {
+    "name": "Quadrelle",
+    "country": "IT",
+    "lat": 40.94851,
+    "lng": 14.63934
+  },
+  {
+    "name": "Quartiano",
+    "country": "IT",
+    "lat": 45.358,
+    "lng": 9.4176
+  },
+  {
+    "name": "Quarto",
+    "country": "IT",
+    "lat": 40.87822,
+    "lng": 14.14352
+  },
+  {
+    "name": "Quaranti",
+    "country": "IT",
+    "lat": 44.75095,
+    "lng": 8.44914
+  },
+  {
+    "name": "Quintano",
+    "country": "IT",
+    "lat": 45.42047,
+    "lng": 9.61856
+  },
+  {
+    "name": "Quarna Sotto",
+    "country": "IT",
+    "lat": 45.86917,
+    "lng": 8.36332
+  },
+  {
+    "name": "Quaregna",
+    "country": "IT",
+    "lat": 45.58116,
+    "lng": 8.16372
+  },
+  {
+    "name": "Quadrivio",
+    "country": "IT",
+    "lat": 40.62494,
+    "lng": 15.10353
+  },
+  {
+    "name": "Quattro Strade",
+    "country": "IT",
+    "lat": 45.6955,
+    "lng": 9.37681
+  },
+  {
+    "name": "Quaderni",
+    "country": "IT",
+    "lat": 45.32915,
+    "lng": 10.78951
+  },
+  {
+    "name": "Quattro Strade",
+    "country": "IT",
+    "lat": 43.70936,
+    "lng": 10.65824
+  },
+  {
+    "name": "Quattro Strade",
+    "country": "IT",
+    "lat": 43.74148,
+    "lng": 11.0807
+  },
+  {
+    "name": "Quincod",
+    "country": "IT",
+    "lat": 45.71513,
+    "lng": 7.73495
+  },
+  {
+    "name": "Quickstep",
+    "country": "JM",
+    "lat": 18.25268,
+    "lng": -77.7044
+  },
+  {
+    "name": "Qumaym",
+    "country": "JO",
+    "lat": 32.57174,
+    "lng": 35.73452
+  },
+  {
+    "name": "Qulsary",
+    "country": "KZ",
+    "lat": 46.95307,
+    "lng": 54.01978
+  },
+  {
+    "name": "Qusmuryn",
+    "country": "KZ",
+    "lat": 52.45144,
+    "lng": 64.61682
+  },
+  {
+    "name": "Quthing",
+    "country": "LS",
+    "lat": -30.40001,
+    "lng": 27.70027
+  },
+  {
+    "name": "Quartier d’Orléans",
+    "country": "MF",
+    "lat": 18.06912,
+    "lng": -63.03542
+  },
+  {
+    "name": "Queen Victoria",
+    "country": "MU",
+    "lat": -20.22,
+    "lng": 57.7075
+  },
+  {
+    "name": "Quatre Soeurs",
+    "country": "MU",
+    "lat": -20.29917,
+    "lng": 57.77056
+  },
+  {
+    "name": "Quatre Bornes",
+    "country": "MU",
+    "lat": -20.26381,
+    "lng": 57.4791
+  },
+  {
+    "name": "Quartier Militaire",
+    "country": "MU",
+    "lat": -20.2479,
+    "lng": 57.59737
+  },
+  {
+    "name": "Quatre Cocos",
+    "country": "MU",
+    "lat": -20.20151,
+    "lng": 57.77448
+  },
+  {
+    "name": "Quintero",
+    "country": "MX",
+    "lat": 22.66281,
+    "lng": -99.03629
+  },
+  {
+    "name": "Quintana Roo",
+    "country": "MX",
+    "lat": 20.86946,
+    "lng": -88.63153
+  },
+  {
+    "name": "Quiamoloapan",
+    "country": "MX",
+    "lat": 18.0618,
+    "lng": -94.99574
+  },
+  {
+    "name": "Quetzalapa",
+    "country": "MX",
+    "lat": 16.78551,
+    "lng": -98.50272
+  },
+  {
+    "name": "Quechultenango",
+    "country": "MX",
+    "lat": 17.41425,
+    "lng": -99.24221
+  },
+  {
+    "name": "Quechulac",
+    "country": "MX",
+    "lat": 19.37273,
+    "lng": -97.34783
+  },
+  {
+    "name": "Quecholac",
+    "country": "MX",
+    "lat": 18.95471,
+    "lng": -97.65858
+  },
+  {
+    "name": "Quebrantadero",
+    "country": "MX",
+    "lat": 18.52429,
+    "lng": -98.79023
+  },
+  {
+    "name": "Quinicuena",
+    "country": "MX",
+    "lat": 16.53101,
+    "lng": -97.52385
+  },
+  {
+    "name": "Quelové",
+    "country": "MX",
+    "lat": 15.98273,
+    "lng": -96.6789
+  },
+  {
+    "name": "Quintín Arauz",
+    "country": "MX",
+    "lat": 18.36725,
+    "lng": -93.21419
+  },
+  {
+    "name": "Querétaro",
+    "country": "MX",
+    "lat": 15.83752,
+    "lng": -92.75774
+  },
+  {
+    "name": "Quamila",
+    "country": "MX",
+    "lat": 20.16632,
+    "lng": -97.91855
+  },
+  {
+    "name": "Quitupan",
+    "country": "MX",
+    "lat": 19.92707,
+    "lng": -102.87271
+  },
+  {
+    "name": "Quiroga",
+    "country": "MX",
+    "lat": 19.66557,
+    "lng": -101.52287
+  },
+  {
+    "name": "Quiriego",
+    "country": "MX",
+    "lat": 27.51947,
+    "lng": -109.25248
+  },
+  {
+    "name": "Quinceo",
+    "country": "MX",
+    "lat": 19.5947,
+    "lng": -101.99977
+  },
+  {
+    "name": "Quimichis",
+    "country": "MX",
+    "lat": 22.36122,
+    "lng": -105.53913
+  },
+  {
+    "name": "Quilá",
+    "country": "MX",
+    "lat": 24.42273,
+    "lng": -107.22139
+  },
+  {
+    "name": "Querobabi",
+    "country": "MX",
+    "lat": 30.05075,
+    "lng": -111.02811
+  },
+  {
+    "name": "Queréndaro",
+    "country": "MX",
+    "lat": 19.80954,
+    "lng": -100.8906
+  },
+  {
+    "name": "Quetchehueca",
+    "country": "MX",
+    "lat": 27.2641,
+    "lng": -109.94982
+  },
+  {
+    "name": "Quesería",
+    "country": "MX",
+    "lat": 19.38708,
+    "lng": -103.57243
+  },
+  {
+    "name": "Quinto Barrio (Ejido Cahuacán)",
+    "country": "MX",
+    "lat": 19.62222,
+    "lng": -99.41806
+  },
+  {
+    "name": "Quinta del Cedro",
+    "country": "MX",
+    "lat": 32.4375,
+    "lng": -117.06583
+  },
+  {
+    "name": "Querendas",
+    "country": "MX",
+    "lat": 18.3425,
+    "lng": -100.63444
+  },
+  {
+    "name": "Quintana Roo",
+    "country": "MX",
+    "lat": 16.60667,
+    "lng": -93.56194
+  },
+  {
+    "name": "Quetzalapa",
+    "country": "MX",
+    "lat": 18.94056,
+    "lng": -99.59694
+  },
+  {
+    "name": "Quissico",
+    "country": "MZ",
+    "lat": -24.72028,
+    "lng": 34.7425
+  },
+  {
+    "name": "Quelimane",
+    "country": "MZ",
+    "lat": -17.87861,
+    "lng": 36.88833
+  },
+  {
+    "name": "Quartier Latin",
+    "country": "NC",
+    "lat": -22.27538,
+    "lng": 166.44651
+  },
+  {
+    "name": "Quatrième Kilomètre",
+    "country": "NC",
+    "lat": -22.24616,
+    "lng": 166.46159
+  },
+  {
+    "name": "Quilalí",
+    "country": "NI",
+    "lat": 13.56695,
+    "lng": -86.026
+  },
+  {
+    "name": "Quezalguaque",
+    "country": "NI",
+    "lat": 12.50683,
+    "lng": -86.90292
+  },
+  {
+    "name": "Quirijnstok",
+    "country": "NL",
+    "lat": 51.5843,
+    "lng": 5.0981
+  },
+  {
+    "name": "Queenstown",
+    "country": "NZ",
+    "lat": -45.03023,
+    "lng": 168.66271
+  },
+  {
+    "name": "Queenwood",
+    "country": "NZ",
+    "lat": -37.74861,
+    "lng": 175.26562
+  },
+  {
+    "name": "Querévalo",
+    "country": "PA",
+    "lat": 8.37236,
+    "lng": -82.51989
+  },
+  {
+    "name": "Quebrada de Piedra",
+    "country": "PA",
+    "lat": 8.0954,
+    "lng": -81.68291
+  },
+  {
+    "name": "Quebrada de Oro",
+    "country": "PA",
+    "lat": 8.03548,
+    "lng": -81.38692
+  },
+  {
+    "name": "Quebrada del Rosario Arriba",
+    "country": "PA",
+    "lat": 7.71758,
+    "lng": -80.73888
+  },
+  {
+    "name": "Quebrada de Loro",
+    "country": "PA",
+    "lat": 8.35442,
+    "lng": -81.91803
+  },
+  {
+    "name": "Quebrada Bonita Adentro",
+    "country": "PA",
+    "lat": 9.29648,
+    "lng": -79.70628
+  },
+  {
+    "name": "Quebro",
+    "country": "PA",
+    "lat": 7.43867,
+    "lng": -80.88592
+  },
+  {
+    "name": "Quebrada del Rosario",
+    "country": "PA",
+    "lat": 7.71238,
+    "lng": -80.74222
+  },
+  {
+    "name": "Quebrada Tula",
+    "country": "PA",
+    "lat": 8.83988,
+    "lng": -81.9974
+  },
+  {
+    "name": "Quivilla",
+    "country": "PE",
+    "lat": -9.59929,
+    "lng": -76.72494
+  },
+  {
+    "name": "Quiruvilca",
+    "country": "PE",
+    "lat": -7.96667,
+    "lng": -78.2
+  },
+  {
+    "name": "Quinuabamba",
+    "country": "PE",
+    "lat": -8.69713,
+    "lng": -77.39851
+  },
+  {
+    "name": "Quinjalca",
+    "country": "PE",
+    "lat": -6.09222,
+    "lng": -77.67806
+  },
+  {
+    "name": "Quillo",
+    "country": "PE",
+    "lat": -9.3289,
+    "lng": -78.04198
+  },
+  {
+    "name": "Quiches",
+    "country": "PE",
+    "lat": -8.39506,
+    "lng": -77.49075
+  },
+  {
+    "name": "Querocoto",
+    "country": "PE",
+    "lat": -6.35931,
+    "lng": -79.03453
+  },
+  {
+    "name": "Querocotillo",
+    "country": "PE",
+    "lat": -6.27356,
+    "lng": -79.03816
+  },
+  {
+    "name": "Querecotillo",
+    "country": "PE",
+    "lat": -4.83778,
+    "lng": -80.64556
+  },
+  {
+    "name": "Quito-Arma",
+    "country": "PE",
+    "lat": -13.52854,
+    "lng": -75.32759
+  },
+  {
+    "name": "Quiquijana",
+    "country": "PE",
+    "lat": -13.82268,
+    "lng": -71.54217
+  },
+  {
+    "name": "Quinua",
+    "country": "PE",
+    "lat": -13.04917,
+    "lng": -74.13861
+  },
+  {
+    "name": "Quiñota",
+    "country": "PE",
+    "lat": -14.31154,
+    "lng": -72.13903
+  },
+  {
+    "name": "Quinocay",
+    "country": "PE",
+    "lat": -12.36667,
+    "lng": -76.23333
+  },
+  {
+    "name": "Quinistaquillas",
+    "country": "PE",
+    "lat": -16.74877,
+    "lng": -70.87957
+  },
+  {
+    "name": "Quince Mil",
+    "country": "PE",
+    "lat": -13.23069,
+    "lng": -70.75446
+  },
+  {
+    "name": "Quilmaná",
+    "country": "PE",
+    "lat": -12.9486,
+    "lng": -76.38112
+  },
+  {
+    "name": "Quillabamba",
+    "country": "PE",
+    "lat": -12.86334,
+    "lng": -72.69306
+  },
+  {
+    "name": "Quilcata",
+    "country": "PE",
+    "lat": -15.24585,
+    "lng": -73.45141
+  },
+  {
+    "name": "Quilca",
+    "country": "PE",
+    "lat": -16.71686,
+    "lng": -72.42549
+  },
+  {
+    "name": "Quilahuani",
+    "country": "PE",
+    "lat": -17.31802,
+    "lng": -70.25848
+  },
+  {
+    "name": "Quicacha",
+    "country": "PE",
+    "lat": -15.62564,
+    "lng": -73.79844
+  },
+  {
+    "name": "Quiaca",
+    "country": "PE",
+    "lat": -14.4223,
+    "lng": -69.34498
+  },
+  {
+    "name": "Queropalca",
+    "country": "PE",
+    "lat": -10.18191,
+    "lng": -76.80332
+  },
+  {
+    "name": "Querobamba",
+    "country": "PE",
+    "lat": -14.01333,
+    "lng": -73.83972
+  },
+  {
+    "name": "Querco",
+    "country": "PE",
+    "lat": -13.98039,
+    "lng": -74.9765
+  },
+  {
+    "name": "Quequeña",
+    "country": "PE",
+    "lat": -16.5574,
+    "lng": -71.45132
+  },
+  {
+    "name": "Quellouno",
+    "country": "PE",
+    "lat": -12.63667,
+    "lng": -72.55944
+  },
+  {
+    "name": "Quehue",
+    "country": "PE",
+    "lat": -14.38,
+    "lng": -71.455
+  },
+  {
+    "name": "Quebrada Honda",
+    "country": "PE",
+    "lat": -12.68178,
+    "lng": -72.27768
+  },
+  {
+    "name": "Queromarca",
+    "country": "PE",
+    "lat": -14.18391,
+    "lng": -71.38343
+  },
+  {
+    "name": "Quilcas",
+    "country": "PE",
+    "lat": -11.93581,
+    "lng": -75.25959
+  },
+  {
+    "name": "Quichuay",
+    "country": "PE",
+    "lat": -11.88982,
+    "lng": -75.28571
+  },
+  {
+    "name": "Quishuar",
+    "country": "PE",
+    "lat": -12.24397,
+    "lng": -74.77748
+  },
+  {
+    "name": "Quichuas",
+    "country": "PE",
+    "lat": -12.46944,
+    "lng": -74.77148
+  },
+  {
+    "name": "Quilcapuncu",
+    "country": "PE",
+    "lat": -14.89299,
+    "lng": -69.73024
+  },
+  {
+    "name": "Quitang",
+    "country": "PH",
+    "lat": 13.5513,
+    "lng": 123.0529
+  },
+  {
+    "name": "Quisao",
+    "country": "PH",
+    "lat": 14.4347,
+    "lng": 121.3344
+  },
+  {
+    "name": "Quirino",
+    "country": "PH",
+    "lat": 17.15556,
+    "lng": 120.67
+  },
+  {
+    "name": "Quirino",
+    "country": "PH",
+    "lat": 17.13333,
+    "lng": 121.7
+  },
+  {
+    "name": "Quipot",
+    "country": "PH",
+    "lat": 13.9556,
+    "lng": 121.31903
+  },
+  {
+    "name": "Quipot",
+    "country": "PH",
+    "lat": 11.28333,
+    "lng": 123.0
+  },
+  {
+    "name": "Quintong",
+    "country": "PH",
+    "lat": 15.95581,
+    "lng": 120.32171
+  },
+  {
+    "name": "Quinipot",
+    "country": "PH",
+    "lat": 7.18028,
+    "lng": 122.22028
+  },
+  {
+    "name": "Quinarayan",
+    "country": "PH",
+    "lat": 17.4441,
+    "lng": 120.4722
+  },
+  {
+    "name": "Quinapundan",
+    "country": "PH",
+    "lat": 11.15833,
+    "lng": 125.52194
+  },
+  {
+    "name": "Quinagaringan",
+    "country": "PH",
+    "lat": 11.1222,
+    "lng": 122.5875
+  },
+  {
+    "name": "Quinabigan",
+    "country": "PH",
+    "lat": 12.9936,
+    "lng": 121.47812
+  },
+  {
+    "name": "Quilo-quilo",
+    "country": "PH",
+    "lat": 13.8638,
+    "lng": 121.2209
+  },
+  {
+    "name": "Quiling",
+    "country": "PH",
+    "lat": 18.06833,
+    "lng": 120.54389
+  },
+  {
+    "name": "Quibal",
+    "country": "PH",
+    "lat": 17.7159,
+    "lng": 121.81135
+  },
+  {
+    "name": "Quiapo",
+    "country": "PH",
+    "lat": 14.6,
+    "lng": 120.9833
+  },
+  {
+    "name": "Quezon City",
+    "country": "PH",
+    "lat": 14.6488,
+    "lng": 121.0509
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 17.31303,
+    "lng": 121.60654
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 16.5,
+    "lng": 121.26667
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 15.5512,
+    "lng": 120.8147
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 14.0057,
+    "lng": 122.1838
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 12.6,
+    "lng": 123.95
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 10.43617,
+    "lng": 123.2604
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 9.24111,
+    "lng": 118.03139
+  },
+  {
+    "name": "Quezon",
+    "country": "PH",
+    "lat": 7.73028,
+    "lng": 125.09889
+  },
+  {
+    "name": "Quipot",
+    "country": "PH",
+    "lat": 13.77911,
+    "lng": 121.39722
+  },
+  {
+    "name": "Quetta",
+    "country": "PK",
+    "lat": 30.18414,
+    "lng": 67.00141
+  },
+  {
+    "name": "Quebrada",
+    "country": "PR",
+    "lat": 18.35662,
+    "lng": -66.83212
+  },
+  {
+    "name": "Quebradillas",
+    "country": "PR",
+    "lat": 18.47383,
+    "lng": -66.93851
+  },
+  {
+    "name": "Quşrah",
+    "country": "PS",
+    "lat": 32.08543,
+    "lng": 35.33005
+  },
+  {
+    "name": "Quinta do Anjo",
+    "country": "PT",
+    "lat": 38.56753,
+    "lng": -8.94228
+  },
+  {
+    "name": "Quinta de Santo António",
+    "country": "PT",
+    "lat": 38.65314,
+    "lng": -9.23542
+  },
+  {
+    "name": "Queluz",
+    "country": "PT",
+    "lat": 38.75657,
+    "lng": -9.25451
+  },
+  {
+    "name": "Quelfes",
+    "country": "PT",
+    "lat": 37.06003,
+    "lng": -7.82158
+  },
+  {
+    "name": "Queijas",
+    "country": "PT",
+    "lat": 38.71925,
+    "lng": -9.26255
+  },
+  {
+    "name": "Quarteira",
+    "country": "PT",
+    "lat": 37.06946,
+    "lng": -8.10064
+  },
+  {
+    "name": "Quinta do Gato",
+    "country": "PT",
+    "lat": 40.62988,
+    "lng": -8.62125
+  },
+  {
+    "name": "Quinta Do Conde",
+    "country": "PT",
+    "lat": 38.56528,
+    "lng": -9.04316
+  },
+  {
+    "name": "Quiindy",
+    "country": "PY",
+    "lat": -25.97606,
+    "lng": -57.23353
+  },
+  {
+    "name": "Qurayyat",
+    "country": "SA",
+    "lat": 31.33176,
+    "lng": 37.34282
+  },
+  {
+    "name": "Queenstown Estate",
+    "country": "SG",
+    "lat": 1.29417,
+    "lng": 103.8025
+  },
+  {
+    "name": "Quezaltepeque",
+    "country": "SV",
+    "lat": 13.83124,
+    "lng": -89.27221
+  },
+  {
+    "name": "Qubodiyon",
+    "country": "TJ",
+    "lat": 37.40973,
+    "lng": 68.18644
+  },
+  {
+    "name": "Quruqsoy",
+    "country": "TJ",
+    "lat": 40.57648,
+    "lng": 69.37962
+  },
+  {
+    "name": "Quincy",
+    "country": "US",
+    "lat": 30.58714,
+    "lng": -84.58325
+  },
+  {
+    "name": "Quitman",
+    "country": "US",
+    "lat": 30.78492,
+    "lng": -83.55988
+  },
+  {
+    "name": "Quincy",
+    "country": "US",
+    "lat": 39.9356,
+    "lng": -91.40987
+  },
+  {
+    "name": "Queen Anne",
+    "country": "US",
+    "lat": 38.89872,
+    "lng": -76.6783
+  },
+  {
+    "name": "Quitman",
+    "country": "US",
+    "lat": 32.04015,
+    "lng": -88.7281
+  },
+  {
+    "name": "Quinton",
+    "country": "US",
+    "lat": 35.12288,
+    "lng": -95.37109
+  },
+  {
+    "name": "Quarryville",
+    "country": "US",
+    "lat": 39.89705,
+    "lng": -76.16357
+  },
+  {
+    "name": "Queen Village",
+    "country": "US",
+    "lat": 39.93428,
+    "lng": -75.14851
+  },
+  {
+    "name": "Quanah",
+    "country": "US",
+    "lat": 34.29785,
+    "lng": -99.74037
+  },
+  {
+    "name": "Queen City",
+    "country": "US",
+    "lat": 33.14874,
+    "lng": -94.15019
+  },
+  {
+    "name": "Quinlan",
+    "country": "US",
+    "lat": 32.9104,
+    "lng": -96.13553
+  },
+  {
+    "name": "Quitman",
+    "country": "US",
+    "lat": 32.79596,
+    "lng": -95.45106
+  },
+  {
+    "name": "Quinebaug",
+    "country": "US",
+    "lat": 42.02371,
+    "lng": -71.9498
+  },
+  {
+    "name": "Quincy",
+    "country": "US",
+    "lat": 42.25288,
+    "lng": -71.00227
+  },
+  {
+    "name": "Quincy",
+    "country": "US",
+    "lat": 41.94421,
+    "lng": -84.88385
+  },
+  {
+    "name": "Quinnesec",
+    "country": "US",
+    "lat": 45.80635,
+    "lng": -87.98846
+  },
+  {
+    "name": "Queens Village",
+    "country": "US",
+    "lat": 40.72677,
+    "lng": -73.74152
+  },
+  {
+    "name": "Queens",
+    "country": "US",
+    "lat": 40.68149,
+    "lng": -73.83652
+  },
+  {
+    "name": "Queensbury",
+    "country": "US",
+    "lat": 43.37729,
+    "lng": -73.61317
+  },
+  {
+    "name": "Quakertown",
+    "country": "US",
+    "lat": 40.44177,
+    "lng": -75.34157
+  },
+  {
+    "name": "Quartzsite",
+    "country": "US",
+    "lat": 33.66391,
+    "lng": -114.22995
+  },
+  {
+    "name": "Queen Creek",
+    "country": "US",
+    "lat": 33.24866,
+    "lng": -111.6343
+  },
+  {
+    "name": "Quail Valley",
+    "country": "US",
+    "lat": 33.70697,
+    "lng": -117.24504
+  },
+  {
+    "name": "Quartz Hill",
+    "country": "US",
+    "lat": 34.64526,
+    "lng": -118.21813
+  },
+  {
+    "name": "Quincy",
+    "country": "US",
+    "lat": 39.93682,
+    "lng": -120.94647
+  },
+  {
+    "name": "Questa",
+    "country": "US",
+    "lat": 36.70391,
+    "lng": -105.59501
+  },
+  {
+    "name": "Quincy",
+    "country": "US",
+    "lat": 47.2343,
+    "lng": -119.85255
+  },
+  {
+    "name": "Quail Ridge",
+    "country": "US",
+    "lat": 28.34905,
+    "lng": -82.55532
+  },
+  {
+    "name": "Queenland",
+    "country": "US",
+    "lat": 38.80524,
+    "lng": -76.79126
+  },
+  {
+    "name": "Quail Creek",
+    "country": "US",
+    "lat": 28.7764,
+    "lng": -97.08232
+  },
+  {
+    "name": "Quail Hill",
+    "country": "US",
+    "lat": 33.65114,
+    "lng": -117.77551
+  },
+  {
+    "name": "Quebracho",
+    "country": "UY",
+    "lat": -31.93526,
+    "lng": -57.9014
+  },
+  {
+    "name": "Quvasoy",
+    "country": "UZ",
+    "lat": 40.29721,
+    "lng": 71.98026
+  },
+  {
+    "name": "Quva",
+    "country": "UZ",
+    "lat": 40.52204,
+    "lng": 72.07292
+  },
+  {
+    "name": "Questelles",
+    "country": "VC",
+    "lat": 13.17619,
+    "lng": -61.24893
+  },
+  {
+    "name": "Quiriquire",
+    "country": "VE",
+    "lat": 9.9795,
+    "lng": -63.21991
+  },
+  {
+    "name": "Quíbor",
+    "country": "VE",
+    "lat": 9.92866,
+    "lng": -69.6201
+  },
+  {
+    "name": "Queniquea",
+    "country": "VE",
+    "lat": 7.91849,
+    "lng": -72.01612
+  },
+  {
+    "name": "Quebrada Seca",
+    "country": "VE",
+    "lat": 8.70015,
+    "lng": -70.31941
+  },
+  {
+    "name": "Quỳnh Lôi",
+    "country": "VN",
+    "lat": 20.98333,
+    "lng": 105.86667
+  },
+  {
+    "name": "Quỳnh Côi",
+    "country": "VN",
+    "lat": 20.66192,
+    "lng": 106.32744
+  },
+  {
+    "name": "Qui Nhon",
+    "country": "VN",
+    "lat": 13.77648,
+    "lng": 109.22367
+  },
+  {
+    "name": "Quỳ Hợp",
+    "country": "VN",
+    "lat": 19.32546,
+    "lng": 105.18251
+  },
+  {
+    "name": "Quy Đạt",
+    "country": "VN",
+    "lat": 17.80459,
+    "lng": 105.97044
+  },
+  {
+    "name": "Quỳ Châu",
+    "country": "VN",
+    "lat": 19.55206,
+    "lng": 105.09387
+  },
+  {
+    "name": "Quế Sơn",
+    "country": "VN",
+    "lat": 15.67356,
+    "lng": 108.2201
+  },
+  {
+    "name": "Quan Hóa",
+    "country": "VN",
+    "lat": 20.38481,
+    "lng": 105.10024
+  },
+  {
+    "name": "Quảng Yên",
+    "country": "VN",
+    "lat": 20.9421,
+    "lng": 106.8027
+  },
+  {
+    "name": "Quán Hàu",
+    "country": "VN",
+    "lat": 17.40438,
+    "lng": 106.64072
+  },
+  {
+    "name": "Quảng Ngãi",
+    "country": "VN",
+    "lat": 15.12047,
+    "lng": 108.79232
+  },
+  {
+    "name": "Quán Hành",
+    "country": "VN",
+    "lat": 18.77927,
+    "lng": 105.64597
+  },
+  {
+    "name": "Quận Bảy",
+    "country": "VN",
+    "lat": 10.7118,
+    "lng": 106.73643
+  },
+  {
+    "name": "Quảng Xương",
+    "country": "VN",
+    "lat": 19.72948,
+    "lng": 105.78273
+  },
+  {
+    "name": "Quan Sơn",
+    "country": "VN",
+    "lat": 20.25909,
+    "lng": 104.94521
+  },
+  {
+    "name": "Quán Lào",
+    "country": "VN",
+    "lat": 19.97153,
+    "lng": 105.65106
+  },
+  {
+    "name": "Quế",
+    "country": "VN",
+    "lat": 20.58064,
+    "lng": 105.87266
+  },
+  {
+    "name": "Quảng Hà",
+    "country": "VN",
+    "lat": 21.4506,
+    "lng": 107.75592
+  },
+  {
+    "name": "Quốc Oai",
+    "country": "VN",
+    "lat": 20.99019,
+    "lng": 105.64088
+  },
+  {
+    "name": "Quảng Phú",
+    "country": "VN",
+    "lat": 12.81965,
+    "lng": 108.07738
+  },
+  {
+    "name": "Quận Hai",
+    "country": "VN",
+    "lat": 10.79156,
+    "lng": 106.74948
+  },
+  {
+    "name": "Quận Chín",
+    "country": "VN",
+    "lat": 10.8397,
+    "lng": 106.77093
+  },
+  {
+    "name": "Quận Bốn",
+    "country": "VN",
+    "lat": 10.76684,
+    "lng": 106.70574
+  },
+  {
+    "name": "Quận Sáu",
+    "country": "VN",
+    "lat": 10.7468,
+    "lng": 106.64903
+  },
+  {
+    "name": "Quận Năm",
+    "country": "VN",
+    "lat": 10.75567,
+    "lng": 106.66745
+  },
+  {
+    "name": "Quận Một",
+    "country": "VN",
+    "lat": 10.78069,
+    "lng": 106.69944
+  },
+  {
+    "name": "Quận Phú Nhuận",
+    "country": "VN",
+    "lat": 10.79475,
+    "lng": 106.6763
+  },
+  {
+    "name": "Quận Tân Phú",
+    "country": "VN",
+    "lat": 10.78379,
+    "lng": 106.63704
+  },
+  {
+    "name": "Quận Mười Một",
+    "country": "VN",
+    "lat": 10.76383,
+    "lng": 106.64355
+  },
+  {
+    "name": "Quận Mười",
+    "country": "VN",
+    "lat": 10.76823,
+    "lng": 106.66632
+  },
+  {
+    "name": "Quận Ba",
+    "country": "VN",
+    "lat": 10.77494,
+    "lng": 106.68628
+  },
+  {
+    "name": "Quận Bình Thạnh",
+    "country": "VN",
+    "lat": 10.80325,
+    "lng": 106.69666
+  },
+  {
+    "name": "Quận Đức Thịnh",
+    "country": "VN",
+    "lat": 10.30989,
+    "lng": 105.73855
+  },
+  {
+    "name": "Quận Đức Thành",
+    "country": "VN",
+    "lat": 10.25874,
+    "lng": 105.646
+  },
+  {
+    "name": "Quận Lấp Vò",
+    "country": "VN",
+    "lat": 10.35554,
+    "lng": 105.58125
+  },
+  {
+    "name": "Quang Minh",
+    "country": "VN",
+    "lat": 21.18884,
+    "lng": 105.77269
+  },
+  {
+    "name": "Quảng Nhâm",
+    "country": "VN",
+    "lat": 16.231,
+    "lng": 107.18371
+  },
+  {
+    "name": "Qumbu",
+    "country": "ZA",
+    "lat": -31.16304,
+    "lng": 28.87056
+  },
+  {
+    "name": "Queenstown",
+    "country": "ZA",
+    "lat": -31.89756,
+    "lng": 26.87533
+  },
+  {
+    "name": "Queensdale",
+    "country": "ZA",
+    "lat": -31.87101,
+    "lng": 26.97862
+  }
+]

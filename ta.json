@@ -1,0 +1,11408 @@
+[
+  {
+    "name": "Taywarah",
+    "country": "AF",
+    "lat": 33.52118,
+    "lng": 64.42116
+  },
+  {
+    "name": "Tarinkot",
+    "country": "AF",
+    "lat": 32.62998,
+    "lng": 65.87806
+  },
+  {
+    "name": "Taloqan",
+    "country": "AF",
+    "lat": 36.73605,
+    "lng": 69.53451
+  },
+  {
+    "name": "Tagāw-Bāy",
+    "country": "AF",
+    "lat": 35.69941,
+    "lng": 66.06164
+  },
+  {
+    "name": "Tagāb",
+    "country": "AF",
+    "lat": 34.85501,
+    "lng": 69.64917
+  },
+  {
+    "name": "Tapi",
+    "country": "AL",
+    "lat": 40.79361,
+    "lng": 19.88028
+  },
+  {
+    "name": "Tavush",
+    "country": "AM",
+    "lat": 40.91763,
+    "lng": 45.40528
+  },
+  {
+    "name": "Tashir",
+    "country": "AM",
+    "lat": 41.11922,
+    "lng": 44.28649
+  },
+  {
+    "name": "Tandzut",
+    "country": "AM",
+    "lat": 40.06952,
+    "lng": 44.07788
+  },
+  {
+    "name": "Talin",
+    "country": "AM",
+    "lat": 40.39172,
+    "lng": 43.87793
+  },
+  {
+    "name": "Taronik",
+    "country": "AM",
+    "lat": 40.13367,
+    "lng": 44.19957
+  },
+  {
+    "name": "Tairov",
+    "country": "AM",
+    "lat": 40.16078,
+    "lng": 44.43435
+  },
+  {
+    "name": "Tandil",
+    "country": "AR",
+    "lat": -37.3287,
+    "lng": -59.1369
+  },
+  {
+    "name": "Tacuarendí",
+    "country": "AR",
+    "lat": -28.41265,
+    "lng": -59.26
+  },
+  {
+    "name": "Tabossi",
+    "country": "AR",
+    "lat": -31.80231,
+    "lng": -59.93557
+  },
+  {
+    "name": "Tartagal",
+    "country": "AR",
+    "lat": -22.51682,
+    "lng": -63.8056
+  },
+  {
+    "name": "Tapalqué",
+    "country": "AR",
+    "lat": -36.35624,
+    "lng": -60.02511
+  },
+  {
+    "name": "Tancacha",
+    "country": "AR",
+    "lat": -32.23751,
+    "lng": -63.97983
+  },
+  {
+    "name": "Tamberías",
+    "country": "AR",
+    "lat": -31.45868,
+    "lng": -69.422
+  },
+  {
+    "name": "Tama",
+    "country": "AR",
+    "lat": -30.50726,
+    "lng": -66.52954
+  },
+  {
+    "name": "Tafí Viejo",
+    "country": "AR",
+    "lat": -26.7333,
+    "lng": -65.26146
+  },
+  {
+    "name": "Tafí del Valle",
+    "country": "AR",
+    "lat": -26.85195,
+    "lng": -65.71069
+  },
+  {
+    "name": "Taco Pozo",
+    "country": "AR",
+    "lat": -25.61557,
+    "lng": -63.26708
+  },
+  {
+    "name": "Taulaga",
+    "country": "AS",
+    "lat": -11.05528,
+    "lng": -171.08833
+  },
+  {
+    "name": "Ta`ū",
+    "country": "AS",
+    "lat": -14.23361,
+    "lng": -169.51444
+  },
+  {
+    "name": "Taxenbach",
+    "country": "AT",
+    "lat": 47.29116,
+    "lng": 12.96215
+  },
+  {
+    "name": "Taxach",
+    "country": "AT",
+    "lat": 47.7261,
+    "lng": 13.07184
+  },
+  {
+    "name": "Tauplitz",
+    "country": "AT",
+    "lat": 47.56005,
+    "lng": 14.01293
+  },
+  {
+    "name": "Taufkirchen an der Trattnach",
+    "country": "AT",
+    "lat": 48.24731,
+    "lng": 13.74767
+  },
+  {
+    "name": "Tattendorf",
+    "country": "AT",
+    "lat": 47.95,
+    "lng": 16.3
+  },
+  {
+    "name": "Tarrenz",
+    "country": "AT",
+    "lat": 47.26667,
+    "lng": 10.76667
+  },
+  {
+    "name": "Tannheim",
+    "country": "AT",
+    "lat": 47.49934,
+    "lng": 10.51641
+  },
+  {
+    "name": "Tamsweg",
+    "country": "AT",
+    "lat": 47.12808,
+    "lng": 13.81102
+  },
+  {
+    "name": "Taiskirchen im Innkreis",
+    "country": "AT",
+    "lat": 48.26468,
+    "lng": 13.57318
+  },
+  {
+    "name": "Tadten",
+    "country": "AT",
+    "lat": 47.7642,
+    "lng": 16.9865
+  },
+  {
+    "name": "Taugl",
+    "country": "AT",
+    "lat": 47.64747,
+    "lng": 13.20282
+  },
+  {
+    "name": "Tanunda",
+    "country": "AU",
+    "lat": -34.52336,
+    "lng": 138.95982
+  },
+  {
+    "name": "Tailem Bend",
+    "country": "AU",
+    "lat": -35.25226,
+    "lng": 139.45546
+  },
+  {
+    "name": "Tatura",
+    "country": "AU",
+    "lat": -36.43962,
+    "lng": 145.22994
+  },
+  {
+    "name": "Tathra",
+    "country": "AU",
+    "lat": -36.73126,
+    "lng": 149.98328
+  },
+  {
+    "name": "Tarro",
+    "country": "AU",
+    "lat": -32.8,
+    "lng": 151.66667
+  },
+  {
+    "name": "Tarragindi",
+    "country": "AU",
+    "lat": -27.52713,
+    "lng": 153.04556
+  },
+  {
+    "name": "Taroona",
+    "country": "AU",
+    "lat": -42.9452,
+    "lng": 147.3484
+  },
+  {
+    "name": "Tarneit",
+    "country": "AU",
+    "lat": -37.83634,
+    "lng": 144.65952
+  },
+  {
+    "name": "Taree",
+    "country": "AU",
+    "lat": -31.91099,
+    "lng": 152.45387
+  },
+  {
+    "name": "Tara",
+    "country": "AU",
+    "lat": -27.27613,
+    "lng": 150.45676
+  },
+  {
+    "name": "Tamworth",
+    "country": "AU",
+    "lat": -31.09048,
+    "lng": 150.92905
+  },
+  {
+    "name": "Tamborine",
+    "country": "AU",
+    "lat": -27.88333,
+    "lng": 153.13333
+  },
+  {
+    "name": "Tallebudgera",
+    "country": "AU",
+    "lat": -28.15,
+    "lng": 153.43333
+  },
+  {
+    "name": "Tallangatta",
+    "country": "AU",
+    "lat": -36.21791,
+    "lng": 147.17699
+  },
+  {
+    "name": "Tahmoor",
+    "country": "AU",
+    "lat": -34.22246,
+    "lng": 150.59467
+  },
+  {
+    "name": "Table Top",
+    "country": "AU",
+    "lat": -35.96667,
+    "lng": 147.0
+  },
+  {
+    "name": "Taren Point",
+    "country": "AU",
+    "lat": -34.01936,
+    "lng": 151.11826
+  },
+  {
+    "name": "Tarrawanna",
+    "country": "AU",
+    "lat": -34.38152,
+    "lng": 150.88799
+  },
+  {
+    "name": "Taringa",
+    "country": "AU",
+    "lat": -27.49061,
+    "lng": 152.97861
+  },
+  {
+    "name": "Taigum",
+    "country": "AU",
+    "lat": -27.34265,
+    "lng": 153.04444
+  },
+  {
+    "name": "Tamborine Mountain",
+    "country": "AU",
+    "lat": -27.96954,
+    "lng": 153.19937
+  },
+  {
+    "name": "Tannum Sands",
+    "country": "AU",
+    "lat": -23.94749,
+    "lng": 151.36749
+  },
+  {
+    "name": "Tascott",
+    "country": "AU",
+    "lat": -33.45017,
+    "lng": 151.31375
+  },
+  {
+    "name": "Tapping",
+    "country": "AU",
+    "lat": -31.71947,
+    "lng": 115.79559
+  },
+  {
+    "name": "Taylors Lakes",
+    "country": "AU",
+    "lat": -37.69863,
+    "lng": 144.78631
+  },
+  {
+    "name": "Tatton",
+    "country": "AU",
+    "lat": -35.1599,
+    "lng": 147.35875
+  },
+  {
+    "name": "Tanilba Bay",
+    "country": "AU",
+    "lat": -32.74706,
+    "lng": 151.99714
+  },
+  {
+    "name": "Tarcoola Beach",
+    "country": "AU",
+    "lat": -28.81001,
+    "lng": 114.62236
+  },
+  {
+    "name": "Tamarama",
+    "country": "AU",
+    "lat": -33.89835,
+    "lng": 151.27059
+  },
+  {
+    "name": "Tanawha",
+    "country": "AU",
+    "lat": -26.71981,
+    "lng": 153.03018
+  },
+  {
+    "name": "Tanah Merah",
+    "country": "AU",
+    "lat": -27.67151,
+    "lng": 153.17019
+  },
+  {
+    "name": "Taranganba",
+    "country": "AU",
+    "lat": -23.14435,
+    "lng": 150.75139
+  },
+  {
+    "name": "Tallai",
+    "country": "AU",
+    "lat": -28.06407,
+    "lng": 153.32589
+  },
+  {
+    "name": "Taperoo",
+    "country": "AU",
+    "lat": -34.80425,
+    "lng": 138.49593
+  },
+  {
+    "name": "Taylors Hill",
+    "country": "AU",
+    "lat": -37.70988,
+    "lng": 144.75483
+  },
+  {
+    "name": "Tallebudgera Valley",
+    "country": "AU",
+    "lat": -28.1927,
+    "lng": 153.35489
+  },
+  {
+    "name": "Tanki Leendert",
+    "country": "AW",
+    "lat": 12.53914,
+    "lng": -70.02004
+  },
+  {
+    "name": "Tazakend",
+    "country": "AZ",
+    "lat": 39.15459,
+    "lng": 45.44282
+  },
+  {
+    "name": "Tasovčići",
+    "country": "BA",
+    "lat": 43.11333,
+    "lng": 17.72
+  },
+  {
+    "name": "Taluker Char Doani",
+    "country": "BD",
+    "lat": 22.14002,
+    "lng": 89.94137
+  },
+  {
+    "name": "Tavier",
+    "country": "BE",
+    "lat": 50.49634,
+    "lng": 5.47063
+  },
+  {
+    "name": "Tarcienne",
+    "country": "BE",
+    "lat": 50.31204,
+    "lng": 4.49676
+  },
+  {
+    "name": "Tamines",
+    "country": "BE",
+    "lat": 50.43378,
+    "lng": 4.60713
+  },
+  {
+    "name": "Taintignies",
+    "country": "BE",
+    "lat": 50.55277,
+    "lng": 3.34224
+  },
+  {
+    "name": "Tanghin-Dassouri",
+    "country": "BF",
+    "lat": 12.27256,
+    "lng": -1.71704
+  },
+  {
+    "name": "Targovishte",
+    "country": "BG",
+    "lat": 43.2512,
+    "lng": 26.57215
+  },
+  {
+    "name": "Tanguiéta",
+    "country": "BJ",
+    "lat": 10.62118,
+    "lng": 1.26651
+  },
+  {
+    "name": "Tarija",
+    "country": "BO",
+    "lat": -21.53549,
+    "lng": -64.72956
+  },
+  {
+    "name": "Tarata",
+    "country": "BO",
+    "lat": -17.60898,
+    "lng": -66.02135
+  },
+  {
+    "name": "Tarabuco",
+    "country": "BO",
+    "lat": -19.18168,
+    "lng": -64.91517
+  },
+  {
+    "name": "Tavares",
+    "country": "BR",
+    "lat": -7.63583,
+    "lng": -37.87833
+  },
+  {
+    "name": "Tauá",
+    "country": "BR",
+    "lat": -6.00306,
+    "lng": -40.29278
+  },
+  {
+    "name": "Tartarugalzinho",
+    "country": "BR",
+    "lat": 1.50556,
+    "lng": -50.91194
+  },
+  {
+    "name": "Tarrafas",
+    "country": "BR",
+    "lat": -6.68444,
+    "lng": -39.76139
+  },
+  {
+    "name": "Taquaritinga do Norte",
+    "country": "BR",
+    "lat": -7.90306,
+    "lng": -36.04417
+  },
+  {
+    "name": "Taquarana",
+    "country": "BR",
+    "lat": -9.645,
+    "lng": -36.49722
+  },
+  {
+    "name": "Taperoá",
+    "country": "BR",
+    "lat": -7.2075,
+    "lng": -36.82667
+  },
+  {
+    "name": "Tanque d'Arca",
+    "country": "BR",
+    "lat": -9.53194,
+    "lng": -36.43278
+  },
+  {
+    "name": "Tangará",
+    "country": "BR",
+    "lat": -6.19944,
+    "lng": -35.80167
+  },
+  {
+    "name": "Tamboril",
+    "country": "BR",
+    "lat": -4.83222,
+    "lng": -40.32056
+  },
+  {
+    "name": "Tamandaré",
+    "country": "BR",
+    "lat": -8.75632,
+    "lng": -35.09995
+  },
+  {
+    "name": "Taipu",
+    "country": "BR",
+    "lat": -5.62167,
+    "lng": -35.59667
+  },
+  {
+    "name": "Tacima",
+    "country": "BR",
+    "lat": -6.48833,
+    "lng": -35.63722
+  },
+  {
+    "name": "Tacaratu",
+    "country": "BR",
+    "lat": -9.10528,
+    "lng": -38.14917
+  },
+  {
+    "name": "Tacaimbó",
+    "country": "BR",
+    "lat": -8.31611,
+    "lng": -36.29333
+  },
+  {
+    "name": "Taboleiro Grande",
+    "country": "BR",
+    "lat": -5.93,
+    "lng": -38.045
+  },
+  {
+    "name": "Tabuleiro do Norte",
+    "country": "BR",
+    "lat": -5.24667,
+    "lng": -38.13056
+  },
+  {
+    "name": "Tabira",
+    "country": "BR",
+    "lat": -7.59083,
+    "lng": -37.53944
+  },
+  {
+    "name": "Tavares",
+    "country": "BR",
+    "lat": -31.28722,
+    "lng": -51.09361
+  },
+  {
+    "name": "Taubaté",
+    "country": "BR",
+    "lat": -23.02639,
+    "lng": -45.55528
+  },
+  {
+    "name": "Tatuí",
+    "country": "BR",
+    "lat": -23.35556,
+    "lng": -47.85694
+  },
+  {
+    "name": "Tarumirim",
+    "country": "BR",
+    "lat": -19.28083,
+    "lng": -42.00667
+  },
+  {
+    "name": "Tarumã",
+    "country": "BR",
+    "lat": -22.74667,
+    "lng": -50.57722
+  },
+  {
+    "name": "Tarabai",
+    "country": "BR",
+    "lat": -22.3025,
+    "lng": -51.55917
+  },
+  {
+    "name": "Taquarivaí",
+    "country": "BR",
+    "lat": -23.92444,
+    "lng": -48.69306
+  },
+  {
+    "name": "Taquarituba",
+    "country": "BR",
+    "lat": -23.53306,
+    "lng": -49.24444
+  },
+  {
+    "name": "Taquaritinga",
+    "country": "BR",
+    "lat": -21.40611,
+    "lng": -48.50472
+  },
+  {
+    "name": "Taquari",
+    "country": "BR",
+    "lat": -29.79972,
+    "lng": -51.86444
+  },
+  {
+    "name": "Taquaral",
+    "country": "BR",
+    "lat": -21.07194,
+    "lng": -48.41028
+  },
+  {
+    "name": "Taquaral de Goiás",
+    "country": "BR",
+    "lat": -16.05369,
+    "lng": -49.60312
+  },
+  {
+    "name": "Taquaruçu do Sul",
+    "country": "BR",
+    "lat": -27.39991,
+    "lng": -53.46748
+  },
+  {
+    "name": "Taquaraçu de Minas",
+    "country": "BR",
+    "lat": -19.67005,
+    "lng": -43.68858
+  },
+  {
+    "name": "Taquara",
+    "country": "BR",
+    "lat": -29.65056,
+    "lng": -50.78056
+  },
+  {
+    "name": "Tapiratiba",
+    "country": "BR",
+    "lat": -21.46833,
+    "lng": -46.74861
+  },
+  {
+    "name": "Tapiramutá",
+    "country": "BR",
+    "lat": -11.84722,
+    "lng": -40.79139
+  },
+  {
+    "name": "Tapiraí",
+    "country": "BR",
+    "lat": -23.96361,
+    "lng": -47.50722
+  },
+  {
+    "name": "Tapiraí",
+    "country": "BR",
+    "lat": -19.88778,
+    "lng": -46.02028
+  },
+  {
+    "name": "Tapira",
+    "country": "BR",
+    "lat": -19.92222,
+    "lng": -46.82306
+  },
+  {
+    "name": "Tapes",
+    "country": "BR",
+    "lat": -30.67333,
+    "lng": -51.39583
+  },
+  {
+    "name": "Taperoá",
+    "country": "BR",
+    "lat": -13.53806,
+    "lng": -39.09861
+  },
+  {
+    "name": "Tapera",
+    "country": "BR",
+    "lat": -28.62611,
+    "lng": -52.87
+  },
+  {
+    "name": "Tapejara",
+    "country": "BR",
+    "lat": -28.06806,
+    "lng": -52.01389
+  },
+  {
+    "name": "Tapejara",
+    "country": "BR",
+    "lat": -23.73306,
+    "lng": -52.87333
+  },
+  {
+    "name": "Taparuba",
+    "country": "BR",
+    "lat": -19.75861,
+    "lng": -41.61556
+  },
+  {
+    "name": "Tanquinho",
+    "country": "BR",
+    "lat": -11.97861,
+    "lng": -39.10389
+  },
+  {
+    "name": "Tanque Novo",
+    "country": "BR",
+    "lat": -13.54639,
+    "lng": -42.49139
+  },
+  {
+    "name": "Tanhaçu",
+    "country": "BR",
+    "lat": -14.02139,
+    "lng": -41.24806
+  },
+  {
+    "name": "Tanguá",
+    "country": "BR",
+    "lat": -22.73028,
+    "lng": -42.71417
+  },
+  {
+    "name": "Tangará",
+    "country": "BR",
+    "lat": -27.10472,
+    "lng": -51.24722
+  },
+  {
+    "name": "Tanabi",
+    "country": "BR",
+    "lat": -20.62639,
+    "lng": -49.64917
+  },
+  {
+    "name": "Tamboara",
+    "country": "BR",
+    "lat": -23.19978,
+    "lng": -52.5004
+  },
+  {
+    "name": "Tambaú",
+    "country": "BR",
+    "lat": -21.705,
+    "lng": -47.27444
+  },
+  {
+    "name": "Tamarana",
+    "country": "BR",
+    "lat": -23.72333,
+    "lng": -51.09722
+  },
+  {
+    "name": "Taiúva",
+    "country": "BR",
+    "lat": -21.12389,
+    "lng": -48.45167
+  },
+  {
+    "name": "Taipas do Tocantins",
+    "country": "BR",
+    "lat": -12.18833,
+    "lng": -46.98861
+  },
+  {
+    "name": "Taiobeiras",
+    "country": "BR",
+    "lat": -15.80778,
+    "lng": -42.23306
+  },
+  {
+    "name": "Taió",
+    "country": "BR",
+    "lat": -27.11639,
+    "lng": -49.99806
+  },
+  {
+    "name": "Taiaçu",
+    "country": "BR",
+    "lat": -21.14444,
+    "lng": -48.5125
+  },
+  {
+    "name": "Taguatinga",
+    "country": "BR",
+    "lat": -12.40389,
+    "lng": -46.43611
+  },
+  {
+    "name": "Taguaí",
+    "country": "BR",
+    "lat": -23.45194,
+    "lng": -49.40889
+  },
+  {
+    "name": "Tacuru",
+    "country": "BR",
+    "lat": -23.6325,
+    "lng": -55.01583
+  },
+  {
+    "name": "Taciba",
+    "country": "BR",
+    "lat": -22.38972,
+    "lng": -51.28472
+  },
+  {
+    "name": "Tabuleiro",
+    "country": "BR",
+    "lat": -21.35889,
+    "lng": -43.24778
+  },
+  {
+    "name": "Tabocas do Brejo Velho",
+    "country": "BR",
+    "lat": -12.70358,
+    "lng": -44.00959
+  },
+  {
+    "name": "Taboão da Serra",
+    "country": "BR",
+    "lat": -23.62611,
+    "lng": -46.79167
+  },
+  {
+    "name": "Tabatinga",
+    "country": "BR",
+    "lat": -21.73655,
+    "lng": -48.68566
+  },
+  {
+    "name": "Tabapuã",
+    "country": "BR",
+    "lat": -20.96417,
+    "lng": -49.03167
+  },
+  {
+    "name": "Tabaí",
+    "country": "BR",
+    "lat": -29.64306,
+    "lng": -51.68222
+  },
+  {
+    "name": "Tarauacá",
+    "country": "BR",
+    "lat": -8.16139,
+    "lng": -70.76556
+  },
+  {
+    "name": "Tapauá",
+    "country": "BR",
+    "lat": -5.62833,
+    "lng": -63.18333
+  },
+  {
+    "name": "Tabatinga",
+    "country": "BR",
+    "lat": -4.23116,
+    "lng": -69.93858
+  },
+  {
+    "name": "Tailândia",
+    "country": "BR",
+    "lat": -2.94722,
+    "lng": -48.95306
+  },
+  {
+    "name": "Talismã",
+    "country": "BR",
+    "lat": -12.795,
+    "lng": -49.0925
+  },
+  {
+    "name": "Tamboril do Piauí",
+    "country": "BR",
+    "lat": -8.4,
+    "lng": -42.91361
+  },
+  {
+    "name": "Tangará da Serra",
+    "country": "BR",
+    "lat": -14.61944,
+    "lng": -57.48583
+  },
+  {
+    "name": "Tanque do Piauí",
+    "country": "BR",
+    "lat": -6.6,
+    "lng": -42.28222
+  },
+  {
+    "name": "Tapira",
+    "country": "BR",
+    "lat": -23.32278,
+    "lng": -53.06806
+  },
+  {
+    "name": "Taquarussu",
+    "country": "BR",
+    "lat": -22.48778,
+    "lng": -53.35139
+  },
+  {
+    "name": "Tasso Fragoso",
+    "country": "BR",
+    "lat": -8.47528,
+    "lng": -45.74278
+  },
+  {
+    "name": "Taguatinga",
+    "country": "BR",
+    "lat": -15.83326,
+    "lng": -48.05506
+  },
+  {
+    "name": "Tatuapé",
+    "country": "BR",
+    "lat": -23.53729,
+    "lng": -46.5666
+  },
+  {
+    "name": "Tapera",
+    "country": "BR",
+    "lat": -27.68528,
+    "lng": -48.55124
+  },
+  {
+    "name": "Tabaporã",
+    "country": "BR",
+    "lat": -11.30778,
+    "lng": -56.81864
+  },
+  {
+    "name": "Tapurah",
+    "country": "BR",
+    "lat": -12.73714,
+    "lng": -56.5136
+  },
+  {
+    "name": "Tamasane",
+    "country": "BW",
+    "lat": -22.4184,
+    "lng": 27.40127
+  },
+  {
+    "name": "Tati Siding",
+    "country": "BW",
+    "lat": -21.27345,
+    "lng": 27.49002
+  },
+  {
+    "name": "Taber",
+    "country": "CA",
+    "lat": 49.78703,
+    "lng": -112.14603
+  },
+  {
+    "name": "Tam O'Shanter-Sullivan",
+    "country": "CA",
+    "lat": 43.77977,
+    "lng": -79.29502
+  },
+  {
+    "name": "Tavistock",
+    "country": "CA",
+    "lat": 43.31679,
+    "lng": -80.83302
+  },
+  {
+    "name": "Taylor",
+    "country": "CA",
+    "lat": 56.15282,
+    "lng": -120.68138
+  },
+  {
+    "name": "Tamarack",
+    "country": "CA",
+    "lat": 53.46441,
+    "lng": -113.36235
+  },
+  {
+    "name": "Taylor-Massey",
+    "country": "CA",
+    "lat": 43.695,
+    "lng": -79.2959
+  },
+  {
+    "name": "Tavannes",
+    "country": "CH",
+    "lat": 47.22079,
+    "lng": 7.19759
+  },
+  {
+    "name": "Tann",
+    "country": "CH",
+    "lat": 47.26898,
+    "lng": 8.85024
+  },
+  {
+    "name": "Tanay",
+    "country": "CH",
+    "lat": 46.34503,
+    "lng": 6.83041
+  },
+  {
+    "name": "Tamins",
+    "country": "CH",
+    "lat": 46.82964,
+    "lng": 9.40648
+  },
+  {
+    "name": "Tafers",
+    "country": "CH",
+    "lat": 46.81483,
+    "lng": 7.21852
+  },
+  {
+    "name": "Tann / Tann (Dorfkern)",
+    "country": "CH",
+    "lat": 47.26494,
+    "lng": 8.85048
+  },
+  {
+    "name": "Tagelswangen",
+    "country": "CH",
+    "lat": 47.4307,
+    "lng": 8.67284
+  },
+  {
+    "name": "Tayo",
+    "country": "CI",
+    "lat": 5.66667,
+    "lng": -6.35
+  },
+  {
+    "name": "Tawara",
+    "country": "CI",
+    "lat": 9.65719,
+    "lng": -5.65254
+  },
+  {
+    "name": "Tarato",
+    "country": "CI",
+    "lat": 9.54002,
+    "lng": -5.99511
+  },
+  {
+    "name": "Tapleu",
+    "country": "CI",
+    "lat": 6.68495,
+    "lng": -8.32038
+  },
+  {
+    "name": "Tapéguia",
+    "country": "CI",
+    "lat": 6.38718,
+    "lng": -6.51022
+  },
+  {
+    "name": "Tapéyo",
+    "country": "CI",
+    "lat": 5.91498,
+    "lng": -6.5916
+  },
+  {
+    "name": "Tapéré",
+    "country": "CI",
+    "lat": 9.08357,
+    "lng": -5.86202
+  },
+  {
+    "name": "Tapéguhé",
+    "country": "CI",
+    "lat": 6.52607,
+    "lng": -6.78924
+  },
+  {
+    "name": "Taobly",
+    "country": "CI",
+    "lat": 7.41388,
+    "lng": -7.18576
+  },
+  {
+    "name": "Tano Sakassou",
+    "country": "CI",
+    "lat": 7.46587,
+    "lng": -5.09067
+  },
+  {
+    "name": "Tankéssi",
+    "country": "CI",
+    "lat": 7.34908,
+    "lng": -3.20347
+  },
+  {
+    "name": "Tanhasso",
+    "country": "CI",
+    "lat": 9.59711,
+    "lng": -7.30337
+  },
+  {
+    "name": "Tangoumassou",
+    "country": "CI",
+    "lat": 6.73576,
+    "lng": -4.67195
+  },
+  {
+    "name": "Tangamourou",
+    "country": "CI",
+    "lat": 7.83337,
+    "lng": -3.21656
+  },
+  {
+    "name": "Talléré",
+    "country": "CI",
+    "lat": 9.20084,
+    "lng": -6.14807
+  },
+  {
+    "name": "Tanda",
+    "country": "CI",
+    "lat": 7.80335,
+    "lng": -3.16832
+  },
+  {
+    "name": "Tanbi",
+    "country": "CI",
+    "lat": 8.23343,
+    "lng": -2.57362
+  },
+  {
+    "name": "Tanosso",
+    "country": "CI",
+    "lat": 6.67193,
+    "lng": -4.2671
+  },
+  {
+    "name": "Tamania",
+    "country": "CI",
+    "lat": 10.53366,
+    "lng": -6.36711
+  },
+  {
+    "name": "Tamafrou",
+    "country": "CI",
+    "lat": 8.75237,
+    "lng": -6.19423
+  },
+  {
+    "name": "Tamabo",
+    "country": "CI",
+    "lat": 5.4144,
+    "lng": -4.81775
+  },
+  {
+    "name": "Talahini-Tomora",
+    "country": "CI",
+    "lat": 8.09299,
+    "lng": -3.57385
+  },
+  {
+    "name": "Talahini",
+    "country": "CI",
+    "lat": 8.39452,
+    "lng": -3.56525
+  },
+  {
+    "name": "Tala",
+    "country": "CI",
+    "lat": 7.88667,
+    "lng": -7.01139
+  },
+  {
+    "name": "Takouahio",
+    "country": "CI",
+    "lat": 6.37432,
+    "lng": -6.20294
+  },
+  {
+    "name": "Takouabli",
+    "country": "CI",
+    "lat": 7.37915,
+    "lng": -7.35942
+  },
+  {
+    "name": "Takobéri",
+    "country": "CI",
+    "lat": 5.62224,
+    "lng": -5.77485
+  },
+  {
+    "name": "Takoa",
+    "country": "CI",
+    "lat": 6.26825,
+    "lng": -6.14519
+  },
+  {
+    "name": "Takikroum",
+    "country": "CI",
+    "lat": 7.23703,
+    "lng": -2.96001
+  },
+  {
+    "name": "Takikro",
+    "country": "CI",
+    "lat": 7.00222,
+    "lng": -4.61833
+  },
+  {
+    "name": "Taki",
+    "country": "CI",
+    "lat": 4.69557,
+    "lng": -6.70792
+  },
+  {
+    "name": "Tahiraguhé",
+    "country": "CI",
+    "lat": 6.79236,
+    "lng": -6.40031
+  },
+  {
+    "name": "Taï",
+    "country": "CI",
+    "lat": 5.87366,
+    "lng": -7.45519
+  },
+  {
+    "name": "Taoudi",
+    "country": "CI",
+    "lat": 8.13701,
+    "lng": -3.43473
+  },
+  {
+    "name": "Tahibli",
+    "country": "CI",
+    "lat": 6.59171,
+    "lng": -8.26615
+  },
+  {
+    "name": "Tahara",
+    "country": "CI",
+    "lat": 10.15444,
+    "lng": -7.12266
+  },
+  {
+    "name": "Tahapleu",
+    "country": "CI",
+    "lat": 7.17989,
+    "lng": -8.05493
+  },
+  {
+    "name": "Tagoura",
+    "country": "CI",
+    "lat": 6.92652,
+    "lng": -6.45803
+  },
+  {
+    "name": "Tagbayo",
+    "country": "CI",
+    "lat": 5.68782,
+    "lng": -6.08422
+  },
+  {
+    "name": "Tagadi",
+    "country": "CI",
+    "lat": 8.63154,
+    "lng": -2.62515
+  },
+  {
+    "name": "Tafolo",
+    "country": "CI",
+    "lat": 8.26742,
+    "lng": -4.99401
+  },
+  {
+    "name": "Tafissou",
+    "country": "CI",
+    "lat": 6.43314,
+    "lng": -5.10709
+  },
+  {
+    "name": "Tafiré",
+    "country": "CI",
+    "lat": 9.06883,
+    "lng": -5.16404
+  },
+  {
+    "name": "Tabou",
+    "country": "CI",
+    "lat": 4.42295,
+    "lng": -7.3528
+  },
+  {
+    "name": "Tabléguikou Gopli",
+    "country": "CI",
+    "lat": 5.74618,
+    "lng": -5.3038
+  },
+  {
+    "name": "Tabakoroni",
+    "country": "CI",
+    "lat": 10.10364,
+    "lng": -6.42357
+  },
+  {
+    "name": "Tabakoro",
+    "country": "CI",
+    "lat": 8.49583,
+    "lng": -6.11889
+  },
+  {
+    "name": "Tabagné",
+    "country": "CI",
+    "lat": 7.99104,
+    "lng": -3.06871
+  },
+  {
+    "name": "Tabo",
+    "country": "CI",
+    "lat": 6.2361,
+    "lng": -5.13745
+  },
+  {
+    "name": "Taboitien",
+    "country": "CI",
+    "lat": 5.93806,
+    "lng": -4.84222
+  },
+  {
+    "name": "Tahably Glodé",
+    "country": "CI",
+    "lat": 6.74399,
+    "lng": -7.24159
+  },
+  {
+    "name": "Tanou",
+    "country": "CI",
+    "lat": 7.6883,
+    "lng": -4.92643
+  },
+  {
+    "name": "Taabo",
+    "country": "CI",
+    "lat": 6.1998,
+    "lng": -5.10884
+  },
+  {
+    "name": "Tagboagui",
+    "country": "CI",
+    "lat": 5.49855,
+    "lng": -6.49814
+  },
+  {
+    "name": "Takoréagui",
+    "country": "CI",
+    "lat": 5.75692,
+    "lng": -6.79092
+  },
+  {
+    "name": "Tahakro",
+    "country": "CI",
+    "lat": 6.99328,
+    "lng": -3.73727
+  },
+  {
+    "name": "Takikro",
+    "country": "CI",
+    "lat": 6.26964,
+    "lng": -4.44034
+  },
+  {
+    "name": "Taki-Salékro",
+    "country": "CI",
+    "lat": 7.22247,
+    "lng": -5.26831
+  },
+  {
+    "name": "Tagnakro",
+    "country": "CI",
+    "lat": 6.9499,
+    "lng": -4.51358
+  },
+  {
+    "name": "Taboth",
+    "country": "CI",
+    "lat": 5.25754,
+    "lng": -4.32882
+  },
+  {
+    "name": "Tagbanasso",
+    "country": "CI",
+    "lat": 5.65889,
+    "lng": -4.93611
+  },
+  {
+    "name": "Tacourably",
+    "country": "CI",
+    "lat": 7.2551,
+    "lng": -7.17898
+  },
+  {
+    "name": "Takpalakaha",
+    "country": "CI",
+    "lat": 9.16033,
+    "lng": -5.12865
+  },
+  {
+    "name": "Tabakoro-Dierré",
+    "country": "CI",
+    "lat": 8.21882,
+    "lng": -5.62848
+  },
+  {
+    "name": "Taltal",
+    "country": "CL",
+    "lat": -25.40713,
+    "lng": -70.48554
+  },
+  {
+    "name": "Talcahuano",
+    "country": "CL",
+    "lat": -36.72494,
+    "lng": -73.11684
+  },
+  {
+    "name": "Talca",
+    "country": "CL",
+    "lat": -35.4232,
+    "lng": -71.64974
+  },
+  {
+    "name": "Talagante",
+    "country": "CL",
+    "lat": -33.66386,
+    "lng": -70.92734
+  },
+  {
+    "name": "Tashqorghan",
+    "country": "CN",
+    "lat": 37.77763,
+    "lng": 75.22478
+  },
+  {
+    "name": "Tacheng",
+    "country": "CN",
+    "lat": 46.74535,
+    "lng": 82.95847
+  },
+  {
+    "name": "Tangzhang",
+    "country": "CN",
+    "lat": 34.14779,
+    "lng": 117.25395
+  },
+  {
+    "name": "Tashan",
+    "country": "CN",
+    "lat": 34.33611,
+    "lng": 117.56667
+  },
+  {
+    "name": "Tangdong",
+    "country": "CN",
+    "lat": 26.00188,
+    "lng": 113.25379
+  },
+  {
+    "name": "Tangxing",
+    "country": "CN",
+    "lat": 35.74521,
+    "lng": 111.69872
+  },
+  {
+    "name": "Taicheng",
+    "country": "CN",
+    "lat": 38.73102,
+    "lng": 113.228
+  },
+  {
+    "name": "Taozhuang",
+    "country": "CN",
+    "lat": 34.85,
+    "lng": 117.33333
+  },
+  {
+    "name": "Taozhou",
+    "country": "CN",
+    "lat": 30.90641,
+    "lng": 119.40865
+  },
+  {
+    "name": "Taoyuan",
+    "country": "CN",
+    "lat": 33.85278,
+    "lng": 117.77028
+  },
+  {
+    "name": "Taoyang",
+    "country": "CN",
+    "lat": 35.40135,
+    "lng": 103.85325
+  },
+  {
+    "name": "Taopingxiang",
+    "country": "CN",
+    "lat": 34.16109,
+    "lng": 104.9528
+  },
+  {
+    "name": "Taoluo",
+    "country": "CN",
+    "lat": 35.27389,
+    "lng": 119.37028
+  },
+  {
+    "name": "Taolin",
+    "country": "CN",
+    "lat": 35.80006,
+    "lng": 119.53395
+  },
+  {
+    "name": "Taohuajiang",
+    "country": "CN",
+    "lat": 28.52554,
+    "lng": 112.12877
+  },
+  {
+    "name": "Taohong",
+    "country": "CN",
+    "lat": 27.10107,
+    "lng": 110.99486
+  },
+  {
+    "name": "Tanwan",
+    "country": "CN",
+    "lat": 27.96639,
+    "lng": 110.15028
+  },
+  {
+    "name": "Tantou",
+    "country": "CN",
+    "lat": 26.03033,
+    "lng": 119.59739
+  },
+  {
+    "name": "Tanjia",
+    "country": "CN",
+    "lat": 31.45574,
+    "lng": 108.49861
+  },
+  {
+    "name": "Tangzhai",
+    "country": "CN",
+    "lat": 34.43278,
+    "lng": 116.59111
+  },
+  {
+    "name": "Tangyin",
+    "country": "CN",
+    "lat": 35.92092,
+    "lng": 114.35806
+  },
+  {
+    "name": "Tangwu",
+    "country": "CN",
+    "lat": 36.44667,
+    "lng": 118.85972
+  },
+  {
+    "name": "Tangshan",
+    "country": "CN",
+    "lat": 39.64381,
+    "lng": 118.18319
+  },
+  {
+    "name": "Tangping",
+    "country": "CN",
+    "lat": 22.03177,
+    "lng": 111.93537
+  },
+  {
+    "name": "Tangkou",
+    "country": "CN",
+    "lat": 26.95417,
+    "lng": 119.01278
+  },
+  {
+    "name": "Tangjiazhuang",
+    "country": "CN",
+    "lat": 39.74326,
+    "lng": 118.45099
+  },
+  {
+    "name": "Tangjiafang",
+    "country": "CN",
+    "lat": 26.84,
+    "lng": 110.36472
+  },
+  {
+    "name": "Tanggu",
+    "country": "CN",
+    "lat": 39.02111,
+    "lng": 117.64694
+  },
+  {
+    "name": "Tangdukou",
+    "country": "CN",
+    "lat": 26.96589,
+    "lng": 111.24138
+  },
+  {
+    "name": "Tangba",
+    "country": "CN",
+    "lat": 30.01651,
+    "lng": 105.7973
+  },
+  {
+    "name": "Tancheng",
+    "country": "CN",
+    "lat": 34.6152,
+    "lng": 118.338
+  },
+  {
+    "name": "Tancheng",
+    "country": "CN",
+    "lat": 25.50808,
+    "lng": 119.80722
+  },
+  {
+    "name": "Taizhou",
+    "country": "CN",
+    "lat": 32.49069,
+    "lng": 119.90812
+  },
+  {
+    "name": "Taiyuan",
+    "country": "CN",
+    "lat": 37.86944,
+    "lng": 112.56028
+  },
+  {
+    "name": "Taixing",
+    "country": "CN",
+    "lat": 32.16667,
+    "lng": 120.01361
+  },
+  {
+    "name": "Taiping",
+    "country": "CN",
+    "lat": 28.14083,
+    "lng": 106.03771
+  },
+  {
+    "name": "Taipingchang",
+    "country": "CN",
+    "lat": 29.44861,
+    "lng": 106.97417
+  },
+  {
+    "name": "Taiping",
+    "country": "CN",
+    "lat": 30.26204,
+    "lng": 107.29287
+  },
+  {
+    "name": "Taikang Chengguanzhen",
+    "country": "CN",
+    "lat": 34.06667,
+    "lng": 114.86667
+  },
+  {
+    "name": "Taihe Chengguanzhen",
+    "country": "CN",
+    "lat": 33.16552,
+    "lng": 115.64886
+  },
+  {
+    "name": "Taihe",
+    "country": "CN",
+    "lat": 30.87123,
+    "lng": 105.38454
+  },
+  {
+    "name": "Taihe",
+    "country": "CN",
+    "lat": 30.09949,
+    "lng": 106.0489
+  },
+  {
+    "name": "Taishan",
+    "country": "CN",
+    "lat": 22.25135,
+    "lng": 112.7799
+  },
+  {
+    "name": "Taicang",
+    "country": "CN",
+    "lat": 31.44778,
+    "lng": 121.09389
+  },
+  {
+    "name": "Tai’an",
+    "country": "CN",
+    "lat": 36.18528,
+    "lng": 117.12
+  },
+  {
+    "name": "Tai’an",
+    "country": "CN",
+    "lat": 30.06603,
+    "lng": 105.80934
+  },
+  {
+    "name": "Taining",
+    "country": "CN",
+    "lat": 26.90329,
+    "lng": 117.17043
+  },
+  {
+    "name": "Tafeng",
+    "country": "CN",
+    "lat": 25.35407,
+    "lng": 112.18987
+  },
+  {
+    "name": "Tanchang Chengguanzhen",
+    "country": "CN",
+    "lat": 34.04462,
+    "lng": 104.39464
+  },
+  {
+    "name": "Tanzhou",
+    "country": "CN",
+    "lat": 22.25503,
+    "lng": 113.46692
+  },
+  {
+    "name": "Taiping",
+    "country": "CN",
+    "lat": 29.90361,
+    "lng": 106.03875
+  },
+  {
+    "name": "Tatou",
+    "country": "CN",
+    "lat": 24.61732,
+    "lng": 118.52672
+  },
+  {
+    "name": "Taonan",
+    "country": "CN",
+    "lat": 45.33319,
+    "lng": 122.78464
+  },
+  {
+    "name": "Tangyuan",
+    "country": "CN",
+    "lat": 46.72755,
+    "lng": 129.89788
+  },
+  {
+    "name": "Tailai",
+    "country": "CN",
+    "lat": 46.39004,
+    "lng": 123.40849
+  },
+  {
+    "name": "Tahe",
+    "country": "CN",
+    "lat": 52.32148,
+    "lng": 124.69761
+  },
+  {
+    "name": "Tailong",
+    "country": "CN",
+    "lat": 30.89791,
+    "lng": 108.52415
+  },
+  {
+    "name": "Taihe",
+    "country": "CN",
+    "lat": 23.73535,
+    "lng": 112.97782
+  },
+  {
+    "name": "Tantou",
+    "country": "CN",
+    "lat": 22.75121,
+    "lng": 113.83496
+  },
+  {
+    "name": "Tangwei",
+    "country": "CN",
+    "lat": 22.7038,
+    "lng": 113.80372
+  },
+  {
+    "name": "Tanglang",
+    "country": "CN",
+    "lat": 22.59147,
+    "lng": 113.984
+  },
+  {
+    "name": "Tangbian",
+    "country": "CN",
+    "lat": 22.61649,
+    "lng": 113.84016
+  },
+  {
+    "name": "Taifu",
+    "country": "CN",
+    "lat": 28.98198,
+    "lng": 105.63702
+  },
+  {
+    "name": "Tanping",
+    "country": "CN",
+    "lat": 33.81122,
+    "lng": 104.97543
+  },
+  {
+    "name": "Taoyan",
+    "country": "CN",
+    "lat": 34.77044,
+    "lng": 103.79023
+  },
+  {
+    "name": "Taishi",
+    "country": "CN",
+    "lat": 33.61657,
+    "lng": 105.45163
+  },
+  {
+    "name": "Taishihe",
+    "country": "CN",
+    "lat": 33.70578,
+    "lng": 105.18122
+  },
+  {
+    "name": "Tangga’an",
+    "country": "CN",
+    "lat": 35.14316,
+    "lng": 102.85027
+  },
+  {
+    "name": "Tange",
+    "country": "CN",
+    "lat": 34.62764,
+    "lng": 104.84062
+  },
+  {
+    "name": "Taoyuan",
+    "country": "CN",
+    "lat": 22.58041,
+    "lng": 113.96121
+  },
+  {
+    "name": "Tangfang",
+    "country": "CN",
+    "lat": 31.39292,
+    "lng": 109.30918
+  },
+  {
+    "name": "Taihe",
+    "country": "CN",
+    "lat": 30.64154,
+    "lng": 109.26175
+  },
+  {
+    "name": "Taizhou",
+    "country": "CN",
+    "lat": 28.66266,
+    "lng": 121.43312
+  },
+  {
+    "name": "Taiping",
+    "country": "CN",
+    "lat": 28.36877,
+    "lng": 121.36171
+  },
+  {
+    "name": "Taibai",
+    "country": "CN",
+    "lat": 30.82482,
+    "lng": 108.35783
+  },
+  {
+    "name": "Tai’an",
+    "country": "CN",
+    "lat": 30.79554,
+    "lng": 108.65921
+  },
+  {
+    "name": "Taipingba",
+    "country": "CN",
+    "lat": 29.72979,
+    "lng": 108.15188
+  },
+  {
+    "name": "Taiji",
+    "country": "CN",
+    "lat": 29.32909,
+    "lng": 108.66219
+  },
+  {
+    "name": "Tangxiang",
+    "country": "CN",
+    "lat": 29.70226,
+    "lng": 105.72363
+  },
+  {
+    "name": "Taobei",
+    "country": "CN",
+    "lat": 45.61863,
+    "lng": 122.82934
+  },
+  {
+    "name": "Tawakule",
+    "country": "CN",
+    "lat": 37.75884,
+    "lng": 80.21654
+  },
+  {
+    "name": "Taxkowrük",
+    "country": "CN",
+    "lat": 43.89257,
+    "lng": 81.30604
+  },
+  {
+    "name": "Taoyuan",
+    "country": "CN",
+    "lat": 26.2283,
+    "lng": 100.56
+  },
+  {
+    "name": "Tanfang",
+    "country": "CN",
+    "lat": 36.69977,
+    "lng": 118.67087
+  },
+  {
+    "name": "Taitou",
+    "country": "CN",
+    "lat": 37.02733,
+    "lng": 118.63392
+  },
+  {
+    "name": "Taiping",
+    "country": "CN",
+    "lat": 24.66116,
+    "lng": 97.85262
+  },
+  {
+    "name": "Taobin",
+    "country": "CN",
+    "lat": 34.55249,
+    "lng": 103.68994
+  },
+  {
+    "name": "Taoshan",
+    "country": "CN",
+    "lat": 45.76319,
+    "lng": 131.01152
+  },
+  {
+    "name": "Tage'erqi",
+    "country": "CN",
+    "lat": 38.54516,
+    "lng": 77.25732
+  },
+  {
+    "name": "Tanghe",
+    "country": "CN",
+    "lat": 28.95656,
+    "lng": 106.05062
+  },
+  {
+    "name": "Taiyuan",
+    "country": "CN",
+    "lat": 29.69382,
+    "lng": 108.28045
+  },
+  {
+    "name": "Tai’an",
+    "country": "CN",
+    "lat": 42.93026,
+    "lng": 125.14101
+  },
+  {
+    "name": "Taocheng",
+    "country": "CN",
+    "lat": 37.73442,
+    "lng": 115.67277
+  },
+  {
+    "name": "Taohuayuan",
+    "country": "CN",
+    "lat": 22.61062,
+    "lng": 113.88239
+  },
+  {
+    "name": "Taoyuan Ju",
+    "country": "CN",
+    "lat": 22.61892,
+    "lng": 113.86024
+  },
+  {
+    "name": "Tausa",
+    "country": "CO",
+    "lat": 5.19903,
+    "lng": -73.89128
+  },
+  {
+    "name": "Tauramena",
+    "country": "CO",
+    "lat": 5.01789,
+    "lng": -72.74675
+  },
+  {
+    "name": "Tasco",
+    "country": "CO",
+    "lat": 5.91044,
+    "lng": -72.78001
+  },
+  {
+    "name": "Tarso",
+    "country": "CO",
+    "lat": 5.86467,
+    "lng": -75.82192
+  },
+  {
+    "name": "Tarqui",
+    "country": "CO",
+    "lat": 2.11248,
+    "lng": -75.82419
+  },
+  {
+    "name": "Tarazá",
+    "country": "CO",
+    "lat": 7.58358,
+    "lng": -75.40068
+  },
+  {
+    "name": "Tarapacá",
+    "country": "CO",
+    "lat": -2.892,
+    "lng": -69.742
+  },
+  {
+    "name": "Tangua",
+    "country": "CO",
+    "lat": 1.09473,
+    "lng": -77.39482
+  },
+  {
+    "name": "Taminango",
+    "country": "CO",
+    "lat": 1.57032,
+    "lng": -77.28043
+  },
+  {
+    "name": "Tame",
+    "country": "CO",
+    "lat": 6.46065,
+    "lng": -71.73618
+  },
+  {
+    "name": "Tamalameque",
+    "country": "CO",
+    "lat": 8.85221,
+    "lng": -73.81229
+  },
+  {
+    "name": "Talaigua Viejo",
+    "country": "CO",
+    "lat": 9.31206,
+    "lng": -74.58544
+  },
+  {
+    "name": "Talaigua Nuevo",
+    "country": "CO",
+    "lat": 9.30347,
+    "lng": -74.56477
+  },
+  {
+    "name": "Tadó",
+    "country": "CO",
+    "lat": 5.26598,
+    "lng": -76.56487
+  },
+  {
+    "name": "Tabio",
+    "country": "CO",
+    "lat": 4.91726,
+    "lng": -74.09364
+  },
+  {
+    "name": "Tamarindo",
+    "country": "CR",
+    "lat": 10.29913,
+    "lng": -85.84107
+  },
+  {
+    "name": "Tarará",
+    "country": "CU",
+    "lat": 23.17452,
+    "lng": -82.20655
+  },
+  {
+    "name": "Taguasco",
+    "country": "CU",
+    "lat": 22.00198,
+    "lng": -79.26387
+  },
+  {
+    "name": "Tarrafal de São Nicolau",
+    "country": "CV",
+    "lat": 16.56622,
+    "lng": -24.35793
+  },
+  {
+    "name": "Tarrafal",
+    "country": "CV",
+    "lat": 15.27881,
+    "lng": -23.75192
+  },
+  {
+    "name": "Tasovice",
+    "country": "CZ",
+    "lat": 48.8361,
+    "lng": 16.15558
+  },
+  {
+    "name": "Tanvald",
+    "country": "CZ",
+    "lat": 50.73735,
+    "lng": 15.30585
+  },
+  {
+    "name": "Tachov",
+    "country": "CZ",
+    "lat": 49.79528,
+    "lng": 12.63365
+  },
+  {
+    "name": "Tawern",
+    "country": "DE",
+    "lat": 49.66667,
+    "lng": 6.51667
+  },
+  {
+    "name": "Tautenhain",
+    "country": "DE",
+    "lat": 50.9247,
+    "lng": 11.91945
+  },
+  {
+    "name": "Tauscha",
+    "country": "DE",
+    "lat": 51.26667,
+    "lng": 13.8
+  },
+  {
+    "name": "Taura",
+    "country": "DE",
+    "lat": 50.91667,
+    "lng": 12.85
+  },
+  {
+    "name": "Taunusstein",
+    "country": "DE",
+    "lat": 50.14993,
+    "lng": 8.15206
+  },
+  {
+    "name": "Taufkirchen",
+    "country": "DE",
+    "lat": 48.34987,
+    "lng": 12.13202
+  },
+  {
+    "name": "Taufkirchen",
+    "country": "DE",
+    "lat": 48.15,
+    "lng": 12.45
+  },
+  {
+    "name": "Taufkirchen",
+    "country": "DE",
+    "lat": 48.0486,
+    "lng": 11.61701
+  },
+  {
+    "name": "Tauche",
+    "country": "DE",
+    "lat": 52.15,
+    "lng": 14.16667
+  },
+  {
+    "name": "Taucha",
+    "country": "DE",
+    "lat": 51.38333,
+    "lng": 12.48333
+  },
+  {
+    "name": "Tauberbischofsheim",
+    "country": "DE",
+    "lat": 49.62472,
+    "lng": 9.66278
+  },
+  {
+    "name": "Tating",
+    "country": "DE",
+    "lat": 54.32607,
+    "lng": 8.70802
+  },
+  {
+    "name": "Tarp",
+    "country": "DE",
+    "lat": 54.66667,
+    "lng": 9.4
+  },
+  {
+    "name": "Tarnow",
+    "country": "DE",
+    "lat": 53.77941,
+    "lng": 12.01785
+  },
+  {
+    "name": "Tarmstedt",
+    "country": "DE",
+    "lat": 53.22505,
+    "lng": 9.07763
+  },
+  {
+    "name": "Tarforst",
+    "country": "DE",
+    "lat": 49.74157,
+    "lng": 6.69196
+  },
+  {
+    "name": "Tappenbeck",
+    "country": "DE",
+    "lat": 52.47055,
+    "lng": 10.74068
+  },
+  {
+    "name": "Tapfheim",
+    "country": "DE",
+    "lat": 48.67322,
+    "lng": 10.68377
+  },
+  {
+    "name": "Tannheim",
+    "country": "DE",
+    "lat": 48.0,
+    "lng": 10.08333
+  },
+  {
+    "name": "Tannhausen",
+    "country": "DE",
+    "lat": 48.9787,
+    "lng": 10.36129
+  },
+  {
+    "name": "Tannenbergsthal",
+    "country": "DE",
+    "lat": 50.43665,
+    "lng": 12.45754
+  },
+  {
+    "name": "Tannenberg",
+    "country": "DE",
+    "lat": 50.60738,
+    "lng": 12.93798
+  },
+  {
+    "name": "Tanna",
+    "country": "DE",
+    "lat": 50.4946,
+    "lng": 11.85725
+  },
+  {
+    "name": "Tann",
+    "country": "DE",
+    "lat": 50.64284,
+    "lng": 10.02385
+  },
+  {
+    "name": "Tann",
+    "country": "DE",
+    "lat": 48.31463,
+    "lng": 12.89301
+  },
+  {
+    "name": "Tangstedt",
+    "country": "DE",
+    "lat": 53.73325,
+    "lng": 10.08684
+  },
+  {
+    "name": "Tangstedt",
+    "country": "DE",
+    "lat": 53.67711,
+    "lng": 9.8488
+  },
+  {
+    "name": "Tangermünde",
+    "country": "DE",
+    "lat": 52.54463,
+    "lng": 11.97647
+  },
+  {
+    "name": "Tangerhütte",
+    "country": "DE",
+    "lat": 52.4353,
+    "lng": 11.80724
+  },
+  {
+    "name": "Tamm",
+    "country": "DE",
+    "lat": 48.91988,
+    "lng": 9.11556
+  },
+  {
+    "name": "Tambach-Dietharz",
+    "country": "DE",
+    "lat": 50.79245,
+    "lng": 10.61568
+  },
+  {
+    "name": "Talheim",
+    "country": "DE",
+    "lat": 49.08333,
+    "lng": 9.19306
+  },
+  {
+    "name": "Talheim",
+    "country": "DE",
+    "lat": 48.01667,
+    "lng": 8.66667
+  },
+  {
+    "name": "Tagmersheim",
+    "country": "DE",
+    "lat": 48.81667,
+    "lng": 10.96667
+  },
+  {
+    "name": "Taching am See",
+    "country": "DE",
+    "lat": 47.95942,
+    "lng": 12.72933
+  },
+  {
+    "name": "Tacherting",
+    "country": "DE",
+    "lat": 48.07825,
+    "lng": 12.57008
+  },
+  {
+    "name": "Tabarz",
+    "country": "DE",
+    "lat": 50.87529,
+    "lng": 10.51607
+  },
+  {
+    "name": "Tadjoura",
+    "country": "DJ",
+    "lat": 11.78778,
+    "lng": 42.88222
+  },
+  {
+    "name": "Taulov",
+    "country": "DK",
+    "lat": 55.54582,
+    "lng": 9.61553
+  },
+  {
+    "name": "Taastrup",
+    "country": "DK",
+    "lat": 55.65006,
+    "lng": 12.3016
+  },
+  {
+    "name": "Tarm",
+    "country": "DK",
+    "lat": 55.90861,
+    "lng": 8.53041
+  },
+  {
+    "name": "Tamboril",
+    "country": "DO",
+    "lat": 19.48538,
+    "lng": -70.61104
+  },
+  {
+    "name": "Tamayo",
+    "country": "DO",
+    "lat": 18.3947,
+    "lng": -71.2029
+  },
+  {
+    "name": "Tazoult-Lambese",
+    "country": "DZ",
+    "lat": 35.48171,
+    "lng": 6.26074
+  },
+  {
+    "name": "Tarhit Ouled Hellal",
+    "country": "DZ",
+    "lat": 35.08111,
+    "lng": 6.33375
+  },
+  {
+    "name": "Tamest",
+    "country": "DZ",
+    "lat": 27.42593,
+    "lng": -0.24335
+  },
+  {
+    "name": "Tamentit",
+    "country": "DZ",
+    "lat": 27.7605,
+    "lng": -0.25997
+  },
+  {
+    "name": "Tamanghasset",
+    "country": "DZ",
+    "lat": 22.785,
+    "lng": 5.52278
+  },
+  {
+    "name": "Tamalous",
+    "country": "DZ",
+    "lat": 36.83763,
+    "lng": 6.64018
+  },
+  {
+    "name": "Taïbet",
+    "country": "DZ",
+    "lat": 33.08515,
+    "lng": 6.3891
+  },
+  {
+    "name": "Tadmaït",
+    "country": "DZ",
+    "lat": 36.74413,
+    "lng": 3.90045
+  },
+  {
+    "name": "Tadjenanet",
+    "country": "DZ",
+    "lat": 36.12129,
+    "lng": 5.9867
+  },
+  {
+    "name": "Talmine",
+    "country": "DZ",
+    "lat": 29.3291,
+    "lng": -0.49746
+  },
+  {
+    "name": "Tayuza",
+    "country": "EC",
+    "lat": -2.69826,
+    "lng": -78.23879
+  },
+  {
+    "name": "Tarapoa",
+    "country": "EC",
+    "lat": -0.12425,
+    "lng": -76.3457
+  },
+  {
+    "name": "Taquil",
+    "country": "EC",
+    "lat": -3.89018,
+    "lng": -79.28906
+  },
+  {
+    "name": "Tanicuchí",
+    "country": "EC",
+    "lat": -0.78135,
+    "lng": -78.63824
+  },
+  {
+    "name": "Taisha",
+    "country": "EC",
+    "lat": -2.33965,
+    "lng": -77.46031
+  },
+  {
+    "name": "Tababela",
+    "country": "EC",
+    "lat": -0.18627,
+    "lng": -78.34409
+  },
+  {
+    "name": "Tambo",
+    "country": "EC",
+    "lat": -2.50987,
+    "lng": -78.92746
+  },
+  {
+    "name": "Tabacundo",
+    "country": "EC",
+    "lat": 0.04782,
+    "lng": -78.2198
+  },
+  {
+    "name": "Tarifa",
+    "country": "EC",
+    "lat": -1.97887,
+    "lng": -79.75455
+  },
+  {
+    "name": "Tartu",
+    "country": "EE",
+    "lat": 58.38062,
+    "lng": 26.72509
+  },
+  {
+    "name": "Tapa",
+    "country": "EE",
+    "lat": 59.26056,
+    "lng": 25.95861
+  },
+  {
+    "name": "Tamsalu",
+    "country": "EE",
+    "lat": 59.15861,
+    "lng": 26.11528
+  },
+  {
+    "name": "Tallinn",
+    "country": "EE",
+    "lat": 59.43696,
+    "lng": 24.75353
+  },
+  {
+    "name": "Taebla",
+    "country": "EE",
+    "lat": 58.95389,
+    "lng": 23.75222
+  },
+  {
+    "name": "Tabasalu",
+    "country": "EE",
+    "lat": 59.42607,
+    "lng": 24.5533
+  },
+  {
+    "name": "Tanta",
+    "country": "EG",
+    "lat": 30.78847,
+    "lng": 31.00192
+  },
+  {
+    "name": "Talā",
+    "country": "EG",
+    "lat": 30.6798,
+    "lng": 30.94364
+  },
+  {
+    "name": "Tazacorte",
+    "country": "ES",
+    "lat": 28.64186,
+    "lng": -17.93394
+  },
+  {
+    "name": "Tarifa",
+    "country": "ES",
+    "lat": 36.01393,
+    "lng": -5.60695
+  },
+  {
+    "name": "Tarazona de la Mancha",
+    "country": "ES",
+    "lat": 39.25,
+    "lng": -1.91667
+  },
+  {
+    "name": "Tanque",
+    "country": "ES",
+    "lat": 28.35584,
+    "lng": -16.77986
+  },
+  {
+    "name": "Tamurejo",
+    "country": "ES",
+    "lat": 38.98333,
+    "lng": -4.93333
+  },
+  {
+    "name": "Tales",
+    "country": "ES",
+    "lat": 39.94844,
+    "lng": -0.30719
+  },
+  {
+    "name": "Talayuelas",
+    "country": "ES",
+    "lat": 39.85,
+    "lng": -1.28333
+  },
+  {
+    "name": "Talayuela",
+    "country": "ES",
+    "lat": 39.98701,
+    "lng": -5.60982
+  },
+  {
+    "name": "Talavera La Real",
+    "country": "ES",
+    "lat": 38.87794,
+    "lng": -6.76856
+  },
+  {
+    "name": "Talavera de la Reina",
+    "country": "ES",
+    "lat": 39.96348,
+    "lng": -4.83076
+  },
+  {
+    "name": "Talaván",
+    "country": "ES",
+    "lat": 39.71715,
+    "lng": -6.28146
+  },
+  {
+    "name": "Talarrubias",
+    "country": "ES",
+    "lat": 39.03697,
+    "lng": -5.23423
+  },
+  {
+    "name": "Tahal",
+    "country": "ES",
+    "lat": 37.22797,
+    "lng": -2.2847
+  },
+  {
+    "name": "Tacoronte",
+    "country": "ES",
+    "lat": 28.47688,
+    "lng": -16.41016
+  },
+  {
+    "name": "Tavernes de la Valldigna",
+    "country": "ES",
+    "lat": 39.07195,
+    "lng": -0.26623
+  },
+  {
+    "name": "Tavernes Blanques",
+    "country": "ES",
+    "lat": 39.5,
+    "lng": -0.36667
+  },
+  {
+    "name": "Tabernas",
+    "country": "ES",
+    "lat": 37.04992,
+    "lng": -2.39084
+  },
+  {
+    "name": "Tavertet",
+    "country": "ES",
+    "lat": 41.99572,
+    "lng": 2.41859
+  },
+  {
+    "name": "Tauste",
+    "country": "ES",
+    "lat": 41.91804,
+    "lng": -1.25343
+  },
+  {
+    "name": "Tartanedo",
+    "country": "ES",
+    "lat": 40.99347,
+    "lng": -1.92459
+  },
+  {
+    "name": "Tarragona",
+    "country": "ES",
+    "lat": 41.11905,
+    "lng": 1.24544
+  },
+  {
+    "name": "Taroda",
+    "country": "ES",
+    "lat": 41.34798,
+    "lng": -2.43318
+  },
+  {
+    "name": "Tardienta",
+    "country": "ES",
+    "lat": 41.97781,
+    "lng": -0.53731
+  },
+  {
+    "name": "Tardelcuende",
+    "country": "ES",
+    "lat": 41.59402,
+    "lng": -2.64439
+  },
+  {
+    "name": "Tardajos",
+    "country": "ES",
+    "lat": 42.34909,
+    "lng": -3.817
+  },
+  {
+    "name": "Tardáguila",
+    "country": "ES",
+    "lat": 41.11493,
+    "lng": -5.57423
+  },
+  {
+    "name": "Tarazona de Guareña",
+    "country": "ES",
+    "lat": 41.17206,
+    "lng": -5.25005
+  },
+  {
+    "name": "Tarazona",
+    "country": "ES",
+    "lat": 41.90475,
+    "lng": -1.72678
+  },
+  {
+    "name": "Taravilla",
+    "country": "ES",
+    "lat": 40.69743,
+    "lng": -1.96817
+  },
+  {
+    "name": "Tarancón",
+    "country": "ES",
+    "lat": 40.00851,
+    "lng": -3.00731
+  },
+  {
+    "name": "Taramundi",
+    "country": "ES",
+    "lat": 43.3602,
+    "lng": -7.10828
+  },
+  {
+    "name": "Taragudo",
+    "country": "ES",
+    "lat": 40.82106,
+    "lng": -3.0768
+  },
+  {
+    "name": "Taradell",
+    "country": "ES",
+    "lat": 41.87495,
+    "lng": 2.28662
+  },
+  {
+    "name": "Tapioles",
+    "country": "ES",
+    "lat": 41.85741,
+    "lng": -5.49623
+  },
+  {
+    "name": "Tapia de Casariego",
+    "country": "ES",
+    "lat": 43.57019,
+    "lng": -6.94383
+  },
+  {
+    "name": "Tamarón",
+    "country": "ES",
+    "lat": 42.27386,
+    "lng": -3.99154
+  },
+  {
+    "name": "Tamariz de Campos",
+    "country": "ES",
+    "lat": 41.97706,
+    "lng": -5.02335
+  },
+  {
+    "name": "Tamarit de Llitera / Tamarite de Litera",
+    "country": "ES",
+    "lat": 41.8691,
+    "lng": 0.42214
+  },
+  {
+    "name": "Tamames",
+    "country": "ES",
+    "lat": 40.65725,
+    "lng": -6.10536
+  },
+  {
+    "name": "Tamajón",
+    "country": "ES",
+    "lat": 40.99914,
+    "lng": -3.24743
+  },
+  {
+    "name": "Talamantes",
+    "country": "ES",
+    "lat": 41.73051,
+    "lng": -1.67857
+  },
+  {
+    "name": "Talamanca de Jarama",
+    "country": "ES",
+    "lat": 40.74325,
+    "lng": -3.50889
+  },
+  {
+    "name": "Talamanca",
+    "country": "ES",
+    "lat": 41.7374,
+    "lng": 1.97791
+  },
+  {
+    "name": "Tajueco",
+    "country": "ES",
+    "lat": 41.53641,
+    "lng": -2.84845
+  },
+  {
+    "name": "Tajahuerce",
+    "country": "ES",
+    "lat": 41.73991,
+    "lng": -2.15069
+  },
+  {
+    "name": "Tagamanent",
+    "country": "ES",
+    "lat": 41.73747,
+    "lng": 2.2672
+  },
+  {
+    "name": "Tafalla",
+    "country": "ES",
+    "lat": 42.52687,
+    "lng": -1.67446
+  },
+  {
+    "name": "Tabuenca",
+    "country": "ES",
+    "lat": 41.695,
+    "lng": -1.54335
+  },
+  {
+    "name": "Taboadela",
+    "country": "ES",
+    "lat": 42.24234,
+    "lng": -7.82719
+  },
+  {
+    "name": "Taboada",
+    "country": "ES",
+    "lat": 42.699,
+    "lng": -7.82298
+  },
+  {
+    "name": "Tabera de Abajo",
+    "country": "ES",
+    "lat": 40.91021,
+    "lng": -6.00227
+  },
+  {
+    "name": "Tabanera la Luenga",
+    "country": "ES",
+    "lat": 41.09647,
+    "lng": -4.23937
+  },
+  {
+    "name": "Tabanera de Valdavia",
+    "country": "ES",
+    "lat": 42.64728,
+    "lng": -4.69414
+  },
+  {
+    "name": "Tabanera de Cerrato",
+    "country": "ES",
+    "lat": 42.02469,
+    "lng": -4.12361
+  },
+  {
+    "name": "Taberno",
+    "country": "ES",
+    "lat": 37.4688,
+    "lng": -2.07736
+  },
+  {
+    "name": "Tarch’a Sodo",
+    "country": "ET",
+    "lat": 7.15139,
+    "lng": 37.17184
+  },
+  {
+    "name": "Tarvasjoki",
+    "country": "FI",
+    "lat": 60.58333,
+    "lng": 22.73333
+  },
+  {
+    "name": "Tapiola",
+    "country": "FI",
+    "lat": 60.17636,
+    "lng": 24.8085
+  },
+  {
+    "name": "Tapanila",
+    "country": "FI",
+    "lat": 60.26456,
+    "lng": 25.02157
+  },
+  {
+    "name": "Tampere",
+    "country": "FI",
+    "lat": 61.49911,
+    "lng": 23.78712
+  },
+  {
+    "name": "Tampella",
+    "country": "FI",
+    "lat": 61.50366,
+    "lng": 23.76592
+  },
+  {
+    "name": "Tammisalo",
+    "country": "FI",
+    "lat": 60.19226,
+    "lng": 25.06671
+  },
+  {
+    "name": "Tammela",
+    "country": "FI",
+    "lat": 60.81035,
+    "lng": 23.76823
+  },
+  {
+    "name": "Taka-Töölö",
+    "country": "FI",
+    "lat": 60.18434,
+    "lng": 24.91948
+  },
+  {
+    "name": "Taivassalo",
+    "country": "FI",
+    "lat": 60.56085,
+    "lng": 21.61639
+  },
+  {
+    "name": "Taivalkoski",
+    "country": "FI",
+    "lat": 65.56667,
+    "lng": 28.25
+  },
+  {
+    "name": "Taipalsaari",
+    "country": "FI",
+    "lat": 61.15,
+    "lng": 28.05
+  },
+  {
+    "name": "Taavetti",
+    "country": "FI",
+    "lat": 60.91667,
+    "lng": 27.56667
+  },
+  {
+    "name": "Taskila",
+    "country": "FI",
+    "lat": 65.05295,
+    "lng": 25.43086
+  },
+  {
+    "name": "Tammisto",
+    "country": "FI",
+    "lat": 60.27429,
+    "lng": 24.95888
+  },
+  {
+    "name": "Tapaninkylä",
+    "country": "FI",
+    "lat": 60.2638,
+    "lng": 24.99556
+  },
+  {
+    "name": "Tammela",
+    "country": "FI",
+    "lat": 61.50232,
+    "lng": 23.77961
+  },
+  {
+    "name": "Takahuhti",
+    "country": "FI",
+    "lat": 61.49721,
+    "lng": 23.85423
+  },
+  {
+    "name": "Tasanne",
+    "country": "FI",
+    "lat": 61.51845,
+    "lng": 23.92676
+  },
+  {
+    "name": "Tapaninvainio",
+    "country": "FI",
+    "lat": 60.25995,
+    "lng": 24.98242
+  },
+  {
+    "name": "Talvikangas",
+    "country": "FI",
+    "lat": 65.042,
+    "lng": 25.59695
+  },
+  {
+    "name": "Tapulikaupunki",
+    "country": "FI",
+    "lat": 60.27519,
+    "lng": 25.02163
+  },
+  {
+    "name": "Talinranta",
+    "country": "FI",
+    "lat": 60.20737,
+    "lng": 24.85652
+  },
+  {
+    "name": "Tammerkoski",
+    "country": "FI",
+    "lat": 61.49914,
+    "lng": 23.75661
+  },
+  {
+    "name": "Tammela A",
+    "country": "FI",
+    "lat": 61.50388,
+    "lng": 23.77963
+  },
+  {
+    "name": "Tammela B",
+    "country": "FI",
+    "lat": 61.50034,
+    "lng": 23.77968
+  },
+  {
+    "name": "Tavua",
+    "country": "FJ",
+    "lat": -17.44221,
+    "lng": 177.86221
+  },
+  {
+    "name": "Tamatam",
+    "country": "FM",
+    "lat": 7.53868,
+    "lng": 149.41428
+  },
+  {
+    "name": "Ta",
+    "country": "FM",
+    "lat": 5.2842,
+    "lng": 153.648
+  },
+  {
+    "name": "Tafunsak",
+    "country": "FM",
+    "lat": 5.3671,
+    "lng": 162.98532
+  },
+  {
+    "name": "Tavers",
+    "country": "FR",
+    "lat": 47.75921,
+    "lng": 1.61267
+  },
+  {
+    "name": "Taverny",
+    "country": "FR",
+    "lat": 49.02542,
+    "lng": 2.21691
+  },
+  {
+    "name": "Tavel",
+    "country": "FR",
+    "lat": 44.01177,
+    "lng": 4.69989
+  },
+  {
+    "name": "Tavaux",
+    "country": "FR",
+    "lat": 47.03376,
+    "lng": 5.405
+  },
+  {
+    "name": "Tauxigny",
+    "country": "FR",
+    "lat": 47.21337,
+    "lng": 0.83479
+  },
+  {
+    "name": "Tauriac",
+    "country": "FR",
+    "lat": 45.04915,
+    "lng": -0.50048
+  },
+  {
+    "name": "Taupont",
+    "country": "FR",
+    "lat": 47.95868,
+    "lng": -2.43924
+  },
+  {
+    "name": "Taulignan",
+    "country": "FR",
+    "lat": 44.44419,
+    "lng": 4.97057
+  },
+  {
+    "name": "Taulé",
+    "country": "FR",
+    "lat": 48.60367,
+    "lng": -3.90036
+  },
+  {
+    "name": "Tatinghem",
+    "country": "FR",
+    "lat": 50.74317,
+    "lng": 2.20724
+  },
+  {
+    "name": "Tassin-la-Demi-Lune",
+    "country": "FR",
+    "lat": 45.75499,
+    "lng": 4.78812
+  },
+  {
+    "name": "Tartas",
+    "country": "FR",
+    "lat": 43.83248,
+    "lng": -0.80895
+  },
+  {
+    "name": "Tarnos",
+    "country": "FR",
+    "lat": 43.5417,
+    "lng": -1.46281
+  },
+  {
+    "name": "Targon",
+    "country": "FR",
+    "lat": 44.73507,
+    "lng": -0.2637
+  },
+  {
+    "name": "Tarbes",
+    "country": "FR",
+    "lat": 43.23407,
+    "lng": 0.07139
+  },
+  {
+    "name": "Tarascon-sur-Ariège",
+    "country": "FR",
+    "lat": 42.8471,
+    "lng": 1.6056
+  },
+  {
+    "name": "Tarascon",
+    "country": "FR",
+    "lat": 43.80583,
+    "lng": 4.66028
+  },
+  {
+    "name": "Tarare",
+    "country": "FR",
+    "lat": 45.89614,
+    "lng": 4.433
+  },
+  {
+    "name": "Taradeau",
+    "country": "FR",
+    "lat": 43.45444,
+    "lng": 6.42729
+  },
+  {
+    "name": "Taponnat",
+    "country": "FR",
+    "lat": 45.77913,
+    "lng": 0.40894
+  },
+  {
+    "name": "Tanneron",
+    "country": "FR",
+    "lat": 43.59057,
+    "lng": 6.87541
+  },
+  {
+    "name": "Tanlay",
+    "country": "FR",
+    "lat": 47.84488,
+    "lng": 4.08504
+  },
+  {
+    "name": "Taninges",
+    "country": "FR",
+    "lat": 46.10883,
+    "lng": 6.59231
+  },
+  {
+    "name": "Tancarville",
+    "country": "FR",
+    "lat": 49.4855,
+    "lng": 0.45765
+  },
+  {
+    "name": "Taluyers",
+    "country": "FR",
+    "lat": 45.63973,
+    "lng": 4.72203
+  },
+  {
+    "name": "Talmas",
+    "country": "FR",
+    "lat": 50.03049,
+    "lng": 2.32554
+  },
+  {
+    "name": "Talloires",
+    "country": "FR",
+    "lat": 45.84098,
+    "lng": 6.21374
+  },
+  {
+    "name": "Tallende",
+    "country": "FR",
+    "lat": 45.6704,
+    "lng": 3.1246
+  },
+  {
+    "name": "Tallard",
+    "country": "FR",
+    "lat": 44.462,
+    "lng": 6.05205
+  },
+  {
+    "name": "Talensac",
+    "country": "FR",
+    "lat": 48.10926,
+    "lng": -1.92723
+  },
+  {
+    "name": "Talence",
+    "country": "FR",
+    "lat": 44.80849,
+    "lng": -0.58915
+  },
+  {
+    "name": "Talant",
+    "country": "FR",
+    "lat": 47.33693,
+    "lng": 5.00888
+  },
+  {
+    "name": "Talange",
+    "country": "FR",
+    "lat": 49.23577,
+    "lng": 6.17167
+  },
+  {
+    "name": "Taissy",
+    "country": "FR",
+    "lat": 49.21509,
+    "lng": 4.09406
+  },
+  {
+    "name": "Taintrux",
+    "country": "FR",
+    "lat": 48.24944,
+    "lng": 6.89963
+  },
+  {
+    "name": "Tain-l'Hermitage",
+    "country": "FR",
+    "lat": 45.06672,
+    "lng": 4.8559
+  },
+  {
+    "name": "Taillecourt",
+    "country": "FR",
+    "lat": 47.49521,
+    "lng": 6.85442
+  },
+  {
+    "name": "Taillades",
+    "country": "FR",
+    "lat": 43.83762,
+    "lng": 5.08951
+  },
+  {
+    "name": "Taden",
+    "country": "FR",
+    "lat": 48.47511,
+    "lng": -2.01976
+  },
+  {
+    "name": "Tacoignières",
+    "country": "FR",
+    "lat": 48.83619,
+    "lng": 1.67501
+  },
+  {
+    "name": "Tabanac",
+    "country": "FR",
+    "lat": 44.72051,
+    "lng": -0.4057
+  },
+  {
+    "name": "Tayport",
+    "country": "GB",
+    "lat": 56.44699,
+    "lng": -2.87966
+  },
+  {
+    "name": "Tavistock",
+    "country": "GB",
+    "lat": 50.54944,
+    "lng": -4.14418
+  },
+  {
+    "name": "Taunton",
+    "country": "GB",
+    "lat": 51.01494,
+    "lng": -3.10293
+  },
+  {
+    "name": "Tattenhall",
+    "country": "GB",
+    "lat": 53.12188,
+    "lng": -2.76746
+  },
+  {
+    "name": "Tarvin",
+    "country": "GB",
+    "lat": 53.19737,
+    "lng": -2.76548
+  },
+  {
+    "name": "Tarporley",
+    "country": "GB",
+    "lat": 53.15918,
+    "lng": -2.66867
+  },
+  {
+    "name": "Tarleton",
+    "country": "GB",
+    "lat": 53.68005,
+    "lng": -2.82968
+  },
+  {
+    "name": "Tarbolton",
+    "country": "GB",
+    "lat": 55.51292,
+    "lng": -4.48648
+  },
+  {
+    "name": "Tarbert",
+    "country": "GB",
+    "lat": 55.86277,
+    "lng": -5.41622
+  },
+  {
+    "name": "Taplow",
+    "country": "GB",
+    "lat": 51.53299,
+    "lng": -0.68682
+  },
+  {
+    "name": "Tansley",
+    "country": "GB",
+    "lat": 53.13197,
+    "lng": -1.51882
+  },
+  {
+    "name": "Tangmere",
+    "country": "GB",
+    "lat": 50.85131,
+    "lng": -0.71633
+  },
+  {
+    "name": "Tanfield",
+    "country": "GB",
+    "lat": 54.89288,
+    "lng": -1.71316
+  },
+  {
+    "name": "Tandragee",
+    "country": "GB",
+    "lat": 54.35486,
+    "lng": -6.41396
+  },
+  {
+    "name": "Tamworth",
+    "country": "GB",
+    "lat": 52.63399,
+    "lng": -1.69587
+  },
+  {
+    "name": "Talgarth",
+    "country": "GB",
+    "lat": 51.99588,
+    "lng": -3.23205
+  },
+  {
+    "name": "Takeley",
+    "country": "GB",
+    "lat": 51.87089,
+    "lng": 0.26583
+  },
+  {
+    "name": "Tain",
+    "country": "GB",
+    "lat": 57.81204,
+    "lng": -4.05518
+  },
+  {
+    "name": "Taibach",
+    "country": "GB",
+    "lat": 51.58333,
+    "lng": -3.76667
+  },
+  {
+    "name": "Tadworth",
+    "country": "GB",
+    "lat": 51.29169,
+    "lng": -0.23582
+  },
+  {
+    "name": "Tadley",
+    "country": "GB",
+    "lat": 51.35045,
+    "lng": -1.1285
+  },
+  {
+    "name": "Tadcaster",
+    "country": "GB",
+    "lat": 53.88322,
+    "lng": -1.26344
+  },
+  {
+    "name": "Tankerton",
+    "country": "GB",
+    "lat": 51.3637,
+    "lng": 1.04913
+  },
+  {
+    "name": "Talysarn",
+    "country": "GB",
+    "lat": 53.05365,
+    "lng": -4.25767
+  },
+  {
+    "name": "Tal-y-bont",
+    "country": "GB",
+    "lat": 52.77471,
+    "lng": -4.09224
+  },
+  {
+    "name": "Tarkwa",
+    "country": "GH",
+    "lat": 5.30383,
+    "lng": -1.98956
+  },
+  {
+    "name": "Tamale",
+    "country": "GH",
+    "lat": 9.40079,
+    "lng": -0.8393
+  },
+  {
+    "name": "Takoradi",
+    "country": "GH",
+    "lat": 4.89816,
+    "lng": -1.76029
+  },
+  {
+    "name": "Tafo",
+    "country": "GH",
+    "lat": 6.73156,
+    "lng": -1.6137
+  },
+  {
+    "name": "Taifa",
+    "country": "GH",
+    "lat": 5.65825,
+    "lng": -0.25223
+  },
+  {
+    "name": "Tasiilaq",
+    "country": "GL",
+    "lat": 65.61451,
+    "lng": -37.63676
+  },
+  {
+    "name": "Tanji",
+    "country": "GM",
+    "lat": 13.34889,
+    "lng": -16.79083
+  },
+  {
+    "name": "Talinding",
+    "country": "GM",
+    "lat": 13.42558,
+    "lng": -16.67261
+  },
+  {
+    "name": "Taxiárches",
+    "country": "GR",
+    "lat": 39.57565,
+    "lng": 21.89245
+  },
+  {
+    "name": "Tagarádes",
+    "country": "GR",
+    "lat": 40.48893,
+    "lng": 23.02229
+  },
+  {
+    "name": "Taxisco",
+    "country": "GT",
+    "lat": 14.06719,
+    "lng": -90.46791
+  },
+  {
+    "name": "Tamahú",
+    "country": "GT",
+    "lat": 15.3089,
+    "lng": -90.23599
+  },
+  {
+    "name": "Tajumulco",
+    "country": "GT",
+    "lat": 15.08349,
+    "lng": -91.92225
+  },
+  {
+    "name": "Tactic",
+    "country": "GT",
+    "lat": 15.32218,
+    "lng": -90.35448
+  },
+  {
+    "name": "Tacaná",
+    "country": "GT",
+    "lat": 15.24058,
+    "lng": -92.06721
+  },
+  {
+    "name": "Talofofo Village",
+    "country": "GU",
+    "lat": 13.35513,
+    "lng": 144.75835
+  },
+  {
+    "name": "Tamuning-Tumon-Harmon Village",
+    "country": "GU",
+    "lat": 13.48773,
+    "lng": 144.78138
+  },
+  {
+    "name": "Tamuning",
+    "country": "GU",
+    "lat": 13.48754,
+    "lng": 144.78143
+  },
+  {
+    "name": "Tai Wo Hau",
+    "country": "HK",
+    "lat": 22.36718,
+    "lng": 114.12347
+  },
+  {
+    "name": "Tai Wo",
+    "country": "HK",
+    "lat": 22.45151,
+    "lng": 114.16115
+  },
+  {
+    "name": "Tai Wai",
+    "country": "HK",
+    "lat": 22.37286,
+    "lng": 114.17897
+  },
+  {
+    "name": "Tai Shui Hang",
+    "country": "HK",
+    "lat": 22.40631,
+    "lng": 114.22385
+  },
+  {
+    "name": "Tai Po",
+    "country": "HK",
+    "lat": 22.45007,
+    "lng": 114.16877
+  },
+  {
+    "name": "Tai O",
+    "country": "HK",
+    "lat": 22.25515,
+    "lng": 113.86309
+  },
+  {
+    "name": "Tai Mong Tsai",
+    "country": "HK",
+    "lat": 22.40034,
+    "lng": 114.30249
+  },
+  {
+    "name": "Tai Mei Tuk",
+    "country": "HK",
+    "lat": 22.47447,
+    "lng": 114.23458
+  },
+  {
+    "name": "Tai Kok Tsui",
+    "country": "HK",
+    "lat": 22.32146,
+    "lng": 114.163
+  },
+  {
+    "name": "Tai Hang",
+    "country": "HK",
+    "lat": 22.27851,
+    "lng": 114.1922
+  },
+  {
+    "name": "Tai Yuen Estate",
+    "country": "HK",
+    "lat": 22.45574,
+    "lng": 114.16971
+  },
+  {
+    "name": "Tai Koo",
+    "country": "HK",
+    "lat": 22.2841,
+    "lng": 114.21631
+  },
+  {
+    "name": "Tai Hang Estate (East & West)",
+    "country": "HK",
+    "lat": 22.33209,
+    "lng": 114.17068
+  },
+  {
+    "name": "Taikoo Shing",
+    "country": "HK",
+    "lat": 22.28613,
+    "lng": 114.2187
+  },
+  {
+    "name": "Tai On Lau",
+    "country": "HK",
+    "lat": 22.28274,
+    "lng": 114.2221
+  },
+  {
+    "name": "Tak Long Estate",
+    "country": "HK",
+    "lat": 22.3302,
+    "lng": 114.20338
+  },
+  {
+    "name": "Taulabé",
+    "country": "HN",
+    "lat": 14.69251,
+    "lng": -87.96537
+  },
+  {
+    "name": "Taujica",
+    "country": "HN",
+    "lat": 15.7,
+    "lng": -85.91667
+  },
+  {
+    "name": "Taragual",
+    "country": "HN",
+    "lat": 14.75,
+    "lng": -88.48333
+  },
+  {
+    "name": "Talanga",
+    "country": "HN",
+    "lat": 14.4,
+    "lng": -87.08333
+  },
+  {
+    "name": "Tar",
+    "country": "HR",
+    "lat": 45.30083,
+    "lng": 13.62528
+  },
+  {
+    "name": "Tarpa",
+    "country": "HU",
+    "lat": 48.1048,
+    "lng": 22.53744
+  },
+  {
+    "name": "Tarnaörs",
+    "country": "HU",
+    "lat": 47.59499,
+    "lng": 20.05254
+  },
+  {
+    "name": "Tarnalelesz",
+    "country": "HU",
+    "lat": 48.05,
+    "lng": 20.18333
+  },
+  {
+    "name": "Tarcal",
+    "country": "HU",
+    "lat": 48.13333,
+    "lng": 21.35
+  },
+  {
+    "name": "Taktaszada",
+    "country": "HU",
+    "lat": 48.11667,
+    "lng": 21.18333
+  },
+  {
+    "name": "Taktaharkány",
+    "country": "HU",
+    "lat": 48.08333,
+    "lng": 21.13333
+  },
+  {
+    "name": "Tatabánya",
+    "country": "HU",
+    "lat": 47.59247,
+    "lng": 18.38099
+  },
+  {
+    "name": "Tata",
+    "country": "HU",
+    "lat": 47.65289,
+    "lng": 18.31838
+  },
+  {
+    "name": "Taszár",
+    "country": "HU",
+    "lat": 46.37467,
+    "lng": 17.90594
+  },
+  {
+    "name": "Tass",
+    "country": "HU",
+    "lat": 47.02095,
+    "lng": 19.02988
+  },
+  {
+    "name": "Tarján",
+    "country": "HU",
+    "lat": 47.61042,
+    "lng": 18.5107
+  },
+  {
+    "name": "Tardos",
+    "country": "HU",
+    "lat": 47.66192,
+    "lng": 18.44416
+  },
+  {
+    "name": "Tar",
+    "country": "HU",
+    "lat": 47.95371,
+    "lng": 19.7461
+  },
+  {
+    "name": "Tapolca",
+    "country": "HU",
+    "lat": 46.88152,
+    "lng": 17.44117
+  },
+  {
+    "name": "Tamási",
+    "country": "HU",
+    "lat": 46.63333,
+    "lng": 18.28333
+  },
+  {
+    "name": "Taksony",
+    "country": "HU",
+    "lat": 47.32968,
+    "lng": 19.06695
+  },
+  {
+    "name": "Tahitótfalu",
+    "country": "HU",
+    "lat": 47.75161,
+    "lng": 19.07886
+  },
+  {
+    "name": "Tab",
+    "country": "HU",
+    "lat": 46.73135,
+    "lng": 18.03201
+  },
+  {
+    "name": "Tarutung",
+    "country": "ID",
+    "lat": 2.01467,
+    "lng": 98.96548
+  },
+  {
+    "name": "Tanjungtiram",
+    "country": "ID",
+    "lat": 4.0613,
+    "lng": 98.3699
+  },
+  {
+    "name": "Tanjungbalai",
+    "country": "ID",
+    "lat": 2.96667,
+    "lng": 99.8
+  },
+  {
+    "name": "Tangse",
+    "country": "ID",
+    "lat": 5.0136,
+    "lng": 95.9153
+  },
+  {
+    "name": "Talu",
+    "country": "ID",
+    "lat": 0.23006,
+    "lng": 99.98123
+  },
+  {
+    "name": "Takengon",
+    "country": "ID",
+    "lat": 4.6212,
+    "lng": 96.8467
+  },
+  {
+    "name": "Tangga",
+    "country": "ID",
+    "lat": -8.656,
+    "lng": 118.6937
+  },
+  {
+    "name": "Tayu",
+    "country": "ID",
+    "lat": -6.5397,
+    "lng": 111.0518
+  },
+  {
+    "name": "Tayan",
+    "country": "ID",
+    "lat": -0.03365,
+    "lng": 110.10184
+  },
+  {
+    "name": "Tanusan",
+    "country": "ID",
+    "lat": -3.13371,
+    "lng": 133.64721
+  },
+  {
+    "name": "Tatelu",
+    "country": "ID",
+    "lat": 1.5307,
+    "lng": 124.94765
+  },
+  {
+    "name": "Tasikmalaya",
+    "country": "ID",
+    "lat": -7.3274,
+    "lng": 108.2207
+  },
+  {
+    "name": "Tarub",
+    "country": "ID",
+    "lat": -6.93333,
+    "lng": 109.16667
+  },
+  {
+    "name": "Tarogong",
+    "country": "ID",
+    "lat": -7.1902,
+    "lng": 107.8874
+  },
+  {
+    "name": "Tarempa",
+    "country": "ID",
+    "lat": 3.21583,
+    "lng": 106.21722
+  },
+  {
+    "name": "Tarakan",
+    "country": "ID",
+    "lat": 3.31332,
+    "lng": 117.59152
+  },
+  {
+    "name": "Taraju",
+    "country": "ID",
+    "lat": -7.458,
+    "lng": 107.9812
+  },
+  {
+    "name": "Tapalang",
+    "country": "ID",
+    "lat": -2.8637,
+    "lng": 118.8672
+  },
+  {
+    "name": "Tanjung Selor",
+    "country": "ID",
+    "lat": 2.8375,
+    "lng": 117.36528
+  },
+  {
+    "name": "Tanjungsakti",
+    "country": "ID",
+    "lat": -4.16762,
+    "lng": 103.0687
+  },
+  {
+    "name": "Tanjungraja",
+    "country": "ID",
+    "lat": -3.33725,
+    "lng": 104.77452
+  },
+  {
+    "name": "Tanjung Pinang",
+    "country": "ID",
+    "lat": 0.91667,
+    "lng": 104.45833
+  },
+  {
+    "name": "Tanjungpati",
+    "country": "ID",
+    "lat": -0.16046,
+    "lng": 100.67997
+  },
+  {
+    "name": "Tanjung Pandan",
+    "country": "ID",
+    "lat": -2.73353,
+    "lng": 107.63477
+  },
+  {
+    "name": "Tanjung Lubuk",
+    "country": "ID",
+    "lat": -3.52678,
+    "lng": 104.75858
+  },
+  {
+    "name": "Tanjunggadang",
+    "country": "ID",
+    "lat": -0.7783,
+    "lng": 101.1982
+  },
+  {
+    "name": "Tanjunggadang",
+    "country": "ID",
+    "lat": -0.30126,
+    "lng": 100.73841
+  },
+  {
+    "name": "Tanjungbumi",
+    "country": "ID",
+    "lat": -6.8912,
+    "lng": 113.0799
+  },
+  {
+    "name": "Tanjungbatu",
+    "country": "ID",
+    "lat": -3.0002,
+    "lng": 116.2227
+  },
+  {
+    "name": "Tanjungbatu",
+    "country": "ID",
+    "lat": 0.65936,
+    "lng": 103.46195
+  },
+  {
+    "name": "Tanjung Balai",
+    "country": "ID",
+    "lat": 1.00005,
+    "lng": 103.42186
+  },
+  {
+    "name": "Tanjungampalu",
+    "country": "ID",
+    "lat": -0.6221,
+    "lng": 100.82507
+  },
+  {
+    "name": "Tanjungagung",
+    "country": "ID",
+    "lat": -3.93728,
+    "lng": 103.80465
+  },
+  {
+    "name": "Tanjung",
+    "country": "ID",
+    "lat": -8.356,
+    "lng": 116.1565
+  },
+  {
+    "name": "Tanjung",
+    "country": "ID",
+    "lat": 4.01527,
+    "lng": 108.34345
+  },
+  {
+    "name": "Tanjung",
+    "country": "ID",
+    "lat": -2.1709,
+    "lng": 115.4077
+  },
+  {
+    "name": "Taniwel",
+    "country": "ID",
+    "lat": -2.85245,
+    "lng": 128.4772
+  },
+  {
+    "name": "Tanggulangin",
+    "country": "ID",
+    "lat": -7.49958,
+    "lng": 112.69992
+  },
+  {
+    "name": "Tanggul",
+    "country": "ID",
+    "lat": -8.1645,
+    "lng": 113.4525
+  },
+  {
+    "name": "Tanggeung",
+    "country": "ID",
+    "lat": -7.2677,
+    "lng": 107.1236
+  },
+  {
+    "name": "Tangerang",
+    "country": "ID",
+    "lat": -6.17806,
+    "lng": 106.63
+  },
+  {
+    "name": "Tanahwangko",
+    "country": "ID",
+    "lat": 1.39368,
+    "lng": 124.68227
+  },
+  {
+    "name": "Tana Paser",
+    "country": "ID",
+    "lat": -1.9051,
+    "lng": 116.1913
+  },
+  {
+    "name": "Tamiang Layang",
+    "country": "ID",
+    "lat": -2.1236,
+    "lng": 115.1958
+  },
+  {
+    "name": "Tambu",
+    "country": "ID",
+    "lat": -0.0483,
+    "lng": 119.8794
+  },
+  {
+    "name": "Tamberu",
+    "country": "ID",
+    "lat": -6.8981,
+    "lng": 113.4843
+  },
+  {
+    "name": "Tambaksari",
+    "country": "ID",
+    "lat": -7.2489,
+    "lng": 108.535
+  },
+  {
+    "name": "Tambak",
+    "country": "ID",
+    "lat": -5.73206,
+    "lng": 112.65032
+  },
+  {
+    "name": "Tamako",
+    "country": "ID",
+    "lat": 3.45626,
+    "lng": 125.50627
+  },
+  {
+    "name": "Talun",
+    "country": "ID",
+    "lat": -8.0906,
+    "lng": 112.285
+  },
+  {
+    "name": "Taliwang",
+    "country": "ID",
+    "lat": -8.7449,
+    "lng": 116.8532
+  },
+  {
+    "name": "Talise",
+    "country": "ID",
+    "lat": 1.83344,
+    "lng": 125.06949
+  },
+  {
+    "name": "Talawi",
+    "country": "ID",
+    "lat": -0.59745,
+    "lng": 100.73979
+  },
+  {
+    "name": "Talang Ubi",
+    "country": "ID",
+    "lat": -3.2656,
+    "lng": 103.8253
+  },
+  {
+    "name": "Talangbetutu",
+    "country": "ID",
+    "lat": -2.8817,
+    "lng": 104.6939
+  },
+  {
+    "name": "Takokak",
+    "country": "ID",
+    "lat": -7.0513,
+    "lng": 107.0036
+  },
+  {
+    "name": "Takalar",
+    "country": "ID",
+    "lat": -5.4258,
+    "lng": 119.4384
+  },
+  {
+    "name": "Tajinan",
+    "country": "ID",
+    "lat": -8.0497,
+    "lng": 112.6824
+  },
+  {
+    "name": "Tais",
+    "country": "ID",
+    "lat": -4.07543,
+    "lng": 102.57739
+  },
+  {
+    "name": "Tahuna",
+    "country": "ID",
+    "lat": 3.61099,
+    "lng": 125.4858
+  },
+  {
+    "name": "Tagolu",
+    "country": "ID",
+    "lat": -1.4393,
+    "lng": 120.7731
+  },
+  {
+    "name": "Taccipi",
+    "country": "ID",
+    "lat": -4.5066,
+    "lng": 120.1842
+  },
+  {
+    "name": "Tabing",
+    "country": "ID",
+    "lat": -0.87203,
+    "lng": 100.34279
+  },
+  {
+    "name": "Tabanan",
+    "country": "ID",
+    "lat": -8.5413,
+    "lng": 115.12522
+  },
+  {
+    "name": "Tanjungsamalantakan",
+    "country": "ID",
+    "lat": -2.5818,
+    "lng": 116.4099
+  },
+  {
+    "name": "Tabunganen",
+    "country": "ID",
+    "lat": -3.4103,
+    "lng": 114.4829
+  },
+  {
+    "name": "Tancung",
+    "country": "ID",
+    "lat": -4.0525,
+    "lng": 120.0288
+  },
+  {
+    "name": "Tanah Merah",
+    "country": "ID",
+    "lat": -6.09756,
+    "lng": 140.30649
+  },
+  {
+    "name": "Tangantangancut",
+    "country": "ID",
+    "lat": 3.6876,
+    "lng": 96.8896
+  },
+  {
+    "name": "Tanggunggunung",
+    "country": "ID",
+    "lat": -8.2185,
+    "lng": 111.8757
+  },
+  {
+    "name": "Tanjungampalu",
+    "country": "ID",
+    "lat": -0.63865,
+    "lng": 100.8281
+  },
+  {
+    "name": "Tanjung Mas",
+    "country": "ID",
+    "lat": -0.497,
+    "lng": 100.773
+  },
+  {
+    "name": "Tambolaka",
+    "country": "ID",
+    "lat": -9.4283,
+    "lng": 119.238
+  },
+  {
+    "name": "Tawali",
+    "country": "ID",
+    "lat": -8.3407,
+    "lng": 118.9145
+  },
+  {
+    "name": "Tangratte",
+    "country": "ID",
+    "lat": -3.0497,
+    "lng": 119.7643
+  },
+  {
+    "name": "Talibura",
+    "country": "ID",
+    "lat": -8.5246,
+    "lng": 122.5255
+  },
+  {
+    "name": "Tamanan",
+    "country": "ID",
+    "lat": -8.0722,
+    "lng": 111.9026
+  },
+  {
+    "name": "Tanjungjaya",
+    "country": "ID",
+    "lat": -7.3882,
+    "lng": 108.1215
+  },
+  {
+    "name": "Talango",
+    "country": "ID",
+    "lat": -7.063,
+    "lng": 113.9507
+  },
+  {
+    "name": "Tarus",
+    "country": "ID",
+    "lat": -10.1329,
+    "lng": 123.6878
+  },
+  {
+    "name": "Takari",
+    "country": "ID",
+    "lat": -9.9727,
+    "lng": 124.0469
+  },
+  {
+    "name": "Tanjung Lubuk",
+    "country": "ID",
+    "lat": -3.3599,
+    "lng": 104.8429
+  },
+  {
+    "name": "Tanah Merah",
+    "country": "ID",
+    "lat": 3.63221,
+    "lng": 97.70234
+  },
+  {
+    "name": "Tanjung Palas",
+    "country": "ID",
+    "lat": 2.82988,
+    "lng": 117.34255
+  },
+  {
+    "name": "Tanta",
+    "country": "ID",
+    "lat": -2.2285,
+    "lng": 115.4522
+  },
+  {
+    "name": "Tambarangan",
+    "country": "ID",
+    "lat": -3.0039,
+    "lng": 115.1321
+  },
+  {
+    "name": "Tapintengah",
+    "country": "ID",
+    "lat": -2.9564,
+    "lng": 115.0372
+  },
+  {
+    "name": "Tambakrejo",
+    "country": "ID",
+    "lat": -7.24723,
+    "lng": 112.75583
+  },
+  {
+    "name": "Taman",
+    "country": "ID",
+    "lat": -6.91391,
+    "lng": 109.41045
+  },
+  {
+    "name": "Tallaght",
+    "country": "IE",
+    "lat": 53.2859,
+    "lng": -6.37344
+  },
+  {
+    "name": "Tamra",
+    "country": "IL",
+    "lat": 32.85301,
+    "lng": 35.1987
+  },
+  {
+    "name": "Tal Shaẖar",
+    "country": "IL",
+    "lat": 31.80466,
+    "lng": 34.90271
+  },
+  {
+    "name": "Taiyiba",
+    "country": "IL",
+    "lat": 32.60415,
+    "lng": 35.44483
+  },
+  {
+    "name": "Talmon",
+    "country": "IL",
+    "lat": 31.93927,
+    "lng": 35.13539
+  },
+  {
+    "name": "Tal El",
+    "country": "IL",
+    "lat": 32.92825,
+    "lng": 35.18128
+  },
+  {
+    "name": "Tawang Town",
+    "country": "IN",
+    "lat": 27.57417,
+    "lng": 91.795
+  },
+  {
+    "name": "Tarn Taran",
+    "country": "IN",
+    "lat": 31.45191,
+    "lng": 74.92777
+  },
+  {
+    "name": "Tarikere",
+    "country": "IN",
+    "lat": 13.70954,
+    "lng": 75.81382
+  },
+  {
+    "name": "Tarāna",
+    "country": "IN",
+    "lat": 23.33383,
+    "lng": 76.04253
+  },
+  {
+    "name": "Tarakeswar",
+    "country": "IN",
+    "lat": 22.88605,
+    "lng": 88.01363
+  },
+  {
+    "name": "Tarabha",
+    "country": "IN",
+    "lat": 20.73252,
+    "lng": 83.67443
+  },
+  {
+    "name": "Tapukrāh",
+    "country": "IN",
+    "lat": 28.11072,
+    "lng": 76.8327
+  },
+  {
+    "name": "Tanuku",
+    "country": "IN",
+    "lat": 16.75438,
+    "lng": 81.68143
+  },
+  {
+    "name": "Tankāra",
+    "country": "IN",
+    "lat": 22.65622,
+    "lng": 70.74945
+  },
+  {
+    "name": "Tangdhār",
+    "country": "IN",
+    "lat": 34.3979,
+    "lng": 73.85984
+  },
+  {
+    "name": "Tandur",
+    "country": "IN",
+    "lat": 17.24849,
+    "lng": 77.57698
+  },
+  {
+    "name": "Tanakpur",
+    "country": "IN",
+    "lat": 29.074,
+    "lng": 80.11139
+  },
+  {
+    "name": "Tammampatti",
+    "country": "IN",
+    "lat": 11.44126,
+    "lng": 78.4887
+  },
+  {
+    "name": "Tamlūk",
+    "country": "IN",
+    "lat": 22.30083,
+    "lng": 87.92593
+  },
+  {
+    "name": "Tamenglong",
+    "country": "IN",
+    "lat": 25.0164,
+    "lng": 93.48545
+  },
+  {
+    "name": "Tambaram",
+    "country": "IN",
+    "lat": 12.9246,
+    "lng": 80.12707
+  },
+  {
+    "name": "Talwāra",
+    "country": "IN",
+    "lat": 31.9376,
+    "lng": 75.88657
+  },
+  {
+    "name": "Talwandi Sābo",
+    "country": "IN",
+    "lat": 29.98379,
+    "lng": 75.08203
+  },
+  {
+    "name": "Talwandi Bhai",
+    "country": "IN",
+    "lat": 30.85584,
+    "lng": 74.92979
+  },
+  {
+    "name": "Taloje",
+    "country": "IN",
+    "lat": 19.08555,
+    "lng": 73.09837
+  },
+  {
+    "name": "Taloda",
+    "country": "IN",
+    "lat": 21.56128,
+    "lng": 74.21238
+  },
+  {
+    "name": "Talni",
+    "country": "IN",
+    "lat": 19.88176,
+    "lng": 76.47322
+  },
+  {
+    "name": "Taliparamba",
+    "country": "IN",
+    "lat": 12.04161,
+    "lng": 75.35927
+  },
+  {
+    "name": "Talen",
+    "country": "IN",
+    "lat": 23.56949,
+    "lng": 76.72821
+  },
+  {
+    "name": "Taleigao",
+    "country": "IN",
+    "lat": 15.46915,
+    "lng": 73.83285
+  },
+  {
+    "name": "Talegaon Dābhāde",
+    "country": "IN",
+    "lat": 18.73502,
+    "lng": 73.67561
+  },
+  {
+    "name": "Talakkād",
+    "country": "IN",
+    "lat": 10.88459,
+    "lng": 75.93091
+  },
+  {
+    "name": "Talāja",
+    "country": "IN",
+    "lat": 21.3527,
+    "lng": 72.03524
+  },
+  {
+    "name": "Talaināyar Agrahāram",
+    "country": "IN",
+    "lat": 10.5614,
+    "lng": 79.77229
+  },
+  {
+    "name": "Takkolam",
+    "country": "IN",
+    "lat": 13.01643,
+    "lng": 79.73252
+  },
+  {
+    "name": "Takhatpur",
+    "country": "IN",
+    "lat": 22.12915,
+    "lng": 81.86959
+  },
+  {
+    "name": "Takhatgarh",
+    "country": "IN",
+    "lat": 25.32235,
+    "lng": 73.00487
+  },
+  {
+    "name": "Taipi Duidam",
+    "country": "IN",
+    "lat": 27.29117,
+    "lng": 96.04367
+  },
+  {
+    "name": "Tadpatri",
+    "country": "IN",
+    "lat": 14.90832,
+    "lng": 78.01031
+  },
+  {
+    "name": "Tapa",
+    "country": "IN",
+    "lat": 30.29794,
+    "lng": 75.36936
+  },
+  {
+    "name": "Tarīchar Kalān",
+    "country": "IN",
+    "lat": 25.41182,
+    "lng": 78.88997
+  },
+  {
+    "name": "Tangellamūdi",
+    "country": "IN",
+    "lat": 16.72121,
+    "lng": 81.10517
+  },
+  {
+    "name": "Talpādi",
+    "country": "IN",
+    "lat": 12.766,
+    "lng": 74.88937
+  },
+  {
+    "name": "Tattihalli",
+    "country": "IN",
+    "lat": 14.98446,
+    "lng": 75.0129
+  },
+  {
+    "name": "Tarlapalli",
+    "country": "IN",
+    "lat": 18.83448,
+    "lng": 79.49068
+  },
+  {
+    "name": "Talakkolattur",
+    "country": "IN",
+    "lat": 11.35366,
+    "lng": 75.75798
+  },
+  {
+    "name": "Tangla",
+    "country": "IN",
+    "lat": 26.65693,
+    "lng": 91.91381
+  },
+  {
+    "name": "Talod",
+    "country": "IN",
+    "lat": 23.3514,
+    "lng": 72.94999
+  },
+  {
+    "name": "Talaiyūr",
+    "country": "IN",
+    "lat": 11.01016,
+    "lng": 76.84896
+  },
+  {
+    "name": "Tayikkād",
+    "country": "IN",
+    "lat": 10.59163,
+    "lng": 76.06112
+  },
+  {
+    "name": "Talattala",
+    "country": "IN",
+    "lat": 8.87382,
+    "lng": 76.67158
+  },
+  {
+    "name": "Tattānkuttai",
+    "country": "IN",
+    "lat": 11.43518,
+    "lng": 77.72369
+  },
+  {
+    "name": "Tadikārakonam",
+    "country": "IN",
+    "lat": 8.33016,
+    "lng": 77.41491
+  },
+  {
+    "name": "Tamarakutamkudiyiruppu",
+    "country": "IN",
+    "lat": 8.10145,
+    "lng": 77.4937
+  },
+  {
+    "name": "Tanakkangulam",
+    "country": "IN",
+    "lat": 9.88769,
+    "lng": 78.0397
+  },
+  {
+    "name": "Taping",
+    "country": "IN",
+    "lat": 23.83685,
+    "lng": 85.49454
+  },
+  {
+    "name": "Talala",
+    "country": "IN",
+    "lat": 21.05473,
+    "lng": 70.52903
+  },
+  {
+    "name": "Tato",
+    "country": "IN",
+    "lat": 28.52754,
+    "lng": 94.37249
+  },
+  {
+    "name": "Tada Khandrika",
+    "country": "IN",
+    "lat": 13.58855,
+    "lng": 80.03368
+  },
+  {
+    "name": "Takhlibilar Pathar",
+    "country": "IN",
+    "lat": 26.50036,
+    "lng": 90.93524
+  },
+  {
+    "name": "Tarapur VII",
+    "country": "IN",
+    "lat": 24.81308,
+    "lng": 92.78224
+  },
+  {
+    "name": "Tarapur Pt VI",
+    "country": "IN",
+    "lat": 24.85159,
+    "lng": 92.76668
+  },
+  {
+    "name": "Talkhapur Dumra",
+    "country": "IN",
+    "lat": 26.5615,
+    "lng": 85.50737
+  },
+  {
+    "name": "Taj Pul",
+    "country": "IN",
+    "lat": 28.49482,
+    "lng": 77.30587
+  },
+  {
+    "name": "Tarsali",
+    "country": "IN",
+    "lat": 22.25629,
+    "lng": 73.2167
+  },
+  {
+    "name": "Tarsadi",
+    "country": "IN",
+    "lat": 21.46996,
+    "lng": 72.9521
+  },
+  {
+    "name": "Talwara",
+    "country": "IN",
+    "lat": 33.1048,
+    "lng": 74.79283
+  },
+  {
+    "name": "Tanr Balidih",
+    "country": "IN",
+    "lat": 23.66853,
+    "lng": 86.05041
+  },
+  {
+    "name": "Talikkulam",
+    "country": "IN",
+    "lat": 10.44036,
+    "lng": 76.09483
+  },
+  {
+    "name": "Tamgaon",
+    "country": "IN",
+    "lat": 16.64837,
+    "lng": 74.29912
+  },
+  {
+    "name": "Tajpura",
+    "country": "IN",
+    "lat": 12.89326,
+    "lng": 79.31918
+  },
+  {
+    "name": "Tangapur",
+    "country": "IN",
+    "lat": 16.39559,
+    "lng": 78.62658
+  },
+  {
+    "name": "Taranagar",
+    "country": "IN",
+    "lat": 23.96877,
+    "lng": 91.37081
+  },
+  {
+    "name": "Tallkayf",
+    "country": "IQ",
+    "lat": 36.49118,
+    "lng": 43.12114
+  },
+  {
+    "name": "Tall ‘Afar",
+    "country": "IQ",
+    "lat": 36.37913,
+    "lng": 42.44806
+  },
+  {
+    "name": "Takht-e Qeyşar",
+    "country": "IR",
+    "lat": 32.05908,
+    "lng": 48.86752
+  },
+  {
+    "name": "Takāb",
+    "country": "IR",
+    "lat": 36.4009,
+    "lng": 47.1133
+  },
+  {
+    "name": "Tajrīsh",
+    "country": "IR",
+    "lat": 35.8044,
+    "lng": 51.4256
+  },
+  {
+    "name": "Taft",
+    "country": "IR",
+    "lat": 31.74384,
+    "lng": 54.20278
+  },
+  {
+    "name": "Tafresh",
+    "country": "IR",
+    "lat": 34.69307,
+    "lng": 50.01601
+  },
+  {
+    "name": "Tabriz",
+    "country": "IR",
+    "lat": 38.08,
+    "lng": 46.2919
+  },
+  {
+    "name": "Tabas",
+    "country": "IR",
+    "lat": 33.59586,
+    "lng": 56.92437
+  },
+  {
+    "name": "Taft",
+    "country": "IR",
+    "lat": 31.76056,
+    "lng": 54.22303
+  },
+  {
+    "name": "Taviano",
+    "country": "IT",
+    "lat": 39.98224,
+    "lng": 18.08151
+  },
+  {
+    "name": "Taverna",
+    "country": "IT",
+    "lat": 39.022,
+    "lng": 16.58081
+  },
+  {
+    "name": "Taurisano",
+    "country": "IT",
+    "lat": 39.95746,
+    "lng": 18.21498
+  },
+  {
+    "name": "Taurianova",
+    "country": "IT",
+    "lat": 38.35525,
+    "lng": 16.01306
+  },
+  {
+    "name": "Tarsia",
+    "country": "IT",
+    "lat": 39.62311,
+    "lng": 16.27337
+  },
+  {
+    "name": "Taormina",
+    "country": "IT",
+    "lat": 37.85358,
+    "lng": 15.28851
+  },
+  {
+    "name": "Tavullia",
+    "country": "IT",
+    "lat": 43.89791,
+    "lng": 12.75108
+  },
+  {
+    "name": "Tavoleto",
+    "country": "IT",
+    "lat": 43.84402,
+    "lng": 12.59418
+  },
+  {
+    "name": "Tavernole",
+    "country": "IT",
+    "lat": 45.74618,
+    "lng": 10.23952
+  },
+  {
+    "name": "Tavernola Bergamasca",
+    "country": "IT",
+    "lat": 45.70846,
+    "lng": 10.04454
+  },
+  {
+    "name": "Tavernelle",
+    "country": "IT",
+    "lat": 43.73203,
+    "lng": 12.88349
+  },
+  {
+    "name": "Tavernelle",
+    "country": "IT",
+    "lat": 43.00333,
+    "lng": 12.1452
+  },
+  {
+    "name": "Taverne D'Arbia",
+    "country": "IT",
+    "lat": 43.2949,
+    "lng": 11.39483
+  },
+  {
+    "name": "Tavenna",
+    "country": "IT",
+    "lat": 41.90898,
+    "lng": 14.76176
+  },
+  {
+    "name": "Tavazzano",
+    "country": "IT",
+    "lat": 45.32783,
+    "lng": 9.40473
+  },
+  {
+    "name": "Tavarnuzze",
+    "country": "IT",
+    "lat": 43.71019,
+    "lng": 11.21721
+  },
+  {
+    "name": "Tavagnasco",
+    "country": "IT",
+    "lat": 45.54448,
+    "lng": 7.82293
+  },
+  {
+    "name": "Tavagnacco",
+    "country": "IT",
+    "lat": 46.10976,
+    "lng": 13.22251
+  },
+  {
+    "name": "Taurasi",
+    "country": "IT",
+    "lat": 41.0108,
+    "lng": 14.9598
+  },
+  {
+    "name": "Taurano",
+    "country": "IT",
+    "lat": 40.88444,
+    "lng": 14.63427
+  },
+  {
+    "name": "Tassullo",
+    "country": "IT",
+    "lat": 46.34298,
+    "lng": 11.04539
+  },
+  {
+    "name": "Tarzo",
+    "country": "IT",
+    "lat": 45.97711,
+    "lng": 12.22917
+  },
+  {
+    "name": "Tarvisio",
+    "country": "IT",
+    "lat": 46.50567,
+    "lng": 13.58689
+  },
+  {
+    "name": "Tarquinia",
+    "country": "IT",
+    "lat": 42.25419,
+    "lng": 11.75657
+  },
+  {
+    "name": "Tarcento",
+    "country": "IT",
+    "lat": 46.21251,
+    "lng": 13.21514
+  },
+  {
+    "name": "Taranto",
+    "country": "IT",
+    "lat": 40.46438,
+    "lng": 17.24707
+  },
+  {
+    "name": "Tarantasca",
+    "country": "IT",
+    "lat": 44.49322,
+    "lng": 7.54459
+  },
+  {
+    "name": "Taranta Peligna",
+    "country": "IT",
+    "lat": 42.02052,
+    "lng": 14.17103
+  },
+  {
+    "name": "Tarano",
+    "country": "IT",
+    "lat": 42.35593,
+    "lng": 12.59497
+  },
+  {
+    "name": "Taneto",
+    "country": "IT",
+    "lat": 44.77202,
+    "lng": 10.45563
+  },
+  {
+    "name": "Tamai",
+    "country": "IT",
+    "lat": 45.92427,
+    "lng": 12.57187
+  },
+  {
+    "name": "Talmassons",
+    "country": "IT",
+    "lat": 45.9281,
+    "lng": 13.12199
+  },
+  {
+    "name": "Talla",
+    "country": "IT",
+    "lat": 43.60185,
+    "lng": 11.78714
+  },
+  {
+    "name": "Talana",
+    "country": "IT",
+    "lat": 40.04157,
+    "lng": 9.49554
+  },
+  {
+    "name": "Talamello",
+    "country": "IT",
+    "lat": 43.90566,
+    "lng": 12.28484
+  },
+  {
+    "name": "Taipana",
+    "country": "IT",
+    "lat": 46.24911,
+    "lng": 13.3415
+  },
+  {
+    "name": "Taino",
+    "country": "IT",
+    "lat": 45.76249,
+    "lng": 8.61654
+  },
+  {
+    "name": "Taibon Agordino",
+    "country": "IT",
+    "lat": 46.29838,
+    "lng": 12.01312
+  },
+  {
+    "name": "Taglio di Po",
+    "country": "IT",
+    "lat": 45.00189,
+    "lng": 12.21386
+  },
+  {
+    "name": "Taglio",
+    "country": "IT",
+    "lat": 45.02222,
+    "lng": 12.21083
+  },
+  {
+    "name": "Tagliacozzo",
+    "country": "IT",
+    "lat": 42.06933,
+    "lng": 13.25469
+  },
+  {
+    "name": "Taggia",
+    "country": "IT",
+    "lat": 43.84612,
+    "lng": 7.85223
+  },
+  {
+    "name": "Tadasuni",
+    "country": "IT",
+    "lat": 40.10995,
+    "lng": 8.88353
+  },
+  {
+    "name": "Taceno",
+    "country": "IT",
+    "lat": 46.02253,
+    "lng": 9.364
+  },
+  {
+    "name": "Taio",
+    "country": "IT",
+    "lat": 46.32139,
+    "lng": 11.06624
+  },
+  {
+    "name": "Taleggio",
+    "country": "IT",
+    "lat": 45.89339,
+    "lng": 9.56485
+  },
+  {
+    "name": "Tavarnelle Val di Pesa",
+    "country": "IT",
+    "lat": 43.56184,
+    "lng": 11.17152
+  },
+  {
+    "name": "Tagliolo Monferrato",
+    "country": "IT",
+    "lat": 44.63835,
+    "lng": 8.66585
+  },
+  {
+    "name": "Tassarolo",
+    "country": "IT",
+    "lat": 44.72811,
+    "lng": 8.77164
+  },
+  {
+    "name": "Talamona",
+    "country": "IT",
+    "lat": 46.13849,
+    "lng": 9.61294
+  },
+  {
+    "name": "Tartano",
+    "country": "IT",
+    "lat": 46.10554,
+    "lng": 9.67864
+  },
+  {
+    "name": "Tavigliano",
+    "country": "IT",
+    "lat": 45.62206,
+    "lng": 8.05172
+  },
+  {
+    "name": "Tambre",
+    "country": "IT",
+    "lat": 46.12632,
+    "lng": 12.41941
+  },
+  {
+    "name": "Tavernerio",
+    "country": "IT",
+    "lat": 45.80068,
+    "lng": 9.14054
+  },
+  {
+    "name": "Tagliuno",
+    "country": "IT",
+    "lat": 45.64255,
+    "lng": 9.90864
+  },
+  {
+    "name": "Taverna",
+    "country": "IT",
+    "lat": 39.4304,
+    "lng": 16.2309
+  },
+  {
+    "name": "Taggì",
+    "country": "IT",
+    "lat": 45.4607,
+    "lng": 11.81865
+  },
+  {
+    "name": "Talponada",
+    "country": "IT",
+    "lat": 45.70351,
+    "lng": 12.49053
+  },
+  {
+    "name": "Tagliaferro",
+    "country": "IT",
+    "lat": 44.9785,
+    "lng": 7.6643
+  },
+  {
+    "name": "Tabiago-Cibrone",
+    "country": "IT",
+    "lat": 45.75639,
+    "lng": 9.26684
+  },
+  {
+    "name": "Tavernelle",
+    "country": "IT",
+    "lat": 45.51498,
+    "lng": 11.4486
+  },
+  {
+    "name": "Tavo",
+    "country": "IT",
+    "lat": 45.50066,
+    "lng": 11.86079
+  },
+  {
+    "name": "Taverna Ravindola",
+    "country": "IT",
+    "lat": 41.52283,
+    "lng": 14.12591
+  },
+  {
+    "name": "Tala Bay",
+    "country": "JO",
+    "lat": 29.40842,
+    "lng": 34.97918
+  },
+  {
+    "name": "Tawaramoto",
+    "country": "JP",
+    "lat": 34.5542,
+    "lng": 135.79297
+  },
+  {
+    "name": "Tatsuno",
+    "country": "JP",
+    "lat": 35.98426,
+    "lng": 137.99721
+  },
+  {
+    "name": "Tatsunochō-tominaga",
+    "country": "JP",
+    "lat": 34.86437,
+    "lng": 134.552
+  },
+  {
+    "name": "Tatsuiwa",
+    "country": "JP",
+    "lat": 36.68333,
+    "lng": 139.1
+  },
+  {
+    "name": "Tatsugō",
+    "country": "JP",
+    "lat": 28.45,
+    "lng": 129.6
+  },
+  {
+    "name": "Tateyama",
+    "country": "JP",
+    "lat": 34.98333,
+    "lng": 139.86667
+  },
+  {
+    "name": "Tatebayashi",
+    "country": "JP",
+    "lat": 36.25,
+    "lng": 139.53333
+  },
+  {
+    "name": "Tarumizu",
+    "country": "JP",
+    "lat": 31.48333,
+    "lng": 130.7
+  },
+  {
+    "name": "Tarui",
+    "country": "JP",
+    "lat": 35.36667,
+    "lng": 136.53333
+  },
+  {
+    "name": "Taragi",
+    "country": "JP",
+    "lat": 32.26667,
+    "lng": 130.93333
+  },
+  {
+    "name": "Tara",
+    "country": "JP",
+    "lat": 33.02435,
+    "lng": 130.17838
+  },
+  {
+    "name": "Tanushimarumachi-toyoki",
+    "country": "JP",
+    "lat": 33.35,
+    "lng": 130.68333
+  },
+  {
+    "name": "Tanuma",
+    "country": "JP",
+    "lat": 36.36667,
+    "lng": 139.58333
+  },
+  {
+    "name": "Tano",
+    "country": "JP",
+    "lat": 33.41667,
+    "lng": 134.01667
+  },
+  {
+    "name": "Tanashichō",
+    "country": "JP",
+    "lat": 35.72922,
+    "lng": 139.53813
+  },
+  {
+    "name": "Tanabe",
+    "country": "JP",
+    "lat": 34.82242,
+    "lng": 135.76604
+  },
+  {
+    "name": "Tanabe",
+    "country": "JP",
+    "lat": 33.73333,
+    "lng": 135.36667
+  },
+  {
+    "name": "Tamaru",
+    "country": "JP",
+    "lat": 34.48333,
+    "lng": 136.63333
+  },
+  {
+    "name": "Tamano",
+    "country": "JP",
+    "lat": 34.51745,
+    "lng": 133.94574
+  },
+  {
+    "name": "Tamana",
+    "country": "JP",
+    "lat": 32.94716,
+    "lng": 130.57446
+  },
+  {
+    "name": "Tamamura",
+    "country": "JP",
+    "lat": 36.3,
+    "lng": 139.11667
+  },
+  {
+    "name": "Tamagawa",
+    "country": "JP",
+    "lat": 35.61553,
+    "lng": 139.62426
+  },
+  {
+    "name": "Takinomiya",
+    "country": "JP",
+    "lat": 34.24643,
+    "lng": 133.92296
+  },
+  {
+    "name": "Taketoyo",
+    "country": "JP",
+    "lat": 34.85,
+    "lng": 136.91667
+  },
+  {
+    "name": "Takeo",
+    "country": "JP",
+    "lat": 33.19009,
+    "lng": 130.02084
+  },
+  {
+    "name": "Takehara",
+    "country": "JP",
+    "lat": 34.33833,
+    "lng": 132.91667
+  },
+  {
+    "name": "Takefu",
+    "country": "JP",
+    "lat": 35.90393,
+    "lng": 136.16687
+  },
+  {
+    "name": "Takedamachi",
+    "country": "JP",
+    "lat": 32.96667,
+    "lng": 131.4
+  },
+  {
+    "name": "Takayama",
+    "country": "JP",
+    "lat": 36.13333,
+    "lng": 137.25
+  },
+  {
+    "name": "Takatsuki",
+    "country": "JP",
+    "lat": 34.84833,
+    "lng": 135.61678
+  },
+  {
+    "name": "Takasaki",
+    "country": "JP",
+    "lat": 36.33333,
+    "lng": 139.01667
+  },
+  {
+    "name": "Takasaka",
+    "country": "JP",
+    "lat": 36.0,
+    "lng": 139.4
+  },
+  {
+    "name": "Takarazuka",
+    "country": "JP",
+    "lat": 34.79936,
+    "lng": 135.35697
+  },
+  {
+    "name": "Takaoka",
+    "country": "JP",
+    "lat": 36.75,
+    "lng": 137.01667
+  },
+  {
+    "name": "Takanosu",
+    "country": "JP",
+    "lat": 32.2,
+    "lng": 130.18333
+  },
+  {
+    "name": "Takanomachi",
+    "country": "JP",
+    "lat": 36.16518,
+    "lng": 138.48301
+  },
+  {
+    "name": "Takanawa",
+    "country": "JP",
+    "lat": 35.63212,
+    "lng": 139.73423
+  },
+  {
+    "name": "Takanabe",
+    "country": "JP",
+    "lat": 32.13333,
+    "lng": 131.5
+  },
+  {
+    "name": "Takamori",
+    "country": "JP",
+    "lat": 32.81959,
+    "lng": 131.12704
+  },
+  {
+    "name": "Takamatsu",
+    "country": "JP",
+    "lat": 34.33333,
+    "lng": 134.05
+  },
+  {
+    "name": "Takajō",
+    "country": "JP",
+    "lat": 32.16667,
+    "lng": 131.48333
+  },
+  {
+    "name": "Takaishi",
+    "country": "JP",
+    "lat": 34.51667,
+    "lng": 135.43333
+  },
+  {
+    "name": "Takaike",
+    "country": "JP",
+    "lat": 33.53333,
+    "lng": 135.81667
+  },
+  {
+    "name": "Takahashi",
+    "country": "JP",
+    "lat": 34.78333,
+    "lng": 133.61667
+  },
+  {
+    "name": "Takaharu",
+    "country": "JP",
+    "lat": 31.91667,
+    "lng": 131.01667
+  },
+  {
+    "name": "Takahama",
+    "country": "JP",
+    "lat": 35.49003,
+    "lng": 135.54983
+  },
+  {
+    "name": "Takahama",
+    "country": "JP",
+    "lat": 34.91667,
+    "lng": 136.98333
+  },
+  {
+    "name": "Takada",
+    "country": "JP",
+    "lat": 35.3,
+    "lng": 136.56667
+  },
+  {
+    "name": "Takabō",
+    "country": "JP",
+    "lat": 34.12828,
+    "lng": 134.534
+  },
+  {
+    "name": "Tajimi",
+    "country": "JP",
+    "lat": 35.31667,
+    "lng": 137.13333
+  },
+  {
+    "name": "Taira",
+    "country": "JP",
+    "lat": 35.63333,
+    "lng": 137.33333
+  },
+  {
+    "name": "Taira",
+    "country": "JP",
+    "lat": 26.63149,
+    "lng": 128.15117
+  },
+  {
+    "name": "Taiji",
+    "country": "JP",
+    "lat": 33.58333,
+    "lng": 135.95
+  },
+  {
+    "name": "Tahara",
+    "country": "JP",
+    "lat": 34.66799,
+    "lng": 137.26736
+  },
+  {
+    "name": "Tagawa",
+    "country": "JP",
+    "lat": 33.63333,
+    "lng": 130.8
+  },
+  {
+    "name": "Taga",
+    "country": "JP",
+    "lat": 35.22634,
+    "lng": 136.28626
+  },
+  {
+    "name": "Tadotsu",
+    "country": "JP",
+    "lat": 34.275,
+    "lng": 133.75
+  },
+  {
+    "name": "Tadaoka-higashi",
+    "country": "JP",
+    "lat": 34.48735,
+    "lng": 135.39898
+  },
+  {
+    "name": "Tadami",
+    "country": "JP",
+    "lat": 37.35,
+    "lng": 139.31667
+  },
+  {
+    "name": "Tachiarai",
+    "country": "JP",
+    "lat": 33.4,
+    "lng": 130.61667
+  },
+  {
+    "name": "Tabuse",
+    "country": "JP",
+    "lat": 33.95,
+    "lng": 132.06667
+  },
+  {
+    "name": "Tabata",
+    "country": "JP",
+    "lat": 35.73571,
+    "lng": 139.75764
+  },
+  {
+    "name": "Tateishi",
+    "country": "JP",
+    "lat": 38.98333,
+    "lng": 141.11667
+  },
+  {
+    "name": "Tanagura",
+    "country": "JP",
+    "lat": 37.03046,
+    "lng": 140.38287
+  },
+  {
+    "name": "Tamanoi",
+    "country": "JP",
+    "lat": 37.53333,
+    "lng": 140.36667
+  },
+  {
+    "name": "Tako",
+    "country": "JP",
+    "lat": 35.73333,
+    "lng": 140.46667
+  },
+  {
+    "name": "Takanuki",
+    "country": "JP",
+    "lat": 37.09815,
+    "lng": 140.5442
+  },
+  {
+    "name": "Takahata",
+    "country": "JP",
+    "lat": 38.0025,
+    "lng": 140.19111
+  },
+  {
+    "name": "Takahagi",
+    "country": "JP",
+    "lat": 36.71667,
+    "lng": 140.71667
+  },
+  {
+    "name": "Tagonai",
+    "country": "JP",
+    "lat": 39.18333,
+    "lng": 140.65
+  },
+  {
+    "name": "Tagajō-shi",
+    "country": "JP",
+    "lat": 38.3,
+    "lng": 141.0
+  },
+  {
+    "name": "Tashiro",
+    "country": "JP",
+    "lat": 40.39028,
+    "lng": 141.53556
+  },
+  {
+    "name": "Takko",
+    "country": "JP",
+    "lat": 40.3342,
+    "lng": 141.15002
+  },
+  {
+    "name": "Takinoue",
+    "country": "JP",
+    "lat": 44.18889,
+    "lng": 143.07528
+  },
+  {
+    "name": "Takikawa",
+    "country": "JP",
+    "lat": 43.55278,
+    "lng": 141.90639
+  },
+  {
+    "name": "Takanosu",
+    "country": "JP",
+    "lat": 40.22268,
+    "lng": 140.36611
+  },
+  {
+    "name": "Taiki",
+    "country": "JP",
+    "lat": 42.50166,
+    "lng": 143.27193
+  },
+  {
+    "name": "Tatsumi",
+    "country": "JP",
+    "lat": 35.64725,
+    "lng": 139.81304
+  },
+  {
+    "name": "Takashima",
+    "country": "JP",
+    "lat": 35.41347,
+    "lng": 136.01612
+  },
+  {
+    "name": "Tama",
+    "country": "JP",
+    "lat": 35.6436,
+    "lng": 139.46844
+  },
+  {
+    "name": "Tarama",
+    "country": "JP",
+    "lat": 24.66851,
+    "lng": 124.70259
+  },
+  {
+    "name": "Tamura",
+    "country": "JP",
+    "lat": 37.43055,
+    "lng": 140.60335
+  },
+  {
+    "name": "Tainai",
+    "country": "JP",
+    "lat": 38.06463,
+    "lng": 139.4056
+  },
+  {
+    "name": "Takashimadaira",
+    "country": "JP",
+    "lat": 35.78611,
+    "lng": 139.66118
+  },
+  {
+    "name": "Taishi",
+    "country": "JP",
+    "lat": 34.5202,
+    "lng": 135.63563
+  },
+  {
+    "name": "Takahara",
+    "country": "JP",
+    "lat": 34.32324,
+    "lng": 135.95013
+  },
+  {
+    "name": "Takatsukadai",
+    "country": "JP",
+    "lat": 34.58271,
+    "lng": 135.72605
+  },
+  {
+    "name": "Tatsuno-kita",
+    "country": "JP",
+    "lat": 34.59677,
+    "lng": 135.69285
+  },
+  {
+    "name": "Tachikawa",
+    "country": "JP",
+    "lat": 34.85123,
+    "lng": 135.87794
+  },
+  {
+    "name": "Takanodai",
+    "country": "JP",
+    "lat": 35.74648,
+    "lng": 139.61411
+  },
+  {
+    "name": "Takenotsuka",
+    "country": "JP",
+    "lat": 35.79357,
+    "lng": 139.7956
+  },
+  {
+    "name": "Tagami",
+    "country": "JP",
+    "lat": 37.71133,
+    "lng": 139.07215
+  },
+  {
+    "name": "Takizawa",
+    "country": "JP",
+    "lat": 39.8028,
+    "lng": 141.13466
+  },
+  {
+    "name": "Taku",
+    "country": "JP",
+    "lat": 33.27709,
+    "lng": 130.10928
+  },
+  {
+    "name": "Taketa",
+    "country": "JP",
+    "lat": 32.95935,
+    "lng": 131.3673
+  },
+  {
+    "name": "Takasago",
+    "country": "JP",
+    "lat": 34.76298,
+    "lng": 134.79229
+  },
+  {
+    "name": "Tachikawa",
+    "country": "JP",
+    "lat": 35.7091,
+    "lng": 139.41891
+  },
+  {
+    "name": "Tatsuno",
+    "country": "JP",
+    "lat": 34.83184,
+    "lng": 134.54338
+  },
+  {
+    "name": "Tanba",
+    "country": "JP",
+    "lat": 35.16034,
+    "lng": 135.03914
+  },
+  {
+    "name": "Tajiri",
+    "country": "JP",
+    "lat": 34.42695,
+    "lng": 135.24552
+  },
+  {
+    "name": "Tanohata",
+    "country": "JP",
+    "lat": 39.93386,
+    "lng": 141.93306
+  },
+  {
+    "name": "Tanokuchi",
+    "country": "JP",
+    "lat": 35.0554,
+    "lng": 138.09677
+  },
+  {
+    "name": "Taito",
+    "country": "JP",
+    "lat": 35.70749,
+    "lng": 139.7788
+  },
+  {
+    "name": "Takasu",
+    "country": "JP",
+    "lat": 43.84336,
+    "lng": 142.35445
+  },
+  {
+    "name": "Tamba-Sasayama",
+    "country": "JP",
+    "lat": 35.07318,
+    "lng": 135.21781
+  },
+  {
+    "name": "Tamba",
+    "country": "JP",
+    "lat": 35.17483,
+    "lng": 135.03101
+  },
+  {
+    "name": "Taveta",
+    "country": "KE",
+    "lat": -3.39879,
+    "lng": 37.68336
+  },
+  {
+    "name": "Tarbaj",
+    "country": "KE",
+    "lat": 2.2085,
+    "lng": 40.11812
+  },
+  {
+    "name": "Tala",
+    "country": "KE",
+    "lat": -1.26849,
+    "lng": 37.32186
+  },
+  {
+    "name": "Takaungu",
+    "country": "KE",
+    "lat": -3.6835,
+    "lng": 39.85687
+  },
+  {
+    "name": "Tabaka",
+    "country": "KE",
+    "lat": -0.74743,
+    "lng": 34.66682
+  },
+  {
+    "name": "Takaba",
+    "country": "KE",
+    "lat": 3.35528,
+    "lng": 40.22278
+  },
+  {
+    "name": "Tayan",
+    "country": "KG",
+    "lat": 39.9026,
+    "lng": 71.10826
+  },
+  {
+    "name": "Tash-Kumyr",
+    "country": "KG",
+    "lat": 41.34612,
+    "lng": 72.21707
+  },
+  {
+    "name": "Talas",
+    "country": "KG",
+    "lat": 42.52256,
+    "lng": 72.2417
+  },
+  {
+    "name": "Talas",
+    "country": "KG",
+    "lat": 42.35473,
+    "lng": 72.65678
+  },
+  {
+    "name": "Ta Khmau",
+    "country": "KH",
+    "lat": 11.48333,
+    "lng": 104.95
+  },
+  {
+    "name": "Takeo",
+    "country": "KH",
+    "lat": 10.99081,
+    "lng": 104.78498
+  },
+  {
+    "name": "Ta Loas",
+    "country": "KH",
+    "lat": 12.8079,
+    "lng": 103.46023
+  },
+  {
+    "name": "Ta Khmau",
+    "country": "KH",
+    "lat": 11.44641,
+    "lng": 104.94556
+  },
+  {
+    "name": "Tarawa",
+    "country": "KI",
+    "lat": 1.3278,
+    "lng": 172.97696
+  },
+  {
+    "name": "Tabwakea Village",
+    "country": "KI",
+    "lat": 2.01643,
+    "lng": -157.48773
+  },
+  {
+    "name": "Tangjin",
+    "country": "KR",
+    "lat": 36.89444,
+    "lng": 126.62972
+  },
+  {
+    "name": "Taesal-li",
+    "country": "KR",
+    "lat": 36.9714,
+    "lng": 126.4542
+  },
+  {
+    "name": "Tanhyeon",
+    "country": "KR",
+    "lat": 37.8024,
+    "lng": 126.71598
+  },
+  {
+    "name": "Taūshyq",
+    "country": "KZ",
+    "lat": 44.34678,
+    "lng": 51.34932
+  },
+  {
+    "name": "Tasqala",
+    "country": "KZ",
+    "lat": 51.11073,
+    "lng": 50.29454
+  },
+  {
+    "name": "Taraz",
+    "country": "KZ",
+    "lat": 42.89799,
+    "lng": 71.37334
+  },
+  {
+    "name": "Tasbuget",
+    "country": "KZ",
+    "lat": 44.77018,
+    "lng": 65.55461
+  },
+  {
+    "name": "Talshik",
+    "country": "KZ",
+    "lat": 53.63736,
+    "lng": 71.87404
+  },
+  {
+    "name": "Talghar",
+    "country": "KZ",
+    "lat": 43.30235,
+    "lng": 77.23811
+  },
+  {
+    "name": "Taldykorgan",
+    "country": "KZ",
+    "lat": 45.01556,
+    "lng": 78.37389
+  },
+  {
+    "name": "Tayynsha",
+    "country": "KZ",
+    "lat": 53.84665,
+    "lng": 69.75987
+  },
+  {
+    "name": "Taiynsha",
+    "country": "KZ",
+    "lat": 53.84796,
+    "lng": 69.76773
+  },
+  {
+    "name": "Tasty-Taldy",
+    "country": "KZ",
+    "lat": 50.72817,
+    "lng": 66.62033
+  },
+  {
+    "name": "Tangalle",
+    "country": "LK",
+    "lat": 6.02338,
+    "lng": 80.79738
+  },
+  {
+    "name": "Talpe",
+    "country": "LK",
+    "lat": 5.9999,
+    "lng": 80.2787
+  },
+  {
+    "name": "Talawakele",
+    "country": "LK",
+    "lat": 6.9371,
+    "lng": 80.6581
+  },
+  {
+    "name": "Taurage",
+    "country": "LT",
+    "lat": 55.25222,
+    "lng": 22.28972
+  },
+  {
+    "name": "Tandel",
+    "country": "LU",
+    "lat": 49.8975,
+    "lng": 6.18333
+  },
+  {
+    "name": "Talsi",
+    "country": "LV",
+    "lat": 57.24562,
+    "lng": 22.58137
+  },
+  {
+    "name": "Tarhuna",
+    "country": "LY",
+    "lat": 32.43501,
+    "lng": 13.6332
+  },
+  {
+    "name": "Tarāghin",
+    "country": "LY",
+    "lat": 25.92333,
+    "lng": 14.42056
+  },
+  {
+    "name": "Tamzāwah",
+    "country": "LY",
+    "lat": 27.57154,
+    "lng": 14.20234
+  },
+  {
+    "name": "Talmest",
+    "country": "MA",
+    "lat": 31.81224,
+    "lng": -9.3379
+  },
+  {
+    "name": "Tazouta",
+    "country": "MA",
+    "lat": 33.66991,
+    "lng": -4.63392
+  },
+  {
+    "name": "Taznakht",
+    "country": "MA",
+    "lat": 30.57836,
+    "lng": -7.20341
+  },
+  {
+    "name": "Tazemmourt",
+    "country": "MA",
+    "lat": 30.40854,
+    "lng": -8.829
+  },
+  {
+    "name": "Tazarine",
+    "country": "MA",
+    "lat": 33.88307,
+    "lng": -4.1862
+  },
+  {
+    "name": "Taza",
+    "country": "MA",
+    "lat": 34.21,
+    "lng": -4.01
+  },
+  {
+    "name": "Tata",
+    "country": "MA",
+    "lat": 29.74409,
+    "lng": -7.973
+  },
+  {
+    "name": "Tassila",
+    "country": "MA",
+    "lat": 29.97134,
+    "lng": -9.64195
+  },
+  {
+    "name": "Tarsouat",
+    "country": "MA",
+    "lat": 29.58153,
+    "lng": -9.02664
+  },
+  {
+    "name": "Taroudant",
+    "country": "MA",
+    "lat": 30.47028,
+    "lng": -8.87695
+  },
+  {
+    "name": "Tarhjicht",
+    "country": "MA",
+    "lat": 29.05827,
+    "lng": -9.42877
+  },
+  {
+    "name": "Targuist",
+    "country": "MA",
+    "lat": 34.93769,
+    "lng": -4.31856
+  },
+  {
+    "name": "Tarfaya",
+    "country": "MA",
+    "lat": 27.9392,
+    "lng": -12.92604
+  },
+  {
+    "name": "Taourirt",
+    "country": "MA",
+    "lat": 34.40731,
+    "lng": -2.89732
+  },
+  {
+    "name": "Taounza",
+    "country": "MA",
+    "lat": 32.09368,
+    "lng": -6.60607
+  },
+  {
+    "name": "Taounate",
+    "country": "MA",
+    "lat": 34.53661,
+    "lng": -4.64009
+  },
+  {
+    "name": "Taouloukoult",
+    "country": "MA",
+    "lat": 31.22218,
+    "lng": -9.07943
+  },
+  {
+    "name": "Taouima",
+    "country": "MA",
+    "lat": 35.1299,
+    "lng": -2.9279
+  },
+  {
+    "name": "Tan-Tan",
+    "country": "MA",
+    "lat": 28.43799,
+    "lng": -11.10321
+  },
+  {
+    "name": "Tangier",
+    "country": "MA",
+    "lat": 35.76727,
+    "lng": -5.79975
+  },
+  {
+    "name": "Tanalt",
+    "country": "MA",
+    "lat": 29.77548,
+    "lng": -9.16796
+  },
+  {
+    "name": "Tamorot",
+    "country": "MA",
+    "lat": 34.93632,
+    "lng": -4.7794
+  },
+  {
+    "name": "Tameslouht",
+    "country": "MA",
+    "lat": 31.49472,
+    "lng": -8.09772
+  },
+  {
+    "name": "Tamallalt",
+    "country": "MA",
+    "lat": 31.81897,
+    "lng": -7.51446
+  },
+  {
+    "name": "Tamassint",
+    "country": "MA",
+    "lat": 35.07203,
+    "lng": -3.96118
+  },
+  {
+    "name": "Tamanar",
+    "country": "MA",
+    "lat": 31.00087,
+    "lng": -9.67802
+  },
+  {
+    "name": "Talzemt",
+    "country": "MA",
+    "lat": 33.59,
+    "lng": -4.19
+  },
+  {
+    "name": "Talsint",
+    "country": "MA",
+    "lat": 32.53599,
+    "lng": -3.44143
+  },
+  {
+    "name": "Taliouine",
+    "country": "MA",
+    "lat": 30.52917,
+    "lng": -7.91262
+  },
+  {
+    "name": "Talat-n-Ya’qoub",
+    "country": "MA",
+    "lat": 30.98893,
+    "lng": -8.18927
+  },
+  {
+    "name": "Taïneste",
+    "country": "MA",
+    "lat": 34.55415,
+    "lng": -4.13582
+  },
+  {
+    "name": "Tahannout",
+    "country": "MA",
+    "lat": 31.35236,
+    "lng": -7.95012
+  },
+  {
+    "name": "Tahla",
+    "country": "MA",
+    "lat": 34.04965,
+    "lng": -4.42162
+  },
+  {
+    "name": "Tafraout",
+    "country": "MA",
+    "lat": 29.72449,
+    "lng": -8.9747
+  },
+  {
+    "name": "Tafersit",
+    "country": "MA",
+    "lat": 35.00857,
+    "lng": -3.54088
+  },
+  {
+    "name": "Tadrart",
+    "country": "MA",
+    "lat": 30.77477,
+    "lng": -9.45951
+  },
+  {
+    "name": "Tabount",
+    "country": "MA",
+    "lat": 30.90321,
+    "lng": -6.91579
+  },
+  {
+    "name": "Tabouda",
+    "country": "MA",
+    "lat": 34.71923,
+    "lng": -5.1403
+  },
+  {
+    "name": "Tabia",
+    "country": "MA",
+    "lat": 32.03009,
+    "lng": -6.79985
+  },
+  {
+    "name": "Tabia",
+    "country": "MA",
+    "lat": 30.03462,
+    "lng": -8.87688
+  },
+  {
+    "name": "Tabant",
+    "country": "MA",
+    "lat": 31.65255,
+    "lng": -6.41049
+  },
+  {
+    "name": "Tafetachte",
+    "country": "MA",
+    "lat": 31.58341,
+    "lng": -9.2561
+  },
+  {
+    "name": "Taghazout",
+    "country": "MA",
+    "lat": 30.54259,
+    "lng": -9.71115
+  },
+  {
+    "name": "Tamri",
+    "country": "MA",
+    "lat": 30.69602,
+    "lng": -9.82972
+  },
+  {
+    "name": "Tamesna",
+    "country": "MA",
+    "lat": 33.81809,
+    "lng": -6.91658
+  },
+  {
+    "name": "Tamansourt",
+    "country": "MA",
+    "lat": 31.755,
+    "lng": -8.11
+  },
+  {
+    "name": "Taraclia",
+    "country": "MD",
+    "lat": 45.90321,
+    "lng": 28.66628
+  },
+  {
+    "name": "Taroa",
+    "country": "MH",
+    "lat": 8.70576,
+    "lng": 171.2275
+  },
+  {
+    "name": "Taoudenni",
+    "country": "ML",
+    "lat": 22.67691,
+    "lng": -3.97922
+  },
+  {
+    "name": "Taungoo",
+    "country": "MM",
+    "lat": 18.94291,
+    "lng": 96.43408
+  },
+  {
+    "name": "Taungup",
+    "country": "MM",
+    "lat": 18.85609,
+    "lng": 94.24078
+  },
+  {
+    "name": "Taunggyi",
+    "country": "MM",
+    "lat": 20.78919,
+    "lng": 97.03776
+  },
+  {
+    "name": "Taungdwingyi",
+    "country": "MM",
+    "lat": 20.0065,
+    "lng": 95.54531
+  },
+  {
+    "name": "Tatkon",
+    "country": "MM",
+    "lat": 24.679,
+    "lng": 95.07416
+  },
+  {
+    "name": "Tangyan",
+    "country": "MM",
+    "lat": 22.49441,
+    "lng": 98.39277
+  },
+  {
+    "name": "Tamu",
+    "country": "MM",
+    "lat": 24.21663,
+    "lng": 94.31216
+  },
+  {
+    "name": "Taikkyi",
+    "country": "MM",
+    "lat": 17.31439,
+    "lng": 95.96293
+  },
+  {
+    "name": "Ta Dar U",
+    "country": "MM",
+    "lat": 21.41961,
+    "lng": 95.87578
+  },
+  {
+    "name": "Tachilek",
+    "country": "MM",
+    "lat": 20.4475,
+    "lng": 99.88083
+  },
+  {
+    "name": "Tagondaing",
+    "country": "MM",
+    "lat": 16.0675,
+    "lng": 97.90694
+  },
+  {
+    "name": "Tamoowoug",
+    "country": "MM",
+    "lat": 16.03447,
+    "lng": 97.91458
+  },
+  {
+    "name": "Taik Tee",
+    "country": "MM",
+    "lat": 26.27098,
+    "lng": 96.06983
+  },
+  {
+    "name": "Taygan",
+    "country": "MN",
+    "lat": 46.35356,
+    "lng": 97.36633
+  },
+  {
+    "name": "Talshand",
+    "country": "MN",
+    "lat": 45.33333,
+    "lng": 97.98333
+  },
+  {
+    "name": "Tahilt",
+    "country": "MN",
+    "lat": 45.3466,
+    "lng": 96.6457
+  },
+  {
+    "name": "Tavin",
+    "country": "MN",
+    "lat": 46.39194,
+    "lng": 105.73517
+  },
+  {
+    "name": "Tavanbulag",
+    "country": "MN",
+    "lat": 47.38185,
+    "lng": 101.90815
+  },
+  {
+    "name": "Taipa",
+    "country": "MO",
+    "lat": 22.15583,
+    "lng": 113.55694
+  },
+  {
+    "name": "Tamchekett",
+    "country": "MR",
+    "lat": 17.24475,
+    "lng": -10.66983
+  },
+  {
+    "name": "Taguilalett",
+    "country": "MR",
+    "lat": 17.04045,
+    "lng": -15.52049
+  },
+  {
+    "name": "Ta’ Xbiex",
+    "country": "MT",
+    "lat": 35.89907,
+    "lng": 14.49456
+  },
+  {
+    "name": "Tarxien",
+    "country": "MT",
+    "lat": 35.8656,
+    "lng": 14.51506
+  },
+  {
+    "name": "Tamarin",
+    "country": "MU",
+    "lat": -20.32556,
+    "lng": 57.37056
+  },
+  {
+    "name": "Tamcuime",
+    "country": "MX",
+    "lat": 21.60137,
+    "lng": -99.01077
+  },
+  {
+    "name": "Tampate",
+    "country": "MX",
+    "lat": 21.63639,
+    "lng": -99.02552
+  },
+  {
+    "name": "Tanetze de Zaragoza",
+    "country": "MX",
+    "lat": 17.37616,
+    "lng": -96.30111
+  },
+  {
+    "name": "Taxco el Viejo",
+    "country": "MX",
+    "lat": 18.48342,
+    "lng": -99.5842
+  },
+  {
+    "name": "Taxco de Alarcón",
+    "country": "MX",
+    "lat": 18.55462,
+    "lng": -99.60592
+  },
+  {
+    "name": "Tatatila",
+    "country": "MX",
+    "lat": 19.6932,
+    "lng": -97.1116
+  },
+  {
+    "name": "Tatahuicapan",
+    "country": "MX",
+    "lat": 18.24621,
+    "lng": -94.76124
+  },
+  {
+    "name": "Tatahuicapá",
+    "country": "MX",
+    "lat": 17.55113,
+    "lng": -95.64088
+  },
+  {
+    "name": "Tasquillo",
+    "country": "MX",
+    "lat": 20.54836,
+    "lng": -99.31352
+  },
+  {
+    "name": "Tapotzingo",
+    "country": "MX",
+    "lat": 18.20365,
+    "lng": -93.01575
+  },
+  {
+    "name": "Tapilula",
+    "country": "MX",
+    "lat": 17.24933,
+    "lng": -93.01682
+  },
+  {
+    "name": "Tapijulapa",
+    "country": "MX",
+    "lat": 17.45977,
+    "lng": -92.77903
+  },
+  {
+    "name": "Tapalapa",
+    "country": "MX",
+    "lat": 17.19052,
+    "lng": -93.10445
+  },
+  {
+    "name": "Tapachula",
+    "country": "MX",
+    "lat": 14.90541,
+    "lng": -92.25891
+  },
+  {
+    "name": "Tantoyuca",
+    "country": "MX",
+    "lat": 21.35064,
+    "lng": -98.2257
+  },
+  {
+    "name": "Tantima",
+    "country": "MX",
+    "lat": 21.33228,
+    "lng": -97.83327
+  },
+  {
+    "name": "Tanute",
+    "country": "MX",
+    "lat": 21.65243,
+    "lng": -99.03765
+  },
+  {
+    "name": "Tanquián de Escobedo",
+    "country": "MX",
+    "lat": 21.60587,
+    "lng": -98.66275
+  },
+  {
+    "name": "Tanlajás",
+    "country": "MX",
+    "lat": 21.66518,
+    "lng": -98.886
+  },
+  {
+    "name": "Tankuché",
+    "country": "MX",
+    "lat": 20.50743,
+    "lng": -90.24164
+  },
+  {
+    "name": "Tancoco",
+    "country": "MX",
+    "lat": 21.28622,
+    "lng": -97.79139
+  },
+  {
+    "name": "Tancazahuela",
+    "country": "MX",
+    "lat": 21.183,
+    "lng": -98.43483
+  },
+  {
+    "name": "Tamulté de las Sabanas",
+    "country": "MX",
+    "lat": 18.16047,
+    "lng": -92.78367
+  },
+  {
+    "name": "Tamuín",
+    "country": "MX",
+    "lat": 22.00554,
+    "lng": -98.77972
+  },
+  {
+    "name": "Tampiquito",
+    "country": "MX",
+    "lat": 23.83383,
+    "lng": -98.19469
+  },
+  {
+    "name": "Tampico Alto",
+    "country": "MX",
+    "lat": 22.1124,
+    "lng": -97.80184
+  },
+  {
+    "name": "Tampico",
+    "country": "MX",
+    "lat": 22.28519,
+    "lng": -97.87777
+  },
+  {
+    "name": "Tampemoche",
+    "country": "MX",
+    "lat": 21.68943,
+    "lng": -99.08174
+  },
+  {
+    "name": "Tampamolón Corona",
+    "country": "MX",
+    "lat": 21.5588,
+    "lng": -98.81874
+  },
+  {
+    "name": "Tampacán",
+    "country": "MX",
+    "lat": 21.40201,
+    "lng": -98.72819
+  },
+  {
+    "name": "Tamiahua",
+    "country": "MX",
+    "lat": 21.27881,
+    "lng": -97.4462
+  },
+  {
+    "name": "Tambaca",
+    "country": "MX",
+    "lat": 21.96083,
+    "lng": -99.30106
+  },
+  {
+    "name": "Tamazunchale",
+    "country": "MX",
+    "lat": 21.25993,
+    "lng": -98.78935
+  },
+  {
+    "name": "Tamasopo",
+    "country": "MX",
+    "lat": 21.92426,
+    "lng": -99.39365
+  },
+  {
+    "name": "Tamápatz",
+    "country": "MX",
+    "lat": 21.56654,
+    "lng": -99.07764
+  },
+  {
+    "name": "Tamán",
+    "country": "MX",
+    "lat": 21.23216,
+    "lng": -98.87945
+  },
+  {
+    "name": "Tamalín",
+    "country": "MX",
+    "lat": 21.33936,
+    "lng": -97.81188
+  },
+  {
+    "name": "Talol",
+    "country": "MX",
+    "lat": 21.12025,
+    "lng": -98.62655
+  },
+  {
+    "name": "Tahmek",
+    "country": "MX",
+    "lat": 20.8736,
+    "lng": -89.25473
+  },
+  {
+    "name": "Tahdziu",
+    "country": "MX",
+    "lat": 20.20508,
+    "lng": -88.94555
+  },
+  {
+    "name": "Tahdzibichen",
+    "country": "MX",
+    "lat": 20.44916,
+    "lng": -88.83068
+  },
+  {
+    "name": "Tacotalpa",
+    "country": "MX",
+    "lat": 17.59638,
+    "lng": -92.82596
+  },
+  {
+    "name": "Tancanhuitz",
+    "country": "MX",
+    "lat": 21.5979,
+    "lng": -98.96773
+  },
+  {
+    "name": "Talismán",
+    "country": "MX",
+    "lat": 14.96333,
+    "lng": -92.14722
+  },
+  {
+    "name": "Tapanalá",
+    "country": "MX",
+    "lat": 15.96659,
+    "lng": -95.72476
+  },
+  {
+    "name": "Tataltepec de Valdés",
+    "country": "MX",
+    "lat": 16.30549,
+    "lng": -97.54615
+  },
+  {
+    "name": "Tamazola",
+    "country": "MX",
+    "lat": 17.6702,
+    "lng": -98.22084
+  },
+  {
+    "name": "Tamazulapam Villa del Progreso",
+    "country": "MX",
+    "lat": 17.6771,
+    "lng": -97.57315
+  },
+  {
+    "name": "Tamazulapam",
+    "country": "MX",
+    "lat": 17.05485,
+    "lng": -96.06534
+  },
+  {
+    "name": "Taniche",
+    "country": "MX",
+    "lat": 16.5686,
+    "lng": -96.75514
+  },
+  {
+    "name": "Taxadho",
+    "country": "MX",
+    "lat": 20.4333,
+    "lng": -99.14934
+  },
+  {
+    "name": "Tamaulipas",
+    "country": "MX",
+    "lat": 15.77189,
+    "lng": -93.40718
+  },
+  {
+    "name": "Tapalapan",
+    "country": "MX",
+    "lat": 18.5325,
+    "lng": -95.30631
+  },
+  {
+    "name": "Tayahua",
+    "country": "MX",
+    "lat": 22.09505,
+    "lng": -102.87099
+  },
+  {
+    "name": "Tanques",
+    "country": "MX",
+    "lat": 24.06213,
+    "lng": -107.01466
+  },
+  {
+    "name": "Tazumbos",
+    "country": "MX",
+    "lat": 19.29355,
+    "lng": -102.64473
+  },
+  {
+    "name": "Tayoltita",
+    "country": "MX",
+    "lat": 24.10278,
+    "lng": -105.93083
+  },
+  {
+    "name": "Tarimoro",
+    "country": "MX",
+    "lat": 20.28336,
+    "lng": -100.75477
+  },
+  {
+    "name": "Taretán",
+    "country": "MX",
+    "lat": 19.3342,
+    "lng": -101.91849
+  },
+  {
+    "name": "Tarejero",
+    "country": "MX",
+    "lat": 19.81941,
+    "lng": -101.71564
+  },
+  {
+    "name": "Tarécuato",
+    "country": "MX",
+    "lat": 19.84359,
+    "lng": -102.46485
+  },
+  {
+    "name": "Tarandacuao",
+    "country": "MX",
+    "lat": 20.00094,
+    "lng": -100.51856
+  },
+  {
+    "name": "Tapeixtles",
+    "country": "MX",
+    "lat": 19.06912,
+    "lng": -104.28339
+  },
+  {
+    "name": "Tapalpa",
+    "country": "MX",
+    "lat": 19.94567,
+    "lng": -103.75932
+  },
+  {
+    "name": "Tanhuato de Guerrero",
+    "country": "MX",
+    "lat": 20.28552,
+    "lng": -102.33113
+  },
+  {
+    "name": "Tanganhuato",
+    "country": "MX",
+    "lat": 18.28608,
+    "lng": -100.61178
+  },
+  {
+    "name": "Tangancícuaro de Arista",
+    "country": "MX",
+    "lat": 19.88733,
+    "lng": -102.20636
+  },
+  {
+    "name": "Tancítaro",
+    "country": "MX",
+    "lat": 19.33843,
+    "lng": -102.36264
+  },
+  {
+    "name": "Tanaquillo",
+    "country": "MX",
+    "lat": 19.84611,
+    "lng": -102.09797
+  },
+  {
+    "name": "Tanaco",
+    "country": "MX",
+    "lat": 19.73943,
+    "lng": -102.08146
+  },
+  {
+    "name": "Tamazulita",
+    "country": "MX",
+    "lat": 20.20321,
+    "lng": -103.97012
+  },
+  {
+    "name": "Tamazula de Gordiano",
+    "country": "MX",
+    "lat": 19.68006,
+    "lng": -103.2514
+  },
+  {
+    "name": "Tamazula",
+    "country": "MX",
+    "lat": 25.44639,
+    "lng": -108.45528
+  },
+  {
+    "name": "Tamazula de Victoria",
+    "country": "MX",
+    "lat": 24.96928,
+    "lng": -106.9662
+  },
+  {
+    "name": "Tamazula",
+    "country": "MX",
+    "lat": 20.44228,
+    "lng": -101.5533
+  },
+  {
+    "name": "Tamándaro",
+    "country": "MX",
+    "lat": 19.94941,
+    "lng": -102.28416
+  },
+  {
+    "name": "Talpa de Allende",
+    "country": "MX",
+    "lat": 20.38084,
+    "lng": -104.82213
+  },
+  {
+    "name": "Tala",
+    "country": "MX",
+    "lat": 20.65267,
+    "lng": -103.70148
+  },
+  {
+    "name": "Tacuro (Santa María Tacuro)",
+    "country": "MX",
+    "lat": 19.85696,
+    "lng": -102.05084
+  },
+  {
+    "name": "Tacoaleche",
+    "country": "MX",
+    "lat": 22.82012,
+    "lng": -102.4034
+  },
+  {
+    "name": "Tacicuaro",
+    "country": "MX",
+    "lat": 19.6698,
+    "lng": -101.35967
+  },
+  {
+    "name": "Tacátzcuaro",
+    "country": "MX",
+    "lat": 19.73009,
+    "lng": -102.54742
+  },
+  {
+    "name": "Tacámbaro de Codallos",
+    "country": "MX",
+    "lat": 19.23502,
+    "lng": -101.45824
+  },
+  {
+    "name": "Tabasco",
+    "country": "MX",
+    "lat": 21.86315,
+    "lng": -102.91108
+  },
+  {
+    "name": "Tavera",
+    "country": "MX",
+    "lat": 19.06126,
+    "lng": -101.5591
+  },
+  {
+    "name": "Taretán",
+    "country": "MX",
+    "lat": 20.7788,
+    "lng": -101.33526
+  },
+  {
+    "name": "Tafetán",
+    "country": "MX",
+    "lat": 19.41876,
+    "lng": -100.90817
+  },
+  {
+    "name": "Tatoxcac",
+    "country": "MX",
+    "lat": 19.86944,
+    "lng": -97.57306
+  },
+  {
+    "name": "Tacopan",
+    "country": "MX",
+    "lat": 19.8375,
+    "lng": -97.43111
+  },
+  {
+    "name": "Tamazulápam del Espíritu Santo",
+    "country": "MX",
+    "lat": 17.055,
+    "lng": -96.06528
+  },
+  {
+    "name": "Taniperla",
+    "country": "MX",
+    "lat": 16.82222,
+    "lng": -91.52333
+  },
+  {
+    "name": "Taxco",
+    "country": "MX",
+    "lat": 18.13917,
+    "lng": -93.00528
+  },
+  {
+    "name": "Tatauzoquico",
+    "country": "MX",
+    "lat": 19.82833,
+    "lng": -97.52694
+  },
+  {
+    "name": "Tanamacoyan",
+    "country": "MX",
+    "lat": 19.89056,
+    "lng": -97.42972
+  },
+  {
+    "name": "Tapias de Santa Cruz (Pedro Ruiz González)",
+    "country": "MX",
+    "lat": 23.18889,
+    "lng": -103.13111
+  },
+  {
+    "name": "Taza de Agua Ojo Zarco",
+    "country": "MX",
+    "lat": 18.78333,
+    "lng": -97.20222
+  },
+  {
+    "name": "Tacubaya",
+    "country": "MX",
+    "lat": 25.68361,
+    "lng": -103.06861
+  },
+  {
+    "name": "Tandzumadz",
+    "country": "MX",
+    "lat": 21.56528,
+    "lng": -98.98028
+  },
+  {
+    "name": "Tanhuixco",
+    "country": "MX",
+    "lat": 19.82056,
+    "lng": -97.46722
+  },
+  {
+    "name": "Tacuba Nueva",
+    "country": "MX",
+    "lat": 17.09028,
+    "lng": -92.37028
+  },
+  {
+    "name": "Tazaquil",
+    "country": "MX",
+    "lat": 21.49111,
+    "lng": -98.94
+  },
+  {
+    "name": "Tarímbaro",
+    "country": "MX",
+    "lat": 19.79578,
+    "lng": -101.17782
+  },
+  {
+    "name": "Tanjong Malim",
+    "country": "MY",
+    "lat": 3.681,
+    "lng": 101.5198
+  },
+  {
+    "name": "Taman Senai",
+    "country": "MY",
+    "lat": 1.6006,
+    "lng": 103.6419
+  },
+  {
+    "name": "Tangkak",
+    "country": "MY",
+    "lat": 2.2673,
+    "lng": 102.5453
+  },
+  {
+    "name": "Tambunan",
+    "country": "MY",
+    "lat": 5.71667,
+    "lng": 116.4
+  },
+  {
+    "name": "Tawau",
+    "country": "MY",
+    "lat": 4.24482,
+    "lng": 117.89115
+  },
+  {
+    "name": "Taiping",
+    "country": "MY",
+    "lat": 4.85,
+    "lng": 100.73333
+  },
+  {
+    "name": "Tanjung Rambutan",
+    "country": "MY",
+    "lat": 4.6706,
+    "lng": 101.1546
+  },
+  {
+    "name": "Tampin",
+    "country": "MY",
+    "lat": 2.4701,
+    "lng": 102.2302
+  },
+  {
+    "name": "Taman Senawang Indah",
+    "country": "MY",
+    "lat": 2.691,
+    "lng": 101.989
+  },
+  {
+    "name": "Tanjung Piandang",
+    "country": "MY",
+    "lat": 5.07236,
+    "lng": 100.38105
+  },
+  {
+    "name": "Tasek Glugor",
+    "country": "MY",
+    "lat": 5.48032,
+    "lng": 100.49849
+  },
+  {
+    "name": "Tanah Rata",
+    "country": "MY",
+    "lat": 4.46361,
+    "lng": 101.3763
+  },
+  {
+    "name": "Tapah Road",
+    "country": "MY",
+    "lat": 4.16667,
+    "lng": 101.2
+  },
+  {
+    "name": "Tatau",
+    "country": "MY",
+    "lat": 2.88333,
+    "lng": 112.85
+  },
+  {
+    "name": "Taman Kota Sarang Semut",
+    "country": "MY",
+    "lat": 5.97907,
+    "lng": 100.39993
+  },
+  {
+    "name": "Tanah Merah",
+    "country": "MY",
+    "lat": 5.8,
+    "lng": 102.15
+  },
+  {
+    "name": "Tanjung Tokong",
+    "country": "MY",
+    "lat": 5.46061,
+    "lng": 100.30742
+  },
+  {
+    "name": "Tanjung Sepat",
+    "country": "MY",
+    "lat": 2.6579,
+    "lng": 101.5629
+  },
+  {
+    "name": "Tanjung Bungah",
+    "country": "MY",
+    "lat": 5.46491,
+    "lng": 100.28165
+  },
+  {
+    "name": "Taman Mount Austin",
+    "country": "MY",
+    "lat": 1.5609,
+    "lng": 103.782
+  },
+  {
+    "name": "Taman Permas Jaya",
+    "country": "MY",
+    "lat": 1.511,
+    "lng": 103.8198
+  },
+  {
+    "name": "Taman Sepang Putra",
+    "country": "MY",
+    "lat": 2.623,
+    "lng": 101.7027
+  },
+  {
+    "name": "Taman Dusun Setia",
+    "country": "MY",
+    "lat": 2.7141,
+    "lng": 101.9644
+  },
+  {
+    "name": "Taman Seremban Jaya",
+    "country": "MY",
+    "lat": 2.6831,
+    "lng": 101.97
+  },
+  {
+    "name": "Taman Pelangi",
+    "country": "MY",
+    "lat": 2.428,
+    "lng": 102.6801
+  },
+  {
+    "name": "Taman Universiti",
+    "country": "MY",
+    "lat": 1.5331,
+    "lng": 103.6155
+  },
+  {
+    "name": "Taman Rajawali",
+    "country": "MY",
+    "lat": 5.89477,
+    "lng": 118.04576
+  },
+  {
+    "name": "Taman Petaling",
+    "country": "MY",
+    "lat": 3.19916,
+    "lng": 101.64983
+  },
+  {
+    "name": "Taman Greenwood",
+    "country": "MY",
+    "lat": 3.23208,
+    "lng": 101.70484
+  },
+  {
+    "name": "Taman Melati",
+    "country": "MY",
+    "lat": 3.22124,
+    "lng": 101.72324
+  },
+  {
+    "name": "Taman OUG",
+    "country": "MY",
+    "lat": 3.07292,
+    "lng": 101.6763
+  },
+  {
+    "name": "Taman Ikan Emas",
+    "country": "MY",
+    "lat": 3.11619,
+    "lng": 101.7202
+  },
+  {
+    "name": "Taman Tun Dr Ismail",
+    "country": "MY",
+    "lat": 3.14506,
+    "lng": 101.62617
+  },
+  {
+    "name": "Taman Naga Emas",
+    "country": "MY",
+    "lat": 3.07775,
+    "lng": 101.69758
+  },
+  {
+    "name": "Taman Melawati",
+    "country": "MY",
+    "lat": 3.21083,
+    "lng": 101.74825
+  },
+  {
+    "name": "Taman Sri Sinar",
+    "country": "MY",
+    "lat": 3.1868,
+    "lng": 101.65085
+  },
+  {
+    "name": "Taman Scientex",
+    "country": "MY",
+    "lat": 1.51219,
+    "lng": 103.9166
+  },
+  {
+    "name": "Taman Desa",
+    "country": "MY",
+    "lat": 3.10591,
+    "lng": 101.68683
+  },
+  {
+    "name": "Tadine",
+    "country": "NC",
+    "lat": -21.54751,
+    "lng": 167.88019
+  },
+  {
+    "name": "Tassara",
+    "country": "NE",
+    "lat": 16.80472,
+    "lng": 5.64417
+  },
+  {
+    "name": "Tasker",
+    "country": "NE",
+    "lat": 15.11744,
+    "lng": 10.69687
+  },
+  {
+    "name": "Tanout",
+    "country": "NE",
+    "lat": 14.97089,
+    "lng": 8.88786
+  },
+  {
+    "name": "Takiéta",
+    "country": "NE",
+    "lat": 13.68066,
+    "lng": 8.52904
+  },
+  {
+    "name": "Tahoua",
+    "country": "NE",
+    "lat": 14.8888,
+    "lng": 5.2692
+  },
+  {
+    "name": "Taura",
+    "country": "NG",
+    "lat": 12.22712,
+    "lng": 9.28306
+  },
+  {
+    "name": "Tambuwal",
+    "country": "NG",
+    "lat": 12.40592,
+    "lng": 4.64605
+  },
+  {
+    "name": "Talata Mafara",
+    "country": "NG",
+    "lat": 12.56841,
+    "lng": 6.06225
+  },
+  {
+    "name": "Talasse",
+    "country": "NG",
+    "lat": 9.96843,
+    "lng": 11.67945
+  },
+  {
+    "name": "Takum",
+    "country": "NG",
+    "lat": 7.26667,
+    "lng": 9.98333
+  },
+  {
+    "name": "Takai",
+    "country": "NG",
+    "lat": 11.57569,
+    "lng": 9.1088
+  },
+  {
+    "name": "Tafawa Balewa",
+    "country": "NG",
+    "lat": 9.76017,
+    "lng": 9.55172
+  },
+  {
+    "name": "Tau",
+    "country": "NO",
+    "lat": 59.06481,
+    "lng": 5.9225
+  },
+  {
+    "name": "Tangvall",
+    "country": "NO",
+    "lat": 58.09781,
+    "lng": 7.81529
+  },
+  {
+    "name": "Tananger",
+    "country": "NO",
+    "lat": 58.93618,
+    "lng": 5.5741
+  },
+  {
+    "name": "Tana bru",
+    "country": "NO",
+    "lat": 70.19909,
+    "lng": 28.19039
+  },
+  {
+    "name": "Tawa",
+    "country": "NZ",
+    "lat": -41.17038,
+    "lng": 174.82613
+  },
+  {
+    "name": "Taupo",
+    "country": "NZ",
+    "lat": -38.68333,
+    "lng": 176.08333
+  },
+  {
+    "name": "Taupiri",
+    "country": "NZ",
+    "lat": -37.61667,
+    "lng": 175.18333
+  },
+  {
+    "name": "Tangiteroria",
+    "country": "NZ",
+    "lat": -35.81667,
+    "lng": 174.05
+  },
+  {
+    "name": "Taneatua",
+    "country": "NZ",
+    "lat": -38.06667,
+    "lng": 177.01667
+  },
+  {
+    "name": "Takaka",
+    "country": "NZ",
+    "lat": -40.85,
+    "lng": 172.8
+  },
+  {
+    "name": "Tairua",
+    "country": "NZ",
+    "lat": -37.01667,
+    "lng": 175.85
+  },
+  {
+    "name": "Taipa",
+    "country": "NZ",
+    "lat": -34.99604,
+    "lng": 173.46665
+  },
+  {
+    "name": "Tahunanui",
+    "country": "NZ",
+    "lat": -41.28706,
+    "lng": 173.24573
+  },
+  {
+    "name": "Takapuna",
+    "country": "NZ",
+    "lat": -36.79167,
+    "lng": 174.77583
+  },
+  {
+    "name": "Tauranga",
+    "country": "NZ",
+    "lat": -37.68611,
+    "lng": 176.16667
+  },
+  {
+    "name": "Tainui",
+    "country": "NZ",
+    "lat": -45.90134,
+    "lng": 170.52326
+  },
+  {
+    "name": "Taihape",
+    "country": "NZ",
+    "lat": -39.67819,
+    "lng": 175.79799
+  },
+  {
+    "name": "Takaro",
+    "country": "NZ",
+    "lat": -40.35793,
+    "lng": 175.58968
+  },
+  {
+    "name": "Takanini",
+    "country": "NZ",
+    "lat": -37.0393,
+    "lng": 174.92815
+  },
+  {
+    "name": "Tamaki",
+    "country": "NZ",
+    "lat": -36.8882,
+    "lng": 174.86019
+  },
+  {
+    "name": "Taumarunui",
+    "country": "NZ",
+    "lat": -38.87823,
+    "lng": 175.2602
+  },
+  {
+    "name": "Tamarau",
+    "country": "NZ",
+    "lat": -38.67824,
+    "lng": 178.05021
+  },
+  {
+    "name": "Taita",
+    "country": "NZ",
+    "lat": -41.17827,
+    "lng": 174.9502
+  },
+  {
+    "name": "Taradale",
+    "country": "NZ",
+    "lat": -39.53333,
+    "lng": 176.85
+  },
+  {
+    "name": "Tayabamba",
+    "country": "PE",
+    "lat": -8.27694,
+    "lng": -77.29639
+  },
+  {
+    "name": "Taurija",
+    "country": "PE",
+    "lat": -8.30861,
+    "lng": -77.42194
+  },
+  {
+    "name": "Tauca",
+    "country": "PE",
+    "lat": -8.47008,
+    "lng": -78.03777
+  },
+  {
+    "name": "Tarica",
+    "country": "PE",
+    "lat": -9.39361,
+    "lng": -77.57472
+  },
+  {
+    "name": "Tarapoto",
+    "country": "PE",
+    "lat": -6.50139,
+    "lng": -76.36556
+  },
+  {
+    "name": "Tantamayo",
+    "country": "PE",
+    "lat": -9.39239,
+    "lng": -76.72003
+  },
+  {
+    "name": "Tambo Grande",
+    "country": "PE",
+    "lat": -4.92694,
+    "lng": -80.34472
+  },
+  {
+    "name": "Tamarindo",
+    "country": "PE",
+    "lat": -4.87722,
+    "lng": -80.97306
+  },
+  {
+    "name": "Tamanco",
+    "country": "PE",
+    "lat": -5.85,
+    "lng": -74.31667
+  },
+  {
+    "name": "Talara",
+    "country": "PE",
+    "lat": -4.57722,
+    "lng": -81.27194
+  },
+  {
+    "name": "Tacabamba",
+    "country": "PE",
+    "lat": -6.39303,
+    "lng": -78.61125
+  },
+  {
+    "name": "Tablazo Norte",
+    "country": "PE",
+    "lat": -5.38398,
+    "lng": -80.7641
+  },
+  {
+    "name": "Tabalosos",
+    "country": "PE",
+    "lat": -6.35,
+    "lng": -76.68333
+  },
+  {
+    "name": "Tabaconas",
+    "country": "PE",
+    "lat": -5.31472,
+    "lng": -79.28278
+  },
+  {
+    "name": "Taurisma",
+    "country": "PE",
+    "lat": -15.175,
+    "lng": -72.85028
+  },
+  {
+    "name": "Tauripampa",
+    "country": "PE",
+    "lat": -12.58333,
+    "lng": -76.11667
+  },
+  {
+    "name": "Tauria",
+    "country": "PE",
+    "lat": -15.35375,
+    "lng": -73.23215
+  },
+  {
+    "name": "Tarucani",
+    "country": "PE",
+    "lat": -16.18347,
+    "lng": -71.06158
+  },
+  {
+    "name": "Tarucachi",
+    "country": "PE",
+    "lat": -17.52575,
+    "lng": -70.03156
+  },
+  {
+    "name": "Tarma",
+    "country": "PE",
+    "lat": -11.41899,
+    "lng": -75.68992
+  },
+  {
+    "name": "Tarata",
+    "country": "PE",
+    "lat": -17.47444,
+    "lng": -70.03278
+  },
+  {
+    "name": "Taraco",
+    "country": "PE",
+    "lat": -15.2977,
+    "lng": -69.9783
+  },
+  {
+    "name": "Taquile",
+    "country": "PE",
+    "lat": -15.76667,
+    "lng": -69.68333
+  },
+  {
+    "name": "Tapo",
+    "country": "PE",
+    "lat": -11.39056,
+    "lng": -75.56361
+  },
+  {
+    "name": "Tapay",
+    "country": "PE",
+    "lat": -15.57806,
+    "lng": -71.93917
+  },
+  {
+    "name": "Tapairihua",
+    "country": "PE",
+    "lat": -14.14136,
+    "lng": -73.14058
+  },
+  {
+    "name": "Tapacocha",
+    "country": "PE",
+    "lat": -10.00974,
+    "lng": -77.56831
+  },
+  {
+    "name": "Tantara",
+    "country": "PE",
+    "lat": -13.07391,
+    "lng": -75.64474
+  },
+  {
+    "name": "Tanta",
+    "country": "PE",
+    "lat": -12.12239,
+    "lng": -76.01355
+  },
+  {
+    "name": "Tamburco",
+    "country": "PE",
+    "lat": -13.61667,
+    "lng": -72.87139
+  },
+  {
+    "name": "Tambo Quemado",
+    "country": "PE",
+    "lat": -14.72803,
+    "lng": -74.67015
+  },
+  {
+    "name": "Tambopata",
+    "country": "PE",
+    "lat": -12.67191,
+    "lng": -69.35547
+  },
+  {
+    "name": "Tambobamba",
+    "country": "PE",
+    "lat": -13.94528,
+    "lng": -72.17139
+  },
+  {
+    "name": "Tambo",
+    "country": "PE",
+    "lat": -14.79847,
+    "lng": -73.92438
+  },
+  {
+    "name": "Tambo",
+    "country": "PE",
+    "lat": -12.94815,
+    "lng": -74.02019
+  },
+  {
+    "name": "Tambillo",
+    "country": "PE",
+    "lat": -13.19453,
+    "lng": -74.11096
+  },
+  {
+    "name": "Talavera",
+    "country": "PE",
+    "lat": -13.65306,
+    "lng": -73.42917
+  },
+  {
+    "name": "Tacna",
+    "country": "PE",
+    "lat": -18.01465,
+    "lng": -70.25362
+  },
+  {
+    "name": "Taray",
+    "country": "PE",
+    "lat": -13.4275,
+    "lng": -71.8675
+  },
+  {
+    "name": "Tabaloslos",
+    "country": "PE",
+    "lat": -6.38559,
+    "lng": -76.63342
+  },
+  {
+    "name": "Tautira",
+    "country": "PF",
+    "lat": -17.74744,
+    "lng": -149.16123
+  },
+  {
+    "name": "Taunoa",
+    "country": "PF",
+    "lat": -17.75139,
+    "lng": -149.35602
+  },
+  {
+    "name": "Taiohae",
+    "country": "PF",
+    "lat": -8.91093,
+    "lng": -140.09972
+  },
+  {
+    "name": "Tapuarava",
+    "country": "PF",
+    "lat": -18.46647,
+    "lng": -136.46328
+  },
+  {
+    "name": "Tari",
+    "country": "PG",
+    "lat": -5.845,
+    "lng": 142.94667
+  },
+  {
+    "name": "Tamayong",
+    "country": "PH",
+    "lat": 7.13306,
+    "lng": 125.37972
+  },
+  {
+    "name": "Taywanak Ilaya",
+    "country": "PH",
+    "lat": 14.15759,
+    "lng": 120.84655
+  },
+  {
+    "name": "Tayum",
+    "country": "PH",
+    "lat": 17.6172,
+    "lng": 120.6542
+  },
+  {
+    "name": "Tayug",
+    "country": "PH",
+    "lat": 16.0274,
+    "lng": 120.7434
+  },
+  {
+    "name": "Tayud",
+    "country": "PH",
+    "lat": 10.37991,
+    "lng": 124.00522
+  },
+  {
+    "name": "Taytayan",
+    "country": "PH",
+    "lat": 10.8787,
+    "lng": 123.9771
+  },
+  {
+    "name": "Taytayan",
+    "country": "PH",
+    "lat": 7.73389,
+    "lng": 126.50194
+  },
+  {
+    "name": "Taytay",
+    "country": "PH",
+    "lat": 14.55883,
+    "lng": 121.13285
+  },
+  {
+    "name": "Taytay",
+    "country": "PH",
+    "lat": 14.12567,
+    "lng": 121.40399
+  },
+  {
+    "name": "Taytay",
+    "country": "PH",
+    "lat": 10.81788,
+    "lng": 119.49851
+  },
+  {
+    "name": "Taytay",
+    "country": "PH",
+    "lat": 8.54111,
+    "lng": 124.53972
+  },
+  {
+    "name": "Taysan",
+    "country": "PH",
+    "lat": 13.8697,
+    "lng": 121.0971
+  },
+  {
+    "name": "Taysan",
+    "country": "PH",
+    "lat": 13.7976,
+    "lng": 121.1896
+  },
+  {
+    "name": "Tayasan",
+    "country": "PH",
+    "lat": 9.924,
+    "lng": 123.1699
+  },
+  {
+    "name": "Tayaman",
+    "country": "PH",
+    "lat": 13.2295,
+    "lng": 120.5726
+  },
+  {
+    "name": "Tayabo",
+    "country": "PH",
+    "lat": 15.8345,
+    "lng": 121.0309
+  },
+  {
+    "name": "Tayabas",
+    "country": "PH",
+    "lat": 14.0259,
+    "lng": 121.5929
+  },
+  {
+    "name": "Tawan tawan",
+    "country": "PH",
+    "lat": 7.16917,
+    "lng": 125.37278
+  },
+  {
+    "name": "Tawagan",
+    "country": "PH",
+    "lat": 7.8434,
+    "lng": 123.4729
+  },
+  {
+    "name": "Taviran",
+    "country": "PH",
+    "lat": 7.12333,
+    "lng": 124.31972
+  },
+  {
+    "name": "Taungoh",
+    "country": "PH",
+    "lat": 4.70654,
+    "lng": 119.49296
+  },
+  {
+    "name": "Tawala",
+    "country": "PH",
+    "lat": 9.55421,
+    "lng": 123.76955
+  },
+  {
+    "name": "Tarusan",
+    "country": "PH",
+    "lat": 8.65461,
+    "lng": 117.5104
+  },
+  {
+    "name": "Tartaro",
+    "country": "PH",
+    "lat": 15.16667,
+    "lng": 121.01667
+  },
+  {
+    "name": "Tarragona",
+    "country": "PH",
+    "lat": 7.0491,
+    "lng": 126.44708
+  },
+  {
+    "name": "Tarong",
+    "country": "PH",
+    "lat": 11.5314,
+    "lng": 123.132
+  },
+  {
+    "name": "Tarlac City",
+    "country": "PH",
+    "lat": 15.48017,
+    "lng": 120.59794
+  },
+  {
+    "name": "Tariric",
+    "country": "PH",
+    "lat": 13.5723,
+    "lng": 123.2235
+  },
+  {
+    "name": "Tariji",
+    "country": "PH",
+    "lat": 15.52112,
+    "lng": 120.61442
+  },
+  {
+    "name": "Tarangnan",
+    "country": "PH",
+    "lat": 11.9009,
+    "lng": 124.7459
+  },
+  {
+    "name": "Tara",
+    "country": "PH",
+    "lat": 13.81667,
+    "lng": 122.98333
+  },
+  {
+    "name": "Tapon",
+    "country": "PH",
+    "lat": 10.0631,
+    "lng": 123.4453
+  },
+  {
+    "name": "Tapon",
+    "country": "PH",
+    "lat": 9.7715,
+    "lng": 123.5268
+  },
+  {
+    "name": "Tapilon",
+    "country": "PH",
+    "lat": 11.2774,
+    "lng": 124.0306
+  },
+  {
+    "name": "Tapikan",
+    "country": "PH",
+    "lat": 6.85194,
+    "lng": 124.3225
+  },
+  {
+    "name": "Tapia",
+    "country": "PH",
+    "lat": 7.75417,
+    "lng": 126.01194
+  },
+  {
+    "name": "Tapel",
+    "country": "PH",
+    "lat": 18.28907,
+    "lng": 122.02915
+  },
+  {
+    "name": "Tapas",
+    "country": "PH",
+    "lat": 11.2613,
+    "lng": 122.5364
+  },
+  {
+    "name": "Tapayan",
+    "country": "PH",
+    "lat": 7.29444,
+    "lng": 124.26611
+  },
+  {
+    "name": "Tanza",
+    "country": "PH",
+    "lat": 14.6753,
+    "lng": 120.9389
+  },
+  {
+    "name": "Tanza",
+    "country": "PH",
+    "lat": 14.39834,
+    "lng": 120.85544
+  },
+  {
+    "name": "Tanza",
+    "country": "PH",
+    "lat": 11.5825,
+    "lng": 122.78361
+  },
+  {
+    "name": "Tanza",
+    "country": "PH",
+    "lat": 10.83484,
+    "lng": 123.011
+  },
+  {
+    "name": "Tanudan",
+    "country": "PH",
+    "lat": 17.29556,
+    "lng": 121.23778
+  },
+  {
+    "name": "Tantangan",
+    "country": "PH",
+    "lat": 6.615,
+    "lng": 124.74889
+  },
+  {
+    "name": "Tangke",
+    "country": "PH",
+    "lat": 10.25451,
+    "lng": 123.86516
+  },
+  {
+    "name": "Tanolong",
+    "country": "PH",
+    "lat": 15.80411,
+    "lng": 120.41409
+  },
+  {
+    "name": "Tanlad",
+    "country": "PH",
+    "lat": 6.60222,
+    "lng": 125.445
+  },
+  {
+    "name": "Tanjay",
+    "country": "PH",
+    "lat": 9.5162,
+    "lng": 123.158
+  },
+  {
+    "name": "Tangub",
+    "country": "PH",
+    "lat": 8.0618,
+    "lng": 123.7477
+  },
+  {
+    "name": "Tañgo",
+    "country": "PH",
+    "lat": 5.88083,
+    "lng": 125.22194
+  },
+  {
+    "name": "Tangnan",
+    "country": "PH",
+    "lat": 9.60722,
+    "lng": 123.77357
+  },
+  {
+    "name": "Tangalan",
+    "country": "PH",
+    "lat": 11.7789,
+    "lng": 122.2634
+  },
+  {
+    "name": "Tangal",
+    "country": "PH",
+    "lat": 13.84536,
+    "lng": 120.10082
+  },
+  {
+    "name": "Tandoc",
+    "country": "PH",
+    "lat": 15.95929,
+    "lng": 120.32914
+  },
+  {
+    "name": "Tandayag",
+    "country": "PH",
+    "lat": 9.4547,
+    "lng": 123.2299
+  },
+  {
+    "name": "Tandag",
+    "country": "PH",
+    "lat": 9.07833,
+    "lng": 126.19861
+  },
+  {
+    "name": "Tanay",
+    "country": "PH",
+    "lat": 14.4968,
+    "lng": 121.2846
+  },
+  {
+    "name": "Tanauan",
+    "country": "PH",
+    "lat": 14.08627,
+    "lng": 121.14975
+  },
+  {
+    "name": "Tanauan",
+    "country": "PH",
+    "lat": 11.10944,
+    "lng": 125.01556
+  },
+  {
+    "name": "Tamugan",
+    "country": "PH",
+    "lat": 7.23083,
+    "lng": 125.37639
+  },
+  {
+    "name": "Tampocon",
+    "country": "PH",
+    "lat": 9.85,
+    "lng": 123.13333
+  },
+  {
+    "name": "Tampilisan",
+    "country": "PH",
+    "lat": 8.01667,
+    "lng": 122.68333
+  },
+  {
+    "name": "Tampayan",
+    "country": "PH",
+    "lat": 12.49411,
+    "lng": 122.53309
+  },
+  {
+    "name": "Tamparan",
+    "country": "PH",
+    "lat": 7.87917,
+    "lng": 124.33306
+  },
+  {
+    "name": "Tampakan",
+    "country": "PH",
+    "lat": 6.49034,
+    "lng": 125.08275
+  },
+  {
+    "name": "Tampakan",
+    "country": "PH",
+    "lat": 4.92278,
+    "lng": 119.79389
+  },
+  {
+    "name": "Tamorong",
+    "country": "PH",
+    "lat": 17.33333,
+    "lng": 120.43333
+  },
+  {
+    "name": "Tamontaka",
+    "country": "PH",
+    "lat": 7.18056,
+    "lng": 124.22556
+  },
+  {
+    "name": "Tamnag",
+    "country": "PH",
+    "lat": 6.57298,
+    "lng": 124.88004
+  },
+  {
+    "name": "Tamlang",
+    "country": "PH",
+    "lat": 10.82544,
+    "lng": 123.4541
+  },
+  {
+    "name": "Tamiso",
+    "country": "PH",
+    "lat": 9.6314,
+    "lng": 123.0873
+  },
+  {
+    "name": "Tamisan",
+    "country": "PH",
+    "lat": 6.84372,
+    "lng": 126.29838
+  },
+  {
+    "name": "Tambulig",
+    "country": "PH",
+    "lat": 8.0702,
+    "lng": 123.5348
+  },
+  {
+    "name": "Tambalan",
+    "country": "PH",
+    "lat": 9.9085,
+    "lng": 123.0896
+  },
+  {
+    "name": "Tambongon",
+    "country": "PH",
+    "lat": 10.9677,
+    "lng": 123.9244
+  },
+  {
+    "name": "Tambong",
+    "country": "PH",
+    "lat": 12.96391,
+    "lng": 121.48462
+  },
+  {
+    "name": "Tambo",
+    "country": "PH",
+    "lat": 13.5468,
+    "lng": 123.0358
+  },
+  {
+    "name": "Tambo",
+    "country": "PH",
+    "lat": 13.2553,
+    "lng": 123.2906
+  },
+  {
+    "name": "Tambo",
+    "country": "PH",
+    "lat": 9.895,
+    "lng": 123.0556
+  },
+  {
+    "name": "Tambo",
+    "country": "PH",
+    "lat": 7.15694,
+    "lng": 125.69917
+  },
+  {
+    "name": "Tambilil",
+    "country": "PH",
+    "lat": 5.96222,
+    "lng": 124.66972
+  },
+  {
+    "name": "Tambalisa",
+    "country": "PH",
+    "lat": 11.2698,
+    "lng": 123.165
+  },
+  {
+    "name": "Tambac",
+    "country": "PH",
+    "lat": 11.6705,
+    "lng": 122.4112
+  },
+  {
+    "name": "Tambak",
+    "country": "PH",
+    "lat": 6.72532,
+    "lng": 124.62342
+  },
+  {
+    "name": "Tamayo",
+    "country": "PH",
+    "lat": 15.87746,
+    "lng": 120.28455
+  },
+  {
+    "name": "Taluya",
+    "country": "PH",
+    "lat": 5.81167,
+    "lng": 125.17278
+  },
+  {
+    "name": "Talusan",
+    "country": "PH",
+    "lat": 7.42667,
+    "lng": 122.81028
+  },
+  {
+    "name": "Taluksangay",
+    "country": "PH",
+    "lat": 6.95417,
+    "lng": 122.18389
+  },
+  {
+    "name": "Talugtug",
+    "country": "PH",
+    "lat": 15.7778,
+    "lng": 120.8111
+  },
+  {
+    "name": "Taltal",
+    "country": "PH",
+    "lat": 15.5878,
+    "lng": 119.9455
+  },
+  {
+    "name": "Taloy",
+    "country": "PH",
+    "lat": 16.33333,
+    "lng": 120.5
+  },
+  {
+    "name": "Taloy",
+    "country": "PH",
+    "lat": 15.9241,
+    "lng": 120.39649
+  },
+  {
+    "name": "Talospatang",
+    "country": "PH",
+    "lat": 15.91701,
+    "lng": 120.44141
+  },
+  {
+    "name": "Talon",
+    "country": "PH",
+    "lat": 11.56,
+    "lng": 122.68111
+  },
+  {
+    "name": "Talomo",
+    "country": "PH",
+    "lat": 7.52861,
+    "lng": 125.72278
+  },
+  {
+    "name": "Talokgañgan",
+    "country": "PH",
+    "lat": 11.00778,
+    "lng": 122.845
+  },
+  {
+    "name": "Taloc",
+    "country": "PH",
+    "lat": 10.5746,
+    "lng": 122.8954
+  },
+  {
+    "name": "Talubatib",
+    "country": "PH",
+    "lat": 14.1825,
+    "lng": 122.7853
+  },
+  {
+    "name": "Talitay",
+    "country": "PH",
+    "lat": 7.03333,
+    "lng": 124.7
+  },
+  {
+    "name": "Talisayan",
+    "country": "PH",
+    "lat": 10.95,
+    "lng": 124.7
+  },
+  {
+    "name": "Talisayan",
+    "country": "PH",
+    "lat": 9.0003,
+    "lng": 124.88091
+  },
+  {
+    "name": "Talisayan",
+    "country": "PH",
+    "lat": 6.98722,
+    "lng": 121.92722
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 14.1343,
+    "lng": 122.9226
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 14.0925,
+    "lng": 121.02194
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 13.9706,
+    "lng": 121.2051
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 13.91484,
+    "lng": 120.62326
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 13.18056,
+    "lng": 122.62361
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 11.24504,
+    "lng": 124.05491
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 10.7375,
+    "lng": 122.9666
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 10.24472,
+    "lng": 123.84944
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 9.81889,
+    "lng": 125.61556
+  },
+  {
+    "name": "Talisay",
+    "country": "PH",
+    "lat": 6.71973,
+    "lng": 126.09998
+  },
+  {
+    "name": "Talipao",
+    "country": "PH",
+    "lat": 5.97639,
+    "lng": 121.11611
+  },
+  {
+    "name": "Talipapa",
+    "country": "PH",
+    "lat": 14.6857,
+    "lng": 121.0269
+  },
+  {
+    "name": "Talipan",
+    "country": "PH",
+    "lat": 13.93333,
+    "lng": 121.68333
+  },
+  {
+    "name": "Tal I Mun Doc",
+    "country": "PH",
+    "lat": 15.2121,
+    "lng": 120.6849
+  },
+  {
+    "name": "Taligaman",
+    "country": "PH",
+    "lat": 8.90444,
+    "lng": 125.65583
+  },
+  {
+    "name": "Talibon",
+    "country": "PH",
+    "lat": 10.14917,
+    "lng": 124.325
+  },
+  {
+    "name": "Talayan",
+    "country": "PH",
+    "lat": 6.98056,
+    "lng": 124.38194
+  },
+  {
+    "name": "Talavera",
+    "country": "PH",
+    "lat": 15.5883,
+    "lng": 120.9192
+  },
+  {
+    "name": "Talangnan",
+    "country": "PH",
+    "lat": 9.634,
+    "lng": 123.3344
+  },
+  {
+    "name": "Talang",
+    "country": "PH",
+    "lat": 15.02488,
+    "lng": 120.83782
+  },
+  {
+    "name": "Talalora",
+    "country": "PH",
+    "lat": 11.5293,
+    "lng": 124.8362
+  },
+  {
+    "name": "Talakag",
+    "country": "PH",
+    "lat": 8.23361,
+    "lng": 124.60028
+  },
+  {
+    "name": "Talaibon",
+    "country": "PH",
+    "lat": 13.8378,
+    "lng": 121.1398
+  },
+  {
+    "name": "Talahib Payap",
+    "country": "PH",
+    "lat": 13.66083,
+    "lng": 121.13639
+  },
+  {
+    "name": "Talahiban I",
+    "country": "PH",
+    "lat": 13.80645,
+    "lng": 121.38116
+  },
+  {
+    "name": "Talaga",
+    "country": "PH",
+    "lat": 15.38403,
+    "lng": 120.58933
+  },
+  {
+    "name": "Talaga",
+    "country": "PH",
+    "lat": 13.73646,
+    "lng": 120.93618
+  },
+  {
+    "name": "Talacogon",
+    "country": "PH",
+    "lat": 8.45611,
+    "lng": 125.78417
+  },
+  {
+    "name": "Talaban",
+    "country": "PH",
+    "lat": 10.1254,
+    "lng": 122.8671
+  },
+  {
+    "name": "Tala",
+    "country": "PH",
+    "lat": 13.2742,
+    "lng": 122.5859
+  },
+  {
+    "name": "Tacub",
+    "country": "PH",
+    "lat": 8.1875,
+    "lng": 124.10806
+  },
+  {
+    "name": "Takub",
+    "country": "PH",
+    "lat": 6.85639,
+    "lng": 125.4225
+  },
+  {
+    "name": "Tajao",
+    "country": "PH",
+    "lat": 10.3148,
+    "lng": 123.5835
+  },
+  {
+    "name": "Tagusao",
+    "country": "PH",
+    "lat": 9.19238,
+    "lng": 117.8141
+  },
+  {
+    "name": "Tagum Norte",
+    "country": "PH",
+    "lat": 10.07454,
+    "lng": 124.38925
+  },
+  {
+    "name": "Taguisa",
+    "country": "PH",
+    "lat": 6.69833,
+    "lng": 124.03583
+  },
+  {
+    "name": "Taguing",
+    "country": "PH",
+    "lat": 17.94636,
+    "lng": 121.75521
+  },
+  {
+    "name": "Taguig",
+    "country": "PH",
+    "lat": 14.5243,
+    "lng": 121.0792
+  },
+  {
+    "name": "Tagudin",
+    "country": "PH",
+    "lat": 16.9355,
+    "lng": 120.4442
+  },
+  {
+    "name": "Tagudin",
+    "country": "PH",
+    "lat": 16.0806,
+    "lng": 119.9539
+  },
+  {
+    "name": "Tagasilay",
+    "country": "PH",
+    "lat": 7.3025,
+    "lng": 122.25861
+  },
+  {
+    "name": "Taypano",
+    "country": "PH",
+    "lat": 8.37083,
+    "lng": 124.55944
+  },
+  {
+    "name": "Tagoytoy",
+    "country": "PH",
+    "lat": 13.4158,
+    "lng": 123.678
+  },
+  {
+    "name": "Tagoloan",
+    "country": "PH",
+    "lat": 8.53954,
+    "lng": 124.75411
+  },
+  {
+    "name": "Tago",
+    "country": "PH",
+    "lat": 9.02111,
+    "lng": 126.23167
+  },
+  {
+    "name": "Tagkawayan Sabang",
+    "country": "PH",
+    "lat": 13.9909,
+    "lng": 122.5298
+  },
+  {
+    "name": "Tagdanua",
+    "country": "PH",
+    "lat": 7.2043,
+    "lng": 125.8841
+  },
+  {
+    "name": "Tagcatong",
+    "country": "PH",
+    "lat": 9.00222,
+    "lng": 125.25694
+  },
+  {
+    "name": "Tagburos",
+    "country": "PH",
+    "lat": 9.82861,
+    "lng": 118.73194
+  },
+  {
+    "name": "Tagbubungang Diot",
+    "country": "PH",
+    "lat": 11.1257,
+    "lng": 124.4028
+  },
+  {
+    "name": "Tagbina",
+    "country": "PH",
+    "lat": 8.45194,
+    "lng": 126.17139
+  },
+  {
+    "name": "Tagbilaran City",
+    "country": "PH",
+    "lat": 9.65556,
+    "lng": 123.85219
+  },
+  {
+    "name": "Tagbacan Ibaba",
+    "country": "PH",
+    "lat": 13.6028,
+    "lng": 122.3687
+  },
+  {
+    "name": "Tagbak",
+    "country": "PH",
+    "lat": 13.84166,
+    "lng": 120.08872
+  },
+  {
+    "name": "Tagaytay",
+    "country": "PH",
+    "lat": 14.09532,
+    "lng": 120.93355
+  },
+  {
+    "name": "Tagas",
+    "country": "PH",
+    "lat": 13.16667,
+    "lng": 123.71667
+  },
+  {
+    "name": "Tagapul-an",
+    "country": "PH",
+    "lat": 12.05,
+    "lng": 124.15
+  },
+  {
+    "name": "Taganak",
+    "country": "PH",
+    "lat": 6.07328,
+    "lng": 118.31226
+  },
+  {
+    "name": "Tagana-an",
+    "country": "PH",
+    "lat": 9.69722,
+    "lng": 125.58556
+  },
+  {
+    "name": "Tagakpan",
+    "country": "PH",
+    "lat": 7.11278,
+    "lng": 125.42917
+  },
+  {
+    "name": "Tayabas Ibaba",
+    "country": "PH",
+    "lat": 13.6222,
+    "lng": 122.2814
+  },
+  {
+    "name": "Taft",
+    "country": "PH",
+    "lat": 11.90111,
+    "lng": 125.41889
+  },
+  {
+    "name": "Tadian",
+    "country": "PH",
+    "lat": 16.9956,
+    "lng": 120.8203
+  },
+  {
+    "name": "Tacurong",
+    "country": "PH",
+    "lat": 6.6925,
+    "lng": 124.67639
+  },
+  {
+    "name": "Taclobo",
+    "country": "PH",
+    "lat": 12.30744,
+    "lng": 122.58601
+  },
+  {
+    "name": "Tacloban",
+    "country": "PH",
+    "lat": 11.24333,
+    "lng": 125.00472
+  },
+  {
+    "name": "Tacligan",
+    "country": "PH",
+    "lat": 13.3975,
+    "lng": 121.0626
+  },
+  {
+    "name": "Tacadang",
+    "country": "PH",
+    "lat": 16.7264,
+    "lng": 120.6405
+  },
+  {
+    "name": "Tagbita",
+    "country": "PH",
+    "lat": 8.71331,
+    "lng": 117.35046
+  },
+  {
+    "name": "Tabonok",
+    "country": "PH",
+    "lat": 10.8512,
+    "lng": 123.8766
+  },
+  {
+    "name": "Tabuk",
+    "country": "PH",
+    "lat": 17.47378,
+    "lng": 121.46799
+  },
+  {
+    "name": "Tabug",
+    "country": "PH",
+    "lat": 18.0343,
+    "lng": 120.5488
+  },
+  {
+    "name": "Tabuelan",
+    "country": "PH",
+    "lat": 10.8209,
+    "lng": 123.8689
+  },
+  {
+    "name": "Tabuc Pontevedra",
+    "country": "PH",
+    "lat": 11.48333,
+    "lng": 122.81667
+  },
+  {
+    "name": "Tabuating",
+    "country": "PH",
+    "lat": 15.3921,
+    "lng": 120.94084
+  },
+  {
+    "name": "Tabuan",
+    "country": "PH",
+    "lat": 9.51556,
+    "lng": 122.85056
+  },
+  {
+    "name": "Tabu",
+    "country": "PH",
+    "lat": 9.8923,
+    "lng": 122.7098
+  },
+  {
+    "name": "Tabontabon",
+    "country": "PH",
+    "lat": 11.04083,
+    "lng": 124.96111
+  },
+  {
+    "name": "Tabunok",
+    "country": "PH",
+    "lat": 10.77673,
+    "lng": 124.01602
+  },
+  {
+    "name": "Tabonoc",
+    "country": "PH",
+    "lat": 10.35,
+    "lng": 124.8
+  },
+  {
+    "name": "Tabon",
+    "country": "PH",
+    "lat": 15.27098,
+    "lng": 120.91273
+  },
+  {
+    "name": "Tabon",
+    "country": "PH",
+    "lat": 10.3019,
+    "lng": 123.326
+  },
+  {
+    "name": "Tabon",
+    "country": "PH",
+    "lat": 9.8042,
+    "lng": 123.4563
+  },
+  {
+    "name": "Tabon",
+    "country": "PH",
+    "lat": 9.23877,
+    "lng": 117.9946
+  },
+  {
+    "name": "Tabogon",
+    "country": "PH",
+    "lat": 10.9412,
+    "lng": 124.0282
+  },
+  {
+    "name": "Taboc",
+    "country": "PH",
+    "lat": 8.87833,
+    "lng": 124.7975
+  },
+  {
+    "name": "Tablac",
+    "country": "PH",
+    "lat": 17.21568,
+    "lng": 120.45428
+  },
+  {
+    "name": "Tabio",
+    "country": "PH",
+    "lat": 16.85,
+    "lng": 120.8
+  },
+  {
+    "name": "Tabing",
+    "country": "PH",
+    "lat": 11.4,
+    "lng": 124.35
+  },
+  {
+    "name": "Tabinay",
+    "country": "PH",
+    "lat": 13.4871,
+    "lng": 120.9566
+  },
+  {
+    "name": "Tabina",
+    "country": "PH",
+    "lat": 7.4669,
+    "lng": 123.4081
+  },
+  {
+    "name": "Tabid",
+    "country": "PH",
+    "lat": 8.1085,
+    "lng": 123.7801
+  },
+  {
+    "name": "Tabiauan",
+    "country": "PH",
+    "lat": 6.02806,
+    "lng": 121.89355
+  },
+  {
+    "name": "Tabango",
+    "country": "PH",
+    "lat": 11.3077,
+    "lng": 124.373
+  },
+  {
+    "name": "Tabalong",
+    "country": "PH",
+    "lat": 9.62157,
+    "lng": 123.81231
+  },
+  {
+    "name": "Tabaco",
+    "country": "PH",
+    "lat": 13.35861,
+    "lng": 123.73361
+  },
+  {
+    "name": "Tabaan",
+    "country": "PH",
+    "lat": 16.3,
+    "lng": 120.51667
+  },
+  {
+    "name": "Taal",
+    "country": "PH",
+    "lat": 13.87992,
+    "lng": 120.92311
+  },
+  {
+    "name": "Tabacao",
+    "country": "PH",
+    "lat": 15.64973,
+    "lng": 120.94066
+  },
+  {
+    "name": "Tairan Camp",
+    "country": "PH",
+    "lat": 6.6402,
+    "lng": 121.8395
+  },
+  {
+    "name": "Talagutong",
+    "country": "PH",
+    "lat": 6.26444,
+    "lng": 125.66778
+  },
+  {
+    "name": "Talabaan",
+    "country": "PH",
+    "lat": 6.94111,
+    "lng": 122.17222
+  },
+  {
+    "name": "Tablas",
+    "country": "PH",
+    "lat": 6.62917,
+    "lng": 122.17472
+  },
+  {
+    "name": "Talipaw",
+    "country": "PH",
+    "lat": 5.91,
+    "lng": 121.09444
+  },
+  {
+    "name": "Taguitic",
+    "country": "PH",
+    "lat": 7.9387,
+    "lng": 123.6312
+  },
+  {
+    "name": "Tagnanan",
+    "country": "PH",
+    "lat": 7.28361,
+    "lng": 125.84222
+  },
+  {
+    "name": "Tabuk",
+    "country": "PH",
+    "lat": 17.4084,
+    "lng": 121.2785
+  },
+  {
+    "name": "Taunsa",
+    "country": "PK",
+    "lat": 30.70358,
+    "lng": 70.65054
+  },
+  {
+    "name": "Tank",
+    "country": "PK",
+    "lat": 32.21707,
+    "lng": 70.38315
+  },
+  {
+    "name": "Tangwani",
+    "country": "PK",
+    "lat": 28.27886,
+    "lng": 68.9976
+  },
+  {
+    "name": "Tangi",
+    "country": "PK",
+    "lat": 34.3009,
+    "lng": 71.65238
+  },
+  {
+    "name": "Tando Muhammad Khan",
+    "country": "PK",
+    "lat": 25.12384,
+    "lng": 68.53677
+  },
+  {
+    "name": "Tando Mitha Khan",
+    "country": "PK",
+    "lat": 25.99625,
+    "lng": 69.20251
+  },
+  {
+    "name": "Tando Jam",
+    "country": "PK",
+    "lat": 25.42813,
+    "lng": 68.52923
+  },
+  {
+    "name": "Tando Bago",
+    "country": "PK",
+    "lat": 24.78914,
+    "lng": 68.96535
+  },
+  {
+    "name": "Tando Allahyar",
+    "country": "PK",
+    "lat": 25.4605,
+    "lng": 68.71745
+  },
+  {
+    "name": "Tando Adam",
+    "country": "PK",
+    "lat": 25.76818,
+    "lng": 68.66196
+  },
+  {
+    "name": "Tandlianwala",
+    "country": "PK",
+    "lat": 31.03359,
+    "lng": 73.13268
+  },
+  {
+    "name": "Talhar",
+    "country": "PK",
+    "lat": 24.88454,
+    "lng": 68.81437
+  },
+  {
+    "name": "Talamba",
+    "country": "PK",
+    "lat": 30.52693,
+    "lng": 72.24079
+  },
+  {
+    "name": "Talagang",
+    "country": "PK",
+    "lat": 32.92766,
+    "lng": 72.41594
+  },
+  {
+    "name": "Tarnowiec",
+    "country": "PL",
+    "lat": 49.98164,
+    "lng": 20.98655
+  },
+  {
+    "name": "Tarnowiec",
+    "country": "PL",
+    "lat": 49.73108,
+    "lng": 21.57663
+  },
+  {
+    "name": "Tarnów",
+    "country": "PL",
+    "lat": 50.01381,
+    "lng": 20.98698
+  },
+  {
+    "name": "Tarnogród",
+    "country": "PL",
+    "lat": 50.3609,
+    "lng": 22.74174
+  },
+  {
+    "name": "Tarnobrzeg",
+    "country": "PL",
+    "lat": 50.57304,
+    "lng": 21.67937
+  },
+  {
+    "name": "Tarnawatka",
+    "country": "PL",
+    "lat": 50.53154,
+    "lng": 23.3959
+  },
+  {
+    "name": "Tarłów",
+    "country": "PL",
+    "lat": 51.0016,
+    "lng": 21.71474
+  },
+  {
+    "name": "Targowisko",
+    "country": "PL",
+    "lat": 49.98473,
+    "lng": 20.29346
+  },
+  {
+    "name": "Targówek",
+    "country": "PL",
+    "lat": 52.29185,
+    "lng": 21.04845
+  },
+  {
+    "name": "Tarczyn",
+    "country": "PL",
+    "lat": 51.98197,
+    "lng": 20.83394
+  },
+  {
+    "name": "Tarnowskie Góry",
+    "country": "PL",
+    "lat": 50.44548,
+    "lng": 18.86147
+  },
+  {
+    "name": "Tarnów Opolski",
+    "country": "PL",
+    "lat": 50.57631,
+    "lng": 18.08367
+  },
+  {
+    "name": "Tarnowo Podgórne",
+    "country": "PL",
+    "lat": 52.46642,
+    "lng": 16.66326
+  },
+  {
+    "name": "Tarnówka",
+    "country": "PL",
+    "lat": 53.34174,
+    "lng": 16.85273
+  },
+  {
+    "name": "Tarnawa Dolna",
+    "country": "PL",
+    "lat": 49.7796,
+    "lng": 19.56545
+  },
+  {
+    "name": "Targanice",
+    "country": "PL",
+    "lat": 49.80575,
+    "lng": 19.32444
+  },
+  {
+    "name": "Tallaboa",
+    "country": "PR",
+    "lat": 17.99497,
+    "lng": -66.71629
+  },
+  {
+    "name": "Tallaboa Alta",
+    "country": "PR",
+    "lat": 18.05107,
+    "lng": -66.70017
+  },
+  {
+    "name": "Tayāsīr",
+    "country": "PS",
+    "lat": 32.34042,
+    "lng": 35.39604
+  },
+  {
+    "name": "Tarqūmyā",
+    "country": "PS",
+    "lat": 31.57551,
+    "lng": 35.01223
+  },
+  {
+    "name": "Talfīt",
+    "country": "PS",
+    "lat": 32.08664,
+    "lng": 35.29094
+  },
+  {
+    "name": "Taffūḩ",
+    "country": "PS",
+    "lat": 31.53855,
+    "lng": 35.04966
+  },
+  {
+    "name": "Tavira",
+    "country": "PT",
+    "lat": 37.12734,
+    "lng": -7.64861
+  },
+  {
+    "name": "Tavarede",
+    "country": "PT",
+    "lat": 40.16692,
+    "lng": -8.84568
+  },
+  {
+    "name": "Tarouca",
+    "country": "PT",
+    "lat": 41.01763,
+    "lng": -7.77547
+  },
+  {
+    "name": "Tadim",
+    "country": "PT",
+    "lat": 41.50727,
+    "lng": -8.48964
+  },
+  {
+    "name": "Tabuaço",
+    "country": "PT",
+    "lat": 41.11615,
+    "lng": -7.56793
+  },
+  {
+    "name": "Taipas",
+    "country": "PT",
+    "lat": 41.48465,
+    "lng": -8.3485
+  },
+  {
+    "name": "Tacuatí",
+    "country": "PY",
+    "lat": -23.45767,
+    "lng": -56.73672
+  },
+  {
+    "name": "Tazlău",
+    "country": "RO",
+    "lat": 46.71667,
+    "lng": 26.46667
+  },
+  {
+    "name": "Tauţ",
+    "country": "RO",
+    "lat": 46.28333,
+    "lng": 21.91667
+  },
+  {
+    "name": "Taşca",
+    "country": "RO",
+    "lat": 46.9,
+    "lng": 26.01667
+  },
+  {
+    "name": "Tariverde",
+    "country": "RO",
+    "lat": 44.56268,
+    "lng": 28.60245
+  },
+  {
+    "name": "Tarcea",
+    "country": "RO",
+    "lat": 47.45,
+    "lng": 22.18333
+  },
+  {
+    "name": "Tarcău",
+    "country": "RO",
+    "lat": 46.86667,
+    "lng": 26.13333
+  },
+  {
+    "name": "Tansa",
+    "country": "RO",
+    "lat": 47.30139,
+    "lng": 27.07653
+  },
+  {
+    "name": "Tansa",
+    "country": "RO",
+    "lat": 46.91667,
+    "lng": 27.23333
+  },
+  {
+    "name": "Tanacu",
+    "country": "RO",
+    "lat": 46.68333,
+    "lng": 27.81667
+  },
+  {
+    "name": "Tamaşi",
+    "country": "RO",
+    "lat": 46.48333,
+    "lng": 26.98333
+  },
+  {
+    "name": "Tamași",
+    "country": "RO",
+    "lat": 44.58438,
+    "lng": 26.00724
+  },
+  {
+    "name": "Talpoș",
+    "country": "RO",
+    "lat": 46.69124,
+    "lng": 21.80335
+  },
+  {
+    "name": "Talpa-Trivalea",
+    "country": "RO",
+    "lat": 44.28333,
+    "lng": 25.28333
+  },
+  {
+    "name": "Talpa-Ogrăzile",
+    "country": "RO",
+    "lat": 44.28726,
+    "lng": 25.29328
+  },
+  {
+    "name": "Talea",
+    "country": "RO",
+    "lat": 45.22564,
+    "lng": 25.56433
+  },
+  {
+    "name": "Tabăra",
+    "country": "RO",
+    "lat": 47.57395,
+    "lng": 27.41213
+  },
+  {
+    "name": "Tarna Mare",
+    "country": "RO",
+    "lat": 48.09175,
+    "lng": 23.19369
+  },
+  {
+    "name": "Taraš",
+    "country": "RS",
+    "lat": 45.46737,
+    "lng": 20.19867
+  },
+  {
+    "name": "Tabanović",
+    "country": "RS",
+    "lat": 44.82018,
+    "lng": 19.64128
+  },
+  {
+    "name": "Taytsy",
+    "country": "RU",
+    "lat": 59.66444,
+    "lng": 30.11472
+  },
+  {
+    "name": "Tatsinskaya",
+    "country": "RU",
+    "lat": 48.19448,
+    "lng": 41.27972
+  },
+  {
+    "name": "Tatishchevo",
+    "country": "RU",
+    "lat": 51.67277,
+    "lng": 45.5924
+  },
+  {
+    "name": "Tatarskaya Pishlya",
+    "country": "RU",
+    "lat": 54.06085,
+    "lng": 44.89978
+  },
+  {
+    "name": "Tatarskaya Kargala",
+    "country": "RU",
+    "lat": 51.94952,
+    "lng": 55.17314
+  },
+  {
+    "name": "Tatarka",
+    "country": "RU",
+    "lat": 44.95889,
+    "lng": 41.95171
+  },
+  {
+    "name": "Tashla",
+    "country": "RU",
+    "lat": 51.77191,
+    "lng": 52.74104
+  },
+  {
+    "name": "Tarusa",
+    "country": "RU",
+    "lat": 54.72467,
+    "lng": 37.1722
+  },
+  {
+    "name": "Tarumovka",
+    "country": "RU",
+    "lat": 44.07611,
+    "lng": 46.53602
+  },
+  {
+    "name": "Tarskoye",
+    "country": "RU",
+    "lat": 42.96606,
+    "lng": 44.7754
+  },
+  {
+    "name": "Tarnogskiy Gorodok",
+    "country": "RU",
+    "lat": 60.49972,
+    "lng": 43.57611
+  },
+  {
+    "name": "Tarki",
+    "country": "RU",
+    "lat": 42.94423,
+    "lng": 47.49527
+  },
+  {
+    "name": "Tarkhovka",
+    "country": "RU",
+    "lat": 60.06687,
+    "lng": 29.97435
+  },
+  {
+    "name": "Taremskoye",
+    "country": "RU",
+    "lat": 55.92889,
+    "lng": 43.04433
+  },
+  {
+    "name": "Tarasovskiy",
+    "country": "RU",
+    "lat": 48.7296,
+    "lng": 40.36392
+  },
+  {
+    "name": "Tarasovka",
+    "country": "RU",
+    "lat": 55.95722,
+    "lng": 37.84333
+  },
+  {
+    "name": "Tambovka",
+    "country": "RU",
+    "lat": 47.31528,
+    "lng": 47.37773
+  },
+  {
+    "name": "Tambov",
+    "country": "RU",
+    "lat": 52.73632,
+    "lng": 41.44102
+  },
+  {
+    "name": "Taman’",
+    "country": "RU",
+    "lat": 45.2117,
+    "lng": 36.71609
+  },
+  {
+    "name": "Tamala",
+    "country": "RU",
+    "lat": 52.54097,
+    "lng": 43.25145
+  },
+  {
+    "name": "Talovyy",
+    "country": "RU",
+    "lat": 47.80765,
+    "lng": 40.10943
+  },
+  {
+    "name": "Talovaya",
+    "country": "RU",
+    "lat": 51.11962,
+    "lng": 40.7251
+  },
+  {
+    "name": "Talitsy",
+    "country": "RU",
+    "lat": 56.52801,
+    "lng": 42.3323
+  },
+  {
+    "name": "Taldom",
+    "country": "RU",
+    "lat": 56.73097,
+    "lng": 37.52824
+  },
+  {
+    "name": "Talashkino",
+    "country": "RU",
+    "lat": 54.65471,
+    "lng": 32.18325
+  },
+  {
+    "name": "Tagirkent-Kazmalyar",
+    "country": "RU",
+    "lat": 41.81548,
+    "lng": 48.50804
+  },
+  {
+    "name": "Taganrog",
+    "country": "RU",
+    "lat": 47.23627,
+    "lng": 38.9053
+  },
+  {
+    "name": "Taganskiy",
+    "country": "RU",
+    "lat": 55.73333,
+    "lng": 37.66667
+  },
+  {
+    "name": "Takhtamukay",
+    "country": "RU",
+    "lat": 44.92198,
+    "lng": 38.99486
+  },
+  {
+    "name": "Tazovsky",
+    "country": "RU",
+    "lat": 67.4715,
+    "lng": 78.7162
+  },
+  {
+    "name": "Tayzhina",
+    "country": "RU",
+    "lat": 53.6679,
+    "lng": 87.4362
+  },
+  {
+    "name": "Tayshet",
+    "country": "RU",
+    "lat": 55.93276,
+    "lng": 97.98964
+  },
+  {
+    "name": "Tayginka",
+    "country": "RU",
+    "lat": 55.6244,
+    "lng": 60.5076
+  },
+  {
+    "name": "Tayga",
+    "country": "RU",
+    "lat": 56.06541,
+    "lng": 85.62179
+  },
+  {
+    "name": "Tavricheskoye",
+    "country": "RU",
+    "lat": 54.58744,
+    "lng": 73.63733
+  },
+  {
+    "name": "Tavda",
+    "country": "RU",
+    "lat": 58.04203,
+    "lng": 65.27165
+  },
+  {
+    "name": "Tatarsk",
+    "country": "RU",
+    "lat": 55.2213,
+    "lng": 75.98154
+  },
+  {
+    "name": "Tashtyp",
+    "country": "RU",
+    "lat": 52.79936,
+    "lng": 89.89352
+  },
+  {
+    "name": "Tashtagol",
+    "country": "RU",
+    "lat": 52.76797,
+    "lng": 87.88803
+  },
+  {
+    "name": "Tashara",
+    "country": "RU",
+    "lat": 55.5195,
+    "lng": 83.5094
+  },
+  {
+    "name": "Tashanta",
+    "country": "RU",
+    "lat": 49.71573,
+    "lng": 89.19425
+  },
+  {
+    "name": "Taseyevo",
+    "country": "RU",
+    "lat": 57.21695,
+    "lng": 94.89407
+  },
+  {
+    "name": "Tarko-Sale",
+    "country": "RU",
+    "lat": 64.91611,
+    "lng": 77.77457
+  },
+  {
+    "name": "Tara",
+    "country": "RU",
+    "lat": 56.89603,
+    "lng": 74.36938
+  },
+  {
+    "name": "Talnakh",
+    "country": "RU",
+    "lat": 69.4865,
+    "lng": 88.3972
+  },
+  {
+    "name": "Tal’menka",
+    "country": "RU",
+    "lat": 53.82146,
+    "lng": 83.57063
+  },
+  {
+    "name": "Talitsa",
+    "country": "RU",
+    "lat": 56.8804,
+    "lng": 60.0213
+  },
+  {
+    "name": "Talitsa",
+    "country": "RU",
+    "lat": 57.01094,
+    "lng": 63.73347
+  },
+  {
+    "name": "Tabuny",
+    "country": "RU",
+    "lat": 52.77521,
+    "lng": 78.79129
+  },
+  {
+    "name": "Tabory",
+    "country": "RU",
+    "lat": 58.5201,
+    "lng": 64.54839
+  },
+  {
+    "name": "Tanzybey",
+    "country": "RU",
+    "lat": 53.13265,
+    "lng": 92.94335
+  },
+  {
+    "name": "Tayturka",
+    "country": "RU",
+    "lat": 52.86917,
+    "lng": 103.46083
+  },
+  {
+    "name": "Tavrichanka",
+    "country": "RU",
+    "lat": 43.32551,
+    "lng": 131.86264
+  },
+  {
+    "name": "Tataurovo",
+    "country": "RU",
+    "lat": 52.14182,
+    "lng": 107.44054
+  },
+  {
+    "name": "Tarbagatay",
+    "country": "RU",
+    "lat": 51.48121,
+    "lng": 107.36378
+  },
+  {
+    "name": "Tarbagatay",
+    "country": "RU",
+    "lat": 51.17608,
+    "lng": 109.09699
+  },
+  {
+    "name": "Tankhoy",
+    "country": "RU",
+    "lat": 51.55683,
+    "lng": 105.1262
+  },
+  {
+    "name": "Tambovka",
+    "country": "RU",
+    "lat": 50.0995,
+    "lng": 128.05832
+  },
+  {
+    "name": "Taldan",
+    "country": "RU",
+    "lat": 53.69052,
+    "lng": 124.81704
+  },
+  {
+    "name": "Talakan",
+    "country": "RU",
+    "lat": 50.26378,
+    "lng": 130.26755
+  },
+  {
+    "name": "Taksimo",
+    "country": "RU",
+    "lat": 56.34543,
+    "lng": 114.89428
+  },
+  {
+    "name": "Takhtamygda",
+    "country": "RU",
+    "lat": 54.11031,
+    "lng": 123.60802
+  },
+  {
+    "name": "Tabaga",
+    "country": "RU",
+    "lat": 61.85502,
+    "lng": 129.60022
+  },
+  {
+    "name": "Tanais",
+    "country": "RU",
+    "lat": 47.26837,
+    "lng": 39.33425
+  },
+  {
+    "name": "Tathlīth",
+    "country": "SA",
+    "lat": 19.53185,
+    "lng": 43.51972
+  },
+  {
+    "name": "Tanūmah",
+    "country": "SA",
+    "lat": 27.1,
+    "lng": 44.13333
+  },
+  {
+    "name": "Tabuk",
+    "country": "SA",
+    "lat": 28.3998,
+    "lng": 36.57151
+  },
+  {
+    "name": "Tabālah",
+    "country": "SA",
+    "lat": 19.95,
+    "lng": 42.4
+  },
+  {
+    "name": "Ta’if",
+    "country": "SA",
+    "lat": 21.27028,
+    "lng": 40.41583
+  },
+  {
+    "name": "Taro",
+    "country": "SB",
+    "lat": -6.71111,
+    "lng": 156.39722
+  },
+  {
+    "name": "Tandai",
+    "country": "SB",
+    "lat": -9.44666,
+    "lng": 159.94549
+  },
+  {
+    "name": "Takamaka",
+    "country": "SC",
+    "lat": -4.76667,
+    "lng": 55.5
+  },
+  {
+    "name": "Tandaltī",
+    "country": "SD",
+    "lat": 13.01667,
+    "lng": 31.86667
+  },
+  {
+    "name": "Talodi",
+    "country": "SD",
+    "lat": 10.63246,
+    "lng": 30.3797
+  },
+  {
+    "name": "Tanumshede",
+    "country": "SE",
+    "lat": 58.72385,
+    "lng": 11.32587
+  },
+  {
+    "name": "Tallboda",
+    "country": "SE",
+    "lat": 58.42521,
+    "lng": 15.68154
+  },
+  {
+    "name": "Taberg",
+    "country": "SE",
+    "lat": 57.67722,
+    "lng": 14.08876
+  },
+  {
+    "name": "Tanglin",
+    "country": "SG",
+    "lat": 1.31667,
+    "lng": 103.81667
+  },
+  {
+    "name": "Tampines Estate",
+    "country": "SG",
+    "lat": 1.35806,
+    "lng": 103.94028
+  },
+  {
+    "name": "Tai Seng",
+    "country": "SG",
+    "lat": 1.33611,
+    "lng": 103.90361
+  },
+  {
+    "name": "Tampines New Town",
+    "country": "SG",
+    "lat": 1.34917,
+    "lng": 103.94972
+  },
+  {
+    "name": "Tanglin Halt",
+    "country": "SG",
+    "lat": 1.30139,
+    "lng": 103.7975
+  },
+  {
+    "name": "Tabor",
+    "country": "SI",
+    "lat": 46.23464,
+    "lng": 15.01671
+  },
+  {
+    "name": "Tanaf",
+    "country": "SN",
+    "lat": 12.64972,
+    "lng": -15.42611
+  },
+  {
+    "name": "Tambacounda",
+    "country": "SN",
+    "lat": 13.77073,
+    "lng": -13.66734
+  },
+  {
+    "name": "Tayeeglow",
+    "country": "SO",
+    "lat": 4.01897,
+    "lng": 44.51111
+  },
+  {
+    "name": "Tambura",
+    "country": "SS",
+    "lat": 5.6,
+    "lng": 27.46667
+  },
+  {
+    "name": "Tacuba",
+    "country": "SV",
+    "lat": 13.90111,
+    "lng": -89.92972
+  },
+  {
+    "name": "Tasīl",
+    "country": "SY",
+    "lat": 32.83395,
+    "lng": 35.96973
+  },
+  {
+    "name": "Tall Tamr",
+    "country": "SY",
+    "lat": 36.65556,
+    "lng": 40.37079
+  },
+  {
+    "name": "Tall Salḩab",
+    "country": "SY",
+    "lat": 35.25884,
+    "lng": 36.38461
+  },
+  {
+    "name": "Tall Rif‘at",
+    "country": "SY",
+    "lat": 36.47229,
+    "lng": 37.09471
+  },
+  {
+    "name": "Tallkalakh",
+    "country": "SY",
+    "lat": 34.66842,
+    "lng": 36.25995
+  },
+  {
+    "name": "Tall Ḩamīs",
+    "country": "SY",
+    "lat": 36.75678,
+    "lng": 41.39943
+  },
+  {
+    "name": "Talldaww",
+    "country": "SY",
+    "lat": 34.87632,
+    "lng": 36.524
+  },
+  {
+    "name": "Tall aḑ Ḑamān",
+    "country": "SY",
+    "lat": 35.80776,
+    "lng": 37.25378
+  },
+  {
+    "name": "Tall Abyaḑ",
+    "country": "SY",
+    "lat": 36.69648,
+    "lng": 38.95382
+  },
+  {
+    "name": "Tallbīsah",
+    "country": "SY",
+    "lat": 34.84072,
+    "lng": 36.73092
+  },
+  {
+    "name": "Taftanāz",
+    "country": "SY",
+    "lat": 35.99832,
+    "lng": 36.78579
+  },
+  {
+    "name": "Tadmur",
+    "country": "SY",
+    "lat": 34.5624,
+    "lng": 38.28402
+  },
+  {
+    "name": "Tandjouaré",
+    "country": "TG",
+    "lat": 10.65583,
+    "lng": 0.195
+  },
+  {
+    "name": "Tabligbo",
+    "country": "TG",
+    "lat": 6.58333,
+    "lng": 1.5
+  },
+  {
+    "name": "Takua Thung",
+    "country": "TH",
+    "lat": 8.38373,
+    "lng": 98.45123
+  },
+  {
+    "name": "Takua Pa",
+    "country": "TH",
+    "lat": 8.8705,
+    "lng": 98.34383
+  },
+  {
+    "name": "Tak",
+    "country": "TH",
+    "lat": 16.86968,
+    "lng": 99.12898
+  },
+  {
+    "name": "Tak Fa",
+    "country": "TH",
+    "lat": 15.34917,
+    "lng": 100.49522
+  },
+  {
+    "name": "Ta Phraya",
+    "country": "TH",
+    "lat": 14.00308,
+    "lng": 102.80541
+  },
+  {
+    "name": "Taphan Hin",
+    "country": "TH",
+    "lat": 16.22095,
+    "lng": 100.41978
+  },
+  {
+    "name": "Tao Ngoi",
+    "country": "TH",
+    "lat": 16.99689,
+    "lng": 104.16672
+  },
+  {
+    "name": "Tan Sum",
+    "country": "TH",
+    "lat": 15.31569,
+    "lng": 105.15464
+  },
+  {
+    "name": "Tamot",
+    "country": "TH",
+    "lat": 7.33922,
+    "lng": 100.11167
+  },
+  {
+    "name": "Taling Chan",
+    "country": "TH",
+    "lat": 13.77698,
+    "lng": 100.4567
+  },
+  {
+    "name": "Takhli",
+    "country": "TH",
+    "lat": 15.26336,
+    "lng": 100.34378
+  },
+  {
+    "name": "Tak Bai",
+    "country": "TH",
+    "lat": 6.25947,
+    "lng": 102.05461
+  },
+  {
+    "name": "Takuk Nuea",
+    "country": "TH",
+    "lat": 9.23894,
+    "lng": 98.97861
+  },
+  {
+    "name": "Tavildara",
+    "country": "TJ",
+    "lat": 38.69529,
+    "lng": 70.48422
+  },
+  {
+    "name": "Tartiki",
+    "country": "TJ",
+    "lat": 37.58221,
+    "lng": 68.13347
+  },
+  {
+    "name": "Tagob",
+    "country": "TJ",
+    "lat": 38.83827,
+    "lng": 68.89847
+  },
+  {
+    "name": "Tajikobod",
+    "country": "TJ",
+    "lat": 39.12405,
+    "lng": 70.84009
+  },
+  {
+    "name": "Taboshar",
+    "country": "TJ",
+    "lat": 40.57017,
+    "lng": 69.64175
+  },
+  {
+    "name": "Tagta",
+    "country": "TM",
+    "lat": 41.65041,
+    "lng": 59.9164
+  },
+  {
+    "name": "Takhta-Bazar",
+    "country": "TM",
+    "lat": 35.9561,
+    "lng": 62.91842
+  },
+  {
+    "name": "Tazarka",
+    "country": "TN",
+    "lat": 36.55367,
+    "lng": 10.83868
+  },
+  {
+    "name": "Tataouine",
+    "country": "TN",
+    "lat": 32.92967,
+    "lng": 10.45177
+  },
+  {
+    "name": "Tamaghzah",
+    "country": "TN",
+    "lat": 34.38849,
+    "lng": 7.94313
+  },
+  {
+    "name": "Takelsa",
+    "country": "TN",
+    "lat": 36.78333,
+    "lng": 10.63333
+  },
+  {
+    "name": "Tajerouine",
+    "country": "TN",
+    "lat": 35.89174,
+    "lng": 8.55276
+  },
+  {
+    "name": "Tabursuq",
+    "country": "TN",
+    "lat": 36.45692,
+    "lng": 9.24751
+  },
+  {
+    "name": "Tabarka",
+    "country": "TN",
+    "lat": 36.95442,
+    "lng": 8.75801
+  },
+  {
+    "name": "Tatakamotonga",
+    "country": "TO",
+    "lat": -21.18627,
+    "lng": -175.12453
+  },
+  {
+    "name": "Taxa Cheya",
+    "country": "TR",
+    "lat": 37.03546,
+    "lng": 43.76114
+  },
+  {
+    "name": "Tavşanlı",
+    "country": "TR",
+    "lat": 39.54237,
+    "lng": 29.49866
+  },
+  {
+    "name": "Tavas",
+    "country": "TR",
+    "lat": 37.57351,
+    "lng": 29.07058
+  },
+  {
+    "name": "Tatvan",
+    "country": "TR",
+    "lat": 38.49221,
+    "lng": 42.28269
+  },
+  {
+    "name": "Taşucu",
+    "country": "TR",
+    "lat": 36.3214,
+    "lng": 33.88165
+  },
+  {
+    "name": "Taşpınar",
+    "country": "TR",
+    "lat": 38.17963,
+    "lng": 34.02499
+  },
+  {
+    "name": "Taşobası",
+    "country": "TR",
+    "lat": 37.09005,
+    "lng": 34.92961
+  },
+  {
+    "name": "Taşlıçay",
+    "country": "TR",
+    "lat": 39.62966,
+    "lng": 43.36878
+  },
+  {
+    "name": "Taşlı",
+    "country": "TR",
+    "lat": 37.9876,
+    "lng": 42.13608
+  },
+  {
+    "name": "Taşkent",
+    "country": "TR",
+    "lat": 36.9243,
+    "lng": 32.49131
+  },
+  {
+    "name": "Taşdelen",
+    "country": "TR",
+    "lat": 38.8381,
+    "lng": 38.50457
+  },
+  {
+    "name": "Taşağıl",
+    "country": "TR",
+    "lat": 36.9224,
+    "lng": 31.23608
+  },
+  {
+    "name": "Tarsus",
+    "country": "TR",
+    "lat": 36.91766,
+    "lng": 34.89277
+  },
+  {
+    "name": "Taraksu",
+    "country": "TR",
+    "lat": 38.15416,
+    "lng": 39.14837
+  },
+  {
+    "name": "Taraksu",
+    "country": "TR",
+    "lat": 38.01667,
+    "lng": 39.08333
+  },
+  {
+    "name": "Tanyeri",
+    "country": "TR",
+    "lat": 39.61137,
+    "lng": 39.83151
+  },
+  {
+    "name": "Tanır",
+    "country": "TR",
+    "lat": 38.41944,
+    "lng": 36.91222
+  },
+  {
+    "name": "Talas",
+    "country": "TR",
+    "lat": 38.6908,
+    "lng": 35.5538
+  },
+  {
+    "name": "Tahtaköprü",
+    "country": "TR",
+    "lat": 39.95,
+    "lng": 29.65
+  },
+  {
+    "name": "Tahir",
+    "country": "TR",
+    "lat": 39.85586,
+    "lng": 42.42834
+  },
+  {
+    "name": "Tabureli",
+    "country": "TR",
+    "lat": 36.65396,
+    "lng": 34.06851
+  },
+  {
+    "name": "Tahtalıkaradut",
+    "country": "TR",
+    "lat": 36.94111,
+    "lng": 36.91833
+  },
+  {
+    "name": "Tavşanlı",
+    "country": "TR",
+    "lat": 40.81876,
+    "lng": 29.51136
+  },
+  {
+    "name": "Tavşancıl",
+    "country": "TR",
+    "lat": 40.77083,
+    "lng": 29.57194
+  },
+  {
+    "name": "Tatkavaklı",
+    "country": "TR",
+    "lat": 40.03333,
+    "lng": 28.36667
+  },
+  {
+    "name": "Taşova",
+    "country": "TR",
+    "lat": 40.75972,
+    "lng": 36.3225
+  },
+  {
+    "name": "Taşköprü",
+    "country": "TR",
+    "lat": 41.5098,
+    "lng": 34.21414
+  },
+  {
+    "name": "Taşköprü",
+    "country": "TR",
+    "lat": 40.67361,
+    "lng": 29.39111
+  },
+  {
+    "name": "Taraklı",
+    "country": "TR",
+    "lat": 40.39694,
+    "lng": 30.49278
+  },
+  {
+    "name": "Tarabya",
+    "country": "TR",
+    "lat": 41.13361,
+    "lng": 29.04639
+  },
+  {
+    "name": "Tahtaköprü",
+    "country": "TR",
+    "lat": 41.10133,
+    "lng": 35.00066
+  },
+  {
+    "name": "Taflan",
+    "country": "TR",
+    "lat": 41.40944,
+    "lng": 36.12889
+  },
+  {
+    "name": "Tacir",
+    "country": "TR",
+    "lat": 40.52556,
+    "lng": 29.73972
+  },
+  {
+    "name": "Taşburun",
+    "country": "TR",
+    "lat": 39.98607,
+    "lng": 44.22359
+  },
+  {
+    "name": "Tanyeri",
+    "country": "TR",
+    "lat": 39.60161,
+    "lng": 39.89683
+  },
+  {
+    "name": "Talparo",
+    "country": "TT",
+    "lat": 10.5,
+    "lng": -61.26667
+  },
+  {
+    "name": "Tabaquite",
+    "country": "TT",
+    "lat": 10.38824,
+    "lng": -61.29704
+  },
+  {
+    "name": "Tanrake Village",
+    "country": "TV",
+    "lat": -7.24562,
+    "lng": 177.14511
+  },
+  {
+    "name": "Taoyuan",
+    "country": "TW",
+    "lat": 24.9896,
+    "lng": 121.3187
+  },
+  {
+    "name": "Taitung",
+    "country": "TW",
+    "lat": 22.75991,
+    "lng": 121.14457
+  },
+  {
+    "name": "Taipei",
+    "country": "TW",
+    "lat": 25.05306,
+    "lng": 121.52639
+  },
+  {
+    "name": "Taibao",
+    "country": "TW",
+    "lat": 23.45944,
+    "lng": 120.33222
+  },
+  {
+    "name": "Tainan",
+    "country": "TW",
+    "lat": 22.99083,
+    "lng": 120.21333
+  },
+  {
+    "name": "Taichung",
+    "country": "TW",
+    "lat": 24.1469,
+    "lng": 120.6839
+  },
+  {
+    "name": "Taoyuan City",
+    "country": "TW",
+    "lat": 24.99368,
+    "lng": 121.29696
+  },
+  {
+    "name": "Tarime",
+    "country": "TZ",
+    "lat": -1.35,
+    "lng": 34.36667
+  },
+  {
+    "name": "Tanga",
+    "country": "TZ",
+    "lat": -5.06893,
+    "lng": 39.09875
+  },
+  {
+    "name": "Tabora",
+    "country": "TZ",
+    "lat": -5.01622,
+    "lng": 32.82663
+  },
+  {
+    "name": "Tandahimba",
+    "country": "TZ",
+    "lat": -10.75,
+    "lng": 39.63333
+  },
+  {
+    "name": "Tarakea",
+    "country": "TZ",
+    "lat": -3.00083,
+    "lng": 37.56416
+  },
+  {
+    "name": "Tavilzhanka",
+    "country": "UA",
+    "lat": 49.84417,
+    "lng": 37.77889
+  },
+  {
+    "name": "Tatarbunary",
+    "country": "UA",
+    "lat": 45.83861,
+    "lng": 29.61123
+  },
+  {
+    "name": "Tarasivka",
+    "country": "UA",
+    "lat": 50.24561,
+    "lng": 34.34858
+  },
+  {
+    "name": "Tarashcha",
+    "country": "UA",
+    "lat": 49.55883,
+    "lng": 30.49967
+  },
+  {
+    "name": "Tarakaniv",
+    "country": "UA",
+    "lat": 50.37961,
+    "lng": 25.70843
+  },
+  {
+    "name": "Tankovoye",
+    "country": "UA",
+    "lat": 44.65829,
+    "lng": 33.80929
+  },
+  {
+    "name": "Tamaryne",
+    "country": "UA",
+    "lat": 47.01875,
+    "lng": 33.00243
+  },
+  {
+    "name": "Talne",
+    "country": "UA",
+    "lat": 48.88891,
+    "lng": 30.6965
+  },
+  {
+    "name": "Talalaivka",
+    "country": "UA",
+    "lat": 50.95783,
+    "lng": 31.92085
+  },
+  {
+    "name": "Talalaivka",
+    "country": "UA",
+    "lat": 50.83913,
+    "lng": 33.14374
+  },
+  {
+    "name": "Takhtaulove",
+    "country": "UA",
+    "lat": 49.66119,
+    "lng": 34.53422
+  },
+  {
+    "name": "Taborivka",
+    "country": "UA",
+    "lat": 47.60863,
+    "lng": 31.38391
+  },
+  {
+    "name": "Tabaky",
+    "country": "UA",
+    "lat": 45.72669,
+    "lng": 28.60686
+  },
+  {
+    "name": "Tabachnoye",
+    "country": "UA",
+    "lat": 45.61257,
+    "lng": 34.61497
+  },
+  {
+    "name": "Tabachnoye",
+    "country": "UA",
+    "lat": 44.90175,
+    "lng": 33.67638
+  },
+  {
+    "name": "Tatariv",
+    "country": "UA",
+    "lat": 48.34135,
+    "lng": 24.57666
+  },
+  {
+    "name": "Tavryiske",
+    "country": "UA",
+    "lat": 47.65311,
+    "lng": 35.69512
+  },
+  {
+    "name": "Tayirove",
+    "country": "UA",
+    "lat": 46.35899,
+    "lng": 30.64777
+  },
+  {
+    "name": "Tavriysk",
+    "country": "UA",
+    "lat": 46.75432,
+    "lng": 33.41665
+  },
+  {
+    "name": "Tavrychanka",
+    "country": "UA",
+    "lat": 46.5523,
+    "lng": 33.82113
+  },
+  {
+    "name": "Tarasivtsi",
+    "country": "UA",
+    "lat": 48.20557,
+    "lng": 26.36444
+  },
+  {
+    "name": "Talladega",
+    "country": "US",
+    "lat": 33.43594,
+    "lng": -86.1058
+  },
+  {
+    "name": "Tallassee",
+    "country": "US",
+    "lat": 32.53597,
+    "lng": -85.89329
+  },
+  {
+    "name": "Tarrant",
+    "country": "US",
+    "lat": 33.58344,
+    "lng": -86.77277
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 31.1649,
+    "lng": -85.46827
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 31.97543,
+    "lng": -86.2333
+  },
+  {
+    "name": "Taft",
+    "country": "US",
+    "lat": 28.42973,
+    "lng": -81.36507
+  },
+  {
+    "name": "Tallahassee",
+    "country": "US",
+    "lat": 30.43826,
+    "lng": -84.28073
+  },
+  {
+    "name": "Tamarac",
+    "country": "US",
+    "lat": 26.21286,
+    "lng": -80.24977
+  },
+  {
+    "name": "Tamiami",
+    "country": "US",
+    "lat": 25.75871,
+    "lng": -80.39839
+  },
+  {
+    "name": "Tampa",
+    "country": "US",
+    "lat": 27.94752,
+    "lng": -82.45843
+  },
+  {
+    "name": "Tangelo Park",
+    "country": "US",
+    "lat": 28.45584,
+    "lng": -81.4459
+  },
+  {
+    "name": "Tangerine",
+    "country": "US",
+    "lat": 28.76499,
+    "lng": -81.63063
+  },
+  {
+    "name": "Tarpon Springs",
+    "country": "US",
+    "lat": 28.14612,
+    "lng": -82.75677
+  },
+  {
+    "name": "Tavares",
+    "country": "US",
+    "lat": 28.80416,
+    "lng": -81.72563
+  },
+  {
+    "name": "Tavernier",
+    "country": "US",
+    "lat": 25.01152,
+    "lng": -80.51506
+  },
+  {
+    "name": "Taylor Creek",
+    "country": "US",
+    "lat": 27.21671,
+    "lng": -80.7895
+  },
+  {
+    "name": "Talbotton",
+    "country": "US",
+    "lat": 32.67764,
+    "lng": -84.53937
+  },
+  {
+    "name": "Tallapoosa",
+    "country": "US",
+    "lat": 33.74455,
+    "lng": -85.28801
+  },
+  {
+    "name": "Taylorville",
+    "country": "US",
+    "lat": 39.54894,
+    "lng": -89.29453
+  },
+  {
+    "name": "Taylor Mill",
+    "country": "US",
+    "lat": 38.99756,
+    "lng": -84.49633
+  },
+  {
+    "name": "Taylorsville",
+    "country": "US",
+    "lat": 38.03173,
+    "lng": -85.34245
+  },
+  {
+    "name": "Tallulah",
+    "country": "US",
+    "lat": 32.40848,
+    "lng": -91.18678
+  },
+  {
+    "name": "Takoma Park",
+    "country": "US",
+    "lat": 38.97789,
+    "lng": -77.00748
+  },
+  {
+    "name": "Taneytown",
+    "country": "US",
+    "lat": 39.65788,
+    "lng": -77.17443
+  },
+  {
+    "name": "Taos",
+    "country": "US",
+    "lat": 38.50643,
+    "lng": -92.07101
+  },
+  {
+    "name": "Taylorsville",
+    "country": "US",
+    "lat": 31.8296,
+    "lng": -89.42812
+  },
+  {
+    "name": "Tabor City",
+    "country": "US",
+    "lat": 34.14878,
+    "lng": -78.87669
+  },
+  {
+    "name": "Tarboro",
+    "country": "US",
+    "lat": 35.89682,
+    "lng": -77.5358
+  },
+  {
+    "name": "Taylorsville",
+    "country": "US",
+    "lat": 35.9218,
+    "lng": -81.17647
+  },
+  {
+    "name": "Tahlequah",
+    "country": "US",
+    "lat": 35.91537,
+    "lng": -94.96996
+  },
+  {
+    "name": "Talihina",
+    "country": "US",
+    "lat": 34.75149,
+    "lng": -95.04802
+  },
+  {
+    "name": "Taloga",
+    "country": "US",
+    "lat": 36.03865,
+    "lng": -98.96371
+  },
+  {
+    "name": "Taylors",
+    "country": "US",
+    "lat": 34.92039,
+    "lng": -82.29623
+  },
+  {
+    "name": "Tazewell",
+    "country": "US",
+    "lat": 36.45425,
+    "lng": -83.56935
+  },
+  {
+    "name": "Taft",
+    "country": "US",
+    "lat": 27.97891,
+    "lng": -97.3986
+  },
+  {
+    "name": "Taft Southwest (historical)",
+    "country": "US",
+    "lat": 27.97391,
+    "lng": -97.40305
+  },
+  {
+    "name": "Talty",
+    "country": "US",
+    "lat": 32.68319,
+    "lng": -96.38554
+  },
+  {
+    "name": "Tatum",
+    "country": "US",
+    "lat": 32.31599,
+    "lng": -94.51659
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 30.57076,
+    "lng": -97.40944
+  },
+  {
+    "name": "Taylor Lake Village",
+    "country": "US",
+    "lat": 29.57523,
+    "lng": -95.05021
+  },
+  {
+    "name": "Tappahannock",
+    "country": "US",
+    "lat": 37.92541,
+    "lng": -76.85913
+  },
+  {
+    "name": "Tazewell",
+    "country": "US",
+    "lat": 37.11484,
+    "lng": -81.51955
+  },
+  {
+    "name": "Tariffville",
+    "country": "US",
+    "lat": 41.90871,
+    "lng": -72.7601
+  },
+  {
+    "name": "Tama",
+    "country": "US",
+    "lat": 41.96666,
+    "lng": -92.57686
+  },
+  {
+    "name": "Taunton",
+    "country": "US",
+    "lat": 41.9001,
+    "lng": -71.08977
+  },
+  {
+    "name": "Tawas City",
+    "country": "US",
+    "lat": 44.26946,
+    "lng": -83.5147
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 42.24087,
+    "lng": -83.26965
+  },
+  {
+    "name": "Taylors Falls",
+    "country": "US",
+    "lat": 45.40191,
+    "lng": -92.65243
+  },
+  {
+    "name": "Tarkio",
+    "country": "US",
+    "lat": 40.44028,
+    "lng": -95.37776
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 41.77028,
+    "lng": -99.37872
+  },
+  {
+    "name": "Tamworth",
+    "country": "US",
+    "lat": 43.8598,
+    "lng": -71.26313
+  },
+  {
+    "name": "Tappan",
+    "country": "US",
+    "lat": 41.02204,
+    "lng": -73.94736
+  },
+  {
+    "name": "Tarrytown",
+    "country": "US",
+    "lat": 41.07621,
+    "lng": -73.85875
+  },
+  {
+    "name": "Tallmadge",
+    "country": "US",
+    "lat": 41.10145,
+    "lng": -81.44178
+  },
+  {
+    "name": "Tacony",
+    "country": "US",
+    "lat": 40.03122,
+    "lng": -75.04434
+  },
+  {
+    "name": "Tamaqua",
+    "country": "US",
+    "lat": 40.79731,
+    "lng": -75.96937
+  },
+  {
+    "name": "Tannersville",
+    "country": "US",
+    "lat": 41.04009,
+    "lng": -75.30574
+  },
+  {
+    "name": "Tarentum",
+    "country": "US",
+    "lat": 40.60146,
+    "lng": -79.75977
+  },
+  {
+    "name": "Tatamy",
+    "country": "US",
+    "lat": 40.74093,
+    "lng": -75.25712
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 41.3948,
+    "lng": -75.70658
+  },
+  {
+    "name": "Tainter Lake",
+    "country": "US",
+    "lat": 44.98913,
+    "lng": -91.84767
+  },
+  {
+    "name": "Tanque Verde",
+    "country": "US",
+    "lat": 32.25174,
+    "lng": -110.73731
+  },
+  {
+    "name": "Taylor",
+    "country": "US",
+    "lat": 34.46504,
+    "lng": -110.09123
+  },
+  {
+    "name": "Taft",
+    "country": "US",
+    "lat": 35.14247,
+    "lng": -119.45651
+  },
+  {
+    "name": "Taft Heights",
+    "country": "US",
+    "lat": 35.13469,
+    "lng": -119.47262
+  },
+  {
+    "name": "Tahoe Vista",
+    "country": "US",
+    "lat": 39.23991,
+    "lng": -120.05102
+  },
+  {
+    "name": "Tahoma",
+    "country": "US",
+    "lat": 39.06741,
+    "lng": -120.12824
+  },
+  {
+    "name": "Talmage",
+    "country": "US",
+    "lat": 39.13323,
+    "lng": -123.16778
+  },
+  {
+    "name": "Tamalpais Valley",
+    "country": "US",
+    "lat": 37.87965,
+    "lng": -122.54581
+  },
+  {
+    "name": "Tara Hills",
+    "country": "US",
+    "lat": 37.99353,
+    "lng": -122.31636
+  },
+  {
+    "name": "Tarpey Village",
+    "country": "US",
+    "lat": 36.79301,
+    "lng": -119.70097
+  },
+  {
+    "name": "Taos Pueblo",
+    "country": "US",
+    "lat": 36.43864,
+    "lng": -105.54445
+  },
+  {
+    "name": "Taos",
+    "country": "US",
+    "lat": 36.40725,
+    "lng": -105.57307
+  },
+  {
+    "name": "Tahoka",
+    "country": "US",
+    "lat": 33.16676,
+    "lng": -101.79377
+  },
+  {
+    "name": "Talent",
+    "country": "US",
+    "lat": 42.24568,
+    "lng": -122.78865
+  },
+  {
+    "name": "Tangent",
+    "country": "US",
+    "lat": 44.54123,
+    "lng": -123.10815
+  },
+  {
+    "name": "Taylorsville",
+    "country": "US",
+    "lat": 40.66772,
+    "lng": -111.93883
+  },
+  {
+    "name": "Tacoma",
+    "country": "US",
+    "lat": 47.25288,
+    "lng": -122.44429
+  },
+  {
+    "name": "Tanner",
+    "country": "US",
+    "lat": 47.47538,
+    "lng": -121.74622
+  },
+  {
+    "name": "Tanaina",
+    "country": "US",
+    "lat": 61.62694,
+    "lng": -149.42806
+  },
+  {
+    "name": "Taft Mosswood",
+    "country": "US",
+    "lat": 37.91385,
+    "lng": -121.28316
+  },
+  {
+    "name": "Tamalpais-Homestead Valley",
+    "country": "US",
+    "lat": 37.87834,
+    "lng": -122.53625
+  },
+  {
+    "name": "Tanglewilde-Thompson Place",
+    "country": "US",
+    "lat": 47.05116,
+    "lng": -122.78081
+  },
+  {
+    "name": "Tanglewilde",
+    "country": "US",
+    "lat": 47.0515,
+    "lng": -122.78241
+  },
+  {
+    "name": "Tantalus",
+    "country": "US",
+    "lat": 21.30856,
+    "lng": -157.82837
+  },
+  {
+    "name": "Tarariras",
+    "country": "UY",
+    "lat": -34.26555,
+    "lng": -57.61866
+  },
+  {
+    "name": "Tambores",
+    "country": "UY",
+    "lat": -31.87743,
+    "lng": -56.24438
+  },
+  {
+    "name": "Tala",
+    "country": "UY",
+    "lat": -34.34349,
+    "lng": -55.76375
+  },
+  {
+    "name": "Tacuarembó",
+    "country": "UY",
+    "lat": -31.71882,
+    "lng": -55.97925
+  },
+  {
+    "name": "Tashkent",
+    "country": "UZ",
+    "lat": 41.26465,
+    "lng": 69.21627
+  },
+  {
+    "name": "Taxtako‘pir",
+    "country": "UZ",
+    "lat": 43.01171,
+    "lng": 60.30111
+  },
+  {
+    "name": "Tabay",
+    "country": "VE",
+    "lat": 8.6317,
+    "lng": -71.07833
+  },
+  {
+    "name": "Tacarigua",
+    "country": "VE",
+    "lat": 10.08621,
+    "lng": -67.91982
+  },
+  {
+    "name": "Tam Kỳ",
+    "country": "VN",
+    "lat": 15.57364,
+    "lng": 108.47403
+  },
+  {
+    "name": "Tam Giang",
+    "country": "VN",
+    "lat": 8.8,
+    "lng": 105.18333
+  },
+  {
+    "name": "Tam Đảo",
+    "country": "VN",
+    "lat": 21.39324,
+    "lng": 105.61441
+  },
+  {
+    "name": "Tam Bình",
+    "country": "VN",
+    "lat": 10.04811,
+    "lng": 106.00017
+  },
+  {
+    "name": "Tam Điệp",
+    "country": "VN",
+    "lat": 20.15635,
+    "lng": 105.91737
+  },
+  {
+    "name": "Tam Đường",
+    "country": "VN",
+    "lat": 22.31812,
+    "lng": 103.62619
+  },
+  {
+    "name": "Tarim",
+    "country": "YE",
+    "lat": 16.05694,
+    "lng": 48.99889
+  },
+  {
+    "name": "Taiz",
+    "country": "YE",
+    "lat": 13.57952,
+    "lng": 44.02091
+  },
+  {
+    "name": "Taung",
+    "country": "ZA",
+    "lat": -27.53113,
+    "lng": 24.78659
+  },
+  {
+    "name": "Tarkastad",
+    "country": "ZA",
+    "lat": -32.00893,
+    "lng": 26.25935
+  }
+]

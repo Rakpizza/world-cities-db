@@ -1,0 +1,8192 @@
+[
+  {
+    "name": "South Hill Village",
+    "country": "AI",
+    "lat": 18.19201,
+    "lng": -63.08779
+  },
+  {
+    "name": "Sotk",
+    "country": "AM",
+    "lat": 40.20007,
+    "lng": 45.86951
+  },
+  {
+    "name": "Solak",
+    "country": "AM",
+    "lat": 40.46252,
+    "lng": 44.70709
+  },
+  {
+    "name": "Soyo",
+    "country": "AO",
+    "lat": -6.1349,
+    "lng": 12.36894
+  },
+  {
+    "name": "Songo",
+    "country": "AO",
+    "lat": -7.35207,
+    "lng": 14.84629
+  },
+  {
+    "name": "Sooss",
+    "country": "AT",
+    "lat": 47.98464,
+    "lng": 16.21737
+  },
+  {
+    "name": "Sonntagberg",
+    "country": "AT",
+    "lat": 47.99561,
+    "lng": 14.76065
+  },
+  {
+    "name": "Sommerein",
+    "country": "AT",
+    "lat": 47.98333,
+    "lng": 16.65
+  },
+  {
+    "name": "Sollenau",
+    "country": "AT",
+    "lat": 47.89834,
+    "lng": 16.24833
+  },
+  {
+    "name": "Soboth",
+    "country": "AT",
+    "lat": 46.68139,
+    "lng": 15.07833
+  },
+  {
+    "name": "Sonnberg im Mühlkreis",
+    "country": "AT",
+    "lat": 48.4608,
+    "lng": 14.31167
+  },
+  {
+    "name": "Sonntag",
+    "country": "AT",
+    "lat": 47.23857,
+    "lng": 9.89765
+  },
+  {
+    "name": "South Perth",
+    "country": "AU",
+    "lat": -31.98333,
+    "lng": 115.86667
+  },
+  {
+    "name": "Solomontown",
+    "country": "AU",
+    "lat": -33.1853,
+    "lng": 138.02364
+  },
+  {
+    "name": "South Yarra",
+    "country": "AU",
+    "lat": -37.83834,
+    "lng": 144.99149
+  },
+  {
+    "name": "Southport",
+    "country": "AU",
+    "lat": -27.96724,
+    "lng": 153.39796
+  },
+  {
+    "name": "South Melbourne",
+    "country": "AU",
+    "lat": -37.83333,
+    "lng": 144.96667
+  },
+  {
+    "name": "South Grafton",
+    "country": "AU",
+    "lat": -29.7076,
+    "lng": 152.92627
+  },
+  {
+    "name": "Sorrento",
+    "country": "AU",
+    "lat": -38.33958,
+    "lng": 144.74126
+  },
+  {
+    "name": "Sorell",
+    "country": "AU",
+    "lat": -42.78161,
+    "lng": 147.56267
+  },
+  {
+    "name": "Somerville",
+    "country": "AU",
+    "lat": -38.21667,
+    "lng": 145.16667
+  },
+  {
+    "name": "Somerset",
+    "country": "AU",
+    "lat": -41.04065,
+    "lng": 145.83055
+  },
+  {
+    "name": "Somersby",
+    "country": "AU",
+    "lat": -33.36667,
+    "lng": 151.28333
+  },
+  {
+    "name": "Somers",
+    "country": "AU",
+    "lat": -38.38134,
+    "lng": 145.15898
+  },
+  {
+    "name": "Soldiers Point",
+    "country": "AU",
+    "lat": -32.7105,
+    "lng": 152.06979
+  },
+  {
+    "name": "South Morang",
+    "country": "AU",
+    "lat": -37.65,
+    "lng": 145.1
+  },
+  {
+    "name": "South Bowenfels",
+    "country": "AU",
+    "lat": -33.51667,
+    "lng": 150.11667
+  },
+  {
+    "name": "South Brisbane",
+    "country": "AU",
+    "lat": -27.48034,
+    "lng": 153.02049
+  },
+  {
+    "name": "Southbank",
+    "country": "AU",
+    "lat": -37.8228,
+    "lng": 144.96434
+  },
+  {
+    "name": "Sorrento",
+    "country": "AU",
+    "lat": -31.82533,
+    "lng": 115.75248
+  },
+  {
+    "name": "South West Rocks",
+    "country": "AU",
+    "lat": -30.88553,
+    "lng": 153.04126
+  },
+  {
+    "name": "Southside",
+    "country": "AU",
+    "lat": -26.20997,
+    "lng": 152.64719
+  },
+  {
+    "name": "South Kingsville",
+    "country": "AU",
+    "lat": -37.83018,
+    "lng": 144.8709
+  },
+  {
+    "name": "South Hedland",
+    "country": "AU",
+    "lat": -20.40655,
+    "lng": 118.60069
+  },
+  {
+    "name": "Soldiers Hill",
+    "country": "AU",
+    "lat": -37.54962,
+    "lng": 143.85872
+  },
+  {
+    "name": "South Hurstville",
+    "country": "AU",
+    "lat": -33.97756,
+    "lng": 151.1055
+  },
+  {
+    "name": "Soldiers Hill",
+    "country": "AU",
+    "lat": -20.70533,
+    "lng": 139.48988
+  },
+  {
+    "name": "Somerville",
+    "country": "AU",
+    "lat": -30.76979,
+    "lng": 121.45438
+  },
+  {
+    "name": "Southern River",
+    "country": "AU",
+    "lat": -32.10658,
+    "lng": 115.95896
+  },
+  {
+    "name": "South Kolan",
+    "country": "AU",
+    "lat": -24.93202,
+    "lng": 152.1679
+  },
+  {
+    "name": "South Maclean",
+    "country": "AU",
+    "lat": -27.79245,
+    "lng": 153.01603
+  },
+  {
+    "name": "South Coogee",
+    "country": "AU",
+    "lat": -33.93106,
+    "lng": 151.25599
+  },
+  {
+    "name": "South Penrith",
+    "country": "AU",
+    "lat": -33.77349,
+    "lng": 150.69466
+  },
+  {
+    "name": "South Turramurra",
+    "country": "AU",
+    "lat": -33.74941,
+    "lng": 151.11257
+  },
+  {
+    "name": "South Wentworthville",
+    "country": "AU",
+    "lat": -33.8185,
+    "lng": 150.96344
+  },
+  {
+    "name": "South Windsor",
+    "country": "AU",
+    "lat": -33.61808,
+    "lng": 150.80443
+  },
+  {
+    "name": "Somerton Park",
+    "country": "AU",
+    "lat": -34.99705,
+    "lng": 138.52155
+  },
+  {
+    "name": "South Brighton",
+    "country": "AU",
+    "lat": -35.02765,
+    "lng": 138.52798
+  },
+  {
+    "name": "South Plympton",
+    "country": "AU",
+    "lat": -34.97682,
+    "lng": 138.55588
+  },
+  {
+    "name": "South Fremantle",
+    "country": "AU",
+    "lat": -32.06907,
+    "lng": 115.75453
+  },
+  {
+    "name": "South Guildford",
+    "country": "AU",
+    "lat": -31.9122,
+    "lng": 115.96825
+  },
+  {
+    "name": "South Lake",
+    "country": "AU",
+    "lat": -32.11125,
+    "lng": 115.83873
+  },
+  {
+    "name": "South Hobart",
+    "country": "AU",
+    "lat": -42.89459,
+    "lng": 147.30924
+  },
+  {
+    "name": "South Mackay",
+    "country": "AU",
+    "lat": -21.16288,
+    "lng": 149.17751
+  },
+  {
+    "name": "South Yunderup",
+    "country": "AU",
+    "lat": -32.5851,
+    "lng": 115.78015
+  },
+  {
+    "name": "South Townsville",
+    "country": "AU",
+    "lat": -19.26618,
+    "lng": 146.83331
+  },
+  {
+    "name": "South Launceston",
+    "country": "AU",
+    "lat": -41.45506,
+    "lng": 147.14556
+  },
+  {
+    "name": "South Toowoomba",
+    "country": "AU",
+    "lat": -27.57101,
+    "lng": 151.9465
+  },
+  {
+    "name": "South Tamworth",
+    "country": "AU",
+    "lat": -31.11,
+    "lng": 150.92254
+  },
+  {
+    "name": "South Albury",
+    "country": "AU",
+    "lat": -36.08654,
+    "lng": 146.90905
+  },
+  {
+    "name": "South Lismore",
+    "country": "AU",
+    "lat": -28.81629,
+    "lng": 153.25619
+  },
+  {
+    "name": "South Bunbury",
+    "country": "AU",
+    "lat": -33.3491,
+    "lng": 115.63359
+  },
+  {
+    "name": "South Kalgoorlie",
+    "country": "AU",
+    "lat": -30.76507,
+    "lng": 121.47334
+  },
+  {
+    "name": "South Gladstone",
+    "country": "AU",
+    "lat": -23.86221,
+    "lng": 151.26801
+  },
+  {
+    "name": "South Nowra",
+    "country": "AU",
+    "lat": -34.90332,
+    "lng": 150.59827
+  },
+  {
+    "name": "South Kempsey",
+    "country": "AU",
+    "lat": -31.12302,
+    "lng": 152.83253
+  },
+  {
+    "name": "South Murwillumbah",
+    "country": "AU",
+    "lat": -28.33895,
+    "lng": 153.40004
+  },
+  {
+    "name": "South Bathurst",
+    "country": "AU",
+    "lat": -33.43839,
+    "lng": 149.57203
+  },
+  {
+    "name": "South Carnarvon",
+    "country": "AU",
+    "lat": -24.89348,
+    "lng": 113.65846
+  },
+  {
+    "name": "South Granville",
+    "country": "AU",
+    "lat": -33.85864,
+    "lng": 151.01066
+  },
+  {
+    "name": "Sottunga",
+    "country": "AX",
+    "lat": 60.13023,
+    "lng": 20.66683
+  },
+  {
+    "name": "Sovetabad",
+    "country": "AZ",
+    "lat": 39.33667,
+    "lng": 49.21414
+  },
+  {
+    "name": "Solina",
+    "country": "BA",
+    "lat": 44.56226,
+    "lng": 18.69322
+  },
+  {
+    "name": "Sokolac",
+    "country": "BA",
+    "lat": 43.93817,
+    "lng": 18.80079
+  },
+  {
+    "name": "Sonārgaon",
+    "country": "BD",
+    "lat": 23.65,
+    "lng": 90.61667
+  },
+  {
+    "name": "Soye",
+    "country": "BE",
+    "lat": 50.44958,
+    "lng": 4.7303
+  },
+  {
+    "name": "Soy",
+    "country": "BE",
+    "lat": 50.286,
+    "lng": 5.51153
+  },
+  {
+    "name": "Souvret",
+    "country": "BE",
+    "lat": 50.4486,
+    "lng": 4.34569
+  },
+  {
+    "name": "Soumagne",
+    "country": "BE",
+    "lat": 50.61385,
+    "lng": 5.74679
+  },
+  {
+    "name": "Sougné-Remouchamps",
+    "country": "BE",
+    "lat": 50.48242,
+    "lng": 5.70757
+  },
+  {
+    "name": "Somzée",
+    "country": "BE",
+    "lat": 50.29514,
+    "lng": 4.48209
+  },
+  {
+    "name": "Somme-Leuze",
+    "country": "BE",
+    "lat": 50.33699,
+    "lng": 5.36705
+  },
+  {
+    "name": "Sombreffe",
+    "country": "BE",
+    "lat": 50.52865,
+    "lng": 4.60087
+  },
+  {
+    "name": "Solre-sur-Sambre",
+    "country": "BE",
+    "lat": 50.30809,
+    "lng": 4.15429
+  },
+  {
+    "name": "Soignies",
+    "country": "BE",
+    "lat": 50.57904,
+    "lng": 4.07129
+  },
+  {
+    "name": "Sourgoubila",
+    "country": "BF",
+    "lat": 12.41462,
+    "lng": -1.80644
+  },
+  {
+    "name": "Solenzo",
+    "country": "BF",
+    "lat": 12.17423,
+    "lng": -4.08477
+  },
+  {
+    "name": "Sozopol",
+    "country": "BG",
+    "lat": 42.41801,
+    "lng": 27.6956
+  },
+  {
+    "name": "Sofia",
+    "country": "BG",
+    "lat": 42.69751,
+    "lng": 23.32415
+  },
+  {
+    "name": "So-Ava",
+    "country": "BJ",
+    "lat": 6.49245,
+    "lng": 2.40193
+  },
+  {
+    "name": "Southampton Parish",
+    "country": "BM",
+    "lat": 32.25164,
+    "lng": -64.85474
+  },
+  {
+    "name": "Sorata",
+    "country": "BO",
+    "lat": -15.77305,
+    "lng": -68.64973
+  },
+  {
+    "name": "Sousa",
+    "country": "BR",
+    "lat": -6.75917,
+    "lng": -38.22806
+  },
+  {
+    "name": "Soure",
+    "country": "BR",
+    "lat": -0.71667,
+    "lng": -48.52333
+  },
+  {
+    "name": "Sossêgo",
+    "country": "BR",
+    "lat": -6.76944,
+    "lng": -36.25333
+  },
+  {
+    "name": "Solonópole",
+    "country": "BR",
+    "lat": -5.73333,
+    "lng": -39.0075
+  },
+  {
+    "name": "Solidão",
+    "country": "BR",
+    "lat": -7.60028,
+    "lng": -37.65194
+  },
+  {
+    "name": "Soledade",
+    "country": "BR",
+    "lat": -7.05722,
+    "lng": -36.36278
+  },
+  {
+    "name": "Solânea",
+    "country": "BR",
+    "lat": -6.75459,
+    "lng": -35.66449
+  },
+  {
+    "name": "Socorro do Piauí",
+    "country": "BR",
+    "lat": -7.86349,
+    "lng": -42.50283
+  },
+  {
+    "name": "Sobral",
+    "country": "BR",
+    "lat": -3.68611,
+    "lng": -40.34972
+  },
+  {
+    "name": "Sobradinho",
+    "country": "BR",
+    "lat": -9.47184,
+    "lng": -40.80155
+  },
+  {
+    "name": "Souzas",
+    "country": "BR",
+    "lat": -22.87917,
+    "lng": -46.96444
+  },
+  {
+    "name": "Sorocaba",
+    "country": "BR",
+    "lat": -23.50167,
+    "lng": -47.45806
+  },
+  {
+    "name": "Sombrio",
+    "country": "BR",
+    "lat": -29.11389,
+    "lng": -49.61667
+  },
+  {
+    "name": "Soledade de Minas",
+    "country": "BR",
+    "lat": -22.06,
+    "lng": -45.045
+  },
+  {
+    "name": "Soledade",
+    "country": "BR",
+    "lat": -28.81833,
+    "lng": -52.51028
+  },
+  {
+    "name": "Socorro",
+    "country": "BR",
+    "lat": -22.59139,
+    "lng": -46.52889
+  },
+  {
+    "name": "Sobrália",
+    "country": "BR",
+    "lat": -19.23472,
+    "lng": -42.09833
+  },
+  {
+    "name": "Sobradinho",
+    "country": "BR",
+    "lat": -29.42139,
+    "lng": -53.02861
+  },
+  {
+    "name": "Sobradinho",
+    "country": "BR",
+    "lat": -15.64713,
+    "lng": -47.79315
+  },
+  {
+    "name": "Sobradinho",
+    "country": "BR",
+    "lat": -12.83333,
+    "lng": -39.1
+  },
+  {
+    "name": "Sobrado",
+    "country": "BR",
+    "lat": -7.14528,
+    "lng": -35.23639
+  },
+  {
+    "name": "Sonora",
+    "country": "BR",
+    "lat": -17.57694,
+    "lng": -54.75778
+  },
+  {
+    "name": "Sooretama",
+    "country": "BR",
+    "lat": -19.19694,
+    "lng": -40.09778
+  },
+  {
+    "name": "Sorriso",
+    "country": "BR",
+    "lat": -12.54528,
+    "lng": -55.71139
+  },
+  {
+    "name": "Souto Soares",
+    "country": "BR",
+    "lat": -12.08861,
+    "lng": -41.63778
+  },
+  {
+    "name": "Socorro",
+    "country": "BR",
+    "lat": -23.68528,
+    "lng": -46.71372
+  },
+  {
+    "name": "Sobradinho II",
+    "country": "BR",
+    "lat": -15.63361,
+    "lng": -47.83478
+  },
+  {
+    "name": "Sowa",
+    "country": "BW",
+    "lat": -20.564,
+    "lng": 26.224
+  },
+  {
+    "name": "Soly",
+    "country": "BY",
+    "lat": 54.51301,
+    "lng": 26.19381
+  },
+  {
+    "name": "Soligorsk",
+    "country": "BY",
+    "lat": 52.78981,
+    "lng": 27.53583
+  },
+  {
+    "name": "Sooke",
+    "country": "CA",
+    "lat": 48.37463,
+    "lng": -123.72762
+  },
+  {
+    "name": "Sorel-Tracy",
+    "country": "CA",
+    "lat": 46.04178,
+    "lng": -73.11358
+  },
+  {
+    "name": "Souris",
+    "country": "CA",
+    "lat": 46.3501,
+    "lng": -62.24862
+  },
+  {
+    "name": "Souris",
+    "country": "CA",
+    "lat": 49.6172,
+    "lng": -100.2612
+  },
+  {
+    "name": "South Cambie",
+    "country": "CA",
+    "lat": 49.25,
+    "lng": -123.11667
+  },
+  {
+    "name": "South Huron",
+    "country": "CA",
+    "lat": 43.31679,
+    "lng": -81.51647
+  },
+  {
+    "name": "South River",
+    "country": "CA",
+    "lat": 45.8334,
+    "lng": -79.38293
+  },
+  {
+    "name": "South Slope",
+    "country": "CA",
+    "lat": 49.21667,
+    "lng": -123.0
+  },
+  {
+    "name": "South Surrey",
+    "country": "CA",
+    "lat": 49.05,
+    "lng": -122.79167
+  },
+  {
+    "name": "South Pender Harbour",
+    "country": "CA",
+    "lat": 49.62202,
+    "lng": -124.02484
+  },
+  {
+    "name": "South Parkdale",
+    "country": "CA",
+    "lat": 43.6367,
+    "lng": -79.43934
+  },
+  {
+    "name": "South Riverdale",
+    "country": "CA",
+    "lat": 43.64929,
+    "lng": -79.33565
+  },
+  {
+    "name": "South End",
+    "country": "CA",
+    "lat": 49.15189,
+    "lng": -123.93386
+  },
+  {
+    "name": "South Lynnmour",
+    "country": "CA",
+    "lat": 49.30682,
+    "lng": -123.04255
+  },
+  {
+    "name": "South Clearbrook",
+    "country": "CA",
+    "lat": 49.04065,
+    "lng": -122.32794
+  },
+  {
+    "name": "South Granville",
+    "country": "CA",
+    "lat": 49.2602,
+    "lng": -123.13946
+  },
+  {
+    "name": "South Arm",
+    "country": "CA",
+    "lat": 49.14032,
+    "lng": -123.12483
+  },
+  {
+    "name": "South Westminster",
+    "country": "CA",
+    "lat": 49.195,
+    "lng": -122.87861
+  },
+  {
+    "name": "Souanké",
+    "country": "CG",
+    "lat": 2.05966,
+    "lng": 14.13219
+  },
+  {
+    "name": "Sottens",
+    "country": "CH",
+    "lat": 46.65521,
+    "lng": 6.74197
+  },
+  {
+    "name": "Sorengo",
+    "country": "CH",
+    "lat": 45.99766,
+    "lng": 8.93783
+  },
+  {
+    "name": "Solothurn",
+    "country": "CH",
+    "lat": 47.20791,
+    "lng": 7.53714
+  },
+  {
+    "name": "Sonnhalde",
+    "country": "CH",
+    "lat": 47.45329,
+    "lng": 8.46091
+  },
+  {
+    "name": "Soyakrou",
+    "country": "CI",
+    "lat": 7.24942,
+    "lng": -3.04751
+  },
+  {
+    "name": "Sowo",
+    "country": "CI",
+    "lat": 9.60352,
+    "lng": -5.65828
+  },
+  {
+    "name": "Souwaha",
+    "country": "CI",
+    "lat": 9.97912,
+    "lng": -5.88364
+  },
+  {
+    "name": "Sourkoudougou",
+    "country": "CI",
+    "lat": 8.40893,
+    "lng": -4.69651
+  },
+  {
+    "name": "Sounoukana",
+    "country": "CI",
+    "lat": 8.31111,
+    "lng": -5.91806
+  },
+  {
+    "name": "Songassou",
+    "country": "CI",
+    "lat": 6.63212,
+    "lng": -4.61797
+  },
+  {
+    "name": "Soungasa",
+    "country": "CI",
+    "lat": 8.01919,
+    "lng": -6.15639
+  },
+  {
+    "name": "Souleman",
+    "country": "CI",
+    "lat": 7.49375,
+    "lng": -3.12271
+  },
+  {
+    "name": "Soula",
+    "country": "CI",
+    "lat": 8.36124,
+    "lng": -7.99846
+  },
+  {
+    "name": "Soukoussoukou",
+    "country": "CI",
+    "lat": 6.47536,
+    "lng": -3.34107
+  },
+  {
+    "name": "Soukourougban",
+    "country": "CI",
+    "lat": 7.84873,
+    "lng": -5.93504
+  },
+  {
+    "name": "Soukourala",
+    "country": "CI",
+    "lat": 8.0732,
+    "lng": -6.16377
+  },
+  {
+    "name": "Soungbonon-Bambarasso",
+    "country": "CI",
+    "lat": 8.53333,
+    "lng": -4.55
+  },
+  {
+    "name": "Souébli",
+    "country": "CI",
+    "lat": 7.37677,
+    "lng": -7.40741
+  },
+  {
+    "name": "Souapleu",
+    "country": "CI",
+    "lat": 6.74433,
+    "lng": -8.36272
+  },
+  {
+    "name": "Souakpé",
+    "country": "CI",
+    "lat": 7.35886,
+    "lng": -7.31001
+  },
+  {
+    "name": "Souafé Kan",
+    "country": "CI",
+    "lat": 7.67295,
+    "lng": -5.55527
+  },
+  {
+    "name": "Sorotona",
+    "country": "CI",
+    "lat": 8.09333,
+    "lng": -7.12806
+  },
+  {
+    "name": "Sorodi",
+    "country": "CI",
+    "lat": 10.06924,
+    "lng": -5.43422
+  },
+  {
+    "name": "Sorobono",
+    "country": "CI",
+    "lat": 10.52369,
+    "lng": -6.32637
+  },
+  {
+    "name": "Sorobango",
+    "country": "CI",
+    "lat": 8.17239,
+    "lng": -2.70814
+  },
+  {
+    "name": "Sorifuro",
+    "country": "CI",
+    "lat": 9.03531,
+    "lng": -6.2835
+  },
+  {
+    "name": "Sopleu",
+    "country": "CI",
+    "lat": 7.15563,
+    "lng": -8.24311
+  },
+  {
+    "name": "Sonzoriso",
+    "country": "CI",
+    "lat": 9.02324,
+    "lng": -5.88598
+  },
+  {
+    "name": "Sononzo",
+    "country": "CI",
+    "lat": 8.62639,
+    "lng": -6.13
+  },
+  {
+    "name": "Songori",
+    "country": "CI",
+    "lat": 8.11106,
+    "lng": -2.87918
+  },
+  {
+    "name": "Songan",
+    "country": "CI",
+    "lat": 6.10929,
+    "lng": -3.20843
+  },
+  {
+    "name": "Somokoro",
+    "country": "CI",
+    "lat": 8.4796,
+    "lng": -5.99951
+  },
+  {
+    "name": "Soménassé",
+    "country": "CI",
+    "lat": 8.37409,
+    "lng": -3.75832
+  },
+  {
+    "name": "Solognougou",
+    "country": "CI",
+    "lat": 10.13533,
+    "lng": -6.07161
+  },
+  {
+    "name": "Soloni",
+    "country": "CI",
+    "lat": 10.11156,
+    "lng": -5.5672
+  },
+  {
+    "name": "Solokaha",
+    "country": "CI",
+    "lat": 8.97696,
+    "lng": -5.64114
+  },
+  {
+    "name": "Soliyaga",
+    "country": "CI",
+    "lat": 9.95026,
+    "lng": -5.9993
+  },
+  {
+    "name": "Sokourani",
+    "country": "CI",
+    "lat": 9.29835,
+    "lng": -6.66519
+  },
+  {
+    "name": "Sokourala",
+    "country": "CI",
+    "lat": 8.32847,
+    "lng": -7.50936
+  },
+  {
+    "name": "Sokouraba",
+    "country": "CI",
+    "lat": 10.11411,
+    "lng": -7.05993
+  },
+  {
+    "name": "Sokokro",
+    "country": "CI",
+    "lat": 7.06893,
+    "lng": -4.59864
+  },
+  {
+    "name": "Sokorogo",
+    "country": "CI",
+    "lat": 8.31242,
+    "lng": -4.59558
+  },
+  {
+    "name": "Sokorodougou",
+    "country": "CI",
+    "lat": 9.02787,
+    "lng": -7.58355
+  },
+  {
+    "name": "Sokrogbo",
+    "country": "CI",
+    "lat": 6.04424,
+    "lng": -4.96467
+  },
+  {
+    "name": "Sokoro",
+    "country": "CI",
+    "lat": 10.20374,
+    "lng": -7.8317
+  },
+  {
+    "name": "Sokoro",
+    "country": "CI",
+    "lat": 9.53232,
+    "lng": -5.22167
+  },
+  {
+    "name": "Sokolo",
+    "country": "CI",
+    "lat": 8.94334,
+    "lng": -4.24796
+  },
+  {
+    "name": "Soko",
+    "country": "CI",
+    "lat": 8.3372,
+    "lng": -6.98278
+  },
+  {
+    "name": "Soko",
+    "country": "CI",
+    "lat": 7.99173,
+    "lng": -2.74435
+  },
+  {
+    "name": "Sokala-Sobara",
+    "country": "CI",
+    "lat": 8.44227,
+    "lng": -4.5141
+  },
+  {
+    "name": "Sogo",
+    "country": "CI",
+    "lat": 9.65308,
+    "lng": -6.2925
+  },
+  {
+    "name": "Sobolo",
+    "country": "CI",
+    "lat": 8.38793,
+    "lng": -4.298
+  },
+  {
+    "name": "Soba",
+    "country": "CI",
+    "lat": 8.56524,
+    "lng": -6.61543
+  },
+  {
+    "name": "Soba",
+    "country": "CI",
+    "lat": 7.80556,
+    "lng": -7.31731
+  },
+  {
+    "name": "Soapleu",
+    "country": "CI",
+    "lat": 7.18641,
+    "lng": -7.54955
+  },
+  {
+    "name": "Sobédoufla",
+    "country": "CI",
+    "lat": 7.73504,
+    "lng": -6.40209
+  },
+  {
+    "name": "Sokourala",
+    "country": "CI",
+    "lat": 7.85037,
+    "lng": -7.75836
+  },
+  {
+    "name": "Sofibouafla",
+    "country": "CI",
+    "lat": 7.46317,
+    "lng": -5.97888
+  },
+  {
+    "name": "Soubré",
+    "country": "CI",
+    "lat": 5.78377,
+    "lng": -6.59388
+  },
+  {
+    "name": "Songon",
+    "country": "CI",
+    "lat": 5.3196,
+    "lng": -4.25415
+  },
+  {
+    "name": "Sokozoa",
+    "country": "CI",
+    "lat": 6.24267,
+    "lng": -6.61674
+  },
+  {
+    "name": "Soumahorodougou",
+    "country": "CI",
+    "lat": 5.20941,
+    "lng": -6.54747
+  },
+  {
+    "name": "Soukou-Obou",
+    "country": "CI",
+    "lat": 5.72988,
+    "lng": -4.6209
+  },
+  {
+    "name": "Soribadougou",
+    "country": "CI",
+    "lat": 6.54882,
+    "lng": -3.77689
+  },
+  {
+    "name": "Souampleu",
+    "country": "CI",
+    "lat": 7.01152,
+    "lng": -8.03802
+  },
+  {
+    "name": "Sodesucre Village",
+    "country": "CI",
+    "lat": 9.50652,
+    "lng": -5.27788
+  },
+  {
+    "name": "Sola-Boni-Broukro",
+    "country": "CI",
+    "lat": 7.58479,
+    "lng": -5.22374
+  },
+  {
+    "name": "Sokala-Djélisso",
+    "country": "CI",
+    "lat": 8.3524,
+    "lng": -4.54522
+  },
+  {
+    "name": "Souatiesso",
+    "country": "CI",
+    "lat": 7.95146,
+    "lng": -7.53314
+  },
+  {
+    "name": "Souza Gare",
+    "country": "CM",
+    "lat": 4.2344,
+    "lng": 9.6164
+  },
+  {
+    "name": "Somié",
+    "country": "CM",
+    "lat": 6.45843,
+    "lng": 11.43299
+  },
+  {
+    "name": "Songmai",
+    "country": "CN",
+    "lat": 28.71471,
+    "lng": 99.28633
+  },
+  {
+    "name": "Songlou",
+    "country": "CN",
+    "lat": 34.57231,
+    "lng": 116.60239
+  },
+  {
+    "name": "Songyuan",
+    "country": "CN",
+    "lat": 27.62167,
+    "lng": 119.05917
+  },
+  {
+    "name": "Songyuan",
+    "country": "CN",
+    "lat": 27.5273,
+    "lng": 118.77657
+  },
+  {
+    "name": "Songyang",
+    "country": "CN",
+    "lat": 25.32511,
+    "lng": 103.02981
+  },
+  {
+    "name": "Song Xian",
+    "country": "CN",
+    "lat": 34.13232,
+    "lng": 112.07964
+  },
+  {
+    "name": "Songkan",
+    "country": "CN",
+    "lat": 28.54972,
+    "lng": 106.85972
+  },
+  {
+    "name": "Songjiang",
+    "country": "CN",
+    "lat": 31.03443,
+    "lng": 121.22326
+  },
+  {
+    "name": "Songgang",
+    "country": "CN",
+    "lat": 22.77866,
+    "lng": 113.8454
+  },
+  {
+    "name": "Songgai",
+    "country": "CN",
+    "lat": 29.05762,
+    "lng": 105.89209
+  },
+  {
+    "name": "Songcheng",
+    "country": "CN",
+    "lat": 26.88194,
+    "lng": 120.00111
+  },
+  {
+    "name": "Songbai",
+    "country": "CN",
+    "lat": 31.75685,
+    "lng": 110.67252
+  },
+  {
+    "name": "Songyang",
+    "country": "CN",
+    "lat": 34.45549,
+    "lng": 113.03194
+  },
+  {
+    "name": "Songling",
+    "country": "CN",
+    "lat": 31.1933,
+    "lng": 120.71758
+  },
+  {
+    "name": "Songjianghe",
+    "country": "CN",
+    "lat": 42.1859,
+    "lng": 127.47895
+  },
+  {
+    "name": "Songyuan",
+    "country": "CN",
+    "lat": 45.12902,
+    "lng": 124.82769
+  },
+  {
+    "name": "Songlingcun",
+    "country": "CN",
+    "lat": 40.29394,
+    "lng": 118.27143
+  },
+  {
+    "name": "Songping",
+    "country": "CN",
+    "lat": 33.60251,
+    "lng": 105.91054
+  },
+  {
+    "name": "Songlong",
+    "country": "CN",
+    "lat": 31.1624,
+    "lng": 120.6384
+  },
+  {
+    "name": "Songnong",
+    "country": "CN",
+    "lat": 28.67557,
+    "lng": 109.10473
+  },
+  {
+    "name": "Songshu",
+    "country": "CN",
+    "lat": 34.93302,
+    "lng": 106.05661
+  },
+  {
+    "name": "Songbei",
+    "country": "CN",
+    "lat": 45.80788,
+    "lng": 126.54667
+  },
+  {
+    "name": "Southeast Gate",
+    "country": "CN",
+    "lat": 22.58532,
+    "lng": 113.88342
+  },
+  {
+    "name": "Songzhanzai",
+    "country": "CN",
+    "lat": 22.4955,
+    "lng": 113.91302
+  },
+  {
+    "name": "Sotomayor",
+    "country": "CO",
+    "lat": 1.49474,
+    "lng": -77.52136
+  },
+  {
+    "name": "Sotaquirá",
+    "country": "CO",
+    "lat": 5.76483,
+    "lng": -73.24758
+  },
+  {
+    "name": "Soracá",
+    "country": "CO",
+    "lat": 5.50055,
+    "lng": -73.33299
+  },
+  {
+    "name": "Sora",
+    "country": "CO",
+    "lat": 5.56514,
+    "lng": -73.45017
+  },
+  {
+    "name": "Sopó",
+    "country": "CO",
+    "lat": 4.9075,
+    "lng": -73.9384
+  },
+  {
+    "name": "Soplaviento",
+    "country": "CO",
+    "lat": 10.39306,
+    "lng": -75.14083
+  },
+  {
+    "name": "Sonsón",
+    "country": "CO",
+    "lat": 5.71062,
+    "lng": -75.31069
+  },
+  {
+    "name": "Somondoco",
+    "country": "CO",
+    "lat": 4.98495,
+    "lng": -73.43238
+  },
+  {
+    "name": "Soledad",
+    "country": "CO",
+    "lat": 10.91843,
+    "lng": -74.76459
+  },
+  {
+    "name": "Solano",
+    "country": "CO",
+    "lat": 0.69937,
+    "lng": -75.25353
+  },
+  {
+    "name": "Sogamoso",
+    "country": "CO",
+    "lat": 5.71434,
+    "lng": -72.93391
+  },
+  {
+    "name": "Socotá",
+    "country": "CO",
+    "lat": 6.04028,
+    "lng": -72.63509
+  },
+  {
+    "name": "Socorro",
+    "country": "CO",
+    "lat": 6.46838,
+    "lng": -73.26022
+  },
+  {
+    "name": "Socha Viejo",
+    "country": "CO",
+    "lat": 5.9817,
+    "lng": -72.71503
+  },
+  {
+    "name": "Soatá",
+    "country": "CO",
+    "lat": 6.33369,
+    "lng": -72.68283
+  },
+  {
+    "name": "Soacha",
+    "country": "CO",
+    "lat": 4.57937,
+    "lng": -74.21682
+  },
+  {
+    "name": "Solita",
+    "country": "CO",
+    "lat": 0.87516,
+    "lng": -75.61943
+  },
+  {
+    "name": "Sopetrán",
+    "country": "CO",
+    "lat": 6.5018,
+    "lng": -75.74309
+  },
+  {
+    "name": "Socha",
+    "country": "CO",
+    "lat": 5.99732,
+    "lng": -72.69138
+  },
+  {
+    "name": "Soroa",
+    "country": "CU",
+    "lat": 22.79837,
+    "lng": -83.01253
+  },
+  {
+    "name": "Sotíra",
+    "country": "CY",
+    "lat": 34.71189,
+    "lng": 32.8634
+  },
+  {
+    "name": "Solnice",
+    "country": "CZ",
+    "lat": 50.20366,
+    "lng": 16.23762
+  },
+  {
+    "name": "Sokolov",
+    "country": "CZ",
+    "lat": 50.1813,
+    "lng": 12.6401
+  },
+  {
+    "name": "Sokolnice",
+    "country": "CZ",
+    "lat": 49.11392,
+    "lng": 16.72156
+  },
+  {
+    "name": "Sobotka",
+    "country": "CZ",
+    "lat": 50.46741,
+    "lng": 15.17619
+  },
+  {
+    "name": "Sobotín",
+    "country": "CZ",
+    "lat": 50.01039,
+    "lng": 17.09129
+  },
+  {
+    "name": "Soběslav",
+    "country": "CZ",
+    "lat": 49.25993,
+    "lng": 14.71861
+  },
+  {
+    "name": "Soyen",
+    "country": "DE",
+    "lat": 48.10808,
+    "lng": 12.21006
+  },
+  {
+    "name": "Sottrum",
+    "country": "DE",
+    "lat": 53.11667,
+    "lng": 9.23333
+  },
+  {
+    "name": "Sosa",
+    "country": "DE",
+    "lat": 50.49917,
+    "lng": 12.6512
+  },
+  {
+    "name": "Sontra",
+    "country": "DE",
+    "lat": 51.07171,
+    "lng": 9.93558
+  },
+  {
+    "name": "Sonthofen",
+    "country": "DE",
+    "lat": 47.51821,
+    "lng": 10.28262
+  },
+  {
+    "name": "Sontheim an der Brenz",
+    "country": "DE",
+    "lat": 48.55235,
+    "lng": 10.29097
+  },
+  {
+    "name": "Sontheim",
+    "country": "DE",
+    "lat": 48.00704,
+    "lng": 10.35461
+  },
+  {
+    "name": "Sonsbeck",
+    "country": "DE",
+    "lat": 51.60741,
+    "lng": 6.37916
+  },
+  {
+    "name": "Sonnewalde",
+    "country": "DE",
+    "lat": 51.69223,
+    "lng": 13.6473
+  },
+  {
+    "name": "Sonnenberg",
+    "country": "DE",
+    "lat": 50.09799,
+    "lng": 8.26165
+  },
+  {
+    "name": "Sonnen",
+    "country": "DE",
+    "lat": 48.68333,
+    "lng": 13.71667
+  },
+  {
+    "name": "Sonnefeld",
+    "country": "DE",
+    "lat": 50.21667,
+    "lng": 11.13333
+  },
+  {
+    "name": "Sonneborn",
+    "country": "DE",
+    "lat": 50.9927,
+    "lng": 10.59173
+  },
+  {
+    "name": "Sonneberg",
+    "country": "DE",
+    "lat": 50.3592,
+    "lng": 11.17463
+  },
+  {
+    "name": "Sondheim vor der Rhön",
+    "country": "DE",
+    "lat": 50.4651,
+    "lng": 10.15675
+  },
+  {
+    "name": "Sondershausen",
+    "country": "DE",
+    "lat": 51.36973,
+    "lng": 10.87011
+  },
+  {
+    "name": "Sommersdorf",
+    "country": "DE",
+    "lat": 52.16667,
+    "lng": 11.08333
+  },
+  {
+    "name": "Sommerkahl",
+    "country": "DE",
+    "lat": 50.06961,
+    "lng": 9.25676
+  },
+  {
+    "name": "Sommerhausen",
+    "country": "DE",
+    "lat": 49.70361,
+    "lng": 10.02605
+  },
+  {
+    "name": "Sommerach",
+    "country": "DE",
+    "lat": 49.82923,
+    "lng": 10.20792
+  },
+  {
+    "name": "Soltendieck",
+    "country": "DE",
+    "lat": 52.87369,
+    "lng": 10.76162
+  },
+  {
+    "name": "Soltau",
+    "country": "DE",
+    "lat": 52.98638,
+    "lng": 9.84338
+  },
+  {
+    "name": "Solnhofen",
+    "country": "DE",
+    "lat": 48.89582,
+    "lng": 10.9956
+  },
+  {
+    "name": "Sollstedt",
+    "country": "DE",
+    "lat": 51.30976,
+    "lng": 10.4881
+  },
+  {
+    "name": "Solingen",
+    "country": "DE",
+    "lat": 51.17343,
+    "lng": 7.0845
+  },
+  {
+    "name": "Sohren",
+    "country": "DE",
+    "lat": 49.93333,
+    "lng": 7.31667
+  },
+  {
+    "name": "Sohland am Rotstein",
+    "country": "DE",
+    "lat": 51.11643,
+    "lng": 14.78372
+  },
+  {
+    "name": "Sohland",
+    "country": "DE",
+    "lat": 51.04089,
+    "lng": 14.41897
+  },
+  {
+    "name": "Soest",
+    "country": "DE",
+    "lat": 51.57558,
+    "lng": 8.10619
+  },
+  {
+    "name": "Soderstorf",
+    "country": "DE",
+    "lat": 53.14275,
+    "lng": 10.14807
+  },
+  {
+    "name": "Solms",
+    "country": "DE",
+    "lat": 50.5362,
+    "lng": 8.40704
+  },
+  {
+    "name": "Sorø",
+    "country": "DK",
+    "lat": 55.43184,
+    "lng": 11.55547
+  },
+  {
+    "name": "Solrød Strand",
+    "country": "DK",
+    "lat": 55.53285,
+    "lng": 12.22227
+  },
+  {
+    "name": "Solrød",
+    "country": "DK",
+    "lat": 55.53628,
+    "lng": 12.1827
+  },
+  {
+    "name": "Solbjerg",
+    "country": "DK",
+    "lat": 56.04271,
+    "lng": 10.08631
+  },
+  {
+    "name": "Soufrière",
+    "country": "DM",
+    "lat": 15.23374,
+    "lng": -61.35881
+  },
+  {
+    "name": "Sosúa",
+    "country": "DO",
+    "lat": 19.7522,
+    "lng": -70.51995
+  },
+  {
+    "name": "Sour el Ghozlane",
+    "country": "DZ",
+    "lat": 36.14766,
+    "lng": 3.69123
+  },
+  {
+    "name": "Souma",
+    "country": "DZ",
+    "lat": 36.51833,
+    "lng": 2.90528
+  },
+  {
+    "name": "Souk Ahras",
+    "country": "DZ",
+    "lat": 36.28639,
+    "lng": 7.95111
+  },
+  {
+    "name": "Sougueur",
+    "country": "DZ",
+    "lat": 35.18568,
+    "lng": 1.49612
+  },
+  {
+    "name": "Sohag",
+    "country": "EG",
+    "lat": 26.55695,
+    "lng": 31.69478
+  },
+  {
+    "name": "Sot de Ferrer",
+    "country": "ES",
+    "lat": 39.8,
+    "lng": -0.4
+  },
+  {
+    "name": "Sot de Chera",
+    "country": "ES",
+    "lat": 39.63333,
+    "lng": -0.9
+  },
+  {
+    "name": "Sorvilán",
+    "country": "ES",
+    "lat": 36.79505,
+    "lng": -3.26769
+  },
+  {
+    "name": "Sorihuela del Guadalimar",
+    "country": "ES",
+    "lat": 38.24062,
+    "lng": -3.0536
+  },
+  {
+    "name": "Sorbas",
+    "country": "ES",
+    "lat": 37.09761,
+    "lng": -2.12349
+  },
+  {
+    "name": "Soportújar",
+    "country": "ES",
+    "lat": 36.92863,
+    "lng": -3.40542
+  },
+  {
+    "name": "Son Servera",
+    "country": "ES",
+    "lat": 39.62073,
+    "lng": 3.36008
+  },
+  {
+    "name": "Sonseca",
+    "country": "ES",
+    "lat": 39.67747,
+    "lng": -3.97448
+  },
+  {
+    "name": "Son Sardina",
+    "country": "ES",
+    "lat": 39.62035,
+    "lng": 2.65708
+  },
+  {
+    "name": "Son Rapinya",
+    "country": "ES",
+    "lat": 39.58932,
+    "lng": 2.61899
+  },
+  {
+    "name": "Son Ferriol",
+    "country": "ES",
+    "lat": 39.56667,
+    "lng": 2.71667
+  },
+  {
+    "name": "Soneja",
+    "country": "ES",
+    "lat": 39.81667,
+    "lng": -0.41667
+  },
+  {
+    "name": "Somontín",
+    "country": "ES",
+    "lat": 37.39176,
+    "lng": -2.38828
+  },
+  {
+    "name": "Sollana",
+    "country": "ES",
+    "lat": 39.2783,
+    "lng": -0.38238
+  },
+  {
+    "name": "Solana de los Barros",
+    "country": "ES",
+    "lat": 38.72527,
+    "lng": -6.53899
+  },
+  {
+    "name": "Socuéllamos",
+    "country": "ES",
+    "lat": 39.28581,
+    "lng": -2.79205
+  },
+  {
+    "name": "Socovos",
+    "country": "ES",
+    "lat": 38.33232,
+    "lng": -1.98485
+  },
+  {
+    "name": "Sotresgudo",
+    "country": "ES",
+    "lat": 42.57935,
+    "lng": -4.17725
+  },
+  {
+    "name": "Sotragero",
+    "country": "ES",
+    "lat": 42.40996,
+    "lng": -3.71312
+  },
+  {
+    "name": "Soto y Amío",
+    "country": "ES",
+    "lat": 42.77477,
+    "lng": -5.88693
+  },
+  {
+    "name": "Sotoserrano",
+    "country": "ES",
+    "lat": 40.43499,
+    "lng": -6.03261
+  },
+  {
+    "name": "Sotosalbos",
+    "country": "ES",
+    "lat": 41.03537,
+    "lng": -3.94115
+  },
+  {
+    "name": "Soto en Cameros",
+    "country": "ES",
+    "lat": 42.28591,
+    "lng": -2.42597
+  },
+  {
+    "name": "Sotodosos",
+    "country": "ES",
+    "lat": 40.92149,
+    "lng": -2.39211
+  },
+  {
+    "name": "Soto del Barco",
+    "country": "ES",
+    "lat": 43.53288,
+    "lng": -6.06984
+  },
+  {
+    "name": "Soto de la Vega",
+    "country": "ES",
+    "lat": 42.33227,
+    "lng": -5.88225
+  },
+  {
+    "name": "Soto de Cerrato",
+    "country": "ES",
+    "lat": 41.95312,
+    "lng": -4.42998
+  },
+  {
+    "name": "Sotobañado y Priorato",
+    "country": "ES",
+    "lat": 42.58987,
+    "lng": -4.44185
+  },
+  {
+    "name": "Sotillo del Rincón",
+    "country": "ES",
+    "lat": 41.9322,
+    "lng": -2.60297
+  },
+  {
+    "name": "Sotillo de las Palomas",
+    "country": "ES",
+    "lat": 40.10359,
+    "lng": -4.82736
+  },
+  {
+    "name": "Sotillo de la Ribera",
+    "country": "ES",
+    "lat": 41.77717,
+    "lng": -3.82525
+  },
+  {
+    "name": "Sotillo de la Adrada",
+    "country": "ES",
+    "lat": 40.2912,
+    "lng": -4.58385
+  },
+  {
+    "name": "Sotillo",
+    "country": "ES",
+    "lat": 41.25846,
+    "lng": -3.63729
+  },
+  {
+    "name": "Sotalbo",
+    "country": "ES",
+    "lat": 40.5417,
+    "lng": -4.84548
+  },
+  {
+    "name": "Soses",
+    "country": "ES",
+    "lat": 41.53333,
+    "lng": 0.48333
+  },
+  {
+    "name": "Sos del Rey Católico",
+    "country": "ES",
+    "lat": 42.49686,
+    "lng": -1.21514
+  },
+  {
+    "name": "Sorzano",
+    "country": "ES",
+    "lat": 42.34307,
+    "lng": -2.52872
+  },
+  {
+    "name": "Sort",
+    "country": "ES",
+    "lat": 42.41319,
+    "lng": 1.13045
+  },
+  {
+    "name": "Sorlada",
+    "country": "ES",
+    "lat": 42.61507,
+    "lng": -2.21525
+  },
+  {
+    "name": "Sorihuela",
+    "country": "ES",
+    "lat": 40.44378,
+    "lng": -5.67818
+  },
+  {
+    "name": "Soria",
+    "country": "ES",
+    "lat": 41.76401,
+    "lng": -2.46883
+  },
+  {
+    "name": "Sordillos",
+    "country": "ES",
+    "lat": 42.46197,
+    "lng": -4.10726
+  },
+  {
+    "name": "Sora",
+    "country": "ES",
+    "lat": 42.11236,
+    "lng": 2.16083
+  },
+  {
+    "name": "Sopela",
+    "country": "ES",
+    "lat": 43.37891,
+    "lng": -2.98313
+  },
+  {
+    "name": "Somozas",
+    "country": "ES",
+    "lat": 43.53333,
+    "lng": -7.93333
+  },
+  {
+    "name": "Somosierra",
+    "country": "ES",
+    "lat": 41.13269,
+    "lng": -3.58237
+  },
+  {
+    "name": "Somolinos",
+    "country": "ES",
+    "lat": 41.24606,
+    "lng": -3.06004
+  },
+  {
+    "name": "Solsona",
+    "country": "ES",
+    "lat": 41.99395,
+    "lng": 1.51706
+  },
+  {
+    "name": "Solosancho",
+    "country": "ES",
+    "lat": 40.55294,
+    "lng": -4.90479
+  },
+  {
+    "name": "Solórzano",
+    "country": "ES",
+    "lat": 43.38233,
+    "lng": -3.58785
+  },
+  {
+    "name": "Soliedra",
+    "country": "ES",
+    "lat": 41.46932,
+    "lng": -2.38164
+  },
+  {
+    "name": "Solarana",
+    "country": "ES",
+    "lat": 41.97168,
+    "lng": -3.65876
+  },
+  {
+    "name": "Solanillos del Extremo",
+    "country": "ES",
+    "lat": 40.75088,
+    "lng": -2.69799
+  },
+  {
+    "name": "Sojuela",
+    "country": "ES",
+    "lat": 42.36988,
+    "lng": -2.54525
+  },
+  {
+    "name": "Sobrado",
+    "country": "ES",
+    "lat": 43.03882,
+    "lng": -8.02784
+  },
+  {
+    "name": "Sobrado",
+    "country": "ES",
+    "lat": 42.51667,
+    "lng": -6.85
+  },
+  {
+    "name": "Sobradillo",
+    "country": "ES",
+    "lat": 40.91754,
+    "lng": -6.79729
+  },
+  {
+    "name": "Sobradiel",
+    "country": "ES",
+    "lat": 41.73875,
+    "lng": -1.03765
+  },
+  {
+    "name": "Sobradelo",
+    "country": "ES",
+    "lat": 42.58333,
+    "lng": -8.78333
+  },
+  {
+    "name": "Sober",
+    "country": "ES",
+    "lat": 42.46127,
+    "lng": -7.5864
+  },
+  {
+    "name": "Soto del Real",
+    "country": "ES",
+    "lat": 40.75257,
+    "lng": -3.78019
+  },
+  {
+    "name": "Sopeira",
+    "country": "ES",
+    "lat": 42.31615,
+    "lng": 0.74632
+  },
+  {
+    "name": "Sopuerta",
+    "country": "ES",
+    "lat": 43.26239,
+    "lng": -3.15505
+  },
+  {
+    "name": "Sol",
+    "country": "ES",
+    "lat": 40.41664,
+    "lng": -3.70327
+  },
+  {
+    "name": "Sondika",
+    "country": "ES",
+    "lat": 43.3002,
+    "lng": -2.92442
+  },
+  {
+    "name": "Soto de Viñuelas",
+    "country": "ES",
+    "lat": 40.61017,
+    "lng": -3.68875
+  },
+  {
+    "name": "Son Ferrer",
+    "country": "ES",
+    "lat": 39.49666,
+    "lng": 2.50102
+  },
+  {
+    "name": "Son Roca",
+    "country": "ES",
+    "lat": 39.60449,
+    "lng": 2.60663
+  },
+  {
+    "name": "Sodo",
+    "country": "ET",
+    "lat": 6.86,
+    "lng": 37.76159
+  },
+  {
+    "name": "Sotkamo",
+    "country": "FI",
+    "lat": 64.13333,
+    "lng": 28.41667
+  },
+  {
+    "name": "Sonkajärvi",
+    "country": "FI",
+    "lat": 63.66667,
+    "lng": 27.51667
+  },
+  {
+    "name": "Somero",
+    "country": "FI",
+    "lat": 60.61667,
+    "lng": 23.53333
+  },
+  {
+    "name": "Soukka",
+    "country": "FI",
+    "lat": 60.14155,
+    "lng": 24.67134
+  },
+  {
+    "name": "Soini",
+    "country": "FI",
+    "lat": 62.86667,
+    "lng": 24.21667
+  },
+  {
+    "name": "Sodankylä",
+    "country": "FI",
+    "lat": 67.41667,
+    "lng": 26.6
+  },
+  {
+    "name": "Sorol",
+    "country": "FM",
+    "lat": 8.1435,
+    "lng": 140.394
+  },
+  {
+    "name": "Soyons",
+    "country": "FR",
+    "lat": 44.88914,
+    "lng": 4.85026
+  },
+  {
+    "name": "Soyaux",
+    "country": "FR",
+    "lat": 45.64052,
+    "lng": 0.19752
+  },
+  {
+    "name": "Souvigny",
+    "country": "FR",
+    "lat": 46.5348,
+    "lng": 3.19205
+  },
+  {
+    "name": "Soustons",
+    "country": "FR",
+    "lat": 43.75165,
+    "lng": -1.32977
+  },
+  {
+    "name": "Soussans",
+    "country": "FR",
+    "lat": 45.05633,
+    "lng": -0.6995
+  },
+  {
+    "name": "Sourzac",
+    "country": "FR",
+    "lat": 45.0495,
+    "lng": 0.39553
+  },
+  {
+    "name": "Sours",
+    "country": "FR",
+    "lat": 48.41043,
+    "lng": 1.59889
+  },
+  {
+    "name": "Sourdun",
+    "country": "FR",
+    "lat": 48.53688,
+    "lng": 3.352
+  },
+  {
+    "name": "Sourdeval",
+    "country": "FR",
+    "lat": 48.72312,
+    "lng": -0.92223
+  },
+  {
+    "name": "Sourcieux-les-Mines",
+    "country": "FR",
+    "lat": 45.80606,
+    "lng": 4.62254
+  },
+  {
+    "name": "Souraïde",
+    "country": "FR",
+    "lat": 43.34214,
+    "lng": -1.475
+  },
+  {
+    "name": "Souprosse",
+    "country": "FR",
+    "lat": 43.78867,
+    "lng": -0.70946
+  },
+  {
+    "name": "Souppes-sur-Loing",
+    "country": "FR",
+    "lat": 48.18297,
+    "lng": 2.73521
+  },
+  {
+    "name": "Soumoulou",
+    "country": "FR",
+    "lat": 43.26675,
+    "lng": -0.19029
+  },
+  {
+    "name": "Soultz-sous-Forêts",
+    "country": "FR",
+    "lat": 48.93693,
+    "lng": 7.8811
+  },
+  {
+    "name": "Soultzmatt",
+    "country": "FR",
+    "lat": 47.96188,
+    "lng": 7.23759
+  },
+  {
+    "name": "Soultz-Haut-Rhin",
+    "country": "FR",
+    "lat": 47.88849,
+    "lng": 7.2286
+  },
+  {
+    "name": "Soultzeren",
+    "country": "FR",
+    "lat": 48.06394,
+    "lng": 7.10233
+  },
+  {
+    "name": "Soullans",
+    "country": "FR",
+    "lat": 46.79624,
+    "lng": -1.90106
+  },
+  {
+    "name": "Souligné-sous-Ballon",
+    "country": "FR",
+    "lat": 48.13988,
+    "lng": 0.2361
+  },
+  {
+    "name": "Soulgé-sur-Ouette",
+    "country": "FR",
+    "lat": 48.06106,
+    "lng": -0.57059
+  },
+  {
+    "name": "Soulaire",
+    "country": "FR",
+    "lat": 47.57901,
+    "lng": -0.55281
+  },
+  {
+    "name": "Soulaines-sur-Aubance",
+    "country": "FR",
+    "lat": 47.3643,
+    "lng": -0.5229
+  },
+  {
+    "name": "Soulac-sur-Mer",
+    "country": "FR",
+    "lat": 45.51068,
+    "lng": -1.12524
+  },
+  {
+    "name": "Souillac",
+    "country": "FR",
+    "lat": 44.89788,
+    "lng": 1.4738
+  },
+  {
+    "name": "Soufflenheim",
+    "country": "FR",
+    "lat": 48.83026,
+    "lng": 7.96268
+  },
+  {
+    "name": "Souffelweyersheim",
+    "country": "FR",
+    "lat": 48.6354,
+    "lng": 7.74141
+  },
+  {
+    "name": "Souesmes",
+    "country": "FR",
+    "lat": 47.45638,
+    "lng": 2.17495
+  },
+  {
+    "name": "Soues",
+    "country": "FR",
+    "lat": 43.20687,
+    "lng": 0.0991
+  },
+  {
+    "name": "Soudan",
+    "country": "FR",
+    "lat": 47.73805,
+    "lng": -1.30589
+  },
+  {
+    "name": "Soucy",
+    "country": "FR",
+    "lat": 48.24956,
+    "lng": 3.32385
+  },
+  {
+    "name": "Soucieu-en-Jarrest",
+    "country": "FR",
+    "lat": 45.67771,
+    "lng": 4.70379
+  },
+  {
+    "name": "Soucht",
+    "country": "FR",
+    "lat": 48.95902,
+    "lng": 7.33434
+  },
+  {
+    "name": "Souchez",
+    "country": "FR",
+    "lat": 50.39291,
+    "lng": 2.73984
+  },
+  {
+    "name": "Soucelles",
+    "country": "FR",
+    "lat": 47.56948,
+    "lng": -0.42052
+  },
+  {
+    "name": "Soubise",
+    "country": "FR",
+    "lat": 45.92398,
+    "lng": -1.009
+  },
+  {
+    "name": "Soual",
+    "country": "FR",
+    "lat": 43.55622,
+    "lng": 2.11677
+  },
+  {
+    "name": "Sotteville-lès-Rouen",
+    "country": "FR",
+    "lat": 49.40972,
+    "lng": 1.09005
+  },
+  {
+    "name": "Sottevast",
+    "country": "FR",
+    "lat": 49.52374,
+    "lng": -1.59169
+  },
+  {
+    "name": "Sospel",
+    "country": "FR",
+    "lat": 43.87792,
+    "lng": 7.44788
+  },
+  {
+    "name": "Sornay",
+    "country": "FR",
+    "lat": 46.63023,
+    "lng": 5.17999
+  },
+  {
+    "name": "Sormiou",
+    "country": "FR",
+    "lat": 43.20959,
+    "lng": 5.41872
+  },
+  {
+    "name": "Sorigny",
+    "country": "FR",
+    "lat": 47.24329,
+    "lng": 0.6952
+  },
+  {
+    "name": "Sorgues",
+    "country": "FR",
+    "lat": 44.01023,
+    "lng": 4.87381
+  },
+  {
+    "name": "Sorges",
+    "country": "FR",
+    "lat": 45.30743,
+    "lng": 0.87352
+  },
+  {
+    "name": "Sorèze",
+    "country": "FR",
+    "lat": 43.45292,
+    "lng": 2.06683
+  },
+  {
+    "name": "Sorel-Moussel",
+    "country": "FR",
+    "lat": 48.83391,
+    "lng": 1.36699
+  },
+  {
+    "name": "Sorède",
+    "country": "FR",
+    "lat": 42.53069,
+    "lng": 2.95708
+  },
+  {
+    "name": "Sorbiers",
+    "country": "FR",
+    "lat": 45.49111,
+    "lng": 4.44163
+  },
+  {
+    "name": "Soorts",
+    "country": "FR",
+    "lat": 43.66462,
+    "lng": -1.39628
+  },
+  {
+    "name": "Sonzay",
+    "country": "FR",
+    "lat": 47.52687,
+    "lng": 0.46203
+  },
+  {
+    "name": "Sonnaz",
+    "country": "FR",
+    "lat": 45.61765,
+    "lng": 5.91505
+  },
+  {
+    "name": "Sonnay",
+    "country": "FR",
+    "lat": 45.35809,
+    "lng": 4.90479
+  },
+  {
+    "name": "Songeons",
+    "country": "FR",
+    "lat": 49.54916,
+    "lng": 1.85361
+  },
+  {
+    "name": "Sonchamp",
+    "country": "FR",
+    "lat": 48.5759,
+    "lng": 1.87753
+  },
+  {
+    "name": "Sommières",
+    "country": "FR",
+    "lat": 43.78457,
+    "lng": 4.09
+  },
+  {
+    "name": "Somain",
+    "country": "FR",
+    "lat": 50.35961,
+    "lng": 3.28108
+  },
+  {
+    "name": "Solre-le-Château",
+    "country": "FR",
+    "lat": 50.17432,
+    "lng": 4.08898
+  },
+  {
+    "name": "Solliès-Ville",
+    "country": "FR",
+    "lat": 43.18256,
+    "lng": 6.03849
+  },
+  {
+    "name": "Solliès-Toucas",
+    "country": "FR",
+    "lat": 43.20579,
+    "lng": 6.02485
+  },
+  {
+    "name": "Solliès-Pont",
+    "country": "FR",
+    "lat": 43.19009,
+    "lng": 6.04115
+  },
+  {
+    "name": "Solignac-sur-Loire",
+    "country": "FR",
+    "lat": 44.96833,
+    "lng": 3.88635
+  },
+  {
+    "name": "Solignac",
+    "country": "FR",
+    "lat": 45.75518,
+    "lng": 1.27488
+  },
+  {
+    "name": "Soliers",
+    "country": "FR",
+    "lat": 49.1344,
+    "lng": -0.29613
+  },
+  {
+    "name": "Solgne",
+    "country": "FR",
+    "lat": 48.96543,
+    "lng": 6.29429
+  },
+  {
+    "name": "Solesmes",
+    "country": "FR",
+    "lat": 50.18468,
+    "lng": 3.49799
+  },
+  {
+    "name": "Solesmes",
+    "country": "FR",
+    "lat": 47.85127,
+    "lng": -0.30163
+  },
+  {
+    "name": "Solers",
+    "country": "FR",
+    "lat": 48.65919,
+    "lng": 2.71617
+  },
+  {
+    "name": "Solaize",
+    "country": "FR",
+    "lat": 45.6397,
+    "lng": 4.84038
+  },
+  {
+    "name": "Soisy-sur-Seine",
+    "country": "FR",
+    "lat": 48.64875,
+    "lng": 2.45223
+  },
+  {
+    "name": "Soisy-sur-École",
+    "country": "FR",
+    "lat": 48.47637,
+    "lng": 2.49301
+  },
+  {
+    "name": "Soisy-sous-Montmorency",
+    "country": "FR",
+    "lat": 48.98813,
+    "lng": 2.30156
+  },
+  {
+    "name": "Soissons",
+    "country": "FR",
+    "lat": 49.38167,
+    "lng": 3.32361
+  },
+  {
+    "name": "Soings-en-Sologne",
+    "country": "FR",
+    "lat": 47.41289,
+    "lng": 1.52452
+  },
+  {
+    "name": "Soignolles-en-Brie",
+    "country": "FR",
+    "lat": 48.6535,
+    "lng": 2.69968
+  },
+  {
+    "name": "Socx",
+    "country": "FR",
+    "lat": 50.93571,
+    "lng": 2.42422
+  },
+  {
+    "name": "Sochaux",
+    "country": "FR",
+    "lat": 47.50808,
+    "lng": 6.82748
+  },
+  {
+    "name": "Sowerby Bridge",
+    "country": "GB",
+    "lat": 53.70903,
+    "lng": -1.90929
+  },
+  {
+    "name": "Southwold",
+    "country": "GB",
+    "lat": 52.32721,
+    "lng": 1.68017
+  },
+  {
+    "name": "South Witham",
+    "country": "GB",
+    "lat": 52.76476,
+    "lng": -0.62811
+  },
+  {
+    "name": "South Wingfield",
+    "country": "GB",
+    "lat": 53.09593,
+    "lng": -1.43998
+  },
+  {
+    "name": "Southwick",
+    "country": "GB",
+    "lat": 51.29694,
+    "lng": -2.2325
+  },
+  {
+    "name": "Southwell",
+    "country": "GB",
+    "lat": 53.07804,
+    "lng": -0.95538
+  },
+  {
+    "name": "Southwater",
+    "country": "GB",
+    "lat": 51.02369,
+    "lng": -0.35173
+  },
+  {
+    "name": "South Shields",
+    "country": "GB",
+    "lat": 54.99859,
+    "lng": -1.4323
+  },
+  {
+    "name": "Southsea",
+    "country": "GB",
+    "lat": 50.78351,
+    "lng": -1.09071
+  },
+  {
+    "name": "Southport",
+    "country": "GB",
+    "lat": 53.64581,
+    "lng": -3.01008
+  },
+  {
+    "name": "South Petherton",
+    "country": "GB",
+    "lat": 50.94829,
+    "lng": -2.80708
+  },
+  {
+    "name": "Southowram",
+    "country": "GB",
+    "lat": 53.70988,
+    "lng": -1.83181
+  },
+  {
+    "name": "Southorpe",
+    "country": "GB",
+    "lat": 52.61055,
+    "lng": -0.40512
+  },
+  {
+    "name": "South Ockendon",
+    "country": "GB",
+    "lat": 51.50799,
+    "lng": 0.28333
+  },
+  {
+    "name": "South Nutfield",
+    "country": "GB",
+    "lat": 51.01667,
+    "lng": -0.13333
+  },
+  {
+    "name": "South Norwood",
+    "country": "GB",
+    "lat": 51.39944,
+    "lng": -0.07469
+  },
+  {
+    "name": "South Molton",
+    "country": "GB",
+    "lat": 51.01667,
+    "lng": -3.83333
+  },
+  {
+    "name": "Southminster",
+    "country": "GB",
+    "lat": 51.66228,
+    "lng": 0.82968
+  },
+  {
+    "name": "South Milford",
+    "country": "GB",
+    "lat": 53.77672,
+    "lng": -1.24609
+  },
+  {
+    "name": "South Luffenham",
+    "country": "GB",
+    "lat": 52.60857,
+    "lng": -0.61232
+  },
+  {
+    "name": "South Littleton",
+    "country": "GB",
+    "lat": 52.11416,
+    "lng": -1.89014
+  },
+  {
+    "name": "Southill",
+    "country": "GB",
+    "lat": 52.06431,
+    "lng": -0.32358
+  },
+  {
+    "name": "South Hill",
+    "country": "GB",
+    "lat": 50.53333,
+    "lng": -4.35
+  },
+  {
+    "name": "South Hetton",
+    "country": "GB",
+    "lat": 54.79906,
+    "lng": -1.40671
+  },
+  {
+    "name": "South Hayling",
+    "country": "GB",
+    "lat": 50.78773,
+    "lng": -0.97697
+  },
+  {
+    "name": "South Harting",
+    "country": "GB",
+    "lat": 50.96924,
+    "lng": -0.88388
+  },
+  {
+    "name": "Southgate",
+    "country": "GB",
+    "lat": 51.61667,
+    "lng": -0.1
+  },
+  {
+    "name": "Southery",
+    "country": "GB",
+    "lat": 52.52714,
+    "lng": 0.38783
+  },
+  {
+    "name": "Southend-on-Sea",
+    "country": "GB",
+    "lat": 51.53782,
+    "lng": 0.71433
+  },
+  {
+    "name": "South Elmsall",
+    "country": "GB",
+    "lat": 53.59709,
+    "lng": -1.28034
+  },
+  {
+    "name": "South Collingham",
+    "country": "GB",
+    "lat": 53.13333,
+    "lng": -0.76667
+  },
+  {
+    "name": "South Cerney",
+    "country": "GB",
+    "lat": 51.67319,
+    "lng": -1.93097
+  },
+  {
+    "name": "South Cave",
+    "country": "GB",
+    "lat": 53.76987,
+    "lng": -0.60107
+  },
+  {
+    "name": "South Brent",
+    "country": "GB",
+    "lat": 50.42654,
+    "lng": -3.83426
+  },
+  {
+    "name": "South Benfleet",
+    "country": "GB",
+    "lat": 51.55295,
+    "lng": 0.55962
+  },
+  {
+    "name": "South Bank",
+    "country": "GB",
+    "lat": 54.56667,
+    "lng": -1.15
+  },
+  {
+    "name": "Southampton",
+    "country": "GB",
+    "lat": 50.90395,
+    "lng": -1.40428
+  },
+  {
+    "name": "Southam",
+    "country": "GB",
+    "lat": 52.25266,
+    "lng": -1.3884
+  },
+  {
+    "name": "Southall",
+    "country": "GB",
+    "lat": 51.50896,
+    "lng": -0.3713
+  },
+  {
+    "name": "Sonning",
+    "country": "GB",
+    "lat": 51.47411,
+    "lng": -0.91212
+  },
+  {
+    "name": "Somerton",
+    "country": "GB",
+    "lat": 51.95421,
+    "lng": -1.27613
+  },
+  {
+    "name": "Somersham",
+    "country": "GB",
+    "lat": 52.38333,
+    "lng": 0.0
+  },
+  {
+    "name": "Solihull",
+    "country": "GB",
+    "lat": 52.41426,
+    "lng": -1.78094
+  },
+  {
+    "name": "Soham",
+    "country": "GB",
+    "lat": 52.33543,
+    "lng": 0.33654
+  },
+  {
+    "name": "Southgate",
+    "country": "GB",
+    "lat": 51.56944,
+    "lng": -4.08972
+  },
+  {
+    "name": "Soho",
+    "country": "GB",
+    "lat": 51.5144,
+    "lng": -0.13535
+  },
+  {
+    "name": "South Chailey",
+    "country": "GB",
+    "lat": 50.93831,
+    "lng": -0.02105
+  },
+  {
+    "name": "South Croydon",
+    "country": "GB",
+    "lat": 51.36217,
+    "lng": -0.09421
+  },
+  {
+    "name": "Southchurch Village",
+    "country": "GB",
+    "lat": 51.54049,
+    "lng": 0.72935
+  },
+  {
+    "name": "Sonning Common",
+    "country": "GB",
+    "lat": 51.51873,
+    "lng": -0.97753
+  },
+  {
+    "name": "South Ruislip",
+    "country": "GB",
+    "lat": 51.55518,
+    "lng": -0.40867
+  },
+  {
+    "name": "South Harefield",
+    "country": "GB",
+    "lat": 51.58975,
+    "lng": -0.48046
+  },
+  {
+    "name": "Sopwell",
+    "country": "GB",
+    "lat": 51.73853,
+    "lng": -0.33033
+  },
+  {
+    "name": "Sokhumi",
+    "country": "GE",
+    "lat": 43.00697,
+    "lng": 40.9893
+  },
+  {
+    "name": "South District",
+    "country": "GI",
+    "lat": 36.11397,
+    "lng": -5.34657
+  },
+  {
+    "name": "Somita",
+    "country": "GM",
+    "lat": 13.20583,
+    "lng": -16.30556
+  },
+  {
+    "name": "Soma",
+    "country": "GM",
+    "lat": 13.43333,
+    "lng": -15.53333
+  },
+  {
+    "name": "Soúrpi",
+    "country": "GR",
+    "lat": 39.10319,
+    "lng": 22.89789
+  },
+  {
+    "name": "Soúda",
+    "country": "GR",
+    "lat": 35.48717,
+    "lng": 24.07344
+  },
+  {
+    "name": "Sofikón",
+    "country": "GR",
+    "lat": 37.79412,
+    "lng": 23.05204
+  },
+  {
+    "name": "Sofádes",
+    "country": "GR",
+    "lat": 39.33333,
+    "lng": 22.1
+  },
+  {
+    "name": "Sourotí",
+    "country": "GR",
+    "lat": 40.47274,
+    "lng": 23.09197
+  },
+  {
+    "name": "Souflí",
+    "country": "GR",
+    "lat": 41.19194,
+    "lng": 26.29944
+  },
+  {
+    "name": "Sosándra",
+    "country": "GR",
+    "lat": 40.99894,
+    "lng": 22.03254
+  },
+  {
+    "name": "Sochós",
+    "country": "GR",
+    "lat": 40.81788,
+    "lng": 23.35546
+  },
+  {
+    "name": "Soroní",
+    "country": "GR",
+    "lat": 36.36212,
+    "lng": 28.00267
+  },
+  {
+    "name": "Soloma",
+    "country": "GT",
+    "lat": 15.65841,
+    "lng": -91.42994
+  },
+  {
+    "name": "Sololá",
+    "country": "GT",
+    "lat": 14.7707,
+    "lng": -91.18344
+  },
+  {
+    "name": "Sonaco",
+    "country": "GW",
+    "lat": 12.4,
+    "lng": -14.48333
+  },
+  {
+    "name": "So Kwun Wat Tsuen",
+    "country": "HK",
+    "lat": 22.3849,
+    "lng": 114.00448
+  },
+  {
+    "name": "So Kwun Wat",
+    "country": "HK",
+    "lat": 22.37594,
+    "lng": 114.00682
+  },
+  {
+    "name": "Sok Kwu Wan",
+    "country": "HK",
+    "lat": 22.20453,
+    "lng": 114.13159
+  },
+  {
+    "name": "So Uk",
+    "country": "HK",
+    "lat": 22.34131,
+    "lng": 114.15679
+  },
+  {
+    "name": "South Horizons",
+    "country": "HK",
+    "lat": 22.24383,
+    "lng": 114.14828
+  },
+  {
+    "name": "So Uk Estate",
+    "country": "HK",
+    "lat": 22.34153,
+    "lng": 114.15653
+  },
+  {
+    "name": "South Wave Court",
+    "country": "HK",
+    "lat": 22.24463,
+    "lng": 114.16623
+  },
+  {
+    "name": "South Horizons (Estate)",
+    "country": "HK",
+    "lat": 22.24411,
+    "lng": 114.14616
+  },
+  {
+    "name": "Sorrento",
+    "country": "HK",
+    "lat": 22.30641,
+    "lng": 114.16226
+  },
+  {
+    "name": "Sopje",
+    "country": "HR",
+    "lat": 45.80111,
+    "lng": 17.7425
+  },
+  {
+    "name": "Solin",
+    "country": "HR",
+    "lat": 43.5432,
+    "lng": 16.49314
+  },
+  {
+    "name": "Sokolovac",
+    "country": "HR",
+    "lat": 46.11083,
+    "lng": 16.70639
+  },
+  {
+    "name": "Soroksár",
+    "country": "HU",
+    "lat": 47.40515,
+    "lng": 19.12441
+  },
+  {
+    "name": "Sopron",
+    "country": "HU",
+    "lat": 47.68501,
+    "lng": 16.59049
+  },
+  {
+    "name": "Soponya",
+    "country": "HU",
+    "lat": 47.01485,
+    "lng": 18.45343
+  },
+  {
+    "name": "Somoskőújfalu",
+    "country": "HU",
+    "lat": 48.16374,
+    "lng": 19.82303
+  },
+  {
+    "name": "Somogyvár",
+    "country": "HU",
+    "lat": 46.5814,
+    "lng": 17.66289
+  },
+  {
+    "name": "Solymár",
+    "country": "HU",
+    "lat": 47.59246,
+    "lng": 18.93212
+  },
+  {
+    "name": "Soltvadkert",
+    "country": "HU",
+    "lat": 46.57889,
+    "lng": 19.39389
+  },
+  {
+    "name": "Solt",
+    "country": "HU",
+    "lat": 46.80101,
+    "lng": 19.00098
+  },
+  {
+    "name": "Soroksár-Ujtelep",
+    "country": "HU",
+    "lat": 47.41557,
+    "lng": 19.13197
+  },
+  {
+    "name": "Sondi",
+    "country": "ID",
+    "lat": 2.9735,
+    "lng": 98.8617
+  },
+  {
+    "name": "Sokaraja",
+    "country": "ID",
+    "lat": -7.45806,
+    "lng": 109.28806
+  },
+  {
+    "name": "Sorong",
+    "country": "ID",
+    "lat": -0.87956,
+    "lng": 131.26104
+  },
+  {
+    "name": "Sorendiweri",
+    "country": "ID",
+    "lat": -0.73389,
+    "lng": 135.73611
+  },
+  {
+    "name": "Soreang",
+    "country": "ID",
+    "lat": -7.03306,
+    "lng": 107.51833
+  },
+  {
+    "name": "Sonder",
+    "country": "ID",
+    "lat": 1.25474,
+    "lng": 124.77945
+  },
+  {
+    "name": "Somba",
+    "country": "ID",
+    "lat": -3.3772,
+    "lng": 118.8475
+  },
+  {
+    "name": "Solok",
+    "country": "ID",
+    "lat": -0.8006,
+    "lng": 100.6571
+  },
+  {
+    "name": "Sokobanah",
+    "country": "ID",
+    "lat": -6.89,
+    "lng": 113.4347
+  },
+  {
+    "name": "Soko",
+    "country": "ID",
+    "lat": -7.48315,
+    "lng": 112.42704
+  },
+  {
+    "name": "Sofifi",
+    "country": "ID",
+    "lat": 0.73729,
+    "lng": 127.5588
+  },
+  {
+    "name": "Soe",
+    "country": "ID",
+    "lat": -9.86071,
+    "lng": 124.28395
+  },
+  {
+    "name": "Sodong Hilir",
+    "country": "ID",
+    "lat": -7.4894,
+    "lng": 108.0514
+  },
+  {
+    "name": "Sokarame",
+    "country": "ID",
+    "lat": -7.084,
+    "lng": 114.2856
+  },
+  {
+    "name": "Songgon",
+    "country": "ID",
+    "lat": -8.2351,
+    "lng": 114.20438
+  },
+  {
+    "name": "Soa",
+    "country": "ID",
+    "lat": -8.6981,
+    "lng": 121.0361
+  },
+  {
+    "name": "Solokuro",
+    "country": "ID",
+    "lat": -6.9334,
+    "lng": 112.3561
+  },
+  {
+    "name": "South Tangerang",
+    "country": "ID",
+    "lat": -6.28862,
+    "lng": 106.71789
+  },
+  {
+    "name": "South Dublin",
+    "country": "IE",
+    "lat": 53.29026,
+    "lng": -6.34151
+  },
+  {
+    "name": "Soygaon",
+    "country": "IN",
+    "lat": 20.59606,
+    "lng": 75.61765
+  },
+  {
+    "name": "Soron",
+    "country": "IN",
+    "lat": 27.89055,
+    "lng": 78.74621
+  },
+  {
+    "name": "Soro",
+    "country": "IN",
+    "lat": 21.27851,
+    "lng": 86.68833
+  },
+  {
+    "name": "Sorbhog",
+    "country": "IN",
+    "lat": 26.48612,
+    "lng": 90.8859
+  },
+  {
+    "name": "Sorala",
+    "country": "IN",
+    "lat": 19.13084,
+    "lng": 84.75089
+  },
+  {
+    "name": "Sorada",
+    "country": "IN",
+    "lat": 19.76082,
+    "lng": 84.42997
+  },
+  {
+    "name": "Sorab",
+    "country": "IN",
+    "lat": 14.38144,
+    "lng": 75.09183
+  },
+  {
+    "name": "Sopur",
+    "country": "IN",
+    "lat": 34.28671,
+    "lng": 74.47228
+  },
+  {
+    "name": "Sonkach",
+    "country": "IN",
+    "lat": 22.97166,
+    "lng": 76.34667
+  },
+  {
+    "name": "Sonīpat",
+    "country": "IN",
+    "lat": 28.99478,
+    "lng": 77.01937
+  },
+  {
+    "name": "Songadh",
+    "country": "IN",
+    "lat": 21.16966,
+    "lng": 73.56357
+  },
+  {
+    "name": "Sonepur",
+    "country": "IN",
+    "lat": 20.83333,
+    "lng": 83.91667
+  },
+  {
+    "name": "Sonpet",
+    "country": "IN",
+    "lat": 19.02594,
+    "lng": 76.47394
+  },
+  {
+    "name": "Sonegaon",
+    "country": "IN",
+    "lat": 20.62915,
+    "lng": 78.69207
+  },
+  {
+    "name": "Sonāri",
+    "country": "IN",
+    "lat": 27.02462,
+    "lng": 95.01629
+  },
+  {
+    "name": "Sonāmura",
+    "country": "IN",
+    "lat": 23.47547,
+    "lng": 91.2659
+  },
+  {
+    "name": "Sonāmukhi",
+    "country": "IN",
+    "lat": 23.30521,
+    "lng": 87.41336
+  },
+  {
+    "name": "Somvārpet",
+    "country": "IN",
+    "lat": 12.59698,
+    "lng": 75.84957
+  },
+  {
+    "name": "Sompeta",
+    "country": "IN",
+    "lat": 18.94419,
+    "lng": 84.58449
+  },
+  {
+    "name": "Someshwar",
+    "country": "IN",
+    "lat": 13.49112,
+    "lng": 75.06646
+  },
+  {
+    "name": "Solim",
+    "country": "IN",
+    "lat": 15.61521,
+    "lng": 73.7674
+  },
+  {
+    "name": "Solan",
+    "country": "IN",
+    "lat": 30.90908,
+    "lng": 77.10869
+  },
+  {
+    "name": "Sojītra",
+    "country": "IN",
+    "lat": 22.53884,
+    "lng": 72.71984
+  },
+  {
+    "name": "Sojat",
+    "country": "IN",
+    "lat": 25.92493,
+    "lng": 73.66633
+  },
+  {
+    "name": "Sohna",
+    "country": "IN",
+    "lat": 28.24737,
+    "lng": 77.06544
+  },
+  {
+    "name": "Sohela",
+    "country": "IN",
+    "lat": 21.30153,
+    "lng": 83.39797
+  },
+  {
+    "name": "Sohāna",
+    "country": "IN",
+    "lat": 30.68871,
+    "lng": 76.70659
+  },
+  {
+    "name": "Sohāgpur",
+    "country": "IN",
+    "lat": 22.70055,
+    "lng": 78.19522
+  },
+  {
+    "name": "Sohāgi",
+    "country": "IN",
+    "lat": 24.98181,
+    "lng": 81.69558
+  },
+  {
+    "name": "Sodpur",
+    "country": "IN",
+    "lat": 22.70428,
+    "lng": 88.39166
+  },
+  {
+    "name": "Soanpeta",
+    "country": "IN",
+    "lat": 18.96995,
+    "lng": 78.35627
+  },
+  {
+    "name": "Soalkuchi",
+    "country": "IN",
+    "lat": 26.16806,
+    "lng": 91.57111
+  },
+  {
+    "name": "Solap",
+    "country": "IN",
+    "lat": 22.12778,
+    "lng": 88.15861
+  },
+  {
+    "name": "Soyībug",
+    "country": "IN",
+    "lat": 34.07677,
+    "lng": 74.7057
+  },
+  {
+    "name": "Soyatkalan",
+    "country": "IN",
+    "lat": 24.1886,
+    "lng": 76.1778
+  },
+  {
+    "name": "Solakut",
+    "country": "IN",
+    "lat": 34.53909,
+    "lng": 74.25529
+  },
+  {
+    "name": "Sonegaon",
+    "country": "IN",
+    "lat": 21.13669,
+    "lng": 78.99728
+  },
+  {
+    "name": "Sonepur",
+    "country": "IN",
+    "lat": 25.69608,
+    "lng": 85.16669
+  },
+  {
+    "name": "Soyāgaon",
+    "country": "IN",
+    "lat": 20.5525,
+    "lng": 74.50687
+  },
+  {
+    "name": "Somandepalle",
+    "country": "IN",
+    "lat": 14.00774,
+    "lng": 77.60846
+  },
+  {
+    "name": "Somāmpālaiyam",
+    "country": "IN",
+    "lat": 11.04843,
+    "lng": 76.8973
+  },
+  {
+    "name": "Sonari",
+    "country": "IN",
+    "lat": 27.07344,
+    "lng": 95.02753
+  },
+  {
+    "name": "Solsumba",
+    "country": "IN",
+    "lat": 20.15749,
+    "lng": 72.78913
+  },
+  {
+    "name": "Soolakkarai",
+    "country": "IN",
+    "lat": 9.536,
+    "lng": 77.95055
+  },
+  {
+    "name": "South Kannanur",
+    "country": "IN",
+    "lat": 10.91938,
+    "lng": 78.74012
+  },
+  {
+    "name": "Soran",
+    "country": "IQ",
+    "lat": 36.65558,
+    "lng": 44.54217
+  },
+  {
+    "name": "Sorkheh",
+    "country": "IR",
+    "lat": 35.4633,
+    "lng": 53.214
+  },
+  {
+    "name": "Sonqor",
+    "country": "IR",
+    "lat": 34.78187,
+    "lng": 47.59945
+  },
+  {
+    "name": "Solţānābād",
+    "country": "IR",
+    "lat": 36.40352,
+    "lng": 58.03894
+  },
+  {
+    "name": "Soleh Bon",
+    "country": "IR",
+    "lat": 35.76841,
+    "lng": 52.56091
+  },
+  {
+    "name": "Solţānīyeh",
+    "country": "IR",
+    "lat": 36.43318,
+    "lng": 48.79471
+  },
+  {
+    "name": "Soveria Simeri",
+    "country": "IT",
+    "lat": 38.94986,
+    "lng": 16.67854
+  },
+  {
+    "name": "Soveria Mannelli",
+    "country": "IT",
+    "lat": 39.07784,
+    "lng": 16.37708
+  },
+  {
+    "name": "Soverato Superiore",
+    "country": "IT",
+    "lat": 38.68993,
+    "lng": 16.53391
+  },
+  {
+    "name": "Soverato Marina",
+    "country": "IT",
+    "lat": 38.68498,
+    "lng": 16.54991
+  },
+  {
+    "name": "Sortino",
+    "country": "IT",
+    "lat": 37.15881,
+    "lng": 15.02998
+  },
+  {
+    "name": "Soriano Calabro",
+    "country": "IT",
+    "lat": 38.60038,
+    "lng": 16.22205
+  },
+  {
+    "name": "Sorianello",
+    "country": "IT",
+    "lat": 38.59415,
+    "lng": 16.23212
+  },
+  {
+    "name": "Sorbo San Basile",
+    "country": "IT",
+    "lat": 39.01939,
+    "lng": 16.5691
+  },
+  {
+    "name": "Sommatino",
+    "country": "IT",
+    "lat": 37.33471,
+    "lng": 13.99739
+  },
+  {
+    "name": "Soleminis",
+    "country": "IT",
+    "lat": 39.3476,
+    "lng": 9.18127
+  },
+  {
+    "name": "Solarussa",
+    "country": "IT",
+    "lat": 39.95499,
+    "lng": 8.67393
+  },
+  {
+    "name": "Solarino",
+    "country": "IT",
+    "lat": 37.10136,
+    "lng": 15.11988
+  },
+  {
+    "name": "Solanas",
+    "country": "IT",
+    "lat": 39.93031,
+    "lng": 8.5534
+  },
+  {
+    "name": "Sozzago",
+    "country": "IT",
+    "lat": 45.39832,
+    "lng": 8.72271
+  },
+  {
+    "name": "Sovicille",
+    "country": "IT",
+    "lat": 43.28033,
+    "lng": 11.22828
+  },
+  {
+    "name": "Soverzene",
+    "country": "IT",
+    "lat": 46.20331,
+    "lng": 12.30301
+  },
+  {
+    "name": "Sovere",
+    "country": "IT",
+    "lat": 45.81188,
+    "lng": 10.03438
+  },
+  {
+    "name": "Sotto il Monte Giovanni XXIII",
+    "country": "IT",
+    "lat": 45.70568,
+    "lng": 9.50345
+  },
+  {
+    "name": "Sossano",
+    "country": "IT",
+    "lat": 45.35754,
+    "lng": 11.50819
+  },
+  {
+    "name": "Sospirolo",
+    "country": "IT",
+    "lat": 46.14134,
+    "lng": 12.07365
+  },
+  {
+    "name": "Sospiro",
+    "country": "IT",
+    "lat": 45.10762,
+    "lng": 10.15853
+  },
+  {
+    "name": "Sorso",
+    "country": "IT",
+    "lat": 40.79949,
+    "lng": 8.5757
+  },
+  {
+    "name": "Sorrento",
+    "country": "IT",
+    "lat": 40.62678,
+    "lng": 14.37771
+  },
+  {
+    "name": "Sorradile",
+    "country": "IT",
+    "lat": 40.10634,
+    "lng": 8.93236
+  },
+  {
+    "name": "Sormano",
+    "country": "IT",
+    "lat": 45.87803,
+    "lng": 9.24582
+  },
+  {
+    "name": "Sorisole",
+    "country": "IT",
+    "lat": 45.7314,
+    "lng": 9.63715
+  },
+  {
+    "name": "Soriano nel Cimino",
+    "country": "IT",
+    "lat": 42.4182,
+    "lng": 12.23414
+  },
+  {
+    "name": "Sori",
+    "country": "IT",
+    "lat": 44.37301,
+    "lng": 9.1047
+  },
+  {
+    "name": "Sorgono",
+    "country": "IT",
+    "lat": 40.02595,
+    "lng": 9.10203
+  },
+  {
+    "name": "Soresina",
+    "country": "IT",
+    "lat": 45.28819,
+    "lng": 9.85862
+  },
+  {
+    "name": "Sordevolo",
+    "country": "IT",
+    "lat": 45.57346,
+    "lng": 7.97342
+  },
+  {
+    "name": "Sorbo Serpico",
+    "country": "IT",
+    "lat": 40.91685,
+    "lng": 14.88709
+  },
+  {
+    "name": "Sorbolo",
+    "country": "IT",
+    "lat": 44.84587,
+    "lng": 10.44375
+  },
+  {
+    "name": "Sorbara",
+    "country": "IT",
+    "lat": 44.74808,
+    "lng": 11.00731
+  },
+  {
+    "name": "Sorano",
+    "country": "IT",
+    "lat": 42.68118,
+    "lng": 11.71943
+  },
+  {
+    "name": "Soragna",
+    "country": "IT",
+    "lat": 44.92686,
+    "lng": 10.12013
+  },
+  {
+    "name": "Sora",
+    "country": "IT",
+    "lat": 41.71829,
+    "lng": 13.61356
+  },
+  {
+    "name": "Soprabolzano",
+    "country": "IT",
+    "lat": 46.52899,
+    "lng": 11.40408
+  },
+  {
+    "name": "Sonnino",
+    "country": "IT",
+    "lat": 41.41673,
+    "lng": 13.24592
+  },
+  {
+    "name": "Sonico",
+    "country": "IT",
+    "lat": 46.1664,
+    "lng": 10.35071
+  },
+  {
+    "name": "Sondrio",
+    "country": "IT",
+    "lat": 46.16852,
+    "lng": 9.87134
+  },
+  {
+    "name": "Sondalo",
+    "country": "IT",
+    "lat": 46.32983,
+    "lng": 10.3269
+  },
+  {
+    "name": "Soncino",
+    "country": "IT",
+    "lat": 45.40033,
+    "lng": 9.86845
+  },
+  {
+    "name": "Sona",
+    "country": "IT",
+    "lat": 45.43271,
+    "lng": 10.8399
+  },
+  {
+    "name": "Somma Vesuviana",
+    "country": "IT",
+    "lat": 40.87329,
+    "lng": 14.43865
+  },
+  {
+    "name": "Sommariva Perno",
+    "country": "IT",
+    "lat": 44.74564,
+    "lng": 7.90063
+  },
+  {
+    "name": "Sommariva del Bosco",
+    "country": "IT",
+    "lat": 44.77257,
+    "lng": 7.78177
+  },
+  {
+    "name": "Somma Lombardo",
+    "country": "IT",
+    "lat": 45.68213,
+    "lng": 8.70759
+  },
+  {
+    "name": "Sommacampagna",
+    "country": "IT",
+    "lat": 45.40528,
+    "lng": 10.84382
+  },
+  {
+    "name": "Solto Collina",
+    "country": "IT",
+    "lat": 45.7823,
+    "lng": 10.02638
+  },
+  {
+    "name": "Solopaca",
+    "country": "IT",
+    "lat": 41.19535,
+    "lng": 14.54767
+  },
+  {
+    "name": "Solofra",
+    "country": "IT",
+    "lat": 40.83343,
+    "lng": 14.83705
+  },
+  {
+    "name": "Solignano Nuovo",
+    "country": "IT",
+    "lat": 44.52746,
+    "lng": 10.92626
+  },
+  {
+    "name": "Soliera",
+    "country": "IT",
+    "lat": 44.73387,
+    "lng": 10.92177
+  },
+  {
+    "name": "Solferino",
+    "country": "IT",
+    "lat": 45.37236,
+    "lng": 10.56648
+  },
+  {
+    "name": "Soleto",
+    "country": "IT",
+    "lat": 40.18781,
+    "lng": 18.2063
+  },
+  {
+    "name": "Solesino",
+    "country": "IT",
+    "lat": 45.17922,
+    "lng": 11.74647
+  },
+  {
+    "name": "Solero",
+    "country": "IT",
+    "lat": 44.91835,
+    "lng": 8.50754
+  },
+  {
+    "name": "Soldano",
+    "country": "IT",
+    "lat": 43.82954,
+    "lng": 7.65627
+  },
+  {
+    "name": "Solbiate Olona",
+    "country": "IT",
+    "lat": 45.65028,
+    "lng": 8.88198
+  },
+  {
+    "name": "Solbiate Arno",
+    "country": "IT",
+    "lat": 45.7196,
+    "lng": 8.81372
+  },
+  {
+    "name": "Solarolo Rainerio",
+    "country": "IT",
+    "lat": 45.08126,
+    "lng": 10.35711
+  },
+  {
+    "name": "Solarolo",
+    "country": "IT",
+    "lat": 44.35892,
+    "lng": 11.84661
+  },
+  {
+    "name": "Solaro",
+    "country": "IT",
+    "lat": 45.61427,
+    "lng": 9.08304
+  },
+  {
+    "name": "Solaro",
+    "country": "IT",
+    "lat": 44.8799,
+    "lng": 9.17315
+  },
+  {
+    "name": "Solagna",
+    "country": "IT",
+    "lat": 45.81951,
+    "lng": 11.71787
+  },
+  {
+    "name": "Sogliano Cavour",
+    "country": "IT",
+    "lat": 40.14827,
+    "lng": 18.19741
+  },
+  {
+    "name": "Sogliano al Rubicone",
+    "country": "IT",
+    "lat": 44.005,
+    "lng": 12.30122
+  },
+  {
+    "name": "Soddì",
+    "country": "IT",
+    "lat": 40.12991,
+    "lng": 8.87798
+  },
+  {
+    "name": "Soci",
+    "country": "IT",
+    "lat": 43.72821,
+    "lng": 11.81096
+  },
+  {
+    "name": "Soccavo",
+    "country": "IT",
+    "lat": 40.8455,
+    "lng": 14.19262
+  },
+  {
+    "name": "Soave",
+    "country": "IT",
+    "lat": 45.41955,
+    "lng": 11.24594
+  },
+  {
+    "name": "Soave",
+    "country": "IT",
+    "lat": 45.19509,
+    "lng": 10.72365
+  },
+  {
+    "name": "Soccher-Paiane-Casan-Arsie",
+    "country": "IT",
+    "lat": 46.1812,
+    "lng": 12.31001
+  },
+  {
+    "name": "Sottoselva",
+    "country": "IT",
+    "lat": 45.91134,
+    "lng": 13.32416
+  },
+  {
+    "name": "Solbiate",
+    "country": "IT",
+    "lat": 45.78968,
+    "lng": 8.93314
+  },
+  {
+    "name": "Soraga",
+    "country": "IT",
+    "lat": 46.39462,
+    "lng": 11.66619
+  },
+  {
+    "name": "Sover",
+    "country": "IT",
+    "lat": 46.22171,
+    "lng": 11.31568
+  },
+  {
+    "name": "Sovramonte",
+    "country": "IT",
+    "lat": 46.05861,
+    "lng": 11.7866
+  },
+  {
+    "name": "Soiano",
+    "country": "IT",
+    "lat": 45.52778,
+    "lng": 10.51267
+  },
+  {
+    "name": "Soprana",
+    "country": "IT",
+    "lat": 45.63947,
+    "lng": 8.19892
+  },
+  {
+    "name": "Soglio",
+    "country": "IT",
+    "lat": 44.99625,
+    "lng": 8.07843
+  },
+  {
+    "name": "Solonghello",
+    "country": "IT",
+    "lat": 45.12905,
+    "lng": 8.28323
+  },
+  {
+    "name": "Solignano",
+    "country": "IT",
+    "lat": 44.61306,
+    "lng": 9.97548
+  },
+  {
+    "name": "Sovico",
+    "country": "IT",
+    "lat": 45.64598,
+    "lng": 9.26275
+  },
+  {
+    "name": "Songavazzo",
+    "country": "IT",
+    "lat": 45.87949,
+    "lng": 9.98956
+  },
+  {
+    "name": "Sommo",
+    "country": "IT",
+    "lat": 45.13316,
+    "lng": 9.08655
+  },
+  {
+    "name": "Soriso",
+    "country": "IT",
+    "lat": 45.74037,
+    "lng": 8.40953
+  },
+  {
+    "name": "Sostegno",
+    "country": "IT",
+    "lat": 45.65287,
+    "lng": 8.26982
+  },
+  {
+    "name": "Sordio",
+    "country": "IT",
+    "lat": 45.34217,
+    "lng": 9.36385
+  },
+  {
+    "name": "Somano",
+    "country": "IT",
+    "lat": 44.53534,
+    "lng": 8.00784
+  },
+  {
+    "name": "Sorgà",
+    "country": "IT",
+    "lat": 45.21328,
+    "lng": 10.97989
+  },
+  {
+    "name": "Sovizzo",
+    "country": "IT",
+    "lat": 45.52669,
+    "lng": 11.4461
+  },
+  {
+    "name": "Somaglia",
+    "country": "IT",
+    "lat": 45.14947,
+    "lng": 9.63346
+  },
+  {
+    "name": "Sorico",
+    "country": "IT",
+    "lat": 46.17259,
+    "lng": 9.38404
+  },
+  {
+    "name": "Solza",
+    "country": "IT",
+    "lat": 45.67868,
+    "lng": 9.49075
+  },
+  {
+    "name": "Solarolo",
+    "country": "IT",
+    "lat": 45.55047,
+    "lng": 10.55489
+  },
+  {
+    "name": "Solara",
+    "country": "IT",
+    "lat": 44.77163,
+    "lng": 11.09287
+  },
+  {
+    "name": "Sottocastello",
+    "country": "IT",
+    "lat": 45.6672,
+    "lng": 10.39416
+  },
+  {
+    "name": "Southfield",
+    "country": "JM",
+    "lat": 17.8878,
+    "lng": -77.66713
+  },
+  {
+    "name": "Sonogishukugō",
+    "country": "JP",
+    "lat": 33.03689,
+    "lng": 129.91964
+  },
+  {
+    "name": "Soeda",
+    "country": "JP",
+    "lat": 33.57177,
+    "lng": 130.85403
+  },
+  {
+    "name": "Sobue",
+    "country": "JP",
+    "lat": 35.25,
+    "lng": 136.71667
+  },
+  {
+    "name": "Sonobe",
+    "country": "JP",
+    "lat": 33.42379,
+    "lng": 130.49925
+  },
+  {
+    "name": "Sodegaura",
+    "country": "JP",
+    "lat": 35.41368,
+    "lng": 140.02135
+  },
+  {
+    "name": "Soo",
+    "country": "JP",
+    "lat": 31.64637,
+    "lng": 130.99068
+  },
+  {
+    "name": "South Kinangop",
+    "country": "KE",
+    "lat": -0.7264,
+    "lng": 36.65258
+  },
+  {
+    "name": "Sotik",
+    "country": "KE",
+    "lat": -0.69069,
+    "lng": 35.11102
+  },
+  {
+    "name": "Sondu",
+    "country": "KE",
+    "lat": -0.3906,
+    "lng": 35.01266
+  },
+  {
+    "name": "Sololo",
+    "country": "KE",
+    "lat": 3.56392,
+    "lng": 38.64321
+  },
+  {
+    "name": "Sori",
+    "country": "KE",
+    "lat": -0.8409,
+    "lng": 34.15978
+  },
+  {
+    "name": "Sosnovka",
+    "country": "KG",
+    "lat": 42.63707,
+    "lng": 73.89608
+  },
+  {
+    "name": "Sokuluk",
+    "country": "KG",
+    "lat": 42.85401,
+    "lng": 74.30257
+  },
+  {
+    "name": "Soutr Nikom",
+    "country": "KH",
+    "lat": 13.23879,
+    "lng": 104.13784
+  },
+  {
+    "name": "Songnim-ni",
+    "country": "KP",
+    "lat": 38.76349,
+    "lng": 125.64096
+  },
+  {
+    "name": "Songhwa",
+    "country": "KP",
+    "lat": 38.36028,
+    "lng": 125.13722
+  },
+  {
+    "name": "Songwŏn",
+    "country": "KP",
+    "lat": 40.37704,
+    "lng": 125.87867
+  },
+  {
+    "name": "Songwŏn-ŭp",
+    "country": "KP",
+    "lat": 40.37278,
+    "lng": 126.30833
+  },
+  {
+    "name": "Sokcho",
+    "country": "KR",
+    "lat": 38.20701,
+    "lng": 128.59181
+  },
+  {
+    "name": "Songgangdong",
+    "country": "KR",
+    "lat": 36.43387,
+    "lng": 127.37587
+  },
+  {
+    "name": "Songhae",
+    "country": "KR",
+    "lat": 37.7636,
+    "lng": 126.46577
+  },
+  {
+    "name": "Songgwang",
+    "country": "KR",
+    "lat": 34.97504,
+    "lng": 127.26377
+  },
+  {
+    "name": "Soufrière",
+    "country": "LC",
+    "lat": 13.85616,
+    "lng": -61.0566
+  },
+  {
+    "name": "Soleuvre",
+    "country": "LU",
+    "lat": 49.52148,
+    "lng": 5.93781
+  },
+  {
+    "name": "Souq Larb’a al Gharb",
+    "country": "MA",
+    "lat": 34.68664,
+    "lng": -6.00272
+  },
+  {
+    "name": "Souq at Tlata des Loulad",
+    "country": "MA",
+    "lat": 32.99471,
+    "lng": -7.11982
+  },
+  {
+    "name": "Souq Sebt Oulad Nemma",
+    "country": "MA",
+    "lat": 32.2973,
+    "lng": -6.70301
+  },
+  {
+    "name": "Souk et Tnine Jorf el Mellah",
+    "country": "MA",
+    "lat": 34.49162,
+    "lng": -5.50846
+  },
+  {
+    "name": "Souq Al Had Bradya",
+    "country": "MA",
+    "lat": 32.44928,
+    "lng": -6.5366
+  },
+  {
+    "name": "Souq Khmis Aït Yadine",
+    "country": "MA",
+    "lat": 33.9716,
+    "lng": -6.01689
+  },
+  {
+    "name": "Souk El Arba Des Aït Baha",
+    "country": "MA",
+    "lat": 30.06958,
+    "lng": -9.15465
+  },
+  {
+    "name": "Souq al Had",
+    "country": "MA",
+    "lat": 33.2923,
+    "lng": -5.49078
+  },
+  {
+    "name": "Souk El Arbaa",
+    "country": "MA",
+    "lat": 34.68473,
+    "lng": -6.00344
+  },
+  {
+    "name": "Soroca",
+    "country": "MD",
+    "lat": 48.15659,
+    "lng": 28.28489
+  },
+  {
+    "name": "Soavinandriana",
+    "country": "MG",
+    "lat": -19.16667,
+    "lng": 46.73333
+  },
+  {
+    "name": "Soanindrariny",
+    "country": "MG",
+    "lat": -19.9,
+    "lng": 47.23333
+  },
+  {
+    "name": "Soanierana Ivongo",
+    "country": "MG",
+    "lat": -16.91667,
+    "lng": 49.58333
+  },
+  {
+    "name": "Soalala",
+    "country": "MG",
+    "lat": -16.1,
+    "lng": 45.31667
+  },
+  {
+    "name": "Sopotnica",
+    "country": "MK",
+    "lat": 41.29594,
+    "lng": 21.15357
+  },
+  {
+    "name": "Sopište",
+    "country": "MK",
+    "lat": 41.95561,
+    "lng": 21.42942
+  },
+  {
+    "name": "Sokolo",
+    "country": "ML",
+    "lat": 14.7328,
+    "lng": -6.1219
+  },
+  {
+    "name": "Souillac",
+    "country": "MU",
+    "lat": -20.51667,
+    "lng": 57.51667
+  },
+  {
+    "name": "Soyatitán",
+    "country": "MX",
+    "lat": 16.29427,
+    "lng": -92.42402
+  },
+  {
+    "name": "Soyataco",
+    "country": "MX",
+    "lat": 18.20974,
+    "lng": -93.07445
+  },
+  {
+    "name": "Soyaniquilpan",
+    "country": "MX",
+    "lat": 20.01488,
+    "lng": -99.53022
+  },
+  {
+    "name": "Soyaló",
+    "country": "MX",
+    "lat": 16.8905,
+    "lng": -92.92401
+  },
+  {
+    "name": "Sotuta",
+    "country": "MX",
+    "lat": 20.59678,
+    "lng": -89.00815
+  },
+  {
+    "name": "Soto la Marina",
+    "country": "MX",
+    "lat": 23.76922,
+    "lng": -98.20525
+  },
+  {
+    "name": "Soteapan",
+    "country": "MX",
+    "lat": 18.23391,
+    "lng": -94.87296
+  },
+  {
+    "name": "Sontecomapan",
+    "country": "MX",
+    "lat": 18.50289,
+    "lng": -95.03507
+  },
+  {
+    "name": "Solosuchiapa",
+    "country": "MX",
+    "lat": 17.42893,
+    "lng": -93.03217
+  },
+  {
+    "name": "Soltepec",
+    "country": "MX",
+    "lat": 19.12111,
+    "lng": -97.70861
+  },
+  {
+    "name": "Soledad de Doblado",
+    "country": "MX",
+    "lat": 19.04637,
+    "lng": -96.42142
+  },
+  {
+    "name": "Soconusco",
+    "country": "MX",
+    "lat": 17.96315,
+    "lng": -94.88097
+  },
+  {
+    "name": "Soconusco",
+    "country": "MX",
+    "lat": 15.31502,
+    "lng": -92.72645
+  },
+  {
+    "name": "Socoltenango",
+    "country": "MX",
+    "lat": 16.24498,
+    "lng": -92.35008
+  },
+  {
+    "name": "Sochiapa",
+    "country": "MX",
+    "lat": 19.19292,
+    "lng": -96.93989
+  },
+  {
+    "name": "Soyaltepec",
+    "country": "MX",
+    "lat": 17.59174,
+    "lng": -97.30819
+  },
+  {
+    "name": "Soledad Atzompa",
+    "country": "MX",
+    "lat": 18.75499,
+    "lng": -97.1504
+  },
+  {
+    "name": "Soledad Atzompa",
+    "country": "MX",
+    "lat": 18.72559,
+    "lng": -97.18447
+  },
+  {
+    "name": "Soledad Salinas",
+    "country": "MX",
+    "lat": 16.66229,
+    "lng": -96.00266
+  },
+  {
+    "name": "Soledad Morelos",
+    "country": "MX",
+    "lat": 18.82808,
+    "lng": -98.48952
+  },
+  {
+    "name": "Sonora",
+    "country": "MX",
+    "lat": 19.11219,
+    "lng": -96.63531
+  },
+  {
+    "name": "Soyopa",
+    "country": "MX",
+    "lat": 28.76339,
+    "lng": -109.63526
+  },
+  {
+    "name": "Soyatlán del Oro",
+    "country": "MX",
+    "lat": 20.30194,
+    "lng": -104.28056
+  },
+  {
+    "name": "Sotelo",
+    "country": "MX",
+    "lat": 20.45773,
+    "lng": -101.07766
+  },
+  {
+    "name": "Sonoyta",
+    "country": "MX",
+    "lat": 31.86323,
+    "lng": -112.85012
+  },
+  {
+    "name": "Sombrerete",
+    "country": "MX",
+    "lat": 23.63138,
+    "lng": -103.64134
+  },
+  {
+    "name": "Solima",
+    "country": "MX",
+    "lat": 25.66307,
+    "lng": -103.27523
+  },
+  {
+    "name": "Soledad Nueva",
+    "country": "MX",
+    "lat": 21.27942,
+    "lng": -100.92249
+  },
+  {
+    "name": "Soledad de Graciano Sánchez",
+    "country": "MX",
+    "lat": 22.18912,
+    "lng": -100.93792
+  },
+  {
+    "name": "Socavón (El Carmen)",
+    "country": "MX",
+    "lat": 21.85139,
+    "lng": -100.87184
+  },
+  {
+    "name": "Sosa",
+    "country": "MX",
+    "lat": 19.80111,
+    "lng": -97.39611
+  },
+  {
+    "name": "Solalpan 1ra. Sección",
+    "country": "MX",
+    "lat": 19.49278,
+    "lng": -99.57444
+  },
+  {
+    "name": "Soyatlán de Afuera",
+    "country": "MX",
+    "lat": 19.69083,
+    "lng": -103.28278
+  },
+  {
+    "name": "Soyata",
+    "country": "MX",
+    "lat": 18.36889,
+    "lng": -95.28222
+  },
+  {
+    "name": "Song",
+    "country": "MY",
+    "lat": 2.01667,
+    "lng": 112.55
+  },
+  {
+    "name": "Songo",
+    "country": "MZ",
+    "lat": -15.59583,
+    "lng": 32.76472
+  },
+  {
+    "name": "Song",
+    "country": "NG",
+    "lat": 9.82675,
+    "lng": 12.6238
+  },
+  {
+    "name": "Sokoto",
+    "country": "NG",
+    "lat": 13.06269,
+    "lng": 5.24322
+  },
+  {
+    "name": "Soba",
+    "country": "NG",
+    "lat": 10.98133,
+    "lng": 8.05749
+  },
+  {
+    "name": "Sofo-Birnin-Gwari",
+    "country": "NG",
+    "lat": 11.01537,
+    "lng": 6.78036
+  },
+  {
+    "name": "Somoto",
+    "country": "NI",
+    "lat": 13.4841,
+    "lng": -86.58229
+  },
+  {
+    "name": "Somotillo",
+    "country": "NI",
+    "lat": 13.04387,
+    "lng": -86.90506
+  },
+  {
+    "name": "Son",
+    "country": "NL",
+    "lat": 51.51136,
+    "lng": 5.49282
+  },
+  {
+    "name": "Someren-Eind",
+    "country": "NL",
+    "lat": 51.3575,
+    "lng": 5.73333
+  },
+  {
+    "name": "Someren",
+    "country": "NL",
+    "lat": 51.385,
+    "lng": 5.71111
+  },
+  {
+    "name": "Soesterberg",
+    "country": "NL",
+    "lat": 52.11833,
+    "lng": 5.28611
+  },
+  {
+    "name": "Soestdijk",
+    "country": "NL",
+    "lat": 52.19083,
+    "lng": 5.28472
+  },
+  {
+    "name": "Soest",
+    "country": "NL",
+    "lat": 52.17333,
+    "lng": 5.29167
+  },
+  {
+    "name": "Soerendonk",
+    "country": "NL",
+    "lat": 51.30083,
+    "lng": 5.575
+  },
+  {
+    "name": "Son en Breugel",
+    "country": "NL",
+    "lat": 51.51654,
+    "lng": 5.49608
+  },
+  {
+    "name": "Sortland",
+    "country": "NO",
+    "lat": 68.69569,
+    "lng": 15.40498
+  },
+  {
+    "name": "Solfjellsjøen",
+    "country": "NO",
+    "lat": 66.11667,
+    "lng": 12.48333
+  },
+  {
+    "name": "Sola",
+    "country": "NO",
+    "lat": 58.88854,
+    "lng": 5.65285
+  },
+  {
+    "name": "Sogndalsfjøra",
+    "country": "NO",
+    "lat": 61.22575,
+    "lng": 7.10178
+  },
+  {
+    "name": "Sogndal",
+    "country": "NO",
+    "lat": 61.22908,
+    "lng": 7.09674
+  },
+  {
+    "name": "Southbridge",
+    "country": "NZ",
+    "lat": -43.81667,
+    "lng": 172.25
+  },
+  {
+    "name": "South Dunedin",
+    "country": "NZ",
+    "lat": -45.88838,
+    "lng": 170.4901
+  },
+  {
+    "name": "Sockburn",
+    "country": "NZ",
+    "lat": -43.53263,
+    "lng": 172.55731
+  },
+  {
+    "name": "South New Brighton",
+    "country": "NZ",
+    "lat": -43.51833,
+    "lng": 172.73013
+  },
+  {
+    "name": "Somerfield",
+    "country": "NZ",
+    "lat": -43.55931,
+    "lng": 172.63131
+  },
+  {
+    "name": "Southshore",
+    "country": "NZ",
+    "lat": -43.5513,
+    "lng": 172.74839
+  },
+  {
+    "name": "Solway",
+    "country": "NZ",
+    "lat": -40.95827,
+    "lng": 175.6102
+  },
+  {
+    "name": "Sohar",
+    "country": "OM",
+    "lat": 24.34745,
+    "lng": 56.70937
+  },
+  {
+    "name": "Sortová",
+    "country": "PA",
+    "lat": 8.55109,
+    "lng": -82.65094
+  },
+  {
+    "name": "Sorá",
+    "country": "PA",
+    "lat": 8.63451,
+    "lng": -80.0093
+  },
+  {
+    "name": "Soná",
+    "country": "PA",
+    "lat": 8.00877,
+    "lng": -81.31727
+  },
+  {
+    "name": "Soloy",
+    "country": "PA",
+    "lat": 8.49692,
+    "lng": -82.07202
+  },
+  {
+    "name": "Sorochuco",
+    "country": "PE",
+    "lat": -6.91169,
+    "lng": -78.25513
+  },
+  {
+    "name": "Soritor",
+    "country": "PE",
+    "lat": -6.13917,
+    "lng": -77.10389
+  },
+  {
+    "name": "Sondorillo",
+    "country": "PE",
+    "lat": -5.33921,
+    "lng": -79.42888
+  },
+  {
+    "name": "Sondor",
+    "country": "PE",
+    "lat": -5.31502,
+    "lng": -79.41064
+  },
+  {
+    "name": "Soloco",
+    "country": "PE",
+    "lat": -6.26222,
+    "lng": -77.74444
+  },
+  {
+    "name": "Sojo",
+    "country": "PE",
+    "lat": -4.90083,
+    "lng": -80.81583
+  },
+  {
+    "name": "Socota",
+    "country": "PE",
+    "lat": -6.31536,
+    "lng": -78.69964
+  },
+  {
+    "name": "Soraya",
+    "country": "PE",
+    "lat": -14.16496,
+    "lng": -73.31498
+  },
+  {
+    "name": "Soras",
+    "country": "PE",
+    "lat": -14.115,
+    "lng": -73.60444
+  },
+  {
+    "name": "Socos",
+    "country": "PE",
+    "lat": -13.21454,
+    "lng": -74.28924
+  },
+  {
+    "name": "Socabaya",
+    "country": "PE",
+    "lat": -16.47025,
+    "lng": -71.52758
+  },
+  {
+    "name": "Soplín Vargas",
+    "country": "PE",
+    "lat": -0.37293,
+    "lng": -74.67558
+  },
+  {
+    "name": "Soyung",
+    "country": "PH",
+    "lat": 16.7001,
+    "lng": 121.6655
+  },
+  {
+    "name": "South Upi",
+    "country": "PH",
+    "lat": 6.83333,
+    "lng": 124.15
+  },
+  {
+    "name": "Sorsogon",
+    "country": "PH",
+    "lat": 12.97389,
+    "lng": 123.99333
+  },
+  {
+    "name": "Songculan",
+    "country": "PH",
+    "lat": 9.62965,
+    "lng": 123.82897
+  },
+  {
+    "name": "Solsona",
+    "country": "PH",
+    "lat": 18.09333,
+    "lng": 120.76972
+  },
+  {
+    "name": "Solo",
+    "country": "PH",
+    "lat": 13.74691,
+    "lng": 120.90119
+  },
+  {
+    "name": "Soledad",
+    "country": "PH",
+    "lat": 15.42838,
+    "lng": 120.98355
+  },
+  {
+    "name": "Solano",
+    "country": "PH",
+    "lat": 16.51918,
+    "lng": 121.18124
+  },
+  {
+    "name": "Solana",
+    "country": "PH",
+    "lat": 17.6528,
+    "lng": 121.691
+  },
+  {
+    "name": "Solana",
+    "country": "PH",
+    "lat": 8.62306,
+    "lng": 124.77056
+  },
+  {
+    "name": "Sogod",
+    "country": "PH",
+    "lat": 13.83333,
+    "lng": 123.31667
+  },
+  {
+    "name": "Sogod",
+    "country": "PH",
+    "lat": 12.37635,
+    "lng": 122.66368
+  },
+  {
+    "name": "Sogod",
+    "country": "PH",
+    "lat": 10.75083,
+    "lng": 123.99472
+  },
+  {
+    "name": "Sogod",
+    "country": "PH",
+    "lat": 10.3847,
+    "lng": 124.9814
+  },
+  {
+    "name": "Socorro",
+    "country": "PH",
+    "lat": 13.0669,
+    "lng": 121.39858
+  },
+  {
+    "name": "Socorro",
+    "country": "PH",
+    "lat": 9.61806,
+    "lng": 125.96598
+  },
+  {
+    "name": "Sonquil",
+    "country": "PH",
+    "lat": 15.98814,
+    "lng": 120.39057
+  },
+  {
+    "name": "Sohbatpur",
+    "country": "PK",
+    "lat": 28.52038,
+    "lng": 68.54298
+  },
+  {
+    "name": "Sodhri",
+    "country": "PK",
+    "lat": 32.46211,
+    "lng": 74.18207
+  },
+  {
+    "name": "Sobhodero",
+    "country": "PK",
+    "lat": 27.30475,
+    "lng": 68.39715
+  },
+  {
+    "name": "Sook Kalan",
+    "country": "PK",
+    "lat": 32.59702,
+    "lng": 74.14652
+  },
+  {
+    "name": "Sosnówka",
+    "country": "PL",
+    "lat": 51.75084,
+    "lng": 23.33814
+  },
+  {
+    "name": "Sosnowica",
+    "country": "PL",
+    "lat": 51.52065,
+    "lng": 23.09215
+  },
+  {
+    "name": "Sośnica",
+    "country": "PL",
+    "lat": 49.90083,
+    "lng": 22.87469
+  },
+  {
+    "name": "Sońsk",
+    "country": "PL",
+    "lat": 52.78164,
+    "lng": 20.69901
+  },
+  {
+    "name": "Sonina",
+    "country": "PL",
+    "lat": 50.06089,
+    "lng": 22.26551
+  },
+  {
+    "name": "Solec-Zdrój",
+    "country": "PL",
+    "lat": 50.36594,
+    "lng": 20.88956
+  },
+  {
+    "name": "Solec Nad Wisłą",
+    "country": "PL",
+    "lat": 51.13633,
+    "lng": 21.76563
+  },
+  {
+    "name": "Sokoły",
+    "country": "PL",
+    "lat": 52.99314,
+    "lng": 22.7005
+  },
+  {
+    "name": "Sokołów Podlaski",
+    "country": "PL",
+    "lat": 52.40677,
+    "lng": 22.25307
+  },
+  {
+    "name": "Sokołów Małopolski",
+    "country": "PL",
+    "lat": 50.22909,
+    "lng": 22.11968
+  },
+  {
+    "name": "Sokolniki",
+    "country": "PL",
+    "lat": 50.63803,
+    "lng": 21.80649
+  },
+  {
+    "name": "Sokółka",
+    "country": "PL",
+    "lat": 53.40715,
+    "lng": 23.50228
+  },
+  {
+    "name": "Sochocin",
+    "country": "PL",
+    "lat": 52.68715,
+    "lng": 20.47259
+  },
+  {
+    "name": "Sochaczew",
+    "country": "PL",
+    "lat": 52.22944,
+    "lng": 20.23838
+  },
+  {
+    "name": "Sobolew",
+    "country": "PL",
+    "lat": 51.7366,
+    "lng": 21.66349
+  },
+  {
+    "name": "Sobków",
+    "country": "PL",
+    "lat": 50.69999,
+    "lng": 20.45062
+  },
+  {
+    "name": "Sobienie Jeziory",
+    "country": "PL",
+    "lat": 51.93273,
+    "lng": 21.30335
+  },
+  {
+    "name": "Sosnówka",
+    "country": "PL",
+    "lat": 50.8183,
+    "lng": 15.72315
+  },
+  {
+    "name": "Sosnowiec",
+    "country": "PL",
+    "lat": 50.28682,
+    "lng": 19.10385
+  },
+  {
+    "name": "Sosnowice",
+    "country": "PL",
+    "lat": 49.93995,
+    "lng": 19.71514
+  },
+  {
+    "name": "Sośno",
+    "country": "PL",
+    "lat": 53.38922,
+    "lng": 17.68713
+  },
+  {
+    "name": "Sośnie",
+    "country": "PL",
+    "lat": 51.47315,
+    "lng": 17.63383
+  },
+  {
+    "name": "Sośnicowice",
+    "country": "PL",
+    "lat": 50.27214,
+    "lng": 18.52982
+  },
+  {
+    "name": "Sopotnia Wielka",
+    "country": "PL",
+    "lat": 49.56853,
+    "lng": 19.28289
+  },
+  {
+    "name": "Sopot",
+    "country": "PL",
+    "lat": 54.4418,
+    "lng": 18.56003
+  },
+  {
+    "name": "Sompolno",
+    "country": "PL",
+    "lat": 52.38832,
+    "lng": 18.50282
+  },
+  {
+    "name": "Somonino",
+    "country": "PL",
+    "lat": 54.27555,
+    "lng": 18.19885
+  },
+  {
+    "name": "Solec Kujawski",
+    "country": "PL",
+    "lat": 53.08371,
+    "lng": 18.22572
+  },
+  {
+    "name": "Sokolniki",
+    "country": "PL",
+    "lat": 51.30738,
+    "lng": 18.33275
+  },
+  {
+    "name": "Sobótka",
+    "country": "PL",
+    "lat": 50.89992,
+    "lng": 16.74441
+  },
+  {
+    "name": "Sołtysowice",
+    "country": "PL",
+    "lat": 51.15282,
+    "lng": 17.07103
+  },
+  {
+    "name": "Souto da Carpalhosa",
+    "country": "PT",
+    "lat": 39.84867,
+    "lng": -8.83506
+  },
+  {
+    "name": "Sobreda",
+    "country": "PT",
+    "lat": 38.64961,
+    "lng": -9.18977
+  },
+  {
+    "name": "Sobralinho",
+    "country": "PT",
+    "lat": 38.91703,
+    "lng": -9.02656
+  },
+  {
+    "name": "Sobral de Monte Agraço",
+    "country": "PT",
+    "lat": 39.01958,
+    "lng": -9.15081
+  },
+  {
+    "name": "Souto",
+    "country": "PT",
+    "lat": 40.98496,
+    "lng": -8.62185
+  },
+  {
+    "name": "Soure",
+    "country": "PT",
+    "lat": 40.05989,
+    "lng": -8.62605
+  },
+  {
+    "name": "Sol Posto",
+    "country": "PT",
+    "lat": 40.63339,
+    "lng": -8.61794
+  },
+  {
+    "name": "Sobreposta",
+    "country": "PT",
+    "lat": 41.55348,
+    "lng": -8.33604
+  },
+  {
+    "name": "Sobreira",
+    "country": "PT",
+    "lat": 41.52371,
+    "lng": -7.80234
+  },
+  {
+    "name": "Sobrado",
+    "country": "PT",
+    "lat": 41.21041,
+    "lng": -8.45488
+  },
+  {
+    "name": "Sonsorol Village",
+    "country": "PW",
+    "lat": 5.32608,
+    "lng": 132.21943
+  },
+  {
+    "name": "Sovata",
+    "country": "RO",
+    "lat": 46.58333,
+    "lng": 25.06667
+  },
+  {
+    "name": "Sopot",
+    "country": "RO",
+    "lat": 44.41667,
+    "lng": 23.5
+  },
+  {
+    "name": "Soporu de Câmpie",
+    "country": "RO",
+    "lat": 46.69618,
+    "lng": 24.00658
+  },
+  {
+    "name": "Somușca",
+    "country": "RO",
+    "lat": 46.40147,
+    "lng": 26.91189
+  },
+  {
+    "name": "Somova",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 28.66667
+  },
+  {
+    "name": "Someş-Odorhei",
+    "country": "RO",
+    "lat": 47.31667,
+    "lng": 23.26667
+  },
+  {
+    "name": "Solovăstru",
+    "country": "RO",
+    "lat": 46.76667,
+    "lng": 24.76667
+  },
+  {
+    "name": "Solonţ",
+    "country": "RO",
+    "lat": 46.55,
+    "lng": 26.51667
+  },
+  {
+    "name": "Soloneț",
+    "country": "RO",
+    "lat": 47.68682,
+    "lng": 26.03222
+  },
+  {
+    "name": "Soleşti",
+    "country": "RO",
+    "lat": 46.76667,
+    "lng": 27.78333
+  },
+  {
+    "name": "Solca",
+    "country": "RO",
+    "lat": 47.7,
+    "lng": 25.85
+  },
+  {
+    "name": "Sohodol",
+    "country": "RO",
+    "lat": 45.05531,
+    "lng": 22.88194
+  },
+  {
+    "name": "Sohodol",
+    "country": "RO",
+    "lat": 46.35581,
+    "lng": 23.02923
+  },
+  {
+    "name": "Sohodol",
+    "country": "RO",
+    "lat": 45.52829,
+    "lng": 25.40244
+  },
+  {
+    "name": "Sohatu",
+    "country": "RO",
+    "lat": 44.31667,
+    "lng": 26.5
+  },
+  {
+    "name": "Sodomeni",
+    "country": "RO",
+    "lat": 47.22233,
+    "lng": 26.68805
+  },
+  {
+    "name": "Socond",
+    "country": "RO",
+    "lat": 47.56667,
+    "lng": 22.95
+  },
+  {
+    "name": "Socol",
+    "country": "RO",
+    "lat": 44.86083,
+    "lng": 21.37028
+  },
+  {
+    "name": "Socodor",
+    "country": "RO",
+    "lat": 46.51667,
+    "lng": 21.43333
+  },
+  {
+    "name": "Soci",
+    "country": "RO",
+    "lat": 47.18573,
+    "lng": 26.64446
+  },
+  {
+    "name": "Socetu",
+    "country": "RO",
+    "lat": 44.19502,
+    "lng": 24.85421
+  },
+  {
+    "name": "Sopot",
+    "country": "RS",
+    "lat": 44.51972,
+    "lng": 20.57361
+  },
+  {
+    "name": "Soko Banja",
+    "country": "RS",
+    "lat": 43.64333,
+    "lng": 21.87111
+  },
+  {
+    "name": "Sokolovica",
+    "country": "RS",
+    "lat": 43.21528,
+    "lng": 20.31556
+  },
+  {
+    "name": "Sonta",
+    "country": "RS",
+    "lat": 45.59427,
+    "lng": 19.09719
+  },
+  {
+    "name": "Sombor",
+    "country": "RS",
+    "lat": 45.77417,
+    "lng": 19.11222
+  },
+  {
+    "name": "Sokolovo Brdo",
+    "country": "RS",
+    "lat": 43.13694,
+    "lng": 19.80556
+  },
+  {
+    "name": "Sosnovka",
+    "country": "RU",
+    "lat": 60.01667,
+    "lng": 30.35
+  },
+  {
+    "name": "Sozimskiy",
+    "country": "RU",
+    "lat": 59.74178,
+    "lng": 52.24821
+  },
+  {
+    "name": "Sovetskoye",
+    "country": "RU",
+    "lat": 51.44281,
+    "lng": 46.74336
+  },
+  {
+    "name": "Sovetskiy",
+    "country": "RU",
+    "lat": 60.53945,
+    "lng": 28.67756
+  },
+  {
+    "name": "Sovetskiy",
+    "country": "RU",
+    "lat": 56.76209,
+    "lng": 48.47568
+  },
+  {
+    "name": "Sovetskaya",
+    "country": "RU",
+    "lat": 49.0093,
+    "lng": 42.12152
+  },
+  {
+    "name": "Sovetskaya",
+    "country": "RU",
+    "lat": 44.77694,
+    "lng": 41.17222
+  },
+  {
+    "name": "Sovetskaya",
+    "country": "RU",
+    "lat": 44.02667,
+    "lng": 44.05
+  },
+  {
+    "name": "Sovetsk",
+    "country": "RU",
+    "lat": 57.58937,
+    "lng": 48.95525
+  },
+  {
+    "name": "Sovetsk",
+    "country": "RU",
+    "lat": 55.08392,
+    "lng": 21.87851
+  },
+  {
+    "name": "Sovetsk",
+    "country": "RU",
+    "lat": 53.93601,
+    "lng": 37.62774
+  },
+  {
+    "name": "Sotnikovskoye",
+    "country": "RU",
+    "lat": 45.00389,
+    "lng": 43.77722
+  },
+  {
+    "name": "Sosnovyy Bor",
+    "country": "RU",
+    "lat": 59.8996,
+    "lng": 29.08574
+  },
+  {
+    "name": "Sosnovskoye",
+    "country": "RU",
+    "lat": 55.80623,
+    "lng": 43.1719
+  },
+  {
+    "name": "Sosnovoborsk",
+    "country": "RU",
+    "lat": 53.29066,
+    "lng": 46.24849
+  },
+  {
+    "name": "Sosnovo",
+    "country": "RU",
+    "lat": 60.55145,
+    "lng": 30.21441
+  },
+  {
+    "name": "Sosnovka",
+    "country": "RU",
+    "lat": 56.25496,
+    "lng": 51.28419
+  },
+  {
+    "name": "Sosnovka",
+    "country": "RU",
+    "lat": 54.71161,
+    "lng": 43.29774
+  },
+  {
+    "name": "Sosnovka",
+    "country": "RU",
+    "lat": 53.23088,
+    "lng": 41.36562
+  },
+  {
+    "name": "Sosnovaya Polyana",
+    "country": "RU",
+    "lat": 59.83528,
+    "lng": 30.14667
+  },
+  {
+    "name": "Sosnogorsk",
+    "country": "RU",
+    "lat": 63.59669,
+    "lng": 53.89178
+  },
+  {
+    "name": "Soskovo",
+    "country": "RU",
+    "lat": 52.74752,
+    "lng": 35.38277
+  },
+  {
+    "name": "Sosenskiy",
+    "country": "RU",
+    "lat": 54.05899,
+    "lng": 35.96228
+  },
+  {
+    "name": "Sortavala",
+    "country": "RU",
+    "lat": 61.71233,
+    "lng": 30.70953
+  },
+  {
+    "name": "Sorochinsk",
+    "country": "RU",
+    "lat": 52.42882,
+    "lng": 53.15025
+  },
+  {
+    "name": "Sonkovo",
+    "country": "RU",
+    "lat": 57.78184,
+    "lng": 37.16458
+  },
+  {
+    "name": "Somovo",
+    "country": "RU",
+    "lat": 51.7422,
+    "lng": 39.3659
+  },
+  {
+    "name": "Solyanka",
+    "country": "RU",
+    "lat": 46.3889,
+    "lng": 48.01755
+  },
+  {
+    "name": "Sol’vychegodsk",
+    "country": "RU",
+    "lat": 61.33046,
+    "lng": 46.91559
+  },
+  {
+    "name": "Soluno-Dmitriyevskoye",
+    "country": "RU",
+    "lat": 44.4074,
+    "lng": 42.724
+  },
+  {
+    "name": "Sol’tsy",
+    "country": "RU",
+    "lat": 58.12229,
+    "lng": 30.31831
+  },
+  {
+    "name": "Solotcha",
+    "country": "RU",
+    "lat": 54.7897,
+    "lng": 39.83336
+  },
+  {
+    "name": "Solomenskoye",
+    "country": "RU",
+    "lat": 44.21667,
+    "lng": 44.35278
+  },
+  {
+    "name": "Solntsevo",
+    "country": "RU",
+    "lat": 55.63711,
+    "lng": 37.38115
+  },
+  {
+    "name": "Solntsevo",
+    "country": "RU",
+    "lat": 51.41552,
+    "lng": 36.75667
+  },
+  {
+    "name": "Solnechnoye",
+    "country": "RU",
+    "lat": 60.15612,
+    "lng": 29.94753
+  },
+  {
+    "name": "Solnechnogorsk",
+    "country": "RU",
+    "lat": 56.17527,
+    "lng": 36.97082
+  },
+  {
+    "name": "Sol’-Iletsk",
+    "country": "RU",
+    "lat": 51.16239,
+    "lng": 54.99157
+  },
+  {
+    "name": "Solikamsk",
+    "country": "RU",
+    "lat": 59.66686,
+    "lng": 56.74267
+  },
+  {
+    "name": "Soligalich",
+    "country": "RU",
+    "lat": 59.0784,
+    "lng": 42.28713
+  },
+  {
+    "name": "Solginskiy",
+    "country": "RU",
+    "lat": 61.05,
+    "lng": 41.34278
+  },
+  {
+    "name": "Soldatskaya",
+    "country": "RU",
+    "lat": 43.81806,
+    "lng": 43.81583
+  },
+  {
+    "name": "Soldato-Aleksandrovskoye",
+    "country": "RU",
+    "lat": 44.26528,
+    "lng": 43.75611
+  },
+  {
+    "name": "Sokol’skoye",
+    "country": "RU",
+    "lat": 57.13947,
+    "lng": 43.16263
+  },
+  {
+    "name": "Sokolovyy",
+    "country": "RU",
+    "lat": 51.56857,
+    "lng": 45.83312
+  },
+  {
+    "name": "Sokolovskoye",
+    "country": "RU",
+    "lat": 45.25833,
+    "lng": 40.67972
+  },
+  {
+    "name": "Sokolovo-Kundryuchenskiy",
+    "country": "RU",
+    "lat": 47.83536,
+    "lng": 39.94711
+  },
+  {
+    "name": "Sokol’niki",
+    "country": "RU",
+    "lat": 55.80202,
+    "lng": 37.67159
+  },
+  {
+    "name": "Sokol",
+    "country": "RU",
+    "lat": 55.8,
+    "lng": 37.51667
+  },
+  {
+    "name": "Sokol",
+    "country": "RU",
+    "lat": 59.46167,
+    "lng": 40.12056
+  },
+  {
+    "name": "Sofrino",
+    "country": "RU",
+    "lat": 56.15,
+    "lng": 37.93333
+  },
+  {
+    "name": "Sochi",
+    "country": "RU",
+    "lat": 43.59699,
+    "lng": 39.72477
+  },
+  {
+    "name": "Sobinka",
+    "country": "RU",
+    "lat": 55.99003,
+    "lng": 40.02052
+  },
+  {
+    "name": "Solnechnodol’sk",
+    "country": "RU",
+    "lat": 45.3179,
+    "lng": 41.5407
+  },
+  {
+    "name": "Solnechnoye",
+    "country": "RU",
+    "lat": 43.276,
+    "lng": 46.50697
+  },
+  {
+    "name": "Sovkhoznyy",
+    "country": "RU",
+    "lat": 45.29462,
+    "lng": 38.11384
+  },
+  {
+    "name": "Sokol",
+    "country": "RU",
+    "lat": 57.9146,
+    "lng": 56.0456
+  },
+  {
+    "name": "Sovkhoznyy",
+    "country": "RU",
+    "lat": 56.5599,
+    "lng": 61.426
+  },
+  {
+    "name": "Sovetskoye",
+    "country": "RU",
+    "lat": 52.28838,
+    "lng": 85.41165
+  },
+  {
+    "name": "Sovetskiy",
+    "country": "RU",
+    "lat": 67.48333,
+    "lng": 64.41667
+  },
+  {
+    "name": "Sovetskiy",
+    "country": "RU",
+    "lat": 61.36139,
+    "lng": 63.58417
+  },
+  {
+    "name": "Sos’va",
+    "country": "RU",
+    "lat": 59.17662,
+    "lng": 61.85579
+  },
+  {
+    "name": "Sosnovoborsk",
+    "country": "RU",
+    "lat": 56.1218,
+    "lng": 93.33814
+  },
+  {
+    "name": "Sosnovka",
+    "country": "RU",
+    "lat": 53.6676,
+    "lng": 87.1527
+  },
+  {
+    "name": "Sorsk",
+    "country": "RU",
+    "lat": 54.00126,
+    "lng": 90.25154
+  },
+  {
+    "name": "Sorokino",
+    "country": "RU",
+    "lat": 53.75,
+    "lng": 84.91667
+  },
+  {
+    "name": "Solton",
+    "country": "RU",
+    "lat": 52.84307,
+    "lng": 86.48019
+  },
+  {
+    "name": "Soloneshnoye",
+    "country": "RU",
+    "lat": 51.65582,
+    "lng": 84.31976
+  },
+  {
+    "name": "Sokur",
+    "country": "RU",
+    "lat": 55.2093,
+    "lng": 83.319
+  },
+  {
+    "name": "Sokolovo",
+    "country": "RU",
+    "lat": 52.5318,
+    "lng": 84.7896
+  },
+  {
+    "name": "Sovkhoznyy",
+    "country": "RU",
+    "lat": 56.76374,
+    "lng": 60.54938
+  },
+  {
+    "name": "Souzga",
+    "country": "RU",
+    "lat": 51.88722,
+    "lng": 85.84944
+  },
+  {
+    "name": "Solnechnyy",
+    "country": "RU",
+    "lat": 56.11583,
+    "lng": 92.92528
+  },
+  {
+    "name": "Sotnikovo",
+    "country": "RU",
+    "lat": 51.88448,
+    "lng": 107.4825
+  },
+  {
+    "name": "Sosnovo-Ozërskoye",
+    "country": "RU",
+    "lat": 52.52289,
+    "lng": 111.53845
+  },
+  {
+    "name": "Solovjevsk",
+    "country": "RU",
+    "lat": 54.23333,
+    "lng": 124.43333
+  },
+  {
+    "name": "Solnechnyy",
+    "country": "RU",
+    "lat": 60.30217,
+    "lng": 137.55563
+  },
+  {
+    "name": "Solnechnyy",
+    "country": "RU",
+    "lat": 50.72498,
+    "lng": 136.63562
+  },
+  {
+    "name": "Solnechnyy",
+    "country": "RU",
+    "lat": 50.58333,
+    "lng": 137.03333
+  },
+  {
+    "name": "Sokol",
+    "country": "RU",
+    "lat": 51.80036,
+    "lng": 107.44437
+  },
+  {
+    "name": "Sovetskaya Gavan’",
+    "country": "RU",
+    "lat": 48.97215,
+    "lng": 140.28881
+  },
+  {
+    "name": "Sokol",
+    "country": "RU",
+    "lat": 59.9218,
+    "lng": 150.74395
+  },
+  {
+    "name": "Sokol",
+    "country": "RU",
+    "lat": 47.24404,
+    "lng": 142.75376
+  },
+  {
+    "name": "Sobolevo",
+    "country": "RU",
+    "lat": 54.30051,
+    "lng": 155.94772
+  },
+  {
+    "name": "Solnechniy",
+    "country": "RU",
+    "lat": 61.27944,
+    "lng": 73.18139
+  },
+  {
+    "name": "Solnechnyy",
+    "country": "RU",
+    "lat": 55.28538,
+    "lng": 89.82829
+  },
+  {
+    "name": "Sorsele",
+    "country": "SE",
+    "lat": 65.53484,
+    "lng": 17.53702
+  },
+  {
+    "name": "Solna",
+    "country": "SE",
+    "lat": 59.36004,
+    "lng": 18.00086
+  },
+  {
+    "name": "Sollentuna",
+    "country": "SE",
+    "lat": 59.42804,
+    "lng": 17.95093
+  },
+  {
+    "name": "Sollefteå",
+    "country": "SE",
+    "lat": 63.16667,
+    "lng": 17.26667
+  },
+  {
+    "name": "Sollebrunn",
+    "country": "SE",
+    "lat": 58.11667,
+    "lng": 12.53333
+  },
+  {
+    "name": "Somapah",
+    "country": "SG",
+    "lat": 1.34167,
+    "lng": 103.96361
+  },
+  {
+    "name": "Solčava",
+    "country": "SI",
+    "lat": 46.41955,
+    "lng": 14.69369
+  },
+  {
+    "name": "Sodražica",
+    "country": "SI",
+    "lat": 45.76133,
+    "lng": 14.63574
+  },
+  {
+    "name": "Solkan",
+    "country": "SI",
+    "lat": 45.97139,
+    "lng": 13.64944
+  },
+  {
+    "name": "Sobrance",
+    "country": "SK",
+    "lat": 48.74455,
+    "lng": 22.18136
+  },
+  {
+    "name": "Sološnica",
+    "country": "SK",
+    "lat": 48.46521,
+    "lng": 17.23073
+  },
+  {
+    "name": "Sokolníky",
+    "country": "SK",
+    "lat": 48.38308,
+    "lng": 18.10901
+  },
+  {
+    "name": "Sokolce",
+    "country": "SK",
+    "lat": 47.8517,
+    "lng": 17.82763
+  },
+  {
+    "name": "Sobotište",
+    "country": "SK",
+    "lat": 48.73511,
+    "lng": 17.40732
+  },
+  {
+    "name": "Soum",
+    "country": "SN",
+    "lat": 14.08179,
+    "lng": -16.48127
+  },
+  {
+    "name": "Soubalo Mbouba",
+    "country": "SN",
+    "lat": 16.20055,
+    "lng": -14.01081
+  },
+  {
+    "name": "Somone",
+    "country": "SN",
+    "lat": 14.48649,
+    "lng": -17.07524
+  },
+  {
+    "name": "Sokone",
+    "country": "SN",
+    "lat": 13.88333,
+    "lng": -16.36667
+  },
+  {
+    "name": "Soyapango",
+    "country": "SV",
+    "lat": 13.71024,
+    "lng": -89.13989
+  },
+  {
+    "name": "Sonzacate",
+    "country": "SV",
+    "lat": 13.73417,
+    "lng": -89.71472
+  },
+  {
+    "name": "Sonsonate",
+    "country": "SV",
+    "lat": 13.71726,
+    "lng": -89.72304
+  },
+  {
+    "name": "Sociedad",
+    "country": "SV",
+    "lat": 13.7,
+    "lng": -88.01667
+  },
+  {
+    "name": "Sotouboua",
+    "country": "TG",
+    "lat": 8.5634,
+    "lng": 0.98399
+  },
+  {
+    "name": "Sokodé",
+    "country": "TG",
+    "lat": 8.98333,
+    "lng": 1.13333
+  },
+  {
+    "name": "Sop Prap",
+    "country": "TH",
+    "lat": 17.88053,
+    "lng": 99.337
+  },
+  {
+    "name": "Soem Ngam",
+    "country": "TH",
+    "lat": 18.06506,
+    "lng": 99.24537
+  },
+  {
+    "name": "So Phisai",
+    "country": "TH",
+    "lat": 18.0772,
+    "lng": 103.4432
+  },
+  {
+    "name": "Song Phi Nong",
+    "country": "TH",
+    "lat": 14.22408,
+    "lng": 100.02094
+  },
+  {
+    "name": "Songkhla",
+    "country": "TH",
+    "lat": 7.19882,
+    "lng": 100.5951
+  },
+  {
+    "name": "Song",
+    "country": "TH",
+    "lat": 18.47204,
+    "lng": 100.18346
+  },
+  {
+    "name": "Somdet",
+    "country": "TH",
+    "lat": 16.70462,
+    "lng": 103.74935
+  },
+  {
+    "name": "Soeng Sang",
+    "country": "TH",
+    "lat": 14.42642,
+    "lng": 102.46058
+  },
+  {
+    "name": "Song Khwae",
+    "country": "TH",
+    "lat": 19.35964,
+    "lng": 100.70042
+  },
+  {
+    "name": "Song Dao",
+    "country": "TH",
+    "lat": 17.33628,
+    "lng": 103.47547
+  },
+  {
+    "name": "Sop Pong",
+    "country": "TH",
+    "lat": 19.51881,
+    "lng": 98.26042
+  },
+  {
+    "name": "Soi Dao",
+    "country": "TH",
+    "lat": 13.12894,
+    "lng": 102.21402
+  },
+  {
+    "name": "Sop Moei",
+    "country": "TH",
+    "lat": 17.96209,
+    "lng": 97.93288
+  },
+  {
+    "name": "Sovet",
+    "country": "TJ",
+    "lat": 38.0467,
+    "lng": 69.58822
+  },
+  {
+    "name": "Somoniyon",
+    "country": "TJ",
+    "lat": 38.44173,
+    "lng": 68.77458
+  },
+  {
+    "name": "Souassi",
+    "country": "TN",
+    "lat": 35.34325,
+    "lng": 10.54745
+  },
+  {
+    "name": "Sousse",
+    "country": "TN",
+    "lat": 35.82539,
+    "lng": 10.63699
+  },
+  {
+    "name": "Soliman",
+    "country": "TN",
+    "lat": 36.69639,
+    "lng": 10.49167
+  },
+  {
+    "name": "Souk Lahad",
+    "country": "TN",
+    "lat": 33.77579,
+    "lng": 8.85992
+  },
+  {
+    "name": "Sorgun",
+    "country": "TR",
+    "lat": 39.81012,
+    "lng": 35.18596
+  },
+  {
+    "name": "Soma",
+    "country": "TR",
+    "lat": 39.18554,
+    "lng": 27.60945
+  },
+  {
+    "name": "Solhan",
+    "country": "TR",
+    "lat": 38.96525,
+    "lng": 41.05443
+  },
+  {
+    "name": "Solaklı",
+    "country": "TR",
+    "lat": 36.81246,
+    "lng": 35.33561
+  },
+  {
+    "name": "Soğucak",
+    "country": "TR",
+    "lat": 37.78244,
+    "lng": 27.2971
+  },
+  {
+    "name": "Soni",
+    "country": "TZ",
+    "lat": -4.85,
+    "lng": 38.36667
+  },
+  {
+    "name": "Songwa",
+    "country": "TZ",
+    "lat": -3.51667,
+    "lng": 33.51667
+  },
+  {
+    "name": "Somanda",
+    "country": "TZ",
+    "lat": -3.36667,
+    "lng": 33.95
+  },
+  {
+    "name": "Sokoni",
+    "country": "TZ",
+    "lat": -6.43333,
+    "lng": 39.55
+  },
+  {
+    "name": "Songea",
+    "country": "TZ",
+    "lat": -10.68333,
+    "lng": 35.65
+  },
+  {
+    "name": "Soimy",
+    "country": "UA",
+    "lat": 48.56806,
+    "lng": 23.47147
+  },
+  {
+    "name": "Sovetskiy",
+    "country": "UA",
+    "lat": 45.34267,
+    "lng": 34.92463
+  },
+  {
+    "name": "Sosnytsia",
+    "country": "UA",
+    "lat": 51.52387,
+    "lng": 32.49985
+  },
+  {
+    "name": "Solotvyno",
+    "country": "UA",
+    "lat": 47.94728,
+    "lng": 23.87433
+  },
+  {
+    "name": "Solotvyn",
+    "country": "UA",
+    "lat": 48.7063,
+    "lng": 24.42164
+  },
+  {
+    "name": "Solonka",
+    "country": "UA",
+    "lat": 49.75621,
+    "lng": 24.01028
+  },
+  {
+    "name": "Solonytsivka",
+    "country": "UA",
+    "lat": 49.99682,
+    "lng": 36.03464
+  },
+  {
+    "name": "Solnechnogorskoye",
+    "country": "UA",
+    "lat": 44.74722,
+    "lng": 34.53999
+  },
+  {
+    "name": "Solnechnaya Dolina",
+    "country": "UA",
+    "lat": 44.87185,
+    "lng": 35.10622
+  },
+  {
+    "name": "Solone",
+    "country": "UA",
+    "lat": 48.20907,
+    "lng": 34.87585
+  },
+  {
+    "name": "Sokolova Balka",
+    "country": "UA",
+    "lat": 49.19966,
+    "lng": 34.61542
+  },
+  {
+    "name": "Sokolinoye",
+    "country": "UA",
+    "lat": 44.55041,
+    "lng": 33.95897
+  },
+  {
+    "name": "Sokyryany",
+    "country": "UA",
+    "lat": 48.44913,
+    "lng": 27.41138
+  },
+  {
+    "name": "Sokal",
+    "country": "UA",
+    "lat": 50.47438,
+    "lng": 24.28288
+  },
+  {
+    "name": "Sofiyivka",
+    "country": "UA",
+    "lat": 48.04734,
+    "lng": 33.87237
+  },
+  {
+    "name": "Sofiyivka",
+    "country": "UA",
+    "lat": 47.68285,
+    "lng": 32.36155
+  },
+  {
+    "name": "Sofiivka",
+    "country": "UA",
+    "lat": 45.09456,
+    "lng": 34.00133
+  },
+  {
+    "name": "Sobolivka",
+    "country": "UA",
+    "lat": 48.61654,
+    "lng": 29.48911
+  },
+  {
+    "name": "Sorokyne",
+    "country": "UA",
+    "lat": 48.29235,
+    "lng": 39.73921
+  },
+  {
+    "name": "Soledar",
+    "country": "UA",
+    "lat": 48.69075,
+    "lng": 38.07432
+  },
+  {
+    "name": "Soborne",
+    "country": "UA",
+    "lat": 46.22514,
+    "lng": 29.20016
+  },
+  {
+    "name": "Sofiivka",
+    "country": "UA",
+    "lat": 48.0814,
+    "lng": 31.06588
+  },
+  {
+    "name": "Solnechnoye",
+    "country": "UA",
+    "lat": 45.04767,
+    "lng": 34.0838
+  },
+  {
+    "name": "Sovkhoznoye",
+    "country": "UA",
+    "lat": 45.96005,
+    "lng": 33.77155
+  },
+  {
+    "name": "Solnechniy",
+    "country": "UA",
+    "lat": 44.78677,
+    "lng": 33.61786
+  },
+  {
+    "name": "Sofiyivska Borschagivka",
+    "country": "UA",
+    "lat": 50.41005,
+    "lng": 30.36724
+  },
+  {
+    "name": "Sovkhoznoye",
+    "country": "UA",
+    "lat": 45.03061,
+    "lng": 34.01068
+  },
+  {
+    "name": "Soltanivka",
+    "country": "UA",
+    "lat": 47.86065,
+    "lng": 30.1147
+  },
+  {
+    "name": "Sofiivska Borschahivka",
+    "country": "UA",
+    "lat": 50.40931,
+    "lng": 30.35908
+  },
+  {
+    "name": "Soroti",
+    "country": "UG",
+    "lat": 1.71464,
+    "lng": 33.61113
+  },
+  {
+    "name": "Southside",
+    "country": "US",
+    "lat": 33.92454,
+    "lng": -86.02247
+  },
+  {
+    "name": "Southside",
+    "country": "US",
+    "lat": 35.69841,
+    "lng": -91.62347
+  },
+  {
+    "name": "South Bay",
+    "country": "US",
+    "lat": 26.66396,
+    "lng": -80.71617
+  },
+  {
+    "name": "South Beach",
+    "country": "US",
+    "lat": 27.59115,
+    "lng": -80.34422
+  },
+  {
+    "name": "South Bradenton",
+    "country": "US",
+    "lat": 27.4631,
+    "lng": -82.58176
+  },
+  {
+    "name": "South Apopka",
+    "country": "US",
+    "lat": 28.66194,
+    "lng": -81.50952
+  },
+  {
+    "name": "South Brooksville",
+    "country": "US",
+    "lat": 28.53582,
+    "lng": -82.38403
+  },
+  {
+    "name": "South Daytona",
+    "country": "US",
+    "lat": 29.16582,
+    "lng": -81.0045
+  },
+  {
+    "name": "South Gate Ridge",
+    "country": "US",
+    "lat": 27.28644,
+    "lng": -82.49676
+  },
+  {
+    "name": "South Highpoint",
+    "country": "US",
+    "lat": 27.91697,
+    "lng": -82.71288
+  },
+  {
+    "name": "South Miami",
+    "country": "US",
+    "lat": 25.7076,
+    "lng": -80.29338
+  },
+  {
+    "name": "South Miami Heights",
+    "country": "US",
+    "lat": 25.59761,
+    "lng": -80.38061
+  },
+  {
+    "name": "South Palm Beach",
+    "country": "US",
+    "lat": 26.58896,
+    "lng": -80.03865
+  },
+  {
+    "name": "South Pasadena",
+    "country": "US",
+    "lat": 27.75503,
+    "lng": -82.7376
+  },
+  {
+    "name": "South Patrick Shores",
+    "country": "US",
+    "lat": 28.20223,
+    "lng": -80.6095
+  },
+  {
+    "name": "South Sarasota",
+    "country": "US",
+    "lat": 27.28616,
+    "lng": -82.53288
+  },
+  {
+    "name": "South Venice",
+    "country": "US",
+    "lat": 27.05311,
+    "lng": -82.42426
+  },
+  {
+    "name": "Southchase",
+    "country": "US",
+    "lat": 28.39306,
+    "lng": -81.3834
+  },
+  {
+    "name": "Southgate",
+    "country": "US",
+    "lat": 27.3081,
+    "lng": -82.50982
+  },
+  {
+    "name": "Southwest Ranches",
+    "country": "US",
+    "lat": 26.0587,
+    "lng": -80.33727
+  },
+  {
+    "name": "Social Circle",
+    "country": "US",
+    "lat": 33.65623,
+    "lng": -83.71823
+  },
+  {
+    "name": "Soperton",
+    "country": "US",
+    "lat": 32.37712,
+    "lng": -82.59236
+  },
+  {
+    "name": "South Jacksonville",
+    "country": "US",
+    "lat": 39.70866,
+    "lng": -90.22818
+  },
+  {
+    "name": "South Roxana",
+    "country": "US",
+    "lat": 38.82949,
+    "lng": -90.06288
+  },
+  {
+    "name": "Southern View",
+    "country": "US",
+    "lat": 39.75727,
+    "lng": -89.65371
+  },
+  {
+    "name": "Southport",
+    "country": "US",
+    "lat": 39.66505,
+    "lng": -86.12776
+  },
+  {
+    "name": "Solomon",
+    "country": "US",
+    "lat": 38.91944,
+    "lng": -97.37114
+  },
+  {
+    "name": "South Hutchinson",
+    "country": "US",
+    "lat": 38.02807,
+    "lng": -97.94033
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 37.09202,
+    "lng": -84.60411
+  },
+  {
+    "name": "South Shore",
+    "country": "US",
+    "lat": 38.72091,
+    "lng": -82.95823
+  },
+  {
+    "name": "Southgate",
+    "country": "US",
+    "lat": 39.072,
+    "lng": -84.47272
+  },
+  {
+    "name": "Sorrento",
+    "country": "US",
+    "lat": 30.18436,
+    "lng": -90.85926
+  },
+  {
+    "name": "South Vacherie",
+    "country": "US",
+    "lat": 29.94283,
+    "lng": -90.69348
+  },
+  {
+    "name": "Solomons",
+    "country": "US",
+    "lat": 38.31846,
+    "lng": -76.45412
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 38.96594,
+    "lng": -77.09609
+  },
+  {
+    "name": "South Baltimore",
+    "country": "US",
+    "lat": 39.2704,
+    "lng": -76.61507
+  },
+  {
+    "name": "South Bel Air",
+    "country": "US",
+    "lat": 39.53316,
+    "lng": -76.33746
+  },
+  {
+    "name": "South Gate",
+    "country": "US",
+    "lat": 39.129,
+    "lng": -76.6258
+  },
+  {
+    "name": "South Kensington",
+    "country": "US",
+    "lat": 39.013,
+    "lng": -77.071
+  },
+  {
+    "name": "South Laurel",
+    "country": "US",
+    "lat": 39.06983,
+    "lng": -76.85025
+  },
+  {
+    "name": "Southaven",
+    "country": "US",
+    "lat": 34.98898,
+    "lng": -90.01259
+  },
+  {
+    "name": "South Gastonia",
+    "country": "US",
+    "lat": 35.2193,
+    "lng": -81.20563
+  },
+  {
+    "name": "South Henderson",
+    "country": "US",
+    "lat": 36.3082,
+    "lng": -78.40666
+  },
+  {
+    "name": "South Rosemary",
+    "country": "US",
+    "lat": 36.45154,
+    "lng": -77.6972
+  },
+  {
+    "name": "Southern Pines",
+    "country": "US",
+    "lat": 35.17405,
+    "lng": -79.39225
+  },
+  {
+    "name": "Southern Shores",
+    "country": "US",
+    "lat": 36.13905,
+    "lng": -75.73157
+  },
+  {
+    "name": "Southmont",
+    "country": "US",
+    "lat": 35.66792,
+    "lng": -80.267
+  },
+  {
+    "name": "Southport",
+    "country": "US",
+    "lat": 33.91821,
+    "lng": -78.01933
+  },
+  {
+    "name": "Somerdale",
+    "country": "US",
+    "lat": 39.844,
+    "lng": -75.02267
+  },
+  {
+    "name": "Somers Point",
+    "country": "US",
+    "lat": 39.31762,
+    "lng": -74.5946
+  },
+  {
+    "name": "South Toms River",
+    "country": "US",
+    "lat": 39.94206,
+    "lng": -74.20431
+  },
+  {
+    "name": "South Vineland",
+    "country": "US",
+    "lat": 39.44595,
+    "lng": -75.02879
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 39.80701,
+    "lng": -82.29709
+  },
+  {
+    "name": "South Bloomfield",
+    "country": "US",
+    "lat": 39.7184,
+    "lng": -82.98685
+  },
+  {
+    "name": "South Charleston",
+    "country": "US",
+    "lat": 39.82534,
+    "lng": -83.63437
+  },
+  {
+    "name": "South Lebanon",
+    "country": "US",
+    "lat": 39.37089,
+    "lng": -84.21327
+  },
+  {
+    "name": "South Point",
+    "country": "US",
+    "lat": 38.41786,
+    "lng": -82.58627
+  },
+  {
+    "name": "South Zanesville",
+    "country": "US",
+    "lat": 39.89923,
+    "lng": -82.00625
+  },
+  {
+    "name": "South Connellsville",
+    "country": "US",
+    "lat": 39.99674,
+    "lng": -79.58587
+  },
+  {
+    "name": "South Coatesville",
+    "country": "US",
+    "lat": 39.97427,
+    "lng": -75.81995
+  },
+  {
+    "name": "South Uniontown",
+    "country": "US",
+    "lat": 39.89285,
+    "lng": -79.74699
+  },
+  {
+    "name": "Southwest Center City Philadelphia",
+    "country": "US",
+    "lat": 39.94281,
+    "lng": -75.18086
+  },
+  {
+    "name": "Southwest Schuylkill",
+    "country": "US",
+    "lat": 39.94483,
+    "lng": -75.20379
+  },
+  {
+    "name": "Socastee",
+    "country": "US",
+    "lat": 33.6835,
+    "lng": -78.99837
+  },
+  {
+    "name": "South Congaree",
+    "country": "US",
+    "lat": 33.91099,
+    "lng": -81.13565
+  },
+  {
+    "name": "South Sumter",
+    "country": "US",
+    "lat": 33.881,
+    "lng": -80.345
+  },
+  {
+    "name": "Southern Shops",
+    "country": "US",
+    "lat": 34.98595,
+    "lng": -81.99455
+  },
+  {
+    "name": "Soddy-Daisy",
+    "country": "US",
+    "lat": 35.2359,
+    "lng": -85.19079
+  },
+  {
+    "name": "Somerville",
+    "country": "US",
+    "lat": 35.2437,
+    "lng": -89.35007
+  },
+  {
+    "name": "South Carthage",
+    "country": "US",
+    "lat": 36.242,
+    "lng": -85.95193
+  },
+  {
+    "name": "South Cleveland",
+    "country": "US",
+    "lat": 35.106,
+    "lng": -84.89
+  },
+  {
+    "name": "South Fulton",
+    "country": "US",
+    "lat": 36.50089,
+    "lng": -88.87534
+  },
+  {
+    "name": "South Pittsburg",
+    "country": "US",
+    "lat": 35.0123,
+    "lng": -85.70441
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 29.22635,
+    "lng": -98.6578
+  },
+  {
+    "name": "Somerville",
+    "country": "US",
+    "lat": 30.34604,
+    "lng": -96.5283
+  },
+  {
+    "name": "Sour Lake",
+    "country": "US",
+    "lat": 30.14021,
+    "lng": -94.41102
+  },
+  {
+    "name": "South Alamo",
+    "country": "US",
+    "lat": 26.15702,
+    "lng": -98.10862
+  },
+  {
+    "name": "South Houston",
+    "country": "US",
+    "lat": 29.66301,
+    "lng": -95.23549
+  },
+  {
+    "name": "South Padre Island",
+    "country": "US",
+    "lat": 26.10369,
+    "lng": -97.16469
+  },
+  {
+    "name": "South Point",
+    "country": "US",
+    "lat": 25.86869,
+    "lng": -97.38359
+  },
+  {
+    "name": "Southlake",
+    "country": "US",
+    "lat": 32.94124,
+    "lng": -97.13418
+  },
+  {
+    "name": "Southmayd",
+    "country": "US",
+    "lat": 33.63038,
+    "lng": -96.76916
+  },
+  {
+    "name": "Southside Place",
+    "country": "US",
+    "lat": 29.70606,
+    "lng": -95.43688
+  },
+  {
+    "name": "South Boston",
+    "country": "US",
+    "lat": 36.69875,
+    "lng": -78.9014
+  },
+  {
+    "name": "South Hill",
+    "country": "US",
+    "lat": 36.72653,
+    "lng": -78.12889
+  },
+  {
+    "name": "South Riding",
+    "country": "US",
+    "lat": 38.92094,
+    "lng": -77.50388
+  },
+  {
+    "name": "South Suffolk",
+    "country": "US",
+    "lat": 36.71709,
+    "lng": -76.59023
+  },
+  {
+    "name": "Sophia",
+    "country": "US",
+    "lat": 37.70761,
+    "lng": -81.25066
+  },
+  {
+    "name": "South Charleston",
+    "country": "US",
+    "lat": 38.36843,
+    "lng": -81.69957
+  },
+  {
+    "name": "South Coventry",
+    "country": "US",
+    "lat": 41.7701,
+    "lng": -72.30508
+  },
+  {
+    "name": "Somers",
+    "country": "US",
+    "lat": 41.98537,
+    "lng": -72.4462
+  },
+  {
+    "name": "South Windham",
+    "country": "US",
+    "lat": 41.67954,
+    "lng": -72.17036
+  },
+  {
+    "name": "South Windsor",
+    "country": "US",
+    "lat": 41.82371,
+    "lng": -72.6212
+  },
+  {
+    "name": "South Woodstock",
+    "country": "US",
+    "lat": 41.93899,
+    "lng": -71.95952
+  },
+  {
+    "name": "Southbury",
+    "country": "US",
+    "lat": 41.48148,
+    "lng": -73.21317
+  },
+  {
+    "name": "Southington",
+    "country": "US",
+    "lat": 41.59649,
+    "lng": -72.8776
+  },
+  {
+    "name": "Southport",
+    "country": "US",
+    "lat": 41.13649,
+    "lng": -73.28345
+  },
+  {
+    "name": "Southwood Acres",
+    "country": "US",
+    "lat": 41.9626,
+    "lng": -72.57148
+  },
+  {
+    "name": "Solon",
+    "country": "US",
+    "lat": 41.80723,
+    "lng": -91.49406
+  },
+  {
+    "name": "Somonauk",
+    "country": "US",
+    "lat": 41.63364,
+    "lng": -88.68119
+  },
+  {
+    "name": "South Barrington",
+    "country": "US",
+    "lat": 42.09142,
+    "lng": -88.12174
+  },
+  {
+    "name": "South Beloit",
+    "country": "US",
+    "lat": 42.49307,
+    "lng": -89.03678
+  },
+  {
+    "name": "South Chicago",
+    "country": "US",
+    "lat": 41.73977,
+    "lng": -87.55425
+  },
+  {
+    "name": "South Chicago Heights",
+    "country": "US",
+    "lat": 41.48087,
+    "lng": -87.63782
+  },
+  {
+    "name": "South Elgin",
+    "country": "US",
+    "lat": 41.99419,
+    "lng": -88.2923
+  },
+  {
+    "name": "South Holland",
+    "country": "US",
+    "lat": 41.60087,
+    "lng": -87.60699
+  },
+  {
+    "name": "South Lawndale",
+    "country": "US",
+    "lat": 41.84364,
+    "lng": -87.71255
+  },
+  {
+    "name": "South Pekin",
+    "country": "US",
+    "lat": 40.49448,
+    "lng": -89.65177
+  },
+  {
+    "name": "South Shore",
+    "country": "US",
+    "lat": 41.76198,
+    "lng": -87.57783
+  },
+  {
+    "name": "South Bend",
+    "country": "US",
+    "lat": 41.68338,
+    "lng": -86.25001
+  },
+  {
+    "name": "South Haven",
+    "country": "US",
+    "lat": 41.54198,
+    "lng": -87.13726
+  },
+  {
+    "name": "South Whitley",
+    "country": "US",
+    "lat": 41.08477,
+    "lng": -85.62804
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 41.76955,
+    "lng": -71.12866
+  },
+  {
+    "name": "Somerville",
+    "country": "US",
+    "lat": 42.3876,
+    "lng": -71.0995
+  },
+  {
+    "name": "South Amherst",
+    "country": "US",
+    "lat": 42.34037,
+    "lng": -72.50509
+  },
+  {
+    "name": "South Ashburnham",
+    "country": "US",
+    "lat": 42.61037,
+    "lng": -71.93897
+  },
+  {
+    "name": "South Boston",
+    "country": "US",
+    "lat": 42.33343,
+    "lng": -71.04949
+  },
+  {
+    "name": "South Deerfield",
+    "country": "US",
+    "lat": 42.47731,
+    "lng": -72.60787
+  },
+  {
+    "name": "South Dennis",
+    "country": "US",
+    "lat": 41.68956,
+    "lng": -70.15641
+  },
+  {
+    "name": "South Hadley",
+    "country": "US",
+    "lat": 42.25842,
+    "lng": -72.57453
+  },
+  {
+    "name": "South Lancaster",
+    "country": "US",
+    "lat": 42.44454,
+    "lng": -71.68701
+  },
+  {
+    "name": "South Peabody",
+    "country": "US",
+    "lat": 42.50982,
+    "lng": -70.94949
+  },
+  {
+    "name": "South Yarmouth",
+    "country": "US",
+    "lat": 41.66678,
+    "lng": -70.18474
+  },
+  {
+    "name": "Southampton",
+    "country": "US",
+    "lat": 42.22926,
+    "lng": -72.73009
+  },
+  {
+    "name": "Southborough",
+    "country": "US",
+    "lat": 42.30565,
+    "lng": -71.52451
+  },
+  {
+    "name": "Southbridge",
+    "country": "US",
+    "lat": 42.0751,
+    "lng": -72.03341
+  },
+  {
+    "name": "Southwick",
+    "country": "US",
+    "lat": 42.05482,
+    "lng": -72.77037
+  },
+  {
+    "name": "South Berwick",
+    "country": "US",
+    "lat": 43.23453,
+    "lng": -70.8095
+  },
+  {
+    "name": "South Eliot",
+    "country": "US",
+    "lat": 43.10814,
+    "lng": -70.77755
+  },
+  {
+    "name": "South Paris",
+    "country": "US",
+    "lat": 44.22368,
+    "lng": -70.51339
+  },
+  {
+    "name": "South Portland",
+    "country": "US",
+    "lat": 43.64147,
+    "lng": -70.24088
+  },
+  {
+    "name": "South Portland Gardens",
+    "country": "US",
+    "lat": 43.63897,
+    "lng": -70.31533
+  },
+  {
+    "name": "South Sanford",
+    "country": "US",
+    "lat": 43.41119,
+    "lng": -70.74256
+  },
+  {
+    "name": "South Thomaston",
+    "country": "US",
+    "lat": 44.05147,
+    "lng": -69.12782
+  },
+  {
+    "name": "South Windham",
+    "country": "US",
+    "lat": 43.73619,
+    "lng": -70.42366
+  },
+  {
+    "name": "South Gull Lake",
+    "country": "US",
+    "lat": 42.38754,
+    "lng": -85.39667
+  },
+  {
+    "name": "South Haven",
+    "country": "US",
+    "lat": 42.40309,
+    "lng": -86.27364
+  },
+  {
+    "name": "South Lyon",
+    "country": "US",
+    "lat": 42.46059,
+    "lng": -83.65161
+  },
+  {
+    "name": "South Monroe",
+    "country": "US",
+    "lat": 41.89588,
+    "lng": -83.41771
+  },
+  {
+    "name": "South Rockwood",
+    "country": "US",
+    "lat": 42.06393,
+    "lng": -83.26104
+  },
+  {
+    "name": "Southfield",
+    "country": "US",
+    "lat": 42.47337,
+    "lng": -83.22187
+  },
+  {
+    "name": "Southgate",
+    "country": "US",
+    "lat": 42.21393,
+    "lng": -83.19381
+  },
+  {
+    "name": "South Saint Paul",
+    "country": "US",
+    "lat": 44.89274,
+    "lng": -93.03494
+  },
+  {
+    "name": "South Sioux City",
+    "country": "US",
+    "lat": 42.47388,
+    "lng": -96.41364
+  },
+  {
+    "name": "Somersworth",
+    "country": "US",
+    "lat": 43.26175,
+    "lng": -70.86534
+  },
+  {
+    "name": "South Hooksett",
+    "country": "US",
+    "lat": 43.02647,
+    "lng": -71.43534
+  },
+  {
+    "name": "Society Hill",
+    "country": "US",
+    "lat": 40.53399,
+    "lng": -74.45793
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 40.4976,
+    "lng": -74.48849
+  },
+  {
+    "name": "Somerville",
+    "country": "US",
+    "lat": 40.57427,
+    "lng": -74.60988
+  },
+  {
+    "name": "South Amboy",
+    "country": "US",
+    "lat": 40.47788,
+    "lng": -74.2907
+  },
+  {
+    "name": "South Belmar",
+    "country": "US",
+    "lat": 40.17095,
+    "lng": -74.02736
+  },
+  {
+    "name": "South Bound Brook",
+    "country": "US",
+    "lat": 40.55344,
+    "lng": -74.53154
+  },
+  {
+    "name": "South Old Bridge",
+    "country": "US",
+    "lat": 40.40816,
+    "lng": -74.35432
+  },
+  {
+    "name": "South Orange",
+    "country": "US",
+    "lat": 40.74899,
+    "lng": -74.26126
+  },
+  {
+    "name": "South Plainfield",
+    "country": "US",
+    "lat": 40.57927,
+    "lng": -74.41154
+  },
+  {
+    "name": "South River",
+    "country": "US",
+    "lat": 40.44649,
+    "lng": -74.38598
+  },
+  {
+    "name": "South Hackensack",
+    "country": "US",
+    "lat": 40.8626,
+    "lng": -74.04792
+  },
+  {
+    "name": "Sodus",
+    "country": "US",
+    "lat": 43.23784,
+    "lng": -77.06136
+  },
+  {
+    "name": "Solvay",
+    "country": "US",
+    "lat": 43.05812,
+    "lng": -76.20743
+  },
+  {
+    "name": "Sound Beach",
+    "country": "US",
+    "lat": 40.95621,
+    "lng": -72.96788
+  },
+  {
+    "name": "South Beach",
+    "country": "US",
+    "lat": 40.58329,
+    "lng": -74.07609
+  },
+  {
+    "name": "South Corning",
+    "country": "US",
+    "lat": 42.12174,
+    "lng": -77.03719
+  },
+  {
+    "name": "South Fallsburg",
+    "country": "US",
+    "lat": 41.708,
+    "lng": -74.632
+  },
+  {
+    "name": "South Farmingdale",
+    "country": "US",
+    "lat": 40.72066,
+    "lng": -73.44012
+  },
+  {
+    "name": "South Floral Park",
+    "country": "US",
+    "lat": 40.71427,
+    "lng": -73.70013
+  },
+  {
+    "name": "South Glens Falls",
+    "country": "US",
+    "lat": 43.29924,
+    "lng": -73.63512
+  },
+  {
+    "name": "South Hempstead",
+    "country": "US",
+    "lat": 40.68094,
+    "lng": -73.61541
+  },
+  {
+    "name": "South Hill",
+    "country": "US",
+    "lat": 42.42924,
+    "lng": -76.49494
+  },
+  {
+    "name": "South Huntington",
+    "country": "US",
+    "lat": 40.82371,
+    "lng": -73.39873
+  },
+  {
+    "name": "South Lockport",
+    "country": "US",
+    "lat": 43.15006,
+    "lng": -78.6967
+  },
+  {
+    "name": "South Nyack",
+    "country": "US",
+    "lat": 41.08315,
+    "lng": -73.92014
+  },
+  {
+    "name": "South Ozone Park",
+    "country": "US",
+    "lat": 40.6701,
+    "lng": -73.81902
+  },
+  {
+    "name": "South Valley Stream",
+    "country": "US",
+    "lat": 40.65594,
+    "lng": -73.71763
+  },
+  {
+    "name": "Southampton",
+    "country": "US",
+    "lat": 40.88427,
+    "lng": -72.38953
+  },
+  {
+    "name": "Southold",
+    "country": "US",
+    "lat": 41.06482,
+    "lng": -72.4262
+  },
+  {
+    "name": "Southport",
+    "country": "US",
+    "lat": 42.0548,
+    "lng": -76.81912
+  },
+  {
+    "name": "Solon",
+    "country": "US",
+    "lat": 41.38978,
+    "lng": -81.44123
+  },
+  {
+    "name": "South Amherst",
+    "country": "US",
+    "lat": 41.35588,
+    "lng": -82.25377
+  },
+  {
+    "name": "South Canal",
+    "country": "US",
+    "lat": 41.17728,
+    "lng": -80.98676
+  },
+  {
+    "name": "South Euclid",
+    "country": "US",
+    "lat": 41.52311,
+    "lng": -81.51846
+  },
+  {
+    "name": "South Russell",
+    "country": "US",
+    "lat": 41.43144,
+    "lng": -81.36539
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 40.00841,
+    "lng": -79.07808
+  },
+  {
+    "name": "Somerton",
+    "country": "US",
+    "lat": 40.12344,
+    "lng": -75.01489
+  },
+  {
+    "name": "Souderton",
+    "country": "US",
+    "lat": 40.31177,
+    "lng": -75.32518
+  },
+  {
+    "name": "South Greensburg",
+    "country": "US",
+    "lat": 40.2784,
+    "lng": -79.54476
+  },
+  {
+    "name": "South Pottstown",
+    "country": "US",
+    "lat": 40.23954,
+    "lng": -75.65102
+  },
+  {
+    "name": "South Temple",
+    "country": "US",
+    "lat": 40.4,
+    "lng": -75.922
+  },
+  {
+    "name": "South Waverly",
+    "country": "US",
+    "lat": 41.99757,
+    "lng": -76.53717
+  },
+  {
+    "name": "South Williamsport",
+    "country": "US",
+    "lat": 41.23202,
+    "lng": -76.99913
+  },
+  {
+    "name": "Southmont",
+    "country": "US",
+    "lat": 40.31063,
+    "lng": -78.93864
+  },
+  {
+    "name": "Southwest Greensburg",
+    "country": "US",
+    "lat": 40.29118,
+    "lng": -79.54698
+  },
+  {
+    "name": "South Barre",
+    "country": "US",
+    "lat": 44.17701,
+    "lng": -72.50566
+  },
+  {
+    "name": "South Burlington",
+    "country": "US",
+    "lat": 44.46699,
+    "lng": -73.17096
+  },
+  {
+    "name": "Somers",
+    "country": "US",
+    "lat": 42.6403,
+    "lng": -87.91036
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 45.12441,
+    "lng": -92.67354
+  },
+  {
+    "name": "South Milwaukee",
+    "country": "US",
+    "lat": 42.91057,
+    "lng": -87.86064
+  },
+  {
+    "name": "South Duxbury",
+    "country": "US",
+    "lat": 42.02316,
+    "lng": -70.68281
+  },
+  {
+    "name": "South Taft",
+    "country": "US",
+    "lat": 35.13469,
+    "lng": -119.45623
+  },
+  {
+    "name": "Somerton",
+    "country": "US",
+    "lat": 32.59644,
+    "lng": -114.70968
+  },
+  {
+    "name": "South Tucson",
+    "country": "US",
+    "lat": 32.19952,
+    "lng": -110.96842
+  },
+  {
+    "name": "Soda Bay",
+    "country": "US",
+    "lat": 39.00101,
+    "lng": -122.78916
+  },
+  {
+    "name": "Solana Beach",
+    "country": "US",
+    "lat": 32.99115,
+    "lng": -117.27115
+  },
+  {
+    "name": "Soledad",
+    "country": "US",
+    "lat": 36.42469,
+    "lng": -121.32632
+  },
+  {
+    "name": "Solvang",
+    "country": "US",
+    "lat": 34.59582,
+    "lng": -120.13765
+  },
+  {
+    "name": "Sonoma",
+    "country": "US",
+    "lat": 38.29186,
+    "lng": -122.45804
+  },
+  {
+    "name": "Somerset",
+    "country": "US",
+    "lat": 38.64768,
+    "lng": -120.68576
+  },
+  {
+    "name": "Sonora",
+    "country": "US",
+    "lat": 37.98409,
+    "lng": -120.38214
+  },
+  {
+    "name": "Soquel",
+    "country": "US",
+    "lat": 36.98801,
+    "lng": -121.95663
+  },
+  {
+    "name": "Sorrento Valley",
+    "country": "US",
+    "lat": 32.89991,
+    "lng": -117.19451
+  },
+  {
+    "name": "Soulsbyville",
+    "country": "US",
+    "lat": 37.98465,
+    "lng": -120.2638
+  },
+  {
+    "name": "South Dos Palos",
+    "country": "US",
+    "lat": 36.96439,
+    "lng": -120.65324
+  },
+  {
+    "name": "South El Monte",
+    "country": "US",
+    "lat": 34.05195,
+    "lng": -118.04673
+  },
+  {
+    "name": "South Gate",
+    "country": "US",
+    "lat": 33.95474,
+    "lng": -118.21202
+  },
+  {
+    "name": "South Lake Tahoe",
+    "country": "US",
+    "lat": 38.93324,
+    "lng": -119.98435
+  },
+  {
+    "name": "South Oroville",
+    "country": "US",
+    "lat": 39.49655,
+    "lng": -121.55219
+  },
+  {
+    "name": "South Pasadena",
+    "country": "US",
+    "lat": 34.11612,
+    "lng": -118.15035
+  },
+  {
+    "name": "South San Francisco",
+    "country": "US",
+    "lat": 37.65466,
+    "lng": -122.40775
+  },
+  {
+    "name": "South San Gabriel",
+    "country": "US",
+    "lat": 34.04915,
+    "lng": -118.09462
+  },
+  {
+    "name": "South San Jose Hills",
+    "country": "US",
+    "lat": 34.01279,
+    "lng": -117.90478
+  },
+  {
+    "name": "South Whittier",
+    "country": "US",
+    "lat": 33.95015,
+    "lng": -118.03917
+  },
+  {
+    "name": "South Yuba City",
+    "country": "US",
+    "lat": 39.11656,
+    "lng": -121.63913
+  },
+  {
+    "name": "Southglenn",
+    "country": "US",
+    "lat": 39.58721,
+    "lng": -104.95276
+  },
+  {
+    "name": "Socorro",
+    "country": "US",
+    "lat": 34.0584,
+    "lng": -106.89142
+  },
+  {
+    "name": "South Valley",
+    "country": "US",
+    "lat": 35.01005,
+    "lng": -106.67808
+  },
+  {
+    "name": "Socorro",
+    "country": "US",
+    "lat": 31.65456,
+    "lng": -106.30331
+  },
+  {
+    "name": "Socorro Mission Number 1 Colonia",
+    "country": "US",
+    "lat": 31.63622,
+    "lng": -106.29054
+  },
+  {
+    "name": "Sonora",
+    "country": "US",
+    "lat": 30.56685,
+    "lng": -100.64343
+  },
+  {
+    "name": "Soda Springs",
+    "country": "US",
+    "lat": 42.65437,
+    "lng": -111.60467
+  },
+  {
+    "name": "Somers",
+    "country": "US",
+    "lat": 48.08023,
+    "lng": -114.22151
+  },
+  {
+    "name": "South Browning",
+    "country": "US",
+    "lat": 48.54608,
+    "lng": -113.01425
+  },
+  {
+    "name": "South Lebanon",
+    "country": "US",
+    "lat": 44.50623,
+    "lng": -122.90314
+  },
+  {
+    "name": "South Jordan Heights",
+    "country": "US",
+    "lat": 40.56384,
+    "lng": -111.94938
+  },
+  {
+    "name": "South Jordan",
+    "country": "US",
+    "lat": 40.56217,
+    "lng": -111.92966
+  },
+  {
+    "name": "South Ogden",
+    "country": "US",
+    "lat": 41.19189,
+    "lng": -111.97133
+  },
+  {
+    "name": "South Salt Lake",
+    "country": "US",
+    "lat": 40.71884,
+    "lng": -111.88827
+  },
+  {
+    "name": "South Weber",
+    "country": "US",
+    "lat": 41.13244,
+    "lng": -111.93022
+  },
+  {
+    "name": "South Willard",
+    "country": "US",
+    "lat": 41.36327,
+    "lng": -112.03578
+  },
+  {
+    "name": "Soap Lake",
+    "country": "US",
+    "lat": 47.38931,
+    "lng": -119.49059
+  },
+  {
+    "name": "South Bend",
+    "country": "US",
+    "lat": 46.66315,
+    "lng": -123.80461
+  },
+  {
+    "name": "South Hill",
+    "country": "US",
+    "lat": 47.14121,
+    "lng": -122.27012
+  },
+  {
+    "name": "Southworth",
+    "country": "US",
+    "lat": 47.51204,
+    "lng": -122.5018
+  },
+  {
+    "name": "South Greeley",
+    "country": "US",
+    "lat": 41.09693,
+    "lng": -104.80636
+  },
+  {
+    "name": "South Park",
+    "country": "US",
+    "lat": 43.42215,
+    "lng": -110.79326
+  },
+  {
+    "name": "Soldotna",
+    "country": "US",
+    "lat": 60.48778,
+    "lng": -151.05833
+  },
+  {
+    "name": "South Blooming Grove",
+    "country": "US",
+    "lat": 41.37337,
+    "lng": -74.17843
+  },
+  {
+    "name": "South Park Township",
+    "country": "US",
+    "lat": 40.29864,
+    "lng": -79.99405
+  },
+  {
+    "name": "Southeast Arcadia",
+    "country": "US",
+    "lat": 27.18629,
+    "lng": -81.8521
+  },
+  {
+    "name": "South Wenatchee",
+    "country": "US",
+    "lat": 47.39012,
+    "lng": -120.28958
+  },
+  {
+    "name": "Southern Gateway",
+    "country": "US",
+    "lat": 38.34507,
+    "lng": -77.50352
+  },
+  {
+    "name": "South Kingstown",
+    "country": "US",
+    "lat": 41.44718,
+    "lng": -71.52494
+  },
+  {
+    "name": "South Fulton",
+    "country": "US",
+    "lat": 33.59259,
+    "lng": -84.67294
+  },
+  {
+    "name": "Southwest Waterfront",
+    "country": "US",
+    "lat": 38.87934,
+    "lng": -77.01758
+  },
+  {
+    "name": "Solís de Mataojo",
+    "country": "UY",
+    "lat": -34.59951,
+    "lng": -55.46808
+  },
+  {
+    "name": "Soca",
+    "country": "UY",
+    "lat": -34.68432,
+    "lng": -55.702
+  },
+  {
+    "name": "Soledad",
+    "country": "VE",
+    "lat": 8.16206,
+    "lng": -63.5654
+  },
+  {
+    "name": "Socopó",
+    "country": "VE",
+    "lat": 8.23062,
+    "lng": -70.82198
+  },
+  {
+    "name": "Sola",
+    "country": "VU",
+    "lat": -13.87611,
+    "lng": 167.55167
+  },
+  {
+    "name": "Solosolo",
+    "country": "WS",
+    "lat": -13.87504,
+    "lng": -171.64181
+  },
+  {
+    "name": "Sohoa",
+    "country": "YT",
+    "lat": -12.82233,
+    "lng": 45.10552
+  },
+  {
+    "name": "Soweto",
+    "country": "ZA",
+    "lat": -26.26781,
+    "lng": 27.85849
+  },
+  {
+    "name": "Southbroom",
+    "country": "ZA",
+    "lat": -30.91414,
+    "lng": 30.32701
+  },
+  {
+    "name": "Soshanguve",
+    "country": "ZA",
+    "lat": -25.47288,
+    "lng": 28.09919
+  },
+  {
+    "name": "Somerset East",
+    "country": "ZA",
+    "lat": -32.72173,
+    "lng": 25.58804
+  },
+  {
+    "name": "Solomon Linda",
+    "country": "ZA",
+    "lat": -28.55393,
+    "lng": 30.42642
+  },
+  {
+    "name": "Somaroboro",
+    "country": "ZA",
+    "lat": -25.34604,
+    "lng": 28.83431
+  },
+  {
+    "name": "Somerset West",
+    "country": "ZA",
+    "lat": -34.08401,
+    "lng": 18.82113
+  },
+  {
+    "name": "Solwezi",
+    "country": "ZM",
+    "lat": -12.1688,
+    "lng": 26.38938
+  }
+]

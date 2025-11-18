@@ -1,0 +1,8108 @@
+[
+  {
+    "name": "Petran",
+    "country": "AL",
+    "lat": 40.20944,
+    "lng": 20.41833
+  },
+  {
+    "name": "Peshkopi",
+    "country": "AL",
+    "lat": 41.685,
+    "lng": 20.42858
+  },
+  {
+    "name": "Peza e Madhe",
+    "country": "AL",
+    "lat": 41.2175,
+    "lng": 19.69611
+  },
+  {
+    "name": "Petrelë",
+    "country": "AL",
+    "lat": 41.25306,
+    "lng": 19.85306
+  },
+  {
+    "name": "Perondi",
+    "country": "AL",
+    "lat": 40.77889,
+    "lng": 19.92306
+  },
+  {
+    "name": "Peqin",
+    "country": "AL",
+    "lat": 41.04611,
+    "lng": 19.75111
+  },
+  {
+    "name": "Pemzashen",
+    "country": "AM",
+    "lat": 40.58612,
+    "lng": 43.94311
+  },
+  {
+    "name": "Perugorría",
+    "country": "AR",
+    "lat": -29.34077,
+    "lng": -58.60826
+  },
+  {
+    "name": "Pedro R. Fernández",
+    "country": "AR",
+    "lat": -28.75115,
+    "lng": -58.6549
+  },
+  {
+    "name": "Perito Moreno",
+    "country": "AR",
+    "lat": -46.5905,
+    "lng": -70.92574
+  },
+  {
+    "name": "Pergamino",
+    "country": "AR",
+    "lat": -33.89101,
+    "lng": -60.57462
+  },
+  {
+    "name": "Pellegrini",
+    "country": "AR",
+    "lat": -36.26725,
+    "lng": -63.16518
+  },
+  {
+    "name": "Pehuajó",
+    "country": "AR",
+    "lat": -35.81081,
+    "lng": -61.89897
+  },
+  {
+    "name": "Peuerbach",
+    "country": "AT",
+    "lat": 48.3453,
+    "lng": 13.77205
+  },
+  {
+    "name": "Petzenkirchen",
+    "country": "AT",
+    "lat": 48.14693,
+    "lng": 15.15465
+  },
+  {
+    "name": "Pettneu",
+    "country": "AT",
+    "lat": 47.14595,
+    "lng": 10.33655
+  },
+  {
+    "name": "Pettenbach",
+    "country": "AT",
+    "lat": 47.96016,
+    "lng": 14.01692
+  },
+  {
+    "name": "Petronell-Carnuntum",
+    "country": "AT",
+    "lat": 48.11296,
+    "lng": 16.86582
+  },
+  {
+    "name": "Perwang am Grabensee",
+    "country": "AT",
+    "lat": 48.00692,
+    "lng": 13.083
+  },
+  {
+    "name": "Pertlstein",
+    "country": "AT",
+    "lat": 46.94056,
+    "lng": 15.96167
+  },
+  {
+    "name": "Persenbeug",
+    "country": "AT",
+    "lat": 48.18733,
+    "lng": 15.08809
+  },
+  {
+    "name": "Pernitz",
+    "country": "AT",
+    "lat": 47.89759,
+    "lng": 15.96022
+  },
+  {
+    "name": "Pernersdorf",
+    "country": "AT",
+    "lat": 48.7,
+    "lng": 16.01667
+  },
+  {
+    "name": "Pernegg an der Mur",
+    "country": "AT",
+    "lat": 47.35979,
+    "lng": 15.34236
+  },
+  {
+    "name": "Pernegg",
+    "country": "AT",
+    "lat": 48.73333,
+    "lng": 15.61667
+  },
+  {
+    "name": "Perlsdorf",
+    "country": "AT",
+    "lat": 46.91361,
+    "lng": 15.81417
+  },
+  {
+    "name": "Perg",
+    "country": "AT",
+    "lat": 48.25,
+    "lng": 14.63333
+  },
+  {
+    "name": "Perchtoldsdorf",
+    "country": "AT",
+    "lat": 48.11935,
+    "lng": 16.26607
+  },
+  {
+    "name": "Perchau am Sattel",
+    "country": "AT",
+    "lat": 47.1,
+    "lng": 14.45
+  },
+  {
+    "name": "Penz",
+    "country": "AT",
+    "lat": 48.03333,
+    "lng": 14.48333
+  },
+  {
+    "name": "Pennewang",
+    "country": "AT",
+    "lat": 48.13333,
+    "lng": 13.85
+  },
+  {
+    "name": "Peggau",
+    "country": "AT",
+    "lat": 47.2,
+    "lng": 15.35
+  },
+  {
+    "name": "Pettnau",
+    "country": "AT",
+    "lat": 47.29204,
+    "lng": 11.15962
+  },
+  {
+    "name": "Penzing",
+    "country": "AT",
+    "lat": 48.2,
+    "lng": 16.26667
+  },
+  {
+    "name": "Peterborough",
+    "country": "AU",
+    "lat": -32.97205,
+    "lng": 138.84073
+  },
+  {
+    "name": "Perth",
+    "country": "AU",
+    "lat": -31.95224,
+    "lng": 115.8614
+  },
+  {
+    "name": "Pemberton",
+    "country": "AU",
+    "lat": -34.44311,
+    "lng": 116.03689
+  },
+  {
+    "name": "Pearce",
+    "country": "AU",
+    "lat": -31.66667,
+    "lng": 116.01667
+  },
+  {
+    "name": "Peppermint Grove",
+    "country": "AU",
+    "lat": -31.99878,
+    "lng": 115.7682
+  },
+  {
+    "name": "Petrie",
+    "country": "AU",
+    "lat": -27.26667,
+    "lng": 152.98333
+  },
+  {
+    "name": "Perth",
+    "country": "AU",
+    "lat": -41.57231,
+    "lng": 147.17096
+  },
+  {
+    "name": "Penshurst",
+    "country": "AU",
+    "lat": -33.96667,
+    "lng": 151.08333
+  },
+  {
+    "name": "Penrith",
+    "country": "AU",
+    "lat": -33.75,
+    "lng": 150.7
+  },
+  {
+    "name": "Penola",
+    "country": "AU",
+    "lat": -37.3752,
+    "lng": 140.83678
+  },
+  {
+    "name": "Pennant Hills",
+    "country": "AU",
+    "lat": -33.73783,
+    "lng": 151.07216
+  },
+  {
+    "name": "Penguin",
+    "country": "AU",
+    "lat": -41.12258,
+    "lng": 146.07318
+  },
+  {
+    "name": "Pendle Hill",
+    "country": "AU",
+    "lat": -33.80402,
+    "lng": 150.95543
+  },
+  {
+    "name": "Pearcedale",
+    "country": "AU",
+    "lat": -38.203,
+    "lng": 145.23488
+  },
+  {
+    "name": "Peak Hill",
+    "country": "AU",
+    "lat": -32.72387,
+    "lng": 148.19052
+  },
+  {
+    "name": "Peachester",
+    "country": "AU",
+    "lat": -26.84551,
+    "lng": 152.884
+  },
+  {
+    "name": "Peakhurst",
+    "country": "AU",
+    "lat": -33.96288,
+    "lng": 151.05161
+  },
+  {
+    "name": "Peregian Beach",
+    "country": "AU",
+    "lat": -26.481,
+    "lng": 153.096
+  },
+  {
+    "name": "Peterhead",
+    "country": "AU",
+    "lat": -34.83118,
+    "lng": 138.49892
+  },
+  {
+    "name": "Pemulwuy",
+    "country": "AU",
+    "lat": -33.82274,
+    "lng": 150.92395
+  },
+  {
+    "name": "Petersham",
+    "country": "AU",
+    "lat": -33.8946,
+    "lng": 151.15495
+  },
+  {
+    "name": "Petrie Terrace",
+    "country": "AU",
+    "lat": -27.46298,
+    "lng": 153.01312
+  },
+  {
+    "name": "Pennington",
+    "country": "AU",
+    "lat": -34.85758,
+    "lng": 138.5316
+  },
+  {
+    "name": "Pearsall",
+    "country": "AU",
+    "lat": -31.78117,
+    "lng": 115.81823
+  },
+  {
+    "name": "Pelican Waters",
+    "country": "AU",
+    "lat": -26.83354,
+    "lng": 153.10013
+  },
+  {
+    "name": "Pegs Creek",
+    "country": "AU",
+    "lat": -20.7383,
+    "lng": 116.83278
+  },
+  {
+    "name": "Pearce",
+    "country": "AU",
+    "lat": -35.36222,
+    "lng": 149.08338
+  },
+  {
+    "name": "Peakhurst Heights",
+    "country": "AU",
+    "lat": -33.97735,
+    "lng": 151.05557
+  },
+  {
+    "name": "Peregian Springs",
+    "country": "AU",
+    "lat": -26.48801,
+    "lng": 153.07577
+  },
+  {
+    "name": "Perth city centre",
+    "country": "AU",
+    "lat": -31.95289,
+    "lng": 115.85152
+  },
+  {
+    "name": "Petkovci",
+    "country": "BA",
+    "lat": 44.46849,
+    "lng": 19.07466
+  },
+  {
+    "name": "Pelagićevo",
+    "country": "BA",
+    "lat": 44.90105,
+    "lng": 18.59185
+  },
+  {
+    "name": "Pećigrad",
+    "country": "BA",
+    "lat": 45.05444,
+    "lng": 15.89694
+  },
+  {
+    "name": "Peći",
+    "country": "BA",
+    "lat": 44.63139,
+    "lng": 16.7825
+  },
+  {
+    "name": "Petrovo",
+    "country": "BA",
+    "lat": 44.62804,
+    "lng": 18.35323
+  },
+  {
+    "name": "Pečeneg Ilova",
+    "country": "BA",
+    "lat": 44.96753,
+    "lng": 17.70071
+  },
+  {
+    "name": "Peutie",
+    "country": "BE",
+    "lat": 50.92998,
+    "lng": 4.45187
+  },
+  {
+    "name": "Petit-Rechain",
+    "country": "BE",
+    "lat": 50.61489,
+    "lng": 5.83417
+  },
+  {
+    "name": "Petigny",
+    "country": "BE",
+    "lat": 50.05739,
+    "lng": 4.53307
+  },
+  {
+    "name": "Petegem-aan-de-Leie",
+    "country": "BE",
+    "lat": 50.96667,
+    "lng": 3.53333
+  },
+  {
+    "name": "Petegem",
+    "country": "BE",
+    "lat": 50.83333,
+    "lng": 3.55
+  },
+  {
+    "name": "Perwez",
+    "country": "BE",
+    "lat": 50.62426,
+    "lng": 4.81354
+  },
+  {
+    "name": "Perre",
+    "country": "BE",
+    "lat": 50.88914,
+    "lng": 3.86098
+  },
+  {
+    "name": "Perk",
+    "country": "BE",
+    "lat": 50.93571,
+    "lng": 4.49615
+  },
+  {
+    "name": "Pepinster",
+    "country": "BE",
+    "lat": 50.56568,
+    "lng": 5.80386
+  },
+  {
+    "name": "Pellenberg",
+    "country": "BE",
+    "lat": 50.87245,
+    "lng": 4.79394
+  },
+  {
+    "name": "Peer",
+    "country": "BE",
+    "lat": 51.1303,
+    "lng": 5.45952
+  },
+  {
+    "name": "Pecq",
+    "country": "BE",
+    "lat": 50.68619,
+    "lng": 3.33789
+  },
+  {
+    "name": "Petegem-aan-de-Schelde",
+    "country": "BE",
+    "lat": 50.83344,
+    "lng": 3.55609
+  },
+  {
+    "name": "Petrich",
+    "country": "BG",
+    "lat": 41.39846,
+    "lng": 23.20702
+  },
+  {
+    "name": "Peshtera",
+    "country": "BG",
+    "lat": 42.03372,
+    "lng": 24.29995
+  },
+  {
+    "name": "Perushtitsa",
+    "country": "BG",
+    "lat": 42.05,
+    "lng": 24.55
+  },
+  {
+    "name": "Pernik",
+    "country": "BG",
+    "lat": 42.59671,
+    "lng": 23.03318
+  },
+  {
+    "name": "Pembroke Parish",
+    "country": "BM",
+    "lat": 32.30019,
+    "lng": -64.79204
+  },
+  {
+    "name": "Pengkalan Batu",
+    "country": "BN",
+    "lat": 4.78333,
+    "lng": 114.83333
+  },
+  {
+    "name": "Perumahan Negara Panchor",
+    "country": "BN",
+    "lat": 4.96667,
+    "lng": 115.01667
+  },
+  {
+    "name": "Petrolina",
+    "country": "BR",
+    "lat": -9.39861,
+    "lng": -40.50083
+  },
+  {
+    "name": "Pesqueira",
+    "country": "BR",
+    "lat": -8.35778,
+    "lng": -36.69639
+  },
+  {
+    "name": "Peritoró",
+    "country": "BR",
+    "lat": -4.38333,
+    "lng": -44.33333
+  },
+  {
+    "name": "Peri Mirim",
+    "country": "BR",
+    "lat": -2.5775,
+    "lng": -44.85417
+  },
+  {
+    "name": "Pereiro",
+    "country": "BR",
+    "lat": -6.04167,
+    "lng": -38.45972
+  },
+  {
+    "name": "Pequizeiro",
+    "country": "BR",
+    "lat": -8.59361,
+    "lng": -48.93417
+  },
+  {
+    "name": "Pentecoste",
+    "country": "BR",
+    "lat": -3.79278,
+    "lng": -39.27028
+  },
+  {
+    "name": "Pendências",
+    "country": "BR",
+    "lat": -5.26,
+    "lng": -36.72222
+  },
+  {
+    "name": "Penalva",
+    "country": "BR",
+    "lat": -3.29417,
+    "lng": -45.17361
+  },
+  {
+    "name": "Penaforte",
+    "country": "BR",
+    "lat": -7.82895,
+    "lng": -39.07539
+  },
+  {
+    "name": "Peixe-Boi",
+    "country": "BR",
+    "lat": -1.19194,
+    "lng": -47.31222
+  },
+  {
+    "name": "Pedro Velho",
+    "country": "BR",
+    "lat": -6.43917,
+    "lng": -35.22139
+  },
+  {
+    "name": "Pedro II",
+    "country": "BR",
+    "lat": -4.42472,
+    "lng": -41.45861
+  },
+  {
+    "name": "Pedro Avelino",
+    "country": "BR",
+    "lat": -5.52167,
+    "lng": -36.38806
+  },
+  {
+    "name": "Pedro Afonso",
+    "country": "BR",
+    "lat": -8.9675,
+    "lng": -48.17472
+  },
+  {
+    "name": "Pedreiras",
+    "country": "BR",
+    "lat": -4.56889,
+    "lng": -44.59194
+  },
+  {
+    "name": "Pedras de Fogo",
+    "country": "BR",
+    "lat": -7.40194,
+    "lng": -35.11639
+  },
+  {
+    "name": "Pedra Preta",
+    "country": "BR",
+    "lat": -5.5825,
+    "lng": -36.10472
+  },
+  {
+    "name": "Pedra Lavrada",
+    "country": "BR",
+    "lat": -6.75778,
+    "lng": -36.47083
+  },
+  {
+    "name": "Pedra Grande",
+    "country": "BR",
+    "lat": -5.15028,
+    "lng": -35.87889
+  },
+  {
+    "name": "Pedra Branca",
+    "country": "BR",
+    "lat": -7.42722,
+    "lng": -38.0675
+  },
+  {
+    "name": "Pedra Branca",
+    "country": "BR",
+    "lat": -5.45417,
+    "lng": -39.71722
+  },
+  {
+    "name": "Pedra",
+    "country": "BR",
+    "lat": -8.49694,
+    "lng": -36.94083
+  },
+  {
+    "name": "Pedro Alexandre",
+    "country": "BR",
+    "lat": -10.01252,
+    "lng": -37.89466
+  },
+  {
+    "name": "Petrópolis",
+    "country": "BR",
+    "lat": -22.505,
+    "lng": -43.17861
+  },
+  {
+    "name": "Petrolina de Goiás",
+    "country": "BR",
+    "lat": -16.095,
+    "lng": -49.33806
+  },
+  {
+    "name": "Pescaria Brava",
+    "country": "BR",
+    "lat": -28.3743,
+    "lng": -48.88277
+  },
+  {
+    "name": "Pescador",
+    "country": "BR",
+    "lat": -18.35694,
+    "lng": -41.59806
+  },
+  {
+    "name": "Perus",
+    "country": "BR",
+    "lat": -23.40472,
+    "lng": -46.75472
+  },
+  {
+    "name": "Peruíbe",
+    "country": "BR",
+    "lat": -24.32,
+    "lng": -46.99833
+  },
+  {
+    "name": "Perobal",
+    "country": "BR",
+    "lat": -23.89611,
+    "lng": -53.40972
+  },
+  {
+    "name": "Periquito",
+    "country": "BR",
+    "lat": -19.15527,
+    "lng": -42.24125
+  },
+  {
+    "name": "Pereiras",
+    "country": "BR",
+    "lat": -23.07611,
+    "lng": -47.97583
+  },
+  {
+    "name": "Pereira Barreto",
+    "country": "BR",
+    "lat": -20.63833,
+    "lng": -51.10917
+  },
+  {
+    "name": "Perdões",
+    "country": "BR",
+    "lat": -21.09083,
+    "lng": -45.09139
+  },
+  {
+    "name": "Perdizes",
+    "country": "BR",
+    "lat": -19.35278,
+    "lng": -47.29278
+  },
+  {
+    "name": "Perdigão",
+    "country": "BR",
+    "lat": -19.95278,
+    "lng": -45.08417
+  },
+  {
+    "name": "Pequi",
+    "country": "BR",
+    "lat": -19.63278,
+    "lng": -44.65889
+  },
+  {
+    "name": "Pequeri",
+    "country": "BR",
+    "lat": -21.83417,
+    "lng": -43.12056
+  },
+  {
+    "name": "Penha",
+    "country": "BR",
+    "lat": -26.76944,
+    "lng": -48.64583
+  },
+  {
+    "name": "Penedo",
+    "country": "BR",
+    "lat": -10.29028,
+    "lng": -36.58639
+  },
+  {
+    "name": "Penápolis",
+    "country": "BR",
+    "lat": -21.41972,
+    "lng": -50.0775
+  },
+  {
+    "name": "Pelotas",
+    "country": "BR",
+    "lat": -31.76997,
+    "lng": -52.34101
+  },
+  {
+    "name": "Pejuçara",
+    "country": "BR",
+    "lat": -28.42333,
+    "lng": -53.65583
+  },
+  {
+    "name": "Peixe",
+    "country": "BR",
+    "lat": -12.025,
+    "lng": -48.53917
+  },
+  {
+    "name": "Pedro Teixeira",
+    "country": "BR",
+    "lat": -21.70639,
+    "lng": -43.74556
+  },
+  {
+    "name": "Pedro Leopoldo",
+    "country": "BR",
+    "lat": -19.61806,
+    "lng": -44.04306
+  },
+  {
+    "name": "Pedro Gomes",
+    "country": "BR",
+    "lat": -18.10056,
+    "lng": -54.55194
+  },
+  {
+    "name": "Pedro de Toledo",
+    "country": "BR",
+    "lat": -24.27472,
+    "lng": -47.23278
+  },
+  {
+    "name": "Pedrinópolis",
+    "country": "BR",
+    "lat": -19.22778,
+    "lng": -47.46222
+  },
+  {
+    "name": "Pedrinhas Paulista",
+    "country": "BR",
+    "lat": -22.81506,
+    "lng": -50.79245
+  },
+  {
+    "name": "Pedrinhas",
+    "country": "BR",
+    "lat": -11.19167,
+    "lng": -37.67389
+  },
+  {
+    "name": "Pedreira",
+    "country": "BR",
+    "lat": -22.74194,
+    "lng": -46.90139
+  },
+  {
+    "name": "Pedregulho",
+    "country": "BR",
+    "lat": -20.25694,
+    "lng": -47.47667
+  },
+  {
+    "name": "Pedras Grandes",
+    "country": "BR",
+    "lat": -28.43583,
+    "lng": -49.185
+  },
+  {
+    "name": "Pedras de Maria da Cruz",
+    "country": "BR",
+    "lat": -15.60667,
+    "lng": -44.39139
+  },
+  {
+    "name": "Pedras Altas",
+    "country": "BR",
+    "lat": -31.71667,
+    "lng": -53.58778
+  },
+  {
+    "name": "Pedrão",
+    "country": "BR",
+    "lat": -12.14573,
+    "lng": -38.64251
+  },
+  {
+    "name": "Pedranópolis",
+    "country": "BR",
+    "lat": -20.2475,
+    "lng": -50.11028
+  },
+  {
+    "name": "Pedra Mole",
+    "country": "BR",
+    "lat": -10.61667,
+    "lng": -37.68694
+  },
+  {
+    "name": "Pedralva",
+    "country": "BR",
+    "lat": -22.24278,
+    "lng": -45.46583
+  },
+  {
+    "name": "Pedra Dourada",
+    "country": "BR",
+    "lat": -20.83028,
+    "lng": -42.15417
+  },
+  {
+    "name": "Pedra do Indaiá",
+    "country": "BR",
+    "lat": -20.25833,
+    "lng": -45.20889
+  },
+  {
+    "name": "Pedra do Anta",
+    "country": "BR",
+    "lat": -20.59722,
+    "lng": -42.71361
+  },
+  {
+    "name": "Pedra Bonita",
+    "country": "BR",
+    "lat": -20.52056,
+    "lng": -42.33
+  },
+  {
+    "name": "Pedra Bela",
+    "country": "BR",
+    "lat": -22.79306,
+    "lng": -46.44306
+  },
+  {
+    "name": "Pedra Azul",
+    "country": "BR",
+    "lat": -16.00528,
+    "lng": -41.29722
+  },
+  {
+    "name": "Pederneiras",
+    "country": "BR",
+    "lat": -22.35167,
+    "lng": -48.775
+  },
+  {
+    "name": "Peçanha",
+    "country": "BR",
+    "lat": -18.54861,
+    "lng": -42.55694
+  },
+  {
+    "name": "Peabiru",
+    "country": "BR",
+    "lat": -23.91278,
+    "lng": -52.34306
+  },
+  {
+    "name": "Pedro Osório",
+    "country": "BR",
+    "lat": -31.86557,
+    "lng": -52.82718
+  },
+  {
+    "name": "Pedro Canário",
+    "country": "BR",
+    "lat": -18.29664,
+    "lng": -39.95299
+  },
+  {
+    "name": "Pedra Branca do Amapari",
+    "country": "BR",
+    "lat": 0.77806,
+    "lng": -51.94361
+  },
+  {
+    "name": "Pedra Preta",
+    "country": "BR",
+    "lat": -16.62306,
+    "lng": -54.47389
+  },
+  {
+    "name": "Pedro Canário",
+    "country": "BR",
+    "lat": -18.03028,
+    "lng": -40.15056
+  },
+  {
+    "name": "Pedro do Rosário",
+    "country": "BR",
+    "lat": -2.97236,
+    "lng": -45.35126
+  },
+  {
+    "name": "Pedro Laurentino",
+    "country": "BR",
+    "lat": -8.06833,
+    "lng": -42.285
+  },
+  {
+    "name": "Peixoto de Azevedo",
+    "country": "BR",
+    "lat": -10.22306,
+    "lng": -54.97972
+  },
+  {
+    "name": "Peritiba",
+    "country": "BR",
+    "lat": -27.37306,
+    "lng": -51.90389
+  },
+  {
+    "name": "Perolândia",
+    "country": "BR",
+    "lat": -17.52861,
+    "lng": -52.06417
+  },
+  {
+    "name": "Petrolândia",
+    "country": "BR",
+    "lat": -27.53528,
+    "lng": -49.69806
+  },
+  {
+    "name": "Petrolândia",
+    "country": "BR",
+    "lat": -8.97917,
+    "lng": -38.21944
+  },
+  {
+    "name": "Pedreira",
+    "country": "BR",
+    "lat": -23.70675,
+    "lng": -46.64982
+  },
+  {
+    "name": "Perdizes",
+    "country": "BR",
+    "lat": -23.53872,
+    "lng": -46.68093
+  },
+  {
+    "name": "Pedro Régis",
+    "country": "BR",
+    "lat": -6.63952,
+    "lng": -35.27607
+  },
+  {
+    "name": "Peixoto de Azevedo",
+    "country": "BR",
+    "lat": -10.24391,
+    "lng": -54.99178
+  },
+  {
+    "name": "Pemagatshel",
+    "country": "BT",
+    "lat": 27.03795,
+    "lng": 91.40305
+  },
+  {
+    "name": "Petrikov",
+    "country": "BY",
+    "lat": 52.1299,
+    "lng": 28.49625
+  },
+  {
+    "name": "Peramoga",
+    "country": "BY",
+    "lat": 52.3973,
+    "lng": 31.071
+  },
+  {
+    "name": "Peace River",
+    "country": "CA",
+    "lat": 56.23715,
+    "lng": -117.29176
+  },
+  {
+    "name": "Peachland",
+    "country": "CA",
+    "lat": 49.76862,
+    "lng": -119.74633
+  },
+  {
+    "name": "Pelican Narrows",
+    "country": "CA",
+    "lat": 55.16685,
+    "lng": -102.9341
+  },
+  {
+    "name": "Pemberton",
+    "country": "CA",
+    "lat": 50.31641,
+    "lng": -122.80273
+  },
+  {
+    "name": "Pemberton Heights",
+    "country": "CA",
+    "lat": 49.33056,
+    "lng": -123.10833
+  },
+  {
+    "name": "Pembroke",
+    "country": "CA",
+    "lat": 45.81681,
+    "lng": -77.11616
+  },
+  {
+    "name": "Penetanguishene",
+    "country": "CA",
+    "lat": 44.7834,
+    "lng": -79.91637
+  },
+  {
+    "name": "Penhold",
+    "country": "CA",
+    "lat": 52.13342,
+    "lng": -113.8687
+  },
+  {
+    "name": "Penticton",
+    "country": "CA",
+    "lat": 49.48062,
+    "lng": -119.58584
+  },
+  {
+    "name": "Perth",
+    "country": "CA",
+    "lat": 44.90011,
+    "lng": -76.24939
+  },
+  {
+    "name": "Petawawa",
+    "country": "CA",
+    "lat": 45.89452,
+    "lng": -77.28007
+  },
+  {
+    "name": "Peterborough",
+    "country": "CA",
+    "lat": 44.30012,
+    "lng": -78.31623
+  },
+  {
+    "name": "Petitcodiac",
+    "country": "CA",
+    "lat": 45.93935,
+    "lng": -65.1802
+  },
+  {
+    "name": "Petrolia",
+    "country": "CA",
+    "lat": 42.882,
+    "lng": -82.152
+  },
+  {
+    "name": "Perce",
+    "country": "CA",
+    "lat": 48.48794,
+    "lng": -64.29852
+  },
+  {
+    "name": "Pelmo Park-Humberlea",
+    "country": "CA",
+    "lat": 43.71752,
+    "lng": -79.52828
+  },
+  {
+    "name": "Petite-Bourgogne",
+    "country": "CA",
+    "lat": 45.48867,
+    "lng": -73.56812
+  },
+  {
+    "name": "Peseux",
+    "country": "CH",
+    "lat": 46.98704,
+    "lng": 6.88903
+  },
+  {
+    "name": "Perroy",
+    "country": "CH",
+    "lat": 46.4669,
+    "lng": 6.35349
+  },
+  {
+    "name": "Penthalaz",
+    "country": "CH",
+    "lat": 46.61077,
+    "lng": 6.52519
+  },
+  {
+    "name": "Penthéréaz",
+    "country": "CH",
+    "lat": 46.68171,
+    "lng": 6.6039
+  },
+  {
+    "name": "Petronou",
+    "country": "CI",
+    "lat": 7.7875,
+    "lng": -3.69306
+  },
+  {
+    "name": "Petit Yapo",
+    "country": "CI",
+    "lat": 5.79486,
+    "lng": -4.13626
+  },
+  {
+    "name": "Petit-Pédro",
+    "country": "CI",
+    "lat": 4.77349,
+    "lng": -6.55203
+  },
+  {
+    "name": "Petit Grabo",
+    "country": "CI",
+    "lat": 5.26902,
+    "lng": -7.31421
+  },
+  {
+    "name": "Petit Badien",
+    "country": "CI",
+    "lat": 5.2567,
+    "lng": -4.63988
+  },
+  {
+    "name": "Petitgoa I",
+    "country": "CI",
+    "lat": 6.12024,
+    "lng": -6.71253
+  },
+  {
+    "name": "Pengakro",
+    "country": "CI",
+    "lat": 7.33,
+    "lng": -3.26139
+  },
+  {
+    "name": "Pelouo",
+    "country": "CI",
+    "lat": 10.03548,
+    "lng": -5.28369
+  },
+  {
+    "name": "Petit-Nado",
+    "country": "CI",
+    "lat": 4.76201,
+    "lng": -6.80805
+  },
+  {
+    "name": "Petit-Bondoukou",
+    "country": "CI",
+    "lat": 5.60407,
+    "lng": -6.64765
+  },
+  {
+    "name": "Petit",
+    "country": "CI",
+    "lat": 5.66919,
+    "lng": -5.34348
+  },
+  {
+    "name": "Petit",
+    "country": "CI",
+    "lat": 7.02541,
+    "lng": -7.43438
+  },
+  {
+    "name": "Petit-Guiglo",
+    "country": "CI",
+    "lat": 6.35186,
+    "lng": -8.21802
+  },
+  {
+    "name": "Penco",
+    "country": "CL",
+    "lat": -36.74075,
+    "lng": -72.99528
+  },
+  {
+    "name": "Peñalolén",
+    "country": "CL",
+    "lat": -33.46836,
+    "lng": -70.53411
+  },
+  {
+    "name": "Peñaflor",
+    "country": "CL",
+    "lat": -33.60627,
+    "lng": -70.87649
+  },
+  {
+    "name": "Penja",
+    "country": "CM",
+    "lat": 4.63911,
+    "lng": 9.67987
+  },
+  {
+    "name": "Pengze",
+    "country": "CN",
+    "lat": 29.89885,
+    "lng": 116.54572
+  },
+  {
+    "name": "Penguanzhuang",
+    "country": "CN",
+    "lat": 39.48417,
+    "lng": 117.81333
+  },
+  {
+    "name": "Pengpu",
+    "country": "CN",
+    "lat": 31.2855,
+    "lng": 121.4367
+  },
+  {
+    "name": "Penglai",
+    "country": "CN",
+    "lat": 30.58217,
+    "lng": 105.25141
+  },
+  {
+    "name": "Pengcheng",
+    "country": "CN",
+    "lat": 36.43111,
+    "lng": 114.17
+  },
+  {
+    "name": "Peicheng",
+    "country": "CN",
+    "lat": 34.73611,
+    "lng": 116.92472
+  },
+  {
+    "name": "Peixing",
+    "country": "CN",
+    "lat": 30.12609,
+    "lng": 107.51789
+  },
+  {
+    "name": "Pengdong",
+    "country": "CN",
+    "lat": 29.38621,
+    "lng": 108.82305
+  },
+  {
+    "name": "Peishi",
+    "country": "CN",
+    "lat": 31.00715,
+    "lng": 110.09543
+  },
+  {
+    "name": "Pesca",
+    "country": "CO",
+    "lat": 5.55,
+    "lng": -73.05
+  },
+  {
+    "name": "Pereira",
+    "country": "CO",
+    "lat": 4.81428,
+    "lng": -75.69488
+  },
+  {
+    "name": "Peque",
+    "country": "CO",
+    "lat": 7.02123,
+    "lng": -75.90926
+  },
+  {
+    "name": "Pensilvania",
+    "country": "CO",
+    "lat": 5.38346,
+    "lng": -75.16122
+  },
+  {
+    "name": "Pelaya",
+    "country": "CO",
+    "lat": 8.68819,
+    "lng": -73.66451
+  },
+  {
+    "name": "Pedraza",
+    "country": "CO",
+    "lat": 10.18739,
+    "lng": -74.91504
+  },
+  {
+    "name": "Pejibaye",
+    "country": "CR",
+    "lat": 9.81253,
+    "lng": -83.70378
+  },
+  {
+    "name": "Perico",
+    "country": "CU",
+    "lat": 22.76987,
+    "lng": -81.0183
+  },
+  {
+    "name": "Pedro Betancourt",
+    "country": "CU",
+    "lat": 22.72709,
+    "lng": -81.28963
+  },
+  {
+    "name": "Pedra Badejo",
+    "country": "CV",
+    "lat": 15.1375,
+    "lng": -23.53083
+  },
+  {
+    "name": "Perivólia",
+    "country": "CY",
+    "lat": 34.82894,
+    "lng": 33.58272
+  },
+  {
+    "name": "Peristeróna",
+    "country": "CY",
+    "lat": 35.12928,
+    "lng": 33.07858
+  },
+  {
+    "name": "Peléndri",
+    "country": "CY",
+    "lat": 34.89597,
+    "lng": 32.96817
+  },
+  {
+    "name": "Petřvald",
+    "country": "CZ",
+    "lat": 49.831,
+    "lng": 18.3894
+  },
+  {
+    "name": "Petřvald",
+    "country": "CZ",
+    "lat": 49.70872,
+    "lng": 18.15719
+  },
+  {
+    "name": "Petrov nad Desnou",
+    "country": "CZ",
+    "lat": 50.00581,
+    "lng": 17.04413
+  },
+  {
+    "name": "Petrovice u Karviné",
+    "country": "CZ",
+    "lat": 49.89587,
+    "lng": 18.54779
+  },
+  {
+    "name": "Petrovice",
+    "country": "CZ",
+    "lat": 50.03399,
+    "lng": 14.54676
+  },
+  {
+    "name": "Petrovice",
+    "country": "CZ",
+    "lat": 49.55426,
+    "lng": 14.33737
+  },
+  {
+    "name": "Petrov",
+    "country": "CZ",
+    "lat": 48.88196,
+    "lng": 17.2781
+  },
+  {
+    "name": "Peruc",
+    "country": "CZ",
+    "lat": 50.3425,
+    "lng": 13.95986
+  },
+  {
+    "name": "Perštejn",
+    "country": "CZ",
+    "lat": 50.38166,
+    "lng": 13.1102
+  },
+  {
+    "name": "Pelhřimov",
+    "country": "CZ",
+    "lat": 49.43134,
+    "lng": 15.22336
+  },
+  {
+    "name": "Pečky",
+    "country": "CZ",
+    "lat": 50.09043,
+    "lng": 15.03017
+  },
+  {
+    "name": "Pecka",
+    "country": "CZ",
+    "lat": 50.48034,
+    "lng": 15.60822
+  },
+  {
+    "name": "Petersberg",
+    "country": "DE",
+    "lat": 50.56002,
+    "lng": 9.71295
+  },
+  {
+    "name": "Pettstadt",
+    "country": "DE",
+    "lat": 49.82996,
+    "lng": 10.92839
+  },
+  {
+    "name": "Petting",
+    "country": "DE",
+    "lat": 47.91232,
+    "lng": 12.81512
+  },
+  {
+    "name": "Pettendorf",
+    "country": "DE",
+    "lat": 49.35475,
+    "lng": 12.35926
+  },
+  {
+    "name": "Petershausen-Ost",
+    "country": "DE",
+    "lat": 47.6721,
+    "lng": 9.191
+  },
+  {
+    "name": "Petershausen",
+    "country": "DE",
+    "lat": 48.40967,
+    "lng": 11.47056
+  },
+  {
+    "name": "Petershagen",
+    "country": "DE",
+    "lat": 52.52078,
+    "lng": 13.78748
+  },
+  {
+    "name": "Petershagen",
+    "country": "DE",
+    "lat": 52.37513,
+    "lng": 8.96538
+  },
+  {
+    "name": "Petersdorf",
+    "country": "DE",
+    "lat": 48.51667,
+    "lng": 11.03333
+  },
+  {
+    "name": "Petersaurach",
+    "country": "DE",
+    "lat": 49.3,
+    "lng": 10.75
+  },
+  {
+    "name": "Perlesreut",
+    "country": "DE",
+    "lat": 48.78181,
+    "lng": 13.4384
+  },
+  {
+    "name": "Perleberg",
+    "country": "DE",
+    "lat": 53.07583,
+    "lng": 11.85739
+  },
+  {
+    "name": "Perkam",
+    "country": "DE",
+    "lat": 48.85528,
+    "lng": 12.43979
+  },
+  {
+    "name": "Perach",
+    "country": "DE",
+    "lat": 48.26667,
+    "lng": 12.76667
+  },
+  {
+    "name": "Penzlin",
+    "country": "DE",
+    "lat": 53.504,
+    "lng": 13.08407
+  },
+  {
+    "name": "Penzing",
+    "country": "DE",
+    "lat": 48.07481,
+    "lng": 10.92745
+  },
+  {
+    "name": "Penzberg",
+    "country": "DE",
+    "lat": 47.75293,
+    "lng": 11.377
+  },
+  {
+    "name": "Pentling",
+    "country": "DE",
+    "lat": 48.98343,
+    "lng": 12.0587
+  },
+  {
+    "name": "Pennigsehl",
+    "country": "DE",
+    "lat": 52.64181,
+    "lng": 9.0263
+  },
+  {
+    "name": "Penkun",
+    "country": "DE",
+    "lat": 53.29695,
+    "lng": 14.23616
+  },
+  {
+    "name": "Penig",
+    "country": "DE",
+    "lat": 50.93336,
+    "lng": 12.70422
+  },
+  {
+    "name": "Pemfling",
+    "country": "DE",
+    "lat": 49.26667,
+    "lng": 12.61667
+  },
+  {
+    "name": "Pelm",
+    "country": "DE",
+    "lat": 50.23188,
+    "lng": 6.69076
+  },
+  {
+    "name": "Pellworm",
+    "country": "DE",
+    "lat": 54.5161,
+    "lng": 8.64512
+  },
+  {
+    "name": "Pellingen",
+    "country": "DE",
+    "lat": 49.67552,
+    "lng": 6.67085
+  },
+  {
+    "name": "Peitz",
+    "country": "DE",
+    "lat": 51.85841,
+    "lng": 14.41138
+  },
+  {
+    "name": "Peiting",
+    "country": "DE",
+    "lat": 47.79549,
+    "lng": 10.92951
+  },
+  {
+    "name": "Peißenberg",
+    "country": "DE",
+    "lat": 47.80466,
+    "lng": 11.0699
+  },
+  {
+    "name": "Peißen",
+    "country": "DE",
+    "lat": 51.74347,
+    "lng": 11.75756
+  },
+  {
+    "name": "Peißen",
+    "country": "DE",
+    "lat": 51.50265,
+    "lng": 12.05737
+  },
+  {
+    "name": "Peine",
+    "country": "DE",
+    "lat": 52.31928,
+    "lng": 10.2352
+  },
+  {
+    "name": "Pegnitz",
+    "country": "DE",
+    "lat": 49.75216,
+    "lng": 11.54187
+  },
+  {
+    "name": "Pegau",
+    "country": "DE",
+    "lat": 51.16715,
+    "lng": 12.25144
+  },
+  {
+    "name": "Pechbrunn",
+    "country": "DE",
+    "lat": 49.96667,
+    "lng": 12.16667
+  },
+  {
+    "name": "Pech",
+    "country": "DE",
+    "lat": 50.65319,
+    "lng": 7.11219
+  },
+  {
+    "name": "Petershausen-West",
+    "country": "DE",
+    "lat": 47.67411,
+    "lng": 9.17787
+  },
+  {
+    "name": "Petritor - West",
+    "country": "DE",
+    "lat": 52.26609,
+    "lng": 10.49382
+  },
+  {
+    "name": "Petritor - Ost",
+    "country": "DE",
+    "lat": 52.26841,
+    "lng": 10.50717
+  },
+  {
+    "name": "Petritor - Nord",
+    "country": "DE",
+    "lat": 52.27712,
+    "lng": 10.50161
+  },
+  {
+    "name": "Pescadería",
+    "country": "DO",
+    "lat": 18.26766,
+    "lng": -71.16612
+  },
+  {
+    "name": "Peralta",
+    "country": "DO",
+    "lat": 18.58164,
+    "lng": -70.77029
+  },
+  {
+    "name": "Pepillo Salcedo",
+    "country": "DO",
+    "lat": 19.69841,
+    "lng": -71.74513
+  },
+  {
+    "name": "Pedro Santana",
+    "country": "DO",
+    "lat": 19.10515,
+    "lng": -71.69498
+  },
+  {
+    "name": "Pedro Sánchez",
+    "country": "DO",
+    "lat": 18.86375,
+    "lng": -69.10868
+  },
+  {
+    "name": "Pedro García",
+    "country": "DO",
+    "lat": 19.59202,
+    "lng": -70.65256
+  },
+  {
+    "name": "Pedro Corto",
+    "country": "DO",
+    "lat": 18.84856,
+    "lng": -71.41041
+  },
+  {
+    "name": "Pedernales",
+    "country": "DO",
+    "lat": 18.03562,
+    "lng": -71.7467
+  },
+  {
+    "name": "Perucho",
+    "country": "EC",
+    "lat": 0.11012,
+    "lng": -78.42423
+  },
+  {
+    "name": "Penipe",
+    "country": "EC",
+    "lat": -1.56592,
+    "lng": -78.53159
+  },
+  {
+    "name": "Pelileo",
+    "country": "EC",
+    "lat": -1.33057,
+    "lng": -78.54523
+  },
+  {
+    "name": "Pedro Vicente Maldonado",
+    "country": "EC",
+    "lat": 0.08527,
+    "lng": -79.05095
+  },
+  {
+    "name": "Pedro Pablo Gómez",
+    "country": "EC",
+    "lat": -1.62688,
+    "lng": -80.56084
+  },
+  {
+    "name": "Pedro Carbo",
+    "country": "EC",
+    "lat": -1.81619,
+    "lng": -80.23431
+  },
+  {
+    "name": "Pedernales",
+    "country": "EC",
+    "lat": 0.07168,
+    "lng": -80.05216
+  },
+  {
+    "name": "Pelileo Grande",
+    "country": "EC",
+    "lat": -1.32969,
+    "lng": -78.52784
+  },
+  {
+    "name": "Petrés",
+    "country": "ES",
+    "lat": 39.68333,
+    "lng": -0.3
+  },
+  {
+    "name": "Petra",
+    "country": "ES",
+    "lat": 39.61351,
+    "lng": 3.11312
+  },
+  {
+    "name": "Pescueza",
+    "country": "ES",
+    "lat": 39.91807,
+    "lng": -6.64589
+  },
+  {
+    "name": "Periana",
+    "country": "ES",
+    "lat": 36.92931,
+    "lng": -4.19163
+  },
+  {
+    "name": "Peraleda de San Román",
+    "country": "ES",
+    "lat": 39.7413,
+    "lng": -5.38726
+  },
+  {
+    "name": "Peraleda de la Mata",
+    "country": "ES",
+    "lat": 39.85288,
+    "lng": -5.46065
+  },
+  {
+    "name": "Peñas de San Pedro",
+    "country": "ES",
+    "lat": 38.7288,
+    "lng": -2.005
+  },
+  {
+    "name": "Peñarroya-Pueblonuevo",
+    "country": "ES",
+    "lat": 38.3,
+    "lng": -5.26667
+  },
+  {
+    "name": "Peñalsordo",
+    "country": "ES",
+    "lat": 38.82019,
+    "lng": -5.11405
+  },
+  {
+    "name": "Peñaflor",
+    "country": "ES",
+    "lat": 37.70892,
+    "lng": -5.34504
+  },
+  {
+    "name": "Peligros",
+    "country": "ES",
+    "lat": 37.23231,
+    "lng": -3.62901
+  },
+  {
+    "name": "Pegalajar",
+    "country": "ES",
+    "lat": 37.74008,
+    "lng": -3.64946
+  },
+  {
+    "name": "Pedroso de Acim",
+    "country": "ES",
+    "lat": 39.82522,
+    "lng": -6.41251
+  },
+  {
+    "name": "Pedro Muñoz",
+    "country": "ES",
+    "lat": 39.40285,
+    "lng": -2.94664
+  },
+  {
+    "name": "Pedro Martínez",
+    "country": "ES",
+    "lat": 37.5029,
+    "lng": -3.23134
+  },
+  {
+    "name": "Pedroche",
+    "country": "ES",
+    "lat": 38.42848,
+    "lng": -4.76325
+  },
+  {
+    "name": "Pedro Abad",
+    "country": "ES",
+    "lat": 37.96686,
+    "lng": -4.4556
+  },
+  {
+    "name": "Pedrera",
+    "country": "ES",
+    "lat": 37.22604,
+    "lng": -4.8942
+  },
+  {
+    "name": "Pedreguer",
+    "country": "ES",
+    "lat": 38.79312,
+    "lng": 0.03411
+  },
+  {
+    "name": "Pedralba",
+    "country": "ES",
+    "lat": 39.6,
+    "lng": -0.71667
+  },
+  {
+    "name": "Pechina",
+    "country": "ES",
+    "lat": 36.91619,
+    "lng": -2.43689
+  },
+  {
+    "name": "Peal de Becerro",
+    "country": "ES",
+    "lat": 37.91338,
+    "lng": -3.12148
+  },
+  {
+    "name": "Pezuela de las Torres",
+    "country": "ES",
+    "lat": 40.41613,
+    "lng": -3.17363
+  },
+  {
+    "name": "Petín",
+    "country": "ES",
+    "lat": 42.38191,
+    "lng": -7.12899
+  },
+  {
+    "name": "Petilla de Aragón",
+    "country": "ES",
+    "lat": 42.45,
+    "lng": -1.11667
+  },
+  {
+    "name": "Pesquera",
+    "country": "ES",
+    "lat": 43.08223,
+    "lng": -4.07932
+  },
+  {
+    "name": "Pesoz",
+    "country": "ES",
+    "lat": 43.25,
+    "lng": -6.86667
+  },
+  {
+    "name": "Pertusa",
+    "country": "ES",
+    "lat": 42.00214,
+    "lng": -0.12732
+  },
+  {
+    "name": "Perosillo",
+    "country": "ES",
+    "lat": 41.39294,
+    "lng": -4.14115
+  },
+  {
+    "name": "Peromingo",
+    "country": "ES",
+    "lat": 40.46386,
+    "lng": -5.77238
+  },
+  {
+    "name": "Perilla de Castro",
+    "country": "ES",
+    "lat": 41.7254,
+    "lng": -5.87636
+  },
+  {
+    "name": "Pereruela",
+    "country": "ES",
+    "lat": 41.4165,
+    "lng": -5.87812
+  },
+  {
+    "name": "Peralada",
+    "country": "ES",
+    "lat": 42.30823,
+    "lng": 3.0091
+  },
+  {
+    "name": "Pereiro de Aguiar",
+    "country": "ES",
+    "lat": 42.34524,
+    "lng": -7.80008
+  },
+  {
+    "name": "Perdiguera",
+    "country": "ES",
+    "lat": 41.75458,
+    "lng": -0.63148
+  },
+  {
+    "name": "Peranzanes",
+    "country": "ES",
+    "lat": 42.87725,
+    "lng": -6.63383
+  },
+  {
+    "name": "Peralveche",
+    "country": "ES",
+    "lat": 40.61078,
+    "lng": -2.44957
+  },
+  {
+    "name": "Peraltilla",
+    "country": "ES",
+    "lat": 42.05407,
+    "lng": -0.0184
+  },
+  {
+    "name": "Peralta",
+    "country": "ES",
+    "lat": 42.33834,
+    "lng": -1.80035
+  },
+  {
+    "name": "Perales de Tajuña",
+    "country": "ES",
+    "lat": 40.2313,
+    "lng": -3.35021
+  },
+  {
+    "name": "Perales del Puerto",
+    "country": "ES",
+    "lat": 40.15596,
+    "lng": -6.68192
+  },
+  {
+    "name": "Perales del Alfambra",
+    "country": "ES",
+    "lat": 40.63383,
+    "lng": -1.00181
+  },
+  {
+    "name": "Perales",
+    "country": "ES",
+    "lat": 42.19398,
+    "lng": -4.58105
+  },
+  {
+    "name": "Peralejos de las Truchas",
+    "country": "ES",
+    "lat": 40.59336,
+    "lng": -1.90953
+  },
+  {
+    "name": "Peralejos de Arriba",
+    "country": "ES",
+    "lat": 41.0041,
+    "lng": -6.33362
+  },
+  {
+    "name": "Peralejos de Abajo",
+    "country": "ES",
+    "lat": 41.00469,
+    "lng": -6.36238
+  },
+  {
+    "name": "Peralejos",
+    "country": "ES",
+    "lat": 40.48433,
+    "lng": -1.03408
+  },
+  {
+    "name": "Peral de Arlanza",
+    "country": "ES",
+    "lat": 42.07612,
+    "lng": -4.07733
+  },
+  {
+    "name": "Peracense",
+    "country": "ES",
+    "lat": 40.64099,
+    "lng": -1.47075
+  },
+  {
+    "name": "Peque",
+    "country": "ES",
+    "lat": 42.07297,
+    "lng": -6.27489
+  },
+  {
+    "name": "Peníscola",
+    "country": "ES",
+    "lat": 40.3574,
+    "lng": 0.40692
+  },
+  {
+    "name": "Penelles",
+    "country": "ES",
+    "lat": 41.75,
+    "lng": 0.96667
+  },
+  {
+    "name": "Peñausende",
+    "country": "ES",
+    "lat": 41.28662,
+    "lng": -5.86755
+  },
+  {
+    "name": "Peñarandilla",
+    "country": "ES",
+    "lat": 40.88348,
+    "lng": -5.3936
+  },
+  {
+    "name": "Peñaranda de Duero",
+    "country": "ES",
+    "lat": 41.68849,
+    "lng": -3.47863
+  },
+  {
+    "name": "Peñaranda de Bracamonte",
+    "country": "ES",
+    "lat": 40.90108,
+    "lng": -5.20026
+  },
+  {
+    "name": "Peñaparda",
+    "country": "ES",
+    "lat": 40.32093,
+    "lng": -6.66948
+  },
+  {
+    "name": "Peñalver",
+    "country": "ES",
+    "lat": 40.5814,
+    "lng": -2.8889
+  },
+  {
+    "name": "Peñalén",
+    "country": "ES",
+    "lat": 40.6656,
+    "lng": -2.06999
+  },
+  {
+    "name": "Peñalba de Ávila",
+    "country": "ES",
+    "lat": 40.77266,
+    "lng": -4.74595
+  },
+  {
+    "name": "Peñalba",
+    "country": "ES",
+    "lat": 41.50087,
+    "lng": -0.03798
+  },
+  {
+    "name": "Peña Grande",
+    "country": "ES",
+    "lat": 40.47456,
+    "lng": -3.72236
+  },
+  {
+    "name": "Penagos",
+    "country": "ES",
+    "lat": 43.35216,
+    "lng": -3.81382
+  },
+  {
+    "name": "Peñaflor de Hornija",
+    "country": "ES",
+    "lat": 41.71159,
+    "lng": -4.98333
+  },
+  {
+    "name": "Peñafiel",
+    "country": "ES",
+    "lat": 41.60165,
+    "lng": -4.11418
+  },
+  {
+    "name": "Peñacaballera",
+    "country": "ES",
+    "lat": 40.34353,
+    "lng": -5.86121
+  },
+  {
+    "name": "Peleas de Abajo",
+    "country": "ES",
+    "lat": 41.3926,
+    "lng": -5.68966
+  },
+  {
+    "name": "Peleagonzalo",
+    "country": "ES",
+    "lat": 41.48175,
+    "lng": -5.48304
+  },
+  {
+    "name": "Pelayos del Arroyo",
+    "country": "ES",
+    "lat": 41.05086,
+    "lng": -3.94104
+  },
+  {
+    "name": "Pelayos de la Presa",
+    "country": "ES",
+    "lat": 40.36051,
+    "lng": -4.33462
+  },
+  {
+    "name": "Pelayos",
+    "country": "ES",
+    "lat": 40.64985,
+    "lng": -5.5758
+  },
+  {
+    "name": "Pelarrodríguez",
+    "country": "ES",
+    "lat": 40.88723,
+    "lng": -6.21271
+  },
+  {
+    "name": "Pelahustán",
+    "country": "ES",
+    "lat": 40.17599,
+    "lng": -4.59842
+  },
+  {
+    "name": "Pelabravo",
+    "country": "ES",
+    "lat": 40.93658,
+    "lng": -5.57916
+  },
+  {
+    "name": "Peguerinos",
+    "country": "ES",
+    "lat": 40.6262,
+    "lng": -4.23154
+  },
+  {
+    "name": "Pedroso",
+    "country": "ES",
+    "lat": 42.29959,
+    "lng": -2.71889
+  },
+  {
+    "name": "Pedrosillo el Ralo",
+    "country": "ES",
+    "lat": 41.06305,
+    "lng": -5.54794
+  },
+  {
+    "name": "Pedrosillo de los Aires",
+    "country": "ES",
+    "lat": 40.71524,
+    "lng": -5.70511
+  },
+  {
+    "name": "Pedrosillo de Alba",
+    "country": "ES",
+    "lat": 40.82277,
+    "lng": -5.39506
+  },
+  {
+    "name": "Pedrosa del Rey",
+    "country": "ES",
+    "lat": 41.55617,
+    "lng": -5.20466
+  },
+  {
+    "name": "Pedrosa del Príncipe",
+    "country": "ES",
+    "lat": 42.24918,
+    "lng": -4.19849
+  },
+  {
+    "name": "Pedrosa del Páramo",
+    "country": "ES",
+    "lat": 42.44208,
+    "lng": -3.9719
+  },
+  {
+    "name": "Pedrosa de la Vega",
+    "country": "ES",
+    "lat": 42.48159,
+    "lng": -4.74678
+  },
+  {
+    "name": "Pedrosa de Duero",
+    "country": "ES",
+    "lat": 41.71289,
+    "lng": -3.98804
+  },
+  {
+    "name": "Pedrola",
+    "country": "ES",
+    "lat": 41.79102,
+    "lng": -1.21357
+  },
+  {
+    "name": "Pedro Bernardo",
+    "country": "ES",
+    "lat": 40.24214,
+    "lng": -4.90963
+  },
+  {
+    "name": "Pedrezuela",
+    "country": "ES",
+    "lat": 40.74277,
+    "lng": -3.5998
+  },
+  {
+    "name": "Pedraza de Campos",
+    "country": "ES",
+    "lat": 41.98419,
+    "lng": -4.73524
+  },
+  {
+    "name": "Pedraza de Alba",
+    "country": "ES",
+    "lat": 40.75502,
+    "lng": -5.37524
+  },
+  {
+    "name": "Pedraza",
+    "country": "ES",
+    "lat": 41.13092,
+    "lng": -3.81116
+  },
+  {
+    "name": "Pedrajas de San Esteban",
+    "country": "ES",
+    "lat": 41.34145,
+    "lng": -4.58225
+  },
+  {
+    "name": "Peguera",
+    "country": "ES",
+    "lat": 39.53751,
+    "lng": 2.44806
+  },
+  {
+    "name": "Pedralbes",
+    "country": "ES",
+    "lat": 41.39046,
+    "lng": 2.11019
+  },
+  {
+    "name": "Pego",
+    "country": "ES",
+    "lat": 38.84305,
+    "lng": -0.11707
+  },
+  {
+    "name": "Petsamo",
+    "country": "FI",
+    "lat": 61.50722,
+    "lng": 23.79656
+  },
+  {
+    "name": "Petäjävesi",
+    "country": "FI",
+    "lat": 62.25,
+    "lng": 25.2
+  },
+  {
+    "name": "Pertunmaa",
+    "country": "FI",
+    "lat": 61.5,
+    "lng": 26.48333
+  },
+  {
+    "name": "Pertteli",
+    "country": "FI",
+    "lat": 60.43333,
+    "lng": 23.26667
+  },
+  {
+    "name": "Perniö",
+    "country": "FI",
+    "lat": 60.2,
+    "lng": 23.13333
+  },
+  {
+    "name": "Pernå",
+    "country": "FI",
+    "lat": 60.44869,
+    "lng": 26.03187
+  },
+  {
+    "name": "Perho",
+    "country": "FI",
+    "lat": 63.21667,
+    "lng": 24.41667
+  },
+  {
+    "name": "Pello",
+    "country": "FI",
+    "lat": 66.77364,
+    "lng": 23.96255
+  },
+  {
+    "name": "Pelkosenniemi",
+    "country": "FI",
+    "lat": 67.11083,
+    "lng": 27.51056
+  },
+  {
+    "name": "Pedersöre",
+    "country": "FI",
+    "lat": 63.65,
+    "lng": 22.68333
+  },
+  {
+    "name": "Peltola",
+    "country": "FI",
+    "lat": 65.01324,
+    "lng": 25.51437
+  },
+  {
+    "name": "Peltolammi",
+    "country": "FI",
+    "lat": 61.45352,
+    "lng": 23.74771
+  },
+  {
+    "name": "Peltola",
+    "country": "FI",
+    "lat": 61.05471,
+    "lng": 28.19457
+  },
+  {
+    "name": "Peyrat-le-Château",
+    "country": "FR",
+    "lat": 45.81376,
+    "lng": 1.7726
+  },
+  {
+    "name": "Pezens",
+    "country": "FR",
+    "lat": 43.25446,
+    "lng": 2.26868
+  },
+  {
+    "name": "Peyruis",
+    "country": "FR",
+    "lat": 44.0288,
+    "lng": 5.94032
+  },
+  {
+    "name": "Peyrolles-en-Provence",
+    "country": "FR",
+    "lat": 43.64545,
+    "lng": 5.58492
+  },
+  {
+    "name": "Peyrins",
+    "country": "FR",
+    "lat": 45.09331,
+    "lng": 5.04513
+  },
+  {
+    "name": "Peyrilhac",
+    "country": "FR",
+    "lat": 45.95067,
+    "lng": 1.13403
+  },
+  {
+    "name": "Peyriac-Minervois",
+    "country": "FR",
+    "lat": 43.29091,
+    "lng": 2.56591
+  },
+  {
+    "name": "Peyriac-de-Mer",
+    "country": "FR",
+    "lat": 43.08715,
+    "lng": 2.95725
+  },
+  {
+    "name": "Peyrestortes",
+    "country": "FR",
+    "lat": 42.75395,
+    "lng": 2.85102
+  },
+  {
+    "name": "Peyrehorade",
+    "country": "FR",
+    "lat": 43.54496,
+    "lng": -1.10068
+  },
+  {
+    "name": "Peyrat-de-Bellac",
+    "country": "FR",
+    "lat": 46.14183,
+    "lng": 1.03686
+  },
+  {
+    "name": "Peypin",
+    "country": "FR",
+    "lat": 43.38503,
+    "lng": 5.57788
+  },
+  {
+    "name": "Peynier",
+    "country": "FR",
+    "lat": 43.44837,
+    "lng": 5.64139
+  },
+  {
+    "name": "Peymeinade",
+    "country": "FR",
+    "lat": 43.64244,
+    "lng": 6.87583
+  },
+  {
+    "name": "Peujard",
+    "country": "FR",
+    "lat": 45.0368,
+    "lng": -0.43977
+  },
+  {
+    "name": "Petiville",
+    "country": "FR",
+    "lat": 49.46078,
+    "lng": 0.5874
+  },
+  {
+    "name": "Petit-Réderching",
+    "country": "FR",
+    "lat": 49.05494,
+    "lng": 7.3064
+  },
+  {
+    "name": "Petit-Noir",
+    "country": "FR",
+    "lat": 46.93333,
+    "lng": 5.33333
+  },
+  {
+    "name": "Petit-Mars",
+    "country": "FR",
+    "lat": 47.39439,
+    "lng": -1.45492
+  },
+  {
+    "name": "Petite-Rosselle",
+    "country": "FR",
+    "lat": 49.21177,
+    "lng": 6.85607
+  },
+  {
+    "name": "Petite-Forêt",
+    "country": "FR",
+    "lat": 50.36667,
+    "lng": 3.48333
+  },
+  {
+    "name": "Pessac",
+    "country": "FR",
+    "lat": 44.80565,
+    "lng": -0.6324
+  },
+  {
+    "name": "Pesmes",
+    "country": "FR",
+    "lat": 47.28008,
+    "lng": 5.56698
+  },
+  {
+    "name": "Peschadoires",
+    "country": "FR",
+    "lat": 45.82622,
+    "lng": 3.49255
+  },
+  {
+    "name": "Pertuis",
+    "country": "FR",
+    "lat": 43.69415,
+    "lng": 5.50291
+  },
+  {
+    "name": "Perthes",
+    "country": "FR",
+    "lat": 48.47821,
+    "lng": 2.55509
+  },
+  {
+    "name": "Pers-Jussy",
+    "country": "FR",
+    "lat": 46.10594,
+    "lng": 6.26955
+  },
+  {
+    "name": "Persan",
+    "country": "FR",
+    "lat": 49.15335,
+    "lng": 2.27218
+  },
+  {
+    "name": "Perrusson",
+    "country": "FR",
+    "lat": 47.09873,
+    "lng": 1.01438
+  },
+  {
+    "name": "Perros-Guirec",
+    "country": "FR",
+    "lat": 48.81411,
+    "lng": -3.4437
+  },
+  {
+    "name": "Perrigny-lès-Dijon",
+    "country": "FR",
+    "lat": 47.26648,
+    "lng": 5.00628
+  },
+  {
+    "name": "Perrigny",
+    "country": "FR",
+    "lat": 46.66744,
+    "lng": 5.58456
+  },
+  {
+    "name": "Perrignier",
+    "country": "FR",
+    "lat": 46.30558,
+    "lng": 6.43928
+  },
+  {
+    "name": "Perriers-sur-Andelle",
+    "country": "FR",
+    "lat": 49.41487,
+    "lng": 1.37098
+  },
+  {
+    "name": "Perreux",
+    "country": "FR",
+    "lat": 46.04004,
+    "lng": 4.12663
+  },
+  {
+    "name": "Perrecy-les-Forges",
+    "country": "FR",
+    "lat": 46.61453,
+    "lng": 4.2138
+  },
+  {
+    "name": "Perpignan",
+    "country": "FR",
+    "lat": 42.69764,
+    "lng": 2.89541
+  },
+  {
+    "name": "Pernes-les-Fontaines",
+    "country": "FR",
+    "lat": 43.99802,
+    "lng": 5.05906
+  },
+  {
+    "name": "Pernes",
+    "country": "FR",
+    "lat": 50.48437,
+    "lng": 2.41253
+  },
+  {
+    "name": "Peri",
+    "country": "FR",
+    "lat": 42.00345,
+    "lng": 8.92066
+  },
+  {
+    "name": "Percy",
+    "country": "FR",
+    "lat": 48.91714,
+    "lng": -1.18916
+  },
+  {
+    "name": "Penvénan",
+    "country": "FR",
+    "lat": 48.81182,
+    "lng": -3.2955
+  },
+  {
+    "name": "Penta-di-Casinca",
+    "country": "FR",
+    "lat": 42.46579,
+    "lng": 9.45884
+  },
+  {
+    "name": "Pennautier",
+    "country": "FR",
+    "lat": 43.24577,
+    "lng": 2.31882
+  },
+  {
+    "name": "Pendé",
+    "country": "FR",
+    "lat": 50.16055,
+    "lng": 1.58541
+  },
+  {
+    "name": "Pencran",
+    "country": "FR",
+    "lat": 48.4376,
+    "lng": -4.23433
+  },
+  {
+    "name": "Peltre",
+    "country": "FR",
+    "lat": 49.0748,
+    "lng": 6.22721
+  },
+  {
+    "name": "Pelousey",
+    "country": "FR",
+    "lat": 47.27538,
+    "lng": 5.92263
+  },
+  {
+    "name": "Pellouailles-les-Vignes",
+    "country": "FR",
+    "lat": 47.52172,
+    "lng": -0.43954
+  },
+  {
+    "name": "Pellegrue",
+    "country": "FR",
+    "lat": 44.74335,
+    "lng": 0.07487
+  },
+  {
+    "name": "Peipin",
+    "country": "FR",
+    "lat": 44.13778,
+    "lng": 5.95722
+  },
+  {
+    "name": "Peillonnex",
+    "country": "FR",
+    "lat": 46.12861,
+    "lng": 6.37715
+  },
+  {
+    "name": "Peillon",
+    "country": "FR",
+    "lat": 43.77861,
+    "lng": 7.38278
+  },
+  {
+    "name": "Peille",
+    "country": "FR",
+    "lat": 43.80296,
+    "lng": 7.40191
+  },
+  {
+    "name": "Peillac",
+    "country": "FR",
+    "lat": 47.71346,
+    "lng": -2.21954
+  },
+  {
+    "name": "Pecquencourt",
+    "country": "FR",
+    "lat": 50.3785,
+    "lng": 3.21277
+  },
+  {
+    "name": "Pechbonnieu",
+    "country": "FR",
+    "lat": 43.70403,
+    "lng": 1.46654
+  },
+  {
+    "name": "Peaugres",
+    "country": "FR",
+    "lat": 45.28651,
+    "lng": 4.72845
+  },
+  {
+    "name": "Petit-Couronne",
+    "country": "FR",
+    "lat": 49.38333,
+    "lng": 1.01667
+  },
+  {
+    "name": "Pewsey",
+    "country": "GB",
+    "lat": 51.33855,
+    "lng": -1.76545
+  },
+  {
+    "name": "Pevensey",
+    "country": "GB",
+    "lat": 50.81966,
+    "lng": 0.33963
+  },
+  {
+    "name": "Petworth",
+    "country": "GB",
+    "lat": 50.98669,
+    "lng": -0.61
+  },
+  {
+    "name": "Petton",
+    "country": "GB",
+    "lat": 52.83333,
+    "lng": -2.83333
+  },
+  {
+    "name": "Petersfield",
+    "country": "GB",
+    "lat": 51.00495,
+    "lng": -0.93375
+  },
+  {
+    "name": "Peterlee",
+    "country": "GB",
+    "lat": 54.76032,
+    "lng": -1.33649
+  },
+  {
+    "name": "Peterhead",
+    "country": "GB",
+    "lat": 57.50517,
+    "lng": -1.78435
+  },
+  {
+    "name": "Peterculter",
+    "country": "GB",
+    "lat": 57.09929,
+    "lng": -2.26588
+  },
+  {
+    "name": "Peterborough",
+    "country": "GB",
+    "lat": 52.57364,
+    "lng": -0.24777
+  },
+  {
+    "name": "Perth",
+    "country": "GB",
+    "lat": 56.39522,
+    "lng": -3.43139
+  },
+  {
+    "name": "Pertenhall",
+    "country": "GB",
+    "lat": 52.27934,
+    "lng": -0.41448
+  },
+  {
+    "name": "Pershore",
+    "country": "GB",
+    "lat": 52.11163,
+    "lng": -2.07586
+  },
+  {
+    "name": "Perranwell",
+    "country": "GB",
+    "lat": 50.21333,
+    "lng": -5.12053
+  },
+  {
+    "name": "Perranporth",
+    "country": "GB",
+    "lat": 50.34377,
+    "lng": -5.15558
+  },
+  {
+    "name": "Peover Superior",
+    "country": "GB",
+    "lat": 53.25,
+    "lng": -2.35
+  },
+  {
+    "name": "Penzance",
+    "country": "GB",
+    "lat": 50.11861,
+    "lng": -5.53715
+  },
+  {
+    "name": "Penygroes",
+    "country": "GB",
+    "lat": 53.05502,
+    "lng": -4.28535
+  },
+  {
+    "name": "Penybont",
+    "country": "GB",
+    "lat": 52.26667,
+    "lng": -3.3
+  },
+  {
+    "name": "Pentyrch",
+    "country": "GB",
+    "lat": 51.52889,
+    "lng": -3.295
+  },
+  {
+    "name": "Penryn",
+    "country": "GB",
+    "lat": 50.16812,
+    "lng": -5.10416
+  },
+  {
+    "name": "Penrith",
+    "country": "GB",
+    "lat": 54.66579,
+    "lng": -2.75757
+  },
+  {
+    "name": "Penrhyndeudraeth",
+    "country": "GB",
+    "lat": 52.93333,
+    "lng": -4.06667
+  },
+  {
+    "name": "Penmaenmawr",
+    "country": "GB",
+    "lat": 53.26667,
+    "lng": -3.93333
+  },
+  {
+    "name": "Penllyn",
+    "country": "GB",
+    "lat": 51.47444,
+    "lng": -3.47889
+  },
+  {
+    "name": "Penkridge",
+    "country": "GB",
+    "lat": 52.72556,
+    "lng": -2.1156
+  },
+  {
+    "name": "Penistone",
+    "country": "GB",
+    "lat": 53.52572,
+    "lng": -1.63027
+  },
+  {
+    "name": "Penicuik",
+    "country": "GB",
+    "lat": 55.83116,
+    "lng": -3.22608
+  },
+  {
+    "name": "Pengam",
+    "country": "GB",
+    "lat": 51.66528,
+    "lng": -3.22694
+  },
+  {
+    "name": "Pencoyd",
+    "country": "GB",
+    "lat": 51.93333,
+    "lng": -2.7
+  },
+  {
+    "name": "Pencoed",
+    "country": "GB",
+    "lat": 51.52371,
+    "lng": -3.50016
+  },
+  {
+    "name": "Pen-clawdd",
+    "country": "GB",
+    "lat": 51.64028,
+    "lng": -4.09917
+  },
+  {
+    "name": "Pencaitland",
+    "country": "GB",
+    "lat": 55.90727,
+    "lng": -2.8949
+  },
+  {
+    "name": "Pencader",
+    "country": "GB",
+    "lat": 52.0008,
+    "lng": -4.26575
+  },
+  {
+    "name": "Penarth",
+    "country": "GB",
+    "lat": 51.4386,
+    "lng": -3.17342
+  },
+  {
+    "name": "Penally",
+    "country": "GB",
+    "lat": 51.65986,
+    "lng": -4.72399
+  },
+  {
+    "name": "Pembury",
+    "country": "GB",
+    "lat": 51.14296,
+    "lng": 0.32187
+  },
+  {
+    "name": "Pembroke Dock",
+    "country": "GB",
+    "lat": 51.69161,
+    "lng": -4.94036
+  },
+  {
+    "name": "Pembroke",
+    "country": "GB",
+    "lat": 51.67464,
+    "lng": -4.91286
+  },
+  {
+    "name": "Pelton",
+    "country": "GB",
+    "lat": 54.87305,
+    "lng": -1.6095
+  },
+  {
+    "name": "Pelsall",
+    "country": "GB",
+    "lat": 52.6291,
+    "lng": -1.96738
+  },
+  {
+    "name": "Pegswood",
+    "country": "GB",
+    "lat": 55.1793,
+    "lng": -1.64525
+  },
+  {
+    "name": "Peebles",
+    "country": "GB",
+    "lat": 55.6519,
+    "lng": -3.1888
+  },
+  {
+    "name": "Peakirk",
+    "country": "GB",
+    "lat": 52.64567,
+    "lng": -0.27294
+  },
+  {
+    "name": "Pensilva",
+    "country": "GB",
+    "lat": 50.50302,
+    "lng": -4.41491
+  },
+  {
+    "name": "Pennard",
+    "country": "GB",
+    "lat": 51.57627,
+    "lng": -4.08691
+  },
+  {
+    "name": "Peasedown Saint John",
+    "country": "GB",
+    "lat": 51.31667,
+    "lng": -2.42417
+  },
+  {
+    "name": "Peaslake",
+    "country": "GB",
+    "lat": 51.19156,
+    "lng": -0.44658
+  },
+  {
+    "name": "Penparcau",
+    "country": "GB",
+    "lat": 52.40333,
+    "lng": -4.07417
+  },
+  {
+    "name": "Peacehaven",
+    "country": "GB",
+    "lat": 50.7927,
+    "lng": -0.00652
+  },
+  {
+    "name": "Pevensey Bay",
+    "country": "GB",
+    "lat": 50.81242,
+    "lng": 0.34864
+  },
+  {
+    "name": "Peckham",
+    "country": "GB",
+    "lat": 51.47403,
+    "lng": -0.06969
+  },
+  {
+    "name": "Pentre",
+    "country": "GB",
+    "lat": 51.65429,
+    "lng": -3.49133
+  },
+  {
+    "name": "Penyffordd",
+    "country": "GB",
+    "lat": 53.14829,
+    "lng": -3.04584
+  },
+  {
+    "name": "Perranarworthal",
+    "country": "GB",
+    "lat": 50.20575,
+    "lng": -5.11993
+  },
+  {
+    "name": "Perry Vale",
+    "country": "GB",
+    "lat": 51.43639,
+    "lng": -0.04442
+  },
+  {
+    "name": "Perai",
+    "country": "GM",
+    "lat": 13.38333,
+    "lng": -14.03333
+  },
+  {
+    "name": "Petites Anses",
+    "country": "GP",
+    "lat": 15.84993,
+    "lng": -61.64457
+  },
+  {
+    "name": "Petit-Canal",
+    "country": "GP",
+    "lat": 16.37913,
+    "lng": -61.48716
+  },
+  {
+    "name": "Petit-Bourg",
+    "country": "GP",
+    "lat": 16.19163,
+    "lng": -61.5914
+  },
+  {
+    "name": "Petroúpolis",
+    "country": "GR",
+    "lat": 38.04187,
+    "lng": 23.68494
+  },
+  {
+    "name": "Petalídi",
+    "country": "GR",
+    "lat": 36.95847,
+    "lng": 21.92703
+  },
+  {
+    "name": "Periyiáli",
+    "country": "GR",
+    "lat": 37.94041,
+    "lng": 22.83946
+  },
+  {
+    "name": "Perivóli",
+    "country": "GR",
+    "lat": 39.41936,
+    "lng": 20.01469
+  },
+  {
+    "name": "Perivólia",
+    "country": "GR",
+    "lat": 35.48491,
+    "lng": 23.99421
+  },
+  {
+    "name": "Peristéri",
+    "country": "GR",
+    "lat": 38.01539,
+    "lng": 23.69187
+  },
+  {
+    "name": "Perachóra",
+    "country": "GR",
+    "lat": 38.03021,
+    "lng": 22.94902
+  },
+  {
+    "name": "Pentéli",
+    "country": "GR",
+    "lat": 38.05,
+    "lng": 23.86667
+  },
+  {
+    "name": "Pelópi",
+    "country": "GR",
+    "lat": 37.67444,
+    "lng": 21.59344
+  },
+  {
+    "name": "Pellána",
+    "country": "GR",
+    "lat": 37.20611,
+    "lng": 22.3214
+  },
+  {
+    "name": "Pelasgía",
+    "country": "GR",
+    "lat": 38.94813,
+    "lng": 22.8398
+  },
+  {
+    "name": "Pediní",
+    "country": "GR",
+    "lat": 39.59994,
+    "lng": 20.84261
+  },
+  {
+    "name": "Pefkochóri",
+    "country": "GR",
+    "lat": 39.98784,
+    "lng": 23.61219
+  },
+  {
+    "name": "Petroússa",
+    "country": "GR",
+    "lat": 41.1947,
+    "lng": 24.01731
+  },
+  {
+    "name": "Petrochóri",
+    "country": "GR",
+    "lat": 41.08742,
+    "lng": 24.84092
+  },
+  {
+    "name": "Peteinós",
+    "country": "GR",
+    "lat": 41.10056,
+    "lng": 24.89847
+  },
+  {
+    "name": "Perivolákion",
+    "country": "GR",
+    "lat": 40.74418,
+    "lng": 23.03571
+  },
+  {
+    "name": "Perístasi",
+    "country": "GR",
+    "lat": 40.27443,
+    "lng": 22.54164
+  },
+  {
+    "name": "Peraía",
+    "country": "GR",
+    "lat": 40.49874,
+    "lng": 22.92617
+  },
+  {
+    "name": "Pentaplátano",
+    "country": "GR",
+    "lat": 40.81902,
+    "lng": 22.41903
+  },
+  {
+    "name": "Pentálofos",
+    "country": "GR",
+    "lat": 40.74296,
+    "lng": 22.85256
+  },
+  {
+    "name": "Perama",
+    "country": "GR",
+    "lat": 39.58289,
+    "lng": 19.9122
+  },
+  {
+    "name": "Petapa",
+    "country": "GT",
+    "lat": 14.50189,
+    "lng": -90.56196
+  },
+  {
+    "name": "Peng Chau",
+    "country": "HK",
+    "lat": 22.28333,
+    "lng": 114.03333
+  },
+  {
+    "name": "Petoa",
+    "country": "HN",
+    "lat": 15.26939,
+    "lng": -88.28878
+  },
+  {
+    "name": "Pespire",
+    "country": "HN",
+    "lat": 13.59222,
+    "lng": -87.36167
+  },
+  {
+    "name": "Peña Blanca",
+    "country": "HN",
+    "lat": 15.53333,
+    "lng": -88.05
+  },
+  {
+    "name": "Petrovsko",
+    "country": "HR",
+    "lat": 46.16806,
+    "lng": 15.84083
+  },
+  {
+    "name": "Petrinja",
+    "country": "HR",
+    "lat": 45.4375,
+    "lng": 16.29
+  },
+  {
+    "name": "Petrijevci",
+    "country": "HR",
+    "lat": 45.61278,
+    "lng": 18.53528
+  },
+  {
+    "name": "Petrijanec",
+    "country": "HR",
+    "lat": 46.34917,
+    "lng": 16.225
+  },
+  {
+    "name": "Petlovac",
+    "country": "HR",
+    "lat": 45.75833,
+    "lng": 18.52806
+  },
+  {
+    "name": "Peteranec",
+    "country": "HR",
+    "lat": 46.19222,
+    "lng": 16.89167
+  },
+  {
+    "name": "Perušić",
+    "country": "HR",
+    "lat": 44.64944,
+    "lng": 15.38333
+  },
+  {
+    "name": "Peklenica",
+    "country": "HR",
+    "lat": 46.49706,
+    "lng": 16.4734
+  },
+  {
+    "name": "Petit Trou de Nippes",
+    "country": "HT",
+    "lat": 18.52535,
+    "lng": -73.50815
+  },
+  {
+    "name": "Petite Rivière de Nippes",
+    "country": "HT",
+    "lat": 18.47611,
+    "lng": -73.23495
+  },
+  {
+    "name": "Petite Anse",
+    "country": "HT",
+    "lat": 19.63011,
+    "lng": -73.15499
+  },
+  {
+    "name": "Perches",
+    "country": "HT",
+    "lat": 19.52201,
+    "lng": -71.92323
+  },
+  {
+    "name": "Petneháza",
+    "country": "HU",
+    "lat": 48.06084,
+    "lng": 22.07485
+  },
+  {
+    "name": "Petőfibánya",
+    "country": "HU",
+    "lat": 47.7696,
+    "lng": 19.69988
+  },
+  {
+    "name": "Pestlőrinc",
+    "country": "HU",
+    "lat": 47.42977,
+    "lng": 19.21592
+  },
+  {
+    "name": "Pesthidegkút",
+    "country": "HU",
+    "lat": 47.55764,
+    "lng": 18.96443
+  },
+  {
+    "name": "Pesterzsébet",
+    "country": "HU",
+    "lat": 47.43333,
+    "lng": 19.11667
+  },
+  {
+    "name": "Perkáta",
+    "country": "HU",
+    "lat": 47.04701,
+    "lng": 18.78734
+  },
+  {
+    "name": "Perbál",
+    "country": "HU",
+    "lat": 47.58957,
+    "lng": 18.76099
+  },
+  {
+    "name": "Pellérd",
+    "country": "HU",
+    "lat": 46.03438,
+    "lng": 18.15403
+  },
+  {
+    "name": "Peureulak",
+    "country": "ID",
+    "lat": 4.8098,
+    "lng": 97.8902
+  },
+  {
+    "name": "Percut",
+    "country": "ID",
+    "lat": 3.6253,
+    "lng": 98.864
+  },
+  {
+    "name": "Perbaungan",
+    "country": "ID",
+    "lat": 3.5679,
+    "lng": 98.956
+  },
+  {
+    "name": "Penaron",
+    "country": "ID",
+    "lat": 4.6407,
+    "lng": 97.6842
+  },
+  {
+    "name": "Pematangsiantar",
+    "country": "ID",
+    "lat": 2.9595,
+    "lng": 99.0687
+  },
+  {
+    "name": "Pematang Raya",
+    "country": "ID",
+    "lat": 2.9658,
+    "lng": 98.8473
+  },
+  {
+    "name": "Petakbehandang",
+    "country": "ID",
+    "lat": -2.0775,
+    "lng": 113.4364
+  },
+  {
+    "name": "Peranap",
+    "country": "ID",
+    "lat": -0.5449,
+    "lng": 101.9837
+  },
+  {
+    "name": "Peninjawan",
+    "country": "ID",
+    "lat": -3.86945,
+    "lng": 104.38233
+  },
+  {
+    "name": "Pengandonan",
+    "country": "ID",
+    "lat": -4.05421,
+    "lng": 103.87668
+  },
+  {
+    "name": "Pendolo",
+    "country": "ID",
+    "lat": -2.0746,
+    "lng": 120.6851
+  },
+  {
+    "name": "Pembuanghulu",
+    "country": "ID",
+    "lat": -2.5094,
+    "lng": 112.1515
+  },
+  {
+    "name": "Pemangkat",
+    "country": "ID",
+    "lat": 1.16667,
+    "lng": 108.96667
+  },
+  {
+    "name": "Pemalang",
+    "country": "ID",
+    "lat": -6.89193,
+    "lng": 109.38263
+  },
+  {
+    "name": "Pelau",
+    "country": "ID",
+    "lat": -3.5204,
+    "lng": 128.4681
+  },
+  {
+    "name": "Pelaihari",
+    "country": "ID",
+    "lat": -3.7987,
+    "lng": 114.7788
+  },
+  {
+    "name": "Pelabuhanratu",
+    "country": "ID",
+    "lat": -6.9875,
+    "lng": 106.55139
+  },
+  {
+    "name": "Pelabuhan Dagang",
+    "country": "ID",
+    "lat": -1.1463,
+    "lng": 103.08494
+  },
+  {
+    "name": "Pekanbaru",
+    "country": "ID",
+    "lat": 0.51667,
+    "lng": 101.44167
+  },
+  {
+    "name": "Pekalongan",
+    "country": "ID",
+    "lat": -6.8886,
+    "lng": 109.6753
+  },
+  {
+    "name": "Pedamaran",
+    "country": "ID",
+    "lat": -3.4884,
+    "lng": 104.8376
+  },
+  {
+    "name": "Pecangaan",
+    "country": "ID",
+    "lat": -6.6978,
+    "lng": 110.7107
+  },
+  {
+    "name": "Pemenang",
+    "country": "ID",
+    "lat": -8.40401,
+    "lng": 116.10255
+  },
+  {
+    "name": "Penajam",
+    "country": "ID",
+    "lat": -1.24919,
+    "lng": 116.76968
+  },
+  {
+    "name": "Pekalongan",
+    "country": "ID",
+    "lat": -5.08277,
+    "lng": 105.35885
+  },
+  {
+    "name": "Pengkok",
+    "country": "ID",
+    "lat": -7.1667,
+    "lng": 111.6099
+  },
+  {
+    "name": "Penataban Krajan Satu",
+    "country": "ID",
+    "lat": -8.2072,
+    "lng": 114.3563
+  },
+  {
+    "name": "Petoosang",
+    "country": "ID",
+    "lat": -3.4277,
+    "lng": 118.9906
+  },
+  {
+    "name": "Pekutatan",
+    "country": "ID",
+    "lat": -8.4207,
+    "lng": 114.8228
+  },
+  {
+    "name": "Penengahan",
+    "country": "ID",
+    "lat": -5.7706,
+    "lng": 105.6969
+  },
+  {
+    "name": "Pekan Bahapal",
+    "country": "ID",
+    "lat": 3.11313,
+    "lng": 99.17352
+  },
+  {
+    "name": "Peuleumat",
+    "country": "ID",
+    "lat": 3.52725,
+    "lng": 97.03086
+  },
+  {
+    "name": "Pegasing",
+    "country": "ID",
+    "lat": 4.57669,
+    "lng": 96.77592
+  },
+  {
+    "name": "Peukanbada",
+    "country": "ID",
+    "lat": 5.53606,
+    "lng": 95.2284
+  },
+  {
+    "name": "Pendawanbaru",
+    "country": "ID",
+    "lat": -2.5303,
+    "lng": 115.2418
+  },
+  {
+    "name": "Petani",
+    "country": "ID",
+    "lat": 0.32884,
+    "lng": 128.6527
+  },
+  {
+    "name": "Pemalang",
+    "country": "ID",
+    "lat": -6.92267,
+    "lng": 109.38521
+  },
+  {
+    "name": "Petaẖ Tiqva",
+    "country": "IL",
+    "lat": 32.08707,
+    "lng": 34.88747
+  },
+  {
+    "name": "Peel",
+    "country": "IM",
+    "lat": 54.22209,
+    "lng": -4.69099
+  },
+  {
+    "name": "Petlāwad",
+    "country": "IN",
+    "lat": 23.01102,
+    "lng": 74.79772
+  },
+  {
+    "name": "Petlād",
+    "country": "IN",
+    "lat": 22.47681,
+    "lng": 72.79995
+  },
+  {
+    "name": "Pethāpur",
+    "country": "IN",
+    "lat": 23.26307,
+    "lng": 72.67386
+  },
+  {
+    "name": "Perūr",
+    "country": "IN",
+    "lat": 10.97519,
+    "lng": 76.91292
+  },
+  {
+    "name": "Perundurai",
+    "country": "IN",
+    "lat": 11.27564,
+    "lng": 77.58794
+  },
+  {
+    "name": "Perumpāvūr",
+    "country": "IN",
+    "lat": 10.11544,
+    "lng": 76.47611
+  },
+  {
+    "name": "Perumānallūr",
+    "country": "IN",
+    "lat": 11.20503,
+    "lng": 77.35889
+  },
+  {
+    "name": "Pernem",
+    "country": "IN",
+    "lat": 15.723,
+    "lng": 73.79511
+  },
+  {
+    "name": "Periyapatti",
+    "country": "IN",
+    "lat": 10.75812,
+    "lng": 77.27087
+  },
+  {
+    "name": "Periyanegamam",
+    "country": "IN",
+    "lat": 10.74317,
+    "lng": 77.10296
+  },
+  {
+    "name": "Periyanayakkanpalaiyam",
+    "country": "IN",
+    "lat": 11.15255,
+    "lng": 76.95159
+  },
+  {
+    "name": "Periyakulam",
+    "country": "IN",
+    "lat": 10.12268,
+    "lng": 77.54372
+  },
+  {
+    "name": "Perya",
+    "country": "IN",
+    "lat": 11.83334,
+    "lng": 75.85408
+  },
+  {
+    "name": "Perintalmanna",
+    "country": "IN",
+    "lat": 10.97724,
+    "lng": 76.22541
+  },
+  {
+    "name": "Peravurani",
+    "country": "IN",
+    "lat": 10.29035,
+    "lng": 79.20156
+  },
+  {
+    "name": "Peranāmpattu",
+    "country": "IN",
+    "lat": 12.9343,
+    "lng": 78.7189
+  },
+  {
+    "name": "Peranamallūr",
+    "country": "IN",
+    "lat": 12.57052,
+    "lng": 79.43332
+  },
+  {
+    "name": "Perambalur",
+    "country": "IN",
+    "lat": 11.23333,
+    "lng": 78.88333
+  },
+  {
+    "name": "Peraiyur",
+    "country": "IN",
+    "lat": 9.73579,
+    "lng": 77.78955
+  },
+  {
+    "name": "Penukonda",
+    "country": "IN",
+    "lat": 14.08286,
+    "lng": 77.59473
+  },
+  {
+    "name": "Penugonda",
+    "country": "IN",
+    "lat": 16.65363,
+    "lng": 81.7455
+  },
+  {
+    "name": "Pennāthur",
+    "country": "IN",
+    "lat": 12.24681,
+    "lng": 79.22592
+  },
+  {
+    "name": "Pennāgaram",
+    "country": "IN",
+    "lat": 12.13433,
+    "lng": 77.89525
+  },
+  {
+    "name": "Pennādam",
+    "country": "IN",
+    "lat": 11.40389,
+    "lng": 79.24156
+  },
+  {
+    "name": "Pendra",
+    "country": "IN",
+    "lat": 22.77548,
+    "lng": 81.95968
+  },
+  {
+    "name": "Pen",
+    "country": "IN",
+    "lat": 18.73734,
+    "lng": 73.09603
+  },
+  {
+    "name": "Pehowa",
+    "country": "IN",
+    "lat": 29.97897,
+    "lng": 76.58249
+  },
+  {
+    "name": "Peddāpuram",
+    "country": "IN",
+    "lat": 17.07701,
+    "lng": 82.13836
+  },
+  {
+    "name": "Peddapalli",
+    "country": "IN",
+    "lat": 18.61357,
+    "lng": 79.37442
+  },
+  {
+    "name": "Peddanāyakkanpālaiyam",
+    "country": "IN",
+    "lat": 11.65104,
+    "lng": 78.50872
+  },
+  {
+    "name": "Pedana",
+    "country": "IN",
+    "lat": 16.25582,
+    "lng": 81.14378
+  },
+  {
+    "name": "Perungudi",
+    "country": "IN",
+    "lat": 12.96095,
+    "lng": 80.24094
+  },
+  {
+    "name": "Pedappai",
+    "country": "IN",
+    "lat": 12.88537,
+    "lng": 80.02205
+  },
+  {
+    "name": "Perunkalattu",
+    "country": "IN",
+    "lat": 12.91823,
+    "lng": 80.08245
+  },
+  {
+    "name": "Perumbavoor",
+    "country": "IN",
+    "lat": 10.10695,
+    "lng": 76.47366
+  },
+  {
+    "name": "Periyapattinam",
+    "country": "IN",
+    "lat": 9.27263,
+    "lng": 78.90232
+  },
+  {
+    "name": "pedda nakkalapalem",
+    "country": "IN",
+    "lat": 15.8668,
+    "lng": 80.16202
+  },
+  {
+    "name": "Pehlādpur Bāngar",
+    "country": "IN",
+    "lat": 28.75058,
+    "lng": 77.081
+  },
+  {
+    "name": "Peddaboddepalle",
+    "country": "IN",
+    "lat": 17.66064,
+    "lng": 82.62957
+  },
+  {
+    "name": "Peddikuppam",
+    "country": "IN",
+    "lat": 13.44101,
+    "lng": 80.12175
+  },
+  {
+    "name": "Perole",
+    "country": "IN",
+    "lat": 12.25729,
+    "lng": 75.1393
+  },
+  {
+    "name": "Pelāwāl",
+    "country": "IN",
+    "lat": 24.01582,
+    "lng": 85.33787
+  },
+  {
+    "name": "Perumanna",
+    "country": "IN",
+    "lat": 11.2529,
+    "lng": 75.89059
+  },
+  {
+    "name": "Peruvallur",
+    "country": "IN",
+    "lat": 11.10483,
+    "lng": 75.93269
+  },
+  {
+    "name": "Peramangalam",
+    "country": "IN",
+    "lat": 10.57329,
+    "lng": 76.1689
+  },
+  {
+    "name": "Periyagaram",
+    "country": "IN",
+    "lat": 12.48941,
+    "lng": 78.51806
+  },
+  {
+    "name": "Perumbākkam",
+    "country": "IN",
+    "lat": 13.03949,
+    "lng": 79.81327
+  },
+  {
+    "name": "Peringottupulam",
+    "country": "IN",
+    "lat": 11.02682,
+    "lng": 76.0987
+  },
+  {
+    "name": "Peringandūr",
+    "country": "IN",
+    "lat": 10.62457,
+    "lng": 76.19879
+  },
+  {
+    "name": "Perunād",
+    "country": "IN",
+    "lat": 8.94899,
+    "lng": 76.64274
+  },
+  {
+    "name": "Periyakoduveri",
+    "country": "IN",
+    "lat": 11.47781,
+    "lng": 77.29898
+  },
+  {
+    "name": "Pettāmpālaiyam",
+    "country": "IN",
+    "lat": 11.3499,
+    "lng": 77.57058
+  },
+  {
+    "name": "Periya Semūr",
+    "country": "IN",
+    "lat": 11.36088,
+    "lng": 77.68952
+  },
+  {
+    "name": "Periyakottai",
+    "country": "IN",
+    "lat": 10.59095,
+    "lng": 77.27967
+  },
+  {
+    "name": "Periyākkurichchi",
+    "country": "IN",
+    "lat": 11.54004,
+    "lng": 79.48943
+  },
+  {
+    "name": "Perumpāndi",
+    "country": "IN",
+    "lat": 10.96868,
+    "lng": 79.37435
+  },
+  {
+    "name": "Peralam",
+    "country": "IN",
+    "lat": 10.96285,
+    "lng": 79.66082
+  },
+  {
+    "name": "Peruvila",
+    "country": "IN",
+    "lat": 8.18549,
+    "lng": 77.39612
+  },
+  {
+    "name": "Perungulam",
+    "country": "IN",
+    "lat": 8.64133,
+    "lng": 77.99847
+  },
+  {
+    "name": "Periyapatti",
+    "country": "IN",
+    "lat": 11.20516,
+    "lng": 78.15118
+  },
+  {
+    "name": "Pedda bhogili",
+    "country": "IN",
+    "lat": 18.6612,
+    "lng": 83.3784
+  },
+  {
+    "name": "Perur",
+    "country": "IN",
+    "lat": 13.61883,
+    "lng": 79.38255
+  },
+  {
+    "name": "Penha de França",
+    "country": "IN",
+    "lat": 15.51705,
+    "lng": 73.83537
+  },
+  {
+    "name": "Petro-Chemical Complex INA",
+    "country": "IN",
+    "lat": 22.37549,
+    "lng": 73.11812
+  },
+  {
+    "name": "Peralassery",
+    "country": "IN",
+    "lat": 11.83223,
+    "lng": 75.48252
+  },
+  {
+    "name": "Perinjanam",
+    "country": "IN",
+    "lat": 10.31328,
+    "lng": 76.14847
+  },
+  {
+    "name": "Peringathur",
+    "country": "IN",
+    "lat": 11.7137,
+    "lng": 75.58599
+  },
+  {
+    "name": "Perumbaikad",
+    "country": "IN",
+    "lat": 9.61827,
+    "lng": 76.53127
+  },
+  {
+    "name": "Perumagalur",
+    "country": "IN",
+    "lat": 10.19778,
+    "lng": 79.19174
+  },
+  {
+    "name": "Pennathur",
+    "country": "IN",
+    "lat": 12.84664,
+    "lng": 79.11083
+  },
+  {
+    "name": "Pettineo",
+    "country": "IT",
+    "lat": 37.96793,
+    "lng": 14.29118
+  },
+  {
+    "name": "Petrosino",
+    "country": "IT",
+    "lat": 37.71271,
+    "lng": 12.49964
+  },
+  {
+    "name": "Petronà",
+    "country": "IT",
+    "lat": 39.0437,
+    "lng": 16.75796
+  },
+  {
+    "name": "Petrizzi",
+    "country": "IT",
+    "lat": 38.70179,
+    "lng": 16.47187
+  },
+  {
+    "name": "Petralia Sottana",
+    "country": "IT",
+    "lat": 37.80919,
+    "lng": 14.09293
+  },
+  {
+    "name": "Petralia Soprana",
+    "country": "IT",
+    "lat": 37.80064,
+    "lng": 14.10813
+  },
+  {
+    "name": "Petilia Policastro",
+    "country": "IT",
+    "lat": 39.11293,
+    "lng": 16.78167
+  },
+  {
+    "name": "Pernocari-Presinaci",
+    "country": "IT",
+    "lat": 38.61184,
+    "lng": 16.00463
+  },
+  {
+    "name": "Perdaxius",
+    "country": "IT",
+    "lat": 39.16028,
+    "lng": 8.61083
+  },
+  {
+    "name": "Perdasdefogu",
+    "country": "IT",
+    "lat": 39.67959,
+    "lng": 9.44082
+  },
+  {
+    "name": "Pentone",
+    "country": "IT",
+    "lat": 38.98579,
+    "lng": 16.5825
+  },
+  {
+    "name": "Pellaro",
+    "country": "IT",
+    "lat": 38.01667,
+    "lng": 15.65
+  },
+  {
+    "name": "Pedivigliano",
+    "country": "IT",
+    "lat": 39.11034,
+    "lng": 16.30486
+  },
+  {
+    "name": "Pedara",
+    "country": "IT",
+    "lat": 37.62386,
+    "lng": 15.05672
+  },
+  {
+    "name": "Pedagaggi",
+    "country": "IT",
+    "lat": 37.19182,
+    "lng": 14.93654
+  },
+  {
+    "name": "Pedace-Perito",
+    "country": "IT",
+    "lat": 39.27639,
+    "lng": 16.33639
+  },
+  {
+    "name": "Pezze di Greco",
+    "country": "IT",
+    "lat": 40.81004,
+    "lng": 17.41333
+  },
+  {
+    "name": "Pezzana",
+    "country": "IT",
+    "lat": 45.26152,
+    "lng": 8.48396
+  },
+  {
+    "name": "Peveragno",
+    "country": "IT",
+    "lat": 44.3206,
+    "lng": 7.61859
+  },
+  {
+    "name": "Pettorazza Grimani",
+    "country": "IT",
+    "lat": 45.13585,
+    "lng": 11.98779
+  },
+  {
+    "name": "Pettorano sul Gizio",
+    "country": "IT",
+    "lat": 41.97326,
+    "lng": 13.96001
+  },
+  {
+    "name": "Pettoranello del Molise",
+    "country": "IT",
+    "lat": 41.57331,
+    "lng": 14.27839
+  },
+  {
+    "name": "Pettinengo",
+    "country": "IT",
+    "lat": 45.61306,
+    "lng": 8.10422
+  },
+  {
+    "name": "Petruro Irpino",
+    "country": "IT",
+    "lat": 41.03192,
+    "lng": 14.79754
+  },
+  {
+    "name": "Petritoli",
+    "country": "IT",
+    "lat": 43.06809,
+    "lng": 13.66385
+  },
+  {
+    "name": "Petriolo",
+    "country": "IT",
+    "lat": 43.22141,
+    "lng": 13.46173
+  },
+  {
+    "name": "Petrignano",
+    "country": "IT",
+    "lat": 43.10269,
+    "lng": 12.53239
+  },
+  {
+    "name": "Petriano",
+    "country": "IT",
+    "lat": 43.77935,
+    "lng": 12.73214
+  },
+  {
+    "name": "Petrella Tifernina",
+    "country": "IT",
+    "lat": 41.69135,
+    "lng": 14.69751
+  },
+  {
+    "name": "Petrella Salto",
+    "country": "IT",
+    "lat": 42.29405,
+    "lng": 13.06794
+  },
+  {
+    "name": "Petina",
+    "country": "IT",
+    "lat": 40.53211,
+    "lng": 15.37346
+  },
+  {
+    "name": "Petacciato",
+    "country": "IT",
+    "lat": 42.00827,
+    "lng": 14.86026
+  },
+  {
+    "name": "Pessione",
+    "country": "IT",
+    "lat": 44.96504,
+    "lng": 7.84115
+  },
+  {
+    "name": "Pessinetto",
+    "country": "IT",
+    "lat": 45.28675,
+    "lng": 7.41531
+  },
+  {
+    "name": "Pessina Cremonese",
+    "country": "IT",
+    "lat": 45.18505,
+    "lng": 10.24815
+  },
+  {
+    "name": "Pescosolido",
+    "country": "IT",
+    "lat": 41.74864,
+    "lng": 13.6569
+  },
+  {
+    "name": "Pescosansonesco Nuovo",
+    "country": "IT",
+    "lat": 42.25524,
+    "lng": 13.8848
+  },
+  {
+    "name": "Pesco Sannita",
+    "country": "IT",
+    "lat": 41.23273,
+    "lng": 14.81122
+  },
+  {
+    "name": "Pescorocchiano",
+    "country": "IT",
+    "lat": 42.20623,
+    "lng": 13.14715
+  },
+  {
+    "name": "Pescopennataro",
+    "country": "IT",
+    "lat": 41.87777,
+    "lng": 14.29398
+  },
+  {
+    "name": "Pescopagano",
+    "country": "IT",
+    "lat": 40.83494,
+    "lng": 15.39946
+  },
+  {
+    "name": "Pescolanciano",
+    "country": "IT",
+    "lat": 41.67972,
+    "lng": 14.33658
+  },
+  {
+    "name": "Pescocostanzo",
+    "country": "IT",
+    "lat": 41.88722,
+    "lng": 14.06614
+  },
+  {
+    "name": "Pescina",
+    "country": "IT",
+    "lat": 42.02351,
+    "lng": 13.65116
+  },
+  {
+    "name": "Pescia Romana",
+    "country": "IT",
+    "lat": 42.39963,
+    "lng": 11.49651
+  },
+  {
+    "name": "Pescia",
+    "country": "IT",
+    "lat": 43.8871,
+    "lng": 10.68849
+  },
+  {
+    "name": "Peschiera del Garda",
+    "country": "IT",
+    "lat": 45.43912,
+    "lng": 10.68614
+  },
+  {
+    "name": "Peschici",
+    "country": "IT",
+    "lat": 41.94521,
+    "lng": 16.01612
+  },
+  {
+    "name": "Pesche",
+    "country": "IT",
+    "lat": 41.60552,
+    "lng": 14.2762
+  },
+  {
+    "name": "Pescasseroli",
+    "country": "IT",
+    "lat": 41.80343,
+    "lng": 13.78707
+  },
+  {
+    "name": "Pescarolo",
+    "country": "IT",
+    "lat": 45.19387,
+    "lng": 10.18647
+  },
+  {
+    "name": "Pescara",
+    "country": "IT",
+    "lat": 42.4584,
+    "lng": 14.20283
+  },
+  {
+    "name": "Pescantina",
+    "country": "IT",
+    "lat": 45.48548,
+    "lng": 10.86796
+  },
+  {
+    "name": "Pescaglia",
+    "country": "IT",
+    "lat": 43.96517,
+    "lng": 10.41292
+  },
+  {
+    "name": "Pesaro",
+    "country": "IT",
+    "lat": 43.90921,
+    "lng": 12.9164
+  },
+  {
+    "name": "Perugia",
+    "country": "IT",
+    "lat": 43.1122,
+    "lng": 12.38878
+  },
+  {
+    "name": "Pertosa",
+    "country": "IT",
+    "lat": 40.54346,
+    "lng": 15.45009
+  },
+  {
+    "name": "Pertengo",
+    "country": "IT",
+    "lat": 45.23606,
+    "lng": 8.41651
+  },
+  {
+    "name": "Perrero",
+    "country": "IT",
+    "lat": 44.93849,
+    "lng": 7.11263
+  },
+  {
+    "name": "Perosa Argentina",
+    "country": "IT",
+    "lat": 44.95909,
+    "lng": 7.19167
+  },
+  {
+    "name": "Pernumia",
+    "country": "IT",
+    "lat": 45.25899,
+    "lng": 11.78721
+  },
+  {
+    "name": "Pernate",
+    "country": "IT",
+    "lat": 45.45958,
+    "lng": 8.67845
+  },
+  {
+    "name": "Perito",
+    "country": "IT",
+    "lat": 40.29854,
+    "lng": 15.14746
+  },
+  {
+    "name": "Perinaldo",
+    "country": "IT",
+    "lat": 43.86689,
+    "lng": 7.67194
+  },
+  {
+    "name": "Pergola",
+    "country": "IT",
+    "lat": 43.55485,
+    "lng": 12.83633
+  },
+  {
+    "name": "Pergine Valsugana",
+    "country": "IT",
+    "lat": 46.06434,
+    "lng": 11.23758
+  },
+  {
+    "name": "Pergine Valdarno",
+    "country": "IT",
+    "lat": 43.47028,
+    "lng": 11.68552
+  },
+  {
+    "name": "Perfugas",
+    "country": "IT",
+    "lat": 40.83231,
+    "lng": 8.88354
+  },
+  {
+    "name": "Pereto",
+    "country": "IT",
+    "lat": 42.05821,
+    "lng": 13.10231
+  },
+  {
+    "name": "Perdifumo",
+    "country": "IT",
+    "lat": 40.26694,
+    "lng": 15.01652
+  },
+  {
+    "name": "Percoto",
+    "country": "IT",
+    "lat": 45.97471,
+    "lng": 13.32304
+  },
+  {
+    "name": "Percile",
+    "country": "IT",
+    "lat": 42.09497,
+    "lng": 12.91048
+  },
+  {
+    "name": "Perca",
+    "country": "IT",
+    "lat": 46.79343,
+    "lng": 11.98339
+  },
+  {
+    "name": "Perarolo di Cadore",
+    "country": "IT",
+    "lat": 46.39383,
+    "lng": 12.35636
+  },
+  {
+    "name": "Perano",
+    "country": "IT",
+    "lat": 42.1046,
+    "lng": 14.39581
+  },
+  {
+    "name": "Penne",
+    "country": "IT",
+    "lat": 42.45474,
+    "lng": 13.92754
+  },
+  {
+    "name": "Penna Sant'Andrea",
+    "country": "IT",
+    "lat": 42.59403,
+    "lng": 13.77215
+  },
+  {
+    "name": "Penna San Giovanni",
+    "country": "IT",
+    "lat": 43.05608,
+    "lng": 13.42539
+  },
+  {
+    "name": "Pennapiedimonte",
+    "country": "IT",
+    "lat": 42.15563,
+    "lng": 14.19432
+  },
+  {
+    "name": "Penna in Teverina",
+    "country": "IT",
+    "lat": 42.49342,
+    "lng": 12.35845
+  },
+  {
+    "name": "Pennadomo",
+    "country": "IT",
+    "lat": 42.00394,
+    "lng": 14.32338
+  },
+  {
+    "name": "Pennabilli",
+    "country": "IT",
+    "lat": 43.81746,
+    "lng": 12.26708
+  },
+  {
+    "name": "Pellizzano",
+    "country": "IT",
+    "lat": 46.3098,
+    "lng": 10.7579
+  },
+  {
+    "name": "Pellezzano",
+    "country": "IT",
+    "lat": 40.72521,
+    "lng": 14.75744
+  },
+  {
+    "name": "Pellestrina",
+    "country": "IT",
+    "lat": 45.27716,
+    "lng": 12.30238
+  },
+  {
+    "name": "Pellegrino Parmense",
+    "country": "IT",
+    "lat": 44.7295,
+    "lng": 9.9324
+  },
+  {
+    "name": "Pella",
+    "country": "IT",
+    "lat": 45.79722,
+    "lng": 8.38444
+  },
+  {
+    "name": "Pelago",
+    "country": "IT",
+    "lat": 43.77255,
+    "lng": 11.50148
+  },
+  {
+    "name": "Pegolotte",
+    "country": "IT",
+    "lat": 45.19178,
+    "lng": 12.03791
+  },
+  {
+    "name": "Pegognaga",
+    "country": "IT",
+    "lat": 44.99456,
+    "lng": 10.85967
+  },
+  {
+    "name": "Peglio",
+    "country": "IT",
+    "lat": 43.69646,
+    "lng": 12.49785
+  },
+  {
+    "name": "Pedesina",
+    "country": "IT",
+    "lat": 46.08189,
+    "lng": 9.54944
+  },
+  {
+    "name": "Pederobba",
+    "country": "IT",
+    "lat": 45.87567,
+    "lng": 11.94977
+  },
+  {
+    "name": "Pedavena",
+    "country": "IT",
+    "lat": 46.03951,
+    "lng": 11.8831
+  },
+  {
+    "name": "Pedaso",
+    "country": "IT",
+    "lat": 43.09839,
+    "lng": 13.84083
+  },
+  {
+    "name": "Pecorara",
+    "country": "IT",
+    "lat": 44.87582,
+    "lng": 9.38387
+  },
+  {
+    "name": "Pecetto di Valenza",
+    "country": "IT",
+    "lat": 44.98904,
+    "lng": 8.66996
+  },
+  {
+    "name": "Pecetto",
+    "country": "IT",
+    "lat": 45.0176,
+    "lng": 7.75107
+  },
+  {
+    "name": "Peccioli",
+    "country": "IT",
+    "lat": 43.54963,
+    "lng": 10.7172
+  },
+  {
+    "name": "Pertegada",
+    "country": "IT",
+    "lat": 45.72179,
+    "lng": 13.04379
+  },
+  {
+    "name": "Pero",
+    "country": "IT",
+    "lat": 45.70635,
+    "lng": 12.34867
+  },
+  {
+    "name": "Peseggia-Gardigiano",
+    "country": "IT",
+    "lat": 45.56167,
+    "lng": 12.17944
+  },
+  {
+    "name": "Pero",
+    "country": "IT",
+    "lat": 45.51017,
+    "lng": 9.08704
+  },
+  {
+    "name": "Pessano Con Bornago",
+    "country": "IT",
+    "lat": 45.54937,
+    "lng": 9.38145
+  },
+  {
+    "name": "Perlo",
+    "country": "IT",
+    "lat": 44.33183,
+    "lng": 8.08554
+  },
+  {
+    "name": "Petit Fenis",
+    "country": "IT",
+    "lat": 45.75115,
+    "lng": 7.46391
+  },
+  {
+    "name": "Peglio",
+    "country": "IT",
+    "lat": 46.16039,
+    "lng": 9.29474
+  },
+  {
+    "name": "Pellio Intelvi",
+    "country": "IT",
+    "lat": 45.97988,
+    "lng": 9.05864
+  },
+  {
+    "name": "Pedrengo",
+    "country": "IT",
+    "lat": 45.69598,
+    "lng": 9.73495
+  },
+  {
+    "name": "Peia",
+    "country": "IT",
+    "lat": 45.79949,
+    "lng": 9.89926
+  },
+  {
+    "name": "Persico Dosimo",
+    "country": "IT",
+    "lat": 45.18587,
+    "lng": 10.10517
+  },
+  {
+    "name": "Pedemonte",
+    "country": "IT",
+    "lat": 45.9084,
+    "lng": 11.30859
+  },
+  {
+    "name": "Pelugo",
+    "country": "IT",
+    "lat": 46.0885,
+    "lng": 10.72387
+  },
+  {
+    "name": "Pertica Alta",
+    "country": "IT",
+    "lat": 45.74239,
+    "lng": 10.34417
+  },
+  {
+    "name": "Pertica Bassa",
+    "country": "IT",
+    "lat": 45.75339,
+    "lng": 10.37247
+  },
+  {
+    "name": "Pezzaze",
+    "country": "IT",
+    "lat": 45.77629,
+    "lng": 10.23597
+  },
+  {
+    "name": "Perletto",
+    "country": "IT",
+    "lat": 44.59934,
+    "lng": 8.21304
+  },
+  {
+    "name": "Perloz",
+    "country": "IT",
+    "lat": 45.61386,
+    "lng": 7.80811
+  },
+  {
+    "name": "Perego",
+    "country": "IT",
+    "lat": 45.73758,
+    "lng": 9.36295
+  },
+  {
+    "name": "Perledo",
+    "country": "IT",
+    "lat": 46.01529,
+    "lng": 9.2956
+  },
+  {
+    "name": "Pescate",
+    "country": "IT",
+    "lat": 45.83348,
+    "lng": 9.39395
+  },
+  {
+    "name": "Pecco",
+    "country": "IT",
+    "lat": 45.45206,
+    "lng": 7.77742
+  },
+  {
+    "name": "Perosa Canavese",
+    "country": "IT",
+    "lat": 45.39706,
+    "lng": 7.83082
+  },
+  {
+    "name": "Pertusio",
+    "country": "IT",
+    "lat": 45.35565,
+    "lng": 7.64152
+  },
+  {
+    "name": "Pezzolo Valle Uzzone",
+    "country": "IT",
+    "lat": 44.53874,
+    "lng": 8.19394
+  },
+  {
+    "name": "Penango",
+    "country": "IT",
+    "lat": 45.03295,
+    "lng": 8.25174
+  },
+  {
+    "name": "Pettenasco",
+    "country": "IT",
+    "lat": 45.81657,
+    "lng": 8.40702
+  },
+  {
+    "name": "Pedemonte",
+    "country": "IT",
+    "lat": 45.50302,
+    "lng": 10.91865
+  },
+  {
+    "name": "Pedemonte",
+    "country": "IT",
+    "lat": 44.50307,
+    "lng": 8.92614
+  },
+  {
+    "name": "Pezzano-Filetta",
+    "country": "IT",
+    "lat": 40.69773,
+    "lng": 14.86971
+  },
+  {
+    "name": "Penitro",
+    "country": "IT",
+    "lat": 41.27328,
+    "lng": 13.69262
+  },
+  {
+    "name": "Pedalino",
+    "country": "IT",
+    "lat": 37.0232,
+    "lng": 14.58116
+  },
+  {
+    "name": "Petrosino",
+    "country": "IT",
+    "lat": 37.88392,
+    "lng": 14.79912
+  },
+  {
+    "name": "Pennisi",
+    "country": "IT",
+    "lat": 37.64945,
+    "lng": 15.12385
+  },
+  {
+    "name": "Pezzan",
+    "country": "IT",
+    "lat": 45.69341,
+    "lng": 12.09616
+  },
+  {
+    "name": "Pederiva",
+    "country": "IT",
+    "lat": 45.42254,
+    "lng": 11.46568
+  },
+  {
+    "name": "Pendino",
+    "country": "IT",
+    "lat": 40.84708,
+    "lng": 14.26321
+  },
+  {
+    "name": "Petersfield",
+    "country": "JM",
+    "lat": 18.26158,
+    "lng": -78.07117
+  },
+  {
+    "name": "Penwood",
+    "country": "JM",
+    "lat": 18.00982,
+    "lng": -76.83347
+  },
+  {
+    "name": "Peam Ro",
+    "country": "KH",
+    "lat": 11.30852,
+    "lng": 105.28366
+  },
+  {
+    "name": "Peam Chor",
+    "country": "KH",
+    "lat": 11.09877,
+    "lng": 105.22114
+  },
+  {
+    "name": "Pechreada",
+    "country": "KH",
+    "lat": 12.55254,
+    "lng": 107.42393
+  },
+  {
+    "name": "Pedro",
+    "country": "KY",
+    "lat": 19.27581,
+    "lng": -81.27487
+  },
+  {
+    "name": "Pease Bay",
+    "country": "KY",
+    "lat": 19.28781,
+    "lng": -81.24166
+  },
+  {
+    "name": "Peremetnoe",
+    "country": "KZ",
+    "lat": 51.19801,
+    "lng": 50.85291
+  },
+  {
+    "name": "Petropavl",
+    "country": "KZ",
+    "lat": 54.87343,
+    "lng": 69.15065
+  },
+  {
+    "name": "Pervorossiyskoye",
+    "country": "KZ",
+    "lat": 49.71739,
+    "lng": 83.8486
+  },
+  {
+    "name": "Pervomayka",
+    "country": "KZ",
+    "lat": 43.37361,
+    "lng": 76.94
+  },
+  {
+    "name": "Peliyagoda",
+    "country": "LK",
+    "lat": 6.9685,
+    "lng": 79.8836
+  },
+  {
+    "name": "Peka",
+    "country": "LS",
+    "lat": -28.96883,
+    "lng": 27.76258
+  },
+  {
+    "name": "Pervalka",
+    "country": "LT",
+    "lat": 55.41486,
+    "lng": 21.09774
+  },
+  {
+    "name": "Pervomaisc",
+    "country": "MD",
+    "lat": 46.73253,
+    "lng": 29.9617
+  },
+  {
+    "name": "Petrovac na Moru",
+    "country": "ME",
+    "lat": 42.20556,
+    "lng": 18.9425
+  },
+  {
+    "name": "Petnjica",
+    "country": "ME",
+    "lat": 42.90966,
+    "lng": 19.96364
+  },
+  {
+    "name": "Pehčevo",
+    "country": "MK",
+    "lat": 41.76252,
+    "lng": 22.88982
+  },
+  {
+    "name": "Pembroke",
+    "country": "MT",
+    "lat": 35.93024,
+    "lng": 14.47793
+  },
+  {
+    "name": "Petit Raffray",
+    "country": "MU",
+    "lat": -20.02022,
+    "lng": 57.62296
+  },
+  {
+    "name": "Petite Rivière",
+    "country": "MU",
+    "lat": -20.19551,
+    "lng": 57.44592
+  },
+  {
+    "name": "Petite Case Noyale",
+    "country": "MU",
+    "lat": -20.404,
+    "lng": 57.371
+  },
+  {
+    "name": "Pemucho",
+    "country": "MX",
+    "lat": 21.19738,
+    "lng": -98.83015
+  },
+  {
+    "name": "Perseverancia",
+    "country": "MX",
+    "lat": 22.2199,
+    "lng": -97.99627
+  },
+  {
+    "name": "Petapa",
+    "country": "MX",
+    "lat": 16.8206,
+    "lng": -95.11913
+  },
+  {
+    "name": "Peras",
+    "country": "MX",
+    "lat": 17.35919,
+    "lng": -98.23718
+  },
+  {
+    "name": "Peto",
+    "country": "MX",
+    "lat": 20.12776,
+    "lng": -88.92282
+  },
+  {
+    "name": "Petlalcingo",
+    "country": "MX",
+    "lat": 18.08463,
+    "lng": -97.9175
+  },
+  {
+    "name": "Petaquillas",
+    "country": "MX",
+    "lat": 17.48636,
+    "lng": -99.45633
+  },
+  {
+    "name": "Petalcingo",
+    "country": "MX",
+    "lat": 17.22715,
+    "lng": -92.41511
+  },
+  {
+    "name": "Perote",
+    "country": "MX",
+    "lat": 19.56233,
+    "lng": -97.24235
+  },
+  {
+    "name": "Perla de Acapulco",
+    "country": "MX",
+    "lat": 16.7957,
+    "lng": -91.47793
+  },
+  {
+    "name": "Pencuyut",
+    "country": "MX",
+    "lat": 20.29408,
+    "lng": -89.28947
+  },
+  {
+    "name": "Peñamiller",
+    "country": "MX",
+    "lat": 21.05352,
+    "lng": -99.81542
+  },
+  {
+    "name": "Pemex",
+    "country": "MX",
+    "lat": 17.88302,
+    "lng": -92.47947
+  },
+  {
+    "name": "Pedregal de San José",
+    "country": "MX",
+    "lat": 20.06616,
+    "lng": -98.40703
+  },
+  {
+    "name": "Pericotepec",
+    "country": "MX",
+    "lat": 18.6067,
+    "lng": -97.63098
+  },
+  {
+    "name": "Peñuela",
+    "country": "MX",
+    "lat": 18.86432,
+    "lng": -96.89327
+  },
+  {
+    "name": "Pedregoso",
+    "country": "MX",
+    "lat": 22.25324,
+    "lng": -101.7591
+  },
+  {
+    "name": "Petatlán",
+    "country": "MX",
+    "lat": 17.53768,
+    "lng": -101.26798
+  },
+  {
+    "name": "Petacalco",
+    "country": "MX",
+    "lat": 17.98167,
+    "lng": -102.10841
+  },
+  {
+    "name": "Pesquería",
+    "country": "MX",
+    "lat": 25.78543,
+    "lng": -100.05098
+  },
+  {
+    "name": "Pesqueira",
+    "country": "MX",
+    "lat": 29.37972,
+    "lng": -110.89611
+  },
+  {
+    "name": "Pericos",
+    "country": "MX",
+    "lat": 25.08093,
+    "lng": -107.69966
+  },
+  {
+    "name": "Pericos",
+    "country": "MX",
+    "lat": 22.04925,
+    "lng": -105.35402
+  },
+  {
+    "name": "Peribán de Ramos",
+    "country": "MX",
+    "lat": 19.5201,
+    "lng": -102.41397
+  },
+  {
+    "name": "Peotillos",
+    "country": "MX",
+    "lat": 22.49386,
+    "lng": -100.61128
+  },
+  {
+    "name": "Peñuelas",
+    "country": "MX",
+    "lat": 20.88039,
+    "lng": -101.85285
+  },
+  {
+    "name": "Peñón Blanco",
+    "country": "MX",
+    "lat": 24.79204,
+    "lng": -104.03424
+  },
+  {
+    "name": "Penjamillo de Degollado",
+    "country": "MX",
+    "lat": 20.1041,
+    "lng": -101.93444
+  },
+  {
+    "name": "Peña Blanca",
+    "country": "MX",
+    "lat": 29.28984,
+    "lng": -107.7113
+  },
+  {
+    "name": "Pegueros",
+    "country": "MX",
+    "lat": 20.95327,
+    "lng": -102.66821
+  },
+  {
+    "name": "Pedro Escobedo",
+    "country": "MX",
+    "lat": 20.50232,
+    "lng": -100.14469
+  },
+  {
+    "name": "Pedriceña",
+    "country": "MX",
+    "lat": 25.11634,
+    "lng": -103.78847
+  },
+  {
+    "name": "Pedernales",
+    "country": "MX",
+    "lat": 19.14133,
+    "lng": -101.46889
+  },
+  {
+    "name": "Peñuelas (El Cienegal)",
+    "country": "MX",
+    "lat": 21.7225,
+    "lng": -102.27583
+  },
+  {
+    "name": "Peñuelas",
+    "country": "MX",
+    "lat": 20.71676,
+    "lng": -101.29749
+  },
+  {
+    "name": "Peralta",
+    "country": "MX",
+    "lat": 20.4735,
+    "lng": -101.40811
+  },
+  {
+    "name": "Pedro Amaro",
+    "country": "MX",
+    "lat": 18.59639,
+    "lng": -99.17306
+  },
+  {
+    "name": "Peña Flores (Palo Verde)",
+    "country": "MX",
+    "lat": 18.86722,
+    "lng": -98.96833
+  },
+  {
+    "name": "Pejelagartero 1ra. Sección (Plataforma)",
+    "country": "MX",
+    "lat": 18.055,
+    "lng": -93.82472
+  },
+  {
+    "name": "Pezmatlán",
+    "country": "MX",
+    "lat": 19.84664,
+    "lng": -97.48529
+  },
+  {
+    "name": "Pechucalco 2da. Sección (Las Cruces)",
+    "country": "MX",
+    "lat": 18.12694,
+    "lng": -93.19056
+  },
+  {
+    "name": "Pechucalco",
+    "country": "MX",
+    "lat": 18.09361,
+    "lng": -93.16611
+  },
+  {
+    "name": "Peña del Panal",
+    "country": "MX",
+    "lat": 19.77333,
+    "lng": -101.18944
+  },
+  {
+    "name": "Peña Colorada",
+    "country": "MX",
+    "lat": 17.47778,
+    "lng": -97.79417
+  },
+  {
+    "name": "Pekan Nenas",
+    "country": "MY",
+    "lat": 1.51,
+    "lng": 103.5141
+  },
+  {
+    "name": "Pelentong",
+    "country": "MY",
+    "lat": 1.5243,
+    "lng": 103.824
+  },
+  {
+    "name": "Pengerang",
+    "country": "MY",
+    "lat": 1.3651,
+    "lng": 104.1118
+  },
+  {
+    "name": "Pelabuhan Klang",
+    "country": "MY",
+    "lat": 2.99959,
+    "lng": 101.39287
+  },
+  {
+    "name": "Pekan",
+    "country": "MY",
+    "lat": 3.4836,
+    "lng": 103.3996
+  },
+  {
+    "name": "Perai",
+    "country": "MY",
+    "lat": 5.38333,
+    "lng": 100.38333
+  },
+  {
+    "name": "Petaling Jaya",
+    "country": "MY",
+    "lat": 3.10726,
+    "lng": 101.60671
+  },
+  {
+    "name": "Pengkalan Chepa",
+    "country": "MY",
+    "lat": 6.17471,
+    "lng": 102.28802
+  },
+  {
+    "name": "Permatang Pasir",
+    "country": "MY",
+    "lat": 5.41628,
+    "lng": 100.43864
+  },
+  {
+    "name": "Permatang Kuching",
+    "country": "MY",
+    "lat": 5.46339,
+    "lng": 100.38144
+  },
+  {
+    "name": "Peringat",
+    "country": "MY",
+    "lat": 6.03333,
+    "lng": 102.28333
+  },
+  {
+    "name": "Pengkalan Kundor",
+    "country": "MY",
+    "lat": 6.07794,
+    "lng": 100.36038
+  },
+  {
+    "name": "Pendang",
+    "country": "MY",
+    "lat": 5.99516,
+    "lng": 100.47885
+  },
+  {
+    "name": "Penaga",
+    "country": "MY",
+    "lat": 5.52719,
+    "lng": 100.3841
+  },
+  {
+    "name": "Pekan Serkat",
+    "country": "MY",
+    "lat": 1.3033,
+    "lng": 103.4894
+  },
+  {
+    "name": "Perling",
+    "country": "MY",
+    "lat": 1.48061,
+    "lng": 103.68381
+  },
+  {
+    "name": "Penyabong",
+    "country": "MY",
+    "lat": 1.63109,
+    "lng": 104.1469
+  },
+  {
+    "name": "Petagas",
+    "country": "MY",
+    "lat": 5.91161,
+    "lng": 116.04991
+  },
+  {
+    "name": "Pemba",
+    "country": "MZ",
+    "lat": -12.97395,
+    "lng": 40.51775
+  },
+  {
+    "name": "Pebane",
+    "country": "MZ",
+    "lat": -17.26417,
+    "lng": 38.135
+  },
+  {
+    "name": "Pearl City",
+    "country": "NI",
+    "lat": 12.34294,
+    "lng": -83.67123
+  },
+  {
+    "name": "Petten",
+    "country": "NL",
+    "lat": 52.76667,
+    "lng": 4.66111
+  },
+  {
+    "name": "Pernis",
+    "country": "NL",
+    "lat": 51.88833,
+    "lng": 4.38889
+  },
+  {
+    "name": "Pendrecht",
+    "country": "NL",
+    "lat": 51.87152,
+    "lng": 4.46901
+  },
+  {
+    "name": "Peize",
+    "country": "NL",
+    "lat": 53.14667,
+    "lng": 6.49722
+  },
+  {
+    "name": "Peij",
+    "country": "NL",
+    "lat": 51.09417,
+    "lng": 5.89583
+  },
+  {
+    "name": "Peelo",
+    "country": "NL",
+    "lat": 53.01719,
+    "lng": 6.56208
+  },
+  {
+    "name": "Petone",
+    "country": "NZ",
+    "lat": -41.22827,
+    "lng": 174.87019
+  },
+  {
+    "name": "Pegasus",
+    "country": "NZ",
+    "lat": -43.30832,
+    "lng": 172.69013
+  },
+  {
+    "name": "Pesé",
+    "country": "PA",
+    "lat": 7.90863,
+    "lng": -80.61433
+  },
+  {
+    "name": "Perales",
+    "country": "PA",
+    "lat": 7.77687,
+    "lng": -80.3214
+  },
+  {
+    "name": "Penonomé",
+    "country": "PA",
+    "lat": 8.51889,
+    "lng": -80.35727
+  },
+  {
+    "name": "Peñas Chatas",
+    "country": "PA",
+    "lat": 8.01788,
+    "lng": -80.80217
+  },
+  {
+    "name": "Peña Blanca",
+    "country": "PA",
+    "lat": 8.47011,
+    "lng": -81.68797
+  },
+  {
+    "name": "Peña Blanca",
+    "country": "PA",
+    "lat": 7.72035,
+    "lng": -80.2837
+  },
+  {
+    "name": "Pedregal",
+    "country": "PA",
+    "lat": 9.0661,
+    "lng": -79.42577
+  },
+  {
+    "name": "Pedregal",
+    "country": "PA",
+    "lat": 8.37698,
+    "lng": -82.42947
+  },
+  {
+    "name": "Pedasí",
+    "country": "PA",
+    "lat": 7.53034,
+    "lng": -80.02699
+  },
+  {
+    "name": "Pelejo",
+    "country": "PE",
+    "lat": -6.21667,
+    "lng": -75.81667
+  },
+  {
+    "name": "Pebas",
+    "country": "PE",
+    "lat": -3.32879,
+    "lng": -71.85505
+  },
+  {
+    "name": "Perené",
+    "country": "PE",
+    "lat": -10.9489,
+    "lng": -75.22645
+  },
+  {
+    "name": "Pedro Ruiz Gallo",
+    "country": "PE",
+    "lat": -5.94527,
+    "lng": -77.97993
+  },
+  {
+    "name": "Perrelos",
+    "country": "PH",
+    "lat": 10.1169,
+    "lng": 123.6738
+  },
+  {
+    "name": "Perez",
+    "country": "PH",
+    "lat": 14.19465,
+    "lng": 121.92636
+  },
+  {
+    "name": "Peñarrubia",
+    "country": "PH",
+    "lat": 17.5647,
+    "lng": 120.6519
+  },
+  {
+    "name": "Peñaranda",
+    "country": "PH",
+    "lat": 15.35116,
+    "lng": 121.00393
+  },
+  {
+    "name": "Peñablanca",
+    "country": "PH",
+    "lat": 17.63342,
+    "lng": 121.78117
+  },
+  {
+    "name": "Peña",
+    "country": "PH",
+    "lat": 12.089,
+    "lng": 123.9384
+  },
+  {
+    "name": "Pedtad",
+    "country": "PH",
+    "lat": 7.16056,
+    "lng": 124.81444
+  },
+  {
+    "name": "Peshawar",
+    "country": "PK",
+    "lat": 34.008,
+    "lng": 71.57849
+  },
+  {
+    "name": "Perlejewo",
+    "country": "PL",
+    "lat": 52.56676,
+    "lng": 22.56457
+  },
+  {
+    "name": "Pewel Wielka",
+    "country": "PL",
+    "lat": 49.67457,
+    "lng": 19.37482
+  },
+  {
+    "name": "Pewel Ślemieńska",
+    "country": "PL",
+    "lat": 49.68968,
+    "lng": 19.33431
+  },
+  {
+    "name": "Perzów",
+    "country": "PL",
+    "lat": 51.27625,
+    "lng": 17.8097
+  },
+  {
+    "name": "Pelplin",
+    "country": "PL",
+    "lat": 53.92834,
+    "lng": 18.6977
+  },
+  {
+    "name": "Pełczyce",
+    "country": "PL",
+    "lat": 53.04354,
+    "lng": 15.30447
+  },
+  {
+    "name": "Pecna",
+    "country": "PL",
+    "lat": 52.18333,
+    "lng": 16.8
+  },
+  {
+    "name": "Peña Pobre",
+    "country": "PR",
+    "lat": 18.21551,
+    "lng": -65.82211
+  },
+  {
+    "name": "Peñuelas",
+    "country": "PR",
+    "lat": 18.05635,
+    "lng": -66.72156
+  },
+  {
+    "name": "Pesagot",
+    "country": "PS",
+    "lat": 31.89904,
+    "lng": 35.22417
+  },
+  {
+    "name": "Pedu’el",
+    "country": "PS",
+    "lat": 32.06241,
+    "lng": 35.05321
+  },
+  {
+    "name": "Pero Pinheiro",
+    "country": "PT",
+    "lat": 38.85783,
+    "lng": -9.32352
+  },
+  {
+    "name": "Peniche",
+    "country": "PT",
+    "lat": 39.3558,
+    "lng": -9.38112
+  },
+  {
+    "name": "Penedo Gordo",
+    "country": "PT",
+    "lat": 37.98477,
+    "lng": -7.91651
+  },
+  {
+    "name": "Pego",
+    "country": "PT",
+    "lat": 39.46146,
+    "lng": -8.14955
+  },
+  {
+    "name": "Pedrógão Grande",
+    "country": "PT",
+    "lat": 39.91835,
+    "lng": -8.1459
+  },
+  {
+    "name": "Peso da Régua",
+    "country": "PT",
+    "lat": 41.16318,
+    "lng": -7.78901
+  },
+  {
+    "name": "Perozinho",
+    "country": "PT",
+    "lat": 41.06513,
+    "lng": -8.58531
+  },
+  {
+    "name": "Perelhal",
+    "country": "PT",
+    "lat": 41.53075,
+    "lng": -8.68982
+  },
+  {
+    "name": "Pereiro",
+    "country": "PT",
+    "lat": 41.17376,
+    "lng": -8.65476
+  },
+  {
+    "name": "Perafita",
+    "country": "PT",
+    "lat": 41.18252,
+    "lng": -8.2545
+  },
+  {
+    "name": "Penela",
+    "country": "PT",
+    "lat": 40.03333,
+    "lng": -8.38333
+  },
+  {
+    "name": "Penedono",
+    "country": "PT",
+    "lat": 40.98875,
+    "lng": -7.39386
+  },
+  {
+    "name": "Penamacor",
+    "country": "PT",
+    "lat": 40.16895,
+    "lng": -7.16987
+  },
+  {
+    "name": "Penafiel",
+    "country": "PT",
+    "lat": 41.20835,
+    "lng": -8.28285
+  },
+  {
+    "name": "Penacova",
+    "country": "PT",
+    "lat": 40.26884,
+    "lng": -8.28237
+  },
+  {
+    "name": "Pedrouços",
+    "country": "PT",
+    "lat": 41.1888,
+    "lng": -8.58624
+  },
+  {
+    "name": "Pedroso",
+    "country": "PT",
+    "lat": 41.41103,
+    "lng": -8.74897
+  },
+  {
+    "name": "Pedras Rubras",
+    "country": "PT",
+    "lat": 41.24356,
+    "lng": -8.66726
+  },
+  {
+    "name": "Pedro Juan Caballero",
+    "country": "PY",
+    "lat": -22.54925,
+    "lng": -55.7387
+  },
+  {
+    "name": "Petite-Île",
+    "country": "RE",
+    "lat": -21.35327,
+    "lng": 55.56427
+  },
+  {
+    "name": "Pecica",
+    "country": "RO",
+    "lat": 46.16667,
+    "lng": 21.06667
+  },
+  {
+    "name": "Petrova",
+    "country": "RO",
+    "lat": 47.82981,
+    "lng": 24.21533
+  },
+  {
+    "name": "Petroșnița",
+    "country": "RO",
+    "lat": 45.32351,
+    "lng": 22.2592
+  },
+  {
+    "name": "Petroşani",
+    "country": "RO",
+    "lat": 45.41667,
+    "lng": 23.36667
+  },
+  {
+    "name": "Petriș",
+    "country": "RO",
+    "lat": 47.10301,
+    "lng": 24.62314
+  },
+  {
+    "name": "Petriş",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 22.38333
+  },
+  {
+    "name": "Petrila",
+    "country": "RO",
+    "lat": 45.45,
+    "lng": 23.41667
+  },
+  {
+    "name": "Petricani",
+    "country": "RO",
+    "lat": 47.16667,
+    "lng": 26.46667
+  },
+  {
+    "name": "Petreu",
+    "country": "RO",
+    "lat": 47.33738,
+    "lng": 22.29607
+  },
+  {
+    "name": "Petreştii de Jos",
+    "country": "RO",
+    "lat": 46.58333,
+    "lng": 23.65
+  },
+  {
+    "name": "Petreşti",
+    "country": "RO",
+    "lat": 47.6,
+    "lng": 22.36667
+  },
+  {
+    "name": "Petrești",
+    "country": "RO",
+    "lat": 45.92102,
+    "lng": 23.56083
+  },
+  {
+    "name": "Petrești",
+    "country": "RO",
+    "lat": 45.04364,
+    "lng": 24.88989
+  },
+  {
+    "name": "Petreşti",
+    "country": "RO",
+    "lat": 44.65,
+    "lng": 25.33333
+  },
+  {
+    "name": "Petrăchioaia",
+    "country": "RO",
+    "lat": 44.58099,
+    "lng": 26.31269
+  },
+  {
+    "name": "Petelea",
+    "country": "RO",
+    "lat": 46.72892,
+    "lng": 24.70654
+  },
+  {
+    "name": "Peştişu Mic",
+    "country": "RO",
+    "lat": 45.8,
+    "lng": 22.88333
+  },
+  {
+    "name": "Peștișu Mare",
+    "country": "RO",
+    "lat": 45.80192,
+    "lng": 22.92704
+  },
+  {
+    "name": "Peştişani",
+    "country": "RO",
+    "lat": 45.06667,
+    "lng": 23.03333
+  },
+  {
+    "name": "Peștiș",
+    "country": "RO",
+    "lat": 47.07252,
+    "lng": 22.41226
+  },
+  {
+    "name": "Peştera",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 28.13333
+  },
+  {
+    "name": "Peșteana Jiu",
+    "country": "RO",
+    "lat": 44.84695,
+    "lng": 23.30401
+  },
+  {
+    "name": "Peșteana de Jos",
+    "country": "RO",
+    "lat": 44.83333,
+    "lng": 23.26974
+  },
+  {
+    "name": "Pesceana",
+    "country": "RO",
+    "lat": 44.87333,
+    "lng": 24.134
+  },
+  {
+    "name": "Pesac",
+    "country": "RO",
+    "lat": 45.9959,
+    "lng": 20.83522
+  },
+  {
+    "name": "Perșunari",
+    "country": "RO",
+    "lat": 45.05682,
+    "lng": 26.44784
+  },
+  {
+    "name": "Perșinari",
+    "country": "RO",
+    "lat": 44.80185,
+    "lng": 25.4988
+  },
+  {
+    "name": "Perșani",
+    "country": "RO",
+    "lat": 45.7816,
+    "lng": 25.21285
+  },
+  {
+    "name": "Perișoru",
+    "country": "RO",
+    "lat": 45.11268,
+    "lng": 27.49817
+  },
+  {
+    "name": "Perişoru",
+    "country": "RO",
+    "lat": 44.45,
+    "lng": 27.55
+  },
+  {
+    "name": "Perișor",
+    "country": "RO",
+    "lat": 44.14331,
+    "lng": 23.47509
+  },
+  {
+    "name": "Perişani",
+    "country": "RO",
+    "lat": 45.38333,
+    "lng": 24.4
+  },
+  {
+    "name": "Periş",
+    "country": "RO",
+    "lat": 44.68472,
+    "lng": 26.01389
+  },
+  {
+    "name": "Perii Broșteni",
+    "country": "RO",
+    "lat": 44.20336,
+    "lng": 25.26377
+  },
+  {
+    "name": "Perieţi",
+    "country": "RO",
+    "lat": 44.55,
+    "lng": 27.21667
+  },
+  {
+    "name": "Perieţi",
+    "country": "RO",
+    "lat": 44.4,
+    "lng": 24.55
+  },
+  {
+    "name": "Perieni",
+    "country": "RO",
+    "lat": 47.38469,
+    "lng": 27.47453
+  },
+  {
+    "name": "Perieni",
+    "country": "RO",
+    "lat": 46.3,
+    "lng": 27.61667
+  },
+  {
+    "name": "Pericei",
+    "country": "RO",
+    "lat": 47.23333,
+    "lng": 22.88333
+  },
+  {
+    "name": "Periam",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 20.86667
+  },
+  {
+    "name": "Peretu",
+    "country": "RO",
+    "lat": 44.05,
+    "lng": 25.08333
+  },
+  {
+    "name": "Peregu Mic",
+    "country": "RO",
+    "lat": 46.25021,
+    "lng": 20.94885
+  },
+  {
+    "name": "Peregu Mare",
+    "country": "RO",
+    "lat": 46.23333,
+    "lng": 20.9
+  },
+  {
+    "name": "Peciu Nou",
+    "country": "RO",
+    "lat": 45.60639,
+    "lng": 21.05778
+  },
+  {
+    "name": "Pecineaga",
+    "country": "RO",
+    "lat": 43.9,
+    "lng": 28.5
+  },
+  {
+    "name": "Pechea",
+    "country": "RO",
+    "lat": 45.63333,
+    "lng": 27.8
+  },
+  {
+    "name": "Peceneaga",
+    "country": "RO",
+    "lat": 45.01667,
+    "lng": 28.13333
+  },
+  {
+    "name": "Peceiu",
+    "country": "RO",
+    "lat": 47.12415,
+    "lng": 22.86238
+  },
+  {
+    "name": "Petrovac",
+    "country": "RS",
+    "lat": 44.37694,
+    "lng": 21.41917
+  },
+  {
+    "name": "Perlez",
+    "country": "RS",
+    "lat": 45.20813,
+    "lng": 20.38197
+  },
+  {
+    "name": "Petrovaradin",
+    "country": "RS",
+    "lat": 45.24667,
+    "lng": 19.87944
+  },
+  {
+    "name": "Petkovica",
+    "country": "RS",
+    "lat": 44.66627,
+    "lng": 19.43923
+  },
+  {
+    "name": "Pećinci",
+    "country": "RS",
+    "lat": 44.90889,
+    "lng": 19.96639
+  },
+  {
+    "name": "Petushki",
+    "country": "RU",
+    "lat": 55.92721,
+    "lng": 39.46072
+  },
+  {
+    "name": "Petrozavodsk",
+    "country": "RU",
+    "lat": 61.78491,
+    "lng": 34.34691
+  },
+  {
+    "name": "Petrov Val",
+    "country": "RU",
+    "lat": 50.14337,
+    "lng": 45.20958
+  },
+  {
+    "name": "Petrovsk",
+    "country": "RU",
+    "lat": 57.01039,
+    "lng": 39.26928
+  },
+  {
+    "name": "Petrovskoye",
+    "country": "RU",
+    "lat": 52.62961,
+    "lng": 40.2477
+  },
+  {
+    "name": "Petrovskiy",
+    "country": "RU",
+    "lat": 56.6421,
+    "lng": 40.32026
+  },
+  {
+    "name": "Petrovskaya",
+    "country": "RU",
+    "lat": 55.55,
+    "lng": 37.78333
+  },
+  {
+    "name": "Petrovskaya",
+    "country": "RU",
+    "lat": 45.43139,
+    "lng": 37.955
+  },
+  {
+    "name": "Petrovsk",
+    "country": "RU",
+    "lat": 52.30881,
+    "lng": 45.38992
+  },
+  {
+    "name": "Petrovo-Dal’neye",
+    "country": "RU",
+    "lat": 55.74679,
+    "lng": 37.17347
+  },
+  {
+    "name": "Petrova Dubrava",
+    "country": "RU",
+    "lat": 53.3,
+    "lng": 50.36667
+  },
+  {
+    "name": "Petro-Slavyanka",
+    "country": "RU",
+    "lat": 59.80222,
+    "lng": 30.50694
+  },
+  {
+    "name": "Petropavlovskaya",
+    "country": "RU",
+    "lat": 45.08189,
+    "lng": 40.45125
+  },
+  {
+    "name": "Petropavlovskaya",
+    "country": "RU",
+    "lat": 43.38007,
+    "lng": 45.82816
+  },
+  {
+    "name": "Petropavlovka",
+    "country": "RU",
+    "lat": 50.09985,
+    "lng": 40.88216
+  },
+  {
+    "name": "Petrodvorets",
+    "country": "RU",
+    "lat": 59.89565,
+    "lng": 29.80145
+  },
+  {
+    "name": "Peterhof",
+    "country": "RU",
+    "lat": 59.88333,
+    "lng": 29.9
+  },
+  {
+    "name": "Pestyaki",
+    "country": "RU",
+    "lat": 56.70914,
+    "lng": 42.66952
+  },
+  {
+    "name": "Pestretsy",
+    "country": "RU",
+    "lat": 55.75408,
+    "lng": 49.6511
+  },
+  {
+    "name": "Pestravka",
+    "country": "RU",
+    "lat": 52.4033,
+    "lng": 49.95837
+  },
+  {
+    "name": "Pestovo",
+    "country": "RU",
+    "lat": 58.59382,
+    "lng": 35.80244
+  },
+  {
+    "name": "Pesochnyy",
+    "country": "RU",
+    "lat": 60.12295,
+    "lng": 30.16404
+  },
+  {
+    "name": "Pesochnoye",
+    "country": "RU",
+    "lat": 58.00597,
+    "lng": 39.17717
+  },
+  {
+    "name": "Peskovka",
+    "country": "RU",
+    "lat": 59.04478,
+    "lng": 52.36057
+  },
+  {
+    "name": "Peski",
+    "country": "RU",
+    "lat": 55.21626,
+    "lng": 38.76262
+  },
+  {
+    "name": "Peshkovo",
+    "country": "RU",
+    "lat": 47.01659,
+    "lng": 39.39156
+  },
+  {
+    "name": "Peshki",
+    "country": "RU",
+    "lat": 56.13333,
+    "lng": 37.06667
+  },
+  {
+    "name": "Peschanokopskoye",
+    "country": "RU",
+    "lat": 46.19448,
+    "lng": 41.08148
+  },
+  {
+    "name": "Pervouralsk",
+    "country": "RU",
+    "lat": 56.90528,
+    "lng": 59.94361
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "RU",
+    "lat": 60.35922,
+    "lng": 29.7424
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "RU",
+    "lat": 43.93847,
+    "lng": 42.476
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 56.61474,
+    "lng": 43.35825
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 54.04482,
+    "lng": 37.50875
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 53.2463,
+    "lng": 40.28911
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 51.90481,
+    "lng": 51.64571
+  },
+  {
+    "name": "Pervomayskaya",
+    "country": "RU",
+    "lat": 43.40331,
+    "lng": 45.52343
+  },
+  {
+    "name": "Pervomaysk",
+    "country": "RU",
+    "lat": 54.8686,
+    "lng": 43.80347
+  },
+  {
+    "name": "Pervoavgustovskiy",
+    "country": "RU",
+    "lat": 52.2264,
+    "lng": 35.0552
+  },
+  {
+    "name": "Perm",
+    "country": "RU",
+    "lat": 58.01046,
+    "lng": 56.25017
+  },
+  {
+    "name": "Pereyaslovskaya",
+    "country": "RU",
+    "lat": 45.84121,
+    "lng": 39.02379
+  },
+  {
+    "name": "Perevoz",
+    "country": "RU",
+    "lat": 55.5957,
+    "lng": 44.5454
+  },
+  {
+    "name": "Perevolotskiy",
+    "country": "RU",
+    "lat": 51.87766,
+    "lng": 54.19007
+  },
+  {
+    "name": "Perevoloki",
+    "country": "RU",
+    "lat": 53.2458,
+    "lng": 49.1793
+  },
+  {
+    "name": "Pereslavl’-Zalesskiy",
+    "country": "RU",
+    "lat": 56.73912,
+    "lng": 38.85966
+  },
+  {
+    "name": "Perepravnaya",
+    "country": "RU",
+    "lat": 44.3366,
+    "lng": 40.7849
+  },
+  {
+    "name": "Peremyshl’",
+    "country": "RU",
+    "lat": 54.2638,
+    "lng": 36.16029
+  },
+  {
+    "name": "Perelyub",
+    "country": "RU",
+    "lat": 51.86292,
+    "lng": 50.35412
+  },
+  {
+    "name": "Perelëshinskiy",
+    "country": "RU",
+    "lat": 51.71767,
+    "lng": 40.19563
+  },
+  {
+    "name": "Perelëshino",
+    "country": "RU",
+    "lat": 51.7378,
+    "lng": 40.1375
+  },
+  {
+    "name": "Peredovaya",
+    "country": "RU",
+    "lat": 44.11722,
+    "lng": 41.47556
+  },
+  {
+    "name": "Penza",
+    "country": "RU",
+    "lat": 53.19568,
+    "lng": 45.01075
+  },
+  {
+    "name": "Peno",
+    "country": "RU",
+    "lat": 56.92521,
+    "lng": 32.74376
+  },
+  {
+    "name": "Pelagiada",
+    "country": "RU",
+    "lat": 45.20639,
+    "lng": 42.02361
+  },
+  {
+    "name": "Pechory",
+    "country": "RU",
+    "lat": 57.81642,
+    "lng": 27.6119
+  },
+  {
+    "name": "Pechora",
+    "country": "RU",
+    "lat": 65.13527,
+    "lng": 57.19952
+  },
+  {
+    "name": "Pechora",
+    "country": "RU",
+    "lat": 65.14717,
+    "lng": 57.22439
+  },
+  {
+    "name": "Pechersk",
+    "country": "RU",
+    "lat": 54.85355,
+    "lng": 32.03154
+  },
+  {
+    "name": "Pechenga",
+    "country": "RU",
+    "lat": 69.52587,
+    "lng": 31.17027
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "RU",
+    "lat": 43.91904,
+    "lng": 46.71019
+  },
+  {
+    "name": "Persianovka",
+    "country": "RU",
+    "lat": 47.52729,
+    "lng": 39.4193
+  },
+  {
+    "name": "Pervoye Maya",
+    "country": "RU",
+    "lat": 56.16403,
+    "lng": 44.71955
+  },
+  {
+    "name": "Petra-Dubrava",
+    "country": "RU",
+    "lat": 53.29613,
+    "lng": 50.36554
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 55.06696,
+    "lng": 38.66489
+  },
+  {
+    "name": "Petukhovo",
+    "country": "RU",
+    "lat": 55.06917,
+    "lng": 67.90194
+  },
+  {
+    "name": "Petropavlovskoye",
+    "country": "RU",
+    "lat": 52.07292,
+    "lng": 84.10854
+  },
+  {
+    "name": "Petrokamenskoye",
+    "country": "RU",
+    "lat": 57.716,
+    "lng": 60.6484
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "RU",
+    "lat": 57.07486,
+    "lng": 86.24145
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "RU",
+    "lat": 53.72111,
+    "lng": 84.01833
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 52.9173,
+    "lng": 81.6624
+  },
+  {
+    "name": "Pelym",
+    "country": "RU",
+    "lat": 61.016,
+    "lng": 61.988
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 54.86639,
+    "lng": 61.17028
+  },
+  {
+    "name": "Petrovsk-Zabaykal’skiy",
+    "country": "RU",
+    "lat": 51.2758,
+    "lng": 108.84714
+  },
+  {
+    "name": "Petropavlovka",
+    "country": "RU",
+    "lat": 50.61213,
+    "lng": 105.32351
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 51.66297,
+    "lng": 115.6242
+  },
+  {
+    "name": "Perfilovo",
+    "country": "RU",
+    "lat": 54.41083,
+    "lng": 100.48454
+  },
+  {
+    "name": "Pereyaslavka",
+    "country": "RU",
+    "lat": 47.965,
+    "lng": 135.06356
+  },
+  {
+    "name": "Peleduy",
+    "country": "RU",
+    "lat": 59.62889,
+    "lng": 112.74056
+  },
+  {
+    "name": "Pevek",
+    "country": "RU",
+    "lat": 69.70279,
+    "lng": 170.30708
+  },
+  {
+    "name": "Petropavlovsk-Kamchatsky",
+    "country": "RU",
+    "lat": 53.06393,
+    "lng": 158.62751
+  },
+  {
+    "name": "Pervomayskiy",
+    "country": "RU",
+    "lat": 59.06389,
+    "lng": 49.28833
+  },
+  {
+    "name": "Pervoye Maya",
+    "country": "RU",
+    "lat": 56.41593,
+    "lng": 43.65221
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "RU",
+    "lat": 52.59888,
+    "lng": 85.25769
+  },
+  {
+    "name": "Peresvet",
+    "country": "RU",
+    "lat": 56.42302,
+    "lng": 38.17612
+  },
+  {
+    "name": "Petrogradka",
+    "country": "RU",
+    "lat": 59.96567,
+    "lng": 30.31154
+  },
+  {
+    "name": "Petrovskiy",
+    "country": "RU",
+    "lat": 52.24159,
+    "lng": 40.64976
+  },
+  {
+    "name": "Petrovskoye",
+    "country": "RU",
+    "lat": 56.69755,
+    "lng": 28.645
+  },
+  {
+    "name": "Perseverance",
+    "country": "SC",
+    "lat": -4.60445,
+    "lng": 55.46428
+  },
+  {
+    "name": "Perstorp",
+    "country": "SE",
+    "lat": 56.13829,
+    "lng": 13.39476
+  },
+  {
+    "name": "Pershagen",
+    "country": "SE",
+    "lat": 59.15494,
+    "lng": 17.6534
+  },
+  {
+    "name": "Peng Siang",
+    "country": "SG",
+    "lat": 1.37995,
+    "lng": 103.74066
+  },
+  {
+    "name": "Pesnica",
+    "country": "SI",
+    "lat": 46.60694,
+    "lng": 15.67667
+  },
+  {
+    "name": "Pekre",
+    "country": "SI",
+    "lat": 46.54722,
+    "lng": 15.59556
+  },
+  {
+    "name": "Pezinok",
+    "country": "SK",
+    "lat": 48.28986,
+    "lng": 17.26664
+  },
+  {
+    "name": "Petržalka",
+    "country": "SK",
+    "lat": 48.12331,
+    "lng": 17.12866
+  },
+  {
+    "name": "Petrova Ves",
+    "country": "SK",
+    "lat": 48.71943,
+    "lng": 17.1619
+  },
+  {
+    "name": "Pepel",
+    "country": "SL",
+    "lat": 8.58611,
+    "lng": -13.05444
+  },
+  {
+    "name": "Pendembu",
+    "country": "SL",
+    "lat": 8.09807,
+    "lng": -10.69429
+  },
+  {
+    "name": "Pea",
+    "country": "TO",
+    "lat": -21.17178,
+    "lng": -175.23502
+  },
+  {
+    "name": "Pervari",
+    "country": "TR",
+    "lat": 37.93573,
+    "lng": 42.54927
+  },
+  {
+    "name": "Pertek",
+    "country": "TR",
+    "lat": 38.86574,
+    "lng": 39.32273
+  },
+  {
+    "name": "Peksimet",
+    "country": "TR",
+    "lat": 37.04134,
+    "lng": 27.27497
+  },
+  {
+    "name": "Petekkaya",
+    "country": "TR",
+    "lat": 38.09482,
+    "lng": 39.43552
+  },
+  {
+    "name": "Pekmezli",
+    "country": "TR",
+    "lat": 36.75361,
+    "lng": 39.45
+  },
+  {
+    "name": "Perşembe",
+    "country": "TR",
+    "lat": 41.06556,
+    "lng": 37.77139
+  },
+  {
+    "name": "Pendik",
+    "country": "TR",
+    "lat": 40.8775,
+    "lng": 29.2725
+  },
+  {
+    "name": "Pehlivanköy",
+    "country": "TR",
+    "lat": 41.34812,
+    "lng": 26.92522
+  },
+  {
+    "name": "Peçenek",
+    "country": "TR",
+    "lat": 40.41857,
+    "lng": 32.30833
+  },
+  {
+    "name": "Perşembe",
+    "country": "TR",
+    "lat": 41.41867,
+    "lng": 32.15984
+  },
+  {
+    "name": "Petit Valley",
+    "country": "TT",
+    "lat": 10.69974,
+    "lng": -61.54717
+  },
+  {
+    "name": "Peñal",
+    "country": "TT",
+    "lat": 10.16667,
+    "lng": -61.46667
+  },
+  {
+    "name": "Petrovirivka",
+    "country": "UA",
+    "lat": 47.22875,
+    "lng": 30.33144
+  },
+  {
+    "name": "Peredmistna Slobidka",
+    "country": "UA",
+    "lat": 50.43333,
+    "lng": 30.58333
+  },
+  {
+    "name": "Petrivske",
+    "country": "UA",
+    "lat": 49.17421,
+    "lng": 36.89548
+  },
+  {
+    "name": "Petrovske",
+    "country": "UA",
+    "lat": 48.29662,
+    "lng": 38.87892
+  },
+  {
+    "name": "Petrove",
+    "country": "UA",
+    "lat": 48.33809,
+    "lng": 33.2653
+  },
+  {
+    "name": "Petrivka-Romenska",
+    "country": "UA",
+    "lat": 50.37056,
+    "lng": 33.74899
+  },
+  {
+    "name": "Petrivka",
+    "country": "UA",
+    "lat": 46.9108,
+    "lng": 30.72167
+  },
+  {
+    "name": "Petrivka",
+    "country": "UA",
+    "lat": 46.31283,
+    "lng": 29.95259
+  },
+  {
+    "name": "Petrovka",
+    "country": "UA",
+    "lat": 45.49776,
+    "lng": 34.28816
+  },
+  {
+    "name": "Petropavlivka",
+    "country": "UA",
+    "lat": 48.46353,
+    "lng": 36.43061
+  },
+  {
+    "name": "Petropavlivka",
+    "country": "UA",
+    "lat": 46.34171,
+    "lng": 29.56007
+  },
+  {
+    "name": "Petrodolynske",
+    "country": "UA",
+    "lat": 46.43382,
+    "lng": 30.40377
+  },
+  {
+    "name": "Petrykivka",
+    "country": "UA",
+    "lat": 48.7279,
+    "lng": 34.62837
+  },
+  {
+    "name": "Petrykiv",
+    "country": "UA",
+    "lat": 49.52782,
+    "lng": 25.58097
+  },
+  {
+    "name": "Petrivsk",
+    "country": "UA",
+    "lat": 46.44711,
+    "lng": 28.9701
+  },
+  {
+    "name": "Petranka",
+    "country": "UA",
+    "lat": 48.90526,
+    "lng": 24.30618
+  },
+  {
+    "name": "Peschanoye",
+    "country": "UA",
+    "lat": 44.84342,
+    "lng": 33.60921
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "UA",
+    "lat": 45.71744,
+    "lng": 33.85596
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "UA",
+    "lat": 45.11207,
+    "lng": 34.06478
+  },
+  {
+    "name": "Pervomaisk",
+    "country": "UA",
+    "lat": 48.62831,
+    "lng": 38.56205
+  },
+  {
+    "name": "Pervomaysk",
+    "country": "UA",
+    "lat": 48.04478,
+    "lng": 30.84784
+  },
+  {
+    "name": "Pershotravneve",
+    "country": "UA",
+    "lat": 51.39287,
+    "lng": 28.86837
+  },
+  {
+    "name": "Pershotravneve",
+    "country": "UA",
+    "lat": 45.48168,
+    "lng": 29.04623
+  },
+  {
+    "name": "Perovo",
+    "country": "UA",
+    "lat": 44.92513,
+    "lng": 34.05753
+  },
+  {
+    "name": "Perkivtsi",
+    "country": "UA",
+    "lat": 48.44747,
+    "lng": 26.65056
+  },
+  {
+    "name": "Pereiaslav",
+    "country": "UA",
+    "lat": 50.06739,
+    "lng": 31.44969
+  },
+  {
+    "name": "Perevalsk",
+    "country": "UA",
+    "lat": 48.43779,
+    "lng": 38.84384
+  },
+  {
+    "name": "Pereval'noye",
+    "country": "UA",
+    "lat": 44.84838,
+    "lng": 34.31271
+  },
+  {
+    "name": "Pereshchepyne",
+    "country": "UA",
+    "lat": 49.02512,
+    "lng": 35.36885
+  },
+  {
+    "name": "Peresichna",
+    "country": "UA",
+    "lat": 50.02452,
+    "lng": 35.97871
+  },
+  {
+    "name": "Peresadivka",
+    "country": "UA",
+    "lat": 47.11353,
+    "lng": 32.1908
+  },
+  {
+    "name": "Peremyshliany",
+    "country": "UA",
+    "lat": 49.67053,
+    "lng": 24.55657
+  },
+  {
+    "name": "Perehonivka",
+    "country": "UA",
+    "lat": 48.53218,
+    "lng": 30.52091
+  },
+  {
+    "name": "Perehinske",
+    "country": "UA",
+    "lat": 48.81118,
+    "lng": 24.19196
+  },
+  {
+    "name": "Perechyn",
+    "country": "UA",
+    "lat": 48.73494,
+    "lng": 22.47718
+  },
+  {
+    "name": "Perebykivtsi",
+    "country": "UA",
+    "lat": 48.58701,
+    "lng": 26.13817
+  },
+  {
+    "name": "Pechenizhyn",
+    "country": "UA",
+    "lat": 48.51668,
+    "lng": 24.88317
+  },
+  {
+    "name": "Pechenihy",
+    "country": "UA",
+    "lat": 49.87167,
+    "lng": 36.93472
+  },
+  {
+    "name": "Petrashivka",
+    "country": "UA",
+    "lat": 48.1,
+    "lng": 26.1
+  },
+  {
+    "name": "Petrivka",
+    "country": "UA",
+    "lat": 46.99814,
+    "lng": 31.76372
+  },
+  {
+    "name": "Perekhrestove",
+    "country": "UA",
+    "lat": 47.43529,
+    "lng": 29.79827
+  },
+  {
+    "name": "Petropavlivska Borshchahivka",
+    "country": "UA",
+    "lat": 50.43214,
+    "lng": 30.34106
+  },
+  {
+    "name": "Pervomayskoye",
+    "country": "UA",
+    "lat": 45.06191,
+    "lng": 35.16395
+  },
+  {
+    "name": "Pershotravneve",
+    "country": "UA",
+    "lat": 46.74341,
+    "lng": 30.91669
+  },
+  {
+    "name": "Pervomayske",
+    "country": "UA",
+    "lat": 47.04274,
+    "lng": 32.43996
+  },
+  {
+    "name": "Pelham",
+    "country": "US",
+    "lat": 33.28567,
+    "lng": -86.80999
+  },
+  {
+    "name": "Pell City",
+    "country": "US",
+    "lat": 33.58621,
+    "lng": -86.28609
+  },
+  {
+    "name": "Pea Ridge",
+    "country": "US",
+    "lat": 33.92066,
+    "lng": -91.33679
+  },
+  {
+    "name": "Pea Ridge",
+    "country": "US",
+    "lat": 36.45396,
+    "lng": -94.1152
+  },
+  {
+    "name": "Perryville",
+    "country": "US",
+    "lat": 35.00481,
+    "lng": -92.80267
+  },
+  {
+    "name": "Pennsylvania Avenue SE",
+    "country": "US",
+    "lat": 38.86817,
+    "lng": -76.95803
+  },
+  {
+    "name": "Petworth",
+    "country": "US",
+    "lat": 38.94594,
+    "lng": -77.02498
+  },
+  {
+    "name": "Pebble Creek",
+    "country": "US",
+    "lat": 28.14835,
+    "lng": -82.34565
+  },
+  {
+    "name": "Pelican Bay",
+    "country": "US",
+    "lat": 26.2312,
+    "lng": -81.80564
+  },
+  {
+    "name": "Pembroke Park",
+    "country": "US",
+    "lat": 25.98787,
+    "lng": -80.17477
+  },
+  {
+    "name": "Pembroke Pines",
+    "country": "US",
+    "lat": 26.00315,
+    "lng": -80.22394
+  },
+  {
+    "name": "Pensacola",
+    "country": "US",
+    "lat": 30.42131,
+    "lng": -87.21691
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 30.11766,
+    "lng": -83.58274
+  },
+  {
+    "name": "Peachtree City",
+    "country": "US",
+    "lat": 33.39678,
+    "lng": -84.59576
+  },
+  {
+    "name": "Peachtree Corners",
+    "country": "US",
+    "lat": 33.9701,
+    "lng": -84.22159
+  },
+  {
+    "name": "Pearson",
+    "country": "US",
+    "lat": 31.2977,
+    "lng": -82.85237
+  },
+  {
+    "name": "Pelham",
+    "country": "US",
+    "lat": 31.12802,
+    "lng": -84.15304
+  },
+  {
+    "name": "Pembroke",
+    "country": "US",
+    "lat": 32.13634,
+    "lng": -81.62348
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 32.45821,
+    "lng": -83.73157
+  },
+  {
+    "name": "Pendleton",
+    "country": "US",
+    "lat": 39.99754,
+    "lng": -85.74664
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 38.49199,
+    "lng": -87.27862
+  },
+  {
+    "name": "Peabody",
+    "country": "US",
+    "lat": 38.16946,
+    "lng": -97.1067
+  },
+  {
+    "name": "Pewee Valley",
+    "country": "US",
+    "lat": 38.31062,
+    "lng": -85.48746
+  },
+  {
+    "name": "Pearl River",
+    "country": "US",
+    "lat": 30.37603,
+    "lng": -89.7484
+  },
+  {
+    "name": "Perry Hall",
+    "country": "US",
+    "lat": 39.41261,
+    "lng": -76.46357
+  },
+  {
+    "name": "Perryman",
+    "country": "US",
+    "lat": 39.46955,
+    "lng": -76.2044
+  },
+  {
+    "name": "Perryville",
+    "country": "US",
+    "lat": 39.56011,
+    "lng": -76.07134
+  },
+  {
+    "name": "Peculiar",
+    "country": "US",
+    "lat": 38.71918,
+    "lng": -94.45856
+  },
+  {
+    "name": "Perryville",
+    "country": "US",
+    "lat": 37.72422,
+    "lng": -89.86122
+  },
+  {
+    "name": "Pevely",
+    "country": "US",
+    "lat": 38.28339,
+    "lng": -90.39512
+  },
+  {
+    "name": "Pearl",
+    "country": "US",
+    "lat": 32.27459,
+    "lng": -90.13203
+  },
+  {
+    "name": "Pearl River",
+    "country": "US",
+    "lat": 32.78347,
+    "lng": -89.22784
+  },
+  {
+    "name": "Pearlington",
+    "country": "US",
+    "lat": 30.24658,
+    "lng": -89.61117
+  },
+  {
+    "name": "Pelahatchie",
+    "country": "US",
+    "lat": 32.31292,
+    "lng": -89.79841
+  },
+  {
+    "name": "Petal",
+    "country": "US",
+    "lat": 31.34656,
+    "lng": -89.26006
+  },
+  {
+    "name": "Pembroke",
+    "country": "US",
+    "lat": 34.68016,
+    "lng": -79.19504
+  },
+  {
+    "name": "Pemberton",
+    "country": "US",
+    "lat": 39.97206,
+    "lng": -74.68294
+  },
+  {
+    "name": "Pemberton Heights",
+    "country": "US",
+    "lat": 39.96261,
+    "lng": -74.67877
+  },
+  {
+    "name": "Penns Grove",
+    "country": "US",
+    "lat": 39.72956,
+    "lng": -75.46797
+  },
+  {
+    "name": "Pennsauken",
+    "country": "US",
+    "lat": 39.95622,
+    "lng": -75.05795
+  },
+  {
+    "name": "Pennsville",
+    "country": "US",
+    "lat": 39.65345,
+    "lng": -75.51659
+  },
+  {
+    "name": "Peebles",
+    "country": "US",
+    "lat": 38.94896,
+    "lng": -83.40575
+  },
+  {
+    "name": "Perkins",
+    "country": "US",
+    "lat": 35.97394,
+    "lng": -97.03364
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 36.28949,
+    "lng": -97.2881
+  },
+  {
+    "name": "Penn Wynne",
+    "country": "US",
+    "lat": 39.98622,
+    "lng": -75.27546
+  },
+  {
+    "name": "Pennsport",
+    "country": "US",
+    "lat": 39.92761,
+    "lng": -75.15045
+  },
+  {
+    "name": "Pennville",
+    "country": "US",
+    "lat": 39.78954,
+    "lng": -76.99804
+  },
+  {
+    "name": "Pendleton",
+    "country": "US",
+    "lat": 34.65177,
+    "lng": -82.78375
+  },
+  {
+    "name": "Pegram",
+    "country": "US",
+    "lat": 36.10061,
+    "lng": -87.05112
+  },
+  {
+    "name": "Pearland",
+    "country": "US",
+    "lat": 29.56357,
+    "lng": -95.28605
+  },
+  {
+    "name": "Pearsall",
+    "country": "US",
+    "lat": 28.89219,
+    "lng": -99.09503
+  },
+  {
+    "name": "Pecan Acres",
+    "country": "US",
+    "lat": 32.97013,
+    "lng": -97.47474
+  },
+  {
+    "name": "Pecan Grove",
+    "country": "US",
+    "lat": 29.62607,
+    "lng": -95.73162
+  },
+  {
+    "name": "Pecan Plantation",
+    "country": "US",
+    "lat": 32.36042,
+    "lng": -97.67558
+  },
+  {
+    "name": "Pelican Bay",
+    "country": "US",
+    "lat": 32.92096,
+    "lng": -97.51836
+  },
+  {
+    "name": "Penitas",
+    "country": "US",
+    "lat": 26.23063,
+    "lng": -98.44474
+  },
+  {
+    "name": "Perezville",
+    "country": "US",
+    "lat": 26.22452,
+    "lng": -98.40057
+  },
+  {
+    "name": "Pearisburg",
+    "country": "US",
+    "lat": 37.32673,
+    "lng": -80.73702
+  },
+  {
+    "name": "Pembroke",
+    "country": "US",
+    "lat": 37.31957,
+    "lng": -80.63895
+  },
+  {
+    "name": "Pennington Gap",
+    "country": "US",
+    "lat": 36.75842,
+    "lng": -83.02711
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 37.22793,
+    "lng": -77.40193
+  },
+  {
+    "name": "Pea Ridge",
+    "country": "US",
+    "lat": 38.41397,
+    "lng": -82.31987
+  },
+  {
+    "name": "Pennsboro",
+    "country": "US",
+    "lat": 39.28508,
+    "lng": -80.96844
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 38.99261,
+    "lng": -79.12392
+  },
+  {
+    "name": "Pemberwick",
+    "country": "US",
+    "lat": 41.02565,
+    "lng": -73.66068
+  },
+  {
+    "name": "Pella",
+    "country": "US",
+    "lat": 41.40805,
+    "lng": -92.91631
+  },
+  {
+    "name": "Peosta",
+    "country": "US",
+    "lat": 42.45056,
+    "lng": -90.85041
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 41.8386,
+    "lng": -94.10718
+  },
+  {
+    "name": "Pecatonica",
+    "country": "US",
+    "lat": 42.31391,
+    "lng": -89.35928
+  },
+  {
+    "name": "Pekin",
+    "country": "US",
+    "lat": 40.56754,
+    "lng": -89.64066
+  },
+  {
+    "name": "Peoria",
+    "country": "US",
+    "lat": 40.69365,
+    "lng": -89.58899
+  },
+  {
+    "name": "Peoria Heights",
+    "country": "US",
+    "lat": 40.74726,
+    "lng": -89.57398
+  },
+  {
+    "name": "Peotone",
+    "country": "US",
+    "lat": 41.33226,
+    "lng": -87.78532
+  },
+  {
+    "name": "Peru",
+    "country": "US",
+    "lat": 41.32753,
+    "lng": -89.12897
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 40.01172,
+    "lng": -89.84817
+  },
+  {
+    "name": "Peru",
+    "country": "US",
+    "lat": 40.75365,
+    "lng": -86.06888
+  },
+  {
+    "name": "Peabody",
+    "country": "US",
+    "lat": 42.52787,
+    "lng": -70.92866
+  },
+  {
+    "name": "Pelham",
+    "country": "US",
+    "lat": 42.39315,
+    "lng": -72.4037
+  },
+  {
+    "name": "Pepperell",
+    "country": "US",
+    "lat": 42.66592,
+    "lng": -71.5884
+  },
+  {
+    "name": "Penobscot",
+    "country": "US",
+    "lat": 44.46452,
+    "lng": -68.71114
+  },
+  {
+    "name": "Peru",
+    "country": "US",
+    "lat": 44.50673,
+    "lng": -70.40534
+  },
+  {
+    "name": "Pearl Beach",
+    "country": "US",
+    "lat": 42.6267,
+    "lng": -82.59769
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 42.82642,
+    "lng": -84.21941
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 41.90116,
+    "lng": -83.71494
+  },
+  {
+    "name": "Petoskey",
+    "country": "US",
+    "lat": 45.37334,
+    "lng": -84.95533
+  },
+  {
+    "name": "Pelican Rapids",
+    "country": "US",
+    "lat": 46.57079,
+    "lng": -96.08311
+  },
+  {
+    "name": "Pequot Lakes",
+    "country": "US",
+    "lat": 46.60302,
+    "lng": -94.30944
+  },
+  {
+    "name": "Perham",
+    "country": "US",
+    "lat": 46.5944,
+    "lng": -95.57254
+  },
+  {
+    "name": "Pender",
+    "country": "US",
+    "lat": 42.11416,
+    "lng": -96.70726
+  },
+  {
+    "name": "Pelham",
+    "country": "US",
+    "lat": 42.73453,
+    "lng": -71.32451
+  },
+  {
+    "name": "Pembroke",
+    "country": "US",
+    "lat": 43.14675,
+    "lng": -71.45757
+  },
+  {
+    "name": "Peterborough",
+    "country": "US",
+    "lat": 42.87064,
+    "lng": -71.95175
+  },
+  {
+    "name": "Peapack",
+    "country": "US",
+    "lat": 40.71677,
+    "lng": -74.65655
+  },
+  {
+    "name": "Pennington",
+    "country": "US",
+    "lat": 40.32844,
+    "lng": -74.79072
+  },
+  {
+    "name": "Perth Amboy",
+    "country": "US",
+    "lat": 40.50677,
+    "lng": -74.26542
+  },
+  {
+    "name": "Peach Lake",
+    "country": "US",
+    "lat": 41.36759,
+    "lng": -73.5779
+  },
+  {
+    "name": "Pearl River",
+    "country": "US",
+    "lat": 41.05899,
+    "lng": -74.02181
+  },
+  {
+    "name": "Peekskill",
+    "country": "US",
+    "lat": 41.29009,
+    "lng": -73.92042
+  },
+  {
+    "name": "Pelham",
+    "country": "US",
+    "lat": 40.90982,
+    "lng": -73.80791
+  },
+  {
+    "name": "Pelham Manor",
+    "country": "US",
+    "lat": 40.89538,
+    "lng": -73.80708
+  },
+  {
+    "name": "Penn Yan",
+    "country": "US",
+    "lat": 42.6609,
+    "lng": -77.05386
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 42.71562,
+    "lng": -78.00556
+  },
+  {
+    "name": "Perth",
+    "country": "US",
+    "lat": 43.01757,
+    "lng": -74.19402
+  },
+  {
+    "name": "Peru",
+    "country": "US",
+    "lat": 44.57838,
+    "lng": -73.5268
+  },
+  {
+    "name": "Peru",
+    "country": "US",
+    "lat": 43.08229,
+    "lng": -76.40799
+  },
+  {
+    "name": "Pemberville",
+    "country": "US",
+    "lat": 41.41089,
+    "lng": -83.46104
+  },
+  {
+    "name": "Pepper Pike",
+    "country": "US",
+    "lat": 41.47839,
+    "lng": -81.46373
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 41.76033,
+    "lng": -81.14093
+  },
+  {
+    "name": "Perry Heights",
+    "country": "US",
+    "lat": 40.79534,
+    "lng": -81.47345
+  },
+  {
+    "name": "Perrysburg",
+    "country": "US",
+    "lat": 41.557,
+    "lng": -83.62716
+  },
+  {
+    "name": "Pen Argyl",
+    "country": "US",
+    "lat": 40.86871,
+    "lng": -75.2549
+  },
+  {
+    "name": "Penbrook",
+    "country": "US",
+    "lat": 40.27537,
+    "lng": -76.84803
+  },
+  {
+    "name": "Penn Hills",
+    "country": "US",
+    "lat": 40.50118,
+    "lng": -79.83922
+  },
+  {
+    "name": "Penndel",
+    "country": "US",
+    "lat": 40.15205,
+    "lng": -74.91656
+  },
+  {
+    "name": "Pennsburg",
+    "country": "US",
+    "lat": 40.39093,
+    "lng": -75.49212
+  },
+  {
+    "name": "Pennside",
+    "country": "US",
+    "lat": 40.33732,
+    "lng": -75.87854
+  },
+  {
+    "name": "Pennypack",
+    "country": "US",
+    "lat": 40.06678,
+    "lng": -75.04545
+  },
+  {
+    "name": "Pennypack Woods",
+    "country": "US",
+    "lat": 40.05428,
+    "lng": -75.016
+  },
+  {
+    "name": "Penryn",
+    "country": "US",
+    "lat": 40.20509,
+    "lng": -76.36829
+  },
+  {
+    "name": "Perkasie",
+    "country": "US",
+    "lat": 40.37205,
+    "lng": -75.29268
+  },
+  {
+    "name": "Perryopolis",
+    "country": "US",
+    "lat": 40.08702,
+    "lng": -79.7506
+  },
+  {
+    "name": "Pell Lake",
+    "country": "US",
+    "lat": 42.53807,
+    "lng": -88.35093
+  },
+  {
+    "name": "Peshtigo",
+    "country": "US",
+    "lat": 45.05443,
+    "lng": -87.74927
+  },
+  {
+    "name": "Pewaukee",
+    "country": "US",
+    "lat": 43.08057,
+    "lng": -88.2612
+  },
+  {
+    "name": "Peach Springs",
+    "country": "US",
+    "lat": 35.52916,
+    "lng": -113.42549
+  },
+  {
+    "name": "Peoria",
+    "country": "US",
+    "lat": 33.5806,
+    "lng": -112.23738
+  },
+  {
+    "name": "Peridot",
+    "country": "US",
+    "lat": 33.31034,
+    "lng": -110.45538
+  },
+  {
+    "name": "Pedley",
+    "country": "US",
+    "lat": 33.97529,
+    "lng": -117.47588
+  },
+  {
+    "name": "Penn Valley",
+    "country": "US",
+    "lat": 39.196,
+    "lng": -121.19107
+  },
+  {
+    "name": "Penngrove",
+    "country": "US",
+    "lat": 38.29964,
+    "lng": -122.66665
+  },
+  {
+    "name": "Perris",
+    "country": "US",
+    "lat": 33.78252,
+    "lng": -117.22865
+  },
+  {
+    "name": "Petaluma",
+    "country": "US",
+    "lat": 38.23242,
+    "lng": -122.63665
+  },
+  {
+    "name": "Penrose",
+    "country": "US",
+    "lat": 38.425,
+    "lng": -105.02276
+  },
+  {
+    "name": "Perry Park",
+    "country": "US",
+    "lat": 39.25666,
+    "lng": -104.99248
+  },
+  {
+    "name": "Pecos",
+    "country": "US",
+    "lat": 35.5742,
+    "lng": -105.67502
+  },
+  {
+    "name": "Peralta",
+    "country": "US",
+    "lat": 34.837,
+    "lng": -106.69058
+  },
+  {
+    "name": "Pecos",
+    "country": "US",
+    "lat": 31.42291,
+    "lng": -103.49323
+  },
+  {
+    "name": "Perryton",
+    "country": "US",
+    "lat": 36.40003,
+    "lng": -100.80265
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 33.86952,
+    "lng": -101.59739
+  },
+  {
+    "name": "Petersburg",
+    "country": "US",
+    "lat": 56.8125,
+    "lng": -132.95556
+  },
+  {
+    "name": "Pendleton",
+    "country": "US",
+    "lat": 45.67207,
+    "lng": -118.7886
+  },
+  {
+    "name": "Perry",
+    "country": "US",
+    "lat": 41.46494,
+    "lng": -112.03245
+  },
+  {
+    "name": "Pearl City",
+    "country": "US",
+    "lat": 21.39734,
+    "lng": -157.97516
+  },
+  {
+    "name": "Pepeekeo",
+    "country": "US",
+    "lat": 19.83361,
+    "lng": -155.10722
+  },
+  {
+    "name": "Peppermill Village",
+    "country": "US",
+    "lat": 38.89472,
+    "lng": -76.88654
+  },
+  {
+    "name": "Peaceful Valley",
+    "country": "US",
+    "lat": 48.93815,
+    "lng": -122.14733
+  },
+  {
+    "name": "Penn Estates",
+    "country": "US",
+    "lat": 41.0375,
+    "lng": -75.23956
+  },
+  {
+    "name": "Pen Lucy",
+    "country": "US",
+    "lat": 39.33974,
+    "lng": -76.60498
+  },
+  {
+    "name": "Penn North",
+    "country": "US",
+    "lat": 39.31212,
+    "lng": -76.64259
+  },
+  {
+    "name": "Penn-Fallsway",
+    "country": "US",
+    "lat": 39.29753,
+    "lng": -76.60867
+  },
+  {
+    "name": "Penrose/Fayette Street Outreach",
+    "country": "US",
+    "lat": 39.29112,
+    "lng": -76.65739
+  },
+  {
+    "name": "Perring Loch",
+    "country": "US",
+    "lat": 39.35269,
+    "lng": -76.58478
+  },
+  {
+    "name": "Peruvian Vale",
+    "country": "VC",
+    "lat": 13.17711,
+    "lng": -61.14356
+  },
+  {
+    "name": "Petit Bordel",
+    "country": "VC",
+    "lat": 13.28711,
+    "lng": -61.24458
+  },
+  {
+    "name": "Petare",
+    "country": "VE",
+    "lat": 10.47679,
+    "lng": -66.80786
+  },
+  {
+    "name": "Pedregal",
+    "country": "VE",
+    "lat": 11.02142,
+    "lng": -70.12106
+  },
+  {
+    "name": "Pedraza La Vieja",
+    "country": "VE",
+    "lat": 7.9168,
+    "lng": -71.05934
+  },
+  {
+    "name": "Pedernales",
+    "country": "VE",
+    "lat": 9.971,
+    "lng": -62.252
+  },
+  {
+    "name": "Peqan",
+    "country": "XK",
+    "lat": 42.38361,
+    "lng": 20.82194
+  },
+  {
+    "name": "Pejë",
+    "country": "XK",
+    "lat": 42.65913,
+    "lng": 20.28828
+  },
+  {
+    "name": "Petrusville",
+    "country": "ZA",
+    "lat": -30.08113,
+    "lng": 24.6593
+  },
+  {
+    "name": "Petrusburg",
+    "country": "ZA",
+    "lat": -29.11597,
+    "lng": 25.41435
+  },
+  {
+    "name": "Perdekop",
+    "country": "ZA",
+    "lat": -27.16575,
+    "lng": 29.62364
+  },
+  {
+    "name": "Penge",
+    "country": "ZA",
+    "lat": -24.38689,
+    "lng": 30.2884
+  },
+  {
+    "name": "Peddie",
+    "country": "ZA",
+    "lat": -33.20059,
+    "lng": 27.11385
+  },
+  {
+    "name": "Pearston",
+    "country": "ZA",
+    "lat": -32.5822,
+    "lng": 25.13832
+  },
+  {
+    "name": "Pearly Beach",
+    "country": "ZA",
+    "lat": -34.66277,
+    "lng": 19.49647
+  },
+  {
+    "name": "Pennington",
+    "country": "ZA",
+    "lat": -30.36847,
+    "lng": 30.7025
+  },
+  {
+    "name": "Pella WC",
+    "country": "ZA",
+    "lat": -33.53957,
+    "lng": 18.52149
+  },
+  {
+    "name": "Pelindaba",
+    "country": "ZA",
+    "lat": -24.60752,
+    "lng": 31.01168
+  },
+  {
+    "name": "Petauke",
+    "country": "ZM",
+    "lat": -14.24117,
+    "lng": 31.31975
+  },
+  {
+    "name": "Penhalonga",
+    "country": "ZW",
+    "lat": -18.89112,
+    "lng": 32.69781
+  }
+]

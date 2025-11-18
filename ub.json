@@ -1,0 +1,260 @@
+[
+  {
+    "name": "Ubajay",
+    "country": "AR",
+    "lat": -31.79514,
+    "lng": -58.31509
+  },
+  {
+    "name": "Ubajara",
+    "country": "BR",
+    "lat": -3.85444,
+    "lng": -40.92111
+  },
+  {
+    "name": "Ubiretama",
+    "country": "BR",
+    "lat": -28.04611,
+    "lng": -54.68056
+  },
+  {
+    "name": "Ubirajara",
+    "country": "BR",
+    "lat": -22.52667,
+    "lng": -49.66306
+  },
+  {
+    "name": "Uberlândia",
+    "country": "BR",
+    "lat": -18.91861,
+    "lng": -48.27722
+  },
+  {
+    "name": "Uberaba",
+    "country": "BR",
+    "lat": -19.74833,
+    "lng": -47.93194
+  },
+  {
+    "name": "Ubatuba",
+    "country": "BR",
+    "lat": -23.43389,
+    "lng": -45.07111
+  },
+  {
+    "name": "Ubatã",
+    "country": "BR",
+    "lat": -14.20906,
+    "lng": -39.52641
+  },
+  {
+    "name": "Ubarana",
+    "country": "BR",
+    "lat": -21.16556,
+    "lng": -49.7175
+  },
+  {
+    "name": "Ubaporanga",
+    "country": "BR",
+    "lat": -19.63528,
+    "lng": -42.10556
+  },
+  {
+    "name": "Ubaitaba",
+    "country": "BR",
+    "lat": -14.3125,
+    "lng": -39.32333
+  },
+  {
+    "name": "Ubaíra",
+    "country": "BR",
+    "lat": -13.26806,
+    "lng": -39.66278
+  },
+  {
+    "name": "Ubaí",
+    "country": "BR",
+    "lat": -16.28528,
+    "lng": -44.77806
+  },
+  {
+    "name": "Ubá",
+    "country": "BR",
+    "lat": -21.12,
+    "lng": -42.94278
+  },
+  {
+    "name": "Ubiratã",
+    "country": "BR",
+    "lat": -24.54528,
+    "lng": -52.98778
+  },
+  {
+    "name": "Ubaque",
+    "country": "CO",
+    "lat": 4.48667,
+    "lng": -73.93748
+  },
+  {
+    "name": "Ubalá",
+    "country": "CO",
+    "lat": 4.74778,
+    "lng": -72.53694
+  },
+  {
+    "name": "Ubalá",
+    "country": "CO",
+    "lat": 4.74389,
+    "lng": -73.53472
+  },
+  {
+    "name": "Ubstadt-Weiher",
+    "country": "DE",
+    "lat": 49.16296,
+    "lng": 8.63165
+  },
+  {
+    "name": "Ubrique",
+    "country": "ES",
+    "lat": 36.67777,
+    "lng": -5.446
+  },
+  {
+    "name": "Ubide",
+    "country": "ES",
+    "lat": 43.02396,
+    "lng": -2.68759
+  },
+  {
+    "name": "Uberach",
+    "country": "FR",
+    "lat": 48.8499,
+    "lng": 7.62934
+  },
+  {
+    "name": "Ubud",
+    "country": "ID",
+    "lat": -8.5098,
+    "lng": 115.2654
+  },
+  {
+    "name": "Ubrub",
+    "country": "ID",
+    "lat": -3.7131,
+    "lng": 140.8795
+  },
+  {
+    "name": "Ubaidullāhganj",
+    "country": "IN",
+    "lat": 22.99834,
+    "lng": 77.58621
+  },
+  {
+    "name": "Uboldo",
+    "country": "IT",
+    "lat": 45.61527,
+    "lng": 9.00394
+  },
+  {
+    "name": "Ubiale Clanezzo",
+    "country": "IT",
+    "lat": 45.78368,
+    "lng": 9.61935
+  },
+  {
+    "name": "Ubiale",
+    "country": "IT",
+    "lat": 45.7835,
+    "lng": 9.6165
+  },
+  {
+    "name": "Ube",
+    "country": "JP",
+    "lat": 33.94306,
+    "lng": 131.25111
+  },
+  {
+    "name": "Ubagai",
+    "country": "JP",
+    "lat": 36.55,
+    "lng": 140.06667
+  },
+  {
+    "name": "Ubuyama",
+    "country": "JP",
+    "lat": 32.99961,
+    "lng": 131.23941
+  },
+  {
+    "name": "Ubari",
+    "country": "LY",
+    "lat": 26.59034,
+    "lng": 12.77511
+  },
+  {
+    "name": "Ubilio García",
+    "country": "MX",
+    "lat": 17.08405,
+    "lng": -91.47241
+  },
+  {
+    "name": "Ubiaja",
+    "country": "NG",
+    "lat": 6.65581,
+    "lng": 6.38494
+  },
+  {
+    "name": "Uba",
+    "country": "NG",
+    "lat": 10.45509,
+    "lng": 13.22233
+  },
+  {
+    "name": "Ubachsberg",
+    "country": "NL",
+    "lat": 50.85333,
+    "lng": 5.94861
+  },
+  {
+    "name": "Ubinas",
+    "country": "PE",
+    "lat": -16.4,
+    "lng": -70.86667
+  },
+  {
+    "name": "Ubay",
+    "country": "PH",
+    "lat": 10.056,
+    "lng": 124.47294
+  },
+  {
+    "name": "Ubauro",
+    "country": "PK",
+    "lat": 28.16429,
+    "lng": 69.73114
+  },
+  {
+    "name": "Ub",
+    "country": "RS",
+    "lat": 44.45611,
+    "lng": 20.07389
+  },
+  {
+    "name": "Ubinskoye",
+    "country": "RU",
+    "lat": 55.30713,
+    "lng": 79.68169
+  },
+  {
+    "name": "Ubon Ratchathani",
+    "country": "TH",
+    "lat": 15.23844,
+    "lng": 104.84866
+  },
+  {
+    "name": "Ubonratana",
+    "country": "TH",
+    "lat": 16.75269,
+    "lng": 102.63245
+  }
+]

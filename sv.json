@@ -1,0 +1,680 @@
+[
+  {
+    "name": "Svensson Heights",
+    "country": "AU",
+    "lat": -24.88566,
+    "lng": 152.33183
+  },
+  {
+    "name": "Svodna",
+    "country": "BA",
+    "lat": 45.0377,
+    "lng": 16.54019
+  },
+  {
+    "name": "Svojat",
+    "country": "BA",
+    "lat": 44.39548,
+    "lng": 18.73849
+  },
+  {
+    "name": "Sveti Vlas",
+    "country": "BG",
+    "lat": 42.7136,
+    "lng": 27.75867
+  },
+  {
+    "name": "Svoge",
+    "country": "BG",
+    "lat": 42.96667,
+    "lng": 23.35
+  },
+  {
+    "name": "Svishtov",
+    "country": "BG",
+    "lat": 43.61875,
+    "lng": 25.35033
+  },
+  {
+    "name": "Svilengrad",
+    "country": "BG",
+    "lat": 41.76836,
+    "lng": 26.19775
+  },
+  {
+    "name": "Svislach",
+    "country": "BY",
+    "lat": 53.03431,
+    "lng": 24.09717
+  },
+  {
+    "name": "Svir",
+    "country": "BY",
+    "lat": 54.8517,
+    "lng": 26.395
+  },
+  {
+    "name": "Svetlogorsk",
+    "country": "BY",
+    "lat": 52.6329,
+    "lng": 29.7389
+  },
+  {
+    "name": "Svislach",
+    "country": "BY",
+    "lat": 53.6404,
+    "lng": 27.9199
+  },
+  {
+    "name": "Svratka",
+    "country": "CZ",
+    "lat": 49.71066,
+    "lng": 16.03214
+  },
+  {
+    "name": "Svoboda nad Úpou",
+    "country": "CZ",
+    "lat": 50.62596,
+    "lng": 15.81648
+  },
+  {
+    "name": "Svitavy",
+    "country": "CZ",
+    "lat": 49.75594,
+    "lng": 16.46829
+  },
+  {
+    "name": "Svitávka",
+    "country": "CZ",
+    "lat": 49.50178,
+    "lng": 16.59793
+  },
+  {
+    "name": "Sviadnov",
+    "country": "CZ",
+    "lat": 49.68926,
+    "lng": 18.32762
+  },
+  {
+    "name": "Světlá nad Sázavou",
+    "country": "CZ",
+    "lat": 49.66801,
+    "lng": 15.40393
+  },
+  {
+    "name": "Svatava",
+    "country": "CZ",
+    "lat": 50.19223,
+    "lng": 12.62524
+  },
+  {
+    "name": "Světlá Hora",
+    "country": "CZ",
+    "lat": 50.04644,
+    "lng": 17.39944
+  },
+  {
+    "name": "Svogerslev",
+    "country": "DK",
+    "lat": 55.63423,
+    "lng": 12.01465
+  },
+  {
+    "name": "Svinninge",
+    "country": "DK",
+    "lat": 55.88306,
+    "lng": 11.60991
+  },
+  {
+    "name": "Svinninge",
+    "country": "DK",
+    "lat": 55.72111,
+    "lng": 11.46547
+  },
+  {
+    "name": "Svenstrup",
+    "country": "DK",
+    "lat": 56.9723,
+    "lng": 9.84806
+  },
+  {
+    "name": "Svenstrup",
+    "country": "DK",
+    "lat": 56.60263,
+    "lng": 9.94361
+  },
+  {
+    "name": "Svendborg",
+    "country": "DK",
+    "lat": 55.05982,
+    "lng": 10.60677
+  },
+  {
+    "name": "Svejbæk",
+    "country": "DK",
+    "lat": 56.13255,
+    "lng": 9.63289
+  },
+  {
+    "name": "Svebølle",
+    "country": "DK",
+    "lat": 55.65183,
+    "lng": 11.28658
+  },
+  {
+    "name": "Svaneke",
+    "country": "DK",
+    "lat": 55.13574,
+    "lng": 15.14139
+  },
+  {
+    "name": "Svorónos",
+    "country": "GR",
+    "lat": 40.26805,
+    "lng": 22.46366
+  },
+  {
+    "name": "Sveti Ivan Zelina",
+    "country": "HR",
+    "lat": 45.95985,
+    "lng": 16.24327
+  },
+  {
+    "name": "Sveti Križ Začretje",
+    "country": "HR",
+    "lat": 46.08083,
+    "lng": 15.91111
+  },
+  {
+    "name": "Sveti Ivan Žabno",
+    "country": "HR",
+    "lat": 45.94611,
+    "lng": 16.61333
+  },
+  {
+    "name": "Svetvinčenat",
+    "country": "HR",
+    "lat": 45.08806,
+    "lng": 13.88361
+  },
+  {
+    "name": "Sveti Petar u Šumi",
+    "country": "HR",
+    "lat": 45.18361,
+    "lng": 13.86833
+  },
+  {
+    "name": "Sveti Martin na Muri",
+    "country": "HR",
+    "lat": 46.52502,
+    "lng": 16.36267
+  },
+  {
+    "name": "Sveti Ilija",
+    "country": "HR",
+    "lat": 46.24694,
+    "lng": 16.32528
+  },
+  {
+    "name": "Sveti Ðurđ",
+    "country": "HR",
+    "lat": 46.28444,
+    "lng": 16.60417
+  },
+  {
+    "name": "Sveta Nedjelja",
+    "country": "HR",
+    "lat": 45.79833,
+    "lng": 15.78056
+  },
+  {
+    "name": "Sveta Marija",
+    "country": "HR",
+    "lat": 46.3322,
+    "lng": 16.74454
+  },
+  {
+    "name": "Sveti Petar Orehovec",
+    "country": "HR",
+    "lat": 46.07949,
+    "lng": 16.45431
+  },
+  {
+    "name": "Sveti Lovreč",
+    "country": "HR",
+    "lat": 45.17583,
+    "lng": 13.74194
+  },
+  {
+    "name": "Sveti Filip i Jakov",
+    "country": "HR",
+    "lat": 43.96472,
+    "lng": 15.43
+  },
+  {
+    "name": "Svay Rieng",
+    "country": "KH",
+    "lat": 11.08785,
+    "lng": 105.79935
+  },
+  {
+    "name": "Svay Chek",
+    "country": "KH",
+    "lat": 13.80539,
+    "lng": 102.96184
+  },
+  {
+    "name": "Svay Rumpea",
+    "country": "KH",
+    "lat": 11.21281,
+    "lng": 104.57611
+  },
+  {
+    "name": "Svay Teab",
+    "country": "KH",
+    "lat": 11.05456,
+    "lng": 105.88531
+  },
+  {
+    "name": "Sveti Nikole",
+    "country": "MK",
+    "lat": 41.86956,
+    "lng": 21.95274
+  },
+  {
+    "name": "Svolvær",
+    "country": "NO",
+    "lat": 68.23417,
+    "lng": 14.56834
+  },
+  {
+    "name": "Svelvik",
+    "country": "NO",
+    "lat": 59.6137,
+    "lng": 10.40872
+  },
+  {
+    "name": "Svelgen",
+    "country": "NO",
+    "lat": 61.76976,
+    "lng": 5.29544
+  },
+  {
+    "name": "Sveio",
+    "country": "NO",
+    "lat": 59.5419,
+    "lng": 5.35178
+  },
+  {
+    "name": "Svortland",
+    "country": "NO",
+    "lat": 59.79284,
+    "lng": 5.17226
+  },
+  {
+    "name": "Sviniţa",
+    "country": "RO",
+    "lat": 44.49972,
+    "lng": 22.10611
+  },
+  {
+    "name": "Svrljig",
+    "country": "RS",
+    "lat": 43.41333,
+    "lng": 22.12111
+  },
+  {
+    "name": "Svilajnac",
+    "country": "RS",
+    "lat": 44.2337,
+    "lng": 21.1967
+  },
+  {
+    "name": "Svobody",
+    "country": "RU",
+    "lat": 44.02556,
+    "lng": 43.05028
+  },
+  {
+    "name": "Svobodnyy",
+    "country": "RU",
+    "lat": 52.33039,
+    "lng": 46.37122
+  },
+  {
+    "name": "Sviyazhsk",
+    "country": "RU",
+    "lat": 55.77329,
+    "lng": 48.66051
+  },
+  {
+    "name": "Sviblovo",
+    "country": "RU",
+    "lat": 55.85,
+    "lng": 37.63333
+  },
+  {
+    "name": "Svetogorsk",
+    "country": "RU",
+    "lat": 61.11213,
+    "lng": 28.86321
+  },
+  {
+    "name": "Svetlyy Yar",
+    "country": "RU",
+    "lat": 48.47449,
+    "lng": 44.78504
+  },
+  {
+    "name": "Svetlyy",
+    "country": "RU",
+    "lat": 54.67501,
+    "lng": 20.13473
+  },
+  {
+    "name": "Svetlograd",
+    "country": "RU",
+    "lat": 45.32736,
+    "lng": 42.8562
+  },
+  {
+    "name": "Svetlogorsk",
+    "country": "RU",
+    "lat": 54.93987,
+    "lng": 20.15479
+  },
+  {
+    "name": "Sverdlovskiy",
+    "country": "RU",
+    "lat": 55.90968,
+    "lng": 38.14978
+  },
+  {
+    "name": "Sven’",
+    "country": "RU",
+    "lat": 53.18222,
+    "lng": 34.55111
+  },
+  {
+    "name": "Svecha",
+    "country": "RU",
+    "lat": 58.27795,
+    "lng": 47.51226
+  },
+  {
+    "name": "Svatkovo",
+    "country": "RU",
+    "lat": 56.38333,
+    "lng": 38.21667
+  },
+  {
+    "name": "Svetlyy",
+    "country": "RU",
+    "lat": 51.6737,
+    "lng": 45.63054
+  },
+  {
+    "name": "Svetlopolyansk",
+    "country": "RU",
+    "lat": 59.41836,
+    "lng": 52.36045
+  },
+  {
+    "name": "Svetlyy",
+    "country": "RU",
+    "lat": 56.91667,
+    "lng": 85.96667
+  },
+  {
+    "name": "Svetlyy",
+    "country": "RU",
+    "lat": 50.81964,
+    "lng": 60.85075
+  },
+  {
+    "name": "Svetlogorsk",
+    "country": "RU",
+    "lat": 66.93762,
+    "lng": 88.35265
+  },
+  {
+    "name": "Svobodnyy",
+    "country": "RU",
+    "lat": 58.03972,
+    "lng": 60.39611
+  },
+  {
+    "name": "Svobodnyy",
+    "country": "RU",
+    "lat": 51.37634,
+    "lng": 128.13636
+  },
+  {
+    "name": "Svirsk",
+    "country": "RU",
+    "lat": 53.09108,
+    "lng": 103.34345
+  },
+  {
+    "name": "Svetlaya",
+    "country": "RU",
+    "lat": 46.54055,
+    "lng": 138.33125
+  },
+  {
+    "name": "Svetlanovskiy",
+    "country": "RU",
+    "lat": 60.00276,
+    "lng": 30.33051
+  },
+  {
+    "name": "Svenljunga",
+    "country": "SE",
+    "lat": 57.49551,
+    "lng": 13.11078
+  },
+  {
+    "name": "Sveg",
+    "country": "SE",
+    "lat": 62.03407,
+    "lng": 14.36577
+  },
+  {
+    "name": "Svedala",
+    "country": "SE",
+    "lat": 55.50788,
+    "lng": 13.23515
+  },
+  {
+    "name": "Svärtinge",
+    "country": "SE",
+    "lat": 58.65507,
+    "lng": 16.02823
+  },
+  {
+    "name": "Svärdsjö",
+    "country": "SE",
+    "lat": 60.74022,
+    "lng": 15.90173
+  },
+  {
+    "name": "Svängsta",
+    "country": "SE",
+    "lat": 56.26667,
+    "lng": 14.76667
+  },
+  {
+    "name": "Svanesund",
+    "country": "SE",
+    "lat": 58.14292,
+    "lng": 11.81821
+  },
+  {
+    "name": "Svalsta",
+    "country": "SE",
+    "lat": 58.74273,
+    "lng": 16.86978
+  },
+  {
+    "name": "Svalöv",
+    "country": "SE",
+    "lat": 55.9134,
+    "lng": 13.10762
+  },
+  {
+    "name": "Sveti Tomaž",
+    "country": "SI",
+    "lat": 46.48351,
+    "lng": 16.07912
+  },
+  {
+    "name": "Sv. Duh",
+    "country": "SI",
+    "lat": 46.18333,
+    "lng": 14.33333
+  },
+  {
+    "name": "Sv. Anton",
+    "country": "SI",
+    "lat": 45.52583,
+    "lng": 13.83194
+  },
+  {
+    "name": "Sv. Ana v Slov. Goricah",
+    "country": "SI",
+    "lat": 46.64917,
+    "lng": 15.84417
+  },
+  {
+    "name": "Sveti Jurij",
+    "country": "SI",
+    "lat": 46.5695,
+    "lng": 16.02347
+  },
+  {
+    "name": "Sv. Trojica v Slov. Goricah",
+    "country": "SI",
+    "lat": 46.57667,
+    "lng": 15.87694
+  },
+  {
+    "name": "Svit",
+    "country": "SK",
+    "lat": 49.06014,
+    "lng": 20.20695
+  },
+  {
+    "name": "Svidník",
+    "country": "SK",
+    "lat": 49.30819,
+    "lng": 21.5703
+  },
+  {
+    "name": "Svrčinovec",
+    "country": "SK",
+    "lat": 49.48091,
+    "lng": 18.79623
+  },
+  {
+    "name": "Svodín",
+    "country": "SK",
+    "lat": 47.91054,
+    "lng": 18.49967
+  },
+  {
+    "name": "Svederník",
+    "country": "SK",
+    "lat": 49.26527,
+    "lng": 18.6467
+  },
+  {
+    "name": "Svätý Peter",
+    "country": "SK",
+    "lat": 47.84151,
+    "lng": 18.25413
+  },
+  {
+    "name": "Svätý Michal",
+    "country": "SK",
+    "lat": 48.01667,
+    "lng": 17.51667
+  },
+  {
+    "name": "Svätý Jur",
+    "country": "SK",
+    "lat": 48.25216,
+    "lng": 17.21539
+  },
+  {
+    "name": "Svätý Anton",
+    "country": "SK",
+    "lat": 48.41923,
+    "lng": 18.9401
+  },
+  {
+    "name": "Svätoplukovo",
+    "country": "SK",
+    "lat": 48.22817,
+    "lng": 18.05582
+  },
+  {
+    "name": "Sviatohirsk",
+    "country": "UA",
+    "lat": 49.04101,
+    "lng": 37.57194
+  },
+  {
+    "name": "Svitiaz",
+    "country": "UA",
+    "lat": 51.48211,
+    "lng": 23.85904
+  },
+  {
+    "name": "Svetloye",
+    "country": "UA",
+    "lat": 45.6332,
+    "lng": 34.66264
+  },
+  {
+    "name": "Svitlovodsk",
+    "country": "UA",
+    "lat": 49.06287,
+    "lng": 33.2458
+  },
+  {
+    "name": "Svitlohirske",
+    "country": "UA",
+    "lat": 48.88966,
+    "lng": 34.07118
+  },
+  {
+    "name": "Svitlodolynske",
+    "country": "UA",
+    "lat": 46.09137,
+    "lng": 29.58732
+  },
+  {
+    "name": "Svetlodarsk",
+    "country": "UA",
+    "lat": 48.43374,
+    "lng": 38.22331
+  },
+  {
+    "name": "Svatove",
+    "country": "UA",
+    "lat": 49.40719,
+    "lng": 38.15362
+  },
+  {
+    "name": "Svarychiv",
+    "country": "UA",
+    "lat": 48.95907,
+    "lng": 24.18942
+  },
+  {
+    "name": "Svalyava",
+    "country": "UA",
+    "lat": 48.54735,
+    "lng": 22.98673
+  }
+]

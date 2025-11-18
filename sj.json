@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Sjøvegan",
+    "country": "NO",
+    "lat": 68.87363,
+    "lng": 17.84706
+  },
+  {
+    "name": "Sjøholt",
+    "country": "NO",
+    "lat": 62.48263,
+    "lng": 6.81376
+  },
+  {
+    "name": "Sjølyststranda",
+    "country": "NO",
+    "lat": 59.92105,
+    "lng": 10.68017
+  },
+  {
+    "name": "Sjenica",
+    "country": "RS",
+    "lat": 43.27306,
+    "lng": 19.99944
+  },
+  {
+    "name": "Sjuntorp",
+    "country": "SE",
+    "lat": 58.2,
+    "lng": 12.21667
+  },
+  {
+    "name": "Sjömarken",
+    "country": "SE",
+    "lat": 57.71533,
+    "lng": 12.83495
+  },
+  {
+    "name": "Sjöbo",
+    "country": "SE",
+    "lat": 55.63135,
+    "lng": 13.70622
+  }
+]

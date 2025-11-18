@@ -1,0 +1,7904 @@
+[
+  {
+    "name": "Selishtë",
+    "country": "AL",
+    "lat": 41.6275,
+    "lng": 20.27917
+  },
+  {
+    "name": "Sevaster",
+    "country": "AL",
+    "lat": 40.39639,
+    "lng": 19.72972
+  },
+  {
+    "name": "Selitë",
+    "country": "AL",
+    "lat": 41.63528,
+    "lng": 19.755
+  },
+  {
+    "name": "Selenicë",
+    "country": "AL",
+    "lat": 40.53056,
+    "lng": 19.63583
+  },
+  {
+    "name": "Selitë",
+    "country": "AL",
+    "lat": 40.5475,
+    "lng": 19.84806
+  },
+  {
+    "name": "Sevkar",
+    "country": "AM",
+    "lat": 41.01599,
+    "lng": 45.14185
+  },
+  {
+    "name": "Sevan",
+    "country": "AM",
+    "lat": 40.548,
+    "lng": 44.95314
+  },
+  {
+    "name": "Serrezuela",
+    "country": "AR",
+    "lat": -30.63955,
+    "lng": -65.38697
+  },
+  {
+    "name": "Serrano",
+    "country": "AR",
+    "lat": -34.47156,
+    "lng": -63.53822
+  },
+  {
+    "name": "Senillosa",
+    "country": "AR",
+    "lat": -39.01412,
+    "lng": -68.43281
+  },
+  {
+    "name": "Selva",
+    "country": "AR",
+    "lat": -29.76825,
+    "lng": -62.04753
+  },
+  {
+    "name": "Seguí",
+    "country": "AR",
+    "lat": -31.95647,
+    "lng": -60.12784
+  },
+  {
+    "name": "Sebastián Elcano",
+    "country": "AR",
+    "lat": -30.1604,
+    "lng": -63.59245
+  },
+  {
+    "name": "Seyring",
+    "country": "AT",
+    "lat": 48.33333,
+    "lng": 16.48333
+  },
+  {
+    "name": "Serfaus",
+    "country": "AT",
+    "lat": 47.04018,
+    "lng": 10.60339
+  },
+  {
+    "name": "Senftenberg",
+    "country": "AT",
+    "lat": 48.45222,
+    "lng": 15.54452
+  },
+  {
+    "name": "Semriach",
+    "country": "AT",
+    "lat": 47.21667,
+    "lng": 15.4
+  },
+  {
+    "name": "Semmering",
+    "country": "AT",
+    "lat": 47.63347,
+    "lng": 15.82993
+  },
+  {
+    "name": "Selzthal",
+    "country": "AT",
+    "lat": 47.54988,
+    "lng": 14.31201
+  },
+  {
+    "name": "Seitenstetten Markt",
+    "country": "AT",
+    "lat": 48.03333,
+    "lng": 14.65
+  },
+  {
+    "name": "Seiersberg",
+    "country": "AT",
+    "lat": 47.0,
+    "lng": 15.4
+  },
+  {
+    "name": "Seibersdorf",
+    "country": "AT",
+    "lat": 47.95858,
+    "lng": 16.51842
+  },
+  {
+    "name": "Seggauberg",
+    "country": "AT",
+    "lat": 46.76667,
+    "lng": 15.51667
+  },
+  {
+    "name": "Seewalchen",
+    "country": "AT",
+    "lat": 47.95246,
+    "lng": 13.58382
+  },
+  {
+    "name": "Seewalchen",
+    "country": "AT",
+    "lat": 47.90293,
+    "lng": 13.1313
+  },
+  {
+    "name": "Seekirchen am Wallersee",
+    "country": "AT",
+    "lat": 47.9,
+    "lng": 13.13333
+  },
+  {
+    "name": "Seeham",
+    "country": "AT",
+    "lat": 47.96746,
+    "lng": 13.07699
+  },
+  {
+    "name": "Seefeld in Tirol",
+    "country": "AT",
+    "lat": 47.33016,
+    "lng": 11.18786
+  },
+  {
+    "name": "Seeboden",
+    "country": "AT",
+    "lat": 46.81909,
+    "lng": 13.5143
+  },
+  {
+    "name": "Seebenstein",
+    "country": "AT",
+    "lat": 47.69936,
+    "lng": 16.14484
+  },
+  {
+    "name": "Seebach",
+    "country": "AT",
+    "lat": 46.61667,
+    "lng": 13.86667
+  },
+  {
+    "name": "See",
+    "country": "AT",
+    "lat": 47.08333,
+    "lng": 10.46667
+  },
+  {
+    "name": "Seckau",
+    "country": "AT",
+    "lat": 47.26667,
+    "lng": 14.78333
+  },
+  {
+    "name": "Sebersdorf",
+    "country": "AT",
+    "lat": 47.1865,
+    "lng": 15.9936
+  },
+  {
+    "name": "Sellrain",
+    "country": "AT",
+    "lat": 47.21667,
+    "lng": 11.21667
+  },
+  {
+    "name": "Seitenberg",
+    "country": "AT",
+    "lat": 46.74801,
+    "lng": 14.08825
+  },
+  {
+    "name": "Serpentine",
+    "country": "AU",
+    "lat": -32.36051,
+    "lng": 115.97723
+  },
+  {
+    "name": "Semaphore",
+    "country": "AU",
+    "lat": -34.83934,
+    "lng": 138.48228
+  },
+  {
+    "name": "Seaton",
+    "country": "AU",
+    "lat": -34.9,
+    "lng": 138.51667
+  },
+  {
+    "name": "Seaford",
+    "country": "AU",
+    "lat": -35.1898,
+    "lng": 138.47589
+  },
+  {
+    "name": "Seacliff",
+    "country": "AU",
+    "lat": -35.03474,
+    "lng": 138.52288
+  },
+  {
+    "name": "Seymour",
+    "country": "AU",
+    "lat": -37.02655,
+    "lng": 145.13924
+  },
+  {
+    "name": "Seville",
+    "country": "AU",
+    "lat": -37.79802,
+    "lng": 145.48763
+  },
+  {
+    "name": "Seven Hills",
+    "country": "AU",
+    "lat": -33.78333,
+    "lng": 150.93333
+  },
+  {
+    "name": "Selby",
+    "country": "AU",
+    "lat": -37.91667,
+    "lng": 145.38333
+  },
+  {
+    "name": "Sebastopol",
+    "country": "AU",
+    "lat": -37.58532,
+    "lng": 143.83953
+  },
+  {
+    "name": "Seaford",
+    "country": "AU",
+    "lat": -38.1,
+    "lng": 145.13333
+  },
+  {
+    "name": "Seaforth",
+    "country": "AU",
+    "lat": -33.80145,
+    "lng": 151.23981
+  },
+  {
+    "name": "Seven Mile Beach",
+    "country": "AU",
+    "lat": -42.85863,
+    "lng": 147.50532
+  },
+  {
+    "name": "Sellicks Beach",
+    "country": "AU",
+    "lat": -35.33869,
+    "lng": 138.44734
+  },
+  {
+    "name": "Sefton",
+    "country": "AU",
+    "lat": -33.88773,
+    "lng": 151.01053
+  },
+  {
+    "name": "Seabrook",
+    "country": "AU",
+    "lat": -37.88092,
+    "lng": 144.75866
+  },
+  {
+    "name": "Seaholme",
+    "country": "AU",
+    "lat": -37.864,
+    "lng": 144.84504
+  },
+  {
+    "name": "Seacombe Gardens",
+    "country": "AU",
+    "lat": -35.02336,
+    "lng": 138.5458
+  },
+  {
+    "name": "Seville Grove",
+    "country": "AU",
+    "lat": -32.13645,
+    "lng": 115.98905
+  },
+  {
+    "name": "Seaview Downs",
+    "country": "AU",
+    "lat": -35.03698,
+    "lng": 138.53796
+  },
+  {
+    "name": "Secret Harbour",
+    "country": "AU",
+    "lat": -32.40589,
+    "lng": 115.75852
+  },
+  {
+    "name": "Seaford Meadows",
+    "country": "AU",
+    "lat": -35.17276,
+    "lng": 138.4879
+  },
+  {
+    "name": "Seaford Rise",
+    "country": "AU",
+    "lat": -35.19296,
+    "lng": 138.48172
+  },
+  {
+    "name": "Seventeen Mile Rocks",
+    "country": "AU",
+    "lat": -27.5507,
+    "lng": 152.95896
+  },
+  {
+    "name": "Seven Hills",
+    "country": "AU",
+    "lat": -27.48341,
+    "lng": 153.07474
+  },
+  {
+    "name": "Seddon",
+    "country": "AU",
+    "lat": -37.80607,
+    "lng": 144.8907
+  },
+  {
+    "name": "Semaphore Park",
+    "country": "AU",
+    "lat": -34.85072,
+    "lng": 138.47889
+  },
+  {
+    "name": "Seacliff Park",
+    "country": "AU",
+    "lat": -35.02983,
+    "lng": 138.53129
+  },
+  {
+    "name": "Seacombe Heights",
+    "country": "AU",
+    "lat": -35.03264,
+    "lng": 138.54584
+  },
+  {
+    "name": "Semaphore South",
+    "country": "AU",
+    "lat": -34.84975,
+    "lng": 138.47949
+  },
+  {
+    "name": "Sefton Park",
+    "country": "AU",
+    "lat": -34.87405,
+    "lng": 138.60343
+  },
+  {
+    "name": "Sedarak",
+    "country": "AZ",
+    "lat": 39.71427,
+    "lng": 44.88455
+  },
+  {
+    "name": "Severo-Vostotchnyi Bank",
+    "country": "AZ",
+    "lat": 39.41117,
+    "lng": 49.24792
+  },
+  {
+    "name": "Serskamp",
+    "country": "BE",
+    "lat": 50.98849,
+    "lng": 3.92657
+  },
+  {
+    "name": "Serinchamps",
+    "country": "BE",
+    "lat": 50.23134,
+    "lng": 5.23018
+  },
+  {
+    "name": "Seraing",
+    "country": "BE",
+    "lat": 50.58362,
+    "lng": 5.50115
+  },
+  {
+    "name": "Seneffe",
+    "country": "BE",
+    "lat": 50.53135,
+    "lng": 4.26301
+  },
+  {
+    "name": "Semmerzake",
+    "country": "BE",
+    "lat": 50.94369,
+    "lng": 3.66318
+  },
+  {
+    "name": "Seloignes",
+    "country": "BE",
+    "lat": 50.01515,
+    "lng": 4.25517
+  },
+  {
+    "name": "Seilles",
+    "country": "BE",
+    "lat": 50.50065,
+    "lng": 5.09268
+  },
+  {
+    "name": "Sebba",
+    "country": "BF",
+    "lat": 13.43641,
+    "lng": 0.53044
+  },
+  {
+    "name": "Sevlievo",
+    "country": "BG",
+    "lat": 43.02295,
+    "lng": 25.10364
+  },
+  {
+    "name": "Septemvri",
+    "country": "BG",
+    "lat": 42.22016,
+    "lng": 24.11854
+  },
+  {
+    "name": "Senovo",
+    "country": "BG",
+    "lat": 43.65,
+    "lng": 26.36667
+  },
+  {
+    "name": "Semi",
+    "country": "BJ",
+    "lat": 6.36667,
+    "lng": 2.61667
+  },
+  {
+    "name": "Seria",
+    "country": "BN",
+    "lat": 4.60637,
+    "lng": 114.32476
+  },
+  {
+    "name": "Serasa",
+    "country": "BN",
+    "lat": 5.01761,
+    "lng": 115.05798
+  },
+  {
+    "name": "Sengkurong",
+    "country": "BN",
+    "lat": 4.88333,
+    "lng": 114.83333
+  },
+  {
+    "name": "Severiano Melo",
+    "country": "BR",
+    "lat": -5.77722,
+    "lng": -37.95778
+  },
+  {
+    "name": "Sertânia",
+    "country": "BR",
+    "lat": -8.07361,
+    "lng": -37.26444
+  },
+  {
+    "name": "Serrita",
+    "country": "BR",
+    "lat": -7.93333,
+    "lng": -39.29583
+  },
+  {
+    "name": "Serrinha dos Pintos",
+    "country": "BR",
+    "lat": -6.11,
+    "lng": -37.95639
+  },
+  {
+    "name": "Serrinha",
+    "country": "BR",
+    "lat": -6.27611,
+    "lng": -35.49889
+  },
+  {
+    "name": "Serra Talhada",
+    "country": "BR",
+    "lat": -7.99194,
+    "lng": -38.29833
+  },
+  {
+    "name": "Serraria",
+    "country": "BR",
+    "lat": -6.83333,
+    "lng": -35.625
+  },
+  {
+    "name": "Serra Redonda",
+    "country": "BR",
+    "lat": -7.17833,
+    "lng": -35.675
+  },
+  {
+    "name": "Serra Negra do Norte",
+    "country": "BR",
+    "lat": -6.66556,
+    "lng": -37.39722
+  },
+  {
+    "name": "Serra Grande",
+    "country": "BR",
+    "lat": -7.21528,
+    "lng": -38.36972
+  },
+  {
+    "name": "Serra do Navio",
+    "country": "BR",
+    "lat": 0.89556,
+    "lng": -52.00222
+  },
+  {
+    "name": "Serra de São Bento",
+    "country": "BR",
+    "lat": -6.41722,
+    "lng": -35.70444
+  },
+  {
+    "name": "Serra da Raiz",
+    "country": "BR",
+    "lat": -6.68667,
+    "lng": -35.44389
+  },
+  {
+    "name": "Serra Caiada",
+    "country": "BR",
+    "lat": -6.10393,
+    "lng": -35.71095
+  },
+  {
+    "name": "Serra Branca",
+    "country": "BR",
+    "lat": -7.48333,
+    "lng": -36.665
+  },
+  {
+    "name": "Serra Branca",
+    "country": "BR",
+    "lat": -6.53333,
+    "lng": -38.26667
+  },
+  {
+    "name": "Senador Sá",
+    "country": "BR",
+    "lat": -3.35056,
+    "lng": -40.46333
+  },
+  {
+    "name": "Senador Pompeu",
+    "country": "BR",
+    "lat": -5.58806,
+    "lng": -39.37167
+  },
+  {
+    "name": "Senador José Porfírio",
+    "country": "BR",
+    "lat": -2.59083,
+    "lng": -51.95417
+  },
+  {
+    "name": "Senador Rui Palmeira",
+    "country": "BR",
+    "lat": -9.4675,
+    "lng": -37.4573
+  },
+  {
+    "name": "Sebastião Leal",
+    "country": "BR",
+    "lat": -7.5698,
+    "lng": -44.06504
+  },
+  {
+    "name": "Sentinela do Sul",
+    "country": "BR",
+    "lat": -30.6124,
+    "lng": -51.58123
+  },
+  {
+    "name": "Severínia",
+    "country": "BR",
+    "lat": -20.80944,
+    "lng": -48.80278
+  },
+  {
+    "name": "Sete Lagoas",
+    "country": "BR",
+    "lat": -19.46583,
+    "lng": -44.24667
+  },
+  {
+    "name": "Sete de Setembro",
+    "country": "BR",
+    "lat": -28.13111,
+    "lng": -54.46333
+  },
+  {
+    "name": "Sete Barras",
+    "country": "BR",
+    "lat": -24.38778,
+    "lng": -47.92556
+  },
+  {
+    "name": "Sertãozinho",
+    "country": "BR",
+    "lat": -21.13778,
+    "lng": -47.99028
+  },
+  {
+    "name": "Sertão Santana",
+    "country": "BR",
+    "lat": -30.46028,
+    "lng": -51.60333
+  },
+  {
+    "name": "Sertão",
+    "country": "BR",
+    "lat": -27.97972,
+    "lng": -52.25972
+  },
+  {
+    "name": "Sertanópolis",
+    "country": "BR",
+    "lat": -23.05861,
+    "lng": -51.03639
+  },
+  {
+    "name": "Sertaneja",
+    "country": "BR",
+    "lat": -23.03697,
+    "lng": -50.81709
+  },
+  {
+    "name": "Serrolândia",
+    "country": "BR",
+    "lat": -11.41583,
+    "lng": -40.30167
+  },
+  {
+    "name": "Serro",
+    "country": "BR",
+    "lat": -18.60472,
+    "lng": -43.37944
+  },
+  {
+    "name": "Serrinha",
+    "country": "BR",
+    "lat": -11.66417,
+    "lng": -39.0075
+  },
+  {
+    "name": "Serra Preta",
+    "country": "BR",
+    "lat": -12.16028,
+    "lng": -39.33167
+  },
+  {
+    "name": "Serranos",
+    "country": "BR",
+    "lat": -21.89028,
+    "lng": -44.51
+  },
+  {
+    "name": "Serranópolis",
+    "country": "BR",
+    "lat": -18.30611,
+    "lng": -51.96222
+  },
+  {
+    "name": "Serranópolis de Minas",
+    "country": "BR",
+    "lat": -15.81143,
+    "lng": -42.87099
+  },
+  {
+    "name": "Serrania",
+    "country": "BR",
+    "lat": -21.54806,
+    "lng": -46.03972
+  },
+  {
+    "name": "Serra Negra",
+    "country": "BR",
+    "lat": -22.61222,
+    "lng": -46.70056
+  },
+  {
+    "name": "Serrana",
+    "country": "BR",
+    "lat": -21.21139,
+    "lng": -47.59556
+  },
+  {
+    "name": "Serra do Salitre",
+    "country": "BR",
+    "lat": -19.11139,
+    "lng": -46.68972
+  },
+  {
+    "name": "Serra dos Aimorés",
+    "country": "BR",
+    "lat": -17.7825,
+    "lng": -40.2475
+  },
+  {
+    "name": "Serra Azul",
+    "country": "BR",
+    "lat": -21.31083,
+    "lng": -47.56556
+  },
+  {
+    "name": "Serra",
+    "country": "BR",
+    "lat": -20.12861,
+    "lng": -40.30778
+  },
+  {
+    "name": "Seropédica",
+    "country": "BR",
+    "lat": -22.74389,
+    "lng": -43.7075
+  },
+  {
+    "name": "Seritinga",
+    "country": "BR",
+    "lat": -21.90917,
+    "lng": -44.51917
+  },
+  {
+    "name": "Sericita",
+    "country": "BR",
+    "lat": -20.47389,
+    "lng": -42.48194
+  },
+  {
+    "name": "Serafina Corrêa",
+    "country": "BR",
+    "lat": -28.71167,
+    "lng": -51.935
+  },
+  {
+    "name": "Senhor do Bonfim",
+    "country": "BR",
+    "lat": -10.46139,
+    "lng": -40.18944
+  },
+  {
+    "name": "Senhora dos Remédios",
+    "country": "BR",
+    "lat": -21.02806,
+    "lng": -43.5825
+  },
+  {
+    "name": "Senhora do Porto",
+    "country": "BR",
+    "lat": -18.89222,
+    "lng": -43.08417
+  },
+  {
+    "name": "Senhora de Oliveira",
+    "country": "BR",
+    "lat": -20.79389,
+    "lng": -43.34444
+  },
+  {
+    "name": "Sengés",
+    "country": "BR",
+    "lat": -24.11335,
+    "lng": -49.46315
+  },
+  {
+    "name": "Senador José Bento",
+    "country": "BR",
+    "lat": -22.16444,
+    "lng": -46.17889
+  },
+  {
+    "name": "Senador Firmino",
+    "country": "BR",
+    "lat": -20.91194,
+    "lng": -43.09667
+  },
+  {
+    "name": "Senador Cortes",
+    "country": "BR",
+    "lat": -21.80056,
+    "lng": -42.94556
+  },
+  {
+    "name": "Senador Canedo",
+    "country": "BR",
+    "lat": -16.70806,
+    "lng": -49.09306
+  },
+  {
+    "name": "Senador Amaral",
+    "country": "BR",
+    "lat": -22.58722,
+    "lng": -46.17667
+  },
+  {
+    "name": "Sem-Peixe",
+    "country": "BR",
+    "lat": -20.10917,
+    "lng": -42.83944
+  },
+  {
+    "name": "Selbach",
+    "country": "BR",
+    "lat": -28.62861,
+    "lng": -52.9525
+  },
+  {
+    "name": "Segrêdo",
+    "country": "BR",
+    "lat": -12.01477,
+    "lng": -41.66952
+  },
+  {
+    "name": "Sede Nova",
+    "country": "BR",
+    "lat": -27.63472,
+    "lng": -53.94556
+  },
+  {
+    "name": "Seberi",
+    "country": "BR",
+    "lat": -27.47806,
+    "lng": -53.4025
+  },
+  {
+    "name": "Sebastianópolis do Sul",
+    "country": "BR",
+    "lat": -20.655,
+    "lng": -49.92111
+  },
+  {
+    "name": "Seara",
+    "country": "BR",
+    "lat": -27.14944,
+    "lng": -52.31056
+  },
+  {
+    "name": "Seabra",
+    "country": "BR",
+    "lat": -12.41713,
+    "lng": -41.77049
+  },
+  {
+    "name": "Senador Salgado Filho",
+    "country": "BR",
+    "lat": -28.02653,
+    "lng": -54.54411
+  },
+  {
+    "name": "Serra Dourada",
+    "country": "BR",
+    "lat": -12.76073,
+    "lng": -43.94998
+  },
+  {
+    "name": "Severiano de Almeida",
+    "country": "BR",
+    "lat": -27.43306,
+    "lng": -52.11611
+  },
+  {
+    "name": "Senador Modestino Gonçalves",
+    "country": "BR",
+    "lat": -17.94795,
+    "lng": -43.22318
+  },
+  {
+    "name": "Serra Azul de Minas",
+    "country": "BR",
+    "lat": -18.36343,
+    "lng": -43.16996
+  },
+  {
+    "name": "Sena Madureira",
+    "country": "BR",
+    "lat": -9.06341,
+    "lng": -68.67245
+  },
+  {
+    "name": "Senador Guiomard",
+    "country": "BR",
+    "lat": -10.1497,
+    "lng": -67.73741
+  },
+  {
+    "name": "Setubinha",
+    "country": "BR",
+    "lat": -17.60222,
+    "lng": -42.1625
+  },
+  {
+    "name": "Sebastião Barros",
+    "country": "BR",
+    "lat": -10.81722,
+    "lng": -44.83389
+  },
+  {
+    "name": "Sebastião Laranjeiras",
+    "country": "BR",
+    "lat": -14.57306,
+    "lng": -42.94028
+  },
+  {
+    "name": "Segredo",
+    "country": "BR",
+    "lat": -29.34139,
+    "lng": -52.97917
+  },
+  {
+    "name": "Selvíria",
+    "country": "BR",
+    "lat": -20.36722,
+    "lng": -51.41889
+  },
+  {
+    "name": "Senador Alexandre Costa",
+    "country": "BR",
+    "lat": -5.25639,
+    "lng": -44.05556
+  },
+  {
+    "name": "Senador Elói de Souza",
+    "country": "BR",
+    "lat": -6.03556,
+    "lng": -35.69278
+  },
+  {
+    "name": "Senador Georgino Avelino",
+    "country": "BR",
+    "lat": -6.16278,
+    "lng": -35.1225
+  },
+  {
+    "name": "Senador La Rocque",
+    "country": "BR",
+    "lat": -5.4425,
+    "lng": -47.29083
+  },
+  {
+    "name": "Sento Sé",
+    "country": "BR",
+    "lat": -9.74583,
+    "lng": -41.88528
+  },
+  {
+    "name": "Seringueiras",
+    "country": "BR",
+    "lat": -11.79806,
+    "lng": -63.03111
+  },
+  {
+    "name": "Serra Alta",
+    "country": "BR",
+    "lat": -26.72917,
+    "lng": -53.04222
+  },
+  {
+    "name": "Serra do Mel",
+    "country": "BR",
+    "lat": -5.17,
+    "lng": -37.02944
+  },
+  {
+    "name": "Serrano do Maranhão",
+    "country": "BR",
+    "lat": -1.85639,
+    "lng": -45.1225
+  },
+  {
+    "name": "Serranópolis do Iguaçu",
+    "country": "BR",
+    "lat": -25.38,
+    "lng": -54.05167
+  },
+  {
+    "name": "Sertãozinho",
+    "country": "BR",
+    "lat": -6.75139,
+    "lng": -35.44222
+  },
+  {
+    "name": "Sete Quedas",
+    "country": "BR",
+    "lat": -23.97028,
+    "lng": -55.03556
+  },
+  {
+    "name": "Se",
+    "country": "BR",
+    "lat": -23.54771,
+    "lng": -46.63145
+  },
+  {
+    "name": "Serra Nova Dourada",
+    "country": "BR",
+    "lat": -12.09075,
+    "lng": -51.40021
+  },
+  {
+    "name": "Setor de Indústria e Abastecimiento",
+    "country": "BR",
+    "lat": -15.80684,
+    "lng": -47.95792
+  },
+  {
+    "name": "Setor Complementar de Indústria e Abastecimento",
+    "country": "BR",
+    "lat": -15.78218,
+    "lng": -47.98819
+  },
+  {
+    "name": "Seringueiras",
+    "country": "BR",
+    "lat": -11.77016,
+    "lng": -63.03673
+  },
+  {
+    "name": "Serra do Ramalho",
+    "country": "BR",
+    "lat": -13.54232,
+    "lng": -43.57968
+  },
+  {
+    "name": "Serowe",
+    "country": "BW",
+    "lat": -22.38754,
+    "lng": 26.71077
+  },
+  {
+    "name": "Selebi-Phikwe",
+    "country": "BW",
+    "lat": -21.97895,
+    "lng": 27.84296
+  },
+  {
+    "name": "Sehithwa",
+    "country": "BW",
+    "lat": -20.46667,
+    "lng": 22.71667
+  },
+  {
+    "name": "Sefophe",
+    "country": "BW",
+    "lat": -22.18333,
+    "lng": 27.96667
+  },
+  {
+    "name": "Sebina",
+    "country": "BW",
+    "lat": -20.831,
+    "lng": 27.219
+  },
+  {
+    "name": "Sefhare",
+    "country": "BW",
+    "lat": -23.02904,
+    "lng": 27.46906
+  },
+  {
+    "name": "Sese",
+    "country": "BW",
+    "lat": -24.6561,
+    "lng": 24.8063
+  },
+  {
+    "name": "Senno",
+    "country": "BY",
+    "lat": 54.81175,
+    "lng": 29.70061
+  },
+  {
+    "name": "Seine Bight Village",
+    "country": "BZ",
+    "lat": 16.56943,
+    "lng": -88.36493
+  },
+  {
+    "name": "Seafair",
+    "country": "CA",
+    "lat": 49.15,
+    "lng": -123.18333
+  },
+  {
+    "name": "Seaforth",
+    "country": "CA",
+    "lat": 43.55009,
+    "lng": -81.39976
+  },
+  {
+    "name": "Sechelt",
+    "country": "CA",
+    "lat": 49.47512,
+    "lng": -123.75903
+  },
+  {
+    "name": "Selkirk",
+    "country": "CA",
+    "lat": 50.1436,
+    "lng": -96.88452
+  },
+  {
+    "name": "Senneterre",
+    "country": "CA",
+    "lat": 48.39302,
+    "lng": -77.23951
+  },
+  {
+    "name": "Sentinel Hill",
+    "country": "CA",
+    "lat": 49.33732,
+    "lng": -123.14597
+  },
+  {
+    "name": "Sept-Îles",
+    "country": "CA",
+    "lat": 50.20011,
+    "lng": -66.38208
+  },
+  {
+    "name": "Sexsmith",
+    "country": "CA",
+    "lat": 55.34998,
+    "lng": -118.78602
+  },
+  {
+    "name": "Seymour Heights",
+    "country": "CA",
+    "lat": 49.325,
+    "lng": -123.0
+  },
+  {
+    "name": "Seaview",
+    "country": "CA",
+    "lat": 49.27651,
+    "lng": -122.86904
+  },
+  {
+    "name": "Second Street",
+    "country": "CA",
+    "lat": 49.22372,
+    "lng": -122.92205
+  },
+  {
+    "name": "Sevelen",
+    "country": "CH",
+    "lat": 47.12213,
+    "lng": 9.48601
+  },
+  {
+    "name": "Seuzach / Seuzach (Dorf)",
+    "country": "CH",
+    "lat": 47.53545,
+    "lng": 8.73728
+  },
+  {
+    "name": "Seon",
+    "country": "CH",
+    "lat": 47.34848,
+    "lng": 8.16072
+  },
+  {
+    "name": "Sennwald",
+    "country": "CH",
+    "lat": 47.26063,
+    "lng": 9.50268
+  },
+  {
+    "name": "Sempach",
+    "country": "CH",
+    "lat": 47.13577,
+    "lng": 8.19149
+  },
+  {
+    "name": "Sementina",
+    "country": "CH",
+    "lat": 46.18363,
+    "lng": 8.99162
+  },
+  {
+    "name": "Selzach",
+    "country": "CH",
+    "lat": 47.20531,
+    "lng": 7.45521
+  },
+  {
+    "name": "Seltisberg",
+    "country": "CH",
+    "lat": 47.46249,
+    "lng": 7.72039
+  },
+  {
+    "name": "Seftigen",
+    "country": "CH",
+    "lat": 46.78765,
+    "lng": 7.53937
+  },
+  {
+    "name": "Seengen",
+    "country": "CH",
+    "lat": 47.32503,
+    "lng": 8.20724
+  },
+  {
+    "name": "Seedorf",
+    "country": "CH",
+    "lat": 47.03445,
+    "lng": 7.31249
+  },
+  {
+    "name": "Seedorf",
+    "country": "CH",
+    "lat": 46.88199,
+    "lng": 8.61611
+  },
+  {
+    "name": "Seeberg",
+    "country": "CH",
+    "lat": 47.15585,
+    "lng": 7.66567
+  },
+  {
+    "name": "Sellenbüren",
+    "country": "CH",
+    "lat": 47.34361,
+    "lng": 8.48301
+  },
+  {
+    "name": "Seuzach Dorf / Breite-Weid",
+    "country": "CH",
+    "lat": 47.53345,
+    "lng": 8.73415
+  },
+  {
+    "name": "Seen (Kreis 3) / Waser",
+    "country": "CH",
+    "lat": 47.48913,
+    "lng": 8.76034
+  },
+  {
+    "name": "Seen (Kreis 3) / Büelwiesen",
+    "country": "CH",
+    "lat": 47.48446,
+    "lng": 8.76517
+  },
+  {
+    "name": "Seen (Kreis 3) / Waldegg",
+    "country": "CH",
+    "lat": 47.48393,
+    "lng": 8.75586
+  },
+  {
+    "name": "Seen (Kreis 3) / Ganzenbühl",
+    "country": "CH",
+    "lat": 47.481,
+    "lng": 8.76249
+  },
+  {
+    "name": "Seen (Kreis 3) / Oberseen",
+    "country": "CH",
+    "lat": 47.48205,
+    "lng": 8.77289
+  },
+  {
+    "name": "Seglingen",
+    "country": "CH",
+    "lat": 47.57244,
+    "lng": 8.52093
+  },
+  {
+    "name": "Seen (Kreis 3)",
+    "country": "CH",
+    "lat": 47.47646,
+    "lng": 8.76996
+  },
+  {
+    "name": "Seuzach Dorf",
+    "country": "CH",
+    "lat": 47.5356,
+    "lng": 8.73209
+  },
+  {
+    "name": "Servion",
+    "country": "CH",
+    "lat": 46.57096,
+    "lng": 6.77835
+  },
+  {
+    "name": "Seyélihouo",
+    "country": "CI",
+    "lat": 9.65804,
+    "lng": -6.07205
+  },
+  {
+    "name": "Seupleu",
+    "country": "CI",
+    "lat": 7.40409,
+    "lng": -7.47553
+  },
+  {
+    "name": "Sessénoua",
+    "country": "CI",
+    "lat": 7.68913,
+    "lng": -5.14518
+  },
+  {
+    "name": "Senzékro",
+    "country": "CI",
+    "lat": 7.7769,
+    "lng": -5.21007
+  },
+  {
+    "name": "Seileu",
+    "country": "CI",
+    "lat": 7.09628,
+    "lng": -8.17351
+  },
+  {
+    "name": "Sehibli",
+    "country": "CI",
+    "lat": 6.57889,
+    "lng": -8.3375
+  },
+  {
+    "name": "Seydougou",
+    "country": "CI",
+    "lat": 9.51182,
+    "lng": -7.97555
+  },
+  {
+    "name": "Sessékro",
+    "country": "CI",
+    "lat": 7.5418,
+    "lng": -5.06041
+  },
+  {
+    "name": "Segong",
+    "country": "CN",
+    "lat": 32.21667,
+    "lng": 92.11667
+  },
+  {
+    "name": "Seke",
+    "country": "CN",
+    "lat": 32.27146,
+    "lng": 100.33316
+  },
+  {
+    "name": "Segezikule",
+    "country": "CN",
+    "lat": 37.46559,
+    "lng": 79.91012
+  },
+  {
+    "name": "Sevilla",
+    "country": "CO",
+    "lat": 4.26425,
+    "lng": -75.93085
+  },
+  {
+    "name": "Sesquilé",
+    "country": "CO",
+    "lat": 5.04463,
+    "lng": -73.79724
+  },
+  {
+    "name": "Segovia",
+    "country": "CO",
+    "lat": 7.07993,
+    "lng": -74.6989
+  },
+  {
+    "name": "Segundo Frente",
+    "country": "CU",
+    "lat": 20.41384,
+    "lng": -75.49635
+  },
+  {
+    "name": "Sezimovo Ústí",
+    "country": "CZ",
+    "lat": 49.38519,
+    "lng": 14.6848
+  },
+  {
+    "name": "Sezemice",
+    "country": "CZ",
+    "lat": 50.06651,
+    "lng": 15.8527
+  },
+  {
+    "name": "Sepekov",
+    "country": "CZ",
+    "lat": 49.42865,
+    "lng": 14.41815
+  },
+  {
+    "name": "Senice na Hané",
+    "country": "CZ",
+    "lat": 49.62401,
+    "lng": 17.08578
+  },
+  {
+    "name": "Semily",
+    "country": "CZ",
+    "lat": 50.60191,
+    "lng": 15.33552
+  },
+  {
+    "name": "Sedlnice",
+    "country": "CZ",
+    "lat": 49.6577,
+    "lng": 18.0869
+  },
+  {
+    "name": "Sedliště",
+    "country": "CZ",
+    "lat": 49.71836,
+    "lng": 18.36869
+  },
+  {
+    "name": "Sedlice",
+    "country": "CZ",
+    "lat": 49.37715,
+    "lng": 13.93895
+  },
+  {
+    "name": "Sedlice",
+    "country": "CZ",
+    "lat": 48.77401,
+    "lng": 14.39115
+  },
+  {
+    "name": "Sedlec",
+    "country": "CZ",
+    "lat": 49.96391,
+    "lng": 15.28846
+  },
+  {
+    "name": "Sedlčany",
+    "country": "CZ",
+    "lat": 49.66057,
+    "lng": 14.42664
+  },
+  {
+    "name": "Seč",
+    "country": "CZ",
+    "lat": 49.84694,
+    "lng": 15.65643
+  },
+  {
+    "name": "Seyda",
+    "country": "DE",
+    "lat": 51.88163,
+    "lng": 12.90812
+  },
+  {
+    "name": "Seybothenreuth",
+    "country": "DE",
+    "lat": 49.89372,
+    "lng": 11.70531
+  },
+  {
+    "name": "Sexau",
+    "country": "DE",
+    "lat": 48.10209,
+    "lng": 7.90757
+  },
+  {
+    "name": "Seulingen",
+    "country": "DE",
+    "lat": 51.54129,
+    "lng": 10.16263
+  },
+  {
+    "name": "Seukendorf",
+    "country": "DE",
+    "lat": 49.48844,
+    "lng": 10.87999
+  },
+  {
+    "name": "Seubersdorf",
+    "country": "DE",
+    "lat": 49.16212,
+    "lng": 11.62714
+  },
+  {
+    "name": "Seth",
+    "country": "DE",
+    "lat": 53.84718,
+    "lng": 10.17421
+  },
+  {
+    "name": "Seßlach",
+    "country": "DE",
+    "lat": 50.18969,
+    "lng": 10.84197
+  },
+  {
+    "name": "Sersheim",
+    "country": "DE",
+    "lat": 48.96667,
+    "lng": 9.01667
+  },
+  {
+    "name": "Serrig",
+    "country": "DE",
+    "lat": 49.57519,
+    "lng": 6.57454
+  },
+  {
+    "name": "Sennfeld",
+    "country": "DE",
+    "lat": 50.03895,
+    "lng": 10.25986
+  },
+  {
+    "name": "Sennewitz",
+    "country": "DE",
+    "lat": 51.54326,
+    "lng": 11.95218
+  },
+  {
+    "name": "Sengenthal",
+    "country": "DE",
+    "lat": 49.23333,
+    "lng": 11.46667
+  },
+  {
+    "name": "Senftenberg",
+    "country": "DE",
+    "lat": 51.52517,
+    "lng": 14.00164
+  },
+  {
+    "name": "Sendenhorst",
+    "country": "DE",
+    "lat": 51.84303,
+    "lng": 7.82996
+  },
+  {
+    "name": "Senden",
+    "country": "DE",
+    "lat": 51.85645,
+    "lng": 7.48327
+  },
+  {
+    "name": "Senden",
+    "country": "DE",
+    "lat": 48.32441,
+    "lng": 10.04442
+  },
+  {
+    "name": "Sembach",
+    "country": "DE",
+    "lat": 49.51177,
+    "lng": 7.86661
+  },
+  {
+    "name": "Selzen",
+    "country": "DE",
+    "lat": 49.86056,
+    "lng": 8.25528
+  },
+  {
+    "name": "Selters",
+    "country": "DE",
+    "lat": 50.53253,
+    "lng": 7.75577
+  },
+  {
+    "name": "Selters",
+    "country": "DE",
+    "lat": 50.51681,
+    "lng": 8.28953
+  },
+  {
+    "name": "Selsingen",
+    "country": "DE",
+    "lat": 53.37329,
+    "lng": 9.21289
+  },
+  {
+    "name": "Selmsdorf",
+    "country": "DE",
+    "lat": 53.88224,
+    "lng": 10.85997
+  },
+  {
+    "name": "Selm",
+    "country": "DE",
+    "lat": 51.69689,
+    "lng": 7.46809
+  },
+  {
+    "name": "Seligenstadt",
+    "country": "DE",
+    "lat": 50.0432,
+    "lng": 8.97394
+  },
+  {
+    "name": "Selent",
+    "country": "DE",
+    "lat": 54.28893,
+    "lng": 10.42702
+  },
+  {
+    "name": "Selbitz",
+    "country": "DE",
+    "lat": 50.31702,
+    "lng": 11.75019
+  },
+  {
+    "name": "Selb",
+    "country": "DE",
+    "lat": 50.17058,
+    "lng": 12.13054
+  },
+  {
+    "name": "Seinsheim",
+    "country": "DE",
+    "lat": 49.64073,
+    "lng": 10.22038
+  },
+  {
+    "name": "Seifhennersdorf",
+    "country": "DE",
+    "lat": 50.93492,
+    "lng": 14.60194
+  },
+  {
+    "name": "Seibersbach",
+    "country": "DE",
+    "lat": 49.96667,
+    "lng": 7.71667
+  },
+  {
+    "name": "Sehnde",
+    "country": "DE",
+    "lat": 52.31394,
+    "lng": 9.9682
+  },
+  {
+    "name": "Sehlen",
+    "country": "DE",
+    "lat": 54.37971,
+    "lng": 13.38907
+  },
+  {
+    "name": "Sehlem",
+    "country": "DE",
+    "lat": 52.01236,
+    "lng": 9.97593
+  },
+  {
+    "name": "Sehlde",
+    "country": "DE",
+    "lat": 52.03887,
+    "lng": 10.26569
+  },
+  {
+    "name": "Seggebruch",
+    "country": "DE",
+    "lat": 52.3005,
+    "lng": 9.09462
+  },
+  {
+    "name": "Seevetal",
+    "country": "DE",
+    "lat": 53.4,
+    "lng": 9.96667
+  },
+  {
+    "name": "Seeshaupt",
+    "country": "DE",
+    "lat": 47.82468,
+    "lng": 11.30219
+  },
+  {
+    "name": "Seesen",
+    "country": "DE",
+    "lat": 51.89095,
+    "lng": 10.17847
+  },
+  {
+    "name": "Seelze",
+    "country": "DE",
+    "lat": 52.39635,
+    "lng": 9.59727
+  },
+  {
+    "name": "Seelow",
+    "country": "DE",
+    "lat": 52.53392,
+    "lng": 14.38128
+  },
+  {
+    "name": "Seelitz",
+    "country": "DE",
+    "lat": 51.03333,
+    "lng": 12.81667
+  },
+  {
+    "name": "Seelingstädt",
+    "country": "DE",
+    "lat": 50.77266,
+    "lng": 12.24361
+  },
+  {
+    "name": "Seelbach",
+    "country": "DE",
+    "lat": 48.31055,
+    "lng": 7.94069
+  },
+  {
+    "name": "Seehof",
+    "country": "DE",
+    "lat": 53.69249,
+    "lng": 11.43256
+  },
+  {
+    "name": "Seehausen am Staffelsee",
+    "country": "DE",
+    "lat": 47.68928,
+    "lng": 11.18498
+  },
+  {
+    "name": "Seehausen",
+    "country": "DE",
+    "lat": 52.88872,
+    "lng": 11.75236
+  },
+  {
+    "name": "Seehausen",
+    "country": "DE",
+    "lat": 52.10287,
+    "lng": 11.29153
+  },
+  {
+    "name": "Seeg",
+    "country": "DE",
+    "lat": 47.65,
+    "lng": 10.6
+  },
+  {
+    "name": "Seefeld",
+    "country": "DE",
+    "lat": 48.03505,
+    "lng": 11.21395
+  },
+  {
+    "name": "Seedorf",
+    "country": "DE",
+    "lat": 54.05066,
+    "lng": 10.40936
+  },
+  {
+    "name": "Seedorf",
+    "country": "DE",
+    "lat": 48.24908,
+    "lng": 8.48993
+  },
+  {
+    "name": "Seeburg",
+    "country": "DE",
+    "lat": 51.56667,
+    "lng": 10.15
+  },
+  {
+    "name": "Seebergen",
+    "country": "DE",
+    "lat": 50.92077,
+    "lng": 10.7992
+  },
+  {
+    "name": "Seebad Heringsdorf",
+    "country": "DE",
+    "lat": 53.95379,
+    "lng": 14.16852
+  },
+  {
+    "name": "Seebach",
+    "country": "DE",
+    "lat": 51.16506,
+    "lng": 10.51428
+  },
+  {
+    "name": "Seebach",
+    "country": "DE",
+    "lat": 48.57621,
+    "lng": 8.17048
+  },
+  {
+    "name": "Seckach",
+    "country": "DE",
+    "lat": 49.44222,
+    "lng": 9.33417
+  },
+  {
+    "name": "Seck",
+    "country": "DE",
+    "lat": 50.57722,
+    "lng": 8.04972
+  },
+  {
+    "name": "Sebnitz",
+    "country": "DE",
+    "lat": 50.9754,
+    "lng": 14.27579
+  },
+  {
+    "name": "Sellin",
+    "country": "DE",
+    "lat": 54.37846,
+    "lng": 13.69394
+  },
+  {
+    "name": "Seeheilbad Graal-Müritz",
+    "country": "DE",
+    "lat": 54.25124,
+    "lng": 12.25139
+  },
+  {
+    "name": "Seiffen",
+    "country": "DE",
+    "lat": 50.65,
+    "lng": 13.45
+  },
+  {
+    "name": "Seeon-Seebruck",
+    "country": "DE",
+    "lat": 47.96667,
+    "lng": 12.46667
+  },
+  {
+    "name": "Seitingen-Oberflacht",
+    "country": "DE",
+    "lat": 48.01667,
+    "lng": 8.71667
+  },
+  {
+    "name": "Seeheim-Jugenheim",
+    "country": "DE",
+    "lat": 49.765,
+    "lng": 8.65194
+  },
+  {
+    "name": "Seden",
+    "country": "DK",
+    "lat": 55.42648,
+    "lng": 10.44265
+  },
+  {
+    "name": "Sedrata",
+    "country": "DZ",
+    "lat": 36.12868,
+    "lng": 7.53376
+  },
+  {
+    "name": "Seddouk",
+    "country": "DZ",
+    "lat": 36.54722,
+    "lng": 4.68611
+  },
+  {
+    "name": "Sebdou",
+    "country": "DZ",
+    "lat": 34.63703,
+    "lng": -1.33143
+  },
+  {
+    "name": "Sevilla Don Bosco",
+    "country": "EC",
+    "lat": -2.31577,
+    "lng": -78.10141
+  },
+  {
+    "name": "Selva Alegre",
+    "country": "EC",
+    "lat": -3.55121,
+    "lng": -79.34549
+  },
+  {
+    "name": "Selva Alegre",
+    "country": "EC",
+    "lat": 0.93229,
+    "lng": -78.85987
+  },
+  {
+    "name": "Sevilla",
+    "country": "EC",
+    "lat": 0.08516,
+    "lng": -77.12609
+  },
+  {
+    "name": "Sevilleja de la Jara",
+    "country": "ES",
+    "lat": 39.57488,
+    "lng": -4.96387
+  },
+  {
+    "name": "Sevilla",
+    "country": "ES",
+    "lat": 37.38283,
+    "lng": -5.97317
+  },
+  {
+    "name": "Setenil de las Bodegas",
+    "country": "ES",
+    "lat": 36.86397,
+    "lng": -5.18177
+  },
+  {
+    "name": "Ses Salines",
+    "country": "ES",
+    "lat": 39.33831,
+    "lng": 3.05274
+  },
+  {
+    "name": "Serrejón",
+    "country": "ES",
+    "lat": 39.81735,
+    "lng": -5.80263
+  },
+  {
+    "name": "Serrato",
+    "country": "ES",
+    "lat": 36.88541,
+    "lng": -4.98147
+  },
+  {
+    "name": "Serradilla",
+    "country": "ES",
+    "lat": 39.8292,
+    "lng": -6.14034
+  },
+  {
+    "name": "Serra",
+    "country": "ES",
+    "lat": 39.68333,
+    "lng": -0.43333
+  },
+  {
+    "name": "Serón",
+    "country": "ES",
+    "lat": 37.34485,
+    "lng": -2.50913
+  },
+  {
+    "name": "Senija",
+    "country": "ES",
+    "lat": 38.72804,
+    "lng": 0.04176
+  },
+  {
+    "name": "Senyera",
+    "country": "ES",
+    "lat": 39.06667,
+    "lng": -0.5
+  },
+  {
+    "name": "Sempere",
+    "country": "ES",
+    "lat": 38.92014,
+    "lng": -0.4814
+  },
+  {
+    "name": "Selva",
+    "country": "ES",
+    "lat": 39.75504,
+    "lng": 2.90069
+  },
+  {
+    "name": "Sellent",
+    "country": "ES",
+    "lat": 39.03221,
+    "lng": -0.58784
+  },
+  {
+    "name": "Sella",
+    "country": "ES",
+    "lat": 38.60926,
+    "lng": -0.27305
+  },
+  {
+    "name": "Segura de León",
+    "country": "ES",
+    "lat": 38.11667,
+    "lng": -6.51667
+  },
+  {
+    "name": "Segura de la Sierra",
+    "country": "ES",
+    "lat": 38.29777,
+    "lng": -2.65229
+  },
+  {
+    "name": "Segorbe",
+    "country": "ES",
+    "lat": 39.85,
+    "lng": -0.48333
+  },
+  {
+    "name": "Segart",
+    "country": "ES",
+    "lat": 39.68333,
+    "lng": -0.36667
+  },
+  {
+    "name": "Sedaví",
+    "country": "ES",
+    "lat": 39.43333,
+    "lng": -0.38333
+  },
+  {
+    "name": "Sencelles",
+    "country": "ES",
+    "lat": 39.64598,
+    "lng": 2.89769
+  },
+  {
+    "name": "Sevilla La Nueva",
+    "country": "ES",
+    "lat": 40.34775,
+    "lng": -4.02727
+  },
+  {
+    "name": "Seva",
+    "country": "ES",
+    "lat": 41.83831,
+    "lng": 2.28007
+  },
+  {
+    "name": "Setiles",
+    "country": "ES",
+    "lat": 40.73419,
+    "lng": -1.6172
+  },
+  {
+    "name": "Sesué",
+    "country": "ES",
+    "lat": 42.55131,
+    "lng": 0.47212
+  },
+  {
+    "name": "Sestrica",
+    "country": "ES",
+    "lat": 41.48595,
+    "lng": -1.59501
+  },
+  {
+    "name": "Sestao",
+    "country": "ES",
+    "lat": 43.30975,
+    "lng": -3.00716
+  },
+  {
+    "name": "Sesma",
+    "country": "ES",
+    "lat": 42.47748,
+    "lng": -2.08353
+  },
+  {
+    "name": "Seseña",
+    "country": "ES",
+    "lat": 40.10473,
+    "lng": -3.69793
+  },
+  {
+    "name": "Sesa",
+    "country": "ES",
+    "lat": 41.99484,
+    "lng": -0.24511
+  },
+  {
+    "name": "Serranillos del Valle",
+    "country": "ES",
+    "lat": 40.20211,
+    "lng": -3.88187
+  },
+  {
+    "name": "Serranillos",
+    "country": "ES",
+    "lat": 40.33625,
+    "lng": -4.91165
+  },
+  {
+    "name": "Serradilla del Llano",
+    "country": "ES",
+    "lat": 40.49996,
+    "lng": -6.35701
+  },
+  {
+    "name": "Serradilla del Arroyo",
+    "country": "ES",
+    "lat": 40.52133,
+    "lng": -6.36008
+  },
+  {
+    "name": "Serra de Daró",
+    "country": "ES",
+    "lat": 42.02877,
+    "lng": 3.07222
+  },
+  {
+    "name": "Serrada",
+    "country": "ES",
+    "lat": 41.45722,
+    "lng": -4.86279
+  },
+  {
+    "name": "Seròs",
+    "country": "ES",
+    "lat": 41.46667,
+    "lng": 0.41667
+  },
+  {
+    "name": "Sequeros",
+    "country": "ES",
+    "lat": 40.51295,
+    "lng": -6.02495
+  },
+  {
+    "name": "Sequera de Fresno",
+    "country": "ES",
+    "lat": 41.3664,
+    "lng": -3.54612
+  },
+  {
+    "name": "Sepúlveda",
+    "country": "ES",
+    "lat": 41.29695,
+    "lng": -3.74221
+  },
+  {
+    "name": "Seno",
+    "country": "ES",
+    "lat": 40.81225,
+    "lng": -0.33816
+  },
+  {
+    "name": "Sentmenat",
+    "country": "ES",
+    "lat": 41.60862,
+    "lng": 2.13532
+  },
+  {
+    "name": "Senés de Alcubierre",
+    "country": "ES",
+    "lat": 41.90731,
+    "lng": -0.48906
+  },
+  {
+    "name": "Senan",
+    "country": "ES",
+    "lat": 41.46994,
+    "lng": 1.08541
+  },
+  {
+    "name": "Sena de Luna",
+    "country": "ES",
+    "lat": 42.92906,
+    "lng": -5.95267
+  },
+  {
+    "name": "Semillas",
+    "country": "ES",
+    "lat": 41.05857,
+    "lng": -3.11945
+  },
+  {
+    "name": "Selaya",
+    "country": "ES",
+    "lat": 43.21376,
+    "lng": -3.80563
+  },
+  {
+    "name": "Selas",
+    "country": "ES",
+    "lat": 40.9515,
+    "lng": -2.10203
+  },
+  {
+    "name": "Seira",
+    "country": "ES",
+    "lat": 42.47696,
+    "lng": 0.43127
+  },
+  {
+    "name": "Segurilla",
+    "country": "ES",
+    "lat": 40.02386,
+    "lng": -4.86418
+  },
+  {
+    "name": "Segura de Toro",
+    "country": "ES",
+    "lat": 40.22427,
+    "lng": -5.94836
+  },
+  {
+    "name": "Segura de los Baños",
+    "country": "ES",
+    "lat": 40.94088,
+    "lng": -0.95111
+  },
+  {
+    "name": "Segura",
+    "country": "ES",
+    "lat": 43.00753,
+    "lng": -2.254
+  },
+  {
+    "name": "Segovia",
+    "country": "ES",
+    "lat": 40.94808,
+    "lng": -4.11839
+  },
+  {
+    "name": "Sediles",
+    "country": "ES",
+    "lat": 41.34613,
+    "lng": -1.53177
+  },
+  {
+    "name": "Secastilla",
+    "country": "ES",
+    "lat": 42.18112,
+    "lng": 0.26736
+  },
+  {
+    "name": "Sebúlcor",
+    "country": "ES",
+    "lat": 41.27091,
+    "lng": -3.88398
+  },
+  {
+    "name": "Sedella",
+    "country": "ES",
+    "lat": 36.86232,
+    "lng": -4.03314
+  },
+  {
+    "name": "Senterada",
+    "country": "ES",
+    "lat": 42.32549,
+    "lng": 0.93641
+  },
+  {
+    "name": "Segundo Ensanche",
+    "country": "ES",
+    "lat": 42.8139,
+    "lng": -1.64295
+  },
+  {
+    "name": "Sendafa",
+    "country": "ET",
+    "lat": 9.15203,
+    "lng": 39.02335
+  },
+  {
+    "name": "Sek’ot’a",
+    "country": "ET",
+    "lat": 12.63056,
+    "lng": 39.03472
+  },
+  {
+    "name": "Sebeta",
+    "country": "ET",
+    "lat": 8.91667,
+    "lng": 38.61667
+  },
+  {
+    "name": "Selamber",
+    "country": "ET",
+    "lat": 6.47777,
+    "lng": 37.46228
+  },
+  {
+    "name": "Seinäjoki",
+    "country": "FI",
+    "lat": 62.79446,
+    "lng": 22.82822
+  },
+  {
+    "name": "Sepänkylä",
+    "country": "FI",
+    "lat": 60.20443,
+    "lng": 24.73366
+  },
+  {
+    "name": "Seyssuel",
+    "country": "FR",
+    "lat": 45.55826,
+    "lng": 4.84313
+  },
+  {
+    "name": "Seyssins",
+    "country": "FR",
+    "lat": 45.16224,
+    "lng": 5.68673
+  },
+  {
+    "name": "Seyssinet-Pariset",
+    "country": "FR",
+    "lat": 45.17675,
+    "lng": 5.69387
+  },
+  {
+    "name": "Seysses",
+    "country": "FR",
+    "lat": 43.49801,
+    "lng": 1.31081
+  },
+  {
+    "name": "Seynod",
+    "country": "FR",
+    "lat": 45.88549,
+    "lng": 6.08831
+  },
+  {
+    "name": "Seyne-les-Alpes",
+    "country": "FR",
+    "lat": 44.35042,
+    "lng": 6.35634
+  },
+  {
+    "name": "Sevrier",
+    "country": "FR",
+    "lat": 45.86442,
+    "lng": 6.1399
+  },
+  {
+    "name": "Sevrey",
+    "country": "FR",
+    "lat": 46.73825,
+    "lng": 4.8403
+  },
+  {
+    "name": "Sevran",
+    "country": "FR",
+    "lat": 48.94472,
+    "lng": 2.52746
+  },
+  {
+    "name": "Seurre",
+    "country": "FR",
+    "lat": 46.99923,
+    "lng": 5.15138
+  },
+  {
+    "name": "Seugy",
+    "country": "FR",
+    "lat": 49.12182,
+    "lng": 2.39377
+  },
+  {
+    "name": "Sessenheim",
+    "country": "FR",
+    "lat": 48.79652,
+    "lng": 7.98719
+  },
+  {
+    "name": "Servon-sur-Vilaine",
+    "country": "FR",
+    "lat": 48.12132,
+    "lng": -1.46055
+  },
+  {
+    "name": "Servon",
+    "country": "FR",
+    "lat": 48.71662,
+    "lng": 2.58737
+  },
+  {
+    "name": "Servian",
+    "country": "FR",
+    "lat": 43.42721,
+    "lng": 3.30177
+  },
+  {
+    "name": "Servas",
+    "country": "FR",
+    "lat": 46.13317,
+    "lng": 5.1651
+  },
+  {
+    "name": "Serris",
+    "country": "FR",
+    "lat": 48.84528,
+    "lng": 2.78611
+  },
+  {
+    "name": "Serrières-de-Briord",
+    "country": "FR",
+    "lat": 45.80706,
+    "lng": 5.44795
+  },
+  {
+    "name": "Serrières",
+    "country": "FR",
+    "lat": 45.31799,
+    "lng": 4.76327
+  },
+  {
+    "name": "Serres-Castet",
+    "country": "FR",
+    "lat": 43.38647,
+    "lng": -0.35497
+  },
+  {
+    "name": "Serres",
+    "country": "FR",
+    "lat": 44.42753,
+    "lng": 5.71458
+  },
+  {
+    "name": "Serre-les-Sapins",
+    "country": "FR",
+    "lat": 47.25,
+    "lng": 5.93333
+  },
+  {
+    "name": "Serquigny",
+    "country": "FR",
+    "lat": 49.10943,
+    "lng": 0.71016
+  },
+  {
+    "name": "Serqueux",
+    "country": "FR",
+    "lat": 49.63202,
+    "lng": 1.54005
+  },
+  {
+    "name": "Serques",
+    "country": "FR",
+    "lat": 50.79338,
+    "lng": 2.20134
+  },
+  {
+    "name": "Serpaize",
+    "country": "FR",
+    "lat": 45.55824,
+    "lng": 4.91764
+  },
+  {
+    "name": "Sernhac",
+    "country": "FR",
+    "lat": 43.91149,
+    "lng": 4.55201
+  },
+  {
+    "name": "Sermoise-sur-Loire",
+    "country": "FR",
+    "lat": 46.95,
+    "lng": 3.18333
+  },
+  {
+    "name": "Sermérieu",
+    "country": "FR",
+    "lat": 45.66995,
+    "lng": 5.4111
+  },
+  {
+    "name": "Sermaize-les-Bains",
+    "country": "FR",
+    "lat": 48.78507,
+    "lng": 4.91169
+  },
+  {
+    "name": "Sermaises",
+    "country": "FR",
+    "lat": 48.2965,
+    "lng": 2.20546
+  },
+  {
+    "name": "Sergy",
+    "country": "FR",
+    "lat": 46.25069,
+    "lng": 6.00183
+  },
+  {
+    "name": "Sergines",
+    "country": "FR",
+    "lat": 48.34203,
+    "lng": 3.26213
+  },
+  {
+    "name": "Serémange-Erzange",
+    "country": "FR",
+    "lat": 49.32062,
+    "lng": 6.09092
+  },
+  {
+    "name": "Seraincourt",
+    "country": "FR",
+    "lat": 49.03573,
+    "lng": 1.86703
+  },
+  {
+    "name": "Sequedin",
+    "country": "FR",
+    "lat": 50.62575,
+    "lng": 2.98276
+  },
+  {
+    "name": "Septfonds",
+    "country": "FR",
+    "lat": 44.17831,
+    "lng": 1.61806
+  },
+  {
+    "name": "Septeuil",
+    "country": "FR",
+    "lat": 48.89245,
+    "lng": 1.68357
+  },
+  {
+    "name": "Septèmes-les-Vallons",
+    "country": "FR",
+    "lat": 43.39834,
+    "lng": 5.36596
+  },
+  {
+    "name": "Septème",
+    "country": "FR",
+    "lat": 45.55294,
+    "lng": 5.00596
+  },
+  {
+    "name": "Sentheim",
+    "country": "FR",
+    "lat": 47.7556,
+    "lng": 7.05305
+  },
+  {
+    "name": "Sens-de-Bretagne",
+    "country": "FR",
+    "lat": 48.33308,
+    "lng": -1.5362
+  },
+  {
+    "name": "Sens",
+    "country": "FR",
+    "lat": 48.19738,
+    "lng": 3.28328
+  },
+  {
+    "name": "Senones",
+    "country": "FR",
+    "lat": 48.39475,
+    "lng": 6.97818
+  },
+  {
+    "name": "Senonches",
+    "country": "FR",
+    "lat": 48.55999,
+    "lng": 1.03069
+  },
+  {
+    "name": "Sennecey-lès-Dijon",
+    "country": "FR",
+    "lat": 47.28984,
+    "lng": 5.10485
+  },
+  {
+    "name": "Sennecey-le-Grand",
+    "country": "FR",
+    "lat": 46.64137,
+    "lng": 4.86707
+  },
+  {
+    "name": "Senlis",
+    "country": "FR",
+    "lat": 49.20724,
+    "lng": 2.58661
+  },
+  {
+    "name": "Semussac",
+    "country": "FR",
+    "lat": 45.60035,
+    "lng": -0.91301
+  },
+  {
+    "name": "Semur-en-Auxois",
+    "country": "FR",
+    "lat": 47.48333,
+    "lng": 4.33333
+  },
+  {
+    "name": "Semoy",
+    "country": "FR",
+    "lat": 47.93333,
+    "lng": 1.95
+  },
+  {
+    "name": "Semblançay",
+    "country": "FR",
+    "lat": 47.5,
+    "lng": 0.58333
+  },
+  {
+    "name": "Selvigny",
+    "country": "FR",
+    "lat": 50.07971,
+    "lng": 3.34899
+  },
+  {
+    "name": "Seltz",
+    "country": "FR",
+    "lat": 48.8952,
+    "lng": 8.10757
+  },
+  {
+    "name": "Selongey",
+    "country": "FR",
+    "lat": 47.58846,
+    "lng": 5.18483
+  },
+  {
+    "name": "Seloncourt",
+    "country": "FR",
+    "lat": 47.45989,
+    "lng": 6.85535
+  },
+  {
+    "name": "Selles-sur-Cher",
+    "country": "FR",
+    "lat": 47.27904,
+    "lng": 1.55387
+  },
+  {
+    "name": "Selles-Saint-Denis",
+    "country": "FR",
+    "lat": 47.38695,
+    "lng": 1.92295
+  },
+  {
+    "name": "Seissan",
+    "country": "FR",
+    "lat": 43.49161,
+    "lng": 0.59185
+  },
+  {
+    "name": "Seingbouse",
+    "country": "FR",
+    "lat": 49.11341,
+    "lng": 6.83186
+  },
+  {
+    "name": "Seine-Port",
+    "country": "FR",
+    "lat": 48.55743,
+    "lng": 2.55316
+  },
+  {
+    "name": "Seillans",
+    "country": "FR",
+    "lat": 43.63623,
+    "lng": 6.64332
+  },
+  {
+    "name": "Seilhac",
+    "country": "FR",
+    "lat": 45.36709,
+    "lng": 1.7135
+  },
+  {
+    "name": "Seilh",
+    "country": "FR",
+    "lat": 43.69469,
+    "lng": 1.35509
+  },
+  {
+    "name": "Seigy",
+    "country": "FR",
+    "lat": 47.25688,
+    "lng": 1.39964
+  },
+  {
+    "name": "Seignosse",
+    "country": "FR",
+    "lat": 43.6894,
+    "lng": -1.37328
+  },
+  {
+    "name": "Seignelay",
+    "country": "FR",
+    "lat": 47.90542,
+    "lng": 3.60136
+  },
+  {
+    "name": "Seiches-sur-le-Loir",
+    "country": "FR",
+    "lat": 47.57351,
+    "lng": -0.35628
+  },
+  {
+    "name": "Seichamps",
+    "country": "FR",
+    "lat": 48.71492,
+    "lng": 6.26139
+  },
+  {
+    "name": "Segré",
+    "country": "FR",
+    "lat": 47.68672,
+    "lng": -0.87268
+  },
+  {
+    "name": "Segonzac",
+    "country": "FR",
+    "lat": 45.61807,
+    "lng": -0.21986
+  },
+  {
+    "name": "Sedan",
+    "country": "FR",
+    "lat": 49.70187,
+    "lng": 4.94028
+  },
+  {
+    "name": "Secondigny",
+    "country": "FR",
+    "lat": 46.60967,
+    "lng": -0.41677
+  },
+  {
+    "name": "Seclin",
+    "country": "FR",
+    "lat": 50.54873,
+    "lng": 3.02731
+  },
+  {
+    "name": "Sebourg",
+    "country": "FR",
+    "lat": 50.34249,
+    "lng": 3.64352
+  },
+  {
+    "name": "Seboncourt",
+    "country": "FR",
+    "lat": 49.95273,
+    "lng": 3.47586
+  },
+  {
+    "name": "Seven Sisters",
+    "country": "GB",
+    "lat": 51.76667,
+    "lng": -3.71667
+  },
+  {
+    "name": "Sevenoaks",
+    "country": "GB",
+    "lat": 51.27266,
+    "lng": 0.18883
+  },
+  {
+    "name": "Settle",
+    "country": "GB",
+    "lat": 54.06865,
+    "lng": -2.2772
+  },
+  {
+    "name": "Sennen",
+    "country": "GB",
+    "lat": 50.07777,
+    "lng": -5.70117
+  },
+  {
+    "name": "Send",
+    "country": "GB",
+    "lat": 51.28875,
+    "lng": -0.52666
+  },
+  {
+    "name": "Selsey",
+    "country": "GB",
+    "lat": 50.73501,
+    "lng": -0.78979
+  },
+  {
+    "name": "Sellack",
+    "country": "GB",
+    "lat": 51.95,
+    "lng": -2.63333
+  },
+  {
+    "name": "Selkirk",
+    "country": "GB",
+    "lat": 55.54738,
+    "lng": -2.83911
+  },
+  {
+    "name": "Selby",
+    "country": "GB",
+    "lat": 53.78333,
+    "lng": -1.06667
+  },
+  {
+    "name": "Seghill",
+    "country": "GB",
+    "lat": 55.06225,
+    "lng": -1.55027
+  },
+  {
+    "name": "Seend",
+    "country": "GB",
+    "lat": 51.34806,
+    "lng": -2.08472
+  },
+  {
+    "name": "Sedgefield",
+    "country": "GB",
+    "lat": 54.65329,
+    "lng": -1.44952
+  },
+  {
+    "name": "Sedbergh",
+    "country": "GB",
+    "lat": 54.32123,
+    "lng": -2.52514
+  },
+  {
+    "name": "Seaview",
+    "country": "GB",
+    "lat": 50.71956,
+    "lng": -1.11164
+  },
+  {
+    "name": "Seaton Delaval",
+    "country": "GB",
+    "lat": 55.07196,
+    "lng": -1.52609
+  },
+  {
+    "name": "Seaton",
+    "country": "GB",
+    "lat": 52.57489,
+    "lng": -0.66759
+  },
+  {
+    "name": "Seascale",
+    "country": "GB",
+    "lat": 54.39831,
+    "lng": -3.47961
+  },
+  {
+    "name": "Seahouses",
+    "country": "GB",
+    "lat": 55.58063,
+    "lng": -1.65497
+  },
+  {
+    "name": "Seaham",
+    "country": "GB",
+    "lat": 54.83903,
+    "lng": -1.34575
+  },
+  {
+    "name": "Seaford",
+    "country": "GB",
+    "lat": 50.77141,
+    "lng": 0.10268
+  },
+  {
+    "name": "Severn Beach",
+    "country": "GB",
+    "lat": 51.56036,
+    "lng": -2.66279
+  },
+  {
+    "name": "Seer Green",
+    "country": "GB",
+    "lat": 51.61796,
+    "lng": -0.60592
+  },
+  {
+    "name": "Seafield",
+    "country": "GB",
+    "lat": 55.87791,
+    "lng": -3.58781
+  },
+  {
+    "name": "Seven Sisters",
+    "country": "GB",
+    "lat": 51.57769,
+    "lng": -0.07895
+  },
+  {
+    "name": "Senaki",
+    "country": "GE",
+    "lat": 42.27077,
+    "lng": 42.06334
+  },
+  {
+    "name": "Sefwi Wiawso",
+    "country": "GH",
+    "lat": 6.20583,
+    "lng": -2.48944
+  },
+  {
+    "name": "Sekondi-Takoradi",
+    "country": "GH",
+    "lat": 4.92678,
+    "lng": -1.75773
+  },
+  {
+    "name": "Sefwi",
+    "country": "GH",
+    "lat": 6.52306,
+    "lng": -1.63596
+  },
+  {
+    "name": "Sekondi",
+    "country": "GH",
+    "lat": 4.93422,
+    "lng": -1.71454
+  },
+  {
+    "name": "Serekunda",
+    "country": "GM",
+    "lat": 13.43833,
+    "lng": -16.67806
+  },
+  {
+    "name": "Selínia",
+    "country": "GR",
+    "lat": 37.9332,
+    "lng": 23.53147
+  },
+  {
+    "name": "Sevastianá",
+    "country": "GR",
+    "lat": 40.76874,
+    "lng": 22.12346
+  },
+  {
+    "name": "Senahú",
+    "country": "GT",
+    "lat": 15.4164,
+    "lng": -89.82215
+  },
+  {
+    "name": "Sensenti",
+    "country": "HN",
+    "lat": 14.49379,
+    "lng": -88.93761
+  },
+  {
+    "name": "Seget Vranjica",
+    "country": "HR",
+    "lat": 43.50999,
+    "lng": 16.18704
+  },
+  {
+    "name": "Severin",
+    "country": "HR",
+    "lat": 45.84133,
+    "lng": 16.96839
+  },
+  {
+    "name": "Sesvete",
+    "country": "HR",
+    "lat": 45.83111,
+    "lng": 16.11639
+  },
+  {
+    "name": "Senj",
+    "country": "HR",
+    "lat": 44.98944,
+    "lng": 14.90583
+  },
+  {
+    "name": "Semeljci",
+    "country": "HR",
+    "lat": 45.36056,
+    "lng": 18.54361
+  },
+  {
+    "name": "Selnica",
+    "country": "HR",
+    "lat": 46.49307,
+    "lng": 16.38937
+  },
+  {
+    "name": "Selci Ðakovački",
+    "country": "HR",
+    "lat": 45.30917,
+    "lng": 18.35028
+  },
+  {
+    "name": "Selce",
+    "country": "HR",
+    "lat": 45.15639,
+    "lng": 14.72111
+  },
+  {
+    "name": "Selca",
+    "country": "HR",
+    "lat": 43.29722,
+    "lng": 16.85083
+  },
+  {
+    "name": "Sela Žakanjska",
+    "country": "HR",
+    "lat": 45.60635,
+    "lng": 15.34328
+  },
+  {
+    "name": "Seregélyes",
+    "country": "HU",
+    "lat": 47.1105,
+    "lng": 18.565
+  },
+  {
+    "name": "Sellye",
+    "country": "HU",
+    "lat": 45.87247,
+    "lng": 17.84711
+  },
+  {
+    "name": "Segesd",
+    "country": "HU",
+    "lat": 46.34142,
+    "lng": 17.35132
+  },
+  {
+    "name": "Sei Rampah",
+    "country": "ID",
+    "lat": 3.4845,
+    "lng": 99.1366
+  },
+  {
+    "name": "Seulimeum",
+    "country": "ID",
+    "lat": 5.3618,
+    "lng": 95.5765
+  },
+  {
+    "name": "Serawai",
+    "country": "ID",
+    "lat": 4.3542,
+    "lng": 98.1868
+  },
+  {
+    "name": "Semurup",
+    "country": "ID",
+    "lat": -1.9917,
+    "lng": 101.369
+  },
+  {
+    "name": "Sengkang",
+    "country": "ID",
+    "lat": -4.1279,
+    "lng": 120.0297
+  },
+  {
+    "name": "Sewon",
+    "country": "ID",
+    "lat": -7.87639,
+    "lng": 110.35889
+  },
+  {
+    "name": "Seteluk",
+    "country": "ID",
+    "lat": -8.62549,
+    "lng": 116.86674
+  },
+  {
+    "name": "Sesayap",
+    "country": "ID",
+    "lat": 3.58525,
+    "lng": 117.00765
+  },
+  {
+    "name": "Serui",
+    "country": "ID",
+    "lat": -1.8802,
+    "lng": 136.2426
+  },
+  {
+    "name": "Serpong",
+    "country": "ID",
+    "lat": -6.31694,
+    "lng": 106.66417
+  },
+  {
+    "name": "Serasan",
+    "country": "ID",
+    "lat": 2.51111,
+    "lng": 109.03111
+  },
+  {
+    "name": "Serang",
+    "country": "ID",
+    "lat": -6.11528,
+    "lng": 106.15417
+  },
+  {
+    "name": "Sepatan",
+    "country": "ID",
+    "lat": -6.11889,
+    "lng": 106.575
+  },
+  {
+    "name": "Senori",
+    "country": "ID",
+    "lat": -7.0157,
+    "lng": 111.7244
+  },
+  {
+    "name": "Sengeti",
+    "country": "ID",
+    "lat": -1.4772,
+    "lng": 103.50765
+  },
+  {
+    "name": "Senduro",
+    "country": "ID",
+    "lat": -8.0936,
+    "lng": 113.0891
+  },
+  {
+    "name": "Semuda",
+    "country": "ID",
+    "lat": -2.8617,
+    "lng": 112.9732
+  },
+  {
+    "name": "Semongkat",
+    "country": "ID",
+    "lat": -8.5721,
+    "lng": 117.3193
+  },
+  {
+    "name": "Semilat",
+    "country": "ID",
+    "lat": -2.3077,
+    "lng": 112.2118
+  },
+  {
+    "name": "Semboro Lor",
+    "country": "ID",
+    "lat": -8.1901,
+    "lng": 113.4445
+  },
+  {
+    "name": "Semarang",
+    "country": "ID",
+    "lat": -6.99306,
+    "lng": 110.42083
+  },
+  {
+    "name": "Semamung",
+    "country": "ID",
+    "lat": -8.6515,
+    "lng": 117.4288
+  },
+  {
+    "name": "Selorejo",
+    "country": "ID",
+    "lat": -8.1392,
+    "lng": 112.4257
+  },
+  {
+    "name": "Selong",
+    "country": "ID",
+    "lat": -8.6503,
+    "lng": 116.5318
+  },
+  {
+    "name": "Selogiri",
+    "country": "ID",
+    "lat": -7.78333,
+    "lng": 110.86667
+  },
+  {
+    "name": "Selat Panjang",
+    "country": "ID",
+    "lat": 0.99408,
+    "lng": 102.70817
+  },
+  {
+    "name": "Selajambe",
+    "country": "ID",
+    "lat": -7.1181,
+    "lng": 108.4625
+  },
+  {
+    "name": "Sekupang",
+    "country": "ID",
+    "lat": 1.12723,
+    "lng": 103.92672
+  },
+  {
+    "name": "Sekongkang Bawah",
+    "country": "ID",
+    "lat": -8.9659,
+    "lng": 116.74917
+  },
+  {
+    "name": "Sekayu",
+    "country": "ID",
+    "lat": -2.8819,
+    "lng": 103.8344
+  },
+  {
+    "name": "Sekernan",
+    "country": "ID",
+    "lat": -1.52342,
+    "lng": 103.56752
+  },
+  {
+    "name": "Sekampung",
+    "country": "ID",
+    "lat": -5.13326,
+    "lng": 105.43595
+  },
+  {
+    "name": "Sekadau",
+    "country": "ID",
+    "lat": 0.01667,
+    "lng": 110.9
+  },
+  {
+    "name": "Seget",
+    "country": "ID",
+    "lat": -1.41179,
+    "lng": 130.97478
+  },
+  {
+    "name": "Sedinginan",
+    "country": "ID",
+    "lat": 1.55381,
+    "lng": 101.0152
+  },
+  {
+    "name": "Sedanau",
+    "country": "ID",
+    "lat": 3.79377,
+    "lng": 108.02929
+  },
+  {
+    "name": "Sedan",
+    "country": "ID",
+    "lat": -6.7668,
+    "lng": 111.5744
+  },
+  {
+    "name": "Sebulu",
+    "country": "ID",
+    "lat": -0.27393,
+    "lng": 116.99835
+  },
+  {
+    "name": "Sebuku",
+    "country": "ID",
+    "lat": 4.00232,
+    "lng": 117.03456
+  },
+  {
+    "name": "Sepulu",
+    "country": "ID",
+    "lat": -6.8976,
+    "lng": 112.9593
+  },
+  {
+    "name": "Serkos",
+    "country": "ID",
+    "lat": -2.12549,
+    "lng": 132.16689
+  },
+  {
+    "name": "Seba",
+    "country": "ID",
+    "lat": -10.4933,
+    "lng": 121.8393
+  },
+  {
+    "name": "Sentani",
+    "country": "ID",
+    "lat": -2.5691,
+    "lng": 140.5127
+  },
+  {
+    "name": "Sengge",
+    "country": "ID",
+    "lat": -3.4475,
+    "lng": 140.7751
+  },
+  {
+    "name": "Senggigi",
+    "country": "ID",
+    "lat": -8.4919,
+    "lng": 116.0424
+  },
+  {
+    "name": "Semarapura",
+    "country": "ID",
+    "lat": -8.5346,
+    "lng": 115.4022
+  },
+  {
+    "name": "Seririt",
+    "country": "ID",
+    "lat": -8.1928,
+    "lng": 114.9388
+  },
+  {
+    "name": "Sebaren",
+    "country": "ID",
+    "lat": -8.2371,
+    "lng": 113.3493
+  },
+  {
+    "name": "Senggapi",
+    "country": "ID",
+    "lat": -8.298,
+    "lng": 120.4623
+  },
+  {
+    "name": "Sekotong Tengah",
+    "country": "ID",
+    "lat": -8.7782,
+    "lng": 116.0485
+  },
+  {
+    "name": "Senadan",
+    "country": "ID",
+    "lat": -8.3855,
+    "lng": 123.2579
+  },
+  {
+    "name": "Senayan",
+    "country": "ID",
+    "lat": -8.6127,
+    "lng": 116.8505
+  },
+  {
+    "name": "Seupakat",
+    "country": "ID",
+    "lat": 3.64333,
+    "lng": 97.46279
+  },
+  {
+    "name": "Seuneubok Bayu",
+    "country": "ID",
+    "lat": 4.87794,
+    "lng": 97.57483
+  },
+  {
+    "name": "Seunudon",
+    "country": "ID",
+    "lat": 5.20864,
+    "lng": 97.44889
+  },
+  {
+    "name": "Sekatak Bengara",
+    "country": "ID",
+    "lat": 3.08757,
+    "lng": 117.21345
+  },
+  {
+    "name": "Senayang",
+    "country": "ID",
+    "lat": 0.0375,
+    "lng": 104.65444
+  },
+  {
+    "name": "Sendawar",
+    "country": "ID",
+    "lat": -0.23639,
+    "lng": 115.69472
+  },
+  {
+    "name": "Segev",
+    "country": "IL",
+    "lat": 32.86602,
+    "lng": 35.25189
+  },
+  {
+    "name": "Segev Shalom",
+    "country": "IL",
+    "lat": 31.19918,
+    "lng": 34.83956
+  },
+  {
+    "name": "Settūr",
+    "country": "IN",
+    "lat": 9.40564,
+    "lng": 77.47841
+  },
+  {
+    "name": "Serula",
+    "country": "IN",
+    "lat": 15.54774,
+    "lng": 73.84329
+  },
+  {
+    "name": "Serchhīp",
+    "country": "IN",
+    "lat": 23.29312,
+    "lng": 92.84679
+  },
+  {
+    "name": "Sedam",
+    "country": "IN",
+    "lat": 17.17859,
+    "lng": 77.28998
+  },
+  {
+    "name": "Seorīnārāyan",
+    "country": "IN",
+    "lat": 21.72055,
+    "lng": 82.59344
+  },
+  {
+    "name": "Seoni Mālwa",
+    "country": "IN",
+    "lat": 22.45046,
+    "lng": 77.4665
+  },
+  {
+    "name": "Seoni Chhapāra",
+    "country": "IN",
+    "lat": 22.39388,
+    "lng": 79.54236
+  },
+  {
+    "name": "Seoni",
+    "country": "IN",
+    "lat": 31.237,
+    "lng": 77.119
+  },
+  {
+    "name": "Seoni",
+    "country": "IN",
+    "lat": 22.08503,
+    "lng": 79.55037
+  },
+  {
+    "name": "Seondha",
+    "country": "IN",
+    "lat": 26.15422,
+    "lng": 78.7812
+  },
+  {
+    "name": "Seohāra",
+    "country": "IN",
+    "lat": 29.20904,
+    "lng": 78.58837
+  },
+  {
+    "name": "Sendhwa",
+    "country": "IN",
+    "lat": 21.68562,
+    "lng": 75.09622
+  },
+  {
+    "name": "Sendamangalam",
+    "country": "IN",
+    "lat": 11.28111,
+    "lng": 78.23416
+  },
+  {
+    "name": "Semāri",
+    "country": "IN",
+    "lat": 24.05535,
+    "lng": 73.85687
+  },
+  {
+    "name": "Sehore",
+    "country": "IN",
+    "lat": 23.2,
+    "lng": 77.08333
+  },
+  {
+    "name": "Secunderabad",
+    "country": "IN",
+    "lat": 17.50427,
+    "lng": 78.54263
+  },
+  {
+    "name": "Selu",
+    "country": "IN",
+    "lat": 19.45512,
+    "lng": 76.44073
+  },
+  {
+    "name": "Serilingampalle",
+    "country": "IN",
+    "lat": 17.49313,
+    "lng": 78.30196
+  },
+  {
+    "name": "Sengmai",
+    "country": "IN",
+    "lat": 24.94563,
+    "lng": 93.8814
+  },
+  {
+    "name": "Semarwāra",
+    "country": "IN",
+    "lat": 23.5668,
+    "lng": 73.7427
+  },
+  {
+    "name": "Sethiyathope",
+    "country": "IN",
+    "lat": 11.43686,
+    "lng": 79.54251
+  },
+  {
+    "name": "Setiya",
+    "country": "IN",
+    "lat": 22.21709,
+    "lng": 78.84485
+  },
+  {
+    "name": "Sembedu",
+    "country": "IN",
+    "lat": 13.12979,
+    "lng": 79.5634
+  },
+  {
+    "name": "Settithāngal",
+    "country": "IN",
+    "lat": 12.95652,
+    "lng": 79.33706
+  },
+  {
+    "name": "Sevilimedu",
+    "country": "IN",
+    "lat": 12.80826,
+    "lng": 79.68636
+  },
+  {
+    "name": "Semmipālaiyam",
+    "country": "IN",
+    "lat": 11.00926,
+    "lng": 77.2357
+  },
+  {
+    "name": "Sector",
+    "country": "IN",
+    "lat": 28.5708,
+    "lng": 77.3261
+  },
+  {
+    "name": "Seota",
+    "country": "IN",
+    "lat": 23.66798,
+    "lng": 85.52051
+  },
+  {
+    "name": "Sewāi",
+    "country": "IN",
+    "lat": 23.61752,
+    "lng": 85.67832
+  },
+  {
+    "name": "Senapparetti",
+    "country": "IN",
+    "lat": 10.96251,
+    "lng": 78.11324
+  },
+  {
+    "name": "Settiyārpatti",
+    "country": "IN",
+    "lat": 9.3935,
+    "lng": 77.49348
+  },
+  {
+    "name": "Selattānpatti",
+    "country": "IN",
+    "lat": 11.66275,
+    "lng": 78.0946
+  },
+  {
+    "name": "Sedaikavundanūr",
+    "country": "IN",
+    "lat": 11.64031,
+    "lng": 78.18062
+  },
+  {
+    "name": "Sendārappatti",
+    "country": "IN",
+    "lat": 11.43729,
+    "lng": 78.52146
+  },
+  {
+    "name": "Seethanagaram",
+    "country": "IN",
+    "lat": 17.1767,
+    "lng": 81.6925
+  },
+  {
+    "name": "Seppa",
+    "country": "IN",
+    "lat": 27.36173,
+    "lng": 93.03991
+  },
+  {
+    "name": "Sepon",
+    "country": "IN",
+    "lat": 27.11068,
+    "lng": 94.84947
+  },
+  {
+    "name": "Selamba",
+    "country": "IN",
+    "lat": 21.51786,
+    "lng": 73.82152
+  },
+  {
+    "name": "Seer Hamdan",
+    "country": "IN",
+    "lat": 33.7887,
+    "lng": 75.24305
+  },
+  {
+    "name": "Sembianallur",
+    "country": "IN",
+    "lat": 11.17731,
+    "lng": 77.24131
+  },
+  {
+    "name": "Senur",
+    "country": "IN",
+    "lat": 12.94702,
+    "lng": 79.10705
+  },
+  {
+    "name": "Sevugampatti",
+    "country": "IN",
+    "lat": 10.19876,
+    "lng": 77.80456
+  },
+  {
+    "name": "Seyid Sadiq",
+    "country": "IQ",
+    "lat": 35.35278,
+    "lng": 45.86682
+  },
+  {
+    "name": "Seyah Cheshmeh",
+    "country": "IR",
+    "lat": 39.06508,
+    "lng": 44.38416
+  },
+  {
+    "name": "Semnan",
+    "country": "IR",
+    "lat": 35.57691,
+    "lng": 53.39205
+  },
+  {
+    "name": "Semīrom",
+    "country": "IR",
+    "lat": 31.41667,
+    "lng": 51.56667
+  },
+  {
+    "name": "sedeyen-e Yek",
+    "country": "IR",
+    "lat": 31.36205,
+    "lng": 48.81833
+  },
+  {
+    "name": "Sepīdān",
+    "country": "IR",
+    "lat": 30.25961,
+    "lng": 51.98491
+  },
+  {
+    "name": "Selfoss",
+    "country": "IS",
+    "lat": 63.93311,
+    "lng": -20.99712
+  },
+  {
+    "name": "Seltjarnarnes",
+    "country": "IS",
+    "lat": 64.15309,
+    "lng": -21.99499
+  },
+  {
+    "name": "Seulo",
+    "country": "IT",
+    "lat": 39.86955,
+    "lng": 9.23606
+  },
+  {
+    "name": "Seui",
+    "country": "IT",
+    "lat": 39.83908,
+    "lng": 9.32347
+  },
+  {
+    "name": "Setzu",
+    "country": "IT",
+    "lat": 39.72306,
+    "lng": 8.93972
+  },
+  {
+    "name": "Settimo San Pietro",
+    "country": "IT",
+    "lat": 39.2911,
+    "lng": 9.1857
+  },
+  {
+    "name": "Sestu",
+    "country": "IT",
+    "lat": 39.29846,
+    "lng": 9.09248
+  },
+  {
+    "name": "Sersale",
+    "country": "IT",
+    "lat": 39.01013,
+    "lng": 16.7296
+  },
+  {
+    "name": "Serri",
+    "country": "IT",
+    "lat": 39.7015,
+    "lng": 9.1449
+  },
+  {
+    "name": "Serrenti",
+    "country": "IT",
+    "lat": 39.49277,
+    "lng": 8.97659
+  },
+  {
+    "name": "Serrata",
+    "country": "IT",
+    "lat": 38.51288,
+    "lng": 16.1007
+  },
+  {
+    "name": "Serrastretta",
+    "country": "IT",
+    "lat": 39.01319,
+    "lng": 16.4163
+  },
+  {
+    "name": "Serra San Bruno",
+    "country": "IT",
+    "lat": 38.57474,
+    "lng": 16.32622
+  },
+  {
+    "name": "Serra Pedace",
+    "country": "IT",
+    "lat": 39.27898,
+    "lng": 16.34557
+  },
+  {
+    "name": "Serramanna",
+    "country": "IT",
+    "lat": 39.42335,
+    "lng": 8.92243
+  },
+  {
+    "name": "Serradifalco",
+    "country": "IT",
+    "lat": 37.45384,
+    "lng": 13.88046
+  },
+  {
+    "name": "Serra d'Aiello",
+    "country": "IT",
+    "lat": 39.09004,
+    "lng": 16.12612
+  },
+  {
+    "name": "Serdiana",
+    "country": "IT",
+    "lat": 39.37457,
+    "lng": 9.15851
+  },
+  {
+    "name": "Senorbì",
+    "country": "IT",
+    "lat": 39.53341,
+    "lng": 9.13168
+  },
+  {
+    "name": "Senis",
+    "country": "IT",
+    "lat": 39.82318,
+    "lng": 8.93916
+  },
+  {
+    "name": "Seminara",
+    "country": "IT",
+    "lat": 38.33603,
+    "lng": 15.87025
+  },
+  {
+    "name": "Sellia",
+    "country": "IT",
+    "lat": 38.98206,
+    "lng": 16.6307
+  },
+  {
+    "name": "Selegas",
+    "country": "IT",
+    "lat": 39.5678,
+    "lng": 9.10348
+  },
+  {
+    "name": "Selargius",
+    "country": "IT",
+    "lat": 39.25779,
+    "lng": 9.16323
+  },
+  {
+    "name": "Segariu",
+    "country": "IT",
+    "lat": 39.56403,
+    "lng": 8.98163
+  },
+  {
+    "name": "Sezze",
+    "country": "IT",
+    "lat": 41.50032,
+    "lng": 13.06176
+  },
+  {
+    "name": "Seveso",
+    "country": "IT",
+    "lat": 45.6467,
+    "lng": 9.14296
+  },
+  {
+    "name": "Settimo Vittone",
+    "country": "IT",
+    "lat": 45.54929,
+    "lng": 7.83328
+  },
+  {
+    "name": "Settimo Torinese",
+    "country": "IT",
+    "lat": 45.13925,
+    "lng": 7.77008
+  },
+  {
+    "name": "Settimo Rottaro",
+    "country": "IT",
+    "lat": 45.40776,
+    "lng": 7.99352
+  },
+  {
+    "name": "Settimo",
+    "country": "IT",
+    "lat": 45.47929,
+    "lng": 10.9091
+  },
+  {
+    "name": "Settefrati",
+    "country": "IT",
+    "lat": 41.67045,
+    "lng": 13.8507
+  },
+  {
+    "name": "Sestri Levante",
+    "country": "IT",
+    "lat": 44.27317,
+    "lng": 9.39683
+  },
+  {
+    "name": "Sestriere",
+    "country": "IT",
+    "lat": 44.95864,
+    "lng": 6.87751
+  },
+  {
+    "name": "Sesto San Giovanni",
+    "country": "IT",
+    "lat": 45.53329,
+    "lng": 9.22585
+  },
+  {
+    "name": "Sestola",
+    "country": "IT",
+    "lat": 44.22994,
+    "lng": 10.77349
+  },
+  {
+    "name": "Sesto Imolese",
+    "country": "IT",
+    "lat": 44.45952,
+    "lng": 11.72919
+  },
+  {
+    "name": "Sesto Fiorentino",
+    "country": "IT",
+    "lat": 43.83193,
+    "lng": 11.19924
+  },
+  {
+    "name": "Sesto ed Uniti",
+    "country": "IT",
+    "lat": 45.17647,
+    "lng": 9.91407
+  },
+  {
+    "name": "Sesto Campano",
+    "country": "IT",
+    "lat": 41.42042,
+    "lng": 14.07782
+  },
+  {
+    "name": "Sesto Calende",
+    "country": "IT",
+    "lat": 45.72608,
+    "lng": 8.63397
+  },
+  {
+    "name": "Sesto al Reghena",
+    "country": "IT",
+    "lat": 45.84938,
+    "lng": 12.81295
+  },
+  {
+    "name": "Sesto",
+    "country": "IT",
+    "lat": 46.70216,
+    "lng": 12.34962
+  },
+  {
+    "name": "Sestino",
+    "country": "IT",
+    "lat": 43.70966,
+    "lng": 12.29785
+  },
+  {
+    "name": "Sesta Godano",
+    "country": "IT",
+    "lat": 44.29375,
+    "lng": 9.67535
+  },
+  {
+    "name": "Sessano del Molise",
+    "country": "IT",
+    "lat": 41.63926,
+    "lng": 14.32779
+  },
+  {
+    "name": "Sessa Cilento",
+    "country": "IT",
+    "lat": 40.2592,
+    "lng": 15.07576
+  },
+  {
+    "name": "Sessa Aurunca",
+    "country": "IT",
+    "lat": 41.23987,
+    "lng": 13.92966
+  },
+  {
+    "name": "Servigliano",
+    "country": "IT",
+    "lat": 43.07993,
+    "lng": 13.49268
+  },
+  {
+    "name": "Serrone",
+    "country": "IT",
+    "lat": 41.84212,
+    "lng": 13.09519
+  },
+  {
+    "name": "Serre di Rapolano",
+    "country": "IT",
+    "lat": 43.25658,
+    "lng": 11.61655
+  },
+  {
+    "name": "Serre",
+    "country": "IT",
+    "lat": 40.58251,
+    "lng": 15.18555
+  },
+  {
+    "name": "Serravalle Sesia",
+    "country": "IT",
+    "lat": 45.68485,
+    "lng": 8.3085
+  },
+  {
+    "name": "Serravalle Scrivia",
+    "country": "IT",
+    "lat": 44.72277,
+    "lng": 8.85635
+  },
+  {
+    "name": "Serravalle Pistoiese",
+    "country": "IT",
+    "lat": 43.90605,
+    "lng": 10.83271
+  },
+  {
+    "name": "Serravalle di Chienti",
+    "country": "IT",
+    "lat": 43.07185,
+    "lng": 12.95217
+  },
+  {
+    "name": "Serravalle Langhe",
+    "country": "IT",
+    "lat": 44.55995,
+    "lng": 8.05944
+  },
+  {
+    "name": "Serra Sant'Abbondio",
+    "country": "IT",
+    "lat": 43.49155,
+    "lng": 12.77409
+  },
+  {
+    "name": "Serra San Quirico",
+    "country": "IT",
+    "lat": 43.44637,
+    "lng": 13.02266
+  },
+  {
+    "name": "Serra Riccò",
+    "country": "IT",
+    "lat": 44.51071,
+    "lng": 8.93806
+  },
+  {
+    "name": "Serrara Fontana",
+    "country": "IT",
+    "lat": 40.71475,
+    "lng": 13.89593
+  },
+  {
+    "name": "Serrapetrona",
+    "country": "IT",
+    "lat": 43.17671,
+    "lng": 13.18981
+  },
+  {
+    "name": "Serrano",
+    "country": "IT",
+    "lat": 40.18438,
+    "lng": 18.35156
+  },
+  {
+    "name": "Serramonacesca",
+    "country": "IT",
+    "lat": 42.24795,
+    "lng": 14.09297
+  },
+  {
+    "name": "Serramezzana",
+    "country": "IT",
+    "lat": 40.2446,
+    "lng": 15.03246
+  },
+  {
+    "name": "Serramazzoni",
+    "country": "IT",
+    "lat": 44.42735,
+    "lng": 10.79055
+  },
+  {
+    "name": "Serralunga di Crea",
+    "country": "IT",
+    "lat": 45.1011,
+    "lng": 8.28069
+  },
+  {
+    "name": "Serra de' Conti",
+    "country": "IT",
+    "lat": 43.54196,
+    "lng": 13.03566
+  },
+  {
+    "name": "Serracapriola",
+    "country": "IT",
+    "lat": 41.80912,
+    "lng": 15.16098
+  },
+  {
+    "name": "Serole",
+    "country": "IT",
+    "lat": 44.55404,
+    "lng": 8.25974
+  },
+  {
+    "name": "Sernaglia della Battaglia",
+    "country": "IT",
+    "lat": 45.87147,
+    "lng": 12.13302
+  },
+  {
+    "name": "Sermoneta",
+    "country": "IT",
+    "lat": 41.54919,
+    "lng": 12.98481
+  },
+  {
+    "name": "Sermide",
+    "country": "IT",
+    "lat": 45.00349,
+    "lng": 11.2929
+  },
+  {
+    "name": "Serle",
+    "country": "IT",
+    "lat": 45.56137,
+    "lng": 10.36821
+  },
+  {
+    "name": "Serino",
+    "country": "IT",
+    "lat": 40.85481,
+    "lng": 14.87224
+  },
+  {
+    "name": "Serina",
+    "country": "IT",
+    "lat": 45.87071,
+    "lng": 9.73102
+  },
+  {
+    "name": "Seriate",
+    "country": "IT",
+    "lat": 45.68532,
+    "lng": 9.72487
+  },
+  {
+    "name": "Sergnano",
+    "country": "IT",
+    "lat": 45.42755,
+    "lng": 9.70122
+  },
+  {
+    "name": "Seren del Grappa",
+    "country": "IT",
+    "lat": 45.99594,
+    "lng": 11.85624
+  },
+  {
+    "name": "Seregno",
+    "country": "IT",
+    "lat": 45.65002,
+    "lng": 9.20548
+  },
+  {
+    "name": "Seravezza",
+    "country": "IT",
+    "lat": 43.99471,
+    "lng": 10.2272
+  },
+  {
+    "name": "Sequals",
+    "country": "IT",
+    "lat": 46.16385,
+    "lng": 12.83037
+  },
+  {
+    "name": "Sepino",
+    "country": "IT",
+    "lat": 41.40782,
+    "lng": 14.61938
+  },
+  {
+    "name": "Sennori",
+    "country": "IT",
+    "lat": 40.7878,
+    "lng": 8.59285
+  },
+  {
+    "name": "Sennariolo",
+    "country": "IT",
+    "lat": 40.21235,
+    "lng": 8.55572
+  },
+  {
+    "name": "Senna Lodigiana",
+    "country": "IT",
+    "lat": 45.15023,
+    "lng": 9.59379
+  },
+  {
+    "name": "Senise",
+    "country": "IT",
+    "lat": 40.14616,
+    "lng": 16.28867
+  },
+  {
+    "name": "Senigallia",
+    "country": "IT",
+    "lat": 43.71626,
+    "lng": 13.20882
+  },
+  {
+    "name": "Seniga",
+    "country": "IT",
+    "lat": 45.24479,
+    "lng": 10.17759
+  },
+  {
+    "name": "Senerchia",
+    "country": "IT",
+    "lat": 40.74133,
+    "lng": 15.20502
+  },
+  {
+    "name": "Seneghe",
+    "country": "IT",
+    "lat": 40.08128,
+    "lng": 8.61353
+  },
+  {
+    "name": "Senale",
+    "country": "IT",
+    "lat": 46.51077,
+    "lng": 11.11012
+  },
+  {
+    "name": "Senago",
+    "country": "IT",
+    "lat": 45.57562,
+    "lng": 9.1262
+  },
+  {
+    "name": "Semiana",
+    "country": "IT",
+    "lat": 45.13737,
+    "lng": 8.72973
+  },
+  {
+    "name": "Semestene",
+    "country": "IT",
+    "lat": 40.39846,
+    "lng": 8.72542
+  },
+  {
+    "name": "Selvino",
+    "country": "IT",
+    "lat": 45.78525,
+    "lng": 9.75292
+  },
+  {
+    "name": "Selvazzano Dentro",
+    "country": "IT",
+    "lat": 45.38764,
+    "lng": 11.79232
+  },
+  {
+    "name": "Selvatelle",
+    "country": "IT",
+    "lat": 43.56281,
+    "lng": 10.69091
+  },
+  {
+    "name": "Selva di Cadore",
+    "country": "IT",
+    "lat": 46.45028,
+    "lng": 12.05694
+  },
+  {
+    "name": "Selva dei Molini",
+    "country": "IT",
+    "lat": 46.89031,
+    "lng": 11.85832
+  },
+  {
+    "name": "Selva",
+    "country": "IT",
+    "lat": 46.55472,
+    "lng": 11.76038
+  },
+  {
+    "name": "Sellero",
+    "country": "IT",
+    "lat": 46.05145,
+    "lng": 10.34764
+  },
+  {
+    "name": "Sellano",
+    "country": "IT",
+    "lat": 42.88735,
+    "lng": 12.92311
+  },
+  {
+    "name": "Selci",
+    "country": "IT",
+    "lat": 42.30293,
+    "lng": 12.62135
+  },
+  {
+    "name": "Segrate",
+    "country": "IT",
+    "lat": 45.49185,
+    "lng": 9.29812
+  },
+  {
+    "name": "Segni",
+    "country": "IT",
+    "lat": 41.68893,
+    "lng": 13.01934
+  },
+  {
+    "name": "Seggiano",
+    "country": "IT",
+    "lat": 42.92897,
+    "lng": 11.55736
+  },
+  {
+    "name": "Sefro",
+    "country": "IT",
+    "lat": 43.14743,
+    "lng": 12.94859
+  },
+  {
+    "name": "Sedrina",
+    "country": "IT",
+    "lat": 45.78067,
+    "lng": 9.62362
+  },
+  {
+    "name": "Sedriano",
+    "country": "IT",
+    "lat": 45.49105,
+    "lng": 8.97161
+  },
+  {
+    "name": "Sedini",
+    "country": "IT",
+    "lat": 40.85277,
+    "lng": 8.8167
+  },
+  {
+    "name": "Sedilo",
+    "country": "IT",
+    "lat": 40.17292,
+    "lng": 8.91993
+  },
+  {
+    "name": "Sedico",
+    "country": "IT",
+    "lat": 46.10563,
+    "lng": 12.0933
+  },
+  {
+    "name": "Sedegliano",
+    "country": "IT",
+    "lat": 46.01396,
+    "lng": 12.97734
+  },
+  {
+    "name": "Secugnago",
+    "country": "IT",
+    "lat": 45.23132,
+    "lng": 9.59394
+  },
+  {
+    "name": "Secondigliano",
+    "country": "IT",
+    "lat": 40.9,
+    "lng": 14.26667
+  },
+  {
+    "name": "Seclì",
+    "country": "IT",
+    "lat": 40.11897,
+    "lng": 18.10931
+  },
+  {
+    "name": "Secinaro",
+    "country": "IT",
+    "lat": 42.15062,
+    "lng": 13.68145
+  },
+  {
+    "name": "Secchiano",
+    "country": "IT",
+    "lat": 43.92399,
+    "lng": 12.31615
+  },
+  {
+    "name": "Seborga",
+    "country": "IT",
+    "lat": 43.8273,
+    "lng": 7.69585
+  },
+  {
+    "name": "Seano",
+    "country": "IT",
+    "lat": 43.83035,
+    "lng": 11.02122
+  },
+  {
+    "name": "Serra di Maiolo",
+    "country": "IT",
+    "lat": 43.87304,
+    "lng": 12.31129
+  },
+  {
+    "name": "Selci-Lama",
+    "country": "IT",
+    "lat": 43.51719,
+    "lng": 12.21293
+  },
+  {
+    "name": "Serre",
+    "country": "IT",
+    "lat": 44.54033,
+    "lng": 7.09032
+  },
+  {
+    "name": "Semonte-Casamorcia",
+    "country": "IT",
+    "lat": 43.36826,
+    "lng": 12.53064
+  },
+  {
+    "name": "Serravalle",
+    "country": "IT",
+    "lat": 44.96532,
+    "lng": 12.04664
+  },
+  {
+    "name": "Sevegliano",
+    "country": "IT",
+    "lat": 45.88749,
+    "lng": 13.30541
+  },
+  {
+    "name": "Selva del Montello",
+    "country": "IT",
+    "lat": 45.78835,
+    "lng": 12.1435
+  },
+  {
+    "name": "Settimo Milanese",
+    "country": "IT",
+    "lat": 45.47771,
+    "lng": 9.05574
+  },
+  {
+    "name": "Sernio",
+    "country": "IT",
+    "lat": 46.2242,
+    "lng": 10.20526
+  },
+  {
+    "name": "Serravalle a Po",
+    "country": "IT",
+    "lat": 45.06638,
+    "lng": 11.0818
+  },
+  {
+    "name": "Segonzano",
+    "country": "IT",
+    "lat": 46.19021,
+    "lng": 11.25988
+  },
+  {
+    "name": "Senales",
+    "country": "IT",
+    "lat": 46.70602,
+    "lng": 10.90846
+  },
+  {
+    "name": "Selve Marcone",
+    "country": "IT",
+    "lat": 45.61976,
+    "lng": 8.08742
+  },
+  {
+    "name": "Sezzadio",
+    "country": "IT",
+    "lat": 44.78485,
+    "lng": 8.57255
+  },
+  {
+    "name": "Selva di Progno",
+    "country": "IT",
+    "lat": 45.61139,
+    "lng": 11.13799
+  },
+  {
+    "name": "Segusino",
+    "country": "IT",
+    "lat": 45.91701,
+    "lng": 11.9556
+  },
+  {
+    "name": "Settala",
+    "country": "IT",
+    "lat": 45.45357,
+    "lng": 9.38715
+  },
+  {
+    "name": "Sellia Marina",
+    "country": "IT",
+    "lat": 38.88599,
+    "lng": 16.74931
+  },
+  {
+    "name": "Seppiana",
+    "country": "IT",
+    "lat": 46.05828,
+    "lng": 8.21661
+  },
+  {
+    "name": "Serralunga d'Alba",
+    "country": "IT",
+    "lat": 44.61004,
+    "lng": 7.99944
+  },
+  {
+    "name": "Sessame",
+    "country": "IT",
+    "lat": 44.67064,
+    "lng": 8.33684
+  },
+  {
+    "name": "Settime",
+    "country": "IT",
+    "lat": 44.96175,
+    "lng": 8.11433
+  },
+  {
+    "name": "Serrungarina",
+    "country": "IT",
+    "lat": 43.74666,
+    "lng": 12.87486
+  },
+  {
+    "name": "Semproniano",
+    "country": "IT",
+    "lat": 42.72923,
+    "lng": 11.54134
+  },
+  {
+    "name": "Settingiano",
+    "country": "IT",
+    "lat": 38.91139,
+    "lng": 16.5139
+  },
+  {
+    "name": "Senna Comasco",
+    "country": "IT",
+    "lat": 45.76298,
+    "lng": 9.11104
+  },
+  {
+    "name": "Sezze Scalo",
+    "country": "IT",
+    "lat": 41.49701,
+    "lng": 13.04257
+  },
+  {
+    "name": "Selcetta",
+    "country": "IT",
+    "lat": 41.76529,
+    "lng": 12.47533
+  },
+  {
+    "name": "Setteville",
+    "country": "IT",
+    "lat": 41.94375,
+    "lng": 12.65122
+  },
+  {
+    "name": "Settimo",
+    "country": "IT",
+    "lat": 39.39158,
+    "lng": 16.23998
+  },
+  {
+    "name": "Selino Basso",
+    "country": "IT",
+    "lat": 45.81029,
+    "lng": 9.53495
+  },
+  {
+    "name": "Sesto Cremonese",
+    "country": "IT",
+    "lat": 45.17568,
+    "lng": 9.9144
+  },
+  {
+    "name": "Selva",
+    "country": "IT",
+    "lat": 42.11442,
+    "lng": 14.34425
+  },
+  {
+    "name": "Servo",
+    "country": "IT",
+    "lat": 46.05844,
+    "lng": 11.78657
+  },
+  {
+    "name": "Serone",
+    "country": "IT",
+    "lat": 46.15627,
+    "lng": 9.58171
+  },
+  {
+    "name": "Setteville",
+    "country": "IT",
+    "lat": 45.92125,
+    "lng": 11.93109
+  },
+  {
+    "name": "Seaforth",
+    "country": "JM",
+    "lat": 17.93578,
+    "lng": -76.4573
+  },
+  {
+    "name": "Seisui",
+    "country": "JP",
+    "lat": 28.13692,
+    "lng": 129.33067
+  },
+  {
+    "name": "Settsu",
+    "country": "JP",
+    "lat": 34.77819,
+    "lng": 135.59512
+  },
+  {
+    "name": "Seto",
+    "country": "JP",
+    "lat": 35.23333,
+    "lng": 137.1
+  },
+  {
+    "name": "Setakamachi-takayanagi",
+    "country": "JP",
+    "lat": 33.14858,
+    "lng": 130.46548
+  },
+  {
+    "name": "Senju",
+    "country": "JP",
+    "lat": 35.74888,
+    "lng": 139.80261
+  },
+  {
+    "name": "Sendai",
+    "country": "JP",
+    "lat": 31.81667,
+    "lng": 130.3
+  },
+  {
+    "name": "Sekimachi",
+    "country": "JP",
+    "lat": 35.48333,
+    "lng": 136.91667
+  },
+  {
+    "name": "Sekimachi",
+    "country": "JP",
+    "lat": 33.06336,
+    "lng": 130.54258
+  },
+  {
+    "name": "Sekigahara",
+    "country": "JP",
+    "lat": 35.36667,
+    "lng": 136.46667
+  },
+  {
+    "name": "Seirō",
+    "country": "JP",
+    "lat": 37.98333,
+    "lng": 139.255
+  },
+  {
+    "name": "Setana",
+    "country": "JP",
+    "lat": 42.45139,
+    "lng": 139.85139
+  },
+  {
+    "name": "Setamai",
+    "country": "JP",
+    "lat": 39.13333,
+    "lng": 141.58333
+  },
+  {
+    "name": "Sendai",
+    "country": "JP",
+    "lat": 38.26667,
+    "lng": 140.86667
+  },
+  {
+    "name": "Seki",
+    "country": "JP",
+    "lat": 37.99009,
+    "lng": 140.44759
+  },
+  {
+    "name": "Sennan",
+    "country": "JP",
+    "lat": 34.34835,
+    "lng": 135.26842
+  },
+  {
+    "name": "Sekimachi-minami",
+    "country": "JP",
+    "lat": 35.72138,
+    "lng": 139.58077
+  },
+  {
+    "name": "Sekimachi-higashi",
+    "country": "JP",
+    "lat": 35.72568,
+    "lng": 139.58355
+  },
+  {
+    "name": "Sendagaya",
+    "country": "JP",
+    "lat": 35.67784,
+    "lng": 139.70822
+  },
+  {
+    "name": "Senzoku",
+    "country": "JP",
+    "lat": 35.72205,
+    "lng": 139.79206
+  },
+  {
+    "name": "Sendagi",
+    "country": "JP",
+    "lat": 35.72812,
+    "lng": 139.76017
+  },
+  {
+    "name": "Seiyo",
+    "country": "JP",
+    "lat": 33.38817,
+    "lng": 132.63176
+  },
+  {
+    "name": "Setouchi",
+    "country": "JP",
+    "lat": 34.65919,
+    "lng": 134.14238
+  },
+  {
+    "name": "Semboku",
+    "country": "JP",
+    "lat": 39.7093,
+    "lng": 140.74654
+  },
+  {
+    "name": "Setagaya",
+    "country": "JP",
+    "lat": 35.64188,
+    "lng": 139.64715
+  },
+  {
+    "name": "Serem",
+    "country": "KE",
+    "lat": 0.07717,
+    "lng": 34.85473
+  },
+  {
+    "name": "Sega",
+    "country": "KE",
+    "lat": 0.25365,
+    "lng": 34.22784
+  },
+  {
+    "name": "Sen Monorom",
+    "country": "KH",
+    "lat": 12.45583,
+    "lng": 107.18811
+  },
+  {
+    "name": "Sesan",
+    "country": "KH",
+    "lat": 13.55329,
+    "lng": 106.09224
+  },
+  {
+    "name": "Seoul",
+    "country": "KR",
+    "lat": 37.566,
+    "lng": 126.9784
+  },
+  {
+    "name": "Seosan",
+    "country": "KR",
+    "lat": 36.78167,
+    "lng": 126.45222
+  },
+  {
+    "name": "Seonghwan",
+    "country": "KR",
+    "lat": 36.91556,
+    "lng": 127.13139
+  },
+  {
+    "name": "Seongnam-si",
+    "country": "KR",
+    "lat": 37.43861,
+    "lng": 127.13778
+  },
+  {
+    "name": "Seogwipo",
+    "country": "KR",
+    "lat": 33.25333,
+    "lng": 126.56181
+  },
+  {
+    "name": "Seongsu",
+    "country": "KR",
+    "lat": 35.6309,
+    "lng": 127.33344
+  },
+  {
+    "name": "Seolcheon",
+    "country": "KR",
+    "lat": 36.009,
+    "lng": 127.7901
+  },
+  {
+    "name": "Seosang",
+    "country": "KR",
+    "lat": 35.68185,
+    "lng": 127.68774
+  },
+  {
+    "name": "Seonwon",
+    "country": "KR",
+    "lat": 37.71223,
+    "lng": 126.48439
+  },
+  {
+    "name": "Seoseok",
+    "country": "KR",
+    "lat": 37.7119,
+    "lng": 128.18713
+  },
+  {
+    "name": "Sejong",
+    "country": "KR",
+    "lat": 36.59245,
+    "lng": 127.29223
+  },
+  {
+    "name": "Seji",
+    "country": "KR",
+    "lat": 34.92007,
+    "lng": 126.7494
+  },
+  {
+    "name": "Seungju",
+    "country": "KR",
+    "lat": 35.01532,
+    "lng": 127.3897
+  },
+  {
+    "name": "Seven Miles",
+    "country": "KY",
+    "lat": 19.33366,
+    "lng": -81.38062
+  },
+  {
+    "name": "Sergeyevka",
+    "country": "KZ",
+    "lat": 53.88139,
+    "lng": 67.40882
+  },
+  {
+    "name": "Serebryansk",
+    "country": "KZ",
+    "lat": 49.68402,
+    "lng": 83.29677
+  },
+  {
+    "name": "Semey",
+    "country": "KZ",
+    "lat": 50.42064,
+    "lng": 80.25025
+  },
+  {
+    "name": "Selo Temirbeka Zhurgenova",
+    "country": "KZ",
+    "lat": 50.43326,
+    "lng": 60.5004
+  },
+  {
+    "name": "Sekong",
+    "country": "LA",
+    "lat": 15.34582,
+    "lng": 106.72368
+  },
+  {
+    "name": "Sekake",
+    "country": "LS",
+    "lat": -30.0,
+    "lng": 28.35
+  },
+  {
+    "name": "Sehonghong",
+    "country": "LS",
+    "lat": -29.77826,
+    "lng": 28.79745
+  },
+  {
+    "name": "Sehlabathebe",
+    "country": "LS",
+    "lat": -29.87509,
+    "lng": 29.05186
+  },
+  {
+    "name": "Sefikeng",
+    "country": "LS",
+    "lat": -29.27894,
+    "lng": 27.80765
+  },
+  {
+    "name": "Semonkong",
+    "country": "LS",
+    "lat": -29.8433,
+    "lng": 28.0504
+  },
+  {
+    "name": "Seshote",
+    "country": "LS",
+    "lat": -29.271,
+    "lng": 28.54947
+  },
+  {
+    "name": "Senieji Trakai",
+    "country": "LT",
+    "lat": 54.609,
+    "lng": 24.98
+  },
+  {
+    "name": "Seda",
+    "country": "LT",
+    "lat": 56.16854,
+    "lng": 22.09071
+  },
+  {
+    "name": "Septfontaines",
+    "country": "LU",
+    "lat": 49.70111,
+    "lng": 5.96722
+  },
+  {
+    "name": "Senningerberg",
+    "country": "LU",
+    "lat": 49.64907,
+    "lng": 6.22607
+  },
+  {
+    "name": "Seda",
+    "country": "LV",
+    "lat": 57.65042,
+    "lng": 25.75089
+  },
+  {
+    "name": "Setti Fatma",
+    "country": "MA",
+    "lat": 31.22508,
+    "lng": -7.67751
+  },
+  {
+    "name": "Senada",
+    "country": "MA",
+    "lat": 35.07452,
+    "lng": -4.21583
+  },
+  {
+    "name": "Settat",
+    "country": "MA",
+    "lat": 33.00103,
+    "lng": -7.61662
+  },
+  {
+    "name": "Selouane",
+    "country": "MA",
+    "lat": 35.07313,
+    "lng": -2.9423
+  },
+  {
+    "name": "Sefrou",
+    "country": "MA",
+    "lat": 33.83186,
+    "lng": -4.828
+  },
+  {
+    "name": "Sebt Gzoula",
+    "country": "MA",
+    "lat": 32.10779,
+    "lng": -9.08366
+  },
+  {
+    "name": "Sebt El Maarif",
+    "country": "MA",
+    "lat": 32.50149,
+    "lng": -8.57453
+  },
+  {
+    "name": "Sebt Jahjouh",
+    "country": "MA",
+    "lat": 33.71581,
+    "lng": -5.6687
+  },
+  {
+    "name": "Selce",
+    "country": "MK",
+    "lat": 42.03482,
+    "lng": 20.94035
+  },
+  {
+    "name": "Sekirnik",
+    "country": "MK",
+    "lat": 41.43999,
+    "lng": 22.79536
+  },
+  {
+    "name": "Sedlarevo",
+    "country": "MK",
+    "lat": 41.88306,
+    "lng": 21.1275
+  },
+  {
+    "name": "Seinnan",
+    "country": "MM",
+    "lat": 25.93654,
+    "lng": 95.60578
+  },
+  {
+    "name": "Sergelen",
+    "country": "MN",
+    "lat": 48.56667,
+    "lng": 114.08333
+  },
+  {
+    "name": "Sergelen",
+    "country": "MN",
+    "lat": 46.2,
+    "lng": 111.81667
+  },
+  {
+    "name": "Senj",
+    "country": "MN",
+    "lat": 44.71667,
+    "lng": 110.76667
+  },
+  {
+    "name": "Selenge",
+    "country": "MN",
+    "lat": 49.43333,
+    "lng": 101.46667
+  },
+  {
+    "name": "Senglea",
+    "country": "MT",
+    "lat": 35.88777,
+    "lng": 14.51588
+  },
+  {
+    "name": "Sebastopol",
+    "country": "MU",
+    "lat": -20.2907,
+    "lng": 57.68779
+  },
+  {
+    "name": "Seyé",
+    "country": "MX",
+    "lat": 20.83659,
+    "lng": -89.37149
+  },
+  {
+    "name": "Seybaplaya",
+    "country": "MX",
+    "lat": 19.63994,
+    "lng": -90.68706
+  },
+  {
+    "name": "Sergio Butrón Casas",
+    "country": "MX",
+    "lat": 18.5139,
+    "lng": -88.56883
+  },
+  {
+    "name": "Señor",
+    "country": "MX",
+    "lat": 19.84424,
+    "lng": -88.13524
+  },
+  {
+    "name": "Señor del Pozo",
+    "country": "MX",
+    "lat": 16.29625,
+    "lng": -92.11165
+  },
+  {
+    "name": "Seis de Enero",
+    "country": "MX",
+    "lat": 23.36686,
+    "lng": -103.07455
+  },
+  {
+    "name": "Seis de Octubre",
+    "country": "MX",
+    "lat": 25.81385,
+    "lng": -103.57465
+  },
+  {
+    "name": "Sevina",
+    "country": "MX",
+    "lat": 19.62898,
+    "lng": -101.90057
+  },
+  {
+    "name": "Serrano",
+    "country": "MX",
+    "lat": 20.7783,
+    "lng": -101.3954
+  },
+  {
+    "name": "Sentispac",
+    "country": "MX",
+    "lat": 21.80478,
+    "lng": -105.34593
+  },
+  {
+    "name": "Senguio",
+    "country": "MX",
+    "lat": 19.73417,
+    "lng": -100.35385
+  },
+  {
+    "name": "Seis de Enero",
+    "country": "MX",
+    "lat": 25.52002,
+    "lng": -103.60189
+  },
+  {
+    "name": "Sector H Tres",
+    "country": "MX",
+    "lat": 15.76611,
+    "lng": -96.14694
+  },
+  {
+    "name": "Seis de Octubre (Santo Niño)",
+    "country": "MX",
+    "lat": 25.76389,
+    "lng": -103.23889
+  },
+  {
+    "name": "Sebastián Lerdo de Tejada",
+    "country": "MX",
+    "lat": 23.95444,
+    "lng": -104.63639
+  },
+  {
+    "name": "Sebastián Lerdo de Tejada",
+    "country": "MX",
+    "lat": 19.38972,
+    "lng": -99.72528
+  },
+  {
+    "name": "Sección 23",
+    "country": "MX",
+    "lat": 19.78778,
+    "lng": -97.37917
+  },
+  {
+    "name": "Sergio Villaseñor",
+    "country": "MX",
+    "lat": 20.645,
+    "lng": -100.42083
+  },
+  {
+    "name": "Sección del Cerrito",
+    "country": "MX",
+    "lat": 19.55889,
+    "lng": -99.67833
+  },
+  {
+    "name": "Semerah",
+    "country": "MY",
+    "lat": 1.8845,
+    "lng": 102.7832
+  },
+  {
+    "name": "Senggarang",
+    "country": "MY",
+    "lat": 1.7511,
+    "lng": 103.0494
+  },
+  {
+    "name": "Segamat",
+    "country": "MY",
+    "lat": 2.5148,
+    "lng": 102.8158
+  },
+  {
+    "name": "Sekinchan",
+    "country": "MY",
+    "lat": 3.5074,
+    "lng": 101.1041
+  },
+  {
+    "name": "Semporna",
+    "country": "MY",
+    "lat": 4.48178,
+    "lng": 118.61119
+  },
+  {
+    "name": "Selama",
+    "country": "MY",
+    "lat": 5.2236,
+    "lng": 100.69262
+  },
+  {
+    "name": "Sebuyau",
+    "country": "MY",
+    "lat": 1.51667,
+    "lng": 110.93333
+  },
+  {
+    "name": "Semenyih",
+    "country": "MY",
+    "lat": 2.9516,
+    "lng": 101.843
+  },
+  {
+    "name": "Seremban",
+    "country": "MY",
+    "lat": 2.7297,
+    "lng": 101.9381
+  },
+  {
+    "name": "Sepang",
+    "country": "MY",
+    "lat": 2.6931,
+    "lng": 101.7498
+  },
+  {
+    "name": "Serendah",
+    "country": "MY",
+    "lat": 3.3646,
+    "lng": 101.6041
+  },
+  {
+    "name": "Setapak",
+    "country": "MY",
+    "lat": 3.207,
+    "lng": 101.727
+  },
+  {
+    "name": "Sematan",
+    "country": "MY",
+    "lat": 1.8,
+    "lng": 109.76667
+  },
+  {
+    "name": "Sebauh",
+    "country": "MY",
+    "lat": 3.11667,
+    "lng": 113.26667
+  },
+  {
+    "name": "Seri Kembangan",
+    "country": "MY",
+    "lat": 3.03333,
+    "lng": 101.71667
+  },
+  {
+    "name": "Serian",
+    "country": "MY",
+    "lat": 1.16667,
+    "lng": 110.56667
+  },
+  {
+    "name": "Serdang",
+    "country": "MY",
+    "lat": 5.20372,
+    "lng": 100.62476
+  },
+  {
+    "name": "Seputeh",
+    "country": "MY",
+    "lat": 3.11667,
+    "lng": 101.68333
+  },
+  {
+    "name": "Sentul",
+    "country": "MY",
+    "lat": 3.18333,
+    "lng": 101.68333
+  },
+  {
+    "name": "Selama Kedah",
+    "country": "MY",
+    "lat": 5.23242,
+    "lng": 100.68284
+  },
+  {
+    "name": "Seri Manjung",
+    "country": "MY",
+    "lat": 4.1987,
+    "lng": 100.67
+  },
+  {
+    "name": "Selayang Baru Utara",
+    "country": "MY",
+    "lat": 3.2549,
+    "lng": 101.6668
+  },
+  {
+    "name": "Seri Iskandar",
+    "country": "MY",
+    "lat": 4.35993,
+    "lng": 100.98491
+  },
+  {
+    "name": "Selangau",
+    "country": "MY",
+    "lat": 2.52477,
+    "lng": 112.32543
+  },
+  {
+    "name": "Seremban 2",
+    "country": "MY",
+    "lat": 2.68982,
+    "lng": 101.90766
+  },
+  {
+    "name": "Seminyih",
+    "country": "MY",
+    "lat": 2.94761,
+    "lng": 101.84695
+  },
+  {
+    "name": "Seremban 3",
+    "country": "MY",
+    "lat": 2.67361,
+    "lng": 101.93111
+  },
+  {
+    "name": "Setia Alam",
+    "country": "MY",
+    "lat": 3.10155,
+    "lng": 101.45565
+  },
+  {
+    "name": "Setia Tropika",
+    "country": "MY",
+    "lat": 1.54631,
+    "lng": 103.71829
+  },
+  {
+    "name": "Sesfontein",
+    "country": "NA",
+    "lat": -19.12279,
+    "lng": 13.6205
+  },
+  {
+    "name": "Septième Kilomètre",
+    "country": "NC",
+    "lat": -22.23135,
+    "lng": 166.48082
+  },
+  {
+    "name": "Serti",
+    "country": "NG",
+    "lat": 7.50574,
+    "lng": 11.3631
+  },
+  {
+    "name": "Sexbierum",
+    "country": "NL",
+    "lat": 53.21823,
+    "lng": 5.48402
+  },
+  {
+    "name": "Sevenum",
+    "country": "NL",
+    "lat": 51.4125,
+    "lng": 6.0375
+  },
+  {
+    "name": "Serooskerke",
+    "country": "NL",
+    "lat": 51.54833,
+    "lng": 3.59444
+  },
+  {
+    "name": "Selwerd",
+    "country": "NL",
+    "lat": 53.2352,
+    "lng": 6.5545
+  },
+  {
+    "name": "Sellingen",
+    "country": "NL",
+    "lat": 52.94583,
+    "lng": 7.15139
+  },
+  {
+    "name": "Setermoen",
+    "country": "NO",
+    "lat": 68.86099,
+    "lng": 18.34857
+  },
+  {
+    "name": "Sem",
+    "country": "NO",
+    "lat": 59.2823,
+    "lng": 10.33004
+  },
+  {
+    "name": "Selvik",
+    "country": "NO",
+    "lat": 59.56645,
+    "lng": 10.26004
+  },
+  {
+    "name": "Seljord",
+    "country": "NO",
+    "lat": 59.48477,
+    "lng": 8.63017
+  },
+  {
+    "name": "Segalstad bru",
+    "country": "NO",
+    "lat": 61.22819,
+    "lng": 10.22255
+  },
+  {
+    "name": "Seatoun",
+    "country": "NZ",
+    "lat": -41.32484,
+    "lng": 174.83226
+  },
+  {
+    "name": "Seaview",
+    "country": "NZ",
+    "lat": -44.39657,
+    "lng": 171.24154
+  },
+  {
+    "name": "Seeb",
+    "country": "OM",
+    "lat": 23.67027,
+    "lng": 58.18911
+  },
+  {
+    "name": "Setegantí",
+    "country": "PA",
+    "lat": 8.29398,
+    "lng": -78.08924
+  },
+  {
+    "name": "Sexi",
+    "country": "PE",
+    "lat": -6.56361,
+    "lng": -79.05139
+  },
+  {
+    "name": "Sechura",
+    "country": "PE",
+    "lat": -5.55694,
+    "lng": -80.82222
+  },
+  {
+    "name": "Sepahua",
+    "country": "PE",
+    "lat": -11.14583,
+    "lng": -73.04278
+  },
+  {
+    "name": "Segunda Jerusalén - Azunguillo",
+    "country": "PE",
+    "lat": -5.98917,
+    "lng": -77.27694
+  },
+  {
+    "name": "Selva Alegre",
+    "country": "PE",
+    "lat": -16.37057,
+    "lng": -71.52724
+  },
+  {
+    "name": "Sevilla",
+    "country": "PH",
+    "lat": 9.70383,
+    "lng": 124.04829
+  },
+  {
+    "name": "Sergio Osmeña Sr",
+    "country": "PH",
+    "lat": 8.16667,
+    "lng": 123.5
+  },
+  {
+    "name": "Seres",
+    "country": "PH",
+    "lat": 8.4803,
+    "lng": 123.2629
+  },
+  {
+    "name": "Semut",
+    "country": "PH",
+    "lat": 6.66361,
+    "lng": 122.21889
+  },
+  {
+    "name": "Semirara",
+    "country": "PH",
+    "lat": 12.06967,
+    "lng": 121.39861
+  },
+  {
+    "name": "Sebaste",
+    "country": "PH",
+    "lat": 11.5901,
+    "lng": 122.0945
+  },
+  {
+    "name": "Sebaste",
+    "country": "PH",
+    "lat": 10.4963,
+    "lng": 122.657
+  },
+  {
+    "name": "Sehnsa",
+    "country": "PK",
+    "lat": 33.51366,
+    "lng": 73.75479
+  },
+  {
+    "name": "Sehwan",
+    "country": "PK",
+    "lat": 26.42495,
+    "lng": 67.86126
+  },
+  {
+    "name": "Setharja Old",
+    "country": "PK",
+    "lat": 27.2127,
+    "lng": 68.46883
+  },
+  {
+    "name": "Serokomla",
+    "country": "PL",
+    "lat": 51.7007,
+    "lng": 22.33237
+  },
+  {
+    "name": "Serock",
+    "country": "PL",
+    "lat": 52.51036,
+    "lng": 21.0691
+  },
+  {
+    "name": "Serniki",
+    "country": "PL",
+    "lat": 51.43716,
+    "lng": 22.65853
+  },
+  {
+    "name": "Sejny",
+    "country": "PL",
+    "lat": 54.10802,
+    "lng": 23.34698
+  },
+  {
+    "name": "Secemin",
+    "country": "PL",
+    "lat": 50.76676,
+    "lng": 19.83599
+  },
+  {
+    "name": "Sesimbra",
+    "country": "PT",
+    "lat": 38.44451,
+    "lng": -9.10149
+  },
+  {
+    "name": "Setúbal",
+    "country": "PT",
+    "lat": 38.5244,
+    "lng": -8.8882
+  },
+  {
+    "name": "Sete Rios",
+    "country": "PT",
+    "lat": 38.74134,
+    "lng": -9.16133
+  },
+  {
+    "name": "Sertã",
+    "country": "PT",
+    "lat": 39.80205,
+    "lng": -8.09589
+  },
+  {
+    "name": "Serra de El-Rei",
+    "country": "PT",
+    "lat": 39.33291,
+    "lng": -9.26843
+  },
+  {
+    "name": "Serpa",
+    "country": "PT",
+    "lat": 37.94581,
+    "lng": -7.59754
+  },
+  {
+    "name": "Senhora da Luz",
+    "country": "PT",
+    "lat": 37.08771,
+    "lng": -8.72649
+  },
+  {
+    "name": "Seixal",
+    "country": "PT",
+    "lat": 38.64008,
+    "lng": -9.10141
+  },
+  {
+    "name": "Sever do Vouga",
+    "country": "PT",
+    "lat": 40.73459,
+    "lng": -8.36722
+  },
+  {
+    "name": "Serzedo",
+    "country": "PT",
+    "lat": 41.40502,
+    "lng": -8.22926
+  },
+  {
+    "name": "Serzedo",
+    "country": "PT",
+    "lat": 41.05105,
+    "lng": -8.61605
+  },
+  {
+    "name": "Serzedelo",
+    "country": "PT",
+    "lat": 41.40128,
+    "lng": -8.36888
+  },
+  {
+    "name": "Seroa",
+    "country": "PT",
+    "lat": 41.26511,
+    "lng": -8.42892
+  },
+  {
+    "name": "Sernancelhe",
+    "country": "PT",
+    "lat": 40.89871,
+    "lng": -7.49342
+  },
+  {
+    "name": "Sermonde",
+    "country": "PT",
+    "lat": 41.04712,
+    "lng": -8.58449
+  },
+  {
+    "name": "Sequeira",
+    "country": "PT",
+    "lat": 40.55364,
+    "lng": -7.22594
+  },
+  {
+    "name": "Senhora do Porto",
+    "country": "PT",
+    "lat": 41.16667,
+    "lng": -8.63333
+  },
+  {
+    "name": "Senhora da Hora",
+    "country": "PT",
+    "lat": 41.18641,
+    "lng": -8.65172
+  },
+  {
+    "name": "Sendim",
+    "country": "PT",
+    "lat": 41.38739,
+    "lng": -6.42625
+  },
+  {
+    "name": "Semelhe",
+    "country": "PT",
+    "lat": 41.55437,
+    "lng": -8.46281
+  },
+  {
+    "name": "Selho",
+    "country": "PT",
+    "lat": 41.41938,
+    "lng": -8.34599
+  },
+  {
+    "name": "Seixezelo",
+    "country": "PT",
+    "lat": 41.03349,
+    "lng": -8.54972
+  },
+  {
+    "name": "Seia",
+    "country": "PT",
+    "lat": 40.4151,
+    "lng": -7.70859
+  },
+  {
+    "name": "Serdanu",
+    "country": "RO",
+    "lat": 44.62732,
+    "lng": 25.63124
+  },
+  {
+    "name": "Semlac",
+    "country": "RO",
+    "lat": 46.11667,
+    "lng": 20.93333
+  },
+  {
+    "name": "Seleuș",
+    "country": "RO",
+    "lat": 46.24261,
+    "lng": 24.69427
+  },
+  {
+    "name": "Seleuş",
+    "country": "RO",
+    "lat": 46.38333,
+    "lng": 21.71667
+  },
+  {
+    "name": "Seini",
+    "country": "RO",
+    "lat": 47.75,
+    "lng": 23.28333
+  },
+  {
+    "name": "Seimeni",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 28.06667
+  },
+  {
+    "name": "Segarcea Vale",
+    "country": "RO",
+    "lat": 43.81667,
+    "lng": 24.8
+  },
+  {
+    "name": "Segarcea-Deal",
+    "country": "RO",
+    "lat": 43.82548,
+    "lng": 24.8402
+  },
+  {
+    "name": "Segarcea",
+    "country": "RO",
+    "lat": 44.1,
+    "lng": 23.75
+  },
+  {
+    "name": "Secusigiu",
+    "country": "RO",
+    "lat": 46.08333,
+    "lng": 20.98333
+  },
+  {
+    "name": "Secui",
+    "country": "RO",
+    "lat": 44.19186,
+    "lng": 23.86319
+  },
+  {
+    "name": "Secuieni",
+    "country": "RO",
+    "lat": 46.65,
+    "lng": 27.1
+  },
+  {
+    "name": "Secuieni",
+    "country": "RO",
+    "lat": 46.85,
+    "lng": 26.83333
+  },
+  {
+    "name": "Secu",
+    "country": "RO",
+    "lat": 44.46667,
+    "lng": 23.3
+  },
+  {
+    "name": "Seciu",
+    "country": "RO",
+    "lat": 45.03275,
+    "lng": 26.06474
+  },
+  {
+    "name": "Secaş",
+    "country": "RO",
+    "lat": 45.885,
+    "lng": 21.81917
+  },
+  {
+    "name": "Secăria",
+    "country": "RO",
+    "lat": 45.28333,
+    "lng": 25.68333
+  },
+  {
+    "name": "Sebiş",
+    "country": "RO",
+    "lat": 46.36667,
+    "lng": 22.11667
+  },
+  {
+    "name": "Sebeșel",
+    "country": "RO",
+    "lat": 45.88771,
+    "lng": 23.56606
+  },
+  {
+    "name": "Sebeş",
+    "country": "RO",
+    "lat": 45.95646,
+    "lng": 23.571
+  },
+  {
+    "name": "Seaca de Pădure",
+    "country": "RO",
+    "lat": 44.36611,
+    "lng": 23.30587
+  },
+  {
+    "name": "Seaca de Câmp",
+    "country": "RO",
+    "lat": 43.93333,
+    "lng": 23.21667
+  },
+  {
+    "name": "Seaca",
+    "country": "RO",
+    "lat": 44.16667,
+    "lng": 24.75
+  },
+  {
+    "name": "Seaca",
+    "country": "RO",
+    "lat": 43.75,
+    "lng": 25.06667
+  },
+  {
+    "name": "Sector 1",
+    "country": "RO",
+    "lat": 44.49239,
+    "lng": 26.04831
+  },
+  {
+    "name": "Sector 2",
+    "country": "RO",
+    "lat": 44.4528,
+    "lng": 26.13321
+  },
+  {
+    "name": "Sector 3",
+    "country": "RO",
+    "lat": 44.4234,
+    "lng": 26.16874
+  },
+  {
+    "name": "Sector 4",
+    "country": "RO",
+    "lat": 44.37571,
+    "lng": 26.12085
+  },
+  {
+    "name": "Sector 5",
+    "country": "RO",
+    "lat": 44.38808,
+    "lng": 26.07144
+  },
+  {
+    "name": "Sector 6",
+    "country": "RO",
+    "lat": 44.43579,
+    "lng": 26.01649
+  },
+  {
+    "name": "Senta",
+    "country": "RS",
+    "lat": 45.9275,
+    "lng": 20.07722
+  },
+  {
+    "name": "Seleuš",
+    "country": "RS",
+    "lat": 45.1277,
+    "lng": 20.91461
+  },
+  {
+    "name": "Sefkerin",
+    "country": "RS",
+    "lat": 45.00501,
+    "lng": 20.48256
+  },
+  {
+    "name": "Sečanj",
+    "country": "RS",
+    "lat": 45.36667,
+    "lng": 20.77222
+  },
+  {
+    "name": "Sevsk",
+    "country": "RU",
+    "lat": 52.14904,
+    "lng": 34.49347
+  },
+  {
+    "name": "Severskaya",
+    "country": "RU",
+    "lat": 44.85393,
+    "lng": 38.67924
+  },
+  {
+    "name": "Severo-Zadonsk",
+    "country": "RU",
+    "lat": 54.03481,
+    "lng": 38.40172
+  },
+  {
+    "name": "Severoural’sk",
+    "country": "RU",
+    "lat": 60.15328,
+    "lng": 59.95205
+  },
+  {
+    "name": "Severomorsk",
+    "country": "RU",
+    "lat": 69.06936,
+    "lng": 33.40807
+  },
+  {
+    "name": "Severodvinsk",
+    "country": "RU",
+    "lat": 64.55825,
+    "lng": 39.82971
+  },
+  {
+    "name": "Severnyy-Kospashskiy",
+    "country": "RU",
+    "lat": 59.0897,
+    "lng": 57.8039
+  },
+  {
+    "name": "Severnyy",
+    "country": "RU",
+    "lat": 56.73333,
+    "lng": 37.65
+  },
+  {
+    "name": "Severnyy",
+    "country": "RU",
+    "lat": 55.93583,
+    "lng": 37.54889
+  },
+  {
+    "name": "Severnyy",
+    "country": "RU",
+    "lat": 50.6754,
+    "lng": 36.55869
+  },
+  {
+    "name": "Severnoye",
+    "country": "RU",
+    "lat": 54.0928,
+    "lng": 52.54184
+  },
+  {
+    "name": "Severnoye",
+    "country": "RU",
+    "lat": 44.83194,
+    "lng": 42.85833
+  },
+  {
+    "name": "Setun’",
+    "country": "RU",
+    "lat": 55.71667,
+    "lng": 37.41667
+  },
+  {
+    "name": "Sestroretsk",
+    "country": "RU",
+    "lat": 60.09801,
+    "lng": 29.96378
+  },
+  {
+    "name": "Seshcha",
+    "country": "RU",
+    "lat": 53.7361,
+    "lng": 33.3387
+  },
+  {
+    "name": "Serzhen’-Yurt",
+    "country": "RU",
+    "lat": 43.12265,
+    "lng": 45.98583
+  },
+  {
+    "name": "Sertolovo",
+    "country": "RU",
+    "lat": 60.1444,
+    "lng": 30.20165
+  },
+  {
+    "name": "Serpukhov",
+    "country": "RU",
+    "lat": 54.9198,
+    "lng": 37.41618
+  },
+  {
+    "name": "Sernur",
+    "country": "RU",
+    "lat": 56.93583,
+    "lng": 49.14923
+  },
+  {
+    "name": "Sernovodsk",
+    "country": "RU",
+    "lat": 43.31277,
+    "lng": 45.15969
+  },
+  {
+    "name": "Sernovodsk",
+    "country": "RU",
+    "lat": 53.92293,
+    "lng": 51.25704
+  },
+  {
+    "name": "Sergokala",
+    "country": "RU",
+    "lat": 42.45384,
+    "lng": 47.66017
+  },
+  {
+    "name": "Sergiyevsk",
+    "country": "RU",
+    "lat": 53.9431,
+    "lng": 51.16853
+  },
+  {
+    "name": "Sergiyev Posad",
+    "country": "RU",
+    "lat": 56.31204,
+    "lng": 38.13869
+  },
+  {
+    "name": "Sergach",
+    "country": "RU",
+    "lat": 55.52771,
+    "lng": 45.45679
+  },
+  {
+    "name": "Serëdka",
+    "country": "RU",
+    "lat": 58.15838,
+    "lng": 28.18576
+  },
+  {
+    "name": "Seredeyskiy",
+    "country": "RU",
+    "lat": 54.05071,
+    "lng": 35.23183
+  },
+  {
+    "name": "Serebryanyye Prudy",
+    "country": "RU",
+    "lat": 54.4748,
+    "lng": 38.72791
+  },
+  {
+    "name": "Serdobsk",
+    "country": "RU",
+    "lat": 52.45861,
+    "lng": 44.21689
+  },
+  {
+    "name": "Serafimovskiy",
+    "country": "RU",
+    "lat": 54.42408,
+    "lng": 53.7964
+  },
+  {
+    "name": "Serafimovich",
+    "country": "RU",
+    "lat": 49.57572,
+    "lng": 42.73227
+  },
+  {
+    "name": "Sennoy",
+    "country": "RU",
+    "lat": 52.1509,
+    "lng": 46.96309
+  },
+  {
+    "name": "Sengiley",
+    "country": "RU",
+    "lat": 53.95849,
+    "lng": 48.79503
+  },
+  {
+    "name": "Semkhoz",
+    "country": "RU",
+    "lat": 56.28333,
+    "lng": 38.06667
+  },
+  {
+    "name": "Semiluki",
+    "country": "RU",
+    "lat": 51.729,
+    "lng": 39.048
+  },
+  {
+    "name": "Semiluki",
+    "country": "RU",
+    "lat": 51.6821,
+    "lng": 39.0302
+  },
+  {
+    "name": "Semiletka",
+    "country": "RU",
+    "lat": 55.36028,
+    "lng": 54.61528
+  },
+  {
+    "name": "Semikarakorsk",
+    "country": "RU",
+    "lat": 47.51683,
+    "lng": 40.80831
+  },
+  {
+    "name": "Semibratovo",
+    "country": "RU",
+    "lat": 57.30461,
+    "lng": 39.53688
+  },
+  {
+    "name": "Semënovskoye",
+    "country": "RU",
+    "lat": 55.68333,
+    "lng": 37.55
+  },
+  {
+    "name": "Semenovka",
+    "country": "RU",
+    "lat": 56.64722,
+    "lng": 47.97972
+  },
+  {
+    "name": "Semënov",
+    "country": "RU",
+    "lat": 56.78758,
+    "lng": 44.49619
+  },
+  {
+    "name": "Selyatino",
+    "country": "RU",
+    "lat": 55.51514,
+    "lng": 36.97746
+  },
+  {
+    "name": "Selty",
+    "country": "RU",
+    "lat": 57.3132,
+    "lng": 52.1345
+  },
+  {
+    "name": "Sel’tso",
+    "country": "RU",
+    "lat": 53.36831,
+    "lng": 34.10328
+  },
+  {
+    "name": "Selizharovo",
+    "country": "RU",
+    "lat": 56.85188,
+    "lng": 33.44869
+  },
+  {
+    "name": "Selishche",
+    "country": "RU",
+    "lat": 56.88794,
+    "lng": 33.26914
+  },
+  {
+    "name": "Selezni",
+    "country": "RU",
+    "lat": 52.80415,
+    "lng": 41.23961
+  },
+  {
+    "name": "Segezha",
+    "country": "RU",
+    "lat": 63.74549,
+    "lng": 34.31614
+  },
+  {
+    "name": "Sedkyrkeshch",
+    "country": "RU",
+    "lat": 61.72358,
+    "lng": 50.95212
+  },
+  {
+    "name": "Sechenovo",
+    "country": "RU",
+    "lat": 55.22448,
+    "lng": 45.88864
+  },
+  {
+    "name": "Sebrovo",
+    "country": "RU",
+    "lat": 50.0981,
+    "lng": 43.2976
+  },
+  {
+    "name": "Sebezh",
+    "country": "RU",
+    "lat": 56.28607,
+    "lng": 28.48327
+  },
+  {
+    "name": "Severo-Yeniseyskiy",
+    "country": "RU",
+    "lat": 60.37552,
+    "lng": 93.03017
+  },
+  {
+    "name": "Severnoye",
+    "country": "RU",
+    "lat": 56.35023,
+    "lng": 78.36481
+  },
+  {
+    "name": "Severka",
+    "country": "RU",
+    "lat": 56.8688,
+    "lng": 60.3015
+  },
+  {
+    "name": "Severka",
+    "country": "RU",
+    "lat": 52.13333,
+    "lng": 79.28333
+  },
+  {
+    "name": "Serov",
+    "country": "RU",
+    "lat": 59.59737,
+    "lng": 60.58608
+  },
+  {
+    "name": "Selezyan",
+    "country": "RU",
+    "lat": 54.90583,
+    "lng": 61.82444
+  },
+  {
+    "name": "Sedel’nikovo",
+    "country": "RU",
+    "lat": 56.94531,
+    "lng": 75.30774
+  },
+  {
+    "name": "Seversk",
+    "country": "RU",
+    "lat": 56.60056,
+    "lng": 84.88639
+  },
+  {
+    "name": "Severomuysk",
+    "country": "RU",
+    "lat": 56.177,
+    "lng": 113.57
+  },
+  {
+    "name": "Severobaykal’sk",
+    "country": "RU",
+    "lat": 55.63826,
+    "lng": 109.32709
+  },
+  {
+    "name": "Seryshevo",
+    "country": "RU",
+    "lat": 51.09398,
+    "lng": 128.38132
+  },
+  {
+    "name": "Sergeyevka",
+    "country": "RU",
+    "lat": 43.35032,
+    "lng": 133.35815
+  },
+  {
+    "name": "Serebryanyy Bor",
+    "country": "RU",
+    "lat": 56.67076,
+    "lng": 124.83754
+  },
+  {
+    "name": "Selikhino",
+    "country": "RU",
+    "lat": 50.36832,
+    "lng": 137.50163
+  },
+  {
+    "name": "Selenginsk",
+    "country": "RU",
+    "lat": 52.00639,
+    "lng": 106.86472
+  },
+  {
+    "name": "Selenduma",
+    "country": "RU",
+    "lat": 50.91306,
+    "lng": 106.24056
+  },
+  {
+    "name": "Sergeyevka",
+    "country": "RU",
+    "lat": 44.33749,
+    "lng": 131.66142
+  },
+  {
+    "name": "Seymchan",
+    "country": "RU",
+    "lat": 62.93242,
+    "lng": 152.39431
+  },
+  {
+    "name": "Severomorsk-3",
+    "country": "RU",
+    "lat": 68.87862,
+    "lng": 33.72631
+  },
+  {
+    "name": "Semiozerje",
+    "country": "RU",
+    "lat": 60.32018,
+    "lng": 29.29705
+  },
+  {
+    "name": "Semender",
+    "country": "RU",
+    "lat": 42.98556,
+    "lng": 47.40393
+  },
+  {
+    "name": "Segeltorp",
+    "country": "SE",
+    "lat": 59.27597,
+    "lng": 17.93072
+  },
+  {
+    "name": "Serangoon Garden",
+    "country": "SG",
+    "lat": 1.36389,
+    "lng": 103.8575
+  },
+  {
+    "name": "Serangoon",
+    "country": "SG",
+    "lat": 1.36278,
+    "lng": 103.8975
+  },
+  {
+    "name": "Sennett Estate",
+    "country": "SG",
+    "lat": 1.33194,
+    "lng": 103.87167
+  },
+  {
+    "name": "Sembawang Hills Estate",
+    "country": "SG",
+    "lat": 1.37278,
+    "lng": 103.83028
+  },
+  {
+    "name": "Sembawang Estate",
+    "country": "SG",
+    "lat": 1.45083,
+    "lng": 103.82861
+  },
+  {
+    "name": "Serangoon New Town",
+    "country": "SG",
+    "lat": 1.35083,
+    "lng": 103.87083
+  },
+  {
+    "name": "Sengkang New Town",
+    "country": "SG",
+    "lat": 1.39167,
+    "lng": 103.89444
+  },
+  {
+    "name": "Sentosa",
+    "country": "SG",
+    "lat": 1.24969,
+    "lng": 103.83119
+  },
+  {
+    "name": "Senja",
+    "country": "SG",
+    "lat": 1.38516,
+    "lng": 103.76073
+  },
+  {
+    "name": "Sežana",
+    "country": "SI",
+    "lat": 45.70924,
+    "lng": 13.87333
+  },
+  {
+    "name": "Sevnica",
+    "country": "SI",
+    "lat": 46.00792,
+    "lng": 15.31646
+  },
+  {
+    "name": "Senovo",
+    "country": "SI",
+    "lat": 46.02361,
+    "lng": 15.47694
+  },
+  {
+    "name": "Semič",
+    "country": "SI",
+    "lat": 45.6465,
+    "lng": 15.18145
+  },
+  {
+    "name": "Selnica ob Muri",
+    "country": "SI",
+    "lat": 46.68333,
+    "lng": 15.7
+  },
+  {
+    "name": "Selnica ob Dravi",
+    "country": "SI",
+    "lat": 46.55176,
+    "lng": 15.49289
+  },
+  {
+    "name": "Seča",
+    "country": "SI",
+    "lat": 45.49584,
+    "lng": 13.61466
+  },
+  {
+    "name": "Sečovce",
+    "country": "SK",
+    "lat": 48.70074,
+    "lng": 21.66104
+  },
+  {
+    "name": "Sereď",
+    "country": "SK",
+    "lat": 48.29117,
+    "lng": 17.73331
+  },
+  {
+    "name": "Senica",
+    "country": "SK",
+    "lat": 48.67922,
+    "lng": 17.36697
+  },
+  {
+    "name": "Senec",
+    "country": "SK",
+    "lat": 48.21951,
+    "lng": 17.40043
+  },
+  {
+    "name": "Sekule",
+    "country": "SK",
+    "lat": 48.601,
+    "lng": 17.00379
+  },
+  {
+    "name": "Serabu",
+    "country": "SL",
+    "lat": 7.79311,
+    "lng": -12.05294
+  },
+  {
+    "name": "Seidu",
+    "country": "SL",
+    "lat": 9.01801,
+    "lng": -10.59496
+  },
+  {
+    "name": "Segbwema",
+    "country": "SL",
+    "lat": 7.99471,
+    "lng": -10.9502
+  },
+  {
+    "name": "Serravalle",
+    "country": "SM",
+    "lat": 43.96897,
+    "lng": 12.48167
+  },
+  {
+    "name": "Sesori",
+    "country": "SV",
+    "lat": 13.71667,
+    "lng": -88.36667
+  },
+  {
+    "name": "Sensuntepeque",
+    "country": "SV",
+    "lat": 13.87583,
+    "lng": -88.62727
+  },
+  {
+    "name": "Senangkhanikhom",
+    "country": "TH",
+    "lat": 16.03972,
+    "lng": 104.66939
+  },
+  {
+    "name": "Sena",
+    "country": "TH",
+    "lat": 14.327,
+    "lng": 100.40433
+  },
+  {
+    "name": "Selaphum",
+    "country": "TH",
+    "lat": 16.02992,
+    "lng": 103.93826
+  },
+  {
+    "name": "Seka",
+    "country": "TH",
+    "lat": 17.92851,
+    "lng": 103.95519
+  },
+  {
+    "name": "Sena Nikhom",
+    "country": "TH",
+    "lat": 13.83655,
+    "lng": 100.57727
+  },
+  {
+    "name": "Serdar",
+    "country": "TM",
+    "lat": 38.97644,
+    "lng": 56.27575
+  },
+  {
+    "name": "Seydi",
+    "country": "TM",
+    "lat": 39.4816,
+    "lng": 62.91374
+  },
+  {
+    "name": "Serhetabat",
+    "country": "TM",
+    "lat": 35.27992,
+    "lng": 62.34383
+  },
+  {
+    "name": "Sejenane",
+    "country": "TN",
+    "lat": 37.05722,
+    "lng": 9.23806
+  },
+  {
+    "name": "Sejoumi",
+    "country": "TN",
+    "lat": 36.75583,
+    "lng": 10.11833
+  },
+  {
+    "name": "Seïada",
+    "country": "TN",
+    "lat": 35.66887,
+    "lng": 10.89246
+  },
+  {
+    "name": "Seyitgazi",
+    "country": "TR",
+    "lat": 39.44472,
+    "lng": 30.69472
+  },
+  {
+    "name": "Seyhan",
+    "country": "TR",
+    "lat": 36.98747,
+    "lng": 35.30592
+  },
+  {
+    "name": "Seydişehir",
+    "country": "TR",
+    "lat": 37.41926,
+    "lng": 31.84527
+  },
+  {
+    "name": "Sevinç",
+    "country": "TR",
+    "lat": 39.78,
+    "lng": 30.68889
+  },
+  {
+    "name": "Servi",
+    "country": "TR",
+    "lat": 38.57038,
+    "lng": 40.32004
+  },
+  {
+    "name": "Serinyol",
+    "country": "TR",
+    "lat": 36.36139,
+    "lng": 36.21361
+  },
+  {
+    "name": "Serik",
+    "country": "TR",
+    "lat": 36.91694,
+    "lng": 31.09889
+  },
+  {
+    "name": "Sergen",
+    "country": "TR",
+    "lat": 38.30129,
+    "lng": 40.35688
+  },
+  {
+    "name": "Senirkent",
+    "country": "TR",
+    "lat": 38.10444,
+    "lng": 30.54861
+  },
+  {
+    "name": "Selimiye",
+    "country": "TR",
+    "lat": 37.40035,
+    "lng": 27.65543
+  },
+  {
+    "name": "Selimiye",
+    "country": "TR",
+    "lat": 36.70536,
+    "lng": 28.09329
+  },
+  {
+    "name": "Selendi",
+    "country": "TR",
+    "lat": 38.74444,
+    "lng": 28.86778
+  },
+  {
+    "name": "Selçuk",
+    "country": "TR",
+    "lat": 37.95137,
+    "lng": 27.36849
+  },
+  {
+    "name": "Selçikler",
+    "country": "TR",
+    "lat": 38.49837,
+    "lng": 29.65482
+  },
+  {
+    "name": "Seksenören",
+    "country": "TR",
+    "lat": 36.97252,
+    "lng": 39.07484
+  },
+  {
+    "name": "Sekili",
+    "country": "TR",
+    "lat": 36.97876,
+    "lng": 37.67174
+  },
+  {
+    "name": "Seki",
+    "country": "TR",
+    "lat": 36.80378,
+    "lng": 29.65155
+  },
+  {
+    "name": "Seferihisar",
+    "country": "TR",
+    "lat": 38.1975,
+    "lng": 26.83881
+  },
+  {
+    "name": "Sebil",
+    "country": "TR",
+    "lat": 37.12912,
+    "lng": 34.56245
+  },
+  {
+    "name": "Serinhisar",
+    "country": "TR",
+    "lat": 37.58105,
+    "lng": 29.26639
+  },
+  {
+    "name": "Selçuklu",
+    "country": "TR",
+    "lat": 37.8842,
+    "lng": 32.49222
+  },
+  {
+    "name": "Sevinçli",
+    "country": "TR",
+    "lat": 38.35,
+    "lng": 34.13333
+  },
+  {
+    "name": "Serhatta",
+    "country": "TR",
+    "lat": 37.66278,
+    "lng": 42.14064
+  },
+  {
+    "name": "Seyitler",
+    "country": "TR",
+    "lat": 41.19556,
+    "lng": 41.83799
+  },
+  {
+    "name": "Seydim",
+    "country": "TR",
+    "lat": 40.54302,
+    "lng": 34.73812
+  },
+  {
+    "name": "Seydiler",
+    "country": "TR",
+    "lat": 41.62005,
+    "lng": 33.71815
+  },
+  {
+    "name": "Sergen",
+    "country": "TR",
+    "lat": 41.70528,
+    "lng": 27.70833
+  },
+  {
+    "name": "Serdivan",
+    "country": "TR",
+    "lat": 40.77376,
+    "lng": 30.38006
+  },
+  {
+    "name": "Senemoğlu",
+    "country": "TR",
+    "lat": 40.78052,
+    "lng": 42.66354
+  },
+  {
+    "name": "Selimpaşa",
+    "country": "TR",
+    "lat": 41.05526,
+    "lng": 28.36778
+  },
+  {
+    "name": "Selim",
+    "country": "TR",
+    "lat": 40.45772,
+    "lng": 42.78287
+  },
+  {
+    "name": "Seben",
+    "country": "TR",
+    "lat": 40.41134,
+    "lng": 31.57359
+  },
+  {
+    "name": "Sevindik",
+    "country": "TR",
+    "lat": 37.74101,
+    "lng": 40.00309
+  },
+  {
+    "name": "Senala Village",
+    "country": "TV",
+    "lat": -8.5174,
+    "lng": 179.19829
+  },
+  {
+    "name": "Sepuka",
+    "country": "TZ",
+    "lat": -4.75,
+    "lng": 34.53333
+  },
+  {
+    "name": "Sengerema",
+    "country": "TZ",
+    "lat": -2.66667,
+    "lng": 32.65
+  },
+  {
+    "name": "Serednie Vodiane",
+    "country": "UA",
+    "lat": 47.98293,
+    "lng": 23.90904
+  },
+  {
+    "name": "Serednye",
+    "country": "UA",
+    "lat": 48.54006,
+    "lng": 22.50441
+  },
+  {
+    "name": "Sevastopol",
+    "country": "UA",
+    "lat": 44.60795,
+    "lng": 33.52134
+  },
+  {
+    "name": "Serpneve",
+    "country": "UA",
+    "lat": 46.30452,
+    "lng": 29.01519
+  },
+  {
+    "name": "Serhiyi",
+    "country": "UA",
+    "lat": 47.9883,
+    "lng": 25.15545
+  },
+  {
+    "name": "Serhiyivka",
+    "country": "UA",
+    "lat": 46.0251,
+    "lng": 30.36826
+  },
+  {
+    "name": "Serhiivka",
+    "country": "UA",
+    "lat": 46.00055,
+    "lng": 29.95801
+  },
+  {
+    "name": "Seredyna-Buda",
+    "country": "UA",
+    "lat": 52.18886,
+    "lng": 34.03613
+  },
+  {
+    "name": "Serebrianka",
+    "country": "UA",
+    "lat": 48.91963,
+    "lng": 38.13543
+  },
+  {
+    "name": "Serebryanka",
+    "country": "UA",
+    "lat": 45.63937,
+    "lng": 33.49632
+  },
+  {
+    "name": "Serebriia",
+    "country": "UA",
+    "lat": 48.45556,
+    "lng": 27.71635
+  },
+  {
+    "name": "Serby",
+    "country": "UA",
+    "lat": 48.10061,
+    "lng": 29.0646
+  },
+  {
+    "name": "Serbka",
+    "country": "UA",
+    "lat": 47.00502,
+    "lng": 30.76252
+  },
+  {
+    "name": "Serbychany",
+    "country": "UA",
+    "lat": 48.49701,
+    "lng": 27.29124
+  },
+  {
+    "name": "Sentianivka",
+    "country": "UA",
+    "lat": 48.67043,
+    "lng": 38.75406
+  },
+  {
+    "name": "Sencha",
+    "country": "UA",
+    "lat": 50.25482,
+    "lng": 33.34602
+  },
+  {
+    "name": "Semisotka",
+    "country": "UA",
+    "lat": 45.24676,
+    "lng": 35.565
+  },
+  {
+    "name": "Semypolky",
+    "country": "UA",
+    "lat": 50.72627,
+    "lng": 30.93441
+  },
+  {
+    "name": "Semenivka",
+    "country": "UA",
+    "lat": 52.1786,
+    "lng": 32.58181
+  },
+  {
+    "name": "Semenivka",
+    "country": "UA",
+    "lat": 49.59655,
+    "lng": 33.17943
+  },
+  {
+    "name": "Semenivka",
+    "country": "UA",
+    "lat": 47.94661,
+    "lng": 31.06115
+  },
+  {
+    "name": "Seliatyn",
+    "country": "UA",
+    "lat": 47.86737,
+    "lng": 25.19925
+  },
+  {
+    "name": "Selyshche",
+    "country": "UA",
+    "lat": 49.32685,
+    "lng": 31.15009
+  },
+  {
+    "name": "Selyshche",
+    "country": "UA",
+    "lat": 48.49899,
+    "lng": 27.08969
+  },
+  {
+    "name": "Selydove",
+    "country": "UA",
+    "lat": 48.14446,
+    "lng": 37.30058
+  },
+  {
+    "name": "Seleshchyna",
+    "country": "UA",
+    "lat": 49.45879,
+    "lng": 34.83499
+  },
+  {
+    "name": "Sekretarka",
+    "country": "UA",
+    "lat": 48.05062,
+    "lng": 30.5251
+  },
+  {
+    "name": "Sekretarivka",
+    "country": "UA",
+    "lat": 46.6598,
+    "lng": 30.28327
+  },
+  {
+    "name": "Sedniv",
+    "country": "UA",
+    "lat": 51.64473,
+    "lng": 31.56497
+  },
+  {
+    "name": "Sebyne",
+    "country": "UA",
+    "lat": 47.19905,
+    "lng": 31.85919
+  },
+  {
+    "name": "Serhiivka",
+    "country": "UA",
+    "lat": 50.404,
+    "lng": 33.76317
+  },
+  {
+    "name": "Senokosnoye",
+    "country": "UA",
+    "lat": 45.73277,
+    "lng": 33.51552
+  },
+  {
+    "name": "Serhiivka",
+    "country": "UA",
+    "lat": 50.71773,
+    "lng": 26.30174
+  },
+  {
+    "name": "Serere",
+    "country": "UG",
+    "lat": 1.49417,
+    "lng": 33.45528
+  },
+  {
+    "name": "Sembabule",
+    "country": "UG",
+    "lat": -0.07722,
+    "lng": 31.45667
+  },
+  {
+    "name": "Selma",
+    "country": "US",
+    "lat": 32.40736,
+    "lng": -87.0211
+  },
+  {
+    "name": "Semmes",
+    "country": "US",
+    "lat": 30.77824,
+    "lng": -88.25917
+  },
+  {
+    "name": "Searcy",
+    "country": "US",
+    "lat": 35.25064,
+    "lng": -91.73625
+  },
+  {
+    "name": "Seaford",
+    "country": "US",
+    "lat": 38.64123,
+    "lng": -75.61104
+  },
+  {
+    "name": "Selbyville",
+    "country": "US",
+    "lat": 38.46039,
+    "lng": -75.22074
+  },
+  {
+    "name": "Seaside",
+    "country": "US",
+    "lat": 30.32103,
+    "lng": -86.14161
+  },
+  {
+    "name": "Sebastian",
+    "country": "US",
+    "lat": 27.81641,
+    "lng": -80.47061
+  },
+  {
+    "name": "Sebring",
+    "country": "US",
+    "lat": 27.49559,
+    "lng": -81.44091
+  },
+  {
+    "name": "Seffner",
+    "country": "US",
+    "lat": 27.98363,
+    "lng": -82.27565
+  },
+  {
+    "name": "Seminole",
+    "country": "US",
+    "lat": 27.83975,
+    "lng": -82.79121
+  },
+  {
+    "name": "Seminole Manor",
+    "country": "US",
+    "lat": 26.58368,
+    "lng": -80.10032
+  },
+  {
+    "name": "Sewall's Point",
+    "country": "US",
+    "lat": 27.19949,
+    "lng": -80.20227
+  },
+  {
+    "name": "Senoia",
+    "country": "US",
+    "lat": 33.30234,
+    "lng": -84.55382
+  },
+  {
+    "name": "Sesser",
+    "country": "US",
+    "lat": 38.09172,
+    "lng": -89.05035
+  },
+  {
+    "name": "Seelyville",
+    "country": "US",
+    "lat": 39.49198,
+    "lng": -87.26724
+  },
+  {
+    "name": "Sellersburg",
+    "country": "US",
+    "lat": 38.39812,
+    "lng": -85.75496
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 38.95922,
+    "lng": -85.89025
+  },
+  {
+    "name": "Sedan",
+    "country": "US",
+    "lat": 37.12672,
+    "lng": -96.18694
+  },
+  {
+    "name": "Sedgwick",
+    "country": "US",
+    "lat": 37.91668,
+    "lng": -97.42254
+  },
+  {
+    "name": "Seneca",
+    "country": "US",
+    "lat": 39.83416,
+    "lng": -96.06417
+  },
+  {
+    "name": "Sebree",
+    "country": "US",
+    "lat": 37.60699,
+    "lng": -87.52862
+  },
+  {
+    "name": "Seabrook",
+    "country": "US",
+    "lat": 38.974,
+    "lng": -76.849
+  },
+  {
+    "name": "Seat Pleasant",
+    "country": "US",
+    "lat": 38.89622,
+    "lng": -76.90664
+  },
+  {
+    "name": "Selby-on-the-Bay",
+    "country": "US",
+    "lat": 38.91622,
+    "lng": -76.52246
+  },
+  {
+    "name": "Severn",
+    "country": "US",
+    "lat": 39.13705,
+    "lng": -76.6983
+  },
+  {
+    "name": "Severna Park",
+    "country": "US",
+    "lat": 39.07039,
+    "lng": -76.54524
+  },
+  {
+    "name": "Sedalia",
+    "country": "US",
+    "lat": 38.70446,
+    "lng": -93.22826
+  },
+  {
+    "name": "Senath",
+    "country": "US",
+    "lat": 36.13423,
+    "lng": -90.15982
+  },
+  {
+    "name": "Seneca",
+    "country": "US",
+    "lat": 36.84146,
+    "lng": -94.61106
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 37.14644,
+    "lng": -92.76878
+  },
+  {
+    "name": "Senatobia",
+    "country": "US",
+    "lat": 34.6176,
+    "lng": -89.9687
+  },
+  {
+    "name": "Sea Breeze",
+    "country": "US",
+    "lat": 34.06323,
+    "lng": -77.89137
+  },
+  {
+    "name": "Seagate",
+    "country": "US",
+    "lat": 34.20934,
+    "lng": -77.84359
+  },
+  {
+    "name": "Selma",
+    "country": "US",
+    "lat": 35.53655,
+    "lng": -78.28444
+  },
+  {
+    "name": "Seven Lakes",
+    "country": "US",
+    "lat": 35.27849,
+    "lng": -79.56448
+  },
+  {
+    "name": "Sea Isle City",
+    "country": "US",
+    "lat": 39.15345,
+    "lng": -74.69294
+  },
+  {
+    "name": "Seabrook Farms",
+    "country": "US",
+    "lat": 39.50095,
+    "lng": -75.21796
+  },
+  {
+    "name": "Seaside Heights",
+    "country": "US",
+    "lat": 39.94429,
+    "lng": -74.07291
+  },
+  {
+    "name": "Seaside Park",
+    "country": "US",
+    "lat": 39.92679,
+    "lng": -74.07708
+  },
+  {
+    "name": "Sewell",
+    "country": "US",
+    "lat": 39.7665,
+    "lng": -75.14434
+  },
+  {
+    "name": "Seminole",
+    "country": "US",
+    "lat": 35.22452,
+    "lng": -96.67057
+  },
+  {
+    "name": "Seabrook Island",
+    "country": "US",
+    "lat": 32.57713,
+    "lng": -80.17065
+  },
+  {
+    "name": "Seneca",
+    "country": "US",
+    "lat": 34.68566,
+    "lng": -82.9532
+  },
+  {
+    "name": "Seven Oaks",
+    "country": "US",
+    "lat": 34.04876,
+    "lng": -81.14648
+  },
+  {
+    "name": "Selmer",
+    "country": "US",
+    "lat": 35.17008,
+    "lng": -88.59227
+  },
+  {
+    "name": "Sevierville",
+    "country": "US",
+    "lat": 35.86815,
+    "lng": -83.56184
+  },
+  {
+    "name": "Sewanee",
+    "country": "US",
+    "lat": 35.20314,
+    "lng": -85.92109
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 35.89064,
+    "lng": -83.72462
+  },
+  {
+    "name": "Seabrook",
+    "country": "US",
+    "lat": 29.56412,
+    "lng": -95.02548
+  },
+  {
+    "name": "Seadrift",
+    "country": "US",
+    "lat": 28.41528,
+    "lng": -96.71359
+  },
+  {
+    "name": "Seagoville",
+    "country": "US",
+    "lat": 32.63958,
+    "lng": -96.53832
+  },
+  {
+    "name": "Sealy",
+    "country": "US",
+    "lat": 29.78079,
+    "lng": -96.15718
+  },
+  {
+    "name": "Sebastian",
+    "country": "US",
+    "lat": 26.34285,
+    "lng": -97.79027
+  },
+  {
+    "name": "Seguin",
+    "country": "US",
+    "lat": 29.56884,
+    "lng": -97.96473
+  },
+  {
+    "name": "Selma",
+    "country": "US",
+    "lat": 29.58439,
+    "lng": -98.30585
+  },
+  {
+    "name": "Serenada",
+    "country": "US",
+    "lat": 30.69936,
+    "lng": -97.69195
+  },
+  {
+    "name": "Seven Points",
+    "country": "US",
+    "lat": 32.32042,
+    "lng": -96.21303
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 33.59426,
+    "lng": -99.26035
+  },
+  {
+    "name": "Seven Corners",
+    "country": "US",
+    "lat": 38.87206,
+    "lng": -77.15526
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 41.39676,
+    "lng": -73.07594
+  },
+  {
+    "name": "Sergeant Bluff",
+    "country": "US",
+    "lat": 42.40388,
+    "lng": -96.35864
+  },
+  {
+    "name": "Seneca",
+    "country": "US",
+    "lat": 41.31114,
+    "lng": -88.60979
+  },
+  {
+    "name": "Seekonk",
+    "country": "US",
+    "lat": 41.80843,
+    "lng": -71.337
+  },
+  {
+    "name": "Searsmont",
+    "country": "US",
+    "lat": 44.36174,
+    "lng": -69.19504
+  },
+  {
+    "name": "Sedgwick",
+    "country": "US",
+    "lat": 44.30369,
+    "lng": -68.61614
+  },
+  {
+    "name": "Sebewaing",
+    "country": "US",
+    "lat": 43.73224,
+    "lng": -83.45107
+  },
+  {
+    "name": "Seward",
+    "country": "US",
+    "lat": 40.90695,
+    "lng": -97.09892
+  },
+  {
+    "name": "Seabrook",
+    "country": "US",
+    "lat": 42.89481,
+    "lng": -70.87116
+  },
+  {
+    "name": "Sea Bright",
+    "country": "US",
+    "lat": 40.3615,
+    "lng": -73.97403
+  },
+  {
+    "name": "Sea Girt",
+    "country": "US",
+    "lat": 40.13206,
+    "lng": -74.03458
+  },
+  {
+    "name": "Secaucus",
+    "country": "US",
+    "lat": 40.78955,
+    "lng": -74.05653
+  },
+  {
+    "name": "Sewaren",
+    "country": "US",
+    "lat": 40.55205,
+    "lng": -74.25876
+  },
+  {
+    "name": "Sea Cliff",
+    "country": "US",
+    "lat": 40.84899,
+    "lng": -73.64485
+  },
+  {
+    "name": "Seaford",
+    "country": "US",
+    "lat": 40.66593,
+    "lng": -73.48818
+  },
+  {
+    "name": "Searingtown",
+    "country": "US",
+    "lat": 40.77482,
+    "lng": -73.65568
+  },
+  {
+    "name": "Seaside",
+    "country": "US",
+    "lat": 40.58316,
+    "lng": -73.82819
+  },
+  {
+    "name": "Selden",
+    "country": "US",
+    "lat": 40.86649,
+    "lng": -73.03566
+  },
+  {
+    "name": "Seneca Falls",
+    "country": "US",
+    "lat": 42.91062,
+    "lng": -76.79662
+  },
+  {
+    "name": "Seneca Knolls",
+    "country": "US",
+    "lat": 43.12007,
+    "lng": -76.28632
+  },
+  {
+    "name": "Sebring",
+    "country": "US",
+    "lat": 40.92284,
+    "lng": -81.01898
+  },
+  {
+    "name": "Seven Hills",
+    "country": "US",
+    "lat": 41.39533,
+    "lng": -81.67624
+  },
+  {
+    "name": "Seville",
+    "country": "US",
+    "lat": 41.01006,
+    "lng": -81.86236
+  },
+  {
+    "name": "Selinsgrove",
+    "country": "US",
+    "lat": 40.79897,
+    "lng": -76.86219
+  },
+  {
+    "name": "Sellersville",
+    "country": "US",
+    "lat": 40.35399,
+    "lng": -75.3049
+  },
+  {
+    "name": "Seneca",
+    "country": "US",
+    "lat": 41.37867,
+    "lng": -79.70394
+  },
+  {
+    "name": "Seven Fields",
+    "country": "US",
+    "lat": 40.69173,
+    "lng": -80.06256
+  },
+  {
+    "name": "Sewickley",
+    "country": "US",
+    "lat": 40.53646,
+    "lng": -80.1845
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 44.82663,
+    "lng": -91.43127
+  },
+  {
+    "name": "Seymour",
+    "country": "US",
+    "lat": 44.51499,
+    "lng": -88.33038
+  },
+  {
+    "name": "Sedona",
+    "country": "US",
+    "lat": 34.86974,
+    "lng": -111.76099
+  },
+  {
+    "name": "Sells",
+    "country": "US",
+    "lat": 31.91202,
+    "lng": -111.88123
+  },
+  {
+    "name": "Sea Ranch",
+    "country": "US",
+    "lat": 38.71519,
+    "lng": -123.45445
+  },
+  {
+    "name": "Seacliff",
+    "country": "US",
+    "lat": 36.97412,
+    "lng": -121.91579
+  },
+  {
+    "name": "Seal Beach",
+    "country": "US",
+    "lat": 33.74141,
+    "lng": -118.10479
+  },
+  {
+    "name": "Searles Valley",
+    "country": "US",
+    "lat": 35.76745,
+    "lng": -117.40395
+  },
+  {
+    "name": "Seaside",
+    "country": "US",
+    "lat": 36.61107,
+    "lng": -121.85162
+  },
+  {
+    "name": "Sebastopol",
+    "country": "US",
+    "lat": 38.40214,
+    "lng": -122.82388
+  },
+  {
+    "name": "Sedco Hills",
+    "country": "US",
+    "lat": 33.64169,
+    "lng": -117.29087
+  },
+  {
+    "name": "Seeley",
+    "country": "US",
+    "lat": 32.79311,
+    "lng": -115.69111
+  },
+  {
+    "name": "Selma",
+    "country": "US",
+    "lat": 36.57078,
+    "lng": -119.61208
+  },
+  {
+    "name": "Seven Trees",
+    "country": "US",
+    "lat": 37.28605,
+    "lng": -121.83856
+  },
+  {
+    "name": "Seagraves",
+    "country": "US",
+    "lat": 32.94427,
+    "lng": -102.56491
+  },
+  {
+    "name": "Seminole",
+    "country": "US",
+    "lat": 32.71899,
+    "lng": -102.64491
+  },
+  {
+    "name": "Seth Ward",
+    "country": "US",
+    "lat": 34.21174,
+    "lng": -101.69017
+  },
+  {
+    "name": "Severance",
+    "country": "US",
+    "lat": 40.52415,
+    "lng": -104.85108
+  },
+  {
+    "name": "Seeley Lake",
+    "country": "US",
+    "lat": 47.17938,
+    "lng": -113.48452
+  },
+  {
+    "name": "Seaside",
+    "country": "US",
+    "lat": 45.99316,
+    "lng": -123.92264
+  },
+  {
+    "name": "Selby",
+    "country": "US",
+    "lat": 45.50638,
+    "lng": -100.03207
+  },
+  {
+    "name": "SeaTac",
+    "country": "US",
+    "lat": 47.44846,
+    "lng": -122.29217
+  },
+  {
+    "name": "Seabeck",
+    "country": "US",
+    "lat": 47.63954,
+    "lng": -122.82849
+  },
+  {
+    "name": "Seattle",
+    "country": "US",
+    "lat": 47.60621,
+    "lng": -122.33207
+  },
+  {
+    "name": "Sedro-Woolley",
+    "country": "US",
+    "lat": 48.50389,
+    "lng": -122.23611
+  },
+  {
+    "name": "Selah",
+    "country": "US",
+    "lat": 46.65402,
+    "lng": -120.53007
+  },
+  {
+    "name": "Sequim",
+    "country": "US",
+    "lat": 48.07963,
+    "lng": -123.10234
+  },
+  {
+    "name": "Seward",
+    "country": "US",
+    "lat": 60.10426,
+    "lng": -149.4435
+  },
+  {
+    "name": "Setauket-East Setauket",
+    "country": "US",
+    "lat": 40.93064,
+    "lng": -73.10179
+  },
+  {
+    "name": "Selmont-West Selmont",
+    "country": "US",
+    "lat": 32.37843,
+    "lng": -87.0074
+  },
+  {
+    "name": "Security-Widefield",
+    "country": "US",
+    "lat": 38.74728,
+    "lng": -104.71439
+  },
+  {
+    "name": "Seton Hill",
+    "country": "US",
+    "lat": 39.29672,
+    "lng": -76.6237
+  },
+  {
+    "name": "Sergeli",
+    "country": "UZ",
+    "lat": 41.19833,
+    "lng": 69.22222
+  },
+  {
+    "name": "Seboruco",
+    "country": "VE",
+    "lat": 8.14514,
+    "lng": -72.07332
+  },
+  {
+    "name": "Sezela",
+    "country": "ZA",
+    "lat": -30.40605,
+    "lng": 30.68094
+  },
+  {
+    "name": "Seymour",
+    "country": "ZA",
+    "lat": -32.55571,
+    "lng": 26.76534
+  },
+  {
+    "name": "Senekal",
+    "country": "ZA",
+    "lat": -28.31971,
+    "lng": 27.62082
+  },
+  {
+    "name": "Sedgefield",
+    "country": "ZA",
+    "lat": -34.0211,
+    "lng": 22.8055
+  },
+  {
+    "name": "Secunda",
+    "country": "ZA",
+    "lat": -26.55,
+    "lng": 29.16667
+  },
+  {
+    "name": "Sebayeng",
+    "country": "ZA",
+    "lat": -23.75827,
+    "lng": 29.66707
+  },
+  {
+    "name": "Seberuberung",
+    "country": "ZA",
+    "lat": -26.41447,
+    "lng": 27.6991
+  },
+  {
+    "name": "Senwamokgope",
+    "country": "ZA",
+    "lat": -23.40924,
+    "lng": 30.16038
+  },
+  {
+    "name": "Seville B",
+    "country": "ZA",
+    "lat": -24.67663,
+    "lng": 31.44538
+  },
+  {
+    "name": "Sekrepeng",
+    "country": "ZA",
+    "lat": -24.96414,
+    "lng": 31.09429
+  },
+  {
+    "name": "Sesheke",
+    "country": "ZM",
+    "lat": -17.47593,
+    "lng": 24.29684
+  },
+  {
+    "name": "Serenje",
+    "country": "ZM",
+    "lat": -13.23251,
+    "lng": 30.23522
+  },
+  {
+    "name": "Senanga",
+    "country": "ZM",
+    "lat": -16.11667,
+    "lng": 23.26667
+  }
+]

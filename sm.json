@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Smithfield",
+    "country": "AU",
+    "lat": -34.68333,
+    "lng": 138.68333
+  },
+  {
+    "name": "Smythesdale",
+    "country": "AU",
+    "lat": -37.64308,
+    "lng": 143.68617
+  },
+  {
+    "name": "Smythes Creek",
+    "country": "AU",
+    "lat": -37.6,
+    "lng": 143.78333
+  },
+  {
+    "name": "Smithton",
+    "country": "AU",
+    "lat": -40.84587,
+    "lng": 145.12498
+  },
+  {
+    "name": "Smithfield",
+    "country": "AU",
+    "lat": -33.85,
+    "lng": 150.93333
+  },
+  {
+    "name": "Smiths Lake",
+    "country": "AU",
+    "lat": -32.38043,
+    "lng": 152.50337
+  },
+  {
+    "name": "Smithfield Plains",
+    "country": "AU",
+    "lat": -34.67643,
+    "lng": 138.67785
+  },
+  {
+    "name": "Smetlede",
+    "country": "BE",
+    "lat": 50.9662,
+    "lng": 3.92796
+  },
+  {
+    "name": "Smyadovo",
+    "country": "BG",
+    "lat": 43.06667,
+    "lng": 27.01667
+  },
+  {
+    "name": "Smolyan",
+    "country": "BG",
+    "lat": 41.57439,
+    "lng": 24.71204
+  },
+  {
+    "name": "Smith's Parish",
+    "country": "BM",
+    "lat": 32.31389,
+    "lng": -64.73897
+  },
+  {
+    "name": "Smarhoń",
+    "country": "BY",
+    "lat": 54.4798,
+    "lng": 26.3957
+  },
+  {
+    "name": "Smaliavičy",
+    "country": "BY",
+    "lat": 54.0249,
+    "lng": 28.0894
+  },
+  {
+    "name": "Smilavičy",
+    "country": "BY",
+    "lat": 53.7496,
+    "lng": 28.0115
+  },
+  {
+    "name": "Smithers",
+    "country": "CA",
+    "lat": 54.78036,
+    "lng": -127.17428
+  },
+  {
+    "name": "Smiths Falls",
+    "country": "CA",
+    "lat": 44.90452,
+    "lng": -76.02333
+  },
+  {
+    "name": "Smoky Lake",
+    "country": "CA",
+    "lat": 54.11687,
+    "lng": -112.46863
+  },
+  {
+    "name": "Smooth Rock Falls",
+    "country": "CA",
+    "lat": 49.28349,
+    "lng": -81.63307
+  },
+  {
+    "name": "Smith Creek",
+    "country": "CA",
+    "lat": 49.85299,
+    "lng": -119.62004
+  },
+  {
+    "name": "Smržovka",
+    "country": "CZ",
+    "lat": 50.7382,
+    "lng": 15.24639
+  },
+  {
+    "name": "Smržice",
+    "country": "CZ",
+    "lat": 49.50569,
+    "lng": 17.10698
+  },
+  {
+    "name": "Smiřice",
+    "country": "CZ",
+    "lat": 50.29978,
+    "lng": 15.86508
+  },
+  {
+    "name": "Smidary",
+    "country": "CZ",
+    "lat": 50.29146,
+    "lng": 15.47725
+  },
+  {
+    "name": "Smíchov",
+    "country": "CZ",
+    "lat": 50.07204,
+    "lng": 14.40415
+  },
+  {
+    "name": "Smečno",
+    "country": "CZ",
+    "lat": 50.18844,
+    "lng": 14.04037
+  },
+  {
+    "name": "Smørumnedre",
+    "country": "DK",
+    "lat": 55.74232,
+    "lng": 12.30276
+  },
+  {
+    "name": "Smala",
+    "country": "DZ",
+    "lat": 35.71652,
+    "lng": 0.75437
+  },
+  {
+    "name": "Smedsby",
+    "country": "FI",
+    "lat": 63.11667,
+    "lng": 21.7
+  },
+  {
+    "name": "Smarves",
+    "country": "FR",
+    "lat": 46.5113,
+    "lng": 0.35007
+  },
+  {
+    "name": "Smethwick",
+    "country": "GB",
+    "lat": 52.49268,
+    "lng": -1.96745
+  },
+  {
+    "name": "Smithton",
+    "country": "GB",
+    "lat": 57.47956,
+    "lng": -4.15141
+  },
+  {
+    "name": "Smínthi",
+    "country": "GR",
+    "lat": 41.23064,
+    "lng": 24.88
+  },
+  {
+    "name": "Smokvica",
+    "country": "HR",
+    "lat": 42.93056,
+    "lng": 16.89639
+  },
+  {
+    "name": "Smarano",
+    "country": "IT",
+    "lat": 46.34311,
+    "lng": 11.10977
+  },
+  {
+    "name": "Smerillo",
+    "country": "IT",
+    "lat": 43.00515,
+    "lng": 13.44498
+  },
+  {
+    "name": "Smach Mean Chey",
+    "country": "KH",
+    "lat": 11.54665,
+    "lng": 103.03569
+  },
+  {
+    "name": "Smirnovo",
+    "country": "KZ",
+    "lat": 54.5148,
+    "lng": 69.42732
+  },
+  {
+    "name": "Smiltene",
+    "country": "LV",
+    "lat": 57.42444,
+    "lng": 25.90164
+  },
+  {
+    "name": "Smārde",
+    "country": "LV",
+    "lat": 56.9542,
+    "lng": 23.33736
+  },
+  {
+    "name": "Smara",
+    "country": "MA",
+    "lat": 26.73841,
+    "lng": -11.67194
+  },
+  {
+    "name": "Smimou",
+    "country": "MA",
+    "lat": 31.21014,
+    "lng": -9.70863
+  },
+  {
+    "name": "Smyków",
+    "country": "PL",
+    "lat": 51.04442,
+    "lng": 20.40032
+  },
+  {
+    "name": "Smęgorzów",
+    "country": "PL",
+    "lat": 50.22843,
+    "lng": 21.00414
+  },
+  {
+    "name": "Smolec",
+    "country": "PL",
+    "lat": 51.07322,
+    "lng": 16.88221
+  },
+  {
+    "name": "Smołdzino",
+    "country": "PL",
+    "lat": 54.66318,
+    "lng": 17.21369
+  },
+  {
+    "name": "Smętowo Graniczne",
+    "country": "PL",
+    "lat": 53.74638,
+    "lng": 18.68586
+  },
+  {
+    "name": "Smulţi",
+    "country": "RO",
+    "lat": 45.93333,
+    "lng": 27.75
+  },
+  {
+    "name": "Smirna",
+    "country": "RO",
+    "lat": 44.72405,
+    "lng": 27.35478
+  },
+  {
+    "name": "Smârdioasa",
+    "country": "RO",
+    "lat": 43.85,
+    "lng": 25.43333
+  },
+  {
+    "name": "Smârdan",
+    "country": "RO",
+    "lat": 45.48333,
+    "lng": 27.93333
+  },
+  {
+    "name": "Smârdan",
+    "country": "RO",
+    "lat": 43.93382,
+    "lng": 22.96592
+  },
+  {
+    "name": "Smeeni",
+    "country": "RO",
+    "lat": 44.98333,
+    "lng": 26.85
+  },
+  {
+    "name": "Smârdan",
+    "country": "RO",
+    "lat": 45.2867,
+    "lng": 28.00368
+  },
+  {
+    "name": "Smederevska Palanka",
+    "country": "RS",
+    "lat": 44.36548,
+    "lng": 20.95885
+  },
+  {
+    "name": "Smederevo",
+    "country": "RS",
+    "lat": 44.66436,
+    "lng": 20.92763
+  },
+  {
+    "name": "Smyshlyayevka",
+    "country": "RU",
+    "lat": 53.23913,
+    "lng": 50.39072
+  },
+  {
+    "name": "Smolino",
+    "country": "RU",
+    "lat": 56.27526,
+    "lng": 43.09109
+  },
+  {
+    "name": "Smolenskaya",
+    "country": "RU",
+    "lat": 44.78636,
+    "lng": 38.80333
+  },
+  {
+    "name": "Smolensk",
+    "country": "RU",
+    "lat": 54.77826,
+    "lng": 32.05088
+  },
+  {
+    "name": "Smolenskoye",
+    "country": "RU",
+    "lat": 52.30358,
+    "lng": 85.07597
+  },
+  {
+    "name": "Smolyaninovo",
+    "country": "RU",
+    "lat": 43.28685,
+    "lng": 132.45494
+  },
+  {
+    "name": "Smolenshchina",
+    "country": "RU",
+    "lat": 52.2563,
+    "lng": 104.123
+  },
+  {
+    "name": "Smolenka",
+    "country": "RU",
+    "lat": 52.13523,
+    "lng": 113.4974
+  },
+  {
+    "name": "Smidovich",
+    "country": "RU",
+    "lat": 48.59434,
+    "lng": 133.81029
+  },
+  {
+    "name": "Smirnykh",
+    "country": "RU",
+    "lat": 49.74425,
+    "lng": 142.83441
+  },
+  {
+    "name": "Smygehamn",
+    "country": "SE",
+    "lat": 55.34337,
+    "lng": 13.36989
+  },
+  {
+    "name": "Smögen",
+    "country": "SE",
+    "lat": 58.35593,
+    "lng": 11.22411
+  },
+  {
+    "name": "Smedjebacken",
+    "country": "SE",
+    "lat": 60.14181,
+    "lng": 15.41416
+  },
+  {
+    "name": "Smedby",
+    "country": "SE",
+    "lat": 60.7,
+    "lng": 15.05
+  },
+  {
+    "name": "Smedby",
+    "country": "SE",
+    "lat": 56.67413,
+    "lng": 16.2432
+  },
+  {
+    "name": "Smålandsstenar",
+    "country": "SE",
+    "lat": 57.16241,
+    "lng": 13.41212
+  },
+  {
+    "name": "Smižany",
+    "country": "SK",
+    "lat": 48.95446,
+    "lng": 20.52341
+  },
+  {
+    "name": "Smolenice",
+    "country": "SK",
+    "lat": 48.50478,
+    "lng": 17.43067
+  },
+  {
+    "name": "Smotrych",
+    "country": "UA",
+    "lat": 48.94707,
+    "lng": 26.5586
+  },
+  {
+    "name": "Smoline",
+    "country": "UA",
+    "lat": 48.60127,
+    "lng": 31.31292
+  },
+  {
+    "name": "Smila",
+    "country": "UA",
+    "lat": 49.23295,
+    "lng": 31.88427
+  },
+  {
+    "name": "Smyha",
+    "country": "UA",
+    "lat": 50.2391,
+    "lng": 25.76575
+  },
+  {
+    "name": "Smotrych",
+    "country": "UA",
+    "lat": 48.66149,
+    "lng": 26.56031
+  },
+  {
+    "name": "Smiths Station",
+    "country": "US",
+    "lat": 32.54014,
+    "lng": -85.09855
+  },
+  {
+    "name": "Smoke Rise",
+    "country": "US",
+    "lat": 33.89177,
+    "lng": -86.82027
+  },
+  {
+    "name": "Smackover",
+    "country": "US",
+    "lat": 33.36485,
+    "lng": -92.72488
+  },
+  {
+    "name": "Smyrna",
+    "country": "US",
+    "lat": 39.29983,
+    "lng": -75.60465
+  },
+  {
+    "name": "Smyrna",
+    "country": "US",
+    "lat": 33.88399,
+    "lng": -84.51438
+  },
+  {
+    "name": "Smithton",
+    "country": "US",
+    "lat": 38.40866,
+    "lng": -89.99205
+  },
+  {
+    "name": "Smith Center",
+    "country": "US",
+    "lat": 39.77918,
+    "lng": -98.78507
+  },
+  {
+    "name": "Smithland",
+    "country": "US",
+    "lat": 37.13894,
+    "lng": -88.40337
+  },
+  {
+    "name": "Smithsburg",
+    "country": "US",
+    "lat": 39.65482,
+    "lng": -77.57277
+  },
+  {
+    "name": "Smithville",
+    "country": "US",
+    "lat": 39.38694,
+    "lng": -94.58107
+  },
+  {
+    "name": "Smithfield",
+    "country": "US",
+    "lat": 35.50849,
+    "lng": -78.33945
+  },
+  {
+    "name": "Smithville",
+    "country": "US",
+    "lat": 39.49401,
+    "lng": -74.45709
+  },
+  {
+    "name": "Smithville",
+    "country": "US",
+    "lat": 35.96062,
+    "lng": -85.81415
+  },
+  {
+    "name": "Smyrna",
+    "country": "US",
+    "lat": 35.98284,
+    "lng": -86.5186
+  },
+  {
+    "name": "Smithville",
+    "country": "US",
+    "lat": 30.00855,
+    "lng": -97.15943
+  },
+  {
+    "name": "Smithfield",
+    "country": "US",
+    "lat": 36.98237,
+    "lng": -76.63107
+  },
+  {
+    "name": "Smith Mills",
+    "country": "US",
+    "lat": 41.63899,
+    "lng": -70.99115
+  },
+  {
+    "name": "Smithtown",
+    "country": "US",
+    "lat": 40.85593,
+    "lng": -73.20067
+  },
+  {
+    "name": "Smithville",
+    "country": "US",
+    "lat": 40.86228,
+    "lng": -81.8618
+  },
+  {
+    "name": "Smethport",
+    "country": "US",
+    "lat": 41.81117,
+    "lng": -78.44474
+  },
+  {
+    "name": "Smithfield",
+    "country": "US",
+    "lat": 41.92204,
+    "lng": -71.54951
+  },
+  {
+    "name": "Smith",
+    "country": "US",
+    "lat": 38.80047,
+    "lng": -119.32738
+  },
+  {
+    "name": "Smithfield",
+    "country": "US",
+    "lat": 41.83826,
+    "lng": -111.83272
+  },
+  {
+    "name": "Smokey Point",
+    "country": "US",
+    "lat": 48.15232,
+    "lng": -122.18264
+  },
+  {
+    "name": "Smith Valley",
+    "country": "US",
+    "lat": 38.78421,
+    "lng": -119.34425
+  },
+  {
+    "name": "Smithville-Sanders",
+    "country": "US",
+    "lat": 39.05969,
+    "lng": -86.51077
+  },
+  {
+    "name": "Smithfield",
+    "country": "ZA",
+    "lat": -30.21366,
+    "lng": 26.5307
+  }
+]

@@ -1,0 +1,7238 @@
+[
+  {
+    "name": "Siyāhgird",
+    "country": "AF",
+    "lat": 35.00553,
+    "lng": 68.85578
+  },
+  {
+    "name": "Sidqābād",
+    "country": "AF",
+    "lat": 35.02298,
+    "lng": 69.35112
+  },
+  {
+    "name": "Sinjë",
+    "country": "AL",
+    "lat": 40.64679,
+    "lng": 19.86924
+  },
+  {
+    "name": "Sinaballaj",
+    "country": "AL",
+    "lat": 41.06889,
+    "lng": 19.69944
+  },
+  {
+    "name": "Sisian",
+    "country": "AM",
+    "lat": 39.52191,
+    "lng": 46.02696
+  },
+  {
+    "name": "Sisavan",
+    "country": "AM",
+    "lat": 39.90802,
+    "lng": 44.66721
+  },
+  {
+    "name": "Sis",
+    "country": "AM",
+    "lat": 40.05829,
+    "lng": 44.38892
+  },
+  {
+    "name": "Simoca",
+    "country": "AR",
+    "lat": -27.2629,
+    "lng": -65.35792
+  },
+  {
+    "name": "Sierra Grande",
+    "country": "AR",
+    "lat": -41.60546,
+    "lng": -65.35702
+  },
+  {
+    "name": "Sierra Colorada",
+    "country": "AR",
+    "lat": -40.58575,
+    "lng": -67.75725
+  },
+  {
+    "name": "Sitzendorf an der Schmida",
+    "country": "AT",
+    "lat": 48.59841,
+    "lng": 15.94254
+  },
+  {
+    "name": "Sittersdorf",
+    "country": "AT",
+    "lat": 46.54444,
+    "lng": 14.60583
+  },
+  {
+    "name": "Sistrans",
+    "country": "AT",
+    "lat": 47.23333,
+    "lng": 11.45
+  },
+  {
+    "name": "Sinabelkirchen",
+    "country": "AT",
+    "lat": 47.102,
+    "lng": 15.82795
+  },
+  {
+    "name": "Simmering",
+    "country": "AT",
+    "lat": 48.18333,
+    "lng": 16.43333
+  },
+  {
+    "name": "Silz",
+    "country": "AT",
+    "lat": 47.26667,
+    "lng": 10.93333
+  },
+  {
+    "name": "Sillian",
+    "country": "AT",
+    "lat": 46.75278,
+    "lng": 12.42111
+  },
+  {
+    "name": "Silbertal",
+    "country": "AT",
+    "lat": 47.09368,
+    "lng": 9.98314
+  },
+  {
+    "name": "Sigmundsherberg",
+    "country": "AT",
+    "lat": 48.68333,
+    "lng": 15.75
+  },
+  {
+    "name": "Sigless",
+    "country": "AT",
+    "lat": 47.77533,
+    "lng": 16.39503
+  },
+  {
+    "name": "Siezenheim",
+    "country": "AT",
+    "lat": 47.81529,
+    "lng": 12.99039
+  },
+  {
+    "name": "Sierning",
+    "country": "AT",
+    "lat": 48.04343,
+    "lng": 14.30935
+  },
+  {
+    "name": "Sierndorf",
+    "country": "AT",
+    "lat": 48.43024,
+    "lng": 16.16658
+  },
+  {
+    "name": "Sieghartskirchen",
+    "country": "AT",
+    "lat": 48.25531,
+    "lng": 16.01223
+  },
+  {
+    "name": "Sieggraben",
+    "country": "AT",
+    "lat": 47.65128,
+    "lng": 16.37993
+  },
+  {
+    "name": "Siegersdorf bei Herberstein",
+    "country": "AT",
+    "lat": 47.2,
+    "lng": 15.78333
+  },
+  {
+    "name": "Siegendorf im Burgenland",
+    "country": "AT",
+    "lat": 47.78098,
+    "lng": 16.54232
+  },
+  {
+    "name": "Sibratsgfäll",
+    "country": "AT",
+    "lat": 47.42667,
+    "lng": 10.03806
+  },
+  {
+    "name": "Singleton",
+    "country": "AU",
+    "lat": -32.56742,
+    "lng": 151.16603
+  },
+  {
+    "name": "Silvan",
+    "country": "AU",
+    "lat": -37.81667,
+    "lng": 145.41667
+  },
+  {
+    "name": "Silkstone",
+    "country": "AU",
+    "lat": -27.62126,
+    "lng": 152.78768
+  },
+  {
+    "name": "Silverdale",
+    "country": "AU",
+    "lat": -33.9152,
+    "lng": 150.6096
+  },
+  {
+    "name": "Sippy Downs",
+    "country": "AU",
+    "lat": -26.71793,
+    "lng": 153.05475
+  },
+  {
+    "name": "Silverwater",
+    "country": "AU",
+    "lat": -33.83343,
+    "lng": 151.04731
+  },
+  {
+    "name": "Singleton",
+    "country": "AU",
+    "lat": -32.44403,
+    "lng": 115.75725
+  },
+  {
+    "name": "Sinagra",
+    "country": "AU",
+    "lat": -31.74261,
+    "lng": 115.80633
+  },
+  {
+    "name": "Silver Sands",
+    "country": "AU",
+    "lat": -32.50857,
+    "lng": 115.73599
+  },
+  {
+    "name": "Sinnamon Park",
+    "country": "AU",
+    "lat": -27.54436,
+    "lng": 152.9489
+  },
+  {
+    "name": "Singleton Heights",
+    "country": "AU",
+    "lat": -32.5416,
+    "lng": 151.16089
+  },
+  {
+    "name": "Six Cross Roads",
+    "country": "BB",
+    "lat": 13.11772,
+    "lng": -59.477
+  },
+  {
+    "name": "Sirajganj",
+    "country": "BD",
+    "lat": 24.45771,
+    "lng": 89.70802
+  },
+  {
+    "name": "Singārbīl",
+    "country": "BD",
+    "lat": 23.90704,
+    "lng": 91.21707
+  },
+  {
+    "name": "Singair",
+    "country": "BD",
+    "lat": 23.78771,
+    "lng": 90.16472
+  },
+  {
+    "name": "Sivry",
+    "country": "BE",
+    "lat": 50.1664,
+    "lng": 4.18416
+  },
+  {
+    "name": "Sirault",
+    "country": "BE",
+    "lat": 50.50546,
+    "lng": 3.78908
+  },
+  {
+    "name": "Sint-Ulriks-Kapelle",
+    "country": "BE",
+    "lat": 50.87899,
+    "lng": 4.21884
+  },
+  {
+    "name": "Sint-Truiden",
+    "country": "BE",
+    "lat": 50.81679,
+    "lng": 5.18647
+  },
+  {
+    "name": "Sint-Stevens-Woluwe",
+    "country": "BE",
+    "lat": 50.86838,
+    "lng": 4.45195
+  },
+  {
+    "name": "Sint-Pieters-Rode",
+    "country": "BE",
+    "lat": 50.93247,
+    "lng": 4.82245
+  },
+  {
+    "name": "Sint-Pieters-Leeuw",
+    "country": "BE",
+    "lat": 50.77926,
+    "lng": 4.24355
+  },
+  {
+    "name": "Sint-Pieters-Kapelle",
+    "country": "BE",
+    "lat": 50.70758,
+    "lng": 3.98999
+  },
+  {
+    "name": "Sint-Pauwels",
+    "country": "BE",
+    "lat": 51.19391,
+    "lng": 4.09649
+  },
+  {
+    "name": "Sint-Niklaas",
+    "country": "BE",
+    "lat": 51.16509,
+    "lng": 4.1437
+  },
+  {
+    "name": "Sint-Michiels",
+    "country": "BE",
+    "lat": 51.18806,
+    "lng": 3.21142
+  },
+  {
+    "name": "Sint-Martens-Lierde",
+    "country": "BE",
+    "lat": 50.80371,
+    "lng": 3.82541
+  },
+  {
+    "name": "Sint-Martens-Lennik",
+    "country": "BE",
+    "lat": 50.81158,
+    "lng": 4.16965
+  },
+  {
+    "name": "Sint-Martens-Leerne",
+    "country": "BE",
+    "lat": 51.01605,
+    "lng": 3.5813
+  },
+  {
+    "name": "Sint-Martens-Latem",
+    "country": "BE",
+    "lat": 51.01459,
+    "lng": 3.63779
+  },
+  {
+    "name": "Sint-Martens-Bodegem",
+    "country": "BE",
+    "lat": 50.86185,
+    "lng": 4.21317
+  },
+  {
+    "name": "Sint-Martens",
+    "country": "BE",
+    "lat": 50.83889,
+    "lng": 4.92436
+  },
+  {
+    "name": "Sint-Maria-Oudenhove",
+    "country": "BE",
+    "lat": 50.83364,
+    "lng": 3.79556
+  },
+  {
+    "name": "Sint-Maria-Lierde",
+    "country": "BE",
+    "lat": 50.81867,
+    "lng": 3.84436
+  },
+  {
+    "name": "Sint-Maria-Horebeke",
+    "country": "BE",
+    "lat": 50.83885,
+    "lng": 3.68754
+  },
+  {
+    "name": "Sint-Lievens-Houtem",
+    "country": "BE",
+    "lat": 50.9197,
+    "lng": 3.86225
+  },
+  {
+    "name": "Sint-Lievens-Esse",
+    "country": "BE",
+    "lat": 50.8566,
+    "lng": 3.88792
+  },
+  {
+    "name": "Sint-Lenaarts",
+    "country": "BE",
+    "lat": 51.34868,
+    "lng": 4.68009
+  },
+  {
+    "name": "Sint-Laureins",
+    "country": "BE",
+    "lat": 51.24202,
+    "lng": 3.52441
+  },
+  {
+    "name": "Sint-Lambrechts-Herk",
+    "country": "BE",
+    "lat": 50.89914,
+    "lng": 5.30786
+  },
+  {
+    "name": "Sint-Kwintens-Lennik",
+    "country": "BE",
+    "lat": 50.80377,
+    "lng": 4.15489
+  },
+  {
+    "name": "Sint-Kruis",
+    "country": "BE",
+    "lat": 51.21399,
+    "lng": 3.24949
+  },
+  {
+    "name": "Sint-Katherina-Lombeek",
+    "country": "BE",
+    "lat": 50.87314,
+    "lng": 4.1536
+  },
+  {
+    "name": "Sint-Katelijne-Waver",
+    "country": "BE",
+    "lat": 51.06691,
+    "lng": 4.53469
+  },
+  {
+    "name": "Sint-Joris-Winge",
+    "country": "BE",
+    "lat": 50.90446,
+    "lng": 4.8749
+  },
+  {
+    "name": "Sint-Joris-Weert",
+    "country": "BE",
+    "lat": 50.80235,
+    "lng": 4.6526
+  },
+  {
+    "name": "Sint-Joris",
+    "country": "BE",
+    "lat": 51.12663,
+    "lng": 3.36524
+  },
+  {
+    "name": "Sint-Job-in-'t-Goor",
+    "country": "BE",
+    "lat": 51.29907,
+    "lng": 4.57289
+  },
+  {
+    "name": "Sint-Jan-in-Eremo",
+    "country": "BE",
+    "lat": 51.27161,
+    "lng": 3.58062
+  },
+  {
+    "name": "Sint-Jan",
+    "country": "BE",
+    "lat": 50.86503,
+    "lng": 2.90478
+  },
+  {
+    "name": "Sint-Huibrechts-Lille",
+    "country": "BE",
+    "lat": 51.22266,
+    "lng": 5.49437
+  },
+  {
+    "name": "Sint-Gillis-Waas",
+    "country": "BE",
+    "lat": 51.21914,
+    "lng": 4.12374
+  },
+  {
+    "name": "Sint-Gillis-bij-Dendermonde",
+    "country": "BE",
+    "lat": 51.01905,
+    "lng": 4.11146
+  },
+  {
+    "name": "Sint-Genesius-Rode",
+    "country": "BE",
+    "lat": 50.74645,
+    "lng": 4.35754
+  },
+  {
+    "name": "Sint-Eloois-Winkel",
+    "country": "BE",
+    "lat": 50.87591,
+    "lng": 3.18144
+  },
+  {
+    "name": "Sint-Eloois-Vijve",
+    "country": "BE",
+    "lat": 50.90911,
+    "lng": 3.41545
+  },
+  {
+    "name": "Sint-Denijs-Westrem",
+    "country": "BE",
+    "lat": 51.02135,
+    "lng": 3.67202
+  },
+  {
+    "name": "Sint-Denijs",
+    "country": "BE",
+    "lat": 50.75198,
+    "lng": 3.36627
+  },
+  {
+    "name": "Sint-Baafs-Vijve",
+    "country": "BE",
+    "lat": 50.9,
+    "lng": 3.38333
+  },
+  {
+    "name": "Sint-Antonius",
+    "country": "BE",
+    "lat": 51.26667,
+    "lng": 4.63861
+  },
+  {
+    "name": "Sint-Andries",
+    "country": "BE",
+    "lat": 51.19696,
+    "lng": 3.17891
+  },
+  {
+    "name": "Sint-Amandsberg",
+    "country": "BE",
+    "lat": 51.05947,
+    "lng": 3.74943
+  },
+  {
+    "name": "Sint-Amands",
+    "country": "BE",
+    "lat": 51.05645,
+    "lng": 4.20957
+  },
+  {
+    "name": "Sint-Agatha-Rode",
+    "country": "BE",
+    "lat": 50.78597,
+    "lng": 4.63099
+  },
+  {
+    "name": "Sinaai",
+    "country": "BE",
+    "lat": 51.15789,
+    "lng": 4.04087
+  },
+  {
+    "name": "Silly",
+    "country": "BE",
+    "lat": 50.64877,
+    "lng": 3.92363
+  },
+  {
+    "name": "Sijsele",
+    "country": "BE",
+    "lat": 51.20846,
+    "lng": 3.31714
+  },
+  {
+    "name": "Sibret",
+    "country": "BE",
+    "lat": 49.97073,
+    "lng": 5.63453
+  },
+  {
+    "name": "Sint-Pieters-Voeren",
+    "country": "BE",
+    "lat": 50.73863,
+    "lng": 5.82224
+  },
+  {
+    "name": "Sint-Joris",
+    "country": "BE",
+    "lat": 50.87117,
+    "lng": 5.272
+  },
+  {
+    "name": "Sindou",
+    "country": "BF",
+    "lat": 10.66667,
+    "lng": -5.16667
+  },
+  {
+    "name": "Siglé",
+    "country": "BF",
+    "lat": 12.55618,
+    "lng": -1.88775
+  },
+  {
+    "name": "Sitovo",
+    "country": "BG",
+    "lat": 44.0273,
+    "lng": 27.01982
+  },
+  {
+    "name": "Simitli",
+    "country": "BG",
+    "lat": 41.88333,
+    "lng": 23.11667
+  },
+  {
+    "name": "Simeonovgrad",
+    "country": "BG",
+    "lat": 42.03333,
+    "lng": 25.83333
+  },
+  {
+    "name": "Silistra",
+    "country": "BG",
+    "lat": 44.1171,
+    "lng": 27.26056
+  },
+  {
+    "name": "Sitrah",
+    "country": "BH",
+    "lat": 26.15472,
+    "lng": 50.62056
+  },
+  {
+    "name": "Sinendé",
+    "country": "BJ",
+    "lat": 10.34963,
+    "lng": 2.37906
+  },
+  {
+    "name": "Sipe Sipe",
+    "country": "BO",
+    "lat": -17.45419,
+    "lng": -66.35737
+  },
+  {
+    "name": "Sirinhaém",
+    "country": "BR",
+    "lat": -8.59083,
+    "lng": -35.11611
+  },
+  {
+    "name": "Simplício Mendes",
+    "country": "BR",
+    "lat": -7.85389,
+    "lng": -41.91028
+  },
+  {
+    "name": "Simões",
+    "country": "BR",
+    "lat": -7.59889,
+    "lng": -40.81778
+  },
+  {
+    "name": "Silves",
+    "country": "BR",
+    "lat": -2.83889,
+    "lng": -58.20917
+  },
+  {
+    "name": "Siriri",
+    "country": "BR",
+    "lat": -10.60389,
+    "lng": -37.11278
+  },
+  {
+    "name": "Siqueira Campos",
+    "country": "BR",
+    "lat": -23.68889,
+    "lng": -49.83389
+  },
+  {
+    "name": "Sinimbu",
+    "country": "BR",
+    "lat": -29.53861,
+    "lng": -52.52167
+  },
+  {
+    "name": "Simonésia",
+    "country": "BR",
+    "lat": -20.12389,
+    "lng": -42.00139
+  },
+  {
+    "name": "Simão Pereira",
+    "country": "BR",
+    "lat": -21.96361,
+    "lng": -43.31194
+  },
+  {
+    "name": "Simão Dias",
+    "country": "BR",
+    "lat": -10.73833,
+    "lng": -37.81111
+  },
+  {
+    "name": "Silvianópolis",
+    "country": "BR",
+    "lat": -22.02944,
+    "lng": -45.835
+  },
+  {
+    "name": "Silveiras",
+    "country": "BR",
+    "lat": -22.66444,
+    "lng": -44.85278
+  },
+  {
+    "name": "Silveirânia",
+    "country": "BR",
+    "lat": -21.15889,
+    "lng": -43.21528
+  },
+  {
+    "name": "Silveira Martins",
+    "country": "BR",
+    "lat": -29.6425,
+    "lng": -53.58556
+  },
+  {
+    "name": "Silvânia",
+    "country": "BR",
+    "lat": -16.66663,
+    "lng": -48.61252
+  },
+  {
+    "name": "Silva Jardim",
+    "country": "BR",
+    "lat": -22.65083,
+    "lng": -42.39167
+  },
+  {
+    "name": "Sidrolândia",
+    "country": "BR",
+    "lat": -20.93194,
+    "lng": -54.96139
+  },
+  {
+    "name": "Siderópolis",
+    "country": "BR",
+    "lat": -28.59778,
+    "lng": -49.42444
+  },
+  {
+    "name": "Silvanópolis",
+    "country": "BR",
+    "lat": -11.14667,
+    "lng": -48.16917
+  },
+  {
+    "name": "Simões Filho",
+    "country": "BR",
+    "lat": -12.78444,
+    "lng": -38.40389
+  },
+  {
+    "name": "Simolândia",
+    "country": "BR",
+    "lat": -14.47361,
+    "lng": -46.48333
+  },
+  {
+    "name": "Sinop",
+    "country": "BR",
+    "lat": -11.86417,
+    "lng": -55.5025
+  },
+  {
+    "name": "Sigefredo Pacheco",
+    "country": "BR",
+    "lat": -4.91408,
+    "lng": -41.73194
+  },
+  {
+    "name": "Siviya",
+    "country": "BW",
+    "lat": -20.8564,
+    "lng": 27.67437
+  },
+  {
+    "name": "Silk Grass",
+    "country": "BZ",
+    "lat": 16.88333,
+    "lng": -88.33333
+  },
+  {
+    "name": "Sicamous",
+    "country": "CA",
+    "lat": 50.83312,
+    "lng": -118.98565
+  },
+  {
+    "name": "Sidney",
+    "country": "CA",
+    "lat": 48.64964,
+    "lng": -123.40262
+  },
+  {
+    "name": "Simcoe",
+    "country": "CA",
+    "lat": 42.8334,
+    "lng": -80.29967
+  },
+  {
+    "name": "Sioux Lookout",
+    "country": "CA",
+    "lat": 50.06676,
+    "lng": -91.98358
+  },
+  {
+    "name": "Silver Berry",
+    "country": "CA",
+    "lat": 53.45787,
+    "lng": -113.3817
+  },
+  {
+    "name": "Six Mile",
+    "country": "CA",
+    "lat": 48.45767,
+    "lng": -123.46088
+  },
+  {
+    "name": "Sibut",
+    "country": "CF",
+    "lat": 5.71801,
+    "lng": 19.07389
+  },
+  {
+    "name": "Sibiti",
+    "country": "CG",
+    "lat": -3.68192,
+    "lng": 13.34985
+  },
+  {
+    "name": "Sissach",
+    "country": "CH",
+    "lat": 47.46408,
+    "lng": 7.80888
+  },
+  {
+    "name": "Sirnach",
+    "country": "CH",
+    "lat": 47.46222,
+    "lng": 8.99763
+  },
+  {
+    "name": "Sitten",
+    "country": "CH",
+    "lat": 46.22739,
+    "lng": 7.35559
+  },
+  {
+    "name": "Sins",
+    "country": "CH",
+    "lat": 47.19296,
+    "lng": 8.39384
+  },
+  {
+    "name": "Silvaplana",
+    "country": "CH",
+    "lat": 46.4581,
+    "lng": 9.79514
+  },
+  {
+    "name": "Silenen",
+    "country": "CH",
+    "lat": 46.7891,
+    "lng": 8.67325
+  },
+  {
+    "name": "Sigriswil",
+    "country": "CH",
+    "lat": 46.71656,
+    "lng": 7.71335
+  },
+  {
+    "name": "Signau",
+    "country": "CH",
+    "lat": 46.91944,
+    "lng": 7.72418
+  },
+  {
+    "name": "Sierre",
+    "country": "CH",
+    "lat": 46.29192,
+    "lng": 7.53559
+  },
+  {
+    "name": "Siebnen",
+    "country": "CH",
+    "lat": 47.17449,
+    "lng": 8.89781
+  },
+  {
+    "name": "Sitiolo",
+    "country": "CI",
+    "lat": 8.46953,
+    "lng": -4.74776
+  },
+  {
+    "name": "Sissaggué",
+    "country": "CI",
+    "lat": 10.44696,
+    "lng": -6.2169
+  },
+  {
+    "name": "Sissédougou",
+    "country": "CI",
+    "lat": 9.15254,
+    "lng": -6.43902
+  },
+  {
+    "name": "Sirihio",
+    "country": "CI",
+    "lat": 8.39731,
+    "lng": -6.04587
+  },
+  {
+    "name": "Sirédéni",
+    "country": "CI",
+    "lat": 9.14983,
+    "lng": -6.91727
+  },
+  {
+    "name": "Siréba",
+    "country": "CI",
+    "lat": 9.19622,
+    "lng": -6.9517
+  },
+  {
+    "name": "Sirasso",
+    "country": "CI",
+    "lat": 9.27425,
+    "lng": -6.09897
+  },
+  {
+    "name": "Siraodi",
+    "country": "CI",
+    "lat": 8.88491,
+    "lng": -3.06471
+  },
+  {
+    "name": "Sirana",
+    "country": "CI",
+    "lat": 9.42193,
+    "lng": -7.84191
+  },
+  {
+    "name": "Sipilou",
+    "country": "CI",
+    "lat": 7.8645,
+    "lng": -8.10143
+  },
+  {
+    "name": "Sionfan",
+    "country": "CI",
+    "lat": 9.78806,
+    "lng": -6.21024
+  },
+  {
+    "name": "Sioba",
+    "country": "CI",
+    "lat": 7.39714,
+    "lng": -8.14927
+  },
+  {
+    "name": "Sinyéale",
+    "country": "CI",
+    "lat": 7.37318,
+    "lng": -3.06559
+  },
+  {
+    "name": "Sinkaha",
+    "country": "CI",
+    "lat": 8.73065,
+    "lng": -5.42263
+  },
+  {
+    "name": "Singrobo",
+    "country": "CI",
+    "lat": 6.09308,
+    "lng": -4.92094
+  },
+  {
+    "name": "Singo",
+    "country": "CI",
+    "lat": 10.19728,
+    "lng": -6.31208
+  },
+  {
+    "name": "Sinfra",
+    "country": "CI",
+    "lat": 6.62103,
+    "lng": -5.91144
+  },
+  {
+    "name": "Sinématiali",
+    "country": "CI",
+    "lat": 9.5841,
+    "lng": -5.38476
+  },
+  {
+    "name": "Sindéré-Sokoro",
+    "country": "CI",
+    "lat": 8.73043,
+    "lng": -4.76199
+  },
+  {
+    "name": "Sindala",
+    "country": "CI",
+    "lat": 9.09847,
+    "lng": -4.75254
+  },
+  {
+    "name": "Sikolo",
+    "country": "CI",
+    "lat": 9.44248,
+    "lng": -4.71513
+  },
+  {
+    "name": "Sikensi",
+    "country": "CI",
+    "lat": 5.66829,
+    "lng": -4.57371
+  },
+  {
+    "name": "Sika Kouménakro",
+    "country": "CI",
+    "lat": 7.31752,
+    "lng": -3.99512
+  },
+  {
+    "name": "Sifié",
+    "country": "CI",
+    "lat": 7.98139,
+    "lng": -6.92722
+  },
+  {
+    "name": "Siétinfla",
+    "country": "CI",
+    "lat": 6.82764,
+    "lng": -5.73008
+  },
+  {
+    "name": "Sienré",
+    "country": "CI",
+    "lat": 9.81453,
+    "lng": -6.0582
+  },
+  {
+    "name": "Siénandi",
+    "country": "CI",
+    "lat": 7.87233,
+    "lng": -3.56549
+  },
+  {
+    "name": "Siempurgo",
+    "country": "CI",
+    "lat": 9.51953,
+    "lng": -6.19408
+  },
+  {
+    "name": "Siéblo Oula",
+    "country": "CI",
+    "lat": 5.66667,
+    "lng": -7.38333
+  },
+  {
+    "name": "Sibraguhé",
+    "country": "CI",
+    "lat": 6.82206,
+    "lng": -6.65578
+  },
+  {
+    "name": "Sibabli",
+    "country": "CI",
+    "lat": 6.93717,
+    "lng": -7.16392
+  },
+  {
+    "name": "Siata",
+    "country": "CI",
+    "lat": 5.74859,
+    "lng": -5.03759
+  },
+  {
+    "name": "Siahé",
+    "country": "CI",
+    "lat": 4.87857,
+    "lng": -7.48485
+  },
+  {
+    "name": "Siaga",
+    "country": "CI",
+    "lat": 7.94163,
+    "lng": -2.9509
+  },
+  {
+    "name": "Singouiné",
+    "country": "CI",
+    "lat": 7.16088,
+    "lng": -7.88159
+  },
+  {
+    "name": "Siampaho",
+    "country": "CI",
+    "lat": 4.97633,
+    "lng": -6.12171
+  },
+  {
+    "name": "Sinikosson",
+    "country": "CI",
+    "lat": 6.89067,
+    "lng": -3.20754
+  },
+  {
+    "name": "Siakakro",
+    "country": "CI",
+    "lat": 6.91244,
+    "lng": -3.24469
+  },
+  {
+    "name": "Siégouékou",
+    "country": "CI",
+    "lat": 6.34324,
+    "lng": -5.89757
+  },
+  {
+    "name": "Siékro",
+    "country": "CI",
+    "lat": 5.67811,
+    "lng": -4.87961
+  },
+  {
+    "name": "Siébly",
+    "country": "CI",
+    "lat": 7.29532,
+    "lng": -7.22364
+  },
+  {
+    "name": "Sibirinakaha",
+    "country": "CI",
+    "lat": 9.00168,
+    "lng": -6.09215
+  },
+  {
+    "name": "Sibirikaha",
+    "country": "CI",
+    "lat": 9.36135,
+    "lng": -5.42707
+  },
+  {
+    "name": "Silakoro",
+    "country": "CI",
+    "lat": 8.36068,
+    "lng": -6.5794
+  },
+  {
+    "name": "Siriki-Bango",
+    "country": "CI",
+    "lat": 8.35466,
+    "lng": -3.71932
+  },
+  {
+    "name": "Siyalédouo",
+    "country": "CI",
+    "lat": 9.03777,
+    "lng": -3.00497
+  },
+  {
+    "name": "Sishilichengzi",
+    "country": "CN",
+    "lat": 41.96194,
+    "lng": 86.47667
+  },
+  {
+    "name": "Siyang",
+    "country": "CN",
+    "lat": 27.2116,
+    "lng": 108.745
+  },
+  {
+    "name": "Sicheng",
+    "country": "CN",
+    "lat": 33.48936,
+    "lng": 117.85679
+  },
+  {
+    "name": "Sitou",
+    "country": "CN",
+    "lat": 36.31275,
+    "lng": 118.41185
+  },
+  {
+    "name": "Sishui",
+    "country": "CN",
+    "lat": 35.64889,
+    "lng": 117.27583
+  },
+  {
+    "name": "Simenqian",
+    "country": "CN",
+    "lat": 27.48722,
+    "lng": 110.88611
+  },
+  {
+    "name": "Simen",
+    "country": "CN",
+    "lat": 34.62222,
+    "lng": 105.01278
+  },
+  {
+    "name": "Simao",
+    "country": "CN",
+    "lat": 22.78863,
+    "lng": 100.97481
+  },
+  {
+    "name": "Sihu",
+    "country": "CN",
+    "lat": 34.62625,
+    "lng": 117.97139
+  },
+  {
+    "name": "Sigaozhuang",
+    "country": "CN",
+    "lat": 39.46778,
+    "lng": 117.25028
+  },
+  {
+    "name": "Si’en",
+    "country": "CN",
+    "lat": 24.84198,
+    "lng": 108.27162
+  },
+  {
+    "name": "Siping",
+    "country": "CN",
+    "lat": 43.16143,
+    "lng": 124.37785
+  },
+  {
+    "name": "Sifangtai",
+    "country": "CN",
+    "lat": 46.59397,
+    "lng": 131.33045
+  },
+  {
+    "name": "Sitai",
+    "country": "CN",
+    "lat": 33.48641,
+    "lng": 105.61
+  },
+  {
+    "name": "Siyeke",
+    "country": "CN",
+    "lat": 36.88527,
+    "lng": 81.52298
+  },
+  {
+    "name": "Siwei",
+    "country": "CN",
+    "lat": 38.01657,
+    "lng": 114.15328
+  },
+  {
+    "name": "Simianshan",
+    "country": "CN",
+    "lat": 28.65551,
+    "lng": 106.407
+  },
+  {
+    "name": "Sixingyong",
+    "country": "CN",
+    "lat": 22.68511,
+    "lng": 113.78121
+  },
+  {
+    "name": "Sitionuevo",
+    "country": "CO",
+    "lat": 10.77737,
+    "lng": -74.72049
+  },
+  {
+    "name": "Sipí",
+    "country": "CO",
+    "lat": 4.65374,
+    "lng": -76.64442
+  },
+  {
+    "name": "Sincelejo",
+    "country": "CO",
+    "lat": 9.3045,
+    "lng": -75.3905
+  },
+  {
+    "name": "Simití",
+    "country": "CO",
+    "lat": 7.9579,
+    "lng": -73.9436
+  },
+  {
+    "name": "Simijaca",
+    "country": "CO",
+    "lat": 5.50291,
+    "lng": -73.85227
+  },
+  {
+    "name": "Simacota",
+    "country": "CO",
+    "lat": 6.4429,
+    "lng": -73.33688
+  },
+  {
+    "name": "Silvia",
+    "country": "CO",
+    "lat": 2.61557,
+    "lng": -76.38261
+  },
+  {
+    "name": "Silvania",
+    "country": "CO",
+    "lat": 4.40367,
+    "lng": -74.3867
+  },
+  {
+    "name": "Silos",
+    "country": "CO",
+    "lat": 7.20524,
+    "lng": -72.75639
+  },
+  {
+    "name": "Sibundoy",
+    "country": "CO",
+    "lat": 1.20296,
+    "lng": -76.92275
+  },
+  {
+    "name": "Sibaté",
+    "country": "CO",
+    "lat": 4.49154,
+    "lng": -74.25957
+  },
+  {
+    "name": "Siachoque",
+    "country": "CO",
+    "lat": 5.51238,
+    "lng": -73.24436
+  },
+  {
+    "name": "Sixaola",
+    "country": "CR",
+    "lat": 9.50371,
+    "lng": -82.612
+  },
+  {
+    "name": "Siquirres",
+    "country": "CR",
+    "lat": 10.09748,
+    "lng": -83.50659
+  },
+  {
+    "name": "Sibanicú",
+    "country": "CU",
+    "lat": 21.23631,
+    "lng": -77.52561
+  },
+  {
+    "name": "Sint Michiel Liber",
+    "country": "CW",
+    "lat": 12.15,
+    "lng": -68.98333
+  },
+  {
+    "name": "Sitzendorf",
+    "country": "DE",
+    "lat": 50.63182,
+    "lng": 11.17215
+  },
+  {
+    "name": "Sittensen",
+    "country": "DE",
+    "lat": 53.27615,
+    "lng": 9.50429
+  },
+  {
+    "name": "Sipplingen",
+    "country": "DE",
+    "lat": 47.79678,
+    "lng": 9.09737
+  },
+  {
+    "name": "Sippersfeld",
+    "country": "DE",
+    "lat": 49.55,
+    "lng": 7.93333
+  },
+  {
+    "name": "Sinzing",
+    "country": "DE",
+    "lat": 49.0,
+    "lng": 12.03333
+  },
+  {
+    "name": "Sinzig",
+    "country": "DE",
+    "lat": 50.54384,
+    "lng": 7.24639
+  },
+  {
+    "name": "Sinzheim",
+    "country": "DE",
+    "lat": 48.76667,
+    "lng": 8.16667
+  },
+  {
+    "name": "Sinsheim",
+    "country": "DE",
+    "lat": 49.2529,
+    "lng": 8.87867
+  },
+  {
+    "name": "Sinnersdorf",
+    "country": "DE",
+    "lat": 51.02445,
+    "lng": 6.81787
+  },
+  {
+    "name": "Sinn",
+    "country": "DE",
+    "lat": 50.65,
+    "lng": 8.33333
+  },
+  {
+    "name": "Singhofen",
+    "country": "DE",
+    "lat": 50.2744,
+    "lng": 7.83333
+  },
+  {
+    "name": "Singen",
+    "country": "DE",
+    "lat": 47.75935,
+    "lng": 8.8403
+  },
+  {
+    "name": "Sindelsdorf",
+    "country": "DE",
+    "lat": 47.72458,
+    "lng": 11.33295
+  },
+  {
+    "name": "Sindelfingen",
+    "country": "DE",
+    "lat": 48.7,
+    "lng": 9.01667
+  },
+  {
+    "name": "Simmozheim",
+    "country": "DE",
+    "lat": 48.75127,
+    "lng": 8.81142
+  },
+  {
+    "name": "Simmersfeld",
+    "country": "DE",
+    "lat": 48.61667,
+    "lng": 8.51667
+  },
+  {
+    "name": "Simmern",
+    "country": "DE",
+    "lat": 50.38914,
+    "lng": 7.67396
+  },
+  {
+    "name": "Simmern",
+    "country": "DE",
+    "lat": 49.98198,
+    "lng": 7.52351
+  },
+  {
+    "name": "Simmertal",
+    "country": "DE",
+    "lat": 49.80981,
+    "lng": 7.52282
+  },
+  {
+    "name": "Simmerath",
+    "country": "DE",
+    "lat": 50.6,
+    "lng": 6.3
+  },
+  {
+    "name": "Simmelsdorf",
+    "country": "DE",
+    "lat": 49.59775,
+    "lng": 11.33901
+  },
+  {
+    "name": "Simbach am Inn",
+    "country": "DE",
+    "lat": 48.26548,
+    "lng": 13.02309
+  },
+  {
+    "name": "Simbach",
+    "country": "DE",
+    "lat": 48.56606,
+    "lng": 12.73888
+  },
+  {
+    "name": "Sillenstede",
+    "country": "DE",
+    "lat": 53.57437,
+    "lng": 7.985
+  },
+  {
+    "name": "Silberstedt",
+    "country": "DE",
+    "lat": 54.51753,
+    "lng": 9.37285
+  },
+  {
+    "name": "Sigmarszell",
+    "country": "DE",
+    "lat": 47.58333,
+    "lng": 9.76667
+  },
+  {
+    "name": "Sigmaringendorf",
+    "country": "DE",
+    "lat": 48.06586,
+    "lng": 9.26208
+  },
+  {
+    "name": "Sigmaringen",
+    "country": "DE",
+    "lat": 48.08829,
+    "lng": 9.23033
+  },
+  {
+    "name": "Siggelkow",
+    "country": "DE",
+    "lat": 53.38742,
+    "lng": 11.93802
+  },
+  {
+    "name": "Sieverstedt",
+    "country": "DE",
+    "lat": 54.64145,
+    "lng": 9.46949
+  },
+  {
+    "name": "Sievershütten",
+    "country": "DE",
+    "lat": 53.84238,
+    "lng": 10.11216
+  },
+  {
+    "name": "Siersleben",
+    "country": "DE",
+    "lat": 51.60411,
+    "lng": 11.54334
+  },
+  {
+    "name": "Siershahn",
+    "country": "DE",
+    "lat": 50.48639,
+    "lng": 7.77972
+  },
+  {
+    "name": "Siersdorf",
+    "country": "DE",
+    "lat": 50.89827,
+    "lng": 6.22684
+  },
+  {
+    "name": "Sierksdorf",
+    "country": "DE",
+    "lat": 54.06627,
+    "lng": 10.77045
+  },
+  {
+    "name": "Siemensstadt",
+    "country": "DE",
+    "lat": 52.54053,
+    "lng": 13.26294
+  },
+  {
+    "name": "Sielenbach",
+    "country": "DE",
+    "lat": 48.4,
+    "lng": 11.16667
+  },
+  {
+    "name": "Siek",
+    "country": "DE",
+    "lat": 53.63557,
+    "lng": 10.29699
+  },
+  {
+    "name": "Siegsdorf",
+    "country": "DE",
+    "lat": 47.82278,
+    "lng": 12.64277
+  },
+  {
+    "name": "Siegenburg",
+    "country": "DE",
+    "lat": 48.75421,
+    "lng": 11.84831
+  },
+  {
+    "name": "Siegen",
+    "country": "DE",
+    "lat": 50.87481,
+    "lng": 8.02431
+  },
+  {
+    "name": "Siegelsbach",
+    "country": "DE",
+    "lat": 49.26972,
+    "lng": 9.08972
+  },
+  {
+    "name": "Siegburg",
+    "country": "DE",
+    "lat": 50.80019,
+    "lng": 7.20769
+  },
+  {
+    "name": "Siefersheim",
+    "country": "DE",
+    "lat": 49.8,
+    "lng": 7.95
+  },
+  {
+    "name": "Siedenburg",
+    "country": "DE",
+    "lat": 52.69293,
+    "lng": 8.93961
+  },
+  {
+    "name": "Siebeldingen",
+    "country": "DE",
+    "lat": 49.20889,
+    "lng": 8.05139
+  },
+  {
+    "name": "Sickenhausen",
+    "country": "DE",
+    "lat": 48.53252,
+    "lng": 9.18114
+  },
+  {
+    "name": "Sibbesse",
+    "country": "DE",
+    "lat": 52.05,
+    "lng": 9.9
+  },
+  {
+    "name": "Sickte",
+    "country": "DE",
+    "lat": 52.21847,
+    "lng": 10.6424
+  },
+  {
+    "name": "Siegfriedviertel",
+    "country": "DE",
+    "lat": 52.28854,
+    "lng": 10.53257
+  },
+  {
+    "name": "Sindal",
+    "country": "DK",
+    "lat": 57.47117,
+    "lng": 10.20312
+  },
+  {
+    "name": "Silkeborg",
+    "country": "DK",
+    "lat": 56.1697,
+    "lng": 9.54508
+  },
+  {
+    "name": "Sig",
+    "country": "DZ",
+    "lat": 35.52832,
+    "lng": -0.19369
+  },
+  {
+    "name": "Sidi Okba",
+    "country": "DZ",
+    "lat": 34.74512,
+    "lng": 5.89833
+  },
+  {
+    "name": "Sidi Moussa",
+    "country": "DZ",
+    "lat": 36.60637,
+    "lng": 3.08783
+  },
+  {
+    "name": "Sidi Mérouane",
+    "country": "DZ",
+    "lat": 36.52056,
+    "lng": 6.26111
+  },
+  {
+    "name": "Sidi Khaled",
+    "country": "DZ",
+    "lat": 34.387,
+    "lng": 4.98785
+  },
+  {
+    "name": "Sidi ech Chahmi",
+    "country": "DZ",
+    "lat": 35.65903,
+    "lng": -0.52168
+  },
+  {
+    "name": "Sidi Ben Adda",
+    "country": "DZ",
+    "lat": 35.30586,
+    "lng": -1.18136
+  },
+  {
+    "name": "Sidi Bel Abbes",
+    "country": "DZ",
+    "lat": 35.18994,
+    "lng": -0.63085
+  },
+  {
+    "name": "Sidi Amrane",
+    "country": "DZ",
+    "lat": 33.49885,
+    "lng": 6.00803
+  },
+  {
+    "name": "Sidi Akkacha",
+    "country": "DZ",
+    "lat": 36.46472,
+    "lng": 1.30258
+  },
+  {
+    "name": "Sidi Aïssa",
+    "country": "DZ",
+    "lat": 35.88548,
+    "lng": 3.77236
+  },
+  {
+    "name": "Sidi Abdelli",
+    "country": "DZ",
+    "lat": 35.06937,
+    "lng": -1.13706
+  },
+  {
+    "name": "Sidi Senoussi سيدي سنوسي",
+    "country": "DZ",
+    "lat": 34.99691,
+    "lng": -1.09449
+  },
+  {
+    "name": "Sidi Amar",
+    "country": "DZ",
+    "lat": 36.82019,
+    "lng": 7.71641
+  },
+  {
+    "name": "Sinincay",
+    "country": "EC",
+    "lat": -2.85107,
+    "lng": -79.01478
+  },
+  {
+    "name": "Simón Bolívar",
+    "country": "EC",
+    "lat": -2.18471,
+    "lng": -80.35916
+  },
+  {
+    "name": "Simón Bolívar",
+    "country": "EC",
+    "lat": -2.00248,
+    "lng": -79.48517
+  },
+  {
+    "name": "Simiatug",
+    "country": "EC",
+    "lat": -1.29177,
+    "lng": -78.96072
+  },
+  {
+    "name": "Sigsig",
+    "country": "EC",
+    "lat": -3.05089,
+    "lng": -78.79563
+  },
+  {
+    "name": "Sigchos",
+    "country": "EC",
+    "lat": -0.7047,
+    "lng": -78.88868
+  },
+  {
+    "name": "Sibambe",
+    "country": "EC",
+    "lat": -2.22599,
+    "lng": -78.89088
+  },
+  {
+    "name": "Siete de Julio",
+    "country": "EC",
+    "lat": -0.18574,
+    "lng": -76.78229
+  },
+  {
+    "name": "Sinaí",
+    "country": "EC",
+    "lat": -2.09499,
+    "lng": -78.05278
+  },
+  {
+    "name": "Sinsao",
+    "country": "EC",
+    "lat": -3.66407,
+    "lng": -79.58263
+  },
+  {
+    "name": "Sindi",
+    "country": "EE",
+    "lat": 58.40056,
+    "lng": 24.6675
+  },
+  {
+    "name": "Sillamäe",
+    "country": "EE",
+    "lat": 59.39697,
+    "lng": 27.76331
+  },
+  {
+    "name": "Sirs al Layyānah",
+    "country": "EG",
+    "lat": 30.4428,
+    "lng": 30.96975
+  },
+  {
+    "name": "Sinnūris",
+    "country": "EG",
+    "lat": 29.41345,
+    "lng": 30.86579
+  },
+  {
+    "name": "Sisante",
+    "country": "ES",
+    "lat": 39.40849,
+    "lng": -2.20173
+  },
+  {
+    "name": "Siruela",
+    "country": "ES",
+    "lat": 38.97718,
+    "lng": -5.04969
+  },
+  {
+    "name": "Sineu",
+    "country": "ES",
+    "lat": 39.64254,
+    "lng": 3.01034
+  },
+  {
+    "name": "Sinarcas",
+    "country": "ES",
+    "lat": 39.73333,
+    "lng": -1.23333
+  },
+  {
+    "name": "Simat de la Valldigna",
+    "country": "ES",
+    "lat": 39.03333,
+    "lng": -0.31667
+  },
+  {
+    "name": "Silla",
+    "country": "ES",
+    "lat": 39.36257,
+    "lng": -0.41169
+  },
+  {
+    "name": "Siles",
+    "country": "ES",
+    "lat": 38.38983,
+    "lng": -2.5819
+  },
+  {
+    "name": "Siete Aguas",
+    "country": "ES",
+    "lat": 39.46667,
+    "lng": -0.91667
+  },
+  {
+    "name": "Sierro",
+    "country": "ES",
+    "lat": 37.32237,
+    "lng": -2.39844
+  },
+  {
+    "name": "Sierra de Yeguas",
+    "country": "ES",
+    "lat": 37.1242,
+    "lng": -4.86773
+  },
+  {
+    "name": "Sierra de Fuentes",
+    "country": "ES",
+    "lat": 39.43997,
+    "lng": -6.27242
+  },
+  {
+    "name": "Sitges",
+    "country": "ES",
+    "lat": 41.23506,
+    "lng": 1.81193
+  },
+  {
+    "name": "Sisamón",
+    "country": "ES",
+    "lat": 41.17124,
+    "lng": -2.00386
+  },
+  {
+    "name": "Sinlabajos",
+    "country": "ES",
+    "lat": 41.0765,
+    "lng": -4.83242
+  },
+  {
+    "name": "Singra",
+    "country": "ES",
+    "lat": 40.65508,
+    "lng": -1.31158
+  },
+  {
+    "name": "Simancas",
+    "country": "ES",
+    "lat": 41.59072,
+    "lng": -4.82796
+  },
+  {
+    "name": "Sils",
+    "country": "ES",
+    "lat": 41.80842,
+    "lng": 2.74507
+  },
+  {
+    "name": "Silleda",
+    "country": "ES",
+    "lat": 42.69605,
+    "lng": -8.24653
+  },
+  {
+    "name": "Sigüés",
+    "country": "ES",
+    "lat": 42.6303,
+    "lng": -1.01212
+  },
+  {
+    "name": "Sigüenza",
+    "country": "ES",
+    "lat": 41.06892,
+    "lng": -2.64308
+  },
+  {
+    "name": "Sigeres",
+    "country": "ES",
+    "lat": 40.79939,
+    "lng": -4.93361
+  },
+  {
+    "name": "Siete Iglesias de Trabancos",
+    "country": "ES",
+    "lat": 41.35223,
+    "lng": -5.18488
+  },
+  {
+    "name": "Siétamo",
+    "country": "ES",
+    "lat": 42.12392,
+    "lng": -0.28066
+  },
+  {
+    "name": "Sierra-Engarcerán",
+    "country": "ES",
+    "lat": 40.26929,
+    "lng": -0.01892
+  },
+  {
+    "name": "Sierra de Luna",
+    "country": "ES",
+    "lat": 42.04818,
+    "lng": -0.91025
+  },
+  {
+    "name": "Sienes",
+    "country": "ES",
+    "lat": 41.20096,
+    "lng": -2.65332
+  },
+  {
+    "name": "Sidamon",
+    "country": "ES",
+    "lat": 41.63333,
+    "lng": 0.83333
+  },
+  {
+    "name": "Siurana",
+    "country": "ES",
+    "lat": 42.20916,
+    "lng": 2.99392
+  },
+  {
+    "name": "Simancas",
+    "country": "ES",
+    "lat": 40.43533,
+    "lng": -3.6251
+  },
+  {
+    "name": "Sifra",
+    "country": "ET",
+    "lat": 11.60462,
+    "lng": 40.01662
+  },
+  {
+    "name": "Siuntio",
+    "country": "FI",
+    "lat": 60.13862,
+    "lng": 24.22715
+  },
+  {
+    "name": "Simpele",
+    "country": "FI",
+    "lat": 61.43333,
+    "lng": 29.36667
+  },
+  {
+    "name": "Simo",
+    "country": "FI",
+    "lat": 65.66667,
+    "lng": 25.05
+  },
+  {
+    "name": "Siilinjärvi",
+    "country": "FI",
+    "lat": 63.08333,
+    "lng": 27.66667
+  },
+  {
+    "name": "Siikajoki",
+    "country": "FI",
+    "lat": 64.81455,
+    "lng": 24.75924
+  },
+  {
+    "name": "Siikainen",
+    "country": "FI",
+    "lat": 61.87703,
+    "lng": 21.81945
+  },
+  {
+    "name": "Sievi",
+    "country": "FI",
+    "lat": 63.9,
+    "lng": 24.5
+  },
+  {
+    "name": "Sibbo",
+    "country": "FI",
+    "lat": 60.37752,
+    "lng": 25.26906
+  },
+  {
+    "name": "Siltamäki",
+    "country": "FI",
+    "lat": 60.27815,
+    "lng": 24.98335
+  },
+  {
+    "name": "Simonkylä",
+    "country": "FI",
+    "lat": 60.30995,
+    "lng": 25.03012
+  },
+  {
+    "name": "Siikajoki",
+    "country": "FI",
+    "lat": 64.66435,
+    "lng": 25.09939
+  },
+  {
+    "name": "Sigatoka",
+    "country": "FJ",
+    "lat": -18.14307,
+    "lng": 177.50691
+  },
+  {
+    "name": "Sizun",
+    "country": "FR",
+    "lat": 48.4057,
+    "lng": -4.07836
+  },
+  {
+    "name": "Sixt-sur-Aff",
+    "country": "FR",
+    "lat": 47.77606,
+    "lng": -2.07987
+  },
+  {
+    "name": "Six-Fours-les-Plages",
+    "country": "FR",
+    "lat": 43.09174,
+    "lng": 5.82465
+  },
+  {
+    "name": "Sisteron",
+    "country": "FR",
+    "lat": 44.19002,
+    "lng": 5.94643
+  },
+  {
+    "name": "Sissonne",
+    "country": "FR",
+    "lat": 49.57107,
+    "lng": 3.89369
+  },
+  {
+    "name": "Sisco",
+    "country": "FR",
+    "lat": 42.8,
+    "lng": 9.43333
+  },
+  {
+    "name": "Sireuil",
+    "country": "FR",
+    "lat": 45.61571,
+    "lng": 0.00935
+  },
+  {
+    "name": "Sion-les-Mines",
+    "country": "FR",
+    "lat": 47.73512,
+    "lng": -1.59201
+  },
+  {
+    "name": "Sin-le-Noble",
+    "country": "FR",
+    "lat": 50.36159,
+    "lng": 3.13113
+  },
+  {
+    "name": "Sinceny",
+    "country": "FR",
+    "lat": 49.59619,
+    "lng": 3.24679
+  },
+  {
+    "name": "Simiane-Collongue",
+    "country": "FR",
+    "lat": 43.43067,
+    "lng": 5.43454
+  },
+  {
+    "name": "Simandres",
+    "country": "FR",
+    "lat": 45.61955,
+    "lng": 4.87314
+  },
+  {
+    "name": "Simandre",
+    "country": "FR",
+    "lat": 46.62364,
+    "lng": 4.98777
+  },
+  {
+    "name": "Silly-le-Long",
+    "country": "FR",
+    "lat": 49.10749,
+    "lng": 2.79226
+  },
+  {
+    "name": "Sillingy",
+    "country": "FR",
+    "lat": 45.94781,
+    "lng": 6.04415
+  },
+  {
+    "name": "Sillery",
+    "country": "FR",
+    "lat": 49.19822,
+    "lng": 4.13244
+  },
+  {
+    "name": "Sillé-le-Guillaume",
+    "country": "FR",
+    "lat": 48.18324,
+    "lng": -0.12891
+  },
+  {
+    "name": "Sillans",
+    "country": "FR",
+    "lat": 45.34261,
+    "lng": 5.38864
+  },
+  {
+    "name": "Sigolsheim",
+    "country": "FR",
+    "lat": 48.13493,
+    "lng": 7.2998
+  },
+  {
+    "name": "Signy-le-Petit",
+    "country": "FR",
+    "lat": 49.90277,
+    "lng": 4.2799
+  },
+  {
+    "name": "Signes",
+    "country": "FR",
+    "lat": 43.2908,
+    "lng": 5.86284
+  },
+  {
+    "name": "Sigean",
+    "country": "FR",
+    "lat": 43.0279,
+    "lng": 2.97834
+  },
+  {
+    "name": "Sierentz",
+    "country": "FR",
+    "lat": 47.65834,
+    "lng": 7.45387
+  },
+  {
+    "name": "Sierck-les-Bains",
+    "country": "FR",
+    "lat": 49.43942,
+    "lng": 6.35816
+  },
+  {
+    "name": "Sibiril",
+    "country": "FR",
+    "lat": 48.66474,
+    "lng": -4.06376
+  },
+  {
+    "name": "Sittingbourne",
+    "country": "GB",
+    "lat": 51.34128,
+    "lng": 0.73282
+  },
+  {
+    "name": "Siston",
+    "country": "GB",
+    "lat": 51.47444,
+    "lng": -2.45
+  },
+  {
+    "name": "Sissinghurst",
+    "country": "GB",
+    "lat": 51.10905,
+    "lng": 0.56
+  },
+  {
+    "name": "Sion Mills",
+    "country": "GB",
+    "lat": 54.78752,
+    "lng": -7.47276
+  },
+  {
+    "name": "Simpson",
+    "country": "GB",
+    "lat": 52.01667,
+    "lng": -0.7
+  },
+  {
+    "name": "Silverton",
+    "country": "GB",
+    "lat": 50.81667,
+    "lng": -3.48333
+  },
+  {
+    "name": "Silverstone",
+    "country": "GB",
+    "lat": 52.09216,
+    "lng": -1.02602
+  },
+  {
+    "name": "Silverdale",
+    "country": "GB",
+    "lat": 54.16667,
+    "lng": -2.81667
+  },
+  {
+    "name": "Silsoe",
+    "country": "GB",
+    "lat": 52.00854,
+    "lng": -0.42484
+  },
+  {
+    "name": "Silsden",
+    "country": "GB",
+    "lat": 53.91443,
+    "lng": -1.93802
+  },
+  {
+    "name": "Silloth",
+    "country": "GB",
+    "lat": 54.8687,
+    "lng": -3.38448
+  },
+  {
+    "name": "Silkstone",
+    "country": "GB",
+    "lat": 53.54808,
+    "lng": -1.56381
+  },
+  {
+    "name": "Sileby",
+    "country": "GB",
+    "lat": 52.73286,
+    "lng": -1.10773
+  },
+  {
+    "name": "Sidmouth",
+    "country": "GB",
+    "lat": 50.69094,
+    "lng": -3.2397
+  },
+  {
+    "name": "Siddington",
+    "country": "GB",
+    "lat": 53.23333,
+    "lng": -2.23333
+  },
+  {
+    "name": "Sidcup",
+    "country": "GB",
+    "lat": 51.42619,
+    "lng": 0.1036
+  },
+  {
+    "name": "Sibsey",
+    "country": "GB",
+    "lat": 53.03858,
+    "lng": 0.01579
+  },
+  {
+    "name": "Sible Hedingham",
+    "country": "GB",
+    "lat": 51.97772,
+    "lng": 0.59262
+  },
+  {
+    "name": "Silver End",
+    "country": "GB",
+    "lat": 51.84734,
+    "lng": 0.62399
+  },
+  {
+    "name": "Sinfin",
+    "country": "GB",
+    "lat": 52.88157,
+    "lng": -1.48681
+  },
+  {
+    "name": "Six Bells",
+    "country": "GB",
+    "lat": 51.72292,
+    "lng": -3.1274
+  },
+  {
+    "name": "Sighnaghi",
+    "country": "GE",
+    "lat": 41.61918,
+    "lng": 45.92227
+  },
+  {
+    "name": "Sinnamary",
+    "country": "GF",
+    "lat": 5.37676,
+    "lng": -52.95679
+  },
+  {
+    "name": "Sisimiut",
+    "country": "GL",
+    "lat": 66.93946,
+    "lng": -53.6735
+  },
+  {
+    "name": "Sinchu Balla",
+    "country": "GM",
+    "lat": 13.6,
+    "lng": -15.03333
+  },
+  {
+    "name": "Si Kunda",
+    "country": "GM",
+    "lat": 13.43333,
+    "lng": -15.56667
+  },
+  {
+    "name": "Sifoe",
+    "country": "GM",
+    "lat": 13.18361,
+    "lng": -16.6975
+  },
+  {
+    "name": "Sinchu Alagi",
+    "country": "GM",
+    "lat": 13.37491,
+    "lng": -16.67841
+  },
+  {
+    "name": "Sinchu Sorry",
+    "country": "GM",
+    "lat": 13.38753,
+    "lng": -16.6855
+  },
+  {
+    "name": "Siguirini",
+    "country": "GN",
+    "lat": 11.8288,
+    "lng": -10.04548
+  },
+  {
+    "name": "Siguiri",
+    "country": "GN",
+    "lat": 11.42282,
+    "lng": -9.16852
+  },
+  {
+    "name": "Sitia",
+    "country": "GR",
+    "lat": 35.20783,
+    "lng": 26.10467
+  },
+  {
+    "name": "Sikyón",
+    "country": "GR",
+    "lat": 37.9823,
+    "lng": 22.72462
+  },
+  {
+    "name": "Sitagroí",
+    "country": "GR",
+    "lat": 41.11067,
+    "lng": 24.02755
+  },
+  {
+    "name": "Sidirókastro",
+    "country": "GR",
+    "lat": 41.23499,
+    "lng": 23.38899
+  },
+  {
+    "name": "Siátista",
+    "country": "GR",
+    "lat": 40.26194,
+    "lng": 21.54417
+  },
+  {
+    "name": "Siquinalá",
+    "country": "GT",
+    "lat": 14.30679,
+    "lng": -90.96709
+  },
+  {
+    "name": "Sipacapa",
+    "country": "GT",
+    "lat": 15.21246,
+    "lng": -91.63416
+  },
+  {
+    "name": "Sibinal",
+    "country": "GT",
+    "lat": 15.14963,
+    "lng": -92.04892
+  },
+  {
+    "name": "Sibilia",
+    "country": "GT",
+    "lat": 14.99391,
+    "lng": -91.62371
+  },
+  {
+    "name": "Sinajana Village",
+    "country": "GU",
+    "lat": 13.46334,
+    "lng": 144.75406
+  },
+  {
+    "name": "Siu Lek Yuen",
+    "country": "HK",
+    "lat": 22.38174,
+    "lng": 114.21256
+  },
+  {
+    "name": "Siu Chik Sha",
+    "country": "HK",
+    "lat": 22.30086,
+    "lng": 114.27471
+  },
+  {
+    "name": "Siu Hei",
+    "country": "HK",
+    "lat": 22.37359,
+    "lng": 113.9671
+  },
+  {
+    "name": "Siu Sai Wan Estate",
+    "country": "HK",
+    "lat": 22.26155,
+    "lng": 114.24881
+  },
+  {
+    "name": "Sinuapa",
+    "country": "HN",
+    "lat": 14.44305,
+    "lng": -89.18594
+  },
+  {
+    "name": "Silca",
+    "country": "HN",
+    "lat": 14.83333,
+    "lng": -86.53333
+  },
+  {
+    "name": "Siguatepeque",
+    "country": "HN",
+    "lat": 14.59691,
+    "lng": -87.83102
+  },
+  {
+    "name": "Sisak",
+    "country": "HR",
+    "lat": 45.46608,
+    "lng": 16.37748
+  },
+  {
+    "name": "Sirač",
+    "country": "HR",
+    "lat": 45.52333,
+    "lng": 17.255
+  },
+  {
+    "name": "Sinj",
+    "country": "HR",
+    "lat": 43.70361,
+    "lng": 16.63944
+  },
+  {
+    "name": "Sikirevci",
+    "country": "HR",
+    "lat": 45.10889,
+    "lng": 18.46444
+  },
+  {
+    "name": "Sigetec",
+    "country": "HR",
+    "lat": 46.18833,
+    "lng": 16.93583
+  },
+  {
+    "name": "Sibinj",
+    "country": "HR",
+    "lat": 45.19167,
+    "lng": 17.90806
+  },
+  {
+    "name": "Sirok",
+    "country": "HU",
+    "lat": 47.93333,
+    "lng": 20.2
+  },
+  {
+    "name": "Siófok",
+    "country": "HU",
+    "lat": 46.90413,
+    "lng": 18.058
+  },
+  {
+    "name": "Sióagárd",
+    "country": "HU",
+    "lat": 46.39272,
+    "lng": 18.65336
+  },
+  {
+    "name": "Simontornya",
+    "country": "HU",
+    "lat": 46.75462,
+    "lng": 18.5549
+  },
+  {
+    "name": "Siklós",
+    "country": "HU",
+    "lat": 45.85499,
+    "lng": 18.29752
+  },
+  {
+    "name": "Sipirok",
+    "country": "ID",
+    "lat": 1.60248,
+    "lng": 99.27377
+  },
+  {
+    "name": "Sipiongot",
+    "country": "ID",
+    "lat": 1.83501,
+    "lng": 99.66266
+  },
+  {
+    "name": "Sipagimbar",
+    "country": "ID",
+    "lat": 1.83072,
+    "lng": 99.37185
+  },
+  {
+    "name": "Singkil",
+    "country": "ID",
+    "lat": 2.2874,
+    "lng": 97.7884
+  },
+  {
+    "name": "Sinabang",
+    "country": "ID",
+    "lat": 2.4803,
+    "lng": 96.3801
+  },
+  {
+    "name": "Simpang Empat",
+    "country": "ID",
+    "lat": 0.09703,
+    "lng": 99.82339
+  },
+  {
+    "name": "Sigli",
+    "country": "ID",
+    "lat": 5.3848,
+    "lng": 95.9609
+  },
+  {
+    "name": "Sidikalang",
+    "country": "ID",
+    "lat": 2.74899,
+    "lng": 98.3127
+  },
+  {
+    "name": "Sibuhuan",
+    "country": "ID",
+    "lat": 1.05387,
+    "lng": 99.73018
+  },
+  {
+    "name": "Siborong-Borong",
+    "country": "ID",
+    "lat": 2.21251,
+    "lng": 98.97291
+  },
+  {
+    "name": "Sibolga",
+    "country": "ID",
+    "lat": 1.74016,
+    "lng": 98.78117
+  },
+  {
+    "name": "Sibigo",
+    "country": "ID",
+    "lat": 2.8385,
+    "lng": 95.9131
+  },
+  {
+    "name": "Siabu",
+    "country": "ID",
+    "lat": 1.01552,
+    "lng": 99.49452
+  },
+  {
+    "name": "Sikabaluan",
+    "country": "ID",
+    "lat": -1.11961,
+    "lng": 98.99217
+  },
+  {
+    "name": "Siwa",
+    "country": "ID",
+    "lat": -3.6999,
+    "lng": 120.4156
+  },
+  {
+    "name": "Situbondo",
+    "country": "ID",
+    "lat": -7.70623,
+    "lng": 114.00976
+  },
+  {
+    "name": "Sintang",
+    "country": "ID",
+    "lat": 0.06667,
+    "lng": 111.5
+  },
+  {
+    "name": "Sinjai",
+    "country": "ID",
+    "lat": -5.1241,
+    "lng": 120.253
+  },
+  {
+    "name": "Singosari",
+    "country": "ID",
+    "lat": -7.8924,
+    "lng": 112.6658
+  },
+  {
+    "name": "Singojuruh",
+    "country": "ID",
+    "lat": -8.31667,
+    "lng": 114.23333
+  },
+  {
+    "name": "Singkawang",
+    "country": "ID",
+    "lat": 0.90925,
+    "lng": 108.98463
+  },
+  {
+    "name": "Singkarak",
+    "country": "ID",
+    "lat": -0.69089,
+    "lng": 100.60335
+  },
+  {
+    "name": "Singaraja",
+    "country": "ID",
+    "lat": -8.112,
+    "lng": 115.08818
+  },
+  {
+    "name": "Singaparna",
+    "country": "ID",
+    "lat": -7.3515,
+    "lng": 108.111
+  },
+  {
+    "name": "Sindangbarang",
+    "country": "ID",
+    "lat": -7.4516,
+    "lng": 107.1353
+  },
+  {
+    "name": "Simpur",
+    "country": "ID",
+    "lat": -2.8281,
+    "lng": 115.2666
+  },
+  {
+    "name": "Simpangempat",
+    "country": "ID",
+    "lat": -3.2785,
+    "lng": 115.0293
+  },
+  {
+    "name": "Simpang",
+    "country": "ID",
+    "lat": -4.44867,
+    "lng": 104.1922
+  },
+  {
+    "name": "Simpang",
+    "country": "ID",
+    "lat": -1.26424,
+    "lng": 104.09701
+  },
+  {
+    "name": "Sila",
+    "country": "ID",
+    "lat": -8.5025,
+    "lng": 118.62
+  },
+  {
+    "name": "Sijunjung",
+    "country": "ID",
+    "lat": -0.7005,
+    "lng": 100.9774
+  },
+  {
+    "name": "Sidoarjo",
+    "country": "ID",
+    "lat": -7.4478,
+    "lng": 112.7183
+  },
+  {
+    "name": "Sidemen",
+    "country": "ID",
+    "lat": -8.4842,
+    "lng": 115.4452
+  },
+  {
+    "name": "Sidareja",
+    "country": "ID",
+    "lat": -7.4846,
+    "lng": 108.7923
+  },
+  {
+    "name": "Siak Sri Indrapura",
+    "country": "ID",
+    "lat": 0.79317,
+    "lng": 102.0511
+  },
+  {
+    "name": "Sidayu",
+    "country": "ID",
+    "lat": -6.9993,
+    "lng": 112.5636
+  },
+  {
+    "name": "Sidomulyo",
+    "country": "ID",
+    "lat": 0.6496,
+    "lng": 122.6152
+  },
+  {
+    "name": "Sidenreng",
+    "country": "ID",
+    "lat": -3.92753,
+    "lng": 119.7993
+  },
+  {
+    "name": "Simpang Tiga Redelong",
+    "country": "ID",
+    "lat": 4.722,
+    "lng": 96.8743
+  },
+  {
+    "name": "Simabur",
+    "country": "ID",
+    "lat": -0.46448,
+    "lng": 100.52817
+  },
+  {
+    "name": "Sirukam",
+    "country": "ID",
+    "lat": -0.88711,
+    "lng": 100.7595
+  },
+  {
+    "name": "Sikur",
+    "country": "ID",
+    "lat": -8.6331,
+    "lng": 116.4463
+  },
+  {
+    "name": "Sidorejo",
+    "country": "ID",
+    "lat": -5.58471,
+    "lng": 105.52364
+  },
+  {
+    "name": "Sipintuangin",
+    "country": "ID",
+    "lat": 2.8133,
+    "lng": 98.7904
+  },
+  {
+    "name": "Sinarjaya",
+    "country": "ID",
+    "lat": -7.3047,
+    "lng": 106.8353
+  },
+  {
+    "name": "Sindangratu",
+    "country": "ID",
+    "lat": -7.4651,
+    "lng": 107.6718
+  },
+  {
+    "name": "Simpang",
+    "country": "ID",
+    "lat": -7.6231,
+    "lng": 108.1064
+  },
+  {
+    "name": "Sindangtamu",
+    "country": "ID",
+    "lat": -7.1429,
+    "lng": 108.1483
+  },
+  {
+    "name": "Sidowayah Kidul",
+    "country": "ID",
+    "lat": -6.7202,
+    "lng": 111.347
+  },
+  {
+    "name": "Sinargalih",
+    "country": "ID",
+    "lat": -7.3574,
+    "lng": 108.6382
+  },
+  {
+    "name": "Siliragung",
+    "country": "ID",
+    "lat": -8.5574,
+    "lng": 114.112
+  },
+  {
+    "name": "Siso",
+    "country": "ID",
+    "lat": -9.8719,
+    "lng": 124.2209
+  },
+  {
+    "name": "Siulak Deras Mudik",
+    "country": "ID",
+    "lat": -1.89514,
+    "lng": 101.3
+  },
+  {
+    "name": "Simpang Ulim",
+    "country": "ID",
+    "lat": 5.12223,
+    "lng": 97.5623
+  },
+  {
+    "name": "Sibreh",
+    "country": "ID",
+    "lat": 5.51863,
+    "lng": 95.37336
+  },
+  {
+    "name": "Simpang Teritit",
+    "country": "ID",
+    "lat": 4.69707,
+    "lng": 96.8567
+  },
+  {
+    "name": "Sipoholon",
+    "country": "ID",
+    "lat": 2.0649,
+    "lng": 98.9465
+  },
+  {
+    "name": "Siulak",
+    "country": "ID",
+    "lat": -1.94667,
+    "lng": 101.33417
+  },
+  {
+    "name": "Sigi Biromaru",
+    "country": "ID",
+    "lat": -0.94982,
+    "lng": 119.91805
+  },
+  {
+    "name": "Sitimerto",
+    "country": "ID",
+    "lat": -7.76761,
+    "lng": 112.08678
+  },
+  {
+    "name": "Sixmilebridge",
+    "country": "IE",
+    "lat": 52.74139,
+    "lng": -8.77417
+  },
+  {
+    "name": "Sitriyya",
+    "country": "IL",
+    "lat": 31.89238,
+    "lng": 34.8438
+  },
+  {
+    "name": "Siwāna",
+    "country": "IN",
+    "lat": 25.65154,
+    "lng": 72.42243
+  },
+  {
+    "name": "Siwān",
+    "country": "IN",
+    "lat": 26.22096,
+    "lng": 84.35609
+  },
+  {
+    "name": "Sivni",
+    "country": "IN",
+    "lat": 20.68803,
+    "lng": 77.04886
+  },
+  {
+    "name": "Sivakasi",
+    "country": "IN",
+    "lat": 9.44999,
+    "lng": 77.79797
+  },
+  {
+    "name": "Sivagiri",
+    "country": "IN",
+    "lat": 11.12026,
+    "lng": 77.78811
+  },
+  {
+    "name": "Sivagiri",
+    "country": "IN",
+    "lat": 9.34461,
+    "lng": 77.42911
+  },
+  {
+    "name": "Sivaganga",
+    "country": "IN",
+    "lat": 9.84701,
+    "lng": 78.48358
+  },
+  {
+    "name": "Siuri",
+    "country": "IN",
+    "lat": 23.90806,
+    "lng": 87.52773
+  },
+  {
+    "name": "Sitārganj",
+    "country": "IN",
+    "lat": 28.9293,
+    "lng": 79.70436
+  },
+  {
+    "name": "Siswā Bāzār",
+    "country": "IN",
+    "lat": 27.14652,
+    "lng": 83.75803
+  },
+  {
+    "name": "Sisauli",
+    "country": "IN",
+    "lat": 29.41386,
+    "lng": 77.4689
+  },
+  {
+    "name": "Sirūr",
+    "country": "IN",
+    "lat": 18.8276,
+    "lng": 74.37475
+  },
+  {
+    "name": "Sirumugai",
+    "country": "IN",
+    "lat": 11.32137,
+    "lng": 77.00521
+  },
+  {
+    "name": "Siruguppa",
+    "country": "IN",
+    "lat": 15.63,
+    "lng": 76.89217
+  },
+  {
+    "name": "Sirsilla",
+    "country": "IN",
+    "lat": 18.38865,
+    "lng": 78.81048
+  },
+  {
+    "name": "Sirsi",
+    "country": "IN",
+    "lat": 28.63916,
+    "lng": 78.64303
+  },
+  {
+    "name": "Sirsi",
+    "country": "IN",
+    "lat": 14.62072,
+    "lng": 74.83554
+  },
+  {
+    "name": "Sirsāganj",
+    "country": "IN",
+    "lat": 27.05715,
+    "lng": 78.68661
+  },
+  {
+    "name": "Sirsa",
+    "country": "IN",
+    "lat": 29.53489,
+    "lng": 75.02898
+  },
+  {
+    "name": "Sirsā",
+    "country": "IN",
+    "lat": 25.2634,
+    "lng": 82.0919
+  },
+  {
+    "name": "Sirpur",
+    "country": "IN",
+    "lat": 19.47953,
+    "lng": 79.57558
+  },
+  {
+    "name": "Sironj",
+    "country": "IN",
+    "lat": 24.10313,
+    "lng": 77.69055
+  },
+  {
+    "name": "Sironchā",
+    "country": "IN",
+    "lat": 18.84831,
+    "lng": 79.9638
+  },
+  {
+    "name": "Sirohi",
+    "country": "IN",
+    "lat": 24.88838,
+    "lng": 72.84794
+  },
+  {
+    "name": "Sir Muttra",
+    "country": "IN",
+    "lat": 26.51501,
+    "lng": 77.37212
+  },
+  {
+    "name": "Sirmaur",
+    "country": "IN",
+    "lat": 24.83648,
+    "lng": 81.36448
+  },
+  {
+    "name": "Sirhind",
+    "country": "IN",
+    "lat": 30.64321,
+    "lng": 76.38421
+  },
+  {
+    "name": "Sirāthu",
+    "country": "IN",
+    "lat": 25.64292,
+    "lng": 81.31855
+  },
+  {
+    "name": "Sirālkoppa",
+    "country": "IN",
+    "lat": 14.3807,
+    "lng": 75.25007
+  },
+  {
+    "name": "Sinor",
+    "country": "IN",
+    "lat": 21.91117,
+    "lng": 73.33974
+  },
+  {
+    "name": "Sinnar",
+    "country": "IN",
+    "lat": 19.84505,
+    "lng": 73.99866
+  },
+  {
+    "name": "Sini",
+    "country": "IN",
+    "lat": 22.79325,
+    "lng": 85.94543
+  },
+  {
+    "name": "Singur",
+    "country": "IN",
+    "lat": 22.80917,
+    "lng": 88.22944
+  },
+  {
+    "name": "Singtam",
+    "country": "IN",
+    "lat": 27.23467,
+    "lng": 88.50168
+  },
+  {
+    "name": "Singoli",
+    "country": "IN",
+    "lat": 24.96667,
+    "lng": 75.3
+  },
+  {
+    "name": "Singhāna",
+    "country": "IN",
+    "lat": 28.09959,
+    "lng": 75.83895
+  },
+  {
+    "name": "Singarāyakonda",
+    "country": "IN",
+    "lat": 15.23046,
+    "lng": 80.02794
+  },
+  {
+    "name": "Singapperumālkovil",
+    "country": "IN",
+    "lat": 12.75947,
+    "lng": 80.0075
+  },
+  {
+    "name": "Singānallūr",
+    "country": "IN",
+    "lat": 10.99898,
+    "lng": 77.03238
+  },
+  {
+    "name": "Sindkhed Raja",
+    "country": "IN",
+    "lat": 19.95363,
+    "lng": 76.12637
+  },
+  {
+    "name": "Sindi",
+    "country": "IN",
+    "lat": 20.80509,
+    "lng": 78.88752
+  },
+  {
+    "name": "Sindhnūr",
+    "country": "IN",
+    "lat": 15.76983,
+    "lng": 76.75581
+  },
+  {
+    "name": "Sindgi",
+    "country": "IN",
+    "lat": 16.91883,
+    "lng": 76.23368
+  },
+  {
+    "name": "Simga",
+    "country": "IN",
+    "lat": 21.6281,
+    "lng": 81.70376
+  },
+  {
+    "name": "Simdega",
+    "country": "IN",
+    "lat": 22.61523,
+    "lng": 84.50208
+  },
+  {
+    "name": "Simaria",
+    "country": "IN",
+    "lat": 24.79497,
+    "lng": 81.152
+  },
+  {
+    "name": "Simaluguri",
+    "country": "IN",
+    "lat": 26.9185,
+    "lng": 94.75684
+  },
+  {
+    "name": "Silvassa",
+    "country": "IN",
+    "lat": 20.27386,
+    "lng": 72.99673
+  },
+  {
+    "name": "Silvāni",
+    "country": "IN",
+    "lat": 23.3026,
+    "lng": 78.44076
+  },
+  {
+    "name": "Sillod",
+    "country": "IN",
+    "lat": 20.30303,
+    "lng": 75.65284
+  },
+  {
+    "name": "Silchar",
+    "country": "IN",
+    "lat": 24.82733,
+    "lng": 92.79787
+  },
+  {
+    "name": "Silao",
+    "country": "IN",
+    "lat": 25.08358,
+    "lng": 85.42804
+  },
+  {
+    "name": "Sikandra Rao",
+    "country": "IN",
+    "lat": 27.68859,
+    "lng": 78.37985
+  },
+  {
+    "name": "Sikandra",
+    "country": "IN",
+    "lat": 26.36722,
+    "lng": 79.6298
+  },
+  {
+    "name": "Sikandarpur",
+    "country": "IN",
+    "lat": 26.04327,
+    "lng": 84.05298
+  },
+  {
+    "name": "Sikandarābād",
+    "country": "IN",
+    "lat": 28.45226,
+    "lng": 77.70004
+  },
+  {
+    "name": "Sikka",
+    "country": "IN",
+    "lat": 22.43218,
+    "lng": 69.84158
+  },
+  {
+    "name": "Sijua",
+    "country": "IN",
+    "lat": 23.77617,
+    "lng": 86.33028
+  },
+  {
+    "name": "Sihorā",
+    "country": "IN",
+    "lat": 23.4871,
+    "lng": 80.10404
+  },
+  {
+    "name": "Sihor",
+    "country": "IN",
+    "lat": 21.71134,
+    "lng": 71.96179
+  },
+  {
+    "name": "Sidlaghatta",
+    "country": "IN",
+    "lat": 13.38896,
+    "lng": 77.86444
+  },
+  {
+    "name": "Sidhpura",
+    "country": "IN",
+    "lat": 27.63312,
+    "lng": 78.86918
+  },
+  {
+    "name": "Sidhi",
+    "country": "IN",
+    "lat": 24.4038,
+    "lng": 81.87954
+  },
+  {
+    "name": "Sidhaulī",
+    "country": "IN",
+    "lat": 27.28202,
+    "lng": 80.8345
+  },
+  {
+    "name": "Siddipet",
+    "country": "IN",
+    "lat": 18.10483,
+    "lng": 78.84858
+  },
+  {
+    "name": "Siddhapur",
+    "country": "IN",
+    "lat": 23.91783,
+    "lng": 72.37212
+  },
+  {
+    "name": "Siddāpur",
+    "country": "IN",
+    "lat": 14.34322,
+    "lng": 74.894
+  },
+  {
+    "name": "Sibsāgar",
+    "country": "IN",
+    "lat": 26.98427,
+    "lng": 94.63784
+  },
+  {
+    "name": "Siliguri",
+    "country": "IN",
+    "lat": 26.71004,
+    "lng": 88.42851
+  },
+  {
+    "name": "Siwāni",
+    "country": "IN",
+    "lat": 28.90909,
+    "lng": 75.61469
+  },
+  {
+    "name": "Sikandarpur",
+    "country": "IN",
+    "lat": 29.41508,
+    "lng": 76.93416
+  },
+  {
+    "name": "Singāpur",
+    "country": "IN",
+    "lat": 17.46982,
+    "lng": 78.12574
+  },
+  {
+    "name": "Singrauli",
+    "country": "IN",
+    "lat": 24.19973,
+    "lng": 82.67535
+  },
+  {
+    "name": "Silapathar",
+    "country": "IN",
+    "lat": 27.59441,
+    "lng": 94.72402
+  },
+  {
+    "name": "Singampunari",
+    "country": "IN",
+    "lat": 10.1862,
+    "lng": 78.415
+  },
+  {
+    "name": "Siltara",
+    "country": "IN",
+    "lat": 21.38116,
+    "lng": 81.66378
+  },
+  {
+    "name": "Sisauli",
+    "country": "IN",
+    "lat": 30.14297,
+    "lng": 77.25959
+  },
+  {
+    "name": "Sirgora",
+    "country": "IN",
+    "lat": 22.20634,
+    "lng": 78.88318
+  },
+  {
+    "name": "Siraspur",
+    "country": "IN",
+    "lat": 28.75815,
+    "lng": 77.13087
+  },
+  {
+    "name": "Singānuram",
+    "country": "IN",
+    "lat": 18.82218,
+    "lng": 79.50171
+  },
+  {
+    "name": "Sindi",
+    "country": "IN",
+    "lat": 20.74238,
+    "lng": 78.5871
+  },
+  {
+    "name": "Silewāra",
+    "country": "IN",
+    "lat": 21.2912,
+    "lng": 79.12404
+  },
+  {
+    "name": "Sivunipalli",
+    "country": "IN",
+    "lat": 17.84415,
+    "lng": 79.38224
+  },
+  {
+    "name": "Sivar",
+    "country": "IN",
+    "lat": 20.69169,
+    "lng": 77.05102
+  },
+  {
+    "name": "Sihāsa",
+    "country": "IN",
+    "lat": 22.70253,
+    "lng": 75.77875
+  },
+  {
+    "name": "Siāt",
+    "country": "IN",
+    "lat": 25.88789,
+    "lng": 73.73847
+  },
+  {
+    "name": "Sirgittī",
+    "country": "IN",
+    "lat": 22.04713,
+    "lng": 82.14871
+  },
+  {
+    "name": "Sithurajapuram",
+    "country": "IN",
+    "lat": 9.42137,
+    "lng": 77.78732
+  },
+  {
+    "name": "Sirukkāveripākkam",
+    "country": "IN",
+    "lat": 12.85301,
+    "lng": 79.67718
+  },
+  {
+    "name": "Sirka",
+    "country": "IN",
+    "lat": 23.64561,
+    "lng": 85.43333
+  },
+  {
+    "name": "Sivandipuram",
+    "country": "IN",
+    "lat": 8.70667,
+    "lng": 77.40005
+  },
+  {
+    "name": "Sivagirippatti",
+    "country": "IN",
+    "lat": 10.45015,
+    "lng": 77.53035
+  },
+  {
+    "name": "Sirugamani",
+    "country": "IN",
+    "lat": 10.89496,
+    "lng": 78.53008
+  },
+  {
+    "name": "Silaimān",
+    "country": "IN",
+    "lat": 9.87311,
+    "lng": 78.19059
+  },
+  {
+    "name": "Sirāppalli",
+    "country": "IN",
+    "lat": 11.4544,
+    "lng": 78.24532
+  },
+  {
+    "name": "Sirsia",
+    "country": "IN",
+    "lat": 24.21204,
+    "lng": 86.31311
+  },
+  {
+    "name": "Sitapur",
+    "country": "IN",
+    "lat": 22.78072,
+    "lng": 83.49545
+  },
+  {
+    "name": "Silchar Part-X",
+    "country": "IN",
+    "lat": 24.81725,
+    "lng": 92.81355
+  },
+  {
+    "name": "Singhesar Asthan",
+    "country": "IN",
+    "lat": 25.98245,
+    "lng": 86.7945
+  },
+  {
+    "name": "Sidsar",
+    "country": "IN",
+    "lat": 21.71889,
+    "lng": 72.1112
+  },
+  {
+    "name": "Singarva",
+    "country": "IN",
+    "lat": 23.02288,
+    "lng": 72.69737
+  },
+  {
+    "name": "Sijhua",
+    "country": "IN",
+    "lat": 23.76897,
+    "lng": 86.16907
+  },
+  {
+    "name": "Sinduria",
+    "country": "IN",
+    "lat": 24.38999,
+    "lng": 83.60368
+  },
+  {
+    "name": "Sialgudri",
+    "country": "IN",
+    "lat": 23.76055,
+    "lng": 86.35161
+  },
+  {
+    "name": "Siuliban",
+    "country": "IN",
+    "lat": 23.7486,
+    "lng": 86.78477
+  },
+  {
+    "name": "Sikhong Sekmai",
+    "country": "IN",
+    "lat": 24.63795,
+    "lng": 94.09344
+  },
+  {
+    "name": "Sirukalathur",
+    "country": "IN",
+    "lat": 12.9823,
+    "lng": 80.05492
+  },
+  {
+    "name": "Sikkarayapuram",
+    "country": "IN",
+    "lat": 13.01766,
+    "lng": 80.1027
+  },
+  {
+    "name": "Sinjār",
+    "country": "IQ",
+    "lat": 36.3209,
+    "lng": 41.87656
+  },
+  {
+    "name": "Simele",
+    "country": "IQ",
+    "lat": 36.85833,
+    "lng": 42.8501
+  },
+  {
+    "name": "Sirjan",
+    "country": "IR",
+    "lat": 29.45137,
+    "lng": 55.6809
+  },
+  {
+    "name": "Siglufjörður",
+    "country": "IS",
+    "lat": 66.15198,
+    "lng": -18.90815
+  },
+  {
+    "name": "Siris",
+    "country": "IT",
+    "lat": 39.71228,
+    "lng": 8.77507
+  },
+  {
+    "name": "Siracusa",
+    "country": "IT",
+    "lat": 37.07542,
+    "lng": 15.28664
+  },
+  {
+    "name": "Sinopoli",
+    "country": "IT",
+    "lat": 38.26342,
+    "lng": 15.8771
+  },
+  {
+    "name": "Sinnai",
+    "country": "IT",
+    "lat": 39.30286,
+    "lng": 9.20283
+  },
+  {
+    "name": "Sini",
+    "country": "IT",
+    "lat": 39.75353,
+    "lng": 8.90486
+  },
+  {
+    "name": "Sinagra",
+    "country": "IT",
+    "lat": 38.08191,
+    "lng": 14.85009
+  },
+  {
+    "name": "Simbario",
+    "country": "IT",
+    "lat": 38.61157,
+    "lng": 16.33597
+  },
+  {
+    "name": "Simaxis",
+    "country": "IT",
+    "lat": 39.92995,
+    "lng": 8.68979
+  },
+  {
+    "name": "Simala",
+    "country": "IT",
+    "lat": 39.72099,
+    "lng": 8.82802
+  },
+  {
+    "name": "Silius",
+    "country": "IT",
+    "lat": 39.51695,
+    "lng": 9.2936
+  },
+  {
+    "name": "Siliqua",
+    "country": "IT",
+    "lat": 39.301,
+    "lng": 8.80584
+  },
+  {
+    "name": "Silì",
+    "country": "IT",
+    "lat": 39.91789,
+    "lng": 8.62194
+  },
+  {
+    "name": "Siderno",
+    "country": "IT",
+    "lat": 38.26993,
+    "lng": 16.29607
+  },
+  {
+    "name": "Siddi",
+    "country": "IT",
+    "lat": 39.67255,
+    "lng": 8.88815
+  },
+  {
+    "name": "Siculiana",
+    "country": "IT",
+    "lat": 37.33515,
+    "lng": 13.42432
+  },
+  {
+    "name": "Sibari",
+    "country": "IT",
+    "lat": 39.74733,
+    "lng": 16.4551
+  },
+  {
+    "name": "Siapiccia",
+    "country": "IT",
+    "lat": 39.92765,
+    "lng": 8.7627
+  },
+  {
+    "name": "Siano",
+    "country": "IT",
+    "lat": 38.91547,
+    "lng": 16.60224
+  },
+  {
+    "name": "Siamanna",
+    "country": "IT",
+    "lat": 39.91936,
+    "lng": 8.76185
+  },
+  {
+    "name": "Siamaggiore",
+    "country": "IT",
+    "lat": 39.94966,
+    "lng": 8.63461
+  },
+  {
+    "name": "Siurgus Donigala",
+    "country": "IT",
+    "lat": 39.59961,
+    "lng": 9.18746
+  },
+  {
+    "name": "Sizzano",
+    "country": "IT",
+    "lat": 45.57663,
+    "lng": 8.43613
+  },
+  {
+    "name": "Siziano",
+    "country": "IT",
+    "lat": 45.31606,
+    "lng": 9.20357
+  },
+  {
+    "name": "Siviano",
+    "country": "IT",
+    "lat": 45.71487,
+    "lng": 10.08026
+  },
+  {
+    "name": "Siusi",
+    "country": "IT",
+    "lat": 46.54133,
+    "lng": 11.55868
+  },
+  {
+    "name": "Sistiana-Visogliano",
+    "country": "IT",
+    "lat": 45.77237,
+    "lng": 13.63824
+  },
+  {
+    "name": "Sissa",
+    "country": "IT",
+    "lat": 44.95927,
+    "lng": 10.26058
+  },
+  {
+    "name": "Siror",
+    "country": "IT",
+    "lat": 46.18784,
+    "lng": 11.83116
+  },
+  {
+    "name": "Sirolo",
+    "country": "IT",
+    "lat": 43.52246,
+    "lng": 13.61498
+  },
+  {
+    "name": "Sirmione",
+    "country": "IT",
+    "lat": 45.49744,
+    "lng": 10.60507
+  },
+  {
+    "name": "Sirignano",
+    "country": "IT",
+    "lat": 40.94969,
+    "lng": 14.62935
+  },
+  {
+    "name": "Siniscola",
+    "country": "IT",
+    "lat": 40.57344,
+    "lng": 9.69695
+  },
+  {
+    "name": "Sindia",
+    "country": "IT",
+    "lat": 40.29518,
+    "lng": 8.65707
+  },
+  {
+    "name": "Sinalunga",
+    "country": "IT",
+    "lat": 43.21492,
+    "lng": 11.74507
+  },
+  {
+    "name": "Silvi",
+    "country": "IT",
+    "lat": 42.54984,
+    "lng": 14.11759
+  },
+  {
+    "name": "Silvano Pietra",
+    "country": "IT",
+    "lat": 45.03923,
+    "lng": 8.94637
+  },
+  {
+    "name": "Silvano d'Orba",
+    "country": "IT",
+    "lat": 44.6858,
+    "lng": 8.67182
+  },
+  {
+    "name": "Sillavengo",
+    "country": "IT",
+    "lat": 45.52067,
+    "lng": 8.44103
+  },
+  {
+    "name": "Sillano",
+    "country": "IT",
+    "lat": 44.22298,
+    "lng": 10.30235
+  },
+  {
+    "name": "Siligo",
+    "country": "IT",
+    "lat": 40.57483,
+    "lng": 8.72835
+  },
+  {
+    "name": "Silea",
+    "country": "IT",
+    "lat": 45.65444,
+    "lng": 12.29701
+  },
+  {
+    "name": "Silanus",
+    "country": "IT",
+    "lat": 40.28709,
+    "lng": 8.89199
+  },
+  {
+    "name": "Silandro",
+    "country": "IT",
+    "lat": 46.62831,
+    "lng": 10.76809
+  },
+  {
+    "name": "Signa",
+    "country": "IT",
+    "lat": 43.7942,
+    "lng": 11.1036
+  },
+  {
+    "name": "Sigillo",
+    "country": "IT",
+    "lat": 43.33111,
+    "lng": 12.74059
+  },
+  {
+    "name": "Siena",
+    "country": "IT",
+    "lat": 43.31822,
+    "lng": 11.33064
+  },
+  {
+    "name": "Sicignano degli Alburni",
+    "country": "IT",
+    "lat": 40.55882,
+    "lng": 15.3056
+  },
+  {
+    "name": "Siano",
+    "country": "IT",
+    "lat": 40.80207,
+    "lng": 14.69334
+  },
+  {
+    "name": "Sinio",
+    "country": "IT",
+    "lat": 44.60034,
+    "lng": 8.01994
+  },
+  {
+    "name": "Sirtori",
+    "country": "IT",
+    "lat": 45.73658,
+    "lng": 9.33085
+  },
+  {
+    "name": "Sirone",
+    "country": "IT",
+    "lat": 45.77268,
+    "lng": 9.32214
+  },
+  {
+    "name": "Sieci",
+    "country": "IT",
+    "lat": 43.78847,
+    "lng": 11.39445
+  },
+  {
+    "name": "Sinigo",
+    "country": "IT",
+    "lat": 46.63488,
+    "lng": 11.17926
+  },
+  {
+    "name": "Sirta",
+    "country": "IT",
+    "lat": 46.15823,
+    "lng": 9.66109
+  },
+  {
+    "name": "Siloah",
+    "country": "JM",
+    "lat": 18.16709,
+    "lng": -77.70348
+  },
+  {
+    "name": "Sirisia",
+    "country": "KE",
+    "lat": 0.75471,
+    "lng": 34.50351
+  },
+  {
+    "name": "Sindo",
+    "country": "KE",
+    "lat": -0.54061,
+    "lng": 34.16891
+  },
+  {
+    "name": "Simba",
+    "country": "KE",
+    "lat": -2.15792,
+    "lng": 37.59166
+  },
+  {
+    "name": "Siakago",
+    "country": "KE",
+    "lat": -0.57728,
+    "lng": 37.63996
+  },
+  {
+    "name": "Siaya",
+    "country": "KE",
+    "lat": 0.0607,
+    "lng": 34.28806
+  },
+  {
+    "name": "Sisophon",
+    "country": "KH",
+    "lat": 13.58588,
+    "lng": 102.97369
+  },
+  {
+    "name": "Siem Reap",
+    "country": "KH",
+    "lat": 13.36179,
+    "lng": 103.86056
+  },
+  {
+    "name": "Siem Pang",
+    "country": "KH",
+    "lat": 14.11728,
+    "lng": 106.38838
+  },
+  {
+    "name": "Siem Reab",
+    "country": "KH",
+    "lat": 11.40035,
+    "lng": 104.86384
+  },
+  {
+    "name": "Sihanoukville",
+    "country": "KH",
+    "lat": 10.60932,
+    "lng": 103.52958
+  },
+  {
+    "name": "Sithor Kandal",
+    "country": "KH",
+    "lat": 11.77264,
+    "lng": 105.38274
+  },
+  {
+    "name": "Singani",
+    "country": "KM",
+    "lat": -11.84784,
+    "lng": 43.31731
+  },
+  {
+    "name": "Sima",
+    "country": "KM",
+    "lat": -12.19556,
+    "lng": 44.27667
+  },
+  {
+    "name": "Sinwŏn-ŭp",
+    "country": "KP",
+    "lat": 38.23532,
+    "lng": 125.76244
+  },
+  {
+    "name": "Sil-li",
+    "country": "KP",
+    "lat": 39.49472,
+    "lng": 125.47361
+  },
+  {
+    "name": "Sinmak",
+    "country": "KP",
+    "lat": 38.41667,
+    "lng": 126.23333
+  },
+  {
+    "name": "Sinch’ŏn-ŭp",
+    "country": "KP",
+    "lat": 38.35323,
+    "lng": 125.48423
+  },
+  {
+    "name": "Sinanju",
+    "country": "KP",
+    "lat": 39.59806,
+    "lng": 125.60972
+  },
+  {
+    "name": "Sinsang-ni",
+    "country": "KP",
+    "lat": 39.64989,
+    "lng": 127.40729
+  },
+  {
+    "name": "Sinŭiju",
+    "country": "KP",
+    "lat": 40.10056,
+    "lng": 124.39806
+  },
+  {
+    "name": "Sijung",
+    "country": "KP",
+    "lat": 41.07889,
+    "lng": 126.375
+  },
+  {
+    "name": "Sintansin",
+    "country": "KR",
+    "lat": 36.45361,
+    "lng": 127.43111
+  },
+  {
+    "name": "Simcheon",
+    "country": "KR",
+    "lat": 36.23734,
+    "lng": 127.72248
+  },
+  {
+    "name": "Sinhyeon",
+    "country": "KR",
+    "lat": 34.8825,
+    "lng": 128.62667
+  },
+  {
+    "name": "Sinan",
+    "country": "KR",
+    "lat": 34.8262,
+    "lng": 126.10863
+  },
+  {
+    "name": "Singwang",
+    "country": "KR",
+    "lat": 36.12911,
+    "lng": 129.2636
+  },
+  {
+    "name": "Sindong",
+    "country": "KR",
+    "lat": 37.81735,
+    "lng": 127.71656
+  },
+  {
+    "name": "Sinseo",
+    "country": "KR",
+    "lat": 38.18561,
+    "lng": 127.10819
+  },
+  {
+    "name": "Sinan",
+    "country": "KR",
+    "lat": 34.83394,
+    "lng": 126.35133
+  },
+  {
+    "name": "Sijong",
+    "country": "KR",
+    "lat": 34.86886,
+    "lng": 126.60706
+  },
+  {
+    "name": "Simwon",
+    "country": "KR",
+    "lat": 35.52448,
+    "lng": 126.55107
+  },
+  {
+    "name": "Sidon",
+    "country": "LB",
+    "lat": 33.55751,
+    "lng": 35.37148
+  },
+  {
+    "name": "Sigiriya",
+    "country": "LK",
+    "lat": 7.94946,
+    "lng": 80.75037
+  },
+  {
+    "name": "Simnas",
+    "country": "LT",
+    "lat": 54.382,
+    "lng": 23.646
+  },
+  {
+    "name": "Silute",
+    "country": "LT",
+    "lat": 55.34889,
+    "lng": 21.48306
+  },
+  {
+    "name": "Sigulda",
+    "country": "LV",
+    "lat": 57.15375,
+    "lng": 24.85953
+  },
+  {
+    "name": "Sirte",
+    "country": "LY",
+    "lat": 31.20892,
+    "lng": 16.58866
+  },
+  {
+    "name": "Sidi Zouine",
+    "country": "MA",
+    "lat": 31.66914,
+    "lng": -8.34541
+  },
+  {
+    "name": "Sidi Yahya Ou Saad",
+    "country": "MA",
+    "lat": 32.68011,
+    "lng": -5.57738
+  },
+  {
+    "name": "Sidi Yahya Zaer",
+    "country": "MA",
+    "lat": 33.82977,
+    "lng": -6.91262
+  },
+  {
+    "name": "Sidi Yahia El Gharb",
+    "country": "MA",
+    "lat": 34.30494,
+    "lng": -6.30404
+  },
+  {
+    "name": "Sidi Smai’il",
+    "country": "MA",
+    "lat": 32.82461,
+    "lng": -8.51122
+  },
+  {
+    "name": "Sidi Slimane",
+    "country": "MA",
+    "lat": 34.26479,
+    "lng": -5.92598
+  },
+  {
+    "name": "Sidi Redouane",
+    "country": "MA",
+    "lat": 34.68692,
+    "lng": -5.44538
+  },
+  {
+    "name": "Sidi Rahhal",
+    "country": "MA",
+    "lat": 31.65031,
+    "lng": -7.47288
+  },
+  {
+    "name": "Sidi Rahal",
+    "country": "MA",
+    "lat": 33.47739,
+    "lng": -7.93641
+  },
+  {
+    "name": "Sidi Kacem",
+    "country": "MA",
+    "lat": 34.22149,
+    "lng": -5.70775
+  },
+  {
+    "name": "Sidi Moussa",
+    "country": "MA",
+    "lat": 32.27209,
+    "lng": -7.20095
+  },
+  {
+    "name": "Sidi Lmokhtar",
+    "country": "MA",
+    "lat": 31.57739,
+    "lng": -9.01575
+  },
+  {
+    "name": "Sidi Lamine",
+    "country": "MA",
+    "lat": 32.90783,
+    "lng": -6.05069
+  },
+  {
+    "name": "Sidi Jaber",
+    "country": "MA",
+    "lat": 32.38952,
+    "lng": -6.42095
+  },
+  {
+    "name": "Sidi Ifni",
+    "country": "MA",
+    "lat": 29.37975,
+    "lng": -10.17299
+  },
+  {
+    "name": "Sidi Harazem",
+    "country": "MA",
+    "lat": 34.02733,
+    "lng": -4.88343
+  },
+  {
+    "name": "Sidi Bousber",
+    "country": "MA",
+    "lat": 34.56283,
+    "lng": -5.36208
+  },
+  {
+    "name": "Sidi Bou Othmane",
+    "country": "MA",
+    "lat": 31.90226,
+    "lng": -7.94169
+  },
+  {
+    "name": "Sidi Bou Lanouar",
+    "country": "MA",
+    "lat": 32.86,
+    "lng": -6.88
+  },
+  {
+    "name": "Sidi Bibi",
+    "country": "MA",
+    "lat": 30.23784,
+    "lng": -9.52877
+  },
+  {
+    "name": "Sidi Bennour",
+    "country": "MA",
+    "lat": 32.65236,
+    "lng": -8.42769
+  },
+  {
+    "name": "Sidi Amar",
+    "country": "MA",
+    "lat": 32.94987,
+    "lng": -5.83225
+  },
+  {
+    "name": "Sidi Allal Tazi",
+    "country": "MA",
+    "lat": 34.52257,
+    "lng": -6.32197
+  },
+  {
+    "name": "Sidi Allal El Bahraoui",
+    "country": "MA",
+    "lat": 34.0077,
+    "lng": -6.53082
+  },
+  {
+    "name": "Sidi Abdallah",
+    "country": "MA",
+    "lat": 32.53544,
+    "lng": -7.83243
+  },
+  {
+    "name": "Sidi Abdallah Ghiat",
+    "country": "MA",
+    "lat": 31.523,
+    "lng": -7.833
+  },
+  {
+    "name": "Sidi Bouzid",
+    "country": "MA",
+    "lat": 33.23151,
+    "lng": -8.55062
+  },
+  {
+    "name": "Sidi Ahmed",
+    "country": "MA",
+    "lat": 32.20807,
+    "lng": -8.49141
+  },
+  {
+    "name": "Sidi Taibi",
+    "country": "MA",
+    "lat": 34.18698,
+    "lng": -6.68176
+  },
+  {
+    "name": "Sidi ’Addi",
+    "country": "MA",
+    "lat": 33.3957,
+    "lng": -5.33341
+  },
+  {
+    "name": "Sidi Ali Ben Hamdouche",
+    "country": "MA",
+    "lat": 33.28665,
+    "lng": -8.32664
+  },
+  {
+    "name": "Sidi Slimane Echcharaa",
+    "country": "MA",
+    "lat": 34.90818,
+    "lng": -2.35055
+  },
+  {
+    "name": "Sitampiky",
+    "country": "MG",
+    "lat": -16.66667,
+    "lng": 46.1
+  },
+  {
+    "name": "Siribala Coro",
+    "country": "ML",
+    "lat": 14.0432,
+    "lng": -6.1067
+  },
+  {
+    "name": "Sirakoro Méguétana",
+    "country": "ML",
+    "lat": 12.56439,
+    "lng": -7.91551
+  },
+  {
+    "name": "Sikasso",
+    "country": "ML",
+    "lat": 11.31755,
+    "lng": -5.66654
+  },
+  {
+    "name": "Sittwe",
+    "country": "MM",
+    "lat": 20.14624,
+    "lng": 92.89835
+  },
+  {
+    "name": "Si In",
+    "country": "MM",
+    "lat": 24.24537,
+    "lng": 97.29221
+  },
+  {
+    "name": "Sin Thay",
+    "country": "MM",
+    "lat": 26.02343,
+    "lng": 95.66348
+  },
+  {
+    "name": "Siġġiewi",
+    "country": "MT",
+    "lat": 35.85547,
+    "lng": 14.43611
+  },
+  {
+    "name": "Sitpach",
+    "country": "MX",
+    "lat": 21.02688,
+    "lng": -89.52108
+  },
+  {
+    "name": "Sitilpech",
+    "country": "MX",
+    "lat": 20.94049,
+    "lng": -88.95677
+  },
+  {
+    "name": "Sisal",
+    "country": "MX",
+    "lat": 21.167,
+    "lng": -90.02532
+  },
+  {
+    "name": "Singuilucan",
+    "country": "MX",
+    "lat": 19.96874,
+    "lng": -98.51935
+  },
+  {
+    "name": "Sinanche",
+    "country": "MX",
+    "lat": 21.22591,
+    "lng": -89.18495
+  },
+  {
+    "name": "Sinaloa",
+    "country": "MX",
+    "lat": 15.89261,
+    "lng": -92.12896
+  },
+  {
+    "name": "Simojovel de Allende",
+    "country": "MX",
+    "lat": 17.14012,
+    "lng": -92.714
+  },
+  {
+    "name": "Siltepec",
+    "country": "MX",
+    "lat": 15.55676,
+    "lng": -92.32251
+  },
+  {
+    "name": "Sihochac",
+    "country": "MX",
+    "lat": 19.5012,
+    "lng": -90.58472
+  },
+  {
+    "name": "Sierra Papacal",
+    "country": "MX",
+    "lat": 21.12517,
+    "lng": -89.7302
+  },
+  {
+    "name": "Sierra de Agua",
+    "country": "MX",
+    "lat": 19.60529,
+    "lng": -97.20041
+  },
+  {
+    "name": "Simón Sarlat",
+    "country": "MX",
+    "lat": 18.34179,
+    "lng": -92.80668
+  },
+  {
+    "name": "Sindihui",
+    "country": "MX",
+    "lat": 17.00456,
+    "lng": -97.35066
+  },
+  {
+    "name": "Sitio de Xitlapehua",
+    "country": "MX",
+    "lat": 16.35139,
+    "lng": -96.53215
+  },
+  {
+    "name": "Silacayoápam",
+    "country": "MX",
+    "lat": 17.50297,
+    "lng": -98.13966
+  },
+  {
+    "name": "Sibacá",
+    "country": "MX",
+    "lat": 16.93093,
+    "lng": -92.14006
+  },
+  {
+    "name": "Sihuapan",
+    "country": "MX",
+    "lat": 18.43663,
+    "lng": -95.17833
+  },
+  {
+    "name": "Sisoguichi",
+    "country": "MX",
+    "lat": 27.78304,
+    "lng": -107.49517
+  },
+  {
+    "name": "Siqueros",
+    "country": "MX",
+    "lat": 23.34123,
+    "lng": -106.2407
+  },
+  {
+    "name": "Sinaloa de Leyva",
+    "country": "MX",
+    "lat": 25.82248,
+    "lng": -108.22275
+  },
+  {
+    "name": "Sinahuisa",
+    "country": "MX",
+    "lat": 26.91156,
+    "lng": -109.43767
+  },
+  {
+    "name": "Silao",
+    "country": "MX",
+    "lat": 20.94356,
+    "lng": -101.42703
+  },
+  {
+    "name": "Sierra Mojada",
+    "country": "MX",
+    "lat": 27.28861,
+    "lng": -103.70124
+  },
+  {
+    "name": "Silva",
+    "country": "MX",
+    "lat": 20.94617,
+    "lng": -101.85687
+  },
+  {
+    "name": "Sinapan",
+    "country": "MX",
+    "lat": 18.5348,
+    "lng": -95.29287
+  },
+  {
+    "name": "Simeprodeso (Colectivo Nuevo)",
+    "country": "MX",
+    "lat": 25.85306,
+    "lng": -100.29167
+  },
+  {
+    "name": "Sitio Ejido",
+    "country": "MX",
+    "lat": 19.45334,
+    "lng": -99.90069
+  },
+  {
+    "name": "Sierra de Guadalupe",
+    "country": "MX",
+    "lat": 19.5925,
+    "lng": -99.15944
+  },
+  {
+    "name": "Sitalá",
+    "country": "MX",
+    "lat": 17.02417,
+    "lng": -92.30694
+  },
+  {
+    "name": "Sibaniljá Pocolum",
+    "country": "MX",
+    "lat": 16.87639,
+    "lng": -92.46111
+  },
+  {
+    "name": "Sinahua",
+    "country": "MX",
+    "lat": 18.28111,
+    "lng": -100.60028
+  },
+  {
+    "name": "Sierra de Agua",
+    "country": "MX",
+    "lat": 18.75028,
+    "lng": -97.24167
+  },
+  {
+    "name": "Simpang Renggam",
+    "country": "MY",
+    "lat": 1.825,
+    "lng": 103.3107
+  },
+  {
+    "name": "Sipitang",
+    "country": "MY",
+    "lat": 5.07903,
+    "lng": 115.54964
+  },
+  {
+    "name": "Siburan",
+    "country": "MY",
+    "lat": 1.36667,
+    "lng": 110.4
+  },
+  {
+    "name": "Simpang Empat",
+    "country": "MY",
+    "lat": 4.95,
+    "lng": 100.63333
+  },
+  {
+    "name": "Simpang Pertang",
+    "country": "MY",
+    "lat": 2.9434,
+    "lng": 102.2589
+  },
+  {
+    "name": "Simpang Empat",
+    "country": "MY",
+    "lat": 5.2818,
+    "lng": 100.47768
+  },
+  {
+    "name": "Sitiawan",
+    "country": "MY",
+    "lat": 4.2168,
+    "lng": 100.6996
+  },
+  {
+    "name": "Simunjan",
+    "country": "MY",
+    "lat": 1.38333,
+    "lng": 110.75
+  },
+  {
+    "name": "Sibu",
+    "country": "MY",
+    "lat": 2.3,
+    "lng": 111.81667
+  },
+  {
+    "name": "Sintok",
+    "country": "MY",
+    "lat": 6.44233,
+    "lng": 100.5235
+  },
+  {
+    "name": "Simpang",
+    "country": "MY",
+    "lat": 4.81667,
+    "lng": 100.7
+  },
+  {
+    "name": "Sik",
+    "country": "MY",
+    "lat": 5.83333,
+    "lng": 100.75
+  },
+  {
+    "name": "Simpang Empat",
+    "country": "MY",
+    "lat": 6.02674,
+    "lng": 100.39603
+  },
+  {
+    "name": "Sibu Jaya",
+    "country": "MY",
+    "lat": 2.24026,
+    "lng": 111.97135
+  },
+  {
+    "name": "Sixième Kilomètre",
+    "country": "NC",
+    "lat": -22.24626,
+    "lng": 166.47204
+  },
+  {
+    "name": "Siluko",
+    "country": "NG",
+    "lat": 6.53589,
+    "lng": 5.16005
+  },
+  {
+    "name": "Silame",
+    "country": "NG",
+    "lat": 13.03921,
+    "lng": 4.84593
+  },
+  {
+    "name": "Siuna",
+    "country": "NI",
+    "lat": 13.73321,
+    "lng": -84.77725
+  },
+  {
+    "name": "Sittard",
+    "country": "NL",
+    "lat": 50.99833,
+    "lng": 5.86944
+  },
+  {
+    "name": "Sint Willebrord",
+    "country": "NL",
+    "lat": 51.54833,
+    "lng": 4.58889
+  },
+  {
+    "name": "Sint Philipsland",
+    "country": "NL",
+    "lat": 51.61667,
+    "lng": 4.16528
+  },
+  {
+    "name": "Sint Pancras",
+    "country": "NL",
+    "lat": 52.66,
+    "lng": 4.78333
+  },
+  {
+    "name": "Sint-Oedenrode",
+    "country": "NL",
+    "lat": 51.5675,
+    "lng": 5.45972
+  },
+  {
+    "name": "Sint Odiliënberg",
+    "country": "NL",
+    "lat": 51.14333,
+    "lng": 6.0
+  },
+  {
+    "name": "Sint Nicolaasga",
+    "country": "NL",
+    "lat": 52.92293,
+    "lng": 5.74242
+  },
+  {
+    "name": "Sint-Michielsgestel",
+    "country": "NL",
+    "lat": 51.64167,
+    "lng": 5.35278
+  },
+  {
+    "name": "Sint Laurens",
+    "country": "NL",
+    "lat": 51.5275,
+    "lng": 3.60278
+  },
+  {
+    "name": "Sint Joost",
+    "country": "NL",
+    "lat": 51.1175,
+    "lng": 5.89861
+  },
+  {
+    "name": "Sintjohannesga",
+    "country": "NL",
+    "lat": 52.93157,
+    "lng": 5.85588
+  },
+  {
+    "name": "Sint Jansklooster",
+    "country": "NL",
+    "lat": 52.6775,
+    "lng": 6.00556
+  },
+  {
+    "name": "Sint Jacobiparochie",
+    "country": "NL",
+    "lat": 53.27291,
+    "lng": 5.60354
+  },
+  {
+    "name": "Sint Anthonis",
+    "country": "NL",
+    "lat": 51.62667,
+    "lng": 5.88194
+  },
+  {
+    "name": "Sint Annaparochie",
+    "country": "NL",
+    "lat": 53.2762,
+    "lng": 5.65727
+  },
+  {
+    "name": "Simpelveld",
+    "country": "NL",
+    "lat": 50.83417,
+    "lng": 5.98194
+  },
+  {
+    "name": "Silvolde",
+    "country": "NL",
+    "lat": 51.90917,
+    "lng": 6.3875
+  },
+  {
+    "name": "Siddeburen",
+    "country": "NL",
+    "lat": 53.25,
+    "lng": 6.86806
+  },
+  {
+    "name": "Sibbe",
+    "country": "NL",
+    "lat": 50.84417,
+    "lng": 5.82639
+  },
+  {
+    "name": "Sistranda",
+    "country": "NO",
+    "lat": 63.72523,
+    "lng": 8.83318
+  },
+  {
+    "name": "Siljan",
+    "country": "NO",
+    "lat": 59.28843,
+    "lng": 9.71
+  },
+  {
+    "name": "Silvalen",
+    "country": "NO",
+    "lat": 65.9832,
+    "lng": 12.28856
+  },
+  {
+    "name": "Siraha",
+    "country": "NP",
+    "lat": 26.65422,
+    "lng": 86.20795
+  },
+  {
+    "name": "Silgaḍhi̇̄",
+    "country": "NP",
+    "lat": 29.2668,
+    "lng": 80.9841
+  },
+  {
+    "name": "Siddharthanagar",
+    "country": "NP",
+    "lat": 27.5,
+    "lng": 83.45
+  },
+  {
+    "name": "Silverstream",
+    "country": "NZ",
+    "lat": -41.15,
+    "lng": 175.0
+  },
+  {
+    "name": "Silverdale",
+    "country": "NZ",
+    "lat": -36.6187,
+    "lng": 174.67764
+  },
+  {
+    "name": "Sitio Prado",
+    "country": "PA",
+    "lat": 8.37281,
+    "lng": -81.57998
+  },
+  {
+    "name": "Sioguí Arriba",
+    "country": "PA",
+    "lat": 8.53914,
+    "lng": -82.68358
+  },
+  {
+    "name": "Sioguí Abajo",
+    "country": "PA",
+    "lat": 8.48141,
+    "lng": -82.66303
+  },
+  {
+    "name": "Sitabamba",
+    "country": "PE",
+    "lat": -8.02331,
+    "lng": -77.73155
+  },
+  {
+    "name": "Sinsicap",
+    "country": "PE",
+    "lat": -7.85183,
+    "lng": -78.75623
+  },
+  {
+    "name": "Singa",
+    "country": "PE",
+    "lat": -9.38745,
+    "lng": -76.81262
+  },
+  {
+    "name": "Sinchao",
+    "country": "PE",
+    "lat": -5.41667,
+    "lng": -80.66667
+  },
+  {
+    "name": "Simbal",
+    "country": "PE",
+    "lat": -7.97613,
+    "lng": -78.81346
+  },
+  {
+    "name": "Sillapata",
+    "country": "PE",
+    "lat": -9.75831,
+    "lng": -76.7744
+  },
+  {
+    "name": "Sihuas",
+    "country": "PE",
+    "lat": -8.56667,
+    "lng": -77.61667
+  },
+  {
+    "name": "Sisa",
+    "country": "PE",
+    "lat": -6.61085,
+    "lng": -76.69302
+  },
+  {
+    "name": "Sitajara",
+    "country": "PE",
+    "lat": -17.3756,
+    "lng": -70.13383
+  },
+  {
+    "name": "Sincos",
+    "country": "PE",
+    "lat": -11.89119,
+    "lng": -75.38745
+  },
+  {
+    "name": "Sina",
+    "country": "PE",
+    "lat": -14.49659,
+    "lng": -69.2799
+  },
+  {
+    "name": "Sicuani",
+    "country": "PE",
+    "lat": -14.26944,
+    "lng": -71.22611
+  },
+  {
+    "name": "Sicaya",
+    "country": "PE",
+    "lat": -12.0152,
+    "lng": -75.2801
+  },
+  {
+    "name": "Sibayo",
+    "country": "PE",
+    "lat": -15.48657,
+    "lng": -71.45738
+  },
+  {
+    "name": "Sivia",
+    "country": "PE",
+    "lat": -12.51202,
+    "lng": -73.85808
+  },
+  {
+    "name": "Sitangkai",
+    "country": "PH",
+    "lat": 4.66115,
+    "lng": 119.39647
+  },
+  {
+    "name": "Sison",
+    "country": "PH",
+    "lat": 16.17389,
+    "lng": 120.51528
+  },
+  {
+    "name": "Sison",
+    "country": "PH",
+    "lat": 9.66028,
+    "lng": 125.52861
+  },
+  {
+    "name": "Siruma",
+    "country": "PH",
+    "lat": 14.0,
+    "lng": 123.25
+  },
+  {
+    "name": "Sirib",
+    "country": "PH",
+    "lat": 7.13333,
+    "lng": 125.40722
+  },
+  {
+    "name": "Siraway",
+    "country": "PH",
+    "lat": 7.58528,
+    "lng": 122.13972
+  },
+  {
+    "name": "Siquijor",
+    "country": "PH",
+    "lat": 9.2142,
+    "lng": 123.515
+  },
+  {
+    "name": "Sipocot",
+    "country": "PH",
+    "lat": 13.768,
+    "lng": 122.9762
+  },
+  {
+    "name": "Sipalay",
+    "country": "PH",
+    "lat": 9.75194,
+    "lng": 122.40417
+  },
+  {
+    "name": "Siocon",
+    "country": "PH",
+    "lat": 7.70611,
+    "lng": 122.13528
+  },
+  {
+    "name": "Sinuknipan",
+    "country": "PH",
+    "lat": 13.8894,
+    "lng": 122.6375
+  },
+  {
+    "name": "Sinubong",
+    "country": "PH",
+    "lat": 7.02806,
+    "lng": 121.92528
+  },
+  {
+    "name": "Sinonoc",
+    "country": "PH",
+    "lat": 8.3096,
+    "lng": 123.8461
+  },
+  {
+    "name": "Sinolon",
+    "country": "PH",
+    "lat": 6.24389,
+    "lng": 124.81444
+  },
+  {
+    "name": "Sinubong",
+    "country": "PH",
+    "lat": 8.0684,
+    "lng": 125.9308
+  },
+  {
+    "name": "Sinisian",
+    "country": "PH",
+    "lat": 13.9156,
+    "lng": 120.84401
+  },
+  {
+    "name": "Siniloan",
+    "country": "PH",
+    "lat": 14.4216,
+    "lng": 121.4463
+  },
+  {
+    "name": "Sinilian First",
+    "country": "PH",
+    "lat": 15.69327,
+    "lng": 120.45936
+  },
+  {
+    "name": "Sindon",
+    "country": "PH",
+    "lat": 17.06034,
+    "lng": 122.01514
+  },
+  {
+    "name": "Sindangan",
+    "country": "PH",
+    "lat": 8.2376,
+    "lng": 122.9974
+  },
+  {
+    "name": "Sinayawan",
+    "country": "PH",
+    "lat": 6.7125,
+    "lng": 125.30944
+  },
+  {
+    "name": "Sinawilan",
+    "country": "PH",
+    "lat": 6.75444,
+    "lng": 125.24639
+  },
+  {
+    "name": "Sinamar",
+    "country": "PH",
+    "lat": 16.9,
+    "lng": 121.56667
+  },
+  {
+    "name": "Sinala",
+    "country": "PH",
+    "lat": 13.8057,
+    "lng": 120.97463
+  },
+  {
+    "name": "Sinait",
+    "country": "PH",
+    "lat": 17.8664,
+    "lng": 120.4583
+  },
+  {
+    "name": "Sinait",
+    "country": "PH",
+    "lat": 15.5367,
+    "lng": 120.5851
+  },
+  {
+    "name": "Sinacaban",
+    "country": "PH",
+    "lat": 8.2864,
+    "lng": 123.8399
+  },
+  {
+    "name": "Simunul",
+    "country": "PH",
+    "lat": 4.89833,
+    "lng": 119.84944
+  },
+  {
+    "name": "Simimbaan",
+    "country": "PH",
+    "lat": 17.11856,
+    "lng": 121.58138
+  },
+  {
+    "name": "Simanu Sur",
+    "country": "PH",
+    "lat": 17.48523,
+    "lng": 121.83426
+  },
+  {
+    "name": "Simala",
+    "country": "PH",
+    "lat": 9.97326,
+    "lng": 123.61648
+  },
+  {
+    "name": "Silway 7",
+    "country": "PH",
+    "lat": 6.17711,
+    "lng": 125.12068
+  },
+  {
+    "name": "Silvino Lobos",
+    "country": "PH",
+    "lat": 12.3,
+    "lng": 124.83333
+  },
+  {
+    "name": "Silongin",
+    "country": "PH",
+    "lat": 13.2999,
+    "lng": 122.5217
+  },
+  {
+    "name": "Sillon",
+    "country": "PH",
+    "lat": 11.199,
+    "lng": 123.7675
+  },
+  {
+    "name": "Sillawit",
+    "country": "PH",
+    "lat": 16.87316,
+    "lng": 121.75924
+  },
+  {
+    "name": "Silanga",
+    "country": "PH",
+    "lat": 11.81806,
+    "lng": 124.84306
+  },
+  {
+    "name": "Silang",
+    "country": "PH",
+    "lat": 14.21567,
+    "lng": 120.97137
+  },
+  {
+    "name": "Silago",
+    "country": "PH",
+    "lat": 10.5291,
+    "lng": 125.1618
+  },
+  {
+    "name": "Silae",
+    "country": "PH",
+    "lat": 8.15889,
+    "lng": 125.2825
+  },
+  {
+    "name": "Silab",
+    "country": "PH",
+    "lat": 9.4383,
+    "lng": 123.1792
+  },
+  {
+    "name": "Sikatuna",
+    "country": "PH",
+    "lat": 9.6883,
+    "lng": 123.9751
+  },
+  {
+    "name": "Sigma",
+    "country": "PH",
+    "lat": 11.4214,
+    "lng": 122.6662
+  },
+  {
+    "name": "Sigay",
+    "country": "PH",
+    "lat": 17.08333,
+    "lng": 120.6
+  },
+  {
+    "name": "Sierra Bullones",
+    "country": "PH",
+    "lat": 9.8081,
+    "lng": 124.2921
+  },
+  {
+    "name": "Siempre Viva",
+    "country": "PH",
+    "lat": 17.22874,
+    "lng": 121.63294
+  },
+  {
+    "name": "Sico Uno",
+    "country": "PH",
+    "lat": 13.8301,
+    "lng": 121.37123
+  },
+  {
+    "name": "Siclong",
+    "country": "PH",
+    "lat": 15.5808,
+    "lng": 121.2239
+  },
+  {
+    "name": "Sibutao",
+    "country": "PH",
+    "lat": 8.5916,
+    "lng": 123.4859
+  },
+  {
+    "name": "Sibulan",
+    "country": "PH",
+    "lat": 14.75,
+    "lng": 121.93333
+  },
+  {
+    "name": "Sibulan",
+    "country": "PH",
+    "lat": 9.3584,
+    "lng": 123.285
+  },
+  {
+    "name": "Sibulan",
+    "country": "PH",
+    "lat": 6.93361,
+    "lng": 125.46222
+  },
+  {
+    "name": "Sibul",
+    "country": "PH",
+    "lat": 15.8,
+    "lng": 121.0
+  },
+  {
+    "name": "Sibul",
+    "country": "PH",
+    "lat": 15.169,
+    "lng": 121.0616
+  },
+  {
+    "name": "Sibuco",
+    "country": "PH",
+    "lat": 7.29111,
+    "lng": 122.06556
+  },
+  {
+    "name": "Sibucao",
+    "country": "PH",
+    "lat": 10.4179,
+    "lng": 122.887
+  },
+  {
+    "name": "Sibonga",
+    "country": "PH",
+    "lat": 10.0168,
+    "lng": 123.6171
+  },
+  {
+    "name": "Sibalom",
+    "country": "PH",
+    "lat": 10.79,
+    "lng": 122.0178
+  },
+  {
+    "name": "Sibaguan",
+    "country": "PH",
+    "lat": 11.55778,
+    "lng": 122.71389
+  },
+  {
+    "name": "Sibagat",
+    "country": "PH",
+    "lat": 8.8225,
+    "lng": 125.6975
+  },
+  {
+    "name": "Siayan",
+    "country": "PH",
+    "lat": 8.26667,
+    "lng": 123.1
+  },
+  {
+    "name": "Siay",
+    "country": "PH",
+    "lat": 7.69611,
+    "lng": 122.86306
+  },
+  {
+    "name": "Siaton",
+    "country": "PH",
+    "lat": 9.0648,
+    "lng": 123.0339
+  },
+  {
+    "name": "Siasi",
+    "country": "PH",
+    "lat": 5.5462,
+    "lng": 120.8145
+  },
+  {
+    "name": "Siari",
+    "country": "PH",
+    "lat": 8.3245,
+    "lng": 122.9881
+  },
+  {
+    "name": "Siguinon",
+    "country": "PH",
+    "lat": 10.9423,
+    "lng": 124.6806
+  },
+  {
+    "name": "Simbahan",
+    "country": "PH",
+    "lat": 6.3032,
+    "lng": 120.5836
+  },
+  {
+    "name": "Sigaboy",
+    "country": "PH",
+    "lat": 6.65413,
+    "lng": 126.07268
+  },
+  {
+    "name": "Sibulao",
+    "country": "PH",
+    "lat": 7.32417,
+    "lng": 122.23944
+  },
+  {
+    "name": "Sionogan",
+    "country": "PH",
+    "lat": 6.00528,
+    "lng": 120.94861
+  },
+  {
+    "name": "Simuay",
+    "country": "PH",
+    "lat": 7.27722,
+    "lng": 124.30722
+  },
+  {
+    "name": "Simod",
+    "country": "PH",
+    "lat": 7.47583,
+    "lng": 125.34083
+  },
+  {
+    "name": "Sita Road",
+    "country": "PK",
+    "lat": 27.03333,
+    "lng": 67.85
+  },
+  {
+    "name": "Sinjhoro",
+    "country": "PK",
+    "lat": 26.03008,
+    "lng": 68.80867
+  },
+  {
+    "name": "Sillanwali",
+    "country": "PK",
+    "lat": 31.82539,
+    "lng": 72.54064
+  },
+  {
+    "name": "Sibi",
+    "country": "PK",
+    "lat": 29.54299,
+    "lng": 67.87726
+  },
+  {
+    "name": "Sialkot",
+    "country": "PK",
+    "lat": 32.49268,
+    "lng": 74.53134
+  },
+  {
+    "name": "Sitno",
+    "country": "PL",
+    "lat": 50.74944,
+    "lng": 23.3626
+  },
+  {
+    "name": "Sietesz",
+    "country": "PL",
+    "lat": 49.98622,
+    "lng": 22.34671
+  },
+  {
+    "name": "Sieradza",
+    "country": "PL",
+    "lat": 50.13499,
+    "lng": 20.92947
+  },
+  {
+    "name": "Sienno",
+    "country": "PL",
+    "lat": 51.08773,
+    "lng": 21.48325
+  },
+  {
+    "name": "Siennica",
+    "country": "PL",
+    "lat": 52.09164,
+    "lng": 21.61921
+  },
+  {
+    "name": "Sieniawa",
+    "country": "PL",
+    "lat": 50.1779,
+    "lng": 22.60954
+  },
+  {
+    "name": "Sieniawa",
+    "country": "PL",
+    "lat": 49.56508,
+    "lng": 21.92785
+  },
+  {
+    "name": "Siemień",
+    "country": "PL",
+    "lat": 51.62883,
+    "lng": 22.77243
+  },
+  {
+    "name": "Siemiechów",
+    "country": "PL",
+    "lat": 49.85359,
+    "lng": 20.90595
+  },
+  {
+    "name": "Siemiatycze",
+    "country": "PL",
+    "lat": 52.42719,
+    "lng": 22.86231
+  },
+  {
+    "name": "Siemiątkowo",
+    "country": "PL",
+    "lat": 52.8811,
+    "lng": 20.02893
+  },
+  {
+    "name": "Siedliska",
+    "country": "PL",
+    "lat": 49.95409,
+    "lng": 21.94742
+  },
+  {
+    "name": "Siedliska",
+    "country": "PL",
+    "lat": 49.87163,
+    "lng": 20.99625
+  },
+  {
+    "name": "Siedleczka",
+    "country": "PL",
+    "lat": 49.96061,
+    "lng": 22.37949
+  },
+  {
+    "name": "Siedlce",
+    "country": "PL",
+    "lat": 52.16772,
+    "lng": 22.29006
+  },
+  {
+    "name": "Siennica Różana",
+    "country": "PL",
+    "lat": 51.00123,
+    "lng": 23.3226
+  },
+  {
+    "name": "Siewierz",
+    "country": "PL",
+    "lat": 50.46657,
+    "lng": 19.23028
+  },
+  {
+    "name": "Sierpc",
+    "country": "PL",
+    "lat": 52.8568,
+    "lng": 19.66913
+  },
+  {
+    "name": "Sieroszewice",
+    "country": "PL",
+    "lat": 51.63347,
+    "lng": 17.972
+  },
+  {
+    "name": "Sierakowice",
+    "country": "PL",
+    "lat": 54.3461,
+    "lng": 17.89252
+  },
+  {
+    "name": "Sieraków",
+    "country": "PL",
+    "lat": 52.65134,
+    "lng": 16.08047
+  },
+  {
+    "name": "Sieraków Śląski",
+    "country": "PL",
+    "lat": 50.8029,
+    "lng": 18.57548
+  },
+  {
+    "name": "Sieradz",
+    "country": "PL",
+    "lat": 51.59584,
+    "lng": 18.73023
+  },
+  {
+    "name": "Siepraw",
+    "country": "PL",
+    "lat": 49.91437,
+    "lng": 19.95864
+  },
+  {
+    "name": "Sieniawa Żarska",
+    "country": "PL",
+    "lat": 51.64007,
+    "lng": 15.06045
+  },
+  {
+    "name": "Sieniawa",
+    "country": "PL",
+    "lat": 52.36344,
+    "lng": 15.37768
+  },
+  {
+    "name": "Sieniawa",
+    "country": "PL",
+    "lat": 49.53947,
+    "lng": 19.93014
+  },
+  {
+    "name": "Siemkowice",
+    "country": "PL",
+    "lat": 51.20194,
+    "lng": 18.8988
+  },
+  {
+    "name": "Siemianowice Śląskie",
+    "country": "PL",
+    "lat": 50.32738,
+    "lng": 19.02901
+  },
+  {
+    "name": "Siekierczyn",
+    "country": "PL",
+    "lat": 51.12217,
+    "lng": 15.19375
+  },
+  {
+    "name": "Siedlisko",
+    "country": "PL",
+    "lat": 51.76864,
+    "lng": 15.81396
+  },
+  {
+    "name": "Siedlec",
+    "country": "PL",
+    "lat": 52.13781,
+    "lng": 16.00279
+  },
+  {
+    "name": "Siechnice",
+    "country": "PL",
+    "lat": 51.03384,
+    "lng": 17.14743
+  },
+  {
+    "name": "Sidzina",
+    "country": "PL",
+    "lat": 50.57375,
+    "lng": 17.44904
+  },
+  {
+    "name": "Sidzina",
+    "country": "PL",
+    "lat": 49.98732,
+    "lng": 19.87495
+  },
+  {
+    "name": "Sidzina",
+    "country": "PL",
+    "lat": 49.59146,
+    "lng": 19.71119
+  },
+  {
+    "name": "Sicienko",
+    "country": "PL",
+    "lat": 53.20387,
+    "lng": 17.80051
+  },
+  {
+    "name": "Sianów",
+    "country": "PL",
+    "lat": 54.22646,
+    "lng": 16.29127
+  },
+  {
+    "name": "Siedlce",
+    "country": "PL",
+    "lat": 54.34692,
+    "lng": 18.61694
+  },
+  {
+    "name": "Sinjil",
+    "country": "PS",
+    "lat": 32.03334,
+    "lng": 35.26545
+  },
+  {
+    "name": "Silwād",
+    "country": "PS",
+    "lat": 31.97625,
+    "lng": 35.2613
+  },
+  {
+    "name": "Sintra",
+    "country": "PT",
+    "lat": 38.80097,
+    "lng": -9.37826
+  },
+  {
+    "name": "Sines",
+    "country": "PT",
+    "lat": 37.95622,
+    "lng": -8.86979
+  },
+  {
+    "name": "Silves",
+    "country": "PT",
+    "lat": 37.18921,
+    "lng": -8.43822
+  },
+  {
+    "name": "Silveira",
+    "country": "PT",
+    "lat": 39.1112,
+    "lng": -9.3643
+  },
+  {
+    "name": "Silvalde",
+    "country": "PT",
+    "lat": 40.99205,
+    "lng": -8.62567
+  },
+  {
+    "name": "Silva Escura",
+    "country": "PT",
+    "lat": 41.25822,
+    "lng": -8.58081
+  },
+  {
+    "name": "Sita Buzăului",
+    "country": "RO",
+    "lat": 45.65,
+    "lng": 26.06667
+  },
+  {
+    "name": "Sireţel",
+    "country": "RO",
+    "lat": 47.4,
+    "lng": 26.73333
+  },
+  {
+    "name": "Siret",
+    "country": "RO",
+    "lat": 47.95,
+    "lng": 26.06667
+  },
+  {
+    "name": "Sintești",
+    "country": "RO",
+    "lat": 44.30046,
+    "lng": 26.12126
+  },
+  {
+    "name": "Sintea Mare",
+    "country": "RO",
+    "lat": 46.51667,
+    "lng": 21.6
+  },
+  {
+    "name": "Singureni",
+    "country": "RO",
+    "lat": 44.23361,
+    "lng": 25.94333
+  },
+  {
+    "name": "Sineşti",
+    "country": "RO",
+    "lat": 47.11667,
+    "lng": 27.18333
+  },
+  {
+    "name": "Sineşti",
+    "country": "RO",
+    "lat": 44.95,
+    "lng": 23.85
+  },
+  {
+    "name": "Sineşti",
+    "country": "RO",
+    "lat": 44.56667,
+    "lng": 26.38333
+  },
+  {
+    "name": "Sinești",
+    "country": "RO",
+    "lat": 44.46777,
+    "lng": 24.66585
+  },
+  {
+    "name": "Sinaia",
+    "country": "RO",
+    "lat": 45.35,
+    "lng": 25.55
+  },
+  {
+    "name": "Simoneşti",
+    "country": "RO",
+    "lat": 46.33333,
+    "lng": 25.1
+  },
+  {
+    "name": "Siminoc",
+    "country": "RO",
+    "lat": 44.16866,
+    "lng": 28.35277
+  },
+  {
+    "name": "Siminicea",
+    "country": "RO",
+    "lat": 47.7,
+    "lng": 26.4
+  },
+  {
+    "name": "Simeria",
+    "country": "RO",
+    "lat": 45.85,
+    "lng": 23.01667
+  },
+  {
+    "name": "Silivașu de Câmpie",
+    "country": "RO",
+    "lat": 46.78333,
+    "lng": 24.3
+  },
+  {
+    "name": "Siliștea Snagovului",
+    "country": "RO",
+    "lat": 44.7392,
+    "lng": 26.17942
+  },
+  {
+    "name": "Siliștea Gumești",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 25.0
+  },
+  {
+    "name": "Siliştea Crucii",
+    "country": "RO",
+    "lat": 44.04341,
+    "lng": 23.47511
+  },
+  {
+    "name": "Siliștea",
+    "country": "RO",
+    "lat": 46.77781,
+    "lng": 26.69303
+  },
+  {
+    "name": "Siliştea",
+    "country": "RO",
+    "lat": 45.311,
+    "lng": 27.829
+  },
+  {
+    "name": "Siliştea",
+    "country": "RO",
+    "lat": 44.4,
+    "lng": 28.16667
+  },
+  {
+    "name": "Siliştea",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 25.35
+  },
+  {
+    "name": "Sihlea",
+    "country": "RO",
+    "lat": 45.5,
+    "lng": 27.11667
+  },
+  {
+    "name": "Sighetu Marmaţiei",
+    "country": "RO",
+    "lat": 47.93195,
+    "lng": 23.88603
+  },
+  {
+    "name": "Siculeni",
+    "country": "RO",
+    "lat": 46.41667,
+    "lng": 25.75
+  },
+  {
+    "name": "Sicheviţa",
+    "country": "RO",
+    "lat": 44.735,
+    "lng": 21.84861
+  },
+  {
+    "name": "Sic",
+    "country": "RO",
+    "lat": 46.93333,
+    "lng": 23.88333
+  },
+  {
+    "name": "Sibiu",
+    "country": "RO",
+    "lat": 45.8,
+    "lng": 24.15
+  },
+  {
+    "name": "Sighișoara",
+    "country": "RO",
+    "lat": 46.22141,
+    "lng": 24.79279
+  },
+  {
+    "name": "Sinošević",
+    "country": "RS",
+    "lat": 44.61503,
+    "lng": 19.63601
+  },
+  {
+    "name": "Sizyy Bugor",
+    "country": "RU",
+    "lat": 46.21343,
+    "lng": 48.50462
+  },
+  {
+    "name": "Siverskiy",
+    "country": "RU",
+    "lat": 59.35444,
+    "lng": 30.07833
+  },
+  {
+    "name": "Siva",
+    "country": "RU",
+    "lat": 58.38057,
+    "lng": 54.37377
+  },
+  {
+    "name": "Siukh",
+    "country": "RU",
+    "lat": 42.5999,
+    "lng": 46.54462
+  },
+  {
+    "name": "Sitniki",
+    "country": "RU",
+    "lat": 56.45529,
+    "lng": 44.06658
+  },
+  {
+    "name": "Sista-Palkino",
+    "country": "RU",
+    "lat": 59.80042,
+    "lng": 28.91049
+  },
+  {
+    "name": "Sinyavskoye",
+    "country": "RU",
+    "lat": 47.27691,
+    "lng": 39.27843
+  },
+  {
+    "name": "Sinyavino",
+    "country": "RU",
+    "lat": 59.90781,
+    "lng": 31.0711
+  },
+  {
+    "name": "Sinodskoye",
+    "country": "RU",
+    "lat": 51.9918,
+    "lng": 46.67009
+  },
+  {
+    "name": "Sinegorskiy",
+    "country": "RU",
+    "lat": 48.01389,
+    "lng": 40.84468
+  },
+  {
+    "name": "Sindor",
+    "country": "RU",
+    "lat": 62.86286,
+    "lng": 51.89051
+  },
+  {
+    "name": "Sim",
+    "country": "RU",
+    "lat": 54.993,
+    "lng": 57.6982
+  },
+  {
+    "name": "Silikatnyy",
+    "country": "RU",
+    "lat": 53.98957,
+    "lng": 48.32749
+  },
+  {
+    "name": "Sigayevo",
+    "country": "RU",
+    "lat": 56.42163,
+    "lng": 53.77566
+  },
+  {
+    "name": "Sibay",
+    "country": "RU",
+    "lat": 52.71793,
+    "lng": 58.66667
+  },
+  {
+    "name": "Sibirskiy",
+    "country": "RU",
+    "lat": 53.57988,
+    "lng": 83.76691
+  },
+  {
+    "name": "Sivakovka",
+    "country": "RU",
+    "lat": 44.47811,
+    "lng": 132.3675
+  },
+  {
+    "name": "Sivaki",
+    "country": "RU",
+    "lat": 52.6348,
+    "lng": 126.74971
+  },
+  {
+    "name": "Sibirtsevo",
+    "country": "RU",
+    "lat": 44.20212,
+    "lng": 132.46117
+  },
+  {
+    "name": "Sinegor'ye",
+    "country": "RU",
+    "lat": 62.08782,
+    "lng": 150.52162
+  },
+  {
+    "name": "Sinegorsk",
+    "country": "RU",
+    "lat": 47.17223,
+    "lng": 142.51811
+  },
+  {
+    "name": "Singapay",
+    "country": "RU",
+    "lat": 61.15452,
+    "lng": 72.66072
+  },
+  {
+    "name": "Sirius",
+    "country": "RU",
+    "lat": 43.40504,
+    "lng": 39.95963
+  },
+  {
+    "name": "Sinkat",
+    "country": "SD",
+    "lat": 18.8405,
+    "lng": 36.8351
+  },
+  {
+    "name": "Singa",
+    "country": "SD",
+    "lat": 13.1483,
+    "lng": 33.93117
+  },
+  {
+    "name": "Sinnar",
+    "country": "SD",
+    "lat": 13.56907,
+    "lng": 33.56718
+  },
+  {
+    "name": "Simrishamn",
+    "country": "SE",
+    "lat": 55.55653,
+    "lng": 14.35037
+  },
+  {
+    "name": "Siljansnäs",
+    "country": "SE",
+    "lat": 60.78333,
+    "lng": 14.85
+  },
+  {
+    "name": "Sigtuna",
+    "country": "SE",
+    "lat": 59.61731,
+    "lng": 17.72361
+  },
+  {
+    "name": "Sibbhult",
+    "country": "SE",
+    "lat": 56.26667,
+    "lng": 14.2
+  },
+  {
+    "name": "Singapore",
+    "country": "SG",
+    "lat": 1.28967,
+    "lng": 103.85007
+  },
+  {
+    "name": "Simei New Town",
+    "country": "SG",
+    "lat": 1.34111,
+    "lng": 103.95611
+  },
+  {
+    "name": "Simbakoro",
+    "country": "SL",
+    "lat": 8.61243,
+    "lng": -11.00755
+  },
+  {
+    "name": "Sintiou Bamambé",
+    "country": "SN",
+    "lat": 15.36736,
+    "lng": -13.13471
+  },
+  {
+    "name": "Sibassor",
+    "country": "SN",
+    "lat": 14.18645,
+    "lng": -16.15947
+  },
+  {
+    "name": "Sirghāyā",
+    "country": "SY",
+    "lat": 33.8104,
+    "lng": 36.15787
+  },
+  {
+    "name": "Sinjār",
+    "country": "SY",
+    "lat": 35.59011,
+    "lng": 37.00472
+  },
+  {
+    "name": "Siteki",
+    "country": "SZ",
+    "lat": -26.4525,
+    "lng": 31.94722
+  },
+  {
+    "name": "Sidvokodvo",
+    "country": "SZ",
+    "lat": -26.6282,
+    "lng": 31.42021
+  },
+  {
+    "name": "Sinkassé",
+    "country": "TG",
+    "lat": 11.10389,
+    "lng": 0.00944
+  },
+  {
+    "name": "Si Sawat",
+    "country": "TH",
+    "lat": 14.59922,
+    "lng": 99.11406
+  },
+  {
+    "name": "Si Satchanalai",
+    "country": "TH",
+    "lat": 17.51692,
+    "lng": 99.75978
+  },
+  {
+    "name": "Si Samrong",
+    "country": "TH",
+    "lat": 17.164,
+    "lng": 99.86222
+  },
+  {
+    "name": "Si Nakhon",
+    "country": "TH",
+    "lat": 17.34907,
+    "lng": 99.98563
+  },
+  {
+    "name": "Sikao",
+    "country": "TH",
+    "lat": 7.57158,
+    "lng": 99.34494
+  },
+  {
+    "name": "Si Banphot",
+    "country": "TH",
+    "lat": 7.72136,
+    "lng": 99.8843
+  },
+  {
+    "name": "Siao",
+    "country": "TH",
+    "lat": 14.79583,
+    "lng": 104.67017
+  },
+  {
+    "name": "Si Thep",
+    "country": "TH",
+    "lat": 15.45214,
+    "lng": 101.06667
+  },
+  {
+    "name": "Si That",
+    "country": "TH",
+    "lat": 16.97361,
+    "lng": 103.21644
+  },
+  {
+    "name": "Si Songkhram",
+    "country": "TH",
+    "lat": 17.62745,
+    "lng": 104.25069
+  },
+  {
+    "name": "Si Sakhon",
+    "country": "TH",
+    "lat": 6.23137,
+    "lng": 101.50048
+  },
+  {
+    "name": "Si Sa Ket",
+    "country": "TH",
+    "lat": 15.11481,
+    "lng": 104.32938
+  },
+  {
+    "name": "Si Rattana",
+    "country": "TH",
+    "lat": 14.79328,
+    "lng": 104.46922
+  },
+  {
+    "name": "Si Racha",
+    "country": "TH",
+    "lat": 13.17372,
+    "lng": 100.93111
+  },
+  {
+    "name": "Si Prachan",
+    "country": "TH",
+    "lat": 14.61992,
+    "lng": 100.14483
+  },
+  {
+    "name": "Sing Buri",
+    "country": "TH",
+    "lat": 14.88786,
+    "lng": 100.40464
+  },
+  {
+    "name": "Si Mueang Mai",
+    "country": "TH",
+    "lat": 15.49315,
+    "lng": 105.27624
+  },
+  {
+    "name": "Si Maha Phot",
+    "country": "TH",
+    "lat": 13.96597,
+    "lng": 101.51303
+  },
+  {
+    "name": "Si Khoraphum",
+    "country": "TH",
+    "lat": 14.94418,
+    "lng": 103.79704
+  },
+  {
+    "name": "Sikhio",
+    "country": "TH",
+    "lat": 14.89225,
+    "lng": 101.72314
+  },
+  {
+    "name": "Si Chomphu",
+    "country": "TH",
+    "lat": 16.79878,
+    "lng": 102.18466
+  },
+  {
+    "name": "Si Chiang Mai",
+    "country": "TH",
+    "lat": 17.95639,
+    "lng": 102.58667
+  },
+  {
+    "name": "Si Bun Rueang",
+    "country": "TH",
+    "lat": 16.96705,
+    "lng": 102.27607
+  },
+  {
+    "name": "Si Mahosot",
+    "country": "TH",
+    "lat": 13.8878,
+    "lng": 101.40501
+  },
+  {
+    "name": "Si Somdet",
+    "country": "TH",
+    "lat": 15.99797,
+    "lng": 103.48789
+  },
+  {
+    "name": "Si Narong",
+    "country": "TH",
+    "lat": 14.76736,
+    "lng": 103.87392
+  },
+  {
+    "name": "Si Wilai",
+    "country": "TH",
+    "lat": 18.18188,
+    "lng": 103.74793
+  },
+  {
+    "name": "Sila Lat",
+    "country": "TH",
+    "lat": 15.47156,
+    "lng": 104.07153
+  },
+  {
+    "name": "Sirindhorn",
+    "country": "TH",
+    "lat": 15.20084,
+    "lng": 105.39222
+  },
+  {
+    "name": "Sida",
+    "country": "TH",
+    "lat": 15.54994,
+    "lng": 102.56675
+  },
+  {
+    "name": "Singhanakhon",
+    "country": "TH",
+    "lat": 7.23903,
+    "lng": 100.55272
+  },
+  {
+    "name": "Siriraj",
+    "country": "TH",
+    "lat": 13.75754,
+    "lng": 100.48474
+  },
+  {
+    "name": "Siliana",
+    "country": "TN",
+    "lat": 36.08497,
+    "lng": 9.37082
+  },
+  {
+    "name": "Sidi Amor Bou Hajela",
+    "country": "TN",
+    "lat": 35.39742,
+    "lng": 10.0477
+  },
+  {
+    "name": "Sidi Alouane",
+    "country": "TN",
+    "lat": 35.37505,
+    "lng": 10.93899
+  },
+  {
+    "name": "Sidi Tabet",
+    "country": "TN",
+    "lat": 36.9099,
+    "lng": 10.04222
+  },
+  {
+    "name": "Sidi Bouzid",
+    "country": "TN",
+    "lat": 35.03823,
+    "lng": 9.48494
+  },
+  {
+    "name": "Sidi Bou Rouis",
+    "country": "TN",
+    "lat": 36.17665,
+    "lng": 9.1235
+  },
+  {
+    "name": "Sidi Bou Ali",
+    "country": "TN",
+    "lat": 35.95667,
+    "lng": 10.47306
+  },
+  {
+    "name": "Sidi Ben Nour",
+    "country": "TN",
+    "lat": 35.53333,
+    "lng": 10.91667
+  },
+  {
+    "name": "Sidi Ameur",
+    "country": "TN",
+    "lat": 35.75,
+    "lng": 10.7
+  },
+  {
+    "name": "Sidi el Hani",
+    "country": "TN",
+    "lat": 35.67139,
+    "lng": 10.31583
+  },
+  {
+    "name": "Sidi Bou Said",
+    "country": "TN",
+    "lat": 36.8687,
+    "lng": 10.34174
+  },
+  {
+    "name": "Sidi Abid",
+    "country": "TN",
+    "lat": 34.69999,
+    "lng": 10.69501
+  },
+  {
+    "name": "Sivrihisar",
+    "country": "TR",
+    "lat": 39.45037,
+    "lng": 31.53409
+  },
+  {
+    "name": "Sivrice",
+    "country": "TR",
+    "lat": 38.44223,
+    "lng": 39.30938
+  },
+  {
+    "name": "Sivrice",
+    "country": "TR",
+    "lat": 37.27696,
+    "lng": 41.33587
+  },
+  {
+    "name": "Siverek",
+    "country": "TR",
+    "lat": 37.75503,
+    "lng": 39.31667
+  },
+  {
+    "name": "Sivaslı",
+    "country": "TR",
+    "lat": 38.49944,
+    "lng": 29.68361
+  },
+  {
+    "name": "Sivas",
+    "country": "TR",
+    "lat": 39.74833,
+    "lng": 37.01611
+  },
+  {
+    "name": "Sincik",
+    "country": "TR",
+    "lat": 38.03645,
+    "lng": 38.61257
+  },
+  {
+    "name": "Sincan",
+    "country": "TR",
+    "lat": 39.47167,
+    "lng": 37.87083
+  },
+  {
+    "name": "Sinanpaşa",
+    "country": "TR",
+    "lat": 38.74444,
+    "lng": 30.24278
+  },
+  {
+    "name": "Sinanköy",
+    "country": "TR",
+    "lat": 37.86166,
+    "lng": 40.99283
+  },
+  {
+    "name": "Simav",
+    "country": "TR",
+    "lat": 39.0882,
+    "lng": 28.97767
+  },
+  {
+    "name": "Silvan",
+    "country": "TR",
+    "lat": 38.13708,
+    "lng": 41.00817
+  },
+  {
+    "name": "Silopi",
+    "country": "TR",
+    "lat": 37.24379,
+    "lng": 42.46345
+  },
+  {
+    "name": "Sille",
+    "country": "TR",
+    "lat": 37.92731,
+    "lng": 32.41995
+  },
+  {
+    "name": "Silifke",
+    "country": "TR",
+    "lat": 36.37778,
+    "lng": 33.93444
+  },
+  {
+    "name": "Siirt",
+    "country": "TR",
+    "lat": 37.9293,
+    "lng": 41.94134
+  },
+  {
+    "name": "Side",
+    "country": "TR",
+    "lat": 36.76667,
+    "lng": 31.38889
+  },
+  {
+    "name": "Sinop",
+    "country": "TR",
+    "lat": 42.02683,
+    "lng": 35.16253
+  },
+  {
+    "name": "Sinekli",
+    "country": "TR",
+    "lat": 41.22798,
+    "lng": 28.19043
+  },
+  {
+    "name": "Sinekçi",
+    "country": "TR",
+    "lat": 40.27073,
+    "lng": 27.40667
+  },
+  {
+    "name": "Silivri",
+    "country": "TR",
+    "lat": 41.07393,
+    "lng": 28.24644
+  },
+  {
+    "name": "Siparia",
+    "country": "TT",
+    "lat": 10.14525,
+    "lng": -61.5074
+  },
+  {
+    "name": "Sirari",
+    "country": "TZ",
+    "lat": -1.25367,
+    "lng": 34.47596
+  },
+  {
+    "name": "Singida",
+    "country": "TZ",
+    "lat": -4.81629,
+    "lng": 34.74358
+  },
+  {
+    "name": "Sikonge",
+    "country": "TZ",
+    "lat": -5.63333,
+    "lng": 32.76667
+  },
+  {
+    "name": "Sievierodonetsk",
+    "country": "UA",
+    "lat": 48.94628,
+    "lng": 38.48624
+  },
+  {
+    "name": "Sizovka",
+    "country": "UA",
+    "lat": 45.34892,
+    "lng": 33.87669
+  },
+  {
+    "name": "Simferopol",
+    "country": "UA",
+    "lat": 44.95719,
+    "lng": 34.11079
+  },
+  {
+    "name": "Simeiz",
+    "country": "UA",
+    "lat": 44.40646,
+    "lng": 34.00704
+  },
+  {
+    "name": "Siversk",
+    "country": "UA",
+    "lat": 48.86588,
+    "lng": 38.09779
+  },
+  {
+    "name": "Simeikyne",
+    "country": "UA",
+    "lat": 48.32643,
+    "lng": 39.53366
+  },
+  {
+    "name": "Silets",
+    "country": "UA",
+    "lat": 50.29712,
+    "lng": 24.20462
+  },
+  {
+    "name": "Siedove",
+    "country": "UA",
+    "lat": 47.0787,
+    "lng": 38.15368
+  },
+  {
+    "name": "Sinitsyno",
+    "country": "UA",
+    "lat": 45.23862,
+    "lng": 35.24659
+  },
+  {
+    "name": "Sironko",
+    "country": "UG",
+    "lat": 1.23132,
+    "lng": 34.24773
+  },
+  {
+    "name": "Siloam Springs",
+    "country": "US",
+    "lat": 36.18814,
+    "lng": -94.5405
+  },
+  {
+    "name": "Siesta Key",
+    "country": "US",
+    "lat": 27.26785,
+    "lng": -82.54526
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 28.84193,
+    "lng": -81.79841
+  },
+  {
+    "name": "Silver Springs",
+    "country": "US",
+    "lat": 29.21664,
+    "lng": -82.05759
+  },
+  {
+    "name": "Silver Springs Shores",
+    "country": "US",
+    "lat": 29.10442,
+    "lng": -82.02064
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 39.10417,
+    "lng": -95.8586
+  },
+  {
+    "name": "Silver Grove",
+    "country": "US",
+    "lat": 39.03451,
+    "lng": -84.39022
+  },
+  {
+    "name": "Simpsonville",
+    "country": "US",
+    "lat": 38.22257,
+    "lng": -85.35523
+  },
+  {
+    "name": "Sibley",
+    "country": "US",
+    "lat": 32.53932,
+    "lng": -93.29628
+  },
+  {
+    "name": "Simmesport",
+    "country": "US",
+    "lat": 30.98352,
+    "lng": -91.80012
+  },
+  {
+    "name": "Silver Hill",
+    "country": "US",
+    "lat": 38.84178,
+    "lng": -76.94581
+  },
+  {
+    "name": "Silver Spring",
+    "country": "US",
+    "lat": 38.99067,
+    "lng": -77.02609
+  },
+  {
+    "name": "Sikeston",
+    "country": "US",
+    "lat": 36.87672,
+    "lng": -89.58786
+  },
+  {
+    "name": "Siler City",
+    "country": "US",
+    "lat": 35.72347,
+    "lng": -79.46224
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 34.14878,
+    "lng": -77.9136
+  },
+  {
+    "name": "Sicklerville",
+    "country": "US",
+    "lat": 39.71734,
+    "lng": -74.96933
+  },
+  {
+    "name": "Silver Ridge",
+    "country": "US",
+    "lat": 39.963,
+    "lng": -74.238
+  },
+  {
+    "name": "Silverton",
+    "country": "US",
+    "lat": 39.19284,
+    "lng": -84.4005
+  },
+  {
+    "name": "Sixteen Mile Stand",
+    "country": "US",
+    "lat": 39.27284,
+    "lng": -84.32744
+  },
+  {
+    "name": "Simpsonville",
+    "country": "US",
+    "lat": 34.73706,
+    "lng": -82.25428
+  },
+  {
+    "name": "Signal Mountain",
+    "country": "US",
+    "lat": 35.12257,
+    "lng": -85.34385
+  },
+  {
+    "name": "Sienna Plantation",
+    "country": "US",
+    "lat": 29.48607,
+    "lng": -95.508
+  },
+  {
+    "name": "Siesta Shores",
+    "country": "US",
+    "lat": 26.8581,
+    "lng": -99.25365
+  },
+  {
+    "name": "Silsbee",
+    "country": "US",
+    "lat": 30.3491,
+    "lng": -94.17796
+  },
+  {
+    "name": "Sinton",
+    "country": "US",
+    "lat": 28.03668,
+    "lng": -97.50916
+  },
+  {
+    "name": "Sissonville",
+    "country": "US",
+    "lat": 38.52815,
+    "lng": -81.63096
+  },
+  {
+    "name": "Sistersville",
+    "country": "US",
+    "lat": 39.56424,
+    "lng": -80.99594
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 40.74833,
+    "lng": -95.6475
+  },
+  {
+    "name": "Sibley",
+    "country": "US",
+    "lat": 43.39914,
+    "lng": -95.75196
+  },
+  {
+    "name": "Sigourney",
+    "country": "US",
+    "lat": 41.33334,
+    "lng": -92.20463
+  },
+  {
+    "name": "Sioux Center",
+    "country": "US",
+    "lat": 43.07971,
+    "lng": -96.17558
+  },
+  {
+    "name": "Sioux City",
+    "country": "US",
+    "lat": 42.49999,
+    "lng": -96.40031
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 40.02503,
+    "lng": -88.07337
+  },
+  {
+    "name": "Silvis",
+    "country": "US",
+    "lat": 41.51226,
+    "lng": -90.41513
+  },
+  {
+    "name": "Simonton Lake",
+    "country": "US",
+    "lat": 41.75422,
+    "lng": -85.975
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 44.41312,
+    "lng": -69.72893
+  },
+  {
+    "name": "Silver Bay",
+    "country": "US",
+    "lat": 47.29436,
+    "lng": -91.25739
+  },
+  {
+    "name": "Singac",
+    "country": "US",
+    "lat": 40.88677,
+    "lng": -74.24098
+  },
+  {
+    "name": "Sixmile Run",
+    "country": "US",
+    "lat": 40.45761,
+    "lng": -74.51154
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 42.3148,
+    "lng": -75.39157
+  },
+  {
+    "name": "Silver Creek",
+    "country": "US",
+    "lat": 42.54423,
+    "lng": -79.16671
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 40.28422,
+    "lng": -84.1555
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 41.15895,
+    "lng": -81.45428
+  },
+  {
+    "name": "Simpson",
+    "country": "US",
+    "lat": 41.59175,
+    "lng": -75.48518
+  },
+  {
+    "name": "Sinking Spring",
+    "country": "US",
+    "lat": 40.32731,
+    "lng": -76.01105
+  },
+  {
+    "name": "Sioux Falls",
+    "country": "US",
+    "lat": 43.54369,
+    "lng": -96.72796
+  },
+  {
+    "name": "Sisseton",
+    "country": "US",
+    "lat": 45.66468,
+    "lng": -97.0498
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 42.54613,
+    "lng": -88.16564
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 44.05526,
+    "lng": -89.22623
+  },
+  {
+    "name": "Siren",
+    "country": "US",
+    "lat": 45.78578,
+    "lng": -92.38103
+  },
+  {
+    "name": "Sierra Vista",
+    "country": "US",
+    "lat": 31.55454,
+    "lng": -110.30369
+  },
+  {
+    "name": "Sierra Madre",
+    "country": "US",
+    "lat": 34.16167,
+    "lng": -118.05285
+  },
+  {
+    "name": "Signal Hill",
+    "country": "US",
+    "lat": 33.80446,
+    "lng": -118.16785
+  },
+  {
+    "name": "Simi Valley",
+    "country": "US",
+    "lat": 34.26945,
+    "lng": -118.78148
+  },
+  {
+    "name": "Silt",
+    "country": "US",
+    "lat": 39.54859,
+    "lng": -107.65617
+  },
+  {
+    "name": "Silverthorne",
+    "country": "US",
+    "lat": 39.63214,
+    "lng": -106.07428
+  },
+  {
+    "name": "Silverton",
+    "country": "US",
+    "lat": 37.81194,
+    "lng": -107.66451
+  },
+  {
+    "name": "Silver City",
+    "country": "US",
+    "lat": 32.77007,
+    "lng": -108.28033
+  },
+  {
+    "name": "Silver Springs",
+    "country": "US",
+    "lat": 39.41547,
+    "lng": -119.22461
+  },
+  {
+    "name": "Sierra Blanca",
+    "country": "US",
+    "lat": 31.17457,
+    "lng": -105.35718
+  },
+  {
+    "name": "Silverton",
+    "country": "US",
+    "lat": 34.47423,
+    "lng": -101.30461
+  },
+  {
+    "name": "Sitka",
+    "country": "US",
+    "lat": 57.05315,
+    "lng": -135.33088
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 47.71668,
+    "lng": -104.15633
+  },
+  {
+    "name": "Sidney",
+    "country": "US",
+    "lat": 41.14276,
+    "lng": -102.97798
+  },
+  {
+    "name": "Siletz",
+    "country": "US",
+    "lat": 44.72178,
+    "lng": -123.92011
+  },
+  {
+    "name": "Silverton",
+    "country": "US",
+    "lat": 45.00512,
+    "lng": -122.78315
+  },
+  {
+    "name": "Sisters",
+    "country": "US",
+    "lat": 44.29095,
+    "lng": -121.54921
+  },
+  {
+    "name": "Silverdale",
+    "country": "US",
+    "lat": 47.64454,
+    "lng": -122.69487
+  },
+  {
+    "name": "Sisco Heights",
+    "country": "US",
+    "lat": 48.11538,
+    "lng": -122.09708
+  },
+  {
+    "name": "Silver Firs",
+    "country": "US",
+    "lat": 47.86602,
+    "lng": -122.1551
+  },
+  {
+    "name": "Simsbury Center",
+    "country": "US",
+    "lat": 41.88088,
+    "lng": -72.81116
+  },
+  {
+    "name": "Sierra Vista Southeast",
+    "country": "US",
+    "lat": 31.45385,
+    "lng": -110.21637
+  },
+  {
+    "name": "Six Shooter Canyon",
+    "country": "US",
+    "lat": 33.36678,
+    "lng": -110.7746
+  },
+  {
+    "name": "Silver Summit",
+    "country": "US",
+    "lat": 40.74144,
+    "lng": -111.48775
+  },
+  {
+    "name": "Sierra View",
+    "country": "US",
+    "lat": 41.01207,
+    "lng": -75.459
+  },
+  {
+    "name": "Siesta Acres",
+    "country": "US",
+    "lat": 28.75799,
+    "lng": -100.49019
+  },
+  {
+    "name": "Silver Lakes",
+    "country": "US",
+    "lat": 34.74558,
+    "lng": -117.34098
+  },
+  {
+    "name": "Silver Lake",
+    "country": "US",
+    "lat": 34.08668,
+    "lng": -118.27023
+  },
+  {
+    "name": "Sirdaryo",
+    "country": "UZ",
+    "lat": 40.84361,
+    "lng": 68.66167
+  },
+  {
+    "name": "Sion Hill",
+    "country": "VC",
+    "lat": 13.15202,
+    "lng": -61.21901
+  },
+  {
+    "name": "Siquisique",
+    "country": "VE",
+    "lat": 10.57112,
+    "lng": -69.70172
+  },
+  {
+    "name": "Sinamaica",
+    "country": "VE",
+    "lat": 11.08656,
+    "lng": -71.85595
+  },
+  {
+    "name": "Sierra Imataca",
+    "country": "VE",
+    "lat": 8.39352,
+    "lng": -62.45439
+  },
+  {
+    "name": "Si Ma Cai",
+    "country": "VN",
+    "lat": 22.6951,
+    "lng": 104.27857
+  },
+  {
+    "name": "Si Pa Phìn",
+    "country": "VN",
+    "lat": 21.80147,
+    "lng": 102.96263
+  },
+  {
+    "name": "Siusega",
+    "country": "WS",
+    "lat": -13.84432,
+    "lng": -171.81397
+  },
+  {
+    "name": "Si’umu",
+    "country": "WS",
+    "lat": -14.00943,
+    "lng": -171.77682
+  },
+  {
+    "name": "Sirār",
+    "country": "YE",
+    "lat": 13.63778,
+    "lng": 45.31371
+  },
+  {
+    "name": "Siyabuswa",
+    "country": "ZA",
+    "lat": -25.11319,
+    "lng": 29.04454
+  },
+  {
+    "name": "Simon's Town",
+    "country": "ZA",
+    "lat": -34.1934,
+    "lng": 18.43585
+  },
+  {
+    "name": "Sizanane",
+    "country": "ZA",
+    "lat": -26.11447,
+    "lng": 29.4086
+  },
+  {
+    "name": "Sidlamafa",
+    "country": "ZA",
+    "lat": -25.67045,
+    "lng": 31.69017
+  },
+  {
+    "name": "Sinda",
+    "country": "ZM",
+    "lat": -14.21004,
+    "lng": 31.7629
+  },
+  {
+    "name": "Sinazongwe",
+    "country": "ZM",
+    "lat": -17.2614,
+    "lng": 27.46179
+  },
+  {
+    "name": "Siavonga",
+    "country": "ZM",
+    "lat": -16.53818,
+    "lng": 28.70876
+  }
+]

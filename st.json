@@ -1,0 +1,8384 @@
+[
+  {
+    "name": "Stêr Giyān",
+    "country": "AF",
+    "lat": 32.97704,
+    "lng": 69.37308
+  },
+  {
+    "name": "Stoney Ground",
+    "country": "AI",
+    "lat": 18.22026,
+    "lng": -63.04607
+  },
+  {
+    "name": "Stravaj",
+    "country": "AL",
+    "lat": 41.00528,
+    "lng": 20.42306
+  },
+  {
+    "name": "Steblevë",
+    "country": "AL",
+    "lat": 41.33722,
+    "lng": 20.47
+  },
+  {
+    "name": "Strum",
+    "country": "AL",
+    "lat": 40.75111,
+    "lng": 19.7375
+  },
+  {
+    "name": "Starovë",
+    "country": "AL",
+    "lat": 40.71722,
+    "lng": 19.91778
+  },
+  {
+    "name": "Stepanavan",
+    "country": "AM",
+    "lat": 41.00995,
+    "lng": 44.38531
+  },
+  {
+    "name": "Stummerberg",
+    "country": "AT",
+    "lat": 47.28333,
+    "lng": 11.91667
+  },
+  {
+    "name": "Stumm",
+    "country": "AT",
+    "lat": 47.29052,
+    "lng": 11.88755
+  },
+  {
+    "name": "Stuhlfelden",
+    "country": "AT",
+    "lat": 47.28761,
+    "lng": 12.52755
+  },
+  {
+    "name": "Studenzen",
+    "country": "AT",
+    "lat": 47.00583,
+    "lng": 15.75417
+  },
+  {
+    "name": "Stubenberg",
+    "country": "AT",
+    "lat": 47.2446,
+    "lng": 15.80027
+  },
+  {
+    "name": "Stronsdorf",
+    "country": "AT",
+    "lat": 48.65157,
+    "lng": 16.2989
+  },
+  {
+    "name": "Strobl",
+    "country": "AT",
+    "lat": 47.71667,
+    "lng": 13.48333
+  },
+  {
+    "name": "Strengen",
+    "country": "AT",
+    "lat": 47.12589,
+    "lng": 10.46199
+  },
+  {
+    "name": "Strengberg",
+    "country": "AT",
+    "lat": 48.14685,
+    "lng": 14.65147
+  },
+  {
+    "name": "Strem",
+    "country": "AT",
+    "lat": 47.04498,
+    "lng": 16.41426
+  },
+  {
+    "name": "Stratzing",
+    "country": "AT",
+    "lat": 48.45,
+    "lng": 15.6
+  },
+  {
+    "name": "Strasswalchen",
+    "country": "AT",
+    "lat": 47.97947,
+    "lng": 13.25535
+  },
+  {
+    "name": "Straß in Steiermark",
+    "country": "AT",
+    "lat": 46.72722,
+    "lng": 15.62444
+  },
+  {
+    "name": "Strasshof an der Nordbahn",
+    "country": "AT",
+    "lat": 48.31667,
+    "lng": 16.66667
+  },
+  {
+    "name": "Strassham",
+    "country": "AT",
+    "lat": 48.28348,
+    "lng": 14.14524
+  },
+  {
+    "name": "Straßgang",
+    "country": "AT",
+    "lat": 47.03333,
+    "lng": 15.4
+  },
+  {
+    "name": "Strassengel",
+    "country": "AT",
+    "lat": 47.11573,
+    "lng": 15.33288
+  },
+  {
+    "name": "Strassen",
+    "country": "AT",
+    "lat": 46.75389,
+    "lng": 12.48417
+  },
+  {
+    "name": "Straßburg-Stadt",
+    "country": "AT",
+    "lat": 46.89444,
+    "lng": 14.32861
+  },
+  {
+    "name": "Strass im Zillertal",
+    "country": "AT",
+    "lat": 47.39556,
+    "lng": 11.81966
+  },
+  {
+    "name": "Strass",
+    "country": "AT",
+    "lat": 48.46667,
+    "lng": 15.73333
+  },
+  {
+    "name": "Strallegg",
+    "country": "AT",
+    "lat": 47.41165,
+    "lng": 15.72534
+  },
+  {
+    "name": "Straden",
+    "country": "AT",
+    "lat": 46.80917,
+    "lng": 15.86806
+  },
+  {
+    "name": "Stotzing",
+    "country": "AT",
+    "lat": 47.90688,
+    "lng": 16.5458
+  },
+  {
+    "name": "Stössing",
+    "country": "AT",
+    "lat": 48.12267,
+    "lng": 15.81379
+  },
+  {
+    "name": "Stoob",
+    "country": "AT",
+    "lat": 47.52845,
+    "lng": 16.4776
+  },
+  {
+    "name": "Stollhofen",
+    "country": "AT",
+    "lat": 48.35226,
+    "lng": 15.75963
+  },
+  {
+    "name": "Stockerau",
+    "country": "AT",
+    "lat": 48.38333,
+    "lng": 16.21667
+  },
+  {
+    "name": "Stockenboi",
+    "country": "AT",
+    "lat": 46.72611,
+    "lng": 13.52306
+  },
+  {
+    "name": "Stiwoll",
+    "country": "AT",
+    "lat": 47.1,
+    "lng": 15.21667
+  },
+  {
+    "name": "Steinbrunn",
+    "country": "AT",
+    "lat": 47.83333,
+    "lng": 16.41667
+  },
+  {
+    "name": "Stinatz",
+    "country": "AT",
+    "lat": 47.20266,
+    "lng": 16.13312
+  },
+  {
+    "name": "Steyregg",
+    "country": "AT",
+    "lat": 48.28513,
+    "lng": 14.36995
+  },
+  {
+    "name": "Steyr",
+    "country": "AT",
+    "lat": 48.04274,
+    "lng": 14.42127
+  },
+  {
+    "name": "Steuerberg",
+    "country": "AT",
+    "lat": 46.78804,
+    "lng": 14.1129
+  },
+  {
+    "name": "Stetten",
+    "country": "AT",
+    "lat": 48.36667,
+    "lng": 16.38333
+  },
+  {
+    "name": "Stetteldorf am Wagram",
+    "country": "AT",
+    "lat": 48.40815,
+    "lng": 16.01862
+  },
+  {
+    "name": "Stephanshart",
+    "country": "AT",
+    "lat": 48.15,
+    "lng": 14.81667
+  },
+  {
+    "name": "Stenzengreith",
+    "country": "AT",
+    "lat": 47.2,
+    "lng": 15.51667
+  },
+  {
+    "name": "Steinhaus",
+    "country": "AT",
+    "lat": 48.11614,
+    "lng": 14.0189
+  },
+  {
+    "name": "Steinfeld",
+    "country": "AT",
+    "lat": 46.75812,
+    "lng": 13.24934
+  },
+  {
+    "name": "Steinerkirchen an der Traun",
+    "country": "AT",
+    "lat": 48.07911,
+    "lng": 13.95796
+  },
+  {
+    "name": "Steindorf am Ossiacher See",
+    "country": "AT",
+    "lat": 46.69833,
+    "lng": 14.00917
+  },
+  {
+    "name": "Steinbach am Attersee",
+    "country": "AT",
+    "lat": 47.83087,
+    "lng": 13.54613
+  },
+  {
+    "name": "Stein an der Donau",
+    "country": "AT",
+    "lat": 48.40163,
+    "lng": 15.58102
+  },
+  {
+    "name": "Steinakirchen am Forst",
+    "country": "AT",
+    "lat": 48.06965,
+    "lng": 15.04801
+  },
+  {
+    "name": "Steinach am Brenner",
+    "country": "AT",
+    "lat": 47.08333,
+    "lng": 11.46667
+  },
+  {
+    "name": "Steinabrückl",
+    "country": "AT",
+    "lat": 47.87053,
+    "lng": 16.20277
+  },
+  {
+    "name": "Stein",
+    "country": "AT",
+    "lat": 46.99778,
+    "lng": 16.08694
+  },
+  {
+    "name": "Stegersbach",
+    "country": "AT",
+    "lat": 47.16667,
+    "lng": 16.16667
+  },
+  {
+    "name": "Steeg",
+    "country": "AT",
+    "lat": 47.24393,
+    "lng": 10.29436
+  },
+  {
+    "name": "Statzendorf",
+    "country": "AT",
+    "lat": 48.30752,
+    "lng": 15.64127
+  },
+  {
+    "name": "Stattersdorf",
+    "country": "AT",
+    "lat": 48.18333,
+    "lng": 15.63333
+  },
+  {
+    "name": "Stattegg",
+    "country": "AT",
+    "lat": 47.13333,
+    "lng": 15.41667
+  },
+  {
+    "name": "Stanz bei Landeck",
+    "country": "AT",
+    "lat": 47.14758,
+    "lng": 10.5534
+  },
+  {
+    "name": "Stanzach",
+    "country": "AT",
+    "lat": 47.38333,
+    "lng": 10.56667
+  },
+  {
+    "name": "Stans",
+    "country": "AT",
+    "lat": 47.36667,
+    "lng": 11.71667
+  },
+  {
+    "name": "Stams",
+    "country": "AT",
+    "lat": 47.27603,
+    "lng": 10.98315
+  },
+  {
+    "name": "Stambach",
+    "country": "AT",
+    "lat": 47.33333,
+    "lng": 15.93333
+  },
+  {
+    "name": "Stallhofen",
+    "country": "AT",
+    "lat": 47.05,
+    "lng": 15.21667
+  },
+  {
+    "name": "Stallhof",
+    "country": "AT",
+    "lat": 46.88333,
+    "lng": 15.28333
+  },
+  {
+    "name": "Stallehr",
+    "country": "AT",
+    "lat": 47.14043,
+    "lng": 9.85609
+  },
+  {
+    "name": "Stall",
+    "country": "AT",
+    "lat": 46.89056,
+    "lng": 13.03694
+  },
+  {
+    "name": "Stainz bei Straden",
+    "country": "AT",
+    "lat": 46.82444,
+    "lng": 15.89222
+  },
+  {
+    "name": "Stainz",
+    "country": "AT",
+    "lat": 46.89444,
+    "lng": 15.26722
+  },
+  {
+    "name": "Stainach",
+    "country": "AT",
+    "lat": 47.53343,
+    "lng": 14.10872
+  },
+  {
+    "name": "Stadtschlaining",
+    "country": "AT",
+    "lat": 47.31667,
+    "lng": 16.28333
+  },
+  {
+    "name": "Stadl-Traun",
+    "country": "AT",
+    "lat": 48.07963,
+    "lng": 13.8614
+  },
+  {
+    "name": "Stadl-Paura",
+    "country": "AT",
+    "lat": 48.08333,
+    "lng": 13.86667
+  },
+  {
+    "name": "Stadl-Hausruck",
+    "country": "AT",
+    "lat": 48.08255,
+    "lng": 13.85213
+  },
+  {
+    "name": "Stadl an der Mur",
+    "country": "AT",
+    "lat": 47.08333,
+    "lng": 13.96667
+  },
+  {
+    "name": "Staatz",
+    "country": "AT",
+    "lat": 48.67617,
+    "lng": 16.48726
+  },
+  {
+    "name": "St Anton am Arlberg",
+    "country": "AT",
+    "lat": 47.1275,
+    "lng": 10.26372
+  },
+  {
+    "name": "St. Ruprecht-Falkendorf",
+    "country": "AT",
+    "lat": 47.1011,
+    "lng": 14.01752
+  },
+  {
+    "name": "St. Georgen am Längsee",
+    "country": "AT",
+    "lat": 46.78061,
+    "lng": 14.43033
+  },
+  {
+    "name": "St. Martin of Tennengebirge",
+    "country": "AT",
+    "lat": 47.465,
+    "lng": 13.37761
+  },
+  {
+    "name": "Sticklberg",
+    "country": "AT",
+    "lat": 47.53036,
+    "lng": 15.77911
+  },
+  {
+    "name": "St. Veiter Vorstadt",
+    "country": "AT",
+    "lat": 46.6317,
+    "lng": 14.30579
+  },
+  {
+    "name": "St. Agathen und Perau",
+    "country": "AT",
+    "lat": 46.60627,
+    "lng": 13.85615
+  },
+  {
+    "name": "Steinfeld",
+    "country": "AT",
+    "lat": 47.71254,
+    "lng": 13.6326
+  },
+  {
+    "name": "Sturt",
+    "country": "AU",
+    "lat": -35.02303,
+    "lng": 138.55476
+  },
+  {
+    "name": "Streaky Bay",
+    "country": "AU",
+    "lat": -32.79554,
+    "lng": 134.20928
+  },
+  {
+    "name": "Strathalbyn",
+    "country": "AU",
+    "lat": -35.25979,
+    "lng": 138.89247
+  },
+  {
+    "name": "Stoneville",
+    "country": "AU",
+    "lat": -31.8783,
+    "lng": 116.17072
+  },
+  {
+    "name": "Stirling",
+    "country": "AU",
+    "lat": -35.0022,
+    "lng": 138.71956
+  },
+  {
+    "name": "Stuart Park",
+    "country": "AU",
+    "lat": -12.4486,
+    "lng": 130.84249
+  },
+  {
+    "name": "Strathpine",
+    "country": "AU",
+    "lat": -27.30414,
+    "lng": 152.98977
+  },
+  {
+    "name": "Strathmerton",
+    "country": "AU",
+    "lat": -35.92533,
+    "lng": 145.47865
+  },
+  {
+    "name": "Strathfieldsaye",
+    "country": "AU",
+    "lat": -36.80667,
+    "lng": 144.35487
+  },
+  {
+    "name": "Strathfield",
+    "country": "AU",
+    "lat": -33.88096,
+    "lng": 151.07986
+  },
+  {
+    "name": "Stratford",
+    "country": "AU",
+    "lat": -37.9634,
+    "lng": 147.0826
+  },
+  {
+    "name": "Stockton",
+    "country": "AU",
+    "lat": -32.90908,
+    "lng": 151.7836
+  },
+  {
+    "name": "Stawell",
+    "country": "AU",
+    "lat": -37.05632,
+    "lng": 142.78088
+  },
+  {
+    "name": "Stanwell Park",
+    "country": "AU",
+    "lat": -34.2261,
+    "lng": 150.98583
+  },
+  {
+    "name": "Stanthorpe",
+    "country": "AU",
+    "lat": -28.65425,
+    "lng": 151.93388
+  },
+  {
+    "name": "Stanmore",
+    "country": "AU",
+    "lat": -33.89407,
+    "lng": 151.16424
+  },
+  {
+    "name": "St Helens",
+    "country": "AU",
+    "lat": -41.32028,
+    "lng": 148.23889
+  },
+  {
+    "name": "Stirling",
+    "country": "AU",
+    "lat": -31.88343,
+    "lng": 115.8099
+  },
+  {
+    "name": "St Kilda East",
+    "country": "AU",
+    "lat": -37.86594,
+    "lng": 145.00018
+  },
+  {
+    "name": "St. Georges Basin",
+    "country": "AU",
+    "lat": -35.08986,
+    "lng": 150.59801
+  },
+  {
+    "name": "St Albans",
+    "country": "AU",
+    "lat": -37.74496,
+    "lng": 144.80049
+  },
+  {
+    "name": "St Leonards",
+    "country": "AU",
+    "lat": -33.82344,
+    "lng": 151.19836
+  },
+  {
+    "name": "St Kilda West",
+    "country": "AU",
+    "lat": -37.85988,
+    "lng": 144.97108
+  },
+  {
+    "name": "Strathalbyn",
+    "country": "AU",
+    "lat": -28.75168,
+    "lng": 114.64576
+  },
+  {
+    "name": "St Helens Park",
+    "country": "AU",
+    "lat": -34.10474,
+    "lng": 150.81368
+  },
+  {
+    "name": "St Huberts Island",
+    "country": "AU",
+    "lat": -33.49562,
+    "lng": 151.34616
+  },
+  {
+    "name": "St Ives Chase",
+    "country": "AU",
+    "lat": -33.70381,
+    "lng": 151.1646
+  },
+  {
+    "name": "Stretton",
+    "country": "AU",
+    "lat": -27.62205,
+    "lng": 153.06609
+  },
+  {
+    "name": "St George",
+    "country": "AU",
+    "lat": -27.94763,
+    "lng": 148.60986
+  },
+  {
+    "name": "St Albans Park",
+    "country": "AU",
+    "lat": -38.18802,
+    "lng": 144.39207
+  },
+  {
+    "name": "St Andrews",
+    "country": "AU",
+    "lat": -34.02243,
+    "lng": 150.82958
+  },
+  {
+    "name": "Stonyfell",
+    "country": "AU",
+    "lat": -34.93422,
+    "lng": 138.67674
+  },
+  {
+    "name": "St Agnes",
+    "country": "AU",
+    "lat": -34.83075,
+    "lng": 138.71074
+  },
+  {
+    "name": "St Marys",
+    "country": "AU",
+    "lat": -35.00423,
+    "lng": 138.57983
+  },
+  {
+    "name": "St Georges",
+    "country": "AU",
+    "lat": -34.952,
+    "lng": 138.64787
+  },
+  {
+    "name": "Stratton",
+    "country": "AU",
+    "lat": -31.86828,
+    "lng": 116.04066
+  },
+  {
+    "name": "St Morris",
+    "country": "AU",
+    "lat": -34.91107,
+    "lng": 138.6536
+  },
+  {
+    "name": "Stirling North",
+    "country": "AU",
+    "lat": -32.47986,
+    "lng": 137.83804
+  },
+  {
+    "name": "Strathdale",
+    "country": "AU",
+    "lat": -36.76572,
+    "lng": 144.31548
+  },
+  {
+    "name": "St George Ranges",
+    "country": "AU",
+    "lat": -18.98204,
+    "lng": 125.00873
+  },
+  {
+    "name": "St Johns Park",
+    "country": "AU",
+    "lat": -33.88295,
+    "lng": 150.90182
+  },
+  {
+    "name": "St Clair",
+    "country": "AU",
+    "lat": -33.79728,
+    "lng": 150.7847
+  },
+  {
+    "name": "St James",
+    "country": "AU",
+    "lat": -32.00004,
+    "lng": 115.9098
+  },
+  {
+    "name": "Stirling",
+    "country": "AU",
+    "lat": -35.34969,
+    "lng": 149.0493
+  },
+  {
+    "name": "St Peters",
+    "country": "AU",
+    "lat": -34.90498,
+    "lng": 138.62255
+  },
+  {
+    "name": "Stafford",
+    "country": "AU",
+    "lat": -27.41044,
+    "lng": 153.01105
+  },
+  {
+    "name": "Stafford Heights",
+    "country": "AU",
+    "lat": -27.39354,
+    "lng": 153.0105
+  },
+  {
+    "name": "Stanhope Gardens",
+    "country": "AU",
+    "lat": -33.72206,
+    "lng": 150.92597
+  },
+  {
+    "name": "Strathfield South",
+    "country": "AU",
+    "lat": -33.89252,
+    "lng": 151.08334
+  },
+  {
+    "name": "Stuart",
+    "country": "AU",
+    "lat": -19.34702,
+    "lng": 146.84378
+  },
+  {
+    "name": "Strathmore",
+    "country": "AU",
+    "lat": -37.73563,
+    "lng": 144.92065
+  },
+  {
+    "name": "St Helena",
+    "country": "AU",
+    "lat": -37.68988,
+    "lng": 145.12315
+  },
+  {
+    "name": "St Clair",
+    "country": "AU",
+    "lat": -34.87089,
+    "lng": 138.53543
+  },
+  {
+    "name": "Stupari",
+    "country": "BA",
+    "lat": 44.31382,
+    "lng": 18.68416
+  },
+  {
+    "name": "Stolac",
+    "country": "BA",
+    "lat": 43.084,
+    "lng": 17.95995
+  },
+  {
+    "name": "Stjepan-Polje",
+    "country": "BA",
+    "lat": 44.71634,
+    "lng": 18.25783
+  },
+  {
+    "name": "Stijena",
+    "country": "BA",
+    "lat": 44.9363,
+    "lng": 16.02224
+  },
+  {
+    "name": "Stanari",
+    "country": "BA",
+    "lat": 44.74475,
+    "lng": 17.82714
+  },
+  {
+    "name": "Starcevica",
+    "country": "BA",
+    "lat": 44.75708,
+    "lng": 17.21178
+  },
+  {
+    "name": "Strombeek-Bever",
+    "country": "BE",
+    "lat": 50.91039,
+    "lng": 4.35582
+  },
+  {
+    "name": "Strijpen",
+    "country": "BE",
+    "lat": 50.86801,
+    "lng": 3.78797
+  },
+  {
+    "name": "Strépy-Bracquegnies",
+    "country": "BE",
+    "lat": 50.4728,
+    "lng": 4.12022
+  },
+  {
+    "name": "Strée-lez-Huy",
+    "country": "BE",
+    "lat": 50.49039,
+    "lng": 5.32348
+  },
+  {
+    "name": "Strée",
+    "country": "BE",
+    "lat": 50.28078,
+    "lng": 4.29394
+  },
+  {
+    "name": "Stoumont",
+    "country": "BE",
+    "lat": 50.40667,
+    "lng": 5.80838
+  },
+  {
+    "name": "Stokrooie",
+    "country": "BE",
+    "lat": 50.96637,
+    "lng": 5.28142
+  },
+  {
+    "name": "Stokkem",
+    "country": "BE",
+    "lat": 51.02326,
+    "lng": 5.74499
+  },
+  {
+    "name": "Stevoort",
+    "country": "BE",
+    "lat": 50.91862,
+    "lng": 5.25327
+  },
+  {
+    "name": "Sterrebeek",
+    "country": "BE",
+    "lat": 50.86171,
+    "lng": 4.49375
+  },
+  {
+    "name": "Stene",
+    "country": "BE",
+    "lat": 51.20437,
+    "lng": 2.91259
+  },
+  {
+    "name": "Stembert",
+    "country": "BE",
+    "lat": 50.59107,
+    "lng": 5.89404
+  },
+  {
+    "name": "Stekene",
+    "country": "BE",
+    "lat": 51.2099,
+    "lng": 4.03651
+  },
+  {
+    "name": "Steenokkerzeel",
+    "country": "BE",
+    "lat": 50.91851,
+    "lng": 4.50989
+  },
+  {
+    "name": "Steenhuize-Wijnhuize",
+    "country": "BE",
+    "lat": 50.83968,
+    "lng": 3.88805
+  },
+  {
+    "name": "Steenhuffel",
+    "country": "BE",
+    "lat": 50.99539,
+    "lng": 4.26788
+  },
+  {
+    "name": "Steendorp",
+    "country": "BE",
+    "lat": 51.12681,
+    "lng": 4.27031
+  },
+  {
+    "name": "Stavelot",
+    "country": "BE",
+    "lat": 50.395,
+    "lng": 5.93124
+  },
+  {
+    "name": "Stambruges",
+    "country": "BE",
+    "lat": 50.50939,
+    "lng": 3.71621
+  },
+  {
+    "name": "Staden",
+    "country": "BE",
+    "lat": 50.97456,
+    "lng": 3.01469
+  },
+  {
+    "name": "Stabroek",
+    "country": "BE",
+    "lat": 51.33189,
+    "lng": 4.37127
+  },
+  {
+    "name": "Strumyani",
+    "country": "BG",
+    "lat": 41.63333,
+    "lng": 23.2
+  },
+  {
+    "name": "Strelcha",
+    "country": "BG",
+    "lat": 42.5,
+    "lng": 24.31667
+  },
+  {
+    "name": "Strazhitsa",
+    "country": "BG",
+    "lat": 43.23333,
+    "lng": 25.96667
+  },
+  {
+    "name": "Straldzha",
+    "country": "BG",
+    "lat": 42.6,
+    "lng": 26.68333
+  },
+  {
+    "name": "Stara Zagora",
+    "country": "BG",
+    "lat": 42.43205,
+    "lng": 25.64262
+  },
+  {
+    "name": "Stara Kresna",
+    "country": "BG",
+    "lat": 41.8,
+    "lng": 23.18333
+  },
+  {
+    "name": "Stamboliyski",
+    "country": "BG",
+    "lat": 42.13333,
+    "lng": 24.53333
+  },
+  {
+    "name": "St George's Parish",
+    "country": "BM",
+    "lat": 32.37249,
+    "lng": -64.69756
+  },
+  {
+    "name": "Stowbtsy",
+    "country": "BY",
+    "lat": 53.47994,
+    "lng": 26.7351
+  },
+  {
+    "name": "Stolin",
+    "country": "BY",
+    "lat": 51.89115,
+    "lng": 26.84597
+  },
+  {
+    "name": "Staryye Dorogi",
+    "country": "BY",
+    "lat": 53.0402,
+    "lng": 28.267
+  },
+  {
+    "name": "Starobin",
+    "country": "BY",
+    "lat": 52.7267,
+    "lng": 27.4606
+  },
+  {
+    "name": "Stan’kava",
+    "country": "BY",
+    "lat": 53.6292,
+    "lng": 27.229
+  },
+  {
+    "name": "St. Margaret",
+    "country": "BZ",
+    "lat": 17.09047,
+    "lng": -88.61096
+  },
+  {
+    "name": "St. Matthew's",
+    "country": "BZ",
+    "lat": 17.27431,
+    "lng": -88.64432
+  },
+  {
+    "name": "St. Adolphe",
+    "country": "CA",
+    "lat": 49.6744,
+    "lng": -97.11124
+  },
+  {
+    "name": "St. Albert",
+    "country": "CA",
+    "lat": 53.63344,
+    "lng": -113.63533
+  },
+  {
+    "name": "St. Anthony",
+    "country": "CA",
+    "lat": 51.37039,
+    "lng": -55.59743
+  },
+  {
+    "name": "St. Catharines",
+    "country": "CA",
+    "lat": 43.17126,
+    "lng": -79.24267
+  },
+  {
+    "name": "Ste. Anne",
+    "country": "CA",
+    "lat": 49.66969,
+    "lng": -96.65
+  },
+  {
+    "name": "Steeles",
+    "country": "CA",
+    "lat": 43.81205,
+    "lng": -79.33082
+  },
+  {
+    "name": "Steinbach",
+    "country": "CA",
+    "lat": 49.52579,
+    "lng": -96.68451
+  },
+  {
+    "name": "Stellarton",
+    "country": "CA",
+    "lat": 45.55854,
+    "lng": -62.66069
+  },
+  {
+    "name": "Stephenville",
+    "country": "CA",
+    "lat": 48.55001,
+    "lng": -58.5818
+  },
+  {
+    "name": "Stephenville Crossing",
+    "country": "CA",
+    "lat": 48.50001,
+    "lng": -58.4318
+  },
+  {
+    "name": "Stettler",
+    "country": "CA",
+    "lat": 52.31683,
+    "lng": -112.71861
+  },
+  {
+    "name": "Stirling",
+    "country": "CA",
+    "lat": 44.30012,
+    "lng": -77.54948
+  },
+  {
+    "name": "St. Marys",
+    "country": "CA",
+    "lat": 43.25009,
+    "lng": -81.13304
+  },
+  {
+    "name": "Stonewall",
+    "country": "CA",
+    "lat": 50.13441,
+    "lng": -97.32676
+  },
+  {
+    "name": "Stoney Point",
+    "country": "CA",
+    "lat": 44.26681,
+    "lng": -79.53292
+  },
+  {
+    "name": "Stony Plain",
+    "country": "CA",
+    "lat": 53.53343,
+    "lng": -114.00205
+  },
+  {
+    "name": "Stouffville",
+    "country": "CA",
+    "lat": 43.96682,
+    "lng": -79.2496
+  },
+  {
+    "name": "St. Paul",
+    "country": "CA",
+    "lat": 53.98347,
+    "lng": -111.28507
+  },
+  {
+    "name": "Stratford",
+    "country": "CA",
+    "lat": 46.21792,
+    "lng": -63.07948
+  },
+  {
+    "name": "Stratford",
+    "country": "CA",
+    "lat": 43.36679,
+    "lng": -80.94972
+  },
+  {
+    "name": "Strathcona",
+    "country": "CA",
+    "lat": 49.27655,
+    "lng": -123.09117
+  },
+  {
+    "name": "Strathmore",
+    "country": "CA",
+    "lat": 51.05011,
+    "lng": -113.38523
+  },
+  {
+    "name": "Strathroy",
+    "country": "CA",
+    "lat": 42.9551,
+    "lng": -81.62232
+  },
+  {
+    "name": "St. Stephen",
+    "country": "CA",
+    "lat": 45.18044,
+    "lng": -67.29529
+  },
+  {
+    "name": "St. Thomas",
+    "country": "CA",
+    "lat": 42.77361,
+    "lng": -81.18038
+  },
+  {
+    "name": "Sturgeon Falls",
+    "country": "CA",
+    "lat": 46.36679,
+    "lng": -79.91636
+  },
+  {
+    "name": "St. John's",
+    "country": "CA",
+    "lat": 47.56494,
+    "lng": -52.70931
+  },
+  {
+    "name": "St-Jean-Port-Joli",
+    "country": "CA",
+    "lat": 47.21418,
+    "lng": -70.26969
+  },
+  {
+    "name": "St. George",
+    "country": "CA",
+    "lat": 43.24495,
+    "lng": -80.25144
+  },
+  {
+    "name": "Steveston",
+    "country": "CA",
+    "lat": 49.12714,
+    "lng": -123.18137
+  },
+  {
+    "name": "Starlight Village",
+    "country": "CA",
+    "lat": 45.88308,
+    "lng": -66.76905
+  },
+  {
+    "name": "Stonegate-Queensway",
+    "country": "CA",
+    "lat": 43.63552,
+    "lng": -79.50113
+  },
+  {
+    "name": "St. Andrew-Windfields",
+    "country": "CA",
+    "lat": 43.75625,
+    "lng": -79.37904
+  },
+  {
+    "name": "Stride Hill",
+    "country": "CA",
+    "lat": 49.20957,
+    "lng": -122.96379
+  },
+  {
+    "name": "Strengelbach",
+    "country": "CH",
+    "lat": 47.27917,
+    "lng": 7.92895
+  },
+  {
+    "name": "Stettlen",
+    "country": "CH",
+    "lat": 46.95835,
+    "lng": 7.52508
+  },
+  {
+    "name": "Stettfurt",
+    "country": "CH",
+    "lat": 47.52588,
+    "lng": 8.95317
+  },
+  {
+    "name": "Steinhausen",
+    "country": "CH",
+    "lat": 47.1951,
+    "lng": 8.48581
+  },
+  {
+    "name": "Steinen",
+    "country": "CH",
+    "lat": 47.04975,
+    "lng": 8.61214
+  },
+  {
+    "name": "Stein am Rhein",
+    "country": "CH",
+    "lat": 47.65933,
+    "lng": 8.85964
+  },
+  {
+    "name": "Stein",
+    "country": "CH",
+    "lat": 47.54403,
+    "lng": 7.95256
+  },
+  {
+    "name": "Steffisburg",
+    "country": "CH",
+    "lat": 46.77807,
+    "lng": 7.63249
+  },
+  {
+    "name": "Steckborn",
+    "country": "CH",
+    "lat": 47.66667,
+    "lng": 8.98333
+  },
+  {
+    "name": "Staufen",
+    "country": "CH",
+    "lat": 47.38197,
+    "lng": 8.16681
+  },
+  {
+    "name": "Stansstad",
+    "country": "CH",
+    "lat": 46.9768,
+    "lng": 8.33553
+  },
+  {
+    "name": "Stans",
+    "country": "CH",
+    "lat": 46.95805,
+    "lng": 8.36609
+  },
+  {
+    "name": "Stalden",
+    "country": "CH",
+    "lat": 46.23341,
+    "lng": 7.87273
+  },
+  {
+    "name": "Staffelbach",
+    "country": "CH",
+    "lat": 47.28395,
+    "lng": 8.04208
+  },
+  {
+    "name": "Stäfa",
+    "country": "CH",
+    "lat": 47.24254,
+    "lng": 8.72342
+  },
+  {
+    "name": "Stabio",
+    "country": "CH",
+    "lat": 45.84846,
+    "lng": 8.93642
+  },
+  {
+    "name": "St. Moritz",
+    "country": "CH",
+    "lat": 46.49937,
+    "lng": 9.84327
+  },
+  {
+    "name": "St-Légier-La Chiésaz",
+    "country": "CH",
+    "lat": 46.47227,
+    "lng": 6.87366
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1) / Altstadt",
+    "country": "CH",
+    "lat": 47.49951,
+    "lng": 8.72872
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1) / Lind",
+    "country": "CH",
+    "lat": 47.50571,
+    "lng": 8.73372
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1) / Heiligberg",
+    "country": "CH",
+    "lat": 47.49409,
+    "lng": 8.72334
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1) / Tössfeld",
+    "country": "CH",
+    "lat": 47.4934,
+    "lng": 8.71512
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1) / Brühlberg",
+    "country": "CH",
+    "lat": 47.49764,
+    "lng": 8.71272
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1) / Neuwiesen",
+    "country": "CH",
+    "lat": 47.50207,
+    "lng": 8.71625
+  },
+  {
+    "name": "Steinmaur",
+    "country": "CH",
+    "lat": 47.4971,
+    "lng": 8.45216
+  },
+  {
+    "name": "Stadt Winterthur (Kreis 1)",
+    "country": "CH",
+    "lat": 47.49494,
+    "lng": 8.71954
+  },
+  {
+    "name": "Stetten",
+    "country": "CH",
+    "lat": 47.74025,
+    "lng": 8.66298
+  },
+  {
+    "name": "St. Michiel",
+    "country": "CW",
+    "lat": 12.14335,
+    "lng": -68.99487
+  },
+  {
+    "name": "Stróvolos",
+    "country": "CY",
+    "lat": 35.14867,
+    "lng": 33.33384
+  },
+  {
+    "name": "Studénka",
+    "country": "CZ",
+    "lat": 49.72342,
+    "lng": 18.07853
+  },
+  {
+    "name": "Studenec",
+    "country": "CZ",
+    "lat": 50.55344,
+    "lng": 15.54936
+  },
+  {
+    "name": "Studená",
+    "country": "CZ",
+    "lat": 49.18516,
+    "lng": 15.28688
+  },
+  {
+    "name": "Strunkovice nad Blanicí",
+    "country": "CZ",
+    "lat": 49.08402,
+    "lng": 14.05522
+  },
+  {
+    "name": "Strmilov",
+    "country": "CZ",
+    "lat": 49.15846,
+    "lng": 15.19934
+  },
+  {
+    "name": "Střížkov",
+    "country": "CZ",
+    "lat": 50.12674,
+    "lng": 14.49363
+  },
+  {
+    "name": "Stříbro",
+    "country": "CZ",
+    "lat": 49.75565,
+    "lng": 12.997
+  },
+  {
+    "name": "Střešovice",
+    "country": "CZ",
+    "lat": 50.09526,
+    "lng": 14.38268
+  },
+  {
+    "name": "Střelice",
+    "country": "CZ",
+    "lat": 49.15221,
+    "lng": 16.50399
+  },
+  {
+    "name": "Stráž pod Ralskem",
+    "country": "CZ",
+    "lat": 50.7028,
+    "lng": 14.80102
+  },
+  {
+    "name": "Strážov",
+    "country": "CZ",
+    "lat": 49.30326,
+    "lng": 13.24623
+  },
+  {
+    "name": "Strážnice",
+    "country": "CZ",
+    "lat": 48.90102,
+    "lng": 17.3168
+  },
+  {
+    "name": "Stráž nad Nisou",
+    "country": "CZ",
+    "lat": 50.79099,
+    "lng": 15.02683
+  },
+  {
+    "name": "Strážná",
+    "country": "CZ",
+    "lat": 49.83104,
+    "lng": 17.13275
+  },
+  {
+    "name": "Stráž",
+    "country": "CZ",
+    "lat": 49.66878,
+    "lng": 12.77546
+  },
+  {
+    "name": "Strašice",
+    "country": "CZ",
+    "lat": 49.73552,
+    "lng": 13.75755
+  },
+  {
+    "name": "Strání",
+    "country": "CZ",
+    "lat": 48.90216,
+    "lng": 17.70671
+  },
+  {
+    "name": "Strančice",
+    "country": "CZ",
+    "lat": 49.94811,
+    "lng": 14.67745
+  },
+  {
+    "name": "Strakonice",
+    "country": "CZ",
+    "lat": 49.26141,
+    "lng": 13.90237
+  },
+  {
+    "name": "Stonava",
+    "country": "CZ",
+    "lat": 49.81691,
+    "lng": 18.52518
+  },
+  {
+    "name": "Stodůlky",
+    "country": "CZ",
+    "lat": 50.05,
+    "lng": 14.31667
+  },
+  {
+    "name": "Stod",
+    "country": "CZ",
+    "lat": 49.63909,
+    "lng": 13.16474
+  },
+  {
+    "name": "Stochov",
+    "country": "CZ",
+    "lat": 50.14631,
+    "lng": 13.96345
+  },
+  {
+    "name": "Stěžery",
+    "country": "CZ",
+    "lat": 50.21572,
+    "lng": 15.74831
+  },
+  {
+    "name": "Stěbořice",
+    "country": "CZ",
+    "lat": 49.93708,
+    "lng": 17.80547
+  },
+  {
+    "name": "Starý Plzenec",
+    "country": "CZ",
+    "lat": 49.69768,
+    "lng": 13.4735
+  },
+  {
+    "name": "Starý Kolín",
+    "country": "CZ",
+    "lat": 50.00977,
+    "lng": 15.29388
+  },
+  {
+    "name": "Starý Jičín",
+    "country": "CZ",
+    "lat": 49.57686,
+    "lng": 17.96169
+  },
+  {
+    "name": "Starý Bohumín",
+    "country": "CZ",
+    "lat": 49.9169,
+    "lng": 18.33619
+  },
+  {
+    "name": "Staříč",
+    "country": "CZ",
+    "lat": 49.68594,
+    "lng": 18.27281
+  },
+  {
+    "name": "Staré Strašnice",
+    "country": "CZ",
+    "lat": 50.07649,
+    "lng": 14.51037
+  },
+  {
+    "name": "Staré Nechanice",
+    "country": "CZ",
+    "lat": 50.24298,
+    "lng": 15.61787
+  },
+  {
+    "name": "Staré Město",
+    "country": "CZ",
+    "lat": 50.087,
+    "lng": 14.42024
+  },
+  {
+    "name": "Staré Město",
+    "country": "CZ",
+    "lat": 50.16174,
+    "lng": 16.94734
+  },
+  {
+    "name": "Staré Město",
+    "country": "CZ",
+    "lat": 49.66992,
+    "lng": 18.36349
+  },
+  {
+    "name": "Staré Město",
+    "country": "CZ",
+    "lat": 49.07515,
+    "lng": 17.43338
+  },
+  {
+    "name": "Staré Křečany",
+    "country": "CZ",
+    "lat": 50.95044,
+    "lng": 14.49617
+  },
+  {
+    "name": "Staré Hradiště",
+    "country": "CZ",
+    "lat": 50.0654,
+    "lng": 15.77885
+  },
+  {
+    "name": "Stařeč",
+    "country": "CZ",
+    "lat": 49.19783,
+    "lng": 15.82791
+  },
+  {
+    "name": "Stará Ves nad Ondřejnicí",
+    "country": "CZ",
+    "lat": 49.72775,
+    "lng": 18.1885
+  },
+  {
+    "name": "Stará Paka",
+    "country": "CZ",
+    "lat": 50.51032,
+    "lng": 15.49444
+  },
+  {
+    "name": "Stará Huť",
+    "country": "CZ",
+    "lat": 49.78225,
+    "lng": 14.19735
+  },
+  {
+    "name": "Staňkov",
+    "country": "CZ",
+    "lat": 49.55348,
+    "lng": 13.06976
+  },
+  {
+    "name": "Stachy",
+    "country": "CZ",
+    "lat": 49.10179,
+    "lng": 13.66659
+  },
+  {
+    "name": "Strážná",
+    "country": "CZ",
+    "lat": 49.91099,
+    "lng": 16.71057
+  },
+  {
+    "name": "Stützerbach",
+    "country": "DE",
+    "lat": 50.63333,
+    "lng": 10.86667
+  },
+  {
+    "name": "Stützengrün",
+    "country": "DE",
+    "lat": 50.53333,
+    "lng": 12.53333
+  },
+  {
+    "name": "Stuttgart",
+    "country": "DE",
+    "lat": 48.78232,
+    "lng": 9.17702
+  },
+  {
+    "name": "Stulln",
+    "country": "DE",
+    "lat": 49.41667,
+    "lng": 12.13333
+  },
+  {
+    "name": "Stuhr",
+    "country": "DE",
+    "lat": 53.03333,
+    "lng": 8.75
+  },
+  {
+    "name": "Stühlingen",
+    "country": "DE",
+    "lat": 47.7458,
+    "lng": 8.44813
+  },
+  {
+    "name": "Stubenberg",
+    "country": "DE",
+    "lat": 48.31667,
+    "lng": 13.08333
+  },
+  {
+    "name": "Struvenhütten",
+    "country": "DE",
+    "lat": 53.86538,
+    "lng": 10.05632
+  },
+  {
+    "name": "Struppen",
+    "country": "DE",
+    "lat": 50.93333,
+    "lng": 14.01667
+  },
+  {
+    "name": "Strullendorf",
+    "country": "DE",
+    "lat": 49.84429,
+    "lng": 10.97208
+  },
+  {
+    "name": "Stromberg",
+    "country": "DE",
+    "lat": 50.45779,
+    "lng": 7.60041
+  },
+  {
+    "name": "Ströbeck",
+    "country": "DE",
+    "lat": 51.91406,
+    "lng": 10.94445
+  },
+  {
+    "name": "Strehla",
+    "country": "DE",
+    "lat": 51.35248,
+    "lng": 13.2266
+  },
+  {
+    "name": "Straußfurt",
+    "country": "DE",
+    "lat": 51.16667,
+    "lng": 10.98333
+  },
+  {
+    "name": "Strausberg",
+    "country": "DE",
+    "lat": 52.57859,
+    "lng": 13.88741
+  },
+  {
+    "name": "Straupitz",
+    "country": "DE",
+    "lat": 51.91357,
+    "lng": 14.12275
+  },
+  {
+    "name": "Straubing",
+    "country": "DE",
+    "lat": 48.88126,
+    "lng": 12.57385
+  },
+  {
+    "name": "Straßkirchen",
+    "country": "DE",
+    "lat": 48.83071,
+    "lng": 12.72105
+  },
+  {
+    "name": "Straßberg",
+    "country": "DE",
+    "lat": 48.17805,
+    "lng": 9.09059
+  },
+  {
+    "name": "Strasburg",
+    "country": "DE",
+    "lat": 53.5103,
+    "lng": 13.74513
+  },
+  {
+    "name": "Strande",
+    "country": "DE",
+    "lat": 54.44017,
+    "lng": 10.17418
+  },
+  {
+    "name": "Stralsund",
+    "country": "DE",
+    "lat": 54.30911,
+    "lng": 13.0818
+  },
+  {
+    "name": "Stralendorf",
+    "country": "DE",
+    "lat": 53.57498,
+    "lng": 11.30356
+  },
+  {
+    "name": "Straelen",
+    "country": "DE",
+    "lat": 51.4419,
+    "lng": 6.26639
+  },
+  {
+    "name": "Stöttwang",
+    "country": "DE",
+    "lat": 47.88333,
+    "lng": 10.71667
+  },
+  {
+    "name": "Stötten am Auerberg",
+    "country": "DE",
+    "lat": 47.73871,
+    "lng": 10.68881
+  },
+  {
+    "name": "Stößen",
+    "country": "DE",
+    "lat": 51.1144,
+    "lng": 11.92405
+  },
+  {
+    "name": "Stoßdorf",
+    "country": "DE",
+    "lat": 50.78248,
+    "lng": 7.25126
+  },
+  {
+    "name": "Störnstein",
+    "country": "DE",
+    "lat": 49.73232,
+    "lng": 12.20547
+  },
+  {
+    "name": "Storkow",
+    "country": "DE",
+    "lat": 52.25662,
+    "lng": 13.93337
+  },
+  {
+    "name": "Stolzenau",
+    "country": "DE",
+    "lat": 52.51667,
+    "lng": 9.06667
+  },
+  {
+    "name": "Stolpen",
+    "country": "DE",
+    "lat": 51.04901,
+    "lng": 14.07943
+  },
+  {
+    "name": "Stolpe",
+    "country": "DE",
+    "lat": 54.12724,
+    "lng": 10.2213
+  },
+  {
+    "name": "Stollberg",
+    "country": "DE",
+    "lat": 50.70999,
+    "lng": 12.78034
+  },
+  {
+    "name": "Stolberg",
+    "country": "DE",
+    "lat": 51.57426,
+    "lng": 10.95582
+  },
+  {
+    "name": "Stolberg",
+    "country": "DE",
+    "lat": 50.77368,
+    "lng": 6.22595
+  },
+  {
+    "name": "Stödtlen",
+    "country": "DE",
+    "lat": 49.0,
+    "lng": 10.3
+  },
+  {
+    "name": "Stockstadt am Main",
+    "country": "DE",
+    "lat": 49.97005,
+    "lng": 9.07153
+  },
+  {
+    "name": "Stockstadt am Rhein",
+    "country": "DE",
+    "lat": 49.80944,
+    "lng": 8.47278
+  },
+  {
+    "name": "Stöckse",
+    "country": "DE",
+    "lat": 52.64067,
+    "lng": 9.34027
+  },
+  {
+    "name": "Stockheim",
+    "country": "DE",
+    "lat": 50.45959,
+    "lng": 10.27301
+  },
+  {
+    "name": "Stockheim",
+    "country": "DE",
+    "lat": 50.30639,
+    "lng": 11.28172
+  },
+  {
+    "name": "Stöckheim",
+    "country": "DE",
+    "lat": 52.21055,
+    "lng": 10.52216
+  },
+  {
+    "name": "Stockelsdorf",
+    "country": "DE",
+    "lat": 53.8922,
+    "lng": 10.64713
+  },
+  {
+    "name": "Stockach",
+    "country": "DE",
+    "lat": 47.85105,
+    "lng": 9.0091
+  },
+  {
+    "name": "Stimpfach",
+    "country": "DE",
+    "lat": 49.06135,
+    "lng": 10.09274
+  },
+  {
+    "name": "Steyerberg",
+    "country": "DE",
+    "lat": 52.57017,
+    "lng": 9.02423
+  },
+  {
+    "name": "Stettfeld",
+    "country": "DE",
+    "lat": 49.9709,
+    "lng": 10.7217
+  },
+  {
+    "name": "Stetten am Kalten Markt",
+    "country": "DE",
+    "lat": 48.12419,
+    "lng": 9.07775
+  },
+  {
+    "name": "Stetten",
+    "country": "DE",
+    "lat": 48.02382,
+    "lng": 10.44474
+  },
+  {
+    "name": "Sterup",
+    "country": "DE",
+    "lat": 54.7265,
+    "lng": 9.73572
+  },
+  {
+    "name": "Sternenfels",
+    "country": "DE",
+    "lat": 49.05139,
+    "lng": 8.85083
+  },
+  {
+    "name": "Sternberg",
+    "country": "DE",
+    "lat": 53.71236,
+    "lng": 11.82678
+  },
+  {
+    "name": "Stephansposching",
+    "country": "DE",
+    "lat": 48.81667,
+    "lng": 12.8
+  },
+  {
+    "name": "Stephanskirchen",
+    "country": "DE",
+    "lat": 47.85389,
+    "lng": 12.1856
+  },
+  {
+    "name": "Stendal",
+    "country": "DE",
+    "lat": 52.6069,
+    "lng": 11.85867
+  },
+  {
+    "name": "Stelzenberg",
+    "country": "DE",
+    "lat": 49.37756,
+    "lng": 7.73814
+  },
+  {
+    "name": "Stellingen",
+    "country": "DE",
+    "lat": 53.5922,
+    "lng": 9.9287
+  },
+  {
+    "name": "Stelle",
+    "country": "DE",
+    "lat": 53.38416,
+    "lng": 10.11138
+  },
+  {
+    "name": "Steißlingen",
+    "country": "DE",
+    "lat": 47.8,
+    "lng": 8.93333
+  },
+  {
+    "name": "Steinwiesen",
+    "country": "DE",
+    "lat": 50.29444,
+    "lng": 11.46295
+  },
+  {
+    "name": "Steinwenden",
+    "country": "DE",
+    "lat": 49.45708,
+    "lng": 7.52726
+  },
+  {
+    "name": "Steinweiler",
+    "country": "DE",
+    "lat": 49.12111,
+    "lng": 8.14139
+  },
+  {
+    "name": "Steinsfeld",
+    "country": "DE",
+    "lat": 49.41667,
+    "lng": 10.21667
+  },
+  {
+    "name": "Steinmauern",
+    "country": "DE",
+    "lat": 48.90095,
+    "lng": 8.19692
+  },
+  {
+    "name": "Steinkirchen",
+    "country": "DE",
+    "lat": 53.56601,
+    "lng": 9.61111
+  },
+  {
+    "name": "Steinkirchen",
+    "country": "DE",
+    "lat": 48.38333,
+    "lng": 12.08333
+  },
+  {
+    "name": "Steinigtwolmsdorf",
+    "country": "DE",
+    "lat": 51.06314,
+    "lng": 14.3454
+  },
+  {
+    "name": "Steinhorst",
+    "country": "DE",
+    "lat": 52.68333,
+    "lng": 10.4
+  },
+  {
+    "name": "Steinhöring",
+    "country": "DE",
+    "lat": 48.08679,
+    "lng": 12.0314
+  },
+  {
+    "name": "Steinhöfel",
+    "country": "DE",
+    "lat": 52.4,
+    "lng": 14.16667
+  },
+  {
+    "name": "Steinheim an der Murr",
+    "country": "DE",
+    "lat": 48.96821,
+    "lng": 9.27708
+  },
+  {
+    "name": "Steinheim am Albuch",
+    "country": "DE",
+    "lat": 48.6909,
+    "lng": 10.06382
+  },
+  {
+    "name": "Steinheim",
+    "country": "DE",
+    "lat": 51.87066,
+    "lng": 9.09136
+  },
+  {
+    "name": "Steinheim",
+    "country": "DE",
+    "lat": 48.01473,
+    "lng": 10.16081
+  },
+  {
+    "name": "Steinheid",
+    "country": "DE",
+    "lat": 50.46538,
+    "lng": 11.08265
+  },
+  {
+    "name": "Steinhagen",
+    "country": "DE",
+    "lat": 54.22616,
+    "lng": 12.98867
+  },
+  {
+    "name": "Steinhagen",
+    "country": "DE",
+    "lat": 52.0,
+    "lng": 8.4
+  },
+  {
+    "name": "Steingaden",
+    "country": "DE",
+    "lat": 47.7,
+    "lng": 10.86667
+  },
+  {
+    "name": "Steinfurt",
+    "country": "DE",
+    "lat": 52.15045,
+    "lng": 7.33664
+  },
+  {
+    "name": "Steinfeld",
+    "country": "DE",
+    "lat": 52.58596,
+    "lng": 8.21417
+  },
+  {
+    "name": "Steinfeld",
+    "country": "DE",
+    "lat": 49.95278,
+    "lng": 9.66944
+  },
+  {
+    "name": "Steinfeld",
+    "country": "DE",
+    "lat": 49.04833,
+    "lng": 8.03694
+  },
+  {
+    "name": "Steinenbronn",
+    "country": "DE",
+    "lat": 48.66667,
+    "lng": 9.11667
+  },
+  {
+    "name": "Steinen",
+    "country": "DE",
+    "lat": 47.64446,
+    "lng": 7.73914
+  },
+  {
+    "name": "Steinbergkirche",
+    "country": "DE",
+    "lat": 54.75463,
+    "lng": 9.76069
+  },
+  {
+    "name": "Steinberg",
+    "country": "DE",
+    "lat": 54.75545,
+    "lng": 9.78159
+  },
+  {
+    "name": "Stein",
+    "country": "DE",
+    "lat": 49.41581,
+    "lng": 11.01599
+  },
+  {
+    "name": "Steinbach-Hallenberg",
+    "country": "DE",
+    "lat": 50.69624,
+    "lng": 10.56541
+  },
+  {
+    "name": "Steinbach am Taunus",
+    "country": "DE",
+    "lat": 50.16774,
+    "lng": 8.57278
+  },
+  {
+    "name": "Steinbach",
+    "country": "DE",
+    "lat": 50.83321,
+    "lng": 10.36393
+  },
+  {
+    "name": "Steinbach",
+    "country": "DE",
+    "lat": 50.15328,
+    "lng": 11.65055
+  },
+  {
+    "name": "Steinau an der Straße",
+    "country": "DE",
+    "lat": 50.31401,
+    "lng": 9.46335
+  },
+  {
+    "name": "Steinach",
+    "country": "DE",
+    "lat": 50.43129,
+    "lng": 11.15909
+  },
+  {
+    "name": "Steinach",
+    "country": "DE",
+    "lat": 48.95417,
+    "lng": 12.60709
+  },
+  {
+    "name": "Steinach",
+    "country": "DE",
+    "lat": 48.3,
+    "lng": 8.05
+  },
+  {
+    "name": "Steina",
+    "country": "DE",
+    "lat": 51.2,
+    "lng": 14.05
+  },
+  {
+    "name": "Steimel",
+    "country": "DE",
+    "lat": 50.61667,
+    "lng": 7.63333
+  },
+  {
+    "name": "Steimbke",
+    "country": "DE",
+    "lat": 52.65483,
+    "lng": 9.39091
+  },
+  {
+    "name": "Steilshoop",
+    "country": "DE",
+    "lat": 53.61028,
+    "lng": 10.05917
+  },
+  {
+    "name": "Stiefenhofen",
+    "country": "DE",
+    "lat": 47.5932,
+    "lng": 10.00365
+  },
+  {
+    "name": "Steglitz",
+    "country": "DE",
+    "lat": 52.45606,
+    "lng": 13.332
+  },
+  {
+    "name": "Stegen",
+    "country": "DE",
+    "lat": 47.98333,
+    "lng": 7.96667
+  },
+  {
+    "name": "Stegaurach",
+    "country": "DE",
+    "lat": 49.86543,
+    "lng": 10.84385
+  },
+  {
+    "name": "Steeden",
+    "country": "DE",
+    "lat": 50.41539,
+    "lng": 8.12748
+  },
+  {
+    "name": "Stedten",
+    "country": "DE",
+    "lat": 51.44308,
+    "lng": 11.69291
+  },
+  {
+    "name": "Stedesdorf",
+    "country": "DE",
+    "lat": 53.62452,
+    "lng": 7.66604
+  },
+  {
+    "name": "Staufenberg",
+    "country": "DE",
+    "lat": 50.66197,
+    "lng": 8.73158
+  },
+  {
+    "name": "Staudernheim",
+    "country": "DE",
+    "lat": 49.77675,
+    "lng": 7.6889
+  },
+  {
+    "name": "Staudach-Egerndach",
+    "country": "DE",
+    "lat": 47.78333,
+    "lng": 12.48333
+  },
+  {
+    "name": "Stauchitz",
+    "country": "DE",
+    "lat": 51.2435,
+    "lng": 13.21437
+  },
+  {
+    "name": "Staßfurt",
+    "country": "DE",
+    "lat": 51.85186,
+    "lng": 11.58508
+  },
+  {
+    "name": "Starnberg",
+    "country": "DE",
+    "lat": 48.00193,
+    "lng": 11.34416
+  },
+  {
+    "name": "Stapelfeld",
+    "country": "DE",
+    "lat": 53.60601,
+    "lng": 10.21469
+  },
+  {
+    "name": "Stapelburg",
+    "country": "DE",
+    "lat": 51.90075,
+    "lng": 10.6624
+  },
+  {
+    "name": "Stamsried",
+    "country": "DE",
+    "lat": 49.26755,
+    "lng": 12.53051
+  },
+  {
+    "name": "Stammham",
+    "country": "DE",
+    "lat": 48.29604,
+    "lng": 11.86961
+  },
+  {
+    "name": "Stammham",
+    "country": "DE",
+    "lat": 48.25,
+    "lng": 12.88333
+  },
+  {
+    "name": "Stammbach",
+    "country": "DE",
+    "lat": 50.14551,
+    "lng": 11.69129
+  },
+  {
+    "name": "Stallwang",
+    "country": "DE",
+    "lat": 48.55838,
+    "lng": 12.23108
+  },
+  {
+    "name": "Staig",
+    "country": "DE",
+    "lat": 48.29998,
+    "lng": 9.99138
+  },
+  {
+    "name": "Stahnsdorf",
+    "country": "DE",
+    "lat": 52.38333,
+    "lng": 13.21667
+  },
+  {
+    "name": "Stadum",
+    "country": "DE",
+    "lat": 54.73333,
+    "lng": 9.05
+  },
+  {
+    "name": "Stadt Wehlen",
+    "country": "DE",
+    "lat": 50.95821,
+    "lng": 14.03091
+  },
+  {
+    "name": "Stadtsteinach",
+    "country": "DE",
+    "lat": 50.16433,
+    "lng": 11.50349
+  },
+  {
+    "name": "Stadtroda",
+    "country": "DE",
+    "lat": 50.85684,
+    "lng": 11.72677
+  },
+  {
+    "name": "Stadtprozelten",
+    "country": "DE",
+    "lat": 49.78466,
+    "lng": 9.41184
+  },
+  {
+    "name": "Stadtoldendorf",
+    "country": "DE",
+    "lat": 51.88242,
+    "lng": 9.6265
+  },
+  {
+    "name": "Stadtlohn",
+    "country": "DE",
+    "lat": 51.99399,
+    "lng": 6.91918
+  },
+  {
+    "name": "Stadtlengsfeld",
+    "country": "DE",
+    "lat": 50.78329,
+    "lng": 10.12918
+  },
+  {
+    "name": "Stadtlauringen",
+    "country": "DE",
+    "lat": 50.18708,
+    "lng": 10.36164
+  },
+  {
+    "name": "Stadtkyll",
+    "country": "DE",
+    "lat": 50.35,
+    "lng": 6.53333
+  },
+  {
+    "name": "Stadtilm",
+    "country": "DE",
+    "lat": 50.77596,
+    "lng": 11.08262
+  },
+  {
+    "name": "Stadthagen",
+    "country": "DE",
+    "lat": 52.32333,
+    "lng": 9.20311
+  },
+  {
+    "name": "Stadtbergen",
+    "country": "DE",
+    "lat": 48.36641,
+    "lng": 10.84636
+  },
+  {
+    "name": "Stadtallendorf",
+    "country": "DE",
+    "lat": 50.82261,
+    "lng": 9.01294
+  },
+  {
+    "name": "Stadensen",
+    "country": "DE",
+    "lat": 52.87571,
+    "lng": 10.55619
+  },
+  {
+    "name": "Stadelhofen",
+    "country": "DE",
+    "lat": 50.00317,
+    "lng": 11.19757
+  },
+  {
+    "name": "Stäbelow",
+    "country": "DE",
+    "lat": 54.04119,
+    "lng": 12.02336
+  },
+  {
+    "name": "Staaken",
+    "country": "DE",
+    "lat": 52.53661,
+    "lng": 13.15057
+  },
+  {
+    "name": "Staad",
+    "country": "DE",
+    "lat": 47.68091,
+    "lng": 9.20794
+  },
+  {
+    "name": "St. Georg",
+    "country": "DE",
+    "lat": 53.55513,
+    "lng": 10.01231
+  },
+  {
+    "name": "Stuttgart Mühlhausen",
+    "country": "DE",
+    "lat": 48.84232,
+    "lng": 9.23028
+  },
+  {
+    "name": "Stuttgart Feuerbach",
+    "country": "DE",
+    "lat": 48.80867,
+    "lng": 9.15719
+  },
+  {
+    "name": "Straßlach-Dingharting",
+    "country": "DE",
+    "lat": 48.00491,
+    "lng": 11.5141
+  },
+  {
+    "name": "Stadecken-Elsheim",
+    "country": "DE",
+    "lat": 49.91222,
+    "lng": 8.12528
+  },
+  {
+    "name": "Stuttgart-Ost",
+    "country": "DE",
+    "lat": 48.78363,
+    "lng": 9.21032
+  },
+  {
+    "name": "St. Pauli",
+    "country": "DE",
+    "lat": 53.557,
+    "lng": 9.964
+  },
+  {
+    "name": "Stadtrandsiedlung Malchow",
+    "country": "DE",
+    "lat": 52.58295,
+    "lng": 13.47811
+  },
+  {
+    "name": "Sternschanze",
+    "country": "DE",
+    "lat": 53.56248,
+    "lng": 9.96566
+  },
+  {
+    "name": "Stadtkern",
+    "country": "DE",
+    "lat": 52.26255,
+    "lng": 10.52062
+  },
+  {
+    "name": "Stubbekøbing",
+    "country": "DK",
+    "lat": 54.88875,
+    "lng": 12.04102
+  },
+  {
+    "name": "Struer",
+    "country": "DK",
+    "lat": 56.49205,
+    "lng": 8.59397
+  },
+  {
+    "name": "Strøby Egede",
+    "country": "DK",
+    "lat": 55.41382,
+    "lng": 12.24502
+  },
+  {
+    "name": "Strib",
+    "country": "DK",
+    "lat": 55.54021,
+    "lng": 9.76748
+  },
+  {
+    "name": "Strandby",
+    "country": "DK",
+    "lat": 57.4915,
+    "lng": 10.49609
+  },
+  {
+    "name": "Storvorde",
+    "country": "DK",
+    "lat": 57.00392,
+    "lng": 10.10125
+  },
+  {
+    "name": "Store Merløse",
+    "country": "DK",
+    "lat": 55.54382,
+    "lng": 11.71303
+  },
+  {
+    "name": "Store Heddinge",
+    "country": "DK",
+    "lat": 55.30965,
+    "lng": 12.38885
+  },
+  {
+    "name": "Støvring",
+    "country": "DK",
+    "lat": 56.88536,
+    "lng": 9.83839
+  },
+  {
+    "name": "Stoholm",
+    "country": "DK",
+    "lat": 56.48454,
+    "lng": 9.14617
+  },
+  {
+    "name": "Stilling",
+    "country": "DK",
+    "lat": 56.06224,
+    "lng": 9.98822
+  },
+  {
+    "name": "Stige",
+    "country": "DK",
+    "lat": 55.43941,
+    "lng": 10.4094
+  },
+  {
+    "name": "Stensved",
+    "country": "DK",
+    "lat": 54.99714,
+    "lng": 12.02983
+  },
+  {
+    "name": "Stenløse",
+    "country": "DK",
+    "lat": 55.76828,
+    "lng": 12.19723
+  },
+  {
+    "name": "Stenlille",
+    "country": "DK",
+    "lat": 55.53888,
+    "lng": 11.5912
+  },
+  {
+    "name": "Stege",
+    "country": "DK",
+    "lat": 54.98704,
+    "lng": 12.28461
+  },
+  {
+    "name": "Stavtrup",
+    "country": "DK",
+    "lat": 56.13124,
+    "lng": 10.11987
+  },
+  {
+    "name": "Stavnsholt",
+    "country": "DK",
+    "lat": 55.81479,
+    "lng": 12.40545
+  },
+  {
+    "name": "Starup",
+    "country": "DK",
+    "lat": 55.24097,
+    "lng": 9.53503
+  },
+  {
+    "name": "Stadtzentrum",
+    "country": "ES",
+    "lat": 28.1272,
+    "lng": -15.4314
+  },
+  {
+    "name": "Stanley",
+    "country": "FK",
+    "lat": -51.69382,
+    "lng": -57.85701
+  },
+  {
+    "name": "Strasbourg",
+    "country": "FR",
+    "lat": 48.58392,
+    "lng": 7.74553
+  },
+  {
+    "name": "Stotzheim",
+    "country": "FR",
+    "lat": 48.37868,
+    "lng": 7.49235
+  },
+  {
+    "name": "Stosswihr",
+    "country": "FR",
+    "lat": 48.05389,
+    "lng": 7.09964
+  },
+  {
+    "name": "Stiring-Wendel",
+    "country": "FR",
+    "lat": 49.20198,
+    "lng": 6.9317
+  },
+  {
+    "name": "Still",
+    "country": "FR",
+    "lat": 48.54982,
+    "lng": 7.40444
+  },
+  {
+    "name": "Stenay",
+    "country": "FR",
+    "lat": 49.49489,
+    "lng": 5.18606
+  },
+  {
+    "name": "Steinbourg",
+    "country": "FR",
+    "lat": 48.77028,
+    "lng": 7.41354
+  },
+  {
+    "name": "Steinbach",
+    "country": "FR",
+    "lat": 47.8214,
+    "lng": 7.15279
+  },
+  {
+    "name": "Steenwerck",
+    "country": "FR",
+    "lat": 50.70199,
+    "lng": 2.77829
+  },
+  {
+    "name": "Steenvoorde",
+    "country": "FR",
+    "lat": 50.81046,
+    "lng": 2.58244
+  },
+  {
+    "name": "Steene",
+    "country": "FR",
+    "lat": 50.95228,
+    "lng": 2.36813
+  },
+  {
+    "name": "Steenbecque",
+    "country": "FR",
+    "lat": 50.67421,
+    "lng": 2.48442
+  },
+  {
+    "name": "Stains",
+    "country": "FR",
+    "lat": 48.95,
+    "lng": 2.38333
+  },
+  {
+    "name": "Staffelfelden",
+    "country": "FR",
+    "lat": 47.82647,
+    "lng": 7.25235
+  },
+  {
+    "name": "St. Jean-Pla-de-Corts",
+    "country": "FR",
+    "lat": 42.51069,
+    "lng": 2.79091
+  },
+  {
+    "name": "Sturry",
+    "country": "GB",
+    "lat": 51.30132,
+    "lng": 1.12155
+  },
+  {
+    "name": "Sturminster Newton",
+    "country": "GB",
+    "lat": 50.92681,
+    "lng": -2.30515
+  },
+  {
+    "name": "Sturminster Marshall",
+    "country": "GB",
+    "lat": 50.79968,
+    "lng": -2.07615
+  },
+  {
+    "name": "Studley",
+    "country": "GB",
+    "lat": 52.27026,
+    "lng": -1.89188
+  },
+  {
+    "name": "Stroud",
+    "country": "GB",
+    "lat": 51.75,
+    "lng": -2.2
+  },
+  {
+    "name": "Strood",
+    "country": "GB",
+    "lat": 51.39323,
+    "lng": 0.47713
+  },
+  {
+    "name": "Stromness",
+    "country": "GB",
+    "lat": 58.96498,
+    "lng": -3.29601
+  },
+  {
+    "name": "Stretton",
+    "country": "GB",
+    "lat": 53.33333,
+    "lng": -2.56667
+  },
+  {
+    "name": "Stretham",
+    "country": "GB",
+    "lat": 52.34709,
+    "lng": 0.21852
+  },
+  {
+    "name": "Stretford",
+    "country": "GB",
+    "lat": 53.45,
+    "lng": -2.31667
+  },
+  {
+    "name": "Strensall",
+    "country": "GB",
+    "lat": 54.03999,
+    "lng": -1.03512
+  },
+  {
+    "name": "Streetly",
+    "country": "GB",
+    "lat": 52.58333,
+    "lng": -1.88333
+  },
+  {
+    "name": "Street",
+    "country": "GB",
+    "lat": 51.12472,
+    "lng": -2.74
+  },
+  {
+    "name": "Streatley",
+    "country": "GB",
+    "lat": 51.94628,
+    "lng": -0.44374
+  },
+  {
+    "name": "Streatley",
+    "country": "GB",
+    "lat": 51.52316,
+    "lng": -1.1491
+  },
+  {
+    "name": "Streatham",
+    "country": "GB",
+    "lat": 51.42897,
+    "lng": -0.13184
+  },
+  {
+    "name": "Strathpeffer",
+    "country": "GB",
+    "lat": 57.58522,
+    "lng": -4.54195
+  },
+  {
+    "name": "Strathblane",
+    "country": "GB",
+    "lat": 55.98596,
+    "lng": -4.30658
+  },
+  {
+    "name": "Strathaven",
+    "country": "GB",
+    "lat": 55.6771,
+    "lng": -4.0668
+  },
+  {
+    "name": "Stratford-upon-Avon",
+    "country": "GB",
+    "lat": 52.19166,
+    "lng": -1.70734
+  },
+  {
+    "name": "Stratford",
+    "country": "GB",
+    "lat": 51.53333,
+    "lng": 0.0
+  },
+  {
+    "name": "Stratfield Mortimer",
+    "country": "GB",
+    "lat": 51.37339,
+    "lng": -1.03495
+  },
+  {
+    "name": "Stranraer",
+    "country": "GB",
+    "lat": 54.90234,
+    "lng": -5.02731
+  },
+  {
+    "name": "Stradbroke",
+    "country": "GB",
+    "lat": 52.31819,
+    "lng": 1.27278
+  },
+  {
+    "name": "Strabane",
+    "country": "GB",
+    "lat": 54.82373,
+    "lng": -7.46916
+  },
+  {
+    "name": "Stow on the Wold",
+    "country": "GB",
+    "lat": 51.93008,
+    "lng": -1.72382
+  },
+  {
+    "name": "Stowmarket",
+    "country": "GB",
+    "lat": 52.18893,
+    "lng": 0.99774
+  },
+  {
+    "name": "Stourport-on-Severn",
+    "country": "GB",
+    "lat": 52.33976,
+    "lng": -2.28034
+  },
+  {
+    "name": "Stourbridge",
+    "country": "GB",
+    "lat": 52.45608,
+    "lng": -2.14317
+  },
+  {
+    "name": "Stotfold",
+    "country": "GB",
+    "lat": 52.01632,
+    "lng": -0.23209
+  },
+  {
+    "name": "Storrington",
+    "country": "GB",
+    "lat": 50.91765,
+    "lng": -0.45473
+  },
+  {
+    "name": "Stornoway",
+    "country": "GB",
+    "lat": 58.20925,
+    "lng": -6.38649
+  },
+  {
+    "name": "Stony Stratford",
+    "country": "GB",
+    "lat": 52.05682,
+    "lng": -0.85281
+  },
+  {
+    "name": "Stoney Stanton",
+    "country": "GB",
+    "lat": 52.54839,
+    "lng": -1.2793
+  },
+  {
+    "name": "Stone",
+    "country": "GB",
+    "lat": 51.45032,
+    "lng": 0.2647
+  },
+  {
+    "name": "Stonesfield",
+    "country": "GB",
+    "lat": 51.85142,
+    "lng": -1.4296
+  },
+  {
+    "name": "Stonehouse",
+    "country": "GB",
+    "lat": 55.69435,
+    "lng": -3.9878
+  },
+  {
+    "name": "Stonehouse",
+    "country": "GB",
+    "lat": 51.75,
+    "lng": -2.28333
+  },
+  {
+    "name": "Stonehaven",
+    "country": "GB",
+    "lat": 56.96365,
+    "lng": -2.21177
+  },
+  {
+    "name": "Stone",
+    "country": "GB",
+    "lat": 52.9059,
+    "lng": -2.15409
+  },
+  {
+    "name": "Stone",
+    "country": "GB",
+    "lat": 51.80246,
+    "lng": -0.87032
+  },
+  {
+    "name": "Stone",
+    "country": "GB",
+    "lat": 51.0,
+    "lng": 0.76667
+  },
+  {
+    "name": "Stondon",
+    "country": "GB",
+    "lat": 52.0015,
+    "lng": -0.31933
+  },
+  {
+    "name": "Stoke upon Tern",
+    "country": "GB",
+    "lat": 52.85,
+    "lng": -2.53333
+  },
+  {
+    "name": "Stokesley",
+    "country": "GB",
+    "lat": 54.46998,
+    "lng": -1.1933
+  },
+  {
+    "name": "Stoke Prior",
+    "country": "GB",
+    "lat": 52.29978,
+    "lng": -2.08034
+  },
+  {
+    "name": "Stoke Poges",
+    "country": "GB",
+    "lat": 51.54441,
+    "lng": -0.5888
+  },
+  {
+    "name": "Stoke-on-Trent",
+    "country": "GB",
+    "lat": 53.00415,
+    "lng": -2.18538
+  },
+  {
+    "name": "Stokenchurch",
+    "country": "GB",
+    "lat": 51.65831,
+    "lng": -0.8974
+  },
+  {
+    "name": "Stoke Goldington",
+    "country": "GB",
+    "lat": 52.13133,
+    "lng": -0.77814
+  },
+  {
+    "name": "Stoke Golding",
+    "country": "GB",
+    "lat": 52.5706,
+    "lng": -1.41124
+  },
+  {
+    "name": "Stoke Gifford",
+    "country": "GB",
+    "lat": 51.51686,
+    "lng": -2.54053
+  },
+  {
+    "name": "Stoke Gabriel",
+    "country": "GB",
+    "lat": 50.40328,
+    "lng": -3.62111
+  },
+  {
+    "name": "Stoke Ferry",
+    "country": "GB",
+    "lat": 52.57051,
+    "lng": 0.5132
+  },
+  {
+    "name": "Stoke",
+    "country": "GB",
+    "lat": 53.25,
+    "lng": -2.86667
+  },
+  {
+    "name": "Stockton-on-Tees",
+    "country": "GB",
+    "lat": 54.56848,
+    "lng": -1.3187
+  },
+  {
+    "name": "Stockton",
+    "country": "GB",
+    "lat": 52.27181,
+    "lng": -1.36055
+  },
+  {
+    "name": "Stocksfield",
+    "country": "GB",
+    "lat": 54.94026,
+    "lng": -1.90398
+  },
+  {
+    "name": "Stocksbridge",
+    "country": "GB",
+    "lat": 53.48249,
+    "lng": -1.59373
+  },
+  {
+    "name": "Stockport",
+    "country": "GB",
+    "lat": 53.40979,
+    "lng": -2.15761
+  },
+  {
+    "name": "Stock",
+    "country": "GB",
+    "lat": 51.66351,
+    "lng": 0.44263
+  },
+  {
+    "name": "Stithians",
+    "country": "GB",
+    "lat": 50.1887,
+    "lng": -5.17807
+  },
+  {
+    "name": "Stirling",
+    "country": "GB",
+    "lat": 56.11903,
+    "lng": -3.93682
+  },
+  {
+    "name": "Stilton",
+    "country": "GB",
+    "lat": 52.48788,
+    "lng": -0.28894
+  },
+  {
+    "name": "Stillington",
+    "country": "GB",
+    "lat": 54.60529,
+    "lng": -1.42191
+  },
+  {
+    "name": "Stickney",
+    "country": "GB",
+    "lat": 53.08949,
+    "lng": 0.00545
+  },
+  {
+    "name": "Steyning",
+    "country": "GB",
+    "lat": 50.88744,
+    "lng": -0.32787
+  },
+  {
+    "name": "Stewkley",
+    "country": "GB",
+    "lat": 51.92744,
+    "lng": -0.76381
+  },
+  {
+    "name": "Stewarton",
+    "country": "GB",
+    "lat": 55.67986,
+    "lng": -4.51435
+  },
+  {
+    "name": "Stevington",
+    "country": "GB",
+    "lat": 52.16848,
+    "lng": -0.55515
+  },
+  {
+    "name": "Steventon",
+    "country": "GB",
+    "lat": 51.62473,
+    "lng": -1.32145
+  },
+  {
+    "name": "Stevenston",
+    "country": "GB",
+    "lat": 55.6397,
+    "lng": -4.75339
+  },
+  {
+    "name": "Stevenage",
+    "country": "GB",
+    "lat": 51.90224,
+    "lng": -0.20256
+  },
+  {
+    "name": "Stepps",
+    "country": "GB",
+    "lat": 55.88899,
+    "lng": -4.1521
+  },
+  {
+    "name": "Steppingley",
+    "country": "GB",
+    "lat": 52.00758,
+    "lng": -0.52855
+  },
+  {
+    "name": "Stepney",
+    "country": "GB",
+    "lat": 51.5175,
+    "lng": -0.04292
+  },
+  {
+    "name": "Steeton",
+    "country": "GB",
+    "lat": 53.88333,
+    "lng": -1.95
+  },
+  {
+    "name": "Steeple Claydon",
+    "country": "GB",
+    "lat": 51.93643,
+    "lng": -0.98328
+  },
+  {
+    "name": "Steeple Bumpstead",
+    "country": "GB",
+    "lat": 52.04346,
+    "lng": 0.44808
+  },
+  {
+    "name": "Staveley",
+    "country": "GB",
+    "lat": 54.37661,
+    "lng": -2.81791
+  },
+  {
+    "name": "Staveley",
+    "country": "GB",
+    "lat": 53.26667,
+    "lng": -1.35
+  },
+  {
+    "name": "Startforth",
+    "country": "GB",
+    "lat": 54.53851,
+    "lng": -1.93016
+  },
+  {
+    "name": "Starcross",
+    "country": "GB",
+    "lat": 50.62734,
+    "lng": -3.44797
+  },
+  {
+    "name": "Staplehurst",
+    "country": "GB",
+    "lat": 51.1611,
+    "lng": 0.55249
+  },
+  {
+    "name": "Stapleford",
+    "country": "GB",
+    "lat": 51.11667,
+    "lng": -1.9
+  },
+  {
+    "name": "Stanwick",
+    "country": "GB",
+    "lat": 52.33198,
+    "lng": -0.56348
+  },
+  {
+    "name": "Stanwell",
+    "country": "GB",
+    "lat": 51.45414,
+    "lng": -0.47812
+  },
+  {
+    "name": "Stansted Mountfitchet",
+    "country": "GB",
+    "lat": 51.9,
+    "lng": 0.2
+  },
+  {
+    "name": "Stannington",
+    "country": "GB",
+    "lat": 55.10862,
+    "lng": -1.66855
+  },
+  {
+    "name": "Stanmore",
+    "country": "GB",
+    "lat": 51.61667,
+    "lng": -0.31667
+  },
+  {
+    "name": "Stanley",
+    "country": "GB",
+    "lat": 56.4854,
+    "lng": -3.45184
+  },
+  {
+    "name": "Stanhope",
+    "country": "GB",
+    "lat": 54.75,
+    "lng": -2.01667
+  },
+  {
+    "name": "Stanford-le-Hope",
+    "country": "GB",
+    "lat": 51.52274,
+    "lng": 0.43422
+  },
+  {
+    "name": "Stanford in the Vale",
+    "country": "GB",
+    "lat": 51.63969,
+    "lng": -1.50652
+  },
+  {
+    "name": "Standon",
+    "country": "GB",
+    "lat": 52.91667,
+    "lng": -2.28333
+  },
+  {
+    "name": "Standlake",
+    "country": "GB",
+    "lat": 51.7269,
+    "lng": -1.42436
+  },
+  {
+    "name": "Stanbridge",
+    "country": "GB",
+    "lat": 51.90864,
+    "lng": -0.59815
+  },
+  {
+    "name": "Stamford Bridge",
+    "country": "GB",
+    "lat": 53.9885,
+    "lng": -0.91547
+  },
+  {
+    "name": "Stamford",
+    "country": "GB",
+    "lat": 52.65,
+    "lng": -0.48333
+  },
+  {
+    "name": "Stalybridge",
+    "country": "GB",
+    "lat": 53.48414,
+    "lng": -2.05908
+  },
+  {
+    "name": "Stallingborough",
+    "country": "GB",
+    "lat": 53.58675,
+    "lng": -0.18489
+  },
+  {
+    "name": "Stalham",
+    "country": "GB",
+    "lat": 52.77079,
+    "lng": 1.51783
+  },
+  {
+    "name": "Stalbridge",
+    "country": "GB",
+    "lat": 50.95807,
+    "lng": -2.37548
+  },
+  {
+    "name": "Stainton",
+    "country": "GB",
+    "lat": 53.43333,
+    "lng": -1.16667
+  },
+  {
+    "name": "Stainforth",
+    "country": "GB",
+    "lat": 53.6,
+    "lng": -1.03333
+  },
+  {
+    "name": "Staines",
+    "country": "GB",
+    "lat": 51.43092,
+    "lng": -0.50606
+  },
+  {
+    "name": "Staindrop",
+    "country": "GB",
+    "lat": 54.58102,
+    "lng": -1.80708
+  },
+  {
+    "name": "Stainburn",
+    "country": "GB",
+    "lat": 53.93333,
+    "lng": -1.61667
+  },
+  {
+    "name": "Stainborough",
+    "country": "GB",
+    "lat": 53.52623,
+    "lng": -1.518
+  },
+  {
+    "name": "Stagsden",
+    "country": "GB",
+    "lat": 52.13046,
+    "lng": -0.56678
+  },
+  {
+    "name": "Stafford",
+    "country": "GB",
+    "lat": 52.80521,
+    "lng": -2.11636
+  },
+  {
+    "name": "St Leonards",
+    "country": "GB",
+    "lat": 50.83077,
+    "lng": -1.84377
+  },
+  {
+    "name": "St Ives",
+    "country": "GB",
+    "lat": 50.20861,
+    "lng": -5.4875
+  },
+  {
+    "name": "St Helens",
+    "country": "GB",
+    "lat": 53.45,
+    "lng": -2.73333
+  },
+  {
+    "name": "St. Helens",
+    "country": "GB",
+    "lat": 50.69688,
+    "lng": -1.11159
+  },
+  {
+    "name": "St. Day",
+    "country": "GB",
+    "lat": 50.23958,
+    "lng": -5.18572
+  },
+  {
+    "name": "St Austell",
+    "country": "GB",
+    "lat": 50.3425,
+    "lng": -4.77442
+  },
+  {
+    "name": "St Albans",
+    "country": "GB",
+    "lat": 51.75,
+    "lng": -0.33333
+  },
+  {
+    "name": "Steynton",
+    "country": "GB",
+    "lat": 51.72917,
+    "lng": -5.01722
+  },
+  {
+    "name": "Stockton",
+    "country": "GB",
+    "lat": 51.14528,
+    "lng": -2.03194
+  },
+  {
+    "name": "St James's",
+    "country": "GB",
+    "lat": 51.5073,
+    "lng": -0.13982
+  },
+  {
+    "name": "St. Buryan",
+    "country": "GB",
+    "lat": 50.07441,
+    "lng": -5.6226
+  },
+  {
+    "name": "St. Georges",
+    "country": "GB",
+    "lat": 51.36224,
+    "lng": -2.89799
+  },
+  {
+    "name": "St Mary's",
+    "country": "GB",
+    "lat": 49.91719,
+    "lng": -6.29517
+  },
+  {
+    "name": "Stewartby",
+    "country": "GB",
+    "lat": 52.07044,
+    "lng": -0.5149
+  },
+  {
+    "name": "St Mary's Bay",
+    "country": "GB",
+    "lat": 51.01003,
+    "lng": 0.9771
+  },
+  {
+    "name": "Stanley",
+    "country": "GB",
+    "lat": 54.86796,
+    "lng": -1.69846
+  },
+  {
+    "name": "Stockton Heath",
+    "country": "GB",
+    "lat": 53.37084,
+    "lng": -2.57406
+  },
+  {
+    "name": "Stoke-sub-Hamdon",
+    "country": "GB",
+    "lat": 50.95397,
+    "lng": -2.74971
+  },
+  {
+    "name": "Stanton Drew",
+    "country": "GB",
+    "lat": 51.36749,
+    "lng": -2.58646
+  },
+  {
+    "name": "Stratton",
+    "country": "GB",
+    "lat": 51.73394,
+    "lng": -1.97968
+  },
+  {
+    "name": "St Just",
+    "country": "GB",
+    "lat": 50.12379,
+    "lng": -5.68065
+  },
+  {
+    "name": "Stakeford",
+    "country": "GB",
+    "lat": 55.1611,
+    "lng": -1.57529
+  },
+  {
+    "name": "Stoneyburn",
+    "country": "GB",
+    "lat": 55.84371,
+    "lng": -3.63862
+  },
+  {
+    "name": "Stenhousemuir",
+    "country": "GB",
+    "lat": 56.02676,
+    "lng": -3.81462
+  },
+  {
+    "name": "Stamford Hill",
+    "country": "GB",
+    "lat": 51.56872,
+    "lng": -0.07334
+  },
+  {
+    "name": "St. Helier",
+    "country": "GB",
+    "lat": 51.38223,
+    "lng": -0.18341
+  },
+  {
+    "name": "Stroud Green",
+    "country": "GB",
+    "lat": 51.57509,
+    "lng": -0.11057
+  },
+  {
+    "name": "St. Ann's",
+    "country": "GB",
+    "lat": 51.58215,
+    "lng": -0.09032
+  },
+  {
+    "name": "Stamperland",
+    "country": "GB",
+    "lat": 55.79491,
+    "lng": -4.27335
+  },
+  {
+    "name": "Stepantsminda",
+    "country": "GE",
+    "lat": 42.65691,
+    "lng": 44.64311
+  },
+  {
+    "name": "Stantsiya Novyy Afon",
+    "country": "GE",
+    "lat": 43.08056,
+    "lng": 40.83833
+  },
+  {
+    "name": "St Anne",
+    "country": "GG",
+    "lat": 49.71549,
+    "lng": -2.20757
+  },
+  {
+    "name": "St Martin",
+    "country": "GG",
+    "lat": 49.43713,
+    "lng": -2.55479
+  },
+  {
+    "name": "Steíri",
+    "country": "GR",
+    "lat": 38.40831,
+    "lng": 22.71162
+  },
+  {
+    "name": "Stýpsi",
+    "country": "GR",
+    "lat": 39.31121,
+    "lng": 26.22056
+  },
+  {
+    "name": "Stylída",
+    "country": "GR",
+    "lat": 38.91667,
+    "lng": 22.61667
+  },
+  {
+    "name": "Stefanovíkeio",
+    "country": "GR",
+    "lat": 39.46354,
+    "lng": 22.74198
+  },
+  {
+    "name": "Stavrós",
+    "country": "GR",
+    "lat": 38.89641,
+    "lng": 22.37082
+  },
+  {
+    "name": "Stavráki",
+    "country": "GR",
+    "lat": 39.65614,
+    "lng": 20.81806
+  },
+  {
+    "name": "Stános",
+    "country": "GR",
+    "lat": 38.80453,
+    "lng": 21.17461
+  },
+  {
+    "name": "Stamáta",
+    "country": "GR",
+    "lat": 38.12546,
+    "lng": 23.88038
+  },
+  {
+    "name": "Stalís",
+    "country": "GR",
+    "lat": 35.29257,
+    "lng": 25.43292
+  },
+  {
+    "name": "Strymonikó",
+    "country": "GR",
+    "lat": 41.04144,
+    "lng": 23.31487
+  },
+  {
+    "name": "Stratónion",
+    "country": "GR",
+    "lat": 40.51406,
+    "lng": 23.82471
+  },
+  {
+    "name": "Stavroúpoli",
+    "country": "GR",
+    "lat": 40.66944,
+    "lng": 22.93806
+  },
+  {
+    "name": "Stavrós",
+    "country": "GR",
+    "lat": 40.66498,
+    "lng": 23.70015
+  },
+  {
+    "name": "Stavrós",
+    "country": "GR",
+    "lat": 40.58939,
+    "lng": 22.30861
+  },
+  {
+    "name": "Stathmós Mourión",
+    "country": "GR",
+    "lat": 41.26378,
+    "lng": 22.83855
+  },
+  {
+    "name": "Strožanac - Donji",
+    "country": "HR",
+    "lat": 43.50194,
+    "lng": 16.53917
+  },
+  {
+    "name": "Strmec",
+    "country": "HR",
+    "lat": 45.81702,
+    "lng": 15.78993
+  },
+  {
+    "name": "Strizivojna",
+    "country": "HR",
+    "lat": 45.22611,
+    "lng": 18.42389
+  },
+  {
+    "name": "Strahoninec",
+    "country": "HR",
+    "lat": 46.36889,
+    "lng": 16.415
+  },
+  {
+    "name": "Ston",
+    "country": "HR",
+    "lat": 42.83861,
+    "lng": 17.69639
+  },
+  {
+    "name": "Stobreč",
+    "country": "HR",
+    "lat": 43.5025,
+    "lng": 16.52222
+  },
+  {
+    "name": "Staro Petrovo Selo",
+    "country": "HR",
+    "lat": 45.23083,
+    "lng": 17.52028
+  },
+  {
+    "name": "Stari Mikanovci",
+    "country": "HR",
+    "lat": 45.28685,
+    "lng": 18.55922
+  },
+  {
+    "name": "Stari Jankovci",
+    "country": "HR",
+    "lat": 45.26194,
+    "lng": 18.91444
+  },
+  {
+    "name": "Starigrad",
+    "country": "HR",
+    "lat": 44.29601,
+    "lng": 15.43865
+  },
+  {
+    "name": "Stari Grad",
+    "country": "HR",
+    "lat": 43.18387,
+    "lng": 16.59784
+  },
+  {
+    "name": "Stara Gradiška",
+    "country": "HR",
+    "lat": 45.14861,
+    "lng": 17.24667
+  },
+  {
+    "name": "Stankovci",
+    "country": "HR",
+    "lat": 43.90972,
+    "lng": 15.69972
+  },
+  {
+    "name": "Starigrad",
+    "country": "HR",
+    "lat": 46.13667,
+    "lng": 16.80528
+  },
+  {
+    "name": "Stari Grad",
+    "country": "HR",
+    "lat": 44.43,
+    "lng": 15.06222
+  },
+  {
+    "name": "Stubičke Toplice",
+    "country": "HR",
+    "lat": 45.97585,
+    "lng": 15.93238
+  },
+  {
+    "name": "Stabat",
+    "country": "ID",
+    "lat": 3.73335,
+    "lng": 98.45025
+  },
+  {
+    "name": "Stagen",
+    "country": "ID",
+    "lat": -3.3049,
+    "lng": 116.1779
+  },
+  {
+    "name": "Stradbally",
+    "country": "IE",
+    "lat": 53.01556,
+    "lng": -7.15278
+  },
+  {
+    "name": "Stamullin",
+    "country": "IE",
+    "lat": 53.62889,
+    "lng": -6.26833
+  },
+  {
+    "name": "Strandhill",
+    "country": "IE",
+    "lat": 54.27194,
+    "lng": -8.59333
+  },
+  {
+    "name": "Stykkishólmur",
+    "country": "IS",
+    "lat": 65.07537,
+    "lng": -22.72977
+  },
+  {
+    "name": "Strongoli",
+    "country": "IT",
+    "lat": 39.26576,
+    "lng": 17.05413
+  },
+  {
+    "name": "Stilo",
+    "country": "IT",
+    "lat": 38.47628,
+    "lng": 16.46746
+  },
+  {
+    "name": "Stignano",
+    "country": "IT",
+    "lat": 38.41705,
+    "lng": 16.47011
+  },
+  {
+    "name": "Staletti",
+    "country": "IT",
+    "lat": 38.76428,
+    "lng": 16.53932
+  },
+  {
+    "name": "Staiti",
+    "country": "IT",
+    "lat": 37.99989,
+    "lng": 16.03341
+  },
+  {
+    "name": "Sturno",
+    "country": "IT",
+    "lat": 41.02217,
+    "lng": 15.11248
+  },
+  {
+    "name": "Strudà",
+    "country": "IT",
+    "lat": 40.31991,
+    "lng": 18.28176
+  },
+  {
+    "name": "Strozza",
+    "country": "IT",
+    "lat": 45.77294,
+    "lng": 9.57886
+  },
+  {
+    "name": "Stroppo",
+    "country": "IT",
+    "lat": 44.50653,
+    "lng": 7.12652
+  },
+  {
+    "name": "Stroppiana",
+    "country": "IT",
+    "lat": 45.23037,
+    "lng": 8.45461
+  },
+  {
+    "name": "Stroncone",
+    "country": "IT",
+    "lat": 42.51196,
+    "lng": 12.6477
+  },
+  {
+    "name": "Strigno",
+    "country": "IT",
+    "lat": 46.0669,
+    "lng": 11.52224
+  },
+  {
+    "name": "Striano",
+    "country": "IT",
+    "lat": 40.81543,
+    "lng": 14.57534
+  },
+  {
+    "name": "Strevi",
+    "country": "IT",
+    "lat": 44.69985,
+    "lng": 8.5247
+  },
+  {
+    "name": "Strettoia",
+    "country": "IT",
+    "lat": 43.98987,
+    "lng": 10.19357
+  },
+  {
+    "name": "Stresa",
+    "country": "IT",
+    "lat": 45.88158,
+    "lng": 8.53834
+  },
+  {
+    "name": "Stregna",
+    "country": "IT",
+    "lat": 46.12689,
+    "lng": 13.57761
+  },
+  {
+    "name": "Strangolagalli",
+    "country": "IT",
+    "lat": 41.59992,
+    "lng": 13.49228
+  },
+  {
+    "name": "Strambino",
+    "country": "IT",
+    "lat": 45.3799,
+    "lng": 7.88967
+  },
+  {
+    "name": "Stradella",
+    "country": "IT",
+    "lat": 45.07445,
+    "lng": 9.30169
+  },
+  {
+    "name": "Strada in Chianti",
+    "country": "IT",
+    "lat": 43.65874,
+    "lng": 11.29678
+  },
+  {
+    "name": "Stra",
+    "country": "IT",
+    "lat": 45.41123,
+    "lng": 12.01418
+  },
+  {
+    "name": "Storo",
+    "country": "IT",
+    "lat": 45.84925,
+    "lng": 10.58022
+  },
+  {
+    "name": "Stornarella",
+    "country": "IT",
+    "lat": 41.25591,
+    "lng": 15.73023
+  },
+  {
+    "name": "Stornara",
+    "country": "IT",
+    "lat": 41.28672,
+    "lng": 15.77003
+  },
+  {
+    "name": "Stio",
+    "country": "IT",
+    "lat": 40.3102,
+    "lng": 15.25153
+  },
+  {
+    "name": "Stintino",
+    "country": "IT",
+    "lat": 40.95201,
+    "lng": 8.21978
+  },
+  {
+    "name": "Stimigliano",
+    "country": "IT",
+    "lat": 42.30103,
+    "lng": 12.56337
+  },
+  {
+    "name": "Stigliano",
+    "country": "IT",
+    "lat": 40.40237,
+    "lng": 16.22983
+  },
+  {
+    "name": "Stienta",
+    "country": "IT",
+    "lat": 44.9397,
+    "lng": 11.54375
+  },
+  {
+    "name": "Stia",
+    "country": "IT",
+    "lat": 43.79877,
+    "lng": 11.70894
+  },
+  {
+    "name": "Stezzano",
+    "country": "IT",
+    "lat": 45.64968,
+    "lng": 9.65192
+  },
+  {
+    "name": "Sternatia",
+    "country": "IT",
+    "lat": 40.22022,
+    "lng": 18.22748
+  },
+  {
+    "name": "Stenico",
+    "country": "IT",
+    "lat": 46.05124,
+    "lng": 10.85562
+  },
+  {
+    "name": "Stelvio",
+    "country": "IT",
+    "lat": 46.59767,
+    "lng": 10.5458
+  },
+  {
+    "name": "Stellanello",
+    "country": "IT",
+    "lat": 43.99993,
+    "lng": 8.06025
+  },
+  {
+    "name": "Stella Cilento",
+    "country": "IT",
+    "lat": 40.2318,
+    "lng": 15.09286
+  },
+  {
+    "name": "Stazzano",
+    "country": "IT",
+    "lat": 44.72728,
+    "lng": 8.86846
+  },
+  {
+    "name": "Statte",
+    "country": "IT",
+    "lat": 40.52856,
+    "lng": 17.20122
+  },
+  {
+    "name": "Staranzano",
+    "country": "IT",
+    "lat": 45.80233,
+    "lng": 13.50226
+  },
+  {
+    "name": "Stanghella",
+    "country": "IT",
+    "lat": 45.13509,
+    "lng": 11.75741
+  },
+  {
+    "name": "Stanghe",
+    "country": "IT",
+    "lat": 46.88219,
+    "lng": 11.37764
+  },
+  {
+    "name": "Stagno Lombardo",
+    "country": "IT",
+    "lat": 45.07459,
+    "lng": 10.0889
+  },
+  {
+    "name": "Staggia",
+    "country": "IT",
+    "lat": 43.42182,
+    "lng": 11.18364
+  },
+  {
+    "name": "Staffolo",
+    "country": "IT",
+    "lat": 43.43326,
+    "lng": 13.18487
+  },
+  {
+    "name": "Staffa",
+    "country": "IT",
+    "lat": 45.96855,
+    "lng": 7.96708
+  },
+  {
+    "name": "Stabbia",
+    "country": "IT",
+    "lat": 43.78266,
+    "lng": 10.83475
+  },
+  {
+    "name": "Stazione di Padule",
+    "country": "IT",
+    "lat": 43.30766,
+    "lng": 12.61557
+  },
+  {
+    "name": "Stallavena-Lugo",
+    "country": "IT",
+    "lat": 45.56289,
+    "lng": 10.99669
+  },
+  {
+    "name": "Stigliano",
+    "country": "IT",
+    "lat": 45.52362,
+    "lng": 12.04377
+  },
+  {
+    "name": "Stazzona",
+    "country": "IT",
+    "lat": 46.13879,
+    "lng": 9.27524
+  },
+  {
+    "name": "Stazione Valmozzola",
+    "country": "IT",
+    "lat": 44.57879,
+    "lng": 9.9429
+  },
+  {
+    "name": "Stefanaconi",
+    "country": "IT",
+    "lat": 38.67788,
+    "lng": 16.1242
+  },
+  {
+    "name": "Strambinello",
+    "country": "IT",
+    "lat": 45.42306,
+    "lng": 7.76992
+  },
+  {
+    "name": "Strembo",
+    "country": "IT",
+    "lat": 46.1203,
+    "lng": 10.75087
+  },
+  {
+    "name": "Stiava",
+    "country": "IT",
+    "lat": 43.8972,
+    "lng": 10.31798
+  },
+  {
+    "name": "Strà-Montanara-Pieve",
+    "country": "IT",
+    "lat": 45.42367,
+    "lng": 11.15749
+  },
+  {
+    "name": "Starza Vecchia",
+    "country": "IT",
+    "lat": 40.89035,
+    "lng": 14.40138
+  },
+  {
+    "name": "Stazione-Fornola",
+    "country": "IT",
+    "lat": 44.12984,
+    "lng": 9.89159
+  },
+  {
+    "name": "Stella",
+    "country": "IT",
+    "lat": 42.88698,
+    "lng": 13.80948
+  },
+  {
+    "name": "Stazione",
+    "country": "IT",
+    "lat": 43.50046,
+    "lng": 13.15149
+  },
+  {
+    "name": "Stazione",
+    "country": "IT",
+    "lat": 43.9146,
+    "lng": 11.01414
+  },
+  {
+    "name": "Stazione Montalto-Coretto",
+    "country": "IT",
+    "lat": 39.4072,
+    "lng": 16.24313
+  },
+  {
+    "name": "Strada",
+    "country": "IT",
+    "lat": 43.40337,
+    "lng": 13.22077
+  },
+  {
+    "name": "Stazione Masotti",
+    "country": "IT",
+    "lat": 43.90984,
+    "lng": 10.85386
+  },
+  {
+    "name": "Stazione di Allerona",
+    "country": "IT",
+    "lat": 42.7855,
+    "lng": 12.03726
+  },
+  {
+    "name": "Stradella",
+    "country": "IT",
+    "lat": 45.17245,
+    "lng": 10.87327
+  },
+  {
+    "name": "Strada in Casentino",
+    "country": "IT",
+    "lat": 43.74452,
+    "lng": 11.71007
+  },
+  {
+    "name": "Stravignino",
+    "country": "IT",
+    "lat": 45.77469,
+    "lng": 10.23838
+  },
+  {
+    "name": "Stella",
+    "country": "IT",
+    "lat": 40.86027,
+    "lng": 14.25223
+  },
+  {
+    "name": "Stony Hill",
+    "country": "JM",
+    "lat": 18.07716,
+    "lng": -76.79
+  },
+  {
+    "name": "Stung Treng",
+    "country": "KH",
+    "lat": 13.52586,
+    "lng": 105.9683
+  },
+  {
+    "name": "Stueng Chhay",
+    "country": "KH",
+    "lat": 10.94238,
+    "lng": 103.79716
+  },
+  {
+    "name": "Stueng Saen",
+    "country": "KH",
+    "lat": 12.71121,
+    "lng": 104.89108
+  },
+  {
+    "name": "Stoung",
+    "country": "KH",
+    "lat": 12.9404,
+    "lng": 104.57072
+  },
+  {
+    "name": "Stueng Trang",
+    "country": "KH",
+    "lat": 12.25578,
+    "lng": 105.53522
+  },
+  {
+    "name": "Stepnyak",
+    "country": "KZ",
+    "lat": 52.83489,
+    "lng": 70.78861
+  },
+  {
+    "name": "Stepnogorsk",
+    "country": "KZ",
+    "lat": 52.35062,
+    "lng": 71.88161
+  },
+  {
+    "name": "Strassen",
+    "country": "LU",
+    "lat": 49.62056,
+    "lng": 6.07333
+  },
+  {
+    "name": "Steinsel",
+    "country": "LU",
+    "lat": 49.67694,
+    "lng": 6.12389
+  },
+  {
+    "name": "Steinfort",
+    "country": "LU",
+    "lat": 49.66139,
+    "lng": 5.91917
+  },
+  {
+    "name": "Stadtbredimus",
+    "country": "LU",
+    "lat": 49.56278,
+    "lng": 6.36444
+  },
+  {
+    "name": "Strenči",
+    "country": "LV",
+    "lat": 57.62574,
+    "lng": 25.68535
+  },
+  {
+    "name": "Stende",
+    "country": "LV",
+    "lat": 57.14497,
+    "lng": 22.53482
+  },
+  {
+    "name": "Stalbe",
+    "country": "LV",
+    "lat": 57.37065,
+    "lng": 25.03106
+  },
+  {
+    "name": "Strășeni",
+    "country": "MD",
+    "lat": 47.14216,
+    "lng": 28.60774
+  },
+  {
+    "name": "Stăuceni",
+    "country": "MD",
+    "lat": 47.09643,
+    "lng": 28.86791
+  },
+  {
+    "name": "Stari Bar",
+    "country": "ME",
+    "lat": 42.097,
+    "lng": 19.136
+  },
+  {
+    "name": "Studeničani",
+    "country": "MK",
+    "lat": 41.92208,
+    "lng": 21.53483
+  },
+  {
+    "name": "Strumica",
+    "country": "MK",
+    "lat": 41.43763,
+    "lng": 22.64288
+  },
+  {
+    "name": "Struga",
+    "country": "MK",
+    "lat": 41.17787,
+    "lng": 20.67894
+  },
+  {
+    "name": "Strelci",
+    "country": "MK",
+    "lat": 41.54046,
+    "lng": 21.00563
+  },
+  {
+    "name": "Stojakovo",
+    "country": "MK",
+    "lat": 41.15556,
+    "lng": 22.5775
+  },
+  {
+    "name": "Star Dojran",
+    "country": "MK",
+    "lat": 41.18688,
+    "lng": 22.71856
+  },
+  {
+    "name": "Strimnica",
+    "country": "MK",
+    "lat": 41.96719,
+    "lng": 21.03598
+  },
+  {
+    "name": "Stampriet",
+    "country": "NA",
+    "lat": -24.34494,
+    "lng": 18.40464
+  },
+  {
+    "name": "Strijp",
+    "country": "NL",
+    "lat": 52.03083,
+    "lng": 4.30139
+  },
+  {
+    "name": "Strijen",
+    "country": "NL",
+    "lat": 51.74521,
+    "lng": 4.55083
+  },
+  {
+    "name": "Stramproy",
+    "country": "NL",
+    "lat": 51.19417,
+    "lng": 5.71944
+  },
+  {
+    "name": "Stompetoren",
+    "country": "NL",
+    "lat": 52.61333,
+    "lng": 4.82083
+  },
+  {
+    "name": "Stolwijk",
+    "country": "NL",
+    "lat": 51.9725,
+    "lng": 4.77361
+  },
+  {
+    "name": "Stiens",
+    "country": "NL",
+    "lat": 53.26234,
+    "lng": 5.75769
+  },
+  {
+    "name": "Stepekolk",
+    "country": "NL",
+    "lat": 51.455,
+    "lng": 5.61251
+  },
+  {
+    "name": "Stein",
+    "country": "NL",
+    "lat": 52.00333,
+    "lng": 4.78194
+  },
+  {
+    "name": "Stein",
+    "country": "NL",
+    "lat": 50.96917,
+    "lng": 5.76667
+  },
+  {
+    "name": "Steyl",
+    "country": "NL",
+    "lat": 51.33217,
+    "lng": 6.11942
+  },
+  {
+    "name": "Stegeslag",
+    "country": "NL",
+    "lat": 51.94151,
+    "lng": 6.06194
+  },
+  {
+    "name": "Steenwijkerwold",
+    "country": "NL",
+    "lat": 52.80417,
+    "lng": 6.06389
+  },
+  {
+    "name": "Steenwijk",
+    "country": "NL",
+    "lat": 52.7875,
+    "lng": 6.12083
+  },
+  {
+    "name": "Steensel",
+    "country": "NL",
+    "lat": 51.37667,
+    "lng": 5.35278
+  },
+  {
+    "name": "Steenderen",
+    "country": "NL",
+    "lat": 52.06417,
+    "lng": 6.1875
+  },
+  {
+    "name": "Steenbergen",
+    "country": "NL",
+    "lat": 51.58417,
+    "lng": 4.31944
+  },
+  {
+    "name": "Stavenisse",
+    "country": "NL",
+    "lat": 51.5875,
+    "lng": 4.0125
+  },
+  {
+    "name": "Statenkwartier",
+    "country": "NL",
+    "lat": 52.09311,
+    "lng": 4.27577
+  },
+  {
+    "name": "Staphorst",
+    "country": "NL",
+    "lat": 52.645,
+    "lng": 6.21111
+  },
+  {
+    "name": "Standdaarbuiten",
+    "country": "NL",
+    "lat": 51.61333,
+    "lng": 4.51389
+  },
+  {
+    "name": "Stampersgat",
+    "country": "NL",
+    "lat": 51.61333,
+    "lng": 4.44444
+  },
+  {
+    "name": "Stadskanaal",
+    "country": "NL",
+    "lat": 52.98947,
+    "lng": 6.9504
+  },
+  {
+    "name": "Stadsfenne",
+    "country": "NL",
+    "lat": 53.03987,
+    "lng": 5.67844
+  },
+  {
+    "name": "Stadbroek",
+    "country": "NL",
+    "lat": 51.00187,
+    "lng": 5.87656
+  },
+  {
+    "name": "Staatsliedenkwartier",
+    "country": "NL",
+    "lat": 52.19951,
+    "lng": 5.97691
+  },
+  {
+    "name": "Sterrenberg",
+    "country": "NL",
+    "lat": 51.9935,
+    "lng": 5.88387
+  },
+  {
+    "name": "Storslett",
+    "country": "NO",
+    "lat": 69.76783,
+    "lng": 21.02466
+  },
+  {
+    "name": "Strai",
+    "country": "NO",
+    "lat": 58.1893,
+    "lng": 7.92826
+  },
+  {
+    "name": "Stryn",
+    "country": "NO",
+    "lat": 61.90259,
+    "lng": 6.7179
+  },
+  {
+    "name": "Strømmen",
+    "country": "NO",
+    "lat": 59.95063,
+    "lng": 11.01009
+  },
+  {
+    "name": "Straumen",
+    "country": "NO",
+    "lat": 67.34769,
+    "lng": 15.60493
+  },
+  {
+    "name": "Straumen",
+    "country": "NO",
+    "lat": 63.87163,
+    "lng": 11.29617
+  },
+  {
+    "name": "Straume",
+    "country": "NO",
+    "lat": 68.6888,
+    "lng": 14.47205
+  },
+  {
+    "name": "Stranda",
+    "country": "NO",
+    "lat": 62.30864,
+    "lng": 6.93717
+  },
+  {
+    "name": "Strand",
+    "country": "NO",
+    "lat": 59.05,
+    "lng": 5.93333
+  },
+  {
+    "name": "Storsteinnes",
+    "country": "NO",
+    "lat": 69.24081,
+    "lng": 19.23437
+  },
+  {
+    "name": "Storebø",
+    "country": "NO",
+    "lat": 60.09485,
+    "lng": 5.22705
+  },
+  {
+    "name": "Stokmarknes",
+    "country": "NO",
+    "lat": 68.56462,
+    "lng": 14.91075
+  },
+  {
+    "name": "Stokke",
+    "country": "NO",
+    "lat": 59.22255,
+    "lng": 10.30055
+  },
+  {
+    "name": "Stjørdalshalsen",
+    "country": "NO",
+    "lat": 63.4681,
+    "lng": 10.92618
+  },
+  {
+    "name": "Steinkjer",
+    "country": "NO",
+    "lat": 64.01487,
+    "lng": 11.49537
+  },
+  {
+    "name": "Stavern",
+    "country": "NO",
+    "lat": 59.0,
+    "lng": 10.03333
+  },
+  {
+    "name": "Stavanger",
+    "country": "NO",
+    "lat": 58.97005,
+    "lng": 5.73332
+  },
+  {
+    "name": "Stange",
+    "country": "NO",
+    "lat": 60.71803,
+    "lng": 11.19417
+  },
+  {
+    "name": "Stjørdal",
+    "country": "NO",
+    "lat": 63.46803,
+    "lng": 10.91776
+  },
+  {
+    "name": "Straume",
+    "country": "NO",
+    "lat": 60.36131,
+    "lng": 5.12199
+  },
+  {
+    "name": "Stordal",
+    "country": "NO",
+    "lat": 62.38203,
+    "lng": 6.98629
+  },
+  {
+    "name": "Steinsdalen",
+    "country": "NO",
+    "lat": 64.29875,
+    "lng": 10.51284
+  },
+  {
+    "name": "Støren",
+    "country": "NO",
+    "lat": 63.0391,
+    "lng": 10.28501
+  },
+  {
+    "name": "Stoke",
+    "country": "NZ",
+    "lat": -41.31667,
+    "lng": 173.23333
+  },
+  {
+    "name": "Strathern",
+    "country": "NZ",
+    "lat": -46.42842,
+    "lng": 168.36009
+  },
+  {
+    "name": "Stratford",
+    "country": "NZ",
+    "lat": -39.33762,
+    "lng": 174.28368
+  },
+  {
+    "name": "Strathmore Park",
+    "country": "NZ",
+    "lat": -41.32887,
+    "lng": 174.81986
+  },
+  {
+    "name": "Stokes Valley",
+    "country": "NZ",
+    "lat": -41.17827,
+    "lng": 174.9802
+  },
+  {
+    "name": "Strowan",
+    "country": "NZ",
+    "lat": -43.51014,
+    "lng": 172.60624
+  },
+  {
+    "name": "Stupsk",
+    "country": "PL",
+    "lat": 53.02258,
+    "lng": 20.4368
+  },
+  {
+    "name": "Stubno",
+    "country": "PL",
+    "lat": 49.89806,
+    "lng": 22.95602
+  },
+  {
+    "name": "Strzyżowice",
+    "country": "PL",
+    "lat": 51.0483,
+    "lng": 22.44018
+  },
+  {
+    "name": "Strzyżów",
+    "country": "PL",
+    "lat": 49.87074,
+    "lng": 21.79413
+  },
+  {
+    "name": "Strzegowo",
+    "country": "PL",
+    "lat": 52.89394,
+    "lng": 20.28548
+  },
+  {
+    "name": "Stromiec",
+    "country": "PL",
+    "lat": 51.647,
+    "lng": 21.09229
+  },
+  {
+    "name": "Strawczyn",
+    "country": "PL",
+    "lat": 50.94177,
+    "lng": 20.42135
+  },
+  {
+    "name": "Straszydle",
+    "country": "PL",
+    "lat": 49.90038,
+    "lng": 21.98124
+  },
+  {
+    "name": "Strachówka",
+    "country": "PL",
+    "lat": 52.42692,
+    "lng": 21.635
+  },
+  {
+    "name": "Strachocina",
+    "country": "PL",
+    "lat": 49.60815,
+    "lng": 22.08836
+  },
+  {
+    "name": "Stopnica",
+    "country": "PL",
+    "lat": 50.44018,
+    "lng": 20.9378
+  },
+  {
+    "name": "Stoczek Łukowski",
+    "country": "PL",
+    "lat": 51.96135,
+    "lng": 21.97137
+  },
+  {
+    "name": "Stoczek",
+    "country": "PL",
+    "lat": 52.54332,
+    "lng": 21.90013
+  },
+  {
+    "name": "Stężyca",
+    "country": "PL",
+    "lat": 51.58187,
+    "lng": 21.77087
+  },
+  {
+    "name": "Sterdyń",
+    "country": "PL",
+    "lat": 52.58026,
+    "lng": 22.29358
+  },
+  {
+    "name": "Stawiski",
+    "country": "PL",
+    "lat": 53.37987,
+    "lng": 22.15462
+  },
+  {
+    "name": "Stawiguda",
+    "country": "PL",
+    "lat": 53.6572,
+    "lng": 20.40041
+  },
+  {
+    "name": "Staszów",
+    "country": "PL",
+    "lat": 50.56307,
+    "lng": 21.16593
+  },
+  {
+    "name": "Stary Zamość",
+    "country": "PL",
+    "lat": 50.82004,
+    "lng": 23.17154
+  },
+  {
+    "name": "Stary Wiśnicz",
+    "country": "PL",
+    "lat": 49.92548,
+    "lng": 20.48641
+  },
+  {
+    "name": "Stary Sącz",
+    "country": "PL",
+    "lat": 49.56364,
+    "lng": 20.63496
+  },
+  {
+    "name": "Stare Miasto",
+    "country": "PL",
+    "lat": 50.28879,
+    "lng": 22.42928
+  },
+  {
+    "name": "Stare Juchy",
+    "country": "PL",
+    "lat": 53.92198,
+    "lng": 22.17367
+  },
+  {
+    "name": "Stare Babice",
+    "country": "PL",
+    "lat": 52.26028,
+    "lng": 20.83403
+  },
+  {
+    "name": "Stara Wieś",
+    "country": "PL",
+    "lat": 49.71505,
+    "lng": 22.00441
+  },
+  {
+    "name": "Starachowice",
+    "country": "PL",
+    "lat": 51.0374,
+    "lng": 21.07126
+  },
+  {
+    "name": "Stąporków",
+    "country": "PL",
+    "lat": 51.13762,
+    "lng": 20.57173
+  },
+  {
+    "name": "Stanisławów Pierwszy",
+    "country": "PL",
+    "lat": 52.37485,
+    "lng": 21.05184
+  },
+  {
+    "name": "Stanisławów",
+    "country": "PL",
+    "lat": 52.28937,
+    "lng": 21.54848
+  },
+  {
+    "name": "Stanisławice",
+    "country": "PL",
+    "lat": 49.9855,
+    "lng": 20.35123
+  },
+  {
+    "name": "Stalowa Wola",
+    "country": "PL",
+    "lat": 50.58286,
+    "lng": 22.05334
+  },
+  {
+    "name": "Stara Kornica",
+    "country": "PL",
+    "lat": 52.18183,
+    "lng": 22.93752
+  },
+  {
+    "name": "Stara Błotnica",
+    "country": "PL",
+    "lat": 51.54676,
+    "lng": 20.97479
+  },
+  {
+    "name": "Studzionka",
+    "country": "PL",
+    "lat": 49.96232,
+    "lng": 18.7728
+  },
+  {
+    "name": "Studzienice",
+    "country": "PL",
+    "lat": 54.09262,
+    "lng": 17.57581
+  },
+  {
+    "name": "Strzyżowice",
+    "country": "PL",
+    "lat": 50.38725,
+    "lng": 19.08038
+  },
+  {
+    "name": "Strzelno",
+    "country": "PL",
+    "lat": 54.78564,
+    "lng": 18.32515
+  },
+  {
+    "name": "Strzelno",
+    "country": "PL",
+    "lat": 52.62789,
+    "lng": 18.17246
+  },
+  {
+    "name": "Strzelin",
+    "country": "PL",
+    "lat": 50.78157,
+    "lng": 17.06477
+  },
+  {
+    "name": "Strzeleczki",
+    "country": "PL",
+    "lat": 50.46215,
+    "lng": 17.85665
+  },
+  {
+    "name": "Strzelce Wielkie",
+    "country": "PL",
+    "lat": 51.1394,
+    "lng": 19.14539
+  },
+  {
+    "name": "Strzelce Opolskie",
+    "country": "PL",
+    "lat": 50.5107,
+    "lng": 18.30056
+  },
+  {
+    "name": "Strzelce Krajeńskie",
+    "country": "PL",
+    "lat": 52.87726,
+    "lng": 15.52978
+  },
+  {
+    "name": "Strzelce",
+    "country": "PL",
+    "lat": 52.31478,
+    "lng": 19.40701
+  },
+  {
+    "name": "Strzegom",
+    "country": "PL",
+    "lat": 50.96264,
+    "lng": 16.35006
+  },
+  {
+    "name": "Strzebiń",
+    "country": "PL",
+    "lat": 50.61647,
+    "lng": 18.89794
+  },
+  {
+    "name": "Strzałkowo",
+    "country": "PL",
+    "lat": 52.30701,
+    "lng": 17.81811
+  },
+  {
+    "name": "Stryszów",
+    "country": "PL",
+    "lat": 49.82569,
+    "lng": 19.61763
+  },
+  {
+    "name": "Stryszawa",
+    "country": "PL",
+    "lat": 49.71327,
+    "lng": 19.52185
+  },
+  {
+    "name": "Stryków",
+    "country": "PL",
+    "lat": 51.90224,
+    "lng": 19.60536
+  },
+  {
+    "name": "Strumień",
+    "country": "PL",
+    "lat": 49.92103,
+    "lng": 18.76637
+  },
+  {
+    "name": "Stróża",
+    "country": "PL",
+    "lat": 49.79628,
+    "lng": 19.92379
+  },
+  {
+    "name": "Stronie Śląskie",
+    "country": "PL",
+    "lat": 50.29554,
+    "lng": 16.87397
+  },
+  {
+    "name": "Stronie",
+    "country": "PL",
+    "lat": 49.83056,
+    "lng": 19.67497
+  },
+  {
+    "name": "Straszyn",
+    "country": "PL",
+    "lat": 54.27214,
+    "lng": 18.58114
+  },
+  {
+    "name": "Stoszowice",
+    "country": "PL",
+    "lat": 50.59986,
+    "lng": 16.73896
+  },
+  {
+    "name": "Stężyca",
+    "country": "PL",
+    "lat": 54.20593,
+    "lng": 17.95569
+  },
+  {
+    "name": "Stęszew",
+    "country": "PL",
+    "lat": 52.2837,
+    "lng": 16.70085
+  },
+  {
+    "name": "Stepnica",
+    "country": "PL",
+    "lat": 53.65187,
+    "lng": 14.62555
+  },
+  {
+    "name": "Stegna",
+    "country": "PL",
+    "lat": 54.32684,
+    "lng": 19.11252
+  },
+  {
+    "name": "Stawiszyn",
+    "country": "PL",
+    "lat": 51.91786,
+    "lng": 18.11171
+  },
+  {
+    "name": "Stary Targ",
+    "country": "PL",
+    "lat": 53.92335,
+    "lng": 19.17003
+  },
+  {
+    "name": "Staroźreby",
+    "country": "PL",
+    "lat": 52.63265,
+    "lng": 19.9855
+  },
+  {
+    "name": "Starowa Góra",
+    "country": "PL",
+    "lat": 51.69134,
+    "lng": 19.48374
+  },
+  {
+    "name": "Starokrzepice",
+    "country": "PL",
+    "lat": 50.94859,
+    "lng": 18.65341
+  },
+  {
+    "name": "Starogard Gdański",
+    "country": "PL",
+    "lat": 53.96396,
+    "lng": 18.52638
+  },
+  {
+    "name": "Stargard",
+    "country": "PL",
+    "lat": 53.33672,
+    "lng": 15.0499
+  },
+  {
+    "name": "Stare Pole",
+    "country": "PL",
+    "lat": 54.05667,
+    "lng": 19.20874
+  },
+  {
+    "name": "Stare Miasto",
+    "country": "PL",
+    "lat": 52.17972,
+    "lng": 18.21499
+  },
+  {
+    "name": "Stare Kurowo",
+    "country": "PL",
+    "lat": 52.85669,
+    "lng": 15.67749
+  },
+  {
+    "name": "Stare Czarnowo",
+    "country": "PL",
+    "lat": 53.27861,
+    "lng": 14.77906
+  },
+  {
+    "name": "Stare Bogaczowice",
+    "country": "PL",
+    "lat": 50.84752,
+    "lng": 16.19308
+  },
+  {
+    "name": "Starcza",
+    "country": "PL",
+    "lat": 50.66421,
+    "lng": 19.0418
+  },
+  {
+    "name": "Stara Kiszewa",
+    "country": "PL",
+    "lat": 53.99006,
+    "lng": 18.16958
+  },
+  {
+    "name": "Stara Kamienica",
+    "country": "PL",
+    "lat": 50.91602,
+    "lng": 15.57286
+  },
+  {
+    "name": "Stara Dąbrowa",
+    "country": "PL",
+    "lat": 53.42191,
+    "lng": 15.14405
+  },
+  {
+    "name": "Stanowice",
+    "country": "PL",
+    "lat": 50.93106,
+    "lng": 16.37426
+  },
+  {
+    "name": "Stanowice",
+    "country": "PL",
+    "lat": 50.13037,
+    "lng": 18.67084
+  },
+  {
+    "name": "Stanisław Górny",
+    "country": "PL",
+    "lat": 49.91155,
+    "lng": 19.62931
+  },
+  {
+    "name": "Stanisław Dolny",
+    "country": "PL",
+    "lat": 49.9047,
+    "lng": 19.65334
+  },
+  {
+    "name": "Strzyża",
+    "country": "PL",
+    "lat": 54.38648,
+    "lng": 18.58647
+  },
+  {
+    "name": "Strachocin-Wojnów",
+    "country": "PL",
+    "lat": 51.10486,
+    "lng": 17.15073
+  },
+  {
+    "name": "Stabłowice",
+    "country": "PL",
+    "lat": 51.15375,
+    "lng": 16.9002
+  },
+  {
+    "name": "Stella",
+    "country": "PR",
+    "lat": 18.32189,
+    "lng": -67.24685
+  },
+  {
+    "name": "Stulpicani",
+    "country": "RO",
+    "lat": 47.46667,
+    "lng": 25.76667
+  },
+  {
+    "name": "Studinița",
+    "country": "RO",
+    "lat": 43.97691,
+    "lng": 24.42668
+  },
+  {
+    "name": "Studina",
+    "country": "RO",
+    "lat": 43.96667,
+    "lng": 24.41667
+  },
+  {
+    "name": "Strunga",
+    "country": "RO",
+    "lat": 47.16667,
+    "lng": 26.98333
+  },
+  {
+    "name": "Strugari",
+    "country": "RO",
+    "lat": 46.53333,
+    "lng": 26.71667
+  },
+  {
+    "name": "Stroiești",
+    "country": "RO",
+    "lat": 47.61042,
+    "lng": 26.96562
+  },
+  {
+    "name": "Stroiești",
+    "country": "RO",
+    "lat": 47.61667,
+    "lng": 26.13333
+  },
+  {
+    "name": "Stroești",
+    "country": "RO",
+    "lat": 45.12953,
+    "lng": 24.79418
+  },
+  {
+    "name": "Stroeşti",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 23.9
+  },
+  {
+    "name": "Strâmtura",
+    "country": "RO",
+    "lat": 47.78333,
+    "lng": 24.13333
+  },
+  {
+    "name": "Strâmtura",
+    "country": "RO",
+    "lat": 47.58082,
+    "lng": 25.68144
+  },
+  {
+    "name": "Strâmbeni",
+    "country": "RO",
+    "lat": 44.46897,
+    "lng": 24.97315
+  },
+  {
+    "name": "Stremţ",
+    "country": "RO",
+    "lat": 46.21667,
+    "lng": 23.63333
+  },
+  {
+    "name": "Strejnicu",
+    "country": "RO",
+    "lat": 44.91676,
+    "lng": 25.95109
+  },
+  {
+    "name": "Strejeștii de Sus",
+    "country": "RO",
+    "lat": 44.54389,
+    "lng": 24.22772
+  },
+  {
+    "name": "Strejeşti",
+    "country": "RO",
+    "lat": 44.53333,
+    "lng": 24.26667
+  },
+  {
+    "name": "Strehaia",
+    "country": "RO",
+    "lat": 44.61667,
+    "lng": 23.2
+  },
+  {
+    "name": "Străteni",
+    "country": "RO",
+    "lat": 47.93677,
+    "lng": 26.29664
+  },
+  {
+    "name": "Străoane",
+    "country": "RO",
+    "lat": 45.93333,
+    "lng": 27.05
+  },
+  {
+    "name": "Straja",
+    "country": "RO",
+    "lat": 47.91667,
+    "lng": 25.55
+  },
+  {
+    "name": "Straja",
+    "country": "RO",
+    "lat": 46.43989,
+    "lng": 26.36258
+  },
+  {
+    "name": "Storobăneasa",
+    "country": "RO",
+    "lat": 43.88333,
+    "lng": 25.45
+  },
+  {
+    "name": "Stornești",
+    "country": "RO",
+    "lat": 47.11667,
+    "lng": 27.18333
+  },
+  {
+    "name": "Storeşti",
+    "country": "RO",
+    "lat": 47.55,
+    "lng": 26.86667
+  },
+  {
+    "name": "Stolnici",
+    "country": "RO",
+    "lat": 44.56667,
+    "lng": 24.78333
+  },
+  {
+    "name": "Stolniceni-Prăjescu",
+    "country": "RO",
+    "lat": 47.19858,
+    "lng": 26.7481
+  },
+  {
+    "name": "Stolniceni",
+    "country": "RO",
+    "lat": 45.03948,
+    "lng": 24.3064
+  },
+  {
+    "name": "Stoina",
+    "country": "RO",
+    "lat": 44.68333,
+    "lng": 23.63333
+  },
+  {
+    "name": "Stoileşti",
+    "country": "RO",
+    "lat": 44.9,
+    "lng": 24.38333
+  },
+  {
+    "name": "Stoicăneşti",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 24.63333
+  },
+  {
+    "name": "Stoeneşti",
+    "country": "RO",
+    "lat": 45.25,
+    "lng": 25.16667
+  },
+  {
+    "name": "Stoeneşti",
+    "country": "RO",
+    "lat": 45.11667,
+    "lng": 24.16667
+  },
+  {
+    "name": "Stoenești",
+    "country": "RO",
+    "lat": 44.92422,
+    "lng": 25.85881
+  },
+  {
+    "name": "Stoenești",
+    "country": "RO",
+    "lat": 44.48569,
+    "lng": 25.71196
+  },
+  {
+    "name": "Stoeneşti",
+    "country": "RO",
+    "lat": 44.14444,
+    "lng": 25.895
+  },
+  {
+    "name": "Stoeneşti",
+    "country": "RO",
+    "lat": 44.11667,
+    "lng": 24.5
+  },
+  {
+    "name": "Stârciu",
+    "country": "RO",
+    "lat": 47.08747,
+    "lng": 22.91998
+  },
+  {
+    "name": "Stângăceaua",
+    "country": "RO",
+    "lat": 44.60896,
+    "lng": 23.31273
+  },
+  {
+    "name": "Stâncești",
+    "country": "RO",
+    "lat": 47.75,
+    "lng": 26.6
+  },
+  {
+    "name": "Stânceni",
+    "country": "RO",
+    "lat": 46.98333,
+    "lng": 25.23333
+  },
+  {
+    "name": "Stânca",
+    "country": "RO",
+    "lat": 47.23069,
+    "lng": 26.13139
+  },
+  {
+    "name": "Stâna",
+    "country": "RO",
+    "lat": 47.50757,
+    "lng": 22.96423
+  },
+  {
+    "name": "Stâlpu",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 26.71667
+  },
+  {
+    "name": "Stâlpeni",
+    "country": "RO",
+    "lat": 45.05,
+    "lng": 24.96667
+  },
+  {
+    "name": "Sticlăria",
+    "country": "RO",
+    "lat": 47.40115,
+    "lng": 26.83797
+  },
+  {
+    "name": "Sterpoaia",
+    "country": "RO",
+    "lat": 44.79058,
+    "lng": 23.43601
+  },
+  {
+    "name": "Stelnica",
+    "country": "RO",
+    "lat": 44.41667,
+    "lng": 27.88333
+  },
+  {
+    "name": "Stejaru",
+    "country": "RO",
+    "lat": 46.91888,
+    "lng": 26.18023
+  },
+  {
+    "name": "Stejaru",
+    "country": "RO",
+    "lat": 44.76667,
+    "lng": 28.55
+  },
+  {
+    "name": "Stejaru",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 24.88333
+  },
+  {
+    "name": "Stejari",
+    "country": "RO",
+    "lat": 44.76667,
+    "lng": 23.68333
+  },
+  {
+    "name": "Steierdorf",
+    "country": "RO",
+    "lat": 45.06359,
+    "lng": 21.85216
+  },
+  {
+    "name": "Stăvaru",
+    "country": "RO",
+    "lat": 43.86445,
+    "lng": 24.25902
+  },
+  {
+    "name": "Stăuceni",
+    "country": "RO",
+    "lat": 47.71667,
+    "lng": 26.75
+  },
+  {
+    "name": "Starchiojd",
+    "country": "RO",
+    "lat": 45.31667,
+    "lng": 26.18333
+  },
+  {
+    "name": "Stăniţa",
+    "country": "RO",
+    "lat": 47.01667,
+    "lng": 27.1
+  },
+  {
+    "name": "Stănişeşti",
+    "country": "RO",
+    "lat": 46.43333,
+    "lng": 27.3
+  },
+  {
+    "name": "Stănileşti",
+    "country": "RO",
+    "lat": 46.61833,
+    "lng": 28.17139
+  },
+  {
+    "name": "Stăneşti",
+    "country": "RO",
+    "lat": 45.11667,
+    "lng": 23.25
+  },
+  {
+    "name": "Stăneşti",
+    "country": "RO",
+    "lat": 43.91667,
+    "lng": 25.83333
+  },
+  {
+    "name": "Stăncuţa",
+    "country": "RO",
+    "lat": 44.9,
+    "lng": 27.83333
+  },
+  {
+    "name": "Stăncești",
+    "country": "RO",
+    "lat": 45.12665,
+    "lng": 26.92319
+  },
+  {
+    "name": "Stancea",
+    "country": "RO",
+    "lat": 44.1368,
+    "lng": 26.81226
+  },
+  {
+    "name": "Stamate",
+    "country": "RO",
+    "lat": 47.60598,
+    "lng": 26.51698
+  },
+  {
+    "name": "Stănești",
+    "country": "RO",
+    "lat": 44.81667,
+    "lng": 24.05
+  },
+  {
+    "name": "Stubline",
+    "country": "RS",
+    "lat": 44.57476,
+    "lng": 20.13477
+  },
+  {
+    "name": "Stepojevac",
+    "country": "RS",
+    "lat": 44.51278,
+    "lng": 20.295
+  },
+  {
+    "name": "Stari Lec",
+    "country": "RS",
+    "lat": 45.28401,
+    "lng": 20.96433
+  },
+  {
+    "name": "Stari Banovci",
+    "country": "RS",
+    "lat": 44.9842,
+    "lng": 20.28382
+  },
+  {
+    "name": "Starčevo",
+    "country": "RS",
+    "lat": 44.80729,
+    "lng": 20.70546
+  },
+  {
+    "name": "Stara Pazova",
+    "country": "RS",
+    "lat": 44.985,
+    "lng": 20.16083
+  },
+  {
+    "name": "Stajićevo",
+    "country": "RS",
+    "lat": 45.29489,
+    "lng": 20.45845
+  },
+  {
+    "name": "Stari Grad",
+    "country": "RS",
+    "lat": 44.81789,
+    "lng": 20.46186
+  },
+  {
+    "name": "Stepanovićevo",
+    "country": "RS",
+    "lat": 45.41369,
+    "lng": 19.7
+  },
+  {
+    "name": "Stanišić",
+    "country": "RS",
+    "lat": 45.93895,
+    "lng": 19.16709
+  },
+  {
+    "name": "Stari Žednik",
+    "country": "RS",
+    "lat": 45.94864,
+    "lng": 19.63029
+  },
+  {
+    "name": "Stupino",
+    "country": "RU",
+    "lat": 54.89735,
+    "lng": 38.06796
+  },
+  {
+    "name": "Stulovo",
+    "country": "RU",
+    "lat": 58.7225,
+    "lng": 50.14389
+  },
+  {
+    "name": "Strunino",
+    "country": "RU",
+    "lat": 56.37328,
+    "lng": 38.58321
+  },
+  {
+    "name": "Strugi-Krasnyye",
+    "country": "RU",
+    "lat": 58.2707,
+    "lng": 29.11172
+  },
+  {
+    "name": "Stromyn’",
+    "country": "RU",
+    "lat": 56.04347,
+    "lng": 38.48318
+  },
+  {
+    "name": "Stroitel",
+    "country": "RU",
+    "lat": 50.78816,
+    "lng": 36.47751
+  },
+  {
+    "name": "Strogino",
+    "country": "RU",
+    "lat": 55.81838,
+    "lng": 37.41224
+  },
+  {
+    "name": "Strizhi",
+    "country": "RU",
+    "lat": 58.465,
+    "lng": 49.261
+  },
+  {
+    "name": "Strel'na",
+    "country": "RU",
+    "lat": 59.85189,
+    "lng": 30.03611
+  },
+  {
+    "name": "Strelka",
+    "country": "RU",
+    "lat": 45.20633,
+    "lng": 37.2865
+  },
+  {
+    "name": "Strelitsa",
+    "country": "RU",
+    "lat": 51.60538,
+    "lng": 38.90601
+  },
+  {
+    "name": "Storozhevaya",
+    "country": "RU",
+    "lat": 43.87886,
+    "lng": 41.45143
+  },
+  {
+    "name": "Stolbovaya",
+    "country": "RU",
+    "lat": 55.25021,
+    "lng": 37.49249
+  },
+  {
+    "name": "Stolbishchi",
+    "country": "RU",
+    "lat": 55.64679,
+    "lng": 49.21595
+  },
+  {
+    "name": "Stodolishche",
+    "country": "RU",
+    "lat": 54.18594,
+    "lng": 32.64925
+  },
+  {
+    "name": "Sterlitamak",
+    "country": "RU",
+    "lat": 53.63793,
+    "lng": 55.9533
+  },
+  {
+    "name": "Sterlibashevo",
+    "country": "RU",
+    "lat": 53.43795,
+    "lng": 55.25726
+  },
+  {
+    "name": "Stepnoye",
+    "country": "RU",
+    "lat": 51.37985,
+    "lng": 46.84885
+  },
+  {
+    "name": "Stepnoye",
+    "country": "RU",
+    "lat": 44.26982,
+    "lng": 44.5819
+  },
+  {
+    "name": "Stepantsevo",
+    "country": "RU",
+    "lat": 56.13143,
+    "lng": 41.7032
+  },
+  {
+    "name": "Stavrovo",
+    "country": "RU",
+    "lat": 56.13311,
+    "lng": 40.01295
+  },
+  {
+    "name": "Stavropol’",
+    "country": "RU",
+    "lat": 45.03442,
+    "lng": 41.9642
+  },
+  {
+    "name": "Staryy Urukh",
+    "country": "RU",
+    "lat": 43.34041,
+    "lng": 44.01868
+  },
+  {
+    "name": "Staryy Oskol",
+    "country": "RU",
+    "lat": 51.3025,
+    "lng": 37.84613
+  },
+  {
+    "name": "Staryye Atagi",
+    "country": "RU",
+    "lat": 43.12028,
+    "lng": 45.74056
+  },
+  {
+    "name": "Staryy Cherek",
+    "country": "RU",
+    "lat": 43.47069,
+    "lng": 43.85615
+  },
+  {
+    "name": "Starozhilovo",
+    "country": "RU",
+    "lat": 54.23296,
+    "lng": 39.9093
+  },
+  {
+    "name": "Staroyur’yevo",
+    "country": "RU",
+    "lat": 53.31949,
+    "lng": 40.70227
+  },
+  {
+    "name": "Staroye Drozhzhanoye",
+    "country": "RU",
+    "lat": 54.72384,
+    "lng": 47.55652
+  },
+  {
+    "name": "Starovelichkovskaya",
+    "country": "RU",
+    "lat": 45.42884,
+    "lng": 38.73261
+  },
+  {
+    "name": "Staroutkinsk",
+    "country": "RU",
+    "lat": 57.23017,
+    "lng": 59.33483
+  },
+  {
+    "name": "Starotitarovskaya",
+    "country": "RU",
+    "lat": 45.21938,
+    "lng": 37.15476
+  },
+  {
+    "name": "Starotimoshkino",
+    "country": "RU",
+    "lat": 53.71908,
+    "lng": 47.53116
+  },
+  {
+    "name": "Starosubkhangulovo",
+    "country": "RU",
+    "lat": 53.10375,
+    "lng": 57.42873
+  },
+  {
+    "name": "Staroshcherbinovskaya",
+    "country": "RU",
+    "lat": 46.63033,
+    "lng": 38.66379
+  },
+  {
+    "name": "Staroye Shaygovo",
+    "country": "RU",
+    "lat": 54.30613,
+    "lng": 44.47343
+  },
+  {
+    "name": "Staropavlovskaya",
+    "country": "RU",
+    "lat": 43.84889,
+    "lng": 43.63278
+  },
+  {
+    "name": "Staronizhestebliyevskaya",
+    "country": "RU",
+    "lat": 45.38315,
+    "lng": 38.44304
+  },
+  {
+    "name": "Staromyshastovskaya",
+    "country": "RU",
+    "lat": 45.34329,
+    "lng": 39.07608
+  },
+  {
+    "name": "Starominskaya",
+    "country": "RU",
+    "lat": 46.53094,
+    "lng": 39.05163
+  },
+  {
+    "name": "Staroleushkovskaya",
+    "country": "RU",
+    "lat": 45.98666,
+    "lng": 39.75987
+  },
+  {
+    "name": "Starokucherganovka",
+    "country": "RU",
+    "lat": 46.32476,
+    "lng": 47.9555
+  },
+  {
+    "name": "Starokorsunskaya",
+    "country": "RU",
+    "lat": 45.05727,
+    "lng": 39.31611
+  },
+  {
+    "name": "Starodzhereliyevskaya",
+    "country": "RU",
+    "lat": 45.47599,
+    "lng": 38.2968
+  },
+  {
+    "name": "Starodubskoye",
+    "country": "RU",
+    "lat": 44.56306,
+    "lng": 44.01528
+  },
+  {
+    "name": "Starodub",
+    "country": "RU",
+    "lat": 52.58501,
+    "lng": 32.76314
+  },
+  {
+    "name": "Staroderevyankovskaya",
+    "country": "RU",
+    "lat": 46.12761,
+    "lng": 38.9674
+  },
+  {
+    "name": "Starocherkasskaya",
+    "country": "RU",
+    "lat": 47.24077,
+    "lng": 40.04186
+  },
+  {
+    "name": "Starobaltachevo",
+    "country": "RU",
+    "lat": 56.0014,
+    "lng": 55.91644
+  },
+  {
+    "name": "Staritsa",
+    "country": "RU",
+    "lat": 56.50542,
+    "lng": 34.93396
+  },
+  {
+    "name": "Staraya Vichuga",
+    "country": "RU",
+    "lat": 57.26833,
+    "lng": 41.87873
+  },
+  {
+    "name": "Staraya Toropa",
+    "country": "RU",
+    "lat": 56.28012,
+    "lng": 31.67018
+  },
+  {
+    "name": "Staraya Sunzha",
+    "country": "RU",
+    "lat": 43.33542,
+    "lng": 45.74377
+  },
+  {
+    "name": "Staraya Stanitsa",
+    "country": "RU",
+    "lat": 48.34579,
+    "lng": 40.29376
+  },
+  {
+    "name": "Staraya Stanitsa",
+    "country": "RU",
+    "lat": 45.0098,
+    "lng": 41.1512
+  },
+  {
+    "name": "Staraya Russa",
+    "country": "RU",
+    "lat": 57.99618,
+    "lng": 31.36003
+  },
+  {
+    "name": "Staraya Poltavka",
+    "country": "RU",
+    "lat": 50.47683,
+    "lng": 46.48275
+  },
+  {
+    "name": "Staraya Mayna",
+    "country": "RU",
+    "lat": 54.60596,
+    "lng": 48.92487
+  },
+  {
+    "name": "Staraya Ladoga",
+    "country": "RU",
+    "lat": 59.99872,
+    "lng": 32.29413
+  },
+  {
+    "name": "Staraya Kupavna",
+    "country": "RU",
+    "lat": 55.80799,
+    "lng": 38.1805
+  },
+  {
+    "name": "Staraya Kulatka",
+    "country": "RU",
+    "lat": 52.72932,
+    "lng": 47.62145
+  },
+  {
+    "name": "Staraya Derevnya",
+    "country": "RU",
+    "lat": 59.98834,
+    "lng": 30.24296
+  },
+  {
+    "name": "Staraya",
+    "country": "RU",
+    "lat": 59.92749,
+    "lng": 30.62765
+  },
+  {
+    "name": "Star’",
+    "country": "RU",
+    "lat": 53.62362,
+    "lng": 34.15183
+  },
+  {
+    "name": "Stanovoye",
+    "country": "RU",
+    "lat": 52.76115,
+    "lng": 38.3439
+  },
+  {
+    "name": "Staryye Ozinki",
+    "country": "RU",
+    "lat": 51.1786,
+    "lng": 49.6769
+  },
+  {
+    "name": "Staraya Akkermanovka",
+    "country": "RU",
+    "lat": 51.24669,
+    "lng": 58.23908
+  },
+  {
+    "name": "Staryy Malgobek",
+    "country": "RU",
+    "lat": 43.54437,
+    "lng": 44.59592
+  },
+  {
+    "name": "Stukovo",
+    "country": "RU",
+    "lat": 53.21278,
+    "lng": 83.33778
+  },
+  {
+    "name": "Strezhevoy",
+    "country": "RU",
+    "lat": 60.7333,
+    "lng": 77.5889
+  },
+  {
+    "name": "Strelka",
+    "country": "RU",
+    "lat": 58.07278,
+    "lng": 93.03444
+  },
+  {
+    "name": "Staryy Togul",
+    "country": "RU",
+    "lat": 53.4291,
+    "lng": 85.9006
+  },
+  {
+    "name": "Staryy Nadym",
+    "country": "RU",
+    "lat": 65.61182,
+    "lng": 72.68417
+  },
+  {
+    "name": "Staropyshminsk",
+    "country": "RU",
+    "lat": 56.93867,
+    "lng": 60.90295
+  },
+  {
+    "name": "Staropesterevo",
+    "country": "RU",
+    "lat": 54.5001,
+    "lng": 86.4094
+  },
+  {
+    "name": "Starobachaty",
+    "country": "RU",
+    "lat": 54.2425,
+    "lng": 86.2072
+  },
+  {
+    "name": "Staroaleyskoye",
+    "country": "RU",
+    "lat": 51.00808,
+    "lng": 81.99544
+  },
+  {
+    "name": "Starobelokurikha",
+    "country": "RU",
+    "lat": 52.05206,
+    "lng": 85.08765
+  },
+  {
+    "name": "Stantsionno-Oyashinskiy",
+    "country": "RU",
+    "lat": 55.4664,
+    "lng": 83.8245
+  },
+  {
+    "name": "Starokamyshinsk",
+    "country": "RU",
+    "lat": 55.03912,
+    "lng": 61.58778
+  },
+  {
+    "name": "Stan-Bekhtemir",
+    "country": "RU",
+    "lat": 52.60665,
+    "lng": 85.62619
+  },
+  {
+    "name": "Staroye Arakchino",
+    "country": "RU",
+    "lat": 55.8041,
+    "lng": 48.9709
+  },
+  {
+    "name": "Stantsia Staritsa",
+    "country": "RU",
+    "lat": 56.53224,
+    "lng": 34.77287
+  },
+  {
+    "name": "Stepnoye Ozero",
+    "country": "RU",
+    "lat": 52.77899,
+    "lng": 79.85611
+  },
+  {
+    "name": "Storvik",
+    "country": "SE",
+    "lat": 65.15,
+    "lng": 20.73333
+  },
+  {
+    "name": "Styrsö",
+    "country": "SE",
+    "lat": 57.61639,
+    "lng": 11.78556
+  },
+  {
+    "name": "Sturkö",
+    "country": "SE",
+    "lat": 56.08333,
+    "lng": 15.7
+  },
+  {
+    "name": "Sturefors",
+    "country": "SE",
+    "lat": 58.33333,
+    "lng": 15.73333
+  },
+  {
+    "name": "Strövelstorp",
+    "country": "SE",
+    "lat": 56.16979,
+    "lng": 12.83925
+  },
+  {
+    "name": "Strömsund",
+    "country": "SE",
+    "lat": 63.85206,
+    "lng": 15.55583
+  },
+  {
+    "name": "Strömstad",
+    "country": "SE",
+    "lat": 58.93945,
+    "lng": 11.1712
+  },
+  {
+    "name": "Strömsnäsbruk",
+    "country": "SE",
+    "lat": 56.55,
+    "lng": 13.71667
+  },
+  {
+    "name": "Strömma",
+    "country": "SE",
+    "lat": 59.28333,
+    "lng": 18.53333
+  },
+  {
+    "name": "Strängnäs",
+    "country": "SE",
+    "lat": 59.37741,
+    "lng": 17.03119
+  },
+  {
+    "name": "Storvreta",
+    "country": "SE",
+    "lat": 59.95933,
+    "lng": 17.70588
+  },
+  {
+    "name": "Storvik",
+    "country": "SE",
+    "lat": 60.58333,
+    "lng": 16.53333
+  },
+  {
+    "name": "Storuman",
+    "country": "SE",
+    "lat": 65.0959,
+    "lng": 17.11731
+  },
+  {
+    "name": "Storfors",
+    "country": "SE",
+    "lat": 59.53183,
+    "lng": 14.27201
+  },
+  {
+    "name": "Storebro",
+    "country": "SE",
+    "lat": 57.58333,
+    "lng": 15.85
+  },
+  {
+    "name": "Stora Höga",
+    "country": "SE",
+    "lat": 58.01667,
+    "lng": 11.83333
+  },
+  {
+    "name": "Storå",
+    "country": "SE",
+    "lat": 59.71409,
+    "lng": 15.13169
+  },
+  {
+    "name": "Stöpen",
+    "country": "SE",
+    "lat": 58.47802,
+    "lng": 13.86611
+  },
+  {
+    "name": "Stockvik",
+    "country": "SE",
+    "lat": 62.33667,
+    "lng": 17.36583
+  },
+  {
+    "name": "Stockholm",
+    "country": "SE",
+    "lat": 59.32938,
+    "lng": 18.06871
+  },
+  {
+    "name": "Stockaryd",
+    "country": "SE",
+    "lat": 57.31737,
+    "lng": 14.59341
+  },
+  {
+    "name": "Stigtomta",
+    "country": "SE",
+    "lat": 58.8,
+    "lng": 16.78333
+  },
+  {
+    "name": "Stenungsund",
+    "country": "SE",
+    "lat": 58.07046,
+    "lng": 11.8181
+  },
+  {
+    "name": "Stenstorp",
+    "country": "SE",
+    "lat": 58.48333,
+    "lng": 15.06667
+  },
+  {
+    "name": "Stenstorp",
+    "country": "SE",
+    "lat": 58.27254,
+    "lng": 13.71454
+  },
+  {
+    "name": "Stenkullen",
+    "country": "SE",
+    "lat": 57.79476,
+    "lng": 12.31688
+  },
+  {
+    "name": "Steninge",
+    "country": "SE",
+    "lat": 56.769,
+    "lng": 12.63034
+  },
+  {
+    "name": "Stenhamra",
+    "country": "SE",
+    "lat": 59.3344,
+    "lng": 17.68842
+  },
+  {
+    "name": "Stehag",
+    "country": "SE",
+    "lat": 55.90188,
+    "lng": 13.39577
+  },
+  {
+    "name": "Stavsnäs",
+    "country": "SE",
+    "lat": 59.28333,
+    "lng": 18.68333
+  },
+  {
+    "name": "Stångby",
+    "country": "SE",
+    "lat": 55.7503,
+    "lng": 13.19797
+  },
+  {
+    "name": "Stallarholmen",
+    "country": "SE",
+    "lat": 59.36667,
+    "lng": 17.2
+  },
+  {
+    "name": "Staffanstorp",
+    "country": "SE",
+    "lat": 55.64277,
+    "lng": 13.20638
+  },
+  {
+    "name": "Starše",
+    "country": "SI",
+    "lat": 46.46583,
+    "lng": 15.76722
+  },
+  {
+    "name": "Straža",
+    "country": "SI",
+    "lat": 45.78115,
+    "lng": 15.07571
+  },
+  {
+    "name": "Stropkov",
+    "country": "SK",
+    "lat": 49.20211,
+    "lng": 21.65216
+  },
+  {
+    "name": "Strážske",
+    "country": "SK",
+    "lat": 48.8735,
+    "lng": 21.83668
+  },
+  {
+    "name": "Stará Ľubovňa",
+    "country": "SK",
+    "lat": 49.29859,
+    "lng": 20.6862
+  },
+  {
+    "name": "Stupava",
+    "country": "SK",
+    "lat": 48.27474,
+    "lng": 17.03173
+  },
+  {
+    "name": "Studienka",
+    "country": "SK",
+    "lat": 48.52647,
+    "lng": 17.13733
+  },
+  {
+    "name": "Streženice",
+    "country": "SK",
+    "lat": 49.1078,
+    "lng": 18.30581
+  },
+  {
+    "name": "Strekov",
+    "country": "SK",
+    "lat": 47.9042,
+    "lng": 18.41652
+  },
+  {
+    "name": "Staškov",
+    "country": "SK",
+    "lat": 49.421,
+    "lng": 18.68694
+  },
+  {
+    "name": "Staré Mesto",
+    "country": "SK",
+    "lat": 48.15039,
+    "lng": 17.09002
+  },
+  {
+    "name": "Stará Turá",
+    "country": "SK",
+    "lat": 48.77721,
+    "lng": 17.69433
+  },
+  {
+    "name": "Stará Bystrica",
+    "country": "SK",
+    "lat": 49.3474,
+    "lng": 18.94906
+  },
+  {
+    "name": "Staryi Dobrotvir",
+    "country": "UA",
+    "lat": 50.23154,
+    "lng": 24.37701
+  },
+  {
+    "name": "Stara Zhadova",
+    "country": "UA",
+    "lat": 48.2,
+    "lng": 25.51667
+  },
+  {
+    "name": "Staryy Vovchynets",
+    "country": "UA",
+    "lat": 48.0048,
+    "lng": 25.93288
+  },
+  {
+    "name": "Stepnohirsk",
+    "country": "UA",
+    "lat": 47.59015,
+    "lng": 35.36399
+  },
+  {
+    "name": "Studenok",
+    "country": "UA",
+    "lat": 49.08888,
+    "lng": 37.48999
+  },
+  {
+    "name": "Stryi",
+    "country": "UA",
+    "lat": 49.26171,
+    "lng": 23.84721
+  },
+  {
+    "name": "Striukove",
+    "country": "UA",
+    "lat": 47.37546,
+    "lng": 30.57588
+  },
+  {
+    "name": "Strumok",
+    "country": "UA",
+    "lat": 45.72378,
+    "lng": 29.44076
+  },
+  {
+    "name": "Stroyntsi",
+    "country": "UA",
+    "lat": 48.24555,
+    "lng": 26.25563
+  },
+  {
+    "name": "Strogonovka",
+    "country": "UA",
+    "lat": 44.9497,
+    "lng": 34.17924
+  },
+  {
+    "name": "Stryzhavka",
+    "country": "UA",
+    "lat": 49.30955,
+    "lng": 28.47208
+  },
+  {
+    "name": "Strilkove",
+    "country": "UA",
+    "lat": 45.89593,
+    "lng": 34.88301
+  },
+  {
+    "name": "Striletskyy Kut",
+    "country": "UA",
+    "lat": 48.33192,
+    "lng": 25.82043
+  },
+  {
+    "name": "Strilecha",
+    "country": "UA",
+    "lat": 50.30106,
+    "lng": 36.39886
+  },
+  {
+    "name": "Strabychovo",
+    "country": "UA",
+    "lat": 48.38993,
+    "lng": 22.5494
+  },
+  {
+    "name": "Stizhkivske",
+    "country": "UA",
+    "lat": 48.11857,
+    "lng": 38.46693
+  },
+  {
+    "name": "Storozhnytsia",
+    "country": "UA",
+    "lat": 48.60403,
+    "lng": 22.23269
+  },
+  {
+    "name": "Storozhynets",
+    "country": "UA",
+    "lat": 48.15938,
+    "lng": 25.72144
+  },
+  {
+    "name": "Stolbovoye",
+    "country": "UA",
+    "lat": 45.3627,
+    "lng": 33.49584
+  },
+  {
+    "name": "Stetseva",
+    "country": "UA",
+    "lat": 48.52638,
+    "lng": 25.57411
+  },
+  {
+    "name": "Stepove",
+    "country": "UA",
+    "lat": 47.18937,
+    "lng": 31.51772
+  },
+  {
+    "name": "Stepnoye",
+    "country": "UA",
+    "lat": 45.65212,
+    "lng": 33.77441
+  },
+  {
+    "name": "Stepkivka",
+    "country": "UA",
+    "lat": 47.89134,
+    "lng": 30.90553
+  },
+  {
+    "name": "Stepantsi",
+    "country": "UA",
+    "lat": 49.70388,
+    "lng": 31.29697
+  },
+  {
+    "name": "Stepanivka",
+    "country": "UA",
+    "lat": 50.95591,
+    "lng": 34.60583
+  },
+  {
+    "name": "Stepanivka",
+    "country": "UA",
+    "lat": 46.79489,
+    "lng": 29.98684
+  },
+  {
+    "name": "Stepanky",
+    "country": "UA",
+    "lat": 49.31662,
+    "lng": 31.98321
+  },
+  {
+    "name": "Stebnyk",
+    "country": "UA",
+    "lat": 49.30098,
+    "lng": 23.55197
+  },
+  {
+    "name": "Stebliv",
+    "country": "UA",
+    "lat": 49.40163,
+    "lng": 31.09557
+  },
+  {
+    "name": "Stayky",
+    "country": "UA",
+    "lat": 50.07818,
+    "lng": 30.9038
+  },
+  {
+    "name": "Stavrove",
+    "country": "UA",
+    "lat": 47.61585,
+    "lng": 29.5563
+  },
+  {
+    "name": "Stavkove",
+    "country": "UA",
+    "lat": 47.17961,
+    "lng": 30.63545
+  },
+  {
+    "name": "Stavyshche",
+    "country": "UA",
+    "lat": 50.40051,
+    "lng": 29.52796
+  },
+  {
+    "name": "Stavyshche",
+    "country": "UA",
+    "lat": 49.39251,
+    "lng": 30.19231
+  },
+  {
+    "name": "Stavchany",
+    "country": "UA",
+    "lat": 48.51011,
+    "lng": 25.68101
+  },
+  {
+    "name": "Stavchany",
+    "country": "UA",
+    "lat": 48.39008,
+    "lng": 26.40319
+  },
+  {
+    "name": "Stasi",
+    "country": "UA",
+    "lat": 49.74613,
+    "lng": 34.56974
+  },
+  {
+    "name": "Staryi Uhryniv",
+    "country": "UA",
+    "lat": 48.9466,
+    "lng": 24.37147
+  },
+  {
+    "name": "Staryi Sambir",
+    "country": "UA",
+    "lat": 49.44199,
+    "lng": 23.00185
+  },
+  {
+    "name": "Staryi Saltiv",
+    "country": "UA",
+    "lat": 50.07619,
+    "lng": 36.78852
+  },
+  {
+    "name": "Staryy Merchyk",
+    "country": "UA",
+    "lat": 49.98147,
+    "lng": 35.75904
+  },
+  {
+    "name": "Staryi Krym",
+    "country": "UA",
+    "lat": 47.16105,
+    "lng": 37.48808
+  },
+  {
+    "name": "Stary Krym",
+    "country": "UA",
+    "lat": 45.02887,
+    "lng": 35.09174
+  },
+  {
+    "name": "Stari Troyany",
+    "country": "UA",
+    "lat": 45.67264,
+    "lng": 29.1787
+  },
+  {
+    "name": "Stari Kuty",
+    "country": "UA",
+    "lat": 48.27943,
+    "lng": 25.163
+  },
+  {
+    "name": "Stari Broskivtsi",
+    "country": "UA",
+    "lat": 48.23912,
+    "lng": 25.74668
+  },
+  {
+    "name": "Stari Bohorodchany",
+    "country": "UA",
+    "lat": 48.82857,
+    "lng": 24.5255
+  },
+  {
+    "name": "Stare Selo",
+    "country": "UA",
+    "lat": 49.70769,
+    "lng": 24.19327
+  },
+  {
+    "name": "Starosillya",
+    "country": "UA",
+    "lat": 46.33129,
+    "lng": 29.46926
+  },
+  {
+    "name": "Starokostyantyniv",
+    "country": "UA",
+    "lat": 49.75522,
+    "lng": 27.21229
+  },
+  {
+    "name": "Starokozache",
+    "country": "UA",
+    "lat": 46.33583,
+    "lng": 29.98876
+  },
+  {
+    "name": "Starobesheve",
+    "country": "UA",
+    "lat": 47.75069,
+    "lng": 38.03039
+  },
+  {
+    "name": "Starobilsk",
+    "country": "UA",
+    "lat": 49.27719,
+    "lng": 38.91673
+  },
+  {
+    "name": "Starychi",
+    "country": "UA",
+    "lat": 49.98001,
+    "lng": 23.55848
+  },
+  {
+    "name": "Starohorozhene",
+    "country": "UA",
+    "lat": 47.49653,
+    "lng": 32.34161
+  },
+  {
+    "name": "Stara Vyzhivka",
+    "country": "UA",
+    "lat": 51.43762,
+    "lng": 24.43997
+  },
+  {
+    "name": "Stara Ushytsya",
+    "country": "UA",
+    "lat": 48.59427,
+    "lng": 27.07487
+  },
+  {
+    "name": "Stara Tsarychanka",
+    "country": "UA",
+    "lat": 46.28873,
+    "lng": 29.86709
+  },
+  {
+    "name": "Stara Sil",
+    "country": "UA",
+    "lat": 49.48906,
+    "lng": 22.96589
+  },
+  {
+    "name": "Stara Syniava",
+    "country": "UA",
+    "lat": 49.59709,
+    "lng": 27.615
+  },
+  {
+    "name": "Stara Nekrasivka",
+    "country": "UA",
+    "lat": 45.33721,
+    "lng": 28.92322
+  },
+  {
+    "name": "Stara Kulna",
+    "country": "UA",
+    "lat": 47.69476,
+    "lng": 29.31494
+  },
+  {
+    "name": "Stara Darnytsya",
+    "country": "UA",
+    "lat": 50.43333,
+    "lng": 30.63333
+  },
+  {
+    "name": "Stanislavka",
+    "country": "UA",
+    "lat": 47.72783,
+    "lng": 29.25332
+  },
+  {
+    "name": "Stanislav",
+    "country": "UA",
+    "lat": 46.57309,
+    "lng": 32.15001
+  },
+  {
+    "name": "Stanytsia Luhanska",
+    "country": "UA",
+    "lat": 48.66247,
+    "lng": 39.48358
+  },
+  {
+    "name": "Stanivtsi",
+    "country": "UA",
+    "lat": 48.08333,
+    "lng": 26.06667
+  },
+  {
+    "name": "Stal’noye",
+    "country": "UA",
+    "lat": 45.70814,
+    "lng": 34.56238
+  },
+  {
+    "name": "Stalnivtsi",
+    "country": "UA",
+    "lat": 48.30389,
+    "lng": 26.55281
+  },
+  {
+    "name": "Stakhanovka",
+    "country": "UA",
+    "lat": 45.37062,
+    "lng": 33.94883
+  },
+  {
+    "name": "Stantsiyne",
+    "country": "UA",
+    "lat": 47.68615,
+    "lng": 32.57261
+  },
+  {
+    "name": "Sterche",
+    "country": "UA",
+    "lat": 48.0321,
+    "lng": 26.03533
+  },
+  {
+    "name": "Stepove",
+    "country": "UA",
+    "lat": 46.70385,
+    "lng": 30.07919
+  },
+  {
+    "name": "Staryi Liubar",
+    "country": "UA",
+    "lat": 49.92585,
+    "lng": 27.73748
+  },
+  {
+    "name": "Stockton",
+    "country": "US",
+    "lat": 39.43807,
+    "lng": -99.2651
+  },
+  {
+    "name": "Steele",
+    "country": "US",
+    "lat": 33.93982,
+    "lng": -86.20164
+  },
+  {
+    "name": "Stevenson",
+    "country": "US",
+    "lat": 34.86869,
+    "lng": -85.83942
+  },
+  {
+    "name": "Stewartville",
+    "country": "US",
+    "lat": 33.07929,
+    "lng": -86.24442
+  },
+  {
+    "name": "Stamps",
+    "country": "US",
+    "lat": 33.3654,
+    "lng": -93.49518
+  },
+  {
+    "name": "Star City",
+    "country": "US",
+    "lat": 33.94288,
+    "lng": -91.84347
+  },
+  {
+    "name": "Stuttgart",
+    "country": "US",
+    "lat": 34.50037,
+    "lng": -91.55263
+  },
+  {
+    "name": "St. Petersburg",
+    "country": "US",
+    "lat": 27.77086,
+    "lng": -82.67927
+  },
+  {
+    "name": "Starke",
+    "country": "US",
+    "lat": 29.94413,
+    "lng": -82.10983
+  },
+  {
+    "name": "Steinhatchee",
+    "country": "US",
+    "lat": 29.67106,
+    "lng": -83.38764
+  },
+  {
+    "name": "Stock Island",
+    "country": "US",
+    "lat": 24.56709,
+    "lng": -81.73842
+  },
+  {
+    "name": "Stuart",
+    "country": "US",
+    "lat": 27.19755,
+    "lng": -80.25283
+  },
+  {
+    "name": "St. Marys",
+    "country": "US",
+    "lat": 30.73051,
+    "lng": -81.54649
+  },
+  {
+    "name": "Statenville",
+    "country": "US",
+    "lat": 30.70327,
+    "lng": -83.02764
+  },
+  {
+    "name": "Statesboro",
+    "country": "US",
+    "lat": 32.44879,
+    "lng": -81.78317
+  },
+  {
+    "name": "Statham",
+    "country": "US",
+    "lat": 33.96511,
+    "lng": -83.59655
+  },
+  {
+    "name": "Stockbridge",
+    "country": "US",
+    "lat": 33.54428,
+    "lng": -84.23381
+  },
+  {
+    "name": "Stone Mountain",
+    "country": "US",
+    "lat": 33.80816,
+    "lng": -84.1702
+  },
+  {
+    "name": "Staunton",
+    "country": "US",
+    "lat": 39.01227,
+    "lng": -89.79121
+  },
+  {
+    "name": "Steeleville",
+    "country": "US",
+    "lat": 38.00727,
+    "lng": -89.65843
+  },
+  {
+    "name": "Sterling",
+    "country": "US",
+    "lat": 38.21001,
+    "lng": -98.20701
+  },
+  {
+    "name": "Stanford",
+    "country": "US",
+    "lat": 37.53119,
+    "lng": -84.66189
+  },
+  {
+    "name": "Stanton",
+    "country": "US",
+    "lat": 37.84564,
+    "lng": -83.85825
+  },
+  {
+    "name": "Stearns",
+    "country": "US",
+    "lat": 36.69897,
+    "lng": -84.47744
+  },
+  {
+    "name": "Sturgis",
+    "country": "US",
+    "lat": 37.54671,
+    "lng": -87.98391
+  },
+  {
+    "name": "Sterlington",
+    "country": "US",
+    "lat": 32.69625,
+    "lng": -92.08597
+  },
+  {
+    "name": "Stonewall",
+    "country": "US",
+    "lat": 32.28183,
+    "lng": -93.82407
+  },
+  {
+    "name": "Stevensville",
+    "country": "US",
+    "lat": 38.98067,
+    "lng": -76.3144
+  },
+  {
+    "name": "St. Louis",
+    "country": "US",
+    "lat": 38.62727,
+    "lng": -90.19789
+  },
+  {
+    "name": "Steele",
+    "country": "US",
+    "lat": 36.08396,
+    "lng": -89.82925
+  },
+  {
+    "name": "Steelville",
+    "country": "US",
+    "lat": 37.9681,
+    "lng": -91.35487
+  },
+  {
+    "name": "Stockton",
+    "country": "US",
+    "lat": 37.69893,
+    "lng": -93.79604
+  },
+  {
+    "name": "Stover",
+    "country": "US",
+    "lat": 38.44086,
+    "lng": -92.99187
+  },
+  {
+    "name": "Strafford",
+    "country": "US",
+    "lat": 37.26838,
+    "lng": -93.11713
+  },
+  {
+    "name": "Starkville",
+    "country": "US",
+    "lat": 33.45049,
+    "lng": -88.81961
+  },
+  {
+    "name": "Stonewall",
+    "country": "US",
+    "lat": 32.13181,
+    "lng": -88.79338
+  },
+  {
+    "name": "Stallings",
+    "country": "US",
+    "lat": 35.0907,
+    "lng": -80.68618
+  },
+  {
+    "name": "Stanfield",
+    "country": "US",
+    "lat": 35.23348,
+    "lng": -80.42701
+  },
+  {
+    "name": "Stanley",
+    "country": "US",
+    "lat": 35.35903,
+    "lng": -81.09702
+  },
+  {
+    "name": "Statesville",
+    "country": "US",
+    "lat": 35.78264,
+    "lng": -80.8873
+  },
+  {
+    "name": "Stedman",
+    "country": "US",
+    "lat": 35.0135,
+    "lng": -78.69391
+  },
+  {
+    "name": "Stokesdale",
+    "country": "US",
+    "lat": 36.23708,
+    "lng": -79.97948
+  },
+  {
+    "name": "Stoneville",
+    "country": "US",
+    "lat": 36.46653,
+    "lng": -79.90698
+  },
+  {
+    "name": "Stony Point",
+    "country": "US",
+    "lat": 35.86347,
+    "lng": -81.0473
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 39.82678,
+    "lng": -75.01545
+  },
+  {
+    "name": "Stigler",
+    "country": "US",
+    "lat": 35.25371,
+    "lng": -95.12302
+  },
+  {
+    "name": "Stillwater",
+    "country": "US",
+    "lat": 36.11561,
+    "lng": -97.05837
+  },
+  {
+    "name": "Stilwell",
+    "country": "US",
+    "lat": 35.81453,
+    "lng": -94.62856
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 34.79675,
+    "lng": -96.95946
+  },
+  {
+    "name": "Stroud",
+    "country": "US",
+    "lat": 35.74868,
+    "lng": -96.65807
+  },
+  {
+    "name": "State Line",
+    "country": "US",
+    "lat": 39.72482,
+    "lng": -77.72444
+  },
+  {
+    "name": "Stewartstown",
+    "country": "US",
+    "lat": 39.75371,
+    "lng": -76.59136
+  },
+  {
+    "name": "Stonybrook",
+    "country": "US",
+    "lat": 39.98704,
+    "lng": -76.64413
+  },
+  {
+    "name": "Strasburg",
+    "country": "US",
+    "lat": 39.98316,
+    "lng": -76.18412
+  },
+  {
+    "name": "Strawberry Mansion",
+    "country": "US",
+    "lat": 39.98345,
+    "lng": -75.18268
+  },
+  {
+    "name": "Stateburg",
+    "country": "US",
+    "lat": 33.95765,
+    "lng": -80.53481
+  },
+  {
+    "name": "Stafford",
+    "country": "US",
+    "lat": 29.61607,
+    "lng": -95.55772
+  },
+  {
+    "name": "Stamford",
+    "country": "US",
+    "lat": 32.94539,
+    "lng": -99.80287
+  },
+  {
+    "name": "Stephenville",
+    "country": "US",
+    "lat": 32.2207,
+    "lng": -98.20226
+  },
+  {
+    "name": "Stockdale",
+    "country": "US",
+    "lat": 29.23691,
+    "lng": -97.96
+  },
+  {
+    "name": "Stowell",
+    "country": "US",
+    "lat": 29.78994,
+    "lng": -94.38324
+  },
+  {
+    "name": "Stafford",
+    "country": "US",
+    "lat": 38.42207,
+    "lng": -77.40832
+  },
+  {
+    "name": "Stanardsville",
+    "country": "US",
+    "lat": 38.29735,
+    "lng": -78.44001
+  },
+  {
+    "name": "Stanley",
+    "country": "US",
+    "lat": 38.5754,
+    "lng": -78.50251
+  },
+  {
+    "name": "Stanleytown",
+    "country": "US",
+    "lat": 36.7443,
+    "lng": -79.96282
+  },
+  {
+    "name": "Staunton",
+    "country": "US",
+    "lat": 38.14991,
+    "lng": -79.0732
+  },
+  {
+    "name": "Stephens City",
+    "country": "US",
+    "lat": 39.08344,
+    "lng": -78.21806
+  },
+  {
+    "name": "Sterling",
+    "country": "US",
+    "lat": 39.00622,
+    "lng": -77.4286
+  },
+  {
+    "name": "Strasburg",
+    "country": "US",
+    "lat": 38.98872,
+    "lng": -78.35862
+  },
+  {
+    "name": "Stuart",
+    "country": "US",
+    "lat": 36.64097,
+    "lng": -80.26561
+  },
+  {
+    "name": "Stuarts Draft",
+    "country": "US",
+    "lat": 38.03014,
+    "lng": -79.03364
+  },
+  {
+    "name": "Stanaford",
+    "country": "US",
+    "lat": 37.81595,
+    "lng": -81.15232
+  },
+  {
+    "name": "Star City",
+    "country": "US",
+    "lat": 39.65841,
+    "lng": -79.98645
+  },
+  {
+    "name": "Stonewood",
+    "country": "US",
+    "lat": 39.25092,
+    "lng": -80.31231
+  },
+  {
+    "name": "Stafford",
+    "country": "US",
+    "lat": 41.98482,
+    "lng": -72.28897
+  },
+  {
+    "name": "Stafford Springs",
+    "country": "US",
+    "lat": 41.95426,
+    "lng": -72.3023
+  },
+  {
+    "name": "Stamford",
+    "country": "US",
+    "lat": 41.05343,
+    "lng": -73.53873
+  },
+  {
+    "name": "Storrs",
+    "country": "US",
+    "lat": 41.80843,
+    "lng": -72.24952
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 41.18454,
+    "lng": -73.13317
+  },
+  {
+    "name": "State Center",
+    "country": "US",
+    "lat": 42.01665,
+    "lng": -93.16354
+  },
+  {
+    "name": "Storm Lake",
+    "country": "US",
+    "lat": 42.64109,
+    "lng": -95.20972
+  },
+  {
+    "name": "Story City",
+    "country": "US",
+    "lat": 42.18721,
+    "lng": -93.59577
+  },
+  {
+    "name": "Strawberry Point",
+    "country": "US",
+    "lat": 42.6836,
+    "lng": -91.53403
+  },
+  {
+    "name": "Stuart",
+    "country": "US",
+    "lat": 41.50332,
+    "lng": -94.31857
+  },
+  {
+    "name": "St. Charles",
+    "country": "US",
+    "lat": 41.91419,
+    "lng": -88.30869
+  },
+  {
+    "name": "Steger",
+    "country": "US",
+    "lat": 41.47003,
+    "lng": -87.63643
+  },
+  {
+    "name": "Sterling",
+    "country": "US",
+    "lat": 41.78864,
+    "lng": -89.69622
+  },
+  {
+    "name": "Stickney",
+    "country": "US",
+    "lat": 41.82142,
+    "lng": -87.78283
+  },
+  {
+    "name": "Stillman Valley",
+    "country": "US",
+    "lat": 42.10725,
+    "lng": -89.17927
+  },
+  {
+    "name": "Stockton",
+    "country": "US",
+    "lat": 42.34974,
+    "lng": -90.00679
+  },
+  {
+    "name": "Stone Park",
+    "country": "US",
+    "lat": 41.90559,
+    "lng": -87.88367
+  },
+  {
+    "name": "Streamwood",
+    "country": "US",
+    "lat": 42.02558,
+    "lng": -88.17841
+  },
+  {
+    "name": "Streator",
+    "country": "US",
+    "lat": 41.12087,
+    "lng": -88.83535
+  },
+  {
+    "name": "Sterling",
+    "country": "US",
+    "lat": 42.43759,
+    "lng": -71.76063
+  },
+  {
+    "name": "Stockbridge",
+    "country": "US",
+    "lat": 42.28759,
+    "lng": -73.32039
+  },
+  {
+    "name": "Stoneham",
+    "country": "US",
+    "lat": 42.4801,
+    "lng": -71.0995
+  },
+  {
+    "name": "Stoughton",
+    "country": "US",
+    "lat": 42.1251,
+    "lng": -71.10227
+  },
+  {
+    "name": "Stow",
+    "country": "US",
+    "lat": 42.43704,
+    "lng": -71.50562
+  },
+  {
+    "name": "Sturbridge",
+    "country": "US",
+    "lat": 42.10843,
+    "lng": -72.07869
+  },
+  {
+    "name": "Steep Falls",
+    "country": "US",
+    "lat": 43.79397,
+    "lng": -70.65256
+  },
+  {
+    "name": "Stetson",
+    "country": "US",
+    "lat": 44.89173,
+    "lng": -69.14282
+  },
+  {
+    "name": "Steuben",
+    "country": "US",
+    "lat": 44.51098,
+    "lng": -67.96662
+  },
+  {
+    "name": "Stockton Springs",
+    "country": "US",
+    "lat": 44.48952,
+    "lng": -68.85698
+  },
+  {
+    "name": "Stonington",
+    "country": "US",
+    "lat": 44.15619,
+    "lng": -68.66669
+  },
+  {
+    "name": "Strong",
+    "country": "US",
+    "lat": 44.80756,
+    "lng": -70.2209
+  },
+  {
+    "name": "Stambaugh, Iron River",
+    "country": "US",
+    "lat": 46.08107,
+    "lng": -88.62708
+  },
+  {
+    "name": "Standish",
+    "country": "US",
+    "lat": 43.98308,
+    "lng": -83.95888
+  },
+  {
+    "name": "Stanton",
+    "country": "US",
+    "lat": 43.29253,
+    "lng": -85.08141
+  },
+  {
+    "name": "Sterling Heights",
+    "country": "US",
+    "lat": 42.58031,
+    "lng": -83.0302
+  },
+  {
+    "name": "Stevensville",
+    "country": "US",
+    "lat": 42.01449,
+    "lng": -86.51947
+  },
+  {
+    "name": "Stockbridge",
+    "country": "US",
+    "lat": 42.45115,
+    "lng": -84.18051
+  },
+  {
+    "name": "Stony Point",
+    "country": "US",
+    "lat": 42.49698,
+    "lng": -85.42668
+  },
+  {
+    "name": "Stony Point",
+    "country": "US",
+    "lat": 41.94143,
+    "lng": -83.26493
+  },
+  {
+    "name": "Sturgis",
+    "country": "US",
+    "lat": 41.79922,
+    "lng": -85.41915
+  },
+  {
+    "name": "Stacy",
+    "country": "US",
+    "lat": 45.39802,
+    "lng": -92.98744
+  },
+  {
+    "name": "Staples",
+    "country": "US",
+    "lat": 46.35552,
+    "lng": -94.79224
+  },
+  {
+    "name": "Starbuck",
+    "country": "US",
+    "lat": 45.6144,
+    "lng": -95.53115
+  },
+  {
+    "name": "Stewartville",
+    "country": "US",
+    "lat": 43.85552,
+    "lng": -92.48851
+  },
+  {
+    "name": "Stillwater",
+    "country": "US",
+    "lat": 45.05636,
+    "lng": -92.80604
+  },
+  {
+    "name": "Stanberry",
+    "country": "US",
+    "lat": 40.21777,
+    "lng": -94.53829
+  },
+  {
+    "name": "Steele",
+    "country": "US",
+    "lat": 46.85471,
+    "lng": -99.91594
+  },
+  {
+    "name": "Stanton",
+    "country": "US",
+    "lat": 41.95028,
+    "lng": -97.22393
+  },
+  {
+    "name": "Stromsburg",
+    "country": "US",
+    "lat": 41.11418,
+    "lng": -97.59894
+  },
+  {
+    "name": "Strafford",
+    "country": "US",
+    "lat": 43.32703,
+    "lng": -71.18423
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 44.65505,
+    "lng": -71.55564
+  },
+  {
+    "name": "Stratham Station",
+    "country": "US",
+    "lat": 43.05287,
+    "lng": -70.89533
+  },
+  {
+    "name": "Stanhope",
+    "country": "US",
+    "lat": 40.90288,
+    "lng": -74.70905
+  },
+  {
+    "name": "Strathmore",
+    "country": "US",
+    "lat": 40.39594,
+    "lng": -74.21348
+  },
+  {
+    "name": "Stamford",
+    "country": "US",
+    "lat": 42.4073,
+    "lng": -74.61432
+  },
+  {
+    "name": "Stapleton",
+    "country": "US",
+    "lat": 40.62649,
+    "lng": -74.07764
+  },
+  {
+    "name": "Staten Island",
+    "country": "US",
+    "lat": 40.56233,
+    "lng": -74.13986
+  },
+  {
+    "name": "Steinway",
+    "country": "US",
+    "lat": 40.77455,
+    "lng": -73.90375
+  },
+  {
+    "name": "Stewart Manor",
+    "country": "US",
+    "lat": 40.71927,
+    "lng": -73.68846
+  },
+  {
+    "name": "Stillwater",
+    "country": "US",
+    "lat": 42.93841,
+    "lng": -73.65317
+  },
+  {
+    "name": "Stone Ridge",
+    "country": "US",
+    "lat": 41.85315,
+    "lng": -74.13903
+  },
+  {
+    "name": "Stony Brook",
+    "country": "US",
+    "lat": 40.92565,
+    "lng": -73.14094
+  },
+  {
+    "name": "Stony Point",
+    "country": "US",
+    "lat": 41.22954,
+    "lng": -73.98708
+  },
+  {
+    "name": "Stottville",
+    "country": "US",
+    "lat": 42.2862,
+    "lng": -73.73873
+  },
+  {
+    "name": "Steubenville",
+    "country": "US",
+    "lat": 40.36979,
+    "lng": -80.63396
+  },
+  {
+    "name": "Stony Prairie",
+    "country": "US",
+    "lat": 41.345,
+    "lng": -83.141
+  },
+  {
+    "name": "Stow",
+    "country": "US",
+    "lat": 41.1595,
+    "lng": -81.44039
+  },
+  {
+    "name": "Strasburg",
+    "country": "US",
+    "lat": 40.59478,
+    "lng": -81.52679
+  },
+  {
+    "name": "Streetsboro",
+    "country": "US",
+    "lat": 41.23922,
+    "lng": -81.34594
+  },
+  {
+    "name": "Strongsville",
+    "country": "US",
+    "lat": 41.3145,
+    "lng": -81.83569
+  },
+  {
+    "name": "Struthers",
+    "country": "US",
+    "lat": 41.05256,
+    "lng": -80.60785
+  },
+  {
+    "name": "Stryker",
+    "country": "US",
+    "lat": 41.50366,
+    "lng": -84.41412
+  },
+  {
+    "name": "State College",
+    "country": "US",
+    "lat": 40.79339,
+    "lng": -77.86
+  },
+  {
+    "name": "Steelton",
+    "country": "US",
+    "lat": 40.23537,
+    "lng": -76.84136
+  },
+  {
+    "name": "Stiles",
+    "country": "US",
+    "lat": 40.66537,
+    "lng": -75.50824
+  },
+  {
+    "name": "Stoneboro",
+    "country": "US",
+    "lat": 41.33922,
+    "lng": -80.10506
+  },
+  {
+    "name": "Stony Creek Mills",
+    "country": "US",
+    "lat": 40.34565,
+    "lng": -75.86993
+  },
+  {
+    "name": "Stormstown",
+    "country": "US",
+    "lat": 40.79339,
+    "lng": -78.01667
+  },
+  {
+    "name": "Stowe",
+    "country": "US",
+    "lat": 40.2526,
+    "lng": -75.67741
+  },
+  {
+    "name": "Stroudsburg",
+    "country": "US",
+    "lat": 40.98676,
+    "lng": -75.19462
+  },
+  {
+    "name": "Sturgeon",
+    "country": "US",
+    "lat": 40.38479,
+    "lng": -80.21089
+  },
+  {
+    "name": "Starksboro",
+    "country": "US",
+    "lat": 44.22728,
+    "lng": -73.05734
+  },
+  {
+    "name": "Stowe",
+    "country": "US",
+    "lat": 44.46533,
+    "lng": -72.68456
+  },
+  {
+    "name": "Stanley",
+    "country": "US",
+    "lat": 44.95997,
+    "lng": -90.93708
+  },
+  {
+    "name": "Stevens Point",
+    "country": "US",
+    "lat": 44.52358,
+    "lng": -89.57456
+  },
+  {
+    "name": "Stoughton",
+    "country": "US",
+    "lat": 42.91695,
+    "lng": -89.21789
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 44.80108,
+    "lng": -90.0793
+  },
+  {
+    "name": "Strum",
+    "country": "US",
+    "lat": 44.54969,
+    "lng": -91.39266
+  },
+  {
+    "name": "Sturgeon Bay",
+    "country": "US",
+    "lat": 44.83416,
+    "lng": -87.37704
+  },
+  {
+    "name": "Sturtevant",
+    "country": "US",
+    "lat": 42.69807,
+    "lng": -87.89452
+  },
+  {
+    "name": "Star Valley",
+    "country": "US",
+    "lat": 34.25504,
+    "lng": -111.25847
+  },
+  {
+    "name": "Stallion Springs",
+    "country": "US",
+    "lat": 35.08886,
+    "lng": -118.64259
+  },
+  {
+    "name": "Stanford",
+    "country": "US",
+    "lat": 37.42411,
+    "lng": -122.16608
+  },
+  {
+    "name": "Stanton",
+    "country": "US",
+    "lat": 33.80252,
+    "lng": -117.99312
+  },
+  {
+    "name": "Stockton",
+    "country": "US",
+    "lat": 37.9577,
+    "lng": -121.29078
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 36.1894,
+    "lng": -119.82319
+  },
+  {
+    "name": "Strathmore",
+    "country": "US",
+    "lat": 36.14551,
+    "lng": -119.06066
+  },
+  {
+    "name": "Strawberry",
+    "country": "US",
+    "lat": 37.89687,
+    "lng": -122.50886
+  },
+  {
+    "name": "Studio City",
+    "country": "US",
+    "lat": 34.14862,
+    "lng": -118.39647
+  },
+  {
+    "name": "Stonegate",
+    "country": "US",
+    "lat": 39.53082,
+    "lng": -104.80386
+  },
+  {
+    "name": "Strasburg",
+    "country": "US",
+    "lat": 39.73832,
+    "lng": -104.32329
+  },
+  {
+    "name": "Stratmoor",
+    "country": "US",
+    "lat": 38.77388,
+    "lng": -104.7797
+  },
+  {
+    "name": "Stagecoach",
+    "country": "US",
+    "lat": 39.3738,
+    "lng": -119.37406
+  },
+  {
+    "name": "Stanton",
+    "country": "US",
+    "lat": 32.12929,
+    "lng": -101.78846
+  },
+  {
+    "name": "Sterling City",
+    "country": "US",
+    "lat": 31.83625,
+    "lng": -100.98483
+  },
+  {
+    "name": "Stinnett",
+    "country": "US",
+    "lat": 35.82698,
+    "lng": -101.44294
+  },
+  {
+    "name": "Stratford",
+    "country": "US",
+    "lat": 36.33614,
+    "lng": -102.07212
+  },
+  {
+    "name": "Steamboat Springs",
+    "country": "US",
+    "lat": 40.48498,
+    "lng": -106.83172
+  },
+  {
+    "name": "Sterling",
+    "country": "US",
+    "lat": 40.62554,
+    "lng": -103.20771
+  },
+  {
+    "name": "Star",
+    "country": "US",
+    "lat": 43.69211,
+    "lng": -116.49346
+  },
+  {
+    "name": "Stanford",
+    "country": "US",
+    "lat": 47.15358,
+    "lng": -110.21826
+  },
+  {
+    "name": "Stevensville",
+    "country": "US",
+    "lat": 46.50992,
+    "lng": -114.09316
+  },
+  {
+    "name": "Stanley",
+    "country": "US",
+    "lat": 48.31724,
+    "lng": -102.39045
+  },
+  {
+    "name": "Stanton",
+    "country": "US",
+    "lat": 47.32111,
+    "lng": -101.38155
+  },
+  {
+    "name": "Stapleton",
+    "country": "US",
+    "lat": 41.48028,
+    "lng": -100.51292
+  },
+  {
+    "name": "Stockville",
+    "country": "US",
+    "lat": 40.53279,
+    "lng": -100.38348
+  },
+  {
+    "name": "Stafford",
+    "country": "US",
+    "lat": 45.381,
+    "lng": -122.704
+  },
+  {
+    "name": "Stanfield",
+    "country": "US",
+    "lat": 45.78041,
+    "lng": -119.21724
+  },
+  {
+    "name": "Stayton",
+    "country": "US",
+    "lat": 44.80068,
+    "lng": -122.79453
+  },
+  {
+    "name": "Sturgis",
+    "country": "US",
+    "lat": 44.40971,
+    "lng": -103.50908
+  },
+  {
+    "name": "Stansbury park",
+    "country": "US",
+    "lat": 40.63772,
+    "lng": -112.29606
+  },
+  {
+    "name": "Stanwood",
+    "country": "US",
+    "lat": 48.24121,
+    "lng": -122.37071
+  },
+  {
+    "name": "Steilacoom",
+    "country": "US",
+    "lat": 47.16982,
+    "lng": -122.60263
+  },
+  {
+    "name": "Stevenson",
+    "country": "US",
+    "lat": 45.69567,
+    "lng": -121.88452
+  },
+  {
+    "name": "Sterling",
+    "country": "US",
+    "lat": 60.53722,
+    "lng": -150.76472
+  },
+  {
+    "name": "St Johnsbury",
+    "country": "US",
+    "lat": 44.42526,
+    "lng": -72.01512
+  },
+  {
+    "name": "Stevenson Ranch",
+    "country": "US",
+    "lat": 34.39048,
+    "lng": -118.57372
+  },
+  {
+    "name": "St. Charles",
+    "country": "US",
+    "lat": 38.60728,
+    "lng": -76.92478
+  },
+  {
+    "name": "Star Valley Ranch",
+    "country": "US",
+    "lat": 42.97139,
+    "lng": -110.95556
+  },
+  {
+    "name": "St Marys",
+    "country": "US",
+    "lat": 30.75677,
+    "lng": -81.57173
+  },
+  {
+    "name": "St. Johns",
+    "country": "US",
+    "lat": 30.0815,
+    "lng": -81.54774
+  },
+  {
+    "name": "Stonecrest",
+    "country": "US",
+    "lat": 33.70849,
+    "lng": -84.13485
+  },
+  {
+    "name": "Stonegate",
+    "country": "US",
+    "lat": 33.70534,
+    "lng": -117.74009
+  },
+  {
+    "name": "Strellc i Epërm",
+    "country": "XK",
+    "lat": 42.57843,
+    "lng": 20.29398
+  },
+  {
+    "name": "Strellc i Ulët",
+    "country": "XK",
+    "lat": 42.58063,
+    "lng": 20.31619
+  },
+  {
+    "name": "Stutterheim",
+    "country": "ZA",
+    "lat": -32.57076,
+    "lng": 27.42396
+  },
+  {
+    "name": "Struisbaai",
+    "country": "ZA",
+    "lat": -34.80365,
+    "lng": 20.05474
+  },
+  {
+    "name": "Stormsrivier",
+    "country": "ZA",
+    "lat": -33.97041,
+    "lng": 23.88247
+  },
+  {
+    "name": "Stilfontein",
+    "country": "ZA",
+    "lat": -26.84493,
+    "lng": 26.76829
+  },
+  {
+    "name": "Still Bay",
+    "country": "ZA",
+    "lat": -34.3693,
+    "lng": 21.40748
+  },
+  {
+    "name": "Steytlerville",
+    "country": "ZA",
+    "lat": -33.33274,
+    "lng": 24.34539
+  },
+  {
+    "name": "Steynsrus",
+    "country": "ZA",
+    "lat": -27.95333,
+    "lng": 27.56394
+  },
+  {
+    "name": "Steynsburg",
+    "country": "ZA",
+    "lat": -31.29565,
+    "lng": 25.82338
+  },
+  {
+    "name": "Sterkstroom",
+    "country": "ZA",
+    "lat": -31.55714,
+    "lng": 26.55417
+  },
+  {
+    "name": "Stella",
+    "country": "ZA",
+    "lat": -26.55298,
+    "lng": 24.86683
+  },
+  {
+    "name": "Steelpoort",
+    "country": "ZA",
+    "lat": -24.73118,
+    "lng": 30.20584
+  },
+  {
+    "name": "Standerton",
+    "country": "ZA",
+    "lat": -26.93366,
+    "lng": 29.24152
+  },
+  {
+    "name": "Stellenbosch",
+    "country": "ZA",
+    "lat": -33.93462,
+    "lng": 18.86676
+  },
+  {
+    "name": "Stanford",
+    "country": "ZA",
+    "lat": -34.4394,
+    "lng": 19.45615
+  },
+  {
+    "name": "St Francis Bay",
+    "country": "ZA",
+    "lat": -34.16026,
+    "lng": 24.82618
+  }
+]

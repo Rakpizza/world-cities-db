@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Snug",
+    "country": "AU",
+    "lat": -43.06669,
+    "lng": 147.25468
+  },
+  {
+    "name": "Snellegem",
+    "country": "BE",
+    "lat": 51.16776,
+    "lng": 3.11921
+  },
+  {
+    "name": "Snaaskerke",
+    "country": "BE",
+    "lat": 51.17737,
+    "lng": 2.93901
+  },
+  {
+    "name": "Snow",
+    "country": "BY",
+    "lat": 53.2201,
+    "lng": 26.401
+  },
+  {
+    "name": "Snow Lake",
+    "country": "CA",
+    "lat": 54.87903,
+    "lng": -100.0374
+  },
+  {
+    "name": "Snowdon",
+    "country": "CA",
+    "lat": 45.4859,
+    "lng": -73.63103
+  },
+  {
+    "name": "Snoghøj",
+    "country": "DK",
+    "lat": 55.52253,
+    "lng": 9.72125
+  },
+  {
+    "name": "Snejbjerg",
+    "country": "DK",
+    "lat": 56.13291,
+    "lng": 8.90353
+  },
+  {
+    "name": "Snodland",
+    "country": "GB",
+    "lat": 51.32971,
+    "lng": 0.44305
+  },
+  {
+    "name": "Snettisham",
+    "country": "GB",
+    "lat": 52.87882,
+    "lng": 0.50099
+  },
+  {
+    "name": "Snaresbrook",
+    "country": "GB",
+    "lat": 51.58432,
+    "lng": 0.01923
+  },
+  {
+    "name": "Snaith",
+    "country": "GB",
+    "lat": 53.69112,
+    "lng": -1.02859
+  },
+  {
+    "name": "Snuol",
+    "country": "KH",
+    "lat": 12.07244,
+    "lng": 106.42078
+  },
+  {
+    "name": "Sneek",
+    "country": "NL",
+    "lat": 53.03297,
+    "lng": 5.6589
+  },
+  {
+    "name": "Snåase",
+    "country": "NO",
+    "lat": 64.2457,
+    "lng": 12.37779
+  },
+  {
+    "name": "Snells Beach",
+    "country": "NZ",
+    "lat": -36.40819,
+    "lng": 174.72019
+  },
+  {
+    "name": "Snagov",
+    "country": "RO",
+    "lat": 44.7,
+    "lng": 26.18333
+  },
+  {
+    "name": "Snegiri",
+    "country": "RU",
+    "lat": 55.88867,
+    "lng": 37.02421
+  },
+  {
+    "name": "Snezhnogorsk",
+    "country": "RU",
+    "lat": 69.19333,
+    "lng": 33.25314
+  },
+  {
+    "name": "Snezhnogorsk",
+    "country": "RU",
+    "lat": 68.091,
+    "lng": 87.795
+  },
+  {
+    "name": "Snezhinsk",
+    "country": "RU",
+    "lat": 56.07834,
+    "lng": 60.74785
+  },
+  {
+    "name": "Snina",
+    "country": "SK",
+    "lat": 48.98857,
+    "lng": 22.15099
+  },
+  {
+    "name": "Sniatyn",
+    "country": "UA",
+    "lat": 48.44883,
+    "lng": 25.55994
+  },
+  {
+    "name": "Snyachiv",
+    "country": "UA",
+    "lat": 48.19071,
+    "lng": 25.84471
+  },
+  {
+    "name": "Snihurivka",
+    "country": "UA",
+    "lat": 47.07651,
+    "lng": 32.8197
+  },
+  {
+    "name": "Snizhne",
+    "country": "UA",
+    "lat": 48.02612,
+    "lng": 38.77225
+  },
+  {
+    "name": "Snovsk",
+    "country": "UA",
+    "lat": 51.81943,
+    "lng": 31.94412
+  },
+  {
+    "name": "Sneads",
+    "country": "US",
+    "lat": 30.70801,
+    "lng": -84.92552
+  },
+  {
+    "name": "Snellville",
+    "country": "US",
+    "lat": 33.85733,
+    "lng": -84.01991
+  },
+  {
+    "name": "Snow Hill",
+    "country": "US",
+    "lat": 38.17706,
+    "lng": -75.3927
+  },
+  {
+    "name": "Sneads Ferry",
+    "country": "US",
+    "lat": 34.55267,
+    "lng": -77.39718
+  },
+  {
+    "name": "Snow Hill",
+    "country": "US",
+    "lat": 35.45155,
+    "lng": -77.68109
+  },
+  {
+    "name": "Snyder",
+    "country": "US",
+    "lat": 34.65896,
+    "lng": -98.95174
+  },
+  {
+    "name": "Sneedville",
+    "country": "US",
+    "lat": 36.52981,
+    "lng": -83.2174
+  },
+  {
+    "name": "Snowflake",
+    "country": "US",
+    "lat": 34.51337,
+    "lng": -110.07845
+  },
+  {
+    "name": "Snowmass Village",
+    "country": "US",
+    "lat": 39.21304,
+    "lng": -106.93782
+  },
+  {
+    "name": "Snyder",
+    "country": "US",
+    "lat": 32.71789,
+    "lng": -100.91762
+  },
+  {
+    "name": "Snyderville",
+    "country": "US",
+    "lat": 40.69439,
+    "lng": -111.54381
+  },
+  {
+    "name": "Snohomish",
+    "country": "US",
+    "lat": 47.91288,
+    "lng": -122.09818
+  },
+  {
+    "name": "Snoqualmie",
+    "country": "US",
+    "lat": 47.52871,
+    "lng": -121.82539
+  }
+]

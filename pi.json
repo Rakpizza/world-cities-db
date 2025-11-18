@@ -1,0 +1,7208 @@
+[
+  {
+    "name": "Piggotts",
+    "country": "AG",
+    "lat": 17.11667,
+    "lng": -61.8
+  },
+  {
+    "name": "Pishaj",
+    "country": "AL",
+    "lat": 40.88111,
+    "lng": 20.18278
+  },
+  {
+    "name": "Pirg",
+    "country": "AL",
+    "lat": 40.785,
+    "lng": 20.70611
+  },
+  {
+    "name": "Picar",
+    "country": "AL",
+    "lat": 40.16667,
+    "lng": 20.04833
+  },
+  {
+    "name": "Piskovë",
+    "country": "AL",
+    "lat": 40.27917,
+    "lng": 20.2725
+  },
+  {
+    "name": "Pirané",
+    "country": "AR",
+    "lat": -25.73271,
+    "lng": -59.10989
+  },
+  {
+    "name": "Pinamar",
+    "country": "AR",
+    "lat": -37.11108,
+    "lng": -56.86523
+  },
+  {
+    "name": "Pilar",
+    "country": "AR",
+    "lat": -34.45867,
+    "lng": -58.91398
+  },
+  {
+    "name": "Pila",
+    "country": "AR",
+    "lat": -36.00418,
+    "lng": -58.14107
+  },
+  {
+    "name": "Piedras Blancas",
+    "country": "AR",
+    "lat": -31.18592,
+    "lng": -59.95181
+  },
+  {
+    "name": "Piquillín",
+    "country": "AR",
+    "lat": -31.30077,
+    "lng": -63.75849
+  },
+  {
+    "name": "Pilcaniyeu",
+    "country": "AR",
+    "lat": -41.12288,
+    "lng": -70.72152
+  },
+  {
+    "name": "Pilar",
+    "country": "AR",
+    "lat": -31.68129,
+    "lng": -63.8824
+  },
+  {
+    "name": "Pigüé",
+    "country": "AR",
+    "lat": -37.60255,
+    "lng": -62.40836
+  },
+  {
+    "name": "Piedra del Águila",
+    "country": "AR",
+    "lat": -40.04848,
+    "lng": -70.07502
+  },
+  {
+    "name": "Picún Leufú",
+    "country": "AR",
+    "lat": -39.51614,
+    "lng": -69.28765
+  },
+  {
+    "name": "Pico Truncado",
+    "country": "AR",
+    "lat": -46.79942,
+    "lng": -67.95785
+  },
+  {
+    "name": "Pitzenberg",
+    "country": "AT",
+    "lat": 48.07361,
+    "lng": 13.72484
+  },
+  {
+    "name": "Pitten",
+    "country": "AT",
+    "lat": 47.71667,
+    "lng": 16.18333
+  },
+  {
+    "name": "Pitschgau",
+    "country": "AT",
+    "lat": 46.7,
+    "lng": 15.26667
+  },
+  {
+    "name": "Pistorf",
+    "country": "AT",
+    "lat": 46.76667,
+    "lng": 15.36667
+  },
+  {
+    "name": "Pischelsdorf in der Steiermark",
+    "country": "AT",
+    "lat": 47.17417,
+    "lng": 15.80572
+  },
+  {
+    "name": "Pirka",
+    "country": "AT",
+    "lat": 47.0,
+    "lng": 15.38333
+  },
+  {
+    "name": "Piringsdorf",
+    "country": "AT",
+    "lat": 47.44826,
+    "lng": 16.41516
+  },
+  {
+    "name": "Pirching am Traubenberg",
+    "country": "AT",
+    "lat": 46.95,
+    "lng": 15.6
+  },
+  {
+    "name": "Pinsdorf",
+    "country": "AT",
+    "lat": 47.9298,
+    "lng": 13.77068
+  },
+  {
+    "name": "Pinkafeld",
+    "country": "AT",
+    "lat": 47.3709,
+    "lng": 16.1241
+  },
+  {
+    "name": "Pinggau",
+    "country": "AT",
+    "lat": 47.44232,
+    "lng": 16.06713
+  },
+  {
+    "name": "Pillichsdorf",
+    "country": "AT",
+    "lat": 48.35,
+    "lng": 16.53333
+  },
+  {
+    "name": "Pill",
+    "country": "AT",
+    "lat": 47.32352,
+    "lng": 11.68018
+  },
+  {
+    "name": "Pilgersdorf",
+    "country": "AT",
+    "lat": 47.44106,
+    "lng": 16.3492
+  },
+  {
+    "name": "Piesendorf",
+    "country": "AT",
+    "lat": 47.29077,
+    "lng": 12.71839
+  },
+  {
+    "name": "Pierbach",
+    "country": "AT",
+    "lat": 48.34815,
+    "lng": 14.75575
+  },
+  {
+    "name": "Pichling bei Köflach",
+    "country": "AT",
+    "lat": 47.04785,
+    "lng": 15.07098
+  },
+  {
+    "name": "Pichl bei Wels",
+    "country": "AT",
+    "lat": 48.18515,
+    "lng": 13.89882
+  },
+  {
+    "name": "Pichl",
+    "country": "AT",
+    "lat": 47.28333,
+    "lng": 12.85
+  },
+  {
+    "name": "Piberegg",
+    "country": "AT",
+    "lat": 47.09424,
+    "lng": 15.11658
+  },
+  {
+    "name": "Pians",
+    "country": "AT",
+    "lat": 47.13486,
+    "lng": 10.51237
+  },
+  {
+    "name": "Pinjarra",
+    "country": "AU",
+    "lat": -32.6298,
+    "lng": 115.87351
+  },
+  {
+    "name": "Pitt Town",
+    "country": "AU",
+    "lat": -33.58718,
+    "lng": 150.85857
+  },
+  {
+    "name": "Pittsworth",
+    "country": "AU",
+    "lat": -27.71638,
+    "lng": 151.63399
+  },
+  {
+    "name": "Pine Mountain",
+    "country": "AU",
+    "lat": -27.55,
+    "lng": 152.7
+  },
+  {
+    "name": "Pimpama",
+    "country": "AU",
+    "lat": -27.81667,
+    "lng": 153.3
+  },
+  {
+    "name": "Picton",
+    "country": "AU",
+    "lat": -34.16995,
+    "lng": 150.61168
+  },
+  {
+    "name": "Pialba",
+    "country": "AU",
+    "lat": -25.287,
+    "lng": 152.84369
+  },
+  {
+    "name": "Piara Waters",
+    "country": "AU",
+    "lat": -32.13344,
+    "lng": 115.91634
+  },
+  {
+    "name": "Pimlico",
+    "country": "AU",
+    "lat": -19.28172,
+    "lng": 146.78803
+  },
+  {
+    "name": "Piccadilly",
+    "country": "AU",
+    "lat": -30.7428,
+    "lng": 121.46418
+  },
+  {
+    "name": "Pioneer",
+    "country": "AU",
+    "lat": -20.72032,
+    "lng": 139.50812
+  },
+  {
+    "name": "Picnic Point",
+    "country": "AU",
+    "lat": -33.98062,
+    "lng": 150.99661
+  },
+  {
+    "name": "Pie Creek",
+    "country": "AU",
+    "lat": -26.22991,
+    "lng": 152.60774
+  },
+  {
+    "name": "Pirallahı",
+    "country": "AZ",
+    "lat": 40.47013,
+    "lng": 50.32476
+  },
+  {
+    "name": "Piskavica",
+    "country": "BA",
+    "lat": 44.86717,
+    "lng": 16.97464
+  },
+  {
+    "name": "Pirojpur",
+    "country": "BD",
+    "lat": 22.57965,
+    "lng": 89.97521
+  },
+  {
+    "name": "Pittem",
+    "country": "BE",
+    "lat": 50.99279,
+    "lng": 3.26317
+  },
+  {
+    "name": "Pironchamps",
+    "country": "BE",
+    "lat": 50.43181,
+    "lng": 4.52019
+  },
+  {
+    "name": "Pipaix",
+    "country": "BE",
+    "lat": 50.58297,
+    "lng": 3.57956
+  },
+  {
+    "name": "Piétrebais",
+    "country": "BE",
+    "lat": 50.72776,
+    "lng": 4.76455
+  },
+  {
+    "name": "Piétrain",
+    "country": "BE",
+    "lat": 50.72532,
+    "lng": 4.92033
+  },
+  {
+    "name": "Piéton",
+    "country": "BE",
+    "lat": 50.43972,
+    "lng": 4.29752
+  },
+  {
+    "name": "Pitmoaga",
+    "country": "BF",
+    "lat": 12.24564,
+    "lng": -1.88148
+  },
+  {
+    "name": "Pissila",
+    "country": "BF",
+    "lat": 13.16417,
+    "lng": -0.8225
+  },
+  {
+    "name": "Pirdop",
+    "country": "BG",
+    "lat": 42.7,
+    "lng": 24.18333
+  },
+  {
+    "name": "Pitimbu",
+    "country": "BR",
+    "lat": -7.47056,
+    "lng": -34.80861
+  },
+  {
+    "name": "Pirpirituba",
+    "country": "BR",
+    "lat": -6.78,
+    "lng": -35.49861
+  },
+  {
+    "name": "Piripiri",
+    "country": "BR",
+    "lat": -4.27333,
+    "lng": -41.77694
+  },
+  {
+    "name": "Pires Ferreira",
+    "country": "BR",
+    "lat": -4.24667,
+    "lng": -40.64528
+  },
+  {
+    "name": "Pirapemas",
+    "country": "BR",
+    "lat": -3.72667,
+    "lng": -44.22333
+  },
+  {
+    "name": "Piranhas",
+    "country": "BR",
+    "lat": -9.62361,
+    "lng": -37.75667
+  },
+  {
+    "name": "Piracuruca",
+    "country": "BR",
+    "lat": -3.92806,
+    "lng": -41.70917
+  },
+  {
+    "name": "Piquet Carneiro",
+    "country": "BR",
+    "lat": -5.80361,
+    "lng": -39.41778
+  },
+  {
+    "name": "Pio XII",
+    "country": "BR",
+    "lat": -3.8325,
+    "lng": -45.1525
+  },
+  {
+    "name": "Pio IX",
+    "country": "BR",
+    "lat": -6.83535,
+    "lng": -40.61297
+  },
+  {
+    "name": "Pinheiro",
+    "country": "BR",
+    "lat": -2.52139,
+    "lng": -45.0825
+  },
+  {
+    "name": "Pindoretama",
+    "country": "BR",
+    "lat": -4.02694,
+    "lng": -38.305
+  },
+  {
+    "name": "Pindoba",
+    "country": "BR",
+    "lat": -9.47528,
+    "lng": -36.29
+  },
+  {
+    "name": "Pindaré-Mirim",
+    "country": "BR",
+    "lat": -3.60833,
+    "lng": -45.34333
+  },
+  {
+    "name": "Pimenteiras",
+    "country": "BR",
+    "lat": -6.24528,
+    "lng": -41.41917
+  },
+  {
+    "name": "Pilar",
+    "country": "BR",
+    "lat": -9.59722,
+    "lng": -35.95667
+  },
+  {
+    "name": "Pilar",
+    "country": "BR",
+    "lat": -7.26722,
+    "lng": -35.26
+  },
+  {
+    "name": "Picuí",
+    "country": "BR",
+    "lat": -6.51056,
+    "lng": -36.34694
+  },
+  {
+    "name": "Picos",
+    "country": "BR",
+    "lat": -7.07694,
+    "lng": -41.46694
+  },
+  {
+    "name": "Piancó",
+    "country": "BR",
+    "lat": -7.19806,
+    "lng": -37.92917
+  },
+  {
+    "name": "Piraquê",
+    "country": "BR",
+    "lat": -6.77361,
+    "lng": -48.29694
+  },
+  {
+    "name": "Piúma",
+    "country": "BR",
+    "lat": -20.83778,
+    "lng": -40.72194
+  },
+  {
+    "name": "Pium",
+    "country": "BR",
+    "lat": -10.4425,
+    "lng": -49.18222
+  },
+  {
+    "name": "Piumhi",
+    "country": "BR",
+    "lat": -20.46528,
+    "lng": -45.95806
+  },
+  {
+    "name": "Pitangui",
+    "country": "BR",
+    "lat": -19.68278,
+    "lng": -44.89028
+  },
+  {
+    "name": "Pitangueiras",
+    "country": "BR",
+    "lat": -23.23056,
+    "lng": -51.58556
+  },
+  {
+    "name": "Pitangueiras",
+    "country": "BR",
+    "lat": -21.00944,
+    "lng": -48.22167
+  },
+  {
+    "name": "Pitanga",
+    "country": "BR",
+    "lat": -24.75722,
+    "lng": -51.76139
+  },
+  {
+    "name": "Piritiba",
+    "country": "BR",
+    "lat": -11.73028,
+    "lng": -40.55528
+  },
+  {
+    "name": "Piripá",
+    "country": "BR",
+    "lat": -14.94,
+    "lng": -41.72
+  },
+  {
+    "name": "Pires do Rio",
+    "country": "BR",
+    "lat": -17.29972,
+    "lng": -48.27944
+  },
+  {
+    "name": "Pirenópolis",
+    "country": "BR",
+    "lat": -15.85072,
+    "lng": -48.96087
+  },
+  {
+    "name": "Piraúba",
+    "country": "BR",
+    "lat": -21.27639,
+    "lng": -43.02639
+  },
+  {
+    "name": "Piratuba",
+    "country": "BR",
+    "lat": -27.41972,
+    "lng": -51.77194
+  },
+  {
+    "name": "Piratininga",
+    "country": "BR",
+    "lat": -22.41278,
+    "lng": -49.13472
+  },
+  {
+    "name": "Piratini",
+    "country": "BR",
+    "lat": -31.44806,
+    "lng": -53.10417
+  },
+  {
+    "name": "Piraquara",
+    "country": "BR",
+    "lat": -25.44227,
+    "lng": -49.06795
+  },
+  {
+    "name": "Pirapozinho",
+    "country": "BR",
+    "lat": -22.27528,
+    "lng": -51.5
+  },
+  {
+    "name": "Pirapora do Bom Jesus",
+    "country": "BR",
+    "lat": -23.39694,
+    "lng": -47.00222
+  },
+  {
+    "name": "Pirapora",
+    "country": "BR",
+    "lat": -17.345,
+    "lng": -44.94194
+  },
+  {
+    "name": "Pirapó",
+    "country": "BR",
+    "lat": -28.04472,
+    "lng": -55.19889
+  },
+  {
+    "name": "Piranhas",
+    "country": "BR",
+    "lat": -16.42694,
+    "lng": -51.82222
+  },
+  {
+    "name": "Piranguinho",
+    "country": "BR",
+    "lat": -22.40111,
+    "lng": -45.53167
+  },
+  {
+    "name": "Piranguçu",
+    "country": "BR",
+    "lat": -22.52778,
+    "lng": -45.49528
+  },
+  {
+    "name": "Pirangi",
+    "country": "BR",
+    "lat": -21.09139,
+    "lng": -48.65778
+  },
+  {
+    "name": "Piranga",
+    "country": "BR",
+    "lat": -20.68472,
+    "lng": -43.30028
+  },
+  {
+    "name": "Pirambu",
+    "country": "BR",
+    "lat": -10.73778,
+    "lng": -36.85611
+  },
+  {
+    "name": "Pirajuí",
+    "country": "BR",
+    "lat": -21.99861,
+    "lng": -49.45722
+  },
+  {
+    "name": "Pirajuba",
+    "country": "BR",
+    "lat": -19.90694,
+    "lng": -48.70056
+  },
+  {
+    "name": "Piraju",
+    "country": "BR",
+    "lat": -23.19361,
+    "lng": -49.38389
+  },
+  {
+    "name": "Piraí do Sul",
+    "country": "BR",
+    "lat": -24.52611,
+    "lng": -49.94861
+  },
+  {
+    "name": "Piraí do Norte",
+    "country": "BR",
+    "lat": -13.76194,
+    "lng": -39.37889
+  },
+  {
+    "name": "Piraí",
+    "country": "BR",
+    "lat": -22.62917,
+    "lng": -43.89806
+  },
+  {
+    "name": "Pirassununga",
+    "country": "BR",
+    "lat": -21.99611,
+    "lng": -47.42583
+  },
+  {
+    "name": "Piracicaba",
+    "country": "BR",
+    "lat": -22.72528,
+    "lng": -47.64917
+  },
+  {
+    "name": "Piracema",
+    "country": "BR",
+    "lat": -20.50778,
+    "lng": -44.4825
+  },
+  {
+    "name": "Piracanjuba",
+    "country": "BR",
+    "lat": -17.30278,
+    "lng": -49.01667
+  },
+  {
+    "name": "Piracaia",
+    "country": "BR",
+    "lat": -23.05389,
+    "lng": -46.35806
+  },
+  {
+    "name": "Piquete",
+    "country": "BR",
+    "lat": -22.61361,
+    "lng": -45.17611
+  },
+  {
+    "name": "Piquerobi",
+    "country": "BR",
+    "lat": -21.88897,
+    "lng": -51.73139
+  },
+  {
+    "name": "Pinto Bandeira",
+    "country": "BR",
+    "lat": -29.09722,
+    "lng": -51.45056
+  },
+  {
+    "name": "Pintadas",
+    "country": "BR",
+    "lat": -11.8125,
+    "lng": -39.90861
+  },
+  {
+    "name": "Pinheiros",
+    "country": "BR",
+    "lat": -23.56729,
+    "lng": -46.69232
+  },
+  {
+    "name": "Pinheiro",
+    "country": "BR",
+    "lat": -29.79216,
+    "lng": -52.74064
+  },
+  {
+    "name": "Pinheiro Preto",
+    "country": "BR",
+    "lat": -27.05056,
+    "lng": -51.23083
+  },
+  {
+    "name": "Pinheiro Machado",
+    "country": "BR",
+    "lat": -31.57833,
+    "lng": -53.38111
+  },
+  {
+    "name": "Pinheiral",
+    "country": "BR",
+    "lat": -22.51278,
+    "lng": -44.00056
+  },
+  {
+    "name": "Pinhão",
+    "country": "BR",
+    "lat": -25.69556,
+    "lng": -51.65972
+  },
+  {
+    "name": "Pinhão",
+    "country": "BR",
+    "lat": -10.56722,
+    "lng": -37.72278
+  },
+  {
+    "name": "Pinhalzinho",
+    "country": "BR",
+    "lat": -26.84806,
+    "lng": -52.99194
+  },
+  {
+    "name": "Pinhalzinho",
+    "country": "BR",
+    "lat": -22.77944,
+    "lng": -46.59056
+  },
+  {
+    "name": "Pinhal Grande",
+    "country": "BR",
+    "lat": -29.34611,
+    "lng": -53.30667
+  },
+  {
+    "name": "Pinhal da Serra",
+    "country": "BR",
+    "lat": -27.875,
+    "lng": -51.17222
+  },
+  {
+    "name": "Pinhalão",
+    "country": "BR",
+    "lat": -23.7925,
+    "lng": -50.05583
+  },
+  {
+    "name": "Pindorama",
+    "country": "BR",
+    "lat": -21.18583,
+    "lng": -48.90722
+  },
+  {
+    "name": "Pindorama do Tocantins",
+    "country": "BR",
+    "lat": -11.13861,
+    "lng": -47.57861
+  },
+  {
+    "name": "Pindobaçu",
+    "country": "BR",
+    "lat": -10.74167,
+    "lng": -40.36083
+  },
+  {
+    "name": "Pindamonhangaba",
+    "country": "BR",
+    "lat": -22.92389,
+    "lng": -45.46167
+  },
+  {
+    "name": "Pindaí",
+    "country": "BR",
+    "lat": -14.4925,
+    "lng": -42.68722
+  },
+  {
+    "name": "Pimenta",
+    "country": "BR",
+    "lat": -20.48389,
+    "lng": -45.79889
+  },
+  {
+    "name": "Pilar do Sul",
+    "country": "BR",
+    "lat": -23.81306,
+    "lng": -47.71639
+  },
+  {
+    "name": "Pilar de Goiás",
+    "country": "BR",
+    "lat": -14.76389,
+    "lng": -49.57833
+  },
+  {
+    "name": "Piên",
+    "country": "BR",
+    "lat": -26.09806,
+    "lng": -49.42917
+  },
+  {
+    "name": "Piedade dos Gerais",
+    "country": "BR",
+    "lat": -20.47111,
+    "lng": -44.22722
+  },
+  {
+    "name": "Piedade do Rio Grande",
+    "country": "BR",
+    "lat": -21.46861,
+    "lng": -44.19611
+  },
+  {
+    "name": "Piedade de Ponte Nova",
+    "country": "BR",
+    "lat": -20.24528,
+    "lng": -42.73417
+  },
+  {
+    "name": "Piedade",
+    "country": "BR",
+    "lat": -23.71194,
+    "lng": -47.42778
+  },
+  {
+    "name": "Piedade de Caratinga",
+    "country": "BR",
+    "lat": -19.76091,
+    "lng": -42.07566
+  },
+  {
+    "name": "Piau",
+    "country": "BR",
+    "lat": -21.50944,
+    "lng": -43.32278
+  },
+  {
+    "name": "Piatã",
+    "country": "BR",
+    "lat": -13.15194,
+    "lng": -41.77278
+  },
+  {
+    "name": "Piacatu",
+    "country": "BR",
+    "lat": -21.59222,
+    "lng": -50.59917
+  },
+  {
+    "name": "Piaçabuçu",
+    "country": "BR",
+    "lat": -10.40556,
+    "lng": -36.43444
+  },
+  {
+    "name": "Pinheiros",
+    "country": "BR",
+    "lat": -18.41334,
+    "lng": -40.21488
+  },
+  {
+    "name": "Picada Café",
+    "country": "BR",
+    "lat": -29.45152,
+    "lng": -51.13335
+  },
+  {
+    "name": "Pilão Arcado",
+    "country": "BR",
+    "lat": -10.00053,
+    "lng": -42.47975
+  },
+  {
+    "name": "Pirapetinga",
+    "country": "BR",
+    "lat": -7.03333,
+    "lng": -62.86667
+  },
+  {
+    "name": "Pimenteiras do Oeste",
+    "country": "BR",
+    "lat": -13.48129,
+    "lng": -61.04694
+  },
+  {
+    "name": "Pimenta Bueno",
+    "country": "BR",
+    "lat": -11.6725,
+    "lng": -61.19361
+  },
+  {
+    "name": "Piçarra",
+    "country": "BR",
+    "lat": -6.43806,
+    "lng": -48.87167
+  },
+  {
+    "name": "Pilõezinhos",
+    "country": "BR",
+    "lat": -6.84319,
+    "lng": -35.52982
+  },
+  {
+    "name": "Pinhais",
+    "country": "BR",
+    "lat": -25.44472,
+    "lng": -49.1925
+  },
+  {
+    "name": "Pinhal",
+    "country": "BR",
+    "lat": -27.51083,
+    "lng": -53.215
+  },
+  {
+    "name": "Pinhal de São Bento",
+    "country": "BR",
+    "lat": -26.03028,
+    "lng": -53.48306
+  },
+  {
+    "name": "Pinheirinho do Vale",
+    "country": "BR",
+    "lat": -27.20972,
+    "lng": -53.61194
+  },
+  {
+    "name": "Pinheiros",
+    "country": "BR",
+    "lat": -18.37028,
+    "lng": -40.21333
+  },
+  {
+    "name": "Pintópolis",
+    "country": "BR",
+    "lat": -16.05889,
+    "lng": -45.15556
+  },
+  {
+    "name": "Pirituba",
+    "country": "BR",
+    "lat": -23.48982,
+    "lng": -46.7322
+  },
+  {
+    "name": "Pingo-d'Água",
+    "country": "BR",
+    "lat": -19.72805,
+    "lng": -42.41136
+  },
+  {
+    "name": "Pilões",
+    "country": "BR",
+    "lat": -6.87157,
+    "lng": -35.61226
+  },
+  {
+    "name": "Pinhais",
+    "country": "BR",
+    "lat": -25.41786,
+    "lng": -49.17621
+  },
+  {
+    "name": "Pilikwe",
+    "country": "BW",
+    "lat": -22.79904,
+    "lng": 27.19376
+  },
+  {
+    "name": "Pilane",
+    "country": "BW",
+    "lat": -24.405,
+    "lng": 26.085
+  },
+  {
+    "name": "Pitseng",
+    "country": "BW",
+    "lat": -24.68919,
+    "lng": 25.04537
+  },
+  {
+    "name": "Pinsk",
+    "country": "BY",
+    "lat": 52.12153,
+    "lng": 26.06726
+  },
+  {
+    "name": "Pickering",
+    "country": "CA",
+    "lat": 43.90012,
+    "lng": -79.13289
+  },
+  {
+    "name": "Picton",
+    "country": "CA",
+    "lat": 44.00176,
+    "lng": -77.14637
+  },
+  {
+    "name": "Pictou",
+    "country": "CA",
+    "lat": 45.67875,
+    "lng": -62.70936
+  },
+  {
+    "name": "Picture Butte",
+    "country": "CA",
+    "lat": 49.8833,
+    "lng": -112.78516
+  },
+  {
+    "name": "Piedmont",
+    "country": "CA",
+    "lat": 45.90008,
+    "lng": -74.13251
+  },
+  {
+    "name": "Pierreville",
+    "country": "CA",
+    "lat": 46.07034,
+    "lng": -72.81125
+  },
+  {
+    "name": "Pilot Butte",
+    "country": "CA",
+    "lat": 50.48011,
+    "lng": -104.41911
+  },
+  {
+    "name": "Pincher Creek",
+    "country": "CA",
+    "lat": 49.48328,
+    "lng": -113.95195
+  },
+  {
+    "name": "Pincourt",
+    "country": "CA",
+    "lat": 45.38338,
+    "lng": -73.9825
+  },
+  {
+    "name": "Pitt Meadows",
+    "country": "CA",
+    "lat": 49.22119,
+    "lng": -122.68965
+  },
+  {
+    "name": "Pieterlen",
+    "country": "CH",
+    "lat": 47.17501,
+    "lng": 7.33791
+  },
+  {
+    "name": "Piébly Un",
+    "country": "CI",
+    "lat": 7.25125,
+    "lng": -7.08299
+  },
+  {
+    "name": "Pinyon",
+    "country": "CI",
+    "lat": 9.44621,
+    "lng": -5.77553
+  },
+  {
+    "name": "Pinvoro",
+    "country": "CI",
+    "lat": 9.85274,
+    "lng": -6.25002
+  },
+  {
+    "name": "Pinsolodougou",
+    "country": "CI",
+    "lat": 8.43879,
+    "lng": -4.57713
+  },
+  {
+    "name": "Pinda",
+    "country": "CI",
+    "lat": 7.89855,
+    "lng": -2.835
+  },
+  {
+    "name": "Pietipssi",
+    "country": "CI",
+    "lat": 7.63858,
+    "lng": -5.14791
+  },
+  {
+    "name": "Pinhou",
+    "country": "CI",
+    "lat": 6.92125,
+    "lng": -7.75791
+  },
+  {
+    "name": "Pissékou",
+    "country": "CI",
+    "lat": 6.28651,
+    "lng": -5.82015
+  },
+  {
+    "name": "Pivonhon",
+    "country": "CI",
+    "lat": 9.45403,
+    "lng": -6.03389
+  },
+  {
+    "name": "Pitrufquén",
+    "country": "CL",
+    "lat": -38.98635,
+    "lng": -72.63721
+  },
+  {
+    "name": "Pirque",
+    "country": "CL",
+    "lat": -33.63638,
+    "lng": -70.57361
+  },
+  {
+    "name": "Pichilemu",
+    "country": "CL",
+    "lat": -34.38333,
+    "lng": -72.0
+  },
+  {
+    "name": "Pica",
+    "country": "CL",
+    "lat": -20.49128,
+    "lng": -69.33118
+  },
+  {
+    "name": "Pitoa",
+    "country": "CM",
+    "lat": 9.3839,
+    "lng": 13.50231
+  },
+  {
+    "name": "Pizhou",
+    "country": "CN",
+    "lat": 34.31139,
+    "lng": 117.95028
+  },
+  {
+    "name": "Pingxiang",
+    "country": "CN",
+    "lat": 35.2079,
+    "lng": 105.25058
+  },
+  {
+    "name": "Pingxiang",
+    "country": "CN",
+    "lat": 37.06687,
+    "lng": 115.02794
+  },
+  {
+    "name": "Pitong",
+    "country": "CN",
+    "lat": 30.80993,
+    "lng": 103.88253
+  },
+  {
+    "name": "Pisha",
+    "country": "CN",
+    "lat": 27.07057,
+    "lng": 102.75771
+  },
+  {
+    "name": "Pingzhai",
+    "country": "CN",
+    "lat": 26.41667,
+    "lng": 108.81667
+  },
+  {
+    "name": "Pingyuan",
+    "country": "CN",
+    "lat": 37.17461,
+    "lng": 116.43834
+  },
+  {
+    "name": "Pingyin",
+    "country": "CN",
+    "lat": 36.28306,
+    "lng": 116.44528
+  },
+  {
+    "name": "Pingyi",
+    "country": "CN",
+    "lat": 35.50056,
+    "lng": 117.63083
+  },
+  {
+    "name": "Pingxiang",
+    "country": "CN",
+    "lat": 27.61672,
+    "lng": 113.85353
+  },
+  {
+    "name": "Pingtan",
+    "country": "CN",
+    "lat": 29.84594,
+    "lng": 105.87782
+  },
+  {
+    "name": "Pingshan",
+    "country": "CN",
+    "lat": 38.25666,
+    "lng": 114.19411
+  },
+  {
+    "name": "Pingshan",
+    "country": "CN",
+    "lat": 25.51985,
+    "lng": 102.47581
+  },
+  {
+    "name": "Pingshan",
+    "country": "CN",
+    "lat": 22.99376,
+    "lng": 114.71311
+  },
+  {
+    "name": "Pingqiao",
+    "country": "CN",
+    "lat": 32.09583,
+    "lng": 114.12028
+  },
+  {
+    "name": "Pingnan",
+    "country": "CN",
+    "lat": 23.5418,
+    "lng": 110.38929
+  },
+  {
+    "name": "Pingluo Chengguanzhen",
+    "country": "CN",
+    "lat": 38.90377,
+    "lng": 106.54128
+  },
+  {
+    "name": "Pingluo",
+    "country": "CN",
+    "lat": 33.5488,
+    "lng": 105.41033
+  },
+  {
+    "name": "Pingliang",
+    "country": "CN",
+    "lat": 35.53917,
+    "lng": 106.68611
+  },
+  {
+    "name": "Pingli",
+    "country": "CN",
+    "lat": 32.38472,
+    "lng": 109.34556
+  },
+  {
+    "name": "Pingle",
+    "country": "CN",
+    "lat": 24.63633,
+    "lng": 110.6383
+  },
+  {
+    "name": "Pingjin",
+    "country": "CN",
+    "lat": 30.61176,
+    "lng": 107.54497
+  },
+  {
+    "name": "Pingjiang",
+    "country": "CN",
+    "lat": 25.97056,
+    "lng": 108.39528
+  },
+  {
+    "name": "Pingdu",
+    "country": "CN",
+    "lat": 36.78444,
+    "lng": 119.94639
+  },
+  {
+    "name": "Pingdu",
+    "country": "CN",
+    "lat": 27.3863,
+    "lng": 114.61018
+  },
+  {
+    "name": "Pingdingshan",
+    "country": "CN",
+    "lat": 33.73847,
+    "lng": 113.30119
+  },
+  {
+    "name": "Pingba",
+    "country": "CN",
+    "lat": 31.99823,
+    "lng": 108.51737
+  },
+  {
+    "name": "Pianjiao",
+    "country": "CN",
+    "lat": 26.01667,
+    "lng": 100.58333
+  },
+  {
+    "name": "Picheng",
+    "country": "CN",
+    "lat": 34.46667,
+    "lng": 117.96667
+  },
+  {
+    "name": "Pingguo",
+    "country": "CN",
+    "lat": 23.33347,
+    "lng": 107.58591
+  },
+  {
+    "name": "Pingshu",
+    "country": "CN",
+    "lat": 38.69656,
+    "lng": 116.63909
+  },
+  {
+    "name": "Pingjiang",
+    "country": "CN",
+    "lat": 25.8114,
+    "lng": 108.662
+  },
+  {
+    "name": "Pingzhuang",
+    "country": "CN",
+    "lat": 42.03722,
+    "lng": 119.28889
+  },
+  {
+    "name": "Pingquan",
+    "country": "CN",
+    "lat": 41.01073,
+    "lng": 118.69073
+  },
+  {
+    "name": "Pingfang",
+    "country": "CN",
+    "lat": 45.59636,
+    "lng": 126.63167
+  },
+  {
+    "name": "Pingdingbu",
+    "country": "CN",
+    "lat": 41.66528,
+    "lng": 115.69778
+  },
+  {
+    "name": "Pianbai",
+    "country": "CN",
+    "lat": 29.03109,
+    "lng": 109.09221
+  },
+  {
+    "name": "Pingding",
+    "country": "CN",
+    "lat": 33.82545,
+    "lng": 104.31073
+  },
+  {
+    "name": "Pingya",
+    "country": "CN",
+    "lat": 33.50883,
+    "lng": 104.66915
+  },
+  {
+    "name": "Pipa",
+    "country": "CN",
+    "lat": 33.16635,
+    "lng": 105.31344
+  },
+  {
+    "name": "Pingjianglu",
+    "country": "CN",
+    "lat": 31.31469,
+    "lng": 120.62978
+  },
+  {
+    "name": "Pinghe",
+    "country": "CN",
+    "lat": 31.25999,
+    "lng": 109.94767
+  },
+  {
+    "name": "Ping’an",
+    "country": "CN",
+    "lat": 31.34962,
+    "lng": 109.15589
+  },
+  {
+    "name": "Pingshan",
+    "country": "CN",
+    "lat": 30.09655,
+    "lng": 107.42439
+  },
+  {
+    "name": "Pingkai",
+    "country": "CN",
+    "lat": 28.42595,
+    "lng": 108.99594
+  },
+  {
+    "name": "Ping’an",
+    "country": "CN",
+    "lat": 29.46695,
+    "lng": 108.14405
+  },
+  {
+    "name": "Pingqiao",
+    "country": "CN",
+    "lat": 29.37376,
+    "lng": 107.33793
+  },
+  {
+    "name": "Pinggui",
+    "country": "CN",
+    "lat": 24.45586,
+    "lng": 111.47415
+  },
+  {
+    "name": "Ping'an",
+    "country": "CN",
+    "lat": 35.02058,
+    "lng": 106.32472
+  },
+  {
+    "name": "Pingwu County",
+    "country": "CN",
+    "lat": 32.40732,
+    "lng": 104.52738
+  },
+  {
+    "name": "Pingzhou",
+    "country": "CN",
+    "lat": 22.5661,
+    "lng": 113.84659
+  },
+  {
+    "name": "Pizarro",
+    "country": "CO",
+    "lat": 4.95334,
+    "lng": -77.36598
+  },
+  {
+    "name": "Pivijay",
+    "country": "CO",
+    "lat": 10.46167,
+    "lng": -74.61621
+  },
+  {
+    "name": "Pitalito",
+    "country": "CO",
+    "lat": 1.85371,
+    "lng": -76.05071
+  },
+  {
+    "name": "Pital",
+    "country": "CO",
+    "lat": 2.2665,
+    "lng": -75.80442
+  },
+  {
+    "name": "Pisba",
+    "country": "CO",
+    "lat": 5.72396,
+    "lng": -72.48646
+  },
+  {
+    "name": "Piojó",
+    "country": "CO",
+    "lat": 10.74846,
+    "lng": -75.10776
+  },
+  {
+    "name": "Pinillos",
+    "country": "CO",
+    "lat": 8.91925,
+    "lng": -74.46771
+  },
+  {
+    "name": "Pinchote",
+    "country": "CO",
+    "lat": 6.53226,
+    "lng": -73.17309
+  },
+  {
+    "name": "Pijiño del Carmen",
+    "country": "CO",
+    "lat": 9.32908,
+    "lng": -74.45302
+  },
+  {
+    "name": "Pijao",
+    "country": "CO",
+    "lat": 4.3335,
+    "lng": -75.70463
+  },
+  {
+    "name": "Piedras",
+    "country": "CO",
+    "lat": 4.54261,
+    "lng": -74.87823
+  },
+  {
+    "name": "Piedrancha",
+    "country": "CO",
+    "lat": 1.14109,
+    "lng": -77.86479
+  },
+  {
+    "name": "Pie de Pató",
+    "country": "CO",
+    "lat": 5.51604,
+    "lng": -76.97449
+  },
+  {
+    "name": "Piedecuesta",
+    "country": "CO",
+    "lat": 6.98789,
+    "lng": -73.04953
+  },
+  {
+    "name": "Piamonte",
+    "country": "CO",
+    "lat": 1.12002,
+    "lng": -76.32131
+  },
+  {
+    "name": "Piendamo",
+    "country": "CO",
+    "lat": 2.63918,
+    "lng": -76.53055
+  },
+  {
+    "name": "Pital",
+    "country": "CR",
+    "lat": 10.45056,
+    "lng": -84.27406
+  },
+  {
+    "name": "Pinar del Río",
+    "country": "CU",
+    "lat": 22.41649,
+    "lng": -83.69657
+  },
+  {
+    "name": "Pilón",
+    "country": "CU",
+    "lat": 19.90553,
+    "lng": -77.32152
+  },
+  {
+    "name": "Picos",
+    "country": "CV",
+    "lat": 15.0836,
+    "lng": -23.63236
+  },
+  {
+    "name": "Pissoúri",
+    "country": "CY",
+    "lat": 34.66942,
+    "lng": 32.70132
+  },
+  {
+    "name": "Pilsen",
+    "country": "CZ",
+    "lat": 49.74747,
+    "lng": 13.37759
+  },
+  {
+    "name": "Pilníkov",
+    "country": "CZ",
+    "lat": 50.53247,
+    "lng": 15.8202
+  },
+  {
+    "name": "Pittenhart",
+    "country": "DE",
+    "lat": 47.97724,
+    "lng": 12.38997
+  },
+  {
+    "name": "Pirna",
+    "country": "DE",
+    "lat": 50.95843,
+    "lng": 13.93702
+  },
+  {
+    "name": "Pirmasens",
+    "country": "DE",
+    "lat": 49.20145,
+    "lng": 7.60529
+  },
+  {
+    "name": "Pirk",
+    "country": "DE",
+    "lat": 49.63333,
+    "lng": 12.16667
+  },
+  {
+    "name": "Pinzberg",
+    "country": "DE",
+    "lat": 49.68971,
+    "lng": 11.10207
+  },
+  {
+    "name": "Pinnow",
+    "country": "DE",
+    "lat": 53.60164,
+    "lng": 11.54577
+  },
+  {
+    "name": "Pinneberg",
+    "country": "DE",
+    "lat": 53.65887,
+    "lng": 9.79698
+  },
+  {
+    "name": "Pilsting",
+    "country": "DE",
+    "lat": 48.70116,
+    "lng": 12.65105
+  },
+  {
+    "name": "Pilsach",
+    "country": "DE",
+    "lat": 49.32137,
+    "lng": 11.50311
+  },
+  {
+    "name": "Pillnitz",
+    "country": "DE",
+    "lat": 51.0073,
+    "lng": 13.87565
+  },
+  {
+    "name": "Piesteritz",
+    "country": "DE",
+    "lat": 51.86956,
+    "lng": 12.59835
+  },
+  {
+    "name": "Piesport",
+    "country": "DE",
+    "lat": 49.8864,
+    "lng": 6.91649
+  },
+  {
+    "name": "Pielenhofen",
+    "country": "DE",
+    "lat": 49.07235,
+    "lng": 11.95699
+  },
+  {
+    "name": "Piding",
+    "country": "DE",
+    "lat": 47.76667,
+    "lng": 12.91667
+  },
+  {
+    "name": "Pizarrete",
+    "country": "DO",
+    "lat": 18.29935,
+    "lng": -70.22648
+  },
+  {
+    "name": "Pimentel",
+    "country": "DO",
+    "lat": 19.18416,
+    "lng": -70.10884
+  },
+  {
+    "name": "Piedra Blanca",
+    "country": "DO",
+    "lat": 18.84431,
+    "lng": -70.31688
+  },
+  {
+    "name": "Piñas Grande",
+    "country": "EC",
+    "lat": -3.66782,
+    "lng": -79.69635
+  },
+  {
+    "name": "Piñas",
+    "country": "EC",
+    "lat": -3.68017,
+    "lng": -79.68169
+  },
+  {
+    "name": "Pimocha",
+    "country": "EC",
+    "lat": -1.83349,
+    "lng": -79.60813
+  },
+  {
+    "name": "Pimampiro",
+    "country": "EC",
+    "lat": 0.39093,
+    "lng": -77.94094
+  },
+  {
+    "name": "Piedras",
+    "country": "EC",
+    "lat": -3.63663,
+    "lng": -79.91519
+  },
+  {
+    "name": "Picoazá",
+    "country": "EC",
+    "lat": -1.03603,
+    "lng": -80.49335
+  },
+  {
+    "name": "Piartal",
+    "country": "EC",
+    "lat": 0.56636,
+    "lng": -77.77193
+  },
+  {
+    "name": "Pizarra",
+    "country": "ES",
+    "lat": 36.76543,
+    "lng": -4.70833
+  },
+  {
+    "name": "Piqueras del Castillo",
+    "country": "ES",
+    "lat": 39.71667,
+    "lng": -2.06667
+  },
+  {
+    "name": "Pinos Puente",
+    "country": "ES",
+    "lat": 37.25109,
+    "lng": -3.74967
+  },
+  {
+    "name": "Pinoso",
+    "country": "ES",
+    "lat": 38.40164,
+    "lng": -1.04196
+  },
+  {
+    "name": "Pinos Genil",
+    "country": "ES",
+    "lat": 37.16346,
+    "lng": -3.50215
+  },
+  {
+    "name": "Pinet",
+    "country": "ES",
+    "lat": 38.98176,
+    "lng": -0.3387
+  },
+  {
+    "name": "Pinarejo",
+    "country": "ES",
+    "lat": 39.61639,
+    "lng": -2.42592
+  },
+  {
+    "name": "Piñar",
+    "country": "ES",
+    "lat": 37.44457,
+    "lng": -3.43861
+  },
+  {
+    "name": "Piles",
+    "country": "ES",
+    "lat": 38.94143,
+    "lng": -0.13286
+  },
+  {
+    "name": "Pilas",
+    "country": "ES",
+    "lat": 37.30337,
+    "lng": -6.30097
+  },
+  {
+    "name": "Pilar de la Horadada",
+    "country": "ES",
+    "lat": 37.86591,
+    "lng": -0.79256
+  },
+  {
+    "name": "Piedras Albas",
+    "country": "ES",
+    "lat": 39.78417,
+    "lng": -6.92588
+  },
+  {
+    "name": "Piedrabuena",
+    "country": "ES",
+    "lat": 39.03536,
+    "lng": -4.17512
+  },
+  {
+    "name": "Picón",
+    "country": "ES",
+    "lat": 39.05074,
+    "lng": -4.06084
+  },
+  {
+    "name": "Picassent",
+    "country": "ES",
+    "lat": 39.3635,
+    "lng": -0.45949
+  },
+  {
+    "name": "Picanya",
+    "country": "ES",
+    "lat": 39.43333,
+    "lng": -0.43333
+  },
+  {
+    "name": "Pizarral",
+    "country": "ES",
+    "lat": 40.6145,
+    "lng": -5.65238
+  },
+  {
+    "name": "Pitillas",
+    "country": "ES",
+    "lat": 42.42172,
+    "lng": -1.62017
+  },
+  {
+    "name": "Pitiegua",
+    "country": "ES",
+    "lat": 41.0621,
+    "lng": -5.46647
+  },
+  {
+    "name": "Pitarque",
+    "country": "ES",
+    "lat": 40.6485,
+    "lng": -0.59324
+  },
+  {
+    "name": "Piracés",
+    "country": "ES",
+    "lat": 42.00448,
+    "lng": -0.31769
+  },
+  {
+    "name": "Piqueras",
+    "country": "ES",
+    "lat": 40.66367,
+    "lng": -1.72202
+  },
+  {
+    "name": "Pioz",
+    "country": "ES",
+    "lat": 40.46153,
+    "lng": -3.17234
+  },
+  {
+    "name": "Piornal",
+    "country": "ES",
+    "lat": 40.11731,
+    "lng": -5.84787
+  },
+  {
+    "name": "Pinto",
+    "country": "ES",
+    "lat": 40.24147,
+    "lng": -3.69999
+  },
+  {
+    "name": "Pinseque",
+    "country": "ES",
+    "lat": 41.73657,
+    "lng": -1.10041
+  },
+  {
+    "name": "Piñor",
+    "country": "ES",
+    "lat": 42.5012,
+    "lng": -8.00151
+  },
+  {
+    "name": "Pinofranqueado",
+    "country": "ES",
+    "lat": 40.30351,
+    "lng": -6.33181
+  },
+  {
+    "name": "Pino del Río",
+    "country": "ES",
+    "lat": 42.64504,
+    "lng": -4.80795
+  },
+  {
+    "name": "Pinillos",
+    "country": "ES",
+    "lat": 42.19951,
+    "lng": -2.59709
+  },
+  {
+    "name": "Pinilla de Toro",
+    "country": "ES",
+    "lat": 41.62783,
+    "lng": -5.36414
+  },
+  {
+    "name": "Pinilla de Molina",
+    "country": "ES",
+    "lat": 40.67969,
+    "lng": -1.88034
+  },
+  {
+    "name": "Pinilla del Valle",
+    "country": "ES",
+    "lat": 40.92448,
+    "lng": -3.81688
+  },
+  {
+    "name": "Pinilla de los Moros",
+    "country": "ES",
+    "lat": 42.06815,
+    "lng": -3.32706
+  },
+  {
+    "name": "Pinilla de los Barruecos",
+    "country": "ES",
+    "lat": 41.91791,
+    "lng": -3.30371
+  },
+  {
+    "name": "Pinilla del Campo",
+    "country": "ES",
+    "lat": 41.71691,
+    "lng": -2.0835
+  },
+  {
+    "name": "Pinilla de Jadraque",
+    "country": "ES",
+    "lat": 41.01988,
+    "lng": -2.94254
+  },
+  {
+    "name": "Piñel de Arriba",
+    "country": "ES",
+    "lat": 41.69923,
+    "lng": -4.12808
+  },
+  {
+    "name": "Piñel de Abajo",
+    "country": "ES",
+    "lat": 41.67459,
+    "lng": -4.14655
+  },
+  {
+    "name": "Pinedas",
+    "country": "ES",
+    "lat": 40.44493,
+    "lng": -5.96025
+  },
+  {
+    "name": "Pineda de la Sierra",
+    "country": "ES",
+    "lat": 42.2156,
+    "lng": -3.2969
+  },
+  {
+    "name": "Pineda de Gigüela",
+    "country": "ES",
+    "lat": 40.08546,
+    "lng": -2.54368
+  },
+  {
+    "name": "Pineda de Mar",
+    "country": "ES",
+    "lat": 41.62763,
+    "lng": 2.6889
+  },
+  {
+    "name": "Pinarnegrillo",
+    "country": "ES",
+    "lat": 41.19098,
+    "lng": -4.20967
+  },
+  {
+    "name": "Pinarejos",
+    "country": "ES",
+    "lat": 41.2595,
+    "lng": -4.29364
+  },
+  {
+    "name": "Pina de Montalgrao",
+    "country": "ES",
+    "lat": 40.01667,
+    "lng": -0.65
+  },
+  {
+    "name": "Piña de Esgueva",
+    "country": "ES",
+    "lat": 41.72843,
+    "lng": -4.42823
+  },
+  {
+    "name": "Pina de Ebro",
+    "country": "ES",
+    "lat": 41.48846,
+    "lng": -0.5312
+  },
+  {
+    "name": "Piña de Campos",
+    "country": "ES",
+    "lat": 42.21326,
+    "lng": -4.43657
+  },
+  {
+    "name": "Piloña",
+    "country": "ES",
+    "lat": 43.35,
+    "lng": -5.36667
+  },
+  {
+    "name": "Piérnigas",
+    "country": "ES",
+    "lat": 42.5903,
+    "lng": -3.41337
+  },
+  {
+    "name": "Piera",
+    "country": "ES",
+    "lat": 41.52232,
+    "lng": 1.75076
+  },
+  {
+    "name": "Piedratajada",
+    "country": "ES",
+    "lat": 42.12124,
+    "lng": -0.80373
+  },
+  {
+    "name": "Piedras Blancas",
+    "country": "ES",
+    "lat": 43.55913,
+    "lng": -5.97558
+  },
+  {
+    "name": "Piedramillera",
+    "country": "ES",
+    "lat": 42.632,
+    "lng": -2.20416
+  },
+  {
+    "name": "Piedralaves",
+    "country": "ES",
+    "lat": 40.31721,
+    "lng": -4.70025
+  },
+  {
+    "name": "Piedrahita de Castro",
+    "country": "ES",
+    "lat": 41.68089,
+    "lng": -5.72886
+  },
+  {
+    "name": "Pinar de Chamartín",
+    "country": "ES",
+    "lat": 40.47903,
+    "lng": -3.66836
+  },
+  {
+    "name": "Pilar",
+    "country": "ES",
+    "lat": 40.47714,
+    "lng": -3.70959
+  },
+  {
+    "name": "Piovera",
+    "country": "ES",
+    "lat": 40.45572,
+    "lng": -3.63509
+  },
+  {
+    "name": "Pinar del Rey",
+    "country": "ES",
+    "lat": 40.4724,
+    "lng": -3.64709
+  },
+  {
+    "name": "Pitäjänmäki",
+    "country": "FI",
+    "lat": 60.22287,
+    "lng": 24.86103
+  },
+  {
+    "name": "Pispala",
+    "country": "FI",
+    "lat": 61.50434,
+    "lng": 23.7083
+  },
+  {
+    "name": "Pirkkala",
+    "country": "FI",
+    "lat": 61.46125,
+    "lng": 23.63228
+  },
+  {
+    "name": "Piippola",
+    "country": "FI",
+    "lat": 64.16667,
+    "lng": 25.96667
+  },
+  {
+    "name": "Piikkiö",
+    "country": "FI",
+    "lat": 60.42481,
+    "lng": 22.51601
+  },
+  {
+    "name": "Pihtipudas",
+    "country": "FI",
+    "lat": 63.38333,
+    "lng": 25.56667
+  },
+  {
+    "name": "Pielavesi",
+    "country": "FI",
+    "lat": 63.23333,
+    "lng": 26.75
+  },
+  {
+    "name": "Pieksämäki",
+    "country": "FI",
+    "lat": 62.3,
+    "lng": 27.13333
+  },
+  {
+    "name": "Pihlajisto",
+    "country": "FI",
+    "lat": 60.23102,
+    "lng": 25.00134
+  },
+  {
+    "name": "Pihlajamäki",
+    "country": "FI",
+    "lat": 60.23593,
+    "lng": 25.01132
+  },
+  {
+    "name": "Pikku-Huopalahti",
+    "country": "FI",
+    "lat": 60.20499,
+    "lng": 24.89545
+  },
+  {
+    "name": "Pitäjänmäen yritysalue",
+    "country": "FI",
+    "lat": 60.2216,
+    "lng": 24.87232
+  },
+  {
+    "name": "Pingelap",
+    "country": "FM",
+    "lat": 6.20589,
+    "lng": 160.70327
+  },
+  {
+    "name": "Pisaras",
+    "country": "FM",
+    "lat": 8.569,
+    "lng": 150.4195
+  },
+  {
+    "name": "Piis",
+    "country": "FM",
+    "lat": 6.834,
+    "lng": 152.701
+  },
+  {
+    "name": "Pithiviers-le-Vieil",
+    "country": "FR",
+    "lat": 48.16313,
+    "lng": 2.20922
+  },
+  {
+    "name": "Pithiviers",
+    "country": "FR",
+    "lat": 48.17185,
+    "lng": 2.25185
+  },
+  {
+    "name": "Pissy-Pôville",
+    "country": "FR",
+    "lat": 49.52986,
+    "lng": 0.99281
+  },
+  {
+    "name": "Pissotte",
+    "country": "FR",
+    "lat": 46.49653,
+    "lng": -0.80789
+  },
+  {
+    "name": "Pissos",
+    "country": "FR",
+    "lat": 44.30894,
+    "lng": -0.77859
+  },
+  {
+    "name": "Pirou",
+    "country": "FR",
+    "lat": 49.18089,
+    "lng": -1.57384
+  },
+  {
+    "name": "Piriac-sur-Mer",
+    "country": "FR",
+    "lat": 47.37936,
+    "lng": -2.54652
+  },
+  {
+    "name": "Pirey",
+    "country": "FR",
+    "lat": 47.26136,
+    "lng": 5.96466
+  },
+  {
+    "name": "Piré-sur-Seiche",
+    "country": "FR",
+    "lat": 48.01,
+    "lng": -1.43086
+  },
+  {
+    "name": "Pipriac",
+    "country": "FR",
+    "lat": 47.80837,
+    "lng": -1.94782
+  },
+  {
+    "name": "Pionsat",
+    "country": "FR",
+    "lat": 46.10963,
+    "lng": 2.69319
+  },
+  {
+    "name": "Piolenc",
+    "country": "FR",
+    "lat": 44.17765,
+    "lng": 4.76157
+  },
+  {
+    "name": "Pinsaguel",
+    "country": "FR",
+    "lat": 43.5104,
+    "lng": 1.38831
+  },
+  {
+    "name": "Pinon",
+    "country": "FR",
+    "lat": 49.48916,
+    "lng": 3.44703
+  },
+  {
+    "name": "Piney",
+    "country": "FR",
+    "lat": 48.36366,
+    "lng": 4.33325
+  },
+  {
+    "name": "Pinet",
+    "country": "FR",
+    "lat": 43.40556,
+    "lng": 3.51
+  },
+  {
+    "name": "Pignans",
+    "country": "FR",
+    "lat": 43.30071,
+    "lng": 6.2265
+  },
+  {
+    "name": "Pignan",
+    "country": "FR",
+    "lat": 43.58436,
+    "lng": 3.75853
+  },
+  {
+    "name": "Pietrosella",
+    "country": "FR",
+    "lat": 41.83576,
+    "lng": 8.84573
+  },
+  {
+    "name": "Pietranera",
+    "country": "FR",
+    "lat": 42.72338,
+    "lng": 9.45621
+  },
+  {
+    "name": "Pierry",
+    "country": "FR",
+    "lat": 49.02024,
+    "lng": 3.94071
+  },
+  {
+    "name": "Pierrevillers",
+    "country": "FR",
+    "lat": 49.22468,
+    "lng": 6.10337
+  },
+  {
+    "name": "Pierrevert",
+    "country": "FR",
+    "lat": 43.81137,
+    "lng": 5.74958
+  },
+  {
+    "name": "Pierres",
+    "country": "FR",
+    "lat": 48.59209,
+    "lng": 1.56444
+  },
+  {
+    "name": "Pierrepont",
+    "country": "FR",
+    "lat": 49.41646,
+    "lng": 5.70908
+  },
+  {
+    "name": "Pierrelaye",
+    "country": "FR",
+    "lat": 49.0211,
+    "lng": 2.15481
+  },
+  {
+    "name": "Pierrelatte",
+    "country": "FR",
+    "lat": 44.37549,
+    "lng": 4.70314
+  },
+  {
+    "name": "Pierrefort",
+    "country": "FR",
+    "lat": 44.92175,
+    "lng": 2.83811
+  },
+  {
+    "name": "Pierrefontaine-les-Varans",
+    "country": "FR",
+    "lat": 47.21601,
+    "lng": 6.5403
+  },
+  {
+    "name": "Pierrefonds",
+    "country": "FR",
+    "lat": 49.34878,
+    "lng": 2.9779
+  },
+  {
+    "name": "Pierrefitte-sur-Seine",
+    "country": "FR",
+    "lat": 48.96691,
+    "lng": 2.36104
+  },
+  {
+    "name": "Pierrefitte-Nestalas",
+    "country": "FR",
+    "lat": 42.96106,
+    "lng": -0.07385
+  },
+  {
+    "name": "Pierrefeu-du-Var",
+    "country": "FR",
+    "lat": 43.22411,
+    "lng": 6.14536
+  },
+  {
+    "name": "Pierre-Châtel",
+    "country": "FR",
+    "lat": 44.95735,
+    "lng": 5.77454
+  },
+  {
+    "name": "Pierre-Buffière",
+    "country": "FR",
+    "lat": 45.69451,
+    "lng": 1.35895
+  },
+  {
+    "name": "Pierre-Bénite",
+    "country": "FR",
+    "lat": 45.70359,
+    "lng": 4.82424
+  },
+  {
+    "name": "Pierre-de-Bresse",
+    "country": "FR",
+    "lat": 46.88333,
+    "lng": 5.25
+  },
+  {
+    "name": "Piennes",
+    "country": "FR",
+    "lat": 49.30964,
+    "lng": 5.78009
+  },
+  {
+    "name": "Piégut-Pluviers",
+    "country": "FR",
+    "lat": 45.62288,
+    "lng": 0.68955
+  },
+  {
+    "name": "Picquigny",
+    "country": "FR",
+    "lat": 49.94413,
+    "lng": 2.14376
+  },
+  {
+    "name": "Picauville",
+    "country": "FR",
+    "lat": 49.3781,
+    "lng": -1.40048
+  },
+  {
+    "name": "Pibrac",
+    "country": "FR",
+    "lat": 43.62042,
+    "lng": 1.2854
+  },
+  {
+    "name": "Pia",
+    "country": "FR",
+    "lat": 42.74475,
+    "lng": 2.92043
+  },
+  {
+    "name": "Picpus",
+    "country": "FR",
+    "lat": 48.84258,
+    "lng": 2.40014
+  },
+  {
+    "name": "Pittington",
+    "country": "GB",
+    "lat": 54.8,
+    "lng": -1.48333
+  },
+  {
+    "name": "Pittenweem",
+    "country": "GB",
+    "lat": 56.21406,
+    "lng": -2.72839
+  },
+  {
+    "name": "Pitstone",
+    "country": "GB",
+    "lat": 51.8283,
+    "lng": -0.63987
+  },
+  {
+    "name": "Pitsea",
+    "country": "GB",
+    "lat": 51.56387,
+    "lng": 0.50859
+  },
+  {
+    "name": "Pitmedden",
+    "country": "GB",
+    "lat": 57.33691,
+    "lng": -2.18022
+  },
+  {
+    "name": "Pitlochry",
+    "country": "GB",
+    "lat": 56.70514,
+    "lng": -3.73432
+  },
+  {
+    "name": "Pirton",
+    "country": "GB",
+    "lat": 51.9712,
+    "lng": -0.33394
+  },
+  {
+    "name": "Pirbright",
+    "country": "GB",
+    "lat": 51.29137,
+    "lng": -0.64721
+  },
+  {
+    "name": "Pinxton",
+    "country": "GB",
+    "lat": 53.09062,
+    "lng": -1.31767
+  },
+  {
+    "name": "Pinner",
+    "country": "GB",
+    "lat": 51.59384,
+    "lng": -0.38216
+  },
+  {
+    "name": "Pinchbeck",
+    "country": "GB",
+    "lat": 52.81303,
+    "lng": -0.16256
+  },
+  {
+    "name": "Pimperne",
+    "country": "GB",
+    "lat": 50.88374,
+    "lng": -2.1362
+  },
+  {
+    "name": "Pilsley",
+    "country": "GB",
+    "lat": 53.15,
+    "lng": -1.36667
+  },
+  {
+    "name": "Pilning",
+    "country": "GB",
+    "lat": 51.56337,
+    "lng": -2.64264
+  },
+  {
+    "name": "Pillaton",
+    "country": "GB",
+    "lat": 50.45,
+    "lng": -4.3
+  },
+  {
+    "name": "Pickworth",
+    "country": "GB",
+    "lat": 52.71311,
+    "lng": -0.53318
+  },
+  {
+    "name": "Pickering",
+    "country": "GB",
+    "lat": 54.25,
+    "lng": -0.76667
+  },
+  {
+    "name": "Pimlico",
+    "country": "GB",
+    "lat": 51.48897,
+    "lng": -0.13699
+  },
+  {
+    "name": "Pinkneys Green",
+    "country": "GB",
+    "lat": 51.53324,
+    "lng": -0.76056
+  },
+  {
+    "name": "Pita",
+    "country": "GN",
+    "lat": 11.05915,
+    "lng": -12.39498
+  },
+  {
+    "name": "Pigí",
+    "country": "GR",
+    "lat": 39.51061,
+    "lng": 21.70103
+  },
+  {
+    "name": "Pithári",
+    "country": "GR",
+    "lat": 35.51672,
+    "lng": 24.08653
+  },
+  {
+    "name": "Piraeus",
+    "country": "GR",
+    "lat": 37.94203,
+    "lng": 23.64619
+  },
+  {
+    "name": "Pikérmi",
+    "country": "GR",
+    "lat": 38.00161,
+    "lng": 23.94075
+  },
+  {
+    "name": "Piti Village",
+    "country": "GU",
+    "lat": 13.46256,
+    "lng": 144.69331
+  },
+  {
+    "name": "Pirada",
+    "country": "GW",
+    "lat": 12.66286,
+    "lng": -14.15427
+  },
+  {
+    "name": "Pitche",
+    "country": "GW",
+    "lat": 12.32344,
+    "lng": -13.95343
+  },
+  {
+    "name": "Ping Shan",
+    "country": "HK",
+    "lat": 22.44111,
+    "lng": 114.00608
+  },
+  {
+    "name": "Pinalejo",
+    "country": "HN",
+    "lat": 15.38705,
+    "lng": -88.39207
+  },
+  {
+    "name": "Pimienta Vieja",
+    "country": "HN",
+    "lat": 15.23333,
+    "lng": -87.96667
+  },
+  {
+    "name": "Pitomača",
+    "country": "HR",
+    "lat": 45.95056,
+    "lng": 17.22944
+  },
+  {
+    "name": "Piškorevci",
+    "country": "HR",
+    "lat": 45.25528,
+    "lng": 18.40417
+  },
+  {
+    "name": "Pisarovina",
+    "country": "HR",
+    "lat": 45.58639,
+    "lng": 15.85917
+  },
+  {
+    "name": "Pirovac",
+    "country": "HR",
+    "lat": 43.81917,
+    "lng": 15.67278
+  },
+  {
+    "name": "Pićan",
+    "country": "HR",
+    "lat": 45.20611,
+    "lng": 14.04278
+  },
+  {
+    "name": "Pilate",
+    "country": "HT",
+    "lat": 19.66745,
+    "lng": -72.55229
+  },
+  {
+    "name": "Pignon",
+    "country": "HT",
+    "lat": 19.33594,
+    "lng": -72.11662
+  },
+  {
+    "name": "Pincehely",
+    "country": "HU",
+    "lat": 46.68095,
+    "lng": 18.43935
+  },
+  {
+    "name": "Pilisvörösvár",
+    "country": "HU",
+    "lat": 47.61386,
+    "lng": 18.90893
+  },
+  {
+    "name": "Pilisszentkereszt",
+    "country": "HU",
+    "lat": 47.69143,
+    "lng": 18.90503
+  },
+  {
+    "name": "Pilisszentiván",
+    "country": "HU",
+    "lat": 47.60964,
+    "lng": 18.8994
+  },
+  {
+    "name": "Pilisszántó",
+    "country": "HU",
+    "lat": 47.66909,
+    "lng": 18.88762
+  },
+  {
+    "name": "Pilismarót",
+    "country": "HU",
+    "lat": 47.78464,
+    "lng": 18.87539
+  },
+  {
+    "name": "Piliscsév",
+    "country": "HU",
+    "lat": 47.67924,
+    "lng": 18.81872
+  },
+  {
+    "name": "Piliscsaba",
+    "country": "HU",
+    "lat": 47.63417,
+    "lng": 18.82886
+  },
+  {
+    "name": "Pilisborosjenő",
+    "country": "HU",
+    "lat": 47.60744,
+    "lng": 18.99322
+  },
+  {
+    "name": "Pilis",
+    "country": "HU",
+    "lat": 47.28904,
+    "lng": 19.54848
+  },
+  {
+    "name": "Pintupadang",
+    "country": "ID",
+    "lat": 1.2402,
+    "lng": 99.345
+  },
+  {
+    "name": "Pining",
+    "country": "ID",
+    "lat": 4.1064,
+    "lng": 97.5886
+  },
+  {
+    "name": "Piru",
+    "country": "ID",
+    "lat": -3.0618,
+    "lng": 128.1945
+  },
+  {
+    "name": "Pinrang",
+    "country": "ID",
+    "lat": -3.78611,
+    "lng": 119.65222
+  },
+  {
+    "name": "Pineleng",
+    "country": "ID",
+    "lat": 1.42422,
+    "lng": 124.83865
+  },
+  {
+    "name": "Pimpi",
+    "country": "ID",
+    "lat": 0.8825,
+    "lng": 123.5502
+  },
+  {
+    "name": "Pidie",
+    "country": "ID",
+    "lat": 5.36334,
+    "lng": 95.94
+  },
+  {
+    "name": "Piltown",
+    "country": "IE",
+    "lat": 52.35333,
+    "lng": -7.34028
+  },
+  {
+    "name": "Pituk",
+    "country": "IN",
+    "lat": 34.13908,
+    "lng": 77.53604
+  },
+  {
+    "name": "Pittal",
+    "country": "IN",
+    "lat": 19.53221,
+    "lng": 84.72983
+  },
+  {
+    "name": "Pithorāgarh",
+    "country": "IN",
+    "lat": 29.58349,
+    "lng": 80.20947
+  },
+  {
+    "name": "Pithora",
+    "country": "IN",
+    "lat": 21.25021,
+    "lng": 82.51707
+  },
+  {
+    "name": "Pithāpuram",
+    "country": "IN",
+    "lat": 17.1168,
+    "lng": 82.25284
+  },
+  {
+    "name": "Pirthīpur",
+    "country": "IN",
+    "lat": 25.20837,
+    "lng": 78.75158
+  },
+  {
+    "name": "Piro",
+    "country": "IN",
+    "lat": 25.33218,
+    "lng": 84.40454
+  },
+  {
+    "name": "Piriyāpatna",
+    "country": "IN",
+    "lat": 12.33497,
+    "lng": 76.10073
+  },
+  {
+    "name": "Pirāwa",
+    "country": "IN",
+    "lat": 24.15506,
+    "lng": 76.02728
+  },
+  {
+    "name": "Piravam",
+    "country": "IN",
+    "lat": 9.86667,
+    "lng": 76.5
+  },
+  {
+    "name": "Pirangut",
+    "country": "IN",
+    "lat": 18.5084,
+    "lng": 73.68924
+  },
+  {
+    "name": "Pipraich",
+    "country": "IN",
+    "lat": 26.82745,
+    "lng": 83.52632
+  },
+  {
+    "name": "Pippara",
+    "country": "IN",
+    "lat": 16.71667,
+    "lng": 81.55
+  },
+  {
+    "name": "Piploda",
+    "country": "IN",
+    "lat": 23.60732,
+    "lng": 74.94198
+  },
+  {
+    "name": "Piploda",
+    "country": "IN",
+    "lat": 23.35,
+    "lng": 75.43333
+  },
+  {
+    "name": "Pipili",
+    "country": "IN",
+    "lat": 20.11357,
+    "lng": 85.83147
+  },
+  {
+    "name": "Pipariā",
+    "country": "IN",
+    "lat": 22.75703,
+    "lng": 78.35499
+  },
+  {
+    "name": "Pipalrawān",
+    "country": "IN",
+    "lat": 23.16252,
+    "lng": 76.47044
+  },
+  {
+    "name": "Pinjaur",
+    "country": "IN",
+    "lat": 30.79873,
+    "lng": 76.91822
+  },
+  {
+    "name": "Pindwāra",
+    "country": "IN",
+    "lat": 24.79749,
+    "lng": 73.05505
+  },
+  {
+    "name": "Pindrai",
+    "country": "IN",
+    "lat": 22.52054,
+    "lng": 80.03807
+  },
+  {
+    "name": "Pingawān",
+    "country": "IN",
+    "lat": 27.8959,
+    "lng": 77.1022
+  },
+  {
+    "name": "Pināhat",
+    "country": "IN",
+    "lat": 26.88487,
+    "lng": 78.37647
+  },
+  {
+    "name": "Pimpri",
+    "country": "IN",
+    "lat": 18.62292,
+    "lng": 73.80696
+  },
+  {
+    "name": "Pilkhua",
+    "country": "IN",
+    "lat": 28.71271,
+    "lng": 77.656
+  },
+  {
+    "name": "Pilibangan",
+    "country": "IN",
+    "lat": 29.44964,
+    "lng": 74.10093
+  },
+  {
+    "name": "Pilerne",
+    "country": "IN",
+    "lat": 15.53353,
+    "lng": 73.79533
+  },
+  {
+    "name": "Pilāni",
+    "country": "IN",
+    "lat": 28.36725,
+    "lng": 75.60352
+  },
+  {
+    "name": "Pihānī",
+    "country": "IN",
+    "lat": 27.61987,
+    "lng": 80.20343
+  },
+  {
+    "name": "Pidugurālla",
+    "country": "IN",
+    "lat": 16.47926,
+    "lng": 79.88632
+  },
+  {
+    "name": "Pichor",
+    "country": "IN",
+    "lat": 25.17555,
+    "lng": 78.18863
+  },
+  {
+    "name": "Pithampur",
+    "country": "IN",
+    "lat": 22.60197,
+    "lng": 75.69649
+  },
+  {
+    "name": "Pitampura",
+    "country": "IN",
+    "lat": 28.68964,
+    "lng": 77.13126
+  },
+  {
+    "name": "Pimpri-Chinchwad",
+    "country": "IN",
+    "lat": 18.61867,
+    "lng": 73.80375
+  },
+  {
+    "name": "Pimpalgaon",
+    "country": "IN",
+    "lat": 20.4128,
+    "lng": 78.12818
+  },
+  {
+    "name": "Pipri",
+    "country": "IN",
+    "lat": 20.78613,
+    "lng": 78.5936
+  },
+  {
+    "name": "Pimpalgaon",
+    "country": "IN",
+    "lat": 20.14523,
+    "lng": 74.2408
+  },
+  {
+    "name": "Piriāpāra",
+    "country": "IN",
+    "lat": 22.97059,
+    "lng": 82.70039
+  },
+  {
+    "name": "Piparia",
+    "country": "IN",
+    "lat": 22.00241,
+    "lng": 81.32603
+  },
+  {
+    "name": "Pilikōdu",
+    "country": "IN",
+    "lat": 12.19154,
+    "lng": 75.16443
+  },
+  {
+    "name": "Pinarāyi",
+    "country": "IN",
+    "lat": 11.8049,
+    "lng": 75.481
+  },
+  {
+    "name": "Piranvādi",
+    "country": "IN",
+    "lat": 15.80202,
+    "lng": 74.48012
+  },
+  {
+    "name": "Pirāyiri",
+    "country": "IN",
+    "lat": 10.76523,
+    "lng": 76.63178
+  },
+  {
+    "name": "Pillānallūr",
+    "country": "IN",
+    "lat": 11.43215,
+    "lng": 78.1334
+  },
+  {
+    "name": "Pimpalkhuta",
+    "country": "IN",
+    "lat": 20.01453,
+    "lng": 76.49991
+  },
+  {
+    "name": "Pipalibari",
+    "country": "IN",
+    "lat": 26.37651,
+    "lng": 91.33574
+  },
+  {
+    "name": "Pipodara",
+    "country": "IN",
+    "lat": 21.36052,
+    "lng": 72.95977
+  },
+  {
+    "name": "Pipri",
+    "country": "IN",
+    "lat": 22.06326,
+    "lng": 75.40086
+  },
+  {
+    "name": "Piranshahr",
+    "country": "IR",
+    "lat": 36.701,
+    "lng": 45.1413
+  },
+  {
+    "name": "Pizzoni",
+    "country": "IT",
+    "lat": 38.62286,
+    "lng": 16.24876
+  },
+  {
+    "name": "Pizzo",
+    "country": "IT",
+    "lat": 38.75259,
+    "lng": 16.18696
+  },
+  {
+    "name": "Piscopio",
+    "country": "IT",
+    "lat": 38.66361,
+    "lng": 16.11101
+  },
+  {
+    "name": "Piscinas",
+    "country": "IT",
+    "lat": 39.07435,
+    "lng": 8.66634
+  },
+  {
+    "name": "Piraino",
+    "country": "IT",
+    "lat": 38.16127,
+    "lng": 14.861
+  },
+  {
+    "name": "Pioppo",
+    "country": "IT",
+    "lat": 38.05,
+    "lng": 13.23333
+  },
+  {
+    "name": "Pimentel",
+    "country": "IT",
+    "lat": 39.48718,
+    "lng": 9.06516
+  },
+  {
+    "name": "Pietraperzia",
+    "country": "IT",
+    "lat": 37.41852,
+    "lng": 14.13739
+  },
+  {
+    "name": "Pietrapaola",
+    "country": "IT",
+    "lat": 39.48701,
+    "lng": 16.81597
+  },
+  {
+    "name": "Pietrafitta",
+    "country": "IT",
+    "lat": 39.26103,
+    "lng": 16.3394
+  },
+  {
+    "name": "Piedimonte Etneo",
+    "country": "IT",
+    "lat": 37.80677,
+    "lng": 15.17516
+  },
+  {
+    "name": "Piazza Armerina",
+    "country": "IT",
+    "lat": 37.38417,
+    "lng": 14.36921
+  },
+  {
+    "name": "Pianopoli",
+    "country": "IT",
+    "lat": 38.95246,
+    "lng": 16.38863
+  },
+  {
+    "name": "Piane Crati",
+    "country": "IT",
+    "lat": 39.23472,
+    "lng": 16.32313
+  },
+  {
+    "name": "Piana degli Albanesi",
+    "country": "IT",
+    "lat": 37.99372,
+    "lng": 13.28464
+  },
+  {
+    "name": "Pizzone",
+    "country": "IT",
+    "lat": 41.67332,
+    "lng": 14.03666
+  },
+  {
+    "name": "Pizzoli",
+    "country": "IT",
+    "lat": 42.43603,
+    "lng": 13.29886
+  },
+  {
+    "name": "Pizzoferrato",
+    "country": "IT",
+    "lat": 41.92244,
+    "lng": 14.23632
+  },
+  {
+    "name": "Pizzighettone",
+    "country": "IT",
+    "lat": 45.1869,
+    "lng": 9.78781
+  },
+  {
+    "name": "Piuro",
+    "country": "IT",
+    "lat": 46.32979,
+    "lng": 9.42064
+  },
+  {
+    "name": "Piumazzo",
+    "country": "IT",
+    "lat": 44.54631,
+    "lng": 11.06727
+  },
+  {
+    "name": "Piubega",
+    "country": "IT",
+    "lat": 45.22677,
+    "lng": 10.53195
+  },
+  {
+    "name": "Pitigliano",
+    "country": "IT",
+    "lat": 43.45,
+    "lng": 11.93333
+  },
+  {
+    "name": "Pitigliano",
+    "country": "IT",
+    "lat": 42.63582,
+    "lng": 11.67462
+  },
+  {
+    "name": "Piteglio",
+    "country": "IT",
+    "lat": 44.0279,
+    "lng": 10.76571
+  },
+  {
+    "name": "Pistrino",
+    "country": "IT",
+    "lat": 43.50966,
+    "lng": 12.15181
+  },
+  {
+    "name": "Pistoia",
+    "country": "IT",
+    "lat": 43.93064,
+    "lng": 10.92365
+  },
+  {
+    "name": "Pisticci",
+    "country": "IT",
+    "lat": 40.39017,
+    "lng": 16.55919
+  },
+  {
+    "name": "Pisoniano",
+    "country": "IT",
+    "lat": 41.90816,
+    "lng": 12.95794
+  },
+  {
+    "name": "Pisogne",
+    "country": "IT",
+    "lat": 45.80777,
+    "lng": 10.11023
+  },
+  {
+    "name": "Pisignano",
+    "country": "IT",
+    "lat": 40.3047,
+    "lng": 18.27155
+  },
+  {
+    "name": "Pisciotta",
+    "country": "IT",
+    "lat": 40.1089,
+    "lng": 15.23456
+  },
+  {
+    "name": "Piscinola",
+    "country": "IT",
+    "lat": 40.89299,
+    "lng": 14.23394
+  },
+  {
+    "name": "Pisa",
+    "country": "IT",
+    "lat": 43.70853,
+    "lng": 10.4036
+  },
+  {
+    "name": "Piozzano",
+    "country": "IT",
+    "lat": 44.92533,
+    "lng": 9.49559
+  },
+  {
+    "name": "Piovene Rocchette",
+    "country": "IT",
+    "lat": 45.75601,
+    "lng": 11.43273
+  },
+  {
+    "name": "Piove di Sacco-Piovega",
+    "country": "IT",
+    "lat": 45.29665,
+    "lng": 12.03683
+  },
+  {
+    "name": "Piossasco",
+    "country": "IT",
+    "lat": 44.98802,
+    "lng": 7.4601
+  },
+  {
+    "name": "Pioraco",
+    "country": "IT",
+    "lat": 43.18074,
+    "lng": 12.97676
+  },
+  {
+    "name": "Piombino Dese",
+    "country": "IT",
+    "lat": 45.60964,
+    "lng": 11.99416
+  },
+  {
+    "name": "Piombino",
+    "country": "IT",
+    "lat": 42.92554,
+    "lng": 10.52585
+  },
+  {
+    "name": "Pioltello",
+    "country": "IT",
+    "lat": 45.50147,
+    "lng": 9.33053
+  },
+  {
+    "name": "Piode",
+    "country": "IT",
+    "lat": 45.77059,
+    "lng": 8.05265
+  },
+  {
+    "name": "Piobesi Torinese",
+    "country": "IT",
+    "lat": 44.76667,
+    "lng": 7.61667
+  },
+  {
+    "name": "Piobesi d'Alba",
+    "country": "IT",
+    "lat": 44.73444,
+    "lng": 7.97937
+  },
+  {
+    "name": "Piobbico",
+    "country": "IT",
+    "lat": 43.58819,
+    "lng": 12.50962
+  },
+  {
+    "name": "Pinzolo",
+    "country": "IT",
+    "lat": 46.15976,
+    "lng": 10.76376
+  },
+  {
+    "name": "Pinzano al Tagliamento",
+    "country": "IT",
+    "lat": 46.18216,
+    "lng": 12.94433
+  },
+  {
+    "name": "Pino sulla Sponda del Lago Maggiore",
+    "country": "IT",
+    "lat": 46.10078,
+    "lng": 8.73873
+  },
+  {
+    "name": "Pinocchio di Ancona",
+    "country": "IT",
+    "lat": 43.58986,
+    "lng": 13.49413
+  },
+  {
+    "name": "Pineto",
+    "country": "IT",
+    "lat": 42.60879,
+    "lng": 14.06639
+  },
+  {
+    "name": "Pinerolo",
+    "country": "IT",
+    "lat": 44.88534,
+    "lng": 7.33135
+  },
+  {
+    "name": "Pincara",
+    "country": "IT",
+    "lat": 45.00064,
+    "lng": 11.62101
+  },
+  {
+    "name": "Pinarella",
+    "country": "IT",
+    "lat": 44.24167,
+    "lng": 12.37111
+  },
+  {
+    "name": "Pimonte",
+    "country": "IT",
+    "lat": 40.67361,
+    "lng": 14.50984
+  },
+  {
+    "name": "Pila",
+    "country": "IT",
+    "lat": 43.05329,
+    "lng": 12.32857
+  },
+  {
+    "name": "Pigra",
+    "country": "IT",
+    "lat": 45.95735,
+    "lng": 9.12649
+  },
+  {
+    "name": "Pignone",
+    "country": "IT",
+    "lat": 44.1778,
+    "lng": 9.72327
+  },
+  {
+    "name": "Pignola",
+    "country": "IT",
+    "lat": 40.57412,
+    "lng": 15.78295
+  },
+  {
+    "name": "Pignataro Maggiore",
+    "country": "IT",
+    "lat": 41.19006,
+    "lng": 14.16978
+  },
+  {
+    "name": "Pignataro Interamna",
+    "country": "IT",
+    "lat": 41.43922,
+    "lng": 13.78621
+  },
+  {
+    "name": "Pigna",
+    "country": "IT",
+    "lat": 43.93205,
+    "lng": 7.66123
+  },
+  {
+    "name": "Piglio",
+    "country": "IT",
+    "lat": 41.83006,
+    "lng": 13.1333
+  },
+  {
+    "name": "Pieve Vergonte",
+    "country": "IT",
+    "lat": 46.01298,
+    "lng": 8.26082
+  },
+  {
+    "name": "Pieve Torina",
+    "country": "IT",
+    "lat": 43.04299,
+    "lng": 13.04769
+  },
+  {
+    "name": "Pieve Tesino",
+    "country": "IT",
+    "lat": 46.0682,
+    "lng": 11.61122
+  },
+  {
+    "name": "Pieve Santo Stefano",
+    "country": "IT",
+    "lat": 43.67145,
+    "lng": 12.04124
+  },
+  {
+    "name": "Pieve San Giacomo",
+    "country": "IT",
+    "lat": 45.13204,
+    "lng": 10.18775
+  },
+  {
+    "name": "Pieve Porto Morone",
+    "country": "IT",
+    "lat": 45.10979,
+    "lng": 9.44019
+  },
+  {
+    "name": "Pievepelago",
+    "country": "IT",
+    "lat": 44.20475,
+    "lng": 10.6166
+  },
+  {
+    "name": "Pieve Ligure",
+    "country": "IT",
+    "lat": 44.37494,
+    "lng": 9.0941
+  },
+  {
+    "name": "Pieve Fosciana",
+    "country": "IT",
+    "lat": 44.13067,
+    "lng": 10.40952
+  },
+  {
+    "name": "Pieve d'Olmi",
+    "country": "IT",
+    "lat": 45.08957,
+    "lng": 10.12368
+  },
+  {
+    "name": "Pieve di Teco",
+    "country": "IT",
+    "lat": 44.04706,
+    "lng": 7.91564
+  },
+  {
+    "name": "Pieve di Soligo",
+    "country": "IT",
+    "lat": 45.89836,
+    "lng": 12.17128
+  },
+  {
+    "name": "Pieve di Cento",
+    "country": "IT",
+    "lat": 44.71293,
+    "lng": 11.30922
+  },
+  {
+    "name": "Pieve di Cadore",
+    "country": "IT",
+    "lat": 46.42466,
+    "lng": 12.36416
+  },
+  {
+    "name": "Pieve del Cairo",
+    "country": "IT",
+    "lat": 45.0492,
+    "lng": 8.80322
+  },
+  {
+    "name": "Pieve d'Alpago",
+    "country": "IT",
+    "lat": 46.16658,
+    "lng": 12.35344
+  },
+  {
+    "name": "Pievebovigliana",
+    "country": "IT",
+    "lat": 43.06287,
+    "lng": 13.08375
+  },
+  {
+    "name": "Pieve Albignola",
+    "country": "IT",
+    "lat": 45.11316,
+    "lng": 8.95999
+  },
+  {
+    "name": "Pieve",
+    "country": "IT",
+    "lat": 45.77273,
+    "lng": 10.75913
+  },
+  {
+    "name": "Pietrelcina",
+    "country": "IT",
+    "lat": 41.19942,
+    "lng": 14.84414
+  },
+  {
+    "name": "Pietravairano",
+    "country": "IT",
+    "lat": 41.32522,
+    "lng": 14.16592
+  },
+  {
+    "name": "Pietrastornina",
+    "country": "IT",
+    "lat": 40.99535,
+    "lng": 14.71833
+  },
+  {
+    "name": "Pietrasanta",
+    "country": "IT",
+    "lat": 43.95952,
+    "lng": 10.22784
+  },
+  {
+    "name": "Pietraporzio",
+    "country": "IT",
+    "lat": 44.34352,
+    "lng": 7.03433
+  },
+  {
+    "name": "Pietrapertosa",
+    "country": "IT",
+    "lat": 40.51731,
+    "lng": 16.06244
+  },
+  {
+    "name": "Pietranico",
+    "country": "IT",
+    "lat": 42.27565,
+    "lng": 13.91077
+  },
+  {
+    "name": "Pietramurata",
+    "country": "IT",
+    "lat": 46.02033,
+    "lng": 10.94316
+  },
+  {
+    "name": "Pietramontecorvino",
+    "country": "IT",
+    "lat": 41.54228,
+    "lng": 15.12894
+  },
+  {
+    "name": "Pietramelara",
+    "country": "IT",
+    "lat": 41.27086,
+    "lng": 14.18711
+  },
+  {
+    "name": "Pietralunga",
+    "country": "IT",
+    "lat": 43.43609,
+    "lng": 12.42921
+  },
+  {
+    "name": "Pietra Ligure",
+    "country": "IT",
+    "lat": 44.1492,
+    "lng": 8.28206
+  },
+  {
+    "name": "Pietra la Croce",
+    "country": "IT",
+    "lat": 43.60224,
+    "lng": 13.53887
+  },
+  {
+    "name": "Pietragalla",
+    "country": "IT",
+    "lat": 40.74572,
+    "lng": 15.87398
+  },
+  {
+    "name": "Pietraferrazzana",
+    "country": "IT",
+    "lat": 41.96943,
+    "lng": 14.37451
+  },
+  {
+    "name": "Pietra de' Giorgi",
+    "country": "IT",
+    "lat": 45.02136,
+    "lng": 9.23036
+  },
+  {
+    "name": "Pietradefusi",
+    "country": "IT",
+    "lat": 41.04316,
+    "lng": 14.88415
+  },
+  {
+    "name": "Pietracuta",
+    "country": "IT",
+    "lat": 43.954,
+    "lng": 12.37138
+  },
+  {
+    "name": "Pietracupa",
+    "country": "IT",
+    "lat": 41.68253,
+    "lng": 14.51933
+  },
+  {
+    "name": "Pietracatella",
+    "country": "IT",
+    "lat": 41.58064,
+    "lng": 14.87298
+  },
+  {
+    "name": "Pietracamela",
+    "country": "IT",
+    "lat": 42.52344,
+    "lng": 13.55431
+  },
+  {
+    "name": "Pietrabruna",
+    "country": "IT",
+    "lat": 43.88927,
+    "lng": 7.90319
+  },
+  {
+    "name": "Pietrabbondante",
+    "country": "IT",
+    "lat": 41.74527,
+    "lng": 14.3848
+  },
+  {
+    "name": "Pieris",
+    "country": "IT",
+    "lat": 45.81243,
+    "lng": 13.44917
+  },
+  {
+    "name": "Pienza",
+    "country": "IT",
+    "lat": 43.07873,
+    "lng": 11.67671
+  },
+  {
+    "name": "Piegaro",
+    "country": "IT",
+    "lat": 42.96596,
+    "lng": 12.08409
+  },
+  {
+    "name": "Piedimulera",
+    "country": "IT",
+    "lat": 46.02408,
+    "lng": 8.25897
+  },
+  {
+    "name": "Piedimonte San Germano",
+    "country": "IT",
+    "lat": 41.49796,
+    "lng": 13.75017
+  },
+  {
+    "name": "Piedimonte",
+    "country": "IT",
+    "lat": 41.18886,
+    "lng": 13.89856
+  },
+  {
+    "name": "Piedicavallo",
+    "country": "IT",
+    "lat": 45.68986,
+    "lng": 7.95482
+  },
+  {
+    "name": "Pie' del Sasso",
+    "country": "IT",
+    "lat": 42.99429,
+    "lng": 12.99889
+  },
+  {
+    "name": "Pie' del Colle",
+    "country": "IT",
+    "lat": 43.02984,
+    "lng": 13.17535
+  },
+  {
+    "name": "Piea",
+    "country": "IT",
+    "lat": 45.02706,
+    "lng": 8.07146
+  },
+  {
+    "name": "Pico",
+    "country": "IT",
+    "lat": 41.45025,
+    "lng": 13.55894
+  },
+  {
+    "name": "Picinisco",
+    "country": "IT",
+    "lat": 41.64568,
+    "lng": 13.86791
+  },
+  {
+    "name": "Picerno",
+    "country": "IT",
+    "lat": 40.63975,
+    "lng": 15.64232
+  },
+  {
+    "name": "Picciano",
+    "country": "IT",
+    "lat": 42.47525,
+    "lng": 13.9899
+  },
+  {
+    "name": "Piazzola sul Brenta",
+    "country": "IT",
+    "lat": 45.53845,
+    "lng": 11.78437
+  },
+  {
+    "name": "Piazzatorre",
+    "country": "IT",
+    "lat": 45.99273,
+    "lng": 9.68942
+  },
+  {
+    "name": "Piazza Brembana",
+    "country": "IT",
+    "lat": 45.94769,
+    "lng": 9.6733
+  },
+  {
+    "name": "Piazza al Serchio-San Michele",
+    "country": "IT",
+    "lat": 44.18455,
+    "lng": 10.29689
+  },
+  {
+    "name": "Piazza",
+    "country": "IT",
+    "lat": 45.87705,
+    "lng": 11.15809
+  },
+  {
+    "name": "Piazza",
+    "country": "IT",
+    "lat": 45.58725,
+    "lng": 10.15526
+  },
+  {
+    "name": "Piazza",
+    "country": "IT",
+    "lat": 45.21585,
+    "lng": 11.14244
+  },
+  {
+    "name": "Piateda Centro",
+    "country": "IT",
+    "lat": 46.1596,
+    "lng": 9.93495
+  },
+  {
+    "name": "Piasco",
+    "country": "IT",
+    "lat": 44.56106,
+    "lng": 7.4442
+  },
+  {
+    "name": "Pianura",
+    "country": "IT",
+    "lat": 40.85907,
+    "lng": 14.17314
+  },
+  {
+    "name": "Piantedo",
+    "country": "IT",
+    "lat": 46.13663,
+    "lng": 9.4277
+  },
+  {
+    "name": "Piansano",
+    "country": "IT",
+    "lat": 42.52449,
+    "lng": 11.82978
+  },
+  {
+    "name": "Pianoro",
+    "country": "IT",
+    "lat": 44.38893,
+    "lng": 11.34262
+  },
+  {
+    "name": "Pianola",
+    "country": "IT",
+    "lat": 42.32341,
+    "lng": 13.40394
+  },
+  {
+    "name": "Piano di Sorrento",
+    "country": "IT",
+    "lat": 40.62806,
+    "lng": 14.41729
+  },
+  {
+    "name": "Piano di Follo",
+    "country": "IT",
+    "lat": 44.16375,
+    "lng": 9.86188
+  },
+  {
+    "name": "Piano-Molini d'Isola",
+    "country": "IT",
+    "lat": 44.83194,
+    "lng": 8.18073
+  },
+  {
+    "name": "Piano",
+    "country": "IT",
+    "lat": 40.8205,
+    "lng": 14.76005
+  },
+  {
+    "name": "Pianillo",
+    "country": "IT",
+    "lat": 40.63416,
+    "lng": 14.54922
+  },
+  {
+    "name": "Pianiga",
+    "country": "IT",
+    "lat": 45.45708,
+    "lng": 12.00762
+  },
+  {
+    "name": "Piangipane",
+    "country": "IT",
+    "lat": 44.42198,
+    "lng": 12.09066
+  },
+  {
+    "name": "Pianezze",
+    "country": "IT",
+    "lat": 45.74141,
+    "lng": 11.627
+  },
+  {
+    "name": "Pianezza",
+    "country": "IT",
+    "lat": 45.1042,
+    "lng": 7.55003
+  },
+  {
+    "name": "Pianello Val Tidone",
+    "country": "IT",
+    "lat": 44.94666,
+    "lng": 9.40516
+  },
+  {
+    "name": "Pianella",
+    "country": "IT",
+    "lat": 42.39918,
+    "lng": 14.04781
+  },
+  {
+    "name": "Pian di Scò",
+    "country": "IT",
+    "lat": 43.64195,
+    "lng": 11.54523
+  },
+  {
+    "name": "Piandimeleto",
+    "country": "IT",
+    "lat": 43.7232,
+    "lng": 12.40855
+  },
+  {
+    "name": "Piamborno",
+    "country": "IT",
+    "lat": 45.91969,
+    "lng": 10.22526
+  },
+  {
+    "name": "Piancastagnaio",
+    "country": "IT",
+    "lat": 42.85067,
+    "lng": 11.69014
+  },
+  {
+    "name": "Pian Camuno",
+    "country": "IT",
+    "lat": 45.84186,
+    "lng": 10.14181
+  },
+  {
+    "name": "Pianazzo",
+    "country": "IT",
+    "lat": 46.42815,
+    "lng": 9.3442
+  },
+  {
+    "name": "Piana Crixia",
+    "country": "IT",
+    "lat": 44.48504,
+    "lng": 8.30805
+  },
+  {
+    "name": "Piana Battolla",
+    "country": "IT",
+    "lat": 44.19322,
+    "lng": 9.85345
+  },
+  {
+    "name": "Piaggine",
+    "country": "IT",
+    "lat": 40.34498,
+    "lng": 15.37777
+  },
+  {
+    "name": "Piagge",
+    "country": "IT",
+    "lat": 43.73381,
+    "lng": 12.96851
+  },
+  {
+    "name": "Piadena",
+    "country": "IT",
+    "lat": 45.12859,
+    "lng": 10.37101
+  },
+  {
+    "name": "Piacenza d'Adige",
+    "country": "IT",
+    "lat": 45.12749,
+    "lng": 11.54333
+  },
+  {
+    "name": "Piacenza",
+    "country": "IT",
+    "lat": 45.05242,
+    "lng": 9.69342
+  },
+  {
+    "name": "Piazza di Pandola",
+    "country": "IT",
+    "lat": 40.80748,
+    "lng": 14.7718
+  },
+  {
+    "name": "Piano di Coreglia-Ghivizzano",
+    "country": "IT",
+    "lat": 44.03333,
+    "lng": 10.51667
+  },
+  {
+    "name": "Pieve al Toppo",
+    "country": "IT",
+    "lat": 43.40761,
+    "lng": 11.79686
+  },
+  {
+    "name": "Pisignano",
+    "country": "IT",
+    "lat": 44.23787,
+    "lng": 12.26841
+  },
+  {
+    "name": "Piavon",
+    "country": "IT",
+    "lat": 45.76429,
+    "lng": 12.52673
+  },
+  {
+    "name": "Pieria-Prato Carnico",
+    "country": "IT",
+    "lat": 46.52037,
+    "lng": 12.80328
+  },
+  {
+    "name": "Pieve Emanuele",
+    "country": "IT",
+    "lat": 45.35052,
+    "lng": 9.20268
+  },
+  {
+    "name": "Pieve a Nievole",
+    "country": "IT",
+    "lat": 43.88119,
+    "lng": 10.7999
+  },
+  {
+    "name": "Pino Torinese",
+    "country": "IT",
+    "lat": 45.03955,
+    "lng": 7.77712
+  },
+  {
+    "name": "Piedimonte Matese",
+    "country": "IT",
+    "lat": 41.35082,
+    "lng": 14.36803
+  },
+  {
+    "name": "Pinasca-Dubbione",
+    "country": "IT",
+    "lat": 44.94264,
+    "lng": 7.22912
+  },
+  {
+    "name": "Piovà Massaia",
+    "country": "IT",
+    "lat": 45.05515,
+    "lng": 8.05013
+  },
+  {
+    "name": "Pieve di Zignago",
+    "country": "IT",
+    "lat": 44.2779,
+    "lng": 9.74573
+  },
+  {
+    "name": "Pianello del Lario",
+    "country": "IT",
+    "lat": 46.10279,
+    "lng": 9.27694
+  },
+  {
+    "name": "Pianico",
+    "country": "IT",
+    "lat": 45.80989,
+    "lng": 10.04306
+  },
+  {
+    "name": "Piario",
+    "country": "IT",
+    "lat": 45.89649,
+    "lng": 9.92726
+  },
+  {
+    "name": "Piazzolo",
+    "country": "IT",
+    "lat": 45.97979,
+    "lng": 9.67055
+  },
+  {
+    "name": "Pieve di Bono",
+    "country": "IT",
+    "lat": 45.9422,
+    "lng": 10.64027
+  },
+  {
+    "name": "Pieve di Coriano",
+    "country": "IT",
+    "lat": 45.03388,
+    "lng": 11.1078
+  },
+  {
+    "name": "Pianfei",
+    "country": "IT",
+    "lat": 44.37203,
+    "lng": 7.71143
+  },
+  {
+    "name": "Pietra Marazzi",
+    "country": "IT",
+    "lat": 44.94265,
+    "lng": 8.66854
+  },
+  {
+    "name": "Piovera",
+    "country": "IT",
+    "lat": 44.95845,
+    "lng": 8.73595
+  },
+  {
+    "name": "Pinarolo Po",
+    "country": "IT",
+    "lat": 45.06986,
+    "lng": 9.16725
+  },
+  {
+    "name": "Pianengo",
+    "country": "IT",
+    "lat": 45.40217,
+    "lng": 9.69476
+  },
+  {
+    "name": "Pieranica",
+    "country": "IT",
+    "lat": 45.42617,
+    "lng": 9.61026
+  },
+  {
+    "name": "Pila",
+    "country": "IT",
+    "lat": 45.76997,
+    "lng": 8.08122
+  },
+  {
+    "name": "Pietraroja",
+    "country": "IT",
+    "lat": 41.34782,
+    "lng": 14.54963
+  },
+  {
+    "name": "Piatto",
+    "country": "IT",
+    "lat": 45.58986,
+    "lng": 8.13532
+  },
+  {
+    "name": "Pieve Fissiraga",
+    "country": "IT",
+    "lat": 45.26327,
+    "lng": 9.45836
+  },
+  {
+    "name": "Piobesi Torinese",
+    "country": "IT",
+    "lat": 44.93294,
+    "lng": 7.61012
+  },
+  {
+    "name": "Piscina",
+    "country": "IT",
+    "lat": 44.91874,
+    "lng": 7.42532
+  },
+  {
+    "name": "Piverone",
+    "country": "IT",
+    "lat": 45.44557,
+    "lng": 8.00745
+  },
+  {
+    "name": "Pisano",
+    "country": "IT",
+    "lat": 45.79567,
+    "lng": 8.51487
+  },
+  {
+    "name": "Piozzo",
+    "country": "IT",
+    "lat": 44.51384,
+    "lng": 7.89254
+  },
+  {
+    "name": "Pino d'Asti",
+    "country": "IT",
+    "lat": 45.05745,
+    "lng": 7.98623
+  },
+  {
+    "name": "Piana di Monte Verna",
+    "country": "IT",
+    "lat": 41.16712,
+    "lng": 14.33373
+  },
+  {
+    "name": "Pizzale",
+    "country": "IT",
+    "lat": 45.03856,
+    "lng": 9.04995
+  },
+  {
+    "name": "Pieve di Ledro",
+    "country": "IT",
+    "lat": 45.88848,
+    "lng": 10.73124
+  },
+  {
+    "name": "Pianello Vallesina",
+    "country": "IT",
+    "lat": 43.48817,
+    "lng": 13.16188
+  },
+  {
+    "name": "Pianoconte",
+    "country": "IT",
+    "lat": 38.47432,
+    "lng": 14.92857
+  },
+  {
+    "name": "Piane di Morro",
+    "country": "IT",
+    "lat": 42.82317,
+    "lng": 13.653
+  },
+  {
+    "name": "Piazza",
+    "country": "IT",
+    "lat": 45.50933,
+    "lng": 10.42408
+  },
+  {
+    "name": "Piattoni-Villa Sant'Antonio",
+    "country": "IT",
+    "lat": 42.8663,
+    "lng": 13.7112
+  },
+  {
+    "name": "Piazza del Galdo-Sant'Angelo",
+    "country": "IT",
+    "lat": 40.7739,
+    "lng": 14.71696
+  },
+  {
+    "name": "Piazzola",
+    "country": "IT",
+    "lat": 40.87265,
+    "lng": 14.50016
+  },
+  {
+    "name": "Piazza-Tralia-Pendolo",
+    "country": "IT",
+    "lat": 40.67351,
+    "lng": 14.50455
+  },
+  {
+    "name": "Piazza Roma",
+    "country": "IT",
+    "lat": 40.70434,
+    "lng": 14.543
+  },
+  {
+    "name": "Piazza Caduti",
+    "country": "IT",
+    "lat": 45.70513,
+    "lng": 9.50251
+  },
+  {
+    "name": "Pieve",
+    "country": "IT",
+    "lat": 45.53924,
+    "lng": 11.8293
+  },
+  {
+    "name": "Pionca",
+    "country": "IT",
+    "lat": 45.46591,
+    "lng": 11.96232
+  },
+  {
+    "name": "Piano dei Geli",
+    "country": "IT",
+    "lat": 38.09919,
+    "lng": 13.27478
+  },
+  {
+    "name": "Piediripa",
+    "country": "IT",
+    "lat": 43.27751,
+    "lng": 13.48712
+  },
+  {
+    "name": "Pizzano",
+    "country": "IT",
+    "lat": 44.355,
+    "lng": 11.41499
+  },
+  {
+    "name": "Piano Maglio-Blandino",
+    "country": "IT",
+    "lat": 38.05793,
+    "lng": 13.30909
+  },
+  {
+    "name": "Piana San Raffaele",
+    "country": "IT",
+    "lat": 45.1529,
+    "lng": 7.85013
+  },
+  {
+    "name": "Piano di Conca",
+    "country": "IT",
+    "lat": 43.89413,
+    "lng": 10.29493
+  },
+  {
+    "name": "Pineta",
+    "country": "IT",
+    "lat": 46.43994,
+    "lng": 11.34727
+  },
+  {
+    "name": "Piangaiano",
+    "country": "IT",
+    "lat": 45.78877,
+    "lng": 9.99461
+  },
+  {
+    "name": "Piegolelle-San Bartolomeo",
+    "country": "IT",
+    "lat": 40.68583,
+    "lng": 14.82312
+  },
+  {
+    "name": "Piane",
+    "country": "IT",
+    "lat": 43.09703,
+    "lng": 13.49502
+  },
+  {
+    "name": "Piazza",
+    "country": "IT",
+    "lat": 44.38597,
+    "lng": 7.83163
+  },
+  {
+    "name": "Pianura Vomano",
+    "country": "IT",
+    "lat": 42.63028,
+    "lng": 13.91548
+  },
+  {
+    "name": "Pievedizio",
+    "country": "IT",
+    "lat": 45.46062,
+    "lng": 10.08771
+  },
+  {
+    "name": "Pietre",
+    "country": "IT",
+    "lat": 40.70048,
+    "lng": 14.61993
+  },
+  {
+    "name": "Pian di Mugnone",
+    "country": "IT",
+    "lat": 43.8181,
+    "lng": 11.29585
+  },
+  {
+    "name": "Pilastro",
+    "country": "IT",
+    "lat": 44.68254,
+    "lng": 10.28879
+  },
+  {
+    "name": "Pianello",
+    "country": "IT",
+    "lat": 43.6262,
+    "lng": 13.13068
+  },
+  {
+    "name": "Pitelli",
+    "country": "IT",
+    "lat": 44.09458,
+    "lng": 9.8849
+  },
+  {
+    "name": "Piano",
+    "country": "IT",
+    "lat": 44.3168,
+    "lng": 8.16639
+  },
+  {
+    "name": "Piccarello",
+    "country": "IT",
+    "lat": 44.48392,
+    "lng": 8.96595
+  },
+  {
+    "name": "Piazzolla",
+    "country": "IT",
+    "lat": 40.88964,
+    "lng": 14.51579
+  },
+  {
+    "name": "Pie' Falcade",
+    "country": "IT",
+    "lat": 46.3566,
+    "lng": 11.87207
+  },
+  {
+    "name": "Piano di Mommio",
+    "country": "IT",
+    "lat": 43.90954,
+    "lng": 10.27435
+  },
+  {
+    "name": "Piedimonte San Germano Alta",
+    "country": "IT",
+    "lat": 41.50446,
+    "lng": 13.74909
+  },
+  {
+    "name": "Piane di Montegiorgio",
+    "country": "IT",
+    "lat": 43.11587,
+    "lng": 13.56669
+  },
+  {
+    "name": "Pippu",
+    "country": "JP",
+    "lat": 43.86944,
+    "lng": 142.47389
+  },
+  {
+    "name": "Pierrot",
+    "country": "LC",
+    "lat": 13.77111,
+    "lng": -60.94393
+  },
+  {
+    "name": "Pita Kotte",
+    "country": "LK",
+    "lat": 6.8905,
+    "lng": 79.9015
+  },
+  {
+    "name": "Pitseng",
+    "country": "LS",
+    "lat": -29.00699,
+    "lng": 28.21328
+  },
+  {
+    "name": "Pilaitė",
+    "country": "LT",
+    "lat": 54.69981,
+    "lng": 25.18393
+  },
+  {
+    "name": "Piņķi",
+    "country": "LV",
+    "lat": 56.94189,
+    "lng": 23.91365
+  },
+  {
+    "name": "Pirok",
+    "country": "MK",
+    "lat": 41.91083,
+    "lng": 20.91056
+  },
+  {
+    "name": "Pirava",
+    "country": "MK",
+    "lat": 41.32042,
+    "lng": 22.53047
+  },
+  {
+    "name": "Pietà",
+    "country": "MT",
+    "lat": 35.89297,
+    "lng": 14.49362
+  },
+  {
+    "name": "Piton",
+    "country": "MU",
+    "lat": -20.09028,
+    "lng": 57.63028
+  },
+  {
+    "name": "Picholco",
+    "country": "MX",
+    "lat": 21.38797,
+    "lng": -98.85338
+  },
+  {
+    "name": "Pinotepa Nacional",
+    "country": "MX",
+    "lat": 16.34014,
+    "lng": -98.05297
+  },
+  {
+    "name": "Pino Suárez",
+    "country": "MX",
+    "lat": 20.24577,
+    "lng": -99.42107
+  },
+  {
+    "name": "Pixoy",
+    "country": "MX",
+    "lat": 20.71642,
+    "lng": -88.26431
+  },
+  {
+    "name": "Piste",
+    "country": "MX",
+    "lat": 20.69972,
+    "lng": -88.58889
+  },
+  {
+    "name": "Pisaflores",
+    "country": "MX",
+    "lat": 21.19417,
+    "lng": -99.00551
+  },
+  {
+    "name": "Pinotepa de Don Luis",
+    "country": "MX",
+    "lat": 16.42716,
+    "lng": -97.97678
+  },
+  {
+    "name": "Pinal de Amoles",
+    "country": "MX",
+    "lat": 21.13509,
+    "lng": -99.62712
+  },
+  {
+    "name": "Pijijiapan",
+    "country": "MX",
+    "lat": 15.68618,
+    "lng": -93.20938
+  },
+  {
+    "name": "Piedras Negras",
+    "country": "MX",
+    "lat": 18.77026,
+    "lng": -96.17178
+  },
+  {
+    "name": "Piedra Pinta",
+    "country": "MX",
+    "lat": 19.99115,
+    "lng": -97.19538
+  },
+  {
+    "name": "Piedra Parada",
+    "country": "MX",
+    "lat": 19.34654,
+    "lng": -96.96013
+  },
+  {
+    "name": "Piedra Labrada",
+    "country": "MX",
+    "lat": 15.68226,
+    "lng": -92.30538
+  },
+  {
+    "name": "Pichucalco",
+    "country": "MX",
+    "lat": 17.51,
+    "lng": -93.11591
+  },
+  {
+    "name": "Pich",
+    "country": "MX",
+    "lat": 19.48568,
+    "lng": -90.11795
+  },
+  {
+    "name": "Piaxtla",
+    "country": "MX",
+    "lat": 18.19922,
+    "lng": -98.25416
+  },
+  {
+    "name": "Piedra de Amolar",
+    "country": "MX",
+    "lat": 18.12,
+    "lng": -96.45122
+  },
+  {
+    "name": "Pilcaya",
+    "country": "MX",
+    "lat": 18.74691,
+    "lng": -99.67501
+  },
+  {
+    "name": "Pisaflores",
+    "country": "MX",
+    "lat": 20.60941,
+    "lng": -97.92782
+  },
+  {
+    "name": "Piedra Gorda",
+    "country": "MX",
+    "lat": 22.50888,
+    "lng": -102.33158
+  },
+  {
+    "name": "Piaxtla de Abajo",
+    "country": "MX",
+    "lat": 23.83257,
+    "lng": -106.65984
+  },
+  {
+    "name": "Pichátaro",
+    "country": "MX",
+    "lat": 19.57289,
+    "lng": -101.80737
+  },
+  {
+    "name": "Pitiquito",
+    "country": "MX",
+    "lat": 30.67664,
+    "lng": -112.05454
+  },
+  {
+    "name": "Pinzándaro",
+    "country": "MX",
+    "lat": 19.10928,
+    "lng": -102.54082
+  },
+  {
+    "name": "Pinos",
+    "country": "MX",
+    "lat": 22.29882,
+    "lng": -101.57481
+  },
+  {
+    "name": "Piñícuaro",
+    "country": "MX",
+    "lat": 20.04751,
+    "lng": -101.24097
+  },
+  {
+    "name": "Pihuamo",
+    "country": "MX",
+    "lat": 19.24991,
+    "lng": -103.38275
+  },
+  {
+    "name": "Piedras Negras",
+    "country": "MX",
+    "lat": 28.70007,
+    "lng": -100.52353
+  },
+  {
+    "name": "Piedras Negras",
+    "country": "MX",
+    "lat": 20.43059,
+    "lng": -101.39158
+  },
+  {
+    "name": "Piedra Pesada",
+    "country": "MX",
+    "lat": 19.54975,
+    "lng": -104.47728
+  },
+  {
+    "name": "Piscila",
+    "country": "MX",
+    "lat": 19.15889,
+    "lng": -103.70105
+  },
+  {
+    "name": "Picardías",
+    "country": "MX",
+    "lat": 25.32445,
+    "lng": -103.48614
+  },
+  {
+    "name": "Pinto",
+    "country": "MX",
+    "lat": 20.80151,
+    "lng": -100.41152
+  },
+  {
+    "name": "Piedras de Lumbre",
+    "country": "MX",
+    "lat": 20.25097,
+    "lng": -100.59972
+  },
+  {
+    "name": "Pie de Gallo",
+    "country": "MX",
+    "lat": 20.78508,
+    "lng": -100.49407
+  },
+  {
+    "name": "Piletas",
+    "country": "MX",
+    "lat": 19.58806,
+    "lng": -96.97861
+  },
+  {
+    "name": "Pilotos",
+    "country": "MX",
+    "lat": 22.03722,
+    "lng": -101.95917
+  },
+  {
+    "name": "Piedra Blanca",
+    "country": "MX",
+    "lat": 16.98861,
+    "lng": -95.01278
+  },
+  {
+    "name": "Pintillo",
+    "country": "MX",
+    "lat": 20.79667,
+    "lng": -100.41694
+  },
+  {
+    "name": "Pindiga",
+    "country": "NG",
+    "lat": 9.98433,
+    "lng": 10.95229
+  },
+  {
+    "name": "Pijnacker",
+    "country": "NL",
+    "lat": 52.01954,
+    "lng": 4.42946
+  },
+  {
+    "name": "Piershil",
+    "country": "NL",
+    "lat": 51.79333,
+    "lng": 4.31389
+  },
+  {
+    "name": "Pierik",
+    "country": "NL",
+    "lat": 52.50141,
+    "lng": 6.1117
+  },
+  {
+    "name": "Pirongia",
+    "country": "NZ",
+    "lat": -38.0,
+    "lng": 175.2
+  },
+  {
+    "name": "Piha",
+    "country": "NZ",
+    "lat": -36.95,
+    "lng": 174.46667
+  },
+  {
+    "name": "Pine Hill",
+    "country": "NZ",
+    "lat": -45.83838,
+    "lng": 170.5201
+  },
+  {
+    "name": "Picton",
+    "country": "NZ",
+    "lat": -41.29067,
+    "lng": 174.00801
+  },
+  {
+    "name": "Pinehaven",
+    "country": "NZ",
+    "lat": -41.15827,
+    "lng": 175.0002
+  },
+  {
+    "name": "Pinogana",
+    "country": "PA",
+    "lat": 8.11724,
+    "lng": -77.68307
+  },
+  {
+    "name": "Piedras Gordas",
+    "country": "PA",
+    "lat": 8.63886,
+    "lng": -80.51137
+  },
+  {
+    "name": "Piedras Gordas",
+    "country": "PA",
+    "lat": 8.52625,
+    "lng": -80.91031
+  },
+  {
+    "name": "Piedra Roja",
+    "country": "PA",
+    "lat": 8.5703,
+    "lng": -81.74661
+  },
+  {
+    "name": "Pitaloza Arriba",
+    "country": "PA",
+    "lat": 7.64208,
+    "lng": -80.66903
+  },
+  {
+    "name": "Pilón",
+    "country": "PA",
+    "lat": 7.95679,
+    "lng": -81.07226
+  },
+  {
+    "name": "Piura",
+    "country": "PE",
+    "lat": -5.18192,
+    "lng": -80.65715
+  },
+  {
+    "name": "Piscoyacu",
+    "country": "PE",
+    "lat": -6.97984,
+    "lng": -76.76813
+  },
+  {
+    "name": "Pira",
+    "country": "PE",
+    "lat": -9.58165,
+    "lng": -77.70769
+  },
+  {
+    "name": "Pión",
+    "country": "PE",
+    "lat": -6.16222,
+    "lng": -78.48278
+  },
+  {
+    "name": "Pimentel",
+    "country": "PE",
+    "lat": -6.83667,
+    "lng": -79.93417
+  },
+  {
+    "name": "Pilluana",
+    "country": "PE",
+    "lat": -6.7775,
+    "lng": -76.29056
+  },
+  {
+    "name": "Picsi",
+    "country": "PE",
+    "lat": -6.71778,
+    "lng": -79.76972
+  },
+  {
+    "name": "Picota",
+    "country": "PE",
+    "lat": -6.92033,
+    "lng": -76.33142
+  },
+  {
+    "name": "Pizacoma",
+    "country": "PE",
+    "lat": -16.90865,
+    "lng": -69.36974
+  },
+  {
+    "name": "Pitumarca",
+    "country": "PE",
+    "lat": -13.98041,
+    "lng": -71.41738
+  },
+  {
+    "name": "Pisco",
+    "country": "PE",
+    "lat": -13.71029,
+    "lng": -76.20538
+  },
+  {
+    "name": "Pisac",
+    "country": "PE",
+    "lat": -13.4225,
+    "lng": -71.84667
+  },
+  {
+    "name": "Pirca",
+    "country": "PE",
+    "lat": -11.23444,
+    "lng": -76.65556
+  },
+  {
+    "name": "Pilpichaca",
+    "country": "PE",
+    "lat": -13.33019,
+    "lng": -74.97699
+  },
+  {
+    "name": "Pillpinto",
+    "country": "PE",
+    "lat": -13.95328,
+    "lng": -71.762
+  },
+  {
+    "name": "Pillcopata",
+    "country": "PE",
+    "lat": -13.06667,
+    "lng": -71.16667
+  },
+  {
+    "name": "Pilcuyo",
+    "country": "PE",
+    "lat": -16.11043,
+    "lng": -69.55424
+  },
+  {
+    "name": "Pilcomayo",
+    "country": "PE",
+    "lat": -12.04722,
+    "lng": -75.24931
+  },
+  {
+    "name": "Pilchaca",
+    "country": "PE",
+    "lat": -12.40118,
+    "lng": -75.08383
+  },
+  {
+    "name": "Pichirhua",
+    "country": "PE",
+    "lat": -13.86083,
+    "lng": -73.07361
+  },
+  {
+    "name": "Pichihua",
+    "country": "PE",
+    "lat": -14.14826,
+    "lng": -73.17387
+  },
+  {
+    "name": "Pichigua",
+    "country": "PE",
+    "lat": -14.68139,
+    "lng": -71.41694
+  },
+  {
+    "name": "Pichari",
+    "country": "PE",
+    "lat": -12.5,
+    "lng": -73.81667
+  },
+  {
+    "name": "Pichos",
+    "country": "PE",
+    "lat": -12.23617,
+    "lng": -74.93874
+  },
+  {
+    "name": "Pilcomayo",
+    "country": "PE",
+    "lat": -9.04728,
+    "lng": -77.81092
+  },
+  {
+    "name": "Pimpingos",
+    "country": "PE",
+    "lat": -6.06197,
+    "lng": -78.75834
+  },
+  {
+    "name": "Pirae",
+    "country": "PF",
+    "lat": -17.52985,
+    "lng": -149.55119
+  },
+  {
+    "name": "Pitogo",
+    "country": "PH",
+    "lat": 10.1214,
+    "lng": 124.5533
+  },
+  {
+    "name": "Pitogo",
+    "country": "PH",
+    "lat": 5.88823,
+    "lng": 121.31215
+  },
+  {
+    "name": "Pitogo",
+    "country": "PH",
+    "lat": 13.7838,
+    "lng": 122.0902
+  },
+  {
+    "name": "Pitogo",
+    "country": "PH",
+    "lat": 12.50744,
+    "lng": 121.09041
+  },
+  {
+    "name": "Pitogo",
+    "country": "PH",
+    "lat": 7.4546,
+    "lng": 123.3111
+  },
+  {
+    "name": "Pio Duran",
+    "country": "PH",
+    "lat": 13.02928,
+    "lng": 123.44496
+  },
+  {
+    "name": "Pio",
+    "country": "PH",
+    "lat": 15.04741,
+    "lng": 120.51891
+  },
+  {
+    "name": "Pinukpuk",
+    "country": "PH",
+    "lat": 17.61667,
+    "lng": 121.4
+  },
+  {
+    "name": "Pinugay",
+    "country": "PH",
+    "lat": 14.5967,
+    "lng": 121.2623
+  },
+  {
+    "name": "Pintuyan",
+    "country": "PH",
+    "lat": 9.9441,
+    "lng": 125.2494
+  },
+  {
+    "name": "Pinoma",
+    "country": "PH",
+    "lat": 16.87421,
+    "lng": 121.70669
+  },
+  {
+    "name": "Pinokawan",
+    "country": "PH",
+    "lat": 10.34117,
+    "lng": 123.2939
+  },
+  {
+    "name": "Pinit",
+    "country": "PH",
+    "lat": 13.5686,
+    "lng": 123.414
+  },
+  {
+    "name": "Pinili",
+    "country": "PH",
+    "lat": 17.9517,
+    "lng": 120.5278
+  },
+  {
+    "name": "Pines",
+    "country": "PH",
+    "lat": 8.45222,
+    "lng": 123.8075
+  },
+  {
+    "name": "Pindangan Centro",
+    "country": "PH",
+    "lat": 15.86056,
+    "lng": 120.55139
+  },
+  {
+    "name": "Pinayagan Norte",
+    "country": "PH",
+    "lat": 9.93333,
+    "lng": 123.95
+  },
+  {
+    "name": "Pinaring",
+    "country": "PH",
+    "lat": 7.22889,
+    "lng": 124.31056
+  },
+  {
+    "name": "Pinamungahan",
+    "country": "PH",
+    "lat": 10.2708,
+    "lng": 123.5839
+  },
+  {
+    "name": "Pinamopoan",
+    "country": "PH",
+    "lat": 11.31472,
+    "lng": 124.57389
+  },
+  {
+    "name": "Pinambaran",
+    "country": "PH",
+    "lat": 15.20233,
+    "lng": 120.97797
+  },
+  {
+    "name": "Pinamalayan",
+    "country": "PH",
+    "lat": 13.04603,
+    "lng": 121.46205
+  },
+  {
+    "name": "Piñahan",
+    "country": "PH",
+    "lat": 15.6266,
+    "lng": 121.0621
+  },
+  {
+    "name": "Pinagsibaan",
+    "country": "PH",
+    "lat": 13.83479,
+    "lng": 121.32118
+  },
+  {
+    "name": "Pinagsabangan",
+    "country": "PH",
+    "lat": 13.26559,
+    "lng": 121.26812
+  },
+  {
+    "name": "Piña",
+    "country": "PH",
+    "lat": 10.63956,
+    "lng": 122.6382
+  },
+  {
+    "name": "Pimbalayan",
+    "country": "PH",
+    "lat": 6.86917,
+    "lng": 124.6725
+  },
+  {
+    "name": "Pililla",
+    "country": "PH",
+    "lat": 14.4854,
+    "lng": 121.3062
+  },
+  {
+    "name": "Pilig",
+    "country": "PH",
+    "lat": 17.34278,
+    "lng": 121.77389
+  },
+  {
+    "name": "Pili",
+    "country": "PH",
+    "lat": 13.66667,
+    "lng": 123.31667
+  },
+  {
+    "name": "Pili",
+    "country": "PH",
+    "lat": 13.0664,
+    "lng": 121.52032
+  },
+  {
+    "name": "Pili",
+    "country": "PH",
+    "lat": 12.98056,
+    "lng": 123.86417
+  },
+  {
+    "name": "Pili",
+    "country": "PH",
+    "lat": 11.1196,
+    "lng": 123.0147
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 17.4165,
+    "lng": 120.5954
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 14.66,
+    "lng": 120.56528
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 12.9231,
+    "lng": 123.6724
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 11.487,
+    "lng": 122.9963
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 10.8065,
+    "lng": 124.5661
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 9.865,
+    "lng": 126.09944
+  },
+  {
+    "name": "Pilar",
+    "country": "PH",
+    "lat": 9.829,
+    "lng": 124.3273
+  },
+  {
+    "name": "Pila",
+    "country": "PH",
+    "lat": 14.2325,
+    "lng": 121.3648
+  },
+  {
+    "name": "Pikit",
+    "country": "PH",
+    "lat": 7.05444,
+    "lng": 124.67194
+  },
+  {
+    "name": "Pigcawayan",
+    "country": "PH",
+    "lat": 7.27722,
+    "lng": 124.42556
+  },
+  {
+    "name": "Pidsandawan",
+    "country": "PH",
+    "lat": 6.93222,
+    "lng": 124.59083
+  },
+  {
+    "name": "Pidigan",
+    "country": "PH",
+    "lat": 17.57,
+    "lng": 120.5903
+  },
+  {
+    "name": "Piddig",
+    "country": "PH",
+    "lat": 18.1655,
+    "lng": 120.7175
+  },
+  {
+    "name": "Piat",
+    "country": "PH",
+    "lat": 17.7905,
+    "lng": 121.478
+  },
+  {
+    "name": "Pias",
+    "country": "PH",
+    "lat": 15.34525,
+    "lng": 121.07473
+  },
+  {
+    "name": "Pias",
+    "country": "PH",
+    "lat": 15.01699,
+    "lng": 120.56238
+  },
+  {
+    "name": "Piape I",
+    "country": "PH",
+    "lat": 10.7288,
+    "lng": 121.9724
+  },
+  {
+    "name": "Piña",
+    "country": "PH",
+    "lat": 12.19078,
+    "lng": 124.4015
+  },
+  {
+    "name": "Pir Jo Goth",
+    "country": "PK",
+    "lat": 27.59178,
+    "lng": 68.61848
+  },
+  {
+    "name": "Pithoro",
+    "country": "PK",
+    "lat": 25.51122,
+    "lng": 69.37803
+  },
+  {
+    "name": "Pishin",
+    "country": "PK",
+    "lat": 30.58176,
+    "lng": 66.99406
+  },
+  {
+    "name": "Pir Mahal",
+    "country": "PK",
+    "lat": 30.76663,
+    "lng": 72.43455
+  },
+  {
+    "name": "Pindi Gheb",
+    "country": "PK",
+    "lat": 33.24095,
+    "lng": 72.2648
+  },
+  {
+    "name": "Pindi Bhattian",
+    "country": "PK",
+    "lat": 31.89844,
+    "lng": 73.27339
+  },
+  {
+    "name": "Pind Dadan Khan",
+    "country": "PK",
+    "lat": 32.58662,
+    "lng": 73.04456
+  },
+  {
+    "name": "Piwniczna-Zdrój",
+    "country": "PL",
+    "lat": 49.44056,
+    "lng": 20.71423
+  },
+  {
+    "name": "Piszczac",
+    "country": "PL",
+    "lat": 51.98118,
+    "lng": 23.37719
+  },
+  {
+    "name": "Pisz",
+    "country": "PL",
+    "lat": 53.62744,
+    "lng": 21.81253
+  },
+  {
+    "name": "Piskorowice",
+    "country": "PL",
+    "lat": 50.23579,
+    "lng": 22.52867
+  },
+  {
+    "name": "Pionki",
+    "country": "PL",
+    "lat": 51.47604,
+    "lng": 21.44995
+  },
+  {
+    "name": "Pińczów",
+    "country": "PL",
+    "lat": 50.52052,
+    "lng": 20.52649
+  },
+  {
+    "name": "Pilzno",
+    "country": "PL",
+    "lat": 49.97883,
+    "lng": 21.29228
+  },
+  {
+    "name": "Pilawa",
+    "country": "PL",
+    "lat": 51.95945,
+    "lng": 21.53089
+  },
+  {
+    "name": "Pierzchnica",
+    "country": "PL",
+    "lat": 50.69754,
+    "lng": 20.75489
+  },
+  {
+    "name": "Pieniężno",
+    "country": "PL",
+    "lat": 54.23649,
+    "lng": 20.12833
+  },
+  {
+    "name": "Piekoszów",
+    "country": "PL",
+    "lat": 50.88035,
+    "lng": 20.46418
+  },
+  {
+    "name": "Piecki",
+    "country": "PL",
+    "lat": 53.75759,
+    "lng": 21.33914
+  },
+  {
+    "name": "Piątnica",
+    "country": "PL",
+    "lat": 53.19657,
+    "lng": 22.09591
+  },
+  {
+    "name": "Piastów",
+    "country": "PL",
+    "lat": 52.18435,
+    "lng": 20.83952
+  },
+  {
+    "name": "Piaski",
+    "country": "PL",
+    "lat": 51.13892,
+    "lng": 22.84856
+  },
+  {
+    "name": "Piaseczno",
+    "country": "PL",
+    "lat": 52.0814,
+    "lng": 21.02397
+  },
+  {
+    "name": "Pisarzowice",
+    "country": "PL",
+    "lat": 51.14479,
+    "lng": 15.23057
+  },
+  {
+    "name": "Pisarzowice",
+    "country": "PL",
+    "lat": 49.88363,
+    "lng": 19.14565
+  },
+  {
+    "name": "Piotrków Trybunalski",
+    "country": "PL",
+    "lat": 51.40547,
+    "lng": 19.70321
+  },
+  {
+    "name": "Piotrków Kujawski",
+    "country": "PL",
+    "lat": 52.55111,
+    "lng": 18.49905
+  },
+  {
+    "name": "Pilica",
+    "country": "PL",
+    "lat": 50.46799,
+    "lng": 19.65729
+  },
+  {
+    "name": "Pilchowo",
+    "country": "PL",
+    "lat": 53.49583,
+    "lng": 14.48025
+  },
+  {
+    "name": "Pilchowice",
+    "country": "PL",
+    "lat": 50.21668,
+    "lng": 18.56132
+  },
+  {
+    "name": "Piława Górna",
+    "country": "PL",
+    "lat": 50.68357,
+    "lng": 16.74359
+  },
+  {
+    "name": "Piła",
+    "country": "PL",
+    "lat": 53.15145,
+    "lng": 16.73782
+  },
+  {
+    "name": "Pietrzykowice",
+    "country": "PL",
+    "lat": 49.69634,
+    "lng": 19.1599
+  },
+  {
+    "name": "Pietrowice Wielkie",
+    "country": "PL",
+    "lat": 50.08452,
+    "lng": 18.09148
+  },
+  {
+    "name": "Pieszyce",
+    "country": "PL",
+    "lat": 50.71287,
+    "lng": 16.58232
+  },
+  {
+    "name": "Pierściec",
+    "country": "PL",
+    "lat": 49.83339,
+    "lng": 18.81409
+  },
+  {
+    "name": "Pieńsk",
+    "country": "PL",
+    "lat": 51.249,
+    "lng": 15.04685
+  },
+  {
+    "name": "Pielgrzymowice",
+    "country": "PL",
+    "lat": 49.90547,
+    "lng": 18.64886
+  },
+  {
+    "name": "Piekielnik",
+    "country": "PL",
+    "lat": 49.47688,
+    "lng": 19.7681
+  },
+  {
+    "name": "Piekary Śląskie",
+    "country": "PL",
+    "lat": 50.38017,
+    "lng": 18.92653
+  },
+  {
+    "name": "Piekary",
+    "country": "PL",
+    "lat": 50.02495,
+    "lng": 19.79616
+  },
+  {
+    "name": "Piechowice",
+    "country": "PL",
+    "lat": 50.84963,
+    "lng": 15.59887
+  },
+  {
+    "name": "Piątek",
+    "country": "PL",
+    "lat": 52.0689,
+    "lng": 19.4797
+  },
+  {
+    "name": "Piaski",
+    "country": "PL",
+    "lat": 51.88497,
+    "lng": 17.07293
+  },
+  {
+    "name": "Piasek",
+    "country": "PL",
+    "lat": 50.01055,
+    "lng": 18.94807
+  },
+  {
+    "name": "Piecki-Migowo",
+    "country": "PL",
+    "lat": 54.35698,
+    "lng": 18.58174
+  },
+  {
+    "name": "Pilczyce",
+    "country": "PL",
+    "lat": 51.13704,
+    "lng": 16.95752
+  },
+  {
+    "name": "Piedra Gorda",
+    "country": "PR",
+    "lat": 18.43411,
+    "lng": -66.88768
+  },
+  {
+    "name": "Pinheiro Grande",
+    "country": "PT",
+    "lat": 39.39212,
+    "lng": -8.4341
+  },
+  {
+    "name": "Pinhal Novo",
+    "country": "PT",
+    "lat": 38.63106,
+    "lng": -8.91376
+  },
+  {
+    "name": "Piedade",
+    "country": "PT",
+    "lat": 38.67005,
+    "lng": -9.15852
+  },
+  {
+    "name": "Pinhel",
+    "country": "PT",
+    "lat": 40.77403,
+    "lng": -7.06675
+  },
+  {
+    "name": "Pinheiro Manso",
+    "country": "PT",
+    "lat": 41.1619,
+    "lng": -8.65188
+  },
+  {
+    "name": "Piribebuy",
+    "country": "PY",
+    "lat": -25.46498,
+    "lng": -57.04183
+  },
+  {
+    "name": "Pirayú",
+    "country": "PY",
+    "lat": -25.48415,
+    "lng": -57.23612
+  },
+  {
+    "name": "Pirapó",
+    "country": "PY",
+    "lat": -26.85842,
+    "lng": -55.54414
+  },
+  {
+    "name": "Pilar",
+    "country": "PY",
+    "lat": -26.85874,
+    "lng": -58.30639
+  },
+  {
+    "name": "Piton Saint-Leu",
+    "country": "RE",
+    "lat": -21.21962,
+    "lng": 55.31513
+  },
+  {
+    "name": "Piteşti",
+    "country": "RO",
+    "lat": 44.85,
+    "lng": 24.86667
+  },
+  {
+    "name": "Piteasca",
+    "country": "RO",
+    "lat": 44.49339,
+    "lng": 26.33025
+  },
+  {
+    "name": "Pitaru",
+    "country": "RO",
+    "lat": 44.59061,
+    "lng": 25.58407
+  },
+  {
+    "name": "Piscu Vechi",
+    "country": "RO",
+    "lat": 43.9,
+    "lng": 23.16667
+  },
+  {
+    "name": "Piscu Sadovei",
+    "country": "RO",
+    "lat": 43.87729,
+    "lng": 23.93687
+  },
+  {
+    "name": "Piscu Nou",
+    "country": "RO",
+    "lat": 43.924,
+    "lng": 23.17917
+  },
+  {
+    "name": "Piscu",
+    "country": "RO",
+    "lat": 45.5,
+    "lng": 27.73333
+  },
+  {
+    "name": "Pişcolt",
+    "country": "RO",
+    "lat": 47.58333,
+    "lng": 22.3
+  },
+  {
+    "name": "Piscoiu",
+    "country": "RO",
+    "lat": 44.85211,
+    "lng": 23.75387
+  },
+  {
+    "name": "Pişchia",
+    "country": "RO",
+    "lat": 45.90306,
+    "lng": 21.33722
+  },
+  {
+    "name": "Pir",
+    "country": "RO",
+    "lat": 47.46667,
+    "lng": 22.36667
+  },
+  {
+    "name": "Pipirig",
+    "country": "RO",
+    "lat": 47.25,
+    "lng": 26.06667
+  },
+  {
+    "name": "Pilu",
+    "country": "RO",
+    "lat": 46.56667,
+    "lng": 21.35
+  },
+  {
+    "name": "Pildești",
+    "country": "RO",
+    "lat": 46.99675,
+    "lng": 26.82558
+  },
+  {
+    "name": "Pietrosu",
+    "country": "RO",
+    "lat": 47.34118,
+    "lng": 26.60817
+  },
+  {
+    "name": "Pietrosu",
+    "country": "RO",
+    "lat": 45.05928,
+    "lng": 26.75827
+  },
+  {
+    "name": "Pietroşiţa",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 25.43333
+  },
+  {
+    "name": "Pietroşani",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 24.85
+  },
+  {
+    "name": "Pietroșani",
+    "country": "RO",
+    "lat": 44.83963,
+    "lng": 26.10382
+  },
+  {
+    "name": "Pietroşani",
+    "country": "RO",
+    "lat": 43.71383,
+    "lng": 25.64409
+  },
+  {
+    "name": "Pietroasele",
+    "country": "RO",
+    "lat": 45.1,
+    "lng": 26.56667
+  },
+  {
+    "name": "Pietroasa",
+    "country": "RO",
+    "lat": 46.58333,
+    "lng": 22.55
+  },
+  {
+    "name": "Pietroasa",
+    "country": "RO",
+    "lat": 45.83333,
+    "lng": 22.4
+  },
+  {
+    "name": "Pietrișu",
+    "country": "RO",
+    "lat": 43.72508,
+    "lng": 25.67464
+  },
+  {
+    "name": "Pietreni",
+    "country": "RO",
+    "lat": 44.09609,
+    "lng": 28.06833
+  },
+  {
+    "name": "Pietrele",
+    "country": "RO",
+    "lat": 44.06258,
+    "lng": 26.12019
+  },
+  {
+    "name": "Pietrarii de Sus",
+    "country": "RO",
+    "lat": 45.11697,
+    "lng": 24.09336
+  },
+  {
+    "name": "Pietrari",
+    "country": "RO",
+    "lat": 45.1,
+    "lng": 24.13333
+  },
+  {
+    "name": "Pietrari",
+    "country": "RO",
+    "lat": 45.09377,
+    "lng": 25.29289
+  },
+  {
+    "name": "Pieleştí",
+    "country": "RO",
+    "lat": 44.33333,
+    "lng": 23.95
+  },
+  {
+    "name": "Picior de Munte",
+    "country": "RO",
+    "lat": 44.78247,
+    "lng": 25.39047
+  },
+  {
+    "name": "Piatra Şoimului",
+    "country": "RO",
+    "lat": 46.83333,
+    "lng": 26.43333
+  },
+  {
+    "name": "Piatra Olt",
+    "country": "RO",
+    "lat": 44.36667,
+    "lng": 24.26667
+  },
+  {
+    "name": "Piatra Neamţ",
+    "country": "RO",
+    "lat": 46.91667,
+    "lng": 26.33333
+  },
+  {
+    "name": "Piatra",
+    "country": "RO",
+    "lat": 44.40492,
+    "lng": 28.56143
+  },
+  {
+    "name": "Piatra",
+    "country": "RO",
+    "lat": 44.36054,
+    "lng": 24.29557
+  },
+  {
+    "name": "Piatra",
+    "country": "RO",
+    "lat": 43.81667,
+    "lng": 25.16667
+  },
+  {
+    "name": "Pianu de Sus",
+    "country": "RO",
+    "lat": 45.9,
+    "lng": 23.48333
+  },
+  {
+    "name": "Pianu de Jos",
+    "country": "RO",
+    "lat": 45.93528,
+    "lng": 23.48912
+  },
+  {
+    "name": "Pietriceaua",
+    "country": "RO",
+    "lat": 45.2191,
+    "lng": 25.80859
+  },
+  {
+    "name": "Pirot",
+    "country": "RS",
+    "lat": 43.15306,
+    "lng": 22.58611
+  },
+  {
+    "name": "Pirot Centralni Trg",
+    "country": "RS",
+    "lat": 43.15635,
+    "lng": 22.58515
+  },
+  {
+    "name": "Pizhma",
+    "country": "RU",
+    "lat": 57.86418,
+    "lng": 47.11714
+  },
+  {
+    "name": "Pizhanka",
+    "country": "RU",
+    "lat": 57.46051,
+    "lng": 48.54147
+  },
+  {
+    "name": "Pitkyaranta",
+    "country": "RU",
+    "lat": 61.57387,
+    "lng": 31.47889
+  },
+  {
+    "name": "Piterka",
+    "country": "RU",
+    "lat": 50.67873,
+    "lng": 47.44357
+  },
+  {
+    "name": "Pitelino",
+    "country": "RU",
+    "lat": 54.57837,
+    "lng": 41.8101
+  },
+  {
+    "name": "Pistsovo",
+    "country": "RU",
+    "lat": 57.17904,
+    "lng": 40.52983
+  },
+  {
+    "name": "Pirogovskiy",
+    "country": "RU",
+    "lat": 55.97806,
+    "lng": 37.73361
+  },
+  {
+    "name": "Pirogovo",
+    "country": "RU",
+    "lat": 56.77959,
+    "lng": 53.14954
+  },
+  {
+    "name": "Pionerskiy",
+    "country": "RU",
+    "lat": 54.95083,
+    "lng": 20.22748
+  },
+  {
+    "name": "Pinyug",
+    "country": "RU",
+    "lat": 60.25095,
+    "lng": 47.78425
+  },
+  {
+    "name": "Pinerovka",
+    "country": "RU",
+    "lat": 51.562,
+    "lng": 43.0689
+  },
+  {
+    "name": "Pinega",
+    "country": "RU",
+    "lat": 64.69969,
+    "lng": 43.39016
+  },
+  {
+    "name": "Pindushi",
+    "country": "RU",
+    "lat": 62.91519,
+    "lng": 34.57996
+  },
+  {
+    "name": "Pil’na",
+    "country": "RU",
+    "lat": 55.55399,
+    "lng": 45.91808
+  },
+  {
+    "name": "Pikalëvo",
+    "country": "RU",
+    "lat": 59.51833,
+    "lng": 34.16639
+  },
+  {
+    "name": "Pichayevo",
+    "country": "RU",
+    "lat": 53.23449,
+    "lng": 42.20338
+  },
+  {
+    "name": "Pirovskoye",
+    "country": "RU",
+    "lat": 57.63012,
+    "lng": 92.26373
+  },
+  {
+    "name": "Pionerskiy",
+    "country": "RU",
+    "lat": 61.19472,
+    "lng": 62.86889
+  },
+  {
+    "name": "Pioner",
+    "country": "RU",
+    "lat": 55.3166,
+    "lng": 85.9508
+  },
+  {
+    "name": "Pivovarikha",
+    "country": "RU",
+    "lat": 52.27056,
+    "lng": 104.44583
+  },
+  {
+    "name": "Piteå",
+    "country": "SE",
+    "lat": 65.31717,
+    "lng": 21.47944
+  },
+  {
+    "name": "Pivka",
+    "country": "SI",
+    "lat": 45.68292,
+    "lng": 14.19588
+  },
+  {
+    "name": "Piran",
+    "country": "SI",
+    "lat": 45.52778,
+    "lng": 13.57056
+  },
+  {
+    "name": "Piešťany",
+    "country": "SK",
+    "lat": 48.59479,
+    "lng": 17.82591
+  },
+  {
+    "name": "Pikine",
+    "country": "SN",
+    "lat": 14.76457,
+    "lng": -17.39071
+  },
+  {
+    "name": "Piedade",
+    "country": "ST",
+    "lat": 0.29581,
+    "lng": 6.66424
+  },
+  {
+    "name": "Piggs Peak",
+    "country": "SZ",
+    "lat": -25.96082,
+    "lng": 31.24666
+  },
+  {
+    "name": "Pirlibey",
+    "country": "TR",
+    "lat": 37.86361,
+    "lng": 28.43278
+  },
+  {
+    "name": "Pirinçli",
+    "country": "TR",
+    "lat": 37.46444,
+    "lng": 39.98318
+  },
+  {
+    "name": "Piraziz",
+    "country": "TR",
+    "lat": 40.95178,
+    "lng": 38.124
+  },
+  {
+    "name": "Piraziz",
+    "country": "TR",
+    "lat": 40.92244,
+    "lng": 38.12458
+  },
+  {
+    "name": "Pizitou",
+    "country": "TW",
+    "lat": 23.48556,
+    "lng": 120.44472
+  },
+  {
+    "name": "Pitou",
+    "country": "TW",
+    "lat": 23.895,
+    "lng": 120.47858
+  },
+  {
+    "name": "Pingtung",
+    "country": "TW",
+    "lat": 22.67135,
+    "lng": 120.48814
+  },
+  {
+    "name": "Pinglin",
+    "country": "TW",
+    "lat": 24.9352,
+    "lng": 121.7103
+  },
+  {
+    "name": "Pivdenne",
+    "country": "UA",
+    "lat": 46.62472,
+    "lng": 31.10182
+  },
+  {
+    "name": "Pidvolochysk",
+    "country": "UA",
+    "lat": 49.53131,
+    "lng": 26.14401
+  },
+  {
+    "name": "Pidvynohradiv",
+    "country": "UA",
+    "lat": 48.13843,
+    "lng": 22.97304
+  },
+  {
+    "name": "Pidkamin",
+    "country": "UA",
+    "lat": 49.94599,
+    "lng": 25.31672
+  },
+  {
+    "name": "Pidhirtsi",
+    "country": "UA",
+    "lat": 49.94611,
+    "lng": 24.9795
+  },
+  {
+    "name": "Pidhorodne",
+    "country": "UA",
+    "lat": 48.57422,
+    "lng": 35.09702
+  },
+  {
+    "name": "Pidhorodna",
+    "country": "UA",
+    "lat": 48.10846,
+    "lng": 30.88939
+  },
+  {
+    "name": "Pidhirne",
+    "country": "UA",
+    "lat": 46.24692,
+    "lng": 29.04207
+  },
+  {
+    "name": "Pidhaitsi",
+    "country": "UA",
+    "lat": 49.2678,
+    "lng": 25.12766
+  },
+  {
+    "name": "Pidbuzh",
+    "country": "UA",
+    "lat": 49.33194,
+    "lng": 23.25117
+  },
+  {
+    "name": "Pivdenne",
+    "country": "UA",
+    "lat": 49.8832,
+    "lng": 36.06846
+  },
+  {
+    "name": "Pishcha",
+    "country": "UA",
+    "lat": 51.60928,
+    "lng": 23.82079
+  },
+  {
+    "name": "Pionerskoye",
+    "country": "UA",
+    "lat": 44.88083,
+    "lng": 34.20194
+  },
+  {
+    "name": "Piskivka",
+    "country": "UA",
+    "lat": 50.69378,
+    "lng": 29.61934
+  },
+  {
+    "name": "Pisky-Radkivski",
+    "country": "UA",
+    "lat": 49.26666,
+    "lng": 37.60666
+  },
+  {
+    "name": "Pisky",
+    "country": "UA",
+    "lat": 50.37267,
+    "lng": 33.4546
+  },
+  {
+    "name": "Pishchane",
+    "country": "UA",
+    "lat": 49.74603,
+    "lng": 31.84295
+  },
+  {
+    "name": "Pishchane",
+    "country": "UA",
+    "lat": 49.12376,
+    "lng": 33.39674
+  },
+  {
+    "name": "Pishchanka",
+    "country": "UA",
+    "lat": 48.21249,
+    "lng": 28.88056
+  },
+  {
+    "name": "Pischchana",
+    "country": "UA",
+    "lat": 48.12918,
+    "lng": 29.73086
+  },
+  {
+    "name": "Pivdennoukrainsk",
+    "country": "UA",
+    "lat": 47.82879,
+    "lng": 31.17513
+  },
+  {
+    "name": "Piedmont",
+    "country": "US",
+    "lat": 33.92455,
+    "lng": -85.61135
+  },
+  {
+    "name": "Pike Road",
+    "country": "US",
+    "lat": 32.28431,
+    "lng": -86.10302
+  },
+  {
+    "name": "Pine Level",
+    "country": "US",
+    "lat": 32.58374,
+    "lng": -86.46553
+  },
+  {
+    "name": "Pinson",
+    "country": "US",
+    "lat": 33.68899,
+    "lng": -86.68332
+  },
+  {
+    "name": "Piggott",
+    "country": "US",
+    "lat": 36.38284,
+    "lng": -90.19065
+  },
+  {
+    "name": "Pine Bluff",
+    "country": "US",
+    "lat": 34.22843,
+    "lng": -92.0032
+  },
+  {
+    "name": "Piney",
+    "country": "US",
+    "lat": 34.50314,
+    "lng": -93.12602
+  },
+  {
+    "name": "Pike Creek",
+    "country": "US",
+    "lat": 39.73095,
+    "lng": -75.7041
+  },
+  {
+    "name": "Pike Creek Valley",
+    "country": "US",
+    "lat": 39.73622,
+    "lng": -75.69827
+  },
+  {
+    "name": "Pierson",
+    "country": "US",
+    "lat": 29.23942,
+    "lng": -81.46563
+  },
+  {
+    "name": "Pine Castle",
+    "country": "US",
+    "lat": 28.47195,
+    "lng": -81.36785
+  },
+  {
+    "name": "Pine Hills",
+    "country": "US",
+    "lat": 28.55778,
+    "lng": -81.4534
+  },
+  {
+    "name": "Pine Island Center",
+    "country": "US",
+    "lat": 26.61369,
+    "lng": -82.11815
+  },
+  {
+    "name": "Pine Island Ridge",
+    "country": "US",
+    "lat": 26.09481,
+    "lng": -80.27394
+  },
+  {
+    "name": "Pine Manor",
+    "country": "US",
+    "lat": 26.57285,
+    "lng": -81.87814
+  },
+  {
+    "name": "Pine Ridge",
+    "country": "US",
+    "lat": 28.93831,
+    "lng": -82.47343
+  },
+  {
+    "name": "Pine Ridge",
+    "country": "US",
+    "lat": 26.23064,
+    "lng": -81.79592
+  },
+  {
+    "name": "Pinecrest",
+    "country": "US",
+    "lat": 25.66705,
+    "lng": -80.30811
+  },
+  {
+    "name": "Pinellas Park",
+    "country": "US",
+    "lat": 27.8428,
+    "lng": -82.69954
+  },
+  {
+    "name": "Pinewood",
+    "country": "US",
+    "lat": 25.86898,
+    "lng": -80.21699
+  },
+  {
+    "name": "Pine Mountain",
+    "country": "US",
+    "lat": 33.67594,
+    "lng": -84.11492
+  },
+  {
+    "name": "Pine Mountain",
+    "country": "US",
+    "lat": 32.86485,
+    "lng": -84.8541
+  },
+  {
+    "name": "Pinckneyville",
+    "country": "US",
+    "lat": 38.08033,
+    "lng": -89.38203
+  },
+  {
+    "name": "Pittsfield",
+    "country": "US",
+    "lat": 39.60783,
+    "lng": -90.80513
+  },
+  {
+    "name": "Pittsboro",
+    "country": "US",
+    "lat": 39.86393,
+    "lng": -86.46694
+  },
+  {
+    "name": "Pittsburg",
+    "country": "US",
+    "lat": 37.41088,
+    "lng": -94.70496
+  },
+  {
+    "name": "Pikeville",
+    "country": "US",
+    "lat": 37.47927,
+    "lng": -82.51876
+  },
+  {
+    "name": "Pine Knot",
+    "country": "US",
+    "lat": 36.65091,
+    "lng": -84.43855
+  },
+  {
+    "name": "Pineville",
+    "country": "US",
+    "lat": 36.76203,
+    "lng": -83.69492
+  },
+  {
+    "name": "Pioneer Village",
+    "country": "US",
+    "lat": 38.06062,
+    "lng": -85.67774
+  },
+  {
+    "name": "Pierre Part",
+    "country": "US",
+    "lat": 29.9652,
+    "lng": -91.20316
+  },
+  {
+    "name": "Pine Prairie",
+    "country": "US",
+    "lat": 30.78381,
+    "lng": -92.42541
+  },
+  {
+    "name": "Pineville",
+    "country": "US",
+    "lat": 31.3224,
+    "lng": -92.4343
+  },
+  {
+    "name": "Pikesville",
+    "country": "US",
+    "lat": 39.37427,
+    "lng": -76.72247
+  },
+  {
+    "name": "Pittsville",
+    "country": "US",
+    "lat": 38.39539,
+    "lng": -75.41297
+  },
+  {
+    "name": "Piedmont",
+    "country": "US",
+    "lat": 37.15449,
+    "lng": -90.69567
+  },
+  {
+    "name": "Pierce City",
+    "country": "US",
+    "lat": 36.9459,
+    "lng": -94.00021
+  },
+  {
+    "name": "Pine Lawn",
+    "country": "US",
+    "lat": 38.69588,
+    "lng": -90.27511
+  },
+  {
+    "name": "Pineville",
+    "country": "US",
+    "lat": 36.59452,
+    "lng": -94.3841
+  },
+  {
+    "name": "Picayune",
+    "country": "US",
+    "lat": 30.52556,
+    "lng": -89.67788
+  },
+  {
+    "name": "Pickens",
+    "country": "US",
+    "lat": 32.88374,
+    "lng": -89.97147
+  },
+  {
+    "name": "Pittsboro",
+    "country": "US",
+    "lat": 33.94039,
+    "lng": -89.33757
+  },
+  {
+    "name": "Pilot Mountain",
+    "country": "US",
+    "lat": 36.38653,
+    "lng": -80.4695
+  },
+  {
+    "name": "Pine Knoll Shores",
+    "country": "US",
+    "lat": 34.69738,
+    "lng": -76.81327
+  },
+  {
+    "name": "Pine Level",
+    "country": "US",
+    "lat": 35.51322,
+    "lng": -78.24444
+  },
+  {
+    "name": "Pinebluff",
+    "country": "US",
+    "lat": 35.10988,
+    "lng": -79.47226
+  },
+  {
+    "name": "Pinehurst",
+    "country": "US",
+    "lat": 35.19543,
+    "lng": -79.46948
+  },
+  {
+    "name": "Pinetops",
+    "country": "US",
+    "lat": 35.78849,
+    "lng": -77.63775
+  },
+  {
+    "name": "Pineville",
+    "country": "US",
+    "lat": 35.0832,
+    "lng": -80.8923
+  },
+  {
+    "name": "Piney Green",
+    "country": "US",
+    "lat": 34.716,
+    "lng": -77.32024
+  },
+  {
+    "name": "Pittsboro",
+    "country": "US",
+    "lat": 35.72015,
+    "lng": -79.17724
+  },
+  {
+    "name": "Pine Beach",
+    "country": "US",
+    "lat": 39.93595,
+    "lng": -74.17097
+  },
+  {
+    "name": "Pine Hill",
+    "country": "US",
+    "lat": 39.78428,
+    "lng": -74.99211
+  },
+  {
+    "name": "Pine Ridge at Crestwood",
+    "country": "US",
+    "lat": 39.95456,
+    "lng": -74.31515
+  },
+  {
+    "name": "Pitman",
+    "country": "US",
+    "lat": 39.73289,
+    "lng": -75.13157
+  },
+  {
+    "name": "Pickerington",
+    "country": "US",
+    "lat": 39.88423,
+    "lng": -82.7535
+  },
+  {
+    "name": "Piketon",
+    "country": "US",
+    "lat": 39.06813,
+    "lng": -83.01434
+  },
+  {
+    "name": "Piedmont",
+    "country": "US",
+    "lat": 35.642,
+    "lng": -97.74643
+  },
+  {
+    "name": "Pink",
+    "country": "US",
+    "lat": 35.26063,
+    "lng": -97.11975
+  },
+  {
+    "name": "Pickens",
+    "country": "US",
+    "lat": 34.88345,
+    "lng": -82.70736
+  },
+  {
+    "name": "Piedmont",
+    "country": "US",
+    "lat": 34.70234,
+    "lng": -82.46457
+  },
+  {
+    "name": "Pineridge",
+    "country": "US",
+    "lat": 33.91043,
+    "lng": -81.10454
+  },
+  {
+    "name": "Pigeon Forge",
+    "country": "US",
+    "lat": 35.78842,
+    "lng": -83.55433
+  },
+  {
+    "name": "Pikeville",
+    "country": "US",
+    "lat": 35.60562,
+    "lng": -85.18885
+  },
+  {
+    "name": "Pine Crest",
+    "country": "US",
+    "lat": 36.27619,
+    "lng": -84.12881
+  },
+  {
+    "name": "Pine Crest",
+    "country": "US",
+    "lat": 36.29927,
+    "lng": -82.31792
+  },
+  {
+    "name": "Piperton",
+    "country": "US",
+    "lat": 35.04509,
+    "lng": -89.62175
+  },
+  {
+    "name": "Pilot Point",
+    "country": "US",
+    "lat": 33.3965,
+    "lng": -96.96056
+  },
+  {
+    "name": "Pine Island",
+    "country": "US",
+    "lat": 30.058,
+    "lng": -96.03746
+  },
+  {
+    "name": "Pinehurst",
+    "country": "US",
+    "lat": 30.17105,
+    "lng": -95.68245
+  },
+  {
+    "name": "Pinehurst",
+    "country": "US",
+    "lat": 30.10715,
+    "lng": -93.77461
+  },
+  {
+    "name": "Pinewood Estates",
+    "country": "US",
+    "lat": 30.16438,
+    "lng": -94.32158
+  },
+  {
+    "name": "Piney Point Village",
+    "country": "US",
+    "lat": 29.75995,
+    "lng": -95.51716
+  },
+  {
+    "name": "Pittsburg",
+    "country": "US",
+    "lat": 32.9954,
+    "lng": -94.96577
+  },
+  {
+    "name": "Pimmit Hills",
+    "country": "US",
+    "lat": 38.91289,
+    "lng": -77.20081
+  },
+  {
+    "name": "Pinch",
+    "country": "US",
+    "lat": 38.40871,
+    "lng": -81.48179
+  },
+  {
+    "name": "Pineville",
+    "country": "US",
+    "lat": 37.58317,
+    "lng": -81.53705
+  },
+  {
+    "name": "Pingree Grove",
+    "country": "US",
+    "lat": 42.06864,
+    "lng": -88.41342
+  },
+  {
+    "name": "Pistakee Highlands",
+    "country": "US",
+    "lat": 42.40863,
+    "lng": -88.20648
+  },
+  {
+    "name": "Pierceton",
+    "country": "US",
+    "lat": 41.20032,
+    "lng": -85.70554
+  },
+  {
+    "name": "Pinehurst",
+    "country": "US",
+    "lat": 42.52926,
+    "lng": -71.22811
+  },
+  {
+    "name": "Pittsfield",
+    "country": "US",
+    "lat": 42.45008,
+    "lng": -73.24538
+  },
+  {
+    "name": "Pittsfield",
+    "country": "US",
+    "lat": 44.78256,
+    "lng": -69.38338
+  },
+  {
+    "name": "Pittston",
+    "country": "US",
+    "lat": 44.22174,
+    "lng": -69.7556
+  },
+  {
+    "name": "Pigeon",
+    "country": "US",
+    "lat": 43.83002,
+    "lng": -83.26996
+  },
+  {
+    "name": "Pinckney",
+    "country": "US",
+    "lat": 42.457,
+    "lng": -83.94791
+  },
+  {
+    "name": "Pinconning",
+    "country": "US",
+    "lat": 43.85363,
+    "lng": -83.96499
+  },
+  {
+    "name": "Pierz",
+    "country": "US",
+    "lat": 45.98163,
+    "lng": -94.10471
+  },
+  {
+    "name": "Pine City",
+    "country": "US",
+    "lat": 45.82607,
+    "lng": -92.96854
+  },
+  {
+    "name": "Pine Island",
+    "country": "US",
+    "lat": 44.20135,
+    "lng": -92.6463
+  },
+  {
+    "name": "Pipestone",
+    "country": "US",
+    "lat": 44.00053,
+    "lng": -96.31753
+  },
+  {
+    "name": "Pierce",
+    "country": "US",
+    "lat": 42.19917,
+    "lng": -97.52672
+  },
+  {
+    "name": "Pinardville",
+    "country": "US",
+    "lat": 42.99425,
+    "lng": -71.50729
+  },
+  {
+    "name": "Pittsfield",
+    "country": "US",
+    "lat": 43.30591,
+    "lng": -71.32423
+  },
+  {
+    "name": "Pine Lake Park",
+    "country": "US",
+    "lat": 40.00317,
+    "lng": -74.25653
+  },
+  {
+    "name": "Piscataway",
+    "country": "US",
+    "lat": 40.49927,
+    "lng": -74.39904
+  },
+  {
+    "name": "Piermont",
+    "country": "US",
+    "lat": 41.04204,
+    "lng": -73.91819
+  },
+  {
+    "name": "Pine Bush",
+    "country": "US",
+    "lat": 41.60815,
+    "lng": -74.29904
+  },
+  {
+    "name": "Pine Plains",
+    "country": "US",
+    "lat": 41.97981,
+    "lng": -73.65596
+  },
+  {
+    "name": "Pittsford",
+    "country": "US",
+    "lat": 43.09062,
+    "lng": -77.515
+  },
+  {
+    "name": "Pioneer",
+    "country": "US",
+    "lat": 41.68005,
+    "lng": -84.55301
+  },
+  {
+    "name": "Piqua",
+    "country": "US",
+    "lat": 40.14477,
+    "lng": -84.24244
+  },
+  {
+    "name": "Pine Grove",
+    "country": "US",
+    "lat": 40.54842,
+    "lng": -76.38468
+  },
+  {
+    "name": "Pine Grove Mills",
+    "country": "US",
+    "lat": 40.73367,
+    "lng": -77.88556
+  },
+  {
+    "name": "Pitcairn",
+    "country": "US",
+    "lat": 40.40312,
+    "lng": -79.7781
+  },
+  {
+    "name": "Pittsburgh",
+    "country": "US",
+    "lat": 40.44062,
+    "lng": -79.99589
+  },
+  {
+    "name": "Pittston",
+    "country": "US",
+    "lat": 41.32591,
+    "lng": -75.78936
+  },
+  {
+    "name": "Pittville",
+    "country": "US",
+    "lat": 40.05733,
+    "lng": -75.14462
+  },
+  {
+    "name": "Pittsfield",
+    "country": "US",
+    "lat": 44.59944,
+    "lng": -88.2451
+  },
+  {
+    "name": "Picture Rocks",
+    "country": "US",
+    "lat": 32.34591,
+    "lng": -111.24621
+  },
+  {
+    "name": "Pima",
+    "country": "US",
+    "lat": 32.89656,
+    "lng": -109.82835
+  },
+  {
+    "name": "Pine",
+    "country": "US",
+    "lat": 34.38447,
+    "lng": -111.45514
+  },
+  {
+    "name": "Pinetop-Lakeside",
+    "country": "US",
+    "lat": 34.14254,
+    "lng": -109.96038
+  },
+  {
+    "name": "Pirtleville",
+    "country": "US",
+    "lat": 31.35716,
+    "lng": -109.56352
+  },
+  {
+    "name": "Pico Rivera",
+    "country": "US",
+    "lat": 33.98307,
+    "lng": -118.09673
+  },
+  {
+    "name": "Piedmont",
+    "country": "US",
+    "lat": 37.82437,
+    "lng": -122.23163
+  },
+  {
+    "name": "Pine Grove",
+    "country": "US",
+    "lat": 38.41297,
+    "lng": -120.65882
+  },
+  {
+    "name": "Pine Mountain Club",
+    "country": "US",
+    "lat": 34.84637,
+    "lng": -119.14955
+  },
+  {
+    "name": "Pine Valley",
+    "country": "US",
+    "lat": 32.82144,
+    "lng": -116.52918
+  },
+  {
+    "name": "Pinole",
+    "country": "US",
+    "lat": 38.00437,
+    "lng": -122.29886
+  },
+  {
+    "name": "Pioneer",
+    "country": "US",
+    "lat": 38.43186,
+    "lng": -120.57187
+  },
+  {
+    "name": "Piru",
+    "country": "US",
+    "lat": 34.41527,
+    "lng": -118.79398
+  },
+  {
+    "name": "Pismo Beach",
+    "country": "US",
+    "lat": 35.14275,
+    "lng": -120.64128
+  },
+  {
+    "name": "Pittsburg",
+    "country": "US",
+    "lat": 38.02798,
+    "lng": -121.88468
+  },
+  {
+    "name": "Pixley",
+    "country": "US",
+    "lat": 35.96856,
+    "lng": -119.29178
+  },
+  {
+    "name": "Piñon Hills",
+    "country": "US",
+    "lat": 34.43333,
+    "lng": -117.64672
+  },
+  {
+    "name": "Pioche",
+    "country": "US",
+    "lat": 37.92969,
+    "lng": -114.45221
+  },
+  {
+    "name": "Pine Hills",
+    "country": "US",
+    "lat": 40.73318,
+    "lng": -124.15228
+  },
+  {
+    "name": "Pinehurst",
+    "country": "US",
+    "lat": 47.53881,
+    "lng": -116.23739
+  },
+  {
+    "name": "Pilot Rock",
+    "country": "US",
+    "lat": 45.48318,
+    "lng": -118.82998
+  },
+  {
+    "name": "Pierre",
+    "country": "US",
+    "lat": 44.36832,
+    "lng": -100.35097
+  },
+  {
+    "name": "Pine Ridge",
+    "country": "US",
+    "lat": 43.02554,
+    "lng": -102.55627
+  },
+  {
+    "name": "Pine Bluffs",
+    "country": "US",
+    "lat": 41.18193,
+    "lng": -104.06912
+  },
+  {
+    "name": "Pinedale",
+    "country": "US",
+    "lat": 42.86661,
+    "lng": -109.86099
+  },
+  {
+    "name": "Picnic Point-North Lynnwood",
+    "country": "US",
+    "lat": 47.86278,
+    "lng": -122.29497
+  },
+  {
+    "name": "Pine Ridge",
+    "country": "US",
+    "lat": 41.14598,
+    "lng": -74.99116
+  },
+  {
+    "name": "Picnic Point",
+    "country": "US",
+    "lat": 47.88111,
+    "lng": -122.3284
+  },
+  {
+    "name": "Piriápolis",
+    "country": "UY",
+    "lat": -34.86287,
+    "lng": -55.27471
+  },
+  {
+    "name": "Piedras Coloradas",
+    "country": "UY",
+    "lat": -32.37183,
+    "lng": -57.60901
+  },
+  {
+    "name": "Piskent",
+    "country": "UZ",
+    "lat": 40.89722,
+    "lng": 69.35056
+  },
+  {
+    "name": "Pinetown",
+    "country": "ZA",
+    "lat": -29.82068,
+    "lng": 30.88674
+  },
+  {
+    "name": "Pilgrim’s Rest",
+    "country": "ZA",
+    "lat": -24.90502,
+    "lng": 30.75333
+  },
+  {
+    "name": "Piet Retief",
+    "country": "ZA",
+    "lat": -27.00706,
+    "lng": 30.81323
+  },
+  {
+    "name": "Piet Plessis",
+    "country": "ZA",
+    "lat": -26.16353,
+    "lng": 24.41192
+  },
+  {
+    "name": "Pietermaritzburg",
+    "country": "ZA",
+    "lat": -29.61679,
+    "lng": 30.39278
+  },
+  {
+    "name": "Pienaarsrivier",
+    "country": "ZA",
+    "lat": -25.20417,
+    "lng": 28.30111
+  },
+  {
+    "name": "Piketberg",
+    "country": "ZA",
+    "lat": -32.90323,
+    "lng": 18.75704
+  }
+]

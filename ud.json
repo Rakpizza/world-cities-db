@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Udënisht",
+    "country": "AL",
+    "lat": 40.96333,
+    "lng": 20.63917
+  },
+  {
+    "name": "Uderns",
+    "country": "AT",
+    "lat": 47.31667,
+    "lng": 11.86667
+  },
+  {
+    "name": "UDistrict",
+    "country": "CA",
+    "lat": 49.03142,
+    "lng": -122.29425
+  },
+  {
+    "name": "Udligenswil",
+    "country": "CH",
+    "lat": 47.09005,
+    "lng": 8.40335
+  },
+  {
+    "name": "Uder",
+    "country": "DE",
+    "lat": 51.36243,
+    "lng": 10.0721
+  },
+  {
+    "name": "Udenheim",
+    "country": "DE",
+    "lat": 49.86472,
+    "lng": 8.17167
+  },
+  {
+    "name": "Udenhausen",
+    "country": "DE",
+    "lat": 51.46385,
+    "lng": 9.46335
+  },
+  {
+    "name": "Uddingston",
+    "country": "GB",
+    "lat": 55.81971,
+    "lng": -4.08362
+  },
+  {
+    "name": "Udbina",
+    "country": "HR",
+    "lat": 44.53056,
+    "lng": 15.76556
+  },
+  {
+    "name": "Udim",
+    "country": "IL",
+    "lat": 32.26496,
+    "lng": 34.84549
+  },
+  {
+    "name": "Udumalaippettai",
+    "country": "IN",
+    "lat": 10.58806,
+    "lng": 77.24779
+  },
+  {
+    "name": "Udpura",
+    "country": "IN",
+    "lat": 24.73355,
+    "lng": 75.97514
+  },
+  {
+    "name": "Udiyāvara",
+    "country": "IN",
+    "lat": 13.30247,
+    "lng": 74.73869
+  },
+  {
+    "name": "Udupi",
+    "country": "IN",
+    "lat": 13.33467,
+    "lng": 74.74617
+  },
+  {
+    "name": "Udhampur",
+    "country": "IN",
+    "lat": 32.92431,
+    "lng": 75.13573
+  },
+  {
+    "name": "Udgīr",
+    "country": "IN",
+    "lat": 18.39258,
+    "lng": 77.11756
+  },
+  {
+    "name": "Udangudi",
+    "country": "IN",
+    "lat": 8.42918,
+    "lng": 78.02968
+  },
+  {
+    "name": "Udalguri",
+    "country": "IN",
+    "lat": 26.75367,
+    "lng": 92.10215
+  },
+  {
+    "name": "Udala",
+    "country": "IN",
+    "lat": 21.57811,
+    "lng": 86.56676
+  },
+  {
+    "name": "Udaiyārpālaiyam",
+    "country": "IN",
+    "lat": 11.18733,
+    "lng": 79.29331
+  },
+  {
+    "name": "Udaipura",
+    "country": "IN",
+    "lat": 23.07434,
+    "lng": 78.51108
+  },
+  {
+    "name": "Udaipur",
+    "country": "IN",
+    "lat": 27.72297,
+    "lng": 75.47178
+  },
+  {
+    "name": "Udaipur",
+    "country": "IN",
+    "lat": 24.58584,
+    "lng": 73.71346
+  },
+  {
+    "name": "Udaipur",
+    "country": "IN",
+    "lat": 23.53333,
+    "lng": 91.48333
+  },
+  {
+    "name": "Udayagiri",
+    "country": "IN",
+    "lat": 20.12416,
+    "lng": 84.36869
+  },
+  {
+    "name": "Udaipurwati",
+    "country": "IN",
+    "lat": 27.73011,
+    "lng": 75.47161
+  },
+  {
+    "name": "Uduma",
+    "country": "IN",
+    "lat": 12.43585,
+    "lng": 75.01811
+  },
+  {
+    "name": "Udiana",
+    "country": "IN",
+    "lat": 26.46089,
+    "lng": 91.60598
+  },
+  {
+    "name": "Udayendram",
+    "country": "IN",
+    "lat": 12.6962,
+    "lng": 78.62273
+  },
+  {
+    "name": "Udine",
+    "country": "IT",
+    "lat": 46.0693,
+    "lng": 13.23715
+  },
+  {
+    "name": "Udono",
+    "country": "JP",
+    "lat": 33.737,
+    "lng": 136.01113
+  },
+  {
+    "name": "Udi",
+    "country": "NG",
+    "lat": 6.31592,
+    "lng": 7.42086
+  },
+  {
+    "name": "Udenhout",
+    "country": "NL",
+    "lat": 51.60917,
+    "lng": 5.14306
+  },
+  {
+    "name": "Uden",
+    "country": "NL",
+    "lat": 51.66083,
+    "lng": 5.61944
+  },
+  {
+    "name": "Uddel",
+    "country": "NL",
+    "lat": 52.25917,
+    "lng": 5.78056
+  },
+  {
+    "name": "Uddiawan",
+    "country": "PH",
+    "lat": 16.55888,
+    "lng": 121.15124
+  },
+  {
+    "name": "Udanin",
+    "country": "PL",
+    "lat": 51.0374,
+    "lng": 16.45469
+  },
+  {
+    "name": "Udupu",
+    "country": "RO",
+    "lat": 44.39657,
+    "lng": 25.14488
+  },
+  {
+    "name": "Udeşti",
+    "country": "RO",
+    "lat": 47.56667,
+    "lng": 26.41667
+  },
+  {
+    "name": "Uda-Paciurea",
+    "country": "RO",
+    "lat": 43.87979,
+    "lng": 24.72379
+  },
+  {
+    "name": "Uda-Clocociov",
+    "country": "RO",
+    "lat": 43.88791,
+    "lng": 24.71437
+  },
+  {
+    "name": "Uda",
+    "country": "RO",
+    "lat": 47.33645,
+    "lng": 26.57165
+  },
+  {
+    "name": "Uda",
+    "country": "RO",
+    "lat": 44.91667,
+    "lng": 24.56667
+  },
+  {
+    "name": "Udomlya",
+    "country": "RU",
+    "lat": 57.87597,
+    "lng": 35.00702
+  },
+  {
+    "name": "Udobnaya",
+    "country": "RU",
+    "lat": 44.1932,
+    "lng": 41.5529
+  },
+  {
+    "name": "Udimskiy",
+    "country": "RU",
+    "lat": 61.14171,
+    "lng": 45.91443
+  },
+  {
+    "name": "Udel’naya",
+    "country": "RU",
+    "lat": 60.01636,
+    "lng": 30.31815
+  },
+  {
+    "name": "Udel’naya",
+    "country": "RU",
+    "lat": 55.636,
+    "lng": 38.045
+  },
+  {
+    "name": "Udarnyy",
+    "country": "RU",
+    "lat": 54.3409,
+    "lng": 42.8611
+  },
+  {
+    "name": "Udarnyy",
+    "country": "RU",
+    "lat": 44.34917,
+    "lng": 42.50528
+  },
+  {
+    "name": "Udachny",
+    "country": "RU",
+    "lat": 66.42989,
+    "lng": 112.4021
+  },
+  {
+    "name": "Uddevalla",
+    "country": "SE",
+    "lat": 58.34784,
+    "lng": 11.9424
+  },
+  {
+    "name": "Udon Thani",
+    "country": "TH",
+    "lat": 17.41567,
+    "lng": 102.78589
+  },
+  {
+    "name": "Udy",
+    "country": "UA",
+    "lat": 50.39082,
+    "lng": 36.05548
+  },
+  {
+    "name": "Udobne",
+    "country": "UA",
+    "lat": 46.37836,
+    "lng": 30.04545
+  },
+  {
+    "name": "Udachne",
+    "country": "UA",
+    "lat": 48.24045,
+    "lng": 36.99113
+  }
+]

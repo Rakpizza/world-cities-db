@@ -1,0 +1,4838 @@
+[
+  {
+    "name": "Reef Al Fujairah City",
+    "country": "AE",
+    "lat": 25.14479,
+    "lng": 56.24764
+  },
+  {
+    "name": "Remas",
+    "country": "AL",
+    "lat": 40.88639,
+    "lng": 19.51139
+  },
+  {
+    "name": "Retiro",
+    "country": "AR",
+    "lat": -34.58333,
+    "lng": -58.38333
+  },
+  {
+    "name": "Resistencia",
+    "country": "AR",
+    "lat": -27.46363,
+    "lng": -58.98665
+  },
+  {
+    "name": "Reconquista",
+    "country": "AR",
+    "lat": -29.15,
+    "lng": -59.65
+  },
+  {
+    "name": "Recreo",
+    "country": "AR",
+    "lat": -31.49076,
+    "lng": -60.73299
+  },
+  {
+    "name": "Recreo",
+    "country": "AR",
+    "lat": -29.28184,
+    "lng": -65.06096
+  },
+  {
+    "name": "Realicó",
+    "country": "AR",
+    "lat": -35.03821,
+    "lng": -64.24631
+  },
+  {
+    "name": "Reutte",
+    "country": "AT",
+    "lat": 47.48333,
+    "lng": 10.71667
+  },
+  {
+    "name": "Reuthe",
+    "country": "AT",
+    "lat": 47.37113,
+    "lng": 9.89481
+  },
+  {
+    "name": "Retznei",
+    "country": "AT",
+    "lat": 46.73333,
+    "lng": 15.56667
+  },
+  {
+    "name": "Retz",
+    "country": "AT",
+    "lat": 48.75712,
+    "lng": 15.95485
+  },
+  {
+    "name": "Rettenschöss",
+    "country": "AT",
+    "lat": 47.65718,
+    "lng": 12.26872
+  },
+  {
+    "name": "Rettenegg",
+    "country": "AT",
+    "lat": 47.52694,
+    "lng": 15.78104
+  },
+  {
+    "name": "Rennweg am Katschberg",
+    "country": "AT",
+    "lat": 47.01667,
+    "lng": 13.61667
+  },
+  {
+    "name": "Reith bei Seefeld",
+    "country": "AT",
+    "lat": 47.3,
+    "lng": 11.2
+  },
+  {
+    "name": "Reith bei Kitzbühel",
+    "country": "AT",
+    "lat": 47.46667,
+    "lng": 12.35
+  },
+  {
+    "name": "Reith im Alpbachtal",
+    "country": "AT",
+    "lat": 47.41694,
+    "lng": 11.87785
+  },
+  {
+    "name": "Reiterndorf",
+    "country": "AT",
+    "lat": 47.70364,
+    "lng": 13.62914
+  },
+  {
+    "name": "Reisenberg",
+    "country": "AT",
+    "lat": 47.99406,
+    "lng": 16.52018
+  },
+  {
+    "name": "Reinsberg",
+    "country": "AT",
+    "lat": 47.98567,
+    "lng": 15.07067
+  },
+  {
+    "name": "Reingers",
+    "country": "AT",
+    "lat": 48.96667,
+    "lng": 15.13333
+  },
+  {
+    "name": "Reifling",
+    "country": "AT",
+    "lat": 47.13333,
+    "lng": 14.66667
+  },
+  {
+    "name": "Reichraming",
+    "country": "AT",
+    "lat": 47.88333,
+    "lng": 14.45
+  },
+  {
+    "name": "Reichenthal",
+    "country": "AT",
+    "lat": 48.54286,
+    "lng": 14.38471
+  },
+  {
+    "name": "Reichenfels",
+    "country": "AT",
+    "lat": 47.00718,
+    "lng": 14.74425
+  },
+  {
+    "name": "Reichendorf",
+    "country": "AT",
+    "lat": 47.18922,
+    "lng": 15.7616
+  },
+  {
+    "name": "Reichenau im Mühlkreis",
+    "country": "AT",
+    "lat": 48.45704,
+    "lng": 14.34875
+  },
+  {
+    "name": "Reichenau an der Rax",
+    "country": "AT",
+    "lat": 47.69509,
+    "lng": 15.84572
+  },
+  {
+    "name": "Rehberg",
+    "country": "AT",
+    "lat": 48.43114,
+    "lng": 15.58702
+  },
+  {
+    "name": "Redlham",
+    "country": "AT",
+    "lat": 48.02443,
+    "lng": 13.74738
+  },
+  {
+    "name": "Reding",
+    "country": "AT",
+    "lat": 46.81667,
+    "lng": 14.85
+  },
+  {
+    "name": "Rechnitz",
+    "country": "AT",
+    "lat": 47.30467,
+    "lng": 16.44095
+  },
+  {
+    "name": "Regau",
+    "country": "AT",
+    "lat": 47.99078,
+    "lng": 13.68811
+  },
+  {
+    "name": "Reinbach",
+    "country": "AT",
+    "lat": 47.34673,
+    "lng": 13.19072
+  },
+  {
+    "name": "Reitberg",
+    "country": "AT",
+    "lat": 47.85269,
+    "lng": 13.1573
+  },
+  {
+    "name": "Reynella",
+    "country": "AU",
+    "lat": -35.09372,
+    "lng": 138.53082
+  },
+  {
+    "name": "Revesby",
+    "country": "AU",
+    "lat": -33.95,
+    "lng": 151.01667
+  },
+  {
+    "name": "Reservoir",
+    "country": "AU",
+    "lat": -37.71667,
+    "lng": 145.0
+  },
+  {
+    "name": "Research",
+    "country": "AU",
+    "lat": -37.7,
+    "lng": 145.18333
+  },
+  {
+    "name": "Renmark West",
+    "country": "AU",
+    "lat": -34.16531,
+    "lng": 140.7097
+  },
+  {
+    "name": "Renmark",
+    "country": "AU",
+    "lat": -34.17702,
+    "lng": 140.74697
+  },
+  {
+    "name": "Regents Park",
+    "country": "AU",
+    "lat": -33.88333,
+    "lng": 151.01667
+  },
+  {
+    "name": "Redlynch",
+    "country": "AU",
+    "lat": -16.9254,
+    "lng": 145.69559
+  },
+  {
+    "name": "Redland Bay",
+    "country": "AU",
+    "lat": -27.6113,
+    "lng": 153.30022
+  },
+  {
+    "name": "Red Hill",
+    "country": "AU",
+    "lat": -20.31667,
+    "lng": 148.5
+  },
+  {
+    "name": "Redhead",
+    "country": "AU",
+    "lat": -33.01178,
+    "lng": 151.71142
+  },
+  {
+    "name": "Redfern",
+    "country": "AU",
+    "lat": -33.89279,
+    "lng": 151.20415
+  },
+  {
+    "name": "Red Cliffs",
+    "country": "AU",
+    "lat": -34.30942,
+    "lng": 142.18971
+  },
+  {
+    "name": "Redbank",
+    "country": "AU",
+    "lat": -27.6,
+    "lng": 152.86667
+  },
+  {
+    "name": "Redbank Plains",
+    "country": "AU",
+    "lat": -27.64613,
+    "lng": 152.85965
+  },
+  {
+    "name": "Reedy Creek",
+    "country": "AU",
+    "lat": -28.11243,
+    "lng": 153.39638
+  },
+  {
+    "name": "Redan",
+    "country": "AU",
+    "lat": -37.57649,
+    "lng": 143.83862
+  },
+  {
+    "name": "Regency Downs",
+    "country": "AU",
+    "lat": -27.53359,
+    "lng": 152.44049
+  },
+  {
+    "name": "Reid",
+    "country": "AU",
+    "lat": -35.28578,
+    "lng": 149.13905
+  },
+  {
+    "name": "Redwood Park",
+    "country": "AU",
+    "lat": -34.81155,
+    "lng": 138.70695
+  },
+  {
+    "name": "Regents Park",
+    "country": "AU",
+    "lat": -27.67664,
+    "lng": 153.04165
+  },
+  {
+    "name": "Redcliffe",
+    "country": "AU",
+    "lat": -31.93845,
+    "lng": 115.94645
+  },
+  {
+    "name": "Red Hill",
+    "country": "AU",
+    "lat": -27.45247,
+    "lng": 153.00208
+  },
+  {
+    "name": "Renown Park",
+    "country": "AU",
+    "lat": -34.89174,
+    "lng": 138.57729
+  },
+  {
+    "name": "Revesby Heights",
+    "country": "AU",
+    "lat": -33.9671,
+    "lng": 151.01841
+  },
+  {
+    "name": "Reynella East",
+    "country": "AU",
+    "lat": -35.09197,
+    "lng": 138.55742
+  },
+  {
+    "name": "Red Hill",
+    "country": "AU",
+    "lat": -35.32624,
+    "lng": 149.11906
+  },
+  {
+    "name": "Retinne",
+    "country": "BE",
+    "lat": 50.63084,
+    "lng": 5.69821
+  },
+  {
+    "name": "Retie",
+    "country": "BE",
+    "lat": 51.26652,
+    "lng": 5.08242
+  },
+  {
+    "name": "Ressegem",
+    "country": "BE",
+    "lat": 50.89115,
+    "lng": 3.91129
+  },
+  {
+    "name": "Ressaix",
+    "country": "BE",
+    "lat": 50.42285,
+    "lng": 4.19442
+  },
+  {
+    "name": "Reppel",
+    "country": "BE",
+    "lat": 51.15405,
+    "lng": 5.5624
+  },
+  {
+    "name": "Reningelst",
+    "country": "BE",
+    "lat": 50.81514,
+    "lng": 2.77066
+  },
+  {
+    "name": "Reninge",
+    "country": "BE",
+    "lat": 50.94781,
+    "lng": 2.78892
+  },
+  {
+    "name": "Rendeux",
+    "country": "BE",
+    "lat": 50.23423,
+    "lng": 5.50414
+  },
+  {
+    "name": "Remicourt",
+    "country": "BE",
+    "lat": 50.68069,
+    "lng": 5.32785
+  },
+  {
+    "name": "Relegem",
+    "country": "BE",
+    "lat": 50.89908,
+    "lng": 4.27694
+  },
+  {
+    "name": "Rekkem",
+    "country": "BE",
+    "lat": 50.7837,
+    "lng": 3.16346
+  },
+  {
+    "name": "Rekem",
+    "country": "BE",
+    "lat": 50.92244,
+    "lng": 5.6938
+  },
+  {
+    "name": "Reet",
+    "country": "BE",
+    "lat": 51.10201,
+    "lng": 4.41264
+  },
+  {
+    "name": "Recogne",
+    "country": "BE",
+    "lat": 49.91232,
+    "lng": 5.3537
+  },
+  {
+    "name": "Recht",
+    "country": "BE",
+    "lat": 50.33801,
+    "lng": 6.04883
+  },
+  {
+    "name": "Rebecq-Rognon",
+    "country": "BE",
+    "lat": 50.65147,
+    "lng": 4.10683
+  },
+  {
+    "name": "Reuland",
+    "country": "BE",
+    "lat": 50.19553,
+    "lng": 6.13548
+  },
+  {
+    "name": "Reyes",
+    "country": "BO",
+    "lat": -14.2952,
+    "lng": -67.33624
+  },
+  {
+    "name": "Reriutaba",
+    "country": "BR",
+    "lat": -4.14167,
+    "lng": -40.58222
+  },
+  {
+    "name": "Remígio",
+    "country": "BR",
+    "lat": -6.96596,
+    "lng": -35.7951
+  },
+  {
+    "name": "Remanso",
+    "country": "BR",
+    "lat": -9.62167,
+    "lng": -42.08139
+  },
+  {
+    "name": "Regeneração",
+    "country": "BR",
+    "lat": -6.23122,
+    "lng": -42.68691
+  },
+  {
+    "name": "Redenção do Gurguéia",
+    "country": "BR",
+    "lat": -9.48888,
+    "lng": -44.58228
+  },
+  {
+    "name": "Redenção",
+    "country": "BR",
+    "lat": -4.22583,
+    "lng": -38.73056
+  },
+  {
+    "name": "Recife",
+    "country": "BR",
+    "lat": -8.05389,
+    "lng": -34.88111
+  },
+  {
+    "name": "Recursolândia",
+    "country": "BR",
+    "lat": -8.72778,
+    "lng": -47.24306
+  },
+  {
+    "name": "Retirolândia",
+    "country": "BR",
+    "lat": -11.495,
+    "lng": -39.42556
+  },
+  {
+    "name": "Restinga Sêca",
+    "country": "BR",
+    "lat": -29.81333,
+    "lng": -53.375
+  },
+  {
+    "name": "Restinga",
+    "country": "BR",
+    "lat": -20.60333,
+    "lng": -47.48278
+  },
+  {
+    "name": "Ressaquinha",
+    "country": "BR",
+    "lat": -21.0625,
+    "lng": -43.76278
+  },
+  {
+    "name": "Resplendor",
+    "country": "BR",
+    "lat": -19.32556,
+    "lng": -41.25528
+  },
+  {
+    "name": "Reserva do Iguaçu",
+    "country": "BR",
+    "lat": -25.83683,
+    "lng": -52.02742
+  },
+  {
+    "name": "Reserva",
+    "country": "BR",
+    "lat": -24.65028,
+    "lng": -50.85056
+  },
+  {
+    "name": "Resende Costa",
+    "country": "BR",
+    "lat": -20.92222,
+    "lng": -44.2375
+  },
+  {
+    "name": "Resende",
+    "country": "BR",
+    "lat": -22.46889,
+    "lng": -44.44667
+  },
+  {
+    "name": "Renascença",
+    "country": "BR",
+    "lat": -26.15806,
+    "lng": -52.96889
+  },
+  {
+    "name": "Relvado",
+    "country": "BR",
+    "lat": -29.11139,
+    "lng": -52.07167
+  },
+  {
+    "name": "Registro",
+    "country": "BR",
+    "lat": -24.4875,
+    "lng": -47.84361
+  },
+  {
+    "name": "Reginópolis",
+    "country": "BR",
+    "lat": -21.88806,
+    "lng": -49.22528
+  },
+  {
+    "name": "Regente Feijó",
+    "country": "BR",
+    "lat": -22.22139,
+    "lng": -51.30278
+  },
+  {
+    "name": "Reduto",
+    "country": "BR",
+    "lat": -20.21889,
+    "lng": -41.9825
+  },
+  {
+    "name": "Redentora",
+    "country": "BR",
+    "lat": -27.66444,
+    "lng": -53.63778
+  },
+  {
+    "name": "Redenção da Serra",
+    "country": "BR",
+    "lat": -23.28224,
+    "lng": -45.53344
+  },
+  {
+    "name": "Recreio",
+    "country": "BR",
+    "lat": -21.525,
+    "lng": -42.46917
+  },
+  {
+    "name": "Rebouças",
+    "country": "BR",
+    "lat": -25.62056,
+    "lng": -50.69278
+  },
+  {
+    "name": "Realeza",
+    "country": "BR",
+    "lat": -25.76889,
+    "lng": -53.5325
+  },
+  {
+    "name": "Redenção",
+    "country": "BR",
+    "lat": -8.02861,
+    "lng": -50.03139
+  },
+  {
+    "name": "Ressaca do Muca",
+    "country": "BR",
+    "lat": 0.00896,
+    "lng": -51.08045
+  },
+  {
+    "name": "Ressaca Nova Esperança",
+    "country": "BR",
+    "lat": 0.02807,
+    "lng": -51.08051
+  },
+  {
+    "name": "Ressaca Beirol",
+    "country": "BR",
+    "lat": 0.01219,
+    "lng": -51.06697
+  },
+  {
+    "name": "Ressaca Pacoval",
+    "country": "BR",
+    "lat": 0.05362,
+    "lng": -51.06192
+  },
+  {
+    "name": "Residencia Moacir PU5BHV",
+    "country": "BR",
+    "lat": -26.90967,
+    "lng": -49.36547
+  },
+  {
+    "name": "Republica",
+    "country": "BR",
+    "lat": -23.54476,
+    "lng": -46.64105
+  },
+  {
+    "name": "Reserva do Cabaçal",
+    "country": "BR",
+    "lat": -15.12221,
+    "lng": -58.38278
+  },
+  {
+    "name": "Recanto das Emas",
+    "country": "BR",
+    "lat": -15.90864,
+    "lng": -48.06447
+  },
+  {
+    "name": "Rechytsa",
+    "country": "BY",
+    "lat": 52.3617,
+    "lng": 30.3916
+  },
+  {
+    "name": "Red Bank Village",
+    "country": "BZ",
+    "lat": 16.61645,
+    "lng": -88.55911
+  },
+  {
+    "name": "Red Deer",
+    "country": "CA",
+    "lat": 52.26682,
+    "lng": -113.802
+  },
+  {
+    "name": "Red Lake",
+    "country": "CA",
+    "lat": 51.01678,
+    "lng": -93.82736
+  },
+  {
+    "name": "Red Lake",
+    "country": "CA",
+    "lat": 51.06676,
+    "lng": -93.73373
+  },
+  {
+    "name": "Regent Park",
+    "country": "CA",
+    "lat": 43.66041,
+    "lng": -79.3615
+  },
+  {
+    "name": "Regina",
+    "country": "CA",
+    "lat": 50.45008,
+    "lng": -104.6178
+  },
+  {
+    "name": "Regina Beach",
+    "country": "CA",
+    "lat": 50.79146,
+    "lng": -104.98006
+  },
+  {
+    "name": "Renfrew",
+    "country": "CA",
+    "lat": 45.46681,
+    "lng": -76.68272
+  },
+  {
+    "name": "Renfrew-Collingwood",
+    "country": "CA",
+    "lat": 49.245,
+    "lng": -123.03758
+  },
+  {
+    "name": "Repentigny",
+    "country": "CA",
+    "lat": 45.74222,
+    "lng": -73.45008
+  },
+  {
+    "name": "Revelstoke",
+    "country": "CA",
+    "lat": 50.99712,
+    "lng": -118.1953
+  },
+  {
+    "name": "Rexdale-Kipling",
+    "country": "CA",
+    "lat": 43.72373,
+    "lng": -79.56623
+  },
+  {
+    "name": "Renfrew Heights",
+    "country": "CA",
+    "lat": 49.25448,
+    "lng": -123.03159
+  },
+  {
+    "name": "Renens",
+    "country": "CH",
+    "lat": 46.53989,
+    "lng": 6.5881
+  },
+  {
+    "name": "Reinach",
+    "country": "CH",
+    "lat": 47.25732,
+    "lng": 8.18091
+  },
+  {
+    "name": "Reigoldswil",
+    "country": "CH",
+    "lat": 47.39824,
+    "lng": 7.68718
+  },
+  {
+    "name": "Reiden",
+    "country": "CH",
+    "lat": 47.24719,
+    "lng": 7.97135
+  },
+  {
+    "name": "Reichenburg",
+    "country": "CH",
+    "lat": 47.17097,
+    "lng": 8.97704
+  },
+  {
+    "name": "Rehetobel",
+    "country": "CH",
+    "lat": 47.42611,
+    "lng": 9.483
+  },
+  {
+    "name": "Regensdorf",
+    "country": "CH",
+    "lat": 47.4341,
+    "lng": 8.46874
+  },
+  {
+    "name": "Reconvilier",
+    "country": "CH",
+    "lat": 47.23431,
+    "lng": 7.22239
+  },
+  {
+    "name": "Rechthalten",
+    "country": "CH",
+    "lat": 46.76766,
+    "lng": 7.24028
+  },
+  {
+    "name": "Rebstein",
+    "country": "CH",
+    "lat": 47.39812,
+    "lng": 9.58503
+  },
+  {
+    "name": "Regensdorf / Hofacher-Geeren",
+    "country": "CH",
+    "lat": 47.43525,
+    "lng": 8.4624
+  },
+  {
+    "name": "Regensdorf / Feldblumen-Riedthofstrasse",
+    "country": "CH",
+    "lat": 47.43618,
+    "lng": 8.46659
+  },
+  {
+    "name": "Regensdorf / Obstgarten",
+    "country": "CH",
+    "lat": 47.42772,
+    "lng": 8.46566
+  },
+  {
+    "name": "Reinach",
+    "country": "CH",
+    "lat": 47.49702,
+    "lng": 7.59172
+  },
+  {
+    "name": "Rengo",
+    "country": "CL",
+    "lat": -34.40639,
+    "lng": -70.85834
+  },
+  {
+    "name": "Renca",
+    "country": "CL",
+    "lat": -33.4019,
+    "lng": -70.70619
+  },
+  {
+    "name": "Rey Bouba",
+    "country": "CM",
+    "lat": 8.6724,
+    "lng": 14.1786
+  },
+  {
+    "name": "Rensha",
+    "country": "CN",
+    "lat": 30.05305,
+    "lng": 107.59409
+  },
+  {
+    "name": "Rende",
+    "country": "CN",
+    "lat": 25.55821,
+    "lng": 103.27604
+  },
+  {
+    "name": "Renzhao",
+    "country": "CN",
+    "lat": 36.63861,
+    "lng": 120.20361
+  },
+  {
+    "name": "Renyi",
+    "country": "CN",
+    "lat": 29.50743,
+    "lng": 105.47827
+  },
+  {
+    "name": "Renxian",
+    "country": "CN",
+    "lat": 30.66092,
+    "lng": 107.67895
+  },
+  {
+    "name": "Renqiu",
+    "country": "CN",
+    "lat": 38.70941,
+    "lng": 116.10086
+  },
+  {
+    "name": "Renhua",
+    "country": "CN",
+    "lat": 25.09125,
+    "lng": 113.74446
+  },
+  {
+    "name": "Renhou",
+    "country": "CN",
+    "lat": 38.74669,
+    "lng": 114.98009
+  },
+  {
+    "name": "Renhe",
+    "country": "CN",
+    "lat": 26.49926,
+    "lng": 101.73861
+  },
+  {
+    "name": "Renhe",
+    "country": "CN",
+    "lat": 26.41667,
+    "lng": 101.01667
+  },
+  {
+    "name": "Renfengzhuang",
+    "country": "CN",
+    "lat": 39.31139,
+    "lng": 117.66222
+  },
+  {
+    "name": "Rencheng",
+    "country": "CN",
+    "lat": 37.12857,
+    "lng": 114.6815
+  },
+  {
+    "name": "Renwu",
+    "country": "CN",
+    "lat": 29.605,
+    "lng": 89.005
+  },
+  {
+    "name": "Renminlu",
+    "country": "CN",
+    "lat": 36.5512,
+    "lng": 104.16952
+  },
+  {
+    "name": "Renhuai",
+    "country": "CN",
+    "lat": 27.7914,
+    "lng": 106.40104
+  },
+  {
+    "name": "Rencheng",
+    "country": "CN",
+    "lat": 35.41478,
+    "lng": 116.58348
+  },
+  {
+    "name": "Retiro",
+    "country": "CO",
+    "lat": 6.05861,
+    "lng": -75.50306
+  },
+  {
+    "name": "Restrepo",
+    "country": "CO",
+    "lat": 4.25833,
+    "lng": -73.56142
+  },
+  {
+    "name": "Restrepo",
+    "country": "CO",
+    "lat": 3.82203,
+    "lng": -76.52242
+  },
+  {
+    "name": "Repelón",
+    "country": "CO",
+    "lat": 10.4952,
+    "lng": -75.12448
+  },
+  {
+    "name": "Remolino",
+    "country": "CO",
+    "lat": 10.70199,
+    "lng": -74.71602
+  },
+  {
+    "name": "Remedios",
+    "country": "CO",
+    "lat": 7.02835,
+    "lng": -74.69379
+  },
+  {
+    "name": "Regidor",
+    "country": "CO",
+    "lat": 8.66633,
+    "lng": -73.82221
+  },
+  {
+    "name": "Recetor",
+    "country": "CO",
+    "lat": 5.22947,
+    "lng": -72.76099
+  },
+  {
+    "name": "Remedios",
+    "country": "CU",
+    "lat": 22.49502,
+    "lng": -79.54548
+  },
+  {
+    "name": "Regla",
+    "country": "CU",
+    "lat": 23.125,
+    "lng": -82.33194
+  },
+  {
+    "name": "Reutlingen",
+    "country": "DE",
+    "lat": 48.49144,
+    "lng": 9.20427
+  },
+  {
+    "name": "Reuth",
+    "country": "DE",
+    "lat": 50.61667,
+    "lng": 12.21667
+  },
+  {
+    "name": "Reuth",
+    "country": "DE",
+    "lat": 49.99052,
+    "lng": 11.6948
+  },
+  {
+    "name": "Reut",
+    "country": "DE",
+    "lat": 48.5917,
+    "lng": 13.12332
+  },
+  {
+    "name": "Reußen",
+    "country": "DE",
+    "lat": 51.50109,
+    "lng": 12.13044
+  },
+  {
+    "name": "Retzstadt",
+    "country": "DE",
+    "lat": 49.9125,
+    "lng": 9.88194
+  },
+  {
+    "name": "Rettenberg",
+    "country": "DE",
+    "lat": 47.57428,
+    "lng": 10.29173
+  },
+  {
+    "name": "Rettenbach",
+    "country": "DE",
+    "lat": 49.06667,
+    "lng": 12.45
+  },
+  {
+    "name": "Rettenbach",
+    "country": "DE",
+    "lat": 48.45881,
+    "lng": 10.35238
+  },
+  {
+    "name": "Retschow",
+    "country": "DE",
+    "lat": 54.04552,
+    "lng": 11.8778
+  },
+  {
+    "name": "Rethen",
+    "country": "DE",
+    "lat": 52.37707,
+    "lng": 10.47855
+  },
+  {
+    "name": "Rethem",
+    "country": "DE",
+    "lat": 52.78621,
+    "lng": 9.37862
+  },
+  {
+    "name": "Retgendorf",
+    "country": "DE",
+    "lat": 53.72922,
+    "lng": 11.50359
+  },
+  {
+    "name": "Reppenstedt",
+    "country": "DE",
+    "lat": 53.25,
+    "lng": 10.35
+  },
+  {
+    "name": "Rentweinsdorf",
+    "country": "DE",
+    "lat": 50.06342,
+    "lng": 10.79922
+  },
+  {
+    "name": "Renningen",
+    "country": "DE",
+    "lat": 48.76974,
+    "lng": 8.93871
+  },
+  {
+    "name": "Rennertshofen",
+    "country": "DE",
+    "lat": 48.75943,
+    "lng": 11.04544
+  },
+  {
+    "name": "Rennerod",
+    "country": "DE",
+    "lat": 50.6082,
+    "lng": 8.06697
+  },
+  {
+    "name": "Rengsdorf",
+    "country": "DE",
+    "lat": 50.5,
+    "lng": 7.5
+  },
+  {
+    "name": "Rendsburg",
+    "country": "DE",
+    "lat": 54.30182,
+    "lng": 9.67175
+  },
+  {
+    "name": "Renchen",
+    "country": "DE",
+    "lat": 48.5885,
+    "lng": 8.01321
+  },
+  {
+    "name": "Remse",
+    "country": "DE",
+    "lat": 50.85,
+    "lng": 12.56667
+  },
+  {
+    "name": "Remscheid",
+    "country": "DE",
+    "lat": 51.17983,
+    "lng": 7.1925
+  },
+  {
+    "name": "Remptendorf",
+    "country": "DE",
+    "lat": 50.53333,
+    "lng": 11.65
+  },
+  {
+    "name": "Remlingen",
+    "country": "DE",
+    "lat": 52.11367,
+    "lng": 10.67408
+  },
+  {
+    "name": "Remlingen",
+    "country": "DE",
+    "lat": 49.80477,
+    "lng": 9.69484
+  },
+  {
+    "name": "Remagen",
+    "country": "DE",
+    "lat": 50.57879,
+    "lng": 7.22703
+  },
+  {
+    "name": "Rellingen",
+    "country": "DE",
+    "lat": 53.651,
+    "lng": 9.829
+  },
+  {
+    "name": "Reit im Winkl",
+    "country": "DE",
+    "lat": 47.67729,
+    "lng": 12.47086
+  },
+  {
+    "name": "Reiskirchen",
+    "country": "DE",
+    "lat": 50.6,
+    "lng": 8.83333
+  },
+  {
+    "name": "Reischach",
+    "country": "DE",
+    "lat": 48.29073,
+    "lng": 12.7262
+  },
+  {
+    "name": "Reisbach",
+    "country": "DE",
+    "lat": 48.57008,
+    "lng": 12.62799
+  },
+  {
+    "name": "Reinstorf",
+    "country": "DE",
+    "lat": 53.23445,
+    "lng": 10.57323
+  },
+  {
+    "name": "Reinsfeld",
+    "country": "DE",
+    "lat": 49.68333,
+    "lng": 6.88333
+  },
+  {
+    "name": "Reinsdorf",
+    "country": "DE",
+    "lat": 50.69775,
+    "lng": 12.55555
+  },
+  {
+    "name": "Reinsberg",
+    "country": "DE",
+    "lat": 51.00823,
+    "lng": 13.36542
+  },
+  {
+    "name": "Reinickendorf",
+    "country": "DE",
+    "lat": 52.56395,
+    "lng": 13.33552
+  },
+  {
+    "name": "Reinheim",
+    "country": "DE",
+    "lat": 49.82923,
+    "lng": 8.83572
+  },
+  {
+    "name": "Reinhausen",
+    "country": "DE",
+    "lat": 49.03092,
+    "lng": 12.11329
+  },
+  {
+    "name": "Reinhardtsgrimma",
+    "country": "DE",
+    "lat": 50.8927,
+    "lng": 13.75534
+  },
+  {
+    "name": "Reinhardshausen",
+    "country": "DE",
+    "lat": 51.11166,
+    "lng": 9.07514
+  },
+  {
+    "name": "Reinfeld",
+    "country": "DE",
+    "lat": 53.8311,
+    "lng": 10.49227
+  },
+  {
+    "name": "Reinberg",
+    "country": "DE",
+    "lat": 53.67526,
+    "lng": 13.14779
+  },
+  {
+    "name": "Reinbek",
+    "country": "DE",
+    "lat": 53.51703,
+    "lng": 10.2488
+  },
+  {
+    "name": "Reimlingen",
+    "country": "DE",
+    "lat": 48.81667,
+    "lng": 10.51667
+  },
+  {
+    "name": "Reilingen",
+    "country": "DE",
+    "lat": 49.29472,
+    "lng": 8.56917
+  },
+  {
+    "name": "Reil",
+    "country": "DE",
+    "lat": 50.01667,
+    "lng": 7.11667
+  },
+  {
+    "name": "Reichling",
+    "country": "DE",
+    "lat": 47.9228,
+    "lng": 10.92847
+  },
+  {
+    "name": "Reichertshofen",
+    "country": "DE",
+    "lat": 48.65775,
+    "lng": 11.46612
+  },
+  {
+    "name": "Reichertsheim",
+    "country": "DE",
+    "lat": 48.2,
+    "lng": 12.28333
+  },
+  {
+    "name": "Reichertshausen",
+    "country": "DE",
+    "lat": 47.89882,
+    "lng": 11.55843
+  },
+  {
+    "name": "Reichersbeuern",
+    "country": "DE",
+    "lat": 47.76667,
+    "lng": 11.63333
+  },
+  {
+    "name": "Reichenwalde",
+    "country": "DE",
+    "lat": 52.26667,
+    "lng": 14.0
+  },
+  {
+    "name": "Reichenschwand",
+    "country": "DE",
+    "lat": 49.51384,
+    "lng": 11.37274
+  },
+  {
+    "name": "Reichenberg",
+    "country": "DE",
+    "lat": 49.73193,
+    "lng": 9.91478
+  },
+  {
+    "name": "Reichenbach-Steegen",
+    "country": "DE",
+    "lat": 49.5,
+    "lng": 7.55
+  },
+  {
+    "name": "Reichenbach an der Fils",
+    "country": "DE",
+    "lat": 48.71011,
+    "lng": 9.46429
+  },
+  {
+    "name": "Reichenbach",
+    "country": "DE",
+    "lat": 51.14144,
+    "lng": 14.8027
+  },
+  {
+    "name": "Reichenbach/Vogtland",
+    "country": "DE",
+    "lat": 50.62279,
+    "lng": 12.30344
+  },
+  {
+    "name": "Reichenbach",
+    "country": "DE",
+    "lat": 49.18333,
+    "lng": 12.35
+  },
+  {
+    "name": "Reichelsheim",
+    "country": "DE",
+    "lat": 50.35638,
+    "lng": 8.87446
+  },
+  {
+    "name": "Reichelsheim",
+    "country": "DE",
+    "lat": 49.71211,
+    "lng": 8.83896
+  },
+  {
+    "name": "Reichartshausen",
+    "country": "DE",
+    "lat": 49.355,
+    "lng": 8.94528
+  },
+  {
+    "name": "Reichardtswerben",
+    "country": "DE",
+    "lat": 51.24851,
+    "lng": 11.95349
+  },
+  {
+    "name": "Rehna",
+    "country": "DE",
+    "lat": 53.77994,
+    "lng": 11.05207
+  },
+  {
+    "name": "Rehling",
+    "country": "DE",
+    "lat": 48.48333,
+    "lng": 10.93333
+  },
+  {
+    "name": "Rehfelde",
+    "country": "DE",
+    "lat": 52.53417,
+    "lng": 13.90884
+  },
+  {
+    "name": "Rehe",
+    "country": "DE",
+    "lat": 50.63333,
+    "lng": 8.11667
+  },
+  {
+    "name": "Rehden",
+    "country": "DE",
+    "lat": 52.61024,
+    "lng": 8.48093
+  },
+  {
+    "name": "Rehburg-Loccum",
+    "country": "DE",
+    "lat": 52.46952,
+    "lng": 9.19957
+  },
+  {
+    "name": "Rehau",
+    "country": "DE",
+    "lat": 50.24921,
+    "lng": 12.03422
+  },
+  {
+    "name": "Regnitzlosau",
+    "country": "DE",
+    "lat": 50.3,
+    "lng": 12.05
+  },
+  {
+    "name": "Regis-Breitingen",
+    "country": "DE",
+    "lat": 51.08883,
+    "lng": 12.43841
+  },
+  {
+    "name": "Regesbostel",
+    "country": "DE",
+    "lat": 53.38055,
+    "lng": 9.64927
+  },
+  {
+    "name": "Regenstauf",
+    "country": "DE",
+    "lat": 49.12014,
+    "lng": 12.13027
+  },
+  {
+    "name": "Regensburg",
+    "country": "DE",
+    "lat": 49.01513,
+    "lng": 12.10161
+  },
+  {
+    "name": "Regen",
+    "country": "DE",
+    "lat": 48.9719,
+    "lng": 13.12824
+  },
+  {
+    "name": "Reeßum",
+    "country": "DE",
+    "lat": 53.13333,
+    "lng": 9.21667
+  },
+  {
+    "name": "Rees",
+    "country": "DE",
+    "lat": 51.76263,
+    "lng": 6.39778
+  },
+  {
+    "name": "Redwitz an der Rodach",
+    "country": "DE",
+    "lat": 50.17323,
+    "lng": 11.20833
+  },
+  {
+    "name": "Rednitzhembach",
+    "country": "DE",
+    "lat": 49.30095,
+    "lng": 11.07997
+  },
+  {
+    "name": "Recklinghausen",
+    "country": "DE",
+    "lat": 51.61379,
+    "lng": 7.19738
+  },
+  {
+    "name": "Recke",
+    "country": "DE",
+    "lat": 52.36885,
+    "lng": 7.72116
+  },
+  {
+    "name": "Rechtsupweg",
+    "country": "DE",
+    "lat": 53.52596,
+    "lng": 7.32355
+  },
+  {
+    "name": "Rechtmehring",
+    "country": "DE",
+    "lat": 48.12478,
+    "lng": 12.16063
+  },
+  {
+    "name": "Rechtenbach",
+    "country": "DE",
+    "lat": 49.98306,
+    "lng": 9.50833
+  },
+  {
+    "name": "Rechlin",
+    "country": "DE",
+    "lat": 53.33549,
+    "lng": 12.72543
+  },
+  {
+    "name": "Rechenberg-Bienenmühle",
+    "country": "DE",
+    "lat": 50.73777,
+    "lng": 13.53502
+  },
+  {
+    "name": "Rechberghausen",
+    "country": "DE",
+    "lat": 48.7308,
+    "lng": 9.64419
+  },
+  {
+    "name": "Reichenau",
+    "country": "DE",
+    "lat": 47.68885,
+    "lng": 9.06355
+  },
+  {
+    "name": "Remseck am Neckar",
+    "country": "DE",
+    "lat": 48.87213,
+    "lng": 9.27334
+  },
+  {
+    "name": "Restauración",
+    "country": "DO",
+    "lat": 19.31532,
+    "lng": -71.69239
+  },
+  {
+    "name": "Remchi",
+    "country": "DZ",
+    "lat": 35.06196,
+    "lng": -1.43362
+  },
+  {
+    "name": "Relizane",
+    "country": "DZ",
+    "lat": 35.73734,
+    "lng": 0.55599
+  },
+  {
+    "name": "Reguiba",
+    "country": "DZ",
+    "lat": 33.56391,
+    "lng": 6.70326
+  },
+  {
+    "name": "Reghaïa",
+    "country": "DZ",
+    "lat": 36.73587,
+    "lng": 3.34018
+  },
+  {
+    "name": "Reggane",
+    "country": "DZ",
+    "lat": 26.71576,
+    "lng": 0.1714
+  },
+  {
+    "name": "Retuerta de Bullaque",
+    "country": "ES",
+    "lat": 39.46363,
+    "lng": -4.41363
+  },
+  {
+    "name": "Requena",
+    "country": "ES",
+    "lat": 39.48834,
+    "lng": -1.10044
+  },
+  {
+    "name": "Rena",
+    "country": "ES",
+    "lat": 39.05252,
+    "lng": -5.80868
+  },
+  {
+    "name": "Relleu",
+    "country": "ES",
+    "lat": 38.58725,
+    "lng": -0.31157
+  },
+  {
+    "name": "Reina",
+    "country": "ES",
+    "lat": 38.18333,
+    "lng": -5.95
+  },
+  {
+    "name": "Reíllo",
+    "country": "ES",
+    "lat": 39.9,
+    "lng": -1.86667
+  },
+  {
+    "name": "Redován",
+    "country": "ES",
+    "lat": 38.11619,
+    "lng": -0.90981
+  },
+  {
+    "name": "Realejo Alto",
+    "country": "ES",
+    "lat": 28.37645,
+    "lng": -16.58575
+  },
+  {
+    "name": "Real de Montroi",
+    "country": "ES",
+    "lat": 39.33333,
+    "lng": -0.6
+  },
+  {
+    "name": "Real de Gandía",
+    "country": "ES",
+    "lat": 38.94817,
+    "lng": -0.19239
+  },
+  {
+    "name": "Reznos",
+    "country": "ES",
+    "lat": 41.5909,
+    "lng": -2.02779
+  },
+  {
+    "name": "Rezmondo",
+    "country": "ES",
+    "lat": 42.51565,
+    "lng": -4.23877
+  },
+  {
+    "name": "Reyero",
+    "country": "ES",
+    "lat": 42.94882,
+    "lng": -5.19892
+  },
+  {
+    "name": "Revillarruz",
+    "country": "ES",
+    "lat": 42.23006,
+    "lng": -3.65246
+  },
+  {
+    "name": "Revilla del Campo",
+    "country": "ES",
+    "lat": 42.21081,
+    "lng": -3.54289
+  },
+  {
+    "name": "Revilla de Collazos",
+    "country": "ES",
+    "lat": 42.6296,
+    "lng": -4.50343
+  },
+  {
+    "name": "Revenga de Campos",
+    "country": "ES",
+    "lat": 42.28401,
+    "lng": -4.48218
+  },
+  {
+    "name": "Revellinos",
+    "country": "ES",
+    "lat": 41.88982,
+    "lng": -5.56871
+  },
+  {
+    "name": "Reus",
+    "country": "ES",
+    "lat": 41.15612,
+    "lng": 1.10687
+  },
+  {
+    "name": "Retuerta",
+    "country": "ES",
+    "lat": 42.02945,
+    "lng": -3.50679
+  },
+  {
+    "name": "Retortillo de Soria",
+    "country": "ES",
+    "lat": 41.31092,
+    "lng": -2.98228
+  },
+  {
+    "name": "Retortillo",
+    "country": "ES",
+    "lat": 40.80132,
+    "lng": -6.35951
+  },
+  {
+    "name": "Retiendas",
+    "country": "ES",
+    "lat": 40.96835,
+    "lng": -3.27229
+  },
+  {
+    "name": "Retascón",
+    "country": "ES",
+    "lat": 41.1435,
+    "lng": -1.38376
+  },
+  {
+    "name": "Respenda de la Peña",
+    "country": "ES",
+    "lat": 42.76512,
+    "lng": -4.6854
+  },
+  {
+    "name": "Requena de Campos",
+    "country": "ES",
+    "lat": 42.30796,
+    "lng": -4.34304
+  },
+  {
+    "name": "Requejo",
+    "country": "ES",
+    "lat": 42.03044,
+    "lng": -6.74227
+  },
+  {
+    "name": "Reocín",
+    "country": "ES",
+    "lat": 43.33915,
+    "lng": -4.09403
+  },
+  {
+    "name": "Renieblas",
+    "country": "ES",
+    "lat": 41.82009,
+    "lng": -2.37236
+  },
+  {
+    "name": "Renera",
+    "country": "ES",
+    "lat": 40.48976,
+    "lng": -3.01367
+  },
+  {
+    "name": "Renedo de la Vega",
+    "country": "ES",
+    "lat": 42.45348,
+    "lng": -4.70298
+  },
+  {
+    "name": "Renau",
+    "country": "ES",
+    "lat": 41.22448,
+    "lng": 1.31083
+  },
+  {
+    "name": "Remondo",
+    "country": "ES",
+    "lat": 41.341,
+    "lng": -4.4839
+  },
+  {
+    "name": "Remolinos",
+    "country": "ES",
+    "lat": 41.83946,
+    "lng": -1.17768
+  },
+  {
+    "name": "Rello",
+    "country": "ES",
+    "lat": 41.33297,
+    "lng": -2.74925
+  },
+  {
+    "name": "Reinoso de Cerrato",
+    "country": "ES",
+    "lat": 41.97624,
+    "lng": -4.38337
+  },
+  {
+    "name": "Reinoso",
+    "country": "ES",
+    "lat": 42.50915,
+    "lng": -3.38466
+  },
+  {
+    "name": "Reinosa",
+    "country": "ES",
+    "lat": 42.99959,
+    "lng": -4.13801
+  },
+  {
+    "name": "Regumiel de la Sierra",
+    "country": "ES",
+    "lat": 41.95623,
+    "lng": -2.98843
+  },
+  {
+    "name": "Regueras de Arriba",
+    "country": "ES",
+    "lat": 42.29414,
+    "lng": -5.85958
+  },
+  {
+    "name": "Regencós",
+    "country": "ES",
+    "lat": 41.95271,
+    "lng": 3.17006
+  },
+  {
+    "name": "Redueña",
+    "country": "ES",
+    "lat": 40.81685,
+    "lng": -3.59837
+  },
+  {
+    "name": "Redondela",
+    "country": "ES",
+    "lat": 42.28337,
+    "lng": -8.6096
+  },
+  {
+    "name": "Redecilla del Campo",
+    "country": "ES",
+    "lat": 42.46675,
+    "lng": -3.11531
+  },
+  {
+    "name": "Redecilla del Camino",
+    "country": "ES",
+    "lat": 42.43804,
+    "lng": -3.06547
+  },
+  {
+    "name": "Recuerda",
+    "country": "ES",
+    "lat": 41.47408,
+    "lng": -2.9946
+  },
+  {
+    "name": "Recas",
+    "country": "ES",
+    "lat": 40.05286,
+    "lng": -3.9909
+  },
+  {
+    "name": "Rebollosa de Jadraque",
+    "country": "ES",
+    "lat": 41.0904,
+    "lng": -2.84201
+  },
+  {
+    "name": "Rebollo",
+    "country": "ES",
+    "lat": 41.19318,
+    "lng": -3.85771
+  },
+  {
+    "name": "Rebolledo de la Torre",
+    "country": "ES",
+    "lat": 42.68931,
+    "lng": -4.22693
+  },
+  {
+    "name": "Retamar",
+    "country": "ES",
+    "lat": 36.8332,
+    "lng": -2.31597
+  },
+  {
+    "name": "Retiro",
+    "country": "ES",
+    "lat": 40.41317,
+    "lng": -3.68307
+  },
+  {
+    "name": "Recoletos",
+    "country": "ES",
+    "lat": 40.4246,
+    "lng": -3.68582
+  },
+  {
+    "name": "Rejas",
+    "country": "ES",
+    "lat": 40.44509,
+    "lng": -3.57016
+  },
+  {
+    "name": "Replot",
+    "country": "FI",
+    "lat": 63.22882,
+    "lng": 21.41691
+  },
+  {
+    "name": "Renko",
+    "country": "FI",
+    "lat": 60.89563,
+    "lng": 24.28785
+  },
+  {
+    "name": "Rekola",
+    "country": "FI",
+    "lat": 60.33086,
+    "lng": 25.0732
+  },
+  {
+    "name": "Reisjärvi",
+    "country": "FI",
+    "lat": 63.61667,
+    "lng": 24.9
+  },
+  {
+    "name": "Reimarla",
+    "country": "FI",
+    "lat": 60.2279,
+    "lng": 24.85262
+  },
+  {
+    "name": "Rezé",
+    "country": "FR",
+    "lat": 47.19058,
+    "lng": -1.56885
+  },
+  {
+    "name": "Reyrieux",
+    "country": "FR",
+    "lat": 45.93577,
+    "lng": 4.81453
+  },
+  {
+    "name": "Reynès",
+    "country": "FR",
+    "lat": 42.47702,
+    "lng": 2.7068
+  },
+  {
+    "name": "Rexpoëde",
+    "country": "FR",
+    "lat": 50.93926,
+    "lng": 2.53914
+  },
+  {
+    "name": "Revin",
+    "country": "FR",
+    "lat": 49.94039,
+    "lng": 4.63503
+  },
+  {
+    "name": "Revigny-sur-Ornain",
+    "country": "FR",
+    "lat": 48.83016,
+    "lng": 4.98558
+  },
+  {
+    "name": "Reventin-Vaugris",
+    "country": "FR",
+    "lat": 45.46638,
+    "lng": 4.84244
+  },
+  {
+    "name": "Revel",
+    "country": "FR",
+    "lat": 45.18618,
+    "lng": 5.87208
+  },
+  {
+    "name": "Revel",
+    "country": "FR",
+    "lat": 43.4589,
+    "lng": 2.00437
+  },
+  {
+    "name": "Reuilly",
+    "country": "FR",
+    "lat": 47.08476,
+    "lng": 2.04305
+  },
+  {
+    "name": "Reugny",
+    "country": "FR",
+    "lat": 47.48208,
+    "lng": 0.88468
+  },
+  {
+    "name": "Rety",
+    "country": "FR",
+    "lat": 50.8,
+    "lng": 1.76667
+  },
+  {
+    "name": "Retournac",
+    "country": "FR",
+    "lat": 45.2039,
+    "lng": 4.0333
+  },
+  {
+    "name": "Retonfey",
+    "country": "FR",
+    "lat": 49.13648,
+    "lng": 6.30634
+  },
+  {
+    "name": "Retiers",
+    "country": "FR",
+    "lat": 47.91392,
+    "lng": -1.37935
+  },
+  {
+    "name": "Rethel",
+    "country": "FR",
+    "lat": 49.50979,
+    "lng": 4.3674
+  },
+  {
+    "name": "Restinclières",
+    "country": "FR",
+    "lat": 43.72322,
+    "lng": 4.03738
+  },
+  {
+    "name": "Restigné",
+    "country": "FR",
+    "lat": 47.28224,
+    "lng": 0.22788
+  },
+  {
+    "name": "Ressons-sur-Matz",
+    "country": "FR",
+    "lat": 49.53858,
+    "lng": 2.74416
+  },
+  {
+    "name": "Requeil",
+    "country": "FR",
+    "lat": 47.78493,
+    "lng": 0.16182
+  },
+  {
+    "name": "Replonges",
+    "country": "FR",
+    "lat": 46.30098,
+    "lng": 4.88317
+  },
+  {
+    "name": "Renwez",
+    "country": "FR",
+    "lat": 49.83839,
+    "lng": 4.60334
+  },
+  {
+    "name": "Rennes",
+    "country": "FR",
+    "lat": 48.11109,
+    "lng": -1.67431
+  },
+  {
+    "name": "Renescure",
+    "country": "FR",
+    "lat": 50.72754,
+    "lng": 2.36801
+  },
+  {
+    "name": "Renazé",
+    "country": "FR",
+    "lat": 47.79299,
+    "lng": -1.05709
+  },
+  {
+    "name": "Renaison",
+    "country": "FR",
+    "lat": 46.04955,
+    "lng": 3.9244
+  },
+  {
+    "name": "Renage",
+    "country": "FR",
+    "lat": 45.33346,
+    "lng": 5.48881
+  },
+  {
+    "name": "Remy",
+    "country": "FR",
+    "lat": 49.43333,
+    "lng": 2.71667
+  },
+  {
+    "name": "Remoulins",
+    "country": "FR",
+    "lat": 43.93965,
+    "lng": 4.56602
+  },
+  {
+    "name": "Remouillé",
+    "country": "FR",
+    "lat": 47.05589,
+    "lng": -1.37729
+  },
+  {
+    "name": "Remiremont",
+    "country": "FR",
+    "lat": 48.01754,
+    "lng": 6.5882
+  },
+  {
+    "name": "Reiningue",
+    "country": "FR",
+    "lat": 47.75215,
+    "lng": 7.23327
+  },
+  {
+    "name": "Reims",
+    "country": "FR",
+    "lat": 49.26526,
+    "lng": 4.02853
+  },
+  {
+    "name": "Reillanne",
+    "country": "FR",
+    "lat": 43.87899,
+    "lng": 5.65919
+  },
+  {
+    "name": "Reignier-Ésery",
+    "country": "FR",
+    "lat": 46.13333,
+    "lng": 6.26667
+  },
+  {
+    "name": "Reignac-sur-Indre",
+    "country": "FR",
+    "lat": 47.22662,
+    "lng": 0.91587
+  },
+  {
+    "name": "Reignac",
+    "country": "FR",
+    "lat": 45.23415,
+    "lng": -0.50751
+  },
+  {
+    "name": "Reichstett",
+    "country": "FR",
+    "lat": 48.64856,
+    "lng": 7.75455
+  },
+  {
+    "name": "Reichshoffen",
+    "country": "FR",
+    "lat": 48.93287,
+    "lng": 7.66561
+  },
+  {
+    "name": "Redon",
+    "country": "FR",
+    "lat": 47.65165,
+    "lng": -2.08421
+  },
+  {
+    "name": "Redessan",
+    "country": "FR",
+    "lat": 43.83147,
+    "lng": 4.49628
+  },
+  {
+    "name": "Recquignies",
+    "country": "FR",
+    "lat": 50.28396,
+    "lng": 4.03722
+  },
+  {
+    "name": "Rebréchien",
+    "country": "FR",
+    "lat": 47.98727,
+    "lng": 2.04432
+  },
+  {
+    "name": "Rebais",
+    "country": "FR",
+    "lat": 48.84721,
+    "lng": 3.23232
+  },
+  {
+    "name": "Resolven",
+    "country": "GB",
+    "lat": 51.71193,
+    "lng": -3.69745
+  },
+  {
+    "name": "Repton",
+    "country": "GB",
+    "lat": 52.83983,
+    "lng": -1.55061
+  },
+  {
+    "name": "Renton",
+    "country": "GB",
+    "lat": 55.972,
+    "lng": -4.58399
+  },
+  {
+    "name": "Renfrew",
+    "country": "GB",
+    "lat": 55.87197,
+    "lng": -4.39253
+  },
+  {
+    "name": "Rendlesham",
+    "country": "GB",
+    "lat": 52.12665,
+    "lng": 1.41536
+  },
+  {
+    "name": "Remenham",
+    "country": "GB",
+    "lat": 51.55189,
+    "lng": -0.89084
+  },
+  {
+    "name": "Reigate",
+    "country": "GB",
+    "lat": 51.23736,
+    "lng": -0.20582
+  },
+  {
+    "name": "Reepham",
+    "country": "GB",
+    "lat": 53.23333,
+    "lng": -0.43333
+  },
+  {
+    "name": "Reepham",
+    "country": "GB",
+    "lat": 52.7632,
+    "lng": 1.11099
+  },
+  {
+    "name": "Reedham",
+    "country": "GB",
+    "lat": 52.56054,
+    "lng": 1.57122
+  },
+  {
+    "name": "Redwick",
+    "country": "GB",
+    "lat": 51.55278,
+    "lng": -2.85
+  },
+  {
+    "name": "Redruth",
+    "country": "GB",
+    "lat": 50.23315,
+    "lng": -5.22434
+  },
+  {
+    "name": "Redlynch",
+    "country": "GB",
+    "lat": 51.09861,
+    "lng": -2.42667
+  },
+  {
+    "name": "Redhill",
+    "country": "GB",
+    "lat": 51.24048,
+    "lng": -0.17044
+  },
+  {
+    "name": "Redditch",
+    "country": "GB",
+    "lat": 52.3065,
+    "lng": -1.94569
+  },
+  {
+    "name": "Redcar",
+    "country": "GB",
+    "lat": 54.61657,
+    "lng": -1.05999
+  },
+  {
+    "name": "Redbourne",
+    "country": "GB",
+    "lat": 53.48728,
+    "lng": -0.53567
+  },
+  {
+    "name": "Redbourn",
+    "country": "GB",
+    "lat": 51.79896,
+    "lng": -0.39594
+  },
+  {
+    "name": "Reading",
+    "country": "GB",
+    "lat": 51.45625,
+    "lng": -0.97113
+  },
+  {
+    "name": "Retford",
+    "country": "GB",
+    "lat": 53.32213,
+    "lng": -0.94315
+  },
+  {
+    "name": "Redding",
+    "country": "GB",
+    "lat": 55.98861,
+    "lng": -3.7323
+  },
+  {
+    "name": "Reddingmuirhead",
+    "country": "GB",
+    "lat": 55.98026,
+    "lng": -3.74853
+  },
+  {
+    "name": "Regent's Park",
+    "country": "GB",
+    "lat": 51.53003,
+    "lng": -0.16193
+  },
+  {
+    "name": "Red Scar",
+    "country": "GB",
+    "lat": 53.78702,
+    "lng": -2.64631
+  },
+  {
+    "name": "Reclamation Areas",
+    "country": "GI",
+    "lat": 36.14399,
+    "lng": -5.35689
+  },
+  {
+    "name": "Rebola",
+    "country": "GQ",
+    "lat": 3.71667,
+    "lng": 8.83333
+  },
+  {
+    "name": "Rethymno",
+    "country": "GR",
+    "lat": 35.36555,
+    "lng": 24.48232
+  },
+  {
+    "name": "Retalhuleu",
+    "country": "GT",
+    "lat": 14.53575,
+    "lng": -91.67848
+  },
+  {
+    "name": "Residence Bel-air",
+    "country": "HK",
+    "lat": 22.25466,
+    "lng": 114.13289
+  },
+  {
+    "name": "Reitoca",
+    "country": "HN",
+    "lat": 13.82583,
+    "lng": -87.46528
+  },
+  {
+    "name": "Rezovac",
+    "country": "HR",
+    "lat": 45.80527,
+    "lng": 17.41123
+  },
+  {
+    "name": "Retkovci",
+    "country": "HR",
+    "lat": 45.23333,
+    "lng": 18.65306
+  },
+  {
+    "name": "Rešetari",
+    "country": "HR",
+    "lat": 45.26232,
+    "lng": 17.42346
+  },
+  {
+    "name": "Repušnica",
+    "country": "HR",
+    "lat": 45.49278,
+    "lng": 16.73083
+  },
+  {
+    "name": "Remetinec",
+    "country": "HR",
+    "lat": 46.18528,
+    "lng": 16.32778
+  },
+  {
+    "name": "Reka",
+    "country": "HR",
+    "lat": 46.13028,
+    "lng": 16.76694
+  },
+  {
+    "name": "Recsk",
+    "country": "HU",
+    "lat": 47.93333,
+    "lng": 20.11667
+  },
+  {
+    "name": "Rendessytelep",
+    "country": "HU",
+    "lat": 47.4528,
+    "lng": 19.16604
+  },
+  {
+    "name": "Reuleuet",
+    "country": "ID",
+    "lat": 5.21667,
+    "lng": 96.28333
+  },
+  {
+    "name": "Rengat",
+    "country": "ID",
+    "lat": -0.37546,
+    "lng": 102.5481
+  },
+  {
+    "name": "Rengasdengklok",
+    "country": "ID",
+    "lat": -6.15917,
+    "lng": 107.29806
+  },
+  {
+    "name": "Rembangan",
+    "country": "ID",
+    "lat": -6.7036,
+    "lng": 111.3416
+  },
+  {
+    "name": "Rejanegara",
+    "country": "ID",
+    "lat": -7.68528,
+    "lng": 109.03833
+  },
+  {
+    "name": "Rembang",
+    "country": "ID",
+    "lat": -6.707,
+    "lng": 111.3498
+  },
+  {
+    "name": "Revivim",
+    "country": "IL",
+    "lat": 31.04395,
+    "lng": 34.72183
+  },
+  {
+    "name": "Reshafim",
+    "country": "IL",
+    "lat": 32.48126,
+    "lng": 35.4762
+  },
+  {
+    "name": "Rekhasim",
+    "country": "IL",
+    "lat": 32.74907,
+    "lng": 35.09901
+  },
+  {
+    "name": "Reẖovot",
+    "country": "IL",
+    "lat": 31.89421,
+    "lng": 34.81199
+  },
+  {
+    "name": "Regba",
+    "country": "IL",
+    "lat": 32.97721,
+    "lng": 35.09864
+  },
+  {
+    "name": "Revava",
+    "country": "IL",
+    "lat": 32.11926,
+    "lng": 35.12896
+  },
+  {
+    "name": "Reengus",
+    "country": "IN",
+    "lat": 27.3636,
+    "lng": 75.56838
+  },
+  {
+    "name": "Rewāri",
+    "country": "IN",
+    "lat": 28.199,
+    "lng": 76.6183
+  },
+  {
+    "name": "Rewa",
+    "country": "IN",
+    "lat": 24.53256,
+    "lng": 81.29234
+  },
+  {
+    "name": "Revelganj",
+    "country": "IN",
+    "lat": 25.78976,
+    "lng": 84.63596
+  },
+  {
+    "name": "Revadanda",
+    "country": "IN",
+    "lat": 18.55363,
+    "lng": 72.92559
+  },
+  {
+    "name": "Repalle",
+    "country": "IN",
+    "lat": 16.0184,
+    "lng": 80.82958
+  },
+  {
+    "name": "Reoti",
+    "country": "IN",
+    "lat": 25.85091,
+    "lng": 84.3778
+  },
+  {
+    "name": "Reodhar",
+    "country": "IN",
+    "lat": 24.6197,
+    "lng": 72.5262
+  },
+  {
+    "name": "Renukūt",
+    "country": "IN",
+    "lat": 24.21641,
+    "lng": 83.0358
+  },
+  {
+    "name": "Renigunta",
+    "country": "IN",
+    "lat": 13.65143,
+    "lng": 79.51256
+  },
+  {
+    "name": "Rengāli",
+    "country": "IN",
+    "lat": 21.64602,
+    "lng": 84.05311
+  },
+  {
+    "name": "Remuna",
+    "country": "IN",
+    "lat": 21.52798,
+    "lng": 86.87156
+  },
+  {
+    "name": "Rehti",
+    "country": "IN",
+    "lat": 22.73781,
+    "lng": 77.43399
+  },
+  {
+    "name": "Rehli",
+    "country": "IN",
+    "lat": 23.63722,
+    "lng": 79.06275
+  },
+  {
+    "name": "Renwāl",
+    "country": "IN",
+    "lat": 27.15767,
+    "lng": 75.35808
+  },
+  {
+    "name": "Reddipālaiyam",
+    "country": "IN",
+    "lat": 13.10778,
+    "lng": 80.12056
+  },
+  {
+    "name": "Rengte",
+    "country": "IN",
+    "lat": 24.48115,
+    "lng": 92.75858
+  },
+  {
+    "name": "Rermā",
+    "country": "IN",
+    "lat": 24.03716,
+    "lng": 84.08176
+  },
+  {
+    "name": "Rekurti",
+    "country": "IN",
+    "lat": 18.46886,
+    "lng": 79.11188
+  },
+  {
+    "name": "Resubelpara",
+    "country": "IN",
+    "lat": 25.90404,
+    "lng": 90.60747
+  },
+  {
+    "name": "Religāra",
+    "country": "IN",
+    "lat": 23.71285,
+    "lng": 85.36095
+  },
+  {
+    "name": "Rengāli",
+    "country": "IN",
+    "lat": 21.25443,
+    "lng": 85.03296
+  },
+  {
+    "name": "Reddivaripalle",
+    "country": "IN",
+    "lat": 13.6031,
+    "lng": 79.0466
+  },
+  {
+    "name": "Reis Magos",
+    "country": "IN",
+    "lat": 15.50761,
+    "lng": 73.80972
+  },
+  {
+    "name": "Reliance Complex",
+    "country": "IN",
+    "lat": 22.34399,
+    "lng": 69.85899
+  },
+  {
+    "name": "Rehambal",
+    "country": "IN",
+    "lat": 32.89755,
+    "lng": 75.06831
+  },
+  {
+    "name": "Rees",
+    "country": "IN",
+    "lat": 18.8954,
+    "lng": 73.20004
+  },
+  {
+    "name": "Reethapuram",
+    "country": "IN",
+    "lat": 8.1843,
+    "lng": 77.24805
+  },
+  {
+    "name": "Reẕvānshahr",
+    "country": "IR",
+    "lat": 37.54947,
+    "lng": 49.13736
+  },
+  {
+    "name": "Rehnān",
+    "country": "IR",
+    "lat": 32.68325,
+    "lng": 51.60158
+  },
+  {
+    "name": "Rey",
+    "country": "IR",
+    "lat": 35.59354,
+    "lng": 51.43997
+  },
+  {
+    "name": "Reyðarfjörður",
+    "country": "IS",
+    "lat": 65.03164,
+    "lng": -14.21832
+  },
+  {
+    "name": "Reykjavík",
+    "country": "IS",
+    "lat": 64.13548,
+    "lng": -21.89541
+  },
+  {
+    "name": "Reykjanesbær",
+    "country": "IS",
+    "lat": 63.99813,
+    "lng": -22.56111
+  },
+  {
+    "name": "Resuttano",
+    "country": "IT",
+    "lat": 37.67865,
+    "lng": 14.02946
+  },
+  {
+    "name": "Rende",
+    "country": "IT",
+    "lat": 39.33154,
+    "lng": 16.18041
+  },
+  {
+    "name": "Reitano",
+    "country": "IT",
+    "lat": 37.97198,
+    "lng": 14.34418
+  },
+  {
+    "name": "Reggio Calabria",
+    "country": "IT",
+    "lat": 38.11047,
+    "lng": 15.66129
+  },
+  {
+    "name": "Regalbuto",
+    "country": "IT",
+    "lat": 37.65195,
+    "lng": 14.63915
+  },
+  {
+    "name": "Realmonte",
+    "country": "IT",
+    "lat": 37.30847,
+    "lng": 13.46429
+  },
+  {
+    "name": "Rezzoaglio",
+    "country": "IT",
+    "lat": 44.52625,
+    "lng": 9.38827
+  },
+  {
+    "name": "Rezzo",
+    "country": "IT",
+    "lat": 44.02101,
+    "lng": 7.87199
+  },
+  {
+    "name": "Rezzato",
+    "country": "IT",
+    "lat": 45.51182,
+    "lng": 10.31731
+  },
+  {
+    "name": "Rezzago",
+    "country": "IT",
+    "lat": 45.86673,
+    "lng": 9.24863
+  },
+  {
+    "name": "Revò",
+    "country": "IT",
+    "lat": 46.39226,
+    "lng": 11.05808
+  },
+  {
+    "name": "Revine",
+    "country": "IT",
+    "lat": 45.99935,
+    "lng": 12.25561
+  },
+  {
+    "name": "Revigliasco",
+    "country": "IT",
+    "lat": 45.01589,
+    "lng": 7.73306
+  },
+  {
+    "name": "Revere",
+    "country": "IT",
+    "lat": 45.05207,
+    "lng": 11.13059
+  },
+  {
+    "name": "Revello",
+    "country": "IT",
+    "lat": 44.65451,
+    "lng": 7.39026
+  },
+  {
+    "name": "Retorbido",
+    "country": "IT",
+    "lat": 44.9498,
+    "lng": 9.0368
+  },
+  {
+    "name": "Resiutta",
+    "country": "IT",
+    "lat": 46.39371,
+    "lng": 13.21796
+  },
+  {
+    "name": "Rescaldina",
+    "country": "IT",
+    "lat": 45.62002,
+    "lng": 8.94878
+  },
+  {
+    "name": "Resana",
+    "country": "IT",
+    "lat": 45.63535,
+    "lng": 11.95472
+  },
+  {
+    "name": "Renazzo",
+    "country": "IT",
+    "lat": 44.76527,
+    "lng": 11.28605
+  },
+  {
+    "name": "Remedello di Sopra",
+    "country": "IT",
+    "lat": 45.27873,
+    "lng": 10.37109
+  },
+  {
+    "name": "Remanzacco",
+    "country": "IT",
+    "lat": 46.08535,
+    "lng": 13.32358
+  },
+  {
+    "name": "Reino",
+    "country": "IT",
+    "lat": 41.29219,
+    "lng": 14.82347
+  },
+  {
+    "name": "Reggio nell'Emilia",
+    "country": "IT",
+    "lat": 44.69825,
+    "lng": 10.63125
+  },
+  {
+    "name": "Reggiolo",
+    "country": "IT",
+    "lat": 44.91824,
+    "lng": 10.81016
+  },
+  {
+    "name": "Reggello",
+    "country": "IT",
+    "lat": 43.67967,
+    "lng": 11.52976
+  },
+  {
+    "name": "Refrontolo",
+    "country": "IT",
+    "lat": 45.92305,
+    "lng": 12.20865
+  },
+  {
+    "name": "Recoaro Terme",
+    "country": "IT",
+    "lat": 45.70373,
+    "lng": 11.22216
+  },
+  {
+    "name": "Recetto",
+    "country": "IT",
+    "lat": 45.45965,
+    "lng": 8.43503
+  },
+  {
+    "name": "Recco",
+    "country": "IT",
+    "lat": 44.36227,
+    "lng": 9.14354
+  },
+  {
+    "name": "Recanati",
+    "country": "IT",
+    "lat": 43.40381,
+    "lng": 13.55379
+  },
+  {
+    "name": "Recale",
+    "country": "IT",
+    "lat": 41.05702,
+    "lng": 14.3027
+  },
+  {
+    "name": "Reano",
+    "country": "IT",
+    "lat": 45.05217,
+    "lng": 7.42779
+  },
+  {
+    "name": "Re",
+    "country": "IT",
+    "lat": 46.13148,
+    "lng": 8.54569
+  },
+  {
+    "name": "Reana del Roiale",
+    "country": "IT",
+    "lat": 46.13733,
+    "lng": 13.2232
+  },
+  {
+    "name": "Refrancore",
+    "country": "IT",
+    "lat": 44.93635,
+    "lng": 8.34084
+  },
+  {
+    "name": "Renate",
+    "country": "IT",
+    "lat": 45.72438,
+    "lng": 9.27994
+  },
+  {
+    "name": "Redavalle",
+    "country": "IT",
+    "lat": 45.03796,
+    "lng": 9.20225
+  },
+  {
+    "name": "Redondesco",
+    "country": "IT",
+    "lat": 45.16638,
+    "lng": 10.51228
+  },
+  {
+    "name": "Reana del Rojale",
+    "country": "IT",
+    "lat": 46.14322,
+    "lng": 13.24653
+  },
+  {
+    "name": "Remedello",
+    "country": "IT",
+    "lat": 45.27838,
+    "lng": 10.37198
+  },
+  {
+    "name": "Renon",
+    "country": "IT",
+    "lat": 46.54152,
+    "lng": 11.45728
+  },
+  {
+    "name": "Revigliasco d'Asti",
+    "country": "IT",
+    "lat": 44.85755,
+    "lng": 8.16044
+  },
+  {
+    "name": "Rea",
+    "country": "IT",
+    "lat": 45.11336,
+    "lng": 9.15465
+  },
+  {
+    "name": "Regoledo",
+    "country": "IT",
+    "lat": 46.13319,
+    "lng": 9.54597
+  },
+  {
+    "name": "Rettifilo-Vannullo",
+    "country": "IT",
+    "lat": 40.45125,
+    "lng": 15.02794
+  },
+  {
+    "name": "Regolelli",
+    "country": "IT",
+    "lat": 42.29315,
+    "lng": 12.35131
+  },
+  {
+    "name": "Regio Parco",
+    "country": "IT",
+    "lat": 45.09785,
+    "lng": 7.70884
+  },
+  {
+    "name": "Rehab",
+    "country": "JO",
+    "lat": 32.32341,
+    "lng": 36.09087
+  },
+  {
+    "name": "Rebun",
+    "country": "JP",
+    "lat": 42.57389,
+    "lng": 140.60056
+  },
+  {
+    "name": "Reaksmei Sameakki",
+    "country": "KH",
+    "lat": 11.60167,
+    "lng": 104.17601
+  },
+  {
+    "name": "Red Bay Estate",
+    "country": "KY",
+    "lat": 19.28724,
+    "lng": -81.34125
+  },
+  {
+    "name": "Remich",
+    "country": "LU",
+    "lat": 49.545,
+    "lng": 6.36694
+  },
+  {
+    "name": "Reisdorf",
+    "country": "LU",
+    "lat": 49.86861,
+    "lng": 6.26778
+  },
+  {
+    "name": "Redange-sur-Attert",
+    "country": "LU",
+    "lat": 49.76437,
+    "lng": 5.88997
+  },
+  {
+    "name": "Reckange-sur-Mess",
+    "country": "LU",
+    "lat": 49.5625,
+    "lng": 6.00889
+  },
+  {
+    "name": "Reckange",
+    "country": "LU",
+    "lat": 49.74972,
+    "lng": 6.08306
+  },
+  {
+    "name": "Reçani",
+    "country": "MA",
+    "lat": 31.28318,
+    "lng": -4.26565
+  },
+  {
+    "name": "Reggada",
+    "country": "MA",
+    "lat": 29.58016,
+    "lng": -9.70086
+  },
+  {
+    "name": "Rezina",
+    "country": "MD",
+    "lat": 47.74857,
+    "lng": 28.96769
+  },
+  {
+    "name": "Resen",
+    "country": "MK",
+    "lat": 41.08999,
+    "lng": 21.00885
+  },
+  {
+    "name": "Reynosa",
+    "country": "MX",
+    "lat": 26.08005,
+    "lng": -98.28456
+  },
+  {
+    "name": "Reyes Etla",
+    "country": "MX",
+    "lat": 17.2022,
+    "lng": -96.81802
+  },
+  {
+    "name": "Reforma de Pineda",
+    "country": "MX",
+    "lat": 16.40103,
+    "lng": -94.45786
+  },
+  {
+    "name": "Reforma",
+    "country": "MX",
+    "lat": 17.85904,
+    "lng": -93.15381
+  },
+  {
+    "name": "Reyes Mantecón",
+    "country": "MX",
+    "lat": 16.90717,
+    "lng": -96.72702
+  },
+  {
+    "name": "Reyes Acozac",
+    "country": "MX",
+    "lat": 19.7755,
+    "lng": -98.98079
+  },
+  {
+    "name": "Reforma",
+    "country": "MX",
+    "lat": 15.91899,
+    "lng": -92.66501
+  },
+  {
+    "name": "Reforma",
+    "country": "MX",
+    "lat": 18.21393,
+    "lng": -93.34237
+  },
+  {
+    "name": "Revolución Mexicana",
+    "country": "MX",
+    "lat": 16.17156,
+    "lng": -93.07666
+  },
+  {
+    "name": "Recoveco",
+    "country": "MX",
+    "lat": 24.99452,
+    "lng": -107.72768
+  },
+  {
+    "name": "Real de Catorce",
+    "country": "MX",
+    "lat": 23.68996,
+    "lng": -100.88676
+  },
+  {
+    "name": "Real del Valle (El Paraíso) [Fraccionamiento]",
+    "country": "MX",
+    "lat": 20.54556,
+    "lng": -103.36972
+  },
+  {
+    "name": "Real del Sol",
+    "country": "MX",
+    "lat": 25.93833,
+    "lng": -100.18111
+  },
+  {
+    "name": "Real Hacienda (Metrópolis)",
+    "country": "MX",
+    "lat": 19.75056,
+    "lng": -101.19694
+  },
+  {
+    "name": "Residencial las Olas",
+    "country": "MX",
+    "lat": 18.11861,
+    "lng": -94.56611
+  },
+  {
+    "name": "Residencial Tajín",
+    "country": "MX",
+    "lat": 20.59806,
+    "lng": -97.41694
+  },
+  {
+    "name": "Reforma y Planada",
+    "country": "MX",
+    "lat": 17.38694,
+    "lng": -92.86583
+  },
+  {
+    "name": "Residencial Arboledas",
+    "country": "MX",
+    "lat": 20.06444,
+    "lng": -99.30167
+  },
+  {
+    "name": "Rengit",
+    "country": "MY",
+    "lat": 1.6807,
+    "lng": 103.1478
+  },
+  {
+    "name": "Redang Panjang",
+    "country": "MY",
+    "lat": 5.11667,
+    "lng": 100.78333
+  },
+  {
+    "name": "Rembia",
+    "country": "MY",
+    "lat": 2.328,
+    "lng": 102.2101
+  },
+  {
+    "name": "Rembau",
+    "country": "MY",
+    "lat": 2.5897,
+    "lng": 102.0913
+  },
+  {
+    "name": "Relau",
+    "country": "MY",
+    "lat": 5.33096,
+    "lng": 100.28296
+  },
+  {
+    "name": "Ressano Garcia",
+    "country": "MZ",
+    "lat": -25.44278,
+    "lng": 31.99528
+  },
+  {
+    "name": "Rehoboth",
+    "country": "NA",
+    "lat": -23.317,
+    "lng": 17.09
+  },
+  {
+    "name": "Receiving",
+    "country": "NC",
+    "lat": -22.29227,
+    "lng": 166.4427
+  },
+  {
+    "name": "Reuver",
+    "country": "NL",
+    "lat": 51.28417,
+    "lng": 6.07778
+  },
+  {
+    "name": "Reusel",
+    "country": "NL",
+    "lat": 51.3625,
+    "lng": 5.16528
+  },
+  {
+    "name": "Renswoude",
+    "country": "NL",
+    "lat": 52.07333,
+    "lng": 5.54028
+  },
+  {
+    "name": "Renkum",
+    "country": "NL",
+    "lat": 51.97667,
+    "lng": 5.73333
+  },
+  {
+    "name": "Renesse",
+    "country": "NL",
+    "lat": 51.7325,
+    "lng": 3.775
+  },
+  {
+    "name": "Reeuwijk",
+    "country": "NL",
+    "lat": 52.04667,
+    "lng": 4.725
+  },
+  {
+    "name": "Reek",
+    "country": "NL",
+    "lat": 51.74583,
+    "lng": 5.68194
+  },
+  {
+    "name": "Reitdiep",
+    "country": "NL",
+    "lat": 53.24252,
+    "lng": 6.51957
+  },
+  {
+    "name": "Rena",
+    "country": "NO",
+    "lat": 61.13222,
+    "lng": 11.37156
+  },
+  {
+    "name": "Reinsvoll",
+    "country": "NO",
+    "lat": 60.67977,
+    "lng": 10.62175
+  },
+  {
+    "name": "Rensvik",
+    "country": "NO",
+    "lat": 63.09843,
+    "lng": 7.82026
+  },
+  {
+    "name": "Reine",
+    "country": "NO",
+    "lat": 67.93249,
+    "lng": 13.08955
+  },
+  {
+    "name": "Revetal",
+    "country": "NO",
+    "lat": 59.3724,
+    "lng": 10.26308
+  },
+  {
+    "name": "Renwick",
+    "country": "NZ",
+    "lat": -41.5,
+    "lng": 173.83333
+  },
+  {
+    "name": "Redcliffs",
+    "country": "NZ",
+    "lat": -43.56152,
+    "lng": 172.73654
+  },
+  {
+    "name": "Redwood",
+    "country": "NZ",
+    "lat": -43.46833,
+    "lng": 172.61013
+  },
+  {
+    "name": "Red Hill",
+    "country": "NZ",
+    "lat": -37.0582,
+    "lng": 174.97019
+  },
+  {
+    "name": "Remuera",
+    "country": "NZ",
+    "lat": -36.88041,
+    "lng": 174.79819
+  },
+  {
+    "name": "Redwoodtown",
+    "country": "NZ",
+    "lat": -41.52828,
+    "lng": 173.95018
+  },
+  {
+    "name": "Remedios",
+    "country": "PA",
+    "lat": 8.22541,
+    "lng": -81.82923
+  },
+  {
+    "name": "Requena",
+    "country": "PE",
+    "lat": -5.06083,
+    "lng": -73.85028
+  },
+  {
+    "name": "Reque",
+    "country": "PE",
+    "lat": -6.86556,
+    "lng": -79.81778
+  },
+  {
+    "name": "Recuay",
+    "country": "PE",
+    "lat": -9.72215,
+    "lng": -77.4563
+  },
+  {
+    "name": "Remanso",
+    "country": "PE",
+    "lat": -2.40808,
+    "lng": -71.17663
+  },
+  {
+    "name": "Reina Mercedes",
+    "country": "PH",
+    "lat": 16.98545,
+    "lng": 121.82664
+  },
+  {
+    "name": "Recodo",
+    "country": "PH",
+    "lat": 11.94914,
+    "lng": 123.73695
+  },
+  {
+    "name": "Recodo",
+    "country": "PH",
+    "lat": 6.95194,
+    "lng": 121.96361
+  },
+  {
+    "name": "Real",
+    "country": "PH",
+    "lat": 15.8089,
+    "lng": 120.34549
+  },
+  {
+    "name": "Real",
+    "country": "PH",
+    "lat": 14.66397,
+    "lng": 121.60412
+  },
+  {
+    "name": "Rebe",
+    "country": "PH",
+    "lat": 7.9076,
+    "lng": 123.8155
+  },
+  {
+    "name": "Renala Khurd",
+    "country": "PK",
+    "lat": 30.87878,
+    "lng": 73.59857
+  },
+  {
+    "name": "Reszel",
+    "country": "PL",
+    "lat": 54.05042,
+    "lng": 21.14585
+  },
+  {
+    "name": "Repki",
+    "country": "PL",
+    "lat": 52.38555,
+    "lng": 22.39117
+  },
+  {
+    "name": "Rembertów",
+    "country": "PL",
+    "lat": 52.26059,
+    "lng": 21.16355
+  },
+  {
+    "name": "Rejowiec Fabryczny",
+    "country": "PL",
+    "lat": 51.11414,
+    "lng": 23.24724
+  },
+  {
+    "name": "Rejowiec",
+    "country": "PL",
+    "lat": 51.09134,
+    "lng": 23.28192
+  },
+  {
+    "name": "Regnów",
+    "country": "PL",
+    "lat": 51.7485,
+    "lng": 20.38711
+  },
+  {
+    "name": "Regimin",
+    "country": "PL",
+    "lat": 52.94166,
+    "lng": 20.55319
+  },
+  {
+    "name": "Rewal",
+    "country": "PL",
+    "lat": 54.0812,
+    "lng": 15.01471
+  },
+  {
+    "name": "Resko",
+    "country": "PL",
+    "lat": 53.77307,
+    "lng": 15.40607
+  },
+  {
+    "name": "Reńska Wieś",
+    "country": "PL",
+    "lat": 50.31587,
+    "lng": 18.12607
+  },
+  {
+    "name": "Rekowo Dolne",
+    "country": "PL",
+    "lat": 54.63133,
+    "lng": 18.36279
+  },
+  {
+    "name": "Regulice",
+    "country": "PL",
+    "lat": 50.08314,
+    "lng": 19.52785
+  },
+  {
+    "name": "Reda",
+    "country": "PL",
+    "lat": 54.60528,
+    "lng": 18.34717
+  },
+  {
+    "name": "Recz",
+    "country": "PL",
+    "lat": 53.25989,
+    "lng": 15.54713
+  },
+  {
+    "name": "Rejon ulicy Klęczkowskiej",
+    "country": "PL",
+    "lat": 51.1297,
+    "lng": 17.03376
+  },
+  {
+    "name": "Rejon alei Kromera",
+    "country": "PL",
+    "lat": 51.13375,
+    "lng": 17.07107
+  },
+  {
+    "name": "Rejon ulicy Saperów",
+    "country": "PL",
+    "lat": 51.08614,
+    "lng": 17.0005
+  },
+  {
+    "name": "Rejon ulicy Mieleckiej",
+    "country": "PL",
+    "lat": 51.09145,
+    "lng": 17.00207
+  },
+  {
+    "name": "Rejon placu Grunwaldzkiego",
+    "country": "PL",
+    "lat": 51.11669,
+    "lng": 17.06126
+  },
+  {
+    "name": "Rejon ulicy Traugutta",
+    "country": "PL",
+    "lat": 51.10247,
+    "lng": 17.04827
+  },
+  {
+    "name": "Rejon placu Świętego Macieja",
+    "country": "PL",
+    "lat": 51.12056,
+    "lng": 17.03761
+  },
+  {
+    "name": "Rejon ulicy Borowskiej-Południe",
+    "country": "PL",
+    "lat": 51.0766,
+    "lng": 17.02582
+  },
+  {
+    "name": "Reguengos de Monsaraz",
+    "country": "PT",
+    "lat": 38.42529,
+    "lng": -7.53494
+  },
+  {
+    "name": "Reguengo",
+    "country": "PT",
+    "lat": 39.29801,
+    "lng": -7.39234
+  },
+  {
+    "name": "Redondo",
+    "country": "PT",
+    "lat": 38.64872,
+    "lng": -7.54708
+  },
+  {
+    "name": "Resende",
+    "country": "PT",
+    "lat": 41.10582,
+    "lng": -7.9665
+  },
+  {
+    "name": "Rendufe",
+    "country": "PT",
+    "lat": 41.62898,
+    "lng": -8.40858
+  },
+  {
+    "name": "Refojos de Basto",
+    "country": "PT",
+    "lat": 41.51318,
+    "lng": -7.99517
+  },
+  {
+    "name": "Recarei",
+    "country": "PT",
+    "lat": 41.15356,
+    "lng": -8.41178
+  },
+  {
+    "name": "Rebordosa",
+    "country": "PT",
+    "lat": 41.22405,
+    "lng": -8.40669
+  },
+  {
+    "name": "Rebordões",
+    "country": "PT",
+    "lat": 41.35509,
+    "lng": -8.42355
+  },
+  {
+    "name": "Real",
+    "country": "PT",
+    "lat": 41.55841,
+    "lng": -8.4433
+  },
+  {
+    "name": "Relva",
+    "country": "PT",
+    "lat": 37.75271,
+    "lng": -25.71848
+  },
+  {
+    "name": "Restelo",
+    "country": "PT",
+    "lat": 38.69955,
+    "lng": -9.21406
+  },
+  {
+    "name": "Repatriación",
+    "country": "PY",
+    "lat": -25.53515,
+    "lng": -55.99242
+  },
+  {
+    "name": "Reviga",
+    "country": "RO",
+    "lat": 44.71667,
+    "lng": 27.1
+  },
+  {
+    "name": "Retevoiești",
+    "country": "RO",
+    "lat": 45.14016,
+    "lng": 24.83797
+  },
+  {
+    "name": "Reteag",
+    "country": "RO",
+    "lat": 47.19582,
+    "lng": 24.01862
+  },
+  {
+    "name": "Reşiţa",
+    "country": "RO",
+    "lat": 45.30083,
+    "lng": 21.88917
+  },
+  {
+    "name": "Repedea",
+    "country": "RO",
+    "lat": 47.83333,
+    "lng": 24.4
+  },
+  {
+    "name": "Remuș",
+    "country": "RO",
+    "lat": 43.94295,
+    "lng": 25.98039
+  },
+  {
+    "name": "Remeţi",
+    "country": "RO",
+    "lat": 47.98333,
+    "lng": 23.63333
+  },
+  {
+    "name": "Remetea Mare",
+    "country": "RO",
+    "lat": 45.77944,
+    "lng": 21.37611
+  },
+  {
+    "name": "Remetea Chioarului",
+    "country": "RO",
+    "lat": 47.53333,
+    "lng": 23.55
+  },
+  {
+    "name": "Remetea",
+    "country": "RO",
+    "lat": 46.78333,
+    "lng": 25.45
+  },
+  {
+    "name": "Remetea",
+    "country": "RO",
+    "lat": 46.73333,
+    "lng": 22.35
+  },
+  {
+    "name": "Remetea",
+    "country": "RO",
+    "lat": 46.57432,
+    "lng": 24.51359
+  },
+  {
+    "name": "Reghiu",
+    "country": "RO",
+    "lat": 45.78333,
+    "lng": 26.83333
+  },
+  {
+    "name": "Reghin-Sat",
+    "country": "RO",
+    "lat": 46.78333,
+    "lng": 24.71667
+  },
+  {
+    "name": "Reghin",
+    "country": "RO",
+    "lat": 46.7742,
+    "lng": 24.70216
+  },
+  {
+    "name": "Rediu",
+    "country": "RO",
+    "lat": 46.63374,
+    "lng": 27.69439
+  },
+  {
+    "name": "Rediu",
+    "country": "RO",
+    "lat": 48.23075,
+    "lng": 26.77841
+  },
+  {
+    "name": "Rediu",
+    "country": "RO",
+    "lat": 47.24033,
+    "lng": 26.86406
+  },
+  {
+    "name": "Rediu",
+    "country": "RO",
+    "lat": 47.21667,
+    "lng": 27.5
+  },
+  {
+    "name": "Rediu",
+    "country": "RO",
+    "lat": 46.75598,
+    "lng": 26.56254
+  },
+  {
+    "name": "Rediu",
+    "country": "RO",
+    "lat": 45.71667,
+    "lng": 27.83333
+  },
+  {
+    "name": "Redea",
+    "country": "RO",
+    "lat": 44.05,
+    "lng": 24.3
+  },
+  {
+    "name": "Reci",
+    "country": "RO",
+    "lat": 45.85,
+    "lng": 25.93333
+  },
+  {
+    "name": "Recea Cristur",
+    "country": "RO",
+    "lat": 47.06667,
+    "lng": 23.53333
+  },
+  {
+    "name": "Recea",
+    "country": "RO",
+    "lat": 47.63333,
+    "lng": 23.51667
+  },
+  {
+    "name": "Recea",
+    "country": "RO",
+    "lat": 45.71334,
+    "lng": 24.93152
+  },
+  {
+    "name": "Recea",
+    "country": "RO",
+    "lat": 44.53333,
+    "lng": 25.01667
+  },
+  {
+    "name": "Recea",
+    "country": "RO",
+    "lat": 44.31949,
+    "lng": 22.91659
+  },
+  {
+    "name": "Recaş",
+    "country": "RO",
+    "lat": 45.79889,
+    "lng": 21.50083
+  },
+  {
+    "name": "Rebrişoara",
+    "country": "RO",
+    "lat": 47.28333,
+    "lng": 24.45
+  },
+  {
+    "name": "Rebricea",
+    "country": "RO",
+    "lat": 46.86667,
+    "lng": 27.55
+  },
+  {
+    "name": "Rebra",
+    "country": "RO",
+    "lat": 47.31667,
+    "lng": 24.5
+  },
+  {
+    "name": "Rekovac",
+    "country": "RS",
+    "lat": 43.863,
+    "lng": 21.09345
+  },
+  {
+    "name": "Revyakino",
+    "country": "RU",
+    "lat": 54.36517,
+    "lng": 37.66249
+  },
+  {
+    "name": "Revda",
+    "country": "RU",
+    "lat": 67.9371,
+    "lng": 34.56149
+  },
+  {
+    "name": "Revda",
+    "country": "RU",
+    "lat": 56.80239,
+    "lng": 59.93774
+  },
+  {
+    "name": "Reutov",
+    "country": "RU",
+    "lat": 55.76273,
+    "lng": 37.86303
+  },
+  {
+    "name": "Reshetnikovo",
+    "country": "RU",
+    "lat": 56.45,
+    "lng": 36.56667
+  },
+  {
+    "name": "Reshetikha",
+    "country": "RU",
+    "lat": 56.21566,
+    "lng": 43.28802
+  },
+  {
+    "name": "Rep’yëvka",
+    "country": "RU",
+    "lat": 51.08278,
+    "lng": 38.64337
+  },
+  {
+    "name": "Repnoye",
+    "country": "RU",
+    "lat": 51.5921,
+    "lng": 43.1861
+  },
+  {
+    "name": "Repino",
+    "country": "RU",
+    "lat": 60.17217,
+    "lng": 29.86908
+  },
+  {
+    "name": "Remontnoye",
+    "country": "RU",
+    "lat": 46.56081,
+    "lng": 43.64882
+  },
+  {
+    "name": "Redkino",
+    "country": "RU",
+    "lat": 56.64754,
+    "lng": 36.29674
+  },
+  {
+    "name": "Rechitsy",
+    "country": "RU",
+    "lat": 55.59754,
+    "lng": 38.47134
+  },
+  {
+    "name": "Rezh",
+    "country": "RU",
+    "lat": 57.37116,
+    "lng": 61.40398
+  },
+  {
+    "name": "Reftinskiy",
+    "country": "RU",
+    "lat": 57.09013,
+    "lng": 61.67692
+  },
+  {
+    "name": "Rebrikha",
+    "country": "RU",
+    "lat": 53.07933,
+    "lng": 82.33939
+  },
+  {
+    "name": "Rechka-Vydrino",
+    "country": "RU",
+    "lat": 51.487,
+    "lng": 104.848
+  },
+  {
+    "name": "Rettikhovka",
+    "country": "RU",
+    "lat": 44.16995,
+    "lng": 132.77007
+  },
+  {
+    "name": "Resarö",
+    "country": "SE",
+    "lat": 59.4291,
+    "lng": 18.33386
+  },
+  {
+    "name": "Reftele",
+    "country": "SE",
+    "lat": 57.17467,
+    "lng": 13.59498
+  },
+  {
+    "name": "Renče",
+    "country": "SI",
+    "lat": 45.89,
+    "lng": 13.66861
+  },
+  {
+    "name": "Rečica ob Savinji",
+    "country": "SI",
+    "lat": 46.31667,
+    "lng": 14.91667
+  },
+  {
+    "name": "Revúca",
+    "country": "SK",
+    "lat": 48.68346,
+    "lng": 20.11734
+  },
+  {
+    "name": "Reca",
+    "country": "SK",
+    "lat": 48.2311,
+    "lng": 17.45399
+  },
+  {
+    "name": "Renu Nakhon",
+    "country": "TH",
+    "lat": 17.05157,
+    "lng": 104.67709
+  },
+  {
+    "name": "Remada",
+    "country": "TN",
+    "lat": 32.31662,
+    "lng": 10.39551
+  },
+  {
+    "name": "Rejiche",
+    "country": "TN",
+    "lat": 35.46665,
+    "lng": 11.03848
+  },
+  {
+    "name": "Reşadiye",
+    "country": "TR",
+    "lat": 38.48879,
+    "lng": 42.53501
+  },
+  {
+    "name": "Reyhanlı",
+    "country": "TR",
+    "lat": 36.26791,
+    "lng": 36.56747
+  },
+  {
+    "name": "Reşadiye",
+    "country": "TR",
+    "lat": 38.42231,
+    "lng": 30.16778
+  },
+  {
+    "name": "Reis",
+    "country": "TR",
+    "lat": 38.27139,
+    "lng": 31.57139
+  },
+  {
+    "name": "Refahiye",
+    "country": "TR",
+    "lat": 39.89315,
+    "lng": 38.76607
+  },
+  {
+    "name": "Reşadiye",
+    "country": "TR",
+    "lat": 40.39194,
+    "lng": 37.3375
+  },
+  {
+    "name": "Revne",
+    "country": "UA",
+    "lat": 48.33509,
+    "lng": 25.79605
+  },
+  {
+    "name": "Reshetylivka",
+    "country": "UA",
+    "lat": 49.563,
+    "lng": 34.07896
+  },
+  {
+    "name": "Repuzhyntsi",
+    "country": "UA",
+    "lat": 48.65554,
+    "lng": 25.79109
+  },
+  {
+    "name": "Rechka",
+    "country": "UA",
+    "lat": 48.28034,
+    "lng": 24.9333
+  },
+  {
+    "name": "Revivka",
+    "country": "UA",
+    "lat": 49.17771,
+    "lng": 33.74415
+  },
+  {
+    "name": "Reni",
+    "country": "UA",
+    "lat": 45.45421,
+    "lng": 28.27731
+  },
+  {
+    "name": "Red Chute",
+    "country": "US",
+    "lat": 32.55598,
+    "lng": -93.61323
+  },
+  {
+    "name": "Red Bay",
+    "country": "US",
+    "lat": 34.43982,
+    "lng": -88.14087
+  },
+  {
+    "name": "Reform",
+    "country": "US",
+    "lat": 33.37845,
+    "lng": -88.0153
+  },
+  {
+    "name": "Rehobeth",
+    "country": "US",
+    "lat": 31.12296,
+    "lng": -85.45271
+  },
+  {
+    "name": "Rector",
+    "country": "US",
+    "lat": 36.26312,
+    "lng": -90.2926
+  },
+  {
+    "name": "Redfield",
+    "country": "US",
+    "lat": 34.4451,
+    "lng": -92.1832
+  },
+  {
+    "name": "Rehoboth Beach",
+    "country": "US",
+    "lat": 38.72095,
+    "lng": -75.07601
+  },
+  {
+    "name": "Redington Beach",
+    "country": "US",
+    "lat": 27.80864,
+    "lng": -82.81121
+  },
+  {
+    "name": "Redington Shores",
+    "country": "US",
+    "lat": 27.82614,
+    "lng": -82.82899
+  },
+  {
+    "name": "Redan",
+    "country": "US",
+    "lat": 33.74538,
+    "lng": -84.13158
+  },
+  {
+    "name": "Reed Creek",
+    "country": "US",
+    "lat": 34.44594,
+    "lng": -82.92487
+  },
+  {
+    "name": "Reidsville",
+    "country": "US",
+    "lat": 32.08686,
+    "lng": -82.1179
+  },
+  {
+    "name": "Remerton",
+    "country": "US",
+    "lat": 30.84409,
+    "lng": -83.31043
+  },
+  {
+    "name": "Reynolds",
+    "country": "US",
+    "lat": 32.55987,
+    "lng": -84.0963
+  },
+  {
+    "name": "Red Bud",
+    "country": "US",
+    "lat": 38.21172,
+    "lng": -89.99427
+  },
+  {
+    "name": "Reidland",
+    "country": "US",
+    "lat": 37.01756,
+    "lng": -88.53143
+  },
+  {
+    "name": "Reserve",
+    "country": "US",
+    "lat": 30.05381,
+    "lng": -90.55175
+  },
+  {
+    "name": "Redland",
+    "country": "US",
+    "lat": 39.14539,
+    "lng": -77.14415
+  },
+  {
+    "name": "Reisterstown",
+    "country": "US",
+    "lat": 39.46976,
+    "lng": -76.8319
+  },
+  {
+    "name": "Republic",
+    "country": "US",
+    "lat": 37.12005,
+    "lng": -93.48019
+  },
+  {
+    "name": "Red Oak",
+    "country": "US",
+    "lat": 36.03849,
+    "lng": -77.90637
+  },
+  {
+    "name": "Red Springs",
+    "country": "US",
+    "lat": 34.81516,
+    "lng": -79.18309
+  },
+  {
+    "name": "Reidsville",
+    "country": "US",
+    "lat": 36.35486,
+    "lng": -79.66447
+  },
+  {
+    "name": "Reading",
+    "country": "US",
+    "lat": 39.22367,
+    "lng": -84.44216
+  },
+  {
+    "name": "Reno",
+    "country": "US",
+    "lat": 39.37285,
+    "lng": -81.39567
+  },
+  {
+    "name": "Reynoldsburg",
+    "country": "US",
+    "lat": 39.95479,
+    "lng": -82.81212
+  },
+  {
+    "name": "Red Lion",
+    "country": "US",
+    "lat": 39.90093,
+    "lng": -76.6058
+  },
+  {
+    "name": "Republic",
+    "country": "US",
+    "lat": 39.96258,
+    "lng": -79.87671
+  },
+  {
+    "name": "Red Bank",
+    "country": "US",
+    "lat": 33.93209,
+    "lng": -81.23843
+  },
+  {
+    "name": "Red Hill",
+    "country": "US",
+    "lat": 33.99961,
+    "lng": -79.2581
+  },
+  {
+    "name": "Red Hill",
+    "country": "US",
+    "lat": 33.82073,
+    "lng": -79.01892
+  },
+  {
+    "name": "Red Bank",
+    "country": "US",
+    "lat": 35.11229,
+    "lng": -85.29413
+  },
+  {
+    "name": "Red Boiling Springs",
+    "country": "US",
+    "lat": 36.53339,
+    "lng": -85.84998
+  },
+  {
+    "name": "Red Lick",
+    "country": "US",
+    "lat": 33.46485,
+    "lng": -94.17103
+  },
+  {
+    "name": "Red Oak",
+    "country": "US",
+    "lat": 32.51764,
+    "lng": -96.80444
+  },
+  {
+    "name": "Redland",
+    "country": "US",
+    "lat": 31.40435,
+    "lng": -94.72132
+  },
+  {
+    "name": "Redwater",
+    "country": "US",
+    "lat": 33.35818,
+    "lng": -94.25436
+  },
+  {
+    "name": "Redwood",
+    "country": "US",
+    "lat": 29.81022,
+    "lng": -97.91139
+  },
+  {
+    "name": "Refugio",
+    "country": "US",
+    "lat": 28.30528,
+    "lng": -97.27527
+  },
+  {
+    "name": "Rendon",
+    "country": "US",
+    "lat": 32.57625,
+    "lng": -97.2414
+  },
+  {
+    "name": "Reno",
+    "country": "US",
+    "lat": 33.66316,
+    "lng": -95.46245
+  },
+  {
+    "name": "Reno",
+    "country": "US",
+    "lat": 32.94429,
+    "lng": -97.57725
+  },
+  {
+    "name": "Reston",
+    "country": "US",
+    "lat": 38.96872,
+    "lng": -77.3411
+  },
+  {
+    "name": "Revere",
+    "country": "US",
+    "lat": 42.40843,
+    "lng": -71.01199
+  },
+  {
+    "name": "Red Oak",
+    "country": "US",
+    "lat": 41.00972,
+    "lng": -95.22555
+  },
+  {
+    "name": "Reinbeck",
+    "country": "US",
+    "lat": 42.3236,
+    "lng": -92.59936
+  },
+  {
+    "name": "Remsen",
+    "country": "US",
+    "lat": 42.81471,
+    "lng": -95.97335
+  },
+  {
+    "name": "Redkey",
+    "country": "US",
+    "lat": 40.34893,
+    "lng": -85.14997
+  },
+  {
+    "name": "Remington",
+    "country": "US",
+    "lat": 40.76087,
+    "lng": -87.15085
+  },
+  {
+    "name": "Rensselaer",
+    "country": "US",
+    "lat": 40.9367,
+    "lng": -87.15086
+  },
+  {
+    "name": "Reading",
+    "country": "US",
+    "lat": 42.52565,
+    "lng": -71.09533
+  },
+  {
+    "name": "Readville",
+    "country": "US",
+    "lat": 42.24038,
+    "lng": -71.137
+  },
+  {
+    "name": "Rehoboth",
+    "country": "US",
+    "lat": 41.84038,
+    "lng": -71.24949
+  },
+  {
+    "name": "Reservoir",
+    "country": "US",
+    "lat": 42.33482,
+    "lng": -71.14839
+  },
+  {
+    "name": "Readfield",
+    "country": "US",
+    "lat": 44.38785,
+    "lng": -69.96672
+  },
+  {
+    "name": "Reading",
+    "country": "US",
+    "lat": 41.83949,
+    "lng": -84.74801
+  },
+  {
+    "name": "Redford",
+    "country": "US",
+    "lat": 42.38337,
+    "lng": -83.2966
+  },
+  {
+    "name": "Reed City",
+    "country": "US",
+    "lat": 43.87502,
+    "lng": -85.51005
+  },
+  {
+    "name": "Reese",
+    "country": "US",
+    "lat": 43.45058,
+    "lng": -83.69635
+  },
+  {
+    "name": "Red Lake",
+    "country": "US",
+    "lat": 47.87635,
+    "lng": -95.01694
+  },
+  {
+    "name": "Red Lake Falls",
+    "country": "US",
+    "lat": 47.88219,
+    "lng": -96.27421
+  },
+  {
+    "name": "Red Wing",
+    "country": "US",
+    "lat": 44.56247,
+    "lng": -92.5338
+  },
+  {
+    "name": "Redby",
+    "country": "US",
+    "lat": 47.87857,
+    "lng": -94.91305
+  },
+  {
+    "name": "Redwood Falls",
+    "country": "US",
+    "lat": 44.5394,
+    "lng": -95.11694
+  },
+  {
+    "name": "Renville",
+    "country": "US",
+    "lat": 44.78913,
+    "lng": -95.21167
+  },
+  {
+    "name": "Red Cloud",
+    "country": "US",
+    "lat": 40.0889,
+    "lng": -98.5195
+  },
+  {
+    "name": "Red Bank",
+    "country": "US",
+    "lat": 40.34705,
+    "lng": -74.06431
+  },
+  {
+    "name": "Red Hook",
+    "country": "US",
+    "lat": 41.99509,
+    "lng": -73.87541
+  },
+  {
+    "name": "Red Oaks Mill",
+    "country": "US",
+    "lat": 41.65565,
+    "lng": -73.87486
+  },
+  {
+    "name": "Rego Park",
+    "country": "US",
+    "lat": 40.72649,
+    "lng": -73.85264
+  },
+  {
+    "name": "Rensselaer",
+    "country": "US",
+    "lat": 42.64258,
+    "lng": -73.7429
+  },
+  {
+    "name": "Reminderville",
+    "country": "US",
+    "lat": 41.34589,
+    "lng": -81.39511
+  },
+  {
+    "name": "Reading",
+    "country": "US",
+    "lat": 40.33565,
+    "lng": -75.92687
+  },
+  {
+    "name": "Reamstown",
+    "country": "US",
+    "lat": 40.21148,
+    "lng": -76.12328
+  },
+  {
+    "name": "Red Hill",
+    "country": "US",
+    "lat": 40.37288,
+    "lng": -75.48101
+  },
+  {
+    "name": "Red Lion",
+    "country": "US",
+    "lat": 40.48065,
+    "lng": -75.61602
+  },
+  {
+    "name": "Reiffton",
+    "country": "US",
+    "lat": 40.31981,
+    "lng": -75.87354
+  },
+  {
+    "name": "Reinholds",
+    "country": "US",
+    "lat": 40.26676,
+    "lng": -76.1155
+  },
+  {
+    "name": "Rennerdale",
+    "country": "US",
+    "lat": 40.3984,
+    "lng": -80.14145
+  },
+  {
+    "name": "Renovo",
+    "country": "US",
+    "lat": 41.32646,
+    "lng": -77.75082
+  },
+  {
+    "name": "Reservoir",
+    "country": "US",
+    "lat": 40.40674,
+    "lng": -78.38029
+  },
+  {
+    "name": "Reynolds Heights",
+    "country": "US",
+    "lat": 41.34506,
+    "lng": -80.39423
+  },
+  {
+    "name": "Reynoldsville",
+    "country": "US",
+    "lat": 41.09701,
+    "lng": -78.88864
+  },
+  {
+    "name": "Redfield",
+    "country": "US",
+    "lat": 44.87581,
+    "lng": -98.51871
+  },
+  {
+    "name": "Redgranite",
+    "country": "US",
+    "lat": 44.04192,
+    "lng": -89.09845
+  },
+  {
+    "name": "Reedsburg",
+    "country": "US",
+    "lat": 43.53248,
+    "lng": -90.00263
+  },
+  {
+    "name": "Reedsville",
+    "country": "US",
+    "lat": 44.1536,
+    "lng": -87.95676
+  },
+  {
+    "name": "Redlands",
+    "country": "US",
+    "lat": 34.05557,
+    "lng": -117.18254
+  },
+  {
+    "name": "Redondo Beach",
+    "country": "US",
+    "lat": 33.84918,
+    "lng": -118.38841
+  },
+  {
+    "name": "Redwood City",
+    "country": "US",
+    "lat": 37.48522,
+    "lng": -122.23635
+  },
+  {
+    "name": "Redwood Shores",
+    "country": "US",
+    "lat": 37.53188,
+    "lng": -122.24802
+  },
+  {
+    "name": "Redwood Valley",
+    "country": "US",
+    "lat": 39.26544,
+    "lng": -123.20445
+  },
+  {
+    "name": "Reedley",
+    "country": "US",
+    "lat": 36.59634,
+    "lng": -119.4504
+  },
+  {
+    "name": "Reseda",
+    "country": "US",
+    "lat": 34.20112,
+    "lng": -118.53647
+  },
+  {
+    "name": "Redlands",
+    "country": "US",
+    "lat": 39.07887,
+    "lng": -108.63565
+  },
+  {
+    "name": "Reserve",
+    "country": "US",
+    "lat": 33.71311,
+    "lng": -108.75784
+  },
+  {
+    "name": "Reno",
+    "country": "US",
+    "lat": 39.52963,
+    "lng": -119.8138
+  },
+  {
+    "name": "Red Bluff",
+    "country": "US",
+    "lat": 40.17849,
+    "lng": -122.23583
+  },
+  {
+    "name": "Redding",
+    "country": "US",
+    "lat": 40.58654,
+    "lng": -122.39168
+  },
+  {
+    "name": "Redway",
+    "country": "US",
+    "lat": 40.12014,
+    "lng": -123.82336
+  },
+  {
+    "name": "Rexburg",
+    "country": "US",
+    "lat": 43.82602,
+    "lng": -111.78969
+  },
+  {
+    "name": "Red Lodge",
+    "country": "US",
+    "lat": 45.18578,
+    "lng": -109.24682
+  },
+  {
+    "name": "Redmond",
+    "country": "US",
+    "lat": 44.27262,
+    "lng": -121.17392
+  },
+  {
+    "name": "Redwood",
+    "country": "US",
+    "lat": 42.42206,
+    "lng": -123.38728
+  },
+  {
+    "name": "Reedsport",
+    "country": "US",
+    "lat": 43.70234,
+    "lng": -124.09678
+  },
+  {
+    "name": "Redmond",
+    "country": "US",
+    "lat": 47.67399,
+    "lng": -122.12151
+  },
+  {
+    "name": "Renton",
+    "country": "US",
+    "lat": 47.48288,
+    "lng": -122.21707
+  },
+  {
+    "name": "Republic",
+    "country": "US",
+    "lat": 48.64822,
+    "lng": -118.73781
+  },
+  {
+    "name": "Remsenburg-Speonk",
+    "country": "US",
+    "lat": 40.82642,
+    "lng": -72.69673
+  },
+  {
+    "name": "Redstone Arsenal",
+    "country": "US",
+    "lat": 34.68387,
+    "lng": -86.64764
+  },
+  {
+    "name": "Red Corral",
+    "country": "US",
+    "lat": 38.41165,
+    "lng": -120.60552
+  },
+  {
+    "name": "Remington",
+    "country": "US",
+    "lat": 39.32015,
+    "lng": -76.62283
+  },
+  {
+    "name": "Reisterstown Station",
+    "country": "US",
+    "lat": 39.35311,
+    "lng": -76.70333
+  },
+  {
+    "name": "Reservoir Hill",
+    "country": "US",
+    "lat": 39.31363,
+    "lng": -76.63316
+  },
+  {
+    "name": "Reynoldstown",
+    "country": "US",
+    "lat": 33.75194,
+    "lng": -84.35444
+  },
+  {
+    "name": "Redemption",
+    "country": "VC",
+    "lat": 13.16444,
+    "lng": -61.22944
+  },
+  {
+    "name": "Reitz",
+    "country": "ZA",
+    "lat": -27.80138,
+    "lng": 28.42726
+  },
+  {
+    "name": "Reddersburg",
+    "country": "ZA",
+    "lat": -29.65301,
+    "lng": 26.16773
+  },
+  {
+    "name": "Retreat",
+    "country": "ZA",
+    "lat": -34.05515,
+    "lng": 18.47617
+  },
+  {
+    "name": "Rethabiseng",
+    "country": "ZA",
+    "lat": -25.72286,
+    "lng": 28.71689
+  },
+  {
+    "name": "Redhill",
+    "country": "ZA",
+    "lat": -26.26074,
+    "lng": 30.82545
+  },
+  {
+    "name": "Relani",
+    "country": "ZA",
+    "lat": -24.77478,
+    "lng": 31.05966
+  },
+  {
+    "name": "Redcliff",
+    "country": "ZW",
+    "lat": -19.03333,
+    "lng": 29.78333
+  }
+]

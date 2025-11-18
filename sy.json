@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Synej",
+    "country": "AL",
+    "lat": 41.18,
+    "lng": 19.5425
+  },
+  {
+    "name": "Sydney",
+    "country": "AU",
+    "lat": -33.86785,
+    "lng": 151.20732
+  },
+  {
+    "name": "Sydenham",
+    "country": "AU",
+    "lat": -37.7,
+    "lng": 144.76667
+  },
+  {
+    "name": "Sylvania",
+    "country": "AU",
+    "lat": -34.01242,
+    "lng": 151.09718
+  },
+  {
+    "name": "Sylvania Waters",
+    "country": "AU",
+    "lat": -34.01868,
+    "lng": 151.1086
+  },
+  {
+    "name": "Sydney Central Business District",
+    "country": "AU",
+    "lat": -33.86482,
+    "lng": 151.20773
+  },
+  {
+    "name": "Sydenham",
+    "country": "AU",
+    "lat": -33.91669,
+    "lng": 151.16798
+  },
+  {
+    "name": "Sydney Olympic Park",
+    "country": "AU",
+    "lat": -33.84983,
+    "lng": 151.06828
+  },
+  {
+    "name": "Sylhet",
+    "country": "BD",
+    "lat": 24.89904,
+    "lng": 91.87198
+  },
+  {
+    "name": "Syenitsa",
+    "country": "BY",
+    "lat": 53.8313,
+    "lng": 27.5343
+  },
+  {
+    "name": "Syomkava",
+    "country": "BY",
+    "lat": 54.0101,
+    "lng": 27.441
+  },
+  {
+    "name": "Sydenham",
+    "country": "CA",
+    "lat": 44.56679,
+    "lng": -80.79972
+  },
+  {
+    "name": "Sylvan Lake",
+    "country": "CA",
+    "lat": 52.311,
+    "lng": -114.08375
+  },
+  {
+    "name": "Sydney",
+    "country": "CA",
+    "lat": 46.1351,
+    "lng": -60.1831
+  },
+  {
+    "name": "Sydney Mines",
+    "country": "CA",
+    "lat": 46.23669,
+    "lng": -60.21767
+  },
+  {
+    "name": "Sypaldouo",
+    "country": "CI",
+    "lat": 9.15881,
+    "lng": -2.95076
+  },
+  {
+    "name": "Syrau",
+    "country": "DE",
+    "lat": 50.54297,
+    "lng": 12.07933
+  },
+  {
+    "name": "Syke",
+    "country": "DE",
+    "lat": 52.91345,
+    "lng": 8.82209
+  },
+  {
+    "name": "Sysmä",
+    "country": "FI",
+    "lat": 61.5,
+    "lng": 25.68333
+  },
+  {
+    "name": "Sywell",
+    "country": "GB",
+    "lat": 52.29856,
+    "lng": -0.79728
+  },
+  {
+    "name": "Syston",
+    "country": "GB",
+    "lat": 52.68333,
+    "lng": -1.06667
+  },
+  {
+    "name": "Symington",
+    "country": "GB",
+    "lat": 55.55176,
+    "lng": -4.55835
+  },
+  {
+    "name": "Synoikismós Chavaríou",
+    "country": "GR",
+    "lat": 37.85575,
+    "lng": 21.38789
+  },
+  {
+    "name": "Sylivainiótika",
+    "country": "GR",
+    "lat": 38.16139,
+    "lng": 22.33156
+  },
+  {
+    "name": "Sykoúrio",
+    "country": "GR",
+    "lat": 39.75947,
+    "lng": 22.58
+  },
+  {
+    "name": "Sykiá",
+    "country": "GR",
+    "lat": 36.76398,
+    "lng": 22.94302
+  },
+  {
+    "name": "Sykiá",
+    "country": "GR",
+    "lat": 40.03874,
+    "lng": 23.94046
+  },
+  {
+    "name": "Sykiés",
+    "country": "GR",
+    "lat": 40.64944,
+    "lng": 22.95083
+  },
+  {
+    "name": "Syfteland",
+    "country": "NO",
+    "lat": 60.23803,
+    "lng": 5.45285
+  },
+  {
+    "name": "Sykkylven",
+    "country": "NO",
+    "lat": 62.39594,
+    "lng": 6.5875
+  },
+  {
+    "name": "Sydenham",
+    "country": "NZ",
+    "lat": -43.54696,
+    "lng": 172.63594
+  },
+  {
+    "name": "Sypniewo",
+    "country": "PL",
+    "lat": 53.0058,
+    "lng": 21.3073
+  },
+  {
+    "name": "Syrynia",
+    "country": "PL",
+    "lat": 50.02004,
+    "lng": 18.34597
+  },
+  {
+    "name": "Sypniewo",
+    "country": "PL",
+    "lat": 53.46823,
+    "lng": 16.60583
+  },
+  {
+    "name": "Sypniewo",
+    "country": "PL",
+    "lat": 53.36981,
+    "lng": 17.3269
+  },
+  {
+    "name": "Syców",
+    "country": "PL",
+    "lat": 51.30814,
+    "lng": 17.71979
+  },
+  {
+    "name": "Syzran",
+    "country": "RU",
+    "lat": 53.1585,
+    "lng": 48.4681
+  },
+  {
+    "name": "Syumsi",
+    "country": "RU",
+    "lat": 57.11108,
+    "lng": 51.61494
+  },
+  {
+    "name": "Syrtych",
+    "country": "RU",
+    "lat": 41.83388,
+    "lng": 48.22901
+  },
+  {
+    "name": "Syrskoye",
+    "country": "RU",
+    "lat": 52.571,
+    "lng": 39.531
+  },
+  {
+    "name": "Syrostan",
+    "country": "RU",
+    "lat": 55.0634,
+    "lng": 59.9002
+  },
+  {
+    "name": "Syntul",
+    "country": "RU",
+    "lat": 55.00327,
+    "lng": 41.29711
+  },
+  {
+    "name": "Synya",
+    "country": "RU",
+    "lat": 65.37185,
+    "lng": 58.03874
+  },
+  {
+    "name": "Sylva",
+    "country": "RU",
+    "lat": 58.0327,
+    "lng": 56.7713
+  },
+  {
+    "name": "Sylva",
+    "country": "RU",
+    "lat": 57.3092,
+    "lng": 58.7734
+  },
+  {
+    "name": "Syktyvkar",
+    "country": "RU",
+    "lat": 61.66393,
+    "lng": 50.8163
+  },
+  {
+    "name": "Sychëvo",
+    "country": "RU",
+    "lat": 55.95771,
+    "lng": 36.22785
+  },
+  {
+    "name": "Sychëvo",
+    "country": "RU",
+    "lat": 55.06196,
+    "lng": 38.71384
+  },
+  {
+    "name": "Sychëvka",
+    "country": "RU",
+    "lat": 55.82956,
+    "lng": 34.27699
+  },
+  {
+    "name": "Syava",
+    "country": "RU",
+    "lat": 58.01457,
+    "lng": 46.32216
+  },
+  {
+    "name": "Syas’stroy",
+    "country": "RU",
+    "lat": 60.13669,
+    "lng": 32.56906
+  },
+  {
+    "name": "Syamzha",
+    "country": "RU",
+    "lat": 60.01577,
+    "lng": 41.06139
+  },
+  {
+    "name": "Sysert’",
+    "country": "RU",
+    "lat": 56.50171,
+    "lng": 60.81978
+  },
+  {
+    "name": "Sychëvka",
+    "country": "RU",
+    "lat": 52.0512,
+    "lng": 84.7788
+  },
+  {
+    "name": "Syrove",
+    "country": "UA",
+    "lat": 47.89552,
+    "lng": 30.45692
+  },
+  {
+    "name": "Sychavka",
+    "country": "UA",
+    "lat": 46.64195,
+    "lng": 31.10454
+  },
+  {
+    "name": "Syvaske",
+    "country": "UA",
+    "lat": 46.38503,
+    "lng": 34.54683
+  },
+  {
+    "name": "Sytkivtsi",
+    "country": "UA",
+    "lat": 48.90932,
+    "lng": 29.19871
+  },
+  {
+    "name": "Syniukhyn Brid",
+    "country": "UA",
+    "lat": 48.14431,
+    "lng": 30.82103
+  },
+  {
+    "name": "Synevyrska Poliana",
+    "country": "UA",
+    "lat": 48.58484,
+    "lng": 23.6891
+  },
+  {
+    "name": "Synevyr",
+    "country": "UA",
+    "lat": 48.49947,
+    "lng": 23.62179
+  },
+  {
+    "name": "Synelnykove",
+    "country": "UA",
+    "lat": 48.32362,
+    "lng": 35.52612
+  },
+  {
+    "name": "Sykhiv",
+    "country": "UA",
+    "lat": 49.79427,
+    "lng": 24.06284
+  },
+  {
+    "name": "Sylacauga",
+    "country": "US",
+    "lat": 33.17317,
+    "lng": -86.25164
+  },
+  {
+    "name": "Sylvan Springs",
+    "country": "US",
+    "lat": 33.51566,
+    "lng": -87.01499
+  },
+  {
+    "name": "Sylvania",
+    "country": "US",
+    "lat": 34.56231,
+    "lng": -85.81247
+  },
+  {
+    "name": "Sylvania",
+    "country": "US",
+    "lat": 32.75044,
+    "lng": -81.63678
+  },
+  {
+    "name": "Sylvester",
+    "country": "US",
+    "lat": 31.53092,
+    "lng": -83.83693
+  },
+  {
+    "name": "Sykesville",
+    "country": "US",
+    "lat": 39.37371,
+    "lng": -76.96776
+  },
+  {
+    "name": "Sylva",
+    "country": "US",
+    "lat": 35.37371,
+    "lng": -83.22598
+  },
+  {
+    "name": "Sycamore",
+    "country": "US",
+    "lat": 41.98892,
+    "lng": -88.68675
+  },
+  {
+    "name": "Syracuse",
+    "country": "US",
+    "lat": 41.42783,
+    "lng": -85.75249
+  },
+  {
+    "name": "Sylvan Lake",
+    "country": "US",
+    "lat": 42.61142,
+    "lng": -83.32855
+  },
+  {
+    "name": "Syracuse",
+    "country": "US",
+    "lat": 40.65722,
+    "lng": -96.1864
+  },
+  {
+    "name": "Sylvan Beach",
+    "country": "US",
+    "lat": 42.46479,
+    "lng": -77.1083
+  },
+  {
+    "name": "Syosset",
+    "country": "US",
+    "lat": 40.82621,
+    "lng": -73.50207
+  },
+  {
+    "name": "Syracuse",
+    "country": "US",
+    "lat": 43.04812,
+    "lng": -76.14742
+  },
+  {
+    "name": "Sylvania",
+    "country": "US",
+    "lat": 41.71894,
+    "lng": -83.71299
+  },
+  {
+    "name": "Sykesville",
+    "country": "US",
+    "lat": 41.05034,
+    "lng": -78.82225
+  },
+  {
+    "name": "Sylmar",
+    "country": "US",
+    "lat": 34.30778,
+    "lng": -118.44925
+  },
+  {
+    "name": "Syracuse",
+    "country": "US",
+    "lat": 37.98071,
+    "lng": -101.7543
+  },
+  {
+    "name": "Syracuse",
+    "country": "US",
+    "lat": 41.08939,
+    "lng": -112.06467
+  }
+]

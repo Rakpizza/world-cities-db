@@ -1,0 +1,5738 @@
+[
+  {
+    "name": "Suwayḩān",
+    "country": "AE",
+    "lat": 24.46235,
+    "lng": 55.33715
+  },
+  {
+    "name": "Surkh Bilandī",
+    "country": "AF",
+    "lat": 34.68474,
+    "lng": 69.02863
+  },
+  {
+    "name": "Sulţānpūr-e ‘Ulyā",
+    "country": "AF",
+    "lat": 34.41204,
+    "lng": 70.29634
+  },
+  {
+    "name": "Surroj",
+    "country": "AL",
+    "lat": 41.99222,
+    "lng": 20.34417
+  },
+  {
+    "name": "Sult",
+    "country": "AL",
+    "lat": 40.88472,
+    "lng": 20.09944
+  },
+  {
+    "name": "Sukë",
+    "country": "AL",
+    "lat": 40.37528,
+    "lng": 20.15472
+  },
+  {
+    "name": "Suç",
+    "country": "AL",
+    "lat": 41.57694,
+    "lng": 20.05139
+  },
+  {
+    "name": "Sukth",
+    "country": "AL",
+    "lat": 41.38056,
+    "lng": 19.53778
+  },
+  {
+    "name": "Surenavan",
+    "country": "AM",
+    "lat": 39.79449,
+    "lng": 44.77508
+  },
+  {
+    "name": "Sumbe",
+    "country": "AO",
+    "lat": -11.20605,
+    "lng": 13.84371
+  },
+  {
+    "name": "Suipacha",
+    "country": "AR",
+    "lat": -34.76881,
+    "lng": -59.68683
+  },
+  {
+    "name": "Susques",
+    "country": "AR",
+    "lat": -23.39858,
+    "lng": -66.36753
+  },
+  {
+    "name": "Suncho Corral",
+    "country": "AR",
+    "lat": -27.93195,
+    "lng": -63.43021
+  },
+  {
+    "name": "Sunchales",
+    "country": "AR",
+    "lat": -30.94478,
+    "lng": -61.5597
+  },
+  {
+    "name": "Sumampa",
+    "country": "AR",
+    "lat": -29.38243,
+    "lng": -63.47683
+  },
+  {
+    "name": "Sulzberg",
+    "country": "AT",
+    "lat": 47.52178,
+    "lng": 9.91353
+  },
+  {
+    "name": "Sulz",
+    "country": "AT",
+    "lat": 47.28721,
+    "lng": 9.65183
+  },
+  {
+    "name": "Sulztal an der Weinstraße",
+    "country": "AT",
+    "lat": 46.68333,
+    "lng": 15.55
+  },
+  {
+    "name": "Subiaco",
+    "country": "AU",
+    "lat": -31.9485,
+    "lng": 115.8268
+  },
+  {
+    "name": "Sutton",
+    "country": "AU",
+    "lat": -35.16667,
+    "lng": 149.25
+  },
+  {
+    "name": "Sutherland",
+    "country": "AU",
+    "lat": -34.031,
+    "lng": 151.05532
+  },
+  {
+    "name": "Surry Hills",
+    "country": "AU",
+    "lat": -33.88374,
+    "lng": 151.21282
+  },
+  {
+    "name": "Surrey Hills",
+    "country": "AU",
+    "lat": -37.81667,
+    "lng": 145.1
+  },
+  {
+    "name": "Surfers Paradise",
+    "country": "AU",
+    "lat": -28.00274,
+    "lng": 153.42999
+  },
+  {
+    "name": "Sunshine",
+    "country": "AU",
+    "lat": -37.78333,
+    "lng": 144.83333
+  },
+  {
+    "name": "Sunnybank",
+    "country": "AU",
+    "lat": -27.58003,
+    "lng": 153.06064
+  },
+  {
+    "name": "Sunbury",
+    "country": "AU",
+    "lat": -37.57742,
+    "lng": 144.72607
+  },
+  {
+    "name": "Suffolk Park",
+    "country": "AU",
+    "lat": -28.6881,
+    "lng": 153.60977
+  },
+  {
+    "name": "Summer Hill",
+    "country": "AU",
+    "lat": -33.89146,
+    "lng": 151.13825
+  },
+  {
+    "name": "Sussex Inlet",
+    "country": "AU",
+    "lat": -35.15671,
+    "lng": 150.58533
+  },
+  {
+    "name": "Surrey Downs",
+    "country": "AU",
+    "lat": -34.79951,
+    "lng": 138.71154
+  },
+  {
+    "name": "Sunshine Bay",
+    "country": "AU",
+    "lat": -35.7454,
+    "lng": 150.20792
+  },
+  {
+    "name": "Surfside",
+    "country": "AU",
+    "lat": -35.69531,
+    "lng": 150.19949
+  },
+  {
+    "name": "Summerland Point",
+    "country": "AU",
+    "lat": -33.14091,
+    "lng": 151.56561
+  },
+  {
+    "name": "Sunrise Beach",
+    "country": "AU",
+    "lat": -26.41646,
+    "lng": 153.10305
+  },
+  {
+    "name": "Sunset",
+    "country": "AU",
+    "lat": -20.71026,
+    "lng": 139.50824
+  },
+  {
+    "name": "Sun Valley",
+    "country": "AU",
+    "lat": -23.87516,
+    "lng": 151.25752
+  },
+  {
+    "name": "Success",
+    "country": "AU",
+    "lat": -32.14281,
+    "lng": 115.84999
+  },
+  {
+    "name": "Sunset Beach",
+    "country": "AU",
+    "lat": -28.71907,
+    "lng": 114.62297
+  },
+  {
+    "name": "Sunnybank Hills",
+    "country": "AU",
+    "lat": -27.61025,
+    "lng": 153.05388
+  },
+  {
+    "name": "Sunshine North",
+    "country": "AU",
+    "lat": -37.76987,
+    "lng": 144.82787
+  },
+  {
+    "name": "Sunshine West",
+    "country": "AU",
+    "lat": -37.79117,
+    "lng": 144.81637
+  },
+  {
+    "name": "Summerhill",
+    "country": "AU",
+    "lat": -41.46747,
+    "lng": 147.12796
+  },
+  {
+    "name": "Sunshine Coast",
+    "country": "AU",
+    "lat": -26.65682,
+    "lng": 153.07955
+  },
+  {
+    "name": "Sunshine Beach",
+    "country": "AU",
+    "lat": -26.40579,
+    "lng": 153.10779
+  },
+  {
+    "name": "Sund",
+    "country": "AX",
+    "lat": 60.25,
+    "lng": 20.11667
+  },
+  {
+    "name": "Sumbatan-diza",
+    "country": "AZ",
+    "lat": 38.94804,
+    "lng": 45.82572
+  },
+  {
+    "name": "Sumqayıt",
+    "country": "AZ",
+    "lat": 40.58972,
+    "lng": 49.66861
+  },
+  {
+    "name": "Suho Polje",
+    "country": "BA",
+    "lat": 44.69104,
+    "lng": 19.10994
+  },
+  {
+    "name": "Sunāmganj",
+    "country": "BD",
+    "lat": 25.06889,
+    "lng": 91.40243
+  },
+  {
+    "name": "Suarlée",
+    "country": "BE",
+    "lat": 50.48137,
+    "lng": 4.7792
+  },
+  {
+    "name": "Suvorovo",
+    "country": "BG",
+    "lat": 43.33058,
+    "lng": 27.59908
+  },
+  {
+    "name": "Sungurlare",
+    "country": "BG",
+    "lat": 42.76667,
+    "lng": 26.78333
+  },
+  {
+    "name": "Suhindol",
+    "country": "BG",
+    "lat": 43.19167,
+    "lng": 25.18111
+  },
+  {
+    "name": "Sungai Hanching",
+    "country": "BN",
+    "lat": 4.96806,
+    "lng": 114.97753
+  },
+  {
+    "name": "Sucre",
+    "country": "BO",
+    "lat": -19.03332,
+    "lng": -65.26274
+  },
+  {
+    "name": "Sussuapara",
+    "country": "BR",
+    "lat": -7.01163,
+    "lng": -41.38388
+  },
+  {
+    "name": "Surubim",
+    "country": "BR",
+    "lat": -7.83306,
+    "lng": -35.75472
+  },
+  {
+    "name": "Sumé",
+    "country": "BR",
+    "lat": -7.67167,
+    "lng": -36.88
+  },
+  {
+    "name": "Sucupira do Norte",
+    "country": "BR",
+    "lat": -6.47694,
+    "lng": -44.19167
+  },
+  {
+    "name": "Suzano",
+    "country": "BR",
+    "lat": -23.5425,
+    "lng": -46.31083
+  },
+  {
+    "name": "Sumidouro",
+    "country": "BR",
+    "lat": -22.04972,
+    "lng": -42.67472
+  },
+  {
+    "name": "Sumaré",
+    "country": "BR",
+    "lat": -22.82194,
+    "lng": -47.26694
+  },
+  {
+    "name": "Sulina",
+    "country": "BR",
+    "lat": -25.70194,
+    "lng": -52.72222
+  },
+  {
+    "name": "Sud Mennucci",
+    "country": "BR",
+    "lat": -20.69083,
+    "lng": -50.92389
+  },
+  {
+    "name": "Sucupira",
+    "country": "BR",
+    "lat": -11.99333,
+    "lng": -48.97083
+  },
+  {
+    "name": "Sucupira do Riachão",
+    "country": "BR",
+    "lat": -6.41111,
+    "lng": -43.54611
+  },
+  {
+    "name": "Sul Brasil",
+    "country": "BR",
+    "lat": -26.73611,
+    "lng": -52.96472
+  },
+  {
+    "name": "Suzanápolis",
+    "country": "BR",
+    "lat": -20.50139,
+    "lng": -51.02472
+  },
+  {
+    "name": "Sudoeste/Octagonal",
+    "country": "BR",
+    "lat": -15.80152,
+    "lng": -47.92706
+  },
+  {
+    "name": "Sua",
+    "country": "BW",
+    "lat": -20.05,
+    "lng": 26.2
+  },
+  {
+    "name": "Summerland",
+    "country": "CA",
+    "lat": 49.59977,
+    "lng": -119.66911
+  },
+  {
+    "name": "Summerside",
+    "country": "CA",
+    "lat": 46.3912,
+    "lng": -63.78869
+  },
+  {
+    "name": "Suncrest",
+    "country": "CA",
+    "lat": 49.21667,
+    "lng": -123.01667
+  },
+  {
+    "name": "Sundre",
+    "country": "CA",
+    "lat": 51.8001,
+    "lng": -114.63532
+  },
+  {
+    "name": "Sun Peaks",
+    "country": "CA",
+    "lat": 50.8762,
+    "lng": -119.91075
+  },
+  {
+    "name": "Sunshine Hills",
+    "country": "CA",
+    "lat": 49.11667,
+    "lng": -122.9
+  },
+  {
+    "name": "Surrey",
+    "country": "CA",
+    "lat": 49.10635,
+    "lng": -122.82509
+  },
+  {
+    "name": "Surrey Centre",
+    "country": "CA",
+    "lat": 49.11667,
+    "lng": -122.75
+  },
+  {
+    "name": "Sussex",
+    "country": "CA",
+    "lat": 45.72266,
+    "lng": -65.50663
+  },
+  {
+    "name": "Sutton",
+    "country": "CA",
+    "lat": 45.10008,
+    "lng": -72.61582
+  },
+  {
+    "name": "Sunset",
+    "country": "CA",
+    "lat": 49.22104,
+    "lng": -123.09546
+  },
+  {
+    "name": "Surrey City Centre",
+    "country": "CA",
+    "lat": 49.18542,
+    "lng": -122.84659
+  },
+  {
+    "name": "Sursee",
+    "country": "CH",
+    "lat": 47.17088,
+    "lng": 8.11113
+  },
+  {
+    "name": "Sumiswald",
+    "country": "CH",
+    "lat": 47.02747,
+    "lng": 7.74526
+  },
+  {
+    "name": "Sulz",
+    "country": "CH",
+    "lat": 47.53602,
+    "lng": 8.09628
+  },
+  {
+    "name": "Sulgen",
+    "country": "CH",
+    "lat": 47.53967,
+    "lng": 9.18585
+  },
+  {
+    "name": "Suhr",
+    "country": "CH",
+    "lat": 47.37172,
+    "lng": 8.07967
+  },
+  {
+    "name": "Subingen",
+    "country": "CH",
+    "lat": 47.19852,
+    "lng": 7.61949
+  },
+  {
+    "name": "Sulz",
+    "country": "CH",
+    "lat": 47.53954,
+    "lng": 8.78887
+  },
+  {
+    "name": "Surpierre",
+    "country": "CH",
+    "lat": 46.74612,
+    "lng": 6.85929
+  },
+  {
+    "name": "Suéfla",
+    "country": "CI",
+    "lat": 6.8521,
+    "lng": -5.71466
+  },
+  {
+    "name": "Subiakro",
+    "country": "CI",
+    "lat": 6.69955,
+    "lng": -5.27208
+  },
+  {
+    "name": "Sussu Yakro",
+    "country": "CI",
+    "lat": 7.14488,
+    "lng": -4.52347
+  },
+  {
+    "name": "Suamékro",
+    "country": "CI",
+    "lat": 7.02069,
+    "lng": -4.66426
+  },
+  {
+    "name": "Sur Les",
+    "country": "CI",
+    "lat": 5.71147,
+    "lng": -5.28094
+  },
+  {
+    "name": "Sucaf Ci Village",
+    "country": "CI",
+    "lat": 9.29837,
+    "lng": -5.29325
+  },
+  {
+    "name": "Sucaf Cité",
+    "country": "CI",
+    "lat": 9.30349,
+    "lng": -5.32004
+  },
+  {
+    "name": "Sunlou",
+    "country": "CN",
+    "lat": 34.66667,
+    "lng": 116.58333
+  },
+  {
+    "name": "Suzhou",
+    "country": "CN",
+    "lat": 33.63611,
+    "lng": 116.97889
+  },
+  {
+    "name": "Suyangshan",
+    "country": "CN",
+    "lat": 34.39278,
+    "lng": 117.75556
+  },
+  {
+    "name": "Suqian",
+    "country": "CN",
+    "lat": 33.94917,
+    "lng": 118.29583
+  },
+  {
+    "name": "Suozhen",
+    "country": "CN",
+    "lat": 36.95389,
+    "lng": 118.10472
+  },
+  {
+    "name": "Suonan",
+    "country": "CN",
+    "lat": 35.66653,
+    "lng": 103.39792
+  },
+  {
+    "name": "Suning",
+    "country": "CN",
+    "lat": 38.4253,
+    "lng": 115.83482
+  },
+  {
+    "name": "Suizhou",
+    "country": "CN",
+    "lat": 31.71111,
+    "lng": 113.36306
+  },
+  {
+    "name": "Sui Xian Chengguanzhen",
+    "country": "CN",
+    "lat": 34.44797,
+    "lng": 115.04439
+  },
+  {
+    "name": "Suixi",
+    "country": "CN",
+    "lat": 33.89067,
+    "lng": 116.77473
+  },
+  {
+    "name": "Suicheng",
+    "country": "CN",
+    "lat": 21.37951,
+    "lng": 110.25052
+  },
+  {
+    "name": "Suishan",
+    "country": "CN",
+    "lat": 29.60831,
+    "lng": 103.48603
+  },
+  {
+    "name": "Suicheng",
+    "country": "CN",
+    "lat": 33.8963,
+    "lng": 117.93307
+  },
+  {
+    "name": "Suining",
+    "country": "CN",
+    "lat": 30.50802,
+    "lng": 105.57332
+  },
+  {
+    "name": "Sui’an",
+    "country": "CN",
+    "lat": 24.08698,
+    "lng": 117.60912
+  },
+  {
+    "name": "Suzhou",
+    "country": "CN",
+    "lat": 31.30408,
+    "lng": 120.59538
+  },
+  {
+    "name": "Suhe",
+    "country": "CN",
+    "lat": 34.0625,
+    "lng": 105.2221
+  },
+  {
+    "name": "Sunwu",
+    "country": "CN",
+    "lat": 49.42282,
+    "lng": 127.32911
+  },
+  {
+    "name": "Sunjia Buzi",
+    "country": "CN",
+    "lat": 42.01707,
+    "lng": 126.58513
+  },
+  {
+    "name": "Sujiatun",
+    "country": "CN",
+    "lat": 41.65917,
+    "lng": 123.33917
+  },
+  {
+    "name": "Suizhong",
+    "country": "CN",
+    "lat": 40.32916,
+    "lng": 120.33653
+  },
+  {
+    "name": "Suiling",
+    "country": "CN",
+    "lat": 47.23489,
+    "lng": 127.10769
+  },
+  {
+    "name": "Suihua",
+    "country": "CN",
+    "lat": 46.64814,
+    "lng": 126.96656
+  },
+  {
+    "name": "Suifenhe",
+    "country": "CN",
+    "lat": 44.39982,
+    "lng": 131.14775
+  },
+  {
+    "name": "Suijiang Xian",
+    "country": "CN",
+    "lat": 28.59455,
+    "lng": 103.96639
+  },
+  {
+    "name": "Suochi",
+    "country": "CN",
+    "lat": 33.64586,
+    "lng": 105.51363
+  },
+  {
+    "name": "Suyuan",
+    "country": "CN",
+    "lat": 33.67348,
+    "lng": 105.45274
+  },
+  {
+    "name": "Sunjia",
+    "country": "CN",
+    "lat": 30.72977,
+    "lng": 108.01374
+  },
+  {
+    "name": "Sutatenza",
+    "country": "CO",
+    "lat": 5.02311,
+    "lng": -73.4523
+  },
+  {
+    "name": "Sutatausa",
+    "country": "CO",
+    "lat": 5.24779,
+    "lng": -73.85238
+  },
+  {
+    "name": "Sutamarchán",
+    "country": "CO",
+    "lat": 5.61538,
+    "lng": -73.61701
+  },
+  {
+    "name": "Susacón",
+    "country": "CO",
+    "lat": 6.22978,
+    "lng": -72.6901
+  },
+  {
+    "name": "Susa",
+    "country": "CO",
+    "lat": 5.4519,
+    "lng": -73.81436
+  },
+  {
+    "name": "Suratá",
+    "country": "CO",
+    "lat": 7.36633,
+    "lng": -72.98361
+  },
+  {
+    "name": "Supía",
+    "country": "CO",
+    "lat": 5.45303,
+    "lng": -75.65072
+  },
+  {
+    "name": "Supatá",
+    "country": "CO",
+    "lat": 5.06097,
+    "lng": -74.23721
+  },
+  {
+    "name": "Suesca",
+    "country": "CO",
+    "lat": 5.10289,
+    "lng": -73.79845
+  },
+  {
+    "name": "Sucre",
+    "country": "CO",
+    "lat": 8.81136,
+    "lng": -74.72084
+  },
+  {
+    "name": "Sucre",
+    "country": "CO",
+    "lat": 5.91833,
+    "lng": -73.79109
+  },
+  {
+    "name": "Sucre",
+    "country": "CO",
+    "lat": 2.03805,
+    "lng": -76.92446
+  },
+  {
+    "name": "Subachoque",
+    "country": "CO",
+    "lat": 4.92614,
+    "lng": -74.17299
+  },
+  {
+    "name": "Suaza",
+    "country": "CO",
+    "lat": 1.97611,
+    "lng": -75.79454
+  },
+  {
+    "name": "Suárez",
+    "country": "CO",
+    "lat": 4.04906,
+    "lng": -74.83198
+  },
+  {
+    "name": "Suárez",
+    "country": "CO",
+    "lat": 2.95395,
+    "lng": -76.69644
+  },
+  {
+    "name": "Suan",
+    "country": "CO",
+    "lat": 10.33347,
+    "lng": -74.88016
+  },
+  {
+    "name": "Suaita",
+    "country": "CO",
+    "lat": 6.1014,
+    "lng": -73.44041
+  },
+  {
+    "name": "Sušice",
+    "country": "CZ",
+    "lat": 49.23106,
+    "lng": 13.52018
+  },
+  {
+    "name": "Sudoměřice",
+    "country": "CZ",
+    "lat": 48.86723,
+    "lng": 17.25676
+  },
+  {
+    "name": "Sudkov",
+    "country": "CZ",
+    "lat": 49.91903,
+    "lng": 16.94516
+  },
+  {
+    "name": "Suchohrdly",
+    "country": "CZ",
+    "lat": 48.86822,
+    "lng": 16.09471
+  },
+  {
+    "name": "Suchdol nad Lužnicí",
+    "country": "CZ",
+    "lat": 48.89,
+    "lng": 14.8772
+  },
+  {
+    "name": "Suchdol",
+    "country": "CZ",
+    "lat": 50.14136,
+    "lng": 14.38367
+  },
+  {
+    "name": "Suchdol",
+    "country": "CZ",
+    "lat": 49.95247,
+    "lng": 15.16651
+  },
+  {
+    "name": "Suchá Loz",
+    "country": "CZ",
+    "lat": 48.97001,
+    "lng": 17.71379
+  },
+  {
+    "name": "Suchdol nad Odrou",
+    "country": "CZ",
+    "lat": 49.65707,
+    "lng": 17.92703
+  },
+  {
+    "name": "Sustrum",
+    "country": "DE",
+    "lat": 52.91667,
+    "lng": 7.28333
+  },
+  {
+    "name": "Surwold",
+    "country": "DE",
+    "lat": 52.978,
+    "lng": 7.51534
+  },
+  {
+    "name": "Surberg",
+    "country": "DE",
+    "lat": 47.86667,
+    "lng": 12.7
+  },
+  {
+    "name": "Sundern",
+    "country": "DE",
+    "lat": 51.3281,
+    "lng": 8.00369
+  },
+  {
+    "name": "Sulzheim",
+    "country": "DE",
+    "lat": 49.95,
+    "lng": 10.33333
+  },
+  {
+    "name": "Sulzheim",
+    "country": "DE",
+    "lat": 49.84306,
+    "lng": 8.09167
+  },
+  {
+    "name": "Sulzfeld am Main",
+    "country": "DE",
+    "lat": 49.70694,
+    "lng": 10.13248
+  },
+  {
+    "name": "Sulzfeld",
+    "country": "DE",
+    "lat": 50.25972,
+    "lng": 10.40525
+  },
+  {
+    "name": "Sulzfeld",
+    "country": "DE",
+    "lat": 49.10472,
+    "lng": 8.85583
+  },
+  {
+    "name": "Sulzemoos",
+    "country": "DE",
+    "lat": 48.29107,
+    "lng": 11.26356
+  },
+  {
+    "name": "Sulzdorf",
+    "country": "DE",
+    "lat": 49.65002,
+    "lng": 9.90389
+  },
+  {
+    "name": "Sulzburg",
+    "country": "DE",
+    "lat": 47.84116,
+    "lng": 7.70777
+  },
+  {
+    "name": "Sulzberg",
+    "country": "DE",
+    "lat": 47.66033,
+    "lng": 10.34991
+  },
+  {
+    "name": "Sulzbach-Rosenberg",
+    "country": "DE",
+    "lat": 49.50126,
+    "lng": 11.74598
+  },
+  {
+    "name": "Sulzbach an der Murr",
+    "country": "DE",
+    "lat": 49.00303,
+    "lng": 9.5003
+  },
+  {
+    "name": "Sulzbach am Main",
+    "country": "DE",
+    "lat": 49.91149,
+    "lng": 9.15315
+  },
+  {
+    "name": "Sulzbach",
+    "country": "DE",
+    "lat": 50.13396,
+    "lng": 8.52797
+  },
+  {
+    "name": "Sulzbach",
+    "country": "DE",
+    "lat": 49.29882,
+    "lng": 7.05696
+  },
+  {
+    "name": "Sulz am Neckar",
+    "country": "DE",
+    "lat": 48.36241,
+    "lng": 8.63309
+  },
+  {
+    "name": "Sulingen",
+    "country": "DE",
+    "lat": 52.68373,
+    "lng": 8.80949
+  },
+  {
+    "name": "Sukow",
+    "country": "DE",
+    "lat": 53.54428,
+    "lng": 11.56194
+  },
+  {
+    "name": "Suhlendorf",
+    "country": "DE",
+    "lat": 52.93333,
+    "lng": 10.76667
+  },
+  {
+    "name": "Suhl",
+    "country": "DE",
+    "lat": 50.60911,
+    "lng": 10.69401
+  },
+  {
+    "name": "Sugenheim",
+    "country": "DE",
+    "lat": 49.60276,
+    "lng": 10.43563
+  },
+  {
+    "name": "Sudwalde",
+    "country": "DE",
+    "lat": 52.79337,
+    "lng": 8.83611
+  },
+  {
+    "name": "Suderburg",
+    "country": "DE",
+    "lat": 52.89586,
+    "lng": 10.45141
+  },
+  {
+    "name": "Suddendorf",
+    "country": "DE",
+    "lat": 52.30096,
+    "lng": 7.22572
+  },
+  {
+    "name": "Sunds",
+    "country": "DK",
+    "lat": 56.20743,
+    "lng": 9.01386
+  },
+  {
+    "name": "Sulsted",
+    "country": "DK",
+    "lat": 57.16343,
+    "lng": 9.95667
+  },
+  {
+    "name": "Sundby",
+    "country": "DK",
+    "lat": 54.76711,
+    "lng": 11.84979
+  },
+  {
+    "name": "Suscal",
+    "country": "EC",
+    "lat": -2.43728,
+    "lng": -79.05172
+  },
+  {
+    "name": "Sucúa",
+    "country": "EC",
+    "lat": -2.45737,
+    "lng": -78.17102
+  },
+  {
+    "name": "Sucre",
+    "country": "EC",
+    "lat": -1.27987,
+    "lng": -80.41776
+  },
+  {
+    "name": "Sucre",
+    "country": "EC",
+    "lat": -1.26369,
+    "lng": -78.4947
+  },
+  {
+    "name": "Suure-Jaani",
+    "country": "EE",
+    "lat": 58.53611,
+    "lng": 25.47056
+  },
+  {
+    "name": "Sumusţā as Sulţānī",
+    "country": "EG",
+    "lat": 28.91667,
+    "lng": 30.85
+  },
+  {
+    "name": "Sumusţā al Waqf",
+    "country": "EG",
+    "lat": 28.92095,
+    "lng": 30.85367
+  },
+  {
+    "name": "Suez",
+    "country": "EG",
+    "lat": 29.97371,
+    "lng": 32.52627
+  },
+  {
+    "name": "Sumacàrcer",
+    "country": "ES",
+    "lat": 39.1,
+    "lng": -0.63333
+  },
+  {
+    "name": "Suflí",
+    "country": "ES",
+    "lat": 37.33866,
+    "lng": -2.38817
+  },
+  {
+    "name": "Sueca",
+    "country": "ES",
+    "lat": 39.2026,
+    "lng": -0.31114
+  },
+  {
+    "name": "Susqueda",
+    "country": "ES",
+    "lat": 41.97776,
+    "lng": 2.51652
+  },
+  {
+    "name": "Susinos del Páramo",
+    "country": "ES",
+    "lat": 42.47108,
+    "lng": -3.92555
+  },
+  {
+    "name": "Sunyer",
+    "country": "ES",
+    "lat": 41.52268,
+    "lng": 0.59197
+  },
+  {
+    "name": "Sunbilla",
+    "country": "ES",
+    "lat": 43.16667,
+    "lng": -1.66667
+  },
+  {
+    "name": "Suellacabras",
+    "country": "ES",
+    "lat": 41.85298,
+    "lng": -2.22398
+  },
+  {
+    "name": "Subirats",
+    "country": "ES",
+    "lat": 41.4,
+    "lng": 1.83333
+  },
+  {
+    "name": "Suances",
+    "country": "ES",
+    "lat": 43.43341,
+    "lng": -4.04338
+  },
+  {
+    "name": "Suntu",
+    "country": "ET",
+    "lat": 8.1,
+    "lng": 36.95
+  },
+  {
+    "name": "Suonenjoki",
+    "country": "FI",
+    "lat": 62.61667,
+    "lng": 27.13333
+  },
+  {
+    "name": "Suomussalmi",
+    "country": "FI",
+    "lat": 64.88685,
+    "lng": 28.90778
+  },
+  {
+    "name": "Suomusjärvi",
+    "country": "FI",
+    "lat": 60.35,
+    "lng": 23.65
+  },
+  {
+    "name": "Suolahti",
+    "country": "FI",
+    "lat": 62.56421,
+    "lng": 25.85363
+  },
+  {
+    "name": "Suodenniemi",
+    "country": "FI",
+    "lat": 61.5581,
+    "lng": 22.78526
+  },
+  {
+    "name": "Sumiainen",
+    "country": "FI",
+    "lat": 62.65736,
+    "lng": 26.04642
+  },
+  {
+    "name": "Sulkava",
+    "country": "FI",
+    "lat": 61.78691,
+    "lng": 28.37299
+  },
+  {
+    "name": "Suutarila",
+    "country": "FI",
+    "lat": 60.27996,
+    "lng": 25.01759
+  },
+  {
+    "name": "Suurmetsä",
+    "country": "FI",
+    "lat": 60.26961,
+    "lng": 25.05395
+  },
+  {
+    "name": "Suva",
+    "country": "FJ",
+    "lat": -18.13683,
+    "lng": 178.42531
+  },
+  {
+    "name": "Suze-la-Rousse",
+    "country": "FR",
+    "lat": 44.28761,
+    "lng": 4.84161
+  },
+  {
+    "name": "Sussargues",
+    "country": "FR",
+    "lat": 43.7125,
+    "lng": 4.0031
+  },
+  {
+    "name": "Surzur",
+    "country": "FR",
+    "lat": 47.57867,
+    "lng": -2.63043
+  },
+  {
+    "name": "Sury-le-Comtal",
+    "country": "FR",
+    "lat": 45.53735,
+    "lng": 4.18573
+  },
+  {
+    "name": "Survilliers",
+    "country": "FR",
+    "lat": 49.09712,
+    "lng": 2.54449
+  },
+  {
+    "name": "Surtainville",
+    "country": "FR",
+    "lat": 49.45977,
+    "lng": -1.81298
+  },
+  {
+    "name": "Surgères",
+    "country": "FR",
+    "lat": 46.10809,
+    "lng": -0.7514
+  },
+  {
+    "name": "Suresnes",
+    "country": "FR",
+    "lat": 48.87143,
+    "lng": 2.22929
+  },
+  {
+    "name": "Surbourg",
+    "country": "FR",
+    "lat": 48.91009,
+    "lng": 7.84716
+  },
+  {
+    "name": "Sundhouse",
+    "country": "FR",
+    "lat": 48.2511,
+    "lng": 7.60427
+  },
+  {
+    "name": "Sundhoffen",
+    "country": "FR",
+    "lat": 48.04263,
+    "lng": 7.4132
+  },
+  {
+    "name": "Sumène",
+    "country": "FR",
+    "lat": 43.98091,
+    "lng": 3.71563
+  },
+  {
+    "name": "Sulniac",
+    "country": "FR",
+    "lat": 47.67589,
+    "lng": -2.57201
+  },
+  {
+    "name": "Sully-sur-Loire",
+    "country": "FR",
+    "lat": 47.76372,
+    "lng": 2.37238
+  },
+  {
+    "name": "Suippes",
+    "country": "FR",
+    "lat": 49.12886,
+    "lng": 4.53446
+  },
+  {
+    "name": "Suèvres",
+    "country": "FR",
+    "lat": 47.66655,
+    "lng": 1.46153
+  },
+  {
+    "name": "Sucy-en-Brie",
+    "country": "FR",
+    "lat": 48.76872,
+    "lng": 2.53474
+  },
+  {
+    "name": "Sucé-sur-Erdre",
+    "country": "FR",
+    "lat": 47.33333,
+    "lng": -1.53333
+  },
+  {
+    "name": "Sutton upon Derwent",
+    "country": "GB",
+    "lat": 53.91314,
+    "lng": -0.92465
+  },
+  {
+    "name": "Sutton on Trent",
+    "country": "GB",
+    "lat": 53.18437,
+    "lng": -0.81091
+  },
+  {
+    "name": "Sutton in Ashfield",
+    "country": "GB",
+    "lat": 53.12542,
+    "lng": -1.26135
+  },
+  {
+    "name": "Sutton Courtenay",
+    "country": "GB",
+    "lat": 51.6413,
+    "lng": -1.27682
+  },
+  {
+    "name": "Sutton Coldfield",
+    "country": "GB",
+    "lat": 52.56667,
+    "lng": -1.81667
+  },
+  {
+    "name": "Sutton Bridge",
+    "country": "GB",
+    "lat": 52.76995,
+    "lng": 0.1855
+  },
+  {
+    "name": "Sutton Bonington",
+    "country": "GB",
+    "lat": 52.82144,
+    "lng": -1.24969
+  },
+  {
+    "name": "Sutton Benger",
+    "country": "GB",
+    "lat": 51.50685,
+    "lng": -2.08015
+  },
+  {
+    "name": "Sutton",
+    "country": "GB",
+    "lat": 52.38804,
+    "lng": 0.11866
+  },
+  {
+    "name": "Sutton",
+    "country": "GB",
+    "lat": 52.1,
+    "lng": -2.68333
+  },
+  {
+    "name": "Sutton",
+    "country": "GB",
+    "lat": 52.11078,
+    "lng": -0.2138
+  },
+  {
+    "name": "Sutton",
+    "country": "GB",
+    "lat": 51.35,
+    "lng": -0.2
+  },
+  {
+    "name": "Sutterton",
+    "country": "GB",
+    "lat": 52.90269,
+    "lng": -0.09235
+  },
+  {
+    "name": "Sunninghill",
+    "country": "GB",
+    "lat": 51.40135,
+    "lng": -0.65557
+  },
+  {
+    "name": "Sunningdale",
+    "country": "GB",
+    "lat": 51.39878,
+    "lng": -0.62944
+  },
+  {
+    "name": "Sunk Island",
+    "country": "GB",
+    "lat": 53.65168,
+    "lng": -0.08407
+  },
+  {
+    "name": "Sundridge",
+    "country": "GB",
+    "lat": 51.27797,
+    "lng": 0.12231
+  },
+  {
+    "name": "Sunderland",
+    "country": "GB",
+    "lat": 54.90465,
+    "lng": -1.38222
+  },
+  {
+    "name": "Sunbury-on-Thames",
+    "country": "GB",
+    "lat": 51.40424,
+    "lng": -0.41817
+  },
+  {
+    "name": "Sudbury",
+    "country": "GB",
+    "lat": 52.0389,
+    "lng": 0.73117
+  },
+  {
+    "name": "Sudbury",
+    "country": "GB",
+    "lat": 51.55525,
+    "lng": -0.32358
+  },
+  {
+    "name": "Sudbrooke",
+    "country": "GB",
+    "lat": 53.26667,
+    "lng": -0.45
+  },
+  {
+    "name": "Surbiton",
+    "country": "GB",
+    "lat": 51.39148,
+    "lng": -0.29825
+  },
+  {
+    "name": "Summerhouse",
+    "country": "GB",
+    "lat": 54.56728,
+    "lng": -1.68923
+  },
+  {
+    "name": "Surami",
+    "country": "GE",
+    "lat": 42.02431,
+    "lng": 43.55556
+  },
+  {
+    "name": "Sunyani",
+    "country": "GH",
+    "lat": 7.33991,
+    "lng": -2.32676
+  },
+  {
+    "name": "Suhum",
+    "country": "GH",
+    "lat": 6.04089,
+    "lng": -0.45004
+  },
+  {
+    "name": "Sutukung",
+    "country": "GM",
+    "lat": 13.46667,
+    "lng": -15.26667
+  },
+  {
+    "name": "Sutukoba",
+    "country": "GM",
+    "lat": 13.5,
+    "lng": -14.01667
+  },
+  {
+    "name": "Sun Kunda",
+    "country": "GM",
+    "lat": 13.38333,
+    "lng": -13.85
+  },
+  {
+    "name": "Sukuta",
+    "country": "GM",
+    "lat": 13.61667,
+    "lng": -14.91667
+  },
+  {
+    "name": "Sukuta",
+    "country": "GM",
+    "lat": 13.41033,
+    "lng": -16.70815
+  },
+  {
+    "name": "Sudowol",
+    "country": "GM",
+    "lat": 13.36667,
+    "lng": -13.96667
+  },
+  {
+    "name": "Sumpango",
+    "country": "GT",
+    "lat": 14.64623,
+    "lng": -90.73427
+  },
+  {
+    "name": "Sung Wong Toi",
+    "country": "HK",
+    "lat": 22.32466,
+    "lng": 114.19149
+  },
+  {
+    "name": "Sun Tin Wai",
+    "country": "HK",
+    "lat": 22.37058,
+    "lng": 114.18696
+  },
+  {
+    "name": "Sulaco",
+    "country": "HN",
+    "lat": 14.91667,
+    "lng": -87.26667
+  },
+  {
+    "name": "Sula",
+    "country": "HN",
+    "lat": 15.24765,
+    "lng": -88.56047
+  },
+  {
+    "name": "Subirana",
+    "country": "HN",
+    "lat": 15.2,
+    "lng": -87.45
+  },
+  {
+    "name": "Sutivan",
+    "country": "HR",
+    "lat": 43.38583,
+    "lng": 16.47694
+  },
+  {
+    "name": "Supetar",
+    "country": "HR",
+    "lat": 43.38417,
+    "lng": 16.55083
+  },
+  {
+    "name": "Sunja",
+    "country": "HR",
+    "lat": 45.3685,
+    "lng": 16.56702
+  },
+  {
+    "name": "Sukošan",
+    "country": "HR",
+    "lat": 44.05,
+    "lng": 15.31667
+  },
+  {
+    "name": "Suhopolje",
+    "country": "HR",
+    "lat": 45.79972,
+    "lng": 17.49917
+  },
+  {
+    "name": "Sućuraj",
+    "country": "HR",
+    "lat": 43.12528,
+    "lng": 17.18611
+  },
+  {
+    "name": "Susoh",
+    "country": "ID",
+    "lat": 3.72394,
+    "lng": 96.82159
+  },
+  {
+    "name": "Sunggal",
+    "country": "ID",
+    "lat": 3.5765,
+    "lng": 98.6151
+  },
+  {
+    "name": "Susupu",
+    "country": "ID",
+    "lat": 1.15125,
+    "lng": 127.43243
+  },
+  {
+    "name": "Surulangun Rawas",
+    "country": "ID",
+    "lat": -2.6227,
+    "lng": 102.7634
+  },
+  {
+    "name": "Surian",
+    "country": "ID",
+    "lat": -1.25587,
+    "lng": 100.88129
+  },
+  {
+    "name": "Surakarta",
+    "country": "ID",
+    "lat": -7.55611,
+    "lng": 110.83167
+  },
+  {
+    "name": "Surade",
+    "country": "ID",
+    "lat": -7.342,
+    "lng": 106.5616
+  },
+  {
+    "name": "Surabaya",
+    "country": "ID",
+    "lat": -7.24917,
+    "lng": 112.75083
+  },
+  {
+    "name": "Surabaya",
+    "country": "ID",
+    "lat": -4.67122,
+    "lng": 105.72571
+  },
+  {
+    "name": "Suban Jeriji",
+    "country": "ID",
+    "lat": -3.74637,
+    "lng": 103.96405
+  },
+  {
+    "name": "Sungsang",
+    "country": "ID",
+    "lat": -2.3629,
+    "lng": 104.9038
+  },
+  {
+    "name": "Sungguminasa",
+    "country": "ID",
+    "lat": -5.1971,
+    "lng": 119.451
+  },
+  {
+    "name": "Sungaikakap",
+    "country": "ID",
+    "lat": -0.05193,
+    "lng": 109.20741
+  },
+  {
+    "name": "Sungai Salak",
+    "country": "ID",
+    "lat": -0.4381,
+    "lng": 103.0075
+  },
+  {
+    "name": "Sungairotan",
+    "country": "ID",
+    "lat": -3.10245,
+    "lng": 104.27802
+  },
+  {
+    "name": "Sungairaya",
+    "country": "ID",
+    "lat": -2.8566,
+    "lng": 115.2474
+  },
+  {
+    "name": "Sungai Raya",
+    "country": "ID",
+    "lat": 0.7,
+    "lng": 108.9
+  },
+  {
+    "name": "Sungai Pinyuh",
+    "country": "ID",
+    "lat": 0.2832,
+    "lng": 109.07859
+  },
+  {
+    "name": "Sungai Penuh",
+    "country": "ID",
+    "lat": -2.0561,
+    "lng": 101.3913
+  },
+  {
+    "name": "Sungailimau",
+    "country": "ID",
+    "lat": -0.51638,
+    "lng": 100.06171
+  },
+  {
+    "name": "Sungailiat",
+    "country": "ID",
+    "lat": -1.85442,
+    "lng": 106.12215
+  },
+  {
+    "name": "Sungaikupang",
+    "country": "ID",
+    "lat": -3.0438,
+    "lng": 115.9918
+  },
+  {
+    "name": "Sungaigerong",
+    "country": "ID",
+    "lat": -2.9817,
+    "lng": 104.8483
+  },
+  {
+    "name": "Sungaiduri",
+    "country": "ID",
+    "lat": 0.5664,
+    "lng": 108.92891
+  },
+  {
+    "name": "Sungaibali",
+    "country": "ID",
+    "lat": -3.4027,
+    "lng": 116.4044
+  },
+  {
+    "name": "Sumpur Kudus",
+    "country": "ID",
+    "lat": -0.4418,
+    "lng": 100.9088
+  },
+  {
+    "name": "Sumenep",
+    "country": "ID",
+    "lat": -7.01152,
+    "lng": 113.86042
+  },
+  {
+    "name": "Sumedang Utara",
+    "country": "ID",
+    "lat": -6.85,
+    "lng": 107.91667
+  },
+  {
+    "name": "Sumedang",
+    "country": "ID",
+    "lat": -6.85861,
+    "lng": 107.91639
+  },
+  {
+    "name": "Sumberpucung",
+    "country": "ID",
+    "lat": -8.15856,
+    "lng": 112.48292
+  },
+  {
+    "name": "Sumbermanjing Wetan",
+    "country": "ID",
+    "lat": -8.2807,
+    "lng": 112.6896
+  },
+  {
+    "name": "Sumberjati",
+    "country": "ID",
+    "lat": -8.1873,
+    "lng": 113.8799
+  },
+  {
+    "name": "Sumberjambe",
+    "country": "ID",
+    "lat": -8.0699,
+    "lng": 113.9002
+  },
+  {
+    "name": "Sumberbaru",
+    "country": "ID",
+    "lat": -8.1177,
+    "lng": 113.3887
+  },
+  {
+    "name": "Sumberanyar",
+    "country": "ID",
+    "lat": -7.7824,
+    "lng": 114.2997
+  },
+  {
+    "name": "Sumber",
+    "country": "ID",
+    "lat": -6.7978,
+    "lng": 111.2572
+  },
+  {
+    "name": "Sumber",
+    "country": "ID",
+    "lat": -6.76028,
+    "lng": 108.48306
+  },
+  {
+    "name": "Sumbawa Besar",
+    "country": "ID",
+    "lat": -8.49317,
+    "lng": 117.42024
+  },
+  {
+    "name": "Sulitair",
+    "country": "ID",
+    "lat": -0.61258,
+    "lng": 100.64788
+  },
+  {
+    "name": "Sulang Tengah",
+    "country": "ID",
+    "lat": -6.8065,
+    "lng": 111.3806
+  },
+  {
+    "name": "Sukowono",
+    "country": "ID",
+    "lat": -8.0576,
+    "lng": 113.8342
+  },
+  {
+    "name": "Sukoharjo",
+    "country": "ID",
+    "lat": -7.6725,
+    "lng": 110.83806
+  },
+  {
+    "name": "Sukawening",
+    "country": "ID",
+    "lat": -7.1568,
+    "lng": 108.0065
+  },
+  {
+    "name": "Sukasari",
+    "country": "ID",
+    "lat": -7.0757,
+    "lng": 107.8947
+  },
+  {
+    "name": "Sukasada",
+    "country": "ID",
+    "lat": -8.1395,
+    "lng": 115.1031
+  },
+  {
+    "name": "Sukaraja",
+    "country": "ID",
+    "lat": -7.4519,
+    "lng": 108.1944
+  },
+  {
+    "name": "Sukanagara",
+    "country": "ID",
+    "lat": -7.098,
+    "lng": 107.1309
+  },
+  {
+    "name": "Sukadana",
+    "country": "ID",
+    "lat": -5.06446,
+    "lng": 105.54869
+  },
+  {
+    "name": "Sukadana",
+    "country": "ID",
+    "lat": -1.25,
+    "lng": 109.95
+  },
+  {
+    "name": "Sukabumi",
+    "country": "ID",
+    "lat": -6.91806,
+    "lng": 106.92667
+  },
+  {
+    "name": "Subang",
+    "country": "ID",
+    "lat": -7.1277,
+    "lng": 108.5283
+  },
+  {
+    "name": "Subang",
+    "country": "ID",
+    "lat": -6.57,
+    "lng": 107.75667
+  },
+  {
+    "name": "Subaim",
+    "country": "ID",
+    "lat": 1.12034,
+    "lng": 128.13301
+  },
+  {
+    "name": "Sumberbaba",
+    "country": "ID",
+    "lat": -1.8188,
+    "lng": 136.7576
+  },
+  {
+    "name": "Sukamaju",
+    "country": "ID",
+    "lat": -2.6098,
+    "lng": 120.4664
+  },
+  {
+    "name": "Subulussalam",
+    "country": "ID",
+    "lat": 2.662,
+    "lng": 97.8827
+  },
+  {
+    "name": "Sukorambi",
+    "country": "ID",
+    "lat": -8.1571,
+    "lng": 113.6652
+  },
+  {
+    "name": "Sukamulia",
+    "country": "ID",
+    "lat": -8.6286,
+    "lng": 116.5125
+  },
+  {
+    "name": "Subagan",
+    "country": "ID",
+    "lat": -8.4503,
+    "lng": 115.6065
+  },
+  {
+    "name": "Sungaisarik",
+    "country": "ID",
+    "lat": -0.57358,
+    "lng": 100.22464
+  },
+  {
+    "name": "Sungayang",
+    "country": "ID",
+    "lat": -0.40756,
+    "lng": 100.59718
+  },
+  {
+    "name": "Sumberrejo",
+    "country": "ID",
+    "lat": -8.1868,
+    "lng": 113.0718
+  },
+  {
+    "name": "Sulahan",
+    "country": "ID",
+    "lat": -8.421,
+    "lng": 115.3479
+  },
+  {
+    "name": "Sukacai",
+    "country": "ID",
+    "lat": -6.3487,
+    "lng": 105.8667
+  },
+  {
+    "name": "Sukamaju",
+    "country": "ID",
+    "lat": -6.7053,
+    "lng": 106.0701
+  },
+  {
+    "name": "Sumandang",
+    "country": "ID",
+    "lat": -6.5068,
+    "lng": 106.329
+  },
+  {
+    "name": "Sukarama",
+    "country": "ID",
+    "lat": -7.3738,
+    "lng": 106.9822
+  },
+  {
+    "name": "Sukoharjo Satu",
+    "country": "ID",
+    "lat": -5.30094,
+    "lng": 104.98329
+  },
+  {
+    "name": "Sukamaju Kidul",
+    "country": "ID",
+    "lat": -7.2831,
+    "lng": 108.1867
+  },
+  {
+    "name": "Sukaraja",
+    "country": "ID",
+    "lat": -7.1466,
+    "lng": 108.214
+  },
+  {
+    "name": "Sukadana",
+    "country": "ID",
+    "lat": -7.2655,
+    "lng": 108.4403
+  },
+  {
+    "name": "Sukorejo",
+    "country": "ID",
+    "lat": -8.2471,
+    "lng": 111.3803
+  },
+  {
+    "name": "Sumberan",
+    "country": "ID",
+    "lat": -8.3426,
+    "lng": 113.606
+  },
+  {
+    "name": "Sumbergedong",
+    "country": "ID",
+    "lat": -8.0525,
+    "lng": 111.7078
+  },
+  {
+    "name": "Sumberan",
+    "country": "ID",
+    "lat": -8.4003,
+    "lng": 114.2681
+  },
+  {
+    "name": "Suak Bakung",
+    "country": "ID",
+    "lat": 3.0056,
+    "lng": 97.36455
+  },
+  {
+    "name": "Sungai Raya",
+    "country": "ID",
+    "lat": 4.76116,
+    "lng": 97.91165
+  },
+  {
+    "name": "Suka Makmue",
+    "country": "ID",
+    "lat": 4.00312,
+    "lng": 96.61762
+  },
+  {
+    "name": "Suek",
+    "country": "ID",
+    "lat": 3.77495,
+    "lng": 96.81779
+  },
+  {
+    "name": "Sungai Iyu",
+    "country": "ID",
+    "lat": 4.40515,
+    "lng": 98.13249
+  },
+  {
+    "name": "Sungi Liput",
+    "country": "ID",
+    "lat": 4.20737,
+    "lng": 98.01275
+  },
+  {
+    "name": "Sungai Nyamuk",
+    "country": "ID",
+    "lat": 4.14383,
+    "lng": 117.91087
+  },
+  {
+    "name": "Sungaiboh",
+    "country": "ID",
+    "lat": 1.63863,
+    "lng": 115.23319
+  },
+  {
+    "name": "Sukarama",
+    "country": "ID",
+    "lat": 2.6465,
+    "lng": 98.3015
+  },
+  {
+    "name": "Sumbul",
+    "country": "ID",
+    "lat": 2.741,
+    "lng": 98.3975
+  },
+  {
+    "name": "Sungaiturak",
+    "country": "ID",
+    "lat": -2.3535,
+    "lng": 115.3866
+  },
+  {
+    "name": "Sungaitatas",
+    "country": "ID",
+    "lat": -2.8353,
+    "lng": 114.4887
+  },
+  {
+    "name": "Sungaigampa",
+    "country": "ID",
+    "lat": -3.0849,
+    "lng": 114.6996
+  },
+  {
+    "name": "Sungaipuntik",
+    "country": "ID",
+    "lat": -3.169,
+    "lng": 114.683
+  },
+  {
+    "name": "Sungaitabuk",
+    "country": "ID",
+    "lat": -3.2473,
+    "lng": 114.7709
+  },
+  {
+    "name": "Sungairaya",
+    "country": "ID",
+    "lat": -3.2864,
+    "lng": 115.0561
+  },
+  {
+    "name": "Suwawa",
+    "country": "ID",
+    "lat": 0.5325,
+    "lng": 123.14694
+  },
+  {
+    "name": "Sungai Raya",
+    "country": "ID",
+    "lat": -0.12694,
+    "lng": 109.40389
+  },
+  {
+    "name": "Sugapa",
+    "country": "ID",
+    "lat": -3.74306,
+    "lng": 137.05
+  },
+  {
+    "name": "Sumohai",
+    "country": "ID",
+    "lat": -4.68944,
+    "lng": 139.35472
+  },
+  {
+    "name": "Sutton",
+    "country": "IE",
+    "lat": 53.38947,
+    "lng": -6.11059
+  },
+  {
+    "name": "Suwāsra",
+    "country": "IN",
+    "lat": 24.06983,
+    "lng": 75.65232
+  },
+  {
+    "name": "Sutrāpāra",
+    "country": "IN",
+    "lat": 20.84352,
+    "lng": 70.48318
+  },
+  {
+    "name": "Suthālia",
+    "country": "IN",
+    "lat": 23.99552,
+    "lng": 77.13953
+  },
+  {
+    "name": "Susner",
+    "country": "IN",
+    "lat": 23.94667,
+    "lng": 76.08825
+  },
+  {
+    "name": "Suriāpet",
+    "country": "IN",
+    "lat": 17.14054,
+    "lng": 79.62045
+  },
+  {
+    "name": "Suriānwān",
+    "country": "IN",
+    "lat": 25.46387,
+    "lng": 82.41922
+  },
+  {
+    "name": "Surgāna",
+    "country": "IN",
+    "lat": 20.55956,
+    "lng": 73.63747
+  },
+  {
+    "name": "Surendranagar",
+    "country": "IN",
+    "lat": 22.72706,
+    "lng": 71.64856
+  },
+  {
+    "name": "Suratgarh",
+    "country": "IN",
+    "lat": 29.3215,
+    "lng": 73.89979
+  },
+  {
+    "name": "Surat",
+    "country": "IN",
+    "lat": 21.19594,
+    "lng": 72.83023
+  },
+  {
+    "name": "Surajpur",
+    "country": "IN",
+    "lat": 23.21347,
+    "lng": 82.86836
+  },
+  {
+    "name": "Supaul",
+    "country": "IN",
+    "lat": 26.11527,
+    "lng": 86.59509
+  },
+  {
+    "name": "Suntikoppa",
+    "country": "IN",
+    "lat": 12.45594,
+    "lng": 75.8297
+  },
+  {
+    "name": "Sunel",
+    "country": "IN",
+    "lat": 24.37065,
+    "lng": 75.95708
+  },
+  {
+    "name": "Sundarnagar",
+    "country": "IN",
+    "lat": 31.53523,
+    "lng": 76.905
+  },
+  {
+    "name": "Sundergarh",
+    "country": "IN",
+    "lat": 22.11667,
+    "lng": 84.03333
+  },
+  {
+    "name": "Sundarapāndiyanpattanam",
+    "country": "IN",
+    "lat": 9.84139,
+    "lng": 79.09836
+  },
+  {
+    "name": "Sunām",
+    "country": "IN",
+    "lat": 30.12883,
+    "lng": 75.79943
+  },
+  {
+    "name": "Sunākhala",
+    "country": "IN",
+    "lat": 20.16677,
+    "lng": 85.33227
+  },
+  {
+    "name": "Sumbal",
+    "country": "IN",
+    "lat": 34.23072,
+    "lng": 74.6472
+  },
+  {
+    "name": "Sullya",
+    "country": "IN",
+    "lat": 12.561,
+    "lng": 75.38741
+  },
+  {
+    "name": "Sulur",
+    "country": "IN",
+    "lat": 11.02427,
+    "lng": 77.12565
+  },
+  {
+    "name": "Sultanpur",
+    "country": "IN",
+    "lat": 31.21468,
+    "lng": 75.19602
+  },
+  {
+    "name": "Sultānpur",
+    "country": "IN",
+    "lat": 29.75534,
+    "lng": 78.11034
+  },
+  {
+    "name": "Sultānpur",
+    "country": "IN",
+    "lat": 26.25788,
+    "lng": 82.07269
+  },
+  {
+    "name": "Sultānpur",
+    "country": "IN",
+    "lat": 23.13812,
+    "lng": 77.93404
+  },
+  {
+    "name": "Sultanpur",
+    "country": "IN",
+    "lat": 20.08695,
+    "lng": 76.5187
+  },
+  {
+    "name": "Sukma",
+    "country": "IN",
+    "lat": 18.39014,
+    "lng": 81.65941
+  },
+  {
+    "name": "Suket",
+    "country": "IN",
+    "lat": 24.64609,
+    "lng": 76.0417
+  },
+  {
+    "name": "Suchindram",
+    "country": "IN",
+    "lat": 8.15442,
+    "lng": 77.46704
+  },
+  {
+    "name": "Subulia",
+    "country": "IN",
+    "lat": 20.89586,
+    "lng": 84.16934
+  },
+  {
+    "name": "Suār",
+    "country": "IN",
+    "lat": 29.02841,
+    "lng": 79.05654
+  },
+  {
+    "name": "Sumerpur",
+    "country": "IN",
+    "lat": 25.1543,
+    "lng": 73.08157
+  },
+  {
+    "name": "Sultānganj",
+    "country": "IN",
+    "lat": 25.23831,
+    "lng": 86.73559
+  },
+  {
+    "name": "Sunabeda",
+    "country": "IN",
+    "lat": 18.7284,
+    "lng": 82.82932
+  },
+  {
+    "name": "Sunāri Kalān",
+    "country": "IN",
+    "lat": 28.86103,
+    "lng": 76.56898
+  },
+  {
+    "name": "Suhāgi",
+    "country": "IN",
+    "lat": 23.2206,
+    "lng": 79.95691
+  },
+  {
+    "name": "Surankōt",
+    "country": "IN",
+    "lat": 33.62708,
+    "lng": 74.27468
+  },
+  {
+    "name": "Sujānpur",
+    "country": "IN",
+    "lat": 32.31625,
+    "lng": 75.60741
+  },
+  {
+    "name": "Sudnā",
+    "country": "IN",
+    "lat": 24.05255,
+    "lng": 84.07202
+  },
+  {
+    "name": "Sulebhāvi",
+    "country": "IN",
+    "lat": 15.89572,
+    "lng": 74.65494
+  },
+  {
+    "name": "Sundakkāmpālaiyam",
+    "country": "IN",
+    "lat": 10.56659,
+    "lng": 77.21354
+  },
+  {
+    "name": "Sundarapāndiyam",
+    "country": "IN",
+    "lat": 9.61267,
+    "lng": 77.67378
+  },
+  {
+    "name": "Sukma",
+    "country": "IN",
+    "lat": 18.32741,
+    "lng": 81.62621
+  },
+  {
+    "name": "Suryaraopeta",
+    "country": "IN",
+    "lat": 16.99961,
+    "lng": 82.22317
+  },
+  {
+    "name": "Sultan Pur",
+    "country": "IN",
+    "lat": 28.49555,
+    "lng": 77.16112
+  },
+  {
+    "name": "Sultan Pur Majra",
+    "country": "IN",
+    "lat": 28.68966,
+    "lng": 77.07648
+  },
+  {
+    "name": "Sukhpar",
+    "country": "IN",
+    "lat": 23.2163,
+    "lng": 69.60911
+  },
+  {
+    "name": "Sunderbani",
+    "country": "IN",
+    "lat": 33.04841,
+    "lng": 74.48846
+  },
+  {
+    "name": "Suranga",
+    "country": "IN",
+    "lat": 23.70902,
+    "lng": 86.46074
+  },
+  {
+    "name": "Suvani",
+    "country": "IN",
+    "lat": 19.13336,
+    "lng": 84.71512
+  },
+  {
+    "name": "Sufipind",
+    "country": "IN",
+    "lat": 31.27748,
+    "lng": 75.63883
+  },
+  {
+    "name": "Sumerganj Mandi",
+    "country": "IN",
+    "lat": 25.72985,
+    "lng": 76.23143
+  },
+  {
+    "name": "Sumayl",
+    "country": "IQ",
+    "lat": 36.85823,
+    "lng": 42.8482
+  },
+  {
+    "name": "Surian",
+    "country": "IR",
+    "lat": 30.4551,
+    "lng": 53.651
+  },
+  {
+    "name": "Sutera",
+    "country": "IT",
+    "lat": 37.52493,
+    "lng": 13.73274
+  },
+  {
+    "name": "Surdo",
+    "country": "IT",
+    "lat": 39.32752,
+    "lng": 16.20139
+  },
+  {
+    "name": "Suelli",
+    "country": "IT",
+    "lat": 39.56257,
+    "lng": 9.13245
+  },
+  {
+    "name": "Suzzara",
+    "country": "IT",
+    "lat": 44.99242,
+    "lng": 10.74407
+  },
+  {
+    "name": "Suvereto",
+    "country": "IT",
+    "lat": 43.07669,
+    "lng": 10.6774
+  },
+  {
+    "name": "Sutri",
+    "country": "IT",
+    "lat": 42.24596,
+    "lng": 12.21715
+  },
+  {
+    "name": "Sustinente",
+    "country": "IT",
+    "lat": 45.07096,
+    "lng": 11.02178
+  },
+  {
+    "name": "Susegana",
+    "country": "IT",
+    "lat": 45.85604,
+    "lng": 12.25741
+  },
+  {
+    "name": "Susa",
+    "country": "IT",
+    "lat": 45.13677,
+    "lng": 7.05809
+  },
+  {
+    "name": "Surbo",
+    "country": "IT",
+    "lat": 40.39383,
+    "lng": 18.13456
+  },
+  {
+    "name": "Surano",
+    "country": "IT",
+    "lat": 40.02818,
+    "lng": 18.34591
+  },
+  {
+    "name": "Supino",
+    "country": "IT",
+    "lat": 41.62135,
+    "lng": 13.23452
+  },
+  {
+    "name": "Supersano",
+    "country": "IT",
+    "lat": 40.01655,
+    "lng": 18.24205
+  },
+  {
+    "name": "Suno",
+    "country": "IT",
+    "lat": 45.63137,
+    "lng": 8.54437
+  },
+  {
+    "name": "Suni",
+    "country": "IT",
+    "lat": 40.28085,
+    "lng": 8.54942
+  },
+  {
+    "name": "Summonte",
+    "country": "IT",
+    "lat": 40.94874,
+    "lng": 14.74458
+  },
+  {
+    "name": "Sumirago",
+    "country": "IT",
+    "lat": 45.73651,
+    "lng": 8.78356
+  },
+  {
+    "name": "Sulzano",
+    "country": "IT",
+    "lat": 45.68732,
+    "lng": 10.09988
+  },
+  {
+    "name": "Sulmona",
+    "country": "IT",
+    "lat": 42.04945,
+    "lng": 13.92578
+  },
+  {
+    "name": "Sueglio",
+    "country": "IT",
+    "lat": 46.08579,
+    "lng": 9.33374
+  },
+  {
+    "name": "Subiaco",
+    "country": "IT",
+    "lat": 41.92619,
+    "lng": 13.08906
+  },
+  {
+    "name": "Subbiano",
+    "country": "IT",
+    "lat": 43.57815,
+    "lng": 11.8714
+  },
+  {
+    "name": "Suardi",
+    "country": "IT",
+    "lat": 45.03247,
+    "lng": 8.74127
+  },
+  {
+    "name": "Susella",
+    "country": "IT",
+    "lat": 44.91267,
+    "lng": 9.09651
+  },
+  {
+    "name": "Summaga",
+    "country": "IT",
+    "lat": 45.77406,
+    "lng": 12.79792
+  },
+  {
+    "name": "Sutrio",
+    "country": "IT",
+    "lat": 46.51206,
+    "lng": 12.99325
+  },
+  {
+    "name": "Sulbiate",
+    "country": "IT",
+    "lat": 45.64047,
+    "lng": 9.42762
+  },
+  {
+    "name": "Suisio",
+    "country": "IT",
+    "lat": 45.65708,
+    "lng": 9.50225
+  },
+  {
+    "name": "Succivo",
+    "country": "IT",
+    "lat": 40.96801,
+    "lng": 14.25563
+  },
+  {
+    "name": "Suello",
+    "country": "IT",
+    "lat": 45.81678,
+    "lng": 9.31154
+  },
+  {
+    "name": "Su Planu",
+    "country": "IT",
+    "lat": 39.25487,
+    "lng": 9.1066
+  },
+  {
+    "name": "Suzuka",
+    "country": "JP",
+    "lat": 34.88333,
+    "lng": 136.58333
+  },
+  {
+    "name": "Suzaka",
+    "country": "JP",
+    "lat": 36.65,
+    "lng": 138.31667
+  },
+  {
+    "name": "Suwa",
+    "country": "JP",
+    "lat": 36.03799,
+    "lng": 138.11308
+  },
+  {
+    "name": "Susami",
+    "country": "JP",
+    "lat": 33.55,
+    "lng": 135.5
+  },
+  {
+    "name": "Susaki",
+    "country": "JP",
+    "lat": 33.39471,
+    "lng": 133.29128
+  },
+  {
+    "name": "Sumoto",
+    "country": "JP",
+    "lat": 34.34322,
+    "lng": 134.88911
+  },
+  {
+    "name": "Sumiyoshi",
+    "country": "JP",
+    "lat": 34.75,
+    "lng": 138.25
+  },
+  {
+    "name": "Sumida",
+    "country": "JP",
+    "lat": 35.73289,
+    "lng": 139.82085
+  },
+  {
+    "name": "Sukumo",
+    "country": "JP",
+    "lat": 32.93333,
+    "lng": 132.73333
+  },
+  {
+    "name": "Suita",
+    "country": "JP",
+    "lat": 34.76143,
+    "lng": 135.51567
+  },
+  {
+    "name": "Suibara",
+    "country": "JP",
+    "lat": 37.84608,
+    "lng": 139.23039
+  },
+  {
+    "name": "Sugito",
+    "country": "JP",
+    "lat": 36.03107,
+    "lng": 139.72636
+  },
+  {
+    "name": "Sugahama",
+    "country": "JP",
+    "lat": 35.65604,
+    "lng": 135.97298
+  },
+  {
+    "name": "Sueyoshichō-ninokata",
+    "country": "JP",
+    "lat": 31.65,
+    "lng": 131.01667
+  },
+  {
+    "name": "Sugi",
+    "country": "JP",
+    "lat": 33.75331,
+    "lng": 133.66236
+  },
+  {
+    "name": "Sukayama",
+    "country": "JP",
+    "lat": 35.83333,
+    "lng": 140.66667
+  },
+  {
+    "name": "Sukagawa",
+    "country": "JP",
+    "lat": 37.28333,
+    "lng": 140.38333
+  },
+  {
+    "name": "Suttsu",
+    "country": "JP",
+    "lat": 42.78806,
+    "lng": 140.22556
+  },
+  {
+    "name": "Sunagawa",
+    "country": "JP",
+    "lat": 43.48639,
+    "lng": 141.90556
+  },
+  {
+    "name": "Suzu",
+    "country": "JP",
+    "lat": 37.43459,
+    "lng": 137.26009
+  },
+  {
+    "name": "Susono",
+    "country": "JP",
+    "lat": 35.17388,
+    "lng": 138.90691
+  },
+  {
+    "name": "Sugamo",
+    "country": "JP",
+    "lat": 35.73484,
+    "lng": 139.73326
+  },
+  {
+    "name": "Sukekawa",
+    "country": "JP",
+    "lat": 38.75225,
+    "lng": 139.85962
+  },
+  {
+    "name": "Suibun",
+    "country": "JP",
+    "lat": 34.46549,
+    "lng": 135.62603
+  },
+  {
+    "name": "Sugai",
+    "country": "JP",
+    "lat": 34.75484,
+    "lng": 135.79684
+  },
+  {
+    "name": "Sue",
+    "country": "JP",
+    "lat": 33.59149,
+    "lng": 130.50423
+  },
+  {
+    "name": "Suga-inadazutsumi",
+    "country": "JP",
+    "lat": 35.63498,
+    "lng": 139.53956
+  },
+  {
+    "name": "Sumiyoshi",
+    "country": "JP",
+    "lat": 35.68868,
+    "lng": 139.81471
+  },
+  {
+    "name": "Sugita",
+    "country": "JP",
+    "lat": 35.37609,
+    "lng": 139.61713
+  },
+  {
+    "name": "Suginami",
+    "country": "JP",
+    "lat": 36.2013,
+    "lng": 140.28406
+  },
+  {
+    "name": "Sultan Hamud",
+    "country": "KE",
+    "lat": -2.02042,
+    "lng": 37.37212
+  },
+  {
+    "name": "Subukia",
+    "country": "KE",
+    "lat": -0.01644,
+    "lng": 36.20927
+  },
+  {
+    "name": "Suguta",
+    "country": "KE",
+    "lat": 0.82495,
+    "lng": 36.68928
+  },
+  {
+    "name": "Suluktu",
+    "country": "KG",
+    "lat": 39.93652,
+    "lng": 69.56779
+  },
+  {
+    "name": "Suzak",
+    "country": "KG",
+    "lat": 40.8982,
+    "lng": 72.90481
+  },
+  {
+    "name": "Suong",
+    "country": "KH",
+    "lat": 11.91178,
+    "lng": 105.65821
+  },
+  {
+    "name": "Sunch’ŏn",
+    "country": "KP",
+    "lat": 39.43167,
+    "lng": 125.93278
+  },
+  {
+    "name": "Sunan",
+    "country": "KP",
+    "lat": 39.20323,
+    "lng": 125.69312
+  },
+  {
+    "name": "Suwon",
+    "country": "KR",
+    "lat": 37.29111,
+    "lng": 127.00889
+  },
+  {
+    "name": "Suncheon",
+    "country": "KR",
+    "lat": 34.9505,
+    "lng": 127.48784
+  },
+  {
+    "name": "Su-dong",
+    "country": "KR",
+    "lat": 37.70353,
+    "lng": 127.3258
+  },
+  {
+    "name": "Suykbulak",
+    "country": "KZ",
+    "lat": 49.70837,
+    "lng": 81.04854
+  },
+  {
+    "name": "Sulţān",
+    "country": "LY",
+    "lat": 31.09396,
+    "lng": 20.22329
+  },
+  {
+    "name": "Sutomore",
+    "country": "ME",
+    "lat": 42.14278,
+    "lng": 19.04667
+  },
+  {
+    "name": "Sušica",
+    "country": "MK",
+    "lat": 41.43982,
+    "lng": 22.83676
+  },
+  {
+    "name": "Suugaant",
+    "country": "MN",
+    "lat": 45.53257,
+    "lng": 107.04546
+  },
+  {
+    "name": "Surinam",
+    "country": "MU",
+    "lat": -20.50972,
+    "lng": 57.50528
+  },
+  {
+    "name": "Sunuapa",
+    "country": "MX",
+    "lat": 17.49151,
+    "lng": -93.24394
+  },
+  {
+    "name": "Sumidero",
+    "country": "MX",
+    "lat": 18.90393,
+    "lng": -97.02152
+  },
+  {
+    "name": "Suma de Hidalgo",
+    "country": "MX",
+    "lat": 21.08643,
+    "lng": -89.14766
+  },
+  {
+    "name": "Sultepec",
+    "country": "MX",
+    "lat": 18.85855,
+    "lng": -99.96588
+  },
+  {
+    "name": "Sudzal",
+    "country": "MX",
+    "lat": 20.87228,
+    "lng": -88.9887
+  },
+  {
+    "name": "Sucopó",
+    "country": "MX",
+    "lat": 21.16155,
+    "lng": -88.04742
+  },
+  {
+    "name": "Sucilá",
+    "country": "MX",
+    "lat": 21.1565,
+    "lng": -88.31405
+  },
+  {
+    "name": "Suchiapa",
+    "country": "MX",
+    "lat": 16.62473,
+    "lng": -93.09894
+  },
+  {
+    "name": "Subteniente López",
+    "country": "MX",
+    "lat": 18.49546,
+    "lng": -88.39126
+  },
+  {
+    "name": "Suc-Tuc",
+    "country": "MX",
+    "lat": 19.71259,
+    "lng": -90.03768
+  },
+  {
+    "name": "Suspiro Picacho",
+    "country": "MX",
+    "lat": 22.21103,
+    "lng": -101.08597
+  },
+  {
+    "name": "Susupuato de Guerrero",
+    "country": "MX",
+    "lat": 19.21505,
+    "lng": -100.40798
+  },
+  {
+    "name": "Susticacán",
+    "country": "MX",
+    "lat": 22.6111,
+    "lng": -103.09905
+  },
+  {
+    "name": "Suchitlán",
+    "country": "MX",
+    "lat": 20.5332,
+    "lng": -101.0236
+  },
+  {
+    "name": "Suchitlán",
+    "country": "MX",
+    "lat": 19.37541,
+    "lng": -103.71141
+  },
+  {
+    "name": "Suaqui Grande",
+    "country": "MX",
+    "lat": 28.39382,
+    "lng": -109.88775
+  },
+  {
+    "name": "Suchilapan del Río",
+    "country": "MX",
+    "lat": 17.38611,
+    "lng": -94.98806
+  },
+  {
+    "name": "Sungkai",
+    "country": "MY",
+    "lat": 4.0,
+    "lng": 101.31667
+  },
+  {
+    "name": "Sungai Udang",
+    "country": "MY",
+    "lat": 2.269,
+    "lng": 102.1427
+  },
+  {
+    "name": "Sungai Bakap",
+    "country": "MY",
+    "lat": 5.22231,
+    "lng": 100.49541
+  },
+  {
+    "name": "Sungai Buloh",
+    "country": "MY",
+    "lat": 3.21,
+    "lng": 101.561
+  },
+  {
+    "name": "Sungai Besar",
+    "country": "MY",
+    "lat": 3.6746,
+    "lng": 100.9867
+  },
+  {
+    "name": "Sungai Lembing",
+    "country": "MY",
+    "lat": 3.9178,
+    "lng": 103.0361
+  },
+  {
+    "name": "Sungai Siput",
+    "country": "MY",
+    "lat": 4.3945,
+    "lng": 101.1947
+  },
+  {
+    "name": "Sungai Petani",
+    "country": "MY",
+    "lat": 5.647,
+    "lng": 100.48772
+  },
+  {
+    "name": "Sundar",
+    "country": "MY",
+    "lat": 4.9,
+    "lng": 115.2
+  },
+  {
+    "name": "Sungai Pelek New Village",
+    "country": "MY",
+    "lat": 2.65,
+    "lng": 101.7
+  },
+  {
+    "name": "Sungai Lalang",
+    "country": "MY",
+    "lat": 5.6998,
+    "lng": 100.51449
+  },
+  {
+    "name": "Sungai Kob",
+    "country": "MY",
+    "lat": 5.42998,
+    "lng": 100.64484
+  },
+  {
+    "name": "Sungai Durian",
+    "country": "MY",
+    "lat": 4.31667,
+    "lng": 101.05
+  },
+  {
+    "name": "Sungai Dua",
+    "country": "MY",
+    "lat": 5.44266,
+    "lng": 100.42972
+  },
+  {
+    "name": "Sungai Sumun",
+    "country": "MY",
+    "lat": 3.8915,
+    "lng": 100.8532
+  },
+  {
+    "name": "Sungai Baharu",
+    "country": "MY",
+    "lat": 6.16399,
+    "lng": 100.33392
+  },
+  {
+    "name": "Subang Jaya",
+    "country": "MY",
+    "lat": 3.04384,
+    "lng": 101.58062
+  },
+  {
+    "name": "Sungai Chenaam",
+    "country": "MY",
+    "lat": 5.14609,
+    "lng": 100.4092
+  },
+  {
+    "name": "Sungai Koyan",
+    "country": "MY",
+    "lat": 4.21864,
+    "lng": 101.8015
+  },
+  {
+    "name": "Sungai Jawi",
+    "country": "MY",
+    "lat": 5.19779,
+    "lng": 100.49244
+  },
+  {
+    "name": "Suya",
+    "country": "NG",
+    "lat": 9.4688,
+    "lng": 3.18333
+  },
+  {
+    "name": "Surulere",
+    "country": "NG",
+    "lat": 6.50153,
+    "lng": 3.35808
+  },
+  {
+    "name": "Sumaila",
+    "country": "NG",
+    "lat": 11.53011,
+    "lng": 8.95593
+  },
+  {
+    "name": "Sule Tankarkar",
+    "country": "NG",
+    "lat": 12.66686,
+    "lng": 9.22828
+  },
+  {
+    "name": "Suleja",
+    "country": "NG",
+    "lat": 9.18059,
+    "lng": 7.17939
+  },
+  {
+    "name": "Sunkani",
+    "country": "NG",
+    "lat": 8.70298,
+    "lng": 11.25757
+  },
+  {
+    "name": "Surhuisterveen",
+    "country": "NL",
+    "lat": 53.18477,
+    "lng": 6.17031
+  },
+  {
+    "name": "Sunndalsøra",
+    "country": "NO",
+    "lat": 62.67519,
+    "lng": 8.56327
+  },
+  {
+    "name": "Surnadal",
+    "country": "NO",
+    "lat": 62.97397,
+    "lng": 8.72472
+  },
+  {
+    "name": "Surkhet",
+    "country": "NP",
+    "lat": 28.51746,
+    "lng": 81.7787
+  },
+  {
+    "name": "Sumner",
+    "country": "NZ",
+    "lat": -43.56833,
+    "lng": 172.76013
+  },
+  {
+    "name": "Sunnyvale",
+    "country": "NZ",
+    "lat": -36.8882,
+    "lng": 174.63019
+  },
+  {
+    "name": "Sunnyhills",
+    "country": "NZ",
+    "lat": -36.8982,
+    "lng": 174.88019
+  },
+  {
+    "name": "Sur",
+    "country": "OM",
+    "lat": 22.56667,
+    "lng": 59.52889
+  },
+  {
+    "name": "Sufālat Samā’il",
+    "country": "OM",
+    "lat": 23.31667,
+    "lng": 58.01667
+  },
+  {
+    "name": "Suyo",
+    "country": "PE",
+    "lat": -4.51367,
+    "lng": -80.00173
+  },
+  {
+    "name": "Sullana",
+    "country": "PE",
+    "lat": -4.90389,
+    "lng": -80.68528
+  },
+  {
+    "name": "Sucre",
+    "country": "PE",
+    "lat": -8.96167,
+    "lng": -77.84275
+  },
+  {
+    "name": "Sucre",
+    "country": "PE",
+    "lat": -6.94266,
+    "lng": -78.1357
+  },
+  {
+    "name": "Succha",
+    "country": "PE",
+    "lat": -9.82327,
+    "lng": -77.65007
+  },
+  {
+    "name": "Susapaya",
+    "country": "PE",
+    "lat": -17.35386,
+    "lng": -70.13285
+  },
+  {
+    "name": "Surcubamba",
+    "country": "PE",
+    "lat": -12.11633,
+    "lng": -74.63015
+  },
+  {
+    "name": "Surco",
+    "country": "PE",
+    "lat": -11.88401,
+    "lng": -76.44002
+  },
+  {
+    "name": "Supe",
+    "country": "PE",
+    "lat": -10.7975,
+    "lng": -77.71306
+  },
+  {
+    "name": "Sunampe",
+    "country": "PE",
+    "lat": -13.42704,
+    "lng": -76.16363
+  },
+  {
+    "name": "Sumbilca",
+    "country": "PE",
+    "lat": -11.4075,
+    "lng": -76.82
+  },
+  {
+    "name": "Suitucancha",
+    "country": "PE",
+    "lat": -11.78735,
+    "lng": -75.93673
+  },
+  {
+    "name": "Subtanjalla",
+    "country": "PE",
+    "lat": -14.01889,
+    "lng": -75.75806
+  },
+  {
+    "name": "Supe Puerto",
+    "country": "PE",
+    "lat": -10.80135,
+    "lng": -77.74333
+  },
+  {
+    "name": "Suyo",
+    "country": "PH",
+    "lat": 16.9762,
+    "lng": 120.5254
+  },
+  {
+    "name": "Suyan",
+    "country": "PH",
+    "lat": 6.06028,
+    "lng": 125.38528
+  },
+  {
+    "name": "Suso",
+    "country": "PH",
+    "lat": 17.3594,
+    "lng": 120.4611
+  },
+  {
+    "name": "Surup",
+    "country": "PH",
+    "lat": 6.39035,
+    "lng": 126.14558
+  },
+  {
+    "name": "Surigao",
+    "country": "PH",
+    "lat": 9.789,
+    "lng": 125.495
+  },
+  {
+    "name": "Surallah",
+    "country": "PH",
+    "lat": 6.37527,
+    "lng": 124.74521
+  },
+  {
+    "name": "Sungai",
+    "country": "PH",
+    "lat": 8.45139,
+    "lng": 124.40278
+  },
+  {
+    "name": "Sumpong",
+    "country": "PH",
+    "lat": 8.16333,
+    "lng": 125.11833
+  },
+  {
+    "name": "Sumisip",
+    "country": "PH",
+    "lat": 6.41972,
+    "lng": 121.97139
+  },
+  {
+    "name": "Sumilao",
+    "country": "PH",
+    "lat": 8.28722,
+    "lng": 124.94556
+  },
+  {
+    "name": "Sumagui",
+    "country": "PH",
+    "lat": 12.79532,
+    "lng": 121.47401
+  },
+  {
+    "name": "Sumag",
+    "country": "PH",
+    "lat": 10.60139,
+    "lng": 122.91924
+  },
+  {
+    "name": "Sumabnit",
+    "country": "PH",
+    "lat": 16.0303,
+    "lng": 120.5832
+  },
+  {
+    "name": "Sulucan",
+    "country": "PH",
+    "lat": 14.79448,
+    "lng": 120.92594
+  },
+  {
+    "name": "Sultan Kudarat",
+    "country": "PH",
+    "lat": 7.22889,
+    "lng": 124.25778
+  },
+  {
+    "name": "Sulop",
+    "country": "PH",
+    "lat": 6.59861,
+    "lng": 125.34361
+  },
+  {
+    "name": "Sulit",
+    "country": "PH",
+    "lat": 6.23611,
+    "lng": 125.02056
+  },
+  {
+    "name": "Sulat",
+    "country": "PH",
+    "lat": 11.81028,
+    "lng": 125.45444
+  },
+  {
+    "name": "Sulangan",
+    "country": "PH",
+    "lat": 11.1373,
+    "lng": 123.7228
+  },
+  {
+    "name": "Sulangan",
+    "country": "PH",
+    "lat": 10.936,
+    "lng": 125.8264
+  },
+  {
+    "name": "Sulangan",
+    "country": "PH",
+    "lat": 10.83,
+    "lng": 122.69
+  },
+  {
+    "name": "Sula",
+    "country": "PH",
+    "lat": 15.45725,
+    "lng": 120.39553
+  },
+  {
+    "name": "Sugpon",
+    "country": "PH",
+    "lat": 16.8434,
+    "lng": 120.5157
+  },
+  {
+    "name": "Sugod",
+    "country": "PH",
+    "lat": 12.987,
+    "lng": 124.0805
+  },
+  {
+    "name": "Sugcad",
+    "country": "PH",
+    "lat": 13.36667,
+    "lng": 123.7
+  },
+  {
+    "name": "Sugbongkogon",
+    "country": "PH",
+    "lat": 8.95694,
+    "lng": 124.79111
+  },
+  {
+    "name": "Sugal",
+    "country": "PH",
+    "lat": 5.66222,
+    "lng": 125.46167
+  },
+  {
+    "name": "Sudipen",
+    "country": "PH",
+    "lat": 16.9056,
+    "lng": 120.4617
+  },
+  {
+    "name": "Suklayin",
+    "country": "PH",
+    "lat": 15.7574,
+    "lng": 121.5503
+  },
+  {
+    "name": "Subusub",
+    "country": "PH",
+    "lat": 16.22689,
+    "lng": 120.49513
+  },
+  {
+    "name": "Subic",
+    "country": "PH",
+    "lat": 14.8787,
+    "lng": 120.23194
+  },
+  {
+    "name": "Subic",
+    "country": "PH",
+    "lat": 13.94859,
+    "lng": 120.94013
+  },
+  {
+    "name": "Suba",
+    "country": "PH",
+    "lat": 10.82512,
+    "lng": 121.0069
+  },
+  {
+    "name": "Suay",
+    "country": "PH",
+    "lat": 10.0533,
+    "lng": 122.8423
+  },
+  {
+    "name": "Suz-on",
+    "country": "PH",
+    "lat": 7.66278,
+    "lng": 125.63833
+  },
+  {
+    "name": "Sual",
+    "country": "PH",
+    "lat": 16.06682,
+    "lng": 120.09414
+  },
+  {
+    "name": "Sultan Naga Dimaporo",
+    "country": "PH",
+    "lat": 7.7959,
+    "lng": 123.7145
+  },
+  {
+    "name": "Sumalig",
+    "country": "PH",
+    "lat": 7.9986,
+    "lng": 123.6627
+  },
+  {
+    "name": "Subic Bay Freeport Zone",
+    "country": "PH",
+    "lat": 14.78899,
+    "lng": 120.27987
+  },
+  {
+    "name": "Surkhpur",
+    "country": "PK",
+    "lat": 32.71816,
+    "lng": 74.44773
+  },
+  {
+    "name": "Surab",
+    "country": "PK",
+    "lat": 28.49276,
+    "lng": 66.25999
+  },
+  {
+    "name": "Sukkur",
+    "country": "PK",
+    "lat": 27.70323,
+    "lng": 68.85889
+  },
+  {
+    "name": "Sukheke Mandi",
+    "country": "PK",
+    "lat": 31.86541,
+    "lng": 73.50875
+  },
+  {
+    "name": "Suwałki",
+    "country": "PL",
+    "lat": 54.11175,
+    "lng": 22.93087
+  },
+  {
+    "name": "Susiec",
+    "country": "PL",
+    "lat": 50.41973,
+    "lng": 23.19626
+  },
+  {
+    "name": "Suraż",
+    "country": "PL",
+    "lat": 52.94908,
+    "lng": 22.95653
+  },
+  {
+    "name": "Supraśl",
+    "country": "PL",
+    "lat": 53.20526,
+    "lng": 23.33934
+  },
+  {
+    "name": "Sułów",
+    "country": "PL",
+    "lat": 50.90661,
+    "lng": 22.36061
+  },
+  {
+    "name": "Sułów",
+    "country": "PL",
+    "lat": 50.77099,
+    "lng": 22.95593
+  },
+  {
+    "name": "Sułkowice",
+    "country": "PL",
+    "lat": 51.9231,
+    "lng": 21.08929
+  },
+  {
+    "name": "Sulejówek",
+    "country": "PL",
+    "lat": 52.25221,
+    "lng": 21.26902
+  },
+  {
+    "name": "Suchożebry",
+    "country": "PL",
+    "lat": 52.25948,
+    "lng": 22.25289
+  },
+  {
+    "name": "Suchowola",
+    "country": "PL",
+    "lat": 53.57753,
+    "lng": 23.10596
+  },
+  {
+    "name": "Suchedniów",
+    "country": "PL",
+    "lat": 51.04776,
+    "lng": 20.82922
+  },
+  {
+    "name": "Sucha",
+    "country": "PL",
+    "lat": 51.61999,
+    "lng": 20.94887
+  },
+  {
+    "name": "Suszec",
+    "country": "PL",
+    "lat": 50.02958,
+    "lng": 18.7916
+  },
+  {
+    "name": "Susz",
+    "country": "PL",
+    "lat": 53.71743,
+    "lng": 19.33645
+  },
+  {
+    "name": "Sułów",
+    "country": "PL",
+    "lat": 51.49966,
+    "lng": 17.16811
+  },
+  {
+    "name": "Sułoszowa",
+    "country": "PL",
+    "lat": 50.26789,
+    "lng": 19.73282
+  },
+  {
+    "name": "Sulmierzyce",
+    "country": "PL",
+    "lat": 51.60594,
+    "lng": 17.53053
+  },
+  {
+    "name": "Sulmierzyce",
+    "country": "PL",
+    "lat": 51.18456,
+    "lng": 19.19595
+  },
+  {
+    "name": "Sułkowice",
+    "country": "PL",
+    "lat": 49.84053,
+    "lng": 19.80097
+  },
+  {
+    "name": "Sułkowice",
+    "country": "PL",
+    "lat": 49.81932,
+    "lng": 19.35988
+  },
+  {
+    "name": "Sulików",
+    "country": "PL",
+    "lat": 51.07624,
+    "lng": 15.06792
+  },
+  {
+    "name": "Sulejów",
+    "country": "PL",
+    "lat": 51.35436,
+    "lng": 19.88538
+  },
+  {
+    "name": "Sulęczyno",
+    "country": "PL",
+    "lat": 54.23302,
+    "lng": 17.7733
+  },
+  {
+    "name": "Sulęcin",
+    "country": "PL",
+    "lat": 52.44429,
+    "lng": 15.11676
+  },
+  {
+    "name": "Sulechów",
+    "country": "PL",
+    "lat": 52.08362,
+    "lng": 15.62513
+  },
+  {
+    "name": "Suchy Las",
+    "country": "PL",
+    "lat": 52.47308,
+    "lng": 16.87745
+  },
+  {
+    "name": "Suchy Dąb",
+    "country": "PL",
+    "lat": 54.20809,
+    "lng": 18.76731
+  },
+  {
+    "name": "Suchanino",
+    "country": "PL",
+    "lat": 54.35493,
+    "lng": 18.60406
+  },
+  {
+    "name": "Suchań",
+    "country": "PL",
+    "lat": 53.28003,
+    "lng": 15.32541
+  },
+  {
+    "name": "Sucha Beskidzka",
+    "country": "PL",
+    "lat": 49.74188,
+    "lng": 19.59429
+  },
+  {
+    "name": "Subkowy",
+    "country": "PL",
+    "lat": 54.00227,
+    "lng": 18.76928
+  },
+  {
+    "name": "Sulbiny Górne",
+    "country": "PL",
+    "lat": 51.87321,
+    "lng": 21.63174
+  },
+  {
+    "name": "Suárez",
+    "country": "PR",
+    "lat": 18.43022,
+    "lng": -65.8535
+  },
+  {
+    "name": "Sumidero",
+    "country": "PR",
+    "lat": 18.21857,
+    "lng": -66.12878
+  },
+  {
+    "name": "Suseya",
+    "country": "PS",
+    "lat": 31.39116,
+    "lng": 35.11368
+  },
+  {
+    "name": "Surif City",
+    "country": "PS",
+    "lat": 31.65078,
+    "lng": 35.06439
+  },
+  {
+    "name": "Surdā",
+    "country": "PS",
+    "lat": 31.93709,
+    "lng": 35.20321
+  },
+  {
+    "name": "Suceveni",
+    "country": "RO",
+    "lat": 46.01222,
+    "lng": 28.01806
+  },
+  {
+    "name": "Sutești",
+    "country": "RO",
+    "lat": 44.66851,
+    "lng": 24.21476
+  },
+  {
+    "name": "Suseni Socetu",
+    "country": "RO",
+    "lat": 44.75618,
+    "lng": 25.79829
+  },
+  {
+    "name": "Susenii Bârgăului",
+    "country": "RO",
+    "lat": 47.22311,
+    "lng": 24.7073
+  },
+  {
+    "name": "Suseni",
+    "country": "RO",
+    "lat": 46.81381,
+    "lng": 24.73194
+  },
+  {
+    "name": "Suseni",
+    "country": "RO",
+    "lat": 46.66667,
+    "lng": 25.55
+  },
+  {
+    "name": "Suseni",
+    "country": "RO",
+    "lat": 44.90092,
+    "lng": 25.14423
+  },
+  {
+    "name": "Suseni",
+    "country": "RO",
+    "lat": 44.71667,
+    "lng": 24.95
+  },
+  {
+    "name": "Surdulești",
+    "country": "RO",
+    "lat": 44.39217,
+    "lng": 24.95798
+  },
+  {
+    "name": "Surduc",
+    "country": "RO",
+    "lat": 47.25,
+    "lng": 23.35
+  },
+  {
+    "name": "Surdila-Greci",
+    "country": "RO",
+    "lat": 45.06667,
+    "lng": 27.26667
+  },
+  {
+    "name": "Surdila-Găiseanca",
+    "country": "RO",
+    "lat": 45.06667,
+    "lng": 27.33333
+  },
+  {
+    "name": "Surani",
+    "country": "RO",
+    "lat": 45.2,
+    "lng": 26.16667
+  },
+  {
+    "name": "Suraia",
+    "country": "RO",
+    "lat": 45.68333,
+    "lng": 27.4
+  },
+  {
+    "name": "Supuru de Jos",
+    "country": "RO",
+    "lat": 47.46667,
+    "lng": 22.8
+  },
+  {
+    "name": "Suplacu de Barcău",
+    "country": "RO",
+    "lat": 47.25729,
+    "lng": 22.53195
+  },
+  {
+    "name": "Suplac",
+    "country": "RO",
+    "lat": 46.38333,
+    "lng": 24.51667
+  },
+  {
+    "name": "Sultana",
+    "country": "RO",
+    "lat": 44.26062,
+    "lng": 26.85424
+  },
+  {
+    "name": "Sulița",
+    "country": "RO",
+    "lat": 47.65,
+    "lng": 26.91667
+  },
+  {
+    "name": "Sulina",
+    "country": "RO",
+    "lat": 45.15564,
+    "lng": 29.65403
+  },
+  {
+    "name": "Suhurlui",
+    "country": "RO",
+    "lat": 45.72873,
+    "lng": 27.82678
+  },
+  {
+    "name": "Suhuleț",
+    "country": "RO",
+    "lat": 46.90368,
+    "lng": 27.25849
+  },
+  {
+    "name": "Suharău",
+    "country": "RO",
+    "lat": 48.13333,
+    "lng": 26.41667
+  },
+  {
+    "name": "Suhaia",
+    "country": "RO",
+    "lat": 43.73333,
+    "lng": 25.25
+  },
+  {
+    "name": "Sudiți",
+    "country": "RO",
+    "lat": 45.2689,
+    "lng": 26.87183
+  },
+  {
+    "name": "Sudiţi",
+    "country": "RO",
+    "lat": 44.58333,
+    "lng": 27.6
+  },
+  {
+    "name": "Suciu de Sus",
+    "country": "RO",
+    "lat": 47.43333,
+    "lng": 24.03333
+  },
+  {
+    "name": "Suciu de Jos",
+    "country": "RO",
+    "lat": 47.44584,
+    "lng": 23.9825
+  },
+  {
+    "name": "Suceviţa",
+    "country": "RO",
+    "lat": 47.78333,
+    "lng": 25.71667
+  },
+  {
+    "name": "Suceava",
+    "country": "RO",
+    "lat": 47.63333,
+    "lng": 26.25
+  },
+  {
+    "name": "Suceagu",
+    "country": "RO",
+    "lat": 46.78432,
+    "lng": 23.46511
+  },
+  {
+    "name": "Subcetate",
+    "country": "RO",
+    "lat": 46.85,
+    "lng": 25.45
+  },
+  {
+    "name": "Suatu",
+    "country": "RO",
+    "lat": 46.76667,
+    "lng": 23.96667
+  },
+  {
+    "name": "Sutjeska",
+    "country": "RS",
+    "lat": 45.38312,
+    "lng": 20.6962
+  },
+  {
+    "name": "Surdulica",
+    "country": "RS",
+    "lat": 42.69056,
+    "lng": 22.17083
+  },
+  {
+    "name": "Surduk",
+    "country": "RS",
+    "lat": 45.07118,
+    "lng": 20.3251
+  },
+  {
+    "name": "Surčin",
+    "country": "RS",
+    "lat": 44.79306,
+    "lng": 20.28028
+  },
+  {
+    "name": "Subotica",
+    "country": "RS",
+    "lat": 46.1,
+    "lng": 19.66667
+  },
+  {
+    "name": "Sumulicë",
+    "country": "RS",
+    "lat": 42.38682,
+    "lng": 21.734
+  },
+  {
+    "name": "Suzëmka",
+    "country": "RU",
+    "lat": 52.31834,
+    "lng": 34.07899
+  },
+  {
+    "name": "Suzdal’",
+    "country": "RU",
+    "lat": 56.42408,
+    "lng": 40.44978
+  },
+  {
+    "name": "Suvorovskaya",
+    "country": "RU",
+    "lat": 44.1901,
+    "lng": 42.6595
+  },
+  {
+    "name": "Suvorov",
+    "country": "RU",
+    "lat": 54.1223,
+    "lng": 36.49657
+  },
+  {
+    "name": "Suslonger",
+    "country": "RU",
+    "lat": 56.31556,
+    "lng": 48.25306
+  },
+  {
+    "name": "Susanino",
+    "country": "RU",
+    "lat": 58.15017,
+    "lng": 41.59428
+  },
+  {
+    "name": "Surskoye",
+    "country": "RU",
+    "lat": 54.48042,
+    "lng": 46.72114
+  },
+  {
+    "name": "Sursk",
+    "country": "RU",
+    "lat": 53.07542,
+    "lng": 45.68461
+  },
+  {
+    "name": "Surovikino",
+    "country": "RU",
+    "lat": 48.60974,
+    "lng": 42.8569
+  },
+  {
+    "name": "Surovatikha",
+    "country": "RU",
+    "lat": 55.76516,
+    "lng": 43.89845
+  },
+  {
+    "name": "Surkhakhi",
+    "country": "RU",
+    "lat": 43.1875,
+    "lng": 44.90194
+  },
+  {
+    "name": "Surgut",
+    "country": "RU",
+    "lat": 53.92498,
+    "lng": 51.20348
+  },
+  {
+    "name": "Surazh",
+    "country": "RU",
+    "lat": 53.01747,
+    "lng": 32.39178
+  },
+  {
+    "name": "Sura",
+    "country": "RU",
+    "lat": 53.88786,
+    "lng": 45.74192
+  },
+  {
+    "name": "Suponevo",
+    "country": "RU",
+    "lat": 53.20492,
+    "lng": 34.29597
+  },
+  {
+    "name": "Suoyarvi",
+    "country": "RU",
+    "lat": 62.08807,
+    "lng": 32.37327
+  },
+  {
+    "name": "Sunzha",
+    "country": "RU",
+    "lat": 43.05862,
+    "lng": 44.82281
+  },
+  {
+    "name": "Suna",
+    "country": "RU",
+    "lat": 57.83233,
+    "lng": 50.0591
+  },
+  {
+    "name": "Sulak",
+    "country": "RU",
+    "lat": 43.27342,
+    "lng": 47.51463
+  },
+  {
+    "name": "Suksun",
+    "country": "RU",
+    "lat": 57.14508,
+    "lng": 57.39514
+  },
+  {
+    "name": "Sukkozero",
+    "country": "RU",
+    "lat": 63.17018,
+    "lng": 32.34436
+  },
+  {
+    "name": "Sukko",
+    "country": "RU",
+    "lat": 44.79945,
+    "lng": 37.42145
+  },
+  {
+    "name": "Sukhodol",
+    "country": "RU",
+    "lat": 53.90063,
+    "lng": 51.2117
+  },
+  {
+    "name": "Sukhobezvodnoye",
+    "country": "RU",
+    "lat": 57.04913,
+    "lng": 44.88909
+  },
+  {
+    "name": "Sukhinichi",
+    "country": "RU",
+    "lat": 54.09989,
+    "lng": 35.34254
+  },
+  {
+    "name": "Sukhaya Buyvola",
+    "country": "RU",
+    "lat": 45.15333,
+    "lng": 42.99556
+  },
+  {
+    "name": "Sudzha",
+    "country": "RU",
+    "lat": 51.191,
+    "lng": 35.271
+  },
+  {
+    "name": "Sudogda",
+    "country": "RU",
+    "lat": 55.95171,
+    "lng": 40.87354
+  },
+  {
+    "name": "Sudislavl’",
+    "country": "RU",
+    "lat": 57.88201,
+    "lng": 41.70745
+  },
+  {
+    "name": "Suda",
+    "country": "RU",
+    "lat": 59.15254,
+    "lng": 37.5582
+  },
+  {
+    "name": "Subkhankulovo",
+    "country": "RU",
+    "lat": 54.55741,
+    "lng": 53.81153
+  },
+  {
+    "name": "Sunzha",
+    "country": "RU",
+    "lat": 43.32059,
+    "lng": 45.04903
+  },
+  {
+    "name": "Surok",
+    "country": "RU",
+    "lat": 56.44694,
+    "lng": 48.12139
+  },
+  {
+    "name": "Suzun",
+    "country": "RU",
+    "lat": 53.78457,
+    "lng": 82.31595
+  },
+  {
+    "name": "Sug-Aksy",
+    "country": "RU",
+    "lat": 51.40425,
+    "lng": 91.27881
+  },
+  {
+    "name": "Suslovo",
+    "country": "RU",
+    "lat": 56.21667,
+    "lng": 88.11667
+  },
+  {
+    "name": "Surgut",
+    "country": "RU",
+    "lat": 61.25757,
+    "lng": 73.41775
+  },
+  {
+    "name": "Sumkino",
+    "country": "RU",
+    "lat": 58.11083,
+    "lng": 68.32444
+  },
+  {
+    "name": "Sukpak",
+    "country": "RU",
+    "lat": 51.646,
+    "lng": 94.267
+  },
+  {
+    "name": "Sukhoy Log",
+    "country": "RU",
+    "lat": 56.90832,
+    "lng": 62.03433
+  },
+  {
+    "name": "Sukhobuzimskoye",
+    "country": "RU",
+    "lat": 56.50081,
+    "lng": 93.2731
+  },
+  {
+    "name": "Suntar",
+    "country": "RU",
+    "lat": 62.16083,
+    "lng": 117.65547
+  },
+  {
+    "name": "Susuman",
+    "country": "RU",
+    "lat": 62.78045,
+    "lng": 148.15376
+  },
+  {
+    "name": "Sudoverf’",
+    "country": "RU",
+    "lat": 58.11696,
+    "lng": 38.64175
+  },
+  {
+    "name": "Sulţānah",
+    "country": "SA",
+    "lat": 24.49258,
+    "lng": 39.58572
+  },
+  {
+    "name": "Suakin",
+    "country": "SD",
+    "lat": 19.1059,
+    "lng": 37.3321
+  },
+  {
+    "name": "Surte",
+    "country": "SE",
+    "lat": 57.82533,
+    "lng": 12.01604
+  },
+  {
+    "name": "Surahammar",
+    "country": "SE",
+    "lat": 59.70725,
+    "lng": 16.22188
+  },
+  {
+    "name": "Sunne",
+    "country": "SE",
+    "lat": 59.83764,
+    "lng": 13.14302
+  },
+  {
+    "name": "Sundsvall",
+    "country": "SE",
+    "lat": 62.39129,
+    "lng": 17.3063
+  },
+  {
+    "name": "Sundsbruk",
+    "country": "SE",
+    "lat": 62.45806,
+    "lng": 17.34889
+  },
+  {
+    "name": "Sundbyberg",
+    "country": "SE",
+    "lat": 59.36128,
+    "lng": 17.97114
+  },
+  {
+    "name": "Sungai Simpang",
+    "country": "SG",
+    "lat": 1.43806,
+    "lng": 103.82667
+  },
+  {
+    "name": "Suchá nad Parnou",
+    "country": "SK",
+    "lat": 48.41104,
+    "lng": 17.48696
+  },
+  {
+    "name": "Sumbuya",
+    "country": "SL",
+    "lat": 7.64789,
+    "lng": -11.9606
+  },
+  {
+    "name": "Suchitoto",
+    "country": "SV",
+    "lat": 13.93806,
+    "lng": -89.02778
+  },
+  {
+    "name": "Subaykhān",
+    "country": "SY",
+    "lat": 34.85305,
+    "lng": 40.59987
+  },
+  {
+    "name": "Sulūk",
+    "country": "SY",
+    "lat": 36.59596,
+    "lng": 39.1299
+  },
+  {
+    "name": "Surat Thani",
+    "country": "TH",
+    "lat": 9.14011,
+    "lng": 99.33311
+  },
+  {
+    "name": "Sukhothai",
+    "country": "TH",
+    "lat": 17.00778,
+    "lng": 99.823
+  },
+  {
+    "name": "Suan Phueng",
+    "country": "TH",
+    "lat": 13.5429,
+    "lng": 99.33961
+  },
+  {
+    "name": "Suwannaphum",
+    "country": "TH",
+    "lat": 15.60348,
+    "lng": 103.80207
+  },
+  {
+    "name": "Suwannakhuha",
+    "country": "TH",
+    "lat": 17.56292,
+    "lng": 102.27989
+  },
+  {
+    "name": "Surin",
+    "country": "TH",
+    "lat": 14.88181,
+    "lng": 103.49364
+  },
+  {
+    "name": "Suphan Buri",
+    "country": "TH",
+    "lat": 14.47418,
+    "lng": 100.12218
+  },
+  {
+    "name": "Sung Noen",
+    "country": "TH",
+    "lat": 14.8992,
+    "lng": 101.82075
+  },
+  {
+    "name": "Sung Men",
+    "country": "TH",
+    "lat": 18.0494,
+    "lng": 100.11457
+  },
+  {
+    "name": "Su-ngai Kolok",
+    "country": "TH",
+    "lat": 6.02977,
+    "lng": 101.96586
+  },
+  {
+    "name": "Sukhirin",
+    "country": "TH",
+    "lat": 5.93889,
+    "lng": 101.77077
+  },
+  {
+    "name": "Su-ngai Padi",
+    "country": "TH",
+    "lat": 6.0857,
+    "lng": 101.87959
+  },
+  {
+    "name": "Suan Luang",
+    "country": "TH",
+    "lat": 13.73028,
+    "lng": 100.65138
+  },
+  {
+    "name": "Suk Samran",
+    "country": "TH",
+    "lat": 9.34458,
+    "lng": 98.42903
+  },
+  {
+    "name": "Suai",
+    "country": "TL",
+    "lat": -9.31286,
+    "lng": 125.25648
+  },
+  {
+    "name": "Sukrah",
+    "country": "TN",
+    "lat": 36.87744,
+    "lng": 10.2468
+  },
+  {
+    "name": "Suvarlı",
+    "country": "TR",
+    "lat": 37.53867,
+    "lng": 37.6321
+  },
+  {
+    "name": "Sutaşı",
+    "country": "TR",
+    "lat": 36.08212,
+    "lng": 36.00632
+  },
+  {
+    "name": "Susurluk",
+    "country": "TR",
+    "lat": 39.91361,
+    "lng": 28.15778
+  },
+  {
+    "name": "Suruç",
+    "country": "TR",
+    "lat": 36.97612,
+    "lng": 38.42533
+  },
+  {
+    "name": "Sulusaray",
+    "country": "TR",
+    "lat": 39.99389,
+    "lng": 36.08404
+  },
+  {
+    "name": "Suluçem",
+    "country": "TR",
+    "lat": 39.69386,
+    "lng": 43.81472
+  },
+  {
+    "name": "Suluca",
+    "country": "TR",
+    "lat": 36.97812,
+    "lng": 35.57527
+  },
+  {
+    "name": "Sultanhisar",
+    "country": "TR",
+    "lat": 37.88989,
+    "lng": 28.15436
+  },
+  {
+    "name": "Sultanhanı",
+    "country": "TR",
+    "lat": 38.2471,
+    "lng": 33.54961
+  },
+  {
+    "name": "Sultandağı",
+    "country": "TR",
+    "lat": 38.53111,
+    "lng": 31.22806
+  },
+  {
+    "name": "Sulak",
+    "country": "TR",
+    "lat": 37.41399,
+    "lng": 41.96156
+  },
+  {
+    "name": "Sulak",
+    "country": "TR",
+    "lat": 37.29508,
+    "lng": 42.13425
+  },
+  {
+    "name": "Sudugunu",
+    "country": "TR",
+    "lat": 39.0466,
+    "lng": 40.43235
+  },
+  {
+    "name": "Sumbas",
+    "country": "TR",
+    "lat": 37.4513,
+    "lng": 36.02349
+  },
+  {
+    "name": "Susuzmüsellim",
+    "country": "TR",
+    "lat": 41.09889,
+    "lng": 27.0675
+  },
+  {
+    "name": "Susuz",
+    "country": "TR",
+    "lat": 40.7791,
+    "lng": 43.12769
+  },
+  {
+    "name": "Suşehri",
+    "country": "TR",
+    "lat": 40.16005,
+    "lng": 38.08413
+  },
+  {
+    "name": "Sungurlu",
+    "country": "TR",
+    "lat": 40.1675,
+    "lng": 34.37389
+  },
+  {
+    "name": "Suluova",
+    "country": "TR",
+    "lat": 40.83129,
+    "lng": 35.64788
+  },
+  {
+    "name": "Sultan",
+    "country": "TR",
+    "lat": 41.0254,
+    "lng": 26.45235
+  },
+  {
+    "name": "Sultanköy",
+    "country": "TR",
+    "lat": 41.02139,
+    "lng": 27.98861
+  },
+  {
+    "name": "Sulakyurt",
+    "country": "TR",
+    "lat": 40.15733,
+    "lng": 33.716
+  },
+  {
+    "name": "Sultangazi",
+    "country": "TR",
+    "lat": 41.10652,
+    "lng": 28.86847
+  },
+  {
+    "name": "Sultanbeyli",
+    "country": "TR",
+    "lat": 40.96072,
+    "lng": 29.27067
+  },
+  {
+    "name": "Sur",
+    "country": "TR",
+    "lat": 37.91351,
+    "lng": 40.22859
+  },
+  {
+    "name": "Sumbawanga",
+    "country": "TZ",
+    "lat": -7.96667,
+    "lng": 31.61667
+  },
+  {
+    "name": "Suvorovskoye",
+    "country": "UA",
+    "lat": 45.25171,
+    "lng": 33.37194
+  },
+  {
+    "name": "Sutysky",
+    "country": "UA",
+    "lat": 49.03901,
+    "lng": 28.41956
+  },
+  {
+    "name": "Susanino",
+    "country": "UA",
+    "lat": 45.49898,
+    "lng": 33.69854
+  },
+  {
+    "name": "Sursko-Mykhailivka",
+    "country": "UA",
+    "lat": 48.27437,
+    "lng": 34.72655
+  },
+  {
+    "name": "Suprunivka",
+    "country": "UA",
+    "lat": 49.57783,
+    "lng": 34.44038
+  },
+  {
+    "name": "Sumy",
+    "country": "UA",
+    "lat": 50.91741,
+    "lng": 34.79906
+  },
+  {
+    "name": "Sukhyi Lyman",
+    "country": "UA",
+    "lat": 46.39213,
+    "lng": 30.6458
+  },
+  {
+    "name": "Sukhovolya",
+    "country": "UA",
+    "lat": 49.82426,
+    "lng": 23.8377
+  },
+  {
+    "name": "Sukhoverkhiv",
+    "country": "UA",
+    "lat": 48.46199,
+    "lng": 25.75439
+  },
+  {
+    "name": "Sukholuzhzhia",
+    "country": "UA",
+    "lat": 46.21667,
+    "lng": 30.26402
+  },
+  {
+    "name": "Sukhodilsk",
+    "country": "UA",
+    "lat": 48.35022,
+    "lng": 39.72698
+  },
+  {
+    "name": "Sudova Vyshnia",
+    "country": "UA",
+    "lat": 49.78892,
+    "lng": 23.37218
+  },
+  {
+    "name": "Sudiivka",
+    "country": "UA",
+    "lat": 49.5007,
+    "lng": 34.42236
+  },
+  {
+    "name": "Sudak",
+    "country": "UA",
+    "lat": 44.84924,
+    "lng": 34.97471
+  },
+  {
+    "name": "Sucheveny",
+    "country": "UA",
+    "lat": 48.05557,
+    "lng": 25.84032
+  },
+  {
+    "name": "Subottsi",
+    "country": "UA",
+    "lat": 48.65557,
+    "lng": 32.51558
+  },
+  {
+    "name": "Suvorovo",
+    "country": "UA",
+    "lat": 46.08865,
+    "lng": 33.688
+  },
+  {
+    "name": "Sulligent",
+    "country": "US",
+    "lat": 33.90177,
+    "lng": -88.13448
+  },
+  {
+    "name": "Sumiton",
+    "country": "US",
+    "lat": 33.75566,
+    "lng": -87.05
+  },
+  {
+    "name": "Summerdale",
+    "country": "US",
+    "lat": 30.4877,
+    "lng": -87.69971
+  },
+  {
+    "name": "Sulphur Springs",
+    "country": "US",
+    "lat": 34.18065,
+    "lng": -92.12348
+  },
+  {
+    "name": "Sugarmill Woods",
+    "country": "US",
+    "lat": 28.73221,
+    "lng": -82.50621
+  },
+  {
+    "name": "Sun City Center",
+    "country": "US",
+    "lat": 27.71809,
+    "lng": -82.35176
+  },
+  {
+    "name": "Suncoast Estates",
+    "country": "US",
+    "lat": 26.71174,
+    "lng": -81.86897
+  },
+  {
+    "name": "Sunny Isles Beach",
+    "country": "US",
+    "lat": 25.95065,
+    "lng": -80.12282
+  },
+  {
+    "name": "Sunrise",
+    "country": "US",
+    "lat": 26.13397,
+    "lng": -80.1131
+  },
+  {
+    "name": "Sunset",
+    "country": "US",
+    "lat": 25.70594,
+    "lng": -80.35228
+  },
+  {
+    "name": "Sunshine Ranches",
+    "country": "US",
+    "lat": 26.04592,
+    "lng": -80.32894
+  },
+  {
+    "name": "Surfside",
+    "country": "US",
+    "lat": 25.87843,
+    "lng": -80.1256
+  },
+  {
+    "name": "Sugar Hill",
+    "country": "US",
+    "lat": 34.10649,
+    "lng": -84.03352
+  },
+  {
+    "name": "Summerville",
+    "country": "US",
+    "lat": 34.48064,
+    "lng": -85.34773
+  },
+  {
+    "name": "Sunnyside",
+    "country": "US",
+    "lat": 31.23938,
+    "lng": -82.34207
+  },
+  {
+    "name": "Suwanee",
+    "country": "US",
+    "lat": 34.05149,
+    "lng": -84.0713
+  },
+  {
+    "name": "Sullivan",
+    "country": "US",
+    "lat": 39.59948,
+    "lng": -88.60784
+  },
+  {
+    "name": "Sumner",
+    "country": "US",
+    "lat": 38.71699,
+    "lng": -87.86142
+  },
+  {
+    "name": "Sullivan",
+    "country": "US",
+    "lat": 39.09532,
+    "lng": -87.40585
+  },
+  {
+    "name": "Sunman",
+    "country": "US",
+    "lat": 39.237,
+    "lng": -85.09468
+  },
+  {
+    "name": "Sulphur",
+    "country": "US",
+    "lat": 30.23659,
+    "lng": -93.37738
+  },
+  {
+    "name": "Sunset",
+    "country": "US",
+    "lat": 30.41131,
+    "lng": -92.06845
+  },
+  {
+    "name": "Supreme",
+    "country": "US",
+    "lat": 29.85937,
+    "lng": -90.98121
+  },
+  {
+    "name": "Suitland",
+    "country": "US",
+    "lat": 38.84872,
+    "lng": -76.92386
+  },
+  {
+    "name": "Sugar Creek",
+    "country": "US",
+    "lat": 39.10973,
+    "lng": -94.44467
+  },
+  {
+    "name": "Sullivan",
+    "country": "US",
+    "lat": 38.2081,
+    "lng": -91.16042
+  },
+  {
+    "name": "Sunset Hills",
+    "country": "US",
+    "lat": 38.53894,
+    "lng": -90.40734
+  },
+  {
+    "name": "Summit",
+    "country": "US",
+    "lat": 31.28379,
+    "lng": -90.46843
+  },
+  {
+    "name": "Sumrall",
+    "country": "US",
+    "lat": 31.41739,
+    "lng": -89.54229
+  },
+  {
+    "name": "Sunflower",
+    "country": "US",
+    "lat": 33.5429,
+    "lng": -90.53703
+  },
+  {
+    "name": "Summerfield",
+    "country": "US",
+    "lat": 36.20875,
+    "lng": -79.90476
+  },
+  {
+    "name": "Sunset Beach",
+    "country": "US",
+    "lat": 33.88073,
+    "lng": -78.51223
+  },
+  {
+    "name": "Surf City",
+    "country": "US",
+    "lat": 34.42711,
+    "lng": -77.54608
+  },
+  {
+    "name": "Surf City",
+    "country": "US",
+    "lat": 39.66206,
+    "lng": -74.16514
+  },
+  {
+    "name": "Summerside",
+    "country": "US",
+    "lat": 39.10478,
+    "lng": -84.28827
+  },
+  {
+    "name": "Sulphur",
+    "country": "US",
+    "lat": 34.50787,
+    "lng": -96.96835
+  },
+  {
+    "name": "Susquehanna Trails",
+    "country": "US",
+    "lat": 39.75872,
+    "lng": -76.36802
+  },
+  {
+    "name": "Sullivans Island",
+    "country": "US",
+    "lat": 32.76323,
+    "lng": -79.83675
+  },
+  {
+    "name": "Summerville",
+    "country": "US",
+    "lat": 33.0185,
+    "lng": -80.17565
+  },
+  {
+    "name": "Sumter",
+    "country": "US",
+    "lat": 33.92044,
+    "lng": -80.34147
+  },
+  {
+    "name": "Surfside Beach",
+    "country": "US",
+    "lat": 33.606,
+    "lng": -78.97309
+  },
+  {
+    "name": "Surgoinsville",
+    "country": "US",
+    "lat": 36.47093,
+    "lng": -82.85183
+  },
+  {
+    "name": "Sugar Land",
+    "country": "US",
+    "lat": 29.61968,
+    "lng": -95.63495
+  },
+  {
+    "name": "Sullivan City",
+    "country": "US",
+    "lat": 26.27757,
+    "lng": -98.56363
+  },
+  {
+    "name": "Sulphur Springs",
+    "country": "US",
+    "lat": 33.13845,
+    "lng": -95.60107
+  },
+  {
+    "name": "Sunnyvale",
+    "country": "US",
+    "lat": 32.79652,
+    "lng": -96.56082
+  },
+  {
+    "name": "Sudley",
+    "country": "US",
+    "lat": 38.79289,
+    "lng": -77.49749
+  },
+  {
+    "name": "Suffolk",
+    "country": "US",
+    "lat": 36.72836,
+    "lng": -76.58496
+  },
+  {
+    "name": "Sugarland Run",
+    "country": "US",
+    "lat": 39.03761,
+    "lng": -77.37526
+  },
+  {
+    "name": "Surry",
+    "country": "US",
+    "lat": 37.13793,
+    "lng": -76.83524
+  },
+  {
+    "name": "Sussex",
+    "country": "US",
+    "lat": 36.91515,
+    "lng": -77.27914
+  },
+  {
+    "name": "Summersville",
+    "country": "US",
+    "lat": 38.28122,
+    "lng": -80.8526
+  },
+  {
+    "name": "Sutton",
+    "country": "US",
+    "lat": 38.66454,
+    "lng": -80.70982
+  },
+  {
+    "name": "Suffield Depot",
+    "country": "US",
+    "lat": 41.98121,
+    "lng": -72.64981
+  },
+  {
+    "name": "Sumner",
+    "country": "US",
+    "lat": 42.84748,
+    "lng": -92.09156
+  },
+  {
+    "name": "Sugar Grove",
+    "country": "US",
+    "lat": 41.76142,
+    "lng": -88.44369
+  },
+  {
+    "name": "Summit",
+    "country": "US",
+    "lat": 41.78809,
+    "lng": -87.81033
+  },
+  {
+    "name": "Sudbury",
+    "country": "US",
+    "lat": 42.38343,
+    "lng": -71.41617
+  },
+  {
+    "name": "Suffolk Downs Station",
+    "country": "US",
+    "lat": 42.38982,
+    "lng": -70.99783
+  },
+  {
+    "name": "Sunderland",
+    "country": "US",
+    "lat": 42.24454,
+    "lng": -71.77174
+  },
+  {
+    "name": "Sutton",
+    "country": "US",
+    "lat": 42.1501,
+    "lng": -71.76285
+  },
+  {
+    "name": "Sullivan",
+    "country": "US",
+    "lat": 44.52036,
+    "lng": -68.19668
+  },
+  {
+    "name": "Surry",
+    "country": "US",
+    "lat": 44.49591,
+    "lng": -68.50169
+  },
+  {
+    "name": "Superior",
+    "country": "US",
+    "lat": 40.02085,
+    "lng": -98.07004
+  },
+  {
+    "name": "Sutton",
+    "country": "US",
+    "lat": 40.60557,
+    "lng": -97.85921
+  },
+  {
+    "name": "Sunapee",
+    "country": "US",
+    "lat": 43.38757,
+    "lng": -72.08786
+  },
+  {
+    "name": "Suncook",
+    "country": "US",
+    "lat": 43.13064,
+    "lng": -71.45312
+  },
+  {
+    "name": "Sutton",
+    "country": "US",
+    "lat": 43.33424,
+    "lng": -71.95147
+  },
+  {
+    "name": "Succasunna",
+    "country": "US",
+    "lat": 40.86843,
+    "lng": -74.64044
+  },
+  {
+    "name": "Summit",
+    "country": "US",
+    "lat": 40.71562,
+    "lng": -74.36468
+  },
+  {
+    "name": "Sussex",
+    "country": "US",
+    "lat": 41.20982,
+    "lng": -74.60766
+  },
+  {
+    "name": "Suffern",
+    "country": "US",
+    "lat": 41.11482,
+    "lng": -74.14959
+  },
+  {
+    "name": "Sunnyside",
+    "country": "US",
+    "lat": 40.73982,
+    "lng": -73.93542
+  },
+  {
+    "name": "Sugarcreek",
+    "country": "US",
+    "lat": 40.50312,
+    "lng": -81.64096
+  },
+  {
+    "name": "Sunbury",
+    "country": "US",
+    "lat": 40.24256,
+    "lng": -82.85907
+  },
+  {
+    "name": "Sugarcreek",
+    "country": "US",
+    "lat": 41.42145,
+    "lng": -79.88117
+  },
+  {
+    "name": "Summit Hill",
+    "country": "US",
+    "lat": 40.82481,
+    "lng": -75.87103
+  },
+  {
+    "name": "Sun Valley",
+    "country": "US",
+    "lat": 40.98203,
+    "lng": -75.46602
+  },
+  {
+    "name": "Sun Valley",
+    "country": "US",
+    "lat": 41.0112,
+    "lng": -75.46963
+  },
+  {
+    "name": "Sunbury",
+    "country": "US",
+    "lat": 40.86259,
+    "lng": -76.79441
+  },
+  {
+    "name": "Sunrise Lake",
+    "country": "US",
+    "lat": 41.30981,
+    "lng": -74.96656
+  },
+  {
+    "name": "Susquehanna",
+    "country": "US",
+    "lat": 41.94341,
+    "lng": -75.59963
+  },
+  {
+    "name": "Suamico",
+    "country": "US",
+    "lat": 44.63194,
+    "lng": -88.03927
+  },
+  {
+    "name": "Sun Prairie",
+    "country": "US",
+    "lat": 43.1836,
+    "lng": -89.21373
+  },
+  {
+    "name": "Superior",
+    "country": "US",
+    "lat": 46.72077,
+    "lng": -92.10408
+  },
+  {
+    "name": "Sussex",
+    "country": "US",
+    "lat": 43.1339,
+    "lng": -88.22204
+  },
+  {
+    "name": "Summit",
+    "country": "US",
+    "lat": 32.06702,
+    "lng": -110.95148
+  },
+  {
+    "name": "Sun City",
+    "country": "US",
+    "lat": 33.59754,
+    "lng": -112.27182
+  },
+  {
+    "name": "Sun City West",
+    "country": "US",
+    "lat": 33.66198,
+    "lng": -112.34127
+  },
+  {
+    "name": "Sun Lakes",
+    "country": "US",
+    "lat": 33.21116,
+    "lng": -111.87542
+  },
+  {
+    "name": "Sun Valley",
+    "country": "US",
+    "lat": 34.2542,
+    "lng": -111.26125
+  },
+  {
+    "name": "Superior",
+    "country": "US",
+    "lat": 33.29395,
+    "lng": -111.09623
+  },
+  {
+    "name": "Surprise",
+    "country": "US",
+    "lat": 33.63059,
+    "lng": -112.33322
+  },
+  {
+    "name": "Suisun",
+    "country": "US",
+    "lat": 38.23825,
+    "lng": -122.04024
+  },
+  {
+    "name": "Summerland",
+    "country": "US",
+    "lat": 34.42138,
+    "lng": -119.59652
+  },
+  {
+    "name": "Sun City",
+    "country": "US",
+    "lat": 33.70919,
+    "lng": -117.19726
+  },
+  {
+    "name": "Sunland",
+    "country": "US",
+    "lat": 34.26695,
+    "lng": -118.3023
+  },
+  {
+    "name": "Sunnyside",
+    "country": "US",
+    "lat": 36.731,
+    "lng": -119.695
+  },
+  {
+    "name": "Sunnyslope",
+    "country": "US",
+    "lat": 34.01196,
+    "lng": -117.43338
+  },
+  {
+    "name": "Sunnyvale",
+    "country": "US",
+    "lat": 37.36883,
+    "lng": -122.03635
+  },
+  {
+    "name": "Sutter",
+    "country": "US",
+    "lat": 39.15989,
+    "lng": -121.75275
+  },
+  {
+    "name": "Sutter Creek",
+    "country": "US",
+    "lat": 38.39297,
+    "lng": -120.80244
+  },
+  {
+    "name": "Superior",
+    "country": "US",
+    "lat": 39.95276,
+    "lng": -105.1686
+  },
+  {
+    "name": "Sublette",
+    "country": "US",
+    "lat": 37.48169,
+    "lng": -100.84377
+  },
+  {
+    "name": "Sunland Park",
+    "country": "US",
+    "lat": 31.7965,
+    "lng": -106.57999
+  },
+  {
+    "name": "Sun Valley",
+    "country": "US",
+    "lat": 39.5963,
+    "lng": -119.77602
+  },
+  {
+    "name": "Sunrise Manor",
+    "country": "US",
+    "lat": 36.21108,
+    "lng": -115.07306
+  },
+  {
+    "name": "Sundown",
+    "country": "US",
+    "lat": 33.45621,
+    "lng": -102.48936
+  },
+  {
+    "name": "Sunray",
+    "country": "US",
+    "lat": 36.0167,
+    "lng": -101.82462
+  },
+  {
+    "name": "Susanville",
+    "country": "US",
+    "lat": 40.41628,
+    "lng": -120.65301
+  },
+  {
+    "name": "Sugar City",
+    "country": "US",
+    "lat": 43.87297,
+    "lng": -111.7483
+  },
+  {
+    "name": "Sun Valley",
+    "country": "US",
+    "lat": 43.69713,
+    "lng": -114.35172
+  },
+  {
+    "name": "Sun Prairie",
+    "country": "US",
+    "lat": 47.5369,
+    "lng": -111.48136
+  },
+  {
+    "name": "Superior",
+    "country": "US",
+    "lat": 47.19159,
+    "lng": -114.8918
+  },
+  {
+    "name": "Surrey",
+    "country": "US",
+    "lat": 48.2364,
+    "lng": -101.13349
+  },
+  {
+    "name": "Sutherland",
+    "country": "US",
+    "lat": 41.15694,
+    "lng": -101.12627
+  },
+  {
+    "name": "Sublimity",
+    "country": "US",
+    "lat": 44.82957,
+    "lng": -122.79453
+  },
+  {
+    "name": "Sunriver",
+    "country": "US",
+    "lat": 43.88401,
+    "lng": -121.43864
+  },
+  {
+    "name": "Sutherlin",
+    "country": "US",
+    "lat": 43.39012,
+    "lng": -123.31258
+  },
+  {
+    "name": "Summit Park",
+    "country": "US",
+    "lat": 40.74578,
+    "lng": -111.61159
+  },
+  {
+    "name": "Sunset",
+    "country": "US",
+    "lat": 41.13633,
+    "lng": -112.03105
+  },
+  {
+    "name": "Sudden Valley",
+    "country": "US",
+    "lat": 48.72289,
+    "lng": -122.34655
+  },
+  {
+    "name": "Sultan",
+    "country": "US",
+    "lat": 47.8626,
+    "lng": -121.81651
+  },
+  {
+    "name": "Sumas",
+    "country": "US",
+    "lat": 49.00012,
+    "lng": -122.26488
+  },
+  {
+    "name": "Summit",
+    "country": "US",
+    "lat": 47.16177,
+    "lng": -122.35707
+  },
+  {
+    "name": "Sumner",
+    "country": "US",
+    "lat": 47.20316,
+    "lng": -122.2404
+  },
+  {
+    "name": "Sunnyside",
+    "country": "US",
+    "lat": 46.32374,
+    "lng": -120.00865
+  },
+  {
+    "name": "Sunnyslope",
+    "country": "US",
+    "lat": 47.4729,
+    "lng": -120.33674
+  },
+  {
+    "name": "Suquamish",
+    "country": "US",
+    "lat": 47.73121,
+    "lng": -122.55236
+  },
+  {
+    "name": "Sundance",
+    "country": "US",
+    "lat": 44.40637,
+    "lng": -104.37578
+  },
+  {
+    "name": "Summerset",
+    "country": "US",
+    "lat": 44.18998,
+    "lng": -103.34384
+  },
+  {
+    "name": "Suitland-Silver Hill",
+    "country": "US",
+    "lat": 38.84685,
+    "lng": -76.92591
+  },
+  {
+    "name": "Summerlin South",
+    "country": "US",
+    "lat": 36.11708,
+    "lng": -115.33001
+  },
+  {
+    "name": "Sunnyside-Tahoe City",
+    "country": "US",
+    "lat": 39.15023,
+    "lng": -120.1612
+  },
+  {
+    "name": "Sutton-Alpine",
+    "country": "US",
+    "lat": 61.71041,
+    "lng": -148.89407
+  },
+  {
+    "name": "Susitna North",
+    "country": "US",
+    "lat": 62.16129,
+    "lng": -149.85075
+  },
+  {
+    "name": "Sun Village",
+    "country": "US",
+    "lat": 34.55952,
+    "lng": -117.95676
+  },
+  {
+    "name": "Summerfield",
+    "country": "US",
+    "lat": 38.90454,
+    "lng": -76.8683
+  },
+  {
+    "name": "Summit View",
+    "country": "US",
+    "lat": 47.13632,
+    "lng": -122.35202
+  },
+  {
+    "name": "Sunset Park",
+    "country": "US",
+    "lat": 40.64548,
+    "lng": -74.01241
+  },
+  {
+    "name": "Sugarcreek Police Dept",
+    "country": "US",
+    "lat": 40.50253,
+    "lng": -81.64176
+  },
+  {
+    "name": "Sultonobod",
+    "country": "UZ",
+    "lat": 40.76461,
+    "lng": 72.97647
+  },
+  {
+    "name": "Suối Nghệ",
+    "country": "VN",
+    "lat": 10.59194,
+    "lng": 107.21619
+  },
+  {
+    "name": "Suva Reka",
+    "country": "XK",
+    "lat": 42.35861,
+    "lng": 20.825
+  },
+  {
+    "name": "Suḩayl Shibām",
+    "country": "YE",
+    "lat": 15.91448,
+    "lng": 48.63864
+  },
+  {
+    "name": "Suurbraak",
+    "country": "ZA",
+    "lat": -34.00442,
+    "lng": 20.65432
+  },
+  {
+    "name": "Sundumbili",
+    "country": "ZA",
+    "lat": -29.13371,
+    "lng": 31.39752
+  },
+  {
+    "name": "Sunset Beach",
+    "country": "ZA",
+    "lat": -33.85395,
+    "lng": 18.49231
+  },
+  {
+    "name": "Sun City",
+    "country": "ZA",
+    "lat": -25.33997,
+    "lng": 27.09738
+  },
+  {
+    "name": "Sun Village",
+    "country": "ZA",
+    "lat": -25.35916,
+    "lng": 27.10296
+  }
+]

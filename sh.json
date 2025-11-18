@@ -1,0 +1,7592 @@
+[
+  {
+    "name": "Sharjah",
+    "country": "AE",
+    "lat": 25.3342,
+    "lng": 55.41221
+  },
+  {
+    "name": "Shakhbout City",
+    "country": "AE",
+    "lat": 24.36727,
+    "lng": 54.63721
+  },
+  {
+    "name": "Sha'biyyat Al Hiyar",
+    "country": "AE",
+    "lat": 24.58242,
+    "lng": 55.7467
+  },
+  {
+    "name": "Sha'biyyat Milе̄hah",
+    "country": "AE",
+    "lat": 25.13518,
+    "lng": 55.8843
+  },
+  {
+    "name": "Shīnḏanḏ",
+    "country": "AF",
+    "lat": 33.30294,
+    "lng": 62.1474
+  },
+  {
+    "name": "Shaykh Amīr Kêlay",
+    "country": "AF",
+    "lat": 33.28744,
+    "lng": 69.91283
+  },
+  {
+    "name": "Shibirghān",
+    "country": "AF",
+    "lat": 36.66757,
+    "lng": 65.7529
+  },
+  {
+    "name": "Shwāk",
+    "country": "AF",
+    "lat": 33.42386,
+    "lng": 69.37684
+  },
+  {
+    "name": "Shahr-e Şafā",
+    "country": "AF",
+    "lat": 31.80347,
+    "lng": 66.32376
+  },
+  {
+    "name": "Shahrān",
+    "country": "AF",
+    "lat": 36.97984,
+    "lng": 70.73928
+  },
+  {
+    "name": "Shahrak",
+    "country": "AF",
+    "lat": 34.10737,
+    "lng": 64.3052
+  },
+  {
+    "name": "Shērwānī-ye Bālā",
+    "country": "AF",
+    "lat": 35.01468,
+    "lng": 69.59934
+  },
+  {
+    "name": "Sharan",
+    "country": "AF",
+    "lat": 33.17568,
+    "lng": 68.73045
+  },
+  {
+    "name": "Shushicë",
+    "country": "AL",
+    "lat": 41.0975,
+    "lng": 20.14833
+  },
+  {
+    "name": "Shupenzë",
+    "country": "AL",
+    "lat": 41.53,
+    "lng": 20.42361
+  },
+  {
+    "name": "Shtiqën",
+    "country": "AL",
+    "lat": 42.04056,
+    "lng": 20.43417
+  },
+  {
+    "name": "Shishtavec",
+    "country": "AL",
+    "lat": 41.98,
+    "lng": 20.60583
+  },
+  {
+    "name": "Shirgjan",
+    "country": "AL",
+    "lat": 41.05194,
+    "lng": 20.05333
+  },
+  {
+    "name": "Shëngjin",
+    "country": "AL",
+    "lat": 41.92611,
+    "lng": 20.18833
+  },
+  {
+    "name": "Shënmëri",
+    "country": "AL",
+    "lat": 42.10417,
+    "lng": 20.23833
+  },
+  {
+    "name": "Shkodër",
+    "country": "AL",
+    "lat": 42.06828,
+    "lng": 19.51258
+  },
+  {
+    "name": "Shijak",
+    "country": "AL",
+    "lat": 41.34556,
+    "lng": 19.56722
+  },
+  {
+    "name": "Shezë",
+    "country": "AL",
+    "lat": 41.02417,
+    "lng": 19.81611
+  },
+  {
+    "name": "Shënkoll",
+    "country": "AL",
+    "lat": 41.69083,
+    "lng": 19.65333
+  },
+  {
+    "name": "Shëngjin",
+    "country": "AL",
+    "lat": 41.81361,
+    "lng": 19.59389
+  },
+  {
+    "name": "Shëngjergj",
+    "country": "AL",
+    "lat": 41.18333,
+    "lng": 19.53333
+  },
+  {
+    "name": "Shalës",
+    "country": "AL",
+    "lat": 40.99861,
+    "lng": 19.94778
+  },
+  {
+    "name": "Shinuhayr",
+    "country": "AM",
+    "lat": 39.4367,
+    "lng": 46.31787
+  },
+  {
+    "name": "Shahumyan",
+    "country": "AM",
+    "lat": 39.94171,
+    "lng": 44.57233
+  },
+  {
+    "name": "Shatin",
+    "country": "AM",
+    "lat": 39.83612,
+    "lng": 45.30292
+  },
+  {
+    "name": "Shaki",
+    "country": "AM",
+    "lat": 39.56499,
+    "lng": 45.99861
+  },
+  {
+    "name": "Shnogh",
+    "country": "AM",
+    "lat": 41.14693,
+    "lng": 44.84043
+  },
+  {
+    "name": "Shirak",
+    "country": "AM",
+    "lat": 40.84042,
+    "lng": 43.91582
+  },
+  {
+    "name": "Shenavan",
+    "country": "AM",
+    "lat": 40.48328,
+    "lng": 44.38348
+  },
+  {
+    "name": "Shenavan",
+    "country": "AM",
+    "lat": 40.05548,
+    "lng": 43.93048
+  },
+  {
+    "name": "Shahumyan",
+    "country": "AM",
+    "lat": 40.21393,
+    "lng": 44.30011
+  },
+  {
+    "name": "Shamiram",
+    "country": "AM",
+    "lat": 40.27654,
+    "lng": 44.09846
+  },
+  {
+    "name": "Shirakamut",
+    "country": "AM",
+    "lat": 40.85287,
+    "lng": 44.16366
+  },
+  {
+    "name": "Shahumyan",
+    "country": "AM",
+    "lat": 40.77482,
+    "lng": 44.54596
+  },
+  {
+    "name": "Shenik",
+    "country": "AM",
+    "lat": 40.213,
+    "lng": 43.77033
+  },
+  {
+    "name": "Shengavit",
+    "country": "AM",
+    "lat": 40.1557,
+    "lng": 44.4779
+  },
+  {
+    "name": "Shenton Park",
+    "country": "AU",
+    "lat": -31.95575,
+    "lng": 115.79807
+  },
+  {
+    "name": "Shorncliffe",
+    "country": "AU",
+    "lat": -27.32759,
+    "lng": 153.08161
+  },
+  {
+    "name": "Shepparton",
+    "country": "AU",
+    "lat": -36.38047,
+    "lng": 145.39867
+  },
+  {
+    "name": "Shellharbour",
+    "country": "AU",
+    "lat": -34.58333,
+    "lng": 150.86667
+  },
+  {
+    "name": "Sheffield",
+    "country": "AU",
+    "lat": -41.39947,
+    "lng": 146.33897
+  },
+  {
+    "name": "Sharon",
+    "country": "AU",
+    "lat": -24.87593,
+    "lng": 152.26994
+  },
+  {
+    "name": "Shoal Bay",
+    "country": "AU",
+    "lat": -32.72231,
+    "lng": 152.17498
+  },
+  {
+    "name": "Shell Cove",
+    "country": "AU",
+    "lat": -34.58994,
+    "lng": 150.86203
+  },
+  {
+    "name": "Shoalhaven Heads",
+    "country": "AU",
+    "lat": -34.85086,
+    "lng": 150.74512
+  },
+  {
+    "name": "Shoalwater",
+    "country": "AU",
+    "lat": -32.29088,
+    "lng": 115.71101
+  },
+  {
+    "name": "Shailer Park",
+    "country": "AU",
+    "lat": -27.6498,
+    "lng": 153.17753
+  },
+  {
+    "name": "Shortland",
+    "country": "AU",
+    "lat": -32.87883,
+    "lng": 151.69105
+  },
+  {
+    "name": "Sheldon",
+    "country": "AU",
+    "lat": -27.58436,
+    "lng": 153.20042
+  },
+  {
+    "name": "Shorewell Park",
+    "country": "AU",
+    "lat": -41.0699,
+    "lng": 145.87689
+  },
+  {
+    "name": "Shelly Beach",
+    "country": "AU",
+    "lat": -33.36999,
+    "lng": 151.48522
+  },
+  {
+    "name": "Sheidow Park",
+    "country": "AU",
+    "lat": -35.07928,
+    "lng": 138.52738
+  },
+  {
+    "name": "Shearwater",
+    "country": "AU",
+    "lat": -41.15673,
+    "lng": 146.53178
+  },
+  {
+    "name": "Shalvey",
+    "country": "AU",
+    "lat": -33.72687,
+    "lng": 150.80529
+  },
+  {
+    "name": "Shelley",
+    "country": "AU",
+    "lat": -32.02957,
+    "lng": 115.88664
+  },
+  {
+    "name": "Shepparton East",
+    "country": "AU",
+    "lat": -36.40156,
+    "lng": 145.47765
+  },
+  {
+    "name": "Sharur City",
+    "country": "AZ",
+    "lat": 39.55298,
+    "lng": 44.97993
+  },
+  {
+    "name": "Shamkhor",
+    "country": "AZ",
+    "lat": 40.82975,
+    "lng": 46.0178
+  },
+  {
+    "name": "Shamakhi",
+    "country": "AZ",
+    "lat": 40.63141,
+    "lng": 48.64137
+  },
+  {
+    "name": "Sheki",
+    "country": "AZ",
+    "lat": 41.19194,
+    "lng": 47.17056
+  },
+  {
+    "name": "Shibganj",
+    "country": "BD",
+    "lat": 25.00146,
+    "lng": 89.32266
+  },
+  {
+    "name": "Shibganj",
+    "country": "BD",
+    "lat": 24.68501,
+    "lng": 88.15638
+  },
+  {
+    "name": "Shāhzādpur",
+    "country": "BD",
+    "lat": 24.17687,
+    "lng": 89.5988
+  },
+  {
+    "name": "Shāhbāzpur Town",
+    "country": "BD",
+    "lat": 24.05296,
+    "lng": 91.17193
+  },
+  {
+    "name": "Sherpur",
+    "country": "BD",
+    "lat": 25.01881,
+    "lng": 90.01751
+  },
+  {
+    "name": "Shumen",
+    "country": "BG",
+    "lat": 43.27064,
+    "lng": 26.92286
+  },
+  {
+    "name": "Shipka",
+    "country": "BG",
+    "lat": 42.71172,
+    "lng": 25.3353
+  },
+  {
+    "name": "Shabla",
+    "country": "BG",
+    "lat": 43.53983,
+    "lng": 28.53429
+  },
+  {
+    "name": "Shemgang",
+    "country": "BT",
+    "lat": 27.21689,
+    "lng": 90.65793
+  },
+  {
+    "name": "Shoshong",
+    "country": "BW",
+    "lat": -23.0389,
+    "lng": 26.51
+  },
+  {
+    "name": "Shakawe",
+    "country": "BW",
+    "lat": -18.36536,
+    "lng": 21.84219
+  },
+  {
+    "name": "Shashe Mooke",
+    "country": "BW",
+    "lat": -21.18794,
+    "lng": 27.37868
+  },
+  {
+    "name": "Shumilino",
+    "country": "BY",
+    "lat": 55.29841,
+    "lng": 29.61279
+  },
+  {
+    "name": "Shklov",
+    "country": "BY",
+    "lat": 54.21298,
+    "lng": 30.28724
+  },
+  {
+    "name": "Shchuchyn",
+    "country": "BY",
+    "lat": 53.6014,
+    "lng": 24.7465
+  },
+  {
+    "name": "Sharkovshchina",
+    "country": "BY",
+    "lat": 55.36807,
+    "lng": 27.46971
+  },
+  {
+    "name": "Shipyard",
+    "country": "BZ",
+    "lat": 17.89382,
+    "lng": -88.65452
+  },
+  {
+    "name": "Sharbot Lake",
+    "country": "CA",
+    "lat": 44.77389,
+    "lng": -76.68722
+  },
+  {
+    "name": "Shaughnessy",
+    "country": "CA",
+    "lat": 49.25,
+    "lng": -123.13333
+  },
+  {
+    "name": "Shaunavon",
+    "country": "CA",
+    "lat": 49.65005,
+    "lng": -108.4181
+  },
+  {
+    "name": "Shawinigan",
+    "country": "CA",
+    "lat": 46.56675,
+    "lng": -72.74913
+  },
+  {
+    "name": "Shawville",
+    "country": "CA",
+    "lat": 45.60011,
+    "lng": -76.4827
+  },
+  {
+    "name": "Shediac",
+    "country": "CA",
+    "lat": 46.21981,
+    "lng": -64.54107
+  },
+  {
+    "name": "Shelburne",
+    "country": "CA",
+    "lat": 43.76325,
+    "lng": -65.32355
+  },
+  {
+    "name": "Shelburne",
+    "country": "CA",
+    "lat": 44.0787,
+    "lng": -80.20408
+  },
+  {
+    "name": "Shellbrook",
+    "country": "CA",
+    "lat": 53.21679,
+    "lng": -106.40109
+  },
+  {
+    "name": "Sherbrooke",
+    "country": "CA",
+    "lat": 45.40008,
+    "lng": -71.89908
+  },
+  {
+    "name": "Sherwood Park",
+    "country": "CA",
+    "lat": 53.51684,
+    "lng": -113.3187
+  },
+  {
+    "name": "Shuniah Township",
+    "country": "CA",
+    "lat": 48.5242,
+    "lng": -89.1147
+  },
+  {
+    "name": "Shannon",
+    "country": "CA",
+    "lat": 46.88026,
+    "lng": -71.51464
+  },
+  {
+    "name": "Shawnigan Lake",
+    "country": "CA",
+    "lat": 48.65055,
+    "lng": -123.64494
+  },
+  {
+    "name": "Shilo",
+    "country": "CA",
+    "lat": 49.80551,
+    "lng": -99.64634
+  },
+  {
+    "name": "Shippagan",
+    "country": "CA",
+    "lat": 47.74424,
+    "lng": -64.70804
+  },
+  {
+    "name": "Shediac Bridge-Shediac River",
+    "country": "CA",
+    "lat": 46.26886,
+    "lng": -64.60047
+  },
+  {
+    "name": "Shellmont",
+    "country": "CA",
+    "lat": 49.13478,
+    "lng": -123.09631
+  },
+  {
+    "name": "Shelbourne",
+    "country": "CA",
+    "lat": 48.45299,
+    "lng": -123.32903
+  },
+  {
+    "name": "Shule",
+    "country": "CN",
+    "lat": 39.40144,
+    "lng": 76.05336
+  },
+  {
+    "name": "Shimen",
+    "country": "CN",
+    "lat": 25.88965,
+    "lng": 99.36868
+  },
+  {
+    "name": "Shigu",
+    "country": "CN",
+    "lat": 26.86852,
+    "lng": 99.95628
+  },
+  {
+    "name": "Shengping",
+    "country": "CN",
+    "lat": 28.48563,
+    "lng": 98.91139
+  },
+  {
+    "name": "Shangyun",
+    "country": "CN",
+    "lat": 23.05191,
+    "lng": 99.82838
+  },
+  {
+    "name": "Shangpa",
+    "country": "CN",
+    "lat": 26.91948,
+    "lng": 98.95158
+  },
+  {
+    "name": "Shache",
+    "country": "CN",
+    "lat": 38.41667,
+    "lng": 77.24056
+  },
+  {
+    "name": "Shayar",
+    "country": "CN",
+    "lat": 41.22323,
+    "lng": 82.77787
+  },
+  {
+    "name": "Shuiding",
+    "country": "CN",
+    "lat": 44.05147,
+    "lng": 80.87471
+  },
+  {
+    "name": "Shihezi",
+    "country": "CN",
+    "lat": 44.3023,
+    "lng": 86.03694
+  },
+  {
+    "name": "Shanshan",
+    "country": "CN",
+    "lat": 42.8675,
+    "lng": 90.20463
+  },
+  {
+    "name": "Shuimogou",
+    "country": "CN",
+    "lat": 43.83608,
+    "lng": 87.65511
+  },
+  {
+    "name": "Shizhai",
+    "country": "CN",
+    "lat": 34.80556,
+    "lng": 116.63889
+  },
+  {
+    "name": "Shangqiu",
+    "country": "CN",
+    "lat": 34.45,
+    "lng": 115.65
+  },
+  {
+    "name": "Shangrao",
+    "country": "CN",
+    "lat": 28.45179,
+    "lng": 117.94287
+  },
+  {
+    "name": "Shangmei",
+    "country": "CN",
+    "lat": 27.74278,
+    "lng": 111.29556
+  },
+  {
+    "name": "Shanghe",
+    "country": "CN",
+    "lat": 30.16036,
+    "lng": 105.93403
+  },
+  {
+    "name": "Shangsi",
+    "country": "CN",
+    "lat": 22.15627,
+    "lng": 107.97953
+  },
+  {
+    "name": "Shucheng",
+    "country": "CN",
+    "lat": 34.12128,
+    "lng": 118.78078
+  },
+  {
+    "name": "Shuozhou",
+    "country": "CN",
+    "lat": 39.31583,
+    "lng": 112.4225
+  },
+  {
+    "name": "Shunhua",
+    "country": "CN",
+    "lat": 26.086,
+    "lng": 109.25892
+  },
+  {
+    "name": "Shunhe",
+    "country": "CN",
+    "lat": 34.84184,
+    "lng": 116.55722
+  },
+  {
+    "name": "Shuizhai",
+    "country": "CN",
+    "lat": 23.92961,
+    "lng": 115.76499
+  },
+  {
+    "name": "Shuitu",
+    "country": "CN",
+    "lat": 29.78221,
+    "lng": 106.4974
+  },
+  {
+    "name": "Shuitou",
+    "country": "CN",
+    "lat": 36.97306,
+    "lng": 111.2091
+  },
+  {
+    "name": "Shuidatian",
+    "country": "CN",
+    "lat": 27.85222,
+    "lng": 109.60472
+  },
+  {
+    "name": "Shuikou",
+    "country": "CN",
+    "lat": 26.3836,
+    "lng": 118.73027
+  },
+  {
+    "name": "Shuikou",
+    "country": "CN",
+    "lat": 25.91278,
+    "lng": 109.31361
+  },
+  {
+    "name": "Shuikou",
+    "country": "CN",
+    "lat": 23.98372,
+    "lng": 115.89581
+  },
+  {
+    "name": "Shuijiang",
+    "country": "CN",
+    "lat": 29.2476,
+    "lng": 107.28443
+  },
+  {
+    "name": "Shuidong",
+    "country": "CN",
+    "lat": 21.5134,
+    "lng": 111.00184
+  },
+  {
+    "name": "Shuiche",
+    "country": "CN",
+    "lat": 27.68694,
+    "lng": 110.99972
+  },
+  {
+    "name": "Shuibian",
+    "country": "CN",
+    "lat": 27.60805,
+    "lng": 115.32636
+  },
+  {
+    "name": "Shucheng Chengguanzhen",
+    "country": "CN",
+    "lat": 31.47448,
+    "lng": 116.95207
+  },
+  {
+    "name": "Shuangxi",
+    "country": "CN",
+    "lat": 28.86295,
+    "lng": 115.35194
+  },
+  {
+    "name": "Shuangxi",
+    "country": "CN",
+    "lat": 27.22833,
+    "lng": 109.85583
+  },
+  {
+    "name": "Shuangxi",
+    "country": "CN",
+    "lat": 27.02248,
+    "lng": 119.0414
+  },
+  {
+    "name": "Shuangshu",
+    "country": "CN",
+    "lat": 39.56389,
+    "lng": 117.02444
+  },
+  {
+    "name": "Shuangshi",
+    "country": "CN",
+    "lat": 29.40031,
+    "lng": 105.83781
+  },
+  {
+    "name": "Shuangshipu",
+    "country": "CN",
+    "lat": 33.91705,
+    "lng": 106.52466
+  },
+  {
+    "name": "Shuanglu",
+    "country": "CN",
+    "lat": 29.86429,
+    "lng": 107.77483
+  },
+  {
+    "name": "Shuanglong",
+    "country": "CN",
+    "lat": 29.95972,
+    "lng": 107.20356
+  },
+  {
+    "name": "Shuangjiang",
+    "country": "CN",
+    "lat": 30.92624,
+    "lng": 108.71044
+  },
+  {
+    "name": "Shuangjiang",
+    "country": "CN",
+    "lat": 30.21754,
+    "lng": 105.7452
+  },
+  {
+    "name": "Shuangjiang",
+    "country": "CN",
+    "lat": 26.15467,
+    "lng": 109.7138
+  },
+  {
+    "name": "Shuangjiang",
+    "country": "CN",
+    "lat": 25.96667,
+    "lng": 108.92417
+  },
+  {
+    "name": "Shuangjiang",
+    "country": "CN",
+    "lat": 24.17261,
+    "lng": 102.40049
+  },
+  {
+    "name": "Shuanghe",
+    "country": "CN",
+    "lat": 29.32074,
+    "lng": 105.56942
+  },
+  {
+    "name": "Shuanghekou",
+    "country": "CN",
+    "lat": 29.61861,
+    "lng": 106.91833
+  },
+  {
+    "name": "Shuanghe",
+    "country": "CN",
+    "lat": 29.54932,
+    "lng": 107.71841
+  },
+  {
+    "name": "Shuanggou",
+    "country": "CN",
+    "lat": 34.03528,
+    "lng": 117.57806
+  },
+  {
+    "name": "Shuanggang",
+    "country": "CN",
+    "lat": 39.04395,
+    "lng": 117.31014
+  },
+  {
+    "name": "Shouchun",
+    "country": "CN",
+    "lat": 32.58162,
+    "lng": 116.79291
+  },
+  {
+    "name": "Shouxian",
+    "country": "CN",
+    "lat": 34.84648,
+    "lng": 116.45884
+  },
+  {
+    "name": "Shoushan",
+    "country": "CN",
+    "lat": 26.96444,
+    "lng": 119.16167
+  },
+  {
+    "name": "Shouguang",
+    "country": "CN",
+    "lat": 36.88,
+    "lng": 118.7375
+  },
+  {
+    "name": "Shizilu",
+    "country": "CN",
+    "lat": 35.17111,
+    "lng": 118.82889
+  },
+  {
+    "name": "Shiye",
+    "country": "CN",
+    "lat": 28.38168,
+    "lng": 109.05747
+  },
+  {
+    "name": "Shiyan",
+    "country": "CN",
+    "lat": 32.6475,
+    "lng": 110.77806
+  },
+  {
+    "name": "Shijiang",
+    "country": "CN",
+    "lat": 27.08194,
+    "lng": 110.79333
+  },
+  {
+    "name": "Shixia",
+    "country": "CN",
+    "lat": 33.7834,
+    "lng": 105.38769
+  },
+  {
+    "name": "Shiwan",
+    "country": "CN",
+    "lat": 23.00107,
+    "lng": 113.077
+  },
+  {
+    "name": "Shiwan",
+    "country": "CN",
+    "lat": 21.75,
+    "lng": 109.2
+  },
+  {
+    "name": "Shituo",
+    "country": "CN",
+    "lat": 29.71613,
+    "lng": 107.13564
+  },
+  {
+    "name": "Shitanjing",
+    "country": "CN",
+    "lat": 39.23417,
+    "lng": 106.34389
+  },
+  {
+    "name": "Shishi",
+    "country": "CN",
+    "lat": 24.74203,
+    "lng": 118.63638
+  },
+  {
+    "name": "Shiquan",
+    "country": "CN",
+    "lat": 33.04083,
+    "lng": 108.23639
+  },
+  {
+    "name": "Shiqiaozi",
+    "country": "CN",
+    "lat": 36.16167,
+    "lng": 119.26306
+  },
+  {
+    "name": "Shiqiao",
+    "country": "CN",
+    "lat": 22.9464,
+    "lng": 113.35769
+  },
+  {
+    "name": "Shiqian",
+    "country": "CN",
+    "lat": 27.5225,
+    "lng": 108.22806
+  },
+  {
+    "name": "Shiqi",
+    "country": "CN",
+    "lat": 22.51682,
+    "lng": 113.38521
+  },
+  {
+    "name": "Shimen",
+    "country": "CN",
+    "lat": 29.10037,
+    "lng": 106.03304
+  },
+  {
+    "name": "Shima",
+    "country": "CN",
+    "lat": 29.63116,
+    "lng": 105.83065
+  },
+  {
+    "name": "Shima",
+    "country": "CN",
+    "lat": 24.44647,
+    "lng": 117.81216
+  },
+  {
+    "name": "Shilong",
+    "country": "CN",
+    "lat": 23.11444,
+    "lng": 113.84722
+  },
+  {
+    "name": "Shilu",
+    "country": "CN",
+    "lat": 19.25984,
+    "lng": 109.04884
+  },
+  {
+    "name": "Shilaoren Shequ",
+    "country": "CN",
+    "lat": 36.09798,
+    "lng": 120.49088
+  },
+  {
+    "name": "Shikang",
+    "country": "CN",
+    "lat": 21.76667,
+    "lng": 109.31667
+  },
+  {
+    "name": "Shijing",
+    "country": "CN",
+    "lat": 24.61956,
+    "lng": 118.42437
+  },
+  {
+    "name": "Shijiazhuang",
+    "country": "CN",
+    "lat": 38.04139,
+    "lng": 114.47861
+  },
+  {
+    "name": "Shijiao",
+    "country": "CN",
+    "lat": 28.92444,
+    "lng": 106.75611
+  },
+  {
+    "name": "Shijiao",
+    "country": "CN",
+    "lat": 23.86949,
+    "lng": 113.5284
+  },
+  {
+    "name": "Shijia",
+    "country": "CN",
+    "lat": 30.28653,
+    "lng": 108.32516
+  },
+  {
+    "name": "Shijia",
+    "country": "CN",
+    "lat": 29.23677,
+    "lng": 108.61165
+  },
+  {
+    "name": "Shiji",
+    "country": "CN",
+    "lat": 34.2,
+    "lng": 118.48333
+  },
+  {
+    "name": "Shihui",
+    "country": "CN",
+    "lat": 29.57177,
+    "lng": 108.61017
+  },
+  {
+    "name": "Shifang",
+    "country": "CN",
+    "lat": 33.00275,
+    "lng": 104.57145
+  },
+  {
+    "name": "Shidui",
+    "country": "CN",
+    "lat": 36.39333,
+    "lng": 119.30861
+  },
+  {
+    "name": "Shidi",
+    "country": "CN",
+    "lat": 28.75265,
+    "lng": 109.19227
+  },
+  {
+    "name": "Shichuan",
+    "country": "CN",
+    "lat": 29.76584,
+    "lng": 106.82284
+  },
+  {
+    "name": "Shibuzi",
+    "country": "CN",
+    "lat": 36.12389,
+    "lng": 119.10278
+  },
+  {
+    "name": "She Xian",
+    "country": "CN",
+    "lat": 36.56785,
+    "lng": 113.66231
+  },
+  {
+    "name": "Shetan",
+    "country": "CN",
+    "lat": 29.98924,
+    "lng": 107.61521
+  },
+  {
+    "name": "Shedian",
+    "country": "CN",
+    "lat": 33.06128,
+    "lng": 112.94259
+  },
+  {
+    "name": "Shenzhen",
+    "country": "CN",
+    "lat": 22.54554,
+    "lng": 114.0683
+  },
+  {
+    "name": "Shenzhen",
+    "country": "CN",
+    "lat": 22.1823,
+    "lng": 111.11793
+  },
+  {
+    "name": "Shenze",
+    "country": "CN",
+    "lat": 38.18314,
+    "lng": 115.19769
+  },
+  {
+    "name": "Shenzhou",
+    "country": "CN",
+    "lat": 38.00512,
+    "lng": 115.55626
+  },
+  {
+    "name": "Shenjiamen",
+    "country": "CN",
+    "lat": 29.95763,
+    "lng": 122.29802
+  },
+  {
+    "name": "Shanhu",
+    "country": "CN",
+    "lat": 29.59583,
+    "lng": 120.81667
+  },
+  {
+    "name": "Shengrenjian",
+    "country": "CN",
+    "lat": 34.84422,
+    "lng": 111.19131
+  },
+  {
+    "name": "Shekou",
+    "country": "CN",
+    "lat": 22.49359,
+    "lng": 113.9156
+  },
+  {
+    "name": "Shazikou",
+    "country": "CN",
+    "lat": 36.115,
+    "lng": 120.53722
+  },
+  {
+    "name": "Shazi",
+    "country": "CN",
+    "lat": 30.02781,
+    "lng": 108.40788
+  },
+  {
+    "name": "Shayang",
+    "country": "CN",
+    "lat": 30.70937,
+    "lng": 112.58849
+  },
+  {
+    "name": "Shawan",
+    "country": "CN",
+    "lat": 33.62736,
+    "lng": 104.5637
+  },
+  {
+    "name": "Shawan",
+    "country": "CN",
+    "lat": 29.41117,
+    "lng": 103.54327
+  },
+  {
+    "name": "Shashi",
+    "country": "CN",
+    "lat": 30.30722,
+    "lng": 112.24472
+  },
+  {
+    "name": "Shaping",
+    "country": "CN",
+    "lat": 30.47463,
+    "lng": 107.43587
+  },
+  {
+    "name": "Shaping",
+    "country": "CN",
+    "lat": 29.23082,
+    "lng": 103.26587
+  },
+  {
+    "name": "Shaping",
+    "country": "CN",
+    "lat": 22.77019,
+    "lng": 112.95776
+  },
+  {
+    "name": "Shaoxing",
+    "country": "CN",
+    "lat": 30.00237,
+    "lng": 120.57864
+  },
+  {
+    "name": "Shaowu",
+    "country": "CN",
+    "lat": 27.34089,
+    "lng": 117.4831
+  },
+  {
+    "name": "Shaoshan",
+    "country": "CN",
+    "lat": 27.91667,
+    "lng": 112.51667
+  },
+  {
+    "name": "Shaoguan",
+    "country": "CN",
+    "lat": 24.8,
+    "lng": 113.58333
+  },
+  {
+    "name": "Shaodian",
+    "country": "CN",
+    "lat": 34.13333,
+    "lng": 118.43333
+  },
+  {
+    "name": "Shanyang",
+    "country": "CN",
+    "lat": 26.67019,
+    "lng": 119.20509
+  },
+  {
+    "name": "Shancheng",
+    "country": "CN",
+    "lat": 34.79528,
+    "lng": 116.08167
+  },
+  {
+    "name": "Shanwei",
+    "country": "CN",
+    "lat": 22.78199,
+    "lng": 115.3475
+  },
+  {
+    "name": "Shantou",
+    "country": "CN",
+    "lat": 23.35489,
+    "lng": 116.67876
+  },
+  {
+    "name": "Shanting",
+    "country": "CN",
+    "lat": 35.07528,
+    "lng": 117.45778
+  },
+  {
+    "name": "Shanmen",
+    "country": "CN",
+    "lat": 34.6855,
+    "lng": 106.36296
+  },
+  {
+    "name": "Shanmen",
+    "country": "CN",
+    "lat": 27.225,
+    "lng": 110.69278
+  },
+  {
+    "name": "Shankou",
+    "country": "CN",
+    "lat": 21.6,
+    "lng": 109.71667
+  },
+  {
+    "name": "Shanji",
+    "country": "CN",
+    "lat": 34.20472,
+    "lng": 117.59556
+  },
+  {
+    "name": "Shanhe",
+    "country": "CN",
+    "lat": 35.48436,
+    "lng": 108.36398
+  },
+  {
+    "name": "Shangluo",
+    "country": "CN",
+    "lat": 33.86667,
+    "lng": 109.93056
+  },
+  {
+    "name": "Shangtang",
+    "country": "CN",
+    "lat": 28.15541,
+    "lng": 120.6882
+  },
+  {
+    "name": "Shangqiu",
+    "country": "CN",
+    "lat": 34.4143,
+    "lng": 115.65613
+  },
+  {
+    "name": "Shangpai",
+    "country": "CN",
+    "lat": 31.74565,
+    "lng": 117.16109
+  },
+  {
+    "name": "Shangli",
+    "country": "CN",
+    "lat": 27.8771,
+    "lng": 113.792
+  },
+  {
+    "name": "Shangkou",
+    "country": "CN",
+    "lat": 36.96556,
+    "lng": 118.88306
+  },
+  {
+    "name": "Shangjie",
+    "country": "CN",
+    "lat": 25.67012,
+    "lng": 99.95818
+  },
+  {
+    "name": "Shanghuang",
+    "country": "CN",
+    "lat": 31.32047,
+    "lng": 109.48416
+  },
+  {
+    "name": "Shanghe",
+    "country": "CN",
+    "lat": 37.30611,
+    "lng": 117.15345
+  },
+  {
+    "name": "Shanghang",
+    "country": "CN",
+    "lat": 25.05644,
+    "lng": 116.41154
+  },
+  {
+    "name": "Shanghai",
+    "country": "CN",
+    "lat": 31.22222,
+    "lng": 121.45806
+  },
+  {
+    "name": "Shangde",
+    "country": "CN",
+    "lat": 32.90727,
+    "lng": 104.76958
+  },
+  {
+    "name": "Shangcheng Chengguanzhen",
+    "country": "CN",
+    "lat": 31.79528,
+    "lng": 115.40111
+  },
+  {
+    "name": "Shangcang",
+    "country": "CN",
+    "lat": 39.89944,
+    "lng": 117.38806
+  },
+  {
+    "name": "Shancheng",
+    "country": "CN",
+    "lat": 24.49155,
+    "lng": 117.34568
+  },
+  {
+    "name": "Shaliuhe",
+    "country": "CN",
+    "lat": 37.326,
+    "lng": 100.13439
+  },
+  {
+    "name": "Shajing",
+    "country": "CN",
+    "lat": 22.74628,
+    "lng": 113.81903
+  },
+  {
+    "name": "Shajiang",
+    "country": "CN",
+    "lat": 26.7825,
+    "lng": 119.96694
+  },
+  {
+    "name": "Shaji",
+    "country": "CN",
+    "lat": 33.9,
+    "lng": 118.13333
+  },
+  {
+    "name": "Shahe",
+    "country": "CN",
+    "lat": 39.14165,
+    "lng": 100.17836
+  },
+  {
+    "name": "Shahejie",
+    "country": "CN",
+    "lat": 29.60794,
+    "lng": 115.8872
+  },
+  {
+    "name": "Shahecheng",
+    "country": "CN",
+    "lat": 36.93833,
+    "lng": 114.50583
+  },
+  {
+    "name": "Shahe",
+    "country": "CN",
+    "lat": 30.82819,
+    "lng": 108.35033
+  },
+  {
+    "name": "Shagang",
+    "country": "CN",
+    "lat": 21.66667,
+    "lng": 109.03333
+  },
+  {
+    "name": "Shunling",
+    "country": "CN",
+    "lat": 25.59167,
+    "lng": 111.93028
+  },
+  {
+    "name": "Shuanghejiedao",
+    "country": "CN",
+    "lat": 30.37448,
+    "lng": 106.77266
+  },
+  {
+    "name": "Shuangzhucun",
+    "country": "CN",
+    "lat": 26.62939,
+    "lng": 118.64721
+  },
+  {
+    "name": "Shahe",
+    "country": "CN",
+    "lat": 36.86078,
+    "lng": 114.50215
+  },
+  {
+    "name": "Shangguan",
+    "country": "CN",
+    "lat": 39.06901,
+    "lng": 112.92913
+  },
+  {
+    "name": "Shanglin",
+    "country": "CN",
+    "lat": 23.43481,
+    "lng": 108.59793
+  },
+  {
+    "name": "Shuren",
+    "country": "CN",
+    "lat": 29.98661,
+    "lng": 107.73923
+  },
+  {
+    "name": "Shuanglong",
+    "country": "CN",
+    "lat": 31.19494,
+    "lng": 109.88054
+  },
+  {
+    "name": "Shaoyang",
+    "country": "CN",
+    "lat": 27.23818,
+    "lng": 111.46214
+  },
+  {
+    "name": "Shangyu",
+    "country": "CN",
+    "lat": 30.01556,
+    "lng": 120.87111
+  },
+  {
+    "name": "Shenliu",
+    "country": "CN",
+    "lat": 29.41369,
+    "lng": 112.16435
+  },
+  {
+    "name": "Shimen",
+    "country": "CN",
+    "lat": 33.48597,
+    "lng": 104.73824
+  },
+  {
+    "name": "Shuikou",
+    "country": "CN",
+    "lat": 29.93013,
+    "lng": 106.11268
+  },
+  {
+    "name": "Shouqiao",
+    "country": "CN",
+    "lat": 29.89955,
+    "lng": 105.89419
+  },
+  {
+    "name": "Shuangshan",
+    "country": "CN",
+    "lat": 29.8212,
+    "lng": 105.82878
+  },
+  {
+    "name": "Shiyu",
+    "country": "CN",
+    "lat": 29.77161,
+    "lng": 106.09342
+  },
+  {
+    "name": "Shiqiao",
+    "country": "CN",
+    "lat": 34.15389,
+    "lng": 105.12972
+  },
+  {
+    "name": "Shima",
+    "country": "CN",
+    "lat": 28.98773,
+    "lng": 105.92441
+  },
+  {
+    "name": "Shahe",
+    "country": "CN",
+    "lat": 22.55226,
+    "lng": 113.97912
+  },
+  {
+    "name": "Shentong",
+    "country": "CN",
+    "lat": 29.17861,
+    "lng": 106.93083
+  },
+  {
+    "name": "Shitan",
+    "country": "CN",
+    "lat": 29.17611,
+    "lng": 106.88528
+  },
+  {
+    "name": "Shilong",
+    "country": "CN",
+    "lat": 29.28222,
+    "lng": 106.89806
+  },
+  {
+    "name": "Shanxia",
+    "country": "CN",
+    "lat": 24.93802,
+    "lng": 118.8817
+  },
+  {
+    "name": "Shuangliao",
+    "country": "CN",
+    "lat": 43.51067,
+    "lng": 123.50069
+  },
+  {
+    "name": "Shunyi",
+    "country": "CN",
+    "lat": 40.12175,
+    "lng": 116.64783
+  },
+  {
+    "name": "Shulinzhao",
+    "country": "CN",
+    "lat": 40.39278,
+    "lng": 110.02694
+  },
+  {
+    "name": "Shulan",
+    "country": "CN",
+    "lat": 44.41134,
+    "lng": 126.94827
+  },
+  {
+    "name": "Shuangyashan",
+    "country": "CN",
+    "lat": 46.67686,
+    "lng": 131.13273
+  },
+  {
+    "name": "Shuangyang",
+    "country": "CN",
+    "lat": 43.52259,
+    "lng": 125.65948
+  },
+  {
+    "name": "Shuangtashan",
+    "country": "CN",
+    "lat": 40.94778,
+    "lng": 117.79472
+  },
+  {
+    "name": "Shuangcheng",
+    "country": "CN",
+    "lat": 45.3798,
+    "lng": 126.30711
+  },
+  {
+    "name": "Shiguai",
+    "country": "CN",
+    "lat": 40.70583,
+    "lng": 110.28556
+  },
+  {
+    "name": "Shenyang",
+    "country": "CN",
+    "lat": 41.79222,
+    "lng": 123.43278
+  },
+  {
+    "name": "Shanhecun",
+    "country": "CN",
+    "lat": 45.71131,
+    "lng": 128.58029
+  },
+  {
+    "name": "Shanhaiguan",
+    "country": "CN",
+    "lat": 40.00119,
+    "lng": 119.75395
+  },
+  {
+    "name": "Shangzhi",
+    "country": "CN",
+    "lat": 45.20562,
+    "lng": 128.00242
+  },
+  {
+    "name": "Shuguang",
+    "country": "CN",
+    "lat": 47.72411,
+    "lng": 128.67399
+  },
+  {
+    "name": "Shigang",
+    "country": "CN",
+    "lat": 31.13611,
+    "lng": 109.36432
+  },
+  {
+    "name": "Shuifu",
+    "country": "CN",
+    "lat": 28.63215,
+    "lng": 104.40783
+  },
+  {
+    "name": "Shiqiao",
+    "country": "CN",
+    "lat": 27.98195,
+    "lng": 120.55917
+  },
+  {
+    "name": "Shilin",
+    "country": "CN",
+    "lat": 24.81878,
+    "lng": 103.33237
+  },
+  {
+    "name": "Shuanglong",
+    "country": "CN",
+    "lat": 28.45208,
+    "lng": 104.34491
+  },
+  {
+    "name": "Shunde",
+    "country": "CN",
+    "lat": 22.80087,
+    "lng": 113.29208
+  },
+  {
+    "name": "Shapu",
+    "country": "CN",
+    "lat": 22.78056,
+    "lng": 113.82505
+  },
+  {
+    "name": "Shangxing",
+    "country": "CN",
+    "lat": 22.73178,
+    "lng": 113.83022
+  },
+  {
+    "name": "Shirong",
+    "country": "CN",
+    "lat": 29.35092,
+    "lng": 102.65248
+  },
+  {
+    "name": "Shazui",
+    "country": "CN",
+    "lat": 22.51938,
+    "lng": 114.03265
+  },
+  {
+    "name": "Shixing",
+    "country": "CN",
+    "lat": 24.94824,
+    "lng": 114.06572
+  },
+  {
+    "name": "Shizi",
+    "country": "CN",
+    "lat": 33.74401,
+    "lng": 104.68028
+  },
+  {
+    "name": "Sheshu",
+    "country": "CN",
+    "lat": 33.20049,
+    "lng": 104.93624
+  },
+  {
+    "name": "Shijiba",
+    "country": "CN",
+    "lat": 33.06694,
+    "lng": 104.45282
+  },
+  {
+    "name": "Shencang",
+    "country": "CN",
+    "lat": 34.73465,
+    "lng": 103.38035
+  },
+  {
+    "name": "Shimen",
+    "country": "CN",
+    "lat": 34.73602,
+    "lng": 103.70148
+  },
+  {
+    "name": "Shaowa",
+    "country": "CN",
+    "lat": 34.97828,
+    "lng": 103.56207
+  },
+  {
+    "name": "Shajin",
+    "country": "CN",
+    "lat": 33.98836,
+    "lng": 104.81239
+  },
+  {
+    "name": "Shibao",
+    "country": "CN",
+    "lat": 34.10786,
+    "lng": 105.31585
+  },
+  {
+    "name": "Shoushan",
+    "country": "CN",
+    "lat": 34.27771,
+    "lng": 107.74619
+  },
+  {
+    "name": "Shaba",
+    "country": "CN",
+    "lat": 33.73115,
+    "lng": 105.56412
+  },
+  {
+    "name": "Shili",
+    "country": "CN",
+    "lat": 33.95182,
+    "lng": 105.29247
+  },
+  {
+    "name": "Shaijing",
+    "country": "CN",
+    "lat": 33.99345,
+    "lng": 105.5428
+  },
+  {
+    "name": "Shaoyu",
+    "country": "CN",
+    "lat": 34.06408,
+    "lng": 105.3651
+  },
+  {
+    "name": "Shuiyang",
+    "country": "CN",
+    "lat": 33.74844,
+    "lng": 106.10278
+  },
+  {
+    "name": "Shangping",
+    "country": "CN",
+    "lat": 34.17559,
+    "lng": 104.86155
+  },
+  {
+    "name": "Shandan",
+    "country": "CN",
+    "lat": 34.75106,
+    "lng": 104.83134
+  },
+  {
+    "name": "Shangri-La",
+    "country": "CN",
+    "lat": 27.82511,
+    "lng": 99.70779
+  },
+  {
+    "name": "Shangdu",
+    "country": "CN",
+    "lat": 42.25005,
+    "lng": 116.00798
+  },
+  {
+    "name": "Shaoyang",
+    "country": "CN",
+    "lat": 32.92958,
+    "lng": 119.83576
+  },
+  {
+    "name": "Shouxihu",
+    "country": "CN",
+    "lat": 32.42089,
+    "lng": 119.40435
+  },
+  {
+    "name": "Shishan",
+    "country": "CN",
+    "lat": 31.29883,
+    "lng": 120.56516
+  },
+  {
+    "name": "Shuangta",
+    "country": "CN",
+    "lat": 31.30408,
+    "lng": 120.62968
+  },
+  {
+    "name": "Shilu",
+    "country": "CN",
+    "lat": 31.31169,
+    "lng": 120.59409
+  },
+  {
+    "name": "Shengli",
+    "country": "CN",
+    "lat": 40.11818,
+    "lng": 116.64295
+  },
+  {
+    "name": "Shuanghe",
+    "country": "CN",
+    "lat": 31.94216,
+    "lng": 108.34821
+  },
+  {
+    "name": "Shengli",
+    "country": "CN",
+    "lat": 31.43416,
+    "lng": 109.44733
+  },
+  {
+    "name": "Shuangyang",
+    "country": "CN",
+    "lat": 31.4766,
+    "lng": 109.82302
+  },
+  {
+    "name": "Shuanghekou",
+    "country": "CN",
+    "lat": 30.75398,
+    "lng": 108.36958
+  },
+  {
+    "name": "Shi’an",
+    "country": "CN",
+    "lat": 30.59028,
+    "lng": 107.97657
+  },
+  {
+    "name": "Shuanglongchang",
+    "country": "CN",
+    "lat": 30.13224,
+    "lng": 107.72071
+  },
+  {
+    "name": "Shizhi",
+    "country": "CN",
+    "lat": 30.05304,
+    "lng": 107.79426
+  },
+  {
+    "name": "Shuangquan",
+    "country": "CN",
+    "lat": 29.02982,
+    "lng": 108.64652
+  },
+  {
+    "name": "Shuishi",
+    "country": "CN",
+    "lat": 29.24347,
+    "lng": 108.69843
+  },
+  {
+    "name": "Shuitian",
+    "country": "CN",
+    "lat": 29.40057,
+    "lng": 108.73623
+  },
+  {
+    "name": "Shaba",
+    "country": "CN",
+    "lat": 29.48152,
+    "lng": 108.63864
+  },
+  {
+    "name": "Shanling",
+    "country": "CN",
+    "lat": 29.73627,
+    "lng": 108.61978
+  },
+  {
+    "name": "Shuanglong",
+    "country": "CN",
+    "lat": 29.08953,
+    "lng": 108.25773
+  },
+  {
+    "name": "Shipan",
+    "country": "CN",
+    "lat": 29.13921,
+    "lng": 108.20413
+  },
+  {
+    "name": "Shangan",
+    "country": "CN",
+    "lat": 29.08266,
+    "lng": 108.35478
+  },
+  {
+    "name": "Shiqiao",
+    "country": "CN",
+    "lat": 29.19831,
+    "lng": 107.82887
+  },
+  {
+    "name": "Shiyan",
+    "country": "CN",
+    "lat": 30.08345,
+    "lng": 107.17221
+  },
+  {
+    "name": "Shuangfengqiao",
+    "country": "CN",
+    "lat": 29.71859,
+    "lng": 106.62712
+  },
+  {
+    "name": "Shijialiang",
+    "country": "CN",
+    "lat": 29.78788,
+    "lng": 106.47244
+  },
+  {
+    "name": "Shuanghuai",
+    "country": "CN",
+    "lat": 30.18416,
+    "lng": 106.5558
+  },
+  {
+    "name": "Shuangfeng",
+    "country": "CN",
+    "lat": 30.02333,
+    "lng": 106.42963
+  },
+  {
+    "name": "Shitan",
+    "country": "CN",
+    "lat": 30.06896,
+    "lng": 106.50291
+  },
+  {
+    "name": "Shayu",
+    "country": "CN",
+    "lat": 30.24283,
+    "lng": 106.36733
+  },
+  {
+    "name": "Shiwan",
+    "country": "CN",
+    "lat": 29.61475,
+    "lng": 105.89463
+  },
+  {
+    "name": "Shuanglu",
+    "country": "CN",
+    "lat": 29.48543,
+    "lng": 105.7629
+  },
+  {
+    "name": "Shenglilu",
+    "country": "CN",
+    "lat": 29.35048,
+    "lng": 105.8775
+  },
+  {
+    "name": "Shaoyun",
+    "country": "CN",
+    "lat": 29.98458,
+    "lng": 105.98421
+  },
+  {
+    "name": "Shuangfu",
+    "country": "CN",
+    "lat": 29.41359,
+    "lng": 106.27014
+  },
+  {
+    "name": "Shiqiang",
+    "country": "CN",
+    "lat": 29.27426,
+    "lng": 107.20393
+  },
+  {
+    "name": "Shixi",
+    "country": "CN",
+    "lat": 29.33522,
+    "lng": 107.03929
+  },
+  {
+    "name": "Shazhou",
+    "country": "CN",
+    "lat": 40.13799,
+    "lng": 94.66227
+  },
+  {
+    "name": "Shilin",
+    "country": "CN",
+    "lat": 28.87633,
+    "lng": 106.90223
+  },
+  {
+    "name": "Shengli",
+    "country": "CN",
+    "lat": 37.98425,
+    "lng": 106.19659
+  },
+  {
+    "name": "Shanwang",
+    "country": "CN",
+    "lat": 36.5454,
+    "lng": 118.711
+  },
+  {
+    "name": "Shunchang",
+    "country": "CN",
+    "lat": 26.79653,
+    "lng": 117.80532
+  },
+  {
+    "name": "Shuangtang",
+    "country": "CN",
+    "lat": 34.36529,
+    "lng": 118.47472
+  },
+  {
+    "name": "Shaozhuang",
+    "country": "CN",
+    "lat": 36.74701,
+    "lng": 118.31655
+  },
+  {
+    "name": "Shizuishan",
+    "country": "CN",
+    "lat": 38.98082,
+    "lng": 106.3892
+  },
+  {
+    "name": "Shangchong",
+    "country": "CN",
+    "lat": 26.25318,
+    "lng": 108.65785
+  },
+  {
+    "name": "Shatian",
+    "country": "CN",
+    "lat": 21.51941,
+    "lng": 109.65567
+  },
+  {
+    "name": "Shunzhou",
+    "country": "CN",
+    "lat": 26.6212,
+    "lng": 100.55426
+  },
+  {
+    "name": "Shilongba",
+    "country": "CN",
+    "lat": 26.57927,
+    "lng": 101.36325
+  },
+  {
+    "name": "Shuangcha",
+    "country": "CN",
+    "lat": 34.56147,
+    "lng": 102.82985
+  },
+  {
+    "name": "Shangyi",
+    "country": "CN",
+    "lat": 41.08037,
+    "lng": 113.96047
+  },
+  {
+    "name": "Shuanglonghu",
+    "country": "CN",
+    "lat": 29.71617,
+    "lng": 106.60684
+  },
+  {
+    "name": "Shahe",
+    "country": "CN",
+    "lat": 30.28246,
+    "lng": 107.56644
+  },
+  {
+    "name": "Shuangluan",
+    "country": "CN",
+    "lat": 40.96109,
+    "lng": 117.79621
+  },
+  {
+    "name": "Shuangqiao",
+    "country": "CN",
+    "lat": 40.97986,
+    "lng": 117.93399
+  },
+  {
+    "name": "Shanwangping",
+    "country": "CN",
+    "lat": 29.14749,
+    "lng": 107.312
+  },
+  {
+    "name": "Shilian",
+    "country": "CN",
+    "lat": 29.06866,
+    "lng": 106.92454
+  },
+  {
+    "name": "Shiliu",
+    "country": "CN",
+    "lat": 29.60986,
+    "lng": 108.46171
+  },
+  {
+    "name": "Shihao",
+    "country": "CN",
+    "lat": 28.54082,
+    "lng": 106.68069
+  },
+  {
+    "name": "Shunping",
+    "country": "CN",
+    "lat": 38.84407,
+    "lng": 115.13342
+  },
+  {
+    "name": "Shanzhou",
+    "country": "CN",
+    "lat": 34.72164,
+    "lng": 111.10136
+  },
+  {
+    "name": "Shancheng",
+    "country": "CN",
+    "lat": 35.89742,
+    "lng": 114.18107
+  },
+  {
+    "name": "Shajing Residential District",
+    "country": "CN",
+    "lat": 22.73177,
+    "lng": 113.81185
+  },
+  {
+    "name": "Shajing Town",
+    "country": "CN",
+    "lat": 22.73846,
+    "lng": 113.80755
+  },
+  {
+    "name": "Shuangjinhui",
+    "country": "CN",
+    "lat": 22.68552,
+    "lng": 113.79331
+  },
+  {
+    "name": "Shayi Community",
+    "country": "CN",
+    "lat": 22.73728,
+    "lng": 113.80469
+  },
+  {
+    "name": "Shenzhen City Centre",
+    "country": "CN",
+    "lat": 22.53589,
+    "lng": 114.0771
+  },
+  {
+    "name": "Shangzi",
+    "country": "CN",
+    "lat": 22.5811,
+    "lng": 113.90838
+  },
+  {
+    "name": "Shanghua",
+    "country": "CN",
+    "lat": 22.58073,
+    "lng": 113.9039
+  },
+  {
+    "name": "Shangecun",
+    "country": "CN",
+    "lat": 22.57849,
+    "lng": 113.90422
+  },
+  {
+    "name": "Shabian",
+    "country": "CN",
+    "lat": 22.59618,
+    "lng": 113.84503
+  },
+  {
+    "name": "Shangwei Yuanxin",
+    "country": "CN",
+    "lat": 22.60335,
+    "lng": 113.85438
+  },
+  {
+    "name": "Shenzhen Bay Park",
+    "country": "CN",
+    "lat": 22.49943,
+    "lng": 113.95171
+  },
+  {
+    "name": "Shenzhenwan",
+    "country": "CN",
+    "lat": 22.48707,
+    "lng": 113.93962
+  },
+  {
+    "name": "Shekou Residential",
+    "country": "CN",
+    "lat": 22.48834,
+    "lng": 113.92721
+  },
+  {
+    "name": "Shawei",
+    "country": "CN",
+    "lat": 22.51996,
+    "lng": 114.03378
+  },
+  {
+    "name": "Shatou Residential",
+    "country": "CN",
+    "lat": 22.52834,
+    "lng": 114.04304
+  },
+  {
+    "name": "Shahe Residential",
+    "country": "CN",
+    "lat": 22.53544,
+    "lng": 113.98004
+  },
+  {
+    "name": "Shahe Jiangong",
+    "country": "CN",
+    "lat": 22.55021,
+    "lng": 113.99207
+  },
+  {
+    "name": "Shanyang",
+    "country": "CN",
+    "lat": 35.24132,
+    "lng": 113.25898
+  },
+  {
+    "name": "Shushufindi",
+    "country": "EC",
+    "lat": -0.18555,
+    "lng": -76.64491
+  },
+  {
+    "name": "Shell",
+    "country": "EC",
+    "lat": -1.50538,
+    "lng": -78.06332
+  },
+  {
+    "name": "Shubrākhīt",
+    "country": "EG",
+    "lat": 31.02795,
+    "lng": 30.71493
+  },
+  {
+    "name": "Shubrā al Khaymah",
+    "country": "EG",
+    "lat": 30.12511,
+    "lng": 31.25053
+  },
+  {
+    "name": "Shirbīn",
+    "country": "EG",
+    "lat": 31.19688,
+    "lng": 31.5243
+  },
+  {
+    "name": "Shibīn al Qanāţir",
+    "country": "EG",
+    "lat": 30.31269,
+    "lng": 31.32018
+  },
+  {
+    "name": "Shibīn al Kawm",
+    "country": "EG",
+    "lat": 30.55258,
+    "lng": 31.00904
+  },
+  {
+    "name": "Sharm el-Sheikh",
+    "country": "EG",
+    "lat": 27.91582,
+    "lng": 34.32995
+  },
+  {
+    "name": "Shalateen",
+    "country": "EG",
+    "lat": 23.13235,
+    "lng": 35.59094
+  },
+  {
+    "name": "Shalātīn",
+    "country": "EG",
+    "lat": 23.13905,
+    "lng": 35.59821
+  },
+  {
+    "name": "Shonē",
+    "country": "ET",
+    "lat": 7.13333,
+    "lng": 37.95
+  },
+  {
+    "name": "Sheraro",
+    "country": "ET",
+    "lat": 14.40076,
+    "lng": 37.93399
+  },
+  {
+    "name": "Sheno",
+    "country": "ET",
+    "lat": 9.32936,
+    "lng": 39.29337
+  },
+  {
+    "name": "Shashamane",
+    "country": "ET",
+    "lat": 7.2,
+    "lng": 38.6
+  },
+  {
+    "name": "Shambu",
+    "country": "ET",
+    "lat": 9.56667,
+    "lng": 37.1
+  },
+  {
+    "name": "Shakiso",
+    "country": "ET",
+    "lat": 5.76494,
+    "lng": 38.91006
+  },
+  {
+    "name": "Shendi",
+    "country": "ET",
+    "lat": 10.64061,
+    "lng": 36.94684
+  },
+  {
+    "name": "Shinshicho",
+    "country": "ET",
+    "lat": 7.20556,
+    "lng": 37.77778
+  },
+  {
+    "name": "Shanto",
+    "country": "ET",
+    "lat": 7.02355,
+    "lng": 37.86084
+  },
+  {
+    "name": "Shurdington",
+    "country": "GB",
+    "lat": 51.86264,
+    "lng": -2.1206
+  },
+  {
+    "name": "Shrivenham",
+    "country": "GB",
+    "lat": 51.59853,
+    "lng": -1.65461
+  },
+  {
+    "name": "Shrewton",
+    "country": "GB",
+    "lat": 51.19194,
+    "lng": -1.90264
+  },
+  {
+    "name": "Shrewsbury",
+    "country": "GB",
+    "lat": 52.71009,
+    "lng": -2.75208
+  },
+  {
+    "name": "Shotwick",
+    "country": "GB",
+    "lat": 53.23938,
+    "lng": -2.99056
+  },
+  {
+    "name": "Shotton",
+    "country": "GB",
+    "lat": 54.78333,
+    "lng": -1.36667
+  },
+  {
+    "name": "Shotley Gate",
+    "country": "GB",
+    "lat": 51.95789,
+    "lng": 1.26877
+  },
+  {
+    "name": "Shoreham-by-Sea",
+    "country": "GB",
+    "lat": 50.83413,
+    "lng": -0.27431
+  },
+  {
+    "name": "Shirley",
+    "country": "GB",
+    "lat": 51.37762,
+    "lng": -0.04961
+  },
+  {
+    "name": "Shirland",
+    "country": "GB",
+    "lat": 53.12155,
+    "lng": -1.40464
+  },
+  {
+    "name": "Shirebrook",
+    "country": "GB",
+    "lat": 53.20333,
+    "lng": -1.21336
+  },
+  {
+    "name": "Shipton under Wychwood",
+    "country": "GB",
+    "lat": 51.86035,
+    "lng": -1.59847
+  },
+  {
+    "name": "Shipston on Stour",
+    "country": "GB",
+    "lat": 52.06057,
+    "lng": -1.62778
+  },
+  {
+    "name": "Shipley",
+    "country": "GB",
+    "lat": 53.83333,
+    "lng": -1.76667
+  },
+  {
+    "name": "Shipham",
+    "country": "GB",
+    "lat": 51.31428,
+    "lng": -2.8001
+  },
+  {
+    "name": "Shipdham",
+    "country": "GB",
+    "lat": 52.62923,
+    "lng": 0.88577
+  },
+  {
+    "name": "Shinfield",
+    "country": "GB",
+    "lat": 51.40542,
+    "lng": -0.94534
+  },
+  {
+    "name": "Shillington",
+    "country": "GB",
+    "lat": 51.99344,
+    "lng": -0.36006
+  },
+  {
+    "name": "Shillingstone",
+    "country": "GB",
+    "lat": 50.89567,
+    "lng": -2.24495
+  },
+  {
+    "name": "Shildon",
+    "country": "GB",
+    "lat": 54.62997,
+    "lng": -1.64295
+  },
+  {
+    "name": "Shilbottle",
+    "country": "GB",
+    "lat": 55.37099,
+    "lng": -1.6882
+  },
+  {
+    "name": "Shifnal",
+    "country": "GB",
+    "lat": 52.67043,
+    "lng": -2.37248
+  },
+  {
+    "name": "Shevington",
+    "country": "GB",
+    "lat": 53.57236,
+    "lng": -2.69316
+  },
+  {
+    "name": "Sherston",
+    "country": "GB",
+    "lat": 51.57205,
+    "lng": -2.21278
+  },
+  {
+    "name": "Sherington",
+    "country": "GB",
+    "lat": 52.11172,
+    "lng": -0.69973
+  },
+  {
+    "name": "Sheringham",
+    "country": "GB",
+    "lat": 52.94078,
+    "lng": 1.20931
+  },
+  {
+    "name": "Sheriff Hutton",
+    "country": "GB",
+    "lat": 54.08904,
+    "lng": -1.00639
+  },
+  {
+    "name": "Sherburn in Elmet",
+    "country": "GB",
+    "lat": 53.79519,
+    "lng": -1.2466
+  },
+  {
+    "name": "Sherburn Hill",
+    "country": "GB",
+    "lat": 54.7727,
+    "lng": -1.47985
+  },
+  {
+    "name": "Sherburn",
+    "country": "GB",
+    "lat": 54.77606,
+    "lng": -1.50474
+  },
+  {
+    "name": "Sherborne St John",
+    "country": "GB",
+    "lat": 51.29705,
+    "lng": -1.11387
+  },
+  {
+    "name": "Sherborne",
+    "country": "GB",
+    "lat": 50.94599,
+    "lng": -2.51776
+  },
+  {
+    "name": "Shepton Mallet",
+    "country": "GB",
+    "lat": 51.18972,
+    "lng": -2.54722
+  },
+  {
+    "name": "Shepshed",
+    "country": "GB",
+    "lat": 52.7657,
+    "lng": -1.29021
+  },
+  {
+    "name": "Shepperton",
+    "country": "GB",
+    "lat": 51.39546,
+    "lng": -0.44889
+  },
+  {
+    "name": "Shepley",
+    "country": "GB",
+    "lat": 53.58333,
+    "lng": -1.71667
+  },
+  {
+    "name": "Shepherdswell",
+    "country": "GB",
+    "lat": 51.18713,
+    "lng": 1.23049
+  },
+  {
+    "name": "Shepherds Bush",
+    "country": "GB",
+    "lat": 51.505,
+    "lng": -0.2211
+  },
+  {
+    "name": "Shenstone",
+    "country": "GB",
+    "lat": 52.63802,
+    "lng": -1.84147
+  },
+  {
+    "name": "Shenley Church End",
+    "country": "GB",
+    "lat": 52.02522,
+    "lng": -0.78994
+  },
+  {
+    "name": "Shenley",
+    "country": "GB",
+    "lat": 51.69054,
+    "lng": -0.28067
+  },
+  {
+    "name": "Shenfield",
+    "country": "GB",
+    "lat": 51.63171,
+    "lng": 0.33199
+  },
+  {
+    "name": "Shelley",
+    "country": "GB",
+    "lat": 53.6,
+    "lng": -1.68333
+  },
+  {
+    "name": "Shefford",
+    "country": "GB",
+    "lat": 52.0387,
+    "lng": -0.33399
+  },
+  {
+    "name": "Sheffield",
+    "country": "GB",
+    "lat": 53.38297,
+    "lng": -1.4659
+  },
+  {
+    "name": "Sheerness",
+    "country": "GB",
+    "lat": 51.44042,
+    "lng": 0.76252
+  },
+  {
+    "name": "Shawbury",
+    "country": "GB",
+    "lat": 52.79098,
+    "lng": -2.66183
+  },
+  {
+    "name": "Shaw",
+    "country": "GB",
+    "lat": 53.56667,
+    "lng": -2.08333
+  },
+  {
+    "name": "Sharpness",
+    "country": "GB",
+    "lat": 51.71972,
+    "lng": -2.4775
+  },
+  {
+    "name": "Sharnbrook",
+    "country": "GB",
+    "lat": 52.22606,
+    "lng": -0.54425
+  },
+  {
+    "name": "Shap",
+    "country": "GB",
+    "lat": 54.53149,
+    "lng": -2.67551
+  },
+  {
+    "name": "Shanklin",
+    "country": "GB",
+    "lat": 50.62613,
+    "lng": -1.1785
+  },
+  {
+    "name": "Shalfleet",
+    "country": "GB",
+    "lat": 50.70113,
+    "lng": -1.42007
+  },
+  {
+    "name": "Shalbourne",
+    "country": "GB",
+    "lat": 51.36358,
+    "lng": -1.55053
+  },
+  {
+    "name": "Shafton",
+    "country": "GB",
+    "lat": 53.59286,
+    "lng": -1.40925
+  },
+  {
+    "name": "Shaftesbury",
+    "country": "GB",
+    "lat": 51.00528,
+    "lng": -2.19333
+  },
+  {
+    "name": "Shadoxhurst",
+    "country": "GB",
+    "lat": 51.10797,
+    "lng": 0.81917
+  },
+  {
+    "name": "Shiremoor",
+    "country": "GB",
+    "lat": 55.03535,
+    "lng": -1.5095
+  },
+  {
+    "name": "Shadwell",
+    "country": "GB",
+    "lat": 53.8546,
+    "lng": -1.4726
+  },
+  {
+    "name": "Sharlston",
+    "country": "GB",
+    "lat": 53.66956,
+    "lng": -1.41294
+  },
+  {
+    "name": "Shadwell",
+    "country": "GB",
+    "lat": 51.51135,
+    "lng": -0.05663
+  },
+  {
+    "name": "Shotts",
+    "country": "GB",
+    "lat": 55.81951,
+    "lng": -3.79749
+  },
+  {
+    "name": "Shirley",
+    "country": "GB",
+    "lat": 52.41074,
+    "lng": -1.81952
+  },
+  {
+    "name": "Sheerwater",
+    "country": "GB",
+    "lat": 51.33581,
+    "lng": -0.53438
+  },
+  {
+    "name": "Shortlands",
+    "country": "GB",
+    "lat": 51.39914,
+    "lng": 0.0044
+  },
+  {
+    "name": "Shieldhill",
+    "country": "GB",
+    "lat": 55.97277,
+    "lng": -3.76788
+  },
+  {
+    "name": "Shuakhevi",
+    "country": "GE",
+    "lat": 41.62566,
+    "lng": 42.18615
+  },
+  {
+    "name": "Shorapani",
+    "country": "GE",
+    "lat": 42.09595,
+    "lng": 43.08248
+  },
+  {
+    "name": "Shemokmedi",
+    "country": "GE",
+    "lat": 41.9096,
+    "lng": 42.06693
+  },
+  {
+    "name": "Shaumiani",
+    "country": "GE",
+    "lat": 41.35134,
+    "lng": 44.7645
+  },
+  {
+    "name": "Shama Junction",
+    "country": "GH",
+    "lat": 5.01806,
+    "lng": -1.66437
+  },
+  {
+    "name": "Shuen Wan",
+    "country": "HK",
+    "lat": 22.46767,
+    "lng": 114.20812
+  },
+  {
+    "name": "Shouson Hill",
+    "country": "HK",
+    "lat": 22.24843,
+    "lng": 114.17993
+  },
+  {
+    "name": "Sheung Shui",
+    "country": "HK",
+    "lat": 22.51667,
+    "lng": 114.11667
+  },
+  {
+    "name": "Shek Wai Kok",
+    "country": "HK",
+    "lat": 22.37546,
+    "lng": 114.12411
+  },
+  {
+    "name": "Shek Pai Wan Estate",
+    "country": "HK",
+    "lat": 22.2493,
+    "lng": 114.15812
+  },
+  {
+    "name": "Shek O",
+    "country": "HK",
+    "lat": 22.23344,
+    "lng": 114.25121
+  },
+  {
+    "name": "Shek Lei",
+    "country": "HK",
+    "lat": 22.36613,
+    "lng": 114.13982
+  },
+  {
+    "name": "Shek Kip Mei",
+    "country": "HK",
+    "lat": 22.33146,
+    "lng": 114.16799
+  },
+  {
+    "name": "Shau Kei Wan",
+    "country": "HK",
+    "lat": 22.27771,
+    "lng": 114.22864
+  },
+  {
+    "name": "Sha Tin Wai",
+    "country": "HK",
+    "lat": 22.37756,
+    "lng": 114.19753
+  },
+  {
+    "name": "Sha Tin",
+    "country": "HK",
+    "lat": 22.38333,
+    "lng": 114.18333
+  },
+  {
+    "name": "Sha Tau Kok",
+    "country": "HK",
+    "lat": 22.54569,
+    "lng": 114.22379
+  },
+  {
+    "name": "Sham Tseng",
+    "country": "HK",
+    "lat": 22.36667,
+    "lng": 114.05
+  },
+  {
+    "name": "Sham Shui Po",
+    "country": "HK",
+    "lat": 22.33023,
+    "lng": 114.15945
+  },
+  {
+    "name": "Shui Chuen O",
+    "country": "HK",
+    "lat": 22.37161,
+    "lng": 114.19778
+  },
+  {
+    "name": "Shap Pat Heung",
+    "country": "HK",
+    "lat": 22.4248,
+    "lng": 114.03581
+  },
+  {
+    "name": "Shek Kip Mei Estate",
+    "country": "HK",
+    "lat": 22.33412,
+    "lng": 114.16531
+  },
+  {
+    "name": "Sha Tin Pass Estate",
+    "country": "HK",
+    "lat": 22.34981,
+    "lng": 114.19515
+  },
+  {
+    "name": "Shankill",
+    "country": "IE",
+    "lat": 53.22611,
+    "lng": -6.12444
+  },
+  {
+    "name": "Shannon",
+    "country": "IE",
+    "lat": 52.70389,
+    "lng": -8.86417
+  },
+  {
+    "name": "Shoresh",
+    "country": "IL",
+    "lat": 31.79711,
+    "lng": 35.06525
+  },
+  {
+    "name": "Shtulim",
+    "country": "IL",
+    "lat": 31.77354,
+    "lng": 34.68388
+  },
+  {
+    "name": "Shlomi",
+    "country": "IL",
+    "lat": 33.07216,
+    "lng": 35.14452
+  },
+  {
+    "name": "Shefayim",
+    "country": "IL",
+    "lat": 32.21743,
+    "lng": 34.82454
+  },
+  {
+    "name": "Shefar‘am",
+    "country": "IL",
+    "lat": 32.80583,
+    "lng": 35.16895
+  },
+  {
+    "name": "Shave Tsiyyon",
+    "country": "IL",
+    "lat": 32.98098,
+    "lng": 35.08331
+  },
+  {
+    "name": "Sha‘ar Efrayim",
+    "country": "IL",
+    "lat": 32.29067,
+    "lng": 34.9984
+  },
+  {
+    "name": "Sha‘alvim",
+    "country": "IL",
+    "lat": 31.86996,
+    "lng": 34.98722
+  },
+  {
+    "name": "Sha‘av",
+    "country": "IL",
+    "lat": 32.88943,
+    "lng": 35.24093
+  },
+  {
+    "name": "Shibli",
+    "country": "IL",
+    "lat": 32.69464,
+    "lng": 35.39252
+  },
+  {
+    "name": "Shimshit",
+    "country": "IL",
+    "lat": 32.73137,
+    "lng": 35.24409
+  },
+  {
+    "name": "Shoham",
+    "country": "IL",
+    "lat": 31.99866,
+    "lng": 34.94559
+  },
+  {
+    "name": "Shibli–Umm al-Ghanam",
+    "country": "IL",
+    "lat": 32.68395,
+    "lng": 35.39621
+  },
+  {
+    "name": "Shimla",
+    "country": "IN",
+    "lat": 31.10442,
+    "lng": 77.16662
+  },
+  {
+    "name": "Shyamnagar",
+    "country": "IN",
+    "lat": 22.83333,
+    "lng": 88.36667
+  },
+  {
+    "name": "Shopian",
+    "country": "IN",
+    "lat": 33.71723,
+    "lng": 74.83413
+  },
+  {
+    "name": "Shujālpur",
+    "country": "IN",
+    "lat": 23.40673,
+    "lng": 76.7098
+  },
+  {
+    "name": "Shuganu",
+    "country": "IN",
+    "lat": 24.29546,
+    "lng": 93.87372
+  },
+  {
+    "name": "Shrīrangapattana",
+    "country": "IN",
+    "lat": 12.42264,
+    "lng": 76.68439
+  },
+  {
+    "name": "Shrīrāmpur",
+    "country": "IN",
+    "lat": 22.75278,
+    "lng": 88.34222
+  },
+  {
+    "name": "Shrīgonda",
+    "country": "IN",
+    "lat": 18.61527,
+    "lng": 74.69895
+  },
+  {
+    "name": "Shorāpur",
+    "country": "IN",
+    "lat": 16.521,
+    "lng": 76.75738
+  },
+  {
+    "name": "Shōranūr",
+    "country": "IN",
+    "lat": 10.76181,
+    "lng": 76.27078
+  },
+  {
+    "name": "Sholinghur",
+    "country": "IN",
+    "lat": 13.1181,
+    "lng": 79.42025
+  },
+  {
+    "name": "Sholapur",
+    "country": "IN",
+    "lat": 17.67152,
+    "lng": 75.91044
+  },
+  {
+    "name": "Shivrājpur",
+    "country": "IN",
+    "lat": 22.42319,
+    "lng": 73.60865
+  },
+  {
+    "name": "Shivpuri",
+    "country": "IN",
+    "lat": 25.42378,
+    "lng": 77.66223
+  },
+  {
+    "name": "Shīshgarh",
+    "country": "IN",
+    "lat": 28.72928,
+    "lng": 79.31469
+  },
+  {
+    "name": "Shirwal",
+    "country": "IN",
+    "lat": 18.15059,
+    "lng": 73.97788
+  },
+  {
+    "name": "Shirpur",
+    "country": "IN",
+    "lat": 21.34821,
+    "lng": 74.88035
+  },
+  {
+    "name": "Shirhatti",
+    "country": "IN",
+    "lat": 15.23352,
+    "lng": 75.57996
+  },
+  {
+    "name": "Shirgaon",
+    "country": "IN",
+    "lat": 19.69589,
+    "lng": 72.71527
+  },
+  {
+    "name": "Shirdi",
+    "country": "IN",
+    "lat": 19.76616,
+    "lng": 74.47738
+  },
+  {
+    "name": "Shivamogga",
+    "country": "IN",
+    "lat": 13.93157,
+    "lng": 75.56791
+  },
+  {
+    "name": "Shillong",
+    "country": "IN",
+    "lat": 25.56892,
+    "lng": 91.88313
+  },
+  {
+    "name": "Shikohābād",
+    "country": "IN",
+    "lat": 27.108,
+    "lng": 78.58661
+  },
+  {
+    "name": "Shikārpūr",
+    "country": "IN",
+    "lat": 28.28072,
+    "lng": 78.01411
+  },
+  {
+    "name": "Shikaripura",
+    "country": "IN",
+    "lat": 14.2698,
+    "lng": 75.35643
+  },
+  {
+    "name": "Shiggaon",
+    "country": "IN",
+    "lat": 14.99053,
+    "lng": 75.22499
+  },
+  {
+    "name": "Shertallai",
+    "country": "IN",
+    "lat": 9.68581,
+    "lng": 76.33996
+  },
+  {
+    "name": "Sherkot",
+    "country": "IN",
+    "lat": 29.32704,
+    "lng": 78.57429
+  },
+  {
+    "name": "Sherghāti",
+    "country": "IN",
+    "lat": 24.5595,
+    "lng": 84.79162
+  },
+  {
+    "name": "Shergarh",
+    "country": "IN",
+    "lat": 28.65128,
+    "lng": 79.36815
+  },
+  {
+    "name": "Sheopur",
+    "country": "IN",
+    "lat": 25.66472,
+    "lng": 76.69616
+  },
+  {
+    "name": "Sheohar",
+    "country": "IN",
+    "lat": 26.51393,
+    "lng": 85.29341
+  },
+  {
+    "name": "Sheoganj",
+    "country": "IN",
+    "lat": 25.13915,
+    "lng": 73.06784
+  },
+  {
+    "name": "Shenkottai",
+    "country": "IN",
+    "lat": 8.97741,
+    "lng": 77.24633
+  },
+  {
+    "name": "Shehera",
+    "country": "IN",
+    "lat": 22.95084,
+    "lng": 73.63118
+  },
+  {
+    "name": "Shegaon",
+    "country": "IN",
+    "lat": 20.7932,
+    "lng": 76.69921
+  },
+  {
+    "name": "Shāntipur",
+    "country": "IN",
+    "lat": 23.24723,
+    "lng": 88.43302
+  },
+  {
+    "name": "Shankrampet",
+    "country": "IN",
+    "lat": 18.04931,
+    "lng": 77.91418
+  },
+  {
+    "name": "Shankargarh",
+    "country": "IN",
+    "lat": 25.182,
+    "lng": 81.61769
+  },
+  {
+    "name": "Shamsābād",
+    "country": "IN",
+    "lat": 27.5371,
+    "lng": 79.43796
+  },
+  {
+    "name": "Shamsābād",
+    "country": "IN",
+    "lat": 27.01718,
+    "lng": 78.12358
+  },
+  {
+    "name": "Shamsābād",
+    "country": "IN",
+    "lat": 23.81495,
+    "lng": 77.49567
+  },
+  {
+    "name": "Shāmli",
+    "country": "IN",
+    "lat": 29.4497,
+    "lng": 77.30959
+  },
+  {
+    "name": "Shāmgarh",
+    "country": "IN",
+    "lat": 24.18817,
+    "lng": 75.63903
+  },
+  {
+    "name": "Shām Churāsi",
+    "country": "IN",
+    "lat": 31.50028,
+    "lng": 75.74917
+  },
+  {
+    "name": "Shājāpur",
+    "country": "IN",
+    "lat": 23.42637,
+    "lng": 76.27775
+  },
+  {
+    "name": "Sheikhpura",
+    "country": "IN",
+    "lat": 25.13994,
+    "lng": 85.84096
+  },
+  {
+    "name": "Shāhpura",
+    "country": "IN",
+    "lat": 27.3912,
+    "lng": 75.95956
+  },
+  {
+    "name": "Shāhpura",
+    "country": "IN",
+    "lat": 25.62094,
+    "lng": 74.92487
+  },
+  {
+    "name": "Shāhpura",
+    "country": "IN",
+    "lat": 23.13663,
+    "lng": 79.66402
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 29.3501,
+    "lng": 77.5516
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 25.60293,
+    "lng": 84.40412
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 23.89371,
+    "lng": 79.05074
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 23.02446,
+    "lng": 81.0038
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 22.19526,
+    "lng": 77.90682
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 22.15611,
+    "lng": 70.77068
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 21.23742,
+    "lng": 76.22558
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 16.69605,
+    "lng": 76.8422
+  },
+  {
+    "name": "Shāhkot",
+    "country": "IN",
+    "lat": 31.08173,
+    "lng": 75.33708
+  },
+  {
+    "name": "Shāhjahānpur",
+    "country": "IN",
+    "lat": 27.99736,
+    "lng": 76.44914
+  },
+  {
+    "name": "Shāhjānpur",
+    "country": "IN",
+    "lat": 27.88165,
+    "lng": 79.90918
+  },
+  {
+    "name": "Shāhi",
+    "country": "IN",
+    "lat": 28.55023,
+    "lng": 79.31761
+  },
+  {
+    "name": "Shāhgarh",
+    "country": "IN",
+    "lat": 24.31365,
+    "lng": 79.11806
+  },
+  {
+    "name": "Shāhganj",
+    "country": "IN",
+    "lat": 26.04965,
+    "lng": 82.68423
+  },
+  {
+    "name": "Shahdol",
+    "country": "IN",
+    "lat": 23.29356,
+    "lng": 81.3619
+  },
+  {
+    "name": "Shāhāpur",
+    "country": "IN",
+    "lat": 19.45231,
+    "lng": 73.32572
+  },
+  {
+    "name": "Shāhāda",
+    "country": "IN",
+    "lat": 21.54538,
+    "lng": 74.47106
+  },
+  {
+    "name": "Shāhābād",
+    "country": "IN",
+    "lat": 30.16776,
+    "lng": 76.87046
+  },
+  {
+    "name": "Shāhābād",
+    "country": "IN",
+    "lat": 28.56681,
+    "lng": 79.00956
+  },
+  {
+    "name": "Shāhābād",
+    "country": "IN",
+    "lat": 27.6431,
+    "lng": 79.9402
+  },
+  {
+    "name": "Shāhābād",
+    "country": "IN",
+    "lat": 17.1307,
+    "lng": 76.94361
+  },
+  {
+    "name": "Shendurjana",
+    "country": "IN",
+    "lat": 21.52488,
+    "lng": 78.2835
+  },
+  {
+    "name": "Shādīpur Julāna",
+    "country": "IN",
+    "lat": 29.12368,
+    "lng": 76.40516
+  },
+  {
+    "name": "Sholavandan",
+    "country": "IN",
+    "lat": 10.0216,
+    "lng": 77.96087
+  },
+  {
+    "name": "Shahmīrpet",
+    "country": "IN",
+    "lat": 17.59455,
+    "lng": 78.57493
+  },
+  {
+    "name": "Sholinganallur",
+    "country": "IN",
+    "lat": 12.88996,
+    "lng": 80.23127
+  },
+  {
+    "name": "Shivaji Nagar",
+    "country": "IN",
+    "lat": 18.53017,
+    "lng": 73.85263
+  },
+  {
+    "name": "Shamshabad",
+    "country": "IN",
+    "lat": 17.25186,
+    "lng": 78.41835
+  },
+  {
+    "name": "Shiraguppi",
+    "country": "IN",
+    "lat": 16.61875,
+    "lng": 74.70907
+  },
+  {
+    "name": "Sheragada",
+    "country": "IN",
+    "lat": 19.51301,
+    "lng": 84.60408
+  },
+  {
+    "name": "Shahbazpur",
+    "country": "IN",
+    "lat": 26.30511,
+    "lng": 87.28865
+  },
+  {
+    "name": "Shakar",
+    "country": "IN",
+    "lat": 31.97204,
+    "lng": 75.06382
+  },
+  {
+    "name": "Shāhpur",
+    "country": "IN",
+    "lat": 24.03125,
+    "lng": 84.05428
+  },
+  {
+    "name": "Shiriya",
+    "country": "IN",
+    "lat": 12.63337,
+    "lng": 74.93081
+  },
+  {
+    "name": "Shiravāgilu",
+    "country": "IN",
+    "lat": 12.54921,
+    "lng": 74.98759
+  },
+  {
+    "name": "Shamshi",
+    "country": "IN",
+    "lat": 31.86641,
+    "lng": 77.1472
+  },
+  {
+    "name": "Shrirampur",
+    "country": "IN",
+    "lat": 19.62201,
+    "lng": 74.65699
+  },
+  {
+    "name": "Shōlūr",
+    "country": "IN",
+    "lat": 11.48515,
+    "lng": 76.65557
+  },
+  {
+    "name": "Shahdara",
+    "country": "IN",
+    "lat": 28.60311,
+    "lng": 77.13988
+  },
+  {
+    "name": "Shi Yomi",
+    "country": "IN",
+    "lat": 28.52999,
+    "lng": 94.37322
+  },
+  {
+    "name": "Shivani Pisa",
+    "country": "IN",
+    "lat": 20.0955,
+    "lng": 76.45295
+  },
+  {
+    "name": "Shrivardhan",
+    "country": "IN",
+    "lat": 18.05318,
+    "lng": 73.0011
+  },
+  {
+    "name": "Shahuwadi",
+    "country": "IN",
+    "lat": 16.90993,
+    "lng": 73.94654
+  },
+  {
+    "name": "Shangus",
+    "country": "IN",
+    "lat": 33.69686,
+    "lng": 75.28366
+  },
+  {
+    "name": "Shahjangi",
+    "country": "IN",
+    "lat": 25.23142,
+    "lng": 86.95432
+  },
+  {
+    "name": "Shekhpura",
+    "country": "IN",
+    "lat": 26.14387,
+    "lng": 85.39071
+  },
+  {
+    "name": "Shivnandanpur",
+    "country": "IN",
+    "lat": 23.19025,
+    "lng": 82.95318
+  },
+  {
+    "name": "Shivpur Charcha",
+    "country": "IN",
+    "lat": 23.32888,
+    "lng": 82.52809
+  },
+  {
+    "name": "Shakar Pur Baramad",
+    "country": "IN",
+    "lat": 28.62081,
+    "lng": 77.27938
+  },
+  {
+    "name": "Shafi Pur Ranhola",
+    "country": "IN",
+    "lat": 28.65729,
+    "lng": 77.04001
+  },
+  {
+    "name": "Sherpura",
+    "country": "IN",
+    "lat": 21.71426,
+    "lng": 72.97172
+  },
+  {
+    "name": "Shaktinagar",
+    "country": "IN",
+    "lat": 22.19961,
+    "lng": 69.65915
+  },
+  {
+    "name": "Shaktinagar",
+    "country": "IN",
+    "lat": 16.36491,
+    "lng": 77.35863
+  },
+  {
+    "name": "Shivatkar",
+    "country": "IN",
+    "lat": 18.10157,
+    "lng": 74.21419
+  },
+  {
+    "name": "Shivaji Nagar",
+    "country": "IN",
+    "lat": 20.12646,
+    "lng": 79.03365
+  },
+  {
+    "name": "Shelar",
+    "country": "IN",
+    "lat": 19.32216,
+    "lng": 73.0677
+  },
+  {
+    "name": "Shaqlāwah",
+    "country": "IQ",
+    "lat": 36.40422,
+    "lng": 44.32563
+  },
+  {
+    "name": "Shahrak-e Emām Ḩasan",
+    "country": "IR",
+    "lat": 35.48846,
+    "lng": 51.34567
+  },
+  {
+    "name": "Shahre Jadide Andisheh",
+    "country": "IR",
+    "lat": 35.6803,
+    "lng": 51.0193
+  },
+  {
+    "name": "Shahr-e Herāt",
+    "country": "IR",
+    "lat": 30.05407,
+    "lng": 54.37294
+  },
+  {
+    "name": "Shūshtar",
+    "country": "IR",
+    "lat": 32.04972,
+    "lng": 48.84843
+  },
+  {
+    "name": "Shūsh",
+    "country": "IR",
+    "lat": 32.1942,
+    "lng": 48.2436
+  },
+  {
+    "name": "Shīrvān",
+    "country": "IR",
+    "lat": 37.39669,
+    "lng": 57.92952
+  },
+  {
+    "name": "Shīr Gāh",
+    "country": "IR",
+    "lat": 36.29836,
+    "lng": 52.88917
+  },
+  {
+    "name": "Shiraz",
+    "country": "IR",
+    "lat": 29.61031,
+    "lng": 52.53113
+  },
+  {
+    "name": "Sharīfābād",
+    "country": "IR",
+    "lat": 35.42698,
+    "lng": 51.78456
+  },
+  {
+    "name": "Shamsābād",
+    "country": "IR",
+    "lat": 32.16642,
+    "lng": 50.85349
+  },
+  {
+    "name": "Shalamzār",
+    "country": "IR",
+    "lat": 32.0465,
+    "lng": 50.81639
+  },
+  {
+    "name": "Shahr-e Kord",
+    "country": "IR",
+    "lat": 32.32612,
+    "lng": 50.8572
+  },
+  {
+    "name": "Shahr-e Bābak",
+    "country": "IR",
+    "lat": 30.1165,
+    "lng": 55.1186
+  },
+  {
+    "name": "Shaft",
+    "country": "IR",
+    "lat": 37.1702,
+    "lng": 49.3998
+  },
+  {
+    "name": "Shādegān",
+    "country": "IR",
+    "lat": 30.64924,
+    "lng": 48.66497
+  },
+  {
+    "name": "Shabestar",
+    "country": "IR",
+    "lat": 38.1804,
+    "lng": 45.7028
+  },
+  {
+    "name": "Shāhīn Dezh",
+    "country": "IR",
+    "lat": 36.6793,
+    "lng": 46.5669
+  },
+  {
+    "name": "Shahr-e Qods",
+    "country": "IR",
+    "lat": 35.7214,
+    "lng": 51.109
+  },
+  {
+    "name": "Shahr-e Qadīm-e Lār",
+    "country": "IR",
+    "lat": 27.68336,
+    "lng": 54.34172
+  },
+  {
+    "name": "Shahrud",
+    "country": "IR",
+    "lat": 36.41819,
+    "lng": 54.97628
+  },
+  {
+    "name": "Shahrak-e Kūlūrī",
+    "country": "IR",
+    "lat": 32.35276,
+    "lng": 48.47059
+  },
+  {
+    "name": "Shāzand",
+    "country": "IR",
+    "lat": 33.93132,
+    "lng": 49.40629
+  },
+  {
+    "name": "Shahrīār",
+    "country": "IR",
+    "lat": 35.65884,
+    "lng": 51.05775
+  },
+  {
+    "name": "Shahrak-e Qīāmdasht",
+    "country": "IR",
+    "lat": 35.5237,
+    "lng": 51.6505
+  },
+  {
+    "name": "Showţ",
+    "country": "IR",
+    "lat": 39.2192,
+    "lng": 44.77
+  },
+  {
+    "name": "Shahrak-e Pābedānā",
+    "country": "IR",
+    "lat": 31.13444,
+    "lng": 56.39806
+  },
+  {
+    "name": "Shāhīn Shahr",
+    "country": "IR",
+    "lat": 32.85788,
+    "lng": 51.5529
+  },
+  {
+    "name": "Shahreẕā",
+    "country": "IR",
+    "lat": 32.00877,
+    "lng": 51.86407
+  },
+  {
+    "name": "Shahrak-e Bākharz",
+    "country": "IR",
+    "lat": 34.99204,
+    "lng": 60.31714
+  },
+  {
+    "name": "Shahrak-e Shahīd Chamrān",
+    "country": "IR",
+    "lat": 30.70838,
+    "lng": 49.16266
+  },
+  {
+    "name": "Sheybān",
+    "country": "IR",
+    "lat": 31.40794,
+    "lng": 48.7946
+  },
+  {
+    "name": "Shahrak-e Nahāl Va Baz̄r",
+    "country": "IR",
+    "lat": 35.79016,
+    "lng": 50.94951
+  },
+  {
+    "name": "Shālāsh",
+    "country": "IR",
+    "lat": 36.9084,
+    "lng": 53.92647
+  },
+  {
+    "name": "Shahr-e Jadīd-e Mehestan",
+    "country": "IR",
+    "lat": 35.98907,
+    "lng": 50.74512
+  },
+  {
+    "name": "Shingū",
+    "country": "JP",
+    "lat": 33.73333,
+    "lng": 135.98333
+  },
+  {
+    "name": "Shuzenji",
+    "country": "JP",
+    "lat": 34.97008,
+    "lng": 138.92187
+  },
+  {
+    "name": "Shukugō",
+    "country": "JP",
+    "lat": 33.13585,
+    "lng": 129.89051
+  },
+  {
+    "name": "Shōyama",
+    "country": "JP",
+    "lat": 35.16667,
+    "lng": 133.31667
+  },
+  {
+    "name": "Shōbu",
+    "country": "JP",
+    "lat": 36.06667,
+    "lng": 139.6
+  },
+  {
+    "name": "Shōbara",
+    "country": "JP",
+    "lat": 34.85,
+    "lng": 133.01667
+  },
+  {
+    "name": "Shizuoka",
+    "country": "JP",
+    "lat": 34.98333,
+    "lng": 138.38333
+  },
+  {
+    "name": "Shimo-ichigi",
+    "country": "JP",
+    "lat": 33.8305,
+    "lng": 136.05145
+  },
+  {
+    "name": "Shitara",
+    "country": "JP",
+    "lat": 35.1,
+    "lng": 137.56667
+  },
+  {
+    "name": "Shirone",
+    "country": "JP",
+    "lat": 37.76354,
+    "lng": 139.02199
+  },
+  {
+    "name": "Shiraoka",
+    "country": "JP",
+    "lat": 36.01839,
+    "lng": 139.66034
+  },
+  {
+    "name": "Shirahamachō-usazakiminami",
+    "country": "JP",
+    "lat": 34.78333,
+    "lng": 134.71667
+  },
+  {
+    "name": "Shirahama",
+    "country": "JP",
+    "lat": 33.68333,
+    "lng": 135.35
+  },
+  {
+    "name": "Shirahama",
+    "country": "JP",
+    "lat": 24.36097,
+    "lng": 123.74836
+  },
+  {
+    "name": "Shiozawa",
+    "country": "JP",
+    "lat": 37.03757,
+    "lng": 138.84867
+  },
+  {
+    "name": "Shiojiri",
+    "country": "JP",
+    "lat": 36.1,
+    "lng": 137.96667
+  },
+  {
+    "name": "Shinshiro",
+    "country": "JP",
+    "lat": 34.9,
+    "lng": 137.5
+  },
+  {
+    "name": "Shin’ichi",
+    "country": "JP",
+    "lat": 34.55543,
+    "lng": 133.27297
+  },
+  {
+    "name": "Shingū",
+    "country": "JP",
+    "lat": 33.71399,
+    "lng": 130.4313
+  },
+  {
+    "name": "Shinagawa",
+    "country": "JP",
+    "lat": 33.63627,
+    "lng": 133.00572
+  },
+  {
+    "name": "Shimoyuge",
+    "country": "JP",
+    "lat": 34.92427,
+    "lng": 133.96386
+  },
+  {
+    "name": "Shimo-tsuma",
+    "country": "JP",
+    "lat": 36.18333,
+    "lng": 139.96667
+  },
+  {
+    "name": "Shimosuwa",
+    "country": "JP",
+    "lat": 36.0713,
+    "lng": 138.08201
+  },
+  {
+    "name": "Shimoseki",
+    "country": "JP",
+    "lat": 38.09131,
+    "lng": 139.55984
+  },
+  {
+    "name": "Shimonoseki",
+    "country": "JP",
+    "lat": 33.95548,
+    "lng": 130.93713
+  },
+  {
+    "name": "Shimonita",
+    "country": "JP",
+    "lat": 36.21667,
+    "lng": 138.78333
+  },
+  {
+    "name": "Shimoichi",
+    "country": "JP",
+    "lat": 34.37089,
+    "lng": 135.78766
+  },
+  {
+    "name": "Shimogamo",
+    "country": "JP",
+    "lat": 34.86223,
+    "lng": 133.81175
+  },
+  {
+    "name": "Shimodate",
+    "country": "JP",
+    "lat": 36.3,
+    "lng": 139.98333
+  },
+  {
+    "name": "Shimoda",
+    "country": "JP",
+    "lat": 34.67652,
+    "lng": 138.94456
+  },
+  {
+    "name": "Shimoda",
+    "country": "JP",
+    "lat": 32.94584,
+    "lng": 132.98635
+  },
+  {
+    "name": "Shimobuchi",
+    "country": "JP",
+    "lat": 34.38617,
+    "lng": 135.7871
+  },
+  {
+    "name": "Shimada",
+    "country": "JP",
+    "lat": 34.81667,
+    "lng": 138.18333
+  },
+  {
+    "name": "Shimabara",
+    "country": "JP",
+    "lat": 32.78333,
+    "lng": 130.36667
+  },
+  {
+    "name": "Shima",
+    "country": "JP",
+    "lat": 34.33333,
+    "lng": 136.83333
+  },
+  {
+    "name": "Shikinejima",
+    "country": "JP",
+    "lat": 34.32713,
+    "lng": 139.21823
+  },
+  {
+    "name": "Shiki",
+    "country": "JP",
+    "lat": 35.83333,
+    "lng": 139.58333
+  },
+  {
+    "name": "Shiida",
+    "country": "JP",
+    "lat": 33.65341,
+    "lng": 131.05797
+  },
+  {
+    "name": "Shido",
+    "country": "JP",
+    "lat": 34.32333,
+    "lng": 134.17333
+  },
+  {
+    "name": "Shichijō",
+    "country": "JP",
+    "lat": 34.11945,
+    "lng": 134.40556
+  },
+  {
+    "name": "Shibushi",
+    "country": "JP",
+    "lat": 31.476,
+    "lng": 131.10114
+  },
+  {
+    "name": "Shibukawa",
+    "country": "JP",
+    "lat": 36.48333,
+    "lng": 139.0
+  },
+  {
+    "name": "Shibata",
+    "country": "JP",
+    "lat": 37.95,
+    "lng": 139.33333
+  },
+  {
+    "name": "Shinbashi",
+    "country": "JP",
+    "lat": 35.6638,
+    "lng": 139.75517
+  },
+  {
+    "name": "Shimotoda",
+    "country": "JP",
+    "lat": 35.815,
+    "lng": 139.6853
+  },
+  {
+    "name": "Shōbudahama",
+    "country": "JP",
+    "lat": 38.28443,
+    "lng": 141.06167
+  },
+  {
+    "name": "Shizukuishi",
+    "country": "JP",
+    "lat": 39.69414,
+    "lng": 140.98442
+  },
+  {
+    "name": "Shisui",
+    "country": "JP",
+    "lat": 35.71667,
+    "lng": 140.26667
+  },
+  {
+    "name": "Shiroishi",
+    "country": "JP",
+    "lat": 38.00333,
+    "lng": 140.61833
+  },
+  {
+    "name": "Shiroi",
+    "country": "JP",
+    "lat": 35.8,
+    "lng": 140.06667
+  },
+  {
+    "name": "Shiogama",
+    "country": "JP",
+    "lat": 38.31667,
+    "lng": 141.03333
+  },
+  {
+    "name": "Shinjō",
+    "country": "JP",
+    "lat": 38.75861,
+    "lng": 140.30083
+  },
+  {
+    "name": "Shimokawauchi",
+    "country": "JP",
+    "lat": 37.33333,
+    "lng": 140.83333
+  },
+  {
+    "name": "Shinmachi",
+    "country": "JP",
+    "lat": 35.18738,
+    "lng": 140.35792
+  },
+  {
+    "name": "Shimizu",
+    "country": "JP",
+    "lat": 38.70361,
+    "lng": 140.22556
+  },
+  {
+    "name": "Shikama",
+    "country": "JP",
+    "lat": 38.54794,
+    "lng": 140.85699
+  },
+  {
+    "name": "Shibayama",
+    "country": "JP",
+    "lat": 35.68333,
+    "lng": 140.43333
+  },
+  {
+    "name": "Shosanbetsu",
+    "country": "JP",
+    "lat": 44.53361,
+    "lng": 141.76972
+  },
+  {
+    "name": "Shizunai-furukawachō",
+    "country": "JP",
+    "lat": 42.33389,
+    "lng": 142.36694
+  },
+  {
+    "name": "Shiraoi",
+    "country": "JP",
+    "lat": 42.55,
+    "lng": 141.35
+  },
+  {
+    "name": "Shiranuka",
+    "country": "JP",
+    "lat": 42.96286,
+    "lng": 144.08897
+  },
+  {
+    "name": "Shintoku",
+    "country": "JP",
+    "lat": 43.07472,
+    "lng": 142.83472
+  },
+  {
+    "name": "Shimukappu",
+    "country": "JP",
+    "lat": 43.0,
+    "lng": 142.41667
+  },
+  {
+    "name": "Shinshimokawa",
+    "country": "JP",
+    "lat": 44.24489,
+    "lng": 142.67738
+  },
+  {
+    "name": "Shimo-furano",
+    "country": "JP",
+    "lat": 43.35,
+    "lng": 142.38333
+  },
+  {
+    "name": "Shimizu",
+    "country": "JP",
+    "lat": 43.00611,
+    "lng": 142.88472
+  },
+  {
+    "name": "Shikabe",
+    "country": "JP",
+    "lat": 42.02967,
+    "lng": 140.82282
+  },
+  {
+    "name": "Shihoro",
+    "country": "JP",
+    "lat": 43.16667,
+    "lng": 143.25
+  },
+  {
+    "name": "Shichinohe",
+    "country": "JP",
+    "lat": 40.69111,
+    "lng": 141.15472
+  },
+  {
+    "name": "Shibetsu",
+    "country": "JP",
+    "lat": 43.65899,
+    "lng": 145.13197
+  },
+  {
+    "name": "Shibecha",
+    "country": "JP",
+    "lat": 43.27836,
+    "lng": 144.56313
+  },
+  {
+    "name": "Shimokizukuri",
+    "country": "JP",
+    "lat": 40.81609,
+    "lng": 140.37539
+  },
+  {
+    "name": "Shintomi",
+    "country": "JP",
+    "lat": 32.06317,
+    "lng": 131.48693
+  },
+  {
+    "name": "Shimotsuke",
+    "country": "JP",
+    "lat": 36.41323,
+    "lng": 139.86622
+  },
+  {
+    "name": "Shijōnawate",
+    "country": "JP",
+    "lat": 34.73333,
+    "lng": 135.68333
+  },
+  {
+    "name": "Shibayama",
+    "country": "JP",
+    "lat": 40.61199,
+    "lng": 141.33496
+  },
+  {
+    "name": "Shirasawa",
+    "country": "JP",
+    "lat": 40.59012,
+    "lng": 140.28395
+  },
+  {
+    "name": "Shimogotō",
+    "country": "JP",
+    "lat": 40.49218,
+    "lng": 141.17573
+  },
+  {
+    "name": "Shinden",
+    "country": "JP",
+    "lat": 35.99971,
+    "lng": 139.62486
+  },
+  {
+    "name": "Shimura",
+    "country": "JP",
+    "lat": 35.77596,
+    "lng": 139.69037
+  },
+  {
+    "name": "Shimoigusa",
+    "country": "JP",
+    "lat": 35.72147,
+    "lng": 139.62196
+  },
+  {
+    "name": "Shimomatsumoto",
+    "country": "JP",
+    "lat": 37.25312,
+    "lng": 140.24231
+  },
+  {
+    "name": "Shimonakatsukawa",
+    "country": "JP",
+    "lat": 37.33731,
+    "lng": 139.60694
+  },
+  {
+    "name": "Shikitsu",
+    "country": "JP",
+    "lat": 34.51244,
+    "lng": 136.2029
+  },
+  {
+    "name": "Shiromoto",
+    "country": "JP",
+    "lat": 31.24082,
+    "lng": 130.78855
+  },
+  {
+    "name": "Shonai",
+    "country": "JP",
+    "lat": 38.84846,
+    "lng": 139.90308
+  },
+  {
+    "name": "Shibakōen",
+    "country": "JP",
+    "lat": 35.65775,
+    "lng": 139.7476
+  },
+  {
+    "name": "Shimo’ochiai",
+    "country": "JP",
+    "lat": 35.72018,
+    "lng": 139.702
+  },
+  {
+    "name": "Shinkoyasu",
+    "country": "JP",
+    "lat": 35.4904,
+    "lng": 139.65501
+  },
+  {
+    "name": "Shimada",
+    "country": "JP",
+    "lat": 32.75684,
+    "lng": 130.79043
+  },
+  {
+    "name": "Shimonoseki",
+    "country": "JP",
+    "lat": 34.16736,
+    "lng": 131.00012
+  },
+  {
+    "name": "Shikaoi",
+    "country": "JP",
+    "lat": 43.10474,
+    "lng": 142.99873
+  },
+  {
+    "name": "Shimanto",
+    "country": "JP",
+    "lat": 33.07831,
+    "lng": 132.85234
+  },
+  {
+    "name": "Shikokuchūō",
+    "country": "JP",
+    "lat": 33.9754,
+    "lng": 133.54895
+  },
+  {
+    "name": "Shirakawa",
+    "country": "JP",
+    "lat": 37.11954,
+    "lng": 140.26211
+  },
+  {
+    "name": "Shibetsu",
+    "country": "JP",
+    "lat": 44.17137,
+    "lng": 142.39517
+  },
+  {
+    "name": "Shisō",
+    "country": "JP",
+    "lat": 34.98107,
+    "lng": 134.56398
+  },
+  {
+    "name": "Shūnan",
+    "country": "JP",
+    "lat": 34.08053,
+    "lng": 131.82564
+  },
+  {
+    "name": "Shioiri",
+    "country": "JP",
+    "lat": 34.15607,
+    "lng": 133.8515
+  },
+  {
+    "name": "Shinjuku",
+    "country": "JP",
+    "lat": 35.69115,
+    "lng": 139.70854
+  },
+  {
+    "name": "Shibuya",
+    "country": "JP",
+    "lat": 35.6589,
+    "lng": 139.70665
+  },
+  {
+    "name": "Shime",
+    "country": "JP",
+    "lat": 33.58699,
+    "lng": 130.48676
+  },
+  {
+    "name": "Shība",
+    "country": "JP",
+    "lat": 32.46672,
+    "lng": 131.15754
+  },
+  {
+    "name": "Shimojō",
+    "country": "JP",
+    "lat": 35.39742,
+    "lng": 137.78605
+  },
+  {
+    "name": "Shōwa",
+    "country": "JP",
+    "lat": 35.62792,
+    "lng": 138.53514
+  },
+  {
+    "name": "Shimoni",
+    "country": "KE",
+    "lat": -4.64756,
+    "lng": 39.38175
+  },
+  {
+    "name": "Shianda",
+    "country": "KE",
+    "lat": 0.31943,
+    "lng": 34.57352
+  },
+  {
+    "name": "Shubarshi",
+    "country": "KZ",
+    "lat": 48.58022,
+    "lng": 57.18289
+  },
+  {
+    "name": "Shubarkuduk",
+    "country": "KZ",
+    "lat": 49.14391,
+    "lng": 56.48196
+  },
+  {
+    "name": "Shetpe",
+    "country": "KZ",
+    "lat": 44.13922,
+    "lng": 52.15305
+  },
+  {
+    "name": "Shalqar",
+    "country": "KZ",
+    "lat": 47.83154,
+    "lng": 59.61926
+  },
+  {
+    "name": "Shalkar",
+    "country": "KZ",
+    "lat": 48.03333,
+    "lng": 48.9
+  },
+  {
+    "name": "Shyngyrlau",
+    "country": "KZ",
+    "lat": 51.09959,
+    "lng": 54.08412
+  },
+  {
+    "name": "Shevchenko",
+    "country": "KZ",
+    "lat": 43.66105,
+    "lng": 51.17392
+  },
+  {
+    "name": "Shymkent",
+    "country": "KZ",
+    "lat": 42.30988,
+    "lng": 69.60042
+  },
+  {
+    "name": "Shu",
+    "country": "KZ",
+    "lat": 43.60507,
+    "lng": 73.76221
+  },
+  {
+    "name": "Shortandy",
+    "country": "KZ",
+    "lat": 51.69934,
+    "lng": 70.99129
+  },
+  {
+    "name": "Shemonaikha",
+    "country": "KZ",
+    "lat": 50.62899,
+    "lng": 81.91092
+  },
+  {
+    "name": "Shchuchinsk",
+    "country": "KZ",
+    "lat": 52.93592,
+    "lng": 70.18895
+  },
+  {
+    "name": "Sharbaqty",
+    "country": "KZ",
+    "lat": 52.49087,
+    "lng": 78.15556
+  },
+  {
+    "name": "Shaul’der",
+    "country": "KZ",
+    "lat": 42.79097,
+    "lng": 68.37172
+  },
+  {
+    "name": "Shar",
+    "country": "KZ",
+    "lat": 49.5872,
+    "lng": 81.04883
+  },
+  {
+    "name": "Shantobe",
+    "country": "KZ",
+    "lat": 52.45376,
+    "lng": 68.17475
+  },
+  {
+    "name": "Shakhtinsk",
+    "country": "KZ",
+    "lat": 49.70713,
+    "lng": 72.59321
+  },
+  {
+    "name": "Shakhan",
+    "country": "KZ",
+    "lat": 49.81958,
+    "lng": 72.65407
+  },
+  {
+    "name": "Sholakkorgan",
+    "country": "KZ",
+    "lat": 43.76453,
+    "lng": 69.17856
+  },
+  {
+    "name": "Shiyeli",
+    "country": "KZ",
+    "lat": 44.17057,
+    "lng": 66.73376
+  },
+  {
+    "name": "Shayan",
+    "country": "KZ",
+    "lat": 43.03399,
+    "lng": 69.38048
+  },
+  {
+    "name": "Shardara",
+    "country": "KZ",
+    "lat": 41.25832,
+    "lng": 67.96991
+  },
+  {
+    "name": "Shalqīya",
+    "country": "KZ",
+    "lat": 44.00947,
+    "lng": 67.41062
+  },
+  {
+    "name": "Shubarköl",
+    "country": "KZ",
+    "lat": 48.88222,
+    "lng": 68.80722
+  },
+  {
+    "name": "Shahhat",
+    "country": "LY",
+    "lat": 32.8043,
+    "lng": 21.86605
+  },
+  {
+    "name": "Shtip",
+    "country": "MK",
+    "lat": 41.74583,
+    "lng": 22.19583
+  },
+  {
+    "name": "Shwegyin",
+    "country": "MM",
+    "lat": 17.92118,
+    "lng": 96.87676
+  },
+  {
+    "name": "Shwegu",
+    "country": "MM",
+    "lat": 24.22673,
+    "lng": 96.79085
+  },
+  {
+    "name": "Shwebo",
+    "country": "MM",
+    "lat": 22.56925,
+    "lng": 95.69818
+  },
+  {
+    "name": "Shiree",
+    "country": "MN",
+    "lat": 47.49714,
+    "lng": 96.80311
+  },
+  {
+    "name": "Sharga",
+    "country": "MN",
+    "lat": 49.8,
+    "lng": 98.8
+  },
+  {
+    "name": "Sharga",
+    "country": "MN",
+    "lat": 46.25,
+    "lng": 95.26667
+  },
+  {
+    "name": "Sharbulag",
+    "country": "MN",
+    "lat": 48.81667,
+    "lng": 93.1
+  },
+  {
+    "name": "Shireet",
+    "country": "MN",
+    "lat": 45.72727,
+    "lng": 112.35563
+  },
+  {
+    "name": "Shiree",
+    "country": "MN",
+    "lat": 45.85,
+    "lng": 103.4
+  },
+  {
+    "name": "Sharïngol",
+    "country": "MN",
+    "lat": 49.23733,
+    "lng": 106.43005
+  },
+  {
+    "name": "Sharhulsan",
+    "country": "MN",
+    "lat": 44.65,
+    "lng": 104.05
+  },
+  {
+    "name": "Sharga",
+    "country": "MN",
+    "lat": 49.04192,
+    "lng": 102.08925
+  },
+  {
+    "name": "Shiveegovĭ",
+    "country": "MN",
+    "lat": 46.10558,
+    "lng": 108.62061
+  },
+  {
+    "name": "Shoctic",
+    "country": "MX",
+    "lat": 17.22361,
+    "lng": -92.48806
+  },
+  {
+    "name": "Shah Alam",
+    "country": "MY",
+    "lat": 3.08507,
+    "lng": 101.53281
+  },
+  {
+    "name": "Shomolu",
+    "country": "NG",
+    "lat": 6.53891,
+    "lng": 3.3742
+  },
+  {
+    "name": "Shinkafi",
+    "country": "NG",
+    "lat": 13.07296,
+    "lng": 6.50574
+  },
+  {
+    "name": "Shendam",
+    "country": "NG",
+    "lat": 8.87866,
+    "lng": 9.53464
+  },
+  {
+    "name": "Shelleng",
+    "country": "NG",
+    "lat": 9.89647,
+    "lng": 12.00572
+  },
+  {
+    "name": "Share",
+    "country": "NG",
+    "lat": 8.82329,
+    "lng": 4.97637
+  },
+  {
+    "name": "Shanono",
+    "country": "NG",
+    "lat": 12.05154,
+    "lng": 7.992
+  },
+  {
+    "name": "Shani",
+    "country": "NG",
+    "lat": 10.21824,
+    "lng": 12.06059
+  },
+  {
+    "name": "Shanga",
+    "country": "NG",
+    "lat": 11.21374,
+    "lng": 4.57941
+  },
+  {
+    "name": "Shagari",
+    "country": "NG",
+    "lat": 12.62727,
+    "lng": 4.99295
+  },
+  {
+    "name": "Shagamu",
+    "country": "NG",
+    "lat": 6.8485,
+    "lng": 3.64633
+  },
+  {
+    "name": "Shaffa",
+    "country": "NG",
+    "lat": 10.50673,
+    "lng": 12.33315
+  },
+  {
+    "name": "Shiel Hill",
+    "country": "NZ",
+    "lat": -45.88838,
+    "lng": 170.5301
+  },
+  {
+    "name": "Shirley",
+    "country": "NZ",
+    "lat": -43.49833,
+    "lng": 172.65013
+  },
+  {
+    "name": "Shannon",
+    "country": "NZ",
+    "lat": -40.54826,
+    "lng": 175.42021
+  },
+  {
+    "name": "Shelly Park",
+    "country": "NZ",
+    "lat": -36.90749,
+    "lng": 174.9459
+  },
+  {
+    "name": "Shināş",
+    "country": "OM",
+    "lat": 24.7426,
+    "lng": 56.46698
+  },
+  {
+    "name": "Shupluy",
+    "country": "PE",
+    "lat": -9.21682,
+    "lng": -77.6937
+  },
+  {
+    "name": "Shunqui",
+    "country": "PE",
+    "lat": -9.73137,
+    "lng": -76.78345
+  },
+  {
+    "name": "Shucushuyacu",
+    "country": "PE",
+    "lat": -6.01667,
+    "lng": -75.85
+  },
+  {
+    "name": "Shirac",
+    "country": "PE",
+    "lat": -7.34924,
+    "lng": -78.04782
+  },
+  {
+    "name": "Shilla",
+    "country": "PE",
+    "lat": -9.23073,
+    "lng": -77.62572
+  },
+  {
+    "name": "Shapaja",
+    "country": "PE",
+    "lat": -6.57972,
+    "lng": -76.26278
+  },
+  {
+    "name": "Shamboyacu",
+    "country": "PE",
+    "lat": -7.02308,
+    "lng": -76.13298
+  },
+  {
+    "name": "Shatoja",
+    "country": "PE",
+    "lat": -6.52821,
+    "lng": -76.71823
+  },
+  {
+    "name": "Shujaabad",
+    "country": "PK",
+    "lat": 29.88092,
+    "lng": 71.29344
+  },
+  {
+    "name": "Shorkot",
+    "country": "PK",
+    "lat": 31.91023,
+    "lng": 70.87757
+  },
+  {
+    "name": "Shinpokh",
+    "country": "PK",
+    "lat": 34.32959,
+    "lng": 71.17852
+  },
+  {
+    "name": "Shikarpur",
+    "country": "PK",
+    "lat": 27.95558,
+    "lng": 68.63823
+  },
+  {
+    "name": "Shigar",
+    "country": "PK",
+    "lat": 35.42376,
+    "lng": 75.73911
+  },
+  {
+    "name": "Shekhupura",
+    "country": "PK",
+    "lat": 31.71287,
+    "lng": 73.98556
+  },
+  {
+    "name": "Sharqpur Sharif",
+    "country": "PK",
+    "lat": 31.46116,
+    "lng": 74.10091
+  },
+  {
+    "name": "Shakargarh",
+    "country": "PK",
+    "lat": 32.26361,
+    "lng": 75.16008
+  },
+  {
+    "name": "Shahr Sultan",
+    "country": "PK",
+    "lat": 29.57517,
+    "lng": 71.02209
+  },
+  {
+    "name": "Shahpur Chakar",
+    "country": "PK",
+    "lat": 26.15411,
+    "lng": 68.65013
+  },
+  {
+    "name": "Shahpur",
+    "country": "PK",
+    "lat": 32.2682,
+    "lng": 72.46884
+  },
+  {
+    "name": "Shahkot",
+    "country": "PK",
+    "lat": 31.5709,
+    "lng": 73.48531
+  },
+  {
+    "name": "Shahdadpur",
+    "country": "PK",
+    "lat": 25.92539,
+    "lng": 68.6228
+  },
+  {
+    "name": "Shahdad Kot",
+    "country": "PK",
+    "lat": 27.84726,
+    "lng": 67.90679
+  },
+  {
+    "name": "Shabqadar",
+    "country": "PK",
+    "lat": 34.21599,
+    "lng": 71.5548
+  },
+  {
+    "name": "Shooli Bazar",
+    "country": "PK",
+    "lat": 25.56831,
+    "lng": 62.14419
+  },
+  {
+    "name": "Shingli Bala",
+    "country": "PK",
+    "lat": 34.67872,
+    "lng": 72.98491
+  },
+  {
+    "name": "Shūkat aş Şūfī",
+    "country": "PS",
+    "lat": 31.25997,
+    "lng": 34.2826
+  },
+  {
+    "name": "Shuqbā",
+    "country": "PS",
+    "lat": 31.98695,
+    "lng": 35.04012
+  },
+  {
+    "name": "Shūfah",
+    "country": "PS",
+    "lat": 32.27551,
+    "lng": 35.08135
+  },
+  {
+    "name": "Shuyūkh al ‘Arrūb",
+    "country": "PS",
+    "lat": 31.61735,
+    "lng": 35.14366
+  },
+  {
+    "name": "Shokat as-Sufi",
+    "country": "PS",
+    "lat": 31.25864,
+    "lng": 34.28244
+  },
+  {
+    "name": "Shatoy",
+    "country": "RU",
+    "lat": 42.87153,
+    "lng": 45.69092
+  },
+  {
+    "name": "Shvartsevskiy",
+    "country": "RU",
+    "lat": 54.09174,
+    "lng": 37.99053
+  },
+  {
+    "name": "Shuyskoye",
+    "country": "RU",
+    "lat": 59.37356,
+    "lng": 41.03047
+  },
+  {
+    "name": "Shuya",
+    "country": "RU",
+    "lat": 61.95251,
+    "lng": 34.23271
+  },
+  {
+    "name": "Shuya",
+    "country": "RU",
+    "lat": 56.84864,
+    "lng": 41.3869
+  },
+  {
+    "name": "Shuvalovo",
+    "country": "RU",
+    "lat": 60.047,
+    "lng": 30.3
+  },
+  {
+    "name": "Shushary",
+    "country": "RU",
+    "lat": 59.80917,
+    "lng": 30.38167
+  },
+  {
+    "name": "Shun’ga",
+    "country": "RU",
+    "lat": 62.60263,
+    "lng": 34.9468
+  },
+  {
+    "name": "Shumyachi",
+    "country": "RU",
+    "lat": 53.8578,
+    "lng": 32.42551
+  },
+  {
+    "name": "Shumikhinskiy",
+    "country": "RU",
+    "lat": 58.7448,
+    "lng": 57.6926
+  },
+  {
+    "name": "Shumeyka",
+    "country": "RU",
+    "lat": 51.56361,
+    "lng": 46.24833
+  },
+  {
+    "name": "Shumerlya",
+    "country": "RU",
+    "lat": 55.5005,
+    "lng": 46.41288
+  },
+  {
+    "name": "Shugurovo",
+    "country": "RU",
+    "lat": 54.50828,
+    "lng": 52.13265
+  },
+  {
+    "name": "Shudayag",
+    "country": "RU",
+    "lat": 63.52665,
+    "lng": 53.60582
+  },
+  {
+    "name": "Shovgenovskiy",
+    "country": "RU",
+    "lat": 45.01887,
+    "lng": 40.22585
+  },
+  {
+    "name": "Shonguy",
+    "country": "RU",
+    "lat": 68.75261,
+    "lng": 33.14595
+  },
+  {
+    "name": "Sholokhovskiy",
+    "country": "RU",
+    "lat": 48.28071,
+    "lng": 41.04592
+  },
+  {
+    "name": "Shlissel’burg",
+    "country": "RU",
+    "lat": 59.9473,
+    "lng": 31.03845
+  },
+  {
+    "name": "Shkurinskaya",
+    "country": "RU",
+    "lat": 46.5858,
+    "lng": 39.3599
+  },
+  {
+    "name": "Shirokovskiy",
+    "country": "RU",
+    "lat": 58.8411,
+    "lng": 57.785
+  },
+  {
+    "name": "Shirochanka",
+    "country": "RU",
+    "lat": 46.65616,
+    "lng": 38.33676
+  },
+  {
+    "name": "Shiringushi",
+    "country": "RU",
+    "lat": 53.84851,
+    "lng": 42.76759
+  },
+  {
+    "name": "Shipitsyno",
+    "country": "RU",
+    "lat": 61.28056,
+    "lng": 46.52083
+  },
+  {
+    "name": "Shimsk",
+    "country": "RU",
+    "lat": 58.20997,
+    "lng": 30.7179
+  },
+  {
+    "name": "Shimorskoye",
+    "country": "RU",
+    "lat": 55.3281,
+    "lng": 42.0256
+  },
+  {
+    "name": "Shilovo",
+    "country": "RU",
+    "lat": 54.32005,
+    "lng": 40.87958
+  },
+  {
+    "name": "Shil’da",
+    "country": "RU",
+    "lat": 51.8143,
+    "lng": 59.7744
+  },
+  {
+    "name": "Shikhazany",
+    "country": "RU",
+    "lat": 55.56047,
+    "lng": 47.39297
+  },
+  {
+    "name": "Shikhany",
+    "country": "RU",
+    "lat": 52.11614,
+    "lng": 47.19898
+  },
+  {
+    "name": "Shigony",
+    "country": "RU",
+    "lat": 53.38621,
+    "lng": 48.67405
+  },
+  {
+    "name": "Sheremet’yevskiy",
+    "country": "RU",
+    "lat": 55.97583,
+    "lng": 37.49417
+  },
+  {
+    "name": "Shepsi",
+    "country": "RU",
+    "lat": 44.0355,
+    "lng": 39.1474
+  },
+  {
+    "name": "Shentala",
+    "country": "RU",
+    "lat": 54.43354,
+    "lng": 51.46625
+  },
+  {
+    "name": "Shenkursk",
+    "country": "RU",
+    "lat": 62.10896,
+    "lng": 42.90065
+  },
+  {
+    "name": "Shemysheyka",
+    "country": "RU",
+    "lat": 52.89196,
+    "lng": 45.39282
+  },
+  {
+    "name": "Shemursha",
+    "country": "RU",
+    "lat": 54.88663,
+    "lng": 47.51893
+  },
+  {
+    "name": "Shemordan",
+    "country": "RU",
+    "lat": 56.1856,
+    "lng": 50.3972
+  },
+  {
+    "name": "Shemëtovo",
+    "country": "RU",
+    "lat": 56.52764,
+    "lng": 38.07518
+  },
+  {
+    "name": "Sheltozero",
+    "country": "RU",
+    "lat": 61.36667,
+    "lng": 35.36667
+  },
+  {
+    "name": "Shelkovskaya",
+    "country": "RU",
+    "lat": 43.50774,
+    "lng": 46.33622
+  },
+  {
+    "name": "Sheksna",
+    "country": "RU",
+    "lat": 59.20998,
+    "lng": 38.51066
+  },
+  {
+    "name": "Shedok",
+    "country": "RU",
+    "lat": 44.2179,
+    "lng": 40.8487
+  },
+  {
+    "name": "Shebekino",
+    "country": "RU",
+    "lat": 50.41342,
+    "lng": 36.92537
+  },
+  {
+    "name": "Shchukino",
+    "country": "RU",
+    "lat": 55.8,
+    "lng": 37.45
+  },
+  {
+    "name": "Shchigry",
+    "country": "RU",
+    "lat": 51.87598,
+    "lng": 36.90535
+  },
+  {
+    "name": "Shcherbinka",
+    "country": "RU",
+    "lat": 55.49972,
+    "lng": 37.55972
+  },
+  {
+    "name": "Shchyolkovo",
+    "country": "RU",
+    "lat": 55.92497,
+    "lng": 37.97218
+  },
+  {
+    "name": "Shchëkino",
+    "country": "RU",
+    "lat": 54.00734,
+    "lng": 37.50647
+  },
+  {
+    "name": "Shcheglovo",
+    "country": "RU",
+    "lat": 60.02839,
+    "lng": 30.75289
+  },
+  {
+    "name": "Shaturtorf",
+    "country": "RU",
+    "lat": 55.56711,
+    "lng": 39.42129
+  },
+  {
+    "name": "Shatura",
+    "country": "RU",
+    "lat": 55.57259,
+    "lng": 39.53417
+  },
+  {
+    "name": "Shatsk",
+    "country": "RU",
+    "lat": 54.02369,
+    "lng": 41.71699
+  },
+  {
+    "name": "Shatki",
+    "country": "RU",
+    "lat": 55.18774,
+    "lng": 44.12071
+  },
+  {
+    "name": "Shatalovo",
+    "country": "RU",
+    "lat": 54.334,
+    "lng": 32.4465
+  },
+  {
+    "name": "Shar’ya",
+    "country": "RU",
+    "lat": 58.36848,
+    "lng": 45.51622
+  },
+  {
+    "name": "Sharlyk",
+    "country": "RU",
+    "lat": 52.92596,
+    "lng": 54.74091
+  },
+  {
+    "name": "Sharkan",
+    "country": "RU",
+    "lat": 57.29885,
+    "lng": 53.87122
+  },
+  {
+    "name": "Sharanga",
+    "country": "RU",
+    "lat": 57.17704,
+    "lng": 46.538
+  },
+  {
+    "name": "Sharan",
+    "country": "RU",
+    "lat": 54.82106,
+    "lng": 53.99223
+  },
+  {
+    "name": "Shangaly",
+    "country": "RU",
+    "lat": 61.12842,
+    "lng": 43.33427
+  },
+  {
+    "name": "Shamkhal-Termen",
+    "country": "RU",
+    "lat": 43.03389,
+    "lng": 47.31053
+  },
+  {
+    "name": "Shamkhal",
+    "country": "RU",
+    "lat": 43.05958,
+    "lng": 47.33732
+  },
+  {
+    "name": "Shamary",
+    "country": "RU",
+    "lat": 57.3434,
+    "lng": 58.21988
+  },
+  {
+    "name": "Shalya",
+    "country": "RU",
+    "lat": 57.2471,
+    "lng": 58.7298
+  },
+  {
+    "name": "Shalushka",
+    "country": "RU",
+    "lat": 43.5325,
+    "lng": 43.56611
+  },
+  {
+    "name": "Shal’skiy",
+    "country": "RU",
+    "lat": 61.79698,
+    "lng": 36.0168
+  },
+  {
+    "name": "Shali",
+    "country": "RU",
+    "lat": 43.14806,
+    "lng": 45.90194
+  },
+  {
+    "name": "Shalazhi",
+    "country": "RU",
+    "lat": 43.09476,
+    "lng": 45.35898
+  },
+  {
+    "name": "Shalakusha",
+    "country": "RU",
+    "lat": 62.22472,
+    "lng": 40.25389
+  },
+  {
+    "name": "Shakhun’ya",
+    "country": "RU",
+    "lat": 57.67603,
+    "lng": 46.61171
+  },
+  {
+    "name": "Shakhty",
+    "country": "RU",
+    "lat": 47.71916,
+    "lng": 40.21603
+  },
+  {
+    "name": "Shakhta",
+    "country": "RU",
+    "lat": 59.0905,
+    "lng": 57.6575
+  },
+  {
+    "name": "Shakhovskaya",
+    "country": "RU",
+    "lat": 56.03082,
+    "lng": 35.50638
+  },
+  {
+    "name": "Shafranovo",
+    "country": "RU",
+    "lat": 53.96667,
+    "lng": 54.76667
+  },
+  {
+    "name": "Shaburnovo",
+    "country": "RU",
+    "lat": 56.55,
+    "lng": 37.93333
+  },
+  {
+    "name": "Shablykino",
+    "country": "RU",
+    "lat": 52.85639,
+    "lng": 35.19746
+  },
+  {
+    "name": "Shabel’skoye",
+    "country": "RU",
+    "lat": 46.85275,
+    "lng": 38.47278
+  },
+  {
+    "name": "Shaami-Yurt",
+    "country": "RU",
+    "lat": 43.22647,
+    "lng": 45.38815
+  },
+  {
+    "name": "Shamil’kala",
+    "country": "RU",
+    "lat": 42.6871,
+    "lng": 46.86845
+  },
+  {
+    "name": "Shushenskoye",
+    "country": "RU",
+    "lat": 53.32361,
+    "lng": 91.93614
+  },
+  {
+    "name": "Shumskiy",
+    "country": "RU",
+    "lat": 54.8318,
+    "lng": 99.1328
+  },
+  {
+    "name": "Shumikha",
+    "country": "RU",
+    "lat": 55.22874,
+    "lng": 63.28552
+  },
+  {
+    "name": "Shul’gin Log",
+    "country": "RU",
+    "lat": 52.16985,
+    "lng": 85.85573
+  },
+  {
+    "name": "Shubenka",
+    "country": "RU",
+    "lat": 52.6551,
+    "lng": 85.09858
+  },
+  {
+    "name": "Shitkino",
+    "country": "RU",
+    "lat": 56.3703,
+    "lng": 98.3543
+  },
+  {
+    "name": "Shirokaya Rechka",
+    "country": "RU",
+    "lat": 56.79858,
+    "lng": 60.48522
+  },
+  {
+    "name": "Shira",
+    "country": "RU",
+    "lat": 54.49384,
+    "lng": 89.97046
+  },
+  {
+    "name": "Shipunovo",
+    "country": "RU",
+    "lat": 52.21731,
+    "lng": 82.26747
+  },
+  {
+    "name": "Sherkaly",
+    "country": "RU",
+    "lat": 62.75806,
+    "lng": 65.47528
+  },
+  {
+    "name": "Sheregesh",
+    "country": "RU",
+    "lat": 52.9209,
+    "lng": 87.9869
+  },
+  {
+    "name": "Sherbakul’",
+    "country": "RU",
+    "lat": 54.63084,
+    "lng": 72.39675
+  },
+  {
+    "name": "Shelabolikha",
+    "country": "RU",
+    "lat": 53.41503,
+    "lng": 82.61262
+  },
+  {
+    "name": "Sheberta",
+    "country": "RU",
+    "lat": 54.64178,
+    "lng": 99.89209
+  },
+  {
+    "name": "Shebalino",
+    "country": "RU",
+    "lat": 51.29507,
+    "lng": 85.67751
+  },
+  {
+    "name": "Shchuch’ye",
+    "country": "RU",
+    "lat": 55.2088,
+    "lng": 62.74791
+  },
+  {
+    "name": "Shchelkun",
+    "country": "RU",
+    "lat": 56.30338,
+    "lng": 60.94831
+  },
+  {
+    "name": "Shatrovo",
+    "country": "RU",
+    "lat": 56.51976,
+    "lng": 64.63304
+  },
+  {
+    "name": "Sharypovo",
+    "country": "RU",
+    "lat": 55.54004,
+    "lng": 89.20062
+  },
+  {
+    "name": "Shalinskoye",
+    "country": "RU",
+    "lat": 55.71739,
+    "lng": 93.75167
+  },
+  {
+    "name": "Shakhi",
+    "country": "RU",
+    "lat": 53.3361,
+    "lng": 83.3624
+  },
+  {
+    "name": "Shagonar",
+    "country": "RU",
+    "lat": 51.534,
+    "lng": 92.93164
+  },
+  {
+    "name": "Shadrinsk",
+    "country": "RU",
+    "lat": 56.08616,
+    "lng": 63.63816
+  },
+  {
+    "name": "Shabrovskiy",
+    "country": "RU",
+    "lat": 56.63597,
+    "lng": 60.58065
+  },
+  {
+    "name": "Shchuch’ye",
+    "country": "RU",
+    "lat": 55.36361,
+    "lng": 66.0925
+  },
+  {
+    "name": "Shuvakish",
+    "country": "RU",
+    "lat": 56.9187,
+    "lng": 60.47727
+  },
+  {
+    "name": "Shtykovo",
+    "country": "RU",
+    "lat": 43.3884,
+    "lng": 132.36223
+  },
+  {
+    "name": "Shkotovo",
+    "country": "RU",
+    "lat": 43.32056,
+    "lng": 132.35439
+  },
+  {
+    "name": "Shirokiy",
+    "country": "RU",
+    "lat": 49.75729,
+    "lng": 129.51736
+  },
+  {
+    "name": "Shimanovsk",
+    "country": "RU",
+    "lat": 52.00318,
+    "lng": 127.67622
+  },
+  {
+    "name": "Shilka",
+    "country": "RU",
+    "lat": 51.85136,
+    "lng": 116.02854
+  },
+  {
+    "name": "Shestakovo",
+    "country": "RU",
+    "lat": 56.4915,
+    "lng": 103.96
+  },
+  {
+    "name": "Sherlovaya Gora",
+    "country": "RU",
+    "lat": 50.53378,
+    "lng": 116.31831
+  },
+  {
+    "name": "Sheragul",
+    "country": "RU",
+    "lat": 54.46243,
+    "lng": 100.90994
+  },
+  {
+    "name": "Shelopugino",
+    "country": "RU",
+    "lat": 51.64987,
+    "lng": 117.56428
+  },
+  {
+    "name": "Shelekhov",
+    "country": "RU",
+    "lat": 52.21591,
+    "lng": 104.09934
+  },
+  {
+    "name": "Sharalday",
+    "country": "RU",
+    "lat": 51.02528,
+    "lng": 107.64487
+  },
+  {
+    "name": "Shamanka",
+    "country": "RU",
+    "lat": 52.07235,
+    "lng": 103.82434
+  },
+  {
+    "name": "Shebunino",
+    "country": "RU",
+    "lat": 46.4301,
+    "lng": 141.85699
+  },
+  {
+    "name": "Shakhtërsk",
+    "country": "RU",
+    "lat": 49.16804,
+    "lng": 142.11571
+  },
+  {
+    "name": "Shishkin Les",
+    "country": "RU",
+    "lat": 55.41057,
+    "lng": 37.18853
+  },
+  {
+    "name": "Shikotan",
+    "country": "RU",
+    "lat": 43.79916,
+    "lng": 146.72164
+  },
+  {
+    "name": "Shevlyakovo",
+    "country": "RU",
+    "lat": 56.39733,
+    "lng": 36.85973
+  },
+  {
+    "name": "Shyorongi",
+    "country": "RW",
+    "lat": -1.85439,
+    "lng": 29.96238
+  },
+  {
+    "name": "Shangi",
+    "country": "RW",
+    "lat": -2.4036,
+    "lng": 29.0059
+  },
+  {
+    "name": "Shaqra",
+    "country": "SA",
+    "lat": 25.24019,
+    "lng": 45.25104
+  },
+  {
+    "name": "shokhaibٍ",
+    "country": "SA",
+    "lat": 24.49023,
+    "lng": 46.26871
+  },
+  {
+    "name": "Shendi",
+    "country": "SD",
+    "lat": 16.6915,
+    "lng": 33.4341
+  },
+  {
+    "name": "Sh'īarīah",
+    "country": "SD",
+    "lat": 12.43883,
+    "lng": 25.58112
+  },
+  {
+    "name": "Shuyūkh Taḩtānī",
+    "country": "SY",
+    "lat": 36.75059,
+    "lng": 38.07676
+  },
+  {
+    "name": "Shīn",
+    "country": "SY",
+    "lat": 34.77863,
+    "lng": 36.42366
+  },
+  {
+    "name": "Shaykh Miskīn",
+    "country": "SY",
+    "lat": 32.82666,
+    "lng": 36.16052
+  },
+  {
+    "name": "Shaykh al Ḩadīd",
+    "country": "SY",
+    "lat": 36.50069,
+    "lng": 36.59945
+  },
+  {
+    "name": "Shaţḩah",
+    "country": "SY",
+    "lat": 35.50509,
+    "lng": 36.24377
+  },
+  {
+    "name": "Sharān",
+    "country": "SY",
+    "lat": 36.62336,
+    "lng": 36.93659
+  },
+  {
+    "name": "Shaqqā",
+    "country": "SY",
+    "lat": 32.89773,
+    "lng": 36.69653
+  },
+  {
+    "name": "Shahbā",
+    "country": "SY",
+    "lat": 32.85237,
+    "lng": 36.62847
+  },
+  {
+    "name": "Shŭrobod",
+    "country": "TJ",
+    "lat": 37.84137,
+    "lng": 70.04865
+  },
+  {
+    "name": "Shahrinav",
+    "country": "TJ",
+    "lat": 38.57085,
+    "lng": 68.33498
+  },
+  {
+    "name": "Shahriston",
+    "country": "TJ",
+    "lat": 39.77447,
+    "lng": 68.80929
+  },
+  {
+    "name": "Shahritus",
+    "country": "TJ",
+    "lat": 37.26206,
+    "lng": 68.13849
+  },
+  {
+    "name": "Shŭrob",
+    "country": "TJ",
+    "lat": 40.04605,
+    "lng": 70.54117
+  },
+  {
+    "name": "Shaydon",
+    "country": "TJ",
+    "lat": 40.66992,
+    "lng": 70.3502
+  },
+  {
+    "name": "Shhriston",
+    "country": "TJ",
+    "lat": 38.55571,
+    "lng": 68.98987
+  },
+  {
+    "name": "Shatlyk",
+    "country": "TM",
+    "lat": 37.60724,
+    "lng": 61.59394
+  },
+  {
+    "name": "Shulin",
+    "country": "TW",
+    "lat": 24.99085,
+    "lng": 121.42199
+  },
+  {
+    "name": "Shiding",
+    "country": "TW",
+    "lat": 24.99301,
+    "lng": 121.65546
+  },
+  {
+    "name": "Shimen",
+    "country": "TW",
+    "lat": 25.29035,
+    "lng": 121.56623
+  },
+  {
+    "name": "Shetou",
+    "country": "TW",
+    "lat": 23.89804,
+    "lng": 120.58831
+  },
+  {
+    "name": "Shenzhen",
+    "country": "TW",
+    "lat": 24.95694,
+    "lng": 121.01222
+  },
+  {
+    "name": "Shanglin",
+    "country": "TW",
+    "lat": 24.42758,
+    "lng": 118.23046
+  },
+  {
+    "name": "Shangqi Village",
+    "country": "TW",
+    "lat": 24.41141,
+    "lng": 118.21638
+  },
+  {
+    "name": "Shirati",
+    "country": "TZ",
+    "lat": -1.13333,
+    "lng": 33.98333
+  },
+  {
+    "name": "Shinyanga",
+    "country": "TZ",
+    "lat": -3.66393,
+    "lng": 33.42118
+  },
+  {
+    "name": "Shelui",
+    "country": "TZ",
+    "lat": -4.36667,
+    "lng": 34.2
+  },
+  {
+    "name": "Shanwa",
+    "country": "TZ",
+    "lat": -3.16667,
+    "lng": 33.76667
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA",
+    "lat": 47.54366,
+    "lng": 32.52803
+  },
+  {
+    "name": "Shyshkivtsi",
+    "country": "UA",
+    "lat": 48.55048,
+    "lng": 25.63242
+  },
+  {
+    "name": "Shumsk",
+    "country": "UA",
+    "lat": 50.11775,
+    "lng": 26.11792
+  },
+  {
+    "name": "Shubranets",
+    "country": "UA",
+    "lat": 48.39552,
+    "lng": 25.88794
+  },
+  {
+    "name": "Shturmovoye",
+    "country": "UA",
+    "lat": 44.56767,
+    "lng": 33.62245
+  },
+  {
+    "name": "Shramkivka",
+    "country": "UA",
+    "lat": 50.13754,
+    "lng": 32.12572
+  },
+  {
+    "name": "Shpola",
+    "country": "UA",
+    "lat": 49.01291,
+    "lng": 31.3926
+  },
+  {
+    "name": "Shpykiv",
+    "country": "UA",
+    "lat": 48.78411,
+    "lng": 28.56359
+  },
+  {
+    "name": "Shostka",
+    "country": "UA",
+    "lat": 51.86296,
+    "lng": 33.4698
+  },
+  {
+    "name": "Sholokhove",
+    "country": "UA",
+    "lat": 47.69805,
+    "lng": 34.03347
+  },
+  {
+    "name": "Shklo",
+    "country": "UA",
+    "lat": 49.95675,
+    "lng": 23.54408
+  },
+  {
+    "name": "Shyshaky",
+    "country": "UA",
+    "lat": 49.87574,
+    "lng": 34.00645
+  },
+  {
+    "name": "Shyryayeve",
+    "country": "UA",
+    "lat": 47.38483,
+    "lng": 30.19065
+  },
+  {
+    "name": "Shyrivtsi",
+    "country": "UA",
+    "lat": 48.42395,
+    "lng": 26.29729
+  },
+  {
+    "name": "Shyroke",
+    "country": "UA",
+    "lat": 47.95735,
+    "lng": 38.2316
+  },
+  {
+    "name": "Shyroke",
+    "country": "UA",
+    "lat": 47.6855,
+    "lng": 33.26147
+  },
+  {
+    "name": "Shyroke",
+    "country": "UA",
+    "lat": 45.96499,
+    "lng": 30.0903
+  },
+  {
+    "name": "Shyrokolanivka",
+    "country": "UA",
+    "lat": 47.16609,
+    "lng": 31.43171
+  },
+  {
+    "name": "Shypyntsi",
+    "country": "UA",
+    "lat": 48.37598,
+    "lng": 25.75018
+  },
+  {
+    "name": "Shylivtsi",
+    "country": "UA",
+    "lat": 48.4262,
+    "lng": 26.20272
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA",
+    "lat": 49.69524,
+    "lng": 37.17513
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA",
+    "lat": 49.19181,
+    "lng": 31.08993
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA",
+    "lat": 46.8625,
+    "lng": 32.20019
+  },
+  {
+    "name": "Shevchenkove",
+    "country": "UA",
+    "lat": 45.55487,
+    "lng": 29.33354
+  },
+  {
+    "name": "Sheshory",
+    "country": "UA",
+    "lat": 48.32428,
+    "lng": 24.97016
+  },
+  {
+    "name": "Shershentsi",
+    "country": "UA",
+    "lat": 47.98823,
+    "lng": 29.00876
+  },
+  {
+    "name": "Shepetivka",
+    "country": "UA",
+    "lat": 50.18118,
+    "lng": 27.06517
+  },
+  {
+    "name": "Shelkovichnoye",
+    "country": "UA",
+    "lat": 45.18748,
+    "lng": 33.68807
+  },
+  {
+    "name": "Shegyni",
+    "country": "UA",
+    "lat": 49.79994,
+    "lng": 22.97431
+  },
+  {
+    "name": "Shebutyntsi",
+    "country": "UA",
+    "lat": 48.51945,
+    "lng": 27.17144
+  },
+  {
+    "name": "Shchyrets",
+    "country": "UA",
+    "lat": 49.65296,
+    "lng": 23.85826
+  },
+  {
+    "name": "Shcherbynivka",
+    "country": "UA",
+    "lat": 48.39489,
+    "lng": 37.79102
+  },
+  {
+    "name": "Shcherbanka",
+    "country": "UA",
+    "lat": 46.69534,
+    "lng": 30.18889
+  },
+  {
+    "name": "Shcherbani",
+    "country": "UA",
+    "lat": 49.53446,
+    "lng": 34.5362
+  },
+  {
+    "name": "Shcherbani",
+    "country": "UA",
+    "lat": 47.51979,
+    "lng": 31.74856
+  },
+  {
+    "name": "Shchebetovka",
+    "country": "UA",
+    "lat": 44.93845,
+    "lng": 35.15834
+  },
+  {
+    "name": "Shatsk",
+    "country": "UA",
+    "lat": 51.50208,
+    "lng": 23.93806
+  },
+  {
+    "name": "Sharhorod",
+    "country": "UA",
+    "lat": 48.73562,
+    "lng": 28.08459
+  },
+  {
+    "name": "Shandryholove",
+    "country": "UA",
+    "lat": 49.09083,
+    "lng": 37.72106
+  },
+  {
+    "name": "Shalyhyne",
+    "country": "UA",
+    "lat": 51.57167,
+    "lng": 34.12167
+  },
+  {
+    "name": "Shakhtarsk",
+    "country": "UA",
+    "lat": 48.05657,
+    "lng": 38.43826
+  },
+  {
+    "name": "Shakhove",
+    "country": "UA",
+    "lat": 49.8028,
+    "lng": 38.4895
+  },
+  {
+    "name": "Shabo",
+    "country": "UA",
+    "lat": 46.12657,
+    "lng": 30.38567
+  },
+  {
+    "name": "Shchastia",
+    "country": "UA",
+    "lat": 48.73784,
+    "lng": 39.23047
+  },
+  {
+    "name": "Shakhtarske",
+    "country": "UA",
+    "lat": 48.3479,
+    "lng": 36.39637
+  },
+  {
+    "name": "Shchyolkino",
+    "country": "UA",
+    "lat": 45.42985,
+    "lng": 35.8225
+  },
+  {
+    "name": "Shirokoye",
+    "country": "UA",
+    "lat": 45.20029,
+    "lng": 34.05069
+  },
+  {
+    "name": "Shtormovoye",
+    "country": "UA",
+    "lat": 45.26717,
+    "lng": 33.08693
+  },
+  {
+    "name": "Shchaslyve",
+    "country": "UA",
+    "lat": 46.90641,
+    "lng": 31.47411
+  },
+  {
+    "name": "Shkol’noye",
+    "country": "UA",
+    "lat": 45.05758,
+    "lng": 33.89737
+  },
+  {
+    "name": "Shyshkivtsi",
+    "country": "UA",
+    "lat": 48.44162,
+    "lng": 27.15012
+  },
+  {
+    "name": "Sheffield",
+    "country": "US",
+    "lat": 34.76509,
+    "lng": -87.69864
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 33.1104,
+    "lng": -86.58415
+  },
+  {
+    "name": "Shannon Hills",
+    "country": "US",
+    "lat": 34.62009,
+    "lng": -92.39543
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 34.30704,
+    "lng": -92.40127
+  },
+  {
+    "name": "Shaw",
+    "country": "US",
+    "lat": 38.91206,
+    "lng": -77.02137
+  },
+  {
+    "name": "Shady Hills",
+    "country": "US",
+    "lat": 28.41,
+    "lng": -82.54288
+  },
+  {
+    "name": "Sharpes",
+    "country": "US",
+    "lat": 28.43223,
+    "lng": -80.76005
+  },
+  {
+    "name": "Shannon",
+    "country": "US",
+    "lat": 34.33676,
+    "lng": -85.07134
+  },
+  {
+    "name": "Shannon",
+    "country": "US",
+    "lat": 33.40456,
+    "lng": -84.46826
+  },
+  {
+    "name": "Shawneetown",
+    "country": "US",
+    "lat": 37.7131,
+    "lng": -88.1867
+  },
+  {
+    "name": "Shelbyville",
+    "country": "US",
+    "lat": 39.40643,
+    "lng": -88.79007
+  },
+  {
+    "name": "Sherman",
+    "country": "US",
+    "lat": 39.89366,
+    "lng": -89.60482
+  },
+  {
+    "name": "Shiloh",
+    "country": "US",
+    "lat": 38.56144,
+    "lng": -89.89732
+  },
+  {
+    "name": "Shelbyville",
+    "country": "US",
+    "lat": 39.52144,
+    "lng": -85.77692
+  },
+  {
+    "name": "Shelburn",
+    "country": "US",
+    "lat": 39.17837,
+    "lng": -87.39363
+  },
+  {
+    "name": "Shoals",
+    "country": "US",
+    "lat": 38.66644,
+    "lng": -86.79111
+  },
+  {
+    "name": "Shawnee",
+    "country": "US",
+    "lat": 39.04167,
+    "lng": -94.72024
+  },
+  {
+    "name": "Shelbyville",
+    "country": "US",
+    "lat": 38.21201,
+    "lng": -85.22357
+  },
+  {
+    "name": "Shepherdsville",
+    "country": "US",
+    "lat": 37.9884,
+    "lng": -85.71579
+  },
+  {
+    "name": "Shively",
+    "country": "US",
+    "lat": 38.20007,
+    "lng": -85.82274
+  },
+  {
+    "name": "Shenandoah",
+    "country": "US",
+    "lat": 30.4013,
+    "lng": -91.00094
+  },
+  {
+    "name": "Shreveport",
+    "country": "US",
+    "lat": 32.52515,
+    "lng": -93.75018
+  },
+  {
+    "name": "Shady Side",
+    "country": "US",
+    "lat": 38.84178,
+    "lng": -76.51218
+  },
+  {
+    "name": "Shelbina",
+    "country": "US",
+    "lat": 39.69393,
+    "lng": -92.04295
+  },
+  {
+    "name": "Shelbyville",
+    "country": "US",
+    "lat": 39.80587,
+    "lng": -92.04156
+  },
+  {
+    "name": "Shell Knob",
+    "country": "US",
+    "lat": 36.63229,
+    "lng": -93.63436
+  },
+  {
+    "name": "Shrewsbury",
+    "country": "US",
+    "lat": 38.59033,
+    "lng": -90.33678
+  },
+  {
+    "name": "Shannon",
+    "country": "US",
+    "lat": 34.11622,
+    "lng": -88.71172
+  },
+  {
+    "name": "Sharon",
+    "country": "US",
+    "lat": 31.7896,
+    "lng": -89.09867
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 33.95094,
+    "lng": -90.76788
+  },
+  {
+    "name": "Shallotte",
+    "country": "US",
+    "lat": 33.97323,
+    "lng": -78.38584
+  },
+  {
+    "name": "Sharpsburg",
+    "country": "US",
+    "lat": 35.8671,
+    "lng": -77.82915
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 35.29235,
+    "lng": -81.53565
+  },
+  {
+    "name": "Sherrills Ford",
+    "country": "US",
+    "lat": 35.62041,
+    "lng": -80.98647
+  },
+  {
+    "name": "Ship Bottom",
+    "country": "US",
+    "lat": 39.6429,
+    "lng": -74.18042
+  },
+  {
+    "name": "Shadyside",
+    "country": "US",
+    "lat": 39.97091,
+    "lng": -80.75064
+  },
+  {
+    "name": "Sharonville",
+    "country": "US",
+    "lat": 39.26811,
+    "lng": -84.41327
+  },
+  {
+    "name": "Shawnee Hills",
+    "country": "US",
+    "lat": 39.65284,
+    "lng": -83.78687
+  },
+  {
+    "name": "Sherwood",
+    "country": "US",
+    "lat": 39.08478,
+    "lng": -84.36077
+  },
+  {
+    "name": "Shiloh",
+    "country": "US",
+    "lat": 39.81867,
+    "lng": -84.22855
+  },
+  {
+    "name": "Shattuck",
+    "country": "US",
+    "lat": 36.27614,
+    "lng": -99.88276
+  },
+  {
+    "name": "Shawnee",
+    "country": "US",
+    "lat": 35.32729,
+    "lng": -96.9253
+  },
+  {
+    "name": "Sharon Hill",
+    "country": "US",
+    "lat": 39.9065,
+    "lng": -75.27157
+  },
+  {
+    "name": "Shiloh",
+    "country": "US",
+    "lat": 39.97815,
+    "lng": -76.79719
+  },
+  {
+    "name": "Shrewsbury",
+    "country": "US",
+    "lat": 39.76871,
+    "lng": -76.67969
+  },
+  {
+    "name": "Shell Point",
+    "country": "US",
+    "lat": 32.38353,
+    "lng": -80.73594
+  },
+  {
+    "name": "Shell Point",
+    "country": "US",
+    "lat": 32.78907,
+    "lng": -80.10676
+  },
+  {
+    "name": "Shackle Island",
+    "country": "US",
+    "lat": 36.3706,
+    "lng": -86.61666
+  },
+  {
+    "name": "Shelbyville",
+    "country": "US",
+    "lat": 35.48341,
+    "lng": -86.46027
+  },
+  {
+    "name": "Shady Hollow",
+    "country": "US",
+    "lat": 30.16493,
+    "lng": -97.86223
+  },
+  {
+    "name": "Shady Shores",
+    "country": "US",
+    "lat": 33.16512,
+    "lng": -97.02945
+  },
+  {
+    "name": "Shamrock",
+    "country": "US",
+    "lat": 32.5993,
+    "lng": -96.8875
+  },
+  {
+    "name": "Shavano Park",
+    "country": "US",
+    "lat": 29.58495,
+    "lng": -98.55252
+  },
+  {
+    "name": "Sheldon",
+    "country": "US",
+    "lat": 29.868,
+    "lng": -95.12826
+  },
+  {
+    "name": "Shenandoah",
+    "country": "US",
+    "lat": 30.18022,
+    "lng": -95.45577
+  },
+  {
+    "name": "Shepherd",
+    "country": "US",
+    "lat": 30.49798,
+    "lng": -94.9966
+  },
+  {
+    "name": "Sherman",
+    "country": "US",
+    "lat": 33.63566,
+    "lng": -96.60888
+  },
+  {
+    "name": "Sherwood Shores",
+    "country": "US",
+    "lat": 33.85232,
+    "lng": -96.81778
+  },
+  {
+    "name": "Shiner",
+    "country": "US",
+    "lat": 29.42913,
+    "lng": -97.17054
+  },
+  {
+    "name": "Shoreacres",
+    "country": "US",
+    "lat": 29.62023,
+    "lng": -95.00993
+  },
+  {
+    "name": "Shawnee Land",
+    "country": "US",
+    "lat": 39.19149,
+    "lng": -78.34556
+  },
+  {
+    "name": "Shawsville",
+    "country": "US",
+    "lat": 37.16847,
+    "lng": -80.25532
+  },
+  {
+    "name": "Shenandoah",
+    "country": "US",
+    "lat": 38.48512,
+    "lng": -78.62502
+  },
+  {
+    "name": "Shenandoah Farms",
+    "country": "US",
+    "lat": 38.98178,
+    "lng": -78.07555
+  },
+  {
+    "name": "Short Pump",
+    "country": "US",
+    "lat": 37.65042,
+    "lng": -77.61249
+  },
+  {
+    "name": "Shady Spring",
+    "country": "US",
+    "lat": 37.70567,
+    "lng": -81.09843
+  },
+  {
+    "name": "Shannondale",
+    "country": "US",
+    "lat": 39.21705,
+    "lng": -77.80749
+  },
+  {
+    "name": "Shepherdstown",
+    "country": "US",
+    "lat": 39.4301,
+    "lng": -77.80416
+  },
+  {
+    "name": "Shinnston",
+    "country": "US",
+    "lat": 39.39564,
+    "lng": -80.30009
+  },
+  {
+    "name": "Sherwood",
+    "country": "US",
+    "lat": 34.81509,
+    "lng": -92.22432
+  },
+  {
+    "name": "Shaw",
+    "country": "US",
+    "lat": 33.60211,
+    "lng": -90.77458
+  },
+  {
+    "name": "Shelton",
+    "country": "US",
+    "lat": 41.31649,
+    "lng": -73.09316
+  },
+  {
+    "name": "Sherman",
+    "country": "US",
+    "lat": 41.57926,
+    "lng": -73.49568
+  },
+  {
+    "name": "Sherwood Manor",
+    "country": "US",
+    "lat": 42.01343,
+    "lng": -72.56425
+  },
+  {
+    "name": "Sheffield",
+    "country": "US",
+    "lat": 42.8933,
+    "lng": -93.2152
+  },
+  {
+    "name": "Sheldon",
+    "country": "US",
+    "lat": 43.18109,
+    "lng": -95.85613
+  },
+  {
+    "name": "Shell Rock",
+    "country": "US",
+    "lat": 42.71026,
+    "lng": -92.58297
+  },
+  {
+    "name": "Shenandoah",
+    "country": "US",
+    "lat": 40.76555,
+    "lng": -95.37221
+  },
+  {
+    "name": "Sheldon",
+    "country": "US",
+    "lat": 40.7692,
+    "lng": -87.56392
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 41.53003,
+    "lng": -88.6798
+  },
+  {
+    "name": "Shorewood",
+    "country": "US",
+    "lat": 41.52003,
+    "lng": -88.20173
+  },
+  {
+    "name": "Shadeland",
+    "country": "US",
+    "lat": 40.37365,
+    "lng": -86.9489
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 40.13504,
+    "lng": -86.22055
+  },
+  {
+    "name": "Sharon",
+    "country": "US",
+    "lat": 42.12371,
+    "lng": -71.17866
+  },
+  {
+    "name": "Shelburne",
+    "country": "US",
+    "lat": 42.58981,
+    "lng": -72.68842
+  },
+  {
+    "name": "Shelburne Falls",
+    "country": "US",
+    "lat": 42.60425,
+    "lng": -72.73926
+  },
+  {
+    "name": "Sherborn",
+    "country": "US",
+    "lat": 42.23899,
+    "lng": -71.36978
+  },
+  {
+    "name": "Shirley",
+    "country": "US",
+    "lat": 42.5437,
+    "lng": -71.64951
+  },
+  {
+    "name": "Shrewsbury",
+    "country": "US",
+    "lat": 42.29593,
+    "lng": -71.71285
+  },
+  {
+    "name": "Shutesbury",
+    "country": "US",
+    "lat": 42.45648,
+    "lng": -72.40981
+  },
+  {
+    "name": "Shapleigh",
+    "country": "US",
+    "lat": 43.54064,
+    "lng": -70.84812
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 42.67087,
+    "lng": -83.03298
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 43.60862,
+    "lng": -86.36396
+  },
+  {
+    "name": "Shepherd",
+    "country": "US",
+    "lat": 43.52447,
+    "lng": -84.69473
+  },
+  {
+    "name": "Shields",
+    "country": "US",
+    "lat": 43.4153,
+    "lng": -84.05637
+  },
+  {
+    "name": "Shafer",
+    "country": "US",
+    "lat": 45.38691,
+    "lng": -92.74771
+  },
+  {
+    "name": "Shakopee",
+    "country": "US",
+    "lat": 44.79802,
+    "lng": -93.5269
+  },
+  {
+    "name": "Sherburn",
+    "country": "US",
+    "lat": 43.65218,
+    "lng": -94.72692
+  },
+  {
+    "name": "Shoreview",
+    "country": "US",
+    "lat": 45.07913,
+    "lng": -93.14717
+  },
+  {
+    "name": "Shorewood",
+    "country": "US",
+    "lat": 44.9008,
+    "lng": -93.58912
+  },
+  {
+    "name": "Sheldon",
+    "country": "US",
+    "lat": 46.5858,
+    "lng": -97.4912
+  },
+  {
+    "name": "Shell Valley",
+    "country": "US",
+    "lat": 48.79806,
+    "lng": -99.86486
+  },
+  {
+    "name": "Shelton",
+    "country": "US",
+    "lat": 40.77918,
+    "lng": -98.73091
+  },
+  {
+    "name": "Shark River Hills",
+    "country": "US",
+    "lat": 40.194,
+    "lng": -74.04875
+  },
+  {
+    "name": "Short Hills",
+    "country": "US",
+    "lat": 40.74788,
+    "lng": -74.32543
+  },
+  {
+    "name": "Shrewsbury",
+    "country": "US",
+    "lat": 40.18261,
+    "lng": -74.52932
+  },
+  {
+    "name": "Shrewsbury",
+    "country": "US",
+    "lat": 40.32955,
+    "lng": -74.06153
+  },
+  {
+    "name": "Sheepshead Bay",
+    "country": "US",
+    "lat": 40.59122,
+    "lng": -73.94458
+  },
+  {
+    "name": "Shelter Island",
+    "country": "US",
+    "lat": 41.06815,
+    "lng": -72.33869
+  },
+  {
+    "name": "Shelter Island Heights",
+    "country": "US",
+    "lat": 41.08399,
+    "lng": -72.35592
+  },
+  {
+    "name": "Shenorock",
+    "country": "US",
+    "lat": 41.33176,
+    "lng": -73.73819
+  },
+  {
+    "name": "Sherburne",
+    "country": "US",
+    "lat": 42.67813,
+    "lng": -75.49851
+  },
+  {
+    "name": "Sherrill",
+    "country": "US",
+    "lat": 43.07368,
+    "lng": -75.59824
+  },
+  {
+    "name": "Shinnecock Hills",
+    "country": "US",
+    "lat": 40.89093,
+    "lng": -72.4637
+  },
+  {
+    "name": "Shirley",
+    "country": "US",
+    "lat": 40.80149,
+    "lng": -72.8676
+  },
+  {
+    "name": "Shokan",
+    "country": "US",
+    "lat": 41.97343,
+    "lng": -74.21209
+  },
+  {
+    "name": "Shortsville",
+    "country": "US",
+    "lat": 42.9559,
+    "lng": -77.22081
+  },
+  {
+    "name": "Shrub Oak",
+    "country": "US",
+    "lat": 41.32759,
+    "lng": -73.81958
+  },
+  {
+    "name": "Shaker Heights",
+    "country": "US",
+    "lat": 41.47394,
+    "lng": -81.53707
+  },
+  {
+    "name": "Sheffield",
+    "country": "US",
+    "lat": 41.42115,
+    "lng": -82.09626
+  },
+  {
+    "name": "Sheffield Lake",
+    "country": "US",
+    "lat": 41.48754,
+    "lng": -82.10154
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 40.88145,
+    "lng": -82.66184
+  },
+  {
+    "name": "Shreve",
+    "country": "US",
+    "lat": 40.68145,
+    "lng": -82.02181
+  },
+  {
+    "name": "Shamokin",
+    "country": "US",
+    "lat": 40.78897,
+    "lng": -76.55885
+  },
+  {
+    "name": "Shamokin Dam",
+    "country": "US",
+    "lat": 40.8487,
+    "lng": -76.81969
+  },
+  {
+    "name": "Sharon",
+    "country": "US",
+    "lat": 41.23311,
+    "lng": -80.4934
+  },
+  {
+    "name": "Sharpsburg",
+    "country": "US",
+    "lat": 40.49451,
+    "lng": -79.92644
+  },
+  {
+    "name": "Sharpsville",
+    "country": "US",
+    "lat": 41.25922,
+    "lng": -80.47201
+  },
+  {
+    "name": "Shavertown",
+    "country": "US",
+    "lat": 41.3198,
+    "lng": -75.93798
+  },
+  {
+    "name": "Shawmont",
+    "country": "US",
+    "lat": 40.05289,
+    "lng": -75.23601
+  },
+  {
+    "name": "Sheffield",
+    "country": "US",
+    "lat": 41.70395,
+    "lng": -79.0356
+  },
+  {
+    "name": "Shenandoah",
+    "country": "US",
+    "lat": 40.82037,
+    "lng": -76.20077
+  },
+  {
+    "name": "Shenandoah Heights",
+    "country": "US",
+    "lat": 40.82759,
+    "lng": -76.20688
+  },
+  {
+    "name": "Shillington",
+    "country": "US",
+    "lat": 40.30787,
+    "lng": -75.96549
+  },
+  {
+    "name": "Shiloh",
+    "country": "US",
+    "lat": 41.04172,
+    "lng": -78.2914
+  },
+  {
+    "name": "Shinglehouse",
+    "country": "US",
+    "lat": 41.96368,
+    "lng": -78.19084
+  },
+  {
+    "name": "Shiremanstown",
+    "country": "US",
+    "lat": 40.22342,
+    "lng": -76.95359
+  },
+  {
+    "name": "Shippensburg",
+    "country": "US",
+    "lat": 40.05065,
+    "lng": -77.52026
+  },
+  {
+    "name": "Shoemakersville",
+    "country": "US",
+    "lat": 40.50093,
+    "lng": -75.96993
+  },
+  {
+    "name": "Sharon",
+    "country": "US",
+    "lat": 42.50252,
+    "lng": -88.72899
+  },
+  {
+    "name": "Shawano",
+    "country": "US",
+    "lat": 44.78221,
+    "lng": -88.60899
+  },
+  {
+    "name": "Sheboygan",
+    "country": "US",
+    "lat": 43.75083,
+    "lng": -87.71453
+  },
+  {
+    "name": "Sheboygan Falls",
+    "country": "US",
+    "lat": 43.73197,
+    "lng": -87.82213
+  },
+  {
+    "name": "Shell Lake",
+    "country": "US",
+    "lat": 45.73939,
+    "lng": -91.92545
+  },
+  {
+    "name": "Sherwood",
+    "country": "US",
+    "lat": 44.1736,
+    "lng": -88.25983
+  },
+  {
+    "name": "Shorewood",
+    "country": "US",
+    "lat": 43.08918,
+    "lng": -87.88758
+  },
+  {
+    "name": "Shorewood Hills",
+    "country": "US",
+    "lat": 43.0775,
+    "lng": -89.44568
+  },
+  {
+    "name": "Shullsburg",
+    "country": "US",
+    "lat": 42.57334,
+    "lng": -90.23096
+  },
+  {
+    "name": "Sheffield",
+    "country": "US",
+    "lat": 42.11037,
+    "lng": -73.35511
+  },
+  {
+    "name": "Show Low",
+    "country": "US",
+    "lat": 34.25421,
+    "lng": -110.02983
+  },
+  {
+    "name": "Shackelford",
+    "country": "US",
+    "lat": 37.61382,
+    "lng": -120.99271
+  },
+  {
+    "name": "Shadow Hills",
+    "country": "US",
+    "lat": 34.26195,
+    "lng": -118.35175
+  },
+  {
+    "name": "Shafter",
+    "country": "US",
+    "lat": 35.50051,
+    "lng": -119.27178
+  },
+  {
+    "name": "Shandon",
+    "country": "US",
+    "lat": 35.65525,
+    "lng": -120.37543
+  },
+  {
+    "name": "Sherman Oaks",
+    "country": "US",
+    "lat": 34.15112,
+    "lng": -118.44925
+  },
+  {
+    "name": "Shingle Springs",
+    "country": "US",
+    "lat": 38.66574,
+    "lng": -120.92605
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 39.64693,
+    "lng": -105.02526
+  },
+  {
+    "name": "Sherrelwood",
+    "country": "US",
+    "lat": 39.83776,
+    "lng": -105.00137
+  },
+  {
+    "name": "Sharon Springs",
+    "country": "US",
+    "lat": 38.89779,
+    "lng": -101.75212
+  },
+  {
+    "name": "Shiprock",
+    "country": "US",
+    "lat": 36.78555,
+    "lng": -108.68703
+  },
+  {
+    "name": "Shallowater",
+    "country": "US",
+    "lat": 33.68897,
+    "lng": -101.99823
+  },
+  {
+    "name": "Shamrock",
+    "country": "US",
+    "lat": 35.21422,
+    "lng": -100.24901
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 38.97962,
+    "lng": -121.37551
+  },
+  {
+    "name": "Shasta",
+    "country": "US",
+    "lat": 40.59932,
+    "lng": -122.49196
+  },
+  {
+    "name": "Shasta Lake",
+    "country": "US",
+    "lat": 40.68043,
+    "lng": -122.37084
+  },
+  {
+    "name": "Shingletown",
+    "country": "US",
+    "lat": 40.49238,
+    "lng": -121.88916
+  },
+  {
+    "name": "Shelley",
+    "country": "US",
+    "lat": 43.3813,
+    "lng": -112.12331
+  },
+  {
+    "name": "Shoshone",
+    "country": "US",
+    "lat": 42.93602,
+    "lng": -114.40588
+  },
+  {
+    "name": "Shelby",
+    "country": "US",
+    "lat": 48.50526,
+    "lng": -111.85697
+  },
+  {
+    "name": "Shady Cove",
+    "country": "US",
+    "lat": 42.61068,
+    "lng": -122.81254
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 45.09928,
+    "lng": -123.39483
+  },
+  {
+    "name": "Sherwood",
+    "country": "US",
+    "lat": 45.35651,
+    "lng": -122.8401
+  },
+  {
+    "name": "Shelton",
+    "country": "US",
+    "lat": 47.21509,
+    "lng": -123.10071
+  },
+  {
+    "name": "Shoreline",
+    "country": "US",
+    "lat": 47.75565,
+    "lng": -122.34152
+  },
+  {
+    "name": "Sheridan",
+    "country": "US",
+    "lat": 44.79719,
+    "lng": -106.95618
+  },
+  {
+    "name": "Shanor-Northvue",
+    "country": "US",
+    "lat": 40.91045,
+    "lng": -79.91562
+  },
+  {
+    "name": "Shorewood-Tower Hills-Harbert",
+    "country": "US",
+    "lat": 41.88169,
+    "lng": -86.61409
+  },
+  {
+    "name": "Shorewood Forest",
+    "country": "US",
+    "lat": 41.46315,
+    "lng": -87.14472
+  },
+  {
+    "name": "Shaw Heights",
+    "country": "US",
+    "lat": 39.8525,
+    "lng": -105.04306
+  },
+  {
+    "name": "Shoal Creek",
+    "country": "US",
+    "lat": 33.43076,
+    "lng": -86.61092
+  },
+  {
+    "name": "Sharp-Leadenhall",
+    "country": "US",
+    "lat": 39.27682,
+    "lng": -76.61769
+  },
+  {
+    "name": "Shipley Hill",
+    "country": "US",
+    "lat": 39.28631,
+    "lng": -76.65711
+  },
+  {
+    "name": "Shumanay",
+    "country": "UZ",
+    "lat": 42.64281,
+    "lng": 58.91345
+  },
+  {
+    "name": "Shumanay Shahri",
+    "country": "UZ",
+    "lat": 42.63433,
+    "lng": 58.9306
+  },
+  {
+    "name": "Sho‘rchi",
+    "country": "UZ",
+    "lat": 37.99944,
+    "lng": 67.7875
+  },
+  {
+    "name": "Shahrisabz",
+    "country": "UZ",
+    "lat": 39.05778,
+    "lng": 66.83417
+  },
+  {
+    "name": "Shohimardon",
+    "country": "UZ",
+    "lat": 39.98322,
+    "lng": 71.80512
+  },
+  {
+    "name": "Shahrisabz Shahri",
+    "country": "UZ",
+    "lat": 39.05206,
+    "lng": 66.82083
+  },
+  {
+    "name": "Shovot",
+    "country": "UZ",
+    "lat": 41.65817,
+    "lng": 60.29451
+  },
+  {
+    "name": "Sho‘rsuv",
+    "country": "UZ",
+    "lat": 40.28431,
+    "lng": 70.79972
+  },
+  {
+    "name": "Shahrixon",
+    "country": "UZ",
+    "lat": 40.71331,
+    "lng": 72.05706
+  },
+  {
+    "name": "Shofirkon Shahri",
+    "country": "UZ",
+    "lat": 40.12,
+    "lng": 64.50139
+  },
+  {
+    "name": "Shtime",
+    "country": "XK",
+    "lat": 42.43306,
+    "lng": 21.03972
+  },
+  {
+    "name": "Shiḩan as Suflá",
+    "country": "YE",
+    "lat": 17.76999,
+    "lng": 52.48925
+  },
+  {
+    "name": "Shibām",
+    "country": "YE",
+    "lat": 15.92694,
+    "lng": 48.62667
+  },
+  {
+    "name": "Shibām",
+    "country": "YE",
+    "lat": 15.50943,
+    "lng": 43.90445
+  },
+  {
+    "name": "Sharas",
+    "country": "YE",
+    "lat": 15.71233,
+    "lng": 43.64925
+  },
+  {
+    "name": "Shahārat al Ghīs",
+    "country": "YE",
+    "lat": 16.18411,
+    "lng": 43.70228
+  },
+  {
+    "name": "Sheepmoor",
+    "country": "ZA",
+    "lat": -26.71738,
+    "lng": 30.29916
+  },
+  {
+    "name": "Shakaskraal",
+    "country": "ZA",
+    "lat": -29.44931,
+    "lng": 31.21532
+  },
+  {
+    "name": "Shatale",
+    "country": "ZA",
+    "lat": -24.79571,
+    "lng": 31.04708
+  },
+  {
+    "name": "Shata",
+    "country": "ZA",
+    "lat": -24.77186,
+    "lng": 31.0394
+  },
+  {
+    "name": "Shurugwi",
+    "country": "ZW",
+    "lat": -19.67016,
+    "lng": 30.00589
+  },
+  {
+    "name": "Shangani",
+    "country": "ZW",
+    "lat": -19.78333,
+    "lng": 29.36667
+  },
+  {
+    "name": "Shamva",
+    "country": "ZW",
+    "lat": -17.31159,
+    "lng": 31.57561
+  }
+]

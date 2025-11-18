@@ -1,0 +1,788 @@
+[
+  {
+    "name": "Tlokweng",
+    "country": "BW",
+    "lat": -24.66861,
+    "lng": 25.97111
+  },
+  {
+    "name": "Tlumačov",
+    "country": "CZ",
+    "lat": 49.25351,
+    "lng": 17.49559
+  },
+  {
+    "name": "Tlučná",
+    "country": "CZ",
+    "lat": 49.72425,
+    "lng": 13.23534
+  },
+  {
+    "name": "Tlemcen",
+    "country": "DZ",
+    "lat": 34.87833,
+    "lng": -1.315
+  },
+  {
+    "name": "Tlogowungu",
+    "country": "ID",
+    "lat": -6.70685,
+    "lng": 111.01411
+  },
+  {
+    "name": "Tlabung",
+    "country": "IN",
+    "lat": 22.91201,
+    "lng": 92.49799
+  },
+  {
+    "name": "Tlet Sidi Bouguedra",
+    "country": "MA",
+    "lat": 32.25507,
+    "lng": -8.98067
+  },
+  {
+    "name": "Tlet Ighoud",
+    "country": "MA",
+    "lat": 31.86011,
+    "lng": -8.88214
+  },
+  {
+    "name": "Tlet El Hanchane",
+    "country": "MA",
+    "lat": 31.52207,
+    "lng": -9.43594
+  },
+  {
+    "name": "Tlazala de Fabela",
+    "country": "MX",
+    "lat": 19.55857,
+    "lng": -99.41469
+  },
+  {
+    "name": "Tlayehualancingo",
+    "country": "MX",
+    "lat": 20.03301,
+    "lng": -97.82661
+  },
+  {
+    "name": "Tlayacapan",
+    "country": "MX",
+    "lat": 18.95556,
+    "lng": -98.98111
+  },
+  {
+    "name": "Tlaxocoyucan",
+    "country": "MX",
+    "lat": 20.22895,
+    "lng": -98.49034
+  },
+  {
+    "name": "Tlaxmalac",
+    "country": "MX",
+    "lat": 18.36115,
+    "lng": -99.41316
+  },
+  {
+    "name": "Tlaxco",
+    "country": "MX",
+    "lat": 19.61442,
+    "lng": -98.11997
+  },
+  {
+    "name": "Tlaxcoapan",
+    "country": "MX",
+    "lat": 20.09163,
+    "lng": -99.22042
+  },
+  {
+    "name": "Tlaxco",
+    "country": "MX",
+    "lat": 20.42345,
+    "lng": -98.02917
+  },
+  {
+    "name": "Tlaxco (Santiago Tlaxco)",
+    "country": "MX",
+    "lat": 20.05788,
+    "lng": -97.96249
+  },
+  {
+    "name": "Tlaxcalantongo",
+    "country": "MX",
+    "lat": 20.31397,
+    "lng": -97.87199
+  },
+  {
+    "name": "Tlatlauquitepec",
+    "country": "MX",
+    "lat": 19.84765,
+    "lng": -97.49718
+  },
+  {
+    "name": "Tlatlauquitepec",
+    "country": "MX",
+    "lat": 17.54825,
+    "lng": -98.82711
+  },
+  {
+    "name": "Tlatenchi",
+    "country": "MX",
+    "lat": 18.59639,
+    "lng": -99.18639
+  },
+  {
+    "name": "Tlaquiltepec",
+    "country": "MX",
+    "lat": 17.73143,
+    "lng": -98.54736
+  },
+  {
+    "name": "Tlaquiltenango",
+    "country": "MX",
+    "lat": 18.63429,
+    "lng": -99.1632
+  },
+  {
+    "name": "Tlaquilpa",
+    "country": "MX",
+    "lat": 18.6102,
+    "lng": -97.11852
+  },
+  {
+    "name": "Tlapanaloya",
+    "country": "MX",
+    "lat": 19.93619,
+    "lng": -99.09664
+  },
+  {
+    "name": "Tlapa de Comonfort",
+    "country": "MX",
+    "lat": 17.54528,
+    "lng": -98.57599
+  },
+  {
+    "name": "Tlapacoyan",
+    "country": "MX",
+    "lat": 19.96268,
+    "lng": -97.21141
+  },
+  {
+    "name": "Tlanepantla",
+    "country": "MX",
+    "lat": 19.21748,
+    "lng": -97.13404
+  },
+  {
+    "name": "Tlanepantla",
+    "country": "MX",
+    "lat": 18.8631,
+    "lng": -97.88701
+  },
+  {
+    "name": "Tlanchinol",
+    "country": "MX",
+    "lat": 20.9919,
+    "lng": -98.65715
+  },
+  {
+    "name": "Tlanalapa",
+    "country": "MX",
+    "lat": 19.81868,
+    "lng": -98.60396
+  },
+  {
+    "name": "Tlanalapan",
+    "country": "MX",
+    "lat": 19.25084,
+    "lng": -97.27604
+  },
+  {
+    "name": "Tlamixtlahuacan",
+    "country": "MX",
+    "lat": 17.50306,
+    "lng": -99.22583
+  },
+  {
+    "name": "Tlamatoca",
+    "country": "MX",
+    "lat": 19.09336,
+    "lng": -96.93685
+  },
+  {
+    "name": "Tlamanca",
+    "country": "MX",
+    "lat": 19.67457,
+    "lng": -97.6964
+  },
+  {
+    "name": "Tlamacazapa",
+    "country": "MX",
+    "lat": 18.49649,
+    "lng": -99.50037
+  },
+  {
+    "name": "Tlaltizapán",
+    "country": "MX",
+    "lat": 18.6863,
+    "lng": -99.11868
+  },
+  {
+    "name": "Tlaltenango",
+    "country": "MX",
+    "lat": 19.17165,
+    "lng": -98.34072
+  },
+  {
+    "name": "Tlalpan",
+    "country": "MX",
+    "lat": 19.29513,
+    "lng": -99.16206
+  },
+  {
+    "name": "Tlalnepantla",
+    "country": "MX",
+    "lat": 19.54005,
+    "lng": -99.19538
+  },
+  {
+    "name": "Tlalnepantla",
+    "country": "MX",
+    "lat": 19.00885,
+    "lng": -98.99613
+  },
+  {
+    "name": "Tlalnelhuayocan",
+    "country": "MX",
+    "lat": 19.56681,
+    "lng": -96.97534
+  },
+  {
+    "name": "Tlalmanalco",
+    "country": "MX",
+    "lat": 19.20521,
+    "lng": -98.80115
+  },
+  {
+    "name": "Tlalixtaquilla",
+    "country": "MX",
+    "lat": 17.57674,
+    "lng": -98.36727
+  },
+  {
+    "name": "Tlalixtac de Cabrera",
+    "country": "MX",
+    "lat": 17.07112,
+    "lng": -96.6471
+  },
+  {
+    "name": "Tlalixcoyan",
+    "country": "MX",
+    "lat": 18.80222,
+    "lng": -96.06056
+  },
+  {
+    "name": "Tlalcozotitlán",
+    "country": "MX",
+    "lat": 17.88355,
+    "lng": -99.13083
+  },
+  {
+    "name": "Tlahuelompa (San Francisco Tlahuelompa)",
+    "country": "MX",
+    "lat": 20.65082,
+    "lng": -98.57522
+  },
+  {
+    "name": "Tlahuelilpan",
+    "country": "MX",
+    "lat": 20.13076,
+    "lng": -99.23145
+  },
+  {
+    "name": "Tláhuac",
+    "country": "MX",
+    "lat": 19.28689,
+    "lng": -99.00507
+  },
+  {
+    "name": "Tlacuilotepec",
+    "country": "MX",
+    "lat": 20.32574,
+    "lng": -98.06867
+  },
+  {
+    "name": "Tlacotepec",
+    "country": "MX",
+    "lat": 18.40389,
+    "lng": -96.8508
+  },
+  {
+    "name": "Tlacotepec (San Mateo)",
+    "country": "MX",
+    "lat": 20.06028,
+    "lng": -97.84917
+  },
+  {
+    "name": "Tlacotepec de Mejía",
+    "country": "MX",
+    "lat": 19.18946,
+    "lng": -96.83805
+  },
+  {
+    "name": "Tlacotepec",
+    "country": "MX",
+    "lat": 18.81444,
+    "lng": -98.74514
+  },
+  {
+    "name": "Tlacotepec",
+    "country": "MX",
+    "lat": 18.68193,
+    "lng": -97.65602
+  },
+  {
+    "name": "Tlacotepec",
+    "country": "MX",
+    "lat": 17.78978,
+    "lng": -99.97961
+  },
+  {
+    "name": "Tlacotalpan",
+    "country": "MX",
+    "lat": 18.61333,
+    "lng": -95.6589
+  },
+  {
+    "name": "Tlacolula de Matamoros",
+    "country": "MX",
+    "lat": 16.95471,
+    "lng": -96.4759
+  },
+  {
+    "name": "Tlacolula",
+    "country": "MX",
+    "lat": 21.09177,
+    "lng": -97.9596
+  },
+  {
+    "name": "Tlacojalpan",
+    "country": "MX",
+    "lat": 18.23096,
+    "lng": -95.94682
+  },
+  {
+    "name": "Tlacoachistlahuaca",
+    "country": "MX",
+    "lat": 16.81045,
+    "lng": -98.30078
+  },
+  {
+    "name": "Tlachichuca",
+    "country": "MX",
+    "lat": 19.11485,
+    "lng": -97.41915
+  },
+  {
+    "name": "Tlachichilco",
+    "country": "MX",
+    "lat": 20.62123,
+    "lng": -98.199
+  },
+  {
+    "name": "Tlahuitoltepec",
+    "country": "MX",
+    "lat": 17.09746,
+    "lng": -96.06279
+  },
+  {
+    "name": "Tlaixpan",
+    "country": "MX",
+    "lat": 18.91217,
+    "lng": -97.73818
+  },
+  {
+    "name": "Tlacoatzintepec",
+    "country": "MX",
+    "lat": 17.85985,
+    "lng": -96.58647
+  },
+  {
+    "name": "Tlachichilco",
+    "country": "MX",
+    "lat": 17.6222,
+    "lng": -98.34312
+  },
+  {
+    "name": "Tlaltetelco (San Miguel Tlaltetelco)",
+    "country": "MX",
+    "lat": 18.95222,
+    "lng": -98.88806
+  },
+  {
+    "name": "Tlalchiyahualica",
+    "country": "MX",
+    "lat": 20.97086,
+    "lng": -98.39975
+  },
+  {
+    "name": "Tlaxcalilla",
+    "country": "MX",
+    "lat": 20.37731,
+    "lng": -99.81545
+  },
+  {
+    "name": "Tlalminulpa",
+    "country": "MX",
+    "lat": 20.07491,
+    "lng": -99.2222
+  },
+  {
+    "name": "Tlaxcala",
+    "country": "MX",
+    "lat": 19.31777,
+    "lng": -98.23846
+  },
+  {
+    "name": "Tlaltecahuacán",
+    "country": "MX",
+    "lat": 19.57896,
+    "lng": -98.88067
+  },
+  {
+    "name": "Tlaxpanaloya",
+    "country": "MX",
+    "lat": 20.22589,
+    "lng": -98.12036
+  },
+  {
+    "name": "Tlacomulco",
+    "country": "MX",
+    "lat": 20.15301,
+    "lng": -98.12027
+  },
+  {
+    "name": "Tlaltepango",
+    "country": "MX",
+    "lat": 20.14531,
+    "lng": -97.87723
+  },
+  {
+    "name": "Tlaola",
+    "country": "MX",
+    "lat": 20.13861,
+    "lng": -97.92306
+  },
+  {
+    "name": "Tlatempa",
+    "country": "MX",
+    "lat": 19.94484,
+    "lng": -97.93526
+  },
+  {
+    "name": "Tlacamilco",
+    "country": "MX",
+    "lat": 19.0759,
+    "lng": -97.9164
+  },
+  {
+    "name": "Tlapanalá",
+    "country": "MX",
+    "lat": 18.69585,
+    "lng": -98.53561
+  },
+  {
+    "name": "Tlancualpican",
+    "country": "MX",
+    "lat": 18.43333,
+    "lng": -98.7
+  },
+  {
+    "name": "Tlaxcalixtlahuaca",
+    "country": "MX",
+    "lat": 16.98179,
+    "lng": -98.77843
+  },
+  {
+    "name": "Tlatzala",
+    "country": "MX",
+    "lat": 17.61498,
+    "lng": -98.5497
+  },
+  {
+    "name": "Tlaltetela",
+    "country": "MX",
+    "lat": 19.31421,
+    "lng": -96.90105
+  },
+  {
+    "name": "Tlapala",
+    "country": "MX",
+    "lat": 19.26165,
+    "lng": -96.91878
+  },
+  {
+    "name": "Tlalconteno",
+    "country": "MX",
+    "lat": 19.44863,
+    "lng": -97.24642
+  },
+  {
+    "name": "Tlilapan",
+    "country": "MX",
+    "lat": 18.8056,
+    "lng": -97.09867
+  },
+  {
+    "name": "Tlacuilolapan",
+    "country": "MX",
+    "lat": 17.97778,
+    "lng": -94.26306
+  },
+  {
+    "name": "Tlapacoyan",
+    "country": "MX",
+    "lat": 18.45667,
+    "lng": -95.40056
+  },
+  {
+    "name": "Tlaltenanguito",
+    "country": "MX",
+    "lat": 19.49822,
+    "lng": -99.58309
+  },
+  {
+    "name": "Tlachaloya",
+    "country": "MX",
+    "lat": 19.44846,
+    "lng": -99.66225
+  },
+  {
+    "name": "Tlacuitlapa",
+    "country": "MX",
+    "lat": 19.12209,
+    "lng": -99.41534
+  },
+  {
+    "name": "Tlacomulco",
+    "country": "MX",
+    "lat": 19.12111,
+    "lng": -99.4475
+  },
+  {
+    "name": "Tlachichila",
+    "country": "MX",
+    "lat": 21.5572,
+    "lng": -102.78564
+  },
+  {
+    "name": "Tlazazalca",
+    "country": "MX",
+    "lat": 19.97085,
+    "lng": -102.05842
+  },
+  {
+    "name": "Tlatlaya",
+    "country": "MX",
+    "lat": 18.61773,
+    "lng": -100.20779
+  },
+  {
+    "name": "Tlaquepaque",
+    "country": "MX",
+    "lat": 20.64121,
+    "lng": -103.29342
+  },
+  {
+    "name": "Tlapehuala",
+    "country": "MX",
+    "lat": 18.24101,
+    "lng": -100.5379
+  },
+  {
+    "name": "Tlalpujahua de Rayón",
+    "country": "MX",
+    "lat": 19.80523,
+    "lng": -100.17409
+  },
+  {
+    "name": "Tlalchapa",
+    "country": "MX",
+    "lat": 18.41027,
+    "lng": -100.47623
+  },
+  {
+    "name": "Tlajomulco de Zúñiga",
+    "country": "MX",
+    "lat": 20.47421,
+    "lng": -103.44654
+  },
+  {
+    "name": "Tlahualilo de Zaragoza",
+    "country": "MX",
+    "lat": 26.10743,
+    "lng": -103.44259
+  },
+  {
+    "name": "Tlacuitapan",
+    "country": "MX",
+    "lat": 21.19829,
+    "lng": -102.12416
+  },
+  {
+    "name": "Tlacote el Bajo",
+    "country": "MX",
+    "lat": 20.66292,
+    "lng": -100.50676
+  },
+  {
+    "name": "Tlaltenango de Sánchez Román",
+    "country": "MX",
+    "lat": 21.78129,
+    "lng": -103.30436
+  },
+  {
+    "name": "Tlamaco (San Gerónimo Tlamaco)",
+    "country": "MX",
+    "lat": 20.03472,
+    "lng": -99.22917
+  },
+  {
+    "name": "Tlatempan",
+    "country": "MX",
+    "lat": 19.33167,
+    "lng": -98.20306
+  },
+  {
+    "name": "Tlalnepantla",
+    "country": "MX",
+    "lat": 21.18,
+    "lng": -98.84611
+  },
+  {
+    "name": "Tlacotepec de José Manzo",
+    "country": "MX",
+    "lat": 19.27194,
+    "lng": -98.48472
+  },
+  {
+    "name": "Tlamanca de Hernández",
+    "country": "MX",
+    "lat": 19.95597,
+    "lng": -97.81489
+  },
+  {
+    "name": "Tlaxinga (Clatzinga)",
+    "country": "MX",
+    "lat": 17.52106,
+    "lng": -99.19331
+  },
+  {
+    "name": "Tlaltempanapa",
+    "country": "MX",
+    "lat": 17.73611,
+    "lng": -99.17722
+  },
+  {
+    "name": "Tlacoapa",
+    "country": "MX",
+    "lat": 17.26361,
+    "lng": -98.74861
+  },
+  {
+    "name": "Tlacoaxtla",
+    "country": "MX",
+    "lat": 17.55485,
+    "lng": -99.20081
+  },
+  {
+    "name": "Tlixco",
+    "country": "MX",
+    "lat": 18.27389,
+    "lng": -96.99972
+  },
+  {
+    "name": "Tlahuapa",
+    "country": "MX",
+    "lat": 17.375,
+    "lng": -98.3375
+  },
+  {
+    "name": "Tlanipatla",
+    "country": "MX",
+    "lat": 17.80806,
+    "lng": -99.45139
+  },
+  {
+    "name": "Tlatilpa",
+    "country": "MX",
+    "lat": 18.73389,
+    "lng": -97.14417
+  },
+  {
+    "name": "Tlatzala",
+    "country": "MX",
+    "lat": 18.72861,
+    "lng": -97.14111
+  },
+  {
+    "name": "Tlacuilola",
+    "country": "MX",
+    "lat": 21.2375,
+    "lng": -98.86806
+  },
+  {
+    "name": "Tlacpac",
+    "country": "MX",
+    "lat": 20.14889,
+    "lng": -98.21694
+  },
+  {
+    "name": "Tlamaya Grande",
+    "country": "MX",
+    "lat": 20.14689,
+    "lng": -97.80313
+  },
+  {
+    "name": "Tlaminca",
+    "country": "MX",
+    "lat": 19.13571,
+    "lng": -99.43999
+  },
+  {
+    "name": "Tlacolulan",
+    "country": "MX",
+    "lat": 19.66687,
+    "lng": -97.00194
+  },
+  {
+    "name": "Tlyustenkhabl’",
+    "country": "RU",
+    "lat": 44.982,
+    "lng": 39.09773
+  },
+  {
+    "name": "Tlyarata",
+    "country": "RU",
+    "lat": 42.10552,
+    "lng": 46.35416
+  },
+  {
+    "name": "Tlmače",
+    "country": "SK",
+    "lat": 48.28926,
+    "lng": 18.53152
+  },
+  {
+    "name": "Tlumach",
+    "country": "UA",
+    "lat": 48.86519,
+    "lng": 25.00385
+  },
+  {
+    "name": "Tlokoeng",
+    "country": "ZA",
+    "lat": -30.69268,
+    "lng": 28.5061
+  }
+]

@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "Phillip",
+    "country": "AU",
+    "lat": -35.35035,
+    "lng": 149.09151
+  },
+  {
+    "name": "Phillip",
+    "country": "AU",
+    "lat": -31.13333,
+    "lng": 150.85
+  },
+  {
+    "name": "Phillip Island",
+    "country": "AU",
+    "lat": -38.48349,
+    "lng": 145.23102
+  },
+  {
+    "name": "Phultala",
+    "country": "BD",
+    "lat": 22.71673,
+    "lng": 89.51194
+  },
+  {
+    "name": "Phuljhuri",
+    "country": "BD",
+    "lat": 22.2,
+    "lng": 90.06667
+  },
+  {
+    "name": "Philippeville",
+    "country": "BE",
+    "lat": 50.19612,
+    "lng": 4.54374
+  },
+  {
+    "name": "Phuntsholing",
+    "country": "BT",
+    "lat": 26.85164,
+    "lng": 89.38837
+  },
+  {
+    "name": "Phing",
+    "country": "CI",
+    "lat": 6.96943,
+    "lng": -7.82646
+  },
+  {
+    "name": "Philippsthal",
+    "country": "DE",
+    "lat": 50.83948,
+    "lng": 10.00906
+  },
+  {
+    "name": "Philippsburg",
+    "country": "DE",
+    "lat": 49.2317,
+    "lng": 8.46074
+  },
+  {
+    "name": "Phalsbourg",
+    "country": "FR",
+    "lat": 48.76771,
+    "lng": 7.2582
+  },
+  {
+    "name": "Phalempin",
+    "country": "FR",
+    "lat": 50.51691,
+    "lng": 3.01584
+  },
+  {
+    "name": "Phaëton",
+    "country": "HT",
+    "lat": 19.67525,
+    "lng": -71.89691
+  },
+  {
+    "name": "Phūlpur",
+    "country": "IN",
+    "lat": 26.07779,
+    "lng": 82.87608
+  },
+  {
+    "name": "Phulpur",
+    "country": "IN",
+    "lat": 25.54895,
+    "lng": 82.0895
+  },
+  {
+    "name": "Phulera",
+    "country": "IN",
+    "lat": 26.87401,
+    "lng": 75.24171
+  },
+  {
+    "name": "Phulbāni",
+    "country": "IN",
+    "lat": 20.48101,
+    "lng": 84.23063
+  },
+  {
+    "name": "Phirangipuram",
+    "country": "IN",
+    "lat": 16.29078,
+    "lng": 80.26233
+  },
+  {
+    "name": "Phillaur",
+    "country": "IN",
+    "lat": 31.01887,
+    "lng": 75.79111
+  },
+  {
+    "name": "Phek",
+    "country": "IN",
+    "lat": 25.66667,
+    "lng": 94.5
+  },
+  {
+    "name": "Pharihā",
+    "country": "IN",
+    "lat": 27.32166,
+    "lng": 78.47267
+  },
+  {
+    "name": "Phaphūnd",
+    "country": "IN",
+    "lat": 26.59888,
+    "lng": 79.46437
+  },
+  {
+    "name": "Phaltan",
+    "country": "IN",
+    "lat": 17.99113,
+    "lng": 74.43177
+  },
+  {
+    "name": "Phalodi",
+    "country": "IN",
+    "lat": 27.13102,
+    "lng": 72.36826
+  },
+  {
+    "name": "Phalauda",
+    "country": "IN",
+    "lat": 29.18824,
+    "lng": 77.82996
+  },
+  {
+    "name": "Phagwāra",
+    "country": "IN",
+    "lat": 31.22452,
+    "lng": 75.77387
+  },
+  {
+    "name": "Phūp Kalān",
+    "country": "IN",
+    "lat": 26.64454,
+    "lng": 78.87359
+  },
+  {
+    "name": "Phusro",
+    "country": "IN",
+    "lat": 23.75644,
+    "lng": 86.0051
+  },
+  {
+    "name": "Pherzawl",
+    "country": "IN",
+    "lat": 24.26227,
+    "lng": 93.18873
+  },
+  {
+    "name": "Phulwari Sharif",
+    "country": "IN",
+    "lat": 25.57765,
+    "lng": 85.07246
+  },
+  {
+    "name": "Phulwartanr",
+    "country": "IN",
+    "lat": 23.77303,
+    "lng": 86.23207
+  },
+  {
+    "name": "Phnom Penh",
+    "country": "KH",
+    "lat": 11.56245,
+    "lng": 104.91601
+  },
+  {
+    "name": "Phumĭ Véal Srê",
+    "country": "KH",
+    "lat": 10.98081,
+    "lng": 104.77828
+  },
+  {
+    "name": "Phumĭ Trâpeăng Môntrei",
+    "country": "KH",
+    "lat": 10.69563,
+    "lng": 104.57725
+  },
+  {
+    "name": "Phumĭ Tnaôt Chŭm",
+    "country": "KH",
+    "lat": 12.52314,
+    "lng": 105.06288
+  },
+  {
+    "name": "Phumĭ Srê Kăn",
+    "country": "KH",
+    "lat": 10.66588,
+    "lng": 104.60602
+  },
+  {
+    "name": "Phumĭ Rôméas",
+    "country": "KH",
+    "lat": 12.06904,
+    "lng": 104.52382
+  },
+  {
+    "name": "Phumĭ Prey Chék",
+    "country": "KH",
+    "lat": 10.65428,
+    "lng": 104.57124
+  },
+  {
+    "name": "Phumĭ Nĭpéch",
+    "country": "KH",
+    "lat": 12.9223,
+    "lng": 104.78128
+  },
+  {
+    "name": "Phumĭ Koŭk Kóng",
+    "country": "KH",
+    "lat": 11.72915,
+    "lng": 105.58272
+  },
+  {
+    "name": "Phumĭ Khchau",
+    "country": "KH",
+    "lat": 11.91556,
+    "lng": 105.13711
+  },
+  {
+    "name": "Phum Ânlŭng Vĭl",
+    "country": "KH",
+    "lat": 13.08339,
+    "lng": 103.23503
+  },
+  {
+    "name": "Phumĭ Ânhchaeum",
+    "country": "KH",
+    "lat": 11.84714,
+    "lng": 105.71424
+  },
+  {
+    "name": "Phumĭ Ângkôr Borei",
+    "country": "KH",
+    "lat": 10.99497,
+    "lng": 104.97477
+  },
+  {
+    "name": "Phumĭ Ândong Snay",
+    "country": "KH",
+    "lat": 12.16682,
+    "lng": 104.66882
+  },
+  {
+    "name": "Phumĭ Ândong Poŭthĭ",
+    "country": "KH",
+    "lat": 11.35975,
+    "lng": 105.80812
+  },
+  {
+    "name": "Phumĭ Âmpĭl Leu",
+    "country": "KH",
+    "lat": 12.00923,
+    "lng": 105.43409
+  },
+  {
+    "name": "Ph’av",
+    "country": "KH",
+    "lat": 12.02816,
+    "lng": 104.96478
+  },
+  {
+    "name": "Phnum Proek",
+    "country": "KH",
+    "lat": 13.2235,
+    "lng": 102.39546
+  },
+  {
+    "name": "Phnum Srok",
+    "country": "KH",
+    "lat": 13.74403,
+    "lng": 103.33892
+  },
+  {
+    "name": "Phnum Kravanh",
+    "country": "KH",
+    "lat": 12.35121,
+    "lng": 103.7694
+  },
+  {
+    "name": "Phnum Sruoch",
+    "country": "KH",
+    "lat": 11.385,
+    "lng": 104.37165
+  },
+  {
+    "name": "Phum Pir",
+    "country": "KH",
+    "lat": 13.71435,
+    "lng": 106.98947
+  },
+  {
+    "name": "Phôngsali",
+    "country": "LA",
+    "lat": 21.6808,
+    "lng": 102.1003
+  },
+  {
+    "name": "Phônthong",
+    "country": "LA",
+    "lat": 15.10116,
+    "lng": 105.65416
+  },
+  {
+    "name": "Phamong",
+    "country": "LS",
+    "lat": -30.24809,
+    "lng": 27.8014
+  },
+  {
+    "name": "Phalombe",
+    "country": "MW",
+    "lat": -15.80635,
+    "lng": 35.65067
+  },
+  {
+    "name": "Phara",
+    "country": "PE",
+    "lat": -14.15222,
+    "lng": -69.66517
+  },
+  {
+    "name": "Phalia",
+    "country": "PK",
+    "lat": 32.43104,
+    "lng": 73.579
+  },
+  {
+    "name": "Phool Nagar",
+    "country": "PK",
+    "lat": 31.2024,
+    "lng": 73.94857
+  },
+  {
+    "name": "Philipsburg",
+    "country": "SX",
+    "lat": 18.026,
+    "lng": -63.04582
+  },
+  {
+    "name": "Phrao",
+    "country": "TH",
+    "lat": 19.36586,
+    "lng": 99.20187
+  },
+  {
+    "name": "Phetchaburi",
+    "country": "TH",
+    "lat": 13.11189,
+    "lng": 99.94467
+  },
+  {
+    "name": "Phuket",
+    "country": "TH",
+    "lat": 7.89059,
+    "lng": 98.3981
+  },
+  {
+    "name": "Phrom Khiri",
+    "country": "TH",
+    "lat": 8.52333,
+    "lng": 99.82275
+  },
+  {
+    "name": "Phrasaeng",
+    "country": "TH",
+    "lat": 8.56781,
+    "lng": 99.24756
+  },
+  {
+    "name": "Phran Kratai",
+    "country": "TH",
+    "lat": 16.66511,
+    "lng": 99.58894
+  },
+  {
+    "name": "Photharam",
+    "country": "TH",
+    "lat": 13.69234,
+    "lng": 99.84969
+  },
+  {
+    "name": "Phop Phra",
+    "country": "TH",
+    "lat": 16.38461,
+    "lng": 98.69028
+  },
+  {
+    "name": "Phipun",
+    "country": "TH",
+    "lat": 8.56036,
+    "lng": 99.60703
+  },
+  {
+    "name": "Phayao",
+    "country": "TH",
+    "lat": 19.19203,
+    "lng": 99.87883
+  },
+  {
+    "name": "Phato",
+    "country": "TH",
+    "lat": 9.79089,
+    "lng": 98.77658
+  },
+  {
+    "name": "Phanom Thuan",
+    "country": "TH",
+    "lat": 14.13031,
+    "lng": 99.69858
+  },
+  {
+    "name": "Phanom",
+    "country": "TH",
+    "lat": 8.85475,
+    "lng": 98.81267
+  },
+  {
+    "name": "Phang Nga",
+    "country": "TH",
+    "lat": 8.45091,
+    "lng": 98.52985
+  },
+  {
+    "name": "Phan",
+    "country": "TH",
+    "lat": 19.55395,
+    "lng": 99.74045
+  },
+  {
+    "name": "Phatthana Nikhom",
+    "country": "TH",
+    "lat": 14.85647,
+    "lng": 100.98459
+  },
+  {
+    "name": "Phayu",
+    "country": "TH",
+    "lat": 14.90851,
+    "lng": 104.39101
+  },
+  {
+    "name": "Pha Khao",
+    "country": "TH",
+    "lat": 17.06507,
+    "lng": 102.02965
+  },
+  {
+    "name": "Phu Wiang",
+    "country": "TH",
+    "lat": 16.65259,
+    "lng": 102.37555
+  },
+  {
+    "name": "Phutthaisong",
+    "country": "TH",
+    "lat": 15.54783,
+    "lng": 103.02467
+  },
+  {
+    "name": "Phu Ruea",
+    "country": "TH",
+    "lat": 17.4538,
+    "lng": 101.36231
+  },
+  {
+    "name": "Phu Pha Man",
+    "country": "TH",
+    "lat": 16.64888,
+    "lng": 101.90097
+  },
+  {
+    "name": "Phu Luang",
+    "country": "TH",
+    "lat": 17.1392,
+    "lng": 101.66392
+  },
+  {
+    "name": "Phu Kradueng",
+    "country": "TH",
+    "lat": 16.88425,
+    "lng": 101.88467
+  },
+  {
+    "name": "Phu Khiao",
+    "country": "TH",
+    "lat": 16.3765,
+    "lng": 102.12853
+  },
+  {
+    "name": "Phrom Phiram",
+    "country": "TH",
+    "lat": 17.03352,
+    "lng": 100.2019
+  },
+  {
+    "name": "Phrom Buri",
+    "country": "TH",
+    "lat": 14.79086,
+    "lng": 100.45325
+  },
+  {
+    "name": "Phra Yuen",
+    "country": "TH",
+    "lat": 16.3293,
+    "lng": 102.65182
+  },
+  {
+    "name": "Phra Pradaeng",
+    "country": "TH",
+    "lat": 13.65855,
+    "lng": 100.53362
+  },
+  {
+    "name": "Phra Phutthabat",
+    "country": "TH",
+    "lat": 14.72526,
+    "lng": 100.79536
+  },
+  {
+    "name": "Phra Nakhon Si Ayutthaya",
+    "country": "TH",
+    "lat": 14.35167,
+    "lng": 100.57739
+  },
+  {
+    "name": "Phra Khanong",
+    "country": "TH",
+    "lat": 13.70185,
+    "lng": 100.60157
+  },
+  {
+    "name": "Phrai Bueng",
+    "country": "TH",
+    "lat": 14.74833,
+    "lng": 104.36261
+  },
+  {
+    "name": "Phrae",
+    "country": "TH",
+    "lat": 18.14589,
+    "lng": 100.14103
+  },
+  {
+    "name": "Pho Thong",
+    "country": "TH",
+    "lat": 14.66731,
+    "lng": 100.40878
+  },
+  {
+    "name": "Pho Thale",
+    "country": "TH",
+    "lat": 16.09269,
+    "lng": 100.26089
+  },
+  {
+    "name": "Pho Sai",
+    "country": "TH",
+    "lat": 15.82586,
+    "lng": 105.26064
+  },
+  {
+    "name": "Phon Sai",
+    "country": "TH",
+    "lat": 15.48797,
+    "lng": 103.99642
+  },
+  {
+    "name": "Phon Phisai",
+    "country": "TH",
+    "lat": 18.02106,
+    "lng": 103.07664
+  },
+  {
+    "name": "Phon Charoen",
+    "country": "TH",
+    "lat": 18.03333,
+    "lng": 103.16667
+  },
+  {
+    "name": "Phon",
+    "country": "TH",
+    "lat": 15.816,
+    "lng": 102.59981
+  },
+  {
+    "name": "Phitsanulok",
+    "country": "TH",
+    "lat": 16.82481,
+    "lng": 100.25858
+  },
+  {
+    "name": "Phimai",
+    "country": "TH",
+    "lat": 15.22324,
+    "lng": 102.49473
+  },
+  {
+    "name": "Phichit",
+    "country": "TH",
+    "lat": 16.44184,
+    "lng": 100.34879
+  },
+  {
+    "name": "Phichai",
+    "country": "TH",
+    "lat": 17.28764,
+    "lng": 100.0867
+  },
+  {
+    "name": "Phibun Mangsahan",
+    "country": "TH",
+    "lat": 15.24467,
+    "lng": 105.22908
+  },
+  {
+    "name": "Phetchabun",
+    "country": "TH",
+    "lat": 16.41904,
+    "lng": 101.16056
+  },
+  {
+    "name": "Phen",
+    "country": "TH",
+    "lat": 17.69614,
+    "lng": 102.90689
+  },
+  {
+    "name": "Phayuha Khiri",
+    "country": "TH",
+    "lat": 15.45525,
+    "lng": 100.13533
+  },
+  {
+    "name": "Phayakkhaphum Phisai",
+    "country": "TH",
+    "lat": 15.51631,
+    "lng": 103.19367
+  },
+  {
+    "name": "Phatthalung",
+    "country": "TH",
+    "lat": 7.61786,
+    "lng": 100.07792
+  },
+  {
+    "name": "Phasi Charoen",
+    "country": "TH",
+    "lat": 13.71466,
+    "lng": 100.43691
+  },
+  {
+    "name": "Phan Thong",
+    "country": "TH",
+    "lat": 13.46804,
+    "lng": 101.09532
+  },
+  {
+    "name": "Phanom Sarakham",
+    "country": "TH",
+    "lat": 13.74872,
+    "lng": 101.34888
+  },
+  {
+    "name": "Phanom Phrai",
+    "country": "TH",
+    "lat": 15.67783,
+    "lng": 104.11025
+  },
+  {
+    "name": "Phanna Nikhom",
+    "country": "TH",
+    "lat": 17.35245,
+    "lng": 103.85032
+  },
+  {
+    "name": "Phang Khon",
+    "country": "TH",
+    "lat": 17.39051,
+    "lng": 103.71692
+  },
+  {
+    "name": "Phanat Nikhom",
+    "country": "TH",
+    "lat": 13.44581,
+    "lng": 101.18445
+  },
+  {
+    "name": "Phana",
+    "country": "TH",
+    "lat": 15.68231,
+    "lng": 104.84603
+  },
+  {
+    "name": "Phak Hai",
+    "country": "TH",
+    "lat": 14.45736,
+    "lng": 100.36989
+  },
+  {
+    "name": "Phai Sali",
+    "country": "TH",
+    "lat": 15.60003,
+    "lng": 100.64937
+  },
+  {
+    "name": "Phachi",
+    "country": "TH",
+    "lat": 14.44914,
+    "lng": 100.72833
+  },
+  {
+    "name": "Phaya Mengrai",
+    "country": "TH",
+    "lat": 19.84922,
+    "lng": 100.15358
+  },
+  {
+    "name": "Phon Charoen",
+    "country": "TH",
+    "lat": 18.03143,
+    "lng": 103.70996
+  },
+  {
+    "name": "Phanom Dong Rak",
+    "country": "TH",
+    "lat": 14.44575,
+    "lng": 103.30508
+  },
+  {
+    "name": "Phaya Thai",
+    "country": "TH",
+    "lat": 13.78005,
+    "lng": 100.54275
+  },
+  {
+    "name": "Phra Phrom",
+    "country": "TH",
+    "lat": 8.33911,
+    "lng": 99.90092
+  },
+  {
+    "name": "Phu Kam Yao",
+    "country": "TH",
+    "lat": 19.2705,
+    "lng": 99.97011
+  },
+  {
+    "name": "Phu Phiang",
+    "country": "TH",
+    "lat": 18.74264,
+    "lng": 100.79951
+  },
+  {
+    "name": "Phakdi Chumphon",
+    "country": "TH",
+    "lat": 15.90517,
+    "lng": 101.42228
+  },
+  {
+    "name": "Phlapphla Chai",
+    "country": "TH",
+    "lat": 14.73011,
+    "lng": 103.16728
+  },
+  {
+    "name": "Phibun Rak",
+    "country": "TH",
+    "lat": 17.55312,
+    "lng": 103.05794
+  },
+  {
+    "name": "Phonphisai",
+    "country": "TH",
+    "lat": 18.02106,
+    "lng": 103.07664
+  },
+  {
+    "name": "Phu Phan",
+    "country": "TH",
+    "lat": 16.99891,
+    "lng": 103.97347
+  },
+  {
+    "name": "Phu Sing",
+    "country": "TH",
+    "lat": 14.54744,
+    "lng": 104.13167
+  },
+  {
+    "name": "Pho Si Suwan",
+    "country": "TH",
+    "lat": 15.22929,
+    "lng": 104.0767
+  },
+  {
+    "name": "Phon Na Kaeo",
+    "country": "TH",
+    "lat": 17.22122,
+    "lng": 104.28995
+  },
+  {
+    "name": "Phra Thong Kham",
+    "country": "TH",
+    "lat": 15.306,
+    "lng": 101.983
+  },
+  {
+    "name": "Phra Samut Chedi",
+    "country": "TH",
+    "lat": 13.60222,
+    "lng": 100.5721
+  },
+  {
+    "name": "Phu Sang",
+    "country": "TH",
+    "lat": 19.59903,
+    "lng": 100.32444
+  },
+  {
+    "name": "Pho Tak",
+    "country": "TH",
+    "lat": 17.87486,
+    "lng": 102.40406
+  },
+  {
+    "name": "Phra Nakhon",
+    "country": "TH",
+    "lat": 13.76512,
+    "lng": 100.49864
+  },
+  {
+    "name": "Phenix City",
+    "country": "US",
+    "lat": 32.47098,
+    "lng": -85.00077
+  },
+  {
+    "name": "Phil Campbell",
+    "country": "US",
+    "lat": 34.35093,
+    "lng": -87.70642
+  },
+  {
+    "name": "Phillipsburg",
+    "country": "US",
+    "lat": 39.75612,
+    "lng": -99.32399
+  },
+  {
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 32.77152,
+    "lng": -89.11673
+  },
+  {
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 39.95238,
+    "lng": -75.16362
+  },
+  {
+    "name": "Pharr",
+    "country": "US",
+    "lat": 26.1948,
+    "lng": -98.18362
+  },
+  {
+    "name": "Philippi",
+    "country": "US",
+    "lat": 39.15232,
+    "lng": -80.04036
+  },
+  {
+    "name": "Philo",
+    "country": "US",
+    "lat": 40.00698,
+    "lng": -88.1581
+  },
+  {
+    "name": "Phoenix",
+    "country": "US",
+    "lat": 41.61115,
+    "lng": -87.63477
+  },
+  {
+    "name": "Phillipston",
+    "country": "US",
+    "lat": 42.5487,
+    "lng": -72.13286
+  },
+  {
+    "name": "Phippsburg",
+    "country": "US",
+    "lat": 43.82064,
+    "lng": -69.81477
+  },
+  {
+    "name": "Phillipsburg",
+    "country": "US",
+    "lat": 40.69371,
+    "lng": -75.19018
+  },
+  {
+    "name": "Phelps",
+    "country": "US",
+    "lat": 42.95756,
+    "lng": -77.05747
+  },
+  {
+    "name": "Philadelphia",
+    "country": "US",
+    "lat": 44.1545,
+    "lng": -75.70882
+  },
+  {
+    "name": "Philmont",
+    "country": "US",
+    "lat": 42.24842,
+    "lng": -73.65318
+  },
+  {
+    "name": "Phoenix",
+    "country": "US",
+    "lat": 43.23118,
+    "lng": -76.30076
+  },
+  {
+    "name": "Philipsburg",
+    "country": "US",
+    "lat": 40.89645,
+    "lng": -78.22057
+  },
+  {
+    "name": "Phoenixville",
+    "country": "US",
+    "lat": 40.13038,
+    "lng": -75.51491
+  },
+  {
+    "name": "Phillips",
+    "country": "US",
+    "lat": 45.69663,
+    "lng": -90.40043
+  },
+  {
+    "name": "Phillips",
+    "country": "US",
+    "lat": 44.82311,
+    "lng": -70.33951
+  },
+  {
+    "name": "Phoenix",
+    "country": "US",
+    "lat": 33.44838,
+    "lng": -112.07404
+  },
+  {
+    "name": "Phelan",
+    "country": "US",
+    "lat": 34.42611,
+    "lng": -117.57228
+  },
+  {
+    "name": "Philipsburg",
+    "country": "US",
+    "lat": 46.33215,
+    "lng": -113.29423
+  },
+  {
+    "name": "Philomath",
+    "country": "US",
+    "lat": 44.54012,
+    "lng": -123.3676
+  },
+  {
+    "name": "Phoenix",
+    "country": "US",
+    "lat": 42.27541,
+    "lng": -122.81809
+  },
+  {
+    "name": "Philip",
+    "country": "US",
+    "lat": 44.03943,
+    "lng": -101.66514
+  },
+  {
+    "name": "Phoenix Lake",
+    "country": "US",
+    "lat": 38.00594,
+    "lng": -120.30702
+  },
+  {
+    "name": "Phú Lộc",
+    "country": "VN",
+    "lat": 9.42838,
+    "lng": 105.74111
+  },
+  {
+    "name": "Phù Yên",
+    "country": "VN",
+    "lat": 21.26331,
+    "lng": 104.64439
+  },
+  {
+    "name": "Phú Vang",
+    "country": "VN",
+    "lat": 16.43911,
+    "lng": 107.71438
+  },
+  {
+    "name": "Phú Túc",
+    "country": "VN",
+    "lat": 13.19682,
+    "lng": 108.69043
+  },
+  {
+    "name": "Phủ Thông",
+    "country": "VN",
+    "lat": 22.27314,
+    "lng": 105.87943
+  },
+  {
+    "name": "Phú Thọ",
+    "country": "VN",
+    "lat": 21.39963,
+    "lng": 105.22221
+  },
+  {
+    "name": "Phú Phong",
+    "country": "VN",
+    "lat": 13.90964,
+    "lng": 108.91903
+  },
+  {
+    "name": "Phương Linh",
+    "country": "VN",
+    "lat": 21.46709,
+    "lng": 105.09871
+  },
+  {
+    "name": "Phước Hòa",
+    "country": "VN",
+    "lat": 12.1,
+    "lng": 107.11667
+  },
+  {
+    "name": "Phước An",
+    "country": "VN",
+    "lat": 12.71298,
+    "lng": 108.30148
+  },
+  {
+    "name": "Phù Ninh",
+    "country": "VN",
+    "lat": 21.08333,
+    "lng": 105.95
+  },
+  {
+    "name": "Phụng Nghia",
+    "country": "VN",
+    "lat": 20.95,
+    "lng": 105.71667
+  },
+  {
+    "name": "Phụng Hiệp",
+    "country": "VN",
+    "lat": 9.77972,
+    "lng": 105.7338
+  },
+  {
+    "name": "Phù Mỹ",
+    "country": "VN",
+    "lat": 14.17182,
+    "lng": 109.04888
+  },
+  {
+    "name": "Phú Mỹ",
+    "country": "VN",
+    "lat": 10.63333,
+    "lng": 107.06667
+  },
+  {
+    "name": "Phủ Lý",
+    "country": "VN",
+    "lat": 20.54531,
+    "lng": 105.91221
+  },
+  {
+    "name": "Phú Lộc",
+    "country": "VN",
+    "lat": 16.28035,
+    "lng": 107.85898
+  },
+  {
+    "name": "Phú Khương",
+    "country": "VN",
+    "lat": 11.28333,
+    "lng": 106.13333
+  },
+  {
+    "name": "Phú Đô",
+    "country": "VN",
+    "lat": 21.01667,
+    "lng": 105.76667
+  },
+  {
+    "name": "Phúc Yên",
+    "country": "VN",
+    "lat": 21.23695,
+    "lng": 105.70483
+  },
+  {
+    "name": "Phúc Trạch",
+    "country": "VN",
+    "lat": 18.13333,
+    "lng": 105.76667
+  },
+  {
+    "name": "Phúc Sơn",
+    "country": "VN",
+    "lat": 18.96667,
+    "lng": 105.05
+  },
+  {
+    "name": "Phù Cát",
+    "country": "VN",
+    "lat": 14.00316,
+    "lng": 109.05804
+  },
+  {
+    "name": "Phong Thổ",
+    "country": "VN",
+    "lat": 22.54433,
+    "lng": 103.29776
+  },
+  {
+    "name": "Phong Thạnh",
+    "country": "VN",
+    "lat": 9.32361,
+    "lng": 105.34639
+  },
+  {
+    "name": "Phong Điền",
+    "country": "VN",
+    "lat": 16.58321,
+    "lng": 107.36438
+  },
+  {
+    "name": "Phong Điền",
+    "country": "VN",
+    "lat": 9.99753,
+    "lng": 105.6673
+  },
+  {
+    "name": "Phố Châu",
+    "country": "VN",
+    "lat": 18.51335,
+    "lng": 105.42411
+  },
+  {
+    "name": "Phát Diệm",
+    "country": "VN",
+    "lat": 20.09054,
+    "lng": 106.08323
+  },
+  {
+    "name": "Phan Thiết",
+    "country": "VN",
+    "lat": 10.92889,
+    "lng": 108.10208
+  },
+  {
+    "name": "Phan Rang-Tháp Chàm",
+    "country": "VN",
+    "lat": 11.56432,
+    "lng": 108.98858
+  },
+  {
+    "name": "Phong Châu",
+    "country": "VN",
+    "lat": 21.4068,
+    "lng": 105.31228
+  },
+  {
+    "name": "Phong Châu",
+    "country": "VN",
+    "lat": 21.23931,
+    "lng": 105.43247
+  },
+  {
+    "name": "Phu Quoc",
+    "country": "VN",
+    "lat": 10.22409,
+    "lng": 103.97156
+  },
+  {
+    "name": "Phú Mỹ",
+    "country": "VN",
+    "lat": 10.59236,
+    "lng": 105.35573
+  },
+  {
+    "name": "Phú Thái",
+    "country": "VN",
+    "lat": 20.96278,
+    "lng": 106.5095
+  },
+  {
+    "name": "Phúc Thọ",
+    "country": "VN",
+    "lat": 21.10345,
+    "lng": 105.54551
+  },
+  {
+    "name": "Phùng",
+    "country": "VN",
+    "lat": 21.08902,
+    "lng": 105.65901
+  },
+  {
+    "name": "Phú Xuyên",
+    "country": "VN",
+    "lat": 20.74549,
+    "lng": 105.91363
+  },
+  {
+    "name": "Phú Ninh",
+    "country": "VN",
+    "lat": 15.55473,
+    "lng": 108.41142
+  },
+  {
+    "name": "Phú Hòa",
+    "country": "VN",
+    "lat": 14.10005,
+    "lng": 107.96896
+  },
+  {
+    "name": "Phước Dân",
+    "country": "VN",
+    "lat": 11.52696,
+    "lng": 108.92996
+  },
+  {
+    "name": "Phú Quý",
+    "country": "VN",
+    "lat": 10.5166,
+    "lng": 108.93292
+  },
+  {
+    "name": "Phú Quốc",
+    "country": "VN",
+    "lat": 10.28715,
+    "lng": 104.01047
+  },
+  {
+    "name": "Phổng Lăng",
+    "country": "VN",
+    "lat": 21.46463,
+    "lng": 103.67036
+  },
+  {
+    "name": "Phuthaditjhaba",
+    "country": "ZA",
+    "lat": -28.52423,
+    "lng": 28.81582
+  },
+  {
+    "name": "Philipstown",
+    "country": "ZA",
+    "lat": -30.43733,
+    "lng": 24.47261
+  },
+  {
+    "name": "Philippolis",
+    "country": "ZA",
+    "lat": -30.26556,
+    "lng": 25.27427
+  },
+  {
+    "name": "Phalaborwa",
+    "country": "ZA",
+    "lat": -23.94299,
+    "lng": 31.14107
+  },
+  {
+    "name": "Phatsima",
+    "country": "ZA",
+    "lat": -25.3946,
+    "lng": 27.0149
+  },
+  {
+    "name": "Phola",
+    "country": "ZA",
+    "lat": -26.002,
+    "lng": 29.034
+  },
+  {
+    "name": "Phakamisa",
+    "country": "ZA",
+    "lat": -32.93328,
+    "lng": 27.4571
+  },
+  {
+    "name": "Phomolong",
+    "country": "ZA",
+    "lat": -28.01274,
+    "lng": 27.08234
+  },
+  {
+    "name": "Phaweni",
+    "country": "ZA",
+    "lat": -22.88181,
+    "lng": 30.77882
+  },
+  {
+    "name": "Philandersbron",
+    "country": "ZA",
+    "lat": -26.81168,
+    "lng": 20.09484
+  }
+]

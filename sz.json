@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Szolnok",
+    "country": "HU",
+    "lat": 47.18066,
+    "lng": 20.19835
+  },
+  {
+    "name": "Szirmabesenyő",
+    "country": "HU",
+    "lat": 48.15,
+    "lng": 20.8
+  },
+  {
+    "name": "Szirma",
+    "country": "HU",
+    "lat": 48.06667,
+    "lng": 20.83333
+  },
+  {
+    "name": "Szilvásvárad",
+    "country": "HU",
+    "lat": 48.1,
+    "lng": 20.4
+  },
+  {
+    "name": "Szikszó",
+    "country": "HU",
+    "lat": 48.2,
+    "lng": 20.93333
+  },
+  {
+    "name": "Szihalom",
+    "country": "HU",
+    "lat": 47.76667,
+    "lng": 20.48333
+  },
+  {
+    "name": "Szerencs",
+    "country": "HU",
+    "lat": 48.15993,
+    "lng": 21.2097
+  },
+  {
+    "name": "Szentistván",
+    "country": "HU",
+    "lat": 47.76667,
+    "lng": 20.66667
+  },
+  {
+    "name": "Szentes",
+    "country": "HU",
+    "lat": 46.65834,
+    "lng": 20.2608
+  },
+  {
+    "name": "Szendrő",
+    "country": "HU",
+    "lat": 48.4,
+    "lng": 20.73333
+  },
+  {
+    "name": "Székkutas",
+    "country": "HU",
+    "lat": 46.5,
+    "lng": 20.53333
+  },
+  {
+    "name": "Szegvár",
+    "country": "HU",
+    "lat": 46.5874,
+    "lng": 20.22408
+  },
+  {
+    "name": "Szeghalom",
+    "country": "HU",
+    "lat": 47.03333,
+    "lng": 21.16667
+  },
+  {
+    "name": "Szeged",
+    "country": "HU",
+    "lat": 46.253,
+    "lng": 20.14824
+  },
+  {
+    "name": "Szatymaz",
+    "country": "HU",
+    "lat": 46.34306,
+    "lng": 20.0402
+  },
+  {
+    "name": "Szarvas",
+    "country": "HU",
+    "lat": 46.86667,
+    "lng": 20.55
+  },
+  {
+    "name": "Szamosszeg",
+    "country": "HU",
+    "lat": 48.04561,
+    "lng": 22.36582
+  },
+  {
+    "name": "Szakoly",
+    "country": "HU",
+    "lat": 47.76667,
+    "lng": 21.91667
+  },
+  {
+    "name": "Szajol",
+    "country": "HU",
+    "lat": 47.18333,
+    "lng": 20.3
+  },
+  {
+    "name": "Szabadkígyós",
+    "country": "HU",
+    "lat": 46.61667,
+    "lng": 21.1
+  },
+  {
+    "name": "Szurdokpüspöki",
+    "country": "HU",
+    "lat": 47.85923,
+    "lng": 19.69218
+  },
+  {
+    "name": "Szomód",
+    "country": "HU",
+    "lat": 47.68492,
+    "lng": 18.34061
+  },
+  {
+    "name": "Szombathely",
+    "country": "HU",
+    "lat": 47.23088,
+    "lng": 16.62155
+  },
+  {
+    "name": "Sződliget",
+    "country": "HU",
+    "lat": 47.73259,
+    "lng": 19.14749
+  },
+  {
+    "name": "Sződ",
+    "country": "HU",
+    "lat": 47.72439,
+    "lng": 19.17046
+  },
+  {
+    "name": "Szob",
+    "country": "HU",
+    "lat": 47.81921,
+    "lng": 18.8702
+  },
+  {
+    "name": "Szigetvár",
+    "country": "HU",
+    "lat": 46.04865,
+    "lng": 17.80554
+  },
+  {
+    "name": "Szigetújfalu",
+    "country": "HU",
+    "lat": 47.23417,
+    "lng": 18.92746
+  },
+  {
+    "name": "Szigetszentmiklós",
+    "country": "HU",
+    "lat": 47.34382,
+    "lng": 19.04335
+  },
+  {
+    "name": "Szigethalom",
+    "country": "HU",
+    "lat": 47.32228,
+    "lng": 19.00262
+  },
+  {
+    "name": "Szigetcsép",
+    "country": "HU",
+    "lat": 47.26492,
+    "lng": 18.97048
+  },
+  {
+    "name": "Szentmártonkáta",
+    "country": "HU",
+    "lat": 47.45419,
+    "lng": 19.70143
+  },
+  {
+    "name": "Szentlőrinckáta",
+    "country": "HU",
+    "lat": 47.51947,
+    "lng": 19.75286
+  },
+  {
+    "name": "Szentlőrinc",
+    "country": "HU",
+    "lat": 46.04016,
+    "lng": 17.98719
+  },
+  {
+    "name": "Szentkirályszabadja",
+    "country": "HU",
+    "lat": 47.0576,
+    "lng": 17.97052
+  },
+  {
+    "name": "Szentkirály",
+    "country": "HU",
+    "lat": 46.91892,
+    "lng": 19.91846
+  },
+  {
+    "name": "Szentgotthárd",
+    "country": "HU",
+    "lat": 46.95261,
+    "lng": 16.27358
+  },
+  {
+    "name": "Szentgálpuszta",
+    "country": "HU",
+    "lat": 46.37479,
+    "lng": 18.62601
+  },
+  {
+    "name": "Szentendre",
+    "country": "HU",
+    "lat": 47.66943,
+    "lng": 19.07561
+  },
+  {
+    "name": "Szekszárd",
+    "country": "HU",
+    "lat": 46.34723,
+    "lng": 18.71189
+  },
+  {
+    "name": "Székesfehérvár",
+    "country": "HU",
+    "lat": 47.18995,
+    "lng": 18.41034
+  },
+  {
+    "name": "Szedres",
+    "country": "HU",
+    "lat": 46.47551,
+    "lng": 18.68305
+  },
+  {
+    "name": "Szécsény",
+    "country": "HU",
+    "lat": 48.08057,
+    "lng": 19.52019
+  },
+  {
+    "name": "Százhalombatta",
+    "country": "HU",
+    "lat": 47.32949,
+    "lng": 18.93878
+  },
+  {
+    "name": "Szászvár",
+    "country": "HU",
+    "lat": 46.27673,
+    "lng": 18.37566
+  },
+  {
+    "name": "Szárliget",
+    "country": "HU",
+    "lat": 47.51581,
+    "lng": 18.4948
+  },
+  {
+    "name": "Szany",
+    "country": "HU",
+    "lat": 47.46423,
+    "lng": 17.30402
+  },
+  {
+    "name": "Szank",
+    "country": "HU",
+    "lat": 46.55713,
+    "lng": 19.66103
+  },
+  {
+    "name": "Szalkszentmárton",
+    "country": "HU",
+    "lat": 46.97565,
+    "lng": 19.01178
+  },
+  {
+    "name": "Szada",
+    "country": "HU",
+    "lat": 47.63333,
+    "lng": 19.31667
+  },
+  {
+    "name": "Szabadszállás",
+    "country": "HU",
+    "lat": 46.87575,
+    "lng": 19.22324
+  },
+  {
+    "name": "Szabadbattyán",
+    "country": "HU",
+    "lat": 47.11902,
+    "lng": 18.36823
+  },
+  {
+    "name": "Szelevény",
+    "country": "HU",
+    "lat": 46.80259,
+    "lng": 20.20283
+  },
+  {
+    "name": "Szemeretelep",
+    "country": "HU",
+    "lat": 47.43879,
+    "lng": 19.2131
+  },
+  {
+    "name": "Szent Imre-kertváros",
+    "country": "HU",
+    "lat": 47.4297,
+    "lng": 19.20651
+  },
+  {
+    "name": "Szent Lőrinc-lakótelep",
+    "country": "HU",
+    "lat": 47.43446,
+    "lng": 19.17181
+  },
+  {
+    "name": "Századosnegyed",
+    "country": "HU",
+    "lat": 47.49319,
+    "lng": 19.10676
+  },
+  {
+    "name": "Szynwałd",
+    "country": "PL",
+    "lat": 49.96767,
+    "lng": 21.12293
+  },
+  {
+    "name": "Szydłowo",
+    "country": "PL",
+    "lat": 53.08062,
+    "lng": 20.45071
+  },
+  {
+    "name": "Szydłowiec",
+    "country": "PL",
+    "lat": 51.22823,
+    "lng": 20.86106
+  },
+  {
+    "name": "Szydłów",
+    "country": "PL",
+    "lat": 50.59114,
+    "lng": 21.0068
+  },
+  {
+    "name": "Szumowo",
+    "country": "PL",
+    "lat": 52.91884,
+    "lng": 22.08449
+  },
+  {
+    "name": "Szreńsk",
+    "country": "PL",
+    "lat": 53.01277,
+    "lng": 20.12009
+  },
+  {
+    "name": "Szerzyny",
+    "country": "PL",
+    "lat": 49.80919,
+    "lng": 21.2467
+  },
+  {
+    "name": "Szerszenie",
+    "country": "PL",
+    "lat": 52.3978,
+    "lng": 22.95632
+  },
+  {
+    "name": "Szepietowo",
+    "country": "PL",
+    "lat": 52.87032,
+    "lng": 22.54392
+  },
+  {
+    "name": "Szelków",
+    "country": "PL",
+    "lat": 52.83487,
+    "lng": 21.21769
+  },
+  {
+    "name": "Szczytno",
+    "country": "PL",
+    "lat": 53.56259,
+    "lng": 20.98747
+  },
+  {
+    "name": "Szczurowa",
+    "country": "PL",
+    "lat": 50.11915,
+    "lng": 20.6361
+  },
+  {
+    "name": "Szczuczyn",
+    "country": "PL",
+    "lat": 53.5633,
+    "lng": 22.28534
+  },
+  {
+    "name": "Szczucin",
+    "country": "PL",
+    "lat": 50.30957,
+    "lng": 21.07444
+  },
+  {
+    "name": "Szczebrzeszyn",
+    "country": "PL",
+    "lat": 50.69499,
+    "lng": 22.97954
+  },
+  {
+    "name": "Szczawnica",
+    "country": "PL",
+    "lat": 49.42437,
+    "lng": 20.48487
+  },
+  {
+    "name": "Szastarka",
+    "country": "PL",
+    "lat": 50.85527,
+    "lng": 22.31971
+  },
+  {
+    "name": "Szarów",
+    "country": "PL",
+    "lat": 49.99505,
+    "lng": 20.2696
+  },
+  {
+    "name": "Szaflary",
+    "country": "PL",
+    "lat": 49.42655,
+    "lng": 20.02713
+  },
+  {
+    "name": "Szydłowo",
+    "country": "PL",
+    "lat": 53.16212,
+    "lng": 16.61171
+  },
+  {
+    "name": "Szubin",
+    "country": "PL",
+    "lat": 53.00967,
+    "lng": 17.74
+  },
+  {
+    "name": "Sztum",
+    "country": "PL",
+    "lat": 53.92077,
+    "lng": 19.03072
+  },
+  {
+    "name": "Szprotawa",
+    "country": "PL",
+    "lat": 51.56563,
+    "lng": 15.53664
+  },
+  {
+    "name": "Szpetal Górny",
+    "country": "PL",
+    "lat": 52.68148,
+    "lng": 19.10004
+  },
+  {
+    "name": "Szlichtyngowa",
+    "country": "PL",
+    "lat": 51.71222,
+    "lng": 16.24427
+  },
+  {
+    "name": "Szlachta",
+    "country": "PL",
+    "lat": 53.76827,
+    "lng": 18.11367
+  },
+  {
+    "name": "Szklarska Poręba",
+    "country": "PL",
+    "lat": 50.82567,
+    "lng": 15.52274
+  },
+  {
+    "name": "Szemud",
+    "country": "PL",
+    "lat": 54.48709,
+    "lng": 18.2228
+  },
+  {
+    "name": "Szczytna",
+    "country": "PL",
+    "lat": 50.41343,
+    "lng": 16.44743
+  },
+  {
+    "name": "Szczyrk",
+    "country": "PL",
+    "lat": 49.71724,
+    "lng": 19.03183
+  },
+  {
+    "name": "Szczutowo",
+    "country": "PL",
+    "lat": 52.94047,
+    "lng": 19.57438
+  },
+  {
+    "name": "Szczerców",
+    "country": "PL",
+    "lat": 51.33319,
+    "lng": 19.10977
+  },
+  {
+    "name": "Szczepanów",
+    "country": "PL",
+    "lat": 51.19796,
+    "lng": 16.61064
+  },
+  {
+    "name": "Szczekociny",
+    "country": "PL",
+    "lat": 50.62669,
+    "lng": 19.825
+  },
+  {
+    "name": "Szczecinek",
+    "country": "PL",
+    "lat": 53.70791,
+    "lng": 16.69937
+  },
+  {
+    "name": "Szczecin",
+    "country": "PL",
+    "lat": 53.42894,
+    "lng": 14.55302
+  },
+  {
+    "name": "Szczawno-Zdrój",
+    "country": "PL",
+    "lat": 50.80352,
+    "lng": 16.25655
+  },
+  {
+    "name": "Szczaniec",
+    "country": "PL",
+    "lat": 52.26874,
+    "lng": 15.6817
+  },
+  {
+    "name": "Szamotuły",
+    "country": "PL",
+    "lat": 52.61201,
+    "lng": 16.57794
+  },
+  {
+    "name": "Szamocin",
+    "country": "PL",
+    "lat": 53.02795,
+    "lng": 17.12653
+  },
+  {
+    "name": "Szadek",
+    "country": "PL",
+    "lat": 51.69174,
+    "lng": 18.97549
+  },
+  {
+    "name": "Szczerbice",
+    "country": "PL",
+    "lat": 50.09416,
+    "lng": 18.44896
+  },
+  {
+    "name": "Sztutowo",
+    "country": "PL",
+    "lat": 54.32679,
+    "lng": 19.17921
+  }
+]

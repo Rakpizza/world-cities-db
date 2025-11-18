@@ -1,0 +1,6338 @@
+[
+  {
+    "name": "Tepelenë",
+    "country": "AL",
+    "lat": 40.29583,
+    "lng": 20.01917
+  },
+  {
+    "name": "Tegh",
+    "country": "AM",
+    "lat": 39.55826,
+    "lng": 46.48054
+  },
+  {
+    "name": "Teghut",
+    "country": "AM",
+    "lat": 40.77851,
+    "lng": 44.93838
+  },
+  {
+    "name": "Termas de Río Hondo",
+    "country": "AR",
+    "lat": -27.49362,
+    "lng": -64.85972
+  },
+  {
+    "name": "Telsen",
+    "country": "AR",
+    "lat": -42.43553,
+    "lng": -66.94321
+  },
+  {
+    "name": "Telén",
+    "country": "AR",
+    "lat": -36.26396,
+    "lng": -65.51035
+  },
+  {
+    "name": "Tecka",
+    "country": "AR",
+    "lat": -43.49287,
+    "lng": -70.81078
+  },
+  {
+    "name": "Teufenbach",
+    "country": "AT",
+    "lat": 47.1287,
+    "lng": 14.35913
+  },
+  {
+    "name": "Ternitz",
+    "country": "AT",
+    "lat": 47.71565,
+    "lng": 16.03575
+  },
+  {
+    "name": "Ternberg",
+    "country": "AT",
+    "lat": 47.94518,
+    "lng": 14.3587
+  },
+  {
+    "name": "Terfens",
+    "country": "AT",
+    "lat": 47.32355,
+    "lng": 11.64388
+  },
+  {
+    "name": "Telfs",
+    "country": "AT",
+    "lat": 47.30707,
+    "lng": 11.06817
+  },
+  {
+    "name": "Telfes im Stubai",
+    "country": "AT",
+    "lat": 47.16667,
+    "lng": 11.36667
+  },
+  {
+    "name": "Teesdorf",
+    "country": "AT",
+    "lat": 47.95,
+    "lng": 16.28333
+  },
+  {
+    "name": "Tennant Creek",
+    "country": "AU",
+    "lat": -19.6497,
+    "lng": 134.19147
+  },
+  {
+    "name": "Tea Tree Gully",
+    "country": "AU",
+    "lat": -34.81667,
+    "lng": 138.73333
+  },
+  {
+    "name": "Tewantin",
+    "country": "AU",
+    "lat": -26.39104,
+    "lng": 153.03432
+  },
+  {
+    "name": "Terrigal",
+    "country": "AU",
+    "lat": -33.44815,
+    "lng": 151.44665
+  },
+  {
+    "name": "Terry Hills",
+    "country": "AU",
+    "lat": -33.68333,
+    "lng": 151.23333
+  },
+  {
+    "name": "Terranora",
+    "country": "AU",
+    "lat": -28.23832,
+    "lng": 153.50078
+  },
+  {
+    "name": "Terang",
+    "country": "AU",
+    "lat": -38.24084,
+    "lng": 142.92123
+  },
+  {
+    "name": "Teralba",
+    "country": "AU",
+    "lat": -32.96667,
+    "lng": 151.6
+  },
+  {
+    "name": "Tenterfield",
+    "country": "AU",
+    "lat": -29.04946,
+    "lng": 152.01952
+  },
+  {
+    "name": "Tenambit",
+    "country": "AU",
+    "lat": -32.73967,
+    "lng": 151.61293
+  },
+  {
+    "name": "Templestowe Lower",
+    "country": "AU",
+    "lat": -37.76667,
+    "lng": 145.11667
+  },
+  {
+    "name": "Templestowe",
+    "country": "AU",
+    "lat": -37.75405,
+    "lng": 145.14864
+  },
+  {
+    "name": "Tempe",
+    "country": "AU",
+    "lat": -33.92335,
+    "lng": 151.1602
+  },
+  {
+    "name": "Temora",
+    "country": "AU",
+    "lat": -34.44834,
+    "lng": 147.53558
+  },
+  {
+    "name": "Telarah",
+    "country": "AU",
+    "lat": -32.72876,
+    "lng": 151.53453
+  },
+  {
+    "name": "Teesdale",
+    "country": "AU",
+    "lat": -38.03333,
+    "lng": 144.05
+  },
+  {
+    "name": "Tea Gardens",
+    "country": "AU",
+    "lat": -32.66351,
+    "lng": 152.15404
+  },
+  {
+    "name": "Tennyson Point",
+    "country": "AU",
+    "lat": -33.83172,
+    "lng": 151.11682
+  },
+  {
+    "name": "Tennyson",
+    "country": "AU",
+    "lat": -34.88601,
+    "lng": 138.48588
+  },
+  {
+    "name": "Teneriffe",
+    "country": "AU",
+    "lat": -27.45587,
+    "lng": 153.04696
+  },
+  {
+    "name": "Tecoma",
+    "country": "AU",
+    "lat": -37.90303,
+    "lng": 145.34468
+  },
+  {
+    "name": "Telina",
+    "country": "AU",
+    "lat": -23.88834,
+    "lng": 151.25379
+  },
+  {
+    "name": "Telopea",
+    "country": "AU",
+    "lat": -33.79279,
+    "lng": 151.03858
+  },
+  {
+    "name": "Terter",
+    "country": "AZ",
+    "lat": 40.34201,
+    "lng": 46.93161
+  },
+  {
+    "name": "Teslić",
+    "country": "BA",
+    "lat": 44.60639,
+    "lng": 17.85972
+  },
+  {
+    "name": "Tešanj",
+    "country": "BA",
+    "lat": 44.61191,
+    "lng": 17.98552
+  },
+  {
+    "name": "Teočak",
+    "country": "BA",
+    "lat": 44.60321,
+    "lng": 18.97967
+  },
+  {
+    "name": "Tetima",
+    "country": "BA",
+    "lat": 44.94776,
+    "lng": 17.91604
+  },
+  {
+    "name": "Tešanjka",
+    "country": "BA",
+    "lat": 44.67228,
+    "lng": 18.01109
+  },
+  {
+    "name": "Teknāf",
+    "country": "BD",
+    "lat": 20.85829,
+    "lng": 92.29773
+  },
+  {
+    "name": "Testelt",
+    "country": "BE",
+    "lat": 51.01084,
+    "lng": 4.95312
+  },
+  {
+    "name": "Tessenderlo",
+    "country": "BE",
+    "lat": 51.06513,
+    "lng": 5.08856
+  },
+  {
+    "name": "Tervuren",
+    "country": "BE",
+    "lat": 50.82372,
+    "lng": 4.51418
+  },
+  {
+    "name": "Tertre",
+    "country": "BE",
+    "lat": 50.4692,
+    "lng": 3.81243
+  },
+  {
+    "name": "Ternat",
+    "country": "BE",
+    "lat": 50.86654,
+    "lng": 4.16682
+  },
+  {
+    "name": "Terhagen",
+    "country": "BE",
+    "lat": 51.07966,
+    "lng": 4.39907
+  },
+  {
+    "name": "Teralfene",
+    "country": "BE",
+    "lat": 50.89195,
+    "lng": 4.09895
+  },
+  {
+    "name": "Tenneville",
+    "country": "BE",
+    "lat": 50.09501,
+    "lng": 5.52895
+  },
+  {
+    "name": "Temse",
+    "country": "BE",
+    "lat": 51.12794,
+    "lng": 4.21372
+  },
+  {
+    "name": "Temploux",
+    "country": "BE",
+    "lat": 50.48558,
+    "lng": 4.75468
+  },
+  {
+    "name": "Templeuve",
+    "country": "BE",
+    "lat": 50.6441,
+    "lng": 3.28013
+  },
+  {
+    "name": "Tellin",
+    "country": "BE",
+    "lat": 50.08038,
+    "lng": 5.21638
+  },
+  {
+    "name": "Terkoest",
+    "country": "BE",
+    "lat": 50.89832,
+    "lng": 5.27623
+  },
+  {
+    "name": "Tenkodogo",
+    "country": "BF",
+    "lat": 11.78,
+    "lng": -0.36972
+  },
+  {
+    "name": "Teteven",
+    "country": "BG",
+    "lat": 42.91667,
+    "lng": 24.26667
+  },
+  {
+    "name": "Tervel",
+    "country": "BG",
+    "lat": 43.74789,
+    "lng": 27.40911
+  },
+  {
+    "name": "Telisai",
+    "country": "BN",
+    "lat": 4.73558,
+    "lng": 114.56324
+  },
+  {
+    "name": "Terra Santa",
+    "country": "BR",
+    "lat": -2.10417,
+    "lng": -56.48694
+  },
+  {
+    "name": "Terra Nova",
+    "country": "BR",
+    "lat": -8.22972,
+    "lng": -39.37556
+  },
+  {
+    "name": "Terra Alta",
+    "country": "BR",
+    "lat": -1.04111,
+    "lng": -47.9075
+  },
+  {
+    "name": "Terezinha",
+    "country": "BR",
+    "lat": -9.05611,
+    "lng": -36.62278
+  },
+  {
+    "name": "Teresina",
+    "country": "BR",
+    "lat": -5.08917,
+    "lng": -42.80194
+  },
+  {
+    "name": "Tenório",
+    "country": "BR",
+    "lat": -6.94194,
+    "lng": -36.62944
+  },
+  {
+    "name": "Tenente Ananias",
+    "country": "BR",
+    "lat": -6.46765,
+    "lng": -38.1794
+  },
+  {
+    "name": "Tejuçuoca",
+    "country": "BR",
+    "lat": -3.98889,
+    "lng": -39.58056
+  },
+  {
+    "name": "Teixeira",
+    "country": "BR",
+    "lat": -7.22278,
+    "lng": -37.25417
+  },
+  {
+    "name": "Teutônia",
+    "country": "BR",
+    "lat": -29.44806,
+    "lng": -51.80639
+  },
+  {
+    "name": "Tesouro",
+    "country": "BR",
+    "lat": -16.07917,
+    "lng": -53.5525
+  },
+  {
+    "name": "Terra Roxa",
+    "country": "BR",
+    "lat": -23.85571,
+    "lng": -50.0314
+  },
+  {
+    "name": "Terra Roxa",
+    "country": "BR",
+    "lat": -20.78889,
+    "lng": -48.32972
+  },
+  {
+    "name": "Terra Rica",
+    "country": "BR",
+    "lat": -22.72643,
+    "lng": -52.6202
+  },
+  {
+    "name": "Terra Preta",
+    "country": "BR",
+    "lat": -22.63333,
+    "lng": -47.05
+  },
+  {
+    "name": "Terra Nova",
+    "country": "BR",
+    "lat": -12.36667,
+    "lng": -40.66667
+  },
+  {
+    "name": "Terra de Areia",
+    "country": "BR",
+    "lat": -29.58528,
+    "lng": -50.07083
+  },
+  {
+    "name": "Terra Boa",
+    "country": "BR",
+    "lat": -23.76806,
+    "lng": -52.44417
+  },
+  {
+    "name": "Terra Nova",
+    "country": "BR",
+    "lat": -12.39167,
+    "lng": -38.625
+  },
+  {
+    "name": "Teresópolis",
+    "country": "BR",
+    "lat": -22.4167,
+    "lng": -42.97822
+  },
+  {
+    "name": "Terenos",
+    "country": "BR",
+    "lat": -20.44222,
+    "lng": -54.86028
+  },
+  {
+    "name": "Teófilo Otoni",
+    "country": "BR",
+    "lat": -17.8575,
+    "lng": -41.50528
+  },
+  {
+    "name": "Teodoro Sampaio",
+    "country": "BR",
+    "lat": -22.5325,
+    "lng": -52.1675
+  },
+  {
+    "name": "Tenente Portela",
+    "country": "BR",
+    "lat": -27.37111,
+    "lng": -53.75833
+  },
+  {
+    "name": "Telêmaco Borba",
+    "country": "BR",
+    "lat": -24.32389,
+    "lng": -50.61556
+  },
+  {
+    "name": "Tejupá",
+    "country": "BR",
+    "lat": -23.34278,
+    "lng": -49.37639
+  },
+  {
+    "name": "Teixeira Soares",
+    "country": "BR",
+    "lat": -25.36833,
+    "lng": -50.46056
+  },
+  {
+    "name": "Teixeiras",
+    "country": "BR",
+    "lat": -20.65111,
+    "lng": -42.85667
+  },
+  {
+    "name": "Teresina de Goiás",
+    "country": "BR",
+    "lat": -13.77727,
+    "lng": -47.26319
+  },
+  {
+    "name": "Teolândia",
+    "country": "BR",
+    "lat": -13.60234,
+    "lng": -39.49241
+  },
+  {
+    "name": "Teofilândia",
+    "country": "BR",
+    "lat": -11.4835,
+    "lng": -38.99681
+  },
+  {
+    "name": "Tefé",
+    "country": "BR",
+    "lat": -3.36841,
+    "lng": -64.72054
+  },
+  {
+    "name": "Teixeirópolis",
+    "country": "BR",
+    "lat": -10.9175,
+    "lng": -62.24944
+  },
+  {
+    "name": "Teixeira de Freitas",
+    "country": "BR",
+    "lat": -17.535,
+    "lng": -39.74194
+  },
+  {
+    "name": "Telha",
+    "country": "BR",
+    "lat": -10.20833,
+    "lng": -36.88389
+  },
+  {
+    "name": "Tenente Laurentino Cruz",
+    "country": "BR",
+    "lat": -6.14806,
+    "lng": -36.71917
+  },
+  {
+    "name": "Teodoro Sampaio",
+    "country": "BR",
+    "lat": -12.30353,
+    "lng": -38.64069
+  },
+  {
+    "name": "Terra Nova do Norte",
+    "country": "BR",
+    "lat": -10.51694,
+    "lng": -55.23083
+  },
+  {
+    "name": "Terra Roxa",
+    "country": "BR",
+    "lat": -24.15667,
+    "lng": -54.09694
+  },
+  {
+    "name": "Teotônio Vilela",
+    "country": "BR",
+    "lat": -9.90971,
+    "lng": -36.35611
+  },
+  {
+    "name": "Terezópolis de Goias",
+    "country": "BR",
+    "lat": -16.48115,
+    "lng": -49.09206
+  },
+  {
+    "name": "Terra Nova do Norte",
+    "country": "BR",
+    "lat": -10.59733,
+    "lng": -55.11675
+  },
+  {
+    "name": "Teakettle Village",
+    "country": "BZ",
+    "lat": 17.2295,
+    "lng": -88.85499
+  },
+  {
+    "name": "Tecumseh",
+    "country": "CA",
+    "lat": 42.316,
+    "lng": -82.884
+  },
+  {
+    "name": "Telkwa",
+    "country": "CA",
+    "lat": 54.69696,
+    "lng": -127.05346
+  },
+  {
+    "name": "Temiskaming Shores",
+    "country": "CA",
+    "lat": 47.49376,
+    "lng": -79.71529
+  },
+  {
+    "name": "Templeton-Est",
+    "country": "CA",
+    "lat": 45.49389,
+    "lng": -75.58833
+  },
+  {
+    "name": "Terrace",
+    "country": "CA",
+    "lat": 54.51634,
+    "lng": -128.60345
+  },
+  {
+    "name": "Terrasse-des-Pins",
+    "country": "CA",
+    "lat": 45.86449,
+    "lng": -74.06627
+  },
+  {
+    "name": "Terrebonne",
+    "country": "CA",
+    "lat": 45.70004,
+    "lng": -73.64732
+  },
+  {
+    "name": "Terra Nova",
+    "country": "CA",
+    "lat": 49.16972,
+    "lng": -123.18905
+  },
+  {
+    "name": "Teufenthal",
+    "country": "CH",
+    "lat": 47.32896,
+    "lng": 8.11777
+  },
+  {
+    "name": "Teufen",
+    "country": "CH",
+    "lat": 47.3908,
+    "lng": 9.38644
+  },
+  {
+    "name": "Tesserete",
+    "country": "CH",
+    "lat": 46.06813,
+    "lng": 8.96501
+  },
+  {
+    "name": "Tegerfelden",
+    "country": "CH",
+    "lat": 47.55809,
+    "lng": 8.28914
+  },
+  {
+    "name": "Tenniken",
+    "country": "CH",
+    "lat": 47.43712,
+    "lng": 7.81149
+  },
+  {
+    "name": "Tengréla",
+    "country": "CI",
+    "lat": 10.48115,
+    "lng": -6.40694
+  },
+  {
+    "name": "Temin",
+    "country": "CI",
+    "lat": 5.53224,
+    "lng": -3.27209
+  },
+  {
+    "name": "Tessodouo",
+    "country": "CI",
+    "lat": 9.03136,
+    "lng": -3.11614
+  },
+  {
+    "name": "Teno",
+    "country": "CL",
+    "lat": -34.87055,
+    "lng": -71.16219
+  },
+  {
+    "name": "Temuco",
+    "country": "CL",
+    "lat": -38.73628,
+    "lng": -72.59738
+  },
+  {
+    "name": "Tengyue",
+    "country": "CN",
+    "lat": 24.99492,
+    "lng": 98.51276
+  },
+  {
+    "name": "Temeke",
+    "country": "CN",
+    "lat": 47.22244,
+    "lng": 89.74276
+  },
+  {
+    "name": "Tekes",
+    "country": "CN",
+    "lat": 43.21669,
+    "lng": 81.83973
+  },
+  {
+    "name": "Tewulike",
+    "country": "CN",
+    "lat": 42.25857,
+    "lng": 86.8573
+  },
+  {
+    "name": "Tengzhou",
+    "country": "CN",
+    "lat": 23.37974,
+    "lng": 110.93435
+  },
+  {
+    "name": "Temuli",
+    "country": "CN",
+    "lat": 27.70795,
+    "lng": 102.80768
+  },
+  {
+    "name": "Tesalia",
+    "country": "CO",
+    "lat": 2.48587,
+    "lng": -75.72921
+  },
+  {
+    "name": "Teruel",
+    "country": "CO",
+    "lat": 2.74193,
+    "lng": -75.56738
+  },
+  {
+    "name": "Teorama",
+    "country": "CO",
+    "lat": 8.43685,
+    "lng": -73.28691
+  },
+  {
+    "name": "Tenza",
+    "country": "CO",
+    "lat": 5.07664,
+    "lng": -73.42077
+  },
+  {
+    "name": "Tenjo",
+    "country": "CO",
+    "lat": 4.8727,
+    "lng": -74.14435
+  },
+  {
+    "name": "Tenerife",
+    "country": "CO",
+    "lat": 9.90093,
+    "lng": -74.85985
+  },
+  {
+    "name": "Tena",
+    "country": "CO",
+    "lat": 4.66001,
+    "lng": -74.39258
+  },
+  {
+    "name": "Tello",
+    "country": "CO",
+    "lat": 3.06694,
+    "lng": -75.13778
+  },
+  {
+    "name": "Tejar",
+    "country": "CR",
+    "lat": 9.74301,
+    "lng": -84.23219
+  },
+  {
+    "name": "Tersefánou",
+    "country": "CY",
+    "lat": 34.85408,
+    "lng": 33.54739
+  },
+  {
+    "name": "Terezín",
+    "country": "CZ",
+    "lat": 50.511,
+    "lng": 14.15055
+  },
+  {
+    "name": "Teplice nad Metují",
+    "country": "CZ",
+    "lat": 50.59332,
+    "lng": 16.17026
+  },
+  {
+    "name": "Teplice",
+    "country": "CZ",
+    "lat": 50.6404,
+    "lng": 13.82451
+  },
+  {
+    "name": "Telnice",
+    "country": "CZ",
+    "lat": 49.10187,
+    "lng": 16.71774
+  },
+  {
+    "name": "Telč",
+    "country": "CZ",
+    "lat": 49.18418,
+    "lng": 15.45275
+  },
+  {
+    "name": "Tečovice",
+    "country": "CZ",
+    "lat": 49.22107,
+    "lng": 17.58733
+  },
+  {
+    "name": "Teplá",
+    "country": "CZ",
+    "lat": 49.97997,
+    "lng": 12.86432
+  },
+  {
+    "name": "Teutschenthal",
+    "country": "DE",
+    "lat": 51.45,
+    "lng": 11.8
+  },
+  {
+    "name": "Teuschnitz",
+    "country": "DE",
+    "lat": 50.39839,
+    "lng": 11.38235
+  },
+  {
+    "name": "Teupitz",
+    "country": "DE",
+    "lat": 52.12967,
+    "lng": 13.6196
+  },
+  {
+    "name": "Teunz",
+    "country": "DE",
+    "lat": 49.48333,
+    "lng": 12.38333
+  },
+  {
+    "name": "Teugn",
+    "country": "DE",
+    "lat": 48.89299,
+    "lng": 12.01175
+  },
+  {
+    "name": "Teuchern",
+    "country": "DE",
+    "lat": 51.12094,
+    "lng": 12.0241
+  },
+  {
+    "name": "Teuchel",
+    "country": "DE",
+    "lat": 51.88842,
+    "lng": 12.64587
+  },
+  {
+    "name": "Teublitz",
+    "country": "DE",
+    "lat": 49.22289,
+    "lng": 12.08727
+  },
+  {
+    "name": "Tettnang",
+    "country": "DE",
+    "lat": 47.66857,
+    "lng": 9.59132
+  },
+  {
+    "name": "Tettenweis",
+    "country": "DE",
+    "lat": 48.44281,
+    "lng": 13.26955
+  },
+  {
+    "name": "Tettau",
+    "country": "DE",
+    "lat": 50.46979,
+    "lng": 11.25888
+  },
+  {
+    "name": "Teterow",
+    "country": "DE",
+    "lat": 53.77356,
+    "lng": 12.57551
+  },
+  {
+    "name": "Tessin",
+    "country": "DE",
+    "lat": 54.02764,
+    "lng": 12.46519
+  },
+  {
+    "name": "Tespe",
+    "country": "DE",
+    "lat": 53.3964,
+    "lng": 10.41084
+  },
+  {
+    "name": "Tennenbronn",
+    "country": "DE",
+    "lat": 48.19041,
+    "lng": 8.35176
+  },
+  {
+    "name": "Teningen",
+    "country": "DE",
+    "lat": 48.12952,
+    "lng": 7.81205
+  },
+  {
+    "name": "Tengen",
+    "country": "DE",
+    "lat": 47.82128,
+    "lng": 8.66117
+  },
+  {
+    "name": "Templin",
+    "country": "DE",
+    "lat": 53.11865,
+    "lng": 13.5022
+  },
+  {
+    "name": "Tempelhof",
+    "country": "DE",
+    "lat": 52.46667,
+    "lng": 13.4
+  },
+  {
+    "name": "Teltow",
+    "country": "DE",
+    "lat": 52.4031,
+    "lng": 13.26014
+  },
+  {
+    "name": "Tellingstedt",
+    "country": "DE",
+    "lat": 54.2201,
+    "lng": 9.28291
+  },
+  {
+    "name": "Telgte",
+    "country": "DE",
+    "lat": 51.97995,
+    "lng": 7.78293
+  },
+  {
+    "name": "Teistungen",
+    "country": "DE",
+    "lat": 51.46667,
+    "lng": 10.26667
+  },
+  {
+    "name": "Teisnach",
+    "country": "DE",
+    "lat": 49.04114,
+    "lng": 12.98784
+  },
+  {
+    "name": "Teising",
+    "country": "DE",
+    "lat": 48.22721,
+    "lng": 12.61137
+  },
+  {
+    "name": "Teisendorf",
+    "country": "DE",
+    "lat": 47.84921,
+    "lng": 12.81919
+  },
+  {
+    "name": "Teichwolframsdorf",
+    "country": "DE",
+    "lat": 50.72093,
+    "lng": 12.24689
+  },
+  {
+    "name": "Teicha",
+    "country": "DE",
+    "lat": 51.55887,
+    "lng": 11.95482
+  },
+  {
+    "name": "Tegernsee",
+    "country": "DE",
+    "lat": 47.7123,
+    "lng": 11.7582
+  },
+  {
+    "name": "Tegernheim",
+    "country": "DE",
+    "lat": 49.02394,
+    "lng": 12.17303
+  },
+  {
+    "name": "Tegel",
+    "country": "DE",
+    "lat": 52.57601,
+    "lng": 13.29389
+  },
+  {
+    "name": "Tecklenburg",
+    "country": "DE",
+    "lat": 52.21957,
+    "lng": 7.81357
+  },
+  {
+    "name": "Tenares",
+    "country": "DO",
+    "lat": 19.37439,
+    "lng": -70.35087
+  },
+  {
+    "name": "Telerghma",
+    "country": "DZ",
+    "lat": 36.11653,
+    "lng": 6.35434
+  },
+  {
+    "name": "Tebesbest",
+    "country": "DZ",
+    "lat": 33.11667,
+    "lng": 6.08333
+  },
+  {
+    "name": "Tenguel",
+    "country": "EC",
+    "lat": -2.99542,
+    "lng": -79.79154
+  },
+  {
+    "name": "Tendales",
+    "country": "EC",
+    "lat": -3.12201,
+    "lng": -79.84602
+  },
+  {
+    "name": "Tena",
+    "country": "EC",
+    "lat": -0.9961,
+    "lng": -77.81315
+  },
+  {
+    "name": "Telembí",
+    "country": "EC",
+    "lat": 0.80802,
+    "lng": -78.92845
+  },
+  {
+    "name": "Tehumardi",
+    "country": "EE",
+    "lat": 58.18027,
+    "lng": 22.24646
+  },
+  {
+    "name": "Teseney",
+    "country": "ER",
+    "lat": 15.11,
+    "lng": 36.6575
+  },
+  {
+    "name": "Teulada",
+    "country": "ES",
+    "lat": 38.7294,
+    "lng": 0.10383
+  },
+  {
+    "name": "Terrinches",
+    "country": "ES",
+    "lat": 38.61057,
+    "lng": -2.84215
+  },
+  {
+    "name": "Terrateig",
+    "country": "ES",
+    "lat": 38.89453,
+    "lng": -0.31993
+  },
+  {
+    "name": "Terque",
+    "country": "ES",
+    "lat": 36.98393,
+    "lng": -2.59679
+  },
+  {
+    "name": "Teror",
+    "country": "ES",
+    "lat": 28.06062,
+    "lng": -15.54909
+  },
+  {
+    "name": "Tembleque",
+    "country": "ES",
+    "lat": 39.69541,
+    "lng": -3.50429
+  },
+  {
+    "name": "Telde",
+    "country": "ES",
+    "lat": 27.99243,
+    "lng": -15.41915
+  },
+  {
+    "name": "Tejeda",
+    "country": "ES",
+    "lat": 27.99508,
+    "lng": -15.61543
+  },
+  {
+    "name": "Teguise",
+    "country": "ES",
+    "lat": 29.06049,
+    "lng": -13.56397
+  },
+  {
+    "name": "Tegueste",
+    "country": "ES",
+    "lat": 28.52236,
+    "lng": -16.34074
+  },
+  {
+    "name": "Teba",
+    "country": "ES",
+    "lat": 36.98358,
+    "lng": -4.91913
+  },
+  {
+    "name": "Teià",
+    "country": "ES",
+    "lat": 41.49804,
+    "lng": 2.32206
+  },
+  {
+    "name": "Tetuán de las Victorias",
+    "country": "ES",
+    "lat": 40.45975,
+    "lng": -3.6975
+  },
+  {
+    "name": "Terzaga",
+    "country": "ES",
+    "lat": 40.69508,
+    "lng": -1.90386
+  },
+  {
+    "name": "Teruel",
+    "country": "ES",
+    "lat": 40.3456,
+    "lng": -1.10646
+  },
+  {
+    "name": "Terroba",
+    "country": "ES",
+    "lat": 42.25809,
+    "lng": -2.44375
+  },
+  {
+    "name": "Terriente",
+    "country": "ES",
+    "lat": 40.29741,
+    "lng": -1.50399
+  },
+  {
+    "name": "Terrer",
+    "country": "ES",
+    "lat": 41.32811,
+    "lng": -1.71329
+  },
+  {
+    "name": "Terradillos de Esgueva",
+    "country": "ES",
+    "lat": 41.81885,
+    "lng": -3.84318
+  },
+  {
+    "name": "Terradillos",
+    "country": "ES",
+    "lat": 40.83836,
+    "lng": -5.5416
+  },
+  {
+    "name": "Terrades",
+    "country": "ES",
+    "lat": 42.31032,
+    "lng": 2.83855
+  },
+  {
+    "name": "Teo",
+    "country": "ES",
+    "lat": 42.795,
+    "lng": -8.548
+  },
+  {
+    "name": "Tenebrón",
+    "country": "ES",
+    "lat": 40.62449,
+    "lng": -6.3545
+  },
+  {
+    "name": "Tendilla",
+    "country": "ES",
+    "lat": 40.54379,
+    "lng": -2.95782
+  },
+  {
+    "name": "Tejeda y Segoyuela",
+    "country": "ES",
+    "lat": 40.63155,
+    "lng": -6.02311
+  },
+  {
+    "name": "Tejeda de Tiétar",
+    "country": "ES",
+    "lat": 40.0179,
+    "lng": -5.86953
+  },
+  {
+    "name": "Tejado",
+    "country": "ES",
+    "lat": 41.58887,
+    "lng": -2.26721
+  },
+  {
+    "name": "Tejadillos",
+    "country": "ES",
+    "lat": 40.13333,
+    "lng": -1.63333
+  },
+  {
+    "name": "Tejada",
+    "country": "ES",
+    "lat": 41.95249,
+    "lng": -3.53514
+  },
+  {
+    "name": "Terrassa",
+    "country": "ES",
+    "lat": 41.56667,
+    "lng": 2.01667
+  },
+  {
+    "name": "Tebela",
+    "country": "ET",
+    "lat": 6.70608,
+    "lng": 37.76966
+  },
+  {
+    "name": "Teuva",
+    "country": "FI",
+    "lat": 62.4819,
+    "lng": 21.74156
+  },
+  {
+    "name": "Tervola",
+    "country": "FI",
+    "lat": 66.08333,
+    "lng": 24.8
+  },
+  {
+    "name": "Tervo",
+    "country": "FI",
+    "lat": 62.95,
+    "lng": 26.75
+  },
+  {
+    "name": "Tervakoski",
+    "country": "FI",
+    "lat": 60.81412,
+    "lng": 24.62594
+  },
+  {
+    "name": "Tesomajärvi",
+    "country": "FI",
+    "lat": 61.50664,
+    "lng": 23.61792
+  },
+  {
+    "name": "Teeriniemi",
+    "country": "FI",
+    "lat": 63.09705,
+    "lng": 21.6959
+  },
+  {
+    "name": "Teyran",
+    "country": "FR",
+    "lat": 43.68528,
+    "lng": 3.92889
+  },
+  {
+    "name": "Teting-sur-Nied",
+    "country": "FR",
+    "lat": 49.05704,
+    "lng": 6.66294
+  },
+  {
+    "name": "Tessy-sur-Vire",
+    "country": "FR",
+    "lat": 48.97381,
+    "lng": -1.06087
+  },
+  {
+    "name": "Tessé-la-Madeleine",
+    "country": "FR",
+    "lat": 48.54963,
+    "lng": -0.42521
+  },
+  {
+    "name": "Terville",
+    "country": "FR",
+    "lat": 49.34668,
+    "lng": 6.13346
+  },
+  {
+    "name": "Terrasson-Lavilledieu",
+    "country": "FR",
+    "lat": 45.13011,
+    "lng": 1.30136
+  },
+  {
+    "name": "Ternay",
+    "country": "FR",
+    "lat": 45.60234,
+    "lng": 4.81064
+  },
+  {
+    "name": "Tergnier",
+    "country": "FR",
+    "lat": 49.65607,
+    "lng": 3.30107
+  },
+  {
+    "name": "Tercis-les-Bains",
+    "country": "FR",
+    "lat": 43.67129,
+    "lng": -1.11054
+  },
+  {
+    "name": "Tercé",
+    "country": "FR",
+    "lat": 46.5168,
+    "lng": 0.56361
+  },
+  {
+    "name": "Tenteling",
+    "country": "FR",
+    "lat": 49.12544,
+    "lng": 6.93751
+  },
+  {
+    "name": "Tennie",
+    "country": "FR",
+    "lat": 48.10765,
+    "lng": -0.07668
+  },
+  {
+    "name": "Tende",
+    "country": "FR",
+    "lat": 44.08752,
+    "lng": 7.59366
+  },
+  {
+    "name": "Tencin",
+    "country": "FR",
+    "lat": 45.31105,
+    "lng": 5.95752
+  },
+  {
+    "name": "Tence",
+    "country": "FR",
+    "lat": 45.11423,
+    "lng": 4.29097
+  },
+  {
+    "name": "Tenay",
+    "country": "FR",
+    "lat": 45.91884,
+    "lng": 5.50797
+  },
+  {
+    "name": "Templeuve-en-Pévèle",
+    "country": "FR",
+    "lat": 50.52336,
+    "lng": 3.17809
+  },
+  {
+    "name": "Templemars",
+    "country": "FR",
+    "lat": 50.57387,
+    "lng": 3.05437
+  },
+  {
+    "name": "Teloché",
+    "country": "FR",
+    "lat": 47.888,
+    "lng": 0.27112
+  },
+  {
+    "name": "Telgruc-sur-Mer",
+    "country": "FR",
+    "lat": 48.23139,
+    "lng": -4.35683
+  },
+  {
+    "name": "Teillé",
+    "country": "FR",
+    "lat": 47.4617,
+    "lng": -1.2781
+  },
+  {
+    "name": "Teynham",
+    "country": "GB",
+    "lat": 51.33045,
+    "lng": 0.80526
+  },
+  {
+    "name": "Tewkesbury",
+    "country": "GB",
+    "lat": 51.99244,
+    "lng": -2.1601
+  },
+  {
+    "name": "Tetney",
+    "country": "GB",
+    "lat": 53.49239,
+    "lng": -0.02106
+  },
+  {
+    "name": "Tetbury",
+    "country": "GB",
+    "lat": 51.63944,
+    "lng": -2.16222
+  },
+  {
+    "name": "Terrington Saint John",
+    "country": "GB",
+    "lat": 52.70546,
+    "lng": 0.27389
+  },
+  {
+    "name": "Terrington St Clement",
+    "country": "GB",
+    "lat": 52.75813,
+    "lng": 0.29732
+  },
+  {
+    "name": "Tenterden",
+    "country": "GB",
+    "lat": 51.06845,
+    "lng": 0.68776
+  },
+  {
+    "name": "Tenby",
+    "country": "GB",
+    "lat": 51.67279,
+    "lng": -4.70447
+  },
+  {
+    "name": "Tenbury Wells",
+    "country": "GB",
+    "lat": 52.31077,
+    "lng": -2.59621
+  },
+  {
+    "name": "Tempsford",
+    "country": "GB",
+    "lat": 52.17051,
+    "lng": -0.29586
+  },
+  {
+    "name": "Templeton",
+    "country": "GB",
+    "lat": 51.77194,
+    "lng": -4.73778
+  },
+  {
+    "name": "Templepatrick",
+    "country": "GB",
+    "lat": 54.68333,
+    "lng": -6.08333
+  },
+  {
+    "name": "Templecombe",
+    "country": "GB",
+    "lat": 50.99908,
+    "lng": -2.41578
+  },
+  {
+    "name": "Teignmouth",
+    "country": "GB",
+    "lat": 50.54581,
+    "lng": -3.49671
+  },
+  {
+    "name": "Teddington",
+    "country": "GB",
+    "lat": 51.42233,
+    "lng": -0.33053
+  },
+  {
+    "name": "Telford",
+    "country": "GB",
+    "lat": 52.67659,
+    "lng": -2.44926
+  },
+  {
+    "name": "Tetritsqaro",
+    "country": "GE",
+    "lat": 41.54379,
+    "lng": 44.46181
+  },
+  {
+    "name": "Terjola",
+    "country": "GE",
+    "lat": 42.18058,
+    "lng": 42.9776
+  },
+  {
+    "name": "Telavi",
+    "country": "GE",
+    "lat": 41.91957,
+    "lng": 45.47002
+  },
+  {
+    "name": "Teshi Old Town",
+    "country": "GH",
+    "lat": 5.58365,
+    "lng": -0.10722
+  },
+  {
+    "name": "Tema",
+    "country": "GH",
+    "lat": 5.6698,
+    "lng": -0.01657
+  },
+  {
+    "name": "Techiman",
+    "country": "GH",
+    "lat": 7.59054,
+    "lng": -1.93947
+  },
+  {
+    "name": "Tema New Town",
+    "country": "GH",
+    "lat": 5.65396,
+    "lng": 0.0264
+  },
+  {
+    "name": "Terpsithéa",
+    "country": "GR",
+    "lat": 39.61898,
+    "lng": 22.35087
+  },
+  {
+    "name": "Terpní",
+    "country": "GR",
+    "lat": 40.91643,
+    "lng": 23.48137
+  },
+  {
+    "name": "Tejutla",
+    "country": "GT",
+    "lat": 15.12254,
+    "lng": -91.80635
+  },
+  {
+    "name": "Teculután",
+    "country": "GT",
+    "lat": 14.98901,
+    "lng": -89.71936
+  },
+  {
+    "name": "Tectitán",
+    "country": "GT",
+    "lat": 15.3063,
+    "lng": -92.06051
+  },
+  {
+    "name": "Tecpán Guatemala",
+    "country": "GT",
+    "lat": 14.76181,
+    "lng": -90.99247
+  },
+  {
+    "name": "Teupasenti",
+    "country": "HN",
+    "lat": 14.21667,
+    "lng": -86.7
+  },
+  {
+    "name": "Tepusteca",
+    "country": "HN",
+    "lat": 15.41667,
+    "lng": -86.31667
+  },
+  {
+    "name": "Tepanguare",
+    "country": "HN",
+    "lat": 14.33333,
+    "lng": -87.75
+  },
+  {
+    "name": "Tela",
+    "country": "HN",
+    "lat": 15.77425,
+    "lng": -87.46731
+  },
+  {
+    "name": "Tegucigalpa",
+    "country": "HN",
+    "lat": 14.0818,
+    "lng": -87.20681
+  },
+  {
+    "name": "Teguajinal",
+    "country": "HN",
+    "lat": 15.36667,
+    "lng": -86.6
+  },
+  {
+    "name": "Texíguat",
+    "country": "HN",
+    "lat": 13.64972,
+    "lng": -87.0225
+  },
+  {
+    "name": "Tenja",
+    "country": "HR",
+    "lat": 45.49806,
+    "lng": 18.74722
+  },
+  {
+    "name": "Tengelic",
+    "country": "HU",
+    "lat": 46.52878,
+    "lng": 18.71117
+  },
+  {
+    "name": "Telki",
+    "country": "HU",
+    "lat": 47.54791,
+    "lng": 18.82816
+  },
+  {
+    "name": "Teluk Nibung",
+    "country": "ID",
+    "lat": 3.001,
+    "lng": 99.8164
+  },
+  {
+    "name": "Teluk Dalam",
+    "country": "ID",
+    "lat": 0.5729,
+    "lng": 97.8034
+  },
+  {
+    "name": "Tebingtinggi",
+    "country": "ID",
+    "lat": 3.3285,
+    "lng": 99.1625
+  },
+  {
+    "name": "Terangun",
+    "country": "ID",
+    "lat": 4.0772,
+    "lng": 97.0666
+  },
+  {
+    "name": "Terawas",
+    "country": "ID",
+    "lat": -3.0526,
+    "lng": 102.8149
+  },
+  {
+    "name": "Tembuni",
+    "country": "ID",
+    "lat": -1.952,
+    "lng": 133.419
+  },
+  {
+    "name": "Ternate",
+    "country": "ID",
+    "lat": 0.79065,
+    "lng": 127.38424
+  },
+  {
+    "name": "Terbanggi Besar",
+    "country": "ID",
+    "lat": -4.87898,
+    "lng": 105.21818
+  },
+  {
+    "name": "Tepas",
+    "country": "ID",
+    "lat": -8.71667,
+    "lng": 116.91667
+  },
+  {
+    "name": "Tentena",
+    "country": "ID",
+    "lat": -1.7562,
+    "lng": 120.648
+  },
+  {
+    "name": "Tenga",
+    "country": "ID",
+    "lat": 1.16146,
+    "lng": 124.43929
+  },
+  {
+    "name": "Teminabuan",
+    "country": "ID",
+    "lat": -1.4416,
+    "lng": 132.01428
+  },
+  {
+    "name": "Tembuku",
+    "country": "ID",
+    "lat": -8.4521,
+    "lng": 115.3846
+  },
+  {
+    "name": "Tembilahan",
+    "country": "ID",
+    "lat": -0.3227,
+    "lng": 103.1603
+  },
+  {
+    "name": "Temanggung",
+    "country": "ID",
+    "lat": -7.31917,
+    "lng": 110.19278
+  },
+  {
+    "name": "Telukpakedai",
+    "country": "ID",
+    "lat": -0.26493,
+    "lng": 109.12069
+  },
+  {
+    "name": "Teluk Dalam",
+    "country": "ID",
+    "lat": 0.53275,
+    "lng": 103.26645
+  },
+  {
+    "name": "Tekung",
+    "country": "ID",
+    "lat": -8.1736,
+    "lng": 113.2796
+  },
+  {
+    "name": "Tehoru",
+    "country": "ID",
+    "lat": -3.4432,
+    "lng": 129.5434
+  },
+  {
+    "name": "Tegalalang",
+    "country": "ID",
+    "lat": -8.4366,
+    "lng": 115.2792
+  },
+  {
+    "name": "Tegal",
+    "country": "ID",
+    "lat": -6.8694,
+    "lng": 109.1402
+  },
+  {
+    "name": "Tebing Tinggi",
+    "country": "ID",
+    "lat": -3.5842,
+    "lng": 103.0772
+  },
+  {
+    "name": "Teluk Kuantan",
+    "country": "ID",
+    "lat": -0.5283,
+    "lng": 101.581
+  },
+  {
+    "name": "Teppo",
+    "country": "ID",
+    "lat": -3.7065,
+    "lng": 119.67
+  },
+  {
+    "name": "Teluknaga",
+    "country": "ID",
+    "lat": -6.09889,
+    "lng": 106.63806
+  },
+  {
+    "name": "Tempurejo",
+    "country": "ID",
+    "lat": -8.2994,
+    "lng": 113.6793
+  },
+  {
+    "name": "Terara",
+    "country": "ID",
+    "lat": -8.6409,
+    "lng": 116.411
+  },
+  {
+    "name": "Tempursari",
+    "country": "ID",
+    "lat": -8.2864,
+    "lng": 112.9791
+  },
+  {
+    "name": "Tebing",
+    "country": "ID",
+    "lat": 1.03211,
+    "lng": 103.42071
+  },
+  {
+    "name": "Teluk Pinang",
+    "country": "ID",
+    "lat": -0.18198,
+    "lng": 103.35893
+  },
+  {
+    "name": "Terbangan",
+    "country": "ID",
+    "lat": 3.21546,
+    "lng": 97.27163
+  },
+  {
+    "name": "Tenggulun",
+    "country": "ID",
+    "lat": 3.99131,
+    "lng": 98.00705
+  },
+  {
+    "name": "Telagaselaba",
+    "country": "ID",
+    "lat": -2.3829,
+    "lng": 115.3144
+  },
+  {
+    "name": "Telagalangsat",
+    "country": "ID",
+    "lat": -2.7908,
+    "lng": 115.5643
+  },
+  {
+    "name": "Teritip",
+    "country": "ID",
+    "lat": -1.83347,
+    "lng": 105.36985
+  },
+  {
+    "name": "Terentang",
+    "country": "ID",
+    "lat": -0.38233,
+    "lng": 109.62098
+  },
+  {
+    "name": "Termonfeckin",
+    "country": "IE",
+    "lat": 53.76333,
+    "lng": -6.26778
+  },
+  {
+    "name": "Terenure",
+    "country": "IE",
+    "lat": 53.30972,
+    "lng": -6.28528
+  },
+  {
+    "name": "Templemore",
+    "country": "IE",
+    "lat": 52.79472,
+    "lng": -7.83389
+  },
+  {
+    "name": "Templeogue",
+    "country": "IE",
+    "lat": 53.29528,
+    "lng": -6.30889
+  },
+  {
+    "name": "Tel Qatsir",
+    "country": "IL",
+    "lat": 32.70545,
+    "lng": 35.61761
+  },
+  {
+    "name": "Tel Yitsẖaq",
+    "country": "IL",
+    "lat": 32.25327,
+    "lng": 34.87034
+  },
+  {
+    "name": "Tel Mond",
+    "country": "IL",
+    "lat": 32.24995,
+    "lng": 34.91737
+  },
+  {
+    "name": "Tel Aviv",
+    "country": "IL",
+    "lat": 32.08088,
+    "lng": 34.78057
+  },
+  {
+    "name": "Tel ‘Adashim",
+    "country": "IL",
+    "lat": 32.65627,
+    "lng": 35.30216
+  },
+  {
+    "name": "Tel Sheva‘",
+    "country": "IL",
+    "lat": 31.24864,
+    "lng": 34.86007
+  },
+  {
+    "name": "Tezu",
+    "country": "IN",
+    "lat": 27.91256,
+    "lng": 96.12882
+  },
+  {
+    "name": "Tezpur",
+    "country": "IN",
+    "lat": 26.63333,
+    "lng": 92.8
+  },
+  {
+    "name": "Tevāram",
+    "country": "IN",
+    "lat": 9.89666,
+    "lng": 77.28092
+  },
+  {
+    "name": "Terdāl",
+    "country": "IN",
+    "lat": 16.49379,
+    "lng": 75.04667
+  },
+  {
+    "name": "Teonthar",
+    "country": "IN",
+    "lat": 24.98207,
+    "lng": 81.64194
+  },
+  {
+    "name": "Teok",
+    "country": "IN",
+    "lat": 26.83197,
+    "lng": 94.41651
+  },
+  {
+    "name": "Tenu",
+    "country": "IN",
+    "lat": 23.72573,
+    "lng": 85.84614
+  },
+  {
+    "name": "Teni",
+    "country": "IN",
+    "lat": 10.01115,
+    "lng": 77.47772
+  },
+  {
+    "name": "Tendūkheda",
+    "country": "IN",
+    "lat": 23.3962,
+    "lng": 79.53947
+  },
+  {
+    "name": "Tellicherry",
+    "country": "IN",
+    "lat": 11.74811,
+    "lng": 75.4929
+  },
+  {
+    "name": "Telhāra",
+    "country": "IN",
+    "lat": 21.02694,
+    "lng": 76.83889
+  },
+  {
+    "name": "Tekkali",
+    "country": "IN",
+    "lat": 18.6057,
+    "lng": 84.23546
+  },
+  {
+    "name": "Tekkalakote",
+    "country": "IN",
+    "lat": 15.53444,
+    "lng": 76.87703
+  },
+  {
+    "name": "Tekāri",
+    "country": "IN",
+    "lat": 24.94253,
+    "lng": 84.84265
+  },
+  {
+    "name": "Tekanpur",
+    "country": "IN",
+    "lat": 25.99401,
+    "lng": 78.28322
+  },
+  {
+    "name": "Tehri",
+    "country": "IN",
+    "lat": 30.39086,
+    "lng": 78.4803
+  },
+  {
+    "name": "Teghra",
+    "country": "IN",
+    "lat": 25.49043,
+    "lng": 85.94001
+  },
+  {
+    "name": "Tensa",
+    "country": "IN",
+    "lat": 21.87279,
+    "lng": 85.17127
+  },
+  {
+    "name": "Telkap",
+    "country": "IN",
+    "lat": 24.70477,
+    "lng": 84.00931
+  },
+  {
+    "name": "Tennala",
+    "country": "IN",
+    "lat": 10.99342,
+    "lng": 75.93504
+  },
+  {
+    "name": "Tenkanidiyūr",
+    "country": "IN",
+    "lat": 13.36907,
+    "lng": 74.70973
+  },
+  {
+    "name": "Tenambākkam",
+    "country": "IN",
+    "lat": 12.81022,
+    "lng": 79.7341
+  },
+  {
+    "name": "Tekkumbāgam",
+    "country": "IN",
+    "lat": 10.12344,
+    "lng": 76.41655
+  },
+  {
+    "name": "Tetra",
+    "country": "IN",
+    "lat": 22.87145,
+    "lng": 84.75888
+  },
+  {
+    "name": "Temanūr",
+    "country": "IN",
+    "lat": 8.33263,
+    "lng": 77.25235
+  },
+  {
+    "name": "Tengampudūr",
+    "country": "IN",
+    "lat": 8.11581,
+    "lng": 77.45789
+  },
+  {
+    "name": "Terūr",
+    "country": "IN",
+    "lat": 8.17331,
+    "lng": 77.46505
+  },
+  {
+    "name": "Terku Kallikulam",
+    "country": "IN",
+    "lat": 8.35282,
+    "lng": 77.6637
+  },
+  {
+    "name": "Tentirupperai",
+    "country": "IN",
+    "lat": 8.60411,
+    "lng": 77.98836
+  },
+  {
+    "name": "Tengnoupal",
+    "country": "IN",
+    "lat": 24.3855,
+    "lng": 94.1472
+  },
+  {
+    "name": "Teliamura",
+    "country": "IN",
+    "lat": 23.84174,
+    "lng": 91.6303
+  },
+  {
+    "name": "Tegheria",
+    "country": "IN",
+    "lat": 26.12863,
+    "lng": 92.21943
+  },
+  {
+    "name": "Termi",
+    "country": "IN",
+    "lat": 23.76998,
+    "lng": 86.06233
+  },
+  {
+    "name": "Telo",
+    "country": "IN",
+    "lat": 23.81793,
+    "lng": 86.12093
+  },
+  {
+    "name": "Teegalpahad",
+    "country": "IN",
+    "lat": 18.85897,
+    "lng": 79.48922
+  },
+  {
+    "name": "Tehran",
+    "country": "IR",
+    "lat": 35.69439,
+    "lng": 51.42151
+  },
+  {
+    "name": "Teulada",
+    "country": "IT",
+    "lat": 38.96658,
+    "lng": 8.77149
+  },
+  {
+    "name": "Tertenia",
+    "country": "IT",
+    "lat": 39.69518,
+    "lng": 9.57878
+  },
+  {
+    "name": "Terravecchia",
+    "country": "IT",
+    "lat": 39.46594,
+    "lng": 16.94623
+  },
+  {
+    "name": "Terrasini",
+    "country": "IT",
+    "lat": 38.14621,
+    "lng": 13.08319
+  },
+  {
+    "name": "Terranova Sappo Minulio",
+    "country": "IT",
+    "lat": 38.32175,
+    "lng": 16.00747
+  },
+  {
+    "name": "Terranova da Sibari",
+    "country": "IT",
+    "lat": 39.65548,
+    "lng": 16.33979
+  },
+  {
+    "name": "Terranova di Pollino",
+    "country": "IT",
+    "lat": 39.97765,
+    "lng": 16.29583
+  },
+  {
+    "name": "Terralba",
+    "country": "IT",
+    "lat": 39.72056,
+    "lng": 8.63504
+  },
+  {
+    "name": "Termini Imerese",
+    "country": "IT",
+    "lat": 37.98225,
+    "lng": 13.69729
+  },
+  {
+    "name": "Tecchiena",
+    "country": "IT",
+    "lat": 41.68822,
+    "lng": 13.34538
+  },
+  {
+    "name": "Tezze",
+    "country": "IT",
+    "lat": 45.69011,
+    "lng": 11.70672
+  },
+  {
+    "name": "Tezze",
+    "country": "IT",
+    "lat": 45.53402,
+    "lng": 11.36997
+  },
+  {
+    "name": "Teti",
+    "country": "IT",
+    "lat": 40.09737,
+    "lng": 9.11923
+  },
+  {
+    "name": "Testico",
+    "country": "IT",
+    "lat": 44.00553,
+    "lng": 8.02639
+  },
+  {
+    "name": "Tessera",
+    "country": "IT",
+    "lat": 45.50241,
+    "lng": 12.32632
+  },
+  {
+    "name": "Tessennano",
+    "country": "IT",
+    "lat": 42.47803,
+    "lng": 11.79101
+  },
+  {
+    "name": "Tesimo",
+    "country": "IT",
+    "lat": 46.56542,
+    "lng": 11.16937
+  },
+  {
+    "name": "Tesero",
+    "country": "IT",
+    "lat": 46.29184,
+    "lng": 11.50946
+  },
+  {
+    "name": "Terzorio",
+    "country": "IT",
+    "lat": 43.85232,
+    "lng": 7.89835
+  },
+  {
+    "name": "Terzigno",
+    "country": "IT",
+    "lat": 40.804,
+    "lng": 14.49309
+  },
+  {
+    "name": "Terruggia",
+    "country": "IT",
+    "lat": 45.08199,
+    "lng": 8.44428
+  },
+  {
+    "name": "Terrossa",
+    "country": "IT",
+    "lat": 45.4634,
+    "lng": 11.3186
+  },
+  {
+    "name": "Terricciola",
+    "country": "IT",
+    "lat": 43.52505,
+    "lng": 10.67961
+  },
+  {
+    "name": "Terrazzo",
+    "country": "IT",
+    "lat": 45.1726,
+    "lng": 11.39485
+  },
+  {
+    "name": "Terrarossa",
+    "country": "IT",
+    "lat": 44.23362,
+    "lng": 9.9611
+  },
+  {
+    "name": "Terranuova Bracciolini",
+    "country": "IT",
+    "lat": 43.55081,
+    "lng": 11.58075
+  },
+  {
+    "name": "Terracina",
+    "country": "IT",
+    "lat": 41.29174,
+    "lng": 13.24359
+  },
+  {
+    "name": "Terontola",
+    "country": "IT",
+    "lat": 43.21009,
+    "lng": 12.01113
+  },
+  {
+    "name": "Terni",
+    "country": "IT",
+    "lat": 42.56335,
+    "lng": 12.64329
+  },
+  {
+    "name": "Ternate",
+    "country": "IT",
+    "lat": 45.78673,
+    "lng": 8.69931
+  },
+  {
+    "name": "Termoli",
+    "country": "IT",
+    "lat": 41.99994,
+    "lng": 14.99389
+  },
+  {
+    "name": "Termeno",
+    "country": "IT",
+    "lat": 46.34151,
+    "lng": 11.24228
+  },
+  {
+    "name": "Terlizzi",
+    "country": "IT",
+    "lat": 41.12905,
+    "lng": 16.54536
+  },
+  {
+    "name": "Terlano",
+    "country": "IT",
+    "lat": 46.53216,
+    "lng": 11.24689
+  },
+  {
+    "name": "Terlago",
+    "country": "IT",
+    "lat": 46.09737,
+    "lng": 11.04505
+  },
+  {
+    "name": "Terenzo",
+    "country": "IT",
+    "lat": 44.61048,
+    "lng": 10.08956
+  },
+  {
+    "name": "Terento",
+    "country": "IT",
+    "lat": 46.82992,
+    "lng": 11.78288
+  },
+  {
+    "name": "Terelle",
+    "country": "IT",
+    "lat": 41.55212,
+    "lng": 13.77841
+  },
+  {
+    "name": "Terdobbiate",
+    "country": "IT",
+    "lat": 45.37588,
+    "lng": 8.69458
+  },
+  {
+    "name": "Teramo",
+    "country": "IT",
+    "lat": 42.66123,
+    "lng": 13.69901
+  },
+  {
+    "name": "Teora",
+    "country": "IT",
+    "lat": 40.85282,
+    "lng": 15.25335
+  },
+  {
+    "name": "Teor",
+    "country": "IT",
+    "lat": 45.85416,
+    "lng": 13.05608
+  },
+  {
+    "name": "Tenno",
+    "country": "IT",
+    "lat": 45.91937,
+    "lng": 10.8316
+  },
+  {
+    "name": "Tencarola",
+    "country": "IT",
+    "lat": 45.3949,
+    "lng": 11.80919
+  },
+  {
+    "name": "Temù",
+    "country": "IT",
+    "lat": 46.25022,
+    "lng": 10.46592
+  },
+  {
+    "name": "Tempio Pausania",
+    "country": "IT",
+    "lat": 40.90068,
+    "lng": 9.10456
+  },
+  {
+    "name": "Telve",
+    "country": "IT",
+    "lat": 46.07011,
+    "lng": 11.48022
+  },
+  {
+    "name": "Telti",
+    "country": "IT",
+    "lat": 40.87575,
+    "lng": 9.35328
+  },
+  {
+    "name": "Telgate",
+    "country": "IT",
+    "lat": 45.62792,
+    "lng": 9.84912
+  },
+  {
+    "name": "Telese Terme",
+    "country": "IT",
+    "lat": 41.21752,
+    "lng": 14.52681
+  },
+  {
+    "name": "Tegoleto",
+    "country": "IT",
+    "lat": 43.39458,
+    "lng": 11.7853
+  },
+  {
+    "name": "Teglio Veneto",
+    "country": "IT",
+    "lat": 45.81637,
+    "lng": 12.88414
+  },
+  {
+    "name": "Teglio",
+    "country": "IT",
+    "lat": 46.17235,
+    "lng": 10.06399
+  },
+  {
+    "name": "Teggiano-Macchiaroli",
+    "country": "IT",
+    "lat": 40.37921,
+    "lng": 15.54046
+  },
+  {
+    "name": "Teano",
+    "country": "IT",
+    "lat": 41.25132,
+    "lng": 14.06652
+  },
+  {
+    "name": "Teana",
+    "country": "IT",
+    "lat": 40.12586,
+    "lng": 16.15281
+  },
+  {
+    "name": "Tergu",
+    "country": "IT",
+    "lat": 40.86652,
+    "lng": 8.71467
+  },
+  {
+    "name": "Terzo d'Aquileia",
+    "country": "IT",
+    "lat": 45.79994,
+    "lng": 13.34177
+  },
+  {
+    "name": "Teverola",
+    "country": "IT",
+    "lat": 40.99561,
+    "lng": 14.20763
+  },
+  {
+    "name": "Terragnolo",
+    "country": "IT",
+    "lat": 45.8783,
+    "lng": 11.15468
+  },
+  {
+    "name": "Tenna",
+    "country": "IT",
+    "lat": 46.0157,
+    "lng": 11.26428
+  },
+  {
+    "name": "Terzolas",
+    "country": "IT",
+    "lat": 46.36111,
+    "lng": 10.92587
+  },
+  {
+    "name": "Terrassa Padovana",
+    "country": "IT",
+    "lat": 45.24409,
+    "lng": 11.90271
+  },
+  {
+    "name": "Terranova dei Passerini",
+    "country": "IT",
+    "lat": 45.21527,
+    "lng": 9.66186
+  },
+  {
+    "name": "Terme",
+    "country": "IT",
+    "lat": 38.13586,
+    "lng": 15.15658
+  },
+  {
+    "name": "Terzo",
+    "country": "IT",
+    "lat": 44.67045,
+    "lng": 8.42164
+  },
+  {
+    "name": "Terno d'Isola",
+    "country": "IT",
+    "lat": 45.68548,
+    "lng": 9.53095
+  },
+  {
+    "name": "Telve di Sopra",
+    "country": "IT",
+    "lat": 46.07131,
+    "lng": 11.47179
+  },
+  {
+    "name": "Terres",
+    "country": "IT",
+    "lat": 46.30991,
+    "lng": 11.02307
+  },
+  {
+    "name": "Ternengo",
+    "country": "IT",
+    "lat": 45.58896,
+    "lng": 8.11372
+  },
+  {
+    "name": "Terraverde-Corte Palasio",
+    "country": "IT",
+    "lat": 45.31552,
+    "lng": 9.56162
+  },
+  {
+    "name": "Tetti Neirotti",
+    "country": "IT",
+    "lat": 45.05338,
+    "lng": 7.54077
+  },
+  {
+    "name": "Terradura",
+    "country": "IT",
+    "lat": 45.3229,
+    "lng": 11.82425
+  },
+  {
+    "name": "Tettorosso",
+    "country": "IT",
+    "lat": 44.47284,
+    "lng": 7.34291
+  },
+  {
+    "name": "Tenri",
+    "country": "JP",
+    "lat": 34.58333,
+    "lng": 135.83333
+  },
+  {
+    "name": "Tennōzu",
+    "country": "JP",
+    "lat": 35.62271,
+    "lng": 139.75118
+  },
+  {
+    "name": "Tennō",
+    "country": "JP",
+    "lat": 39.9,
+    "lng": 139.96667
+  },
+  {
+    "name": "Tenman",
+    "country": "JP",
+    "lat": 35.37599,
+    "lng": 133.36492
+  },
+  {
+    "name": "Tendō",
+    "country": "JP",
+    "lat": 38.35361,
+    "lng": 140.36972
+  },
+  {
+    "name": "Teshio",
+    "country": "JP",
+    "lat": 44.87912,
+    "lng": 141.74162
+  },
+  {
+    "name": "Teshikaga",
+    "country": "JP",
+    "lat": 43.48044,
+    "lng": 144.49637
+  },
+  {
+    "name": "Tennodai",
+    "country": "JP",
+    "lat": 35.87204,
+    "lng": 140.03988
+  },
+  {
+    "name": "Teaoraereke Village",
+    "country": "KI",
+    "lat": 1.33309,
+    "lng": 173.01162
+  },
+  {
+    "name": "Temaiku Village",
+    "country": "KI",
+    "lat": 1.36292,
+    "lng": 173.16226
+  },
+  {
+    "name": "Temir",
+    "country": "KZ",
+    "lat": 49.14284,
+    "lng": 57.12736
+  },
+  {
+    "name": "Terekti",
+    "country": "KZ",
+    "lat": 51.2221,
+    "lng": 51.95731
+  },
+  {
+    "name": "Terenozek",
+    "country": "KZ",
+    "lat": 45.05048,
+    "lng": 64.98258
+  },
+  {
+    "name": "Temirtau",
+    "country": "KZ",
+    "lat": 50.05197,
+    "lng": 72.95497
+  },
+  {
+    "name": "Temirlanovka",
+    "country": "KZ",
+    "lat": 42.59998,
+    "lng": 69.25836
+  },
+  {
+    "name": "Tekeli",
+    "country": "KZ",
+    "lat": 44.8678,
+    "lng": 78.72807
+  },
+  {
+    "name": "Terengköl",
+    "country": "KZ",
+    "lat": 53.06649,
+    "lng": 76.10489
+  },
+  {
+    "name": "Tekeli",
+    "country": "KZ",
+    "lat": 44.86136,
+    "lng": 78.77287
+  },
+  {
+    "name": "Tebnine",
+    "country": "LB",
+    "lat": 33.19399,
+    "lng": 35.40967
+  },
+  {
+    "name": "Teyateyaneng",
+    "country": "LS",
+    "lat": -29.14719,
+    "lng": 27.74895
+  },
+  {
+    "name": "Telsiai",
+    "country": "LT",
+    "lat": 55.98139,
+    "lng": 22.24722
+  },
+  {
+    "name": "Tendrara",
+    "country": "MA",
+    "lat": 33.04964,
+    "lng": -2.00018
+  },
+  {
+    "name": "Temara",
+    "country": "MA",
+    "lat": 33.92866,
+    "lng": -6.90656
+  },
+  {
+    "name": "Telouet",
+    "country": "MA",
+    "lat": 31.28925,
+    "lng": -7.23789
+  },
+  {
+    "name": "Teroual",
+    "country": "MA",
+    "lat": 34.67452,
+    "lng": -5.27331
+  },
+  {
+    "name": "Teleneşti",
+    "country": "MD",
+    "lat": 47.50179,
+    "lng": 28.36478
+  },
+  {
+    "name": "Tetovo",
+    "country": "MK",
+    "lat": 42.00989,
+    "lng": 20.97138
+  },
+  {
+    "name": "Tearce",
+    "country": "MK",
+    "lat": 42.07593,
+    "lng": 21.05179
+  },
+  {
+    "name": "Tessalit",
+    "country": "ML",
+    "lat": 20.20126,
+    "lng": 1.01186
+  },
+  {
+    "name": "Tedim",
+    "country": "MM",
+    "lat": 23.37583,
+    "lng": 93.65389
+  },
+  {
+    "name": "Tegsh",
+    "country": "MN",
+    "lat": 48.75132,
+    "lng": 95.99974
+  },
+  {
+    "name": "Teshig",
+    "country": "MN",
+    "lat": 49.94669,
+    "lng": 102.66123
+  },
+  {
+    "name": "Teel",
+    "country": "MN",
+    "lat": 48.04639,
+    "lng": 100.50917
+  },
+  {
+    "name": "Tembedgha",
+    "country": "MR",
+    "lat": 16.24137,
+    "lng": -8.17321
+  },
+  {
+    "name": "Tevragh Zeina",
+    "country": "MR",
+    "lat": 18.09894,
+    "lng": -15.98848
+  },
+  {
+    "name": "Terre Rouge",
+    "country": "MU",
+    "lat": -20.1283,
+    "lng": 57.53116
+  },
+  {
+    "name": "Tezapotla",
+    "country": "MX",
+    "lat": 21.17381,
+    "lng": -98.81242
+  },
+  {
+    "name": "Tesechoacan",
+    "country": "MX",
+    "lat": 18.13749,
+    "lng": -95.65835
+  },
+  {
+    "name": "Tezoyuca",
+    "country": "MX",
+    "lat": 18.80498,
+    "lng": -99.20212
+  },
+  {
+    "name": "Tezontepec de Aldama",
+    "country": "MX",
+    "lat": 20.19073,
+    "lng": -99.27429
+  },
+  {
+    "name": "Tezontepec",
+    "country": "MX",
+    "lat": 19.88063,
+    "lng": -98.81972
+  },
+  {
+    "name": "Tezonteopan de Bonilla",
+    "country": "MX",
+    "lat": 18.74803,
+    "lng": -98.49134
+  },
+  {
+    "name": "Tezoatlán de Segura y Luna",
+    "country": "MX",
+    "lat": 17.65388,
+    "lng": -97.81068
+  },
+  {
+    "name": "Teziutlan",
+    "country": "MX",
+    "lat": 19.8173,
+    "lng": -97.35992
+  },
+  {
+    "name": "Teya",
+    "country": "MX",
+    "lat": 21.05071,
+    "lng": -89.0731
+  },
+  {
+    "name": "Texistepec",
+    "country": "MX",
+    "lat": 17.89476,
+    "lng": -94.81711
+  },
+  {
+    "name": "Texhuacán",
+    "country": "MX",
+    "lat": 18.62233,
+    "lng": -97.04025
+  },
+  {
+    "name": "Texcoco de Mora",
+    "country": "MX",
+    "lat": 19.51194,
+    "lng": -98.88293
+  },
+  {
+    "name": "Texcatepec",
+    "country": "MX",
+    "lat": 20.58505,
+    "lng": -98.36538
+  },
+  {
+    "name": "Texcatepec",
+    "country": "MX",
+    "lat": 20.27655,
+    "lng": -99.25375
+  },
+  {
+    "name": "Texcapa",
+    "country": "MX",
+    "lat": 21.09228,
+    "lng": -98.85403
+  },
+  {
+    "name": "Texcalyacac",
+    "country": "MX",
+    "lat": 19.13253,
+    "lng": -99.50163
+  },
+  {
+    "name": "Texcala",
+    "country": "MX",
+    "lat": 18.93444,
+    "lng": -98.79472
+  },
+  {
+    "name": "Texca",
+    "country": "MX",
+    "lat": 17.0117,
+    "lng": -99.82474
+  },
+  {
+    "name": "Tetla",
+    "country": "MX",
+    "lat": 18.98709,
+    "lng": -97.06085
+  },
+  {
+    "name": "Tetiz",
+    "country": "MX",
+    "lat": 20.96294,
+    "lng": -89.93372
+  },
+  {
+    "name": "Tetipac",
+    "country": "MX",
+    "lat": 18.64778,
+    "lng": -99.64778
+  },
+  {
+    "name": "Tetepango",
+    "country": "MX",
+    "lat": 20.10168,
+    "lng": -99.15108
+  },
+  {
+    "name": "Teteltzingo",
+    "country": "MX",
+    "lat": 19.05141,
+    "lng": -97.14465
+  },
+  {
+    "name": "Tetelilla",
+    "country": "MX",
+    "lat": 18.61349,
+    "lng": -98.77356
+  },
+  {
+    "name": "Teteles de Avila Castillo",
+    "country": "MX",
+    "lat": 19.85748,
+    "lng": -97.45703
+  },
+  {
+    "name": "Tetelco",
+    "country": "MX",
+    "lat": 19.21673,
+    "lng": -98.97295
+  },
+  {
+    "name": "Tetela de Ocampo",
+    "country": "MX",
+    "lat": 19.8177,
+    "lng": -97.80691
+  },
+  {
+    "name": "Tetela del Volcán",
+    "country": "MX",
+    "lat": 18.89306,
+    "lng": -98.72972
+  },
+  {
+    "name": "Tetecalita",
+    "country": "MX",
+    "lat": 18.76823,
+    "lng": -99.17749
+  },
+  {
+    "name": "Tetecala",
+    "country": "MX",
+    "lat": 18.73009,
+    "lng": -99.40021
+  },
+  {
+    "name": "Tesoco",
+    "country": "MX",
+    "lat": 20.72259,
+    "lng": -88.15456
+  },
+  {
+    "name": "Terrenate",
+    "country": "MX",
+    "lat": 19.47666,
+    "lng": -97.9202
+  },
+  {
+    "name": "Tequixquiac",
+    "country": "MX",
+    "lat": 19.90944,
+    "lng": -99.14472
+  },
+  {
+    "name": "Tequisquiapan",
+    "country": "MX",
+    "lat": 20.5225,
+    "lng": -99.89167
+  },
+  {
+    "name": "Tequila",
+    "country": "MX",
+    "lat": 18.72998,
+    "lng": -97.06991
+  },
+  {
+    "name": "Tequesquitengo",
+    "country": "MX",
+    "lat": 18.61096,
+    "lng": -99.26025
+  },
+  {
+    "name": "Tepoztlán",
+    "country": "MX",
+    "lat": 18.98622,
+    "lng": -99.10051
+  },
+  {
+    "name": "Tepotzotlán",
+    "country": "MX",
+    "lat": 19.72116,
+    "lng": -99.22391
+  },
+  {
+    "name": "Tepeyehualco de Hidalgo",
+    "country": "MX",
+    "lat": 19.48867,
+    "lng": -97.49254
+  },
+  {
+    "name": "Tepeyahualco",
+    "country": "MX",
+    "lat": 18.81428,
+    "lng": -97.87702
+  },
+  {
+    "name": "Tepexi",
+    "country": "MX",
+    "lat": 18.58108,
+    "lng": -97.92606
+  },
+  {
+    "name": "Tepexco",
+    "country": "MX",
+    "lat": 18.6415,
+    "lng": -98.69064
+  },
+  {
+    "name": "Tepetzintla",
+    "country": "MX",
+    "lat": 21.1641,
+    "lng": -97.85236
+  },
+  {
+    "name": "Tepetzintla",
+    "country": "MX",
+    "lat": 19.9672,
+    "lng": -97.84143
+  },
+  {
+    "name": "Tepetzingo",
+    "country": "MX",
+    "lat": 18.78537,
+    "lng": -99.17758
+  },
+  {
+    "name": "Tepetlaoxtoc de Hidalgo",
+    "country": "MX",
+    "lat": 19.57437,
+    "lng": -98.81835
+  },
+  {
+    "name": "Tepetlán",
+    "country": "MX",
+    "lat": 19.67318,
+    "lng": -96.79734
+  },
+  {
+    "name": "Tepetlacolco",
+    "country": "MX",
+    "lat": 18.64104,
+    "lng": -97.69284
+  },
+  {
+    "name": "Tepetitla",
+    "country": "MX",
+    "lat": 19.26531,
+    "lng": -98.37645
+  },
+  {
+    "name": "Tepetitán",
+    "country": "MX",
+    "lat": 17.81998,
+    "lng": -92.37254
+  },
+  {
+    "name": "Tepepa",
+    "country": "MX",
+    "lat": 20.1344,
+    "lng": -98.17131
+  },
+  {
+    "name": "Tepeojuma",
+    "country": "MX",
+    "lat": 18.72468,
+    "lng": -98.44633
+  },
+  {
+    "name": "Tepeji del Río de Ocampo",
+    "country": "MX",
+    "lat": 19.90481,
+    "lng": -99.34379
+  },
+  {
+    "name": "Tepexco",
+    "country": "MX",
+    "lat": 20.02906,
+    "lng": -97.95808
+  },
+  {
+    "name": "Tepeitic",
+    "country": "MX",
+    "lat": 20.24123,
+    "lng": -99.29084
+  },
+  {
+    "name": "Tepehuacán de Guerrero",
+    "country": "MX",
+    "lat": 21.0135,
+    "lng": -98.84184
+  },
+  {
+    "name": "Tepecoacuilco de Trujano",
+    "country": "MX",
+    "lat": 18.2875,
+    "lng": -99.46423
+  },
+  {
+    "name": "Tepeapulco",
+    "country": "MX",
+    "lat": 19.7884,
+    "lng": -98.55266
+  },
+  {
+    "name": "Tepeaca",
+    "country": "MX",
+    "lat": 18.96688,
+    "lng": -97.8998
+  },
+  {
+    "name": "Tepatlaxco de Hidalgo",
+    "country": "MX",
+    "lat": 19.08067,
+    "lng": -97.97338
+  },
+  {
+    "name": "Tepatlaxco",
+    "country": "MX",
+    "lat": 19.06927,
+    "lng": -96.84481
+  },
+  {
+    "name": "Tepatepec",
+    "country": "MX",
+    "lat": 20.24568,
+    "lng": -99.08981
+  },
+  {
+    "name": "Tepapayeca",
+    "country": "MX",
+    "lat": 18.67036,
+    "lng": -98.52944
+  },
+  {
+    "name": "Tepango",
+    "country": "MX",
+    "lat": 20.00314,
+    "lng": -97.79651
+  },
+  {
+    "name": "Tepanco",
+    "country": "MX",
+    "lat": 18.55686,
+    "lng": -97.5613
+  },
+  {
+    "name": "Tepalcingo",
+    "country": "MX",
+    "lat": 18.59498,
+    "lng": -98.84537
+  },
+  {
+    "name": "Tepakan",
+    "country": "MX",
+    "lat": 21.04882,
+    "lng": -89.03873
+  },
+  {
+    "name": "Tepakán",
+    "country": "MX",
+    "lat": 20.39716,
+    "lng": -90.04075
+  },
+  {
+    "name": "Teotitlán del Valle",
+    "country": "MX",
+    "lat": 17.02975,
+    "lng": -96.51926
+  },
+  {
+    "name": "Teopisca",
+    "country": "MX",
+    "lat": 16.54144,
+    "lng": -92.47288
+  },
+  {
+    "name": "Teopantlán",
+    "country": "MX",
+    "lat": 18.71219,
+    "lng": -98.26341
+  },
+  {
+    "name": "Teoloyucan",
+    "country": "MX",
+    "lat": 19.74423,
+    "lng": -99.18113
+  },
+  {
+    "name": "Teocelo",
+    "country": "MX",
+    "lat": 19.3856,
+    "lng": -96.97371
+  },
+  {
+    "name": "Tenosique",
+    "country": "MX",
+    "lat": 17.4729,
+    "lng": -91.4236
+  },
+  {
+    "name": "Tenenexpan",
+    "country": "MX",
+    "lat": 19.14105,
+    "lng": -96.39454
+  },
+  {
+    "name": "Tenejapa",
+    "country": "MX",
+    "lat": 16.81891,
+    "lng": -92.50681
+  },
+  {
+    "name": "Tenango del Aire",
+    "country": "MX",
+    "lat": 19.15774,
+    "lng": -98.85687
+  },
+  {
+    "name": "Tenango de Doria",
+    "country": "MX",
+    "lat": 20.33828,
+    "lng": -98.22805
+  },
+  {
+    "name": "Tenango de Arista",
+    "country": "MX",
+    "lat": 19.10446,
+    "lng": -99.5898
+  },
+  {
+    "name": "Tenango",
+    "country": "MX",
+    "lat": 18.62253,
+    "lng": -98.75175
+  },
+  {
+    "name": "Tenango",
+    "country": "MX",
+    "lat": 16.96667,
+    "lng": -92.41667
+  },
+  {
+    "name": "Tenancingo de Degollado",
+    "country": "MX",
+    "lat": 18.96136,
+    "lng": -99.5903
+  },
+  {
+    "name": "Tenampulco",
+    "country": "MX",
+    "lat": 20.17042,
+    "lng": -97.40496
+  },
+  {
+    "name": "Tenampa",
+    "country": "MX",
+    "lat": 19.24877,
+    "lng": -96.8839
+  },
+  {
+    "name": "Tenabo",
+    "country": "MX",
+    "lat": 20.03981,
+    "lng": -90.22573
+  },
+  {
+    "name": "Tempoal de Sánchez",
+    "country": "MX",
+    "lat": 21.51998,
+    "lng": -98.38829
+  },
+  {
+    "name": "Temozon",
+    "country": "MX",
+    "lat": 20.80393,
+    "lng": -88.20155
+  },
+  {
+    "name": "Temoaya",
+    "country": "MX",
+    "lat": 19.46747,
+    "lng": -99.59407
+  },
+  {
+    "name": "Temoac",
+    "country": "MX",
+    "lat": 18.77222,
+    "lng": -98.7775
+  },
+  {
+    "name": "Temixco",
+    "country": "MX",
+    "lat": 18.85254,
+    "lng": -99.22537
+  },
+  {
+    "name": "Temimilcingo",
+    "country": "MX",
+    "lat": 18.72954,
+    "lng": -99.16071
+  },
+  {
+    "name": "Temax",
+    "country": "MX",
+    "lat": 21.15115,
+    "lng": -88.93928
+  },
+  {
+    "name": "Temascalcingo",
+    "country": "MX",
+    "lat": 19.91635,
+    "lng": -100.00369
+  },
+  {
+    "name": "Temascalapa",
+    "country": "MX",
+    "lat": 19.82766,
+    "lng": -98.90171
+  },
+  {
+    "name": "Temapache",
+    "country": "MX",
+    "lat": 21.06611,
+    "lng": -97.64207
+  },
+  {
+    "name": "Temango",
+    "country": "MX",
+    "lat": 21.13143,
+    "lng": -98.69051
+  },
+  {
+    "name": "Temamatla",
+    "country": "MX",
+    "lat": 19.20306,
+    "lng": -98.86921
+  },
+  {
+    "name": "Teloloapan",
+    "country": "MX",
+    "lat": 18.36663,
+    "lng": -99.87185
+  },
+  {
+    "name": "Telixtac",
+    "country": "MX",
+    "lat": 18.56031,
+    "lng": -98.77625
+  },
+  {
+    "name": "Telchaquillo",
+    "country": "MX",
+    "lat": 20.64693,
+    "lng": -89.46367
+  },
+  {
+    "name": "Telchac Puerto",
+    "country": "MX",
+    "lat": 21.34121,
+    "lng": -89.26333
+  },
+  {
+    "name": "Telchac Pueblo",
+    "country": "MX",
+    "lat": 21.20312,
+    "lng": -89.26945
+  },
+  {
+    "name": "Tekom",
+    "country": "MX",
+    "lat": 20.60303,
+    "lng": -88.2649
+  },
+  {
+    "name": "Tekit",
+    "country": "MX",
+    "lat": 20.53465,
+    "lng": -89.33315
+  },
+  {
+    "name": "Tekik de Regil",
+    "country": "MX",
+    "lat": 20.81647,
+    "lng": -89.56098
+  },
+  {
+    "name": "Tecax",
+    "country": "MX",
+    "lat": 20.2052,
+    "lng": -89.28522
+  },
+  {
+    "name": "Tekanto",
+    "country": "MX",
+    "lat": 21.00968,
+    "lng": -89.10723
+  },
+  {
+    "name": "Tekal de Venegas",
+    "country": "MX",
+    "lat": 21.0139,
+    "lng": -88.9473
+  },
+  {
+    "name": "Tehuixtla",
+    "country": "MX",
+    "lat": 18.55944,
+    "lng": -99.27119
+  },
+  {
+    "name": "Tehuipango",
+    "country": "MX",
+    "lat": 18.51964,
+    "lng": -97.05438
+  },
+  {
+    "name": "Tehuetlán",
+    "country": "MX",
+    "lat": 21.05337,
+    "lng": -98.50853
+  },
+  {
+    "name": "Tehuacán",
+    "country": "MX",
+    "lat": 18.46422,
+    "lng": -97.39735
+  },
+  {
+    "name": "Texin",
+    "country": "MX",
+    "lat": 19.36598,
+    "lng": -97.00487
+  },
+  {
+    "name": "Tecpatán",
+    "country": "MX",
+    "lat": 17.1354,
+    "lng": -93.31039
+  },
+  {
+    "name": "Tecozautla",
+    "country": "MX",
+    "lat": 20.53359,
+    "lng": -99.63449
+  },
+  {
+    "name": "Tecomatlán",
+    "country": "MX",
+    "lat": 18.10958,
+    "lng": -98.31342
+  },
+  {
+    "name": "Tecomatepec",
+    "country": "MX",
+    "lat": 18.83903,
+    "lng": -99.70363
+  },
+  {
+    "name": "Tecolutla",
+    "country": "MX",
+    "lat": 20.48049,
+    "lng": -97.01309
+  },
+  {
+    "name": "Tecolutilla",
+    "country": "MX",
+    "lat": 18.28251,
+    "lng": -93.33352
+  },
+  {
+    "name": "Tecoltepec",
+    "country": "MX",
+    "lat": 18.32515,
+    "lng": -97.07868
+  },
+  {
+    "name": "Tecolapan",
+    "country": "MX",
+    "lat": 18.57037,
+    "lng": -95.33969
+  },
+  {
+    "name": "Tekoh",
+    "country": "MX",
+    "lat": 20.74361,
+    "lng": -89.47406
+  },
+  {
+    "name": "Tecaxic",
+    "country": "MX",
+    "lat": 19.3227,
+    "lng": -99.71524
+  },
+  {
+    "name": "Tecalpulco",
+    "country": "MX",
+    "lat": 18.48808,
+    "lng": -99.60282
+  },
+  {
+    "name": "Tecamalucan",
+    "country": "MX",
+    "lat": 18.76098,
+    "lng": -97.22516
+  },
+  {
+    "name": "Tecamachalco",
+    "country": "MX",
+    "lat": 18.88352,
+    "lng": -97.73344
+  },
+  {
+    "name": "Tecama",
+    "country": "MX",
+    "lat": 19.00379,
+    "lng": -96.98529
+  },
+  {
+    "name": "Tecali",
+    "country": "MX",
+    "lat": 18.9006,
+    "lng": -97.97064
+  },
+  {
+    "name": "Tecajec",
+    "country": "MX",
+    "lat": 18.79806,
+    "lng": -98.815
+  },
+  {
+    "name": "Teayo",
+    "country": "MX",
+    "lat": 20.74419,
+    "lng": -97.67966
+  },
+  {
+    "name": "Teapa",
+    "country": "MX",
+    "lat": 17.55602,
+    "lng": -92.94788
+  },
+  {
+    "name": "Teabo",
+    "country": "MX",
+    "lat": 20.40059,
+    "lng": -89.28316
+  },
+  {
+    "name": "Texcaltitlán",
+    "country": "MX",
+    "lat": 18.93032,
+    "lng": -99.9387
+  },
+  {
+    "name": "Tetla",
+    "country": "MX",
+    "lat": 19.44204,
+    "lng": -98.10325
+  },
+  {
+    "name": "Texcalac",
+    "country": "MX",
+    "lat": 19.42333,
+    "lng": -98.08663
+  },
+  {
+    "name": "Temaxcaltepec",
+    "country": "MX",
+    "lat": 16.16552,
+    "lng": -97.1971
+  },
+  {
+    "name": "Tecomavaca",
+    "country": "MX",
+    "lat": 17.95577,
+    "lng": -97.02263
+  },
+  {
+    "name": "Techachalco",
+    "country": "MX",
+    "lat": 18.95369,
+    "lng": -97.47041
+  },
+  {
+    "name": "Tecuexcomac",
+    "country": "MX",
+    "lat": 19.29385,
+    "lng": -98.34717
+  },
+  {
+    "name": "Tecámac",
+    "country": "MX",
+    "lat": 19.71288,
+    "lng": -98.96895
+  },
+  {
+    "name": "Teloxtoc",
+    "country": "MX",
+    "lat": 18.37919,
+    "lng": -97.58021
+  },
+  {
+    "name": "Tecomaxtlahuaca",
+    "country": "MX",
+    "lat": 17.34721,
+    "lng": -98.03167
+  },
+  {
+    "name": "Teposcolula",
+    "country": "MX",
+    "lat": 17.51125,
+    "lng": -97.48791
+  },
+  {
+    "name": "Teutila",
+    "country": "MX",
+    "lat": 17.97773,
+    "lng": -96.70599
+  },
+  {
+    "name": "Tepetzingo",
+    "country": "MX",
+    "lat": 18.42185,
+    "lng": -97.33785
+  },
+  {
+    "name": "Temextla",
+    "country": "MX",
+    "lat": 19.6091,
+    "lng": -97.66714
+  },
+  {
+    "name": "Tecuanipa",
+    "country": "MX",
+    "lat": 18.88117,
+    "lng": -98.61895
+  },
+  {
+    "name": "Teolocholco",
+    "country": "MX",
+    "lat": 19.24333,
+    "lng": -98.19083
+  },
+  {
+    "name": "Temalacayuca",
+    "country": "MX",
+    "lat": 18.60439,
+    "lng": -97.55735
+  },
+  {
+    "name": "Tejaluca",
+    "country": "MX",
+    "lat": 18.63677,
+    "lng": -98.25046
+  },
+  {
+    "name": "Texmelucan",
+    "country": "MX",
+    "lat": 16.5851,
+    "lng": -97.19907
+  },
+  {
+    "name": "Teotihuacán",
+    "country": "MX",
+    "lat": 19.68862,
+    "lng": -98.8611
+  },
+  {
+    "name": "Tejupa",
+    "country": "MX",
+    "lat": 18.85519,
+    "lng": -98.54124
+  },
+  {
+    "name": "Teacalco",
+    "country": "MX",
+    "lat": 19.80561,
+    "lng": -98.85209
+  },
+  {
+    "name": "Tecuanipan",
+    "country": "MX",
+    "lat": 19.01316,
+    "lng": -98.39843
+  },
+  {
+    "name": "Teotlaltzingo",
+    "country": "MX",
+    "lat": 19.23088,
+    "lng": -98.50077
+  },
+  {
+    "name": "Teontepec",
+    "country": "MX",
+    "lat": 18.49217,
+    "lng": -97.52962
+  },
+  {
+    "name": "Texcala",
+    "country": "MX",
+    "lat": 18.39716,
+    "lng": -97.44519
+  },
+  {
+    "name": "Tepetlapa",
+    "country": "MX",
+    "lat": 17.66601,
+    "lng": -98.39188
+  },
+  {
+    "name": "Tepenixtlahuaca",
+    "country": "MX",
+    "lat": 16.29236,
+    "lng": -97.49184
+  },
+  {
+    "name": "Teojomulco",
+    "country": "MX",
+    "lat": 16.59032,
+    "lng": -97.22493
+  },
+  {
+    "name": "Texcatitlán",
+    "country": "MX",
+    "lat": 17.71259,
+    "lng": -97.06625
+  },
+  {
+    "name": "Teotitlán",
+    "country": "MX",
+    "lat": 18.13179,
+    "lng": -97.07056
+  },
+  {
+    "name": "Tezonapa",
+    "country": "MX",
+    "lat": 18.60706,
+    "lng": -96.68417
+  },
+  {
+    "name": "Temascal",
+    "country": "MX",
+    "lat": 18.24285,
+    "lng": -96.40165
+  },
+  {
+    "name": "Tetela",
+    "country": "MX",
+    "lat": 18.50887,
+    "lng": -96.4588
+  },
+  {
+    "name": "Teococuilco de Marcos Pérez",
+    "country": "MX",
+    "lat": 17.3527,
+    "lng": -96.61528
+  },
+  {
+    "name": "Tecoluta 2da. Sección",
+    "country": "MX",
+    "lat": 18.24408,
+    "lng": -93.01956
+  },
+  {
+    "name": "Tecominoacán",
+    "country": "MX",
+    "lat": 17.91952,
+    "lng": -93.56299
+  },
+  {
+    "name": "Tepexititla",
+    "country": "MX",
+    "lat": 21.13205,
+    "lng": -98.44735
+  },
+  {
+    "name": "Tecacahuaco",
+    "country": "MX",
+    "lat": 20.94133,
+    "lng": -98.33889
+  },
+  {
+    "name": "Tepetitla",
+    "country": "MX",
+    "lat": 20.9614,
+    "lng": -98.384
+  },
+  {
+    "name": "Texcaco",
+    "country": "MX",
+    "lat": 20.83982,
+    "lng": -98.61613
+  },
+  {
+    "name": "Teofani",
+    "country": "MX",
+    "lat": 20.32284,
+    "lng": -99.043
+  },
+  {
+    "name": "Tenango",
+    "country": "MX",
+    "lat": 20.22714,
+    "lng": -99.29068
+  },
+  {
+    "name": "Teltipán de Juárez",
+    "country": "MX",
+    "lat": 20.11527,
+    "lng": -99.20146
+  },
+  {
+    "name": "Tepojaco",
+    "country": "MX",
+    "lat": 19.8407,
+    "lng": -98.94759
+  },
+  {
+    "name": "Tetlanohcán",
+    "country": "MX",
+    "lat": 19.2603,
+    "lng": -98.16433
+  },
+  {
+    "name": "Tepeyanco",
+    "country": "MX",
+    "lat": 19.24558,
+    "lng": -98.23409
+  },
+  {
+    "name": "Tetlatlahuca",
+    "country": "MX",
+    "lat": 19.23232,
+    "lng": -98.29561
+  },
+  {
+    "name": "Tenancingo",
+    "country": "MX",
+    "lat": 19.14725,
+    "lng": -98.20132
+  },
+  {
+    "name": "Texcaltic",
+    "country": "MX",
+    "lat": 14.7955,
+    "lng": -92.18737
+  },
+  {
+    "name": "Tepalcatepec",
+    "country": "MX",
+    "lat": 18.93556,
+    "lng": -99.59917
+  },
+  {
+    "name": "Texcapilla",
+    "country": "MX",
+    "lat": 18.94574,
+    "lng": -99.89535
+  },
+  {
+    "name": "Tepoxtepec",
+    "country": "MX",
+    "lat": 18.96278,
+    "lng": -99.55639
+  },
+  {
+    "name": "Tepetlixpa",
+    "country": "MX",
+    "lat": 19.02893,
+    "lng": -98.82129
+  },
+  {
+    "name": "Tecamachalco",
+    "country": "MX",
+    "lat": 19.35992,
+    "lng": -98.95957
+  },
+  {
+    "name": "Tequexquináhuac",
+    "country": "MX",
+    "lat": 19.47757,
+    "lng": -98.82485
+  },
+  {
+    "name": "Tepetitlán",
+    "country": "MX",
+    "lat": 19.57266,
+    "lng": -98.87053
+  },
+  {
+    "name": "Tequisistlán",
+    "country": "MX",
+    "lat": 19.59642,
+    "lng": -98.94105
+  },
+  {
+    "name": "Tezoyuca",
+    "country": "MX",
+    "lat": 19.59283,
+    "lng": -98.91084
+  },
+  {
+    "name": "Tepexpan",
+    "country": "MX",
+    "lat": 19.61387,
+    "lng": -98.9364
+  },
+  {
+    "name": "Tepazolco",
+    "country": "MX",
+    "lat": 18.69967,
+    "lng": -97.69637
+  },
+  {
+    "name": "Tepetzitzintla",
+    "country": "MX",
+    "lat": 18.68715,
+    "lng": -98.07305
+  },
+  {
+    "name": "Teacalco de Dorantes (San José Teacalco)",
+    "country": "MX",
+    "lat": 18.80444,
+    "lng": -98.50722
+  },
+  {
+    "name": "Teotlalco",
+    "country": "MX",
+    "lat": 18.4691,
+    "lng": -98.77822
+  },
+  {
+    "name": "Tehuitzingo",
+    "country": "MX",
+    "lat": 18.33186,
+    "lng": -98.27587
+  },
+  {
+    "name": "Telpatlán",
+    "country": "MX",
+    "lat": 18.48417,
+    "lng": -97.15222
+  },
+  {
+    "name": "Tepetzitzintla",
+    "country": "MX",
+    "lat": 18.47159,
+    "lng": -97.11931
+  },
+  {
+    "name": "Texcalapa de Juárez",
+    "country": "MX",
+    "lat": 18.0649,
+    "lng": -97.98876
+  },
+  {
+    "name": "Tehuixtla",
+    "country": "MX",
+    "lat": 18.3168,
+    "lng": -99.933
+  },
+  {
+    "name": "Tecuexcontitlán (Tecoescontitlán)",
+    "country": "MX",
+    "lat": 18.14254,
+    "lng": -99.57787
+  },
+  {
+    "name": "Tequicuilco",
+    "country": "MX",
+    "lat": 18.10387,
+    "lng": -99.19812
+  },
+  {
+    "name": "Tecolcuautla",
+    "country": "MX",
+    "lat": 17.7865,
+    "lng": -98.94828
+  },
+  {
+    "name": "Texan de Palomeque",
+    "country": "MX",
+    "lat": 20.9375,
+    "lng": -89.83333
+  },
+  {
+    "name": "Tepich",
+    "country": "MX",
+    "lat": 20.24212,
+    "lng": -88.25694
+  },
+  {
+    "name": "Tenixtepec",
+    "country": "MX",
+    "lat": 19.02116,
+    "lng": -97.14729
+  },
+  {
+    "name": "Tetlaxco",
+    "country": "MX",
+    "lat": 19.04044,
+    "lng": -97.06393
+  },
+  {
+    "name": "Tetzacual",
+    "country": "MX",
+    "lat": 20.77329,
+    "lng": -98.26876
+  },
+  {
+    "name": "Tenantitla",
+    "country": "MX",
+    "lat": 20.77031,
+    "lng": -98.14433
+  },
+  {
+    "name": "Tejalpa",
+    "country": "MX",
+    "lat": 19.25167,
+    "lng": -99.7658
+  },
+  {
+    "name": "Tecoac (Santa María Nativitas)",
+    "country": "MX",
+    "lat": 19.78917,
+    "lng": -99.85306
+  },
+  {
+    "name": "Tercera Manzana de Zaragoza",
+    "country": "MX",
+    "lat": 19.89556,
+    "lng": -99.75278
+  },
+  {
+    "name": "Tenjay",
+    "country": "MX",
+    "lat": 19.80768,
+    "lng": -99.55221
+  },
+  {
+    "name": "Tenayuca",
+    "country": "MX",
+    "lat": 21.50318,
+    "lng": -102.65799
+  },
+  {
+    "name": "Tecualilla",
+    "country": "MX",
+    "lat": 22.76667,
+    "lng": -105.67167
+  },
+  {
+    "name": "Teúl de González Ortega",
+    "country": "MX",
+    "lat": 21.46381,
+    "lng": -103.46098
+  },
+  {
+    "name": "Teuchitlán",
+    "country": "MX",
+    "lat": 20.68476,
+    "lng": -103.8492
+  },
+  {
+    "name": "Tetitlán",
+    "country": "MX",
+    "lat": 21.12903,
+    "lng": -104.61613
+  },
+  {
+    "name": "Terminal de Providencia",
+    "country": "MX",
+    "lat": 24.69137,
+    "lng": -101.46422
+  },
+  {
+    "name": "Teremendo",
+    "country": "MX",
+    "lat": 19.7853,
+    "lng": -101.4798
+  },
+  {
+    "name": "Tequisquiapan",
+    "country": "MX",
+    "lat": 21.07996,
+    "lng": -100.82067
+  },
+  {
+    "name": "Tequila",
+    "country": "MX",
+    "lat": 20.88205,
+    "lng": -103.83599
+  },
+  {
+    "name": "Tequesquitlán",
+    "country": "MX",
+    "lat": 19.38712,
+    "lng": -104.51949
+  },
+  {
+    "name": "Tequepexpan",
+    "country": "MX",
+    "lat": 21.21571,
+    "lng": -104.56958
+  },
+  {
+    "name": "Tepusco",
+    "country": "MX",
+    "lat": 21.61291,
+    "lng": -102.60211
+  },
+  {
+    "name": "Tepic",
+    "country": "MX",
+    "lat": 21.50733,
+    "lng": -104.89332
+  },
+  {
+    "name": "Tepezalá",
+    "country": "MX",
+    "lat": 22.22393,
+    "lng": -102.1696
+  },
+  {
+    "name": "Tepetongo",
+    "country": "MX",
+    "lat": 22.45781,
+    "lng": -103.15233
+  },
+  {
+    "name": "Tepetixtla",
+    "country": "MX",
+    "lat": 17.21541,
+    "lng": -100.11771
+  },
+  {
+    "name": "Tepechitlán",
+    "country": "MX",
+    "lat": 21.67109,
+    "lng": -103.32672
+  },
+  {
+    "name": "Tepec",
+    "country": "MX",
+    "lat": 19.99012,
+    "lng": -103.64167
+  },
+  {
+    "name": "Tepatitlán de Morelos",
+    "country": "MX",
+    "lat": 20.81692,
+    "lng": -102.76347
+  },
+  {
+    "name": "Tepalcatepec",
+    "country": "MX",
+    "lat": 19.18666,
+    "lng": -102.8493
+  },
+  {
+    "name": "Tepache",
+    "country": "MX",
+    "lat": 29.53231,
+    "lng": -109.53088
+  },
+  {
+    "name": "Teocuitatlán de Corona",
+    "country": "MX",
+    "lat": 20.09236,
+    "lng": -103.37814
+  },
+  {
+    "name": "Teocaltiche",
+    "country": "MX",
+    "lat": 21.43434,
+    "lng": -102.57427
+  },
+  {
+    "name": "Tengüecho",
+    "country": "MX",
+    "lat": 19.83836,
+    "lng": -102.34347
+  },
+  {
+    "name": "Tenexpa",
+    "country": "MX",
+    "lat": 17.18486,
+    "lng": -100.67088
+  },
+  {
+    "name": "Tenería del Santuario",
+    "country": "MX",
+    "lat": 20.59955,
+    "lng": -100.7979
+  },
+  {
+    "name": "Tenamaxtlán",
+    "country": "MX",
+    "lat": 20.21742,
+    "lng": -104.16362
+  },
+  {
+    "name": "Temósachic",
+    "country": "MX",
+    "lat": 28.95469,
+    "lng": -107.82957
+  },
+  {
+    "name": "Temascaltepec de González",
+    "country": "MX",
+    "lat": 19.04409,
+    "lng": -100.04236
+  },
+  {
+    "name": "Telcruz",
+    "country": "MX",
+    "lat": 19.47584,
+    "lng": -104.12536
+  },
+  {
+    "name": "Tejupilco de Hidalgo",
+    "country": "MX",
+    "lat": 18.90475,
+    "lng": -100.15275
+  },
+  {
+    "name": "Tejocote de Calera",
+    "country": "MX",
+    "lat": 20.17918,
+    "lng": -101.3971
+  },
+  {
+    "name": "Tecualtitán",
+    "country": "MX",
+    "lat": 20.42545,
+    "lng": -103.02801
+  },
+  {
+    "name": "Tecuala",
+    "country": "MX",
+    "lat": 22.39815,
+    "lng": -105.45808
+  },
+  {
+    "name": "Tecomates",
+    "country": "MX",
+    "lat": 19.55012,
+    "lng": -104.48506
+  },
+  {
+    "name": "Tecomatán",
+    "country": "MX",
+    "lat": 20.11514,
+    "lng": -102.49634
+  },
+  {
+    "name": "Tecomán",
+    "country": "MX",
+    "lat": 18.91614,
+    "lng": -103.87713
+  },
+  {
+    "name": "Tecolots",
+    "country": "MX",
+    "lat": 32.56667,
+    "lng": -114.98333
+  },
+  {
+    "name": "Tecolotlán",
+    "country": "MX",
+    "lat": 20.20144,
+    "lng": -104.04834
+  },
+  {
+    "name": "Techaluta de Montenegro",
+    "country": "MX",
+    "lat": 20.07247,
+    "lng": -103.5514
+  },
+  {
+    "name": "Tecate",
+    "country": "MX",
+    "lat": 32.566,
+    "lng": -116.63187
+  },
+  {
+    "name": "Tecario",
+    "country": "MX",
+    "lat": 19.23247,
+    "lng": -101.54443
+  },
+  {
+    "name": "Tecalitlán",
+    "country": "MX",
+    "lat": 19.47156,
+    "lng": -103.30708
+  },
+  {
+    "name": "Teacapán",
+    "country": "MX",
+    "lat": 22.53973,
+    "lng": -105.73794
+  },
+  {
+    "name": "Tepuxtepec",
+    "country": "MX",
+    "lat": 19.99135,
+    "lng": -100.22566
+  },
+  {
+    "name": "Tetillas",
+    "country": "MX",
+    "lat": 23.71782,
+    "lng": -102.90945
+  },
+  {
+    "name": "Tequesquite",
+    "country": "MX",
+    "lat": 20.0658,
+    "lng": -105.30037
+  },
+  {
+    "name": "Testerazo",
+    "country": "MX",
+    "lat": 21.40242,
+    "lng": -104.8942
+  },
+  {
+    "name": "Tenango el Nuevo",
+    "country": "MX",
+    "lat": 20.53111,
+    "lng": -100.6717
+  },
+  {
+    "name": "Tepetongo",
+    "country": "MX",
+    "lat": 19.90877,
+    "lng": -100.13356
+  },
+  {
+    "name": "Tenería",
+    "country": "MX",
+    "lat": 18.97322,
+    "lng": -100.09299
+  },
+  {
+    "name": "Tetitlán",
+    "country": "MX",
+    "lat": 17.15899,
+    "lng": -100.63981
+  },
+  {
+    "name": "Teotihuacán de Arista",
+    "country": "MX",
+    "lat": 19.68972,
+    "lng": -98.86083
+  },
+  {
+    "name": "Terrazas del Valle",
+    "country": "MX",
+    "lat": 32.4875,
+    "lng": -116.82667
+  },
+  {
+    "name": "Tecámac de Felipe Villanueva",
+    "country": "MX",
+    "lat": 19.71306,
+    "lng": -98.96833
+  },
+  {
+    "name": "Tenextepango",
+    "country": "MX",
+    "lat": 18.72889,
+    "lng": -98.95778
+  },
+  {
+    "name": "Tenango de las Flores",
+    "country": "MX",
+    "lat": 20.20583,
+    "lng": -97.98806
+  },
+  {
+    "name": "Tenango",
+    "country": "MX",
+    "lat": 16.90472,
+    "lng": -92.26139
+  },
+  {
+    "name": "Tezoquipa",
+    "country": "MX",
+    "lat": 20.05639,
+    "lng": -99.20472
+  },
+  {
+    "name": "Tepetzingo",
+    "country": "MX",
+    "lat": 18.93806,
+    "lng": -99.6125
+  },
+  {
+    "name": "Tehuilotepec",
+    "country": "MX",
+    "lat": 18.55167,
+    "lng": -99.58111
+  },
+  {
+    "name": "Tecpantzacoalco",
+    "country": "MX",
+    "lat": 18.47694,
+    "lng": -97.03944
+  },
+  {
+    "name": "Texcaltitán Xoteapan (Texcaltitán)",
+    "country": "MX",
+    "lat": 18.44667,
+    "lng": -95.25333
+  },
+  {
+    "name": "Texalpan de Arriba",
+    "country": "MX",
+    "lat": 18.42944,
+    "lng": -95.24417
+  },
+  {
+    "name": "Techachaltitla",
+    "country": "MX",
+    "lat": 19.365,
+    "lng": -98.94056
+  },
+  {
+    "name": "Tenochtitlán",
+    "country": "MX",
+    "lat": 19.80917,
+    "lng": -96.91611
+  },
+  {
+    "name": "Texcaltepec",
+    "country": "MX",
+    "lat": 20.03028,
+    "lng": -98.32417
+  },
+  {
+    "name": "Tezhuatepec",
+    "country": "MX",
+    "lat": 19.81167,
+    "lng": -97.4625
+  },
+  {
+    "name": "Tepetates",
+    "country": "MX",
+    "lat": 21.95667,
+    "lng": -102.32167
+  },
+  {
+    "name": "Temalacaco",
+    "country": "MX",
+    "lat": 21.41389,
+    "lng": -98.84694
+  },
+  {
+    "name": "Texmola",
+    "country": "MX",
+    "lat": 18.93972,
+    "lng": -97.24389
+  },
+  {
+    "name": "Tepechicotlán",
+    "country": "MX",
+    "lat": 17.48317,
+    "lng": -99.41549
+  },
+  {
+    "name": "Tetecolala",
+    "country": "MX",
+    "lat": 18.9225,
+    "lng": -99.16278
+  },
+  {
+    "name": "Temastián (La Cantera)",
+    "country": "MX",
+    "lat": 21.97722,
+    "lng": -103.525
+  },
+  {
+    "name": "Tepeteno de Iturbide",
+    "country": "MX",
+    "lat": 19.79583,
+    "lng": -97.49722
+  },
+  {
+    "name": "Tepetitán Reyeshogpan de Hidalgo",
+    "country": "MX",
+    "lat": 20.08361,
+    "lng": -97.49361
+  },
+  {
+    "name": "Tepozcuautla",
+    "country": "MX",
+    "lat": 17.62222,
+    "lng": -99.22778
+  },
+  {
+    "name": "Tequila 1ra. Sección (La Aurora)",
+    "country": "MX",
+    "lat": 17.88,
+    "lng": -92.72306
+  },
+  {
+    "name": "Tenexio",
+    "country": "MX",
+    "lat": 21.37667,
+    "lng": -98.87944
+  },
+  {
+    "name": "Tentic",
+    "country": "MX",
+    "lat": 16.86333,
+    "lng": -92.68222
+  },
+  {
+    "name": "Techichili",
+    "country": "MX",
+    "lat": 19.17139,
+    "lng": -99.42222
+  },
+  {
+    "name": "Texocoyohuac",
+    "country": "MX",
+    "lat": 19.77778,
+    "lng": -97.59028
+  },
+  {
+    "name": "Tetelcingo",
+    "country": "MX",
+    "lat": 18.23917,
+    "lng": -98.02667
+  },
+  {
+    "name": "Tetlatzinga",
+    "country": "MX",
+    "lat": 18.69472,
+    "lng": -97.18444
+  },
+  {
+    "name": "Teocalco",
+    "country": "MX",
+    "lat": 20.08582,
+    "lng": -99.28289
+  },
+  {
+    "name": "Texalpan de Abajo",
+    "country": "MX",
+    "lat": 18.42749,
+    "lng": -95.25614
+  },
+  {
+    "name": "Tecoanapa",
+    "country": "MX",
+    "lat": 16.98771,
+    "lng": -99.26002
+  },
+  {
+    "name": "Tequisistlán Primero",
+    "country": "MX",
+    "lat": 19.60002,
+    "lng": -98.95689
+  },
+  {
+    "name": "Teras",
+    "country": "MY",
+    "lat": 3.742,
+    "lng": 101.8112
+  },
+  {
+    "name": "Tenom",
+    "country": "MY",
+    "lat": 5.11922,
+    "lng": 115.93719
+  },
+  {
+    "name": "Tebedu",
+    "country": "MY",
+    "lat": 1.02656,
+    "lng": 110.36331
+  },
+  {
+    "name": "Terung",
+    "country": "MY",
+    "lat": 4.71667,
+    "lng": 100.73333
+  },
+  {
+    "name": "Teluk Mas",
+    "country": "MY",
+    "lat": 2.1654,
+    "lng": 102.322
+  },
+  {
+    "name": "Teluk Panglima Garang",
+    "country": "MY",
+    "lat": 2.90796,
+    "lng": 101.46877
+  },
+  {
+    "name": "Temerluh",
+    "country": "MY",
+    "lat": 3.4506,
+    "lng": 102.4176
+  },
+  {
+    "name": "Teluk Intan",
+    "country": "MY",
+    "lat": 4.02219,
+    "lng": 101.02083
+  },
+  {
+    "name": "Teluk Bahang",
+    "country": "MY",
+    "lat": 5.45834,
+    "lng": 100.21541
+  },
+  {
+    "name": "Telaga Batu",
+    "country": "MY",
+    "lat": 5.46667,
+    "lng": 100.23333
+  },
+  {
+    "name": "Telaga Mas",
+    "country": "MY",
+    "lat": 6.16667,
+    "lng": 100.46667
+  },
+  {
+    "name": "Tebengau",
+    "country": "MY",
+    "lat": 6.04603,
+    "lng": 100.33137
+  },
+  {
+    "name": "Templer Bestari",
+    "country": "MY",
+    "lat": 3.29111,
+    "lng": 101.63802
+  },
+  {
+    "name": "Teloi Kanan",
+    "country": "MY",
+    "lat": 5.71681,
+    "lng": 100.65819
+  },
+  {
+    "name": "Tete",
+    "country": "MZ",
+    "lat": -16.15639,
+    "lng": 33.58667
+  },
+  {
+    "name": "Tessaoua",
+    "country": "NE",
+    "lat": 13.75737,
+    "lng": 7.9874
+  },
+  {
+    "name": "Tegina",
+    "country": "NG",
+    "lat": 10.0706,
+    "lng": 6.1906
+  },
+  {
+    "name": "Tede",
+    "country": "NG",
+    "lat": 8.55336,
+    "lng": 3.44654
+  },
+  {
+    "name": "Teustepe",
+    "country": "NI",
+    "lat": 12.4203,
+    "lng": -85.79798
+  },
+  {
+    "name": "Terrabona",
+    "country": "NI",
+    "lat": 12.73028,
+    "lng": -85.96474
+  },
+  {
+    "name": "Telpaneca",
+    "country": "NI",
+    "lat": 13.53151,
+    "lng": -86.2871
+  },
+  {
+    "name": "Telica",
+    "country": "NI",
+    "lat": 12.522,
+    "lng": -86.85938
+  },
+  {
+    "name": "Teteringen",
+    "country": "NL",
+    "lat": 51.60917,
+    "lng": 4.82083
+  },
+  {
+    "name": "Terwolde",
+    "country": "NL",
+    "lat": 52.28333,
+    "lng": 6.1
+  },
+  {
+    "name": "Terwinselen",
+    "country": "NL",
+    "lat": 50.86659,
+    "lng": 6.02471
+  },
+  {
+    "name": "Terschuur",
+    "country": "NL",
+    "lat": 52.165,
+    "lng": 5.51667
+  },
+  {
+    "name": "Terneuzen",
+    "country": "NL",
+    "lat": 51.33583,
+    "lng": 3.82778
+  },
+  {
+    "name": "Ternaard",
+    "country": "NL",
+    "lat": 53.38203,
+    "lng": 5.96523
+  },
+  {
+    "name": "Terheijden",
+    "country": "NL",
+    "lat": 51.64333,
+    "lng": 4.75417
+  },
+  {
+    "name": "Terbregge",
+    "country": "NL",
+    "lat": 51.95328,
+    "lng": 4.51537
+  },
+  {
+    "name": "Terborg",
+    "country": "NL",
+    "lat": 51.92,
+    "lng": 6.35417
+  },
+  {
+    "name": "Ter Apel",
+    "country": "NL",
+    "lat": 52.87667,
+    "lng": 7.05972
+  },
+  {
+    "name": "Ter Aar",
+    "country": "NL",
+    "lat": 52.16583,
+    "lng": 4.70694
+  },
+  {
+    "name": "Ten Boer",
+    "country": "NL",
+    "lat": 53.27583,
+    "lng": 6.69444
+  },
+  {
+    "name": "Tegelen",
+    "country": "NL",
+    "lat": 51.34417,
+    "lng": 6.13611
+  },
+  {
+    "name": "Terråk",
+    "country": "NO",
+    "lat": 65.087,
+    "lng": 12.37148
+  },
+  {
+    "name": "Teigebyen",
+    "country": "NO",
+    "lat": 60.22069,
+    "lng": 11.0176
+  },
+  {
+    "name": "Tennevoll",
+    "country": "NO",
+    "lat": 68.7471,
+    "lng": 17.80621
+  },
+  {
+    "name": "Templeton",
+    "country": "NZ",
+    "lat": -43.55,
+    "lng": 172.46667
+  },
+  {
+    "name": "Te Kauwhata",
+    "country": "NZ",
+    "lat": -37.4,
+    "lng": 175.15
+  },
+  {
+    "name": "Te Anau",
+    "country": "NZ",
+    "lat": -45.41667,
+    "lng": 167.71667
+  },
+  {
+    "name": "Temuka",
+    "country": "NZ",
+    "lat": -44.22834,
+    "lng": 171.2801
+  },
+  {
+    "name": "Terrace End",
+    "country": "NZ",
+    "lat": -40.34825,
+    "lng": 175.63021
+  },
+  {
+    "name": "Te Papapa",
+    "country": "NZ",
+    "lat": -36.9182,
+    "lng": 174.80019
+  },
+  {
+    "name": "Te Atatu Peninsula",
+    "country": "NZ",
+    "lat": -36.84103,
+    "lng": 174.65223
+  },
+  {
+    "name": "Te Atatu South",
+    "country": "NZ",
+    "lat": -36.86472,
+    "lng": 174.64768
+  },
+  {
+    "name": "Te Kuiti",
+    "country": "NZ",
+    "lat": -38.33627,
+    "lng": 175.17014
+  },
+  {
+    "name": "Te Aroha",
+    "country": "NZ",
+    "lat": -37.52821,
+    "lng": 175.71021
+  },
+  {
+    "name": "Te Hapara",
+    "country": "NZ",
+    "lat": -38.64824,
+    "lng": 177.99021
+  },
+  {
+    "name": "Te Awamutu",
+    "country": "NZ",
+    "lat": -38.00822,
+    "lng": 175.3302
+  },
+  {
+    "name": "Te Puke",
+    "country": "NZ",
+    "lat": -37.77822,
+    "lng": 176.33021
+  },
+  {
+    "name": "Temple View",
+    "country": "NZ",
+    "lat": -37.82077,
+    "lng": 175.2255
+  },
+  {
+    "name": "Te Aro",
+    "country": "NZ",
+    "lat": -41.294,
+    "lng": 174.77727
+  },
+  {
+    "name": "Tebario",
+    "country": "PA",
+    "lat": 7.7192,
+    "lng": -80.97464
+  },
+  {
+    "name": "Tembladera",
+    "country": "PE",
+    "lat": -7.25319,
+    "lng": -79.1308
+  },
+  {
+    "name": "Tevaitoa",
+    "country": "PF",
+    "lat": -16.79139,
+    "lng": -151.48893
+  },
+  {
+    "name": "Teavaro",
+    "country": "PF",
+    "lat": -17.5,
+    "lng": -149.76667
+  },
+  {
+    "name": "Teahupoo",
+    "country": "PF",
+    "lat": -17.84645,
+    "lng": -149.26682
+  },
+  {
+    "name": "Ternate",
+    "country": "PH",
+    "lat": 14.2897,
+    "lng": 120.7168
+  },
+  {
+    "name": "Teresita",
+    "country": "PH",
+    "lat": 6.41434,
+    "lng": 124.70778
+  },
+  {
+    "name": "Teresa",
+    "country": "PH",
+    "lat": 14.5612,
+    "lng": 121.2195
+  },
+  {
+    "name": "Telbang",
+    "country": "PH",
+    "lat": 16.17241,
+    "lng": 120.06074
+  },
+  {
+    "name": "Telafas",
+    "country": "PH",
+    "lat": 6.6298,
+    "lng": 124.97294
+  },
+  {
+    "name": "Telabastagan",
+    "country": "PH",
+    "lat": 15.11854,
+    "lng": 120.60773
+  },
+  {
+    "name": "Tebag East",
+    "country": "PH",
+    "lat": 15.98123,
+    "lng": 120.4674
+  },
+  {
+    "name": "Tereszpol",
+    "country": "PL",
+    "lat": 50.58373,
+    "lng": 22.8798
+  },
+  {
+    "name": "Terespol",
+    "country": "PL",
+    "lat": 52.0755,
+    "lng": 23.61614
+  },
+  {
+    "name": "Teresin",
+    "country": "PL",
+    "lat": 52.19887,
+    "lng": 20.41672
+  },
+  {
+    "name": "Telatyn",
+    "country": "PL",
+    "lat": 50.52712,
+    "lng": 23.83956
+  },
+  {
+    "name": "Tenczynek",
+    "country": "PL",
+    "lat": 50.11986,
+    "lng": 19.61308
+  },
+  {
+    "name": "Terrugem",
+    "country": "PT",
+    "lat": 38.70647,
+    "lng": -9.28693
+  },
+  {
+    "name": "Terras de Bouro",
+    "country": "PT",
+    "lat": 41.71769,
+    "lng": -8.30888
+  },
+  {
+    "name": "Telões",
+    "country": "PT",
+    "lat": 41.31054,
+    "lng": -8.11101
+  },
+  {
+    "name": "Teixoso",
+    "country": "PT",
+    "lat": 40.31448,
+    "lng": -7.45759
+  },
+  {
+    "name": "Tebosa",
+    "country": "PT",
+    "lat": 41.48253,
+    "lng": -8.48399
+  },
+  {
+    "name": "Tetoiu",
+    "country": "RO",
+    "lat": 44.75,
+    "lng": 23.91667
+  },
+  {
+    "name": "Tețcoiu",
+    "country": "RO",
+    "lat": 44.68188,
+    "lng": 25.43846
+  },
+  {
+    "name": "Teslui",
+    "country": "RO",
+    "lat": 44.51667,
+    "lng": 24.36667
+  },
+  {
+    "name": "Teșila",
+    "country": "RO",
+    "lat": 45.30352,
+    "lng": 25.72324
+  },
+  {
+    "name": "Terpeziţa",
+    "country": "RO",
+    "lat": 44.29191,
+    "lng": 23.50559
+  },
+  {
+    "name": "Teremia Mare",
+    "country": "RO",
+    "lat": 45.93528,
+    "lng": 20.525
+  },
+  {
+    "name": "Teregova",
+    "country": "RO",
+    "lat": 45.15,
+    "lng": 22.28333
+  },
+  {
+    "name": "Terebeşti",
+    "country": "RO",
+    "lat": 47.68333,
+    "lng": 22.71667
+  },
+  {
+    "name": "Teliucu Inferior",
+    "country": "RO",
+    "lat": 45.71667,
+    "lng": 22.88333
+  },
+  {
+    "name": "Teliu",
+    "country": "RO",
+    "lat": 45.69856,
+    "lng": 25.8559
+  },
+  {
+    "name": "Teleşti",
+    "country": "RO",
+    "lat": 45.0,
+    "lng": 23.08333
+  },
+  {
+    "name": "Teleormanu",
+    "country": "RO",
+    "lat": 43.96271,
+    "lng": 25.45876
+  },
+  {
+    "name": "Telega",
+    "country": "RO",
+    "lat": 45.13333,
+    "lng": 25.78333
+  },
+  {
+    "name": "Telec",
+    "country": "RO",
+    "lat": 46.87979,
+    "lng": 25.87775
+  },
+  {
+    "name": "Telciu",
+    "country": "RO",
+    "lat": 47.43333,
+    "lng": 24.4
+  },
+  {
+    "name": "Telcișor",
+    "country": "RO",
+    "lat": 47.46,
+    "lng": 24.45158
+  },
+  {
+    "name": "Teiuş",
+    "country": "RO",
+    "lat": 46.2,
+    "lng": 23.68333
+  },
+  {
+    "name": "Teiu",
+    "country": "RO",
+    "lat": 44.66667,
+    "lng": 25.1
+  },
+  {
+    "name": "Teişani",
+    "country": "RO",
+    "lat": 45.23333,
+    "lng": 25.98333
+  },
+  {
+    "name": "Teiș",
+    "country": "RO",
+    "lat": 44.96285,
+    "lng": 25.4028
+  },
+  {
+    "name": "Tecuci",
+    "country": "RO",
+    "lat": 45.84973,
+    "lng": 27.43441
+  },
+  {
+    "name": "Tecuci",
+    "country": "RO",
+    "lat": 44.34179,
+    "lng": 24.85966
+  },
+  {
+    "name": "Techirghiol",
+    "country": "RO",
+    "lat": 44.05,
+    "lng": 28.6
+  },
+  {
+    "name": "Teasc",
+    "country": "RO",
+    "lat": 44.16454,
+    "lng": 23.86461
+  },
+  {
+    "name": "Teaca",
+    "country": "RO",
+    "lat": 46.91667,
+    "lng": 24.51667
+  },
+  {
+    "name": "Teslui",
+    "country": "RO",
+    "lat": 44.20559,
+    "lng": 24.15482
+  },
+  {
+    "name": "Temerin",
+    "country": "RS",
+    "lat": 45.40861,
+    "lng": 19.88917
+  },
+  {
+    "name": "Teykovo",
+    "country": "RU",
+    "lat": 56.85853,
+    "lng": 40.54028
+  },
+  {
+    "name": "Tetyushi",
+    "country": "RU",
+    "lat": 54.93768,
+    "lng": 48.83267
+  },
+  {
+    "name": "Teryayevo",
+    "country": "RU",
+    "lat": 56.16974,
+    "lng": 36.12545
+  },
+  {
+    "name": "Terskol",
+    "country": "RU",
+    "lat": 43.2568,
+    "lng": 42.51481
+  },
+  {
+    "name": "Terskaya",
+    "country": "RU",
+    "lat": 43.72376,
+    "lng": 44.72442
+  },
+  {
+    "name": "Tersa",
+    "country": "RU",
+    "lat": 52.08671,
+    "lng": 47.53936
+  },
+  {
+    "name": "Ternevskaya",
+    "country": "RU",
+    "lat": 45.8513,
+    "lng": 40.4125
+  },
+  {
+    "name": "Ternovka",
+    "country": "RU",
+    "lat": 51.678,
+    "lng": 41.60047
+  },
+  {
+    "name": "Teribërka",
+    "country": "RU",
+    "lat": 69.16088,
+    "lng": 35.14527
+  },
+  {
+    "name": "Tereze",
+    "country": "RU",
+    "lat": 43.93608,
+    "lng": 42.4434
+  },
+  {
+    "name": "Teren’ga",
+    "country": "RU",
+    "lat": 53.71614,
+    "lng": 48.36916
+  },
+  {
+    "name": "Terekli-Mekteb",
+    "country": "RU",
+    "lat": 44.16606,
+    "lng": 45.8719
+  },
+  {
+    "name": "Terek",
+    "country": "RU",
+    "lat": 43.48329,
+    "lng": 44.13781
+  },
+  {
+    "name": "Terbuny",
+    "country": "RU",
+    "lat": 52.14526,
+    "lng": 38.28114
+  },
+  {
+    "name": "Ten’gushevo",
+    "country": "RU",
+    "lat": 54.76878,
+    "lng": 42.72005
+  },
+  {
+    "name": "Temyasovo",
+    "country": "RU",
+    "lat": 52.99333,
+    "lng": 58.10139
+  },
+  {
+    "name": "Temryuk",
+    "country": "RU",
+    "lat": 45.26885,
+    "lng": 37.39752
+  },
+  {
+    "name": "Temnikov",
+    "country": "RU",
+    "lat": 54.63059,
+    "lng": 43.21918
+  },
+  {
+    "name": "Temizhbekskaya",
+    "country": "RU",
+    "lat": 45.45078,
+    "lng": 41.03866
+  },
+  {
+    "name": "Temizhbekskaya",
+    "country": "RU",
+    "lat": 45.44556,
+    "lng": 40.845
+  },
+  {
+    "name": "Temirgoyevskaya",
+    "country": "RU",
+    "lat": 45.11414,
+    "lng": 40.28027
+  },
+  {
+    "name": "Temiraul",
+    "country": "RU",
+    "lat": 43.25322,
+    "lng": 46.8254
+  },
+  {
+    "name": "Tekstil’shchiki",
+    "country": "RU",
+    "lat": 55.70033,
+    "lng": 37.74271
+  },
+  {
+    "name": "Teya",
+    "country": "RU",
+    "lat": 60.37202,
+    "lng": 92.62956
+  },
+  {
+    "name": "Tevriz",
+    "country": "RU",
+    "lat": 57.51162,
+    "lng": 72.39793
+  },
+  {
+    "name": "Temirtau",
+    "country": "RU",
+    "lat": 53.1377,
+    "lng": 87.4538
+  },
+  {
+    "name": "Tegul’det",
+    "country": "RU",
+    "lat": 57.30584,
+    "lng": 88.164
+  },
+  {
+    "name": "Teeli",
+    "country": "RU",
+    "lat": 51.01395,
+    "lng": 90.20092
+  },
+  {
+    "name": "Terney",
+    "country": "RU",
+    "lat": 45.04952,
+    "lng": 136.61238
+  },
+  {
+    "name": "Tel’ma",
+    "country": "RU",
+    "lat": 52.6981,
+    "lng": 103.71383
+  },
+  {
+    "name": "Tenhult",
+    "country": "SE",
+    "lat": 57.70761,
+    "lng": 14.32205
+  },
+  {
+    "name": "Teckomatorp",
+    "country": "SE",
+    "lat": 55.86667,
+    "lng": 13.08333
+  },
+  {
+    "name": "Tensta",
+    "country": "SE",
+    "lat": 59.3939,
+    "lng": 17.90111
+  },
+  {
+    "name": "Telok Blangah",
+    "country": "SG",
+    "lat": 1.27472,
+    "lng": 103.81167
+  },
+  {
+    "name": "Teck Whye",
+    "country": "SG",
+    "lat": 1.3803,
+    "lng": 103.75197
+  },
+  {
+    "name": "Telgárt",
+    "country": "SK",
+    "lat": 48.85156,
+    "lng": 20.18849
+  },
+  {
+    "name": "Tešedíkovo",
+    "country": "SK",
+    "lat": 48.10609,
+    "lng": 17.8519
+  },
+  {
+    "name": "Terchová",
+    "country": "SK",
+    "lat": 49.25895,
+    "lng": 19.02935
+  },
+  {
+    "name": "Tekovské Nemce",
+    "country": "SK",
+    "lat": 48.3561,
+    "lng": 18.53014
+  },
+  {
+    "name": "Tekovské Lužany",
+    "country": "SK",
+    "lat": 48.09865,
+    "lng": 18.53787
+  },
+  {
+    "name": "Tesárske Mlyňany",
+    "country": "SK",
+    "lat": 48.33405,
+    "lng": 18.35358
+  },
+  {
+    "name": "Tefeya",
+    "country": "SL",
+    "lat": 8.70395,
+    "lng": -11.2126
+  },
+  {
+    "name": "Texistepeque",
+    "country": "SV",
+    "lat": 14.13333,
+    "lng": -89.5
+  },
+  {
+    "name": "Tenancingo",
+    "country": "SV",
+    "lat": 13.83333,
+    "lng": -88.98333
+  },
+  {
+    "name": "Tecoluca",
+    "country": "SV",
+    "lat": 13.78917,
+    "lng": -89.00528
+  },
+  {
+    "name": "Tejen",
+    "country": "TM",
+    "lat": 37.38338,
+    "lng": 60.50545
+  },
+  {
+    "name": "Testour",
+    "country": "TN",
+    "lat": 36.5513,
+    "lng": 9.44307
+  },
+  {
+    "name": "Tebourba",
+    "country": "TN",
+    "lat": 36.82933,
+    "lng": 9.83935
+  },
+  {
+    "name": "Teboulbou",
+    "country": "TN",
+    "lat": 33.8455,
+    "lng": 10.11423
+  },
+  {
+    "name": "Teboulba",
+    "country": "TN",
+    "lat": 35.64018,
+    "lng": 10.96731
+  },
+  {
+    "name": "Tetirlik",
+    "country": "TR",
+    "lat": 37.5362,
+    "lng": 37.27477
+  },
+  {
+    "name": "Tercan",
+    "country": "TR",
+    "lat": 39.77709,
+    "lng": 40.37783
+  },
+  {
+    "name": "Tepeüstü",
+    "country": "TR",
+    "lat": 37.11121,
+    "lng": 41.38274
+  },
+  {
+    "name": "Tepehan",
+    "country": "TR",
+    "lat": 38.11788,
+    "lng": 38.72622
+  },
+  {
+    "name": "Tepecikören",
+    "country": "TR",
+    "lat": 37.36135,
+    "lng": 35.62627
+  },
+  {
+    "name": "Tepecik",
+    "country": "TR",
+    "lat": 37.82358,
+    "lng": 27.87496
+  },
+  {
+    "name": "Tepebaşı",
+    "country": "TR",
+    "lat": 36.66628,
+    "lng": 32.72214
+  },
+  {
+    "name": "Tepebağ",
+    "country": "TR",
+    "lat": 37.33876,
+    "lng": 40.27018
+  },
+  {
+    "name": "Tepealtı",
+    "country": "TR",
+    "lat": 37.09586,
+    "lng": 41.37029
+  },
+  {
+    "name": "Tepe",
+    "country": "TR",
+    "lat": 37.78943,
+    "lng": 40.77161
+  },
+  {
+    "name": "Temelli",
+    "country": "TR",
+    "lat": 39.7275,
+    "lng": 32.35528
+  },
+  {
+    "name": "Tekman",
+    "country": "TR",
+    "lat": 39.64111,
+    "lng": 41.50542
+  },
+  {
+    "name": "Tekkeköy",
+    "country": "TR",
+    "lat": 36.61722,
+    "lng": 29.87
+  },
+  {
+    "name": "Tekirova",
+    "country": "TR",
+    "lat": 36.5017,
+    "lng": 30.52723
+  },
+  {
+    "name": "Tekeler",
+    "country": "TR",
+    "lat": 37.54025,
+    "lng": 27.78648
+  },
+  {
+    "name": "Tefenni",
+    "country": "TR",
+    "lat": 37.30968,
+    "lng": 29.77538
+  },
+  {
+    "name": "Tecirli",
+    "country": "TR",
+    "lat": 37.16183,
+    "lng": 36.10978
+  },
+  {
+    "name": "Tece",
+    "country": "TR",
+    "lat": 36.70257,
+    "lng": 34.44897
+  },
+  {
+    "name": "Tepehan",
+    "country": "TR",
+    "lat": 36.15853,
+    "lng": 36.2286
+  },
+  {
+    "name": "Terme",
+    "country": "TR",
+    "lat": 41.20917,
+    "lng": 36.97389
+  },
+  {
+    "name": "Tepecik",
+    "country": "TR",
+    "lat": 41.02931,
+    "lng": 28.54978
+  },
+  {
+    "name": "Tekkiraz",
+    "country": "TR",
+    "lat": 40.98588,
+    "lng": 37.16028
+  },
+  {
+    "name": "Tekkeköy",
+    "country": "TR",
+    "lat": 41.21167,
+    "lng": 36.46
+  },
+  {
+    "name": "Tekke",
+    "country": "TR",
+    "lat": 40.71556,
+    "lng": 36.19247
+  },
+  {
+    "name": "Tekirdağ",
+    "country": "TR",
+    "lat": 40.9781,
+    "lng": 27.51101
+  },
+  {
+    "name": "Teke",
+    "country": "TR",
+    "lat": 41.0605,
+    "lng": 29.65381
+  },
+  {
+    "name": "Termal",
+    "country": "TR",
+    "lat": 40.60739,
+    "lng": 29.17306
+  },
+  {
+    "name": "Tepetarla",
+    "country": "TR",
+    "lat": 41.14401,
+    "lng": 29.1466
+  },
+  {
+    "name": "Tepeköy",
+    "country": "TR",
+    "lat": 39.08794,
+    "lng": 27.10713
+  },
+  {
+    "name": "Tepebaşı",
+    "country": "TR",
+    "lat": 39.81091,
+    "lng": 30.52551
+  },
+  {
+    "name": "Tetiiv",
+    "country": "UA",
+    "lat": 49.36947,
+    "lng": 29.67789
+  },
+  {
+    "name": "Terpinnia",
+    "country": "UA",
+    "lat": 46.98205,
+    "lng": 35.42264
+  },
+  {
+    "name": "Terny",
+    "country": "UA",
+    "lat": 48.14512,
+    "lng": 33.55832
+  },
+  {
+    "name": "Terny",
+    "country": "UA",
+    "lat": 50.98916,
+    "lng": 33.9707
+  },
+  {
+    "name": "Terny",
+    "country": "UA",
+    "lat": 49.09226,
+    "lng": 37.96081
+  },
+  {
+    "name": "Ternivka",
+    "country": "UA",
+    "lat": 49.13139,
+    "lng": 31.84244
+  },
+  {
+    "name": "Ternivka",
+    "country": "UA",
+    "lat": 48.52656,
+    "lng": 36.07051
+  },
+  {
+    "name": "Ternovka",
+    "country": "UA",
+    "lat": 44.57922,
+    "lng": 33.75105
+  },
+  {
+    "name": "Ternova",
+    "country": "UA",
+    "lat": 50.19226,
+    "lng": 36.67477
+  },
+  {
+    "name": "Ternuvate",
+    "country": "UA",
+    "lat": 47.82995,
+    "lng": 36.12973
+  },
+  {
+    "name": "Ternopil",
+    "country": "UA",
+    "lat": 49.55404,
+    "lng": 25.59067
+  },
+  {
+    "name": "Ternavka",
+    "country": "UA",
+    "lat": 48.1211,
+    "lng": 26.22481
+  },
+  {
+    "name": "Teresva",
+    "country": "UA",
+    "lat": 47.99769,
+    "lng": 23.69904
+  },
+  {
+    "name": "Terebovlia",
+    "country": "UA",
+    "lat": 49.29967,
+    "lng": 25.68886
+  },
+  {
+    "name": "Terebleche",
+    "country": "UA",
+    "lat": 48.01592,
+    "lng": 26.05859
+  },
+  {
+    "name": "Teplovka",
+    "country": "UA",
+    "lat": 45.03239,
+    "lng": 33.69588
+  },
+  {
+    "name": "Teplytsia",
+    "country": "UA",
+    "lat": 45.98633,
+    "lng": 29.33813
+  },
+  {
+    "name": "Teplyk",
+    "country": "UA",
+    "lat": 48.66538,
+    "lng": 29.74482
+  },
+  {
+    "name": "Teofipol",
+    "country": "UA",
+    "lat": 49.83892,
+    "lng": 26.4204
+  },
+  {
+    "name": "Tenistoye",
+    "country": "UA",
+    "lat": 44.74303,
+    "lng": 33.66812
+  },
+  {
+    "name": "Temriuk",
+    "country": "UA",
+    "lat": 47.26507,
+    "lng": 36.98016
+  },
+  {
+    "name": "Teple",
+    "country": "UA",
+    "lat": 48.31245,
+    "lng": 39.56284
+  },
+  {
+    "name": "Teplodar",
+    "country": "UA",
+    "lat": 46.50196,
+    "lng": 30.32256
+  },
+  {
+    "name": "Tereshky",
+    "country": "UA",
+    "lat": 49.55481,
+    "lng": 34.61056
+  },
+  {
+    "name": "Texarkana",
+    "country": "US",
+    "lat": 33.44179,
+    "lng": -94.03769
+  },
+  {
+    "name": "Tenleytown",
+    "country": "US",
+    "lat": 38.94956,
+    "lng": -77.08581
+  },
+  {
+    "name": "Tedder",
+    "country": "US",
+    "lat": 26.28425,
+    "lng": -80.12227
+  },
+  {
+    "name": "Temple Terrace",
+    "country": "US",
+    "lat": 28.0353,
+    "lng": -82.38926
+  },
+  {
+    "name": "Tequesta",
+    "country": "US",
+    "lat": 26.959,
+    "lng": -80.088
+  },
+  {
+    "name": "Terra Mar",
+    "country": "US",
+    "lat": 26.21619,
+    "lng": -80.09532
+  },
+  {
+    "name": "Temple",
+    "country": "US",
+    "lat": 33.73705,
+    "lng": -85.03244
+  },
+  {
+    "name": "Tennille",
+    "country": "US",
+    "lat": 32.93599,
+    "lng": -82.81153
+  },
+  {
+    "name": "Teutopolis",
+    "country": "US",
+    "lat": 39.1331,
+    "lng": -88.47199
+  },
+  {
+    "name": "Tell City",
+    "country": "US",
+    "lat": 37.95144,
+    "lng": -86.76777
+  },
+  {
+    "name": "Terre Haute",
+    "country": "US",
+    "lat": 39.4667,
+    "lng": -87.41391
+  },
+  {
+    "name": "Terrytown",
+    "country": "US",
+    "lat": 29.91021,
+    "lng": -90.03257
+  },
+  {
+    "name": "Temple Hills",
+    "country": "US",
+    "lat": 38.814,
+    "lng": -76.94553
+  },
+  {
+    "name": "Ten Hills",
+    "country": "US",
+    "lat": 39.28427,
+    "lng": -76.70108
+  },
+  {
+    "name": "Terre du Lac",
+    "country": "US",
+    "lat": 37.91172,
+    "lng": -90.62541
+  },
+  {
+    "name": "Terry",
+    "country": "US",
+    "lat": 32.09626,
+    "lng": -90.29426
+  },
+  {
+    "name": "Terrace Park",
+    "country": "US",
+    "lat": 39.15923,
+    "lng": -84.30716
+  },
+  {
+    "name": "Tecumseh",
+    "country": "US",
+    "lat": 35.25785,
+    "lng": -96.93669
+  },
+  {
+    "name": "Texanna",
+    "country": "US",
+    "lat": 35.34732,
+    "lng": -95.43692
+  },
+  {
+    "name": "Tega Cay",
+    "country": "US",
+    "lat": 35.02431,
+    "lng": -81.02785
+  },
+  {
+    "name": "Tennessee Ridge",
+    "country": "US",
+    "lat": 36.312,
+    "lng": -87.77336
+  },
+  {
+    "name": "Teague",
+    "country": "US",
+    "lat": 31.62711,
+    "lng": -96.28386
+  },
+  {
+    "name": "Tenaha",
+    "country": "US",
+    "lat": 31.94378,
+    "lng": -94.24409
+  },
+  {
+    "name": "Temple",
+    "country": "US",
+    "lat": 31.09823,
+    "lng": -97.34278
+  },
+  {
+    "name": "Terrell",
+    "country": "US",
+    "lat": 32.73596,
+    "lng": -96.27526
+  },
+  {
+    "name": "Terrell Hills",
+    "country": "US",
+    "lat": 29.47495,
+    "lng": -98.45085
+  },
+  {
+    "name": "Texarkana",
+    "country": "US",
+    "lat": 33.42513,
+    "lng": -94.04769
+  },
+  {
+    "name": "Texas City",
+    "country": "US",
+    "lat": 29.38385,
+    "lng": -94.9027
+  },
+  {
+    "name": "Teays Valley",
+    "country": "US",
+    "lat": 38.45009,
+    "lng": -81.9293
+  },
+  {
+    "name": "Terra Alta",
+    "country": "US",
+    "lat": 39.44565,
+    "lng": -79.54644
+  },
+  {
+    "name": "Terramuggus",
+    "country": "US",
+    "lat": 41.6351,
+    "lng": -72.47036
+  },
+  {
+    "name": "Terryville",
+    "country": "US",
+    "lat": 41.67815,
+    "lng": -73.01094
+  },
+  {
+    "name": "Teaticket",
+    "country": "US",
+    "lat": 41.56455,
+    "lng": -70.59586
+  },
+  {
+    "name": "Templeton",
+    "country": "US",
+    "lat": 42.55564,
+    "lng": -72.06758
+  },
+  {
+    "name": "Ten Hills",
+    "country": "US",
+    "lat": 42.39676,
+    "lng": -71.087
+  },
+  {
+    "name": "Tewksbury",
+    "country": "US",
+    "lat": 42.61065,
+    "lng": -71.23422
+  },
+  {
+    "name": "Tecumseh",
+    "country": "US",
+    "lat": 42.00393,
+    "lng": -83.94494
+  },
+  {
+    "name": "Temperance",
+    "country": "US",
+    "lat": 41.77921,
+    "lng": -83.56882
+  },
+  {
+    "name": "Terre Haute",
+    "country": "US",
+    "lat": 40.43946,
+    "lng": -93.2341
+  },
+  {
+    "name": "Tecumseh",
+    "country": "US",
+    "lat": 40.36667,
+    "lng": -96.19612
+  },
+  {
+    "name": "Tekamah",
+    "country": "US",
+    "lat": 41.77832,
+    "lng": -96.22113
+  },
+  {
+    "name": "Temple",
+    "country": "US",
+    "lat": 42.81814,
+    "lng": -71.85147
+  },
+  {
+    "name": "Teaneck",
+    "country": "US",
+    "lat": 40.8976,
+    "lng": -74.01597
+  },
+  {
+    "name": "Ten Mile Run",
+    "country": "US",
+    "lat": 40.41301,
+    "lng": -74.60223
+  },
+  {
+    "name": "Tenafly",
+    "country": "US",
+    "lat": 40.92538,
+    "lng": -73.96292
+  },
+  {
+    "name": "Terrace Heights",
+    "country": "US",
+    "lat": 40.72149,
+    "lng": -73.7693
+  },
+  {
+    "name": "Terryville",
+    "country": "US",
+    "lat": 40.90899,
+    "lng": -73.06511
+  },
+  {
+    "name": "Telford",
+    "country": "US",
+    "lat": 40.32205,
+    "lng": -75.32795
+  },
+  {
+    "name": "Temple",
+    "country": "US",
+    "lat": 40.4087,
+    "lng": -75.9216
+  },
+  {
+    "name": "Terre Hill",
+    "country": "US",
+    "lat": 40.15732,
+    "lng": -76.0505
+  },
+  {
+    "name": "Tea",
+    "country": "US",
+    "lat": 43.44637,
+    "lng": -96.83588
+  },
+  {
+    "name": "Tempe",
+    "country": "US",
+    "lat": 33.41477,
+    "lng": -111.90931
+  },
+  {
+    "name": "Tempe Junction",
+    "country": "US",
+    "lat": 33.41421,
+    "lng": -111.94348
+  },
+  {
+    "name": "Tehachapi",
+    "country": "US",
+    "lat": 35.13219,
+    "lng": -118.44897
+  },
+  {
+    "name": "Temecula",
+    "country": "US",
+    "lat": 33.49364,
+    "lng": -117.14836
+  },
+  {
+    "name": "Temelec",
+    "country": "US",
+    "lat": 38.26658,
+    "lng": -122.49276
+  },
+  {
+    "name": "Temple City",
+    "country": "US",
+    "lat": 34.10723,
+    "lng": -118.05785
+  },
+  {
+    "name": "Templeton",
+    "country": "US",
+    "lat": 35.54969,
+    "lng": -120.706
+  },
+  {
+    "name": "Terra Bella",
+    "country": "US",
+    "lat": 35.96245,
+    "lng": -119.04427
+  },
+  {
+    "name": "Telluride",
+    "country": "US",
+    "lat": 37.93749,
+    "lng": -107.81229
+  },
+  {
+    "name": "Texico",
+    "country": "US",
+    "lat": 34.38869,
+    "lng": -103.05134
+  },
+  {
+    "name": "Terry",
+    "country": "US",
+    "lat": 46.79306,
+    "lng": -105.31221
+  },
+  {
+    "name": "Terrytown",
+    "country": "US",
+    "lat": 41.84747,
+    "lng": -103.66161
+  },
+  {
+    "name": "Terrebonne",
+    "country": "US",
+    "lat": 44.3529,
+    "lng": -121.17781
+  },
+  {
+    "name": "Tenino",
+    "country": "US",
+    "lat": 46.85677,
+    "lng": -122.85291
+  },
+  {
+    "name": "Terrace Heights",
+    "country": "US",
+    "lat": 46.60624,
+    "lng": -120.43979
+  },
+  {
+    "name": "Tellico Village",
+    "country": "US",
+    "lat": 35.68321,
+    "lng": -84.25518
+  },
+  {
+    "name": "Teviston",
+    "country": "US",
+    "lat": 35.92894,
+    "lng": -119.27831
+  },
+  {
+    "name": "Temblador",
+    "country": "VE",
+    "lat": 9.00525,
+    "lng": -62.64493
+  },
+  {
+    "name": "Teko Springs",
+    "country": "ZA",
+    "lat": -32.37664,
+    "lng": 28.30316
+  },
+  {
+    "name": "Tesselaarsdal",
+    "country": "ZA",
+    "lat": -34.33333,
+    "lng": 19.53333
+  },
+  {
+    "name": "Tekwane",
+    "country": "ZA",
+    "lat": -25.47776,
+    "lng": 31.14559
+  },
+  {
+    "name": "Teka Mahala",
+    "country": "ZA",
+    "lat": -24.96277,
+    "lng": 31.21438
+  }
+]

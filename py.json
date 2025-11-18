@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Pyhra",
+    "country": "AT",
+    "lat": 48.1591,
+    "lng": 15.68624
+  },
+  {
+    "name": "Pyrmont",
+    "country": "AU",
+    "lat": -33.86985,
+    "lng": 151.19402
+  },
+  {
+    "name": "Pymble",
+    "country": "AU",
+    "lat": -33.74386,
+    "lng": 151.14188
+  },
+  {
+    "name": "Pyatryshki",
+    "country": "BY",
+    "lat": 54.0686,
+    "lng": 27.2179
+  },
+  {
+    "name": "Pyanhirou",
+    "country": "CI",
+    "lat": 7.284,
+    "lng": -7.45827
+  },
+  {
+    "name": "Pyrgos",
+    "country": "CY",
+    "lat": 34.74167,
+    "lng": 33.18333
+  },
+  {
+    "name": "Pyšely",
+    "country": "CZ",
+    "lat": 49.87678,
+    "lng": 14.67713
+  },
+  {
+    "name": "Pyrbaum",
+    "country": "DE",
+    "lat": 49.29622,
+    "lng": 11.28655
+  },
+  {
+    "name": "Pylkönmäki",
+    "country": "FI",
+    "lat": 62.66667,
+    "lng": 24.8
+  },
+  {
+    "name": "Pyhtää",
+    "country": "FI",
+    "lat": 60.49349,
+    "lng": 26.54346
+  },
+  {
+    "name": "Pyhäselkä",
+    "country": "FI",
+    "lat": 62.43333,
+    "lng": 29.96667
+  },
+  {
+    "name": "Pyhäsalmi",
+    "country": "FI",
+    "lat": 63.68333,
+    "lng": 25.98333
+  },
+  {
+    "name": "Pyhäranta",
+    "country": "FI",
+    "lat": 60.95,
+    "lng": 21.45
+  },
+  {
+    "name": "Pyhäntä",
+    "country": "FI",
+    "lat": 64.1,
+    "lng": 26.31667
+  },
+  {
+    "name": "Pyhäjoki",
+    "country": "FI",
+    "lat": 64.46667,
+    "lng": 24.23333
+  },
+  {
+    "name": "Pyhäjärvi",
+    "country": "FI",
+    "lat": 67.0701,
+    "lng": 27.21763
+  },
+  {
+    "name": "Pyhäjärvi",
+    "country": "FI",
+    "lat": 63.68125,
+    "lng": 25.9812
+  },
+  {
+    "name": "Pyykösjärvi",
+    "country": "FI",
+    "lat": 65.04256,
+    "lng": 25.49583
+  },
+  {
+    "name": "Pyynikinrinne",
+    "country": "FI",
+    "lat": 61.49641,
+    "lng": 23.74145
+  },
+  {
+    "name": "Pyrford",
+    "country": "GB",
+    "lat": 51.31471,
+    "lng": -0.51022
+  },
+  {
+    "name": "Pyle",
+    "country": "GB",
+    "lat": 51.51667,
+    "lng": -3.7
+  },
+  {
+    "name": "Pythagóreio",
+    "country": "GR",
+    "lat": 37.69102,
+    "lng": 26.94341
+  },
+  {
+    "name": "Pyrgetós",
+    "country": "GR",
+    "lat": 39.91869,
+    "lng": 22.59339
+  },
+  {
+    "name": "Pyrgetós",
+    "country": "GR",
+    "lat": 39.55276,
+    "lng": 21.74846
+  },
+  {
+    "name": "Pylí",
+    "country": "GR",
+    "lat": 36.84472,
+    "lng": 27.15932
+  },
+  {
+    "name": "Pylaía",
+    "country": "GR",
+    "lat": 40.59918,
+    "lng": 22.98613
+  },
+  {
+    "name": "Pyāla",
+    "country": "IN",
+    "lat": 28.2663,
+    "lng": 77.31243
+  },
+  {
+    "name": "Pyongyang",
+    "country": "KP",
+    "lat": 39.03385,
+    "lng": 125.75432
+  },
+  {
+    "name": "Pyŏksŏng-ŭp",
+    "country": "KP",
+    "lat": 38.0475,
+    "lng": 125.55667
+  },
+  {
+    "name": "Pyeongtaek",
+    "country": "KR",
+    "lat": 36.99472,
+    "lng": 127.08889
+  },
+  {
+    "name": "Pyeongchang",
+    "country": "KR",
+    "lat": 37.37028,
+    "lng": 128.39306
+  },
+  {
+    "name": "Pyu",
+    "country": "MM",
+    "lat": 18.4813,
+    "lng": 96.43742
+  },
+  {
+    "name": "Pyinmana",
+    "country": "MM",
+    "lat": 19.7381,
+    "lng": 96.20742
+  },
+  {
+    "name": "Pyay",
+    "country": "MM",
+    "lat": 18.81996,
+    "lng": 95.21562
+  },
+  {
+    "name": "Pyawbwe",
+    "country": "MM",
+    "lat": 20.59193,
+    "lng": 96.05202
+  },
+  {
+    "name": "Pyapon",
+    "country": "MM",
+    "lat": 16.28543,
+    "lng": 95.67882
+  },
+  {
+    "name": "Pyin Oo Lwin",
+    "country": "MM",
+    "lat": 22.03501,
+    "lng": 96.45683
+  },
+  {
+    "name": "Pyūthān",
+    "country": "NP",
+    "lat": 28.08867,
+    "lng": 82.88427
+  },
+  {
+    "name": "Pysznica",
+    "country": "PL",
+    "lat": 50.56999,
+    "lng": 22.12913
+  },
+  {
+    "name": "Pyzdry",
+    "country": "PL",
+    "lat": 52.17056,
+    "lng": 17.69005
+  },
+  {
+    "name": "Pyskowice",
+    "country": "PL",
+    "lat": 50.4,
+    "lng": 18.63333
+  },
+  {
+    "name": "Pyrzyce",
+    "country": "PL",
+    "lat": 53.1462,
+    "lng": 14.89257
+  },
+  {
+    "name": "Pytalovo",
+    "country": "RU",
+    "lat": 57.06925,
+    "lng": 27.91542
+  },
+  {
+    "name": "Pyshchug",
+    "country": "RU",
+    "lat": 58.88746,
+    "lng": 45.71658
+  },
+  {
+    "name": "Pyra",
+    "country": "RU",
+    "lat": 56.29527,
+    "lng": 43.35274
+  },
+  {
+    "name": "Pychas",
+    "country": "RU",
+    "lat": 56.50332,
+    "lng": 52.44088
+  },
+  {
+    "name": "Pyatovskiy",
+    "country": "RU",
+    "lat": 54.68908,
+    "lng": 36.05634
+  },
+  {
+    "name": "Pyatnitskoye",
+    "country": "RU",
+    "lat": 50.4233,
+    "lng": 37.8273
+  },
+  {
+    "name": "Pyatigorskiy",
+    "country": "RU",
+    "lat": 43.97417,
+    "lng": 43.25833
+  },
+  {
+    "name": "Pyatigorsk",
+    "country": "RU",
+    "lat": 44.05,
+    "lng": 43.05036
+  },
+  {
+    "name": "Pyaozerskiy",
+    "country": "RU",
+    "lat": 65.7687,
+    "lng": 31.08925
+  },
+  {
+    "name": "Pyshma",
+    "country": "RU",
+    "lat": 56.95327,
+    "lng": 63.25231
+  },
+  {
+    "name": "Pyt-Yakh",
+    "country": "RU",
+    "lat": 60.74985,
+    "lng": 72.85824
+  },
+  {
+    "name": "Pyatykhatky",
+    "country": "UA",
+    "lat": 48.40821,
+    "lng": 33.70919
+  },
+  {
+    "name": "Pyatikhatka",
+    "country": "UA",
+    "lat": 45.32347,
+    "lng": 34.25516
+  },
+  {
+    "name": "Pysarivka",
+    "country": "UA",
+    "lat": 48.04988,
+    "lng": 29.04549
+  },
+  {
+    "name": "Pyriatyn",
+    "country": "UA",
+    "lat": 50.24388,
+    "lng": 32.5203
+  },
+  {
+    "name": "Pyrizhna",
+    "country": "UA",
+    "lat": 48.16161,
+    "lng": 29.09932
+  },
+  {
+    "name": "Pylypets",
+    "country": "UA",
+    "lat": 48.65899,
+    "lng": 23.28346
+  },
+  {
+    "name": "Pymatuning Central",
+    "country": "US",
+    "lat": 41.58546,
+    "lng": -80.4796
+  }
+]
