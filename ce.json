@@ -1,0 +1,4328 @@
+[
+  {
+    "name": "Cerava",
+    "country": "AL",
+    "lat": 40.85139,
+    "lng": 20.725
+  },
+  {
+    "name": "Cela",
+    "country": "AO",
+    "lat": -11.42173,
+    "lng": 15.12345
+  },
+  {
+    "name": "Cerro Corá",
+    "country": "AR",
+    "lat": -27.51377,
+    "lng": -55.60895
+  },
+  {
+    "name": "Cerro Azul",
+    "country": "AR",
+    "lat": -27.63363,
+    "lng": -55.49746
+  },
+  {
+    "name": "Ceibas",
+    "country": "AR",
+    "lat": -33.49911,
+    "lng": -58.80015
+  },
+  {
+    "name": "Cervantes",
+    "country": "AR",
+    "lat": -39.05444,
+    "lng": -67.39426
+  },
+  {
+    "name": "Cerrillos",
+    "country": "AR",
+    "lat": -24.89715,
+    "lng": -65.48445
+  },
+  {
+    "name": "Ceres",
+    "country": "AR",
+    "lat": -29.88113,
+    "lng": -61.94521
+  },
+  {
+    "name": "Centenario",
+    "country": "AR",
+    "lat": -38.82955,
+    "lng": -68.1318
+  },
+  {
+    "name": "Ceduna",
+    "country": "AU",
+    "lat": -32.1266,
+    "lng": 133.67271
+  },
+  {
+    "name": "Cessnock",
+    "country": "AU",
+    "lat": -32.83211,
+    "lng": 151.35623
+  },
+  {
+    "name": "Cedar Grove",
+    "country": "AU",
+    "lat": -27.86667,
+    "lng": 152.98333
+  },
+  {
+    "name": "Centenary Heights",
+    "country": "AU",
+    "lat": -27.58684,
+    "lng": 151.96249
+  },
+  {
+    "name": "Cecil Hills",
+    "country": "AU",
+    "lat": -33.88917,
+    "lng": 150.85137
+  },
+  {
+    "name": "Centennial Park",
+    "country": "AU",
+    "lat": -33.89794,
+    "lng": 151.23364
+  },
+  {
+    "name": "Cedar Vale",
+    "country": "AU",
+    "lat": -27.88923,
+    "lng": 153.02891
+  },
+  {
+    "name": "Ceyranbatan",
+    "country": "AZ",
+    "lat": 40.54194,
+    "lng": 49.66073
+  },
+  {
+    "name": "Cerani",
+    "country": "BA",
+    "lat": 44.87837,
+    "lng": 17.85931
+  },
+  {
+    "name": "Cerfontaine",
+    "country": "BE",
+    "lat": 50.17047,
+    "lng": 4.41028
+  },
+  {
+    "name": "Cerexhe-Heuseux",
+    "country": "BE",
+    "lat": 50.65409,
+    "lng": 5.72602
+  },
+  {
+    "name": "Celles",
+    "country": "BE",
+    "lat": 50.65441,
+    "lng": 5.24666
+  },
+  {
+    "name": "Cerro Corá",
+    "country": "BR",
+    "lat": -6.04556,
+    "lng": -36.34583
+  },
+  {
+    "name": "Cedro",
+    "country": "BR",
+    "lat": -7.72167,
+    "lng": -39.23889
+  },
+  {
+    "name": "Cedro",
+    "country": "BR",
+    "lat": -6.60667,
+    "lng": -39.06222
+  },
+  {
+    "name": "Ceará-Mirim",
+    "country": "BR",
+    "lat": -5.63444,
+    "lng": -35.42556
+  },
+  {
+    "name": "Centenário",
+    "country": "BR",
+    "lat": -8.95056,
+    "lng": -47.33583
+  },
+  {
+    "name": "Cesário Lange",
+    "country": "BR",
+    "lat": -23.22667,
+    "lng": -47.95306
+  },
+  {
+    "name": "Cerro Negro",
+    "country": "BR",
+    "lat": -27.79528,
+    "lng": -50.87583
+  },
+  {
+    "name": "Cerro Largo",
+    "country": "BR",
+    "lat": -28.14861,
+    "lng": -54.73806
+  },
+  {
+    "name": "Cerro Grande do Sul",
+    "country": "BR",
+    "lat": -30.59722,
+    "lng": -51.75121
+  },
+  {
+    "name": "Cerro Branco",
+    "country": "BR",
+    "lat": -29.65444,
+    "lng": -52.93361
+  },
+  {
+    "name": "Cerro Azul",
+    "country": "BR",
+    "lat": -24.82361,
+    "lng": -49.26111
+  },
+  {
+    "name": "Cerrito",
+    "country": "BR",
+    "lat": -31.85639,
+    "lng": -52.81278
+  },
+  {
+    "name": "Cerquilho",
+    "country": "BR",
+    "lat": -23.165,
+    "lng": -47.74361
+  },
+  {
+    "name": "Cerqueira César",
+    "country": "BR",
+    "lat": -23.03556,
+    "lng": -49.16611
+  },
+  {
+    "name": "Ceres",
+    "country": "BR",
+    "lat": -15.30833,
+    "lng": -49.59833
+  },
+  {
+    "name": "Centralina",
+    "country": "BR",
+    "lat": -18.58389,
+    "lng": -49.19944
+  },
+  {
+    "name": "Central de Minas",
+    "country": "BR",
+    "lat": -18.76194,
+    "lng": -41.30639
+  },
+  {
+    "name": "Central",
+    "country": "BR",
+    "lat": -11.13556,
+    "lng": -42.11278
+  },
+  {
+    "name": "Centenário do Sul",
+    "country": "BR",
+    "lat": -22.82111,
+    "lng": -51.59528
+  },
+  {
+    "name": "Centenário",
+    "country": "BR",
+    "lat": -27.76139,
+    "lng": -51.99889
+  },
+  {
+    "name": "Celso Ramos",
+    "country": "BR",
+    "lat": -27.63444,
+    "lng": -51.33639
+  },
+  {
+    "name": "Ceilândia",
+    "country": "BR",
+    "lat": -15.8091,
+    "lng": -48.13096
+  },
+  {
+    "name": "Cedro do Abaeté",
+    "country": "BR",
+    "lat": -19.14833,
+    "lng": -45.71139
+  },
+  {
+    "name": "Cedro de São João",
+    "country": "BR",
+    "lat": -10.25167,
+    "lng": -36.88444
+  },
+  {
+    "name": "Cedral",
+    "country": "BR",
+    "lat": -20.90278,
+    "lng": -49.26833
+  },
+  {
+    "name": "Cedral",
+    "country": "BR",
+    "lat": -2.00028,
+    "lng": -44.53611
+  },
+  {
+    "name": "Central do Maranhão",
+    "country": "BR",
+    "lat": -2.19861,
+    "lng": -44.82556
+  },
+  {
+    "name": "Cerejeiras",
+    "country": "BR",
+    "lat": -13.18889,
+    "lng": -60.81222
+  },
+  {
+    "name": "Cerro Grande",
+    "country": "BR",
+    "lat": -27.60611,
+    "lng": -53.16667
+  },
+  {
+    "name": "Cezarina",
+    "country": "BR",
+    "lat": -16.97194,
+    "lng": -49.77583
+  },
+  {
+    "name": "Centro Novo do Maranhão",
+    "country": "BR",
+    "lat": -2.14092,
+    "lng": -46.12387
+  },
+  {
+    "name": "Centro do Guilherme",
+    "country": "BR",
+    "lat": -2.45097,
+    "lng": -46.03854
+  },
+  {
+    "name": "Cedar",
+    "country": "CA",
+    "lat": 49.11633,
+    "lng": -123.8527
+  },
+  {
+    "name": "Cedarbrae",
+    "country": "CA",
+    "lat": 50.95648,
+    "lng": -114.12975
+  },
+  {
+    "name": "Central Business District",
+    "country": "CA",
+    "lat": 52.13032,
+    "lng": -106.66228
+  },
+  {
+    "name": "Central Saanich",
+    "country": "CA",
+    "lat": 48.56634,
+    "lng": -123.41932
+  },
+  {
+    "name": "Centennial Scarborough",
+    "country": "CA",
+    "lat": 43.78238,
+    "lng": -79.15084
+  },
+  {
+    "name": "Central Lonsdale",
+    "country": "CA",
+    "lat": 49.32574,
+    "lng": -123.07234
+  },
+  {
+    "name": "Central Lynn",
+    "country": "CA",
+    "lat": 49.33897,
+    "lng": -123.03751
+  },
+  {
+    "name": "Cedar Valley",
+    "country": "CA",
+    "lat": 49.16172,
+    "lng": -122.31047
+  },
+  {
+    "name": "Central Coquitlam",
+    "country": "CA",
+    "lat": 49.26028,
+    "lng": -122.83815
+  },
+  {
+    "name": "Cedar Cove",
+    "country": "CA",
+    "lat": 49.28648,
+    "lng": -123.06077
+  },
+  {
+    "name": "Cevio",
+    "country": "CH",
+    "lat": 46.31479,
+    "lng": 8.60332
+  },
+  {
+    "name": "Cernier",
+    "country": "CH",
+    "lat": 47.05878,
+    "lng": 6.9004
+  },
+  {
+    "name": "Celerina",
+    "country": "CH",
+    "lat": 46.51217,
+    "lng": 9.85794
+  },
+  {
+    "name": "Ceyu",
+    "country": "CN",
+    "lat": 37.79222,
+    "lng": 114.08639
+  },
+  {
+    "name": "Cenxi",
+    "country": "CN",
+    "lat": 22.92336,
+    "lng": 110.9842
+  },
+  {
+    "name": "Cenxi",
+    "country": "CN",
+    "lat": 28.33803,
+    "lng": 109.10878
+  },
+  {
+    "name": "Cerro de San Antonio",
+    "country": "CO",
+    "lat": 10.32585,
+    "lng": -74.86933
+  },
+  {
+    "name": "Cerrito",
+    "country": "CO",
+    "lat": 6.84315,
+    "lng": -72.69404
+  },
+  {
+    "name": "Cerinza",
+    "country": "CO",
+    "lat": 5.95568,
+    "lng": -72.94783
+  },
+  {
+    "name": "Cereté",
+    "country": "CO",
+    "lat": 8.88479,
+    "lng": -75.79052
+  },
+  {
+    "name": "Cepitá",
+    "country": "CO",
+    "lat": 6.75427,
+    "lng": -72.9744
+  },
+  {
+    "name": "Cerro",
+    "country": "CU",
+    "lat": 23.10809,
+    "lng": -82.3866
+  },
+  {
+    "name": "Centro Habana",
+    "country": "CU",
+    "lat": 23.13833,
+    "lng": -82.36417
+  },
+  {
+    "name": "Cerhenice",
+    "country": "CZ",
+    "lat": 50.07127,
+    "lng": 15.07203
+  },
+  {
+    "name": "Celle",
+    "country": "DE",
+    "lat": 52.62264,
+    "lng": 10.08047
+  },
+  {
+    "name": "Cevicos",
+    "country": "DO",
+    "lat": 19.00449,
+    "lng": -69.97896
+  },
+  {
+    "name": "Cercado Abajo",
+    "country": "DO",
+    "lat": 18.72681,
+    "lng": -71.51742
+  },
+  {
+    "name": "Cevallos",
+    "country": "EC",
+    "lat": -1.35496,
+    "lng": -78.6164
+  },
+  {
+    "name": "Celica",
+    "country": "EC",
+    "lat": -4.10304,
+    "lng": -79.95598
+  },
+  {
+    "name": "Cebadas",
+    "country": "EC",
+    "lat": -1.91184,
+    "lng": -78.64389
+  },
+  {
+    "name": "Ceuti",
+    "country": "ES",
+    "lat": 38.07859,
+    "lng": -1.27467
+  },
+  {
+    "name": "Cervera del Llano",
+    "country": "ES",
+    "lat": 39.78312,
+    "lng": -2.42019
+  },
+  {
+    "name": "Cerdà",
+    "country": "ES",
+    "lat": 38.98333,
+    "lng": -0.56667
+  },
+  {
+    "name": "Cenizate",
+    "country": "ES",
+    "lat": 39.3,
+    "lng": -1.65
+  },
+  {
+    "name": "Cenes de la Vega",
+    "country": "ES",
+    "lat": 37.16006,
+    "lng": -3.53548
+  },
+  {
+    "name": "Cehegín",
+    "country": "ES",
+    "lat": 38.09242,
+    "lng": -1.7985
+  },
+  {
+    "name": "Cedillo",
+    "country": "ES",
+    "lat": 39.65099,
+    "lng": -7.49817
+  },
+  {
+    "name": "Ceclavín",
+    "country": "ES",
+    "lat": 39.82231,
+    "lng": -6.77329
+  },
+  {
+    "name": "Cebolla",
+    "country": "ES",
+    "lat": 39.94897,
+    "lng": -4.57175
+  },
+  {
+    "name": "Cerdanyola del Vallès",
+    "country": "ES",
+    "lat": 41.49109,
+    "lng": 2.14079
+  },
+  {
+    "name": "Cevico Navero",
+    "country": "ES",
+    "lat": 41.86112,
+    "lng": -4.18498
+  },
+  {
+    "name": "Cevico de la Torre",
+    "country": "ES",
+    "lat": 41.85113,
+    "lng": -4.40973
+  },
+  {
+    "name": "Cetina",
+    "country": "ES",
+    "lat": 41.29208,
+    "lng": -1.96281
+  },
+  {
+    "name": "Cesuras",
+    "country": "ES",
+    "lat": 43.17282,
+    "lng": -8.20061
+  },
+  {
+    "name": "Cervo",
+    "country": "ES",
+    "lat": 43.67019,
+    "lng": -7.41013
+  },
+  {
+    "name": "Cervillego de la Cruz",
+    "country": "ES",
+    "lat": 41.18783,
+    "lng": -4.94966
+  },
+  {
+    "name": "Cervià de Ter",
+    "country": "ES",
+    "lat": 42.0665,
+    "lng": 2.90743
+  },
+  {
+    "name": "Cerveruela",
+    "country": "ES",
+    "lat": 41.21567,
+    "lng": -1.21525
+  },
+  {
+    "name": "Cervera de Pisuerga",
+    "country": "ES",
+    "lat": 42.86676,
+    "lng": -4.49796
+  },
+  {
+    "name": "Cervera del Río Alhama",
+    "country": "ES",
+    "lat": 42.00517,
+    "lng": -1.95531
+  },
+  {
+    "name": "Cervera de los Montes",
+    "country": "ES",
+    "lat": 40.05182,
+    "lng": -4.81072
+  },
+  {
+    "name": "Cervera del Maestre",
+    "country": "ES",
+    "lat": 40.45366,
+    "lng": 0.27659
+  },
+  {
+    "name": "Cervera de la Cañada",
+    "country": "ES",
+    "lat": 41.43301,
+    "lng": -1.73568
+  },
+  {
+    "name": "Cervera de Buitrago",
+    "country": "ES",
+    "lat": 40.91988,
+    "lng": -3.52702
+  },
+  {
+    "name": "Cervera",
+    "country": "ES",
+    "lat": 41.67003,
+    "lng": 1.2721
+  },
+  {
+    "name": "Cervelló",
+    "country": "ES",
+    "lat": 41.39587,
+    "lng": 1.95917
+  },
+  {
+    "name": "Cervatos de la Cueza",
+    "country": "ES",
+    "lat": 42.29054,
+    "lng": -4.76947
+  },
+  {
+    "name": "Cerratón de Juarros",
+    "country": "ES",
+    "lat": 42.42227,
+    "lng": -3.37347
+  },
+  {
+    "name": "Cerralbo",
+    "country": "ES",
+    "lat": 40.97347,
+    "lng": -6.5871
+  },
+  {
+    "name": "Cernadilla",
+    "country": "ES",
+    "lat": 42.02083,
+    "lng": -6.41701
+  },
+  {
+    "name": "Cerezo de Río Tirón",
+    "country": "ES",
+    "lat": 42.4914,
+    "lng": -3.136
+  },
+  {
+    "name": "Cerezo de Arriba",
+    "country": "ES",
+    "lat": 41.2389,
+    "lng": -3.55846
+  },
+  {
+    "name": "Cerezo de Abajo",
+    "country": "ES",
+    "lat": 41.21817,
+    "lng": -3.59126
+  },
+  {
+    "name": "Cerezo",
+    "country": "ES",
+    "lat": 40.23678,
+    "lng": -6.22764
+  },
+  {
+    "name": "Cerezal de Peñahorcada",
+    "country": "ES",
+    "lat": 41.13071,
+    "lng": -6.65357
+  },
+  {
+    "name": "Cerecinos del Carrizal",
+    "country": "ES",
+    "lat": 41.68384,
+    "lng": -5.65303
+  },
+  {
+    "name": "Cerecinos de Campos",
+    "country": "ES",
+    "lat": 41.90017,
+    "lng": -5.48605
+  },
+  {
+    "name": "Cereceda de la Sierra",
+    "country": "ES",
+    "lat": 40.56627,
+    "lng": -6.0914
+  },
+  {
+    "name": "Cerdido",
+    "country": "ES",
+    "lat": 43.62063,
+    "lng": -7.99959
+  },
+  {
+    "name": "Cercedilla",
+    "country": "ES",
+    "lat": 40.74101,
+    "lng": -4.05644
+  },
+  {
+    "name": "Cerceda",
+    "country": "ES",
+    "lat": 43.18333,
+    "lng": -8.48333
+  },
+  {
+    "name": "Cerceda",
+    "country": "ES",
+    "lat": 40.69893,
+    "lng": -3.93365
+  },
+  {
+    "name": "Cerbón",
+    "country": "ES",
+    "lat": 41.92934,
+    "lng": -2.16895
+  },
+  {
+    "name": "Cepeda la Mora",
+    "country": "ES",
+    "lat": 40.4578,
+    "lng": -5.04833
+  },
+  {
+    "name": "Cepeda",
+    "country": "ES",
+    "lat": 40.466,
+    "lng": -6.041
+  },
+  {
+    "name": "Centenera de Andaluz",
+    "country": "ES",
+    "lat": 41.50679,
+    "lng": -2.71813
+  },
+  {
+    "name": "Centenera",
+    "country": "ES",
+    "lat": 40.65064,
+    "lng": -3.0512
+  },
+  {
+    "name": "Centelles",
+    "country": "ES",
+    "lat": 41.79746,
+    "lng": 2.21902
+  },
+  {
+    "name": "Cenlle",
+    "country": "ES",
+    "lat": 42.34183,
+    "lng": -8.08982
+  },
+  {
+    "name": "Cenicientos",
+    "country": "ES",
+    "lat": 40.26459,
+    "lng": -4.46683
+  },
+  {
+    "name": "Cenicero",
+    "country": "ES",
+    "lat": 42.4813,
+    "lng": -2.64412
+  },
+  {
+    "name": "Cendejas de la Torre",
+    "country": "ES",
+    "lat": 40.97916,
+    "lng": -2.85053
+  },
+  {
+    "name": "Celrà",
+    "country": "ES",
+    "lat": 42.03333,
+    "lng": 2.88333
+  },
+  {
+    "name": "Cellorigo",
+    "country": "ES",
+    "lat": 42.62703,
+    "lng": -3.00016
+  },
+  {
+    "name": "Cella",
+    "country": "ES",
+    "lat": 40.45325,
+    "lng": -1.2875
+  },
+  {
+    "name": "Celanova",
+    "country": "ES",
+    "lat": 42.15303,
+    "lng": -7.95513
+  },
+  {
+    "name": "Celada del Camino",
+    "country": "ES",
+    "lat": 42.26359,
+    "lng": -3.93362
+  },
+  {
+    "name": "Ceinos de Campos",
+    "country": "ES",
+    "lat": 42.03284,
+    "lng": -5.15007
+  },
+  {
+    "name": "Cee",
+    "country": "ES",
+    "lat": 42.95466,
+    "lng": -9.188
+  },
+  {
+    "name": "Cedrillas",
+    "country": "ES",
+    "lat": 40.43708,
+    "lng": -0.8515
+  },
+  {
+    "name": "Cedillo del Condado",
+    "country": "ES",
+    "lat": 40.1126,
+    "lng": -3.92127
+  },
+  {
+    "name": "Cedillo de la Torre",
+    "country": "ES",
+    "lat": 41.42482,
+    "lng": -3.60577
+  },
+  {
+    "name": "Cedeira",
+    "country": "ES",
+    "lat": 43.66044,
+    "lng": -8.05719
+  },
+  {
+    "name": "Cebrones del Río",
+    "country": "ES",
+    "lat": 42.25726,
+    "lng": -5.82622
+  },
+  {
+    "name": "Cebreros",
+    "country": "ES",
+    "lat": 40.45835,
+    "lng": -4.46433
+  },
+  {
+    "name": "Cebrecos",
+    "country": "ES",
+    "lat": 41.98408,
+    "lng": -3.59661
+  },
+  {
+    "name": "Cebanico",
+    "country": "ES",
+    "lat": 42.72526,
+    "lng": -5.02568
+  },
+  {
+    "name": "Cea",
+    "country": "ES",
+    "lat": 42.4749,
+    "lng": -7.98739
+  },
+  {
+    "name": "Ceuta",
+    "country": "ES",
+    "lat": 35.88919,
+    "lng": -5.32042
+  },
+  {
+    "name": "Ceyzériat",
+    "country": "FR",
+    "lat": 46.18126,
+    "lng": 5.31977
+  },
+  {
+    "name": "Ceyreste",
+    "country": "FR",
+    "lat": 43.21352,
+    "lng": 5.62946
+  },
+  {
+    "name": "Ceyrat",
+    "country": "FR",
+    "lat": 45.73265,
+    "lng": 3.06323
+  },
+  {
+    "name": "Ceton",
+    "country": "FR",
+    "lat": 48.22631,
+    "lng": 0.74968
+  },
+  {
+    "name": "Cestas",
+    "country": "FR",
+    "lat": 44.74471,
+    "lng": -0.68194
+  },
+  {
+    "name": "Cessy",
+    "country": "FR",
+    "lat": 46.32032,
+    "lng": 6.07477
+  },
+  {
+    "name": "Cesson-Sévigné",
+    "country": "FR",
+    "lat": 48.1212,
+    "lng": -1.603
+  },
+  {
+    "name": "Cesson",
+    "country": "FR",
+    "lat": 48.56204,
+    "lng": 2.60816
+  },
+  {
+    "name": "Cessieu",
+    "country": "FR",
+    "lat": 45.56371,
+    "lng": 5.37607
+  },
+  {
+    "name": "Cessenon-sur-Orb",
+    "country": "FR",
+    "lat": 43.45011,
+    "lng": 3.05154
+  },
+  {
+    "name": "Cervione",
+    "country": "FR",
+    "lat": 42.32835,
+    "lng": 9.49343
+  },
+  {
+    "name": "Certines",
+    "country": "FR",
+    "lat": 46.13244,
+    "lng": 5.26525
+  },
+  {
+    "name": "Cers",
+    "country": "FR",
+    "lat": 43.32345,
+    "lng": 3.30474
+  },
+  {
+    "name": "Cerny",
+    "country": "FR",
+    "lat": 48.47796,
+    "lng": 2.32815
+  },
+  {
+    "name": "Cernay-lès-Reims",
+    "country": "FR",
+    "lat": 49.26375,
+    "lng": 4.10216
+  },
+  {
+    "name": "Cernay-la-Ville",
+    "country": "FR",
+    "lat": 48.67324,
+    "lng": 1.97422
+  },
+  {
+    "name": "Cernay",
+    "country": "FR",
+    "lat": 47.8097,
+    "lng": 7.17699
+  },
+  {
+    "name": "Cerizay",
+    "country": "FR",
+    "lat": 46.8215,
+    "lng": -0.66492
+  },
+  {
+    "name": "Cerisy-la-Salle",
+    "country": "FR",
+    "lat": 49.02622,
+    "lng": -1.28283
+  },
+  {
+    "name": "Cergy",
+    "country": "FR",
+    "lat": 49.03645,
+    "lng": 2.07613
+  },
+  {
+    "name": "Ceret",
+    "country": "FR",
+    "lat": 42.48533,
+    "lng": 2.74804
+  },
+  {
+    "name": "Cerelles",
+    "country": "FR",
+    "lat": 47.50168,
+    "lng": 0.68333
+  },
+  {
+    "name": "Cerdon",
+    "country": "FR",
+    "lat": 47.63571,
+    "lng": 2.36277
+  },
+  {
+    "name": "Cercy-la-Tour",
+    "country": "FR",
+    "lat": 46.86203,
+    "lng": 3.64652
+  },
+  {
+    "name": "Cercoux",
+    "country": "FR",
+    "lat": 45.12954,
+    "lng": -0.20571
+  },
+  {
+    "name": "Cervera de la Marenda",
+    "country": "FR",
+    "lat": 42.44094,
+    "lng": 3.16518
+  },
+  {
+    "name": "Cepoy",
+    "country": "FR",
+    "lat": 48.04795,
+    "lng": 2.73782
+  },
+  {
+    "name": "Cenon-sur-Vienne",
+    "country": "FR",
+    "lat": 46.77409,
+    "lng": 0.53663
+  },
+  {
+    "name": "Cenon",
+    "country": "FR",
+    "lat": 44.85614,
+    "lng": -0.53355
+  },
+  {
+    "name": "Cendras",
+    "country": "FR",
+    "lat": 44.15,
+    "lng": 4.06667
+  },
+  {
+    "name": "Cellieu",
+    "country": "FR",
+    "lat": 45.51866,
+    "lng": 4.54332
+  },
+  {
+    "name": "Cellettes",
+    "country": "FR",
+    "lat": 47.52758,
+    "lng": 1.38102
+  },
+  {
+    "name": "Celles-sur-Durolle",
+    "country": "FR",
+    "lat": 45.85829,
+    "lng": 3.6354
+  },
+  {
+    "name": "Celles-sur-Belle",
+    "country": "FR",
+    "lat": 46.26183,
+    "lng": -0.2118
+  },
+  {
+    "name": "Celle-Lévescault",
+    "country": "FR",
+    "lat": 46.42358,
+    "lng": 0.18733
+  },
+  {
+    "name": "Ceaucé",
+    "country": "FR",
+    "lat": 48.49436,
+    "lng": -0.62526
+  },
+  {
+    "name": "Cergy-Pontoise",
+    "country": "FR",
+    "lat": 49.03894,
+    "lng": 2.07805
+  },
+  {
+    "name": "Cemaes Bay",
+    "country": "GB",
+    "lat": 53.41211,
+    "lng": -4.4519
+  },
+  {
+    "name": "Cefn Cribwr",
+    "country": "GB",
+    "lat": 51.53167,
+    "lng": -3.65278
+  },
+  {
+    "name": "Central",
+    "country": "HK",
+    "lat": 22.28299,
+    "lng": 114.15846
+  },
+  {
+    "name": "Celestial Heights",
+    "country": "HK",
+    "lat": 22.31922,
+    "lng": 114.18556
+  },
+  {
+    "name": "Cerro Grande",
+    "country": "HN",
+    "lat": 13.81667,
+    "lng": -87.25
+  },
+  {
+    "name": "Cerro Blanco",
+    "country": "HN",
+    "lat": 14.66321,
+    "lng": -87.78535
+  },
+  {
+    "name": "Ceguaca",
+    "country": "HN",
+    "lat": 14.80232,
+    "lng": -88.20387
+  },
+  {
+    "name": "Cedros",
+    "country": "HN",
+    "lat": 14.6,
+    "lng": -87.11667
+  },
+  {
+    "name": "Cetingrad",
+    "country": "HR",
+    "lat": 45.15972,
+    "lng": 15.73944
+  },
+  {
+    "name": "Cestica",
+    "country": "HR",
+    "lat": 46.37167,
+    "lng": 16.12528
+  },
+  {
+    "name": "Cerovlje",
+    "country": "HR",
+    "lat": 45.27806,
+    "lng": 14.01222
+  },
+  {
+    "name": "Cernik",
+    "country": "HR",
+    "lat": 45.3513,
+    "lng": 14.49392
+  },
+  {
+    "name": "Cernik",
+    "country": "HR",
+    "lat": 45.28861,
+    "lng": 17.38194
+  },
+  {
+    "name": "Cerna",
+    "country": "HR",
+    "lat": 45.18194,
+    "lng": 18.68944
+  },
+  {
+    "name": "Cerić",
+    "country": "HR",
+    "lat": 45.31139,
+    "lng": 18.85611
+  },
+  {
+    "name": "Centar",
+    "country": "HR",
+    "lat": 45.81313,
+    "lng": 15.97753
+  },
+  {
+    "name": "Cerca la Source",
+    "country": "HT",
+    "lat": 19.16696,
+    "lng": -71.79015
+  },
+  {
+    "name": "Celldömölk",
+    "country": "HU",
+    "lat": 47.25713,
+    "lng": 17.15027
+  },
+  {
+    "name": "Ceglédbercel",
+    "country": "HU",
+    "lat": 47.2237,
+    "lng": 19.66828
+  },
+  {
+    "name": "Cegléd",
+    "country": "HU",
+    "lat": 47.17266,
+    "lng": 19.79952
+  },
+  {
+    "name": "Cece",
+    "country": "HU",
+    "lat": 46.77056,
+    "lng": 18.62826
+  },
+  {
+    "name": "Celala",
+    "country": "ID",
+    "lat": 4.5955,
+    "lng": 96.692
+  },
+  {
+    "name": "Cermee",
+    "country": "ID",
+    "lat": -7.7772,
+    "lng": 114.0487
+  },
+  {
+    "name": "Cerenti",
+    "country": "ID",
+    "lat": -0.5086,
+    "lng": 101.8689
+  },
+  {
+    "name": "Cepu",
+    "country": "ID",
+    "lat": -7.1475,
+    "lng": 111.5906
+  },
+  {
+    "name": "Ceper",
+    "country": "ID",
+    "lat": -7.67417,
+    "lng": 110.67889
+  },
+  {
+    "name": "Cempaka",
+    "country": "ID",
+    "lat": -3.73235,
+    "lng": 104.66759
+  },
+  {
+    "name": "Cempa Pasar",
+    "country": "ID",
+    "lat": -3.7486,
+    "lng": 119.5842
+  },
+  {
+    "name": "Cemaga",
+    "country": "ID",
+    "lat": 3.78333,
+    "lng": 108.36528
+  },
+  {
+    "name": "Celbridge",
+    "country": "IE",
+    "lat": 53.34165,
+    "lng": -6.54419
+  },
+  {
+    "name": "Cetraro",
+    "country": "IT",
+    "lat": 39.5166,
+    "lng": 15.94158
+  },
+  {
+    "name": "Cessaniti",
+    "country": "IT",
+    "lat": 38.66395,
+    "lng": 16.02959
+  },
+  {
+    "name": "Cesarò",
+    "country": "IT",
+    "lat": 37.84476,
+    "lng": 14.71308
+  },
+  {
+    "name": "Cerzeto",
+    "country": "IT",
+    "lat": 39.50789,
+    "lng": 16.11603
+  },
+  {
+    "name": "Cervicati",
+    "country": "IT",
+    "lat": 39.54237,
+    "lng": 16.12682
+  },
+  {
+    "name": "Cerva",
+    "country": "IT",
+    "lat": 39.02397,
+    "lng": 16.74538
+  },
+  {
+    "name": "Cerisano",
+    "country": "IT",
+    "lat": 39.27715,
+    "lng": 16.17654
+  },
+  {
+    "name": "Cerenzia",
+    "country": "IT",
+    "lat": 39.24554,
+    "lng": 16.78758
+  },
+  {
+    "name": "Cerda",
+    "country": "IT",
+    "lat": 37.90578,
+    "lng": 13.81496
+  },
+  {
+    "name": "Cerchiara di Calabria",
+    "country": "IT",
+    "lat": 39.85978,
+    "lng": 16.38368
+  },
+  {
+    "name": "Ceramida-Pellegrina",
+    "country": "IT",
+    "lat": 38.29667,
+    "lng": 15.82572
+  },
+  {
+    "name": "Cerami",
+    "country": "IT",
+    "lat": 37.80953,
+    "lng": 14.5066
+  },
+  {
+    "name": "Centuripe",
+    "country": "IT",
+    "lat": 37.62336,
+    "lng": 14.74049
+  },
+  {
+    "name": "Centrache",
+    "country": "IT",
+    "lat": 38.72872,
+    "lng": 16.43101
+  },
+  {
+    "name": "Cenadi",
+    "country": "IT",
+    "lat": 38.71934,
+    "lng": 16.41582
+  },
+  {
+    "name": "Cellara",
+    "country": "IT",
+    "lat": 39.21849,
+    "lng": 16.3348
+  },
+  {
+    "name": "Celico",
+    "country": "IT",
+    "lat": 39.31009,
+    "lng": 16.33989
+  },
+  {
+    "name": "Cefalù",
+    "country": "IT",
+    "lat": 38.03856,
+    "lng": 14.02285
+  },
+  {
+    "name": "Cefalà Diana",
+    "country": "IT",
+    "lat": 37.91565,
+    "lng": 13.46325
+  },
+  {
+    "name": "Celat-San Tomaso Agordino",
+    "country": "IT",
+    "lat": 46.38072,
+    "lng": 11.97439
+  },
+  {
+    "name": "Cevo",
+    "country": "IT",
+    "lat": 46.08089,
+    "lng": 10.36952
+  },
+  {
+    "name": "Ceva",
+    "country": "IT",
+    "lat": 44.38505,
+    "lng": 8.02769
+  },
+  {
+    "name": "Cetona",
+    "country": "IT",
+    "lat": 42.96655,
+    "lng": 11.90268
+  },
+  {
+    "name": "Ceto",
+    "country": "IT",
+    "lat": 46.00259,
+    "lng": 10.35196
+  },
+  {
+    "name": "Cetara",
+    "country": "IT",
+    "lat": 40.64756,
+    "lng": 14.70091
+  },
+  {
+    "name": "Cessole",
+    "country": "IT",
+    "lat": 44.64877,
+    "lng": 8.24438
+  },
+  {
+    "name": "Cessapalombo",
+    "country": "IT",
+    "lat": 43.10825,
+    "lng": 13.25758
+  },
+  {
+    "name": "Cessalto",
+    "country": "IT",
+    "lat": 45.71356,
+    "lng": 12.61302
+  },
+  {
+    "name": "Cesiomaggiore",
+    "country": "IT",
+    "lat": 46.08675,
+    "lng": 11.98539
+  },
+  {
+    "name": "Cesio",
+    "country": "IT",
+    "lat": 44.00803,
+    "lng": 7.97515
+  },
+  {
+    "name": "Cesenatico",
+    "country": "IT",
+    "lat": 44.19987,
+    "lng": 12.3991
+  },
+  {
+    "name": "Cesena",
+    "country": "IT",
+    "lat": 44.1391,
+    "lng": 12.24315
+  },
+  {
+    "name": "Cesarolo",
+    "country": "IT",
+    "lat": 45.71884,
+    "lng": 13.01555
+  },
+  {
+    "name": "Cesara",
+    "country": "IT",
+    "lat": 45.83379,
+    "lng": 8.36777
+  },
+  {
+    "name": "Cesano Maderno",
+    "country": "IT",
+    "lat": 45.62915,
+    "lng": 9.15189
+  },
+  {
+    "name": "Cesano",
+    "country": "IT",
+    "lat": 42.07375,
+    "lng": 12.33711
+  },
+  {
+    "name": "Cesana Torinese",
+    "country": "IT",
+    "lat": 44.9534,
+    "lng": 6.79199
+  },
+  {
+    "name": "Cesa",
+    "country": "IT",
+    "lat": 43.31624,
+    "lng": 11.81262
+  },
+  {
+    "name": "Cesa",
+    "country": "IT",
+    "lat": 40.96287,
+    "lng": 14.23081
+  },
+  {
+    "name": "Cervo",
+    "country": "IT",
+    "lat": 43.92572,
+    "lng": 8.11529
+  },
+  {
+    "name": "Cervino",
+    "country": "IT",
+    "lat": 41.04001,
+    "lng": 14.42403
+  },
+  {
+    "name": "Cervignano del Friuli",
+    "country": "IT",
+    "lat": 45.82082,
+    "lng": 13.33929
+  },
+  {
+    "name": "Cervia",
+    "country": "IT",
+    "lat": 44.26204,
+    "lng": 12.34812
+  },
+  {
+    "name": "Cerveteri",
+    "country": "IT",
+    "lat": 41.9908,
+    "lng": 12.09082
+  },
+  {
+    "name": "Cervesina",
+    "country": "IT",
+    "lat": 45.06054,
+    "lng": 9.01676
+  },
+  {
+    "name": "Cervere",
+    "country": "IT",
+    "lat": 44.63428,
+    "lng": 7.78884
+  },
+  {
+    "name": "Cerveno",
+    "country": "IT",
+    "lat": 46.00176,
+    "lng": 10.3283
+  },
+  {
+    "name": "Cervaro",
+    "country": "IT",
+    "lat": 41.48278,
+    "lng": 13.90218
+  },
+  {
+    "name": "Cervara di Roma",
+    "country": "IT",
+    "lat": 41.98822,
+    "lng": 13.06799
+  },
+  {
+    "name": "Certosa di Pavia",
+    "country": "IT",
+    "lat": 45.2542,
+    "lng": 9.1329
+  },
+  {
+    "name": "Certosa",
+    "country": "IT",
+    "lat": 46.7045,
+    "lng": 10.91088
+  },
+  {
+    "name": "Certaldo",
+    "country": "IT",
+    "lat": 43.54768,
+    "lng": 11.03924
+  },
+  {
+    "name": "Cersosimo",
+    "country": "IT",
+    "lat": 40.04703,
+    "lng": 16.35059
+  },
+  {
+    "name": "Cerro Maggiore",
+    "country": "IT",
+    "lat": 45.59366,
+    "lng": 8.95428
+  },
+  {
+    "name": "Cerro al Volturno",
+    "country": "IT",
+    "lat": 41.65418,
+    "lng": 14.10321
+  },
+  {
+    "name": "Cerrione",
+    "country": "IT",
+    "lat": 45.46933,
+    "lng": 8.0684
+  },
+  {
+    "name": "Cerreto Sannita",
+    "country": "IT",
+    "lat": 41.28296,
+    "lng": 14.56147
+  },
+  {
+    "name": "Cerreto Laziale",
+    "country": "IT",
+    "lat": 41.94332,
+    "lng": 12.98169
+  },
+  {
+    "name": "Cerreto Guidi",
+    "country": "IT",
+    "lat": 43.75851,
+    "lng": 10.88191
+  },
+  {
+    "name": "Cerreto di Spoleto",
+    "country": "IT",
+    "lat": 42.82188,
+    "lng": 12.92032
+  },
+  {
+    "name": "Cerreto d'Esi",
+    "country": "IT",
+    "lat": 43.31668,
+    "lng": 12.98771
+  },
+  {
+    "name": "Cerratina",
+    "country": "IT",
+    "lat": 42.39007,
+    "lng": 14.10338
+  },
+  {
+    "name": "Cernusco sul Naviglio",
+    "country": "IT",
+    "lat": 45.52526,
+    "lng": 9.33297
+  },
+  {
+    "name": "Cernobbio",
+    "country": "IT",
+    "lat": 45.84307,
+    "lng": 9.07194
+  },
+  {
+    "name": "Cermignano",
+    "country": "IT",
+    "lat": 42.59131,
+    "lng": 13.7954
+  },
+  {
+    "name": "Cermes",
+    "country": "IT",
+    "lat": 46.63277,
+    "lng": 11.14696
+  },
+  {
+    "name": "Cermenate",
+    "country": "IT",
+    "lat": 45.70198,
+    "lng": 9.08361
+  },
+  {
+    "name": "Cerlongo",
+    "country": "IT",
+    "lat": 45.27862,
+    "lng": 10.64985
+  },
+  {
+    "name": "Cerignola",
+    "country": "IT",
+    "lat": 41.26523,
+    "lng": 15.89559
+  },
+  {
+    "name": "Ceriano Laghetto",
+    "country": "IT",
+    "lat": 45.62928,
+    "lng": 9.08017
+  },
+  {
+    "name": "Ceriana",
+    "country": "IT",
+    "lat": 43.88091,
+    "lng": 7.77476
+  },
+  {
+    "name": "Ceriale",
+    "country": "IT",
+    "lat": 44.09128,
+    "lng": 8.22893
+  },
+  {
+    "name": "Cergnago",
+    "country": "IT",
+    "lat": 45.19826,
+    "lng": 8.77164
+  },
+  {
+    "name": "Cerfignano",
+    "country": "IT",
+    "lat": 40.06107,
+    "lng": 18.44291
+  },
+  {
+    "name": "Cerete Alto",
+    "country": "IT",
+    "lat": 45.86729,
+    "lng": 9.99466
+  },
+  {
+    "name": "Ceresole Reale",
+    "country": "IT",
+    "lat": 45.43235,
+    "lng": 7.23506
+  },
+  {
+    "name": "Cereseto",
+    "country": "IT",
+    "lat": 45.08685,
+    "lng": 8.31817
+  },
+  {
+    "name": "Cerese",
+    "country": "IT",
+    "lat": 45.11814,
+    "lng": 10.78877
+  },
+  {
+    "name": "Ceresara",
+    "country": "IT",
+    "lat": 45.26228,
+    "lng": 10.56958
+  },
+  {
+    "name": "Ceres",
+    "country": "IT",
+    "lat": 45.31336,
+    "lng": 7.38961
+  },
+  {
+    "name": "Ceregnano",
+    "country": "IT",
+    "lat": 45.04811,
+    "lng": 11.86792
+  },
+  {
+    "name": "Cerea",
+    "country": "IT",
+    "lat": 45.18936,
+    "lng": 11.21661
+  },
+  {
+    "name": "Cercola",
+    "country": "IT",
+    "lat": 40.86043,
+    "lng": 14.35733
+  },
+  {
+    "name": "Cercino",
+    "country": "IT",
+    "lat": 46.15809,
+    "lng": 9.50814
+  },
+  {
+    "name": "Cerchio",
+    "country": "IT",
+    "lat": 42.06357,
+    "lng": 13.60006
+  },
+  {
+    "name": "Cercepiccola",
+    "country": "IT",
+    "lat": 41.45982,
+    "lng": 14.66487
+  },
+  {
+    "name": "Cercemaggiore",
+    "country": "IT",
+    "lat": 41.4613,
+    "lng": 14.72402
+  },
+  {
+    "name": "Cerbaia",
+    "country": "IT",
+    "lat": 43.68519,
+    "lng": 11.12889
+  },
+  {
+    "name": "Cerasolo",
+    "country": "IT",
+    "lat": 43.98805,
+    "lng": 12.52988
+  },
+  {
+    "name": "Ceraso",
+    "country": "IT",
+    "lat": 40.1943,
+    "lng": 15.25606
+  },
+  {
+    "name": "Cerano",
+    "country": "IT",
+    "lat": 45.40915,
+    "lng": 8.78351
+  },
+  {
+    "name": "Ceprano",
+    "country": "IT",
+    "lat": 41.54572,
+    "lng": 13.51473
+  },
+  {
+    "name": "Ceppaloni",
+    "country": "IT",
+    "lat": 41.04523,
+    "lng": 14.76102
+  },
+  {
+    "name": "Ceparana-Carpena",
+    "country": "IT",
+    "lat": 44.16667,
+    "lng": 9.88333
+  },
+  {
+    "name": "Cepagatti",
+    "country": "IT",
+    "lat": 42.36506,
+    "lng": 14.07424
+  },
+  {
+    "name": "Centrale",
+    "country": "IT",
+    "lat": 45.72737,
+    "lng": 11.48031
+  },
+  {
+    "name": "Centola",
+    "country": "IT",
+    "lat": 40.0698,
+    "lng": 15.31191
+  },
+  {
+    "name": "Cento",
+    "country": "IT",
+    "lat": 44.73099,
+    "lng": 11.28716
+  },
+  {
+    "name": "Centa San Nicolò",
+    "country": "IT",
+    "lat": 45.9693,
+    "lng": 11.23238
+  },
+  {
+    "name": "Centallo",
+    "country": "IT",
+    "lat": 44.50153,
+    "lng": 7.58783
+  },
+  {
+    "name": "Cengio Alto",
+    "country": "IT",
+    "lat": 44.38443,
+    "lng": 8.19758
+  },
+  {
+    "name": "Ceneselli",
+    "country": "IT",
+    "lat": 45.01377,
+    "lng": 11.36936
+  },
+  {
+    "name": "Cene",
+    "country": "IT",
+    "lat": 45.78062,
+    "lng": 9.82657
+  },
+  {
+    "name": "Cencenighe Agordino",
+    "country": "IT",
+    "lat": 46.35184,
+    "lng": 11.96823
+  },
+  {
+    "name": "Cenaia",
+    "country": "IT",
+    "lat": 43.60637,
+    "lng": 10.53571
+  },
+  {
+    "name": "Cembra",
+    "country": "IT",
+    "lat": 46.17489,
+    "lng": 11.22174
+  },
+  {
+    "name": "Cellole",
+    "country": "IT",
+    "lat": 41.20338,
+    "lng": 13.85332
+  },
+  {
+    "name": "Cellio",
+    "country": "IT",
+    "lat": 45.75505,
+    "lng": 8.31185
+  },
+  {
+    "name": "Cellino San Marco",
+    "country": "IT",
+    "lat": 40.47133,
+    "lng": 17.96427
+  },
+  {
+    "name": "Cellino Attanasio",
+    "country": "IT",
+    "lat": 42.58574,
+    "lng": 13.8605
+  },
+  {
+    "name": "Celle di San Vito",
+    "country": "IT",
+    "lat": 41.32593,
+    "lng": 15.18104
+  },
+  {
+    "name": "Cellere",
+    "country": "IT",
+    "lat": 42.51024,
+    "lng": 11.77079
+  },
+  {
+    "name": "Celleno",
+    "country": "IT",
+    "lat": 42.56039,
+    "lng": 12.12442
+  },
+  {
+    "name": "Celle Ligure",
+    "country": "IT",
+    "lat": 44.34509,
+    "lng": 8.54685
+  },
+  {
+    "name": "Celle di Bulgheria",
+    "country": "IT",
+    "lat": 40.0954,
+    "lng": 15.40324
+  },
+  {
+    "name": "Cellamare",
+    "country": "IT",
+    "lat": 41.01969,
+    "lng": 16.92741
+  },
+  {
+    "name": "Celenza Valfortore",
+    "country": "IT",
+    "lat": 41.56048,
+    "lng": 14.97898
+  },
+  {
+    "name": "Celenza sul Trigno",
+    "country": "IT",
+    "lat": 41.87198,
+    "lng": 14.57893
+  },
+  {
+    "name": "Celano",
+    "country": "IT",
+    "lat": 42.08077,
+    "lng": 13.517
+  },
+  {
+    "name": "Ceglie Messapica",
+    "country": "IT",
+    "lat": 40.6462,
+    "lng": 17.51661
+  },
+  {
+    "name": "Ceggia",
+    "country": "IT",
+    "lat": 45.687,
+    "lng": 12.64228
+  },
+  {
+    "name": "Cedrasco",
+    "country": "IT",
+    "lat": 46.14932,
+    "lng": 9.76803
+  },
+  {
+    "name": "Cedegolo",
+    "country": "IT",
+    "lat": 46.07398,
+    "lng": 10.35141
+  },
+  {
+    "name": "Cecina",
+    "country": "IT",
+    "lat": 43.30621,
+    "lng": 10.51729
+  },
+  {
+    "name": "Cecchini",
+    "country": "IT",
+    "lat": 45.86551,
+    "lng": 12.6222
+  },
+  {
+    "name": "Cecchina",
+    "country": "IT",
+    "lat": 41.70161,
+    "lng": 12.64972
+  },
+  {
+    "name": "Ceccano",
+    "country": "IT",
+    "lat": 41.57236,
+    "lng": 13.32901
+  },
+  {
+    "name": "Cercivento",
+    "country": "IT",
+    "lat": 46.52745,
+    "lng": 12.99219
+  },
+  {
+    "name": "Cervinara",
+    "country": "IT",
+    "lat": 41.02042,
+    "lng": 14.61444
+  },
+  {
+    "name": "Cesano Boscone",
+    "country": "IT",
+    "lat": 45.44207,
+    "lng": 9.09445
+  },
+  {
+    "name": "Cesate",
+    "country": "IT",
+    "lat": 45.59587,
+    "lng": 9.07574
+  },
+  {
+    "name": "Cellarengo",
+    "country": "IT",
+    "lat": 44.86435,
+    "lng": 7.94533
+  },
+  {
+    "name": "Cella Monte",
+    "country": "IT",
+    "lat": 45.07405,
+    "lng": 8.39154
+  },
+  {
+    "name": "Cerrina",
+    "country": "IT",
+    "lat": 45.12135,
+    "lng": 8.21383
+  },
+  {
+    "name": "Cenate Sopra",
+    "country": "IT",
+    "lat": 45.71298,
+    "lng": 9.82216
+  },
+  {
+    "name": "Cenate di Sotto",
+    "country": "IT",
+    "lat": 45.69898,
+    "lng": 9.82636
+  },
+  {
+    "name": "Cerro Veronese",
+    "country": "IT",
+    "lat": 45.57449,
+    "lng": 11.04159
+  },
+  {
+    "name": "Cerignale",
+    "country": "IT",
+    "lat": 44.67785,
+    "lng": 9.35077
+  },
+  {
+    "name": "Ceranesi",
+    "country": "IT",
+    "lat": 44.50563,
+    "lng": 8.89343
+  },
+  {
+    "name": "Cerreto Castello",
+    "country": "IT",
+    "lat": 45.56446,
+    "lng": 8.16082
+  },
+  {
+    "name": "Cella Dati",
+    "country": "IT",
+    "lat": 45.09527,
+    "lng": 10.22148
+  },
+  {
+    "name": "Cerano d'Intelvi",
+    "country": "IT",
+    "lat": 45.94447,
+    "lng": 9.08767
+  },
+  {
+    "name": "Cellatica",
+    "country": "IT",
+    "lat": 45.58198,
+    "lng": 10.18017
+  },
+  {
+    "name": "Cercenasco",
+    "country": "IT",
+    "lat": 44.86204,
+    "lng": 7.49822
+  },
+  {
+    "name": "Cesinali",
+    "country": "IT",
+    "lat": 40.89711,
+    "lng": 14.82774
+  },
+  {
+    "name": "Cervignano d'Adda",
+    "country": "IT",
+    "lat": 45.37387,
+    "lng": 9.42405
+  },
+  {
+    "name": "Cervatto",
+    "country": "IT",
+    "lat": 45.88297,
+    "lng": 8.16232
+  },
+  {
+    "name": "Cerreto Langhe",
+    "country": "IT",
+    "lat": 44.57484,
+    "lng": 8.09794
+  },
+  {
+    "name": "Cervasca",
+    "country": "IT",
+    "lat": 44.38093,
+    "lng": 7.47123
+  },
+  {
+    "name": "Celle Enomondo",
+    "country": "IT",
+    "lat": 44.85685,
+    "lng": 8.12373
+  },
+  {
+    "name": "Cerreto d'Asti",
+    "country": "IT",
+    "lat": 45.05215,
+    "lng": 8.03513
+  },
+  {
+    "name": "Cerro Tanaro",
+    "country": "IT",
+    "lat": 44.87335,
+    "lng": 8.35874
+  },
+  {
+    "name": "Cerreto Grue",
+    "country": "IT",
+    "lat": 44.84255,
+    "lng": 8.93035
+  },
+  {
+    "name": "Cervarese Santa Croce",
+    "country": "IT",
+    "lat": 45.42439,
+    "lng": 11.6879
+  },
+  {
+    "name": "Cernusco Lombardone",
+    "country": "IT",
+    "lat": 45.69088,
+    "lng": 9.39925
+  },
+  {
+    "name": "Cesana Brianza",
+    "country": "IT",
+    "lat": 45.81678,
+    "lng": 9.29954
+  },
+  {
+    "name": "Ceppo Morelli",
+    "country": "IT",
+    "lat": 45.97114,
+    "lng": 8.06688
+  },
+  {
+    "name": "Cerro al Lambro",
+    "country": "IT",
+    "lat": 45.32997,
+    "lng": 9.33905
+  },
+  {
+    "name": "Cecima",
+    "country": "IT",
+    "lat": 44.85066,
+    "lng": 9.08036
+  },
+  {
+    "name": "Ceranova",
+    "country": "IT",
+    "lat": 45.26027,
+    "lng": 9.24315
+  },
+  {
+    "name": "Ceretto Lomellina",
+    "country": "IT",
+    "lat": 45.24496,
+    "lng": 8.67244
+  },
+  {
+    "name": "Ceresole Alba",
+    "country": "IT",
+    "lat": 44.79974,
+    "lng": 7.82243
+  },
+  {
+    "name": "Centobuchi",
+    "country": "IT",
+    "lat": 42.89521,
+    "lng": 13.84809
+  },
+  {
+    "name": "Cerbara",
+    "country": "IT",
+    "lat": 43.49913,
+    "lng": 12.21113
+  },
+  {
+    "name": "Centinarola",
+    "country": "IT",
+    "lat": 43.83117,
+    "lng": 12.98962
+  },
+  {
+    "name": "Cerza",
+    "country": "IT",
+    "lat": 37.54297,
+    "lng": 15.1051
+  },
+  {
+    "name": "Ceresane-Curanuova",
+    "country": "IT",
+    "lat": 45.52435,
+    "lng": 8.00708
+  },
+  {
+    "name": "Cepina",
+    "country": "IT",
+    "lat": 46.43609,
+    "lng": 10.35713
+  },
+  {
+    "name": "Cereda-Cozza Cornedo",
+    "country": "IT",
+    "lat": 45.60181,
+    "lng": 11.3674
+  },
+  {
+    "name": "Cerello-Battuello",
+    "country": "IT",
+    "lat": 45.44716,
+    "lng": 8.93105
+  },
+  {
+    "name": "Cellore",
+    "country": "IT",
+    "lat": 45.48646,
+    "lng": 11.17831
+  },
+  {
+    "name": "Cerquotti-Madonna del Piano",
+    "country": "IT",
+    "lat": 41.64194,
+    "lng": 13.21316
+  },
+  {
+    "name": "Cendon",
+    "country": "IT",
+    "lat": 45.63804,
+    "lng": 12.32505
+  },
+  {
+    "name": "Centro Urbano",
+    "country": "IT",
+    "lat": 40.81986,
+    "lng": 15.31953
+  },
+  {
+    "name": "Cedessano",
+    "country": "IT",
+    "lat": 45.68858,
+    "lng": 10.43395
+  },
+  {
+    "name": "Centrale",
+    "country": "IT",
+    "lat": 46.16118,
+    "lng": 11.30293
+  },
+  {
+    "name": "Cetraro Marina",
+    "country": "IT",
+    "lat": 39.51701,
+    "lng": 15.9346
+  },
+  {
+    "name": "Centro",
+    "country": "IT",
+    "lat": 45.07176,
+    "lng": 7.67919
+  },
+  {
+    "name": "Cenisia",
+    "country": "IT",
+    "lat": 45.06885,
+    "lng": 7.65052
+  },
+  {
+    "name": "Cessange",
+    "country": "LU",
+    "lat": 49.58944,
+    "lng": 6.10694
+  },
+  {
+    "name": "Cents",
+    "country": "LU",
+    "lat": 49.61707,
+    "lng": 6.16413
+  },
+  {
+    "name": "Cesvaine",
+    "country": "LV",
+    "lat": 56.96754,
+    "lng": 26.30764
+  },
+  {
+    "name": "Ceadîr-Lunga",
+    "country": "MD",
+    "lat": 46.06169,
+    "lng": 28.83078
+  },
+  {
+    "name": "Cetinje",
+    "country": "ME",
+    "lat": 42.39063,
+    "lng": 18.91417
+  },
+  {
+    "name": "Cegrane",
+    "country": "MK",
+    "lat": 41.83889,
+    "lng": 20.97583
+  },
+  {
+    "name": "Centar Župa",
+    "country": "MK",
+    "lat": 41.47849,
+    "lng": 20.55945
+  },
+  {
+    "name": "Centre de Flacq",
+    "country": "MU",
+    "lat": -20.18972,
+    "lng": 57.71444
+  },
+  {
+    "name": "Cerro Gordo",
+    "country": "MX",
+    "lat": 20.37343,
+    "lng": -99.91406
+  },
+  {
+    "name": "Cerro Gordo",
+    "country": "MX",
+    "lat": 19.56951,
+    "lng": -96.64835
+  },
+  {
+    "name": "Cerro Azul",
+    "country": "MX",
+    "lat": 21.192,
+    "lng": -97.74088
+  },
+  {
+    "name": "Cerritos",
+    "country": "MX",
+    "lat": 19.13329,
+    "lng": -96.60931
+  },
+  {
+    "name": "Cepeda",
+    "country": "MX",
+    "lat": 20.506,
+    "lng": -90.10979
+  },
+  {
+    "name": "Cenotillo",
+    "country": "MX",
+    "lat": 20.96621,
+    "lng": -88.60438
+  },
+  {
+    "name": "Celestún",
+    "country": "MX",
+    "lat": 20.85973,
+    "lng": -90.39902
+  },
+  {
+    "name": "Cerro del Aire",
+    "country": "MX",
+    "lat": 16.11012,
+    "lng": -97.20438
+  },
+  {
+    "name": "Cerro La Calera",
+    "country": "MX",
+    "lat": 19.18333,
+    "lng": -99.81667
+  },
+  {
+    "name": "Celayita",
+    "country": "MX",
+    "lat": 20.24113,
+    "lng": -99.86142
+  },
+  {
+    "name": "Cerro de Piedra",
+    "country": "MX",
+    "lat": 16.77646,
+    "lng": -99.63037
+  },
+  {
+    "name": "Cerro Gordo",
+    "country": "MX",
+    "lat": 19.43336,
+    "lng": -96.7004
+  },
+  {
+    "name": "Cerro Guzmán",
+    "country": "MX",
+    "lat": 19.23543,
+    "lng": -96.37856
+  },
+  {
+    "name": "Cecilio Terán",
+    "country": "MX",
+    "lat": 18.8148,
+    "lng": -97.22526
+  },
+  {
+    "name": "Cerrito de la Cruz",
+    "country": "MX",
+    "lat": 22.65692,
+    "lng": -102.27217
+  },
+  {
+    "name": "Cerro Gordo",
+    "country": "MX",
+    "lat": 21.97448,
+    "lng": -100.80661
+  },
+  {
+    "name": "Ceja de Bravo",
+    "country": "MX",
+    "lat": 20.38129,
+    "lng": -100.39016
+  },
+  {
+    "name": "Ceuta",
+    "country": "MX",
+    "lat": 23.90186,
+    "lng": -106.92828
+  },
+  {
+    "name": "Cerro Gordo",
+    "country": "MX",
+    "lat": 20.59294,
+    "lng": -101.12684
+  },
+  {
+    "name": "Cerro de San Pedro",
+    "country": "MX",
+    "lat": 22.2178,
+    "lng": -100.79961
+  },
+  {
+    "name": "Cerro de Ortega",
+    "country": "MX",
+    "lat": 18.7508,
+    "lng": -103.72155
+  },
+  {
+    "name": "Cerro Agudo",
+    "country": "MX",
+    "lat": 25.59726,
+    "lng": -107.96294
+  },
+  {
+    "name": "Cerritos",
+    "country": "MX",
+    "lat": 22.42835,
+    "lng": -100.28474
+  },
+  {
+    "name": "Cerritos",
+    "country": "MX",
+    "lat": 20.88552,
+    "lng": -100.5988
+  },
+  {
+    "name": "Cerrito de Zavala",
+    "country": "MX",
+    "lat": 22.5369,
+    "lng": -100.97683
+  },
+  {
+    "name": "Cerocahui",
+    "country": "MX",
+    "lat": 27.29906,
+    "lng": -108.055
+  },
+  {
+    "name": "Cerano",
+    "country": "MX",
+    "lat": 20.10877,
+    "lng": -101.3871
+  },
+  {
+    "name": "Cenobio Moreno",
+    "country": "MX",
+    "lat": 19.09629,
+    "lng": -102.50415
+  },
+  {
+    "name": "Celaya",
+    "country": "MX",
+    "lat": 20.52353,
+    "lng": -100.8157
+  },
+  {
+    "name": "Cedros",
+    "country": "MX",
+    "lat": 24.67845,
+    "lng": -101.77236
+  },
+  {
+    "name": "Cedral",
+    "country": "MX",
+    "lat": 23.82099,
+    "lng": -100.72527
+  },
+  {
+    "name": "Ceballos",
+    "country": "MX",
+    "lat": 26.52415,
+    "lng": -104.13015
+  },
+  {
+    "name": "Centro de Arriba",
+    "country": "MX",
+    "lat": 21.73123,
+    "lng": -102.49888
+  },
+  {
+    "name": "Cerrito de Gasca",
+    "country": "MX",
+    "lat": 20.61829,
+    "lng": -101.062
+  },
+  {
+    "name": "Cerro Colorado",
+    "country": "MX",
+    "lat": 20.40111,
+    "lng": -101.32451
+  },
+  {
+    "name": "Cerro Colorado de Ocampo",
+    "country": "MX",
+    "lat": 19.31712,
+    "lng": -100.46538
+  },
+  {
+    "name": "Cerritos de Cárdenas",
+    "country": "MX",
+    "lat": 19.96942,
+    "lng": -100.02254
+  },
+  {
+    "name": "Cedro de la Manzana",
+    "country": "MX",
+    "lat": 19.69213,
+    "lng": -100.11656
+  },
+  {
+    "name": "Cerritos del Pilar",
+    "country": "MX",
+    "lat": 19.44508,
+    "lng": -100.01909
+  },
+  {
+    "name": "Cerro de la Cruz",
+    "country": "MX",
+    "lat": 20.81473,
+    "lng": -100.50073
+  },
+  {
+    "name": "Centro Familiar la Soledad",
+    "country": "MX",
+    "lat": 21.135,
+    "lng": -101.74972
+  },
+  {
+    "name": "Centro de Readaptación Social",
+    "country": "MX",
+    "lat": 20.55444,
+    "lng": -103.19361
+  },
+  {
+    "name": "Cereso del Hongo",
+    "country": "MX",
+    "lat": 32.48417,
+    "lng": -116.25056
+  },
+  {
+    "name": "Cerrillos (Campo 35)",
+    "country": "MX",
+    "lat": 25.87806,
+    "lng": -108.90139
+  },
+  {
+    "name": "Centro de Readaptación Social",
+    "country": "MX",
+    "lat": 19.625,
+    "lng": -97.22028
+  },
+  {
+    "name": "Cereso 14 (El Amate)",
+    "country": "MX",
+    "lat": 16.59472,
+    "lng": -93.80278
+  },
+  {
+    "name": "Centro de Readaptación Social Nuevo",
+    "country": "MX",
+    "lat": 31.18444,
+    "lng": -110.96778
+  },
+  {
+    "name": "CEFERESO Número 3",
+    "country": "MX",
+    "lat": 25.84722,
+    "lng": -97.63333
+  },
+  {
+    "name": "Ceiba 1ra. Sección (Jahuactal)",
+    "country": "MX",
+    "lat": 18.06222,
+    "lng": -93.11306
+  },
+  {
+    "name": "Cerro las Iguanas",
+    "country": "MX",
+    "lat": 18.41083,
+    "lng": -95.19972
+  },
+  {
+    "name": "Centro de Readaptación Social",
+    "country": "MX",
+    "lat": 18.13667,
+    "lng": -94.51861
+  },
+  {
+    "name": "Cerro de San Francisco",
+    "country": "MX",
+    "lat": 19.37038,
+    "lng": -99.35162
+  },
+  {
+    "name": "Cebadilla 1ra. Sección",
+    "country": "MX",
+    "lat": 14.86381,
+    "lng": -92.27969
+  },
+  {
+    "name": "Cerritos",
+    "country": "MX",
+    "lat": 20.35306,
+    "lng": -99.01222
+  },
+  {
+    "name": "Cerro Armadillo Grande",
+    "country": "MX",
+    "lat": 17.86611,
+    "lng": -96.30861
+  },
+  {
+    "name": "Cementeras del Pital",
+    "country": "MX",
+    "lat": 20.17694,
+    "lng": -96.89583
+  },
+  {
+    "name": "Cerro Grande",
+    "country": "MX",
+    "lat": 20.23861,
+    "lng": -97.68194
+  },
+  {
+    "name": "CERESO Nuevo",
+    "country": "MX",
+    "lat": 25.89139,
+    "lng": -109.04222
+  },
+  {
+    "name": "Cerrito de Jaral",
+    "country": "MX",
+    "lat": 22.22361,
+    "lng": -101.0625
+  },
+  {
+    "name": "Cerro Quemado",
+    "country": "MX",
+    "lat": 18.15417,
+    "lng": -96.575
+  },
+  {
+    "name": "Cerro del Murciélago",
+    "country": "MX",
+    "lat": 19.28194,
+    "lng": -99.75472
+  },
+  {
+    "name": "Centro de Readaptación Social",
+    "country": "MX",
+    "lat": 18.83806,
+    "lng": -96.93944
+  },
+  {
+    "name": "Cenobio Aguilar (La Trinidad)",
+    "country": "MX",
+    "lat": 17.40472,
+    "lng": -92.31944
+  },
+  {
+    "name": "Ceruh",
+    "country": "MY",
+    "lat": 3.9042,
+    "lng": 101.8132
+  },
+  {
+    "name": "Cenderiang",
+    "country": "MY",
+    "lat": 4.26667,
+    "lng": 101.23333
+  },
+  {
+    "name": "Cerro Banco",
+    "country": "PA",
+    "lat": 8.4603,
+    "lng": -82.03186
+  },
+  {
+    "name": "Cerro Viejo",
+    "country": "PA",
+    "lat": 8.25399,
+    "lng": -81.57524
+  },
+  {
+    "name": "Cerro Venado",
+    "country": "PA",
+    "lat": 8.22818,
+    "lng": -81.57421
+  },
+  {
+    "name": "Cerro Silvestre",
+    "country": "PA",
+    "lat": 8.9402,
+    "lng": -79.67991
+  },
+  {
+    "name": "Cerro Punta",
+    "country": "PA",
+    "lat": 8.85217,
+    "lng": -82.57363
+  },
+  {
+    "name": "Cerro Plata",
+    "country": "PA",
+    "lat": 8.47733,
+    "lng": -81.54585
+  },
+  {
+    "name": "Cerro Plata",
+    "country": "PA",
+    "lat": 8.28607,
+    "lng": -81.36602
+  },
+  {
+    "name": "Cerro Largo",
+    "country": "PA",
+    "lat": 7.83898,
+    "lng": -80.83082
+  },
+  {
+    "name": "Cerro Iglesia",
+    "country": "PA",
+    "lat": 8.29122,
+    "lng": -81.79701
+  },
+  {
+    "name": "Cerro Iglesia",
+    "country": "PA",
+    "lat": 8.29048,
+    "lng": -81.56557
+  },
+  {
+    "name": "Cerro Caña",
+    "country": "PA",
+    "lat": 8.34883,
+    "lng": -81.61539
+  },
+  {
+    "name": "Cerro Cama",
+    "country": "PA",
+    "lat": 9.02802,
+    "lng": -79.90744
+  },
+  {
+    "name": "Cerro Azul",
+    "country": "PA",
+    "lat": 9.15735,
+    "lng": -79.42097
+  },
+  {
+    "name": "Cermeño",
+    "country": "PA",
+    "lat": 8.74243,
+    "lng": -79.84367
+  },
+  {
+    "name": "Celmira",
+    "country": "PA",
+    "lat": 8.54508,
+    "lng": -82.80207
+  },
+  {
+    "name": "Cedro Arriba",
+    "country": "PA",
+    "lat": 7.78146,
+    "lng": -80.53109
+  },
+  {
+    "name": "Cerro Pelado",
+    "country": "PA",
+    "lat": 8.16247,
+    "lng": -81.53917
+  },
+  {
+    "name": "Celendín",
+    "country": "PE",
+    "lat": -6.86544,
+    "lng": -78.14552
+  },
+  {
+    "name": "Cerro de Pasco",
+    "country": "PE",
+    "lat": -10.66577,
+    "lng": -76.25309
+  },
+  {
+    "name": "Centenario",
+    "country": "PE",
+    "lat": -9.51656,
+    "lng": -77.53045
+  },
+  {
+    "name": "Cerro Verde",
+    "country": "PE",
+    "lat": -16.45026,
+    "lng": -71.61552
+  },
+  {
+    "name": "Cervantes",
+    "country": "PH",
+    "lat": 16.9909,
+    "lng": 120.7359
+  },
+  {
+    "name": "Cervantes",
+    "country": "PH",
+    "lat": 12.36861,
+    "lng": 124.65972
+  },
+  {
+    "name": "Cervantes",
+    "country": "PH",
+    "lat": 10.8726,
+    "lng": 123.5209
+  },
+  {
+    "name": "Cebuano",
+    "country": "PH",
+    "lat": 6.38794,
+    "lng": 124.96841
+  },
+  {
+    "name": "Cebu City",
+    "country": "PH",
+    "lat": 10.31672,
+    "lng": 123.89071
+  },
+  {
+    "name": "Centro1, Santa. Rosa 1, Baco, Oriental Mindoro",
+    "country": "PH",
+    "lat": 13.37442,
+    "lng": 121.06289
+  },
+  {
+    "name": "Ceranów",
+    "country": "PL",
+    "lat": 52.63082,
+    "lng": 22.22826
+  },
+  {
+    "name": "Celestynów",
+    "country": "PL",
+    "lat": 52.06093,
+    "lng": 21.39107
+  },
+  {
+    "name": "Cegłów",
+    "country": "PL",
+    "lat": 52.14782,
+    "lng": 21.73739
+  },
+  {
+    "name": "Cewice",
+    "country": "PL",
+    "lat": 54.43551,
+    "lng": 17.73485
+  },
+  {
+    "name": "Cerkwica",
+    "country": "PL",
+    "lat": 54.00777,
+    "lng": 15.10903
+  },
+  {
+    "name": "Cekcyn",
+    "country": "PL",
+    "lat": 53.57294,
+    "lng": 18.01123
+  },
+  {
+    "name": "Cedynia",
+    "country": "PL",
+    "lat": 52.87931,
+    "lng": 14.20249
+  },
+  {
+    "name": "Cedry Wielkie",
+    "country": "PL",
+    "lat": 54.24707,
+    "lng": 18.84567
+  },
+  {
+    "name": "Ceiba",
+    "country": "PR",
+    "lat": 18.26412,
+    "lng": -65.6485
+  },
+  {
+    "name": "Ceiba",
+    "country": "PR",
+    "lat": 18.44634,
+    "lng": -66.35073
+  },
+  {
+    "name": "Celada",
+    "country": "PR",
+    "lat": 18.27162,
+    "lng": -65.966
+  },
+  {
+    "name": "Central Aguirre",
+    "country": "PR",
+    "lat": 17.95358,
+    "lng": -66.22294
+  },
+  {
+    "name": "Cercal",
+    "country": "PT",
+    "lat": 37.80129,
+    "lng": -8.674
+  },
+  {
+    "name": "Cela",
+    "country": "PT",
+    "lat": 39.54075,
+    "lng": -9.03449
+  },
+  {
+    "name": "Celorico de Basto",
+    "country": "PT",
+    "lat": 41.38714,
+    "lng": -8.00101
+  },
+  {
+    "name": "Celorico da Beira",
+    "country": "PT",
+    "lat": 40.63723,
+    "lng": -7.39037
+  },
+  {
+    "name": "Cerrito",
+    "country": "PY",
+    "lat": -27.34215,
+    "lng": -57.64119
+  },
+  {
+    "name": "Cezieni",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 24.26667
+  },
+  {
+    "name": "Cetăţeni",
+    "country": "RO",
+    "lat": 45.2,
+    "lng": 25.18333
+  },
+  {
+    "name": "Cetatea de Baltă",
+    "country": "RO",
+    "lat": 46.24794,
+    "lng": 24.17244
+  },
+  {
+    "name": "Cetatea",
+    "country": "RO",
+    "lat": 43.95105,
+    "lng": 25.9345
+  },
+  {
+    "name": "Cetate",
+    "country": "RO",
+    "lat": 44.1,
+    "lng": 23.05
+  },
+  {
+    "name": "Cetariu",
+    "country": "RO",
+    "lat": 47.13333,
+    "lng": 22.01667
+  },
+  {
+    "name": "Cervenia",
+    "country": "RO",
+    "lat": 43.83333,
+    "lng": 25.46667
+  },
+  {
+    "name": "Ceru-Băcăinţi",
+    "country": "RO",
+    "lat": 45.98333,
+    "lng": 23.25
+  },
+  {
+    "name": "Certeze",
+    "country": "RO",
+    "lat": 47.9,
+    "lng": 23.46667
+  },
+  {
+    "name": "Cerţeşti",
+    "country": "RO",
+    "lat": 46.01667,
+    "lng": 27.61667
+  },
+  {
+    "name": "Certeju de Sus",
+    "country": "RO",
+    "lat": 45.96667,
+    "lng": 22.96667
+  },
+  {
+    "name": "Cernu",
+    "country": "RO",
+    "lat": 46.46999,
+    "lng": 26.58477
+  },
+  {
+    "name": "Cernişoara",
+    "country": "RO",
+    "lat": 45.03333,
+    "lng": 23.98333
+  },
+  {
+    "name": "Cernica",
+    "country": "RO",
+    "lat": 44.41667,
+    "lng": 26.28333
+  },
+  {
+    "name": "Cernetu",
+    "country": "RO",
+    "lat": 43.90727,
+    "lng": 25.45688
+  },
+  {
+    "name": "Cerneți",
+    "country": "RO",
+    "lat": 44.63476,
+    "lng": 22.70931
+  },
+  {
+    "name": "Cerneşti",
+    "country": "RO",
+    "lat": 47.51667,
+    "lng": 23.75
+  },
+  {
+    "name": "Cernele",
+    "country": "RO",
+    "lat": 44.33363,
+    "lng": 23.7414
+  },
+  {
+    "name": "Cernavodă",
+    "country": "RO",
+    "lat": 44.33957,
+    "lng": 28.03273
+  },
+  {
+    "name": "Cernăteşti",
+    "country": "RO",
+    "lat": 45.26667,
+    "lng": 26.76667
+  },
+  {
+    "name": "Cernăteşti",
+    "country": "RO",
+    "lat": 44.45,
+    "lng": 23.43333
+  },
+  {
+    "name": "Cernat",
+    "country": "RO",
+    "lat": 45.95,
+    "lng": 26.03333
+  },
+  {
+    "name": "Cerna",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 28.31667
+  },
+  {
+    "name": "Cermei",
+    "country": "RO",
+    "lat": 46.55,
+    "lng": 21.85
+  },
+  {
+    "name": "Cergău Mic",
+    "country": "RO",
+    "lat": 46.08438,
+    "lng": 23.94039
+  },
+  {
+    "name": "Cergău Mare",
+    "country": "RO",
+    "lat": 46.09869,
+    "lng": 23.92284
+  },
+  {
+    "name": "Cerdac",
+    "country": "RO",
+    "lat": 46.23794,
+    "lng": 26.51638
+  },
+  {
+    "name": "Ceardac",
+    "country": "RO",
+    "lat": 45.66967,
+    "lng": 27.16611
+  },
+  {
+    "name": "Cerchezu",
+    "country": "RO",
+    "lat": 43.81667,
+    "lng": 28.1
+  },
+  {
+    "name": "Cerbăl",
+    "country": "RO",
+    "lat": 45.78333,
+    "lng": 22.71667
+  },
+  {
+    "name": "Cerăt",
+    "country": "RO",
+    "lat": 44.06667,
+    "lng": 23.66667
+  },
+  {
+    "name": "Ceraşu",
+    "country": "RO",
+    "lat": 45.31667,
+    "lng": 26.03333
+  },
+  {
+    "name": "Ceptura de Sus",
+    "country": "RO",
+    "lat": 45.01667,
+    "lng": 26.31667
+  },
+  {
+    "name": "Ceptura de Jos",
+    "country": "RO",
+    "lat": 45.02088,
+    "lng": 26.32722
+  },
+  {
+    "name": "Cepleniţa",
+    "country": "RO",
+    "lat": 47.38333,
+    "lng": 27.01667
+  },
+  {
+    "name": "Ceparii Pământeni",
+    "country": "RO",
+    "lat": 45.21667,
+    "lng": 24.56667
+  },
+  {
+    "name": "Cepari",
+    "country": "RO",
+    "lat": 44.49733,
+    "lng": 24.17122
+  },
+  {
+    "name": "Cenei",
+    "country": "RO",
+    "lat": 45.71583,
+    "lng": 20.90389
+  },
+  {
+    "name": "Cenade",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 24.01667
+  },
+  {
+    "name": "Cenad",
+    "country": "RO",
+    "lat": 46.13333,
+    "lng": 20.58333
+  },
+  {
+    "name": "Celaru",
+    "country": "RO",
+    "lat": 44.05,
+    "lng": 24.13333
+  },
+  {
+    "name": "Ceica",
+    "country": "RO",
+    "lat": 46.85,
+    "lng": 22.18333
+  },
+  {
+    "name": "Cehu Silvaniei",
+    "country": "RO",
+    "lat": 47.41177,
+    "lng": 23.17489
+  },
+  {
+    "name": "Cehei",
+    "country": "RO",
+    "lat": 47.25632,
+    "lng": 22.77507
+  },
+  {
+    "name": "Cehal",
+    "country": "RO",
+    "lat": 47.38333,
+    "lng": 22.6
+  },
+  {
+    "name": "Cegani",
+    "country": "RO",
+    "lat": 44.46279,
+    "lng": 27.90175
+  },
+  {
+    "name": "Cefa",
+    "country": "RO",
+    "lat": 46.91667,
+    "lng": 21.73333
+  },
+  {
+    "name": "Ceuașu de Câmpie",
+    "country": "RO",
+    "lat": 46.63333,
+    "lng": 24.51667
+  },
+  {
+    "name": "Ceauru",
+    "country": "RO",
+    "lat": 45.01175,
+    "lng": 23.20211
+  },
+  {
+    "name": "Ceatalchioi",
+    "country": "RO",
+    "lat": 45.28333,
+    "lng": 28.78333
+  },
+  {
+    "name": "Ceanu Mare",
+    "country": "RO",
+    "lat": 46.66667,
+    "lng": 23.95
+  },
+  {
+    "name": "Ceamurlia de Sus",
+    "country": "RO",
+    "lat": 44.76373,
+    "lng": 28.60881
+  },
+  {
+    "name": "Ceamurlia de Jos",
+    "country": "RO",
+    "lat": 44.73333,
+    "lng": 28.71667
+  },
+  {
+    "name": "Ceahlău",
+    "country": "RO",
+    "lat": 47.05,
+    "lng": 25.96667
+  },
+  {
+    "name": "Ceacu",
+    "country": "RO",
+    "lat": 44.2653,
+    "lng": 27.25213
+  },
+  {
+    "name": "Centralniy",
+    "country": "RU",
+    "lat": 59.93111,
+    "lng": 30.36072
+  },
+  {
+    "name": "Cerkvenjak",
+    "country": "SI",
+    "lat": 46.56796,
+    "lng": 15.94374
+  },
+  {
+    "name": "Cerknica",
+    "country": "SI",
+    "lat": 45.79703,
+    "lng": 14.36263
+  },
+  {
+    "name": "Cerklje na Gorenjskem",
+    "country": "SI",
+    "lat": 46.25007,
+    "lng": 14.4862
+  },
+  {
+    "name": "Celje",
+    "country": "SI",
+    "lat": 46.23092,
+    "lng": 15.26044
+  },
+  {
+    "name": "Cerkno",
+    "country": "SI",
+    "lat": 46.12533,
+    "lng": 13.98266
+  },
+  {
+    "name": "Cerová",
+    "country": "SK",
+    "lat": 48.56997,
+    "lng": 18.52066
+  },
+  {
+    "name": "Ceerigaabo",
+    "country": "SO",
+    "lat": 10.61616,
+    "lng": 47.36795
+  },
+  {
+    "name": "Ceeldheer",
+    "country": "SO",
+    "lat": 3.84878,
+    "lng": 47.18064
+  },
+  {
+    "name": "Ceelbuur",
+    "country": "SO",
+    "lat": 4.68501,
+    "lng": 46.6176
+  },
+  {
+    "name": "Ceek",
+    "country": "SO",
+    "lat": 8.99907,
+    "lng": 45.35824
+  },
+  {
+    "name": "Cevizli",
+    "country": "TR",
+    "lat": 37.01722,
+    "lng": 29.29861
+  },
+  {
+    "name": "Ceylanpınar",
+    "country": "TR",
+    "lat": 36.84722,
+    "lng": 40.05
+  },
+  {
+    "name": "Ceyhan",
+    "country": "TR",
+    "lat": 37.02472,
+    "lng": 35.8175
+  },
+  {
+    "name": "Cevizlik",
+    "country": "TR",
+    "lat": 38.17554,
+    "lng": 42.22602
+  },
+  {
+    "name": "Cevizli",
+    "country": "TR",
+    "lat": 37.19694,
+    "lng": 31.76333
+  },
+  {
+    "name": "Ceritler",
+    "country": "TR",
+    "lat": 37.46917,
+    "lng": 35.3875
+  },
+  {
+    "name": "Cengerli",
+    "country": "TR",
+    "lat": 39.79426,
+    "lng": 38.84814
+  },
+  {
+    "name": "Celâlli",
+    "country": "TR",
+    "lat": 39.6925,
+    "lng": 37.42389
+  },
+  {
+    "name": "Cerrah",
+    "country": "TR",
+    "lat": 40.07124,
+    "lng": 29.44661
+  },
+  {
+    "name": "Cemilbey",
+    "country": "TR",
+    "lat": 40.34529,
+    "lng": 35.05136
+  },
+  {
+    "name": "Celâliye",
+    "country": "TR",
+    "lat": 41.05151,
+    "lng": 28.41956
+  },
+  {
+    "name": "Cedar Bluff",
+    "country": "US",
+    "lat": 34.22009,
+    "lng": -85.60774
+  },
+  {
+    "name": "Center Point",
+    "country": "US",
+    "lat": 33.64566,
+    "lng": -86.6836
+  },
+  {
+    "name": "Centre",
+    "country": "US",
+    "lat": 34.15204,
+    "lng": -85.67885
+  },
+  {
+    "name": "Centreville",
+    "country": "US",
+    "lat": 32.9462,
+    "lng": -87.11669
+  },
+  {
+    "name": "Cedarville",
+    "country": "US",
+    "lat": 35.56981,
+    "lng": -94.36688
+  },
+  {
+    "name": "Centerton",
+    "country": "US",
+    "lat": 36.3598,
+    "lng": -94.28521
+  },
+  {
+    "name": "Cedar Grove",
+    "country": "US",
+    "lat": 30.17103,
+    "lng": -85.6252
+  },
+  {
+    "name": "Celebration",
+    "country": "US",
+    "lat": 28.32529,
+    "lng": -81.53313
+  },
+  {
+    "name": "Center Hill",
+    "country": "US",
+    "lat": 28.64999,
+    "lng": -81.99258
+  },
+  {
+    "name": "Century",
+    "country": "US",
+    "lat": 30.97324,
+    "lng": -87.26386
+  },
+  {
+    "name": "Cedartown",
+    "country": "US",
+    "lat": 34.01123,
+    "lng": -85.25593
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 32.63014,
+    "lng": -83.68963
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 38.54894,
+    "lng": -89.12701
+  },
+  {
+    "name": "Centralia",
+    "country": "US",
+    "lat": 38.52505,
+    "lng": -89.1334
+  },
+  {
+    "name": "Centreville",
+    "country": "US",
+    "lat": 38.58338,
+    "lng": -90.12511
+  },
+  {
+    "name": "Cerro Gordo",
+    "country": "US",
+    "lat": 39.89059,
+    "lng": -88.72813
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 39.81782,
+    "lng": -84.99635
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 37.29393,
+    "lng": -87.12333
+  },
+  {
+    "name": "Cecilia",
+    "country": "US",
+    "lat": 30.33714,
+    "lng": -91.85317
+  },
+  {
+    "name": "Central",
+    "country": "US",
+    "lat": 30.55435,
+    "lng": -91.03677
+  },
+  {
+    "name": "Cedonia",
+    "country": "US",
+    "lat": 39.33221,
+    "lng": -76.53206
+  },
+  {
+    "name": "Centreville",
+    "country": "US",
+    "lat": 39.04178,
+    "lng": -76.06633
+  },
+  {
+    "name": "Cedar Hill",
+    "country": "US",
+    "lat": 38.35339,
+    "lng": -90.64124
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 37.43505,
+    "lng": -90.95846
+  },
+  {
+    "name": "Centralia",
+    "country": "US",
+    "lat": 39.21032,
+    "lng": -92.13795
+  },
+  {
+    "name": "Centreville",
+    "country": "US",
+    "lat": 31.08962,
+    "lng": -91.06844
+  },
+  {
+    "name": "Cedar Point",
+    "country": "US",
+    "lat": 34.68766,
+    "lng": -77.07245
+  },
+  {
+    "name": "Cedar Glen Lakes",
+    "country": "US",
+    "lat": 39.95234,
+    "lng": -74.39987
+  },
+  {
+    "name": "Cedarville",
+    "country": "US",
+    "lat": 39.74423,
+    "lng": -83.80854
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 39.62839,
+    "lng": -84.15938
+  },
+  {
+    "name": "Central High",
+    "country": "US",
+    "lat": 34.62313,
+    "lng": -98.08976
+  },
+  {
+    "name": "Cedar Park",
+    "country": "US",
+    "lat": 39.95039,
+    "lng": -75.2274
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 34.53205,
+    "lng": -82.70402
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 32.99573,
+    "lng": -80.17037
+  },
+  {
+    "name": "Central",
+    "country": "US",
+    "lat": 34.72427,
+    "lng": -82.78125
+  },
+  {
+    "name": "Celina",
+    "country": "US",
+    "lat": 36.55006,
+    "lng": -85.50525
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 35.77896,
+    "lng": -87.46696
+  },
+  {
+    "name": "Central",
+    "country": "US",
+    "lat": 36.32622,
+    "lng": -82.28958
+  },
+  {
+    "name": "Central",
+    "country": "US",
+    "lat": 35.80369,
+    "lng": -89.5373
+  },
+  {
+    "name": "Cedar Hill",
+    "country": "US",
+    "lat": 32.58847,
+    "lng": -96.95612
+  },
+  {
+    "name": "Cedar Park",
+    "country": "US",
+    "lat": 30.5052,
+    "lng": -97.82029
+  },
+  {
+    "name": "Celina",
+    "country": "US",
+    "lat": 33.32456,
+    "lng": -96.78444
+  },
+  {
+    "name": "Center",
+    "country": "US",
+    "lat": 31.51073,
+    "lng": -96.4247
+  },
+  {
+    "name": "Center",
+    "country": "US",
+    "lat": 31.79545,
+    "lng": -94.17909
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 31.25796,
+    "lng": -95.97829
+  },
+  {
+    "name": "Central Gardens",
+    "country": "US",
+    "lat": 29.99549,
+    "lng": -94.01406
+  },
+  {
+    "name": "Cedar Bluff",
+    "country": "US",
+    "lat": 37.26403,
+    "lng": -79.93532
+  },
+  {
+    "name": "Cedar Bluff",
+    "country": "US",
+    "lat": 37.08761,
+    "lng": -81.759
+  },
+  {
+    "name": "Central Garage",
+    "country": "US",
+    "lat": 37.74403,
+    "lng": -77.13164
+  },
+  {
+    "name": "Centreville",
+    "country": "US",
+    "lat": 38.84039,
+    "lng": -77.42888
+  },
+  {
+    "name": "Ceredo",
+    "country": "US",
+    "lat": 38.39647,
+    "lng": -82.55877
+  },
+  {
+    "name": "Cedar Falls",
+    "country": "US",
+    "lat": 42.52776,
+    "lng": -92.44547
+  },
+  {
+    "name": "Cedar Rapids",
+    "country": "US",
+    "lat": 42.00833,
+    "lng": -91.64407
+  },
+  {
+    "name": "Center Point",
+    "country": "US",
+    "lat": 42.19083,
+    "lng": -91.78518
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 40.73418,
+    "lng": -92.87409
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 42.09276,
+    "lng": -93.93551
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 42.20388,
+    "lng": -91.52406
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 41.23781,
+    "lng": -88.28173
+  },
+  {
+    "name": "Cedar Lake",
+    "country": "US",
+    "lat": 41.36476,
+    "lng": -87.44115
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 41.64872,
+    "lng": -70.34808
+  },
+  {
+    "name": "Cedar Springs",
+    "country": "US",
+    "lat": 43.22336,
+    "lng": -85.55142
+  },
+  {
+    "name": "Center Line",
+    "country": "US",
+    "lat": 42.48504,
+    "lng": -83.0277
+  },
+  {
+    "name": "Centreville",
+    "country": "US",
+    "lat": 41.92338,
+    "lng": -85.52832
+  },
+  {
+    "name": "Center City",
+    "country": "US",
+    "lat": 45.39385,
+    "lng": -92.8166
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 45.16302,
+    "lng": -93.05578
+  },
+  {
+    "name": "Center",
+    "country": "US",
+    "lat": 42.60945,
+    "lng": -97.87673
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 41.11585,
+    "lng": -98.00172
+  },
+  {
+    "name": "Center Harbor",
+    "country": "US",
+    "lat": 43.7098,
+    "lng": -71.46035
+  },
+  {
+    "name": "Cedar Glen West",
+    "country": "US",
+    "lat": 40.04206,
+    "lng": -74.29265
+  },
+  {
+    "name": "Cedar Grove",
+    "country": "US",
+    "lat": 40.85177,
+    "lng": -74.22903
+  },
+  {
+    "name": "Cedar Knolls",
+    "country": "US",
+    "lat": 40.82204,
+    "lng": -74.44876
+  },
+  {
+    "name": "Cedarhurst",
+    "country": "US",
+    "lat": 40.62288,
+    "lng": -73.7243
+  },
+  {
+    "name": "Celoron",
+    "country": "US",
+    "lat": 42.1095,
+    "lng": -79.2831
+  },
+  {
+    "name": "Center Moriches",
+    "country": "US",
+    "lat": 40.80038,
+    "lng": -72.78982
+  },
+  {
+    "name": "Centereach",
+    "country": "US",
+    "lat": 40.85843,
+    "lng": -73.09955
+  },
+  {
+    "name": "Centerport",
+    "country": "US",
+    "lat": 43.0409,
+    "lng": -76.59272
+  },
+  {
+    "name": "Centerport",
+    "country": "US",
+    "lat": 40.88538,
+    "lng": -73.37623
+  },
+  {
+    "name": "Central Islip",
+    "country": "US",
+    "lat": 40.79065,
+    "lng": -73.20178
+  },
+  {
+    "name": "Central Square",
+    "country": "US",
+    "lat": 43.28674,
+    "lng": -76.14604
+  },
+  {
+    "name": "Central Valley",
+    "country": "US",
+    "lat": 41.33176,
+    "lng": -74.12098
+  },
+  {
+    "name": "Celina",
+    "country": "US",
+    "lat": 40.54894,
+    "lng": -84.57023
+  },
+  {
+    "name": "Centerburg",
+    "country": "US",
+    "lat": 40.30451,
+    "lng": -82.69628
+  },
+  {
+    "name": "Cedarbrook",
+    "country": "US",
+    "lat": 40.07799,
+    "lng": -75.17675
+  },
+  {
+    "name": "Cementon",
+    "country": "US",
+    "lat": 40.68926,
+    "lng": -75.50768
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 40.04535,
+    "lng": -79.97561
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 40.11063,
+    "lng": -78.80197
+  },
+  {
+    "name": "Centre Hall",
+    "country": "US",
+    "lat": 40.84756,
+    "lng": -77.68611
+  },
+  {
+    "name": "Cetronia",
+    "country": "US",
+    "lat": 40.58676,
+    "lng": -75.52963
+  },
+  {
+    "name": "Central Falls",
+    "country": "US",
+    "lat": 41.89066,
+    "lng": -71.39228
+  },
+  {
+    "name": "Cedar Grove",
+    "country": "US",
+    "lat": 43.56972,
+    "lng": -87.82342
+  },
+  {
+    "name": "Cedarburg",
+    "country": "US",
+    "lat": 43.29667,
+    "lng": -87.98759
+  },
+  {
+    "name": "Cedar Ridge",
+    "country": "US",
+    "lat": 38.06576,
+    "lng": -120.27686
+  },
+  {
+    "name": "Ceres",
+    "country": "US",
+    "lat": 37.59493,
+    "lng": -120.95771
+  },
+  {
+    "name": "Century City",
+    "country": "US",
+    "lat": 34.05557,
+    "lng": -118.41786
+  },
+  {
+    "name": "Cerritos",
+    "country": "US",
+    "lat": 33.85835,
+    "lng": -118.06479
+  },
+  {
+    "name": "Cedaredge",
+    "country": "US",
+    "lat": 38.90165,
+    "lng": -107.92645
+  },
+  {
+    "name": "Centennial",
+    "country": "US",
+    "lat": 39.57916,
+    "lng": -104.87692
+  },
+  {
+    "name": "Center",
+    "country": "US",
+    "lat": 37.75306,
+    "lng": -106.10864
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 39.80193,
+    "lng": -105.51416
+  },
+  {
+    "name": "Cedar City",
+    "country": "US",
+    "lat": 37.67748,
+    "lng": -113.06189
+  },
+  {
+    "name": "Centerfield",
+    "country": "US",
+    "lat": 39.12524,
+    "lng": -111.81909
+  },
+  {
+    "name": "Central Valley (historical)",
+    "country": "US",
+    "lat": 40.68043,
+    "lng": -122.37112
+  },
+  {
+    "name": "Center",
+    "country": "US",
+    "lat": 47.11638,
+    "lng": -101.29959
+  },
+  {
+    "name": "Cedar Hills",
+    "country": "US",
+    "lat": 45.50484,
+    "lng": -122.79843
+  },
+  {
+    "name": "Cedar Mill",
+    "country": "US",
+    "lat": 45.52484,
+    "lng": -122.81093
+  },
+  {
+    "name": "Central Point",
+    "country": "US",
+    "lat": 42.37596,
+    "lng": -122.91643
+  },
+  {
+    "name": "Cedar Hills",
+    "country": "US",
+    "lat": 40.41412,
+    "lng": -111.75854
+  },
+  {
+    "name": "Centerfield",
+    "country": "US",
+    "lat": 40.69134,
+    "lng": -111.89799
+  },
+  {
+    "name": "Centerville",
+    "country": "US",
+    "lat": 40.918,
+    "lng": -111.87216
+  },
+  {
+    "name": "Central Park",
+    "country": "US",
+    "lat": 46.97343,
+    "lng": -123.69239
+  },
+  {
+    "name": "Centralia",
+    "country": "US",
+    "lat": 46.71621,
+    "lng": -122.9543
+  },
+  {
+    "name": "Central Waterford",
+    "country": "US",
+    "lat": 41.34504,
+    "lng": -72.12948
+  },
+  {
+    "name": "Cecil-Bishop",
+    "country": "US",
+    "lat": 40.31819,
+    "lng": -80.19331
+  },
+  {
+    "name": "Central Heights-Midland City",
+    "country": "US",
+    "lat": 33.40372,
+    "lng": -110.81541
+  },
+  {
+    "name": "Centennial Park",
+    "country": "US",
+    "lat": 36.95381,
+    "lng": -112.98132
+  },
+  {
+    "name": "Center City",
+    "country": "US",
+    "lat": 39.9512,
+    "lng": -75.15923
+  },
+  {
+    "name": "Central City",
+    "country": "US",
+    "lat": 33.44001,
+    "lng": -112.05805
+  },
+  {
+    "name": "Cedmont",
+    "country": "US",
+    "lat": 39.34668,
+    "lng": -76.53452
+  },
+  {
+    "name": "Central Forest Park",
+    "country": "US",
+    "lat": 39.32677,
+    "lng": -76.68833
+  },
+  {
+    "name": "Central Park Heights",
+    "country": "US",
+    "lat": 39.34368,
+    "lng": -76.67106
+  },
+  {
+    "name": "Central 14th Street / Spring Road",
+    "country": "US",
+    "lat": 38.93707,
+    "lng": -77.03265
+  },
+  {
+    "name": "Central 14th Street / WMATA Northern Bus Barn",
+    "country": "US",
+    "lat": 38.94467,
+    "lng": -77.03262
+  },
+  {
+    "name": "Cebollatí",
+    "country": "UY",
+    "lat": -33.26703,
+    "lng": -53.79425
+  },
+  {
+    "name": "Centane",
+    "country": "ZA",
+    "lat": -32.50598,
+    "lng": 28.31578
+  },
+  {
+    "name": "Cedarville",
+    "country": "ZA",
+    "lat": -30.38419,
+    "lng": 29.04164
+  },
+  {
+    "name": "Centurion",
+    "country": "ZA",
+    "lat": -25.85891,
+    "lng": 28.18577
+  },
+  {
+    "name": "Ceres",
+    "country": "ZA",
+    "lat": -33.36889,
+    "lng": 19.31095
+  },
+  {
+    "name": "Century City",
+    "country": "ZA",
+    "lat": -33.89115,
+    "lng": 18.51274
+  },
+  {
+    "name": "Centenary",
+    "country": "ZW",
+    "lat": -16.72289,
+    "lng": 31.11462
+  }
+]

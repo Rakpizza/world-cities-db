@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Ebo",
+    "country": "AO",
+    "lat": -11.05,
+    "lng": 14.71667
+  },
+  {
+    "name": "Ebreichsdorf",
+    "country": "AT",
+    "lat": 47.95579,
+    "lng": 16.40705
+  },
+  {
+    "name": "Eberstein",
+    "country": "AT",
+    "lat": 46.80806,
+    "lng": 14.56
+  },
+  {
+    "name": "Eberstalzell",
+    "country": "AT",
+    "lat": 48.04392,
+    "lng": 13.98319
+  },
+  {
+    "name": "Ebersdorf",
+    "country": "AT",
+    "lat": 47.19852,
+    "lng": 15.96219
+  },
+  {
+    "name": "Eberschwang",
+    "country": "AT",
+    "lat": 48.15504,
+    "lng": 13.56194
+  },
+  {
+    "name": "Eberndorf",
+    "country": "AT",
+    "lat": 46.59139,
+    "lng": 14.64361
+  },
+  {
+    "name": "Ebergassing",
+    "country": "AT",
+    "lat": 48.04567,
+    "lng": 16.51709
+  },
+  {
+    "name": "Eberau",
+    "country": "AT",
+    "lat": 47.10764,
+    "lng": 16.46044
+  },
+  {
+    "name": "Ebenthal",
+    "country": "AT",
+    "lat": 48.43333,
+    "lng": 16.78333
+  },
+  {
+    "name": "Ebenthal",
+    "country": "AT",
+    "lat": 46.60806,
+    "lng": 14.36417
+  },
+  {
+    "name": "Ebensee",
+    "country": "AT",
+    "lat": 47.80716,
+    "lng": 13.779
+  },
+  {
+    "name": "Eben im Pongau",
+    "country": "AT",
+    "lat": 47.4,
+    "lng": 13.4
+  },
+  {
+    "name": "Ebenfurth",
+    "country": "AT",
+    "lat": 47.87738,
+    "lng": 16.36731
+  },
+  {
+    "name": "Ebenau",
+    "country": "AT",
+    "lat": 47.79073,
+    "lng": 13.17527
+  },
+  {
+    "name": "Eben am Achensee",
+    "country": "AT",
+    "lat": 47.4138,
+    "lng": 11.76138
+  },
+  {
+    "name": "Ebbs",
+    "country": "AT",
+    "lat": 47.63333,
+    "lng": 12.21667
+  },
+  {
+    "name": "Eben-Emael",
+    "country": "BE",
+    "lat": 50.794,
+    "lng": 5.66689
+  },
+  {
+    "name": "Ebnat-Kappel",
+    "country": "CH",
+    "lat": 47.26195,
+    "lng": 9.12473
+  },
+  {
+    "name": "Ebikon",
+    "country": "CH",
+    "lat": 47.07937,
+    "lng": 8.34041
+  },
+  {
+    "name": "Ebmatingen",
+    "country": "CH",
+    "lat": 47.34987,
+    "lng": 8.64013
+  },
+  {
+    "name": "Eboué",
+    "country": "CI",
+    "lat": 5.34407,
+    "lng": -3.1255
+  },
+  {
+    "name": "Ebounou",
+    "country": "CI",
+    "lat": 5.12398,
+    "lng": -5.34694
+  },
+  {
+    "name": "Eboko",
+    "country": "CI",
+    "lat": 5.14866,
+    "lng": -3.0874
+  },
+  {
+    "name": "Ebimpe",
+    "country": "CI",
+    "lat": 5.49901,
+    "lng": -4.08207
+  },
+  {
+    "name": "Ebimlossou",
+    "country": "CI",
+    "lat": 6.61156,
+    "lng": -4.63843
+  },
+  {
+    "name": "Ebilassokro",
+    "country": "CI",
+    "lat": 6.37917,
+    "lng": -3.34722
+  },
+  {
+    "name": "Ebikro-Ndakro",
+    "country": "CI",
+    "lat": 5.725,
+    "lng": -3.11099
+  },
+  {
+    "name": "Ebra",
+    "country": "CI",
+    "lat": 5.27768,
+    "lng": -3.73981
+  },
+  {
+    "name": "Eboissué",
+    "country": "CI",
+    "lat": 6.82661,
+    "lng": -3.50931
+  },
+  {
+    "name": "Ebéjico",
+    "country": "CO",
+    "lat": 6.32598,
+    "lng": -75.76835
+  },
+  {
+    "name": "Ebstorf",
+    "country": "DE",
+    "lat": 53.02785,
+    "lng": 10.41839
+  },
+  {
+    "name": "Ebringen",
+    "country": "DE",
+    "lat": 47.9578,
+    "lng": 7.77652
+  },
+  {
+    "name": "Ebnath",
+    "country": "DE",
+    "lat": 49.95,
+    "lng": 11.93333
+  },
+  {
+    "name": "Ebhausen",
+    "country": "DE",
+    "lat": 48.58333,
+    "lng": 8.68333
+  },
+  {
+    "name": "Ebertsheim",
+    "country": "DE",
+    "lat": 49.56833,
+    "lng": 8.10861
+  },
+  {
+    "name": "Eberswalde",
+    "country": "DE",
+    "lat": 52.83492,
+    "lng": 13.81951
+  },
+  {
+    "name": "Eberstadt",
+    "country": "DE",
+    "lat": 49.18028,
+    "lng": 9.32111
+  },
+  {
+    "name": "Ebersdorf",
+    "country": "DE",
+    "lat": 53.52514,
+    "lng": 9.04897
+  },
+  {
+    "name": "Ebersdorf",
+    "country": "DE",
+    "lat": 50.32898,
+    "lng": 11.15266
+  },
+  {
+    "name": "Ebersberg",
+    "country": "DE",
+    "lat": 48.0771,
+    "lng": 11.97063
+  },
+  {
+    "name": "Ebersbach an der Fils",
+    "country": "DE",
+    "lat": 48.716,
+    "lng": 9.5236
+  },
+  {
+    "name": "Ebersbach",
+    "country": "DE",
+    "lat": 51.099,
+    "lng": 13.1135
+  },
+  {
+    "name": "Ebersbach",
+    "country": "DE",
+    "lat": 51.00762,
+    "lng": 14.58621
+  },
+  {
+    "name": "Ebernhahn",
+    "country": "DE",
+    "lat": 50.47278,
+    "lng": 7.77
+  },
+  {
+    "name": "Ebermannstadt",
+    "country": "DE",
+    "lat": 49.78154,
+    "lng": 11.18168
+  },
+  {
+    "name": "Ebermannsdorf",
+    "country": "DE",
+    "lat": 49.39375,
+    "lng": 11.93582
+  },
+  {
+    "name": "Eberhardzell",
+    "country": "DE",
+    "lat": 48.0,
+    "lng": 9.81667
+  },
+  {
+    "name": "Ebergötzen",
+    "country": "DE",
+    "lat": 51.57096,
+    "lng": 10.10632
+  },
+  {
+    "name": "Eberdingen",
+    "country": "DE",
+    "lat": 48.87942,
+    "lng": 8.96502
+  },
+  {
+    "name": "Eberbach",
+    "country": "DE",
+    "lat": 49.4668,
+    "lng": 8.99016
+  },
+  {
+    "name": "Ebenweiler",
+    "country": "DE",
+    "lat": 47.9,
+    "lng": 9.51667
+  },
+  {
+    "name": "Ebensfeld",
+    "country": "DE",
+    "lat": 50.0664,
+    "lng": 10.95835
+  },
+  {
+    "name": "Ebendorf",
+    "country": "DE",
+    "lat": 52.18551,
+    "lng": 11.57478
+  },
+  {
+    "name": "Ebelsbach",
+    "country": "DE",
+    "lat": 49.98572,
+    "lng": 10.67442
+  },
+  {
+    "name": "Ebeleben",
+    "country": "DE",
+    "lat": 51.28283,
+    "lng": 10.72999
+  },
+  {
+    "name": "Ebersbach",
+    "country": "DE",
+    "lat": 51.23333,
+    "lng": 13.65
+  },
+  {
+    "name": "Ebersbach-Musbach",
+    "country": "DE",
+    "lat": 47.96667,
+    "lng": 9.58333
+  },
+  {
+    "name": "Ebeltoft",
+    "country": "DK",
+    "lat": 56.19442,
+    "lng": 10.6821
+  },
+  {
+    "name": "Ebersheim",
+    "country": "FR",
+    "lat": 48.30438,
+    "lng": 7.49903
+  },
+  {
+    "name": "Ebbw Vale",
+    "country": "GB",
+    "lat": 51.77714,
+    "lng": -3.20792
+  },
+  {
+    "name": "Ebebiyin",
+    "country": "GQ",
+    "lat": 2.15218,
+    "lng": 11.33013
+  },
+  {
+    "name": "Ebes",
+    "country": "HU",
+    "lat": 47.46667,
+    "lng": 21.5
+  },
+  {
+    "name": "Eban",
+    "country": "ID",
+    "lat": -9.5541,
+    "lng": 124.3242
+  },
+  {
+    "name": "Eboli",
+    "country": "IT",
+    "lat": 40.61747,
+    "lng": 15.05693
+  },
+  {
+    "name": "Ebi",
+    "country": "JP",
+    "lat": 35.28172,
+    "lng": 133.4871
+  },
+  {
+    "name": "Ebetsu",
+    "country": "JP",
+    "lat": 43.10806,
+    "lng": 141.55056
+  },
+  {
+    "name": "Ebina",
+    "country": "JP",
+    "lat": 35.38121,
+    "lng": 139.39651
+  },
+  {
+    "name": "Ebara",
+    "country": "JP",
+    "lat": 35.61298,
+    "lng": 139.70315
+  },
+  {
+    "name": "Ebisu",
+    "country": "JP",
+    "lat": 35.64595,
+    "lng": 139.7155
+  },
+  {
+    "name": "Ebino",
+    "country": "JP",
+    "lat": 32.04766,
+    "lng": 130.84442
+  },
+  {
+    "name": "Ebina",
+    "country": "JP",
+    "lat": 35.43417,
+    "lng": 139.39419
+  },
+  {
+    "name": "Ebie",
+    "country": "JP",
+    "lat": 34.69717,
+    "lng": 135.47112
+  },
+  {
+    "name": "Ebaye",
+    "country": "MH",
+    "lat": 8.77479,
+    "lng": 167.73919
+  },
+  {
+    "name": "Ebon",
+    "country": "MH",
+    "lat": 4.58199,
+    "lng": 168.69636
+  },
+  {
+    "name": "Ebene",
+    "country": "MU",
+    "lat": -20.24494,
+    "lng": 57.49163
+  },
+  {
+    "name": "Ebute-Metta",
+    "country": "NG",
+    "lat": 6.48799,
+    "lng": 3.38166
+  },
+  {
+    "name": "Ebute Ikorodu",
+    "country": "NG",
+    "lat": 6.60086,
+    "lng": 3.48818
+  },
+  {
+    "name": "Eberi",
+    "country": "NG",
+    "lat": 5.09117,
+    "lng": 7.2337
+  },
+  {
+    "name": "Ebem Ohafia",
+    "country": "NG",
+    "lat": 5.63108,
+    "lng": 7.83024
+  },
+  {
+    "name": "Ebcor Town",
+    "country": "PH",
+    "lat": 7.44056,
+    "lng": 124.39722
+  },
+  {
+    "name": "Ebensburg",
+    "country": "US",
+    "lat": 40.48507,
+    "lng": -78.72474
+  },
+  {
+    "name": "Ebenhaeser",
+    "country": "ZA",
+    "lat": -31.58239,
+    "lng": 18.22527
+  }
+]

@@ -1,0 +1,2960 @@
+[
+  {
+    "name": "Amānzī",
+    "country": "AF",
+    "lat": 30.21144,
+    "lng": 66.04765
+  },
+  {
+    "name": "Amasia",
+    "country": "AM",
+    "lat": 40.08331,
+    "lng": 43.96668
+  },
+  {
+    "name": "Amasia",
+    "country": "AM",
+    "lat": 40.95566,
+    "lng": 43.78379
+  },
+  {
+    "name": "Amberd",
+    "country": "AM",
+    "lat": 40.24177,
+    "lng": 44.27128
+  },
+  {
+    "name": "Ambrizette",
+    "country": "AO",
+    "lat": -7.23116,
+    "lng": 12.8666
+  },
+  {
+    "name": "Ambriz",
+    "country": "AO",
+    "lat": -7.86232,
+    "lng": 13.11935
+  },
+  {
+    "name": "Aminga",
+    "country": "AR",
+    "lat": -28.84771,
+    "lng": -66.93024
+  },
+  {
+    "name": "Amstetten",
+    "country": "AT",
+    "lat": 48.1229,
+    "lng": 14.87206
+  },
+  {
+    "name": "Amras",
+    "country": "AT",
+    "lat": 47.25,
+    "lng": 11.41667
+  },
+  {
+    "name": "Ampflwang",
+    "country": "AT",
+    "lat": 48.08333,
+    "lng": 13.56667
+  },
+  {
+    "name": "Ampass",
+    "country": "AT",
+    "lat": 47.26251,
+    "lng": 11.46226
+  },
+  {
+    "name": "Amlach",
+    "country": "AT",
+    "lat": 46.81639,
+    "lng": 12.76361
+  },
+  {
+    "name": "Ambarvale",
+    "country": "AU",
+    "lat": -34.08942,
+    "lng": 150.79656
+  },
+  {
+    "name": "Amaroo",
+    "country": "AU",
+    "lat": -35.16959,
+    "lng": 149.12802
+  },
+  {
+    "name": "Amirdzhan",
+    "country": "AZ",
+    "lat": 40.42639,
+    "lng": 49.98361
+  },
+  {
+    "name": "Ampsin",
+    "country": "BE",
+    "lat": 50.54153,
+    "lng": 5.2779
+  },
+  {
+    "name": "Amougies",
+    "country": "BE",
+    "lat": 50.74446,
+    "lng": 3.50675
+  },
+  {
+    "name": "Amblève",
+    "country": "BE",
+    "lat": 50.35357,
+    "lng": 6.17002
+  },
+  {
+    "name": "Amay",
+    "country": "BE",
+    "lat": 50.54829,
+    "lng": 5.30974
+  },
+  {
+    "name": "Amarete",
+    "country": "BO",
+    "lat": -15.23736,
+    "lng": -68.98517
+  },
+  {
+    "name": "Amparo",
+    "country": "BR",
+    "lat": -7.56806,
+    "lng": -37.06361
+  },
+  {
+    "name": "Amontada",
+    "country": "BR",
+    "lat": -3.36167,
+    "lng": -39.83167
+  },
+  {
+    "name": "Amarante do Maranhão",
+    "country": "BR",
+    "lat": -5.56667,
+    "lng": -46.74222
+  },
+  {
+    "name": "Amarante",
+    "country": "BR",
+    "lat": -6.24316,
+    "lng": -42.84544
+  },
+  {
+    "name": "Amaraji",
+    "country": "BR",
+    "lat": -8.38306,
+    "lng": -35.4525
+  },
+  {
+    "name": "Amapá",
+    "country": "BR",
+    "lat": 2.045,
+    "lng": -50.78821
+  },
+  {
+    "name": "Amélia Rodrigues",
+    "country": "BR",
+    "lat": -12.39904,
+    "lng": -38.75519
+  },
+  {
+    "name": "Ampére",
+    "country": "BR",
+    "lat": -25.915,
+    "lng": -53.47278
+  },
+  {
+    "name": "Amparo do São Francisco",
+    "country": "BR",
+    "lat": -10.13389,
+    "lng": -36.92972
+  },
+  {
+    "name": "Amparo do Serra",
+    "country": "BR",
+    "lat": -20.50722,
+    "lng": -42.8025
+  },
+  {
+    "name": "Amparo",
+    "country": "BR",
+    "lat": -22.70111,
+    "lng": -46.76444
+  },
+  {
+    "name": "Amorinópolis",
+    "country": "BR",
+    "lat": -16.61917,
+    "lng": -51.09361
+  },
+  {
+    "name": "Américo de Campos",
+    "country": "BR",
+    "lat": -20.29917,
+    "lng": -49.73167
+  },
+  {
+    "name": "Américo Brasiliense",
+    "country": "BR",
+    "lat": -21.72444,
+    "lng": -48.10167
+  },
+  {
+    "name": "Americano do Brasil",
+    "country": "BR",
+    "lat": -16.25472,
+    "lng": -49.98278
+  },
+  {
+    "name": "Americana",
+    "country": "BR",
+    "lat": -22.73917,
+    "lng": -47.33139
+  },
+  {
+    "name": "América Dourada",
+    "country": "BR",
+    "lat": -11.45528,
+    "lng": -41.43611
+  },
+  {
+    "name": "Amargosa",
+    "country": "BR",
+    "lat": -13.03028,
+    "lng": -39.60472
+  },
+  {
+    "name": "Amaral Ferrador",
+    "country": "BR",
+    "lat": -30.87833,
+    "lng": -52.2575
+  },
+  {
+    "name": "Amaporã",
+    "country": "BR",
+    "lat": -23.09583,
+    "lng": -52.7875
+  },
+  {
+    "name": "Amambai",
+    "country": "BR",
+    "lat": -23.10417,
+    "lng": -55.22583
+  },
+  {
+    "name": "Amaturá",
+    "country": "BR",
+    "lat": -3.37463,
+    "lng": -68.20214
+  },
+  {
+    "name": "Amajari",
+    "country": "BR",
+    "lat": 3.65222,
+    "lng": -61.37056
+  },
+  {
+    "name": "Amaralina",
+    "country": "BR",
+    "lat": -13.92639,
+    "lng": -49.29722
+  },
+  {
+    "name": "Ametista do Sul",
+    "country": "BR",
+    "lat": -27.36056,
+    "lng": -53.18167
+  },
+  {
+    "name": "Amapá do Maranhão",
+    "country": "BR",
+    "lat": -1.67629,
+    "lng": -46.01338
+  },
+  {
+    "name": "Amherst",
+    "country": "CA",
+    "lat": 45.83345,
+    "lng": -64.19874
+  },
+  {
+    "name": "Amherstburg",
+    "country": "CA",
+    "lat": 42.10009,
+    "lng": -83.09985
+  },
+  {
+    "name": "Amigo Beach",
+    "country": "CA",
+    "lat": 44.6919,
+    "lng": -79.39317
+  },
+  {
+    "name": "Amos",
+    "country": "CA",
+    "lat": 48.56688,
+    "lng": -78.11624
+  },
+  {
+    "name": "Amqui",
+    "country": "CA",
+    "lat": 48.46382,
+    "lng": -67.43134
+  },
+  {
+    "name": "Ambleside",
+    "country": "CA",
+    "lat": 49.32777,
+    "lng": -123.14375
+  },
+  {
+    "name": "Amriswil",
+    "country": "CH",
+    "lat": 47.54699,
+    "lng": 9.29586
+  },
+  {
+    "name": "Amden",
+    "country": "CH",
+    "lat": 47.14888,
+    "lng": 9.14233
+  },
+  {
+    "name": "Amoukoukro",
+    "country": "CI",
+    "lat": 7.11557,
+    "lng": -3.62834
+  },
+  {
+    "name": "Amorofikroum",
+    "country": "CI",
+    "lat": 7.60106,
+    "lng": -3.14964
+  },
+  {
+    "name": "Amoriki",
+    "country": "CI",
+    "lat": 7.08793,
+    "lng": -4.16155
+  },
+  {
+    "name": "Amoriakro",
+    "country": "CI",
+    "lat": 7.09941,
+    "lng": -3.52821
+  },
+  {
+    "name": "Amonkro",
+    "country": "CI",
+    "lat": 7.08498,
+    "lng": -5.03104
+  },
+  {
+    "name": "Amodi",
+    "country": "CI",
+    "lat": 8.13484,
+    "lng": -3.0707
+  },
+  {
+    "name": "Amélékia",
+    "country": "CI",
+    "lat": 6.83036,
+    "lng": -3.57522
+  },
+  {
+    "name": "Amanvi",
+    "country": "CI",
+    "lat": 7.96972,
+    "lng": -3.13889
+  },
+  {
+    "name": "Aman Salékro",
+    "country": "CI",
+    "lat": 7.25208,
+    "lng": -5.58005
+  },
+  {
+    "name": "Amankro",
+    "country": "CI",
+    "lat": 7.41642,
+    "lng": -3.99542
+  },
+  {
+    "name": "Amangouakro",
+    "country": "CI",
+    "lat": 6.86664,
+    "lng": -3.76973
+  },
+  {
+    "name": "Amangbo",
+    "country": "CI",
+    "lat": 6.0206,
+    "lng": -4.37141
+  },
+  {
+    "name": "Amoragui",
+    "country": "CI",
+    "lat": 5.40195,
+    "lng": -6.65143
+  },
+  {
+    "name": "Amaragui",
+    "country": "CI",
+    "lat": 5.81337,
+    "lng": -6.71579
+  },
+  {
+    "name": "Amian",
+    "country": "CI",
+    "lat": 6.46745,
+    "lng": -3.64043
+  },
+  {
+    "name": "Amani",
+    "country": "CI",
+    "lat": 5.69753,
+    "lng": -4.72254
+  },
+  {
+    "name": "Amani-N'Guessankro",
+    "country": "CI",
+    "lat": 6.17448,
+    "lng": -4.41683
+  },
+  {
+    "name": "Amanikro",
+    "country": "CI",
+    "lat": 6.17933,
+    "lng": -4.63629
+  },
+  {
+    "name": "Amonkro",
+    "country": "CI",
+    "lat": 6.96964,
+    "lng": -5.42841
+  },
+  {
+    "name": "Ambam",
+    "country": "CM",
+    "lat": 2.38333,
+    "lng": 11.28333
+  },
+  {
+    "name": "Amgalang",
+    "country": "CN",
+    "lat": 48.25,
+    "lng": 118.2
+  },
+  {
+    "name": "Amuquhu",
+    "country": "CN",
+    "lat": 34.81145,
+    "lng": 102.68685
+  },
+  {
+    "name": "Amu’er Jingtao Shequ",
+    "country": "CN",
+    "lat": 52.86122,
+    "lng": 123.14895
+  },
+  {
+    "name": "Ambalema",
+    "country": "CO",
+    "lat": 4.78405,
+    "lng": -74.76268
+  },
+  {
+    "name": "Amalfi",
+    "country": "CO",
+    "lat": 6.91016,
+    "lng": -75.07764
+  },
+  {
+    "name": "Amagá",
+    "country": "CO",
+    "lat": 6.04001,
+    "lng": -75.70315
+  },
+  {
+    "name": "Amancio",
+    "country": "CU",
+    "lat": 20.81914,
+    "lng": -77.57958
+  },
+  {
+    "name": "Amtzell",
+    "country": "DE",
+    "lat": 47.7,
+    "lng": 9.75
+  },
+  {
+    "name": "Amstetten",
+    "country": "DE",
+    "lat": 48.57876,
+    "lng": 9.87388
+  },
+  {
+    "name": "Ampfing",
+    "country": "DE",
+    "lat": 48.254,
+    "lng": 12.41515
+  },
+  {
+    "name": "Amöneburg",
+    "country": "DE",
+    "lat": 50.79595,
+    "lng": 8.9233
+  },
+  {
+    "name": "Ammerndorf",
+    "country": "DE",
+    "lat": 49.42335,
+    "lng": 10.85011
+  },
+  {
+    "name": "Amerang",
+    "country": "DE",
+    "lat": 47.99139,
+    "lng": 12.30795
+  },
+  {
+    "name": "Amendingen",
+    "country": "DE",
+    "lat": 48.00302,
+    "lng": 10.17918
+  },
+  {
+    "name": "Amelinghausen",
+    "country": "DE",
+    "lat": 53.12397,
+    "lng": 10.21274
+  },
+  {
+    "name": "Amberg",
+    "country": "DE",
+    "lat": 49.44287,
+    "lng": 11.86267
+  },
+  {
+    "name": "Amberg",
+    "country": "DE",
+    "lat": 48.06667,
+    "lng": 10.68333
+  },
+  {
+    "name": "Ammerthal",
+    "country": "DE",
+    "lat": 49.44123,
+    "lng": 11.76181
+  },
+  {
+    "name": "Am Hagenring",
+    "country": "DE",
+    "lat": 52.27256,
+    "lng": 10.54213
+  },
+  {
+    "name": "Amina",
+    "country": "DO",
+    "lat": 19.54813,
+    "lng": -70.99599
+  },
+  {
+    "name": "Ammi Moussa",
+    "country": "DZ",
+    "lat": 35.86781,
+    "lng": 1.11143
+  },
+  {
+    "name": "Amizour",
+    "country": "DZ",
+    "lat": 36.64022,
+    "lng": 4.90131
+  },
+  {
+    "name": "Ambato",
+    "country": "EC",
+    "lat": -1.24908,
+    "lng": -78.61675
+  },
+  {
+    "name": "Ambatillo",
+    "country": "EC",
+    "lat": -1.22873,
+    "lng": -78.65821
+  },
+  {
+    "name": "Amarillos",
+    "country": "EC",
+    "lat": -3.8723,
+    "lng": -79.69316
+  },
+  {
+    "name": "Amusquillo",
+    "country": "ES",
+    "lat": 41.74853,
+    "lng": -4.30117
+  },
+  {
+    "name": "Amusco",
+    "country": "ES",
+    "lat": 42.17306,
+    "lng": -4.47018
+  },
+  {
+    "name": "Amurrio",
+    "country": "ES",
+    "lat": 43.05,
+    "lng": -3.0
+  },
+  {
+    "name": "Ampuero",
+    "country": "ES",
+    "lat": 43.34268,
+    "lng": -3.41667
+  },
+  {
+    "name": "Ampudia",
+    "country": "ES",
+    "lat": 41.91608,
+    "lng": -4.78033
+  },
+  {
+    "name": "Amposta",
+    "country": "ES",
+    "lat": 40.70995,
+    "lng": 0.57856
+  },
+  {
+    "name": "Amoroto",
+    "country": "ES",
+    "lat": 43.32634,
+    "lng": -2.51349
+  },
+  {
+    "name": "Amorebieta",
+    "country": "ES",
+    "lat": 43.21667,
+    "lng": -2.73333
+  },
+  {
+    "name": "Amoeiro",
+    "country": "ES",
+    "lat": 42.41667,
+    "lng": -7.95
+  },
+  {
+    "name": "Amieva",
+    "country": "ES",
+    "lat": 43.24403,
+    "lng": -5.0746
+  },
+  {
+    "name": "Amezketa",
+    "country": "ES",
+    "lat": 43.04813,
+    "lng": -2.08541
+  },
+  {
+    "name": "Ameyugo",
+    "country": "ES",
+    "lat": 42.65617,
+    "lng": -3.0617
+  },
+  {
+    "name": "Ambite",
+    "country": "ES",
+    "lat": 40.3319,
+    "lng": -3.18034
+  },
+  {
+    "name": "Ambía",
+    "country": "ES",
+    "lat": 42.20578,
+    "lng": -7.73707
+  },
+  {
+    "name": "Ambel",
+    "country": "ES",
+    "lat": 41.79472,
+    "lng": -1.6152
+  },
+  {
+    "name": "Amayuelas de Arriba",
+    "country": "ES",
+    "lat": 42.21108,
+    "lng": -4.4888
+  },
+  {
+    "name": "Amavida",
+    "country": "ES",
+    "lat": 40.57371,
+    "lng": -5.06541
+  },
+  {
+    "name": "Amposta",
+    "country": "ES",
+    "lat": 40.42613,
+    "lng": -3.62204
+  },
+  {
+    "name": "Amba Giorgis",
+    "country": "ET",
+    "lat": 12.76889,
+    "lng": 37.62389
+  },
+  {
+    "name": "Amuri",
+    "country": "FI",
+    "lat": 61.49957,
+    "lng": 23.74459
+  },
+  {
+    "name": "Amuri A",
+    "country": "FI",
+    "lat": 61.50094,
+    "lng": 23.74435
+  },
+  {
+    "name": "Amuri B",
+    "country": "FI",
+    "lat": 61.4989,
+    "lng": 23.74586
+  },
+  {
+    "name": "Ampuis",
+    "country": "FR",
+    "lat": 45.48925,
+    "lng": 4.81001
+  },
+  {
+    "name": "Amplepuis",
+    "country": "FR",
+    "lat": 45.9726,
+    "lng": 4.3303
+  },
+  {
+    "name": "Amou",
+    "country": "FR",
+    "lat": 43.59292,
+    "lng": -0.74714
+  },
+  {
+    "name": "Amnéville",
+    "country": "FR",
+    "lat": 49.25671,
+    "lng": 6.13414
+  },
+  {
+    "name": "Ammerschwihr",
+    "country": "FR",
+    "lat": 48.12548,
+    "lng": 7.28282
+  },
+  {
+    "name": "Amilly",
+    "country": "FR",
+    "lat": 48.44333,
+    "lng": 1.39349
+  },
+  {
+    "name": "Amilly",
+    "country": "FR",
+    "lat": 47.97281,
+    "lng": 2.77186
+  },
+  {
+    "name": "Amiens",
+    "country": "FR",
+    "lat": 49.9,
+    "lng": 2.3
+  },
+  {
+    "name": "Amfreville-la-Mi-Voie",
+    "country": "FR",
+    "lat": 49.40755,
+    "lng": 1.13871
+  },
+  {
+    "name": "Amfreville",
+    "country": "FR",
+    "lat": 49.25,
+    "lng": -0.23333
+  },
+  {
+    "name": "Ambronay",
+    "country": "FR",
+    "lat": 46.00467,
+    "lng": 5.36273
+  },
+  {
+    "name": "Ambrières-les-Vallées",
+    "country": "FR",
+    "lat": 48.40214,
+    "lng": -0.63108
+  },
+  {
+    "name": "Ambon",
+    "country": "FR",
+    "lat": 47.55416,
+    "lng": -2.55655
+  },
+  {
+    "name": "Amboise",
+    "country": "FR",
+    "lat": 47.41249,
+    "lng": 0.98266
+  },
+  {
+    "name": "Ambleteuse",
+    "country": "FR",
+    "lat": 50.81041,
+    "lng": 1.60876
+  },
+  {
+    "name": "Ambleny",
+    "country": "FR",
+    "lat": 49.38079,
+    "lng": 3.18447
+  },
+  {
+    "name": "Amblainville",
+    "country": "FR",
+    "lat": 49.20443,
+    "lng": 2.12242
+  },
+  {
+    "name": "Ambillou",
+    "country": "FR",
+    "lat": 47.451,
+    "lng": 0.4473
+  },
+  {
+    "name": "Ambierle",
+    "country": "FR",
+    "lat": 46.10558,
+    "lng": 3.89323
+  },
+  {
+    "name": "Ambès",
+    "country": "FR",
+    "lat": 45.01127,
+    "lng": -0.53219
+  },
+  {
+    "name": "Ambert",
+    "country": "FR",
+    "lat": 45.54944,
+    "lng": 3.74164
+  },
+  {
+    "name": "Ambérieux-en-Dombes",
+    "country": "FR",
+    "lat": 45.99894,
+    "lng": 4.90126
+  },
+  {
+    "name": "Ambérieu-en-Bugey",
+    "country": "FR",
+    "lat": 45.95932,
+    "lng": 5.3516
+  },
+  {
+    "name": "Ambazac",
+    "country": "FR",
+    "lat": 45.95733,
+    "lng": 1.39975
+  },
+  {
+    "name": "Ambarès-et-Lagrave",
+    "country": "FR",
+    "lat": 44.92737,
+    "lng": -0.49141
+  },
+  {
+    "name": "Amanvillers",
+    "country": "FR",
+    "lat": 49.16784,
+    "lng": 6.04367
+  },
+  {
+    "name": "Amanlis",
+    "country": "FR",
+    "lat": 48.00627,
+    "lng": -1.47642
+  },
+  {
+    "name": "Amancy",
+    "country": "FR",
+    "lat": 46.07294,
+    "lng": 6.3289
+  },
+  {
+    "name": "Ampthill",
+    "country": "GB",
+    "lat": 52.02694,
+    "lng": -0.49567
+  },
+  {
+    "name": "Ammanford",
+    "country": "GB",
+    "lat": 51.79279,
+    "lng": -3.98833
+  },
+  {
+    "name": "Amlwch",
+    "country": "GB",
+    "lat": 53.40986,
+    "lng": -4.34712
+  },
+  {
+    "name": "Amesbury",
+    "country": "GB",
+    "lat": 51.17509,
+    "lng": -1.78064
+  },
+  {
+    "name": "Amersham",
+    "country": "GB",
+    "lat": 51.66667,
+    "lng": -0.61667
+  },
+  {
+    "name": "Ambrosden",
+    "country": "GB",
+    "lat": 51.87087,
+    "lng": -1.12129
+  },
+  {
+    "name": "Ambleside",
+    "country": "GB",
+    "lat": 54.43261,
+    "lng": -2.96167
+  },
+  {
+    "name": "Amble",
+    "country": "GB",
+    "lat": 55.33333,
+    "lng": -1.58333
+  },
+  {
+    "name": "Ambleston",
+    "country": "GB",
+    "lat": 51.89583,
+    "lng": -4.90722
+  },
+  {
+    "name": "Amersham on the Hill",
+    "country": "GB",
+    "lat": 51.67468,
+    "lng": -0.60742
+  },
+  {
+    "name": "Ambrolauri",
+    "country": "GE",
+    "lat": 42.52322,
+    "lng": 43.14982
+  },
+  {
+    "name": "Amanfrom",
+    "country": "GH",
+    "lat": 5.53532,
+    "lng": -0.39827
+  },
+  {
+    "name": "Amorgós",
+    "country": "GR",
+    "lat": 36.83175,
+    "lng": 25.89821
+  },
+  {
+    "name": "Amfilochía",
+    "country": "GR",
+    "lat": 38.85944,
+    "lng": 21.16639
+  },
+  {
+    "name": "Amfíkleia",
+    "country": "GR",
+    "lat": 38.63912,
+    "lng": 22.59171
+  },
+  {
+    "name": "Ampelóna",
+    "country": "GR",
+    "lat": 39.74481,
+    "lng": 22.36575
+  },
+  {
+    "name": "Ambelókipoi",
+    "country": "GR",
+    "lat": 37.75809,
+    "lng": 20.87248
+  },
+  {
+    "name": "Ampelákia",
+    "country": "GR",
+    "lat": 37.95055,
+    "lng": 23.52803
+  },
+  {
+    "name": "Amárynthos",
+    "country": "GR",
+    "lat": 38.393,
+    "lng": 23.88492
+  },
+  {
+    "name": "Amaliáda",
+    "country": "GR",
+    "lat": 37.79842,
+    "lng": 21.35068
+  },
+  {
+    "name": "Ammochóri",
+    "country": "GR",
+    "lat": 40.78203,
+    "lng": 21.48458
+  },
+  {
+    "name": "Amýntaio",
+    "country": "GR",
+    "lat": 40.68967,
+    "lng": 21.67974
+  },
+  {
+    "name": "Amygdaleónas",
+    "country": "GR",
+    "lat": 40.96346,
+    "lng": 24.36007
+  },
+  {
+    "name": "Ampeleíes",
+    "country": "GR",
+    "lat": 40.83417,
+    "lng": 22.38767
+  },
+  {
+    "name": "Ampelókipoi",
+    "country": "GR",
+    "lat": 40.65304,
+    "lng": 22.92624
+  },
+  {
+    "name": "Amatitlán",
+    "country": "GT",
+    "lat": 14.4774,
+    "lng": -90.63489
+  },
+  {
+    "name": "Amapala",
+    "country": "HN",
+    "lat": 13.29222,
+    "lng": -87.65389
+  },
+  {
+    "name": "Ambarita",
+    "country": "ID",
+    "lat": 2.6814,
+    "lng": 98.8311
+  },
+  {
+    "name": "Amlapura",
+    "country": "ID",
+    "lat": -8.45,
+    "lng": 115.61667
+  },
+  {
+    "name": "Amuntai",
+    "country": "ID",
+    "lat": -2.41773,
+    "lng": 115.24941
+  },
+  {
+    "name": "Ampana",
+    "country": "ID",
+    "lat": -0.86901,
+    "lng": 121.58367
+  },
+  {
+    "name": "Ambuten",
+    "country": "ID",
+    "lat": -6.8885,
+    "lng": 113.7392
+  },
+  {
+    "name": "Ambon",
+    "country": "ID",
+    "lat": -3.69583,
+    "lng": 128.18333
+  },
+  {
+    "name": "Ambarawa",
+    "country": "ID",
+    "lat": -7.26333,
+    "lng": 110.3975
+  },
+  {
+    "name": "Amahai",
+    "country": "ID",
+    "lat": -3.33984,
+    "lng": 128.91975
+  },
+  {
+    "name": "Amparita",
+    "country": "ID",
+    "lat": -3.9937,
+    "lng": 119.8122
+  },
+  {
+    "name": "Amahusu",
+    "country": "ID",
+    "lat": -3.72525,
+    "lng": 128.1471
+  },
+  {
+    "name": "Amlapura city",
+    "country": "ID",
+    "lat": -8.44869,
+    "lng": 115.60621
+  },
+  {
+    "name": "Amudālavalasa",
+    "country": "IN",
+    "lat": 18.41025,
+    "lng": 83.90295
+  },
+  {
+    "name": "Amroli",
+    "country": "IN",
+    "lat": 21.25084,
+    "lng": 72.83878
+  },
+  {
+    "name": "Amroha",
+    "country": "IN",
+    "lat": 28.90314,
+    "lng": 78.46984
+  },
+  {
+    "name": "Amritsar",
+    "country": "IN",
+    "lat": 31.62234,
+    "lng": 74.87534
+  },
+  {
+    "name": "Amreli",
+    "country": "IN",
+    "lat": 21.59983,
+    "lng": 71.21169
+  },
+  {
+    "name": "Amravati",
+    "country": "IN",
+    "lat": 20.93333,
+    "lng": 77.75
+  },
+  {
+    "name": "Amod",
+    "country": "IN",
+    "lat": 21.99317,
+    "lng": 72.87047
+  },
+  {
+    "name": "Ammāpettai",
+    "country": "IN",
+    "lat": 11.61975,
+    "lng": 77.74264
+  },
+  {
+    "name": "Ammāpettai",
+    "country": "IN",
+    "lat": 10.79476,
+    "lng": 79.31986
+  },
+  {
+    "name": "Ammāpattinam",
+    "country": "IN",
+    "lat": 10.01534,
+    "lng": 79.23137
+  },
+  {
+    "name": "Amloh",
+    "country": "IN",
+    "lat": 30.60837,
+    "lng": 76.23199
+  },
+  {
+    "name": "Amla",
+    "country": "IN",
+    "lat": 21.92485,
+    "lng": 78.12786
+  },
+  {
+    "name": "Amīngarh",
+    "country": "IN",
+    "lat": 16.05662,
+    "lng": 75.94773
+  },
+  {
+    "name": "Amingaon",
+    "country": "IN",
+    "lat": 26.18491,
+    "lng": 91.6786
+  },
+  {
+    "name": "Amguri",
+    "country": "IN",
+    "lat": 26.81482,
+    "lng": 94.52614
+  },
+  {
+    "name": "Amgaon",
+    "country": "IN",
+    "lat": 21.37196,
+    "lng": 80.38446
+  },
+  {
+    "name": "Amethi",
+    "country": "IN",
+    "lat": 28.01667,
+    "lng": 81.05
+  },
+  {
+    "name": "Amethī",
+    "country": "IN",
+    "lat": 26.15696,
+    "lng": 81.80519
+  },
+  {
+    "name": "Amet",
+    "country": "IN",
+    "lat": 25.30609,
+    "lng": 73.9258
+  },
+  {
+    "name": "Ambur",
+    "country": "IN",
+    "lat": 12.79163,
+    "lng": 78.71644
+  },
+  {
+    "name": "Ambikāpur",
+    "country": "IN",
+    "lat": 23.11892,
+    "lng": 83.19537
+  },
+  {
+    "name": "Ambattur",
+    "country": "IN",
+    "lat": 13.09818,
+    "lng": 80.16152
+  },
+  {
+    "name": "Ambasamudram",
+    "country": "IN",
+    "lat": 8.71068,
+    "lng": 77.4519
+  },
+  {
+    "name": "Ambāla",
+    "country": "IN",
+    "lat": 30.36099,
+    "lng": 76.79782
+  },
+  {
+    "name": "Ambājogāi",
+    "country": "IN",
+    "lat": 18.73312,
+    "lng": 76.38616
+  },
+  {
+    "name": "Ambahta",
+    "country": "IN",
+    "lat": 29.85706,
+    "lng": 77.33583
+  },
+  {
+    "name": "Ambāh",
+    "country": "IN",
+    "lat": 26.70423,
+    "lng": 78.22678
+  },
+  {
+    "name": "Ambāgarh Chauki",
+    "country": "IN",
+    "lat": 20.77644,
+    "lng": 80.74608
+  },
+  {
+    "name": "Ambad",
+    "country": "IN",
+    "lat": 19.61301,
+    "lng": 75.78906
+  },
+  {
+    "name": "Amarwāra",
+    "country": "IN",
+    "lat": 22.2978,
+    "lng": 79.16943
+  },
+  {
+    "name": "Amarpur",
+    "country": "IN",
+    "lat": 25.03967,
+    "lng": 86.90247
+  },
+  {
+    "name": "Amarpur",
+    "country": "IN",
+    "lat": 23.5257,
+    "lng": 91.65879
+  },
+  {
+    "name": "Amarpātan",
+    "country": "IN",
+    "lat": 24.31371,
+    "lng": 80.97703
+  },
+  {
+    "name": "Ambarnath",
+    "country": "IN",
+    "lat": 19.2,
+    "lng": 73.16667
+  },
+  {
+    "name": "Amarkantak",
+    "country": "IN",
+    "lat": 22.67486,
+    "lng": 81.75908
+  },
+  {
+    "name": "Amānpur",
+    "country": "IN",
+    "lat": 27.71222,
+    "lng": 78.73788
+  },
+  {
+    "name": "Amānganj",
+    "country": "IN",
+    "lat": 24.42664,
+    "lng": 80.03579
+  },
+  {
+    "name": "Amalner",
+    "country": "IN",
+    "lat": 21.03983,
+    "lng": 75.05887
+  },
+  {
+    "name": "Amalāpuram",
+    "country": "IN",
+    "lat": 16.57868,
+    "lng": 82.00609
+  },
+  {
+    "name": "Ambara",
+    "country": "IN",
+    "lat": 22.19022,
+    "lng": 78.67079
+  },
+  {
+    "name": "Amargarh",
+    "country": "IN",
+    "lat": 30.46207,
+    "lng": 76.01438
+  },
+  {
+    "name": "Amkhera",
+    "country": "IN",
+    "lat": 23.21334,
+    "lng": 79.93336
+  },
+  {
+    "name": "Amīnpur",
+    "country": "IN",
+    "lat": 17.5242,
+    "lng": 78.32273
+  },
+  {
+    "name": "Amaravati",
+    "country": "IN",
+    "lat": 14.5159,
+    "lng": 75.81934
+  },
+  {
+    "name": "Ambikanagar",
+    "country": "IN",
+    "lat": 15.12723,
+    "lng": 74.65699
+  },
+  {
+    "name": "Ammavarikuppam",
+    "country": "IN",
+    "lat": 13.17794,
+    "lng": 79.41278
+  },
+  {
+    "name": "Ammanūr",
+    "country": "IN",
+    "lat": 13.06505,
+    "lng": 79.65303
+  },
+  {
+    "name": "Ammūr",
+    "country": "IN",
+    "lat": 12.975,
+    "lng": 79.36279
+  },
+  {
+    "name": "Amballūr",
+    "country": "IN",
+    "lat": 10.43431,
+    "lng": 76.26341
+  },
+  {
+    "name": "Ambikāpuram",
+    "country": "IN",
+    "lat": 10.79385,
+    "lng": 76.65303
+  },
+  {
+    "name": "Ampati",
+    "country": "IN",
+    "lat": 25.4623,
+    "lng": 89.93325
+  },
+  {
+    "name": "Amaravati",
+    "country": "IN",
+    "lat": 16.514,
+    "lng": 80.516
+  },
+  {
+    "name": "Amini",
+    "country": "IN",
+    "lat": 11.11408,
+    "lng": 72.71907
+  },
+  {
+    "name": "Amarāvati",
+    "country": "IN",
+    "lat": 16.54167,
+    "lng": 80.51528
+  },
+  {
+    "name": "Ambicapur Pt VI",
+    "country": "IN",
+    "lat": 24.78262,
+    "lng": 92.78919
+  },
+  {
+    "name": "Ambicapur Pt VIII",
+    "country": "IN",
+    "lat": 24.82088,
+    "lng": 92.77543
+  },
+  {
+    "name": "Ambikapur Part-X",
+    "country": "IN",
+    "lat": 24.79925,
+    "lng": 92.79196
+  },
+  {
+    "name": "Amardad",
+    "country": "IN",
+    "lat": 21.69713,
+    "lng": 69.72057
+  },
+  {
+    "name": "Amboli",
+    "country": "IN",
+    "lat": 21.28851,
+    "lng": 72.95062
+  },
+  {
+    "name": "Ambaliyasan",
+    "country": "IN",
+    "lat": 23.44986,
+    "lng": 72.42333
+  },
+  {
+    "name": "Ambaji",
+    "country": "IN",
+    "lat": 24.33174,
+    "lng": 72.84564
+  },
+  {
+    "name": "Ambala Sadar",
+    "country": "IN",
+    "lat": 30.33544,
+    "lng": 76.86265
+  },
+  {
+    "name": "Amlabad",
+    "country": "IN",
+    "lat": 23.68696,
+    "lng": 86.37664
+  },
+  {
+    "name": "Amlai",
+    "country": "IN",
+    "lat": 23.19838,
+    "lng": 81.58064
+  },
+  {
+    "name": "Ambepur",
+    "country": "IN",
+    "lat": 18.68826,
+    "lng": 72.98553
+  },
+  {
+    "name": "Ambivali T. Tungartan",
+    "country": "IN",
+    "lat": 18.89775,
+    "lng": 73.17291
+  },
+  {
+    "name": "Amathur",
+    "country": "IN",
+    "lat": 9.56286,
+    "lng": 77.85886
+  },
+  {
+    "name": "Ammainaickanur",
+    "country": "IN",
+    "lat": 10.16707,
+    "lng": 77.91318
+  },
+  {
+    "name": "Amlash",
+    "country": "IR",
+    "lat": 37.0966,
+    "lng": 50.18709
+  },
+  {
+    "name": "Amica",
+    "country": "IT",
+    "lat": 39.60085,
+    "lng": 16.66694
+  },
+  {
+    "name": "Amendolara",
+    "country": "IT",
+    "lat": 39.95162,
+    "lng": 16.58293
+  },
+  {
+    "name": "Amato",
+    "country": "IT",
+    "lat": 38.38333,
+    "lng": 16.13333
+  },
+  {
+    "name": "Amaroni",
+    "country": "IT",
+    "lat": 38.79424,
+    "lng": 16.44809
+  },
+  {
+    "name": "Amantea",
+    "country": "IT",
+    "lat": 39.12658,
+    "lng": 16.07512
+  },
+  {
+    "name": "Ampezzo",
+    "country": "IT",
+    "lat": 46.41459,
+    "lng": 12.79634
+  },
+  {
+    "name": "Amorosi",
+    "country": "IT",
+    "lat": 41.20273,
+    "lng": 14.46598
+  },
+  {
+    "name": "Ameno",
+    "country": "IT",
+    "lat": 45.78897,
+    "lng": 8.44
+  },
+  {
+    "name": "Amelia",
+    "country": "IT",
+    "lat": 42.55177,
+    "lng": 12.42076
+  },
+  {
+    "name": "Ameglia",
+    "country": "IT",
+    "lat": 44.07089,
+    "lng": 9.966
+  },
+  {
+    "name": "Ambra",
+    "country": "IT",
+    "lat": 43.41465,
+    "lng": 11.60291
+  },
+  {
+    "name": "Amatrice",
+    "country": "IT",
+    "lat": 42.62664,
+    "lng": 13.29509
+  },
+  {
+    "name": "Amaseno",
+    "country": "IT",
+    "lat": 41.46705,
+    "lng": 13.33457
+  },
+  {
+    "name": "Amaro",
+    "country": "IT",
+    "lat": 46.37367,
+    "lng": 13.09368
+  },
+  {
+    "name": "Amandola",
+    "country": "IT",
+    "lat": 42.97826,
+    "lng": 13.35453
+  },
+  {
+    "name": "Amalfi",
+    "country": "IT",
+    "lat": 40.6349,
+    "lng": 14.60238
+  },
+  {
+    "name": "Ambivere",
+    "country": "IT",
+    "lat": 45.71958,
+    "lng": 9.55015
+  },
+  {
+    "name": "Amblar",
+    "country": "IT",
+    "lat": 46.39541,
+    "lng": 11.14677
+  },
+  {
+    "name": "Amato",
+    "country": "IT",
+    "lat": 38.94179,
+    "lng": 16.4622
+  },
+  {
+    "name": "Amodio-Massariola",
+    "country": "IT",
+    "lat": 40.88872,
+    "lng": 14.09091
+  },
+  {
+    "name": "Amato",
+    "country": "IT",
+    "lat": 38.37355,
+    "lng": 15.96097
+  },
+  {
+    "name": "Amman",
+    "country": "JO",
+    "lat": 31.95522,
+    "lng": 35.94503
+  },
+  {
+    "name": "Amagi",
+    "country": "JP",
+    "lat": 33.41804,
+    "lng": 130.65413
+  },
+  {
+    "name": "Amagi",
+    "country": "JP",
+    "lat": 27.81667,
+    "lng": 128.9
+  },
+  {
+    "name": "Amagasaki",
+    "country": "JP",
+    "lat": 34.71667,
+    "lng": 135.41667
+  },
+  {
+    "name": "Ama",
+    "country": "JP",
+    "lat": 36.09317,
+    "lng": 133.09159
+  },
+  {
+    "name": "Ami",
+    "country": "JP",
+    "lat": 36.03333,
+    "lng": 140.2
+  },
+  {
+    "name": "Amami",
+    "country": "JP",
+    "lat": 28.3769,
+    "lng": 129.49379
+  },
+  {
+    "name": "Amakusa",
+    "country": "JP",
+    "lat": 32.45861,
+    "lng": 130.19306
+  },
+  {
+    "name": "Ama",
+    "country": "JP",
+    "lat": 35.18307,
+    "lng": 136.7997
+  },
+  {
+    "name": "Amaji",
+    "country": "JP",
+    "lat": 34.99147,
+    "lng": 134.75852
+  },
+  {
+    "name": "Amagoru",
+    "country": "KE",
+    "lat": 0.63157,
+    "lng": 34.32773
+  },
+  {
+    "name": "Ampov Prey",
+    "country": "KH",
+    "lat": 11.38712,
+    "lng": 104.87958
+  },
+  {
+    "name": "Ampil Pram Daeum",
+    "country": "KH",
+    "lat": 13.26005,
+    "lng": 102.76972
+  },
+  {
+    "name": "Ambo Village",
+    "country": "KI",
+    "lat": 1.35317,
+    "lng": 173.04259
+  },
+  {
+    "name": "Amangeldi",
+    "country": "KZ",
+    "lat": 50.18271,
+    "lng": 65.18966
+  },
+  {
+    "name": "Amioûn",
+    "country": "LB",
+    "lat": 34.3,
+    "lng": 35.80889
+  },
+  {
+    "name": "Ampara",
+    "country": "LK",
+    "lat": 7.29754,
+    "lng": 81.68202
+  },
+  {
+    "name": "Ambalangoda",
+    "country": "LK",
+    "lat": 6.2355,
+    "lng": 80.0538
+  },
+  {
+    "name": "Amouguer",
+    "country": "MA",
+    "lat": 32.27491,
+    "lng": -4.93535
+  },
+  {
+    "name": "Amizmiz",
+    "country": "MA",
+    "lat": 31.21673,
+    "lng": -8.23184
+  },
+  {
+    "name": "Amerzgane",
+    "country": "MA",
+    "lat": 31.0437,
+    "lng": -7.21037
+  },
+  {
+    "name": "Amersid",
+    "country": "MA",
+    "lat": 32.74983,
+    "lng": -4.47063
+  },
+  {
+    "name": "Amalou",
+    "country": "MA",
+    "lat": 30.19153,
+    "lng": -8.74873
+  },
+  {
+    "name": "Ampasimanolotra",
+    "country": "MG",
+    "lat": -18.81667,
+    "lng": 49.06667
+  },
+  {
+    "name": "Amparafaravola",
+    "country": "MG",
+    "lat": -17.5876,
+    "lng": 48.22391
+  },
+  {
+    "name": "Ampanihy",
+    "country": "MG",
+    "lat": -24.6937,
+    "lng": 44.74581
+  },
+  {
+    "name": "Ampahana",
+    "country": "MG",
+    "lat": -14.75,
+    "lng": 50.21667
+  },
+  {
+    "name": "Ambovombe",
+    "country": "MG",
+    "lat": -25.17838,
+    "lng": 46.08722
+  },
+  {
+    "name": "Ambositra",
+    "country": "MG",
+    "lat": -20.53034,
+    "lng": 47.24344
+  },
+  {
+    "name": "Ambohitseheno",
+    "country": "MG",
+    "lat": -18.78333,
+    "lng": 47.8
+  },
+  {
+    "name": "Ambohitrolomahitsy",
+    "country": "MG",
+    "lat": -18.7,
+    "lng": 47.68333
+  },
+  {
+    "name": "Ambohitrandriamanitra",
+    "country": "MG",
+    "lat": -19.08333,
+    "lng": 47.78333
+  },
+  {
+    "name": "Ambohimahasoa",
+    "country": "MG",
+    "lat": -21.11667,
+    "lng": 47.21667
+  },
+  {
+    "name": "Ambohidratrimo",
+    "country": "MG",
+    "lat": -18.818,
+    "lng": 47.43382
+  },
+  {
+    "name": "Ambodivoara",
+    "country": "MG",
+    "lat": -14.33333,
+    "lng": 49.98333
+  },
+  {
+    "name": "Ambodimanga II",
+    "country": "MG",
+    "lat": -17.26667,
+    "lng": 49.16667
+  },
+  {
+    "name": "Ambodifotatra",
+    "country": "MG",
+    "lat": -16.98333,
+    "lng": 49.85
+  },
+  {
+    "name": "Amboasary",
+    "country": "MG",
+    "lat": -25.03333,
+    "lng": 46.38333
+  },
+  {
+    "name": "Amboasary",
+    "country": "MG",
+    "lat": -24.33333,
+    "lng": 45.95
+  },
+  {
+    "name": "Amboanjo",
+    "country": "MG",
+    "lat": -22.0,
+    "lng": 47.85
+  },
+  {
+    "name": "Ambilobe",
+    "country": "MG",
+    "lat": -13.2,
+    "lng": 49.05
+  },
+  {
+    "name": "Ambatondrazaka",
+    "country": "MG",
+    "lat": -17.83333,
+    "lng": 48.41667
+  },
+  {
+    "name": "Ambatolaona",
+    "country": "MG",
+    "lat": -18.93333,
+    "lng": 47.9
+  },
+  {
+    "name": "Ambatolampy",
+    "country": "MG",
+    "lat": -19.38333,
+    "lng": 47.41667
+  },
+  {
+    "name": "Ambatofinandrahana",
+    "country": "MG",
+    "lat": -20.55284,
+    "lng": 46.80365
+  },
+  {
+    "name": "Ambato Boeny",
+    "country": "MG",
+    "lat": -16.46667,
+    "lng": 46.71667
+  },
+  {
+    "name": "Ambarakaraka",
+    "country": "MG",
+    "lat": -13.5,
+    "lng": 48.86667
+  },
+  {
+    "name": "Ambanja",
+    "country": "MG",
+    "lat": -13.669,
+    "lng": 48.453
+  },
+  {
+    "name": "Ambalavao",
+    "country": "MG",
+    "lat": -21.83333,
+    "lng": 46.93333
+  },
+  {
+    "name": "Ambalasoa",
+    "country": "MG",
+    "lat": -23.11667,
+    "lng": 46.0
+  },
+  {
+    "name": "Amarapura",
+    "country": "MM",
+    "lat": 21.90709,
+    "lng": 96.04894
+  },
+  {
+    "name": "Amardalay",
+    "country": "MN",
+    "lat": 46.12572,
+    "lng": 106.37426
+  },
+  {
+    "name": "Amourj",
+    "country": "MR",
+    "lat": 16.10916,
+    "lng": -7.21387
+  },
+  {
+    "name": "Amaury",
+    "country": "MU",
+    "lat": -20.13083,
+    "lng": 57.65917
+  },
+  {
+    "name": "Amaxac de Guerrero",
+    "country": "MX",
+    "lat": 19.34661,
+    "lng": -98.17057
+  },
+  {
+    "name": "Amozoc de Mota",
+    "country": "MX",
+    "lat": 19.04611,
+    "lng": -98.045
+  },
+  {
+    "name": "Amixtlán",
+    "country": "MX",
+    "lat": 20.04778,
+    "lng": -97.79918
+  },
+  {
+    "name": "Amilcingo",
+    "country": "MX",
+    "lat": 18.74274,
+    "lng": -98.77089
+  },
+  {
+    "name": "Ameluca",
+    "country": "MX",
+    "lat": 20.56344,
+    "lng": -97.82571
+  },
+  {
+    "name": "Amecameca",
+    "country": "MX",
+    "lat": 19.12384,
+    "lng": -98.76649
+  },
+  {
+    "name": "Amayuca",
+    "country": "MX",
+    "lat": 18.72408,
+    "lng": -98.79812
+  },
+  {
+    "name": "Amatlán",
+    "country": "MX",
+    "lat": 21.33519,
+    "lng": -97.75704
+  },
+  {
+    "name": "Amatlán de los Reyes",
+    "country": "MX",
+    "lat": 18.84658,
+    "lng": -96.91595
+  },
+  {
+    "name": "Amatlán de Quetzalcoatl",
+    "country": "MX",
+    "lat": 18.97537,
+    "lng": -99.03742
+  },
+  {
+    "name": "Amatitlán de Azueta",
+    "country": "MX",
+    "lat": 18.17631,
+    "lng": -98.0764
+  },
+  {
+    "name": "Amatitlán",
+    "country": "MX",
+    "lat": 18.43158,
+    "lng": -95.73319
+  },
+  {
+    "name": "Amatenango del Valle",
+    "country": "MX",
+    "lat": 16.52722,
+    "lng": -92.43472
+  },
+  {
+    "name": "Amatenango de la Frontera",
+    "country": "MX",
+    "lat": 15.43488,
+    "lng": -92.11518
+  },
+  {
+    "name": "Amatán",
+    "country": "MX",
+    "lat": 17.37329,
+    "lng": -92.81795
+  },
+  {
+    "name": "Amacuzac",
+    "country": "MX",
+    "lat": 18.59861,
+    "lng": -99.36944
+  },
+  {
+    "name": "Amado Gómez",
+    "country": "MX",
+    "lat": 18.14773,
+    "lng": -93.35579
+  },
+  {
+    "name": "Amado Nervo",
+    "country": "MX",
+    "lat": 17.23107,
+    "lng": -92.24581
+  },
+  {
+    "name": "América Libre",
+    "country": "MX",
+    "lat": 16.61462,
+    "lng": -92.99185
+  },
+  {
+    "name": "Ampliación Colonia Lázaro Cárdenas",
+    "country": "MX",
+    "lat": 28.38333,
+    "lng": -105.61667
+  },
+  {
+    "name": "Ameche",
+    "country": "MX",
+    "lat": 20.55261,
+    "lng": -100.58367
+  },
+  {
+    "name": "Ameca",
+    "country": "MX",
+    "lat": 20.54783,
+    "lng": -104.0461
+  },
+  {
+    "name": "Amealco de Bonfil",
+    "country": "MX",
+    "lat": 20.18659,
+    "lng": -100.14438
+  },
+  {
+    "name": "Amatlán de Cañas",
+    "country": "MX",
+    "lat": 20.80699,
+    "lng": -104.40408
+  },
+  {
+    "name": "Amatitán",
+    "country": "MX",
+    "lat": 20.83423,
+    "lng": -103.73016
+  },
+  {
+    "name": "Amatepec",
+    "country": "MX",
+    "lat": 18.68222,
+    "lng": -100.18583
+  },
+  {
+    "name": "Amazcala",
+    "country": "MX",
+    "lat": 20.70014,
+    "lng": -100.26265
+  },
+  {
+    "name": "Amapa",
+    "country": "MX",
+    "lat": 21.78359,
+    "lng": -105.25482
+  },
+  {
+    "name": "Amanalco de Becerra",
+    "country": "MX",
+    "lat": 19.31667,
+    "lng": -100.01667
+  },
+  {
+    "name": "Amacueca",
+    "country": "MX",
+    "lat": 20.0116,
+    "lng": -103.60015
+  },
+  {
+    "name": "Amanalco de Becerra",
+    "country": "MX",
+    "lat": 19.25374,
+    "lng": -100.0198
+  },
+  {
+    "name": "Ampliación San Mateo",
+    "country": "MX",
+    "lat": 19.61639,
+    "lng": -99.14722
+  },
+  {
+    "name": "Amatillo",
+    "country": "MX",
+    "lat": 16.82028,
+    "lng": -99.66611
+  },
+  {
+    "name": "Amuco de la Reforma",
+    "country": "MX",
+    "lat": 18.29361,
+    "lng": -100.63972
+  },
+  {
+    "name": "Amacuitlapilco",
+    "country": "MX",
+    "lat": 18.69611,
+    "lng": -98.81167
+  },
+  {
+    "name": "Ampliación la Hincada",
+    "country": "MX",
+    "lat": 22.21528,
+    "lng": -99.23611
+  },
+  {
+    "name": "Ampliación Tezoyuca",
+    "country": "MX",
+    "lat": 19.58057,
+    "lng": -98.92053
+  },
+  {
+    "name": "Ampang",
+    "country": "MY",
+    "lat": 3.15,
+    "lng": 101.76667
+  },
+  {
+    "name": "Amper",
+    "country": "NG",
+    "lat": 9.35509,
+    "lng": 9.70121
+  },
+  {
+    "name": "Amaigbo",
+    "country": "NG",
+    "lat": 5.73016,
+    "lng": 7.1151
+  },
+  {
+    "name": "Amassoma",
+    "country": "NG",
+    "lat": 4.97032,
+    "lng": 6.10915
+  },
+  {
+    "name": "Amaigbo",
+    "country": "NG",
+    "lat": 5.78917,
+    "lng": 7.83829
+  },
+  {
+    "name": "Amagunze",
+    "country": "NG",
+    "lat": 6.33063,
+    "lng": 7.65247
+  },
+  {
+    "name": "Amsterdam",
+    "country": "NL",
+    "lat": 52.37403,
+    "lng": 4.88969
+  },
+  {
+    "name": "Amstenrade",
+    "country": "NL",
+    "lat": 50.93917,
+    "lng": 5.92361
+  },
+  {
+    "name": "Amstelveen",
+    "country": "NL",
+    "lat": 52.30083,
+    "lng": 4.86389
+  },
+  {
+    "name": "Ammerzoden",
+    "country": "NL",
+    "lat": 51.74917,
+    "lng": 5.22083
+  },
+  {
+    "name": "Ammerstol",
+    "country": "NL",
+    "lat": 51.9275,
+    "lng": 4.80833
+  },
+  {
+    "name": "Amersfoort",
+    "country": "NL",
+    "lat": 52.155,
+    "lng": 5.3875
+  },
+  {
+    "name": "Amerongen",
+    "country": "NL",
+    "lat": 52.0025,
+    "lng": 5.45972
+  },
+  {
+    "name": "America",
+    "country": "NL",
+    "lat": 51.43667,
+    "lng": 5.97917
+  },
+  {
+    "name": "Ameide",
+    "country": "NL",
+    "lat": 51.955,
+    "lng": 4.9625
+  },
+  {
+    "name": "Amby",
+    "country": "NL",
+    "lat": 50.86215,
+    "lng": 5.73226
+  },
+  {
+    "name": "Amsterdam-Zuidoost",
+    "country": "NL",
+    "lat": 52.3075,
+    "lng": 4.97222
+  },
+  {
+    "name": "Amargaḍhi̇̄",
+    "country": "NP",
+    "lat": 29.29922,
+    "lng": 80.58333
+  },
+  {
+    "name": "Amberley",
+    "country": "NZ",
+    "lat": -43.15589,
+    "lng": 172.72975
+  },
+  {
+    "name": "Amotape",
+    "country": "PE",
+    "lat": -4.88167,
+    "lng": -81.01556
+  },
+  {
+    "name": "Amashca",
+    "country": "PE",
+    "lat": -9.23943,
+    "lng": -77.64649
+  },
+  {
+    "name": "Ambo",
+    "country": "PE",
+    "lat": -10.13083,
+    "lng": -76.20472
+  },
+  {
+    "name": "Ambar",
+    "country": "PE",
+    "lat": -10.73333,
+    "lng": -77.26667
+  },
+  {
+    "name": "Amaybamba",
+    "country": "PE",
+    "lat": -13.28727,
+    "lng": -73.26655
+  },
+  {
+    "name": "Amantaní",
+    "country": "PE",
+    "lat": -15.65718,
+    "lng": -69.71825
+  },
+  {
+    "name": "Ambunti",
+    "country": "PG",
+    "lat": -4.21717,
+    "lng": 142.81832
+  },
+  {
+    "name": "Amuñgan",
+    "country": "PH",
+    "lat": 15.3652,
+    "lng": 119.9582
+  },
+  {
+    "name": "Amulung",
+    "country": "PH",
+    "lat": 17.8357,
+    "lng": 121.72375
+  },
+  {
+    "name": "Amucao",
+    "country": "PH",
+    "lat": 15.46405,
+    "lng": 120.68643
+  },
+  {
+    "name": "Ampusungan",
+    "country": "PH",
+    "lat": 16.7804,
+    "lng": 120.7247
+  },
+  {
+    "name": "Ampatuan",
+    "country": "PH",
+    "lat": 6.86667,
+    "lng": 124.46667
+  },
+  {
+    "name": "Amlimay",
+    "country": "PH",
+    "lat": 16.69377,
+    "lng": 120.83704
+  },
+  {
+    "name": "Amio",
+    "country": "PH",
+    "lat": 9.3571,
+    "lng": 122.9413
+  },
+  {
+    "name": "Amdos",
+    "country": "PH",
+    "lat": 9.8821,
+    "lng": 123.0972
+  },
+  {
+    "name": "Ambulong",
+    "country": "PH",
+    "lat": 14.08804,
+    "lng": 121.06127
+  },
+  {
+    "name": "Ambuclao",
+    "country": "PH",
+    "lat": 16.48333,
+    "lng": 120.75
+  },
+  {
+    "name": "Ambulong",
+    "country": "PH",
+    "lat": 11.5793,
+    "lng": 122.4987
+  },
+  {
+    "name": "Amas",
+    "country": "PH",
+    "lat": 7.05694,
+    "lng": 124.98389
+  },
+  {
+    "name": "Amagbagan",
+    "country": "PH",
+    "lat": 16.0914,
+    "lng": 120.5232
+  },
+  {
+    "name": "Amaga",
+    "country": "PH",
+    "lat": 8.53083,
+    "lng": 126.07028
+  },
+  {
+    "name": "Amadeo",
+    "country": "PH",
+    "lat": 14.17056,
+    "lng": 120.92361
+  },
+  {
+    "name": "Amacalan",
+    "country": "PH",
+    "lat": 15.5815,
+    "lng": 120.6112
+  },
+  {
+    "name": "Aman Garh",
+    "country": "PK",
+    "lat": 34.00584,
+    "lng": 71.92971
+  },
+  {
+    "name": "Amirabad",
+    "country": "PK",
+    "lat": 34.18729,
+    "lng": 73.09078
+  },
+  {
+    "name": "Amora",
+    "country": "PT",
+    "lat": 38.62961,
+    "lng": -9.11557
+  },
+  {
+    "name": "Amor",
+    "country": "PT",
+    "lat": 39.80404,
+    "lng": -8.85984
+  },
+  {
+    "name": "Amiães de Baixo",
+    "country": "PT",
+    "lat": 39.44296,
+    "lng": -8.73358
+  },
+  {
+    "name": "Amadora",
+    "country": "PT",
+    "lat": 38.75382,
+    "lng": -9.23083
+  },
+  {
+    "name": "Amorim",
+    "country": "PT",
+    "lat": 41.40503,
+    "lng": -8.75046
+  },
+  {
+    "name": "Ameal",
+    "country": "PT",
+    "lat": 41.16667,
+    "lng": -8.6
+  },
+  {
+    "name": "Amares",
+    "country": "PT",
+    "lat": 41.63091,
+    "lng": -8.35117
+  },
+  {
+    "name": "Amarante",
+    "country": "PT",
+    "lat": 41.27271,
+    "lng": -8.08245
+  },
+  {
+    "name": "Amzacea",
+    "country": "RO",
+    "lat": 43.95,
+    "lng": 28.4
+  },
+  {
+    "name": "Amaru",
+    "country": "RO",
+    "lat": 44.93333,
+    "lng": 26.58333
+  },
+  {
+    "name": "Amărăştii de Sus",
+    "country": "RO",
+    "lat": 43.98333,
+    "lng": 24.15
+  },
+  {
+    "name": "Amărăştii de Jos",
+    "country": "RO",
+    "lat": 43.95,
+    "lng": 24.16667
+  },
+  {
+    "name": "Amărăşti",
+    "country": "RO",
+    "lat": 44.76667,
+    "lng": 24.15
+  },
+  {
+    "name": "Amara",
+    "country": "RO",
+    "lat": 45.24866,
+    "lng": 27.29244
+  },
+  {
+    "name": "Amara",
+    "country": "RO",
+    "lat": 44.61667,
+    "lng": 27.31667
+  },
+  {
+    "name": "Amzya",
+    "country": "RU",
+    "lat": 56.2346,
+    "lng": 54.385
+  },
+  {
+    "name": "Amin’yevo",
+    "country": "RU",
+    "lat": 55.7,
+    "lng": 37.46667
+  },
+  {
+    "name": "Amurzet",
+    "country": "RU",
+    "lat": 47.69447,
+    "lng": 131.09603
+  },
+  {
+    "name": "Amursk",
+    "country": "RU",
+    "lat": 50.23221,
+    "lng": 136.89703
+  },
+  {
+    "name": "Amga",
+    "country": "RU",
+    "lat": 60.89939,
+    "lng": 131.98175
+  },
+  {
+    "name": "Amazar",
+    "country": "RU",
+    "lat": 53.85595,
+    "lng": 120.87175
+  },
+  {
+    "name": "Amady Ounaré",
+    "country": "SN",
+    "lat": 15.34714,
+    "lng": -13.01647
+  },
+  {
+    "name": "Am Timan",
+    "country": "TD",
+    "lat": 11.0433,
+    "lng": 20.28342
+  },
+  {
+    "name": "Am Dam",
+    "country": "TD",
+    "lat": 12.76667,
+    "lng": 20.48333
+  },
+  {
+    "name": "Amdjarass",
+    "country": "TD",
+    "lat": 16.06666,
+    "lng": 22.83536
+  },
+  {
+    "name": "Amlamé",
+    "country": "TG",
+    "lat": 7.46667,
+    "lng": 0.9
+  },
+  {
+    "name": "Amphawa",
+    "country": "TH",
+    "lat": 13.42436,
+    "lng": 99.95688
+  },
+  {
+    "name": "Amnat Charoen",
+    "country": "TH",
+    "lat": 15.85851,
+    "lng": 104.62883
+  },
+  {
+    "name": "Amphoe Sikhiu",
+    "country": "TH",
+    "lat": 14.89944,
+    "lng": 101.70833
+  },
+  {
+    "name": "Amiret El Fhoul",
+    "country": "TN",
+    "lat": 35.44446,
+    "lng": 10.82765
+  },
+  {
+    "name": "Amiret Touazra",
+    "country": "TN",
+    "lat": 35.48639,
+    "lng": 10.76283
+  },
+  {
+    "name": "Amiret Hajjaj",
+    "country": "TN",
+    "lat": 35.50128,
+    "lng": 10.82032
+  },
+  {
+    "name": "Ambar",
+    "country": "TR",
+    "lat": 37.85305,
+    "lng": 40.52798
+  },
+  {
+    "name": "Amasya",
+    "country": "TR",
+    "lat": 40.65333,
+    "lng": 35.83306
+  },
+  {
+    "name": "Amasra",
+    "country": "TR",
+    "lat": 41.74633,
+    "lng": 32.38633
+  },
+  {
+    "name": "Amvrosiivka",
+    "country": "UA",
+    "lat": 47.79273,
+    "lng": 38.4782
+  },
+  {
+    "name": "Amurskoye",
+    "country": "UA",
+    "lat": 45.27822,
+    "lng": 34.12823
+  },
+  {
+    "name": "Amuria",
+    "country": "UG",
+    "lat": 2.00361,
+    "lng": 33.65111
+  },
+  {
+    "name": "Amudat",
+    "country": "UG",
+    "lat": 1.95,
+    "lng": 34.95
+  },
+  {
+    "name": "Amolatar",
+    "country": "UG",
+    "lat": 1.61556,
+    "lng": 32.83972
+  },
+  {
+    "name": "Amuru",
+    "country": "UG",
+    "lat": 2.81388,
+    "lng": 31.93868
+  },
+  {
+    "name": "Americus",
+    "country": "US",
+    "lat": 32.07239,
+    "lng": -84.23269
+  },
+  {
+    "name": "Ama",
+    "country": "US",
+    "lat": 29.95215,
+    "lng": -90.29647
+  },
+  {
+    "name": "Amelia",
+    "country": "US",
+    "lat": 29.66632,
+    "lng": -91.10204
+  },
+  {
+    "name": "Amite",
+    "country": "US",
+    "lat": 30.72657,
+    "lng": -90.50898
+  },
+  {
+    "name": "Amory",
+    "country": "US",
+    "lat": 33.98428,
+    "lng": -88.4881
+  },
+  {
+    "name": "Amberley",
+    "country": "US",
+    "lat": 39.20478,
+    "lng": -84.428
+  },
+  {
+    "name": "Amelia",
+    "country": "US",
+    "lat": 39.0284,
+    "lng": -84.21771
+  },
+  {
+    "name": "Ames",
+    "country": "US",
+    "lat": 31.52099,
+    "lng": -97.77947
+  },
+  {
+    "name": "Ames",
+    "country": "US",
+    "lat": 30.05383,
+    "lng": -94.74353
+  },
+  {
+    "name": "Amelia Court House",
+    "country": "US",
+    "lat": 37.34293,
+    "lng": -77.98056
+  },
+  {
+    "name": "Amherst",
+    "country": "US",
+    "lat": 37.58514,
+    "lng": -79.05141
+  },
+  {
+    "name": "Ames",
+    "country": "US",
+    "lat": 42.03471,
+    "lng": -93.61994
+  },
+  {
+    "name": "Amboy",
+    "country": "US",
+    "lat": 41.7142,
+    "lng": -89.32871
+  },
+  {
+    "name": "Amesbury",
+    "country": "US",
+    "lat": 42.85842,
+    "lng": -70.93005
+  },
+  {
+    "name": "Amherst",
+    "country": "US",
+    "lat": 42.36723,
+    "lng": -72.51852
+  },
+  {
+    "name": "Amherst Center",
+    "country": "US",
+    "lat": 42.37537,
+    "lng": -72.51925
+  },
+  {
+    "name": "Amagansett",
+    "country": "US",
+    "lat": 40.97371,
+    "lng": -72.14369
+  },
+  {
+    "name": "Amherst",
+    "country": "US",
+    "lat": 42.97839,
+    "lng": -78.79976
+  },
+  {
+    "name": "Amityville",
+    "country": "US",
+    "lat": 40.67899,
+    "lng": -73.41707
+  },
+  {
+    "name": "Amsterdam",
+    "country": "US",
+    "lat": 42.93869,
+    "lng": -74.18819
+  },
+  {
+    "name": "Amherst",
+    "country": "US",
+    "lat": 41.39782,
+    "lng": -82.22238
+  },
+  {
+    "name": "Ambler",
+    "country": "US",
+    "lat": 40.15455,
+    "lng": -75.22157
+  },
+  {
+    "name": "Ambridge",
+    "country": "US",
+    "lat": 40.58923,
+    "lng": -80.22506
+  },
+  {
+    "name": "Amity Gardens",
+    "country": "US",
+    "lat": 40.27426,
+    "lng": -75.73519
+  },
+  {
+    "name": "Amery",
+    "country": "US",
+    "lat": 45.30691,
+    "lng": -92.36214
+  },
+  {
+    "name": "Amherst",
+    "country": "US",
+    "lat": 44.45081,
+    "lng": -89.28484
+  },
+  {
+    "name": "American Canyon",
+    "country": "US",
+    "lat": 38.17492,
+    "lng": -122.2608
+  },
+  {
+    "name": "Amesti",
+    "country": "US",
+    "lat": 36.96356,
+    "lng": -121.77912
+  },
+  {
+    "name": "Amarillo",
+    "country": "US",
+    "lat": 35.222,
+    "lng": -101.8313
+  },
+  {
+    "name": "American Falls",
+    "country": "US",
+    "lat": 42.78602,
+    "lng": -112.85444
+  },
+  {
+    "name": "Ammon",
+    "country": "US",
+    "lat": 43.46964,
+    "lng": -111.96664
+  },
+  {
+    "name": "Amidon",
+    "country": "US",
+    "lat": 46.48223,
+    "lng": -103.32185
+  },
+  {
+    "name": "Amity",
+    "country": "US",
+    "lat": 45.11567,
+    "lng": -123.20733
+  },
+  {
+    "name": "Amboy",
+    "country": "US",
+    "lat": 45.91011,
+    "lng": -122.44649
+  },
+  {
+    "name": "Ames Lake",
+    "country": "US",
+    "lat": 47.63288,
+    "lng": -121.96623
+  },
+  {
+    "name": "American Fork",
+    "country": "US",
+    "lat": 40.3769,
+    "lng": -111.79576
+  },
+  {
+    "name": "Amir Timur",
+    "country": "UZ",
+    "lat": 41.01944,
+    "lng": 68.94083
+  },
+  {
+    "name": "Amersfoort",
+    "country": "ZA",
+    "lat": -27.00941,
+    "lng": 29.86643
+  },
+  {
+    "name": "Amandelbult",
+    "country": "ZA",
+    "lat": -24.81811,
+    "lng": 27.29659
+  },
+  {
+    "name": "Amalia",
+    "country": "ZA",
+    "lat": -27.24836,
+    "lng": 25.04581
+  }
+]

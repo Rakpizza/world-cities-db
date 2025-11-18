@@ -1,0 +1,308 @@
+[
+  {
+    "name": "Eppenstein",
+    "country": "AT",
+    "lat": 47.12833,
+    "lng": 14.7375
+  },
+  {
+    "name": "Epsom",
+    "country": "AU",
+    "lat": -36.71667,
+    "lng": 144.31667
+  },
+  {
+    "name": "Epping",
+    "country": "AU",
+    "lat": -37.65,
+    "lng": 145.03333
+  },
+  {
+    "name": "Epping",
+    "country": "AU",
+    "lat": -33.77271,
+    "lng": 151.08184
+  },
+  {
+    "name": "Eppegem",
+    "country": "BE",
+    "lat": 50.96237,
+    "lng": 4.45513
+  },
+  {
+    "name": "Epitaciolândia",
+    "country": "BR",
+    "lat": -11.02889,
+    "lng": -68.74139
+  },
+  {
+    "name": "Epéna",
+    "country": "CG",
+    "lat": 1.3525,
+    "lng": 17.4525
+  },
+  {
+    "name": "Ependes",
+    "country": "CH",
+    "lat": 46.75368,
+    "lng": 7.14609
+  },
+  {
+    "name": "Epalinges",
+    "country": "CH",
+    "lat": 46.54896,
+    "lng": 6.66831
+  },
+  {
+    "name": "Eplemlan",
+    "country": "CI",
+    "lat": 5.29802,
+    "lng": -3.26531
+  },
+  {
+    "name": "Epiénou",
+    "country": "CI",
+    "lat": 5.38757,
+    "lng": -3.17083
+  },
+  {
+    "name": "Eppstein",
+    "country": "DE",
+    "lat": 50.14277,
+    "lng": 8.39231
+  },
+  {
+    "name": "Eppishausen",
+    "country": "DE",
+    "lat": 48.16667,
+    "lng": 10.51667
+  },
+  {
+    "name": "Eppingen",
+    "country": "DE",
+    "lat": 49.13645,
+    "lng": 8.91229
+  },
+  {
+    "name": "Eppertshausen",
+    "country": "DE",
+    "lat": 49.95056,
+    "lng": 8.85389
+  },
+  {
+    "name": "Eppendorf",
+    "country": "DE",
+    "lat": 53.5924,
+    "lng": 9.98752
+  },
+  {
+    "name": "Eppendorf",
+    "country": "DE",
+    "lat": 50.8,
+    "lng": 13.23333
+  },
+  {
+    "name": "Eppenbrunn",
+    "country": "DE",
+    "lat": 49.11667,
+    "lng": 7.56667
+  },
+  {
+    "name": "Eppelsheim",
+    "country": "DE",
+    "lat": 49.70556,
+    "lng": 8.16528
+  },
+  {
+    "name": "Eppelheim",
+    "country": "DE",
+    "lat": 49.4019,
+    "lng": 8.63644
+  },
+  {
+    "name": "Eppelborn",
+    "country": "DE",
+    "lat": 49.4,
+    "lng": 6.96667
+  },
+  {
+    "name": "Epfendorf",
+    "country": "DE",
+    "lat": 48.25,
+    "lng": 8.6
+  },
+  {
+    "name": "Epfenbach",
+    "country": "DE",
+    "lat": 49.33917,
+    "lng": 8.90778
+  },
+  {
+    "name": "Epilä",
+    "country": "FI",
+    "lat": 61.50808,
+    "lng": 23.6679
+  },
+  {
+    "name": "Eppeville",
+    "country": "FR",
+    "lat": 49.74069,
+    "lng": 3.05114
+  },
+  {
+    "name": "Epiniac",
+    "country": "FR",
+    "lat": 48.51023,
+    "lng": -1.69751
+  },
+  {
+    "name": "Epfig",
+    "country": "FR",
+    "lat": 48.35933,
+    "lng": 7.46427
+  },
+  {
+    "name": "Epworth",
+    "country": "GB",
+    "lat": 53.52602,
+    "lng": -0.82399
+  },
+  {
+    "name": "Epsom",
+    "country": "GB",
+    "lat": 51.3305,
+    "lng": -0.27011
+  },
+  {
+    "name": "Epping",
+    "country": "GB",
+    "lat": 51.69815,
+    "lng": 0.11055
+  },
+  {
+    "name": "Epitálio",
+    "country": "GR",
+    "lat": 37.62675,
+    "lng": 21.49528
+  },
+  {
+    "name": "Episkopí",
+    "country": "GR",
+    "lat": 40.68748,
+    "lng": 22.1364
+  },
+  {
+    "name": "Epanomí",
+    "country": "GR",
+    "lat": 40.42614,
+    "lng": 22.92782
+  },
+  {
+    "name": "Episcopia",
+    "country": "IT",
+    "lat": 40.07481,
+    "lng": 16.09818
+  },
+  {
+    "name": "Epazoyucan",
+    "country": "MX",
+    "lat": 20.01801,
+    "lng": -98.63623
+  },
+  {
+    "name": "Epigmenio González",
+    "country": "MX",
+    "lat": 20.55055,
+    "lng": -100.16494
+  },
+  {
+    "name": "Epitacio Huerta",
+    "country": "MX",
+    "lat": 20.13493,
+    "lng": -100.29321
+  },
+  {
+    "name": "Epe",
+    "country": "NG",
+    "lat": 6.58412,
+    "lng": 3.98336
+  },
+  {
+    "name": "Epse",
+    "country": "NL",
+    "lat": 52.225,
+    "lng": 6.2
+  },
+  {
+    "name": "Epe",
+    "country": "NL",
+    "lat": 52.3475,
+    "lng": 5.98333
+  },
+  {
+    "name": "Epsom",
+    "country": "NZ",
+    "lat": -36.88745,
+    "lng": 174.77059
+  },
+  {
+    "name": "Epuni",
+    "country": "NZ",
+    "lat": -41.20263,
+    "lng": 174.93043
+  },
+  {
+    "name": "Epureni",
+    "country": "RO",
+    "lat": 46.70769,
+    "lng": 28.03829
+  },
+  {
+    "name": "Epureni",
+    "country": "RO",
+    "lat": 46.24693,
+    "lng": 27.91123
+  },
+  {
+    "name": "Epworth",
+    "country": "US",
+    "lat": 42.445,
+    "lng": -90.93208
+  },
+  {
+    "name": "Epping",
+    "country": "US",
+    "lat": 43.03342,
+    "lng": -71.07423
+  },
+  {
+    "name": "Epsom",
+    "country": "US",
+    "lat": 43.22286,
+    "lng": -71.33201
+  },
+  {
+    "name": "Ephrata",
+    "country": "US",
+    "lat": 40.17982,
+    "lng": -76.17884
+  },
+  {
+    "name": "Ephraim",
+    "country": "US",
+    "lat": 39.35968,
+    "lng": -111.58631
+  },
+  {
+    "name": "Ephrata",
+    "country": "US",
+    "lat": 47.31764,
+    "lng": -119.55365
+  },
+  {
+    "name": "Epworth",
+    "country": "ZW",
+    "lat": -17.89,
+    "lng": 31.1475
+  }
+]

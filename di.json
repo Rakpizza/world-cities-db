@@ -1,0 +1,3878 @@
+[
+  {
+    "name": "Dibba Al-Fujairah",
+    "country": "AE",
+    "lat": 25.59246,
+    "lng": 56.26176
+  },
+  {
+    "name": "Dibba Al-Hisn",
+    "country": "AE",
+    "lat": 25.61955,
+    "lng": 56.27291
+  },
+  {
+    "name": "Dishnicë",
+    "country": "AL",
+    "lat": 40.65139,
+    "lng": 20.81361
+  },
+  {
+    "name": "Divjakë",
+    "country": "AL",
+    "lat": 40.99667,
+    "lng": 19.52944
+  },
+  {
+    "name": "Dilijan",
+    "country": "AM",
+    "lat": 40.74037,
+    "lng": 44.86344
+  },
+  {
+    "name": "Dimitrov",
+    "country": "AM",
+    "lat": 40.00848,
+    "lng": 44.4917
+  },
+  {
+    "name": "Diamante",
+    "country": "AR",
+    "lat": -32.0671,
+    "lng": -60.64267
+  },
+  {
+    "name": "Diex",
+    "country": "AT",
+    "lat": 46.74435,
+    "lng": 14.61704
+  },
+  {
+    "name": "Dietersdorf am Gnasbach",
+    "country": "AT",
+    "lat": 46.80917,
+    "lng": 15.81167
+  },
+  {
+    "name": "Dietersdorf",
+    "country": "AT",
+    "lat": 47.20795,
+    "lng": 14.66333
+  },
+  {
+    "name": "Dietachdorf",
+    "country": "AT",
+    "lat": 48.08364,
+    "lng": 14.42874
+  },
+  {
+    "name": "Dietach",
+    "country": "AT",
+    "lat": 48.09018,
+    "lng": 14.41647
+  },
+  {
+    "name": "Dienten am Hochkönig",
+    "country": "AT",
+    "lat": 47.38324,
+    "lng": 13.00369
+  },
+  {
+    "name": "Dienersdorf",
+    "country": "AT",
+    "lat": 47.23979,
+    "lng": 15.90142
+  },
+  {
+    "name": "Diemlach",
+    "country": "AT",
+    "lat": 47.4361,
+    "lng": 15.2746
+  },
+  {
+    "name": "Diesseits",
+    "country": "AT",
+    "lat": 48.29216,
+    "lng": 13.43546
+  },
+  {
+    "name": "Dickerldorf",
+    "country": "AT",
+    "lat": 48.17676,
+    "lng": 14.05705
+  },
+  {
+    "name": "Dingley Village",
+    "country": "AU",
+    "lat": -37.9827,
+    "lng": 145.1342
+  },
+  {
+    "name": "Dimbulah",
+    "country": "AU",
+    "lat": -17.14752,
+    "lng": 145.10969
+  },
+  {
+    "name": "Dimboola",
+    "country": "AU",
+    "lat": -36.45616,
+    "lng": 142.03287
+  },
+  {
+    "name": "Diggers Rest",
+    "country": "AU",
+    "lat": -37.62597,
+    "lng": 144.71881
+  },
+  {
+    "name": "Diamond Creek",
+    "country": "AU",
+    "lat": -37.66667,
+    "lng": 145.15
+  },
+  {
+    "name": "Dickson",
+    "country": "AU",
+    "lat": -35.25082,
+    "lng": 149.13932
+  },
+  {
+    "name": "Dinner Plain",
+    "country": "AU",
+    "lat": -37.0236,
+    "lng": 147.24124
+  },
+  {
+    "name": "Dianella",
+    "country": "AU",
+    "lat": -31.88822,
+    "lng": 115.87186
+  },
+  {
+    "name": "Dicky Beach",
+    "country": "AU",
+    "lat": -26.78364,
+    "lng": 153.13766
+  },
+  {
+    "name": "Diddillibah",
+    "country": "AU",
+    "lat": -26.64166,
+    "lng": 153.04959
+  },
+  {
+    "name": "Digah",
+    "country": "AZ",
+    "lat": 40.49257,
+    "lng": 49.87477
+  },
+  {
+    "name": "Divichibazar",
+    "country": "AZ",
+    "lat": 41.20117,
+    "lng": 48.98712
+  },
+  {
+    "name": "Divičani",
+    "country": "BA",
+    "lat": 44.36682,
+    "lng": 17.32678
+  },
+  {
+    "name": "Dinajpur",
+    "country": "BD",
+    "lat": 25.62745,
+    "lng": 88.63779
+  },
+  {
+    "name": "Dison",
+    "country": "BE",
+    "lat": 50.61004,
+    "lng": 5.8534
+  },
+  {
+    "name": "Dion-le-Mont",
+    "country": "BE",
+    "lat": 50.69653,
+    "lng": 4.66657
+  },
+  {
+    "name": "Dinant",
+    "country": "BE",
+    "lat": 50.25807,
+    "lng": 4.91166
+  },
+  {
+    "name": "Dilsen",
+    "country": "BE",
+    "lat": 51.03718,
+    "lng": 5.72096
+  },
+  {
+    "name": "Dilbeek",
+    "country": "BE",
+    "lat": 50.84799,
+    "lng": 4.25972
+  },
+  {
+    "name": "Diksmuide",
+    "country": "BE",
+    "lat": 51.03248,
+    "lng": 2.86384
+  },
+  {
+    "name": "Dikkelvenne",
+    "country": "BE",
+    "lat": 50.91927,
+    "lng": 3.69507
+  },
+  {
+    "name": "Dikkebus",
+    "country": "BE",
+    "lat": 50.82131,
+    "lng": 2.82873
+  },
+  {
+    "name": "Diest",
+    "country": "BE",
+    "lat": 50.98923,
+    "lng": 5.05062
+  },
+  {
+    "name": "Diepenbeek",
+    "country": "BE",
+    "lat": 50.90769,
+    "lng": 5.41875
+  },
+  {
+    "name": "Diegem",
+    "country": "BE",
+    "lat": 50.89727,
+    "lng": 4.43354
+  },
+  {
+    "name": "Diébougou",
+    "country": "BF",
+    "lat": 10.96209,
+    "lng": -3.24967
+  },
+  {
+    "name": "Diapaga",
+    "country": "BF",
+    "lat": 12.07305,
+    "lng": 1.78838
+  },
+  {
+    "name": "Dimovo",
+    "country": "BG",
+    "lat": 43.74167,
+    "lng": 22.72694
+  },
+  {
+    "name": "Dimitrovgrad",
+    "country": "BG",
+    "lat": 42.05,
+    "lng": 25.6
+  },
+  {
+    "name": "Diamante",
+    "country": "BR",
+    "lat": -7.42778,
+    "lng": -38.26417
+  },
+  {
+    "name": "Divinópolis do Tocantins",
+    "country": "BR",
+    "lat": -9.79972,
+    "lng": -49.21389
+  },
+  {
+    "name": "Divino de São Lourenço",
+    "country": "BR",
+    "lat": -20.62023,
+    "lng": -41.68323
+  },
+  {
+    "name": "Divinópolis de Goiás",
+    "country": "BR",
+    "lat": -13.28992,
+    "lng": -46.39709
+  },
+  {
+    "name": "Divisópolis",
+    "country": "BR",
+    "lat": -15.72556,
+    "lng": -41.0
+  },
+  {
+    "name": "Divisa Nova",
+    "country": "BR",
+    "lat": -21.51111,
+    "lng": -46.19583
+  },
+  {
+    "name": "Divisa Alegre",
+    "country": "BR",
+    "lat": -15.7215,
+    "lng": -41.34411
+  },
+  {
+    "name": "Divinópolis",
+    "country": "BR",
+    "lat": -20.14355,
+    "lng": -44.89065
+  },
+  {
+    "name": "Divinolândia",
+    "country": "BR",
+    "lat": -21.66139,
+    "lng": -46.73917
+  },
+  {
+    "name": "Divinolândia de Minas",
+    "country": "BR",
+    "lat": -18.80204,
+    "lng": -42.61499
+  },
+  {
+    "name": "Divinésia",
+    "country": "BR",
+    "lat": -20.9904,
+    "lng": -43.00361
+  },
+  {
+    "name": "Divino das Laranjeiras",
+    "country": "BR",
+    "lat": -18.77778,
+    "lng": -41.47972
+  },
+  {
+    "name": "Divino",
+    "country": "BR",
+    "lat": -20.61444,
+    "lng": -42.14861
+  },
+  {
+    "name": "Divina Pastora",
+    "country": "BR",
+    "lat": -10.68861,
+    "lng": -37.14833
+  },
+  {
+    "name": "Diorama",
+    "country": "BR",
+    "lat": -16.23417,
+    "lng": -51.25556
+  },
+  {
+    "name": "Dionísio Cerqueira",
+    "country": "BR",
+    "lat": -26.255,
+    "lng": -53.63972
+  },
+  {
+    "name": "Dionísio",
+    "country": "BR",
+    "lat": -19.8412,
+    "lng": -42.77767
+  },
+  {
+    "name": "Diogo de Vasconcelos",
+    "country": "BR",
+    "lat": -20.48778,
+    "lng": -43.19833
+  },
+  {
+    "name": "Dias d'Ávila",
+    "country": "BR",
+    "lat": -12.6125,
+    "lng": -38.29694
+  },
+  {
+    "name": "Dianópolis",
+    "country": "BR",
+    "lat": -11.62778,
+    "lng": -46.82056
+  },
+  {
+    "name": "Diamantino",
+    "country": "BR",
+    "lat": -14.40861,
+    "lng": -56.44611
+  },
+  {
+    "name": "Diamantina",
+    "country": "BR",
+    "lat": -18.24692,
+    "lng": -43.60345
+  },
+  {
+    "name": "Diamante do Sul",
+    "country": "BR",
+    "lat": -25.04322,
+    "lng": -52.68019
+  },
+  {
+    "name": "Diamante d'Oeste",
+    "country": "BR",
+    "lat": -24.94493,
+    "lng": -54.10374
+  },
+  {
+    "name": "Diadema",
+    "country": "BR",
+    "lat": -23.68611,
+    "lng": -46.62278
+  },
+  {
+    "name": "Diamante do Norte",
+    "country": "BR",
+    "lat": -22.65639,
+    "lng": -52.85972
+  },
+  {
+    "name": "Dilermano de Aguiar",
+    "country": "BR",
+    "lat": -29.70639,
+    "lng": -54.20833
+  },
+  {
+    "name": "Dirce Reis",
+    "country": "BR",
+    "lat": -20.46611,
+    "lng": -50.60611
+  },
+  {
+    "name": "Dirceu Arcoverde",
+    "country": "BR",
+    "lat": -9.34251,
+    "lng": -42.43425
+  },
+  {
+    "name": "Didsbury",
+    "country": "CA",
+    "lat": 51.66681,
+    "lng": -114.13529
+  },
+  {
+    "name": "Dieppe",
+    "country": "CA",
+    "lat": 46.07844,
+    "lng": -64.68735
+  },
+  {
+    "name": "Digby",
+    "country": "CA",
+    "lat": 44.62188,
+    "lng": -65.7586
+  },
+  {
+    "name": "Disraeli",
+    "country": "CA",
+    "lat": 45.90007,
+    "lng": -71.34907
+  },
+  {
+    "name": "Dibaya-Lubwe",
+    "country": "CD",
+    "lat": -4.15869,
+    "lng": 19.8619
+  },
+  {
+    "name": "Divenié",
+    "country": "CG",
+    "lat": -2.67722,
+    "lng": 12.08556
+  },
+  {
+    "name": "Disentis",
+    "country": "CH",
+    "lat": 46.70341,
+    "lng": 8.8509
+  },
+  {
+    "name": "Dietlikon / Dietlikon (Dorf)",
+    "country": "CH",
+    "lat": 47.41827,
+    "lng": 8.6188
+  },
+  {
+    "name": "Dietikon",
+    "country": "CH",
+    "lat": 47.40165,
+    "lng": 8.40015
+  },
+  {
+    "name": "Diessenhofen",
+    "country": "CH",
+    "lat": 47.68908,
+    "lng": 8.74958
+  },
+  {
+    "name": "Diepoldsau",
+    "country": "CH",
+    "lat": 47.386,
+    "lng": 9.65558
+  },
+  {
+    "name": "Diemtigen",
+    "country": "CH",
+    "lat": 46.64928,
+    "lng": 7.56477
+  },
+  {
+    "name": "Dielsdorf",
+    "country": "CH",
+    "lat": 47.48146,
+    "lng": 8.4585
+  },
+  {
+    "name": "Diegten",
+    "country": "CH",
+    "lat": 47.4138,
+    "lng": 7.81085
+  },
+  {
+    "name": "Dietlikon / Eichwiesen",
+    "country": "CH",
+    "lat": 47.4191,
+    "lng": 8.62078
+  },
+  {
+    "name": "Dietikon / Vorstadt",
+    "country": "CH",
+    "lat": 47.40819,
+    "lng": 8.39719
+  },
+  {
+    "name": "Dietikon / Almend",
+    "country": "CH",
+    "lat": 47.40477,
+    "lng": 8.39168
+  },
+  {
+    "name": "Dietikon / Oberdorf",
+    "country": "CH",
+    "lat": 47.40065,
+    "lng": 8.39416
+  },
+  {
+    "name": "Dietikon / Kreuzacker",
+    "country": "CH",
+    "lat": 47.39919,
+    "lng": 8.40146
+  },
+  {
+    "name": "Dietikon / Guggenbühl",
+    "country": "CH",
+    "lat": 47.40009,
+    "lng": 8.40818
+  },
+  {
+    "name": "Dietikon / Hofacker",
+    "country": "CH",
+    "lat": 47.39718,
+    "lng": 8.41609
+  },
+  {
+    "name": "Dietikon / Schönenwerd",
+    "country": "CH",
+    "lat": 47.39706,
+    "lng": 8.42576
+  },
+  {
+    "name": "Dioulé",
+    "country": "CI",
+    "lat": 7.10861,
+    "lng": -7.55306
+  },
+  {
+    "name": "Diorholé",
+    "country": "CI",
+    "lat": 7.79787,
+    "lng": -6.36755
+  },
+  {
+    "name": "Diomandougou",
+    "country": "CI",
+    "lat": 8.83806,
+    "lng": -6.85861
+  },
+  {
+    "name": "Diéouzon",
+    "country": "CI",
+    "lat": 7.15575,
+    "lng": -7.32219
+  },
+  {
+    "name": "Dialakoro",
+    "country": "CI",
+    "lat": 8.1921,
+    "lng": -5.8429
+  },
+  {
+    "name": "Diarabana",
+    "country": "CI",
+    "lat": 8.18668,
+    "lng": -6.60866
+  },
+  {
+    "name": "Dianra",
+    "country": "CI",
+    "lat": 8.94333,
+    "lng": -6.2549
+  },
+  {
+    "name": "Diafla",
+    "country": "CI",
+    "lat": 7.42124,
+    "lng": -6.86751
+  },
+  {
+    "name": "Divo",
+    "country": "CI",
+    "lat": 5.83739,
+    "lng": -5.35723
+  },
+  {
+    "name": "Ditroudra Béoué",
+    "country": "CI",
+    "lat": 6.36467,
+    "lng": -7.52826
+  },
+  {
+    "name": "Diourouzon",
+    "country": "CI",
+    "lat": 6.88922,
+    "lng": -7.51952
+  },
+  {
+    "name": "Dioulatiédougou",
+    "country": "CI",
+    "lat": 8.97225,
+    "lng": -7.2323
+  },
+  {
+    "name": "Dionkro",
+    "country": "CI",
+    "lat": 7.78614,
+    "lng": -3.98623
+  },
+  {
+    "name": "Dioman",
+    "country": "CI",
+    "lat": 8.13276,
+    "lng": -7.54529
+  },
+  {
+    "name": "Diolala",
+    "country": "CI",
+    "lat": 10.19776,
+    "lng": -7.34259
+  },
+  {
+    "name": "Diogo",
+    "country": "CI",
+    "lat": 9.42972,
+    "lng": -6.68083
+  },
+  {
+    "name": "Dio",
+    "country": "CI",
+    "lat": 7.78107,
+    "lng": -7.57678
+  },
+  {
+    "name": "Dignago",
+    "country": "CI",
+    "lat": 6.29164,
+    "lng": -6.27945
+  },
+  {
+    "name": "Dingbé",
+    "country": "CI",
+    "lat": 7.07131,
+    "lng": -3.95703
+  },
+  {
+    "name": "Dindéresso",
+    "country": "CI",
+    "lat": 10.03477,
+    "lng": -6.6
+  },
+  {
+    "name": "Dingbi",
+    "country": "CI",
+    "lat": 8.10391,
+    "lng": -3.03738
+  },
+  {
+    "name": "Dinaodi",
+    "country": "CI",
+    "lat": 8.12681,
+    "lng": -3.22975
+  },
+  {
+    "name": "Dimoulé",
+    "country": "CI",
+    "lat": 4.7589,
+    "lng": -6.71697
+  },
+  {
+    "name": "Dimbokro",
+    "country": "CI",
+    "lat": 6.64678,
+    "lng": -4.70519
+  },
+  {
+    "name": "Diléya",
+    "country": "CI",
+    "lat": 6.74406,
+    "lng": -6.94578
+  },
+  {
+    "name": "Dikouéhipalényoa",
+    "country": "CI",
+    "lat": 6.05257,
+    "lng": -5.87217
+  },
+  {
+    "name": "Dikodougou",
+    "country": "CI",
+    "lat": 9.06757,
+    "lng": -5.77222
+  },
+  {
+    "name": "Dikodougou",
+    "country": "CI",
+    "lat": 8.5,
+    "lng": -5.86667
+  },
+  {
+    "name": "Dihinébo",
+    "country": "CI",
+    "lat": 7.35476,
+    "lng": -3.3642
+  },
+  {
+    "name": "Digoualé",
+    "country": "CI",
+    "lat": 7.72321,
+    "lng": -7.5166
+  },
+  {
+    "name": "Digila",
+    "country": "CI",
+    "lat": 7.83333,
+    "lng": -6.5
+  },
+  {
+    "name": "Digbohouo",
+    "country": "CI",
+    "lat": 6.47578,
+    "lng": -5.69982
+  },
+  {
+    "name": "Digbeuguhé",
+    "country": "CI",
+    "lat": 6.32146,
+    "lng": -6.73138
+  },
+  {
+    "name": "Digbapia I",
+    "country": "CI",
+    "lat": 6.84051,
+    "lng": -6.5966
+  },
+  {
+    "name": "Digbam",
+    "country": "CI",
+    "lat": 6.41422,
+    "lng": -6.24297
+  },
+  {
+    "name": "Digba",
+    "country": "CI",
+    "lat": 6.75915,
+    "lng": -6.41019
+  },
+  {
+    "name": "Diotouo",
+    "country": "CI",
+    "lat": 7.19412,
+    "lng": -8.13002
+  },
+  {
+    "name": "Diéta",
+    "country": "CI",
+    "lat": 7.28097,
+    "lng": -8.32771
+  },
+  {
+    "name": "Dienguesso",
+    "country": "CI",
+    "lat": 8.5166,
+    "lng": -4.67378
+  },
+  {
+    "name": "Diénédoufla",
+    "country": "CI",
+    "lat": 6.65173,
+    "lng": -5.80595
+  },
+  {
+    "name": "Diénédian",
+    "country": "CI",
+    "lat": 8.07806,
+    "lng": -6.11889
+  },
+  {
+    "name": "Diendana-Sokoura",
+    "country": "CI",
+    "lat": 8.15174,
+    "lng": -4.38272
+  },
+  {
+    "name": "Diempleu",
+    "country": "CI",
+    "lat": 7.68222,
+    "lng": -8.0675
+  },
+  {
+    "name": "Diembisédougou",
+    "country": "CI",
+    "lat": 7.93401,
+    "lng": -4.26699
+  },
+  {
+    "name": "Diélé",
+    "country": "CI",
+    "lat": 10.18837,
+    "lng": -5.70346
+  },
+  {
+    "name": "Diékadiokro",
+    "country": "CI",
+    "lat": 6.49617,
+    "lng": -4.41371
+  },
+  {
+    "name": "Diékabo",
+    "country": "CI",
+    "lat": 6.50784,
+    "lng": -4.52103
+  },
+  {
+    "name": "Diégonéfla",
+    "country": "CI",
+    "lat": 6.28919,
+    "lng": -5.57413
+  },
+  {
+    "name": "Diédrou",
+    "country": "CI",
+    "lat": 6.99139,
+    "lng": -7.77825
+  },
+  {
+    "name": "Didoko",
+    "country": "CI",
+    "lat": 6.02111,
+    "lng": -5.31207
+  },
+  {
+    "name": "Didizo",
+    "country": "CI",
+    "lat": 5.65104,
+    "lng": -5.45993
+  },
+  {
+    "name": "Didiévi",
+    "country": "CI",
+    "lat": 7.12866,
+    "lng": -4.89804
+  },
+  {
+    "name": "Didiassa",
+    "country": "CI",
+    "lat": 7.07919,
+    "lng": -4.35694
+  },
+  {
+    "name": "Didia",
+    "country": "CI",
+    "lat": 6.43514,
+    "lng": -5.85164
+  },
+  {
+    "name": "Didayaokro",
+    "country": "CI",
+    "lat": 6.41457,
+    "lng": -4.81807
+  },
+  {
+    "name": "Didakouadiokro",
+    "country": "CI",
+    "lat": 6.40004,
+    "lng": -4.82095
+  },
+  {
+    "name": "Dida",
+    "country": "CI",
+    "lat": 6.90169,
+    "lng": -4.46808
+  },
+  {
+    "name": "Didablé",
+    "country": "CI",
+    "lat": 6.43004,
+    "lng": -4.82048
+  },
+  {
+    "name": "Diboké",
+    "country": "CI",
+    "lat": 6.44434,
+    "lng": -8.11234
+  },
+  {
+    "name": "Diby",
+    "country": "CI",
+    "lat": 5.65774,
+    "lng": -2.97845
+  },
+  {
+    "name": "Diasson",
+    "country": "CI",
+    "lat": 5.97152,
+    "lng": -3.72759
+  },
+  {
+    "name": "Diaraoula",
+    "country": "CI",
+    "lat": 5.77396,
+    "lng": -7.39078
+  },
+  {
+    "name": "Diaradougou",
+    "country": "CI",
+    "lat": 8.05495,
+    "lng": -4.51339
+  },
+  {
+    "name": "Diapleu",
+    "country": "CI",
+    "lat": 7.20716,
+    "lng": -7.61704
+  },
+  {
+    "name": "Diapé",
+    "country": "CI",
+    "lat": 6.0142,
+    "lng": -3.92726
+  },
+  {
+    "name": "Diawala",
+    "country": "CI",
+    "lat": 10.10701,
+    "lng": -5.47295
+  },
+  {
+    "name": "Dianra-Village",
+    "country": "CI",
+    "lat": 8.76437,
+    "lng": -6.24411
+  },
+  {
+    "name": "Dianoufla",
+    "country": "CI",
+    "lat": 6.79928,
+    "lng": -6.01422
+  },
+  {
+    "name": "Diangoménou",
+    "country": "CI",
+    "lat": 6.75238,
+    "lng": -5.03403
+  },
+  {
+    "name": "Diangokokokro",
+    "country": "CI",
+    "lat": 6.95434,
+    "lng": -4.69679
+  },
+  {
+    "name": "Diangobo",
+    "country": "CI",
+    "lat": 6.56564,
+    "lng": -3.33675
+  },
+  {
+    "name": "Diangobo",
+    "country": "CI",
+    "lat": 6.5201,
+    "lng": -4.53664
+  },
+  {
+    "name": "Diangobo",
+    "country": "CI",
+    "lat": 6.14632,
+    "lng": -3.64219
+  },
+  {
+    "name": "Diangbanasso",
+    "country": "CI",
+    "lat": 9.08161,
+    "lng": -4.6415
+  },
+  {
+    "name": "Dianfla",
+    "country": "CI",
+    "lat": 7.13457,
+    "lng": -5.85845
+  },
+  {
+    "name": "Diané",
+    "country": "CI",
+    "lat": 7.55709,
+    "lng": -7.43561
+  },
+  {
+    "name": "Dianambroufla",
+    "country": "CI",
+    "lat": 6.65823,
+    "lng": -5.62325
+  },
+  {
+    "name": "Diamba",
+    "country": "CI",
+    "lat": 7.80975,
+    "lng": -3.31254
+  },
+  {
+    "name": "Diamankani",
+    "country": "CI",
+    "lat": 10.56303,
+    "lng": -6.52987
+  },
+  {
+    "name": "Diamalabo",
+    "country": "CI",
+    "lat": 6.92155,
+    "lng": -5.33888
+  },
+  {
+    "name": "Diale",
+    "country": "CI",
+    "lat": 7.04892,
+    "lng": -5.61566
+  },
+  {
+    "name": "Diakohou",
+    "country": "CI",
+    "lat": 7.63594,
+    "lng": -5.54458
+  },
+  {
+    "name": "Diai",
+    "country": "CI",
+    "lat": 6.51715,
+    "lng": -8.34021
+  },
+  {
+    "name": "Diahouin",
+    "country": "CI",
+    "lat": 6.84368,
+    "lng": -7.40842
+  },
+  {
+    "name": "Diabo",
+    "country": "CI",
+    "lat": 7.78959,
+    "lng": -5.17102
+  },
+  {
+    "name": "Dingouin",
+    "country": "CI",
+    "lat": 7.66277,
+    "lng": -7.60603
+  },
+  {
+    "name": "Diamarakro",
+    "country": "CI",
+    "lat": 6.23681,
+    "lng": -3.32006
+  },
+  {
+    "name": "Diatokro",
+    "country": "CI",
+    "lat": 5.39545,
+    "lng": -3.34407
+  },
+  {
+    "name": "Diéhiba",
+    "country": "CI",
+    "lat": 6.90152,
+    "lng": -7.41376
+  },
+  {
+    "name": "Dibobli",
+    "country": "CI",
+    "lat": 6.73952,
+    "lng": -7.02156
+  },
+  {
+    "name": "Diassa",
+    "country": "CI",
+    "lat": 6.41587,
+    "lng": -6.69652
+  },
+  {
+    "name": "Diangokro",
+    "country": "CI",
+    "lat": 6.75991,
+    "lng": -4.58476
+  },
+  {
+    "name": "Dieviessou",
+    "country": "CI",
+    "lat": 7.565,
+    "lng": -5.61574
+  },
+  {
+    "name": "Digbeugnoa",
+    "country": "CI",
+    "lat": 6.1415,
+    "lng": -6.06404
+  },
+  {
+    "name": "Dioulabougou-Boléko",
+    "country": "CI",
+    "lat": 5.35444,
+    "lng": -5.16966
+  },
+  {
+    "name": "Dida-N'Glossou",
+    "country": "CI",
+    "lat": 6.4417,
+    "lng": -4.74909
+  },
+  {
+    "name": "Diébly",
+    "country": "CI",
+    "lat": 7.10352,
+    "lng": -7.22019
+  },
+  {
+    "name": "Dimata",
+    "country": "CI",
+    "lat": 7.53137,
+    "lng": -6.36337
+  },
+  {
+    "name": "Diloboua",
+    "country": "CI",
+    "lat": 6.53252,
+    "lng": -6.31716
+  },
+  {
+    "name": "Diacohou-Sud",
+    "country": "CI",
+    "lat": 6.78794,
+    "lng": -5.87103
+  },
+  {
+    "name": "Diérissonkaha",
+    "country": "CI",
+    "lat": 9.46979,
+    "lng": -5.53591
+  },
+  {
+    "name": "Diarratiédougou",
+    "country": "CI",
+    "lat": 10.00665,
+    "lng": -5.25154
+  },
+  {
+    "name": "Dibri-Assirikro",
+    "country": "CI",
+    "lat": 7.58913,
+    "lng": -5.16783
+  },
+  {
+    "name": "Diétiguisso",
+    "country": "CI",
+    "lat": 8.37964,
+    "lng": -5.76992
+  },
+  {
+    "name": "Dienfé",
+    "country": "CI",
+    "lat": 7.93681,
+    "lng": -6.96942
+  },
+  {
+    "name": "Dihintédouo",
+    "country": "CI",
+    "lat": 8.75526,
+    "lng": -3.03941
+  },
+  {
+    "name": "Diezué",
+    "country": "CI",
+    "lat": 7.9789,
+    "lng": -3.88231
+  },
+  {
+    "name": "Dimandougou",
+    "country": "CI",
+    "lat": 8.01204,
+    "lng": -3.77288
+  },
+  {
+    "name": "Diego de Almagro",
+    "country": "CL",
+    "lat": -26.39022,
+    "lng": -70.04556
+  },
+  {
+    "name": "Dichato",
+    "country": "CL",
+    "lat": -36.54823,
+    "lng": -72.9352
+  },
+  {
+    "name": "Dizangué",
+    "country": "CM",
+    "lat": 3.76667,
+    "lng": 9.98333
+  },
+  {
+    "name": "Dimako",
+    "country": "CM",
+    "lat": 4.38333,
+    "lng": 13.56667
+  },
+  {
+    "name": "Dibombari",
+    "country": "CM",
+    "lat": 4.1787,
+    "lng": 9.6561
+  },
+  {
+    "name": "Diang",
+    "country": "CM",
+    "lat": 4.25,
+    "lng": 10.01667
+  },
+  {
+    "name": "Dianyang",
+    "country": "CN",
+    "lat": 24.70261,
+    "lng": 99.15919
+  },
+  {
+    "name": "Dingchang",
+    "country": "CN",
+    "lat": 36.76306,
+    "lng": 112.68722
+  },
+  {
+    "name": "Dingcheng",
+    "country": "CN",
+    "lat": 32.12722,
+    "lng": 115.03944
+  },
+  {
+    "name": "Diping",
+    "country": "CN",
+    "lat": 25.76167,
+    "lng": 109.24278
+  },
+  {
+    "name": "Dingzhou",
+    "country": "CN",
+    "lat": 38.51473,
+    "lng": 114.9868
+  },
+  {
+    "name": "Dingxing",
+    "country": "CN",
+    "lat": 39.26423,
+    "lng": 115.79055
+  },
+  {
+    "name": "Dingxi",
+    "country": "CN",
+    "lat": 35.57088,
+    "lng": 104.62303
+  },
+  {
+    "name": "Dingtao",
+    "country": "CN",
+    "lat": 35.07436,
+    "lng": 115.56582
+  },
+  {
+    "name": "Dingshi",
+    "country": "CN",
+    "lat": 28.77549,
+    "lng": 108.54646
+  },
+  {
+    "name": "Dingjia",
+    "country": "CN",
+    "lat": 29.409,
+    "lng": 106.14228
+  },
+  {
+    "name": "Dinghaicun",
+    "country": "CN",
+    "lat": 26.28022,
+    "lng": 119.78964
+  },
+  {
+    "name": "Dingcheng",
+    "country": "CN",
+    "lat": 32.51609,
+    "lng": 117.65952
+  },
+  {
+    "name": "Dingbian",
+    "country": "CN",
+    "lat": 37.59266,
+    "lng": 107.59428
+  },
+  {
+    "name": "Dingcheng",
+    "country": "CN",
+    "lat": 19.67914,
+    "lng": 110.36231
+  },
+  {
+    "name": "Dianbu",
+    "country": "CN",
+    "lat": 31.87308,
+    "lng": 117.45803
+  },
+  {
+    "name": "Dianjun",
+    "country": "CN",
+    "lat": 30.70154,
+    "lng": 111.25991
+  },
+  {
+    "name": "Dianbu",
+    "country": "CN",
+    "lat": 36.70167,
+    "lng": 120.35111
+  },
+  {
+    "name": "Dingtoucun",
+    "country": "CN",
+    "lat": 26.83977,
+    "lng": 119.66111
+  },
+  {
+    "name": "Didao",
+    "country": "CN",
+    "lat": 45.34725,
+    "lng": 130.83693
+  },
+  {
+    "name": "Dingcheng",
+    "country": "CN",
+    "lat": 29.01668,
+    "lng": 111.67575
+  },
+  {
+    "name": "Dianga",
+    "country": "CN",
+    "lat": 34.06363,
+    "lng": 103.21358
+  },
+  {
+    "name": "Dianzi",
+    "country": "CN",
+    "lat": 34.63132,
+    "lng": 103.66482
+  },
+  {
+    "name": "Dianzi",
+    "country": "CN",
+    "lat": 33.22041,
+    "lng": 105.50127
+  },
+  {
+    "name": "Diancun",
+    "country": "CN",
+    "lat": 33.77105,
+    "lng": 105.81809
+  },
+  {
+    "name": "Dingqing",
+    "country": "CN",
+    "lat": 31.41153,
+    "lng": 95.58418
+  },
+  {
+    "name": "Dibao",
+    "country": "CN",
+    "lat": 30.65824,
+    "lng": 108.8954
+  },
+  {
+    "name": "Dianshui",
+    "country": "CN",
+    "lat": 29.28339,
+    "lng": 108.089
+  },
+  {
+    "name": "Ditang",
+    "country": "CN",
+    "lat": 29.60539,
+    "lng": 108.21712
+  },
+  {
+    "name": "Diaoyucheng",
+    "country": "CN",
+    "lat": 29.99878,
+    "lng": 106.26613
+  },
+  {
+    "name": "Dizhuang",
+    "country": "CN",
+    "lat": 33.56452,
+    "lng": 114.06965
+  },
+  {
+    "name": "Diecai",
+    "country": "CN",
+    "lat": 25.31639,
+    "lng": 110.2982
+  },
+  {
+    "name": "Dianzi",
+    "country": "CN",
+    "lat": 36.9011,
+    "lng": 119.86572
+  },
+  {
+    "name": "Dingshan",
+    "country": "CN",
+    "lat": 28.7095,
+    "lng": 106.58835
+  },
+  {
+    "name": "Distracción",
+    "country": "CO",
+    "lat": 10.89784,
+    "lng": -72.88666
+  },
+  {
+    "name": "Dibulla",
+    "country": "CO",
+    "lat": 11.27251,
+    "lng": -73.30911
+  },
+  {
+    "name": "Diez de Octubre",
+    "country": "CU",
+    "lat": 23.0881,
+    "lng": -82.3597
+  },
+  {
+    "name": "Divišov",
+    "country": "CZ",
+    "lat": 49.78849,
+    "lng": 14.87579
+  },
+  {
+    "name": "Ditzingen",
+    "country": "DE",
+    "lat": 48.82672,
+    "lng": 9.06703
+  },
+  {
+    "name": "Dittenheim",
+    "country": "DE",
+    "lat": 49.05536,
+    "lng": 10.79201
+  },
+  {
+    "name": "Dittelbrunn",
+    "country": "DE",
+    "lat": 50.07212,
+    "lng": 10.21974
+  },
+  {
+    "name": "Ditfurt",
+    "country": "DE",
+    "lat": 51.83333,
+    "lng": 11.2
+  },
+  {
+    "name": "Dissen",
+    "country": "DE",
+    "lat": 52.11591,
+    "lng": 8.19956
+  },
+  {
+    "name": "Dischingen",
+    "country": "DE",
+    "lat": 48.7,
+    "lng": 10.36667
+  },
+  {
+    "name": "Dirmstein",
+    "country": "DE",
+    "lat": 49.56333,
+    "lng": 8.24472
+  },
+  {
+    "name": "Dirlewang",
+    "country": "DE",
+    "lat": 48.00195,
+    "lng": 10.50306
+  },
+  {
+    "name": "Dippoldiswalde",
+    "country": "DE",
+    "lat": 50.89621,
+    "lng": 13.66905
+  },
+  {
+    "name": "Dipperz",
+    "country": "DE",
+    "lat": 50.54333,
+    "lng": 9.79586
+  },
+  {
+    "name": "Dippach",
+    "country": "DE",
+    "lat": 50.91959,
+    "lng": 10.04236
+  },
+  {
+    "name": "Dinslaken",
+    "country": "DE",
+    "lat": 51.56227,
+    "lng": 6.7434
+  },
+  {
+    "name": "Dinklage",
+    "country": "DE",
+    "lat": 52.66223,
+    "lng": 8.1244
+  },
+  {
+    "name": "Dinkelscherben",
+    "country": "DE",
+    "lat": 48.34826,
+    "lng": 10.58893
+  },
+  {
+    "name": "Dinkelsbühl",
+    "country": "DE",
+    "lat": 49.06942,
+    "lng": 10.31985
+  },
+  {
+    "name": "Dingolshausen",
+    "country": "DE",
+    "lat": 49.9071,
+    "lng": 10.39032
+  },
+  {
+    "name": "Dingolfing",
+    "country": "DE",
+    "lat": 48.64244,
+    "lng": 12.49283
+  },
+  {
+    "name": "Dingelstädt",
+    "country": "DE",
+    "lat": 51.31529,
+    "lng": 10.3174
+  },
+  {
+    "name": "Dingelsdorf",
+    "country": "DE",
+    "lat": 47.73932,
+    "lng": 9.15582
+  },
+  {
+    "name": "Dillingen an der Donau",
+    "country": "DE",
+    "lat": 48.58153,
+    "lng": 10.49527
+  },
+  {
+    "name": "Dillingen",
+    "country": "DE",
+    "lat": 49.35557,
+    "lng": 6.72781
+  },
+  {
+    "name": "Dillenburg",
+    "country": "DE",
+    "lat": 50.74114,
+    "lng": 8.28699
+  },
+  {
+    "name": "Diez",
+    "country": "DE",
+    "lat": 50.37419,
+    "lng": 8.00735
+  },
+  {
+    "name": "Dietzenbach",
+    "country": "DE",
+    "lat": 50.00976,
+    "lng": 8.77783
+  },
+  {
+    "name": "Dietramszell",
+    "country": "DE",
+    "lat": 47.84871,
+    "lng": 11.5953
+  },
+  {
+    "name": "Dietmannsried",
+    "country": "DE",
+    "lat": 47.80787,
+    "lng": 10.28948
+  },
+  {
+    "name": "Dietingen",
+    "country": "DE",
+    "lat": 48.2048,
+    "lng": 8.64864
+  },
+  {
+    "name": "Dietfurt",
+    "country": "DE",
+    "lat": 49.03578,
+    "lng": 11.58624
+  },
+  {
+    "name": "Dieterskirchen",
+    "country": "DE",
+    "lat": 49.41667,
+    "lng": 12.41667
+  },
+  {
+    "name": "Dietersheim",
+    "country": "DE",
+    "lat": 49.55631,
+    "lng": 10.54074
+  },
+  {
+    "name": "Dietersburg",
+    "country": "DE",
+    "lat": 48.49249,
+    "lng": 12.92499
+  },
+  {
+    "name": "Dietenhofen",
+    "country": "DE",
+    "lat": 49.39997,
+    "lng": 10.68975
+  },
+  {
+    "name": "Dietenheim",
+    "country": "DE",
+    "lat": 48.21072,
+    "lng": 10.07163
+  },
+  {
+    "name": "Dießen am Ammersee",
+    "country": "DE",
+    "lat": 47.95085,
+    "lng": 11.10306
+  },
+  {
+    "name": "Diespeck",
+    "country": "DE",
+    "lat": 49.6,
+    "lng": 10.63333
+  },
+  {
+    "name": "Dieskau",
+    "country": "DE",
+    "lat": 51.43553,
+    "lng": 12.04035
+  },
+  {
+    "name": "Diesdorf",
+    "country": "DE",
+    "lat": 52.13075,
+    "lng": 11.56483
+  },
+  {
+    "name": "Dierdorf",
+    "country": "DE",
+    "lat": 50.54647,
+    "lng": 7.65271
+  },
+  {
+    "name": "Diepholz",
+    "country": "DE",
+    "lat": 52.60783,
+    "lng": 8.37005
+  },
+  {
+    "name": "Dienheim",
+    "country": "DE",
+    "lat": 49.83722,
+    "lng": 8.34972
+  },
+  {
+    "name": "Dielheim",
+    "country": "DE",
+    "lat": 49.28417,
+    "lng": 8.73806
+  },
+  {
+    "name": "Diekholzen",
+    "country": "DE",
+    "lat": 52.09617,
+    "lng": 9.91945
+  },
+  {
+    "name": "Diedorf",
+    "country": "DE",
+    "lat": 48.3532,
+    "lng": 10.78206
+  },
+  {
+    "name": "Dieburg",
+    "country": "DE",
+    "lat": 49.89738,
+    "lng": 8.84613
+  },
+  {
+    "name": "Dieblich",
+    "country": "DE",
+    "lat": 50.31396,
+    "lng": 7.47185
+  },
+  {
+    "name": "Diebach",
+    "country": "DE",
+    "lat": 49.30912,
+    "lng": 10.19188
+  },
+  {
+    "name": "Didderse",
+    "country": "DE",
+    "lat": 52.38042,
+    "lng": 10.40294
+  },
+  {
+    "name": "Dibbesdorf",
+    "country": "DE",
+    "lat": 52.30092,
+    "lng": 10.60213
+  },
+  {
+    "name": "Dittelsheim-Heßloch",
+    "country": "DE",
+    "lat": 49.74389,
+    "lng": 8.23694
+  },
+  {
+    "name": "Dierkow-Neu",
+    "country": "DE",
+    "lat": 54.10571,
+    "lng": 12.16753
+  },
+  {
+    "name": "Dierkow-West",
+    "country": "DE",
+    "lat": 54.10608,
+    "lng": 12.15041
+  },
+  {
+    "name": "Dikhil",
+    "country": "DJ",
+    "lat": 11.10454,
+    "lng": 42.36971
+  },
+  {
+    "name": "Dianalund",
+    "country": "DK",
+    "lat": 55.53133,
+    "lng": 11.4925
+  },
+  {
+    "name": "Didouche Mourad",
+    "country": "DZ",
+    "lat": 36.4525,
+    "lng": 6.63639
+  },
+  {
+    "name": "District of Taher",
+    "country": "DZ",
+    "lat": 36.772,
+    "lng": 5.8982
+  },
+  {
+    "name": "Diez de Agosto",
+    "country": "EC",
+    "lat": -1.45829,
+    "lng": -77.90637
+  },
+  {
+    "name": "Diyarb Najm",
+    "country": "EG",
+    "lat": 30.75438,
+    "lng": 31.44016
+  },
+  {
+    "name": "Disūq",
+    "country": "EG",
+    "lat": 31.13259,
+    "lng": 30.64784
+  },
+  {
+    "name": "Dishnā",
+    "country": "EG",
+    "lat": 26.12242,
+    "lng": 32.46749
+  },
+  {
+    "name": "Dikirnis",
+    "country": "EG",
+    "lat": 31.08898,
+    "lng": 31.59478
+  },
+  {
+    "name": "Diezma",
+    "country": "ES",
+    "lat": 37.31982,
+    "lng": -3.33256
+  },
+  {
+    "name": "Dios le Guarde",
+    "country": "ES",
+    "lat": 40.64283,
+    "lng": -6.31511
+  },
+  {
+    "name": "Dicastillo",
+    "country": "ES",
+    "lat": 42.59647,
+    "lng": -2.02666
+  },
+  {
+    "name": "Diagonal Mar",
+    "country": "ES",
+    "lat": 41.40897,
+    "lng": 2.21615
+  },
+  {
+    "name": "Dire Dawa",
+    "country": "ET",
+    "lat": 9.59306,
+    "lng": 41.86611
+  },
+  {
+    "name": "Dibate",
+    "country": "ET",
+    "lat": 10.65,
+    "lng": 36.21667
+  },
+  {
+    "name": "Digih Habar Es",
+    "country": "ET",
+    "lat": 6.44258,
+    "lng": 45.98329
+  },
+  {
+    "name": "Dimtu",
+    "country": "ET",
+    "lat": 6.92969,
+    "lng": 38.12513
+  },
+  {
+    "name": "Dizy",
+    "country": "FR",
+    "lat": 49.06667,
+    "lng": 3.96667
+  },
+  {
+    "name": "Divonne-les-Bains",
+    "country": "FR",
+    "lat": 46.3571,
+    "lng": 6.13494
+  },
+  {
+    "name": "Divion",
+    "country": "FR",
+    "lat": 50.47169,
+    "lng": 2.50546
+  },
+  {
+    "name": "Dives-sur-Mer",
+    "country": "FR",
+    "lat": 49.28176,
+    "lng": -0.10125
+  },
+  {
+    "name": "Distroff",
+    "country": "FR",
+    "lat": 49.33295,
+    "lng": 6.26662
+  },
+  {
+    "name": "Distré",
+    "country": "FR",
+    "lat": 47.22298,
+    "lng": -0.11073
+  },
+  {
+    "name": "Dissay",
+    "country": "FR",
+    "lat": 46.70065,
+    "lng": 0.43166
+  },
+  {
+    "name": "Dirinon",
+    "country": "FR",
+    "lat": 48.39805,
+    "lng": -4.2705
+  },
+  {
+    "name": "Dirac",
+    "country": "FR",
+    "lat": 45.6043,
+    "lng": 0.24755
+  },
+  {
+    "name": "Diou",
+    "country": "FR",
+    "lat": 46.53432,
+    "lng": 3.74453
+  },
+  {
+    "name": "Dinsheim-sur-Bruche",
+    "country": "FR",
+    "lat": 48.54258,
+    "lng": 7.42727
+  },
+  {
+    "name": "Dingy-Saint-Clair",
+    "country": "FR",
+    "lat": 45.90664,
+    "lng": 6.22554
+  },
+  {
+    "name": "Dingsheim",
+    "country": "FR",
+    "lat": 48.63053,
+    "lng": 7.66932
+  },
+  {
+    "name": "Dingé",
+    "country": "FR",
+    "lat": 48.3573,
+    "lng": -1.71596
+  },
+  {
+    "name": "Dinéault",
+    "country": "FR",
+    "lat": 48.21931,
+    "lng": -4.16547
+  },
+  {
+    "name": "Dinard",
+    "country": "FR",
+    "lat": 48.63293,
+    "lng": -2.06274
+  },
+  {
+    "name": "Dinan",
+    "country": "FR",
+    "lat": 48.45553,
+    "lng": -2.05049
+  },
+  {
+    "name": "Dijon",
+    "country": "FR",
+    "lat": 47.31344,
+    "lng": 5.01391
+  },
+  {
+    "name": "Digosville",
+    "country": "FR",
+    "lat": 49.63104,
+    "lng": -1.52627
+  },
+  {
+    "name": "Digoin",
+    "country": "FR",
+    "lat": 46.48124,
+    "lng": 3.97946
+  },
+  {
+    "name": "Digne-les-Bains",
+    "country": "FR",
+    "lat": 44.09252,
+    "lng": 6.23199
+  },
+  {
+    "name": "Dignac",
+    "country": "FR",
+    "lat": 45.55587,
+    "lng": 0.27941
+  },
+  {
+    "name": "Diges",
+    "country": "FR",
+    "lat": 47.72862,
+    "lng": 3.39786
+  },
+  {
+    "name": "Dieuze",
+    "country": "FR",
+    "lat": 48.81263,
+    "lng": 6.7178
+  },
+  {
+    "name": "Dieulouard",
+    "country": "FR",
+    "lat": 48.84137,
+    "lng": 6.06782
+  },
+  {
+    "name": "Dieulefit",
+    "country": "FR",
+    "lat": 44.52563,
+    "lng": 5.0618
+  },
+  {
+    "name": "Dieue-sur-Meuse",
+    "country": "FR",
+    "lat": 49.072,
+    "lng": 5.42248
+  },
+  {
+    "name": "Dietwiller",
+    "country": "FR",
+    "lat": 47.69278,
+    "lng": 7.403
+  },
+  {
+    "name": "Diesen",
+    "country": "FR",
+    "lat": 49.17818,
+    "lng": 6.67798
+  },
+  {
+    "name": "Dieppe",
+    "country": "FR",
+    "lat": 49.9216,
+    "lng": 1.07772
+  },
+  {
+    "name": "Diémoz",
+    "country": "FR",
+    "lat": 45.59099,
+    "lng": 5.08884
+  },
+  {
+    "name": "Diemeringen",
+    "country": "FR",
+    "lat": 48.94013,
+    "lng": 7.18839
+  },
+  {
+    "name": "Diebling",
+    "country": "FR",
+    "lat": 49.10966,
+    "lng": 6.93974
+  },
+  {
+    "name": "Die",
+    "country": "FR",
+    "lat": 44.7536,
+    "lng": 5.37033
+  },
+  {
+    "name": "Didenheim",
+    "country": "FR",
+    "lat": 47.71866,
+    "lng": 7.30157
+  },
+  {
+    "name": "Ditchling",
+    "country": "GB",
+    "lat": 50.921,
+    "lng": -0.11536
+  },
+  {
+    "name": "Ditchingham",
+    "country": "GB",
+    "lat": 52.46729,
+    "lng": 1.4437
+  },
+  {
+    "name": "Distington",
+    "country": "GB",
+    "lat": 54.59733,
+    "lng": -3.5388
+  },
+  {
+    "name": "Diss",
+    "country": "GB",
+    "lat": 52.37675,
+    "lng": 1.1091
+  },
+  {
+    "name": "Disley",
+    "country": "GB",
+    "lat": 53.35865,
+    "lng": -2.03848
+  },
+  {
+    "name": "Dinton",
+    "country": "GB",
+    "lat": 51.08333,
+    "lng": -1.98333
+  },
+  {
+    "name": "Dinnington",
+    "country": "GB",
+    "lat": 55.05428,
+    "lng": -1.67542
+  },
+  {
+    "name": "Dinnington",
+    "country": "GB",
+    "lat": 53.36667,
+    "lng": -1.2
+  },
+  {
+    "name": "Dinmore",
+    "country": "GB",
+    "lat": 52.15,
+    "lng": -2.75
+  },
+  {
+    "name": "Dingwall",
+    "country": "GB",
+    "lat": 57.59531,
+    "lng": -4.42721
+  },
+  {
+    "name": "Dingle",
+    "country": "GB",
+    "lat": 53.37908,
+    "lng": -2.96029
+  },
+  {
+    "name": "Dinas Powys",
+    "country": "GB",
+    "lat": 51.43486,
+    "lng": -3.21398
+  },
+  {
+    "name": "Diggle",
+    "country": "GB",
+    "lat": 53.56744,
+    "lng": -1.99723
+  },
+  {
+    "name": "Didcot",
+    "country": "GB",
+    "lat": 51.60928,
+    "lng": -1.24214
+  },
+  {
+    "name": "Dickleburgh",
+    "country": "GB",
+    "lat": 52.3965,
+    "lng": 1.18498
+  },
+  {
+    "name": "Didsbury",
+    "country": "GB",
+    "lat": 53.41698,
+    "lng": -2.23145
+  },
+  {
+    "name": "Ditton Hill",
+    "country": "GB",
+    "lat": 51.37947,
+    "lng": -0.31281
+  },
+  {
+    "name": "Dickens Heath",
+    "country": "GB",
+    "lat": 52.38568,
+    "lng": -1.83935
+  },
+  {
+    "name": "Diok’nisi",
+    "country": "GE",
+    "lat": 41.62933,
+    "lng": 42.39171
+  },
+  {
+    "name": "Didi Lilo",
+    "country": "GE",
+    "lat": 41.73611,
+    "lng": 44.96472
+  },
+  {
+    "name": "Dippa Kunda",
+    "country": "GM",
+    "lat": 13.44028,
+    "lng": -16.68694
+  },
+  {
+    "name": "Diabugu Basilla",
+    "country": "GM",
+    "lat": 13.33333,
+    "lng": -13.95
+  },
+  {
+    "name": "Diabugu",
+    "country": "GM",
+    "lat": 13.38333,
+    "lng": -14.4
+  },
+  {
+    "name": "Dinguiraye",
+    "country": "GN",
+    "lat": 11.29062,
+    "lng": -10.7121
+  },
+  {
+    "name": "Dialakoro",
+    "country": "GN",
+    "lat": 11.4405,
+    "lng": -8.8884
+  },
+  {
+    "name": "Diomabana",
+    "country": "GN",
+    "lat": 11.26236,
+    "lng": -9.13164
+  },
+  {
+    "name": "Diónysos",
+    "country": "GR",
+    "lat": 38.10458,
+    "lng": 23.87938
+  },
+  {
+    "name": "Dimitsána",
+    "country": "GR",
+    "lat": 37.59524,
+    "lng": 22.04025
+  },
+  {
+    "name": "Diakoptó",
+    "country": "GR",
+    "lat": 38.19522,
+    "lng": 22.19994
+  },
+  {
+    "name": "Didymóteicho",
+    "country": "GR",
+    "lat": 41.349,
+    "lng": 26.49377
+  },
+  {
+    "name": "Diavatós",
+    "country": "GR",
+    "lat": 40.54606,
+    "lng": 22.26686
+  },
+  {
+    "name": "Diavatá",
+    "country": "GR",
+    "lat": 40.68744,
+    "lng": 22.85799
+  },
+  {
+    "name": "Dióni",
+    "country": "GR",
+    "lat": 38.02328,
+    "lng": 23.93286
+  },
+  {
+    "name": "Discovery Bay",
+    "country": "HK",
+    "lat": 22.3,
+    "lng": 114.01667
+  },
+  {
+    "name": "Discovery Park",
+    "country": "HK",
+    "lat": 22.37621,
+    "lng": 114.11141
+  },
+  {
+    "name": "Dicmo Kraj",
+    "country": "HR",
+    "lat": 43.6375,
+    "lng": 16.58194
+  },
+  {
+    "name": "Diósgyőr",
+    "country": "HU",
+    "lat": 48.1,
+    "lng": 20.68333
+  },
+  {
+    "name": "Diósjenő",
+    "country": "HU",
+    "lat": 47.93968,
+    "lng": 19.04317
+  },
+  {
+    "name": "Diósd",
+    "country": "HU",
+    "lat": 47.4095,
+    "lng": 18.94898
+  },
+  {
+    "name": "Diwek",
+    "country": "ID",
+    "lat": -7.57897,
+    "lng": 112.23109
+  },
+  {
+    "name": "Dibee",
+    "country": "ID",
+    "lat": -6.9996,
+    "lng": 112.3896
+  },
+  {
+    "name": "Dingle",
+    "country": "IE",
+    "lat": 52.14083,
+    "lng": -10.26889
+  },
+  {
+    "name": "Dimona",
+    "country": "IL",
+    "lat": 31.07079,
+    "lng": 35.03269
+  },
+  {
+    "name": "Diyodar",
+    "country": "IN",
+    "lat": 24.10871,
+    "lng": 71.77401
+  },
+  {
+    "name": "Diu",
+    "country": "IN",
+    "lat": 20.71405,
+    "lng": 70.98224
+  },
+  {
+    "name": "Dispur",
+    "country": "IN",
+    "lat": 26.13564,
+    "lng": 91.80069
+  },
+  {
+    "name": "Dirba",
+    "country": "IN",
+    "lat": 30.07222,
+    "lng": 75.99607
+  },
+  {
+    "name": "Dirāng",
+    "country": "IN",
+    "lat": 27.33333,
+    "lng": 92.26667
+  },
+  {
+    "name": "Diphu",
+    "country": "IN",
+    "lat": 25.84341,
+    "lng": 93.43116
+  },
+  {
+    "name": "Dindori",
+    "country": "IN",
+    "lat": 22.94141,
+    "lng": 81.07975
+  },
+  {
+    "name": "Dindigul",
+    "country": "IN",
+    "lat": 10.36896,
+    "lng": 77.98036
+  },
+  {
+    "name": "Dimāpur",
+    "country": "IN",
+    "lat": 25.91174,
+    "lng": 93.7217
+  },
+  {
+    "name": "Diguvametta",
+    "country": "IN",
+    "lat": 15.39507,
+    "lng": 78.8293
+  },
+  {
+    "name": "Digras",
+    "country": "IN",
+    "lat": 20.1035,
+    "lng": 77.71846
+  },
+  {
+    "name": "Diglipur",
+    "country": "IN",
+    "lat": 13.26667,
+    "lng": 93.0
+  },
+  {
+    "name": "Dighwāra",
+    "country": "IN",
+    "lat": 25.74434,
+    "lng": 85.01003
+  },
+  {
+    "name": "Digha",
+    "country": "IN",
+    "lat": 21.62776,
+    "lng": 87.51965
+  },
+  {
+    "name": "Digboi",
+    "country": "IN",
+    "lat": 27.39321,
+    "lng": 95.61839
+  },
+  {
+    "name": "Digapahandi",
+    "country": "IN",
+    "lat": 19.37275,
+    "lng": 84.57184
+  },
+  {
+    "name": "Dibrugarh",
+    "country": "IN",
+    "lat": 27.47989,
+    "lng": 94.90837
+  },
+  {
+    "name": "Dibai",
+    "country": "IN",
+    "lat": 28.20849,
+    "lng": 78.26173
+  },
+  {
+    "name": "Diamond Harbour",
+    "country": "IN",
+    "lat": 22.19268,
+    "lng": 88.18951
+  },
+  {
+    "name": "Dinapore",
+    "country": "IN",
+    "lat": 25.63705,
+    "lng": 85.04794
+  },
+  {
+    "name": "Dih",
+    "country": "IN",
+    "lat": 26.14264,
+    "lng": 81.40856
+  },
+  {
+    "name": "Diwākari",
+    "country": "IN",
+    "lat": 27.55525,
+    "lng": 76.65943
+  },
+  {
+    "name": "Dighāwāni",
+    "country": "IN",
+    "lat": 22.20606,
+    "lng": 78.81348
+  },
+  {
+    "name": "Dimaruguri",
+    "country": "IN",
+    "lat": 26.34515,
+    "lng": 92.71487
+  },
+  {
+    "name": "Digaru Gaon",
+    "country": "IN",
+    "lat": 26.15567,
+    "lng": 91.98704
+  },
+  {
+    "name": "Digheli",
+    "country": "IN",
+    "lat": 26.44009,
+    "lng": 91.45627
+  },
+  {
+    "name": "Digboi Oil Town",
+    "country": "IN",
+    "lat": 27.3885,
+    "lng": 95.61886
+  },
+  {
+    "name": "Dinapur Cantonment",
+    "country": "IN",
+    "lat": 25.63616,
+    "lng": 85.02026
+  },
+  {
+    "name": "Dinapur Nizamat",
+    "country": "IN",
+    "lat": 25.63847,
+    "lng": 85.05118
+  },
+  {
+    "name": "Digvijaygram",
+    "country": "IN",
+    "lat": 22.43185,
+    "lng": 69.83269
+  },
+  {
+    "name": "Diphupar 'A'",
+    "country": "IN",
+    "lat": 25.8578,
+    "lng": 93.76905
+  },
+  {
+    "name": "Dihok",
+    "country": "IQ",
+    "lat": 36.86608,
+    "lng": 42.9879
+  },
+  {
+    "name": "Dibis",
+    "country": "IQ",
+    "lat": 35.67482,
+    "lng": 44.07067
+  },
+  {
+    "name": "Diso",
+    "country": "IT",
+    "lat": 40.00915,
+    "lng": 18.39144
+  },
+  {
+    "name": "Dinami",
+    "country": "IT",
+    "lat": 38.53136,
+    "lng": 16.14461
+  },
+  {
+    "name": "Diamante",
+    "country": "IT",
+    "lat": 39.6807,
+    "lng": 15.82168
+  },
+  {
+    "name": "Dipignano",
+    "country": "IT",
+    "lat": 39.23869,
+    "lng": 16.25184
+  },
+  {
+    "name": "Dizzasco-Biazzeno",
+    "country": "IT",
+    "lat": 45.94378,
+    "lng": 9.09974
+  },
+  {
+    "name": "Divignano",
+    "country": "IT",
+    "lat": 45.66247,
+    "lng": 8.59987
+  },
+  {
+    "name": "Dimaro",
+    "country": "IT",
+    "lat": 46.32573,
+    "lng": 10.87342
+  },
+  {
+    "name": "Dignano",
+    "country": "IT",
+    "lat": 46.08392,
+    "lng": 12.94009
+  },
+  {
+    "name": "Dicomano",
+    "country": "IT",
+    "lat": 43.89267,
+    "lng": 11.52182
+  },
+  {
+    "name": "Diano San Pietro",
+    "country": "IT",
+    "lat": 43.92953,
+    "lng": 8.07249
+  },
+  {
+    "name": "Diano Marina",
+    "country": "IT",
+    "lat": 43.91088,
+    "lng": 8.08029
+  },
+  {
+    "name": "Diano d'Alba",
+    "country": "IT",
+    "lat": 44.65294,
+    "lng": 8.02704
+  },
+  {
+    "name": "Diano Castello",
+    "country": "IT",
+    "lat": 43.92423,
+    "lng": 8.06602
+  },
+  {
+    "name": "Diano Arentino",
+    "country": "IT",
+    "lat": 43.94962,
+    "lng": 8.04155
+  },
+  {
+    "name": "Dimaro-Folgarida",
+    "country": "IT",
+    "lat": 46.33176,
+    "lng": 10.872
+  },
+  {
+    "name": "Discovery Bay",
+    "country": "JM",
+    "lat": 18.45873,
+    "lng": -77.39997
+  },
+  {
+    "name": "Dieppe Bay Town",
+    "country": "KN",
+    "lat": 17.41473,
+    "lng": -62.8139
+  },
+  {
+    "name": "Dippach",
+    "country": "LU",
+    "lat": 49.58701,
+    "lng": 5.9833
+  },
+  {
+    "name": "Differdange",
+    "country": "LU",
+    "lat": 49.52417,
+    "lng": 5.89139
+  },
+  {
+    "name": "Diekirch",
+    "country": "LU",
+    "lat": 49.86687,
+    "lng": 6.15451
+  },
+  {
+    "name": "Diré",
+    "country": "ML",
+    "lat": 16.25705,
+    "lng": -3.40126
+  },
+  {
+    "name": "Diourou",
+    "country": "ML",
+    "lat": 13.68719,
+    "lng": -5.83203
+  },
+  {
+    "name": "Dioïla",
+    "country": "ML",
+    "lat": 12.48735,
+    "lng": -6.80313
+  },
+  {
+    "name": "Diéma",
+    "country": "ML",
+    "lat": 14.54,
+    "lng": -9.1921
+  },
+  {
+    "name": "Dialakorodji",
+    "country": "ML",
+    "lat": 12.70354,
+    "lng": -7.96463
+  },
+  {
+    "name": "Diogountourou",
+    "country": "MR",
+    "lat": 14.77,
+    "lng": -12.2509
+  },
+  {
+    "name": "Diaguily",
+    "country": "MR",
+    "lat": 14.84796,
+    "lng": -12.39271
+  },
+  {
+    "name": "Dingli",
+    "country": "MT",
+    "lat": 35.8615,
+    "lng": 14.38213
+  },
+  {
+    "name": "Dios Padre",
+    "country": "MX",
+    "lat": 20.46469,
+    "lng": -99.20132
+  },
+  {
+    "name": "Diamante de Echeverría",
+    "country": "MX",
+    "lat": 16.11181,
+    "lng": -92.87931
+  },
+  {
+    "name": "Dieciséis de Septiembre",
+    "country": "MX",
+    "lat": 16.29715,
+    "lng": -93.1749
+  },
+  {
+    "name": "División del Norte",
+    "country": "MX",
+    "lat": 18.52946,
+    "lng": -90.76416
+  },
+  {
+    "name": "Dieciocho de Marzo",
+    "country": "MX",
+    "lat": 21.48238,
+    "lng": -101.7988
+  },
+  {
+    "name": "División del Norte",
+    "country": "MX",
+    "lat": 19.08193,
+    "lng": -102.61218
+  },
+  {
+    "name": "Divisaderos",
+    "country": "MX",
+    "lat": 29.6148,
+    "lng": -109.46964
+  },
+  {
+    "name": "Diez de Octubre",
+    "country": "MX",
+    "lat": 24.72876,
+    "lng": -104.63687
+  },
+  {
+    "name": "Dieciocho de Marzo",
+    "country": "MX",
+    "lat": 19.23138,
+    "lng": -102.7057
+  },
+  {
+    "name": "Dios Padre",
+    "country": "MX",
+    "lat": 19.61474,
+    "lng": -100.06499
+  },
+  {
+    "name": "Dioundiou",
+    "country": "NE",
+    "lat": 12.61677,
+    "lng": 3.54427
+  },
+  {
+    "name": "Diffa",
+    "country": "NE",
+    "lat": 13.31536,
+    "lng": 12.61135
+  },
+  {
+    "name": "Disina",
+    "country": "NG",
+    "lat": 11.48135,
+    "lng": 9.91903
+  },
+  {
+    "name": "Dindima",
+    "country": "NG",
+    "lat": 10.22629,
+    "lng": 10.15132
+  },
+  {
+    "name": "Dikwa",
+    "country": "NG",
+    "lat": 12.03609,
+    "lng": 13.91815
+  },
+  {
+    "name": "Dikenafai",
+    "country": "NG",
+    "lat": 5.77015,
+    "lng": 7.15473
+  },
+  {
+    "name": "Diriomo",
+    "country": "NI",
+    "lat": 11.87631,
+    "lng": -86.05184
+  },
+  {
+    "name": "Diriamba",
+    "country": "NI",
+    "lat": 11.85812,
+    "lng": -86.23922
+  },
+  {
+    "name": "Diriá",
+    "country": "NI",
+    "lat": 11.8842,
+    "lng": -86.05508
+  },
+  {
+    "name": "Dipilto",
+    "country": "NI",
+    "lat": 13.72106,
+    "lng": -86.50619
+  },
+  {
+    "name": "Dirksland",
+    "country": "NL",
+    "lat": 51.74917,
+    "lng": 4.1
+  },
+  {
+    "name": "Dirkshorn",
+    "country": "NL",
+    "lat": 52.75,
+    "lng": 4.775
+  },
+  {
+    "name": "Dinteloord",
+    "country": "NL",
+    "lat": 51.635,
+    "lng": 4.36944
+  },
+  {
+    "name": "Diever",
+    "country": "NL",
+    "lat": 52.85417,
+    "lng": 6.31806
+  },
+  {
+    "name": "Diessen",
+    "country": "NL",
+    "lat": 51.47583,
+    "lng": 5.175
+  },
+  {
+    "name": "Dieren",
+    "country": "NL",
+    "lat": 52.0512,
+    "lng": 6.103
+  },
+  {
+    "name": "Diepenheim",
+    "country": "NL",
+    "lat": 52.2,
+    "lng": 6.55556
+  },
+  {
+    "name": "Diemen",
+    "country": "NL",
+    "lat": 52.33964,
+    "lng": 4.96256
+  },
+  {
+    "name": "Dipayal",
+    "country": "NP",
+    "lat": 29.26083,
+    "lng": 80.94
+  },
+  {
+    "name": "Dihi",
+    "country": "NP",
+    "lat": 27.87552,
+    "lng": 83.92759
+  },
+  {
+    "name": "Diamond Harbour",
+    "country": "NZ",
+    "lat": -43.62888,
+    "lng": 172.7254
+  },
+  {
+    "name": "Dib Dibba",
+    "country": "OM",
+    "lat": 26.19778,
+    "lng": 56.25778
+  },
+  {
+    "name": "Divalá",
+    "country": "PA",
+    "lat": 8.41289,
+    "lng": -82.71367
+  },
+  {
+    "name": "Divisoria",
+    "country": "PH",
+    "lat": 17.52268,
+    "lng": 121.77421
+  },
+  {
+    "name": "Ditsaan",
+    "country": "PH",
+    "lat": 7.97889,
+    "lng": 124.35111
+  },
+  {
+    "name": "Disod",
+    "country": "PH",
+    "lat": 8.2611,
+    "lng": 123.0169
+  },
+  {
+    "name": "Dipolog",
+    "country": "PH",
+    "lat": 8.56697,
+    "lng": 123.33471
+  },
+  {
+    "name": "Diplahan",
+    "country": "PH",
+    "lat": 7.71667,
+    "lng": 123.01667
+  },
+  {
+    "name": "Dipolo",
+    "country": "PH",
+    "lat": 7.7828,
+    "lng": 123.1158
+  },
+  {
+    "name": "Dingras",
+    "country": "PH",
+    "lat": 18.1032,
+    "lng": 120.6967
+  },
+  {
+    "name": "Dingle",
+    "country": "PH",
+    "lat": 10.9995,
+    "lng": 122.6711
+  },
+  {
+    "name": "Dinganen",
+    "country": "PH",
+    "lat": 7.32833,
+    "lng": 124.37833
+  },
+  {
+    "name": "Dingalan",
+    "country": "PH",
+    "lat": 15.3897,
+    "lng": 121.3929
+  },
+  {
+    "name": "Dinalupihan",
+    "country": "PH",
+    "lat": 14.87827,
+    "lng": 120.45221
+  },
+  {
+    "name": "Dinalongan",
+    "country": "PH",
+    "lat": 16.1404,
+    "lng": 121.9573
+  },
+  {
+    "name": "Dinaig",
+    "country": "PH",
+    "lat": 7.16985,
+    "lng": 124.20836
+  },
+  {
+    "name": "Dinahican",
+    "country": "PH",
+    "lat": 14.71667,
+    "lng": 121.71667
+  },
+  {
+    "name": "Dinagat",
+    "country": "PH",
+    "lat": 9.95611,
+    "lng": 125.59333
+  },
+  {
+    "name": "Dimiao",
+    "country": "PH",
+    "lat": 9.6064,
+    "lng": 124.1633
+  },
+  {
+    "name": "Dimayon",
+    "country": "PH",
+    "lat": 8.06667,
+    "lng": 124.15
+  },
+  {
+    "name": "Dimataling",
+    "country": "PH",
+    "lat": 7.5344,
+    "lng": 123.3738
+  },
+  {
+    "name": "Dimasalang",
+    "country": "PH",
+    "lat": 12.1923,
+    "lng": 123.8592
+  },
+  {
+    "name": "Dimaluna",
+    "country": "PH",
+    "lat": 8.1218,
+    "lng": 123.7995
+  },
+  {
+    "name": "Diliman Primero",
+    "country": "PH",
+    "lat": 15.0247,
+    "lng": 120.95208
+  },
+  {
+    "name": "Dilan",
+    "country": "PH",
+    "lat": 16.0879,
+    "lng": 120.5207
+  },
+  {
+    "name": "Digos",
+    "country": "PH",
+    "lat": 6.74972,
+    "lng": 125.35722
+  },
+  {
+    "name": "Digkilaan",
+    "country": "PH",
+    "lat": 8.25111,
+    "lng": 124.31722
+  },
+  {
+    "name": "Digdig",
+    "country": "PH",
+    "lat": 15.949,
+    "lng": 120.9778
+  },
+  {
+    "name": "Digal",
+    "country": "PH",
+    "lat": 6.75306,
+    "lng": 124.79639
+  },
+  {
+    "name": "Diffun",
+    "country": "PH",
+    "lat": 16.59,
+    "lng": 121.5057
+  },
+  {
+    "name": "Dicayong",
+    "country": "PH",
+    "lat": 8.2206,
+    "lng": 123.0338
+  },
+  {
+    "name": "Dicamay",
+    "country": "PH",
+    "lat": 16.75606,
+    "lng": 122.00374
+  },
+  {
+    "name": "Dicabisagan",
+    "country": "PH",
+    "lat": 17.08184,
+    "lng": 122.41574
+  },
+  {
+    "name": "Dibuluan",
+    "country": "PH",
+    "lat": 16.51907,
+    "lng": 121.76472
+  },
+  {
+    "name": "Diaz",
+    "country": "PH",
+    "lat": 15.8463,
+    "lng": 120.8347
+  },
+  {
+    "name": "Dian-ay",
+    "country": "PH",
+    "lat": 10.83333,
+    "lng": 123.55
+  },
+  {
+    "name": "Diamantina",
+    "country": "PH",
+    "lat": 16.91795,
+    "lng": 121.62674
+  },
+  {
+    "name": "Diadi",
+    "country": "PH",
+    "lat": 16.7262,
+    "lng": 121.3589
+  },
+  {
+    "name": "Dittewal",
+    "country": "PK",
+    "lat": 32.5969,
+    "lng": 73.9905
+  },
+  {
+    "name": "Diplo",
+    "country": "PK",
+    "lat": 24.46688,
+    "lng": 69.58114
+  },
+  {
+    "name": "Dipalpur",
+    "country": "PK",
+    "lat": 30.66984,
+    "lng": 73.65306
+  },
+  {
+    "name": "Dinan Bashnoian Wala",
+    "country": "PK",
+    "lat": 29.76584,
+    "lng": 73.26557
+  },
+  {
+    "name": "Dinga",
+    "country": "PK",
+    "lat": 32.64101,
+    "lng": 73.72039
+  },
+  {
+    "name": "Dijkot",
+    "country": "PK",
+    "lat": 31.21735,
+    "lng": 72.99621
+  },
+  {
+    "name": "Digri",
+    "country": "PK",
+    "lat": 25.15657,
+    "lng": 69.11098
+  },
+  {
+    "name": "Ditrău",
+    "country": "RO",
+    "lat": 46.81667,
+    "lng": 25.51667
+  },
+  {
+    "name": "Dițești",
+    "country": "RO",
+    "lat": 44.9799,
+    "lng": 25.72655
+  },
+  {
+    "name": "Dioşti",
+    "country": "RO",
+    "lat": 44.11667,
+    "lng": 24.18333
+  },
+  {
+    "name": "Dioșod",
+    "country": "RO",
+    "lat": 47.29238,
+    "lng": 23.02099
+  },
+  {
+    "name": "Diosig",
+    "country": "RO",
+    "lat": 47.3,
+    "lng": 22.0
+  },
+  {
+    "name": "Dimăcheni",
+    "country": "RO",
+    "lat": 47.91139,
+    "lng": 26.5456
+  },
+  {
+    "name": "Dieci",
+    "country": "RO",
+    "lat": 46.31667,
+    "lng": 22.25
+  },
+  {
+    "name": "Diculești",
+    "country": "RO",
+    "lat": 44.59351,
+    "lng": 23.98968
+  },
+  {
+    "name": "Dichiseni",
+    "country": "RO",
+    "lat": 44.23333,
+    "lng": 27.53333
+  },
+  {
+    "name": "Didești",
+    "country": "RO",
+    "lat": 44.21667,
+    "lng": 24.88333
+  },
+  {
+    "name": "Dimitrovgrad",
+    "country": "RS",
+    "lat": 43.01417,
+    "lng": 22.77556
+  },
+  {
+    "name": "Divnoye",
+    "country": "RU",
+    "lat": 45.90973,
+    "lng": 43.34943
+  },
+  {
+    "name": "Divnomorskoye",
+    "country": "RU",
+    "lat": 44.5017,
+    "lng": 38.1342
+  },
+  {
+    "name": "Diveyevo",
+    "country": "RU",
+    "lat": 55.04071,
+    "lng": 43.24759
+  },
+  {
+    "name": "Dinskaya",
+    "country": "RU",
+    "lat": 45.21672,
+    "lng": 39.2259
+  },
+  {
+    "name": "Dimitrovgrad",
+    "country": "RU",
+    "lat": 54.21386,
+    "lng": 49.61838
+  },
+  {
+    "name": "Digora",
+    "country": "RU",
+    "lat": 43.15666,
+    "lng": 44.15629
+  },
+  {
+    "name": "Divnogorsk",
+    "country": "RU",
+    "lat": 55.93924,
+    "lng": 92.37513
+  },
+  {
+    "name": "Dikson",
+    "country": "RU",
+    "lat": 73.50819,
+    "lng": 80.52918
+  },
+  {
+    "name": "Dilling",
+    "country": "SD",
+    "lat": 12.05,
+    "lng": 29.65
+  },
+  {
+    "name": "Diseröd",
+    "country": "SE",
+    "lat": 57.92636,
+    "lng": 12.02598
+  },
+  {
+    "name": "Dingtuna",
+    "country": "SE",
+    "lat": 59.57279,
+    "lng": 16.38722
+  },
+  {
+    "name": "Divača",
+    "country": "SI",
+    "lat": 45.6848,
+    "lng": 13.9705
+  },
+  {
+    "name": "Diakovce",
+    "country": "SK",
+    "lat": 48.1345,
+    "lng": 17.842
+  },
+  {
+    "name": "Diourbel",
+    "country": "SN",
+    "lat": 14.64792,
+    "lng": -16.24363
+  },
+  {
+    "name": "Diouloulou",
+    "country": "SN",
+    "lat": 13.05,
+    "lng": -16.6
+  },
+  {
+    "name": "Diofior",
+    "country": "SN",
+    "lat": 14.1899,
+    "lng": -16.66089
+  },
+  {
+    "name": "Diawara",
+    "country": "SN",
+    "lat": 15.02196,
+    "lng": -12.54374
+  },
+  {
+    "name": "Diattakounda",
+    "country": "SN",
+    "lat": 12.56972,
+    "lng": -15.68417
+  },
+  {
+    "name": "Diaoubé",
+    "country": "SN",
+    "lat": 12.91667,
+    "lng": -14.16667
+  },
+  {
+    "name": "Diana Malari",
+    "country": "SN",
+    "lat": 12.84833,
+    "lng": -15.24972
+  },
+  {
+    "name": "Diakhao",
+    "country": "SN",
+    "lat": 14.46317,
+    "lng": -16.28943
+  },
+  {
+    "name": "Diamniadio",
+    "country": "SN",
+    "lat": 14.72051,
+    "lng": -17.1816
+  },
+  {
+    "name": "Diinsoor",
+    "country": "SO",
+    "lat": 2.4085,
+    "lng": 42.9771
+  },
+  {
+    "name": "Diga gaw",
+    "country": "SO",
+    "lat": 5.69935,
+    "lng": 48.4664
+  },
+  {
+    "name": "Din Daeng",
+    "country": "TH",
+    "lat": 13.7904,
+    "lng": 100.57014
+  },
+  {
+    "name": "Dili",
+    "country": "TL",
+    "lat": -8.55861,
+    "lng": 125.57361
+  },
+  {
+    "name": "Didim",
+    "country": "TR",
+    "lat": 37.38496,
+    "lng": 27.25643
+  },
+  {
+    "name": "Diyarbakır",
+    "country": "TR",
+    "lat": 37.91363,
+    "lng": 40.21721
+  },
+  {
+    "name": "Diyadin",
+    "country": "TR",
+    "lat": 39.54056,
+    "lng": 43.67135
+  },
+  {
+    "name": "Divriği",
+    "country": "TR",
+    "lat": 39.371,
+    "lng": 38.1137
+  },
+  {
+    "name": "Direkli",
+    "country": "TR",
+    "lat": 39.71167,
+    "lng": 36.65167
+  },
+  {
+    "name": "Dinek",
+    "country": "TR",
+    "lat": 37.32481,
+    "lng": 32.61602
+  },
+  {
+    "name": "Dinar",
+    "country": "TR",
+    "lat": 38.065,
+    "lng": 30.16557
+  },
+  {
+    "name": "Dilektepe",
+    "country": "TR",
+    "lat": 38.07517,
+    "lng": 41.82717
+  },
+  {
+    "name": "Dikili",
+    "country": "TR",
+    "lat": 39.071,
+    "lng": 26.89017
+  },
+  {
+    "name": "Dicle",
+    "country": "TR",
+    "lat": 38.36571,
+    "lng": 40.0645
+  },
+  {
+    "name": "Dicle",
+    "country": "TR",
+    "lat": 37.28869,
+    "lng": 42.06721
+  },
+  {
+    "name": "Dikmen",
+    "country": "TR",
+    "lat": 36.90972,
+    "lng": 31.00083
+  },
+  {
+    "name": "Dikmen",
+    "country": "TR",
+    "lat": 41.65,
+    "lng": 35.26667
+  },
+  {
+    "name": "Dikbıyık",
+    "country": "TR",
+    "lat": 41.22078,
+    "lng": 36.615
+  },
+  {
+    "name": "Digor",
+    "country": "TR",
+    "lat": 40.36896,
+    "lng": 43.40997
+  },
+  {
+    "name": "Diego Martin",
+    "country": "TT",
+    "lat": 10.72081,
+    "lng": -61.56616
+  },
+  {
+    "name": "Diobahika",
+    "country": "TZ",
+    "lat": -3.33907,
+    "lng": 31.52344
+  },
+  {
+    "name": "Dilove",
+    "country": "UA",
+    "lat": 47.93563,
+    "lng": 24.17129
+  },
+  {
+    "name": "Dihtiari",
+    "country": "UA",
+    "lat": 50.58264,
+    "lng": 32.77012
+  },
+  {
+    "name": "Diaz",
+    "country": "US",
+    "lat": 35.63841,
+    "lng": -91.26513
+  },
+  {
+    "name": "Dierks",
+    "country": "US",
+    "lat": 34.11928,
+    "lng": -94.01658
+  },
+  {
+    "name": "Divernon",
+    "country": "US",
+    "lat": 39.56561,
+    "lng": -89.65732
+  },
+  {
+    "name": "Dillsboro",
+    "country": "US",
+    "lat": 39.01783,
+    "lng": -85.05884
+  },
+  {
+    "name": "Dixon",
+    "country": "US",
+    "lat": 37.51782,
+    "lng": -87.69029
+  },
+  {
+    "name": "District Heights",
+    "country": "US",
+    "lat": 38.85761,
+    "lng": -76.88942
+  },
+  {
+    "name": "Dixon",
+    "country": "US",
+    "lat": 37.99171,
+    "lng": -92.09378
+  },
+  {
+    "name": "Diamondhead",
+    "country": "US",
+    "lat": 30.39464,
+    "lng": -89.36394
+  },
+  {
+    "name": "Dillonvale",
+    "country": "US",
+    "lat": 39.21811,
+    "lng": -84.40216
+  },
+  {
+    "name": "Dickson",
+    "country": "US",
+    "lat": 34.18732,
+    "lng": -96.98446
+  },
+  {
+    "name": "Dillon",
+    "country": "US",
+    "lat": 34.41655,
+    "lng": -79.37116
+  },
+  {
+    "name": "Dickson",
+    "country": "US",
+    "lat": 36.077,
+    "lng": -87.38779
+  },
+  {
+    "name": "Diboll",
+    "country": "US",
+    "lat": 31.18713,
+    "lng": -94.78104
+  },
+  {
+    "name": "Dickinson",
+    "country": "US",
+    "lat": 29.46079,
+    "lng": -95.05132
+  },
+  {
+    "name": "Dinwiddie",
+    "country": "US",
+    "lat": 37.07793,
+    "lng": -77.58665
+  },
+  {
+    "name": "Dilley",
+    "country": "US",
+    "lat": 28.66748,
+    "lng": -99.17059
+  },
+  {
+    "name": "Dike",
+    "country": "US",
+    "lat": 42.46415,
+    "lng": -92.62825
+  },
+  {
+    "name": "Diamond",
+    "country": "US",
+    "lat": 41.28864,
+    "lng": -88.25173
+  },
+  {
+    "name": "Dixmoor",
+    "country": "US",
+    "lat": 41.6317,
+    "lng": -87.66088
+  },
+  {
+    "name": "Dixon",
+    "country": "US",
+    "lat": 41.83892,
+    "lng": -89.47955
+  },
+  {
+    "name": "Dighton",
+    "country": "US",
+    "lat": 41.81399,
+    "lng": -71.12032
+  },
+  {
+    "name": "Dixfield",
+    "country": "US",
+    "lat": 44.53395,
+    "lng": -70.4559
+  },
+  {
+    "name": "Dixmont",
+    "country": "US",
+    "lat": 44.68035,
+    "lng": -69.16282
+  },
+  {
+    "name": "Dimondale",
+    "country": "US",
+    "lat": 42.64559,
+    "lng": -84.64887
+  },
+  {
+    "name": "Dilworth",
+    "country": "US",
+    "lat": 46.87663,
+    "lng": -96.70341
+  },
+  {
+    "name": "Dix Hills",
+    "country": "US",
+    "lat": 40.80482,
+    "lng": -73.33623
+  },
+  {
+    "name": "Dickson City",
+    "country": "US",
+    "lat": 41.47147,
+    "lng": -75.60769
+  },
+  {
+    "name": "Dillsburg",
+    "country": "US",
+    "lat": 40.11093,
+    "lng": -77.03498
+  },
+  {
+    "name": "Dickeyville",
+    "country": "US",
+    "lat": 42.62722,
+    "lng": -90.59207
+  },
+  {
+    "name": "Dighton",
+    "country": "US",
+    "lat": 38.48196,
+    "lng": -100.46708
+  },
+  {
+    "name": "Dilkon",
+    "country": "US",
+    "lat": 35.38529,
+    "lng": -110.32068
+  },
+  {
+    "name": "Diablo",
+    "country": "US",
+    "lat": 37.83493,
+    "lng": -121.95801
+  },
+  {
+    "name": "Diamond Bar",
+    "country": "US",
+    "lat": 34.02862,
+    "lng": -117.81034
+  },
+  {
+    "name": "Diamond Springs",
+    "country": "US",
+    "lat": 38.69463,
+    "lng": -120.81494
+  },
+  {
+    "name": "Dinuba",
+    "country": "US",
+    "lat": 36.54328,
+    "lng": -119.38707
+  },
+  {
+    "name": "Discovery Bay",
+    "country": "US",
+    "lat": 37.90854,
+    "lng": -121.60023
+  },
+  {
+    "name": "Dixon",
+    "country": "US",
+    "lat": 38.44546,
+    "lng": -121.8233
+  },
+  {
+    "name": "Dickens",
+    "country": "US",
+    "lat": 33.62175,
+    "lng": -100.83652
+  },
+  {
+    "name": "Dimmitt",
+    "country": "US",
+    "lat": 34.5509,
+    "lng": -102.31186
+  },
+  {
+    "name": "Dillon",
+    "country": "US",
+    "lat": 45.21631,
+    "lng": -112.63752
+  },
+  {
+    "name": "Dickinson",
+    "country": "US",
+    "lat": 46.87918,
+    "lng": -102.78962
+  },
+  {
+    "name": "Dishman",
+    "country": "US",
+    "lat": 47.66007,
+    "lng": -117.27596
+  },
+  {
+    "name": "Diamond Head / Kapahulu / Saint Louis Heights",
+    "country": "US",
+    "lat": 21.27697,
+    "lng": -157.81127
+  },
+  {
+    "name": "Diamond Ridge",
+    "country": "US",
+    "lat": 59.67611,
+    "lng": -151.5575
+  },
+  {
+    "name": "Dillingham",
+    "country": "US",
+    "lat": 59.03972,
+    "lng": -158.4575
+  },
+  {
+    "name": "Dixon Lane-Meadow Creek",
+    "country": "US",
+    "lat": 37.38639,
+    "lng": -118.41527
+  },
+  {
+    "name": "Dixiana",
+    "country": "US",
+    "lat": 33.74021,
+    "lng": -86.64938
+  },
+  {
+    "name": "Discovery Harbor",
+    "country": "US",
+    "lat": 19.04411,
+    "lng": -155.6319
+  },
+  {
+    "name": "Diamond Head",
+    "country": "US",
+    "lat": 21.26272,
+    "lng": -157.79601
+  },
+  {
+    "name": "Diamond",
+    "country": "VC",
+    "lat": 13.14077,
+    "lng": -61.16803
+  },
+  {
+    "name": "Di Linh",
+    "country": "VN",
+    "lat": 11.58153,
+    "lng": 108.07641
+  },
+  {
+    "name": "Diên Khánh",
+    "country": "VN",
+    "lat": 12.2549,
+    "lng": 109.09332
+  },
+  {
+    "name": "Diễn Thành",
+    "country": "VN",
+    "lat": 18.97652,
+    "lng": 105.60034
+  },
+  {
+    "name": "Dien Bien Phu",
+    "country": "VN",
+    "lat": 21.38602,
+    "lng": 103.02301
+  },
+  {
+    "name": "Diêm Điền",
+    "country": "VN",
+    "lat": 20.55832,
+    "lng": 106.56882
+  },
+  {
+    "name": "Dirkiesdorp",
+    "country": "ZA",
+    "lat": -27.17445,
+    "lng": 30.40476
+  },
+  {
+    "name": "Dimbaza",
+    "country": "ZA",
+    "lat": -32.83483,
+    "lng": 27.21742
+  },
+  {
+    "name": "Diepsloot",
+    "country": "ZA",
+    "lat": -25.93312,
+    "lng": 28.01213
+  },
+  {
+    "name": "Dingleydale A",
+    "country": "ZA",
+    "lat": -24.70122,
+    "lng": 31.11743
+  },
+  {
+    "name": "Dingleydale B",
+    "country": "ZA",
+    "lat": -24.6768,
+    "lng": 31.13601
+  }
+]

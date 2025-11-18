@@ -1,0 +1,650 @@
+[
+  {
+    "name": "Dhivër",
+    "country": "AL",
+    "lat": 39.83611,
+    "lng": 20.16861
+  },
+  {
+    "name": "Dhërmi",
+    "country": "AL",
+    "lat": 40.15139,
+    "lng": 19.63889
+  },
+  {
+    "name": "Dharruk",
+    "country": "AU",
+    "lat": -33.74814,
+    "lng": 150.81561
+  },
+  {
+    "name": "Dhaka",
+    "country": "BD",
+    "lat": 23.7104,
+    "lng": 90.40744
+  },
+  {
+    "name": "Dhanmondi",
+    "country": "BD",
+    "lat": 23.74,
+    "lng": 90.385
+  },
+  {
+    "name": "Dhuy",
+    "country": "BE",
+    "lat": 50.55936,
+    "lng": 4.85922
+  },
+  {
+    "name": "Dhromolaxia",
+    "country": "CY",
+    "lat": 34.87551,
+    "lng": 33.58684
+  },
+  {
+    "name": "Dhuizon",
+    "country": "FR",
+    "lat": 47.58723,
+    "lng": 1.65809
+  },
+  {
+    "name": "Dhekelia",
+    "country": "GB",
+    "lat": 34.98431,
+    "lng": 33.73379
+  },
+  {
+    "name": "Dhrosiá",
+    "country": "GR",
+    "lat": 38.48413,
+    "lng": 23.54774
+  },
+  {
+    "name": "Dhráfi",
+    "country": "GR",
+    "lat": 38.02375,
+    "lng": 23.90788
+  },
+  {
+    "name": "Dhokímion",
+    "country": "GR",
+    "lat": 38.61352,
+    "lng": 21.38072
+  },
+  {
+    "name": "Dhafní",
+    "country": "GR",
+    "lat": 37.95002,
+    "lng": 23.73437
+  },
+  {
+    "name": "Dharashiv",
+    "country": "IN",
+    "lat": 18.18158,
+    "lng": 76.03889
+  },
+  {
+    "name": "Dhuwaran",
+    "country": "IN",
+    "lat": 22.23779,
+    "lng": 72.7591
+  },
+  {
+    "name": "Dhūri",
+    "country": "IN",
+    "lat": 30.36846,
+    "lng": 75.86791
+  },
+  {
+    "name": "Dhupgāri",
+    "country": "IN",
+    "lat": 26.58904,
+    "lng": 89.00732
+  },
+  {
+    "name": "Dhuliān",
+    "country": "IN",
+    "lat": 24.68127,
+    "lng": 87.9535
+  },
+  {
+    "name": "Dhule",
+    "country": "IN",
+    "lat": 20.9013,
+    "lng": 74.77737
+  },
+  {
+    "name": "Dhubri",
+    "country": "IN",
+    "lat": 26.01856,
+    "lng": 89.98564
+  },
+  {
+    "name": "Dhrol",
+    "country": "IN",
+    "lat": 22.567,
+    "lng": 70.41769
+  },
+  {
+    "name": "Dhrāngadhra",
+    "country": "IN",
+    "lat": 22.99167,
+    "lng": 71.46793
+  },
+  {
+    "name": "Dhorīmanna",
+    "country": "IN",
+    "lat": 25.20374,
+    "lng": 71.43687
+  },
+  {
+    "name": "Dhoraji",
+    "country": "IN",
+    "lat": 21.73359,
+    "lng": 70.45004
+  },
+  {
+    "name": "Dhone",
+    "country": "IN",
+    "lat": 15.3952,
+    "lng": 77.8715
+  },
+  {
+    "name": "Dholka",
+    "country": "IN",
+    "lat": 22.72732,
+    "lng": 72.44128
+  },
+  {
+    "name": "Dhola",
+    "country": "IN",
+    "lat": 21.88129,
+    "lng": 71.77269
+  },
+  {
+    "name": "Dhing",
+    "country": "IN",
+    "lat": 26.46793,
+    "lng": 92.47336
+  },
+  {
+    "name": "Dhilwan",
+    "country": "IN",
+    "lat": 31.51432,
+    "lng": 75.34574
+  },
+  {
+    "name": "Dhenkānāl",
+    "country": "IN",
+    "lat": 20.65744,
+    "lng": 85.59693
+  },
+  {
+    "name": "Dhemāji",
+    "country": "IN",
+    "lat": 27.48333,
+    "lng": 94.58333
+  },
+  {
+    "name": "Dhekiajuli",
+    "country": "IN",
+    "lat": 26.70367,
+    "lng": 92.47808
+  },
+  {
+    "name": "Dhaurahra",
+    "country": "IN",
+    "lat": 27.99814,
+    "lng": 81.08975
+  },
+  {
+    "name": "Dhaulpur",
+    "country": "IN",
+    "lat": 26.69286,
+    "lng": 77.87968
+  },
+  {
+    "name": "Dhasa",
+    "country": "IN",
+    "lat": 21.80488,
+    "lng": 71.51589
+  },
+  {
+    "name": "Dhārūr",
+    "country": "IN",
+    "lat": 18.82017,
+    "lng": 76.10937
+  },
+  {
+    "name": "Dhāruhera",
+    "country": "IN",
+    "lat": 28.20553,
+    "lng": 76.79691
+  },
+  {
+    "name": "Dhārni",
+    "country": "IN",
+    "lat": 21.55333,
+    "lng": 76.88972
+  },
+  {
+    "name": "Dharamsala",
+    "country": "IN",
+    "lat": 32.22006,
+    "lng": 76.32013
+  },
+  {
+    "name": "Dharmkot",
+    "country": "IN",
+    "lat": 30.94559,
+    "lng": 75.23239
+  },
+  {
+    "name": "Dharmavaram",
+    "country": "IN",
+    "lat": 14.41435,
+    "lng": 77.72035
+  },
+  {
+    "name": "Dharmaragar",
+    "country": "IN",
+    "lat": 24.34911,
+    "lng": 92.13139
+  },
+  {
+    "name": "Dharmapuri",
+    "country": "IN",
+    "lat": 12.1277,
+    "lng": 78.15794
+  },
+  {
+    "name": "Dharmanagar",
+    "country": "IN",
+    "lat": 24.36667,
+    "lng": 92.16667
+  },
+  {
+    "name": "Dharmadam",
+    "country": "IN",
+    "lat": 11.77538,
+    "lng": 75.46459
+  },
+  {
+    "name": "Dharmābād",
+    "country": "IN",
+    "lat": 18.89116,
+    "lng": 77.8494
+  },
+  {
+    "name": "Dhāriwāl",
+    "country": "IN",
+    "lat": 31.95616,
+    "lng": 75.32386
+  },
+  {
+    "name": "Dhāri",
+    "country": "IN",
+    "lat": 21.32855,
+    "lng": 71.02645
+  },
+  {
+    "name": "Dhārchula",
+    "country": "IN",
+    "lat": 29.84707,
+    "lng": 80.51951
+  },
+  {
+    "name": "Dharapuram",
+    "country": "IN",
+    "lat": 10.73828,
+    "lng": 77.53223
+  },
+  {
+    "name": "Dharangaon",
+    "country": "IN",
+    "lat": 21.01187,
+    "lng": 75.27407
+  },
+  {
+    "name": "Dharampuri",
+    "country": "IN",
+    "lat": 22.14951,
+    "lng": 75.34439
+  },
+  {
+    "name": "Dharampur",
+    "country": "IN",
+    "lat": 20.53693,
+    "lng": 73.17368
+  },
+  {
+    "name": "Dhār",
+    "country": "IN",
+    "lat": 22.59373,
+    "lng": 75.29774
+  },
+  {
+    "name": "Dhanwār",
+    "country": "IN",
+    "lat": 24.41074,
+    "lng": 85.98183
+  },
+  {
+    "name": "Dhanera",
+    "country": "IN",
+    "lat": 24.50967,
+    "lng": 72.02343
+  },
+  {
+    "name": "Dhandhuka",
+    "country": "IN",
+    "lat": 22.38185,
+    "lng": 71.98664
+  },
+  {
+    "name": "Dhanbad",
+    "country": "IN",
+    "lat": 23.79759,
+    "lng": 86.42992
+  },
+  {
+    "name": "Dhanaura",
+    "country": "IN",
+    "lat": 28.95912,
+    "lng": 78.25629
+  },
+  {
+    "name": "Dhanaula",
+    "country": "IN",
+    "lat": 30.28216,
+    "lng": 75.57341
+  },
+  {
+    "name": "Dhāna",
+    "country": "IN",
+    "lat": 23.74697,
+    "lng": 78.86234
+  },
+  {
+    "name": "Dhamtari",
+    "country": "IN",
+    "lat": 20.70718,
+    "lng": 81.54874
+  },
+  {
+    "name": "Dhāmpur",
+    "country": "IN",
+    "lat": 29.30883,
+    "lng": 78.51083
+  },
+  {
+    "name": "Dhāmnod",
+    "country": "IN",
+    "lat": 22.20928,
+    "lng": 75.47057
+  },
+  {
+    "name": "Dhamda",
+    "country": "IN",
+    "lat": 21.45,
+    "lng": 81.31667
+  },
+  {
+    "name": "Dhali",
+    "country": "IN",
+    "lat": 10.51049,
+    "lng": 77.18806
+  },
+  {
+    "name": "Dhakuākhanā",
+    "country": "IN",
+    "lat": 27.20114,
+    "lng": 94.45712
+  },
+  {
+    "name": "Dhāka",
+    "country": "IN",
+    "lat": 26.67479,
+    "lng": 85.16698
+  },
+  {
+    "name": "Dhulagari",
+    "country": "IN",
+    "lat": 22.58213,
+    "lng": 88.171
+  },
+  {
+    "name": "Dhīnde",
+    "country": "IN",
+    "lat": 32.62687,
+    "lng": 74.78334
+  },
+  {
+    "name": "Dharapur",
+    "country": "IN",
+    "lat": 26.14953,
+    "lng": 91.64202
+  },
+  {
+    "name": "Dharamjaigarh",
+    "country": "IN",
+    "lat": 22.46376,
+    "lng": 83.21127
+  },
+  {
+    "name": "Dhamanagar",
+    "country": "IN",
+    "lat": 20.9167,
+    "lng": 86.45
+  },
+  {
+    "name": "Dhanegaon",
+    "country": "IN",
+    "lat": 19.12726,
+    "lng": 77.33705
+  },
+  {
+    "name": "Dhodra Mohār",
+    "country": "IN",
+    "lat": 22.27372,
+    "lng": 77.88552
+  },
+  {
+    "name": "Dhānal",
+    "country": "IN",
+    "lat": 21.15141,
+    "lng": 79.5424
+  },
+  {
+    "name": "Dhāki",
+    "country": "IN",
+    "lat": 32.25694,
+    "lng": 75.62596
+  },
+  {
+    "name": "Dharampur",
+    "country": "IN",
+    "lat": 25.87547,
+    "lng": 85.76857
+  },
+  {
+    "name": "Dharmaram",
+    "country": "IN",
+    "lat": 18.30384,
+    "lng": 79.48924
+  },
+  {
+    "name": "Dharmapuram",
+    "country": "IN",
+    "lat": 8.12027,
+    "lng": 77.38904
+  },
+  {
+    "name": "Dhekorgorha",
+    "country": "IN",
+    "lat": 26.78785,
+    "lng": 94.16605
+  },
+  {
+    "name": "Dhanpuri",
+    "country": "IN",
+    "lat": 23.18542,
+    "lng": 81.55513
+  },
+  {
+    "name": "Dhatau",
+    "country": "IN",
+    "lat": 18.42798,
+    "lng": 73.15141
+  },
+  {
+    "name": "Dhin",
+    "country": "IN",
+    "lat": 31.2659,
+    "lng": 75.60921
+  },
+  {
+    "name": "Dhībān",
+    "country": "JO",
+    "lat": 31.49889,
+    "lng": 35.78287
+  },
+  {
+    "name": "Dhar Souk",
+    "country": "MA",
+    "lat": 34.65197,
+    "lng": -4.27921
+  },
+  {
+    "name": "Dhihdhoo",
+    "country": "MV",
+    "lat": 6.88744,
+    "lng": 73.11402
+  },
+  {
+    "name": "Dhulikhel",
+    "country": "NP",
+    "lat": 27.6221,
+    "lng": 85.54281
+  },
+  {
+    "name": "Dharān",
+    "country": "NP",
+    "lat": 26.81436,
+    "lng": 87.27972
+  },
+  {
+    "name": "Dhankutā",
+    "country": "NP",
+    "lat": 26.98333,
+    "lng": 87.33333
+  },
+  {
+    "name": "Dhangaḍhi̇̄",
+    "country": "NP",
+    "lat": 28.70159,
+    "lng": 80.58991
+  },
+  {
+    "name": "Dhoro Naro",
+    "country": "PK",
+    "lat": 25.50484,
+    "lng": 69.5709
+  },
+  {
+    "name": "Dhaunkal",
+    "country": "PK",
+    "lat": 32.40613,
+    "lng": 74.13706
+  },
+  {
+    "name": "Dhanot",
+    "country": "PK",
+    "lat": 29.57991,
+    "lng": 71.75213
+  },
+  {
+    "name": "Dhirkot",
+    "country": "PK",
+    "lat": 34.03917,
+    "lng": 73.57694
+  },
+  {
+    "name": "Dhannābah",
+    "country": "PS",
+    "lat": 32.31341,
+    "lng": 35.04144
+  },
+  {
+    "name": "Dhahran",
+    "country": "SA",
+    "lat": 26.28864,
+    "lng": 50.11396
+  },
+  {
+    "name": "Dhuusamarreeb",
+    "country": "SO",
+    "lat": 5.53597,
+    "lng": 46.38666
+  },
+  {
+    "name": "Dhabad",
+    "country": "SO",
+    "lat": 6.43167,
+    "lng": 46.46194
+  },
+  {
+    "name": "Dhobley",
+    "country": "SO",
+    "lat": 0.40997,
+    "lng": 41.00995
+  },
+  {
+    "name": "Dhībbīn",
+    "country": "SY",
+    "lat": 32.43691,
+    "lng": 36.56332
+  },
+  {
+    "name": "Dhībān",
+    "country": "SY",
+    "lat": 35.01498,
+    "lng": 40.51028
+  },
+  {
+    "name": "Dhī Jalāl",
+    "country": "YE",
+    "lat": 13.62378,
+    "lng": 44.70754
+  },
+  {
+    "name": "Dhubāb",
+    "country": "YE",
+    "lat": 12.94305,
+    "lng": 43.41025
+  },
+  {
+    "name": "Dhī Nā‘im",
+    "country": "YE",
+    "lat": 14.10574,
+    "lng": 45.44807
+  },
+  {
+    "name": "Dhaybīn",
+    "country": "YE",
+    "lat": 15.97712,
+    "lng": 44.12917
+  },
+  {
+    "name": "Dhī as Sufāl",
+    "country": "YE",
+    "lat": 13.83446,
+    "lng": 44.11469
+  },
+  {
+    "name": "Dhamār",
+    "country": "YE",
+    "lat": 14.54274,
+    "lng": 44.40514
+  }
+]

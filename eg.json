@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Eggersdorf bei Graz",
+    "country": "AT",
+    "lat": 47.12338,
+    "lng": 15.60084
+  },
+  {
+    "name": "Eggern",
+    "country": "AT",
+    "lat": 48.90829,
+    "lng": 15.14877
+  },
+  {
+    "name": "Eggenburg",
+    "country": "AT",
+    "lat": 48.63892,
+    "lng": 15.81903
+  },
+  {
+    "name": "Eggenberg",
+    "country": "AT",
+    "lat": 47.07,
+    "lng": 15.39871
+  },
+  {
+    "name": "Egg",
+    "country": "AT",
+    "lat": 47.43154,
+    "lng": 9.89762
+  },
+  {
+    "name": "Eggendorf",
+    "country": "AT",
+    "lat": 47.85809,
+    "lng": 16.32182
+  },
+  {
+    "name": "Eggendorf",
+    "country": "AT",
+    "lat": 48.1313,
+    "lng": 15.6196
+  },
+  {
+    "name": "Eglinton",
+    "country": "AU",
+    "lat": -33.37731,
+    "lng": 149.54654
+  },
+  {
+    "name": "Eglinton",
+    "country": "AU",
+    "lat": -31.58677,
+    "lng": 115.68878
+  },
+  {
+    "name": "Egem",
+    "country": "BE",
+    "lat": 51.01531,
+    "lng": 3.25853
+  },
+  {
+    "name": "Eganville",
+    "country": "CA",
+    "lat": 45.53341,
+    "lng": -77.09945
+  },
+  {
+    "name": "Eglinton East",
+    "country": "CA",
+    "lat": 43.73917,
+    "lng": -79.24576
+  },
+  {
+    "name": "Egnach",
+    "country": "CH",
+    "lat": 47.54268,
+    "lng": 9.38048
+  },
+  {
+    "name": "Egliswil",
+    "country": "CH",
+    "lat": 47.34922,
+    "lng": 8.18553
+  },
+  {
+    "name": "Eggiwil",
+    "country": "CH",
+    "lat": 46.87575,
+    "lng": 7.79567
+  },
+  {
+    "name": "Eggersriet",
+    "country": "CH",
+    "lat": 47.44202,
+    "lng": 9.46901
+  },
+  {
+    "name": "Egg",
+    "country": "CH",
+    "lat": 47.29976,
+    "lng": 8.69032
+  },
+  {
+    "name": "Egerkingen",
+    "country": "CH",
+    "lat": 47.31957,
+    "lng": 7.78424
+  },
+  {
+    "name": "Egiztobe",
+    "country": "CN",
+    "lat": 47.85938,
+    "lng": 87.00466
+  },
+  {
+    "name": "Egmating",
+    "country": "DE",
+    "lat": 48.00405,
+    "lng": 11.79528
+  },
+  {
+    "name": "Eglofs",
+    "country": "DE",
+    "lat": 47.66251,
+    "lng": 9.93118
+  },
+  {
+    "name": "Egloffstein",
+    "country": "DE",
+    "lat": 49.70182,
+    "lng": 11.25749
+  },
+  {
+    "name": "Egling",
+    "country": "DE",
+    "lat": 48.18626,
+    "lng": 10.97669
+  },
+  {
+    "name": "Egling",
+    "country": "DE",
+    "lat": 47.92316,
+    "lng": 11.50517
+  },
+  {
+    "name": "Eging",
+    "country": "DE",
+    "lat": 48.46328,
+    "lng": 12.18957
+  },
+  {
+    "name": "Eggstätt",
+    "country": "DE",
+    "lat": 47.92698,
+    "lng": 12.37919
+  },
+  {
+    "name": "Eggolsheim",
+    "country": "DE",
+    "lat": 49.76961,
+    "lng": 11.05701
+  },
+  {
+    "name": "Egglkofen",
+    "country": "DE",
+    "lat": 48.4,
+    "lng": 12.45
+  },
+  {
+    "name": "Egglham",
+    "country": "DE",
+    "lat": 48.52902,
+    "lng": 13.05402
+  },
+  {
+    "name": "Eggesin",
+    "country": "DE",
+    "lat": 53.6783,
+    "lng": 14.08533
+  },
+  {
+    "name": "Eggersdorf",
+    "country": "DE",
+    "lat": 51.97621,
+    "lng": 11.70971
+  },
+  {
+    "name": "Eggenthal",
+    "country": "DE",
+    "lat": 47.91667,
+    "lng": 10.51667
+  },
+  {
+    "name": "Eggenstein-Leopoldshafen",
+    "country": "DE",
+    "lat": 49.09006,
+    "lng": 8.39879
+  },
+  {
+    "name": "Eggenfelden",
+    "country": "DE",
+    "lat": 48.40509,
+    "lng": 12.75752
+  },
+  {
+    "name": "Eggebek",
+    "country": "DE",
+    "lat": 54.61667,
+    "lng": 9.36667
+  },
+  {
+    "name": "Egg",
+    "country": "DE",
+    "lat": 48.08714,
+    "lng": 10.28495
+  },
+  {
+    "name": "Egestorf",
+    "country": "DE",
+    "lat": 53.193,
+    "lng": 10.063
+  },
+  {
+    "name": "Egestorf",
+    "country": "DE",
+    "lat": 52.28568,
+    "lng": 9.51676
+  },
+  {
+    "name": "Egenhofen",
+    "country": "DE",
+    "lat": 48.28333,
+    "lng": 11.16667
+  },
+  {
+    "name": "Egenhausen",
+    "country": "DE",
+    "lat": 48.56667,
+    "lng": 8.61667
+  },
+  {
+    "name": "Egelsbach",
+    "country": "DE",
+    "lat": 49.96792,
+    "lng": 8.66341
+  },
+  {
+    "name": "Egeln",
+    "country": "DE",
+    "lat": 51.94384,
+    "lng": 11.43265
+  },
+  {
+    "name": "Eggermühlen",
+    "country": "DE",
+    "lat": 52.56667,
+    "lng": 7.81667
+  },
+  {
+    "name": "Eggingen",
+    "country": "DE",
+    "lat": 47.7,
+    "lng": 8.4
+  },
+  {
+    "name": "Egtved",
+    "country": "DK",
+    "lat": 55.61613,
+    "lng": 9.30763
+  },
+  {
+    "name": "Eguisheim",
+    "country": "FR",
+    "lat": 48.0428,
+    "lng": 7.30617
+  },
+  {
+    "name": "Egremont",
+    "country": "GB",
+    "lat": 54.47941,
+    "lng": -3.52756
+  },
+  {
+    "name": "Eglinton",
+    "country": "GB",
+    "lat": 55.01667,
+    "lng": -7.18333
+  },
+  {
+    "name": "Egham",
+    "country": "GB",
+    "lat": 51.43158,
+    "lng": -0.55239
+  },
+  {
+    "name": "Eggleston",
+    "country": "GB",
+    "lat": 54.60916,
+    "lng": -2.00312
+  },
+  {
+    "name": "Egyek",
+    "country": "HU",
+    "lat": 47.63333,
+    "lng": 20.9
+  },
+  {
+    "name": "Egerszalók",
+    "country": "HU",
+    "lat": 47.86667,
+    "lng": 20.33333
+  },
+  {
+    "name": "Eger",
+    "country": "HU",
+    "lat": 47.90265,
+    "lng": 20.37329
+  },
+  {
+    "name": "Egra",
+    "country": "IN",
+    "lat": 21.89947,
+    "lng": 87.53794
+  },
+  {
+    "name": "Egarkunr",
+    "country": "IN",
+    "lat": 23.75098,
+    "lng": 86.76943
+  },
+  {
+    "name": "Egilsstaðir",
+    "country": "IS",
+    "lat": 65.26687,
+    "lng": -14.39485
+  },
+  {
+    "name": "Egna",
+    "country": "IT",
+    "lat": 46.31777,
+    "lng": 11.27337
+  },
+  {
+    "name": "Egota",
+    "country": "JP",
+    "lat": 35.72552,
+    "lng": 139.66516
+  },
+  {
+    "name": "Egindiköl",
+    "country": "KZ",
+    "lat": 51.05227,
+    "lng": 69.47511
+  },
+  {
+    "name": "Eg-Uur",
+    "country": "MN",
+    "lat": 50.10944,
+    "lng": 101.57528
+  },
+  {
+    "name": "Eg",
+    "country": "MN",
+    "lat": 48.68333,
+    "lng": 110.18333
+  },
+  {
+    "name": "Egipto",
+    "country": "MX",
+    "lat": 17.26207,
+    "lng": -91.9715
+  },
+  {
+    "name": "Egbeda",
+    "country": "NG",
+    "lat": 7.3772,
+    "lng": 4.04975
+  },
+  {
+    "name": "Egbe",
+    "country": "NG",
+    "lat": 8.21896,
+    "lng": 5.50757
+  },
+  {
+    "name": "Egbema",
+    "country": "NG",
+    "lat": 5.54435,
+    "lng": 6.7609
+  },
+  {
+    "name": "Egmond-Binnen",
+    "country": "NL",
+    "lat": 52.59583,
+    "lng": 4.65556
+  },
+  {
+    "name": "Egmond aan Zee",
+    "country": "NL",
+    "lat": 52.6204,
+    "lng": 4.62705
+  },
+  {
+    "name": "Egmond aan den Hoef",
+    "country": "NL",
+    "lat": 52.62333,
+    "lng": 4.65278
+  },
+  {
+    "name": "Egchel",
+    "country": "NL",
+    "lat": 51.31417,
+    "lng": 5.97222
+  },
+  {
+    "name": "Egersund",
+    "country": "NO",
+    "lat": 58.45133,
+    "lng": 5.9997
+  },
+  {
+    "name": "Eguia",
+    "country": "PH",
+    "lat": 15.9065,
+    "lng": 119.8858
+  },
+  {
+    "name": "Egaña",
+    "country": "PH",
+    "lat": 10.7472,
+    "lng": 122.00984
+  },
+  {
+    "name": "Egvekinot",
+    "country": "RU",
+    "lat": 66.32321,
+    "lng": -179.11838
+  },
+  {
+    "name": "Eglise Catholique, Centrale GIKO",
+    "country": "RW",
+    "lat": -1.93653,
+    "lng": 29.8061
+  },
+  {
+    "name": "Eglin Village",
+    "country": "US",
+    "lat": 30.46298,
+    "lng": -86.5394
+  },
+  {
+    "name": "Egypt Lake-Leto",
+    "country": "US",
+    "lat": 28.01769,
+    "lng": -82.50619
+  },
+  {
+    "name": "Egg Harbor City",
+    "country": "US",
+    "lat": 39.52873,
+    "lng": -74.64794
+  },
+  {
+    "name": "Eggertsville",
+    "country": "US",
+    "lat": 42.96339,
+    "lng": -78.80392
+  },
+  {
+    "name": "Egypt",
+    "country": "US",
+    "lat": 40.6801,
+    "lng": -75.52991
+  },
+  {
+    "name": "Eglin Air Force Base",
+    "country": "US",
+    "lat": 30.45907,
+    "lng": -86.55026
+  },
+  {
+    "name": "Eglington A",
+    "country": "ZA",
+    "lat": -24.65698,
+    "lng": 31.36365
+  },
+  {
+    "name": "Eglington B",
+    "country": "ZA",
+    "lat": -24.67424,
+    "lng": 31.31677
+  }
+]

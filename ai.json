@@ -1,0 +1,1076 @@
+[
+  {
+    "name": "Aixirivall",
+    "country": "AD",
+    "lat": 42.46245,
+    "lng": 1.50209
+  },
+  {
+    "name": "Aimogasta",
+    "country": "AR",
+    "lat": -28.56003,
+    "lng": -66.80737
+  },
+  {
+    "name": "Aistersheim",
+    "country": "AT",
+    "lat": 48.1868,
+    "lng": 13.74175
+  },
+  {
+    "name": "Ainet",
+    "country": "AT",
+    "lat": 46.86603,
+    "lng": 12.68968
+  },
+  {
+    "name": "Aigen im Mühlkreis",
+    "country": "AT",
+    "lat": 48.64578,
+    "lng": 13.97109
+  },
+  {
+    "name": "Aigen im Ennstal",
+    "country": "AT",
+    "lat": 47.52052,
+    "lng": 14.14529
+  },
+  {
+    "name": "Aichkirchen",
+    "country": "AT",
+    "lat": 48.10944,
+    "lng": 13.79158
+  },
+  {
+    "name": "Aich",
+    "country": "AT",
+    "lat": 47.4228,
+    "lng": 13.82145
+  },
+  {
+    "name": "Aibl",
+    "country": "AT",
+    "lat": 46.68145,
+    "lng": 15.22619
+  },
+  {
+    "name": "Aitkenvale",
+    "country": "AU",
+    "lat": -19.30142,
+    "lng": 146.77082
+  },
+  {
+    "name": "Airport West",
+    "country": "AU",
+    "lat": -37.7247,
+    "lng": 144.88126
+  },
+  {
+    "name": "Airlie Beach",
+    "country": "AU",
+    "lat": -20.26751,
+    "lng": 148.71471
+  },
+  {
+    "name": "Airds",
+    "country": "AU",
+    "lat": -34.08599,
+    "lng": 150.83322
+  },
+  {
+    "name": "Ainslie",
+    "country": "AU",
+    "lat": -35.26255,
+    "lng": 149.1437
+  },
+  {
+    "name": "Aintree",
+    "country": "AU",
+    "lat": -37.72253,
+    "lng": 144.66765
+  },
+  {
+    "name": "Aiseau",
+    "country": "BE",
+    "lat": 50.41158,
+    "lng": 4.58671
+  },
+  {
+    "name": "Aische-en-Refail",
+    "country": "BE",
+    "lat": 50.60009,
+    "lng": 4.83775
+  },
+  {
+    "name": "Aiquile",
+    "country": "BO",
+    "lat": -18.20408,
+    "lng": -65.18068
+  },
+  {
+    "name": "Aiuaba",
+    "country": "BR",
+    "lat": -6.57361,
+    "lng": -40.12361
+  },
+  {
+    "name": "Aiuruoca",
+    "country": "BR",
+    "lat": -21.97556,
+    "lng": -44.60306
+  },
+  {
+    "name": "Aiquara",
+    "country": "BR",
+    "lat": -14.12944,
+    "lng": -39.88778
+  },
+  {
+    "name": "Aimorés",
+    "country": "BR",
+    "lat": -19.49583,
+    "lng": -41.06389
+  },
+  {
+    "name": "Airdrie",
+    "country": "CA",
+    "lat": 51.30011,
+    "lng": -114.03528
+  },
+  {
+    "name": "Airolo",
+    "country": "CH",
+    "lat": 46.52855,
+    "lng": 8.61189
+  },
+  {
+    "name": "Aigle",
+    "country": "CH",
+    "lat": 46.3181,
+    "lng": 6.96457
+  },
+  {
+    "name": "Aire-la-Ville",
+    "country": "CH",
+    "lat": 46.19057,
+    "lng": 6.04287
+  },
+  {
+    "name": "Aihua",
+    "country": "CN",
+    "lat": 24.41667,
+    "lng": 100.1
+  },
+  {
+    "name": "Aikou",
+    "country": "CN",
+    "lat": 28.32943,
+    "lng": 108.80271
+  },
+  {
+    "name": "Aimin",
+    "country": "CN",
+    "lat": 44.58799,
+    "lng": 129.57977
+  },
+  {
+    "name": "Aipe",
+    "country": "CO",
+    "lat": 3.22222,
+    "lng": -75.23667
+  },
+  {
+    "name": "Aitrang",
+    "country": "DE",
+    "lat": 47.81667,
+    "lng": 10.53333
+  },
+  {
+    "name": "Aitrach",
+    "country": "DE",
+    "lat": 47.93333,
+    "lng": 10.08333
+  },
+  {
+    "name": "Aiterhofen",
+    "country": "DE",
+    "lat": 48.84659,
+    "lng": 12.62012
+  },
+  {
+    "name": "Aislingen",
+    "country": "DE",
+    "lat": 48.50648,
+    "lng": 10.45778
+  },
+  {
+    "name": "Ainring",
+    "country": "DE",
+    "lat": 47.81311,
+    "lng": 12.94048
+  },
+  {
+    "name": "Aindling",
+    "country": "DE",
+    "lat": 48.5136,
+    "lng": 10.95315
+  },
+  {
+    "name": "Aiglsbach",
+    "country": "DE",
+    "lat": 48.69211,
+    "lng": 11.70831
+  },
+  {
+    "name": "Aidlingen",
+    "country": "DE",
+    "lat": 48.67849,
+    "lng": 8.89524
+  },
+  {
+    "name": "Aidhausen",
+    "country": "DE",
+    "lat": 50.15,
+    "lng": 10.43333
+  },
+  {
+    "name": "Aidenbach",
+    "country": "DE",
+    "lat": 48.57028,
+    "lng": 13.09
+  },
+  {
+    "name": "Aichstetten",
+    "country": "DE",
+    "lat": 47.89295,
+    "lng": 10.07837
+  },
+  {
+    "name": "Aichhalden",
+    "country": "DE",
+    "lat": 48.26719,
+    "lng": 8.40233
+  },
+  {
+    "name": "Aichen",
+    "country": "DE",
+    "lat": 48.22898,
+    "lng": 10.53949
+  },
+  {
+    "name": "Aichelberg",
+    "country": "DE",
+    "lat": 48.63557,
+    "lng": 9.56373
+  },
+  {
+    "name": "Aichach",
+    "country": "DE",
+    "lat": 48.45755,
+    "lng": 11.13413
+  },
+  {
+    "name": "Airolaf",
+    "country": "DJ",
+    "lat": 11.77028,
+    "lng": 42.65194
+  },
+  {
+    "name": "Ain el Hadjel",
+    "country": "DZ",
+    "lat": 35.67003,
+    "lng": 3.88153
+  },
+  {
+    "name": "Ait Yahia",
+    "country": "DZ",
+    "lat": 36.58907,
+    "lng": 4.33505
+  },
+  {
+    "name": "Ain Sukhna",
+    "country": "EG",
+    "lat": 29.60018,
+    "lng": 32.31671
+  },
+  {
+    "name": "Aielo de Malferit",
+    "country": "ES",
+    "lat": 38.88333,
+    "lng": -0.58333
+  },
+  {
+    "name": "Aigües",
+    "country": "ES",
+    "lat": 38.5,
+    "lng": -0.35
+  },
+  {
+    "name": "Aitona",
+    "country": "ES",
+    "lat": 41.48333,
+    "lng": 0.46667
+  },
+  {
+    "name": "Aiguafreda",
+    "country": "ES",
+    "lat": 41.76807,
+    "lng": 2.25051
+  },
+  {
+    "name": "Aia",
+    "country": "ES",
+    "lat": 43.23721,
+    "lng": -2.14833
+  },
+  {
+    "name": "Aizarnazabal",
+    "country": "ES",
+    "lat": 43.25591,
+    "lng": -2.23607
+  },
+  {
+    "name": "Ainzón",
+    "country": "ES",
+    "lat": 41.81644,
+    "lng": -1.51995
+  },
+  {
+    "name": "Aiguaviva",
+    "country": "ES",
+    "lat": 41.9384,
+    "lng": 2.76217
+  },
+  {
+    "name": "Aizenay",
+    "country": "FR",
+    "lat": 46.74048,
+    "lng": -1.60911
+  },
+  {
+    "name": "Aix-Noulette",
+    "country": "FR",
+    "lat": 50.42568,
+    "lng": 2.70554
+  },
+  {
+    "name": "Aix-les-Bains",
+    "country": "FR",
+    "lat": 45.69173,
+    "lng": 5.90863
+  },
+  {
+    "name": "Aixe-sur-Vienne",
+    "country": "FR",
+    "lat": 45.79663,
+    "lng": 1.13581
+  },
+  {
+    "name": "Aix-en-Provence",
+    "country": "FR",
+    "lat": 43.5283,
+    "lng": 5.44973
+  },
+  {
+    "name": "Aix-en-Othe",
+    "country": "FR",
+    "lat": 48.22391,
+    "lng": 3.73425
+  },
+  {
+    "name": "Aiton",
+    "country": "FR",
+    "lat": 45.56123,
+    "lng": 6.25955
+  },
+  {
+    "name": "Aiserey",
+    "country": "FR",
+    "lat": 47.17229,
+    "lng": 5.1626
+  },
+  {
+    "name": "Airvault",
+    "country": "FR",
+    "lat": 46.82698,
+    "lng": -0.13791
+  },
+  {
+    "name": "Aire-sur-la-Lys",
+    "country": "FR",
+    "lat": 50.63871,
+    "lng": 2.39876
+  },
+  {
+    "name": "Aire-sur-l'Adour",
+    "country": "FR",
+    "lat": 43.70251,
+    "lng": -0.26276
+  },
+  {
+    "name": "Airaines",
+    "country": "FR",
+    "lat": 49.96826,
+    "lng": 1.94266
+  },
+  {
+    "name": "Ainay-le-Château",
+    "country": "FR",
+    "lat": 46.71125,
+    "lng": 2.69238
+  },
+  {
+    "name": "Aime",
+    "country": "FR",
+    "lat": 45.55559,
+    "lng": 6.65042
+  },
+  {
+    "name": "Aimargues",
+    "country": "FR",
+    "lat": 43.68536,
+    "lng": 4.20774
+  },
+  {
+    "name": "Ailly-sur-Somme",
+    "country": "FR",
+    "lat": 49.92886,
+    "lng": 2.19615
+  },
+  {
+    "name": "Ailly-sur-Noye",
+    "country": "FR",
+    "lat": 49.75707,
+    "lng": 2.36367
+  },
+  {
+    "name": "Aillevillers-et-Lyaumont",
+    "country": "FR",
+    "lat": 47.92033,
+    "lng": 6.33775
+  },
+  {
+    "name": "Aillant-sur-Tholon",
+    "country": "FR",
+    "lat": 47.87426,
+    "lng": 3.35049
+  },
+  {
+    "name": "Aigurande",
+    "country": "FR",
+    "lat": 46.43397,
+    "lng": 1.83026
+  },
+  {
+    "name": "Aiguillon",
+    "country": "FR",
+    "lat": 44.29919,
+    "lng": 0.33943
+  },
+  {
+    "name": "Aigues-Vives",
+    "country": "FR",
+    "lat": 43.7397,
+    "lng": 4.17976
+  },
+  {
+    "name": "Aigues-Mortes",
+    "country": "FR",
+    "lat": 43.56683,
+    "lng": 4.19068
+  },
+  {
+    "name": "Aigueperse",
+    "country": "FR",
+    "lat": 46.02255,
+    "lng": 3.20228
+  },
+  {
+    "name": "Aiguefonde",
+    "country": "FR",
+    "lat": 43.49419,
+    "lng": 2.31651
+  },
+  {
+    "name": "Aigueblanche",
+    "country": "FR",
+    "lat": 45.50455,
+    "lng": 6.50184
+  },
+  {
+    "name": "Aigrefeuille-sur-Maine",
+    "country": "FR",
+    "lat": 47.08008,
+    "lng": -1.40419
+  },
+  {
+    "name": "Aigre",
+    "country": "FR",
+    "lat": 45.89151,
+    "lng": 0.00824
+  },
+  {
+    "name": "Aigné",
+    "country": "FR",
+    "lat": 48.06719,
+    "lng": 0.11926
+  },
+  {
+    "name": "Aiglemont",
+    "country": "FR",
+    "lat": 49.78031,
+    "lng": 4.76483
+  },
+  {
+    "name": "Aiffres",
+    "country": "FR",
+    "lat": 46.28873,
+    "lng": -0.41466
+  },
+  {
+    "name": "Airth",
+    "country": "GB",
+    "lat": 56.06983,
+    "lng": -3.77209
+  },
+  {
+    "name": "Airmyn",
+    "country": "GB",
+    "lat": 53.72074,
+    "lng": -0.89959
+  },
+  {
+    "name": "Airdrie",
+    "country": "GB",
+    "lat": 55.86602,
+    "lng": -3.98025
+  },
+  {
+    "name": "Aigburth",
+    "country": "GB",
+    "lat": 53.36526,
+    "lng": -2.91782
+  },
+  {
+    "name": "Ailsworth",
+    "country": "GB",
+    "lat": 52.57585,
+    "lng": -0.35032
+  },
+  {
+    "name": "Aitolikó",
+    "country": "GR",
+    "lat": 38.43704,
+    "lng": 21.35358
+  },
+  {
+    "name": "Aigáleo",
+    "country": "GR",
+    "lat": 37.98333,
+    "lng": 23.68333
+  },
+  {
+    "name": "Aidipsós",
+    "country": "GR",
+    "lat": 38.87924,
+    "lng": 23.04691
+  },
+  {
+    "name": "Aiánteio",
+    "country": "GR",
+    "lat": 37.92135,
+    "lng": 23.45877
+  },
+  {
+    "name": "Aigínio",
+    "country": "GR",
+    "lat": 40.50139,
+    "lng": 22.54
+  },
+  {
+    "name": "Aianí",
+    "country": "GR",
+    "lat": 40.16381,
+    "lng": 21.81945
+  },
+  {
+    "name": "Air Bangis",
+    "country": "ID",
+    "lat": 0.2018,
+    "lng": 99.37985
+  },
+  {
+    "name": "Aitinyo",
+    "country": "ID",
+    "lat": -1.3119,
+    "lng": 132.3447
+  },
+  {
+    "name": "Air Molek",
+    "country": "ID",
+    "lat": -0.37001,
+    "lng": 102.29221
+  },
+  {
+    "name": "Airmadidi",
+    "country": "ID",
+    "lat": 1.42804,
+    "lng": 124.97774
+  },
+  {
+    "name": "Aimere",
+    "country": "ID",
+    "lat": -8.8431,
+    "lng": 120.8579
+  },
+  {
+    "name": "Airbuaya",
+    "country": "ID",
+    "lat": -3.103,
+    "lng": 126.4207
+  },
+  {
+    "name": "Aikmel",
+    "country": "ID",
+    "lat": -8.5678,
+    "lng": 116.5305
+  },
+  {
+    "name": "Aifat",
+    "country": "ID",
+    "lat": -1.1664,
+    "lng": 132.5015
+  },
+  {
+    "name": "Aimas",
+    "country": "ID",
+    "lat": -0.95698,
+    "lng": 131.33535
+  },
+  {
+    "name": "Aizawl",
+    "country": "IN",
+    "lat": 23.72894,
+    "lng": 92.71791
+  },
+  {
+    "name": "Aish Maqām",
+    "country": "IN",
+    "lat": 33.86503,
+    "lng": 75.28369
+  },
+  {
+    "name": "Airoli",
+    "country": "IN",
+    "lat": 19.15096,
+    "lng": 72.99625
+  },
+  {
+    "name": "Aistala",
+    "country": "IN",
+    "lat": 23.18,
+    "lng": 88.58
+  },
+  {
+    "name": "Airāvadanallūr",
+    "country": "IN",
+    "lat": 9.90575,
+    "lng": 78.15521
+  },
+  {
+    "name": "Aieta",
+    "country": "IT",
+    "lat": 39.9278,
+    "lng": 15.82348
+  },
+  {
+    "name": "Aiello Calabro",
+    "country": "IT",
+    "lat": 39.11785,
+    "lng": 16.16539
+  },
+  {
+    "name": "Aidone",
+    "country": "IT",
+    "lat": 37.41468,
+    "lng": 14.44542
+  },
+  {
+    "name": "Airuno",
+    "country": "IT",
+    "lat": 45.75352,
+    "lng": 9.42765
+  },
+  {
+    "name": "Airole",
+    "country": "IT",
+    "lat": 43.87092,
+    "lng": 7.55414
+  },
+  {
+    "name": "Airola",
+    "country": "IT",
+    "lat": 41.05871,
+    "lng": 14.55924
+  },
+  {
+    "name": "Airasca",
+    "country": "IT",
+    "lat": 44.91719,
+    "lng": 7.48322
+  },
+  {
+    "name": "Ailoche",
+    "country": "IT",
+    "lat": 45.69812,
+    "lng": 8.22133
+  },
+  {
+    "name": "Ailano",
+    "country": "IT",
+    "lat": 41.39001,
+    "lng": 14.20536
+  },
+  {
+    "name": "Aiello del Sabato",
+    "country": "IT",
+    "lat": 40.88847,
+    "lng": 14.82123
+  },
+  {
+    "name": "Aiello del Friuli",
+    "country": "IT",
+    "lat": 45.87276,
+    "lng": 13.36038
+  },
+  {
+    "name": "Aielli",
+    "country": "IT",
+    "lat": 42.08146,
+    "lng": 13.59113
+  },
+  {
+    "name": "Aidomaggiore",
+    "country": "IT",
+    "lat": 40.17147,
+    "lng": 8.85679
+  },
+  {
+    "name": "Aicurzio",
+    "country": "IT",
+    "lat": 45.63998,
+    "lng": 9.41495
+  },
+  {
+    "name": "Aisone",
+    "country": "IT",
+    "lat": 44.31392,
+    "lng": 7.21963
+  },
+  {
+    "name": "Airali",
+    "country": "IT",
+    "lat": 44.8167,
+    "lng": 7.25157
+  },
+  {
+    "name": "Aioi",
+    "country": "JP",
+    "lat": 34.80361,
+    "lng": 134.46806
+  },
+  {
+    "name": "Aihara",
+    "country": "JP",
+    "lat": 35.6,
+    "lng": 139.31667
+  },
+  {
+    "name": "Aibetsu",
+    "country": "JP",
+    "lat": 43.90655,
+    "lng": 142.57748
+  },
+  {
+    "name": "Aizu-Wakamatsu",
+    "country": "JP",
+    "lat": 37.49142,
+    "lng": 139.94546
+  },
+  {
+    "name": "Aisai",
+    "country": "JP",
+    "lat": 35.16349,
+    "lng": 136.73222
+  },
+  {
+    "name": "Aizu-misato Machi",
+    "country": "JP",
+    "lat": 37.40862,
+    "lng": 139.81317
+  },
+  {
+    "name": "Aira",
+    "country": "JP",
+    "lat": 31.77429,
+    "lng": 130.59208
+  },
+  {
+    "name": "Ain Ebel",
+    "country": "LB",
+    "lat": 33.11023,
+    "lng": 35.40251
+  },
+  {
+    "name": "Aizpute",
+    "country": "LV",
+    "lat": 56.72108,
+    "lng": 21.60156
+  },
+  {
+    "name": "Aizkraukle",
+    "country": "LV",
+    "lat": 56.60477,
+    "lng": 25.25534
+  },
+  {
+    "name": "Ainaži",
+    "country": "LV",
+    "lat": 57.86348,
+    "lng": 24.35853
+  },
+  {
+    "name": "Ait Yazza",
+    "country": "MA",
+    "lat": 30.50188,
+    "lng": -8.79917
+  },
+  {
+    "name": "Ait Ourir",
+    "country": "MA",
+    "lat": 31.56517,
+    "lng": -7.66163
+  },
+  {
+    "name": "Ain Erreggada",
+    "country": "MA",
+    "lat": 34.93348,
+    "lng": -2.22995
+  },
+  {
+    "name": "Ain Dourij",
+    "country": "MA",
+    "lat": 34.61427,
+    "lng": -5.28733
+  },
+  {
+    "name": "Ain El Aouda",
+    "country": "MA",
+    "lat": 33.80333,
+    "lng": -6.79461
+  },
+  {
+    "name": "Ain Aicha",
+    "country": "MA",
+    "lat": 34.46103,
+    "lng": -4.69026
+  },
+  {
+    "name": "Ait Melloul",
+    "country": "MA",
+    "lat": 30.34164,
+    "lng": -9.50356
+  },
+  {
+    "name": "Ain Karma",
+    "country": "MA",
+    "lat": 34.00664,
+    "lng": -5.6157
+  },
+  {
+    "name": "Ait Khallouf",
+    "country": "MA",
+    "lat": 31.26179,
+    "lng": -9.27259
+  },
+  {
+    "name": "Ailuk",
+    "country": "MH",
+    "lat": 10.21972,
+    "lng": 169.97967
+  },
+  {
+    "name": "Airuk",
+    "country": "MH",
+    "lat": 7.27717,
+    "lng": 168.8203
+  },
+  {
+    "name": "Aiyetoro",
+    "country": "NG",
+    "lat": 6.45917,
+    "lng": 3.3425
+  },
+  {
+    "name": "Aidanfield",
+    "country": "NZ",
+    "lat": -43.56666,
+    "lng": 172.5686
+  },
+  {
+    "name": "Ailigandí",
+    "country": "PA",
+    "lat": 9.2281,
+    "lng": -78.02778
+  },
+  {
+    "name": "Aija",
+    "country": "PE",
+    "lat": -9.78099,
+    "lng": -77.60973
+  },
+  {
+    "name": "Aitape",
+    "country": "PG",
+    "lat": -3.13697,
+    "lng": 142.34913
+  },
+  {
+    "name": "Aibonito",
+    "country": "PR",
+    "lat": 18.13996,
+    "lng": -66.266
+  },
+  {
+    "name": "Aiudul de Sus",
+    "country": "RO",
+    "lat": 46.31653,
+    "lng": 23.69053
+  },
+  {
+    "name": "Aiud",
+    "country": "RO",
+    "lat": 46.31006,
+    "lng": 23.72128
+  },
+  {
+    "name": "Aiton",
+    "country": "RO",
+    "lat": 46.68333,
+    "lng": 23.73333
+  },
+  {
+    "name": "Aita Mare",
+    "country": "RO",
+    "lat": 45.96667,
+    "lng": 25.55
+  },
+  {
+    "name": "Ain AlBaraha",
+    "country": "SA",
+    "lat": 24.75806,
+    "lng": 43.77389
+  },
+  {
+    "name": "Ainaro",
+    "country": "TL",
+    "lat": -8.99241,
+    "lng": 125.50816
+  },
+  {
+    "name": "Aileu",
+    "country": "TL",
+    "lat": -8.72806,
+    "lng": 125.56639
+  },
+  {
+    "name": "Aissirimou",
+    "country": "TL",
+    "lat": -8.72607,
+    "lng": 125.57146
+  },
+  {
+    "name": "Ain Jaloulah",
+    "country": "TN",
+    "lat": 35.79972,
+    "lng": 9.80477
+  },
+  {
+    "name": "Ailet Jridani",
+    "country": "TN",
+    "lat": 35.10051,
+    "lng": 10.03425
+  },
+  {
+    "name": "Aidar-Mykolaivka",
+    "country": "UA",
+    "lat": 48.97457,
+    "lng": 38.96938
+  },
+  {
+    "name": "Airville",
+    "country": "US",
+    "lat": 39.83232,
+    "lng": -76.40635
+  },
+  {
+    "name": "Aiken",
+    "country": "US",
+    "lat": 33.56042,
+    "lng": -81.71955
+  },
+  {
+    "name": "Aitkin",
+    "country": "US",
+    "lat": 46.53301,
+    "lng": -93.71025
+  },
+  {
+    "name": "Ainsworth",
+    "country": "US",
+    "lat": 42.55,
+    "lng": -99.86262
+  },
+  {
+    "name": "Airmont",
+    "country": "US",
+    "lat": 41.10093,
+    "lng": -74.11625
+  },
+  {
+    "name": "Airway Heights",
+    "country": "US",
+    "lat": 47.64461,
+    "lng": -117.59327
+  },
+  {
+    "name": "Aina Haina",
+    "country": "US",
+    "lat": 21.28194,
+    "lng": -157.7525
+  },
+  {
+    "name": "Ainaloa",
+    "country": "US",
+    "lat": 19.52694,
+    "lng": -154.99306
+  },
+  {
+    "name": "Air Force Academy",
+    "country": "US",
+    "lat": 38.99425,
+    "lng": -104.86375
+  },
+  {
+    "name": "Aina Haina-Hawaii Loa Ridge",
+    "country": "US",
+    "lat": 21.29139,
+    "lng": -157.75578
+  },
+  {
+    "name": "Aiguá",
+    "country": "UY",
+    "lat": -34.20498,
+    "lng": -54.75665
+  }
+]

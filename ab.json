@@ -1,0 +1,2318 @@
+[
+  {
+    "name": "Abu Dhabi",
+    "country": "AE",
+    "lat": 24.45118,
+    "lng": 54.39696
+  },
+  {
+    "name": "Abū Hayl",
+    "country": "AE",
+    "lat": 25.28413,
+    "lng": 55.33153
+  },
+  {
+    "name": "Abū Mūsá",
+    "country": "AE",
+    "lat": 25.86698,
+    "lng": 55.02363
+  },
+  {
+    "name": "Abovyan",
+    "country": "AM",
+    "lat": 40.2717,
+    "lng": 44.63342
+  },
+  {
+    "name": "Abovyan",
+    "country": "AM",
+    "lat": 40.04851,
+    "lng": 44.54742
+  },
+  {
+    "name": "Abra Pampa",
+    "country": "AR",
+    "lat": -22.72273,
+    "lng": -65.69693
+  },
+  {
+    "name": "Abwinden",
+    "country": "AT",
+    "lat": 48.25903,
+    "lng": 14.42625
+  },
+  {
+    "name": "Abtissendorf",
+    "country": "AT",
+    "lat": 46.99583,
+    "lng": 15.45639
+  },
+  {
+    "name": "Abtenau",
+    "country": "AT",
+    "lat": 47.56373,
+    "lng": 13.34599
+  },
+  {
+    "name": "Absam",
+    "country": "AT",
+    "lat": 47.29572,
+    "lng": 11.50593
+  },
+  {
+    "name": "Abfaltersbach",
+    "country": "AT",
+    "lat": 46.75715,
+    "lng": 12.52828
+  },
+  {
+    "name": "Absdorf",
+    "country": "AT",
+    "lat": 48.40021,
+    "lng": 15.97874
+  },
+  {
+    "name": "Abermain",
+    "country": "AU",
+    "lat": -32.8074,
+    "lng": 151.4275
+  },
+  {
+    "name": "Aberglasslyn",
+    "country": "AU",
+    "lat": -32.7,
+    "lng": 151.53333
+  },
+  {
+    "name": "Aberdeen",
+    "country": "AU",
+    "lat": -32.16588,
+    "lng": 150.89003
+  },
+  {
+    "name": "Aberdare",
+    "country": "AU",
+    "lat": -32.84112,
+    "lng": 151.38168
+  },
+  {
+    "name": "Abbotsford",
+    "country": "AU",
+    "lat": -33.84889,
+    "lng": 151.12801
+  },
+  {
+    "name": "Abbotsford",
+    "country": "AU",
+    "lat": -37.8,
+    "lng": 145.0
+  },
+  {
+    "name": "Abbey",
+    "country": "AU",
+    "lat": -33.66364,
+    "lng": 115.25635
+  },
+  {
+    "name": "Aberfeldie",
+    "country": "AU",
+    "lat": -37.75959,
+    "lng": 144.8974
+  },
+  {
+    "name": "Abbotsbury",
+    "country": "AU",
+    "lat": -33.8701,
+    "lng": 150.86119
+  },
+  {
+    "name": "Abercrombie",
+    "country": "AU",
+    "lat": -33.38867,
+    "lng": 149.5458
+  },
+  {
+    "name": "Aberfoyle Park",
+    "country": "AU",
+    "lat": -35.0768,
+    "lng": 138.59163
+  },
+  {
+    "name": "Absouya",
+    "country": "BF",
+    "lat": 12.6406,
+    "lng": -1.05426
+  },
+  {
+    "name": "Abomey-Calavi",
+    "country": "BJ",
+    "lat": 6.44852,
+    "lng": 2.35566
+  },
+  {
+    "name": "Abomey",
+    "country": "BJ",
+    "lat": 7.18286,
+    "lng": 1.99119
+  },
+  {
+    "name": "Abapó Viejo",
+    "country": "BO",
+    "lat": -18.88562,
+    "lng": -63.3829
+  },
+  {
+    "name": "Abreu e Lima",
+    "country": "BR",
+    "lat": -7.91167,
+    "lng": -34.90278
+  },
+  {
+    "name": "Abaré",
+    "country": "BR",
+    "lat": -8.72028,
+    "lng": -39.11389
+  },
+  {
+    "name": "Abaiara",
+    "country": "BR",
+    "lat": -7.36035,
+    "lng": -39.04888
+  },
+  {
+    "name": "Abaetetuba",
+    "country": "BR",
+    "lat": -1.71806,
+    "lng": -48.8825
+  },
+  {
+    "name": "Abreulândia",
+    "country": "BR",
+    "lat": -9.62139,
+    "lng": -49.15083
+  },
+  {
+    "name": "Abre Campo",
+    "country": "BR",
+    "lat": -20.30111,
+    "lng": -42.4775
+  },
+  {
+    "name": "Abelardo Luz",
+    "country": "BR",
+    "lat": -26.56472,
+    "lng": -52.32833
+  },
+  {
+    "name": "Abdon Batista",
+    "country": "BR",
+    "lat": -27.61111,
+    "lng": -51.0225
+  },
+  {
+    "name": "Abatiá",
+    "country": "BR",
+    "lat": -23.30361,
+    "lng": -50.3125
+  },
+  {
+    "name": "Abaíra",
+    "country": "BR",
+    "lat": -13.24972,
+    "lng": -41.66361
+  },
+  {
+    "name": "Abaeté",
+    "country": "BR",
+    "lat": -19.16,
+    "lng": -45.44583
+  },
+  {
+    "name": "Abadiânia",
+    "country": "BR",
+    "lat": -16.20417,
+    "lng": -48.70694
+  },
+  {
+    "name": "Abadia dos Dourados",
+    "country": "BR",
+    "lat": -18.48556,
+    "lng": -47.40306
+  },
+  {
+    "name": "Abadia de Goiás",
+    "country": "BR",
+    "lat": -16.75722,
+    "lng": -49.4375
+  },
+  {
+    "name": "Abel Figueiredo",
+    "country": "BR",
+    "lat": -4.95361,
+    "lng": -48.39333
+  },
+  {
+    "name": "Abraham’s Bay",
+    "country": "BS",
+    "lat": 22.36667,
+    "lng": -72.96667
+  },
+  {
+    "name": "Abbotsford",
+    "country": "CA",
+    "lat": 49.05798,
+    "lng": -122.25257
+  },
+  {
+    "name": "Aberdeen",
+    "country": "CA",
+    "lat": 50.65,
+    "lng": -120.36667
+  },
+  {
+    "name": "Abbeydale",
+    "country": "CA",
+    "lat": 51.0593,
+    "lng": -113.92857
+  },
+  {
+    "name": "Abala",
+    "country": "CG",
+    "lat": -3.36,
+    "lng": 15.47583
+  },
+  {
+    "name": "Aboisso Comoé",
+    "country": "CI",
+    "lat": 5.7351,
+    "lng": -3.40338
+  },
+  {
+    "name": "Abronambué",
+    "country": "CI",
+    "lat": 6.75611,
+    "lng": -3.34139
+  },
+  {
+    "name": "Aby",
+    "country": "CI",
+    "lat": 5.30502,
+    "lng": -3.16916
+  },
+  {
+    "name": "Abradine",
+    "country": "CI",
+    "lat": 6.19975,
+    "lng": -3.61125
+  },
+  {
+    "name": "Abradinou",
+    "country": "CI",
+    "lat": 6.19639,
+    "lng": -3.455
+  },
+  {
+    "name": "Aboudé",
+    "country": "CI",
+    "lat": 5.89609,
+    "lng": -4.56253
+  },
+  {
+    "name": "Abouakouassikro",
+    "country": "CI",
+    "lat": 6.82485,
+    "lng": -5.32952
+  },
+  {
+    "name": "Abokouamikro",
+    "country": "CI",
+    "lat": 6.82884,
+    "lng": -5.05506
+  },
+  {
+    "name": "Abongoua",
+    "country": "CI",
+    "lat": 6.6527,
+    "lng": -4.10178
+  },
+  {
+    "name": "Abolikro",
+    "country": "CI",
+    "lat": 7.68467,
+    "lng": -5.33337
+  },
+  {
+    "name": "Abokouma",
+    "country": "CI",
+    "lat": 7.71385,
+    "lng": -3.12834
+  },
+  {
+    "name": "Aboisso",
+    "country": "CI",
+    "lat": 5.46779,
+    "lng": -3.20711
+  },
+  {
+    "name": "Aboindoukpinkro",
+    "country": "CI",
+    "lat": 7.20252,
+    "lng": -4.06621
+  },
+  {
+    "name": "Abongnikro",
+    "country": "CI",
+    "lat": 7.19149,
+    "lng": -4.44222
+  },
+  {
+    "name": "Abouakakro",
+    "country": "CI",
+    "lat": 6.47305,
+    "lng": -5.10377
+  },
+  {
+    "name": "Abobo",
+    "country": "CI",
+    "lat": 5.41613,
+    "lng": -4.0159
+  },
+  {
+    "name": "Abli Aloukro",
+    "country": "CI",
+    "lat": 6.59422,
+    "lng": -4.99499
+  },
+  {
+    "name": "Abigui",
+    "country": "CI",
+    "lat": 6.69462,
+    "lng": -4.83379
+  },
+  {
+    "name": "Abié",
+    "country": "CI",
+    "lat": 5.86647,
+    "lng": -3.92574
+  },
+  {
+    "name": "Abidjan",
+    "country": "CI",
+    "lat": 5.35444,
+    "lng": -4.00167
+  },
+  {
+    "name": "Abiati",
+    "country": "CI",
+    "lat": 5.28984,
+    "lng": -3.17069
+  },
+  {
+    "name": "Abengourou",
+    "country": "CI",
+    "lat": 6.72972,
+    "lng": -3.49639
+  },
+  {
+    "name": "Abongoua",
+    "country": "CI",
+    "lat": 6.24709,
+    "lng": -3.54335
+  },
+  {
+    "name": "Abédéni",
+    "country": "CI",
+    "lat": 7.68353,
+    "lng": -4.06475
+  },
+  {
+    "name": "Abéanou",
+    "country": "CI",
+    "lat": 6.97326,
+    "lng": -4.2328
+  },
+  {
+    "name": "Abatoulilié",
+    "country": "CI",
+    "lat": 5.99533,
+    "lng": -5.60615
+  },
+  {
+    "name": "Abadjin-Kouté",
+    "country": "CI",
+    "lat": 5.33017,
+    "lng": -4.15226
+  },
+  {
+    "name": "Abadjin-Doumé",
+    "country": "CI",
+    "lat": 5.30962,
+    "lng": -4.14669
+  },
+  {
+    "name": "Abata",
+    "country": "CI",
+    "lat": 5.3233,
+    "lng": -3.91434
+  },
+  {
+    "name": "Abévé",
+    "country": "CI",
+    "lat": 5.91111,
+    "lng": -4.74439
+  },
+  {
+    "name": "Aboka",
+    "country": "CI",
+    "lat": 6.53867,
+    "lng": -6.81589
+  },
+  {
+    "name": "Abrobakro",
+    "country": "CI",
+    "lat": 5.27703,
+    "lng": -3.51283
+  },
+  {
+    "name": "Abé",
+    "country": "CI",
+    "lat": 5.66047,
+    "lng": -3.98753
+  },
+  {
+    "name": "Abrotchi",
+    "country": "CI",
+    "lat": 5.54297,
+    "lng": -3.63473
+  },
+  {
+    "name": "Aboutou",
+    "country": "CI",
+    "lat": 5.21772,
+    "lng": -3.34071
+  },
+  {
+    "name": "Aboulié",
+    "country": "CI",
+    "lat": 5.45484,
+    "lng": -2.92349
+  },
+  {
+    "name": "Abouakro",
+    "country": "CI",
+    "lat": 6.41309,
+    "lng": -5.15457
+  },
+  {
+    "name": "Abiéhou",
+    "country": "CI",
+    "lat": 5.55396,
+    "lng": -4.53085
+  },
+  {
+    "name": "Aboukro",
+    "country": "CI",
+    "lat": 6.75904,
+    "lng": -5.32598
+  },
+  {
+    "name": "Abokro-Damé",
+    "country": "CI",
+    "lat": 7.51851,
+    "lng": -3.35898
+  },
+  {
+    "name": "Abong Mbang",
+    "country": "CM",
+    "lat": 3.98333,
+    "lng": 13.18333
+  },
+  {
+    "name": "Aba",
+    "country": "CN",
+    "lat": 32.90594,
+    "lng": 101.70625
+  },
+  {
+    "name": "Abriaquí",
+    "country": "CO",
+    "lat": 6.63148,
+    "lng": -76.06444
+  },
+  {
+    "name": "Abrego",
+    "country": "CO",
+    "lat": 8.08202,
+    "lng": -73.22135
+  },
+  {
+    "name": "Abejorral",
+    "country": "CO",
+    "lat": 5.78928,
+    "lng": -75.42725
+  },
+  {
+    "name": "Abreus",
+    "country": "CU",
+    "lat": 22.27797,
+    "lng": -80.56931
+  },
+  {
+    "name": "Abertamy",
+    "country": "CZ",
+    "lat": 50.36874,
+    "lng": 12.81826
+  },
+  {
+    "name": "Abtsgmünd",
+    "country": "DE",
+    "lat": 48.89503,
+    "lng": 10.00172
+  },
+  {
+    "name": "Abtsdorf",
+    "country": "DE",
+    "lat": 51.88984,
+    "lng": 12.72526
+  },
+  {
+    "name": "Abstatt",
+    "country": "DE",
+    "lat": 49.0682,
+    "lng": 9.2907
+  },
+  {
+    "name": "Absberg",
+    "country": "DE",
+    "lat": 49.14438,
+    "lng": 10.88101
+  },
+  {
+    "name": "Abensberg",
+    "country": "DE",
+    "lat": 48.81684,
+    "lng": 11.8498
+  },
+  {
+    "name": "Abenberg",
+    "country": "DE",
+    "lat": 49.24282,
+    "lng": 10.96401
+  },
+  {
+    "name": "Abbesbüttel",
+    "country": "DE",
+    "lat": 52.35233,
+    "lng": 10.55649
+  },
+  {
+    "name": "Abou el Hassan",
+    "country": "DZ",
+    "lat": 36.41657,
+    "lng": 1.19616
+  },
+  {
+    "name": "Abadla",
+    "country": "DZ",
+    "lat": 31.019,
+    "lng": -2.72387
+  },
+  {
+    "name": "Abdón Calderón",
+    "country": "EC",
+    "lat": -1.02979,
+    "lng": -80.34285
+  },
+  {
+    "name": "Abja-Paluoja",
+    "country": "EE",
+    "lat": 58.12528,
+    "lng": 25.34972
+  },
+  {
+    "name": "Abū Ţisht",
+    "country": "EG",
+    "lat": 26.12039,
+    "lng": 32.09543
+  },
+  {
+    "name": "Abū Tīj",
+    "country": "EG",
+    "lat": 27.04514,
+    "lng": 31.31845
+  },
+  {
+    "name": "Abu Suweir-el-Mahatta",
+    "country": "EG",
+    "lat": 30.56977,
+    "lng": 32.1146
+  },
+  {
+    "name": "Abu Simbel",
+    "country": "EG",
+    "lat": 22.3457,
+    "lng": 31.61624
+  },
+  {
+    "name": "Abū Qurqāş",
+    "country": "EG",
+    "lat": 27.93043,
+    "lng": 30.83826
+  },
+  {
+    "name": "Abū Kabīr",
+    "country": "EG",
+    "lat": 30.72508,
+    "lng": 31.67148
+  },
+  {
+    "name": "Abū Ḩummuş",
+    "country": "EG",
+    "lat": 31.09311,
+    "lng": 30.31418
+  },
+  {
+    "name": "Abū Ḩammād",
+    "country": "EG",
+    "lat": 30.53766,
+    "lng": 31.67875
+  },
+  {
+    "name": "Abū an Numrus",
+    "country": "EG",
+    "lat": 29.95,
+    "lng": 31.2
+  },
+  {
+    "name": "Abū al Maţāmīr",
+    "country": "EG",
+    "lat": 30.91018,
+    "lng": 30.17438
+  },
+  {
+    "name": "Abnūb",
+    "country": "EG",
+    "lat": 27.26881,
+    "lng": 31.15232
+  },
+  {
+    "name": "Abrucena",
+    "country": "ES",
+    "lat": 37.13226,
+    "lng": -2.79711
+  },
+  {
+    "name": "Abla",
+    "country": "ES",
+    "lat": 37.14245,
+    "lng": -2.77808
+  },
+  {
+    "name": "Abertura",
+    "country": "ES",
+    "lat": 39.24352,
+    "lng": -5.81394
+  },
+  {
+    "name": "Abenójar",
+    "country": "ES",
+    "lat": 38.88032,
+    "lng": -4.35702
+  },
+  {
+    "name": "Abengibre",
+    "country": "ES",
+    "lat": 39.21667,
+    "lng": -1.53333
+  },
+  {
+    "name": "Abarán",
+    "country": "ES",
+    "lat": 38.20551,
+    "lng": -1.39907
+  },
+  {
+    "name": "Abanilla",
+    "country": "ES",
+    "lat": 38.20537,
+    "lng": -1.04153
+  },
+  {
+    "name": "Abusejo",
+    "country": "ES",
+    "lat": 40.709,
+    "lng": -6.14074
+  },
+  {
+    "name": "Abrera",
+    "country": "ES",
+    "lat": 41.51682,
+    "lng": 1.901
+  },
+  {
+    "name": "Ablitas",
+    "country": "ES",
+    "lat": 41.9745,
+    "lng": -1.64053
+  },
+  {
+    "name": "Ablanque",
+    "country": "ES",
+    "lat": 40.89818,
+    "lng": -2.22523
+  },
+  {
+    "name": "Abizanda",
+    "country": "ES",
+    "lat": 42.24236,
+    "lng": 0.19717
+  },
+  {
+    "name": "Abiego",
+    "country": "ES",
+    "lat": 42.12094,
+    "lng": -0.06873
+  },
+  {
+    "name": "Abia de las Torres",
+    "country": "ES",
+    "lat": 42.42016,
+    "lng": -4.42131
+  },
+  {
+    "name": "Abezames",
+    "country": "ES",
+    "lat": 41.62642,
+    "lng": -5.42577
+  },
+  {
+    "name": "Abella de la Conca",
+    "country": "ES",
+    "lat": 42.16163,
+    "lng": 1.09228
+  },
+  {
+    "name": "Abejar",
+    "country": "ES",
+    "lat": 41.80755,
+    "lng": -2.78407
+  },
+  {
+    "name": "Abegondo",
+    "country": "ES",
+    "lat": 43.21667,
+    "lng": -8.28333
+  },
+  {
+    "name": "Abanto",
+    "country": "ES",
+    "lat": 41.13751,
+    "lng": -1.69818
+  },
+  {
+    "name": "Abánades",
+    "country": "ES",
+    "lat": 40.89261,
+    "lng": -2.48526
+  },
+  {
+    "name": "Abaltzisketa",
+    "country": "ES",
+    "lat": 43.04744,
+    "lng": -2.10532
+  },
+  {
+    "name": "Abajas",
+    "country": "ES",
+    "lat": 42.6231,
+    "lng": -3.58086
+  },
+  {
+    "name": "Abáigar",
+    "country": "ES",
+    "lat": 42.64823,
+    "lng": -2.14182
+  },
+  {
+    "name": "Abadín",
+    "country": "ES",
+    "lat": 43.36667,
+    "lng": -7.48333
+  },
+  {
+    "name": "Abadiño",
+    "country": "ES",
+    "lat": 43.1511,
+    "lng": -2.60942
+  },
+  {
+    "name": "Abadía",
+    "country": "ES",
+    "lat": 40.25922,
+    "lng": -5.97828
+  },
+  {
+    "name": "Abades",
+    "country": "ES",
+    "lat": 40.91646,
+    "lng": -4.26937
+  },
+  {
+    "name": "Ababuj",
+    "country": "ES",
+    "lat": 40.54908,
+    "lng": -0.80758
+  },
+  {
+    "name": "Abrantes",
+    "country": "ES",
+    "lat": 40.37898,
+    "lng": -3.72617
+  },
+  {
+    "name": "Abomsa",
+    "country": "ET",
+    "lat": 9.98333,
+    "lng": 39.98333
+  },
+  {
+    "name": "Abala",
+    "country": "ET",
+    "lat": 14.23333,
+    "lng": 37.0
+  },
+  {
+    "name": "Abzac",
+    "country": "FR",
+    "lat": 45.01611,
+    "lng": -0.12883
+  },
+  {
+    "name": "Abscon",
+    "country": "FR",
+    "lat": 50.33333,
+    "lng": 3.3
+  },
+  {
+    "name": "Abrest",
+    "country": "FR",
+    "lat": 46.09859,
+    "lng": 3.44461
+  },
+  {
+    "name": "Abreschviller",
+    "country": "FR",
+    "lat": 48.63698,
+    "lng": 7.09607
+  },
+  {
+    "name": "Abondant",
+    "country": "FR",
+    "lat": 48.7859,
+    "lng": 1.44006
+  },
+  {
+    "name": "Abondance",
+    "country": "FR",
+    "lat": 46.27874,
+    "lng": 6.72105
+  },
+  {
+    "name": "Ablon-sur-Seine",
+    "country": "FR",
+    "lat": 48.72732,
+    "lng": 2.42686
+  },
+  {
+    "name": "Ablon",
+    "country": "FR",
+    "lat": 49.39214,
+    "lng": 0.29584
+  },
+  {
+    "name": "Ablis",
+    "country": "FR",
+    "lat": 48.5172,
+    "lng": 1.83624
+  },
+  {
+    "name": "Ableiges",
+    "country": "FR",
+    "lat": 49.08932,
+    "lng": 1.98154
+  },
+  {
+    "name": "Ablain-Saint-Nazaire",
+    "country": "FR",
+    "lat": 50.3932,
+    "lng": 2.7088
+  },
+  {
+    "name": "Abilly",
+    "country": "FR",
+    "lat": 46.93333,
+    "lng": 0.73333
+  },
+  {
+    "name": "Abeilhan",
+    "country": "FR",
+    "lat": 43.4499,
+    "lng": 3.29488
+  },
+  {
+    "name": "Abbeville",
+    "country": "FR",
+    "lat": 50.10521,
+    "lng": 1.83547
+  },
+  {
+    "name": "Abbaretz",
+    "country": "FR",
+    "lat": 47.55254,
+    "lng": -1.53301
+  },
+  {
+    "name": "Aboumi",
+    "country": "GA",
+    "lat": -0.65522,
+    "lng": 14.13827
+  },
+  {
+    "name": "Abram",
+    "country": "GB",
+    "lat": 53.50855,
+    "lng": -2.59266
+  },
+  {
+    "name": "Aboyne",
+    "country": "GB",
+    "lat": 57.07546,
+    "lng": -2.78023
+  },
+  {
+    "name": "Abingdon",
+    "country": "GB",
+    "lat": 51.67109,
+    "lng": -1.28278
+  },
+  {
+    "name": "Aberystwyth",
+    "country": "GB",
+    "lat": 52.41548,
+    "lng": -4.08292
+  },
+  {
+    "name": "Abertillery",
+    "country": "GB",
+    "lat": 51.72981,
+    "lng": -3.13432
+  },
+  {
+    "name": "Aberporth",
+    "country": "GB",
+    "lat": 52.13248,
+    "lng": -4.54173
+  },
+  {
+    "name": "Abernethy",
+    "country": "GB",
+    "lat": 56.33247,
+    "lng": -3.31226
+  },
+  {
+    "name": "Abernant",
+    "country": "GB",
+    "lat": 51.88139,
+    "lng": -4.41556
+  },
+  {
+    "name": "Aberlady",
+    "country": "GB",
+    "lat": 56.00884,
+    "lng": -2.85851
+  },
+  {
+    "name": "Aberkenfig",
+    "country": "GB",
+    "lat": 51.54,
+    "lng": -3.59556
+  },
+  {
+    "name": "Abergele",
+    "country": "GB",
+    "lat": 53.28436,
+    "lng": -3.5822
+  },
+  {
+    "name": "Abergavenny",
+    "country": "GB",
+    "lat": 51.82098,
+    "lng": -3.01743
+  },
+  {
+    "name": "Aberford",
+    "country": "GB",
+    "lat": 53.82604,
+    "lng": -1.34231
+  },
+  {
+    "name": "Aberfeldy",
+    "country": "GB",
+    "lat": 56.62196,
+    "lng": -3.86693
+  },
+  {
+    "name": "Aberfan",
+    "country": "GB",
+    "lat": 51.68892,
+    "lng": -3.34178
+  },
+  {
+    "name": "Aberdour",
+    "country": "GB",
+    "lat": 56.05417,
+    "lng": -3.30058
+  },
+  {
+    "name": "Aberdeen",
+    "country": "GB",
+    "lat": 57.14369,
+    "lng": -2.09814
+  },
+  {
+    "name": "Aberdare",
+    "country": "GB",
+    "lat": 51.71438,
+    "lng": -3.44918
+  },
+  {
+    "name": "Abercynon",
+    "country": "GB",
+    "lat": 51.64548,
+    "lng": -3.32727
+  },
+  {
+    "name": "Aberchirder",
+    "country": "GB",
+    "lat": 57.56012,
+    "lng": -2.62856
+  },
+  {
+    "name": "Abercarn",
+    "country": "GB",
+    "lat": 51.64733,
+    "lng": -3.13476
+  },
+  {
+    "name": "Abercanaid",
+    "country": "GB",
+    "lat": 51.72361,
+    "lng": -3.36611
+  },
+  {
+    "name": "Aberaeron",
+    "country": "GB",
+    "lat": 52.24247,
+    "lng": -4.25871
+  },
+  {
+    "name": "Aber",
+    "country": "GB",
+    "lat": 53.23333,
+    "lng": -4.01667
+  },
+  {
+    "name": "Abbotts Ann",
+    "country": "GB",
+    "lat": 51.19016,
+    "lng": -1.53234
+  },
+  {
+    "name": "Abbots Langley",
+    "country": "GB",
+    "lat": 51.70573,
+    "lng": -0.41757
+  },
+  {
+    "name": "Abbotskerswell",
+    "country": "GB",
+    "lat": 50.50816,
+    "lng": -3.61342
+  },
+  {
+    "name": "Abbots Bromley",
+    "country": "GB",
+    "lat": 52.81705,
+    "lng": -1.87694
+  },
+  {
+    "name": "Abbey Dore",
+    "country": "GB",
+    "lat": 51.96667,
+    "lng": -2.9
+  },
+  {
+    "name": "Abertridwr",
+    "country": "GB",
+    "lat": 51.59583,
+    "lng": -3.26833
+  },
+  {
+    "name": "Abbey Wood",
+    "country": "GB",
+    "lat": 51.48688,
+    "lng": 0.10747
+  },
+  {
+    "name": "Abridge",
+    "country": "GB",
+    "lat": 51.6495,
+    "lng": 0.12033
+  },
+  {
+    "name": "Abbey Road",
+    "country": "GB",
+    "lat": 51.5349,
+    "lng": -0.1782
+  },
+  {
+    "name": "Abasha",
+    "country": "GE",
+    "lat": 42.20453,
+    "lng": 42.20357
+  },
+  {
+    "name": "Aburi",
+    "country": "GH",
+    "lat": 5.84802,
+    "lng": -0.17449
+  },
+  {
+    "name": "Aboso",
+    "country": "GH",
+    "lat": 5.36073,
+    "lng": -1.94856
+  },
+  {
+    "name": "Abuko",
+    "country": "GM",
+    "lat": 13.40417,
+    "lng": -16.65583
+  },
+  {
+    "name": "Aberdeen",
+    "country": "HK",
+    "lat": 22.24802,
+    "lng": 114.15289
+  },
+  {
+    "name": "Aberdeen Centre",
+    "country": "HK",
+    "lat": 22.24842,
+    "lng": 114.15406
+  },
+  {
+    "name": "Abony",
+    "country": "HU",
+    "lat": 47.1899,
+    "lng": 20.00476
+  },
+  {
+    "name": "Abaújszántó",
+    "country": "HU",
+    "lat": 48.28333,
+    "lng": 21.2
+  },
+  {
+    "name": "Abasár",
+    "country": "HU",
+    "lat": 47.79705,
+    "lng": 20.00324
+  },
+  {
+    "name": "Abádszalók",
+    "country": "HU",
+    "lat": 47.46667,
+    "lng": 20.6
+  },
+  {
+    "name": "Abda",
+    "country": "HU",
+    "lat": 47.69464,
+    "lng": 17.54489
+  },
+  {
+    "name": "Aba",
+    "country": "HU",
+    "lat": 47.02907,
+    "lng": 18.52172
+  },
+  {
+    "name": "Abepura",
+    "country": "ID",
+    "lat": -2.5964,
+    "lng": 140.6324
+  },
+  {
+    "name": "Abang",
+    "country": "ID",
+    "lat": -8.3866,
+    "lng": 115.6013
+  },
+  {
+    "name": "Abbeyleix",
+    "country": "IE",
+    "lat": 52.91331,
+    "lng": -7.34456
+  },
+  {
+    "name": "Abbeyfeale",
+    "country": "IE",
+    "lat": 52.38139,
+    "lng": -9.3025
+  },
+  {
+    "name": "Abū Sinān",
+    "country": "IL",
+    "lat": 32.95891,
+    "lng": 35.17152
+  },
+  {
+    "name": "Abū Ghaush",
+    "country": "IL",
+    "lat": 31.80592,
+    "lng": 35.1093
+  },
+  {
+    "name": "Abohar",
+    "country": "IN",
+    "lat": 30.14453,
+    "lng": 74.19552
+  },
+  {
+    "name": "Abirāmam",
+    "country": "IN",
+    "lat": 9.4423,
+    "lng": 78.4399
+  },
+  {
+    "name": "Abhayāpuri",
+    "country": "IN",
+    "lat": 26.32255,
+    "lng": 90.68526
+  },
+  {
+    "name": "Abhanpur",
+    "country": "IN",
+    "lat": 21.05309,
+    "lng": 81.74088
+  },
+  {
+    "name": "Abhaneri",
+    "country": "IN",
+    "lat": 27.00743,
+    "lng": 76.6076
+  },
+  {
+    "name": "Abrama",
+    "country": "IN",
+    "lat": 20.85865,
+    "lng": 72.90648
+  },
+  {
+    "name": "Abbaspur",
+    "country": "IN",
+    "lat": 33.8174,
+    "lng": 73.97568
+  },
+  {
+    "name": "Abdu Rahiman Nagar",
+    "country": "IN",
+    "lat": 11.06983,
+    "lng": 75.93879
+  },
+  {
+    "name": "Abī al Khaşīb",
+    "country": "IQ",
+    "lat": 30.44636,
+    "lng": 47.97813
+  },
+  {
+    "name": "Abū Ghurayb",
+    "country": "IQ",
+    "lat": 33.30563,
+    "lng": 44.18477
+  },
+  {
+    "name": "Abhar",
+    "country": "IR",
+    "lat": 36.1468,
+    "lng": 49.218
+  },
+  {
+    "name": "Abarkūh",
+    "country": "IR",
+    "lat": 31.1289,
+    "lng": 53.2824
+  },
+  {
+    "name": "Abadeh",
+    "country": "IR",
+    "lat": 31.1608,
+    "lng": 52.6506
+  },
+  {
+    "name": "Abadan",
+    "country": "IR",
+    "lat": 30.3392,
+    "lng": 48.3043
+  },
+  {
+    "name": "Abrīsham",
+    "country": "IR",
+    "lat": 32.55613,
+    "lng": 51.57325
+  },
+  {
+    "name": "Abriola",
+    "country": "IT",
+    "lat": 40.50748,
+    "lng": 15.8131
+  },
+  {
+    "name": "Abetone",
+    "country": "IT",
+    "lat": 44.14595,
+    "lng": 10.66407
+  },
+  {
+    "name": "Abbiategrasso",
+    "country": "IT",
+    "lat": 45.39821,
+    "lng": 8.91678
+  },
+  {
+    "name": "Abbazia Pisani",
+    "country": "IT",
+    "lat": 45.6127,
+    "lng": 11.85429
+  },
+  {
+    "name": "Abbateggio",
+    "country": "IT",
+    "lat": 42.22421,
+    "lng": 14.01001
+  },
+  {
+    "name": "Abbasanta",
+    "country": "IT",
+    "lat": 40.12812,
+    "lng": 8.8176
+  },
+  {
+    "name": "Abbadia San Salvatore",
+    "country": "IT",
+    "lat": 42.8812,
+    "lng": 11.6722
+  },
+  {
+    "name": "Abbadia Lariana",
+    "country": "IT",
+    "lat": 45.89947,
+    "lng": 9.33518
+  },
+  {
+    "name": "Abano Terme",
+    "country": "IT",
+    "lat": 45.35753,
+    "lng": 11.78725
+  },
+  {
+    "name": "Abbadia Cerreto",
+    "country": "IT",
+    "lat": 45.31217,
+    "lng": 9.59416
+  },
+  {
+    "name": "Abbazia",
+    "country": "IT",
+    "lat": 45.748,
+    "lng": 9.84205
+  },
+  {
+    "name": "Above Rocks",
+    "country": "JM",
+    "lat": 18.10678,
+    "lng": -76.87608
+  },
+  {
+    "name": "Abu",
+    "country": "JP",
+    "lat": 34.5,
+    "lng": 131.46667
+  },
+  {
+    "name": "Abiko",
+    "country": "JP",
+    "lat": 35.86667,
+    "lng": 140.01667
+  },
+  {
+    "name": "Abira",
+    "country": "JP",
+    "lat": 42.81667,
+    "lng": 141.83333
+  },
+  {
+    "name": "Abashiri",
+    "country": "JP",
+    "lat": 44.02127,
+    "lng": 144.26971
+  },
+  {
+    "name": "Abu Fatira",
+    "country": "KW",
+    "lat": 29.19746,
+    "lng": 48.10278
+  },
+  {
+    "name": "Abu Al Hasaniya",
+    "country": "KW",
+    "lat": 29.19076,
+    "lng": 48.11355
+  },
+  {
+    "name": "Abay",
+    "country": "KZ",
+    "lat": 49.63539,
+    "lng": 72.86523
+  },
+  {
+    "name": "Abay",
+    "country": "KZ",
+    "lat": 41.34682,
+    "lng": 68.9504
+  },
+  {
+    "name": "Abū Zayyān",
+    "country": "LY",
+    "lat": 32.09972,
+    "lng": 12.97861
+  },
+  {
+    "name": "Abadou",
+    "country": "MA",
+    "lat": 31.57917,
+    "lng": -7.31308
+  },
+  {
+    "name": "Abeïbara",
+    "country": "ML",
+    "lat": 19.11667,
+    "lng": 1.75
+  },
+  {
+    "name": "Abdel Begrou",
+    "country": "ML",
+    "lat": 15.4975,
+    "lng": -6.95056
+  },
+  {
+    "name": "Abasolo del Valle",
+    "country": "MX",
+    "lat": 17.78306,
+    "lng": -95.54556
+  },
+  {
+    "name": "Abasolo",
+    "country": "MX",
+    "lat": 24.05896,
+    "lng": -98.37427
+  },
+  {
+    "name": "Abasolo",
+    "country": "MX",
+    "lat": 16.8214,
+    "lng": -92.21611
+  },
+  {
+    "name": "Abalá",
+    "country": "MX",
+    "lat": 20.64739,
+    "lng": -89.6806
+  },
+  {
+    "name": "Abelardo L. Rodríguez",
+    "country": "MX",
+    "lat": 18.72842,
+    "lng": -90.90456
+  },
+  {
+    "name": "Abasolo",
+    "country": "MX",
+    "lat": 27.18219,
+    "lng": -101.42757
+  },
+  {
+    "name": "Abasolo",
+    "country": "MX",
+    "lat": 25.94595,
+    "lng": -100.39584
+  },
+  {
+    "name": "Abasolo",
+    "country": "MX",
+    "lat": 25.31142,
+    "lng": -104.6546
+  },
+  {
+    "name": "Abasolo",
+    "country": "MX",
+    "lat": 20.44997,
+    "lng": -101.53073
+  },
+  {
+    "name": "Abdenago C. García",
+    "country": "MX",
+    "lat": 29.98937,
+    "lng": -107.5521
+  },
+  {
+    "name": "Abelardo L. Rodríguez",
+    "country": "MX",
+    "lat": 18.7375,
+    "lng": -98.98528
+  },
+  {
+    "name": "Abrevadero",
+    "country": "MX",
+    "lat": 18.28222,
+    "lng": -95.21444
+  },
+  {
+    "name": "Abalak",
+    "country": "NE",
+    "lat": 15.4509,
+    "lng": 6.2793
+  },
+  {
+    "name": "Abala",
+    "country": "NE",
+    "lat": 14.9369,
+    "lng": 3.4336
+  },
+  {
+    "name": "Abuochiche",
+    "country": "NG",
+    "lat": 6.69132,
+    "lng": 8.94337
+  },
+  {
+    "name": "Abuja",
+    "country": "NG",
+    "lat": 9.05785,
+    "lng": 7.49508
+  },
+  {
+    "name": "Abudu",
+    "country": "NG",
+    "lat": 6.29489,
+    "lng": 6.02995
+  },
+  {
+    "name": "Abua",
+    "country": "NG",
+    "lat": 4.85763,
+    "lng": 6.64519
+  },
+  {
+    "name": "Abraka",
+    "country": "NG",
+    "lat": 5.79023,
+    "lng": 6.10473
+  },
+  {
+    "name": "Abonnema",
+    "country": "NG",
+    "lat": 4.73171,
+    "lng": 6.77223
+  },
+  {
+    "name": "Aboh",
+    "country": "NG",
+    "lat": 5.54781,
+    "lng": 6.52588
+  },
+  {
+    "name": "Abocho",
+    "country": "NG",
+    "lat": 7.5677,
+    "lng": 6.9863
+  },
+  {
+    "name": "Abigi",
+    "country": "NG",
+    "lat": 6.48676,
+    "lng": 4.39531
+  },
+  {
+    "name": "Abeokuta",
+    "country": "NG",
+    "lat": 7.15571,
+    "lng": 3.34509
+  },
+  {
+    "name": "Abejukolo",
+    "country": "NG",
+    "lat": 7.86808,
+    "lng": 7.50907
+  },
+  {
+    "name": "Abakaliki",
+    "country": "NG",
+    "lat": 6.32485,
+    "lng": 8.11368
+  },
+  {
+    "name": "Abak",
+    "country": "NG",
+    "lat": 4.98236,
+    "lng": 7.78922
+  },
+  {
+    "name": "Abaji",
+    "country": "NG",
+    "lat": 8.47581,
+    "lng": 6.94321
+  },
+  {
+    "name": "Abagana",
+    "country": "NG",
+    "lat": 6.19031,
+    "lng": 6.99357
+  },
+  {
+    "name": "Aba",
+    "country": "NG",
+    "lat": 5.10658,
+    "lng": 7.36667
+  },
+  {
+    "name": "Abat",
+    "country": "NG",
+    "lat": 4.61712,
+    "lng": 7.86639
+  },
+  {
+    "name": "Aboh",
+    "country": "NG",
+    "lat": 5.47569,
+    "lng": 7.27161
+  },
+  {
+    "name": "Abdissenbosch",
+    "country": "NL",
+    "lat": 50.91667,
+    "lng": 6.03333
+  },
+  {
+    "name": "Abcoven",
+    "country": "NL",
+    "lat": 51.5275,
+    "lng": 5.08333
+  },
+  {
+    "name": "Abcoude",
+    "country": "NL",
+    "lat": 52.2725,
+    "lng": 4.96944
+  },
+  {
+    "name": "Abbekerk",
+    "country": "NL",
+    "lat": 52.73167,
+    "lng": 5.01806
+  },
+  {
+    "name": "Abancay",
+    "country": "PE",
+    "lat": -13.63426,
+    "lng": -72.8838
+  },
+  {
+    "name": "Abuyon",
+    "country": "PH",
+    "lat": 13.6226,
+    "lng": 122.5191
+  },
+  {
+    "name": "Abuyog",
+    "country": "PH",
+    "lat": 12.9461,
+    "lng": 124.0519
+  },
+  {
+    "name": "Abuyog",
+    "country": "PH",
+    "lat": 10.747,
+    "lng": 125.0107
+  },
+  {
+    "name": "Abut",
+    "country": "PH",
+    "lat": 17.35423,
+    "lng": 121.60138
+  },
+  {
+    "name": "Abulug",
+    "country": "PH",
+    "lat": 18.44528,
+    "lng": 121.45333
+  },
+  {
+    "name": "Abucayan",
+    "country": "PH",
+    "lat": 9.929,
+    "lng": 123.9146
+  },
+  {
+    "name": "Abucay",
+    "country": "PH",
+    "lat": 14.73347,
+    "lng": 120.53358
+  },
+  {
+    "name": "Abucay",
+    "country": "PH",
+    "lat": 12.982,
+    "lng": 123.6492
+  },
+  {
+    "name": "Abra de Ilog",
+    "country": "PH",
+    "lat": 13.4437,
+    "lng": 120.7291
+  },
+  {
+    "name": "Aborlan",
+    "country": "PH",
+    "lat": 9.43361,
+    "lng": 118.54879
+  },
+  {
+    "name": "Abis",
+    "country": "PH",
+    "lat": 9.7173,
+    "lng": 122.9438
+  },
+  {
+    "name": "Abilay",
+    "country": "PH",
+    "lat": 10.73333,
+    "lng": 122.5
+  },
+  {
+    "name": "Abiera",
+    "country": "PH",
+    "lat": 11.5749,
+    "lng": 122.09
+  },
+  {
+    "name": "Abangay",
+    "country": "PH",
+    "lat": 10.96667,
+    "lng": 122.65
+  },
+  {
+    "name": "Abaga",
+    "country": "PH",
+    "lat": 7.9384,
+    "lng": 123.7724
+  },
+  {
+    "name": "Abaca",
+    "country": "PH",
+    "lat": 11.1342,
+    "lng": 122.7156
+  },
+  {
+    "name": "Abaca",
+    "country": "PH",
+    "lat": 9.9204,
+    "lng": 124.5051
+  },
+  {
+    "name": "Abbottabad",
+    "country": "PK",
+    "lat": 34.1463,
+    "lng": 73.21168
+  },
+  {
+    "name": "Abramów",
+    "country": "PL",
+    "lat": 51.45647,
+    "lng": 22.31521
+  },
+  {
+    "name": "Abū Qashsh",
+    "country": "PS",
+    "lat": 31.94883,
+    "lng": 35.18426
+  },
+  {
+    "name": "Abū Dīs",
+    "country": "PS",
+    "lat": 31.76215,
+    "lng": 35.26166
+  },
+  {
+    "name": "Abrigada",
+    "country": "PT",
+    "lat": 39.14416,
+    "lng": -9.01853
+  },
+  {
+    "name": "Abrantes",
+    "country": "PT",
+    "lat": 39.46667,
+    "lng": -8.2
+  },
+  {
+    "name": "Abraveses",
+    "country": "PT",
+    "lat": 40.68137,
+    "lng": -7.92102
+  },
+  {
+    "name": "Abaí",
+    "country": "PY",
+    "lat": -26.03848,
+    "lng": -55.94685
+  },
+  {
+    "name": "Abrud-Sat",
+    "country": "RO",
+    "lat": 46.28166,
+    "lng": 23.06098
+  },
+  {
+    "name": "Abrud",
+    "country": "RO",
+    "lat": 46.27406,
+    "lng": 23.06339
+  },
+  {
+    "name": "Abrămuţ",
+    "country": "RO",
+    "lat": 47.31667,
+    "lng": 22.25
+  },
+  {
+    "name": "Abram",
+    "country": "RO",
+    "lat": 47.31667,
+    "lng": 22.38333
+  },
+  {
+    "name": "Abram Mys",
+    "country": "RU",
+    "lat": 68.97839,
+    "lng": 33.01926
+  },
+  {
+    "name": "Abzakovo",
+    "country": "RU",
+    "lat": 53.82861,
+    "lng": 58.59333
+  },
+  {
+    "name": "Abrau-Dyurso",
+    "country": "RU",
+    "lat": 44.69973,
+    "lng": 37.60098
+  },
+  {
+    "name": "Abramovka",
+    "country": "RU",
+    "lat": 51.1886,
+    "lng": 41.0202
+  },
+  {
+    "name": "Abinsk",
+    "country": "RU",
+    "lat": 44.87058,
+    "lng": 38.15759
+  },
+  {
+    "name": "Abdulino",
+    "country": "RU",
+    "lat": 53.68581,
+    "lng": 53.65547
+  },
+  {
+    "name": "Abadzekhskaya",
+    "country": "RU",
+    "lat": 44.39389,
+    "lng": 40.22139
+  },
+  {
+    "name": "Abaza",
+    "country": "RU",
+    "lat": 52.65303,
+    "lng": 90.09454
+  },
+  {
+    "name": "Abatskoye",
+    "country": "RU",
+    "lat": 56.28765,
+    "lng": 70.45378
+  },
+  {
+    "name": "Aban",
+    "country": "RU",
+    "lat": 56.67674,
+    "lng": 96.06506
+  },
+  {
+    "name": "Abalak",
+    "country": "RU",
+    "lat": 58.12861,
+    "lng": 68.59444
+  },
+  {
+    "name": "Abakan",
+    "country": "RU",
+    "lat": 53.7154,
+    "lng": 91.42593
+  },
+  {
+    "name": "Abagur",
+    "country": "RU",
+    "lat": 53.7308,
+    "lng": 87.2526
+  },
+  {
+    "name": "Abqaiq",
+    "country": "SA",
+    "lat": 25.93402,
+    "lng": 49.6688
+  },
+  {
+    "name": "Abū ‘Arīsh",
+    "country": "SA",
+    "lat": 16.96887,
+    "lng": 42.83251
+  },
+  {
+    "name": "Abha",
+    "country": "SA",
+    "lat": 18.21639,
+    "lng": 42.50528
+  },
+  {
+    "name": "Abyei",
+    "country": "SD",
+    "lat": 9.59525,
+    "lng": 28.43493
+  },
+  {
+    "name": "Abū Zabad",
+    "country": "SD",
+    "lat": 12.35,
+    "lng": 29.25
+  },
+  {
+    "name": "Abu Jibeha",
+    "country": "SD",
+    "lat": 11.4562,
+    "lng": 31.2285
+  },
+  {
+    "name": "Abborrberget",
+    "country": "SE",
+    "lat": 60.15,
+    "lng": 14.8
+  },
+  {
+    "name": "Abrahám",
+    "country": "SK",
+    "lat": 48.24838,
+    "lng": 17.61882
+  },
+  {
+    "name": "Abū Qalqal",
+    "country": "SY",
+    "lat": 36.43806,
+    "lng": 38.11984
+  },
+  {
+    "name": "Abū az̧ Z̧uhūr",
+    "country": "SY",
+    "lat": 35.74058,
+    "lng": 37.0448
+  },
+  {
+    "name": "Abéché",
+    "country": "TD",
+    "lat": 13.82916,
+    "lng": 20.8324
+  },
+  {
+    "name": "Abdi",
+    "country": "TD",
+    "lat": 12.8,
+    "lng": 21.3
+  },
+  {
+    "name": "Abou Déïa",
+    "country": "TD",
+    "lat": 11.448,
+    "lng": 19.2789
+  },
+  {
+    "name": "Abdurahmoni Jomí",
+    "country": "TJ",
+    "lat": 37.94636,
+    "lng": 68.80878
+  },
+  {
+    "name": "Abadan",
+    "country": "TM",
+    "lat": 38.05415,
+    "lng": 58.19721
+  },
+  {
+    "name": "Abdioğlu",
+    "country": "TR",
+    "lat": 36.90856,
+    "lng": 35.56888
+  },
+  {
+    "name": "Abana",
+    "country": "TR",
+    "lat": 41.97858,
+    "lng": 34.011
+  },
+  {
+    "name": "Abrikosovo",
+    "country": "UA",
+    "lat": 45.69236,
+    "lng": 34.10156
+  },
+  {
+    "name": "Abrikosovka",
+    "country": "UA",
+    "lat": 45.10759,
+    "lng": 35.10139
+  },
+  {
+    "name": "Abazivka",
+    "country": "UA",
+    "lat": 49.60461,
+    "lng": 34.34901
+  },
+  {
+    "name": "Abim",
+    "country": "UG",
+    "lat": 2.70167,
+    "lng": 33.67611
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 26.55063,
+    "lng": -80.14866
+  },
+  {
+    "name": "Abbeville",
+    "country": "US",
+    "lat": 31.99212,
+    "lng": -83.30682
+  },
+  {
+    "name": "Abilene",
+    "country": "US",
+    "lat": 38.91722,
+    "lng": -97.21391
+  },
+  {
+    "name": "Abbeville",
+    "country": "US",
+    "lat": 29.97465,
+    "lng": -92.13429
+  },
+  {
+    "name": "Abita Springs",
+    "country": "US",
+    "lat": 30.47864,
+    "lng": -90.04008
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 39.50956,
+    "lng": -76.16412
+  },
+  {
+    "name": "Abingdon",
+    "country": "US",
+    "lat": 39.46233,
+    "lng": -76.27912
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 33.82511,
+    "lng": -88.54366
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 35.13155,
+    "lng": -79.42948
+  },
+  {
+    "name": "Absecon",
+    "country": "US",
+    "lat": 39.42845,
+    "lng": -74.49571
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 38.65563,
+    "lng": -83.76103
+  },
+  {
+    "name": "Abbottstown",
+    "country": "US",
+    "lat": 39.88649,
+    "lng": -76.9847
+  },
+  {
+    "name": "Abbeville",
+    "country": "US",
+    "lat": 34.17817,
+    "lng": -82.37901
+  },
+  {
+    "name": "Abilene",
+    "country": "US",
+    "lat": 32.44874,
+    "lng": -99.73314
+  },
+  {
+    "name": "Abram",
+    "country": "US",
+    "lat": 26.1998,
+    "lng": -98.41113
+  },
+  {
+    "name": "Abingdon",
+    "country": "US",
+    "lat": 36.70983,
+    "lng": -81.97735
+  },
+  {
+    "name": "Abbeville",
+    "country": "US",
+    "lat": 31.57184,
+    "lng": -85.25049
+  },
+  {
+    "name": "Abingdon",
+    "country": "US",
+    "lat": 40.80448,
+    "lng": -90.4018
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 41.43893,
+    "lng": -87.11142
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 42.34454,
+    "lng": -71.1495
+  },
+  {
+    "name": "Abington",
+    "country": "US",
+    "lat": 42.10482,
+    "lng": -70.94532
+  },
+  {
+    "name": "Abington",
+    "country": "US",
+    "lat": 40.12067,
+    "lng": -75.11795
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 45.4647,
+    "lng": -98.48648
+  },
+  {
+    "name": "Abbotsford",
+    "country": "US",
+    "lat": 44.94636,
+    "lng": -90.31597
+  },
+  {
+    "name": "Abernathy",
+    "country": "US",
+    "lat": 33.8323,
+    "lng": -101.84295
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 42.94408,
+    "lng": -112.83833
+  },
+  {
+    "name": "Absarokee",
+    "country": "US",
+    "lat": 45.5205,
+    "lng": -109.44294
+  },
+  {
+    "name": "Aberdeen",
+    "country": "US",
+    "lat": 46.97537,
+    "lng": -123.81572
+  },
+  {
+    "name": "Aberdeen Proving Ground",
+    "country": "US",
+    "lat": 39.46686,
+    "lng": -76.13066
+  },
+  {
+    "name": "Abejales",
+    "country": "VE",
+    "lat": 7.6233,
+    "lng": -71.51031
+  },
+  {
+    "name": "Abs",
+    "country": "YE",
+    "lat": 16.00295,
+    "lng": 43.19725
+  },
+  {
+    "name": "Aberdeen",
+    "country": "ZA",
+    "lat": -32.47588,
+    "lng": 24.06525
+  },
+  {
+    "name": "Abbotsdale",
+    "country": "ZA",
+    "lat": -33.48694,
+    "lng": 18.67583
+  }
+]

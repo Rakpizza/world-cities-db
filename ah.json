@@ -1,0 +1,806 @@
+[
+  {
+    "name": "Ahorn",
+    "country": "AT",
+    "lat": 48.52382,
+    "lng": 14.17408
+  },
+  {
+    "name": "Ahtopol",
+    "country": "BG",
+    "lat": 42.10013,
+    "lng": 27.94361
+  },
+  {
+    "name": "Aheloy",
+    "country": "BG",
+    "lat": 42.64987,
+    "lng": 27.64838
+  },
+  {
+    "name": "Ahuntsic-Cartierville",
+    "country": "CA",
+    "lat": 45.56667,
+    "lng": -73.66667
+  },
+  {
+    "name": "Ahigbé Koffikro",
+    "country": "CI",
+    "lat": 5.40755,
+    "lng": -3.38023
+  },
+  {
+    "name": "Ahoutoué",
+    "country": "CI",
+    "lat": 5.47429,
+    "lng": -3.80419
+  },
+  {
+    "name": "Ahoussoukro",
+    "country": "CI",
+    "lat": 6.82456,
+    "lng": -4.52583
+  },
+  {
+    "name": "Ahouanou",
+    "country": "CI",
+    "lat": 6.51495,
+    "lng": -4.6295
+  },
+  {
+    "name": "Ahouati",
+    "country": "CI",
+    "lat": 6.1096,
+    "lng": -4.97304
+  },
+  {
+    "name": "Ahouakro",
+    "country": "CI",
+    "lat": 6.11987,
+    "lng": -4.87238
+  },
+  {
+    "name": "Ahounan",
+    "country": "CI",
+    "lat": 6.49535,
+    "lng": -4.35452
+  },
+  {
+    "name": "Ahouékro",
+    "country": "CI",
+    "lat": 6.49684,
+    "lng": -5.21863
+  },
+  {
+    "name": "Ahouaya",
+    "country": "CI",
+    "lat": 5.47693,
+    "lng": -4.50935
+  },
+  {
+    "name": "Ahorosso",
+    "country": "CI",
+    "lat": 6.68202,
+    "lng": -4.20299
+  },
+  {
+    "name": "Ahiroa",
+    "country": "CI",
+    "lat": 6.17474,
+    "lng": -4.63357
+  },
+  {
+    "name": "Ahiérémou",
+    "country": "CI",
+    "lat": 6.21777,
+    "lng": -4.93012
+  },
+  {
+    "name": "Ahoué",
+    "country": "CI",
+    "lat": 5.4975,
+    "lng": -3.94574
+  },
+  {
+    "name": "Ahouanou",
+    "country": "CI",
+    "lat": 5.50565,
+    "lng": -4.8588
+  },
+  {
+    "name": "Ahua",
+    "country": "CI",
+    "lat": 6.66535,
+    "lng": -4.67239
+  },
+  {
+    "name": "Ahoutouagui",
+    "country": "CI",
+    "lat": 5.33693,
+    "lng": -6.47087
+  },
+  {
+    "name": "Ahinikro",
+    "country": "CI",
+    "lat": 6.52642,
+    "lng": -3.60543
+  },
+  {
+    "name": "Ahizabré",
+    "country": "CI",
+    "lat": 6.04923,
+    "lng": -6.09978
+  },
+  {
+    "name": "Ahitou-Kongonou",
+    "country": "CI",
+    "lat": 7.31878,
+    "lng": -5.12597
+  },
+  {
+    "name": "Ahougnassou-N'Gbanou",
+    "country": "CI",
+    "lat": 7.16208,
+    "lng": -5.07639
+  },
+  {
+    "name": "Ahougnassou-Allahou",
+    "country": "CI",
+    "lat": 7.16231,
+    "lng": -5.0622
+  },
+  {
+    "name": "Ahouakoi",
+    "country": "CI",
+    "lat": 5.70295,
+    "lng": -3.87047
+  },
+  {
+    "name": "Ahuikoi",
+    "country": "CI",
+    "lat": 6.16573,
+    "lng": -3.72067
+  },
+  {
+    "name": "Ahokoi",
+    "country": "CI",
+    "lat": 6.15882,
+    "lng": -3.73841
+  },
+  {
+    "name": "Ahougnanfoutou",
+    "country": "CI",
+    "lat": 5.56936,
+    "lng": -4.87974
+  },
+  {
+    "name": "Ahondo",
+    "country": "CI",
+    "lat": 6.30673,
+    "lng": -5.15111
+  },
+  {
+    "name": "Ahéoua",
+    "country": "CI",
+    "lat": 6.36064,
+    "lng": -3.86087
+  },
+  {
+    "name": "Ahu",
+    "country": "CN",
+    "lat": 34.37664,
+    "lng": 118.60308
+  },
+  {
+    "name": "Ahsen-Oetzen",
+    "country": "DE",
+    "lat": 52.95868,
+    "lng": 9.07933
+  },
+  {
+    "name": "Ahrensburg",
+    "country": "DE",
+    "lat": 53.67661,
+    "lng": 10.23705
+  },
+  {
+    "name": "Ahrensbök",
+    "country": "DE",
+    "lat": 54.00862,
+    "lng": 10.57434
+  },
+  {
+    "name": "Ahorn",
+    "country": "DE",
+    "lat": 50.23762,
+    "lng": 10.95417
+  },
+  {
+    "name": "Aholming",
+    "country": "DE",
+    "lat": 48.73542,
+    "lng": 12.90997
+  },
+  {
+    "name": "Aholfing",
+    "country": "DE",
+    "lat": 48.94283,
+    "lng": 12.46857
+  },
+  {
+    "name": "Ahnsen",
+    "country": "DE",
+    "lat": 52.25466,
+    "lng": 9.10089
+  },
+  {
+    "name": "Ahnsbeck",
+    "country": "DE",
+    "lat": 52.61071,
+    "lng": 10.28534
+  },
+  {
+    "name": "Ahlsdorf",
+    "country": "DE",
+    "lat": 51.54543,
+    "lng": 11.46655
+  },
+  {
+    "name": "Ahlerstedt",
+    "country": "DE",
+    "lat": 53.40675,
+    "lng": 9.45392
+  },
+  {
+    "name": "Ahlen",
+    "country": "DE",
+    "lat": 51.76338,
+    "lng": 7.8887
+  },
+  {
+    "name": "Ahlden",
+    "country": "DE",
+    "lat": 52.75968,
+    "lng": 9.55115
+  },
+  {
+    "name": "Ahlbeck",
+    "country": "DE",
+    "lat": 53.66972,
+    "lng": 14.18622
+  },
+  {
+    "name": "Ahausen",
+    "country": "DE",
+    "lat": 53.06667,
+    "lng": 9.31667
+  },
+  {
+    "name": "Ahaus",
+    "country": "DE",
+    "lat": 52.07936,
+    "lng": 7.01344
+  },
+  {
+    "name": "Aham",
+    "country": "DE",
+    "lat": 48.34821,
+    "lng": 12.16156
+  },
+  {
+    "name": "Ahrbrück",
+    "country": "DE",
+    "lat": 50.48225,
+    "lng": 6.98804
+  },
+  {
+    "name": "Ahmed Bel Hadj",
+    "country": "DZ",
+    "lat": 36.80146,
+    "lng": 7.60811
+  },
+  {
+    "name": "Ahuano",
+    "country": "EC",
+    "lat": -1.05868,
+    "lng": -77.54592
+  },
+  {
+    "name": "Ahillones",
+    "country": "ES",
+    "lat": 38.26667,
+    "lng": -5.85
+  },
+  {
+    "name": "Ahigal de Villarino",
+    "country": "ES",
+    "lat": 41.15819,
+    "lng": -6.38037
+  },
+  {
+    "name": "Ahigal de los Aceiteros",
+    "country": "ES",
+    "lat": 40.87231,
+    "lng": -6.74702
+  },
+  {
+    "name": "Ahigal",
+    "country": "ES",
+    "lat": 40.18954,
+    "lng": -6.18815
+  },
+  {
+    "name": "Ahau",
+    "country": "FJ",
+    "lat": -12.5,
+    "lng": 177.05
+  },
+  {
+    "name": "Ahuy",
+    "country": "FR",
+    "lat": 47.36944,
+    "lng": 5.02089
+  },
+  {
+    "name": "Ahun",
+    "country": "FR",
+    "lat": 46.08578,
+    "lng": 2.04489
+  },
+  {
+    "name": "Ahuillé",
+    "country": "FR",
+    "lat": 48.02076,
+    "lng": -0.87071
+  },
+  {
+    "name": "Ahetze",
+    "country": "FR",
+    "lat": 43.40561,
+    "lng": -1.57138
+  },
+  {
+    "name": "Ahoghill",
+    "country": "GB",
+    "lat": 54.86667,
+    "lng": -6.36667
+  },
+  {
+    "name": "Ahwiaa",
+    "country": "GH",
+    "lat": 6.76051,
+    "lng": -1.59402
+  },
+  {
+    "name": "Ahwiaa",
+    "country": "GH",
+    "lat": 6.90306,
+    "lng": -1.65199
+  },
+  {
+    "name": "Ahwa",
+    "country": "IN",
+    "lat": 20.75718,
+    "lng": 73.68626
+  },
+  {
+    "name": "Ahraura",
+    "country": "IN",
+    "lat": 25.01579,
+    "lng": 83.03294
+  },
+  {
+    "name": "Ahor",
+    "country": "IN",
+    "lat": 25.3687,
+    "lng": 72.78038
+  },
+  {
+    "name": "Ahmadpur",
+    "country": "IN",
+    "lat": 23.83009,
+    "lng": 87.68661
+  },
+  {
+    "name": "Ahmadpur",
+    "country": "IN",
+    "lat": 18.70622,
+    "lng": 76.93731
+  },
+  {
+    "name": "Ahilyanagar",
+    "country": "IN",
+    "lat": 19.09457,
+    "lng": 74.73843
+  },
+  {
+    "name": "Ahmedabad",
+    "country": "IN",
+    "lat": 23.02579,
+    "lng": 72.58727
+  },
+  {
+    "name": "Ahiri",
+    "country": "IN",
+    "lat": 19.41386,
+    "lng": 80.00359
+  },
+  {
+    "name": "Ahīwāra",
+    "country": "IN",
+    "lat": 21.35799,
+    "lng": 81.41794
+  },
+  {
+    "name": "Ahīrkheri",
+    "country": "IN",
+    "lat": 22.68,
+    "lng": 75.80482
+  },
+  {
+    "name": "Ahmadabad Cantonment",
+    "country": "IN",
+    "lat": 23.04768,
+    "lng": 72.60987
+  },
+  {
+    "name": "Ahmedgarh",
+    "country": "IN",
+    "lat": 30.67731,
+    "lng": 75.82633
+  },
+  {
+    "name": "Ahvaz",
+    "country": "IR",
+    "lat": 31.31901,
+    "lng": 48.6842
+  },
+  {
+    "name": "Ahram",
+    "country": "IR",
+    "lat": 28.8826,
+    "lng": 51.2746
+  },
+  {
+    "name": "Ahar",
+    "country": "IR",
+    "lat": 38.4774,
+    "lng": 47.0699
+  },
+  {
+    "name": "Ahero",
+    "country": "KE",
+    "lat": -0.17359,
+    "lng": 34.9189
+  },
+  {
+    "name": "Ahfir",
+    "country": "MA",
+    "lat": 34.95368,
+    "lng": -2.10027
+  },
+  {
+    "name": "Ahuatempan",
+    "country": "MX",
+    "lat": 18.41269,
+    "lng": -98.0185
+  },
+  {
+    "name": "Ahuajutla",
+    "country": "MX",
+    "lat": 17.43043,
+    "lng": -98.29029
+  },
+  {
+    "name": "Ahuehuetzingo",
+    "country": "MX",
+    "lat": 18.68024,
+    "lng": -99.30834
+  },
+  {
+    "name": "Ahuehuetitla",
+    "country": "MX",
+    "lat": 18.21272,
+    "lng": -98.21949
+  },
+  {
+    "name": "Ahuehuepan",
+    "country": "MX",
+    "lat": 18.00625,
+    "lng": -99.49995
+  },
+  {
+    "name": "Ahuazotepec",
+    "country": "MX",
+    "lat": 20.04535,
+    "lng": -98.16332
+  },
+  {
+    "name": "Ahuatlán",
+    "country": "MX",
+    "lat": 18.57276,
+    "lng": -98.25692
+  },
+  {
+    "name": "Ahuatepec de Camino",
+    "country": "MX",
+    "lat": 19.04087,
+    "lng": -97.43457
+  },
+  {
+    "name": "Ahuatepec",
+    "country": "MX",
+    "lat": 18.85831,
+    "lng": -97.91764
+  },
+  {
+    "name": "Ahuatepec Pueblo",
+    "country": "MX",
+    "lat": 17.60577,
+    "lng": -98.5897
+  },
+  {
+    "name": "Ahuacuotzingo",
+    "country": "MX",
+    "lat": 17.71431,
+    "lng": -98.93492
+  },
+  {
+    "name": "Ahuacatlán",
+    "country": "MX",
+    "lat": 20.00615,
+    "lng": -97.85916
+  },
+  {
+    "name": "Ahuacatlán",
+    "country": "MX",
+    "lat": 15.0403,
+    "lng": -92.18036
+  },
+  {
+    "name": "Ahuacatitlán Cuarto y Quinto Cuartel",
+    "country": "MX",
+    "lat": 19.96222,
+    "lng": -99.98694
+  },
+  {
+    "name": "Ahuacatán",
+    "country": "MX",
+    "lat": 19.78351,
+    "lng": -97.2978
+  },
+  {
+    "name": "Ahuatitla",
+    "country": "MX",
+    "lat": 21.16495,
+    "lng": -98.66594
+  },
+  {
+    "name": "Ahuateno",
+    "country": "MX",
+    "lat": 21.00245,
+    "lng": -98.15055
+  },
+  {
+    "name": "Ahuehuetitlán",
+    "country": "MX",
+    "lat": 17.6713,
+    "lng": -98.32024
+  },
+  {
+    "name": "Ahuehuetitla",
+    "country": "MX",
+    "lat": 20.08444,
+    "lng": -98.41667
+  },
+  {
+    "name": "Ahuacatitlán",
+    "country": "MX",
+    "lat": 18.89414,
+    "lng": -99.70867
+  },
+  {
+    "name": "Ahuacatlán",
+    "country": "MX",
+    "lat": 19.88275,
+    "lng": -97.54495
+  },
+  {
+    "name": "Ahueyahualco",
+    "country": "MX",
+    "lat": 19.71974,
+    "lng": -97.25984
+  },
+  {
+    "name": "Ahuisculco",
+    "country": "MX",
+    "lat": 20.56836,
+    "lng": -103.70225
+  },
+  {
+    "name": "Ahuirán",
+    "country": "MX",
+    "lat": 19.66574,
+    "lng": -102.07347
+  },
+  {
+    "name": "Ahuatlán",
+    "country": "MX",
+    "lat": 20.4182,
+    "lng": -102.88814
+  },
+  {
+    "name": "Ahualulco de Mercado",
+    "country": "MX",
+    "lat": 20.70137,
+    "lng": -103.97461
+  },
+  {
+    "name": "Ahualulco del Sonido Trece",
+    "country": "MX",
+    "lat": 22.40019,
+    "lng": -101.16614
+  },
+  {
+    "name": "Ahuacatlán",
+    "country": "MX",
+    "lat": 21.05405,
+    "lng": -104.48398
+  },
+  {
+    "name": "Ahome",
+    "country": "MX",
+    "lat": 25.91985,
+    "lng": -109.17338
+  },
+  {
+    "name": "Ahuaxintitla",
+    "country": "MX",
+    "lat": 20.25325,
+    "lng": -97.89561
+  },
+  {
+    "name": "Ahuacatlán",
+    "country": "MX",
+    "lat": 20.13722,
+    "lng": -98.0075
+  },
+  {
+    "name": "Ahuacatlán de Guadalupe",
+    "country": "MX",
+    "lat": 21.21472,
+    "lng": -99.54056
+  },
+  {
+    "name": "Ahuihuiyuco",
+    "country": "MX",
+    "lat": 17.62958,
+    "lng": -99.22738
+  },
+  {
+    "name": "Ahuacachahue (Ndog'yo Itún Tichi)",
+    "country": "MX",
+    "lat": 16.82861,
+    "lng": -98.98556
+  },
+  {
+    "name": "Ahuexotitlán",
+    "country": "MX",
+    "lat": 17.52849,
+    "lng": -99.24398
+  },
+  {
+    "name": "Ahuehueyo Primero Centro",
+    "country": "MX",
+    "lat": 21.345,
+    "lng": -98.83722
+  },
+  {
+    "name": "Ahoada",
+    "country": "NG",
+    "lat": 5.0828,
+    "lng": 6.64981
+  },
+  {
+    "name": "Ahipara",
+    "country": "NZ",
+    "lat": -35.16604,
+    "lng": 173.15563
+  },
+  {
+    "name": "Ahuac",
+    "country": "PE",
+    "lat": -12.08575,
+    "lng": -75.32076
+  },
+  {
+    "name": "Ahuaycha",
+    "country": "PE",
+    "lat": -12.40738,
+    "lng": -74.89145
+  },
+  {
+    "name": "Ahmadpur East",
+    "country": "PK",
+    "lat": 29.14269,
+    "lng": 71.25771
+  },
+  {
+    "name": "Ahmadpur Sial",
+    "country": "PK",
+    "lat": 30.67791,
+    "lng": 71.74344
+  },
+  {
+    "name": "Ahuachapán",
+    "country": "SV",
+    "lat": 13.92403,
+    "lng": -89.84344
+  },
+  {
+    "name": "Ahmetli",
+    "country": "TR",
+    "lat": 38.5196,
+    "lng": 27.93865
+  },
+  {
+    "name": "Ahmetli",
+    "country": "TR",
+    "lat": 38.17817,
+    "lng": 39.85627
+  },
+  {
+    "name": "Ahlat",
+    "country": "TR",
+    "lat": 38.7489,
+    "lng": 42.48007
+  },
+  {
+    "name": "Ahırlı",
+    "country": "TR",
+    "lat": 37.23874,
+    "lng": 32.11881
+  },
+  {
+    "name": "Ahmetli",
+    "country": "TR",
+    "lat": 37.75223,
+    "lng": 40.9476
+  },
+  {
+    "name": "Ahronomiya",
+    "country": "UA",
+    "lat": 47.77007,
+    "lng": 31.31184
+  },
+  {
+    "name": "Ahoskie",
+    "country": "US",
+    "lat": 36.28682,
+    "lng": -76.98468
+  },
+  {
+    "name": "Ahwahnee",
+    "country": "US",
+    "lat": 37.3655,
+    "lng": -119.72627
+  },
+  {
+    "name": "Ahwatukee Foothills",
+    "country": "US",
+    "lat": 33.34171,
+    "lng": -111.98403
+  },
+  {
+    "name": "Ahtanum",
+    "country": "US",
+    "lat": 46.55957,
+    "lng": -120.62201
+  },
+  {
+    "name": "Ahl Mohammed bin Ahmed",
+    "country": "YE",
+    "lat": 13.27733,
+    "lng": 45.39048
+  }
+]

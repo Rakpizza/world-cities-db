@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Aartselaar",
+    "country": "BE",
+    "lat": 51.13412,
+    "lng": 4.38678
+  },
+  {
+    "name": "Aarsele",
+    "country": "BE",
+    "lat": 50.99663,
+    "lng": 3.41954
+  },
+  {
+    "name": "Aarschot",
+    "country": "BE",
+    "lat": 50.98715,
+    "lng": 4.83695
+  },
+  {
+    "name": "Aalter",
+    "country": "BE",
+    "lat": 51.09017,
+    "lng": 3.44693
+  },
+  {
+    "name": "Aalst",
+    "country": "BE",
+    "lat": 50.93604,
+    "lng": 4.0355
+  },
+  {
+    "name": "Aalbeke",
+    "country": "BE",
+    "lat": 50.77848,
+    "lng": 3.22952
+  },
+  {
+    "name": "Aaigem",
+    "country": "BE",
+    "lat": 50.88921,
+    "lng": 3.93674
+  },
+  {
+    "name": "Aartrijke",
+    "country": "BE",
+    "lat": 51.11915,
+    "lng": 3.09076
+  },
+  {
+    "name": "Aarwangen",
+    "country": "CH",
+    "lat": 47.23845,
+    "lng": 7.76854
+  },
+  {
+    "name": "Aarburg",
+    "country": "CH",
+    "lat": 47.32067,
+    "lng": 7.89986
+  },
+  {
+    "name": "Aarberg",
+    "country": "CH",
+    "lat": 47.04439,
+    "lng": 7.27578
+  },
+  {
+    "name": "Aarau",
+    "country": "CH",
+    "lat": 47.39254,
+    "lng": 8.04422
+  },
+  {
+    "name": "Aadorf",
+    "country": "CH",
+    "lat": 47.49204,
+    "lng": 8.90099
+  },
+  {
+    "name": "Aalen",
+    "country": "DE",
+    "lat": 48.83777,
+    "lng": 10.0933
+  },
+  {
+    "name": "Aach",
+    "country": "DE",
+    "lat": 49.78333,
+    "lng": 6.6
+  },
+  {
+    "name": "Aach",
+    "country": "DE",
+    "lat": 47.8424,
+    "lng": 8.85384
+  },
+  {
+    "name": "Aachen",
+    "country": "DE",
+    "lat": 50.77664,
+    "lng": 6.08342
+  },
+  {
+    "name": "Aars",
+    "country": "DK",
+    "lat": 56.80399,
+    "lng": 9.51441
+  },
+  {
+    "name": "Aalborg",
+    "country": "DK",
+    "lat": 57.048,
+    "lng": 9.9187
+  },
+  {
+    "name": "Aabenraa",
+    "country": "DK",
+    "lat": 55.04434,
+    "lng": 9.41741
+  },
+  {
+    "name": "Aasiaat",
+    "country": "GL",
+    "lat": 68.70869,
+    "lng": -52.86366
+  },
+  {
+    "name": "Aamadi",
+    "country": "IN",
+    "lat": 20.77097,
+    "lng": 81.48991
+  },
+  {
+    "name": "Aachar Leak",
+    "country": "KH",
+    "lat": 12.72553,
+    "lng": 104.89426
+  },
+  {
+    "name": "Aaïtanît",
+    "country": "LB",
+    "lat": 33.56139,
+    "lng": 35.67028
+  },
+  {
+    "name": "Aanjar",
+    "country": "LB",
+    "lat": 33.72778,
+    "lng": 35.93111
+  },
+  {
+    "name": "Aalma ech Chaab",
+    "country": "LB",
+    "lat": 33.10417,
+    "lng": 35.18194
+  },
+  {
+    "name": "Aajaltoûn",
+    "country": "LB",
+    "lat": 33.96528,
+    "lng": 35.68278
+  },
+  {
+    "name": "Aardenburg",
+    "country": "NL",
+    "lat": 51.27333,
+    "lng": 3.44722
+  },
+  {
+    "name": "Aalten",
+    "country": "NL",
+    "lat": 51.925,
+    "lng": 6.58056
+  },
+  {
+    "name": "Aalst",
+    "country": "NL",
+    "lat": 51.39667,
+    "lng": 5.47778
+  },
+  {
+    "name": "Aalst",
+    "country": "NL",
+    "lat": 51.7825,
+    "lng": 5.12778
+  },
+  {
+    "name": "Aalsmeer",
+    "country": "NL",
+    "lat": 52.25917,
+    "lng": 4.75972
+  },
+  {
+    "name": "Aalden",
+    "country": "NL",
+    "lat": 52.79,
+    "lng": 6.71806
+  },
+  {
+    "name": "Aalburg",
+    "country": "NL",
+    "lat": 51.75482,
+    "lng": 5.13156
+  },
+  {
+    "name": "Aalanden",
+    "country": "NL",
+    "lat": 52.53334,
+    "lng": 6.10069
+  },
+  {
+    "name": "Aagtekerke",
+    "country": "NL",
+    "lat": 51.54667,
+    "lng": 3.50972
+  },
+  {
+    "name": "Aarle-Rixtel",
+    "country": "NL",
+    "lat": 51.50976,
+    "lng": 5.63839
+  },
+  {
+    "name": "Aas",
+    "country": "NO",
+    "lat": 63.05,
+    "lng": 11.65
+  },
+  {
+    "name": "Aanislag",
+    "country": "PH",
+    "lat": 13.0748,
+    "lng": 123.703
+  },
+  {
+    "name": "Aala",
+    "country": "US",
+    "lat": 21.31544,
+    "lng": -157.86283
+  }
+]

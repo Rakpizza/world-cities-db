@@ -1,0 +1,1586 @@
+[
+  {
+    "name": "Ersekë",
+    "country": "AL",
+    "lat": 40.33778,
+    "lng": 20.67889
+  },
+  {
+    "name": "Erebuni",
+    "country": "AM",
+    "lat": 40.13309,
+    "lng": 44.53009
+  },
+  {
+    "name": "Erpfendorf",
+    "country": "AT",
+    "lat": 47.58333,
+    "lng": 12.46667
+  },
+  {
+    "name": "Erpersdorf",
+    "country": "AT",
+    "lat": 48.3421,
+    "lng": 15.91747
+  },
+  {
+    "name": "Ernsthofen",
+    "country": "AT",
+    "lat": 48.12915,
+    "lng": 14.48058
+  },
+  {
+    "name": "Ernstbrunn",
+    "country": "AT",
+    "lat": 48.53333,
+    "lng": 16.35
+  },
+  {
+    "name": "Erlauf",
+    "country": "AT",
+    "lat": 48.18333,
+    "lng": 15.18333
+  },
+  {
+    "name": "Erl",
+    "country": "AT",
+    "lat": 47.68333,
+    "lng": 12.18333
+  },
+  {
+    "name": "Ertl",
+    "country": "AT",
+    "lat": 47.97704,
+    "lng": 14.63134
+  },
+  {
+    "name": "Erina",
+    "country": "AU",
+    "lat": -33.43218,
+    "lng": 151.38972
+  },
+  {
+    "name": "Erskine",
+    "country": "AU",
+    "lat": -32.55717,
+    "lng": 115.70657
+  },
+  {
+    "name": "Erskine Park",
+    "country": "AU",
+    "lat": -33.81301,
+    "lng": 150.79773
+  },
+  {
+    "name": "Erskineville",
+    "country": "AU",
+    "lat": -33.90254,
+    "lng": 151.18579
+  },
+  {
+    "name": "Ermington",
+    "country": "AU",
+    "lat": -33.81483,
+    "lng": 151.05467
+  },
+  {
+    "name": "Erindale",
+    "country": "AU",
+    "lat": -34.92785,
+    "lng": 138.66313
+  },
+  {
+    "name": "Erwetegem",
+    "country": "BE",
+    "lat": 50.85547,
+    "lng": 3.81444
+  },
+  {
+    "name": "Ertvelde",
+    "country": "BE",
+    "lat": 51.17921,
+    "lng": 3.74722
+  },
+  {
+    "name": "Erquelinnes",
+    "country": "BE",
+    "lat": 50.30688,
+    "lng": 4.11129
+  },
+  {
+    "name": "Erps-Kwerps",
+    "country": "BE",
+    "lat": 50.90119,
+    "lng": 4.55984
+  },
+  {
+    "name": "Erpent",
+    "country": "BE",
+    "lat": 50.45116,
+    "lng": 4.90557
+  },
+  {
+    "name": "Erpe",
+    "country": "BE",
+    "lat": 50.93565,
+    "lng": 3.97219
+  },
+  {
+    "name": "Erondegem",
+    "country": "BE",
+    "lat": 50.94118,
+    "lng": 3.95611
+  },
+  {
+    "name": "Ernage",
+    "country": "BE",
+    "lat": 50.59484,
+    "lng": 4.67588
+  },
+  {
+    "name": "Erembodegem",
+    "country": "BE",
+    "lat": 50.91905,
+    "lng": 4.05041
+  },
+  {
+    "name": "Erbisoeul",
+    "country": "BE",
+    "lat": 50.51523,
+    "lng": 3.89568
+  },
+  {
+    "name": "Ereré",
+    "country": "BR",
+    "lat": -6.03194,
+    "lng": -38.34861
+  },
+  {
+    "name": "Erval Velho",
+    "country": "BR",
+    "lat": -27.27556,
+    "lng": -51.44194
+  },
+  {
+    "name": "Erval Seco",
+    "country": "BR",
+    "lat": -27.54917,
+    "lng": -53.50417
+  },
+  {
+    "name": "Ervália",
+    "country": "BR",
+    "lat": -20.84,
+    "lng": -42.65722
+  },
+  {
+    "name": "Erval Grande",
+    "country": "BR",
+    "lat": -27.39056,
+    "lng": -52.57056
+  },
+  {
+    "name": "Ernestina",
+    "country": "BR",
+    "lat": -28.49889,
+    "lng": -52.57333
+  },
+  {
+    "name": "Erechim",
+    "country": "BR",
+    "lat": -27.63461,
+    "lng": -52.2754
+  },
+  {
+    "name": "Erebango",
+    "country": "BR",
+    "lat": -27.85528,
+    "lng": -52.30194
+  },
+  {
+    "name": "Ermelino Matarazzo",
+    "country": "BR",
+    "lat": -23.49472,
+    "lng": -46.47389
+  },
+  {
+    "name": "Ermo",
+    "country": "BR",
+    "lat": -28.9825,
+    "lng": -49.64361
+  },
+  {
+    "name": "Erin",
+    "country": "CA",
+    "lat": 43.7729,
+    "lng": -80.06436
+  },
+  {
+    "name": "Eringate-Centennial-West Deane",
+    "country": "CA",
+    "lat": 43.65802,
+    "lng": -79.58044
+  },
+  {
+    "name": "Erlinsbach",
+    "country": "CH",
+    "lat": 47.39753,
+    "lng": 8.00797
+  },
+  {
+    "name": "Erstfeld",
+    "country": "CH",
+    "lat": 46.81885,
+    "lng": 8.65052
+  },
+  {
+    "name": "Ersigen",
+    "country": "CH",
+    "lat": 47.09368,
+    "lng": 7.59507
+  },
+  {
+    "name": "Ermatingen",
+    "country": "CH",
+    "lat": 47.67057,
+    "lng": 9.08573
+  },
+  {
+    "name": "Erlenbach im Simmental",
+    "country": "CH",
+    "lat": 46.66021,
+    "lng": 7.55445
+  },
+  {
+    "name": "Erlenbach",
+    "country": "CH",
+    "lat": 47.30298,
+    "lng": 8.59743
+  },
+  {
+    "name": "Erlen",
+    "country": "CH",
+    "lat": 47.54814,
+    "lng": 9.23415
+  },
+  {
+    "name": "Erlach",
+    "country": "CH",
+    "lat": 47.0422,
+    "lng": 7.09728
+  },
+  {
+    "name": "Eriswil",
+    "country": "CH",
+    "lat": 47.07816,
+    "lng": 7.85149
+  },
+  {
+    "name": "Erlenbach / rechts des Dorfbachs oberhalb Bahnlinie",
+    "country": "CH",
+    "lat": 47.30658,
+    "lng": 8.60271
+  },
+  {
+    "name": "Erlenbach / links des Dorfbachs oberhalb Bahnlinie",
+    "country": "CH",
+    "lat": 47.2995,
+    "lng": 8.60188
+  },
+  {
+    "name": "Erémankono",
+    "country": "CI",
+    "lat": 9.08479,
+    "lng": -6.73738
+  },
+  {
+    "name": "Erémankono",
+    "country": "CI",
+    "lat": 5.92829,
+    "lng": -5.02252
+  },
+  {
+    "name": "Ery-Makouguié II",
+    "country": "CI",
+    "lat": 5.90458,
+    "lng": -4.17084
+  },
+  {
+    "name": "Erwangzhuang",
+    "country": "CN",
+    "lat": 39.39167,
+    "lng": 117.35389
+  },
+  {
+    "name": "Erqu",
+    "country": "CN",
+    "lat": 34.15278,
+    "lng": 108.20639
+  },
+  {
+    "name": "Erlang",
+    "country": "CN",
+    "lat": 33.83946,
+    "lng": 105.58831
+  },
+  {
+    "name": "Ersheng",
+    "country": "CN",
+    "lat": 29.46583,
+    "lng": 106.77083
+  },
+  {
+    "name": "Erenhot",
+    "country": "CN",
+    "lat": 43.6475,
+    "lng": 111.97667
+  },
+  {
+    "name": "Erdaojiang",
+    "country": "CN",
+    "lat": 41.77639,
+    "lng": 126.03194
+  },
+  {
+    "name": "Erong",
+    "country": "CN",
+    "lat": 28.57128,
+    "lng": 109.28837
+  },
+  {
+    "name": "Erlang",
+    "country": "CN",
+    "lat": 30.36264,
+    "lng": 105.99213
+  },
+  {
+    "name": "Erping",
+    "country": "CN",
+    "lat": 29.89892,
+    "lng": 106.15679
+  },
+  {
+    "name": "Erdao",
+    "country": "CN",
+    "lat": 43.86361,
+    "lng": 125.36985
+  },
+  {
+    "name": "Erími",
+    "country": "CY",
+    "lat": 34.67766,
+    "lng": 32.91815
+  },
+  {
+    "name": "Ergátes",
+    "country": "CY",
+    "lat": 35.05365,
+    "lng": 33.24292
+  },
+  {
+    "name": "Erzhausen",
+    "country": "DE",
+    "lat": 49.95528,
+    "lng": 8.6475
+  },
+  {
+    "name": "Erxleben",
+    "country": "DE",
+    "lat": 52.21812,
+    "lng": 11.24245
+  },
+  {
+    "name": "Erwitte",
+    "country": "DE",
+    "lat": 51.6127,
+    "lng": 8.3384
+  },
+  {
+    "name": "Ertingen",
+    "country": "DE",
+    "lat": 48.1,
+    "lng": 9.46667
+  },
+  {
+    "name": "Ersingen",
+    "country": "DE",
+    "lat": 48.2926,
+    "lng": 9.8551
+  },
+  {
+    "name": "Erpolzheim",
+    "country": "DE",
+    "lat": 49.48917,
+    "lng": 8.22472
+  },
+  {
+    "name": "Erpel",
+    "country": "DE",
+    "lat": 50.58333,
+    "lng": 7.23333
+  },
+  {
+    "name": "Erolzheim",
+    "country": "DE",
+    "lat": 48.09001,
+    "lng": 10.073
+  },
+  {
+    "name": "Ernstroda",
+    "country": "DE",
+    "lat": 50.86484,
+    "lng": 10.62056
+  },
+  {
+    "name": "Ernsgaden",
+    "country": "DE",
+    "lat": 48.73333,
+    "lng": 11.58333
+  },
+  {
+    "name": "Erndtebrück",
+    "country": "DE",
+    "lat": 50.98927,
+    "lng": 8.25288
+  },
+  {
+    "name": "Ermlitz",
+    "country": "DE",
+    "lat": 51.39182,
+    "lng": 12.15946
+  },
+  {
+    "name": "Erligheim",
+    "country": "DE",
+    "lat": 49.0225,
+    "lng": 9.09722
+  },
+  {
+    "name": "Erlensee",
+    "country": "DE",
+    "lat": 50.16304,
+    "lng": 8.97823
+  },
+  {
+    "name": "Erlenmoos",
+    "country": "DE",
+    "lat": 48.0653,
+    "lng": 9.97567
+  },
+  {
+    "name": "Erlenbach am Main",
+    "country": "DE",
+    "lat": 49.80341,
+    "lng": 9.16311
+  },
+  {
+    "name": "Erlenbach",
+    "country": "DE",
+    "lat": 49.97857,
+    "lng": 9.64459
+  },
+  {
+    "name": "Erlenbach",
+    "country": "DE",
+    "lat": 49.1725,
+    "lng": 9.26833
+  },
+  {
+    "name": "Erlbach",
+    "country": "DE",
+    "lat": 50.31667,
+    "lng": 12.36667
+  },
+  {
+    "name": "Erlbach",
+    "country": "DE",
+    "lat": 48.3,
+    "lng": 12.78333
+  },
+  {
+    "name": "Erlau",
+    "country": "DE",
+    "lat": 51.00938,
+    "lng": 12.94549
+  },
+  {
+    "name": "Erlangen",
+    "country": "DE",
+    "lat": 49.59099,
+    "lng": 11.00783
+  },
+  {
+    "name": "Erlabrunn",
+    "country": "DE",
+    "lat": 49.85972,
+    "lng": 9.84417
+  },
+  {
+    "name": "Erkrath",
+    "country": "DE",
+    "lat": 51.22235,
+    "lng": 6.90831
+  },
+  {
+    "name": "Erkner",
+    "country": "DE",
+    "lat": 52.42,
+    "lng": 13.75437
+  },
+  {
+    "name": "Erkheim",
+    "country": "DE",
+    "lat": 48.0373,
+    "lng": 10.3357
+  },
+  {
+    "name": "Erkerode",
+    "country": "DE",
+    "lat": 52.20485,
+    "lng": 10.70982
+  },
+  {
+    "name": "Erkenbrechtsweiler",
+    "country": "DE",
+    "lat": 48.55656,
+    "lng": 9.43211
+  },
+  {
+    "name": "Erkelenz",
+    "country": "DE",
+    "lat": 51.07947,
+    "lng": 6.31531
+  },
+  {
+    "name": "Eriskirch",
+    "country": "DE",
+    "lat": 47.62479,
+    "lng": 9.54197
+  },
+  {
+    "name": "Ering",
+    "country": "DE",
+    "lat": 48.29921,
+    "lng": 13.15029
+  },
+  {
+    "name": "Ergoldsbach",
+    "country": "DE",
+    "lat": 48.69263,
+    "lng": 12.20442
+  },
+  {
+    "name": "Ergolding",
+    "country": "DE",
+    "lat": 48.57654,
+    "lng": 12.17102
+  },
+  {
+    "name": "Ergersheim",
+    "country": "DE",
+    "lat": 49.51667,
+    "lng": 10.33333
+  },
+  {
+    "name": "Erfweiler",
+    "country": "DE",
+    "lat": 49.15712,
+    "lng": 7.81231
+  },
+  {
+    "name": "Erfurt",
+    "country": "DE",
+    "lat": 50.97734,
+    "lng": 11.03536
+  },
+  {
+    "name": "Erftstadt",
+    "country": "DE",
+    "lat": 50.81481,
+    "lng": 6.79387
+  },
+  {
+    "name": "Erfde",
+    "country": "DE",
+    "lat": 54.30854,
+    "lng": 9.3185
+  },
+  {
+    "name": "Eresing",
+    "country": "DE",
+    "lat": 48.087,
+    "lng": 11.02388
+  },
+  {
+    "name": "Erdweg",
+    "country": "DE",
+    "lat": 48.3318,
+    "lng": 11.30339
+  },
+  {
+    "name": "Erdmannhausen",
+    "country": "DE",
+    "lat": 48.94256,
+    "lng": 9.29615
+  },
+  {
+    "name": "Erding",
+    "country": "DE",
+    "lat": 48.30603,
+    "lng": 11.90686
+  },
+  {
+    "name": "Erbes-Büdesheim",
+    "country": "DE",
+    "lat": 49.75444,
+    "lng": 8.03139
+  },
+  {
+    "name": "Erbendorf",
+    "country": "DE",
+    "lat": 49.83983,
+    "lng": 12.04593
+  },
+  {
+    "name": "Erbach",
+    "country": "DE",
+    "lat": 49.66148,
+    "lng": 8.99402
+  },
+  {
+    "name": "Erbach",
+    "country": "DE",
+    "lat": 48.32841,
+    "lng": 9.88752
+  },
+  {
+    "name": "Erdeborn",
+    "country": "DE",
+    "lat": 51.47554,
+    "lng": 11.63487
+  },
+  {
+    "name": "Erustes",
+    "country": "ES",
+    "lat": 39.95667,
+    "lng": -4.49656
+  },
+  {
+    "name": "Errigoiti",
+    "country": "ES",
+    "lat": 43.31667,
+    "lng": -2.71667
+  },
+  {
+    "name": "Errenteria",
+    "country": "ES",
+    "lat": 43.31195,
+    "lng": -1.90234
+  },
+  {
+    "name": "Errezil",
+    "country": "ES",
+    "lat": 43.16505,
+    "lng": -2.17395
+  },
+  {
+    "name": "Ermua",
+    "country": "ES",
+    "lat": 43.18725,
+    "lng": -2.50261
+  },
+  {
+    "name": "Erla",
+    "country": "ES",
+    "lat": 42.11732,
+    "lng": -0.95019
+  },
+  {
+    "name": "Eratsun",
+    "country": "ES",
+    "lat": 43.08333,
+    "lng": -1.8
+  },
+  {
+    "name": "Erandio",
+    "country": "ES",
+    "lat": 43.30438,
+    "lng": -2.97352
+  },
+  {
+    "name": "Ermitagaña",
+    "country": "ES",
+    "lat": 42.81084,
+    "lng": -1.66409
+  },
+  {
+    "name": "Ervy-le-Châtel",
+    "country": "FR",
+    "lat": 48.04116,
+    "lng": 3.90988
+  },
+  {
+    "name": "Erstein",
+    "country": "FR",
+    "lat": 48.42373,
+    "lng": 7.66262
+  },
+  {
+    "name": "Erre",
+    "country": "FR",
+    "lat": 50.36252,
+    "lng": 3.31561
+  },
+  {
+    "name": "Erquy",
+    "country": "FR",
+    "lat": 48.63126,
+    "lng": -2.46507
+  },
+  {
+    "name": "Erquinghem-Lys",
+    "country": "FR",
+    "lat": 50.67601,
+    "lng": 2.84505
+  },
+  {
+    "name": "Ernolsheim-Bruche",
+    "country": "FR",
+    "lat": 48.56531,
+    "lng": 7.56503
+  },
+  {
+    "name": "Ernée",
+    "country": "FR",
+    "lat": 48.29722,
+    "lng": -0.93263
+  },
+  {
+    "name": "Ermont",
+    "country": "FR",
+    "lat": 48.99004,
+    "lng": 2.25804
+  },
+  {
+    "name": "Ergué-Gabéric",
+    "country": "FR",
+    "lat": 47.99657,
+    "lng": -4.02438
+  },
+  {
+    "name": "Erdeven",
+    "country": "FR",
+    "lat": 47.6422,
+    "lng": -3.15662
+  },
+  {
+    "name": "Ercuis",
+    "country": "FR",
+    "lat": 49.23465,
+    "lng": 2.30407
+  },
+  {
+    "name": "Ercé-près-Liffré",
+    "country": "FR",
+    "lat": 48.25604,
+    "lng": -1.5169
+  },
+  {
+    "name": "Ercé-en-Lamée",
+    "country": "FR",
+    "lat": 47.83003,
+    "lng": -1.56027
+  },
+  {
+    "name": "Erbrée",
+    "country": "FR",
+    "lat": 48.09828,
+    "lng": -1.12496
+  },
+  {
+    "name": "Erbray",
+    "country": "FR",
+    "lat": 47.65617,
+    "lng": -1.31786
+  },
+  {
+    "name": "Errol",
+    "country": "GB",
+    "lat": 56.39234,
+    "lng": -3.21275
+  },
+  {
+    "name": "Erlestoke",
+    "country": "GB",
+    "lat": 51.28472,
+    "lng": -2.05444
+  },
+  {
+    "name": "Erith",
+    "country": "GB",
+    "lat": 51.48315,
+    "lng": 0.17484
+  },
+  {
+    "name": "Erskine",
+    "country": "GB",
+    "lat": 55.9005,
+    "lng": -4.45028
+  },
+  {
+    "name": "Ermoúpolis",
+    "country": "GR",
+    "lat": 37.44466,
+    "lng": 24.9429
+  },
+  {
+    "name": "Ermióni",
+    "country": "GR",
+    "lat": 37.38492,
+    "lng": 23.24686
+  },
+  {
+    "name": "Erythrés",
+    "country": "GR",
+    "lat": 38.21741,
+    "lng": 23.32234
+  },
+  {
+    "name": "Erétria",
+    "country": "GR",
+    "lat": 38.40097,
+    "lng": 23.8022
+  },
+  {
+    "name": "Eresós",
+    "country": "GR",
+    "lat": 39.16973,
+    "lng": 25.93437
+  },
+  {
+    "name": "Erátyra",
+    "country": "GR",
+    "lat": 40.34253,
+    "lng": 21.51333
+  },
+  {
+    "name": "Erandique",
+    "country": "HN",
+    "lat": 14.23787,
+    "lng": -88.46447
+  },
+  {
+    "name": "Ervenik",
+    "country": "HR",
+    "lat": 44.10924,
+    "lng": 15.94139
+  },
+  {
+    "name": "Ernestinovo",
+    "country": "HR",
+    "lat": 45.45194,
+    "lng": 18.65917
+  },
+  {
+    "name": "Erdut",
+    "country": "HR",
+    "lat": 45.52639,
+    "lng": 19.06028
+  },
+  {
+    "name": "Erdőtelek",
+    "country": "HU",
+    "lat": 47.68333,
+    "lng": 20.31667
+  },
+  {
+    "name": "Erzsébetváros",
+    "country": "HU",
+    "lat": 47.50207,
+    "lng": 19.07218
+  },
+  {
+    "name": "Erdőkertes",
+    "country": "HU",
+    "lat": 47.67261,
+    "lng": 19.30786
+  },
+  {
+    "name": "Ercsi",
+    "country": "HU",
+    "lat": 47.25194,
+    "lng": 18.89623
+  },
+  {
+    "name": "Erdőskert",
+    "country": "HU",
+    "lat": 47.39867,
+    "lng": 19.20535
+  },
+  {
+    "name": "Erzsébettelep",
+    "country": "HU",
+    "lat": 47.45977,
+    "lng": 19.18296
+  },
+  {
+    "name": "Er Reina",
+    "country": "IL",
+    "lat": 32.72339,
+    "lng": 35.31622
+  },
+  {
+    "name": "Erumaippatti",
+    "country": "IN",
+    "lat": 11.14671,
+    "lng": 78.28996
+  },
+  {
+    "name": "Erraguntla",
+    "country": "IN",
+    "lat": 14.63853,
+    "lng": 78.53974
+  },
+  {
+    "name": "Erode",
+    "country": "IN",
+    "lat": 11.3428,
+    "lng": 77.72741
+  },
+  {
+    "name": "Eriyodu",
+    "country": "IN",
+    "lat": 10.51724,
+    "lng": 78.06268
+  },
+  {
+    "name": "Erāttupetta",
+    "country": "IN",
+    "lat": 9.68747,
+    "lng": 76.77891
+  },
+  {
+    "name": "Eraniel",
+    "country": "IN",
+    "lat": 8.20589,
+    "lng": 77.31726
+  },
+  {
+    "name": "Erandol",
+    "country": "IN",
+    "lat": 20.92206,
+    "lng": 75.32641
+  },
+  {
+    "name": "Eral",
+    "country": "IN",
+    "lat": 8.62584,
+    "lng": 78.02282
+  },
+  {
+    "name": "Eruvatti",
+    "country": "IN",
+    "lat": 11.80621,
+    "lng": 75.53023
+  },
+  {
+    "name": "Erannoli",
+    "country": "IN",
+    "lat": 11.76913,
+    "lng": 75.51766
+  },
+  {
+    "name": "Erāmala",
+    "country": "IN",
+    "lat": 11.68591,
+    "lng": 75.59104
+  },
+  {
+    "name": "Eravattūr",
+    "country": "IN",
+    "lat": 11.58006,
+    "lng": 75.73841
+  },
+  {
+    "name": "Eranāpuram",
+    "country": "IN",
+    "lat": 11.55812,
+    "lng": 77.98928
+  },
+  {
+    "name": "Eruvādi",
+    "country": "IN",
+    "lat": 8.44393,
+    "lng": 77.60441
+  },
+  {
+    "name": "Erumāpālaiyam",
+    "country": "IN",
+    "lat": 11.63242,
+    "lng": 78.16951
+  },
+  {
+    "name": "Eravu",
+    "country": "IN",
+    "lat": 10.48967,
+    "lng": 76.13489
+  },
+  {
+    "name": "Erei",
+    "country": "IN",
+    "lat": 21.08714,
+    "lng": 86.52696
+  },
+  {
+    "name": "Erbil",
+    "country": "IQ",
+    "lat": 36.19117,
+    "lng": 44.00943
+  },
+  {
+    "name": "Erice",
+    "country": "IT",
+    "lat": 38.03785,
+    "lng": 12.58778
+  },
+  {
+    "name": "Erula",
+    "country": "IT",
+    "lat": 40.79244,
+    "lng": 8.94418
+  },
+  {
+    "name": "Erto",
+    "country": "IT",
+    "lat": 46.2764,
+    "lng": 12.37149
+  },
+  {
+    "name": "Erli",
+    "country": "IT",
+    "lat": 44.13719,
+    "lng": 8.1043
+  },
+  {
+    "name": "Ercolano",
+    "country": "IT",
+    "lat": 40.80783,
+    "lng": 14.35012
+  },
+  {
+    "name": "Erchie",
+    "country": "IT",
+    "lat": 40.43609,
+    "lng": 17.7361
+  },
+  {
+    "name": "Erbezzo",
+    "country": "IT",
+    "lat": 45.6396,
+    "lng": 11.00057
+  },
+  {
+    "name": "Erbè",
+    "country": "IT",
+    "lat": 45.24231,
+    "lng": 10.97135
+  },
+  {
+    "name": "Erba",
+    "country": "IT",
+    "lat": 45.8088,
+    "lng": 9.22609
+  },
+  {
+    "name": "Eraclea",
+    "country": "IT",
+    "lat": 45.57766,
+    "lng": 12.6732
+  },
+  {
+    "name": "Erbusco",
+    "country": "IT",
+    "lat": 45.59868,
+    "lng": 9.97186
+  },
+  {
+    "name": "Erve",
+    "country": "IT",
+    "lat": 45.82158,
+    "lng": 9.45285
+  },
+  {
+    "name": "Eremo",
+    "country": "IT",
+    "lat": 45.13119,
+    "lng": 10.74271
+  },
+  {
+    "name": "Era",
+    "country": "IT",
+    "lat": 46.24422,
+    "lng": 9.39515
+  },
+  {
+    "name": "Erimo",
+    "country": "JP",
+    "lat": 42.01595,
+    "lng": 143.14853
+  },
+  {
+    "name": "Eravur Town",
+    "country": "LK",
+    "lat": 7.7782,
+    "lng": 81.6038
+  },
+  {
+    "name": "Erpeldange",
+    "country": "LU",
+    "lat": 49.86472,
+    "lng": 6.11472
+  },
+  {
+    "name": "Errachidia",
+    "country": "MA",
+    "lat": 31.9314,
+    "lng": -4.42663
+  },
+  {
+    "name": "Erdenet",
+    "country": "MN",
+    "lat": 48.94877,
+    "lng": 99.53665
+  },
+  {
+    "name": "Erhet",
+    "country": "MN",
+    "lat": 48.27394,
+    "lng": 102.9812
+  },
+  {
+    "name": "Ergel",
+    "country": "MN",
+    "lat": 43.15,
+    "lng": 109.13333
+  },
+  {
+    "name": "Ereencav",
+    "country": "MN",
+    "lat": 49.8807,
+    "lng": 115.72526
+  },
+  {
+    "name": "Erdenetsogt",
+    "country": "MN",
+    "lat": 46.41845,
+    "lng": 100.82239
+  },
+  {
+    "name": "Erdenetsogt",
+    "country": "MN",
+    "lat": 42.97238,
+    "lng": 106.11866
+  },
+  {
+    "name": "Erdenet",
+    "country": "MN",
+    "lat": 49.03333,
+    "lng": 104.08333
+  },
+  {
+    "name": "Ermita de Guadalupe",
+    "country": "MX",
+    "lat": 22.58658,
+    "lng": -103.0324
+  },
+  {
+    "name": "Erongarícuaro",
+    "country": "MX",
+    "lat": 19.58881,
+    "lng": -101.7211
+  },
+  {
+    "name": "Eruwa",
+    "country": "NG",
+    "lat": 7.53906,
+    "lng": 3.42453
+  },
+  {
+    "name": "Erp",
+    "country": "NL",
+    "lat": 51.6,
+    "lng": 5.60694
+  },
+  {
+    "name": "Ermelo",
+    "country": "NL",
+    "lat": 52.29833,
+    "lng": 5.62222
+  },
+  {
+    "name": "Ermita",
+    "country": "PH",
+    "lat": 10.9,
+    "lng": 122.71667
+  },
+  {
+    "name": "Erenas",
+    "country": "PH",
+    "lat": 12.4245,
+    "lng": 124.3238
+  },
+  {
+    "name": "Eraan",
+    "country": "PH",
+    "lat": 9.06289,
+    "lng": 117.7016
+  },
+  {
+    "name": "Ericeira",
+    "country": "PT",
+    "lat": 38.96275,
+    "lng": -9.41563
+  },
+  {
+    "name": "Ervedosa do Douro",
+    "country": "PT",
+    "lat": 41.16626,
+    "lng": -7.47305
+  },
+  {
+    "name": "Ermesinde",
+    "country": "PT",
+    "lat": 41.21653,
+    "lng": -8.55318
+  },
+  {
+    "name": "Ernei",
+    "country": "RO",
+    "lat": 46.60505,
+    "lng": 24.64148
+  },
+  {
+    "name": "Eremitu",
+    "country": "RO",
+    "lat": 46.66667,
+    "lng": 24.93333
+  },
+  {
+    "name": "Erbiceni",
+    "country": "RO",
+    "lat": 47.26667,
+    "lng": 27.23333
+  },
+  {
+    "name": "Erdevik",
+    "country": "RS",
+    "lat": 45.11721,
+    "lng": 19.40881
+  },
+  {
+    "name": "Ertil’",
+    "country": "RU",
+    "lat": 51.83818,
+    "lng": 40.80169
+  },
+  {
+    "name": "Erpeli",
+    "country": "RU",
+    "lat": 42.80584,
+    "lng": 46.97732
+  },
+  {
+    "name": "Erken-Shakhar",
+    "country": "RU",
+    "lat": 44.3778,
+    "lng": 41.9584
+  },
+  {
+    "name": "Erzin",
+    "country": "RU",
+    "lat": 50.26,
+    "lng": 95.1623
+  },
+  {
+    "name": "Er Roseires",
+    "country": "SD",
+    "lat": 11.8659,
+    "lng": 34.3869
+  },
+  {
+    "name": "Ersmark",
+    "country": "SE",
+    "lat": 63.88333,
+    "lng": 20.31667
+  },
+  {
+    "name": "Eriksberg",
+    "country": "SE",
+    "lat": 59.24241,
+    "lng": 17.81631
+  },
+  {
+    "name": "Eriksbo",
+    "country": "SE",
+    "lat": 57.77141,
+    "lng": 12.04183
+  },
+  {
+    "name": "Erawan",
+    "country": "TH",
+    "lat": 17.30181,
+    "lng": 101.95382
+  },
+  {
+    "name": "Er Regueb",
+    "country": "TN",
+    "lat": 34.85932,
+    "lng": 9.78654
+  },
+  {
+    "name": "Erriadh",
+    "country": "TN",
+    "lat": 33.82063,
+    "lng": 10.85394
+  },
+  {
+    "name": "Erzin",
+    "country": "TR",
+    "lat": 36.95348,
+    "lng": 36.19839
+  },
+  {
+    "name": "Erzurum",
+    "country": "TR",
+    "lat": 39.90861,
+    "lng": 41.27694
+  },
+  {
+    "name": "Erzincan",
+    "country": "TR",
+    "lat": 39.73919,
+    "lng": 39.49015
+  },
+  {
+    "name": "Eruh",
+    "country": "TR",
+    "lat": 37.74183,
+    "lng": 42.17422
+  },
+  {
+    "name": "Ertuğrul",
+    "country": "TR",
+    "lat": 39.57578,
+    "lng": 27.70672
+  },
+  {
+    "name": "Ermenek",
+    "country": "TR",
+    "lat": 36.64043,
+    "lng": 32.89179
+  },
+  {
+    "name": "Erköklü",
+    "country": "TR",
+    "lat": 37.86182,
+    "lng": 41.14413
+  },
+  {
+    "name": "Erkilet",
+    "country": "TR",
+    "lat": 38.82043,
+    "lng": 35.44011
+  },
+  {
+    "name": "Erikli",
+    "country": "TR",
+    "lat": 37.20258,
+    "lng": 37.28489
+  },
+  {
+    "name": "Ergani",
+    "country": "TR",
+    "lat": 38.26899,
+    "lng": 39.75446
+  },
+  {
+    "name": "Erentepe",
+    "country": "TR",
+    "lat": 39.00893,
+    "lng": 42.04364
+  },
+  {
+    "name": "Ereğli",
+    "country": "TR",
+    "lat": 37.51333,
+    "lng": 34.04672
+  },
+  {
+    "name": "Erdemli",
+    "country": "TR",
+    "lat": 36.60498,
+    "lng": 34.30836
+  },
+  {
+    "name": "Erciş",
+    "country": "TR",
+    "lat": 39.02587,
+    "lng": 43.35964
+  },
+  {
+    "name": "Erçek",
+    "country": "TR",
+    "lat": 38.65107,
+    "lng": 43.64401
+  },
+  {
+    "name": "Erikli",
+    "country": "TR",
+    "lat": 37.86761,
+    "lng": 38.80418
+  },
+  {
+    "name": "Erfelek",
+    "country": "TR",
+    "lat": 41.87926,
+    "lng": 34.91838
+  },
+  {
+    "name": "Erenler",
+    "country": "TR",
+    "lat": 40.75504,
+    "lng": 30.39344
+  },
+  {
+    "name": "Ereğli",
+    "country": "TR",
+    "lat": 41.28261,
+    "lng": 31.41806
+  },
+  {
+    "name": "Erdek",
+    "country": "TR",
+    "lat": 40.3996,
+    "lng": 27.79348
+  },
+  {
+    "name": "Erbaa",
+    "country": "TR",
+    "lat": 40.66889,
+    "lng": 36.5675
+  },
+  {
+    "name": "Erbeyli",
+    "country": "TR",
+    "lat": 37.8657,
+    "lng": 27.67874
+  },
+  {
+    "name": "Ershui",
+    "country": "TW",
+    "lat": 23.80989,
+    "lng": 120.61693
+  },
+  {
+    "name": "Erlin",
+    "country": "TW",
+    "lat": 23.90054,
+    "lng": 120.3689
+  },
+  {
+    "name": "Erie",
+    "country": "US",
+    "lat": 37.56811,
+    "lng": -95.24331
+  },
+  {
+    "name": "Erlanger",
+    "country": "US",
+    "lat": 39.01673,
+    "lng": -84.60078
+  },
+  {
+    "name": "Erath",
+    "country": "US",
+    "lat": 29.95826,
+    "lng": -92.03596
+  },
+  {
+    "name": "Erwinville",
+    "country": "US",
+    "lat": 30.53102,
+    "lng": -91.40789
+  },
+  {
+    "name": "Erwin",
+    "country": "US",
+    "lat": 35.32683,
+    "lng": -78.67613
+  },
+  {
+    "name": "Erma",
+    "country": "US",
+    "lat": 38.98776,
+    "lng": -74.9017
+  },
+  {
+    "name": "Erick",
+    "country": "US",
+    "lat": 35.21533,
+    "lng": -99.86649
+  },
+  {
+    "name": "Erin",
+    "country": "US",
+    "lat": 36.31839,
+    "lng": -87.69474
+  },
+  {
+    "name": "Erwin",
+    "country": "US",
+    "lat": 36.14511,
+    "lng": -82.41681
+  },
+  {
+    "name": "Erie",
+    "country": "US",
+    "lat": 41.65642,
+    "lng": -90.07929
+  },
+  {
+    "name": "Erving",
+    "country": "US",
+    "lat": 42.60009,
+    "lng": -72.39814
+  },
+  {
+    "name": "Erie",
+    "country": "US",
+    "lat": 42.12922,
+    "lng": -80.08506
+  },
+  {
+    "name": "Erie",
+    "country": "US",
+    "lat": 40.05026,
+    "lng": -105.04998
+  },
+  {
+    "name": "Erda",
+    "country": "US",
+    "lat": 40.61272,
+    "lng": -112.30439
+  },
+  {
+    "name": "Erlands Point-Kitsap Lake",
+    "country": "US",
+    "lat": 47.59719,
+    "lng": -122.70225
+  },
+  {
+    "name": "Ermelo",
+    "country": "ZA",
+    "lat": -26.53333,
+    "lng": 29.98333
+  }
+]

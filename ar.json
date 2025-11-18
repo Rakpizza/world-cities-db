@@ -1,0 +1,7478 @@
+[
+  {
+    "name": "Arinsal",
+    "country": "AD",
+    "lat": 42.57205,
+    "lng": 1.48453
+  },
+  {
+    "name": "Ar Rāshidīyah",
+    "country": "AE",
+    "lat": 25.22499,
+    "lng": 55.38947
+  },
+  {
+    "name": "Ar Ruways",
+    "country": "AE",
+    "lat": 24.11028,
+    "lng": 52.73056
+  },
+  {
+    "name": "Ar Riqqah",
+    "country": "AE",
+    "lat": 25.26797,
+    "lng": 55.31272
+  },
+  {
+    "name": "Ar Rumaylah",
+    "country": "AE",
+    "lat": 25.40338,
+    "lng": 55.4334
+  },
+  {
+    "name": "Arrën",
+    "country": "AL",
+    "lat": 41.91306,
+    "lng": 20.28833
+  },
+  {
+    "name": "Arras",
+    "country": "AL",
+    "lat": 41.73583,
+    "lng": 20.32417
+  },
+  {
+    "name": "Armen",
+    "country": "AL",
+    "lat": 40.53639,
+    "lng": 19.59611
+  },
+  {
+    "name": "Aranitas",
+    "country": "AL",
+    "lat": 40.59444,
+    "lng": 19.80667
+  },
+  {
+    "name": "Artashat",
+    "country": "AM",
+    "lat": 39.95484,
+    "lng": 44.54874
+  },
+  {
+    "name": "Armash",
+    "country": "AM",
+    "lat": 39.76672,
+    "lng": 44.8111
+  },
+  {
+    "name": "Areni",
+    "country": "AM",
+    "lat": 39.72205,
+    "lng": 45.18392
+  },
+  {
+    "name": "Ararat",
+    "country": "AM",
+    "lat": 39.85494,
+    "lng": 44.6947
+  },
+  {
+    "name": "Ararat village",
+    "country": "AM",
+    "lat": 39.83166,
+    "lng": 44.70489
+  },
+  {
+    "name": "Arpi",
+    "country": "AM",
+    "lat": 39.73889,
+    "lng": 45.26672
+  },
+  {
+    "name": "Aralez",
+    "country": "AM",
+    "lat": 39.90005,
+    "lng": 44.65086
+  },
+  {
+    "name": "Artsvanist",
+    "country": "AM",
+    "lat": 40.14857,
+    "lng": 45.50874
+  },
+  {
+    "name": "Armavir",
+    "country": "AM",
+    "lat": 40.15553,
+    "lng": 44.0388
+  },
+  {
+    "name": "Artimet",
+    "country": "AM",
+    "lat": 40.15008,
+    "lng": 44.26672
+  },
+  {
+    "name": "Arzni",
+    "country": "AM",
+    "lat": 40.29636,
+    "lng": 44.5958
+  },
+  {
+    "name": "Arzakan",
+    "country": "AM",
+    "lat": 40.45007,
+    "lng": 44.60828
+  },
+  {
+    "name": "Artik",
+    "country": "AM",
+    "lat": 40.61918,
+    "lng": 43.97207
+  },
+  {
+    "name": "Arteni",
+    "country": "AM",
+    "lat": 40.2973,
+    "lng": 43.76672
+  },
+  {
+    "name": "Artashar",
+    "country": "AM",
+    "lat": 40.11108,
+    "lng": 44.18329
+  },
+  {
+    "name": "Arshaluys",
+    "country": "AM",
+    "lat": 40.16949,
+    "lng": 44.21393
+  },
+  {
+    "name": "Arinj",
+    "country": "AM",
+    "lat": 40.23356,
+    "lng": 44.58209
+  },
+  {
+    "name": "Argel",
+    "country": "AM",
+    "lat": 40.37116,
+    "lng": 44.59618
+  },
+  {
+    "name": "Argavand",
+    "country": "AM",
+    "lat": 40.15289,
+    "lng": 44.4389
+  },
+  {
+    "name": "Argavand",
+    "country": "AM",
+    "lat": 40.0611,
+    "lng": 44.09448
+  },
+  {
+    "name": "Arevshat",
+    "country": "AM",
+    "lat": 40.65345,
+    "lng": 44.04419
+  },
+  {
+    "name": "Arevshat",
+    "country": "AM",
+    "lat": 40.03963,
+    "lng": 44.54179
+  },
+  {
+    "name": "Arevik",
+    "country": "AM",
+    "lat": 40.7417,
+    "lng": 43.9043
+  },
+  {
+    "name": "Arevik",
+    "country": "AM",
+    "lat": 40.1001,
+    "lng": 44.09448
+  },
+  {
+    "name": "Arevashogh",
+    "country": "AM",
+    "lat": 40.86039,
+    "lng": 44.27438
+  },
+  {
+    "name": "Arevashat",
+    "country": "AM",
+    "lat": 40.13984,
+    "lng": 44.3744
+  },
+  {
+    "name": "Arjut",
+    "country": "AM",
+    "lat": 40.86118,
+    "lng": 44.37587
+  },
+  {
+    "name": "Archis",
+    "country": "AM",
+    "lat": 41.16351,
+    "lng": 44.87631
+  },
+  {
+    "name": "Arbat",
+    "country": "AM",
+    "lat": 40.13892,
+    "lng": 44.40289
+  },
+  {
+    "name": "Arazap",
+    "country": "AM",
+    "lat": 40.04169,
+    "lng": 44.14728
+  },
+  {
+    "name": "Arapi",
+    "country": "AM",
+    "lat": 40.78276,
+    "lng": 43.80583
+  },
+  {
+    "name": "Aramus",
+    "country": "AM",
+    "lat": 40.25095,
+    "lng": 44.66351
+  },
+  {
+    "name": "Araks",
+    "country": "AM",
+    "lat": 40.05548,
+    "lng": 44.30292
+  },
+  {
+    "name": "Aragyugh",
+    "country": "AM",
+    "lat": 40.40289,
+    "lng": 44.54449
+  },
+  {
+    "name": "Aragats",
+    "country": "AM",
+    "lat": 40.48889,
+    "lng": 44.3529
+  },
+  {
+    "name": "Aragatsavan",
+    "country": "AM",
+    "lat": 40.32121,
+    "lng": 43.66205
+  },
+  {
+    "name": "Aragats",
+    "country": "AM",
+    "lat": 40.21948,
+    "lng": 44.23328
+  },
+  {
+    "name": "Artsvaberd",
+    "country": "AM",
+    "lat": 40.83947,
+    "lng": 45.47033
+  },
+  {
+    "name": "Aruch",
+    "country": "AM",
+    "lat": 40.28749,
+    "lng": 44.07798
+  },
+  {
+    "name": "Aratashen",
+    "country": "AM",
+    "lat": 40.12824,
+    "lng": 44.22803
+  },
+  {
+    "name": "Arevabuyr",
+    "country": "AM",
+    "lat": 40.03607,
+    "lng": 44.46948
+  },
+  {
+    "name": "Araks",
+    "country": "AM",
+    "lat": 40.09729,
+    "lng": 43.95569
+  },
+  {
+    "name": "Arevut",
+    "country": "AM",
+    "lat": 40.36394,
+    "lng": 43.81025
+  },
+  {
+    "name": "Armavir",
+    "country": "AM",
+    "lat": 40.08298,
+    "lng": 44.05777
+  },
+  {
+    "name": "Arabkir",
+    "country": "AM",
+    "lat": 40.20624,
+    "lng": 44.50365
+  },
+  {
+    "name": "Arroyo del Medio",
+    "country": "AR",
+    "lat": -27.69748,
+    "lng": -55.40376
+  },
+  {
+    "name": "Aristóbulo del Valle",
+    "country": "AR",
+    "lat": -27.09571,
+    "lng": -54.89344
+  },
+  {
+    "name": "Arrufo",
+    "country": "AR",
+    "lat": -30.23306,
+    "lng": -61.72841
+  },
+  {
+    "name": "Arroyo Seco",
+    "country": "AR",
+    "lat": -33.15365,
+    "lng": -60.51168
+  },
+  {
+    "name": "Arroyo Cabral",
+    "country": "AR",
+    "lat": -32.49144,
+    "lng": -63.40037
+  },
+  {
+    "name": "Arroyito",
+    "country": "AR",
+    "lat": -31.41917,
+    "lng": -63.05084
+  },
+  {
+    "name": "Arrecifes",
+    "country": "AR",
+    "lat": -34.06306,
+    "lng": -60.10261
+  },
+  {
+    "name": "Armstrong",
+    "country": "AR",
+    "lat": -32.78487,
+    "lng": -61.60321
+  },
+  {
+    "name": "Arias",
+    "country": "AR",
+    "lat": -33.64037,
+    "lng": -62.40272
+  },
+  {
+    "name": "Arauco",
+    "country": "AR",
+    "lat": -28.58071,
+    "lng": -66.7925
+  },
+  {
+    "name": "Arata",
+    "country": "AR",
+    "lat": -35.63895,
+    "lng": -64.35621
+  },
+  {
+    "name": "Aranguren",
+    "country": "AR",
+    "lat": -32.24314,
+    "lng": -60.16068
+  },
+  {
+    "name": "Arzl im Pitztal",
+    "country": "AT",
+    "lat": 47.20712,
+    "lng": 10.76261
+  },
+  {
+    "name": "Arzl",
+    "country": "AT",
+    "lat": 47.28333,
+    "lng": 11.43333
+  },
+  {
+    "name": "Arzberg",
+    "country": "AT",
+    "lat": 47.25,
+    "lng": 15.51667
+  },
+  {
+    "name": "Arriach",
+    "country": "AT",
+    "lat": 46.72921,
+    "lng": 13.85046
+  },
+  {
+    "name": "Arnreit",
+    "country": "AT",
+    "lat": 48.52513,
+    "lng": 13.99487
+  },
+  {
+    "name": "Arnoldstein",
+    "country": "AT",
+    "lat": 46.54611,
+    "lng": 13.71
+  },
+  {
+    "name": "Arnfels",
+    "country": "AT",
+    "lat": 46.67639,
+    "lng": 15.40306
+  },
+  {
+    "name": "Ardning",
+    "country": "AT",
+    "lat": 47.5912,
+    "lng": 14.36372
+  },
+  {
+    "name": "Ardagger Stift",
+    "country": "AT",
+    "lat": 48.15,
+    "lng": 14.83333
+  },
+  {
+    "name": "Arbesbach",
+    "country": "AT",
+    "lat": 48.49337,
+    "lng": 14.95308
+  },
+  {
+    "name": "Armadale",
+    "country": "AU",
+    "lat": -32.14607,
+    "lng": 116.0093
+  },
+  {
+    "name": "Ardrossan",
+    "country": "AU",
+    "lat": -34.42217,
+    "lng": 137.91907
+  },
+  {
+    "name": "Artarmon",
+    "country": "AU",
+    "lat": -33.81667,
+    "lng": 151.18333
+  },
+  {
+    "name": "Armidale",
+    "country": "AU",
+    "lat": -30.50123,
+    "lng": 151.66553
+  },
+  {
+    "name": "Armadale",
+    "country": "AU",
+    "lat": -37.85544,
+    "lng": 145.02052
+  },
+  {
+    "name": "Arcadia",
+    "country": "AU",
+    "lat": -33.61667,
+    "lng": 151.03333
+  },
+  {
+    "name": "Ararat",
+    "country": "AU",
+    "lat": -37.28542,
+    "lng": 142.92728
+  },
+  {
+    "name": "Arncliffe",
+    "country": "AU",
+    "lat": -33.93627,
+    "lng": 151.14819
+  },
+  {
+    "name": "Argenton",
+    "country": "AU",
+    "lat": -32.93505,
+    "lng": 151.63064
+  },
+  {
+    "name": "Ardeer",
+    "country": "AU",
+    "lat": -37.77586,
+    "lng": 144.80144
+  },
+  {
+    "name": "Ardross",
+    "country": "AU",
+    "lat": -32.02696,
+    "lng": 115.83548
+  },
+  {
+    "name": "Arundel",
+    "country": "AU",
+    "lat": -27.93768,
+    "lng": 153.36302
+  },
+  {
+    "name": "Aroona",
+    "country": "AU",
+    "lat": -26.78173,
+    "lng": 153.11652
+  },
+  {
+    "name": "Araluen",
+    "country": "AU",
+    "lat": -23.69601,
+    "lng": 133.854
+  },
+  {
+    "name": "Aranda",
+    "country": "AU",
+    "lat": -35.25817,
+    "lng": 149.0804
+  },
+  {
+    "name": "Arana Hills",
+    "country": "AU",
+    "lat": -27.39808,
+    "lng": 152.95797
+  },
+  {
+    "name": "Arcadia vale",
+    "country": "AU",
+    "lat": -33.06052,
+    "lng": 151.58408
+  },
+  {
+    "name": "Armstrong Creek",
+    "country": "AU",
+    "lat": -38.23121,
+    "lng": 144.37374
+  },
+  {
+    "name": "Arıqıran",
+    "country": "AZ",
+    "lat": 40.53971,
+    "lng": 45.61414
+  },
+  {
+    "name": "Arıqdam",
+    "country": "AZ",
+    "lat": 40.59313,
+    "lng": 45.799
+  },
+  {
+    "name": "Aran",
+    "country": "AZ",
+    "lat": 40.62528,
+    "lng": 46.97556
+  },
+  {
+    "name": "Arville",
+    "country": "BE",
+    "lat": 50.03203,
+    "lng": 5.31665
+  },
+  {
+    "name": "Arsimont",
+    "country": "BE",
+    "lat": 50.42859,
+    "lng": 4.63872
+  },
+  {
+    "name": "Arquennes",
+    "country": "BE",
+    "lat": 50.56765,
+    "lng": 4.27341
+  },
+  {
+    "name": "Arlon",
+    "country": "BE",
+    "lat": 49.68333,
+    "lng": 5.81667
+  },
+  {
+    "name": "Argenteau",
+    "country": "BE",
+    "lat": 50.70211,
+    "lng": 5.68448
+  },
+  {
+    "name": "Arendonk",
+    "country": "BE",
+    "lat": 51.32267,
+    "lng": 5.08289
+  },
+  {
+    "name": "Ardooie",
+    "country": "BE",
+    "lat": 50.9757,
+    "lng": 3.19736
+  },
+  {
+    "name": "Archennes",
+    "country": "BE",
+    "lat": 50.75261,
+    "lng": 4.66962
+  },
+  {
+    "name": "Aribinda",
+    "country": "BF",
+    "lat": 14.22963,
+    "lng": -0.86537
+  },
+  {
+    "name": "Ardino",
+    "country": "BG",
+    "lat": 41.58322,
+    "lng": 25.13371
+  },
+  {
+    "name": "Ar Rifā‘",
+    "country": "BH",
+    "lat": 26.13,
+    "lng": 50.555
+  },
+  {
+    "name": "Arani",
+    "country": "BO",
+    "lat": -17.56854,
+    "lng": -65.76883
+  },
+  {
+    "name": "Areial",
+    "country": "BR",
+    "lat": -7.06139,
+    "lng": -35.92583
+  },
+  {
+    "name": "Arraial",
+    "country": "BR",
+    "lat": -6.65472,
+    "lng": -42.53167
+  },
+  {
+    "name": "Aroeiras",
+    "country": "BR",
+    "lat": -7.54528,
+    "lng": -35.7075
+  },
+  {
+    "name": "Aroeiras do Itaim",
+    "country": "BR",
+    "lat": -7.27951,
+    "lng": -41.56358
+  },
+  {
+    "name": "Aroazes",
+    "country": "BR",
+    "lat": -6.11889,
+    "lng": -41.79306
+  },
+  {
+    "name": "Arneiroz",
+    "country": "BR",
+    "lat": -6.32361,
+    "lng": -40.16056
+  },
+  {
+    "name": "Arês",
+    "country": "BR",
+    "lat": -6.19444,
+    "lng": -35.16028
+  },
+  {
+    "name": "Areia de Baraúnas",
+    "country": "BR",
+    "lat": -7.12278,
+    "lng": -36.94111
+  },
+  {
+    "name": "Areia Branca",
+    "country": "BR",
+    "lat": -4.95611,
+    "lng": -37.13694
+  },
+  {
+    "name": "Areia",
+    "country": "BR",
+    "lat": -6.96333,
+    "lng": -35.69167
+  },
+  {
+    "name": "Arcoverde",
+    "country": "BR",
+    "lat": -8.41889,
+    "lng": -37.05389
+  },
+  {
+    "name": "Aratuba",
+    "country": "BR",
+    "lat": -4.41833,
+    "lng": -39.045
+  },
+  {
+    "name": "Araruna",
+    "country": "BR",
+    "lat": -6.55833,
+    "lng": -35.74167
+  },
+  {
+    "name": "Araripina",
+    "country": "BR",
+    "lat": -7.57611,
+    "lng": -40.49833
+  },
+  {
+    "name": "Araripe",
+    "country": "BR",
+    "lat": -7.21337,
+    "lng": -40.137
+  },
+  {
+    "name": "Arari",
+    "country": "BR",
+    "lat": -3.45361,
+    "lng": -44.78
+  },
+  {
+    "name": "Ararendá",
+    "country": "BR",
+    "lat": -4.75278,
+    "lng": -40.83278
+  },
+  {
+    "name": "Arara",
+    "country": "BR",
+    "lat": -6.82833,
+    "lng": -35.75833
+  },
+  {
+    "name": "Arapoema",
+    "country": "BR",
+    "lat": -7.65778,
+    "lng": -49.06389
+  },
+  {
+    "name": "Arapiraca",
+    "country": "BR",
+    "lat": -9.7525,
+    "lng": -36.66111
+  },
+  {
+    "name": "Araioses",
+    "country": "BR",
+    "lat": -2.89,
+    "lng": -41.90306
+  },
+  {
+    "name": "Araguatins",
+    "country": "BR",
+    "lat": -5.65084,
+    "lng": -48.11119
+  },
+  {
+    "name": "Araguanã",
+    "country": "BR",
+    "lat": -6.58111,
+    "lng": -48.64444
+  },
+  {
+    "name": "Araguaína",
+    "country": "BR",
+    "lat": -7.19111,
+    "lng": -48.20722
+  },
+  {
+    "name": "Araguacema",
+    "country": "BR",
+    "lat": -8.80361,
+    "lng": -49.55639
+  },
+  {
+    "name": "Araçoiaba",
+    "country": "BR",
+    "lat": -7.79028,
+    "lng": -35.09083
+  },
+  {
+    "name": "Aracoiaba",
+    "country": "BR",
+    "lat": -4.37111,
+    "lng": -38.81417
+  },
+  {
+    "name": "Aracati",
+    "country": "BR",
+    "lat": -4.56167,
+    "lng": -37.76972
+  },
+  {
+    "name": "Araçagi",
+    "country": "BR",
+    "lat": -6.85306,
+    "lng": -35.38111
+  },
+  {
+    "name": "Aragominas",
+    "country": "BR",
+    "lat": -7.15972,
+    "lng": -48.5275
+  },
+  {
+    "name": "Arvorezinha",
+    "country": "BR",
+    "lat": -28.87222,
+    "lng": -52.17528
+  },
+  {
+    "name": "Arujá",
+    "country": "BR",
+    "lat": -23.39611,
+    "lng": -46.32083
+  },
+  {
+    "name": "Aruanã",
+    "country": "BR",
+    "lat": -14.92028,
+    "lng": -51.08306
+  },
+  {
+    "name": "Artur Nogueira",
+    "country": "BR",
+    "lat": -22.57306,
+    "lng": -47.1725
+  },
+  {
+    "name": "Arroio Trinta",
+    "country": "BR",
+    "lat": -26.93278,
+    "lng": -51.33917
+  },
+  {
+    "name": "Arroio Grande",
+    "country": "BR",
+    "lat": -32.2375,
+    "lng": -53.08694
+  },
+  {
+    "name": "Arroio do Tigre",
+    "country": "BR",
+    "lat": -29.33278,
+    "lng": -53.09333
+  },
+  {
+    "name": "Arroio dos Ratos",
+    "country": "BR",
+    "lat": -30.07722,
+    "lng": -51.72917
+  },
+  {
+    "name": "Arroio do Meio",
+    "country": "BR",
+    "lat": -29.40111,
+    "lng": -51.945
+  },
+  {
+    "name": "Arraias",
+    "country": "BR",
+    "lat": -12.93139,
+    "lng": -46.93833
+  },
+  {
+    "name": "Arraial do Cabo",
+    "country": "BR",
+    "lat": -22.96611,
+    "lng": -42.02778
+  },
+  {
+    "name": "Armazém",
+    "country": "BR",
+    "lat": -28.26194,
+    "lng": -49.0175
+  },
+  {
+    "name": "Armação dos Búzios",
+    "country": "BR",
+    "lat": -22.74694,
+    "lng": -41.88167
+  },
+  {
+    "name": "Armação",
+    "country": "BR",
+    "lat": -27.74963,
+    "lng": -48.50713
+  },
+  {
+    "name": "Ariranha",
+    "country": "BR",
+    "lat": -21.18778,
+    "lng": -48.78694
+  },
+  {
+    "name": "Arinos",
+    "country": "BR",
+    "lat": -15.91694,
+    "lng": -46.10556
+  },
+  {
+    "name": "Aricanduva",
+    "country": "BR",
+    "lat": -17.86722,
+    "lng": -42.55694
+  },
+  {
+    "name": "Argirita",
+    "country": "BR",
+    "lat": -21.61,
+    "lng": -42.83611
+  },
+  {
+    "name": "Arenápolis",
+    "country": "BR",
+    "lat": -14.45028,
+    "lng": -56.84611
+  },
+  {
+    "name": "Areiópolis",
+    "country": "BR",
+    "lat": -22.66806,
+    "lng": -48.665
+  },
+  {
+    "name": "Areias",
+    "country": "BR",
+    "lat": -22.57972,
+    "lng": -44.69694
+  },
+  {
+    "name": "Areia Branca",
+    "country": "BR",
+    "lat": -10.75778,
+    "lng": -37.31528
+  },
+  {
+    "name": "Arealva",
+    "country": "BR",
+    "lat": -22.02861,
+    "lng": -48.91111
+  },
+  {
+    "name": "Areal",
+    "country": "BR",
+    "lat": -22.23056,
+    "lng": -43.10556
+  },
+  {
+    "name": "Areado",
+    "country": "BR",
+    "lat": -21.35861,
+    "lng": -46.14556
+  },
+  {
+    "name": "Arcos",
+    "country": "BR",
+    "lat": -20.28194,
+    "lng": -45.53944
+  },
+  {
+    "name": "Arco-Íris",
+    "country": "BR",
+    "lat": -21.7725,
+    "lng": -50.465
+  },
+  {
+    "name": "Arceburgo",
+    "country": "BR",
+    "lat": -21.36417,
+    "lng": -46.94
+  },
+  {
+    "name": "Arcadas",
+    "country": "BR",
+    "lat": -22.72333,
+    "lng": -46.84528
+  },
+  {
+    "name": "Araxá",
+    "country": "BR",
+    "lat": -19.59333,
+    "lng": -46.94056
+  },
+  {
+    "name": "Araújos",
+    "country": "BR",
+    "lat": -19.94806,
+    "lng": -45.16556
+  },
+  {
+    "name": "Araucária",
+    "country": "BR",
+    "lat": -25.59306,
+    "lng": -49.41028
+  },
+  {
+    "name": "Arauá",
+    "country": "BR",
+    "lat": -11.26222,
+    "lng": -37.61972
+  },
+  {
+    "name": "Aratuípe",
+    "country": "BR",
+    "lat": -13.07889,
+    "lng": -39.00167
+  },
+  {
+    "name": "Aratiba",
+    "country": "BR",
+    "lat": -27.39417,
+    "lng": -52.30028
+  },
+  {
+    "name": "Arataca",
+    "country": "BR",
+    "lat": -15.26333,
+    "lng": -39.41444
+  },
+  {
+    "name": "Araruna",
+    "country": "BR",
+    "lat": -23.93167,
+    "lng": -52.49639
+  },
+  {
+    "name": "Araruama",
+    "country": "BR",
+    "lat": -22.87278,
+    "lng": -42.34306
+  },
+  {
+    "name": "Araricá",
+    "country": "BR",
+    "lat": -29.61361,
+    "lng": -50.925
+  },
+  {
+    "name": "Araras",
+    "country": "BR",
+    "lat": -22.35694,
+    "lng": -47.38417
+  },
+  {
+    "name": "Araraquara",
+    "country": "BR",
+    "lat": -21.79444,
+    "lng": -48.17556
+  },
+  {
+    "name": "Araranguá",
+    "country": "BR",
+    "lat": -28.93575,
+    "lng": -49.49538
+  },
+  {
+    "name": "Araquari",
+    "country": "BR",
+    "lat": -26.37,
+    "lng": -48.72222
+  },
+  {
+    "name": "Arapuá",
+    "country": "BR",
+    "lat": -19.03389,
+    "lng": -46.15556
+  },
+  {
+    "name": "Arapoti",
+    "country": "BR",
+    "lat": -24.15778,
+    "lng": -49.82667
+  },
+  {
+    "name": "Araporã",
+    "country": "BR",
+    "lat": -18.43611,
+    "lng": -49.185
+  },
+  {
+    "name": "Arapongas",
+    "country": "BR",
+    "lat": -23.41944,
+    "lng": -51.42444
+  },
+  {
+    "name": "Araponga",
+    "country": "BR",
+    "lat": -20.66667,
+    "lng": -42.52083
+  },
+  {
+    "name": "Arapeí",
+    "country": "BR",
+    "lat": -22.67389,
+    "lng": -44.44778
+  },
+  {
+    "name": "Arantina",
+    "country": "BR",
+    "lat": -21.91111,
+    "lng": -44.25583
+  },
+  {
+    "name": "Arandu",
+    "country": "BR",
+    "lat": -23.13444,
+    "lng": -49.05389
+  },
+  {
+    "name": "Aramina",
+    "country": "BR",
+    "lat": -20.09028,
+    "lng": -47.78583
+  },
+  {
+    "name": "Arambaré",
+    "country": "BR",
+    "lat": -30.915,
+    "lng": -51.49778
+  },
+  {
+    "name": "Aramari",
+    "country": "BR",
+    "lat": -12.08167,
+    "lng": -38.49917
+  },
+  {
+    "name": "Araguari",
+    "country": "BR",
+    "lat": -18.64722,
+    "lng": -48.18722
+  },
+  {
+    "name": "Araguainha",
+    "country": "BR",
+    "lat": -16.85611,
+    "lng": -53.0325
+  },
+  {
+    "name": "Araguaiana",
+    "country": "BR",
+    "lat": -15.73389,
+    "lng": -51.83139
+  },
+  {
+    "name": "Araguaçu",
+    "country": "BR",
+    "lat": -12.93056,
+    "lng": -49.82639
+  },
+  {
+    "name": "Aragoiânia",
+    "country": "BR",
+    "lat": -16.91194,
+    "lng": -49.45139
+  },
+  {
+    "name": "Aragarças",
+    "country": "BR",
+    "lat": -15.8975,
+    "lng": -52.25083
+  },
+  {
+    "name": "Araçuaí",
+    "country": "BR",
+    "lat": -16.84972,
+    "lng": -42.07028
+  },
+  {
+    "name": "Araçu",
+    "country": "BR",
+    "lat": -16.3575,
+    "lng": -49.68111
+  },
+  {
+    "name": "Aracruz",
+    "country": "BR",
+    "lat": -19.82028,
+    "lng": -40.27333
+  },
+  {
+    "name": "Araçoiaba da Serra",
+    "country": "BR",
+    "lat": -23.50528,
+    "lng": -47.61417
+  },
+  {
+    "name": "Aracitaba",
+    "country": "BR",
+    "lat": -21.3425,
+    "lng": -43.37833
+  },
+  {
+    "name": "Araci",
+    "country": "BR",
+    "lat": -11.33333,
+    "lng": -38.96667
+  },
+  {
+    "name": "Araçatuba",
+    "country": "BR",
+    "lat": -21.20889,
+    "lng": -50.43278
+  },
+  {
+    "name": "Aracatu",
+    "country": "BR",
+    "lat": -14.4275,
+    "lng": -41.46194
+  },
+  {
+    "name": "Araçás",
+    "country": "BR",
+    "lat": -12.21111,
+    "lng": -38.2025
+  },
+  {
+    "name": "Araçariguama",
+    "country": "BR",
+    "lat": -23.43861,
+    "lng": -47.06139
+  },
+  {
+    "name": "Aracaju",
+    "country": "BR",
+    "lat": -10.91111,
+    "lng": -37.07167
+  },
+  {
+    "name": "Araçaí",
+    "country": "BR",
+    "lat": -19.19861,
+    "lng": -44.24806
+  },
+  {
+    "name": "Arabutã",
+    "country": "BR",
+    "lat": -27.16028,
+    "lng": -52.14167
+  },
+  {
+    "name": "Ariquemes",
+    "country": "BR",
+    "lat": -9.91333,
+    "lng": -63.04083
+  },
+  {
+    "name": "Araguanã",
+    "country": "BR",
+    "lat": -2.94639,
+    "lng": -45.66098
+  },
+  {
+    "name": "Araguapaz",
+    "country": "BR",
+    "lat": -15.09083,
+    "lng": -50.63222
+  },
+  {
+    "name": "Aral Moreira",
+    "country": "BR",
+    "lat": -22.93389,
+    "lng": -55.63528
+  },
+  {
+    "name": "Arame",
+    "country": "BR",
+    "lat": -4.88583,
+    "lng": -46.005
+  },
+  {
+    "name": "Arapuã",
+    "country": "BR",
+    "lat": -24.31611,
+    "lng": -51.78694
+  },
+  {
+    "name": "Araputanga",
+    "country": "BR",
+    "lat": -15.47111,
+    "lng": -58.35306
+  },
+  {
+    "name": "Arenópolis",
+    "country": "BR",
+    "lat": -16.38611,
+    "lng": -51.56028
+  },
+  {
+    "name": "Aripuanã",
+    "country": "BR",
+    "lat": -10.17647,
+    "lng": -59.44913
+  },
+  {
+    "name": "Ariranha do Ivaí",
+    "country": "BR",
+    "lat": -24.38639,
+    "lng": -51.58528
+  },
+  {
+    "name": "Arroio do Padre",
+    "country": "BR",
+    "lat": -31.44139,
+    "lng": -52.42389
+  },
+  {
+    "name": "Arroio do Sal",
+    "country": "BR",
+    "lat": -29.55139,
+    "lng": -49.88889
+  },
+  {
+    "name": "Arvoredo",
+    "country": "BR",
+    "lat": -27.07444,
+    "lng": -52.45583
+  },
+  {
+    "name": "Araxá",
+    "country": "BR",
+    "lat": 0.0,
+    "lng": -51.06204
+  },
+  {
+    "name": "Artur Alvim",
+    "country": "BR",
+    "lat": -23.54015,
+    "lng": -46.48581
+  },
+  {
+    "name": "Aricanduva",
+    "country": "BR",
+    "lat": -23.57381,
+    "lng": -46.51561
+  },
+  {
+    "name": "Arthur’s Town",
+    "country": "BS",
+    "lat": 24.6224,
+    "lng": -75.67151
+  },
+  {
+    "name": "Artesia",
+    "country": "BW",
+    "lat": -24.01242,
+    "lng": 26.31957
+  },
+  {
+    "name": "Armenia",
+    "country": "BZ",
+    "lat": 17.1553,
+    "lng": -88.7464
+  },
+  {
+    "name": "Arbour Lake",
+    "country": "CA",
+    "lat": 51.13472,
+    "lng": -114.20278
+  },
+  {
+    "name": "Arbutus Ridge",
+    "country": "CA",
+    "lat": 49.24966,
+    "lng": -123.16934
+  },
+  {
+    "name": "Ardmore",
+    "country": "CA",
+    "lat": 48.63854,
+    "lng": -123.46933
+  },
+  {
+    "name": "Ardrossan",
+    "country": "CA",
+    "lat": 53.55014,
+    "lng": -113.13529
+  },
+  {
+    "name": "Armstrong",
+    "country": "CA",
+    "lat": 50.44979,
+    "lng": -119.20235
+  },
+  {
+    "name": "Arnprior",
+    "country": "CA",
+    "lat": 45.43341,
+    "lng": -76.34939
+  },
+  {
+    "name": "Arviat",
+    "country": "CA",
+    "lat": 61.10883,
+    "lng": -94.05848
+  },
+  {
+    "name": "Aru",
+    "country": "CD",
+    "lat": 2.86218,
+    "lng": 30.84138
+  },
+  {
+    "name": "Arzo",
+    "country": "CH",
+    "lat": 45.87606,
+    "lng": 8.94103
+  },
+  {
+    "name": "Arzier",
+    "country": "CH",
+    "lat": 46.45962,
+    "lng": 6.20813
+  },
+  {
+    "name": "Arvigo",
+    "country": "CH",
+    "lat": 46.30211,
+    "lng": 9.113
+  },
+  {
+    "name": "Arth",
+    "country": "CH",
+    "lat": 47.06337,
+    "lng": 8.52349
+  },
+  {
+    "name": "Arosa",
+    "country": "CH",
+    "lat": 46.77793,
+    "lng": 9.67621
+  },
+  {
+    "name": "Arlesheim",
+    "country": "CH",
+    "lat": 47.49412,
+    "lng": 7.61979
+  },
+  {
+    "name": "Aristau",
+    "country": "CH",
+    "lat": 47.28692,
+    "lng": 8.36356
+  },
+  {
+    "name": "Arisdorf",
+    "country": "CH",
+    "lat": 47.51323,
+    "lng": 7.76515
+  },
+  {
+    "name": "Ardon",
+    "country": "CH",
+    "lat": 46.20951,
+    "lng": 7.26012
+  },
+  {
+    "name": "Arch",
+    "country": "CH",
+    "lat": 47.16533,
+    "lng": 7.43139
+  },
+  {
+    "name": "Arbon",
+    "country": "CH",
+    "lat": 47.51667,
+    "lng": 9.43333
+  },
+  {
+    "name": "Arraguié",
+    "country": "CI",
+    "lat": 6.01258,
+    "lng": -4.14541
+  },
+  {
+    "name": "Arrah",
+    "country": "CI",
+    "lat": 6.67342,
+    "lng": -3.96938
+  },
+  {
+    "name": "Armébé",
+    "country": "CI",
+    "lat": 5.34693,
+    "lng": -4.33779
+  },
+  {
+    "name": "Arikokro",
+    "country": "CI",
+    "lat": 7.15163,
+    "lng": -4.07106
+  },
+  {
+    "name": "Arikokaha",
+    "country": "CI",
+    "lat": 8.78763,
+    "lng": -5.19306
+  },
+  {
+    "name": "Arobo",
+    "country": "CI",
+    "lat": 6.89341,
+    "lng": -3.85799
+  },
+  {
+    "name": "Arica",
+    "country": "CL",
+    "lat": -18.47552,
+    "lng": -70.30058
+  },
+  {
+    "name": "Arauco",
+    "country": "CL",
+    "lat": -37.2463,
+    "lng": -73.31752
+  },
+  {
+    "name": "Artux",
+    "country": "CN",
+    "lat": 39.70842,
+    "lng": 76.17971
+  },
+  {
+    "name": "Arix",
+    "country": "CN",
+    "lat": 36.75541,
+    "lng": 81.60765
+  },
+  {
+    "name": "Aral",
+    "country": "CN",
+    "lat": 40.54184,
+    "lng": 81.26566
+  },
+  {
+    "name": "Arou",
+    "country": "CN",
+    "lat": 38.06332,
+    "lng": 100.44308
+  },
+  {
+    "name": "Arele",
+    "country": "CN",
+    "lat": 38.38008,
+    "lng": 77.31324
+  },
+  {
+    "name": "Arewusitang",
+    "country": "CN",
+    "lat": 43.79773,
+    "lng": 81.52435
+  },
+  {
+    "name": "Arele",
+    "country": "CN",
+    "lat": 36.81295,
+    "lng": 81.66687
+  },
+  {
+    "name": "Arboleda",
+    "country": "CO",
+    "lat": 1.49766,
+    "lng": -77.13587
+  },
+  {
+    "name": "Arroyohondo",
+    "country": "CO",
+    "lat": 10.2522,
+    "lng": -75.0198
+  },
+  {
+    "name": "Armenia",
+    "country": "CO",
+    "lat": 6.15639,
+    "lng": -75.78722
+  },
+  {
+    "name": "Armenia",
+    "country": "CO",
+    "lat": 4.53656,
+    "lng": -75.67263
+  },
+  {
+    "name": "Arjona",
+    "country": "CO",
+    "lat": 10.25444,
+    "lng": -75.34389
+  },
+  {
+    "name": "Ariguaní",
+    "country": "CO",
+    "lat": 10.25,
+    "lng": -74.0
+  },
+  {
+    "name": "Argelia",
+    "country": "CO",
+    "lat": 5.73127,
+    "lng": -75.14257
+  },
+  {
+    "name": "Argelia",
+    "country": "CO",
+    "lat": 4.72342,
+    "lng": -76.11909
+  },
+  {
+    "name": "Argelia",
+    "country": "CO",
+    "lat": 2.25563,
+    "lng": -77.24876
+  },
+  {
+    "name": "Arenal",
+    "country": "CO",
+    "lat": 8.4589,
+    "lng": -73.94162
+  },
+  {
+    "name": "Arcabuco",
+    "country": "CO",
+    "lat": 5.75463,
+    "lng": -73.43669
+  },
+  {
+    "name": "Arboletes",
+    "country": "CO",
+    "lat": 8.85051,
+    "lng": -76.42694
+  },
+  {
+    "name": "Arboledas",
+    "country": "CO",
+    "lat": 7.64233,
+    "lng": -72.79944
+  },
+  {
+    "name": "Arbeláez",
+    "country": "CO",
+    "lat": 4.27254,
+    "lng": -74.41513
+  },
+  {
+    "name": "Arauquita",
+    "country": "CO",
+    "lat": 7.02917,
+    "lng": -71.42806
+  },
+  {
+    "name": "Arauca",
+    "country": "CO",
+    "lat": 7.08471,
+    "lng": -70.75908
+  },
+  {
+    "name": "Aratoca",
+    "country": "CO",
+    "lat": 6.69432,
+    "lng": -73.01868
+  },
+  {
+    "name": "Aranzazu",
+    "country": "CO",
+    "lat": 5.27123,
+    "lng": -75.49044
+  },
+  {
+    "name": "Aracataca",
+    "country": "CO",
+    "lat": 10.59181,
+    "lng": -74.18983
+  },
+  {
+    "name": "Armero-Guyabal",
+    "country": "CO",
+    "lat": 4.96701,
+    "lng": -74.90294
+  },
+  {
+    "name": "Artemisa",
+    "country": "CU",
+    "lat": 22.81366,
+    "lng": -82.75814
+  },
+  {
+    "name": "Arroyo Naranjo",
+    "country": "CU",
+    "lat": 23.03811,
+    "lng": -82.37703
+  },
+  {
+    "name": "Argáka",
+    "country": "CY",
+    "lat": 35.06586,
+    "lng": 32.49226
+  },
+  {
+    "name": "Aradíppou",
+    "country": "CY",
+    "lat": 34.94779,
+    "lng": 33.58813
+  },
+  {
+    "name": "Aredioú",
+    "country": "CY",
+    "lat": 35.04844,
+    "lng": 33.1961
+  },
+  {
+    "name": "Arzfeld",
+    "country": "DE",
+    "lat": 50.08957,
+    "lng": 6.27069
+  },
+  {
+    "name": "Arzberg",
+    "country": "DE",
+    "lat": 51.52887,
+    "lng": 13.12565
+  },
+  {
+    "name": "Arzberg",
+    "country": "DE",
+    "lat": 50.05774,
+    "lng": 12.18676
+  },
+  {
+    "name": "Arzbach",
+    "country": "DE",
+    "lat": 50.37902,
+    "lng": 7.74948
+  },
+  {
+    "name": "Artlenburg",
+    "country": "DE",
+    "lat": 53.37182,
+    "lng": 10.48793
+  },
+  {
+    "name": "Artern",
+    "country": "DE",
+    "lat": 51.36431,
+    "lng": 11.29167
+  },
+  {
+    "name": "Arrach",
+    "country": "DE",
+    "lat": 49.19149,
+    "lng": 12.99387
+  },
+  {
+    "name": "Arpke",
+    "country": "DE",
+    "lat": 52.38597,
+    "lng": 10.10047
+  },
+  {
+    "name": "Arnstorf",
+    "country": "DE",
+    "lat": 48.5584,
+    "lng": 12.81674
+  },
+  {
+    "name": "Arnstein",
+    "country": "DE",
+    "lat": 49.97767,
+    "lng": 9.96983
+  },
+  {
+    "name": "Arnstadt",
+    "country": "DE",
+    "lat": 50.84048,
+    "lng": 10.95198
+  },
+  {
+    "name": "Arnschwang",
+    "country": "DE",
+    "lat": 49.27663,
+    "lng": 12.81595
+  },
+  {
+    "name": "Arnsberg",
+    "country": "DE",
+    "lat": 51.38333,
+    "lng": 8.08333
+  },
+  {
+    "name": "Arneburg",
+    "country": "DE",
+    "lat": 52.67565,
+    "lng": 12.00514
+  },
+  {
+    "name": "Arnbruck",
+    "country": "DE",
+    "lat": 49.13012,
+    "lng": 12.9982
+  },
+  {
+    "name": "Armsheim",
+    "country": "DE",
+    "lat": 49.80972,
+    "lng": 8.05667
+  },
+  {
+    "name": "Argenthal",
+    "country": "DE",
+    "lat": 49.96667,
+    "lng": 7.6
+  },
+  {
+    "name": "Aresing",
+    "country": "DE",
+    "lat": 48.27704,
+    "lng": 12.60538
+  },
+  {
+    "name": "Arenshausen",
+    "country": "DE",
+    "lat": 51.37613,
+    "lng": 9.9687
+  },
+  {
+    "name": "Arberg",
+    "country": "DE",
+    "lat": 49.14428,
+    "lng": 10.61722
+  },
+  {
+    "name": "Arta",
+    "country": "DJ",
+    "lat": 11.52639,
+    "lng": 42.85194
+  },
+  {
+    "name": "Arden",
+    "country": "DK",
+    "lat": 56.76899,
+    "lng": 9.86184
+  },
+  {
+    "name": "Arroyo Salado",
+    "country": "DO",
+    "lat": 19.5,
+    "lng": -69.9
+  },
+  {
+    "name": "Arenoso",
+    "country": "DO",
+    "lat": 19.18732,
+    "lng": -69.85917
+  },
+  {
+    "name": "Arzew",
+    "country": "DZ",
+    "lat": 35.85048,
+    "lng": -0.318
+  },
+  {
+    "name": "Arris",
+    "country": "DZ",
+    "lat": 35.25881,
+    "lng": 6.34706
+  },
+  {
+    "name": "Arhribs",
+    "country": "DZ",
+    "lat": 36.79361,
+    "lng": 4.31158
+  },
+  {
+    "name": "Arbatache",
+    "country": "DZ",
+    "lat": 36.63773,
+    "lng": 3.37127
+  },
+  {
+    "name": "Arenillas",
+    "country": "EC",
+    "lat": -3.55399,
+    "lng": -80.06682
+  },
+  {
+    "name": "Archidona",
+    "country": "EC",
+    "lat": -0.9095,
+    "lng": -77.80772
+  },
+  {
+    "name": "Arajuno",
+    "country": "EC",
+    "lat": -1.23302,
+    "lng": -77.6875
+  },
+  {
+    "name": "Arcapamba",
+    "country": "EC",
+    "lat": -3.64804,
+    "lng": -79.61741
+  },
+  {
+    "name": "Aruküla",
+    "country": "EE",
+    "lat": 59.36686,
+    "lng": 25.07618
+  },
+  {
+    "name": "Ar Raḩmānīyah",
+    "country": "EG",
+    "lat": 31.10483,
+    "lng": 30.64135
+  },
+  {
+    "name": "Ar Radīsīyah Qiblī",
+    "country": "EG",
+    "lat": 24.90652,
+    "lng": 32.88563
+  },
+  {
+    "name": "Armant",
+    "country": "EG",
+    "lat": 25.61988,
+    "lng": 32.54305
+  },
+  {
+    "name": "Arīsh",
+    "country": "EG",
+    "lat": 31.13159,
+    "lng": 33.79844
+  },
+  {
+    "name": "Ar Riyāḑ",
+    "country": "EG",
+    "lat": 31.24193,
+    "lng": 30.94504
+  },
+  {
+    "name": "Ar-Rawḍah",
+    "country": "EG",
+    "lat": 31.32336,
+    "lng": 31.76122
+  },
+  {
+    "name": "Arucas",
+    "country": "ES",
+    "lat": 28.11983,
+    "lng": -15.52325
+  },
+  {
+    "name": "Artenara",
+    "country": "ES",
+    "lat": 28.02055,
+    "lng": -15.64693
+  },
+  {
+    "name": "Artana",
+    "country": "ES",
+    "lat": 39.89104,
+    "lng": -0.25758
+  },
+  {
+    "name": "Artà",
+    "country": "ES",
+    "lat": 39.69315,
+    "lng": 3.34979
+  },
+  {
+    "name": "Arroyomolinos de León",
+    "country": "ES",
+    "lat": 38.01667,
+    "lng": -6.41667
+  },
+  {
+    "name": "Arroyo de San Serván",
+    "country": "ES",
+    "lat": 38.85443,
+    "lng": -6.45402
+  },
+  {
+    "name": "Arroyo del Ojanco",
+    "country": "ES",
+    "lat": 38.32065,
+    "lng": -2.89486
+  },
+  {
+    "name": "Arroyo de la Miel",
+    "country": "ES",
+    "lat": 36.59917,
+    "lng": -4.53505
+  },
+  {
+    "name": "Arroyo de la Luz",
+    "country": "ES",
+    "lat": 39.48511,
+    "lng": -6.58401
+  },
+  {
+    "name": "Arriate",
+    "country": "ES",
+    "lat": 36.80005,
+    "lng": -5.1408
+  },
+  {
+    "name": "Arrecife",
+    "country": "ES",
+    "lat": 28.96302,
+    "lng": -13.54769
+  },
+  {
+    "name": "Arquillos",
+    "country": "ES",
+    "lat": 38.18148,
+    "lng": -3.42827
+  },
+  {
+    "name": "Arona",
+    "country": "ES",
+    "lat": 28.09962,
+    "lng": -16.68102
+  },
+  {
+    "name": "Aroche",
+    "country": "ES",
+    "lat": 37.94213,
+    "lng": -6.9576
+  },
+  {
+    "name": "Armuña de Almanzora",
+    "country": "ES",
+    "lat": 37.3503,
+    "lng": -2.4115
+  },
+  {
+    "name": "Armilla",
+    "country": "ES",
+    "lat": 37.14386,
+    "lng": -3.62534
+  },
+  {
+    "name": "Arjonilla",
+    "country": "ES",
+    "lat": 37.97422,
+    "lng": -4.10677
+  },
+  {
+    "name": "Arjona",
+    "country": "ES",
+    "lat": 37.93493,
+    "lng": -4.05478
+  },
+  {
+    "name": "Ariany",
+    "country": "ES",
+    "lat": 39.65048,
+    "lng": 3.11055
+  },
+  {
+    "name": "Arguisuelas",
+    "country": "ES",
+    "lat": 39.83333,
+    "lng": -1.81667
+  },
+  {
+    "name": "Argamasilla de Calatrava",
+    "country": "ES",
+    "lat": 38.72985,
+    "lng": -4.07627
+  },
+  {
+    "name": "Argamasilla de Alba",
+    "country": "ES",
+    "lat": 39.12917,
+    "lng": -3.09247
+  },
+  {
+    "name": "Arenas de San Juan",
+    "country": "ES",
+    "lat": 39.21861,
+    "lng": -3.50211
+  },
+  {
+    "name": "Arenas del Rey",
+    "country": "ES",
+    "lat": 36.95799,
+    "lng": -3.89362
+  },
+  {
+    "name": "Arenas",
+    "country": "ES",
+    "lat": 36.81625,
+    "lng": -4.04411
+  },
+  {
+    "name": "Ardales",
+    "country": "ES",
+    "lat": 36.87804,
+    "lng": -4.84694
+  },
+  {
+    "name": "Arcos de las Salinas",
+    "country": "ES",
+    "lat": 39.98333,
+    "lng": -1.03333
+  },
+  {
+    "name": "Arcos de la Frontera",
+    "country": "ES",
+    "lat": 36.75075,
+    "lng": -5.81056
+  },
+  {
+    "name": "Archidona",
+    "country": "ES",
+    "lat": 37.09654,
+    "lng": -4.38869
+  },
+  {
+    "name": "Archena",
+    "country": "ES",
+    "lat": 38.11631,
+    "lng": -1.30043
+  },
+  {
+    "name": "Arboleas",
+    "country": "ES",
+    "lat": 37.35024,
+    "lng": -2.07384
+  },
+  {
+    "name": "Arafo",
+    "country": "ES",
+    "lat": 28.33971,
+    "lng": -16.42244
+  },
+  {
+    "name": "Aracena",
+    "country": "ES",
+    "lat": 37.89396,
+    "lng": -6.56116
+  },
+  {
+    "name": "Areatza",
+    "country": "ES",
+    "lat": 43.11667,
+    "lng": -2.76667
+  },
+  {
+    "name": "Arrasate / Mondragón",
+    "country": "ES",
+    "lat": 43.06441,
+    "lng": -2.48977
+  },
+  {
+    "name": "Arzúa",
+    "country": "ES",
+    "lat": 42.9281,
+    "lng": -8.1641
+  },
+  {
+    "name": "Arzúa",
+    "country": "ES",
+    "lat": 42.93333,
+    "lng": -8.15
+  },
+  {
+    "name": "Artieda",
+    "country": "ES",
+    "lat": 42.58538,
+    "lng": -0.98422
+  },
+  {
+    "name": "Artesa de Segre",
+    "country": "ES",
+    "lat": 41.89467,
+    "lng": 1.04625
+  },
+  {
+    "name": "Artés",
+    "country": "ES",
+    "lat": 41.798,
+    "lng": 1.95428
+  },
+  {
+    "name": "Arteixo",
+    "country": "ES",
+    "lat": 43.30482,
+    "lng": -8.50749
+  },
+  {
+    "name": "Artazu",
+    "country": "ES",
+    "lat": 42.69228,
+    "lng": -1.83954
+  },
+  {
+    "name": "Artajona",
+    "country": "ES",
+    "lat": 42.58867,
+    "lng": -1.76504
+  },
+  {
+    "name": "Arrúbal",
+    "country": "ES",
+    "lat": 42.43485,
+    "lng": -2.25143
+  },
+  {
+    "name": "Arruazu",
+    "country": "ES",
+    "lat": 42.92186,
+    "lng": -2.00157
+  },
+  {
+    "name": "Arroyomolinos de la Vera",
+    "country": "ES",
+    "lat": 40.05277,
+    "lng": -5.85111
+  },
+  {
+    "name": "Arroyomolinos",
+    "country": "ES",
+    "lat": 40.26951,
+    "lng": -3.91946
+  },
+  {
+    "name": "Arroyo de las Fraguas",
+    "country": "ES",
+    "lat": 41.10246,
+    "lng": -3.13005
+  },
+  {
+    "name": "Arroyo de la Encomienda",
+    "country": "ES",
+    "lat": 41.60956,
+    "lng": -4.79692
+  },
+  {
+    "name": "Arróniz",
+    "country": "ES",
+    "lat": 42.58823,
+    "lng": -2.09237
+  },
+  {
+    "name": "Arrigorriaga",
+    "country": "ES",
+    "lat": 43.21006,
+    "lng": -2.88562
+  },
+  {
+    "name": "Arredondo",
+    "country": "ES",
+    "lat": 43.27325,
+    "lng": -3.60031
+  },
+  {
+    "name": "Arraya de Oca",
+    "country": "ES",
+    "lat": 42.41488,
+    "lng": -3.39781
+  },
+  {
+    "name": "Arrancacepas",
+    "country": "ES",
+    "lat": 40.3032,
+    "lng": -2.35899
+  },
+  {
+    "name": "Arrabalde",
+    "country": "ES",
+    "lat": 42.1076,
+    "lng": -5.89441
+  },
+  {
+    "name": "Arquillinos",
+    "country": "ES",
+    "lat": 41.7099,
+    "lng": -5.65708
+  },
+  {
+    "name": "Arnuero",
+    "country": "ES",
+    "lat": 43.47756,
+    "lng": -3.56959
+  },
+  {
+    "name": "Arnedo",
+    "country": "ES",
+    "lat": 42.228,
+    "lng": -2.10083
+  },
+  {
+    "name": "Arnedillo",
+    "country": "ES",
+    "lat": 42.21221,
+    "lng": -2.23602
+  },
+  {
+    "name": "Armuña de Tajuña",
+    "country": "ES",
+    "lat": 40.52884,
+    "lng": -3.02819
+  },
+  {
+    "name": "Armuña",
+    "country": "ES",
+    "lat": 41.07715,
+    "lng": -4.31949
+  },
+  {
+    "name": "Armiñón",
+    "country": "ES",
+    "lat": 42.72313,
+    "lng": -2.87172
+  },
+  {
+    "name": "Armenteros",
+    "country": "ES",
+    "lat": 40.5932,
+    "lng": -5.44806
+  },
+  {
+    "name": "Armañanzas",
+    "country": "ES",
+    "lat": 42.55963,
+    "lng": -2.28476
+  },
+  {
+    "name": "Armallones",
+    "country": "ES",
+    "lat": 40.7358,
+    "lng": -2.30257
+  },
+  {
+    "name": "Arlanzón",
+    "country": "ES",
+    "lat": 42.32267,
+    "lng": -3.45784
+  },
+  {
+    "name": "Ariza",
+    "country": "ES",
+    "lat": 41.31442,
+    "lng": -2.05332
+  },
+  {
+    "name": "Aribe",
+    "country": "ES",
+    "lat": 42.95,
+    "lng": -1.25
+  },
+  {
+    "name": "Ariño",
+    "country": "ES",
+    "lat": 41.03019,
+    "lng": -0.59206
+  },
+  {
+    "name": "Arija",
+    "country": "ES",
+    "lat": 42.9935,
+    "lng": -3.94497
+  },
+  {
+    "name": "Aria",
+    "country": "ES",
+    "lat": 42.95283,
+    "lng": -1.26584
+  },
+  {
+    "name": "Argujillo",
+    "country": "ES",
+    "lat": 41.31156,
+    "lng": -5.58763
+  },
+  {
+    "name": "Arguis",
+    "country": "ES",
+    "lat": 42.31476,
+    "lng": -0.43967
+  },
+  {
+    "name": "Arguedas",
+    "country": "ES",
+    "lat": 42.17759,
+    "lng": -1.59719
+  },
+  {
+    "name": "Argoños",
+    "country": "ES",
+    "lat": 43.4574,
+    "lng": -3.49013
+  },
+  {
+    "name": "Argentona",
+    "country": "ES",
+    "lat": 41.55336,
+    "lng": 2.40114
+  },
+  {
+    "name": "Argente",
+    "country": "ES",
+    "lat": 40.68841,
+    "lng": -1.16217
+  },
+  {
+    "name": "Argelita",
+    "country": "ES",
+    "lat": 40.05,
+    "lng": -0.35
+  },
+  {
+    "name": "Argelaguer",
+    "country": "ES",
+    "lat": 42.21563,
+    "lng": 2.64193
+  },
+  {
+    "name": "Argecilla",
+    "country": "ES",
+    "lat": 40.88151,
+    "lng": -2.82181
+  },
+  {
+    "name": "Argavieso",
+    "country": "ES",
+    "lat": 42.05275,
+    "lng": -0.27834
+  },
+  {
+    "name": "Arganza",
+    "country": "ES",
+    "lat": 42.64077,
+    "lng": -6.68627
+  },
+  {
+    "name": "Argañín",
+    "country": "ES",
+    "lat": 41.43948,
+    "lng": -6.20827
+  },
+  {
+    "name": "Arganda",
+    "country": "ES",
+    "lat": 40.30076,
+    "lng": -3.43722
+  },
+  {
+    "name": "Arévalo de la Sierra",
+    "country": "ES",
+    "lat": 41.94723,
+    "lng": -2.40033
+  },
+  {
+    "name": "Arévalo",
+    "country": "ES",
+    "lat": 41.06255,
+    "lng": -4.72042
+  },
+  {
+    "name": "Arevalillo de Cega",
+    "country": "ES",
+    "lat": 41.16174,
+    "lng": -3.88911
+  },
+  {
+    "name": "Areso",
+    "country": "ES",
+    "lat": 43.08209,
+    "lng": -1.95198
+  },
+  {
+    "name": "Ares del Maestre",
+    "country": "ES",
+    "lat": 40.45675,
+    "lng": -0.13267
+  },
+  {
+    "name": "Ares",
+    "country": "ES",
+    "lat": 43.42995,
+    "lng": -8.24254
+  },
+  {
+    "name": "Arenzana de Arriba",
+    "country": "ES",
+    "lat": 42.38745,
+    "lng": -2.69494
+  },
+  {
+    "name": "Arenzana de Abajo",
+    "country": "ES",
+    "lat": 42.38599,
+    "lng": -2.7194
+  },
+  {
+    "name": "Arenys de Munt",
+    "country": "ES",
+    "lat": 41.61424,
+    "lng": 2.53972
+  },
+  {
+    "name": "Arenys de Mar",
+    "country": "ES",
+    "lat": 41.5819,
+    "lng": 2.54936
+  },
+  {
+    "name": "Arenys de Lledó / Arens de Lledó",
+    "country": "ES",
+    "lat": 40.99244,
+    "lng": 0.27092
+  },
+  {
+    "name": "Arenillas",
+    "country": "ES",
+    "lat": 41.34706,
+    "lng": -2.84618
+  },
+  {
+    "name": "Arenas de San Pedro",
+    "country": "ES",
+    "lat": 40.21041,
+    "lng": -5.08694
+  },
+  {
+    "name": "Arenas de Iguña",
+    "country": "ES",
+    "lat": 43.18293,
+    "lng": -4.04729
+  },
+  {
+    "name": "Arellano",
+    "country": "ES",
+    "lat": 42.60598,
+    "lng": -2.04653
+  },
+  {
+    "name": "Aretxabaleta",
+    "country": "ES",
+    "lat": 43.03414,
+    "lng": -2.50456
+  },
+  {
+    "name": "Ardón",
+    "country": "ES",
+    "lat": 42.43629,
+    "lng": -5.56048
+  },
+  {
+    "name": "Arcos de la Sierra",
+    "country": "ES",
+    "lat": 40.34664,
+    "lng": -2.1131
+  },
+  {
+    "name": "Arcos de la Polvorosa",
+    "country": "ES",
+    "lat": 41.94389,
+    "lng": -5.69731
+  },
+  {
+    "name": "Arcos de Jalón",
+    "country": "ES",
+    "lat": 41.21592,
+    "lng": -2.2747
+  },
+  {
+    "name": "Arcos",
+    "country": "ES",
+    "lat": 42.26664,
+    "lng": -3.75458
+  },
+  {
+    "name": "Arcones",
+    "country": "ES",
+    "lat": 41.11817,
+    "lng": -3.72384
+  },
+  {
+    "name": "Arconada",
+    "country": "ES",
+    "lat": 42.32774,
+    "lng": -4.49617
+  },
+  {
+    "name": "Arcicóllar",
+    "country": "ES",
+    "lat": 40.05517,
+    "lng": -4.11638
+  },
+  {
+    "name": "Arcenillas",
+    "country": "ES",
+    "lat": 41.45641,
+    "lng": -5.68512
+  },
+  {
+    "name": "Arcediano",
+    "country": "ES",
+    "lat": 41.09379,
+    "lng": -5.56055
+  },
+  {
+    "name": "Arbúcies",
+    "country": "ES",
+    "lat": 41.81667,
+    "lng": 2.51667
+  },
+  {
+    "name": "Arbo",
+    "country": "ES",
+    "lat": 42.11667,
+    "lng": -8.31667
+  },
+  {
+    "name": "Arbizu",
+    "country": "ES",
+    "lat": 42.91545,
+    "lng": -2.03917
+  },
+  {
+    "name": "Arbeteta",
+    "country": "ES",
+    "lat": 40.66999,
+    "lng": -2.40236
+  },
+  {
+    "name": "Arbeca",
+    "country": "ES",
+    "lat": 41.54153,
+    "lng": 0.92457
+  },
+  {
+    "name": "Arbancón",
+    "country": "ES",
+    "lat": 40.96434,
+    "lng": -3.11505
+  },
+  {
+    "name": "Araia",
+    "country": "ES",
+    "lat": 42.89345,
+    "lng": -2.31314
+  },
+  {
+    "name": "Aravaca",
+    "country": "ES",
+    "lat": 40.45772,
+    "lng": -3.78282
+  },
+  {
+    "name": "Arauzo de Torre",
+    "country": "ES",
+    "lat": 41.79818,
+    "lng": -3.42314
+  },
+  {
+    "name": "Arauzo de Salce",
+    "country": "ES",
+    "lat": 41.81919,
+    "lng": -3.41191
+  },
+  {
+    "name": "Arauzo de Miel",
+    "country": "ES",
+    "lat": 41.85878,
+    "lng": -3.38773
+  },
+  {
+    "name": "Aras",
+    "country": "ES",
+    "lat": 42.56172,
+    "lng": -2.356
+  },
+  {
+    "name": "Arapiles",
+    "country": "ES",
+    "lat": 40.89366,
+    "lng": -5.64494
+  },
+  {
+    "name": "Aranzueque",
+    "country": "ES",
+    "lat": 40.49094,
+    "lng": -3.07448
+  },
+  {
+    "name": "Arañuel",
+    "country": "ES",
+    "lat": 40.06667,
+    "lng": -0.48333
+  },
+  {
+    "name": "Arano",
+    "country": "ES",
+    "lat": 43.19956,
+    "lng": -1.89569
+  },
+  {
+    "name": "Aranjuez",
+    "country": "ES",
+    "lat": 40.03108,
+    "lng": -3.60246
+  },
+  {
+    "name": "Aranga",
+    "country": "ES",
+    "lat": 43.23469,
+    "lng": -8.01705
+  },
+  {
+    "name": "Arandilla del Arroyo",
+    "country": "ES",
+    "lat": 40.51056,
+    "lng": -2.38355
+  },
+  {
+    "name": "Arandilla",
+    "country": "ES",
+    "lat": 41.73778,
+    "lng": -3.42914
+  },
+  {
+    "name": "Arándiga",
+    "country": "ES",
+    "lat": 41.50872,
+    "lng": -1.50074
+  },
+  {
+    "name": "Aranda de Moncayo",
+    "country": "ES",
+    "lat": 41.57749,
+    "lng": -1.79171
+  },
+  {
+    "name": "Aranda de Duero",
+    "country": "ES",
+    "lat": 41.67041,
+    "lng": -3.6892
+  },
+  {
+    "name": "Arancón",
+    "country": "ES",
+    "lat": 41.80017,
+    "lng": -2.28141
+  },
+  {
+    "name": "Arantza",
+    "country": "ES",
+    "lat": 43.19623,
+    "lng": -1.72494
+  },
+  {
+    "name": "Aranarache",
+    "country": "ES",
+    "lat": 42.77979,
+    "lng": -2.22924
+  },
+  {
+    "name": "Arama",
+    "country": "ES",
+    "lat": 43.06335,
+    "lng": -2.1654
+  },
+  {
+    "name": "Arahuetes",
+    "country": "ES",
+    "lat": 41.13762,
+    "lng": -3.85664
+  },
+  {
+    "name": "Aragüés del Puerto",
+    "country": "ES",
+    "lat": 42.70641,
+    "lng": -0.66999
+  },
+  {
+    "name": "Areny de Noguera / Arén",
+    "country": "ES",
+    "lat": 42.25817,
+    "lng": 0.72141
+  },
+  {
+    "name": "Arganzuela",
+    "country": "ES",
+    "lat": 40.40021,
+    "lng": -3.69618
+  },
+  {
+    "name": "Arapiles",
+    "country": "ES",
+    "lat": 40.4344,
+    "lng": -3.70803
+  },
+  {
+    "name": "Argüelles",
+    "country": "ES",
+    "lat": 40.42821,
+    "lng": -3.71785
+  },
+  {
+    "name": "Arcos",
+    "country": "ES",
+    "lat": 40.42122,
+    "lng": -3.61759
+  },
+  {
+    "name": "Argensola",
+    "country": "ES",
+    "lat": 41.598,
+    "lng": 1.44511
+  },
+  {
+    "name": "Arerti",
+    "country": "ET",
+    "lat": 13.95,
+    "lng": 40.66667
+  },
+  {
+    "name": "Arba Minch",
+    "country": "ET",
+    "lat": 6.03333,
+    "lng": 37.55
+  },
+  {
+    "name": "Ara Ali",
+    "country": "ET",
+    "lat": 5.96667,
+    "lng": 41.03333
+  },
+  {
+    "name": "Arsi Negele",
+    "country": "ET",
+    "lat": 7.3547,
+    "lng": 38.67465
+  },
+  {
+    "name": "Artjärvi",
+    "country": "FI",
+    "lat": 60.74544,
+    "lng": 26.07084
+  },
+  {
+    "name": "Arabianranta",
+    "country": "FI",
+    "lat": 60.20727,
+    "lng": 24.97956
+  },
+  {
+    "name": "Argir",
+    "country": "FO",
+    "lat": 61.99595,
+    "lng": -6.77154
+  },
+  {
+    "name": "Arzon",
+    "country": "FR",
+    "lat": 47.54943,
+    "lng": -2.89588
+  },
+  {
+    "name": "Arzens",
+    "country": "FR",
+    "lat": 43.19947,
+    "lng": 2.20962
+  },
+  {
+    "name": "Arzano",
+    "country": "FR",
+    "lat": 47.90116,
+    "lng": -3.4404
+  },
+  {
+    "name": "Arveyres",
+    "country": "FR",
+    "lat": 44.88399,
+    "lng": -0.284
+  },
+  {
+    "name": "Arvert",
+    "country": "FR",
+    "lat": 45.7406,
+    "lng": -1.12793
+  },
+  {
+    "name": "Arudy",
+    "country": "FR",
+    "lat": 43.1064,
+    "lng": -0.43333
+  },
+  {
+    "name": "Art-sur-Meurthe",
+    "country": "FR",
+    "lat": 48.6575,
+    "lng": 6.26708
+  },
+  {
+    "name": "Artres",
+    "country": "FR",
+    "lat": 50.29482,
+    "lng": 3.54013
+  },
+  {
+    "name": "Artix",
+    "country": "FR",
+    "lat": 43.39667,
+    "lng": -0.57256
+  },
+  {
+    "name": "Artigues-près-Bordeaux",
+    "country": "FR",
+    "lat": 44.85887,
+    "lng": -0.49718
+  },
+  {
+    "name": "Artiguelouve",
+    "country": "FR",
+    "lat": 43.31754,
+    "lng": -0.47557
+  },
+  {
+    "name": "Arthon-en-Retz",
+    "country": "FR",
+    "lat": 47.11655,
+    "lng": -1.9392
+  },
+  {
+    "name": "Arthon",
+    "country": "FR",
+    "lat": 46.69361,
+    "lng": 1.69857
+  },
+  {
+    "name": "Arthez-de-Béarn",
+    "country": "FR",
+    "lat": 43.46455,
+    "lng": -0.61535
+  },
+  {
+    "name": "Arthès",
+    "country": "FR",
+    "lat": 43.95592,
+    "lng": 2.20796
+  },
+  {
+    "name": "Arthaz-Pont-Notre-Dame",
+    "country": "FR",
+    "lat": 46.15941,
+    "lng": 6.26598
+  },
+  {
+    "name": "Artenay",
+    "country": "FR",
+    "lat": 48.08246,
+    "lng": 1.88098
+  },
+  {
+    "name": "Artemare",
+    "country": "FR",
+    "lat": 45.87441,
+    "lng": 5.69366
+  },
+  {
+    "name": "Artas",
+    "country": "FR",
+    "lat": 45.53717,
+    "lng": 5.16352
+  },
+  {
+    "name": "Artannes-sur-Indre",
+    "country": "FR",
+    "lat": 47.27451,
+    "lng": 0.60036
+  },
+  {
+    "name": "Ars-sur-Moselle",
+    "country": "FR",
+    "lat": 49.07791,
+    "lng": 6.0742
+  },
+  {
+    "name": "Ars-sur-Formans",
+    "country": "FR",
+    "lat": 45.99491,
+    "lng": 4.81986
+  },
+  {
+    "name": "Ars-en-Ré",
+    "country": "FR",
+    "lat": 46.20799,
+    "lng": -1.51595
+  },
+  {
+    "name": "Arsac",
+    "country": "FR",
+    "lat": 44.99725,
+    "lng": -0.68892
+  },
+  {
+    "name": "Arrou",
+    "country": "FR",
+    "lat": 48.09768,
+    "lng": 1.12851
+  },
+  {
+    "name": "Arras",
+    "country": "FR",
+    "lat": 50.29301,
+    "lng": 2.78186
+  },
+  {
+    "name": "Arradon",
+    "country": "FR",
+    "lat": 47.62616,
+    "lng": -2.82288
+  },
+  {
+    "name": "Arques-la-Bataille",
+    "country": "FR",
+    "lat": 49.88122,
+    "lng": 1.12875
+  },
+  {
+    "name": "Arques",
+    "country": "FR",
+    "lat": 50.73375,
+    "lng": 2.30237
+  },
+  {
+    "name": "Arpajon-sur-Cère",
+    "country": "FR",
+    "lat": 44.90391,
+    "lng": 2.45664
+  },
+  {
+    "name": "Arpajon",
+    "country": "FR",
+    "lat": 48.58875,
+    "lng": 2.24672
+  },
+  {
+    "name": "Aron",
+    "country": "FR",
+    "lat": 48.29745,
+    "lng": -0.55862
+  },
+  {
+    "name": "Arnouville",
+    "country": "FR",
+    "lat": 48.98333,
+    "lng": 2.41667
+  },
+  {
+    "name": "Arnières-sur-Iton",
+    "country": "FR",
+    "lat": 48.99678,
+    "lng": 1.10384
+  },
+  {
+    "name": "Arnèke",
+    "country": "FR",
+    "lat": 50.83219,
+    "lng": 2.40943
+  },
+  {
+    "name": "Arnay-le-Duc",
+    "country": "FR",
+    "lat": 47.13202,
+    "lng": 4.48595
+  },
+  {
+    "name": "Arnas",
+    "country": "FR",
+    "lat": 46.02361,
+    "lng": 4.7083
+  },
+  {
+    "name": "Arnage",
+    "country": "FR",
+    "lat": 47.92619,
+    "lng": 0.18726
+  },
+  {
+    "name": "Arnac-Pompadour",
+    "country": "FR",
+    "lat": 45.40975,
+    "lng": 1.36993
+  },
+  {
+    "name": "Arnac-la-Poste",
+    "country": "FR",
+    "lat": 46.26609,
+    "lng": 1.37338
+  },
+  {
+    "name": "Armoy",
+    "country": "FR",
+    "lat": 46.35079,
+    "lng": 6.51703
+  },
+  {
+    "name": "Armissan",
+    "country": "FR",
+    "lat": 43.18778,
+    "lng": 3.0966
+  },
+  {
+    "name": "Armentières-en-Brie",
+    "country": "FR",
+    "lat": 48.97775,
+    "lng": 3.02073
+  },
+  {
+    "name": "Armentières",
+    "country": "FR",
+    "lat": 50.68568,
+    "lng": 2.88214
+  },
+  {
+    "name": "Armenonville-les-Gâtineaux",
+    "country": "FR",
+    "lat": 48.54365,
+    "lng": 1.6475
+  },
+  {
+    "name": "Armbouts-Cappel",
+    "country": "FR",
+    "lat": 50.97682,
+    "lng": 2.35352
+  },
+  {
+    "name": "Arleux",
+    "country": "FR",
+    "lat": 50.28037,
+    "lng": 3.10448
+  },
+  {
+    "name": "Arles",
+    "country": "FR",
+    "lat": 42.45654,
+    "lng": 2.63457
+  },
+  {
+    "name": "Arles",
+    "country": "FR",
+    "lat": 43.67681,
+    "lng": 4.63031
+  },
+  {
+    "name": "Arlanc",
+    "country": "FR",
+    "lat": 45.41389,
+    "lng": 3.72528
+  },
+  {
+    "name": "Arinthod",
+    "country": "FR",
+    "lat": 46.39339,
+    "lng": 5.56616
+  },
+  {
+    "name": "Argent-sur-Sauldre",
+    "country": "FR",
+    "lat": 47.55847,
+    "lng": 2.4441
+  },
+  {
+    "name": "Argentré-du-Plessis",
+    "country": "FR",
+    "lat": 48.05697,
+    "lng": -1.14601
+  },
+  {
+    "name": "Argentré",
+    "country": "FR",
+    "lat": 48.08435,
+    "lng": -0.64106
+  },
+  {
+    "name": "Argenton-sur-Creuse",
+    "country": "FR",
+    "lat": 46.58997,
+    "lng": 1.51981
+  },
+  {
+    "name": "Argenton-les-Vallées",
+    "country": "FR",
+    "lat": 46.9852,
+    "lng": -0.44988
+  },
+  {
+    "name": "Argenteuil",
+    "country": "FR",
+    "lat": 48.94788,
+    "lng": 2.24744
+  },
+  {
+    "name": "Argentat",
+    "country": "FR",
+    "lat": 45.09325,
+    "lng": 1.93778
+  },
+  {
+    "name": "Argentan",
+    "country": "FR",
+    "lat": 48.74441,
+    "lng": -0.02023
+  },
+  {
+    "name": "Argences",
+    "country": "FR",
+    "lat": 49.12635,
+    "lng": -0.16644
+  },
+  {
+    "name": "Argeliers",
+    "country": "FR",
+    "lat": 43.3118,
+    "lng": 2.91016
+  },
+  {
+    "name": "Argeles",
+    "country": "FR",
+    "lat": 42.54714,
+    "lng": 3.02253
+  },
+  {
+    "name": "Argelès-Gazost",
+    "country": "FR",
+    "lat": 43.00271,
+    "lng": -0.09914
+  },
+  {
+    "name": "Argancy",
+    "country": "FR",
+    "lat": 49.19543,
+    "lng": 6.20157
+  },
+  {
+    "name": "Arette",
+    "country": "FR",
+    "lat": 43.09529,
+    "lng": -0.71711
+  },
+  {
+    "name": "Arès",
+    "country": "FR",
+    "lat": 44.76576,
+    "lng": -1.13421
+  },
+  {
+    "name": "Arenthon",
+    "country": "FR",
+    "lat": 46.10697,
+    "lng": 6.33316
+  },
+  {
+    "name": "Arenc",
+    "country": "FR",
+    "lat": 43.31583,
+    "lng": 5.36698
+  },
+  {
+    "name": "Ardres",
+    "country": "FR",
+    "lat": 50.85786,
+    "lng": 1.98168
+  },
+  {
+    "name": "Ardin",
+    "country": "FR",
+    "lat": 46.47417,
+    "lng": -0.5577
+  },
+  {
+    "name": "Ardentes",
+    "country": "FR",
+    "lat": 46.74191,
+    "lng": 1.83428
+  },
+  {
+    "name": "Arcueil",
+    "country": "FR",
+    "lat": 48.79993,
+    "lng": 2.33256
+  },
+  {
+    "name": "Arc-sur-Tille",
+    "country": "FR",
+    "lat": 47.34349,
+    "lng": 5.18666
+  },
+  {
+    "name": "Arçonnay",
+    "country": "FR",
+    "lat": 48.39716,
+    "lng": 0.08743
+  },
+  {
+    "name": "Arcis-sur-Aube",
+    "country": "FR",
+    "lat": 48.53387,
+    "lng": 4.14085
+  },
+  {
+    "name": "Archigny",
+    "country": "FR",
+    "lat": 46.67323,
+    "lng": 0.65218
+  },
+  {
+    "name": "Archettes",
+    "country": "FR",
+    "lat": 48.1232,
+    "lng": 6.53723
+  },
+  {
+    "name": "Arches",
+    "country": "FR",
+    "lat": 48.11856,
+    "lng": 6.52806
+  },
+  {
+    "name": "Archamps",
+    "country": "FR",
+    "lat": 46.13195,
+    "lng": 6.12551
+  },
+  {
+    "name": "Arcey",
+    "country": "FR",
+    "lat": 47.52258,
+    "lng": 6.66222
+  },
+  {
+    "name": "Arc-et-Senans",
+    "country": "FR",
+    "lat": 47.03127,
+    "lng": 5.77027
+  },
+  {
+    "name": "Arcangues",
+    "country": "FR",
+    "lat": 43.43684,
+    "lng": -1.52138
+  },
+  {
+    "name": "Arcachon",
+    "country": "FR",
+    "lat": 44.66126,
+    "lng": -1.17255
+  },
+  {
+    "name": "Arc-lès-Gray",
+    "country": "FR",
+    "lat": 47.45701,
+    "lng": 5.58547
+  },
+  {
+    "name": "Arbus",
+    "country": "FR",
+    "lat": 43.33314,
+    "lng": -0.50562
+  },
+  {
+    "name": "Arbouans",
+    "country": "FR",
+    "lat": 47.49944,
+    "lng": 6.79505
+  },
+  {
+    "name": "Arbonne-la-Forêt",
+    "country": "FR",
+    "lat": 48.41405,
+    "lng": 2.56677
+  },
+  {
+    "name": "Arbonne",
+    "country": "FR",
+    "lat": 43.4322,
+    "lng": -1.55149
+  },
+  {
+    "name": "Arbois",
+    "country": "FR",
+    "lat": 46.90311,
+    "lng": 5.77454
+  },
+  {
+    "name": "Arbent",
+    "country": "FR",
+    "lat": 46.29221,
+    "lng": 5.6789
+  },
+  {
+    "name": "Aramon",
+    "country": "FR",
+    "lat": 43.89113,
+    "lng": 4.68058
+  },
+  {
+    "name": "Arâches-la-Frasse",
+    "country": "FR",
+    "lat": 46.04297,
+    "lng": 6.63145
+  },
+  {
+    "name": "Arundel",
+    "country": "GB",
+    "lat": 50.85423,
+    "lng": -0.55393
+  },
+  {
+    "name": "Arnside",
+    "country": "GB",
+    "lat": 54.20179,
+    "lng": -2.83374
+  },
+  {
+    "name": "Arnold",
+    "country": "GB",
+    "lat": 53.0,
+    "lng": -1.13333
+  },
+  {
+    "name": "Arne",
+    "country": "GB",
+    "lat": 50.69272,
+    "lng": -2.0403
+  },
+  {
+    "name": "Armthorpe",
+    "country": "GB",
+    "lat": 53.53518,
+    "lng": -1.05341
+  },
+  {
+    "name": "Armitage",
+    "country": "GB",
+    "lat": 52.74193,
+    "lng": -1.88266
+  },
+  {
+    "name": "Armagh",
+    "country": "GB",
+    "lat": 54.35,
+    "lng": -6.66667
+  },
+  {
+    "name": "Armadale",
+    "country": "GB",
+    "lat": 55.88333,
+    "lng": -3.7
+  },
+  {
+    "name": "Arlesey",
+    "country": "GB",
+    "lat": 52.00713,
+    "lng": -0.26565
+  },
+  {
+    "name": "Ardrossan",
+    "country": "GB",
+    "lat": 55.65018,
+    "lng": -4.80659
+  },
+  {
+    "name": "Ardrishaig",
+    "country": "GB",
+    "lat": 56.01566,
+    "lng": -5.44806
+  },
+  {
+    "name": "Ardingly",
+    "country": "GB",
+    "lat": 51.04865,
+    "lng": -0.07716
+  },
+  {
+    "name": "Ardglass",
+    "country": "GB",
+    "lat": 54.26312,
+    "lng": -5.60981
+  },
+  {
+    "name": "Ardersier",
+    "country": "GB",
+    "lat": 57.56681,
+    "lng": -4.03784
+  },
+  {
+    "name": "Arbroath",
+    "country": "GB",
+    "lat": 56.56317,
+    "lng": -2.58736
+  },
+  {
+    "name": "Archway",
+    "country": "GB",
+    "lat": 51.56733,
+    "lng": -0.13415
+  },
+  {
+    "name": "Artémida",
+    "country": "GR",
+    "lat": 37.96727,
+    "lng": 23.99684
+  },
+  {
+    "name": "Arkoúdi",
+    "country": "GR",
+    "lat": 37.84681,
+    "lng": 21.11022
+  },
+  {
+    "name": "Argyroúpoli",
+    "country": "GR",
+    "lat": 37.90594,
+    "lng": 23.75035
+  },
+  {
+    "name": "Argyropoúli",
+    "country": "GR",
+    "lat": 39.82567,
+    "lng": 22.30689
+  },
+  {
+    "name": "Artesianó",
+    "country": "GR",
+    "lat": 39.40194,
+    "lng": 21.89649
+  },
+  {
+    "name": "Archontochóri",
+    "country": "GR",
+    "lat": 38.70053,
+    "lng": 21.03896
+  },
+  {
+    "name": "Archaía Olympía",
+    "country": "GR",
+    "lat": 37.64788,
+    "lng": 21.6271
+  },
+  {
+    "name": "Arkhaía Kórinthos",
+    "country": "GR",
+    "lat": 37.90953,
+    "lng": 22.88353
+  },
+  {
+    "name": "Arkalochóri",
+    "country": "GR",
+    "lat": 35.14634,
+    "lng": 25.26538
+  },
+  {
+    "name": "Aristoménis",
+    "country": "GR",
+    "lat": 37.08632,
+    "lng": 21.83959
+  },
+  {
+    "name": "Aria",
+    "country": "GR",
+    "lat": 37.57372,
+    "lng": 22.83539
+  },
+  {
+    "name": "Argostólion",
+    "country": "GR",
+    "lat": 38.18109,
+    "lng": 20.48903
+  },
+  {
+    "name": "Argalastí",
+    "country": "GR",
+    "lat": 39.22627,
+    "lng": 23.21868
+  },
+  {
+    "name": "Arfará",
+    "country": "GR",
+    "lat": 37.15619,
+    "lng": 22.04485
+  },
+  {
+    "name": "Aráchova",
+    "country": "GR",
+    "lat": 38.47958,
+    "lng": 22.5835
+  },
+  {
+    "name": "Archángelos",
+    "country": "GR",
+    "lat": 36.21492,
+    "lng": 28.11487
+  },
+  {
+    "name": "Arsénio",
+    "country": "GR",
+    "lat": 40.71412,
+    "lng": 22.15923
+  },
+  {
+    "name": "Arrianá",
+    "country": "GR",
+    "lat": 41.08131,
+    "lng": 25.69494
+  },
+  {
+    "name": "Arnaía",
+    "country": "GR",
+    "lat": 40.48652,
+    "lng": 23.59537
+  },
+  {
+    "name": "Arísvi",
+    "country": "GR",
+    "lat": 41.07,
+    "lng": 25.59041
+  },
+  {
+    "name": "Aridaía",
+    "country": "GR",
+    "lat": 40.97306,
+    "lng": 22.05639
+  },
+  {
+    "name": "Argos Orestiko",
+    "country": "GR",
+    "lat": 40.45354,
+    "lng": 21.25889
+  },
+  {
+    "name": "Aravissós",
+    "country": "GR",
+    "lat": 40.84352,
+    "lng": 22.30178
+  },
+  {
+    "name": "Argithéa",
+    "country": "GR",
+    "lat": 37.97506,
+    "lng": 23.88556
+  },
+  {
+    "name": "Armenta",
+    "country": "HN",
+    "lat": 15.5,
+    "lng": -88.05
+  },
+  {
+    "name": "Armenia",
+    "country": "HN",
+    "lat": 15.46667,
+    "lng": -86.36667
+  },
+  {
+    "name": "Arizona",
+    "country": "HN",
+    "lat": 15.63333,
+    "lng": -87.31667
+  },
+  {
+    "name": "Arimís",
+    "country": "HN",
+    "lat": 14.78333,
+    "lng": -86.0
+  },
+  {
+    "name": "Arenal",
+    "country": "HN",
+    "lat": 15.35,
+    "lng": -86.83333
+  },
+  {
+    "name": "Araulí",
+    "country": "HN",
+    "lat": 13.973,
+    "lng": -86.545
+  },
+  {
+    "name": "Aramecina",
+    "country": "HN",
+    "lat": 13.74222,
+    "lng": -87.71028
+  },
+  {
+    "name": "Arada",
+    "country": "HN",
+    "lat": 14.84582,
+    "lng": -88.30108
+  },
+  {
+    "name": "Arcahaie",
+    "country": "HT",
+    "lat": 19.81667,
+    "lng": -72.91667
+  },
+  {
+    "name": "Arnót",
+    "country": "HU",
+    "lat": 48.13058,
+    "lng": 20.85832
+  },
+  {
+    "name": "Arló",
+    "country": "HU",
+    "lat": 48.18333,
+    "lng": 20.26667
+  },
+  {
+    "name": "Aranyosapáti",
+    "country": "HU",
+    "lat": 48.20595,
+    "lng": 22.25916
+  },
+  {
+    "name": "Arosbaya",
+    "country": "ID",
+    "lat": -6.9442,
+    "lng": 112.839
+  },
+  {
+    "name": "Armopa",
+    "country": "ID",
+    "lat": -2.3409,
+    "lng": 139.6335
+  },
+  {
+    "name": "Arjasa",
+    "country": "ID",
+    "lat": -8.12104,
+    "lng": 113.74689
+  },
+  {
+    "name": "Arjawinangun",
+    "country": "ID",
+    "lat": -6.64528,
+    "lng": 108.41028
+  },
+  {
+    "name": "Arjasa",
+    "country": "ID",
+    "lat": -6.8596,
+    "lng": 115.2852
+  },
+  {
+    "name": "Argamakmur",
+    "country": "ID",
+    "lat": -3.4232,
+    "lng": 102.1891
+  },
+  {
+    "name": "Arso",
+    "country": "ID",
+    "lat": -2.9028,
+    "lng": 140.7657
+  },
+  {
+    "name": "Arjasari",
+    "country": "ID",
+    "lat": -7.3367,
+    "lng": 108.1011
+  },
+  {
+    "name": "Argasari",
+    "country": "ID",
+    "lat": -7.3247,
+    "lng": 108.2057
+  },
+  {
+    "name": "Arbais",
+    "country": "ID",
+    "lat": -1.7393,
+    "lng": 138.4043
+  },
+  {
+    "name": "Arosuka",
+    "country": "ID",
+    "lat": -0.95221,
+    "lng": 100.621
+  },
+  {
+    "name": "Arklow",
+    "country": "IE",
+    "lat": 52.79443,
+    "lng": -6.14958
+  },
+  {
+    "name": "Ardnacrusha",
+    "country": "IE",
+    "lat": 52.70908,
+    "lng": -8.61431
+  },
+  {
+    "name": "Ardee",
+    "country": "IE",
+    "lat": 53.85972,
+    "lng": -6.54056
+  },
+  {
+    "name": "Artane",
+    "country": "IE",
+    "lat": 53.38712,
+    "lng": -6.2138
+  },
+  {
+    "name": "Arad",
+    "country": "IL",
+    "lat": 31.25882,
+    "lng": 35.21282
+  },
+  {
+    "name": "Ariel",
+    "country": "IL",
+    "lat": 32.1065,
+    "lng": 35.18449
+  },
+  {
+    "name": "Arwal",
+    "country": "IN",
+    "lat": 25.24281,
+    "lng": 84.66571
+  },
+  {
+    "name": "Aruppukkottai",
+    "country": "IN",
+    "lat": 9.5096,
+    "lng": 78.09588
+  },
+  {
+    "name": "Arumuganeri",
+    "country": "IN",
+    "lat": 8.5688,
+    "lng": 78.09091
+  },
+  {
+    "name": "Arumbāvūr",
+    "country": "IN",
+    "lat": 11.38096,
+    "lng": 78.72965
+  },
+  {
+    "name": "Arukutti",
+    "country": "IN",
+    "lat": 9.86667,
+    "lng": 76.35
+  },
+  {
+    "name": "Arsikere",
+    "country": "IN",
+    "lat": 13.31446,
+    "lng": 76.25704
+  },
+  {
+    "name": "Arki",
+    "country": "IN",
+    "lat": 31.15196,
+    "lng": 76.96675
+  },
+  {
+    "name": "Arkalgūd",
+    "country": "IN",
+    "lat": 12.76171,
+    "lng": 76.06035
+  },
+  {
+    "name": "Arjunda",
+    "country": "IN",
+    "lat": 20.94605,
+    "lng": 81.202
+  },
+  {
+    "name": "Ariyalūr",
+    "country": "IN",
+    "lat": 11.13849,
+    "lng": 79.07556
+  },
+  {
+    "name": "Arimalam",
+    "country": "IN",
+    "lat": 10.25498,
+    "lng": 78.88403
+  },
+  {
+    "name": "Arcot",
+    "country": "IN",
+    "lat": 12.90569,
+    "lng": 79.31897
+  },
+  {
+    "name": "Aruvankad",
+    "country": "IN",
+    "lat": 11.36315,
+    "lng": 76.7579
+  },
+  {
+    "name": "Aravakkurichchi",
+    "country": "IN",
+    "lat": 10.77598,
+    "lng": 77.90869
+  },
+  {
+    "name": "Arāria",
+    "country": "IN",
+    "lat": 26.14934,
+    "lng": 87.51323
+  },
+  {
+    "name": "Arantāngi",
+    "country": "IN",
+    "lat": 10.17235,
+    "lng": 78.99118
+  },
+  {
+    "name": "Arni",
+    "country": "IN",
+    "lat": 12.66771,
+    "lng": 79.28529
+  },
+  {
+    "name": "Arang",
+    "country": "IN",
+    "lat": 21.19639,
+    "lng": 81.96912
+  },
+  {
+    "name": "Aramboli",
+    "country": "IN",
+    "lat": 8.24962,
+    "lng": 77.52161
+  },
+  {
+    "name": "Arambol",
+    "country": "IN",
+    "lat": 15.68681,
+    "lng": 73.70449
+  },
+  {
+    "name": "Arāmbāgh",
+    "country": "IN",
+    "lat": 22.88333,
+    "lng": 87.78333
+  },
+  {
+    "name": "Arakkonam",
+    "country": "IN",
+    "lat": 13.08449,
+    "lng": 79.67053
+  },
+  {
+    "name": "Arrah",
+    "country": "IN",
+    "lat": 25.55629,
+    "lng": 84.66335
+  },
+  {
+    "name": "Artist Village",
+    "country": "IN",
+    "lat": 19.03227,
+    "lng": 73.04276
+  },
+  {
+    "name": "Arumanai",
+    "country": "IN",
+    "lat": 8.36696,
+    "lng": 77.24333
+  },
+  {
+    "name": "Areraj",
+    "country": "IN",
+    "lat": 26.5503,
+    "lng": 84.6801
+  },
+  {
+    "name": "Aroor",
+    "country": "IN",
+    "lat": 9.8694,
+    "lng": 76.30498
+  },
+  {
+    "name": "Arkula",
+    "country": "IN",
+    "lat": 12.8743,
+    "lng": 74.94345
+  },
+  {
+    "name": "Arshakunti",
+    "country": "IN",
+    "lat": 13.07849,
+    "lng": 77.42247
+  },
+  {
+    "name": "Arasūr",
+    "country": "IN",
+    "lat": 11.08663,
+    "lng": 77.1146
+  },
+  {
+    "name": "Arachchalūr",
+    "country": "IN",
+    "lat": 11.1627,
+    "lng": 77.70072
+  },
+  {
+    "name": "Arsande",
+    "country": "IN",
+    "lat": 23.42965,
+    "lng": 85.35143
+  },
+  {
+    "name": "Arā",
+    "country": "IN",
+    "lat": 23.76041,
+    "lng": 85.5415
+  },
+  {
+    "name": "Arumbanūr",
+    "country": "IN",
+    "lat": 9.99437,
+    "lng": 78.19245
+  },
+  {
+    "name": "Arakandanallūr",
+    "country": "IN",
+    "lat": 11.97202,
+    "lng": 79.22276
+  },
+  {
+    "name": "Ariyānkuppam",
+    "country": "IN",
+    "lat": 11.89532,
+    "lng": 79.80709
+  },
+  {
+    "name": "Arjyapalli Marine",
+    "country": "IN",
+    "lat": 19.3167,
+    "lng": 84.97373
+  },
+  {
+    "name": "Arempudi",
+    "country": "IN",
+    "lat": 17.26963,
+    "lng": 82.37514
+  },
+  {
+    "name": "Arsodiya",
+    "country": "IN",
+    "lat": 23.24898,
+    "lng": 72.52122
+  },
+  {
+    "name": "Arwani",
+    "country": "IN",
+    "lat": 33.78226,
+    "lng": 75.06739
+  },
+  {
+    "name": "Aralgoria",
+    "country": "IN",
+    "lat": 23.75194,
+    "lng": 86.36428
+  },
+  {
+    "name": "Ariyallur",
+    "country": "IN",
+    "lat": 11.08328,
+    "lng": 75.84904
+  },
+  {
+    "name": "Ariyur",
+    "country": "IN",
+    "lat": 12.87558,
+    "lng": 79.10339
+  },
+  {
+    "name": "Ar Ruţbah",
+    "country": "IQ",
+    "lat": 33.03718,
+    "lng": 40.28586
+  },
+  {
+    "name": "Ar Rumaythah",
+    "country": "IQ",
+    "lat": 31.52845,
+    "lng": 45.20377
+  },
+  {
+    "name": "Ar Riyāḑ",
+    "country": "IQ",
+    "lat": 35.26964,
+    "lng": 43.91067
+  },
+  {
+    "name": "Ar Rifā‘ī",
+    "country": "IQ",
+    "lat": 31.72079,
+    "lng": 46.10778
+  },
+  {
+    "name": "Arakvāz-e Malekshāhī",
+    "country": "IR",
+    "lat": 33.3828,
+    "lng": 46.5983
+  },
+  {
+    "name": "Arsanjān",
+    "country": "IR",
+    "lat": 29.9124,
+    "lng": 53.3085
+  },
+  {
+    "name": "Ardestān",
+    "country": "IR",
+    "lat": 33.37939,
+    "lng": 52.36981
+  },
+  {
+    "name": "Ardāq",
+    "country": "IR",
+    "lat": 36.05273,
+    "lng": 49.82412
+  },
+  {
+    "name": "Ardal",
+    "country": "IR",
+    "lat": 31.99969,
+    "lng": 50.66231
+  },
+  {
+    "name": "Ardakān",
+    "country": "IR",
+    "lat": 32.31001,
+    "lng": 54.01747
+  },
+  {
+    "name": "Ardabīl",
+    "country": "IR",
+    "lat": 38.2498,
+    "lng": 48.2933
+  },
+  {
+    "name": "Arāk",
+    "country": "IR",
+    "lat": 34.09493,
+    "lng": 49.69809
+  },
+  {
+    "name": "Arvand Kenār",
+    "country": "IR",
+    "lat": 29.97775,
+    "lng": 48.51777
+  },
+  {
+    "name": "Arzana",
+    "country": "IT",
+    "lat": 39.91742,
+    "lng": 9.52766
+  },
+  {
+    "name": "Armungia",
+    "country": "IT",
+    "lat": 39.52154,
+    "lng": 9.38066
+  },
+  {
+    "name": "Aritzo",
+    "country": "IT",
+    "lat": 39.95903,
+    "lng": 9.19265
+  },
+  {
+    "name": "Argusto",
+    "country": "IT",
+    "lat": 38.68051,
+    "lng": 16.43627
+  },
+  {
+    "name": "Arena",
+    "country": "IT",
+    "lat": 38.56235,
+    "lng": 16.2106
+  },
+  {
+    "name": "Ardore Marina",
+    "country": "IT",
+    "lat": 38.16667,
+    "lng": 16.2
+  },
+  {
+    "name": "Ardore",
+    "country": "IT",
+    "lat": 38.19173,
+    "lng": 16.16734
+  },
+  {
+    "name": "Arbus",
+    "country": "IT",
+    "lat": 39.52616,
+    "lng": 8.5997
+  },
+  {
+    "name": "Arborea",
+    "country": "IT",
+    "lat": 39.77276,
+    "lng": 8.58129
+  },
+  {
+    "name": "Arbatax",
+    "country": "IT",
+    "lat": 39.93444,
+    "lng": 9.70556
+  },
+  {
+    "name": "Aragona",
+    "country": "IT",
+    "lat": 37.39904,
+    "lng": 13.61974
+  },
+  {
+    "name": "Arzignano",
+    "country": "IT",
+    "lat": 45.52027,
+    "lng": 11.33446
+  },
+  {
+    "name": "Arzergrande",
+    "country": "IT",
+    "lat": 45.27278,
+    "lng": 12.0484
+  },
+  {
+    "name": "Arzene",
+    "country": "IT",
+    "lat": 45.99965,
+    "lng": 12.85034
+  },
+  {
+    "name": "Arzano",
+    "country": "IT",
+    "lat": 40.90959,
+    "lng": 14.26519
+  },
+  {
+    "name": "Arzachena",
+    "country": "IT",
+    "lat": 41.0762,
+    "lng": 9.39055
+  },
+  {
+    "name": "Arvier",
+    "country": "IT",
+    "lat": 45.70205,
+    "lng": 7.16267
+  },
+  {
+    "name": "Artogne",
+    "country": "IT",
+    "lat": 45.85437,
+    "lng": 10.16646
+  },
+  {
+    "name": "Artena",
+    "country": "IT",
+    "lat": 41.74126,
+    "lng": 12.90667
+  },
+  {
+    "name": "Artegna",
+    "country": "IT",
+    "lat": 46.23929,
+    "lng": 13.15399
+  },
+  {
+    "name": "Arta Terme",
+    "country": "IT",
+    "lat": 46.48021,
+    "lng": 13.0204
+  },
+  {
+    "name": "Arsoli",
+    "country": "IT",
+    "lat": 42.04158,
+    "lng": 13.01606
+  },
+  {
+    "name": "Arsita",
+    "country": "IT",
+    "lat": 42.50266,
+    "lng": 13.78516
+  },
+  {
+    "name": "Arsiero",
+    "country": "IT",
+    "lat": 45.80422,
+    "lng": 11.35582
+  },
+  {
+    "name": "Arsiè",
+    "country": "IT",
+    "lat": 45.98211,
+    "lng": 11.75794
+  },
+  {
+    "name": "Arsago Seprio",
+    "country": "IT",
+    "lat": 45.68764,
+    "lng": 8.73509
+  },
+  {
+    "name": "Arrone",
+    "country": "IT",
+    "lat": 42.58266,
+    "lng": 12.76714
+  },
+  {
+    "name": "Arre",
+    "country": "IT",
+    "lat": 45.21748,
+    "lng": 11.92858
+  },
+  {
+    "name": "Arquata Scrivia",
+    "country": "IT",
+    "lat": 44.6883,
+    "lng": 8.88682
+  },
+  {
+    "name": "Arquata del Tronto",
+    "country": "IT",
+    "lat": 42.7717,
+    "lng": 13.29389
+  },
+  {
+    "name": "Arquà Petrarca",
+    "country": "IT",
+    "lat": 45.26911,
+    "lng": 11.72045
+  },
+  {
+    "name": "Arpino",
+    "country": "IT",
+    "lat": 41.64705,
+    "lng": 13.61155
+  },
+  {
+    "name": "Arpaise",
+    "country": "IT",
+    "lat": 41.02977,
+    "lng": 14.74387
+  },
+  {
+    "name": "Arpaia",
+    "country": "IT",
+    "lat": 41.03678,
+    "lng": 14.55175
+  },
+  {
+    "name": "Arosio",
+    "country": "IT",
+    "lat": 45.71933,
+    "lng": 9.20816
+  },
+  {
+    "name": "Arona",
+    "country": "IT",
+    "lat": 45.7589,
+    "lng": 8.55715
+  },
+  {
+    "name": "Arola",
+    "country": "IT",
+    "lat": 45.80867,
+    "lng": 8.35808
+  },
+  {
+    "name": "Arola-Preazzano",
+    "country": "IT",
+    "lat": 40.63333,
+    "lng": 14.43333
+  },
+  {
+    "name": "Arnesano",
+    "country": "IT",
+    "lat": 40.33679,
+    "lng": 18.09145
+  },
+  {
+    "name": "Arnara",
+    "country": "IT",
+    "lat": 41.58452,
+    "lng": 13.3884
+  },
+  {
+    "name": "Armento",
+    "country": "IT",
+    "lat": 40.3066,
+    "lng": 16.0655
+  },
+  {
+    "name": "Armeno",
+    "country": "IT",
+    "lat": 45.82078,
+    "lng": 8.44557
+  },
+  {
+    "name": "Arluno",
+    "country": "IT",
+    "lat": 45.50344,
+    "lng": 8.94222
+  },
+  {
+    "name": "Arlena di Castro",
+    "country": "IT",
+    "lat": 42.46559,
+    "lng": 11.8209
+  },
+  {
+    "name": "Arignano",
+    "country": "IT",
+    "lat": 45.03966,
+    "lng": 7.90189
+  },
+  {
+    "name": "Arienzo",
+    "country": "IT",
+    "lat": 41.02734,
+    "lng": 14.4977
+  },
+  {
+    "name": "Arielli",
+    "country": "IT",
+    "lat": 42.26003,
+    "lng": 14.31004
+  },
+  {
+    "name": "Ariccia",
+    "country": "IT",
+    "lat": 41.72063,
+    "lng": 12.6723
+  },
+  {
+    "name": "Ariano",
+    "country": "IT",
+    "lat": 44.94604,
+    "lng": 12.12448
+  },
+  {
+    "name": "Ariano Irpino-Martiri",
+    "country": "IT",
+    "lat": 41.16024,
+    "lng": 15.10625
+  },
+  {
+    "name": "Ari",
+    "country": "IT",
+    "lat": 42.28967,
+    "lng": 14.25856
+  },
+  {
+    "name": "Argenta",
+    "country": "IT",
+    "lat": 44.61397,
+    "lng": 11.83547
+  },
+  {
+    "name": "Argelato",
+    "country": "IT",
+    "lat": 44.64009,
+    "lng": 11.34359
+  },
+  {
+    "name": "Argegno",
+    "country": "IT",
+    "lat": 45.94218,
+    "lng": 9.12635
+  },
+  {
+    "name": "Arezzo",
+    "country": "IT",
+    "lat": 43.46276,
+    "lng": 11.88068
+  },
+  {
+    "name": "Arese",
+    "country": "IT",
+    "lat": 45.55048,
+    "lng": 9.07741
+  },
+  {
+    "name": "Arenzano",
+    "country": "IT",
+    "lat": 44.40521,
+    "lng": 8.68315
+  },
+  {
+    "name": "Arena Po",
+    "country": "IT",
+    "lat": 45.09427,
+    "lng": 9.36312
+  },
+  {
+    "name": "Ardesio",
+    "country": "IT",
+    "lat": 45.93613,
+    "lng": 9.9295
+  },
+  {
+    "name": "Ardenno",
+    "country": "IT",
+    "lat": 46.16714,
+    "lng": 9.64729
+  },
+  {
+    "name": "Ardea",
+    "country": "IT",
+    "lat": 41.60742,
+    "lng": 12.54158
+  },
+  {
+    "name": "Ardauli",
+    "country": "IT",
+    "lat": 40.08436,
+    "lng": 8.91228
+  },
+  {
+    "name": "Ardara",
+    "country": "IT",
+    "lat": 40.6214,
+    "lng": 8.80987
+  },
+  {
+    "name": "Arcugnano-Torri",
+    "country": "IT",
+    "lat": 45.49579,
+    "lng": 11.5477
+  },
+  {
+    "name": "Arcore",
+    "country": "IT",
+    "lat": 45.62675,
+    "lng": 9.32454
+  },
+  {
+    "name": "Arconate",
+    "country": "IT",
+    "lat": 45.54134,
+    "lng": 8.84891
+  },
+  {
+    "name": "Arcole",
+    "country": "IT",
+    "lat": 45.36125,
+    "lng": 11.2875
+  },
+  {
+    "name": "Arcola",
+    "country": "IT",
+    "lat": 44.11778,
+    "lng": 9.91175
+  },
+  {
+    "name": "Arco",
+    "country": "IT",
+    "lat": 45.91772,
+    "lng": 10.88672
+  },
+  {
+    "name": "Arcidosso",
+    "country": "IT",
+    "lat": 42.87162,
+    "lng": 11.53599
+  },
+  {
+    "name": "Archi",
+    "country": "IT",
+    "lat": 42.09135,
+    "lng": 14.3827
+  },
+  {
+    "name": "Arcevia",
+    "country": "IT",
+    "lat": 43.50177,
+    "lng": 12.945
+  },
+  {
+    "name": "Arceto",
+    "country": "IT",
+    "lat": 44.61762,
+    "lng": 10.72461
+  },
+  {
+    "name": "Arcene",
+    "country": "IT",
+    "lat": 45.57717,
+    "lng": 9.61461
+  },
+  {
+    "name": "Arce",
+    "country": "IT",
+    "lat": 41.57787,
+    "lng": 13.58571
+  },
+  {
+    "name": "Arcade",
+    "country": "IT",
+    "lat": 45.78428,
+    "lng": 12.21972
+  },
+  {
+    "name": "Arborio",
+    "country": "IT",
+    "lat": 45.49586,
+    "lng": 8.38755
+  },
+  {
+    "name": "Arba",
+    "country": "IT",
+    "lat": 46.14611,
+    "lng": 12.79009
+  },
+  {
+    "name": "Aradeo",
+    "country": "IT",
+    "lat": 40.12921,
+    "lng": 18.12951
+  },
+  {
+    "name": "Arcisate",
+    "country": "IT",
+    "lat": 45.85578,
+    "lng": 8.86823
+  },
+  {
+    "name": "Arnasco",
+    "country": "IT",
+    "lat": 44.07823,
+    "lng": 8.10745
+  },
+  {
+    "name": "Arnad",
+    "country": "IT",
+    "lat": 45.64726,
+    "lng": 7.71701
+  },
+  {
+    "name": "Arquà Polesine",
+    "country": "IT",
+    "lat": 45.01008,
+    "lng": 11.73981
+  },
+  {
+    "name": "Arcinazzo Romano",
+    "country": "IT",
+    "lat": 41.87972,
+    "lng": 13.11439
+  },
+  {
+    "name": "Armo",
+    "country": "IT",
+    "lat": 44.08773,
+    "lng": 7.91545
+  },
+  {
+    "name": "Arzago d'Adda",
+    "country": "IT",
+    "lat": 45.48137,
+    "lng": 9.56415
+  },
+  {
+    "name": "Arizzano",
+    "country": "IT",
+    "lat": 45.95738,
+    "lng": 8.58292
+  },
+  {
+    "name": "Aramengo",
+    "country": "IT",
+    "lat": 45.10085,
+    "lng": 8.00003
+  },
+  {
+    "name": "Arguello",
+    "country": "IT",
+    "lat": 44.58274,
+    "lng": 8.11084
+  },
+  {
+    "name": "Ara Nova",
+    "country": "IT",
+    "lat": 41.933,
+    "lng": 12.2398
+  },
+  {
+    "name": "Arbizzano-Santa Maria",
+    "country": "IT",
+    "lat": 45.49489,
+    "lng": 10.93831
+  },
+  {
+    "name": "Arcavacata",
+    "country": "IT",
+    "lat": 39.35846,
+    "lng": 16.20844
+  },
+  {
+    "name": "Arpino",
+    "country": "IT",
+    "lat": 40.88882,
+    "lng": 14.32015
+  },
+  {
+    "name": "Area Produttiva",
+    "country": "IT",
+    "lat": 41.68211,
+    "lng": 12.50697
+  },
+  {
+    "name": "Arino",
+    "country": "IT",
+    "lat": 45.43854,
+    "lng": 12.05443
+  },
+  {
+    "name": "Ariano",
+    "country": "IT",
+    "lat": 40.65668,
+    "lng": 15.02481
+  },
+  {
+    "name": "Arlate",
+    "country": "IT",
+    "lat": 45.72363,
+    "lng": 9.44242
+  },
+  {
+    "name": "Armetta",
+    "country": "IT",
+    "lat": 41.8128,
+    "lng": 12.68782
+  },
+  {
+    "name": "Argine",
+    "country": "IT",
+    "lat": 44.77494,
+    "lng": 10.63432
+  },
+  {
+    "name": "Ardole San Marino",
+    "country": "IT",
+    "lat": 45.15633,
+    "lng": 10.10546
+  },
+  {
+    "name": "Arci-Empolitana",
+    "country": "IT",
+    "lat": 41.94766,
+    "lng": 12.82502
+  },
+  {
+    "name": "Arlesega",
+    "country": "IT",
+    "lat": 45.46126,
+    "lng": 11.71942
+  },
+  {
+    "name": "Ariola",
+    "country": "IT",
+    "lat": 40.62795,
+    "lng": 15.43453
+  },
+  {
+    "name": "Arbia",
+    "country": "IT",
+    "lat": 43.29342,
+    "lng": 11.40978
+  },
+  {
+    "name": "Arenella",
+    "country": "IT",
+    "lat": 40.85734,
+    "lng": 14.2228
+  },
+  {
+    "name": "Arcella",
+    "country": "IT",
+    "lat": 45.42178,
+    "lng": 11.88755
+  },
+  {
+    "name": "Ar Ruwayshid",
+    "country": "JO",
+    "lat": 32.50152,
+    "lng": 38.20405
+  },
+  {
+    "name": "Ar Ruşayfah",
+    "country": "JO",
+    "lat": 32.01727,
+    "lng": 36.03271
+  },
+  {
+    "name": "Ar Ramthā",
+    "country": "JO",
+    "lat": 32.55873,
+    "lng": 36.00816
+  },
+  {
+    "name": "Ar Rabbah",
+    "country": "JO",
+    "lat": 31.26923,
+    "lng": 35.73829
+  },
+  {
+    "name": "Ar Rīshah",
+    "country": "JO",
+    "lat": 30.22435,
+    "lng": 35.21671
+  },
+  {
+    "name": "Arita",
+    "country": "JP",
+    "lat": 33.18333,
+    "lng": 129.9
+  },
+  {
+    "name": "Arai",
+    "country": "JP",
+    "lat": 37.00059,
+    "lng": 138.2259
+  },
+  {
+    "name": "Arai",
+    "country": "JP",
+    "lat": 34.68333,
+    "lng": 137.56667
+  },
+  {
+    "name": "Aratokō",
+    "country": "JP",
+    "lat": 38.18444,
+    "lng": 140.09306
+  },
+  {
+    "name": "Arashiyama",
+    "country": "JP",
+    "lat": 35.01481,
+    "lng": 135.67755
+  },
+  {
+    "name": "Arakawa",
+    "country": "JP",
+    "lat": 35.73825,
+    "lng": 139.78047
+  },
+  {
+    "name": "Arao",
+    "country": "JP",
+    "lat": 32.97888,
+    "lng": 130.44572
+  },
+  {
+    "name": "Arida",
+    "country": "JP",
+    "lat": 34.08089,
+    "lng": 135.11905
+  },
+  {
+    "name": "Archers Post",
+    "country": "KE",
+    "lat": 0.63967,
+    "lng": 37.66596
+  },
+  {
+    "name": "Aravan",
+    "country": "KG",
+    "lat": 40.51608,
+    "lng": 72.4996
+  },
+  {
+    "name": "Areaks Tnaot",
+    "country": "KH",
+    "lat": 12.36698,
+    "lng": 105.63799
+  },
+  {
+    "name": "Ar Rumaythīyah",
+    "country": "KW",
+    "lat": 29.31167,
+    "lng": 48.07417
+  },
+  {
+    "name": "Ar Riqqah",
+    "country": "KW",
+    "lat": 29.14583,
+    "lng": 48.09472
+  },
+  {
+    "name": "Ar Rābiyah",
+    "country": "KW",
+    "lat": 29.295,
+    "lng": 47.93306
+  },
+  {
+    "name": "Arshaly",
+    "country": "KZ",
+    "lat": 50.83112,
+    "lng": 72.17995
+  },
+  {
+    "name": "Arys",
+    "country": "KZ",
+    "lat": 42.43015,
+    "lng": 68.8087
+  },
+  {
+    "name": "Arykbalyk",
+    "country": "KZ",
+    "lat": 52.95625,
+    "lng": 68.20185
+  },
+  {
+    "name": "Arkalyk",
+    "country": "KZ",
+    "lat": 50.25031,
+    "lng": 66.90384
+  },
+  {
+    "name": "Aral",
+    "country": "KZ",
+    "lat": 46.80174,
+    "lng": 61.66312
+  },
+  {
+    "name": "Ariogala",
+    "country": "LT",
+    "lat": 55.262,
+    "lng": 23.477
+  },
+  {
+    "name": "Ar Rujbān",
+    "country": "LY",
+    "lat": 31.95,
+    "lng": 12.16667
+  },
+  {
+    "name": "Ar Rayāyinah",
+    "country": "LY",
+    "lat": 32.02684,
+    "lng": 12.35643
+  },
+  {
+    "name": "Ar-Raḥaībāt",
+    "country": "LY",
+    "lat": 31.84637,
+    "lng": 11.8436
+  },
+  {
+    "name": "Arfoud",
+    "country": "MA",
+    "lat": 31.4353,
+    "lng": -4.23258
+  },
+  {
+    "name": "Arbaa Laaounate",
+    "country": "MA",
+    "lat": 32.7434,
+    "lng": -8.19501
+  },
+  {
+    "name": "Ar Rommani",
+    "country": "MA",
+    "lat": 33.52838,
+    "lng": -6.60348
+  },
+  {
+    "name": "Argana",
+    "country": "MA",
+    "lat": 30.7825,
+    "lng": -9.11968
+  },
+  {
+    "name": "Arbaoua",
+    "country": "MA",
+    "lat": 34.90239,
+    "lng": -5.94871
+  },
+  {
+    "name": "Arazane",
+    "country": "MA",
+    "lat": 30.50346,
+    "lng": -8.60637
+  },
+  {
+    "name": "Arivonimamo",
+    "country": "MG",
+    "lat": -19.01667,
+    "lng": 47.18333
+  },
+  {
+    "name": "Arno",
+    "country": "MH",
+    "lat": 7.06691,
+    "lng": 171.55413
+  },
+  {
+    "name": "Araouane",
+    "country": "ML",
+    "lat": 18.90476,
+    "lng": -3.52649
+  },
+  {
+    "name": "Arvayheer",
+    "country": "MN",
+    "lat": 46.26389,
+    "lng": 102.775
+  },
+  {
+    "name": "Arhust",
+    "country": "MN",
+    "lat": 47.79425,
+    "lng": 107.88334
+  },
+  {
+    "name": "Arguut",
+    "country": "MN",
+    "lat": 45.46278,
+    "lng": 102.42056
+  },
+  {
+    "name": "Argatay",
+    "country": "MN",
+    "lat": 45.76667,
+    "lng": 107.98333
+  },
+  {
+    "name": "Argalant",
+    "country": "MN",
+    "lat": 47.94211,
+    "lng": 105.89584
+  },
+  {
+    "name": "Ar-Asgat",
+    "country": "MN",
+    "lat": 48.26222,
+    "lng": 105.41194
+  },
+  {
+    "name": "Arafat",
+    "country": "MR",
+    "lat": 18.04639,
+    "lng": -15.97194
+  },
+  {
+    "name": "Arsenal",
+    "country": "MU",
+    "lat": -20.10556,
+    "lng": 57.53528
+  },
+  {
+    "name": "Arroyo Seco",
+    "country": "MX",
+    "lat": 21.54793,
+    "lng": -99.68888
+  },
+  {
+    "name": "Arroyo Hondo",
+    "country": "MX",
+    "lat": 20.02317,
+    "lng": -96.87372
+  },
+  {
+    "name": "Arroyo del Potrero",
+    "country": "MX",
+    "lat": 20.14554,
+    "lng": -97.0652
+  },
+  {
+    "name": "Arenal Santa Ana",
+    "country": "MX",
+    "lat": 17.78951,
+    "lng": -95.7697
+  },
+  {
+    "name": "Arcelia de Rodríguez",
+    "country": "MX",
+    "lat": 16.73668,
+    "lng": -98.64486
+  },
+  {
+    "name": "Arbolillo",
+    "country": "MX",
+    "lat": 18.81631,
+    "lng": -95.83601
+  },
+  {
+    "name": "Aramberri",
+    "country": "MX",
+    "lat": 24.09984,
+    "lng": -99.81729
+  },
+  {
+    "name": "Arroyo Limón",
+    "country": "MX",
+    "lat": 17.90008,
+    "lng": -95.96175
+  },
+  {
+    "name": "Arroyo de Banco",
+    "country": "MX",
+    "lat": 17.80312,
+    "lng": -96.34794
+  },
+  {
+    "name": "Arroyo Hondo Abejonal",
+    "country": "MX",
+    "lat": 17.97727,
+    "lng": -93.41037
+  },
+  {
+    "name": "Arena de Hidalgo",
+    "country": "MX",
+    "lat": 17.4573,
+    "lng": -91.58779
+  },
+  {
+    "name": "Arroyo Granizo",
+    "country": "MX",
+    "lat": 17.03716,
+    "lng": -91.42563
+  },
+  {
+    "name": "Arroyo Grande",
+    "country": "MX",
+    "lat": 17.19122,
+    "lng": -92.87207
+  },
+  {
+    "name": "Arriaga",
+    "country": "MX",
+    "lat": 16.23557,
+    "lng": -93.89972
+  },
+  {
+    "name": "Arturo Martínez Adame",
+    "country": "MX",
+    "lat": 25.83157,
+    "lng": -103.38539
+  },
+  {
+    "name": "Arteaga",
+    "country": "MX",
+    "lat": 25.44528,
+    "lng": -100.84667
+  },
+  {
+    "name": "Arteaga",
+    "country": "MX",
+    "lat": 18.35779,
+    "lng": -102.29122
+  },
+  {
+    "name": "Arroyos",
+    "country": "MX",
+    "lat": 22.05455,
+    "lng": -100.9052
+  },
+  {
+    "name": "Armadillo de los Infante",
+    "country": "MX",
+    "lat": 22.2449,
+    "lng": -100.6558
+  },
+  {
+    "name": "Arizpe",
+    "country": "MX",
+    "lat": 30.33698,
+    "lng": -110.16632
+  },
+  {
+    "name": "Arivechi",
+    "country": "MX",
+    "lat": 28.9281,
+    "lng": -109.18727
+  },
+  {
+    "name": "Ario de Rosales",
+    "country": "MX",
+    "lat": 19.209,
+    "lng": -101.70743
+  },
+  {
+    "name": "Ario de Rayón",
+    "country": "MX",
+    "lat": 20.02651,
+    "lng": -102.34814
+  },
+  {
+    "name": "Arcinas",
+    "country": "MX",
+    "lat": 25.77556,
+    "lng": -103.40913
+  },
+  {
+    "name": "Arcelia",
+    "country": "MX",
+    "lat": 18.31847,
+    "lng": -100.28148
+  },
+  {
+    "name": "Aratichanguío",
+    "country": "MX",
+    "lat": 18.47877,
+    "lng": -101.36211
+  },
+  {
+    "name": "Araró",
+    "country": "MX",
+    "lat": 19.91136,
+    "lng": -100.8246
+  },
+  {
+    "name": "Aranza",
+    "country": "MX",
+    "lat": 19.66418,
+    "lng": -102.02365
+  },
+  {
+    "name": "Arantepacua",
+    "country": "MX",
+    "lat": 19.5958,
+    "lng": -101.9686
+  },
+  {
+    "name": "Arandas",
+    "country": "MX",
+    "lat": 20.72468,
+    "lng": -101.37296
+  },
+  {
+    "name": "Arandas",
+    "country": "MX",
+    "lat": 20.70551,
+    "lng": -102.34514
+  },
+  {
+    "name": "Arellano",
+    "country": "MX",
+    "lat": 21.80106,
+    "lng": -102.27384
+  },
+  {
+    "name": "Arenal de Álvarez (Arenal de Paco)",
+    "country": "MX",
+    "lat": 17.12611,
+    "lng": -100.455
+  },
+  {
+    "name": "Arcila",
+    "country": "MX",
+    "lat": 20.41053,
+    "lng": -100.10927
+  },
+  {
+    "name": "Arenal",
+    "country": "MX",
+    "lat": 19.38111,
+    "lng": -98.94278
+  },
+  {
+    "name": "Arbolada los Sauces",
+    "country": "MX",
+    "lat": 19.81583,
+    "lng": -99.04417
+  },
+  {
+    "name": "Arboledas Paso Blanco [Fraccionamiento]",
+    "country": "MX",
+    "lat": 21.96361,
+    "lng": -102.30194
+  },
+  {
+    "name": "Arroyo del Maíz Uno",
+    "country": "MX",
+    "lat": 20.53667,
+    "lng": -97.41528
+  },
+  {
+    "name": "Arena 1ra. Sección",
+    "country": "MX",
+    "lat": 18.20139,
+    "lng": -93.36694
+  },
+  {
+    "name": "Arboledas",
+    "country": "MX",
+    "lat": 19.20722,
+    "lng": -96.21444
+  },
+  {
+    "name": "Artemio Treviño",
+    "country": "MX",
+    "lat": 25.83528,
+    "lng": -100.14278
+  },
+  {
+    "name": "Arroyo Choápam",
+    "country": "MX",
+    "lat": 17.97028,
+    "lng": -96.15722
+  },
+  {
+    "name": "Arroyo de Enmedio",
+    "country": "MX",
+    "lat": 18.4975,
+    "lng": -96.54722
+  },
+  {
+    "name": "Artículo Primero Constitucional",
+    "country": "MX",
+    "lat": 18.97412,
+    "lng": -98.15848
+  },
+  {
+    "name": "Arimatea",
+    "country": "MX",
+    "lat": 17.34139,
+    "lng": -91.87639
+  },
+  {
+    "name": "Arroyo Chical (Nuevo Arroyo Chicali)",
+    "country": "MX",
+    "lat": 18.21611,
+    "lng": -96.33667
+  },
+  {
+    "name": "Arroyo Zapotillo",
+    "country": "MX",
+    "lat": 18.07639,
+    "lng": -96.54417
+  },
+  {
+    "name": "Arena 6ta. Sección (La Bolsa)",
+    "country": "MX",
+    "lat": 18.16218,
+    "lng": -93.39539
+  },
+  {
+    "name": "Arroyo Palenque",
+    "country": "MX",
+    "lat": 17.39167,
+    "lng": -92.10444
+  },
+  {
+    "name": "Arvenza Uno",
+    "country": "MX",
+    "lat": 16.77972,
+    "lng": -92.72028
+  },
+  {
+    "name": "Arroyo San Isidro",
+    "country": "MX",
+    "lat": 18.48667,
+    "lng": -95.41333
+  },
+  {
+    "name": "Arroyo Vista Hermosa",
+    "country": "MX",
+    "lat": 19.33082,
+    "lng": -99.53694
+  },
+  {
+    "name": "Ara Damansara",
+    "country": "MY",
+    "lat": 3.11898,
+    "lng": 101.58656
+  },
+  {
+    "name": "Aroab",
+    "country": "NA",
+    "lat": -26.79744,
+    "lng": 19.6527
+  },
+  {
+    "name": "Aranos",
+    "country": "NA",
+    "lat": -24.14126,
+    "lng": 19.11754
+  },
+  {
+    "name": "Arandis",
+    "country": "NA",
+    "lat": -22.41749,
+    "lng": 14.97385
+  },
+  {
+    "name": "Artillerie",
+    "country": "NC",
+    "lat": -22.27972,
+    "lng": 166.43897
+  },
+  {
+    "name": "Arlit",
+    "country": "NE",
+    "lat": 18.73694,
+    "lng": 7.38528
+  },
+  {
+    "name": "Arochukwu",
+    "country": "NG",
+    "lat": 5.38941,
+    "lng": 7.91235
+  },
+  {
+    "name": "Argungu",
+    "country": "NG",
+    "lat": 12.74482,
+    "lng": 4.52514
+  },
+  {
+    "name": "Araromi-Opin",
+    "country": "NG",
+    "lat": 8.0652,
+    "lng": 5.25575
+  },
+  {
+    "name": "Aramoko-Ekiti",
+    "country": "NG",
+    "lat": 7.70483,
+    "lng": 5.04054
+  },
+  {
+    "name": "Arnhem",
+    "country": "NL",
+    "lat": 51.98,
+    "lng": 5.91111
+  },
+  {
+    "name": "Arnemuiden",
+    "country": "NL",
+    "lat": 51.50167,
+    "lng": 3.675
+  },
+  {
+    "name": "Arkel",
+    "country": "NL",
+    "lat": 51.86417,
+    "lng": 4.99444
+  },
+  {
+    "name": "Arcen",
+    "country": "NL",
+    "lat": 51.47667,
+    "lng": 6.18056
+  },
+  {
+    "name": "Arendal",
+    "country": "NO",
+    "lat": 58.46151,
+    "lng": 8.77253
+  },
+  {
+    "name": "Arijejen",
+    "country": "NR",
+    "lat": -0.52545,
+    "lng": 166.91247
+  },
+  {
+    "name": "Arthurs Point",
+    "country": "NZ",
+    "lat": -44.98333,
+    "lng": 168.66667
+  },
+  {
+    "name": "Arrowtown",
+    "country": "NZ",
+    "lat": -44.93837,
+    "lng": 168.81007
+  },
+  {
+    "name": "Aranui",
+    "country": "NZ",
+    "lat": -43.50833,
+    "lng": 172.70013
+  },
+  {
+    "name": "Arakura",
+    "country": "NZ",
+    "lat": -41.22827,
+    "lng": 174.95019
+  },
+  {
+    "name": "Aro Valley",
+    "country": "NZ",
+    "lat": -41.29412,
+    "lng": 174.76089
+  },
+  {
+    "name": "Arco Iris",
+    "country": "PA",
+    "lat": 9.33818,
+    "lng": -79.89245
+  },
+  {
+    "name": "Arraiján",
+    "country": "PA",
+    "lat": 8.9398,
+    "lng": -79.64038
+  },
+  {
+    "name": "Arosemena",
+    "country": "PA",
+    "lat": 8.97343,
+    "lng": -79.96527
+  },
+  {
+    "name": "Arenas",
+    "country": "PA",
+    "lat": 7.37003,
+    "lng": -80.85949
+  },
+  {
+    "name": "Aricapampa",
+    "country": "PE",
+    "lat": -7.80609,
+    "lng": -77.72023
+  },
+  {
+    "name": "Arenal",
+    "country": "PE",
+    "lat": -4.88333,
+    "lng": -81.0275
+  },
+  {
+    "name": "Arancay",
+    "country": "PE",
+    "lat": -9.17227,
+    "lng": -76.74895
+  },
+  {
+    "name": "Aramango",
+    "country": "PE",
+    "lat": -5.41639,
+    "lng": -78.43583
+  },
+  {
+    "name": "Arma",
+    "country": "PE",
+    "lat": -13.12602,
+    "lng": -75.54194
+  },
+  {
+    "name": "Arequipa",
+    "country": "PE",
+    "lat": -16.39899,
+    "lng": -71.53747
+  },
+  {
+    "name": "Arapa",
+    "country": "PE",
+    "lat": -15.13902,
+    "lng": -70.10957
+  },
+  {
+    "name": "Arahuay",
+    "country": "PE",
+    "lat": -11.62222,
+    "lng": -76.66944
+  },
+  {
+    "name": "Arue",
+    "country": "PF",
+    "lat": -17.52764,
+    "lng": -149.53437
+  },
+  {
+    "name": "Arawa",
+    "country": "PG",
+    "lat": -6.22977,
+    "lng": 155.56598
+  },
+  {
+    "name": "Arteche",
+    "country": "PH",
+    "lat": 12.2645,
+    "lng": 125.4048
+  },
+  {
+    "name": "Aroroy",
+    "country": "PH",
+    "lat": 12.5111,
+    "lng": 123.3977
+  },
+  {
+    "name": "Arminia",
+    "country": "PH",
+    "lat": 15.43563,
+    "lng": 120.56379
+  },
+  {
+    "name": "Armenia",
+    "country": "PH",
+    "lat": 12.25324,
+    "lng": 123.74361
+  },
+  {
+    "name": "Aritao",
+    "country": "PH",
+    "lat": 16.2979,
+    "lng": 121.0345
+  },
+  {
+    "name": "Aringay",
+    "country": "PH",
+    "lat": 16.394,
+    "lng": 120.3545
+  },
+  {
+    "name": "Argao",
+    "country": "PH",
+    "lat": 9.87944,
+    "lng": 123.59556
+  },
+  {
+    "name": "Arenas",
+    "country": "PH",
+    "lat": 15.17042,
+    "lng": 120.68571
+  },
+  {
+    "name": "Arcangel",
+    "country": "PH",
+    "lat": 11.5395,
+    "lng": 122.3455
+  },
+  {
+    "name": "Arayat",
+    "country": "PH",
+    "lat": 15.1505,
+    "lng": 120.7697
+  },
+  {
+    "name": "Aras-asan",
+    "country": "PH",
+    "lat": 8.88781,
+    "lng": 126.3112
+  },
+  {
+    "name": "Aranda",
+    "country": "PH",
+    "lat": 10.2365,
+    "lng": 122.9467
+  },
+  {
+    "name": "Aranas Sur",
+    "country": "PH",
+    "lat": 11.5635,
+    "lng": 122.3901
+  },
+  {
+    "name": "Aramawayan",
+    "country": "PH",
+    "lat": 9.34247,
+    "lng": 118.1623
+  },
+  {
+    "name": "Aramayuan",
+    "country": "PH",
+    "lat": 9.17008,
+    "lng": 118.1872
+  },
+  {
+    "name": "Araceli",
+    "country": "PH",
+    "lat": 10.5529,
+    "lng": 119.9913
+  },
+  {
+    "name": "Araal",
+    "country": "PH",
+    "lat": 10.4195,
+    "lng": 123.0437
+  },
+  {
+    "name": "Arifwala",
+    "country": "PK",
+    "lat": 30.29058,
+    "lng": 73.06574
+  },
+  {
+    "name": "Arif Wala",
+    "country": "PK",
+    "lat": 26.32478,
+    "lng": 66.29587
+  },
+  {
+    "name": "Arecibo",
+    "country": "PR",
+    "lat": 18.47245,
+    "lng": -66.71573
+  },
+  {
+    "name": "Arroyo",
+    "country": "PR",
+    "lat": 17.9658,
+    "lng": -66.06128
+  },
+  {
+    "name": "Ar Ramāḑīn",
+    "country": "PS",
+    "lat": 31.37952,
+    "lng": 34.91246
+  },
+  {
+    "name": "Arţās",
+    "country": "PS",
+    "lat": 31.68939,
+    "lng": 35.18681
+  },
+  {
+    "name": "Ar Rīḩīyah",
+    "country": "PS",
+    "lat": 31.4695,
+    "lng": 35.07781
+  },
+  {
+    "name": "Ar Rām wa Ḑāḩiyat al Barīd",
+    "country": "PS",
+    "lat": 31.84945,
+    "lng": 35.2342
+  },
+  {
+    "name": "Arruda dos Vinhos",
+    "country": "PT",
+    "lat": 38.98411,
+    "lng": -9.07746
+  },
+  {
+    "name": "Arronches",
+    "country": "PT",
+    "lat": 39.12242,
+    "lng": -7.28619
+  },
+  {
+    "name": "Arrentela",
+    "country": "PT",
+    "lat": 38.625,
+    "lng": -9.10151
+  },
+  {
+    "name": "Arranhó",
+    "country": "PT",
+    "lat": 38.95378,
+    "lng": -9.13465
+  },
+  {
+    "name": "Arraiolos",
+    "country": "PT",
+    "lat": 38.72363,
+    "lng": -7.98478
+  },
+  {
+    "name": "Armação de Pêra",
+    "country": "PT",
+    "lat": 37.10256,
+    "lng": -8.35695
+  },
+  {
+    "name": "Areeiro",
+    "country": "PT",
+    "lat": 38.741,
+    "lng": -9.138
+  },
+  {
+    "name": "Arco da Calheta",
+    "country": "PT",
+    "lat": 32.71502,
+    "lng": -17.14974
+  },
+  {
+    "name": "Arrifana",
+    "country": "PT",
+    "lat": 40.91565,
+    "lng": -8.49657
+  },
+  {
+    "name": "Arouca",
+    "country": "PT",
+    "lat": 40.93057,
+    "lng": -8.24488
+  },
+  {
+    "name": "Arões",
+    "country": "PT",
+    "lat": 41.45553,
+    "lng": -8.21419
+  },
+  {
+    "name": "Armamar",
+    "country": "PT",
+    "lat": 41.10765,
+    "lng": -7.69139
+  },
+  {
+    "name": "Argoncilhe",
+    "country": "PT",
+    "lat": 41.02541,
+    "lng": -8.53885
+  },
+  {
+    "name": "Argivai",
+    "country": "PT",
+    "lat": 41.37744,
+    "lng": -8.72987
+  },
+  {
+    "name": "Arganil",
+    "country": "PT",
+    "lat": 40.21826,
+    "lng": -8.05403
+  },
+  {
+    "name": "Areosa",
+    "country": "PT",
+    "lat": 41.71779,
+    "lng": -8.85707
+  },
+  {
+    "name": "Areosa",
+    "country": "PT",
+    "lat": 41.18146,
+    "lng": -8.58777
+  },
+  {
+    "name": "Arcozelo",
+    "country": "PT",
+    "lat": 41.06187,
+    "lng": -8.63192
+  },
+  {
+    "name": "Arcos de Valdevez",
+    "country": "PT",
+    "lat": 41.84668,
+    "lng": -8.41905
+  },
+  {
+    "name": "Arcos",
+    "country": "PT",
+    "lat": 41.52185,
+    "lng": -8.42151
+  },
+  {
+    "name": "Arcos",
+    "country": "PT",
+    "lat": 40.44779,
+    "lng": -8.44171
+  },
+  {
+    "name": "Arazede",
+    "country": "PT",
+    "lat": 40.28627,
+    "lng": -8.64999
+  },
+  {
+    "name": "Aradas",
+    "country": "PT",
+    "lat": 40.62084,
+    "lng": -8.64195
+  },
+  {
+    "name": "Arrifes",
+    "country": "PT",
+    "lat": 37.76667,
+    "lng": -25.7
+  },
+  {
+    "name": "Arroyos y Esteros",
+    "country": "PY",
+    "lat": -25.05505,
+    "lng": -57.09728
+  },
+  {
+    "name": "Areguá",
+    "country": "PY",
+    "lat": -25.31239,
+    "lng": -57.38495
+  },
+  {
+    "name": "Ar Ruways",
+    "country": "QA",
+    "lat": 26.13978,
+    "lng": 51.21493
+  },
+  {
+    "name": "Ar Rayyān",
+    "country": "QA",
+    "lat": 25.29194,
+    "lng": 51.42444
+  },
+  {
+    "name": "Arini",
+    "country": "RO",
+    "lat": 46.35,
+    "lng": 27.18333
+  },
+  {
+    "name": "Arsura",
+    "country": "RO",
+    "lat": 46.81333,
+    "lng": 28.02222
+  },
+  {
+    "name": "Arpașu de Sus",
+    "country": "RO",
+    "lat": 45.73436,
+    "lng": 24.61906
+  },
+  {
+    "name": "Arpaşu de Jos",
+    "country": "RO",
+    "lat": 45.78333,
+    "lng": 24.61667
+  },
+  {
+    "name": "Aroneanu",
+    "country": "RO",
+    "lat": 47.2,
+    "lng": 27.6
+  },
+  {
+    "name": "Armeniş",
+    "country": "RO",
+    "lat": 45.2,
+    "lng": 22.31667
+  },
+  {
+    "name": "Armăşeşti",
+    "country": "RO",
+    "lat": 44.75,
+    "lng": 26.58333
+  },
+  {
+    "name": "Ariniş",
+    "country": "RO",
+    "lat": 47.5,
+    "lng": 23.23333
+  },
+  {
+    "name": "Arieşeni",
+    "country": "RO",
+    "lat": 46.47641,
+    "lng": 22.75741
+  },
+  {
+    "name": "Ariceștii Zeletin",
+    "country": "RO",
+    "lat": 45.22221,
+    "lng": 26.17957
+  },
+  {
+    "name": "Ariceştii-Rahtivani",
+    "country": "RO",
+    "lat": 44.95,
+    "lng": 25.83333
+  },
+  {
+    "name": "Arghira",
+    "country": "RO",
+    "lat": 47.45412,
+    "lng": 26.4725
+  },
+  {
+    "name": "Argetoaia",
+    "country": "RO",
+    "lat": 44.51667,
+    "lng": 23.36667
+  },
+  {
+    "name": "Argeșelu",
+    "country": "RO",
+    "lat": 44.9274,
+    "lng": 24.87115
+  },
+  {
+    "name": "Argel",
+    "country": "RO",
+    "lat": 47.76136,
+    "lng": 25.47049
+  },
+  {
+    "name": "Arefu",
+    "country": "RO",
+    "lat": 45.33333,
+    "lng": 24.6
+  },
+  {
+    "name": "Ardusat",
+    "country": "RO",
+    "lat": 47.65,
+    "lng": 23.36667
+  },
+  {
+    "name": "Ardud",
+    "country": "RO",
+    "lat": 47.63333,
+    "lng": 22.88333
+  },
+  {
+    "name": "Ardeoani",
+    "country": "RO",
+    "lat": 46.53333,
+    "lng": 26.6
+  },
+  {
+    "name": "Arcuș",
+    "country": "RO",
+    "lat": 45.90077,
+    "lng": 25.77673
+  },
+  {
+    "name": "Archiş",
+    "country": "RO",
+    "lat": 46.48333,
+    "lng": 22.05
+  },
+  {
+    "name": "Arcani",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 23.13333
+  },
+  {
+    "name": "Arbore",
+    "country": "RO",
+    "lat": 47.73333,
+    "lng": 25.93333
+  },
+  {
+    "name": "Arad",
+    "country": "RO",
+    "lat": 46.18333,
+    "lng": 21.31667
+  },
+  {
+    "name": "Araci",
+    "country": "RO",
+    "lat": 45.81187,
+    "lng": 25.65482
+  },
+  {
+    "name": "Arilje",
+    "country": "RS",
+    "lat": 43.75306,
+    "lng": 20.09556
+  },
+  {
+    "name": "Aranđelovac",
+    "country": "RS",
+    "lat": 44.30694,
+    "lng": 20.56
+  },
+  {
+    "name": "Aradac",
+    "country": "RS",
+    "lat": 45.38346,
+    "lng": 20.30137
+  },
+  {
+    "name": "Arzgir",
+    "country": "RU",
+    "lat": 45.37411,
+    "lng": 44.2198
+  },
+  {
+    "name": "Arzamas",
+    "country": "RU",
+    "lat": 55.39563,
+    "lng": 43.8381
+  },
+  {
+    "name": "Ar’ya",
+    "country": "RU",
+    "lat": 57.49146,
+    "lng": 45.96691
+  },
+  {
+    "name": "Arti",
+    "country": "RU",
+    "lat": 56.41962,
+    "lng": 58.53911
+  },
+  {
+    "name": "Arsk",
+    "country": "RU",
+    "lat": 56.09254,
+    "lng": 49.87819
+  },
+  {
+    "name": "Arshan’",
+    "country": "RU",
+    "lat": 46.2732,
+    "lng": 44.22
+  },
+  {
+    "name": "Arsen’yevo",
+    "country": "RU",
+    "lat": 53.73794,
+    "lng": 36.66749
+  },
+  {
+    "name": "Arsaki",
+    "country": "RU",
+    "lat": 56.37993,
+    "lng": 38.47472
+  },
+  {
+    "name": "Armavir",
+    "country": "RU",
+    "lat": 44.99849,
+    "lng": 41.11472
+  },
+  {
+    "name": "Arkul’",
+    "country": "RU",
+    "lat": 57.28085,
+    "lng": 50.044
+  },
+  {
+    "name": "Arkhonskaya",
+    "country": "RU",
+    "lat": 43.11,
+    "lng": 44.5125
+  },
+  {
+    "name": "Arkhipovka",
+    "country": "RU",
+    "lat": 56.66292,
+    "lng": 41.25434
+  },
+  {
+    "name": "Arkhipo-Osipovka",
+    "country": "RU",
+    "lat": 44.37194,
+    "lng": 38.52972
+  },
+  {
+    "name": "Arkhangel’skoye",
+    "country": "RU",
+    "lat": 55.85486,
+    "lng": 35.32873
+  },
+  {
+    "name": "Arkhangel’skoye",
+    "country": "RU",
+    "lat": 55.78791,
+    "lng": 37.29984
+  },
+  {
+    "name": "Arkhangel’skoye",
+    "country": "RU",
+    "lat": 54.40575,
+    "lng": 56.78064
+  },
+  {
+    "name": "Arkhangel’skoye",
+    "country": "RU",
+    "lat": 53.25977,
+    "lng": 37.6963
+  },
+  {
+    "name": "Arkhangel’sk",
+    "country": "RU",
+    "lat": 64.5461,
+    "lng": 40.55183
+  },
+  {
+    "name": "Arkadak",
+    "country": "RU",
+    "lat": 51.93752,
+    "lng": 43.50404
+  },
+  {
+    "name": "Argun",
+    "country": "RU",
+    "lat": 43.29289,
+    "lng": 45.86691
+  },
+  {
+    "name": "Argudan",
+    "country": "RU",
+    "lat": 43.41602,
+    "lng": 43.91129
+  },
+  {
+    "name": "Ardon’",
+    "country": "RU",
+    "lat": 52.73524,
+    "lng": 32.30857
+  },
+  {
+    "name": "Ardon",
+    "country": "RU",
+    "lat": 43.17888,
+    "lng": 44.29464
+  },
+  {
+    "name": "Ardatov",
+    "country": "RU",
+    "lat": 55.23923,
+    "lng": 43.09557
+  },
+  {
+    "name": "Ardatov",
+    "country": "RU",
+    "lat": 54.84474,
+    "lng": 46.24399
+  },
+  {
+    "name": "Arbazh",
+    "country": "RU",
+    "lat": 57.67949,
+    "lng": 48.3061
+  },
+  {
+    "name": "Artyshta",
+    "country": "RU",
+    "lat": 54.1222,
+    "lng": 86.2909
+  },
+  {
+    "name": "Artybash",
+    "country": "RU",
+    "lat": 51.79278,
+    "lng": 87.27611
+  },
+  {
+    "name": "Artëmovskiy",
+    "country": "RU",
+    "lat": 57.35422,
+    "lng": 61.87121
+  },
+  {
+    "name": "Aromashevo",
+    "country": "RU",
+    "lat": 56.86753,
+    "lng": 68.64507
+  },
+  {
+    "name": "Armizonskoye",
+    "country": "RU",
+    "lat": 55.94875,
+    "lng": 67.68438
+  },
+  {
+    "name": "Argayash",
+    "country": "RU",
+    "lat": 55.48847,
+    "lng": 60.87364
+  },
+  {
+    "name": "Aramil",
+    "country": "RU",
+    "lat": 56.6977,
+    "lng": 60.8369
+  },
+  {
+    "name": "Artëm",
+    "country": "RU",
+    "lat": 43.35757,
+    "lng": 132.19137
+  },
+  {
+    "name": "Arsen’yev",
+    "country": "RU",
+    "lat": 44.15695,
+    "lng": 133.27331
+  },
+  {
+    "name": "Arkhara",
+    "country": "RU",
+    "lat": 49.42449,
+    "lng": 130.08426
+  },
+  {
+    "name": "Arman’",
+    "country": "RU",
+    "lat": 59.67144,
+    "lng": 150.13055
+  },
+  {
+    "name": "Ar Rass",
+    "country": "SA",
+    "lat": 25.86944,
+    "lng": 43.4973
+  },
+  {
+    "name": "Arar",
+    "country": "SA",
+    "lat": 30.97531,
+    "lng": 41.03808
+  },
+  {
+    "name": "Ar Rahad",
+    "country": "SD",
+    "lat": 12.71667,
+    "lng": 30.65
+  },
+  {
+    "name": "Aroma",
+    "country": "SD",
+    "lat": 15.81667,
+    "lng": 36.13333
+  },
+  {
+    "name": "Argo",
+    "country": "SD",
+    "lat": 19.51667,
+    "lng": 30.41667
+  },
+  {
+    "name": "Arvika",
+    "country": "SE",
+    "lat": 59.65528,
+    "lng": 12.58518
+  },
+  {
+    "name": "Arvidsjaur",
+    "country": "SE",
+    "lat": 65.59033,
+    "lng": 19.16682
+  },
+  {
+    "name": "Arnö",
+    "country": "SE",
+    "lat": 60.11667,
+    "lng": 18.63333
+  },
+  {
+    "name": "Arnö",
+    "country": "SE",
+    "lat": 58.72675,
+    "lng": 17.02322
+  },
+  {
+    "name": "Arlöv",
+    "country": "SE",
+    "lat": 55.63248,
+    "lng": 13.07141
+  },
+  {
+    "name": "Arjeplog",
+    "country": "SE",
+    "lat": 66.05173,
+    "lng": 17.88606
+  },
+  {
+    "name": "Arbrå",
+    "country": "SE",
+    "lat": 61.46667,
+    "lng": 16.38333
+  },
+  {
+    "name": "Arboga",
+    "country": "SE",
+    "lat": 59.39387,
+    "lng": 15.83882
+  },
+  {
+    "name": "Armenia",
+    "country": "SV",
+    "lat": 13.74361,
+    "lng": -89.49889
+  },
+  {
+    "name": "Ar Riqāmā",
+    "country": "SY",
+    "lat": 34.53879,
+    "lng": 36.91909
+  },
+  {
+    "name": "Ar Rā‘ī",
+    "country": "SY",
+    "lat": 36.61182,
+    "lng": 37.4478
+  },
+  {
+    "name": "Ar Rawḑah",
+    "country": "SY",
+    "lat": 35.07204,
+    "lng": 35.91375
+  },
+  {
+    "name": "Arwād",
+    "country": "SY",
+    "lat": 34.85604,
+    "lng": 35.85854
+  },
+  {
+    "name": "Ar Ruḩaybah",
+    "country": "SY",
+    "lat": 33.74424,
+    "lng": 36.70394
+  },
+  {
+    "name": "Ar Rastan",
+    "country": "SY",
+    "lat": 34.92667,
+    "lng": 36.73241
+  },
+  {
+    "name": "Ar Raqqah",
+    "country": "SY",
+    "lat": 35.95283,
+    "lng": 39.00788
+  },
+  {
+    "name": "Armanāz",
+    "country": "SY",
+    "lat": 36.08363,
+    "lng": 36.5031
+  },
+  {
+    "name": "Arīḩā",
+    "country": "SY",
+    "lat": 35.81374,
+    "lng": 36.60964
+  },
+  {
+    "name": "Aranyaprathet",
+    "country": "TH",
+    "lat": 13.69276,
+    "lng": 102.50128
+  },
+  {
+    "name": "Arun Amarin",
+    "country": "TH",
+    "lat": 13.76693,
+    "lng": 100.48258
+  },
+  {
+    "name": "Arçabil",
+    "country": "TM",
+    "lat": 37.915,
+    "lng": 58.08987
+  },
+  {
+    "name": "Arkadag şäheri",
+    "country": "TM",
+    "lat": 38.07545,
+    "lng": 58.05984
+  },
+  {
+    "name": "Aryanah",
+    "country": "TN",
+    "lat": 36.86012,
+    "lng": 10.19337
+  },
+  {
+    "name": "Ar Rudayyif",
+    "country": "TN",
+    "lat": 34.3827,
+    "lng": 8.15549
+  },
+  {
+    "name": "Arsuz",
+    "country": "TR",
+    "lat": 36.41305,
+    "lng": 35.89033
+  },
+  {
+    "name": "Armutlu",
+    "country": "TR",
+    "lat": 39.5755,
+    "lng": 38.42722
+  },
+  {
+    "name": "Arslanköy",
+    "country": "TR",
+    "lat": 37.01884,
+    "lng": 34.28741
+  },
+  {
+    "name": "Arpaçbahşiş",
+    "country": "TR",
+    "lat": 36.64552,
+    "lng": 34.35077
+  },
+  {
+    "name": "Armutlu",
+    "country": "TR",
+    "lat": 38.19417,
+    "lng": 33.8951
+  },
+  {
+    "name": "Arıklı",
+    "country": "TR",
+    "lat": 37.03919,
+    "lng": 40.19026
+  },
+  {
+    "name": "Arıcak",
+    "country": "TR",
+    "lat": 38.5634,
+    "lng": 40.1248
+  },
+  {
+    "name": "Arguvan",
+    "country": "TR",
+    "lat": 38.77375,
+    "lng": 38.26328
+  },
+  {
+    "name": "Argıthanı",
+    "country": "TR",
+    "lat": 38.29259,
+    "lng": 31.71452
+  },
+  {
+    "name": "Aras",
+    "country": "TR",
+    "lat": 39.98821,
+    "lng": 42.30628
+  },
+  {
+    "name": "Arapgir",
+    "country": "TR",
+    "lat": 39.04117,
+    "lng": 38.49516
+  },
+  {
+    "name": "Aran",
+    "country": "TR",
+    "lat": 37.44797,
+    "lng": 40.74804
+  },
+  {
+    "name": "Aralık",
+    "country": "TR",
+    "lat": 39.87278,
+    "lng": 44.51917
+  },
+  {
+    "name": "Aralık",
+    "country": "TR",
+    "lat": 37.82945,
+    "lng": 40.68025
+  },
+  {
+    "name": "Araban",
+    "country": "TR",
+    "lat": 37.42667,
+    "lng": 37.689
+  },
+  {
+    "name": "Ardıçlı",
+    "country": "TR",
+    "lat": 36.72962,
+    "lng": 36.51808
+  },
+  {
+    "name": "Artvin",
+    "country": "TR",
+    "lat": 41.18161,
+    "lng": 41.82172
+  },
+  {
+    "name": "Artova",
+    "country": "TR",
+    "lat": 40.11578,
+    "lng": 36.3001
+  },
+  {
+    "name": "Arslanbey",
+    "country": "TR",
+    "lat": 40.69047,
+    "lng": 30.03063
+  },
+  {
+    "name": "Arsin",
+    "country": "TR",
+    "lat": 40.95271,
+    "lng": 39.92674
+  },
+  {
+    "name": "Arpaçay",
+    "country": "TR",
+    "lat": 40.84522,
+    "lng": 43.32747
+  },
+  {
+    "name": "Arnavutköy",
+    "country": "TR",
+    "lat": 41.18355,
+    "lng": 28.7402
+  },
+  {
+    "name": "Arnavutköy",
+    "country": "TR",
+    "lat": 41.06826,
+    "lng": 29.04335
+  },
+  {
+    "name": "Armutlu",
+    "country": "TR",
+    "lat": 40.51944,
+    "lng": 28.82806
+  },
+  {
+    "name": "Arıt",
+    "country": "TR",
+    "lat": 41.68706,
+    "lng": 32.62396
+  },
+  {
+    "name": "Arifiye",
+    "country": "TR",
+    "lat": 40.70036,
+    "lng": 30.35076
+  },
+  {
+    "name": "Arhavi",
+    "country": "TR",
+    "lat": 41.35121,
+    "lng": 41.30456
+  },
+  {
+    "name": "Ardeşen",
+    "country": "TR",
+    "lat": 41.19064,
+    "lng": 40.97935
+  },
+  {
+    "name": "Ardanuç",
+    "country": "TR",
+    "lat": 41.11955,
+    "lng": 42.06882
+  },
+  {
+    "name": "Ardahan",
+    "country": "TR",
+    "lat": 41.10871,
+    "lng": 42.70222
+  },
+  {
+    "name": "Araklı",
+    "country": "TR",
+    "lat": 40.93854,
+    "lng": 40.05842
+  },
+  {
+    "name": "Araç",
+    "country": "TR",
+    "lat": 41.24222,
+    "lng": 33.32767
+  },
+  {
+    "name": "Arıköy",
+    "country": "TR",
+    "lat": 41.23044,
+    "lng": 29.00425
+  },
+  {
+    "name": "Arkum",
+    "country": "TR",
+    "lat": 36.35191,
+    "lng": 34.05673
+  },
+  {
+    "name": "Arouca",
+    "country": "TT",
+    "lat": 10.62877,
+    "lng": -61.33487
+  },
+  {
+    "name": "Arima",
+    "country": "TT",
+    "lat": 10.63737,
+    "lng": -61.28228
+  },
+  {
+    "name": "Arusha",
+    "country": "TZ",
+    "lat": -3.36667,
+    "lng": 36.68333
+  },
+  {
+    "name": "Artsyz",
+    "country": "UA",
+    "lat": 45.98526,
+    "lng": 29.43286
+  },
+  {
+    "name": "Artemivsk",
+    "country": "UA",
+    "lat": 48.44061,
+    "lng": 38.732
+  },
+  {
+    "name": "Aromatnoye",
+    "country": "UA",
+    "lat": 45.03678,
+    "lng": 34.39921
+  },
+  {
+    "name": "Armyansk",
+    "country": "UA",
+    "lat": 46.10919,
+    "lng": 33.69206
+  },
+  {
+    "name": "Arkhanhelske",
+    "country": "UA",
+    "lat": 47.43329,
+    "lng": 33.40506
+  },
+  {
+    "name": "Arbuzynka",
+    "country": "UA",
+    "lat": 47.90791,
+    "lng": 31.31701
+  },
+  {
+    "name": "Aromatnoye",
+    "country": "UA",
+    "lat": 44.80373,
+    "lng": 33.87005
+  },
+  {
+    "name": "Arua",
+    "country": "UG",
+    "lat": 3.02013,
+    "lng": 30.91105
+  },
+  {
+    "name": "Arkadelphia",
+    "country": "US",
+    "lat": 34.12093,
+    "lng": -93.05378
+  },
+  {
+    "name": "Arkansas City",
+    "country": "US",
+    "lat": 33.60872,
+    "lng": -91.20678
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 27.21588,
+    "lng": -81.85842
+  },
+  {
+    "name": "Archer",
+    "country": "US",
+    "lat": 29.52997,
+    "lng": -82.519
+  },
+  {
+    "name": "Aragon",
+    "country": "US",
+    "lat": 34.04565,
+    "lng": -85.05606
+  },
+  {
+    "name": "Arcade",
+    "country": "US",
+    "lat": 34.07789,
+    "lng": -83.56155
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 31.4399,
+    "lng": -84.72492
+  },
+  {
+    "name": "Arcola",
+    "country": "US",
+    "lat": 39.68476,
+    "lng": -88.30644
+  },
+  {
+    "name": "Arthur",
+    "country": "US",
+    "lat": 39.71476,
+    "lng": -88.47228
+  },
+  {
+    "name": "Arkansas City",
+    "country": "US",
+    "lat": 37.06197,
+    "lng": -97.03837
+  },
+  {
+    "name": "Arma",
+    "country": "US",
+    "lat": 37.54394,
+    "lng": -94.70024
+  },
+  {
+    "name": "Arabi",
+    "country": "US",
+    "lat": 29.95437,
+    "lng": -90.00535
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 32.54904,
+    "lng": -92.92016
+  },
+  {
+    "name": "Arnaudville",
+    "country": "US",
+    "lat": 30.3977,
+    "lng": -91.93151
+  },
+  {
+    "name": "Arbutus",
+    "country": "US",
+    "lat": 39.25455,
+    "lng": -76.69997
+  },
+  {
+    "name": "Arden on the Severn",
+    "country": "US",
+    "lat": 39.06594,
+    "lng": -76.57885
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 39.34857,
+    "lng": -76.68324
+  },
+  {
+    "name": "Armistead Gardens",
+    "country": "US",
+    "lat": 39.30177,
+    "lng": -76.54941
+  },
+  {
+    "name": "Arnold",
+    "country": "US",
+    "lat": 39.03206,
+    "lng": -76.50274
+  },
+  {
+    "name": "Archie",
+    "country": "US",
+    "lat": 38.48168,
+    "lng": -94.35439
+  },
+  {
+    "name": "Arnold",
+    "country": "US",
+    "lat": 38.43283,
+    "lng": -90.37762
+  },
+  {
+    "name": "Arnold Line",
+    "country": "US",
+    "lat": 31.33517,
+    "lng": -89.3734
+  },
+  {
+    "name": "Archdale",
+    "country": "US",
+    "lat": 35.91458,
+    "lng": -79.97198
+  },
+  {
+    "name": "Archer Lodge",
+    "country": "US",
+    "lat": 35.69404,
+    "lng": -78.37556
+  },
+  {
+    "name": "Arcanum",
+    "country": "US",
+    "lat": 39.99005,
+    "lng": -84.55329
+  },
+  {
+    "name": "Arapaho",
+    "country": "US",
+    "lat": 35.57783,
+    "lng": -98.96453
+  },
+  {
+    "name": "Ardmore",
+    "country": "US",
+    "lat": 34.17426,
+    "lng": -97.14363
+  },
+  {
+    "name": "Arkoma",
+    "country": "US",
+    "lat": 35.35454,
+    "lng": -94.4341
+  },
+  {
+    "name": "Arnett",
+    "country": "US",
+    "lat": 36.13504,
+    "lng": -99.77484
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 34.95818,
+    "lng": -81.99066
+  },
+  {
+    "name": "Arial",
+    "country": "US",
+    "lat": 34.84595,
+    "lng": -82.64152
+  },
+  {
+    "name": "Ardmore",
+    "country": "US",
+    "lat": 34.99203,
+    "lng": -86.84667
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 35.2962,
+    "lng": -89.66147
+  },
+  {
+    "name": "Aransas Pass",
+    "country": "US",
+    "lat": 27.90947,
+    "lng": -97.14999
+  },
+  {
+    "name": "Archer City",
+    "country": "US",
+    "lat": 33.59566,
+    "lng": -98.62561
+  },
+  {
+    "name": "Arcola",
+    "country": "US",
+    "lat": 29.49607,
+    "lng": -95.46578
+  },
+  {
+    "name": "Argyle",
+    "country": "US",
+    "lat": 33.12123,
+    "lng": -97.18335
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 32.73569,
+    "lng": -97.10807
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 38.88101,
+    "lng": -77.10428
+  },
+  {
+    "name": "Arab",
+    "country": "US",
+    "lat": 34.31815,
+    "lng": -86.49582
+  },
+  {
+    "name": "Argo",
+    "country": "US",
+    "lat": 33.68778,
+    "lng": -86.50051
+  },
+  {
+    "name": "Arnolds Park",
+    "country": "US",
+    "lat": 43.37274,
+    "lng": -95.12388
+  },
+  {
+    "name": "Arlington Heights",
+    "country": "US",
+    "lat": 42.08836,
+    "lng": -87.98063
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 40.17587,
+    "lng": -86.02165
+  },
+  {
+    "name": "Argos",
+    "country": "US",
+    "lat": 41.2378,
+    "lng": -86.21465
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 42.41537,
+    "lng": -71.15644
+  },
+  {
+    "name": "Arundel",
+    "country": "US",
+    "lat": 43.38259,
+    "lng": -70.47783
+  },
+  {
+    "name": "Argentine",
+    "country": "US",
+    "lat": 42.79142,
+    "lng": -83.84634
+  },
+  {
+    "name": "Armada",
+    "country": "US",
+    "lat": 42.8442,
+    "lng": -82.88437
+  },
+  {
+    "name": "Arden Hills",
+    "country": "US",
+    "lat": 45.05024,
+    "lng": -93.15661
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 44.6083,
+    "lng": -94.08053
+  },
+  {
+    "name": "Arnold",
+    "country": "US",
+    "lat": 46.88022,
+    "lng": -92.09047
+  },
+  {
+    "name": "Arapahoe",
+    "country": "US",
+    "lat": 40.30417,
+    "lng": -99.9004
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 41.4525,
+    "lng": -96.35113
+  },
+  {
+    "name": "Arcade",
+    "country": "US",
+    "lat": 42.53395,
+    "lng": -78.42307
+  },
+  {
+    "name": "Ardsley",
+    "country": "US",
+    "lat": 41.01065,
+    "lng": -73.84375
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 41.69593,
+    "lng": -73.8968
+  },
+  {
+    "name": "Armonk",
+    "country": "US",
+    "lat": 41.12648,
+    "lng": -73.71402
+  },
+  {
+    "name": "Arrochar",
+    "country": "US",
+    "lat": 40.59844,
+    "lng": -74.07264
+  },
+  {
+    "name": "Arverne",
+    "country": "US",
+    "lat": 40.59122,
+    "lng": -73.79597
+  },
+  {
+    "name": "Archbold",
+    "country": "US",
+    "lat": 41.52144,
+    "lng": -84.30717
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 40.89366,
+    "lng": -83.65021
+  },
+  {
+    "name": "Archbald",
+    "country": "US",
+    "lat": 41.4948,
+    "lng": -75.53685
+  },
+  {
+    "name": "Ardmore",
+    "country": "US",
+    "lat": 40.00678,
+    "lng": -75.28546
+  },
+  {
+    "name": "Arlington Heights",
+    "country": "US",
+    "lat": 40.99009,
+    "lng": -75.21629
+  },
+  {
+    "name": "Arnold",
+    "country": "US",
+    "lat": 40.58007,
+    "lng": -79.76672
+  },
+  {
+    "name": "Armour",
+    "country": "US",
+    "lat": 43.3186,
+    "lng": -98.34675
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 43.0748,
+    "lng": -73.154
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 44.25274,
+    "lng": -91.50154
+  },
+  {
+    "name": "Arbuckle",
+    "country": "US",
+    "lat": 39.0174,
+    "lng": -122.05775
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 34.13973,
+    "lng": -118.03534
+  },
+  {
+    "name": "Armona",
+    "country": "US",
+    "lat": 36.31578,
+    "lng": -119.70846
+  },
+  {
+    "name": "Arnold",
+    "country": "US",
+    "lat": 38.25547,
+    "lng": -120.35103
+  },
+  {
+    "name": "Aromas",
+    "country": "US",
+    "lat": 36.88856,
+    "lng": -121.643
+  },
+  {
+    "name": "Arroyo Grande",
+    "country": "US",
+    "lat": 35.11859,
+    "lng": -120.59073
+  },
+  {
+    "name": "Artesia",
+    "country": "US",
+    "lat": 33.86585,
+    "lng": -118.08312
+  },
+  {
+    "name": "Arvin",
+    "country": "US",
+    "lat": 35.20913,
+    "lng": -118.82843
+  },
+  {
+    "name": "Arvada",
+    "country": "US",
+    "lat": 39.80276,
+    "lng": -105.08748
+  },
+  {
+    "name": "Arenas Valley",
+    "country": "US",
+    "lat": 32.79396,
+    "lng": -108.18421
+  },
+  {
+    "name": "Arroyo Seco",
+    "country": "US",
+    "lat": 36.51669,
+    "lng": -105.56918
+  },
+  {
+    "name": "Artesia",
+    "country": "US",
+    "lat": 32.84233,
+    "lng": -104.4033
+  },
+  {
+    "name": "Arivaca Junction",
+    "country": "US",
+    "lat": 31.72731,
+    "lng": -111.0612
+  },
+  {
+    "name": "Arizona City",
+    "country": "US",
+    "lat": 32.75589,
+    "lng": -111.67096
+  },
+  {
+    "name": "Arcata",
+    "country": "US",
+    "lat": 40.86652,
+    "lng": -124.08284
+  },
+  {
+    "name": "Aristocrat Ranchettes",
+    "country": "US",
+    "lat": 40.10915,
+    "lng": -104.76247
+  },
+  {
+    "name": "Arco",
+    "country": "US",
+    "lat": 43.63657,
+    "lng": -113.30028
+  },
+  {
+    "name": "Arthur",
+    "country": "US",
+    "lat": 41.57165,
+    "lng": -101.69156
+  },
+  {
+    "name": "Arlington Heights",
+    "country": "US",
+    "lat": 48.20205,
+    "lng": -122.06208
+  },
+  {
+    "name": "Arlington",
+    "country": "US",
+    "lat": 48.19871,
+    "lng": -122.12514
+  },
+  {
+    "name": "Artondale",
+    "country": "US",
+    "lat": 47.29954,
+    "lng": -122.62069
+  },
+  {
+    "name": "Arapahoe",
+    "country": "US",
+    "lat": 42.96218,
+    "lng": -108.48983
+  },
+  {
+    "name": "Arden-Arcade",
+    "country": "US",
+    "lat": 38.6025,
+    "lng": -121.37854
+  },
+  {
+    "name": "Arcadia",
+    "country": "US",
+    "lat": 39.33385,
+    "lng": -76.56774
+  },
+  {
+    "name": "Artigas",
+    "country": "UY",
+    "lat": -30.40431,
+    "lng": -56.46926
+  },
+  {
+    "name": "Aroa",
+    "country": "VE",
+    "lat": 10.43949,
+    "lng": -68.89496
+  },
+  {
+    "name": "Arismendi",
+    "country": "VE",
+    "lat": 8.47974,
+    "lng": -68.36996
+  },
+  {
+    "name": "Aricagua",
+    "country": "VE",
+    "lat": 10.23861,
+    "lng": -63.89761
+  },
+  {
+    "name": "Aricagua",
+    "country": "VE",
+    "lat": 8.22432,
+    "lng": -71.13721
+  },
+  {
+    "name": "Arenas",
+    "country": "VE",
+    "lat": 10.27931,
+    "lng": -63.93725
+  },
+  {
+    "name": "Araya",
+    "country": "VE",
+    "lat": 10.57998,
+    "lng": -64.25548
+  },
+  {
+    "name": "Araure",
+    "country": "VE",
+    "lat": 9.58144,
+    "lng": -69.23851
+  },
+  {
+    "name": "Arauquita",
+    "country": "VE",
+    "lat": 8.70833,
+    "lng": -69.65722
+  },
+  {
+    "name": "Aragua",
+    "country": "VE",
+    "lat": 9.97026,
+    "lng": -63.48727
+  },
+  {
+    "name": "Aragua de Barcelona",
+    "country": "VE",
+    "lat": 9.45588,
+    "lng": -64.82928
+  },
+  {
+    "name": "Arapuey",
+    "country": "VE",
+    "lat": 9.25934,
+    "lng": -70.95248
+  },
+  {
+    "name": "Ar Rawnah",
+    "country": "YE",
+    "lat": 13.75638,
+    "lng": 43.80286
+  },
+  {
+    "name": "Ar Ramādī",
+    "country": "YE",
+    "lat": 13.95641,
+    "lng": 43.78457
+  },
+  {
+    "name": "Ar Raydah",
+    "country": "YE",
+    "lat": 15.035,
+    "lng": 50.47917
+  },
+  {
+    "name": "Ar Rawḑah",
+    "country": "YE",
+    "lat": 15.43251,
+    "lng": 44.22399
+  },
+  {
+    "name": "Ar Rawḑah",
+    "country": "YE",
+    "lat": 14.46725,
+    "lng": 47.27638
+  },
+  {
+    "name": "Ar Rujum",
+    "country": "YE",
+    "lat": 15.45776,
+    "lng": 43.63226
+  },
+  {
+    "name": "Ar Rawḑ",
+    "country": "YE",
+    "lat": 16.06145,
+    "lng": 44.81012
+  },
+  {
+    "name": "Ar Rubū‘",
+    "country": "YE",
+    "lat": 13.78024,
+    "lng": 43.86901
+  },
+  {
+    "name": "Ar Riḑā’ī",
+    "country": "YE",
+    "lat": 14.01712,
+    "lng": 44.39409
+  },
+  {
+    "name": "Ar Raḑmah",
+    "country": "YE",
+    "lat": 14.21973,
+    "lng": 44.58657
+  },
+  {
+    "name": "Arniston",
+    "country": "ZA",
+    "lat": -34.66739,
+    "lng": 20.23086
+  },
+  {
+    "name": "Arthur’s Seat",
+    "country": "ZA",
+    "lat": -24.65076,
+    "lng": 31.02247
+  },
+  {
+    "name": "Arlington",
+    "country": "ZA",
+    "lat": -28.02881,
+    "lng": 27.85335
+  }
+]

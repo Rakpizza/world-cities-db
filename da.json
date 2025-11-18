@@ -1,0 +1,6542 @@
+[
+  {
+    "name": "Dayrah",
+    "country": "AE",
+    "lat": 25.27143,
+    "lng": 55.30207
+  },
+  {
+    "name": "DAMAC Hills",
+    "country": "AE",
+    "lat": 25.02924,
+    "lng": 55.25277
+  },
+  {
+    "name": "Dasht-e Qal‘ah",
+    "country": "AF",
+    "lat": 37.1539,
+    "lng": 69.4435
+  },
+  {
+    "name": "Dasht-e Qal‘ah",
+    "country": "AF",
+    "lat": 33.02978,
+    "lng": 63.8395
+  },
+  {
+    "name": "Dasht-e Archī",
+    "country": "AF",
+    "lat": 37.13333,
+    "lng": 69.16667
+  },
+  {
+    "name": "Darzāb",
+    "country": "AF",
+    "lat": 35.97744,
+    "lng": 65.37828
+  },
+  {
+    "name": "Darqad",
+    "country": "AF",
+    "lat": 37.38414,
+    "lng": 69.45294
+  },
+  {
+    "name": "Darāyim",
+    "country": "AF",
+    "lat": 36.86667,
+    "lng": 70.38333
+  },
+  {
+    "name": "Dahan-e Jarf",
+    "country": "AF",
+    "lat": 34.92891,
+    "lng": 68.46273
+  },
+  {
+    "name": "Dardhas",
+    "country": "AL",
+    "lat": 40.84583,
+    "lng": 20.65722
+  },
+  {
+    "name": "Dajt",
+    "country": "AL",
+    "lat": 41.39361,
+    "lng": 19.91583
+  },
+  {
+    "name": "Dajç",
+    "country": "AL",
+    "lat": 41.99167,
+    "lng": 19.41056
+  },
+  {
+    "name": "Dajç",
+    "country": "AL",
+    "lat": 41.91556,
+    "lng": 19.60444
+  },
+  {
+    "name": "Dalar",
+    "country": "AM",
+    "lat": 39.97539,
+    "lng": 44.52784
+  },
+  {
+    "name": "Davtashen",
+    "country": "AM",
+    "lat": 40.21642,
+    "lng": 44.48088
+  },
+  {
+    "name": "Darpas",
+    "country": "AM",
+    "lat": 40.83674,
+    "lng": 44.42494
+  },
+  {
+    "name": "Darbnik",
+    "country": "AM",
+    "lat": 40.10828,
+    "lng": 44.37793
+  },
+  {
+    "name": "Dalarik",
+    "country": "AM",
+    "lat": 40.22648,
+    "lng": 43.8719
+  },
+  {
+    "name": "Darakert",
+    "country": "AM",
+    "lat": 40.10553,
+    "lng": 44.41388
+  },
+  {
+    "name": "Dashtavan",
+    "country": "AM",
+    "lat": 40.1001,
+    "lng": 44.39172
+  },
+  {
+    "name": "Dala",
+    "country": "AO",
+    "lat": -11.03333,
+    "lng": 20.2
+  },
+  {
+    "name": "Damba",
+    "country": "AO",
+    "lat": -6.67868,
+    "lng": 15.13128
+  },
+  {
+    "name": "Dala",
+    "country": "AO",
+    "lat": -13.78333,
+    "lng": 16.71667
+  },
+  {
+    "name": "Darwin",
+    "country": "AR",
+    "lat": -39.20334,
+    "lng": -65.73952
+  },
+  {
+    "name": "Dalmacio Vélez",
+    "country": "AR",
+    "lat": -32.60858,
+    "lng": -63.58344
+  },
+  {
+    "name": "Daireaux",
+    "country": "AR",
+    "lat": -36.60023,
+    "lng": -61.74997
+  },
+  {
+    "name": "Dalaas",
+    "country": "AT",
+    "lat": 47.12446,
+    "lng": 9.99104
+  },
+  {
+    "name": "Damüls",
+    "country": "AT",
+    "lat": 47.28034,
+    "lng": 9.89164
+  },
+  {
+    "name": "Darwin",
+    "country": "AU",
+    "lat": -12.46113,
+    "lng": 130.84185
+  },
+  {
+    "name": "Darlington",
+    "country": "AU",
+    "lat": -35.03151,
+    "lng": 138.55527
+  },
+  {
+    "name": "Darlington",
+    "country": "AU",
+    "lat": -31.91906,
+    "lng": 116.0812
+  },
+  {
+    "name": "Dampier",
+    "country": "AU",
+    "lat": -20.66275,
+    "lng": 116.71256
+  },
+  {
+    "name": "Dalkeith",
+    "country": "AU",
+    "lat": -31.99517,
+    "lng": 115.7998
+  },
+  {
+    "name": "Daylesford",
+    "country": "AU",
+    "lat": -37.34113,
+    "lng": 144.14256
+  },
+  {
+    "name": "Dayboro",
+    "country": "AU",
+    "lat": -27.19632,
+    "lng": 152.82253
+  },
+  {
+    "name": "Davistown",
+    "country": "AU",
+    "lat": -33.48559,
+    "lng": 151.36151
+  },
+  {
+    "name": "Davidson",
+    "country": "AU",
+    "lat": -33.74297,
+    "lng": 151.2008
+  },
+  {
+    "name": "Darra",
+    "country": "AU",
+    "lat": -27.56693,
+    "lng": 152.95395
+  },
+  {
+    "name": "Darlington Point",
+    "country": "AU",
+    "lat": -34.56942,
+    "lng": 145.9987
+  },
+  {
+    "name": "Darlinghurst",
+    "country": "AU",
+    "lat": -33.87939,
+    "lng": 151.21925
+  },
+  {
+    "name": "Darley",
+    "country": "AU",
+    "lat": -37.65807,
+    "lng": 144.44344
+  },
+  {
+    "name": "Dapto",
+    "country": "AU",
+    "lat": -34.50386,
+    "lng": 150.79416
+  },
+  {
+    "name": "Dandenong",
+    "country": "AU",
+    "lat": -37.98333,
+    "lng": 145.2
+  },
+  {
+    "name": "Dalby",
+    "country": "AU",
+    "lat": -27.18169,
+    "lng": 151.26205
+  },
+  {
+    "name": "Dakabin",
+    "country": "AU",
+    "lat": -27.22594,
+    "lng": 152.99097
+  },
+  {
+    "name": "Daceyville",
+    "country": "AU",
+    "lat": -33.92879,
+    "lng": 151.22577
+  },
+  {
+    "name": "Darling Point",
+    "country": "AU",
+    "lat": -33.87064,
+    "lng": 151.23895
+  },
+  {
+    "name": "Dawesville",
+    "country": "AU",
+    "lat": -32.63229,
+    "lng": 115.62904
+  },
+  {
+    "name": "Dalmeny",
+    "country": "AU",
+    "lat": -36.16608,
+    "lng": 150.12912
+  },
+  {
+    "name": "Daw Park",
+    "country": "AU",
+    "lat": -34.98975,
+    "lng": 138.58407
+  },
+  {
+    "name": "Daisy Hill",
+    "country": "AU",
+    "lat": -27.63026,
+    "lng": 153.15784
+  },
+  {
+    "name": "Davoren Park",
+    "country": "AU",
+    "lat": -34.69063,
+    "lng": 138.66862
+  },
+  {
+    "name": "Dampier Peninsula",
+    "country": "AU",
+    "lat": -16.93241,
+    "lng": 122.86559
+  },
+  {
+    "name": "Dallas",
+    "country": "AU",
+    "lat": -37.67083,
+    "lng": 144.93542
+  },
+  {
+    "name": "Darch",
+    "country": "AU",
+    "lat": -31.81255,
+    "lng": 115.8458
+  },
+  {
+    "name": "Darling Downs",
+    "country": "AU",
+    "lat": -32.19442,
+    "lng": 115.99187
+  },
+  {
+    "name": "Dalyellup",
+    "country": "AU",
+    "lat": -33.40844,
+    "lng": 115.61506
+  },
+  {
+    "name": "Dandenong North",
+    "country": "AU",
+    "lat": -37.96649,
+    "lng": 145.2081
+  },
+  {
+    "name": "Darlington",
+    "country": "AU",
+    "lat": -33.89103,
+    "lng": 151.19548
+  },
+  {
+    "name": "Daglish",
+    "country": "AU",
+    "lat": -31.95177,
+    "lng": 115.8088
+  },
+  {
+    "name": "Dayton",
+    "country": "AU",
+    "lat": -31.85251,
+    "lng": 115.97494
+  },
+  {
+    "name": "Darling Heights",
+    "country": "AU",
+    "lat": -27.59659,
+    "lng": 151.93045
+  },
+  {
+    "name": "Daverdisse",
+    "country": "BE",
+    "lat": 50.02161,
+    "lng": 5.11811
+  },
+  {
+    "name": "Dave",
+    "country": "BE",
+    "lat": 50.4147,
+    "lng": 4.88789
+  },
+  {
+    "name": "Dampremy",
+    "country": "BE",
+    "lat": 50.41705,
+    "lng": 4.43092
+  },
+  {
+    "name": "Damme",
+    "country": "BE",
+    "lat": 51.25147,
+    "lng": 3.28144
+  },
+  {
+    "name": "Dalhem",
+    "country": "BE",
+    "lat": 50.71315,
+    "lng": 5.72774
+  },
+  {
+    "name": "Dadizele",
+    "country": "BE",
+    "lat": 50.85138,
+    "lng": 3.09468
+  },
+  {
+    "name": "Dapélogo",
+    "country": "BF",
+    "lat": 12.67274,
+    "lng": -1.53907
+  },
+  {
+    "name": "Dano",
+    "country": "BF",
+    "lat": 11.1464,
+    "lng": -3.05784
+  },
+  {
+    "name": "Dalgopol",
+    "country": "BG",
+    "lat": 43.05,
+    "lng": 27.35
+  },
+  {
+    "name": "Dassa-Zoumè",
+    "country": "BJ",
+    "lat": 7.75,
+    "lng": 2.18333
+  },
+  {
+    "name": "Darcinópolis",
+    "country": "BR",
+    "lat": -6.70707,
+    "lng": -47.74927
+  },
+  {
+    "name": "David Canabarro",
+    "country": "BR",
+    "lat": -28.38881,
+    "lng": -51.84703
+  },
+  {
+    "name": "Datas",
+    "country": "BR",
+    "lat": -18.44556,
+    "lng": -43.65583
+  },
+  {
+    "name": "Damolândia",
+    "country": "BR",
+    "lat": -16.2525,
+    "lng": -49.37
+  },
+  {
+    "name": "Damianópolis",
+    "country": "BR",
+    "lat": -14.56389,
+    "lng": -46.17722
+  },
+  {
+    "name": "Damião",
+    "country": "BR",
+    "lat": -6.60278,
+    "lng": -35.93667
+  },
+  {
+    "name": "Davinópolis",
+    "country": "BR",
+    "lat": -18.15306,
+    "lng": -47.56167
+  },
+  {
+    "name": "Damião",
+    "country": "BR",
+    "lat": -6.63167,
+    "lng": -35.9049
+  },
+  {
+    "name": "Davinópolis",
+    "country": "BR",
+    "lat": -5.52587,
+    "lng": -47.39101
+  },
+  {
+    "name": "Daga",
+    "country": "BT",
+    "lat": 27.07529,
+    "lng": 89.87688
+  },
+  {
+    "name": "Daphu",
+    "country": "BT",
+    "lat": 26.96667,
+    "lng": 89.38333
+  },
+  {
+    "name": "Damachava",
+    "country": "BY",
+    "lat": 51.75,
+    "lng": 23.6
+  },
+  {
+    "name": "Davyd-Haradok",
+    "country": "BY",
+    "lat": 52.0566,
+    "lng": 27.2161
+  },
+  {
+    "name": "Dashkawka",
+    "country": "BY",
+    "lat": 53.7352,
+    "lng": 30.2625
+  },
+  {
+    "name": "Dangriga",
+    "country": "BZ",
+    "lat": 16.9697,
+    "lng": -88.23313
+  },
+  {
+    "name": "Dallas",
+    "country": "CA",
+    "lat": 50.66648,
+    "lng": -120.16919
+  },
+  {
+    "name": "Dalmeny",
+    "country": "CA",
+    "lat": 52.34077,
+    "lng": -106.7712
+  },
+  {
+    "name": "Danville",
+    "country": "CA",
+    "lat": 45.78337,
+    "lng": -72.0158
+  },
+  {
+    "name": "Dartmouth",
+    "country": "CA",
+    "lat": 44.67134,
+    "lng": -63.57719
+  },
+  {
+    "name": "Dauphin",
+    "country": "CA",
+    "lat": 51.14941,
+    "lng": -100.05023
+  },
+  {
+    "name": "Daveluyville",
+    "country": "CA",
+    "lat": 46.20006,
+    "lng": -72.13239
+  },
+  {
+    "name": "Dawson Creek",
+    "country": "CA",
+    "lat": 55.75984,
+    "lng": -120.2403
+  },
+  {
+    "name": "Dalhousie",
+    "country": "CA",
+    "lat": 48.06442,
+    "lng": -66.37495
+  },
+  {
+    "name": "Dawson City",
+    "country": "CA",
+    "lat": 64.06013,
+    "lng": -139.43328
+  },
+  {
+    "name": "Danforth",
+    "country": "CA",
+    "lat": 43.68403,
+    "lng": -79.32982
+  },
+  {
+    "name": "Danforth East York",
+    "country": "CA",
+    "lat": 43.68947,
+    "lng": -79.3314
+  },
+  {
+    "name": "Damara",
+    "country": "CF",
+    "lat": 4.96075,
+    "lng": 18.7035
+  },
+  {
+    "name": "Davos",
+    "country": "CH",
+    "lat": 46.80429,
+    "lng": 9.83723
+  },
+  {
+    "name": "Dardagny",
+    "country": "CH",
+    "lat": 46.19564,
+    "lng": 5.99497
+  },
+  {
+    "name": "Dallenwil",
+    "country": "CH",
+    "lat": 46.9242,
+    "lng": 8.38785
+  },
+  {
+    "name": "Dagmersellen",
+    "country": "CH",
+    "lat": 47.21405,
+    "lng": 7.98519
+  },
+  {
+    "name": "Dachsen",
+    "country": "CH",
+    "lat": 47.66515,
+    "lng": 8.6179
+  },
+  {
+    "name": "Dawara",
+    "country": "CI",
+    "lat": 8.28325,
+    "lng": -6.07373
+  },
+  {
+    "name": "Danguira",
+    "country": "CI",
+    "lat": 5.67033,
+    "lng": -3.76763
+  },
+  {
+    "name": "Dakouépleu",
+    "country": "CI",
+    "lat": 7.18522,
+    "lng": -7.5726
+  },
+  {
+    "name": "Daso",
+    "country": "CI",
+    "lat": 7.98428,
+    "lng": -6.89452
+  },
+  {
+    "name": "Dassoungboho",
+    "country": "CI",
+    "lat": 9.38861,
+    "lng": -5.78584
+  },
+  {
+    "name": "Daridougou",
+    "country": "CI",
+    "lat": 8.17492,
+    "lng": -3.62796
+  },
+  {
+    "name": "Darala",
+    "country": "CI",
+    "lat": 8.44417,
+    "lng": -4.36233
+  },
+  {
+    "name": "Darakokaha",
+    "country": "CI",
+    "lat": 8.28921,
+    "lng": -5.15868
+  },
+  {
+    "name": "Daragboué",
+    "country": "CI",
+    "lat": 9.07862,
+    "lng": -6.30706
+  },
+  {
+    "name": "Dapéoua",
+    "country": "CI",
+    "lat": 6.13774,
+    "lng": -6.87847
+  },
+  {
+    "name": "Daouo",
+    "country": "CI",
+    "lat": 7.40348,
+    "lng": -6.61788
+  },
+  {
+    "name": "Daoungbeu",
+    "country": "CI",
+    "lat": 6.76839,
+    "lng": -6.85474
+  },
+  {
+    "name": "Daoulébo",
+    "country": "CI",
+    "lat": 7.20138,
+    "lng": -4.00592
+  },
+  {
+    "name": "Daoukro",
+    "country": "CI",
+    "lat": 7.0591,
+    "lng": -3.9631
+  },
+  {
+    "name": "Daouakro",
+    "country": "CI",
+    "lat": 7.04338,
+    "lng": -4.40542
+  },
+  {
+    "name": "Daoro",
+    "country": "CI",
+    "lat": 5.19159,
+    "lng": -6.81734
+  },
+  {
+    "name": "Dahopa",
+    "country": "CI",
+    "lat": 6.15742,
+    "lng": -5.8486
+  },
+  {
+    "name": "Daobli",
+    "country": "CI",
+    "lat": 5.88205,
+    "lng": -7.4756
+  },
+  {
+    "name": "Danzourou",
+    "country": "CI",
+    "lat": 10.43194,
+    "lng": -6.34972
+  },
+  {
+    "name": "Dantongouiné",
+    "country": "CI",
+    "lat": 7.65517,
+    "lng": -8.09705
+  },
+  {
+    "name": "Danipleu",
+    "country": "CI",
+    "lat": 7.4973,
+    "lng": -8.40799
+  },
+  {
+    "name": "Dania",
+    "country": "CI",
+    "lat": 7.15082,
+    "lng": -6.84125
+  },
+  {
+    "name": "Danguineu",
+    "country": "CI",
+    "lat": 7.28915,
+    "lng": -8.1955
+  },
+  {
+    "name": "Dangoukro",
+    "country": "CI",
+    "lat": 7.53833,
+    "lng": -4.29196
+  },
+  {
+    "name": "Dandougou",
+    "country": "CI",
+    "lat": 8.38361,
+    "lng": -5.90125
+  },
+  {
+    "name": "Dantogo",
+    "country": "CI",
+    "lat": 7.81135,
+    "lng": -6.2224
+  },
+  {
+    "name": "Dananon",
+    "country": "CI",
+    "lat": 7.61072,
+    "lng": -6.36333
+  },
+  {
+    "name": "Danané",
+    "country": "CI",
+    "lat": 7.25957,
+    "lng": -8.15498
+  },
+  {
+    "name": "Damé",
+    "country": "CI",
+    "lat": 7.07085,
+    "lng": -3.14883
+  },
+  {
+    "name": "Dalou",
+    "country": "CI",
+    "lat": 6.75146,
+    "lng": -3.78743
+  },
+  {
+    "name": "Daloa",
+    "country": "CI",
+    "lat": 6.87735,
+    "lng": -6.45022
+  },
+  {
+    "name": "Daligépalenyoa",
+    "country": "CI",
+    "lat": 5.83389,
+    "lng": -5.93635
+  },
+  {
+    "name": "Dalia",
+    "country": "CI",
+    "lat": 6.28885,
+    "lng": -6.51586
+  },
+  {
+    "name": "Daleu",
+    "country": "CI",
+    "lat": 7.51085,
+    "lng": -8.10603
+  },
+  {
+    "name": "Dalawaré",
+    "country": "CI",
+    "lat": 8.16251,
+    "lng": -3.83426
+  },
+  {
+    "name": "Dalangbo",
+    "country": "CI",
+    "lat": 9.06605,
+    "lng": -5.61332
+  },
+  {
+    "name": "Dakpadou",
+    "country": "CI",
+    "lat": 5.25664,
+    "lng": -6.06774
+  },
+  {
+    "name": "Dakoulitrohoin",
+    "country": "CI",
+    "lat": 5.97105,
+    "lng": -5.59673
+  },
+  {
+    "name": "Dairo",
+    "country": "CI",
+    "lat": 5.66059,
+    "lng": -5.47393
+  },
+  {
+    "name": "Dahiri",
+    "country": "CI",
+    "lat": 5.26206,
+    "lng": -5.52897
+  },
+  {
+    "name": "Dahoua",
+    "country": "CI",
+    "lat": 6.68253,
+    "lng": -7.34761
+  },
+  {
+    "name": "Dakougoume",
+    "country": "CI",
+    "lat": 7.10375,
+    "lng": -7.98071
+  },
+  {
+    "name": "Dagbao I",
+    "country": "CI",
+    "lat": 5.56025,
+    "lng": -6.02111
+  },
+  {
+    "name": "Dagbaboua",
+    "country": "CI",
+    "lat": 6.73594,
+    "lng": -6.47014
+  },
+  {
+    "name": "Dagba",
+    "country": "CI",
+    "lat": 9.24503,
+    "lng": -5.96465
+  },
+  {
+    "name": "Dafrahinou Darinsala",
+    "country": "CI",
+    "lat": 6.43243,
+    "lng": -7.08849
+  },
+  {
+    "name": "Dadressio",
+    "country": "CI",
+    "lat": 5.50288,
+    "lng": -2.83359
+  },
+  {
+    "name": "Dadiékro",
+    "country": "CI",
+    "lat": 7.68058,
+    "lng": -4.34516
+  },
+  {
+    "name": "Dadiassé",
+    "country": "CI",
+    "lat": 7.8128,
+    "lng": -2.94769
+  },
+  {
+    "name": "Dadéguhé",
+    "country": "CI",
+    "lat": 6.51917,
+    "lng": -6.75076
+  },
+  {
+    "name": "Dabouzra",
+    "country": "CI",
+    "lat": 6.93826,
+    "lng": -5.98661
+  },
+  {
+    "name": "Dabou",
+    "country": "CI",
+    "lat": 5.32556,
+    "lng": -4.37685
+  },
+  {
+    "name": "Dabori",
+    "country": "CI",
+    "lat": 5.83606,
+    "lng": -5.43984
+  },
+  {
+    "name": "Dabégo",
+    "country": "CI",
+    "lat": 4.9956,
+    "lng": -5.97392
+  },
+  {
+    "name": "Dabakala",
+    "country": "CI",
+    "lat": 8.36321,
+    "lng": -4.42863
+  },
+  {
+    "name": "Da",
+    "country": "CI",
+    "lat": 6.97453,
+    "lng": -7.5465
+  },
+  {
+    "name": "Dahira",
+    "country": "CI",
+    "lat": 6.54137,
+    "lng": -6.32131
+  },
+  {
+    "name": "Dainé II",
+    "country": "CI",
+    "lat": 7.42997,
+    "lng": -7.60525
+  },
+  {
+    "name": "Dagadji",
+    "country": "CI",
+    "lat": 5.12569,
+    "lng": -6.81483
+  },
+  {
+    "name": "Dapo-Iboké",
+    "country": "CI",
+    "lat": 4.72959,
+    "lng": -7.38578
+  },
+  {
+    "name": "Dahili",
+    "country": "CI",
+    "lat": 5.50267,
+    "lng": -6.78421
+  },
+  {
+    "name": "Dahiépa-Kéhi",
+    "country": "CI",
+    "lat": 6.21256,
+    "lng": -5.84627
+  },
+  {
+    "name": "Daako",
+    "country": "CI",
+    "lat": 6.07822,
+    "lng": -5.18439
+  },
+  {
+    "name": "Datta",
+    "country": "CI",
+    "lat": 5.9363,
+    "lng": -5.32465
+  },
+  {
+    "name": "Daguikoi",
+    "country": "CI",
+    "lat": 6.28497,
+    "lng": -3.98031
+  },
+  {
+    "name": "Datouzon",
+    "country": "CI",
+    "lat": 7.28136,
+    "lng": -7.35877
+  },
+  {
+    "name": "Dagbaplé",
+    "country": "CI",
+    "lat": 9.57357,
+    "lng": -5.82126
+  },
+  {
+    "name": "Dar Es",
+    "country": "CI",
+    "lat": 7.98308,
+    "lng": -6.90316
+  },
+  {
+    "name": "Dangrézo",
+    "country": "CI",
+    "lat": 8.0504,
+    "lng": -7.09243
+  },
+  {
+    "name": "Dalcahue",
+    "country": "CL",
+    "lat": -42.37845,
+    "lng": -73.65011
+  },
+  {
+    "name": "Darya Boyi",
+    "country": "CN",
+    "lat": 38.38333,
+    "lng": 82.0
+  },
+  {
+    "name": "Dagzê",
+    "country": "CN",
+    "lat": 29.67329,
+    "lng": 91.34531
+  },
+  {
+    "name": "Dartang",
+    "country": "CN",
+    "lat": 31.93333,
+    "lng": 94.0
+  },
+  {
+    "name": "Dangchengwan",
+    "country": "CN",
+    "lat": 39.50011,
+    "lng": 95.04081
+  },
+  {
+    "name": "Damxung",
+    "country": "CN",
+    "lat": 30.47797,
+    "lng": 91.1055
+  },
+  {
+    "name": "Dabancheng",
+    "country": "CN",
+    "lat": 43.35623,
+    "lng": 88.30464
+  },
+  {
+    "name": "Dadamtu",
+    "country": "CN",
+    "lat": 43.98028,
+    "lng": 81.31417
+  },
+  {
+    "name": "Daizhuang",
+    "country": "CN",
+    "lat": 34.51389,
+    "lng": 117.85278
+  },
+  {
+    "name": "Dazhu",
+    "country": "CN",
+    "lat": 30.73597,
+    "lng": 107.2064
+  },
+  {
+    "name": "Danzhu",
+    "country": "CN",
+    "lat": 36.1245,
+    "lng": 112.86101
+  },
+  {
+    "name": "Daxin",
+    "country": "CN",
+    "lat": 22.83278,
+    "lng": 107.19646
+  },
+  {
+    "name": "Dachang Shandao",
+    "country": "CN",
+    "lat": 39.27556,
+    "lng": 122.6
+  },
+  {
+    "name": "Dadukou",
+    "country": "CN",
+    "lat": 26.5479,
+    "lng": 101.70539
+  },
+  {
+    "name": "Daxing",
+    "country": "CN",
+    "lat": 22.96916,
+    "lng": 102.40611
+  },
+  {
+    "name": "Dasha",
+    "country": "CN",
+    "lat": 23.11037,
+    "lng": 113.4418
+  },
+  {
+    "name": "Daxing",
+    "country": "CN",
+    "lat": 39.74025,
+    "lng": 116.32693
+  },
+  {
+    "name": "Dahuaishu",
+    "country": "CN",
+    "lat": 36.26556,
+    "lng": 111.67528
+  },
+  {
+    "name": "Dawu Chengguanzhen",
+    "country": "CN",
+    "lat": 31.60965,
+    "lng": 114.11806
+  },
+  {
+    "name": "Dazuocun",
+    "country": "CN",
+    "lat": 24.88825,
+    "lng": 118.9672
+  },
+  {
+    "name": "Dazhou",
+    "country": "CN",
+    "lat": 30.87887,
+    "lng": 108.49841
+  },
+  {
+    "name": "Dazhongzhuang",
+    "country": "CN",
+    "lat": 39.68083,
+    "lng": 117.56417
+  },
+  {
+    "name": "Dazhong",
+    "country": "CN",
+    "lat": 33.19973,
+    "lng": 120.4578
+  },
+  {
+    "name": "Dazhe",
+    "country": "CN",
+    "lat": 24.57556,
+    "lng": 115.89184
+  },
+  {
+    "name": "Dayou",
+    "country": "CN",
+    "lat": 28.9895,
+    "lng": 107.33006
+  },
+  {
+    "name": "Daying",
+    "country": "CN",
+    "lat": 34.72177,
+    "lng": 111.10295
+  },
+  {
+    "name": "Daye",
+    "country": "CN",
+    "lat": 30.08333,
+    "lng": 114.95
+  },
+  {
+    "name": "Dayanggezhuang",
+    "country": "CN",
+    "lat": 39.81889,
+    "lng": 117.42361
+  },
+  {
+    "name": "Daxing",
+    "country": "CN",
+    "lat": 27.26369,
+    "lng": 100.86387
+  },
+  {
+    "name": "Daxie",
+    "country": "CN",
+    "lat": 30.07292,
+    "lng": 108.11027
+  },
+  {
+    "name": "Dazhou",
+    "country": "CN",
+    "lat": 31.2106,
+    "lng": 107.46308
+  },
+  {
+    "name": "Daxi",
+    "country": "CN",
+    "lat": 30.99938,
+    "lng": 109.63805
+  },
+  {
+    "name": "Dawukou",
+    "country": "CN",
+    "lat": 39.04194,
+    "lng": 106.39583
+  },
+  {
+    "name": "Dawu",
+    "country": "CN",
+    "lat": 34.46623,
+    "lng": 100.22993
+  },
+  {
+    "name": "Dawangtai",
+    "country": "CN",
+    "lat": 39.27504,
+    "lng": 117.48502
+  },
+  {
+    "name": "Datun",
+    "country": "CN",
+    "lat": 34.80923,
+    "lng": 116.90174
+  },
+  {
+    "name": "Datong",
+    "country": "CN",
+    "lat": 32.62082,
+    "lng": 117.06319
+  },
+  {
+    "name": "Datianzhuang",
+    "country": "CN",
+    "lat": 39.2725,
+    "lng": 117.75361
+  },
+  {
+    "name": "Datangzhuang",
+    "country": "CN",
+    "lat": 39.39944,
+    "lng": 117.43417
+  },
+  {
+    "name": "Dasi",
+    "country": "CN",
+    "lat": 39.01821,
+    "lng": 117.23768
+  },
+  {
+    "name": "Dashun",
+    "country": "CN",
+    "lat": 29.57007,
+    "lng": 107.04542
+  },
+  {
+    "name": "Dashentang",
+    "country": "CN",
+    "lat": 39.21722,
+    "lng": 117.9525
+  },
+  {
+    "name": "Dashan",
+    "country": "CN",
+    "lat": 23.00238,
+    "lng": 100.11489
+  },
+  {
+    "name": "Darong",
+    "country": "CN",
+    "lat": 25.785,
+    "lng": 108.864
+  },
+  {
+    "name": "Darenzhuang",
+    "country": "CN",
+    "lat": 39.03889,
+    "lng": 117.25194
+  },
+  {
+    "name": "Daqiao",
+    "country": "CN",
+    "lat": 33.74631,
+    "lng": 105.27866
+  },
+  {
+    "name": "Daqiao",
+    "country": "CN",
+    "lat": 26.615,
+    "lng": 118.90639
+  },
+  {
+    "name": "Dabaozi",
+    "country": "CN",
+    "lat": 26.69556,
+    "lng": 109.44778
+  },
+  {
+    "name": "Daotian",
+    "country": "CN",
+    "lat": 36.83389,
+    "lng": 118.89778
+  },
+  {
+    "name": "Daokou",
+    "country": "CN",
+    "lat": 35.56895,
+    "lng": 114.51593
+  },
+  {
+    "name": "Daojiang",
+    "country": "CN",
+    "lat": 25.49603,
+    "lng": 111.55146
+  },
+  {
+    "name": "Danyang",
+    "country": "CN",
+    "lat": 26.35102,
+    "lng": 119.4803
+  },
+  {
+    "name": "Danshui",
+    "country": "CN",
+    "lat": 22.7984,
+    "lng": 114.46716
+  },
+  {
+    "name": "Danjiangkou",
+    "country": "CN",
+    "lat": 32.54278,
+    "lng": 111.50861
+  },
+  {
+    "name": "Dangcheng",
+    "country": "CN",
+    "lat": 34.42787,
+    "lng": 116.37657
+  },
+  {
+    "name": "Dangjiang",
+    "country": "CN",
+    "lat": 21.65,
+    "lng": 109.11667
+  },
+  {
+    "name": "Danfeng",
+    "country": "CN",
+    "lat": 24.83054,
+    "lng": 104.0082
+  },
+  {
+    "name": "Danxi",
+    "country": "CN",
+    "lat": 29.47472,
+    "lng": 121.86556
+  },
+  {
+    "name": "Daming",
+    "country": "CN",
+    "lat": 36.28509,
+    "lng": 115.14454
+  },
+  {
+    "name": "Damiao",
+    "country": "CN",
+    "lat": 34.26411,
+    "lng": 117.36379
+  },
+  {
+    "name": "Damai",
+    "country": "CN",
+    "lat": 35.20007,
+    "lng": 102.66414
+  },
+  {
+    "name": "Dalu",
+    "country": "CN",
+    "lat": 29.72984,
+    "lng": 106.2177
+  },
+  {
+    "name": "Daliang",
+    "country": "CN",
+    "lat": 39.53944,
+    "lng": 117.095
+  },
+  {
+    "name": "Daliang",
+    "country": "CN",
+    "lat": 22.84067,
+    "lng": 113.2503
+  },
+  {
+    "name": "Dalian",
+    "country": "CN",
+    "lat": 38.91222,
+    "lng": 121.60222
+  },
+  {
+    "name": "Dali",
+    "country": "CN",
+    "lat": 34.79586,
+    "lng": 109.93895
+  },
+  {
+    "name": "Dali",
+    "country": "CN",
+    "lat": 25.58474,
+    "lng": 100.21229
+  },
+  {
+    "name": "Dala",
+    "country": "CN",
+    "lat": 33.88333,
+    "lng": 103.33333
+  },
+  {
+    "name": "Dakoutun",
+    "country": "CN",
+    "lat": 39.58333,
+    "lng": 117.22889
+  },
+  {
+    "name": "Dajin",
+    "country": "CN",
+    "lat": 31.50955,
+    "lng": 108.44579
+  },
+  {
+    "name": "Dajie",
+    "country": "CN",
+    "lat": 24.29623,
+    "lng": 102.75064
+  },
+  {
+    "name": "Dajianchang",
+    "country": "CN",
+    "lat": 39.47778,
+    "lng": 117.08306
+  },
+  {
+    "name": "Dajia",
+    "country": "CN",
+    "lat": 26.36667,
+    "lng": 108.85
+  },
+  {
+    "name": "Daiyue",
+    "country": "CN",
+    "lat": 39.52038,
+    "lng": 112.81684
+  },
+  {
+    "name": "Daixi",
+    "country": "CN",
+    "lat": 26.8125,
+    "lng": 119.11417
+  },
+  {
+    "name": "Daishan",
+    "country": "CN",
+    "lat": 30.24589,
+    "lng": 122.19895
+  },
+  {
+    "name": "Dahuangshan",
+    "country": "CN",
+    "lat": 34.29341,
+    "lng": 117.34436
+  },
+  {
+    "name": "Dahuangpu",
+    "country": "CN",
+    "lat": 39.44111,
+    "lng": 117.27778
+  },
+  {
+    "name": "Dahua",
+    "country": "CN",
+    "lat": 23.73773,
+    "lng": 107.9941
+  },
+  {
+    "name": "Daguan",
+    "country": "CN",
+    "lat": 29.255,
+    "lng": 106.97694
+  },
+  {
+    "name": "Dazhasi",
+    "country": "CN",
+    "lat": 33.57795,
+    "lng": 102.96412
+  },
+  {
+    "name": "Dafengdong",
+    "country": "CN",
+    "lat": 26.71194,
+    "lng": 107.81139
+  },
+  {
+    "name": "Dadunqiu",
+    "country": "CN",
+    "lat": 39.40611,
+    "lng": 117.03306
+  },
+  {
+    "name": "Dadeng",
+    "country": "CN",
+    "lat": 24.54386,
+    "lng": 118.32753
+  },
+  {
+    "name": "Dachang",
+    "country": "CN",
+    "lat": 39.88686,
+    "lng": 116.98203
+  },
+  {
+    "name": "Dachang",
+    "country": "CN",
+    "lat": 31.26861,
+    "lng": 109.8021
+  },
+  {
+    "name": "Dabizhuang",
+    "country": "CN",
+    "lat": 39.19306,
+    "lng": 117.25583
+  },
+  {
+    "name": "Dabao’anzhen",
+    "country": "CN",
+    "lat": 39.89944,
+    "lng": 117.47639
+  },
+  {
+    "name": "Dabaizhuang",
+    "country": "CN",
+    "lat": 39.44472,
+    "lng": 117.38028
+  },
+  {
+    "name": "Dabachang",
+    "country": "CN",
+    "lat": 27.7425,
+    "lng": 108.34333
+  },
+  {
+    "name": "Da’an",
+    "country": "CN",
+    "lat": 29.3831,
+    "lng": 106.01476
+  },
+  {
+    "name": "Dacheng",
+    "country": "CN",
+    "lat": 19.50927,
+    "lng": 109.39275
+  },
+  {
+    "name": "Dahedian",
+    "country": "CN",
+    "lat": 33.65333,
+    "lng": 106.04972
+  },
+  {
+    "name": "Damiao",
+    "country": "CN",
+    "lat": 29.6443,
+    "lng": 106.06956
+  },
+  {
+    "name": "Daxing",
+    "country": "CN",
+    "lat": 29.55605,
+    "lng": 106.16002
+  },
+  {
+    "name": "Dashi",
+    "country": "CN",
+    "lat": 34.8975,
+    "lng": 105.18639
+  },
+  {
+    "name": "Dazhuang",
+    "country": "CN",
+    "lat": 34.95889,
+    "lng": 105.33611
+  },
+  {
+    "name": "Dasheng",
+    "country": "CN",
+    "lat": 29.89029,
+    "lng": 106.89727
+  },
+  {
+    "name": "Dalianwan",
+    "country": "CN",
+    "lat": 39.02861,
+    "lng": 121.695
+  },
+  {
+    "name": "Daxi",
+    "country": "CN",
+    "lat": 29.09405,
+    "lng": 109.14797
+  },
+  {
+    "name": "Dazhaicun",
+    "country": "CN",
+    "lat": 25.80829,
+    "lng": 110.15225
+  },
+  {
+    "name": "Daihai",
+    "country": "CN",
+    "lat": 40.52111,
+    "lng": 112.49306
+  },
+  {
+    "name": "Dawa",
+    "country": "CN",
+    "lat": 40.99373,
+    "lng": 122.06804
+  },
+  {
+    "name": "Datong",
+    "country": "CN",
+    "lat": 46.03709,
+    "lng": 124.80603
+  },
+  {
+    "name": "Datong",
+    "country": "CN",
+    "lat": 40.09361,
+    "lng": 113.29139
+  },
+  {
+    "name": "Dashitou",
+    "country": "CN",
+    "lat": 43.30667,
+    "lng": 128.51139
+  },
+  {
+    "name": "Dashiqiao",
+    "country": "CN",
+    "lat": 40.63732,
+    "lng": 122.50251
+  },
+  {
+    "name": "Daqin Tal",
+    "country": "CN",
+    "lat": 42.88719,
+    "lng": 120.67466
+  },
+  {
+    "name": "Daqing",
+    "country": "CN",
+    "lat": 46.58333,
+    "lng": 125.0
+  },
+  {
+    "name": "Dandong",
+    "country": "CN",
+    "lat": 40.12917,
+    "lng": 124.39472
+  },
+  {
+    "name": "Dalain Hob",
+    "country": "CN",
+    "lat": 41.96528,
+    "lng": 101.06389
+  },
+  {
+    "name": "Dalai",
+    "country": "CN",
+    "lat": 45.5,
+    "lng": 124.3
+  },
+  {
+    "name": "Dailing",
+    "country": "CN",
+    "lat": 47.02389,
+    "lng": 129.01904
+  },
+  {
+    "name": "Daban",
+    "country": "CN",
+    "lat": 43.53333,
+    "lng": 118.66667
+  },
+  {
+    "name": "Dachuan",
+    "country": "CN",
+    "lat": 31.19821,
+    "lng": 107.50597
+  },
+  {
+    "name": "Dayu",
+    "country": "CN",
+    "lat": 33.83125,
+    "lng": 104.03957
+  },
+  {
+    "name": "Dachuan",
+    "country": "CN",
+    "lat": 33.7162,
+    "lng": 104.4362
+  },
+  {
+    "name": "Dananyu",
+    "country": "CN",
+    "lat": 33.43112,
+    "lng": 105.75843
+  },
+  {
+    "name": "Dabao",
+    "country": "CN",
+    "lat": 33.4706,
+    "lng": 105.57654
+  },
+  {
+    "name": "Daogao",
+    "country": "CN",
+    "lat": 34.50267,
+    "lng": 103.12422
+  },
+  {
+    "name": "Dabagou",
+    "country": "CN",
+    "lat": 46.06946,
+    "lng": 121.91632
+  },
+  {
+    "name": "Dayu",
+    "country": "CN",
+    "lat": 39.9375,
+    "lng": 116.09669
+  },
+  {
+    "name": "Daocheng",
+    "country": "CN",
+    "lat": 29.0379,
+    "lng": 100.2974
+  },
+  {
+    "name": "Dangyang",
+    "country": "CN",
+    "lat": 31.4056,
+    "lng": 109.97781
+  },
+  {
+    "name": "Dashu",
+    "country": "CN",
+    "lat": 31.21093,
+    "lng": 109.32154
+  },
+  {
+    "name": "Dade",
+    "country": "CN",
+    "lat": 31.21288,
+    "lng": 108.34026
+  },
+  {
+    "name": "Danzi",
+    "country": "CN",
+    "lat": 30.857,
+    "lng": 108.00592
+  },
+  {
+    "name": "Dashi",
+    "country": "CN",
+    "lat": 30.19952,
+    "lng": 107.53622
+  },
+  {
+    "name": "Daguan",
+    "country": "CN",
+    "lat": 30.5547,
+    "lng": 107.80603
+  },
+  {
+    "name": "Daxi",
+    "country": "CN",
+    "lat": 28.80186,
+    "lng": 109.16837
+  },
+  {
+    "name": "Daya",
+    "country": "CN",
+    "lat": 29.02564,
+    "lng": 107.88601
+  },
+  {
+    "name": "Dawangzhuang",
+    "country": "CN",
+    "lat": 39.12703,
+    "lng": 117.21618
+  },
+  {
+    "name": "Dayingmen",
+    "country": "CN",
+    "lat": 39.10734,
+    "lng": 117.20958
+  },
+  {
+    "name": "Damu",
+    "country": "CN",
+    "lat": 29.61904,
+    "lng": 107.66316
+  },
+  {
+    "name": "Dandu",
+    "country": "CN",
+    "lat": 29.8367,
+    "lng": 107.14646
+  },
+  {
+    "name": "Dawan",
+    "country": "CN",
+    "lat": 30.01963,
+    "lng": 106.82023
+  },
+  {
+    "name": "Dashi",
+    "country": "CN",
+    "lat": 30.09372,
+    "lng": 106.22227
+  },
+  {
+    "name": "Damatou",
+    "country": "CN",
+    "lat": 28.59745,
+    "lng": 112.31831
+  },
+  {
+    "name": "Datong",
+    "country": "CN",
+    "lat": 28.59648,
+    "lng": 106.66749
+  },
+  {
+    "name": "Damoujia",
+    "country": "CN",
+    "lat": 36.54356,
+    "lng": 119.81326
+  },
+  {
+    "name": "Dali Old Town",
+    "country": "CN",
+    "lat": 25.68863,
+    "lng": 100.15894
+  },
+  {
+    "name": "Dapeng",
+    "country": "CN",
+    "lat": 34.28436,
+    "lng": 117.07522
+  },
+  {
+    "name": "Daxu",
+    "country": "CN",
+    "lat": 34.28239,
+    "lng": 117.55266
+  },
+  {
+    "name": "Dashahe",
+    "country": "CN",
+    "lat": 34.53847,
+    "lng": 116.62453
+  },
+  {
+    "name": "Dasheng",
+    "country": "CN",
+    "lat": 36.32,
+    "lng": 118.85541
+  },
+  {
+    "name": "Danbao",
+    "country": "CN",
+    "lat": 32.86088,
+    "lng": 104.77269
+  },
+  {
+    "name": "Dayang",
+    "country": "CN",
+    "lat": 34.98975,
+    "lng": 106.07205
+  },
+  {
+    "name": "Damusi",
+    "country": "CN",
+    "lat": 37.75555,
+    "lng": 76.6123
+  },
+  {
+    "name": "Daxing’anling",
+    "country": "CN",
+    "lat": 52.33385,
+    "lng": 124.71242
+  },
+  {
+    "name": "Dazeshan",
+    "country": "CN",
+    "lat": 36.98874,
+    "lng": 119.92224
+  },
+  {
+    "name": "Daoli",
+    "country": "CN",
+    "lat": 45.75587,
+    "lng": 126.60345
+  },
+  {
+    "name": "Daowai",
+    "country": "CN",
+    "lat": 45.78877,
+    "lng": 126.64448
+  },
+  {
+    "name": "Dazhou District",
+    "country": "CN",
+    "lat": 31.20885,
+    "lng": 107.46852
+  },
+  {
+    "name": "Dahe",
+    "country": "CN",
+    "lat": 31.50302,
+    "lng": 109.62094
+  },
+  {
+    "name": "Dalingxia",
+    "country": "CN",
+    "lat": 22.54337,
+    "lng": 114.00428
+  },
+  {
+    "name": "Darien",
+    "country": "CO",
+    "lat": 3.93135,
+    "lng": -76.48481
+  },
+  {
+    "name": "Dagua",
+    "country": "CO",
+    "lat": 3.65685,
+    "lng": -76.68859
+  },
+  {
+    "name": "Dabeiba",
+    "country": "CO",
+    "lat": 7.00017,
+    "lng": -76.26915
+  },
+  {
+    "name": "Daniel Flores",
+    "country": "CR",
+    "lat": 9.33607,
+    "lng": -83.66999
+  },
+  {
+    "name": "Davle",
+    "country": "CZ",
+    "lat": 49.89218,
+    "lng": 14.40037
+  },
+  {
+    "name": "Dašice",
+    "country": "CZ",
+    "lat": 50.02844,
+    "lng": 15.91244
+  },
+  {
+    "name": "Darkovice",
+    "country": "CZ",
+    "lat": 49.93592,
+    "lng": 18.22213
+  },
+  {
+    "name": "Dambořice",
+    "country": "CZ",
+    "lat": 49.03828,
+    "lng": 16.91757
+  },
+  {
+    "name": "Dalovice",
+    "country": "CZ",
+    "lat": 50.24779,
+    "lng": 12.89581
+  },
+  {
+    "name": "Dačice",
+    "country": "CZ",
+    "lat": 49.08154,
+    "lng": 15.43727
+  },
+  {
+    "name": "Dausenau",
+    "country": "DE",
+    "lat": 50.33333,
+    "lng": 7.76667
+  },
+  {
+    "name": "Daun",
+    "country": "DE",
+    "lat": 50.19716,
+    "lng": 6.82942
+  },
+  {
+    "name": "Dauchingen",
+    "country": "DE",
+    "lat": 48.08993,
+    "lng": 8.55011
+  },
+  {
+    "name": "Dattenberg",
+    "country": "DE",
+    "lat": 50.55362,
+    "lng": 7.29393
+  },
+  {
+    "name": "Datteln",
+    "country": "DE",
+    "lat": 51.65598,
+    "lng": 7.3453
+  },
+  {
+    "name": "Dassow",
+    "country": "DE",
+    "lat": 53.91096,
+    "lng": 10.97551
+  },
+  {
+    "name": "Dassendorf",
+    "country": "DE",
+    "lat": 53.49532,
+    "lng": 10.35987
+  },
+  {
+    "name": "Dassel",
+    "country": "DE",
+    "lat": 51.80179,
+    "lng": 9.68904
+  },
+  {
+    "name": "Dasing",
+    "country": "DE",
+    "lat": 48.38482,
+    "lng": 11.04667
+  },
+  {
+    "name": "Darmstadt",
+    "country": "DE",
+    "lat": 49.87167,
+    "lng": 8.65027
+  },
+  {
+    "name": "Darlingerode",
+    "country": "DE",
+    "lat": 51.84712,
+    "lng": 10.73097
+  },
+  {
+    "name": "Dargun",
+    "country": "DE",
+    "lat": 53.9009,
+    "lng": 12.85014
+  },
+  {
+    "name": "Dannewerk",
+    "country": "DE",
+    "lat": 54.48537,
+    "lng": 9.50636
+  },
+  {
+    "name": "Dannenberg",
+    "country": "DE",
+    "lat": 53.0967,
+    "lng": 11.09001
+  },
+  {
+    "name": "Danndorf",
+    "country": "DE",
+    "lat": 52.42472,
+    "lng": 10.91286
+  },
+  {
+    "name": "Dankmarshausen",
+    "country": "DE",
+    "lat": 50.92527,
+    "lng": 10.01601
+  },
+  {
+    "name": "Damp",
+    "country": "DE",
+    "lat": 54.58469,
+    "lng": 10.01785
+  },
+  {
+    "name": "Damme",
+    "country": "DE",
+    "lat": 52.52157,
+    "lng": 8.19793
+  },
+  {
+    "name": "Dalheim",
+    "country": "DE",
+    "lat": 49.82667,
+    "lng": 8.29528
+  },
+  {
+    "name": "Daisendorf",
+    "country": "DE",
+    "lat": 47.71265,
+    "lng": 9.26783
+  },
+  {
+    "name": "Dahn",
+    "country": "DE",
+    "lat": 49.15098,
+    "lng": 7.77843
+  },
+  {
+    "name": "Dahme",
+    "country": "DE",
+    "lat": 54.2218,
+    "lng": 11.08478
+  },
+  {
+    "name": "Dahme",
+    "country": "DE",
+    "lat": 51.87008,
+    "lng": 13.42743
+  },
+  {
+    "name": "Dahlewitz",
+    "country": "DE",
+    "lat": 52.32093,
+    "lng": 13.44007
+  },
+  {
+    "name": "Dahlenwarsleben",
+    "country": "DE",
+    "lat": 52.19519,
+    "lng": 11.53736
+  },
+  {
+    "name": "Dahlenburg",
+    "country": "DE",
+    "lat": 53.18767,
+    "lng": 10.7365
+  },
+  {
+    "name": "Dahlen",
+    "country": "DE",
+    "lat": 51.36495,
+    "lng": 12.99881
+  },
+  {
+    "name": "Dahlem",
+    "country": "DE",
+    "lat": 52.4581,
+    "lng": 13.28702
+  },
+  {
+    "name": "Dahlem",
+    "country": "DE",
+    "lat": 50.38607,
+    "lng": 6.54768
+  },
+  {
+    "name": "Dachwig",
+    "country": "DE",
+    "lat": 51.0777,
+    "lng": 10.85479
+  },
+  {
+    "name": "Dachswald",
+    "country": "DE",
+    "lat": 48.74524,
+    "lng": 9.11844
+  },
+  {
+    "name": "Dachsenhausen",
+    "country": "DE",
+    "lat": 50.25415,
+    "lng": 7.72725
+  },
+  {
+    "name": "Dachau",
+    "country": "DE",
+    "lat": 48.26,
+    "lng": 11.43402
+  },
+  {
+    "name": "Dabel",
+    "country": "DE",
+    "lat": 53.66112,
+    "lng": 11.90025
+  },
+  {
+    "name": "Daaden",
+    "country": "DE",
+    "lat": 50.73333,
+    "lng": 7.96667
+  },
+  {
+    "name": "Dannstadt-Schauernheim",
+    "country": "DE",
+    "lat": 49.44028,
+    "lng": 8.30861
+  },
+  {
+    "name": "Dallgow-Döberitz",
+    "country": "DE",
+    "lat": 52.54269,
+    "lng": 13.05837
+  },
+  {
+    "name": "Damêrdjôg",
+    "country": "DJ",
+    "lat": 11.48556,
+    "lng": 43.18722
+  },
+  {
+    "name": "Dajabón",
+    "country": "DO",
+    "lat": 19.54811,
+    "lng": -71.70821
+  },
+  {
+    "name": "Dar el Beïda",
+    "country": "DZ",
+    "lat": 36.71333,
+    "lng": 3.2125
+  },
+  {
+    "name": "Dar Chioukh",
+    "country": "DZ",
+    "lat": 34.89638,
+    "lng": 3.48543
+  },
+  {
+    "name": "Daule",
+    "country": "EC",
+    "lat": -1.86032,
+    "lng": -79.97683
+  },
+  {
+    "name": "Daule",
+    "country": "EC",
+    "lat": 0.40624,
+    "lng": -80.01332
+  },
+  {
+    "name": "Damietta",
+    "country": "EG",
+    "lat": 31.41648,
+    "lng": 31.81332
+  },
+  {
+    "name": "Dahab",
+    "country": "EG",
+    "lat": 28.48208,
+    "lng": 34.49505
+  },
+  {
+    "name": "Dayrūţ",
+    "country": "EG",
+    "lat": 27.55642,
+    "lng": 30.81057
+  },
+  {
+    "name": "Dayr Mawās",
+    "country": "EG",
+    "lat": 27.64148,
+    "lng": 30.85012
+  },
+  {
+    "name": "Darāw",
+    "country": "EG",
+    "lat": 24.40796,
+    "lng": 32.92324
+  },
+  {
+    "name": "Damanhur",
+    "country": "EG",
+    "lat": 31.03408,
+    "lng": 30.46823
+  },
+  {
+    "name": "Dakhla",
+    "country": "EH",
+    "lat": 23.68477,
+    "lng": -15.95798
+  },
+  {
+    "name": "Daya Vieja",
+    "country": "ES",
+    "lat": 38.1048,
+    "lng": -0.73804
+  },
+  {
+    "name": "Daya Nueva",
+    "country": "ES",
+    "lat": 38.11313,
+    "lng": -0.76028
+  },
+  {
+    "name": "Darro",
+    "country": "ES",
+    "lat": 37.34987,
+    "lng": -3.29465
+  },
+  {
+    "name": "Dalías",
+    "country": "ES",
+    "lat": 36.82179,
+    "lng": -2.87138
+  },
+  {
+    "name": "Daimús",
+    "country": "ES",
+    "lat": 38.96667,
+    "lng": -0.15
+  },
+  {
+    "name": "Daimiel",
+    "country": "ES",
+    "lat": 39.07004,
+    "lng": -3.61498
+  },
+  {
+    "name": "Das",
+    "country": "ES",
+    "lat": 42.36143,
+    "lng": 1.87051
+  },
+  {
+    "name": "Daroca",
+    "country": "ES",
+    "lat": 41.11475,
+    "lng": -1.41492
+  },
+  {
+    "name": "Darnius",
+    "country": "ES",
+    "lat": 42.36667,
+    "lng": 2.83333
+  },
+  {
+    "name": "Daganzo de Arriba",
+    "country": "ES",
+    "lat": 40.54293,
+    "lng": -3.45457
+  },
+  {
+    "name": "Daroca de Rioja",
+    "country": "ES",
+    "lat": 42.37115,
+    "lng": -2.58187
+  },
+  {
+    "name": "Dayē",
+    "country": "ET",
+    "lat": 9.88333,
+    "lng": 38.26667
+  },
+  {
+    "name": "Dangila",
+    "country": "ET",
+    "lat": 11.26667,
+    "lng": 36.83333
+  },
+  {
+    "name": "Dabat",
+    "country": "ET",
+    "lat": 12.98417,
+    "lng": 37.765
+  },
+  {
+    "name": "Damboya",
+    "country": "ET",
+    "lat": 7.34813,
+    "lng": 37.95063
+  },
+  {
+    "name": "Dax",
+    "country": "FR",
+    "lat": 43.71032,
+    "lng": -1.05366
+  },
+  {
+    "name": "Davézieux",
+    "country": "FR",
+    "lat": 45.2552,
+    "lng": 4.70744
+  },
+  {
+    "name": "Daux",
+    "country": "FR",
+    "lat": 43.69506,
+    "lng": 1.26892
+  },
+  {
+    "name": "Daumeray",
+    "country": "FR",
+    "lat": 47.70055,
+    "lng": -0.36055
+  },
+  {
+    "name": "Dauendorf",
+    "country": "FR",
+    "lat": 48.82987,
+    "lng": 7.65532
+  },
+  {
+    "name": "Dasle",
+    "country": "FR",
+    "lat": 47.47843,
+    "lng": 6.89728
+  },
+  {
+    "name": "Darvoy",
+    "country": "FR",
+    "lat": 47.85839,
+    "lng": 2.10033
+  },
+  {
+    "name": "Darnieulles",
+    "country": "FR",
+    "lat": 48.1995,
+    "lng": 6.34929
+  },
+  {
+    "name": "Darney",
+    "country": "FR",
+    "lat": 48.0866,
+    "lng": 6.04917
+  },
+  {
+    "name": "Darnétal",
+    "country": "FR",
+    "lat": 49.44533,
+    "lng": 1.15144
+  },
+  {
+    "name": "Dargnies",
+    "country": "FR",
+    "lat": 50.04144,
+    "lng": 1.52526
+  },
+  {
+    "name": "Dardilly",
+    "country": "FR",
+    "lat": 45.80558,
+    "lng": 4.75319
+  },
+  {
+    "name": "Daoulas",
+    "country": "FR",
+    "lat": 48.36088,
+    "lng": -4.25976
+  },
+  {
+    "name": "Dannes",
+    "country": "FR",
+    "lat": 50.58799,
+    "lng": 1.61381
+  },
+  {
+    "name": "Dannemarie-sur-Crête",
+    "country": "FR",
+    "lat": 47.20488,
+    "lng": 5.87018
+  },
+  {
+    "name": "Dannemarie",
+    "country": "FR",
+    "lat": 47.63034,
+    "lng": 7.11903
+  },
+  {
+    "name": "Danjoutin",
+    "country": "FR",
+    "lat": 47.61822,
+    "lng": 6.86204
+  },
+  {
+    "name": "Dangé-Saint-Romain",
+    "country": "FR",
+    "lat": 46.93333,
+    "lng": 0.6
+  },
+  {
+    "name": "Damville",
+    "country": "FR",
+    "lat": 48.8693,
+    "lng": 1.07458
+  },
+  {
+    "name": "Damprichard",
+    "country": "FR",
+    "lat": 47.24413,
+    "lng": 6.88121
+  },
+  {
+    "name": "Dampmart",
+    "country": "FR",
+    "lat": 48.88854,
+    "lng": 2.74095
+  },
+  {
+    "name": "Dampierre-sur-Salon",
+    "country": "FR",
+    "lat": 47.55719,
+    "lng": 5.6797
+  },
+  {
+    "name": "Dampierre-les-Bois",
+    "country": "FR",
+    "lat": 47.50639,
+    "lng": 6.91279
+  },
+  {
+    "name": "Dampierre-en-Burly",
+    "country": "FR",
+    "lat": 47.76143,
+    "lng": 2.51962
+  },
+  {
+    "name": "Dampierre-en-Yvelines",
+    "country": "FR",
+    "lat": 48.7,
+    "lng": 1.98333
+  },
+  {
+    "name": "Dampierre",
+    "country": "FR",
+    "lat": 47.15498,
+    "lng": 5.74167
+  },
+  {
+    "name": "Damparis",
+    "country": "FR",
+    "lat": 47.07556,
+    "lng": 5.41398
+  },
+  {
+    "name": "Dammartin-en-Goële",
+    "country": "FR",
+    "lat": 49.05423,
+    "lng": 2.67777
+  },
+  {
+    "name": "Dammarie-les-Lys",
+    "country": "FR",
+    "lat": 48.51667,
+    "lng": 2.65
+  },
+  {
+    "name": "Dammarie",
+    "country": "FR",
+    "lat": 48.34314,
+    "lng": 1.49444
+  },
+  {
+    "name": "Damigny",
+    "country": "FR",
+    "lat": 48.45,
+    "lng": 0.06667
+  },
+  {
+    "name": "Damgan",
+    "country": "FR",
+    "lat": 47.51981,
+    "lng": -2.57781
+  },
+  {
+    "name": "Damery",
+    "country": "FR",
+    "lat": 49.07238,
+    "lng": 3.88036
+  },
+  {
+    "name": "Damelevières",
+    "country": "FR",
+    "lat": 48.5593,
+    "lng": 6.38453
+  },
+  {
+    "name": "Dambach-la-Ville",
+    "country": "FR",
+    "lat": 48.32379,
+    "lng": 7.42547
+  },
+  {
+    "name": "Damazan",
+    "country": "FR",
+    "lat": 44.29053,
+    "lng": 0.27502
+  },
+  {
+    "name": "Dallet",
+    "country": "FR",
+    "lat": 45.77047,
+    "lng": 3.23875
+  },
+  {
+    "name": "Daix",
+    "country": "FR",
+    "lat": 47.35081,
+    "lng": 5.00052
+  },
+  {
+    "name": "Dainville",
+    "country": "FR",
+    "lat": 50.28097,
+    "lng": 2.72603
+  },
+  {
+    "name": "Dagneux",
+    "country": "FR",
+    "lat": 45.8514,
+    "lng": 5.0778
+  },
+  {
+    "name": "Dadonville",
+    "country": "FR",
+    "lat": 48.15776,
+    "lng": 2.2715
+  },
+  {
+    "name": "Dachstein",
+    "country": "FR",
+    "lat": 48.56127,
+    "lng": 7.53233
+  },
+  {
+    "name": "Dabo",
+    "country": "FR",
+    "lat": 48.65373,
+    "lng": 7.23611
+  },
+  {
+    "name": "Dawlish",
+    "country": "GB",
+    "lat": 50.58118,
+    "lng": -3.46644
+  },
+  {
+    "name": "Daventry",
+    "country": "GB",
+    "lat": 52.25688,
+    "lng": -1.16066
+  },
+  {
+    "name": "Datchworth",
+    "country": "GB",
+    "lat": 51.85126,
+    "lng": -0.15956
+  },
+  {
+    "name": "Datchet",
+    "country": "GB",
+    "lat": 51.4839,
+    "lng": -0.57893
+  },
+  {
+    "name": "Darwen",
+    "country": "GB",
+    "lat": 53.69803,
+    "lng": -2.46494
+  },
+  {
+    "name": "Darvel",
+    "country": "GB",
+    "lat": 55.60976,
+    "lng": -4.28142
+  },
+  {
+    "name": "Darton",
+    "country": "GB",
+    "lat": 53.58705,
+    "lng": -1.52676
+  },
+  {
+    "name": "Dartmouth",
+    "country": "GB",
+    "lat": 50.3522,
+    "lng": -3.5794
+  },
+  {
+    "name": "Dartford",
+    "country": "GB",
+    "lat": 51.44657,
+    "lng": 0.21423
+  },
+  {
+    "name": "Darrington",
+    "country": "GB",
+    "lat": 53.67566,
+    "lng": -1.26901
+  },
+  {
+    "name": "Darlington",
+    "country": "GB",
+    "lat": 54.52429,
+    "lng": -1.55039
+  },
+  {
+    "name": "Darlaston",
+    "country": "GB",
+    "lat": 52.56667,
+    "lng": -2.03333
+  },
+  {
+    "name": "Darfield",
+    "country": "GB",
+    "lat": 53.5339,
+    "lng": -1.37595
+  },
+  {
+    "name": "Daresbury",
+    "country": "GB",
+    "lat": 53.34184,
+    "lng": -2.635
+  },
+  {
+    "name": "Darenth",
+    "country": "GB",
+    "lat": 51.42137,
+    "lng": 0.25784
+  },
+  {
+    "name": "Danbury",
+    "country": "GB",
+    "lat": 51.71645,
+    "lng": 0.58245
+  },
+  {
+    "name": "Dalton in Furness",
+    "country": "GB",
+    "lat": 54.15796,
+    "lng": -3.17977
+  },
+  {
+    "name": "Dalston",
+    "country": "GB",
+    "lat": 54.84207,
+    "lng": -2.98459
+  },
+  {
+    "name": "Dalserf",
+    "country": "GB",
+    "lat": 55.73333,
+    "lng": -3.91667
+  },
+  {
+    "name": "Dalrymple",
+    "country": "GB",
+    "lat": 55.39757,
+    "lng": -4.59169
+  },
+  {
+    "name": "Dalry",
+    "country": "GB",
+    "lat": 55.70956,
+    "lng": -4.72167
+  },
+  {
+    "name": "Dalmellington",
+    "country": "GB",
+    "lat": 55.32419,
+    "lng": -4.402
+  },
+  {
+    "name": "Dalkeith",
+    "country": "GB",
+    "lat": 55.89317,
+    "lng": -3.06806
+  },
+  {
+    "name": "Dale",
+    "country": "GB",
+    "lat": 51.70917,
+    "lng": -5.17333
+  },
+  {
+    "name": "Dalbeattie",
+    "country": "GB",
+    "lat": 54.93278,
+    "lng": -3.82271
+  },
+  {
+    "name": "Dagenham",
+    "country": "GB",
+    "lat": 51.55,
+    "lng": 0.16667
+  },
+  {
+    "name": "Danby",
+    "country": "GB",
+    "lat": 54.46606,
+    "lng": -0.91073
+  },
+  {
+    "name": "Darras Hall",
+    "country": "GB",
+    "lat": 55.0356,
+    "lng": -1.76425
+  },
+  {
+    "name": "Danderhall",
+    "country": "GB",
+    "lat": 55.91434,
+    "lng": -3.11062
+  },
+  {
+    "name": "Dalgety Bay",
+    "country": "GB",
+    "lat": 56.03496,
+    "lng": -3.35049
+  },
+  {
+    "name": "Dambai",
+    "country": "GH",
+    "lat": 8.06616,
+    "lng": 0.17947
+  },
+  {
+    "name": "Damongo",
+    "country": "GH",
+    "lat": 9.08296,
+    "lng": -1.81884
+  },
+  {
+    "name": "Daru Rilwan",
+    "country": "GM",
+    "lat": 13.55,
+    "lng": -15.98333
+  },
+  {
+    "name": "Dankunku",
+    "country": "GM",
+    "lat": 13.56667,
+    "lng": -15.31667
+  },
+  {
+    "name": "Daba Kunda",
+    "country": "GM",
+    "lat": 13.31667,
+    "lng": -14.3
+  },
+  {
+    "name": "Dalaba",
+    "country": "GN",
+    "lat": 10.69249,
+    "lng": -12.24967
+  },
+  {
+    "name": "Dabola",
+    "country": "GN",
+    "lat": 10.7433,
+    "lng": -11.10778
+  },
+  {
+    "name": "Darátsos",
+    "country": "GR",
+    "lat": 35.49955,
+    "lng": 23.97488
+  },
+  {
+    "name": "Danlí",
+    "country": "HN",
+    "lat": 14.03333,
+    "lng": -86.58333
+  },
+  {
+    "name": "Davor",
+    "country": "HR",
+    "lat": 45.11528,
+    "lng": 17.51639
+  },
+  {
+    "name": "Daruvar",
+    "country": "HR",
+    "lat": 45.59056,
+    "lng": 17.225
+  },
+  {
+    "name": "Darda",
+    "country": "HR",
+    "lat": 45.62806,
+    "lng": 18.69972
+  },
+  {
+    "name": "Dalj",
+    "country": "HR",
+    "lat": 45.48438,
+    "lng": 18.9861
+  },
+  {
+    "name": "Dame-Marie",
+    "country": "HT",
+    "lat": 18.56107,
+    "lng": -74.42167
+  },
+  {
+    "name": "Dad",
+    "country": "HU",
+    "lat": 47.51913,
+    "lng": 18.22627
+  },
+  {
+    "name": "Dabas",
+    "country": "HU",
+    "lat": 47.18594,
+    "lng": 19.31091
+  },
+  {
+    "name": "Daik Lingga",
+    "country": "ID",
+    "lat": -0.21451,
+    "lng": 104.61824
+  },
+  {
+    "name": "Dabo",
+    "country": "ID",
+    "lat": -0.49306,
+    "lng": 104.56306
+  },
+  {
+    "name": "Dayeuhluhur",
+    "country": "ID",
+    "lat": -7.2594,
+    "lng": 108.6108
+  },
+  {
+    "name": "Dasuk",
+    "country": "ID",
+    "lat": -6.9015,
+    "lng": 113.8139
+  },
+  {
+    "name": "Daruba",
+    "country": "ID",
+    "lat": 2.05049,
+    "lng": 128.29398
+  },
+  {
+    "name": "Darma",
+    "country": "ID",
+    "lat": -7.0045,
+    "lng": 108.4035
+  },
+  {
+    "name": "Dampit",
+    "country": "ID",
+    "lat": -8.21162,
+    "lng": 112.74934
+  },
+  {
+    "name": "Dalududalu",
+    "country": "ID",
+    "lat": 1.08142,
+    "lng": 100.24475
+  },
+  {
+    "name": "Dabra",
+    "country": "ID",
+    "lat": -3.2453,
+    "lng": 138.5878
+  },
+  {
+    "name": "Darungan Lor",
+    "country": "ID",
+    "lat": -8.0438,
+    "lng": 113.2345
+  },
+  {
+    "name": "Dajan Tangluk",
+    "country": "ID",
+    "lat": -8.6458,
+    "lng": 115.2389
+  },
+  {
+    "name": "Dawang",
+    "country": "ID",
+    "lat": -8.0353,
+    "lng": 111.4145
+  },
+  {
+    "name": "Data Dian",
+    "country": "ID",
+    "lat": 2.01651,
+    "lng": 115.25869
+  },
+  {
+    "name": "Danauparis",
+    "country": "ID",
+    "lat": 2.41096,
+    "lng": 98.08537
+  },
+  {
+    "name": "Danaupanggang",
+    "country": "ID",
+    "lat": -2.4082,
+    "lng": 115.0398
+  },
+  {
+    "name": "Daingean",
+    "country": "IE",
+    "lat": 53.29611,
+    "lng": -7.28944
+  },
+  {
+    "name": "Dalkey",
+    "country": "IE",
+    "lat": 53.27833,
+    "lng": -6.10028
+  },
+  {
+    "name": "Darndale",
+    "country": "IE",
+    "lat": 53.39948,
+    "lng": -6.18886
+  },
+  {
+    "name": "Daliyat al Karmel",
+    "country": "IL",
+    "lat": 32.69383,
+    "lng": 35.04686
+  },
+  {
+    "name": "Dabbūrīya",
+    "country": "IL",
+    "lat": 32.69256,
+    "lng": 35.37123
+  },
+  {
+    "name": "Dam Dam",
+    "country": "IN",
+    "lat": 22.63341,
+    "lng": 88.42286
+  },
+  {
+    "name": "Dahi",
+    "country": "IN",
+    "lat": 22.11217,
+    "lng": 74.5879
+  },
+  {
+    "name": "Dayāl Bāgh",
+    "country": "IN",
+    "lat": 27.22122,
+    "lng": 78.01095
+  },
+  {
+    "name": "Davorlim",
+    "country": "IN",
+    "lat": 15.27221,
+    "lng": 73.99242
+  },
+  {
+    "name": "Davangere",
+    "country": "IN",
+    "lat": 14.46693,
+    "lng": 75.92694
+  },
+  {
+    "name": "Dausa",
+    "country": "IN",
+    "lat": 26.89,
+    "lng": 76.33584
+  },
+  {
+    "name": "Daurāla",
+    "country": "IN",
+    "lat": 29.11344,
+    "lng": 77.70467
+  },
+  {
+    "name": "Daund",
+    "country": "IN",
+    "lat": 18.46515,
+    "lng": 74.58375
+  },
+  {
+    "name": "Daulatpur",
+    "country": "IN",
+    "lat": 32.05622,
+    "lng": 76.26101
+  },
+  {
+    "name": "Daulatpur",
+    "country": "IN",
+    "lat": 31.78871,
+    "lng": 75.99154
+  },
+  {
+    "name": "Daulatpur",
+    "country": "IN",
+    "lat": 25.32605,
+    "lng": 88.32989
+  },
+  {
+    "name": "Daulatābād",
+    "country": "IN",
+    "lat": 19.93611,
+    "lng": 75.22148
+  },
+  {
+    "name": "Daudnagar",
+    "country": "IN",
+    "lat": 25.03473,
+    "lng": 84.40095
+  },
+  {
+    "name": "Dattāpur",
+    "country": "IN",
+    "lat": 20.78075,
+    "lng": 78.1407
+  },
+  {
+    "name": "Datia",
+    "country": "IN",
+    "lat": 25.67312,
+    "lng": 78.45908
+  },
+  {
+    "name": "Dasūya",
+    "country": "IN",
+    "lat": 31.81679,
+    "lng": 75.6531
+  },
+  {
+    "name": "Daspalla",
+    "country": "IN",
+    "lat": 20.33962,
+    "lng": 84.84723
+  },
+  {
+    "name": "Daryāpur",
+    "country": "IN",
+    "lat": 20.92489,
+    "lng": 77.32644
+  },
+  {
+    "name": "Darsi",
+    "country": "IN",
+    "lat": 15.76978,
+    "lng": 79.67939
+  },
+  {
+    "name": "Darlawn",
+    "country": "IN",
+    "lat": 24.01336,
+    "lng": 92.92439
+  },
+  {
+    "name": "Dariba",
+    "country": "IN",
+    "lat": 24.94865,
+    "lng": 74.1342
+  },
+  {
+    "name": "Dariāwad",
+    "country": "IN",
+    "lat": 24.10119,
+    "lng": 74.44311
+  },
+  {
+    "name": "Darbhanga",
+    "country": "IN",
+    "lat": 26.15216,
+    "lng": 85.89707
+  },
+  {
+    "name": "Dantewāra",
+    "country": "IN",
+    "lat": 18.88881,
+    "lng": 81.35068
+  },
+  {
+    "name": "Danta",
+    "country": "IN",
+    "lat": 27.29636,
+    "lng": 75.18665
+  },
+  {
+    "name": "Dankaur",
+    "country": "IN",
+    "lat": 28.35121,
+    "lng": 77.55508
+  },
+  {
+    "name": "Dandeli",
+    "country": "IN",
+    "lat": 15.26667,
+    "lng": 74.61667
+  },
+  {
+    "name": "Damoh",
+    "country": "IN",
+    "lat": 23.83312,
+    "lng": 79.4419
+  },
+  {
+    "name": "Daman",
+    "country": "IN",
+    "lat": 20.41431,
+    "lng": 72.83236
+  },
+  {
+    "name": "Dalsingh Sarai",
+    "country": "IN",
+    "lat": 25.66795,
+    "lng": 85.83636
+  },
+  {
+    "name": "Dalmau",
+    "country": "IN",
+    "lat": 26.06477,
+    "lng": 81.0298
+  },
+  {
+    "name": "Dalkola",
+    "country": "IN",
+    "lat": 25.87577,
+    "lng": 87.84009
+  },
+  {
+    "name": "Dalhousie",
+    "country": "IN",
+    "lat": 32.55219,
+    "lng": 75.94663
+  },
+  {
+    "name": "Daitari",
+    "country": "IN",
+    "lat": 21.1,
+    "lng": 85.75
+  },
+  {
+    "name": "Dahegām",
+    "country": "IN",
+    "lat": 23.16903,
+    "lng": 72.82161
+  },
+  {
+    "name": "Dagshai",
+    "country": "IN",
+    "lat": 30.88431,
+    "lng": 77.05228
+  },
+  {
+    "name": "Dadra",
+    "country": "IN",
+    "lat": 20.32504,
+    "lng": 72.96618
+  },
+  {
+    "name": "Dabwāli",
+    "country": "IN",
+    "lat": 29.94906,
+    "lng": 74.73832
+  },
+  {
+    "name": "Dabra",
+    "country": "IN",
+    "lat": 25.88572,
+    "lng": 78.33221
+  },
+  {
+    "name": "Dabra",
+    "country": "IN",
+    "lat": 21.78036,
+    "lng": 83.08237
+  },
+  {
+    "name": "Daboh",
+    "country": "IN",
+    "lat": 26.00239,
+    "lng": 78.87658
+  },
+  {
+    "name": "Dabhoi",
+    "country": "IN",
+    "lat": 22.18333,
+    "lng": 73.43333
+  },
+  {
+    "name": "Dabhel",
+    "country": "IN",
+    "lat": 20.40953,
+    "lng": 72.88339
+  },
+  {
+    "name": "Dalli Rājhara",
+    "country": "IN",
+    "lat": 20.58573,
+    "lng": 81.07501
+  },
+  {
+    "name": "Dariya",
+    "country": "IN",
+    "lat": 30.69864,
+    "lng": 76.81759
+  },
+  {
+    "name": "Dappar",
+    "country": "IN",
+    "lat": 30.52066,
+    "lng": 76.81607
+  },
+  {
+    "name": "Dasnapur",
+    "country": "IN",
+    "lat": 19.65399,
+    "lng": 78.51213
+  },
+  {
+    "name": "Daporijo",
+    "country": "IN",
+    "lat": 27.99114,
+    "lng": 94.22955
+  },
+  {
+    "name": "Dayapar",
+    "country": "IN",
+    "lat": 23.63371,
+    "lng": 68.90192
+  },
+  {
+    "name": "Dasarahalli",
+    "country": "IN",
+    "lat": 13.09904,
+    "lng": 77.83204
+  },
+  {
+    "name": "Daryāpur Kalān",
+    "country": "IN",
+    "lat": 28.81396,
+    "lng": 77.01112
+  },
+  {
+    "name": "Dalūpura",
+    "country": "IN",
+    "lat": 28.6057,
+    "lng": 77.31901
+  },
+  {
+    "name": "Damua",
+    "country": "IN",
+    "lat": 22.19291,
+    "lng": 78.46703
+  },
+  {
+    "name": "Daulatpur",
+    "country": "IN",
+    "lat": 32.26659,
+    "lng": 75.63265
+  },
+  {
+    "name": "Damonojodi",
+    "country": "IN",
+    "lat": 18.76323,
+    "lng": 82.91936
+  },
+  {
+    "name": "Dariāpur",
+    "country": "IN",
+    "lat": 25.3852,
+    "lng": 85.96403
+  },
+  {
+    "name": "Dalavaipatti",
+    "country": "IN",
+    "lat": 11.66138,
+    "lng": 78.0834
+  },
+  {
+    "name": "Dari",
+    "country": "IN",
+    "lat": 23.7219,
+    "lng": 85.38427
+  },
+  {
+    "name": "Dalavaypuram",
+    "country": "IN",
+    "lat": 9.39182,
+    "lng": 77.4977
+  },
+  {
+    "name": "Damara Patpara",
+    "country": "IN",
+    "lat": 25.93876,
+    "lng": 90.78656
+  },
+  {
+    "name": "Dahali",
+    "country": "IN",
+    "lat": 26.09694,
+    "lng": 91.49835
+  },
+  {
+    "name": "Damodarpur",
+    "country": "IN",
+    "lat": 26.13969,
+    "lng": 85.35087
+  },
+  {
+    "name": "Daundi Lohara",
+    "country": "IN",
+    "lat": 20.79115,
+    "lng": 81.05561
+  },
+  {
+    "name": "Dayal Pur",
+    "country": "IN",
+    "lat": 28.71753,
+    "lng": 77.26508
+  },
+  {
+    "name": "Daheli",
+    "country": "IN",
+    "lat": 20.2697,
+    "lng": 72.87884
+  },
+  {
+    "name": "Danguwapasi",
+    "country": "IN",
+    "lat": 22.16881,
+    "lng": 85.58766
+  },
+  {
+    "name": "Dandi",
+    "country": "IN",
+    "lat": 19.79823,
+    "lng": 72.7651
+  },
+  {
+    "name": "Danara",
+    "country": "IN",
+    "lat": 20.94571,
+    "lng": 85.09686
+  },
+  {
+    "name": "Dadhapatna",
+    "country": "IN",
+    "lat": 20.41129,
+    "lng": 85.82704
+  },
+  {
+    "name": "Dare Tû",
+    "country": "IQ",
+    "lat": 36.12633,
+    "lng": 44.04612
+  },
+  {
+    "name": "Dastnā’",
+    "country": "IR",
+    "lat": 32.05834,
+    "lng": 50.77051
+  },
+  {
+    "name": "Darreh Shahr",
+    "country": "IR",
+    "lat": 33.14447,
+    "lng": 47.3799
+  },
+  {
+    "name": "Dargaz",
+    "country": "IR",
+    "lat": 37.44447,
+    "lng": 59.10809
+  },
+  {
+    "name": "Dargahān",
+    "country": "IR",
+    "lat": 26.96316,
+    "lng": 56.06278
+  },
+  {
+    "name": "Damāvand",
+    "country": "IR",
+    "lat": 35.71842,
+    "lng": 52.06958
+  },
+  {
+    "name": "Dalgān",
+    "country": "IR",
+    "lat": 27.48232,
+    "lng": 59.44656
+  },
+  {
+    "name": "Darvīsheh",
+    "country": "IR",
+    "lat": 31.24386,
+    "lng": 48.66603
+  },
+  {
+    "name": "Dabudasht",
+    "country": "IR",
+    "lat": 36.47982,
+    "lng": 52.45056
+  },
+  {
+    "name": "Dalvík",
+    "country": "IS",
+    "lat": 65.97018,
+    "lng": -18.52861
+  },
+  {
+    "name": "Davoli",
+    "country": "IT",
+    "lat": 38.64904,
+    "lng": 16.48764
+  },
+  {
+    "name": "Dasà",
+    "country": "IT",
+    "lat": 38.56514,
+    "lng": 16.19521
+  },
+  {
+    "name": "Dazio",
+    "country": "IT",
+    "lat": 46.16129,
+    "lng": 9.60064
+  },
+  {
+    "name": "Darfo",
+    "country": "IT",
+    "lat": 45.87794,
+    "lng": 10.18115
+  },
+  {
+    "name": "Daone",
+    "country": "IT",
+    "lat": 45.9472,
+    "lng": 10.62107
+  },
+  {
+    "name": "Danta",
+    "country": "IT",
+    "lat": 46.567,
+    "lng": 12.52055
+  },
+  {
+    "name": "Dambel",
+    "country": "IT",
+    "lat": 46.40471,
+    "lng": 11.09307
+  },
+  {
+    "name": "Dalmine",
+    "country": "IT",
+    "lat": 45.64933,
+    "lng": 9.60617
+  },
+  {
+    "name": "Dairago",
+    "country": "IT",
+    "lat": 45.5658,
+    "lng": 8.86265
+  },
+  {
+    "name": "Darfo Boario Terme",
+    "country": "IT",
+    "lat": 45.8915,
+    "lng": 10.18879
+  },
+  {
+    "name": "Davagna",
+    "country": "IT",
+    "lat": 44.46585,
+    "lng": 9.08666
+  },
+  {
+    "name": "Daverio",
+    "country": "IT",
+    "lat": 45.77797,
+    "lng": 8.77343
+  },
+  {
+    "name": "Daiano",
+    "country": "IT",
+    "lat": 46.30161,
+    "lng": 11.44908
+  },
+  {
+    "name": "Darliston",
+    "country": "JM",
+    "lat": 18.23731,
+    "lng": -77.97626
+  },
+  {
+    "name": "Dalvey",
+    "country": "JM",
+    "lat": 17.91184,
+    "lng": -76.24864
+  },
+  {
+    "name": "Dayr Yūsuf",
+    "country": "JO",
+    "lat": 32.48701,
+    "lng": 35.79635
+  },
+  {
+    "name": "Dayr ‘Allā",
+    "country": "JO",
+    "lat": 32.19571,
+    "lng": 35.62161
+  },
+  {
+    "name": "Dayr Abū Sa‘īd",
+    "country": "JO",
+    "lat": 32.49816,
+    "lng": 35.68671
+  },
+  {
+    "name": "Dayr al Kahf",
+    "country": "JO",
+    "lat": 32.27535,
+    "lng": 36.83949
+  },
+  {
+    "name": "Daitō",
+    "country": "JP",
+    "lat": 34.71378,
+    "lng": 135.62033
+  },
+  {
+    "name": "Date",
+    "country": "JP",
+    "lat": 37.81667,
+    "lng": 140.5
+  },
+  {
+    "name": "Daigo",
+    "country": "JP",
+    "lat": 36.76667,
+    "lng": 140.35
+  },
+  {
+    "name": "Date",
+    "country": "JP",
+    "lat": 42.46806,
+    "lng": 140.86806
+  },
+  {
+    "name": "Daisen",
+    "country": "JP",
+    "lat": 39.44116,
+    "lng": 140.48961
+  },
+  {
+    "name": "Dazaifu",
+    "country": "JP",
+    "lat": 33.51278,
+    "lng": 130.52389
+  },
+  {
+    "name": "Dake-onsen",
+    "country": "JP",
+    "lat": 37.60609,
+    "lng": 140.35512
+  },
+  {
+    "name": "Daigyōji",
+    "country": "JP",
+    "lat": 33.59811,
+    "lng": 130.85118
+  },
+  {
+    "name": "Daikan’yamachō",
+    "country": "JP",
+    "lat": 35.65125,
+    "lng": 139.70502
+  },
+  {
+    "name": "Daiba",
+    "country": "JP",
+    "lat": 35.62772,
+    "lng": 139.77326
+  },
+  {
+    "name": "Daitōchō",
+    "country": "JP",
+    "lat": 34.71542,
+    "lng": 135.62012
+  },
+  {
+    "name": "Dadaab",
+    "country": "KE",
+    "lat": 0.05244,
+    "lng": 40.30855
+  },
+  {
+    "name": "Daroot-Korgon",
+    "country": "KG",
+    "lat": 39.55274,
+    "lng": 72.20518
+  },
+  {
+    "name": "Damrei Slab",
+    "country": "KH",
+    "lat": 12.90202,
+    "lng": 104.69335
+  },
+  {
+    "name": "Daeum Doung",
+    "country": "KH",
+    "lat": 10.703,
+    "lng": 104.64896
+  },
+  {
+    "name": "Damnak Sokram",
+    "country": "KH",
+    "lat": 10.74163,
+    "lng": 104.45117
+  },
+  {
+    "name": "Damnak Chang’aeur",
+    "country": "KH",
+    "lat": 10.53021,
+    "lng": 104.36881
+  },
+  {
+    "name": "Dangkao",
+    "country": "KH",
+    "lat": 11.56173,
+    "lng": 104.85553
+  },
+  {
+    "name": "Damrei Choan Khla",
+    "country": "KH",
+    "lat": 12.69275,
+    "lng": 104.89885
+  },
+  {
+    "name": "Daji",
+    "country": "KM",
+    "lat": -12.32583,
+    "lng": 44.48861
+  },
+  {
+    "name": "Damyang",
+    "country": "KR",
+    "lat": 35.31889,
+    "lng": 126.98389
+  },
+  {
+    "name": "Daejeon",
+    "country": "KR",
+    "lat": 36.34913,
+    "lng": 127.38493
+  },
+  {
+    "name": "Daegu",
+    "country": "KR",
+    "lat": 35.87028,
+    "lng": 128.59111
+  },
+  {
+    "name": "Daehap",
+    "country": "KR",
+    "lat": 35.61365,
+    "lng": 128.47165
+  },
+  {
+    "name": "Daesan",
+    "country": "KR",
+    "lat": 35.34168,
+    "lng": 126.60327
+  },
+  {
+    "name": "Daema",
+    "country": "KR",
+    "lat": 35.30183,
+    "lng": 126.57748
+  },
+  {
+    "name": "Dak Cheung",
+    "country": "LA",
+    "lat": 15.46667,
+    "lng": 107.26667
+  },
+  {
+    "name": "Dambulla",
+    "country": "LK",
+    "lat": 7.86,
+    "lng": 80.65167
+  },
+  {
+    "name": "Daugai",
+    "country": "LT",
+    "lat": 54.36667,
+    "lng": 24.33333
+  },
+  {
+    "name": "Dainava (Kaunas)",
+    "country": "LT",
+    "lat": 54.91525,
+    "lng": 23.96831
+  },
+  {
+    "name": "Dalheim",
+    "country": "LU",
+    "lat": 49.54083,
+    "lng": 6.25972
+  },
+  {
+    "name": "Daugavpils",
+    "country": "LV",
+    "lat": 55.88333,
+    "lng": 26.53333
+  },
+  {
+    "name": "Daugavgrīva",
+    "country": "LV",
+    "lat": 57.04315,
+    "lng": 24.03613
+  },
+  {
+    "name": "Dagda",
+    "country": "LV",
+    "lat": 56.09512,
+    "lng": 27.53723
+  },
+  {
+    "name": "Daryānah",
+    "country": "LY",
+    "lat": 32.34751,
+    "lng": 20.30933
+  },
+  {
+    "name": "Darnah",
+    "country": "LY",
+    "lat": 32.76704,
+    "lng": 22.63669
+  },
+  {
+    "name": "Daraj",
+    "country": "LY",
+    "lat": 30.16502,
+    "lng": 10.45804
+  },
+  {
+    "name": "Dar Kebdani",
+    "country": "MA",
+    "lat": 35.12237,
+    "lng": -3.33148
+  },
+  {
+    "name": "Dar Ould Zidouh",
+    "country": "MA",
+    "lat": 32.31247,
+    "lng": -6.90494
+  },
+  {
+    "name": "Dar Bouazza",
+    "country": "MA",
+    "lat": 33.51535,
+    "lng": -7.81677
+  },
+  {
+    "name": "Dar Chaoui",
+    "country": "MA",
+    "lat": 35.5377,
+    "lng": -5.71742
+  },
+  {
+    "name": "Dakhla",
+    "country": "MA",
+    "lat": 30.41145,
+    "lng": -9.55344
+  },
+  {
+    "name": "Dancu",
+    "country": "MD",
+    "lat": 46.75818,
+    "lng": 28.20716
+  },
+  {
+    "name": "Danilovgrad",
+    "country": "ME",
+    "lat": 42.55384,
+    "lng": 19.14608
+  },
+  {
+    "name": "Dawei",
+    "country": "MM",
+    "lat": 14.0823,
+    "lng": 98.19151
+  },
+  {
+    "name": "Daik-u",
+    "country": "MM",
+    "lat": 17.79506,
+    "lng": 96.66983
+  },
+  {
+    "name": "Danai",
+    "country": "MM",
+    "lat": 26.35926,
+    "lng": 96.71997
+  },
+  {
+    "name": "Darvi",
+    "country": "MN",
+    "lat": 46.45,
+    "lng": 94.11667
+  },
+  {
+    "name": "Darvi",
+    "country": "MN",
+    "lat": 46.93678,
+    "lng": 93.61673
+  },
+  {
+    "name": "Dashinchilling",
+    "country": "MN",
+    "lat": 47.85,
+    "lng": 104.05
+  },
+  {
+    "name": "Dashbalbar",
+    "country": "MN",
+    "lat": 49.54571,
+    "lng": 114.40287
+  },
+  {
+    "name": "Darhan",
+    "country": "MN",
+    "lat": 49.48667,
+    "lng": 105.92278
+  },
+  {
+    "name": "Darhan",
+    "country": "MN",
+    "lat": 48.25463,
+    "lng": 103.88054
+  },
+  {
+    "name": "Darhan",
+    "country": "MN",
+    "lat": 46.61667,
+    "lng": 109.41667
+  },
+  {
+    "name": "Dalay",
+    "country": "MN",
+    "lat": 43.46787,
+    "lng": 103.51284
+  },
+  {
+    "name": "Dalandzadgad",
+    "country": "MN",
+    "lat": 43.57083,
+    "lng": 104.425
+  },
+  {
+    "name": "Dar Naim",
+    "country": "MR",
+    "lat": 18.10808,
+    "lng": -15.92666
+  },
+  {
+    "name": "Dagotière",
+    "country": "MU",
+    "lat": -20.24476,
+    "lng": 57.56188
+  },
+  {
+    "name": "Damian Carmona",
+    "country": "MX",
+    "lat": 22.09723,
+    "lng": -99.29216
+  },
+  {
+    "name": "Dantzibojay",
+    "country": "MX",
+    "lat": 20.43934,
+    "lng": -99.58587
+  },
+  {
+    "name": "Dajiedi",
+    "country": "MX",
+    "lat": 20.31114,
+    "lng": -98.94006
+  },
+  {
+    "name": "Damasco",
+    "country": "MX",
+    "lat": 17.16161,
+    "lng": -91.60058
+  },
+  {
+    "name": "Dautillos",
+    "country": "MX",
+    "lat": 24.72167,
+    "lng": -107.97528
+  },
+  {
+    "name": "Daxtha",
+    "country": "MX",
+    "lat": 20.27994,
+    "lng": -98.97964
+  },
+  {
+    "name": "Dabong",
+    "country": "MY",
+    "lat": 5.37676,
+    "lng": 102.00968
+  },
+  {
+    "name": "Daro",
+    "country": "MY",
+    "lat": 2.51667,
+    "lng": 111.43333
+  },
+  {
+    "name": "Dalat",
+    "country": "MY",
+    "lat": 2.66667,
+    "lng": 112.08333
+  },
+  {
+    "name": "Data Kakus",
+    "country": "MY",
+    "lat": 2.65465,
+    "lng": 113.62249
+  },
+  {
+    "name": "Damansara Damai",
+    "country": "MY",
+    "lat": 3.19893,
+    "lng": 101.59184
+  },
+  {
+    "name": "Dakoro",
+    "country": "NE",
+    "lat": 14.51056,
+    "lng": 6.765
+  },
+  {
+    "name": "Damagaram Takèr",
+    "country": "NE",
+    "lat": 14.1377,
+    "lng": 9.4842
+  },
+  {
+    "name": "Dawakin Tofa",
+    "country": "NG",
+    "lat": 12.10452,
+    "lng": 8.32999
+  },
+  {
+    "name": "Dawakin Kudu",
+    "country": "NG",
+    "lat": 11.83727,
+    "lng": 8.59699
+  },
+  {
+    "name": "Daura",
+    "country": "NG",
+    "lat": 13.03299,
+    "lng": 8.32351
+  },
+  {
+    "name": "Daura",
+    "country": "NG",
+    "lat": 11.5541,
+    "lng": 11.406
+  },
+  {
+    "name": "Darazo",
+    "country": "NG",
+    "lat": 10.9992,
+    "lng": 10.41062
+  },
+  {
+    "name": "Dapchi",
+    "country": "NG",
+    "lat": 12.49536,
+    "lng": 11.49977
+  },
+  {
+    "name": "Dan Sadau",
+    "country": "NG",
+    "lat": 11.29621,
+    "lng": 6.4952
+  },
+  {
+    "name": "Dan Musa",
+    "country": "NG",
+    "lat": 12.26157,
+    "lng": 7.33409
+  },
+  {
+    "name": "Dankama",
+    "country": "NG",
+    "lat": 13.29782,
+    "lng": 7.79492
+  },
+  {
+    "name": "Dankalwa",
+    "country": "NG",
+    "lat": 11.74449,
+    "lng": 12.18545
+  },
+  {
+    "name": "Danja",
+    "country": "NG",
+    "lat": 11.3771,
+    "lng": 7.56097
+  },
+  {
+    "name": "Dan Gora",
+    "country": "NG",
+    "lat": 11.53485,
+    "lng": 8.15224
+  },
+  {
+    "name": "Dange",
+    "country": "NG",
+    "lat": 12.85313,
+    "lng": 5.34572
+  },
+  {
+    "name": "Dandume",
+    "country": "NG",
+    "lat": 11.4588,
+    "lng": 7.12602
+  },
+  {
+    "name": "Damboa",
+    "country": "NG",
+    "lat": 11.15534,
+    "lng": 12.75638
+  },
+  {
+    "name": "Dambatta",
+    "country": "NG",
+    "lat": 12.435,
+    "lng": 8.51531
+  },
+  {
+    "name": "Dambam",
+    "country": "NG",
+    "lat": 11.67893,
+    "lng": 10.70792
+  },
+  {
+    "name": "Damaturu",
+    "country": "NG",
+    "lat": 11.74697,
+    "lng": 11.96083
+  },
+  {
+    "name": "Damasak",
+    "country": "NG",
+    "lat": 13.10518,
+    "lng": 12.50854
+  },
+  {
+    "name": "Damagum",
+    "country": "NG",
+    "lat": 11.67824,
+    "lng": 11.33517
+  },
+  {
+    "name": "Dakingari",
+    "country": "NG",
+    "lat": 11.64809,
+    "lng": 4.06177
+  },
+  {
+    "name": "Dadiya",
+    "country": "NG",
+    "lat": 9.61947,
+    "lng": 11.44118
+  },
+  {
+    "name": "Dabai",
+    "country": "NG",
+    "lat": 11.47651,
+    "lng": 5.20625
+  },
+  {
+    "name": "Dass",
+    "country": "NG",
+    "lat": 10.00065,
+    "lng": 9.51596
+  },
+  {
+    "name": "Dauwendaele",
+    "country": "NL",
+    "lat": 51.49299,
+    "lng": 3.62624
+  },
+  {
+    "name": "Damwâld",
+    "country": "NL",
+    "lat": 53.29046,
+    "lng": 5.99785
+  },
+  {
+    "name": "Dalfsen",
+    "country": "NL",
+    "lat": 52.51167,
+    "lng": 6.25694
+  },
+  {
+    "name": "Dalen",
+    "country": "NL",
+    "lat": 52.69917,
+    "lng": 6.75556
+  },
+  {
+    "name": "Dapperbuurt",
+    "country": "NL",
+    "lat": 52.36222,
+    "lng": 4.92798
+  },
+  {
+    "name": "Dalen",
+    "country": "NO",
+    "lat": 59.44499,
+    "lng": 8.00492
+  },
+  {
+    "name": "Dale",
+    "country": "NO",
+    "lat": 61.36353,
+    "lng": 5.40036
+  },
+  {
+    "name": "Dale",
+    "country": "NO",
+    "lat": 60.58639,
+    "lng": 5.81888
+  },
+  {
+    "name": "Dailekh",
+    "country": "NP",
+    "lat": 28.84434,
+    "lng": 81.71011
+  },
+  {
+    "name": "Dargaville",
+    "country": "NZ",
+    "lat": -35.93333,
+    "lng": 173.88333
+  },
+  {
+    "name": "Darfield",
+    "country": "NZ",
+    "lat": -43.48333,
+    "lng": 172.11667
+  },
+  {
+    "name": "Dairy Flat",
+    "country": "NZ",
+    "lat": -36.66667,
+    "lng": 174.65
+  },
+  {
+    "name": "Dallington",
+    "country": "NZ",
+    "lat": -43.50833,
+    "lng": 172.67013
+  },
+  {
+    "name": "Days Bay",
+    "country": "NZ",
+    "lat": -41.28148,
+    "lng": 174.90719
+  },
+  {
+    "name": "Dannevirke",
+    "country": "NZ",
+    "lat": -40.20549,
+    "lng": 176.10084
+  },
+  {
+    "name": "David",
+    "country": "PA",
+    "lat": 8.42729,
+    "lng": -82.43085
+  },
+  {
+    "name": "Daguas",
+    "country": "PE",
+    "lat": -6.22667,
+    "lng": -77.74056
+  },
+  {
+    "name": "Daru",
+    "country": "PG",
+    "lat": -9.07786,
+    "lng": 143.20893
+  },
+  {
+    "name": "Daliciasao",
+    "country": "PH",
+    "lat": 9.9859,
+    "lng": 122.7618
+  },
+  {
+    "name": "Daykitin",
+    "country": "PH",
+    "lat": 13.27073,
+    "lng": 121.91086
+  },
+  {
+    "name": "Dayapan",
+    "country": "PH",
+    "lat": 13.93723,
+    "lng": 120.9162
+  },
+  {
+    "name": "Dayap",
+    "country": "PH",
+    "lat": 14.18014,
+    "lng": 121.33335
+  },
+  {
+    "name": "Dawa-Dawa",
+    "country": "PH",
+    "lat": 7.46833,
+    "lng": 122.83694
+  },
+  {
+    "name": "Davila",
+    "country": "PH",
+    "lat": 18.4726,
+    "lng": 120.5763
+  },
+  {
+    "name": "Davao",
+    "country": "PH",
+    "lat": 7.07306,
+    "lng": 125.61278
+  },
+  {
+    "name": "Dauis",
+    "country": "PH",
+    "lat": 9.62528,
+    "lng": 123.86583
+  },
+  {
+    "name": "Dauin",
+    "country": "PH",
+    "lat": 9.1914,
+    "lng": 123.2654
+  },
+  {
+    "name": "Davan",
+    "country": "PH",
+    "lat": 6.91487,
+    "lng": 126.15323
+  },
+  {
+    "name": "Datu Piang",
+    "country": "PH",
+    "lat": 7.02833,
+    "lng": 124.5025
+  },
+  {
+    "name": "Datu Paglas",
+    "country": "PH",
+    "lat": 6.76667,
+    "lng": 124.85
+  },
+  {
+    "name": "Datagon",
+    "country": "PH",
+    "lat": 9.4461,
+    "lng": 123.0891
+  },
+  {
+    "name": "Dassun",
+    "country": "PH",
+    "lat": 17.74517,
+    "lng": 121.71137
+  },
+  {
+    "name": "Dasol",
+    "country": "PH",
+    "lat": 15.9902,
+    "lng": 119.8828
+  },
+  {
+    "name": "Dasmariñas",
+    "country": "PH",
+    "lat": 14.32944,
+    "lng": 120.93667
+  },
+  {
+    "name": "Darapidap",
+    "country": "PH",
+    "lat": 17.20007,
+    "lng": 120.41802
+  },
+  {
+    "name": "Daram",
+    "country": "PH",
+    "lat": 11.6341,
+    "lng": 124.7947
+  },
+  {
+    "name": "Daraitan",
+    "country": "PH",
+    "lat": 14.6028,
+    "lng": 121.4319
+  },
+  {
+    "name": "Daragutan",
+    "country": "PH",
+    "lat": 17.0,
+    "lng": 122.03333
+  },
+  {
+    "name": "Daraga",
+    "country": "PH",
+    "lat": 13.1483,
+    "lng": 123.7124
+  },
+  {
+    "name": "Dapitan",
+    "country": "PH",
+    "lat": 10.26244,
+    "lng": 123.9497
+  },
+  {
+    "name": "Dapitan",
+    "country": "PH",
+    "lat": 8.6561,
+    "lng": 123.4227
+  },
+  {
+    "name": "Dapdapan",
+    "country": "PH",
+    "lat": 11.4943,
+    "lng": 122.6314
+  },
+  {
+    "name": "Dapdap",
+    "country": "PH",
+    "lat": 12.2155,
+    "lng": 123.7662
+  },
+  {
+    "name": "Dapdap",
+    "country": "PH",
+    "lat": 12.062,
+    "lng": 125.4881
+  },
+  {
+    "name": "Dapawan",
+    "country": "PH",
+    "lat": 12.40694,
+    "lng": 122.02778
+  },
+  {
+    "name": "Dapa",
+    "country": "PH",
+    "lat": 9.75606,
+    "lng": 126.05164
+  },
+  {
+    "name": "Dao",
+    "country": "PH",
+    "lat": 12.0998,
+    "lng": 125.4372
+  },
+  {
+    "name": "Dao",
+    "country": "PH",
+    "lat": 11.3937,
+    "lng": 122.6856
+  },
+  {
+    "name": "Dansuli",
+    "country": "PH",
+    "lat": 6.64075,
+    "lng": 124.58258
+  },
+  {
+    "name": "Danglas",
+    "country": "PH",
+    "lat": 17.7009,
+    "lng": 120.6556
+  },
+  {
+    "name": "Dangcalan",
+    "country": "PH",
+    "lat": 12.9168,
+    "lng": 123.5838
+  },
+  {
+    "name": "Dancagan",
+    "country": "PH",
+    "lat": 7.60917,
+    "lng": 125.00417
+  },
+  {
+    "name": "Dancalan",
+    "country": "PH",
+    "lat": 9.9821,
+    "lng": 122.7386
+  },
+  {
+    "name": "Danao",
+    "country": "PH",
+    "lat": 10.52083,
+    "lng": 124.02722
+  },
+  {
+    "name": "Danao",
+    "country": "PH",
+    "lat": 9.945,
+    "lng": 124.2233
+  },
+  {
+    "name": "Danao",
+    "country": "PH",
+    "lat": 9.63333,
+    "lng": 124.2
+  },
+  {
+    "name": "Danao",
+    "country": "PH",
+    "lat": 9.55421,
+    "lng": 123.75648
+  },
+  {
+    "name": "Damulog",
+    "country": "PH",
+    "lat": 7.48361,
+    "lng": 124.94306
+  },
+  {
+    "name": "Dampol",
+    "country": "PH",
+    "lat": 14.90128,
+    "lng": 120.82187
+  },
+  {
+    "name": "Damortis",
+    "country": "PH",
+    "lat": 16.24051,
+    "lng": 120.40565
+  },
+  {
+    "name": "Damolog",
+    "country": "PH",
+    "lat": 10.77271,
+    "lng": 124.00639
+  },
+  {
+    "name": "Damilag",
+    "country": "PH",
+    "lat": 8.35472,
+    "lng": 124.81222
+  },
+  {
+    "name": "Damayan",
+    "country": "PH",
+    "lat": 11.4936,
+    "lng": 122.5531
+  },
+  {
+    "name": "Damawato",
+    "country": "PH",
+    "lat": 6.7,
+    "lng": 124.78333
+  },
+  {
+    "name": "Damatulan",
+    "country": "PH",
+    "lat": 7.03889,
+    "lng": 124.48278
+  },
+  {
+    "name": "Dalwangan",
+    "country": "PH",
+    "lat": 8.20056,
+    "lng": 125.04056
+  },
+  {
+    "name": "Dalupirip",
+    "country": "PH",
+    "lat": 16.32603,
+    "lng": 120.72414
+  },
+  {
+    "name": "Dalupaon",
+    "country": "PH",
+    "lat": 13.5517,
+    "lng": 122.9457
+  },
+  {
+    "name": "Dalumangcob",
+    "country": "PH",
+    "lat": 7.21667,
+    "lng": 124.3
+  },
+  {
+    "name": "Dalorong",
+    "country": "PH",
+    "lat": 7.58583,
+    "lng": 125.13278
+  },
+  {
+    "name": "Dalirig",
+    "country": "PH",
+    "lat": 8.37722,
+    "lng": 124.90139
+  },
+  {
+    "name": "Dalipuga",
+    "country": "PH",
+    "lat": 8.31583,
+    "lng": 124.25472
+  },
+  {
+    "name": "Dalipey",
+    "country": "PH",
+    "lat": 16.8,
+    "lng": 120.71667
+  },
+  {
+    "name": "Dalican",
+    "country": "PH",
+    "lat": 6.96667,
+    "lng": 124.4
+  },
+  {
+    "name": "Daliao",
+    "country": "PH",
+    "lat": 5.86111,
+    "lng": 124.95333
+  },
+  {
+    "name": "Dalaoig",
+    "country": "PH",
+    "lat": 17.94917,
+    "lng": 121.7148
+  },
+  {
+    "name": "Dalaguete",
+    "country": "PH",
+    "lat": 9.7612,
+    "lng": 123.5349
+  },
+  {
+    "name": "Dahay",
+    "country": "PH",
+    "lat": 6.39067,
+    "lng": 124.71464
+  },
+  {
+    "name": "Dagupan",
+    "country": "PH",
+    "lat": 17.70039,
+    "lng": 121.50448
+  },
+  {
+    "name": "Dagupan",
+    "country": "PH",
+    "lat": 16.04313,
+    "lng": 120.33325
+  },
+  {
+    "name": "Dagup",
+    "country": "PH",
+    "lat": 16.63722,
+    "lng": 120.44556
+  },
+  {
+    "name": "Daguit",
+    "country": "PH",
+    "lat": 14.1895,
+    "lng": 122.7266
+  },
+  {
+    "name": "Daguioman",
+    "country": "PH",
+    "lat": 17.45093,
+    "lng": 120.91505
+  },
+  {
+    "name": "Dagumba-an",
+    "country": "PH",
+    "lat": 8.15306,
+    "lng": 124.59083
+  },
+  {
+    "name": "Dagohoy",
+    "country": "PH",
+    "lat": 9.90016,
+    "lng": 124.28322
+  },
+  {
+    "name": "Dagatan",
+    "country": "PH",
+    "lat": 14.0017,
+    "lng": 121.3767
+  },
+  {
+    "name": "Dagatan",
+    "country": "PH",
+    "lat": 13.7389,
+    "lng": 121.199
+  },
+  {
+    "name": "Dagami",
+    "country": "PH",
+    "lat": 11.06083,
+    "lng": 124.90278
+  },
+  {
+    "name": "Daet",
+    "country": "PH",
+    "lat": 14.1122,
+    "lng": 122.9553
+  },
+  {
+    "name": "Dadus",
+    "country": "PH",
+    "lat": 7.0575,
+    "lng": 124.32167
+  },
+  {
+    "name": "Dacudao",
+    "country": "PH",
+    "lat": 7.21528,
+    "lng": 125.47139
+  },
+  {
+    "name": "Da-an Sur",
+    "country": "PH",
+    "lat": 11.2612,
+    "lng": 122.4202
+  },
+  {
+    "name": "Daanbantayan",
+    "country": "PH",
+    "lat": 11.24681,
+    "lng": 124.01462
+  },
+  {
+    "name": "Dalangin",
+    "country": "PH",
+    "lat": 7.85056,
+    "lng": 122.57833
+  },
+  {
+    "name": "Danlugan",
+    "country": "PH",
+    "lat": 7.8922,
+    "lng": 123.3712
+  },
+  {
+    "name": "Damabalas",
+    "country": "PH",
+    "lat": 7.01556,
+    "lng": 124.51417
+  },
+  {
+    "name": "Dado",
+    "country": "PH",
+    "lat": 7.05,
+    "lng": 124.45972
+  },
+  {
+    "name": "Daguma",
+    "country": "PH",
+    "lat": 6.60345,
+    "lng": 124.5702
+  },
+  {
+    "name": "Daur",
+    "country": "PK",
+    "lat": 26.45528,
+    "lng": 68.31835
+  },
+  {
+    "name": "Daultala",
+    "country": "PK",
+    "lat": 33.19282,
+    "lng": 73.14099
+  },
+  {
+    "name": "Daulatpur",
+    "country": "PK",
+    "lat": 26.50158,
+    "lng": 67.97079
+  },
+  {
+    "name": "Daud Khel",
+    "country": "PK",
+    "lat": 32.87533,
+    "lng": 71.57118
+  },
+  {
+    "name": "Daska Kalan",
+    "country": "PK",
+    "lat": 32.32422,
+    "lng": 74.35039
+  },
+  {
+    "name": "Darya Khan Marri",
+    "country": "PK",
+    "lat": 26.67765,
+    "lng": 68.28666
+  },
+  {
+    "name": "Darya Khan",
+    "country": "PK",
+    "lat": 31.78447,
+    "lng": 71.10197
+  },
+  {
+    "name": "Daromehar",
+    "country": "PK",
+    "lat": 24.79382,
+    "lng": 68.17978
+  },
+  {
+    "name": "Dalbandin",
+    "country": "PK",
+    "lat": 28.88846,
+    "lng": 64.40616
+  },
+  {
+    "name": "Dajal",
+    "country": "PK",
+    "lat": 29.55769,
+    "lng": 70.37614
+  },
+  {
+    "name": "Daira Din Panah",
+    "country": "PK",
+    "lat": 30.57053,
+    "lng": 70.93722
+  },
+  {
+    "name": "Daggar",
+    "country": "PK",
+    "lat": 34.51106,
+    "lng": 72.48438
+  },
+  {
+    "name": "Dadu",
+    "country": "PK",
+    "lat": 26.73033,
+    "lng": 67.7769
+  },
+  {
+    "name": "Dadhar",
+    "country": "PK",
+    "lat": 29.47489,
+    "lng": 67.65167
+  },
+  {
+    "name": "Dandot RS",
+    "country": "PK",
+    "lat": 32.64167,
+    "lng": 72.975
+  },
+  {
+    "name": "Dayal",
+    "country": "PK",
+    "lat": 33.31222,
+    "lng": 73.70346
+  },
+  {
+    "name": "Dambudas",
+    "country": "PK",
+    "lat": 35.59759,
+    "lng": 75.22493
+  },
+  {
+    "name": "Dasu",
+    "country": "PK",
+    "lat": 35.29169,
+    "lng": 73.2906
+  },
+  {
+    "name": "Daleszyce",
+    "country": "PL",
+    "lat": 50.80229,
+    "lng": 20.80791
+  },
+  {
+    "name": "Daszyna",
+    "country": "PL",
+    "lat": 52.15503,
+    "lng": 19.18153
+  },
+  {
+    "name": "Daszewice",
+    "country": "PL",
+    "lat": 52.30002,
+    "lng": 16.95723
+  },
+  {
+    "name": "Darłowo",
+    "country": "PL",
+    "lat": 54.42095,
+    "lng": 16.4107
+  },
+  {
+    "name": "Darłówko",
+    "country": "PL",
+    "lat": 54.43518,
+    "lng": 16.37731
+  },
+  {
+    "name": "Damnica",
+    "country": "PL",
+    "lat": 54.50025,
+    "lng": 17.27154
+  },
+  {
+    "name": "Damasławek",
+    "country": "PL",
+    "lat": 52.83979,
+    "lng": 17.50062
+  },
+  {
+    "name": "Dalików",
+    "country": "PL",
+    "lat": 51.88476,
+    "lng": 19.11904
+  },
+  {
+    "name": "Dalachów",
+    "country": "PL",
+    "lat": 51.07732,
+    "lng": 18.5784
+  },
+  {
+    "name": "Daguao",
+    "country": "PR",
+    "lat": 18.22635,
+    "lng": -65.68322
+  },
+  {
+    "name": "Dayr al Balaḩ",
+    "country": "PS",
+    "lat": 31.41834,
+    "lng": 34.34933
+  },
+  {
+    "name": "Dayr al ‘Asal al Fawqā",
+    "country": "PS",
+    "lat": 31.46832,
+    "lng": 34.93832
+  },
+  {
+    "name": "Dayr Sharaf",
+    "country": "PS",
+    "lat": 32.25326,
+    "lng": 35.18893
+  },
+  {
+    "name": "Dayr Qiddīs",
+    "country": "PS",
+    "lat": 31.94862,
+    "lng": 35.04437
+  },
+  {
+    "name": "Dayr Jarīr",
+    "country": "PS",
+    "lat": 31.96636,
+    "lng": 35.29261
+  },
+  {
+    "name": "Dayr Istiyā",
+    "country": "PS",
+    "lat": 32.13096,
+    "lng": 35.13963
+  },
+  {
+    "name": "Dayr Ibzī‘",
+    "country": "PS",
+    "lat": 31.91727,
+    "lng": 35.12105
+  },
+  {
+    "name": "Dayr Dibwān",
+    "country": "PS",
+    "lat": 31.91112,
+    "lng": 35.26661
+  },
+  {
+    "name": "Dayr Ballūţ",
+    "country": "PS",
+    "lat": 32.06551,
+    "lng": 35.02451
+  },
+  {
+    "name": "Dayr as Sūdān",
+    "country": "PS",
+    "lat": 32.03213,
+    "lng": 35.14845
+  },
+  {
+    "name": "Dayr al Ḩaţab",
+    "country": "PS",
+    "lat": 32.21734,
+    "lng": 35.32127
+  },
+  {
+    "name": "Dayr al Ghuşūn",
+    "country": "PS",
+    "lat": 32.35244,
+    "lng": 35.07689
+  },
+  {
+    "name": "Dayr Abū Mash‘al",
+    "country": "PS",
+    "lat": 31.99881,
+    "lng": 35.06844
+  },
+  {
+    "name": "Dayr Abū Ḑa‘īf",
+    "country": "PS",
+    "lat": 32.45601,
+    "lng": 35.36164
+  },
+  {
+    "name": "Dayr Sāmit",
+    "country": "PS",
+    "lat": 31.52057,
+    "lng": 34.97442
+  },
+  {
+    "name": "Damaia",
+    "country": "PT",
+    "lat": 38.75141,
+    "lng": -9.21227
+  },
+  {
+    "name": "Darque",
+    "country": "PT",
+    "lat": 41.68333,
+    "lng": -8.76667
+  },
+  {
+    "name": "Davideşti",
+    "country": "RO",
+    "lat": 45.01667,
+    "lng": 25.03333
+  },
+  {
+    "name": "Dascălu",
+    "country": "RO",
+    "lat": 44.6,
+    "lng": 26.23333
+  },
+  {
+    "name": "Darova Nouă",
+    "country": "RO",
+    "lat": 45.63333,
+    "lng": 21.76667
+  },
+  {
+    "name": "Darova",
+    "country": "RO",
+    "lat": 45.642,
+    "lng": 21.77333
+  },
+  {
+    "name": "Darabani",
+    "country": "RO",
+    "lat": 48.18333,
+    "lng": 26.58333
+  },
+  {
+    "name": "Dara",
+    "country": "RO",
+    "lat": 47.81636,
+    "lng": 22.75216
+  },
+  {
+    "name": "Daneş",
+    "country": "RO",
+    "lat": 46.21667,
+    "lng": 24.7
+  },
+  {
+    "name": "Dancu",
+    "country": "RO",
+    "lat": 47.15417,
+    "lng": 27.66623
+  },
+  {
+    "name": "Dalnic",
+    "country": "RO",
+    "lat": 45.92242,
+    "lng": 25.98741
+  },
+  {
+    "name": "Dalboșeț",
+    "country": "RO",
+    "lat": 44.86399,
+    "lng": 21.95854
+  },
+  {
+    "name": "Daia Română",
+    "country": "RO",
+    "lat": 46.01667,
+    "lng": 23.66667
+  },
+  {
+    "name": "Daia",
+    "country": "RO",
+    "lat": 44.0,
+    "lng": 25.98333
+  },
+  {
+    "name": "Dagâţa",
+    "country": "RO",
+    "lat": 46.93333,
+    "lng": 27.18333
+  },
+  {
+    "name": "Davydovo",
+    "country": "RU",
+    "lat": 55.60859,
+    "lng": 38.86109
+  },
+  {
+    "name": "Davydovka",
+    "country": "RU",
+    "lat": 51.15781,
+    "lng": 39.42915
+  },
+  {
+    "name": "Davydkovo",
+    "country": "RU",
+    "lat": 55.71815,
+    "lng": 37.47271
+  },
+  {
+    "name": "Davlekanovo",
+    "country": "RU",
+    "lat": 54.21761,
+    "lng": 55.03064
+  },
+  {
+    "name": "Darovskoy",
+    "country": "RU",
+    "lat": 58.76993,
+    "lng": 47.95787
+  },
+  {
+    "name": "Dankov",
+    "country": "RU",
+    "lat": 53.24976,
+    "lng": 39.14409
+  },
+  {
+    "name": "Danki",
+    "country": "RU",
+    "lat": 54.91806,
+    "lng": 37.57009
+  },
+  {
+    "name": "Danilovka",
+    "country": "RU",
+    "lat": 50.35786,
+    "lng": 44.11489
+  },
+  {
+    "name": "Danilov",
+    "country": "RU",
+    "lat": 58.19077,
+    "lng": 40.17081
+  },
+  {
+    "name": "Dal’neye Konstantinovo",
+    "country": "RU",
+    "lat": 55.80844,
+    "lng": 44.0889
+  },
+  {
+    "name": "Dalakovo",
+    "country": "RU",
+    "lat": 43.23759,
+    "lng": 44.58964
+  },
+  {
+    "name": "Dagestanskiye Ogni",
+    "country": "RU",
+    "lat": 42.11585,
+    "lng": 48.19192
+  },
+  {
+    "name": "Dachnoye",
+    "country": "RU",
+    "lat": 59.84167,
+    "lng": 30.25583
+  },
+  {
+    "name": "Dachnoye",
+    "country": "RU",
+    "lat": 43.08468,
+    "lng": 44.7358
+  },
+  {
+    "name": "Dagomys",
+    "country": "RU",
+    "lat": 43.66974,
+    "lng": 39.66863
+  },
+  {
+    "name": "Dalmatovo",
+    "country": "RU",
+    "lat": 56.25958,
+    "lng": 62.93467
+  },
+  {
+    "name": "Dauriya",
+    "country": "RU",
+    "lat": 49.92572,
+    "lng": 116.84546
+  },
+  {
+    "name": "Darasun",
+    "country": "RU",
+    "lat": 51.65853,
+    "lng": 113.97406
+  },
+  {
+    "name": "Dalnerechensk",
+    "country": "RU",
+    "lat": 45.93149,
+    "lng": 133.73906
+  },
+  {
+    "name": "Dalnegorsk",
+    "country": "RU",
+    "lat": 44.55745,
+    "lng": 135.6209
+  },
+  {
+    "name": "Dammam",
+    "country": "SA",
+    "lat": 26.43442,
+    "lng": 50.10326
+  },
+  {
+    "name": "Danderyd",
+    "country": "SE",
+    "lat": 59.40398,
+    "lng": 18.02376
+  },
+  {
+    "name": "Dals Långed",
+    "country": "SE",
+    "lat": 58.92555,
+    "lng": 12.30865
+  },
+  {
+    "name": "Dalsjöfors",
+    "country": "SE",
+    "lat": 57.71667,
+    "lng": 13.08333
+  },
+  {
+    "name": "Dalby",
+    "country": "SE",
+    "lat": 55.66655,
+    "lng": 13.34976
+  },
+  {
+    "name": "Dalarö",
+    "country": "SE",
+    "lat": 59.13306,
+    "lng": 18.40639
+  },
+  {
+    "name": "Dairy Farm",
+    "country": "SG",
+    "lat": 1.36639,
+    "lng": 103.77449
+  },
+  {
+    "name": "Daru",
+    "country": "SL",
+    "lat": 7.98976,
+    "lng": -10.84223
+  },
+  {
+    "name": "Dara",
+    "country": "SN",
+    "lat": 15.34844,
+    "lng": -15.47993
+  },
+  {
+    "name": "Dakar",
+    "country": "SN",
+    "lat": 14.6937,
+    "lng": -17.44406
+  },
+  {
+    "name": "Dagana",
+    "country": "SN",
+    "lat": 16.47667,
+    "lng": -15.6
+  },
+  {
+    "name": "Dabo",
+    "country": "SN",
+    "lat": 12.88333,
+    "lng": -14.48333
+  },
+  {
+    "name": "Damascus",
+    "country": "SY",
+    "lat": 33.5102,
+    "lng": 36.29128
+  },
+  {
+    "name": "Dayr Ḩāfir",
+    "country": "SY",
+    "lat": 36.15694,
+    "lng": 37.70778
+  },
+  {
+    "name": "Dayr ‘Aţīyah",
+    "country": "SY",
+    "lat": 34.09541,
+    "lng": 36.76791
+  },
+  {
+    "name": "Dayr al ‘Aşāfīr",
+    "country": "SY",
+    "lat": 33.46585,
+    "lng": 36.42044
+  },
+  {
+    "name": "Darkūsh",
+    "country": "SY",
+    "lat": 35.9918,
+    "lng": 36.39361
+  },
+  {
+    "name": "Dar‘ā",
+    "country": "SY",
+    "lat": 32.61889,
+    "lng": 36.10213
+  },
+  {
+    "name": "Darkton",
+    "country": "SZ",
+    "lat": -26.23333,
+    "lng": 31.03333
+  },
+  {
+    "name": "Dapaong",
+    "country": "TG",
+    "lat": 10.86225,
+    "lng": 0.20762
+  },
+  {
+    "name": "Danyi-Apéyémé",
+    "country": "TG",
+    "lat": 7.20365,
+    "lng": 0.69563
+  },
+  {
+    "name": "Dan Chang",
+    "country": "TH",
+    "lat": 14.84183,
+    "lng": 99.69756
+  },
+  {
+    "name": "Damnoen Saduak",
+    "country": "TH",
+    "lat": 13.51825,
+    "lng": 99.95469
+  },
+  {
+    "name": "Dan Makham Tia",
+    "country": "TH",
+    "lat": 13.85339,
+    "lng": 99.41042
+  },
+  {
+    "name": "Dan Sai",
+    "country": "TH",
+    "lat": 17.28011,
+    "lng": 101.14686
+  },
+  {
+    "name": "Dan Khun Thot",
+    "country": "TH",
+    "lat": 15.2085,
+    "lng": 101.77138
+  },
+  {
+    "name": "Darband",
+    "country": "TJ",
+    "lat": 38.86776,
+    "lng": 69.96642
+  },
+  {
+    "name": "Danghara",
+    "country": "TJ",
+    "lat": 38.09578,
+    "lng": 69.33998
+  },
+  {
+    "name": "Dalyoni Bolo",
+    "country": "TJ",
+    "lat": 39.74897,
+    "lng": 68.99566
+  },
+  {
+    "name": "Dare",
+    "country": "TL",
+    "lat": -8.59273,
+    "lng": 125.571
+  },
+  {
+    "name": "Daşoguz",
+    "country": "TM",
+    "lat": 41.83625,
+    "lng": 59.96661
+  },
+  {
+    "name": "Dar Chabanne",
+    "country": "TN",
+    "lat": 36.46798,
+    "lng": 10.75167
+  },
+  {
+    "name": "Dar Ouled Khalifa",
+    "country": "TN",
+    "lat": 35.35,
+    "lng": 8.61667
+  },
+  {
+    "name": "Dar Ali Ben Hassene",
+    "country": "TN",
+    "lat": 35.5,
+    "lng": 10.7
+  },
+  {
+    "name": "Dahmani",
+    "country": "TN",
+    "lat": 35.94388,
+    "lng": 8.82778
+  },
+  {
+    "name": "Dar Haj Ahmed Ben Ameur",
+    "country": "TN",
+    "lat": 35.66564,
+    "lng": 9.96665
+  },
+  {
+    "name": "Dar el Haj Taïeb",
+    "country": "TN",
+    "lat": 34.78444,
+    "lng": 10.74389
+  },
+  {
+    "name": "Dazkırı",
+    "country": "TR",
+    "lat": 37.91861,
+    "lng": 29.86056
+  },
+  {
+    "name": "Davutlar",
+    "country": "TR",
+    "lat": 37.73392,
+    "lng": 27.29283
+  },
+  {
+    "name": "Davulga",
+    "country": "TR",
+    "lat": 38.97917,
+    "lng": 31.37139
+  },
+  {
+    "name": "Datça",
+    "country": "TR",
+    "lat": 36.73778,
+    "lng": 27.68417
+  },
+  {
+    "name": "Darıkent",
+    "country": "TR",
+    "lat": 38.96252,
+    "lng": 39.80792
+  },
+  {
+    "name": "Dargeçit",
+    "country": "TR",
+    "lat": 37.54616,
+    "lng": 41.71652
+  },
+  {
+    "name": "Darende",
+    "country": "TR",
+    "lat": 38.54583,
+    "lng": 37.50583
+  },
+  {
+    "name": "Darboğaz",
+    "country": "TR",
+    "lat": 37.47383,
+    "lng": 34.55891
+  },
+  {
+    "name": "Danişment",
+    "country": "TR",
+    "lat": 39.86917,
+    "lng": 27.63306
+  },
+  {
+    "name": "Damlacık",
+    "country": "TR",
+    "lat": 37.9142,
+    "lng": 38.65392
+  },
+  {
+    "name": "Dalyan",
+    "country": "TR",
+    "lat": 36.83429,
+    "lng": 28.6446
+  },
+  {
+    "name": "Dallıbahçe",
+    "country": "TR",
+    "lat": 39.13321,
+    "lng": 39.87929
+  },
+  {
+    "name": "Dalama",
+    "country": "TR",
+    "lat": 37.79028,
+    "lng": 28.06639
+  },
+  {
+    "name": "Dağyolu",
+    "country": "TR",
+    "lat": 39.53845,
+    "lng": 39.90765
+  },
+  {
+    "name": "Dağlıca",
+    "country": "TR",
+    "lat": 37.36658,
+    "lng": 44.08528
+  },
+  {
+    "name": "Dağkızılca",
+    "country": "TR",
+    "lat": 38.311,
+    "lng": 27.39081
+  },
+  {
+    "name": "Dağ",
+    "country": "TR",
+    "lat": 37.19306,
+    "lng": 30.50417
+  },
+  {
+    "name": "Dağbaşı",
+    "country": "TR",
+    "lat": 37.89825,
+    "lng": 39.33366
+  },
+  {
+    "name": "Dağardı",
+    "country": "TR",
+    "lat": 39.4308,
+    "lng": 28.99558
+  },
+  {
+    "name": "Dadaşköy",
+    "country": "TR",
+    "lat": 39.94489,
+    "lng": 41.25465
+  },
+  {
+    "name": "Dağlıca",
+    "country": "TR",
+    "lat": 37.43179,
+    "lng": 42.77611
+  },
+  {
+    "name": "Danişment",
+    "country": "TR",
+    "lat": 39.17153,
+    "lng": 38.19851
+  },
+  {
+    "name": "Dalaman",
+    "country": "TR",
+    "lat": 36.76591,
+    "lng": 28.8028
+  },
+  {
+    "name": "Darıca",
+    "country": "TR",
+    "lat": 40.77973,
+    "lng": 29.39454
+  },
+  {
+    "name": "Darıca",
+    "country": "TR",
+    "lat": 40.0206,
+    "lng": 27.86374
+  },
+  {
+    "name": "Dambaslar",
+    "country": "TR",
+    "lat": 41.22417,
+    "lng": 27.24806
+  },
+  {
+    "name": "Damal",
+    "country": "TR",
+    "lat": 41.34145,
+    "lng": 42.8368
+  },
+  {
+    "name": "Dağbaşı",
+    "country": "TR",
+    "lat": 40.72763,
+    "lng": 39.91177
+  },
+  {
+    "name": "Daday",
+    "country": "TR",
+    "lat": 41.47866,
+    "lng": 33.46667
+  },
+  {
+    "name": "Dallıca",
+    "country": "TR",
+    "lat": 37.90667,
+    "lng": 28.28318
+  },
+  {
+    "name": "Danshui",
+    "country": "TW",
+    "lat": 25.17196,
+    "lng": 121.4429
+  },
+  {
+    "name": "Daxi",
+    "country": "TW",
+    "lat": 24.88373,
+    "lng": 121.29043
+  },
+  {
+    "name": "Dar es Salaam",
+    "country": "TZ",
+    "lat": -6.82349,
+    "lng": 39.26951
+  },
+  {
+    "name": "Dareda",
+    "country": "TZ",
+    "lat": -4.21667,
+    "lng": 35.55
+  },
+  {
+    "name": "Dachne",
+    "country": "UA",
+    "lat": 46.57844,
+    "lng": 30.54733
+  },
+  {
+    "name": "Davydiv Brid",
+    "country": "UA",
+    "lat": 47.23925,
+    "lng": 33.19094
+  },
+  {
+    "name": "Davydivka",
+    "country": "UA",
+    "lat": 48.13802,
+    "lng": 25.54683
+  },
+  {
+    "name": "Davydivtsi",
+    "country": "UA",
+    "lat": 48.48756,
+    "lng": 25.70811
+  },
+  {
+    "name": "Dashiv",
+    "country": "UA",
+    "lat": 49.00351,
+    "lng": 29.43971
+  },
+  {
+    "name": "Dalnyk",
+    "country": "UA",
+    "lat": 46.22453,
+    "lng": 30.53031
+  },
+  {
+    "name": "Dalekoye",
+    "country": "UA",
+    "lat": 45.66006,
+    "lng": 33.08059
+  },
+  {
+    "name": "Dachnoye",
+    "country": "UA",
+    "lat": 44.88448,
+    "lng": 34.98333
+  },
+  {
+    "name": "Darnytsya Car Repair Plant Microdistrict",
+    "country": "UA",
+    "lat": 50.44953,
+    "lng": 30.67608
+  },
+  {
+    "name": "Dadeville",
+    "country": "US",
+    "lat": 32.83124,
+    "lng": -85.76357
+  },
+  {
+    "name": "Daleville",
+    "country": "US",
+    "lat": 31.31017,
+    "lng": -85.71299
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 34.41454,
+    "lng": -87.08751
+  },
+  {
+    "name": "Daphne",
+    "country": "US",
+    "lat": 30.60353,
+    "lng": -87.9036
+  },
+  {
+    "name": "Dauphin Island",
+    "country": "US",
+    "lat": 30.25548,
+    "lng": -88.10972
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 35.05398,
+    "lng": -93.39352
+  },
+  {
+    "name": "Dardanelle",
+    "country": "US",
+    "lat": 35.22314,
+    "lng": -93.15795
+  },
+  {
+    "name": "Dade City",
+    "country": "US",
+    "lat": 28.36472,
+    "lng": -82.19592
+  },
+  {
+    "name": "Dania Beach",
+    "country": "US",
+    "lat": 26.05231,
+    "lng": -80.14393
+  },
+  {
+    "name": "Davenport",
+    "country": "US",
+    "lat": 28.1614,
+    "lng": -81.60174
+  },
+  {
+    "name": "Davie",
+    "country": "US",
+    "lat": 26.06287,
+    "lng": -80.2331
+  },
+  {
+    "name": "Daytona Beach",
+    "country": "US",
+    "lat": 29.21081,
+    "lng": -81.02283
+  },
+  {
+    "name": "Daytona Beach Shores",
+    "country": "US",
+    "lat": 29.17609,
+    "lng": -80.98283
+  },
+  {
+    "name": "Dacula",
+    "country": "US",
+    "lat": 33.98872,
+    "lng": -83.89796
+  },
+  {
+    "name": "Dahlonega",
+    "country": "US",
+    "lat": 34.53259,
+    "lng": -83.98491
+  },
+  {
+    "name": "Dalton",
+    "country": "US",
+    "lat": 34.7698,
+    "lng": -84.97022
+  },
+  {
+    "name": "Dallas",
+    "country": "US",
+    "lat": 33.92371,
+    "lng": -84.84077
+  },
+  {
+    "name": "Danielsville",
+    "country": "US",
+    "lat": 34.12428,
+    "lng": -83.22126
+  },
+  {
+    "name": "Darien",
+    "country": "US",
+    "lat": 31.37023,
+    "lng": -81.43399
+  },
+  {
+    "name": "Davisboro",
+    "country": "US",
+    "lat": 32.97904,
+    "lng": -82.60791
+  },
+  {
+    "name": "Dawson",
+    "country": "US",
+    "lat": 31.77382,
+    "lng": -84.448
+  },
+  {
+    "name": "Dawsonville",
+    "country": "US",
+    "lat": 34.42121,
+    "lng": -84.11908
+  },
+  {
+    "name": "Dale",
+    "country": "US",
+    "lat": 38.16894,
+    "lng": -86.99
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 39.7606,
+    "lng": -86.52639
+  },
+  {
+    "name": "Darmstadt",
+    "country": "US",
+    "lat": 38.09921,
+    "lng": -87.57891
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 37.64563,
+    "lng": -84.77217
+  },
+  {
+    "name": "Dawson Springs",
+    "country": "US",
+    "lat": 37.16727,
+    "lng": -87.69251
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 39.11284,
+    "lng": -84.47272
+  },
+  {
+    "name": "Damascus",
+    "country": "US",
+    "lat": 39.28844,
+    "lng": -77.20387
+  },
+  {
+    "name": "Darnestown",
+    "country": "US",
+    "lat": 39.10344,
+    "lng": -77.29082
+  },
+  {
+    "name": "Davidsonville",
+    "country": "US",
+    "lat": 38.92289,
+    "lng": -76.6283
+  },
+  {
+    "name": "Dardenne Prairie",
+    "country": "US",
+    "lat": 38.7695,
+    "lng": -90.72902
+  },
+  {
+    "name": "Dallas",
+    "country": "US",
+    "lat": 35.31653,
+    "lng": -81.17619
+  },
+  {
+    "name": "Dana",
+    "country": "US",
+    "lat": 35.32928,
+    "lng": -82.3754
+  },
+  {
+    "name": "Danbury",
+    "country": "US",
+    "lat": 36.4093,
+    "lng": -80.20588
+  },
+  {
+    "name": "Davidson",
+    "country": "US",
+    "lat": 35.50233,
+    "lng": -80.83912
+  },
+  {
+    "name": "Day Heights",
+    "country": "US",
+    "lat": 39.17395,
+    "lng": -84.22633
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 39.75895,
+    "lng": -84.19161
+  },
+  {
+    "name": "Davis",
+    "country": "US",
+    "lat": 34.50453,
+    "lng": -97.11946
+  },
+  {
+    "name": "Dallastown",
+    "country": "US",
+    "lat": 39.89954,
+    "lng": -76.64025
+  },
+  {
+    "name": "Darby",
+    "country": "US",
+    "lat": 39.91845,
+    "lng": -75.25907
+  },
+  {
+    "name": "Dalzell",
+    "country": "US",
+    "lat": 34.01682,
+    "lng": -80.43008
+  },
+  {
+    "name": "Darlington",
+    "country": "US",
+    "lat": 34.29988,
+    "lng": -79.87617
+  },
+  {
+    "name": "Dandridge",
+    "country": "US",
+    "lat": 36.01537,
+    "lng": -83.41489
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 35.49396,
+    "lng": -85.01245
+  },
+  {
+    "name": "Daingerfield",
+    "country": "US",
+    "lat": 33.03179,
+    "lng": -94.72187
+  },
+  {
+    "name": "Dallas",
+    "country": "US",
+    "lat": 32.78306,
+    "lng": -96.80667
+  },
+  {
+    "name": "Dalworthington Gardens",
+    "country": "US",
+    "lat": 32.70291,
+    "lng": -97.15529
+  },
+  {
+    "name": "Danbury",
+    "country": "US",
+    "lat": 29.2283,
+    "lng": -95.34494
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 30.04661,
+    "lng": -94.8852
+  },
+  {
+    "name": "Dahlgren",
+    "country": "US",
+    "lat": 38.33124,
+    "lng": -77.05109
+  },
+  {
+    "name": "Dale City",
+    "country": "US",
+    "lat": 38.63706,
+    "lng": -77.31109
+  },
+  {
+    "name": "Daleville",
+    "country": "US",
+    "lat": 37.40986,
+    "lng": -79.91254
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 36.58597,
+    "lng": -79.39502
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 38.41485,
+    "lng": -78.93864
+  },
+  {
+    "name": "Daniels",
+    "country": "US",
+    "lat": 37.74327,
+    "lng": -81.12408
+  },
+  {
+    "name": "Danbury",
+    "country": "US",
+    "lat": 41.39482,
+    "lng": -73.45401
+  },
+  {
+    "name": "Danielson",
+    "country": "US",
+    "lat": 41.8026,
+    "lng": -71.88591
+  },
+  {
+    "name": "Darien",
+    "country": "US",
+    "lat": 41.07871,
+    "lng": -73.46929
+  },
+  {
+    "name": "Dakota City",
+    "country": "US",
+    "lat": 42.72219,
+    "lng": -94.19718
+  },
+  {
+    "name": "Dallas Center",
+    "country": "US",
+    "lat": 41.68443,
+    "lng": -93.96106
+  },
+  {
+    "name": "Davenport",
+    "country": "US",
+    "lat": 41.52364,
+    "lng": -90.57764
+  },
+  {
+    "name": "Danvers",
+    "country": "US",
+    "lat": 40.52948,
+    "lng": -89.17731
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 40.12448,
+    "lng": -87.63002
+  },
+  {
+    "name": "Darien",
+    "country": "US",
+    "lat": 41.75198,
+    "lng": -87.97395
+  },
+  {
+    "name": "Davis Junction",
+    "country": "US",
+    "lat": 42.10169,
+    "lng": -89.09316
+  },
+  {
+    "name": "Dale",
+    "country": "US",
+    "lat": 40.01671,
+    "lng": -86.4
+  },
+  {
+    "name": "Daleville",
+    "country": "US",
+    "lat": 40.12115,
+    "lng": -85.55803
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 40.3742,
+    "lng": -86.7689
+  },
+  {
+    "name": "Dalton",
+    "country": "US",
+    "lat": 42.4737,
+    "lng": -73.16621
+  },
+  {
+    "name": "Danvers",
+    "country": "US",
+    "lat": 42.57509,
+    "lng": -70.93005
+  },
+  {
+    "name": "Damariscotta",
+    "country": "US",
+    "lat": 44.03286,
+    "lng": -69.51866
+  },
+  {
+    "name": "Davison",
+    "country": "US",
+    "lat": 43.03475,
+    "lng": -83.51801
+  },
+  {
+    "name": "Dassel",
+    "country": "US",
+    "lat": 45.08163,
+    "lng": -94.30693
+  },
+  {
+    "name": "Dawson",
+    "country": "US",
+    "lat": 44.93274,
+    "lng": -96.05448
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 45.24385,
+    "lng": -93.51496
+  },
+  {
+    "name": "Dakota City",
+    "country": "US",
+    "lat": 42.41555,
+    "lng": -96.41836
+  },
+  {
+    "name": "David City",
+    "country": "US",
+    "lat": 41.25279,
+    "lng": -97.13004
+  },
+  {
+    "name": "Danbury",
+    "country": "US",
+    "lat": 43.52563,
+    "lng": -71.86175
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 42.91259,
+    "lng": -71.1245
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 40.37261,
+    "lng": -74.51015
+  },
+  {
+    "name": "Dannemora",
+    "country": "US",
+    "lat": 44.72143,
+    "lng": -73.72375
+  },
+  {
+    "name": "Dansville",
+    "country": "US",
+    "lat": 42.5609,
+    "lng": -77.69611
+  },
+  {
+    "name": "Dalton",
+    "country": "US",
+    "lat": 40.79894,
+    "lng": -81.69541
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 40.44756,
+    "lng": -82.26016
+  },
+  {
+    "name": "Dale",
+    "country": "US",
+    "lat": 40.31285,
+    "lng": -78.90419
+  },
+  {
+    "name": "Dallas",
+    "country": "US",
+    "lat": 41.33619,
+    "lng": -75.96325
+  },
+  {
+    "name": "Dalton",
+    "country": "US",
+    "lat": 41.53424,
+    "lng": -75.73603
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 40.96342,
+    "lng": -76.61273
+  },
+  {
+    "name": "Davidsville",
+    "country": "US",
+    "lat": 40.22702,
+    "lng": -78.93641
+  },
+  {
+    "name": "Dakota Dunes",
+    "country": "US",
+    "lat": 42.48749,
+    "lng": -96.48642
+  },
+  {
+    "name": "Danby",
+    "country": "US",
+    "lat": 43.34618,
+    "lng": -72.99538
+  },
+  {
+    "name": "Dakota",
+    "country": "US",
+    "lat": 43.99025,
+    "lng": -89.35651
+  },
+  {
+    "name": "Dane",
+    "country": "US",
+    "lat": 43.25055,
+    "lng": -89.50151
+  },
+  {
+    "name": "Darien",
+    "country": "US",
+    "lat": 42.60168,
+    "lng": -88.7076
+  },
+  {
+    "name": "Darlington",
+    "country": "US",
+    "lat": 42.68306,
+    "lng": -90.11763
+  },
+  {
+    "name": "Daly City",
+    "country": "US",
+    "lat": 37.70577,
+    "lng": -122.46192
+  },
+  {
+    "name": "Dana Point",
+    "country": "US",
+    "lat": 33.46697,
+    "lng": -117.69811
+  },
+  {
+    "name": "Danville",
+    "country": "US",
+    "lat": 37.82159,
+    "lng": -121.99996
+  },
+  {
+    "name": "Davis",
+    "country": "US",
+    "lat": 38.54491,
+    "lng": -121.74052
+  },
+  {
+    "name": "Day Valley",
+    "country": "US",
+    "lat": 37.03578,
+    "lng": -121.86246
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 39.23714,
+    "lng": -119.59295
+  },
+  {
+    "name": "Dalhart",
+    "country": "US",
+    "lat": 36.05948,
+    "lng": -102.51325
+  },
+  {
+    "name": "Dacono",
+    "country": "US",
+    "lat": 40.08471,
+    "lng": -104.93942
+  },
+  {
+    "name": "Dalton Gardens",
+    "country": "US",
+    "lat": 47.72963,
+    "lng": -116.77019
+  },
+  {
+    "name": "Dallas",
+    "country": "US",
+    "lat": 44.91928,
+    "lng": -123.31705
+  },
+  {
+    "name": "Damascus",
+    "country": "US",
+    "lat": 45.41762,
+    "lng": -122.45898
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 45.22067,
+    "lng": -123.07621
+  },
+  {
+    "name": "Daniel",
+    "country": "US",
+    "lat": 40.47079,
+    "lng": -111.41463
+  },
+  {
+    "name": "Dallesport",
+    "country": "US",
+    "lat": 45.61734,
+    "lng": -121.17952
+  },
+  {
+    "name": "Darrington",
+    "country": "US",
+    "lat": 48.25539,
+    "lng": -121.60151
+  },
+  {
+    "name": "Davenport",
+    "country": "US",
+    "lat": 47.65405,
+    "lng": -118.14997
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 46.32375,
+    "lng": -117.97244
+  },
+  {
+    "name": "Dayton",
+    "country": "US",
+    "lat": 43.54972,
+    "lng": -70.57555
+  },
+  {
+    "name": "Dade City North",
+    "country": "US",
+    "lat": 28.38334,
+    "lng": -82.19389
+  },
+  {
+    "name": "Dahbed",
+    "country": "UZ",
+    "lat": 39.7644,
+    "lng": 66.91626
+  },
+  {
+    "name": "Dashtobod",
+    "country": "UZ",
+    "lat": 40.12694,
+    "lng": 68.49444
+  },
+  {
+    "name": "Dardoq",
+    "country": "UZ",
+    "lat": 40.81583,
+    "lng": 72.83166
+  },
+  {
+    "name": "Dang‘ara",
+    "country": "UZ",
+    "lat": 40.58389,
+    "lng": 70.91444
+  },
+  {
+    "name": "Dabajuro",
+    "country": "VE",
+    "lat": 11.02273,
+    "lng": -70.67769
+  },
+  {
+    "name": "Da Nang",
+    "country": "VN",
+    "lat": 16.06778,
+    "lng": 108.22083
+  },
+  {
+    "name": "Daḩasuways",
+    "country": "YE",
+    "lat": 15.72389,
+    "lng": 50.72944
+  },
+  {
+    "name": "Davel",
+    "country": "ZA",
+    "lat": -26.44477,
+    "lng": 29.66537
+  },
+  {
+    "name": "Darnall",
+    "country": "ZA",
+    "lat": -29.26679,
+    "lng": 31.35755
+  },
+  {
+    "name": "Dannhauser",
+    "country": "ZA",
+    "lat": -28.0151,
+    "lng": 30.05658
+  },
+  {
+    "name": "Daniëlskuil",
+    "country": "ZA",
+    "lat": -28.18873,
+    "lng": 23.53951
+  },
+  {
+    "name": "Dalton",
+    "country": "ZA",
+    "lat": -29.34093,
+    "lng": 30.63119
+  },
+  {
+    "name": "Darling",
+    "country": "ZA",
+    "lat": -33.37817,
+    "lng": 18.37938
+  },
+  {
+    "name": "Daggakraal",
+    "country": "ZA",
+    "lat": -27.13246,
+    "lng": 29.97635
+  }
+]

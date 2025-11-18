@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Dzoraghbyur",
+    "country": "AM",
+    "lat": 40.2004,
+    "lng": 44.63438
+  },
+  {
+    "name": "Dzorakap",
+    "country": "AM",
+    "lat": 40.56811,
+    "lng": 43.88068
+  },
+  {
+    "name": "Dzoragyugh",
+    "country": "AM",
+    "lat": 40.16817,
+    "lng": 45.1945
+  },
+  {
+    "name": "Dzithankov",
+    "country": "AM",
+    "lat": 40.50848,
+    "lng": 43.82092
+  },
+  {
+    "name": "Dzagam",
+    "country": "AZ",
+    "lat": 40.9033,
+    "lng": 45.88564
+  },
+  {
+    "name": "Dzhebel",
+    "country": "BG",
+    "lat": 41.49566,
+    "lng": 25.30363
+  },
+  {
+    "name": "Dzyarzhynsk",
+    "country": "BY",
+    "lat": 53.68477,
+    "lng": 27.13171
+  },
+  {
+    "name": "Dzisna",
+    "country": "BY",
+    "lat": 55.5676,
+    "lng": 28.2076
+  },
+  {
+    "name": "Dzegvi",
+    "country": "GE",
+    "lat": 41.84569,
+    "lng": 44.60097
+  },
+  {
+    "name": "Dzodze",
+    "country": "GH",
+    "lat": 6.23669,
+    "lng": 0.99578
+  },
+  {
+    "name": "Dziani",
+    "country": "KM",
+    "lat": -12.18333,
+    "lng": 44.48333
+  },
+  {
+    "name": "Dzahadjou",
+    "country": "KM",
+    "lat": -11.85287,
+    "lng": 43.34987
+  },
+  {
+    "name": "Dzhambul",
+    "country": "KZ",
+    "lat": 47.20618,
+    "lng": 71.39496
+  },
+  {
+    "name": "Dzerzhinskoye",
+    "country": "KZ",
+    "lat": 45.81837,
+    "lng": 81.07962
+  },
+  {
+    "name": "Dzüyl",
+    "country": "MN",
+    "lat": 46.30686,
+    "lng": 93.90409
+  },
+  {
+    "name": "Dzuunmod",
+    "country": "MN",
+    "lat": 48.21987,
+    "lng": 97.3744
+  },
+  {
+    "name": "Dzüünhövöö",
+    "country": "MN",
+    "lat": 50.60977,
+    "lng": 92.4024
+  },
+  {
+    "name": "Dzür",
+    "country": "MN",
+    "lat": 49.65796,
+    "lng": 95.79323
+  },
+  {
+    "name": "Dzöölön",
+    "country": "MN",
+    "lat": 51.10719,
+    "lng": 99.67226
+  },
+  {
+    "name": "Dzel",
+    "country": "MN",
+    "lat": 49.90713,
+    "lng": 93.78582
+  },
+  {
+    "name": "Dzalaa",
+    "country": "MN",
+    "lat": 44.53333,
+    "lng": 99.26667
+  },
+  {
+    "name": "Dzag",
+    "country": "MN",
+    "lat": 46.94229,
+    "lng": 99.16689
+  },
+  {
+    "name": "Dzadgay",
+    "country": "MN",
+    "lat": 46.21061,
+    "lng": 99.59862
+  },
+  {
+    "name": "Dzüünkharaa",
+    "country": "MN",
+    "lat": 48.63333,
+    "lng": 106.73333
+  },
+  {
+    "name": "Dzuunmod",
+    "country": "MN",
+    "lat": 47.70694,
+    "lng": 106.95278
+  },
+  {
+    "name": "Dzüünharaa",
+    "country": "MN",
+    "lat": 48.85229,
+    "lng": 106.45786
+  },
+  {
+    "name": "Dzüünbulag",
+    "country": "MN",
+    "lat": 46.95343,
+    "lng": 115.29396
+  },
+  {
+    "name": "Dzüünbulag",
+    "country": "MN",
+    "lat": 46.38333,
+    "lng": 112.18333
+  },
+  {
+    "name": "Dzogsool",
+    "country": "MN",
+    "lat": 46.8,
+    "lng": 107.15
+  },
+  {
+    "name": "Dzelter",
+    "country": "MN",
+    "lat": 50.31556,
+    "lng": 105.04583
+  },
+  {
+    "name": "Dzegstey",
+    "country": "MN",
+    "lat": 47.66805,
+    "lng": 102.54999
+  },
+  {
+    "name": "Dzaanhoshuu",
+    "country": "MN",
+    "lat": 47.49331,
+    "lng": 100.87801
+  },
+  {
+    "name": "Dzununcán",
+    "country": "MX",
+    "lat": 20.86522,
+    "lng": -89.65317
+  },
+  {
+    "name": "Dzula",
+    "country": "MX",
+    "lat": 19.60328,
+    "lng": -88.41566
+  },
+  {
+    "name": "Dziuche",
+    "country": "MX",
+    "lat": 19.89744,
+    "lng": -88.80949
+  },
+  {
+    "name": "Dzoncauich",
+    "country": "MX",
+    "lat": 21.12893,
+    "lng": -88.89125
+  },
+  {
+    "name": "Dzityá",
+    "country": "MX",
+    "lat": 21.05222,
+    "lng": -89.67895
+  },
+  {
+    "name": "Dzitnup",
+    "country": "MX",
+    "lat": 20.64725,
+    "lng": -88.24453
+  },
+  {
+    "name": "Dzitbalché",
+    "country": "MX",
+    "lat": 20.31857,
+    "lng": -90.05611
+  },
+  {
+    "name": "Dzitás",
+    "country": "MX",
+    "lat": 20.84089,
+    "lng": -88.52908
+  },
+  {
+    "name": "Dzilam González",
+    "country": "MX",
+    "lat": 21.28098,
+    "lng": -88.92957
+  },
+  {
+    "name": "Dzilam de Bravo",
+    "country": "MX",
+    "lat": 21.39194,
+    "lng": -88.8941
+  },
+  {
+    "name": "Dzidzantun",
+    "country": "MX",
+    "lat": 21.24898,
+    "lng": -89.04205
+  },
+  {
+    "name": "Dzibikak",
+    "country": "MX",
+    "lat": 20.90046,
+    "lng": -89.79532
+  },
+  {
+    "name": "Dzibalchén",
+    "country": "MX",
+    "lat": 19.45847,
+    "lng": -89.73111
+  },
+  {
+    "name": "Dzemul",
+    "country": "MX",
+    "lat": 21.21036,
+    "lng": -89.30956
+  },
+  {
+    "name": "Dzan",
+    "country": "MX",
+    "lat": 20.38888,
+    "lng": -89.46855
+  },
+  {
+    "name": "Dzonot Carretero",
+    "country": "MX",
+    "lat": 21.40084,
+    "lng": -87.8786
+  },
+  {
+    "name": "Dzwola",
+    "country": "PL",
+    "lat": 50.69657,
+    "lng": 22.56729
+  },
+  {
+    "name": "Dzików Stary",
+    "country": "PL",
+    "lat": 50.24699,
+    "lng": 22.92984
+  },
+  {
+    "name": "Dzikowiec",
+    "country": "PL",
+    "lat": 50.27288,
+    "lng": 21.84365
+  },
+  {
+    "name": "Dziewin",
+    "country": "PL",
+    "lat": 50.07554,
+    "lng": 20.45491
+  },
+  {
+    "name": "Dzierzkowice",
+    "country": "PL",
+    "lat": 50.96019,
+    "lng": 22.06639
+  },
+  {
+    "name": "Dzierzgowo",
+    "country": "PL",
+    "lat": 53.15279,
+    "lng": 20.66322
+  },
+  {
+    "name": "Dzierzążnia",
+    "country": "PL",
+    "lat": 52.62811,
+    "lng": 20.23364
+  },
+  {
+    "name": "Dziekanów Leśny",
+    "country": "PL",
+    "lat": 52.35243,
+    "lng": 20.85124
+  },
+  {
+    "name": "Działoszyce",
+    "country": "PL",
+    "lat": 50.36534,
+    "lng": 20.35226
+  },
+  {
+    "name": "Działdowo",
+    "country": "PL",
+    "lat": 53.23958,
+    "lng": 20.17004
+  },
+  {
+    "name": "Dziadkowice",
+    "country": "PL",
+    "lat": 52.5638,
+    "lng": 22.91689
+  },
+  {
+    "name": "Dziećmorowice",
+    "country": "PL",
+    "lat": 50.76947,
+    "lng": 16.35212
+  },
+  {
+    "name": "Dziwnów",
+    "country": "PL",
+    "lat": 54.02819,
+    "lng": 14.76691
+  },
+  {
+    "name": "Dzierżoniów",
+    "country": "PL",
+    "lat": 50.7282,
+    "lng": 16.65141
+  },
+  {
+    "name": "Dzierzgoń",
+    "country": "PL",
+    "lat": 53.92196,
+    "lng": 19.34705
+  },
+  {
+    "name": "Dziergowice",
+    "country": "PL",
+    "lat": 50.24248,
+    "lng": 18.28606
+  },
+  {
+    "name": "Dziemiany",
+    "country": "PL",
+    "lat": 54.00636,
+    "lng": 17.76755
+  },
+  {
+    "name": "Dzięgielów",
+    "country": "PL",
+    "lat": 49.72259,
+    "lng": 18.70491
+  },
+  {
+    "name": "Działoszyn",
+    "country": "PL",
+    "lat": 51.11699,
+    "lng": 18.86524
+  },
+  {
+    "name": "Dziadowa Kłoda",
+    "country": "PL",
+    "lat": 51.23543,
+    "lng": 17.70919
+  },
+  {
+    "name": "Dzhubga",
+    "country": "RU",
+    "lat": 44.3211,
+    "lng": 38.7073
+  },
+  {
+    "name": "Dzhiginka",
+    "country": "RU",
+    "lat": 45.133,
+    "lng": 37.33825
+  },
+  {
+    "name": "Dzhayrakh",
+    "country": "RU",
+    "lat": 42.82362,
+    "lng": 44.67654
+  },
+  {
+    "name": "Dzhalka",
+    "country": "RU",
+    "lat": 43.3186,
+    "lng": 45.98787
+  },
+  {
+    "name": "Dzhalil’",
+    "country": "RU",
+    "lat": 55.0239,
+    "lng": 52.7358
+  },
+  {
+    "name": "Dzerzhinskiy",
+    "country": "RU",
+    "lat": 55.62868,
+    "lng": 37.8443
+  },
+  {
+    "name": "Dzerzhinsk",
+    "country": "RU",
+    "lat": 56.24422,
+    "lng": 43.45543
+  },
+  {
+    "name": "Dzerzhinskoye",
+    "country": "RU",
+    "lat": 56.83004,
+    "lng": 95.22656
+  },
+  {
+    "name": "Dzhida",
+    "country": "RU",
+    "lat": 50.67722,
+    "lng": 106.18056
+  },
+  {
+    "name": "Dzhebariki-Khaya",
+    "country": "RU",
+    "lat": 62.21084,
+    "lng": 135.84876
+  },
+  {
+    "name": "Dzerzhinsk",
+    "country": "RU",
+    "lat": 52.28028,
+    "lng": 104.38694
+  },
+  {
+    "name": "Dzerzhinsky",
+    "country": "RU",
+    "lat": 55.62737,
+    "lng": 37.85803
+  },
+  {
+    "name": "Dzhankoi",
+    "country": "UA",
+    "lat": 45.7131,
+    "lng": 34.39273
+  },
+  {
+    "name": "Dzumogne",
+    "country": "YT",
+    "lat": -12.71667,
+    "lng": 45.11667
+  },
+  {
+    "name": "Dzaoudzi",
+    "country": "YT",
+    "lat": -12.78339,
+    "lng": 45.25693
+  }
+]

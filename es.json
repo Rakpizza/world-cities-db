@@ -1,0 +1,2768 @@
+[
+  {
+    "name": "Eslam Qaleh",
+    "country": "AF",
+    "lat": 34.66667,
+    "lng": 61.06667
+  },
+  {
+    "name": "Esquina",
+    "country": "AR",
+    "lat": -30.01476,
+    "lng": -59.5289
+  },
+  {
+    "name": "Estanislao del Campo",
+    "country": "AR",
+    "lat": -25.05358,
+    "lng": -60.09066
+  },
+  {
+    "name": "Esquel",
+    "country": "AR",
+    "lat": -42.91147,
+    "lng": -71.31947
+  },
+  {
+    "name": "Esperanza",
+    "country": "AR",
+    "lat": -31.44957,
+    "lng": -60.93153
+  },
+  {
+    "name": "Essling",
+    "country": "AT",
+    "lat": 48.21289,
+    "lng": 16.52442
+  },
+  {
+    "name": "Eschenau",
+    "country": "AT",
+    "lat": 48.04825,
+    "lng": 15.56694
+  },
+  {
+    "name": "Esch",
+    "country": "AT",
+    "lat": 47.8403,
+    "lng": 13.09223
+  },
+  {
+    "name": "Esperance",
+    "country": "AU",
+    "lat": -33.85919,
+    "lng": 121.89164
+  },
+  {
+    "name": "Essendon",
+    "country": "AU",
+    "lat": -37.74981,
+    "lng": 144.9109
+  },
+  {
+    "name": "Esk",
+    "country": "AU",
+    "lat": -27.23895,
+    "lng": 152.42223
+  },
+  {
+    "name": "Estella",
+    "country": "AU",
+    "lat": -35.07254,
+    "lng": 147.35748
+  },
+  {
+    "name": "Eschol Park",
+    "country": "AU",
+    "lat": -34.02982,
+    "lng": 150.80957
+  },
+  {
+    "name": "Essendon North",
+    "country": "AU",
+    "lat": -37.74225,
+    "lng": 144.90546
+  },
+  {
+    "name": "Essendon West",
+    "country": "AU",
+    "lat": -37.75489,
+    "lng": 144.88338
+  },
+  {
+    "name": "Estinnes-au-Val",
+    "country": "BE",
+    "lat": 50.41016,
+    "lng": 4.10477
+  },
+  {
+    "name": "Estinnes-au-Mont",
+    "country": "BE",
+    "lat": 50.39692,
+    "lng": 4.09653
+  },
+  {
+    "name": "Estaimpuis",
+    "country": "BE",
+    "lat": 50.70485,
+    "lng": 3.26785
+  },
+  {
+    "name": "Estaimbourg",
+    "country": "BE",
+    "lat": 50.67998,
+    "lng": 3.30785
+  },
+  {
+    "name": "Essene",
+    "country": "BE",
+    "lat": 50.90163,
+    "lng": 4.13743
+  },
+  {
+    "name": "Essen",
+    "country": "BE",
+    "lat": 51.46791,
+    "lng": 4.46901
+  },
+  {
+    "name": "Esneux",
+    "country": "BE",
+    "lat": 50.53596,
+    "lng": 5.56775
+  },
+  {
+    "name": "Esen",
+    "country": "BE",
+    "lat": 51.0294,
+    "lng": 2.90189
+  },
+  {
+    "name": "Escanaffles",
+    "country": "BE",
+    "lat": 50.75743,
+    "lng": 3.45294
+  },
+  {
+    "name": "Estreito",
+    "country": "BR",
+    "lat": -6.55573,
+    "lng": -47.44149
+  },
+  {
+    "name": "Estreito",
+    "country": "BR",
+    "lat": -5.78333,
+    "lng": -43.25
+  },
+  {
+    "name": "Espírito Santo",
+    "country": "BR",
+    "lat": -6.33222,
+    "lng": -35.30944
+  },
+  {
+    "name": "Esperantinópolis",
+    "country": "BR",
+    "lat": -4.87697,
+    "lng": -44.88208
+  },
+  {
+    "name": "Esperantina",
+    "country": "BR",
+    "lat": -3.90167,
+    "lng": -42.23361
+  },
+  {
+    "name": "Esperança",
+    "country": "BR",
+    "lat": -7.03306,
+    "lng": -35.85722
+  },
+  {
+    "name": "Escada",
+    "country": "BR",
+    "lat": -8.35917,
+    "lng": -35.22361
+  },
+  {
+    "name": "Esperantina",
+    "country": "BR",
+    "lat": -5.34278,
+    "lng": -48.51139
+  },
+  {
+    "name": "Espírito Santo do Pinhal",
+    "country": "BR",
+    "lat": -22.19591,
+    "lng": -46.74884
+  },
+  {
+    "name": "Estrela do Sul",
+    "country": "BR",
+    "lat": -18.74556,
+    "lng": -47.69278
+  },
+  {
+    "name": "Estrela do Norte",
+    "country": "BR",
+    "lat": -22.48806,
+    "lng": -51.66028
+  },
+  {
+    "name": "Estrela do Norte",
+    "country": "BR",
+    "lat": -13.86833,
+    "lng": -49.0725
+  },
+  {
+    "name": "Estrela do Indaiá",
+    "country": "BR",
+    "lat": -19.52222,
+    "lng": -45.7875
+  },
+  {
+    "name": "Estrela d'Oeste",
+    "country": "BR",
+    "lat": -20.28778,
+    "lng": -50.40083
+  },
+  {
+    "name": "Estrela Dalva",
+    "country": "BR",
+    "lat": -21.74194,
+    "lng": -42.46111
+  },
+  {
+    "name": "Estrela",
+    "country": "BR",
+    "lat": -29.50194,
+    "lng": -51.96639
+  },
+  {
+    "name": "Estrela",
+    "country": "BR",
+    "lat": -28.06111,
+    "lng": -50.93833
+  },
+  {
+    "name": "Estiva",
+    "country": "BR",
+    "lat": -22.46278,
+    "lng": -46.01722
+  },
+  {
+    "name": "Esteio",
+    "country": "BR",
+    "lat": -29.86139,
+    "lng": -51.17917
+  },
+  {
+    "name": "Estância Velha",
+    "country": "BR",
+    "lat": -29.64833,
+    "lng": -51.17389
+  },
+  {
+    "name": "Estância",
+    "country": "BR",
+    "lat": -11.26833,
+    "lng": -37.43833
+  },
+  {
+    "name": "Espumoso",
+    "country": "BR",
+    "lat": -28.72472,
+    "lng": -52.84972
+  },
+  {
+    "name": "Esplanada",
+    "country": "BR",
+    "lat": -11.79611,
+    "lng": -37.945
+  },
+  {
+    "name": "Espírito Santo do Turvo",
+    "country": "BR",
+    "lat": -22.69222,
+    "lng": -49.43028
+  },
+  {
+    "name": "Espírito Santo do Dourado",
+    "country": "BR",
+    "lat": -22.04639,
+    "lng": -45.95083
+  },
+  {
+    "name": "Espinosa",
+    "country": "BR",
+    "lat": -14.92611,
+    "lng": -42.81917
+  },
+  {
+    "name": "Espigão Alto do Iguaçu",
+    "country": "BR",
+    "lat": -25.42516,
+    "lng": -52.84035
+  },
+  {
+    "name": "Esperança do Sul",
+    "country": "BR",
+    "lat": -27.36299,
+    "lng": -53.99001
+  },
+  {
+    "name": "Espera Feliz",
+    "country": "BR",
+    "lat": -20.65028,
+    "lng": -41.90722
+  },
+  {
+    "name": "Esmeraldas",
+    "country": "BR",
+    "lat": -19.7625,
+    "lng": -44.31389
+  },
+  {
+    "name": "Esmeralda",
+    "country": "BR",
+    "lat": -28.05361,
+    "lng": -51.19028
+  },
+  {
+    "name": "Espigão dOeste",
+    "country": "BR",
+    "lat": -11.52472,
+    "lng": -61.01278
+  },
+  {
+    "name": "Esperança Nova",
+    "country": "BR",
+    "lat": -23.72389,
+    "lng": -53.81083
+  },
+  {
+    "name": "Estação",
+    "country": "BR",
+    "lat": -27.91083,
+    "lng": -52.26
+  },
+  {
+    "name": "Estiva Gerbi",
+    "country": "BR",
+    "lat": -22.27139,
+    "lng": -46.94472
+  },
+  {
+    "name": "Estrela de Alagoas",
+    "country": "BR",
+    "lat": -9.39028,
+    "lng": -36.76
+  },
+  {
+    "name": "Estrela Velha",
+    "country": "BR",
+    "lat": -29.17667,
+    "lng": -53.15917
+  },
+  {
+    "name": "Estácio",
+    "country": "BR",
+    "lat": -22.91817,
+    "lng": -43.20397
+  },
+  {
+    "name": "Esperanza",
+    "country": "BZ",
+    "lat": 17.17453,
+    "lng": -89.04415
+  },
+  {
+    "name": "Espanola",
+    "country": "CA",
+    "lat": 46.25837,
+    "lng": -81.76649
+  },
+  {
+    "name": "Esquimalt",
+    "country": "CA",
+    "lat": 48.43569,
+    "lng": -123.41174
+  },
+  {
+    "name": "Essex",
+    "country": "CA",
+    "lat": 42.17509,
+    "lng": -82.82483
+  },
+  {
+    "name": "Esterhazy",
+    "country": "CA",
+    "lat": 50.65001,
+    "lng": -102.08426
+  },
+  {
+    "name": "Estevan",
+    "country": "CA",
+    "lat": 49.13337,
+    "lng": -102.98422
+  },
+  {
+    "name": "Eskasoni 3",
+    "country": "CA",
+    "lat": 45.94522,
+    "lng": -60.61617
+  },
+  {
+    "name": "Estavayer-le-Lac",
+    "country": "CH",
+    "lat": 46.84876,
+    "lng": 6.8465
+  },
+  {
+    "name": "Escholzmatt",
+    "country": "CH",
+    "lat": 46.9135,
+    "lng": 7.93426
+  },
+  {
+    "name": "Eschlikon",
+    "country": "CH",
+    "lat": 47.46361,
+    "lng": 8.96381
+  },
+  {
+    "name": "Eschenz",
+    "country": "CH",
+    "lat": 47.64793,
+    "lng": 8.87472
+  },
+  {
+    "name": "Eschenbach",
+    "country": "CH",
+    "lat": 47.23981,
+    "lng": 8.92156
+  },
+  {
+    "name": "Esslingen",
+    "country": "CH",
+    "lat": 47.28325,
+    "lng": 8.71038
+  },
+  {
+    "name": "Essuikro",
+    "country": "CI",
+    "lat": 6.63024,
+    "lng": -4.3
+  },
+  {
+    "name": "Essan Kouakoukro",
+    "country": "CI",
+    "lat": 7.37168,
+    "lng": -4.70139
+  },
+  {
+    "name": "Essegnon",
+    "country": "CI",
+    "lat": 5.99467,
+    "lng": -4.45556
+  },
+  {
+    "name": "Essé",
+    "country": "CM",
+    "lat": 4.1,
+    "lng": 11.9
+  },
+  {
+    "name": "Eséka",
+    "country": "CM",
+    "lat": 3.65,
+    "lng": 10.76667
+  },
+  {
+    "name": "Espinal",
+    "country": "CO",
+    "lat": 4.14924,
+    "lng": -74.88429
+  },
+  {
+    "name": "Esquipulas",
+    "country": "CR",
+    "lat": 10.05676,
+    "lng": -84.42337
+  },
+  {
+    "name": "Esparza",
+    "country": "CR",
+    "lat": 9.99197,
+    "lng": -84.66628
+  },
+  {
+    "name": "Escazú",
+    "country": "CR",
+    "lat": 9.91887,
+    "lng": -84.13989
+  },
+  {
+    "name": "Esperanza",
+    "country": "CU",
+    "lat": 22.4468,
+    "lng": -80.09711
+  },
+  {
+    "name": "Esmeralda",
+    "country": "CU",
+    "lat": 21.85139,
+    "lng": -78.11725
+  },
+  {
+    "name": "Espargos",
+    "country": "CV",
+    "lat": 16.75524,
+    "lng": -22.9446
+  },
+  {
+    "name": "Estorf",
+    "country": "DE",
+    "lat": 53.57601,
+    "lng": 9.20271
+  },
+  {
+    "name": "Estorf",
+    "country": "DE",
+    "lat": 52.5885,
+    "lng": 9.14147
+  },
+  {
+    "name": "Esthal",
+    "country": "DE",
+    "lat": 49.38333,
+    "lng": 7.98333
+  },
+  {
+    "name": "Esterwegen",
+    "country": "DE",
+    "lat": 52.99288,
+    "lng": 7.63327
+  },
+  {
+    "name": "Estenfeld",
+    "country": "DE",
+    "lat": 49.82896,
+    "lng": 10.00588
+  },
+  {
+    "name": "Esslingen",
+    "country": "DE",
+    "lat": 48.73961,
+    "lng": 9.30473
+  },
+  {
+    "name": "Essingen",
+    "country": "DE",
+    "lat": 49.23583,
+    "lng": 8.17472
+  },
+  {
+    "name": "Essingen",
+    "country": "DE",
+    "lat": 48.80859,
+    "lng": 10.02773
+  },
+  {
+    "name": "Essing",
+    "country": "DE",
+    "lat": 48.93467,
+    "lng": 11.78972
+  },
+  {
+    "name": "Essenheim",
+    "country": "DE",
+    "lat": 49.93056,
+    "lng": 8.15556
+  },
+  {
+    "name": "Essenbach",
+    "country": "DE",
+    "lat": 48.61332,
+    "lng": 12.21833
+  },
+  {
+    "name": "Essen",
+    "country": "DE",
+    "lat": 52.72258,
+    "lng": 7.9371
+  },
+  {
+    "name": "Essen",
+    "country": "DE",
+    "lat": 51.45657,
+    "lng": 7.01228
+  },
+  {
+    "name": "Esselbach",
+    "country": "DE",
+    "lat": 49.85528,
+    "lng": 9.52583
+  },
+  {
+    "name": "Essel",
+    "country": "DE",
+    "lat": 52.69131,
+    "lng": 9.64141
+  },
+  {
+    "name": "Espenhain",
+    "country": "DE",
+    "lat": 51.18926,
+    "lng": 12.47885
+  },
+  {
+    "name": "Espenau",
+    "country": "DE",
+    "lat": 51.39664,
+    "lng": 9.47021
+  },
+  {
+    "name": "Espelkamp",
+    "country": "DE",
+    "lat": 52.38251,
+    "lng": 8.62127
+  },
+  {
+    "name": "Eslohe",
+    "country": "DE",
+    "lat": 51.25369,
+    "lng": 8.16949
+  },
+  {
+    "name": "Eslarn",
+    "country": "DE",
+    "lat": 49.58345,
+    "lng": 12.52156
+  },
+  {
+    "name": "Esens",
+    "country": "DE",
+    "lat": 53.64866,
+    "lng": 7.61267
+  },
+  {
+    "name": "Eschweiler",
+    "country": "DE",
+    "lat": 50.81854,
+    "lng": 6.27184
+  },
+  {
+    "name": "Eschwege",
+    "country": "DE",
+    "lat": 51.18386,
+    "lng": 10.05329
+  },
+  {
+    "name": "Eschlkam",
+    "country": "DE",
+    "lat": 49.29883,
+    "lng": 12.91573
+  },
+  {
+    "name": "Eschershausen",
+    "country": "DE",
+    "lat": 51.92664,
+    "lng": 9.64282
+  },
+  {
+    "name": "Eschenlohe",
+    "country": "DE",
+    "lat": 48.01731,
+    "lng": 12.03012
+  },
+  {
+    "name": "Eschenbach",
+    "country": "DE",
+    "lat": 48.65264,
+    "lng": 9.67037
+  },
+  {
+    "name": "Eschenau",
+    "country": "DE",
+    "lat": 49.13761,
+    "lng": 9.40115
+  },
+  {
+    "name": "Eschelbronn",
+    "country": "DE",
+    "lat": 49.31944,
+    "lng": 8.86528
+  },
+  {
+    "name": "Eschede",
+    "country": "DE",
+    "lat": 52.73494,
+    "lng": 10.2354
+  },
+  {
+    "name": "Escheburg",
+    "country": "DE",
+    "lat": 53.46667,
+    "lng": 10.31667
+  },
+  {
+    "name": "Eschborn",
+    "country": "DE",
+    "lat": 50.14328,
+    "lng": 8.57111
+  },
+  {
+    "name": "Eschau",
+    "country": "DE",
+    "lat": 49.81889,
+    "lng": 9.2592
+  },
+  {
+    "name": "Eschach",
+    "country": "DE",
+    "lat": 48.88832,
+    "lng": 9.86999
+  },
+  {
+    "name": "Espergærde",
+    "country": "DK",
+    "lat": 55.99464,
+    "lng": 12.54733
+  },
+  {
+    "name": "Eskilstrup",
+    "country": "DK",
+    "lat": 54.85574,
+    "lng": 11.88668
+  },
+  {
+    "name": "Esbjerg",
+    "country": "DK",
+    "lat": 55.47028,
+    "lng": 8.45187
+  },
+  {
+    "name": "Estero Hondo",
+    "country": "DO",
+    "lat": 19.82712,
+    "lng": -71.17411
+  },
+  {
+    "name": "Estebanía",
+    "country": "DO",
+    "lat": 18.4577,
+    "lng": -70.6435
+  },
+  {
+    "name": "Esperanza",
+    "country": "DO",
+    "lat": 19.58469,
+    "lng": -70.98489
+  },
+  {
+    "name": "Esperalvillo",
+    "country": "DO",
+    "lat": 18.81509,
+    "lng": -70.03557
+  },
+  {
+    "name": "Es Senia",
+    "country": "DZ",
+    "lat": 35.64779,
+    "lng": -0.62397
+  },
+  {
+    "name": "Esmeraldas",
+    "country": "EC",
+    "lat": 0.9592,
+    "lng": -79.65397
+  },
+  {
+    "name": "Esna",
+    "country": "EG",
+    "lat": 25.29336,
+    "lng": 32.55402
+  },
+  {
+    "name": "Es Castell",
+    "country": "ES",
+    "lat": 39.8776,
+    "lng": 4.2899
+  },
+  {
+    "name": "Es Migjorn Gran",
+    "country": "ES",
+    "lat": 39.94657,
+    "lng": 4.05121
+  },
+  {
+    "name": "Es Molinar",
+    "country": "ES",
+    "lat": 39.5614,
+    "lng": 2.67517
+  },
+  {
+    "name": "Estubeny",
+    "country": "ES",
+    "lat": 39.01792,
+    "lng": -0.62379
+  },
+  {
+    "name": "Estivella",
+    "country": "ES",
+    "lat": 39.71667,
+    "lng": -0.35
+  },
+  {
+    "name": "Estepona",
+    "country": "ES",
+    "lat": 36.42764,
+    "lng": -5.14589
+  },
+  {
+    "name": "Estepa",
+    "country": "ES",
+    "lat": 37.29263,
+    "lng": -4.87896
+  },
+  {
+    "name": "Estellencs",
+    "country": "ES",
+    "lat": 39.65338,
+    "lng": 2.4813
+  },
+  {
+    "name": "Establiments",
+    "country": "ES",
+    "lat": 39.619,
+    "lng": 2.62707
+  },
+  {
+    "name": "Esporles",
+    "country": "ES",
+    "lat": 39.66794,
+    "lng": 2.57867
+  },
+  {
+    "name": "Espinoso del Rey",
+    "country": "ES",
+    "lat": 39.65333,
+    "lng": -4.78371
+  },
+  {
+    "name": "Espiel",
+    "country": "ES",
+    "lat": 38.2,
+    "lng": -5.01667
+  },
+  {
+    "name": "Espera",
+    "country": "ES",
+    "lat": 36.87446,
+    "lng": -5.806
+  },
+  {
+    "name": "Espelúy",
+    "country": "ES",
+    "lat": 38.0318,
+    "lng": -3.86309
+  },
+  {
+    "name": "Espejo",
+    "country": "ES",
+    "lat": 37.6798,
+    "lng": -4.55355
+  },
+  {
+    "name": "Espartinas",
+    "country": "ES",
+    "lat": 37.38154,
+    "lng": -6.12578
+  },
+  {
+    "name": "Esparragosa de la Serena",
+    "country": "ES",
+    "lat": 38.651,
+    "lng": -5.60657
+  },
+  {
+    "name": "Esparragosa de Lares",
+    "country": "ES",
+    "lat": 38.97517,
+    "lng": -5.26968
+  },
+  {
+    "name": "Esparragalejo",
+    "country": "ES",
+    "lat": 38.9433,
+    "lng": -6.43549
+  },
+  {
+    "name": "Esparragal",
+    "country": "ES",
+    "lat": 38.03333,
+    "lng": -1.08333
+  },
+  {
+    "name": "Eslida",
+    "country": "ES",
+    "lat": 39.88333,
+    "lng": -0.3
+  },
+  {
+    "name": "Escúzar",
+    "country": "ES",
+    "lat": 37.06219,
+    "lng": -3.76126
+  },
+  {
+    "name": "Escurial",
+    "country": "ES",
+    "lat": 39.16857,
+    "lng": -5.88465
+  },
+  {
+    "name": "Escorca",
+    "country": "ES",
+    "lat": 39.82138,
+    "lng": 2.86941
+  },
+  {
+    "name": "Escañuela",
+    "country": "ES",
+    "lat": 37.87885,
+    "lng": -4.03376
+  },
+  {
+    "name": "Escalonilla",
+    "country": "ES",
+    "lat": 39.9257,
+    "lng": -4.35095
+  },
+  {
+    "name": "Escacena del Campo",
+    "country": "ES",
+    "lat": 37.40837,
+    "lng": -6.3887
+  },
+  {
+    "name": "Estación de Cártama",
+    "country": "ES",
+    "lat": 36.73333,
+    "lng": -4.61667
+  },
+  {
+    "name": "Eskuernaga / Villabuena de Álava",
+    "country": "ES",
+    "lat": 42.54787,
+    "lng": -2.66552
+  },
+  {
+    "name": "Estriégana",
+    "country": "ES",
+    "lat": 41.05821,
+    "lng": -2.52363
+  },
+  {
+    "name": "Estremera",
+    "country": "ES",
+    "lat": 40.18333,
+    "lng": -3.1
+  },
+  {
+    "name": "Estollo",
+    "country": "ES",
+    "lat": 42.32953,
+    "lng": -2.85092
+  },
+  {
+    "name": "Estercuel",
+    "country": "ES",
+    "lat": 40.855,
+    "lng": -0.63208
+  },
+  {
+    "name": "Estépar",
+    "country": "ES",
+    "lat": 42.27731,
+    "lng": -3.89946
+  },
+  {
+    "name": "Estepa de San Juan",
+    "country": "ES",
+    "lat": 41.92661,
+    "lng": -2.33322
+  },
+  {
+    "name": "Estella-Lizarra",
+    "country": "ES",
+    "lat": 42.67182,
+    "lng": -2.03226
+  },
+  {
+    "name": "Estadilla",
+    "country": "ES",
+    "lat": 42.05657,
+    "lng": 0.24343
+  },
+  {
+    "name": "Estada",
+    "country": "ES",
+    "lat": 42.07201,
+    "lng": 0.23219
+  },
+  {
+    "name": "Establés",
+    "country": "ES",
+    "lat": 41.00767,
+    "lng": -2.02438
+  },
+  {
+    "name": "Esquivias",
+    "country": "ES",
+    "lat": 40.1044,
+    "lng": -3.76677
+  },
+  {
+    "name": "Espronceda",
+    "country": "ES",
+    "lat": 42.59707,
+    "lng": -2.30524
+  },
+  {
+    "name": "Espot",
+    "country": "ES",
+    "lat": 42.57838,
+    "lng": 1.08666
+  },
+  {
+    "name": "Esponellà",
+    "country": "ES",
+    "lat": 42.16667,
+    "lng": 2.8
+  },
+  {
+    "name": "Espolla",
+    "country": "ES",
+    "lat": 42.3912,
+    "lng": 3.00064
+  },
+  {
+    "name": "Esplús",
+    "country": "ES",
+    "lat": 41.7987,
+    "lng": 0.27586
+  },
+  {
+    "name": "Esplugues de Llobregat",
+    "country": "ES",
+    "lat": 41.37732,
+    "lng": 2.08809
+  },
+  {
+    "name": "Esplegares",
+    "country": "ES",
+    "lat": 40.8565,
+    "lng": -2.37084
+  },
+  {
+    "name": "Espirdo",
+    "country": "ES",
+    "lat": 40.99764,
+    "lng": -4.07331
+  },
+  {
+    "name": "Espinosa de Villagonzalo",
+    "country": "ES",
+    "lat": 42.47949,
+    "lng": -4.37218
+  },
+  {
+    "name": "Espinosa de los Monteros",
+    "country": "ES",
+    "lat": 43.07754,
+    "lng": -3.55365
+  },
+  {
+    "name": "Espinosa del Camino",
+    "country": "ES",
+    "lat": 42.4059,
+    "lng": -3.28019
+  },
+  {
+    "name": "Espinosa de Henares",
+    "country": "ES",
+    "lat": 40.90053,
+    "lng": -3.06956
+  },
+  {
+    "name": "Espinosa de Cervera",
+    "country": "ES",
+    "lat": 41.89683,
+    "lng": -3.46858
+  },
+  {
+    "name": "Espinosa de Cerrato",
+    "country": "ES",
+    "lat": 41.96679,
+    "lng": -3.95346
+  },
+  {
+    "name": "Espino de la Orbada",
+    "country": "ES",
+    "lat": 41.10693,
+    "lng": -5.42515
+  },
+  {
+    "name": "Espejón",
+    "country": "ES",
+    "lat": 41.83023,
+    "lng": -3.25936
+  },
+  {
+    "name": "Espeja de San Marcelino",
+    "country": "ES",
+    "lat": 41.80227,
+    "lng": -3.2223
+  },
+  {
+    "name": "Espeja",
+    "country": "ES",
+    "lat": 40.56565,
+    "lng": -6.71582
+  },
+  {
+    "name": "Esparreguera",
+    "country": "ES",
+    "lat": 41.53809,
+    "lng": 1.87025
+  },
+  {
+    "name": "Espadilla",
+    "country": "ES",
+    "lat": 40.03333,
+    "lng": -0.35
+  },
+  {
+    "name": "Espadañedo",
+    "country": "ES",
+    "lat": 42.11618,
+    "lng": -6.39419
+  },
+  {
+    "name": "Espadaña",
+    "country": "ES",
+    "lat": 41.06085,
+    "lng": -6.28457
+  },
+  {
+    "name": "Eslava",
+    "country": "ES",
+    "lat": 42.56459,
+    "lng": -1.45947
+  },
+  {
+    "name": "Esguevillas de Esgueva",
+    "country": "ES",
+    "lat": 41.75018,
+    "lng": -4.38062
+  },
+  {
+    "name": "Esgos",
+    "country": "ES",
+    "lat": 42.32549,
+    "lng": -7.69691
+  },
+  {
+    "name": "Escurial de la Sierra",
+    "country": "ES",
+    "lat": 40.61731,
+    "lng": -5.9552
+  },
+  {
+    "name": "Escucha",
+    "country": "ES",
+    "lat": 40.79467,
+    "lng": -0.81012
+  },
+  {
+    "name": "Escorihuela",
+    "country": "ES",
+    "lat": 40.544,
+    "lng": -0.97078
+  },
+  {
+    "name": "Eskoriatza",
+    "country": "ES",
+    "lat": 43.01829,
+    "lng": -2.52598
+  },
+  {
+    "name": "Escopete",
+    "country": "ES",
+    "lat": 40.41324,
+    "lng": -3.0046
+  },
+  {
+    "name": "Escobosa de Almazán",
+    "country": "ES",
+    "lat": 41.48626,
+    "lng": -2.3714
+  },
+  {
+    "name": "Escobar de Polendos",
+    "country": "ES",
+    "lat": 41.09079,
+    "lng": -4.13117
+  },
+  {
+    "name": "Escobar de Campos",
+    "country": "ES",
+    "lat": 42.31337,
+    "lng": -4.96573
+  },
+  {
+    "name": "Escatrón",
+    "country": "ES",
+    "lat": 41.29149,
+    "lng": -0.32308
+  },
+  {
+    "name": "Escariche",
+    "country": "ES",
+    "lat": 40.40553,
+    "lng": -3.0531
+  },
+  {
+    "name": "Escarabajosa de Cabezas",
+    "country": "ES",
+    "lat": 41.1047,
+    "lng": -4.19411
+  },
+  {
+    "name": "Escamilla",
+    "country": "ES",
+    "lat": 40.54979,
+    "lng": -2.56292
+  },
+  {
+    "name": "Escalona del Prado",
+    "country": "ES",
+    "lat": 41.16682,
+    "lng": -4.12272
+  },
+  {
+    "name": "Escalona",
+    "country": "ES",
+    "lat": 40.1669,
+    "lng": -4.40484
+  },
+  {
+    "name": "Escalante",
+    "country": "ES",
+    "lat": 43.43678,
+    "lng": -3.51347
+  },
+  {
+    "name": "Estrella",
+    "country": "ES",
+    "lat": 40.41409,
+    "lng": -3.66553
+  },
+  {
+    "name": "Espoo",
+    "country": "FI",
+    "lat": 60.2052,
+    "lng": 24.6522
+  },
+  {
+    "name": "Espoon Keskus",
+    "country": "FI",
+    "lat": 60.20475,
+    "lng": 24.65233
+  },
+  {
+    "name": "Espoonlahti",
+    "country": "FI",
+    "lat": 60.15054,
+    "lng": 24.65307
+  },
+  {
+    "name": "Espoonlahden keskus",
+    "country": "FI",
+    "lat": 60.14972,
+    "lng": 24.65513
+  },
+  {
+    "name": "Esvres",
+    "country": "FR",
+    "lat": 47.28537,
+    "lng": 0.78588
+  },
+  {
+    "name": "Estrées-Saint-Denis",
+    "country": "FR",
+    "lat": 49.42602,
+    "lng": 2.64293
+  },
+  {
+    "name": "Estrées",
+    "country": "FR",
+    "lat": 50.30079,
+    "lng": 3.0698
+  },
+  {
+    "name": "Estrablin",
+    "country": "FR",
+    "lat": 45.51546,
+    "lng": 4.96173
+  },
+  {
+    "name": "Estivareilles",
+    "country": "FR",
+    "lat": 46.42526,
+    "lng": 2.61872
+  },
+  {
+    "name": "Estissac",
+    "country": "FR",
+    "lat": 48.2692,
+    "lng": 3.80515
+  },
+  {
+    "name": "Estillac",
+    "country": "FR",
+    "lat": 44.15716,
+    "lng": 0.56421
+  },
+  {
+    "name": "Estevelles",
+    "country": "FR",
+    "lat": 50.47653,
+    "lng": 2.90928
+  },
+  {
+    "name": "Esternay",
+    "country": "FR",
+    "lat": 48.73232,
+    "lng": 3.56159
+  },
+  {
+    "name": "Estaires",
+    "country": "FR",
+    "lat": 50.64574,
+    "lng": 2.72782
+  },
+  {
+    "name": "Estagel",
+    "country": "FR",
+    "lat": 42.77276,
+    "lng": 2.69819
+  },
+  {
+    "name": "Essômes-sur-Marne",
+    "country": "FR",
+    "lat": 49.02881,
+    "lng": 3.37571
+  },
+  {
+    "name": "Essigny-le-Grand",
+    "country": "FR",
+    "lat": 49.77865,
+    "lng": 3.27774
+  },
+  {
+    "name": "Essey-lès-Nancy",
+    "country": "FR",
+    "lat": 48.705,
+    "lng": 6.22691
+  },
+  {
+    "name": "Essert",
+    "country": "FR",
+    "lat": 47.63342,
+    "lng": 6.81702
+  },
+  {
+    "name": "Essars",
+    "country": "FR",
+    "lat": 50.54868,
+    "lng": 2.6662
+  },
+  {
+    "name": "Esquibien",
+    "country": "FR",
+    "lat": 48.02506,
+    "lng": -4.56139
+  },
+  {
+    "name": "Esquerdes",
+    "country": "FR",
+    "lat": 50.70414,
+    "lng": 2.18851
+  },
+  {
+    "name": "Esquelbecq",
+    "country": "FR",
+    "lat": 50.88694,
+    "lng": 2.43215
+  },
+  {
+    "name": "Esquéhéries",
+    "country": "FR",
+    "lat": 49.98391,
+    "lng": 3.74743
+  },
+  {
+    "name": "Espéraza",
+    "country": "FR",
+    "lat": 42.93503,
+    "lng": 2.22082
+  },
+  {
+    "name": "Espelette",
+    "country": "FR",
+    "lat": 43.34052,
+    "lng": -1.44798
+  },
+  {
+    "name": "Espaly-Saint-Marcel",
+    "country": "FR",
+    "lat": 45.0479,
+    "lng": 3.86557
+  },
+  {
+    "name": "Espalion",
+    "country": "FR",
+    "lat": 44.52237,
+    "lng": 2.76265
+  },
+  {
+    "name": "Esnandes",
+    "country": "FR",
+    "lat": 46.24992,
+    "lng": -1.1159
+  },
+  {
+    "name": "Eslettes",
+    "country": "FR",
+    "lat": 49.5482,
+    "lng": 1.05515
+  },
+  {
+    "name": "Escoutoux",
+    "country": "FR",
+    "lat": 45.81942,
+    "lng": 3.56336
+  },
+  {
+    "name": "Esches",
+    "country": "FR",
+    "lat": 49.22086,
+    "lng": 2.16595
+  },
+  {
+    "name": "Eschentzwiller",
+    "country": "FR",
+    "lat": 47.7127,
+    "lng": 7.39773
+  },
+  {
+    "name": "Eschbach",
+    "country": "FR",
+    "lat": 48.87465,
+    "lng": 7.73609
+  },
+  {
+    "name": "Eschau",
+    "country": "FR",
+    "lat": 48.48897,
+    "lng": 7.71644
+  },
+  {
+    "name": "Escautpont",
+    "country": "FR",
+    "lat": 50.41875,
+    "lng": 3.55341
+  },
+  {
+    "name": "Escaudœuvres",
+    "country": "FR",
+    "lat": 50.2,
+    "lng": 3.26667
+  },
+  {
+    "name": "Escaudain",
+    "country": "FR",
+    "lat": 50.33315,
+    "lng": 3.3443
+  },
+  {
+    "name": "Escalquens",
+    "country": "FR",
+    "lat": 43.51835,
+    "lng": 1.56093
+  },
+  {
+    "name": "Esbly",
+    "country": "FR",
+    "lat": 48.9052,
+    "lng": 2.81235
+  },
+  {
+    "name": "Eston",
+    "country": "GB",
+    "lat": 54.55932,
+    "lng": -1.1434
+  },
+  {
+    "name": "Essendine",
+    "country": "GB",
+    "lat": 52.70187,
+    "lng": -0.4525
+  },
+  {
+    "name": "Esher",
+    "country": "GB",
+    "lat": 51.36969,
+    "lng": -0.36693
+  },
+  {
+    "name": "Essington",
+    "country": "GB",
+    "lat": 52.6291,
+    "lng": -2.0577
+  },
+  {
+    "name": "Esim",
+    "country": "GH",
+    "lat": 4.86641,
+    "lng": -2.24181
+  },
+  {
+    "name": "Essau",
+    "country": "GM",
+    "lat": 13.48389,
+    "lng": -16.53472
+  },
+  {
+    "name": "Estanzuela",
+    "country": "GT",
+    "lat": 14.99777,
+    "lng": -89.57285
+  },
+  {
+    "name": "Esquipulas Palo Gordo",
+    "country": "GT",
+    "lat": 14.94135,
+    "lng": -91.82564
+  },
+  {
+    "name": "Esquipulas",
+    "country": "GT",
+    "lat": 14.56571,
+    "lng": -89.35166
+  },
+  {
+    "name": "Escuintla",
+    "country": "GT",
+    "lat": 14.30097,
+    "lng": -90.78816
+  },
+  {
+    "name": "Esquías",
+    "country": "HN",
+    "lat": 14.74392,
+    "lng": -87.3712
+  },
+  {
+    "name": "Esztergom",
+    "country": "HU",
+    "lat": 47.7928,
+    "lng": 18.74148
+  },
+  {
+    "name": "Essang",
+    "country": "ID",
+    "lat": 4.45752,
+    "lng": 126.7319
+  },
+  {
+    "name": "Eshta’ol",
+    "country": "IL",
+    "lat": 31.78072,
+    "lng": 35.00994
+  },
+  {
+    "name": "Esh Sheikh Dannūn",
+    "country": "IL",
+    "lat": 32.9941,
+    "lng": 35.14805
+  },
+  {
+    "name": "Estahbān",
+    "country": "IR",
+    "lat": 29.1266,
+    "lng": 54.0421
+  },
+  {
+    "name": "Eslāmābād-e Gharb",
+    "country": "IR",
+    "lat": 34.1089,
+    "lng": 46.52988
+  },
+  {
+    "name": "Eshtehārd",
+    "country": "IR",
+    "lat": 35.7255,
+    "lng": 50.3662
+  },
+  {
+    "name": "Eshkanān",
+    "country": "IR",
+    "lat": 27.2293,
+    "lng": 53.6082
+  },
+  {
+    "name": "Esfarāyen",
+    "country": "IR",
+    "lat": 37.07645,
+    "lng": 57.51009
+  },
+  {
+    "name": "Eshkāvand",
+    "country": "IR",
+    "lat": 32.57883,
+    "lng": 51.75915
+  },
+  {
+    "name": "Eslamshahr",
+    "country": "IR",
+    "lat": 35.55222,
+    "lng": 51.23504
+  },
+  {
+    "name": "Eskifjörður",
+    "country": "IS",
+    "lat": 65.07306,
+    "lng": -14.01525
+  },
+  {
+    "name": "Esterzili",
+    "country": "IT",
+    "lat": 39.78041,
+    "lng": 9.28357
+  },
+  {
+    "name": "Escolca",
+    "country": "IT",
+    "lat": 39.69861,
+    "lng": 9.12139
+  },
+  {
+    "name": "Escalaplano",
+    "country": "IT",
+    "lat": 39.62574,
+    "lng": 9.3535
+  },
+  {
+    "name": "Este",
+    "country": "IT",
+    "lat": 45.22338,
+    "lng": 11.66379
+  },
+  {
+    "name": "Esperia",
+    "country": "IT",
+    "lat": 41.38237,
+    "lng": 13.68491
+  },
+  {
+    "name": "Esino Lario",
+    "country": "IT",
+    "lat": 45.99437,
+    "lng": 9.33399
+  },
+  {
+    "name": "Esine",
+    "country": "IT",
+    "lat": 45.92515,
+    "lng": 10.25102
+  },
+  {
+    "name": "Esanatoglia",
+    "country": "IT",
+    "lat": 43.25248,
+    "lng": 12.9493
+  },
+  {
+    "name": "Esporlatu",
+    "country": "IT",
+    "lat": 40.38456,
+    "lng": 8.98983
+  },
+  {
+    "name": "Esashi",
+    "country": "JP",
+    "lat": 44.93528,
+    "lng": 142.58472
+  },
+  {
+    "name": "Esik",
+    "country": "KZ",
+    "lat": 43.3552,
+    "lng": 77.45245
+  },
+  {
+    "name": "Esil",
+    "country": "KZ",
+    "lat": 51.95453,
+    "lng": 66.40772
+  },
+  {
+    "name": "Eschen",
+    "country": "LI",
+    "lat": 47.21071,
+    "lng": 9.52223
+  },
+  {
+    "name": "Esch-sur-Sûre",
+    "country": "LU",
+    "lat": 49.91139,
+    "lng": 5.93639
+  },
+  {
+    "name": "Esch-sur-Alzette",
+    "country": "LU",
+    "lat": 49.49583,
+    "lng": 5.98056
+  },
+  {
+    "name": "Essekhinat",
+    "country": "MA",
+    "lat": 34.03394,
+    "lng": -4.86151
+  },
+  {
+    "name": "Essaouira",
+    "country": "MA",
+    "lat": 31.5125,
+    "lng": -9.77
+  },
+  {
+    "name": "Espérance Trébuchet",
+    "country": "MU",
+    "lat": -20.06972,
+    "lng": 57.64194
+  },
+  {
+    "name": "Esteros",
+    "country": "MX",
+    "lat": 22.5201,
+    "lng": -98.12637
+  },
+  {
+    "name": "Estación Manuel",
+    "country": "MX",
+    "lat": 22.72871,
+    "lng": -98.32182
+  },
+  {
+    "name": "Estapilla",
+    "country": "MX",
+    "lat": 17.54451,
+    "lng": -91.4058
+  },
+  {
+    "name": "Espita",
+    "country": "MX",
+    "lat": 21.01098,
+    "lng": -88.30681
+  },
+  {
+    "name": "Esperanza",
+    "country": "MX",
+    "lat": 18.85853,
+    "lng": -97.37641
+  },
+  {
+    "name": "Españita",
+    "country": "MX",
+    "lat": 19.46286,
+    "lng": -98.42434
+  },
+  {
+    "name": "Escuintla",
+    "country": "MX",
+    "lat": 15.31944,
+    "lng": -92.65833
+  },
+  {
+    "name": "Escolín de Olarte",
+    "country": "MX",
+    "lat": 20.4984,
+    "lng": -97.42336
+  },
+  {
+    "name": "Escárcega",
+    "country": "MX",
+    "lat": 18.60891,
+    "lng": -90.74544
+  },
+  {
+    "name": "Estanzuela",
+    "country": "MX",
+    "lat": 19.46081,
+    "lng": -96.85819
+  },
+  {
+    "name": "Estero de Milpas",
+    "country": "MX",
+    "lat": 21.2537,
+    "lng": -97.45082
+  },
+  {
+    "name": "Estero del Ídolo",
+    "country": "MX",
+    "lat": 20.88953,
+    "lng": -97.65878
+  },
+  {
+    "name": "Estación Juanita",
+    "country": "MX",
+    "lat": 17.80889,
+    "lng": -95.2175
+  },
+  {
+    "name": "Estancia de Guadalupe",
+    "country": "MX",
+    "lat": 22.28207,
+    "lng": -101.65819
+  },
+  {
+    "name": "Escamillas",
+    "country": "MX",
+    "lat": 23.27217,
+    "lng": -106.2467
+  },
+  {
+    "name": "Estación Coahuila",
+    "country": "MX",
+    "lat": 32.19304,
+    "lng": -114.99933
+  },
+  {
+    "name": "Estación Pescaderos",
+    "country": "MX",
+    "lat": 32.31088,
+    "lng": -115.13819
+  },
+  {
+    "name": "Escobedo",
+    "country": "MX",
+    "lat": 27.23372,
+    "lng": -101.41314
+  },
+  {
+    "name": "Estación San José",
+    "country": "MX",
+    "lat": 23.18972,
+    "lng": -102.78472
+  },
+  {
+    "name": "Estación Queréndaro",
+    "country": "MX",
+    "lat": 19.88285,
+    "lng": -100.94861
+  },
+  {
+    "name": "Estación Naranjo",
+    "country": "MX",
+    "lat": 25.80623,
+    "lng": -108.48132
+  },
+  {
+    "name": "Estación Capomas",
+    "country": "MX",
+    "lat": 25.60092,
+    "lng": -108.22332
+  },
+  {
+    "name": "Estrada",
+    "country": "MX",
+    "lat": 20.52918,
+    "lng": -100.8655
+  },
+  {
+    "name": "Estipac",
+    "country": "MX",
+    "lat": 20.36238,
+    "lng": -103.72282
+  },
+  {
+    "name": "Estancia de Ánimas",
+    "country": "MX",
+    "lat": 22.49131,
+    "lng": -101.99261
+  },
+  {
+    "name": "Estación Rosales",
+    "country": "MX",
+    "lat": 24.83682,
+    "lng": -107.57985
+  },
+  {
+    "name": "Esqueda",
+    "country": "MX",
+    "lat": 30.7275,
+    "lng": -109.58781
+  },
+  {
+    "name": "Esperanza",
+    "country": "MX",
+    "lat": 20.64565,
+    "lng": -100.11097
+  },
+  {
+    "name": "Esmeralda",
+    "country": "MX",
+    "lat": 25.74254,
+    "lng": -103.4308
+  },
+  {
+    "name": "Esfuerzos Unidos",
+    "country": "MX",
+    "lat": 24.82142,
+    "lng": -104.99022
+  },
+  {
+    "name": "Escuinapa de Hidalgo",
+    "country": "MX",
+    "lat": 22.83474,
+    "lng": -105.77766
+  },
+  {
+    "name": "Escuadrón Doscientos Uno",
+    "country": "MX",
+    "lat": 25.67463,
+    "lng": -103.349
+  },
+  {
+    "name": "Escolásticas",
+    "country": "MX",
+    "lat": 20.42789,
+    "lng": -100.21216
+  },
+  {
+    "name": "Escalerillas",
+    "country": "MX",
+    "lat": 22.11167,
+    "lng": -101.07305
+  },
+  {
+    "name": "Escaleras",
+    "country": "MX",
+    "lat": 22.25054,
+    "lng": -102.33377
+  },
+  {
+    "name": "Estación Llano",
+    "country": "MX",
+    "lat": 30.36226,
+    "lng": -111.10309
+  },
+  {
+    "name": "Esperanza",
+    "country": "MX",
+    "lat": 27.58046,
+    "lng": -109.93119
+  },
+  {
+    "name": "Estación Consuelo",
+    "country": "MX",
+    "lat": 28.33118,
+    "lng": -105.59471
+  },
+  {
+    "name": "Estación Conchos",
+    "country": "MX",
+    "lat": 27.97326,
+    "lng": -105.28843
+  },
+  {
+    "name": "Estación Camacho",
+    "country": "MX",
+    "lat": 24.44023,
+    "lng": -102.37323
+  },
+  {
+    "name": "Estanzuela de Romero",
+    "country": "MX",
+    "lat": 20.18477,
+    "lng": -100.50448
+  },
+  {
+    "name": "Estancia del Llano",
+    "country": "MX",
+    "lat": 20.51101,
+    "lng": -100.72637
+  },
+  {
+    "name": "Estación Joaquín",
+    "country": "MX",
+    "lat": 20.56082,
+    "lng": -101.51993
+  },
+  {
+    "name": "Estación Pénjamo",
+    "country": "MX",
+    "lat": 20.3947,
+    "lng": -101.69188
+  },
+  {
+    "name": "Estación Santa Engracia",
+    "country": "MX",
+    "lat": 24.01528,
+    "lng": -99.20194
+  },
+  {
+    "name": "Estación Tamuín",
+    "country": "MX",
+    "lat": 22.0775,
+    "lng": -98.81111
+  },
+  {
+    "name": "Estación Corral",
+    "country": "MX",
+    "lat": 27.62889,
+    "lng": -109.96611
+  },
+  {
+    "name": "Estación Obispo",
+    "country": "MX",
+    "lat": 24.29306,
+    "lng": -107.15944
+  },
+  {
+    "name": "Estación Mogoñé",
+    "country": "MX",
+    "lat": 16.99472,
+    "lng": -95.03667
+  },
+  {
+    "name": "Estación de Apulco",
+    "country": "MX",
+    "lat": 20.28611,
+    "lng": -98.3475
+  },
+  {
+    "name": "Estanzuela",
+    "country": "MX",
+    "lat": 22.26889,
+    "lng": -101.00806
+  },
+  {
+    "name": "Estación Dobladero",
+    "country": "MX",
+    "lat": 18.115,
+    "lng": -95.76611
+  },
+  {
+    "name": "Escalerilla Lagunas",
+    "country": "MX",
+    "lat": 17.37806,
+    "lng": -98.84667
+  },
+  {
+    "name": "Estrella de Belén",
+    "country": "MX",
+    "lat": 17.38722,
+    "lng": -91.95861
+  },
+  {
+    "name": "Estación de San Francisco",
+    "country": "MX",
+    "lat": 21.03722,
+    "lng": -101.82472
+  },
+  {
+    "name": "Estación la Piedad",
+    "country": "MX",
+    "lat": 20.3675,
+    "lng": -101.99806
+  },
+  {
+    "name": "Estación Corralejo",
+    "country": "MX",
+    "lat": 20.47,
+    "lng": -101.61639
+  },
+  {
+    "name": "Estación Bamoa",
+    "country": "MX",
+    "lat": 25.7075,
+    "lng": -108.31311
+  },
+  {
+    "name": "Espinal",
+    "country": "MX",
+    "lat": 20.25817,
+    "lng": -97.40028
+  },
+  {
+    "name": "Estación Tuzantán",
+    "country": "MX",
+    "lat": 15.10643,
+    "lng": -92.45092
+  },
+  {
+    "name": "Estación Huehuetán",
+    "country": "MX",
+    "lat": 15.01091,
+    "lng": -92.40662
+  },
+  {
+    "name": "Esuk Oron",
+    "country": "NG",
+    "lat": 4.80293,
+    "lng": 8.25341
+  },
+  {
+    "name": "Estelí",
+    "country": "NI",
+    "lat": 13.09291,
+    "lng": -86.35589
+  },
+  {
+    "name": "Esquipulas",
+    "country": "NI",
+    "lat": 12.66446,
+    "lng": -85.78734
+  },
+  {
+    "name": "Essesteijn",
+    "country": "NL",
+    "lat": 52.08534,
+    "lng": 4.37263
+  },
+  {
+    "name": "Esch",
+    "country": "NL",
+    "lat": 51.61083,
+    "lng": 5.29028
+  },
+  {
+    "name": "Espeland",
+    "country": "NO",
+    "lat": 60.38249,
+    "lng": 5.4657
+  },
+  {
+    "name": "Espavé",
+    "country": "PA",
+    "lat": 8.66339,
+    "lng": -79.8725
+  },
+  {
+    "name": "Escobal",
+    "country": "PA",
+    "lat": 9.14758,
+    "lng": -79.9638
+  },
+  {
+    "name": "Estique Pampa",
+    "country": "PE",
+    "lat": -17.53845,
+    "lng": -70.03249
+  },
+  {
+    "name": "Estique",
+    "country": "PE",
+    "lat": -17.54203,
+    "lng": -70.01855
+  },
+  {
+    "name": "Estación de Pucará",
+    "country": "PE",
+    "lat": -15.03365,
+    "lng": -70.33814
+  },
+  {
+    "name": "Estrella",
+    "country": "PH",
+    "lat": 15.75,
+    "lng": 121.03333
+  },
+  {
+    "name": "Estrella",
+    "country": "PH",
+    "lat": 13.32898,
+    "lng": 121.31092
+  },
+  {
+    "name": "Estipona",
+    "country": "PH",
+    "lat": 15.5902,
+    "lng": 120.6377
+  },
+  {
+    "name": "Estefania",
+    "country": "PH",
+    "lat": 17.79952,
+    "lng": 121.7231
+  },
+  {
+    "name": "Estancia",
+    "country": "PH",
+    "lat": 13.3589,
+    "lng": 123.6796
+  },
+  {
+    "name": "Estancia",
+    "country": "PH",
+    "lat": 11.4551,
+    "lng": 123.152
+  },
+  {
+    "name": "Estacion",
+    "country": "PH",
+    "lat": 15.69944,
+    "lng": 120.60833
+  },
+  {
+    "name": "Estaca",
+    "country": "PH",
+    "lat": 9.6933,
+    "lng": 124.2722
+  },
+  {
+    "name": "Espiritu",
+    "country": "PH",
+    "lat": 17.9809,
+    "lng": 120.6569
+  },
+  {
+    "name": "Esperanza East",
+    "country": "PH",
+    "lat": 17.02327,
+    "lng": 121.68402
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 11.7365,
+    "lng": 124.042
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 10.7027,
+    "lng": 124.4143
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 10.6995,
+    "lng": 124.3143
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 8.67694,
+    "lng": 125.64694
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 8.18083,
+    "lng": 124.00722
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 7.49167,
+    "lng": 125.72806
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 6.72306,
+    "lng": 124.51972
+  },
+  {
+    "name": "España",
+    "country": "PH",
+    "lat": 12.38414,
+    "lng": 122.49901
+  },
+  {
+    "name": "Esmeralda",
+    "country": "PH",
+    "lat": 15.86722,
+    "lng": 120.715
+  },
+  {
+    "name": "Escalante",
+    "country": "PH",
+    "lat": 10.84028,
+    "lng": 123.49917
+  },
+  {
+    "name": "Esperanza",
+    "country": "PH",
+    "lat": 6.49804,
+    "lng": 124.66741
+  },
+  {
+    "name": "Esperanza",
+    "country": "PR",
+    "lat": 18.09719,
+    "lng": -65.47071
+  },
+  {
+    "name": "Espino",
+    "country": "PR",
+    "lat": 18.27634,
+    "lng": -67.11935
+  },
+  {
+    "name": "Estancias de Florida",
+    "country": "PR",
+    "lat": 18.36662,
+    "lng": -66.56962
+  },
+  {
+    "name": "Estremoz",
+    "country": "PT",
+    "lat": 38.84432,
+    "lng": -7.58585
+  },
+  {
+    "name": "Estreito de Câmara de Lobos",
+    "country": "PT",
+    "lat": 32.6612,
+    "lng": -17.00014
+  },
+  {
+    "name": "Estreito da Calheta",
+    "country": "PT",
+    "lat": 32.73704,
+    "lng": -17.18674
+  },
+  {
+    "name": "Estoril",
+    "country": "PT",
+    "lat": 38.70571,
+    "lng": -9.39773
+  },
+  {
+    "name": "Estômbar",
+    "country": "PT",
+    "lat": 37.14629,
+    "lng": -8.48505
+  },
+  {
+    "name": "Estói",
+    "country": "PT",
+    "lat": 37.09503,
+    "lng": -7.89445
+  },
+  {
+    "name": "Estela",
+    "country": "PT",
+    "lat": 41.44944,
+    "lng": -8.75166
+  },
+  {
+    "name": "Estarreja",
+    "country": "PT",
+    "lat": 40.75648,
+    "lng": -8.57207
+  },
+  {
+    "name": "Esposende",
+    "country": "PT",
+    "lat": 41.5361,
+    "lng": -8.78201
+  },
+  {
+    "name": "Esporões",
+    "country": "PT",
+    "lat": 41.51006,
+    "lng": -8.41729
+  },
+  {
+    "name": "Espinho",
+    "country": "PT",
+    "lat": 41.54802,
+    "lng": -8.36195
+  },
+  {
+    "name": "Espinho",
+    "country": "PT",
+    "lat": 41.00763,
+    "lng": -8.64125
+  },
+  {
+    "name": "Espargo",
+    "country": "PT",
+    "lat": 40.92462,
+    "lng": -8.57495
+  },
+  {
+    "name": "Esmoriz",
+    "country": "PT",
+    "lat": 40.95773,
+    "lng": -8.62753
+  },
+  {
+    "name": "Esgueira",
+    "country": "PT",
+    "lat": 40.64899,
+    "lng": -8.62943
+  },
+  {
+    "name": "Estelnic",
+    "country": "RO",
+    "lat": 46.10445,
+    "lng": 26.21262
+  },
+  {
+    "name": "Essoyla",
+    "country": "RU",
+    "lat": 61.86983,
+    "lng": 33.14901
+  },
+  {
+    "name": "Esso",
+    "country": "RU",
+    "lat": 55.92736,
+    "lng": 158.70731
+  },
+  {
+    "name": "Eslöv",
+    "country": "SE",
+    "lat": 55.83928,
+    "lng": 13.30393
+  },
+  {
+    "name": "Eskilstuna",
+    "country": "SE",
+    "lat": 59.36661,
+    "lng": 16.5077
+  },
+  {
+    "name": "Esenguly",
+    "country": "TM",
+    "lat": 37.46461,
+    "lng": 53.97256
+  },
+  {
+    "name": "Es Somaa",
+    "country": "TN",
+    "lat": 36.54364,
+    "lng": 10.78065
+  },
+  {
+    "name": "Eskişehir",
+    "country": "TR",
+    "lat": 39.77667,
+    "lng": 30.52056
+  },
+  {
+    "name": "Eskil",
+    "country": "TR",
+    "lat": 38.40167,
+    "lng": 33.41306
+  },
+  {
+    "name": "Eskihisar",
+    "country": "TR",
+    "lat": 37.90341,
+    "lng": 28.1313
+  },
+  {
+    "name": "Esendere",
+    "country": "TR",
+    "lat": 37.71144,
+    "lng": 44.60099
+  },
+  {
+    "name": "Eskipazar",
+    "country": "TR",
+    "lat": 40.94298,
+    "lng": 32.53091
+  },
+  {
+    "name": "Esiroğlu",
+    "country": "TR",
+    "lat": 40.87331,
+    "lng": 39.68829
+  },
+  {
+    "name": "Esenyurt",
+    "country": "TR",
+    "lat": 41.02697,
+    "lng": 28.67732
+  },
+  {
+    "name": "Esenler",
+    "country": "TR",
+    "lat": 41.0435,
+    "lng": 28.87619
+  },
+  {
+    "name": "Esençay",
+    "country": "TR",
+    "lat": 40.66806,
+    "lng": 36.38028
+  },
+  {
+    "name": "Esenboğa",
+    "country": "TR",
+    "lat": 40.134,
+    "lng": 32.98525
+  },
+  {
+    "name": "Espiye",
+    "country": "TR",
+    "lat": 40.94705,
+    "lng": 38.70299
+  },
+  {
+    "name": "Esentepe",
+    "country": "TR",
+    "lat": 41.00515,
+    "lng": 36.14038
+  },
+  {
+    "name": "Esenpınar",
+    "country": "TR",
+    "lat": 36.59043,
+    "lng": 34.11392
+  },
+  {
+    "name": "Eskhar",
+    "country": "UA",
+    "lat": 49.79736,
+    "lng": 36.59025
+  },
+  {
+    "name": "Esman",
+    "country": "UA",
+    "lat": 51.77006,
+    "lng": 34.06729
+  },
+  {
+    "name": "Estero",
+    "country": "US",
+    "lat": 26.43814,
+    "lng": -81.80675
+  },
+  {
+    "name": "Estelle",
+    "country": "US",
+    "lat": 29.84576,
+    "lng": -90.10674
+  },
+  {
+    "name": "Essex",
+    "country": "US",
+    "lat": 39.30927,
+    "lng": -76.47496
+  },
+  {
+    "name": "Esther",
+    "country": "US",
+    "lat": 37.85033,
+    "lng": -90.49874
+  },
+  {
+    "name": "Escatawpa",
+    "country": "US",
+    "lat": 30.487,
+    "lng": -88.552
+  },
+  {
+    "name": "Estell Manor",
+    "country": "US",
+    "lat": 39.41206,
+    "lng": -74.74239
+  },
+  {
+    "name": "Estill",
+    "country": "US",
+    "lat": 32.75489,
+    "lng": -81.24205
+  },
+  {
+    "name": "Estill Springs",
+    "country": "US",
+    "lat": 35.27064,
+    "lng": -86.12804
+  },
+  {
+    "name": "Escobares",
+    "country": "US",
+    "lat": 26.41062,
+    "lng": -98.96253
+  },
+  {
+    "name": "Estherville",
+    "country": "US",
+    "lat": 43.40163,
+    "lng": -94.83276
+  },
+  {
+    "name": "Essex",
+    "country": "US",
+    "lat": 42.63204,
+    "lng": -70.78283
+  },
+  {
+    "name": "Escanaba",
+    "country": "US",
+    "lat": 45.74525,
+    "lng": -87.06458
+  },
+  {
+    "name": "Essexville",
+    "country": "US",
+    "lat": 43.6153,
+    "lng": -83.84192
+  },
+  {
+    "name": "Esko",
+    "country": "US",
+    "lat": 46.70578,
+    "lng": -92.36325
+  },
+  {
+    "name": "Essex Fells",
+    "country": "US",
+    "lat": 40.82454,
+    "lng": -74.28459
+  },
+  {
+    "name": "Espy",
+    "country": "US",
+    "lat": 41.0062,
+    "lng": -76.40994
+  },
+  {
+    "name": "Essex Junction",
+    "country": "US",
+    "lat": 44.49061,
+    "lng": -73.11096
+  },
+  {
+    "name": "Escalon",
+    "country": "US",
+    "lat": 37.79781,
+    "lng": -120.99792
+  },
+  {
+    "name": "Escondido",
+    "country": "US",
+    "lat": 33.11921,
+    "lng": -117.08642
+  },
+  {
+    "name": "Esparto",
+    "country": "US",
+    "lat": 38.69213,
+    "lng": -122.01719
+  },
+  {
+    "name": "Española",
+    "country": "US",
+    "lat": 35.99113,
+    "lng": -106.08058
+  },
+  {
+    "name": "Estancia",
+    "country": "US",
+    "lat": 34.75839,
+    "lng": -106.05585
+  },
+  {
+    "name": "Estes Park",
+    "country": "US",
+    "lat": 40.37721,
+    "lng": -105.52167
+  },
+  {
+    "name": "Estacada",
+    "country": "US",
+    "lat": 45.28957,
+    "lng": -122.3337
+  },
+  {
+    "name": "Esperance",
+    "country": "US",
+    "lat": 47.78899,
+    "lng": -122.35541
+  },
+  {
+    "name": "Ester",
+    "country": "US",
+    "lat": 64.84722,
+    "lng": -148.01444
+  },
+  {
+    "name": "Essex Village",
+    "country": "US",
+    "lat": 41.35544,
+    "lng": -72.39101
+  },
+  {
+    "name": "Estates of Fort Lauderdale (historical)",
+    "country": "US",
+    "lat": 26.0522,
+    "lng": -80.17939
+  },
+  {
+    "name": "Estación Porvenir",
+    "country": "UY",
+    "lat": -32.37085,
+    "lng": -57.85371
+  },
+  {
+    "name": "Eskiarab",
+    "country": "UZ",
+    "lat": 40.36972,
+    "lng": 71.41861
+  },
+  {
+    "name": "Escuque",
+    "country": "VE",
+    "lat": 9.29687,
+    "lng": -70.67189
+  },
+  {
+    "name": "Estcourt",
+    "country": "ZA",
+    "lat": -29.01269,
+    "lng": 29.86619
+  },
+  {
+    "name": "eSikhaleni",
+    "country": "ZA",
+    "lat": -28.87097,
+    "lng": 31.89961
+  },
+  {
+    "name": "Eshowe",
+    "country": "ZA",
+    "lat": -28.88649,
+    "lng": 31.4699
+  },
+  {
+    "name": "Esigodini",
+    "country": "ZW",
+    "lat": -20.28979,
+    "lng": 28.92261
+  }
+]

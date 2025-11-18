@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Azatavan",
+    "country": "AM",
+    "lat": 39.98608,
+    "lng": 44.50568
+  },
+  {
+    "name": "Azatan",
+    "country": "AM",
+    "lat": 40.71959,
+    "lng": 43.82727
+  },
+  {
+    "name": "Azatamut",
+    "country": "AM",
+    "lat": 40.98847,
+    "lng": 45.2067
+  },
+  {
+    "name": "Azul",
+    "country": "AR",
+    "lat": -36.77803,
+    "lng": -59.85848
+  },
+  {
+    "name": "Azara",
+    "country": "AR",
+    "lat": -28.06067,
+    "lng": -55.67709
+  },
+  {
+    "name": "Azimpur",
+    "country": "BD",
+    "lat": 23.7298,
+    "lng": 90.3854
+  },
+  {
+    "name": "Azyartso",
+    "country": "BY",
+    "lat": 53.8397,
+    "lng": 27.3917
+  },
+  {
+    "name": "Azilda",
+    "country": "CA",
+    "lat": 46.55008,
+    "lng": -81.09975
+  },
+  {
+    "name": "Azuretti",
+    "country": "CI",
+    "lat": 5.20498,
+    "lng": -3.77778
+  },
+  {
+    "name": "Azaguié Blida",
+    "country": "CI",
+    "lat": 5.52561,
+    "lng": -4.0908
+  },
+  {
+    "name": "Azaguié",
+    "country": "CI",
+    "lat": 5.62984,
+    "lng": -4.08204
+  },
+  {
+    "name": "Azitan",
+    "country": "CN",
+    "lat": 34.70862,
+    "lng": 103.31281
+  },
+  {
+    "name": "Azhatebage",
+    "country": "CN",
+    "lat": 38.65883,
+    "lng": 77.4664
+  },
+  {
+    "name": "Azua",
+    "country": "DO",
+    "lat": 18.45319,
+    "lng": -70.7349
+  },
+  {
+    "name": "Azzaba",
+    "country": "DZ",
+    "lat": 36.73944,
+    "lng": 7.10528
+  },
+  {
+    "name": "Azazga",
+    "country": "DZ",
+    "lat": 36.74472,
+    "lng": 4.37222
+  },
+  {
+    "name": "Azogues",
+    "country": "EC",
+    "lat": -2.73982,
+    "lng": -78.84561
+  },
+  {
+    "name": "Az Zaynīyah Qiblī",
+    "country": "EG",
+    "lat": 25.75089,
+    "lng": 32.6776
+  },
+  {
+    "name": "Az Zarqā",
+    "country": "EG",
+    "lat": 31.20864,
+    "lng": 31.63528
+  },
+  {
+    "name": "Azután",
+    "country": "ES",
+    "lat": 39.78564,
+    "lng": -5.1273
+  },
+  {
+    "name": "Azuébar",
+    "country": "ES",
+    "lat": 39.83333,
+    "lng": -0.36667
+  },
+  {
+    "name": "Azuaga",
+    "country": "ES",
+    "lat": 38.26667,
+    "lng": -5.68333
+  },
+  {
+    "name": "Aznalcóllar",
+    "country": "ES",
+    "lat": 37.51914,
+    "lng": -6.26988
+  },
+  {
+    "name": "Aznalcázar",
+    "country": "ES",
+    "lat": 37.30422,
+    "lng": -6.24963
+  },
+  {
+    "name": "Azuqueca de Henares",
+    "country": "ES",
+    "lat": 40.56566,
+    "lng": -3.26753
+  },
+  {
+    "name": "Azuelo",
+    "country": "ES",
+    "lat": 42.60844,
+    "lng": -2.34987
+  },
+  {
+    "name": "Azuara",
+    "country": "ES",
+    "lat": 41.25822,
+    "lng": -0.87078
+  },
+  {
+    "name": "Azpeitia",
+    "country": "ES",
+    "lat": 43.18246,
+    "lng": -2.26693
+  },
+  {
+    "name": "Azofra",
+    "country": "ES",
+    "lat": 42.424,
+    "lng": -2.80086
+  },
+  {
+    "name": "Azlor",
+    "country": "ES",
+    "lat": 42.09427,
+    "lng": -0.04594
+  },
+  {
+    "name": "Azkoitia",
+    "country": "ES",
+    "lat": 43.17744,
+    "lng": -2.31129
+  },
+  {
+    "name": "Azara",
+    "country": "ES",
+    "lat": 42.07033,
+    "lng": -0.02921
+  },
+  {
+    "name": "Azagra",
+    "country": "ES",
+    "lat": 42.3,
+    "lng": -1.9
+  },
+  {
+    "name": "Azille",
+    "country": "FR",
+    "lat": 43.27843,
+    "lng": 2.65935
+  },
+  {
+    "name": "Azé",
+    "country": "FR",
+    "lat": 47.85141,
+    "lng": 0.99829
+  },
+  {
+    "name": "Azé",
+    "country": "FR",
+    "lat": 47.8222,
+    "lng": -0.68333
+  },
+  {
+    "name": "Azay-sur-Cher",
+    "country": "FR",
+    "lat": 47.34966,
+    "lng": 0.84562
+  },
+  {
+    "name": "Azay-le-Rideau",
+    "country": "FR",
+    "lat": 47.26405,
+    "lng": 0.47132
+  },
+  {
+    "name": "Azay-le-Ferron",
+    "country": "FR",
+    "lat": 46.85097,
+    "lng": 1.07084
+  },
+  {
+    "name": "Azay-le-Brûlé",
+    "country": "FR",
+    "lat": 46.40117,
+    "lng": -0.24711
+  },
+  {
+    "name": "Azacualpa",
+    "country": "HN",
+    "lat": 15.34364,
+    "lng": -88.55226
+  },
+  {
+    "name": "Azacualpa",
+    "country": "HN",
+    "lat": 14.71218,
+    "lng": -88.0901
+  },
+  {
+    "name": "Azor",
+    "country": "IL",
+    "lat": 32.0243,
+    "lng": 34.80632
+  },
+  {
+    "name": "Azhikkal",
+    "country": "IN",
+    "lat": 11.94043,
+    "lng": 75.30512
+  },
+  {
+    "name": "Azamgarh",
+    "country": "IN",
+    "lat": 26.06832,
+    "lng": 83.18358
+  },
+  {
+    "name": "Azhagiapāndipuram",
+    "country": "IN",
+    "lat": 8.30066,
+    "lng": 77.44394
+  },
+  {
+    "name": "Azhikkōd",
+    "country": "IN",
+    "lat": 11.91985,
+    "lng": 75.33549
+  },
+  {
+    "name": "Azhiyūr",
+    "country": "IN",
+    "lat": 11.69348,
+    "lng": 75.56013
+  },
+  {
+    "name": "Azara",
+    "country": "IN",
+    "lat": 26.12408,
+    "lng": 91.61161
+  },
+  {
+    "name": "Azhoor",
+    "country": "IN",
+    "lat": 8.64415,
+    "lng": 76.79897
+  },
+  {
+    "name": "Az Zubayr",
+    "country": "IQ",
+    "lat": 30.39213,
+    "lng": 47.70175
+  },
+  {
+    "name": "Aznā",
+    "country": "IR",
+    "lat": 33.6095,
+    "lng": 48.9307
+  },
+  {
+    "name": "Aznā",
+    "country": "IR",
+    "lat": 33.45643,
+    "lng": 49.45646
+  },
+  {
+    "name": "Azzone",
+    "country": "IT",
+    "lat": 45.97903,
+    "lng": 10.11284
+  },
+  {
+    "name": "Azzate",
+    "country": "IT",
+    "lat": 45.77803,
+    "lng": 8.79414
+  },
+  {
+    "name": "Azzano Decimo",
+    "country": "IT",
+    "lat": 45.90937,
+    "lng": 12.6642
+  },
+  {
+    "name": "Azzanello",
+    "country": "IT",
+    "lat": 45.31312,
+    "lng": 9.91973
+  },
+  {
+    "name": "Azeglio",
+    "country": "IT",
+    "lat": 45.42283,
+    "lng": 7.99222
+  },
+  {
+    "name": "Azzio",
+    "country": "IT",
+    "lat": 45.88468,
+    "lng": 8.70853
+  },
+  {
+    "name": "Azzano San Paolo",
+    "country": "IT",
+    "lat": 45.65798,
+    "lng": 9.67305
+  },
+  {
+    "name": "Azzano d'Asti",
+    "country": "IT",
+    "lat": 44.87345,
+    "lng": 8.26684
+  },
+  {
+    "name": "Azzano Mella",
+    "country": "IT",
+    "lat": 45.45458,
+    "lng": 10.11717
+  },
+  {
+    "name": "Azzano",
+    "country": "IT",
+    "lat": 45.98096,
+    "lng": 9.20284
+  },
+  {
+    "name": "Az̧ Z̧ulayl",
+    "country": "JO",
+    "lat": 32.1208,
+    "lng": 36.28008
+  },
+  {
+    "name": "Azumino",
+    "country": "JP",
+    "lat": 36.28815,
+    "lng": 137.88705
+  },
+  {
+    "name": "Azabu-jūban",
+    "country": "JP",
+    "lat": 35.65597,
+    "lng": 139.73534
+  },
+  {
+    "name": "Az Zawr",
+    "country": "KW",
+    "lat": 29.4425,
+    "lng": 48.27472
+  },
+  {
+    "name": "Az Zuwaytīnah",
+    "country": "LY",
+    "lat": 30.9522,
+    "lng": 20.12022
+  },
+  {
+    "name": "Az Zāwīyah",
+    "country": "LY",
+    "lat": 32.7571,
+    "lng": 12.72764
+  },
+  {
+    "name": "Az Zahrā’",
+    "country": "LY",
+    "lat": 32.67889,
+    "lng": 12.87327
+  },
+  {
+    "name": "Azrou",
+    "country": "MA",
+    "lat": 33.43443,
+    "lng": -5.22126
+  },
+  {
+    "name": "Azilal",
+    "country": "MA",
+    "lat": 31.96156,
+    "lng": -6.57109
+  },
+  {
+    "name": "Azgour",
+    "country": "MA",
+    "lat": 31.13753,
+    "lng": -8.31488
+  },
+  {
+    "name": "Azemmour",
+    "country": "MA",
+    "lat": 33.28952,
+    "lng": -8.3425
+  },
+  {
+    "name": "Azla",
+    "country": "MA",
+    "lat": 35.55303,
+    "lng": -5.24472
+  },
+  {
+    "name": "Azumbilla",
+    "country": "MX",
+    "lat": 18.64552,
+    "lng": -97.39815
+  },
+  {
+    "name": "Azoyú",
+    "country": "MX",
+    "lat": 16.73314,
+    "lng": -98.60166
+  },
+  {
+    "name": "Azcapotzalco",
+    "country": "MX",
+    "lat": 19.48698,
+    "lng": -99.18594
+  },
+  {
+    "name": "Aztlán",
+    "country": "MX",
+    "lat": 16.76919,
+    "lng": -92.92316
+  },
+  {
+    "name": "Azteca",
+    "country": "MX",
+    "lat": 16.21775,
+    "lng": -93.94557
+  },
+  {
+    "name": "Azare",
+    "country": "NG",
+    "lat": 11.67478,
+    "lng": 10.19069
+  },
+  {
+    "name": "Azare",
+    "country": "NG",
+    "lat": 10.52583,
+    "lng": 12.29115
+  },
+  {
+    "name": "Azángaro",
+    "country": "PE",
+    "lat": -14.91416,
+    "lng": -70.19846
+  },
+  {
+    "name": "Azagra",
+    "country": "PH",
+    "lat": 9.4779,
+    "lng": 123.1367
+  },
+  {
+    "name": "Az Zāwiyah",
+    "country": "PS",
+    "lat": 32.09627,
+    "lng": 35.03982
+  },
+  {
+    "name": "Az̧ Z̧āhirīyah",
+    "country": "PS",
+    "lat": 31.40967,
+    "lng": 34.97329
+  },
+  {
+    "name": "Az Zabābidah",
+    "country": "PS",
+    "lat": 32.38665,
+    "lng": 35.32411
+  },
+  {
+    "name": "Az Zaytūnīyah",
+    "country": "PS",
+    "lat": 31.95403,
+    "lng": 35.1624
+  },
+  {
+    "name": "Az Zuwāydah",
+    "country": "PS",
+    "lat": 31.43954,
+    "lng": 34.38053
+  },
+  {
+    "name": "Azun Atme",
+    "country": "PS",
+    "lat": 32.12167,
+    "lng": 35.02036
+  },
+  {
+    "name": "Az Za‘ayyim",
+    "country": "PS",
+    "lat": 31.78852,
+    "lng": 35.26511
+  },
+  {
+    "name": "Az Zubaydāt",
+    "country": "PS",
+    "lat": 32.1733,
+    "lng": 35.53005
+  },
+  {
+    "name": "Azueira",
+    "country": "PT",
+    "lat": 39.00698,
+    "lng": -9.28875
+  },
+  {
+    "name": "Azoia",
+    "country": "PT",
+    "lat": 38.77586,
+    "lng": -9.47664
+  },
+  {
+    "name": "Azinhaga",
+    "country": "PT",
+    "lat": 39.34877,
+    "lng": -8.53005
+  },
+  {
+    "name": "Azinhaga",
+    "country": "PT",
+    "lat": 39.05,
+    "lng": -9.35
+  },
+  {
+    "name": "Azambuja",
+    "country": "PT",
+    "lat": 39.07029,
+    "lng": -8.86822
+  },
+  {
+    "name": "Azevedo",
+    "country": "PT",
+    "lat": 41.15,
+    "lng": -8.56667
+  },
+  {
+    "name": "Azenha",
+    "country": "PT",
+    "lat": 41.07651,
+    "lng": -8.62468
+  },
+  {
+    "name": "Azeitão",
+    "country": "PT",
+    "lat": 38.51919,
+    "lng": -9.0139
+  },
+  {
+    "name": "Az̧ Z̧a‘āyin",
+    "country": "QA",
+    "lat": 25.57744,
+    "lng": 51.48306
+  },
+  {
+    "name": "Azuga",
+    "country": "RO",
+    "lat": 45.45,
+    "lng": 25.55
+  },
+  {
+    "name": "Azovskaya",
+    "country": "RU",
+    "lat": 44.79083,
+    "lng": 38.62639
+  },
+  {
+    "name": "Azov",
+    "country": "RU",
+    "lat": 47.1069,
+    "lng": 39.41486
+  },
+  {
+    "name": "Aznakayevo",
+    "country": "RU",
+    "lat": 54.85821,
+    "lng": 53.08006
+  },
+  {
+    "name": "Azanovo",
+    "country": "RU",
+    "lat": 56.71806,
+    "lng": 48.22417
+  },
+  {
+    "name": "Azovo",
+    "country": "RU",
+    "lat": 54.70462,
+    "lng": 73.02377
+  },
+  {
+    "name": "Azanka",
+    "country": "RU",
+    "lat": 58.04012,
+    "lng": 64.78927
+  },
+  {
+    "name": "Az Zulfī",
+    "country": "SA",
+    "lat": 26.29945,
+    "lng": 44.81542
+  },
+  {
+    "name": "Az Ziyārah",
+    "country": "SY",
+    "lat": 35.68482,
+    "lng": 36.33867
+  },
+  {
+    "name": "Az Zarbah",
+    "country": "SY",
+    "lat": 36.06771,
+    "lng": 36.98012
+  },
+  {
+    "name": "Az Zabadānī",
+    "country": "SY",
+    "lat": 33.72488,
+    "lng": 36.1005
+  },
+  {
+    "name": "Azdavay",
+    "country": "TR",
+    "lat": 41.64267,
+    "lng": 33.3
+  },
+  {
+    "name": "Azovskoye",
+    "country": "UA",
+    "lat": 45.58604,
+    "lng": 34.5668
+  },
+  {
+    "name": "Azalea Park",
+    "country": "US",
+    "lat": 28.54111,
+    "lng": -81.30062
+  },
+  {
+    "name": "Azle",
+    "country": "US",
+    "lat": 32.89513,
+    "lng": -97.54586
+  },
+  {
+    "name": "Aztalan",
+    "country": "US",
+    "lat": 43.07278,
+    "lng": -88.86233
+  },
+  {
+    "name": "Azusa",
+    "country": "US",
+    "lat": 34.13362,
+    "lng": -117.90756
+  },
+  {
+    "name": "Aztec",
+    "country": "US",
+    "lat": 36.82223,
+    "lng": -107.99285
+  },
+  {
+    "name": "Az Zāhir",
+    "country": "YE",
+    "lat": 13.96667,
+    "lng": 45.48333
+  },
+  {
+    "name": "Az Zuhrah",
+    "country": "YE",
+    "lat": 15.72377,
+    "lng": 42.99582
+  },
+  {
+    "name": "Az Zaydīyah",
+    "country": "YE",
+    "lat": 15.33049,
+    "lng": 43.00633
+  },
+  {
+    "name": "Az Zāhir",
+    "country": "YE",
+    "lat": 16.31733,
+    "lng": 44.49505
+  },
+  {
+    "name": "Az̧ Z̧alī‘ah",
+    "country": "YE",
+    "lat": 15.01667,
+    "lng": 48.01667
+  }
+]

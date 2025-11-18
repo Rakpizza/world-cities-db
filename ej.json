@@ -1,0 +1,440 @@
+[
+  {
+    "name": "Ejby",
+    "country": "DK",
+    "lat": 55.68923,
+    "lng": 11.84725
+  },
+  {
+    "name": "Ejby",
+    "country": "DK",
+    "lat": 55.4858,
+    "lng": 12.08171
+  },
+  {
+    "name": "Ejby",
+    "country": "DK",
+    "lat": 55.4301,
+    "lng": 9.92973
+  },
+  {
+    "name": "Ejulve",
+    "country": "ES",
+    "lat": 40.77633,
+    "lng": -0.55344
+  },
+  {
+    "name": "Ejeme",
+    "country": "ES",
+    "lat": 40.76685,
+    "lng": -5.53828
+  },
+  {
+    "name": "Ejea de los Caballeros",
+    "country": "ES",
+    "lat": 42.12632,
+    "lng": -1.13716
+  },
+  {
+    "name": "Ejura",
+    "country": "GH",
+    "lat": 7.38558,
+    "lng": -1.35617
+  },
+  {
+    "name": "Ejido San Diego",
+    "country": "MX",
+    "lat": 19.41329,
+    "lng": -99.82537
+  },
+  {
+    "name": "Ejutla de Crespo",
+    "country": "MX",
+    "lat": 16.56623,
+    "lng": -96.73123
+  },
+  {
+    "name": "Ejido Viejo",
+    "country": "MX",
+    "lat": 16.94812,
+    "lng": -99.94606
+  },
+  {
+    "name": "Ejido Nuevo",
+    "country": "MX",
+    "lat": 16.97405,
+    "lng": -99.73702
+  },
+  {
+    "name": "Ejido Loma de Malacota",
+    "country": "MX",
+    "lat": 19.65753,
+    "lng": -99.67122
+  },
+  {
+    "name": "Ejidal",
+    "country": "MX",
+    "lat": 18.9038,
+    "lng": -96.22583
+  },
+  {
+    "name": "Ejido del Tunal Nenaxi",
+    "country": "MX",
+    "lat": 19.74389,
+    "lng": -99.90889
+  },
+  {
+    "name": "Ejido de Dolores",
+    "country": "MX",
+    "lat": 19.43083,
+    "lng": -99.61278
+  },
+  {
+    "name": "Ejido Benito Juárez",
+    "country": "MX",
+    "lat": 30.14937,
+    "lng": -106.88362
+  },
+  {
+    "name": "Ejido Sinaloa",
+    "country": "MX",
+    "lat": 32.54603,
+    "lng": -115.27075
+  },
+  {
+    "name": "Ejido Tosalibampo",
+    "country": "MX",
+    "lat": 25.98077,
+    "lng": -109.11251
+  },
+  {
+    "name": "Ejido el Saucillo",
+    "country": "MX",
+    "lat": 21.83666,
+    "lng": -100.9949
+  },
+  {
+    "name": "Ejido la Pitahaya (Santo Domingo)",
+    "country": "MX",
+    "lat": 21.60611,
+    "lng": -100.76111
+  },
+  {
+    "name": "Ejido San Carlos",
+    "country": "MX",
+    "lat": 29.03272,
+    "lng": -100.90556
+  },
+  {
+    "name": "Ejido Ohuira",
+    "country": "MX",
+    "lat": 25.71654,
+    "lng": -108.97824
+  },
+  {
+    "name": "Ejido Mayocoba",
+    "country": "MX",
+    "lat": 25.93867,
+    "lng": -109.22245
+  },
+  {
+    "name": "Ejido La Quemada",
+    "country": "MX",
+    "lat": 28.84761,
+    "lng": -107.02152
+  },
+  {
+    "name": "Ejido la Joya",
+    "country": "MX",
+    "lat": 21.14325,
+    "lng": -101.73922
+  },
+  {
+    "name": "Ejido la Concha",
+    "country": "MX",
+    "lat": 25.63593,
+    "lng": -103.37848
+  },
+  {
+    "name": "Ejido Gogorrón (Ex-Hacienda de Gogorrón)",
+    "country": "MX",
+    "lat": 21.84019,
+    "lng": -100.91138
+  },
+  {
+    "name": "Ejido El Vergel",
+    "country": "MX",
+    "lat": 26.47133,
+    "lng": -106.3832
+  },
+  {
+    "name": "Ejido la Ventana",
+    "country": "MX",
+    "lat": 24.01398,
+    "lng": -106.85182
+  },
+  {
+    "name": "Ejutla",
+    "country": "MX",
+    "lat": 19.90628,
+    "lng": -104.16213
+  },
+  {
+    "name": "Ejido Yucatán",
+    "country": "MX",
+    "lat": 32.60464,
+    "lng": -115.09332
+  },
+  {
+    "name": "Ejido Toluca",
+    "country": "MX",
+    "lat": 32.43,
+    "lng": -115.08324
+  },
+  {
+    "name": "Ejido Tabasco",
+    "country": "MX",
+    "lat": 32.56187,
+    "lng": -114.92659
+  },
+  {
+    "name": "Ejido Sonora",
+    "country": "MX",
+    "lat": 32.287,
+    "lng": -115.2318
+  },
+  {
+    "name": "Ejido Saltillo",
+    "country": "MX",
+    "lat": 32.42413,
+    "lng": -115.12511
+  },
+  {
+    "name": "Ejido Quintana Roo",
+    "country": "MX",
+    "lat": 32.46862,
+    "lng": -115.08412
+  },
+  {
+    "name": "Ejido Plan de Ayala",
+    "country": "MX",
+    "lat": 32.22023,
+    "lng": -115.03158
+  },
+  {
+    "name": "Ejido Lázaro Cárdenas",
+    "country": "MX",
+    "lat": 32.60579,
+    "lng": -115.01999
+  },
+  {
+    "name": "Ejido Jiquilpan",
+    "country": "MX",
+    "lat": 32.50072,
+    "lng": -115.0641
+  },
+  {
+    "name": "Ejido Hermosillo",
+    "country": "MX",
+    "lat": 32.51158,
+    "lng": -114.92304
+  },
+  {
+    "name": "Ejido Vicente Guerrero",
+    "country": "MX",
+    "lat": 32.39573,
+    "lng": -115.14088
+  },
+  {
+    "name": "Ejido Durango",
+    "country": "MX",
+    "lat": 32.24792,
+    "lng": -115.2518
+  },
+  {
+    "name": "Ejido Benito Juárez",
+    "country": "MX",
+    "lat": 25.77424,
+    "lng": -109.03252
+  },
+  {
+    "name": "Ejido el Rosario",
+    "country": "MX",
+    "lat": 19.57185,
+    "lng": -100.27673
+  },
+  {
+    "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
+    "country": "MX",
+    "lat": 32.02444,
+    "lng": -114.98361
+  },
+  {
+    "name": "Ejido Javier Rojo Gómez",
+    "country": "MX",
+    "lat": 32.49389,
+    "lng": -116.82222
+  },
+  {
+    "name": "Ejido Ojo de Agua",
+    "country": "MX",
+    "lat": 32.47556,
+    "lng": -116.78917
+  },
+  {
+    "name": "Ejido San Lorenzo Cuauhtenco",
+    "country": "MX",
+    "lat": 19.30139,
+    "lng": -99.75028
+  },
+  {
+    "name": "Ejido de Mozoquilpan",
+    "country": "MX",
+    "lat": 19.42417,
+    "lng": -99.52833
+  },
+  {
+    "name": "Ejido la Soledad",
+    "country": "MX",
+    "lat": 19.645,
+    "lng": -100.10639
+  },
+  {
+    "name": "Ejido Cajón Ojo de Agua Número Dos",
+    "country": "MX",
+    "lat": 22.9,
+    "lng": -105.97139
+  },
+  {
+    "name": "Ejido Pátzcuaro",
+    "country": "MX",
+    "lat": 32.35139,
+    "lng": -115.06583
+  },
+  {
+    "name": "Ejido del Tejocote",
+    "country": "MX",
+    "lat": 19.48474,
+    "lng": -99.27847
+  },
+  {
+    "name": "Ejido los Huastecos",
+    "country": "MX",
+    "lat": 21.95917,
+    "lng": -98.65028
+  },
+  {
+    "name": "Ejido Palma (Ejido San Francisco)",
+    "country": "MX",
+    "lat": 19.56889,
+    "lng": -99.40889
+  },
+  {
+    "name": "Ejido Jesús María",
+    "country": "MX",
+    "lat": 21.14194,
+    "lng": -100.91167
+  },
+  {
+    "name": "Ejido San José Xilatzén",
+    "country": "MX",
+    "lat": 21.67472,
+    "lng": -98.9275
+  },
+  {
+    "name": "Ejido Hidalgo",
+    "country": "MX",
+    "lat": 22.30083,
+    "lng": -102.03861
+  },
+  {
+    "name": "Ejido General Leandro Valle",
+    "country": "MX",
+    "lat": 30.62167,
+    "lng": -115.96583
+  },
+  {
+    "name": "Ejido la Piña (Maromilla)",
+    "country": "MX",
+    "lat": 19.02861,
+    "lng": -96.78361
+  },
+  {
+    "name": "Ejido San Cristóbal",
+    "country": "MX",
+    "lat": 19.5425,
+    "lng": -98.89417
+  },
+  {
+    "name": "Ejido Netzahualcóyotl",
+    "country": "MX",
+    "lat": 32.62444,
+    "lng": -115.06222
+  },
+  {
+    "name": "Ejido el Castillo",
+    "country": "MX",
+    "lat": 19.43583,
+    "lng": -99.30583
+  },
+  {
+    "name": "Ejido la Guayana (Rancho Seco)",
+    "country": "MX",
+    "lat": 21.98028,
+    "lng": -102.27306
+  },
+  {
+    "name": "Ejido Miraflores",
+    "country": "MX",
+    "lat": 19.57,
+    "lng": -99.3975
+  },
+  {
+    "name": "Ejido Zaragoza",
+    "country": "MX",
+    "lat": 23.94754,
+    "lng": -103.66323
+  },
+  {
+    "name": "Ejido de San Mateo Coapexco",
+    "country": "MX",
+    "lat": 18.94889,
+    "lng": -99.64249
+  },
+  {
+    "name": "Ejido de la Finca",
+    "country": "MX",
+    "lat": 18.88635,
+    "lng": -99.62693
+  },
+  {
+    "name": "Ejido de Coscomate del Progreso",
+    "country": "MX",
+    "lat": 19.93379,
+    "lng": -99.5472
+  },
+  {
+    "name": "Ejido de Guadalupe",
+    "country": "MX",
+    "lat": 19.63765,
+    "lng": -99.27178
+  },
+  {
+    "name": "Ejirin",
+    "country": "NG",
+    "lat": 6.61423,
+    "lng": 3.90019
+  },
+  {
+    "name": "Ejigbo",
+    "country": "NG",
+    "lat": 7.90303,
+    "lng": 4.31364
+  },
+  {
+    "name": "Ejido",
+    "country": "VE",
+    "lat": 8.54665,
+    "lng": -71.24087
+  }
+]

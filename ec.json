@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Ecunna",
+    "country": "AO",
+    "lat": -12.67889,
+    "lng": 15.50556
+  },
+  {
+    "name": "Eckartsau",
+    "country": "AT",
+    "lat": 48.14507,
+    "lng": 16.79737
+  },
+  {
+    "name": "Echsenbach",
+    "country": "AT",
+    "lat": 48.71667,
+    "lng": 15.21667
+  },
+  {
+    "name": "Eching",
+    "country": "AT",
+    "lat": 47.97263,
+    "lng": 12.88786
+  },
+  {
+    "name": "Echunga",
+    "country": "AU",
+    "lat": -35.10354,
+    "lng": 138.79588
+  },
+  {
+    "name": "Echuca",
+    "country": "AU",
+    "lat": -36.14057,
+    "lng": 144.75185
+  },
+  {
+    "name": "Eckerö",
+    "country": "AX",
+    "lat": 60.21249,
+    "lng": 19.61442
+  },
+  {
+    "name": "Ecoporanga",
+    "country": "BR",
+    "lat": -18.37333,
+    "lng": -40.83056
+  },
+  {
+    "name": "Echaporã",
+    "country": "BR",
+    "lat": -22.42944,
+    "lng": -50.20056
+  },
+  {
+    "name": "Eckville",
+    "country": "CA",
+    "lat": 52.36274,
+    "lng": -114.37011
+  },
+  {
+    "name": "Ecublens",
+    "country": "CH",
+    "lat": 46.60735,
+    "lng": 6.80895
+  },
+  {
+    "name": "Echallens",
+    "country": "CH",
+    "lat": 46.6413,
+    "lng": 6.63317
+  },
+  {
+    "name": "Ecublens",
+    "country": "CH",
+    "lat": 46.52899,
+    "lng": 6.56261
+  },
+  {
+    "name": "Echeng",
+    "country": "CN",
+    "lat": 38.37444,
+    "lng": 111.97167
+  },
+  {
+    "name": "Echi",
+    "country": "CN",
+    "lat": 29.13803,
+    "lng": 108.59003
+  },
+  {
+    "name": "Eckersdorf",
+    "country": "DE",
+    "lat": 50.02874,
+    "lng": 11.39611
+  },
+  {
+    "name": "Eckernförde",
+    "country": "DE",
+    "lat": 54.46854,
+    "lng": 9.83824
+  },
+  {
+    "name": "Eckartsberga",
+    "country": "DE",
+    "lat": 51.1238,
+    "lng": 11.56045
+  },
+  {
+    "name": "Echzell",
+    "country": "DE",
+    "lat": 50.38888,
+    "lng": 8.88605
+  },
+  {
+    "name": "Eching",
+    "country": "DE",
+    "lat": 48.5,
+    "lng": 12.06667
+  },
+  {
+    "name": "Eching",
+    "country": "DE",
+    "lat": 48.3,
+    "lng": 11.61667
+  },
+  {
+    "name": "Eching",
+    "country": "DE",
+    "lat": 48.07991,
+    "lng": 11.11336
+  },
+  {
+    "name": "Echem",
+    "country": "DE",
+    "lat": 53.33333,
+    "lng": 10.53333
+  },
+  {
+    "name": "Ech Chettia",
+    "country": "DZ",
+    "lat": 36.19591,
+    "lng": 1.25537
+  },
+  {
+    "name": "Echeandía",
+    "country": "EC",
+    "lat": -1.43208,
+    "lng": -79.28018
+  },
+  {
+    "name": "Echo",
+    "country": "ES",
+    "lat": 42.73844,
+    "lng": -0.75016
+  },
+  {
+    "name": "Echarri-Aranaz",
+    "country": "ES",
+    "lat": 42.90791,
+    "lng": -2.06474
+  },
+  {
+    "name": "Echarri",
+    "country": "ES",
+    "lat": 42.78017,
+    "lng": -1.82525
+  },
+  {
+    "name": "Ecquevilly",
+    "country": "FR",
+    "lat": 48.95192,
+    "lng": 1.92338
+  },
+  {
+    "name": "Ecques",
+    "country": "FR",
+    "lat": 50.66998,
+    "lng": 2.28633
+  },
+  {
+    "name": "Eckwersheim",
+    "country": "FR",
+    "lat": 48.68167,
+    "lng": 7.69687
+  },
+  {
+    "name": "Eckbolsheim",
+    "country": "FR",
+    "lat": 48.58075,
+    "lng": 7.68768
+  },
+  {
+    "name": "Eckington",
+    "country": "GB",
+    "lat": 52.06667,
+    "lng": -2.11667
+  },
+  {
+    "name": "Eccleston",
+    "country": "GB",
+    "lat": 53.64236,
+    "lng": -2.72162
+  },
+  {
+    "name": "Eccleston",
+    "country": "GB",
+    "lat": 53.45,
+    "lng": -2.78333
+  },
+  {
+    "name": "Eccleston",
+    "country": "GB",
+    "lat": 53.15,
+    "lng": -2.88333
+  },
+  {
+    "name": "Eccleshall",
+    "country": "GB",
+    "lat": 52.85789,
+    "lng": -2.24971
+  },
+  {
+    "name": "Eccles",
+    "country": "GB",
+    "lat": 53.48333,
+    "lng": -2.33333
+  },
+  {
+    "name": "Echínos",
+    "country": "GR",
+    "lat": 41.27558,
+    "lng": 24.97237
+  },
+  {
+    "name": "Ecser",
+    "country": "HU",
+    "lat": 47.44389,
+    "lng": 19.3245
+  },
+  {
+    "name": "Ecséd",
+    "country": "HU",
+    "lat": 47.73267,
+    "lng": 19.76696
+  },
+  {
+    "name": "Eci",
+    "country": "ID",
+    "lat": -6.12382,
+    "lng": 139.15365
+  },
+  {
+    "name": "Echigawa",
+    "country": "JP",
+    "lat": 35.16667,
+    "lng": 136.2
+  },
+  {
+    "name": "Echizen",
+    "country": "JP",
+    "lat": 35.88571,
+    "lng": 136.17073
+  },
+  {
+    "name": "Echternach",
+    "country": "LU",
+    "lat": 49.81212,
+    "lng": 6.41846
+  },
+  {
+    "name": "Echemmaia Est",
+    "country": "MA",
+    "lat": 32.08102,
+    "lng": -8.62458
+  },
+  {
+    "name": "Ecroignard",
+    "country": "MU",
+    "lat": -20.22611,
+    "lng": 57.73611
+  },
+  {
+    "name": "Ecatzingo de Hidalgo",
+    "country": "MX",
+    "lat": 18.95508,
+    "lng": -98.75198
+  },
+  {
+    "name": "Ecatepec de Morelos",
+    "country": "MX",
+    "lat": 19.60492,
+    "lng": -99.06064
+  },
+  {
+    "name": "Ecuandureo",
+    "country": "MX",
+    "lat": 20.16188,
+    "lng": -102.1934
+  },
+  {
+    "name": "Eco Sanctuary",
+    "country": "MY",
+    "lat": 2.93703,
+    "lng": 101.53527
+  },
+  {
+    "name": "Eckart",
+    "country": "NL",
+    "lat": 51.4732,
+    "lng": 5.49449
+  },
+  {
+    "name": "Echtenerbrug",
+    "country": "NL",
+    "lat": 52.87141,
+    "lng": 5.82147
+  },
+  {
+    "name": "Echt",
+    "country": "NL",
+    "lat": 51.10583,
+    "lng": 5.87361
+  },
+  {
+    "name": "Echarate",
+    "country": "PE",
+    "lat": -12.73513,
+    "lng": -72.61568
+  },
+  {
+    "name": "Echague",
+    "country": "PH",
+    "lat": 16.70509,
+    "lng": 121.67633
+  },
+  {
+    "name": "Eceabat",
+    "country": "TR",
+    "lat": 40.18416,
+    "lng": 26.3574
+  },
+  {
+    "name": "Eclectic",
+    "country": "US",
+    "lat": 32.63541,
+    "lng": -86.03441
+  },
+  {
+    "name": "Echelon",
+    "country": "US",
+    "lat": 39.84845,
+    "lng": -74.99572
+  },
+  {
+    "name": "Ecorse",
+    "country": "US",
+    "lat": 42.24448,
+    "lng": -83.14576
+  },
+  {
+    "name": "Economy",
+    "country": "US",
+    "lat": 40.60007,
+    "lng": -80.22478
+  },
+  {
+    "name": "Echo Park",
+    "country": "US",
+    "lat": 34.07808,
+    "lng": -118.26066
+  },
+  {
+    "name": "Ecilda Paullier",
+    "country": "UY",
+    "lat": -34.35778,
+    "lng": -57.04883
+  },
+  {
+    "name": "Ecopark",
+    "country": "VN",
+    "lat": 20.9621,
+    "lng": 105.9318
+  }
+]

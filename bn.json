@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bne Re’em",
+    "country": "IL",
+    "lat": 31.77029,
+    "lng": 34.79105
+  },
+  {
+    "name": "Bne Dror",
+    "country": "IL",
+    "lat": 32.2615,
+    "lng": 34.90196
+  },
+  {
+    "name": "Bnei Brak",
+    "country": "IL",
+    "lat": 32.08074,
+    "lng": 34.8338
+  },
+  {
+    "name": "Bnei Ayish",
+    "country": "IL",
+    "lat": 31.79,
+    "lng": 34.759
+  },
+  {
+    "name": "Bni Hadifa",
+    "country": "MA",
+    "lat": 35.02251,
+    "lng": -4.14009
+  },
+  {
+    "name": "Bni Tajjit",
+    "country": "MA",
+    "lat": 32.28928,
+    "lng": -3.46616
+  },
+  {
+    "name": "Bni Drar",
+    "country": "MA",
+    "lat": 34.86005,
+    "lng": -1.98979
+  },
+  {
+    "name": "Bni Bouayach",
+    "country": "MA",
+    "lat": 35.10506,
+    "lng": -3.84028
+  }
+]

@@ -1,0 +1,3212 @@
+[
+  {
+    "name": "Ash Sha‘m",
+    "country": "AE",
+    "lat": 26.0279,
+    "lng": 56.08352
+  },
+  {
+    "name": "As Saţwah",
+    "country": "AE",
+    "lat": 25.22192,
+    "lng": 55.27459
+  },
+  {
+    "name": "As Saţwah Sharq",
+    "country": "AE",
+    "lat": 25.23796,
+    "lng": 55.28678
+  },
+  {
+    "name": "Ashkāsham",
+    "country": "AF",
+    "lat": 36.68333,
+    "lng": 71.53333
+  },
+  {
+    "name": "Asadābād",
+    "country": "AF",
+    "lat": 34.87311,
+    "lng": 71.14697
+  },
+  {
+    "name": "Astghadzor",
+    "country": "AM",
+    "lat": 40.12231,
+    "lng": 45.35553
+  },
+  {
+    "name": "Ashtarak",
+    "country": "AM",
+    "lat": 40.2976,
+    "lng": 44.36152
+  },
+  {
+    "name": "Ashotsk",
+    "country": "AM",
+    "lat": 41.0377,
+    "lng": 43.85843
+  },
+  {
+    "name": "Ashnak",
+    "country": "AM",
+    "lat": 40.33069,
+    "lng": 43.91669
+  },
+  {
+    "name": "Asten",
+    "country": "AT",
+    "lat": 48.21941,
+    "lng": 14.41784
+  },
+  {
+    "name": "Aspern",
+    "country": "AT",
+    "lat": 48.21806,
+    "lng": 16.48306
+  },
+  {
+    "name": "Asperhofen",
+    "country": "AT",
+    "lat": 48.24583,
+    "lng": 15.92606
+  },
+  {
+    "name": "Asparn an der Zaya",
+    "country": "AT",
+    "lat": 48.58333,
+    "lng": 16.5
+  },
+  {
+    "name": "Aspang Markt",
+    "country": "AT",
+    "lat": 47.55,
+    "lng": 16.08333
+  },
+  {
+    "name": "Aschbach Markt",
+    "country": "AT",
+    "lat": 48.07234,
+    "lng": 14.75395
+  },
+  {
+    "name": "Aschau",
+    "country": "AT",
+    "lat": 47.26667,
+    "lng": 11.9
+  },
+  {
+    "name": "Aschach an der Steyr",
+    "country": "AT",
+    "lat": 48.01312,
+    "lng": 14.33544
+  },
+  {
+    "name": "Aschach an der Donau",
+    "country": "AT",
+    "lat": 48.36458,
+    "lng": 14.02044
+  },
+  {
+    "name": "Aschau im Zillertal",
+    "country": "AT",
+    "lat": 47.26613,
+    "lng": 11.89536
+  },
+  {
+    "name": "Assling",
+    "country": "AT",
+    "lat": 46.78663,
+    "lng": 12.63951
+  },
+  {
+    "name": "Asquith",
+    "country": "AU",
+    "lat": -33.68705,
+    "lng": 151.1163
+  },
+  {
+    "name": "Aspley",
+    "country": "AU",
+    "lat": -27.36667,
+    "lng": 153.01667
+  },
+  {
+    "name": "Aspendale",
+    "country": "AU",
+    "lat": -38.02913,
+    "lng": 145.10266
+  },
+  {
+    "name": "Ashgrove",
+    "country": "AU",
+    "lat": -27.44552,
+    "lng": 152.992
+  },
+  {
+    "name": "Ashfield",
+    "country": "AU",
+    "lat": -33.88834,
+    "lng": 151.12274
+  },
+  {
+    "name": "Ashburton",
+    "country": "AU",
+    "lat": -37.86667,
+    "lng": 145.08333
+  },
+  {
+    "name": "Ascot Vale",
+    "country": "AU",
+    "lat": -37.77988,
+    "lng": 144.92276
+  },
+  {
+    "name": "Ascot",
+    "country": "AU",
+    "lat": -36.7,
+    "lng": 144.33333
+  },
+  {
+    "name": "Ascot",
+    "country": "AU",
+    "lat": -31.93818,
+    "lng": 115.92258
+  },
+  {
+    "name": "Ashwood",
+    "country": "AU",
+    "lat": -37.86659,
+    "lng": 145.10553
+  },
+  {
+    "name": "Aspendale Gardens",
+    "country": "AU",
+    "lat": -38.02277,
+    "lng": 145.11798
+  },
+  {
+    "name": "Ashbury",
+    "country": "AU",
+    "lat": -33.89785,
+    "lng": 151.1196
+  },
+  {
+    "name": "Ashcroft",
+    "country": "AU",
+    "lat": -33.91598,
+    "lng": 150.89985
+  },
+  {
+    "name": "Ashmont",
+    "country": "AU",
+    "lat": -35.12491,
+    "lng": 147.33172
+  },
+  {
+    "name": "Ashby",
+    "country": "AU",
+    "lat": -31.73255,
+    "lng": 115.79768
+  },
+  {
+    "name": "Ascot Park",
+    "country": "AU",
+    "lat": -34.99175,
+    "lng": 138.55768
+  },
+  {
+    "name": "Ashford",
+    "country": "AU",
+    "lat": -34.94859,
+    "lng": 138.57457
+  },
+  {
+    "name": "Ashfield",
+    "country": "AU",
+    "lat": -31.91721,
+    "lng": 115.93796
+  },
+  {
+    "name": "Ashmore",
+    "country": "AU",
+    "lat": -27.98883,
+    "lng": 153.37647
+  },
+  {
+    "name": "Ascot",
+    "country": "AU",
+    "lat": -27.43154,
+    "lng": 153.058
+  },
+  {
+    "name": "Ashtonfield",
+    "country": "AU",
+    "lat": -32.77331,
+    "lng": 151.60583
+  },
+  {
+    "name": "Astara",
+    "country": "AZ",
+    "lat": 38.45598,
+    "lng": 48.87498
+  },
+  {
+    "name": "Askyaran",
+    "country": "AZ",
+    "lat": 39.9391,
+    "lng": 46.83161
+  },
+  {
+    "name": "Astene",
+    "country": "BE",
+    "lat": 50.98512,
+    "lng": 3.56654
+  },
+  {
+    "name": "Assesse",
+    "country": "BE",
+    "lat": 50.36934,
+    "lng": 5.02204
+  },
+  {
+    "name": "Assent",
+    "country": "BE",
+    "lat": 50.95187,
+    "lng": 5.01473
+  },
+  {
+    "name": "Assenois",
+    "country": "BE",
+    "lat": 49.80244,
+    "lng": 5.46371
+  },
+  {
+    "name": "Assenede",
+    "country": "BE",
+    "lat": 51.22598,
+    "lng": 3.75085
+  },
+  {
+    "name": "Assebroek",
+    "country": "BE",
+    "lat": 51.19367,
+    "lng": 3.2623
+  },
+  {
+    "name": "Asse",
+    "country": "BE",
+    "lat": 50.91011,
+    "lng": 4.19836
+  },
+  {
+    "name": "Asper",
+    "country": "BE",
+    "lat": 50.9137,
+    "lng": 3.65126
+  },
+  {
+    "name": "Aspelare",
+    "country": "BE",
+    "lat": 50.84189,
+    "lng": 3.95743
+  },
+  {
+    "name": "As",
+    "country": "BE",
+    "lat": 51.00755,
+    "lng": 5.58453
+  },
+  {
+    "name": "Asparuhovo",
+    "country": "BG",
+    "lat": 43.18067,
+    "lng": 27.88823
+  },
+  {
+    "name": "Asenovgrad",
+    "country": "BG",
+    "lat": 42.01667,
+    "lng": 24.86667
+  },
+  {
+    "name": "Ascensión",
+    "country": "BO",
+    "lat": -15.7,
+    "lng": -63.08333
+  },
+  {
+    "name": "Ascención de Guarayos",
+    "country": "BO",
+    "lat": -15.89299,
+    "lng": -63.18855
+  },
+  {
+    "name": "Assunção",
+    "country": "BR",
+    "lat": -7.07444,
+    "lng": -36.73111
+  },
+  {
+    "name": "Assunção do Piauí",
+    "country": "BR",
+    "lat": -5.86294,
+    "lng": -41.04916
+  },
+  {
+    "name": "Assaré",
+    "country": "BR",
+    "lat": -6.87444,
+    "lng": -39.875
+  },
+  {
+    "name": "Astorga",
+    "country": "BR",
+    "lat": -23.2325,
+    "lng": -51.66556
+  },
+  {
+    "name": "Astolfo Dutra",
+    "country": "BR",
+    "lat": -21.31528,
+    "lng": -42.86222
+  },
+  {
+    "name": "Assis",
+    "country": "BR",
+    "lat": -22.66167,
+    "lng": -50.41222
+  },
+  {
+    "name": "Assaí",
+    "country": "BR",
+    "lat": -23.37333,
+    "lng": -50.84139
+  },
+  {
+    "name": "Ascurra",
+    "country": "BR",
+    "lat": -26.95528,
+    "lng": -49.37556
+  },
+  {
+    "name": "Assis Brasil",
+    "country": "BR",
+    "lat": -10.94139,
+    "lng": -69.56694
+  },
+  {
+    "name": "Aspásia",
+    "country": "BR",
+    "lat": -20.15889,
+    "lng": -50.72722
+  },
+  {
+    "name": "Assis Chateaubriand",
+    "country": "BR",
+    "lat": -24.42,
+    "lng": -53.52139
+  },
+  {
+    "name": "Asvieja",
+    "country": "BY",
+    "lat": 56.0147,
+    "lng": 28.11049
+  },
+  {
+    "name": "Astraviec",
+    "country": "BY",
+    "lat": 54.61378,
+    "lng": 25.95537
+  },
+  {
+    "name": "Astrashytski Haradok",
+    "country": "BY",
+    "lat": 54.0651,
+    "lng": 27.695
+  },
+  {
+    "name": "Asnyezhytsy",
+    "country": "BY",
+    "lat": 52.1891,
+    "lng": 26.1299
+  },
+  {
+    "name": "Ashcroft",
+    "country": "CA",
+    "lat": 50.72372,
+    "lng": -121.28207
+  },
+  {
+    "name": "Assiniboia",
+    "country": "CA",
+    "lat": 49.63336,
+    "lng": -105.98446
+  },
+  {
+    "name": "Aspen Woods",
+    "country": "CA",
+    "lat": 51.0428,
+    "lng": -114.19275
+  },
+  {
+    "name": "Ascona",
+    "country": "CH",
+    "lat": 46.15451,
+    "lng": 8.77327
+  },
+  {
+    "name": "Assaie-kouassikro",
+    "country": "CI",
+    "lat": 6.96509,
+    "lng": -3.90343
+  },
+  {
+    "name": "Assuétya",
+    "country": "CI",
+    "lat": 7.6,
+    "lng": -3.0
+  },
+  {
+    "name": "Assuéti",
+    "country": "CI",
+    "lat": 7.17852,
+    "lng": -3.9292
+  },
+  {
+    "name": "Assuéfri",
+    "country": "CI",
+    "lat": 7.69973,
+    "lng": -2.97847
+  },
+  {
+    "name": "Assuamé",
+    "country": "CI",
+    "lat": 7.16638,
+    "lng": -3.20761
+  },
+  {
+    "name": "Assuamakro",
+    "country": "CI",
+    "lat": 7.18944,
+    "lng": -3.03083
+  },
+  {
+    "name": "Assuako",
+    "country": "CI",
+    "lat": 7.41421,
+    "lng": -2.99743
+  },
+  {
+    "name": "Assoumoukro",
+    "country": "CI",
+    "lat": 6.46403,
+    "lng": -4.3728
+  },
+  {
+    "name": "Assoumou-Kouassikro",
+    "country": "CI",
+    "lat": 7.58642,
+    "lng": -3.7868
+  },
+  {
+    "name": "Assuikro",
+    "country": "CI",
+    "lat": 7.08582,
+    "lng": -5.38831
+  },
+  {
+    "name": "Assouakro",
+    "country": "CI",
+    "lat": 7.42647,
+    "lng": -5.09685
+  },
+  {
+    "name": "Assouakro",
+    "country": "CI",
+    "lat": 6.96687,
+    "lng": -4.00974
+  },
+  {
+    "name": "Assomlan",
+    "country": "CI",
+    "lat": 5.20039,
+    "lng": -3.29555
+  },
+  {
+    "name": "Assinzé",
+    "country": "CI",
+    "lat": 6.5348,
+    "lng": -5.14197
+  },
+  {
+    "name": "Assinie-Mafia",
+    "country": "CI",
+    "lat": 5.13384,
+    "lng": -3.29096
+  },
+  {
+    "name": "Assikoun",
+    "country": "CI",
+    "lat": 6.4175,
+    "lng": -3.88306
+  },
+  {
+    "name": "Assikasso",
+    "country": "CI",
+    "lat": 7.08556,
+    "lng": -3.21694
+  },
+  {
+    "name": "Assika-Kayabo",
+    "country": "CI",
+    "lat": 6.87023,
+    "lng": -4.4001
+  },
+  {
+    "name": "Assié koumassi",
+    "country": "CI",
+    "lat": 6.76966,
+    "lng": -4.28954
+  },
+  {
+    "name": "Assié-Kokore",
+    "country": "CI",
+    "lat": 6.77508,
+    "lng": -4.31591
+  },
+  {
+    "name": "Assié Akpessé",
+    "country": "CI",
+    "lat": 6.46539,
+    "lng": -4.33607
+  },
+  {
+    "name": "Assiasso",
+    "country": "CI",
+    "lat": 7.91279,
+    "lng": -3.2381
+  },
+  {
+    "name": "Asseolié",
+    "country": "CI",
+    "lat": 6.18806,
+    "lng": -3.63671
+  },
+  {
+    "name": "Assenzé",
+    "country": "CI",
+    "lat": 7.69169,
+    "lng": -5.5483
+  },
+  {
+    "name": "Assengoukpri",
+    "country": "CI",
+    "lat": 7.75806,
+    "lng": -4.88699
+  },
+  {
+    "name": "Assengou",
+    "country": "CI",
+    "lat": 7.66935,
+    "lng": -5.52512
+  },
+  {
+    "name": "Assé Ngatakro",
+    "country": "CI",
+    "lat": 7.05764,
+    "lng": -5.09494
+  },
+  {
+    "name": "Assembo",
+    "country": "CI",
+    "lat": 7.16903,
+    "lng": -5.004
+  },
+  {
+    "name": "Assémanou",
+    "country": "CI",
+    "lat": 6.78906,
+    "lng": -3.75687
+  },
+  {
+    "name": "Assé-Assasso",
+    "country": "CI",
+    "lat": 6.74696,
+    "lng": -4.25821
+  },
+  {
+    "name": "Asséyokro",
+    "country": "CI",
+    "lat": 7.66973,
+    "lng": -5.74023
+  },
+  {
+    "name": "Assarékro",
+    "country": "CI",
+    "lat": 6.55759,
+    "lng": -4.41626
+  },
+  {
+    "name": "Assaoufoué",
+    "country": "CI",
+    "lat": 6.57675,
+    "lng": -4.22405
+  },
+  {
+    "name": "Assanou",
+    "country": "CI",
+    "lat": 6.99442,
+    "lng": -5.15835
+  },
+  {
+    "name": "Assakro",
+    "country": "CI",
+    "lat": 7.88501,
+    "lng": -5.56242
+  },
+  {
+    "name": "Assakra",
+    "country": "CI",
+    "lat": 6.39525,
+    "lng": -4.89361
+  },
+  {
+    "name": "Assahara",
+    "country": "CI",
+    "lat": 6.66643,
+    "lng": -4.49775
+  },
+  {
+    "name": "Assafou",
+    "country": "CI",
+    "lat": 6.73429,
+    "lng": -5.04775
+  },
+  {
+    "name": "Assabonou",
+    "country": "CI",
+    "lat": 7.26325,
+    "lng": -5.10548
+  },
+  {
+    "name": "Assikoa",
+    "country": "CI",
+    "lat": 5.99326,
+    "lng": -3.80923
+  },
+  {
+    "name": "Assouba",
+    "country": "CI",
+    "lat": 5.45956,
+    "lng": -3.25653
+  },
+  {
+    "name": "Assué Un",
+    "country": "CI",
+    "lat": 5.13134,
+    "lng": -3.00332
+  },
+  {
+    "name": "Assékouamékro",
+    "country": "CI",
+    "lat": 6.3894,
+    "lng": -5.16573
+  },
+  {
+    "name": "Assabli-Komenankro",
+    "country": "CI",
+    "lat": 7.2929,
+    "lng": -4.20776
+  },
+  {
+    "name": "Assikro",
+    "country": "CI",
+    "lat": 6.64759,
+    "lng": -3.89266
+  },
+  {
+    "name": "Assika-Kpolessou",
+    "country": "CI",
+    "lat": 6.89379,
+    "lng": -4.36789
+  },
+  {
+    "name": "Assounvouè",
+    "country": "CI",
+    "lat": 6.48364,
+    "lng": -4.97957
+  },
+  {
+    "name": "Assinzé",
+    "country": "CI",
+    "lat": 5.78078,
+    "lng": -4.79612
+  },
+  {
+    "name": "Asseudji",
+    "country": "CI",
+    "lat": 6.32867,
+    "lng": -3.93577
+  },
+  {
+    "name": "Assangbadji",
+    "country": "CI",
+    "lat": 6.40782,
+    "lng": -3.87669
+  },
+  {
+    "name": "Assakra",
+    "country": "CI",
+    "lat": 7.69433,
+    "lng": -5.46139
+  },
+  {
+    "name": "Assoum",
+    "country": "CI",
+    "lat": 9.19042,
+    "lng": -3.09302
+  },
+  {
+    "name": "Assindi",
+    "country": "CI",
+    "lat": 7.46572,
+    "lng": -3.33657
+  },
+  {
+    "name": "Astrea",
+    "country": "CO",
+    "lat": 9.49828,
+    "lng": -73.97591
+  },
+  {
+    "name": "Aserrí",
+    "country": "CR",
+    "lat": 9.86142,
+    "lng": -84.09266
+  },
+  {
+    "name": "Assomada",
+    "country": "CV",
+    "lat": 15.1,
+    "lng": -23.68333
+  },
+  {
+    "name": "Astromerítis",
+    "country": "CY",
+    "lat": 35.14096,
+    "lng": 33.03793
+  },
+  {
+    "name": "Aschau im Chiemgau",
+    "country": "DE",
+    "lat": 47.77689,
+    "lng": 12.32297
+  },
+  {
+    "name": "Asselfingen",
+    "country": "DE",
+    "lat": 48.52959,
+    "lng": 10.19166
+  },
+  {
+    "name": "Assamstadt",
+    "country": "DE",
+    "lat": 49.42806,
+    "lng": 9.68611
+  },
+  {
+    "name": "Asperg",
+    "country": "DE",
+    "lat": 48.90525,
+    "lng": 9.13502
+  },
+  {
+    "name": "Asendorf",
+    "country": "DE",
+    "lat": 53.29266,
+    "lng": 9.97905
+  },
+  {
+    "name": "Asendorf",
+    "country": "DE",
+    "lat": 52.77219,
+    "lng": 9.00489
+  },
+  {
+    "name": "Aschheim",
+    "country": "DE",
+    "lat": 48.17112,
+    "lng": 11.71675
+  },
+  {
+    "name": "Aschersleben",
+    "country": "DE",
+    "lat": 51.75742,
+    "lng": 11.46084
+  },
+  {
+    "name": "Ascheberg",
+    "country": "DE",
+    "lat": 54.15027,
+    "lng": 10.34552
+  },
+  {
+    "name": "Ascheberg",
+    "country": "DE",
+    "lat": 51.78333,
+    "lng": 7.61667
+  },
+  {
+    "name": "Aschau am Inn",
+    "country": "DE",
+    "lat": 48.19845,
+    "lng": 12.35003
+  },
+  {
+    "name": "Aschaffenburg",
+    "country": "DE",
+    "lat": 49.97704,
+    "lng": 9.15214
+  },
+  {
+    "name": "Ascha",
+    "country": "DE",
+    "lat": 49.0,
+    "lng": 12.63333
+  },
+  {
+    "name": "Asbach",
+    "country": "DE",
+    "lat": 50.66667,
+    "lng": 7.41667
+  },
+  {
+    "name": "Aspach",
+    "country": "DE",
+    "lat": 48.96667,
+    "lng": 9.4
+  },
+  {
+    "name": "Asbach-Bäumenheim",
+    "country": "DE",
+    "lat": 48.68333,
+    "lng": 10.81667
+  },
+  {
+    "name": "Assentoft",
+    "country": "DK",
+    "lat": 56.4421,
+    "lng": 10.1517
+  },
+  {
+    "name": "Assens",
+    "country": "DK",
+    "lat": 56.67604,
+    "lng": 10.06238
+  },
+  {
+    "name": "Assens",
+    "country": "DK",
+    "lat": 55.27023,
+    "lng": 9.90081
+  },
+  {
+    "name": "Asnæs",
+    "country": "DK",
+    "lat": 55.81229,
+    "lng": 11.50129
+  },
+  {
+    "name": "Assi Bou Nif",
+    "country": "DZ",
+    "lat": 35.69222,
+    "lng": -0.49944
+  },
+  {
+    "name": "Asunción",
+    "country": "EC",
+    "lat": -1.66494,
+    "lng": -79.03916
+  },
+  {
+    "name": "Ascázubi",
+    "country": "EC",
+    "lat": -0.08333,
+    "lng": -78.29314
+  },
+  {
+    "name": "Aseri",
+    "country": "EE",
+    "lat": 59.45256,
+    "lng": 26.87163
+  },
+  {
+    "name": "Ash Shaykh Zuwayd",
+    "country": "EG",
+    "lat": 31.2163,
+    "lng": 34.11074
+  },
+  {
+    "name": "Assiut",
+    "country": "EG",
+    "lat": 27.18096,
+    "lng": 31.18368
+  },
+  {
+    "name": "Aswān",
+    "country": "EG",
+    "lat": 24.09082,
+    "lng": 32.89942
+  },
+  {
+    "name": "As Sinbillāwayn",
+    "country": "EG",
+    "lat": 30.88251,
+    "lng": 31.46275
+  },
+  {
+    "name": "As Sibā‘īyah",
+    "country": "EG",
+    "lat": 25.19413,
+    "lng": 32.6771
+  },
+  {
+    "name": "As Sarw",
+    "country": "EG",
+    "lat": 31.23867,
+    "lng": 31.65379
+  },
+  {
+    "name": "As Sanţah",
+    "country": "EG",
+    "lat": 30.74614,
+    "lng": 31.12964
+  },
+  {
+    "name": "As Sallūm",
+    "country": "EG",
+    "lat": 31.55371,
+    "lng": 25.15793
+  },
+  {
+    "name": "As Sāḩil",
+    "country": "EG",
+    "lat": 27.06309,
+    "lng": 31.34425
+  },
+  {
+    "name": "Ash Shuhadā’",
+    "country": "EG",
+    "lat": 30.59683,
+    "lng": 30.89931
+  },
+  {
+    "name": "Ashmūn",
+    "country": "EG",
+    "lat": 30.29735,
+    "lng": 30.97641
+  },
+  {
+    "name": "Ash-Shaykh Zāyid",
+    "country": "EG",
+    "lat": 30.02,
+    "lng": 31.0
+  },
+  {
+    "name": "Asmara",
+    "country": "ER",
+    "lat": 15.33805,
+    "lng": 38.93184
+  },
+  {
+    "name": "Assab",
+    "country": "ER",
+    "lat": 13.00917,
+    "lng": 42.73944
+  },
+  {
+    "name": "Aspe",
+    "country": "ES",
+    "lat": 38.34511,
+    "lng": -0.76721
+  },
+  {
+    "name": "As Pontes de García Rodríguez",
+    "country": "ES",
+    "lat": 43.45266,
+    "lng": -7.85178
+  },
+  {
+    "name": "Asturianos",
+    "country": "ES",
+    "lat": 42.05201,
+    "lng": -6.4894
+  },
+  {
+    "name": "Astudillo",
+    "country": "ES",
+    "lat": 42.1933,
+    "lng": -4.29394
+  },
+  {
+    "name": "Astorga",
+    "country": "ES",
+    "lat": 42.45879,
+    "lng": -6.05601
+  },
+  {
+    "name": "Astigarraga",
+    "country": "ES",
+    "lat": 43.28174,
+    "lng": -1.94634
+  },
+  {
+    "name": "Asteasu",
+    "country": "ES",
+    "lat": 43.19436,
+    "lng": -2.09818
+  },
+  {
+    "name": "Aspariegos",
+    "country": "ES",
+    "lat": 41.67458,
+    "lng": -5.59955
+  },
+  {
+    "name": "Aspa",
+    "country": "ES",
+    "lat": 41.49472,
+    "lng": 0.67277
+  },
+  {
+    "name": "Ascó",
+    "country": "ES",
+    "lat": 41.18333,
+    "lng": 0.56667
+  },
+  {
+    "name": "Asin",
+    "country": "ES",
+    "lat": 42.28314,
+    "lng": -1.04657
+  },
+  {
+    "name": "Asaita",
+    "country": "ET",
+    "lat": 11.56838,
+    "lng": 41.43869
+  },
+  {
+    "name": "Askola",
+    "country": "FI",
+    "lat": 60.53333,
+    "lng": 25.6
+  },
+  {
+    "name": "Askainen",
+    "country": "FI",
+    "lat": 60.56667,
+    "lng": 21.86667
+  },
+  {
+    "name": "Asikkala",
+    "country": "FI",
+    "lat": 61.21667,
+    "lng": 25.5
+  },
+  {
+    "name": "Askisto",
+    "country": "FI",
+    "lat": 60.28141,
+    "lng": 24.78361
+  },
+  {
+    "name": "Asola",
+    "country": "FI",
+    "lat": 60.32973,
+    "lng": 25.05108
+  },
+  {
+    "name": "Astaffort",
+    "country": "FR",
+    "lat": 44.06337,
+    "lng": 0.6512
+  },
+  {
+    "name": "Asson",
+    "country": "FR",
+    "lat": 43.1407,
+    "lng": -0.25562
+  },
+  {
+    "name": "Assérac",
+    "country": "FR",
+    "lat": 47.42925,
+    "lng": -2.39062
+  },
+  {
+    "name": "Assat",
+    "country": "FR",
+    "lat": 43.24923,
+    "lng": -0.30018
+  },
+  {
+    "name": "Assas",
+    "country": "FR",
+    "lat": 43.70278,
+    "lng": 3.9
+  },
+  {
+    "name": "Aspremont",
+    "country": "FR",
+    "lat": 43.78342,
+    "lng": 7.24406
+  },
+  {
+    "name": "Aspiran",
+    "country": "FR",
+    "lat": 43.56586,
+    "lng": 3.45031
+  },
+  {
+    "name": "Aspet",
+    "country": "FR",
+    "lat": 43.01487,
+    "lng": 0.80088
+  },
+  {
+    "name": "Aspach-le-Haut",
+    "country": "FR",
+    "lat": 47.77653,
+    "lng": 7.13145
+  },
+  {
+    "name": "Aspach-le-Bas",
+    "country": "FR",
+    "lat": 47.76135,
+    "lng": 7.15104
+  },
+  {
+    "name": "Aspach",
+    "country": "FR",
+    "lat": 47.64234,
+    "lng": 7.23353
+  },
+  {
+    "name": "Asnières-sur-Oise",
+    "country": "FR",
+    "lat": 49.13369,
+    "lng": 2.35551
+  },
+  {
+    "name": "Asnières-sur-Nouère",
+    "country": "FR",
+    "lat": 45.71075,
+    "lng": 0.04729
+  },
+  {
+    "name": "Asnières-sur-Seine",
+    "country": "FR",
+    "lat": 48.91667,
+    "lng": 2.28333
+  },
+  {
+    "name": "Aschères-le-Marché",
+    "country": "FR",
+    "lat": 48.11008,
+    "lng": 2.00725
+  },
+  {
+    "name": "Ascain",
+    "country": "FR",
+    "lat": 43.34595,
+    "lng": -1.62118
+  },
+  {
+    "name": "Astwood Bank",
+    "country": "GB",
+    "lat": 52.25993,
+    "lng": -1.93754
+  },
+  {
+    "name": "Astwood",
+    "country": "GB",
+    "lat": 52.1,
+    "lng": -0.6
+  },
+  {
+    "name": "Astwick",
+    "country": "GB",
+    "lat": 52.0323,
+    "lng": -0.23127
+  },
+  {
+    "name": "Aston Clinton",
+    "country": "GB",
+    "lat": 51.8002,
+    "lng": -0.7254
+  },
+  {
+    "name": "Aston",
+    "country": "GB",
+    "lat": 52.5,
+    "lng": -1.88333
+  },
+  {
+    "name": "Aston",
+    "country": "GB",
+    "lat": 51.72501,
+    "lng": -1.50805
+  },
+  {
+    "name": "Astley",
+    "country": "GB",
+    "lat": 52.76667,
+    "lng": -2.7
+  },
+  {
+    "name": "Aspley Guise",
+    "country": "GB",
+    "lat": 52.01199,
+    "lng": -0.633
+  },
+  {
+    "name": "Aspatria",
+    "country": "GB",
+    "lat": 54.76574,
+    "lng": -3.32783
+  },
+  {
+    "name": "Aslockton",
+    "country": "GB",
+    "lat": 52.95299,
+    "lng": -0.897
+  },
+  {
+    "name": "Askham Richard",
+    "country": "GB",
+    "lat": 53.92491,
+    "lng": -1.18481
+  },
+  {
+    "name": "Askern",
+    "country": "GB",
+    "lat": 53.61639,
+    "lng": -1.15237
+  },
+  {
+    "name": "Askam in Furness",
+    "country": "GB",
+    "lat": 54.18718,
+    "lng": -3.20467
+  },
+  {
+    "name": "Ashwell",
+    "country": "GB",
+    "lat": 52.71298,
+    "lng": -0.71969
+  },
+  {
+    "name": "Ashwell",
+    "country": "GB",
+    "lat": 52.03866,
+    "lng": -0.15398
+  },
+  {
+    "name": "Ash Vale",
+    "country": "GB",
+    "lat": 51.26449,
+    "lng": -0.72347
+  },
+  {
+    "name": "Ashurst",
+    "country": "GB",
+    "lat": 50.93236,
+    "lng": -0.32375
+  },
+  {
+    "name": "Ashton-under-Lyne",
+    "country": "GB",
+    "lat": 53.48876,
+    "lng": -2.0989
+  },
+  {
+    "name": "Ashton Keynes",
+    "country": "GB",
+    "lat": 51.64521,
+    "lng": -1.93232
+  },
+  {
+    "name": "Ashton in Makerfield",
+    "country": "GB",
+    "lat": 53.48333,
+    "lng": -2.65
+  },
+  {
+    "name": "Ashtead",
+    "country": "GB",
+    "lat": 51.30873,
+    "lng": -0.29972
+  },
+  {
+    "name": "Ashley",
+    "country": "GB",
+    "lat": 53.35,
+    "lng": -2.33333
+  },
+  {
+    "name": "Ashington",
+    "country": "GB",
+    "lat": 55.17719,
+    "lng": -1.56412
+  },
+  {
+    "name": "Ashington",
+    "country": "GB",
+    "lat": 50.93312,
+    "lng": -0.39087
+  },
+  {
+    "name": "Ashill",
+    "country": "GB",
+    "lat": 52.60435,
+    "lng": 0.78574
+  },
+  {
+    "name": "Ashford",
+    "country": "GB",
+    "lat": 51.43173,
+    "lng": -0.45761
+  },
+  {
+    "name": "Ashford",
+    "country": "GB",
+    "lat": 51.14648,
+    "lng": 0.87376
+  },
+  {
+    "name": "Ashby-de-la-Zouch",
+    "country": "GB",
+    "lat": 52.74632,
+    "lng": -1.4732
+  },
+  {
+    "name": "Ashburton",
+    "country": "GB",
+    "lat": 50.51559,
+    "lng": -3.75572
+  },
+  {
+    "name": "Ashbourne",
+    "country": "GB",
+    "lat": 53.01667,
+    "lng": -1.73333
+  },
+  {
+    "name": "Ash",
+    "country": "GB",
+    "lat": 52.95,
+    "lng": -2.65
+  },
+  {
+    "name": "Ascot",
+    "country": "GB",
+    "lat": 51.41082,
+    "lng": -0.6748
+  },
+  {
+    "name": "Ash",
+    "country": "GB",
+    "lat": 51.27883,
+    "lng": 1.27974
+  },
+  {
+    "name": "Asfordby",
+    "country": "GB",
+    "lat": 52.76331,
+    "lng": -0.95856
+  },
+  {
+    "name": "Aston-on-Trent",
+    "country": "GB",
+    "lat": 52.86172,
+    "lng": -1.38642
+  },
+  {
+    "name": "Ashgill",
+    "country": "GB",
+    "lat": 55.73119,
+    "lng": -3.93019
+  },
+  {
+    "name": "Aspindza",
+    "country": "GE",
+    "lat": 41.57314,
+    "lng": 43.24842
+  },
+  {
+    "name": "Ashaiman",
+    "country": "GH",
+    "lat": 5.69951,
+    "lng": -0.03484
+  },
+  {
+    "name": "Asamankese",
+    "country": "GH",
+    "lat": 5.86006,
+    "lng": -0.6635
+  },
+  {
+    "name": "Assin Foso",
+    "country": "GH",
+    "lat": 5.7,
+    "lng": -1.65
+  },
+  {
+    "name": "Astypálaia",
+    "country": "GR",
+    "lat": 36.55,
+    "lng": 26.35
+  },
+  {
+    "name": "Astakós",
+    "country": "GR",
+    "lat": 38.53556,
+    "lng": 21.08135
+  },
+  {
+    "name": "Asprópyrgos",
+    "country": "GR",
+    "lat": 38.06134,
+    "lng": 23.58971
+  },
+  {
+    "name": "Asprángeloi",
+    "country": "GR",
+    "lat": 39.82328,
+    "lng": 20.72862
+  },
+  {
+    "name": "Asopós",
+    "country": "GR",
+    "lat": 36.72986,
+    "lng": 22.85455
+  },
+  {
+    "name": "Asopía",
+    "country": "GR",
+    "lat": 38.29882,
+    "lng": 23.50189
+  },
+  {
+    "name": "Asíni",
+    "country": "GR",
+    "lat": 37.54431,
+    "lng": 22.86435
+  },
+  {
+    "name": "Asímion",
+    "country": "GR",
+    "lat": 35.04321,
+    "lng": 25.09277
+  },
+  {
+    "name": "Asvestochóri",
+    "country": "GR",
+    "lat": 40.64125,
+    "lng": 23.02528
+  },
+  {
+    "name": "Asproválta",
+    "country": "GR",
+    "lat": 40.73049,
+    "lng": 23.7118
+  },
+  {
+    "name": "Askós",
+    "country": "GR",
+    "lat": 40.74946,
+    "lng": 23.38755
+  },
+  {
+    "name": "Asunción Mita",
+    "country": "GT",
+    "lat": 14.33365,
+    "lng": -89.71094
+  },
+  {
+    "name": "Asan-Maina Village",
+    "country": "GU",
+    "lat": 13.47215,
+    "lng": 144.71654
+  },
+  {
+    "name": "Aszaló",
+    "country": "HU",
+    "lat": 48.21667,
+    "lng": 20.96667
+  },
+  {
+    "name": "Aszód",
+    "country": "HU",
+    "lat": 47.65174,
+    "lng": 19.4785
+  },
+  {
+    "name": "Asan Kumbang",
+    "country": "ID",
+    "lat": 5.30424,
+    "lng": 96.02744
+  },
+  {
+    "name": "Astanajapura",
+    "country": "ID",
+    "lat": -6.8017,
+    "lng": 108.6311
+  },
+  {
+    "name": "Asera",
+    "country": "ID",
+    "lat": -3.4746,
+    "lng": 122.0669
+  },
+  {
+    "name": "Asembagus",
+    "country": "ID",
+    "lat": -7.7507,
+    "lng": 114.2101
+  },
+  {
+    "name": "Astambul",
+    "country": "ID",
+    "lat": -3.3696,
+    "lng": 114.9143
+  },
+  {
+    "name": "Askeaton",
+    "country": "IE",
+    "lat": 52.59972,
+    "lng": -8.97556
+  },
+  {
+    "name": "Ashbourne",
+    "country": "IE",
+    "lat": 53.51163,
+    "lng": -6.39821
+  },
+  {
+    "name": "Ashford",
+    "country": "IE",
+    "lat": 53.00833,
+    "lng": -6.11139
+  },
+  {
+    "name": "Ashkelon",
+    "country": "IL",
+    "lat": 31.66926,
+    "lng": 34.57149
+  },
+  {
+    "name": "Ashdot Ya‘aqov Iẖud",
+    "country": "IL",
+    "lat": 32.65843,
+    "lng": 35.58117
+  },
+  {
+    "name": "Ashdod",
+    "country": "IL",
+    "lat": 31.79213,
+    "lng": 34.64966
+  },
+  {
+    "name": "Asifābād",
+    "country": "IN",
+    "lat": 19.35851,
+    "lng": 79.28415
+  },
+  {
+    "name": "Ashti",
+    "country": "IN",
+    "lat": 19.37671,
+    "lng": 76.2252
+  },
+  {
+    "name": "Ashta",
+    "country": "IN",
+    "lat": 23.01754,
+    "lng": 76.72208
+  },
+  {
+    "name": "Ashta",
+    "country": "IN",
+    "lat": 16.94943,
+    "lng": 74.40936
+  },
+  {
+    "name": "Ashoknagar",
+    "country": "IN",
+    "lat": 24.57578,
+    "lng": 77.73123
+  },
+  {
+    "name": "Asarganj",
+    "country": "IN",
+    "lat": 25.15046,
+    "lng": 86.68639
+  },
+  {
+    "name": "Asangaon",
+    "country": "IN",
+    "lat": 19.43866,
+    "lng": 73.30594
+  },
+  {
+    "name": "Ashoknagar Kalyangarh",
+    "country": "IN",
+    "lat": 22.86416,
+    "lng": 88.63701
+  },
+  {
+    "name": "Asudubi",
+    "country": "IN",
+    "lat": 26.02316,
+    "lng": 90.66583
+  },
+  {
+    "name": "Asola",
+    "country": "IN",
+    "lat": 28.45726,
+    "lng": 77.18413
+  },
+  {
+    "name": "Ashmuji Khalsa",
+    "country": "IN",
+    "lat": 33.67129,
+    "lng": 75.07266
+  },
+  {
+    "name": "Ashokapuram",
+    "country": "IN",
+    "lat": 11.10173,
+    "lng": 76.95448
+  },
+  {
+    "name": "Ash Sharqāt",
+    "country": "IQ",
+    "lat": 35.51722,
+    "lng": 43.22806
+  },
+  {
+    "name": "Ash Shaykhān",
+    "country": "IQ",
+    "lat": 36.69595,
+    "lng": 43.35202
+  },
+  {
+    "name": "As Sulaymānīyah",
+    "country": "IQ",
+    "lat": 35.56496,
+    "lng": 45.4329
+  },
+  {
+    "name": "As Samawah",
+    "country": "IQ",
+    "lat": 31.33198,
+    "lng": 45.2944
+  },
+  {
+    "name": "As Salmān",
+    "country": "IQ",
+    "lat": 30.50464,
+    "lng": 44.53943
+  },
+  {
+    "name": "Ash Shaţrah",
+    "country": "IQ",
+    "lat": 31.40906,
+    "lng": 46.1727
+  },
+  {
+    "name": "Ash Shāmīyah",
+    "country": "IQ",
+    "lat": 31.96257,
+    "lng": 44.60075
+  },
+  {
+    "name": "Asadīyeh",
+    "country": "IR",
+    "lat": 32.9428,
+    "lng": 59.71998
+  },
+  {
+    "name": "Asadābād",
+    "country": "IR",
+    "lat": 34.78241,
+    "lng": 48.12012
+  },
+  {
+    "name": "Asuni",
+    "country": "IT",
+    "lat": 39.87101,
+    "lng": 8.94603
+  },
+  {
+    "name": "Assoro",
+    "country": "IT",
+    "lat": 37.6221,
+    "lng": 14.4181
+  },
+  {
+    "name": "Assolo",
+    "country": "IT",
+    "lat": 39.80915,
+    "lng": 8.91932
+  },
+  {
+    "name": "Assemini",
+    "country": "IT",
+    "lat": 39.29123,
+    "lng": 8.99879
+  },
+  {
+    "name": "Asti",
+    "country": "IT",
+    "lat": 44.90162,
+    "lng": 8.20751
+  },
+  {
+    "name": "Asso",
+    "country": "IT",
+    "lat": 45.86061,
+    "lng": 9.2673
+  },
+  {
+    "name": "Assisi",
+    "country": "IT",
+    "lat": 43.06671,
+    "lng": 12.62109
+  },
+  {
+    "name": "Asolo",
+    "country": "IT",
+    "lat": 45.78854,
+    "lng": 11.91701
+  },
+  {
+    "name": "Asola",
+    "country": "IT",
+    "lat": 45.22018,
+    "lng": 10.41214
+  },
+  {
+    "name": "Asiago",
+    "country": "IT",
+    "lat": 45.87588,
+    "lng": 11.51223
+  },
+  {
+    "name": "Ascrea",
+    "country": "IT",
+    "lat": 42.19763,
+    "lng": 12.99457
+  },
+  {
+    "name": "Ascoli Satriano",
+    "country": "IT",
+    "lat": 41.20365,
+    "lng": 15.56646
+  },
+  {
+    "name": "Ascoli Piceno",
+    "country": "IT",
+    "lat": 42.85351,
+    "lng": 13.57395
+  },
+  {
+    "name": "Asciano",
+    "country": "IT",
+    "lat": 43.23232,
+    "lng": 11.56655
+  },
+  {
+    "name": "Ascea",
+    "country": "IT",
+    "lat": 40.14082,
+    "lng": 15.18583
+  },
+  {
+    "name": "Assago",
+    "country": "IT",
+    "lat": 45.40887,
+    "lng": 9.12565
+  },
+  {
+    "name": "Asigliano Veneto",
+    "country": "IT",
+    "lat": 45.30469,
+    "lng": 11.4464
+  },
+  {
+    "name": "Asigliano Vercellese",
+    "country": "IT",
+    "lat": 45.26146,
+    "lng": 8.40853
+  },
+  {
+    "name": "Asciano",
+    "country": "IT",
+    "lat": 43.75159,
+    "lng": 10.46506
+  },
+  {
+    "name": "Asparetto",
+    "country": "IT",
+    "lat": 45.21991,
+    "lng": 11.18263
+  },
+  {
+    "name": "Ash Shūnah al Janūbīyah",
+    "country": "JO",
+    "lat": 31.8915,
+    "lng": 35.6178
+  },
+  {
+    "name": "As Salţ",
+    "country": "JO",
+    "lat": 32.03917,
+    "lng": 35.72722
+  },
+  {
+    "name": "Ash Shūnah ash Shamālīyah",
+    "country": "JO",
+    "lat": 32.62023,
+    "lng": 35.61451
+  },
+  {
+    "name": "Ash Shawbak",
+    "country": "JO",
+    "lat": 30.52134,
+    "lng": 35.57135
+  },
+  {
+    "name": "Ash Shajarah",
+    "country": "JO",
+    "lat": 32.64391,
+    "lng": 35.94175
+  },
+  {
+    "name": "Ash-Shūbak",
+    "country": "JO",
+    "lat": 30.51909,
+    "lng": 35.55773
+  },
+  {
+    "name": "Asuka",
+    "country": "JP",
+    "lat": 34.48085,
+    "lng": 135.82039
+  },
+  {
+    "name": "Asso",
+    "country": "JP",
+    "lat": 33.7,
+    "lng": 135.41667
+  },
+  {
+    "name": "Ashiya",
+    "country": "JP",
+    "lat": 34.72807,
+    "lng": 135.30264
+  },
+  {
+    "name": "Ashiya",
+    "country": "JP",
+    "lat": 33.87346,
+    "lng": 130.65392
+  },
+  {
+    "name": "Ashida",
+    "country": "JP",
+    "lat": 36.26983,
+    "lng": 138.31763
+  },
+  {
+    "name": "Ashikaga",
+    "country": "JP",
+    "lat": 36.33333,
+    "lng": 139.45
+  },
+  {
+    "name": "Asakusa",
+    "country": "JP",
+    "lat": 35.71691,
+    "lng": 139.79575
+  },
+  {
+    "name": "Asagaya-minami",
+    "country": "JP",
+    "lat": 35.70206,
+    "lng": 139.63745
+  },
+  {
+    "name": "Asaka",
+    "country": "JP",
+    "lat": 35.80472,
+    "lng": 139.60194
+  },
+  {
+    "name": "Asakawa",
+    "country": "JP",
+    "lat": 37.08276,
+    "lng": 140.41365
+  },
+  {
+    "name": "Asahi",
+    "country": "JP",
+    "lat": 35.71667,
+    "lng": 140.65
+  },
+  {
+    "name": "Asahimachi",
+    "country": "JP",
+    "lat": 44.10045,
+    "lng": 142.357
+  },
+  {
+    "name": "Ashoro",
+    "country": "JP",
+    "lat": 43.23722,
+    "lng": 143.54278
+  },
+  {
+    "name": "Ashibetsu",
+    "country": "JP",
+    "lat": 43.50972,
+    "lng": 142.18556
+  },
+  {
+    "name": "Asahikawa",
+    "country": "JP",
+    "lat": 43.77063,
+    "lng": 142.36489
+  },
+  {
+    "name": "Aso",
+    "country": "JP",
+    "lat": 32.93726,
+    "lng": 131.08008
+  },
+  {
+    "name": "Asahi",
+    "country": "JP",
+    "lat": 35.97259,
+    "lng": 136.12455
+  },
+  {
+    "name": "Asahigaoka",
+    "country": "JP",
+    "lat": 35.73458,
+    "lng": 139.67744
+  },
+  {
+    "name": "Asagayakita",
+    "country": "JP",
+    "lat": 35.71091,
+    "lng": 139.6372
+  },
+  {
+    "name": "Asakusabashi",
+    "country": "JP",
+    "lat": 35.69982,
+    "lng": 139.7841
+  },
+  {
+    "name": "Asago",
+    "country": "JP",
+    "lat": 35.25908,
+    "lng": 134.81392
+  },
+  {
+    "name": "Asakuchi",
+    "country": "JP",
+    "lat": 34.53484,
+    "lng": 133.60302
+  },
+  {
+    "name": "Asakura",
+    "country": "JP",
+    "lat": 33.41439,
+    "lng": 130.71877
+  },
+  {
+    "name": "Ashigakubo",
+    "country": "JP",
+    "lat": 35.9774,
+    "lng": 139.13592
+  },
+  {
+    "name": "Asahi",
+    "country": "JP",
+    "lat": 35.03421,
+    "lng": 136.66436
+  },
+  {
+    "name": "Assimpao",
+    "country": "KM",
+    "lat": -12.23306,
+    "lng": 44.31972
+  },
+  {
+    "name": "Asan",
+    "country": "KR",
+    "lat": 36.78361,
+    "lng": 127.00417
+  },
+  {
+    "name": "As Sālimīyah",
+    "country": "KW",
+    "lat": 29.33389,
+    "lng": 48.07611
+  },
+  {
+    "name": "Ash Shāmīyah",
+    "country": "KW",
+    "lat": 29.34722,
+    "lng": 47.96167
+  },
+  {
+    "name": "Asyqata",
+    "country": "KZ",
+    "lat": 40.8946,
+    "lng": 68.3643
+  },
+  {
+    "name": "Asubulak",
+    "country": "KZ",
+    "lat": 49.54026,
+    "lng": 82.99471
+  },
+  {
+    "name": "Astrakhanka",
+    "country": "KZ",
+    "lat": 51.53068,
+    "lng": 69.79685
+  },
+  {
+    "name": "Asa",
+    "country": "KZ",
+    "lat": 43.03735,
+    "lng": 71.14737
+  },
+  {
+    "name": "Ashchysay",
+    "country": "KZ",
+    "lat": 43.5537,
+    "lng": 68.89792
+  },
+  {
+    "name": "Astana",
+    "country": "KZ",
+    "lat": 51.1801,
+    "lng": 71.44598
+  },
+  {
+    "name": "Aspelt",
+    "country": "LU",
+    "lat": 49.52278,
+    "lng": 6.22472
+  },
+  {
+    "name": "As Sawānī",
+    "country": "LY",
+    "lat": 32.71667,
+    "lng": 13.06667
+  },
+  {
+    "name": "Assoul",
+    "country": "MA",
+    "lat": 31.95286,
+    "lng": -5.20812
+  },
+  {
+    "name": "Assads",
+    "country": "MA",
+    "lat": 30.23,
+    "lng": -8.86
+  },
+  {
+    "name": "Assa",
+    "country": "MA",
+    "lat": 28.60986,
+    "lng": -9.42986
+  },
+  {
+    "name": "Asni",
+    "country": "MA",
+    "lat": 31.24653,
+    "lng": -7.9789
+  },
+  {
+    "name": "Asilah",
+    "country": "MA",
+    "lat": 35.46522,
+    "lng": -6.03415
+  },
+  {
+    "name": "Asgat",
+    "country": "MN",
+    "lat": 49.51082,
+    "lng": 96.79944
+  },
+  {
+    "name": "Asunción Tlacolulita",
+    "country": "MX",
+    "lat": 16.29942,
+    "lng": -95.72668
+  },
+  {
+    "name": "Asunción Ocotlán",
+    "country": "MX",
+    "lat": 16.76195,
+    "lng": -96.72137
+  },
+  {
+    "name": "Asunción Nochixtlán",
+    "country": "MX",
+    "lat": 17.45916,
+    "lng": -97.22605
+  },
+  {
+    "name": "Asunción Ixtaltepec",
+    "country": "MX",
+    "lat": 16.50315,
+    "lng": -95.06121
+  },
+  {
+    "name": "Astapa",
+    "country": "MX",
+    "lat": 17.7814,
+    "lng": -92.84946
+  },
+  {
+    "name": "Astacinga",
+    "country": "MX",
+    "lat": 18.569,
+    "lng": -97.10376
+  },
+  {
+    "name": "Ascensión",
+    "country": "MX",
+    "lat": 31.0926,
+    "lng": -107.99687
+  },
+  {
+    "name": "Asientos",
+    "country": "MX",
+    "lat": 22.23836,
+    "lng": -102.0894
+  },
+  {
+    "name": "Ascención",
+    "country": "MX",
+    "lat": 31.1,
+    "lng": -107.98333
+  },
+  {
+    "name": "Assam Jawa",
+    "country": "MY",
+    "lat": 3.30126,
+    "lng": 101.28754
+  },
+  {
+    "name": "Askira",
+    "country": "NG",
+    "lat": 10.65086,
+    "lng": 12.90883
+  },
+  {
+    "name": "Asaba",
+    "country": "NG",
+    "lat": 6.19824,
+    "lng": 6.73187
+  },
+  {
+    "name": "Asten",
+    "country": "NL",
+    "lat": 51.40417,
+    "lng": 5.74861
+  },
+  {
+    "name": "Assendelft",
+    "country": "NL",
+    "lat": 52.46833,
+    "lng": 4.74306
+  },
+  {
+    "name": "Assen",
+    "country": "NL",
+    "lat": 52.99667,
+    "lng": 6.5625
+  },
+  {
+    "name": "Askim",
+    "country": "NO",
+    "lat": 59.58326,
+    "lng": 11.16286
+  },
+  {
+    "name": "Asker",
+    "country": "NO",
+    "lat": 59.83333,
+    "lng": 10.43721
+  },
+  {
+    "name": "Ask",
+    "country": "NO",
+    "lat": 60.07131,
+    "lng": 11.0362
+  },
+  {
+    "name": "Askvoll",
+    "country": "NO",
+    "lat": 61.34673,
+    "lng": 5.06224
+  },
+  {
+    "name": "Ashhurst",
+    "country": "NZ",
+    "lat": -40.29108,
+    "lng": 175.75471
+  },
+  {
+    "name": "Ashburton",
+    "country": "NZ",
+    "lat": -43.89834,
+    "lng": 171.73011
+  },
+  {
+    "name": "Ascot Park",
+    "country": "NZ",
+    "lat": -41.11827,
+    "lng": 174.8702
+  },
+  {
+    "name": "As Suwayq",
+    "country": "OM",
+    "lat": 23.84944,
+    "lng": 57.43861
+  },
+  {
+    "name": "Aserrío de Gariché",
+    "country": "PA",
+    "lat": 8.48641,
+    "lng": -82.78932
+  },
+  {
+    "name": "Asunción",
+    "country": "PE",
+    "lat": -7.32349,
+    "lng": -78.51858
+  },
+  {
+    "name": "Ascope",
+    "country": "PE",
+    "lat": -7.71444,
+    "lng": -79.10778
+  },
+  {
+    "name": "Asentamiento Humano Nicolas de Pierola",
+    "country": "PE",
+    "lat": -11.93573,
+    "lng": -76.70611
+  },
+  {
+    "name": "Asquipata",
+    "country": "PE",
+    "lat": -14.055,
+    "lng": -73.91
+  },
+  {
+    "name": "Asillo",
+    "country": "PE",
+    "lat": -14.78661,
+    "lng": -70.35401
+  },
+  {
+    "name": "Asia",
+    "country": "PE",
+    "lat": -12.7794,
+    "lng": -76.55666
+  },
+  {
+    "name": "Ascencion",
+    "country": "PE",
+    "lat": -12.78423,
+    "lng": -74.98058
+  },
+  {
+    "name": "Asturias",
+    "country": "PH",
+    "lat": 10.5669,
+    "lng": 123.7161
+  },
+  {
+    "name": "Asturga",
+    "country": "PH",
+    "lat": 11.25449,
+    "lng": 122.8018
+  },
+  {
+    "name": "Astorga",
+    "country": "PH",
+    "lat": 6.90722,
+    "lng": 125.45583
+  },
+  {
+    "name": "Asingan",
+    "country": "PH",
+    "lat": 16.0051,
+    "lng": 120.6695
+  },
+  {
+    "name": "Asia",
+    "country": "PH",
+    "lat": 9.5506,
+    "lng": 122.5164
+  },
+  {
+    "name": "Ashanagro Koto",
+    "country": "PK",
+    "lat": 34.10773,
+    "lng": 72.24517
+  },
+  {
+    "name": "Ash Shaykh Sa‘d",
+    "country": "PS",
+    "lat": 31.73721,
+    "lng": 35.25742
+  },
+  {
+    "name": "As Sāwiyah",
+    "country": "PS",
+    "lat": 32.08537,
+    "lng": 35.25782
+  },
+  {
+    "name": "As Samū‘",
+    "country": "PS",
+    "lat": 31.39671,
+    "lng": 35.06611
+  },
+  {
+    "name": "Ash Shuyūkh",
+    "country": "PS",
+    "lat": 31.57004,
+    "lng": 35.15606
+  },
+  {
+    "name": "Ash Shuhadā’",
+    "country": "PS",
+    "lat": 32.42949,
+    "lng": 35.27112
+  },
+  {
+    "name": "Assafarge",
+    "country": "PT",
+    "lat": 40.15895,
+    "lng": -8.43167
+  },
+  {
+    "name": "Asunción",
+    "country": "PY",
+    "lat": -25.28646,
+    "lng": -57.647
+  },
+  {
+    "name": "Ash Shīḩānīyah",
+    "country": "QA",
+    "lat": 25.37088,
+    "lng": 51.22264
+  },
+  {
+    "name": "As Sulţah al Jadīdah",
+    "country": "QA",
+    "lat": 25.2604,
+    "lng": 51.51403
+  },
+  {
+    "name": "As Sadd",
+    "country": "QA",
+    "lat": 25.28617,
+    "lng": 51.50074
+  },
+  {
+    "name": "Asuaju de Sus",
+    "country": "RO",
+    "lat": 47.56667,
+    "lng": 23.18333
+  },
+  {
+    "name": "Asău",
+    "country": "RO",
+    "lat": 46.44301,
+    "lng": 26.40036
+  },
+  {
+    "name": "Astrakhan",
+    "country": "RU",
+    "lat": 46.34968,
+    "lng": 48.04076
+  },
+  {
+    "name": "Assinovskaya",
+    "country": "RU",
+    "lat": 43.24167,
+    "lng": 45.18194
+  },
+  {
+    "name": "Askino",
+    "country": "RU",
+    "lat": 56.08781,
+    "lng": 56.57818
+  },
+  {
+    "name": "Askarovo",
+    "country": "RU",
+    "lat": 53.33332,
+    "lng": 58.51708
+  },
+  {
+    "name": "Ashukino",
+    "country": "RU",
+    "lat": 56.16667,
+    "lng": 37.95
+  },
+  {
+    "name": "Ashitkovo",
+    "country": "RU",
+    "lat": 55.45173,
+    "lng": 38.59518
+  },
+  {
+    "name": "Ashil’ta",
+    "country": "RU",
+    "lat": 42.77042,
+    "lng": 46.72992
+  },
+  {
+    "name": "Asha",
+    "country": "RU",
+    "lat": 54.99982,
+    "lng": 57.25491
+  },
+  {
+    "name": "Asekeyevo",
+    "country": "RU",
+    "lat": 53.57806,
+    "lng": 52.82172
+  },
+  {
+    "name": "Asanovo",
+    "country": "RU",
+    "lat": 54.89418,
+    "lng": 55.49083
+  },
+  {
+    "name": "Askiz",
+    "country": "RU",
+    "lat": 53.13722,
+    "lng": 90.42833
+  },
+  {
+    "name": "Askiz",
+    "country": "RU",
+    "lat": 53.13129,
+    "lng": 90.52821
+  },
+  {
+    "name": "Asino",
+    "country": "RU",
+    "lat": 56.99918,
+    "lng": 86.15518
+  },
+  {
+    "name": "Asbestovskiy",
+    "country": "RU",
+    "lat": 57.75574,
+    "lng": 61.39672
+  },
+  {
+    "name": "Asbest",
+    "country": "RU",
+    "lat": 57.00816,
+    "lng": 61.46344
+  },
+  {
+    "name": "As Sulayyil",
+    "country": "SA",
+    "lat": 20.46067,
+    "lng": 45.57792
+  },
+  {
+    "name": "As Saffānīyah",
+    "country": "SA",
+    "lat": 27.97083,
+    "lng": 48.73
+  },
+  {
+    "name": "Ash Shafā",
+    "country": "SA",
+    "lat": 21.07268,
+    "lng": 40.31842
+  },
+  {
+    "name": "Ash Shamli",
+    "country": "SA",
+    "lat": 26.8577,
+    "lng": 40.32947
+  },
+  {
+    "name": "As Sūkī",
+    "country": "SD",
+    "lat": 13.31667,
+    "lng": 33.88333
+  },
+  {
+    "name": "Ash Shallāl",
+    "country": "SD",
+    "lat": 11.8,
+    "lng": 34.4
+  },
+  {
+    "name": "Asmundtorp",
+    "country": "SE",
+    "lat": 55.88333,
+    "lng": 12.93333
+  },
+  {
+    "name": "Askersund",
+    "country": "SE",
+    "lat": 58.87988,
+    "lng": 14.9023
+  },
+  {
+    "name": "As Suqaylibīyah",
+    "country": "SY",
+    "lat": 35.36674,
+    "lng": 36.39359
+  },
+  {
+    "name": "As Salamīyah",
+    "country": "SY",
+    "lat": 35.01127,
+    "lng": 37.05324
+  },
+  {
+    "name": "As Sab‘ Biyār",
+    "country": "SY",
+    "lat": 33.77974,
+    "lng": 37.68357
+  },
+  {
+    "name": "As-Suwayda",
+    "country": "SY",
+    "lat": 32.70896,
+    "lng": 36.56951
+  },
+  {
+    "name": "As Sūsah",
+    "country": "SY",
+    "lat": 34.53366,
+    "lng": 40.95819
+  },
+  {
+    "name": "As Sukhnah",
+    "country": "SY",
+    "lat": 34.88533,
+    "lng": 38.8711
+  },
+  {
+    "name": "As Sīsnīyah",
+    "country": "SY",
+    "lat": 34.78108,
+    "lng": 36.14298
+  },
+  {
+    "name": "As Sawdā",
+    "country": "SY",
+    "lat": 34.98151,
+    "lng": 35.94414
+  },
+  {
+    "name": "As Safīrah",
+    "country": "SY",
+    "lat": 36.07696,
+    "lng": 37.37251
+  },
+  {
+    "name": "As Sabkhah",
+    "country": "SY",
+    "lat": 35.81182,
+    "lng": 39.26268
+  },
+  {
+    "name": "As Si‘in",
+    "country": "SY",
+    "lat": 35.26375,
+    "lng": 37.37402
+  },
+  {
+    "name": "Ash Shaykh Badr",
+    "country": "SY",
+    "lat": 34.99174,
+    "lng": 36.0835
+  },
+  {
+    "name": "Ash Shajarah",
+    "country": "SY",
+    "lat": 32.77411,
+    "lng": 35.88202
+  },
+  {
+    "name": "Ash Shaddādah",
+    "country": "SY",
+    "lat": 36.05756,
+    "lng": 40.73478
+  },
+  {
+    "name": "Ashgabat",
+    "country": "TM",
+    "lat": 37.95,
+    "lng": 58.38333
+  },
+  {
+    "name": "As Sars",
+    "country": "TN",
+    "lat": 36.0764,
+    "lng": 9.02117
+  },
+  {
+    "name": "As Sanad",
+    "country": "TN",
+    "lat": 34.4628,
+    "lng": 9.26404
+  },
+  {
+    "name": "Asmalı",
+    "country": "TR",
+    "lat": 36.75665,
+    "lng": 35.53346
+  },
+  {
+    "name": "Aslanapa",
+    "country": "TR",
+    "lat": 39.21581,
+    "lng": 29.8699
+  },
+  {
+    "name": "Askeriye",
+    "country": "TR",
+    "lat": 37.75097,
+    "lng": 30.35731
+  },
+  {
+    "name": "Asarcık",
+    "country": "TR",
+    "lat": 41.03556,
+    "lng": 36.23556
+  },
+  {
+    "name": "Asau Village",
+    "country": "TV",
+    "lat": -7.49026,
+    "lng": 178.68016
+  },
+  {
+    "name": "Askaniya-Nova",
+    "country": "UA",
+    "lat": 46.45406,
+    "lng": 33.87128
+  },
+  {
+    "name": "Ash Flat",
+    "country": "US",
+    "lat": 36.22396,
+    "lng": -91.60848
+  },
+  {
+    "name": "Ashdown",
+    "country": "US",
+    "lat": 33.67429,
+    "lng": -94.13131
+  },
+  {
+    "name": "Asbury Lake",
+    "country": "US",
+    "lat": 30.04913,
+    "lng": -81.82149
+  },
+  {
+    "name": "Astatula",
+    "country": "US",
+    "lat": 28.70972,
+    "lng": -81.73285
+  },
+  {
+    "name": "Astor",
+    "country": "US",
+    "lat": 29.16248,
+    "lng": -81.52535
+  },
+  {
+    "name": "Ashburn",
+    "country": "US",
+    "lat": 31.70601,
+    "lng": -83.65322
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 39.88783,
+    "lng": -90.00789
+  },
+  {
+    "name": "Assumption",
+    "country": "US",
+    "lat": 39.52032,
+    "lng": -89.04897
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 37.18864,
+    "lng": -99.76568
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 38.47841,
+    "lng": -82.63794
+  },
+  {
+    "name": "Aspen Hill",
+    "country": "US",
+    "lat": 39.07955,
+    "lng": -77.07303
+  },
+  {
+    "name": "Ash Grove",
+    "country": "US",
+    "lat": 37.31533,
+    "lng": -93.5852
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 38.77448,
+    "lng": -92.25713
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 34.83287,
+    "lng": -89.1759
+  },
+  {
+    "name": "Asheboro",
+    "country": "US",
+    "lat": 35.70791,
+    "lng": -79.81364
+  },
+  {
+    "name": "Asheville",
+    "country": "US",
+    "lat": 35.60095,
+    "lng": -82.55402
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 39.86317,
+    "lng": -75.006
+  },
+  {
+    "name": "Ashville",
+    "country": "US",
+    "lat": 39.71562,
+    "lng": -82.95296
+  },
+  {
+    "name": "Ashland City",
+    "country": "US",
+    "lat": 36.27422,
+    "lng": -87.06417
+  },
+  {
+    "name": "Asherton",
+    "country": "US",
+    "lat": 28.44193,
+    "lng": -99.76033
+  },
+  {
+    "name": "Ashburn",
+    "country": "US",
+    "lat": 39.04372,
+    "lng": -77.48749
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 37.75903,
+    "lng": -77.47998
+  },
+  {
+    "name": "Ashford",
+    "country": "US",
+    "lat": 31.18296,
+    "lng": -85.23632
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 33.27373,
+    "lng": -85.83607
+  },
+  {
+    "name": "Ashville",
+    "country": "US",
+    "lat": 33.83704,
+    "lng": -86.25442
+  },
+  {
+    "name": "Asbury",
+    "country": "US",
+    "lat": 42.51445,
+    "lng": -90.75152
+  },
+  {
+    "name": "Ashburn",
+    "country": "US",
+    "lat": 41.74753,
+    "lng": -87.71116
+  },
+  {
+    "name": "Astoria",
+    "country": "US",
+    "lat": 40.22754,
+    "lng": -90.35957
+  },
+  {
+    "name": "Ashburnham",
+    "country": "US",
+    "lat": 42.6362,
+    "lng": -71.90785
+  },
+  {
+    "name": "Ashby",
+    "country": "US",
+    "lat": 42.67787,
+    "lng": -71.82035
+  },
+  {
+    "name": "Ashfield",
+    "country": "US",
+    "lat": 42.52647,
+    "lng": -72.78843
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 42.26121,
+    "lng": -71.4634
+  },
+  {
+    "name": "Ashmont",
+    "country": "US",
+    "lat": 42.28343,
+    "lng": -71.06894
+  },
+  {
+    "name": "Assonet",
+    "country": "US",
+    "lat": 41.79594,
+    "lng": -71.06782
+  },
+  {
+    "name": "Ashley",
+    "country": "US",
+    "lat": 46.03414,
+    "lng": -99.3715
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 41.03916,
+    "lng": -96.36835
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 43.69535,
+    "lng": -71.63063
+  },
+  {
+    "name": "Asbury Park",
+    "country": "US",
+    "lat": 40.22039,
+    "lng": -74.01208
+  },
+  {
+    "name": "Astoria",
+    "country": "US",
+    "lat": 40.77205,
+    "lng": -73.93014
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 40.86867,
+    "lng": -82.31822
+  },
+  {
+    "name": "Ashley",
+    "country": "US",
+    "lat": 40.40895,
+    "lng": -82.95546
+  },
+  {
+    "name": "Ashtabula",
+    "country": "US",
+    "lat": 41.86505,
+    "lng": -80.78981
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 40.78175,
+    "lng": -76.34578
+  },
+  {
+    "name": "Ashley",
+    "country": "US",
+    "lat": 41.21036,
+    "lng": -75.89659
+  },
+  {
+    "name": "Aspinwall",
+    "country": "US",
+    "lat": 40.49146,
+    "lng": -79.90477
+  },
+  {
+    "name": "Ashaway",
+    "country": "US",
+    "lat": 41.42343,
+    "lng": -71.78562
+  },
+  {
+    "name": "Ashford",
+    "country": "US",
+    "lat": 43.58694,
+    "lng": -88.37066
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 46.59244,
+    "lng": -90.8838
+  },
+  {
+    "name": "Ashwaubenon",
+    "country": "US",
+    "lat": 44.48221,
+    "lng": -88.0701
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 37.69465,
+    "lng": -122.11385
+  },
+  {
+    "name": "Aspen",
+    "country": "US",
+    "lat": 39.1911,
+    "lng": -106.81754
+  },
+  {
+    "name": "Aspermont",
+    "country": "US",
+    "lat": 33.13343,
+    "lng": -100.22733
+  },
+  {
+    "name": "Ashton",
+    "country": "US",
+    "lat": 44.07158,
+    "lng": -111.44829
+  },
+  {
+    "name": "Ashland",
+    "country": "US",
+    "lat": 42.19458,
+    "lng": -122.70948
+  },
+  {
+    "name": "Astoria",
+    "country": "US",
+    "lat": 46.18788,
+    "lng": -123.83125
+  },
+  {
+    "name": "Asotin",
+    "country": "US",
+    "lat": 46.33933,
+    "lng": -117.04821
+  },
+  {
+    "name": "Ashton-Sandy Spring",
+    "country": "US",
+    "lat": 39.14976,
+    "lng": -77.00504
+  },
+  {
+    "name": "Ashburton",
+    "country": "US",
+    "lat": 39.32823,
+    "lng": -76.6717
+  },
+  {
+    "name": "Asaka",
+    "country": "UZ",
+    "lat": 40.64153,
+    "lng": 72.23868
+  },
+  {
+    "name": "Asau",
+    "country": "WS",
+    "lat": -13.51963,
+    "lng": -172.63784
+  },
+  {
+    "name": "Ash Shiḩr",
+    "country": "YE",
+    "lat": 14.76026,
+    "lng": 49.60537
+  },
+  {
+    "name": "Ash Shuqayrah",
+    "country": "YE",
+    "lat": 13.13452,
+    "lng": 43.78636
+  },
+  {
+    "name": "As Suwaydā",
+    "country": "YE",
+    "lat": 13.78694,
+    "lng": 45.2304
+  },
+  {
+    "name": "Ash Sharyah",
+    "country": "YE",
+    "lat": 14.35659,
+    "lng": 45.02244
+  },
+  {
+    "name": "As Salāsil",
+    "country": "YE",
+    "lat": 16.47959,
+    "lng": 48.83153
+  },
+  {
+    "name": "As Sūq al Jadīd",
+    "country": "YE",
+    "lat": 15.82496,
+    "lng": 44.06204
+  },
+  {
+    "name": "As Sūdah",
+    "country": "YE",
+    "lat": 15.95861,
+    "lng": 43.78083
+  },
+  {
+    "name": "As Sayyānī",
+    "country": "YE",
+    "lat": 13.84266,
+    "lng": 44.17395
+  },
+  {
+    "name": "As Sawādīyah",
+    "country": "YE",
+    "lat": 14.30113,
+    "lng": 45.22148
+  },
+  {
+    "name": "As Saddah",
+    "country": "YE",
+    "lat": 14.1221,
+    "lng": 44.42139
+  },
+  {
+    "name": "Ash Shaykh ‘Uthmān",
+    "country": "YE",
+    "lat": 12.87678,
+    "lng": 44.99309
+  },
+  {
+    "name": "Ash Shaţţ",
+    "country": "YE",
+    "lat": 12.89357,
+    "lng": 44.03571
+  },
+  {
+    "name": "Ash Shāhil",
+    "country": "YE",
+    "lat": 15.86656,
+    "lng": 43.40495
+  },
+  {
+    "name": "Ash Shaghādirah",
+    "country": "YE",
+    "lat": 15.62,
+    "lng": 43.52056
+  },
+  {
+    "name": "Asdās",
+    "country": "YE",
+    "lat": 15.76601,
+    "lng": 45.08151
+  },
+  {
+    "name": "As Sukhnah",
+    "country": "YE",
+    "lat": 14.79408,
+    "lng": 43.4362
+  },
+  {
+    "name": "Aslam",
+    "country": "YE",
+    "lat": 16.05961,
+    "lng": 43.32745
+  },
+  {
+    "name": "Ash Shawātī",
+    "country": "YE",
+    "lat": 16.78314,
+    "lng": 43.81265
+  },
+  {
+    "name": "Ashton",
+    "country": "ZA",
+    "lat": -33.83136,
+    "lng": 20.05595
+  },
+  {
+    "name": "Ashburton",
+    "country": "ZA",
+    "lat": -29.66664,
+    "lng": 30.45502
+  }
+]

@@ -1,0 +1,5720 @@
+[
+  {
+    "name": "Anyós",
+    "country": "AD",
+    "lat": 42.53465,
+    "lng": 1.5251
+  },
+  {
+    "name": "Andorra la Vella",
+    "country": "AD",
+    "lat": 42.50779,
+    "lng": 1.52109
+  },
+  {
+    "name": "Andkhōy",
+    "country": "AF",
+    "lat": 36.95293,
+    "lng": 65.12376
+  },
+  {
+    "name": "Anār Darah",
+    "country": "AF",
+    "lat": 32.7587,
+    "lng": 61.65397
+  },
+  {
+    "name": "Angeghakot",
+    "country": "AM",
+    "lat": 39.56952,
+    "lng": 45.94452
+  },
+  {
+    "name": "Anushavan",
+    "country": "AM",
+    "lat": 40.65008,
+    "lng": 43.98053
+  },
+  {
+    "name": "Andulo",
+    "country": "AO",
+    "lat": -11.48676,
+    "lng": 16.69663
+  },
+  {
+    "name": "Antofagasta de la Sierra",
+    "country": "AR",
+    "lat": -26.05954,
+    "lng": -67.40648
+  },
+  {
+    "name": "Anguil",
+    "country": "AR",
+    "lat": -36.52583,
+    "lng": -64.01007
+  },
+  {
+    "name": "Andalgalá",
+    "country": "AR",
+    "lat": -27.58185,
+    "lng": -66.31626
+  },
+  {
+    "name": "Andacollo",
+    "country": "AR",
+    "lat": -37.17974,
+    "lng": -70.66996
+  },
+  {
+    "name": "Ancasti",
+    "country": "AR",
+    "lat": -28.81264,
+    "lng": -65.50069
+  },
+  {
+    "name": "Anthering",
+    "country": "AT",
+    "lat": 47.88333,
+    "lng": 13.01667
+  },
+  {
+    "name": "Antau",
+    "country": "AT",
+    "lat": 47.77377,
+    "lng": 16.47984
+  },
+  {
+    "name": "Ansfelden",
+    "country": "AT",
+    "lat": 48.20969,
+    "lng": 14.29004
+  },
+  {
+    "name": "Anras",
+    "country": "AT",
+    "lat": 46.77389,
+    "lng": 12.56083
+  },
+  {
+    "name": "Annabichl",
+    "country": "AT",
+    "lat": 46.65,
+    "lng": 14.31667
+  },
+  {
+    "name": "Annaberg",
+    "country": "AT",
+    "lat": 47.87134,
+    "lng": 15.37648
+  },
+  {
+    "name": "Anif",
+    "country": "AT",
+    "lat": 47.75,
+    "lng": 13.06667
+  },
+  {
+    "name": "Angern an der March",
+    "country": "AT",
+    "lat": 48.37778,
+    "lng": 16.82806
+  },
+  {
+    "name": "Anger",
+    "country": "AT",
+    "lat": 47.27422,
+    "lng": 15.69139
+  },
+  {
+    "name": "Angath",
+    "country": "AT",
+    "lat": 47.50758,
+    "lng": 12.06513
+  },
+  {
+    "name": "Andorf",
+    "country": "AT",
+    "lat": 48.3713,
+    "lng": 13.57412
+  },
+  {
+    "name": "Andlersdorf",
+    "country": "AT",
+    "lat": 48.18333,
+    "lng": 16.66667
+  },
+  {
+    "name": "Andelsbuch",
+    "country": "AT",
+    "lat": 47.41167,
+    "lng": 9.89326
+  },
+  {
+    "name": "Andau",
+    "country": "AT",
+    "lat": 47.77441,
+    "lng": 17.03293
+  },
+  {
+    "name": "Anger",
+    "country": "AT",
+    "lat": 47.15593,
+    "lng": 13.10592
+  },
+  {
+    "name": "Andritz",
+    "country": "AT",
+    "lat": 47.11387,
+    "lng": 15.42348
+  },
+  {
+    "name": "Angerberg",
+    "country": "AT",
+    "lat": 47.50672,
+    "lng": 12.04033
+  },
+  {
+    "name": "Angle Vale",
+    "country": "AU",
+    "lat": -34.64098,
+    "lng": 138.6461
+  },
+  {
+    "name": "Angaston",
+    "country": "AU",
+    "lat": -34.50129,
+    "lng": 139.04625
+  },
+  {
+    "name": "Annandale",
+    "country": "AU",
+    "lat": -33.88333,
+    "lng": 151.16667
+  },
+  {
+    "name": "Anna Bay",
+    "country": "AU",
+    "lat": -32.78135,
+    "lng": 152.08586
+  },
+  {
+    "name": "Anglesea",
+    "country": "AU",
+    "lat": -38.4073,
+    "lng": 144.18587
+  },
+  {
+    "name": "Andergrove",
+    "country": "AU",
+    "lat": -21.08333,
+    "lng": 149.18333
+  },
+  {
+    "name": "Annangrove",
+    "country": "AU",
+    "lat": -33.65758,
+    "lng": 150.94755
+  },
+  {
+    "name": "Anula",
+    "country": "AU",
+    "lat": -12.39125,
+    "lng": 130.89047
+  },
+  {
+    "name": "Andrews Farm",
+    "country": "AU",
+    "lat": -34.67632,
+    "lng": 138.66197
+  },
+  {
+    "name": "Annandale",
+    "country": "AU",
+    "lat": -19.31503,
+    "lng": 146.79069
+  },
+  {
+    "name": "Annerley",
+    "country": "AU",
+    "lat": -27.51228,
+    "lng": 153.03248
+  },
+  {
+    "name": "Anstead",
+    "country": "AU",
+    "lat": -27.53781,
+    "lng": 152.86187
+  },
+  {
+    "name": "Angle Park",
+    "country": "AU",
+    "lat": -34.85989,
+    "lng": 138.55798
+  },
+  {
+    "name": "Anzegem",
+    "country": "BE",
+    "lat": 50.837,
+    "lng": 3.47786
+  },
+  {
+    "name": "Anvaing",
+    "country": "BE",
+    "lat": 50.68318,
+    "lng": 3.56144
+  },
+  {
+    "name": "Antwerpen",
+    "country": "BE",
+    "lat": 51.22047,
+    "lng": 4.40026
+  },
+  {
+    "name": "Antoing",
+    "country": "BE",
+    "lat": 50.56765,
+    "lng": 3.4492
+  },
+  {
+    "name": "Anthisnes",
+    "country": "BE",
+    "lat": 50.48323,
+    "lng": 5.519
+  },
+  {
+    "name": "Antheit",
+    "country": "BE",
+    "lat": 50.54927,
+    "lng": 5.24022
+  },
+  {
+    "name": "Anseroeul",
+    "country": "BE",
+    "lat": 50.72739,
+    "lng": 3.5237
+  },
+  {
+    "name": "Anseremme",
+    "country": "BE",
+    "lat": 50.23996,
+    "lng": 4.89904
+  },
+  {
+    "name": "Ans",
+    "country": "BE",
+    "lat": 50.6623,
+    "lng": 5.52029
+  },
+  {
+    "name": "Anhée",
+    "country": "BE",
+    "lat": 50.31039,
+    "lng": 4.87827
+  },
+  {
+    "name": "Angleur",
+    "country": "BE",
+    "lat": 50.6113,
+    "lng": 5.59942
+  },
+  {
+    "name": "Andrimont",
+    "country": "BE",
+    "lat": 50.61298,
+    "lng": 5.88294
+  },
+  {
+    "name": "Anderlues",
+    "country": "BE",
+    "lat": 50.40704,
+    "lng": 4.27136
+  },
+  {
+    "name": "Anderlecht",
+    "country": "BE",
+    "lat": 50.83619,
+    "lng": 4.31454
+  },
+  {
+    "name": "Andenne",
+    "country": "BE",
+    "lat": 50.48941,
+    "lng": 5.09513
+  },
+  {
+    "name": "Antonovo",
+    "country": "BG",
+    "lat": 43.15022,
+    "lng": 26.16032
+  },
+  {
+    "name": "Anton",
+    "country": "BG",
+    "lat": 42.73501,
+    "lng": 24.25958
+  },
+  {
+    "name": "Angara-Débou",
+    "country": "BJ",
+    "lat": 11.32454,
+    "lng": 3.05886
+  },
+  {
+    "name": "Andamarca",
+    "country": "BO",
+    "lat": -18.77934,
+    "lng": -67.50753
+  },
+  {
+    "name": "Antônio Martins",
+    "country": "BR",
+    "lat": -6.21278,
+    "lng": -37.90556
+  },
+  {
+    "name": "Antonina do Norte",
+    "country": "BR",
+    "lat": -6.775,
+    "lng": -39.98917
+  },
+  {
+    "name": "Angicos",
+    "country": "BR",
+    "lat": -5.66556,
+    "lng": -36.60111
+  },
+  {
+    "name": "Angical do Piauí",
+    "country": "BR",
+    "lat": -6.08556,
+    "lng": -42.73917
+  },
+  {
+    "name": "Angelim",
+    "country": "BR",
+    "lat": -8.89028,
+    "lng": -36.28583
+  },
+  {
+    "name": "Anapurus",
+    "country": "BR",
+    "lat": -3.67167,
+    "lng": -43.11611
+  },
+  {
+    "name": "Ananindeua",
+    "country": "BR",
+    "lat": -1.36556,
+    "lng": -48.37222
+  },
+  {
+    "name": "Ananás",
+    "country": "BR",
+    "lat": -6.36528,
+    "lng": -48.07278
+  },
+  {
+    "name": "Anajatuba",
+    "country": "BR",
+    "lat": -3.26444,
+    "lng": -44.61972
+  },
+  {
+    "name": "Anajás",
+    "country": "BR",
+    "lat": -0.98667,
+    "lng": -49.94
+  },
+  {
+    "name": "Anadia",
+    "country": "BR",
+    "lat": -9.68444,
+    "lng": -36.30417
+  },
+  {
+    "name": "Angico",
+    "country": "BR",
+    "lat": -6.38917,
+    "lng": -47.86444
+  },
+  {
+    "name": "Angélica",
+    "country": "BR",
+    "lat": -22.15988,
+    "lng": -53.77217
+  },
+  {
+    "name": "Antônio Gonçalves",
+    "country": "BR",
+    "lat": -10.57154,
+    "lng": -40.27589
+  },
+  {
+    "name": "Antônio Prado",
+    "country": "BR",
+    "lat": -28.85833,
+    "lng": -51.28278
+  },
+  {
+    "name": "Antônio Prado de Minas",
+    "country": "BR",
+    "lat": -21.01813,
+    "lng": -42.1101
+  },
+  {
+    "name": "Antônio Olinto",
+    "country": "BR",
+    "lat": -25.98611,
+    "lng": -50.19722
+  },
+  {
+    "name": "Antônio Dias",
+    "country": "BR",
+    "lat": -19.65278,
+    "lng": -42.87222
+  },
+  {
+    "name": "Antônio Carlos",
+    "country": "BR",
+    "lat": -27.51694,
+    "lng": -48.7675
+  },
+  {
+    "name": "Antônio Carlos",
+    "country": "BR",
+    "lat": -21.31806,
+    "lng": -43.74667
+  },
+  {
+    "name": "Antonina",
+    "country": "BR",
+    "lat": -25.42861,
+    "lng": -48.71194
+  },
+  {
+    "name": "Antas",
+    "country": "BR",
+    "lat": -10.41181,
+    "lng": -38.3312
+  },
+  {
+    "name": "Anta Gorda",
+    "country": "BR",
+    "lat": -28.97028,
+    "lng": -52.00472
+  },
+  {
+    "name": "Anitápolis",
+    "country": "BR",
+    "lat": -27.90194,
+    "lng": -49.12861
+  },
+  {
+    "name": "Anita Garibaldi",
+    "country": "BR",
+    "lat": -27.68917,
+    "lng": -51.13
+  },
+  {
+    "name": "Anicuns",
+    "country": "BR",
+    "lat": -16.46111,
+    "lng": -49.96167
+  },
+  {
+    "name": "Anhumas",
+    "country": "BR",
+    "lat": -22.29528,
+    "lng": -51.38722
+  },
+  {
+    "name": "Anhembi",
+    "country": "BR",
+    "lat": -22.78944,
+    "lng": -48.12722
+  },
+  {
+    "name": "Anguera",
+    "country": "BR",
+    "lat": -12.15111,
+    "lng": -39.24639
+  },
+  {
+    "name": "Angra dos Reis",
+    "country": "BR",
+    "lat": -23.00667,
+    "lng": -44.31806
+  },
+  {
+    "name": "Angical",
+    "country": "BR",
+    "lat": -12.00694,
+    "lng": -44.69444
+  },
+  {
+    "name": "Angelina",
+    "country": "BR",
+    "lat": -27.56861,
+    "lng": -48.98528
+  },
+  {
+    "name": "Angatuba",
+    "country": "BR",
+    "lat": -23.48972,
+    "lng": -48.41278
+  },
+  {
+    "name": "Andrelândia",
+    "country": "BR",
+    "lat": -21.73972,
+    "lng": -44.30917
+  },
+  {
+    "name": "André da Rocha",
+    "country": "BR",
+    "lat": -28.63056,
+    "lng": -51.57167
+  },
+  {
+    "name": "Andradina",
+    "country": "BR",
+    "lat": -20.89611,
+    "lng": -51.37944
+  },
+  {
+    "name": "Andradas",
+    "country": "BR",
+    "lat": -22.06806,
+    "lng": -46.56917
+  },
+  {
+    "name": "Andorinha",
+    "country": "BR",
+    "lat": -10.34472,
+    "lng": -39.83556
+  },
+  {
+    "name": "Andirá",
+    "country": "BR",
+    "lat": -23.05056,
+    "lng": -50.22889
+  },
+  {
+    "name": "Andaraí",
+    "country": "BR",
+    "lat": -12.80722,
+    "lng": -41.33139
+  },
+  {
+    "name": "Anchieta",
+    "country": "BR",
+    "lat": -26.53444,
+    "lng": -53.33139
+  },
+  {
+    "name": "Anchieta",
+    "country": "BR",
+    "lat": -20.80583,
+    "lng": -40.64556
+  },
+  {
+    "name": "Anaurilândia",
+    "country": "BR",
+    "lat": -22.1875,
+    "lng": -52.71778
+  },
+  {
+    "name": "Anastácio",
+    "country": "BR",
+    "lat": -20.48361,
+    "lng": -55.80694
+  },
+  {
+    "name": "Anápolis",
+    "country": "BR",
+    "lat": -16.32667,
+    "lng": -48.95278
+  },
+  {
+    "name": "Analândia",
+    "country": "BR",
+    "lat": -22.12639,
+    "lng": -47.66306
+  },
+  {
+    "name": "Anagé",
+    "country": "BR",
+    "lat": -14.61222,
+    "lng": -41.13556
+  },
+  {
+    "name": "Anori",
+    "country": "BR",
+    "lat": -3.77278,
+    "lng": -61.64417
+  },
+  {
+    "name": "Anamã",
+    "country": "BR",
+    "lat": -3.57972,
+    "lng": -61.40417
+  },
+  {
+    "name": "Anapu",
+    "country": "BR",
+    "lat": -3.47222,
+    "lng": -51.19778
+  },
+  {
+    "name": "Anísio de Abreu",
+    "country": "BR",
+    "lat": -9.18944,
+    "lng": -43.04583
+  },
+  {
+    "name": "Antônio Almeida",
+    "country": "BR",
+    "lat": -7.21917,
+    "lng": -44.1975
+  },
+  {
+    "name": "Antônio Cardoso",
+    "country": "BR",
+    "lat": -12.43528,
+    "lng": -39.11972
+  },
+  {
+    "name": "Antônio João",
+    "country": "BR",
+    "lat": -22.19111,
+    "lng": -55.9475
+  },
+  {
+    "name": "Anahy",
+    "country": "BR",
+    "lat": -24.64417,
+    "lng": -53.13472
+  },
+  {
+    "name": "Anhanguera",
+    "country": "BR",
+    "lat": -23.43088,
+    "lng": -46.79295
+  },
+  {
+    "name": "Angelândia",
+    "country": "BR",
+    "lat": -17.72716,
+    "lng": -42.27349
+  },
+  {
+    "name": "Andros Town",
+    "country": "BS",
+    "lat": 24.70502,
+    "lng": -77.76912
+  },
+  {
+    "name": "Antopal’",
+    "country": "BY",
+    "lat": 52.2038,
+    "lng": 24.7863
+  },
+  {
+    "name": "Ange-Gardien",
+    "country": "CA",
+    "lat": 45.35008,
+    "lng": -72.93244
+  },
+  {
+    "name": "Angus",
+    "country": "CA",
+    "lat": 44.31681,
+    "lng": -79.88295
+  },
+  {
+    "name": "Anmore",
+    "country": "CA",
+    "lat": 49.31637,
+    "lng": -122.85263
+  },
+  {
+    "name": "Antigonish",
+    "country": "CA",
+    "lat": 45.61685,
+    "lng": -61.99858
+  },
+  {
+    "name": "Ancaster",
+    "country": "CA",
+    "lat": 43.21806,
+    "lng": -79.98716
+  },
+  {
+    "name": "Annex",
+    "country": "CA",
+    "lat": 43.67159,
+    "lng": -79.404
+  },
+  {
+    "name": "Anahim Lake",
+    "country": "CA",
+    "lat": 52.46652,
+    "lng": -125.3066
+  },
+  {
+    "name": "Andelfingen",
+    "country": "CH",
+    "lat": 47.59447,
+    "lng": 8.67826
+  },
+  {
+    "name": "Anières",
+    "country": "CH",
+    "lat": 46.27673,
+    "lng": 6.22204
+  },
+  {
+    "name": "Andwil",
+    "country": "CH",
+    "lat": 47.43855,
+    "lng": 9.27436
+  },
+  {
+    "name": "Andermatt",
+    "country": "CH",
+    "lat": 46.63565,
+    "lng": 8.59388
+  },
+  {
+    "name": "Andokro",
+    "country": "CI",
+    "lat": 7.76098,
+    "lng": -5.03847
+  },
+  {
+    "name": "Anyanfoutou",
+    "country": "CI",
+    "lat": 7.20075,
+    "lng": -3.24777
+  },
+  {
+    "name": "Anyama",
+    "country": "CI",
+    "lat": 5.49462,
+    "lng": -4.05183
+  },
+  {
+    "name": "Anougbakro",
+    "country": "CI",
+    "lat": 6.96271,
+    "lng": -3.74453
+  },
+  {
+    "name": "Anoumabou",
+    "country": "CI",
+    "lat": 5.62144,
+    "lng": -5.10824
+  },
+  {
+    "name": "Anoumabo",
+    "country": "CI",
+    "lat": 7.09269,
+    "lng": -3.95327
+  },
+  {
+    "name": "Anoumaba",
+    "country": "CI",
+    "lat": 6.33735,
+    "lng": -4.51626
+  },
+  {
+    "name": "Andoufoué",
+    "country": "CI",
+    "lat": 7.38172,
+    "lng": -5.23963
+  },
+  {
+    "name": "Anno",
+    "country": "CI",
+    "lat": 5.85952,
+    "lng": -4.37902
+  },
+  {
+    "name": "Annékrou",
+    "country": "CI",
+    "lat": 6.75068,
+    "lng": -4.11128
+  },
+  {
+    "name": "Anialesso",
+    "country": "CI",
+    "lat": 6.52374,
+    "lng": -4.31897
+  },
+  {
+    "name": "Ania-Assikasso",
+    "country": "CI",
+    "lat": 7.10959,
+    "lng": -4.06571
+  },
+  {
+    "name": "Angovia",
+    "country": "CI",
+    "lat": 7.03305,
+    "lng": -5.53697
+  },
+  {
+    "name": "Angouassi",
+    "country": "CI",
+    "lat": 7.00139,
+    "lng": -5.40361
+  },
+  {
+    "name": "Angolokaha",
+    "country": "CI",
+    "lat": 8.51825,
+    "lng": -5.17567
+  },
+  {
+    "name": "Angobila",
+    "country": "CI",
+    "lat": 8.46979,
+    "lng": -3.56173
+  },
+  {
+    "name": "Angoakro",
+    "country": "CI",
+    "lat": 7.36099,
+    "lng": -4.31589
+  },
+  {
+    "name": "Angbavia",
+    "country": "CI",
+    "lat": 6.38643,
+    "lng": -5.01624
+  },
+  {
+    "name": "Angaye",
+    "country": "CI",
+    "lat": 9.59027,
+    "lng": -3.2891
+  },
+  {
+    "name": "Angamankro",
+    "country": "CI",
+    "lat": 7.49831,
+    "lng": -5.1747
+  },
+  {
+    "name": "Andobo",
+    "country": "CI",
+    "lat": 7.40299,
+    "lng": -5.29987
+  },
+  {
+    "name": "Andianou",
+    "country": "CI",
+    "lat": 7.02067,
+    "lng": -4.47278
+  },
+  {
+    "name": "Andé",
+    "country": "CI",
+    "lat": 6.78176,
+    "lng": -4.08517
+  },
+  {
+    "name": "Andé",
+    "country": "CI",
+    "lat": 6.04172,
+    "lng": -3.95376
+  },
+  {
+    "name": "Annépé",
+    "country": "CI",
+    "lat": 5.90612,
+    "lng": -3.76986
+  },
+  {
+    "name": "Ananguié",
+    "country": "CI",
+    "lat": 6.22299,
+    "lng": -3.77333
+  },
+  {
+    "name": "Ananda",
+    "country": "CI",
+    "lat": 7.28333,
+    "lng": -4.26667
+  },
+  {
+    "name": "Anamakro",
+    "country": "CI",
+    "lat": 7.35949,
+    "lng": -4.00119
+  },
+  {
+    "name": "Anakikro",
+    "country": "CI",
+    "lat": 7.56667,
+    "lng": -3.33333
+  },
+  {
+    "name": "Aniassué",
+    "country": "CI",
+    "lat": 6.65368,
+    "lng": -3.68103
+  },
+  {
+    "name": "Anglanou",
+    "country": "CI",
+    "lat": 6.29507,
+    "lng": -4.4842
+  },
+  {
+    "name": "Anna",
+    "country": "CI",
+    "lat": 5.32454,
+    "lng": -3.87876
+  },
+  {
+    "name": "Andou Mbatto",
+    "country": "CI",
+    "lat": 5.40489,
+    "lng": -3.657
+  },
+  {
+    "name": "Angboudjou",
+    "country": "CI",
+    "lat": 5.15408,
+    "lng": -3.20718
+  },
+  {
+    "name": "Anouanze Bokaha",
+    "country": "CI",
+    "lat": 7.00797,
+    "lng": -4.84151
+  },
+  {
+    "name": "Anga",
+    "country": "CI",
+    "lat": 5.2147,
+    "lng": -3.28774
+  },
+  {
+    "name": "Angoubékoua",
+    "country": "CI",
+    "lat": 5.67193,
+    "lng": -3.91018
+  },
+  {
+    "name": "Anonkro",
+    "country": "CI",
+    "lat": 5.57568,
+    "lng": -3.54932
+  },
+  {
+    "name": "Ancien-Prozi",
+    "country": "CI",
+    "lat": 7.66885,
+    "lng": -6.96881
+  },
+  {
+    "name": "Angagui",
+    "country": "CI",
+    "lat": 5.94737,
+    "lng": -6.81144
+  },
+  {
+    "name": "Aneykro",
+    "country": "CI",
+    "lat": 6.21718,
+    "lng": -3.31038
+  },
+  {
+    "name": "Anékouadiokro",
+    "country": "CI",
+    "lat": 6.6415,
+    "lng": -3.71434
+  },
+  {
+    "name": "Angan-Konankro",
+    "country": "CI",
+    "lat": 6.77765,
+    "lng": -4.89092
+  },
+  {
+    "name": "Angoda",
+    "country": "CI",
+    "lat": 6.67795,
+    "lng": -5.02275
+  },
+  {
+    "name": "Angoikoi",
+    "country": "CI",
+    "lat": 5.52705,
+    "lng": -3.87534
+  },
+  {
+    "name": "Ando-Zumé",
+    "country": "CI",
+    "lat": 7.27319,
+    "lng": -5.3474
+  },
+  {
+    "name": "Anonkoua",
+    "country": "CI",
+    "lat": 5.4273,
+    "lng": -4.04872
+  },
+  {
+    "name": "Antofagasta",
+    "country": "CL",
+    "lat": -23.65094,
+    "lng": -70.39752
+  },
+  {
+    "name": "Angol",
+    "country": "CL",
+    "lat": -37.79519,
+    "lng": -72.71636
+  },
+  {
+    "name": "Ancud",
+    "country": "CL",
+    "lat": -41.8707,
+    "lng": -73.81622
+  },
+  {
+    "name": "Anguo",
+    "country": "CN",
+    "lat": 34.83056,
+    "lng": 116.81944
+  },
+  {
+    "name": "Anyang",
+    "country": "CN",
+    "lat": 36.096,
+    "lng": 114.38278
+  },
+  {
+    "name": "Anling",
+    "country": "CN",
+    "lat": 34.1089,
+    "lng": 114.16983
+  },
+  {
+    "name": "Ansu",
+    "country": "CN",
+    "lat": 39.0175,
+    "lng": 115.65063
+  },
+  {
+    "name": "Ankang",
+    "country": "CN",
+    "lat": 32.68,
+    "lng": 109.01722
+  },
+  {
+    "name": "Anping",
+    "country": "CN",
+    "lat": 27.86639,
+    "lng": 110.11611
+  },
+  {
+    "name": "Anguo",
+    "country": "CN",
+    "lat": 38.42009,
+    "lng": 115.32357
+  },
+  {
+    "name": "Anning",
+    "country": "CN",
+    "lat": 24.92271,
+    "lng": 102.48496
+  },
+  {
+    "name": "Anci",
+    "country": "CN",
+    "lat": 39.4918,
+    "lng": 116.70358
+  },
+  {
+    "name": "Anxi",
+    "country": "CN",
+    "lat": 25.05706,
+    "lng": 118.18203
+  },
+  {
+    "name": "Anyuan",
+    "country": "CN",
+    "lat": 34.88083,
+    "lng": 105.27639
+  },
+  {
+    "name": "Anshun",
+    "country": "CN",
+    "lat": 26.25,
+    "lng": 105.93333
+  },
+  {
+    "name": "Anren Chengguanzhen",
+    "country": "CN",
+    "lat": 26.71413,
+    "lng": 113.26726
+  },
+  {
+    "name": "Anqiu",
+    "country": "CN",
+    "lat": 36.43417,
+    "lng": 119.1925
+  },
+  {
+    "name": "Anqing",
+    "country": "CN",
+    "lat": 30.51365,
+    "lng": 117.04723
+  },
+  {
+    "name": "Anping",
+    "country": "CN",
+    "lat": 38.23143,
+    "lng": 115.51108
+  },
+  {
+    "name": "Anping",
+    "country": "CN",
+    "lat": 30.96384,
+    "lng": 109.34504
+  },
+  {
+    "name": "Anmenkou",
+    "country": "CN",
+    "lat": 33.27783,
+    "lng": 105.6269
+  },
+  {
+    "name": "Anlu",
+    "country": "CN",
+    "lat": 31.2575,
+    "lng": 113.67833
+  },
+  {
+    "name": "Anlong",
+    "country": "CN",
+    "lat": 25.1,
+    "lng": 105.51667
+  },
+  {
+    "name": "Anliu",
+    "country": "CN",
+    "lat": 23.69824,
+    "lng": 115.67953
+  },
+  {
+    "name": "Anju",
+    "country": "CN",
+    "lat": 30.34956,
+    "lng": 105.45594
+  },
+  {
+    "name": "Anju",
+    "country": "CN",
+    "lat": 29.99066,
+    "lng": 106.03186
+  },
+  {
+    "name": "Anjiang",
+    "country": "CN",
+    "lat": 27.31944,
+    "lng": 110.10306
+  },
+  {
+    "name": "Anhua",
+    "country": "CN",
+    "lat": 33.50528,
+    "lng": 105.04782
+  },
+  {
+    "name": "Anfu",
+    "country": "CN",
+    "lat": 29.35937,
+    "lng": 105.46742
+  },
+  {
+    "name": "Andongwei",
+    "country": "CN",
+    "lat": 35.1294,
+    "lng": 119.276
+  },
+  {
+    "name": "Anbu",
+    "country": "CN",
+    "lat": 23.44895,
+    "lng": 116.68092
+  },
+  {
+    "name": "Anxi",
+    "country": "CN",
+    "lat": 29.56407,
+    "lng": 106.04199
+  },
+  {
+    "name": "Anfu",
+    "country": "CN",
+    "lat": 34.97278,
+    "lng": 105.63028
+  },
+  {
+    "name": "Anlan",
+    "country": "CN",
+    "lat": 29.24722,
+    "lng": 106.59417
+  },
+  {
+    "name": "Antu",
+    "country": "CN",
+    "lat": 43.10247,
+    "lng": 128.90848
+  },
+  {
+    "name": "Anshan",
+    "country": "CN",
+    "lat": 41.12361,
+    "lng": 122.99
+  },
+  {
+    "name": "Ang’angxi",
+    "country": "CN",
+    "lat": 47.15686,
+    "lng": 123.80643
+  },
+  {
+    "name": "Anda",
+    "country": "CN",
+    "lat": 46.44867,
+    "lng": 125.30161
+  },
+  {
+    "name": "Ansheng",
+    "country": "CN",
+    "lat": 30.69023,
+    "lng": 107.72087
+  },
+  {
+    "name": "Anzi",
+    "country": "CN",
+    "lat": 29.12789,
+    "lng": 108.47043
+  },
+  {
+    "name": "Anwen",
+    "country": "CN",
+    "lat": 28.68001,
+    "lng": 106.75651
+  },
+  {
+    "name": "Anxiang",
+    "country": "CN",
+    "lat": 38.38339,
+    "lng": 114.54046
+  },
+  {
+    "name": "Anning Xilu",
+    "country": "CN",
+    "lat": 36.1035,
+    "lng": 103.71928
+  },
+  {
+    "name": "Ankang",
+    "country": "CN",
+    "lat": 23.18254,
+    "lng": 99.74368
+  },
+  {
+    "name": "Anyang",
+    "country": "CN",
+    "lat": 36.23135,
+    "lng": 114.06906
+  },
+  {
+    "name": "Anle",
+    "country": "CN",
+    "lat": 22.56003,
+    "lng": 113.89962
+  },
+  {
+    "name": "Anle Garden",
+    "country": "CN",
+    "lat": 22.58182,
+    "lng": 113.89905
+  },
+  {
+    "name": "Anzoátegui",
+    "country": "CO",
+    "lat": 4.63087,
+    "lng": -75.0946
+  },
+  {
+    "name": "Anzá",
+    "country": "CO",
+    "lat": 6.30322,
+    "lng": -75.85381
+  },
+  {
+    "name": "Ansermanuevo",
+    "country": "CO",
+    "lat": 4.79722,
+    "lng": -75.995
+  },
+  {
+    "name": "Anserma",
+    "country": "CO",
+    "lat": 5.33278,
+    "lng": -75.79111
+  },
+  {
+    "name": "Anorí",
+    "country": "CO",
+    "lat": 7.07273,
+    "lng": -75.14768
+  },
+  {
+    "name": "Anolaima",
+    "country": "CO",
+    "lat": 4.76333,
+    "lng": -74.46472
+  },
+  {
+    "name": "Angostura",
+    "country": "CO",
+    "lat": 6.88508,
+    "lng": -75.33467
+  },
+  {
+    "name": "Angelópolis",
+    "country": "CO",
+    "lat": 6.11072,
+    "lng": -75.70923
+  },
+  {
+    "name": "Andes",
+    "country": "CO",
+    "lat": 5.6561,
+    "lng": -75.87877
+  },
+  {
+    "name": "Andalucía",
+    "country": "CO",
+    "lat": 4.17061,
+    "lng": -76.16641
+  },
+  {
+    "name": "Ancuya",
+    "country": "CO",
+    "lat": 1.2633,
+    "lng": -77.51376
+  },
+  {
+    "name": "Anapoima",
+    "country": "CO",
+    "lat": 4.55099,
+    "lng": -74.53517
+  },
+  {
+    "name": "Anaime",
+    "country": "CO",
+    "lat": 4.39639,
+    "lng": -75.445
+  },
+  {
+    "name": "Anserma",
+    "country": "CO",
+    "lat": 5.23479,
+    "lng": -75.78465
+  },
+  {
+    "name": "Antilla",
+    "country": "CU",
+    "lat": 20.83104,
+    "lng": -75.73566
+  },
+  {
+    "name": "Anzing",
+    "country": "DE",
+    "lat": 48.15171,
+    "lng": 11.8533
+  },
+  {
+    "name": "Antdorf",
+    "country": "DE",
+    "lat": 47.75133,
+    "lng": 11.30845
+  },
+  {
+    "name": "Ansbach",
+    "country": "DE",
+    "lat": 49.30481,
+    "lng": 10.5931
+  },
+  {
+    "name": "Anröchte",
+    "country": "DE",
+    "lat": 51.56667,
+    "lng": 8.33333
+  },
+  {
+    "name": "Annweiler am Trifels",
+    "country": "DE",
+    "lat": 49.20613,
+    "lng": 7.97527
+  },
+  {
+    "name": "Annaburg",
+    "country": "DE",
+    "lat": 51.73298,
+    "lng": 13.04729
+  },
+  {
+    "name": "Annaberg-Buchholz",
+    "country": "DE",
+    "lat": 50.57953,
+    "lng": 13.00627
+  },
+  {
+    "name": "Ankum",
+    "country": "DE",
+    "lat": 52.55,
+    "lng": 7.88333
+  },
+  {
+    "name": "Anklam",
+    "country": "DE",
+    "lat": 53.85637,
+    "lng": 13.68965
+  },
+  {
+    "name": "Anhausen",
+    "country": "DE",
+    "lat": 50.5,
+    "lng": 7.55
+  },
+  {
+    "name": "Angersdorf",
+    "country": "DE",
+    "lat": 51.46025,
+    "lng": 11.90705
+  },
+  {
+    "name": "Angern",
+    "country": "DE",
+    "lat": 52.35,
+    "lng": 11.73333
+  },
+  {
+    "name": "Angermünde",
+    "country": "DE",
+    "lat": 53.01499,
+    "lng": 13.99924
+  },
+  {
+    "name": "Andernach",
+    "country": "DE",
+    "lat": 50.43109,
+    "lng": 7.40425
+  },
+  {
+    "name": "Andechs",
+    "country": "DE",
+    "lat": 47.97464,
+    "lng": 11.18279
+  },
+  {
+    "name": "Antriftal",
+    "country": "DE",
+    "lat": 50.79381,
+    "lng": 9.18569
+  },
+  {
+    "name": "Ans",
+    "country": "DK",
+    "lat": 56.30712,
+    "lng": 9.59276
+  },
+  {
+    "name": "Annaba",
+    "country": "DZ",
+    "lat": 36.9,
+    "lng": 7.76667
+  },
+  {
+    "name": "Antonio José de Holguín",
+    "country": "EC",
+    "lat": -1.09798,
+    "lng": -78.60374
+  },
+  {
+    "name": "Antonio Sotomayor",
+    "country": "EC",
+    "lat": -1.64229,
+    "lng": -79.80217
+  },
+  {
+    "name": "Anchayacu",
+    "country": "EC",
+    "lat": 0.95464,
+    "lng": -79.05901
+  },
+  {
+    "name": "Antsla",
+    "country": "EE",
+    "lat": 57.82556,
+    "lng": 26.54056
+  },
+  {
+    "name": "An Nūbārīyah",
+    "country": "EG",
+    "lat": 30.6687,
+    "lng": 30.07391
+  },
+  {
+    "name": "An Nāşirīyah",
+    "country": "EG",
+    "lat": 27.20583,
+    "lng": 31.19639
+  },
+  {
+    "name": "An-Najaylah",
+    "country": "EG",
+    "lat": 31.4071,
+    "lng": 26.5832
+  },
+  {
+    "name": "Antigua",
+    "country": "ES",
+    "lat": 28.42307,
+    "lng": -14.01379
+  },
+  {
+    "name": "Antequera",
+    "country": "ES",
+    "lat": 37.01938,
+    "lng": -4.56123
+  },
+  {
+    "name": "Antella",
+    "country": "ES",
+    "lat": 39.07977,
+    "lng": -0.59195
+  },
+  {
+    "name": "Antas",
+    "country": "ES",
+    "lat": 37.24536,
+    "lng": -1.9176
+  },
+  {
+    "name": "Anna",
+    "country": "ES",
+    "lat": 39.02029,
+    "lng": -0.64621
+  },
+  {
+    "name": "Andújar",
+    "country": "ES",
+    "lat": 38.03922,
+    "lng": -4.05077
+  },
+  {
+    "name": "Andratx",
+    "country": "ES",
+    "lat": 39.57553,
+    "lng": 2.42017
+  },
+  {
+    "name": "Andilla",
+    "country": "ES",
+    "lat": 39.83333,
+    "lng": -0.8
+  },
+  {
+    "name": "Anchuras",
+    "country": "ES",
+    "lat": 39.48059,
+    "lng": -4.83381
+  },
+  {
+    "name": "Antzuola",
+    "country": "ES",
+    "lat": 43.09725,
+    "lng": -2.37998
+  },
+  {
+    "name": "Antillón",
+    "country": "ES",
+    "lat": 42.03639,
+    "lng": -0.16239
+  },
+  {
+    "name": "Antigüedad",
+    "country": "ES",
+    "lat": 41.94681,
+    "lng": -4.12058
+  },
+  {
+    "name": "Ansó",
+    "country": "ES",
+    "lat": 42.75785,
+    "lng": -0.82947
+  },
+  {
+    "name": "Anquela del Pedregal",
+    "country": "ES",
+    "lat": 40.74336,
+    "lng": -1.73697
+  },
+  {
+    "name": "Anquela del Ducado",
+    "country": "ES",
+    "lat": 40.97084,
+    "lng": -2.13066
+  },
+  {
+    "name": "Anoeta",
+    "country": "ES",
+    "lat": 43.16241,
+    "lng": -2.07107
+  },
+  {
+    "name": "Anguix",
+    "country": "ES",
+    "lat": 41.75331,
+    "lng": -3.93125
+  },
+  {
+    "name": "Anguita",
+    "country": "ES",
+    "lat": 41.02659,
+    "lng": -2.36849
+  },
+  {
+    "name": "Anguiano",
+    "country": "ES",
+    "lat": 42.26381,
+    "lng": -2.76463
+  },
+  {
+    "name": "Angüés",
+    "country": "ES",
+    "lat": 42.11109,
+    "lng": -0.15298
+  },
+  {
+    "name": "Anguciana",
+    "country": "ES",
+    "lat": 42.57421,
+    "lng": -2.90124
+  },
+  {
+    "name": "Anglesola",
+    "country": "ES",
+    "lat": 41.65649,
+    "lng": 1.08286
+  },
+  {
+    "name": "Anglès",
+    "country": "ES",
+    "lat": 41.95617,
+    "lng": 2.63603
+  },
+  {
+    "name": "Anento",
+    "country": "ES",
+    "lat": 41.06958,
+    "lng": -1.33375
+  },
+  {
+    "name": "Andosilla",
+    "country": "ES",
+    "lat": 42.38144,
+    "lng": -1.67305
+  },
+  {
+    "name": "Andorra",
+    "country": "ES",
+    "lat": 40.97655,
+    "lng": -0.44721
+  },
+  {
+    "name": "Andoain",
+    "country": "ES",
+    "lat": 43.21658,
+    "lng": -2.0253
+  },
+  {
+    "name": "Ancín",
+    "country": "ES",
+    "lat": 42.66047,
+    "lng": -2.18885
+  },
+  {
+    "name": "Anchuelo",
+    "country": "ES",
+    "lat": 40.46527,
+    "lng": -3.26838
+  },
+  {
+    "name": "Anaya de Alba",
+    "country": "ES",
+    "lat": 40.72828,
+    "lng": -5.49266
+  },
+  {
+    "name": "Anaya",
+    "country": "ES",
+    "lat": 40.99184,
+    "lng": -4.3095
+  },
+  {
+    "name": "Anadón",
+    "country": "ES",
+    "lat": 40.98225,
+    "lng": -0.98367
+  },
+  {
+    "name": "Andosilla",
+    "country": "ES",
+    "lat": 42.37729,
+    "lng": -1.94267
+  },
+  {
+    "name": "Anjala",
+    "country": "FI",
+    "lat": 60.68333,
+    "lng": 26.83333
+  },
+  {
+    "name": "Anzin-Saint-Aubin",
+    "country": "FR",
+    "lat": 50.31313,
+    "lng": 2.74732
+  },
+  {
+    "name": "Anzin",
+    "country": "FR",
+    "lat": 50.37201,
+    "lng": 3.50387
+  },
+  {
+    "name": "Antran",
+    "country": "FR",
+    "lat": 46.85489,
+    "lng": 0.54141
+  },
+  {
+    "name": "Antrain",
+    "country": "FR",
+    "lat": 48.46037,
+    "lng": -1.48463
+  },
+  {
+    "name": "Antony",
+    "country": "FR",
+    "lat": 48.75329,
+    "lng": 2.29668
+  },
+  {
+    "name": "Antonne",
+    "country": "FR",
+    "lat": 45.2126,
+    "lng": 0.82983
+  },
+  {
+    "name": "Antigny",
+    "country": "FR",
+    "lat": 46.61989,
+    "lng": -0.7692
+  },
+  {
+    "name": "Antibes",
+    "country": "FR",
+    "lat": 43.58127,
+    "lng": 7.12487
+  },
+  {
+    "name": "Anthy-sur-Léman",
+    "country": "FR",
+    "lat": 46.35534,
+    "lng": 6.42735
+  },
+  {
+    "name": "Anstaing",
+    "country": "FR",
+    "lat": 50.60473,
+    "lng": 3.19079
+  },
+  {
+    "name": "Ansouis",
+    "country": "FR",
+    "lat": 43.73771,
+    "lng": 5.46356
+  },
+  {
+    "name": "Anse",
+    "country": "FR",
+    "lat": 45.93553,
+    "lng": 4.71933
+  },
+  {
+    "name": "Ansauvillers",
+    "country": "FR",
+    "lat": 49.56523,
+    "lng": 2.38742
+  },
+  {
+    "name": "Anould",
+    "country": "FR",
+    "lat": 48.18526,
+    "lng": 6.94597
+  },
+  {
+    "name": "Anor",
+    "country": "FR",
+    "lat": 49.98999,
+    "lng": 4.10049
+  },
+  {
+    "name": "Annot",
+    "country": "FR",
+    "lat": 43.96528,
+    "lng": 6.66879
+  },
+  {
+    "name": "Annonay",
+    "country": "FR",
+    "lat": 45.23992,
+    "lng": 4.6707
+  },
+  {
+    "name": "Annoeullin",
+    "country": "FR",
+    "lat": 50.52925,
+    "lng": 2.9318
+  },
+  {
+    "name": "Annezin",
+    "country": "FR",
+    "lat": 50.53192,
+    "lng": 2.61785
+  },
+  {
+    "name": "Anneyron",
+    "country": "FR",
+    "lat": 45.2722,
+    "lng": 4.88626
+  },
+  {
+    "name": "Annet-sur-Marne",
+    "country": "FR",
+    "lat": 48.92669,
+    "lng": 2.71959
+  },
+  {
+    "name": "Annesse-et-Beaulieu",
+    "country": "FR",
+    "lat": 45.16416,
+    "lng": 0.57193
+  },
+  {
+    "name": "Annequin",
+    "country": "FR",
+    "lat": 50.50525,
+    "lng": 2.72019
+  },
+  {
+    "name": "Annemasse",
+    "country": "FR",
+    "lat": 46.19439,
+    "lng": 6.23775
+  },
+  {
+    "name": "Annecy-le-Vieux",
+    "country": "FR",
+    "lat": 45.91971,
+    "lng": 6.14393
+  },
+  {
+    "name": "Annecy",
+    "country": "FR",
+    "lat": 45.90878,
+    "lng": 6.12565
+  },
+  {
+    "name": "Annay",
+    "country": "FR",
+    "lat": 50.46303,
+    "lng": 2.88122
+  },
+  {
+    "name": "Anizy-le-Château",
+    "country": "FR",
+    "lat": 49.50678,
+    "lng": 3.45119
+  },
+  {
+    "name": "Aniche",
+    "country": "FR",
+    "lat": 50.32995,
+    "lng": 3.25346
+  },
+  {
+    "name": "Aniane",
+    "country": "FR",
+    "lat": 43.68561,
+    "lng": 3.5863
+  },
+  {
+    "name": "Anhiers",
+    "country": "FR",
+    "lat": 50.40737,
+    "lng": 3.15512
+  },
+  {
+    "name": "Angy",
+    "country": "FR",
+    "lat": 49.32975,
+    "lng": 2.32854
+  },
+  {
+    "name": "Angresse",
+    "country": "FR",
+    "lat": 43.65862,
+    "lng": -1.37242
+  },
+  {
+    "name": "Angres",
+    "country": "FR",
+    "lat": 50.40572,
+    "lng": 2.76054
+  },
+  {
+    "name": "Angoulins",
+    "country": "FR",
+    "lat": 46.10526,
+    "lng": -1.10713
+  },
+  {
+    "name": "Angoulême",
+    "country": "FR",
+    "lat": 45.64997,
+    "lng": 0.15345
+  },
+  {
+    "name": "Anglet",
+    "country": "FR",
+    "lat": 43.48921,
+    "lng": -1.51921
+  },
+  {
+    "name": "Angles",
+    "country": "FR",
+    "lat": 46.40818,
+    "lng": -1.40362
+  },
+  {
+    "name": "Angicourt",
+    "country": "FR",
+    "lat": 49.31175,
+    "lng": 2.50419
+  },
+  {
+    "name": "Angevillers",
+    "country": "FR",
+    "lat": 49.38815,
+    "lng": 6.0443
+  },
+  {
+    "name": "Angervilliers",
+    "country": "FR",
+    "lat": 48.59263,
+    "lng": 2.06541
+  },
+  {
+    "name": "Angerville-l'Orcher",
+    "country": "FR",
+    "lat": 49.58833,
+    "lng": 0.28191
+  },
+  {
+    "name": "Angerville",
+    "country": "FR",
+    "lat": 48.31354,
+    "lng": 1.99935
+  },
+  {
+    "name": "Angers",
+    "country": "FR",
+    "lat": 47.47156,
+    "lng": -0.55202
+  },
+  {
+    "name": "Anetz",
+    "country": "FR",
+    "lat": 47.38059,
+    "lng": -1.10583
+  },
+  {
+    "name": "Anet",
+    "country": "FR",
+    "lat": 48.85642,
+    "lng": 1.43981
+  },
+  {
+    "name": "Anduze",
+    "country": "FR",
+    "lat": 44.055,
+    "lng": 3.98495
+  },
+  {
+    "name": "Andrézieux-Bouthéon",
+    "country": "FR",
+    "lat": 45.52625,
+    "lng": 4.26021
+  },
+  {
+    "name": "Andrezé",
+    "country": "FR",
+    "lat": 47.17155,
+    "lng": -0.95239
+  },
+  {
+    "name": "Andrésy",
+    "country": "FR",
+    "lat": 48.98235,
+    "lng": 2.05687
+  },
+  {
+    "name": "Andrest",
+    "country": "FR",
+    "lat": 43.31683,
+    "lng": 0.0612
+  },
+  {
+    "name": "Andres",
+    "country": "FR",
+    "lat": 50.86556,
+    "lng": 1.92094
+  },
+  {
+    "name": "Andouillé",
+    "country": "FR",
+    "lat": 48.17686,
+    "lng": -0.78434
+  },
+  {
+    "name": "Andolsheim",
+    "country": "FR",
+    "lat": 48.06179,
+    "lng": 7.41637
+  },
+  {
+    "name": "Andlau",
+    "country": "FR",
+    "lat": 48.38607,
+    "lng": 7.41697
+  },
+  {
+    "name": "Andilly",
+    "country": "FR",
+    "lat": 49.00935,
+    "lng": 2.3024
+  },
+  {
+    "name": "Andilly",
+    "country": "FR",
+    "lat": 46.2533,
+    "lng": -1.02736
+  },
+  {
+    "name": "Andeville",
+    "country": "FR",
+    "lat": 49.26078,
+    "lng": 2.16427
+  },
+  {
+    "name": "Andernos-les-Bains",
+    "country": "FR",
+    "lat": 44.74572,
+    "lng": -1.10355
+  },
+  {
+    "name": "Andelnans",
+    "country": "FR",
+    "lat": 47.60267,
+    "lng": 6.86621
+  },
+  {
+    "name": "Andé",
+    "country": "FR",
+    "lat": 49.23163,
+    "lng": 1.24088
+  },
+  {
+    "name": "Andard",
+    "country": "FR",
+    "lat": 47.45659,
+    "lng": -0.39752
+  },
+  {
+    "name": "Andancette",
+    "country": "FR",
+    "lat": 45.24858,
+    "lng": 4.8086
+  },
+  {
+    "name": "Andance",
+    "country": "FR",
+    "lat": 45.24059,
+    "lng": 4.79916
+  },
+  {
+    "name": "Ancy-sur-Moselle",
+    "country": "FR",
+    "lat": 49.05689,
+    "lng": 6.05775
+  },
+  {
+    "name": "Ancy-le-Franc",
+    "country": "FR",
+    "lat": 47.77586,
+    "lng": 4.16361
+  },
+  {
+    "name": "Ancône",
+    "country": "FR",
+    "lat": 44.58107,
+    "lng": 4.72711
+  },
+  {
+    "name": "Ancerville",
+    "country": "FR",
+    "lat": 48.63574,
+    "lng": 5.02091
+  },
+  {
+    "name": "Ancenis",
+    "country": "FR",
+    "lat": 47.36667,
+    "lng": -1.16667
+  },
+  {
+    "name": "Antrim",
+    "country": "GB",
+    "lat": 54.7175,
+    "lng": -6.211
+  },
+  {
+    "name": "Anstruther",
+    "country": "GB",
+    "lat": 56.22345,
+    "lng": -2.70278
+  },
+  {
+    "name": "Anstey",
+    "country": "GB",
+    "lat": 52.67368,
+    "lng": -1.18841
+  },
+  {
+    "name": "Ansty",
+    "country": "GB",
+    "lat": 51.03639,
+    "lng": -2.06389
+  },
+  {
+    "name": "Annfield Plain",
+    "country": "GB",
+    "lat": 54.85749,
+    "lng": -1.73827
+  },
+  {
+    "name": "Annan",
+    "country": "GB",
+    "lat": 54.98839,
+    "lng": -3.25647
+  },
+  {
+    "name": "Annalong",
+    "country": "GB",
+    "lat": 54.10823,
+    "lng": -5.89966
+  },
+  {
+    "name": "Annahilt",
+    "country": "GB",
+    "lat": 54.43333,
+    "lng": -6.0
+  },
+  {
+    "name": "Andover",
+    "country": "GB",
+    "lat": 51.21135,
+    "lng": -1.49393
+  },
+  {
+    "name": "Ancroft",
+    "country": "GB",
+    "lat": 55.7,
+    "lng": -2.0
+  },
+  {
+    "name": "Ancaster",
+    "country": "GB",
+    "lat": 52.98276,
+    "lng": -0.53593
+  },
+  {
+    "name": "Anna Valley",
+    "country": "GB",
+    "lat": 51.19317,
+    "lng": -1.50719
+  },
+  {
+    "name": "Anaklia",
+    "country": "GE",
+    "lat": 42.39302,
+    "lng": 41.56227
+  },
+  {
+    "name": "Anloga",
+    "country": "GH",
+    "lat": 5.79473,
+    "lng": 0.89728
+  },
+  {
+    "name": "Anse-Bertrand",
+    "country": "GP",
+    "lat": 16.47239,
+    "lng": -61.50739
+  },
+  {
+    "name": "Ano Arhanes",
+    "country": "GR",
+    "lat": 35.23333,
+    "lng": 25.16667
+  },
+  {
+    "name": "Anthiró",
+    "country": "GR",
+    "lat": 39.34722,
+    "lng": 21.45833
+  },
+  {
+    "name": "Anthíli",
+    "country": "GR",
+    "lat": 38.85,
+    "lng": 22.47906
+  },
+  {
+    "name": "Anógeia",
+    "country": "GR",
+    "lat": 35.29084,
+    "lng": 24.88412
+  },
+  {
+    "name": "Anoixi",
+    "country": "GR",
+    "lat": 38.13267,
+    "lng": 23.85874
+  },
+  {
+    "name": "Angelókastro",
+    "country": "GR",
+    "lat": 38.56585,
+    "lng": 21.29631
+  },
+  {
+    "name": "Anéza",
+    "country": "GR",
+    "lat": 39.08658,
+    "lng": 20.923
+  },
+  {
+    "name": "Androúsa",
+    "country": "GR",
+    "lat": 37.11008,
+    "lng": 21.94343
+  },
+  {
+    "name": "Andros",
+    "country": "GR",
+    "lat": 37.8367,
+    "lng": 24.9367
+  },
+  {
+    "name": "Andravída",
+    "country": "GR",
+    "lat": 37.90588,
+    "lng": 21.26936
+  },
+  {
+    "name": "Antirrio",
+    "country": "GR",
+    "lat": 38.33014,
+    "lng": 21.76413
+  },
+  {
+    "name": "Antíparos",
+    "country": "GR",
+    "lat": 37.0394,
+    "lng": 25.08258
+  },
+  {
+    "name": "Antimácheia",
+    "country": "GR",
+    "lat": 36.80888,
+    "lng": 27.09764
+  },
+  {
+    "name": "Antikyra",
+    "country": "GR",
+    "lat": 38.38333,
+    "lng": 22.63333
+  },
+  {
+    "name": "Anávra",
+    "country": "GR",
+    "lat": 39.18996,
+    "lng": 22.09308
+  },
+  {
+    "name": "Anávyssos",
+    "country": "GR",
+    "lat": 37.73414,
+    "lng": 23.94389
+  },
+  {
+    "name": "Anatolí",
+    "country": "GR",
+    "lat": 39.63531,
+    "lng": 20.86578
+  },
+  {
+    "name": "Anáfi",
+    "country": "GR",
+    "lat": 36.35,
+    "lng": 25.76667
+  },
+  {
+    "name": "Angelochóri",
+    "country": "GR",
+    "lat": 40.67862,
+    "lng": 22.19933
+  },
+  {
+    "name": "Angelochóri",
+    "country": "GR",
+    "lat": 40.49717,
+    "lng": 22.8344
+  },
+  {
+    "name": "Anatolikó",
+    "country": "GR",
+    "lat": 40.66152,
+    "lng": 22.7119
+  },
+  {
+    "name": "Anaráchi",
+    "country": "GR",
+    "lat": 40.49234,
+    "lng": 21.57279
+  },
+  {
+    "name": "Anthoúsa",
+    "country": "GR",
+    "lat": 38.02544,
+    "lng": 23.87617
+  },
+  {
+    "name": "Anakasiá",
+    "country": "GR",
+    "lat": 39.38112,
+    "lng": 22.97484
+  },
+  {
+    "name": "Antigua Guatemala",
+    "country": "GT",
+    "lat": 14.55636,
+    "lng": -90.7332
+  },
+  {
+    "name": "Anao",
+    "country": "GU",
+    "lat": 13.5289,
+    "lng": 144.9182
+  },
+  {
+    "name": "Anna Regina",
+    "country": "GY",
+    "lat": 7.26555,
+    "lng": -58.48265
+  },
+  {
+    "name": "Antigua Ocotepeque",
+    "country": "HN",
+    "lat": 14.40131,
+    "lng": -89.19971
+  },
+  {
+    "name": "Antunovac",
+    "country": "HR",
+    "lat": 45.49083,
+    "lng": 18.675
+  },
+  {
+    "name": "Andrijaševci",
+    "country": "HR",
+    "lat": 45.22472,
+    "lng": 18.73806
+  },
+  {
+    "name": "Anse Rouge",
+    "country": "HT",
+    "lat": 19.63382,
+    "lng": -73.0553
+  },
+  {
+    "name": "Anse-à-Veau",
+    "country": "HT",
+    "lat": 18.5011,
+    "lng": -73.3449
+  },
+  {
+    "name": "Anse-à-Pitre",
+    "country": "HT",
+    "lat": 18.05,
+    "lng": -71.75
+  },
+  {
+    "name": "Anse à Galets",
+    "country": "HT",
+    "lat": 18.83449,
+    "lng": -72.86644
+  },
+  {
+    "name": "Andornaktálya",
+    "country": "HU",
+    "lat": 47.85,
+    "lng": 20.41667
+  },
+  {
+    "name": "Anarcs",
+    "country": "HU",
+    "lat": 48.17642,
+    "lng": 22.11167
+  },
+  {
+    "name": "Angyalföld",
+    "country": "HU",
+    "lat": 47.54765,
+    "lng": 19.07973
+  },
+  {
+    "name": "Ansus",
+    "country": "ID",
+    "lat": -1.7256,
+    "lng": 135.8115
+  },
+  {
+    "name": "Ankola",
+    "country": "ID",
+    "lat": -7.3071,
+    "lng": 107.1272
+  },
+  {
+    "name": "Anggana",
+    "country": "ID",
+    "lat": -0.5705,
+    "lng": 117.2844
+  },
+  {
+    "name": "Andoolo",
+    "country": "ID",
+    "lat": -4.3273,
+    "lng": 122.2522
+  },
+  {
+    "name": "Angkup",
+    "country": "ID",
+    "lat": 4.6216,
+    "lng": 96.7228
+  },
+  {
+    "name": "Anyar",
+    "country": "ID",
+    "lat": -8.2301,
+    "lng": 116.425
+  },
+  {
+    "name": "Angan",
+    "country": "ID",
+    "lat": 5.60572,
+    "lng": 95.39144
+  },
+  {
+    "name": "Angkimang",
+    "country": "ID",
+    "lat": -2.7344,
+    "lng": 115.3101
+  },
+  {
+    "name": "Anjirserapat",
+    "country": "ID",
+    "lat": -3.0391,
+    "lng": 114.3845
+  },
+  {
+    "name": "Anjirmuara",
+    "country": "ID",
+    "lat": -3.1973,
+    "lng": 114.5667
+  },
+  {
+    "name": "An Ros",
+    "country": "IE",
+    "lat": 53.52424,
+    "lng": -6.10497
+  },
+  {
+    "name": "An Muileann gCearr",
+    "country": "IE",
+    "lat": 53.52466,
+    "lng": -7.3385
+  },
+  {
+    "name": "Annacotty",
+    "country": "IE",
+    "lat": 52.66768,
+    "lng": -8.53121
+  },
+  {
+    "name": "Andreas",
+    "country": "IM",
+    "lat": 54.36667,
+    "lng": -4.43333
+  },
+  {
+    "name": "Anūpshahr",
+    "country": "IN",
+    "lat": 28.35748,
+    "lng": 78.26914
+  },
+  {
+    "name": "Anūppur",
+    "country": "IN",
+    "lat": 23.10344,
+    "lng": 81.69083
+  },
+  {
+    "name": "Anūpgarh",
+    "country": "IN",
+    "lat": 29.19111,
+    "lng": 73.20861
+  },
+  {
+    "name": "Antu",
+    "country": "IN",
+    "lat": 26.05654,
+    "lng": 81.90267
+  },
+  {
+    "name": "Antri",
+    "country": "IN",
+    "lat": 26.05804,
+    "lng": 78.21027
+  },
+  {
+    "name": "Antāgarh",
+    "country": "IN",
+    "lat": 20.09256,
+    "lng": 81.1586
+  },
+  {
+    "name": "Anta",
+    "country": "IN",
+    "lat": 25.15,
+    "lng": 76.3
+  },
+  {
+    "name": "Anshing",
+    "country": "IN",
+    "lat": 20.0409,
+    "lng": 77.31501
+  },
+  {
+    "name": "Annur",
+    "country": "IN",
+    "lat": 11.23616,
+    "lng": 77.10514
+  },
+  {
+    "name": "Annigeri",
+    "country": "IN",
+    "lat": 15.42513,
+    "lng": 75.4335
+  },
+  {
+    "name": "Annavāsal",
+    "country": "IN",
+    "lat": 10.4606,
+    "lng": 78.70029
+  },
+  {
+    "name": "Annāmalainagar",
+    "country": "IN",
+    "lat": 11.4,
+    "lng": 79.73333
+  },
+  {
+    "name": "Ankola",
+    "country": "IN",
+    "lat": 14.66049,
+    "lng": 74.3047
+  },
+  {
+    "name": "Ankleshwar",
+    "country": "IN",
+    "lat": 21.63236,
+    "lng": 72.99001
+  },
+  {
+    "name": "Anjuna",
+    "country": "IN",
+    "lat": 15.58005,
+    "lng": 73.74487
+  },
+  {
+    "name": "Anjār",
+    "country": "IN",
+    "lat": 23.11316,
+    "lng": 70.02671
+  },
+  {
+    "name": "Anjanvel",
+    "country": "IN",
+    "lat": 17.55104,
+    "lng": 73.14567
+  },
+  {
+    "name": "Anjangaon",
+    "country": "IN",
+    "lat": 21.16516,
+    "lng": 77.3091
+  },
+  {
+    "name": "Anjad",
+    "country": "IN",
+    "lat": 22.04171,
+    "lng": 75.05519
+  },
+  {
+    "name": "Angul",
+    "country": "IN",
+    "lat": 20.84089,
+    "lng": 85.10192
+  },
+  {
+    "name": "Angamāli",
+    "country": "IN",
+    "lat": 10.19055,
+    "lng": 76.38789
+  },
+  {
+    "name": "Anekal",
+    "country": "IN",
+    "lat": 12.7111,
+    "lng": 77.69557
+  },
+  {
+    "name": "Andol",
+    "country": "IN",
+    "lat": 17.81458,
+    "lng": 78.07713
+  },
+  {
+    "name": "Anthiyur",
+    "country": "IN",
+    "lat": 11.57506,
+    "lng": 77.59043
+  },
+  {
+    "name": "Anantnag",
+    "country": "IN",
+    "lat": 33.73068,
+    "lng": 75.15418
+  },
+  {
+    "name": "Anantapur",
+    "country": "IN",
+    "lat": 14.67784,
+    "lng": 77.60813
+  },
+  {
+    "name": "Anandpur",
+    "country": "IN",
+    "lat": 31.23926,
+    "lng": 76.50253
+  },
+  {
+    "name": "Anandpur",
+    "country": "IN",
+    "lat": 21.21411,
+    "lng": 86.12492
+  },
+  {
+    "name": "Anandnagar",
+    "country": "IN",
+    "lat": 27.10062,
+    "lng": 83.27156
+  },
+  {
+    "name": "Anand",
+    "country": "IN",
+    "lat": 22.55251,
+    "lng": 72.9552
+  },
+  {
+    "name": "Anakapalle",
+    "country": "IN",
+    "lat": 17.69134,
+    "lng": 83.00395
+  },
+  {
+    "name": "Anaimalai",
+    "country": "IN",
+    "lat": 10.58303,
+    "lng": 76.93441
+  },
+  {
+    "name": "Anwaram",
+    "country": "IN",
+    "lat": 17.63297,
+    "lng": 78.37953
+  },
+  {
+    "name": "Anjūr",
+    "country": "IN",
+    "lat": 10.59169,
+    "lng": 76.15449
+  },
+  {
+    "name": "Anakaputhur",
+    "country": "IN",
+    "lat": 12.9828,
+    "lng": 80.1264
+  },
+  {
+    "name": "Anjani Khurd",
+    "country": "IN",
+    "lat": 20.06688,
+    "lng": 76.47855
+  },
+  {
+    "name": "Anwāri",
+    "country": "IN",
+    "lat": 25.15324,
+    "lng": 83.62295
+  },
+  {
+    "name": "Andipalayam",
+    "country": "IN",
+    "lat": 11.09246,
+    "lng": 77.31225
+  },
+  {
+    "name": "Anklav",
+    "country": "IN",
+    "lat": 22.37738,
+    "lng": 73.00072
+  },
+  {
+    "name": "Anjugramam",
+    "country": "IN",
+    "lat": 8.15437,
+    "lng": 77.57807
+  },
+  {
+    "name": "Anantapuram",
+    "country": "IN",
+    "lat": 12.11861,
+    "lng": 79.3822
+  },
+  {
+    "name": "Annāl Agrahāram",
+    "country": "IN",
+    "lat": 10.94854,
+    "lng": 79.36826
+  },
+  {
+    "name": "Anuppānadi",
+    "country": "IN",
+    "lat": 9.90396,
+    "lng": 78.14326
+  },
+  {
+    "name": "Anjani Budruk",
+    "country": "IN",
+    "lat": 20.17216,
+    "lng": 76.64777
+  },
+  {
+    "name": "Andrott",
+    "country": "IN",
+    "lat": 10.81186,
+    "lng": 73.67408
+  },
+  {
+    "name": "Anini",
+    "country": "IN",
+    "lat": 28.79792,
+    "lng": 95.90228
+  },
+  {
+    "name": "Anand Nagar",
+    "country": "IN",
+    "lat": 26.22405,
+    "lng": 90.22655
+  },
+  {
+    "name": "Antaliya",
+    "country": "IN",
+    "lat": 20.76532,
+    "lng": 72.99066
+  },
+  {
+    "name": "Antarjal",
+    "country": "IN",
+    "lat": 23.05445,
+    "lng": 70.08306
+  },
+  {
+    "name": "Anandpar",
+    "country": "IN",
+    "lat": 22.322,
+    "lng": 70.84556
+  },
+  {
+    "name": "Andada",
+    "country": "IN",
+    "lat": 21.65588,
+    "lng": 73.02151
+  },
+  {
+    "name": "Anklesvar INA",
+    "country": "IN",
+    "lat": 21.61675,
+    "lng": 73.02759
+  },
+  {
+    "name": "Anthicad",
+    "country": "IN",
+    "lat": 10.45838,
+    "lng": 76.12148
+  },
+  {
+    "name": "Ancharakandy",
+    "country": "IN",
+    "lat": 11.8841,
+    "lng": 75.48501
+  },
+  {
+    "name": "Anantpur",
+    "country": "IN",
+    "lat": 19.93289,
+    "lng": 75.01235
+  },
+  {
+    "name": "Andro",
+    "country": "IN",
+    "lat": 24.74854,
+    "lng": 94.04296
+  },
+  {
+    "name": "Anjira",
+    "country": "IN",
+    "lat": 20.82644,
+    "lng": 86.03353
+  },
+  {
+    "name": "Anuppankulam",
+    "country": "IN",
+    "lat": 9.41941,
+    "lng": 77.84303
+  },
+  {
+    "name": "Anandanagar",
+    "country": "IN",
+    "lat": 23.8087,
+    "lng": 91.31299
+  },
+  {
+    "name": "An Nu‘mānīyah",
+    "country": "IQ",
+    "lat": 32.55621,
+    "lng": 45.41293
+  },
+  {
+    "name": "Anārestān",
+    "country": "IR",
+    "lat": 28.0307,
+    "lng": 52.06186
+  },
+  {
+    "name": "Anūch",
+    "country": "IR",
+    "lat": 34.10829,
+    "lng": 48.57375
+  },
+  {
+    "name": "Andīmeshk",
+    "country": "IR",
+    "lat": 32.4615,
+    "lng": 48.35368
+  },
+  {
+    "name": "Andarvar",
+    "country": "IR",
+    "lat": 36.58239,
+    "lng": 51.73466
+  },
+  {
+    "name": "Anār",
+    "country": "IR",
+    "lat": 30.87066,
+    "lng": 55.27025
+  },
+  {
+    "name": "Andīsheh",
+    "country": "IR",
+    "lat": 35.74708,
+    "lng": 51.27739
+  },
+  {
+    "name": "Antonimina",
+    "country": "IT",
+    "lat": 38.27298,
+    "lng": 16.14824
+  },
+  {
+    "name": "Antillo",
+    "country": "IT",
+    "lat": 37.97937,
+    "lng": 15.24029
+  },
+  {
+    "name": "Anoia Superiore",
+    "country": "IT",
+    "lat": 38.43144,
+    "lng": 16.0974
+  },
+  {
+    "name": "Anoia Inferiore",
+    "country": "IT",
+    "lat": 38.43618,
+    "lng": 16.0794
+  },
+  {
+    "name": "Andrano",
+    "country": "IT",
+    "lat": 39.98546,
+    "lng": 18.38232
+  },
+  {
+    "name": "Andali",
+    "country": "IT",
+    "lat": 39.01281,
+    "lng": 16.76926
+  },
+  {
+    "name": "Anzola d'Ossola",
+    "country": "IT",
+    "lat": 45.98897,
+    "lng": 8.34531
+  },
+  {
+    "name": "Anzola dell'Emilia",
+    "country": "IT",
+    "lat": 44.54197,
+    "lng": 11.20548
+  },
+  {
+    "name": "Anzio",
+    "country": "IT",
+    "lat": 41.45263,
+    "lng": 12.62157
+  },
+  {
+    "name": "Anzi",
+    "country": "IT",
+    "lat": 40.51662,
+    "lng": 15.92457
+  },
+  {
+    "name": "Anzano di Puglia",
+    "country": "IT",
+    "lat": 41.12162,
+    "lng": 15.28688
+  },
+  {
+    "name": "Anzano del Parco",
+    "country": "IT",
+    "lat": 45.77006,
+    "lng": 9.19752
+  },
+  {
+    "name": "Anversa degli Abruzzi",
+    "country": "IT",
+    "lat": 41.99478,
+    "lng": 13.80379
+  },
+  {
+    "name": "Antronapiana",
+    "country": "IT",
+    "lat": 46.06091,
+    "lng": 8.11519
+  },
+  {
+    "name": "Antrodoco",
+    "country": "IT",
+    "lat": 42.41498,
+    "lng": 13.07673
+  },
+  {
+    "name": "Anticoli Corrado",
+    "country": "IT",
+    "lat": 42.00801,
+    "lng": 12.99049
+  },
+  {
+    "name": "Antey-Saint-Andrè",
+    "country": "IT",
+    "lat": 45.80603,
+    "lng": 7.58666
+  },
+  {
+    "name": "Anterivo",
+    "country": "IT",
+    "lat": 46.2781,
+    "lng": 11.36665
+  },
+  {
+    "name": "Antella",
+    "country": "IT",
+    "lat": 43.72774,
+    "lng": 11.32233
+  },
+  {
+    "name": "Antegnate",
+    "country": "IT",
+    "lat": 45.48648,
+    "lng": 9.79146
+  },
+  {
+    "name": "Annone Veneto",
+    "country": "IT",
+    "lat": 45.78965,
+    "lng": 12.68646
+  },
+  {
+    "name": "Annone di Brianza",
+    "country": "IT",
+    "lat": 45.80216,
+    "lng": 9.33119
+  },
+  {
+    "name": "Annicco",
+    "country": "IT",
+    "lat": 45.24344,
+    "lng": 9.87905
+  },
+  {
+    "name": "Anitrella-Chiaiamari",
+    "country": "IT",
+    "lat": 41.63825,
+    "lng": 13.54835
+  },
+  {
+    "name": "Anguillara Veneta",
+    "country": "IT",
+    "lat": 45.14249,
+    "lng": 11.88461
+  },
+  {
+    "name": "Anguillara Sabazia",
+    "country": "IT",
+    "lat": 42.0792,
+    "lng": 12.28368
+  },
+  {
+    "name": "Angri",
+    "country": "IT",
+    "lat": 40.73815,
+    "lng": 14.5707
+  },
+  {
+    "name": "Angolo Terme",
+    "country": "IT",
+    "lat": 45.89168,
+    "lng": 10.14963
+  },
+  {
+    "name": "Anghiari",
+    "country": "IT",
+    "lat": 43.54104,
+    "lng": 12.05832
+  },
+  {
+    "name": "Angera",
+    "country": "IT",
+    "lat": 45.77555,
+    "lng": 8.57861
+  },
+  {
+    "name": "Anfo",
+    "country": "IT",
+    "lat": 45.76575,
+    "lng": 10.49382
+  },
+  {
+    "name": "Anela",
+    "country": "IT",
+    "lat": 40.44176,
+    "lng": 9.05743
+  },
+  {
+    "name": "Anduins",
+    "country": "IT",
+    "lat": 46.23311,
+    "lng": 12.95829
+  },
+  {
+    "name": "Andria",
+    "country": "IT",
+    "lat": 41.23117,
+    "lng": 16.29797
+  },
+  {
+    "name": "Andretta-Mattinella",
+    "country": "IT",
+    "lat": 40.93742,
+    "lng": 15.32485
+  },
+  {
+    "name": "Andreis",
+    "country": "IT",
+    "lat": 46.20146,
+    "lng": 12.61448
+  },
+  {
+    "name": "Andrate",
+    "country": "IT",
+    "lat": 45.52633,
+    "lng": 7.88145
+  },
+  {
+    "name": "Andorno Cacciorna",
+    "country": "IT",
+    "lat": 45.61054,
+    "lng": 8.05589
+  },
+  {
+    "name": "Andezeno",
+    "country": "IT",
+    "lat": 45.03376,
+    "lng": 7.86607
+  },
+  {
+    "name": "Andalo",
+    "country": "IT",
+    "lat": 46.16649,
+    "lng": 11.00432
+  },
+  {
+    "name": "Ancona",
+    "country": "IT",
+    "lat": 43.60717,
+    "lng": 13.5103
+  },
+  {
+    "name": "Anchione",
+    "country": "IT",
+    "lat": 43.82612,
+    "lng": 10.75844
+  },
+  {
+    "name": "Ancarano",
+    "country": "IT",
+    "lat": 42.83767,
+    "lng": 13.74662
+  },
+  {
+    "name": "Anagni",
+    "country": "IT",
+    "lat": 41.7435,
+    "lng": 13.15542
+  },
+  {
+    "name": "Anacapri",
+    "country": "IT",
+    "lat": 40.5517,
+    "lng": 14.21225
+  },
+  {
+    "name": "Andora",
+    "country": "IT",
+    "lat": 43.95514,
+    "lng": 8.14121
+  },
+  {
+    "name": "Angiari",
+    "country": "IT",
+    "lat": 45.22318,
+    "lng": 11.2768
+  },
+  {
+    "name": "Andriano",
+    "country": "IT",
+    "lat": 46.51762,
+    "lng": 11.23137
+  },
+  {
+    "name": "Antrona Schieranco",
+    "country": "IT",
+    "lat": 46.06038,
+    "lng": 8.11461
+  },
+  {
+    "name": "Antignano",
+    "country": "IT",
+    "lat": 44.84535,
+    "lng": 8.13494
+  },
+  {
+    "name": "Angrogna",
+    "country": "IT",
+    "lat": 44.84354,
+    "lng": 7.22422
+  },
+  {
+    "name": "Andalo Valtellino",
+    "country": "IT",
+    "lat": 46.13599,
+    "lng": 9.47384
+  },
+  {
+    "name": "Andreotta",
+    "country": "IT",
+    "lat": 39.3075,
+    "lng": 16.2177
+  },
+  {
+    "name": "Annunziata",
+    "country": "IT",
+    "lat": 41.121,
+    "lng": 14.36518
+  },
+  {
+    "name": "Antessano",
+    "country": "IT",
+    "lat": 40.73293,
+    "lng": 14.77744
+  },
+  {
+    "name": "Antagnod",
+    "country": "IT",
+    "lat": 45.81484,
+    "lng": 7.68931
+  },
+  {
+    "name": "Annotto Bay",
+    "country": "JM",
+    "lat": 18.2717,
+    "lng": -76.76523
+  },
+  {
+    "name": "Anchovy",
+    "country": "JM",
+    "lat": 18.4103,
+    "lng": -77.93166
+  },
+  {
+    "name": "Annaka",
+    "country": "JP",
+    "lat": 36.33011,
+    "lng": 138.89585
+  },
+  {
+    "name": "Anjō",
+    "country": "JP",
+    "lat": 34.95828,
+    "lng": 137.08054
+  },
+  {
+    "name": "Anan",
+    "country": "JP",
+    "lat": 33.91667,
+    "lng": 134.65
+  },
+  {
+    "name": "Anamizu",
+    "country": "JP",
+    "lat": 37.23333,
+    "lng": 136.9
+  },
+  {
+    "name": "Anpachi",
+    "country": "JP",
+    "lat": 35.33539,
+    "lng": 136.66541
+  },
+  {
+    "name": "Andarak",
+    "country": "KG",
+    "lat": 39.76849,
+    "lng": 69.46398
+  },
+  {
+    "name": "Andoung Khmaer",
+    "country": "KH",
+    "lat": 10.60689,
+    "lng": 104.17419
+  },
+  {
+    "name": "Anlong Phe",
+    "country": "KH",
+    "lat": 13.53631,
+    "lng": 105.60907
+  },
+  {
+    "name": "Anlong Run",
+    "country": "KH",
+    "lat": 13.16709,
+    "lng": 103.02527
+  },
+  {
+    "name": "Anlong Romiet",
+    "country": "KH",
+    "lat": 11.4222,
+    "lng": 104.80271
+  },
+  {
+    "name": "Anhchanh Rung",
+    "country": "KH",
+    "lat": 12.35209,
+    "lng": 104.42551
+  },
+  {
+    "name": "Angkoul",
+    "country": "KH",
+    "lat": 10.46701,
+    "lng": 104.38554
+  },
+  {
+    "name": "Angkor Sar",
+    "country": "KH",
+    "lat": 11.25152,
+    "lng": 105.62256
+  },
+  {
+    "name": "Angkor Angk",
+    "country": "KH",
+    "lat": 11.16057,
+    "lng": 105.31443
+  },
+  {
+    "name": "Andoung Trabaek",
+    "country": "KH",
+    "lat": 11.58003,
+    "lng": 105.76523
+  },
+  {
+    "name": "Andoung Pou",
+    "country": "KH",
+    "lat": 12.28309,
+    "lng": 105.12236
+  },
+  {
+    "name": "Anlong Veaeng",
+    "country": "KH",
+    "lat": 14.23223,
+    "lng": 104.08107
+  },
+  {
+    "name": "Andaeuk Haeb",
+    "country": "KH",
+    "lat": 12.85926,
+    "lng": 102.97177
+  },
+  {
+    "name": "Anlong Reab",
+    "country": "KH",
+    "lat": 12.27909,
+    "lng": 103.01656
+  },
+  {
+    "name": "Angkor Meas",
+    "country": "KH",
+    "lat": 10.76895,
+    "lng": 104.3763
+  },
+  {
+    "name": "Anlong Thnaot",
+    "country": "KH",
+    "lat": 12.528,
+    "lng": 104.1999
+  },
+  {
+    "name": "Andoung Meas",
+    "country": "KH",
+    "lat": 13.86724,
+    "lng": 107.29682
+  },
+  {
+    "name": "Andoung Thma",
+    "country": "KH",
+    "lat": 10.66993,
+    "lng": 103.79704
+  },
+  {
+    "name": "Angkor Thum",
+    "country": "KH",
+    "lat": 13.48339,
+    "lng": 103.87413
+  },
+  {
+    "name": "Angkor Chum",
+    "country": "KH",
+    "lat": 13.68385,
+    "lng": 103.6479
+  },
+  {
+    "name": "Antsahé",
+    "country": "KM",
+    "lat": -12.35639,
+    "lng": 44.5225
+  },
+  {
+    "name": "Anju",
+    "country": "KP",
+    "lat": 39.61778,
+    "lng": 125.66472
+  },
+  {
+    "name": "Anbyŏn-ŭp",
+    "country": "KP",
+    "lat": 39.0425,
+    "lng": 127.52389
+  },
+  {
+    "name": "Anak",
+    "country": "KP",
+    "lat": 38.51083,
+    "lng": 125.49417
+  },
+  {
+    "name": "Anyang-si",
+    "country": "KR",
+    "lat": 37.3925,
+    "lng": 126.92694
+  },
+  {
+    "name": "Anseong",
+    "country": "KR",
+    "lat": 37.01083,
+    "lng": 127.27028
+  },
+  {
+    "name": "Ansan-si",
+    "country": "KR",
+    "lat": 37.32361,
+    "lng": 126.82194
+  },
+  {
+    "name": "Andong",
+    "country": "KR",
+    "lat": 36.56636,
+    "lng": 128.72275
+  },
+  {
+    "name": "Annae",
+    "country": "KR",
+    "lat": 36.39435,
+    "lng": 127.66031
+  },
+  {
+    "name": "Annam",
+    "country": "KR",
+    "lat": 36.3568,
+    "lng": 127.67282
+  },
+  {
+    "name": "Anse La Raye",
+    "country": "LC",
+    "lat": 13.94619,
+    "lng": -61.03879
+  },
+  {
+    "name": "Anse Ger",
+    "country": "LC",
+    "lat": 13.79775,
+    "lng": -60.9164
+  },
+  {
+    "name": "Anuradhapura",
+    "country": "LK",
+    "lat": 8.31223,
+    "lng": 80.41306
+  },
+  {
+    "name": "Anykščiai",
+    "country": "LT",
+    "lat": 55.52557,
+    "lng": 25.10264
+  },
+  {
+    "name": "Antakalnis",
+    "country": "LT",
+    "lat": 54.70781,
+    "lng": 25.31706
+  },
+  {
+    "name": "An Nāşirīyah",
+    "country": "LY",
+    "lat": 32.63278,
+    "lng": 12.87361
+  },
+  {
+    "name": "Anergui",
+    "country": "MA",
+    "lat": 32.06914,
+    "lng": -5.93961
+  },
+  {
+    "name": "Anenii Noi",
+    "country": "MD",
+    "lat": 46.87795,
+    "lng": 29.23503
+  },
+  {
+    "name": "Andrijevica",
+    "country": "ME",
+    "lat": 42.73389,
+    "lng": 19.79194
+  },
+  {
+    "name": "Antsohimbondrona",
+    "country": "MG",
+    "lat": -13.08333,
+    "lng": 48.85
+  },
+  {
+    "name": "Antsohihy",
+    "country": "MG",
+    "lat": -14.87959,
+    "lng": 47.98751
+  },
+  {
+    "name": "Antsiranana",
+    "country": "MG",
+    "lat": -12.31732,
+    "lng": 49.29188
+  },
+  {
+    "name": "Antsirabe Afovoany",
+    "country": "MG",
+    "lat": -15.95,
+    "lng": 48.96667
+  },
+  {
+    "name": "Antsirabe",
+    "country": "MG",
+    "lat": -19.86586,
+    "lng": 47.03333
+  },
+  {
+    "name": "Antsalova",
+    "country": "MG",
+    "lat": -18.66667,
+    "lng": 44.61667
+  },
+  {
+    "name": "Antanimena",
+    "country": "MG",
+    "lat": -23.55,
+    "lng": 44.1
+  },
+  {
+    "name": "Antanifotsy",
+    "country": "MG",
+    "lat": -19.65,
+    "lng": 47.31667
+  },
+  {
+    "name": "Antananarivo",
+    "country": "MG",
+    "lat": -18.91368,
+    "lng": 47.53613
+  },
+  {
+    "name": "Antalaha",
+    "country": "MG",
+    "lat": -14.90033,
+    "lng": 50.27876
+  },
+  {
+    "name": "Antakotako",
+    "country": "MG",
+    "lat": -15.31667,
+    "lng": 49.8
+  },
+  {
+    "name": "Ankazondandy",
+    "country": "MG",
+    "lat": -18.7,
+    "lng": 47.78333
+  },
+  {
+    "name": "Ankazobe",
+    "country": "MG",
+    "lat": -18.31667,
+    "lng": 47.11667
+  },
+  {
+    "name": "Ankazoabo",
+    "country": "MG",
+    "lat": -22.28333,
+    "lng": 44.51667
+  },
+  {
+    "name": "Anjozorobe",
+    "country": "MG",
+    "lat": -18.4,
+    "lng": 47.86667
+  },
+  {
+    "name": "Anjepy",
+    "country": "MG",
+    "lat": -18.85,
+    "lng": 47.71667
+  },
+  {
+    "name": "Andramasina",
+    "country": "MG",
+    "lat": -19.18785,
+    "lng": 47.59016
+  },
+  {
+    "name": "Andilamena",
+    "country": "MG",
+    "lat": -17.01009,
+    "lng": 48.57313
+  },
+  {
+    "name": "Andovoranto",
+    "country": "MG",
+    "lat": -18.95443,
+    "lng": 49.1094
+  },
+  {
+    "name": "Andapa",
+    "country": "MG",
+    "lat": -14.65,
+    "lng": 49.65
+  },
+  {
+    "name": "Anandravy",
+    "country": "MG",
+    "lat": -22.9,
+    "lng": 47.36667
+  },
+  {
+    "name": "Analalava",
+    "country": "MG",
+    "lat": -14.63333,
+    "lng": 47.75
+  },
+  {
+    "name": "Anakao",
+    "country": "MG",
+    "lat": -23.66667,
+    "lng": 43.65
+  },
+  {
+    "name": "Antsampanimahazo",
+    "country": "MG",
+    "lat": -19.63988,
+    "lng": 47.1565
+  },
+  {
+    "name": "Ansongo",
+    "country": "ML",
+    "lat": 15.6597,
+    "lng": 0.5022
+  },
+  {
+    "name": "Ann",
+    "country": "MM",
+    "lat": 19.79537,
+    "lng": 94.04791
+  },
+  {
+    "name": "Anse La Raye",
+    "country": "MU",
+    "lat": -19.99057,
+    "lng": 57.63202
+  },
+  {
+    "name": "Animas Trujano",
+    "country": "MX",
+    "lat": 16.99086,
+    "lng": -96.71319
+  },
+  {
+    "name": "Antón Lizardo",
+    "country": "MX",
+    "lat": 19.05962,
+    "lng": -95.99272
+  },
+  {
+    "name": "Antiguo Morelos",
+    "country": "MX",
+    "lat": 22.5495,
+    "lng": -99.08123
+  },
+  {
+    "name": "Anenecuilco",
+    "country": "MX",
+    "lat": 18.77738,
+    "lng": -98.98907
+  },
+  {
+    "name": "Anáhuac",
+    "country": "MX",
+    "lat": 25.77689,
+    "lng": -97.77589
+  },
+  {
+    "name": "Anahuac",
+    "country": "MX",
+    "lat": 22.20275,
+    "lng": -97.85506
+  },
+  {
+    "name": "Andrés Quintana Roo",
+    "country": "MX",
+    "lat": 17.70771,
+    "lng": -93.01077
+  },
+  {
+    "name": "Antonio J Bermúdez",
+    "country": "MX",
+    "lat": 22.15046,
+    "lng": -98.15873
+  },
+  {
+    "name": "Antonio Rosales",
+    "country": "MX",
+    "lat": 28.0767,
+    "lng": -110.61171
+  },
+  {
+    "name": "Antonio Rosales",
+    "country": "MX",
+    "lat": 27.35111,
+    "lng": -109.85306
+  },
+  {
+    "name": "Anáhuac",
+    "country": "MX",
+    "lat": 27.24457,
+    "lng": -100.13229
+  },
+  {
+    "name": "Antúnez",
+    "country": "MX",
+    "lat": 19.01451,
+    "lng": -102.20432
+  },
+  {
+    "name": "Antonio Escobedo",
+    "country": "MX",
+    "lat": 20.8,
+    "lng": -104.01667
+  },
+  {
+    "name": "Antonio Amaro",
+    "country": "MX",
+    "lat": 24.27747,
+    "lng": -104.01709
+  },
+  {
+    "name": "Ansihuacuaro",
+    "country": "MX",
+    "lat": 20.19984,
+    "lng": -101.8067
+  },
+  {
+    "name": "Angostura",
+    "country": "MX",
+    "lat": 25.36551,
+    "lng": -108.16111
+  },
+  {
+    "name": "Angamacutiro de la Unión",
+    "country": "MX",
+    "lat": 20.14998,
+    "lng": -101.71113
+  },
+  {
+    "name": "Angahuán",
+    "country": "MX",
+    "lat": 19.5479,
+    "lng": -102.22563
+  },
+  {
+    "name": "Anáhuac",
+    "country": "MX",
+    "lat": 28.48396,
+    "lng": -106.7472
+  },
+  {
+    "name": "Antúnez (Morelos)",
+    "country": "MX",
+    "lat": 19.01278,
+    "lng": -102.20389
+  },
+  {
+    "name": "Anacleto Canabal 2da. Sección",
+    "country": "MX",
+    "lat": 17.97556,
+    "lng": -93.02417
+  },
+  {
+    "name": "Anacleto Canabal 3ra. Sección",
+    "country": "MX",
+    "lat": 18.0183,
+    "lng": -92.98992
+  },
+  {
+    "name": "Analco de Ponciano Arriaga (Santa Cruz Analco)",
+    "country": "MX",
+    "lat": 19.26444,
+    "lng": -98.50028
+  },
+  {
+    "name": "Anak Bukit",
+    "country": "MY",
+    "lat": 6.184,
+    "lng": 100.37752
+  },
+  {
+    "name": "Angoche",
+    "country": "MZ",
+    "lat": -16.2325,
+    "lng": 39.90861
+  },
+  {
+    "name": "Anse-Vata",
+    "country": "NC",
+    "lat": -22.30037,
+    "lng": 166.44347
+  },
+  {
+    "name": "Angware",
+    "country": "NG",
+    "lat": 9.99105,
+    "lng": 9.10811
+  },
+  {
+    "name": "Ankpa",
+    "country": "NG",
+    "lat": 7.40249,
+    "lng": 7.63196
+  },
+  {
+    "name": "Anka",
+    "country": "NG",
+    "lat": 12.11347,
+    "lng": 5.92681
+  },
+  {
+    "name": "Anchau",
+    "country": "NG",
+    "lat": 10.96245,
+    "lng": 8.39233
+  },
+  {
+    "name": "Anaku",
+    "country": "NG",
+    "lat": 6.46875,
+    "lng": 6.92893
+  },
+  {
+    "name": "Andel",
+    "country": "NL",
+    "lat": 51.78333,
+    "lng": 5.05833
+  },
+  {
+    "name": "Annen",
+    "country": "NL",
+    "lat": 53.0575,
+    "lng": 6.71944
+  },
+  {
+    "name": "Anna Paulowna",
+    "country": "NL",
+    "lat": 52.86083,
+    "lng": 4.83611
+  },
+  {
+    "name": "Anklaar",
+    "country": "NL",
+    "lat": 52.23111,
+    "lng": 5.98497
+  },
+  {
+    "name": "Ankeveense Rade",
+    "country": "NL",
+    "lat": 52.25891,
+    "lng": 5.1016
+  },
+  {
+    "name": "Angerlo",
+    "country": "NL",
+    "lat": 51.99583,
+    "lng": 6.13472
+  },
+  {
+    "name": "Angeren",
+    "country": "NL",
+    "lat": 51.91583,
+    "lng": 5.95833
+  },
+  {
+    "name": "Angelslo",
+    "country": "NL",
+    "lat": 52.7809,
+    "lng": 6.92645
+  },
+  {
+    "name": "Andelst",
+    "country": "NL",
+    "lat": 51.90833,
+    "lng": 5.72917
+  },
+  {
+    "name": "Andenes",
+    "country": "NO",
+    "lat": 69.31428,
+    "lng": 16.11939
+  },
+  {
+    "name": "Anibare",
+    "country": "NR",
+    "lat": -0.52792,
+    "lng": 166.95249
+  },
+  {
+    "name": "Anabar",
+    "country": "NR",
+    "lat": -0.50845,
+    "lng": 166.95326
+  },
+  {
+    "name": "Andersons Bay",
+    "country": "NZ",
+    "lat": -45.89639,
+    "lng": 170.53107
+  },
+  {
+    "name": "Antón",
+    "country": "PA",
+    "lat": 8.39677,
+    "lng": -80.26499
+  },
+  {
+    "name": "Ancón",
+    "country": "PA",
+    "lat": 8.96015,
+    "lng": -79.5514
+  },
+  {
+    "name": "Anta",
+    "country": "PE",
+    "lat": -9.35698,
+    "lng": -77.59796
+  },
+  {
+    "name": "Anguía",
+    "country": "PE",
+    "lat": -6.34234,
+    "lng": -78.60506
+  },
+  {
+    "name": "Angasmarca",
+    "country": "PE",
+    "lat": -8.13333,
+    "lng": -78.06667
+  },
+  {
+    "name": "Antauta",
+    "country": "PE",
+    "lat": -14.29974,
+    "lng": -70.29195
+  },
+  {
+    "name": "Antaparco",
+    "country": "PE",
+    "lat": -13.07643,
+    "lng": -74.4115
+  },
+  {
+    "name": "Antabamba",
+    "country": "PE",
+    "lat": -14.36056,
+    "lng": -72.87556
+  },
+  {
+    "name": "Anta",
+    "country": "PE",
+    "lat": -13.47056,
+    "lng": -72.14833
+  },
+  {
+    "name": "Anta",
+    "country": "PE",
+    "lat": -12.81216,
+    "lng": -74.63851
+  },
+  {
+    "name": "Aniso",
+    "country": "PE",
+    "lat": -14.80727,
+    "lng": -73.28221
+  },
+  {
+    "name": "Andaray",
+    "country": "PE",
+    "lat": -15.79667,
+    "lng": -72.86056
+  },
+  {
+    "name": "Andarapa",
+    "country": "PE",
+    "lat": -13.52611,
+    "lng": -73.36611
+  },
+  {
+    "name": "Andamarca",
+    "country": "PE",
+    "lat": -14.38722,
+    "lng": -73.96083
+  },
+  {
+    "name": "Andamarca",
+    "country": "PE",
+    "lat": -11.72832,
+    "lng": -74.80217
+  },
+  {
+    "name": "Andajes",
+    "country": "PE",
+    "lat": -10.79254,
+    "lng": -76.90888
+  },
+  {
+    "name": "Andahuaylillas",
+    "country": "PE",
+    "lat": -13.6725,
+    "lng": -71.67944
+  },
+  {
+    "name": "Andahuaylas",
+    "country": "PE",
+    "lat": -13.65556,
+    "lng": -73.38722
+  },
+  {
+    "name": "Andahua",
+    "country": "PE",
+    "lat": -15.49948,
+    "lng": -72.35723
+  },
+  {
+    "name": "Anchonga",
+    "country": "PE",
+    "lat": -12.91307,
+    "lng": -74.69135
+  },
+  {
+    "name": "Ancahuasi",
+    "country": "PE",
+    "lat": -13.45737,
+    "lng": -72.30042
+  },
+  {
+    "name": "Ananea",
+    "country": "PE",
+    "lat": -14.67851,
+    "lng": -69.53514
+  },
+  {
+    "name": "Anra",
+    "country": "PE",
+    "lat": -9.23486,
+    "lng": -76.92633
+  },
+  {
+    "name": "Andaymarca",
+    "country": "PE",
+    "lat": -12.31541,
+    "lng": -74.63536
+  },
+  {
+    "name": "Andabamba",
+    "country": "PE",
+    "lat": -6.66283,
+    "lng": -78.8173
+  },
+  {
+    "name": "Anchihuay",
+    "country": "PE",
+    "lat": -12.86429,
+    "lng": -73.58277
+  },
+  {
+    "name": "Anapia",
+    "country": "PE",
+    "lat": -16.31381,
+    "lng": -68.85291
+  },
+  {
+    "name": "Anau",
+    "country": "PF",
+    "lat": -16.50148,
+    "lng": -151.72135
+  },
+  {
+    "name": "Angoram Village",
+    "country": "PG",
+    "lat": -4.0518,
+    "lng": 144.0728
+  },
+  {
+    "name": "Anuling",
+    "country": "PH",
+    "lat": 14.12388,
+    "lng": 120.8922
+  },
+  {
+    "name": "Anuling",
+    "country": "PH",
+    "lat": 6.03556,
+    "lng": 121.00667
+  },
+  {
+    "name": "Anulid",
+    "country": "PH",
+    "lat": 15.82563,
+    "lng": 120.48834
+  },
+  {
+    "name": "Antipolo",
+    "country": "PH",
+    "lat": 15.6181,
+    "lng": 121.19
+  },
+  {
+    "name": "Antipolo",
+    "country": "PH",
+    "lat": 14.62578,
+    "lng": 121.12251
+  },
+  {
+    "name": "Antipolo",
+    "country": "PH",
+    "lat": 13.5286,
+    "lng": 123.1622
+  },
+  {
+    "name": "Antipolo",
+    "country": "PH",
+    "lat": 13.3927,
+    "lng": 123.5231
+  },
+  {
+    "name": "Antipolo",
+    "country": "PH",
+    "lat": 11.16667,
+    "lng": 123.95
+  },
+  {
+    "name": "Antipolo",
+    "country": "PH",
+    "lat": 10.3565,
+    "lng": 122.9646
+  },
+  {
+    "name": "Anticala",
+    "country": "PH",
+    "lat": 9.00444,
+    "lng": 125.64528
+  },
+  {
+    "name": "Antequera",
+    "country": "PH",
+    "lat": 9.7809,
+    "lng": 123.8988
+  },
+  {
+    "name": "Antagan Segunda",
+    "country": "PH",
+    "lat": 17.28268,
+    "lng": 121.87153
+  },
+  {
+    "name": "Anoring",
+    "country": "PH",
+    "lat": 11.25,
+    "lng": 123.03333
+  },
+  {
+    "name": "Anopog",
+    "country": "PH",
+    "lat": 10.25,
+    "lng": 123.25
+  },
+  {
+    "name": "Anonang",
+    "country": "PH",
+    "lat": 11.0,
+    "lng": 124.03333
+  },
+  {
+    "name": "Anuling",
+    "country": "PH",
+    "lat": 13.2093,
+    "lng": 123.6761
+  },
+  {
+    "name": "Anito",
+    "country": "PH",
+    "lat": 12.44972,
+    "lng": 125.28861
+  },
+  {
+    "name": "Anini-y",
+    "country": "PH",
+    "lat": 10.4312,
+    "lng": 121.927
+  },
+  {
+    "name": "Anilao",
+    "country": "PH",
+    "lat": 12.71402,
+    "lng": 121.51242
+  },
+  {
+    "name": "Anilao",
+    "country": "PH",
+    "lat": 10.97778,
+    "lng": 122.75222
+  },
+  {
+    "name": "Ani-e",
+    "country": "PH",
+    "lat": 8.61361,
+    "lng": 124.87056
+  },
+  {
+    "name": "Anibongan",
+    "country": "PH",
+    "lat": 7.39333,
+    "lng": 125.71889
+  },
+  {
+    "name": "Angono",
+    "country": "PH",
+    "lat": 14.5266,
+    "lng": 121.1536
+  },
+  {
+    "name": "Angeles City",
+    "country": "PH",
+    "lat": 15.15,
+    "lng": 120.58333
+  },
+  {
+    "name": "Angatel",
+    "country": "PH",
+    "lat": 15.80589,
+    "lng": 120.34326
+  },
+  {
+    "name": "Angat",
+    "country": "PH",
+    "lat": 14.9285,
+    "lng": 121.03
+  },
+  {
+    "name": "Angadanan",
+    "country": "PH",
+    "lat": 16.75526,
+    "lng": 121.74834
+  },
+  {
+    "name": "Angad",
+    "country": "PH",
+    "lat": 17.5849,
+    "lng": 120.6257
+  },
+  {
+    "name": "Andres Bonifacio",
+    "country": "PH",
+    "lat": 10.91667,
+    "lng": 123.25
+  },
+  {
+    "name": "Andili",
+    "country": "PH",
+    "lat": 7.462,
+    "lng": 125.9701
+  },
+  {
+    "name": "Anda",
+    "country": "PH",
+    "lat": 16.2892,
+    "lng": 119.95
+  },
+  {
+    "name": "Anda",
+    "country": "PH",
+    "lat": 9.746,
+    "lng": 124.5767
+  },
+  {
+    "name": "Anao",
+    "country": "PH",
+    "lat": 15.7291,
+    "lng": 120.6253
+  },
+  {
+    "name": "Anao",
+    "country": "PH",
+    "lat": 15.1415,
+    "lng": 120.69136
+  },
+  {
+    "name": "Anambongan",
+    "country": "PH",
+    "lat": 15.86634,
+    "lng": 120.38858
+  },
+  {
+    "name": "Anakan",
+    "country": "PH",
+    "lat": 8.84778,
+    "lng": 125.15139
+  },
+  {
+    "name": "Anahawan",
+    "country": "PH",
+    "lat": 10.3429,
+    "lng": 124.8782
+  },
+  {
+    "name": "Anahawan",
+    "country": "PH",
+    "lat": 10.27722,
+    "lng": 125.2625
+  },
+  {
+    "name": "Andalan",
+    "country": "PH",
+    "lat": 5.95944,
+    "lng": 121.39028
+  },
+  {
+    "name": "Andop",
+    "country": "PH",
+    "lat": 7.86111,
+    "lng": 125.75389
+  },
+  {
+    "name": "Annopol",
+    "country": "PL",
+    "lat": 50.88551,
+    "lng": 21.85678
+  },
+  {
+    "name": "Andrychów",
+    "country": "PL",
+    "lat": 49.85497,
+    "lng": 19.33834
+  },
+  {
+    "name": "Andrespol",
+    "country": "PL",
+    "lat": 51.72783,
+    "lng": 19.64175
+  },
+  {
+    "name": "Aniołki",
+    "country": "PL",
+    "lat": 54.35929,
+    "lng": 18.63337
+  },
+  {
+    "name": "Animas",
+    "country": "PR",
+    "lat": 18.4455,
+    "lng": -66.6349
+  },
+  {
+    "name": "Antón Ruiz",
+    "country": "PR",
+    "lat": 18.18524,
+    "lng": -65.8085
+  },
+  {
+    "name": "An Nuşayrāt",
+    "country": "PS",
+    "lat": 31.44861,
+    "lng": 34.3925
+  },
+  {
+    "name": "An Naşşārīyah",
+    "country": "PS",
+    "lat": 32.23647,
+    "lng": 35.38711
+  },
+  {
+    "name": "An Nuway‘imah",
+    "country": "PS",
+    "lat": 31.89212,
+    "lng": 35.43549
+  },
+  {
+    "name": "An Nazlah ash Sharqīyah",
+    "country": "PS",
+    "lat": 32.41072,
+    "lng": 35.10916
+  },
+  {
+    "name": "An Nāqūrah",
+    "country": "PS",
+    "lat": 32.26506,
+    "lng": 35.20135
+  },
+  {
+    "name": "An Nabī Ilyās",
+    "country": "PS",
+    "lat": 32.18482,
+    "lng": 35.0176
+  },
+  {
+    "name": "An Naşr",
+    "country": "PS",
+    "lat": 31.28137,
+    "lng": 34.30253
+  },
+  {
+    "name": "Ansião",
+    "country": "PT",
+    "lat": 39.91177,
+    "lng": -8.43568
+  },
+  {
+    "name": "Antanhol",
+    "country": "PT",
+    "lat": 40.16837,
+    "lng": -8.46334
+  },
+  {
+    "name": "Anta",
+    "country": "PT",
+    "lat": 41.26634,
+    "lng": -8.62844
+  },
+  {
+    "name": "Angeiras",
+    "country": "PT",
+    "lat": 41.26713,
+    "lng": -8.71081
+  },
+  {
+    "name": "Ançã",
+    "country": "PT",
+    "lat": 40.27161,
+    "lng": -8.5209
+  },
+  {
+    "name": "Anadia",
+    "country": "PT",
+    "lat": 40.43841,
+    "lng": -8.43352
+  },
+  {
+    "name": "Angústias",
+    "country": "PT",
+    "lat": 38.52547,
+    "lng": -28.63132
+  },
+  {
+    "name": "Angra do Heroísmo",
+    "country": "PT",
+    "lat": 38.6539,
+    "lng": -27.21839
+  },
+  {
+    "name": "Anjos",
+    "country": "PT",
+    "lat": 38.7264,
+    "lng": -9.13528
+  },
+  {
+    "name": "Angaur State",
+    "country": "PW",
+    "lat": 6.90601,
+    "lng": 134.12997
+  },
+  {
+    "name": "Antequera",
+    "country": "PY",
+    "lat": -24.08526,
+    "lng": -57.20221
+  },
+  {
+    "name": "An Najmah",
+    "country": "QA",
+    "lat": 25.26704,
+    "lng": 51.54322
+  },
+  {
+    "name": "Aninoasa",
+    "country": "RO",
+    "lat": 45.40924,
+    "lng": 23.31505
+  },
+  {
+    "name": "Aninoasa",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 24.93333
+  },
+  {
+    "name": "Aninoasa",
+    "country": "RO",
+    "lat": 44.96667,
+    "lng": 25.43333
+  },
+  {
+    "name": "Aninoasa",
+    "country": "RO",
+    "lat": 44.75,
+    "lng": 23.48333
+  },
+  {
+    "name": "Anina",
+    "country": "RO",
+    "lat": 45.07944,
+    "lng": 21.85694
+  },
+  {
+    "name": "Anieș",
+    "country": "RO",
+    "lat": 47.41347,
+    "lng": 24.76853
+  },
+  {
+    "name": "Anghelești",
+    "country": "RO",
+    "lat": 46.07875,
+    "lng": 27.06459
+  },
+  {
+    "name": "Andrieşeni",
+    "country": "RO",
+    "lat": 47.53333,
+    "lng": 27.28333
+  },
+  {
+    "name": "Andrid",
+    "country": "RO",
+    "lat": 47.51667,
+    "lng": 22.35
+  },
+  {
+    "name": "Andrei Șaguna",
+    "country": "RO",
+    "lat": 46.2881,
+    "lng": 21.39175
+  },
+  {
+    "name": "Andreiaşu de Jos",
+    "country": "RO",
+    "lat": 45.75,
+    "lng": 26.83333
+  },
+  {
+    "name": "Andreești",
+    "country": "RO",
+    "lat": 44.78948,
+    "lng": 23.55099
+  },
+  {
+    "name": "Andrăşeşti",
+    "country": "RO",
+    "lat": 44.56667,
+    "lng": 27.13333
+  },
+  {
+    "name": "Anzorey",
+    "country": "RU",
+    "lat": 43.35582,
+    "lng": 43.94143
+  },
+  {
+    "name": "Annino",
+    "country": "RU",
+    "lat": 55.58333,
+    "lng": 37.6
+  },
+  {
+    "name": "Antropovo",
+    "country": "RU",
+    "lat": 58.40016,
+    "lng": 43.00833
+  },
+  {
+    "name": "Antipovka",
+    "country": "RU",
+    "lat": 49.82994,
+    "lng": 45.31216
+  },
+  {
+    "name": "Ansalta",
+    "country": "RU",
+    "lat": 42.68941,
+    "lng": 46.11782
+  },
+  {
+    "name": "Anopino",
+    "country": "RU",
+    "lat": 55.69809,
+    "lng": 40.66707
+  },
+  {
+    "name": "Annino",
+    "country": "RU",
+    "lat": 59.77056,
+    "lng": 30.05611
+  },
+  {
+    "name": "Anna",
+    "country": "RU",
+    "lat": 51.49007,
+    "lng": 40.42236
+  },
+  {
+    "name": "Andzhiyevskiy",
+    "country": "RU",
+    "lat": 44.23889,
+    "lng": 43.08556
+  },
+  {
+    "name": "Andreyevskoye",
+    "country": "RU",
+    "lat": 55.55487,
+    "lng": 37.92566
+  },
+  {
+    "name": "Andreyevo",
+    "country": "RU",
+    "lat": 55.9465,
+    "lng": 41.1505
+  },
+  {
+    "name": "Andreyevka",
+    "country": "RU",
+    "lat": 55.98028,
+    "lng": 37.135
+  },
+  {
+    "name": "Andreapol’",
+    "country": "RU",
+    "lat": 56.65087,
+    "lng": 32.264
+  },
+  {
+    "name": "Andi",
+    "country": "RU",
+    "lat": 42.78359,
+    "lng": 46.26171
+  },
+  {
+    "name": "Anastasiyevskaya",
+    "country": "RU",
+    "lat": 45.21576,
+    "lng": 37.89258
+  },
+  {
+    "name": "Anastasiyevka",
+    "country": "RU",
+    "lat": 47.56072,
+    "lng": 38.52837
+  },
+  {
+    "name": "Anapskaya",
+    "country": "RU",
+    "lat": 44.89671,
+    "lng": 37.386
+  },
+  {
+    "name": "Anapa",
+    "country": "RU",
+    "lat": 44.89497,
+    "lng": 37.31623
+  },
+  {
+    "name": "Annino",
+    "country": "RU",
+    "lat": 55.58316,
+    "lng": 37.26019
+  },
+  {
+    "name": "Anzhero-Sudzhensk",
+    "country": "RU",
+    "lat": 56.07568,
+    "lng": 86.02434
+  },
+  {
+    "name": "Anton’yevka",
+    "country": "RU",
+    "lat": 51.9961,
+    "lng": 83.974
+  },
+  {
+    "name": "Antipino",
+    "country": "RU",
+    "lat": 57.10679,
+    "lng": 65.75755
+  },
+  {
+    "name": "Andra",
+    "country": "RU",
+    "lat": 62.51472,
+    "lng": 65.88778
+  },
+  {
+    "name": "Anuchino",
+    "country": "RU",
+    "lat": 43.964,
+    "lng": 133.05698
+  },
+  {
+    "name": "Angarsk",
+    "country": "RU",
+    "lat": 52.55968,
+    "lng": 103.91413
+  },
+  {
+    "name": "Aniva",
+    "country": "RU",
+    "lat": 46.71576,
+    "lng": 142.53244
+  },
+  {
+    "name": "Anadyr",
+    "country": "RU",
+    "lat": 64.73424,
+    "lng": 177.5103
+  },
+  {
+    "name": "An Nimas",
+    "country": "SA",
+    "lat": 19.14547,
+    "lng": 42.12009
+  },
+  {
+    "name": "Anse Royale",
+    "country": "SC",
+    "lat": -4.73333,
+    "lng": 55.51667
+  },
+  {
+    "name": "Anse Boileau",
+    "country": "SC",
+    "lat": -4.71667,
+    "lng": 55.48333
+  },
+  {
+    "name": "Anse aux Pins",
+    "country": "SC",
+    "lat": -4.686,
+    "lng": 55.522
+  },
+  {
+    "name": "Anse Royale",
+    "country": "SC",
+    "lat": -4.73771,
+    "lng": 55.50333
+  },
+  {
+    "name": "An Nuhūd",
+    "country": "SD",
+    "lat": 12.7,
+    "lng": 28.43333
+  },
+  {
+    "name": "Anneberg",
+    "country": "SE",
+    "lat": 60.24167,
+    "lng": 18.41667
+  },
+  {
+    "name": "Annelund",
+    "country": "SE",
+    "lat": 57.98843,
+    "lng": 13.07483
+  },
+  {
+    "name": "Ankarsrum",
+    "country": "SE",
+    "lat": 57.69896,
+    "lng": 16.33407
+  },
+  {
+    "name": "Angered",
+    "country": "SE",
+    "lat": 57.78628,
+    "lng": 12.09852
+  },
+  {
+    "name": "Aneby",
+    "country": "SE",
+    "lat": 57.83895,
+    "lng": 14.81016
+  },
+  {
+    "name": "Anderstorp",
+    "country": "SE",
+    "lat": 58.88333,
+    "lng": 14.28333
+  },
+  {
+    "name": "Anderstorp",
+    "country": "SE",
+    "lat": 57.28333,
+    "lng": 13.63333
+  },
+  {
+    "name": "Anderslöv",
+    "country": "SE",
+    "lat": 55.43836,
+    "lng": 13.31966
+  },
+  {
+    "name": "Andalen",
+    "country": "SE",
+    "lat": 57.70039,
+    "lng": 11.76136
+  },
+  {
+    "name": "Ang Mo Kio New Town",
+    "country": "SG",
+    "lat": 1.38028,
+    "lng": 103.83972
+  },
+  {
+    "name": "Anak Bukit",
+    "country": "SG",
+    "lat": 1.34067,
+    "lng": 103.77301
+  },
+  {
+    "name": "Ankaran",
+    "country": "SI",
+    "lat": 45.57902,
+    "lng": 13.73616
+  },
+  {
+    "name": "Antiguo Cuscatlán",
+    "country": "SV",
+    "lat": 13.66492,
+    "lng": -89.25319
+  },
+  {
+    "name": "Anamorós",
+    "country": "SV",
+    "lat": 13.74056,
+    "lng": -87.87361
+  },
+  {
+    "name": "An Nashābīyah",
+    "country": "SY",
+    "lat": 33.51051,
+    "lng": 36.48569
+  },
+  {
+    "name": "An Nabk",
+    "country": "SY",
+    "lat": 34.02403,
+    "lng": 36.72848
+  },
+  {
+    "name": "An Nāşirah",
+    "country": "SY",
+    "lat": 34.78769,
+    "lng": 36.28559
+  },
+  {
+    "name": "Anié",
+    "country": "TG",
+    "lat": 7.75,
+    "lng": 1.2
+  },
+  {
+    "name": "Aného",
+    "country": "TG",
+    "lat": 6.22798,
+    "lng": 1.5919
+  },
+  {
+    "name": "Ang Thong",
+    "country": "TH",
+    "lat": 14.58839,
+    "lng": 100.45283
+  },
+  {
+    "name": "Anusawari",
+    "country": "TH",
+    "lat": 13.89466,
+    "lng": 100.61425
+  },
+  {
+    "name": "Anamas",
+    "country": "TR",
+    "lat": 37.76667,
+    "lng": 30.8
+  },
+  {
+    "name": "Antalya",
+    "country": "TR",
+    "lat": 36.90812,
+    "lng": 30.69556
+  },
+  {
+    "name": "Antakya",
+    "country": "TR",
+    "lat": 36.20655,
+    "lng": 36.15722
+  },
+  {
+    "name": "Ankara",
+    "country": "TR",
+    "lat": 39.91987,
+    "lng": 32.85427
+  },
+  {
+    "name": "Anıl",
+    "country": "TR",
+    "lat": 38.39785,
+    "lng": 40.33852
+  },
+  {
+    "name": "Andırın",
+    "country": "TR",
+    "lat": 37.57757,
+    "lng": 36.35492
+  },
+  {
+    "name": "Andaç",
+    "country": "TR",
+    "lat": 37.35537,
+    "lng": 43.26243
+  },
+  {
+    "name": "Anamur",
+    "country": "TR",
+    "lat": 36.07508,
+    "lng": 32.83691
+  },
+  {
+    "name": "Anayazı",
+    "country": "TR",
+    "lat": 36.32107,
+    "lng": 36.19061
+  },
+  {
+    "name": "Anadolukavağı",
+    "country": "TR",
+    "lat": 41.17418,
+    "lng": 29.08908
+  },
+  {
+    "name": "Anadoluhisarı",
+    "country": "TR",
+    "lat": 41.08737,
+    "lng": 29.07094
+  },
+  {
+    "name": "Antratsyt",
+    "country": "UA",
+    "lat": 48.11503,
+    "lng": 39.09128
+  },
+  {
+    "name": "Antalovtsi",
+    "country": "UA",
+    "lat": 48.62627,
+    "lng": 22.51644
+  },
+  {
+    "name": "Antonivka",
+    "country": "UA",
+    "lat": 46.67666,
+    "lng": 32.73061
+  },
+  {
+    "name": "Antoniny",
+    "country": "UA",
+    "lat": 49.80924,
+    "lng": 26.87011
+  },
+  {
+    "name": "Andrushky",
+    "country": "UA",
+    "lat": 49.88195,
+    "lng": 29.34349
+  },
+  {
+    "name": "Andrushivka",
+    "country": "UA",
+    "lat": 50.02288,
+    "lng": 29.02023
+  },
+  {
+    "name": "Andriyevo-Ivanivka",
+    "country": "UA",
+    "lat": 47.50322,
+    "lng": 30.46247
+  },
+  {
+    "name": "Andriyivka",
+    "country": "UA",
+    "lat": 47.09351,
+    "lng": 36.58949
+  },
+  {
+    "name": "Andriivka",
+    "country": "UA",
+    "lat": 46.22099,
+    "lng": 30.08481
+  },
+  {
+    "name": "Ananyiv",
+    "country": "UA",
+    "lat": 47.71975,
+    "lng": 29.95711
+  },
+  {
+    "name": "Andreyevka",
+    "country": "UA",
+    "lat": 44.81663,
+    "lng": 33.56313
+  },
+  {
+    "name": "Anaka",
+    "country": "UG",
+    "lat": 2.60114,
+    "lng": 31.94749
+  },
+  {
+    "name": "Anacostia",
+    "country": "US",
+    "lat": 38.8665,
+    "lng": -76.98386
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 25.96843,
+    "lng": -80.21283
+  },
+  {
+    "name": "Anna Maria",
+    "country": "US",
+    "lat": 27.53115,
+    "lng": -82.73343
+  },
+  {
+    "name": "Anna",
+    "country": "US",
+    "lat": 37.46033,
+    "lng": -89.24703
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 37.7139,
+    "lng": -97.13643
+  },
+  {
+    "name": "Anthony",
+    "country": "US",
+    "lat": 37.15336,
+    "lng": -98.03117
+  },
+  {
+    "name": "Anchorage",
+    "country": "US",
+    "lat": 38.26674,
+    "lng": -85.53302
+  },
+  {
+    "name": "Annville",
+    "country": "US",
+    "lat": 37.31925,
+    "lng": -83.97048
+  },
+  {
+    "name": "Annapolis",
+    "country": "US",
+    "lat": 38.97859,
+    "lng": -76.49184
+  },
+  {
+    "name": "Anderson",
+    "country": "US",
+    "lat": 36.65063,
+    "lng": -94.44355
+  },
+  {
+    "name": "Andrews",
+    "country": "US",
+    "lat": 35.20175,
+    "lng": -83.82407
+  },
+  {
+    "name": "Angier",
+    "country": "US",
+    "lat": 35.5071,
+    "lng": -78.73918
+  },
+  {
+    "name": "Anadarko",
+    "country": "US",
+    "lat": 35.07256,
+    "lng": -98.24366
+  },
+  {
+    "name": "Antlers",
+    "country": "US",
+    "lat": 34.23121,
+    "lng": -95.62025
+  },
+  {
+    "name": "Angora",
+    "country": "US",
+    "lat": 39.944,
+    "lng": -75.23768
+  },
+  {
+    "name": "Anderson",
+    "country": "US",
+    "lat": 34.50344,
+    "lng": -82.65013
+  },
+  {
+    "name": "Andrews",
+    "country": "US",
+    "lat": 33.45128,
+    "lng": -79.5609
+  },
+  {
+    "name": "Anahuac",
+    "country": "US",
+    "lat": 29.773,
+    "lng": -94.6827
+  },
+  {
+    "name": "Anderson",
+    "country": "US",
+    "lat": 30.48715,
+    "lng": -95.9869
+  },
+  {
+    "name": "Anderson Mill",
+    "country": "US",
+    "lat": 30.45492,
+    "lng": -97.80584
+  },
+  {
+    "name": "Angleton",
+    "country": "US",
+    "lat": 29.16941,
+    "lng": -95.43188
+  },
+  {
+    "name": "Anna",
+    "country": "US",
+    "lat": 33.349,
+    "lng": -96.5486
+  },
+  {
+    "name": "Annetta",
+    "country": "US",
+    "lat": 32.7093,
+    "lng": -97.67614
+  },
+  {
+    "name": "Anson",
+    "country": "US",
+    "lat": 32.7565,
+    "lng": -99.89621
+  },
+  {
+    "name": "Annandale",
+    "country": "US",
+    "lat": 38.83039,
+    "lng": -77.19637
+  },
+  {
+    "name": "Ansted",
+    "country": "US",
+    "lat": 38.13622,
+    "lng": -81.09955
+  },
+  {
+    "name": "Andalusia",
+    "country": "US",
+    "lat": 31.30808,
+    "lng": -86.48243
+  },
+  {
+    "name": "Anniston",
+    "country": "US",
+    "lat": 33.65983,
+    "lng": -85.83163
+  },
+  {
+    "name": "Anamosa",
+    "country": "US",
+    "lat": 42.10834,
+    "lng": -91.28516
+  },
+  {
+    "name": "Ankeny",
+    "country": "US",
+    "lat": 41.72971,
+    "lng": -93.60577
+  },
+  {
+    "name": "Andalusia",
+    "country": "US",
+    "lat": 41.4392,
+    "lng": -90.71764
+  },
+  {
+    "name": "Antioch",
+    "country": "US",
+    "lat": 42.47724,
+    "lng": -88.09564
+  },
+  {
+    "name": "Anderson",
+    "country": "US",
+    "lat": 40.10532,
+    "lng": -85.68025
+  },
+  {
+    "name": "Andrews",
+    "country": "US",
+    "lat": 40.86254,
+    "lng": -85.60165
+  },
+  {
+    "name": "Angola",
+    "country": "US",
+    "lat": 41.63477,
+    "lng": -84.99941
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 42.65843,
+    "lng": -71.137
+  },
+  {
+    "name": "Ann Arbor",
+    "country": "US",
+    "lat": 42.27756,
+    "lng": -83.74088
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 45.2333,
+    "lng": -93.29134
+  },
+  {
+    "name": "Anoka",
+    "country": "US",
+    "lat": 45.19774,
+    "lng": -93.38718
+  },
+  {
+    "name": "Annandale",
+    "country": "US",
+    "lat": 45.26274,
+    "lng": -94.12443
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 43.43702,
+    "lng": -71.82341
+  },
+  {
+    "name": "Antrim",
+    "country": "US",
+    "lat": 43.03091,
+    "lng": -71.93897
+  },
+  {
+    "name": "Annandale",
+    "country": "US",
+    "lat": 40.64093,
+    "lng": -74.88128
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 42.15646,
+    "lng": -77.79555
+  },
+  {
+    "name": "Angola on the Lake",
+    "country": "US",
+    "lat": 42.65478,
+    "lng": -79.04893
+  },
+  {
+    "name": "Angola",
+    "country": "US",
+    "lat": 42.63839,
+    "lng": -79.02782
+  },
+  {
+    "name": "Andover",
+    "country": "US",
+    "lat": 41.60672,
+    "lng": -80.5723
+  },
+  {
+    "name": "Anna",
+    "country": "US",
+    "lat": 40.39449,
+    "lng": -84.17272
+  },
+  {
+    "name": "Ansonia",
+    "country": "US",
+    "lat": 40.21449,
+    "lng": -84.6369
+  },
+  {
+    "name": "Antwerp",
+    "country": "US",
+    "lat": 41.18144,
+    "lng": -84.74051
+  },
+  {
+    "name": "Ancient Oaks",
+    "country": "US",
+    "lat": 40.54732,
+    "lng": -75.58935
+  },
+  {
+    "name": "Andorra",
+    "country": "US",
+    "lat": 40.07261,
+    "lng": -75.23129
+  },
+  {
+    "name": "Annville",
+    "country": "US",
+    "lat": 40.32954,
+    "lng": -76.51524
+  },
+  {
+    "name": "Antigo",
+    "country": "US",
+    "lat": 45.14025,
+    "lng": -89.15234
+  },
+  {
+    "name": "Ansonia",
+    "country": "US",
+    "lat": 41.34621,
+    "lng": -73.079
+  },
+  {
+    "name": "Anaheim",
+    "country": "US",
+    "lat": 33.83529,
+    "lng": -117.9145
+  },
+  {
+    "name": "Angels Camp",
+    "country": "US",
+    "lat": 38.06826,
+    "lng": -120.53965
+  },
+  {
+    "name": "Angwin",
+    "country": "US",
+    "lat": 38.57574,
+    "lng": -122.44998
+  },
+  {
+    "name": "Antelope",
+    "country": "US",
+    "lat": 38.70824,
+    "lng": -121.32995
+  },
+  {
+    "name": "Antioch",
+    "country": "US",
+    "lat": 38.00492,
+    "lng": -121.80579
+  },
+  {
+    "name": "Anza",
+    "country": "US",
+    "lat": 33.55503,
+    "lng": -116.67363
+  },
+  {
+    "name": "Angel Fire",
+    "country": "US",
+    "lat": 36.39309,
+    "lng": -105.28501
+  },
+  {
+    "name": "Anthony",
+    "country": "US",
+    "lat": 32.00399,
+    "lng": -106.60583
+  },
+  {
+    "name": "Andrews",
+    "country": "US",
+    "lat": 32.31872,
+    "lng": -102.54572
+  },
+  {
+    "name": "Anthony",
+    "country": "US",
+    "lat": 31.99927,
+    "lng": -106.60555
+  },
+  {
+    "name": "Anton",
+    "country": "US",
+    "lat": 33.8112,
+    "lng": -102.16379
+  },
+  {
+    "name": "Anthem",
+    "country": "US",
+    "lat": 33.86726,
+    "lng": -112.14682
+  },
+  {
+    "name": "Anderson",
+    "country": "US",
+    "lat": 40.44821,
+    "lng": -122.29778
+  },
+  {
+    "name": "Anaconda",
+    "country": "US",
+    "lat": 46.12854,
+    "lng": -112.94226
+  },
+  {
+    "name": "Anacortes",
+    "country": "US",
+    "lat": 48.5126,
+    "lng": -122.61267
+  },
+  {
+    "name": "Anahola",
+    "country": "US",
+    "lat": 22.14226,
+    "lng": -159.31388
+  },
+  {
+    "name": "Anchorage",
+    "country": "US",
+    "lat": 61.21806,
+    "lng": -149.90028
+  },
+  {
+    "name": "Anchor Point",
+    "country": "US",
+    "lat": 59.77667,
+    "lng": -151.83139
+  },
+  {
+    "name": "Andrews AFB",
+    "country": "US",
+    "lat": 38.80531,
+    "lng": -76.8746
+  },
+  {
+    "name": "Antelope Valley-Crestview",
+    "country": "US",
+    "lat": 44.22488,
+    "lng": -105.47409
+  },
+  {
+    "name": "Angren",
+    "country": "UZ",
+    "lat": 41.01667,
+    "lng": 70.14361
+  },
+  {
+    "name": "Andijon",
+    "country": "UZ",
+    "lat": 40.78338,
+    "lng": 72.35067
+  },
+  {
+    "name": "Anaco",
+    "country": "VE",
+    "lat": 9.42958,
+    "lng": -64.46428
+  },
+  {
+    "name": "Anh Son",
+    "country": "VN",
+    "lat": 18.96961,
+    "lng": 105.05505
+  },
+  {
+    "name": "An Hòa",
+    "country": "VN",
+    "lat": 10.29693,
+    "lng": 105.74435
+  },
+  {
+    "name": "An Trạch",
+    "country": "VN",
+    "lat": 9.06861,
+    "lng": 105.39583
+  },
+  {
+    "name": "An Nhơn",
+    "country": "VN",
+    "lat": 13.88579,
+    "lng": 109.10823
+  },
+  {
+    "name": "An Lão",
+    "country": "VN",
+    "lat": 14.61241,
+    "lng": 108.8899
+  },
+  {
+    "name": "An Khê",
+    "country": "VN",
+    "lat": 13.95,
+    "lng": 108.65
+  },
+  {
+    "name": "An Hà",
+    "country": "VN",
+    "lat": 15.58333,
+    "lng": 108.48333
+  },
+  {
+    "name": "An Dương",
+    "country": "VN",
+    "lat": 20.86382,
+    "lng": 106.6133
+  },
+  {
+    "name": "An Châu",
+    "country": "VN",
+    "lat": 21.33465,
+    "lng": 106.84934
+  },
+  {
+    "name": "An Biên",
+    "country": "VN",
+    "lat": 9.81532,
+    "lng": 105.06366
+  },
+  {
+    "name": "An Bá",
+    "country": "VN",
+    "lat": 14.98333,
+    "lng": 108.85
+  },
+  {
+    "name": "An Châu",
+    "country": "VN",
+    "lat": 10.44559,
+    "lng": 105.38622
+  },
+  {
+    "name": "An Phú",
+    "country": "VN",
+    "lat": 10.81591,
+    "lng": 105.09038
+  },
+  {
+    "name": "An Lão",
+    "country": "VN",
+    "lat": 20.82294,
+    "lng": 106.55575
+  },
+  {
+    "name": "An Naz̧īr",
+    "country": "YE",
+    "lat": 16.90916,
+    "lng": 43.26226
+  },
+  {
+    "name": "An Nādirah",
+    "country": "YE",
+    "lat": 14.09628,
+    "lng": 44.47559
+  },
+  {
+    "name": "An Nāşirah",
+    "country": "YE",
+    "lat": 15.77277,
+    "lng": 43.80902
+  },
+  {
+    "name": "An Najd",
+    "country": "YE",
+    "lat": 14.42152,
+    "lng": 45.29596
+  }
+]

@@ -1,0 +1,5654 @@
+[
+  {
+    "name": "Bilisht",
+    "country": "AL",
+    "lat": 40.6275,
+    "lng": 20.99
+  },
+  {
+    "name": "Bicaj",
+    "country": "AL",
+    "lat": 41.99472,
+    "lng": 20.4125
+  },
+  {
+    "name": "Bibala",
+    "country": "AO",
+    "lat": -14.7665,
+    "lng": 13.34912
+  },
+  {
+    "name": "Bizau",
+    "country": "AT",
+    "lat": 47.36906,
+    "lng": 9.92839
+  },
+  {
+    "name": "Bischofstetten",
+    "country": "AT",
+    "lat": 48.12222,
+    "lng": 15.46909
+  },
+  {
+    "name": "Bischofshofen",
+    "country": "AT",
+    "lat": 47.41667,
+    "lng": 13.21667
+  },
+  {
+    "name": "Bisamberg",
+    "country": "AT",
+    "lat": 48.33125,
+    "lng": 16.3609
+  },
+  {
+    "name": "Birkfeld",
+    "country": "AT",
+    "lat": 47.35,
+    "lng": 15.68333
+  },
+  {
+    "name": "Birgitz",
+    "country": "AT",
+    "lat": 47.23536,
+    "lng": 11.29922
+  },
+  {
+    "name": "Bildstein",
+    "country": "AT",
+    "lat": 47.45,
+    "lng": 9.76667
+  },
+  {
+    "name": "Bierbaum am Auersbach",
+    "country": "AT",
+    "lat": 46.82949,
+    "lng": 15.79237
+  },
+  {
+    "name": "Biedermannsdorf",
+    "country": "AT",
+    "lat": 48.08393,
+    "lng": 16.34542
+  },
+  {
+    "name": "Bichlbach",
+    "country": "AT",
+    "lat": 47.42033,
+    "lng": 10.79042
+  },
+  {
+    "name": "Biberwier",
+    "country": "AT",
+    "lat": 47.38333,
+    "lng": 10.9
+  },
+  {
+    "name": "Biberbach",
+    "country": "AT",
+    "lat": 48.03006,
+    "lng": 14.70795
+  },
+  {
+    "name": "Birkenhead",
+    "country": "AU",
+    "lat": -34.83685,
+    "lng": 138.49788
+  },
+  {
+    "name": "Binningup",
+    "country": "AU",
+    "lat": -33.1483,
+    "lng": 115.69519
+  },
+  {
+    "name": "Bicton",
+    "country": "AU",
+    "lat": -32.02778,
+    "lng": 115.78333
+  },
+  {
+    "name": "Bittern",
+    "country": "AU",
+    "lat": -38.33333,
+    "lng": 145.16667
+  },
+  {
+    "name": "Birkdale",
+    "country": "AU",
+    "lat": -27.48333,
+    "lng": 153.21667
+  },
+  {
+    "name": "Bingara",
+    "country": "AU",
+    "lat": -29.86931,
+    "lng": 150.57204
+  },
+  {
+    "name": "Biloela",
+    "country": "AU",
+    "lat": -24.39589,
+    "lng": 150.51504
+  },
+  {
+    "name": "Bilinga",
+    "country": "AU",
+    "lat": -28.16667,
+    "lng": 153.51667
+  },
+  {
+    "name": "Biggera Waters",
+    "country": "AU",
+    "lat": -27.93239,
+    "lng": 153.40021
+  },
+  {
+    "name": "Birmingham Gardens",
+    "country": "AU",
+    "lat": -32.89368,
+    "lng": 151.69009
+  },
+  {
+    "name": "Birchgrove",
+    "country": "AU",
+    "lat": -33.85164,
+    "lng": 151.18243
+  },
+  {
+    "name": "Bilingurr",
+    "country": "AU",
+    "lat": -17.90909,
+    "lng": 122.22921
+  },
+  {
+    "name": "Birrong",
+    "country": "AU",
+    "lat": -33.89255,
+    "lng": 151.02075
+  },
+  {
+    "name": "Birtinya",
+    "country": "AU",
+    "lat": -26.74322,
+    "lng": 153.11913
+  },
+  {
+    "name": "Bibra Lake",
+    "country": "AU",
+    "lat": -32.09764,
+    "lng": 115.81921
+  },
+  {
+    "name": "Bidwill",
+    "country": "AU",
+    "lat": -33.73013,
+    "lng": 150.82219
+  },
+  {
+    "name": "Bindoon",
+    "country": "AU",
+    "lat": -31.38663,
+    "lng": 116.09664
+  },
+  {
+    "name": "Bilgola Plateau",
+    "country": "AU",
+    "lat": -33.64781,
+    "lng": 151.31212
+  },
+  {
+    "name": "Bilambil Heights",
+    "country": "AU",
+    "lat": -28.2161,
+    "lng": 153.48415
+  },
+  {
+    "name": "Birinci Aşıqlı",
+    "country": "AZ",
+    "lat": 39.81917,
+    "lng": 47.67944
+  },
+  {
+    "name": "Binagadi",
+    "country": "AZ",
+    "lat": 40.46602,
+    "lng": 49.82783
+  },
+  {
+    "name": "Biny Selo",
+    "country": "AZ",
+    "lat": 40.45076,
+    "lng": 50.08686
+  },
+  {
+    "name": "Bilajer",
+    "country": "AZ",
+    "lat": 40.56441,
+    "lng": 50.04002
+  },
+  {
+    "name": "Bilajari",
+    "country": "AZ",
+    "lat": 40.4444,
+    "lng": 49.80566
+  },
+  {
+    "name": "Bileća",
+    "country": "BA",
+    "lat": 42.87645,
+    "lng": 18.42967
+  },
+  {
+    "name": "Bila",
+    "country": "BA",
+    "lat": 43.78265,
+    "lng": 16.92676
+  },
+  {
+    "name": "Bijeljina",
+    "country": "BA",
+    "lat": 44.75874,
+    "lng": 19.21437
+  },
+  {
+    "name": "Bihać",
+    "country": "BA",
+    "lat": 44.81694,
+    "lng": 15.87083
+  },
+  {
+    "name": "Bijela",
+    "country": "BA",
+    "lat": 43.60871,
+    "lng": 17.95078
+  },
+  {
+    "name": "Bibir Hat",
+    "country": "BD",
+    "lat": 22.68347,
+    "lng": 91.79058
+  },
+  {
+    "name": "Bissegem",
+    "country": "BE",
+    "lat": 50.82378,
+    "lng": 3.22844
+  },
+  {
+    "name": "Bioul",
+    "country": "BE",
+    "lat": 50.33146,
+    "lng": 4.79618
+  },
+  {
+    "name": "Binkom",
+    "country": "BE",
+    "lat": 50.87163,
+    "lng": 4.88414
+  },
+  {
+    "name": "Binche",
+    "country": "BE",
+    "lat": 50.41155,
+    "lng": 4.16469
+  },
+  {
+    "name": "Bilzen",
+    "country": "BE",
+    "lat": 50.87325,
+    "lng": 5.5184
+  },
+  {
+    "name": "Bilstain",
+    "country": "BE",
+    "lat": 50.62208,
+    "lng": 5.92086
+  },
+  {
+    "name": "Bihain",
+    "country": "BE",
+    "lat": 50.23946,
+    "lng": 5.80849
+  },
+  {
+    "name": "Biez",
+    "country": "BE",
+    "lat": 50.72369,
+    "lng": 4.71356
+  },
+  {
+    "name": "Bièvre",
+    "country": "BE",
+    "lat": 49.94085,
+    "lng": 5.01591
+  },
+  {
+    "name": "Biesme",
+    "country": "BE",
+    "lat": 50.34015,
+    "lng": 4.61048
+  },
+  {
+    "name": "Bierset",
+    "country": "BE",
+    "lat": 50.65496,
+    "lng": 5.45102
+  },
+  {
+    "name": "Bierghes",
+    "country": "BE",
+    "lat": 50.69578,
+    "lng": 4.1192
+  },
+  {
+    "name": "Bierges",
+    "country": "BE",
+    "lat": 50.71143,
+    "lng": 4.58658
+  },
+  {
+    "name": "Biercée",
+    "country": "BE",
+    "lat": 50.3242,
+    "lng": 4.25943
+  },
+  {
+    "name": "Bierbeek",
+    "country": "BE",
+    "lat": 50.82876,
+    "lng": 4.75949
+  },
+  {
+    "name": "Bittou",
+    "country": "BF",
+    "lat": 11.25806,
+    "lng": -0.30611
+  },
+  {
+    "name": "Bingo",
+    "country": "BF",
+    "lat": 12.30092,
+    "lng": -1.8348
+  },
+  {
+    "name": "Bilanga",
+    "country": "BF",
+    "lat": 12.54652,
+    "lng": -0.02438
+  },
+  {
+    "name": "Bituruna",
+    "country": "BR",
+    "lat": -26.16139,
+    "lng": -51.5525
+  },
+  {
+    "name": "Biritinga",
+    "country": "BR",
+    "lat": -11.61667,
+    "lng": -38.8
+  },
+  {
+    "name": "Biritiba Mirim",
+    "country": "BR",
+    "lat": -23.5725,
+    "lng": -46.03861
+  },
+  {
+    "name": "Birigui",
+    "country": "BR",
+    "lat": -21.28861,
+    "lng": -50.34
+  },
+  {
+    "name": "Biquinhas",
+    "country": "BR",
+    "lat": -18.78278,
+    "lng": -45.50222
+  },
+  {
+    "name": "Bilac",
+    "country": "BR",
+    "lat": -21.40333,
+    "lng": -50.47056
+  },
+  {
+    "name": "Biguaçu",
+    "country": "BR",
+    "lat": -27.49417,
+    "lng": -48.65556
+  },
+  {
+    "name": "Bicas",
+    "country": "BR",
+    "lat": -21.72528,
+    "lng": -43.05944
+  },
+  {
+    "name": "Bias Fortes",
+    "country": "BR",
+    "lat": -21.60611,
+    "lng": -43.75694
+  },
+  {
+    "name": "Bierazino",
+    "country": "BY",
+    "lat": 53.8391,
+    "lng": 28.9879
+  },
+  {
+    "name": "Billy White",
+    "country": "BZ",
+    "lat": 17.21124,
+    "lng": -89.0503
+  },
+  {
+    "name": "Big Eddy",
+    "country": "CA",
+    "lat": 51.0,
+    "lng": -118.21667
+  },
+  {
+    "name": "Biggar",
+    "country": "CA",
+    "lat": 52.05978,
+    "lng": -107.98844
+  },
+  {
+    "name": "Binbrook",
+    "country": "CA",
+    "lat": 43.12135,
+    "lng": -79.81104
+  },
+  {
+    "name": "Birchcliffe-Cliffside",
+    "country": "CA",
+    "lat": 43.69468,
+    "lng": -79.26509
+  },
+  {
+    "name": "Big Bend",
+    "country": "CA",
+    "lat": 49.19766,
+    "lng": -122.97843
+  },
+  {
+    "name": "Binga",
+    "country": "CD",
+    "lat": 2.37351,
+    "lng": 20.49769
+  },
+  {
+    "name": "Birao",
+    "country": "CF",
+    "lat": 10.28488,
+    "lng": 22.78818
+  },
+  {
+    "name": "Bimbo",
+    "country": "CF",
+    "lat": 4.25671,
+    "lng": 18.41583
+  },
+  {
+    "name": "Birsfelden",
+    "country": "CH",
+    "lat": 47.5529,
+    "lng": 7.62322
+  },
+  {
+    "name": "Birr",
+    "country": "CH",
+    "lat": 47.43432,
+    "lng": 8.20891
+  },
+  {
+    "name": "Birmenstorf",
+    "country": "CH",
+    "lat": 47.46152,
+    "lng": 8.24816
+  },
+  {
+    "name": "Birmensdorf",
+    "country": "CH",
+    "lat": 47.35515,
+    "lng": 8.44256
+  },
+  {
+    "name": "Bioggio",
+    "country": "CH",
+    "lat": 46.01357,
+    "lng": 8.91103
+  },
+  {
+    "name": "Binningen",
+    "country": "CH",
+    "lat": 47.54021,
+    "lng": 7.56932
+  },
+  {
+    "name": "Bilten",
+    "country": "CH",
+    "lat": 47.14995,
+    "lng": 9.02551
+  },
+  {
+    "name": "Biglen",
+    "country": "CH",
+    "lat": 46.92629,
+    "lng": 7.62508
+  },
+  {
+    "name": "Bière",
+    "country": "CH",
+    "lat": 46.53761,
+    "lng": 6.33362
+  },
+  {
+    "name": "Biel/Bienne",
+    "country": "CH",
+    "lat": 47.13713,
+    "lng": 7.24608
+  },
+  {
+    "name": "Biberist",
+    "country": "CH",
+    "lat": 47.18009,
+    "lng": 7.56246
+  },
+  {
+    "name": "Biasca",
+    "country": "CH",
+    "lat": 46.35972,
+    "lng": 8.96965
+  },
+  {
+    "name": "Birchwil",
+    "country": "CH",
+    "lat": 47.45431,
+    "lng": 8.63477
+  },
+  {
+    "name": "Binzikon",
+    "country": "CH",
+    "lat": 47.27632,
+    "lng": 8.75851
+  },
+  {
+    "name": "Binz",
+    "country": "CH",
+    "lat": 47.35635,
+    "lng": 8.62657
+  },
+  {
+    "name": "Biberstein",
+    "country": "CH",
+    "lat": 47.41641,
+    "lng": 8.08508
+  },
+  {
+    "name": "Billahio",
+    "country": "CI",
+    "lat": 6.21378,
+    "lng": -6.14614
+  },
+  {
+    "name": "Bieupleu",
+    "country": "CI",
+    "lat": 7.43119,
+    "lng": -8.16836
+  },
+  {
+    "name": "Bitapia",
+    "country": "CI",
+    "lat": 6.49467,
+    "lng": -6.48434
+  },
+  {
+    "name": "Bissassé",
+    "country": "CI",
+    "lat": 7.51387,
+    "lng": -3.04915
+  },
+  {
+    "name": "Bisidougou",
+    "country": "CI",
+    "lat": 8.65983,
+    "lng": -5.86867
+  },
+  {
+    "name": "Bissaguhé",
+    "country": "CI",
+    "lat": 6.65314,
+    "lng": -6.5643
+  },
+  {
+    "name": "Biongouiné",
+    "country": "CI",
+    "lat": 7.16168,
+    "lng": -7.80235
+  },
+  {
+    "name": "Bin-Houyé",
+    "country": "CI",
+    "lat": 6.78241,
+    "lng": -8.31311
+  },
+  {
+    "name": "Binguébougou",
+    "country": "CI",
+    "lat": 9.52266,
+    "lng": -5.8105
+  },
+  {
+    "name": "Bingerville",
+    "country": "CI",
+    "lat": 5.35581,
+    "lng": -3.88537
+  },
+  {
+    "name": "Bingassou",
+    "country": "CI",
+    "lat": 6.79419,
+    "lng": -4.48514
+  },
+  {
+    "name": "Bilimono",
+    "country": "CI",
+    "lat": 8.92198,
+    "lng": -4.14786
+  },
+  {
+    "name": "Bilikéhi",
+    "country": "CI",
+    "lat": 8.26736,
+    "lng": -3.21503
+  },
+  {
+    "name": "Bilaodi",
+    "country": "CI",
+    "lat": 8.15346,
+    "lng": -3.14209
+  },
+  {
+    "name": "Bikassi",
+    "country": "CI",
+    "lat": 8.4909,
+    "lng": -6.05878
+  },
+  {
+    "name": "Bigouin",
+    "country": "CI",
+    "lat": 7.37767,
+    "lng": -7.51075
+  },
+  {
+    "name": "Biénoufla",
+    "country": "CI",
+    "lat": 7.36891,
+    "lng": -6.6265
+  },
+  {
+    "name": "Biéguhé II",
+    "country": "CI",
+    "lat": 6.71706,
+    "lng": -6.58386
+  },
+  {
+    "name": "Biegon",
+    "country": "CI",
+    "lat": 6.80083,
+    "lng": -6.0175
+  },
+  {
+    "name": "Biéby",
+    "country": "CI",
+    "lat": 6.07873,
+    "lng": -3.63548
+  },
+  {
+    "name": "Bidiouan",
+    "country": "CI",
+    "lat": 6.61531,
+    "lng": -6.23701
+  },
+  {
+    "name": "Bidihé",
+    "country": "CI",
+    "lat": 6.19348,
+    "lng": -5.62545
+  },
+  {
+    "name": "Bibita",
+    "country": "CI",
+    "lat": 7.69712,
+    "lng": -7.08554
+  },
+  {
+    "name": "Bibikoréfla",
+    "country": "CI",
+    "lat": 7.40574,
+    "lng": -5.98369
+  },
+  {
+    "name": "Biasso",
+    "country": "CI",
+    "lat": 6.11151,
+    "lng": -3.78657
+  },
+  {
+    "name": "Biantouo",
+    "country": "CI",
+    "lat": 6.96438,
+    "lng": -8.24995
+  },
+  {
+    "name": "Bianouan",
+    "country": "CI",
+    "lat": 6.01203,
+    "lng": -3.19024
+  },
+  {
+    "name": "Biankouma",
+    "country": "CI",
+    "lat": 7.73909,
+    "lng": -7.61377
+  },
+  {
+    "name": "Bianhitouo",
+    "country": "CI",
+    "lat": 7.04896,
+    "lng": -8.26465
+  },
+  {
+    "name": "Bialata",
+    "country": "CI",
+    "lat": 7.12918,
+    "lng": -6.31403
+  },
+  {
+    "name": "Biakalé",
+    "country": "CI",
+    "lat": 7.46067,
+    "lng": -7.69453
+  },
+  {
+    "name": "Bielou-carrefour",
+    "country": "CI",
+    "lat": 8.54139,
+    "lng": -6.20056
+  },
+  {
+    "name": "Biakou",
+    "country": "CI",
+    "lat": 6.34173,
+    "lng": -5.83675
+  },
+  {
+    "name": "Biélé",
+    "country": "CI",
+    "lat": 7.58282,
+    "lng": -7.62268
+  },
+  {
+    "name": "Bieutouo",
+    "country": "CI",
+    "lat": 6.90177,
+    "lng": -8.21362
+  },
+  {
+    "name": "Binoufla",
+    "country": "CI",
+    "lat": 6.67386,
+    "lng": -5.88426
+  },
+  {
+    "name": "Bindolo",
+    "country": "CI",
+    "lat": 8.13451,
+    "lng": -4.26049
+  },
+  {
+    "name": "Binhe",
+    "country": "CN",
+    "lat": 32.68833,
+    "lng": 112.8275
+  },
+  {
+    "name": "Binyang",
+    "country": "CN",
+    "lat": 23.2206,
+    "lng": 108.80463
+  },
+  {
+    "name": "Biyong",
+    "country": "CN",
+    "lat": 27.18722,
+    "lng": 109.51
+  },
+  {
+    "name": "Bishui",
+    "country": "CN",
+    "lat": 32.71786,
+    "lng": 113.31167
+  },
+  {
+    "name": "Biyang",
+    "country": "CN",
+    "lat": 29.92885,
+    "lng": 117.94638
+  },
+  {
+    "name": "Bishan",
+    "country": "CN",
+    "lat": 29.59491,
+    "lng": 106.22476
+  },
+  {
+    "name": "Binzhou",
+    "country": "CN",
+    "lat": 37.36667,
+    "lng": 118.01667
+  },
+  {
+    "name": "Bikou",
+    "country": "CN",
+    "lat": 32.74583,
+    "lng": 105.24139
+  },
+  {
+    "name": "Bijie",
+    "country": "CN",
+    "lat": 27.30193,
+    "lng": 105.28627
+  },
+  {
+    "name": "Biaokou",
+    "country": "CN",
+    "lat": 39.32527,
+    "lng": 117.55378
+  },
+  {
+    "name": "Bianzhuang",
+    "country": "CN",
+    "lat": 34.84861,
+    "lng": 118.04472
+  },
+  {
+    "name": "Biantang",
+    "country": "CN",
+    "lat": 34.42325,
+    "lng": 117.64541
+  },
+  {
+    "name": "Bibo",
+    "country": "CN",
+    "lat": 26.53083,
+    "lng": 107.63139
+  },
+  {
+    "name": "Biancheng",
+    "country": "CN",
+    "lat": 40.67852,
+    "lng": 122.36233
+  },
+  {
+    "name": "Bin Xian",
+    "country": "CN",
+    "lat": 45.74274,
+    "lng": 127.46053
+  },
+  {
+    "name": "Bitou",
+    "country": "CN",
+    "lat": 22.784,
+    "lng": 113.80792
+  },
+  {
+    "name": "Biru",
+    "country": "CN",
+    "lat": 31.48319,
+    "lng": 93.67741
+  },
+  {
+    "name": "Biruxong",
+    "country": "CN",
+    "lat": 31.401,
+    "lng": 93.601
+  },
+  {
+    "name": "Bieligutai",
+    "country": "CN",
+    "lat": 44.0303,
+    "lng": 114.98036
+  },
+  {
+    "name": "Binhu",
+    "country": "CN",
+    "lat": 32.03008,
+    "lng": 118.75768
+  },
+  {
+    "name": "Binhe",
+    "country": "CN",
+    "lat": 40.13347,
+    "lng": 117.10852
+  },
+  {
+    "name": "Bishan",
+    "country": "CN",
+    "lat": 30.77075,
+    "lng": 107.4571
+  },
+  {
+    "name": "Biekou",
+    "country": "CN",
+    "lat": 30.11656,
+    "lng": 105.95843
+  },
+  {
+    "name": "Bianjiang",
+    "country": "CN",
+    "lat": 49.5578,
+    "lng": 128.47307
+  },
+  {
+    "name": "Binhe",
+    "country": "CN",
+    "lat": 37.51084,
+    "lng": 105.18445
+  },
+  {
+    "name": "Bingtuan Sanshiliu Tuan",
+    "country": "CN",
+    "lat": 39.24379,
+    "lng": 88.89959
+  },
+  {
+    "name": "Bituima",
+    "country": "CO",
+    "lat": 4.87252,
+    "lng": -74.53925
+  },
+  {
+    "name": "Bijagua",
+    "country": "CR",
+    "lat": 10.73243,
+    "lng": -85.05721
+  },
+  {
+    "name": "Bitz",
+    "country": "DE",
+    "lat": 48.244,
+    "lng": 9.09144
+  },
+  {
+    "name": "Bitterfeld-Wolfen",
+    "country": "DE",
+    "lat": 51.62355,
+    "lng": 12.32395
+  },
+  {
+    "name": "Bitburg",
+    "country": "DE",
+    "lat": 49.96794,
+    "lng": 6.52734
+  },
+  {
+    "name": "Bissingen an der Teck",
+    "country": "DE",
+    "lat": 48.59915,
+    "lng": 9.49146
+  },
+  {
+    "name": "Bissingen",
+    "country": "DE",
+    "lat": 48.71694,
+    "lng": 10.61766
+  },
+  {
+    "name": "Bissendorf",
+    "country": "DE",
+    "lat": 52.23333,
+    "lng": 8.16667
+  },
+  {
+    "name": "Bispingen",
+    "country": "DE",
+    "lat": 53.08312,
+    "lng": 9.99772
+  },
+  {
+    "name": "Bismark",
+    "country": "DE",
+    "lat": 52.66195,
+    "lng": 11.55638
+  },
+  {
+    "name": "Bisingen",
+    "country": "DE",
+    "lat": 48.31012,
+    "lng": 8.91738
+  },
+  {
+    "name": "Bischweier",
+    "country": "DE",
+    "lat": 48.83766,
+    "lng": 8.28412
+  },
+  {
+    "name": "Bischofswiesen",
+    "country": "DE",
+    "lat": 47.63115,
+    "lng": 12.98305
+  },
+  {
+    "name": "Bischofswerda",
+    "country": "DE",
+    "lat": 51.12771,
+    "lng": 14.17974
+  },
+  {
+    "name": "Bischofsmais",
+    "country": "DE",
+    "lat": 48.91796,
+    "lng": 13.08184
+  },
+  {
+    "name": "Bischofsheim in der Rhön",
+    "country": "DE",
+    "lat": 50.40239,
+    "lng": 10.00751
+  },
+  {
+    "name": "Bischofsheim",
+    "country": "DE",
+    "lat": 49.99389,
+    "lng": 8.36722
+  },
+  {
+    "name": "Bischofsgrün",
+    "country": "DE",
+    "lat": 50.05122,
+    "lng": 11.79997
+  },
+  {
+    "name": "Bischofferode",
+    "country": "DE",
+    "lat": 51.49656,
+    "lng": 10.44396
+  },
+  {
+    "name": "Bischoffen",
+    "country": "DE",
+    "lat": 50.7,
+    "lng": 8.45
+  },
+  {
+    "name": "Bischbrunn",
+    "country": "DE",
+    "lat": 49.87028,
+    "lng": 9.48917
+  },
+  {
+    "name": "Bischberg",
+    "country": "DE",
+    "lat": 49.91087,
+    "lng": 10.83212
+  },
+  {
+    "name": "Birstein",
+    "country": "DE",
+    "lat": 50.35,
+    "lng": 9.3
+  },
+  {
+    "name": "Birresborn",
+    "country": "DE",
+    "lat": 50.18333,
+    "lng": 6.63333
+  },
+  {
+    "name": "Birlenbach",
+    "country": "DE",
+    "lat": 50.35815,
+    "lng": 8.00273
+  },
+  {
+    "name": "Birkenwerder",
+    "country": "DE",
+    "lat": 52.69106,
+    "lng": 13.27833
+  },
+  {
+    "name": "Birkenheide",
+    "country": "DE",
+    "lat": 49.48139,
+    "lng": 8.26194
+  },
+  {
+    "name": "Birkenfeld",
+    "country": "DE",
+    "lat": 49.85861,
+    "lng": 9.69556
+  },
+  {
+    "name": "Birkenfeld",
+    "country": "DE",
+    "lat": 49.65245,
+    "lng": 7.16668
+  },
+  {
+    "name": "Birkenfeld",
+    "country": "DE",
+    "lat": 48.86667,
+    "lng": 8.63333
+  },
+  {
+    "name": "Birkenau",
+    "country": "DE",
+    "lat": 49.5625,
+    "lng": 8.70694
+  },
+  {
+    "name": "Birgte",
+    "country": "DE",
+    "lat": 52.2479,
+    "lng": 7.64833
+  },
+  {
+    "name": "Birenbach",
+    "country": "DE",
+    "lat": 48.74732,
+    "lng": 9.66115
+  },
+  {
+    "name": "Bippen",
+    "country": "DE",
+    "lat": 52.58333,
+    "lng": 7.73333
+  },
+  {
+    "name": "Binzen",
+    "country": "DE",
+    "lat": 47.63333,
+    "lng": 7.61667
+  },
+  {
+    "name": "Binswangen",
+    "country": "DE",
+    "lat": 48.55798,
+    "lng": 10.64249
+  },
+  {
+    "name": "Binsfeld",
+    "country": "DE",
+    "lat": 49.96667,
+    "lng": 6.71667
+  },
+  {
+    "name": "Binnen",
+    "country": "DE",
+    "lat": 52.61667,
+    "lng": 9.13333
+  },
+  {
+    "name": "Bingen am Rhein",
+    "country": "DE",
+    "lat": 49.96675,
+    "lng": 7.8992
+  },
+  {
+    "name": "Bingen",
+    "country": "DE",
+    "lat": 48.11127,
+    "lng": 9.27238
+  },
+  {
+    "name": "Bindlach",
+    "country": "DE",
+    "lat": 49.98167,
+    "lng": 11.61389
+  },
+  {
+    "name": "Binau",
+    "country": "DE",
+    "lat": 49.36833,
+    "lng": 9.05806
+  },
+  {
+    "name": "Bilshausen",
+    "country": "DE",
+    "lat": 51.62974,
+    "lng": 10.15859
+  },
+  {
+    "name": "Billwerder",
+    "country": "DE",
+    "lat": 53.49846,
+    "lng": 10.13866
+  },
+  {
+    "name": "Billstedt",
+    "country": "DE",
+    "lat": 53.55,
+    "lng": 10.13333
+  },
+  {
+    "name": "Billigheim",
+    "country": "DE",
+    "lat": 49.34861,
+    "lng": 9.25389
+  },
+  {
+    "name": "Billerbeck",
+    "country": "DE",
+    "lat": 51.97829,
+    "lng": 7.29261
+  },
+  {
+    "name": "Billbrook",
+    "country": "DE",
+    "lat": 53.52967,
+    "lng": 10.09463
+  },
+  {
+    "name": "Bietigheim-Bissingen",
+    "country": "DE",
+    "lat": 48.94407,
+    "lng": 9.11755
+  },
+  {
+    "name": "Bietigheim",
+    "country": "DE",
+    "lat": 48.90919,
+    "lng": 8.25202
+  },
+  {
+    "name": "Biessenhofen",
+    "country": "DE",
+    "lat": 47.83057,
+    "lng": 10.64022
+  },
+  {
+    "name": "Biesenthal",
+    "country": "DE",
+    "lat": 52.76616,
+    "lng": 13.64416
+  },
+  {
+    "name": "Biesdorf",
+    "country": "DE",
+    "lat": 52.50906,
+    "lng": 13.5534
+  },
+  {
+    "name": "Bierstadt",
+    "country": "DE",
+    "lat": 50.08295,
+    "lng": 8.28569
+  },
+  {
+    "name": "Biere",
+    "country": "DE",
+    "lat": 51.97431,
+    "lng": 11.65443
+  },
+  {
+    "name": "Bienrode",
+    "country": "DE",
+    "lat": 52.32065,
+    "lng": 10.52619
+  },
+  {
+    "name": "Bienenbüttel",
+    "country": "DE",
+    "lat": 53.14157,
+    "lng": 10.48679
+  },
+  {
+    "name": "Biendorf",
+    "country": "DE",
+    "lat": 54.07592,
+    "lng": 11.70218
+  },
+  {
+    "name": "Bielefeld",
+    "country": "DE",
+    "lat": 52.03333,
+    "lng": 8.53333
+  },
+  {
+    "name": "Biederitz",
+    "country": "DE",
+    "lat": 52.15,
+    "lng": 11.71667
+  },
+  {
+    "name": "Biedenkopf",
+    "country": "DE",
+    "lat": 50.91125,
+    "lng": 8.53016
+  },
+  {
+    "name": "Biebrich",
+    "country": "DE",
+    "lat": 50.0415,
+    "lng": 8.24878
+  },
+  {
+    "name": "Biebesheim",
+    "country": "DE",
+    "lat": 49.78088,
+    "lng": 8.46696
+  },
+  {
+    "name": "Biebelried",
+    "country": "DE",
+    "lat": 49.76667,
+    "lng": 10.08333
+  },
+  {
+    "name": "Bidingen",
+    "country": "DE",
+    "lat": 47.82974,
+    "lng": 10.72623
+  },
+  {
+    "name": "Bickenbach",
+    "country": "DE",
+    "lat": 49.75917,
+    "lng": 8.6175
+  },
+  {
+    "name": "Bichl",
+    "country": "DE",
+    "lat": 47.7201,
+    "lng": 11.41231
+  },
+  {
+    "name": "Biburg",
+    "country": "DE",
+    "lat": 48.79066,
+    "lng": 11.85726
+  },
+  {
+    "name": "Biblis",
+    "country": "DE",
+    "lat": 49.69167,
+    "lng": 8.45861
+  },
+  {
+    "name": "Biberbach",
+    "country": "DE",
+    "lat": 48.51778,
+    "lng": 10.81139
+  },
+  {
+    "name": "Biberach an der Riß",
+    "country": "DE",
+    "lat": 48.09345,
+    "lng": 9.79053
+  },
+  {
+    "name": "Biberach",
+    "country": "DE",
+    "lat": 48.61008,
+    "lng": 8.27704
+  },
+  {
+    "name": "Biberach",
+    "country": "DE",
+    "lat": 48.33333,
+    "lng": 8.03333
+  },
+  {
+    "name": "Birken-Honigsessen",
+    "country": "DE",
+    "lat": 50.81667,
+    "lng": 7.73333
+  },
+  {
+    "name": "Billigheim-Ingenheim",
+    "country": "DE",
+    "lat": 49.13667,
+    "lng": 8.09056
+  },
+  {
+    "name": "Bilderstöckchen",
+    "country": "DE",
+    "lat": 50.96983,
+    "lng": 6.92997
+  },
+  {
+    "name": "Birkerød",
+    "country": "DK",
+    "lat": 55.84759,
+    "lng": 12.42791
+  },
+  {
+    "name": "Billund",
+    "country": "DK",
+    "lat": 55.73349,
+    "lng": 9.10785
+  },
+  {
+    "name": "Biskra",
+    "country": "DZ",
+    "lat": 34.85038,
+    "lng": 5.72805
+  },
+  {
+    "name": "Birkhadem",
+    "country": "DZ",
+    "lat": 36.71499,
+    "lng": 3.05002
+  },
+  {
+    "name": "Birine",
+    "country": "DZ",
+    "lat": 35.635,
+    "lng": 3.225
+  },
+  {
+    "name": "Bir el Djir",
+    "country": "DZ",
+    "lat": 35.72,
+    "lng": -0.545
+  },
+  {
+    "name": "Bir el Ater",
+    "country": "DZ",
+    "lat": 34.74488,
+    "lng": 8.06024
+  },
+  {
+    "name": "Biblián",
+    "country": "EC",
+    "lat": -2.71343,
+    "lng": -78.88976
+  },
+  {
+    "name": "Biyalā",
+    "country": "EG",
+    "lat": 31.17419,
+    "lng": 31.2218
+  },
+  {
+    "name": "Birkat as Sab‘",
+    "country": "EG",
+    "lat": 30.62914,
+    "lng": 31.08235
+  },
+  {
+    "name": "Bilqās",
+    "country": "EG",
+    "lat": 31.21452,
+    "lng": 31.35798
+  },
+  {
+    "name": "Bilbeis",
+    "country": "EG",
+    "lat": 30.42039,
+    "lng": 31.56223
+  },
+  {
+    "name": "Bibā",
+    "country": "EG",
+    "lat": 28.92406,
+    "lng": 30.98544
+  },
+  {
+    "name": "Bi’r al ‘Abd",
+    "country": "EG",
+    "lat": 31.01887,
+    "lng": 33.0098
+  },
+  {
+    "name": "Bir Anzarane",
+    "country": "EH",
+    "lat": 23.89,
+    "lng": -14.53603
+  },
+  {
+    "name": "Binissalem",
+    "country": "ES",
+    "lat": 39.68744,
+    "lng": 2.84396
+  },
+  {
+    "name": "Bigastro",
+    "country": "ES",
+    "lat": 38.06237,
+    "lng": -0.89841
+  },
+  {
+    "name": "Bienvenida",
+    "country": "ES",
+    "lat": 38.3,
+    "lng": -6.2
+  },
+  {
+    "name": "Bienservida",
+    "country": "ES",
+    "lat": 38.51716,
+    "lng": -2.61087
+  },
+  {
+    "name": "Bicorp",
+    "country": "ES",
+    "lat": 39.13215,
+    "lng": -0.7872
+  },
+  {
+    "name": "Biar",
+    "country": "ES",
+    "lat": 38.63117,
+    "lng": -0.76458
+  },
+  {
+    "name": "Biure",
+    "country": "ES",
+    "lat": 42.33734,
+    "lng": 2.89513
+  },
+  {
+    "name": "Bisimbre",
+    "country": "ES",
+    "lat": 41.85607,
+    "lng": -1.44268
+  },
+  {
+    "name": "Biscarrués",
+    "country": "ES",
+    "lat": 42.22867,
+    "lng": -0.74967
+  },
+  {
+    "name": "Bisaurri",
+    "country": "ES",
+    "lat": 42.49677,
+    "lng": 0.50647
+  },
+  {
+    "name": "Biota",
+    "country": "ES",
+    "lat": 42.26214,
+    "lng": -1.18735
+  },
+  {
+    "name": "Binéfar",
+    "country": "ES",
+    "lat": 41.85141,
+    "lng": 0.29433
+  },
+  {
+    "name": "Binaced",
+    "country": "ES",
+    "lat": 41.82564,
+    "lng": 0.20084
+  },
+  {
+    "name": "Bimenes",
+    "country": "ES",
+    "lat": 43.31667,
+    "lng": -5.55
+  },
+  {
+    "name": "Bilbao",
+    "country": "ES",
+    "lat": 43.26271,
+    "lng": -2.92528
+  },
+  {
+    "name": "Bijuesca",
+    "country": "ES",
+    "lat": 41.54083,
+    "lng": -1.92039
+  },
+  {
+    "name": "Bigues i Riells",
+    "country": "ES",
+    "lat": 41.68333,
+    "lng": 2.23333
+  },
+  {
+    "name": "Biescas",
+    "country": "ES",
+    "lat": 42.62897,
+    "lng": -0.32135
+  },
+  {
+    "name": "Bierge",
+    "country": "ES",
+    "lat": 42.16216,
+    "lng": -0.08326
+  },
+  {
+    "name": "Bielsa",
+    "country": "ES",
+    "lat": 42.63347,
+    "lng": 0.21858
+  },
+  {
+    "name": "Biel",
+    "country": "ES",
+    "lat": 42.38763,
+    "lng": -0.94154
+  },
+  {
+    "name": "Bishoftu",
+    "country": "ET",
+    "lat": 8.75225,
+    "lng": 38.97846
+  },
+  {
+    "name": "Bichena",
+    "country": "ET",
+    "lat": 10.45,
+    "lng": 38.2
+  },
+  {
+    "name": "Bitana",
+    "country": "ET",
+    "lat": 6.96602,
+    "lng": 38.03423
+  },
+  {
+    "name": "Bize-Minervois",
+    "country": "FR",
+    "lat": 43.31843,
+    "lng": 2.87078
+  },
+  {
+    "name": "Bizanos",
+    "country": "FR",
+    "lat": 43.28753,
+    "lng": -0.35164
+  },
+  {
+    "name": "Bizanet",
+    "country": "FR",
+    "lat": 43.16498,
+    "lng": 2.87046
+  },
+  {
+    "name": "Biviers",
+    "country": "FR",
+    "lat": 45.23333,
+    "lng": 5.8
+  },
+  {
+    "name": "Bitschwiller-lès-Thann",
+    "country": "FR",
+    "lat": 47.82969,
+    "lng": 7.07911
+  },
+  {
+    "name": "Bitche",
+    "country": "FR",
+    "lat": 49.05232,
+    "lng": 7.42992
+  },
+  {
+    "name": "Bischwiller",
+    "country": "FR",
+    "lat": 48.76826,
+    "lng": 7.85406
+  },
+  {
+    "name": "Bischoffsheim",
+    "country": "FR",
+    "lat": 48.48703,
+    "lng": 7.48967
+  },
+  {
+    "name": "Bischheim",
+    "country": "FR",
+    "lat": 48.61612,
+    "lng": 7.75343
+  },
+  {
+    "name": "Biscarrosse",
+    "country": "FR",
+    "lat": 44.39454,
+    "lng": -1.16721
+  },
+  {
+    "name": "Biot",
+    "country": "FR",
+    "lat": 43.62852,
+    "lng": 7.0953
+  },
+  {
+    "name": "Bining",
+    "country": "FR",
+    "lat": 49.03729,
+    "lng": 7.25273
+  },
+  {
+    "name": "Binic",
+    "country": "FR",
+    "lat": 48.60498,
+    "lng": -2.82428
+  },
+  {
+    "name": "Billy-sur-Aisne",
+    "country": "FR",
+    "lat": 49.35632,
+    "lng": 3.38357
+  },
+  {
+    "name": "Billy-Montigny",
+    "country": "FR",
+    "lat": 50.41711,
+    "lng": 2.90286
+  },
+  {
+    "name": "Billy-Berclau",
+    "country": "FR",
+    "lat": 50.51783,
+    "lng": 2.86613
+  },
+  {
+    "name": "Billom",
+    "country": "FR",
+    "lat": 45.72267,
+    "lng": 3.33869
+  },
+  {
+    "name": "Billère",
+    "country": "FR",
+    "lat": 43.30264,
+    "lng": -0.39733
+  },
+  {
+    "name": "Bilieu",
+    "country": "FR",
+    "lat": 45.44809,
+    "lng": 5.54268
+  },
+  {
+    "name": "Bihorel",
+    "country": "FR",
+    "lat": 49.45468,
+    "lng": 1.1223
+  },
+  {
+    "name": "Biguglia",
+    "country": "FR",
+    "lat": 42.62692,
+    "lng": 9.42018
+  },
+  {
+    "name": "Bignoux",
+    "country": "FR",
+    "lat": 46.59969,
+    "lng": 0.46943
+  },
+  {
+    "name": "Bignan",
+    "country": "FR",
+    "lat": 47.87889,
+    "lng": -2.77432
+  },
+  {
+    "name": "Biganos",
+    "country": "FR",
+    "lat": 44.64425,
+    "lng": -0.97841
+  },
+  {
+    "name": "Bièvres",
+    "country": "FR",
+    "lat": 48.75772,
+    "lng": 2.21881
+  },
+  {
+    "name": "Biéville-Beuville",
+    "country": "FR",
+    "lat": 49.24293,
+    "lng": -0.32762
+  },
+  {
+    "name": "Biesles",
+    "country": "FR",
+    "lat": 48.08597,
+    "lng": 5.29409
+  },
+  {
+    "name": "Biesheim",
+    "country": "FR",
+    "lat": 48.04118,
+    "lng": 7.54474
+  },
+  {
+    "name": "Bierne",
+    "country": "FR",
+    "lat": 50.96232,
+    "lng": 2.40963
+  },
+  {
+    "name": "Bienville",
+    "country": "FR",
+    "lat": 48.57582,
+    "lng": 5.04579
+  },
+  {
+    "name": "Bidart",
+    "country": "FR",
+    "lat": 43.43698,
+    "lng": -1.59294
+  },
+  {
+    "name": "Bidache",
+    "country": "FR",
+    "lat": 43.48317,
+    "lng": -1.1413
+  },
+  {
+    "name": "Bias",
+    "country": "FR",
+    "lat": 44.41595,
+    "lng": 0.66933
+  },
+  {
+    "name": "Biars-sur-Cère",
+    "country": "FR",
+    "lat": 44.92831,
+    "lng": 1.8465
+  },
+  {
+    "name": "Biarritz",
+    "country": "FR",
+    "lat": 43.48055,
+    "lng": -1.55684
+  },
+  {
+    "name": "Biard",
+    "country": "FR",
+    "lat": 46.57726,
+    "lng": 0.30554
+  },
+  {
+    "name": "Biache-Saint-Vaast",
+    "country": "FR",
+    "lat": 50.30869,
+    "lng": 2.94777
+  },
+  {
+    "name": "Biol",
+    "country": "FR",
+    "lat": 45.4914,
+    "lng": 5.3855
+  },
+  {
+    "name": "Bitam",
+    "country": "GA",
+    "lat": 2.07597,
+    "lng": 11.50065
+  },
+  {
+    "name": "Bitton",
+    "country": "GB",
+    "lat": 51.42479,
+    "lng": -2.45965
+  },
+  {
+    "name": "Bishton",
+    "country": "GB",
+    "lat": 51.58194,
+    "lng": -2.87833
+  },
+  {
+    "name": "Bishopton",
+    "country": "GB",
+    "lat": 55.90969,
+    "lng": -4.5056
+  },
+  {
+    "name": "Bishopton",
+    "country": "GB",
+    "lat": 54.58333,
+    "lng": -1.43333
+  },
+  {
+    "name": "Bishopthorpe",
+    "country": "GB",
+    "lat": 53.9191,
+    "lng": -1.09915
+  },
+  {
+    "name": "Bishops Waltham",
+    "country": "GB",
+    "lat": 50.95595,
+    "lng": -1.21476
+  },
+  {
+    "name": "Bishopstrow",
+    "country": "GB",
+    "lat": 51.19306,
+    "lng": -2.15528
+  },
+  {
+    "name": "Bishopstone",
+    "country": "GB",
+    "lat": 51.5513,
+    "lng": -1.64701
+  },
+  {
+    "name": "Bishopstone",
+    "country": "GB",
+    "lat": 51.03028,
+    "lng": -1.90269
+  },
+  {
+    "name": "Bishopston",
+    "country": "GB",
+    "lat": 51.5775,
+    "lng": -4.04806
+  },
+  {
+    "name": "Bishopstoke",
+    "country": "GB",
+    "lat": 50.96643,
+    "lng": -1.32832
+  },
+  {
+    "name": "Bishopsteignton",
+    "country": "GB",
+    "lat": 50.55193,
+    "lng": -3.53852
+  },
+  {
+    "name": "Bishops Stortford",
+    "country": "GB",
+    "lat": 51.87113,
+    "lng": 0.15868
+  },
+  {
+    "name": "Bishops Lydeard",
+    "country": "GB",
+    "lat": 51.05917,
+    "lng": -3.18778
+  },
+  {
+    "name": "Bishops Cleeve",
+    "country": "GB",
+    "lat": 51.94749,
+    "lng": -2.06277
+  },
+  {
+    "name": "Bishop's Castle",
+    "country": "GB",
+    "lat": 52.49208,
+    "lng": -3.0021
+  },
+  {
+    "name": "Bishop Middleham",
+    "country": "GB",
+    "lat": 54.67778,
+    "lng": -1.48826
+  },
+  {
+    "name": "Bishopbriggs",
+    "country": "GB",
+    "lat": 55.90669,
+    "lng": -4.21869
+  },
+  {
+    "name": "Bishop Auckland",
+    "country": "GB",
+    "lat": 54.65554,
+    "lng": -1.67706
+  },
+  {
+    "name": "Bisham",
+    "country": "GB",
+    "lat": 51.56104,
+    "lng": -0.77788
+  },
+  {
+    "name": "Birtley",
+    "country": "GB",
+    "lat": 55.08333,
+    "lng": -2.18333
+  },
+  {
+    "name": "Birstall",
+    "country": "GB",
+    "lat": 52.66667,
+    "lng": -1.11667
+  },
+  {
+    "name": "Birmingham",
+    "country": "GB",
+    "lat": 52.48142,
+    "lng": -1.89983
+  },
+  {
+    "name": "Birkenhead",
+    "country": "GB",
+    "lat": 53.39337,
+    "lng": -3.01479
+  },
+  {
+    "name": "Birdwell",
+    "country": "GB",
+    "lat": 53.51398,
+    "lng": -1.47929
+  },
+  {
+    "name": "Birdham",
+    "country": "GB",
+    "lat": 50.79606,
+    "lng": -0.83067
+  },
+  {
+    "name": "Bircotes",
+    "country": "GB",
+    "lat": 53.41933,
+    "lng": -1.04905
+  },
+  {
+    "name": "Birchington-on-Sea",
+    "country": "GB",
+    "lat": 51.37575,
+    "lng": 1.3048
+  },
+  {
+    "name": "Bingley",
+    "country": "GB",
+    "lat": 53.84861,
+    "lng": -1.83857
+  },
+  {
+    "name": "Bingham",
+    "country": "GB",
+    "lat": 52.94978,
+    "lng": -0.95907
+  },
+  {
+    "name": "Binfield",
+    "country": "GB",
+    "lat": 51.43159,
+    "lng": -0.7881
+  },
+  {
+    "name": "Bilston",
+    "country": "GB",
+    "lat": 52.56568,
+    "lng": -2.07367
+  },
+  {
+    "name": "Bilsthorpe",
+    "country": "GB",
+    "lat": 53.14024,
+    "lng": -1.03392
+  },
+  {
+    "name": "Billingshurst",
+    "country": "GB",
+    "lat": 51.02312,
+    "lng": -0.45359
+  },
+  {
+    "name": "Billinghay",
+    "country": "GB",
+    "lat": 53.07959,
+    "lng": -0.27689
+  },
+  {
+    "name": "Billingham",
+    "country": "GB",
+    "lat": 54.58881,
+    "lng": -1.29034
+  },
+  {
+    "name": "Billinge",
+    "country": "GB",
+    "lat": 53.49795,
+    "lng": -2.7081
+  },
+  {
+    "name": "Billingborough",
+    "country": "GB",
+    "lat": 52.89384,
+    "lng": -0.34186
+  },
+  {
+    "name": "Billericay",
+    "country": "GB",
+    "lat": 51.62867,
+    "lng": 0.41963
+  },
+  {
+    "name": "Bildeston",
+    "country": "GB",
+    "lat": 52.10658,
+    "lng": 0.90916
+  },
+  {
+    "name": "Biggleswade",
+    "country": "GB",
+    "lat": 52.08652,
+    "lng": -0.26493
+  },
+  {
+    "name": "Biggin Hill",
+    "country": "GB",
+    "lat": 51.31329,
+    "lng": 0.03433
+  },
+  {
+    "name": "Biggar",
+    "country": "GB",
+    "lat": 55.62297,
+    "lng": -3.52455
+  },
+  {
+    "name": "Bierton",
+    "country": "GB",
+    "lat": 51.8305,
+    "lng": -0.78737
+  },
+  {
+    "name": "Bidford-on-Avon",
+    "country": "GB",
+    "lat": 52.16964,
+    "lng": -1.85955
+  },
+  {
+    "name": "Bideford",
+    "country": "GB",
+    "lat": 51.01678,
+    "lng": -4.20832
+  },
+  {
+    "name": "Biddulph",
+    "country": "GB",
+    "lat": 53.11724,
+    "lng": -2.17584
+  },
+  {
+    "name": "Biddestone",
+    "country": "GB",
+    "lat": 51.46083,
+    "lng": -2.19833
+  },
+  {
+    "name": "Biddenham",
+    "country": "GB",
+    "lat": 52.13847,
+    "lng": -0.50687
+  },
+  {
+    "name": "Biddenden",
+    "country": "GB",
+    "lat": 51.11489,
+    "lng": 0.63819
+  },
+  {
+    "name": "Bicton",
+    "country": "GB",
+    "lat": 52.72829,
+    "lng": -2.81649
+  },
+  {
+    "name": "Bicknacre",
+    "country": "GB",
+    "lat": 51.69403,
+    "lng": 0.58519
+  },
+  {
+    "name": "Bickley",
+    "country": "GB",
+    "lat": 53.03333,
+    "lng": -2.7
+  },
+  {
+    "name": "Bickley",
+    "country": "GB",
+    "lat": 51.40135,
+    "lng": 0.04583
+  },
+  {
+    "name": "Bickenhill",
+    "country": "GB",
+    "lat": 52.43974,
+    "lng": -1.72545
+  },
+  {
+    "name": "Bicester",
+    "country": "GB",
+    "lat": 51.89998,
+    "lng": -1.15357
+  },
+  {
+    "name": "Bishop Sutton",
+    "country": "GB",
+    "lat": 51.33444,
+    "lng": -2.59472
+  },
+  {
+    "name": "Billington",
+    "country": "GB",
+    "lat": 53.8157,
+    "lng": -2.4236
+  },
+  {
+    "name": "Bilston",
+    "country": "GB",
+    "lat": 55.8703,
+    "lng": -3.17814
+  },
+  {
+    "name": "Bilsdale",
+    "country": "GB",
+    "lat": 54.37356,
+    "lng": -1.11923
+  },
+  {
+    "name": "Bishopsworth",
+    "country": "GB",
+    "lat": 51.41479,
+    "lng": -2.6208
+  },
+  {
+    "name": "Bich’vinta",
+    "country": "GE",
+    "lat": 43.15925,
+    "lng": 40.33985
+  },
+  {
+    "name": "Bimbila",
+    "country": "GH",
+    "lat": 8.85488,
+    "lng": 0.05922
+  },
+  {
+    "name": "Bibiani",
+    "country": "GH",
+    "lat": 6.45196,
+    "lng": -2.31635
+  },
+  {
+    "name": "Bijilo",
+    "country": "GM",
+    "lat": 13.41806,
+    "lng": -16.73
+  },
+  {
+    "name": "Bitica",
+    "country": "GQ",
+    "lat": 1.4261,
+    "lng": 9.62316
+  },
+  {
+    "name": "Bicurga",
+    "country": "GQ",
+    "lat": 1.58113,
+    "lng": 10.46716
+  },
+  {
+    "name": "Bissorã",
+    "country": "GW",
+    "lat": 12.22306,
+    "lng": -15.4475
+  },
+  {
+    "name": "Bissau",
+    "country": "GW",
+    "lat": 11.86357,
+    "lng": -15.59767
+  },
+  {
+    "name": "Bizovac",
+    "country": "HR",
+    "lat": 45.59278,
+    "lng": 18.45889
+  },
+  {
+    "name": "Bistrinci",
+    "country": "HR",
+    "lat": 45.69167,
+    "lng": 18.39861
+  },
+  {
+    "name": "Biskupija",
+    "country": "HR",
+    "lat": 44.01139,
+    "lng": 16.23722
+  },
+  {
+    "name": "Biograd na Moru",
+    "country": "HR",
+    "lat": 43.94333,
+    "lng": 15.45194
+  },
+  {
+    "name": "Bilje",
+    "country": "HR",
+    "lat": 45.60694,
+    "lng": 18.74389
+  },
+  {
+    "name": "Bilice",
+    "country": "HR",
+    "lat": 43.78869,
+    "lng": 15.87473
+  },
+  {
+    "name": "Bijelo Brdo",
+    "country": "HR",
+    "lat": 45.51722,
+    "lng": 18.87083
+  },
+  {
+    "name": "Bibinje",
+    "country": "HR",
+    "lat": 44.07288,
+    "lng": 15.28396
+  },
+  {
+    "name": "Biharnagybajom",
+    "country": "HU",
+    "lat": 47.21667,
+    "lng": 21.23333
+  },
+  {
+    "name": "Biharkeresztes",
+    "country": "HU",
+    "lat": 47.13333,
+    "lng": 21.71667
+  },
+  {
+    "name": "Bicske",
+    "country": "HU",
+    "lat": 47.48419,
+    "lng": 18.64404
+  },
+  {
+    "name": "Biatorbágy",
+    "country": "HU",
+    "lat": 47.4706,
+    "lng": 18.81892
+  },
+  {
+    "name": "Bireun",
+    "country": "ID",
+    "lat": 5.203,
+    "lng": 96.7009
+  },
+  {
+    "name": "Binjai",
+    "country": "ID",
+    "lat": 3.6001,
+    "lng": 98.4854
+  },
+  {
+    "name": "Binanga",
+    "country": "ID",
+    "lat": 1.41006,
+    "lng": 99.77602
+  },
+  {
+    "name": "Bikondini",
+    "country": "ID",
+    "lat": -3.65836,
+    "lng": 138.57468
+  },
+  {
+    "name": "Bitung",
+    "country": "ID",
+    "lat": 1.44059,
+    "lng": 125.12824
+  },
+  {
+    "name": "Birayang",
+    "country": "ID",
+    "lat": -2.5328,
+    "lng": 115.4549
+  },
+  {
+    "name": "Binuang",
+    "country": "ID",
+    "lat": -3.0707,
+    "lng": 115.1638
+  },
+  {
+    "name": "Bintuni",
+    "country": "ID",
+    "lat": -2.10967,
+    "lng": 133.52461
+  },
+  {
+    "name": "Bintuhan",
+    "country": "ID",
+    "lat": -4.79371,
+    "lng": 103.34836
+  },
+  {
+    "name": "Bingintelok",
+    "country": "ID",
+    "lat": -2.6232,
+    "lng": 103.1173
+  },
+  {
+    "name": "Binangun",
+    "country": "ID",
+    "lat": -8.2343,
+    "lng": 112.336
+  },
+  {
+    "name": "Bima",
+    "country": "ID",
+    "lat": -8.46006,
+    "lng": 118.72667
+  },
+  {
+    "name": "Bilungala",
+    "country": "ID",
+    "lat": 0.3815,
+    "lng": 123.2135
+  },
+  {
+    "name": "Biha",
+    "country": "ID",
+    "lat": -5.3296,
+    "lng": 104.0295
+  },
+  {
+    "name": "Biak",
+    "country": "ID",
+    "lat": -1.1767,
+    "lng": 136.082
+  },
+  {
+    "name": "Bilalang",
+    "country": "ID",
+    "lat": 0.77292,
+    "lng": 124.30103
+  },
+  {
+    "name": "Biudukfoho",
+    "country": "ID",
+    "lat": -9.6066,
+    "lng": 124.7395
+  },
+  {
+    "name": "Bilogai",
+    "country": "ID",
+    "lat": -3.7181,
+    "lng": 136.6683
+  },
+  {
+    "name": "Binalawan",
+    "country": "ID",
+    "lat": 4.09197,
+    "lng": 117.77322
+  },
+  {
+    "name": "Binawara",
+    "country": "ID",
+    "lat": -3.4853,
+    "lng": 115.7946
+  },
+  {
+    "name": "Biscoop",
+    "country": "ID",
+    "lat": -1.59128,
+    "lng": 133.2987
+  },
+  {
+    "name": "Birr",
+    "country": "IE",
+    "lat": 53.09139,
+    "lng": -7.91333
+  },
+  {
+    "name": "Biẕẕaron",
+    "country": "IL",
+    "lat": 31.79446,
+    "lng": 34.72806
+  },
+  {
+    "name": "Binyamina",
+    "country": "IL",
+    "lat": 32.5232,
+    "lng": 34.94499
+  },
+  {
+    "name": "Bi’na",
+    "country": "IL",
+    "lat": 32.93066,
+    "lng": 35.27157
+  },
+  {
+    "name": "Bir Hadaj",
+    "country": "IL",
+    "lat": 31.02416,
+    "lng": 34.70857
+  },
+  {
+    "name": "Binyamina-Giv'at Ada",
+    "country": "IL",
+    "lat": 32.51824,
+    "lng": 34.95398
+  },
+  {
+    "name": "Bishunpur Urf Mahārājganj",
+    "country": "IN",
+    "lat": 26.25914,
+    "lng": 83.11643
+  },
+  {
+    "name": "Bicholim",
+    "country": "IN",
+    "lat": 15.59319,
+    "lng": 73.94571
+  },
+  {
+    "name": "Bithūr",
+    "country": "IN",
+    "lat": 26.60664,
+    "lng": 80.27098
+  },
+  {
+    "name": "Biswān",
+    "country": "IN",
+    "lat": 27.49581,
+    "lng": 80.99618
+  },
+  {
+    "name": "Bissāu",
+    "country": "IN",
+    "lat": 28.24737,
+    "lng": 75.07666
+  },
+  {
+    "name": "Bissamcuttack",
+    "country": "IN",
+    "lat": 19.51168,
+    "lng": 83.50596
+  },
+  {
+    "name": "Bishrāmpur",
+    "country": "IN",
+    "lat": 24.25299,
+    "lng": 83.92502
+  },
+  {
+    "name": "Bishungarh",
+    "country": "IN",
+    "lat": 24.01514,
+    "lng": 85.75544
+  },
+  {
+    "name": "Bishnupur",
+    "country": "IN",
+    "lat": 23.0738,
+    "lng": 87.31991
+  },
+  {
+    "name": "Bishnāh",
+    "country": "IN",
+    "lat": 32.6106,
+    "lng": 74.85557
+  },
+  {
+    "name": "Bisenda Buzurg",
+    "country": "IN",
+    "lat": 25.4035,
+    "lng": 80.61889
+  },
+  {
+    "name": "Bisauli",
+    "country": "IN",
+    "lat": 28.30772,
+    "lng": 78.93678
+  },
+  {
+    "name": "Bisambharpur",
+    "country": "IN",
+    "lat": 23.33491,
+    "lng": 83.40884
+  },
+  {
+    "name": "Bisālgarh",
+    "country": "IN",
+    "lat": 23.67595,
+    "lng": 91.28325
+  },
+  {
+    "name": "Birvādi",
+    "country": "IN",
+    "lat": 18.1019,
+    "lng": 73.50803
+  },
+  {
+    "name": "Birūr",
+    "country": "IN",
+    "lat": 13.59723,
+    "lng": 75.97167
+  },
+  {
+    "name": "Birmitrapur",
+    "country": "IN",
+    "lat": 22.4,
+    "lng": 84.76667
+  },
+  {
+    "name": "Birbhaddar",
+    "country": "IN",
+    "lat": 30.0712,
+    "lng": 78.28189
+  },
+  {
+    "name": "Binika",
+    "country": "IN",
+    "lat": 21.02626,
+    "lng": 83.81197
+  },
+  {
+    "name": "Bindki",
+    "country": "IN",
+    "lat": 26.03613,
+    "lng": 80.57617
+  },
+  {
+    "name": "Bilthra",
+    "country": "IN",
+    "lat": 26.12705,
+    "lng": 83.89148
+  },
+  {
+    "name": "Bilsi",
+    "country": "IN",
+    "lat": 28.12941,
+    "lng": 78.9109
+  },
+  {
+    "name": "Bilsanda",
+    "country": "IN",
+    "lat": 28.24341,
+    "lng": 79.95135
+  },
+  {
+    "name": "Biloli",
+    "country": "IN",
+    "lat": 18.77385,
+    "lng": 77.72463
+  },
+  {
+    "name": "Bilkha",
+    "country": "IN",
+    "lat": 21.4415,
+    "lng": 70.60063
+  },
+  {
+    "name": "Bilimora",
+    "country": "IN",
+    "lat": 20.76957,
+    "lng": 72.96134
+  },
+  {
+    "name": "Bilhaur",
+    "country": "IN",
+    "lat": 26.84345,
+    "lng": 80.06388
+  },
+  {
+    "name": "Bilgrām",
+    "country": "IN",
+    "lat": 27.17509,
+    "lng": 80.03201
+  },
+  {
+    "name": "Bilgi",
+    "country": "IN",
+    "lat": 16.34714,
+    "lng": 75.61804
+  },
+  {
+    "name": "Bilaur",
+    "country": "IN",
+    "lat": 32.61384,
+    "lng": 75.60494
+  },
+  {
+    "name": "Bilaua",
+    "country": "IN",
+    "lat": 26.05008,
+    "lng": 78.27522
+  },
+  {
+    "name": "Bilaspur",
+    "country": "IN",
+    "lat": 31.33027,
+    "lng": 76.75663
+  },
+  {
+    "name": "Bilāspur",
+    "country": "IN",
+    "lat": 30.3045,
+    "lng": 77.30424
+  },
+  {
+    "name": "Bilāspur",
+    "country": "IN",
+    "lat": 22.08005,
+    "lng": 82.15543
+  },
+  {
+    "name": "Bilāsipāra",
+    "country": "IN",
+    "lat": 26.23285,
+    "lng": 90.2341
+  },
+  {
+    "name": "Bilariāganj",
+    "country": "IN",
+    "lat": 26.19593,
+    "lng": 83.2269
+  },
+  {
+    "name": "Bilāri",
+    "country": "IN",
+    "lat": 28.62146,
+    "lng": 78.80361
+  },
+  {
+    "name": "Bilāra",
+    "country": "IN",
+    "lat": 26.18067,
+    "lng": 73.7055
+  },
+  {
+    "name": "Bilaigarh",
+    "country": "IN",
+    "lat": 21.63809,
+    "lng": 82.72354
+  },
+  {
+    "name": "Bikramganj",
+    "country": "IN",
+    "lat": 25.21073,
+    "lng": 84.25508
+  },
+  {
+    "name": "Bikram",
+    "country": "IN",
+    "lat": 25.44708,
+    "lng": 84.86261
+  },
+  {
+    "name": "Bikkatti",
+    "country": "IN",
+    "lat": 11.27721,
+    "lng": 76.62568
+  },
+  {
+    "name": "Bikaner",
+    "country": "IN",
+    "lat": 28.01762,
+    "lng": 73.31495
+  },
+  {
+    "name": "Bijrauni",
+    "country": "IN",
+    "lat": 24.93296,
+    "lng": 77.64352
+  },
+  {
+    "name": "Bijolia",
+    "country": "IN",
+    "lat": 25.16095,
+    "lng": 75.32328
+  },
+  {
+    "name": "Bijnor",
+    "country": "IN",
+    "lat": 29.373,
+    "lng": 78.13636
+  },
+  {
+    "name": "Bijni",
+    "country": "IN",
+    "lat": 26.49588,
+    "lng": 90.70298
+  },
+  {
+    "name": "Bijeraghogarh",
+    "country": "IN",
+    "lat": 23.99554,
+    "lng": 80.60657
+  },
+  {
+    "name": "Bijepur",
+    "country": "IN",
+    "lat": 21.18926,
+    "lng": 83.46061
+  },
+  {
+    "name": "Bijbehara",
+    "country": "IN",
+    "lat": 33.79378,
+    "lng": 75.107
+  },
+  {
+    "name": "Bijāwar",
+    "country": "IN",
+    "lat": 24.62351,
+    "lng": 79.48994
+  },
+  {
+    "name": "Bijaipur",
+    "country": "IN",
+    "lat": 26.05052,
+    "lng": 77.37138
+  },
+  {
+    "name": "Bijaynagar",
+    "country": "IN",
+    "lat": 25.92976,
+    "lng": 74.64916
+  },
+  {
+    "name": "Bihtā",
+    "country": "IN",
+    "lat": 25.55885,
+    "lng": 84.87141
+  },
+  {
+    "name": "Bihpuriāgaon",
+    "country": "IN",
+    "lat": 27.01718,
+    "lng": 93.91673
+  },
+  {
+    "name": "Bihār Sharīf",
+    "country": "IN",
+    "lat": 25.20084,
+    "lng": 85.52389
+  },
+  {
+    "name": "Bihārīganj",
+    "country": "IN",
+    "lat": 25.73415,
+    "lng": 86.98837
+  },
+  {
+    "name": "Bidhūna",
+    "country": "IN",
+    "lat": 26.80172,
+    "lng": 79.50829
+  },
+  {
+    "name": "Bidar",
+    "country": "IN",
+    "lat": 17.90802,
+    "lng": 77.51524
+  },
+  {
+    "name": "Bidadi",
+    "country": "IN",
+    "lat": 12.7993,
+    "lng": 77.38655
+  },
+  {
+    "name": "Bichhiā",
+    "country": "IN",
+    "lat": 22.45047,
+    "lng": 80.70236
+  },
+  {
+    "name": "Biaora",
+    "country": "IN",
+    "lat": 23.9205,
+    "lng": 76.91074
+  },
+  {
+    "name": "Birpara",
+    "country": "IN",
+    "lat": 26.70421,
+    "lng": 89.14547
+  },
+  {
+    "name": "Biswanath Chariali",
+    "country": "IN",
+    "lat": 26.72577,
+    "lng": 93.14659
+  },
+  {
+    "name": "Bishnupur",
+    "country": "IN",
+    "lat": 24.62845,
+    "lng": 93.76179
+  },
+  {
+    "name": "Bilha",
+    "country": "IN",
+    "lat": 21.95,
+    "lng": 82.05
+  },
+  {
+    "name": "Bihpuria",
+    "country": "IN",
+    "lat": 27.01693,
+    "lng": 93.91502
+  },
+  {
+    "name": "Biate",
+    "country": "IN",
+    "lat": 23.24866,
+    "lng": 93.12136
+  },
+  {
+    "name": "Birsinghpur",
+    "country": "IN",
+    "lat": 24.798,
+    "lng": 80.9729
+  },
+  {
+    "name": "Bishrampur",
+    "country": "IN",
+    "lat": 23.18967,
+    "lng": 83.0047
+  },
+  {
+    "name": "Birgaon",
+    "country": "IN",
+    "lat": 21.30758,
+    "lng": 81.62793
+  },
+  {
+    "name": "Bilpura",
+    "country": "IN",
+    "lat": 23.22161,
+    "lng": 79.99174
+  },
+  {
+    "name": "Bicholi Hapsi",
+    "country": "IN",
+    "lat": 22.7155,
+    "lng": 75.93941
+  },
+  {
+    "name": "Bichri",
+    "country": "IN",
+    "lat": 24.58755,
+    "lng": 73.83414
+  },
+  {
+    "name": "Bihāt",
+    "country": "IN",
+    "lat": 25.42534,
+    "lng": 86.02083
+  },
+  {
+    "name": "Bishramganj",
+    "country": "IN",
+    "lat": 23.60582,
+    "lng": 91.34355
+  },
+  {
+    "name": "Bir Ghaghar",
+    "country": "IN",
+    "lat": 30.70903,
+    "lng": 76.88863
+  },
+  {
+    "name": "Bijuri",
+    "country": "IN",
+    "lat": 23.25236,
+    "lng": 82.11673
+  },
+  {
+    "name": "Bivongi",
+    "country": "IT",
+    "lat": 38.48328,
+    "lng": 16.45251
+  },
+  {
+    "name": "Bivona",
+    "country": "IT",
+    "lat": 37.61797,
+    "lng": 13.43895
+  },
+  {
+    "name": "Bisignano",
+    "country": "IT",
+    "lat": 39.50727,
+    "lng": 16.28106
+  },
+  {
+    "name": "Bisacquino",
+    "country": "IT",
+    "lat": 37.70352,
+    "lng": 13.26051
+  },
+  {
+    "name": "Bianco",
+    "country": "IT",
+    "lat": 38.0917,
+    "lng": 16.15159
+  },
+  {
+    "name": "Bianchi",
+    "country": "IT",
+    "lat": 39.10058,
+    "lng": 16.41018
+  },
+  {
+    "name": "Biancavilla",
+    "country": "IT",
+    "lat": 37.64442,
+    "lng": 14.86685
+  },
+  {
+    "name": "Bitti",
+    "country": "IT",
+    "lat": 40.47956,
+    "lng": 9.38403
+  },
+  {
+    "name": "Bitritto",
+    "country": "IT",
+    "lat": 41.04336,
+    "lng": 16.82682
+  },
+  {
+    "name": "Bitonto",
+    "country": "IT",
+    "lat": 41.11006,
+    "lng": 16.69086
+  },
+  {
+    "name": "Bitetto",
+    "country": "IT",
+    "lat": 41.04146,
+    "lng": 16.74806
+  },
+  {
+    "name": "Bistagno",
+    "country": "IT",
+    "lat": 44.66059,
+    "lng": 8.37163
+  },
+  {
+    "name": "Bisenti",
+    "country": "IT",
+    "lat": 42.52883,
+    "lng": 13.7995
+  },
+  {
+    "name": "Bisegna",
+    "country": "IT",
+    "lat": 41.92113,
+    "lng": 13.7576
+  },
+  {
+    "name": "Bisceglie",
+    "country": "IT",
+    "lat": 41.24264,
+    "lng": 16.50104
+  },
+  {
+    "name": "Bisaccia",
+    "country": "IT",
+    "lat": 41.00923,
+    "lng": 15.37699
+  },
+  {
+    "name": "Birori",
+    "country": "IT",
+    "lat": 40.26593,
+    "lng": 8.8157
+  },
+  {
+    "name": "Bionaz",
+    "country": "IT",
+    "lat": 45.87356,
+    "lng": 7.4231
+  },
+  {
+    "name": "Bioglio-Portula-Andrè",
+    "country": "IT",
+    "lat": 45.61516,
+    "lng": 8.13602
+  },
+  {
+    "name": "Binasco",
+    "country": "IT",
+    "lat": 45.33102,
+    "lng": 9.0944
+  },
+  {
+    "name": "Bigolino",
+    "country": "IT",
+    "lat": 45.86669,
+    "lng": 12.01693
+  },
+  {
+    "name": "Bientina",
+    "country": "IT",
+    "lat": 43.70826,
+    "lng": 10.62116
+  },
+  {
+    "name": "Bienno",
+    "country": "IT",
+    "lat": 45.93526,
+    "lng": 10.29232
+  },
+  {
+    "name": "Biella",
+    "country": "IT",
+    "lat": 45.56304,
+    "lng": 8.05796
+  },
+  {
+    "name": "Bidonì",
+    "country": "IT",
+    "lat": 40.11305,
+    "lng": 8.93643
+  },
+  {
+    "name": "Bicinicco",
+    "country": "IT",
+    "lat": 45.93211,
+    "lng": 13.253
+  },
+  {
+    "name": "Biccari",
+    "country": "IT",
+    "lat": 41.39736,
+    "lng": 15.19644
+  },
+  {
+    "name": "Bibione",
+    "country": "IT",
+    "lat": 45.63565,
+    "lng": 13.03616
+  },
+  {
+    "name": "Bibbona",
+    "country": "IT",
+    "lat": 43.26822,
+    "lng": 10.5951
+  },
+  {
+    "name": "Bibbiena",
+    "country": "IT",
+    "lat": 43.69876,
+    "lng": 11.81474
+  },
+  {
+    "name": "Bibbiano",
+    "country": "IT",
+    "lat": 44.66292,
+    "lng": 10.47391
+  },
+  {
+    "name": "Bibano",
+    "country": "IT",
+    "lat": 45.90751,
+    "lng": 12.43266
+  },
+  {
+    "name": "Biassono",
+    "country": "IT",
+    "lat": 45.62864,
+    "lng": 9.27124
+  },
+  {
+    "name": "Bianzone",
+    "country": "IT",
+    "lat": 46.18665,
+    "lng": 10.10934
+  },
+  {
+    "name": "Bianzè",
+    "country": "IT",
+    "lat": 45.30751,
+    "lng": 8.12202
+  },
+  {
+    "name": "Biandronno",
+    "country": "IT",
+    "lat": 45.81281,
+    "lng": 8.70882
+  },
+  {
+    "name": "Biandrate",
+    "country": "IT",
+    "lat": 45.45271,
+    "lng": 8.46402
+  },
+  {
+    "name": "Biancade",
+    "country": "IT",
+    "lat": 45.64867,
+    "lng": 12.35753
+  },
+  {
+    "name": "Bizzarone",
+    "country": "IT",
+    "lat": 45.83428,
+    "lng": 8.94274
+  },
+  {
+    "name": "Bione",
+    "country": "IT",
+    "lat": 45.67279,
+    "lng": 10.33887
+  },
+  {
+    "name": "Bianzano",
+    "country": "IT",
+    "lat": 45.77309,
+    "lng": 9.91816
+  },
+  {
+    "name": "Bisuschio",
+    "country": "IT",
+    "lat": 45.87148,
+    "lng": 8.86843
+  },
+  {
+    "name": "Bieno",
+    "country": "IT",
+    "lat": 46.08151,
+    "lng": 11.55609
+  },
+  {
+    "name": "Binetto",
+    "country": "IT",
+    "lat": 41.02343,
+    "lng": 16.70988
+  },
+  {
+    "name": "Bibiana",
+    "country": "IT",
+    "lat": 44.79894,
+    "lng": 7.28822
+  },
+  {
+    "name": "Binago",
+    "country": "IT",
+    "lat": 45.78218,
+    "lng": 8.92234
+  },
+  {
+    "name": "Bivio Santa Cecilia",
+    "country": "IT",
+    "lat": 40.52224,
+    "lng": 15.00018
+  },
+  {
+    "name": "Bivio di Capanelle",
+    "country": "IT",
+    "lat": 42.11962,
+    "lng": 12.59395
+  },
+  {
+    "name": "Bivio San Polo",
+    "country": "IT",
+    "lat": 41.97418,
+    "lng": 12.82993
+  },
+  {
+    "name": "Bivio Mortola",
+    "country": "IT",
+    "lat": 41.39557,
+    "lng": 13.89663
+  },
+  {
+    "name": "Bisaccia Nuova",
+    "country": "IT",
+    "lat": 41.0096,
+    "lng": 15.35546
+  },
+  {
+    "name": "Bifuka",
+    "country": "JP",
+    "lat": 44.47528,
+    "lng": 142.34306
+  },
+  {
+    "name": "Biratori",
+    "country": "JP",
+    "lat": 42.58333,
+    "lng": 142.13333
+  },
+  {
+    "name": "Biei",
+    "country": "JP",
+    "lat": 43.58444,
+    "lng": 142.45972
+  },
+  {
+    "name": "Bibai",
+    "country": "JP",
+    "lat": 43.32472,
+    "lng": 141.85861
+  },
+  {
+    "name": "Bizen",
+    "country": "JP",
+    "lat": 34.78674,
+    "lng": 134.23542
+  },
+  {
+    "name": "Bishkek",
+    "country": "KG",
+    "lat": 42.87,
+    "lng": 74.59
+  },
+  {
+    "name": "Bikenibeu Village",
+    "country": "KI",
+    "lat": 1.3673,
+    "lng": 173.12415
+  },
+  {
+    "name": "Bimbini",
+    "country": "KM",
+    "lat": -12.18833,
+    "lng": 44.23556
+  },
+  {
+    "name": "Biin",
+    "country": "KR",
+    "lat": 36.14029,
+    "lng": 126.603
+  },
+  {
+    "name": "Birch Tree Hill",
+    "country": "KY",
+    "lat": 19.38478,
+    "lng": -81.39991
+  },
+  {
+    "name": "Bishkul",
+    "country": "KZ",
+    "lat": 54.77763,
+    "lng": 69.09951
+  },
+  {
+    "name": "Birlestik",
+    "country": "KZ",
+    "lat": 53.58414,
+    "lng": 68.35382
+  },
+  {
+    "name": "Bisee",
+    "country": "LC",
+    "lat": 14.02429,
+    "lng": -60.97445
+  },
+  {
+    "name": "Birzai",
+    "country": "LT",
+    "lat": 56.2,
+    "lng": 24.75
+  },
+  {
+    "name": "Birštonas",
+    "country": "LT",
+    "lat": 54.608,
+    "lng": 24.034
+  },
+  {
+    "name": "Biwer",
+    "country": "LU",
+    "lat": 49.70605,
+    "lng": 6.37201
+  },
+  {
+    "name": "Bissen",
+    "country": "LU",
+    "lat": 49.78733,
+    "lng": 6.0654
+  },
+  {
+    "name": "Bivange",
+    "country": "LU",
+    "lat": 49.54444,
+    "lng": 6.13778
+  },
+  {
+    "name": "Bi’r al Ghanam",
+    "country": "LY",
+    "lat": 32.30912,
+    "lng": 12.56935
+  },
+  {
+    "name": "Bin Jawwād",
+    "country": "LY",
+    "lat": 30.80418,
+    "lng": 18.0772
+  },
+  {
+    "name": "Bir Jdid",
+    "country": "MA",
+    "lat": 33.37362,
+    "lng": -7.99462
+  },
+  {
+    "name": "Bigoudine",
+    "country": "MA",
+    "lat": 30.72376,
+    "lng": -9.21097
+  },
+  {
+    "name": "Bilicenii Vechi",
+    "country": "MD",
+    "lat": 47.6558,
+    "lng": 28.04734
+  },
+  {
+    "name": "Biruinţa",
+    "country": "MD",
+    "lat": 47.81353,
+    "lng": 28.07004
+  },
+  {
+    "name": "Bijelo Polje",
+    "country": "ME",
+    "lat": 43.03834,
+    "lng": 19.74758
+  },
+  {
+    "name": "Bijela",
+    "country": "ME",
+    "lat": 42.45333,
+    "lng": 18.65556
+  },
+  {
+    "name": "Bitola",
+    "country": "MK",
+    "lat": 41.03226,
+    "lng": 21.33553
+  },
+  {
+    "name": "Bistrica",
+    "country": "MK",
+    "lat": 40.97892,
+    "lng": 21.3658
+  },
+  {
+    "name": "Bilüü",
+    "country": "MN",
+    "lat": 49.04372,
+    "lng": 89.43798
+  },
+  {
+    "name": "Bir Mogran",
+    "country": "MR",
+    "lat": 25.22967,
+    "lng": -11.57912
+  },
+  {
+    "name": "Birżebbuġa",
+    "country": "MT",
+    "lat": 35.82546,
+    "lng": 14.52685
+  },
+  {
+    "name": "Birkirkara",
+    "country": "MT",
+    "lat": 35.89706,
+    "lng": 14.46115
+  },
+  {
+    "name": "Bienvenido",
+    "country": "MX",
+    "lat": 20.12235,
+    "lng": -97.74434
+  },
+  {
+    "name": "Bimbaletes Aguascalientes (El Álamo)",
+    "country": "MX",
+    "lat": 22.23444,
+    "lng": -102.01917
+  },
+  {
+    "name": "Bidur",
+    "country": "MY",
+    "lat": 4.11667,
+    "lng": 101.28333
+  },
+  {
+    "name": "Binatang",
+    "country": "MY",
+    "lat": 2.16667,
+    "lng": 111.63333
+  },
+  {
+    "name": "Bintulu",
+    "country": "MY",
+    "lat": 3.16667,
+    "lng": 113.03333
+  },
+  {
+    "name": "Bilene",
+    "country": "MZ",
+    "lat": -25.27264,
+    "lng": 33.24205
+  },
+  {
+    "name": "Birnin Gaouré",
+    "country": "NE",
+    "lat": 13.08173,
+    "lng": 2.91099
+  },
+  {
+    "name": "Birni N Konni",
+    "country": "NE",
+    "lat": 13.79599,
+    "lng": 5.25026
+  },
+  {
+    "name": "Bilma",
+    "country": "NE",
+    "lat": 18.68532,
+    "lng": 12.91643
+  },
+  {
+    "name": "Biu",
+    "country": "NG",
+    "lat": 10.61285,
+    "lng": 12.19458
+  },
+  {
+    "name": "Birniwa",
+    "country": "NG",
+    "lat": 12.7907,
+    "lng": 10.23614
+  },
+  {
+    "name": "Birnin Kudu",
+    "country": "NG",
+    "lat": 11.45207,
+    "lng": 9.47856
+  },
+  {
+    "name": "Birnin Kebbi",
+    "country": "NG",
+    "lat": 12.45389,
+    "lng": 4.1975
+  },
+  {
+    "name": "Birnin Gwari",
+    "country": "NG",
+    "lat": 10.66374,
+    "lng": 6.54003
+  },
+  {
+    "name": "Bin Yauri",
+    "country": "NG",
+    "lat": 10.7823,
+    "lng": 4.81135
+  },
+  {
+    "name": "Binji",
+    "country": "NG",
+    "lat": 13.22294,
+    "lng": 4.90888
+  },
+  {
+    "name": "Bindawa",
+    "country": "NG",
+    "lat": 12.66987,
+    "lng": 7.80865
+  },
+  {
+    "name": "Billiri",
+    "country": "NG",
+    "lat": 9.89024,
+    "lng": 11.21794
+  },
+  {
+    "name": "Biliri",
+    "country": "NG",
+    "lat": 9.86709,
+    "lng": 11.22594
+  },
+  {
+    "name": "Bida",
+    "country": "NG",
+    "lat": 9.08044,
+    "lng": 6.0099
+  },
+  {
+    "name": "Bichi",
+    "country": "NG",
+    "lat": 12.23385,
+    "lng": 8.24063
+  },
+  {
+    "name": "Birnin Magaji",
+    "country": "NG",
+    "lat": 12.5592,
+    "lng": 6.89459
+  },
+  {
+    "name": "Bitswijk",
+    "country": "NL",
+    "lat": 51.6687,
+    "lng": 5.60921
+  },
+  {
+    "name": "Binnenhof",
+    "country": "NL",
+    "lat": 52.16418,
+    "lng": 4.53644
+  },
+  {
+    "name": "Bilgaard",
+    "country": "NL",
+    "lat": 53.21551,
+    "lng": 5.79574
+  },
+  {
+    "name": "Bijvanck",
+    "country": "NL",
+    "lat": 52.28585,
+    "lng": 5.26534
+  },
+  {
+    "name": "Biesland",
+    "country": "NL",
+    "lat": 50.8411,
+    "lng": 5.67573
+  },
+  {
+    "name": "Biesdonk",
+    "country": "NL",
+    "lat": 51.60613,
+    "lng": 4.78515
+  },
+  {
+    "name": "Biddinghuizen",
+    "country": "NL",
+    "lat": 52.455,
+    "lng": 5.69306
+  },
+  {
+    "name": "Binnenstad",
+    "country": "NL",
+    "lat": 52.21304,
+    "lng": 5.95957
+  },
+  {
+    "name": "Birkeland",
+    "country": "NO",
+    "lat": 58.33091,
+    "lng": 8.23229
+  },
+  {
+    "name": "Bismo",
+    "country": "NO",
+    "lat": 61.88406,
+    "lng": 8.26665
+  },
+  {
+    "name": "Birketveit",
+    "country": "NO",
+    "lat": 58.45909,
+    "lng": 7.91692
+  },
+  {
+    "name": "Billingstad",
+    "country": "NO",
+    "lat": 59.87548,
+    "lng": 10.4823
+  },
+  {
+    "name": "Birgañj",
+    "country": "NP",
+    "lat": 27.01709,
+    "lng": 84.8808
+  },
+  {
+    "name": "Biratnagar",
+    "country": "NP",
+    "lat": 26.45505,
+    "lng": 87.27007
+  },
+  {
+    "name": "Birendranagar",
+    "country": "NP",
+    "lat": 28.59669,
+    "lng": 81.61658
+  },
+  {
+    "name": "Bishopdale",
+    "country": "NZ",
+    "lat": -43.47833,
+    "lng": 172.58013
+  },
+  {
+    "name": "Birchville",
+    "country": "NZ",
+    "lat": -41.08827,
+    "lng": 175.0902
+  },
+  {
+    "name": "Birkdale",
+    "country": "NZ",
+    "lat": -36.79718,
+    "lng": 174.70459
+  },
+  {
+    "name": "Birkenhead",
+    "country": "NZ",
+    "lat": -36.8082,
+    "lng": 174.72019
+  },
+  {
+    "name": "Bishopdale",
+    "country": "NZ",
+    "lat": -41.29496,
+    "lng": 173.26478
+  },
+  {
+    "name": "Bidbid",
+    "country": "OM",
+    "lat": 23.40787,
+    "lng": 58.1283
+  },
+  {
+    "name": "Bisvalles",
+    "country": "PA",
+    "lat": 8.18465,
+    "lng": -81.22107
+  },
+  {
+    "name": "Bisira",
+    "country": "PA",
+    "lat": 8.9008,
+    "lng": -81.86358
+  },
+  {
+    "name": "Bijagual",
+    "country": "PA",
+    "lat": 8.51486,
+    "lng": -82.33361
+  },
+  {
+    "name": "Biga",
+    "country": "PH",
+    "lat": 13.90401,
+    "lng": 120.64875
+  },
+  {
+    "name": "Biay",
+    "country": "PH",
+    "lat": 15.7402,
+    "lng": 119.9067
+  },
+  {
+    "name": "Biwang",
+    "country": "PH",
+    "lat": 6.60592,
+    "lng": 124.54358
+  },
+  {
+    "name": "Bituñgol",
+    "country": "PH",
+    "lat": 14.88333,
+    "lng": 121.03333
+  },
+  {
+    "name": "Biton",
+    "country": "PH",
+    "lat": 11.23279,
+    "lng": 123.9993
+  },
+  {
+    "name": "Bitoon",
+    "country": "PH",
+    "lat": 10.0804,
+    "lng": 123.4587
+  },
+  {
+    "name": "Bitin",
+    "country": "PH",
+    "lat": 14.11647,
+    "lng": 121.22194
+  },
+  {
+    "name": "Bitaogan",
+    "country": "PH",
+    "lat": 6.76842,
+    "lng": 126.07738
+  },
+  {
+    "name": "Bitanjuan",
+    "country": "PH",
+    "lat": 10.5955,
+    "lng": 124.7663
+  },
+  {
+    "name": "Bitangan",
+    "country": "PH",
+    "lat": 14.25389,
+    "lng": 120.87833
+  },
+  {
+    "name": "Bitag Grande",
+    "country": "PH",
+    "lat": 17.90244,
+    "lng": 121.85013
+  },
+  {
+    "name": "Bitadtun",
+    "country": "PH",
+    "lat": 11.4969,
+    "lng": 122.08511
+  },
+  {
+    "name": "Bislig",
+    "country": "PH",
+    "lat": 11.0725,
+    "lng": 125.03361
+  },
+  {
+    "name": "Bislig",
+    "country": "PH",
+    "lat": 8.21528,
+    "lng": 126.31639
+  },
+  {
+    "name": "Biri",
+    "country": "PH",
+    "lat": 12.68333,
+    "lng": 124.36361
+  },
+  {
+    "name": "Binantocan",
+    "country": "PH",
+    "lat": 11.4073,
+    "lng": 122.8602
+  },
+  {
+    "name": "Binulasan",
+    "country": "PH",
+    "lat": 14.73159,
+    "lng": 121.69781
+  },
+  {
+    "name": "Binucayan",
+    "country": "PH",
+    "lat": 8.25,
+    "lng": 125.71667
+  },
+  {
+    "name": "Binubusan",
+    "country": "PH",
+    "lat": 13.96947,
+    "lng": 120.63572
+  },
+  {
+    "name": "Binuangan",
+    "country": "PH",
+    "lat": 8.91528,
+    "lng": 124.78833
+  },
+  {
+    "name": "Bintawan",
+    "country": "PH",
+    "lat": 16.57588,
+    "lng": 121.18764
+  },
+  {
+    "name": "Bintacay",
+    "country": "PH",
+    "lat": 13.4986,
+    "lng": 121.8768
+  },
+  {
+    "name": "Binonga",
+    "country": "PH",
+    "lat": 10.7719,
+    "lng": 122.9817
+  },
+  {
+    "name": "Binondo",
+    "country": "PH",
+    "lat": 14.603,
+    "lng": 120.974
+  },
+  {
+    "name": "Binon-an",
+    "country": "PH",
+    "lat": 11.3947,
+    "lng": 123.1426
+  },
+  {
+    "name": "Binodegahan",
+    "country": "PH",
+    "lat": 13.0614,
+    "lng": 123.4579
+  },
+  {
+    "name": "Binmaley",
+    "country": "PH",
+    "lat": 16.03232,
+    "lng": 120.26904
+  },
+  {
+    "name": "Binlod",
+    "country": "PH",
+    "lat": 9.91845,
+    "lng": 123.60743
+  },
+  {
+    "name": "Binitinan",
+    "country": "PH",
+    "lat": 8.71,
+    "lng": 124.77556
+  },
+  {
+    "name": "Binitayan",
+    "country": "PH",
+    "lat": 13.2945,
+    "lng": 123.7579
+  },
+  {
+    "name": "Binidayan",
+    "country": "PH",
+    "lat": 7.80668,
+    "lng": 124.16846
+  },
+  {
+    "name": "Binguang",
+    "country": "PH",
+    "lat": 17.45893,
+    "lng": 121.79519
+  },
+  {
+    "name": "Bingawan",
+    "country": "PH",
+    "lat": 11.233,
+    "lng": 122.5672
+  },
+  {
+    "name": "Binday",
+    "country": "PH",
+    "lat": 16.12812,
+    "lng": 120.45238
+  },
+  {
+    "name": "Bincoñgan",
+    "country": "PH",
+    "lat": 7.36667,
+    "lng": 125.75
+  },
+  {
+    "name": "Binay",
+    "country": "PH",
+    "lat": 13.5019,
+    "lng": 122.5983
+  },
+  {
+    "name": "Binanwanaan",
+    "country": "PH",
+    "lat": 13.7,
+    "lng": 123.3
+  },
+  {
+    "name": "Binangonan",
+    "country": "PH",
+    "lat": 14.4646,
+    "lng": 121.1929
+  },
+  {
+    "name": "Biñan",
+    "country": "PH",
+    "lat": 14.34267,
+    "lng": 121.08071
+  },
+  {
+    "name": "Binalonan",
+    "country": "PH",
+    "lat": 16.0503,
+    "lng": 120.5926
+  },
+  {
+    "name": "Binalbagan",
+    "country": "PH",
+    "lat": 10.1948,
+    "lng": 122.8581
+  },
+  {
+    "name": "Binalan",
+    "country": "PH",
+    "lat": 18.3275,
+    "lng": 121.5451
+  },
+  {
+    "name": "Binahaan",
+    "country": "PH",
+    "lat": 13.9917,
+    "lng": 121.75391
+  },
+  {
+    "name": "Binabalian",
+    "country": "PH",
+    "lat": 16.4202,
+    "lng": 119.9279
+  },
+  {
+    "name": "Binabaan",
+    "country": "PH",
+    "lat": 11.0191,
+    "lng": 122.5221
+  },
+  {
+    "name": "Bilwang",
+    "country": "PH",
+    "lat": 10.8834,
+    "lng": 124.4667
+  },
+  {
+    "name": "Bilog-Bilog",
+    "country": "PH",
+    "lat": 14.11361,
+    "lng": 121.08861
+  },
+  {
+    "name": "Bil-Loca",
+    "country": "PH",
+    "lat": 18.0875,
+    "lng": 120.5687
+  },
+  {
+    "name": "Biliran",
+    "country": "PH",
+    "lat": 11.46694,
+    "lng": 124.47396
+  },
+  {
+    "name": "Bilaran",
+    "country": "PH",
+    "lat": 14.03528,
+    "lng": 120.71028
+  },
+  {
+    "name": "Bilar",
+    "country": "PH",
+    "lat": 9.70825,
+    "lng": 124.10717
+  },
+  {
+    "name": "Bilao",
+    "country": "PH",
+    "lat": 11.488,
+    "lng": 122.5599
+  },
+  {
+    "name": "Bilad",
+    "country": "PH",
+    "lat": 15.73676,
+    "lng": 120.43321
+  },
+  {
+    "name": "Biking",
+    "country": "PH",
+    "lat": 9.59382,
+    "lng": 123.84303
+  },
+  {
+    "name": "Bignay Uno",
+    "country": "PH",
+    "lat": 13.86445,
+    "lng": 121.48792
+  },
+  {
+    "name": "Bigaan",
+    "country": "PH",
+    "lat": 8.31722,
+    "lng": 126.28111
+  },
+  {
+    "name": "Bigaa",
+    "country": "PH",
+    "lat": 13.1993,
+    "lng": 123.7566
+  },
+  {
+    "name": "Biga",
+    "country": "PH",
+    "lat": 14.25759,
+    "lng": 120.97195
+  },
+  {
+    "name": "Biga",
+    "country": "PH",
+    "lat": 13.3106,
+    "lng": 121.161
+  },
+  {
+    "name": "Biga",
+    "country": "PH",
+    "lat": 8.35778,
+    "lng": 124.25972
+  },
+  {
+    "name": "Bien Unido",
+    "country": "PH",
+    "lat": 10.13729,
+    "lng": 124.37761
+  },
+  {
+    "name": "Bicos",
+    "country": "PH",
+    "lat": 15.6602,
+    "lng": 121.0414
+  },
+  {
+    "name": "Bibiclat",
+    "country": "PH",
+    "lat": 15.52186,
+    "lng": 120.86235
+  },
+  {
+    "name": "Bical Norte",
+    "country": "PH",
+    "lat": 15.81471,
+    "lng": 120.43509
+  },
+  {
+    "name": "Biasong",
+    "country": "PH",
+    "lat": 10.5229,
+    "lng": 123.736
+  },
+  {
+    "name": "Biao",
+    "country": "PH",
+    "lat": 10.1088,
+    "lng": 122.9772
+  },
+  {
+    "name": "Biao",
+    "country": "PH",
+    "lat": 7.16333,
+    "lng": 125.52111
+  },
+  {
+    "name": "Bialong",
+    "country": "PH",
+    "lat": 6.98056,
+    "lng": 124.88889
+  },
+  {
+    "name": "Biabas",
+    "country": "PH",
+    "lat": 9.8,
+    "lng": 124.46667
+  },
+  {
+    "name": "Binuang",
+    "country": "PH",
+    "lat": 5.95694,
+    "lng": 121.06
+  },
+  {
+    "name": "Binuatan",
+    "country": "PH",
+    "lat": 7.61222,
+    "lng": 123.34417
+  },
+  {
+    "name": "Bisztynek",
+    "country": "PL",
+    "lat": 54.08633,
+    "lng": 20.90192
+  },
+  {
+    "name": "Biszcza",
+    "country": "PL",
+    "lat": 50.40146,
+    "lng": 22.65063
+  },
+  {
+    "name": "Biskupiec",
+    "country": "PL",
+    "lat": 53.86467,
+    "lng": 20.95692
+  },
+  {
+    "name": "Biskupice Radłowskie",
+    "country": "PL",
+    "lat": 50.12069,
+    "lng": 20.85943
+  },
+  {
+    "name": "Bircza",
+    "country": "PL",
+    "lat": 49.69173,
+    "lng": 22.47854
+  },
+  {
+    "name": "Binarowa",
+    "country": "PL",
+    "lat": 49.75621,
+    "lng": 21.22816
+  },
+  {
+    "name": "Biłgoraj",
+    "country": "PL",
+    "lat": 50.54114,
+    "lng": 22.72204
+  },
+  {
+    "name": "Bieniewice",
+    "country": "PL",
+    "lat": 52.18268,
+    "lng": 20.56306
+  },
+  {
+    "name": "Bieńczyce",
+    "country": "PL",
+    "lat": 50.08809,
+    "lng": 20.02786
+  },
+  {
+    "name": "Bielsk Podlaski",
+    "country": "PL",
+    "lat": 52.76512,
+    "lng": 23.18647
+  },
+  {
+    "name": "Bieliny",
+    "country": "PL",
+    "lat": 50.84947,
+    "lng": 20.94149
+  },
+  {
+    "name": "Bieliny",
+    "country": "PL",
+    "lat": 50.44237,
+    "lng": 22.30482
+  },
+  {
+    "name": "Bielany",
+    "country": "PL",
+    "lat": 52.34174,
+    "lng": 22.24929
+  },
+  {
+    "name": "Bielany",
+    "country": "PL",
+    "lat": 52.29242,
+    "lng": 20.93531
+  },
+  {
+    "name": "Biecz",
+    "country": "PL",
+    "lat": 49.73596,
+    "lng": 21.26301
+  },
+  {
+    "name": "Białystok",
+    "country": "PL",
+    "lat": 53.13333,
+    "lng": 23.16433
+  },
+  {
+    "name": "Biały Dunajec",
+    "country": "PL",
+    "lat": 49.3738,
+    "lng": 20.00898
+  },
+  {
+    "name": "Białowieża",
+    "country": "PL",
+    "lat": 52.7,
+    "lng": 23.86667
+  },
+  {
+    "name": "Białołeka",
+    "country": "PL",
+    "lat": 52.32127,
+    "lng": 20.97204
+  },
+  {
+    "name": "Białobrzegi",
+    "country": "PL",
+    "lat": 52.44199,
+    "lng": 21.05255
+  },
+  {
+    "name": "Białobrzegi",
+    "country": "PL",
+    "lat": 51.64695,
+    "lng": 20.95041
+  },
+  {
+    "name": "Białobrzegi",
+    "country": "PL",
+    "lat": 50.10252,
+    "lng": 22.31907
+  },
+  {
+    "name": "Białka Tatrzańska",
+    "country": "PL",
+    "lat": 49.38975,
+    "lng": 20.10507
+  },
+  {
+    "name": "Biała Rawska",
+    "country": "PL",
+    "lat": 51.80779,
+    "lng": 20.47259
+  },
+  {
+    "name": "Biała Podlaska",
+    "country": "PL",
+    "lat": 52.03238,
+    "lng": 23.11652
+  },
+  {
+    "name": "Biała Piska",
+    "country": "PL",
+    "lat": 53.61191,
+    "lng": 22.06321
+  },
+  {
+    "name": "Białaczów",
+    "country": "PL",
+    "lat": 51.29815,
+    "lng": 20.29724
+  },
+  {
+    "name": "Bieżuń",
+    "country": "PL",
+    "lat": 52.96107,
+    "lng": 19.88976
+  },
+  {
+    "name": "Bierzwnik",
+    "country": "PL",
+    "lat": 53.03567,
+    "lng": 15.665
+  },
+  {
+    "name": "Bierutów",
+    "country": "PL",
+    "lat": 51.12443,
+    "lng": 17.54607
+  },
+  {
+    "name": "Bieruń",
+    "country": "PL",
+    "lat": 50.09,
+    "lng": 19.09291
+  },
+  {
+    "name": "Bierdzany",
+    "country": "PL",
+    "lat": 50.81852,
+    "lng": 18.15808
+  },
+  {
+    "name": "Bierawa",
+    "country": "PL",
+    "lat": 50.28111,
+    "lng": 18.24177
+  },
+  {
+    "name": "Bieńkówka",
+    "country": "PL",
+    "lat": 49.776,
+    "lng": 19.77179
+  },
+  {
+    "name": "Bielsko-Biala",
+    "country": "PL",
+    "lat": 49.82245,
+    "lng": 19.04686
+  },
+  {
+    "name": "Bielsk",
+    "country": "PL",
+    "lat": 52.6718,
+    "lng": 19.805
+  },
+  {
+    "name": "Bielice",
+    "country": "PL",
+    "lat": 53.20022,
+    "lng": 14.7276
+  },
+  {
+    "name": "Bielawy",
+    "country": "PL",
+    "lat": 52.07539,
+    "lng": 19.65557
+  },
+  {
+    "name": "Bielawa",
+    "country": "PL",
+    "lat": 50.69075,
+    "lng": 16.623
+  },
+  {
+    "name": "Bielany Wrocławskie",
+    "country": "PL",
+    "lat": 51.0361,
+    "lng": 16.9677
+  },
+  {
+    "name": "Biały Bór",
+    "country": "PL",
+    "lat": 53.8967,
+    "lng": 16.83543
+  },
+  {
+    "name": "Białośliwie",
+    "country": "PL",
+    "lat": 53.10461,
+    "lng": 17.12533
+  },
+  {
+    "name": "Białogard",
+    "country": "PL",
+    "lat": 54.00696,
+    "lng": 15.98751
+  },
+  {
+    "name": "Białe Błota",
+    "country": "PL",
+    "lat": 53.09516,
+    "lng": 17.91621
+  },
+  {
+    "name": "Biała",
+    "country": "PL",
+    "lat": 50.38587,
+    "lng": 17.66035
+  },
+  {
+    "name": "Białka",
+    "country": "PL",
+    "lat": 49.69306,
+    "lng": 19.67033
+  },
+  {
+    "name": "Biskupiec",
+    "country": "PL",
+    "lat": 53.50056,
+    "lng": 19.35056
+  },
+  {
+    "name": "Biała",
+    "country": "PL",
+    "lat": 52.60524,
+    "lng": 19.64956
+  },
+  {
+    "name": "Biskupin",
+    "country": "PL",
+    "lat": 51.10097,
+    "lng": 17.10442
+  },
+  {
+    "name": "Biała Róża",
+    "country": "PL",
+    "lat": 51.26162,
+    "lng": 19.54569
+  },
+  {
+    "name": "Birqīn",
+    "country": "PS",
+    "lat": 32.45461,
+    "lng": 35.26076
+  },
+  {
+    "name": "Bil‘īn",
+    "country": "PS",
+    "lat": 31.92835,
+    "lng": 35.07204
+  },
+  {
+    "name": "Biddū",
+    "country": "PS",
+    "lat": 31.83478,
+    "lng": 35.14947
+  },
+  {
+    "name": "Bidyā",
+    "country": "PS",
+    "lat": 32.1146,
+    "lng": 35.08028
+  },
+  {
+    "name": "Biscoitos",
+    "country": "PT",
+    "lat": 38.78333,
+    "lng": -27.25
+  },
+  {
+    "name": "Bixad",
+    "country": "RO",
+    "lat": 47.93333,
+    "lng": 23.4
+  },
+  {
+    "name": "Bivolărie",
+    "country": "RO",
+    "lat": 47.91464,
+    "lng": 25.65525
+  },
+  {
+    "name": "Bivolari",
+    "country": "RO",
+    "lat": 47.53333,
+    "lng": 27.43333
+  },
+  {
+    "name": "Bistriţa Bârgăului",
+    "country": "RO",
+    "lat": 47.21667,
+    "lng": 24.76667
+  },
+  {
+    "name": "Bistriţa",
+    "country": "RO",
+    "lat": 47.13316,
+    "lng": 24.50011
+  },
+  {
+    "name": "Bistrița",
+    "country": "RO",
+    "lat": 46.94856,
+    "lng": 26.29598
+  },
+  {
+    "name": "Bistrița",
+    "country": "RO",
+    "lat": 45.18612,
+    "lng": 24.0401
+  },
+  {
+    "name": "Bistrița",
+    "country": "RO",
+    "lat": 44.58511,
+    "lng": 22.78762
+  },
+  {
+    "name": "Bistreț",
+    "country": "RO",
+    "lat": 43.9,
+    "lng": 23.5
+  },
+  {
+    "name": "Bistra Mureșului",
+    "country": "RO",
+    "lat": 46.96093,
+    "lng": 24.90608
+  },
+  {
+    "name": "Bistra",
+    "country": "RO",
+    "lat": 47.86667,
+    "lng": 24.2
+  },
+  {
+    "name": "Bistra",
+    "country": "RO",
+    "lat": 47.25478,
+    "lng": 22.42295
+  },
+  {
+    "name": "Bistra",
+    "country": "RO",
+    "lat": 46.3782,
+    "lng": 23.10081
+  },
+  {
+    "name": "Bisoca",
+    "country": "RO",
+    "lat": 45.53333,
+    "lng": 26.7
+  },
+  {
+    "name": "Birda",
+    "country": "RO",
+    "lat": 45.42996,
+    "lng": 21.34359
+  },
+  {
+    "name": "Bircii",
+    "country": "RO",
+    "lat": 44.51673,
+    "lng": 24.60324
+  },
+  {
+    "name": "Birchiş",
+    "country": "RO",
+    "lat": 45.96667,
+    "lng": 22.16667
+  },
+  {
+    "name": "Biliești",
+    "country": "RO",
+    "lat": 45.72106,
+    "lng": 27.34879
+  },
+  {
+    "name": "Biled",
+    "country": "RO",
+    "lat": 45.88639,
+    "lng": 20.95889
+  },
+  {
+    "name": "Bilciureşti",
+    "country": "RO",
+    "lat": 44.73333,
+    "lng": 25.8
+  },
+  {
+    "name": "Bilca",
+    "country": "RO",
+    "lat": 47.91667,
+    "lng": 25.75
+  },
+  {
+    "name": "Bilbor",
+    "country": "RO",
+    "lat": 47.05,
+    "lng": 25.51667
+  },
+  {
+    "name": "Biia",
+    "country": "RO",
+    "lat": 46.23097,
+    "lng": 24.00461
+  },
+  {
+    "name": "Biharia",
+    "country": "RO",
+    "lat": 47.15,
+    "lng": 21.91667
+  },
+  {
+    "name": "Biertan",
+    "country": "RO",
+    "lat": 46.13333,
+    "lng": 24.51667
+  },
+  {
+    "name": "Bixad",
+    "country": "RO",
+    "lat": 46.1,
+    "lng": 25.86667
+  },
+  {
+    "name": "Bichiş",
+    "country": "RO",
+    "lat": 46.36667,
+    "lng": 24.1
+  },
+  {
+    "name": "Bichigiu",
+    "country": "RO",
+    "lat": 47.42522,
+    "lng": 24.33893
+  },
+  {
+    "name": "Bicazu Ardelean",
+    "country": "RO",
+    "lat": 46.85,
+    "lng": 25.93333
+  },
+  {
+    "name": "Bicaz-Chei",
+    "country": "RO",
+    "lat": 46.81667,
+    "lng": 25.88333
+  },
+  {
+    "name": "Bicaz",
+    "country": "RO",
+    "lat": 47.46667,
+    "lng": 23.03333
+  },
+  {
+    "name": "Bicaz",
+    "country": "RO",
+    "lat": 46.91667,
+    "lng": 26.06667
+  },
+  {
+    "name": "Bijghir",
+    "country": "RO",
+    "lat": 46.60185,
+    "lng": 27.01859
+  },
+  {
+    "name": "Biljača",
+    "country": "RS",
+    "lat": 42.3543,
+    "lng": 21.7437
+  },
+  {
+    "name": "Biryulëvo Zapadnoye",
+    "country": "RU",
+    "lat": 55.58766,
+    "lng": 37.64282
+  },
+  {
+    "name": "Biruch",
+    "country": "RU",
+    "lat": 50.64922,
+    "lng": 38.4036
+  },
+  {
+    "name": "Bizhbulyak",
+    "country": "RU",
+    "lat": 53.69534,
+    "lng": 54.26427
+  },
+  {
+    "name": "Bisert’",
+    "country": "RU",
+    "lat": 56.85884,
+    "lng": 59.05297
+  },
+  {
+    "name": "Biryulëvo",
+    "country": "RU",
+    "lat": 55.58635,
+    "lng": 37.67781
+  },
+  {
+    "name": "Birsk",
+    "country": "RU",
+    "lat": 55.42018,
+    "lng": 55.54212
+  },
+  {
+    "name": "Bilyarsk",
+    "country": "RU",
+    "lat": 54.98358,
+    "lng": 50.38671
+  },
+  {
+    "name": "Bilimbay",
+    "country": "RU",
+    "lat": 56.96889,
+    "lng": 59.8149
+  },
+  {
+    "name": "Bibirevo",
+    "country": "RU",
+    "lat": 55.88333,
+    "lng": 37.6
+  },
+  {
+    "name": "Biorki",
+    "country": "RU",
+    "lat": 55.0528,
+    "lng": 38.60873
+  },
+  {
+    "name": "Biysk",
+    "country": "RU",
+    "lat": 52.53423,
+    "lng": 85.19661
+  },
+  {
+    "name": "Biskamzha",
+    "country": "RU",
+    "lat": 53.44972,
+    "lng": 89.52722
+  },
+  {
+    "name": "Biryusinsk",
+    "country": "RU",
+    "lat": 55.9634,
+    "lng": 97.8235
+  },
+  {
+    "name": "Birobidzhan",
+    "country": "RU",
+    "lat": 48.793,
+    "lng": 132.92033
+  },
+  {
+    "name": "Birakan",
+    "country": "RU",
+    "lat": 48.99412,
+    "lng": 131.72038
+  },
+  {
+    "name": "Bira",
+    "country": "RU",
+    "lat": 49.00172,
+    "lng": 132.46443
+  },
+  {
+    "name": "Bikin",
+    "country": "RU",
+    "lat": 46.81293,
+    "lng": 134.25012
+  },
+  {
+    "name": "Bichura",
+    "country": "RU",
+    "lat": 50.58977,
+    "lng": 107.59763
+  },
+  {
+    "name": "Bilibino",
+    "country": "RU",
+    "lat": 68.05464,
+    "lng": 166.43721
+  },
+  {
+    "name": "Billingsfors",
+    "country": "SE",
+    "lat": 58.98333,
+    "lng": 12.25
+  },
+  {
+    "name": "Billesholm",
+    "country": "SE",
+    "lat": 56.05,
+    "lng": 13.0
+  },
+  {
+    "name": "Billeberga",
+    "country": "SE",
+    "lat": 55.88333,
+    "lng": 13.0
+  },
+  {
+    "name": "Billdal",
+    "country": "SE",
+    "lat": 57.56667,
+    "lng": 11.93333
+  },
+  {
+    "name": "Bishan New Town",
+    "country": "SG",
+    "lat": 1.3504,
+    "lng": 103.84875
+  },
+  {
+    "name": "Bistrica pri Tržiču",
+    "country": "SI",
+    "lat": 46.35472,
+    "lng": 14.29167
+  },
+  {
+    "name": "Bistrica ob Sotli",
+    "country": "SI",
+    "lat": 46.05755,
+    "lng": 15.66326
+  },
+  {
+    "name": "Bilje",
+    "country": "SI",
+    "lat": 45.89444,
+    "lng": 13.63222
+  },
+  {
+    "name": "Bistrica ob Dravi",
+    "country": "SI",
+    "lat": 46.55419,
+    "lng": 15.54855
+  },
+  {
+    "name": "Biely Kostol",
+    "country": "SK",
+    "lat": 48.36755,
+    "lng": 17.53036
+  },
+  {
+    "name": "Binkolo",
+    "country": "SL",
+    "lat": 8.95225,
+    "lng": -11.98029
+  },
+  {
+    "name": "Bindi",
+    "country": "SL",
+    "lat": 9.91376,
+    "lng": -11.44669
+  },
+  {
+    "name": "Birkelane",
+    "country": "SN",
+    "lat": 14.12933,
+    "lng": -15.74409
+  },
+  {
+    "name": "Bignona",
+    "country": "SN",
+    "lat": 12.81028,
+    "lng": -16.22639
+  },
+  {
+    "name": "Bi’r al Ḩulw al Wardīyah",
+    "country": "SY",
+    "lat": 36.69694,
+    "lng": 41.03528
+  },
+  {
+    "name": "Binnish",
+    "country": "SY",
+    "lat": 35.95664,
+    "lng": 36.7138
+  },
+  {
+    "name": "Biltine",
+    "country": "TD",
+    "lat": 14.52727,
+    "lng": 20.92603
+  },
+  {
+    "name": "Bitkine",
+    "country": "TD",
+    "lat": 11.9801,
+    "lng": 18.2138
+  },
+  {
+    "name": "Birata",
+    "country": "TM",
+    "lat": 40.48204,
+    "lng": 62.1586
+  },
+  {
+    "name": "Bir M’cherga",
+    "country": "TN",
+    "lat": 36.51815,
+    "lng": 9.95792
+  },
+  {
+    "name": "Bir Ali Ben Khalifa",
+    "country": "TN",
+    "lat": 34.73592,
+    "lng": 10.0924
+  },
+  {
+    "name": "Bir el Hafey",
+    "country": "TN",
+    "lat": 34.93212,
+    "lng": 9.19321
+  },
+  {
+    "name": "Bizerte",
+    "country": "TN",
+    "lat": 37.27442,
+    "lng": 9.87391
+  },
+  {
+    "name": "Bisbin",
+    "country": "TR",
+    "lat": 37.33929,
+    "lng": 42.56945
+  },
+  {
+    "name": "Bitlis",
+    "country": "TR",
+    "lat": 38.40115,
+    "lng": 42.10784
+  },
+  {
+    "name": "Bitez",
+    "country": "TR",
+    "lat": 37.04436,
+    "lng": 27.39333
+  },
+  {
+    "name": "Bismil",
+    "country": "TR",
+    "lat": 37.84514,
+    "lng": 40.65931
+  },
+  {
+    "name": "Birgi",
+    "country": "TR",
+    "lat": 38.25028,
+    "lng": 28.05917
+  },
+  {
+    "name": "Birecik",
+    "country": "TR",
+    "lat": 37.02577,
+    "lng": 37.97841
+  },
+  {
+    "name": "Binpınar",
+    "country": "TR",
+    "lat": 39.36217,
+    "lng": 42.04861
+  },
+  {
+    "name": "Bingöl",
+    "country": "TR",
+    "lat": 38.88472,
+    "lng": 40.49389
+  },
+  {
+    "name": "Binatlı",
+    "country": "TR",
+    "lat": 37.84708,
+    "lng": 41.21608
+  },
+  {
+    "name": "Bilek",
+    "country": "TR",
+    "lat": 37.12978,
+    "lng": 37.54328
+  },
+  {
+    "name": "Bigadiç",
+    "country": "TR",
+    "lat": 39.3925,
+    "lng": 28.13111
+  },
+  {
+    "name": "Bilecik",
+    "country": "TR",
+    "lat": 40.14192,
+    "lng": 29.97932
+  },
+  {
+    "name": "Biga",
+    "country": "TR",
+    "lat": 40.22806,
+    "lng": 27.24222
+  },
+  {
+    "name": "Biharamulo",
+    "country": "TZ",
+    "lat": -2.63194,
+    "lng": 31.30889
+  },
+  {
+    "name": "Bilmak",
+    "country": "UA",
+    "lat": 47.35914,
+    "lng": 36.65331
+  },
+  {
+    "name": "Birky",
+    "country": "UA",
+    "lat": 50.12268,
+    "lng": 34.1725
+  },
+  {
+    "name": "Bilshivtsi",
+    "country": "UA",
+    "lat": 49.18176,
+    "lng": 24.74028
+  },
+  {
+    "name": "Bibrka",
+    "country": "UA",
+    "lat": 49.63814,
+    "lng": 24.29199
+  },
+  {
+    "name": "Bilhorod-Dnistrovskyi",
+    "country": "UA",
+    "lat": 46.19484,
+    "lng": 30.34827
+  },
+  {
+    "name": "Bila Tserkva",
+    "country": "UA",
+    "lat": 49.8004,
+    "lng": 30.12851
+  },
+  {
+    "name": "Bilyi Kolodiaz",
+    "country": "UA",
+    "lat": 50.20412,
+    "lng": 37.11265
+  },
+  {
+    "name": "Bili Oslavy",
+    "country": "UA",
+    "lat": 48.4819,
+    "lng": 24.69848
+  },
+  {
+    "name": "Bilyayivka",
+    "country": "UA",
+    "lat": 46.48427,
+    "lng": 30.2089
+  },
+  {
+    "name": "Bilozerka",
+    "country": "UA",
+    "lat": 46.62651,
+    "lng": 32.44447
+  },
+  {
+    "name": "Bile",
+    "country": "UA",
+    "lat": 48.49523,
+    "lng": 39.05051
+  },
+  {
+    "name": "Bilovods'k",
+    "country": "UA",
+    "lat": 49.20846,
+    "lng": 39.58975
+  },
+  {
+    "name": "Bilousivka",
+    "country": "UA",
+    "lat": 48.5356,
+    "lng": 27.33933
+  },
+  {
+    "name": "Bilousivka",
+    "country": "UA",
+    "lat": 47.42161,
+    "lng": 31.53289
+  },
+  {
+    "name": "Bilopillia",
+    "country": "UA",
+    "lat": 51.15016,
+    "lng": 34.31287
+  },
+  {
+    "name": "Bilolutsk",
+    "country": "UA",
+    "lat": 49.69722,
+    "lng": 39.02668
+  },
+  {
+    "name": "Bilolissya",
+    "country": "UA",
+    "lat": 45.89209,
+    "lng": 29.69894
+  },
+  {
+    "name": "Bilokurakyne",
+    "country": "UA",
+    "lat": 49.53458,
+    "lng": 38.72723
+  },
+  {
+    "name": "Bilohirya",
+    "country": "UA",
+    "lat": 49.99894,
+    "lng": 26.41442
+  },
+  {
+    "name": "Bilohirsk",
+    "country": "UA",
+    "lat": 45.05679,
+    "lng": 34.60386
+  },
+  {
+    "name": "Bilohorivka",
+    "country": "UA",
+    "lat": 48.92585,
+    "lng": 38.24674
+  },
+  {
+    "name": "Bilohorodka",
+    "country": "UA",
+    "lat": 50.38969,
+    "lng": 30.22532
+  },
+  {
+    "name": "Bilky",
+    "country": "UA",
+    "lat": 48.32629,
+    "lng": 23.13811
+  },
+  {
+    "name": "Bilytske",
+    "country": "UA",
+    "lat": 48.40642,
+    "lng": 37.18111
+  },
+  {
+    "name": "Bilyne",
+    "country": "UA",
+    "lat": 47.87478,
+    "lng": 29.62535
+  },
+  {
+    "name": "Bilyky",
+    "country": "UA",
+    "lat": 49.25147,
+    "lng": 34.2706
+  },
+  {
+    "name": "Bilenke",
+    "country": "UA",
+    "lat": 46.0528,
+    "lng": 30.37784
+  },
+  {
+    "name": "Bila Krynytsia",
+    "country": "UA",
+    "lat": 50.63982,
+    "lng": 29.47041
+  },
+  {
+    "name": "Bila Krynytsya",
+    "country": "UA",
+    "lat": 47.34934,
+    "lng": 33.19722
+  },
+  {
+    "name": "Bilivtsi",
+    "country": "UA",
+    "lat": 48.35,
+    "lng": 26.48333
+  },
+  {
+    "name": "Bilozirka",
+    "country": "UA",
+    "lat": 47.08769,
+    "lng": 32.45117
+  },
+  {
+    "name": "Binyiny",
+    "country": "UG",
+    "lat": 1.41667,
+    "lng": 34.53333
+  },
+  {
+    "name": "Birmingham",
+    "country": "US",
+    "lat": 33.52066,
+    "lng": -86.80249
+  },
+  {
+    "name": "Big Coppitt Key",
+    "country": "US",
+    "lat": 24.59653,
+    "lng": -81.66009
+  },
+  {
+    "name": "Big Pine Key",
+    "country": "US",
+    "lat": 24.66987,
+    "lng": -81.35397
+  },
+  {
+    "name": "Biscayne Park",
+    "country": "US",
+    "lat": 25.8826,
+    "lng": -80.1806
+  },
+  {
+    "name": "Bithlo",
+    "country": "US",
+    "lat": 28.55472,
+    "lng": -81.10645
+  },
+  {
+    "name": "Bicknell",
+    "country": "US",
+    "lat": 38.77421,
+    "lng": -87.30779
+  },
+  {
+    "name": "Billings",
+    "country": "US",
+    "lat": 37.06755,
+    "lng": -93.55214
+  },
+  {
+    "name": "Bismarck",
+    "country": "US",
+    "lat": 37.76922,
+    "lng": -90.62485
+  },
+  {
+    "name": "Biloxi",
+    "country": "US",
+    "lat": 30.39603,
+    "lng": -88.88531
+  },
+  {
+    "name": "Biltmore Forest",
+    "country": "US",
+    "lat": 35.53372,
+    "lng": -82.52846
+  },
+  {
+    "name": "Biscoe",
+    "country": "US",
+    "lat": 35.35986,
+    "lng": -79.77976
+  },
+  {
+    "name": "Bixby",
+    "country": "US",
+    "lat": 35.94204,
+    "lng": -95.88332
+  },
+  {
+    "name": "Biglerville",
+    "country": "US",
+    "lat": 39.93037,
+    "lng": -77.24804
+  },
+  {
+    "name": "Bishopville",
+    "country": "US",
+    "lat": 34.21821,
+    "lng": -80.24841
+  },
+  {
+    "name": "Big Sandy",
+    "country": "US",
+    "lat": 32.58375,
+    "lng": -95.10883
+  },
+  {
+    "name": "Bishop",
+    "country": "US",
+    "lat": 27.58614,
+    "lng": -97.79916
+  },
+  {
+    "name": "Big Stone Gap",
+    "country": "US",
+    "lat": 36.88176,
+    "lng": -82.7471
+  },
+  {
+    "name": "Big Rock",
+    "country": "US",
+    "lat": 41.76392,
+    "lng": -88.54702
+  },
+  {
+    "name": "Billerica",
+    "country": "US",
+    "lat": 42.55843,
+    "lng": -71.26895
+  },
+  {
+    "name": "Biddeford",
+    "country": "US",
+    "lat": 43.49258,
+    "lng": -70.45338
+  },
+  {
+    "name": "Big Rapids",
+    "country": "US",
+    "lat": 43.69808,
+    "lng": -85.48366
+  },
+  {
+    "name": "Bingham Farms",
+    "country": "US",
+    "lat": 42.51587,
+    "lng": -83.27326
+  },
+  {
+    "name": "Birch Run",
+    "country": "US",
+    "lat": 43.25086,
+    "lng": -83.79413
+  },
+  {
+    "name": "Birmingham",
+    "country": "US",
+    "lat": 42.5467,
+    "lng": -83.21132
+  },
+  {
+    "name": "Big Lake",
+    "country": "US",
+    "lat": 45.33246,
+    "lng": -93.74608
+  },
+  {
+    "name": "Birchwood",
+    "country": "US",
+    "lat": 45.06108,
+    "lng": -92.97605
+  },
+  {
+    "name": "Big Flats",
+    "country": "US",
+    "lat": 42.1373,
+    "lng": -76.93691
+  },
+  {
+    "name": "Billington Heights",
+    "country": "US",
+    "lat": 42.78423,
+    "lng": -78.62642
+  },
+  {
+    "name": "Binghamton",
+    "country": "US",
+    "lat": 42.09869,
+    "lng": -75.91797
+  },
+  {
+    "name": "Big Beaver",
+    "country": "US",
+    "lat": 40.82451,
+    "lng": -80.36284
+  },
+  {
+    "name": "Birchwood Lakes",
+    "country": "US",
+    "lat": 41.25454,
+    "lng": -74.9185
+  },
+  {
+    "name": "Birdsboro",
+    "country": "US",
+    "lat": 40.26454,
+    "lng": -75.80409
+  },
+  {
+    "name": "Big Bend",
+    "country": "US",
+    "lat": 42.8814,
+    "lng": -88.20676
+  },
+  {
+    "name": "Bisbee",
+    "country": "US",
+    "lat": 31.44815,
+    "lng": -109.92841
+  },
+  {
+    "name": "Big Bear City",
+    "country": "US",
+    "lat": 34.26112,
+    "lng": -116.84503
+  },
+  {
+    "name": "Big Bear Lake",
+    "country": "US",
+    "lat": 34.2439,
+    "lng": -116.91142
+  },
+  {
+    "name": "Big Pine",
+    "country": "US",
+    "lat": 37.16493,
+    "lng": -118.28955
+  },
+  {
+    "name": "Big River",
+    "country": "US",
+    "lat": 34.14002,
+    "lng": -114.36134
+  },
+  {
+    "name": "Biggs",
+    "country": "US",
+    "lat": 39.41239,
+    "lng": -121.71275
+  },
+  {
+    "name": "Biola",
+    "country": "US",
+    "lat": 36.80217,
+    "lng": -120.01627
+  },
+  {
+    "name": "Bishop",
+    "country": "US",
+    "lat": 37.36354,
+    "lng": -118.39511
+  },
+  {
+    "name": "Big Lake",
+    "country": "US",
+    "lat": 31.19154,
+    "lng": -101.46039
+  },
+  {
+    "name": "Big Spring",
+    "country": "US",
+    "lat": 32.2504,
+    "lng": -101.47874
+  },
+  {
+    "name": "Big Park",
+    "country": "US",
+    "lat": 34.7803,
+    "lng": -111.76265
+  },
+  {
+    "name": "Big Sky",
+    "country": "US",
+    "lat": 45.28465,
+    "lng": -111.36829
+  },
+  {
+    "name": "Big Timber",
+    "country": "US",
+    "lat": 45.83494,
+    "lng": -109.95546
+  },
+  {
+    "name": "Bigfork",
+    "country": "US",
+    "lat": 48.06329,
+    "lng": -114.07261
+  },
+  {
+    "name": "Billings",
+    "country": "US",
+    "lat": 45.78329,
+    "lng": -108.50069
+  },
+  {
+    "name": "Bismarck",
+    "country": "US",
+    "lat": 46.80833,
+    "lng": -100.78374
+  },
+  {
+    "name": "Bison",
+    "country": "US",
+    "lat": 45.52026,
+    "lng": -102.46127
+  },
+  {
+    "name": "Big Lake",
+    "country": "US",
+    "lat": 48.40288,
+    "lng": -122.24127
+  },
+  {
+    "name": "Birch Bay",
+    "country": "US",
+    "lat": 48.91789,
+    "lng": -122.74462
+  },
+  {
+    "name": "Big Lake",
+    "country": "US",
+    "lat": 61.52139,
+    "lng": -149.95444
+  },
+  {
+    "name": "Big Flats Airport",
+    "country": "US",
+    "lat": 42.1693,
+    "lng": -76.88977
+  },
+  {
+    "name": "Big Bass Lake",
+    "country": "US",
+    "lat": 41.25383,
+    "lng": -75.47644
+  },
+  {
+    "name": "Biabou",
+    "country": "VC",
+    "lat": 13.1943,
+    "lng": -61.13904
+  },
+  {
+    "name": "Biscucuy",
+    "country": "VE",
+    "lat": 9.36,
+    "lng": -69.98302
+  },
+  {
+    "name": "Biruaca",
+    "country": "VE",
+    "lat": 7.84483,
+    "lng": -67.51679
+  },
+  {
+    "name": "Biên Hòa",
+    "country": "VN",
+    "lat": 10.94469,
+    "lng": 106.82432
+  },
+  {
+    "name": "Bidbadah",
+    "country": "YE",
+    "lat": 15.425,
+    "lng": 44.7
+  },
+  {
+    "name": "Bi’r Ḩāt",
+    "country": "YE",
+    "lat": 17.32197,
+    "lng": 52.09566
+  },
+  {
+    "name": "Bizana",
+    "country": "ZA",
+    "lat": -30.85907,
+    "lng": 29.85384
+  },
+  {
+    "name": "Binga",
+    "country": "ZW",
+    "lat": -17.62027,
+    "lng": 27.34139
+  },
+  {
+    "name": "Bindura",
+    "country": "ZW",
+    "lat": -17.30192,
+    "lng": 31.33056
+  }
+]

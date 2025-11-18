@@ -1,0 +1,8780 @@
+[
+  {
+    "name": "Bradashesh",
+    "country": "AL",
+    "lat": 41.105,
+    "lng": 20.0225
+  },
+  {
+    "name": "Brataj",
+    "country": "AL",
+    "lat": 40.26778,
+    "lng": 19.66917
+  },
+  {
+    "name": "Brnakot",
+    "country": "AM",
+    "lat": 39.49742,
+    "lng": 45.97241
+  },
+  {
+    "name": "Brinkmann",
+    "country": "AR",
+    "lat": -30.86651,
+    "lng": -62.04311
+  },
+  {
+    "name": "Brea Pozo",
+    "country": "AR",
+    "lat": -28.24385,
+    "lng": -63.95334
+  },
+  {
+    "name": "Bragado",
+    "country": "AR",
+    "lat": -35.11557,
+    "lng": -60.48965
+  },
+  {
+    "name": "Brunn an der Wild",
+    "country": "AT",
+    "lat": 48.69425,
+    "lng": 15.52008
+  },
+  {
+    "name": "Brunn an der Schneebergbahn",
+    "country": "AT",
+    "lat": 47.82376,
+    "lng": 16.15934
+  },
+  {
+    "name": "Brunn am Gebirge",
+    "country": "AT",
+    "lat": 48.10697,
+    "lng": 16.28466
+  },
+  {
+    "name": "Brunn",
+    "country": "AT",
+    "lat": 46.72944,
+    "lng": 15.3
+  },
+  {
+    "name": "Bruckneudorf",
+    "country": "AT",
+    "lat": 48.0197,
+    "lng": 16.778
+  },
+  {
+    "name": "Brückl",
+    "country": "AT",
+    "lat": 46.75167,
+    "lng": 14.53667
+  },
+  {
+    "name": "Bruck an der Mur",
+    "country": "AT",
+    "lat": 47.41667,
+    "lng": 15.28333
+  },
+  {
+    "name": "Bruck an der Leitha",
+    "country": "AT",
+    "lat": 48.0242,
+    "lng": 16.7757
+  },
+  {
+    "name": "Bruck an der Großglocknerstraße",
+    "country": "AT",
+    "lat": 47.28494,
+    "lng": 12.8231
+  },
+  {
+    "name": "Bruck am Ziller",
+    "country": "AT",
+    "lat": 47.38998,
+    "lng": 11.85124
+  },
+  {
+    "name": "Bromberg",
+    "country": "AT",
+    "lat": 47.66539,
+    "lng": 16.2099
+  },
+  {
+    "name": "Brixlegg",
+    "country": "AT",
+    "lat": 47.42942,
+    "lng": 11.87794
+  },
+  {
+    "name": "Brixen im Thale",
+    "country": "AT",
+    "lat": 47.45,
+    "lng": 12.25
+  },
+  {
+    "name": "Bretstein",
+    "country": "AT",
+    "lat": 47.33333,
+    "lng": 14.41667
+  },
+  {
+    "name": "Breitenwang",
+    "country": "AT",
+    "lat": 47.48713,
+    "lng": 10.7342
+  },
+  {
+    "name": "Breitenfurt bei Wien",
+    "country": "AT",
+    "lat": 48.13333,
+    "lng": 16.15
+  },
+  {
+    "name": "Breitenfeld an der Rittschein",
+    "country": "AT",
+    "lat": 47.03035,
+    "lng": 15.95753
+  },
+  {
+    "name": "Breitenfeld am Tannenriegel",
+    "country": "AT",
+    "lat": 46.85,
+    "lng": 15.63333
+  },
+  {
+    "name": "Breitenbrunn",
+    "country": "AT",
+    "lat": 47.94452,
+    "lng": 16.73149
+  },
+  {
+    "name": "Breitenbach am Inn",
+    "country": "AT",
+    "lat": 47.47829,
+    "lng": 11.97372
+  },
+  {
+    "name": "Breitenau",
+    "country": "AT",
+    "lat": 47.73355,
+    "lng": 16.14338
+  },
+  {
+    "name": "Bregenz",
+    "country": "AT",
+    "lat": 47.50311,
+    "lng": 9.7471
+  },
+  {
+    "name": "Braunau am Inn",
+    "country": "AT",
+    "lat": 48.25628,
+    "lng": 13.04343
+  },
+  {
+    "name": "Brandenberg",
+    "country": "AT",
+    "lat": 47.49053,
+    "lng": 11.89459
+  },
+  {
+    "name": "Bramberg am Wildkogel",
+    "country": "AT",
+    "lat": 47.26979,
+    "lng": 12.3385
+  },
+  {
+    "name": "Brand",
+    "country": "AT",
+    "lat": 47.10083,
+    "lng": 9.73722
+  },
+  {
+    "name": "Brandln",
+    "country": "AT",
+    "lat": 48.1451,
+    "lng": 13.99504
+  },
+  {
+    "name": "Braunau Neustadt",
+    "country": "AT",
+    "lat": 48.24606,
+    "lng": 13.03583
+  },
+  {
+    "name": "Brigittenau",
+    "country": "AT",
+    "lat": 48.24275,
+    "lng": 16.37551
+  },
+  {
+    "name": "Broome",
+    "country": "AU",
+    "lat": -17.95538,
+    "lng": 122.23922
+  },
+  {
+    "name": "Brighton",
+    "country": "AU",
+    "lat": -35.0182,
+    "lng": 138.52351
+  },
+  {
+    "name": "Bridgewater",
+    "country": "AU",
+    "lat": -35.01397,
+    "lng": 138.76648
+  },
+  {
+    "name": "Bridgetown",
+    "country": "AU",
+    "lat": -33.96242,
+    "lng": 116.13598
+  },
+  {
+    "name": "Brunswick West",
+    "country": "AU",
+    "lat": -37.76461,
+    "lng": 144.94383
+  },
+  {
+    "name": "Brunswick Heads",
+    "country": "AU",
+    "lat": -28.54003,
+    "lng": 153.54573
+  },
+  {
+    "name": "Brunswick East",
+    "country": "AU",
+    "lat": -37.77255,
+    "lng": 144.97241
+  },
+  {
+    "name": "Brunswick",
+    "country": "AU",
+    "lat": -37.76667,
+    "lng": 144.96667
+  },
+  {
+    "name": "Brown Hill",
+    "country": "AU",
+    "lat": -37.54654,
+    "lng": 143.91553
+  },
+  {
+    "name": "Broulee",
+    "country": "AU",
+    "lat": -35.85469,
+    "lng": 150.17392
+  },
+  {
+    "name": "Brookfield",
+    "country": "AU",
+    "lat": -27.5,
+    "lng": 152.9
+  },
+  {
+    "name": "Broken Hill",
+    "country": "AU",
+    "lat": -31.9652,
+    "lng": 141.4512
+  },
+  {
+    "name": "Broadmeadows",
+    "country": "AU",
+    "lat": -37.68015,
+    "lng": 144.91877
+  },
+  {
+    "name": "Broadford",
+    "country": "AU",
+    "lat": -37.20276,
+    "lng": 145.04837
+  },
+  {
+    "name": "Broadbeach",
+    "country": "AU",
+    "lat": -28.02782,
+    "lng": 153.43343
+  },
+  {
+    "name": "Brisbane",
+    "country": "AU",
+    "lat": -27.46794,
+    "lng": 153.02809
+  },
+  {
+    "name": "Bringelly",
+    "country": "AU",
+    "lat": -33.93333,
+    "lng": 150.73333
+  },
+  {
+    "name": "Brighton",
+    "country": "AU",
+    "lat": -37.90561,
+    "lng": 145.00279
+  },
+  {
+    "name": "Brighton",
+    "country": "AU",
+    "lat": -27.29582,
+    "lng": 153.05721
+  },
+  {
+    "name": "Bright",
+    "country": "AU",
+    "lat": -36.72998,
+    "lng": 146.95978
+  },
+  {
+    "name": "Bridport",
+    "country": "AU",
+    "lat": -41.00046,
+    "lng": 147.39175
+  },
+  {
+    "name": "Bridgewater",
+    "country": "AU",
+    "lat": -42.73719,
+    "lng": 147.22784
+  },
+  {
+    "name": "Briar Hill",
+    "country": "AU",
+    "lat": -37.70631,
+    "lng": 145.121
+  },
+  {
+    "name": "Briagolong",
+    "country": "AU",
+    "lat": -37.84356,
+    "lng": 147.07268
+  },
+  {
+    "name": "Brewarrina",
+    "country": "AU",
+    "lat": -29.96067,
+    "lng": 146.85986
+  },
+  {
+    "name": "Branxton",
+    "country": "AU",
+    "lat": -32.65547,
+    "lng": 151.35113
+  },
+  {
+    "name": "Brandon",
+    "country": "AU",
+    "lat": -19.55389,
+    "lng": 147.35304
+  },
+  {
+    "name": "Braidwood",
+    "country": "AU",
+    "lat": -35.44148,
+    "lng": 149.7998
+  },
+  {
+    "name": "Brighton-Le-Sands",
+    "country": "AU",
+    "lat": -33.96009,
+    "lng": 151.1511
+  },
+  {
+    "name": "Bronte",
+    "country": "AU",
+    "lat": -33.90198,
+    "lng": 151.26556
+  },
+  {
+    "name": "Brookvale",
+    "country": "AU",
+    "lat": -33.76108,
+    "lng": 151.27446
+  },
+  {
+    "name": "Bracken Ridge",
+    "country": "AU",
+    "lat": -27.3171,
+    "lng": 153.03097
+  },
+  {
+    "name": "Brendale",
+    "country": "AU",
+    "lat": -27.32114,
+    "lng": 152.98393
+  },
+  {
+    "name": "Bridgeman Downs",
+    "country": "AU",
+    "lat": -27.35538,
+    "lng": 152.99432
+  },
+  {
+    "name": "Brookfield",
+    "country": "AU",
+    "lat": -37.7008,
+    "lng": 144.56025
+  },
+  {
+    "name": "Brighton East",
+    "country": "AU",
+    "lat": -37.90232,
+    "lng": 145.01734
+  },
+  {
+    "name": "Brassall",
+    "country": "AU",
+    "lat": -27.59753,
+    "lng": 152.74755
+  },
+  {
+    "name": "Breakfast Point",
+    "country": "AU",
+    "lat": -33.84286,
+    "lng": 151.11072
+  },
+  {
+    "name": "Brentwood",
+    "country": "AU",
+    "lat": -32.04347,
+    "lng": 115.85246
+  },
+  {
+    "name": "Brinkin",
+    "country": "AU",
+    "lat": -12.37057,
+    "lng": 130.86799
+  },
+  {
+    "name": "Broadview",
+    "country": "AU",
+    "lat": -34.87589,
+    "lng": 138.61498
+  },
+  {
+    "name": "Brahma Lodge",
+    "country": "AU",
+    "lat": -34.77604,
+    "lng": 138.65306
+  },
+  {
+    "name": "Brighton",
+    "country": "AU",
+    "lat": -42.69814,
+    "lng": 147.24489
+  },
+  {
+    "name": "Brookdale",
+    "country": "AU",
+    "lat": -32.16696,
+    "lng": 116.00193
+  },
+  {
+    "name": "Brockman",
+    "country": "AU",
+    "lat": -24.88126,
+    "lng": 113.65365
+  },
+  {
+    "name": "Brinsmead",
+    "country": "AU",
+    "lat": -16.89921,
+    "lng": 145.71554
+  },
+  {
+    "name": "Branyan",
+    "country": "AU",
+    "lat": -24.91347,
+    "lng": 152.27251
+  },
+  {
+    "name": "Broadwater",
+    "country": "AU",
+    "lat": -33.66304,
+    "lng": 115.2842
+  },
+  {
+    "name": "Brookwater",
+    "country": "AU",
+    "lat": -27.66128,
+    "lng": 152.89669
+  },
+  {
+    "name": "Braitling",
+    "country": "AU",
+    "lat": -23.68005,
+    "lng": 133.86877
+  },
+  {
+    "name": "Braddon",
+    "country": "AU",
+    "lat": -35.27078,
+    "lng": 149.13569
+  },
+  {
+    "name": "Bradbury",
+    "country": "AU",
+    "lat": -34.0854,
+    "lng": 150.81541
+  },
+  {
+    "name": "Bray Park",
+    "country": "AU",
+    "lat": -27.29246,
+    "lng": 152.96783
+  },
+  {
+    "name": "Brooklyn",
+    "country": "AU",
+    "lat": -37.81609,
+    "lng": 144.8415
+  },
+  {
+    "name": "Brunswick",
+    "country": "AU",
+    "lat": -33.2324,
+    "lng": 115.86282
+  },
+  {
+    "name": "Bruce",
+    "country": "AU",
+    "lat": -35.24405,
+    "lng": 149.09083
+  },
+  {
+    "name": "Braybrook",
+    "country": "AU",
+    "lat": -37.78671,
+    "lng": 144.85484
+  },
+  {
+    "name": "Brompton",
+    "country": "AU",
+    "lat": -34.89445,
+    "lng": 138.5782
+  },
+  {
+    "name": "Brooklyn Park",
+    "country": "AU",
+    "lat": -34.92847,
+    "lng": 138.53631
+  },
+  {
+    "name": "Brabham",
+    "country": "AU",
+    "lat": -31.82728,
+    "lng": 115.97417
+  },
+  {
+    "name": "Broadbeach Waters",
+    "country": "AU",
+    "lat": -28.03498,
+    "lng": 153.42502
+  },
+  {
+    "name": "Broadmeadow",
+    "country": "AU",
+    "lat": -32.92371,
+    "lng": 151.72849
+  },
+  {
+    "name": "Brisbane central business district",
+    "country": "AU",
+    "lat": -27.47134,
+    "lng": 153.02736
+  },
+  {
+    "name": "Brändö",
+    "country": "AX",
+    "lat": 60.41165,
+    "lng": 21.04534
+  },
+  {
+    "name": "Bronzani Majdan",
+    "country": "BA",
+    "lat": 44.79237,
+    "lng": 16.94039
+  },
+  {
+    "name": "Brka",
+    "country": "BA",
+    "lat": 44.82837,
+    "lng": 18.7242
+  },
+  {
+    "name": "Breza",
+    "country": "BA",
+    "lat": 44.01862,
+    "lng": 18.26063
+  },
+  {
+    "name": "Brčko",
+    "country": "BA",
+    "lat": 44.87162,
+    "lng": 18.8163
+  },
+  {
+    "name": "Bratunac",
+    "country": "BA",
+    "lat": 44.18455,
+    "lng": 19.33085
+  },
+  {
+    "name": "Brod",
+    "country": "BA",
+    "lat": 45.13747,
+    "lng": 17.98722
+  },
+  {
+    "name": "Bridgetown",
+    "country": "BB",
+    "lat": 13.10732,
+    "lng": -59.62021
+  },
+  {
+    "name": "Brāhmanbāria",
+    "country": "BD",
+    "lat": 23.97464,
+    "lng": 91.11228
+  },
+  {
+    "name": "Brakel",
+    "country": "BE",
+    "lat": 50.80101,
+    "lng": 3.76264
+  },
+  {
+    "name": "Brussels",
+    "country": "BE",
+    "lat": 50.85045,
+    "lng": 4.34878
+  },
+  {
+    "name": "Brustem",
+    "country": "BE",
+    "lat": 50.80485,
+    "lng": 5.22263
+  },
+  {
+    "name": "Brussegem",
+    "country": "BE",
+    "lat": 50.9256,
+    "lng": 4.26682
+  },
+  {
+    "name": "Brunehault",
+    "country": "BE",
+    "lat": 50.50524,
+    "lng": 4.43209
+  },
+  {
+    "name": "Brugge",
+    "country": "BE",
+    "lat": 51.20892,
+    "lng": 3.22424
+  },
+  {
+    "name": "Brugelette",
+    "country": "BE",
+    "lat": 50.59577,
+    "lng": 3.85363
+  },
+  {
+    "name": "Broechem",
+    "country": "BE",
+    "lat": 51.18133,
+    "lng": 4.60181
+  },
+  {
+    "name": "Bressoux",
+    "country": "BE",
+    "lat": 50.63988,
+    "lng": 5.60629
+  },
+  {
+    "name": "Breendonk",
+    "country": "BE",
+    "lat": 51.04301,
+    "lng": 4.32364
+  },
+  {
+    "name": "Bree",
+    "country": "BE",
+    "lat": 51.14152,
+    "lng": 5.5969
+  },
+  {
+    "name": "Bredene",
+    "country": "BE",
+    "lat": 51.23489,
+    "lng": 2.97559
+  },
+  {
+    "name": "Brecht",
+    "country": "BE",
+    "lat": 51.35024,
+    "lng": 4.63829
+  },
+  {
+    "name": "Bray",
+    "country": "BE",
+    "lat": 50.43242,
+    "lng": 4.10588
+  },
+  {
+    "name": "Brasschaat",
+    "country": "BE",
+    "lat": 51.2912,
+    "lng": 4.49182
+  },
+  {
+    "name": "Bras",
+    "country": "BE",
+    "lat": 49.97089,
+    "lng": 5.39485
+  },
+  {
+    "name": "Braives",
+    "country": "BE",
+    "lat": 50.62848,
+    "lng": 5.14798
+  },
+  {
+    "name": "Braine-le-Comte",
+    "country": "BE",
+    "lat": 50.60979,
+    "lng": 4.14658
+  },
+  {
+    "name": "Braine-le-Château",
+    "country": "BE",
+    "lat": 50.6799,
+    "lng": 4.27385
+  },
+  {
+    "name": "Braine-l'Alleud",
+    "country": "BE",
+    "lat": 50.68363,
+    "lng": 4.36784
+  },
+  {
+    "name": "Bracquegnies",
+    "country": "BE",
+    "lat": 50.47094,
+    "lng": 4.1197
+  },
+  {
+    "name": "Brusartsi",
+    "country": "BG",
+    "lat": 43.66325,
+    "lng": 23.06692
+  },
+  {
+    "name": "Brezovo",
+    "country": "BG",
+    "lat": 42.34666,
+    "lng": 25.07618
+  },
+  {
+    "name": "Breznik",
+    "country": "BG",
+    "lat": 42.74085,
+    "lng": 22.90723
+  },
+  {
+    "name": "Bregovo",
+    "country": "BG",
+    "lat": 44.15191,
+    "lng": 22.63877
+  },
+  {
+    "name": "Bratsigovo",
+    "country": "BG",
+    "lat": 42.02391,
+    "lng": 24.37557
+  },
+  {
+    "name": "Breves",
+    "country": "BR",
+    "lat": -1.68222,
+    "lng": -50.48028
+  },
+  {
+    "name": "Brejo Santo",
+    "country": "BR",
+    "lat": -7.49333,
+    "lng": -38.98722
+  },
+  {
+    "name": "Brejo dos Santos",
+    "country": "BR",
+    "lat": -6.37667,
+    "lng": -37.82472
+  },
+  {
+    "name": "Brejo do Cruz",
+    "country": "BR",
+    "lat": -6.34861,
+    "lng": -37.49833
+  },
+  {
+    "name": "Brejo da Madre de Deus",
+    "country": "BR",
+    "lat": -8.14583,
+    "lng": -36.37111
+  },
+  {
+    "name": "Brejo do Piauí",
+    "country": "BR",
+    "lat": -8.20673,
+    "lng": -42.83468
+  },
+  {
+    "name": "Brejo",
+    "country": "BR",
+    "lat": -3.68444,
+    "lng": -42.75028
+  },
+  {
+    "name": "Brejinho",
+    "country": "BR",
+    "lat": -9.1,
+    "lng": -38.28333
+  },
+  {
+    "name": "Brejinho",
+    "country": "BR",
+    "lat": -7.34944,
+    "lng": -37.28611
+  },
+  {
+    "name": "Brejinho",
+    "country": "BR",
+    "lat": -6.19083,
+    "lng": -35.35667
+  },
+  {
+    "name": "Brejão",
+    "country": "BR",
+    "lat": -9.03028,
+    "lng": -36.56861
+  },
+  {
+    "name": "Brasileira",
+    "country": "BR",
+    "lat": -4.13044,
+    "lng": -41.78228
+  },
+  {
+    "name": "Branquinha",
+    "country": "BR",
+    "lat": -9.24556,
+    "lng": -36.01528
+  },
+  {
+    "name": "Bragança",
+    "country": "BR",
+    "lat": -1.05361,
+    "lng": -46.76556
+  },
+  {
+    "name": "Brasilândia do Tocantins",
+    "country": "BR",
+    "lat": -8.3875,
+    "lng": -48.48111
+  },
+  {
+    "name": "Brunópolis",
+    "country": "BR",
+    "lat": -27.31086,
+    "lng": -50.83865
+  },
+  {
+    "name": "Brusque",
+    "country": "BR",
+    "lat": -27.09795,
+    "lng": -48.91281
+  },
+  {
+    "name": "Brumado",
+    "country": "BR",
+    "lat": -14.20361,
+    "lng": -41.66528
+  },
+  {
+    "name": "Brumadinho",
+    "country": "BR",
+    "lat": -20.14333,
+    "lng": -44.19972
+  },
+  {
+    "name": "Brotas de Macaúbas",
+    "country": "BR",
+    "lat": -11.99889,
+    "lng": -42.62583
+  },
+  {
+    "name": "Brotas",
+    "country": "BR",
+    "lat": -22.28417,
+    "lng": -48.12667
+  },
+  {
+    "name": "Brodowski",
+    "country": "BR",
+    "lat": -20.99139,
+    "lng": -47.65861
+  },
+  {
+    "name": "Brochier",
+    "country": "BR",
+    "lat": -29.54528,
+    "lng": -51.58611
+  },
+  {
+    "name": "Britânia",
+    "country": "BR",
+    "lat": -15.24111,
+    "lng": -51.16056
+  },
+  {
+    "name": "Brejolândia",
+    "country": "BR",
+    "lat": -12.48563,
+    "lng": -43.96099
+  },
+  {
+    "name": "Brejo Grande",
+    "country": "BR",
+    "lat": -10.42944,
+    "lng": -36.46611
+  },
+  {
+    "name": "Brejões",
+    "country": "BR",
+    "lat": -13.10444,
+    "lng": -39.79583
+  },
+  {
+    "name": "Brejo Alegre",
+    "country": "BR",
+    "lat": -21.16639,
+    "lng": -50.18528
+  },
+  {
+    "name": "Brejinho de Nazaré",
+    "country": "BR",
+    "lat": -11.0,
+    "lng": -48.56556
+  },
+  {
+    "name": "Brejetuba",
+    "country": "BR",
+    "lat": -20.14611,
+    "lng": -41.29028
+  },
+  {
+    "name": "Brazópolis",
+    "country": "BR",
+    "lat": -22.47361,
+    "lng": -45.6075
+  },
+  {
+    "name": "Braúnas",
+    "country": "BR",
+    "lat": -19.05583,
+    "lng": -42.71556
+  },
+  {
+    "name": "Braúna",
+    "country": "BR",
+    "lat": -21.49917,
+    "lng": -50.31556
+  },
+  {
+    "name": "Brás Pires",
+    "country": "BR",
+    "lat": -20.92056,
+    "lng": -43.24222
+  },
+  {
+    "name": "Brazlândia",
+    "country": "BR",
+    "lat": -15.67941,
+    "lng": -48.19667
+  },
+  {
+    "name": "Brasília de Minas",
+    "country": "BR",
+    "lat": -16.20639,
+    "lng": -44.43333
+  },
+  {
+    "name": "Brasília",
+    "country": "BR",
+    "lat": -15.77972,
+    "lng": -47.92972
+  },
+  {
+    "name": "Brazabrantes",
+    "country": "BR",
+    "lat": -16.43056,
+    "lng": -49.38917
+  },
+  {
+    "name": "Brás",
+    "country": "BR",
+    "lat": -23.55,
+    "lng": -46.61667
+  },
+  {
+    "name": "Bragança Paulista",
+    "country": "BR",
+    "lat": -22.9527,
+    "lng": -46.54418
+  },
+  {
+    "name": "Braga",
+    "country": "BR",
+    "lat": -27.61389,
+    "lng": -53.73944
+  },
+  {
+    "name": "Braço do Trombudo",
+    "country": "BR",
+    "lat": -27.35778,
+    "lng": -49.88556
+  },
+  {
+    "name": "Braço do Norte",
+    "country": "BR",
+    "lat": -28.275,
+    "lng": -49.16556
+  },
+  {
+    "name": "Brasiléia",
+    "country": "BR",
+    "lat": -11.01611,
+    "lng": -68.74806
+  },
+  {
+    "name": "Braganey",
+    "country": "BR",
+    "lat": -24.81639,
+    "lng": -53.12167
+  },
+  {
+    "name": "Brasilândia",
+    "country": "BR",
+    "lat": -21.25583,
+    "lng": -52.03694
+  },
+  {
+    "name": "Brasilândia do Sul",
+    "country": "BR",
+    "lat": -24.19694,
+    "lng": -53.52472
+  },
+  {
+    "name": "Brejo Grande do Araguaia",
+    "country": "BR",
+    "lat": -5.69889,
+    "lng": -48.41306
+  },
+  {
+    "name": "Breu Branco",
+    "country": "BR",
+    "lat": -4.00092,
+    "lng": -49.5068
+  },
+  {
+    "name": "Brasilândia de Minas",
+    "country": "BR",
+    "lat": -17.01037,
+    "lng": -46.00851
+  },
+  {
+    "name": "Brasil Novo",
+    "country": "BR",
+    "lat": -3.30708,
+    "lng": -52.53863
+  },
+  {
+    "name": "Brasilandia",
+    "country": "BR",
+    "lat": -23.44859,
+    "lng": -46.68839
+  },
+  {
+    "name": "Brejo de Areia",
+    "country": "BR",
+    "lat": -4.3309,
+    "lng": -45.58489
+  },
+  {
+    "name": "Breu Branco",
+    "country": "BR",
+    "lat": -3.77517,
+    "lng": -49.56913
+  },
+  {
+    "name": "Brasnorte",
+    "country": "BR",
+    "lat": -12.1201,
+    "lng": -58.00274
+  },
+  {
+    "name": "Brest",
+    "country": "BY",
+    "lat": 52.10894,
+    "lng": 23.71749
+  },
+  {
+    "name": "Braslav",
+    "country": "BY",
+    "lat": 55.64387,
+    "lng": 27.05715
+  },
+  {
+    "name": "Bragin",
+    "country": "BY",
+    "lat": 51.79067,
+    "lng": 30.26709
+  },
+  {
+    "name": "Bracebridge",
+    "country": "CA",
+    "lat": 45.03341,
+    "lng": -79.31633
+  },
+  {
+    "name": "Bradner",
+    "country": "CA",
+    "lat": 49.1,
+    "lng": -122.41667
+  },
+  {
+    "name": "Braeside",
+    "country": "CA",
+    "lat": 50.95421,
+    "lng": -114.10538
+  },
+  {
+    "name": "Brampton",
+    "country": "CA",
+    "lat": 43.68341,
+    "lng": -79.76633
+  },
+  {
+    "name": "Brandon",
+    "country": "CA",
+    "lat": 49.84692,
+    "lng": -99.95306
+  },
+  {
+    "name": "Brant",
+    "country": "CA",
+    "lat": 43.1334,
+    "lng": -80.34967
+  },
+  {
+    "name": "Brantford",
+    "country": "CA",
+    "lat": 43.1334,
+    "lng": -80.26636
+  },
+  {
+    "name": "Brentwood",
+    "country": "CA",
+    "lat": 51.09813,
+    "lng": -114.13319
+  },
+  {
+    "name": "Brentwood Park",
+    "country": "CA",
+    "lat": 49.275,
+    "lng": -122.99167
+  },
+  {
+    "name": "Bridgeview",
+    "country": "CA",
+    "lat": 49.2081,
+    "lng": -122.86028
+  },
+  {
+    "name": "Bridgewater",
+    "country": "CA",
+    "lat": 44.37856,
+    "lng": -64.51882
+  },
+  {
+    "name": "Bridlewood",
+    "country": "CA",
+    "lat": 50.89979,
+    "lng": -114.10812
+  },
+  {
+    "name": "Brighouse-City Centre",
+    "country": "CA",
+    "lat": 49.16667,
+    "lng": -123.13333
+  },
+  {
+    "name": "British Properties",
+    "country": "CA",
+    "lat": 49.35,
+    "lng": -123.13333
+  },
+  {
+    "name": "Broadmoor",
+    "country": "CA",
+    "lat": 49.15,
+    "lng": -123.13333
+  },
+  {
+    "name": "Brocklehurst",
+    "country": "CA",
+    "lat": 50.70825,
+    "lng": -120.41337
+  },
+  {
+    "name": "Brockville",
+    "country": "CA",
+    "lat": 44.59132,
+    "lng": -75.68705
+  },
+  {
+    "name": "Bromont",
+    "country": "CA",
+    "lat": 45.31678,
+    "lng": -72.64912
+  },
+  {
+    "name": "Brooks",
+    "country": "CA",
+    "lat": 50.58341,
+    "lng": -111.88509
+  },
+  {
+    "name": "Brookswood",
+    "country": "CA",
+    "lat": 49.06667,
+    "lng": -122.66667
+  },
+  {
+    "name": "Brossard",
+    "country": "CA",
+    "lat": 45.45008,
+    "lng": -73.46583
+  },
+  {
+    "name": "Brownsburg-Chatham",
+    "country": "CA",
+    "lat": 45.68342,
+    "lng": -74.4159
+  },
+  {
+    "name": "Brussels",
+    "country": "CA",
+    "lat": 43.74316,
+    "lng": -81.24998
+  },
+  {
+    "name": "Breakeyville",
+    "country": "CA",
+    "lat": 46.68037,
+    "lng": -71.22327
+  },
+  {
+    "name": "Briar Hill-Belgravia",
+    "country": "CA",
+    "lat": 43.69902,
+    "lng": -79.45285
+  },
+  {
+    "name": "Broadview North",
+    "country": "CA",
+    "lat": 43.68883,
+    "lng": -79.35563
+  },
+  {
+    "name": "Brookhaven-Amesbury",
+    "country": "CA",
+    "lat": 43.70133,
+    "lng": -79.48559
+  },
+  {
+    "name": "Bridle Path-Sunnybrook-York Mills",
+    "country": "CA",
+    "lat": 43.73101,
+    "lng": -79.37891
+  },
+  {
+    "name": "Bridgeport",
+    "country": "CA",
+    "lat": 49.19887,
+    "lng": -123.11357
+  },
+  {
+    "name": "Brow of the Hill",
+    "country": "CA",
+    "lat": 49.20213,
+    "lng": -122.92015
+  },
+  {
+    "name": "Bria",
+    "country": "CF",
+    "lat": 6.54233,
+    "lng": 21.98633
+  },
+  {
+    "name": "Brazzaville",
+    "country": "CG",
+    "lat": -4.26613,
+    "lng": 15.28318
+  },
+  {
+    "name": "Brüttisellen",
+    "country": "CH",
+    "lat": 47.42173,
+    "lng": 8.63263
+  },
+  {
+    "name": "Brütten",
+    "country": "CH",
+    "lat": 47.47318,
+    "lng": 8.67569
+  },
+  {
+    "name": "Brusio",
+    "country": "CH",
+    "lat": 46.25953,
+    "lng": 10.12385
+  },
+  {
+    "name": "Brugg",
+    "country": "CH",
+    "lat": 47.48096,
+    "lng": 8.20869
+  },
+  {
+    "name": "Brügg",
+    "country": "CH",
+    "lat": 47.1237,
+    "lng": 7.27887
+  },
+  {
+    "name": "Bronschhofen",
+    "country": "CH",
+    "lat": 47.47835,
+    "lng": 9.03454
+  },
+  {
+    "name": "Broc",
+    "country": "CH",
+    "lat": 46.60513,
+    "lng": 7.09891
+  },
+  {
+    "name": "Brittnau",
+    "country": "CH",
+    "lat": 47.25954,
+    "lng": 7.94689
+  },
+  {
+    "name": "Brissago",
+    "country": "CH",
+    "lat": 46.12013,
+    "lng": 8.71181
+  },
+  {
+    "name": "Brislach",
+    "country": "CH",
+    "lat": 47.41763,
+    "lng": 7.5434
+  },
+  {
+    "name": "Brig",
+    "country": "CH",
+    "lat": 46.31667,
+    "lng": 7.98333
+  },
+  {
+    "name": "Brienz",
+    "country": "CH",
+    "lat": 46.7545,
+    "lng": 8.03847
+  },
+  {
+    "name": "Bremgarten",
+    "country": "CH",
+    "lat": 47.35109,
+    "lng": 8.34214
+  },
+  {
+    "name": "Breitenbach",
+    "country": "CH",
+    "lat": 47.40668,
+    "lng": 7.54554
+  },
+  {
+    "name": "Breíl",
+    "country": "CH",
+    "lat": 46.76986,
+    "lng": 9.06036
+  },
+  {
+    "name": "Braggio",
+    "country": "CH",
+    "lat": 46.30277,
+    "lng": 9.1238
+  },
+  {
+    "name": "Brobo",
+    "country": "CI",
+    "lat": 7.64026,
+    "lng": -4.82541
+  },
+  {
+    "name": "Brozan",
+    "country": "CI",
+    "lat": 6.39873,
+    "lng": -5.50306
+  },
+  {
+    "name": "Brouta",
+    "country": "CI",
+    "lat": 7.24953,
+    "lng": -6.18451
+  },
+  {
+    "name": "Brou Totokro",
+    "country": "CI",
+    "lat": 7.16416,
+    "lng": -4.86326
+  },
+  {
+    "name": "Broukro",
+    "country": "CI",
+    "lat": 6.6464,
+    "lng": -4.22305
+  },
+  {
+    "name": "Broubrou-Sokoura",
+    "country": "CI",
+    "lat": 8.52397,
+    "lng": -4.31125
+  },
+  {
+    "name": "Broubrou",
+    "country": "CI",
+    "lat": 5.72477,
+    "lng": -4.8237
+  },
+  {
+    "name": "Brou-Attakro",
+    "country": "CI",
+    "lat": 6.6774,
+    "lng": -3.80374
+  },
+  {
+    "name": "Brou akpaousso",
+    "country": "CI",
+    "lat": 6.90916,
+    "lng": -4.05582
+  },
+  {
+    "name": "Brouafla-nattis",
+    "country": "CI",
+    "lat": 7.59623,
+    "lng": -6.51838
+  },
+  {
+    "name": "Brouafla",
+    "country": "CI",
+    "lat": 7.24429,
+    "lng": -6.68344
+  },
+  {
+    "name": "Bronda",
+    "country": "CI",
+    "lat": 6.22892,
+    "lng": -5.66807
+  },
+  {
+    "name": "Broma",
+    "country": "CI",
+    "lat": 6.48505,
+    "lng": -6.3844
+  },
+  {
+    "name": "Brokohio",
+    "country": "CI",
+    "lat": 5.87281,
+    "lng": -6.10725
+  },
+  {
+    "name": "Brohouan",
+    "country": "CI",
+    "lat": 6.767,
+    "lng": -6.51275
+  },
+  {
+    "name": "Brodoufla",
+    "country": "CI",
+    "lat": 7.5178,
+    "lng": -5.81534
+  },
+  {
+    "name": "Brizéboua",
+    "country": "CI",
+    "lat": 7.00954,
+    "lng": -6.46905
+  },
+  {
+    "name": "Bringakro",
+    "country": "CI",
+    "lat": 6.41369,
+    "lng": -5.09042
+  },
+  {
+    "name": "Briéoa",
+    "country": "CI",
+    "lat": 6.11436,
+    "lng": -6.22574
+  },
+  {
+    "name": "Brékoua",
+    "country": "CI",
+    "lat": 6.16828,
+    "lng": -5.81299
+  },
+  {
+    "name": "Bréguiagui",
+    "country": "CI",
+    "lat": 5.24854,
+    "lng": -6.37914
+  },
+  {
+    "name": "Brégbo",
+    "country": "CI",
+    "lat": 5.30406,
+    "lng": -3.82188
+  },
+  {
+    "name": "Brakaguhé",
+    "country": "CI",
+    "lat": 6.80111,
+    "lng": -6.54797
+  },
+  {
+    "name": "Brahéri",
+    "country": "CI",
+    "lat": 5.46838,
+    "lng": -5.27029
+  },
+  {
+    "name": "Braffédon",
+    "country": "CI",
+    "lat": 5.13839,
+    "lng": -4.98963
+  },
+  {
+    "name": "Brabori",
+    "country": "CI",
+    "lat": 5.91321,
+    "lng": -5.3794
+  },
+  {
+    "name": "Brabodougou Douzarékro",
+    "country": "CI",
+    "lat": 5.79833,
+    "lng": -5.29786
+  },
+  {
+    "name": "Brindoukro",
+    "country": "CI",
+    "lat": 6.8575,
+    "lng": -3.28438
+  },
+  {
+    "name": "Broukro Ahoué",
+    "country": "CI",
+    "lat": 7.37093,
+    "lng": -5.21902
+  },
+  {
+    "name": "Brofodoumé",
+    "country": "CI",
+    "lat": 5.51358,
+    "lng": -3.93072
+  },
+  {
+    "name": "Brafouéby",
+    "country": "CI",
+    "lat": 5.65002,
+    "lng": -4.56434
+  },
+  {
+    "name": "Brazzaville",
+    "country": "CI",
+    "lat": 5.06762,
+    "lng": -6.55879
+  },
+  {
+    "name": "Brouagui",
+    "country": "CI",
+    "lat": 5.65075,
+    "lng": -6.82418
+  },
+  {
+    "name": "Bricolo",
+    "country": "CI",
+    "lat": 5.78502,
+    "lng": -6.45205
+  },
+  {
+    "name": "Broudoumé",
+    "country": "CI",
+    "lat": 6.36303,
+    "lng": -5.87113
+  },
+  {
+    "name": "Brévet",
+    "country": "CI",
+    "lat": 5.74021,
+    "lng": -5.12815
+  },
+  {
+    "name": "Brihi",
+    "country": "CI",
+    "lat": 6.45027,
+    "lng": -5.91893
+  },
+  {
+    "name": "Broudoukou-Kpenda",
+    "country": "CI",
+    "lat": 5.52314,
+    "lng": -5.51411
+  },
+  {
+    "name": "Broukro",
+    "country": "CI",
+    "lat": 5.9886,
+    "lng": -4.91325
+  },
+  {
+    "name": "Brouzra",
+    "country": "CI",
+    "lat": 7.65656,
+    "lng": -5.94004
+  },
+  {
+    "name": "Brahima",
+    "country": "CI",
+    "lat": 8.15157,
+    "lng": -6.15965
+  },
+  {
+    "name": "Briceño",
+    "country": "CO",
+    "lat": 7.11096,
+    "lng": -75.55152
+  },
+  {
+    "name": "Briceño",
+    "country": "CO",
+    "lat": 5.68822,
+    "lng": -73.91784
+  },
+  {
+    "name": "Brievengat",
+    "country": "CW",
+    "lat": 12.15,
+    "lng": -68.9
+  },
+  {
+    "name": "Brušperk",
+    "country": "CZ",
+    "lat": 49.7001,
+    "lng": 18.2221
+  },
+  {
+    "name": "Bruntál",
+    "country": "CZ",
+    "lat": 49.98844,
+    "lng": 17.4647
+  },
+  {
+    "name": "Brumovice",
+    "country": "CZ",
+    "lat": 50.0153,
+    "lng": 17.74958
+  },
+  {
+    "name": "Brtnice",
+    "country": "CZ",
+    "lat": 49.30695,
+    "lng": 15.67642
+  },
+  {
+    "name": "Brozany nad Ohří",
+    "country": "CZ",
+    "lat": 50.45423,
+    "lng": 14.14525
+  },
+  {
+    "name": "Broumov",
+    "country": "CZ",
+    "lat": 50.58566,
+    "lng": 16.33181
+  },
+  {
+    "name": "Brodek u Přerova",
+    "country": "CZ",
+    "lat": 49.48419,
+    "lng": 17.33825
+  },
+  {
+    "name": "Brodek u Prostějova",
+    "country": "CZ",
+    "lat": 49.36977,
+    "lng": 17.08931
+  },
+  {
+    "name": "Brno",
+    "country": "CZ",
+    "lat": 49.19522,
+    "lng": 16.60796
+  },
+  {
+    "name": "Brniště",
+    "country": "CZ",
+    "lat": 50.72919,
+    "lng": 14.70338
+  },
+  {
+    "name": "Brněnec",
+    "country": "CZ",
+    "lat": 49.62735,
+    "lng": 16.52202
+  },
+  {
+    "name": "Brloh",
+    "country": "CZ",
+    "lat": 48.92987,
+    "lng": 14.21857
+  },
+  {
+    "name": "Brantice",
+    "country": "CZ",
+    "lat": 50.06351,
+    "lng": 17.62911
+  },
+  {
+    "name": "Braník",
+    "country": "CZ",
+    "lat": 50.03498,
+    "lng": 14.41518
+  },
+  {
+    "name": "Brandýs nad Orlicí",
+    "country": "CZ",
+    "lat": 50.00194,
+    "lng": 16.28528
+  },
+  {
+    "name": "Brandýs nad Labem-Stará Boleslav",
+    "country": "CZ",
+    "lat": 50.18709,
+    "lng": 14.66326
+  },
+  {
+    "name": "Brandýsek",
+    "country": "CZ",
+    "lat": 50.18923,
+    "lng": 14.16199
+  },
+  {
+    "name": "Braňany",
+    "country": "CZ",
+    "lat": 50.54295,
+    "lng": 13.70017
+  },
+  {
+    "name": "Brumov-Bylnice",
+    "country": "CZ",
+    "lat": 49.09177,
+    "lng": 18.02238
+  },
+  {
+    "name": "Brüssow",
+    "country": "DE",
+    "lat": 53.39971,
+    "lng": 14.12533
+  },
+  {
+    "name": "Brüsewitz",
+    "country": "DE",
+    "lat": 53.67588,
+    "lng": 11.24379
+  },
+  {
+    "name": "Brunsbüttel",
+    "country": "DE",
+    "lat": 53.8962,
+    "lng": 9.10459
+  },
+  {
+    "name": "Brunnthal",
+    "country": "DE",
+    "lat": 48.00652,
+    "lng": 11.68405
+  },
+  {
+    "name": "Brunnen",
+    "country": "DE",
+    "lat": 48.22956,
+    "lng": 10.97332
+  },
+  {
+    "name": "Brunn",
+    "country": "DE",
+    "lat": 53.67076,
+    "lng": 13.37032
+  },
+  {
+    "name": "Brunn",
+    "country": "DE",
+    "lat": 49.23632,
+    "lng": 12.19156
+  },
+  {
+    "name": "Brumby",
+    "country": "DE",
+    "lat": 51.89635,
+    "lng": 11.71751
+  },
+  {
+    "name": "Brühl",
+    "country": "DE",
+    "lat": 50.82928,
+    "lng": 6.90499
+  },
+  {
+    "name": "Brühl",
+    "country": "DE",
+    "lat": 49.39722,
+    "lng": 8.53361
+  },
+  {
+    "name": "Brüggen",
+    "country": "DE",
+    "lat": 52.0425,
+    "lng": 9.7745
+  },
+  {
+    "name": "Brüggen",
+    "country": "DE",
+    "lat": 51.24053,
+    "lng": 6.18376
+  },
+  {
+    "name": "Brügge",
+    "country": "DE",
+    "lat": 54.17578,
+    "lng": 10.06913
+  },
+  {
+    "name": "Brüel",
+    "country": "DE",
+    "lat": 53.73705,
+    "lng": 11.71542
+  },
+  {
+    "name": "Bruckmühl",
+    "country": "DE",
+    "lat": 47.87859,
+    "lng": 11.91098
+  },
+  {
+    "name": "Bruck",
+    "country": "DE",
+    "lat": 49.24927,
+    "lng": 12.3071
+  },
+  {
+    "name": "Brücken",
+    "country": "DE",
+    "lat": 49.63333,
+    "lng": 7.11667
+  },
+  {
+    "name": "Brücken",
+    "country": "DE",
+    "lat": 49.43174,
+    "lng": 7.35998
+  },
+  {
+    "name": "Bruckberg",
+    "country": "DE",
+    "lat": 49.35991,
+    "lng": 10.69924
+  },
+  {
+    "name": "Bruckberg",
+    "country": "DE",
+    "lat": 48.52244,
+    "lng": 11.99448
+  },
+  {
+    "name": "Brück",
+    "country": "DE",
+    "lat": 52.19766,
+    "lng": 12.76868
+  },
+  {
+    "name": "Bruck",
+    "country": "DE",
+    "lat": 48.02116,
+    "lng": 11.90781
+  },
+  {
+    "name": "Bruchweiler-Bärenbach",
+    "country": "DE",
+    "lat": 49.11667,
+    "lng": 7.8
+  },
+  {
+    "name": "Bruchsal",
+    "country": "DE",
+    "lat": 49.12426,
+    "lng": 8.59804
+  },
+  {
+    "name": "Bruchköbel",
+    "country": "DE",
+    "lat": 50.17853,
+    "lng": 8.92315
+  },
+  {
+    "name": "Bruchhausen-Vilsen",
+    "country": "DE",
+    "lat": 52.82931,
+    "lng": 8.99066
+  },
+  {
+    "name": "Brotterode",
+    "country": "DE",
+    "lat": 50.82412,
+    "lng": 10.44446
+  },
+  {
+    "name": "Bromskirchen",
+    "country": "DE",
+    "lat": 51.09363,
+    "lng": 8.6264
+  },
+  {
+    "name": "Brome",
+    "country": "DE",
+    "lat": 52.60019,
+    "lng": 10.93754
+  },
+  {
+    "name": "Brokstedt",
+    "country": "DE",
+    "lat": 53.99077,
+    "lng": 9.82129
+  },
+  {
+    "name": "Brokdorf",
+    "country": "DE",
+    "lat": 53.8638,
+    "lng": 9.32314
+  },
+  {
+    "name": "Broitzem",
+    "country": "DE",
+    "lat": 52.23463,
+    "lng": 10.47718
+  },
+  {
+    "name": "Broderstorf",
+    "country": "DE",
+    "lat": 54.08114,
+    "lng": 12.2635
+  },
+  {
+    "name": "Brockum",
+    "country": "DE",
+    "lat": 52.46667,
+    "lng": 8.41667
+  },
+  {
+    "name": "Brockel",
+    "country": "DE",
+    "lat": 53.1,
+    "lng": 9.51667
+  },
+  {
+    "name": "Britz",
+    "country": "DE",
+    "lat": 52.44293,
+    "lng": 13.43388
+  },
+  {
+    "name": "Britz",
+    "country": "DE",
+    "lat": 52.88726,
+    "lng": 13.81119
+  },
+  {
+    "name": "Britten",
+    "country": "DE",
+    "lat": 49.52061,
+    "lng": 6.67651
+  },
+  {
+    "name": "Brilon",
+    "country": "DE",
+    "lat": 51.39462,
+    "lng": 8.57146
+  },
+  {
+    "name": "Brietlingen",
+    "country": "DE",
+    "lat": 53.33333,
+    "lng": 10.45
+  },
+  {
+    "name": "Brieskow-Finkenheerd",
+    "country": "DE",
+    "lat": 52.25387,
+    "lng": 14.57285
+  },
+  {
+    "name": "Briesen",
+    "country": "DE",
+    "lat": 52.34383,
+    "lng": 14.27804
+  },
+  {
+    "name": "Brieselang",
+    "country": "DE",
+    "lat": 52.58333,
+    "lng": 13.0
+  },
+  {
+    "name": "Briedel",
+    "country": "DE",
+    "lat": 50.01667,
+    "lng": 7.15
+  },
+  {
+    "name": "Brey",
+    "country": "DE",
+    "lat": 50.27253,
+    "lng": 7.62645
+  },
+  {
+    "name": "Breuna",
+    "country": "DE",
+    "lat": 51.41575,
+    "lng": 9.185
+  },
+  {
+    "name": "Bretzfeld",
+    "country": "DE",
+    "lat": 49.17944,
+    "lng": 9.43833
+  },
+  {
+    "name": "Bretzenheim",
+    "country": "DE",
+    "lat": 49.87796,
+    "lng": 7.89653
+  },
+  {
+    "name": "Bretten",
+    "country": "DE",
+    "lat": 49.03685,
+    "lng": 8.70745
+  },
+  {
+    "name": "Brensbach",
+    "country": "DE",
+    "lat": 49.77389,
+    "lng": 8.88444
+  },
+  {
+    "name": "Brennberg",
+    "country": "DE",
+    "lat": 49.06667,
+    "lng": 12.4
+  },
+  {
+    "name": "Bremervörde",
+    "country": "DE",
+    "lat": 53.48513,
+    "lng": 9.14644
+  },
+  {
+    "name": "Bremerhaven",
+    "country": "DE",
+    "lat": 53.55357,
+    "lng": 8.57553
+  },
+  {
+    "name": "Bremen",
+    "country": "DE",
+    "lat": 53.07582,
+    "lng": 8.80717
+  },
+  {
+    "name": "Breklum",
+    "country": "DE",
+    "lat": 54.6,
+    "lng": 8.98333
+  },
+  {
+    "name": "Brekendorf",
+    "country": "DE",
+    "lat": 54.4212,
+    "lng": 9.6335
+  },
+  {
+    "name": "Breitungen",
+    "country": "DE",
+    "lat": 50.76355,
+    "lng": 10.32724
+  },
+  {
+    "name": "Breitscheidt",
+    "country": "DE",
+    "lat": 50.75,
+    "lng": 7.65
+  },
+  {
+    "name": "Breitscheid",
+    "country": "DE",
+    "lat": 50.68507,
+    "lng": 8.1912
+  },
+  {
+    "name": "Breitnau",
+    "country": "DE",
+    "lat": 47.93333,
+    "lng": 8.08333
+  },
+  {
+    "name": "Breitenworbis",
+    "country": "DE",
+    "lat": 51.41267,
+    "lng": 10.4282
+  },
+  {
+    "name": "Breitenthal",
+    "country": "DE",
+    "lat": 48.23782,
+    "lng": 10.29951
+  },
+  {
+    "name": "Breitengüßbach",
+    "country": "DE",
+    "lat": 49.97209,
+    "lng": 10.88591
+  },
+  {
+    "name": "Breitenfelde",
+    "country": "DE",
+    "lat": 53.60592,
+    "lng": 10.63339
+  },
+  {
+    "name": "Breitenfeld",
+    "country": "DE",
+    "lat": 51.40354,
+    "lng": 12.34177
+  },
+  {
+    "name": "Breitenburg",
+    "country": "DE",
+    "lat": 53.90572,
+    "lng": 9.57041
+  },
+  {
+    "name": "Breitenbrunn",
+    "country": "DE",
+    "lat": 50.47553,
+    "lng": 12.76649
+  },
+  {
+    "name": "Breitenbrunn",
+    "country": "DE",
+    "lat": 49.36388,
+    "lng": 12.02013
+  },
+  {
+    "name": "Breitenbrunn",
+    "country": "DE",
+    "lat": 48.13333,
+    "lng": 10.4
+  },
+  {
+    "name": "Breitenborn",
+    "country": "DE",
+    "lat": 50.26282,
+    "lng": 9.18703
+  },
+  {
+    "name": "Breitenberg",
+    "country": "DE",
+    "lat": 48.70439,
+    "lng": 13.79333
+  },
+  {
+    "name": "Breitenbach",
+    "country": "DE",
+    "lat": 50.95655,
+    "lng": 9.78285
+  },
+  {
+    "name": "Breitenbach",
+    "country": "DE",
+    "lat": 50.68895,
+    "lng": 10.49148
+  },
+  {
+    "name": "Breitbrunn",
+    "country": "DE",
+    "lat": 50.01667,
+    "lng": 10.7
+  },
+  {
+    "name": "Breitbrunn",
+    "country": "DE",
+    "lat": 48.0432,
+    "lng": 12.15431
+  },
+  {
+    "name": "Breisach am Rhein",
+    "country": "DE",
+    "lat": 48.03279,
+    "lng": 7.58294
+  },
+  {
+    "name": "Breiholz",
+    "country": "DE",
+    "lat": 54.20554,
+    "lng": 9.52371
+  },
+  {
+    "name": "Breidenbach",
+    "country": "DE",
+    "lat": 50.88734,
+    "lng": 8.45748
+  },
+  {
+    "name": "Brehna",
+    "country": "DE",
+    "lat": 51.5579,
+    "lng": 12.21276
+  },
+  {
+    "name": "Brehme",
+    "country": "DE",
+    "lat": 51.49421,
+    "lng": 10.35908
+  },
+  {
+    "name": "Breese",
+    "country": "DE",
+    "lat": 53.0,
+    "lng": 11.8
+  },
+  {
+    "name": "Bredstedt",
+    "country": "DE",
+    "lat": 54.61868,
+    "lng": 8.96441
+  },
+  {
+    "name": "Bredenbek",
+    "country": "DE",
+    "lat": 54.32247,
+    "lng": 9.87293
+  },
+  {
+    "name": "Breddorf",
+    "country": "DE",
+    "lat": 53.29262,
+    "lng": 9.08089
+  },
+  {
+    "name": "Breddin",
+    "country": "DE",
+    "lat": 52.8856,
+    "lng": 12.22366
+  },
+  {
+    "name": "Breckerfeld",
+    "country": "DE",
+    "lat": 51.25926,
+    "lng": 7.46807
+  },
+  {
+    "name": "Braunschweig",
+    "country": "DE",
+    "lat": 52.26594,
+    "lng": 10.52673
+  },
+  {
+    "name": "Braunsbedra",
+    "country": "DE",
+    "lat": 51.28602,
+    "lng": 11.88987
+  },
+  {
+    "name": "Braunsbach",
+    "country": "DE",
+    "lat": 49.19917,
+    "lng": 9.79056
+  },
+  {
+    "name": "Bräunlingen",
+    "country": "DE",
+    "lat": 47.92957,
+    "lng": 8.44806
+  },
+  {
+    "name": "Braunlage",
+    "country": "DE",
+    "lat": 51.72651,
+    "lng": 10.6109
+  },
+  {
+    "name": "Braunfels",
+    "country": "DE",
+    "lat": 50.51545,
+    "lng": 8.38918
+  },
+  {
+    "name": "Brauneberg",
+    "country": "DE",
+    "lat": 49.90583,
+    "lng": 6.98127
+  },
+  {
+    "name": "Braubach",
+    "country": "DE",
+    "lat": 50.2736,
+    "lng": 7.64508
+  },
+  {
+    "name": "Braschwitz",
+    "country": "DE",
+    "lat": 51.52284,
+    "lng": 12.05867
+  },
+  {
+    "name": "Brannenburg",
+    "country": "DE",
+    "lat": 47.73996,
+    "lng": 12.09166
+  },
+  {
+    "name": "Brandshagen",
+    "country": "DE",
+    "lat": 54.23945,
+    "lng": 13.16917
+  },
+  {
+    "name": "Brandis",
+    "country": "DE",
+    "lat": 51.33597,
+    "lng": 12.61024
+  },
+  {
+    "name": "Brand-Erbisdorf",
+    "country": "DE",
+    "lat": 50.86643,
+    "lng": 13.32285
+  },
+  {
+    "name": "Brandenburg an der Havel",
+    "country": "DE",
+    "lat": 52.41667,
+    "lng": 12.55
+  },
+  {
+    "name": "Brande-Hörnerkirchen",
+    "country": "DE",
+    "lat": 53.85,
+    "lng": 9.71667
+  },
+  {
+    "name": "Brand",
+    "country": "DE",
+    "lat": 49.95972,
+    "lng": 11.91072
+  },
+  {
+    "name": "Bramstedt",
+    "country": "DE",
+    "lat": 53.36603,
+    "lng": 8.69005
+  },
+  {
+    "name": "Bramsche",
+    "country": "DE",
+    "lat": 52.40881,
+    "lng": 7.97288
+  },
+  {
+    "name": "Brakel",
+    "country": "DE",
+    "lat": 51.7175,
+    "lng": 9.18596
+  },
+  {
+    "name": "Brake (Unterweser)",
+    "country": "DE",
+    "lat": 53.33333,
+    "lng": 8.48333
+  },
+  {
+    "name": "Brahmenau",
+    "country": "DE",
+    "lat": 50.92359,
+    "lng": 12.15886
+  },
+  {
+    "name": "Brackenheim",
+    "country": "DE",
+    "lat": 49.07787,
+    "lng": 9.06601
+  },
+  {
+    "name": "Brackel",
+    "country": "DE",
+    "lat": 53.29974,
+    "lng": 10.0486
+  },
+  {
+    "name": "Brachbach",
+    "country": "DE",
+    "lat": 50.81667,
+    "lng": 7.93333
+  },
+  {
+    "name": "Bruchmühlbach-Miesau",
+    "country": "DE",
+    "lat": 49.38333,
+    "lng": 7.43333
+  },
+  {
+    "name": "Bruttig-Fankel",
+    "country": "DE",
+    "lat": 50.13333,
+    "lng": 7.23333
+  },
+  {
+    "name": "Brohl-Lützing",
+    "country": "DE",
+    "lat": 50.48296,
+    "lng": 7.32908
+  },
+  {
+    "name": "Brachenfeld-Ruthenberg",
+    "country": "DE",
+    "lat": 54.07154,
+    "lng": 10.0092
+  },
+  {
+    "name": "Brovst",
+    "country": "DK",
+    "lat": 57.0975,
+    "lng": 9.52264
+  },
+  {
+    "name": "Brørup",
+    "country": "DK",
+    "lat": 55.48194,
+    "lng": 9.01756
+  },
+  {
+    "name": "Brønderslev",
+    "country": "DK",
+    "lat": 57.27021,
+    "lng": 9.94102
+  },
+  {
+    "name": "Brøndbyvester",
+    "country": "DK",
+    "lat": 55.6455,
+    "lng": 12.41008
+  },
+  {
+    "name": "Brøndby Strand",
+    "country": "DK",
+    "lat": 55.61782,
+    "lng": 12.42219
+  },
+  {
+    "name": "Broager",
+    "country": "DK",
+    "lat": 54.8894,
+    "lng": 9.67465
+  },
+  {
+    "name": "Brenderup",
+    "country": "DK",
+    "lat": 55.48407,
+    "lng": 9.97908
+  },
+  {
+    "name": "Brejning",
+    "country": "DK",
+    "lat": 55.66594,
+    "lng": 9.67217
+  },
+  {
+    "name": "Bredsten",
+    "country": "DK",
+    "lat": 55.70129,
+    "lng": 9.385
+  },
+  {
+    "name": "Bredebro",
+    "country": "DK",
+    "lat": 55.05483,
+    "lng": 8.82932
+  },
+  {
+    "name": "Brædstrup",
+    "country": "DK",
+    "lat": 55.97153,
+    "lng": 9.61129
+  },
+  {
+    "name": "Brande",
+    "country": "DK",
+    "lat": 55.94316,
+    "lng": 9.12798
+  },
+  {
+    "name": "Bramming",
+    "country": "DK",
+    "lat": 55.46946,
+    "lng": 8.70007
+  },
+  {
+    "name": "Brezina",
+    "country": "DZ",
+    "lat": 33.09892,
+    "lng": 1.26082
+  },
+  {
+    "name": "Brozas",
+    "country": "ES",
+    "lat": 39.61278,
+    "lng": -6.7777
+  },
+  {
+    "name": "Brenes",
+    "country": "ES",
+    "lat": 37.54944,
+    "lng": -5.87139
+  },
+  {
+    "name": "Breña Baja",
+    "country": "ES",
+    "lat": 28.63011,
+    "lng": -17.78953
+  },
+  {
+    "name": "Breña Alta",
+    "country": "ES",
+    "lat": 28.65,
+    "lng": -17.78333
+  },
+  {
+    "name": "Brazatortas",
+    "country": "ES",
+    "lat": 38.65869,
+    "lng": -4.29368
+  },
+  {
+    "name": "Brunyola",
+    "country": "ES",
+    "lat": 41.9,
+    "lng": 2.68333
+  },
+  {
+    "name": "Brunete",
+    "country": "ES",
+    "lat": 40.40532,
+    "lng": -3.9985
+  },
+  {
+    "name": "Broto",
+    "country": "ES",
+    "lat": 42.60434,
+    "lng": -0.12351
+  },
+  {
+    "name": "Bronchales",
+    "country": "ES",
+    "lat": 40.51171,
+    "lng": -1.58821
+  },
+  {
+    "name": "Briviesca",
+    "country": "ES",
+    "lat": 42.54993,
+    "lng": -3.32315
+  },
+  {
+    "name": "Briones",
+    "country": "ES",
+    "lat": 42.54397,
+    "lng": -2.78572
+  },
+  {
+    "name": "Brincones",
+    "country": "ES",
+    "lat": 41.11339,
+    "lng": -6.34865
+  },
+  {
+    "name": "Briñas",
+    "country": "ES",
+    "lat": 42.60106,
+    "lng": -2.83192
+  },
+  {
+    "name": "Brime de Urz",
+    "country": "ES",
+    "lat": 42.03794,
+    "lng": -5.87326
+  },
+  {
+    "name": "Brime de Sog",
+    "country": "ES",
+    "lat": 42.06162,
+    "lng": -6.04791
+  },
+  {
+    "name": "Brihuega",
+    "country": "ES",
+    "lat": 40.76049,
+    "lng": -2.86966
+  },
+  {
+    "name": "Brieva de Cameros",
+    "country": "ES",
+    "lat": 42.16462,
+    "lng": -2.7945
+  },
+  {
+    "name": "Brieva",
+    "country": "ES",
+    "lat": 41.03483,
+    "lng": -4.05364
+  },
+  {
+    "name": "Bretocino",
+    "country": "ES",
+    "lat": 41.8843,
+    "lng": -5.75473
+  },
+  {
+    "name": "Bretó",
+    "country": "ES",
+    "lat": 41.87917,
+    "lng": -5.73902
+  },
+  {
+    "name": "Breda",
+    "country": "ES",
+    "lat": 41.74833,
+    "lng": 2.55964
+  },
+  {
+    "name": "Brea de Tajo",
+    "country": "ES",
+    "lat": 40.23333,
+    "lng": -3.1
+  },
+  {
+    "name": "Brea de Aragón",
+    "country": "ES",
+    "lat": 41.52387,
+    "lng": -1.60261
+  },
+  {
+    "name": "Brazuelo",
+    "country": "ES",
+    "lat": 42.49702,
+    "lng": -6.15734
+  },
+  {
+    "name": "Brazacorta",
+    "country": "ES",
+    "lat": 41.71737,
+    "lng": -3.36711
+  },
+  {
+    "name": "Braojos",
+    "country": "ES",
+    "lat": 41.0404,
+    "lng": -3.64329
+  },
+  {
+    "name": "Brañosera",
+    "country": "ES",
+    "lat": 42.9362,
+    "lng": -4.30833
+  },
+  {
+    "name": "Brabos",
+    "country": "ES",
+    "lat": 40.77846,
+    "lng": -4.93934
+  },
+  {
+    "name": "Broby",
+    "country": "FI",
+    "lat": 60.5,
+    "lng": 26.71667
+  },
+  {
+    "name": "Bry-sur-Marne",
+    "country": "FR",
+    "lat": 48.83811,
+    "lng": 2.52488
+  },
+  {
+    "name": "Bruz",
+    "country": "FR",
+    "lat": 48.02459,
+    "lng": -1.74709
+  },
+  {
+    "name": "Bruyères-sur-Oise",
+    "country": "FR",
+    "lat": 49.15756,
+    "lng": 2.32577
+  },
+  {
+    "name": "Bruyères-le-Châtel",
+    "country": "FR",
+    "lat": 48.58868,
+    "lng": 2.18991
+  },
+  {
+    "name": "Bruyères-et-Montbérault",
+    "country": "FR",
+    "lat": 49.52535,
+    "lng": 3.66369
+  },
+  {
+    "name": "Bruyères",
+    "country": "FR",
+    "lat": 48.20709,
+    "lng": 6.71845
+  },
+  {
+    "name": "Brunstatt",
+    "country": "FR",
+    "lat": 47.72131,
+    "lng": 7.32009
+  },
+  {
+    "name": "Brunoy",
+    "country": "FR",
+    "lat": 48.6942,
+    "lng": 2.49223
+  },
+  {
+    "name": "Brumath",
+    "country": "FR",
+    "lat": 48.73398,
+    "lng": 7.71095
+  },
+  {
+    "name": "Brûlon",
+    "country": "FR",
+    "lat": 47.9686,
+    "lng": -0.23484
+  },
+  {
+    "name": "Bruille-Saint-Amand",
+    "country": "FR",
+    "lat": 50.46605,
+    "lng": 3.50013
+  },
+  {
+    "name": "Bruille-lez-Marchiennes",
+    "country": "FR",
+    "lat": 50.36068,
+    "lng": 3.24424
+  },
+  {
+    "name": "Bruguières",
+    "country": "FR",
+    "lat": 43.7272,
+    "lng": 1.40762
+  },
+  {
+    "name": "Brugheas",
+    "country": "FR",
+    "lat": 46.07676,
+    "lng": 3.3678
+  },
+  {
+    "name": "Bruges",
+    "country": "FR",
+    "lat": 44.88287,
+    "lng": -0.61222
+  },
+  {
+    "name": "Bruay-sur-l'Escaut",
+    "country": "FR",
+    "lat": 50.39918,
+    "lng": 3.54379
+  },
+  {
+    "name": "Bruay-la-Buissière",
+    "country": "FR",
+    "lat": 50.48333,
+    "lng": 2.55
+  },
+  {
+    "name": "Broût-Vernet",
+    "country": "FR",
+    "lat": 46.18756,
+    "lng": 3.27324
+  },
+  {
+    "name": "Brou-sur-Chantereine",
+    "country": "FR",
+    "lat": 48.88333,
+    "lng": 2.63333
+  },
+  {
+    "name": "Brouckerque",
+    "country": "FR",
+    "lat": 50.95476,
+    "lng": 2.29378
+  },
+  {
+    "name": "Brou",
+    "country": "FR",
+    "lat": 48.21719,
+    "lng": 1.16539
+  },
+  {
+    "name": "Broons",
+    "country": "FR",
+    "lat": 48.31721,
+    "lng": -2.26054
+  },
+  {
+    "name": "Bron",
+    "country": "FR",
+    "lat": 45.73865,
+    "lng": 4.91303
+  },
+  {
+    "name": "Broglie",
+    "country": "FR",
+    "lat": 49.00911,
+    "lng": 0.52915
+  },
+  {
+    "name": "Brix",
+    "country": "FR",
+    "lat": 49.54512,
+    "lng": -1.58012
+  },
+  {
+    "name": "Brives-Charensac",
+    "country": "FR",
+    "lat": 45.0478,
+    "lng": 3.92878
+  },
+  {
+    "name": "Brive-la-Gaillarde",
+    "country": "FR",
+    "lat": 45.1589,
+    "lng": 1.53326
+  },
+  {
+    "name": "Brissac-Quincé",
+    "country": "FR",
+    "lat": 47.35575,
+    "lng": -0.44924
+  },
+  {
+    "name": "Brison-Saint-Innocent",
+    "country": "FR",
+    "lat": 45.7244,
+    "lng": 5.88895
+  },
+  {
+    "name": "Briscous",
+    "country": "FR",
+    "lat": 43.46028,
+    "lng": -1.33394
+  },
+  {
+    "name": "Briouze",
+    "country": "FR",
+    "lat": 48.69848,
+    "lng": -0.36806
+  },
+  {
+    "name": "Brioux-sur-Boutonne",
+    "country": "FR",
+    "lat": 46.14206,
+    "lng": -0.22259
+  },
+  {
+    "name": "Brioude",
+    "country": "FR",
+    "lat": 45.29419,
+    "lng": 3.38423
+  },
+  {
+    "name": "Brionne",
+    "country": "FR",
+    "lat": 49.19553,
+    "lng": 0.7151
+  },
+  {
+    "name": "Brion",
+    "country": "FR",
+    "lat": 47.44121,
+    "lng": -0.15616
+  },
+  {
+    "name": "Briollay",
+    "country": "FR",
+    "lat": 47.56446,
+    "lng": -0.50805
+  },
+  {
+    "name": "Brinon-sur-Sauldre",
+    "country": "FR",
+    "lat": 47.566,
+    "lng": 2.25647
+  },
+  {
+    "name": "Brindas",
+    "country": "FR",
+    "lat": 45.72111,
+    "lng": 4.69349
+  },
+  {
+    "name": "Briis-sous-Forges",
+    "country": "FR",
+    "lat": 48.62399,
+    "lng": 2.12112
+  },
+  {
+    "name": "Brigueuil",
+    "country": "FR",
+    "lat": 45.95342,
+    "lng": 0.86032
+  },
+  {
+    "name": "Brignoles",
+    "country": "FR",
+    "lat": 43.4058,
+    "lng": 6.06172
+  },
+  {
+    "name": "Brignais",
+    "country": "FR",
+    "lat": 45.67383,
+    "lng": 4.75418
+  },
+  {
+    "name": "Briey",
+    "country": "FR",
+    "lat": 49.2492,
+    "lng": 5.93975
+  },
+  {
+    "name": "Brienon-sur-Armançon",
+    "country": "FR",
+    "lat": 47.99009,
+    "lng": 3.61628
+  },
+  {
+    "name": "Briennon",
+    "country": "FR",
+    "lat": 46.15127,
+    "lng": 4.0769
+  },
+  {
+    "name": "Brienne-le-Château",
+    "country": "FR",
+    "lat": 48.39319,
+    "lng": 4.52637
+  },
+  {
+    "name": "Brié-et-Angonnes",
+    "country": "FR",
+    "lat": 45.12418,
+    "lng": 5.78374
+  },
+  {
+    "name": "Brie-Comte-Robert",
+    "country": "FR",
+    "lat": 48.69247,
+    "lng": 2.6109
+  },
+  {
+    "name": "Briec",
+    "country": "FR",
+    "lat": 48.10184,
+    "lng": -3.99915
+  },
+  {
+    "name": "Brie",
+    "country": "FR",
+    "lat": 45.73812,
+    "lng": 0.24077
+  },
+  {
+    "name": "Bricy",
+    "country": "FR",
+    "lat": 47.99847,
+    "lng": 1.77937
+  },
+  {
+    "name": "Bricquebec",
+    "country": "FR",
+    "lat": 49.47008,
+    "lng": -1.63254
+  },
+  {
+    "name": "Briatexte",
+    "country": "FR",
+    "lat": 43.75237,
+    "lng": 1.90879
+  },
+  {
+    "name": "Briare",
+    "country": "FR",
+    "lat": 47.63343,
+    "lng": 2.7438
+  },
+  {
+    "name": "Briançon",
+    "country": "FR",
+    "lat": 44.89978,
+    "lng": 6.64201
+  },
+  {
+    "name": "Brezolles",
+    "country": "FR",
+    "lat": 48.69033,
+    "lng": 1.07404
+  },
+  {
+    "name": "Brézins",
+    "country": "FR",
+    "lat": 45.35213,
+    "lng": 5.30539
+  },
+  {
+    "name": "Brézé",
+    "country": "FR",
+    "lat": 47.17266,
+    "lng": -0.06132
+  },
+  {
+    "name": "Bréviandes",
+    "country": "FR",
+    "lat": 48.25693,
+    "lng": 4.09531
+  },
+  {
+    "name": "Bréval",
+    "country": "FR",
+    "lat": 48.94545,
+    "lng": 1.53309
+  },
+  {
+    "name": "Breuschwickersheim",
+    "country": "FR",
+    "lat": 48.58007,
+    "lng": 7.60159
+  },
+  {
+    "name": "Breuilpont",
+    "country": "FR",
+    "lat": 48.96398,
+    "lng": 1.42919
+  },
+  {
+    "name": "Breuil-Magné",
+    "country": "FR",
+    "lat": 45.98387,
+    "lng": -0.95885
+  },
+  {
+    "name": "Breuil-le-Vert",
+    "country": "FR",
+    "lat": 49.36176,
+    "lng": 2.43633
+  },
+  {
+    "name": "Breuillet",
+    "country": "FR",
+    "lat": 48.57064,
+    "lng": 2.17424
+  },
+  {
+    "name": "Breuillet",
+    "country": "FR",
+    "lat": 45.69155,
+    "lng": -1.0548
+  },
+  {
+    "name": "Breuil-le-Sec",
+    "country": "FR",
+    "lat": 49.37135,
+    "lng": 2.45084
+  },
+  {
+    "name": "Bretteville-sur-Odon",
+    "country": "FR",
+    "lat": 49.16627,
+    "lng": -0.41662
+  },
+  {
+    "name": "Bretteville-sur-Laize",
+    "country": "FR",
+    "lat": 49.04466,
+    "lng": -0.32639
+  },
+  {
+    "name": "Bretteville-l'Orgueilleuse",
+    "country": "FR",
+    "lat": 49.21189,
+    "lng": -0.51428
+  },
+  {
+    "name": "Bretteville-du-Grand-Caux",
+    "country": "FR",
+    "lat": 49.66667,
+    "lng": 0.4
+  },
+  {
+    "name": "Bretteville",
+    "country": "FR",
+    "lat": 49.6544,
+    "lng": -1.52884
+  },
+  {
+    "name": "Brette-les-Pins",
+    "country": "FR",
+    "lat": 47.91158,
+    "lng": 0.33637
+  },
+  {
+    "name": "Bretoncelles",
+    "country": "FR",
+    "lat": 48.43122,
+    "lng": 0.88775
+  },
+  {
+    "name": "Brétigny-sur-Orge",
+    "country": "FR",
+    "lat": 48.61135,
+    "lng": 2.30593
+  },
+  {
+    "name": "Bretignolles-sur-Mer",
+    "country": "FR",
+    "lat": 46.62774,
+    "lng": -1.85675
+  },
+  {
+    "name": "Breteuil",
+    "country": "FR",
+    "lat": 48.83333,
+    "lng": 0.91667
+  },
+  {
+    "name": "Breteuil",
+    "country": "FR",
+    "lat": 49.63357,
+    "lng": 2.29509
+  },
+  {
+    "name": "Bretenoux",
+    "country": "FR",
+    "lat": 44.91513,
+    "lng": 1.83814
+  },
+  {
+    "name": "Breteil",
+    "country": "FR",
+    "lat": 48.1452,
+    "lng": -1.89864
+  },
+  {
+    "name": "Brest",
+    "country": "FR",
+    "lat": 48.39029,
+    "lng": -4.48628
+  },
+  {
+    "name": "Bressuire",
+    "country": "FR",
+    "lat": 46.84158,
+    "lng": -0.49042
+  },
+  {
+    "name": "Bressols",
+    "country": "FR",
+    "lat": 43.96807,
+    "lng": 1.33753
+  },
+  {
+    "name": "Bresles",
+    "country": "FR",
+    "lat": 49.41044,
+    "lng": 2.25024
+  },
+  {
+    "name": "Brens",
+    "country": "FR",
+    "lat": 43.88725,
+    "lng": 1.90716
+  },
+  {
+    "name": "Brenouille",
+    "country": "FR",
+    "lat": 49.30551,
+    "lng": 2.54437
+  },
+  {
+    "name": "Brêmes",
+    "country": "FR",
+    "lat": 50.85483,
+    "lng": 1.97687
+  },
+  {
+    "name": "Breil-sur-Roya",
+    "country": "FR",
+    "lat": 43.93755,
+    "lng": 7.51472
+  },
+  {
+    "name": "Bréhand",
+    "country": "FR",
+    "lat": 48.40257,
+    "lng": -2.57375
+  },
+  {
+    "name": "Bréhal",
+    "country": "FR",
+    "lat": 48.89915,
+    "lng": -1.51225
+  },
+  {
+    "name": "Brech",
+    "country": "FR",
+    "lat": 47.72075,
+    "lng": -2.99708
+  },
+  {
+    "name": "Brécey",
+    "country": "FR",
+    "lat": 48.72413,
+    "lng": -1.16647
+  },
+  {
+    "name": "Brécé",
+    "country": "FR",
+    "lat": 48.10904,
+    "lng": -1.48308
+  },
+  {
+    "name": "Brebières",
+    "country": "FR",
+    "lat": 50.33333,
+    "lng": 3.01667
+  },
+  {
+    "name": "Bréauté",
+    "country": "FR",
+    "lat": 49.62805,
+    "lng": 0.40005
+  },
+  {
+    "name": "Bréal-sous-Montfort",
+    "country": "FR",
+    "lat": 48.04798,
+    "lng": -1.86716
+  },
+  {
+    "name": "Brazey-en-Plaine",
+    "country": "FR",
+    "lat": 47.13784,
+    "lng": 5.21538
+  },
+  {
+    "name": "Bray-sur-Somme",
+    "country": "FR",
+    "lat": 49.94085,
+    "lng": 2.71847
+  },
+  {
+    "name": "Bray-sur-Seine",
+    "country": "FR",
+    "lat": 48.41371,
+    "lng": 3.23852
+  },
+  {
+    "name": "Bray-en-Val",
+    "country": "FR",
+    "lat": 47.82856,
+    "lng": 2.36644
+  },
+  {
+    "name": "Bray-Dunes",
+    "country": "FR",
+    "lat": 51.07786,
+    "lng": 2.51673
+  },
+  {
+    "name": "Brax",
+    "country": "FR",
+    "lat": 44.20282,
+    "lng": 0.5513
+  },
+  {
+    "name": "Brax",
+    "country": "FR",
+    "lat": 43.61793,
+    "lng": 1.23957
+  },
+  {
+    "name": "Braud-et-Saint-Louis",
+    "country": "FR",
+    "lat": 45.24781,
+    "lng": -0.62576
+  },
+  {
+    "name": "Brassac-les-Mines",
+    "country": "FR",
+    "lat": 45.41407,
+    "lng": 3.329
+  },
+  {
+    "name": "Brassac",
+    "country": "FR",
+    "lat": 43.63,
+    "lng": 2.4984
+  },
+  {
+    "name": "Brasparts",
+    "country": "FR",
+    "lat": 48.30129,
+    "lng": -3.95546
+  },
+  {
+    "name": "Brasles",
+    "country": "FR",
+    "lat": 49.0481,
+    "lng": 3.43
+  },
+  {
+    "name": "Bras",
+    "country": "FR",
+    "lat": 43.47163,
+    "lng": 5.95486
+  },
+  {
+    "name": "Brantôme",
+    "country": "FR",
+    "lat": 45.36409,
+    "lng": 0.64927
+  },
+  {
+    "name": "Branoux-les-Taillades",
+    "country": "FR",
+    "lat": 44.22056,
+    "lng": 3.99019
+  },
+  {
+    "name": "Branne",
+    "country": "FR",
+    "lat": 44.83053,
+    "lng": -0.18663
+  },
+  {
+    "name": "Branges",
+    "country": "FR",
+    "lat": 46.64441,
+    "lng": 5.18465
+  },
+  {
+    "name": "Brando",
+    "country": "FR",
+    "lat": 42.76667,
+    "lng": 9.45
+  },
+  {
+    "name": "Brandérion",
+    "country": "FR",
+    "lat": 47.79384,
+    "lng": -3.19449
+  },
+  {
+    "name": "Bram",
+    "country": "FR",
+    "lat": 43.24376,
+    "lng": 2.11341
+  },
+  {
+    "name": "Brain-sur-Allonnes",
+    "country": "FR",
+    "lat": 47.30263,
+    "lng": 0.06574
+  },
+  {
+    "name": "Brains",
+    "country": "FR",
+    "lat": 47.16915,
+    "lng": -1.72283
+  },
+  {
+    "name": "Braine",
+    "country": "FR",
+    "lat": 49.34261,
+    "lng": 3.53262
+  },
+  {
+    "name": "Bracieux",
+    "country": "FR",
+    "lat": 47.54895,
+    "lng": 1.5412
+  },
+  {
+    "name": "Brynmawr",
+    "country": "GB",
+    "lat": 51.8,
+    "lng": -3.18333
+  },
+  {
+    "name": "Bryneglwys",
+    "country": "GB",
+    "lat": 53.01667,
+    "lng": -3.28333
+  },
+  {
+    "name": "Brynamman",
+    "country": "GB",
+    "lat": 51.8,
+    "lng": -3.86667
+  },
+  {
+    "name": "Bryn",
+    "country": "GB",
+    "lat": 51.61639,
+    "lng": -3.71167
+  },
+  {
+    "name": "Brymbo",
+    "country": "GB",
+    "lat": 53.06667,
+    "lng": -3.06667
+  },
+  {
+    "name": "Bruton",
+    "country": "GB",
+    "lat": 51.1125,
+    "lng": -2.45278
+  },
+  {
+    "name": "Brundall",
+    "country": "GB",
+    "lat": 52.62426,
+    "lng": 1.43509
+  },
+  {
+    "name": "Broxburn",
+    "country": "GB",
+    "lat": 55.93415,
+    "lng": -3.47133
+  },
+  {
+    "name": "Broxbourne",
+    "country": "GB",
+    "lat": 51.74712,
+    "lng": -0.01923
+  },
+  {
+    "name": "Brownhills",
+    "country": "GB",
+    "lat": 52.63333,
+    "lng": -1.93333
+  },
+  {
+    "name": "Broughton Astley",
+    "country": "GB",
+    "lat": 52.52787,
+    "lng": -1.21768
+  },
+  {
+    "name": "Broughton",
+    "country": "GB",
+    "lat": 53.56667,
+    "lng": -0.55
+  },
+  {
+    "name": "Broughton",
+    "country": "GB",
+    "lat": 53.16303,
+    "lng": -2.99309
+  },
+  {
+    "name": "Broughton",
+    "country": "GB",
+    "lat": 52.37331,
+    "lng": -0.77493
+  },
+  {
+    "name": "Broughton",
+    "country": "GB",
+    "lat": 52.05038,
+    "lng": -0.69351
+  },
+  {
+    "name": "Broughshane",
+    "country": "GB",
+    "lat": 54.8926,
+    "lng": -6.20899
+  },
+  {
+    "name": "Brough",
+    "country": "GB",
+    "lat": 53.72861,
+    "lng": -0.57215
+  },
+  {
+    "name": "Brotton",
+    "country": "GB",
+    "lat": 54.56661,
+    "lng": -0.93929
+  },
+  {
+    "name": "Broseley",
+    "country": "GB",
+    "lat": 52.61321,
+    "lng": -2.48269
+  },
+  {
+    "name": "Brora",
+    "country": "GB",
+    "lat": 58.00989,
+    "lng": -3.85182
+  },
+  {
+    "name": "Broomfleet",
+    "country": "GB",
+    "lat": 53.73333,
+    "lng": -0.66667
+  },
+  {
+    "name": "Brooke",
+    "country": "GB",
+    "lat": 52.64317,
+    "lng": -0.74638
+  },
+  {
+    "name": "Brooke",
+    "country": "GB",
+    "lat": 52.54175,
+    "lng": 1.37076
+  },
+  {
+    "name": "Bromyard",
+    "country": "GB",
+    "lat": 52.19019,
+    "lng": -2.50875
+  },
+  {
+    "name": "Bromsgrove",
+    "country": "GB",
+    "lat": 52.33574,
+    "lng": -2.05983
+  },
+  {
+    "name": "Brompton",
+    "country": "GB",
+    "lat": 54.36015,
+    "lng": -1.42422
+  },
+  {
+    "name": "Bromley",
+    "country": "GB",
+    "lat": 51.40606,
+    "lng": 0.01519
+  },
+  {
+    "name": "Bromham",
+    "country": "GB",
+    "lat": 52.14508,
+    "lng": -0.52906
+  },
+  {
+    "name": "Bromfield",
+    "country": "GB",
+    "lat": 52.38333,
+    "lng": -2.76667
+  },
+  {
+    "name": "Bromborough",
+    "country": "GB",
+    "lat": 53.3485,
+    "lng": -2.97935
+  },
+  {
+    "name": "Brockley",
+    "country": "GB",
+    "lat": 51.4,
+    "lng": -2.76667
+  },
+  {
+    "name": "Brockhampton",
+    "country": "GB",
+    "lat": 51.98333,
+    "lng": -2.58333
+  },
+  {
+    "name": "Brockenhurst",
+    "country": "GB",
+    "lat": 50.81936,
+    "lng": -1.57303
+  },
+  {
+    "name": "Broadway",
+    "country": "GB",
+    "lat": 52.03825,
+    "lng": -1.86079
+  },
+  {
+    "name": "Broadwater",
+    "country": "GB",
+    "lat": 50.82887,
+    "lng": -0.37594
+  },
+  {
+    "name": "Broadstone",
+    "country": "GB",
+    "lat": 50.75717,
+    "lng": -1.99406
+  },
+  {
+    "name": "Broadstairs",
+    "country": "GB",
+    "lat": 51.35845,
+    "lng": 1.44185
+  },
+  {
+    "name": "Broad Blunsdon",
+    "country": "GB",
+    "lat": 51.61339,
+    "lng": -1.7787
+  },
+  {
+    "name": "Brixworth",
+    "country": "GB",
+    "lat": 52.32912,
+    "lng": -0.9035
+  },
+  {
+    "name": "Brixton",
+    "country": "GB",
+    "lat": 50.35,
+    "lng": -4.03333
+  },
+  {
+    "name": "Brixham",
+    "country": "GB",
+    "lat": 50.39431,
+    "lng": -3.51585
+  },
+  {
+    "name": "Briton Ferry",
+    "country": "GB",
+    "lat": 51.63106,
+    "lng": -3.81898
+  },
+  {
+    "name": "Briston",
+    "country": "GB",
+    "lat": 52.85369,
+    "lng": 1.05899
+  },
+  {
+    "name": "Bristol",
+    "country": "GB",
+    "lat": 51.45523,
+    "lng": -2.59665
+  },
+  {
+    "name": "Brinscall",
+    "country": "GB",
+    "lat": 53.689,
+    "lng": -2.57208
+  },
+  {
+    "name": "Brinklow",
+    "country": "GB",
+    "lat": 52.41091,
+    "lng": -1.364
+  },
+  {
+    "name": "Brimscombe",
+    "country": "GB",
+    "lat": 51.71973,
+    "lng": -2.18553
+  },
+  {
+    "name": "Brill",
+    "country": "GB",
+    "lat": 51.81667,
+    "lng": -1.05
+  },
+  {
+    "name": "Brigstock",
+    "country": "GB",
+    "lat": 52.45775,
+    "lng": -0.60834
+  },
+  {
+    "name": "Brignall",
+    "country": "GB",
+    "lat": 54.50534,
+    "lng": -1.88896
+  },
+  {
+    "name": "Brighton",
+    "country": "GB",
+    "lat": 50.82838,
+    "lng": -0.13947
+  },
+  {
+    "name": "Brightlingsea",
+    "country": "GB",
+    "lat": 51.81164,
+    "lng": 1.02336
+  },
+  {
+    "name": "Brighstone",
+    "country": "GB",
+    "lat": 50.64263,
+    "lng": -1.39479
+  },
+  {
+    "name": "Brighouse",
+    "country": "GB",
+    "lat": 53.70322,
+    "lng": -1.78428
+  },
+  {
+    "name": "Brigg",
+    "country": "GB",
+    "lat": 53.55201,
+    "lng": -0.49214
+  },
+  {
+    "name": "Brierley Hill",
+    "country": "GB",
+    "lat": 52.48173,
+    "lng": -2.12139
+  },
+  {
+    "name": "Brierfield",
+    "country": "GB",
+    "lat": 53.82468,
+    "lng": -2.23415
+  },
+  {
+    "name": "Bridport",
+    "country": "GB",
+    "lat": 50.7338,
+    "lng": -2.75831
+  },
+  {
+    "name": "Bridlington",
+    "country": "GB",
+    "lat": 54.08306,
+    "lng": -0.19192
+  },
+  {
+    "name": "Bridgwater",
+    "country": "GB",
+    "lat": 51.12837,
+    "lng": -3.00356
+  },
+  {
+    "name": "Bridgnorth",
+    "country": "GB",
+    "lat": 52.53661,
+    "lng": -2.42033
+  },
+  {
+    "name": "Bridge of Weir",
+    "country": "GB",
+    "lat": 55.85582,
+    "lng": -4.57894
+  },
+  {
+    "name": "Bridge of Earn",
+    "country": "GB",
+    "lat": 56.34842,
+    "lng": -3.4065
+  },
+  {
+    "name": "Bridge of Allan",
+    "country": "GB",
+    "lat": 56.15402,
+    "lng": -3.94631
+  },
+  {
+    "name": "Bridgend",
+    "country": "GB",
+    "lat": 51.50583,
+    "lng": -3.57722
+  },
+  {
+    "name": "Bridge",
+    "country": "GB",
+    "lat": 51.24513,
+    "lng": 1.1264
+  },
+  {
+    "name": "Brewood",
+    "country": "GB",
+    "lat": 52.67712,
+    "lng": -2.17414
+  },
+  {
+    "name": "Brentwood",
+    "country": "GB",
+    "lat": 51.62127,
+    "lng": 0.30556
+  },
+  {
+    "name": "Brent Knoll",
+    "country": "GB",
+    "lat": 51.25219,
+    "lng": -2.95744
+  },
+  {
+    "name": "Brentford",
+    "country": "GB",
+    "lat": 51.48619,
+    "lng": -0.3083
+  },
+  {
+    "name": "Brent",
+    "country": "GB",
+    "lat": 51.55306,
+    "lng": -0.3023
+  },
+  {
+    "name": "Brenchley",
+    "country": "GB",
+    "lat": 51.15141,
+    "lng": 0.39825
+  },
+  {
+    "name": "Bremhill",
+    "country": "GB",
+    "lat": 51.45667,
+    "lng": -2.03028
+  },
+  {
+    "name": "Bredon",
+    "country": "GB",
+    "lat": 52.03008,
+    "lng": -2.11671
+  },
+  {
+    "name": "Bredbury",
+    "country": "GB",
+    "lat": 53.41667,
+    "lng": -2.11667
+  },
+  {
+    "name": "Brecon",
+    "country": "GB",
+    "lat": 51.94612,
+    "lng": -3.38887
+  },
+  {
+    "name": "Brechin",
+    "country": "GB",
+    "lat": 56.72993,
+    "lng": -2.65729
+  },
+  {
+    "name": "Bream",
+    "country": "GB",
+    "lat": 51.74822,
+    "lng": -2.57747
+  },
+  {
+    "name": "Brayton",
+    "country": "GB",
+    "lat": 53.7651,
+    "lng": -1.08921
+  },
+  {
+    "name": "Bray",
+    "country": "GB",
+    "lat": 51.5034,
+    "lng": -0.68768
+  },
+  {
+    "name": "Braunton",
+    "country": "GB",
+    "lat": 51.10847,
+    "lng": -4.16131
+  },
+  {
+    "name": "Braunstone",
+    "country": "GB",
+    "lat": 52.61835,
+    "lng": -1.17904
+  },
+  {
+    "name": "Braunston",
+    "country": "GB",
+    "lat": 52.28979,
+    "lng": -1.20266
+  },
+  {
+    "name": "Bratton",
+    "country": "GB",
+    "lat": 51.27056,
+    "lng": -2.12444
+  },
+  {
+    "name": "Brantingham",
+    "country": "GB",
+    "lat": 53.75181,
+    "lng": -0.57704
+  },
+  {
+    "name": "Branston",
+    "country": "GB",
+    "lat": 53.19544,
+    "lng": -0.47482
+  },
+  {
+    "name": "Bransgore",
+    "country": "GB",
+    "lat": 50.78153,
+    "lng": -1.73771
+  },
+  {
+    "name": "Brandon",
+    "country": "GB",
+    "lat": 54.75,
+    "lng": -1.61667
+  },
+  {
+    "name": "Brandon",
+    "country": "GB",
+    "lat": 52.38432,
+    "lng": -1.3996
+  },
+  {
+    "name": "Brandesburton",
+    "country": "GB",
+    "lat": 53.9111,
+    "lng": -0.30122
+  },
+  {
+    "name": "Brampton",
+    "country": "GB",
+    "lat": 54.95,
+    "lng": -2.73333
+  },
+  {
+    "name": "Brampton",
+    "country": "GB",
+    "lat": 52.32039,
+    "lng": -0.22007
+  },
+  {
+    "name": "Bramley",
+    "country": "GB",
+    "lat": 53.41667,
+    "lng": -1.26667
+  },
+  {
+    "name": "Bramley",
+    "country": "GB",
+    "lat": 51.32677,
+    "lng": -1.05938
+  },
+  {
+    "name": "Bramley",
+    "country": "GB",
+    "lat": 51.19451,
+    "lng": -0.55927
+  },
+  {
+    "name": "Bramhope",
+    "country": "GB",
+    "lat": 53.88489,
+    "lng": -1.61641
+  },
+  {
+    "name": "Bramham",
+    "country": "GB",
+    "lat": 53.88118,
+    "lng": -1.35452
+  },
+  {
+    "name": "Bramhall",
+    "country": "GB",
+    "lat": 53.35801,
+    "lng": -2.16539
+  },
+  {
+    "name": "Bramford",
+    "country": "GB",
+    "lat": 52.07631,
+    "lng": 1.09687
+  },
+  {
+    "name": "Braintree",
+    "country": "GB",
+    "lat": 51.87819,
+    "lng": 0.55292
+  },
+  {
+    "name": "Bradwell",
+    "country": "GB",
+    "lat": 52.04857,
+    "lng": -0.78771
+  },
+  {
+    "name": "Bradninch",
+    "country": "GB",
+    "lat": 50.82491,
+    "lng": -3.42465
+  },
+  {
+    "name": "Bradley",
+    "country": "GB",
+    "lat": 53.55,
+    "lng": -0.13333
+  },
+  {
+    "name": "Brading",
+    "country": "GB",
+    "lat": 50.6799,
+    "lng": -1.14571
+  },
+  {
+    "name": "Bradford-on-Avon",
+    "country": "GB",
+    "lat": 51.34772,
+    "lng": -2.25065
+  },
+  {
+    "name": "Bradford",
+    "country": "GB",
+    "lat": 53.79391,
+    "lng": -1.75206
+  },
+  {
+    "name": "Bradfield",
+    "country": "GB",
+    "lat": 53.41667,
+    "lng": -1.6
+  },
+  {
+    "name": "Bradfield",
+    "country": "GB",
+    "lat": 51.44914,
+    "lng": -1.13082
+  },
+  {
+    "name": "Bracknell",
+    "country": "GB",
+    "lat": 51.41363,
+    "lng": -0.75054
+  },
+  {
+    "name": "Brackley",
+    "country": "GB",
+    "lat": 52.03333,
+    "lng": -1.15
+  },
+  {
+    "name": "Brynna",
+    "country": "GB",
+    "lat": 51.53845,
+    "lng": -3.46378
+  },
+  {
+    "name": "Broadfield",
+    "country": "GB",
+    "lat": 51.09714,
+    "lng": -0.20664
+  },
+  {
+    "name": "Brixton",
+    "country": "GB",
+    "lat": 51.46593,
+    "lng": -0.10652
+  },
+  {
+    "name": "Brixton Hill",
+    "country": "GB",
+    "lat": 51.45213,
+    "lng": -0.123
+  },
+  {
+    "name": "Bracebridge Heath",
+    "country": "GB",
+    "lat": 53.19647,
+    "lng": -0.53421
+  },
+  {
+    "name": "Bridge Sollers",
+    "country": "GB",
+    "lat": 52.0766,
+    "lng": -2.86099
+  },
+  {
+    "name": "Brockley",
+    "country": "GB",
+    "lat": 51.46369,
+    "lng": -0.03652
+  },
+  {
+    "name": "Brightons",
+    "country": "GB",
+    "lat": 55.98028,
+    "lng": -3.71613
+  },
+  {
+    "name": "Brookmans Park",
+    "country": "GB",
+    "lat": 51.71977,
+    "lng": -0.20153
+  },
+  {
+    "name": "Bricket Wood",
+    "country": "GB",
+    "lat": 51.70734,
+    "lng": -0.36712
+  },
+  {
+    "name": "Bradwell",
+    "country": "GB",
+    "lat": 52.57353,
+    "lng": 1.69979
+  },
+  {
+    "name": "Britwell",
+    "country": "GB",
+    "lat": 51.53577,
+    "lng": -0.62774
+  },
+  {
+    "name": "Brufut",
+    "country": "GM",
+    "lat": 13.38417,
+    "lng": -16.75139
+  },
+  {
+    "name": "Brikama Nding",
+    "country": "GM",
+    "lat": 13.53333,
+    "lng": -14.93333
+  },
+  {
+    "name": "Brikama Ba",
+    "country": "GM",
+    "lat": 13.53333,
+    "lng": -14.93333
+  },
+  {
+    "name": "Brikama",
+    "country": "GM",
+    "lat": 13.27136,
+    "lng": -16.64944
+  },
+  {
+    "name": "Brifu",
+    "country": "GM",
+    "lat": 13.5,
+    "lng": -13.93333
+  },
+  {
+    "name": "Braemar Hill",
+    "country": "HK",
+    "lat": 22.28282,
+    "lng": 114.20034
+  },
+  {
+    "name": "Braemar Hill Mansions",
+    "country": "HK",
+    "lat": 22.28543,
+    "lng": 114.20114
+  },
+  {
+    "name": "Broadview Court",
+    "country": "HK",
+    "lat": 22.24269,
+    "lng": 114.16566
+  },
+  {
+    "name": "Brus Laguna",
+    "country": "HN",
+    "lat": 15.75,
+    "lng": -84.48333
+  },
+  {
+    "name": "Breznički Hum",
+    "country": "HR",
+    "lat": 46.10722,
+    "lng": 16.27667
+  },
+  {
+    "name": "Brela",
+    "country": "HR",
+    "lat": 43.36889,
+    "lng": 16.93417
+  },
+  {
+    "name": "Brtonigla",
+    "country": "HR",
+    "lat": 45.38139,
+    "lng": 13.62944
+  },
+  {
+    "name": "Brodski Varoš",
+    "country": "HR",
+    "lat": 45.18111,
+    "lng": 17.97861
+  },
+  {
+    "name": "Brodski Stupnik",
+    "country": "HR",
+    "lat": 45.16778,
+    "lng": 17.80361
+  },
+  {
+    "name": "Brod Moravice",
+    "country": "HR",
+    "lat": 45.46335,
+    "lng": 14.97126
+  },
+  {
+    "name": "Brnaze",
+    "country": "HR",
+    "lat": 43.68,
+    "lng": 16.64972
+  },
+  {
+    "name": "Brinje",
+    "country": "HR",
+    "lat": 45.0025,
+    "lng": 15.13389
+  },
+  {
+    "name": "Bribir",
+    "country": "HR",
+    "lat": 45.16111,
+    "lng": 14.76472
+  },
+  {
+    "name": "Breznica",
+    "country": "HR",
+    "lat": 46.07111,
+    "lng": 16.27111
+  },
+  {
+    "name": "Brestovac",
+    "country": "HR",
+    "lat": 45.33056,
+    "lng": 17.59694
+  },
+  {
+    "name": "Briješće",
+    "country": "HR",
+    "lat": 45.52417,
+    "lng": 18.62722
+  },
+  {
+    "name": "Bregana",
+    "country": "HR",
+    "lat": 45.84013,
+    "lng": 15.68792
+  },
+  {
+    "name": "Brdovec",
+    "country": "HR",
+    "lat": 45.86666,
+    "lng": 15.77102
+  },
+  {
+    "name": "Brckovljani",
+    "country": "HR",
+    "lat": 45.83333,
+    "lng": 16.3
+  },
+  {
+    "name": "Brodarica",
+    "country": "HR",
+    "lat": 43.68,
+    "lng": 15.91972
+  },
+  {
+    "name": "Brijest",
+    "country": "HR",
+    "lat": 45.52056,
+    "lng": 18.67194
+  },
+  {
+    "name": "Brezje",
+    "country": "HR",
+    "lat": 45.79182,
+    "lng": 15.78565
+  },
+  {
+    "name": "Brodić",
+    "country": "HR",
+    "lat": 46.02145,
+    "lng": 17.25121
+  },
+  {
+    "name": "Brondong",
+    "country": "ID",
+    "lat": -6.877,
+    "lng": 112.2915
+  },
+  {
+    "name": "Brebes",
+    "country": "ID",
+    "lat": -6.8691,
+    "lng": 109.0378
+  },
+  {
+    "name": "Brakas",
+    "country": "ID",
+    "lat": -7.1521,
+    "lng": 114.6143
+  },
+  {
+    "name": "Bray",
+    "country": "IE",
+    "lat": 53.20278,
+    "lng": -6.09833
+  },
+  {
+    "name": "Bride",
+    "country": "IM",
+    "lat": 54.38256,
+    "lng": -4.38921
+  },
+  {
+    "name": "Bramhapuri",
+    "country": "IN",
+    "lat": 20.61107,
+    "lng": 79.86103
+  },
+  {
+    "name": "Bramhabarada",
+    "country": "IN",
+    "lat": 20.7426,
+    "lng": 86.24454
+  },
+  {
+    "name": "Brajarajnagar",
+    "country": "IN",
+    "lat": 21.81667,
+    "lng": 83.91667
+  },
+  {
+    "name": "Brahmapur",
+    "country": "IN",
+    "lat": 19.31151,
+    "lng": 84.7929
+  },
+  {
+    "name": "Brāhmanān di Bāri",
+    "country": "IN",
+    "lat": 32.64398,
+    "lng": 74.91099
+  },
+  {
+    "name": "Brāhmani",
+    "country": "IN",
+    "lat": 21.24767,
+    "lng": 78.90647
+  },
+  {
+    "name": "Brahmakulam",
+    "country": "IN",
+    "lat": 10.58145,
+    "lng": 76.06926
+  },
+  {
+    "name": "Brāhmana Periya Agrahāram",
+    "country": "IN",
+    "lat": 11.36904,
+    "lng": 77.70633
+  },
+  {
+    "name": "Briddhanagar",
+    "country": "IN",
+    "lat": 23.84452,
+    "lng": 91.35144
+  },
+  {
+    "name": "Bruzzano Zeffirio",
+    "country": "IT",
+    "lat": 38.01327,
+    "lng": 16.0826
+  },
+  {
+    "name": "Brucoli",
+    "country": "IT",
+    "lat": 37.28191,
+    "lng": 15.18836
+  },
+  {
+    "name": "Bronte",
+    "country": "IT",
+    "lat": 37.78863,
+    "lng": 14.83377
+  },
+  {
+    "name": "Brolo",
+    "country": "IT",
+    "lat": 38.15623,
+    "lng": 14.82799
+  },
+  {
+    "name": "Briatico",
+    "country": "IT",
+    "lat": 38.72254,
+    "lng": 16.02737
+  },
+  {
+    "name": "Brancaleone",
+    "country": "IT",
+    "lat": 37.96582,
+    "lng": 16.10296
+  },
+  {
+    "name": "Brancaleone-Marina",
+    "country": "IT",
+    "lat": 37.96667,
+    "lng": 16.1
+  },
+  {
+    "name": "Bricco di Neive",
+    "country": "IT",
+    "lat": 44.71159,
+    "lng": 8.13409
+  },
+  {
+    "name": "Brusson",
+    "country": "IT",
+    "lat": 45.75926,
+    "lng": 7.72899
+  },
+  {
+    "name": "Brusnengo",
+    "country": "IT",
+    "lat": 45.59011,
+    "lng": 8.25219
+  },
+  {
+    "name": "Brusciano",
+    "country": "IT",
+    "lat": 40.92237,
+    "lng": 14.42386
+  },
+  {
+    "name": "Brusasco",
+    "country": "IT",
+    "lat": 45.15499,
+    "lng": 8.06107
+  },
+  {
+    "name": "Bruno",
+    "country": "IT",
+    "lat": 44.79262,
+    "lng": 8.43973
+  },
+  {
+    "name": "Brunico",
+    "country": "IT",
+    "lat": 46.79942,
+    "lng": 11.93429
+  },
+  {
+    "name": "Brunate",
+    "country": "IT",
+    "lat": 45.82096,
+    "lng": 9.09869
+  },
+  {
+    "name": "Bruna",
+    "country": "IT",
+    "lat": 42.82071,
+    "lng": 12.68851
+  },
+  {
+    "name": "Brumano",
+    "country": "IT",
+    "lat": 45.85463,
+    "lng": 9.50064
+  },
+  {
+    "name": "Bruino",
+    "country": "IT",
+    "lat": 45.01506,
+    "lng": 7.47754
+  },
+  {
+    "name": "Brugnera",
+    "country": "IT",
+    "lat": 45.89947,
+    "lng": 12.54178
+  },
+  {
+    "name": "Brugnato",
+    "country": "IT",
+    "lat": 44.23671,
+    "lng": 9.72496
+  },
+  {
+    "name": "Brugine",
+    "country": "IT",
+    "lat": 45.29696,
+    "lng": 11.992
+  },
+  {
+    "name": "Brugherio",
+    "country": "IT",
+    "lat": 45.55301,
+    "lng": 9.29907
+  },
+  {
+    "name": "Brosso",
+    "country": "IT",
+    "lat": 45.4918,
+    "lng": 7.80225
+  },
+  {
+    "name": "Brossasco",
+    "country": "IT",
+    "lat": 44.56778,
+    "lng": 7.36454
+  },
+  {
+    "name": "Bronzolo",
+    "country": "IT",
+    "lat": 46.40346,
+    "lng": 11.32078
+  },
+  {
+    "name": "Broni",
+    "country": "IT",
+    "lat": 45.06394,
+    "lng": 9.25993
+  },
+  {
+    "name": "Brivio",
+    "country": "IT",
+    "lat": 45.73725,
+    "lng": 9.44249
+  },
+  {
+    "name": "Brittoli",
+    "country": "IT",
+    "lat": 42.31518,
+    "lng": 13.86026
+  },
+  {
+    "name": "Brissago-Valtravaglia",
+    "country": "IT",
+    "lat": 45.94921,
+    "lng": 8.7459
+  },
+  {
+    "name": "Brisighella",
+    "country": "IT",
+    "lat": 44.22228,
+    "lng": 11.77358
+  },
+  {
+    "name": "Brinzio",
+    "country": "IT",
+    "lat": 45.88914,
+    "lng": 8.78683
+  },
+  {
+    "name": "Brindisi Montagna",
+    "country": "IT",
+    "lat": 40.60952,
+    "lng": 15.93977
+  },
+  {
+    "name": "Brindisi",
+    "country": "IT",
+    "lat": 40.63215,
+    "lng": 17.93607
+  },
+  {
+    "name": "Brignano Gera d'Adda",
+    "country": "IT",
+    "lat": 45.54324,
+    "lng": 9.64424
+  },
+  {
+    "name": "Brignano",
+    "country": "IT",
+    "lat": 44.81457,
+    "lng": 9.04005
+  },
+  {
+    "name": "Briga Novarese",
+    "country": "IT",
+    "lat": 45.72931,
+    "lng": 8.45586
+  },
+  {
+    "name": "Brienno",
+    "country": "IT",
+    "lat": 45.91175,
+    "lng": 9.13142
+  },
+  {
+    "name": "Bricherasio",
+    "country": "IT",
+    "lat": 44.82328,
+    "lng": 7.303
+  },
+  {
+    "name": "Brez",
+    "country": "IT",
+    "lat": 46.4322,
+    "lng": 11.10578
+  },
+  {
+    "name": "Bresso",
+    "country": "IT",
+    "lat": 45.53792,
+    "lng": 9.18921
+  },
+  {
+    "name": "Bressanvido",
+    "country": "IT",
+    "lat": 45.64651,
+    "lng": 11.63437
+  },
+  {
+    "name": "Bressanone",
+    "country": "IT",
+    "lat": 46.71503,
+    "lng": 11.65598
+  },
+  {
+    "name": "Bressana",
+    "country": "IT",
+    "lat": 45.07807,
+    "lng": 9.13119
+  },
+  {
+    "name": "Brescia",
+    "country": "IT",
+    "lat": 45.53558,
+    "lng": 10.21472
+  },
+  {
+    "name": "Brescello",
+    "country": "IT",
+    "lat": 44.89531,
+    "lng": 10.51269
+  },
+  {
+    "name": "Brentonico",
+    "country": "IT",
+    "lat": 45.8191,
+    "lng": 10.95508
+  },
+  {
+    "name": "Breno",
+    "country": "IT",
+    "lat": 45.95889,
+    "lng": 10.30648
+  },
+  {
+    "name": "Brennero",
+    "country": "IT",
+    "lat": 47.00571,
+    "lng": 11.50633
+  },
+  {
+    "name": "Brenna",
+    "country": "IT",
+    "lat": 45.74338,
+    "lng": 9.18657
+  },
+  {
+    "name": "Brendola",
+    "country": "IT",
+    "lat": 45.47849,
+    "lng": 11.43947
+  },
+  {
+    "name": "Breme",
+    "country": "IT",
+    "lat": 45.12756,
+    "lng": 8.62564
+  },
+  {
+    "name": "Brembio",
+    "country": "IT",
+    "lat": 45.21234,
+    "lng": 9.57244
+  },
+  {
+    "name": "Brembilla",
+    "country": "IT",
+    "lat": 45.82154,
+    "lng": 9.59679
+  },
+  {
+    "name": "Brembate",
+    "country": "IT",
+    "lat": 45.60468,
+    "lng": 9.5548
+  },
+  {
+    "name": "Breia",
+    "country": "IT",
+    "lat": 45.76497,
+    "lng": 8.30552
+  },
+  {
+    "name": "Breguzzo",
+    "country": "IT",
+    "lat": 46.00679,
+    "lng": 10.69761
+  },
+  {
+    "name": "Breganze",
+    "country": "IT",
+    "lat": 45.70489,
+    "lng": 11.56074
+  },
+  {
+    "name": "Breda",
+    "country": "IT",
+    "lat": 45.7225,
+    "lng": 12.33083
+  },
+  {
+    "name": "Brebbia",
+    "country": "IT",
+    "lat": 45.82983,
+    "lng": 8.65042
+  },
+  {
+    "name": "Braone",
+    "country": "IT",
+    "lat": 45.99011,
+    "lng": 10.34178
+  },
+  {
+    "name": "Brandizzo",
+    "country": "IT",
+    "lat": 45.17706,
+    "lng": 7.83581
+  },
+  {
+    "name": "Bracigliano",
+    "country": "IT",
+    "lat": 40.8188,
+    "lng": 14.70772
+  },
+  {
+    "name": "Bracciano",
+    "country": "IT",
+    "lat": 42.10271,
+    "lng": 12.16565
+  },
+  {
+    "name": "Braccagni",
+    "country": "IT",
+    "lat": 42.87285,
+    "lng": 11.07266
+  },
+  {
+    "name": "Bra",
+    "country": "IT",
+    "lat": 44.69776,
+    "lng": 7.85128
+  },
+  {
+    "name": "Bressa",
+    "country": "IT",
+    "lat": 46.03446,
+    "lng": 13.14724
+  },
+  {
+    "name": "Brusaporto",
+    "country": "IT",
+    "lat": 45.6714,
+    "lng": 9.76041
+  },
+  {
+    "name": "Brozolo",
+    "country": "IT",
+    "lat": 45.11695,
+    "lng": 8.07193
+  },
+  {
+    "name": "Briaglia",
+    "country": "IT",
+    "lat": 44.39583,
+    "lng": 7.87574
+  },
+  {
+    "name": "Briga Alta",
+    "country": "IT",
+    "lat": 44.08273,
+    "lng": 7.74944
+  },
+  {
+    "name": "Brezzo di Bedero",
+    "country": "IT",
+    "lat": 45.97838,
+    "lng": 8.71743
+  },
+  {
+    "name": "Bregnano",
+    "country": "IT",
+    "lat": 45.69778,
+    "lng": 9.05934
+  },
+  {
+    "name": "Brione",
+    "country": "IT",
+    "lat": 45.64228,
+    "lng": 10.14846
+  },
+  {
+    "name": "Bresimo",
+    "country": "IT",
+    "lat": 46.41181,
+    "lng": 10.96817
+  },
+  {
+    "name": "Brentino Belluno",
+    "country": "IT",
+    "lat": 45.65689,
+    "lng": 10.89368
+  },
+  {
+    "name": "Brenzone",
+    "country": "IT",
+    "lat": 45.69989,
+    "lng": 10.76058
+  },
+  {
+    "name": "Brione",
+    "country": "IT",
+    "lat": 45.89488,
+    "lng": 10.58975
+  },
+  {
+    "name": "Broccostella",
+    "country": "IT",
+    "lat": 41.69972,
+    "lng": 13.63531
+  },
+  {
+    "name": "Braies",
+    "country": "IT",
+    "lat": 46.72023,
+    "lng": 12.13339
+  },
+  {
+    "name": "Brennero - Brenner",
+    "country": "IT",
+    "lat": 46.93813,
+    "lng": 11.44247
+  },
+  {
+    "name": "Brovello-Carpugnino",
+    "country": "IT",
+    "lat": 45.84247,
+    "lng": 8.53173
+  },
+  {
+    "name": "Brenta",
+    "country": "IT",
+    "lat": 45.89418,
+    "lng": 8.68373
+  },
+  {
+    "name": "Brusimpiano",
+    "country": "IT",
+    "lat": 45.94468,
+    "lng": 8.88953
+  },
+  {
+    "name": "Briosco",
+    "country": "IT",
+    "lat": 45.71008,
+    "lng": 9.24064
+  },
+  {
+    "name": "Brogliano",
+    "country": "IT",
+    "lat": 45.58919,
+    "lng": 11.36549
+  },
+  {
+    "name": "Bregano",
+    "country": "IT",
+    "lat": 45.82578,
+    "lng": 8.68773
+  },
+  {
+    "name": "Brunello",
+    "country": "IT",
+    "lat": 45.76497,
+    "lng": 8.79533
+  },
+  {
+    "name": "Brandico",
+    "country": "IT",
+    "lat": 45.45418,
+    "lng": 10.05267
+  },
+  {
+    "name": "Briona",
+    "country": "IT",
+    "lat": 45.54247,
+    "lng": 8.47973
+  },
+  {
+    "name": "Brienza",
+    "country": "IT",
+    "lat": 40.47751,
+    "lng": 15.62927
+  },
+  {
+    "name": "Bruzolo",
+    "country": "IT",
+    "lat": 45.14093,
+    "lng": 7.19463
+  },
+  {
+    "name": "Brognaturo",
+    "country": "IT",
+    "lat": 38.60128,
+    "lng": 16.3414
+  },
+  {
+    "name": "Bracca",
+    "country": "IT",
+    "lat": 45.82267,
+    "lng": 9.70784
+  },
+  {
+    "name": "Branzi",
+    "country": "IT",
+    "lat": 46.00249,
+    "lng": 9.75935
+  },
+  {
+    "name": "Brembate di Sopra",
+    "country": "IT",
+    "lat": 45.71668,
+    "lng": 9.57945
+  },
+  {
+    "name": "Brondello",
+    "country": "IT",
+    "lat": 44.60073,
+    "lng": 7.40592
+  },
+  {
+    "name": "Breo",
+    "country": "IT",
+    "lat": 44.39865,
+    "lng": 7.81903
+  },
+  {
+    "name": "Brognoligo-Costalunga",
+    "country": "IT",
+    "lat": 45.44869,
+    "lng": 11.29379
+  },
+  {
+    "name": "Brenno Useria",
+    "country": "IT",
+    "lat": 45.86148,
+    "lng": 8.87801
+  },
+  {
+    "name": "Brongio",
+    "country": "IT",
+    "lat": 45.76535,
+    "lng": 9.31251
+  },
+  {
+    "name": "Brozzo",
+    "country": "IT",
+    "lat": 45.72019,
+    "lng": 10.23092
+  },
+  {
+    "name": "Brezza",
+    "country": "IT",
+    "lat": 41.11073,
+    "lng": 14.11201
+  },
+  {
+    "name": "Braglia",
+    "country": "IT",
+    "lat": 44.98446,
+    "lng": 12.03377
+  },
+  {
+    "name": "Brovello",
+    "country": "IT",
+    "lat": 45.84246,
+    "lng": 8.53189
+  },
+  {
+    "name": "Brera",
+    "country": "IT",
+    "lat": 45.47154,
+    "lng": 9.18763
+  },
+  {
+    "name": "Brooke",
+    "country": "KE",
+    "lat": -0.33408,
+    "lng": 35.32537
+  },
+  {
+    "name": "Brinkleys",
+    "country": "KY",
+    "lat": 19.34909,
+    "lng": -81.2409
+  },
+  {
+    "name": "Breezy Castle",
+    "country": "KY",
+    "lat": 19.29613,
+    "lng": -81.36068
+  },
+  {
+    "name": "Breakers",
+    "country": "KY",
+    "lat": 19.2961,
+    "lng": -81.19844
+  },
+  {
+    "name": "Brouch",
+    "country": "LU",
+    "lat": 49.73611,
+    "lng": 6.02306
+  },
+  {
+    "name": "Bridel",
+    "country": "LU",
+    "lat": 49.65579,
+    "lng": 6.07999
+  },
+  {
+    "name": "Brocēni",
+    "country": "LV",
+    "lat": 56.6789,
+    "lng": 22.56945
+  },
+  {
+    "name": "Brak",
+    "country": "LY",
+    "lat": 27.54956,
+    "lng": 14.27139
+  },
+  {
+    "name": "Brikcha",
+    "country": "MA",
+    "lat": 34.96732,
+    "lng": -5.57295
+  },
+  {
+    "name": "Briceni",
+    "country": "MD",
+    "lat": 48.36302,
+    "lng": 27.07847
+  },
+  {
+    "name": "Briceni",
+    "country": "MD",
+    "lat": 48.35628,
+    "lng": 27.70293
+  },
+  {
+    "name": "Brvenica",
+    "country": "MK",
+    "lat": 41.96707,
+    "lng": 20.98091
+  },
+  {
+    "name": "Brades",
+    "country": "MS",
+    "lat": 16.79183,
+    "lng": -62.21058
+  },
+  {
+    "name": "Brisée Verdière",
+    "country": "MU",
+    "lat": -20.16389,
+    "lng": 57.64667
+  },
+  {
+    "name": "Brisas Barra de Suchiate",
+    "country": "MX",
+    "lat": 14.53588,
+    "lng": -92.22414
+  },
+  {
+    "name": "Briseñas de Matamoros",
+    "country": "MX",
+    "lat": 20.26821,
+    "lng": -102.56195
+  },
+  {
+    "name": "Bravo",
+    "country": "MX",
+    "lat": 20.39972,
+    "lng": -100.42397
+  },
+  {
+    "name": "Brisas de Zicatela",
+    "country": "MX",
+    "lat": 15.83694,
+    "lng": -97.04194
+  },
+  {
+    "name": "Brisas del Carrizal",
+    "country": "MX",
+    "lat": 18.01556,
+    "lng": -92.97083
+  },
+  {
+    "name": "Brinchang",
+    "country": "MY",
+    "lat": 4.4911,
+    "lng": 101.38843
+  },
+  {
+    "name": "Brickfields",
+    "country": "MY",
+    "lat": 3.12966,
+    "lng": 101.68424
+  },
+  {
+    "name": "Briyel",
+    "country": "NG",
+    "lat": 10.34764,
+    "lng": 11.6099
+  },
+  {
+    "name": "Brunssum",
+    "country": "NL",
+    "lat": 50.94667,
+    "lng": 5.97083
+  },
+  {
+    "name": "Brunnepe",
+    "country": "NL",
+    "lat": 52.56185,
+    "lng": 5.90343
+  },
+  {
+    "name": "Brummen",
+    "country": "NL",
+    "lat": 52.09,
+    "lng": 6.15556
+  },
+  {
+    "name": "Brukske",
+    "country": "NL",
+    "lat": 51.52101,
+    "lng": 5.9927
+  },
+  {
+    "name": "Bruinisse",
+    "country": "NL",
+    "lat": 51.66167,
+    "lng": 4.09444
+  },
+  {
+    "name": "Bruchem",
+    "country": "NL",
+    "lat": 51.78667,
+    "lng": 5.23611
+  },
+  {
+    "name": "Brouwershaven",
+    "country": "NL",
+    "lat": 51.72667,
+    "lng": 3.9125
+  },
+  {
+    "name": "Broeksterwâld",
+    "country": "NL",
+    "lat": 53.27466,
+    "lng": 5.99648
+  },
+  {
+    "name": "Broeksittard",
+    "country": "NL",
+    "lat": 51.0029,
+    "lng": 5.89511
+  },
+  {
+    "name": "Broek op Langedijk",
+    "country": "NL",
+    "lat": 52.67417,
+    "lng": 4.80556
+  },
+  {
+    "name": "Broek in Waterland",
+    "country": "NL",
+    "lat": 52.43417,
+    "lng": 4.99583
+  },
+  {
+    "name": "Broekhoven",
+    "country": "NL",
+    "lat": 51.54801,
+    "lng": 5.09175
+  },
+  {
+    "name": "Broekhem",
+    "country": "NL",
+    "lat": 50.87119,
+    "lng": 5.82069
+  },
+  {
+    "name": "Brinkhorst",
+    "country": "NL",
+    "lat": 52.21302,
+    "lng": 5.95167
+  },
+  {
+    "name": "Brielle",
+    "country": "NL",
+    "lat": 51.90167,
+    "lng": 4.1625
+  },
+  {
+    "name": "Breukelen",
+    "country": "NL",
+    "lat": 52.17417,
+    "lng": 5.00139
+  },
+  {
+    "name": "Breugel",
+    "country": "NL",
+    "lat": 51.5175,
+    "lng": 5.51111
+  },
+  {
+    "name": "Breskens",
+    "country": "NL",
+    "lat": 51.39583,
+    "lng": 3.55556
+  },
+  {
+    "name": "Breezand",
+    "country": "NL",
+    "lat": 52.89,
+    "lng": 4.80417
+  },
+  {
+    "name": "Bredeweg",
+    "country": "NL",
+    "lat": 51.76019,
+    "lng": 5.94189
+  },
+  {
+    "name": "Bredevoort",
+    "country": "NL",
+    "lat": 51.94167,
+    "lng": 6.62083
+  },
+  {
+    "name": "Breda",
+    "country": "NL",
+    "lat": 51.58656,
+    "lng": 4.77596
+  },
+  {
+    "name": "Brand",
+    "country": "NL",
+    "lat": 51.45839,
+    "lng": 5.62427
+  },
+  {
+    "name": "Brakkenstein",
+    "country": "NL",
+    "lat": 51.81324,
+    "lng": 5.86539
+  },
+  {
+    "name": "Brakel",
+    "country": "NL",
+    "lat": 51.8175,
+    "lng": 5.09028
+  },
+  {
+    "name": "Brachterbeek",
+    "country": "NL",
+    "lat": 51.14694,
+    "lng": 5.90446
+  },
+  {
+    "name": "Brabander",
+    "country": "NL",
+    "lat": 51.53583,
+    "lng": 5.96806
+  },
+  {
+    "name": "Brummelhof",
+    "country": "NL",
+    "lat": 52.20503,
+    "lng": 5.96789
+  },
+  {
+    "name": "Bryne",
+    "country": "NO",
+    "lat": 58.73536,
+    "lng": 5.64766
+  },
+  {
+    "name": "Brumunddal",
+    "country": "NO",
+    "lat": 60.88095,
+    "lng": 10.93948
+  },
+  {
+    "name": "Bruflat",
+    "country": "NO",
+    "lat": 60.88781,
+    "lng": 9.64143
+  },
+  {
+    "name": "Brønnøysund",
+    "country": "NO",
+    "lat": 65.47487,
+    "lng": 12.21285
+  },
+  {
+    "name": "Brekstad",
+    "country": "NO",
+    "lat": 63.68697,
+    "lng": 9.66541
+  },
+  {
+    "name": "Brattvåg",
+    "country": "NO",
+    "lat": 62.59991,
+    "lng": 6.44426
+  },
+  {
+    "name": "Bruhagen",
+    "country": "NO",
+    "lat": 63.05259,
+    "lng": 7.63416
+  },
+  {
+    "name": "Brøstadbotn",
+    "country": "NO",
+    "lat": 69.08873,
+    "lng": 17.69489
+  },
+  {
+    "name": "Breivikbotn",
+    "country": "NO",
+    "lat": 70.58877,
+    "lng": 22.28712
+  },
+  {
+    "name": "Brooklyn",
+    "country": "NZ",
+    "lat": -41.30586,
+    "lng": 174.76257
+  },
+  {
+    "name": "Brightwater",
+    "country": "NZ",
+    "lat": -41.38333,
+    "lng": 173.11667
+  },
+  {
+    "name": "Brighton",
+    "country": "NZ",
+    "lat": -45.95,
+    "lng": 170.33333
+  },
+  {
+    "name": "Brockville",
+    "country": "NZ",
+    "lat": -45.85838,
+    "lng": 170.4501
+  },
+  {
+    "name": "Bryndwr",
+    "country": "NZ",
+    "lat": -43.49833,
+    "lng": 172.59013
+  },
+  {
+    "name": "Browns Bay",
+    "country": "NZ",
+    "lat": -36.71926,
+    "lng": 174.73666
+  },
+  {
+    "name": "Brown Owl",
+    "country": "NZ",
+    "lat": -41.09827,
+    "lng": 175.0902
+  },
+  {
+    "name": "Brujas",
+    "country": "PA",
+    "lat": 8.5861,
+    "lng": -78.53145
+  },
+  {
+    "name": "Breñón",
+    "country": "PA",
+    "lat": 8.62626,
+    "lng": -82.81349
+  },
+  {
+    "name": "Breu",
+    "country": "PE",
+    "lat": -9.48333,
+    "lng": -72.71667
+  },
+  {
+    "name": "Bretaña",
+    "country": "PE",
+    "lat": -5.26667,
+    "lng": -74.28333
+  },
+  {
+    "name": "Breña",
+    "country": "PE",
+    "lat": -12.05605,
+    "lng": -77.05295
+  },
+  {
+    "name": "Brgy. Tinigao, Kalibo",
+    "country": "PH",
+    "lat": 11.7,
+    "lng": 122.36667
+  },
+  {
+    "name": "Brgy. Nalook, kalibo",
+    "country": "PH",
+    "lat": 11.68586,
+    "lng": 122.36916
+  },
+  {
+    "name": "Brgy. Mabilo, New Washington",
+    "country": "PH",
+    "lat": 11.67778,
+    "lng": 122.4075
+  },
+  {
+    "name": "Brgy. New Buswang, Kalibo",
+    "country": "PH",
+    "lat": 11.71222,
+    "lng": 122.38472
+  },
+  {
+    "name": "Brgy. Bulwang, Numancia",
+    "country": "PH",
+    "lat": 11.72194,
+    "lng": 122.36111
+  },
+  {
+    "name": "Brookes Point",
+    "country": "PH",
+    "lat": 8.77201,
+    "lng": 117.8371
+  },
+  {
+    "name": "Brgy. Bachaw Norte, Kalibo",
+    "country": "PH",
+    "lat": 11.71806,
+    "lng": 122.37806
+  },
+  {
+    "name": "Brzyska",
+    "country": "PL",
+    "lat": 49.82226,
+    "lng": 21.39004
+  },
+  {
+    "name": "Brzozów",
+    "country": "PL",
+    "lat": 49.69501,
+    "lng": 22.01926
+  },
+  {
+    "name": "Brzóza Stadnicka",
+    "country": "PL",
+    "lat": 50.19965,
+    "lng": 22.28233
+  },
+  {
+    "name": "Brzóza Królewska",
+    "country": "PL",
+    "lat": 50.23908,
+    "lng": 22.32559
+  },
+  {
+    "name": "Brzostek",
+    "country": "PL",
+    "lat": 49.87954,
+    "lng": 21.41102
+  },
+  {
+    "name": "Brzeźnica",
+    "country": "PL",
+    "lat": 50.10065,
+    "lng": 21.48025
+  },
+  {
+    "name": "Brzeźnica",
+    "country": "PL",
+    "lat": 49.95763,
+    "lng": 20.49139
+  },
+  {
+    "name": "Brzeziny",
+    "country": "PL",
+    "lat": 50.77273,
+    "lng": 20.57319
+  },
+  {
+    "name": "Brzesko",
+    "country": "PL",
+    "lat": 49.96911,
+    "lng": 20.60606
+  },
+  {
+    "name": "Brzączowice",
+    "country": "PL",
+    "lat": 49.87478,
+    "lng": 20.03709
+  },
+  {
+    "name": "Brwinów",
+    "country": "PL",
+    "lat": 52.14269,
+    "lng": 20.71697
+  },
+  {
+    "name": "Brok",
+    "country": "PL",
+    "lat": 52.69948,
+    "lng": 21.85704
+  },
+  {
+    "name": "Brody",
+    "country": "PL",
+    "lat": 51.02466,
+    "lng": 21.22147
+  },
+  {
+    "name": "Brochów",
+    "country": "PL",
+    "lat": 52.3195,
+    "lng": 20.26257
+  },
+  {
+    "name": "Brańszczyk",
+    "country": "PL",
+    "lat": 52.62931,
+    "lng": 21.58745
+  },
+  {
+    "name": "Brańsk",
+    "country": "PL",
+    "lat": 52.7444,
+    "lng": 22.83774
+  },
+  {
+    "name": "Brzuze",
+    "country": "PL",
+    "lat": 53.05458,
+    "lng": 19.26195
+  },
+  {
+    "name": "Brzozie",
+    "country": "PL",
+    "lat": 53.32554,
+    "lng": 19.60485
+  },
+  {
+    "name": "Brzeźno Gdańskie",
+    "country": "PL",
+    "lat": 54.40365,
+    "lng": 18.63144
+  },
+  {
+    "name": "Brzeźnio",
+    "country": "PL",
+    "lat": 51.494,
+    "lng": 18.62234
+  },
+  {
+    "name": "Brzeźnica",
+    "country": "PL",
+    "lat": 49.96497,
+    "lng": 19.61952
+  },
+  {
+    "name": "Brzeziny Śląskie",
+    "country": "PL",
+    "lat": 50.35439,
+    "lng": 18.98129
+  },
+  {
+    "name": "Brzeziny",
+    "country": "PL",
+    "lat": 51.80023,
+    "lng": 19.75144
+  },
+  {
+    "name": "Brzezinka",
+    "country": "PL",
+    "lat": 50.04237,
+    "lng": 19.1902
+  },
+  {
+    "name": "Brzeszcze",
+    "country": "PL",
+    "lat": 49.98203,
+    "lng": 19.15157
+  },
+  {
+    "name": "Brześć Kujawski",
+    "country": "PL",
+    "lat": 52.60532,
+    "lng": 18.90173
+  },
+  {
+    "name": "Brzeg Dolny",
+    "country": "PL",
+    "lat": 51.27299,
+    "lng": 16.70815
+  },
+  {
+    "name": "Brzeg",
+    "country": "PL",
+    "lat": 50.86079,
+    "lng": 17.4674
+  },
+  {
+    "name": "Brusy",
+    "country": "PL",
+    "lat": 53.88446,
+    "lng": 17.71786
+  },
+  {
+    "name": "Brudzew",
+    "country": "PL",
+    "lat": 52.09949,
+    "lng": 18.60432
+  },
+  {
+    "name": "Brudzeń Duży",
+    "country": "PL",
+    "lat": 52.66884,
+    "lng": 19.50399
+  },
+  {
+    "name": "Bronów",
+    "country": "PL",
+    "lat": 49.87782,
+    "lng": 18.92103
+  },
+  {
+    "name": "Brojce",
+    "country": "PL",
+    "lat": 53.95705,
+    "lng": 15.35975
+  },
+  {
+    "name": "Brójce",
+    "country": "PL",
+    "lat": 52.31745,
+    "lng": 15.67414
+  },
+  {
+    "name": "Brójce",
+    "country": "PL",
+    "lat": 51.66436,
+    "lng": 19.64802
+  },
+  {
+    "name": "Brody",
+    "country": "PL",
+    "lat": 51.79046,
+    "lng": 14.77335
+  },
+  {
+    "name": "Brody",
+    "country": "PL",
+    "lat": 49.86742,
+    "lng": 19.69746
+  },
+  {
+    "name": "Brodnica",
+    "country": "PL",
+    "lat": 53.25967,
+    "lng": 19.39653
+  },
+  {
+    "name": "Brodnica",
+    "country": "PL",
+    "lat": 52.14123,
+    "lng": 16.89096
+  },
+  {
+    "name": "Brodła",
+    "country": "PL",
+    "lat": 50.04331,
+    "lng": 19.58879
+  },
+  {
+    "name": "Brętowo",
+    "country": "PL",
+    "lat": 54.37009,
+    "lng": 18.57105
+  },
+  {
+    "name": "Brenno",
+    "country": "PL",
+    "lat": 51.92257,
+    "lng": 16.21488
+  },
+  {
+    "name": "Brenna",
+    "country": "PL",
+    "lat": 49.72576,
+    "lng": 18.90249
+  },
+  {
+    "name": "Brdów",
+    "country": "PL",
+    "lat": 52.3539,
+    "lng": 18.7298
+  },
+  {
+    "name": "Brąszewice",
+    "country": "PL",
+    "lat": 51.49902,
+    "lng": 18.44982
+  },
+  {
+    "name": "Braniewo",
+    "country": "PL",
+    "lat": 54.37971,
+    "lng": 19.81959
+  },
+  {
+    "name": "Branice",
+    "country": "PL",
+    "lat": 50.05108,
+    "lng": 17.79399
+  },
+  {
+    "name": "Bralin",
+    "country": "PL",
+    "lat": 51.28581,
+    "lng": 17.90325
+  },
+  {
+    "name": "Brody-Parcele",
+    "country": "PL",
+    "lat": 52.47797,
+    "lng": 20.74974
+  },
+  {
+    "name": "Broniszewice",
+    "country": "PL",
+    "lat": 51.96696,
+    "lng": 17.81648
+  },
+  {
+    "name": "Brenas",
+    "country": "PR",
+    "lat": 18.46717,
+    "lng": -66.341
+  },
+  {
+    "name": "Brūqīn",
+    "country": "PS",
+    "lat": 32.07216,
+    "lng": 35.09943
+  },
+  {
+    "name": "Bruchin",
+    "country": "PS",
+    "lat": 32.08191,
+    "lng": 35.08994
+  },
+  {
+    "name": "Brito",
+    "country": "PT",
+    "lat": 41.45821,
+    "lng": -8.36103
+  },
+  {
+    "name": "Branca",
+    "country": "PT",
+    "lat": 40.76653,
+    "lng": -8.48262
+  },
+  {
+    "name": "Bragança",
+    "country": "PT",
+    "lat": 41.80716,
+    "lng": -6.75898
+  },
+  {
+    "name": "Braga",
+    "country": "PT",
+    "lat": 41.5514,
+    "lng": -8.42311
+  },
+  {
+    "name": "Bras-Panon",
+    "country": "RE",
+    "lat": -20.99667,
+    "lng": 55.67823
+  },
+  {
+    "name": "Brusturoasa",
+    "country": "RO",
+    "lat": 46.51667,
+    "lng": 26.2
+  },
+  {
+    "name": "Brusturi",
+    "country": "RO",
+    "lat": 47.28333,
+    "lng": 26.38333
+  },
+  {
+    "name": "Brusturi",
+    "country": "RO",
+    "lat": 47.15,
+    "lng": 22.25
+  },
+  {
+    "name": "Bruiu",
+    "country": "RO",
+    "lat": 45.86667,
+    "lng": 24.7
+  },
+  {
+    "name": "Broșteni",
+    "country": "RO",
+    "lat": 47.30459,
+    "lng": 26.55625
+  },
+  {
+    "name": "Broşteni",
+    "country": "RO",
+    "lat": 47.23333,
+    "lng": 25.7
+  },
+  {
+    "name": "Broşteni",
+    "country": "RO",
+    "lat": 45.75,
+    "lng": 27.03333
+  },
+  {
+    "name": "Broşteni",
+    "country": "RO",
+    "lat": 44.76083,
+    "lng": 22.97944
+  },
+  {
+    "name": "Broșteni",
+    "country": "RO",
+    "lat": 44.72053,
+    "lng": 25.50935
+  },
+  {
+    "name": "Broșteni",
+    "country": "RO",
+    "lat": 44.67192,
+    "lng": 26.74787
+  },
+  {
+    "name": "Broscăuţi",
+    "country": "RO",
+    "lat": 47.95,
+    "lng": 26.45
+  },
+  {
+    "name": "Brodoc",
+    "country": "RO",
+    "lat": 46.6509,
+    "lng": 27.67669
+  },
+  {
+    "name": "Brodina",
+    "country": "RO",
+    "lat": 47.88333,
+    "lng": 25.41667
+  },
+  {
+    "name": "Brâncoveni",
+    "country": "RO",
+    "lat": 44.31667,
+    "lng": 24.3
+  },
+  {
+    "name": "Brâncoveneşti",
+    "country": "RO",
+    "lat": 46.85632,
+    "lng": 24.75941
+  },
+  {
+    "name": "Brâncoveanca",
+    "country": "RO",
+    "lat": 43.94075,
+    "lng": 24.69336
+  },
+  {
+    "name": "Brânceni",
+    "country": "RO",
+    "lat": 43.88333,
+    "lng": 25.4
+  },
+  {
+    "name": "Brezoi",
+    "country": "RO",
+    "lat": 45.33797,
+    "lng": 24.24863
+  },
+  {
+    "name": "Brezoaele",
+    "country": "RO",
+    "lat": 44.58333,
+    "lng": 25.73333
+  },
+  {
+    "name": "Brezoaia",
+    "country": "RO",
+    "lat": 44.55683,
+    "lng": 25.78527
+  },
+  {
+    "name": "Brezniţa Ocol",
+    "country": "RO",
+    "lat": 44.66667,
+    "lng": 22.61833
+  },
+  {
+    "name": "Brezniţa-Motru",
+    "country": "RO",
+    "lat": 44.56667,
+    "lng": 23.21667
+  },
+  {
+    "name": "Bretea Română",
+    "country": "RO",
+    "lat": 45.66085,
+    "lng": 23.01739
+  },
+  {
+    "name": "Breţcu",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 26.3
+  },
+  {
+    "name": "Brestovăț",
+    "country": "RO",
+    "lat": 45.87342,
+    "lng": 21.68201
+  },
+  {
+    "name": "Brehuiești",
+    "country": "RO",
+    "lat": 47.70194,
+    "lng": 26.54472
+  },
+  {
+    "name": "Brebu Nou",
+    "country": "RO",
+    "lat": 45.23333,
+    "lng": 22.13333
+  },
+  {
+    "name": "Brebu Mânăstirei",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 25.76667
+  },
+  {
+    "name": "Brebu Megieșesc",
+    "country": "RO",
+    "lat": 45.16774,
+    "lng": 25.77474
+  },
+  {
+    "name": "Brebu",
+    "country": "RO",
+    "lat": 45.42028,
+    "lng": 21.9925
+  },
+  {
+    "name": "Brebeni",
+    "country": "RO",
+    "lat": 44.36667,
+    "lng": 24.45
+  },
+  {
+    "name": "Breb",
+    "country": "RO",
+    "lat": 47.74854,
+    "lng": 23.90494
+  },
+  {
+    "name": "Breazu",
+    "country": "RO",
+    "lat": 47.21343,
+    "lng": 27.51815
+  },
+  {
+    "name": "Breaza de Sus",
+    "country": "RO",
+    "lat": 45.19879,
+    "lng": 25.65578
+  },
+  {
+    "name": "Breaza de Jos",
+    "country": "RO",
+    "lat": 45.17125,
+    "lng": 25.67571
+  },
+  {
+    "name": "Breaza",
+    "country": "RO",
+    "lat": 47.61502,
+    "lng": 25.31816
+  },
+  {
+    "name": "Breaza",
+    "country": "RO",
+    "lat": 47.35108,
+    "lng": 24.0622
+  },
+  {
+    "name": "Breaza",
+    "country": "RO",
+    "lat": 46.76667,
+    "lng": 24.63333
+  },
+  {
+    "name": "Breaza",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 25.66667
+  },
+  {
+    "name": "Breaza",
+    "country": "RO",
+    "lat": 45.1,
+    "lng": 26.53333
+  },
+  {
+    "name": "Breasta",
+    "country": "RO",
+    "lat": 44.33333,
+    "lng": 23.68333
+  },
+  {
+    "name": "Brazii de Sus",
+    "country": "RO",
+    "lat": 44.86667,
+    "lng": 26.01667
+  },
+  {
+    "name": "Brazii",
+    "country": "RO",
+    "lat": 46.23333,
+    "lng": 22.33333
+  },
+  {
+    "name": "Brazi",
+    "country": "RO",
+    "lat": 45.48716,
+    "lng": 22.8404
+  },
+  {
+    "name": "Bratovoești",
+    "country": "RO",
+    "lat": 44.13333,
+    "lng": 23.9
+  },
+  {
+    "name": "Brătila",
+    "country": "RO",
+    "lat": 46.32348,
+    "lng": 26.77442
+  },
+  {
+    "name": "Brătești",
+    "country": "RO",
+    "lat": 47.19135,
+    "lng": 26.6858
+  },
+  {
+    "name": "Brătești",
+    "country": "RO",
+    "lat": 46.3254,
+    "lng": 26.64333
+  },
+  {
+    "name": "Brateş",
+    "country": "RO",
+    "lat": 45.83333,
+    "lng": 26.06667
+  },
+  {
+    "name": "Brateiu",
+    "country": "RO",
+    "lat": 46.16667,
+    "lng": 24.41667
+  },
+  {
+    "name": "Bratca",
+    "country": "RO",
+    "lat": 46.93333,
+    "lng": 22.61667
+  },
+  {
+    "name": "Brastavățu",
+    "country": "RO",
+    "lat": 43.90634,
+    "lng": 24.40784
+  },
+  {
+    "name": "Braşov",
+    "country": "RO",
+    "lat": 45.64861,
+    "lng": 25.60613
+  },
+  {
+    "name": "Braniştea",
+    "country": "RO",
+    "lat": 47.16667,
+    "lng": 24.06667
+  },
+  {
+    "name": "Braniştea",
+    "country": "RO",
+    "lat": 45.45,
+    "lng": 27.85
+  },
+  {
+    "name": "Braniştea",
+    "country": "RO",
+    "lat": 44.68333,
+    "lng": 25.58333
+  },
+  {
+    "name": "Braniștea",
+    "country": "RO",
+    "lat": 44.24201,
+    "lng": 22.97354
+  },
+  {
+    "name": "Braniștea",
+    "country": "RO",
+    "lat": 43.96315,
+    "lng": 26.03812
+  },
+  {
+    "name": "Brăniștari",
+    "country": "RO",
+    "lat": 44.17626,
+    "lng": 26.05953
+  },
+  {
+    "name": "Brănişca",
+    "country": "RO",
+    "lat": 45.91667,
+    "lng": 22.78333
+  },
+  {
+    "name": "Braneț",
+    "country": "RO",
+    "lat": 44.32576,
+    "lng": 24.17792
+  },
+  {
+    "name": "Brăneşti",
+    "country": "RO",
+    "lat": 45.03333,
+    "lng": 25.41667
+  },
+  {
+    "name": "Brăneşti",
+    "country": "RO",
+    "lat": 44.65,
+    "lng": 23.46667
+  },
+  {
+    "name": "Brăneşti",
+    "country": "RO",
+    "lat": 44.45,
+    "lng": 26.33333
+  },
+  {
+    "name": "Bran",
+    "country": "RO",
+    "lat": 45.51667,
+    "lng": 25.35
+  },
+  {
+    "name": "Braloştiţa",
+    "country": "RO",
+    "lat": 44.5,
+    "lng": 23.51667
+  },
+  {
+    "name": "Brăila",
+    "country": "RO",
+    "lat": 45.27152,
+    "lng": 27.97429
+  },
+  {
+    "name": "Brăhăşeştii de Sus",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 27.35
+  },
+  {
+    "name": "Brăhășești",
+    "country": "RO",
+    "lat": 46.03333,
+    "lng": 27.36667
+  },
+  {
+    "name": "Bragadiru",
+    "country": "RO",
+    "lat": 44.37111,
+    "lng": 25.9775
+  },
+  {
+    "name": "Bragadiru",
+    "country": "RO",
+    "lat": 43.76667,
+    "lng": 25.51667
+  },
+  {
+    "name": "Brăeşti",
+    "country": "RO",
+    "lat": 47.86667,
+    "lng": 26.45
+  },
+  {
+    "name": "Brăiești",
+    "country": "RO",
+    "lat": 47.49673,
+    "lng": 26.07182
+  },
+  {
+    "name": "Brăeşti",
+    "country": "RO",
+    "lat": 47.15,
+    "lng": 27.1
+  },
+  {
+    "name": "Brăeşti",
+    "country": "RO",
+    "lat": 45.43333,
+    "lng": 26.5
+  },
+  {
+    "name": "Brăduţ",
+    "country": "RO",
+    "lat": 46.13333,
+    "lng": 25.61667
+  },
+  {
+    "name": "Brăduleţ",
+    "country": "RO",
+    "lat": 45.28333,
+    "lng": 24.76667
+  },
+  {
+    "name": "Bradu",
+    "country": "RO",
+    "lat": 45.72221,
+    "lng": 24.33234
+  },
+  {
+    "name": "Bradu",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 24.9
+  },
+  {
+    "name": "Brădicești",
+    "country": "RO",
+    "lat": 46.8481,
+    "lng": 27.9027
+  },
+  {
+    "name": "Brădeşti",
+    "country": "RO",
+    "lat": 46.35,
+    "lng": 25.35
+  },
+  {
+    "name": "Brădeşti",
+    "country": "RO",
+    "lat": 44.48333,
+    "lng": 23.63333
+  },
+  {
+    "name": "Brădeni",
+    "country": "RO",
+    "lat": 46.08333,
+    "lng": 24.83333
+  },
+  {
+    "name": "Brădeanu",
+    "country": "RO",
+    "lat": 44.93333,
+    "lng": 26.85
+  },
+  {
+    "name": "Brad",
+    "country": "RO",
+    "lat": 46.13333,
+    "lng": 22.78333
+  },
+  {
+    "name": "Brabova",
+    "country": "RO",
+    "lat": 44.36667,
+    "lng": 23.43333
+  },
+  {
+    "name": "Brabeți",
+    "country": "RO",
+    "lat": 43.96098,
+    "lng": 24.01339
+  },
+  {
+    "name": "Brdarica",
+    "country": "RS",
+    "lat": 44.55376,
+    "lng": 19.7715
+  },
+  {
+    "name": "Brasina",
+    "country": "RS",
+    "lat": 44.4652,
+    "lng": 19.15673
+  },
+  {
+    "name": "Bryukhovetskaya",
+    "country": "RU",
+    "lat": 45.79962,
+    "lng": 38.9967
+  },
+  {
+    "name": "Bryansk",
+    "country": "RU",
+    "lat": 53.27096,
+    "lng": 34.32143
+  },
+  {
+    "name": "Brusyanka",
+    "country": "RU",
+    "lat": 53.98492,
+    "lng": 38.03593
+  },
+  {
+    "name": "Bronnitsy",
+    "country": "RU",
+    "lat": 55.42112,
+    "lng": 38.26188
+  },
+  {
+    "name": "Breytovo",
+    "country": "RU",
+    "lat": 58.29925,
+    "lng": 37.86172
+  },
+  {
+    "name": "Bratovshchina",
+    "country": "RU",
+    "lat": 56.05,
+    "lng": 37.88333
+  },
+  {
+    "name": "Brateyevo",
+    "country": "RU",
+    "lat": 55.63755,
+    "lng": 37.76438
+  },
+  {
+    "name": "Brodokalmak",
+    "country": "RU",
+    "lat": 55.5748,
+    "lng": 62.082
+  },
+  {
+    "name": "Bredy",
+    "country": "RU",
+    "lat": 52.41986,
+    "lng": 60.33684
+  },
+  {
+    "name": "Bratsk",
+    "country": "RU",
+    "lat": 56.1325,
+    "lng": 101.61417
+  },
+  {
+    "name": "Brunna",
+    "country": "SE",
+    "lat": 60.26255,
+    "lng": 16.01034
+  },
+  {
+    "name": "Brunna",
+    "country": "SE",
+    "lat": 59.51667,
+    "lng": 17.75
+  },
+  {
+    "name": "Brunn",
+    "country": "SE",
+    "lat": 59.28,
+    "lng": 18.43
+  },
+  {
+    "name": "Brunflo",
+    "country": "SE",
+    "lat": 63.07586,
+    "lng": 14.83203
+  },
+  {
+    "name": "Bromölla",
+    "country": "SE",
+    "lat": 56.07551,
+    "lng": 14.46958
+  },
+  {
+    "name": "Bromma",
+    "country": "SE",
+    "lat": 59.34,
+    "lng": 17.94
+  },
+  {
+    "name": "Broby",
+    "country": "SE",
+    "lat": 56.25521,
+    "lng": 14.07797
+  },
+  {
+    "name": "Bro",
+    "country": "SE",
+    "lat": 59.51667,
+    "lng": 17.63333
+  },
+  {
+    "name": "Brevik",
+    "country": "SE",
+    "lat": 59.35,
+    "lng": 18.2
+  },
+  {
+    "name": "Brevik",
+    "country": "SE",
+    "lat": 59.21667,
+    "lng": 18.38333
+  },
+  {
+    "name": "Bredbyn",
+    "country": "SE",
+    "lat": 63.44655,
+    "lng": 18.11019
+  },
+  {
+    "name": "Bredaryd",
+    "country": "SE",
+    "lat": 57.17343,
+    "lng": 13.73789
+  },
+  {
+    "name": "Brastad",
+    "country": "SE",
+    "lat": 58.38333,
+    "lng": 11.48333
+  },
+  {
+    "name": "Brålanda",
+    "country": "SE",
+    "lat": 58.56344,
+    "lng": 12.34923
+  },
+  {
+    "name": "Bräkne-Hoby",
+    "country": "SE",
+    "lat": 56.23333,
+    "lng": 15.11667
+  },
+  {
+    "name": "Bräcke",
+    "country": "SE",
+    "lat": 62.75067,
+    "lng": 15.42193
+  },
+  {
+    "name": "Braås",
+    "country": "SE",
+    "lat": 57.06667,
+    "lng": 15.05
+  },
+  {
+    "name": "Brickworks Estate",
+    "country": "SG",
+    "lat": 1.28722,
+    "lng": 103.80833
+  },
+  {
+    "name": "Braddell Heights Estate",
+    "country": "SG",
+    "lat": 1.34528,
+    "lng": 103.86528
+  },
+  {
+    "name": "Britof",
+    "country": "SI",
+    "lat": 46.26024,
+    "lng": 14.39037
+  },
+  {
+    "name": "Brezovica pri Ljubljani",
+    "country": "SI",
+    "lat": 46.0233,
+    "lng": 14.41499
+  },
+  {
+    "name": "Breznica",
+    "country": "SI",
+    "lat": 46.39385,
+    "lng": 14.15409
+  },
+  {
+    "name": "Brežice",
+    "country": "SI",
+    "lat": 45.90726,
+    "lng": 15.59319
+  },
+  {
+    "name": "Bresternica",
+    "country": "SI",
+    "lat": 46.56972,
+    "lng": 15.575
+  },
+  {
+    "name": "Braslovče",
+    "country": "SI",
+    "lat": 46.28805,
+    "lng": 15.03983
+  },
+  {
+    "name": "Bratislava - Vajnory",
+    "country": "SK",
+    "lat": 48.20563,
+    "lng": 17.20759
+  },
+  {
+    "name": "Brodské",
+    "country": "SK",
+    "lat": 48.69089,
+    "lng": 17.01448
+  },
+  {
+    "name": "Brezová pod Bradlom",
+    "country": "SK",
+    "lat": 48.66349,
+    "lng": 17.53905
+  },
+  {
+    "name": "Brezno",
+    "country": "SK",
+    "lat": 48.80431,
+    "lng": 19.63631
+  },
+  {
+    "name": "Bratislava",
+    "country": "SK",
+    "lat": 48.14816,
+    "lng": 17.10674
+  },
+  {
+    "name": "Branč",
+    "country": "SK",
+    "lat": 48.21869,
+    "lng": 18.14423
+  },
+  {
+    "name": "Brownsweg",
+    "country": "SR",
+    "lat": 5.00435,
+    "lng": -55.15333
+  },
+  {
+    "name": "Brokopondo",
+    "country": "SR",
+    "lat": 5.05594,
+    "lng": -54.98043
+  },
+  {
+    "name": "Brummānat al Mashāyikh",
+    "country": "SY",
+    "lat": 35.01883,
+    "lng": 36.17083
+  },
+  {
+    "name": "Bryukhovychi",
+    "country": "UA",
+    "lat": 49.90467,
+    "lng": 23.95969
+  },
+  {
+    "name": "Brianka",
+    "country": "UA",
+    "lat": 48.511,
+    "lng": 38.67222
+  },
+  {
+    "name": "Brusyliv",
+    "country": "UA",
+    "lat": 50.28449,
+    "lng": 29.52626
+  },
+  {
+    "name": "Brovary",
+    "country": "UA",
+    "lat": 50.51809,
+    "lng": 30.80671
+  },
+  {
+    "name": "Brovarky",
+    "country": "UA",
+    "lat": 49.36929,
+    "lng": 32.97124
+  },
+  {
+    "name": "Broska",
+    "country": "UA",
+    "lat": 45.36943,
+    "lng": 28.78805
+  },
+  {
+    "name": "Broshniv-Osada",
+    "country": "UA",
+    "lat": 48.99759,
+    "lng": 24.19417
+  },
+  {
+    "name": "Bronka",
+    "country": "UA",
+    "lat": 48.40861,
+    "lng": 23.26984
+  },
+  {
+    "name": "Brody",
+    "country": "UA",
+    "lat": 50.08791,
+    "lng": 25.15027
+  },
+  {
+    "name": "Brodetske",
+    "country": "UA",
+    "lat": 49.75994,
+    "lng": 28.61807
+  },
+  {
+    "name": "Brid",
+    "country": "UA",
+    "lat": 48.34812,
+    "lng": 23.00487
+  },
+  {
+    "name": "Brylivka",
+    "country": "UA",
+    "lat": 46.42025,
+    "lng": 33.14108
+  },
+  {
+    "name": "Bratslav",
+    "country": "UA",
+    "lat": 48.82317,
+    "lng": 28.93827
+  },
+  {
+    "name": "Bratske",
+    "country": "UA",
+    "lat": 47.86664,
+    "lng": 31.57525
+  },
+  {
+    "name": "Brayiliv",
+    "country": "UA",
+    "lat": 49.10671,
+    "lng": 28.16472
+  },
+  {
+    "name": "Brusenky",
+    "country": "UA",
+    "lat": 48.26416,
+    "lng": 25.53425
+  },
+  {
+    "name": "Brusnytsia",
+    "country": "UA",
+    "lat": 48.35601,
+    "lng": 25.61302
+  },
+  {
+    "name": "Bratskoye",
+    "country": "UA",
+    "lat": 45.8317,
+    "lng": 33.92151
+  },
+  {
+    "name": "Brytivka",
+    "country": "UA",
+    "lat": 46.17409,
+    "lng": 30.28009
+  },
+  {
+    "name": "Bratske",
+    "country": "UA",
+    "lat": 46.35641,
+    "lng": 32.1673
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 33.43428,
+    "lng": -86.94721
+  },
+  {
+    "name": "Brent",
+    "country": "US",
+    "lat": 32.93735,
+    "lng": -87.16472
+  },
+  {
+    "name": "Brewton",
+    "country": "US",
+    "lat": 31.10518,
+    "lng": -87.07219
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 34.94758,
+    "lng": -85.71442
+  },
+  {
+    "name": "Brook Highland",
+    "country": "US",
+    "lat": 33.43566,
+    "lng": -86.67388
+  },
+  {
+    "name": "Brookside",
+    "country": "US",
+    "lat": 33.63788,
+    "lng": -86.91666
+  },
+  {
+    "name": "Brookwood",
+    "country": "US",
+    "lat": 33.25567,
+    "lng": -87.32083
+  },
+  {
+    "name": "Brundidge",
+    "country": "US",
+    "lat": 31.72016,
+    "lng": -85.81606
+  },
+  {
+    "name": "Brinkley",
+    "country": "US",
+    "lat": 34.88787,
+    "lng": -91.19457
+  },
+  {
+    "name": "Brookland",
+    "country": "US",
+    "lat": 35.90007,
+    "lng": -90.58205
+  },
+  {
+    "name": "Bryant",
+    "country": "US",
+    "lat": 34.59593,
+    "lng": -92.48905
+  },
+  {
+    "name": "Brentwood Village",
+    "country": "US",
+    "lat": 38.92094,
+    "lng": -76.98442
+  },
+  {
+    "name": "Brightwood",
+    "country": "US",
+    "lat": 38.96122,
+    "lng": -77.02748
+  },
+  {
+    "name": "Brookland",
+    "country": "US",
+    "lat": 38.93289,
+    "lng": -76.98414
+  },
+  {
+    "name": "Bridgeville",
+    "country": "US",
+    "lat": 38.74261,
+    "lng": -75.60437
+  },
+  {
+    "name": "Brookside",
+    "country": "US",
+    "lat": 39.66706,
+    "lng": -75.72688
+  },
+  {
+    "name": "Bradenton",
+    "country": "US",
+    "lat": 27.49893,
+    "lng": -82.57482
+  },
+  {
+    "name": "Bradenton Beach",
+    "country": "US",
+    "lat": 27.46761,
+    "lng": -82.6983
+  },
+  {
+    "name": "Brandon",
+    "country": "US",
+    "lat": 27.9378,
+    "lng": -82.28592
+  },
+  {
+    "name": "Brent",
+    "country": "US",
+    "lat": 30.46881,
+    "lng": -87.23608
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 30.43247,
+    "lng": -84.97702
+  },
+  {
+    "name": "Broadview Park",
+    "country": "US",
+    "lat": 26.09953,
+    "lng": -80.20866
+  },
+  {
+    "name": "Bronson",
+    "country": "US",
+    "lat": 29.44774,
+    "lng": -82.64233
+  },
+  {
+    "name": "Brookridge",
+    "country": "US",
+    "lat": 28.5511,
+    "lng": -82.49204
+  },
+  {
+    "name": "Brooksville",
+    "country": "US",
+    "lat": 28.55554,
+    "lng": -82.38991
+  },
+  {
+    "name": "Broward Estates",
+    "country": "US",
+    "lat": 26.12564,
+    "lng": -80.19338
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 25.82176,
+    "lng": -80.24116
+  },
+  {
+    "name": "Braselton",
+    "country": "US",
+    "lat": 34.10927,
+    "lng": -83.76267
+  },
+  {
+    "name": "Bremen",
+    "country": "US",
+    "lat": 33.72122,
+    "lng": -85.1455
+  },
+  {
+    "name": "Brookhaven",
+    "country": "US",
+    "lat": 33.85844,
+    "lng": -84.3402
+  },
+  {
+    "name": "Brooklet",
+    "country": "US",
+    "lat": 32.37963,
+    "lng": -81.66317
+  },
+  {
+    "name": "Broxton",
+    "country": "US",
+    "lat": 31.62519,
+    "lng": -82.88681
+  },
+  {
+    "name": "Brunswick",
+    "country": "US",
+    "lat": 31.15013,
+    "lng": -81.49147
+  },
+  {
+    "name": "Breese",
+    "country": "US",
+    "lat": 38.6106,
+    "lng": -89.52703
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 38.70588,
+    "lng": -87.76003
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 39.03977,
+    "lng": -90.14066
+  },
+  {
+    "name": "Brazil",
+    "country": "US",
+    "lat": 39.52365,
+    "lng": -87.12502
+  },
+  {
+    "name": "Bright",
+    "country": "US",
+    "lat": 39.21839,
+    "lng": -84.85606
+  },
+  {
+    "name": "Broad Ripple",
+    "country": "US",
+    "lat": 39.86671,
+    "lng": -86.14165
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 39.53921,
+    "lng": -86.36916
+  },
+  {
+    "name": "Brookville",
+    "country": "US",
+    "lat": 39.42311,
+    "lng": -85.01274
+  },
+  {
+    "name": "Brownsburg",
+    "country": "US",
+    "lat": 39.84338,
+    "lng": -86.39777
+  },
+  {
+    "name": "Brownstown",
+    "country": "US",
+    "lat": 38.87894,
+    "lng": -86.04192
+  },
+  {
+    "name": "Brandenburg",
+    "country": "US",
+    "lat": 37.99896,
+    "lng": -86.16941
+  },
+  {
+    "name": "Breckinridge Center",
+    "country": "US",
+    "lat": 37.68282,
+    "lng": -87.86308
+  },
+  {
+    "name": "Brodhead",
+    "country": "US",
+    "lat": 37.40425,
+    "lng": -84.41383
+  },
+  {
+    "name": "Brooks",
+    "country": "US",
+    "lat": 38.06118,
+    "lng": -85.70968
+  },
+  {
+    "name": "Brooksville",
+    "country": "US",
+    "lat": 38.68257,
+    "lng": -84.06576
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 37.19255,
+    "lng": -86.26775
+  },
+  {
+    "name": "Breaux Bridge",
+    "country": "US",
+    "lat": 30.27353,
+    "lng": -91.89928
+  },
+  {
+    "name": "Bridge City",
+    "country": "US",
+    "lat": 29.93326,
+    "lng": -90.17007
+  },
+  {
+    "name": "Broussard",
+    "country": "US",
+    "lat": 30.14715,
+    "lng": -91.96123
+  },
+  {
+    "name": "Brownsfield",
+    "country": "US",
+    "lat": 30.54658,
+    "lng": -91.12066
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 32.48709,
+    "lng": -92.1543
+  },
+  {
+    "name": "Brusly",
+    "country": "US",
+    "lat": 30.39436,
+    "lng": -91.25372
+  },
+  {
+    "name": "Braddock Heights",
+    "country": "US",
+    "lat": 39.41871,
+    "lng": -77.5036
+  },
+  {
+    "name": "Brandywine",
+    "country": "US",
+    "lat": 38.69678,
+    "lng": -76.84775
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 38.94317,
+    "lng": -76.95664
+  },
+  {
+    "name": "Brock Hall",
+    "country": "US",
+    "lat": 38.85011,
+    "lng": -76.76108
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 39.23039,
+    "lng": -76.60219
+  },
+  {
+    "name": "Brooklyn Park",
+    "country": "US",
+    "lat": 39.22844,
+    "lng": -76.61636
+  },
+  {
+    "name": "Brookmont",
+    "country": "US",
+    "lat": 38.94206,
+    "lng": -77.12026
+  },
+  {
+    "name": "Brunswick",
+    "country": "US",
+    "lat": 39.31427,
+    "lng": -77.62777
+  },
+  {
+    "name": "Bryans Road",
+    "country": "US",
+    "lat": 38.62706,
+    "lng": -77.07303
+  },
+  {
+    "name": "Branson",
+    "country": "US",
+    "lat": 36.64367,
+    "lng": -93.21851
+  },
+  {
+    "name": "Breckenridge Hills",
+    "country": "US",
+    "lat": 38.7145,
+    "lng": -90.36734
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 38.61755,
+    "lng": -90.34928
+  },
+  {
+    "name": "Bridgeton",
+    "country": "US",
+    "lat": 38.767,
+    "lng": -90.41151
+  },
+  {
+    "name": "Brookfield",
+    "country": "US",
+    "lat": 39.78447,
+    "lng": -93.07353
+  },
+  {
+    "name": "Brandon",
+    "country": "US",
+    "lat": 32.2732,
+    "lng": -89.98592
+  },
+  {
+    "name": "Brookhaven",
+    "country": "US",
+    "lat": 31.57906,
+    "lng": -90.44065
+  },
+  {
+    "name": "Brooksville",
+    "country": "US",
+    "lat": 33.23457,
+    "lng": -88.58227
+  },
+  {
+    "name": "Bruce",
+    "country": "US",
+    "lat": 33.99206,
+    "lng": -89.34896
+  },
+  {
+    "name": "Brevard",
+    "country": "US",
+    "lat": 35.23345,
+    "lng": -82.73429
+  },
+  {
+    "name": "Brices Creek",
+    "country": "US",
+    "lat": 35.05599,
+    "lng": -77.08773
+  },
+  {
+    "name": "Broad Creek",
+    "country": "US",
+    "lat": 34.72072,
+    "lng": -76.93633
+  },
+  {
+    "name": "Broadway",
+    "country": "US",
+    "lat": 35.45793,
+    "lng": -79.05308
+  },
+  {
+    "name": "Brogden",
+    "country": "US",
+    "lat": 35.29266,
+    "lng": -78.03443
+  },
+  {
+    "name": "Brunswick",
+    "country": "US",
+    "lat": 34.28684,
+    "lng": -78.70113
+  },
+  {
+    "name": "Bryson City",
+    "country": "US",
+    "lat": 35.43127,
+    "lng": -83.44944
+  },
+  {
+    "name": "Brigantine",
+    "country": "US",
+    "lat": 39.41012,
+    "lng": -74.36459
+  },
+  {
+    "name": "Bridgeton",
+    "country": "US",
+    "lat": 39.42734,
+    "lng": -75.23408
+  },
+  {
+    "name": "Brooklawn",
+    "country": "US",
+    "lat": 39.87817,
+    "lng": -75.12073
+  },
+  {
+    "name": "Browns Mills",
+    "country": "US",
+    "lat": 39.97261,
+    "lng": -74.58293
+  },
+  {
+    "name": "Bridgetown",
+    "country": "US",
+    "lat": 39.15311,
+    "lng": -84.63717
+  },
+  {
+    "name": "Brookville",
+    "country": "US",
+    "lat": 39.83672,
+    "lng": -84.41134
+  },
+  {
+    "name": "Bray",
+    "country": "US",
+    "lat": 34.63786,
+    "lng": -97.81753
+  },
+  {
+    "name": "Bristow",
+    "country": "US",
+    "lat": 35.83063,
+    "lng": -96.39112
+  },
+  {
+    "name": "Broken Arrow",
+    "country": "US",
+    "lat": 36.0526,
+    "lng": -95.79082
+  },
+  {
+    "name": "Broken Bow",
+    "country": "US",
+    "lat": 34.02928,
+    "lng": -94.7391
+  },
+  {
+    "name": "Brewerytown",
+    "country": "US",
+    "lat": 39.97706,
+    "lng": -75.18185
+  },
+  {
+    "name": "Brookhaven",
+    "country": "US",
+    "lat": 39.86928,
+    "lng": -75.38241
+  },
+  {
+    "name": "Broomall",
+    "country": "US",
+    "lat": 39.9815,
+    "lng": -75.35658
+  },
+  {
+    "name": "Brookdale",
+    "country": "US",
+    "lat": 33.50682,
+    "lng": -80.82342
+  },
+  {
+    "name": "Bradford",
+    "country": "US",
+    "lat": 36.07645,
+    "lng": -88.81006
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 36.03312,
+    "lng": -86.78278
+  },
+  {
+    "name": "Brentwood Estates",
+    "country": "US",
+    "lat": 36.02506,
+    "lng": -86.77917
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 35.08009,
+    "lng": -86.43916
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 35.48397,
+    "lng": -89.72508
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 36.59511,
+    "lng": -82.18874
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 35.59397,
+    "lng": -89.26229
+  },
+  {
+    "name": "Bruceton",
+    "country": "US",
+    "lat": 36.03812,
+    "lng": -88.24449
+  },
+  {
+    "name": "Brady",
+    "country": "US",
+    "lat": 31.13517,
+    "lng": -99.33506
+  },
+  {
+    "name": "Brazoria",
+    "country": "US",
+    "lat": 29.04441,
+    "lng": -95.56911
+  },
+  {
+    "name": "Breckenridge",
+    "country": "US",
+    "lat": 32.75568,
+    "lng": -98.90229
+  },
+  {
+    "name": "Brenham",
+    "country": "US",
+    "lat": 30.16688,
+    "lng": -96.39774
+  },
+  {
+    "name": "Briar",
+    "country": "US",
+    "lat": 32.99512,
+    "lng": -97.5428
+  },
+  {
+    "name": "Briarcliff",
+    "country": "US",
+    "lat": 30.40742,
+    "lng": -98.04446
+  },
+  {
+    "name": "Bridge City",
+    "country": "US",
+    "lat": 30.02077,
+    "lng": -93.84573
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 33.21012,
+    "lng": -97.75476
+  },
+  {
+    "name": "Brookshire",
+    "country": "US",
+    "lat": 29.78606,
+    "lng": -95.95107
+  },
+  {
+    "name": "Brookside Village",
+    "country": "US",
+    "lat": 29.5869,
+    "lng": -95.32522
+  },
+  {
+    "name": "Brownsboro",
+    "country": "US",
+    "lat": 32.30237,
+    "lng": -95.61357
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 25.90175,
+    "lng": -97.49748
+  },
+  {
+    "name": "Bruceville-Eddy",
+    "country": "US",
+    "lat": 31.30517,
+    "lng": -97.25167
+  },
+  {
+    "name": "Brownwood",
+    "country": "US",
+    "lat": 31.70932,
+    "lng": -98.99116
+  },
+  {
+    "name": "Brushy Creek",
+    "country": "US",
+    "lat": 30.51353,
+    "lng": -97.73973
+  },
+  {
+    "name": "Bryan",
+    "country": "US",
+    "lat": 30.67436,
+    "lng": -96.36996
+  },
+  {
+    "name": "Bracey",
+    "country": "US",
+    "lat": 36.59959,
+    "lng": -78.14305
+  },
+  {
+    "name": "Brambleton",
+    "country": "US",
+    "lat": 38.98205,
+    "lng": -77.5386
+  },
+  {
+    "name": "Brandermill",
+    "country": "US",
+    "lat": 37.43209,
+    "lng": -77.64971
+  },
+  {
+    "name": "Bridgewater",
+    "country": "US",
+    "lat": 38.38207,
+    "lng": -78.9767
+  },
+  {
+    "name": "Brightwood",
+    "country": "US",
+    "lat": 38.42152,
+    "lng": -78.19361
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 36.59649,
+    "lng": -82.18847
+  },
+  {
+    "name": "Bristow",
+    "country": "US",
+    "lat": 38.72289,
+    "lng": -77.5361
+  },
+  {
+    "name": "Broadlands",
+    "country": "US",
+    "lat": 39.01816,
+    "lng": -77.52027
+  },
+  {
+    "name": "Broadway",
+    "country": "US",
+    "lat": 38.61317,
+    "lng": -78.79891
+  },
+  {
+    "name": "Brookneal",
+    "country": "US",
+    "lat": 37.05014,
+    "lng": -78.94418
+  },
+  {
+    "name": "Bradley",
+    "country": "US",
+    "lat": 37.86539,
+    "lng": -81.19399
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 39.28648,
+    "lng": -80.2562
+  },
+  {
+    "name": "Brookhaven",
+    "country": "US",
+    "lat": 39.61175,
+    "lng": -79.90451
+  },
+  {
+    "name": "Brush Fork",
+    "country": "US",
+    "lat": 37.28095,
+    "lng": -81.25593
+  },
+  {
+    "name": "Bremen",
+    "country": "US",
+    "lat": 39.70173,
+    "lng": -82.42682
+  },
+  {
+    "name": "Brussels",
+    "country": "US",
+    "lat": 44.73611,
+    "lng": -87.62093
+  },
+  {
+    "name": "Britt",
+    "country": "US",
+    "lat": 43.09774,
+    "lng": -93.80189
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 41.73361,
+    "lng": -92.44546
+  },
+  {
+    "name": "Bradley",
+    "country": "US",
+    "lat": 41.14198,
+    "lng": -87.86115
+  },
+  {
+    "name": "Braidwood",
+    "country": "US",
+    "lat": 41.26503,
+    "lng": -88.21228
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 41.83809,
+    "lng": -87.65116
+  },
+  {
+    "name": "Bridgeview",
+    "country": "US",
+    "lat": 41.75003,
+    "lng": -87.80422
+  },
+  {
+    "name": "Brighton Park",
+    "country": "US",
+    "lat": 41.81892,
+    "lng": -87.69894
+  },
+  {
+    "name": "Broadview",
+    "country": "US",
+    "lat": 41.86392,
+    "lng": -87.85339
+  },
+  {
+    "name": "Brookfield",
+    "country": "US",
+    "lat": 41.82392,
+    "lng": -87.85173
+  },
+  {
+    "name": "Bremen",
+    "country": "US",
+    "lat": 41.44644,
+    "lng": -86.14806
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 41.72144,
+    "lng": -85.81749
+  },
+  {
+    "name": "Brookston",
+    "country": "US",
+    "lat": 40.60281,
+    "lng": -86.86723
+  },
+  {
+    "name": "Brewster",
+    "country": "US",
+    "lat": 41.76011,
+    "lng": -70.0828
+  },
+  {
+    "name": "Bridgewater",
+    "country": "US",
+    "lat": 41.99038,
+    "lng": -70.97504
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 42.3501,
+    "lng": -71.15644
+  },
+  {
+    "name": "Brimfield",
+    "country": "US",
+    "lat": 42.12287,
+    "lng": -72.20091
+  },
+  {
+    "name": "Brockton",
+    "country": "US",
+    "lat": 42.08343,
+    "lng": -71.01838
+  },
+  {
+    "name": "Brookline",
+    "country": "US",
+    "lat": 42.33176,
+    "lng": -71.12116
+  },
+  {
+    "name": "Bradford",
+    "country": "US",
+    "lat": 45.06673,
+    "lng": -68.93781
+  },
+  {
+    "name": "Bradley",
+    "country": "US",
+    "lat": 44.9209,
+    "lng": -68.62809
+  },
+  {
+    "name": "Brewer",
+    "country": "US",
+    "lat": 44.79674,
+    "lng": -68.76142
+  },
+  {
+    "name": "Bridgton",
+    "country": "US",
+    "lat": 44.05479,
+    "lng": -70.71284
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 43.95758,
+    "lng": -69.50921
+  },
+  {
+    "name": "Brooks",
+    "country": "US",
+    "lat": 44.55035,
+    "lng": -69.12087
+  },
+  {
+    "name": "Brownfield",
+    "country": "US",
+    "lat": 43.93813,
+    "lng": -70.90868
+  },
+  {
+    "name": "Brownville",
+    "country": "US",
+    "lat": 45.307,
+    "lng": -69.03337
+  },
+  {
+    "name": "Brunswick",
+    "country": "US",
+    "lat": 43.91452,
+    "lng": -69.96533
+  },
+  {
+    "name": "Breckenridge",
+    "country": "US",
+    "lat": 43.40808,
+    "lng": -84.475
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 43.35947,
+    "lng": -83.88164
+  },
+  {
+    "name": "Bridgman",
+    "country": "US",
+    "lat": 41.9431,
+    "lng": -86.55697
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 42.52948,
+    "lng": -83.78022
+  },
+  {
+    "name": "Bronson",
+    "country": "US",
+    "lat": 41.87227,
+    "lng": -85.1947
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 42.10587,
+    "lng": -84.24828
+  },
+  {
+    "name": "Brown City",
+    "country": "US",
+    "lat": 43.21225,
+    "lng": -82.98966
+  },
+  {
+    "name": "Brownlee Park",
+    "country": "US",
+    "lat": 42.31893,
+    "lng": -85.14249
+  },
+  {
+    "name": "Braham",
+    "country": "US",
+    "lat": 45.72274,
+    "lng": -93.17078
+  },
+  {
+    "name": "Brainerd",
+    "country": "US",
+    "lat": 46.35802,
+    "lng": -94.20083
+  },
+  {
+    "name": "Branch",
+    "country": "US",
+    "lat": 45.48524,
+    "lng": -92.96188
+  },
+  {
+    "name": "Breckenridge",
+    "country": "US",
+    "lat": 46.26357,
+    "lng": -96.58813
+  },
+  {
+    "name": "Breezy Point",
+    "country": "US",
+    "lat": 46.59001,
+    "lng": -94.21982
+  },
+  {
+    "name": "Brooklyn Center",
+    "country": "US",
+    "lat": 45.07608,
+    "lng": -93.33273
+  },
+  {
+    "name": "Brooklyn Park",
+    "country": "US",
+    "lat": 45.09413,
+    "lng": -93.35634
+  },
+  {
+    "name": "Brewster",
+    "country": "US",
+    "lat": 41.93889,
+    "lng": -99.86485
+  },
+  {
+    "name": "Broken Bow",
+    "country": "US",
+    "lat": 41.40195,
+    "lng": -99.63928
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 42.9787,
+    "lng": -71.07284
+  },
+  {
+    "name": "Bridgewater",
+    "country": "US",
+    "lat": 43.63841,
+    "lng": -71.73647
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 43.59119,
+    "lng": -71.73675
+  },
+  {
+    "name": "Brookline",
+    "country": "US",
+    "lat": 42.73481,
+    "lng": -71.65813
+  },
+  {
+    "name": "Bradley Beach",
+    "country": "US",
+    "lat": 40.20234,
+    "lng": -74.01208
+  },
+  {
+    "name": "Bradley Gardens",
+    "country": "US",
+    "lat": 40.56288,
+    "lng": -74.6546
+  },
+  {
+    "name": "Brass Castle",
+    "country": "US",
+    "lat": 40.76482,
+    "lng": -75.01101
+  },
+  {
+    "name": "Brick",
+    "country": "US",
+    "lat": 40.05928,
+    "lng": -74.13708
+  },
+  {
+    "name": "Brielle",
+    "country": "US",
+    "lat": 40.10789,
+    "lng": -74.05653
+  },
+  {
+    "name": "Brownville",
+    "country": "US",
+    "lat": 40.40066,
+    "lng": -74.29515
+  },
+  {
+    "name": "Brookdale",
+    "country": "US",
+    "lat": 40.83371,
+    "lng": -74.18292
+  },
+  {
+    "name": "Braman Corners",
+    "country": "US",
+    "lat": 42.80869,
+    "lng": -74.21874
+  },
+  {
+    "name": "Branchport",
+    "country": "US",
+    "lat": 42.59868,
+    "lng": -77.15386
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 40.78121,
+    "lng": -73.24623
+  },
+  {
+    "name": "Brewerton",
+    "country": "US",
+    "lat": 43.23812,
+    "lng": -76.14076
+  },
+  {
+    "name": "Brewster",
+    "country": "US",
+    "lat": 41.39732,
+    "lng": -73.61707
+  },
+  {
+    "name": "Brewster Hill",
+    "country": "US",
+    "lat": 41.42398,
+    "lng": -73.60429
+  },
+  {
+    "name": "Briarcliff Manor",
+    "country": "US",
+    "lat": 41.14565,
+    "lng": -73.82375
+  },
+  {
+    "name": "Bridgehampton",
+    "country": "US",
+    "lat": 40.93788,
+    "lng": -72.30092
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 43.15535,
+    "lng": -75.96936
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 42.9159,
+    "lng": -76.75245
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 43.14756,
+    "lng": -77.55055
+  },
+  {
+    "name": "Brighton Beach",
+    "country": "US",
+    "lat": 40.57788,
+    "lng": -73.95958
+  },
+  {
+    "name": "Brightwaters",
+    "country": "US",
+    "lat": 40.72093,
+    "lng": -73.26734
+  },
+  {
+    "name": "Brinckerhoff",
+    "country": "US",
+    "lat": 41.54398,
+    "lng": -73.86819
+  },
+  {
+    "name": "Broad Channel",
+    "country": "US",
+    "lat": 40.60316,
+    "lng": -73.82041
+  },
+  {
+    "name": "Broadalbin",
+    "country": "US",
+    "lat": 43.05868,
+    "lng": -74.19652
+  },
+  {
+    "name": "Brockport",
+    "country": "US",
+    "lat": 43.21367,
+    "lng": -77.93918
+  },
+  {
+    "name": "Brocton",
+    "country": "US",
+    "lat": 42.38867,
+    "lng": -79.44116
+  },
+  {
+    "name": "Bronxville",
+    "country": "US",
+    "lat": 40.93815,
+    "lng": -73.83208
+  },
+  {
+    "name": "Brookhaven",
+    "country": "US",
+    "lat": 40.77927,
+    "lng": -72.91538
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 40.6501,
+    "lng": -73.94958
+  },
+  {
+    "name": "Brooklyn Heights",
+    "country": "US",
+    "lat": 40.69538,
+    "lng": -73.99375
+  },
+  {
+    "name": "Brookville",
+    "country": "US",
+    "lat": 40.81316,
+    "lng": -73.56735
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 40.66094,
+    "lng": -73.92014
+  },
+  {
+    "name": "Brownville",
+    "country": "US",
+    "lat": 44.007,
+    "lng": -75.98409
+  },
+  {
+    "name": "Brownville",
+    "country": "US",
+    "lat": 41.79982,
+    "lng": -74.38071
+  },
+  {
+    "name": "Bradford",
+    "country": "US",
+    "lat": 40.13227,
+    "lng": -84.43078
+  },
+  {
+    "name": "Bradner",
+    "country": "US",
+    "lat": 41.32422,
+    "lng": -83.43854
+  },
+  {
+    "name": "Bratenahl",
+    "country": "US",
+    "lat": 41.54255,
+    "lng": -81.62624
+  },
+  {
+    "name": "Brecksville",
+    "country": "US",
+    "lat": 41.31978,
+    "lng": -81.62679
+  },
+  {
+    "name": "Brewster",
+    "country": "US",
+    "lat": 40.707,
+    "lng": -81.59818
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 40.06979,
+    "lng": -80.74008
+  },
+  {
+    "name": "Brilliant",
+    "country": "US",
+    "lat": 40.26479,
+    "lng": -80.62619
+  },
+  {
+    "name": "Brimfield",
+    "country": "US",
+    "lat": 41.10006,
+    "lng": -81.3465
+  },
+  {
+    "name": "Broadview Heights",
+    "country": "US",
+    "lat": 41.31394,
+    "lng": -81.68513
+  },
+  {
+    "name": "Brook Park",
+    "country": "US",
+    "lat": 41.39838,
+    "lng": -81.80458
+  },
+  {
+    "name": "Brookfield Center",
+    "country": "US",
+    "lat": 41.24061,
+    "lng": -80.55785
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 41.43977,
+    "lng": -81.73541
+  },
+  {
+    "name": "Brooklyn Heights",
+    "country": "US",
+    "lat": 41.42533,
+    "lng": -81.68818
+  },
+  {
+    "name": "Brunswick",
+    "country": "US",
+    "lat": 41.23811,
+    "lng": -81.8418
+  },
+  {
+    "name": "Bryan",
+    "country": "US",
+    "lat": 41.47477,
+    "lng": -84.55245
+  },
+  {
+    "name": "Brackenridge",
+    "country": "US",
+    "lat": 40.60812,
+    "lng": -79.74116
+  },
+  {
+    "name": "Braddock",
+    "country": "US",
+    "lat": 40.4034,
+    "lng": -79.86838
+  },
+  {
+    "name": "Braddock Hills",
+    "country": "US",
+    "lat": 40.41729,
+    "lng": -79.86505
+  },
+  {
+    "name": "Bradford",
+    "country": "US",
+    "lat": 41.9559,
+    "lng": -78.64392
+  },
+  {
+    "name": "Bradford Woods",
+    "country": "US",
+    "lat": 40.63757,
+    "lng": -80.08172
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 40.37063,
+    "lng": -79.97477
+  },
+  {
+    "name": "Bressler",
+    "country": "US",
+    "lat": 40.22953,
+    "lng": -76.81997
+  },
+  {
+    "name": "Breinigsville",
+    "country": "US",
+    "lat": 40.53676,
+    "lng": -75.6313
+  },
+  {
+    "name": "Brickerville",
+    "country": "US",
+    "lat": 40.22593,
+    "lng": -76.30246
+  },
+  {
+    "name": "Bridesburg",
+    "country": "US",
+    "lat": 40.00039,
+    "lng": -75.06962
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 40.10511,
+    "lng": -75.34518
+  },
+  {
+    "name": "Bridgeville",
+    "country": "US",
+    "lat": 40.35618,
+    "lng": -80.11006
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 40.10067,
+    "lng": -74.85183
+  },
+  {
+    "name": "Brockway",
+    "country": "US",
+    "lat": 41.24923,
+    "lng": -78.79947
+  },
+  {
+    "name": "Brodheadsville",
+    "country": "US",
+    "lat": 40.92454,
+    "lng": -75.39379
+  },
+  {
+    "name": "Brookville",
+    "country": "US",
+    "lat": 41.16117,
+    "lng": -79.08309
+  },
+  {
+    "name": "Brownstown",
+    "country": "US",
+    "lat": 40.12371,
+    "lng": -76.21384
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 40.02369,
+    "lng": -79.88394
+  },
+  {
+    "name": "Browntown",
+    "country": "US",
+    "lat": 41.3098,
+    "lng": -75.78742
+  },
+  {
+    "name": "Bryn Athyn",
+    "country": "US",
+    "lat": 40.1315,
+    "lng": -75.06739
+  },
+  {
+    "name": "Bryn Mawr",
+    "country": "US",
+    "lat": 40.30396,
+    "lng": -80.08672
+  },
+  {
+    "name": "Bryn Mawr",
+    "country": "US",
+    "lat": 40.01983,
+    "lng": -75.30463
+  },
+  {
+    "name": "Bradford",
+    "country": "US",
+    "lat": 41.39899,
+    "lng": -71.73701
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 41.67705,
+    "lng": -71.26616
+  },
+  {
+    "name": "Brandon",
+    "country": "US",
+    "lat": 43.5947,
+    "lng": -96.57199
+  },
+  {
+    "name": "Britton",
+    "country": "US",
+    "lat": 45.79162,
+    "lng": -97.75094
+  },
+  {
+    "name": "Brookings",
+    "country": "US",
+    "lat": 44.31136,
+    "lng": -96.79839
+  },
+  {
+    "name": "Bridport",
+    "country": "US",
+    "lat": 43.98506,
+    "lng": -73.31262
+  },
+  {
+    "name": "Brandon",
+    "country": "US",
+    "lat": 43.79812,
+    "lng": -73.08761
+  },
+  {
+    "name": "Brattleboro",
+    "country": "US",
+    "lat": 42.85092,
+    "lng": -72.55787
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 44.13339,
+    "lng": -73.07901
+  },
+  {
+    "name": "Brice Prairie",
+    "country": "US",
+    "lat": 43.93857,
+    "lng": -91.29986
+  },
+  {
+    "name": "Brillion",
+    "country": "US",
+    "lat": 44.17721,
+    "lng": -88.06427
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 42.55891,
+    "lng": -88.04925
+  },
+  {
+    "name": "Brodhead",
+    "country": "US",
+    "lat": 42.61834,
+    "lng": -89.37623
+  },
+  {
+    "name": "Brookfield",
+    "country": "US",
+    "lat": 43.06057,
+    "lng": -88.10648
+  },
+  {
+    "name": "Brooklyn",
+    "country": "US",
+    "lat": 42.85361,
+    "lng": -89.3704
+  },
+  {
+    "name": "Brothertown",
+    "country": "US",
+    "lat": 43.96805,
+    "lng": -88.30899
+  },
+  {
+    "name": "Brown Deer",
+    "country": "US",
+    "lat": 43.16334,
+    "lng": -87.96453
+  },
+  {
+    "name": "Browns Lake",
+    "country": "US",
+    "lat": 42.69252,
+    "lng": -88.2312
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 41.17923,
+    "lng": -73.18945
+  },
+  {
+    "name": "Bristol",
+    "country": "US",
+    "lat": 41.67176,
+    "lng": -72.94927
+  },
+  {
+    "name": "Branford",
+    "country": "US",
+    "lat": 41.27954,
+    "lng": -72.8151
+  },
+  {
+    "name": "Bradbury",
+    "country": "US",
+    "lat": 34.14695,
+    "lng": -117.9709
+  },
+  {
+    "name": "Brawley",
+    "country": "US",
+    "lat": 32.97866,
+    "lng": -115.53027
+  },
+  {
+    "name": "Brea",
+    "country": "US",
+    "lat": 33.91668,
+    "lng": -117.90006
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 37.93187,
+    "lng": -121.69579
+  },
+  {
+    "name": "Brentwood",
+    "country": "US",
+    "lat": 34.05195,
+    "lng": -118.47397
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 38.25575,
+    "lng": -119.23127
+  },
+  {
+    "name": "Brisbane",
+    "country": "US",
+    "lat": 37.68077,
+    "lng": -122.39997
+  },
+  {
+    "name": "Broadmoor",
+    "country": "US",
+    "lat": 37.6866,
+    "lng": -122.48275
+  },
+  {
+    "name": "Brookdale",
+    "country": "US",
+    "lat": 37.10634,
+    "lng": -122.10608
+  },
+  {
+    "name": "Brooktrails",
+    "country": "US",
+    "lat": 39.44377,
+    "lng": -123.38529
+  },
+  {
+    "name": "Breckenridge",
+    "country": "US",
+    "lat": 39.48165,
+    "lng": -106.03835
+  },
+  {
+    "name": "Brighton",
+    "country": "US",
+    "lat": 39.98526,
+    "lng": -104.82053
+  },
+  {
+    "name": "Broomfield",
+    "country": "US",
+    "lat": 39.92054,
+    "lng": -105.08665
+  },
+  {
+    "name": "Brackettville",
+    "country": "US",
+    "lat": 29.31051,
+    "lng": -100.41786
+  },
+  {
+    "name": "Brownfield",
+    "country": "US",
+    "lat": 33.1812,
+    "lng": -102.27435
+  },
+  {
+    "name": "Brush",
+    "country": "US",
+    "lat": 40.25887,
+    "lng": -103.62384
+  },
+  {
+    "name": "Broadus",
+    "country": "US",
+    "lat": 45.44387,
+    "lng": -105.41133
+  },
+  {
+    "name": "Browning",
+    "country": "US",
+    "lat": 48.55692,
+    "lng": -113.01342
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 41.66525,
+    "lng": -103.0991
+  },
+  {
+    "name": "Brookings",
+    "country": "US",
+    "lat": 42.05261,
+    "lng": -124.28398
+  },
+  {
+    "name": "Brownsville",
+    "country": "US",
+    "lat": 44.39346,
+    "lng": -122.98481
+  },
+  {
+    "name": "Brigham City",
+    "country": "US",
+    "lat": 41.51021,
+    "lng": -112.0155
+  },
+  {
+    "name": "Bremerton",
+    "country": "US",
+    "lat": 47.56732,
+    "lng": -122.63264
+  },
+  {
+    "name": "Brewster",
+    "country": "US",
+    "lat": 48.09598,
+    "lng": -119.78062
+  },
+  {
+    "name": "Bridgeport",
+    "country": "US",
+    "lat": 48.0082,
+    "lng": -119.67116
+  },
+  {
+    "name": "Brier",
+    "country": "US",
+    "lat": 47.78454,
+    "lng": -122.27429
+  },
+  {
+    "name": "Browns Point",
+    "country": "US",
+    "lat": 47.30038,
+    "lng": -122.44124
+  },
+  {
+    "name": "Brush Prairie",
+    "country": "US",
+    "lat": 45.73289,
+    "lng": -122.54649
+  },
+  {
+    "name": "Bryant",
+    "country": "US",
+    "lat": 48.23899,
+    "lng": -122.15792
+  },
+  {
+    "name": "Briarwood",
+    "country": "US",
+    "lat": 40.70935,
+    "lng": -73.81529
+  },
+  {
+    "name": "Braintree",
+    "country": "US",
+    "lat": 42.20384,
+    "lng": -71.00215
+  },
+  {
+    "name": "Branford Center",
+    "country": "US",
+    "lat": 41.27738,
+    "lng": -72.81511
+  },
+  {
+    "name": "Brittany Farms-Highlands",
+    "country": "US",
+    "lat": 40.26901,
+    "lng": -75.21401
+  },
+  {
+    "name": "Bret Harte",
+    "country": "US",
+    "lat": 37.60207,
+    "lng": -121.00519
+  },
+  {
+    "name": "Bryn Mawr-Skyway",
+    "country": "US",
+    "lat": 47.4943,
+    "lng": -122.24092
+  },
+  {
+    "name": "Bridgewater",
+    "country": "US",
+    "lat": 40.60079,
+    "lng": -74.64815
+  },
+  {
+    "name": "Brewers Hill",
+    "country": "US",
+    "lat": 39.28417,
+    "lng": -76.56462
+  },
+  {
+    "name": "Bridgeview/Greenlawn",
+    "country": "US",
+    "lat": 39.30151,
+    "lng": -76.65466
+  },
+  {
+    "name": "Broadway East",
+    "country": "US",
+    "lat": 39.30846,
+    "lng": -76.58882
+  },
+  {
+    "name": "Broening Manor",
+    "country": "US",
+    "lat": 39.27424,
+    "lng": -76.53783
+  },
+  {
+    "name": "Brook Farm",
+    "country": "US",
+    "lat": 42.28859,
+    "lng": -71.16303
+  },
+  {
+    "name": "Briar Chapel",
+    "country": "US",
+    "lat": 35.82417,
+    "lng": -79.11694
+  },
+  {
+    "name": "Bruzual",
+    "country": "VE",
+    "lat": 8.05052,
+    "lng": -69.33257
+  },
+  {
+    "name": "Bradash",
+    "country": "XK",
+    "lat": 42.94028,
+    "lng": 21.13806
+  },
+  {
+    "name": "Bronkhorstspruit",
+    "country": "ZA",
+    "lat": -25.81015,
+    "lng": 28.74248
+  },
+  {
+    "name": "Brits",
+    "country": "ZA",
+    "lat": -25.63473,
+    "lng": 27.78022
+  },
+  {
+    "name": "Breyten",
+    "country": "ZA",
+    "lat": -26.30176,
+    "lng": 29.98696
+  },
+  {
+    "name": "Bredasdorp",
+    "country": "ZA",
+    "lat": -34.53215,
+    "lng": 20.04031
+  },
+  {
+    "name": "Brandwag",
+    "country": "ZA",
+    "lat": -34.06501,
+    "lng": 22.06257
+  },
+  {
+    "name": "Brandvlei",
+    "country": "ZA",
+    "lat": -30.46532,
+    "lng": 20.48659
+  },
+  {
+    "name": "Brakpan",
+    "country": "ZA",
+    "lat": -26.23656,
+    "lng": 28.36938
+  },
+  {
+    "name": "Brandvlei",
+    "country": "ZA",
+    "lat": -33.73333,
+    "lng": 19.4
+  },
+  {
+    "name": "Bray",
+    "country": "ZA",
+    "lat": -25.46145,
+    "lng": 23.69713
+  }
+]

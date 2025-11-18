@@ -1,0 +1,6944 @@
+[
+  {
+    "name": "Downtown Dubai",
+    "country": "AE",
+    "lat": 25.19408,
+    "lng": 55.2781
+  },
+  {
+    "name": "Dowlatyār",
+    "country": "AF",
+    "lat": 34.55132,
+    "lng": 65.79302
+  },
+  {
+    "name": "Dowlat Shāh",
+    "country": "AF",
+    "lat": 34.9504,
+    "lng": 70.07102
+  },
+  {
+    "name": "Dowlatābād",
+    "country": "AF",
+    "lat": 36.98821,
+    "lng": 66.82069
+  },
+  {
+    "name": "Dowlatābād",
+    "country": "AF",
+    "lat": 36.43259,
+    "lng": 64.92071
+  },
+  {
+    "name": "Dowr-e Rabāţ",
+    "country": "AF",
+    "lat": 36.69132,
+    "lng": 68.79093
+  },
+  {
+    "name": "Doghs",
+    "country": "AM",
+    "lat": 40.22229,
+    "lng": 44.27228
+  },
+  {
+    "name": "Dondo",
+    "country": "AO",
+    "lat": -9.68456,
+    "lng": 14.42788
+  },
+  {
+    "name": "Dondo",
+    "country": "AO",
+    "lat": -9.05,
+    "lng": 15.31667
+  },
+  {
+    "name": "Dombe Grande",
+    "country": "AO",
+    "lat": -12.95167,
+    "lng": 13.1025
+  },
+  {
+    "name": "Dos de Mayo",
+    "country": "AR",
+    "lat": -27.01998,
+    "lng": -54.68462
+  },
+  {
+    "name": "Dos Arroyos",
+    "country": "AR",
+    "lat": -27.69946,
+    "lng": -55.25207
+  },
+  {
+    "name": "Don Torcuato",
+    "country": "AR",
+    "lat": -34.49459,
+    "lng": -58.62729
+  },
+  {
+    "name": "Dolores",
+    "country": "AR",
+    "lat": -36.31539,
+    "lng": -57.67546
+  },
+  {
+    "name": "Dolavón",
+    "country": "AR",
+    "lat": -43.30684,
+    "lng": -65.70651
+  },
+  {
+    "name": "Doblas",
+    "country": "AR",
+    "lat": -37.15047,
+    "lng": -64.01153
+  },
+  {
+    "name": "Dornbirn",
+    "country": "AT",
+    "lat": 47.41427,
+    "lng": 9.74195
+  },
+  {
+    "name": "Dorfstetten",
+    "country": "AT",
+    "lat": 48.32573,
+    "lng": 14.98218
+  },
+  {
+    "name": "Dorfgastein",
+    "country": "AT",
+    "lat": 47.24172,
+    "lng": 13.10223
+  },
+  {
+    "name": "Dorfbeuern",
+    "country": "AT",
+    "lat": 48.01667,
+    "lng": 13.01667
+  },
+  {
+    "name": "Doren",
+    "country": "AT",
+    "lat": 47.49278,
+    "lng": 9.87972
+  },
+  {
+    "name": "Doppl",
+    "country": "AT",
+    "lat": 48.24811,
+    "lng": 14.25416
+  },
+  {
+    "name": "Donnerskirchen",
+    "country": "AT",
+    "lat": 47.89425,
+    "lng": 16.64635
+  },
+  {
+    "name": "Donnersbach",
+    "country": "AT",
+    "lat": 47.46139,
+    "lng": 14.12972
+  },
+  {
+    "name": "Donawitz",
+    "country": "AT",
+    "lat": 47.36667,
+    "lng": 15.06667
+  },
+  {
+    "name": "Dobersberg",
+    "country": "AT",
+    "lat": 48.9151,
+    "lng": 15.32188
+  },
+  {
+    "name": "Doppl",
+    "country": "AT",
+    "lat": 48.28245,
+    "lng": 14.56851
+  },
+  {
+    "name": "Donaustadt",
+    "country": "AT",
+    "lat": 48.2333,
+    "lng": 16.46002
+  },
+  {
+    "name": "Donnybrook",
+    "country": "AU",
+    "lat": -33.5713,
+    "lng": 115.82446
+  },
+  {
+    "name": "Dongara",
+    "country": "AU",
+    "lat": -29.238,
+    "lng": 114.927
+  },
+  {
+    "name": "Douglas Park",
+    "country": "AU",
+    "lat": -34.18496,
+    "lng": 150.71449
+  },
+  {
+    "name": "Dorrigo",
+    "country": "AU",
+    "lat": -30.34112,
+    "lng": 152.71394
+  },
+  {
+    "name": "Doreen",
+    "country": "AU",
+    "lat": -37.6,
+    "lng": 145.15
+  },
+  {
+    "name": "Dora Creek",
+    "country": "AU",
+    "lat": -33.08139,
+    "lng": 151.49677
+  },
+  {
+    "name": "Doonside",
+    "country": "AU",
+    "lat": -33.76667,
+    "lng": 150.86667
+  },
+  {
+    "name": "Donvale",
+    "country": "AU",
+    "lat": -37.7891,
+    "lng": 145.17488
+  },
+  {
+    "name": "Doncaster East",
+    "country": "AU",
+    "lat": -37.78761,
+    "lng": 145.14888
+  },
+  {
+    "name": "Doncaster",
+    "country": "AU",
+    "lat": -37.78828,
+    "lng": 145.12373
+  },
+  {
+    "name": "Donald",
+    "country": "AU",
+    "lat": -36.36864,
+    "lng": 142.98106
+  },
+  {
+    "name": "Dover Heights",
+    "country": "AU",
+    "lat": -33.87083,
+    "lng": 151.27917
+  },
+  {
+    "name": "Doonan",
+    "country": "AU",
+    "lat": -26.43964,
+    "lng": 152.99204
+  },
+  {
+    "name": "Docklands",
+    "country": "AU",
+    "lat": -37.8149,
+    "lng": 144.95052
+  },
+  {
+    "name": "Dodges Ferry",
+    "country": "AU",
+    "lat": -42.85315,
+    "lng": 147.62263
+  },
+  {
+    "name": "Doomadgee",
+    "country": "AU",
+    "lat": -17.9435,
+    "lng": 138.82719
+  },
+  {
+    "name": "Doveton",
+    "country": "AU",
+    "lat": -37.99346,
+    "lng": 145.23891
+  },
+  {
+    "name": "Dover Gardens",
+    "country": "AU",
+    "lat": -35.024,
+    "lng": 138.53695
+  },
+  {
+    "name": "Douglas",
+    "country": "AU",
+    "lat": -19.32394,
+    "lng": 146.75234
+  },
+  {
+    "name": "Downer",
+    "country": "AU",
+    "lat": -35.24457,
+    "lng": 149.14468
+  },
+  {
+    "name": "Doubleview",
+    "country": "AU",
+    "lat": -31.89627,
+    "lng": 115.78155
+  },
+  {
+    "name": "Double Bay",
+    "country": "AU",
+    "lat": -33.87782,
+    "lng": 151.24354
+  },
+  {
+    "name": "Doolandella",
+    "country": "AU",
+    "lat": -27.61328,
+    "lng": 152.98547
+  },
+  {
+    "name": "Dolls Point",
+    "country": "AU",
+    "lat": -33.99341,
+    "lng": 151.14474
+  },
+  {
+    "name": "Dondar Quşçu",
+    "country": "AZ",
+    "lat": 40.9539,
+    "lng": 45.61942
+  },
+  {
+    "name": "Dolyar",
+    "country": "AZ",
+    "lat": 40.86278,
+    "lng": 46.03493
+  },
+  {
+    "name": "Donji Žabar",
+    "country": "BA",
+    "lat": 44.94317,
+    "lng": 18.64673
+  },
+  {
+    "name": "Donji Vakuf",
+    "country": "BA",
+    "lat": 44.14361,
+    "lng": 17.4
+  },
+  {
+    "name": "Donji Dubovik",
+    "country": "BA",
+    "lat": 44.89021,
+    "lng": 16.3251
+  },
+  {
+    "name": "Donja Međiđa",
+    "country": "BA",
+    "lat": 44.80235,
+    "lng": 18.40477
+  },
+  {
+    "name": "Donja Mahala",
+    "country": "BA",
+    "lat": 45.04327,
+    "lng": 18.66996
+  },
+  {
+    "name": "Donja Dubica",
+    "country": "BA",
+    "lat": 45.07559,
+    "lng": 18.41023
+  },
+  {
+    "name": "Domaljevac",
+    "country": "BA",
+    "lat": 45.0611,
+    "lng": 18.58612
+  },
+  {
+    "name": "Dobrljin",
+    "country": "BA",
+    "lat": 45.15106,
+    "lng": 16.47869
+  },
+  {
+    "name": "Dobrinje",
+    "country": "BA",
+    "lat": 44.05008,
+    "lng": 18.11958
+  },
+  {
+    "name": "Doboj",
+    "country": "BA",
+    "lat": 44.73179,
+    "lng": 18.08698
+  },
+  {
+    "name": "Dobratići",
+    "country": "BA",
+    "lat": 44.37792,
+    "lng": 17.41426
+  },
+  {
+    "name": "Dohār",
+    "country": "BD",
+    "lat": 23.59311,
+    "lng": 90.14251
+  },
+  {
+    "name": "Dohazāri",
+    "country": "BD",
+    "lat": 22.16385,
+    "lng": 92.07333
+  },
+  {
+    "name": "Dour",
+    "country": "BE",
+    "lat": 50.39583,
+    "lng": 3.77792
+  },
+  {
+    "name": "Dottignies",
+    "country": "BE",
+    "lat": 50.73333,
+    "lng": 3.3
+  },
+  {
+    "name": "Donk",
+    "country": "BE",
+    "lat": 50.93882,
+    "lng": 5.13719
+  },
+  {
+    "name": "Donceel",
+    "country": "BE",
+    "lat": 50.64827,
+    "lng": 5.32
+  },
+  {
+    "name": "Dolembreux",
+    "country": "BE",
+    "lat": 50.53763,
+    "lng": 5.62556
+  },
+  {
+    "name": "Doische",
+    "country": "BE",
+    "lat": 50.13356,
+    "lng": 4.73545
+  },
+  {
+    "name": "Dori",
+    "country": "BF",
+    "lat": 14.0341,
+    "lng": -0.03261
+  },
+  {
+    "name": "Dobrich",
+    "country": "BG",
+    "lat": 43.56491,
+    "lng": 27.83138
+  },
+  {
+    "name": "Dolni Chiflik",
+    "country": "BG",
+    "lat": 42.99296,
+    "lng": 27.71596
+  },
+  {
+    "name": "Dospat",
+    "country": "BG",
+    "lat": 41.64462,
+    "lng": 24.15857
+  },
+  {
+    "name": "Dolni Dabnik",
+    "country": "BG",
+    "lat": 43.4,
+    "lng": 24.43333
+  },
+  {
+    "name": "Dolna Mitropolia",
+    "country": "BG",
+    "lat": 43.46667,
+    "lng": 24.53333
+  },
+  {
+    "name": "Dolna Banya",
+    "country": "BG",
+    "lat": 42.31093,
+    "lng": 23.76459
+  },
+  {
+    "name": "Dogbo",
+    "country": "BJ",
+    "lat": 6.79911,
+    "lng": 1.78073
+  },
+  {
+    "name": "Dorp Tera Kora",
+    "country": "BQ",
+    "lat": 12.13728,
+    "lng": -68.26039
+  },
+  {
+    "name": "Dorp Rincon",
+    "country": "BQ",
+    "lat": 12.23762,
+    "lng": -68.33059
+  },
+  {
+    "name": "Dorp Nikiboko",
+    "country": "BQ",
+    "lat": 12.14444,
+    "lng": -68.26121
+  },
+  {
+    "name": "Dorp Antriol",
+    "country": "BQ",
+    "lat": 12.16631,
+    "lng": -68.27042
+  },
+  {
+    "name": "Dom Expedito Lopes",
+    "country": "BR",
+    "lat": -6.95944,
+    "lng": -41.64111
+  },
+  {
+    "name": "Doutor Severiano",
+    "country": "BR",
+    "lat": -6.09444,
+    "lng": -38.37472
+  },
+  {
+    "name": "Dona Inês",
+    "country": "BR",
+    "lat": -6.60375,
+    "lng": -35.62702
+  },
+  {
+    "name": "Dom Pedro",
+    "country": "BR",
+    "lat": -5.03825,
+    "lng": -44.43746
+  },
+  {
+    "name": "Dois Riachos",
+    "country": "BR",
+    "lat": -9.3925,
+    "lng": -37.10056
+  },
+  {
+    "name": "Dois Irmãos do Tocantins",
+    "country": "BR",
+    "lat": -9.25833,
+    "lng": -49.06444
+  },
+  {
+    "name": "Dom Inocêncio",
+    "country": "BR",
+    "lat": -9.00544,
+    "lng": -41.97462
+  },
+  {
+    "name": "Dom Pedro de Alcântara",
+    "country": "BR",
+    "lat": -29.36944,
+    "lng": -49.84972
+  },
+  {
+    "name": "Doresópolis",
+    "country": "BR",
+    "lat": -20.28749,
+    "lng": -45.90294
+  },
+  {
+    "name": "Dom Aquino",
+    "country": "BR",
+    "lat": -15.81023,
+    "lng": -54.92058
+  },
+  {
+    "name": "Doutor Pedrinho",
+    "country": "BR",
+    "lat": -26.71444,
+    "lng": -49.48333
+  },
+  {
+    "name": "Doutor Maurício Cardoso",
+    "country": "BR",
+    "lat": -27.50583,
+    "lng": -54.36083
+  },
+  {
+    "name": "Dourados",
+    "country": "BR",
+    "lat": -22.22111,
+    "lng": -54.80556
+  },
+  {
+    "name": "Douradoquara",
+    "country": "BR",
+    "lat": -18.43139,
+    "lng": -47.60861
+  },
+  {
+    "name": "Dourado",
+    "country": "BR",
+    "lat": -22.1,
+    "lng": -48.3175
+  },
+  {
+    "name": "Dores do Turvo",
+    "country": "BR",
+    "lat": -20.97556,
+    "lng": -43.18917
+  },
+  {
+    "name": "Dores do Indaiá",
+    "country": "BR",
+    "lat": -19.46333,
+    "lng": -45.60167
+  },
+  {
+    "name": "Dores de Guanhães",
+    "country": "BR",
+    "lat": -19.05833,
+    "lng": -42.92917
+  },
+  {
+    "name": "Dores de Campos",
+    "country": "BR",
+    "lat": -21.10889,
+    "lng": -44.02306
+  },
+  {
+    "name": "Dona Francisca",
+    "country": "BR",
+    "lat": -29.62167,
+    "lng": -53.35722
+  },
+  {
+    "name": "Dona Euzébia",
+    "country": "BR",
+    "lat": -21.31639,
+    "lng": -42.81056
+  },
+  {
+    "name": "Dom Viçoso",
+    "country": "BR",
+    "lat": -22.25444,
+    "lng": -45.16111
+  },
+  {
+    "name": "Dom Silvério",
+    "country": "BR",
+    "lat": -20.16,
+    "lng": -42.96778
+  },
+  {
+    "name": "Dom Pedrito",
+    "country": "BR",
+    "lat": -30.98278,
+    "lng": -54.67306
+  },
+  {
+    "name": "Dom Macedo Costa",
+    "country": "BR",
+    "lat": -12.905,
+    "lng": -39.1925
+  },
+  {
+    "name": "Dom Joaquim",
+    "country": "BR",
+    "lat": -18.96722,
+    "lng": -43.25583
+  },
+  {
+    "name": "Domingos Martins",
+    "country": "BR",
+    "lat": -20.36333,
+    "lng": -40.65917
+  },
+  {
+    "name": "Dom Feliciano",
+    "country": "BR",
+    "lat": -30.70417,
+    "lng": -52.1075
+  },
+  {
+    "name": "Dom Cavati",
+    "country": "BR",
+    "lat": -19.37389,
+    "lng": -42.10639
+  },
+  {
+    "name": "Dom Basílio",
+    "country": "BR",
+    "lat": -13.76028,
+    "lng": -41.77139
+  },
+  {
+    "name": "Dolcinópolis",
+    "country": "BR",
+    "lat": -20.12306,
+    "lng": -50.51333
+  },
+  {
+    "name": "Dois Vizinhos",
+    "country": "BR",
+    "lat": -25.73361,
+    "lng": -53.05722
+  },
+  {
+    "name": "Dois Lajeados",
+    "country": "BR",
+    "lat": -28.9834,
+    "lng": -51.84268
+  },
+  {
+    "name": "Dois Irmãos",
+    "country": "BR",
+    "lat": -29.58028,
+    "lng": -51.08528
+  },
+  {
+    "name": "Dois Córregos",
+    "country": "BR",
+    "lat": -22.36611,
+    "lng": -48.38028
+  },
+  {
+    "name": "Dobrada",
+    "country": "BR",
+    "lat": -21.51667,
+    "lng": -48.39389
+  },
+  {
+    "name": "Dores do Rio Preto",
+    "country": "BR",
+    "lat": -20.68889,
+    "lng": -41.84528
+  },
+  {
+    "name": "Doutor Camargo",
+    "country": "BR",
+    "lat": -23.55583,
+    "lng": -52.21806
+  },
+  {
+    "name": "Dois Irmãos das Missões",
+    "country": "BR",
+    "lat": -27.65917,
+    "lng": -53.53139
+  },
+  {
+    "name": "Dois Irmãos do Buriti",
+    "country": "BR",
+    "lat": -20.67972,
+    "lng": -55.29611
+  },
+  {
+    "name": "Dom Bosco",
+    "country": "BR",
+    "lat": -16.65194,
+    "lng": -46.27083
+  },
+  {
+    "name": "Dom Eliseu",
+    "country": "BR",
+    "lat": -4.285,
+    "lng": -47.505
+  },
+  {
+    "name": "Domingos Mourão",
+    "country": "BR",
+    "lat": -4.25389,
+    "lng": -41.27028
+  },
+  {
+    "name": "Dormentes",
+    "country": "BR",
+    "lat": -8.44722,
+    "lng": -40.77111
+  },
+  {
+    "name": "Douradina",
+    "country": "BR",
+    "lat": -23.38083,
+    "lng": -53.29167
+  },
+  {
+    "name": "Douradina",
+    "country": "BR",
+    "lat": -22.04028,
+    "lng": -54.61278
+  },
+  {
+    "name": "Doutor Ricardo",
+    "country": "BR",
+    "lat": -29.08583,
+    "lng": -51.99167
+  },
+  {
+    "name": "Doutor Ulysses",
+    "country": "BR",
+    "lat": -24.56806,
+    "lng": -49.41972
+  },
+  {
+    "name": "Doverlândia",
+    "country": "BR",
+    "lat": -16.72028,
+    "lng": -52.31944
+  },
+  {
+    "name": "Dona Emma",
+    "country": "BR",
+    "lat": -26.98664,
+    "lng": -49.72262
+  },
+  {
+    "name": "Dom Eliseu",
+    "country": "BR",
+    "lat": -4.29671,
+    "lng": -47.55218
+  },
+  {
+    "name": "Dowsk",
+    "country": "BY",
+    "lat": 53.1571,
+    "lng": 30.4601
+  },
+  {
+    "name": "Dokshytsy",
+    "country": "BY",
+    "lat": 54.89097,
+    "lng": 27.76654
+  },
+  {
+    "name": "Dobrush",
+    "country": "BY",
+    "lat": 52.41471,
+    "lng": 31.31429
+  },
+  {
+    "name": "Dolbeau-Mistassini",
+    "country": "CA",
+    "lat": 48.8786,
+    "lng": -72.23142
+  },
+  {
+    "name": "Dollard-Des Ormeaux",
+    "country": "CA",
+    "lat": 45.49452,
+    "lng": -73.82419
+  },
+  {
+    "name": "Dollarton",
+    "country": "CA",
+    "lat": 49.31667,
+    "lng": -122.95
+  },
+  {
+    "name": "Dorchester",
+    "country": "CA",
+    "lat": 42.98339,
+    "lng": -81.06643
+  },
+  {
+    "name": "Dorset Park",
+    "country": "CA",
+    "lat": 43.75386,
+    "lng": -79.28215
+  },
+  {
+    "name": "Dorval",
+    "country": "CA",
+    "lat": 45.4473,
+    "lng": -73.75335
+  },
+  {
+    "name": "Douglas",
+    "country": "CA",
+    "lat": 49.00278,
+    "lng": -122.73555
+  },
+  {
+    "name": "Dowling",
+    "country": "CA",
+    "lat": 46.59111,
+    "lng": -81.33917
+  },
+  {
+    "name": "Donnacona",
+    "country": "CA",
+    "lat": 46.68042,
+    "lng": -71.7239
+  },
+  {
+    "name": "Downtown",
+    "country": "CA",
+    "lat": 49.27784,
+    "lng": -123.12794
+  },
+  {
+    "name": "Dovercourt-Wallace Emerson-Junction",
+    "country": "CA",
+    "lat": 43.66568,
+    "lng": -79.43854
+  },
+  {
+    "name": "Don Valley Village",
+    "country": "CA",
+    "lat": 43.78329,
+    "lng": -79.35364
+  },
+  {
+    "name": "Downsview-Roding-CFB",
+    "country": "CA",
+    "lat": 43.73329,
+    "lng": -79.49049
+  },
+  {
+    "name": "Downtown Eastside",
+    "country": "CA",
+    "lat": 49.2818,
+    "lng": -123.09351
+  },
+  {
+    "name": "Douglas-Gilpin",
+    "country": "CA",
+    "lat": 49.24438,
+    "lng": -122.98215
+  },
+  {
+    "name": "Douglas",
+    "country": "CA",
+    "lat": 49.10229,
+    "lng": -122.65114
+  },
+  {
+    "name": "Dolisie",
+    "country": "CG",
+    "lat": -4.19834,
+    "lng": 12.66664
+  },
+  {
+    "name": "Dongou",
+    "country": "CG",
+    "lat": 2.04806,
+    "lng": 18.05472
+  },
+  {
+    "name": "Dottikon",
+    "country": "CH",
+    "lat": 47.38437,
+    "lng": 8.23981
+  },
+  {
+    "name": "Dornach",
+    "country": "CH",
+    "lat": 47.48038,
+    "lng": 7.61644
+  },
+  {
+    "name": "Domdidier",
+    "country": "CH",
+    "lat": 46.86716,
+    "lng": 7.01337
+  },
+  {
+    "name": "Dombresson",
+    "country": "CH",
+    "lat": 47.07192,
+    "lng": 6.9592
+  },
+  {
+    "name": "Domat",
+    "country": "CH",
+    "lat": 46.83483,
+    "lng": 9.45075
+  },
+  {
+    "name": "Dorf",
+    "country": "CH",
+    "lat": 47.239,
+    "lng": 8.73567
+  },
+  {
+    "name": "Donat",
+    "country": "CH",
+    "lat": 46.62843,
+    "lng": 9.4297
+  },
+  {
+    "name": "Dousoulékana",
+    "country": "CI",
+    "lat": 8.90745,
+    "lng": -5.13725
+  },
+  {
+    "name": "Dourougbé",
+    "country": "CI",
+    "lat": 8.43871,
+    "lng": -6.96766
+  },
+  {
+    "name": "Douongopleu",
+    "country": "CI",
+    "lat": 7.63834,
+    "lng": -8.02984
+  },
+  {
+    "name": "Doumbaro",
+    "country": "CI",
+    "lat": 5.75811,
+    "lng": -5.42044
+  },
+  {
+    "name": "Douleu",
+    "country": "CI",
+    "lat": 7.17583,
+    "lng": -7.80444
+  },
+  {
+    "name": "Doulayéko",
+    "country": "CI",
+    "lat": 4.81405,
+    "lng": -6.42692
+  },
+  {
+    "name": "Doukouyo",
+    "country": "CI",
+    "lat": 5.84233,
+    "lng": -5.97134
+  },
+  {
+    "name": "Doukouya",
+    "country": "CI",
+    "lat": 6.42623,
+    "lng": -5.55925
+  },
+  {
+    "name": "Dougoutiguidougou",
+    "country": "CI",
+    "lat": 7.98257,
+    "lng": -3.39731
+  },
+  {
+    "name": "Dougbafra",
+    "country": "CI",
+    "lat": 6.34539,
+    "lng": -5.40101
+  },
+  {
+    "name": "Dougba",
+    "country": "CI",
+    "lat": 10.2725,
+    "lng": -6.40889
+  },
+  {
+    "name": "Doufla",
+    "country": "CI",
+    "lat": 7.45659,
+    "lng": -6.74097
+  },
+  {
+    "name": "Douéleu",
+    "country": "CI",
+    "lat": 6.96005,
+    "lng": -8.3062
+  },
+  {
+    "name": "Douélé",
+    "country": "CI",
+    "lat": 7.21199,
+    "lng": -7.58013
+  },
+  {
+    "name": "Doué",
+    "country": "CI",
+    "lat": 7.81227,
+    "lng": -7.64852
+  },
+  {
+    "name": "Doubo",
+    "country": "CI",
+    "lat": 6.02868,
+    "lng": -5.33962
+  },
+  {
+    "name": "Douatouo",
+    "country": "CI",
+    "lat": 7.16462,
+    "lng": -8.25947
+  },
+  {
+    "name": "Douasso",
+    "country": "CI",
+    "lat": 10.08881,
+    "lng": -6.6639
+  },
+  {
+    "name": "Douapleu",
+    "country": "CI",
+    "lat": 7.48904,
+    "lng": -8.06097
+  },
+  {
+    "name": "Douanzra",
+    "country": "CI",
+    "lat": 7.40259,
+    "lng": -6.21903
+  },
+  {
+    "name": "Douandrou",
+    "country": "CI",
+    "lat": 6.53436,
+    "lng": -7.91502
+  },
+  {
+    "name": "Douagué",
+    "country": "CI",
+    "lat": 7.47944,
+    "lng": -7.13336
+  },
+  {
+    "name": "Douagéré",
+    "country": "CI",
+    "lat": 7.68833,
+    "lng": -7.32139
+  },
+  {
+    "name": "Dotou",
+    "country": "CI",
+    "lat": 4.82591,
+    "lng": -6.9252
+  },
+  {
+    "name": "Donsohouo",
+    "country": "CI",
+    "lat": 6.44981,
+    "lng": -5.6963
+  },
+  {
+    "name": "Doropo",
+    "country": "CI",
+    "lat": 9.80955,
+    "lng": -3.34577
+  },
+  {
+    "name": "Dorodioro",
+    "country": "CI",
+    "lat": 7.89541,
+    "lng": -3.71761
+  },
+  {
+    "name": "Dorifla",
+    "country": "CI",
+    "lat": 7.52528,
+    "lng": -5.88806
+  },
+  {
+    "name": "Dopleu",
+    "country": "CI",
+    "lat": 6.82353,
+    "lng": -8.31382
+  },
+  {
+    "name": "Donvagne",
+    "country": "CI",
+    "lat": 8.20222,
+    "lng": -3.23931
+  },
+  {
+    "name": "Donguikro",
+    "country": "CI",
+    "lat": 7.52726,
+    "lng": -4.0025
+  },
+  {
+    "name": "Dondi",
+    "country": "CI",
+    "lat": 6.31472,
+    "lng": -5.66547
+  },
+  {
+    "name": "Donakakaha",
+    "country": "CI",
+    "lat": 9.63206,
+    "lng": -5.46919
+  },
+  {
+    "name": "Dompleu",
+    "country": "CI",
+    "lat": 7.34809,
+    "lng": -7.5382
+  },
+  {
+    "name": "Dohoupleu",
+    "country": "CI",
+    "lat": 6.64748,
+    "lng": -8.34718
+  },
+  {
+    "name": "Domobly",
+    "country": "CI",
+    "lat": 6.5321,
+    "lng": -7.57411
+  },
+  {
+    "name": "Doké",
+    "country": "CI",
+    "lat": 6.59281,
+    "lng": -8.11205
+  },
+  {
+    "name": "Dokanou",
+    "country": "CI",
+    "lat": 7.58334,
+    "lng": -3.30512
+  },
+  {
+    "name": "Dohouba",
+    "country": "CI",
+    "lat": 6.79984,
+    "lng": -8.32471
+  },
+  {
+    "name": "Dogozo",
+    "country": "CI",
+    "lat": 5.69303,
+    "lng": -5.05171
+  },
+  {
+    "name": "Dodianyoa",
+    "country": "CI",
+    "lat": 6.03326,
+    "lng": -5.97138
+  },
+  {
+    "name": "Dobrépa",
+    "country": "CI",
+    "lat": 6.2092,
+    "lng": -5.88125
+  },
+  {
+    "name": "Doboua",
+    "country": "CI",
+    "lat": 6.86253,
+    "lng": -6.53228
+  },
+  {
+    "name": "Dobadougou",
+    "country": "CI",
+    "lat": 8.06704,
+    "lng": -6.15832
+  },
+  {
+    "name": "Doboko",
+    "country": "CI",
+    "lat": 5.69705,
+    "lng": -6.23065
+  },
+  {
+    "name": "Dodougnoa",
+    "country": "CI",
+    "lat": 6.0193,
+    "lng": -5.80116
+  },
+  {
+    "name": "Dousséba",
+    "country": "CI",
+    "lat": 6.11433,
+    "lng": -5.67738
+  },
+  {
+    "name": "Donhio",
+    "country": "CI",
+    "lat": 5.8949,
+    "lng": -5.91651
+  },
+  {
+    "name": "Douaville",
+    "country": "CI",
+    "lat": 6.1179,
+    "lng": -5.2999
+  },
+  {
+    "name": "Dougodou",
+    "country": "CI",
+    "lat": 5.30101,
+    "lng": -5.35141
+  },
+  {
+    "name": "Dondoni",
+    "country": "CI",
+    "lat": 7.66279,
+    "lng": -4.20752
+  },
+  {
+    "name": "Dodokoi",
+    "country": "CI",
+    "lat": 6.21172,
+    "lng": -4.00843
+  },
+  {
+    "name": "Dongbo",
+    "country": "CI",
+    "lat": 5.40811,
+    "lng": -4.83195
+  },
+  {
+    "name": "Dokpodon",
+    "country": "CI",
+    "lat": 5.18955,
+    "lng": -5.45087
+  },
+  {
+    "name": "Douéné",
+    "country": "CI",
+    "lat": 7.5422,
+    "lng": -7.31873
+  },
+  {
+    "name": "Douédy",
+    "country": "CI",
+    "lat": 7.3592,
+    "lng": -7.30992
+  },
+  {
+    "name": "Douékpé",
+    "country": "CI",
+    "lat": 7.1362,
+    "lng": -7.32839
+  },
+  {
+    "name": "Doumbiadougou",
+    "country": "CI",
+    "lat": 6.60253,
+    "lng": -7.31889
+  },
+  {
+    "name": "Domangbeu",
+    "country": "CI",
+    "lat": 6.98467,
+    "lng": -7.01882
+  },
+  {
+    "name": "Doulourovogo",
+    "country": "CI",
+    "lat": 9.65423,
+    "lng": -5.48293
+  },
+  {
+    "name": "Dohiriguékaha",
+    "country": "CI",
+    "lat": 9.46436,
+    "lng": -5.40324
+  },
+  {
+    "name": "Dolla",
+    "country": "CI",
+    "lat": 7.95374,
+    "lng": -7.56707
+  },
+  {
+    "name": "Dougounoukouadiokro",
+    "country": "CI",
+    "lat": 6.83378,
+    "lng": -5.34593
+  },
+  {
+    "name": "Doumorossi",
+    "country": "CI",
+    "lat": 7.58952,
+    "lng": -3.50005
+  },
+  {
+    "name": "Doumé",
+    "country": "CM",
+    "lat": 4.23333,
+    "lng": 13.45
+  },
+  {
+    "name": "Douala",
+    "country": "CM",
+    "lat": 4.04827,
+    "lng": 9.70428
+  },
+  {
+    "name": "Domartang",
+    "country": "CN",
+    "lat": 30.93902,
+    "lng": 94.68908
+  },
+  {
+    "name": "Dongmazar",
+    "country": "CN",
+    "lat": 43.83139,
+    "lng": 81.85056
+  },
+  {
+    "name": "Dongyang",
+    "country": "CN",
+    "lat": 29.26778,
+    "lng": 120.22528
+  },
+  {
+    "name": "Dongsheng",
+    "country": "CN",
+    "lat": 30.57383,
+    "lng": 103.92127
+  },
+  {
+    "name": "Dongcheng",
+    "country": "CN",
+    "lat": 33.41235,
+    "lng": 115.08091
+  },
+  {
+    "name": "Dongta",
+    "country": "CN",
+    "lat": 38.0814,
+    "lng": 106.34444
+  },
+  {
+    "name": "Donglai",
+    "country": "CN",
+    "lat": 37.64707,
+    "lng": 120.5227
+  },
+  {
+    "name": "Donghe",
+    "country": "CN",
+    "lat": 32.23341,
+    "lng": 106.30126
+  },
+  {
+    "name": "Doucun",
+    "country": "CN",
+    "lat": 34.74809,
+    "lng": 109.17968
+  },
+  {
+    "name": "Douhudi",
+    "country": "CN",
+    "lat": 30.06056,
+    "lng": 112.22417
+  },
+  {
+    "name": "Douba",
+    "country": "CN",
+    "lat": 33.25711,
+    "lng": 105.46812
+  },
+  {
+    "name": "Dongzhaogezhuang",
+    "country": "CN",
+    "lat": 39.94889,
+    "lng": 117.37
+  },
+  {
+    "name": "Dongyuan",
+    "country": "CN",
+    "lat": 24.91738,
+    "lng": 118.75236
+  },
+  {
+    "name": "Donglan",
+    "country": "CN",
+    "lat": 24.51367,
+    "lng": 107.37295
+  },
+  {
+    "name": "Dongying",
+    "country": "CN",
+    "lat": 37.46271,
+    "lng": 118.49165
+  },
+  {
+    "name": "Dongxing",
+    "country": "CN",
+    "lat": 21.55,
+    "lng": 107.96667
+  },
+  {
+    "name": "Dongxi",
+    "country": "CN",
+    "lat": 32.06577,
+    "lng": 106.24843
+  },
+  {
+    "name": "Dongxi",
+    "country": "CN",
+    "lat": 28.76139,
+    "lng": 106.66111
+  },
+  {
+    "name": "Dongtai",
+    "country": "CN",
+    "lat": 32.85231,
+    "lng": 120.30947
+  },
+  {
+    "name": "Dongtazhuang",
+    "country": "CN",
+    "lat": 39.89389,
+    "lng": 117.33722
+  },
+  {
+    "name": "Dongsheng",
+    "country": "CN",
+    "lat": 39.81609,
+    "lng": 109.97763
+  },
+  {
+    "name": "Dongshan",
+    "country": "CN",
+    "lat": 31.95568,
+    "lng": 118.83269
+  },
+  {
+    "name": "Dongshan Dongzuxiang",
+    "country": "CN",
+    "lat": 26.595,
+    "lng": 109.89667
+  },
+  {
+    "name": "Dongshan",
+    "country": "CN",
+    "lat": 25.79389,
+    "lng": 114.54256
+  },
+  {
+    "name": "Dongping",
+    "country": "CN",
+    "lat": 35.93536,
+    "lng": 116.44442
+  },
+  {
+    "name": "Dongping",
+    "country": "CN",
+    "lat": 28.37713,
+    "lng": 111.20753
+  },
+  {
+    "name": "Dongnigu",
+    "country": "CN",
+    "lat": 39.01655,
+    "lng": 117.44396
+  },
+  {
+    "name": "Dongming Chengguanzhen",
+    "country": "CN",
+    "lat": 35.29145,
+    "lng": 115.09019
+  },
+  {
+    "name": "Dongling",
+    "country": "CN",
+    "lat": 24.98271,
+    "lng": 118.8979
+  },
+  {
+    "name": "Dongkou",
+    "country": "CN",
+    "lat": 27.05272,
+    "lng": 110.5361
+  },
+  {
+    "name": "Dongkan",
+    "country": "CN",
+    "lat": 33.99972,
+    "lng": 119.83083
+  },
+  {
+    "name": "Dongjituo",
+    "country": "CN",
+    "lat": 39.42194,
+    "lng": 117.57417
+  },
+  {
+    "name": "Donghuang",
+    "country": "CN",
+    "lat": 28.33297,
+    "lng": 106.21557
+  },
+  {
+    "name": "Donghua",
+    "country": "CN",
+    "lat": 35.2152,
+    "lng": 106.653
+  },
+  {
+    "name": "Donghai",
+    "country": "CN",
+    "lat": 22.94593,
+    "lng": 115.64204
+  },
+  {
+    "name": "Dongguang",
+    "country": "CN",
+    "lat": 37.88697,
+    "lng": 116.53535
+  },
+  {
+    "name": "Dongguan",
+    "country": "CN",
+    "lat": 39.01732,
+    "lng": 111.12674
+  },
+  {
+    "name": "Dongguan",
+    "country": "CN",
+    "lat": 23.01797,
+    "lng": 113.74866
+  },
+  {
+    "name": "Dong’erying",
+    "country": "CN",
+    "lat": 39.9575,
+    "lng": 117.27917
+  },
+  {
+    "name": "Dongdu",
+    "country": "CN",
+    "lat": 35.85,
+    "lng": 117.7
+  },
+  {
+    "name": "Dongditou",
+    "country": "CN",
+    "lat": 39.26641,
+    "lng": 117.37273
+  },
+  {
+    "name": "Dongdai",
+    "country": "CN",
+    "lat": 26.24366,
+    "lng": 119.61566
+  },
+  {
+    "name": "Dongcun",
+    "country": "CN",
+    "lat": 38.29442,
+    "lng": 111.70352
+  },
+  {
+    "name": "Dongcun",
+    "country": "CN",
+    "lat": 36.77667,
+    "lng": 121.15972
+  },
+  {
+    "name": "Dongchuan",
+    "country": "CN",
+    "lat": 37.36797,
+    "lng": 101.83565
+  },
+  {
+    "name": "Dongchuan",
+    "country": "CN",
+    "lat": 25.47655,
+    "lng": 101.28468
+  },
+  {
+    "name": "Dongchongcun",
+    "country": "CN",
+    "lat": 26.54001,
+    "lng": 119.83257
+  },
+  {
+    "name": "Dongcheng",
+    "country": "CN",
+    "lat": 21.882,
+    "lng": 112.01022
+  },
+  {
+    "name": "Dongcheng",
+    "country": "CN",
+    "lat": 19.70868,
+    "lng": 109.4561
+  },
+  {
+    "name": "Donghu",
+    "country": "CN",
+    "lat": 26.23453,
+    "lng": 119.5143
+  },
+  {
+    "name": "Dong’an",
+    "country": "CN",
+    "lat": 31.77756,
+    "lng": 109.08606
+  },
+  {
+    "name": "Dorbod",
+    "country": "CN",
+    "lat": 46.86135,
+    "lng": 124.442
+  },
+  {
+    "name": "Dongning",
+    "country": "CN",
+    "lat": 44.08436,
+    "lng": 131.11841
+  },
+  {
+    "name": "Dongling",
+    "country": "CN",
+    "lat": 41.81444,
+    "lng": 123.57583
+  },
+  {
+    "name": "Dongfeng",
+    "country": "CN",
+    "lat": 42.67387,
+    "lng": 125.52885
+  },
+  {
+    "name": "Doilungdêqên",
+    "country": "CN",
+    "lat": 29.65505,
+    "lng": 90.99177
+  },
+  {
+    "name": "Dongzhen",
+    "country": "CN",
+    "lat": 22.37971,
+    "lng": 110.93885
+  },
+  {
+    "name": "Dongjiang",
+    "country": "CN",
+    "lat": 33.37923,
+    "lng": 104.95066
+  },
+  {
+    "name": "Douping",
+    "country": "CN",
+    "lat": 33.5165,
+    "lng": 105.46462
+  },
+  {
+    "name": "Dongqu",
+    "country": "CN",
+    "lat": 37.92021,
+    "lng": 112.20018
+  },
+  {
+    "name": "Dongjie",
+    "country": "CN",
+    "lat": 26.08823,
+    "lng": 119.29449
+  },
+  {
+    "name": "Dongcheng",
+    "country": "CN",
+    "lat": 28.89381,
+    "lng": 120.04024
+  },
+  {
+    "name": "Dongcheng",
+    "country": "CN",
+    "lat": 28.6473,
+    "lng": 121.27106
+  },
+  {
+    "name": "Dongjia",
+    "country": "CN",
+    "lat": 30.22352,
+    "lng": 107.70574
+  },
+  {
+    "name": "Dongyang",
+    "country": "CN",
+    "lat": 29.83291,
+    "lng": 106.45066
+  },
+  {
+    "name": "Dongfeng",
+    "country": "CN",
+    "lat": 46.82026,
+    "lng": 130.39456
+  },
+  {
+    "name": "Dongshan",
+    "country": "CN",
+    "lat": 47.33582,
+    "lng": 130.30928
+  },
+  {
+    "name": "Dong’an",
+    "country": "CN",
+    "lat": 44.57883,
+    "lng": 129.61865
+  },
+  {
+    "name": "Dongtundu",
+    "country": "CN",
+    "lat": 28.18371,
+    "lng": 113.03209
+  },
+  {
+    "name": "Dongdajie",
+    "country": "CN",
+    "lat": 37.92686,
+    "lng": 102.6343
+  },
+  {
+    "name": "Dongping",
+    "country": "CN",
+    "lat": 36.499,
+    "lng": 117.996
+  },
+  {
+    "name": "Dongxia",
+    "country": "CN",
+    "lat": 36.74918,
+    "lng": 118.58268
+  },
+  {
+    "name": "Donghe",
+    "country": "CN",
+    "lat": 22.92415,
+    "lng": 100.06875
+  },
+  {
+    "name": "Donghui",
+    "country": "CN",
+    "lat": 22.44052,
+    "lng": 99.8001
+  },
+  {
+    "name": "Dongchang",
+    "country": "CN",
+    "lat": 41.69824,
+    "lng": 125.92184
+  },
+  {
+    "name": "Dongshan",
+    "country": "CN",
+    "lat": 33.76081,
+    "lng": 104.43412
+  },
+  {
+    "name": "Dongwenquan",
+    "country": "CN",
+    "lat": 29.45609,
+    "lng": 106.85776
+  },
+  {
+    "name": "Dongji",
+    "country": "CN",
+    "lat": 42.89984,
+    "lng": 125.12872
+  },
+  {
+    "name": "Dongliao",
+    "country": "CN",
+    "lat": 42.92395,
+    "lng": 124.98597
+  },
+  {
+    "name": "Dongchong",
+    "country": "CN",
+    "lat": 22.52356,
+    "lng": 114.02989
+  },
+  {
+    "name": "Dosquebradas",
+    "country": "CO",
+    "lat": 4.83916,
+    "lng": -75.66727
+  },
+  {
+    "name": "Donmatías",
+    "country": "CO",
+    "lat": 6.48569,
+    "lng": -75.39496
+  },
+  {
+    "name": "Doima",
+    "country": "CO",
+    "lat": 4.42692,
+    "lng": -74.97548
+  },
+  {
+    "name": "Dolores",
+    "country": "CO",
+    "lat": 3.5391,
+    "lng": -74.89752
+  },
+  {
+    "name": "Dorp Soto",
+    "country": "CW",
+    "lat": 12.27749,
+    "lng": -69.1125
+  },
+  {
+    "name": "Doudleby nad Orlicí",
+    "country": "CZ",
+    "lat": 50.10742,
+    "lng": 16.26131
+  },
+  {
+    "name": "Doubravice nad Svitavou",
+    "country": "CZ",
+    "lat": 49.43664,
+    "lng": 16.62937
+  },
+  {
+    "name": "Doubrava",
+    "country": "CZ",
+    "lat": 49.85873,
+    "lng": 18.48018
+  },
+  {
+    "name": "Domažlice",
+    "country": "CZ",
+    "lat": 49.44049,
+    "lng": 12.92976
+  },
+  {
+    "name": "Domanín",
+    "country": "CZ",
+    "lat": 49.00167,
+    "lng": 17.28476
+  },
+  {
+    "name": "Doloplazy",
+    "country": "CZ",
+    "lat": 49.56876,
+    "lng": 17.41393
+  },
+  {
+    "name": "Dolní Životice",
+    "country": "CZ",
+    "lat": 49.89732,
+    "lng": 17.77969
+  },
+  {
+    "name": "Dolní Žandov",
+    "country": "CZ",
+    "lat": 50.01794,
+    "lng": 12.55101
+  },
+  {
+    "name": "Dolní Újezd",
+    "country": "CZ",
+    "lat": 49.82562,
+    "lng": 16.25461
+  },
+  {
+    "name": "Dolní Újezd",
+    "country": "CZ",
+    "lat": 49.54597,
+    "lng": 17.53547
+  },
+  {
+    "name": "Dolní Studénky",
+    "country": "CZ",
+    "lat": 49.93506,
+    "lng": 16.97107
+  },
+  {
+    "name": "Dolní Sloupnice",
+    "country": "CZ",
+    "lat": 49.92721,
+    "lng": 16.29401
+  },
+  {
+    "name": "Dolní Rychnov",
+    "country": "CZ",
+    "lat": 50.16462,
+    "lng": 12.64507
+  },
+  {
+    "name": "Dolní Roveň",
+    "country": "CZ",
+    "lat": 50.02927,
+    "lng": 15.96774
+  },
+  {
+    "name": "Dolní Poustevna",
+    "country": "CZ",
+    "lat": 50.98251,
+    "lng": 14.28684
+  },
+  {
+    "name": "Dolní Podluží",
+    "country": "CZ",
+    "lat": 50.87988,
+    "lng": 14.59503
+  },
+  {
+    "name": "Dolní Počernice",
+    "country": "CZ",
+    "lat": 50.0876,
+    "lng": 14.57199
+  },
+  {
+    "name": "Dolní Němčí",
+    "country": "CZ",
+    "lat": 48.96837,
+    "lng": 17.58585
+  },
+  {
+    "name": "Dolní Lutyně",
+    "country": "CZ",
+    "lat": 49.89876,
+    "lng": 18.42815
+  },
+  {
+    "name": "Dolní Loućky",
+    "country": "CZ",
+    "lat": 49.36099,
+    "lng": 16.35871
+  },
+  {
+    "name": "Dolní Lhota",
+    "country": "CZ",
+    "lat": 49.84236,
+    "lng": 18.09241
+  },
+  {
+    "name": "Dolní Kounice",
+    "country": "CZ",
+    "lat": 49.07011,
+    "lng": 16.46492
+  },
+  {
+    "name": "Dolní Dvořiště",
+    "country": "CZ",
+    "lat": 48.65642,
+    "lng": 14.45221
+  },
+  {
+    "name": "Dolní Dunajovice",
+    "country": "CZ",
+    "lat": 48.85447,
+    "lng": 16.59283
+  },
+  {
+    "name": "Dolní Dobrouč",
+    "country": "CZ",
+    "lat": 49.99273,
+    "lng": 16.49766
+  },
+  {
+    "name": "Dolní Chabry",
+    "country": "CZ",
+    "lat": 50.14633,
+    "lng": 14.44848
+  },
+  {
+    "name": "Dolní Černilov",
+    "country": "CZ",
+    "lat": 50.2611,
+    "lng": 15.96107
+  },
+  {
+    "name": "Dolní Čermná",
+    "country": "CZ",
+    "lat": 49.97954,
+    "lng": 16.56475
+  },
+  {
+    "name": "Dolní Cerekev",
+    "country": "CZ",
+    "lat": 49.34449,
+    "lng": 15.45655
+  },
+  {
+    "name": "Dolní Bukovsko",
+    "country": "CZ",
+    "lat": 49.17086,
+    "lng": 14.58127
+  },
+  {
+    "name": "Dolní Břežany",
+    "country": "CZ",
+    "lat": 49.96321,
+    "lng": 14.4585
+  },
+  {
+    "name": "Dolní Bousov",
+    "country": "CZ",
+    "lat": 50.43825,
+    "lng": 15.12812
+  },
+  {
+    "name": "Dolní Bojanovice",
+    "country": "CZ",
+    "lat": 48.85861,
+    "lng": 17.02859
+  },
+  {
+    "name": "Dolní Beřkovice",
+    "country": "CZ",
+    "lat": 50.39313,
+    "lng": 14.45024
+  },
+  {
+    "name": "Dolní Benešov",
+    "country": "CZ",
+    "lat": 49.92101,
+    "lng": 18.10835
+  },
+  {
+    "name": "Dolní Bečva",
+    "country": "CZ",
+    "lat": 49.45498,
+    "lng": 18.19419
+  },
+  {
+    "name": "Dolany",
+    "country": "CZ",
+    "lat": 49.64987,
+    "lng": 17.3224
+  },
+  {
+    "name": "Doksy",
+    "country": "CZ",
+    "lat": 50.56471,
+    "lng": 14.65553
+  },
+  {
+    "name": "Doksy",
+    "country": "CZ",
+    "lat": 50.119,
+    "lng": 14.04782
+  },
+  {
+    "name": "Dobšice",
+    "country": "CZ",
+    "lat": 48.84834,
+    "lng": 16.08218
+  },
+  {
+    "name": "Dobruška",
+    "country": "CZ",
+    "lat": 50.29201,
+    "lng": 16.16001
+  },
+  {
+    "name": "Dobrovice",
+    "country": "CZ",
+    "lat": 50.36933,
+    "lng": 14.96233
+  },
+  {
+    "name": "Dobronín",
+    "country": "CZ",
+    "lat": 49.47833,
+    "lng": 15.64992
+  },
+  {
+    "name": "Dobroměřice",
+    "country": "CZ",
+    "lat": 50.37009,
+    "lng": 13.79473
+  },
+  {
+    "name": "Dobřív",
+    "country": "CZ",
+    "lat": 49.71566,
+    "lng": 13.68681
+  },
+  {
+    "name": "Dobříš",
+    "country": "CZ",
+    "lat": 49.78113,
+    "lng": 14.16717
+  },
+  {
+    "name": "Dobřichovice",
+    "country": "CZ",
+    "lat": 49.92749,
+    "lng": 14.27469
+  },
+  {
+    "name": "Dobrá Voda u Českých Budějovic",
+    "country": "CZ",
+    "lat": 48.97158,
+    "lng": 14.53276
+  },
+  {
+    "name": "Dobratice",
+    "country": "CZ",
+    "lat": 49.66039,
+    "lng": 18.49226
+  },
+  {
+    "name": "Dobřany",
+    "country": "CZ",
+    "lat": 49.65482,
+    "lng": 13.29307
+  },
+  {
+    "name": "Dobrá",
+    "country": "CZ",
+    "lat": 49.67383,
+    "lng": 18.41393
+  },
+  {
+    "name": "Dorf Mecklenburg",
+    "country": "DE",
+    "lat": 53.84301,
+    "lng": 11.46321
+  },
+  {
+    "name": "Dotzheim",
+    "country": "DE",
+    "lat": 50.07438,
+    "lng": 8.19503
+  },
+  {
+    "name": "Dotternhausen",
+    "country": "DE",
+    "lat": 48.22848,
+    "lng": 8.79228
+  },
+  {
+    "name": "Dossenheim",
+    "country": "DE",
+    "lat": 49.45028,
+    "lng": 8.67472
+  },
+  {
+    "name": "Dorum",
+    "country": "DE",
+    "lat": 53.6879,
+    "lng": 8.56734
+  },
+  {
+    "name": "Dortmund",
+    "country": "DE",
+    "lat": 51.51494,
+    "lng": 7.466
+  },
+  {
+    "name": "Dorsten",
+    "country": "DE",
+    "lat": 51.66166,
+    "lng": 6.96514
+  },
+  {
+    "name": "Dornum",
+    "country": "DE",
+    "lat": 53.64648,
+    "lng": 7.42957
+  },
+  {
+    "name": "Dornstetten",
+    "country": "DE",
+    "lat": 48.47198,
+    "lng": 8.49817
+  },
+  {
+    "name": "Dornstadt",
+    "country": "DE",
+    "lat": 48.46697,
+    "lng": 9.94434
+  },
+  {
+    "name": "Dornhan",
+    "country": "DE",
+    "lat": 48.35008,
+    "lng": 8.50901
+  },
+  {
+    "name": "Dorndorf",
+    "country": "DE",
+    "lat": 50.83472,
+    "lng": 10.08921
+  },
+  {
+    "name": "Dormitz",
+    "country": "DE",
+    "lat": 49.59786,
+    "lng": 11.11765
+  },
+  {
+    "name": "Dormettingen",
+    "country": "DE",
+    "lat": 48.23688,
+    "lng": 8.77327
+  },
+  {
+    "name": "Dormagen",
+    "country": "DE",
+    "lat": 51.09683,
+    "lng": 6.83167
+  },
+  {
+    "name": "Dorfprozelten",
+    "country": "DE",
+    "lat": 49.78056,
+    "lng": 9.38028
+  },
+  {
+    "name": "Dorfhain",
+    "country": "DE",
+    "lat": 50.93333,
+    "lng": 13.56667
+  },
+  {
+    "name": "Dorfen",
+    "country": "DE",
+    "lat": 48.27037,
+    "lng": 12.16056
+  },
+  {
+    "name": "Dorfchemnitz",
+    "country": "DE",
+    "lat": 50.66363,
+    "lng": 12.83651
+  },
+  {
+    "name": "Donzdorf",
+    "country": "DE",
+    "lat": 48.68544,
+    "lng": 9.81053
+  },
+  {
+    "name": "Donnersdorf",
+    "country": "DE",
+    "lat": 49.96667,
+    "lng": 10.41667
+  },
+  {
+    "name": "Donauwörth",
+    "country": "DE",
+    "lat": 48.71804,
+    "lng": 10.7793
+  },
+  {
+    "name": "Donaustauf",
+    "country": "DE",
+    "lat": 49.03258,
+    "lng": 12.20459
+  },
+  {
+    "name": "Donaueschingen",
+    "country": "DE",
+    "lat": 47.95514,
+    "lng": 8.49707
+  },
+  {
+    "name": "Domsühl",
+    "country": "DE",
+    "lat": 53.48723,
+    "lng": 11.77099
+  },
+  {
+    "name": "Dommitzsch",
+    "country": "DE",
+    "lat": 51.64071,
+    "lng": 12.8794
+  },
+  {
+    "name": "Dommershausen",
+    "country": "DE",
+    "lat": 50.15,
+    "lng": 7.4
+  },
+  {
+    "name": "Domersleben",
+    "country": "DE",
+    "lat": 52.09199,
+    "lng": 11.43757
+  },
+  {
+    "name": "Dombühl",
+    "country": "DE",
+    "lat": 49.25349,
+    "lng": 10.28542
+  },
+  {
+    "name": "Dollerup",
+    "country": "DE",
+    "lat": 54.77798,
+    "lng": 9.67981
+  },
+  {
+    "name": "Dollern",
+    "country": "DE",
+    "lat": 53.54098,
+    "lng": 9.54989
+  },
+  {
+    "name": "Dollbergen",
+    "country": "DE",
+    "lat": 52.40671,
+    "lng": 10.18098
+  },
+  {
+    "name": "Dohna",
+    "country": "DE",
+    "lat": 50.95621,
+    "lng": 13.85839
+  },
+  {
+    "name": "Dohma",
+    "country": "DE",
+    "lat": 50.91667,
+    "lng": 13.93333
+  },
+  {
+    "name": "Dogern",
+    "country": "DE",
+    "lat": 47.60952,
+    "lng": 8.16713
+  },
+  {
+    "name": "Dobien",
+    "country": "DE",
+    "lat": 51.90519,
+    "lng": 12.61068
+  },
+  {
+    "name": "Dobersdorf",
+    "country": "DE",
+    "lat": 54.31893,
+    "lng": 10.28011
+  },
+  {
+    "name": "Doberschütz",
+    "country": "DE",
+    "lat": 51.4987,
+    "lng": 12.74792
+  },
+  {
+    "name": "Doberschau",
+    "country": "DE",
+    "lat": 51.15185,
+    "lng": 14.39553
+  },
+  {
+    "name": "Doberlug-Kirchhain",
+    "country": "DE",
+    "lat": 51.62578,
+    "lng": 13.56232
+  },
+  {
+    "name": "Dobel",
+    "country": "DE",
+    "lat": 48.8,
+    "lng": 8.5
+  },
+  {
+    "name": "Dobbertin",
+    "country": "DE",
+    "lat": 53.62306,
+    "lng": 12.07466
+  },
+  {
+    "name": "Dohren",
+    "country": "DE",
+    "lat": 52.65,
+    "lng": 7.58333
+  },
+  {
+    "name": "Dorra",
+    "country": "DJ",
+    "lat": 12.15028,
+    "lng": 42.47624
+  },
+  {
+    "name": "Don Juan",
+    "country": "DO",
+    "lat": 18.82774,
+    "lng": -69.94629
+  },
+  {
+    "name": "Douéra",
+    "country": "DZ",
+    "lat": 36.67,
+    "lng": 2.94444
+  },
+  {
+    "name": "Doctor Miguel Egas Cabezas",
+    "country": "EC",
+    "lat": 0.2502,
+    "lng": -78.24371
+  },
+  {
+    "name": "Dos Torres",
+    "country": "ES",
+    "lat": 38.45,
+    "lng": -4.9
+  },
+  {
+    "name": "Dos Hermanas",
+    "country": "ES",
+    "lat": 37.28287,
+    "lng": -5.92088
+  },
+  {
+    "name": "Dosbarrios",
+    "country": "ES",
+    "lat": 39.88199,
+    "lng": -3.48419
+  },
+  {
+    "name": "Dos Aguas",
+    "country": "ES",
+    "lat": 39.28333,
+    "lng": -0.8
+  },
+  {
+    "name": "Don Benito",
+    "country": "ES",
+    "lat": 38.95627,
+    "lng": -5.86162
+  },
+  {
+    "name": "Doña Mencía",
+    "country": "ES",
+    "lat": 37.55346,
+    "lng": -4.35602
+  },
+  {
+    "name": "Don Álvaro",
+    "country": "ES",
+    "lat": 38.84837,
+    "lng": -6.27475
+  },
+  {
+    "name": "Domingo Pérez",
+    "country": "ES",
+    "lat": 39.97661,
+    "lng": -4.50554
+  },
+  {
+    "name": "Domingo Pérez",
+    "country": "ES",
+    "lat": 37.49591,
+    "lng": -3.50929
+  },
+  {
+    "name": "Domeño",
+    "country": "ES",
+    "lat": 39.66115,
+    "lng": -0.67077
+  },
+  {
+    "name": "Dolores",
+    "country": "ES",
+    "lat": 38.14002,
+    "lng": -0.77088
+  },
+  {
+    "name": "Doneztebe-Santesteban",
+    "country": "ES",
+    "lat": 43.13333,
+    "lng": -1.66667
+  },
+  {
+    "name": "Donostia / San Sebastián",
+    "country": "ES",
+    "lat": 43.31283,
+    "lng": -1.97499
+  },
+  {
+    "name": "Dozón",
+    "country": "ES",
+    "lat": 42.58333,
+    "lng": -8.01667
+  },
+  {
+    "name": "Dosrius",
+    "country": "ES",
+    "lat": 41.58333,
+    "lng": 2.41667
+  },
+  {
+    "name": "Donvidas",
+    "country": "ES",
+    "lat": 41.08954,
+    "lng": -4.80634
+  },
+  {
+    "name": "Donjimeno",
+    "country": "ES",
+    "lat": 40.95978,
+    "lng": -4.84627
+  },
+  {
+    "name": "Doñinos de Salamanca",
+    "country": "ES",
+    "lat": 40.95978,
+    "lng": -5.74349
+  },
+  {
+    "name": "Doñinos de Ledesma",
+    "country": "ES",
+    "lat": 41.01251,
+    "lng": -6.03412
+  },
+  {
+    "name": "Donhierro",
+    "country": "ES",
+    "lat": 41.11642,
+    "lng": -4.6967
+  },
+  {
+    "name": "Domingo García",
+    "country": "ES",
+    "lat": 41.11528,
+    "lng": -4.37927
+  },
+  {
+    "name": "Dolo",
+    "country": "ET",
+    "lat": 13.49923,
+    "lng": 39.63723
+  },
+  {
+    "name": "Dodola",
+    "country": "ET",
+    "lat": 6.98333,
+    "lng": 39.18333
+  },
+  {
+    "name": "Dozulé",
+    "country": "FR",
+    "lat": 49.23132,
+    "lng": -0.04454
+  },
+  {
+    "name": "Doyet",
+    "country": "FR",
+    "lat": 46.33558,
+    "lng": 2.79718
+  },
+  {
+    "name": "Douzy",
+    "country": "FR",
+    "lat": 49.6708,
+    "lng": 5.04156
+  },
+  {
+    "name": "Douvrin",
+    "country": "FR",
+    "lat": 50.50916,
+    "lng": 2.83053
+  },
+  {
+    "name": "Douvres-la-Délivrande",
+    "country": "FR",
+    "lat": 49.29472,
+    "lng": -0.38039
+  },
+  {
+    "name": "Douvaine",
+    "country": "FR",
+    "lat": 46.30544,
+    "lng": 6.30375
+  },
+  {
+    "name": "Doussard",
+    "country": "FR",
+    "lat": 45.77512,
+    "lng": 6.22553
+  },
+  {
+    "name": "Dourgne",
+    "country": "FR",
+    "lat": 43.48517,
+    "lng": 2.13841
+  },
+  {
+    "name": "Dourges",
+    "country": "FR",
+    "lat": 50.43636,
+    "lng": 2.98589
+  },
+  {
+    "name": "Dourdan",
+    "country": "FR",
+    "lat": 48.52772,
+    "lng": 2.01113
+  },
+  {
+    "name": "Doullens",
+    "country": "FR",
+    "lat": 50.15724,
+    "lng": 2.34019
+  },
+  {
+    "name": "Doulaincourt-Saucourt",
+    "country": "FR",
+    "lat": 48.31667,
+    "lng": 5.2
+  },
+  {
+    "name": "Doué-la-Fontaine",
+    "country": "FR",
+    "lat": 47.19329,
+    "lng": -0.27633
+  },
+  {
+    "name": "Doue",
+    "country": "FR",
+    "lat": 48.86641,
+    "lng": 3.16269
+  },
+  {
+    "name": "Doudeville",
+    "country": "FR",
+    "lat": 49.72268,
+    "lng": 0.78479
+  },
+  {
+    "name": "Douchy-les-Mines",
+    "country": "FR",
+    "lat": 50.3008,
+    "lng": 3.3927
+  },
+  {
+    "name": "Douchy",
+    "country": "FR",
+    "lat": 47.94282,
+    "lng": 3.05392
+  },
+  {
+    "name": "Doubs",
+    "country": "FR",
+    "lat": 46.92788,
+    "lng": 6.35104
+  },
+  {
+    "name": "Douarnenez",
+    "country": "FR",
+    "lat": 48.09542,
+    "lng": -4.32904
+  },
+  {
+    "name": "Douai",
+    "country": "FR",
+    "lat": 50.37069,
+    "lng": 3.07922
+  },
+  {
+    "name": "Dossenheim-sur-Zinsel",
+    "country": "FR",
+    "lat": 48.8059,
+    "lng": 7.40273
+  },
+  {
+    "name": "Dortan",
+    "country": "FR",
+    "lat": 46.31973,
+    "lng": 5.66028
+  },
+  {
+    "name": "Dornes",
+    "country": "FR",
+    "lat": 46.716,
+    "lng": 3.35343
+  },
+  {
+    "name": "Dormans",
+    "country": "FR",
+    "lat": 49.07392,
+    "lng": 3.63819
+  },
+  {
+    "name": "Dorlisheim",
+    "country": "FR",
+    "lat": 48.52485,
+    "lng": 7.48624
+  },
+  {
+    "name": "Dordives",
+    "country": "FR",
+    "lat": 48.14253,
+    "lng": 2.76775
+  },
+  {
+    "name": "Donzy",
+    "country": "FR",
+    "lat": 47.37066,
+    "lng": 3.12548
+  },
+  {
+    "name": "Donzère",
+    "country": "FR",
+    "lat": 44.44246,
+    "lng": 4.71134
+  },
+  {
+    "name": "Donzenac",
+    "country": "FR",
+    "lat": 45.22731,
+    "lng": 1.524
+  },
+  {
+    "name": "Donville-les-Bains",
+    "country": "FR",
+    "lat": 48.84608,
+    "lng": -1.58315
+  },
+  {
+    "name": "Donnery",
+    "country": "FR",
+    "lat": 47.91486,
+    "lng": 2.10299
+  },
+  {
+    "name": "Donnemarie-Dontilly",
+    "country": "FR",
+    "lat": 48.47719,
+    "lng": 3.13162
+  },
+  {
+    "name": "Donges",
+    "country": "FR",
+    "lat": 47.31824,
+    "lng": -2.07538
+  },
+  {
+    "name": "Doncourt-lès-Conflans",
+    "country": "FR",
+    "lat": 49.1425,
+    "lng": 5.93368
+  },
+  {
+    "name": "Donchery",
+    "country": "FR",
+    "lat": 49.69584,
+    "lng": 4.87417
+  },
+  {
+    "name": "Don",
+    "country": "FR",
+    "lat": 50.54912,
+    "lng": 2.91817
+  },
+  {
+    "name": "Dompierre-sur-Yon",
+    "country": "FR",
+    "lat": 46.73861,
+    "lng": -1.38785
+  },
+  {
+    "name": "Dompierre-sur-Veyle",
+    "country": "FR",
+    "lat": 46.07108,
+    "lng": 5.20232
+  },
+  {
+    "name": "Dompierre-sur-Mer",
+    "country": "FR",
+    "lat": 46.18828,
+    "lng": -1.06353
+  },
+  {
+    "name": "Dompierre-sur-Besbre",
+    "country": "FR",
+    "lat": 46.52214,
+    "lng": 3.68106
+  },
+  {
+    "name": "Domont",
+    "country": "FR",
+    "lat": 49.02782,
+    "lng": 2.32638
+  },
+  {
+    "name": "Domme",
+    "country": "FR",
+    "lat": 44.80218,
+    "lng": 1.21459
+  },
+  {
+    "name": "Dommartin-lès-Toul",
+    "country": "FR",
+    "lat": 48.66949,
+    "lng": 5.91005
+  },
+  {
+    "name": "Dommartin-lès-Remiremont",
+    "country": "FR",
+    "lat": 47.99902,
+    "lng": 6.64048
+  },
+  {
+    "name": "Dom-le-Mesnil",
+    "country": "FR",
+    "lat": 49.69012,
+    "lng": 4.80363
+  },
+  {
+    "name": "Domgermain",
+    "country": "FR",
+    "lat": 48.64276,
+    "lng": 5.82957
+  },
+  {
+    "name": "Domfront",
+    "country": "FR",
+    "lat": 48.59208,
+    "lng": -0.64588
+  },
+  {
+    "name": "Domessin",
+    "country": "FR",
+    "lat": 45.54739,
+    "lng": 5.70495
+  },
+  {
+    "name": "Domérat",
+    "country": "FR",
+    "lat": 46.36036,
+    "lng": 2.53455
+  },
+  {
+    "name": "Domène",
+    "country": "FR",
+    "lat": 45.20289,
+    "lng": 5.83335
+  },
+  {
+    "name": "Dombasle-sur-Meurthe",
+    "country": "FR",
+    "lat": 48.61861,
+    "lng": 6.35538
+  },
+  {
+    "name": "Domart-en-Ponthieu",
+    "country": "FR",
+    "lat": 50.07437,
+    "lng": 2.12596
+  },
+  {
+    "name": "Domarin",
+    "country": "FR",
+    "lat": 45.58662,
+    "lng": 5.24599
+  },
+  {
+    "name": "Domancy",
+    "country": "FR",
+    "lat": 45.91205,
+    "lng": 6.65271
+  },
+  {
+    "name": "Domalain",
+    "country": "FR",
+    "lat": 47.99646,
+    "lng": -1.24136
+  },
+  {
+    "name": "Domagné",
+    "country": "FR",
+    "lat": 48.07074,
+    "lng": -1.39214
+  },
+  {
+    "name": "Dolus-d'Oléron",
+    "country": "FR",
+    "lat": 45.91667,
+    "lng": -1.26667
+  },
+  {
+    "name": "Dolomieu",
+    "country": "FR",
+    "lat": 45.6054,
+    "lng": 5.48571
+  },
+  {
+    "name": "Dollon",
+    "country": "FR",
+    "lat": 48.03965,
+    "lng": 0.58653
+  },
+  {
+    "name": "Dole",
+    "country": "FR",
+    "lat": 47.09225,
+    "lng": 5.48966
+  },
+  {
+    "name": "Dol-de-Bretagne",
+    "country": "FR",
+    "lat": 48.54976,
+    "lng": -1.75104
+  },
+  {
+    "name": "Doingt",
+    "country": "FR",
+    "lat": 49.92113,
+    "lng": 2.96766
+  },
+  {
+    "name": "Dogneville",
+    "country": "FR",
+    "lat": 48.22251,
+    "lng": 6.45944
+  },
+  {
+    "name": "Docelles",
+    "country": "FR",
+    "lat": 48.14475,
+    "lng": 6.61289
+  },
+  {
+    "name": "Downton",
+    "country": "GB",
+    "lat": 52.36667,
+    "lng": -2.83333
+  },
+  {
+    "name": "Downton",
+    "country": "GB",
+    "lat": 50.99366,
+    "lng": -1.75129
+  },
+  {
+    "name": "Downside",
+    "country": "GB",
+    "lat": 51.31001,
+    "lng": -0.41186
+  },
+  {
+    "name": "Downpatrick",
+    "country": "GB",
+    "lat": 54.32814,
+    "lng": -5.71529
+  },
+  {
+    "name": "Downham Market",
+    "country": "GB",
+    "lat": 52.60714,
+    "lng": 0.38375
+  },
+  {
+    "name": "Doveridge",
+    "country": "GB",
+    "lat": 52.90526,
+    "lng": -1.8248
+  },
+  {
+    "name": "Dovercourt",
+    "country": "GB",
+    "lat": 51.93649,
+    "lng": 1.27831
+  },
+  {
+    "name": "Dover",
+    "country": "GB",
+    "lat": 51.12598,
+    "lng": 1.31257
+  },
+  {
+    "name": "Dove Holes",
+    "country": "GB",
+    "lat": 53.29828,
+    "lng": -1.88775
+  },
+  {
+    "name": "Doune",
+    "country": "GB",
+    "lat": 56.18995,
+    "lng": -4.05288
+  },
+  {
+    "name": "Douglas",
+    "country": "GB",
+    "lat": 55.55,
+    "lng": -3.85
+  },
+  {
+    "name": "Dorstone",
+    "country": "GB",
+    "lat": 52.06667,
+    "lng": -3.0
+  },
+  {
+    "name": "Dorridge",
+    "country": "GB",
+    "lat": 52.37259,
+    "lng": -1.75318
+  },
+  {
+    "name": "Dornoch",
+    "country": "GB",
+    "lat": 57.8805,
+    "lng": -4.02879
+  },
+  {
+    "name": "Dormansland",
+    "country": "GB",
+    "lat": 51.16024,
+    "lng": 0.00618
+  },
+  {
+    "name": "Dorking",
+    "country": "GB",
+    "lat": 51.23228,
+    "lng": -0.3338
+  },
+  {
+    "name": "Dorchester",
+    "country": "GB",
+    "lat": 50.71667,
+    "lng": -2.43333
+  },
+  {
+    "name": "Donnington",
+    "country": "GB",
+    "lat": 52.0,
+    "lng": -2.41667
+  },
+  {
+    "name": "Donisthorpe",
+    "country": "GB",
+    "lat": 52.72401,
+    "lng": -1.538
+  },
+  {
+    "name": "Donington",
+    "country": "GB",
+    "lat": 52.90461,
+    "lng": -0.20505
+  },
+  {
+    "name": "Doncaster",
+    "country": "GB",
+    "lat": 53.52285,
+    "lng": -1.13116
+  },
+  {
+    "name": "Donaghadee",
+    "country": "GB",
+    "lat": 54.64126,
+    "lng": -5.53591
+  },
+  {
+    "name": "Dollar",
+    "country": "GB",
+    "lat": 56.16245,
+    "lng": -3.67135
+  },
+  {
+    "name": "Dolgellau",
+    "country": "GB",
+    "lat": 52.74222,
+    "lng": -3.88611
+  },
+  {
+    "name": "Dodworth",
+    "country": "GB",
+    "lat": 53.54306,
+    "lng": -1.52779
+  },
+  {
+    "name": "Doddington",
+    "country": "GB",
+    "lat": 55.58548,
+    "lng": -2.00415
+  },
+  {
+    "name": "Doddington",
+    "country": "GB",
+    "lat": 52.49671,
+    "lng": 0.06017
+  },
+  {
+    "name": "Dobwalls",
+    "country": "GB",
+    "lat": 50.45768,
+    "lng": -4.51735
+  },
+  {
+    "name": "Doagh",
+    "country": "GB",
+    "lat": 54.75,
+    "lng": -6.08333
+  },
+  {
+    "name": "Donnington",
+    "country": "GB",
+    "lat": 51.95135,
+    "lng": -1.72142
+  },
+  {
+    "name": "Donington le Heath",
+    "country": "GB",
+    "lat": 52.70786,
+    "lng": -1.37844
+  },
+  {
+    "name": "Dobcross",
+    "country": "GB",
+    "lat": 53.55639,
+    "lng": -2.01325
+  },
+  {
+    "name": "Domaa-Ahenkro",
+    "country": "GH",
+    "lat": 7.27386,
+    "lng": -2.87348
+  },
+  {
+    "name": "Dome",
+    "country": "GH",
+    "lat": 5.65003,
+    "lng": -0.2361
+  },
+  {
+    "name": "Doko",
+    "country": "GN",
+    "lat": 11.78333,
+    "lng": -8.96667
+  },
+  {
+    "name": "Domvraína",
+    "country": "GR",
+    "lat": 38.253,
+    "lng": 22.98211
+  },
+  {
+    "name": "Domokós",
+    "country": "GR",
+    "lat": 39.12722,
+    "lng": 22.30028
+  },
+  {
+    "name": "Dolores",
+    "country": "GT",
+    "lat": 16.51178,
+    "lng": -89.41704
+  },
+  {
+    "name": "Dolores",
+    "country": "HN",
+    "lat": 14.87459,
+    "lng": -88.81637
+  },
+  {
+    "name": "Donji Vidovec",
+    "country": "HR",
+    "lat": 46.32917,
+    "lng": 16.78667
+  },
+  {
+    "name": "Donji Seget",
+    "country": "HR",
+    "lat": 43.51667,
+    "lng": 16.23333
+  },
+  {
+    "name": "Donji Proložac",
+    "country": "HR",
+    "lat": 43.46972,
+    "lng": 17.15639
+  },
+  {
+    "name": "Donji Muć",
+    "country": "HR",
+    "lat": 43.69444,
+    "lng": 16.46224
+  },
+  {
+    "name": "Donji Miholjac",
+    "country": "HR",
+    "lat": 45.76083,
+    "lng": 18.16722
+  },
+  {
+    "name": "Donji Lapac",
+    "country": "HR",
+    "lat": 44.55306,
+    "lng": 15.96194
+  },
+  {
+    "name": "Donji Kraljevec",
+    "country": "HR",
+    "lat": 46.36734,
+    "lng": 16.64936
+  },
+  {
+    "name": "Donji Andrijevci",
+    "country": "HR",
+    "lat": 45.18833,
+    "lng": 18.29972
+  },
+  {
+    "name": "Donje Ladanje",
+    "country": "HR",
+    "lat": 46.30343,
+    "lng": 16.16904
+  },
+  {
+    "name": "Donja Voća",
+    "country": "HR",
+    "lat": 46.30083,
+    "lng": 16.105
+  },
+  {
+    "name": "Donja Stubica",
+    "country": "HR",
+    "lat": 45.98333,
+    "lng": 15.96667
+  },
+  {
+    "name": "Donja Pušća",
+    "country": "HR",
+    "lat": 45.91667,
+    "lng": 15.77778
+  },
+  {
+    "name": "Donja Motičina",
+    "country": "HR",
+    "lat": 45.49472,
+    "lng": 18.02417
+  },
+  {
+    "name": "Donja Lomnica",
+    "country": "HR",
+    "lat": 45.71155,
+    "lng": 16.02137
+  },
+  {
+    "name": "Donja Dubrava",
+    "country": "HR",
+    "lat": 46.31472,
+    "lng": 16.81194
+  },
+  {
+    "name": "Donja Bistra",
+    "country": "HR",
+    "lat": 45.90778,
+    "lng": 15.85444
+  },
+  {
+    "name": "Domašinec",
+    "country": "HR",
+    "lat": 46.4325,
+    "lng": 16.6
+  },
+  {
+    "name": "Dobrodol",
+    "country": "HR",
+    "lat": 45.86091,
+    "lng": 16.09712
+  },
+  {
+    "name": "Dobrinj",
+    "country": "HR",
+    "lat": 45.12999,
+    "lng": 14.60381
+  },
+  {
+    "name": "Donji Vinjani",
+    "country": "HR",
+    "lat": 43.44613,
+    "lng": 17.24064
+  },
+  {
+    "name": "Donji Kukuruzari",
+    "country": "HR",
+    "lat": 45.26639,
+    "lng": 16.48333
+  },
+  {
+    "name": "Donji Stupnik",
+    "country": "HR",
+    "lat": 45.73971,
+    "lng": 15.85975
+  },
+  {
+    "name": "Doluš",
+    "country": "HR",
+    "lat": 45.50055,
+    "lng": 14.91448
+  },
+  {
+    "name": "Dondon",
+    "country": "HT",
+    "lat": 19.52734,
+    "lng": -72.24337
+  },
+  {
+    "name": "Domoszló",
+    "country": "HU",
+    "lat": 47.83333,
+    "lng": 20.11667
+  },
+  {
+    "name": "Dombrád",
+    "country": "HU",
+    "lat": 48.23333,
+    "lng": 21.93333
+  },
+  {
+    "name": "Dombegyház",
+    "country": "HU",
+    "lat": 46.33333,
+    "lng": 21.13333
+  },
+  {
+    "name": "Domaszék",
+    "country": "HU",
+    "lat": 46.24917,
+    "lng": 20.01111
+  },
+  {
+    "name": "Doboz",
+    "country": "HU",
+    "lat": 46.73333,
+    "lng": 21.25
+  },
+  {
+    "name": "Dorog",
+    "country": "HU",
+    "lat": 47.72095,
+    "lng": 18.73641
+  },
+  {
+    "name": "Domony",
+    "country": "HU",
+    "lat": 47.65552,
+    "lng": 19.43229
+  },
+  {
+    "name": "Dombóvár",
+    "country": "HU",
+    "lat": 46.37657,
+    "lng": 18.13696
+  },
+  {
+    "name": "Dolok Sanggul",
+    "country": "ID",
+    "lat": 2.2588,
+    "lng": 98.7501
+  },
+  {
+    "name": "Donomulyo",
+    "country": "ID",
+    "lat": -8.2867,
+    "lng": 112.427
+  },
+  {
+    "name": "Dongko",
+    "country": "ID",
+    "lat": -8.1882,
+    "lng": 111.5746
+  },
+  {
+    "name": "Donggala",
+    "country": "ID",
+    "lat": -0.6723,
+    "lng": 119.7402
+  },
+  {
+    "name": "Dompu",
+    "country": "ID",
+    "lat": -8.5365,
+    "lng": 118.4634
+  },
+  {
+    "name": "Dofa",
+    "country": "ID",
+    "lat": -1.7952,
+    "lng": 125.3649
+  },
+  {
+    "name": "Dobo",
+    "country": "ID",
+    "lat": -5.76092,
+    "lng": 134.23405
+  },
+  {
+    "name": "Donggo",
+    "country": "ID",
+    "lat": -8.4247,
+    "lng": 118.5952
+  },
+  {
+    "name": "Doom",
+    "country": "ID",
+    "lat": -0.88718,
+    "lng": 131.23644
+  },
+  {
+    "name": "Douglas",
+    "country": "IE",
+    "lat": 51.87444,
+    "lng": -8.435
+  },
+  {
+    "name": "Donnybrook",
+    "country": "IE",
+    "lat": 53.31375,
+    "lng": -6.22274
+  },
+  {
+    "name": "Donegal",
+    "country": "IE",
+    "lat": 54.65378,
+    "lng": -8.11134
+  },
+  {
+    "name": "Donabate",
+    "country": "IE",
+    "lat": 53.48722,
+    "lng": -6.15194
+  },
+  {
+    "name": "Dollymount",
+    "country": "IE",
+    "lat": 53.36489,
+    "lng": -6.18032
+  },
+  {
+    "name": "Donaghmede",
+    "country": "IE",
+    "lat": 53.39845,
+    "lng": -6.16179
+  },
+  {
+    "name": "Donnycarney",
+    "country": "IE",
+    "lat": 53.3735,
+    "lng": -6.20976
+  },
+  {
+    "name": "Dolev",
+    "country": "IL",
+    "lat": 31.92609,
+    "lng": 35.13393
+  },
+  {
+    "name": "Douglas",
+    "country": "IM",
+    "lat": 54.15,
+    "lng": -4.48333
+  },
+  {
+    "name": "Dostpur",
+    "country": "IN",
+    "lat": 26.27486,
+    "lng": 82.47091
+  },
+  {
+    "name": "Dornakal",
+    "country": "IN",
+    "lat": 17.44475,
+    "lng": 80.14905
+  },
+  {
+    "name": "Dorāha",
+    "country": "IN",
+    "lat": 30.79953,
+    "lng": 76.02355
+  },
+  {
+    "name": "Dongargarh",
+    "country": "IN",
+    "lat": 21.18893,
+    "lng": 80.75459
+  },
+  {
+    "name": "Dongargaon",
+    "country": "IN",
+    "lat": 20.97172,
+    "lng": 80.85077
+  },
+  {
+    "name": "Dondi",
+    "country": "IN",
+    "lat": 20.48809,
+    "lng": 81.08708
+  },
+  {
+    "name": "Dondaicha",
+    "country": "IN",
+    "lat": 21.3236,
+    "lng": 74.56804
+  },
+  {
+    "name": "Domchānch",
+    "country": "IN",
+    "lat": 24.47484,
+    "lng": 85.69213
+  },
+  {
+    "name": "Dombivali",
+    "country": "IN",
+    "lat": 19.21667,
+    "lng": 73.08333
+  },
+  {
+    "name": "Doiwāla",
+    "country": "IN",
+    "lat": 30.17667,
+    "lng": 78.11659
+  },
+  {
+    "name": "Dohrighāt",
+    "country": "IN",
+    "lat": 26.27217,
+    "lng": 83.50916
+  },
+  {
+    "name": "Doddaballapura",
+    "country": "IN",
+    "lat": 13.29452,
+    "lng": 77.53777
+  },
+  {
+    "name": "Doda",
+    "country": "IN",
+    "lat": 33.14916,
+    "lng": 75.54746
+  },
+  {
+    "name": "Dohad",
+    "country": "IN",
+    "lat": 22.83283,
+    "lng": 74.25986
+  },
+  {
+    "name": "Doboka",
+    "country": "IN",
+    "lat": 26.11647,
+    "lng": 92.86374
+  },
+  {
+    "name": "Doptāla",
+    "country": "IN",
+    "lat": 19.80182,
+    "lng": 79.34226
+  },
+  {
+    "name": "Donkamokam",
+    "country": "IN",
+    "lat": 25.93338,
+    "lng": 92.70736
+  },
+  {
+    "name": "Dommaranandyāla",
+    "country": "IN",
+    "lat": 14.86411,
+    "lng": 78.36408
+  },
+  {
+    "name": "Dommasandra",
+    "country": "IN",
+    "lat": 12.87792,
+    "lng": 77.75345
+  },
+  {
+    "name": "Dooru Verinag",
+    "country": "IN",
+    "lat": 33.5594,
+    "lng": 75.23222
+  },
+  {
+    "name": "Dowleswaram",
+    "country": "IN",
+    "lat": 16.94761,
+    "lng": 81.77987
+  },
+  {
+    "name": "Dokmoka",
+    "country": "IN",
+    "lat": 26.21026,
+    "lng": 93.05174
+  },
+  {
+    "name": "Dornapal",
+    "country": "IN",
+    "lat": 18.15514,
+    "lng": 81.50858
+  },
+  {
+    "name": "Donimalai Township",
+    "country": "IN",
+    "lat": 15.06041,
+    "lng": 76.59217
+  },
+  {
+    "name": "Dola",
+    "country": "IN",
+    "lat": 23.2209,
+    "lng": 82.13317
+  },
+  {
+    "name": "Downtown",
+    "country": "IO",
+    "lat": -7.26229,
+    "lng": 72.37676
+  },
+  {
+    "name": "Dowlatābād",
+    "country": "IR",
+    "lat": 35.28219,
+    "lng": 59.51972
+  },
+  {
+    "name": "Dorūd",
+    "country": "IR",
+    "lat": 33.49218,
+    "lng": 49.0616
+  },
+  {
+    "name": "Dogonbadan",
+    "country": "IR",
+    "lat": 30.3586,
+    "lng": 50.7981
+  },
+  {
+    "name": "Dowrāhak",
+    "country": "IR",
+    "lat": 27.94693,
+    "lng": 51.96059
+  },
+  {
+    "name": "Dowlatābād",
+    "country": "IR",
+    "lat": 32.79978,
+    "lng": 51.69553
+  },
+  {
+    "name": "Dorcheh Pīāz",
+    "country": "IR",
+    "lat": 32.61528,
+    "lng": 51.55556
+  },
+  {
+    "name": "Doria",
+    "country": "IT",
+    "lat": 39.73042,
+    "lng": 16.35597
+  },
+  {
+    "name": "Donorì",
+    "country": "IT",
+    "lat": 39.43182,
+    "lng": 9.12674
+  },
+  {
+    "name": "Donnici Inferiore",
+    "country": "IT",
+    "lat": 39.2502,
+    "lng": 16.29307
+  },
+  {
+    "name": "Donnalucata",
+    "country": "IT",
+    "lat": 36.76117,
+    "lng": 14.64022
+  },
+  {
+    "name": "Donigala Fenugheddu",
+    "country": "IT",
+    "lat": 39.93501,
+    "lng": 8.57311
+  },
+  {
+    "name": "Domusnovas",
+    "country": "IT",
+    "lat": 39.32404,
+    "lng": 8.64921
+  },
+  {
+    "name": "Domus de Maria",
+    "country": "IT",
+    "lat": 38.94451,
+    "lng": 8.8625
+  },
+  {
+    "name": "Domanico",
+    "country": "IT",
+    "lat": 39.21693,
+    "lng": 16.20721
+  },
+  {
+    "name": "Dolianova",
+    "country": "IT",
+    "lat": 39.37791,
+    "lng": 9.17697
+  },
+  {
+    "name": "Dolina",
+    "country": "IT",
+    "lat": 45.6008,
+    "lng": 13.85929
+  },
+  {
+    "name": "Dozza",
+    "country": "IT",
+    "lat": 44.36195,
+    "lng": 11.63547
+  },
+  {
+    "name": "Dovera",
+    "country": "IT",
+    "lat": 45.36428,
+    "lng": 9.54445
+  },
+  {
+    "name": "Dovadola",
+    "country": "IT",
+    "lat": 44.12211,
+    "lng": 11.88707
+  },
+  {
+    "name": "Dosson",
+    "country": "IT",
+    "lat": 45.63605,
+    "lng": 12.25409
+  },
+  {
+    "name": "Dossobuono",
+    "country": "IT",
+    "lat": 45.39333,
+    "lng": 10.91054
+  },
+  {
+    "name": "Dosso",
+    "country": "IT",
+    "lat": 44.76806,
+    "lng": 11.33938
+  },
+  {
+    "name": "Dosolo",
+    "country": "IT",
+    "lat": 44.95259,
+    "lng": 10.6355
+  },
+  {
+    "name": "Dosimo",
+    "country": "IT",
+    "lat": 45.18469,
+    "lng": 10.10362
+  },
+  {
+    "name": "Dorno",
+    "country": "IT",
+    "lat": 45.15352,
+    "lng": 8.95076
+  },
+  {
+    "name": "Dorio",
+    "country": "IT",
+    "lat": 46.1002,
+    "lng": 9.31883
+  },
+  {
+    "name": "Dorgali",
+    "country": "IT",
+    "lat": 40.29221,
+    "lng": 9.58702
+  },
+  {
+    "name": "Donzella",
+    "country": "IT",
+    "lat": 44.93047,
+    "lng": 12.33119
+  },
+  {
+    "name": "Dongo",
+    "country": "IT",
+    "lat": 46.12999,
+    "lng": 9.28169
+  },
+  {
+    "name": "Domodossola",
+    "country": "IT",
+    "lat": 46.1165,
+    "lng": 8.29313
+  },
+  {
+    "name": "Domicella",
+    "country": "IT",
+    "lat": 40.88019,
+    "lng": 14.58716
+  },
+  {
+    "name": "Domegge di Cadore",
+    "country": "IT",
+    "lat": 46.45666,
+    "lng": 12.40724
+  },
+  {
+    "name": "Domaso",
+    "country": "IT",
+    "lat": 46.15284,
+    "lng": 9.3315
+  },
+  {
+    "name": "Dolo",
+    "country": "IT",
+    "lat": 45.42528,
+    "lng": 12.08429
+  },
+  {
+    "name": "Dolcedo",
+    "country": "IT",
+    "lat": 43.90735,
+    "lng": 7.94943
+  },
+  {
+    "name": "Dolceacqua",
+    "country": "IT",
+    "lat": 43.84975,
+    "lng": 7.62373
+  },
+  {
+    "name": "Dolcè",
+    "country": "IT",
+    "lat": 45.60069,
+    "lng": 10.85248
+  },
+  {
+    "name": "Dogna",
+    "country": "IT",
+    "lat": 46.44793,
+    "lng": 13.31502
+  },
+  {
+    "name": "Dogliola",
+    "country": "IT",
+    "lat": 41.94238,
+    "lng": 14.63507
+  },
+  {
+    "name": "Dogliani",
+    "country": "IT",
+    "lat": 44.53326,
+    "lng": 7.9451
+  },
+  {
+    "name": "Doberdò del Lago",
+    "country": "IT",
+    "lat": 45.84444,
+    "lng": 13.53908
+  },
+  {
+    "name": "Dobbiaco",
+    "country": "IT",
+    "lat": 46.72878,
+    "lng": 12.22225
+  },
+  {
+    "name": "Dolegna del Collio",
+    "country": "IT",
+    "lat": 46.03094,
+    "lng": 13.47885
+  },
+  {
+    "name": "Dorsino",
+    "country": "IT",
+    "lat": 46.0727,
+    "lng": 10.89737
+  },
+  {
+    "name": "Donnas",
+    "country": "IT",
+    "lat": 45.60286,
+    "lng": 7.77491
+  },
+  {
+    "name": "Doues",
+    "country": "IT",
+    "lat": 45.81916,
+    "lng": 7.306
+  },
+  {
+    "name": "Dosso del Liro",
+    "country": "IT",
+    "lat": 46.16399,
+    "lng": 9.27294
+  },
+  {
+    "name": "Dossena",
+    "country": "IT",
+    "lat": 45.88029,
+    "lng": 9.69675
+  },
+  {
+    "name": "Don",
+    "country": "IT",
+    "lat": 46.38931,
+    "lng": 11.13647
+  },
+  {
+    "name": "Donato",
+    "country": "IT",
+    "lat": 45.52626,
+    "lng": 7.90962
+  },
+  {
+    "name": "Dormelletto",
+    "country": "IT",
+    "lat": 45.73627,
+    "lng": 8.56663
+  },
+  {
+    "name": "Dorzano",
+    "country": "IT",
+    "lat": 45.42606,
+    "lng": 8.09852
+  },
+  {
+    "name": "Dolzago",
+    "country": "IT",
+    "lat": 45.76698,
+    "lng": 9.33934
+  },
+  {
+    "name": "Donoratico",
+    "country": "IT",
+    "lat": 43.16927,
+    "lng": 10.56744
+  },
+  {
+    "name": "Dodici Morelli",
+    "country": "IT",
+    "lat": 44.79234,
+    "lng": 11.29124
+  },
+  {
+    "name": "Domio",
+    "country": "IT",
+    "lat": 45.61049,
+    "lng": 13.83103
+  },
+  {
+    "name": "Dosso-Ville",
+    "country": "IT",
+    "lat": 45.75251,
+    "lng": 10.27397
+  },
+  {
+    "name": "Don",
+    "country": "IT",
+    "lat": 46.22144,
+    "lng": 11.95598
+  },
+  {
+    "name": "Dorosaki",
+    "country": "JP",
+    "lat": 36.76955,
+    "lng": 137.90358
+  },
+  {
+    "name": "Doun Yay",
+    "country": "KH",
+    "lat": 10.77998,
+    "lng": 104.44382
+  },
+  {
+    "name": "Domoni",
+    "country": "KM",
+    "lat": -12.26067,
+    "lng": 44.52947
+  },
+  {
+    "name": "Douniani",
+    "country": "KM",
+    "lat": -11.42111,
+    "lng": 43.28889
+  },
+  {
+    "name": "Dongnae",
+    "country": "KR",
+    "lat": 35.20159,
+    "lng": 129.08477
+  },
+  {
+    "name": "Dongbok",
+    "country": "KR",
+    "lat": 35.07,
+    "lng": 127.13028
+  },
+  {
+    "name": "Donghae City",
+    "country": "KR",
+    "lat": 37.54389,
+    "lng": 129.10694
+  },
+  {
+    "name": "Dongi",
+    "country": "KR",
+    "lat": 36.2844,
+    "lng": 127.6199
+  },
+  {
+    "name": "Dongnae",
+    "country": "KR",
+    "lat": 37.84747,
+    "lng": 127.76164
+  },
+  {
+    "name": "Dongmyeon",
+    "country": "KR",
+    "lat": 38.20135,
+    "lng": 128.04327
+  },
+  {
+    "name": "Dopo",
+    "country": "KR",
+    "lat": 34.84601,
+    "lng": 126.64367
+  },
+  {
+    "name": "Dongmyeon",
+    "country": "KR",
+    "lat": 35.03069,
+    "lng": 127.03837
+  },
+  {
+    "name": "Donggye",
+    "country": "KR",
+    "lat": 35.44168,
+    "lng": 127.24264
+  },
+  {
+    "name": "Dodong-ri",
+    "country": "KR",
+    "lat": 37.49505,
+    "lng": 130.90434
+  },
+  {
+    "name": "Dog City",
+    "country": "KY",
+    "lat": 19.30795,
+    "lng": -81.38223
+  },
+  {
+    "name": "Dossor",
+    "country": "KZ",
+    "lat": 47.53234,
+    "lng": 52.9709
+  },
+  {
+    "name": "Dolinka",
+    "country": "KZ",
+    "lat": 49.67685,
+    "lng": 72.67822
+  },
+  {
+    "name": "Dommeldange",
+    "country": "LU",
+    "lat": 49.63411,
+    "lng": 6.13864
+  },
+  {
+    "name": "Dobele",
+    "country": "LV",
+    "lat": 56.62372,
+    "lng": 23.2751
+  },
+  {
+    "name": "Douar Toulal",
+    "country": "MA",
+    "lat": 33.88483,
+    "lng": -5.59664
+  },
+  {
+    "name": "Douar el Caïd el Gueddari",
+    "country": "MA",
+    "lat": 34.42121,
+    "lng": -6.09099
+  },
+  {
+    "name": "Douar Sidi Bouafif",
+    "country": "MA",
+    "lat": 35.17244,
+    "lng": -3.86732
+  },
+  {
+    "name": "Dolna",
+    "country": "MD",
+    "lat": 47.12189,
+    "lng": 28.27033
+  },
+  {
+    "name": "Donduşeni",
+    "country": "MD",
+    "lat": 48.24268,
+    "lng": 27.6101
+  },
+  {
+    "name": "Dobrota",
+    "country": "ME",
+    "lat": 42.45417,
+    "lng": 18.76833
+  },
+  {
+    "name": "Dolno Srpci",
+    "country": "MK",
+    "lat": 41.1748,
+    "lng": 21.36464
+  },
+  {
+    "name": "Dolno Palčište",
+    "country": "MK",
+    "lat": 41.96859,
+    "lng": 20.92899
+  },
+  {
+    "name": "Dolno Orizari",
+    "country": "MK",
+    "lat": 41.05028,
+    "lng": 21.37944
+  },
+  {
+    "name": "Dolno Količani",
+    "country": "MK",
+    "lat": 41.88639,
+    "lng": 21.48556
+  },
+  {
+    "name": "Dolneni",
+    "country": "MK",
+    "lat": 41.42459,
+    "lng": 21.45455
+  },
+  {
+    "name": "Dolna Banjica",
+    "country": "MK",
+    "lat": 41.78611,
+    "lng": 20.90611
+  },
+  {
+    "name": "Dobruševo",
+    "country": "MK",
+    "lat": 41.16861,
+    "lng": 21.4825
+  },
+  {
+    "name": "Dobrošte",
+    "country": "MK",
+    "lat": 42.10333,
+    "lng": 21.07778
+  },
+  {
+    "name": "Dobri Dol",
+    "country": "MK",
+    "lat": 41.8652,
+    "lng": 20.89009
+  },
+  {
+    "name": "Dobarce",
+    "country": "MK",
+    "lat": 41.9553,
+    "lng": 21.08875
+  },
+  {
+    "name": "Doumba",
+    "country": "ML",
+    "lat": 13.1042,
+    "lng": -7.61121
+  },
+  {
+    "name": "Douentza",
+    "country": "ML",
+    "lat": 15.00605,
+    "lng": -2.9517
+  },
+  {
+    "name": "Dougabougou",
+    "country": "ML",
+    "lat": 13.82049,
+    "lng": -6.12057
+  },
+  {
+    "name": "Don Wun",
+    "country": "MM",
+    "lat": 17.14201,
+    "lng": 97.27444
+  },
+  {
+    "name": "Doloon",
+    "country": "MN",
+    "lat": 44.42446,
+    "lng": 105.32078
+  },
+  {
+    "name": "Dowa",
+    "country": "MW",
+    "lat": -13.65399,
+    "lng": 33.93754
+  },
+  {
+    "name": "Doxhicho",
+    "country": "MX",
+    "lat": 19.89999,
+    "lng": -99.55727
+  },
+  {
+    "name": "Doxey",
+    "country": "MX",
+    "lat": 20.09169,
+    "lng": -99.24362
+  },
+  {
+    "name": "Dos Ríos",
+    "country": "MX",
+    "lat": 19.48417,
+    "lng": -96.79944
+  },
+  {
+    "name": "Dos Bocas",
+    "country": "MX",
+    "lat": 18.41087,
+    "lng": -95.70732
+  },
+  {
+    "name": "Dos Arroyos",
+    "country": "MX",
+    "lat": 17.0206,
+    "lng": -99.64966
+  },
+  {
+    "name": "Domingo Arenas",
+    "country": "MX",
+    "lat": 19.13998,
+    "lng": -98.45678
+  },
+  {
+    "name": "Dolores Jaltenango",
+    "country": "MX",
+    "lat": 15.89694,
+    "lng": -92.77777
+  },
+  {
+    "name": "Doctor González",
+    "country": "MX",
+    "lat": 25.85983,
+    "lng": -99.94409
+  },
+  {
+    "name": "Doctor Coss",
+    "country": "MX",
+    "lat": 25.92492,
+    "lng": -99.18316
+  },
+  {
+    "name": "Donaji",
+    "country": "MX",
+    "lat": 17.2295,
+    "lng": -95.05295
+  },
+  {
+    "name": "Dos Ceibas",
+    "country": "MX",
+    "lat": 18.04112,
+    "lng": -93.03561
+  },
+  {
+    "name": "Dos Montes",
+    "country": "MX",
+    "lat": 17.98608,
+    "lng": -92.82765
+  },
+  {
+    "name": "Doctor Domingo Chanona",
+    "country": "MX",
+    "lat": 16.34611,
+    "lng": -93.41667
+  },
+  {
+    "name": "Doctor Belisario Domínguez (La Barra)",
+    "country": "MX",
+    "lat": 15.88947,
+    "lng": -93.70404
+  },
+  {
+    "name": "Dolores Hidalgo",
+    "country": "MX",
+    "lat": 18.75697,
+    "lng": -97.86062
+  },
+  {
+    "name": "Dos Ríos",
+    "country": "MX",
+    "lat": 18.94552,
+    "lng": -97.02841
+  },
+  {
+    "name": "Doctor Montes de Oca",
+    "country": "MX",
+    "lat": 20.93477,
+    "lng": -97.55585
+  },
+  {
+    "name": "Dolores Hidalgo",
+    "country": "MX",
+    "lat": 19.65528,
+    "lng": -99.92639
+  },
+  {
+    "name": "Doxtejé Centro",
+    "country": "MX",
+    "lat": 19.97035,
+    "lng": -99.95324
+  },
+  {
+    "name": "Dongu",
+    "country": "MX",
+    "lat": 19.84295,
+    "lng": -99.58651
+  },
+  {
+    "name": "Dos Ríos",
+    "country": "MX",
+    "lat": 19.37467,
+    "lng": -99.34359
+  },
+  {
+    "name": "Doctor Alberto Oviedo Mota",
+    "country": "MX",
+    "lat": 32.22756,
+    "lng": -115.16792
+  },
+  {
+    "name": "Doctor Miguel Silva (San Guillermo)",
+    "country": "MX",
+    "lat": 19.96583,
+    "lng": -101.17417
+  },
+  {
+    "name": "Dos de Abril",
+    "country": "MX",
+    "lat": 25.91156,
+    "lng": -108.94022
+  },
+  {
+    "name": "Doctor Belisario Domínguez",
+    "country": "MX",
+    "lat": 28.15396,
+    "lng": -106.4768
+  },
+  {
+    "name": "Doctor Arroyo",
+    "country": "MX",
+    "lat": 23.67211,
+    "lng": -100.18134
+  },
+  {
+    "name": "Doctor Mora",
+    "country": "MX",
+    "lat": 21.14246,
+    "lng": -100.31966
+  },
+  {
+    "name": "Dolores Hidalgo",
+    "country": "MX",
+    "lat": 21.15611,
+    "lng": -100.9325
+  },
+  {
+    "name": "Don Diego",
+    "country": "MX",
+    "lat": 20.69791,
+    "lng": -100.90209
+  },
+  {
+    "name": "Don Francisco",
+    "country": "MX",
+    "lat": 20.90281,
+    "lng": -100.91873
+  },
+  {
+    "name": "Dolores",
+    "country": "MX",
+    "lat": 20.06059,
+    "lng": -100.32211
+  },
+  {
+    "name": "Donaciano Ojeda",
+    "country": "MX",
+    "lat": 19.49093,
+    "lng": -100.27952
+  },
+  {
+    "name": "Dotegiare",
+    "country": "MX",
+    "lat": 19.70705,
+    "lng": -100.04354
+  },
+  {
+    "name": "Dolores Cuadrilla de Enmedio",
+    "country": "MX",
+    "lat": 20.35241,
+    "lng": -100.07915
+  },
+  {
+    "name": "Don Samuel",
+    "country": "MX",
+    "lat": 18.36,
+    "lng": -90.85722
+  },
+  {
+    "name": "Don Antonio",
+    "country": "MX",
+    "lat": 19.87444,
+    "lng": -98.93472
+  },
+  {
+    "name": "Doctor Rodulfo Figueroa (Tierra Blanca)",
+    "country": "MX",
+    "lat": 15.85083,
+    "lng": -92.06222
+  },
+  {
+    "name": "Doctor Samuel León Brindis",
+    "country": "MX",
+    "lat": 17.43528,
+    "lng": -91.93194
+  },
+  {
+    "name": "Doxteje Centro",
+    "country": "MX",
+    "lat": 19.97528,
+    "lng": -99.95472
+  },
+  {
+    "name": "Doxteje Barrio Primero",
+    "country": "MX",
+    "lat": 19.95972,
+    "lng": -99.95861
+  },
+  {
+    "name": "Donggongon",
+    "country": "MY",
+    "lat": 5.90702,
+    "lng": 116.10146
+  },
+  {
+    "name": "Dondo",
+    "country": "MZ",
+    "lat": -19.60944,
+    "lng": 34.74306
+  },
+  {
+    "name": "Dosso",
+    "country": "NE",
+    "lat": 13.049,
+    "lng": 3.1937
+  },
+  {
+    "name": "Dogondoutchi",
+    "country": "NE",
+    "lat": 13.6403,
+    "lng": 4.02649
+  },
+  {
+    "name": "Donga",
+    "country": "NG",
+    "lat": 7.72175,
+    "lng": 10.04526
+  },
+  {
+    "name": "Doma",
+    "country": "NG",
+    "lat": 8.39307,
+    "lng": 8.35544
+  },
+  {
+    "name": "Dolores",
+    "country": "NI",
+    "lat": 11.85672,
+    "lng": -86.21552
+  },
+  {
+    "name": "Dorst",
+    "country": "NL",
+    "lat": 51.59,
+    "lng": 4.85694
+  },
+  {
+    "name": "Dordrecht",
+    "country": "NL",
+    "lat": 51.81,
+    "lng": 4.67361
+  },
+  {
+    "name": "Doorwerth",
+    "country": "NL",
+    "lat": 51.97917,
+    "lng": 5.79722
+  },
+  {
+    "name": "Doornsteeg",
+    "country": "NL",
+    "lat": 52.23,
+    "lng": 5.45417
+  },
+  {
+    "name": "Doornspijk",
+    "country": "NL",
+    "lat": 52.41833,
+    "lng": 5.81806
+  },
+  {
+    "name": "Doornenburg",
+    "country": "NL",
+    "lat": 51.89,
+    "lng": 6.0
+  },
+  {
+    "name": "Doorn",
+    "country": "NL",
+    "lat": 52.03343,
+    "lng": 5.34571
+  },
+  {
+    "name": "Doonheide",
+    "country": "NL",
+    "lat": 51.56667,
+    "lng": 5.69444
+  },
+  {
+    "name": "Donkerbroek",
+    "country": "NL",
+    "lat": 53.01734,
+    "lng": 6.23927
+  },
+  {
+    "name": "Donk",
+    "country": "NL",
+    "lat": 51.53843,
+    "lng": 5.62914
+  },
+  {
+    "name": "Dongen",
+    "country": "NL",
+    "lat": 51.62667,
+    "lng": 4.93889
+  },
+  {
+    "name": "Dommelen",
+    "country": "NL",
+    "lat": 51.34624,
+    "lng": 5.43394
+  },
+  {
+    "name": "Domburg",
+    "country": "NL",
+    "lat": 51.56333,
+    "lng": 3.49583
+  },
+  {
+    "name": "Dokkum",
+    "country": "NL",
+    "lat": 53.32224,
+    "lng": 5.99697
+  },
+  {
+    "name": "Doetinchem",
+    "country": "NL",
+    "lat": 51.965,
+    "lng": 6.28889
+  },
+  {
+    "name": "Doesburg",
+    "country": "NL",
+    "lat": 52.06667,
+    "lng": 5.61667
+  },
+  {
+    "name": "Doesburg",
+    "country": "NL",
+    "lat": 52.0125,
+    "lng": 6.13889
+  },
+  {
+    "name": "Doenrade",
+    "country": "NL",
+    "lat": 50.9675,
+    "lng": 5.90694
+  },
+  {
+    "name": "Dovre",
+    "country": "NO",
+    "lat": 61.9875,
+    "lng": 9.25556
+  },
+  {
+    "name": "Dombås",
+    "country": "NO",
+    "lat": 62.07554,
+    "lng": 9.12785
+  },
+  {
+    "name": "Dokka",
+    "country": "NO",
+    "lat": 60.835,
+    "lng": 10.07362
+  },
+  {
+    "name": "Dos Ríos",
+    "country": "PA",
+    "lat": 8.53316,
+    "lng": -82.3848
+  },
+  {
+    "name": "Dolega District",
+    "country": "PA",
+    "lat": 8.56667,
+    "lng": -82.41407
+  },
+  {
+    "name": "Dos Pueblos",
+    "country": "PE",
+    "lat": -5.45,
+    "lng": -80.76667
+  },
+  {
+    "name": "Dolores",
+    "country": "PH",
+    "lat": 15.09498,
+    "lng": 120.52889
+  },
+  {
+    "name": "Doljo",
+    "country": "PH",
+    "lat": 9.58745,
+    "lng": 123.73033
+  },
+  {
+    "name": "Doyong",
+    "country": "PH",
+    "lat": 15.97224,
+    "lng": 120.35386
+  },
+  {
+    "name": "Dos Hermanas",
+    "country": "PH",
+    "lat": 10.7421,
+    "lng": 123.0377
+  },
+  {
+    "name": "Dorongan Punta",
+    "country": "PH",
+    "lat": 15.81476,
+    "lng": 120.32266
+  },
+  {
+    "name": "Doos",
+    "country": "PH",
+    "lat": 10.46528,
+    "lng": 124.72944
+  },
+  {
+    "name": "Doong",
+    "country": "PH",
+    "lat": 11.0786,
+    "lng": 123.6395
+  },
+  {
+    "name": "Donsol",
+    "country": "PH",
+    "lat": 12.9055,
+    "lng": 123.5949
+  },
+  {
+    "name": "Don Pedro",
+    "country": "PH",
+    "lat": 15.88518,
+    "lng": 120.43036
+  },
+  {
+    "name": "Don Carlos",
+    "country": "PH",
+    "lat": 7.68,
+    "lng": 125.005
+  },
+  {
+    "name": "Doña Remedios Trinidad",
+    "country": "PH",
+    "lat": 15.0,
+    "lng": 121.08333
+  },
+  {
+    "name": "Domampot",
+    "country": "PH",
+    "lat": 16.0,
+    "lng": 120.65
+  },
+  {
+    "name": "Domalanoan",
+    "country": "PH",
+    "lat": 16.00292,
+    "lng": 120.21154
+  },
+  {
+    "name": "Dolores",
+    "country": "PH",
+    "lat": 17.6477,
+    "lng": 120.7091
+  },
+  {
+    "name": "Dolores",
+    "country": "PH",
+    "lat": 14.02265,
+    "lng": 121.41008
+  },
+  {
+    "name": "Dolores",
+    "country": "PH",
+    "lat": 12.0371,
+    "lng": 125.4825
+  },
+  {
+    "name": "Dolores",
+    "country": "PH",
+    "lat": 11.06139,
+    "lng": 124.61333
+  },
+  {
+    "name": "Dologon",
+    "country": "PH",
+    "lat": 7.84083,
+    "lng": 125.04444
+  },
+  {
+    "name": "Dolo",
+    "country": "PH",
+    "lat": 6.81028,
+    "lng": 125.19167
+  },
+  {
+    "name": "Dodan",
+    "country": "PH",
+    "lat": 17.64107,
+    "lng": 121.79449
+  },
+  {
+    "name": "Dobdoban",
+    "country": "PH",
+    "lat": 12.5747,
+    "lng": 122.1138
+  },
+  {
+    "name": "Dorsalanam",
+    "country": "PH",
+    "lat": 8.30667,
+    "lng": 124.58556
+  },
+  {
+    "name": "Dokri",
+    "country": "PK",
+    "lat": 27.37421,
+    "lng": 68.09715
+  },
+  {
+    "name": "Doaba",
+    "country": "PK",
+    "lat": 33.4245,
+    "lng": 70.73676
+  },
+  {
+    "name": "Dorohusk",
+    "country": "PL",
+    "lat": 51.15475,
+    "lng": 23.80325
+  },
+  {
+    "name": "Domaszowice",
+    "country": "PL",
+    "lat": 50.87488,
+    "lng": 20.68288
+  },
+  {
+    "name": "Domaradz",
+    "country": "PL",
+    "lat": 49.78675,
+    "lng": 21.94571
+  },
+  {
+    "name": "Domanice",
+    "country": "PL",
+    "lat": 52.03739,
+    "lng": 22.17642
+  },
+  {
+    "name": "Dołhobyczów",
+    "country": "PL",
+    "lat": 50.58591,
+    "lng": 24.03594
+  },
+  {
+    "name": "Dobrzyniewo Duże",
+    "country": "PL",
+    "lat": 53.20022,
+    "lng": 23.01129
+  },
+  {
+    "name": "Dobre Miasto",
+    "country": "PL",
+    "lat": 53.98668,
+    "lng": 20.39749
+  },
+  {
+    "name": "Dobre",
+    "country": "PL",
+    "lat": 52.32097,
+    "lng": 21.67881
+  },
+  {
+    "name": "Dobra",
+    "country": "PL",
+    "lat": 49.71793,
+    "lng": 20.25347
+  },
+  {
+    "name": "Dobczyce",
+    "country": "PL",
+    "lat": 49.88109,
+    "lng": 20.08936
+  },
+  {
+    "name": "Doruchów",
+    "country": "PL",
+    "lat": 51.41719,
+    "lng": 18.07697
+  },
+  {
+    "name": "Dopiewo",
+    "country": "PL",
+    "lat": 52.35726,
+    "lng": 16.67562
+  },
+  {
+    "name": "Dominowo",
+    "country": "PL",
+    "lat": 52.29158,
+    "lng": 17.35754
+  },
+  {
+    "name": "Domaszowice",
+    "country": "PL",
+    "lat": 51.0429,
+    "lng": 17.88875
+  },
+  {
+    "name": "Domaniewice",
+    "country": "PL",
+    "lat": 52.00623,
+    "lng": 19.80294
+  },
+  {
+    "name": "Dolsk",
+    "country": "PL",
+    "lat": 51.9818,
+    "lng": 17.06273
+  },
+  {
+    "name": "Dolice",
+    "country": "PL",
+    "lat": 53.19081,
+    "lng": 15.20267
+  },
+  {
+    "name": "Dobrzyń nad Wisłą",
+    "country": "PL",
+    "lat": 52.63814,
+    "lng": 19.31875
+  },
+  {
+    "name": "Dobrzyca",
+    "country": "PL",
+    "lat": 51.86663,
+    "lng": 17.60336
+  },
+  {
+    "name": "Dobrzeń Wielki",
+    "country": "PL",
+    "lat": 50.76844,
+    "lng": 17.84652
+  },
+  {
+    "name": "Dobrzany",
+    "country": "PL",
+    "lat": 53.35914,
+    "lng": 15.42886
+  },
+  {
+    "name": "Dobroszyce",
+    "country": "PL",
+    "lat": 51.26776,
+    "lng": 17.34205
+  },
+  {
+    "name": "Dobroń",
+    "country": "PL",
+    "lat": 51.63885,
+    "lng": 19.24539
+  },
+  {
+    "name": "Dobrodzień",
+    "country": "PL",
+    "lat": 50.72874,
+    "lng": 18.44501
+  },
+  {
+    "name": "Dobre",
+    "country": "PL",
+    "lat": 52.68398,
+    "lng": 18.57762
+  },
+  {
+    "name": "Dobra",
+    "country": "PL",
+    "lat": 53.58625,
+    "lng": 15.30977
+  },
+  {
+    "name": "Dobra",
+    "country": "PL",
+    "lat": 53.48835,
+    "lng": 14.38617
+  },
+  {
+    "name": "Dobra",
+    "country": "PL",
+    "lat": 51.91664,
+    "lng": 18.61556
+  },
+  {
+    "name": "Dobieszowice",
+    "country": "PL",
+    "lat": 50.39697,
+    "lng": 19.01304
+  },
+  {
+    "name": "Dobiegniew",
+    "country": "PL",
+    "lat": 52.96947,
+    "lng": 15.75362
+  },
+  {
+    "name": "Dorado",
+    "country": "PR",
+    "lat": 18.45883,
+    "lng": -66.26767
+  },
+  {
+    "name": "Doctor Juan Manuel Frutos",
+    "country": "PY",
+    "lat": -25.3838,
+    "lng": -55.83215
+  },
+  {
+    "name": "Doctor Juan León Mallorquín",
+    "country": "PY",
+    "lat": -25.43053,
+    "lng": -55.25412
+  },
+  {
+    "name": "Doctor Cecilio Báez",
+    "country": "PY",
+    "lat": -25.06943,
+    "lng": -56.24267
+  },
+  {
+    "name": "Doha",
+    "country": "QA",
+    "lat": 25.28545,
+    "lng": 51.53096
+  },
+  {
+    "name": "Doştat",
+    "country": "RO",
+    "lat": 45.96667,
+    "lng": 23.85
+  },
+  {
+    "name": "Dorolţ",
+    "country": "RO",
+    "lat": 47.85,
+    "lng": 22.81667
+  },
+  {
+    "name": "Dorohoi",
+    "country": "RO",
+    "lat": 47.95,
+    "lng": 26.4
+  },
+  {
+    "name": "Dorobanţu",
+    "country": "RO",
+    "lat": 44.95,
+    "lng": 28.26667
+  },
+  {
+    "name": "Dorobanțu",
+    "country": "RO",
+    "lat": 44.41035,
+    "lng": 28.32687
+  },
+  {
+    "name": "Dorobanțu",
+    "country": "RO",
+    "lat": 44.35416,
+    "lng": 26.39341
+  },
+  {
+    "name": "Dorobanţu",
+    "country": "RO",
+    "lat": 44.21667,
+    "lng": 26.95
+  },
+  {
+    "name": "Dorobanți",
+    "country": "RO",
+    "lat": 47.88234,
+    "lng": 26.64723
+  },
+  {
+    "name": "Dorobanți",
+    "country": "RO",
+    "lat": 46.35022,
+    "lng": 21.24441
+  },
+  {
+    "name": "Dorneşti",
+    "country": "RO",
+    "lat": 47.87174,
+    "lng": 26.0043
+  },
+  {
+    "name": "Dorna Cândrenilor",
+    "country": "RO",
+    "lat": 47.35,
+    "lng": 25.25
+  },
+  {
+    "name": "Dor Mărunt",
+    "country": "RO",
+    "lat": 44.45,
+    "lng": 26.91667
+  },
+  {
+    "name": "Dorgoş",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 21.83333
+  },
+  {
+    "name": "Domnița",
+    "country": "RO",
+    "lat": 47.02091,
+    "lng": 27.335
+  },
+  {
+    "name": "Domnești-Târg",
+    "country": "RO",
+    "lat": 46.01667,
+    "lng": 27.18333
+  },
+  {
+    "name": "Domneşti-Sârbi",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 25.91667
+  },
+  {
+    "name": "Domneşti",
+    "country": "RO",
+    "lat": 45.2,
+    "lng": 24.83333
+  },
+  {
+    "name": "Domnești",
+    "country": "RO",
+    "lat": 44.39919,
+    "lng": 25.91618
+  },
+  {
+    "name": "Domaşnea",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 22.31667
+  },
+  {
+    "name": "Domănești",
+    "country": "RO",
+    "lat": 47.71071,
+    "lng": 22.58975
+  },
+  {
+    "name": "Doljeşti",
+    "country": "RO",
+    "lat": 47.03333,
+    "lng": 26.98333
+  },
+  {
+    "name": "Dolheștii Mici",
+    "country": "RO",
+    "lat": 47.43633,
+    "lng": 26.55178
+  },
+  {
+    "name": "Dolheștii-Mari",
+    "country": "RO",
+    "lat": 47.4502,
+    "lng": 26.51326
+  },
+  {
+    "name": "Dolhești",
+    "country": "RO",
+    "lat": 47.21189,
+    "lng": 26.06738
+  },
+  {
+    "name": "Dolheşti",
+    "country": "RO",
+    "lat": 46.86667,
+    "lng": 27.9
+  },
+  {
+    "name": "Dolhasca",
+    "country": "RO",
+    "lat": 47.43333,
+    "lng": 26.6
+  },
+  {
+    "name": "Doiceşti",
+    "country": "RO",
+    "lat": 44.98333,
+    "lng": 25.4
+  },
+  {
+    "name": "Dognecea",
+    "country": "RO",
+    "lat": 45.27417,
+    "lng": 21.75694
+  },
+  {
+    "name": "Dofteana",
+    "country": "RO",
+    "lat": 46.31667,
+    "lng": 26.51667
+  },
+  {
+    "name": "Doftana",
+    "country": "RO",
+    "lat": 45.15,
+    "lng": 25.8
+  },
+  {
+    "name": "Dodești",
+    "country": "RO",
+    "lat": 46.35455,
+    "lng": 27.89311
+  },
+  {
+    "name": "Dodeni",
+    "country": "RO",
+    "lat": 46.92587,
+    "lng": 26.09277
+  },
+  {
+    "name": "Doclin",
+    "country": "RO",
+    "lat": 45.29694,
+    "lng": 21.65389
+  },
+  {
+    "name": "Dochia",
+    "country": "RO",
+    "lat": 46.90731,
+    "lng": 26.56763
+  },
+  {
+    "name": "Dobrușa",
+    "country": "RO",
+    "lat": 44.62642,
+    "lng": 24.20779
+  },
+  {
+    "name": "Dobrun",
+    "country": "RO",
+    "lat": 44.26667,
+    "lng": 24.21667
+  },
+  {
+    "name": "Dobrovăţ",
+    "country": "RO",
+    "lat": 46.95,
+    "lng": 27.7
+  },
+  {
+    "name": "Dobrotu",
+    "country": "RO",
+    "lat": 45.20633,
+    "lng": 24.65859
+  },
+  {
+    "name": "Dobrotinet",
+    "country": "RO",
+    "lat": 44.47957,
+    "lng": 24.3473
+  },
+  {
+    "name": "Dobroteşti",
+    "country": "RO",
+    "lat": 44.28333,
+    "lng": 24.88333
+  },
+  {
+    "name": "Dobrotești",
+    "country": "RO",
+    "lat": 43.96141,
+    "lng": 24.12405
+  },
+  {
+    "name": "Dobroteasa",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 24.38333
+  },
+  {
+    "name": "Dobrosloveni",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 24.36667
+  },
+  {
+    "name": "Dobromir",
+    "country": "RO",
+    "lat": 44.01667,
+    "lng": 27.78333
+  },
+  {
+    "name": "Dobroeşti",
+    "country": "RO",
+    "lat": 44.45,
+    "lng": 26.18333
+  },
+  {
+    "name": "Dobrița",
+    "country": "RO",
+    "lat": 45.13504,
+    "lng": 23.17406
+  },
+  {
+    "name": "Dobrin",
+    "country": "RO",
+    "lat": 47.28333,
+    "lng": 23.13333
+  },
+  {
+    "name": "Dobridor",
+    "country": "RO",
+    "lat": 44.11866,
+    "lng": 23.16969
+  },
+  {
+    "name": "Dobric",
+    "country": "RO",
+    "lat": 47.2469,
+    "lng": 24.12777
+  },
+  {
+    "name": "Dobreţu",
+    "country": "RO",
+    "lat": 44.5,
+    "lng": 23.95
+  },
+  {
+    "name": "Dobreşti",
+    "country": "RO",
+    "lat": 46.85,
+    "lng": 22.3
+  },
+  {
+    "name": "Dobreşti",
+    "country": "RO",
+    "lat": 44.96667,
+    "lng": 25.13333
+  },
+  {
+    "name": "Dobreşti",
+    "country": "RO",
+    "lat": 43.96667,
+    "lng": 23.95
+  },
+  {
+    "name": "Dobreni",
+    "country": "RO",
+    "lat": 46.98333,
+    "lng": 26.41667
+  },
+  {
+    "name": "Dobreni",
+    "country": "RO",
+    "lat": 44.41667,
+    "lng": 25.11667
+  },
+  {
+    "name": "Dobreni",
+    "country": "RO",
+    "lat": 44.2543,
+    "lng": 26.21344
+  },
+  {
+    "name": "Dobra",
+    "country": "RO",
+    "lat": 47.49477,
+    "lng": 22.82762
+  },
+  {
+    "name": "Dobra",
+    "country": "RO",
+    "lat": 45.91667,
+    "lng": 22.56667
+  },
+  {
+    "name": "Dobra",
+    "country": "RO",
+    "lat": 45.76913,
+    "lng": 23.64218
+  },
+  {
+    "name": "Dobra",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 25.71667
+  },
+  {
+    "name": "Doboșeni",
+    "country": "RO",
+    "lat": 46.12431,
+    "lng": 25.59347
+  },
+  {
+    "name": "Dobârlău",
+    "country": "RO",
+    "lat": 45.73333,
+    "lng": 25.88333
+  },
+  {
+    "name": "Dobârceni",
+    "country": "RO",
+    "lat": 47.81667,
+    "lng": 27.06667
+  },
+  {
+    "name": "Doba",
+    "country": "RO",
+    "lat": 47.73333,
+    "lng": 22.71667
+  },
+  {
+    "name": "Doanca",
+    "country": "RO",
+    "lat": 43.8487,
+    "lng": 24.64949
+  },
+  {
+    "name": "Dorna-Arini",
+    "country": "RO",
+    "lat": 47.33832,
+    "lng": 25.4074
+  },
+  {
+    "name": "Donji Milanovac",
+    "country": "RS",
+    "lat": 44.46593,
+    "lng": 22.1517
+  },
+  {
+    "name": "Doljevac",
+    "country": "RS",
+    "lat": 43.19817,
+    "lng": 21.83258
+  },
+  {
+    "name": "Dobrica",
+    "country": "RS",
+    "lat": 45.21339,
+    "lng": 20.84995
+  },
+  {
+    "name": "Dobanovci",
+    "country": "RS",
+    "lat": 44.82631,
+    "lng": 20.22487
+  },
+  {
+    "name": "Doroslovo",
+    "country": "RS",
+    "lat": 45.60699,
+    "lng": 19.18868
+  },
+  {
+    "name": "Donji Dobrić",
+    "country": "RS",
+    "lat": 44.61183,
+    "lng": 19.33109
+  },
+  {
+    "name": "Dobrić",
+    "country": "RS",
+    "lat": 44.70224,
+    "lng": 19.57931
+  },
+  {
+    "name": "Dorgeli",
+    "country": "RU",
+    "lat": 42.667,
+    "lng": 47.29435
+  },
+  {
+    "name": "Doschatoye",
+    "country": "RU",
+    "lat": 55.3886,
+    "lng": 42.1032
+  },
+  {
+    "name": "Dorokhovo",
+    "country": "RU",
+    "lat": 55.55056,
+    "lng": 36.37444
+  },
+  {
+    "name": "Dorogomilovo",
+    "country": "RU",
+    "lat": 55.75,
+    "lng": 37.56667
+  },
+  {
+    "name": "Dorogobuzh",
+    "country": "RU",
+    "lat": 54.91511,
+    "lng": 33.29877
+  },
+  {
+    "name": "Donskoye",
+    "country": "RU",
+    "lat": 52.77495,
+    "lng": 41.47759
+  },
+  {
+    "name": "Donskoye",
+    "country": "RU",
+    "lat": 52.6174,
+    "lng": 38.9738
+  },
+  {
+    "name": "Donskoye",
+    "country": "RU",
+    "lat": 45.45346,
+    "lng": 41.97244
+  },
+  {
+    "name": "Donskoy",
+    "country": "RU",
+    "lat": 53.96796,
+    "lng": 38.33151
+  },
+  {
+    "name": "Donskoy",
+    "country": "RU",
+    "lat": 47.41404,
+    "lng": 40.25742
+  },
+  {
+    "name": "Donetsk",
+    "country": "RU",
+    "lat": 48.33751,
+    "lng": 39.95416
+  },
+  {
+    "name": "Dondukovskaya",
+    "country": "RU",
+    "lat": 44.8819,
+    "lng": 40.36271
+  },
+  {
+    "name": "Domodedovo",
+    "country": "RU",
+    "lat": 55.44223,
+    "lng": 37.75372
+  },
+  {
+    "name": "Dombarovskiy",
+    "country": "RU",
+    "lat": 50.75779,
+    "lng": 59.53864
+  },
+  {
+    "name": "Dolzhanskaya",
+    "country": "RU",
+    "lat": 46.63369,
+    "lng": 37.80246
+  },
+  {
+    "name": "Dolgoye",
+    "country": "RU",
+    "lat": 52.05814,
+    "lng": 37.52491
+  },
+  {
+    "name": "Dolgorukovo",
+    "country": "RU",
+    "lat": 52.32319,
+    "lng": 38.35412
+  },
+  {
+    "name": "Dolgoprudnyy",
+    "country": "RU",
+    "lat": 55.94958,
+    "lng": 37.50183
+  },
+  {
+    "name": "Dobryatino",
+    "country": "RU",
+    "lat": 55.5055,
+    "lng": 41.3195
+  },
+  {
+    "name": "Dobryanka",
+    "country": "RU",
+    "lat": 58.46484,
+    "lng": 56.41299
+  },
+  {
+    "name": "Dobrun’",
+    "country": "RU",
+    "lat": 53.18749,
+    "lng": 34.23958
+  },
+  {
+    "name": "Dobroye",
+    "country": "RU",
+    "lat": 52.8626,
+    "lng": 39.80506
+  },
+  {
+    "name": "Dobrinka",
+    "country": "RU",
+    "lat": 52.16528,
+    "lng": 40.47306
+  },
+  {
+    "name": "Dovol’noye",
+    "country": "RU",
+    "lat": 54.49457,
+    "lng": 79.66766
+  },
+  {
+    "name": "Dorogino",
+    "country": "RU",
+    "lat": 54.3598,
+    "lng": 83.3198
+  },
+  {
+    "name": "Dolgoderevenskoye",
+    "country": "RU",
+    "lat": 55.35013,
+    "lng": 61.34155
+  },
+  {
+    "name": "Dostoyevka",
+    "country": "RU",
+    "lat": 44.32554,
+    "lng": 133.48134
+  },
+  {
+    "name": "Domna",
+    "country": "RU",
+    "lat": 51.89376,
+    "lng": 113.15237
+  },
+  {
+    "name": "Dolinsk",
+    "country": "RU",
+    "lat": 47.32837,
+    "lng": 142.79626
+  },
+  {
+    "name": "Donskoye",
+    "country": "RU",
+    "lat": 54.93842,
+    "lng": 19.96821
+  },
+  {
+    "name": "Dongola",
+    "country": "SD",
+    "lat": 19.18163,
+    "lng": 30.47689
+  },
+  {
+    "name": "Doka",
+    "country": "SD",
+    "lat": 13.51667,
+    "lng": 35.76667
+  },
+  {
+    "name": "Dorotea",
+    "country": "SE",
+    "lat": 64.26185,
+    "lng": 16.41306
+  },
+  {
+    "name": "Donsö",
+    "country": "SE",
+    "lat": 57.6,
+    "lng": 11.79917
+  },
+  {
+    "name": "Dover",
+    "country": "SG",
+    "lat": 1.30458,
+    "lng": 103.78031
+  },
+  {
+    "name": "Dornava",
+    "country": "SI",
+    "lat": 46.43565,
+    "lng": 15.95293
+  },
+  {
+    "name": "Domžale",
+    "country": "SI",
+    "lat": 46.13774,
+    "lng": 14.59371
+  },
+  {
+    "name": "Dol pri Ljubljani",
+    "country": "SI",
+    "lat": 46.08859,
+    "lng": 14.60068
+  },
+  {
+    "name": "Dol pri Hrastniku",
+    "country": "SI",
+    "lat": 46.14194,
+    "lng": 15.11278
+  },
+  {
+    "name": "Dolenjske Toplice",
+    "country": "SI",
+    "lat": 45.75657,
+    "lng": 15.05917
+  },
+  {
+    "name": "Dobrovo",
+    "country": "SI",
+    "lat": 45.99743,
+    "lng": 13.52711
+  },
+  {
+    "name": "Dobrovnik",
+    "country": "SI",
+    "lat": 46.65139,
+    "lng": 16.3525
+  },
+  {
+    "name": "Dobrova",
+    "country": "SI",
+    "lat": 46.0458,
+    "lng": 14.39186
+  },
+  {
+    "name": "Dobrna",
+    "country": "SI",
+    "lat": 46.33708,
+    "lng": 15.22615
+  },
+  {
+    "name": "Dobje pri Planini",
+    "country": "SI",
+    "lat": 46.13747,
+    "lng": 15.39412
+  },
+  {
+    "name": "Dob",
+    "country": "SI",
+    "lat": 46.15194,
+    "lng": 14.62861
+  },
+  {
+    "name": "Dobšiná",
+    "country": "SK",
+    "lat": 48.82073,
+    "lng": 20.36988
+  },
+  {
+    "name": "Domaša",
+    "country": "SK",
+    "lat": 48.00632,
+    "lng": 18.65904
+  },
+  {
+    "name": "Dolný Štál",
+    "country": "SK",
+    "lat": 47.93333,
+    "lng": 17.71667
+  },
+  {
+    "name": "Dolný Kubín",
+    "country": "SK",
+    "lat": 49.20983,
+    "lng": 19.30341
+  },
+  {
+    "name": "Dolné Orešany",
+    "country": "SK",
+    "lat": 48.43966,
+    "lng": 17.42942
+  },
+  {
+    "name": "Dolné Obdokovce",
+    "country": "SK",
+    "lat": 48.31325,
+    "lng": 18.21048
+  },
+  {
+    "name": "Dolné Kočkovce",
+    "country": "SK",
+    "lat": 49.09435,
+    "lng": 18.32528
+  },
+  {
+    "name": "Dolná Streda",
+    "country": "SK",
+    "lat": 48.26914,
+    "lng": 17.74994
+  },
+  {
+    "name": "Dolná Breznica",
+    "country": "SK",
+    "lat": 49.08058,
+    "lng": 18.26083
+  },
+  {
+    "name": "Doľany",
+    "country": "SK",
+    "lat": 48.41611,
+    "lng": 17.3757
+  },
+  {
+    "name": "Dojč",
+    "country": "SK",
+    "lat": 48.6775,
+    "lng": 17.25432
+  },
+  {
+    "name": "Dohňany",
+    "country": "SK",
+    "lat": 49.14867,
+    "lng": 18.28571
+  },
+  {
+    "name": "Domagnano",
+    "country": "SM",
+    "lat": 43.94961,
+    "lng": 12.46828
+  },
+  {
+    "name": "Dogana",
+    "country": "SM",
+    "lat": 43.98034,
+    "lng": 12.49051
+  },
+  {
+    "name": "Dougnane",
+    "country": "SN",
+    "lat": 14.95856,
+    "lng": -16.86999
+  },
+  {
+    "name": "Dourbali",
+    "country": "TD",
+    "lat": 11.80617,
+    "lng": 15.8669
+  },
+  {
+    "name": "Doba",
+    "country": "TD",
+    "lat": 8.66389,
+    "lng": 16.85324
+  },
+  {
+    "name": "Don Sak",
+    "country": "TH",
+    "lat": 9.31676,
+    "lng": 99.69184
+  },
+  {
+    "name": "Dok Kham Tai",
+    "country": "TH",
+    "lat": 19.16242,
+    "lng": 99.99342
+  },
+  {
+    "name": "Doi Tao",
+    "country": "TH",
+    "lat": 17.95286,
+    "lng": 98.68458
+  },
+  {
+    "name": "Don Tum",
+    "country": "TH",
+    "lat": 13.9609,
+    "lng": 100.07888
+  },
+  {
+    "name": "Doi Lo",
+    "country": "TH",
+    "lat": 18.46098,
+    "lng": 98.77767
+  },
+  {
+    "name": "Don Tan",
+    "country": "TH",
+    "lat": 16.31697,
+    "lng": 104.92
+  },
+  {
+    "name": "Dong Luang",
+    "country": "TH",
+    "lat": 16.81589,
+    "lng": 104.538
+  },
+  {
+    "name": "Don Chedi",
+    "country": "TH",
+    "lat": 14.63497,
+    "lng": 100.02097
+  },
+  {
+    "name": "Doembang Nangbuat",
+    "country": "TH",
+    "lat": 14.83333,
+    "lng": 100.1
+  },
+  {
+    "name": "Don Phut",
+    "country": "TH",
+    "lat": 14.59175,
+    "lng": 100.62828
+  },
+  {
+    "name": "Dong Khilek",
+    "country": "TH",
+    "lat": 14.08383,
+    "lng": 101.42711
+  },
+  {
+    "name": "Don Mueang",
+    "country": "TH",
+    "lat": 13.91392,
+    "lng": 100.58994
+  },
+  {
+    "name": "Doem Bang Nang Buat",
+    "country": "TH",
+    "lat": 14.85428,
+    "lng": 100.09772
+  },
+  {
+    "name": "Don Chan",
+    "country": "TH",
+    "lat": 16.45711,
+    "lng": 103.69558
+  },
+  {
+    "name": "Don Mot Daeng",
+    "country": "TH",
+    "lat": 15.37903,
+    "lng": 105.02786
+  },
+  {
+    "name": "Dong Charoen",
+    "country": "TH",
+    "lat": 16.02058,
+    "lng": 100.66286
+  },
+  {
+    "name": "Doi Luang",
+    "country": "TH",
+    "lat": 20.11783,
+    "lng": 100.09919
+  },
+  {
+    "name": "Dostluk",
+    "country": "TM",
+    "lat": 37.74548,
+    "lng": 65.33761
+  },
+  {
+    "name": "Douz",
+    "country": "TN",
+    "lat": 33.46632,
+    "lng": 9.0203
+  },
+  {
+    "name": "Douar Tindja",
+    "country": "TN",
+    "lat": 37.16667,
+    "lng": 9.75
+  },
+  {
+    "name": "Douane",
+    "country": "TN",
+    "lat": 36.44766,
+    "lng": 10.7557
+  },
+  {
+    "name": "Douar Hicher",
+    "country": "TN",
+    "lat": 36.82657,
+    "lng": 10.08974
+  },
+  {
+    "name": "Doğrular",
+    "country": "TR",
+    "lat": 36.95618,
+    "lng": 37.76162
+  },
+  {
+    "name": "Dorutay",
+    "country": "TR",
+    "lat": 38.79939,
+    "lng": 44.06726
+  },
+  {
+    "name": "Dorumali",
+    "country": "TR",
+    "lat": 36.805,
+    "lng": 38.85306
+  },
+  {
+    "name": "Donduran",
+    "country": "TR",
+    "lat": 37.83399,
+    "lng": 28.24257
+  },
+  {
+    "name": "Dombay",
+    "country": "TR",
+    "lat": 38.15421,
+    "lng": 30.20876
+  },
+  {
+    "name": "Domaniç",
+    "country": "TR",
+    "lat": 39.80194,
+    "lng": 29.60918
+  },
+  {
+    "name": "Doğubayazıt",
+    "country": "TR",
+    "lat": 39.54694,
+    "lng": 44.08417
+  },
+  {
+    "name": "Doğanyol",
+    "country": "TR",
+    "lat": 38.30746,
+    "lng": 39.03431
+  },
+  {
+    "name": "Doğansu",
+    "country": "TR",
+    "lat": 39.13248,
+    "lng": 42.73249
+  },
+  {
+    "name": "Doğanşehir",
+    "country": "TR",
+    "lat": 38.08574,
+    "lng": 37.87116
+  },
+  {
+    "name": "Doğanpınar",
+    "country": "TR",
+    "lat": 36.84321,
+    "lng": 37.61759
+  },
+  {
+    "name": "Doğanköy",
+    "country": "TR",
+    "lat": 37.76246,
+    "lng": 42.79017
+  },
+  {
+    "name": "Doğankent",
+    "country": "TR",
+    "lat": 36.84432,
+    "lng": 35.34396
+  },
+  {
+    "name": "Doğankavak",
+    "country": "TR",
+    "lat": 37.96265,
+    "lng": 41.22675
+  },
+  {
+    "name": "Doğanhisar",
+    "country": "TR",
+    "lat": 38.1463,
+    "lng": 31.67648
+  },
+  {
+    "name": "Doğanca",
+    "country": "TR",
+    "lat": 37.79955,
+    "lng": 42.33099
+  },
+  {
+    "name": "Doğanbeyli",
+    "country": "TR",
+    "lat": 39.69517,
+    "lng": 39.03499
+  },
+  {
+    "name": "Doğanbey",
+    "country": "TR",
+    "lat": 37.8005,
+    "lng": 31.8911
+  },
+  {
+    "name": "Dodurga",
+    "country": "TR",
+    "lat": 39.79972,
+    "lng": 29.91722
+  },
+  {
+    "name": "Doruklu",
+    "country": "TR",
+    "lat": 37.34202,
+    "lng": 42.38251
+  },
+  {
+    "name": "Dokurcun",
+    "country": "TR",
+    "lat": 40.5732,
+    "lng": 30.86784
+  },
+  {
+    "name": "Doğruyol",
+    "country": "TR",
+    "lat": 40.97986,
+    "lng": 43.47098
+  },
+  {
+    "name": "Doğanyurt",
+    "country": "TR",
+    "lat": 42.00457,
+    "lng": 33.46029
+  },
+  {
+    "name": "Doğanyurt",
+    "country": "TR",
+    "lat": 40.68806,
+    "lng": 36.71639
+  },
+  {
+    "name": "Doğantepe",
+    "country": "TR",
+    "lat": 40.59778,
+    "lng": 35.60417
+  },
+  {
+    "name": "Doğanşar",
+    "country": "TR",
+    "lat": 40.20841,
+    "lng": 37.53123
+  },
+  {
+    "name": "Doğanlı",
+    "country": "TR",
+    "lat": 40.80091,
+    "lng": 31.23661
+  },
+  {
+    "name": "Doğankent",
+    "country": "TR",
+    "lat": 40.8075,
+    "lng": 38.91722
+  },
+  {
+    "name": "Doğançay",
+    "country": "TR",
+    "lat": 40.62647,
+    "lng": 30.33557
+  },
+  {
+    "name": "Dodurga",
+    "country": "TR",
+    "lat": 40.85489,
+    "lng": 34.80703
+  },
+  {
+    "name": "Doğancı",
+    "country": "TR",
+    "lat": 40.77115,
+    "lng": 32.05919
+  },
+  {
+    "name": "Doğruyol",
+    "country": "TR",
+    "lat": 41.06174,
+    "lng": 43.33409
+  },
+  {
+    "name": "Douliu",
+    "country": "TW",
+    "lat": 23.70944,
+    "lng": 120.54333
+  },
+  {
+    "name": "Dongshi",
+    "country": "TW",
+    "lat": 23.45689,
+    "lng": 120.15003
+  },
+  {
+    "name": "Donggang",
+    "country": "TW",
+    "lat": 22.46515,
+    "lng": 120.44927
+  },
+  {
+    "name": "Dongobesh",
+    "country": "TZ",
+    "lat": -4.06667,
+    "lng": 35.38333
+  },
+  {
+    "name": "Dodoma",
+    "country": "TZ",
+    "lat": -6.17221,
+    "lng": 35.73947
+  },
+  {
+    "name": "Dovzhansk",
+    "country": "UA",
+    "lat": 48.08964,
+    "lng": 39.65243
+  },
+  {
+    "name": "Dobroslav",
+    "country": "UA",
+    "lat": 46.82095,
+    "lng": 30.94518
+  },
+  {
+    "name": "Dovbysh",
+    "country": "UA",
+    "lat": 50.37332,
+    "lng": 27.98742
+  },
+  {
+    "name": "Doroshivka",
+    "country": "UA",
+    "lat": 47.47565,
+    "lng": 31.4644
+  },
+  {
+    "name": "Doroshivtsi",
+    "country": "UA",
+    "lat": 48.59023,
+    "lng": 25.88633
+  },
+  {
+    "name": "Donetsk",
+    "country": "UA",
+    "lat": 48.023,
+    "lng": 37.80224
+  },
+  {
+    "name": "Domanivka",
+    "country": "UA",
+    "lat": 47.62865,
+    "lng": 30.98648
+  },
+  {
+    "name": "Dovzhok",
+    "country": "UA",
+    "lat": 48.34201,
+    "lng": 26.33066
+  },
+  {
+    "name": "Dolyna",
+    "country": "UA",
+    "lat": 48.97158,
+    "lng": 23.96558
+  },
+  {
+    "name": "Dolynske",
+    "country": "UA",
+    "lat": 47.52952,
+    "lng": 29.92642
+  },
+  {
+    "name": "Dolyns’ke",
+    "country": "UA",
+    "lat": 45.46878,
+    "lng": 28.32553
+  },
+  {
+    "name": "Dolynska",
+    "country": "UA",
+    "lat": 48.11725,
+    "lng": 32.77691
+  },
+  {
+    "name": "Dolinnoye",
+    "country": "UA",
+    "lat": 44.7532,
+    "lng": 33.77766
+  },
+  {
+    "name": "Dolynyany",
+    "country": "UA",
+    "lat": 48.40715,
+    "lng": 26.42984
+  },
+  {
+    "name": "Dovhe",
+    "country": "UA",
+    "lat": 48.36504,
+    "lng": 23.28029
+  },
+  {
+    "name": "Dokuchaievsk",
+    "country": "UA",
+    "lat": 47.7522,
+    "lng": 37.67761
+  },
+  {
+    "name": "Dobrianka",
+    "country": "UA",
+    "lat": 52.06314,
+    "lng": 31.18567
+  },
+  {
+    "name": "Dobrushino",
+    "country": "UA",
+    "lat": 45.37441,
+    "lng": 33.36547
+  },
+  {
+    "name": "Dobre",
+    "country": "UA",
+    "lat": 47.31032,
+    "lng": 32.44936
+  },
+  {
+    "name": "Dobroye",
+    "country": "UA",
+    "lat": 44.86632,
+    "lng": 34.22661
+  },
+  {
+    "name": "Dobrovelychkivka",
+    "country": "UA",
+    "lat": 48.38939,
+    "lng": 31.18039
+  },
+  {
+    "name": "Dobropillia",
+    "country": "UA",
+    "lat": 48.46147,
+    "lng": 37.08524
+  },
+  {
+    "name": "Dobropillia",
+    "country": "UA",
+    "lat": 48.42115,
+    "lng": 37.04866
+  },
+  {
+    "name": "Dobrynivtsi",
+    "country": "UA",
+    "lat": 48.48305,
+    "lng": 26.01971
+  },
+  {
+    "name": "Dobromyl",
+    "country": "UA",
+    "lat": 49.57086,
+    "lng": 22.78666
+  },
+  {
+    "name": "Dobrooleksandrivka",
+    "country": "UA",
+    "lat": 46.33747,
+    "lng": 30.48784
+  },
+  {
+    "name": "Dolishniy Shepit",
+    "country": "UA",
+    "lat": 48.00356,
+    "lng": 25.28075
+  },
+  {
+    "name": "Donskoye",
+    "country": "UA",
+    "lat": 45.04509,
+    "lng": 34.21413
+  },
+  {
+    "name": "Dovhopillya",
+    "country": "UA",
+    "lat": 48.07154,
+    "lng": 24.98021
+  },
+  {
+    "name": "Dokolo",
+    "country": "UG",
+    "lat": 1.89833,
+    "lng": 33.1775
+  },
+  {
+    "name": "Dora",
+    "country": "US",
+    "lat": 33.72872,
+    "lng": -87.09028
+  },
+  {
+    "name": "Dothan",
+    "country": "US",
+    "lat": 31.22323,
+    "lng": -85.39049
+  },
+  {
+    "name": "Double Springs",
+    "country": "US",
+    "lat": 34.14637,
+    "lng": -87.40247
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 35.40147,
+    "lng": -93.11434
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 39.15817,
+    "lng": -75.52437
+  },
+  {
+    "name": "Doctor Phillips",
+    "country": "US",
+    "lat": 28.44945,
+    "lng": -81.49229
+  },
+  {
+    "name": "Doral",
+    "country": "US",
+    "lat": 25.81954,
+    "lng": -80.35533
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 27.99419,
+    "lng": -82.21953
+  },
+  {
+    "name": "Dock Junction",
+    "country": "US",
+    "lat": 31.20245,
+    "lng": -81.51677
+  },
+  {
+    "name": "Donalsonville",
+    "country": "US",
+    "lat": 31.04046,
+    "lng": -84.87909
+  },
+  {
+    "name": "Doraville",
+    "country": "US",
+    "lat": 33.89816,
+    "lng": -84.28326
+  },
+  {
+    "name": "Douglas",
+    "country": "US",
+    "lat": 31.50881,
+    "lng": -82.84987
+  },
+  {
+    "name": "Douglasville",
+    "country": "US",
+    "lat": 33.7515,
+    "lng": -84.74771
+  },
+  {
+    "name": "Douglass",
+    "country": "US",
+    "lat": 37.51946,
+    "lng": -97.01281
+  },
+  {
+    "name": "Douglass Hills",
+    "country": "US",
+    "lat": 38.23785,
+    "lng": -85.55274
+  },
+  {
+    "name": "Donaldsonville",
+    "country": "US",
+    "lat": 30.10114,
+    "lng": -90.99412
+  },
+  {
+    "name": "Doniphan",
+    "country": "US",
+    "lat": 36.62089,
+    "lng": -90.82346
+  },
+  {
+    "name": "Dobson",
+    "country": "US",
+    "lat": 36.39569,
+    "lng": -80.72257
+  },
+  {
+    "name": "Dover Beaches North",
+    "country": "US",
+    "lat": 39.99123,
+    "lng": -74.06375
+  },
+  {
+    "name": "Dover Beaches South",
+    "country": "US",
+    "lat": 39.95567,
+    "lng": -74.0743
+  },
+  {
+    "name": "Dodson Branch",
+    "country": "US",
+    "lat": 36.31256,
+    "lng": -85.5322
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 36.48783,
+    "lng": -87.83836
+  },
+  {
+    "name": "Doffing",
+    "country": "US",
+    "lat": 26.27452,
+    "lng": -98.38585
+  },
+  {
+    "name": "Donna",
+    "country": "US",
+    "lat": 26.17035,
+    "lng": -98.05195
+  },
+  {
+    "name": "Doolittle",
+    "country": "US",
+    "lat": 26.35337,
+    "lng": -98.11666
+  },
+  {
+    "name": "Double Oak",
+    "country": "US",
+    "lat": 33.06512,
+    "lng": -97.11057
+  },
+  {
+    "name": "Dooms",
+    "country": "US",
+    "lat": 38.10902,
+    "lng": -78.85752
+  },
+  {
+    "name": "Dolton",
+    "country": "US",
+    "lat": 41.63892,
+    "lng": -87.60727
+  },
+  {
+    "name": "Douglas",
+    "country": "US",
+    "lat": 41.83476,
+    "lng": -87.61811
+  },
+  {
+    "name": "Downers Grove",
+    "country": "US",
+    "lat": 41.80892,
+    "lng": -88.01117
+  },
+  {
+    "name": "Dorchester",
+    "country": "US",
+    "lat": 42.29732,
+    "lng": -71.0745
+  },
+  {
+    "name": "Douglas",
+    "country": "US",
+    "lat": 42.05426,
+    "lng": -71.73951
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 42.24593,
+    "lng": -71.28283
+  },
+  {
+    "name": "Dover-Foxcroft",
+    "country": "US",
+    "lat": 45.18339,
+    "lng": -69.22699
+  },
+  {
+    "name": "Dollar Bay",
+    "country": "US",
+    "lat": 47.11965,
+    "lng": -88.51151
+  },
+  {
+    "name": "Douglas",
+    "country": "US",
+    "lat": 42.64336,
+    "lng": -86.20059
+  },
+  {
+    "name": "Dowagiac",
+    "country": "US",
+    "lat": 41.98421,
+    "lng": -86.10862
+  },
+  {
+    "name": "Dodge Center",
+    "country": "US",
+    "lat": 44.02802,
+    "lng": -92.85464
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 43.19786,
+    "lng": -70.87367
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 40.88399,
+    "lng": -74.5621
+  },
+  {
+    "name": "Dobbs Ferry",
+    "country": "US",
+    "lat": 41.01454,
+    "lng": -73.87264
+  },
+  {
+    "name": "Dolgeville",
+    "country": "US",
+    "lat": 43.1009,
+    "lng": -74.77293
+  },
+  {
+    "name": "Dongan Hills",
+    "country": "US",
+    "lat": 40.58844,
+    "lng": -74.09625
+  },
+  {
+    "name": "Douglaston",
+    "country": "US",
+    "lat": 40.76871,
+    "lng": -73.74708
+  },
+  {
+    "name": "Dover Plains",
+    "country": "US",
+    "lat": 41.74121,
+    "lng": -73.57652
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 40.52062,
+    "lng": -81.47401
+  },
+  {
+    "name": "Doylestown",
+    "country": "US",
+    "lat": 40.97005,
+    "lng": -81.69652
+  },
+  {
+    "name": "Donora",
+    "country": "US",
+    "lat": 40.1734,
+    "lng": -79.85755
+  },
+  {
+    "name": "Dormont",
+    "country": "US",
+    "lat": 40.3959,
+    "lng": -80.03311
+  },
+  {
+    "name": "Dorneyville",
+    "country": "US",
+    "lat": 40.5751,
+    "lng": -75.51963
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 40.00176,
+    "lng": -76.85025
+  },
+  {
+    "name": "Downingtown",
+    "country": "US",
+    "lat": 40.0065,
+    "lng": -75.70327
+  },
+  {
+    "name": "Doylestown",
+    "country": "US",
+    "lat": 40.31011,
+    "lng": -75.12989
+  },
+  {
+    "name": "Dover",
+    "country": "US",
+    "lat": 42.94369,
+    "lng": -72.80399
+  },
+  {
+    "name": "Dodgeville",
+    "country": "US",
+    "lat": 42.96027,
+    "lng": -90.13012
+  },
+  {
+    "name": "Dousman",
+    "country": "US",
+    "lat": 43.01418,
+    "lng": -88.4726
+  },
+  {
+    "name": "Dolan Springs",
+    "country": "US",
+    "lat": 35.59194,
+    "lng": -114.27329
+  },
+  {
+    "name": "Douglas",
+    "country": "US",
+    "lat": 31.34455,
+    "lng": -109.54534
+  },
+  {
+    "name": "Dogtown",
+    "country": "US",
+    "lat": 38.21381,
+    "lng": -121.08855
+  },
+  {
+    "name": "Dollar Point",
+    "country": "US",
+    "lat": 39.18796,
+    "lng": -120.09991
+  },
+  {
+    "name": "Dos Palos",
+    "country": "US",
+    "lat": 36.98606,
+    "lng": -120.62657
+  },
+  {
+    "name": "Downey",
+    "country": "US",
+    "lat": 33.94001,
+    "lng": -118.13257
+  },
+  {
+    "name": "Downieville",
+    "country": "US",
+    "lat": 39.55934,
+    "lng": -120.82689
+  },
+  {
+    "name": "Dove Creek",
+    "country": "US",
+    "lat": 37.7661,
+    "lng": -108.90594
+  },
+  {
+    "name": "Dodge City",
+    "country": "US",
+    "lat": 37.7528,
+    "lng": -100.01708
+  },
+  {
+    "name": "Doña Ana",
+    "country": "US",
+    "lat": 32.38954,
+    "lng": -106.8139
+  },
+  {
+    "name": "Donald",
+    "country": "US",
+    "lat": 45.22234,
+    "lng": -122.83926
+  },
+  {
+    "name": "Douglas",
+    "country": "US",
+    "lat": 42.75969,
+    "lng": -105.38221
+  },
+  {
+    "name": "Dover Base Housing",
+    "country": "US",
+    "lat": 39.11763,
+    "lng": -75.48393
+  },
+  {
+    "name": "Dollar Corner",
+    "country": "US",
+    "lat": 45.7803,
+    "lng": -122.59994
+  },
+  {
+    "name": "Dowsett Highlands",
+    "country": "US",
+    "lat": 21.33735,
+    "lng": -157.83382
+  },
+  {
+    "name": "Donovan Estates",
+    "country": "US",
+    "lat": 32.70935,
+    "lng": -114.67822
+  },
+  {
+    "name": "Dove Valley",
+    "country": "US",
+    "lat": 39.57771,
+    "lng": -104.8294
+  },
+  {
+    "name": "Doe Valley",
+    "country": "US",
+    "lat": 37.95665,
+    "lng": -86.11653
+  },
+  {
+    "name": "Downtown Brooklyn",
+    "country": "US",
+    "lat": 40.69371,
+    "lng": -73.98596
+  },
+  {
+    "name": "Dolfield",
+    "country": "US",
+    "lat": 39.33772,
+    "lng": -76.68031
+  },
+  {
+    "name": "Dorchester",
+    "country": "US",
+    "lat": 39.33178,
+    "lng": -76.68632
+  },
+  {
+    "name": "Downtown",
+    "country": "US",
+    "lat": 39.29107,
+    "lng": -76.61518
+  },
+  {
+    "name": "Downtown (Honolulu)",
+    "country": "US",
+    "lat": 21.30249,
+    "lng": -157.85837
+  },
+  {
+    "name": "Downtown DC",
+    "country": "US",
+    "lat": 38.8935,
+    "lng": -77.01991
+  },
+  {
+    "name": "Dolores",
+    "country": "UY",
+    "lat": -33.53009,
+    "lng": -58.21701
+  },
+  {
+    "name": "Do’stlik Shahri",
+    "country": "UZ",
+    "lat": 40.52881,
+    "lng": 68.03153
+  },
+  {
+    "name": "Dolores",
+    "country": "VE",
+    "lat": 8.28623,
+    "lng": -69.56633
+  },
+  {
+    "name": "Douglas",
+    "country": "ZA",
+    "lat": -29.05531,
+    "lng": 23.7743
+  },
+  {
+    "name": "Dordrecht",
+    "country": "ZA",
+    "lat": -31.372,
+    "lng": 27.04878
+  },
+  {
+    "name": "Doringbaai",
+    "country": "ZA",
+    "lat": -31.8171,
+    "lng": 18.23659
+  },
+  {
+    "name": "Doornkop",
+    "country": "ZA",
+    "lat": -25.60828,
+    "lng": 29.43117
+  },
+  {
+    "name": "Dorowa Mining Lease",
+    "country": "ZW",
+    "lat": -19.06667,
+    "lng": 31.75
+  }
+]

@@ -1,0 +1,2096 @@
+[
+  {
+    "name": "Atzesberg",
+    "country": "AT",
+    "lat": 48.53959,
+    "lng": 13.86936
+  },
+  {
+    "name": "Atzenbrugg",
+    "country": "AT",
+    "lat": 48.29119,
+    "lng": 15.90614
+  },
+  {
+    "name": "Atzbach",
+    "country": "AT",
+    "lat": 48.08364,
+    "lng": 13.70347
+  },
+  {
+    "name": "Attnang",
+    "country": "AT",
+    "lat": 48.01667,
+    "lng": 13.71667
+  },
+  {
+    "name": "Attersee",
+    "country": "AT",
+    "lat": 47.91646,
+    "lng": 13.53953
+  },
+  {
+    "name": "Attendorf",
+    "country": "AT",
+    "lat": 47.00426,
+    "lng": 15.33897
+  },
+  {
+    "name": "Attnang-Puchheim",
+    "country": "AT",
+    "lat": 48.00833,
+    "lng": 13.71667
+  },
+  {
+    "name": "Attadale",
+    "country": "AU",
+    "lat": -32.02489,
+    "lng": 115.802
+  },
+  {
+    "name": "Atherton",
+    "country": "AU",
+    "lat": -17.26864,
+    "lng": 145.47522
+  },
+  {
+    "name": "Attwood",
+    "country": "AU",
+    "lat": -37.66955,
+    "lng": 144.88675
+  },
+  {
+    "name": "Athelstone",
+    "country": "AU",
+    "lat": -34.87019,
+    "lng": 138.6999
+  },
+  {
+    "name": "Athol Park",
+    "country": "AU",
+    "lat": -34.85608,
+    "lng": 138.54282
+  },
+  {
+    "name": "Atwell",
+    "country": "AU",
+    "lat": -32.14346,
+    "lng": 115.86528
+  },
+  {
+    "name": "Attert",
+    "country": "BE",
+    "lat": 49.75035,
+    "lng": 5.78634
+  },
+  {
+    "name": "Attenrode",
+    "country": "BE",
+    "lat": 50.87782,
+    "lng": 4.92438
+  },
+  {
+    "name": "Attenhoven",
+    "country": "BE",
+    "lat": 50.76591,
+    "lng": 5.09296
+  },
+  {
+    "name": "Athus",
+    "country": "BE",
+    "lat": 49.56475,
+    "lng": 5.83736
+  },
+  {
+    "name": "Ath",
+    "country": "BE",
+    "lat": 50.62937,
+    "lng": 3.77801
+  },
+  {
+    "name": "Athiémé",
+    "country": "BJ",
+    "lat": 6.5808,
+    "lng": 1.6696
+  },
+  {
+    "name": "Atocha",
+    "country": "BO",
+    "lat": -20.93515,
+    "lng": -66.22139
+  },
+  {
+    "name": "Atalaia",
+    "country": "BR",
+    "lat": -9.50194,
+    "lng": -36.02278
+  },
+  {
+    "name": "Atibaia",
+    "country": "BR",
+    "lat": -23.11694,
+    "lng": -46.55028
+  },
+  {
+    "name": "Ataléia",
+    "country": "BR",
+    "lat": -18.04361,
+    "lng": -41.11
+  },
+  {
+    "name": "Atalaia",
+    "country": "BR",
+    "lat": -23.15111,
+    "lng": -52.05444
+  },
+  {
+    "name": "Atalaia do Norte",
+    "country": "BR",
+    "lat": -4.36652,
+    "lng": -70.19186
+  },
+  {
+    "name": "Atalanta",
+    "country": "BR",
+    "lat": -27.42,
+    "lng": -49.78111
+  },
+  {
+    "name": "Atilio Vivacqua",
+    "country": "BR",
+    "lat": -20.91417,
+    "lng": -41.19833
+  },
+  {
+    "name": "Atins",
+    "country": "BR",
+    "lat": -2.57017,
+    "lng": -42.74229
+  },
+  {
+    "name": "Atolina",
+    "country": "BY",
+    "lat": 53.7817,
+    "lng": 27.4346
+  },
+  {
+    "name": "Athabasca",
+    "country": "CA",
+    "lat": 54.71687,
+    "lng": -113.28537
+  },
+  {
+    "name": "Atikokan",
+    "country": "CA",
+    "lat": 48.75667,
+    "lng": -91.62409
+  },
+  {
+    "name": "Attawapiskat",
+    "country": "CA",
+    "lat": 52.92774,
+    "lng": -82.41669
+  },
+  {
+    "name": "Atholville",
+    "country": "CA",
+    "lat": 47.9894,
+    "lng": -66.7125
+  },
+  {
+    "name": "Attiswil",
+    "country": "CH",
+    "lat": 47.24673,
+    "lng": 7.61353
+  },
+  {
+    "name": "Attinghausen",
+    "country": "CH",
+    "lat": 46.86255,
+    "lng": 8.63036
+  },
+  {
+    "name": "Attalens",
+    "country": "CH",
+    "lat": 46.50555,
+    "lng": 6.85039
+  },
+  {
+    "name": "Attoutou",
+    "country": "CI",
+    "lat": 5.22099,
+    "lng": -4.57236
+  },
+  {
+    "name": "Attobro",
+    "country": "CI",
+    "lat": 7.04005,
+    "lng": -3.38141
+  },
+  {
+    "name": "Attinguié",
+    "country": "CI",
+    "lat": 5.46739,
+    "lng": -4.18549
+  },
+  {
+    "name": "Attiégouakro",
+    "country": "CI",
+    "lat": 6.77402,
+    "lng": -5.11411
+  },
+  {
+    "name": "Atrobou",
+    "country": "CI",
+    "lat": 6.09021,
+    "lng": -4.0589
+  },
+  {
+    "name": "Atokro",
+    "country": "CI",
+    "lat": 7.83254,
+    "lng": -4.34769
+  },
+  {
+    "name": "Atokoum",
+    "country": "CI",
+    "lat": 7.49691,
+    "lng": -2.94293
+  },
+  {
+    "name": "Atokouadiokro",
+    "country": "CI",
+    "lat": 7.37739,
+    "lng": -3.0987
+  },
+  {
+    "name": "Atitiasso",
+    "country": "CI",
+    "lat": 7.55487,
+    "lng": -2.99134
+  },
+  {
+    "name": "Attien Kouassikro",
+    "country": "CI",
+    "lat": 7.09887,
+    "lng": -4.87179
+  },
+  {
+    "name": "Attiékoi",
+    "country": "CI",
+    "lat": 5.53616,
+    "lng": -3.96866
+  },
+  {
+    "name": "Atchegouakro",
+    "country": "CI",
+    "lat": 7.35314,
+    "lng": -4.74274
+  },
+  {
+    "name": "Attinguié",
+    "country": "CI",
+    "lat": 6.06445,
+    "lng": -4.5485
+  },
+  {
+    "name": "Atakrou",
+    "country": "CI",
+    "lat": 7.2162,
+    "lng": -3.08411
+  },
+  {
+    "name": "Atrénou",
+    "country": "CI",
+    "lat": 6.9913,
+    "lng": -5.39828
+  },
+  {
+    "name": "Attossè",
+    "country": "CI",
+    "lat": 6.8751,
+    "lng": -5.86769
+  },
+  {
+    "name": "Ataco",
+    "country": "CO",
+    "lat": 3.59147,
+    "lng": -75.38178
+  },
+  {
+    "name": "Atenas",
+    "country": "CR",
+    "lat": 9.97489,
+    "lng": -84.37886
+  },
+  {
+    "name": "Athíenou",
+    "country": "CY",
+    "lat": 35.06183,
+    "lng": 33.54166
+  },
+  {
+    "name": "Atzendorf",
+    "country": "DE",
+    "lat": 51.91954,
+    "lng": 11.59906
+  },
+  {
+    "name": "Atting",
+    "country": "DE",
+    "lat": 48.89412,
+    "lng": 12.48776
+  },
+  {
+    "name": "Attenweiler",
+    "country": "DE",
+    "lat": 48.13333,
+    "lng": 9.7
+  },
+  {
+    "name": "Attenkirchen",
+    "country": "DE",
+    "lat": 48.50526,
+    "lng": 11.76011
+  },
+  {
+    "name": "Attenhofen",
+    "country": "DE",
+    "lat": 48.65072,
+    "lng": 11.8485
+  },
+  {
+    "name": "Attendorn",
+    "country": "DE",
+    "lat": 51.12645,
+    "lng": 7.90333
+  },
+  {
+    "name": "Atuntaqui",
+    "country": "EC",
+    "lat": 0.32759,
+    "lng": -78.21908
+  },
+  {
+    "name": "Atahualpa",
+    "country": "EC",
+    "lat": -1.21803,
+    "lng": -78.61148
+  },
+  {
+    "name": "Atacames",
+    "country": "EC",
+    "lat": 0.86903,
+    "lng": -79.84806
+  },
+  {
+    "name": "At Tall al Kabīr",
+    "country": "EG",
+    "lat": 30.54323,
+    "lng": 31.78504
+  },
+  {
+    "name": "Atarfe",
+    "country": "ES",
+    "lat": 37.22479,
+    "lng": -3.68686
+  },
+  {
+    "name": "Atamaría",
+    "country": "ES",
+    "lat": 37.59989,
+    "lng": -0.80682
+  },
+  {
+    "name": "Atalaya del Cañavate",
+    "country": "ES",
+    "lat": 39.51864,
+    "lng": -2.25175
+  },
+  {
+    "name": "Atalaya",
+    "country": "ES",
+    "lat": 38.33333,
+    "lng": -6.46667
+  },
+  {
+    "name": "Atajate",
+    "country": "ES",
+    "lat": 36.64017,
+    "lng": -5.24606
+  },
+  {
+    "name": "Atzeneta d'Albaida",
+    "country": "ES",
+    "lat": 38.83333,
+    "lng": -0.5
+  },
+  {
+    "name": "Atarrabia",
+    "country": "ES",
+    "lat": 42.8323,
+    "lng": -1.60735
+  },
+  {
+    "name": "Atienza",
+    "country": "ES",
+    "lat": 41.19722,
+    "lng": -2.87129
+  },
+  {
+    "name": "Ateca",
+    "country": "ES",
+    "lat": 41.33092,
+    "lng": -1.79353
+  },
+  {
+    "name": "Atea",
+    "country": "ES",
+    "lat": 41.16059,
+    "lng": -1.55533
+  },
+  {
+    "name": "Ataun",
+    "country": "ES",
+    "lat": 43.00612,
+    "lng": -2.17663
+  },
+  {
+    "name": "Ataquines",
+    "country": "ES",
+    "lat": 41.18247,
+    "lng": -4.80319
+  },
+  {
+    "name": "Atapuerca",
+    "country": "ES",
+    "lat": 42.37757,
+    "lng": -3.5079
+  },
+  {
+    "name": "Atocha",
+    "country": "ES",
+    "lat": 40.40346,
+    "lng": -3.68733
+  },
+  {
+    "name": "Atanzón",
+    "country": "ES",
+    "lat": 40.66697,
+    "lng": -2.99686
+  },
+  {
+    "name": "Atalaya",
+    "country": "ES",
+    "lat": 40.46427,
+    "lng": -3.66494
+  },
+  {
+    "name": "Atala",
+    "country": "FI",
+    "lat": 61.50283,
+    "lng": 23.90685
+  },
+  {
+    "name": "Atur",
+    "country": "FR",
+    "lat": 45.14086,
+    "lng": 0.74701
+  },
+  {
+    "name": "Attigny",
+    "country": "FR",
+    "lat": 49.47846,
+    "lng": 4.57803
+  },
+  {
+    "name": "Attignat",
+    "country": "FR",
+    "lat": 46.28562,
+    "lng": 5.16164
+  },
+  {
+    "name": "Attichy",
+    "country": "FR",
+    "lat": 49.41121,
+    "lng": 3.04949
+  },
+  {
+    "name": "Attiches",
+    "country": "FR",
+    "lat": 50.5222,
+    "lng": 3.06222
+  },
+  {
+    "name": "Attainville",
+    "country": "FR",
+    "lat": 49.05779,
+    "lng": 2.34497
+  },
+  {
+    "name": "Athis-Mons",
+    "country": "FR",
+    "lat": 48.70522,
+    "lng": 2.39147
+  },
+  {
+    "name": "Athis-de-l'Orne",
+    "country": "FR",
+    "lat": 48.81667,
+    "lng": -0.5
+  },
+  {
+    "name": "Athies-sous-Laon",
+    "country": "FR",
+    "lat": 49.57369,
+    "lng": 3.68417
+  },
+  {
+    "name": "Athée-sur-Cher",
+    "country": "FR",
+    "lat": 47.32023,
+    "lng": 0.91659
+  },
+  {
+    "name": "Atworth",
+    "country": "GB",
+    "lat": 51.39234,
+    "lng": -2.19297
+  },
+  {
+    "name": "Atwick",
+    "country": "GB",
+    "lat": 53.94012,
+    "lng": -0.189
+  },
+  {
+    "name": "Attleborough",
+    "country": "GB",
+    "lat": 52.51779,
+    "lng": 1.01572
+  },
+  {
+    "name": "Attleborough",
+    "country": "GB",
+    "lat": 52.51293,
+    "lng": -1.45487
+  },
+  {
+    "name": "Atherton",
+    "country": "GB",
+    "lat": 53.52371,
+    "lng": -2.49354
+  },
+  {
+    "name": "Atherstone",
+    "country": "GB",
+    "lat": 52.57536,
+    "lng": -1.54693
+  },
+  {
+    "name": "Atebubu",
+    "country": "GH",
+    "lat": 7.75537,
+    "lng": -0.98085
+  },
+  {
+    "name": "Atsiaman",
+    "country": "GH",
+    "lat": 5.69775,
+    "lng": -0.32824
+  },
+  {
+    "name": "Atsipópoulo",
+    "country": "GR",
+    "lat": 35.35253,
+    "lng": 24.43378
+  },
+  {
+    "name": "Athens",
+    "country": "GR",
+    "lat": 37.98376,
+    "lng": 23.72784
+  },
+  {
+    "name": "Athíkia",
+    "country": "GR",
+    "lat": 37.81675,
+    "lng": 22.92939
+  },
+  {
+    "name": "Atalánti",
+    "country": "GR",
+    "lat": 38.65111,
+    "lng": 22.99917
+  },
+  {
+    "name": "Atescatempa",
+    "country": "GT",
+    "lat": 14.1755,
+    "lng": -89.74184
+  },
+  {
+    "name": "Atima",
+    "country": "HN",
+    "lat": 14.93253,
+    "lng": -88.48965
+  },
+  {
+    "name": "Atenas de San Cristóbal",
+    "country": "HN",
+    "lat": 15.68333,
+    "lng": -87.31667
+  },
+  {
+    "name": "Atkár",
+    "country": "HU",
+    "lat": 47.72079,
+    "lng": 19.89126
+  },
+  {
+    "name": "Atap",
+    "country": "ID",
+    "lat": 3.85714,
+    "lng": 117.04654
+  },
+  {
+    "name": "Atambua",
+    "country": "ID",
+    "lat": -9.10611,
+    "lng": 124.8925
+  },
+  {
+    "name": "Athy",
+    "country": "IE",
+    "lat": 52.99139,
+    "lng": -6.98028
+  },
+  {
+    "name": "Athgarvan",
+    "country": "IE",
+    "lat": 53.15229,
+    "lng": -6.78173
+  },
+  {
+    "name": "Athenry",
+    "country": "IE",
+    "lat": 53.29639,
+    "lng": -8.74306
+  },
+  {
+    "name": "Athboy",
+    "country": "IE",
+    "lat": 53.62327,
+    "lng": -6.91434
+  },
+  {
+    "name": "Athlone",
+    "country": "IE",
+    "lat": 53.42278,
+    "lng": -7.93722
+  },
+  {
+    "name": "Atlit",
+    "country": "IL",
+    "lat": 32.68889,
+    "lng": 34.94236
+  },
+  {
+    "name": "Athmallik",
+    "country": "IN",
+    "lat": 20.72115,
+    "lng": 84.53514
+  },
+  {
+    "name": "Attur",
+    "country": "IN",
+    "lat": 11.59414,
+    "lng": 78.60143
+  },
+  {
+    "name": "Attingal",
+    "country": "IN",
+    "lat": 8.69609,
+    "lng": 76.81507
+  },
+  {
+    "name": "Attili",
+    "country": "IN",
+    "lat": 16.7,
+    "lng": 81.6
+  },
+  {
+    "name": "Attibele",
+    "country": "IN",
+    "lat": 12.77809,
+    "lng": 77.77259
+  },
+  {
+    "name": "Attayampatti",
+    "country": "IN",
+    "lat": 11.53272,
+    "lng": 78.05363
+  },
+  {
+    "name": "Attāni",
+    "country": "IN",
+    "lat": 11.52205,
+    "lng": 77.51219
+  },
+  {
+    "name": "Atru",
+    "country": "IN",
+    "lat": 24.87686,
+    "lng": 76.66105
+  },
+  {
+    "name": "Atraulia",
+    "country": "IN",
+    "lat": 26.3333,
+    "lng": 82.94727
+  },
+  {
+    "name": "Atraulī",
+    "country": "IN",
+    "lat": 28.02964,
+    "lng": 78.28571
+  },
+  {
+    "name": "Athner",
+    "country": "IN",
+    "lat": 21.62382,
+    "lng": 77.91523
+  },
+  {
+    "name": "Atmākūr",
+    "country": "IN",
+    "lat": 16.33802,
+    "lng": 77.80855
+  },
+  {
+    "name": "Atmakūr",
+    "country": "IN",
+    "lat": 15.88109,
+    "lng": 78.58704
+  },
+  {
+    "name": "Athani",
+    "country": "IN",
+    "lat": 16.72613,
+    "lng": 75.06421
+  },
+  {
+    "name": "Ateli Mandi",
+    "country": "IN",
+    "lat": 28.1008,
+    "lng": 76.2598
+  },
+  {
+    "name": "Atarra",
+    "country": "IN",
+    "lat": 25.28618,
+    "lng": 80.57155
+  },
+  {
+    "name": "Attippattu",
+    "country": "IN",
+    "lat": 13.26329,
+    "lng": 80.2911
+  },
+  {
+    "name": "Attūr",
+    "country": "IN",
+    "lat": 8.3224,
+    "lng": 77.25575
+  },
+  {
+    "name": "Attippatti",
+    "country": "IN",
+    "lat": 9.49389,
+    "lng": 78.12711
+  },
+  {
+    "name": "Attimarappatti",
+    "country": "IN",
+    "lat": 8.73988,
+    "lng": 78.10534
+  },
+  {
+    "name": "Attanūr",
+    "country": "IN",
+    "lat": 11.50061,
+    "lng": 78.13557
+  },
+  {
+    "name": "Atul",
+    "country": "IN",
+    "lat": 20.54364,
+    "lng": 72.94114
+  },
+  {
+    "name": "Atholi",
+    "country": "IN",
+    "lat": 11.38853,
+    "lng": 75.7597
+  },
+  {
+    "name": "Athiyannur",
+    "country": "IN",
+    "lat": 8.393,
+    "lng": 77.06371
+  },
+  {
+    "name": "Atzara",
+    "country": "IT",
+    "lat": 39.99249,
+    "lng": 9.07616
+  },
+  {
+    "name": "Attimis",
+    "country": "IT",
+    "lat": 46.19022,
+    "lng": 13.31127
+  },
+  {
+    "name": "Attigliano",
+    "country": "IT",
+    "lat": 42.51505,
+    "lng": 12.29455
+  },
+  {
+    "name": "Atripalda",
+    "country": "IT",
+    "lat": 40.91867,
+    "lng": 14.82721
+  },
+  {
+    "name": "Atri",
+    "country": "IT",
+    "lat": 42.57642,
+    "lng": 13.98899
+  },
+  {
+    "name": "Atrani",
+    "country": "IT",
+    "lat": 40.63617,
+    "lng": 14.60933
+  },
+  {
+    "name": "Atina",
+    "country": "IT",
+    "lat": 41.62004,
+    "lng": 13.79905
+  },
+  {
+    "name": "Atessa",
+    "country": "IT",
+    "lat": 42.07018,
+    "lng": 14.45049
+  },
+  {
+    "name": "Atena Lucana",
+    "country": "IT",
+    "lat": 40.45464,
+    "lng": 15.55633
+  },
+  {
+    "name": "Atella",
+    "country": "IT",
+    "lat": 40.87855,
+    "lng": 15.65226
+  },
+  {
+    "name": "Ateleta",
+    "country": "IT",
+    "lat": 41.85435,
+    "lng": 14.19806
+  },
+  {
+    "name": "Atina Inferiore",
+    "country": "IT",
+    "lat": 41.62705,
+    "lng": 13.79258
+  },
+  {
+    "name": "At-Taybeh",
+    "country": "JO",
+    "lat": 30.25125,
+    "lng": 35.4657
+  },
+  {
+    "name": "Atsugi",
+    "country": "JP",
+    "lat": 35.44272,
+    "lng": 139.36931
+  },
+  {
+    "name": "Atami",
+    "country": "JP",
+    "lat": 35.08834,
+    "lng": 139.05325
+  },
+  {
+    "name": "Aterazawa",
+    "country": "JP",
+    "lat": 38.38431,
+    "lng": 140.21189
+  },
+  {
+    "name": "Athi River",
+    "country": "KE",
+    "lat": -1.4563,
+    "lng": 36.97826
+  },
+  {
+    "name": "At-Bashi",
+    "country": "KG",
+    "lat": 41.16951,
+    "lng": 75.80099
+  },
+  {
+    "name": "Atyrau",
+    "country": "KZ",
+    "lat": 47.1048,
+    "lng": 51.88427
+  },
+  {
+    "name": "Atakent",
+    "country": "KZ",
+    "lat": 40.84782,
+    "lng": 68.50643
+  },
+  {
+    "name": "Atbasar",
+    "country": "KZ",
+    "lat": 51.80854,
+    "lng": 68.35823
+  },
+  {
+    "name": "Atbasar",
+    "country": "KZ",
+    "lat": 51.8,
+    "lng": 68.33333
+  },
+  {
+    "name": "Attapeu",
+    "country": "LA",
+    "lat": 14.81071,
+    "lng": 106.83184
+  },
+  {
+    "name": "At Tāj",
+    "country": "LY",
+    "lat": 24.20487,
+    "lng": 23.2857
+  },
+  {
+    "name": "Atar",
+    "country": "MR",
+    "lat": 20.51875,
+    "lng": -13.04637
+  },
+  {
+    "name": "Attard",
+    "country": "MT",
+    "lat": 35.88967,
+    "lng": 14.4425
+  },
+  {
+    "name": "Atzingo",
+    "country": "MX",
+    "lat": 19.1727,
+    "lng": -98.77873
+  },
+  {
+    "name": "Atarasquillo",
+    "country": "MX",
+    "lat": 19.32831,
+    "lng": -99.46899
+  },
+  {
+    "name": "Atexcatzingo",
+    "country": "MX",
+    "lat": 19.46882,
+    "lng": -98.14716
+  },
+  {
+    "name": "Atzitzintla",
+    "country": "MX",
+    "lat": 18.89915,
+    "lng": -97.3244
+  },
+  {
+    "name": "Atzalan",
+    "country": "MX",
+    "lat": 19.78864,
+    "lng": -97.24195
+  },
+  {
+    "name": "Atzala",
+    "country": "MX",
+    "lat": 18.54639,
+    "lng": -98.55306
+  },
+  {
+    "name": "Atzacoaloya",
+    "country": "MX",
+    "lat": 17.54659,
+    "lng": -99.13757
+  },
+  {
+    "name": "Atzacan",
+    "country": "MX",
+    "lat": 18.90724,
+    "lng": -97.08307
+  },
+  {
+    "name": "Atoyatempan",
+    "country": "MX",
+    "lat": 18.81925,
+    "lng": -97.9139
+  },
+  {
+    "name": "Atoyac",
+    "country": "MX",
+    "lat": 18.91205,
+    "lng": -96.77865
+  },
+  {
+    "name": "Atotonilco de Tula",
+    "country": "MX",
+    "lat": 20.0077,
+    "lng": -99.21804
+  },
+  {
+    "name": "Atotonilco el Grande",
+    "country": "MX",
+    "lat": 20.28632,
+    "lng": -98.6685
+  },
+  {
+    "name": "Atotonilco",
+    "country": "MX",
+    "lat": 18.64947,
+    "lng": -98.83117
+  },
+  {
+    "name": "Atlzayanca",
+    "country": "MX",
+    "lat": 19.43111,
+    "lng": -97.79556
+  },
+  {
+    "name": "Atlixtac",
+    "country": "MX",
+    "lat": 17.56312,
+    "lng": -98.93415
+  },
+  {
+    "name": "Atlixco",
+    "country": "MX",
+    "lat": 18.90815,
+    "lng": -98.43613
+  },
+  {
+    "name": "Atliaca",
+    "country": "MX",
+    "lat": 17.65168,
+    "lng": -99.37471
+  },
+  {
+    "name": "Atlequizayan",
+    "country": "MX",
+    "lat": 20.01214,
+    "lng": -97.62423
+  },
+  {
+    "name": "Atlautla",
+    "country": "MX",
+    "lat": 19.02188,
+    "lng": -98.77859
+  },
+  {
+    "name": "Atlatongo",
+    "country": "MX",
+    "lat": 19.66776,
+    "lng": -98.90402
+  },
+  {
+    "name": "Atlatlahucan",
+    "country": "MX",
+    "lat": 18.93413,
+    "lng": -98.8982
+  },
+  {
+    "name": "Atlapexco",
+    "country": "MX",
+    "lat": 21.0198,
+    "lng": -98.34742
+  },
+  {
+    "name": "Atlahuilco",
+    "country": "MX",
+    "lat": 18.69717,
+    "lng": -97.0916
+  },
+  {
+    "name": "Atlacomulco de Fabela",
+    "country": "MX",
+    "lat": 19.79919,
+    "lng": -99.875
+  },
+  {
+    "name": "Atlacholoaya",
+    "country": "MX",
+    "lat": 18.74238,
+    "lng": -99.22656
+  },
+  {
+    "name": "Atlacahualoya",
+    "country": "MX",
+    "lat": 18.54057,
+    "lng": -98.72982
+  },
+  {
+    "name": "Atizapán",
+    "country": "MX",
+    "lat": 19.25,
+    "lng": -99.55
+  },
+  {
+    "name": "Atitalaquia",
+    "country": "MX",
+    "lat": 20.05964,
+    "lng": -99.22163
+  },
+  {
+    "name": "Atengo",
+    "country": "MX",
+    "lat": 20.17526,
+    "lng": -99.32714
+  },
+  {
+    "name": "Atencingo",
+    "country": "MX",
+    "lat": 18.51347,
+    "lng": -98.60542
+  },
+  {
+    "name": "Atenango del Río",
+    "country": "MX",
+    "lat": 18.10526,
+    "lng": -99.10777
+  },
+  {
+    "name": "Atempan",
+    "country": "MX",
+    "lat": 19.83945,
+    "lng": -97.45855
+  },
+  {
+    "name": "Atasta",
+    "country": "MX",
+    "lat": 18.61954,
+    "lng": -92.10326
+  },
+  {
+    "name": "Atalpan",
+    "country": "MX",
+    "lat": 19.84374,
+    "lng": -97.56008
+  },
+  {
+    "name": "Atarjea",
+    "country": "MX",
+    "lat": 21.26777,
+    "lng": -99.71914
+  },
+  {
+    "name": "Atlangatepec",
+    "country": "MX",
+    "lat": 19.5322,
+    "lng": -98.20888
+  },
+  {
+    "name": "Atla",
+    "country": "MX",
+    "lat": 20.27527,
+    "lng": -98.12469
+  },
+  {
+    "name": "Atecax",
+    "country": "MX",
+    "lat": 19.6987,
+    "lng": -97.36698
+  },
+  {
+    "name": "Atoyac de Álvarez",
+    "country": "MX",
+    "lat": 17.20667,
+    "lng": -100.43306
+  },
+  {
+    "name": "Atoyac",
+    "country": "MX",
+    "lat": 20.00943,
+    "lng": -103.51674
+  },
+  {
+    "name": "Atotonilquillo",
+    "country": "MX",
+    "lat": 20.39199,
+    "lng": -103.12363
+  },
+  {
+    "name": "Atotonilco el Bajo",
+    "country": "MX",
+    "lat": 20.35151,
+    "lng": -103.67455
+  },
+  {
+    "name": "Atotonilco el Alto",
+    "country": "MX",
+    "lat": 20.55084,
+    "lng": -102.50822
+  },
+  {
+    "name": "Atongo",
+    "country": "MX",
+    "lat": 20.77128,
+    "lng": -100.23868
+  },
+  {
+    "name": "Atonalisco",
+    "country": "MX",
+    "lat": 21.66551,
+    "lng": -104.83949
+  },
+  {
+    "name": "Atolinga",
+    "country": "MX",
+    "lat": 21.80696,
+    "lng": -103.46538
+  },
+  {
+    "name": "Aticama",
+    "country": "MX",
+    "lat": 21.48387,
+    "lng": -105.19787
+  },
+  {
+    "name": "Atequiza",
+    "country": "MX",
+    "lat": 20.39519,
+    "lng": -103.13882
+  },
+  {
+    "name": "Atenguillo",
+    "country": "MX",
+    "lat": 20.41486,
+    "lng": -104.49309
+  },
+  {
+    "name": "Atengo",
+    "country": "MX",
+    "lat": 20.27495,
+    "lng": -104.23812
+  },
+  {
+    "name": "Atemajac de Brizuela",
+    "country": "MX",
+    "lat": 20.14069,
+    "lng": -103.72763
+  },
+  {
+    "name": "Atapaneo",
+    "country": "MX",
+    "lat": 19.73892,
+    "lng": -101.11576
+  },
+  {
+    "name": "Atapán",
+    "country": "MX",
+    "lat": 19.65057,
+    "lng": -102.42463
+  },
+  {
+    "name": "Atacheo de Regalado",
+    "country": "MX",
+    "lat": 20.05874,
+    "lng": -102.18703
+  },
+  {
+    "name": "Atacco",
+    "country": "MX",
+    "lat": 19.92674,
+    "lng": -103.74256
+  },
+  {
+    "name": "Atoluca",
+    "country": "MX",
+    "lat": 19.855,
+    "lng": -97.35361
+  },
+  {
+    "name": "Atzingo (La Cumbre)",
+    "country": "MX",
+    "lat": 19.97972,
+    "lng": -97.96861
+  },
+  {
+    "name": "Atecucario de la Constitución (Atecuario)",
+    "country": "MX",
+    "lat": 20.06444,
+    "lng": -102.23861
+  },
+  {
+    "name": "Atenxoxola",
+    "country": "MX",
+    "lat": 17.48819,
+    "lng": -99.14285
+  },
+  {
+    "name": "Atlamajac",
+    "country": "MX",
+    "lat": 17.55528,
+    "lng": -98.54722
+  },
+  {
+    "name": "Atotonilco",
+    "country": "MX",
+    "lat": 19.94111,
+    "lng": -100.22306
+  },
+  {
+    "name": "Atzalán",
+    "country": "MX",
+    "lat": 19.82472,
+    "lng": -97.44417
+  },
+  {
+    "name": "Atlamajalcingo del Río",
+    "country": "MX",
+    "lat": 17.52667,
+    "lng": -98.65556
+  },
+  {
+    "name": "Atenguillo",
+    "country": "MX",
+    "lat": 19.56361,
+    "lng": -98.87639
+  },
+  {
+    "name": "Atani",
+    "country": "NG",
+    "lat": 6.01277,
+    "lng": 6.74768
+  },
+  {
+    "name": "Atan",
+    "country": "NG",
+    "lat": 6.89456,
+    "lng": 4.00715
+  },
+  {
+    "name": "Atawhai",
+    "country": "NZ",
+    "lat": -41.23333,
+    "lng": 173.31667
+  },
+  {
+    "name": "Atalaya",
+    "country": "PA",
+    "lat": 8.04358,
+    "lng": -80.92482
+  },
+  {
+    "name": "Atuncolla",
+    "country": "PE",
+    "lat": -15.68865,
+    "lng": -70.14392
+  },
+  {
+    "name": "Atiquipa",
+    "country": "PE",
+    "lat": -15.79577,
+    "lng": -74.36359
+  },
+  {
+    "name": "Atico",
+    "country": "PE",
+    "lat": -16.20944,
+    "lng": -73.62222
+  },
+  {
+    "name": "Ataura",
+    "country": "PE",
+    "lat": -11.80135,
+    "lng": -75.43969
+  },
+  {
+    "name": "Atuona",
+    "country": "PF",
+    "lat": -9.80342,
+    "lng": -139.04202
+  },
+  {
+    "name": "Atulayan",
+    "country": "PH",
+    "lat": 17.6648,
+    "lng": 121.6937
+  },
+  {
+    "name": "Atop-atop",
+    "country": "PH",
+    "lat": 11.2322,
+    "lng": 123.7602
+  },
+  {
+    "name": "Atok",
+    "country": "PH",
+    "lat": 16.58355,
+    "lng": 120.69949
+  },
+  {
+    "name": "Atipuluhan",
+    "country": "PH",
+    "lat": 10.51336,
+    "lng": 122.9621
+  },
+  {
+    "name": "Atimonan",
+    "country": "PH",
+    "lat": 14.0027,
+    "lng": 121.92078
+  },
+  {
+    "name": "Atabayan",
+    "country": "PH",
+    "lat": 10.68333,
+    "lng": 122.41667
+  },
+  {
+    "name": "Attock City",
+    "country": "PK",
+    "lat": 33.76671,
+    "lng": 72.35977
+  },
+  {
+    "name": "Athmuqam",
+    "country": "PK",
+    "lat": 34.57173,
+    "lng": 73.89724
+  },
+  {
+    "name": "Athmuqām",
+    "country": "PK",
+    "lat": 34.58489,
+    "lng": 73.91049
+  },
+  {
+    "name": "Atouguia da Baleia",
+    "country": "PT",
+    "lat": 39.33814,
+    "lng": -9.3263
+  },
+  {
+    "name": "Atalaia",
+    "country": "PT",
+    "lat": 39.45551,
+    "lng": -7.87295
+  },
+  {
+    "name": "Atyrá",
+    "country": "PY",
+    "lat": -25.2794,
+    "lng": -57.17289
+  },
+  {
+    "name": "Ath Thumāmah Sab‘ah wa Arba‘ūn",
+    "country": "QA",
+    "lat": 25.23903,
+    "lng": 51.56333
+  },
+  {
+    "name": "Ath Thumāmah Sittah wa Arba‘ūn",
+    "country": "QA",
+    "lat": 25.23404,
+    "lng": 51.54053
+  },
+  {
+    "name": "Ath Thumāmah Khamsūn",
+    "country": "QA",
+    "lat": 25.21958,
+    "lng": 51.55323
+  },
+  {
+    "name": "Atid",
+    "country": "RO",
+    "lat": 46.45,
+    "lng": 25.05
+  },
+  {
+    "name": "Atyur’yevo",
+    "country": "RU",
+    "lat": 54.32056,
+    "lng": 43.33688
+  },
+  {
+    "name": "Atyashevo",
+    "country": "RU",
+    "lat": 54.59,
+    "lng": 46.125
+  },
+  {
+    "name": "Atyashevo",
+    "country": "RU",
+    "lat": 54.56443,
+    "lng": 46.06905
+  },
+  {
+    "name": "Atkarsk",
+    "country": "RU",
+    "lat": 51.88056,
+    "lng": 45.00609
+  },
+  {
+    "name": "Atig",
+    "country": "RU",
+    "lat": 56.69307,
+    "lng": 59.42271
+  },
+  {
+    "name": "Ateptsevo",
+    "country": "RU",
+    "lat": 55.32364,
+    "lng": 36.75002
+  },
+  {
+    "name": "Atemar",
+    "country": "RU",
+    "lat": 54.18097,
+    "lng": 45.40909
+  },
+  {
+    "name": "Atamanskaya",
+    "country": "RU",
+    "lat": 46.1773,
+    "lng": 39.6358
+  },
+  {
+    "name": "Atlashevo",
+    "country": "RU",
+    "lat": 56.01235,
+    "lng": 47.55615
+  },
+  {
+    "name": "Atagay",
+    "country": "RU",
+    "lat": 55.1033,
+    "lng": 99.3875
+  },
+  {
+    "name": "Atamanovka",
+    "country": "RU",
+    "lat": 51.92934,
+    "lng": 113.64393
+  },
+  {
+    "name": "Atlasovo",
+    "country": "RU",
+    "lat": 55.6065,
+    "lng": 159.64266
+  },
+  {
+    "name": "At Tūbī",
+    "country": "SA",
+    "lat": 26.55778,
+    "lng": 49.99167
+  },
+  {
+    "name": "Atbara",
+    "country": "SD",
+    "lat": 17.70217,
+    "lng": 33.98638
+  },
+  {
+    "name": "Atiquizaya",
+    "country": "SV",
+    "lat": 13.97694,
+    "lng": -89.7525
+  },
+  {
+    "name": "At Tibnī",
+    "country": "SY",
+    "lat": 35.6117,
+    "lng": 39.8181
+  },
+  {
+    "name": "At Tamāni‘ah",
+    "country": "SY",
+    "lat": 35.45846,
+    "lng": 36.74816
+  },
+  {
+    "name": "At Tall",
+    "country": "SY",
+    "lat": 33.61033,
+    "lng": 36.3107
+  },
+  {
+    "name": "Ath Thawrah",
+    "country": "SY",
+    "lat": 35.83758,
+    "lng": 38.54828
+  },
+  {
+    "name": "Ati",
+    "country": "TD",
+    "lat": 13.2138,
+    "lng": 18.3393
+  },
+  {
+    "name": "Atakpamé",
+    "country": "TG",
+    "lat": 7.53333,
+    "lng": 1.13333
+  },
+  {
+    "name": "At Samat",
+    "country": "TH",
+    "lat": 15.84308,
+    "lng": 103.87839
+  },
+  {
+    "name": "Atafu Village",
+    "country": "TK",
+    "lat": -8.54212,
+    "lng": -172.51591
+  },
+  {
+    "name": "Atauro",
+    "country": "TL",
+    "lat": -8.26667,
+    "lng": 125.60139
+  },
+  {
+    "name": "Ataeymir",
+    "country": "TR",
+    "lat": 37.70461,
+    "lng": 28.77158
+  },
+  {
+    "name": "Atalar",
+    "country": "TR",
+    "lat": 36.85,
+    "lng": 34.85
+  },
+  {
+    "name": "Atmalı",
+    "country": "TR",
+    "lat": 37.70773,
+    "lng": 37.98207
+  },
+  {
+    "name": "Atlıhisar",
+    "country": "TR",
+    "lat": 38.44944,
+    "lng": 30.58389
+  },
+  {
+    "name": "Atlı",
+    "country": "TR",
+    "lat": 37.19147,
+    "lng": 40.14358
+  },
+  {
+    "name": "Atça",
+    "country": "TR",
+    "lat": 37.88859,
+    "lng": 28.21528
+  },
+  {
+    "name": "Atburgazı",
+    "country": "TR",
+    "lat": 37.63639,
+    "lng": 27.24611
+  },
+  {
+    "name": "Atalar",
+    "country": "TR",
+    "lat": 37.17499,
+    "lng": 37.02169
+  },
+  {
+    "name": "Atabey",
+    "country": "TR",
+    "lat": 37.95083,
+    "lng": 30.63861
+  },
+  {
+    "name": "Atakent",
+    "country": "TR",
+    "lat": 36.40067,
+    "lng": 34.0579
+  },
+  {
+    "name": "Atkaracalar",
+    "country": "TR",
+    "lat": 40.81593,
+    "lng": 33.07556
+  },
+  {
+    "name": "Ataşehir",
+    "country": "TR",
+    "lat": 40.9833,
+    "lng": 29.1167
+  },
+  {
+    "name": "Ataköy",
+    "country": "TR",
+    "lat": 37.73987,
+    "lng": 28.69814
+  },
+  {
+    "name": "Atayurt",
+    "country": "TR",
+    "lat": 36.38364,
+    "lng": 34.02232
+  },
+  {
+    "name": "Atkins",
+    "country": "US",
+    "lat": 35.24647,
+    "lng": -92.93656
+  },
+  {
+    "name": "Atlantic Beach",
+    "country": "US",
+    "lat": 30.33441,
+    "lng": -81.3987
+  },
+  {
+    "name": "Atlantis",
+    "country": "US",
+    "lat": 26.5909,
+    "lng": -80.10088
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 33.96095,
+    "lng": -83.37794
+  },
+  {
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.749,
+    "lng": -84.38798
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 39.96088,
+    "lng": -89.72399
+  },
+  {
+    "name": "Atwood",
+    "country": "US",
+    "lat": 39.79948,
+    "lng": -88.46228
+  },
+  {
+    "name": "Atchison",
+    "country": "US",
+    "lat": 39.56305,
+    "lng": -95.12164
+  },
+  {
+    "name": "Atlantic Beach",
+    "country": "US",
+    "lat": 34.69905,
+    "lng": -76.74021
+  },
+  {
+    "name": "Atco",
+    "country": "US",
+    "lat": 39.76984,
+    "lng": -74.88739
+  },
+  {
+    "name": "Atlantic City",
+    "country": "US",
+    "lat": 39.36415,
+    "lng": -74.42306
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 39.32924,
+    "lng": -82.10126
+  },
+  {
+    "name": "Atoka",
+    "country": "US",
+    "lat": 34.38593,
+    "lng": -96.12833
+  },
+  {
+    "name": "Atglen",
+    "country": "US",
+    "lat": 39.94927,
+    "lng": -75.97356
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 35.44285,
+    "lng": -84.59299
+  },
+  {
+    "name": "Atoka",
+    "country": "US",
+    "lat": 35.44119,
+    "lng": -89.77814
+  },
+  {
+    "name": "Atascocita",
+    "country": "US",
+    "lat": 29.99883,
+    "lng": -95.1766
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 32.20487,
+    "lng": -95.85552
+  },
+  {
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 33.11374,
+    "lng": -94.16435
+  },
+  {
+    "name": "Atkins",
+    "country": "US",
+    "lat": 36.86734,
+    "lng": -81.42344
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 34.80243,
+    "lng": -86.97219
+  },
+  {
+    "name": "Atmore",
+    "country": "US",
+    "lat": 31.02379,
+    "lng": -87.49387
+  },
+  {
+    "name": "Attalla",
+    "country": "US",
+    "lat": 34.02176,
+    "lng": -86.08859
+  },
+  {
+    "name": "Atkins",
+    "country": "US",
+    "lat": 41.99694,
+    "lng": -91.86213
+  },
+  {
+    "name": "Atlantic",
+    "country": "US",
+    "lat": 41.4036,
+    "lng": -95.01388
+  },
+  {
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 40.25948,
+    "lng": -89.23342
+  },
+  {
+    "name": "Attica",
+    "country": "US",
+    "lat": 40.2942,
+    "lng": -87.2489
+  },
+  {
+    "name": "Athol",
+    "country": "US",
+    "lat": 42.59592,
+    "lng": -72.22675
+  },
+  {
+    "name": "Attleboro",
+    "country": "US",
+    "lat": 41.94454,
+    "lng": -71.28561
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 42.08866,
+    "lng": -85.23471
+  },
+  {
+    "name": "Atlanta",
+    "country": "US",
+    "lat": 45.00473,
+    "lng": -84.14389
+  },
+  {
+    "name": "Atlantic Mine",
+    "country": "US",
+    "lat": 47.09715,
+    "lng": -88.62762
+  },
+  {
+    "name": "Atwater",
+    "country": "US",
+    "lat": 45.13885,
+    "lng": -94.77806
+  },
+  {
+    "name": "Atkinson",
+    "country": "US",
+    "lat": 42.53139,
+    "lng": -98.97815
+  },
+  {
+    "name": "Atkinson",
+    "country": "US",
+    "lat": 42.83842,
+    "lng": -71.147
+  },
+  {
+    "name": "Atlantic Highlands",
+    "country": "US",
+    "lat": 40.40789,
+    "lng": -74.03431
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 42.26036,
+    "lng": -73.80957
+  },
+  {
+    "name": "Atlantic Beach",
+    "country": "US",
+    "lat": 40.58899,
+    "lng": -73.72902
+  },
+  {
+    "name": "Attica",
+    "country": "US",
+    "lat": 42.86423,
+    "lng": -78.28029
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 41.9573,
+    "lng": -76.518
+  },
+  {
+    "name": "Athens",
+    "country": "US",
+    "lat": 45.03302,
+    "lng": -90.07402
+  },
+  {
+    "name": "Atascadero",
+    "country": "US",
+    "lat": 35.48942,
+    "lng": -120.67073
+  },
+  {
+    "name": "Atherton",
+    "country": "US",
+    "lat": 37.46133,
+    "lng": -122.19774
+  },
+  {
+    "name": "Atwater Village",
+    "country": "US",
+    "lat": 34.1164,
+    "lng": -118.25646
+  },
+  {
+    "name": "Atwater",
+    "country": "US",
+    "lat": 37.34772,
+    "lng": -120.60908
+  },
+  {
+    "name": "Atwood",
+    "country": "US",
+    "lat": 39.80667,
+    "lng": -101.0421
+  },
+  {
+    "name": "Atoka",
+    "country": "US",
+    "lat": 32.76956,
+    "lng": -104.38885
+  },
+  {
+    "name": "Athena",
+    "country": "US",
+    "lat": 45.8118,
+    "lng": -118.49053
+  },
+  {
+    "name": "Atlántida",
+    "country": "UY",
+    "lat": -34.7719,
+    "lng": -55.7584
+  },
+  {
+    "name": "At Turbah",
+    "country": "YE",
+    "lat": 13.2127,
+    "lng": 44.12415
+  },
+  {
+    "name": "At Tuḩaytā’",
+    "country": "YE",
+    "lat": 14.18356,
+    "lng": 43.22637
+  },
+  {
+    "name": "At Tawāhī",
+    "country": "YE",
+    "lat": 12.78471,
+    "lng": 44.9802
+  },
+  {
+    "name": "Ataq",
+    "country": "YE",
+    "lat": 14.53767,
+    "lng": 46.83187
+  },
+  {
+    "name": "At Taḩāluf",
+    "country": "YE",
+    "lat": 15.93786,
+    "lng": 48.78641
+  },
+  {
+    "name": "Atlantis",
+    "country": "ZA",
+    "lat": -33.56668,
+    "lng": 18.48335
+  },
+  {
+    "name": "Athlone",
+    "country": "ZA",
+    "lat": -33.96722,
+    "lng": 18.50214
+  }
+]

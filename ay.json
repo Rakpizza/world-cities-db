@@ -1,0 +1,998 @@
+[
+  {
+    "name": "Aygezard",
+    "country": "AM",
+    "lat": 39.95436,
+    "lng": 44.60229
+  },
+  {
+    "name": "Aygepat",
+    "country": "AM",
+    "lat": 39.95565,
+    "lng": 44.59181
+  },
+  {
+    "name": "Aygavan",
+    "country": "AM",
+    "lat": 39.87327,
+    "lng": 44.66984
+  },
+  {
+    "name": "Ayrum",
+    "country": "AM",
+    "lat": 41.18826,
+    "lng": 44.90404
+  },
+  {
+    "name": "Aygestan",
+    "country": "AM",
+    "lat": 40.00293,
+    "lng": 44.55829
+  },
+  {
+    "name": "Aygeshat",
+    "country": "AM",
+    "lat": 40.23608,
+    "lng": 44.28888
+  },
+  {
+    "name": "Aygeshat",
+    "country": "AM",
+    "lat": 40.07507,
+    "lng": 44.0611
+  },
+  {
+    "name": "Aygehovit",
+    "country": "AM",
+    "lat": 40.97951,
+    "lng": 45.25033
+  },
+  {
+    "name": "Aygedzor",
+    "country": "AM",
+    "lat": 40.83121,
+    "lng": 45.54483
+  },
+  {
+    "name": "Ayntap",
+    "country": "AM",
+    "lat": 40.09659,
+    "lng": 44.4646
+  },
+  {
+    "name": "Aygek",
+    "country": "AM",
+    "lat": 40.1889,
+    "lng": 44.38611
+  },
+  {
+    "name": "Aygevan",
+    "country": "AM",
+    "lat": 40.14172,
+    "lng": 43.9751
+  },
+  {
+    "name": "Ayacucho",
+    "country": "AR",
+    "lat": -37.15276,
+    "lng": -58.48838
+  },
+  {
+    "name": "Ayr",
+    "country": "AU",
+    "lat": -19.57393,
+    "lng": 147.40666
+  },
+  {
+    "name": "Ayla Patakata",
+    "country": "BD",
+    "lat": 22.21726,
+    "lng": 90.20959
+  },
+  {
+    "name": "Aywaille",
+    "country": "BE",
+    "lat": 50.47411,
+    "lng": 5.67684
+  },
+  {
+    "name": "Ayeneux",
+    "country": "BE",
+    "lat": 50.60797,
+    "lng": 5.71589
+  },
+  {
+    "name": "Aye",
+    "country": "BE",
+    "lat": 50.22471,
+    "lng": 5.30064
+  },
+  {
+    "name": "Aytos",
+    "country": "BG",
+    "lat": 42.70322,
+    "lng": 27.25464
+  },
+  {
+    "name": "Aylmer",
+    "country": "CA",
+    "lat": 42.76679,
+    "lng": -80.98302
+  },
+  {
+    "name": "Ayr",
+    "country": "CA",
+    "lat": 43.2834,
+    "lng": -80.44968
+  },
+  {
+    "name": "Aylmer",
+    "country": "CA",
+    "lat": 45.4002,
+    "lng": -75.80644
+  },
+  {
+    "name": "Ayent",
+    "country": "CH",
+    "lat": 46.28249,
+    "lng": 7.41028
+  },
+  {
+    "name": "Ayzan-Kouamikro",
+    "country": "CI",
+    "lat": 7.47808,
+    "lng": -3.91771
+  },
+  {
+    "name": "Ayénoua",
+    "country": "CI",
+    "lat": 5.36681,
+    "lng": -3.31774
+  },
+  {
+    "name": "Aya Prikro",
+    "country": "CI",
+    "lat": 7.28037,
+    "lng": -5.23209
+  },
+  {
+    "name": "Ayamé",
+    "country": "CI",
+    "lat": 5.6052,
+    "lng": -3.15709
+  },
+  {
+    "name": "Ayébo",
+    "country": "CI",
+    "lat": 5.44242,
+    "lng": -3.26408
+  },
+  {
+    "name": "Ayéwahi",
+    "country": "CI",
+    "lat": 5.35977,
+    "lng": -4.18641
+  },
+  {
+    "name": "Ayaou-Sokpa",
+    "country": "CI",
+    "lat": 7.42057,
+    "lng": -5.61407
+  },
+  {
+    "name": "Aykol",
+    "country": "CN",
+    "lat": 40.95759,
+    "lng": 80.13574
+  },
+  {
+    "name": "Ayapel",
+    "country": "CO",
+    "lat": 8.31372,
+    "lng": -75.13982
+  },
+  {
+    "name": "Ayia Napa",
+    "country": "CY",
+    "lat": 34.98213,
+    "lng": 34.00183
+  },
+  {
+    "name": "Aystetten",
+    "country": "DE",
+    "lat": 48.40556,
+    "lng": 10.77742
+  },
+  {
+    "name": "Ayl",
+    "country": "DE",
+    "lat": 49.63333,
+    "lng": 6.55
+  },
+  {
+    "name": "Aying",
+    "country": "DE",
+    "lat": 47.9701,
+    "lng": 11.77752
+  },
+  {
+    "name": "Ayapamba",
+    "country": "EC",
+    "lat": -3.61089,
+    "lng": -79.6782
+  },
+  {
+    "name": "Ayora",
+    "country": "ES",
+    "lat": 39.05852,
+    "lng": -1.05635
+  },
+  {
+    "name": "Ayódar",
+    "country": "ES",
+    "lat": 40.0,
+    "lng": -0.36667
+  },
+  {
+    "name": "Ayna",
+    "country": "ES",
+    "lat": 38.55,
+    "lng": -2.08333
+  },
+  {
+    "name": "Ayamonte",
+    "country": "ES",
+    "lat": 37.21329,
+    "lng": -7.40807
+  },
+  {
+    "name": "Ayuela",
+    "country": "ES",
+    "lat": 42.62618,
+    "lng": -4.65979
+  },
+  {
+    "name": "Ayoó de Vidriales",
+    "country": "ES",
+    "lat": 42.13042,
+    "lng": -6.0655
+  },
+  {
+    "name": "Ayllón",
+    "country": "ES",
+    "lat": 41.41899,
+    "lng": -3.37537
+  },
+  {
+    "name": "Ayerbe",
+    "country": "ES",
+    "lat": 42.27267,
+    "lng": -0.68844
+  },
+  {
+    "name": "Ayegui",
+    "country": "ES",
+    "lat": 42.65656,
+    "lng": -2.03934
+  },
+  {
+    "name": "Aytré",
+    "country": "FR",
+    "lat": 46.13417,
+    "lng": -1.11826
+  },
+  {
+    "name": "Ay-sur-Moselle",
+    "country": "FR",
+    "lat": 49.24326,
+    "lng": 6.20627
+  },
+  {
+    "name": "Ayse",
+    "country": "FR",
+    "lat": 46.08135,
+    "lng": 6.4455
+  },
+  {
+    "name": "Ayron",
+    "country": "FR",
+    "lat": 46.66004,
+    "lng": 0.07501
+  },
+  {
+    "name": "Ayguesvives",
+    "country": "FR",
+    "lat": 43.43733,
+    "lng": 1.59771
+  },
+  {
+    "name": "Ayguemorte-les-Graves",
+    "country": "FR",
+    "lat": 44.71091,
+    "lng": -0.47645
+  },
+  {
+    "name": "Aydoilles",
+    "country": "FR",
+    "lat": 48.21026,
+    "lng": 6.57389
+  },
+  {
+    "name": "Aydat",
+    "country": "FR",
+    "lat": 45.66022,
+    "lng": 2.97316
+  },
+  {
+    "name": "Ay",
+    "country": "FR",
+    "lat": 49.05457,
+    "lng": 4.00343
+  },
+  {
+    "name": "Ayr",
+    "country": "GB",
+    "lat": 55.46273,
+    "lng": -4.63393
+  },
+  {
+    "name": "Aylsham",
+    "country": "GB",
+    "lat": 52.79672,
+    "lng": 1.25107
+  },
+  {
+    "name": "Aylestone",
+    "country": "GB",
+    "lat": 52.60422,
+    "lng": -1.14631
+  },
+  {
+    "name": "Aylesford",
+    "country": "GB",
+    "lat": 51.30374,
+    "lng": 0.47936
+  },
+  {
+    "name": "Aylesbury",
+    "country": "GB",
+    "lat": 51.81665,
+    "lng": -0.81458
+  },
+  {
+    "name": "Aylesham",
+    "country": "GB",
+    "lat": 51.22539,
+    "lng": 1.20157
+  },
+  {
+    "name": "Ayene",
+    "country": "GQ",
+    "lat": 1.85592,
+    "lng": 10.68994
+  },
+  {
+    "name": "Ayía Triás",
+    "country": "GR",
+    "lat": 37.63707,
+    "lng": 22.80504
+  },
+  {
+    "name": "Ayapa",
+    "country": "HN",
+    "lat": 15.11174,
+    "lng": -87.17557
+  },
+  {
+    "name": "Ayamaru",
+    "country": "ID",
+    "lat": -1.27448,
+    "lng": 132.19334
+  },
+  {
+    "name": "Ayotupas",
+    "country": "ID",
+    "lat": -9.6971,
+    "lng": 124.7076
+  },
+  {
+    "name": "Ayyelet HaShaẖar",
+    "country": "IL",
+    "lat": 33.02224,
+    "lng": 35.57716
+  },
+  {
+    "name": "Ayyampettāi",
+    "country": "IN",
+    "lat": 10.90141,
+    "lng": 79.17984
+  },
+  {
+    "name": "Ayyampālaiyam",
+    "country": "IN",
+    "lat": 10.22528,
+    "lng": 77.74849
+  },
+  {
+    "name": "Ayodhya",
+    "country": "IN",
+    "lat": 26.79909,
+    "lng": 82.2047
+  },
+  {
+    "name": "Ayakudi",
+    "country": "IN",
+    "lat": 10.44992,
+    "lng": 77.55198
+  },
+  {
+    "name": "Aymanam",
+    "country": "IN",
+    "lat": 9.60684,
+    "lng": 76.50055
+  },
+  {
+    "name": "Ayyalur",
+    "country": "IN",
+    "lat": 10.48185,
+    "lng": 78.15639
+  },
+  {
+    "name": "Ayanavelikulangara Vadakku",
+    "country": "IN",
+    "lat": 9.04298,
+    "lng": 76.52297
+  },
+  {
+    "name": "Ayyānūr Teppakkuttai",
+    "country": "IN",
+    "lat": 11.596,
+    "lng": 77.98388
+  },
+  {
+    "name": "Ayakod",
+    "country": "IN",
+    "lat": 8.34566,
+    "lng": 77.29874
+  },
+  {
+    "name": "Ayodhyāpattanam",
+    "country": "IN",
+    "lat": 11.67546,
+    "lng": 78.24091
+  },
+  {
+    "name": "Aya Nagar",
+    "country": "IN",
+    "lat": 28.47202,
+    "lng": 77.1327
+  },
+  {
+    "name": "Aymavilles",
+    "country": "IT",
+    "lat": 45.7013,
+    "lng": 7.24683
+  },
+  {
+    "name": "Ayas",
+    "country": "IT",
+    "lat": 45.81506,
+    "lng": 7.68911
+  },
+  {
+    "name": "Ayl",
+    "country": "JO",
+    "lat": 30.20588,
+    "lng": 35.53627
+  },
+  {
+    "name": "Aydūn",
+    "country": "JO",
+    "lat": 32.50528,
+    "lng": 35.85809
+  },
+  {
+    "name": "Ayabe",
+    "country": "JP",
+    "lat": 35.3,
+    "lng": 135.25
+  },
+  {
+    "name": "Aya",
+    "country": "JP",
+    "lat": 31.98333,
+    "lng": 131.26667
+  },
+  {
+    "name": "Ayase",
+    "country": "JP",
+    "lat": 35.43515,
+    "lng": 139.4256
+  },
+  {
+    "name": "Aydarken",
+    "country": "KG",
+    "lat": 39.94319,
+    "lng": 71.34184
+  },
+  {
+    "name": "Ayang-ni",
+    "country": "KP",
+    "lat": 38.24719,
+    "lng": 125.79476
+  },
+  {
+    "name": "Ayat",
+    "country": "KZ",
+    "lat": 52.83554,
+    "lng": 62.52078
+  },
+  {
+    "name": "Ayagoz",
+    "country": "KZ",
+    "lat": 47.96447,
+    "lng": 80.43437
+  },
+  {
+    "name": "Ayoun El Atrous",
+    "country": "MR",
+    "lat": 16.6614,
+    "lng": -9.6149
+  },
+  {
+    "name": "Ayoquezco de Aldama",
+    "country": "MX",
+    "lat": 16.6837,
+    "lng": -96.84287
+  },
+  {
+    "name": "Ayutla",
+    "country": "MX",
+    "lat": 17.02756,
+    "lng": -96.07632
+  },
+  {
+    "name": "Ayutla de los Libres",
+    "country": "MX",
+    "lat": 16.96376,
+    "lng": -99.09616
+  },
+  {
+    "name": "Ayutla",
+    "country": "MX",
+    "lat": 18.54503,
+    "lng": -98.50537
+  },
+  {
+    "name": "Ayotzintepec",
+    "country": "MX",
+    "lat": 17.67261,
+    "lng": -96.12855
+  },
+  {
+    "name": "Ayotzinapa",
+    "country": "MX",
+    "lat": 17.55628,
+    "lng": -98.76346
+  },
+  {
+    "name": "Ayotuxtla",
+    "country": "MX",
+    "lat": 20.64885,
+    "lng": -98.30264
+  },
+  {
+    "name": "Ayotoxco de Guerrero",
+    "country": "MX",
+    "lat": 20.09589,
+    "lng": -97.40961
+  },
+  {
+    "name": "Ayometitla",
+    "country": "MX",
+    "lat": 19.20722,
+    "lng": -98.19306
+  },
+  {
+    "name": "Ayahualulco",
+    "country": "MX",
+    "lat": 19.10416,
+    "lng": -97.13563
+  },
+  {
+    "name": "Ayapango",
+    "country": "MX",
+    "lat": 19.12692,
+    "lng": -98.79988
+  },
+  {
+    "name": "Ayapa",
+    "country": "MX",
+    "lat": 18.22315,
+    "lng": -93.1121
+  },
+  {
+    "name": "Ayahualulco",
+    "country": "MX",
+    "lat": 19.35113,
+    "lng": -97.14874
+  },
+  {
+    "name": "Ayahualulco",
+    "country": "MX",
+    "lat": 17.50066,
+    "lng": -99.18264
+  },
+  {
+    "name": "Ayotla",
+    "country": "MX",
+    "lat": 18.67004,
+    "lng": -98.37266
+  },
+  {
+    "name": "Ayutla",
+    "country": "MX",
+    "lat": 20.1291,
+    "lng": -104.34676
+  },
+  {
+    "name": "Ayotitlán",
+    "country": "MX",
+    "lat": 20.22048,
+    "lng": -103.94397
+  },
+  {
+    "name": "Ayotlán",
+    "country": "MX",
+    "lat": 20.52943,
+    "lng": -102.32778
+  },
+  {
+    "name": "Ayer Hangat",
+    "country": "MY",
+    "lat": 6.42062,
+    "lng": 99.82199
+  },
+  {
+    "name": "Ayer Hitam",
+    "country": "MY",
+    "lat": 1.915,
+    "lng": 103.1808
+  },
+  {
+    "name": "Ayer Baloi",
+    "country": "MY",
+    "lat": 1.5915,
+    "lng": 103.3327
+  },
+  {
+    "name": "Ayer Molek",
+    "country": "MY",
+    "lat": 2.2028,
+    "lng": 102.3172
+  },
+  {
+    "name": "Ayer Tawar",
+    "country": "MY",
+    "lat": 4.3055,
+    "lng": 100.7618
+  },
+  {
+    "name": "Ayer Itam",
+    "country": "MY",
+    "lat": 5.40158,
+    "lng": 100.27815
+  },
+  {
+    "name": "Ayorou",
+    "country": "NE",
+    "lat": 14.73075,
+    "lng": 0.91739
+  },
+  {
+    "name": "Ayetoro",
+    "country": "NG",
+    "lat": 7.24281,
+    "lng": 3.02639
+  },
+  {
+    "name": "Ayete",
+    "country": "NG",
+    "lat": 7.54363,
+    "lng": 3.22304
+  },
+  {
+    "name": "Ayabaca",
+    "country": "PE",
+    "lat": -4.63983,
+    "lng": -79.71491
+  },
+  {
+    "name": "Ayrampuni",
+    "country": "PE",
+    "lat": -15.06319,
+    "lng": -69.88121
+  },
+  {
+    "name": "Ayo",
+    "country": "PE",
+    "lat": -15.68167,
+    "lng": -72.27417
+  },
+  {
+    "name": "Ayna",
+    "country": "PE",
+    "lat": -12.65,
+    "lng": -73.91667
+  },
+  {
+    "name": "Ayaviri",
+    "country": "PE",
+    "lat": -14.88639,
+    "lng": -70.58889
+  },
+  {
+    "name": "Ayapata",
+    "country": "PE",
+    "lat": -13.77699,
+    "lng": -70.32269
+  },
+  {
+    "name": "Ayacucho",
+    "country": "PE",
+    "lat": -13.1638,
+    "lng": -74.22345
+  },
+  {
+    "name": "Ayrihuanca",
+    "country": "PE",
+    "lat": -14.11522,
+    "lng": -72.6144
+  },
+  {
+    "name": "Ayahuay",
+    "country": "PE",
+    "lat": -14.20904,
+    "lng": -73.05858
+  },
+  {
+    "name": "Ayaviri",
+    "country": "PE",
+    "lat": -13.70306,
+    "lng": -75.35086
+  },
+  {
+    "name": "Ayusan Uno",
+    "country": "PH",
+    "lat": 13.95609,
+    "lng": 121.30765
+  },
+  {
+    "name": "Ayungon",
+    "country": "PH",
+    "lat": 9.8589,
+    "lng": 123.1444
+  },
+  {
+    "name": "Ayugan",
+    "country": "PH",
+    "lat": 13.5469,
+    "lng": 123.3217
+  },
+  {
+    "name": "Aya",
+    "country": "PH",
+    "lat": 13.8945,
+    "lng": 121.1139
+  },
+  {
+    "name": "Ayala Alabang",
+    "country": "PH",
+    "lat": 14.40599,
+    "lng": 121.02222
+  },
+  {
+    "name": "Ayolas",
+    "country": "PY",
+    "lat": -27.38421,
+    "lng": -56.83953
+  },
+  {
+    "name": "Ayutinskiy",
+    "country": "RU",
+    "lat": 47.78228,
+    "lng": 40.14763
+  },
+  {
+    "name": "Aysha",
+    "country": "RU",
+    "lat": 55.87035,
+    "lng": 48.63187
+  },
+  {
+    "name": "Aykino",
+    "country": "RU",
+    "lat": 62.22457,
+    "lng": 49.99392
+  },
+  {
+    "name": "Aya",
+    "country": "RU",
+    "lat": 51.94532,
+    "lng": 85.80168
+  },
+  {
+    "name": "Aykhal",
+    "country": "RU",
+    "lat": 65.93381,
+    "lng": 111.4834
+  },
+  {
+    "name": "Ayan",
+    "country": "RU",
+    "lat": 56.4631,
+    "lng": 138.17625
+  },
+  {
+    "name": "Ayn Ibn Fuhayd",
+    "country": "SA",
+    "lat": 26.77157,
+    "lng": 44.2071
+  },
+  {
+    "name": "Ayutuxtepeque",
+    "country": "SV",
+    "lat": 13.73538,
+    "lng": -89.20221
+  },
+  {
+    "name": "Ayn Halaqim",
+    "country": "SY",
+    "lat": 34.93998,
+    "lng": 36.32212
+  },
+  {
+    "name": "Ayyūbīyah",
+    "country": "SY",
+    "lat": 35.03288,
+    "lng": 36.73578
+  },
+  {
+    "name": "Ayní",
+    "country": "TJ",
+    "lat": 39.39406,
+    "lng": 68.53766
+  },
+  {
+    "name": "Aydınlar",
+    "country": "TR",
+    "lat": 38.62198,
+    "lng": 38.54052
+  },
+  {
+    "name": "Ayvalık",
+    "country": "TR",
+    "lat": 39.31927,
+    "lng": 26.69341
+  },
+  {
+    "name": "Ayvacık",
+    "country": "TR",
+    "lat": 39.60111,
+    "lng": 26.40472
+  },
+  {
+    "name": "Ayrancı",
+    "country": "TR",
+    "lat": 37.36127,
+    "lng": 33.6883
+  },
+  {
+    "name": "Aynalı",
+    "country": "TR",
+    "lat": 38.10157,
+    "lng": 39.45611
+  },
+  {
+    "name": "Aygün",
+    "country": "TR",
+    "lat": 38.43013,
+    "lng": 41.24536
+  },
+  {
+    "name": "Aydınkonak",
+    "country": "TR",
+    "lat": 37.89461,
+    "lng": 41.16405
+  },
+  {
+    "name": "Aydıncık",
+    "country": "TR",
+    "lat": 36.1437,
+    "lng": 33.32016
+  },
+  {
+    "name": "Aydın",
+    "country": "TR",
+    "lat": 37.84501,
+    "lng": 27.83963
+  },
+  {
+    "name": "Ayaş",
+    "country": "TR",
+    "lat": 36.48484,
+    "lng": 34.17595
+  },
+  {
+    "name": "Ayvacık",
+    "country": "TR",
+    "lat": 40.99111,
+    "lng": 36.63139
+  },
+  {
+    "name": "Aydıntepe",
+    "country": "TR",
+    "lat": 40.38325,
+    "lng": 40.14272
+  },
+  {
+    "name": "Aydıncık",
+    "country": "TR",
+    "lat": 40.12727,
+    "lng": 35.28765
+  },
+  {
+    "name": "Aydınca",
+    "country": "TR",
+    "lat": 40.56972,
+    "lng": 36.13917
+  },
+  {
+    "name": "Aybastı",
+    "country": "TR",
+    "lat": 40.68667,
+    "lng": 37.39917
+  },
+  {
+    "name": "Ayaş",
+    "country": "TR",
+    "lat": 40.01933,
+    "lng": 32.33221
+  },
+  {
+    "name": "Ayancık",
+    "country": "TR",
+    "lat": 41.94472,
+    "lng": 34.58611
+  },
+  {
+    "name": "Ayveri",
+    "country": "TR",
+    "lat": 37.73771,
+    "lng": 40.09061
+  },
+  {
+    "name": "Aydınpınar",
+    "country": "TR",
+    "lat": 40.75962,
+    "lng": 31.11131
+  },
+  {
+    "name": "Aydar",
+    "country": "UA",
+    "lat": 49.53316,
+    "lng": 39.11845
+  },
+  {
+    "name": "Ayden",
+    "country": "US",
+    "lat": 35.47266,
+    "lng": -77.41552
+  },
+  {
+    "name": "Ayer",
+    "country": "US",
+    "lat": 42.5612,
+    "lng": -71.58979
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Czyżew",
+    "country": "PL",
+    "lat": 52.79768,
+    "lng": 22.31237
+  },
+  {
+    "name": "Czudec",
+    "country": "PL",
+    "lat": 49.94487,
+    "lng": 21.84134
+  },
+  {
+    "name": "Czerwonka",
+    "country": "PL",
+    "lat": 53.91627,
+    "lng": 20.89685
+  },
+  {
+    "name": "Czerwonka",
+    "country": "PL",
+    "lat": 52.89254,
+    "lng": 21.21494
+  },
+  {
+    "name": "Czerwińsk Nad Wisłą",
+    "country": "PL",
+    "lat": 52.39828,
+    "lng": 20.3096
+  },
+  {
+    "name": "Czerwin",
+    "country": "PL",
+    "lat": 52.94905,
+    "lng": 21.75842
+  },
+  {
+    "name": "Czerniewice",
+    "country": "PL",
+    "lat": 51.65419,
+    "lng": 20.15553
+  },
+  {
+    "name": "Czernice Borowe",
+    "country": "PL",
+    "lat": 53.03197,
+    "lng": 20.71944
+  },
+  {
+    "name": "Czermin",
+    "country": "PL",
+    "lat": 50.33911,
+    "lng": 21.33356
+  },
+  {
+    "name": "Czeremcha",
+    "country": "PL",
+    "lat": 52.51667,
+    "lng": 23.35
+  },
+  {
+    "name": "Czemierniki",
+    "country": "PL",
+    "lat": 51.67298,
+    "lng": 22.63887
+  },
+  {
+    "name": "Czchów",
+    "country": "PL",
+    "lat": 49.83726,
+    "lng": 20.68056
+  },
+  {
+    "name": "Czaszyn",
+    "country": "PL",
+    "lat": 49.44854,
+    "lng": 22.2165
+  },
+  {
+    "name": "Czarnocin",
+    "country": "PL",
+    "lat": 50.3408,
+    "lng": 20.5162
+  },
+  {
+    "name": "Czarnochowice",
+    "country": "PL",
+    "lat": 50.00471,
+    "lng": 20.0679
+  },
+  {
+    "name": "Czarnia",
+    "country": "PL",
+    "lat": 53.35614,
+    "lng": 21.1952
+  },
+  {
+    "name": "Czarna Góra",
+    "country": "PL",
+    "lat": 49.37662,
+    "lng": 20.13047
+  },
+  {
+    "name": "Czarna Białostocka",
+    "country": "PL",
+    "lat": 53.30509,
+    "lng": 23.28146
+  },
+  {
+    "name": "Czarna",
+    "country": "PL",
+    "lat": 50.10979,
+    "lng": 22.18165
+  },
+  {
+    "name": "Czarna",
+    "country": "PL",
+    "lat": 50.06717,
+    "lng": 21.25614
+  },
+  {
+    "name": "Czarna",
+    "country": "PL",
+    "lat": 49.33116,
+    "lng": 22.65896
+  },
+  {
+    "name": "Czyżowice",
+    "country": "PL",
+    "lat": 49.9849,
+    "lng": 18.40433
+  },
+  {
+    "name": "Czułów",
+    "country": "PL",
+    "lat": 50.05956,
+    "lng": 19.70106
+  },
+  {
+    "name": "Człuchów",
+    "country": "PL",
+    "lat": 53.66722,
+    "lng": 17.35883
+  },
+  {
+    "name": "Człopa",
+    "country": "PL",
+    "lat": 53.08856,
+    "lng": 16.12098
+  },
+  {
+    "name": "Częstochowa",
+    "country": "PL",
+    "lat": 50.79646,
+    "lng": 19.12409
+  },
+  {
+    "name": "Czerwonak",
+    "country": "PL",
+    "lat": 52.46459,
+    "lng": 16.98169
+  },
+  {
+    "name": "Czerwionka-Leszczyny",
+    "country": "PL",
+    "lat": 50.15007,
+    "lng": 18.67762
+  },
+  {
+    "name": "Czerwieńsk",
+    "country": "PL",
+    "lat": 52.01289,
+    "lng": 15.42317
+  },
+  {
+    "name": "Czersk",
+    "country": "PL",
+    "lat": 53.79589,
+    "lng": 17.97647
+  },
+  {
+    "name": "Czernikowo",
+    "country": "PL",
+    "lat": 52.94688,
+    "lng": 18.93803
+  },
+  {
+    "name": "Czerniewice",
+    "country": "PL",
+    "lat": 52.51157,
+    "lng": 19.08694
+  },
+  {
+    "name": "Czerniejewo",
+    "country": "PL",
+    "lat": 52.4264,
+    "lng": 17.48925
+  },
+  {
+    "name": "Czernichów",
+    "country": "PL",
+    "lat": 49.9892,
+    "lng": 19.68115
+  },
+  {
+    "name": "Czernichów",
+    "country": "PL",
+    "lat": 49.75443,
+    "lng": 19.20947
+  },
+  {
+    "name": "Czernica",
+    "country": "PL",
+    "lat": 51.04609,
+    "lng": 17.2451
+  },
+  {
+    "name": "Czernica",
+    "country": "PL",
+    "lat": 50.08391,
+    "lng": 18.40068
+  },
+  {
+    "name": "Czermin",
+    "country": "PL",
+    "lat": 51.95008,
+    "lng": 17.74957
+  },
+  {
+    "name": "Czempiń",
+    "country": "PL",
+    "lat": 52.14404,
+    "lng": 16.76408
+  },
+  {
+    "name": "Czeladź",
+    "country": "PL",
+    "lat": 50.31542,
+    "lng": 19.07824
+  },
+  {
+    "name": "Czechowice-Dziedzice",
+    "country": "PL",
+    "lat": 49.91342,
+    "lng": 19.00479
+  },
+  {
+    "name": "Czastary",
+    "country": "PL",
+    "lat": 51.25869,
+    "lng": 18.31953
+  },
+  {
+    "name": "Czarny Dunajec",
+    "country": "PL",
+    "lat": 49.43663,
+    "lng": 19.85161
+  },
+  {
+    "name": "Czarny Bór",
+    "country": "PL",
+    "lat": 50.77083,
+    "lng": 16.1305
+  },
+  {
+    "name": "Czarnożyły",
+    "country": "PL",
+    "lat": 51.28533,
+    "lng": 18.56106
+  },
+  {
+    "name": "Czarnowąsy",
+    "country": "PL",
+    "lat": 50.72858,
+    "lng": 17.89819
+  },
+  {
+    "name": "Czarnocin",
+    "country": "PL",
+    "lat": 51.59142,
+    "lng": 19.68158
+  },
+  {
+    "name": "Czarnków",
+    "country": "PL",
+    "lat": 52.90214,
+    "lng": 16.56413
+  },
+  {
+    "name": "Czarne",
+    "country": "PL",
+    "lat": 53.6842,
+    "lng": 16.93834
+  },
+  {
+    "name": "Czarna Woda",
+    "country": "PL",
+    "lat": 53.84458,
+    "lng": 18.10006
+  },
+  {
+    "name": "Czarków",
+    "country": "PL",
+    "lat": 50.01833,
+    "lng": 18.90678
+  },
+  {
+    "name": "Czapury",
+    "country": "PL",
+    "lat": 52.31719,
+    "lng": 16.91268
+  },
+  {
+    "name": "Czaplinek",
+    "country": "PL",
+    "lat": 53.55775,
+    "lng": 16.23333
+  },
+  {
+    "name": "Czaniec",
+    "country": "PL",
+    "lat": 49.85071,
+    "lng": 19.25354
+  },
+  {
+    "name": "Czajków",
+    "country": "PL",
+    "lat": 51.49197,
+    "lng": 18.32726
+  },
+  {
+    "name": "Czarna Dąbrówka",
+    "country": "PL",
+    "lat": 54.35631,
+    "lng": 17.56456
+  }
+]
