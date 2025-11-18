@@ -1,0 +1,518 @@
+[
+  {
+    "name": "McLaren Vale",
+    "country": "AU",
+    "lat": -35.21895,
+    "lng": 138.54326
+  },
+  {
+    "name": "McLaren Flat",
+    "country": "AU",
+    "lat": -35.21667,
+    "lng": 138.58333
+  },
+  {
+    "name": "McKinnon",
+    "country": "AU",
+    "lat": -37.911,
+    "lng": 145.038
+  },
+  {
+    "name": "McCrae",
+    "country": "AU",
+    "lat": -38.34972,
+    "lng": 144.92806
+  },
+  {
+    "name": "McGraths Hill",
+    "country": "AU",
+    "lat": -33.61551,
+    "lng": 150.83372
+  },
+  {
+    "name": "McMahons Point",
+    "country": "AU",
+    "lat": -33.84492,
+    "lng": 151.20307
+  },
+  {
+    "name": "McDowall",
+    "country": "AU",
+    "lat": -27.38266,
+    "lng": 152.99194
+  },
+  {
+    "name": "McCracken",
+    "country": "AU",
+    "lat": -35.5358,
+    "lng": 138.63121
+  },
+  {
+    "name": "McKellar",
+    "country": "AU",
+    "lat": -35.21752,
+    "lng": 149.07704
+  },
+  {
+    "name": "McKail",
+    "country": "AU",
+    "lat": -34.98533,
+    "lng": 117.8301
+  },
+  {
+    "name": "McAdam",
+    "country": "CA",
+    "lat": 45.59232,
+    "lng": -67.307
+  },
+  {
+    "name": "McMasterville",
+    "country": "CA",
+    "lat": 45.55008,
+    "lng": -73.26585
+  },
+  {
+    "name": "McEwen",
+    "country": "CA",
+    "lat": 46.1452,
+    "lng": -64.78615
+  },
+  {
+    "name": "McKee",
+    "country": "CA",
+    "lat": 49.06146,
+    "lng": -122.24154
+  },
+  {
+    "name": "McMillan",
+    "country": "CA",
+    "lat": 49.04494,
+    "lng": -122.26665
+  },
+  {
+    "name": "McLennan",
+    "country": "CA",
+    "lat": 49.16268,
+    "lng": -123.09834
+  },
+  {
+    "name": "Mchinji",
+    "country": "MW",
+    "lat": -13.79841,
+    "lng": 32.88019
+  },
+  {
+    "name": "McLaren Park",
+    "country": "NZ",
+    "lat": -36.8882,
+    "lng": 174.61019
+  },
+  {
+    "name": "McKinley",
+    "country": "PH",
+    "lat": 10.0844,
+    "lng": 123.2592
+  },
+  {
+    "name": "McAlmont",
+    "country": "US",
+    "lat": 34.80842,
+    "lng": -92.18181
+  },
+  {
+    "name": "McCrory",
+    "country": "US",
+    "lat": 35.2562,
+    "lng": -91.20012
+  },
+  {
+    "name": "McGehee",
+    "country": "US",
+    "lat": 33.629,
+    "lng": -91.39956
+  },
+  {
+    "name": "McGregor",
+    "country": "US",
+    "lat": 26.56091,
+    "lng": -81.91453
+  },
+  {
+    "name": "McCaysville",
+    "country": "US",
+    "lat": 34.98619,
+    "lng": -84.37131
+  },
+  {
+    "name": "McDonough",
+    "country": "US",
+    "lat": 33.44734,
+    "lng": -84.14686
+  },
+  {
+    "name": "McRae",
+    "country": "US",
+    "lat": 32.06795,
+    "lng": -82.9007
+  },
+  {
+    "name": "McLeansboro",
+    "country": "US",
+    "lat": 38.09338,
+    "lng": -88.53561
+  },
+  {
+    "name": "McCordsville",
+    "country": "US",
+    "lat": 39.9081,
+    "lng": -85.92276
+  },
+  {
+    "name": "McPherson",
+    "country": "US",
+    "lat": 38.37084,
+    "lng": -97.66421
+  },
+  {
+    "name": "McKee",
+    "country": "US",
+    "lat": 37.43036,
+    "lng": -83.99798
+  },
+  {
+    "name": "McComb",
+    "country": "US",
+    "lat": 31.24379,
+    "lng": -90.45315
+  },
+  {
+    "name": "McLeansville",
+    "country": "US",
+    "lat": 36.10736,
+    "lng": -79.65864
+  },
+  {
+    "name": "McArthur",
+    "country": "US",
+    "lat": 39.24646,
+    "lng": -82.47849
+  },
+  {
+    "name": "McConnelsville",
+    "country": "US",
+    "lat": 39.64868,
+    "lng": -81.85319
+  },
+  {
+    "name": "McAlester",
+    "country": "US",
+    "lat": 34.93343,
+    "lng": -95.76971
+  },
+  {
+    "name": "McCord",
+    "country": "US",
+    "lat": 36.67847,
+    "lng": -97.04
+  },
+  {
+    "name": "McLoud",
+    "country": "US",
+    "lat": 35.4359,
+    "lng": -97.09142
+  },
+  {
+    "name": "McConnellsburg",
+    "country": "US",
+    "lat": 39.93259,
+    "lng": -77.99889
+  },
+  {
+    "name": "McSherrystown",
+    "country": "US",
+    "lat": 39.80732,
+    "lng": -77.01137
+  },
+  {
+    "name": "McColl",
+    "country": "US",
+    "lat": 34.66877,
+    "lng": -79.54533
+  },
+  {
+    "name": "McCormick",
+    "country": "US",
+    "lat": 33.91346,
+    "lng": -82.29346
+  },
+  {
+    "name": "McEwen",
+    "country": "US",
+    "lat": 36.10784,
+    "lng": -87.63307
+  },
+  {
+    "name": "McKenzie",
+    "country": "US",
+    "lat": 36.13256,
+    "lng": -88.51866
+  },
+  {
+    "name": "McMinnville",
+    "country": "US",
+    "lat": 35.6834,
+    "lng": -85.76998
+  },
+  {
+    "name": "McAllen",
+    "country": "US",
+    "lat": 26.20341,
+    "lng": -98.23001
+  },
+  {
+    "name": "McGregor",
+    "country": "US",
+    "lat": 31.44406,
+    "lng": -97.40918
+  },
+  {
+    "name": "McKinney",
+    "country": "US",
+    "lat": 33.19762,
+    "lng": -96.61527
+  },
+  {
+    "name": "McLendon-Chisholm",
+    "country": "US",
+    "lat": 32.84235,
+    "lng": -96.38054
+  },
+  {
+    "name": "McQueeney",
+    "country": "US",
+    "lat": 29.59217,
+    "lng": -98.03334
+  },
+  {
+    "name": "McLean",
+    "country": "US",
+    "lat": 38.93428,
+    "lng": -77.17748
+  },
+  {
+    "name": "McMechen",
+    "country": "US",
+    "lat": 39.98813,
+    "lng": -80.73147
+  },
+  {
+    "name": "McCullom Lake",
+    "country": "US",
+    "lat": 42.36835,
+    "lng": -88.29259
+  },
+  {
+    "name": "McHenry",
+    "country": "US",
+    "lat": 42.33335,
+    "lng": -88.26675
+  },
+  {
+    "name": "McKinley Park",
+    "country": "US",
+    "lat": 41.8317,
+    "lng": -87.67366
+  },
+  {
+    "name": "McGraw",
+    "country": "US",
+    "lat": 42.59618,
+    "lng": -76.09326
+  },
+  {
+    "name": "McKownville",
+    "country": "US",
+    "lat": 42.68397,
+    "lng": -73.84762
+  },
+  {
+    "name": "McComb",
+    "country": "US",
+    "lat": 41.10755,
+    "lng": -83.79271
+  },
+  {
+    "name": "McDonald",
+    "country": "US",
+    "lat": 41.16367,
+    "lng": -80.72424
+  },
+  {
+    "name": "McKinley Heights",
+    "country": "US",
+    "lat": 41.18367,
+    "lng": -80.7173
+  },
+  {
+    "name": "McAdoo",
+    "country": "US",
+    "lat": 40.90127,
+    "lng": -75.99106
+  },
+  {
+    "name": "McConnellstown",
+    "country": "US",
+    "lat": 40.45257,
+    "lng": -78.08167
+  },
+  {
+    "name": "McDonald",
+    "country": "US",
+    "lat": 40.3709,
+    "lng": -80.23478
+  },
+  {
+    "name": "McGovern",
+    "country": "US",
+    "lat": 40.22896,
+    "lng": -80.21645
+  },
+  {
+    "name": "McKees Rocks",
+    "country": "US",
+    "lat": 40.46562,
+    "lng": -80.06561
+  },
+  {
+    "name": "McKeesport",
+    "country": "US",
+    "lat": 40.34785,
+    "lng": -79.86422
+  },
+  {
+    "name": "McMurray",
+    "country": "US",
+    "lat": 40.27785,
+    "lng": -80.08394
+  },
+  {
+    "name": "McFarland",
+    "country": "US",
+    "lat": 43.0125,
+    "lng": -89.28984
+  },
+  {
+    "name": "McFarland",
+    "country": "US",
+    "lat": 35.67801,
+    "lng": -119.22927
+  },
+  {
+    "name": "McIntosh",
+    "country": "US",
+    "lat": 34.86478,
+    "lng": -106.05169
+  },
+  {
+    "name": "McGill",
+    "country": "US",
+    "lat": 39.40494,
+    "lng": -114.77863
+  },
+  {
+    "name": "McCamey",
+    "country": "US",
+    "lat": 31.13598,
+    "lng": -102.2243
+  },
+  {
+    "name": "McCloud",
+    "country": "US",
+    "lat": 41.25571,
+    "lng": -122.13945
+  },
+  {
+    "name": "McKinleyville",
+    "country": "US",
+    "lat": 40.94652,
+    "lng": -124.10062
+  },
+  {
+    "name": "McCall",
+    "country": "US",
+    "lat": 44.91101,
+    "lng": -116.09874
+  },
+  {
+    "name": "McClusky",
+    "country": "US",
+    "lat": 47.48583,
+    "lng": -100.44318
+  },
+  {
+    "name": "McCook",
+    "country": "US",
+    "lat": 40.20195,
+    "lng": -100.62571
+  },
+  {
+    "name": "McMinnville",
+    "country": "US",
+    "lat": 45.21012,
+    "lng": -123.19872
+  },
+  {
+    "name": "McIntosh",
+    "country": "US",
+    "lat": 45.92139,
+    "lng": -101.34958
+  },
+  {
+    "name": "McCleary",
+    "country": "US",
+    "lat": 47.05315,
+    "lng": -123.26543
+  },
+  {
+    "name": "McMillin",
+    "country": "US",
+    "lat": 47.13982,
+    "lng": -122.23651
+  },
+  {
+    "name": "McGuire AFB",
+    "country": "US",
+    "lat": 40.03977,
+    "lng": -74.58174
+  },
+  {
+    "name": "McChord Air Force Base",
+    "country": "US",
+    "lat": 47.13397,
+    "lng": -122.49157
+  },
+  {
+    "name": "McConnell AFB",
+    "country": "US",
+    "lat": 37.63007,
+    "lng": -97.25869
+  },
+  {
+    "name": "McCully - Moiliili",
+    "country": "US",
+    "lat": 21.29461,
+    "lng": -157.83118
+  },
+  {
+    "name": "McElderry Park",
+    "country": "US",
+    "lat": 39.29686,
+    "lng": -76.58046
+  },
+  {
+    "name": "McGregor",
+    "country": "ZA",
+    "lat": -33.94725,
+    "lng": 19.82906
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Mpriti",
+    "country": "CI",
+    "lat": 7.5719,
+    "lng": -3.11594
+  },
+  {
+    "name": "Mpossa",
+    "country": "CI",
+    "lat": 5.48333,
+    "lng": -2.85
+  },
+  {
+    "name": "Mpody",
+    "country": "CI",
+    "lat": 5.57758,
+    "lng": -4.22717
+  },
+  {
+    "name": "Mpraeso",
+    "country": "GH",
+    "lat": 6.59321,
+    "lng": -0.73462
+  },
+  {
+    "name": "Mpeketoni",
+    "country": "KE",
+    "lat": -2.38913,
+    "lng": 40.69812
+  },
+  {
+    "name": "Mpharane",
+    "country": "LS",
+    "lat": -30.01667,
+    "lng": 27.55
+  },
+  {
+    "name": "Mphaki",
+    "country": "LS",
+    "lat": -30.19397,
+    "lng": 28.12965
+  },
+  {
+    "name": "Mponela",
+    "country": "MW",
+    "lat": -13.53099,
+    "lng": 33.73933
+  },
+  {
+    "name": "Mpwapwa",
+    "country": "TZ",
+    "lat": -6.35,
+    "lng": 36.48333
+  },
+  {
+    "name": "Mpanda",
+    "country": "TZ",
+    "lat": -6.34379,
+    "lng": 31.06951
+  },
+  {
+    "name": "Mpondwe",
+    "country": "UG",
+    "lat": 0.04008,
+    "lng": 29.7248
+  },
+  {
+    "name": "Mpigi",
+    "country": "UG",
+    "lat": 0.225,
+    "lng": 32.31361
+  },
+  {
+    "name": "Mpumalanga",
+    "country": "ZA",
+    "lat": -29.81292,
+    "lng": 30.63646
+  },
+  {
+    "name": "Mpophomeni",
+    "country": "ZA",
+    "lat": -29.56822,
+    "lng": 30.18618
+  },
+  {
+    "name": "Mpakeni",
+    "country": "ZA",
+    "lat": -25.48562,
+    "lng": 31.26075
+  },
+  {
+    "name": "Mpungamhlophe",
+    "country": "ZA",
+    "lat": -28.26748,
+    "lng": 31.25298
+  },
+  {
+    "name": "Mphenyatsatsi",
+    "country": "ZA",
+    "lat": -24.83786,
+    "lng": 31.04432
+  },
+  {
+    "name": "Mpulungu",
+    "country": "ZM",
+    "lat": -8.76234,
+    "lng": 31.11405
+  },
+  {
+    "name": "Mporokoso",
+    "country": "ZM",
+    "lat": -9.37273,
+    "lng": 30.12501
+  },
+  {
+    "name": "Mpongwe",
+    "country": "ZM",
+    "lat": -13.50914,
+    "lng": 28.15504
+  },
+  {
+    "name": "Mpika",
+    "country": "ZM",
+    "lat": -11.83431,
+    "lng": 31.45287
+  }
+]

@@ -1,0 +1,8276 @@
+[
+  {
+    "name": "Longonjo",
+    "country": "AO",
+    "lat": -12.90795,
+    "lng": 15.24845
+  },
+  {
+    "name": "Londuimbali",
+    "country": "AO",
+    "lat": -12.23712,
+    "lng": 15.31697
+  },
+  {
+    "name": "Lobito",
+    "country": "AO",
+    "lat": -12.3644,
+    "lng": 13.53601
+  },
+  {
+    "name": "Los Polvorines",
+    "country": "AR",
+    "lat": -34.50316,
+    "lng": -58.70596
+  },
+  {
+    "name": "Los Helechos",
+    "country": "AR",
+    "lat": -27.55051,
+    "lng": -55.07908
+  },
+  {
+    "name": "Los Conquistadores",
+    "country": "AR",
+    "lat": -30.59017,
+    "lng": -58.46865
+  },
+  {
+    "name": "Los Charrúas",
+    "country": "AR",
+    "lat": -31.17038,
+    "lng": -58.18569
+  },
+  {
+    "name": "Loreto",
+    "country": "AR",
+    "lat": -27.76835,
+    "lng": -57.2753
+  },
+  {
+    "name": "Loreto",
+    "country": "AR",
+    "lat": -27.33177,
+    "lng": -55.52499
+  },
+  {
+    "name": "Lomas de Zamora",
+    "country": "AR",
+    "lat": -34.7574,
+    "lng": -58.40279
+  },
+  {
+    "name": "Lomas de Vallejos",
+    "country": "AR",
+    "lat": -27.73767,
+    "lng": -57.91981
+  },
+  {
+    "name": "Lobos",
+    "country": "AR",
+    "lat": -35.18537,
+    "lng": -59.09788
+  },
+  {
+    "name": "Lobería",
+    "country": "AR",
+    "lat": -38.16338,
+    "lng": -58.78185
+  },
+  {
+    "name": "Los Varela",
+    "country": "AR",
+    "lat": -27.93003,
+    "lng": -65.87153
+  },
+  {
+    "name": "Los Telares",
+    "country": "AR",
+    "lat": -28.98507,
+    "lng": -63.4504
+  },
+  {
+    "name": "Los Surgentes",
+    "country": "AR",
+    "lat": -32.98472,
+    "lng": -62.02199
+  },
+  {
+    "name": "Los Menucos",
+    "country": "AR",
+    "lat": -40.84402,
+    "lng": -68.08718
+  },
+  {
+    "name": "Los Juríes",
+    "country": "AR",
+    "lat": -28.46293,
+    "lng": -62.11024
+  },
+  {
+    "name": "Los Frentones",
+    "country": "AR",
+    "lat": -26.40706,
+    "lng": -61.41284
+  },
+  {
+    "name": "Los Cóndores",
+    "country": "AR",
+    "lat": -32.32003,
+    "lng": -64.27859
+  },
+  {
+    "name": "Los Cocos",
+    "country": "AR",
+    "lat": -30.92548,
+    "lng": -64.50251
+  },
+  {
+    "name": "Los Antiguos",
+    "country": "AR",
+    "lat": -46.54892,
+    "lng": -71.6312
+  },
+  {
+    "name": "Los Altos",
+    "country": "AR",
+    "lat": -28.04501,
+    "lng": -65.49764
+  },
+  {
+    "name": "Lonquimay",
+    "country": "AR",
+    "lat": -36.46641,
+    "lng": -63.62362
+  },
+  {
+    "name": "Londres",
+    "country": "AR",
+    "lat": -27.71257,
+    "lng": -67.13551
+  },
+  {
+    "name": "Loncopué",
+    "country": "AR",
+    "lat": -38.07309,
+    "lng": -70.61445
+  },
+  {
+    "name": "Los Toldos",
+    "country": "AR",
+    "lat": -34.99997,
+    "lng": -61.03874
+  },
+  {
+    "name": "Los Laureles",
+    "country": "AR",
+    "lat": -29.36847,
+    "lng": -59.73634
+  },
+  {
+    "name": "Losenstein",
+    "country": "AT",
+    "lat": 47.92428,
+    "lng": 14.43672
+  },
+  {
+    "name": "Lorüns",
+    "country": "AT",
+    "lat": 47.13306,
+    "lng": 9.85
+  },
+  {
+    "name": "Loretto",
+    "country": "AT",
+    "lat": 47.91559,
+    "lng": 16.5179
+  },
+  {
+    "name": "Loosdorf",
+    "country": "AT",
+    "lat": 48.2,
+    "lng": 15.4
+  },
+  {
+    "name": "Loipersdorf bei Fürstenfeld",
+    "country": "AT",
+    "lat": 47.0,
+    "lng": 16.1
+  },
+  {
+    "name": "Loipersbach im Burgenland",
+    "country": "AT",
+    "lat": 47.69656,
+    "lng": 16.47919
+  },
+  {
+    "name": "Loich",
+    "country": "AT",
+    "lat": 47.99578,
+    "lng": 15.40163
+  },
+  {
+    "name": "Lofer",
+    "country": "AT",
+    "lat": 47.58475,
+    "lng": 12.69333
+  },
+  {
+    "name": "Lochau",
+    "country": "AT",
+    "lat": 47.53333,
+    "lng": 9.75
+  },
+  {
+    "name": "Lockenhaus",
+    "country": "AT",
+    "lat": 47.40753,
+    "lng": 16.41623
+  },
+  {
+    "name": "Loitzenberg",
+    "country": "AT",
+    "lat": 48.27291,
+    "lng": 14.55259
+  },
+  {
+    "name": "Lower Chittering",
+    "country": "AU",
+    "lat": -31.58333,
+    "lng": 116.11667
+  },
+  {
+    "name": "Lobethal",
+    "country": "AU",
+    "lat": -34.90455,
+    "lng": 138.87477
+  },
+  {
+    "name": "Lower King",
+    "country": "AU",
+    "lat": -34.95778,
+    "lng": 117.93833
+  },
+  {
+    "name": "Loxton",
+    "country": "AU",
+    "lat": -34.4502,
+    "lng": 140.56908
+  },
+  {
+    "name": "Lowood",
+    "country": "AU",
+    "lat": -27.46555,
+    "lng": 152.57625
+  },
+  {
+    "name": "Lower Plenty",
+    "country": "AU",
+    "lat": -37.73333,
+    "lng": 145.11667
+  },
+  {
+    "name": "Lovely Banks",
+    "country": "AU",
+    "lat": -38.06667,
+    "lng": 144.33333
+  },
+  {
+    "name": "Lorne",
+    "country": "AU",
+    "lat": -38.54043,
+    "lng": 143.97636
+  },
+  {
+    "name": "Lorn",
+    "country": "AU",
+    "lat": -32.72701,
+    "lng": 151.57245
+  },
+  {
+    "name": "Longwarry",
+    "country": "AU",
+    "lat": -38.11279,
+    "lng": 145.76849
+  },
+  {
+    "name": "Longreach",
+    "country": "AU",
+    "lat": -23.44212,
+    "lng": 144.24921
+  },
+  {
+    "name": "Long Jetty",
+    "country": "AU",
+    "lat": -33.35917,
+    "lng": 151.48834
+  },
+  {
+    "name": "Longford",
+    "country": "AU",
+    "lat": -41.60512,
+    "lng": 147.11887
+  },
+  {
+    "name": "Longford",
+    "country": "AU",
+    "lat": -38.16237,
+    "lng": 147.08591
+  },
+  {
+    "name": "Logan Village",
+    "country": "AU",
+    "lat": -27.76832,
+    "lng": 153.10762
+  },
+  {
+    "name": "Loganlea",
+    "country": "AU",
+    "lat": -27.67535,
+    "lng": 153.13472
+  },
+  {
+    "name": "Loganholme",
+    "country": "AU",
+    "lat": -27.68444,
+    "lng": 153.1864
+  },
+  {
+    "name": "Lockhart",
+    "country": "AU",
+    "lat": -35.22333,
+    "lng": 146.71816
+  },
+  {
+    "name": "Loftus",
+    "country": "AU",
+    "lat": -34.04467,
+    "lng": 151.04646
+  },
+  {
+    "name": "Longueville",
+    "country": "AU",
+    "lat": -33.83285,
+    "lng": 151.16531
+  },
+  {
+    "name": "Logan City",
+    "country": "AU",
+    "lat": -27.63917,
+    "lng": 153.10944
+  },
+  {
+    "name": "Long Beach",
+    "country": "AU",
+    "lat": -35.70833,
+    "lng": 150.24483
+  },
+  {
+    "name": "Londonderry",
+    "country": "AU",
+    "lat": -33.64656,
+    "lng": 150.73515
+  },
+  {
+    "name": "Long Gully",
+    "country": "AU",
+    "lat": -36.74305,
+    "lng": 144.25788
+  },
+  {
+    "name": "Lota",
+    "country": "AU",
+    "lat": -27.46923,
+    "lng": 153.1858
+  },
+  {
+    "name": "Lockridge",
+    "country": "AU",
+    "lat": -31.88168,
+    "lng": 115.95031
+  },
+  {
+    "name": "Logan Central",
+    "country": "AU",
+    "lat": -27.64385,
+    "lng": 153.10725
+  },
+  {
+    "name": "Lockleys",
+    "country": "AU",
+    "lat": -34.92588,
+    "lng": 138.52803
+  },
+  {
+    "name": "Lockyer",
+    "country": "AU",
+    "lat": -35.00567,
+    "lng": 117.85875
+  },
+  {
+    "name": "Logan Reserve",
+    "country": "AU",
+    "lat": -27.72414,
+    "lng": 153.09002
+  },
+  {
+    "name": "Lower Mitcham",
+    "country": "AU",
+    "lat": -34.97731,
+    "lng": 138.60493
+  },
+  {
+    "name": "Lower Beechmont",
+    "country": "AU",
+    "lat": -28.04751,
+    "lng": 153.24572
+  },
+  {
+    "name": "Lokbatan",
+    "country": "AZ",
+    "lat": 40.3256,
+    "lng": 49.73376
+  },
+  {
+    "name": "Lopare",
+    "country": "BA",
+    "lat": 44.63498,
+    "lng": 18.8434
+  },
+  {
+    "name": "Lokvine",
+    "country": "BA",
+    "lat": 44.20466,
+    "lng": 17.85665
+  },
+  {
+    "name": "Loyers",
+    "country": "BE",
+    "lat": 50.46324,
+    "lng": 4.95136
+  },
+  {
+    "name": "Loverval",
+    "country": "BE",
+    "lat": 50.37519,
+    "lng": 4.47332
+  },
+  {
+    "name": "Lovenjoel",
+    "country": "BE",
+    "lat": 50.85852,
+    "lng": 4.78094
+  },
+  {
+    "name": "Lovendegem",
+    "country": "BE",
+    "lat": 51.10168,
+    "lng": 3.61298
+  },
+  {
+    "name": "Louveigné",
+    "country": "BE",
+    "lat": 50.53015,
+    "lng": 5.71547
+  },
+  {
+    "name": "Louvain-la-Neuve",
+    "country": "BE",
+    "lat": 50.66829,
+    "lng": 4.61443
+  },
+  {
+    "name": "Loupoigne",
+    "country": "BE",
+    "lat": 50.59806,
+    "lng": 4.44448
+  },
+  {
+    "name": "Lotenhulle",
+    "country": "BE",
+    "lat": 51.0502,
+    "lng": 3.46162
+  },
+  {
+    "name": "Lot",
+    "country": "BE",
+    "lat": 50.7679,
+    "lng": 4.27711
+  },
+  {
+    "name": "Loppem",
+    "country": "BE",
+    "lat": 51.15662,
+    "lng": 3.19599
+  },
+  {
+    "name": "Loonbeek",
+    "country": "BE",
+    "lat": 50.80941,
+    "lng": 4.60971
+  },
+  {
+    "name": "Lontzen",
+    "country": "BE",
+    "lat": 50.68126,
+    "lng": 6.00712
+  },
+  {
+    "name": "Longvilly",
+    "country": "BE",
+    "lat": 50.02633,
+    "lng": 5.83829
+  },
+  {
+    "name": "Longlier",
+    "country": "BE",
+    "lat": 49.85384,
+    "lng": 5.45009
+  },
+  {
+    "name": "Longchamps",
+    "country": "BE",
+    "lat": 50.0534,
+    "lng": 5.69032
+  },
+  {
+    "name": "Londerzeel",
+    "country": "BE",
+    "lat": 51.00468,
+    "lng": 4.30304
+  },
+  {
+    "name": "Loncin",
+    "country": "BE",
+    "lat": 50.66655,
+    "lng": 5.50509
+  },
+  {
+    "name": "Lommersweiler",
+    "country": "BE",
+    "lat": 50.24,
+    "lng": 6.165
+  },
+  {
+    "name": "Lommel",
+    "country": "BE",
+    "lat": 51.23074,
+    "lng": 5.31349
+  },
+  {
+    "name": "Lombardsijde",
+    "country": "BE",
+    "lat": 51.15,
+    "lng": 2.75
+  },
+  {
+    "name": "Lokeren",
+    "country": "BE",
+    "lat": 51.10364,
+    "lng": 3.99339
+  },
+  {
+    "name": "Loenhout",
+    "country": "BE",
+    "lat": 51.39947,
+    "lng": 4.64404
+  },
+  {
+    "name": "Lodelinsart",
+    "country": "BE",
+    "lat": 50.43138,
+    "lng": 4.44886
+  },
+  {
+    "name": "Lochristi",
+    "country": "BE",
+    "lat": 51.09644,
+    "lng": 3.83194
+  },
+  {
+    "name": "Lobbes",
+    "country": "BE",
+    "lat": 50.35258,
+    "lng": 4.26716
+  },
+  {
+    "name": "Lo",
+    "country": "BE",
+    "lat": 50.98036,
+    "lng": 2.74965
+  },
+  {
+    "name": "Loumbila",
+    "country": "BF",
+    "lat": 12.51863,
+    "lng": -1.3734
+  },
+  {
+    "name": "Loznitsa",
+    "country": "BG",
+    "lat": 43.36667,
+    "lng": 26.6
+  },
+  {
+    "name": "Lozen",
+    "country": "BG",
+    "lat": 42.6027,
+    "lng": 23.47589
+  },
+  {
+    "name": "Lovech",
+    "country": "BG",
+    "lat": 43.13227,
+    "lng": 24.71763
+  },
+  {
+    "name": "Lom",
+    "country": "BG",
+    "lat": 43.8317,
+    "lng": 23.23793
+  },
+  {
+    "name": "Lokossa",
+    "country": "BJ",
+    "lat": 6.63869,
+    "lng": 1.71674
+  },
+  {
+    "name": "Los Negros",
+    "country": "BO",
+    "lat": -17.73333,
+    "lng": -63.43333
+  },
+  {
+    "name": "Loreto",
+    "country": "BR",
+    "lat": -7.08444,
+    "lng": -45.14111
+  },
+  {
+    "name": "Louveira",
+    "country": "BR",
+    "lat": -23.08639,
+    "lng": -46.95056
+  },
+  {
+    "name": "Lourdes",
+    "country": "BR",
+    "lat": -20.96694,
+    "lng": -50.22417
+  },
+  {
+    "name": "Lorena",
+    "country": "BR",
+    "lat": -22.73083,
+    "lng": -45.12472
+  },
+  {
+    "name": "Lontras",
+    "country": "BR",
+    "lat": -27.16611,
+    "lng": -49.54194
+  },
+  {
+    "name": "Lontra",
+    "country": "BR",
+    "lat": -15.90333,
+    "lng": -44.305
+  },
+  {
+    "name": "Londrina",
+    "country": "BR",
+    "lat": -23.31028,
+    "lng": -51.16278
+  },
+  {
+    "name": "Lobato",
+    "country": "BR",
+    "lat": -23.00833,
+    "lng": -51.95056
+  },
+  {
+    "name": "Loanda",
+    "country": "BR",
+    "lat": -22.92306,
+    "lng": -53.13722
+  },
+  {
+    "name": "Logradouro",
+    "country": "BR",
+    "lat": -6.61656,
+    "lng": -35.44013
+  },
+  {
+    "name": "Lotlhakane",
+    "country": "BW",
+    "lat": -25.08612,
+    "lng": 25.4586
+  },
+  {
+    "name": "Lokwabe",
+    "country": "BW",
+    "lat": -24.16667,
+    "lng": 21.83333
+  },
+  {
+    "name": "Lobatse",
+    "country": "BW",
+    "lat": -25.22435,
+    "lng": 25.67728
+  },
+  {
+    "name": "Lorolwana",
+    "country": "BW",
+    "lat": -25.32691,
+    "lng": 24.48947
+  },
+  {
+    "name": "Loyev",
+    "country": "BY",
+    "lat": 51.94115,
+    "lng": 30.79343
+  },
+  {
+    "name": "Loshnitsa",
+    "country": "BY",
+    "lat": 54.2796,
+    "lng": 28.7649
+  },
+  {
+    "name": "Logoysk",
+    "country": "BY",
+    "lat": 54.2064,
+    "lng": 27.8512
+  },
+  {
+    "name": "Lord’s Bank",
+    "country": "BZ",
+    "lat": 17.54462,
+    "lng": -88.33328
+  },
+  {
+    "name": "Logan Lake",
+    "country": "CA",
+    "lat": 50.49225,
+    "lng": -120.8149
+  },
+  {
+    "name": "London",
+    "country": "CA",
+    "lat": 42.98339,
+    "lng": -81.23304
+  },
+  {
+    "name": "Longueuil",
+    "country": "CA",
+    "lat": 45.5152,
+    "lng": -73.46818
+  },
+  {
+    "name": "Lorette",
+    "country": "CA",
+    "lat": 49.73919,
+    "lng": -96.87232
+  },
+  {
+    "name": "Lorraine",
+    "country": "CA",
+    "lat": 45.68338,
+    "lng": -73.78249
+  },
+  {
+    "name": "Louiseville",
+    "country": "CA",
+    "lat": 46.25594,
+    "lng": -72.94145
+  },
+  {
+    "name": "Lower Lonsdale",
+    "country": "CA",
+    "lat": 49.31406,
+    "lng": -123.0725
+  },
+  {
+    "name": "Long Branch",
+    "country": "CA",
+    "lat": 43.5914,
+    "lng": -79.53252
+  },
+  {
+    "name": "Lower Sackville",
+    "country": "CA",
+    "lat": 44.77599,
+    "lng": -63.67865
+  },
+  {
+    "name": "Longlac",
+    "country": "CA",
+    "lat": 49.78169,
+    "lng": -86.5348
+  },
+  {
+    "name": "Lochdale",
+    "country": "CA",
+    "lat": 49.27373,
+    "lng": -122.96479
+  },
+  {
+    "name": "Lougheed",
+    "country": "CA",
+    "lat": 49.2481,
+    "lng": -122.89236
+  },
+  {
+    "name": "Lower West Lynn",
+    "country": "CA",
+    "lat": 49.32025,
+    "lng": -123.04974
+  },
+  {
+    "name": "Lodja",
+    "country": "CD",
+    "lat": -3.52105,
+    "lng": 23.6005
+  },
+  {
+    "name": "Loutété",
+    "country": "CG",
+    "lat": -4.29611,
+    "lng": 13.85083
+  },
+  {
+    "name": "Loukoléla",
+    "country": "CG",
+    "lat": -1.03806,
+    "lng": 17.11389
+  },
+  {
+    "name": "Loudima",
+    "country": "CG",
+    "lat": -4.11616,
+    "lng": 13.06755
+  },
+  {
+    "name": "Loango",
+    "country": "CG",
+    "lat": -4.65602,
+    "lng": 11.81032
+  },
+  {
+    "name": "Loandjili",
+    "country": "CG",
+    "lat": -4.75611,
+    "lng": 11.85778
+  },
+  {
+    "name": "Lotzwil",
+    "country": "CH",
+    "lat": 47.19135,
+    "lng": 7.79102
+  },
+  {
+    "name": "Lostorf",
+    "country": "CH",
+    "lat": 47.38372,
+    "lng": 7.94655
+  },
+  {
+    "name": "Losone",
+    "country": "CH",
+    "lat": 46.16866,
+    "lng": 8.75928
+  },
+  {
+    "name": "Lodrino",
+    "country": "CH",
+    "lat": 46.30016,
+    "lng": 8.97986
+  },
+  {
+    "name": "Locarno",
+    "country": "CH",
+    "lat": 46.17086,
+    "lng": 8.79953
+  },
+  {
+    "name": "Loviguié I",
+    "country": "CI",
+    "lat": 5.80761,
+    "lng": -4.33836
+  },
+  {
+    "name": "Louoboua",
+    "country": "CI",
+    "lat": 6.57798,
+    "lng": -6.37134
+  },
+  {
+    "name": "Lomara",
+    "country": "CI",
+    "lat": 10.35174,
+    "lng": -6.33887
+  },
+  {
+    "name": "Loulo",
+    "country": "CI",
+    "lat": 10.37206,
+    "lng": -5.8131
+  },
+  {
+    "name": "Loukouyakro",
+    "country": "CI",
+    "lat": 6.57727,
+    "lng": -4.87497
+  },
+  {
+    "name": "Loukouayo",
+    "country": "CI",
+    "lat": 6.4597,
+    "lng": -6.26421
+  },
+  {
+    "name": "Loua",
+    "country": "CI",
+    "lat": 6.43822,
+    "lng": -5.60554
+  },
+  {
+    "name": "Louga I",
+    "country": "CI",
+    "lat": 5.04801,
+    "lng": -6.21015
+  },
+  {
+    "name": "Loubria",
+    "country": "CI",
+    "lat": 6.51497,
+    "lng": -6.71796
+  },
+  {
+    "name": "Lotialga",
+    "country": "CI",
+    "lat": 8.85997,
+    "lng": -5.57029
+  },
+  {
+    "name": "Losingé",
+    "country": "CI",
+    "lat": 9.44211,
+    "lng": -7.02979
+  },
+  {
+    "name": "Lopou",
+    "country": "CI",
+    "lat": 5.42176,
+    "lng": -4.46967
+  },
+  {
+    "name": "Lonneu",
+    "country": "CI",
+    "lat": 7.038,
+    "lng": -8.09132
+  },
+  {
+    "name": "Loniéné",
+    "country": "CI",
+    "lat": 8.31164,
+    "lng": -4.74665
+  },
+  {
+    "name": "Longongara",
+    "country": "CI",
+    "lat": 8.51366,
+    "lng": -3.42616
+  },
+  {
+    "name": "Longo",
+    "country": "CI",
+    "lat": 8.97579,
+    "lng": -5.39915
+  },
+  {
+    "name": "Lomo",
+    "country": "CI",
+    "lat": 7.87833,
+    "lng": -3.01474
+  },
+  {
+    "name": "Lolobo",
+    "country": "CI",
+    "lat": 7.72208,
+    "lng": -5.39562
+  },
+  {
+    "name": "Lolobo",
+    "country": "CI",
+    "lat": 6.95892,
+    "lng": -5.26581
+  },
+  {
+    "name": "Loleu",
+    "country": "CI",
+    "lat": 7.15374,
+    "lng": -8.134
+  },
+  {
+    "name": "Lokolo",
+    "country": "CI",
+    "lat": 8.9192,
+    "lng": -6.47538
+  },
+  {
+    "name": "Lokbonoun",
+    "country": "CI",
+    "lat": 8.06667,
+    "lng": -5.26667
+  },
+  {
+    "name": "Logoualé",
+    "country": "CI",
+    "lat": 7.10769,
+    "lng": -7.55207
+  },
+  {
+    "name": "Logobia",
+    "country": "CI",
+    "lat": 6.18527,
+    "lng": -5.78868
+  },
+  {
+    "name": "Lohou",
+    "country": "CI",
+    "lat": 8.17012,
+    "lng": -6.91005
+  },
+  {
+    "name": "Logouata",
+    "country": "CI",
+    "lat": 6.47164,
+    "lng": -5.96454
+  },
+  {
+    "name": "Lobouayo",
+    "country": "CI",
+    "lat": 5.85754,
+    "lng": -6.58853
+  },
+  {
+    "name": "Loboguéguia",
+    "country": "CI",
+    "lat": 6.84239,
+    "lng": -6.59697
+  },
+  {
+    "name": "Lobo-Akoudzin",
+    "country": "CI",
+    "lat": 5.85088,
+    "lng": -3.82291
+  },
+  {
+    "name": "Lobakuya",
+    "country": "CI",
+    "lat": 5.09053,
+    "lng": -6.34438
+  },
+  {
+    "name": "Logoualé",
+    "country": "CI",
+    "lat": 7.23696,
+    "lng": -7.77916
+  },
+  {
+    "name": "Lokossou",
+    "country": "CI",
+    "lat": 6.60116,
+    "lng": -7.37859
+  },
+  {
+    "name": "Lobozoa",
+    "country": "CI",
+    "lat": 6.21819,
+    "lng": -6.95554
+  },
+  {
+    "name": "Loboville",
+    "country": "CI",
+    "lat": 6.13656,
+    "lng": -6.84096
+  },
+  {
+    "name": "Lossan",
+    "country": "CI",
+    "lat": 5.02992,
+    "lng": -6.30911
+  },
+  {
+    "name": "Louogba",
+    "country": "CI",
+    "lat": 5.55078,
+    "lng": -6.72445
+  },
+  {
+    "name": "Lobogba",
+    "country": "CI",
+    "lat": 5.98014,
+    "lng": -6.73576
+  },
+  {
+    "name": "Lobo-Hopé",
+    "country": "CI",
+    "lat": 5.89592,
+    "lng": -3.86461
+  },
+  {
+    "name": "Lonzo",
+    "country": "CI",
+    "lat": 10.03565,
+    "lng": -5.39735
+  },
+  {
+    "name": "Lofélé",
+    "country": "CI",
+    "lat": 10.02878,
+    "lng": -5.47535
+  },
+  {
+    "name": "Lota",
+    "country": "CL",
+    "lat": -37.08994,
+    "lng": -73.1577
+  },
+  {
+    "name": "Los Vilos",
+    "country": "CL",
+    "lat": -31.91292,
+    "lng": -71.50045
+  },
+  {
+    "name": "Los Sauces",
+    "country": "CL",
+    "lat": -37.98119,
+    "lng": -72.83393
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "CL",
+    "lat": -37.46973,
+    "lng": -72.35366
+  },
+  {
+    "name": "Los Andes",
+    "country": "CL",
+    "lat": -32.83369,
+    "lng": -70.59827
+  },
+  {
+    "name": "Longaví",
+    "country": "CL",
+    "lat": -35.96496,
+    "lng": -71.6836
+  },
+  {
+    "name": "Loncoche",
+    "country": "CL",
+    "lat": -39.36708,
+    "lng": -72.63087
+  },
+  {
+    "name": "Lo Prado",
+    "country": "CL",
+    "lat": -33.4443,
+    "lng": -70.72552
+  },
+  {
+    "name": "Loum",
+    "country": "CM",
+    "lat": 4.7182,
+    "lng": 9.7351
+  },
+  {
+    "name": "Lolodorf",
+    "country": "CM",
+    "lat": 3.23333,
+    "lng": 10.73333
+  },
+  {
+    "name": "Lop",
+    "country": "CN",
+    "lat": 37.07891,
+    "lng": 80.18182
+  },
+  {
+    "name": "Longshan",
+    "country": "CN",
+    "lat": 24.60089,
+    "lng": 98.70418
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 36.69525,
+    "lng": 110.95564
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 25.90139,
+    "lng": 112.21167
+  },
+  {
+    "name": "Longxing",
+    "country": "CN",
+    "lat": 35.61297,
+    "lng": 111.21925
+  },
+  {
+    "name": "Longzhou",
+    "country": "CN",
+    "lat": 38.43814,
+    "lng": 114.54953
+  },
+  {
+    "name": "Loushanguan",
+    "country": "CN",
+    "lat": 28.1368,
+    "lng": 106.822
+  },
+  {
+    "name": "Longbo",
+    "country": "CN",
+    "lat": 25.92922,
+    "lng": 111.6222
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 39.08446,
+    "lng": 112.19119
+  },
+  {
+    "name": "Lougang",
+    "country": "CN",
+    "lat": 22.76965,
+    "lng": 113.84928
+  },
+  {
+    "name": "Longgang",
+    "country": "CN",
+    "lat": 35.68941,
+    "lng": 112.15798
+  },
+  {
+    "name": "Longcheng",
+    "country": "CN",
+    "lat": 29.89688,
+    "lng": 116.55546
+  },
+  {
+    "name": "Loufan",
+    "country": "CN",
+    "lat": 38.0918,
+    "lng": 111.80721
+  },
+  {
+    "name": "Loudi",
+    "country": "CN",
+    "lat": 27.73444,
+    "lng": 111.99444
+  },
+  {
+    "name": "Longzhou",
+    "country": "CN",
+    "lat": 22.35268,
+    "lng": 106.84526
+  },
+  {
+    "name": "Longyao",
+    "country": "CN",
+    "lat": 37.35208,
+    "lng": 114.77242
+  },
+  {
+    "name": "Longyan",
+    "country": "CN",
+    "lat": 25.07485,
+    "lng": 117.01775
+  },
+  {
+    "name": "Longxu",
+    "country": "CN",
+    "lat": 23.41667,
+    "lng": 111.23333
+  },
+  {
+    "name": "Longxing",
+    "country": "CN",
+    "lat": 29.70199,
+    "lng": 106.7911
+  },
+  {
+    "name": "Longxian Chengguanzhen",
+    "country": "CN",
+    "lat": 34.90734,
+    "lng": 106.84965
+  },
+  {
+    "name": "Longtou’an",
+    "country": "CN",
+    "lat": 27.67028,
+    "lng": 110.33611
+  },
+  {
+    "name": "Longtan",
+    "country": "CN",
+    "lat": 29.44631,
+    "lng": 107.10217
+  },
+  {
+    "name": "Longtan",
+    "country": "CN",
+    "lat": 28.75716,
+    "lng": 108.96414
+  },
+  {
+    "name": "Longtan",
+    "country": "CN",
+    "lat": 27.41139,
+    "lng": 110.53639
+  },
+  {
+    "name": "Longshui",
+    "country": "CN",
+    "lat": 29.56555,
+    "lng": 105.76205
+  },
+  {
+    "name": "Longshi",
+    "country": "CN",
+    "lat": 30.21469,
+    "lng": 106.45743
+  },
+  {
+    "name": "Longsheng",
+    "country": "CN",
+    "lat": 25.79979,
+    "lng": 110.00517
+  },
+  {
+    "name": "Longshan",
+    "country": "CN",
+    "lat": 35.03194,
+    "lng": 106.08056
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 30.5613,
+    "lng": 104.26893
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 24.67193,
+    "lng": 102.1613
+  },
+  {
+    "name": "Longping",
+    "country": "CN",
+    "lat": 25.43367,
+    "lng": 106.74716
+  },
+  {
+    "name": "Longnan",
+    "country": "CN",
+    "lat": 24.90478,
+    "lng": 114.79735
+  },
+  {
+    "name": "Longmen",
+    "country": "CN",
+    "lat": 30.79819,
+    "lng": 107.68712
+  },
+  {
+    "name": "Longhua",
+    "country": "CN",
+    "lat": 29.21028,
+    "lng": 106.20725
+  },
+  {
+    "name": "Longmen",
+    "country": "CN",
+    "lat": 24.95972,
+    "lng": 118.08889
+  },
+  {
+    "name": "Longlin",
+    "country": "CN",
+    "lat": 33.94278,
+    "lng": 105.06739
+  },
+  {
+    "name": "Longlisuo",
+    "country": "CN",
+    "lat": 26.41417,
+    "lng": 109.10222
+  },
+  {
+    "name": "Longgang",
+    "country": "CN",
+    "lat": 37.65181,
+    "lng": 120.33063
+  },
+  {
+    "name": "Longju",
+    "country": "CN",
+    "lat": 30.6109,
+    "lng": 108.63518
+  },
+  {
+    "name": "Longjin",
+    "country": "CN",
+    "lat": 26.18197,
+    "lng": 116.81464
+  },
+  {
+    "name": "Longgu",
+    "country": "CN",
+    "lat": 34.90333,
+    "lng": 116.80667
+  },
+  {
+    "name": "Longgang",
+    "country": "CN",
+    "lat": 29.69744,
+    "lng": 105.71369
+  },
+  {
+    "name": "Longfeng",
+    "country": "CN",
+    "lat": 30.38793,
+    "lng": 109.50706
+  },
+  {
+    "name": "Long’e",
+    "country": "CN",
+    "lat": 25.80722,
+    "lng": 109.2125
+  },
+  {
+    "name": "Longde Chengguanzhen",
+    "country": "CN",
+    "lat": 35.6125,
+    "lng": 106.11667
+  },
+  {
+    "name": "Longchuan",
+    "country": "CN",
+    "lat": 25.16152,
+    "lng": 101.29418
+  },
+  {
+    "name": "Longchi",
+    "country": "CN",
+    "lat": 28.60996,
+    "lng": 109.04919
+  },
+  {
+    "name": "Longcheng",
+    "country": "CN",
+    "lat": 35.00096,
+    "lng": 105.97339
+  },
+  {
+    "name": "Longcheng",
+    "country": "CN",
+    "lat": 34.18448,
+    "lng": 116.95077
+  },
+  {
+    "name": "Longcheng",
+    "country": "CN",
+    "lat": 24.89827,
+    "lng": 102.79965
+  },
+  {
+    "name": "Longchang",
+    "country": "CN",
+    "lat": 26.66667,
+    "lng": 107.91667
+  },
+  {
+    "name": "Long’an",
+    "country": "CN",
+    "lat": 32.40934,
+    "lng": 104.52868
+  },
+  {
+    "name": "Long’an",
+    "country": "CN",
+    "lat": 23.1685,
+    "lng": 107.69217
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 36.11736,
+    "lng": 113.18571
+  },
+  {
+    "name": "Longxing",
+    "country": "CN",
+    "lat": 30.25079,
+    "lng": 105.90853
+  },
+  {
+    "name": "Longsheng",
+    "country": "CN",
+    "lat": 29.08139,
+    "lng": 106.81639
+  },
+  {
+    "name": "Longquan",
+    "country": "CN",
+    "lat": 40.3638,
+    "lng": 113.66616
+  },
+  {
+    "name": "Longjing",
+    "country": "CN",
+    "lat": 42.77131,
+    "lng": 129.42307
+  },
+  {
+    "name": "Longjiang",
+    "country": "CN",
+    "lat": 47.33601,
+    "lng": 123.196
+  },
+  {
+    "name": "Longhua",
+    "country": "CN",
+    "lat": 41.31167,
+    "lng": 117.725
+  },
+  {
+    "name": "Longfeng",
+    "country": "CN",
+    "lat": 46.53168,
+    "lng": 125.1038
+  },
+  {
+    "name": "Longshan",
+    "country": "CN",
+    "lat": 42.88545,
+    "lng": 125.1367
+  },
+  {
+    "name": "Longjing",
+    "country": "CN",
+    "lat": 22.56368,
+    "lng": 113.96811
+  },
+  {
+    "name": "Longgang",
+    "country": "CN",
+    "lat": 40.72146,
+    "lng": 120.92558
+  },
+  {
+    "name": "Longfeng",
+    "country": "CN",
+    "lat": 33.39584,
+    "lng": 105.04572
+  },
+  {
+    "name": "Longxing",
+    "country": "CN",
+    "lat": 33.59864,
+    "lng": 105.1929
+  },
+  {
+    "name": "Longba",
+    "country": "CN",
+    "lat": 33.62476,
+    "lng": 105.29447
+  },
+  {
+    "name": "Longtai",
+    "country": "CN",
+    "lat": 34.59885,
+    "lng": 104.89626
+  },
+  {
+    "name": "Longshan",
+    "country": "CN",
+    "lat": 40.32015,
+    "lng": 116.62909
+  },
+  {
+    "name": "Longtian",
+    "country": "CN",
+    "lat": 31.97427,
+    "lng": 108.63474
+  },
+  {
+    "name": "Longjing",
+    "country": "CN",
+    "lat": 31.08943,
+    "lng": 109.88728
+  },
+  {
+    "name": "Longxi",
+    "country": "CN",
+    "lat": 31.30223,
+    "lng": 109.63552
+  },
+  {
+    "name": "Longqiao",
+    "country": "CN",
+    "lat": 30.6153,
+    "lng": 109.36445
+  },
+  {
+    "name": "Longsha",
+    "country": "CN",
+    "lat": 30.63965,
+    "lng": 108.23701
+  },
+  {
+    "name": "Longsha",
+    "country": "CN",
+    "lat": 30.13471,
+    "lng": 108.18394
+  },
+  {
+    "name": "Longtan",
+    "country": "CN",
+    "lat": 29.83912,
+    "lng": 108.26609
+  },
+  {
+    "name": "Longsheng",
+    "country": "CN",
+    "lat": 30.77537,
+    "lng": 107.55001
+  },
+  {
+    "name": "Longkong",
+    "country": "CN",
+    "lat": 30.04477,
+    "lng": 107.9149
+  },
+  {
+    "name": "Longhe",
+    "country": "CN",
+    "lat": 29.83957,
+    "lng": 107.98508
+  },
+  {
+    "name": "Longtang",
+    "country": "CN",
+    "lat": 29.06816,
+    "lng": 107.98681
+  },
+  {
+    "name": "Longxi",
+    "country": "CN",
+    "lat": 29.46963,
+    "lng": 108.51554
+  },
+  {
+    "name": "Longshe",
+    "country": "CN",
+    "lat": 29.53086,
+    "lng": 108.21126
+  },
+  {
+    "name": "Longqiao",
+    "country": "CN",
+    "lat": 29.71034,
+    "lng": 107.29437
+  },
+  {
+    "name": "Longhe",
+    "country": "CN",
+    "lat": 30.01753,
+    "lng": 107.18044
+  },
+  {
+    "name": "Longfeng",
+    "country": "CN",
+    "lat": 29.81527,
+    "lng": 106.42906
+  },
+  {
+    "name": "Longfeng",
+    "country": "CN",
+    "lat": 30.26816,
+    "lng": 106.02282
+  },
+  {
+    "name": "Longxing",
+    "country": "CN",
+    "lat": 30.19191,
+    "lng": 106.0588
+  },
+  {
+    "name": "Longshi",
+    "country": "CN",
+    "lat": 29.55913,
+    "lng": 105.61695
+  },
+  {
+    "name": "Longtanzi",
+    "country": "CN",
+    "lat": 29.50081,
+    "lng": 105.79715
+  },
+  {
+    "name": "Longji",
+    "country": "CN",
+    "lat": 29.46196,
+    "lng": 105.40473
+  },
+  {
+    "name": "Longsha",
+    "country": "CN",
+    "lat": 47.31825,
+    "lng": 123.94628
+  },
+  {
+    "name": "Louqiao",
+    "country": "CN",
+    "lat": 28.01061,
+    "lng": 120.63218
+  },
+  {
+    "name": "Longnan",
+    "country": "CN",
+    "lat": 33.39791,
+    "lng": 104.91703
+  },
+  {
+    "name": "Longchi",
+    "country": "CN",
+    "lat": 36.94529,
+    "lng": 119.32532
+  },
+  {
+    "name": "Longdong",
+    "country": "CN",
+    "lat": 34.62647,
+    "lng": 106.19095
+  },
+  {
+    "name": "Longling County",
+    "country": "CN",
+    "lat": 24.58663,
+    "lng": 98.68934
+  },
+  {
+    "name": "Longtan",
+    "country": "CN",
+    "lat": 43.90799,
+    "lng": 126.55686
+  },
+  {
+    "name": "Long’an",
+    "country": "CN",
+    "lat": 36.09406,
+    "lng": 114.30328
+  },
+  {
+    "name": "Longfeng",
+    "country": "CN",
+    "lat": 46.55938,
+    "lng": 125.12706
+  },
+  {
+    "name": "Lourdes",
+    "country": "CO",
+    "lat": 7.94411,
+    "lng": -72.83253
+  },
+  {
+    "name": "Los Santos",
+    "country": "CO",
+    "lat": 6.75343,
+    "lng": -73.10473
+  },
+  {
+    "name": "Los Patios",
+    "country": "CO",
+    "lat": 7.83793,
+    "lng": -72.5037
+  },
+  {
+    "name": "Los Palmitos",
+    "country": "CO",
+    "lat": 9.37899,
+    "lng": -75.26769
+  },
+  {
+    "name": "Los Córdobas",
+    "country": "CO",
+    "lat": 8.89403,
+    "lng": -76.35455
+  },
+  {
+    "name": "Lorica",
+    "country": "CO",
+    "lat": 9.23648,
+    "lng": -75.8135
+  },
+  {
+    "name": "Los Santos",
+    "country": "CO",
+    "lat": 7.17,
+    "lng": -73.09306
+  },
+  {
+    "name": "Los Chiles",
+    "country": "CR",
+    "lat": 11.03253,
+    "lng": -84.71544
+  },
+  {
+    "name": "Los Palacios",
+    "country": "CU",
+    "lat": 22.58882,
+    "lng": -83.24671
+  },
+  {
+    "name": "Los Arabos",
+    "country": "CU",
+    "lat": 22.72969,
+    "lng": -80.72081
+  },
+  {
+    "name": "Lovosice",
+    "country": "CZ",
+    "lat": 50.51504,
+    "lng": 14.05103
+  },
+  {
+    "name": "Louny",
+    "country": "CZ",
+    "lat": 50.35699,
+    "lng": 13.79667
+  },
+  {
+    "name": "Loučovice",
+    "country": "CZ",
+    "lat": 48.62019,
+    "lng": 14.25747
+  },
+  {
+    "name": "Loučná nad Desnou",
+    "country": "CZ",
+    "lat": 50.07433,
+    "lng": 17.09052
+  },
+  {
+    "name": "Loučeň",
+    "country": "CZ",
+    "lat": 50.28537,
+    "lng": 15.02049
+  },
+  {
+    "name": "Loštice",
+    "country": "CZ",
+    "lat": 49.7447,
+    "lng": 16.92892
+  },
+  {
+    "name": "Lom u Mostu",
+    "country": "CZ",
+    "lat": 50.59328,
+    "lng": 13.65729
+  },
+  {
+    "name": "Lomnice nad Popelkou",
+    "country": "CZ",
+    "lat": 50.53062,
+    "lng": 15.37341
+  },
+  {
+    "name": "Lomnice nad Lužnicí",
+    "country": "CZ",
+    "lat": 49.08468,
+    "lng": 14.71727
+  },
+  {
+    "name": "Lomnice",
+    "country": "CZ",
+    "lat": 50.21174,
+    "lng": 12.63267
+  },
+  {
+    "name": "Lomnice",
+    "country": "CZ",
+    "lat": 49.40462,
+    "lng": 16.41359
+  },
+  {
+    "name": "Loket",
+    "country": "CZ",
+    "lat": 50.186,
+    "lng": 12.75405
+  },
+  {
+    "name": "Loděnice",
+    "country": "CZ",
+    "lat": 49.99486,
+    "lng": 14.15785
+  },
+  {
+    "name": "Lochovice",
+    "country": "CZ",
+    "lat": 49.85318,
+    "lng": 13.98126
+  },
+  {
+    "name": "Loxstedt",
+    "country": "DE",
+    "lat": 53.47095,
+    "lng": 8.64584
+  },
+  {
+    "name": "Lottstetten",
+    "country": "DE",
+    "lat": 47.63333,
+    "lng": 8.56667
+  },
+  {
+    "name": "Lotte",
+    "country": "DE",
+    "lat": 52.28333,
+    "lng": 7.91667
+  },
+  {
+    "name": "Lostau",
+    "country": "DE",
+    "lat": 52.20871,
+    "lng": 11.73795
+  },
+  {
+    "name": "Loßburg",
+    "country": "DE",
+    "lat": 48.4,
+    "lng": 8.45
+  },
+  {
+    "name": "Losheim",
+    "country": "DE",
+    "lat": 49.5099,
+    "lng": 6.74549
+  },
+  {
+    "name": "Loschwitz",
+    "country": "DE",
+    "lat": 51.05386,
+    "lng": 13.81393
+  },
+  {
+    "name": "Lorup",
+    "country": "DE",
+    "lat": 52.92495,
+    "lng": 7.64339
+  },
+  {
+    "name": "Lorsch",
+    "country": "DE",
+    "lat": 49.65,
+    "lng": 8.56667
+  },
+  {
+    "name": "Lorch",
+    "country": "DE",
+    "lat": 48.79833,
+    "lng": 9.6914
+  },
+  {
+    "name": "Lonsee",
+    "country": "DE",
+    "lat": 48.5434,
+    "lng": 9.91999
+  },
+  {
+    "name": "Lonnig",
+    "country": "DE",
+    "lat": 50.31002,
+    "lng": 7.40509
+  },
+  {
+    "name": "Lonnerstadt",
+    "country": "DE",
+    "lat": 49.69882,
+    "lng": 10.76711
+  },
+  {
+    "name": "Longuich",
+    "country": "DE",
+    "lat": 49.80841,
+    "lng": 6.76832
+  },
+  {
+    "name": "Longkamp",
+    "country": "DE",
+    "lat": 49.89044,
+    "lng": 7.11764
+  },
+  {
+    "name": "Lommatzsch",
+    "country": "DE",
+    "lat": 51.19537,
+    "lng": 13.30917
+  },
+  {
+    "name": "Lollar",
+    "country": "DE",
+    "lat": 50.64652,
+    "lng": 8.70495
+  },
+  {
+    "name": "Loitz",
+    "country": "DE",
+    "lat": 53.44205,
+    "lng": 13.38802
+  },
+  {
+    "name": "Loiching",
+    "country": "DE",
+    "lat": 48.61667,
+    "lng": 12.43333
+  },
+  {
+    "name": "Lohsa",
+    "country": "DE",
+    "lat": 51.38333,
+    "lng": 14.4
+  },
+  {
+    "name": "Lohra",
+    "country": "DE",
+    "lat": 50.73333,
+    "lng": 8.63333
+  },
+  {
+    "name": "Lohr am Main",
+    "country": "DE",
+    "lat": 49.98922,
+    "lng": 9.57223
+  },
+  {
+    "name": "Lohne",
+    "country": "DE",
+    "lat": 52.66625,
+    "lng": 8.2375
+  },
+  {
+    "name": "Lohne",
+    "country": "DE",
+    "lat": 52.49778,
+    "lng": 7.22629
+  },
+  {
+    "name": "Lohmen",
+    "country": "DE",
+    "lat": 50.98831,
+    "lng": 14.00268
+  },
+  {
+    "name": "Lohmar",
+    "country": "DE",
+    "lat": 50.83868,
+    "lng": 7.21399
+  },
+  {
+    "name": "Lohfelden",
+    "country": "DE",
+    "lat": 51.26667,
+    "lng": 9.53333
+  },
+  {
+    "name": "Lohberg",
+    "country": "DE",
+    "lat": 49.17604,
+    "lng": 13.10549
+  },
+  {
+    "name": "Loffenau",
+    "country": "DE",
+    "lat": 48.77214,
+    "lng": 8.38463
+  },
+  {
+    "name": "Loddin",
+    "country": "DE",
+    "lat": 54.02252,
+    "lng": 14.00754
+  },
+  {
+    "name": "Lochau",
+    "country": "DE",
+    "lat": 51.39738,
+    "lng": 12.05303
+  },
+  {
+    "name": "Loburg",
+    "country": "DE",
+    "lat": 52.11509,
+    "lng": 12.0784
+  },
+  {
+    "name": "Lobstädt",
+    "country": "DE",
+    "lat": 51.13361,
+    "lng": 12.44861
+  },
+  {
+    "name": "Lohe-Rickelshof",
+    "country": "DE",
+    "lat": 54.18803,
+    "lng": 9.07066
+  },
+  {
+    "name": "Lobbach",
+    "country": "DE",
+    "lat": 49.37519,
+    "lng": 8.88884
+  },
+  {
+    "name": "Loyada",
+    "country": "DJ",
+    "lat": 11.46111,
+    "lng": 43.25278
+  },
+  {
+    "name": "Los Ríos",
+    "country": "DO",
+    "lat": 18.52131,
+    "lng": -71.59106
+  },
+  {
+    "name": "Los Llanos",
+    "country": "DO",
+    "lat": 18.62035,
+    "lng": -69.49581
+  },
+  {
+    "name": "Los Hidalgos",
+    "country": "DO",
+    "lat": 19.73333,
+    "lng": -71.03333
+  },
+  {
+    "name": "Los Botados",
+    "country": "DO",
+    "lat": 18.73226,
+    "lng": -69.99536
+  },
+  {
+    "name": "Loma de Cabrera",
+    "country": "DO",
+    "lat": 19.43333,
+    "lng": -71.6
+  },
+  {
+    "name": "Los Encuentros",
+    "country": "EC",
+    "lat": -3.75993,
+    "lng": -78.64803
+  },
+  {
+    "name": "Los Andes",
+    "country": "EC",
+    "lat": 0.49808,
+    "lng": -77.93833
+  },
+  {
+    "name": "Lomas de Sargentillo",
+    "country": "EC",
+    "lat": -1.88082,
+    "lng": -80.08354
+  },
+  {
+    "name": "Loja",
+    "country": "EC",
+    "lat": -3.99313,
+    "lng": -79.20422
+  },
+  {
+    "name": "Loma de Franco",
+    "country": "EC",
+    "lat": -3.34262,
+    "lng": -79.79299
+  },
+  {
+    "name": "Loo",
+    "country": "EE",
+    "lat": 59.43123,
+    "lng": 24.94949
+  },
+  {
+    "name": "Loksa",
+    "country": "EE",
+    "lat": 59.57639,
+    "lng": 25.72139
+  },
+  {
+    "name": "Los Yébenes",
+    "country": "ES",
+    "lat": 39.58158,
+    "lng": -3.87058
+  },
+  {
+    "name": "Los Villares",
+    "country": "ES",
+    "lat": 37.69146,
+    "lng": -3.81868
+  },
+  {
+    "name": "Los Silos",
+    "country": "ES",
+    "lat": 28.3661,
+    "lng": -16.81552
+  },
+  {
+    "name": "Los Santos de Maimona",
+    "country": "ES",
+    "lat": 38.45,
+    "lng": -6.38333
+  },
+  {
+    "name": "Los Palacios y Villafranca",
+    "country": "ES",
+    "lat": 37.16181,
+    "lng": -5.92433
+  },
+  {
+    "name": "Los Navalucillos",
+    "country": "ES",
+    "lat": 39.66665,
+    "lng": -4.64205
+  },
+  {
+    "name": "Los Navalmorales",
+    "country": "ES",
+    "lat": 39.72526,
+    "lng": -4.64227
+  },
+  {
+    "name": "Los Montesinos",
+    "country": "ES",
+    "lat": 38.02822,
+    "lng": -0.74501
+  },
+  {
+    "name": "Los Molares",
+    "country": "ES",
+    "lat": 37.15704,
+    "lng": -5.71802
+  },
+  {
+    "name": "Los Martínez",
+    "country": "ES",
+    "lat": 37.81841,
+    "lng": -1.0788
+  },
+  {
+    "name": "Los Llanos de Aridane",
+    "country": "ES",
+    "lat": 28.65851,
+    "lng": -17.91821
+  },
+  {
+    "name": "Los Hinojosos",
+    "country": "ES",
+    "lat": 39.60417,
+    "lng": -2.82572
+  },
+  {
+    "name": "Los Gabatos",
+    "country": "ES",
+    "lat": 37.63333,
+    "lng": -1.0
+  },
+  {
+    "name": "Los Dolores",
+    "country": "ES",
+    "lat": 37.63977,
+    "lng": -1.00462
+  },
+  {
+    "name": "Los Corrales",
+    "country": "ES",
+    "lat": 37.09918,
+    "lng": -4.98429
+  },
+  {
+    "name": "Los Barrios",
+    "country": "ES",
+    "lat": 36.18482,
+    "lng": -5.49213
+  },
+  {
+    "name": "Los Barreros",
+    "country": "ES",
+    "lat": 37.62829,
+    "lng": -0.99774
+  },
+  {
+    "name": "Los Alcázares",
+    "country": "ES",
+    "lat": 37.74425,
+    "lng": -0.85041
+  },
+  {
+    "name": "Losa del Obispo",
+    "country": "ES",
+    "lat": 39.7,
+    "lng": -0.86667
+  },
+  {
+    "name": "Lorquí",
+    "country": "ES",
+    "lat": 38.08261,
+    "lng": -1.25103
+  },
+  {
+    "name": "Loriguilla",
+    "country": "ES",
+    "lat": 39.49016,
+    "lng": -0.57143
+  },
+  {
+    "name": "Lorca",
+    "country": "ES",
+    "lat": 37.67119,
+    "lng": -1.7017
+  },
+  {
+    "name": "Lora del Río",
+    "country": "ES",
+    "lat": 37.65896,
+    "lng": -5.52751
+  },
+  {
+    "name": "Lora de Estepa",
+    "country": "ES",
+    "lat": 37.26926,
+    "lng": -4.82759
+  },
+  {
+    "name": "Lopera",
+    "country": "ES",
+    "lat": 37.94542,
+    "lng": -4.21463
+  },
+  {
+    "name": "Lo Pagán",
+    "country": "ES",
+    "lat": 37.81761,
+    "lng": -0.78832
+  },
+  {
+    "name": "Lomo de Arico",
+    "country": "ES",
+    "lat": 28.16667,
+    "lng": -16.48333
+  },
+  {
+    "name": "Loja",
+    "country": "ES",
+    "lat": 37.16887,
+    "lng": -4.15129
+  },
+  {
+    "name": "Logrosán",
+    "country": "ES",
+    "lat": 39.33641,
+    "lng": -5.49281
+  },
+  {
+    "name": "Lobras",
+    "country": "ES",
+    "lat": 36.92849,
+    "lng": -3.2123
+  },
+  {
+    "name": "Lobón",
+    "country": "ES",
+    "lat": 38.84876,
+    "lng": -6.62365
+  },
+  {
+    "name": "Lozoya",
+    "country": "ES",
+    "lat": 40.94949,
+    "lng": -3.79086
+  },
+  {
+    "name": "Lobios",
+    "country": "ES",
+    "lat": 41.87493,
+    "lng": -8.08783
+  },
+  {
+    "name": "Lousame",
+    "country": "ES",
+    "lat": 42.76477,
+    "lng": -8.84926
+  },
+  {
+    "name": "Los Santos de la Humosa",
+    "country": "ES",
+    "lat": 40.49968,
+    "lng": -3.25332
+  },
+  {
+    "name": "Los Molinos",
+    "country": "ES",
+    "lat": 40.71578,
+    "lng": -4.07402
+  },
+  {
+    "name": "Los Hueros",
+    "country": "ES",
+    "lat": 40.4438,
+    "lng": -3.34958
+  },
+  {
+    "name": "Loscos",
+    "country": "ES",
+    "lat": 41.08108,
+    "lng": -1.04433
+  },
+  {
+    "name": "Los Corrales de Buelna",
+    "country": "ES",
+    "lat": 43.26358,
+    "lng": -4.07262
+  },
+  {
+    "name": "Loscorrales",
+    "country": "ES",
+    "lat": 42.25451,
+    "lng": -0.64296
+  },
+  {
+    "name": "Losar de la Vera",
+    "country": "ES",
+    "lat": 40.12158,
+    "lng": -5.60454
+  },
+  {
+    "name": "Los Arcos",
+    "country": "ES",
+    "lat": 42.57076,
+    "lng": -2.19275
+  },
+  {
+    "name": "Losacio",
+    "country": "ES",
+    "lat": 41.71092,
+    "lng": -6.04059
+  },
+  {
+    "name": "Losacino",
+    "country": "ES",
+    "lat": 41.68084,
+    "lng": -6.07986
+  },
+  {
+    "name": "Loranca de Tajuña",
+    "country": "ES",
+    "lat": 40.44368,
+    "lng": -3.11082
+  },
+  {
+    "name": "Loporzano",
+    "country": "ES",
+    "lat": 42.16137,
+    "lng": -0.32337
+  },
+  {
+    "name": "Longás",
+    "country": "ES",
+    "lat": 42.48092,
+    "lng": -0.9342
+  },
+  {
+    "name": "Longares",
+    "country": "ES",
+    "lat": 41.40308,
+    "lng": -1.16876
+  },
+  {
+    "name": "Lominchar",
+    "country": "ES",
+    "lat": 40.09061,
+    "lng": -3.96713
+  },
+  {
+    "name": "Lomas",
+    "country": "ES",
+    "lat": 42.27362,
+    "lng": -4.55095
+  },
+  {
+    "name": "Logroño",
+    "country": "ES",
+    "lat": 42.46615,
+    "lng": -2.45115
+  },
+  {
+    "name": "Loeches",
+    "country": "ES",
+    "lat": 40.38343,
+    "lng": -3.4146
+  },
+  {
+    "name": "Lodosa",
+    "country": "ES",
+    "lat": 42.42269,
+    "lng": -2.07741
+  },
+  {
+    "name": "Lobios",
+    "country": "ES",
+    "lat": 42.40746,
+    "lng": -7.53164
+  },
+  {
+    "name": "Lobera de Onsella",
+    "country": "ES",
+    "lat": 42.47848,
+    "lng": -1.02208
+  },
+  {
+    "name": "Loarre",
+    "country": "ES",
+    "lat": 42.31432,
+    "lng": -0.62588
+  },
+  {
+    "name": "Los Gigantes",
+    "country": "ES",
+    "lat": 28.24361,
+    "lng": -16.84153
+  },
+  {
+    "name": "Los Realejos",
+    "country": "ES",
+    "lat": 28.38487,
+    "lng": -16.58275
+  },
+  {
+    "name": "Los Rosales",
+    "country": "ES",
+    "lat": 40.35572,
+    "lng": -3.68855
+  },
+  {
+    "name": "Los Angeles",
+    "country": "ES",
+    "lat": 40.35579,
+    "lng": -3.69914
+  },
+  {
+    "name": "Los Morillas",
+    "country": "ES",
+    "lat": 37.29192,
+    "lng": -2.1292
+  },
+  {
+    "name": "Logīya",
+    "country": "ET",
+    "lat": 11.72615,
+    "lng": 40.9797
+  },
+  {
+    "name": "Lobuni",
+    "country": "ET",
+    "lat": 4.83333,
+    "lng": 36.1
+  },
+  {
+    "name": "Lovisa",
+    "country": "FI",
+    "lat": 60.45659,
+    "lng": 26.22505
+  },
+  {
+    "name": "Loppi",
+    "country": "FI",
+    "lat": 60.71667,
+    "lng": 24.45
+  },
+  {
+    "name": "Loimaa",
+    "country": "FI",
+    "lat": 60.84972,
+    "lng": 23.0561
+  },
+  {
+    "name": "Lohtaja",
+    "country": "FI",
+    "lat": 64.02472,
+    "lng": 23.50482
+  },
+  {
+    "name": "Lohja",
+    "country": "FI",
+    "lat": 60.24859,
+    "lng": 24.06534
+  },
+  {
+    "name": "Losap",
+    "country": "FM",
+    "lat": 6.894,
+    "lng": 152.74
+  },
+  {
+    "name": "Lozinghem",
+    "country": "FR",
+    "lat": 50.51554,
+    "lng": 2.50209
+  },
+  {
+    "name": "Lozanne",
+    "country": "FR",
+    "lat": 45.85733,
+    "lng": 4.6807
+  },
+  {
+    "name": "Loyettes",
+    "country": "FR",
+    "lat": 45.77663,
+    "lng": 5.20687
+  },
+  {
+    "name": "Loyat",
+    "country": "FR",
+    "lat": 47.98984,
+    "lng": -2.38329
+  },
+  {
+    "name": "Lovagny",
+    "country": "FR",
+    "lat": 45.90377,
+    "lng": 6.03281
+  },
+  {
+    "name": "Louzy",
+    "country": "FR",
+    "lat": 47.01175,
+    "lng": -0.18691
+  },
+  {
+    "name": "Louvroil",
+    "country": "FR",
+    "lat": 50.26427,
+    "lng": 3.96272
+  },
+  {
+    "name": "Louvres",
+    "country": "FR",
+    "lat": 49.0446,
+    "lng": 2.50479
+  },
+  {
+    "name": "Louvigny",
+    "country": "FR",
+    "lat": 49.15715,
+    "lng": -0.39376
+  },
+  {
+    "name": "Louvigné-du-Désert",
+    "country": "FR",
+    "lat": 48.48155,
+    "lng": -1.12414
+  },
+  {
+    "name": "Louvigné-de-Bais",
+    "country": "FR",
+    "lat": 48.04829,
+    "lng": -1.33167
+  },
+  {
+    "name": "Louviers",
+    "country": "FR",
+    "lat": 49.21667,
+    "lng": 1.16667
+  },
+  {
+    "name": "Louvie-Juzon",
+    "country": "FR",
+    "lat": 43.08646,
+    "lng": -0.41928
+  },
+  {
+    "name": "Louverné",
+    "country": "FR",
+    "lat": 48.1226,
+    "lng": -0.71749
+  },
+  {
+    "name": "Louveciennes",
+    "country": "FR",
+    "lat": 48.86115,
+    "lng": 2.11463
+  },
+  {
+    "name": "Loury",
+    "country": "FR",
+    "lat": 47.99944,
+    "lng": 2.08474
+  },
+  {
+    "name": "Lourmarin",
+    "country": "FR",
+    "lat": 43.76385,
+    "lng": 5.36264
+  },
+  {
+    "name": "Lourdes",
+    "country": "FR",
+    "lat": 43.09461,
+    "lng": -0.04611
+  },
+  {
+    "name": "Lourches",
+    "country": "FR",
+    "lat": 50.31354,
+    "lng": 3.35258
+  },
+  {
+    "name": "Louplande",
+    "country": "FR",
+    "lat": 47.95,
+    "lng": -0.05
+  },
+  {
+    "name": "Loupian",
+    "country": "FR",
+    "lat": 43.44952,
+    "lng": 3.61333
+  },
+  {
+    "name": "Loupiac",
+    "country": "FR",
+    "lat": 44.62436,
+    "lng": -0.29829
+  },
+  {
+    "name": "Louhans",
+    "country": "FR",
+    "lat": 46.62637,
+    "lng": 5.22468
+  },
+  {
+    "name": "Loué",
+    "country": "FR",
+    "lat": 47.99545,
+    "lng": -0.15372
+  },
+  {
+    "name": "Loudun",
+    "country": "FR",
+    "lat": 47.00788,
+    "lng": 0.08296
+  },
+  {
+    "name": "Loudéac",
+    "country": "FR",
+    "lat": 48.1776,
+    "lng": -2.7558
+  },
+  {
+    "name": "Loubert",
+    "country": "FR",
+    "lat": 45.91422,
+    "lng": 0.58617
+  },
+  {
+    "name": "Louargat",
+    "country": "FR",
+    "lat": 48.56613,
+    "lng": -3.33864
+  },
+  {
+    "name": "Louannec",
+    "country": "FR",
+    "lat": 48.79425,
+    "lng": -3.41117
+  },
+  {
+    "name": "Losne",
+    "country": "FR",
+    "lat": 47.0985,
+    "lng": 5.26216
+  },
+  {
+    "name": "Lorris",
+    "country": "FR",
+    "lat": 47.8895,
+    "lng": 2.51478
+  },
+  {
+    "name": "Lorrez-le-Bocage-Préaux",
+    "country": "FR",
+    "lat": 48.23333,
+    "lng": 2.9
+  },
+  {
+    "name": "Lorquin",
+    "country": "FR",
+    "lat": 48.67102,
+    "lng": 6.99915
+  },
+  {
+    "name": "Lormont",
+    "country": "FR",
+    "lat": 44.8765,
+    "lng": -0.51919
+  },
+  {
+    "name": "Lormes",
+    "country": "FR",
+    "lat": 47.28964,
+    "lng": 3.81714
+  },
+  {
+    "name": "Lormaison",
+    "country": "FR",
+    "lat": 49.25647,
+    "lng": 2.10575
+  },
+  {
+    "name": "Loriol-sur-Drôme",
+    "country": "FR",
+    "lat": 44.74703,
+    "lng": 4.81719
+  },
+  {
+    "name": "Loriol-du-Comtat",
+    "country": "FR",
+    "lat": 44.07653,
+    "lng": 5.00065
+  },
+  {
+    "name": "Lorient",
+    "country": "FR",
+    "lat": 47.74817,
+    "lng": -3.37177
+  },
+  {
+    "name": "Lorgues",
+    "country": "FR",
+    "lat": 43.49325,
+    "lng": 6.3615
+  },
+  {
+    "name": "Lorgies",
+    "country": "FR",
+    "lat": 50.5688,
+    "lng": 2.79034
+  },
+  {
+    "name": "Lorette",
+    "country": "FR",
+    "lat": 45.51105,
+    "lng": 4.58242
+  },
+  {
+    "name": "Loperhet",
+    "country": "FR",
+    "lat": 48.37544,
+    "lng": -4.30641
+  },
+  {
+    "name": "Lopérec",
+    "country": "FR",
+    "lat": 48.27749,
+    "lng": -4.04805
+  },
+  {
+    "name": "Loos-en-Gohelle",
+    "country": "FR",
+    "lat": 50.45786,
+    "lng": 2.79215
+  },
+  {
+    "name": "Loos",
+    "country": "FR",
+    "lat": 50.60982,
+    "lng": 3.01874
+  },
+  {
+    "name": "Loon-Plage",
+    "country": "FR",
+    "lat": 50.99647,
+    "lng": 2.2177
+  },
+  {
+    "name": "Looberghe",
+    "country": "FR",
+    "lat": 50.91694,
+    "lng": 2.27439
+  },
+  {
+    "name": "Lons-le-Saunier",
+    "country": "FR",
+    "lat": 46.67535,
+    "lng": 5.55575
+  },
+  {
+    "name": "Lons",
+    "country": "FR",
+    "lat": 43.31505,
+    "lng": -0.41105
+  },
+  {
+    "name": "Longwy",
+    "country": "FR",
+    "lat": 49.5217,
+    "lng": 5.76192
+  },
+  {
+    "name": "Longvic",
+    "country": "FR",
+    "lat": 47.28754,
+    "lng": 5.06341
+  },
+  {
+    "name": "Longuyon",
+    "country": "FR",
+    "lat": 49.44181,
+    "lng": 5.60508
+  },
+  {
+    "name": "Longueville",
+    "country": "FR",
+    "lat": 48.51503,
+    "lng": 3.24677
+  },
+  {
+    "name": "Longuenesse",
+    "country": "FR",
+    "lat": 50.73395,
+    "lng": 2.2352
+  },
+  {
+    "name": "Longueil-Sainte-Marie",
+    "country": "FR",
+    "lat": 49.35723,
+    "lng": 2.71844
+  },
+  {
+    "name": "Longueil-Annel",
+    "country": "FR",
+    "lat": 49.46908,
+    "lng": 2.86464
+  },
+  {
+    "name": "Longueau",
+    "country": "FR",
+    "lat": 49.87226,
+    "lng": 2.3588
+  },
+  {
+    "name": "Longpré-les-Corps-Saints",
+    "country": "FR",
+    "lat": 50.01239,
+    "lng": 1.99287
+  },
+  {
+    "name": "Longpont-sur-Orge",
+    "country": "FR",
+    "lat": 48.64171,
+    "lng": 2.29278
+  },
+  {
+    "name": "Longperrier",
+    "country": "FR",
+    "lat": 49.04844,
+    "lng": 2.66571
+  },
+  {
+    "name": "Longny-au-Perche",
+    "country": "FR",
+    "lat": 48.52984,
+    "lng": 0.75239
+  },
+  {
+    "name": "Longnes",
+    "country": "FR",
+    "lat": 48.92002,
+    "lng": 1.58705
+  },
+  {
+    "name": "Longlaville",
+    "country": "FR",
+    "lat": 49.53443,
+    "lng": 5.80048
+  },
+  {
+    "name": "Longjumeau",
+    "country": "FR",
+    "lat": 48.69307,
+    "lng": 2.29431
+  },
+  {
+    "name": "Longfossé",
+    "country": "FR",
+    "lat": 50.65217,
+    "lng": 1.80693
+  },
+  {
+    "name": "Longeville-lès-Saint-Avold",
+    "country": "FR",
+    "lat": 49.11689,
+    "lng": 6.64327
+  },
+  {
+    "name": "Longeville-lès-Metz",
+    "country": "FR",
+    "lat": 49.11403,
+    "lng": 6.13612
+  },
+  {
+    "name": "Longeville-en-Barrois",
+    "country": "FR",
+    "lat": 48.74242,
+    "lng": 5.20905
+  },
+  {
+    "name": "Longeville-sur-Mer",
+    "country": "FR",
+    "lat": 46.41667,
+    "lng": -1.5
+  },
+  {
+    "name": "Longecourt-en-Plaine",
+    "country": "FR",
+    "lat": 47.19783,
+    "lng": 5.14956
+  },
+  {
+    "name": "Longchaumois",
+    "country": "FR",
+    "lat": 46.46228,
+    "lng": 5.93052
+  },
+  {
+    "name": "Longchamp",
+    "country": "FR",
+    "lat": 47.25973,
+    "lng": 5.28694
+  },
+  {
+    "name": "Longages",
+    "country": "FR",
+    "lat": 43.35531,
+    "lng": 1.2397
+  },
+  {
+    "name": "Londinières",
+    "country": "FR",
+    "lat": 49.83187,
+    "lng": 1.40232
+  },
+  {
+    "name": "Lompret",
+    "country": "FR",
+    "lat": 50.66931,
+    "lng": 2.98968
+  },
+  {
+    "name": "Lomme",
+    "country": "FR",
+    "lat": 50.64358,
+    "lng": 2.98715
+  },
+  {
+    "name": "Lombron",
+    "country": "FR",
+    "lat": 48.0785,
+    "lng": 0.4179
+  },
+  {
+    "name": "Lombez",
+    "country": "FR",
+    "lat": 43.47543,
+    "lng": 0.91039
+  },
+  {
+    "name": "Loivre",
+    "country": "FR",
+    "lat": 49.34619,
+    "lng": 3.97978
+  },
+  {
+    "name": "Loison-sous-Lens",
+    "country": "FR",
+    "lat": 50.43796,
+    "lng": 2.85322
+  },
+  {
+    "name": "Loisin",
+    "country": "FR",
+    "lat": 46.29227,
+    "lng": 6.3101
+  },
+  {
+    "name": "Loiron",
+    "country": "FR",
+    "lat": 48.05971,
+    "lng": -0.93536
+  },
+  {
+    "name": "Loire-sur-Rhône",
+    "country": "FR",
+    "lat": 45.55,
+    "lng": 4.8
+  },
+  {
+    "name": "Logonna-Daoulas",
+    "country": "FR",
+    "lat": 48.32096,
+    "lng": -4.2989
+  },
+  {
+    "name": "Lognes",
+    "country": "FR",
+    "lat": 48.83541,
+    "lng": 2.62998
+  },
+  {
+    "name": "Lodève",
+    "country": "FR",
+    "lat": 43.73178,
+    "lng": 3.31959
+  },
+  {
+    "name": "Loctudy",
+    "country": "FR",
+    "lat": 47.83216,
+    "lng": -4.16837
+  },
+  {
+    "name": "Locquirec",
+    "country": "FR",
+    "lat": 48.69243,
+    "lng": -3.64554
+  },
+  {
+    "name": "Locquémeau",
+    "country": "FR",
+    "lat": 48.72409,
+    "lng": -3.56374
+  },
+  {
+    "name": "Locon",
+    "country": "FR",
+    "lat": 50.57029,
+    "lng": 2.66629
+  },
+  {
+    "name": "Locoal-Mendon",
+    "country": "FR",
+    "lat": 47.7052,
+    "lng": -3.10796
+  },
+  {
+    "name": "Locmiquélic",
+    "country": "FR",
+    "lat": 47.7251,
+    "lng": -3.34066
+  },
+  {
+    "name": "Locminé",
+    "country": "FR",
+    "lat": 47.887,
+    "lng": -2.83575
+  },
+  {
+    "name": "Locmariaquer",
+    "country": "FR",
+    "lat": 47.56926,
+    "lng": -2.94515
+  },
+  {
+    "name": "Loches",
+    "country": "FR",
+    "lat": 47.12858,
+    "lng": 0.99522
+  },
+  {
+    "name": "Lodi",
+    "country": "FR",
+    "lat": 43.28663,
+    "lng": 5.38882
+  },
+  {
+    "name": "Lowick",
+    "country": "GB",
+    "lat": 55.65044,
+    "lng": -1.97809
+  },
+  {
+    "name": "Low Etherley",
+    "country": "GB",
+    "lat": 54.65349,
+    "lng": -1.74315
+  },
+  {
+    "name": "Lowestoft",
+    "country": "GB",
+    "lat": 52.47523,
+    "lng": 1.75167
+  },
+  {
+    "name": "Lower Kingswood",
+    "country": "GB",
+    "lat": 51.26968,
+    "lng": -0.2123
+  },
+  {
+    "name": "Lower Halstow",
+    "country": "GB",
+    "lat": 51.37395,
+    "lng": 0.66819
+  },
+  {
+    "name": "Lower Bullingham",
+    "country": "GB",
+    "lat": 52.03333,
+    "lng": -2.7
+  },
+  {
+    "name": "Lower Brailes",
+    "country": "GB",
+    "lat": 52.05034,
+    "lng": -1.54176
+  },
+  {
+    "name": "Lowdham",
+    "country": "GB",
+    "lat": 53.01205,
+    "lng": -1.00483
+  },
+  {
+    "name": "Low Bradley",
+    "country": "GB",
+    "lat": 53.93217,
+    "lng": -1.99646
+  },
+  {
+    "name": "Low Ackworth",
+    "country": "GB",
+    "lat": 53.65023,
+    "lng": -1.32334
+  },
+  {
+    "name": "Louth",
+    "country": "GB",
+    "lat": 53.36664,
+    "lng": -0.00438
+  },
+  {
+    "name": "Loughton",
+    "country": "GB",
+    "lat": 52.03037,
+    "lng": -0.78642
+  },
+  {
+    "name": "Loughborough",
+    "country": "GB",
+    "lat": 52.76667,
+    "lng": -1.2
+  },
+  {
+    "name": "Loudwater",
+    "country": "GB",
+    "lat": 51.61073,
+    "lng": -0.70153
+  },
+  {
+    "name": "Lostwithiel",
+    "country": "GB",
+    "lat": 50.40784,
+    "lng": -4.67023
+  },
+  {
+    "name": "Lossiemouth",
+    "country": "GB",
+    "lat": 57.72136,
+    "lng": -3.28341
+  },
+  {
+    "name": "Longwick",
+    "country": "GB",
+    "lat": 51.73607,
+    "lng": -0.85676
+  },
+  {
+    "name": "Long Whatton",
+    "country": "GB",
+    "lat": 52.80577,
+    "lng": -1.28506
+  },
+  {
+    "name": "Longtown",
+    "country": "GB",
+    "lat": 55.00925,
+    "lng": -2.96722
+  },
+  {
+    "name": "Longtown",
+    "country": "GB",
+    "lat": 51.95,
+    "lng": -2.98333
+  },
+  {
+    "name": "Longton",
+    "country": "GB",
+    "lat": 52.98333,
+    "lng": -2.13333
+  },
+  {
+    "name": "Long Sutton",
+    "country": "GB",
+    "lat": 51.21978,
+    "lng": -0.94293
+  },
+  {
+    "name": "Long Stratton",
+    "country": "GB",
+    "lat": 52.48803,
+    "lng": 1.23478
+  },
+  {
+    "name": "Longstanton",
+    "country": "GB",
+    "lat": 52.28076,
+    "lng": 0.04558
+  },
+  {
+    "name": "Longridge",
+    "country": "GB",
+    "lat": 53.83212,
+    "lng": -2.59964
+  },
+  {
+    "name": "Longnor",
+    "country": "GB",
+    "lat": 52.6,
+    "lng": -2.75
+  },
+  {
+    "name": "Longniddry",
+    "country": "GB",
+    "lat": 55.97543,
+    "lng": -2.89593
+  },
+  {
+    "name": "Long Melford",
+    "country": "GB",
+    "lat": 52.07481,
+    "lng": 0.71639
+  },
+  {
+    "name": "Long Lawford",
+    "country": "GB",
+    "lat": 52.38176,
+    "lng": -1.30716
+  },
+  {
+    "name": "Long Itchington",
+    "country": "GB",
+    "lat": 52.28396,
+    "lng": -1.39243
+  },
+  {
+    "name": "Longhoughton",
+    "country": "GB",
+    "lat": 55.43131,
+    "lng": -1.61691
+  },
+  {
+    "name": "Longhorsley",
+    "country": "GB",
+    "lat": 55.24586,
+    "lng": -1.76914
+  },
+  {
+    "name": "Longhope",
+    "country": "GB",
+    "lat": 51.86667,
+    "lng": -2.45
+  },
+  {
+    "name": "Longforgan",
+    "country": "GB",
+    "lat": 56.45732,
+    "lng": -3.11437
+  },
+  {
+    "name": "Longfield",
+    "country": "GB",
+    "lat": 51.3969,
+    "lng": 0.30212
+  },
+  {
+    "name": "Long Eaton",
+    "country": "GB",
+    "lat": 52.89855,
+    "lng": -1.27136
+  },
+  {
+    "name": "Long Ditton",
+    "country": "GB",
+    "lat": 51.38432,
+    "lng": -0.32041
+  },
+  {
+    "name": "Longdendale",
+    "country": "GB",
+    "lat": 53.46667,
+    "lng": -2.0
+  },
+  {
+    "name": "Long Crendon",
+    "country": "GB",
+    "lat": 51.77294,
+    "lng": -0.99684
+  },
+  {
+    "name": "Long Clawson",
+    "country": "GB",
+    "lat": 52.83725,
+    "lng": -0.9288
+  },
+  {
+    "name": "Long Buckby",
+    "country": "GB",
+    "lat": 52.3026,
+    "lng": -1.08113
+  },
+  {
+    "name": "Long Bennington",
+    "country": "GB",
+    "lat": 52.99314,
+    "lng": -0.75803
+  },
+  {
+    "name": "Long Ashton",
+    "country": "GB",
+    "lat": 51.42997,
+    "lng": -2.66098
+  },
+  {
+    "name": "Londonderry County Borough",
+    "country": "GB",
+    "lat": 54.99721,
+    "lng": -7.30917
+  },
+  {
+    "name": "London Colney",
+    "country": "GB",
+    "lat": 51.72453,
+    "lng": -0.29646
+  },
+  {
+    "name": "London",
+    "country": "GB",
+    "lat": 51.50853,
+    "lng": -0.12574
+  },
+  {
+    "name": "Londesborough",
+    "country": "GB",
+    "lat": 53.88333,
+    "lng": -0.68333
+  },
+  {
+    "name": "Loftus",
+    "country": "GB",
+    "lat": 54.55543,
+    "lng": -0.89459
+  },
+  {
+    "name": "Lofthouse",
+    "country": "GB",
+    "lat": 53.72947,
+    "lng": -1.49697
+  },
+  {
+    "name": "Loddon",
+    "country": "GB",
+    "lat": 52.5327,
+    "lng": 1.48183
+  },
+  {
+    "name": "Lockington",
+    "country": "GB",
+    "lat": 53.91415,
+    "lng": -0.48572
+  },
+  {
+    "name": "Locking",
+    "country": "GB",
+    "lat": 51.33327,
+    "lng": -2.91387
+  },
+  {
+    "name": "Lockerbie",
+    "country": "GB",
+    "lat": 55.12302,
+    "lng": -3.35635
+  },
+  {
+    "name": "Lochwinnoch",
+    "country": "GB",
+    "lat": 55.79521,
+    "lng": -4.63034
+  },
+  {
+    "name": "Lochmaben",
+    "country": "GB",
+    "lat": 55.13011,
+    "lng": -3.44286
+  },
+  {
+    "name": "Lochgilphead",
+    "country": "GB",
+    "lat": 56.03796,
+    "lng": -5.43206
+  },
+  {
+    "name": "Lochgelly",
+    "country": "GB",
+    "lat": 56.12826,
+    "lng": -3.30964
+  },
+  {
+    "name": "Locharbriggs",
+    "country": "GB",
+    "lat": 55.10337,
+    "lng": -3.58438
+  },
+  {
+    "name": "Loanhead",
+    "country": "GB",
+    "lat": 55.87945,
+    "lng": -3.15874
+  },
+  {
+    "name": "Looe",
+    "country": "GB",
+    "lat": 50.35778,
+    "lng": -4.45418
+  },
+  {
+    "name": "Longsight",
+    "country": "GB",
+    "lat": 53.45801,
+    "lng": -2.20104
+  },
+  {
+    "name": "Lower Earley",
+    "country": "GB",
+    "lat": 51.42708,
+    "lng": -0.91979
+  },
+  {
+    "name": "Lower Broadheath",
+    "country": "GB",
+    "lat": 52.21379,
+    "lng": -2.27724
+  },
+  {
+    "name": "Logan",
+    "country": "GB",
+    "lat": 55.45466,
+    "lng": -4.23514
+  },
+  {
+    "name": "Lola",
+    "country": "GN",
+    "lat": 7.8,
+    "lng": -8.53333
+  },
+  {
+    "name": "Loutrópoli Thermís",
+    "country": "GR",
+    "lat": 39.18019,
+    "lng": 26.48558
+  },
+  {
+    "name": "Loutró",
+    "country": "GR",
+    "lat": 38.95208,
+    "lng": 21.20489
+  },
+  {
+    "name": "Loutráki",
+    "country": "GR",
+    "lat": 37.9783,
+    "lng": 22.97781
+  },
+  {
+    "name": "Loutrá Aidhipsoú",
+    "country": "GR",
+    "lat": 38.85695,
+    "lng": 23.04739
+  },
+  {
+    "name": "Loutrá",
+    "country": "GR",
+    "lat": 39.05695,
+    "lng": 26.54476
+  },
+  {
+    "name": "Loúros",
+    "country": "GR",
+    "lat": 39.166,
+    "lng": 20.75608
+  },
+  {
+    "name": "Loukísia",
+    "country": "GR",
+    "lat": 38.47946,
+    "lng": 23.44796
+  },
+  {
+    "name": "Loutrós",
+    "country": "GR",
+    "lat": 40.58873,
+    "lng": 22.39976
+  },
+  {
+    "name": "Loutráki",
+    "country": "GR",
+    "lat": 40.97116,
+    "lng": 21.94659
+  },
+  {
+    "name": "Loutrá Oraías Elénis",
+    "country": "GR",
+    "lat": 37.86466,
+    "lng": 22.99614
+  },
+  {
+    "name": "Los Amates",
+    "country": "GT",
+    "lat": 15.25645,
+    "lng": -89.09723
+  },
+  {
+    "name": "Lok Fu",
+    "country": "HK",
+    "lat": 22.33727,
+    "lng": 114.18725
+  },
+  {
+    "name": "LOHAS Park",
+    "country": "HK",
+    "lat": 22.29315,
+    "lng": 114.27245
+  },
+  {
+    "name": "Lok Hin Terrace",
+    "country": "HK",
+    "lat": 22.26424,
+    "lng": 114.2412
+  },
+  {
+    "name": "Lok Man Sun Chuen",
+    "country": "HK",
+    "lat": 22.3163,
+    "lng": 114.18616
+  },
+  {
+    "name": "Lower Wong Tai Sin Estate (I & II)",
+    "country": "HK",
+    "lat": 22.33923,
+    "lng": 114.19441
+  },
+  {
+    "name": "Lok Fu Estate",
+    "country": "HK",
+    "lat": 22.33719,
+    "lng": 114.18672
+  },
+  {
+    "name": "Los Tangos",
+    "country": "HN",
+    "lat": 15.14585,
+    "lng": -88.67931
+  },
+  {
+    "name": "Los Planes",
+    "country": "HN",
+    "lat": 14.05,
+    "lng": -88.01667
+  },
+  {
+    "name": "Los Naranjos",
+    "country": "HN",
+    "lat": 14.94398,
+    "lng": -88.03654
+  },
+  {
+    "name": "Los Llanitos",
+    "country": "HN",
+    "lat": 13.28694,
+    "lng": -87.33444
+  },
+  {
+    "name": "Los Caminos",
+    "country": "HN",
+    "lat": 14.95045,
+    "lng": -87.97531
+  },
+  {
+    "name": "Lomitas",
+    "country": "HN",
+    "lat": 15.1,
+    "lng": -87.21667
+  },
+  {
+    "name": "Loma Alta",
+    "country": "HN",
+    "lat": 15.39818,
+    "lng": -88.56251
+  },
+  {
+    "name": "Lovreć",
+    "country": "HR",
+    "lat": 43.48761,
+    "lng": 16.98632
+  },
+  {
+    "name": "Lovran",
+    "country": "HR",
+    "lat": 45.29194,
+    "lng": 14.27417
+  },
+  {
+    "name": "Lovinac",
+    "country": "HR",
+    "lat": 44.39139,
+    "lng": 15.68556
+  },
+  {
+    "name": "Lovas",
+    "country": "HR",
+    "lat": 45.22639,
+    "lng": 19.17111
+  },
+  {
+    "name": "Lopatinec",
+    "country": "HR",
+    "lat": 46.43333,
+    "lng": 16.38333
+  },
+  {
+    "name": "Lopar",
+    "country": "HR",
+    "lat": 44.8325,
+    "lng": 14.73028
+  },
+  {
+    "name": "Lokvičič",
+    "country": "HR",
+    "lat": 43.46345,
+    "lng": 17.09155
+  },
+  {
+    "name": "Lokve",
+    "country": "HR",
+    "lat": 45.35889,
+    "lng": 14.74861
+  },
+  {
+    "name": "Lobor",
+    "country": "HR",
+    "lat": 46.15085,
+    "lng": 16.06525
+  },
+  {
+    "name": "Lovasberény",
+    "country": "HU",
+    "lat": 47.30997,
+    "lng": 18.55177
+  },
+  {
+    "name": "Losoncinegyed",
+    "country": "HU",
+    "lat": 47.48441,
+    "lng": 19.08172
+  },
+  {
+    "name": "Long Pujungan",
+    "country": "ID",
+    "lat": 2.58769,
+    "lng": 115.79478
+  },
+  {
+    "name": "Longnawang",
+    "country": "ID",
+    "lat": 1.78931,
+    "lng": 114.9013
+  },
+  {
+    "name": "Longkali",
+    "country": "ID",
+    "lat": -1.5218,
+    "lng": 116.3205
+  },
+  {
+    "name": "Longikis",
+    "country": "ID",
+    "lat": -1.5834,
+    "lng": 116.2061
+  },
+  {
+    "name": "Lolak",
+    "country": "ID",
+    "lat": 0.8755,
+    "lng": 124.0098
+  },
+  {
+    "name": "Lodoyo",
+    "country": "ID",
+    "lat": -8.1613,
+    "lng": 112.2173
+  },
+  {
+    "name": "Loakulu",
+    "country": "ID",
+    "lat": -0.51489,
+    "lng": 117.01567
+  },
+  {
+    "name": "Loa Janan",
+    "country": "ID",
+    "lat": -0.58295,
+    "lng": 117.09503
+  },
+  {
+    "name": "Lolayan",
+    "country": "ID",
+    "lat": 0.646,
+    "lng": 124.3074
+  },
+  {
+    "name": "Lokokrangan",
+    "country": "ID",
+    "lat": -8.255,
+    "lng": 116.2591
+  },
+  {
+    "name": "Lovina",
+    "country": "ID",
+    "lat": -8.14927,
+    "lng": 115.03999
+  },
+  {
+    "name": "Loboae",
+    "country": "ID",
+    "lat": -10.5048,
+    "lng": 121.828
+  },
+  {
+    "name": "Loang",
+    "country": "ID",
+    "lat": -8.471,
+    "lng": 123.2849
+  },
+  {
+    "name": "Long Peso",
+    "country": "ID",
+    "lat": 2.69028,
+    "lng": 116.7849
+  },
+  {
+    "name": "Long Beluah",
+    "country": "ID",
+    "lat": 2.75992,
+    "lng": 117.08905
+  },
+  {
+    "name": "Long Bang",
+    "country": "ID",
+    "lat": 2.84792,
+    "lng": 116.90454
+  },
+  {
+    "name": "Long Layu",
+    "country": "ID",
+    "lat": 3.61023,
+    "lng": 115.69993
+  },
+  {
+    "name": "Long Loreh",
+    "country": "ID",
+    "lat": 3.1679,
+    "lng": 116.47027
+  },
+  {
+    "name": "Lontar",
+    "country": "ID",
+    "lat": -3.9751,
+    "lng": 116.0698
+  },
+  {
+    "name": "Loklaga",
+    "country": "ID",
+    "lat": -2.71244,
+    "lng": 115.3728
+  },
+  {
+    "name": "Lotu",
+    "country": "ID",
+    "lat": 1.4299,
+    "lng": 97.35365
+  },
+  {
+    "name": "Loughrea",
+    "country": "IE",
+    "lat": 53.19694,
+    "lng": -8.56694
+  },
+  {
+    "name": "Loughlinstown",
+    "country": "IE",
+    "lat": 53.24389,
+    "lng": -6.13306
+  },
+  {
+    "name": "Longwood",
+    "country": "IE",
+    "lat": 53.45389,
+    "lng": -6.92194
+  },
+  {
+    "name": "Longford",
+    "country": "IE",
+    "lat": 53.72536,
+    "lng": -7.79823
+  },
+  {
+    "name": "Lod",
+    "country": "IL",
+    "lat": 31.9467,
+    "lng": 34.8903
+  },
+  {
+    "name": "Loisinga",
+    "country": "IN",
+    "lat": 20.86667,
+    "lng": 83.51667
+  },
+  {
+    "name": "Losal",
+    "country": "IN",
+    "lat": 27.4,
+    "lng": 74.91667
+  },
+  {
+    "name": "Lormi",
+    "country": "IN",
+    "lat": 22.27434,
+    "lng": 81.70181
+  },
+  {
+    "name": "Loni",
+    "country": "IN",
+    "lat": 28.75143,
+    "lng": 77.29023
+  },
+  {
+    "name": "Londa",
+    "country": "IN",
+    "lat": 15.46907,
+    "lng": 74.51906
+  },
+  {
+    "name": "Lonavla",
+    "country": "IN",
+    "lat": 18.75275,
+    "lng": 73.40575
+  },
+  {
+    "name": "Lonar",
+    "country": "IN",
+    "lat": 19.98533,
+    "lng": 76.52046
+  },
+  {
+    "name": "Lonand",
+    "country": "IN",
+    "lat": 18.04041,
+    "lng": 74.18719
+  },
+  {
+    "name": "Lohogaon",
+    "country": "IN",
+    "lat": 18.59921,
+    "lng": 73.92701
+  },
+  {
+    "name": "Lohāru",
+    "country": "IN",
+    "lat": 28.42993,
+    "lng": 75.80779
+  },
+  {
+    "name": "Lohārdagā",
+    "country": "IN",
+    "lat": 23.43305,
+    "lng": 84.67992
+  },
+  {
+    "name": "Lohāra",
+    "country": "IN",
+    "lat": 21.85,
+    "lng": 81.13333
+  },
+  {
+    "name": "Lohāra",
+    "country": "IN",
+    "lat": 20.38983,
+    "lng": 78.09027
+  },
+  {
+    "name": "Lohaghāt",
+    "country": "IN",
+    "lat": 29.40356,
+    "lng": 80.08965
+  },
+  {
+    "name": "Lodhīkheda",
+    "country": "IN",
+    "lat": 21.58235,
+    "lng": 78.85911
+  },
+  {
+    "name": "Loha",
+    "country": "IN",
+    "lat": 18.94484,
+    "lng": 77.11553
+  },
+  {
+    "name": "Longowal",
+    "country": "IN",
+    "lat": 30.19846,
+    "lng": 75.6819
+  },
+  {
+    "name": "Lohiān",
+    "country": "IN",
+    "lat": 31.16185,
+    "lng": 75.2097
+  },
+  {
+    "name": "Loharda",
+    "country": "IN",
+    "lat": 22.59183,
+    "lng": 76.59569
+  },
+  {
+    "name": "Loniya",
+    "country": "IN",
+    "lat": 22.06178,
+    "lng": 78.91258
+  },
+  {
+    "name": "Longleng",
+    "country": "IN",
+    "lat": 26.48989,
+    "lng": 94.81772
+  },
+  {
+    "name": "Longding",
+    "country": "IN",
+    "lat": 26.88412,
+    "lng": 95.31946
+  },
+  {
+    "name": "Lochapada",
+    "country": "IN",
+    "lat": 19.32873,
+    "lng": 84.80065
+  },
+  {
+    "name": "Lordegān",
+    "country": "IR",
+    "lat": 31.51338,
+    "lng": 50.82672
+  },
+  {
+    "name": "Lotzorai",
+    "country": "IT",
+    "lat": 39.9694,
+    "lng": 9.6635
+  },
+  {
+    "name": "Longobucco",
+    "country": "IT",
+    "lat": 39.4483,
+    "lng": 16.6105
+  },
+  {
+    "name": "Longobardi",
+    "country": "IT",
+    "lat": 39.21059,
+    "lng": 16.07464
+  },
+  {
+    "name": "Longi",
+    "country": "IT",
+    "lat": 38.02617,
+    "lng": 14.75306
+  },
+  {
+    "name": "Locri",
+    "country": "IT",
+    "lat": 38.23868,
+    "lng": 16.25957
+  },
+  {
+    "name": "Loceri",
+    "country": "IT",
+    "lat": 39.85816,
+    "lng": 9.58368
+  },
+  {
+    "name": "Lozzolo",
+    "country": "IT",
+    "lat": 45.61894,
+    "lng": 8.32284
+  },
+  {
+    "name": "Lozzo di Cadore",
+    "country": "IT",
+    "lat": 46.48644,
+    "lng": 12.44493
+  },
+  {
+    "name": "Lozzo Atestino",
+    "country": "IT",
+    "lat": 45.29384,
+    "lng": 11.60495
+  },
+  {
+    "name": "Lovere",
+    "country": "IT",
+    "lat": 45.81379,
+    "lng": 10.06995
+  },
+  {
+    "name": "Loseto",
+    "country": "IT",
+    "lat": 41.04214,
+    "lng": 16.84917
+  },
+  {
+    "name": "Lorsica",
+    "country": "IT",
+    "lat": 44.43415,
+    "lng": 9.27677
+  },
+  {
+    "name": "Loro Piceno",
+    "country": "IT",
+    "lat": 43.16442,
+    "lng": 13.41162
+  },
+  {
+    "name": "Loro Ciuffenna",
+    "country": "IT",
+    "lat": 43.58827,
+    "lng": 11.62885
+  },
+  {
+    "name": "Loria Bessica",
+    "country": "IT",
+    "lat": 45.73,
+    "lng": 11.8654
+  },
+  {
+    "name": "Loreto Aprutino",
+    "country": "IT",
+    "lat": 42.43104,
+    "lng": 13.98057
+  },
+  {
+    "name": "Loreto",
+    "country": "IT",
+    "lat": 43.43617,
+    "lng": 13.61232
+  },
+  {
+    "name": "Loreo",
+    "country": "IT",
+    "lat": 45.06213,
+    "lng": 12.18812
+  },
+  {
+    "name": "Lorenzana",
+    "country": "IT",
+    "lat": 43.53533,
+    "lng": 10.53477
+  },
+  {
+    "name": "Lorenzago di Cadore",
+    "country": "IT",
+    "lat": 46.47954,
+    "lng": 12.45984
+  },
+  {
+    "name": "Loreggiola",
+    "country": "IT",
+    "lat": 45.60892,
+    "lng": 11.91899
+  },
+  {
+    "name": "Loreggia",
+    "country": "IT",
+    "lat": 45.59733,
+    "lng": 11.94769
+  },
+  {
+    "name": "Loranzè",
+    "country": "IT",
+    "lat": 45.44269,
+    "lng": 7.81328
+  },
+  {
+    "name": "Lonigo",
+    "country": "IT",
+    "lat": 45.38576,
+    "lng": 11.38402
+  },
+  {
+    "name": "Longone Sabino",
+    "country": "IT",
+    "lat": 42.2726,
+    "lng": 12.96653
+  },
+  {
+    "name": "Longiano",
+    "country": "IT",
+    "lat": 44.07446,
+    "lng": 12.3297
+  },
+  {
+    "name": "Longastrino",
+    "country": "IT",
+    "lat": 44.58848,
+    "lng": 12.00982
+  },
+  {
+    "name": "Longarone",
+    "country": "IT",
+    "lat": 46.26579,
+    "lng": 12.29992
+  },
+  {
+    "name": "Longare",
+    "country": "IT",
+    "lat": 45.47726,
+    "lng": 11.60696
+  },
+  {
+    "name": "Longano",
+    "country": "IT",
+    "lat": 41.52199,
+    "lng": 14.24665
+  },
+  {
+    "name": "Londa",
+    "country": "IT",
+    "lat": 43.86344,
+    "lng": 11.56425
+  },
+  {
+    "name": "Lonato",
+    "country": "IT",
+    "lat": 45.46079,
+    "lng": 10.47732
+  },
+  {
+    "name": "Lonate Pozzolo",
+    "country": "IT",
+    "lat": 45.59213,
+    "lng": 8.75194
+  },
+  {
+    "name": "Lonate Ceppino",
+    "country": "IT",
+    "lat": 45.70863,
+    "lng": 8.87936
+  },
+  {
+    "name": "Lomello",
+    "country": "IT",
+    "lat": 45.12001,
+    "lng": 8.79612
+  },
+  {
+    "name": "Lombardore",
+    "country": "IT",
+    "lat": 45.2358,
+    "lng": 7.73703
+  },
+  {
+    "name": "Lomazzo",
+    "country": "IT",
+    "lat": 45.6967,
+    "lng": 9.03427
+  },
+  {
+    "name": "Lomagna",
+    "country": "IT",
+    "lat": 45.6664,
+    "lng": 9.37654
+  },
+  {
+    "name": "Loiri Porto San Paolo",
+    "country": "IT",
+    "lat": 40.84262,
+    "lng": 9.4982
+  },
+  {
+    "name": "Loiano",
+    "country": "IT",
+    "lat": 44.26806,
+    "lng": 11.32841
+  },
+  {
+    "name": "Lograto",
+    "country": "IT",
+    "lat": 45.48458,
+    "lng": 10.05664
+  },
+  {
+    "name": "Lodi Vecchio",
+    "country": "IT",
+    "lat": 45.30422,
+    "lng": 9.4176
+  },
+  {
+    "name": "Lodine",
+    "country": "IT",
+    "lat": 40.14926,
+    "lng": 9.21873
+  },
+  {
+    "name": "Lodi",
+    "country": "IT",
+    "lat": 45.30989,
+    "lng": 9.50085
+  },
+  {
+    "name": "Lodè",
+    "country": "IT",
+    "lat": 40.59137,
+    "lng": 9.53873
+  },
+  {
+    "name": "Loculi",
+    "country": "IT",
+    "lat": 40.40696,
+    "lng": 9.61056
+  },
+  {
+    "name": "Locorotondo",
+    "country": "IT",
+    "lat": 40.75661,
+    "lng": 17.32392
+  },
+  {
+    "name": "Locate Varesino",
+    "country": "IT",
+    "lat": 45.68969,
+    "lng": 8.92992
+  },
+  {
+    "name": "Locate di Triulzi",
+    "country": "IT",
+    "lat": 45.35691,
+    "lng": 9.22516
+  },
+  {
+    "name": "Locana",
+    "country": "IT",
+    "lat": 45.41419,
+    "lng": 7.45712
+  },
+  {
+    "name": "Loano",
+    "country": "IT",
+    "lat": 44.12777,
+    "lng": 8.25743
+  },
+  {
+    "name": "Lozza",
+    "country": "IT",
+    "lat": 45.77567,
+    "lng": 8.85773
+  },
+  {
+    "name": "Locatello",
+    "country": "IT",
+    "lat": 45.83518,
+    "lng": 9.53405
+  },
+  {
+    "name": "Lodrino",
+    "country": "IT",
+    "lat": 45.71969,
+    "lng": 10.27767
+  },
+  {
+    "name": "Lozio",
+    "country": "IT",
+    "lat": 45.98569,
+    "lng": 10.26096
+  },
+  {
+    "name": "Longhena",
+    "country": "IT",
+    "lat": 45.43768,
+    "lng": 10.05967
+  },
+  {
+    "name": "Losine",
+    "country": "IT",
+    "lat": 45.98349,
+    "lng": 10.31616
+  },
+  {
+    "name": "Lona-Lases",
+    "country": "IT",
+    "lat": 46.14421,
+    "lng": 11.21958
+  },
+  {
+    "name": "Longone al Segrino",
+    "country": "IT",
+    "lat": 45.81428,
+    "lng": 9.25144
+  },
+  {
+    "name": "Loazzolo",
+    "country": "IT",
+    "lat": 44.66904,
+    "lng": 8.25844
+  },
+  {
+    "name": "Loreglia",
+    "country": "IT",
+    "lat": 45.90687,
+    "lng": 8.37132
+  },
+  {
+    "name": "Lovero",
+    "country": "IT",
+    "lat": 46.2314,
+    "lng": 10.22856
+  },
+  {
+    "name": "Lombriasco",
+    "country": "IT",
+    "lat": 44.84094,
+    "lng": 7.63593
+  },
+  {
+    "name": "Lodrone-Darzo",
+    "country": "IT",
+    "lat": 45.82962,
+    "lng": 10.5356
+  },
+  {
+    "name": "Longara",
+    "country": "IT",
+    "lat": 44.5711,
+    "lng": 11.30386
+  },
+  {
+    "name": "Locara",
+    "country": "IT",
+    "lat": 45.41207,
+    "lng": 11.33262
+  },
+  {
+    "name": "Lodetto",
+    "country": "IT",
+    "lat": 45.55099,
+    "lng": 10.03175
+  },
+  {
+    "name": "Longhi",
+    "country": "IT",
+    "lat": 45.90744,
+    "lng": 11.31132
+  },
+  {
+    "name": "Loreto Stazione",
+    "country": "IT",
+    "lat": 43.44792,
+    "lng": 13.62016
+  },
+  {
+    "name": "Londiani",
+    "country": "KE",
+    "lat": -0.16552,
+    "lng": 35.59359
+  },
+  {
+    "name": "Lolgorien",
+    "country": "KE",
+    "lat": -1.22906,
+    "lng": 34.80711
+  },
+  {
+    "name": "Lokichokio",
+    "country": "KE",
+    "lat": 4.20771,
+    "lng": 34.35378
+  },
+  {
+    "name": "Lokichar",
+    "country": "KE",
+    "lat": 2.38116,
+    "lng": 35.65123
+  },
+  {
+    "name": "Lodwar",
+    "country": "KE",
+    "lat": 3.11988,
+    "lng": 35.59642
+  },
+  {
+    "name": "Loiyangalani",
+    "country": "KE",
+    "lat": 2.74439,
+    "lng": 36.7146
+  },
+  {
+    "name": "London Village",
+    "country": "KI",
+    "lat": 1.98487,
+    "lng": -157.47502
+  },
+  {
+    "name": "Lower Valley",
+    "country": "KY",
+    "lat": 19.2804,
+    "lng": -81.28431
+  },
+  {
+    "name": "Lorentzweiler",
+    "country": "LU",
+    "lat": 49.70131,
+    "lng": 6.14234
+  },
+  {
+    "name": "Loudaya",
+    "country": "MA",
+    "lat": 31.63348,
+    "lng": -8.24893
+  },
+  {
+    "name": "Loen",
+    "country": "MH",
+    "lat": 7.76007,
+    "lng": 168.23072
+  },
+  {
+    "name": "Lojane",
+    "country": "MK",
+    "lat": 42.23276,
+    "lng": 21.6655
+  },
+  {
+    "name": "Logovardi",
+    "country": "MK",
+    "lat": 41.03096,
+    "lng": 21.40967
+  },
+  {
+    "name": "Lozovo",
+    "country": "MK",
+    "lat": 41.78364,
+    "lng": 21.90615
+  },
+  {
+    "name": "Loikaw",
+    "country": "MM",
+    "lat": 19.67798,
+    "lng": 97.20975
+  },
+  {
+    "name": "Long Mountain",
+    "country": "MU",
+    "lat": -20.151,
+    "lng": 57.573
+  },
+  {
+    "name": "Los Aztecas",
+    "country": "MX",
+    "lat": 22.50015,
+    "lng": -98.61348
+  },
+  {
+    "name": "Loma Alta",
+    "country": "MX",
+    "lat": 22.88418,
+    "lng": -99.02605
+  },
+  {
+    "name": "Los Sauces",
+    "country": "MX",
+    "lat": 18.26656,
+    "lng": -99.83502
+  },
+  {
+    "name": "Los Plátanos",
+    "country": "MX",
+    "lat": 17.00556,
+    "lng": -92.74264
+  },
+  {
+    "name": "Los Romeros",
+    "country": "MX",
+    "lat": 20.02976,
+    "lng": -98.41496
+  },
+  {
+    "name": "Los Reyes Acatlixhuayán",
+    "country": "MX",
+    "lat": 19.20889,
+    "lng": -98.88242
+  },
+  {
+    "name": "Los Reyes",
+    "country": "MX",
+    "lat": 20.15529,
+    "lng": -98.16424
+  },
+  {
+    "name": "Los Reyes",
+    "country": "MX",
+    "lat": 19.68524,
+    "lng": -99.7645
+  },
+  {
+    "name": "Los Reyes Acaquilpan",
+    "country": "MX",
+    "lat": 19.36357,
+    "lng": -98.97707
+  },
+  {
+    "name": "Los Reyes de Juárez",
+    "country": "MX",
+    "lat": 18.94918,
+    "lng": -97.80379
+  },
+  {
+    "name": "Los Reyes",
+    "country": "MX",
+    "lat": 18.67062,
+    "lng": -97.0429
+  },
+  {
+    "name": "Los Ramones",
+    "country": "MX",
+    "lat": 25.69716,
+    "lng": -99.62529
+  },
+  {
+    "name": "Los Órganos de San Agustín",
+    "country": "MX",
+    "lat": 16.93488,
+    "lng": -99.82329
+  },
+  {
+    "name": "Los Naranjos",
+    "country": "MX",
+    "lat": 18.35448,
+    "lng": -96.16547
+  },
+  {
+    "name": "Los Molinos",
+    "country": "MX",
+    "lat": 19.59565,
+    "lng": -97.21513
+  },
+  {
+    "name": "Los Lirios",
+    "country": "MX",
+    "lat": 18.50058,
+    "lng": -95.38828
+  },
+  {
+    "name": "Los Ídolos",
+    "country": "MX",
+    "lat": 19.41173,
+    "lng": -96.51808
+  },
+  {
+    "name": "Los Herreras",
+    "country": "MX",
+    "lat": 25.90797,
+    "lng": -99.40479
+  },
+  {
+    "name": "Los Guerra",
+    "country": "MX",
+    "lat": 26.3914,
+    "lng": -99.07888
+  },
+  {
+    "name": "Los Cerritos",
+    "country": "MX",
+    "lat": 18.07884,
+    "lng": -94.61668
+  },
+  {
+    "name": "Los Ángeles Tetela",
+    "country": "MX",
+    "lat": 18.88995,
+    "lng": -98.16712
+  },
+  {
+    "name": "Los Altos",
+    "country": "MX",
+    "lat": 21.50976,
+    "lng": -97.75705
+  },
+  {
+    "name": "Los Aldamas",
+    "country": "MX",
+    "lat": 26.06217,
+    "lng": -99.19556
+  },
+  {
+    "name": "Lomas del Real",
+    "country": "MX",
+    "lat": 22.5206,
+    "lng": -97.90033
+  },
+  {
+    "name": "Loma Grande",
+    "country": "MX",
+    "lat": 18.9225,
+    "lng": -97.23083
+  },
+  {
+    "name": "Loma de Sogotegoyo",
+    "country": "MX",
+    "lat": 18.21896,
+    "lng": -94.97373
+  },
+  {
+    "name": "Loché",
+    "country": "MX",
+    "lat": 21.38828,
+    "lng": -88.14566
+  },
+  {
+    "name": "Los Robles",
+    "country": "MX",
+    "lat": 18.97305,
+    "lng": -96.11768
+  },
+  {
+    "name": "Los Cenotes",
+    "country": "MX",
+    "lat": 17.63458,
+    "lng": -91.0384
+  },
+  {
+    "name": "Los Cavazos",
+    "country": "MX",
+    "lat": 26.14743,
+    "lng": -98.34611
+  },
+  {
+    "name": "Lomas de Ahuatepec",
+    "country": "MX",
+    "lat": 18.97139,
+    "lng": -99.18972
+  },
+  {
+    "name": "Los Corazones",
+    "country": "MX",
+    "lat": 16.21026,
+    "lng": -94.07391
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "MX",
+    "lat": 17.39485,
+    "lng": -95.1654
+  },
+  {
+    "name": "Lomitas",
+    "country": "MX",
+    "lat": 18.06471,
+    "lng": -92.96144
+  },
+  {
+    "name": "Los Sabinos",
+    "country": "MX",
+    "lat": 20.31535,
+    "lng": -98.64862
+  },
+  {
+    "name": "Los Cides",
+    "country": "MX",
+    "lat": 19.80439,
+    "lng": -98.5187
+  },
+  {
+    "name": "Los Reyes Quiahuixtlan",
+    "country": "MX",
+    "lat": 19.33955,
+    "lng": -98.25155
+  },
+  {
+    "name": "Los Pilares",
+    "country": "MX",
+    "lat": 19.27159,
+    "lng": -97.94703
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "MX",
+    "lat": 17.78697,
+    "lng": -92.07651
+  },
+  {
+    "name": "Los Naranjos",
+    "country": "MX",
+    "lat": 17.26446,
+    "lng": -92.61972
+  },
+  {
+    "name": "Los Pozos",
+    "country": "MX",
+    "lat": 16.6477,
+    "lng": -92.40726
+  },
+  {
+    "name": "Lomantán",
+    "country": "MX",
+    "lat": 16.43999,
+    "lng": -92.06445
+  },
+  {
+    "name": "Los Riegos",
+    "country": "MX",
+    "lat": 16.30457,
+    "lng": -92.12425
+  },
+  {
+    "name": "Los Saucos",
+    "country": "MX",
+    "lat": 19.1652,
+    "lng": -99.99895
+  },
+  {
+    "name": "Lomas de San Sebastián",
+    "country": "MX",
+    "lat": 19.38206,
+    "lng": -98.9332
+  },
+  {
+    "name": "Los Arana",
+    "country": "MX",
+    "lat": 19.70981,
+    "lng": -99.50222
+  },
+  {
+    "name": "Lomas de Chapultepec",
+    "country": "MX",
+    "lat": 16.71615,
+    "lng": -99.61021
+  },
+  {
+    "name": "Lomas de San Juan",
+    "country": "MX",
+    "lat": 16.98468,
+    "lng": -99.80384
+  },
+  {
+    "name": "Los Tepetates",
+    "country": "MX",
+    "lat": 17.05893,
+    "lng": -99.24728
+  },
+  {
+    "name": "Los Saucitos",
+    "country": "MX",
+    "lat": 16.98549,
+    "lng": -99.29998
+  },
+  {
+    "name": "Los Divorciados",
+    "country": "MX",
+    "lat": 19.07687,
+    "lng": -88.45647
+  },
+  {
+    "name": "Los Pescados",
+    "country": "MX",
+    "lat": 19.56114,
+    "lng": -97.14848
+  },
+  {
+    "name": "Los Altos",
+    "country": "MX",
+    "lat": 19.4462,
+    "lng": -97.20218
+  },
+  {
+    "name": "Loma de los Carmona",
+    "country": "MX",
+    "lat": 19.10556,
+    "lng": -96.39369
+  },
+  {
+    "name": "Loma Angosta",
+    "country": "MX",
+    "lat": 18.78309,
+    "lng": -96.67588
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "MX",
+    "lat": 18.10721,
+    "lng": -95.87904
+  },
+  {
+    "name": "Loma del Río",
+    "country": "MX",
+    "lat": 19.60056,
+    "lng": -99.35056
+  },
+  {
+    "name": "Loma Alta",
+    "country": "MX",
+    "lat": 19.68944,
+    "lng": -99.44917
+  },
+  {
+    "name": "Los Zacatones",
+    "country": "MX",
+    "lat": 22.96139,
+    "lng": -102.05556
+  },
+  {
+    "name": "Lo de Jesús (Campo Romero)",
+    "country": "MX",
+    "lat": 24.68,
+    "lng": -107.54556
+  },
+  {
+    "name": "Los Azulitos",
+    "country": "MX",
+    "lat": 21.8461,
+    "lng": -101.96527
+  },
+  {
+    "name": "Lo de Marcos",
+    "country": "MX",
+    "lat": 20.95509,
+    "lng": -105.35223
+  },
+  {
+    "name": "Lourdes",
+    "country": "MX",
+    "lat": 20.51274,
+    "lng": -100.47654
+  },
+  {
+    "name": "Los Tepames",
+    "country": "MX",
+    "lat": 19.09389,
+    "lng": -103.6225
+  },
+  {
+    "name": "Los Taxtes",
+    "country": "MX",
+    "lat": 25.91593,
+    "lng": -108.93535
+  },
+  {
+    "name": "Los Rodríguez",
+    "country": "MX",
+    "lat": 21.04311,
+    "lng": -100.64361
+  },
+  {
+    "name": "Los Reyes de Salgado",
+    "country": "MX",
+    "lat": 19.59042,
+    "lng": -102.47242
+  },
+  {
+    "name": "Los Remedios",
+    "country": "MX",
+    "lat": 19.9781,
+    "lng": -102.67954
+  },
+  {
+    "name": "Los Ramírez",
+    "country": "MX",
+    "lat": 23.84628,
+    "lng": -103.03192
+  },
+  {
+    "name": "Los Pocitos",
+    "country": "MX",
+    "lat": 20.79955,
+    "lng": -100.31456
+  },
+  {
+    "name": "Los Pocitos",
+    "country": "MX",
+    "lat": 20.53771,
+    "lng": -103.93793
+  },
+  {
+    "name": "Los Pilares",
+    "country": "MX",
+    "lat": 20.32582,
+    "lng": -102.37322
+  },
+  {
+    "name": "Los Otates",
+    "country": "MX",
+    "lat": 21.70427,
+    "lng": -105.37622
+  },
+  {
+    "name": "Los Nogales",
+    "country": "MX",
+    "lat": 19.85734,
+    "lng": -102.15612
+  },
+  {
+    "name": "Los Mochis",
+    "country": "MX",
+    "lat": 25.79097,
+    "lng": -108.99825
+  },
+  {
+    "name": "Los Limones",
+    "country": "MX",
+    "lat": 19.60032,
+    "lng": -102.53038
+  },
+  {
+    "name": "Los Hucuares",
+    "country": "MX",
+    "lat": 19.89916,
+    "lng": -102.49759
+  },
+  {
+    "name": "Los Hoyos",
+    "country": "MX",
+    "lat": 30.12444,
+    "lng": -109.78222
+  },
+  {
+    "name": "Los Guajes",
+    "country": "MX",
+    "lat": 20.26111,
+    "lng": -102.14164
+  },
+  {
+    "name": "Los Gavilanes",
+    "country": "MX",
+    "lat": 20.56949,
+    "lng": -103.45405
+  },
+  {
+    "name": "Los Galvan",
+    "country": "MX",
+    "lat": 21.06377,
+    "lng": -100.80114
+  },
+  {
+    "name": "Los Conos",
+    "country": "MX",
+    "lat": 21.89739,
+    "lng": -101.99487
+  },
+  {
+    "name": "Los Charcos",
+    "country": "MX",
+    "lat": 20.26459,
+    "lng": -102.40815
+  },
+  {
+    "name": "Los Barriles",
+    "country": "MX",
+    "lat": 23.68273,
+    "lng": -109.69953
+  },
+  {
+    "name": "Los Arquitos",
+    "country": "MX",
+    "lat": 21.92299,
+    "lng": -102.38554
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "MX",
+    "lat": 25.60239,
+    "lng": -108.48093
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "MX",
+    "lat": 25.51861,
+    "lng": -103.56173
+  },
+  {
+    "name": "Los Algodones",
+    "country": "MX",
+    "lat": 32.7,
+    "lng": -114.73333
+  },
+  {
+    "name": "Los Álamos",
+    "country": "MX",
+    "lat": 28.35611,
+    "lng": -100.94636
+  },
+  {
+    "name": "Los Aguajes",
+    "country": "MX",
+    "lat": 21.10729,
+    "lng": -104.35447
+  },
+  {
+    "name": "Loreto",
+    "country": "MX",
+    "lat": 26.01217,
+    "lng": -111.34888
+  },
+  {
+    "name": "Loreto",
+    "country": "MX",
+    "lat": 23.85032,
+    "lng": -103.01083
+  },
+  {
+    "name": "Loreto",
+    "country": "MX",
+    "lat": 22.27194,
+    "lng": -101.98602
+  },
+  {
+    "name": "Lombardía",
+    "country": "MX",
+    "lat": 19.15806,
+    "lng": -102.05111
+  },
+  {
+    "name": "Loma Tendida",
+    "country": "MX",
+    "lat": 20.3756,
+    "lng": -101.31057
+  },
+  {
+    "name": "Lomas de Tejeda",
+    "country": "MX",
+    "lat": 20.46387,
+    "lng": -103.40685
+  },
+  {
+    "name": "Loma Pelada",
+    "country": "MX",
+    "lat": 20.57222,
+    "lng": -101.29417
+  },
+  {
+    "name": "Loma de Guamúchil",
+    "country": "MX",
+    "lat": 27.61063,
+    "lng": -109.98763
+  },
+  {
+    "name": "Loma de Bácum",
+    "country": "MX",
+    "lat": 27.58757,
+    "lng": -110.08632
+  },
+  {
+    "name": "Loma Blanca",
+    "country": "MX",
+    "lat": 31.57972,
+    "lng": -106.2986
+  },
+  {
+    "name": "Lo de Lamedo",
+    "country": "MX",
+    "lat": 21.53843,
+    "lng": -104.93945
+  },
+  {
+    "name": "Lobatos",
+    "country": "MX",
+    "lat": 22.82407,
+    "lng": -103.40599
+  },
+  {
+    "name": "Lo Arado",
+    "country": "MX",
+    "lat": 19.62139,
+    "lng": -104.53444
+  },
+  {
+    "name": "Los Cedros",
+    "country": "MX",
+    "lat": 20.3898,
+    "lng": -103.2325
+  },
+  {
+    "name": "Los Remedios",
+    "country": "MX",
+    "lat": 21.18492,
+    "lng": -100.19919
+  },
+  {
+    "name": "Los Lorenzos",
+    "country": "MX",
+    "lat": 21.07229,
+    "lng": -101.3758
+  },
+  {
+    "name": "Loza de los Padres",
+    "country": "MX",
+    "lat": 21.07181,
+    "lng": -101.54603
+  },
+  {
+    "name": "Los Arcos",
+    "country": "MX",
+    "lat": 21.04928,
+    "lng": -101.68864
+  },
+  {
+    "name": "Los Ramírez",
+    "country": "MX",
+    "lat": 21.01942,
+    "lng": -101.64411
+  },
+  {
+    "name": "Los Prietos",
+    "country": "MX",
+    "lat": 20.57513,
+    "lng": -101.26574
+  },
+  {
+    "name": "Loma de la Esperanza",
+    "country": "MX",
+    "lat": 20.65927,
+    "lng": -101.5567
+  },
+  {
+    "name": "Loza de Barrera",
+    "country": "MX",
+    "lat": 20.98461,
+    "lng": -101.52972
+  },
+  {
+    "name": "Los Medranos",
+    "country": "MX",
+    "lat": 20.88283,
+    "lng": -101.4364
+  },
+  {
+    "name": "Los Rodríguez",
+    "country": "MX",
+    "lat": 20.93624,
+    "lng": -101.36257
+  },
+  {
+    "name": "Los Desmontes",
+    "country": "MX",
+    "lat": 19.95662,
+    "lng": -100.73917
+  },
+  {
+    "name": "Los Fierros",
+    "country": "MX",
+    "lat": 20.19353,
+    "lng": -100.75941
+  },
+  {
+    "name": "Los Ocotes",
+    "country": "MX",
+    "lat": 20.4156,
+    "lng": -101.96108
+  },
+  {
+    "name": "Loma de Zempoala",
+    "country": "MX",
+    "lat": 20.29182,
+    "lng": -101.08023
+  },
+  {
+    "name": "Los Cajones",
+    "country": "MX",
+    "lat": 19.20964,
+    "lng": -101.91317
+  },
+  {
+    "name": "Loma de Juárez",
+    "country": "MX",
+    "lat": 19.43523,
+    "lng": -100.0902
+  },
+  {
+    "name": "Los Berros",
+    "country": "MX",
+    "lat": 19.39771,
+    "lng": -100.0484
+  },
+  {
+    "name": "Los Almendros",
+    "country": "MX",
+    "lat": 17.61167,
+    "lng": -101.43917
+  },
+  {
+    "name": "Los Mogotes",
+    "country": "MX",
+    "lat": 16.9417,
+    "lng": -100.07653
+  },
+  {
+    "name": "Los Olvera",
+    "country": "MX",
+    "lat": 20.53349,
+    "lng": -100.40901
+  },
+  {
+    "name": "Los Cerritos",
+    "country": "MX",
+    "lat": 20.56161,
+    "lng": -100.06341
+  },
+  {
+    "name": "Loma Linda",
+    "country": "MX",
+    "lat": 20.40061,
+    "lng": -100.03134
+  },
+  {
+    "name": "Lomas del Sur",
+    "country": "MX",
+    "lat": 20.4925,
+    "lng": -103.4175
+  },
+  {
+    "name": "Lomas de San Agustín",
+    "country": "MX",
+    "lat": 20.5275,
+    "lng": -103.46778
+  },
+  {
+    "name": "Lomas de Barrillas",
+    "country": "MX",
+    "lat": 18.14806,
+    "lng": -94.52639
+  },
+  {
+    "name": "Los Olivos",
+    "country": "MX",
+    "lat": 20.43917,
+    "lng": -103.23778
+  },
+  {
+    "name": "Los Ruiseñores",
+    "country": "MX",
+    "lat": 20.71083,
+    "lng": -103.69139
+  },
+  {
+    "name": "Lomas de Santa Anita",
+    "country": "MX",
+    "lat": 32.54278,
+    "lng": -116.65139
+  },
+  {
+    "name": "Lomas Verdes",
+    "country": "MX",
+    "lat": 19.50446,
+    "lng": -96.88899
+  },
+  {
+    "name": "Lomas de Altavista",
+    "country": "MX",
+    "lat": 19.36139,
+    "lng": -98.94472
+  },
+  {
+    "name": "Loma la Paz",
+    "country": "MX",
+    "lat": 25.71111,
+    "lng": -100.13472
+  },
+  {
+    "name": "Los Arcos",
+    "country": "MX",
+    "lat": 18.88722,
+    "lng": -99.02417
+  },
+  {
+    "name": "Los Tuzos",
+    "country": "MX",
+    "lat": 20.05389,
+    "lng": -98.75639
+  },
+  {
+    "name": "Los Torrentes",
+    "country": "MX",
+    "lat": 19.20194,
+    "lng": -96.21139
+  },
+  {
+    "name": "Lo de Juárez",
+    "country": "MX",
+    "lat": 20.76833,
+    "lng": -101.34111
+  },
+  {
+    "name": "Loma Larga",
+    "country": "MX",
+    "lat": 19.6275,
+    "lng": -99.34611
+  },
+  {
+    "name": "Los Tigres (San Marcos)",
+    "country": "MX",
+    "lat": 17.89056,
+    "lng": -95.34944
+  },
+  {
+    "name": "Los Valles",
+    "country": "MX",
+    "lat": 32.3925,
+    "lng": -116.955
+  },
+  {
+    "name": "Los Cafetales",
+    "country": "MX",
+    "lat": 14.86745,
+    "lng": -92.302
+  },
+  {
+    "name": "Lomas de Río Medio Cuatro",
+    "country": "MX",
+    "lat": 19.19333,
+    "lng": -96.21056
+  },
+  {
+    "name": "Los Mangos",
+    "country": "MX",
+    "lat": 18.24361,
+    "lng": -95.12222
+  },
+  {
+    "name": "Loma de San José",
+    "country": "MX",
+    "lat": 19.64222,
+    "lng": -99.32778
+  },
+  {
+    "name": "Lomas de la Maestranza",
+    "country": "MX",
+    "lat": 19.6875,
+    "lng": -101.33028
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "MX",
+    "lat": 18.93144,
+    "lng": -99.17564
+  },
+  {
+    "name": "Los Laureles",
+    "country": "MX",
+    "lat": 19.48778,
+    "lng": -89.99444
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "MX",
+    "lat": 19.18722,
+    "lng": -100.215
+  },
+  {
+    "name": "Loma Larga (Barrio de Loma Larga)",
+    "country": "MX",
+    "lat": 19.86722,
+    "lng": -99.11611
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "MX",
+    "lat": 20.55361,
+    "lng": -100.94167
+  },
+  {
+    "name": "Los Dolores (Las Quince Letras)",
+    "country": "MX",
+    "lat": 21.31778,
+    "lng": -100.56583
+  },
+  {
+    "name": "Loma Alta Taxhimay",
+    "country": "MX",
+    "lat": 19.84222,
+    "lng": -99.40806
+  },
+  {
+    "name": "Los Parques",
+    "country": "MX",
+    "lat": 25.79073,
+    "lng": -100.46992
+  },
+  {
+    "name": "Los Reyes Tlanechicolpan",
+    "country": "MX",
+    "lat": 19.0325,
+    "lng": -98.3525
+  },
+  {
+    "name": "Loma de San Miguel",
+    "country": "MX",
+    "lat": 19.34194,
+    "lng": -99.79167
+  },
+  {
+    "name": "Los Cues",
+    "country": "MX",
+    "lat": 20.50194,
+    "lng": -100.26417
+  },
+  {
+    "name": "Los Cristales (Talican)",
+    "country": "MX",
+    "lat": 19.87237,
+    "lng": -97.59424
+  },
+  {
+    "name": "Los Nicolases",
+    "country": "MX",
+    "lat": 20.85806,
+    "lng": -101.3175
+  },
+  {
+    "name": "Los Condes",
+    "country": "MX",
+    "lat": 23.83889,
+    "lng": -103.07861
+  },
+  {
+    "name": "Lomas de Tepemecatl",
+    "country": "MX",
+    "lat": 19.23861,
+    "lng": -99.23944
+  },
+  {
+    "name": "Loma de los Hoyos",
+    "country": "MX",
+    "lat": 19.03556,
+    "lng": -102.44278
+  },
+  {
+    "name": "Lomas de San Pablo",
+    "country": "MX",
+    "lat": 19.2025,
+    "lng": -98.91778
+  },
+  {
+    "name": "Lomas de San Martín",
+    "country": "MX",
+    "lat": 25.74722,
+    "lng": -100.11972
+  },
+  {
+    "name": "Los Bahuises",
+    "country": "MX",
+    "lat": 27.11667,
+    "lng": -109.46722
+  },
+  {
+    "name": "Los Mancera",
+    "country": "MX",
+    "lat": 20.47028,
+    "lng": -100.80389
+  },
+  {
+    "name": "Loma de Guadalupe (La Biznaga)",
+    "country": "MX",
+    "lat": 19.65219,
+    "lng": -99.36873
+  },
+  {
+    "name": "Los Pinos",
+    "country": "MX",
+    "lat": 18.44389,
+    "lng": -95.24333
+  },
+  {
+    "name": "Los Encinos",
+    "country": "MX",
+    "lat": 19.17917,
+    "lng": -98.39833
+  },
+  {
+    "name": "Los Dulces Nombres",
+    "country": "MX",
+    "lat": 20.64806,
+    "lng": -100.96472
+  },
+  {
+    "name": "Loma de San Francisco",
+    "country": "MX",
+    "lat": 19.28333,
+    "lng": -99.80917
+  },
+  {
+    "name": "Los Palacios",
+    "country": "MX",
+    "lat": 14.85718,
+    "lng": -92.25821
+  },
+  {
+    "name": "Lomas de Santa Cruz",
+    "country": "MX",
+    "lat": 18.92444,
+    "lng": -97.73
+  },
+  {
+    "name": "Los Achotes",
+    "country": "MX",
+    "lat": 17.60056,
+    "lng": -101.4175
+  },
+  {
+    "name": "Los Caños",
+    "country": "MX",
+    "lat": 21.78167,
+    "lng": -102.4675
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "MX",
+    "lat": 19.26333,
+    "lng": -99.44722
+  },
+  {
+    "name": "Los Naranjos Esquipulas",
+    "country": "MX",
+    "lat": 15.98167,
+    "lng": -96.45889
+  },
+  {
+    "name": "Los Naranjos",
+    "country": "MX",
+    "lat": 18.33111,
+    "lng": -95.24167
+  },
+  {
+    "name": "Los Garcías",
+    "country": "MX",
+    "lat": 18.80333,
+    "lng": -97.39417
+  },
+  {
+    "name": "Los Benitos",
+    "country": "MX",
+    "lat": 20.685,
+    "lng": -99.95611
+  },
+  {
+    "name": "Los Pozos",
+    "country": "MX",
+    "lat": 23.00944,
+    "lng": -106.1525
+  },
+  {
+    "name": "Los Sauces",
+    "country": "MX",
+    "lat": 18.03335,
+    "lng": -92.91693
+  },
+  {
+    "name": "Los Liros",
+    "country": "MX",
+    "lat": 16.73972,
+    "lng": -98.21722
+  },
+  {
+    "name": "Lomas de Romero",
+    "country": "MX",
+    "lat": 18.91444,
+    "lng": -97.71722
+  },
+  {
+    "name": "Lomas de Tlatelolco",
+    "country": "MX",
+    "lat": 32.48306,
+    "lng": -116.80167
+  },
+  {
+    "name": "Los Pinos",
+    "country": "MX",
+    "lat": 16.92083,
+    "lng": -92.10861
+  },
+  {
+    "name": "Loma de Yerbabuena",
+    "country": "MX",
+    "lat": 21.06056,
+    "lng": -101.44944
+  },
+  {
+    "name": "Los Olivos",
+    "country": "MX",
+    "lat": 19.20778,
+    "lng": -102.86194
+  },
+  {
+    "name": "Loma Chapultepec",
+    "country": "MX",
+    "lat": 18.11972,
+    "lng": -96.83917
+  },
+  {
+    "name": "Lodo Grande",
+    "country": "MX",
+    "lat": 17.60972,
+    "lng": -99.21194
+  },
+  {
+    "name": "Loma Bonita",
+    "country": "MX",
+    "lat": 18.51333,
+    "lng": -96.86778
+  },
+  {
+    "name": "Loma del Refugio",
+    "country": "MX",
+    "lat": 27.12194,
+    "lng": -109.45917
+  },
+  {
+    "name": "Loma Alta",
+    "country": "MX",
+    "lat": 19.79716,
+    "lng": -98.02712
+  },
+  {
+    "name": "Lomas de Tenopalco",
+    "country": "MX",
+    "lat": 19.70232,
+    "lng": -99.11237
+  },
+  {
+    "name": "Long Bedian",
+    "country": "MY",
+    "lat": 3.8,
+    "lng": 114.73333
+  },
+  {
+    "name": "Long Lama",
+    "country": "MY",
+    "lat": 3.76667,
+    "lng": 114.4
+  },
+  {
+    "name": "Long Ampan Aing or Abanang",
+    "country": "MY",
+    "lat": 2.65671,
+    "lng": 114.73675
+  },
+  {
+    "name": "Logicoop",
+    "country": "NC",
+    "lat": -22.23528,
+    "lng": 166.43455
+  },
+  {
+    "name": "Loga",
+    "country": "NE",
+    "lat": 13.6132,
+    "lng": 3.2358
+  },
+  {
+    "name": "Lokoja",
+    "country": "NG",
+    "lat": 7.79688,
+    "lng": 6.74048
+  },
+  {
+    "name": "Loven",
+    "country": "NL",
+    "lat": 51.5648,
+    "lng": 5.09748
+  },
+  {
+    "name": "Lottum",
+    "country": "NL",
+    "lat": 51.46167,
+    "lng": 6.16111
+  },
+  {
+    "name": "Losser",
+    "country": "NL",
+    "lat": 52.26083,
+    "lng": 7.00417
+  },
+  {
+    "name": "Loppersum",
+    "country": "NL",
+    "lat": 53.33167,
+    "lng": 6.74722
+  },
+  {
+    "name": "Lopik",
+    "country": "NL",
+    "lat": 51.9725,
+    "lng": 4.94861
+  },
+  {
+    "name": "Loosbroek",
+    "country": "NL",
+    "lat": 51.67833,
+    "lng": 5.50694
+  },
+  {
+    "name": "Loon op Zand",
+    "country": "NL",
+    "lat": 51.6275,
+    "lng": 5.075
+  },
+  {
+    "name": "Lombardijen",
+    "country": "NL",
+    "lat": 51.8738,
+    "lng": 4.52192
+  },
+  {
+    "name": "Loenen",
+    "country": "NL",
+    "lat": 52.1175,
+    "lng": 6.01944
+  },
+  {
+    "name": "Lochem",
+    "country": "NL",
+    "lat": 52.15917,
+    "lng": 6.41111
+  },
+  {
+    "name": "Lobith",
+    "country": "NL",
+    "lat": 51.8625,
+    "lng": 6.11806
+  },
+  {
+    "name": "Lonevåg",
+    "country": "NO",
+    "lat": 60.52556,
+    "lng": 5.49563
+  },
+  {
+    "name": "Lobuche",
+    "country": "NP",
+    "lat": 27.94806,
+    "lng": 86.81017
+  },
+  {
+    "name": "Lower Hutt",
+    "country": "NZ",
+    "lat": -41.21667,
+    "lng": 174.91667
+  },
+  {
+    "name": "Loburn",
+    "country": "NZ",
+    "lat": -43.25,
+    "lng": 172.53333
+  },
+  {
+    "name": "Los Valles",
+    "country": "PA",
+    "lat": 8.44613,
+    "lng": -81.19663
+  },
+  {
+    "name": "Los Santos",
+    "country": "PA",
+    "lat": 7.93445,
+    "lng": -80.41218
+  },
+  {
+    "name": "Los Pozos",
+    "country": "PA",
+    "lat": 7.78805,
+    "lng": -80.64569
+  },
+  {
+    "name": "Los Olivos",
+    "country": "PA",
+    "lat": 7.91852,
+    "lng": -80.48801
+  },
+  {
+    "name": "Los Naranjos",
+    "country": "PA",
+    "lat": 8.79419,
+    "lng": -82.44557
+  },
+  {
+    "name": "Los Lotes",
+    "country": "PA",
+    "lat": 9.12542,
+    "lng": -79.29101
+  },
+  {
+    "name": "Los Llanitos",
+    "country": "PA",
+    "lat": 8.59853,
+    "lng": -80.0932
+  },
+  {
+    "name": "Los Higos",
+    "country": "PA",
+    "lat": 8.20553,
+    "lng": -80.86022
+  },
+  {
+    "name": "Los Corotúes",
+    "country": "PA",
+    "lat": 8.41171,
+    "lng": -81.0997
+  },
+  {
+    "name": "Los Cerros de Paja",
+    "country": "PA",
+    "lat": 7.72064,
+    "lng": -80.67081
+  },
+  {
+    "name": "Los Cerritos",
+    "country": "PA",
+    "lat": 7.79952,
+    "lng": -80.60641
+  },
+  {
+    "name": "Los Castillos",
+    "country": "PA",
+    "lat": 8.02459,
+    "lng": -81.11667
+  },
+  {
+    "name": "Los Castillos",
+    "country": "PA",
+    "lat": 7.98744,
+    "lng": -80.61926
+  },
+  {
+    "name": "Los Canelos",
+    "country": "PA",
+    "lat": 8.12217,
+    "lng": -80.70526
+  },
+  {
+    "name": "Los Asientos",
+    "country": "PA",
+    "lat": 7.51848,
+    "lng": -80.13289
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "PA",
+    "lat": 8.52571,
+    "lng": -82.20286
+  },
+  {
+    "name": "Los Ángeles",
+    "country": "PA",
+    "lat": 7.88463,
+    "lng": -80.35497
+  },
+  {
+    "name": "Los Anastacios",
+    "country": "PA",
+    "lat": 8.53027,
+    "lng": -82.42295
+  },
+  {
+    "name": "Los Algarrobos",
+    "country": "PA",
+    "lat": 8.49674,
+    "lng": -82.42417
+  },
+  {
+    "name": "Los Algarrobos",
+    "country": "PA",
+    "lat": 8.11291,
+    "lng": -81.01524
+  },
+  {
+    "name": "Lolá",
+    "country": "PA",
+    "lat": 8.09263,
+    "lng": -81.46653
+  },
+  {
+    "name": "Los Algarrobos Arriba",
+    "country": "PA",
+    "lat": 8.52001,
+    "lng": -82.42451
+  },
+  {
+    "name": "Loma Yuca",
+    "country": "PA",
+    "lat": 8.72184,
+    "lng": -81.40208
+  },
+  {
+    "name": "Los Pollos",
+    "country": "PA",
+    "lat": 8.40698,
+    "lng": -80.15715
+  },
+  {
+    "name": "Los Organos",
+    "country": "PE",
+    "lat": -4.17806,
+    "lng": -81.12472
+  },
+  {
+    "name": "Los Baños del Inca",
+    "country": "PE",
+    "lat": -7.16382,
+    "lng": -78.46484
+  },
+  {
+    "name": "Lonya Grande",
+    "country": "PE",
+    "lat": -6.095,
+    "lng": -78.42139
+  },
+  {
+    "name": "Lonya Chico",
+    "country": "PE",
+    "lat": -6.22938,
+    "lng": -77.95501
+  },
+  {
+    "name": "Longuita",
+    "country": "PE",
+    "lat": -6.41417,
+    "lng": -77.96861
+  },
+  {
+    "name": "Longotea",
+    "country": "PE",
+    "lat": -7.06667,
+    "lng": -77.91667
+  },
+  {
+    "name": "Longar",
+    "country": "PE",
+    "lat": -6.38511,
+    "lng": -77.54636
+  },
+  {
+    "name": "Lobitos",
+    "country": "PE",
+    "lat": -4.45674,
+    "lng": -81.28487
+  },
+  {
+    "name": "Los Aquijes",
+    "country": "PE",
+    "lat": -14.09667,
+    "lng": -75.69083
+  },
+  {
+    "name": "Locumba",
+    "country": "PE",
+    "lat": -17.61317,
+    "lng": -70.76266
+  },
+  {
+    "name": "Locroja",
+    "country": "PE",
+    "lat": -12.74031,
+    "lng": -74.4418
+  },
+  {
+    "name": "Lorengau",
+    "country": "PG",
+    "lat": -2.0341,
+    "lng": 147.27173
+  },
+  {
+    "name": "Locmayan",
+    "country": "PH",
+    "lat": 10.4726,
+    "lng": 122.519
+  },
+  {
+    "name": "Loyola",
+    "country": "PH",
+    "lat": 8.33492,
+    "lng": 126.33366
+  },
+  {
+    "name": "Lourdes",
+    "country": "PH",
+    "lat": 15.0193,
+    "lng": 120.8511
+  },
+  {
+    "name": "Lourdes",
+    "country": "PH",
+    "lat": 14.96667,
+    "lng": 120.68333
+  },
+  {
+    "name": "Lourdes",
+    "country": "PH",
+    "lat": 13.3899,
+    "lng": 123.3735
+  },
+  {
+    "name": "Lourdes",
+    "country": "PH",
+    "lat": 8.525,
+    "lng": 124.43222
+  },
+  {
+    "name": "Los Baños",
+    "country": "PH",
+    "lat": 14.17025,
+    "lng": 121.24181
+  },
+  {
+    "name": "Los Arcos",
+    "country": "PH",
+    "lat": 8.63278,
+    "lng": 125.98556
+  },
+  {
+    "name": "Los Angeles",
+    "country": "PH",
+    "lat": 9.0125,
+    "lng": 125.60806
+  },
+  {
+    "name": "Loreto",
+    "country": "PH",
+    "lat": 10.36361,
+    "lng": 125.57306
+  },
+  {
+    "name": "Loreto",
+    "country": "PH",
+    "lat": 8.18694,
+    "lng": 125.85306
+  },
+  {
+    "name": "Lopez Jaena",
+    "country": "PH",
+    "lat": 10.8478,
+    "lng": 123.4141
+  },
+  {
+    "name": "Lopez Jaena",
+    "country": "PH",
+    "lat": 8.5528,
+    "lng": 123.7615
+  },
+  {
+    "name": "Lopez",
+    "country": "PH",
+    "lat": 13.884,
+    "lng": 122.2604
+  },
+  {
+    "name": "Lope de Vega",
+    "country": "PH",
+    "lat": 12.2983,
+    "lng": 124.6238
+  },
+  {
+    "name": "Loon",
+    "country": "PH",
+    "lat": 9.7998,
+    "lng": 123.7929
+  },
+  {
+    "name": "Lookan",
+    "country": "PH",
+    "lat": 5.037,
+    "lng": 120.1027
+  },
+  {
+    "name": "Looc",
+    "country": "PH",
+    "lat": 8.84333,
+    "lng": 124.79167
+  },
+  {
+    "name": "Looc",
+    "country": "PH",
+    "lat": 14.1648,
+    "lng": 120.6293
+  },
+  {
+    "name": "Looc",
+    "country": "PH",
+    "lat": 13.72036,
+    "lng": 120.24982
+  },
+  {
+    "name": "Looc",
+    "country": "PH",
+    "lat": 12.2605,
+    "lng": 121.9926
+  },
+  {
+    "name": "Looc",
+    "country": "PH",
+    "lat": 11.4788,
+    "lng": 124.5542
+  },
+  {
+    "name": "Lono",
+    "country": "PH",
+    "lat": 11.51361,
+    "lng": 122.72972
+  },
+  {
+    "name": "Lonoy",
+    "country": "PH",
+    "lat": 11.51222,
+    "lng": 122.55333
+  },
+  {
+    "name": "Longos",
+    "country": "PH",
+    "lat": 16.10734,
+    "lng": 120.39658
+  },
+  {
+    "name": "Lomboy",
+    "country": "PH",
+    "lat": 15.49255,
+    "lng": 120.71723
+  },
+  {
+    "name": "Lombog",
+    "country": "PH",
+    "lat": 9.7788,
+    "lng": 124.4174
+  },
+  {
+    "name": "Lombocan",
+    "country": "PH",
+    "lat": 9.00767,
+    "lng": 125.50558
+  },
+  {
+    "name": "Loma de Gato",
+    "country": "PH",
+    "lat": 14.78869,
+    "lng": 120.99889
+  },
+  {
+    "name": "Loqueb Este",
+    "country": "PH",
+    "lat": 15.94481,
+    "lng": 120.44607
+  },
+  {
+    "name": "Logon",
+    "country": "PH",
+    "lat": 11.3303,
+    "lng": 124.1146
+  },
+  {
+    "name": "Lobong",
+    "country": "PH",
+    "lat": 16.0815,
+    "lng": 120.4704
+  },
+  {
+    "name": "Loboc",
+    "country": "PH",
+    "lat": 9.63833,
+    "lng": 124.03482
+  },
+  {
+    "name": "Lobo",
+    "country": "PH",
+    "lat": 13.6481,
+    "lng": 121.2112
+  },
+  {
+    "name": "Loay",
+    "country": "PH",
+    "lat": 9.6006,
+    "lng": 124.0142
+  },
+  {
+    "name": "Loacan",
+    "country": "PH",
+    "lat": 16.55,
+    "lng": 120.66667
+  },
+  {
+    "name": "Lopez Jaena",
+    "country": "PH",
+    "lat": 6.47591,
+    "lng": 124.69828
+  },
+  {
+    "name": "Loralai",
+    "country": "PK",
+    "lat": 30.37051,
+    "lng": 68.59795
+  },
+  {
+    "name": "Lodhran",
+    "country": "PK",
+    "lat": 29.5339,
+    "lng": 71.63244
+  },
+  {
+    "name": "Loíza",
+    "country": "PR",
+    "lat": 18.43134,
+    "lng": -65.88016
+  },
+  {
+    "name": "Los Llanos",
+    "country": "PR",
+    "lat": 18.05524,
+    "lng": -66.40573
+  },
+  {
+    "name": "Lourinhã",
+    "country": "PT",
+    "lat": 39.24166,
+    "lng": -9.31254
+  },
+  {
+    "name": "Louriçal",
+    "country": "PT",
+    "lat": 40.0039,
+    "lng": -8.73736
+  },
+  {
+    "name": "Loures",
+    "country": "PT",
+    "lat": 38.83091,
+    "lng": -9.16845
+  },
+  {
+    "name": "Loureira",
+    "country": "PT",
+    "lat": 39.65997,
+    "lng": -8.68787
+  },
+  {
+    "name": "Loulé",
+    "country": "PT",
+    "lat": 37.13772,
+    "lng": -8.01968
+  },
+  {
+    "name": "Lousada",
+    "country": "PT",
+    "lat": 41.27822,
+    "lng": -8.27993
+  },
+  {
+    "name": "Lousã",
+    "country": "PT",
+    "lat": 40.11673,
+    "lng": -8.24921
+  },
+  {
+    "name": "Lourosa",
+    "country": "PT",
+    "lat": 40.9842,
+    "lng": -8.55142
+  },
+  {
+    "name": "Lorvão",
+    "country": "PT",
+    "lat": 40.25938,
+    "lng": -8.31683
+  },
+  {
+    "name": "Loriga",
+    "country": "PT",
+    "lat": 40.32513,
+    "lng": -7.68952
+  },
+  {
+    "name": "Lordelo do Ouro",
+    "country": "PT",
+    "lat": 41.15059,
+    "lng": -8.64845
+  },
+  {
+    "name": "Lordelo",
+    "country": "PT",
+    "lat": 41.37411,
+    "lng": -8.38016
+  },
+  {
+    "name": "Lordelo",
+    "country": "PT",
+    "lat": 41.23451,
+    "lng": -8.40297
+  },
+  {
+    "name": "Lobão",
+    "country": "PT",
+    "lat": 40.98664,
+    "lng": -8.48566
+  },
+  {
+    "name": "Los Cedrales",
+    "country": "PY",
+    "lat": -25.65668,
+    "lng": -54.72272
+  },
+  {
+    "name": "Lozna",
+    "country": "RO",
+    "lat": 47.95144,
+    "lng": 26.27723
+  },
+  {
+    "name": "Lozna",
+    "country": "RO",
+    "lat": 47.31667,
+    "lng": 23.46667
+  },
+  {
+    "name": "Lovrin",
+    "country": "RO",
+    "lat": 45.96806,
+    "lng": 20.77028
+  },
+  {
+    "name": "Lopătari",
+    "country": "RO",
+    "lat": 45.48333,
+    "lng": 26.58333
+  },
+  {
+    "name": "Lopadea Nouă",
+    "country": "RO",
+    "lat": 46.2909,
+    "lng": 23.81901
+  },
+  {
+    "name": "Loloiasca",
+    "country": "RO",
+    "lat": 44.96808,
+    "lng": 26.29141
+  },
+  {
+    "name": "Logrești Moșteni",
+    "country": "RO",
+    "lat": 44.90663,
+    "lng": 23.7048
+  },
+  {
+    "name": "Logreşti",
+    "country": "RO",
+    "lat": 44.9,
+    "lng": 23.7
+  },
+  {
+    "name": "Loamneş",
+    "country": "RO",
+    "lat": 45.93333,
+    "lng": 24.1
+  },
+  {
+    "name": "Lokve",
+    "country": "RS",
+    "lat": 45.15198,
+    "lng": 21.03073
+  },
+  {
+    "name": "Lok",
+    "country": "RS",
+    "lat": 45.21583,
+    "lng": 20.21222
+  },
+  {
+    "name": "Loznica",
+    "country": "RS",
+    "lat": 44.53118,
+    "lng": 19.24267
+  },
+  {
+    "name": "Lovćenac",
+    "country": "RS",
+    "lat": 45.6816,
+    "lng": 19.69205
+  },
+  {
+    "name": "Lozhki",
+    "country": "RU",
+    "lat": 56.09387,
+    "lng": 37.10873
+  },
+  {
+    "name": "Loyga",
+    "country": "RU",
+    "lat": 61.07845,
+    "lng": 44.6075
+  },
+  {
+    "name": "Lovozero",
+    "country": "RU",
+    "lat": 68.00557,
+    "lng": 35.01872
+  },
+  {
+    "name": "Lovlinskaya",
+    "country": "RU",
+    "lat": 45.51611,
+    "lng": 40.24
+  },
+  {
+    "name": "Loukhi",
+    "country": "RU",
+    "lat": 66.07501,
+    "lng": 33.0487
+  },
+  {
+    "name": "Lotoshino",
+    "country": "RU",
+    "lat": 56.23435,
+    "lng": 35.64406
+  },
+  {
+    "name": "Losino-Petrovskiy",
+    "country": "RU",
+    "lat": 55.87006,
+    "lng": 38.19318
+  },
+  {
+    "name": "Losevo",
+    "country": "RU",
+    "lat": 50.67732,
+    "lng": 40.04881
+  },
+  {
+    "name": "Lopatinskiy",
+    "country": "RU",
+    "lat": 55.34101,
+    "lng": 38.72366
+  },
+  {
+    "name": "Lopatino",
+    "country": "RU",
+    "lat": 52.61949,
+    "lng": 45.81184
+  },
+  {
+    "name": "Lopandino",
+    "country": "RU",
+    "lat": 52.46889,
+    "lng": 34.81679
+  },
+  {
+    "name": "Lomovka",
+    "country": "RU",
+    "lat": 53.91944,
+    "lng": 58.36722
+  },
+  {
+    "name": "Lomonosov",
+    "country": "RU",
+    "lat": 59.90612,
+    "lng": 29.77253
+  },
+  {
+    "name": "Lomintsevskiy",
+    "country": "RU",
+    "lat": 53.98548,
+    "lng": 37.66471
+  },
+  {
+    "name": "Lokot’",
+    "country": "RU",
+    "lat": 52.57472,
+    "lng": 34.57673
+  },
+  {
+    "name": "Loknya",
+    "country": "RU",
+    "lat": 56.82621,
+    "lng": 30.14064
+  },
+  {
+    "name": "Log",
+    "country": "RU",
+    "lat": 49.48437,
+    "lng": 43.86125
+  },
+  {
+    "name": "Lodeynoye Pole",
+    "country": "RU",
+    "lat": 60.72564,
+    "lng": 33.56063
+  },
+  {
+    "name": "Lobnya",
+    "country": "RU",
+    "lat": 56.02714,
+    "lng": 37.46793
+  },
+  {
+    "name": "Lobanovo",
+    "country": "RU",
+    "lat": 57.8595,
+    "lng": 56.3026
+  },
+  {
+    "name": "Losinyy",
+    "country": "RU",
+    "lat": 57.13862,
+    "lng": 61.06663
+  },
+  {
+    "name": "Lokosovo",
+    "country": "RU",
+    "lat": 61.13333,
+    "lng": 74.81667
+  },
+  {
+    "name": "Lobva",
+    "country": "RU",
+    "lat": 59.18538,
+    "lng": 60.51846
+  },
+  {
+    "name": "Lokomotivnyy",
+    "country": "RU",
+    "lat": 53.0448,
+    "lng": 60.61563
+  },
+  {
+    "name": "Londoko",
+    "country": "RU",
+    "lat": 49.01924,
+    "lng": 131.99059
+  },
+  {
+    "name": "Lososina",
+    "country": "RU",
+    "lat": 48.99943,
+    "lng": 140.31701
+  },
+  {
+    "name": "Lorino",
+    "country": "RU",
+    "lat": 65.50306,
+    "lng": -171.70387
+  },
+  {
+    "name": "Logovskoye",
+    "country": "RU",
+    "lat": 53.4943,
+    "lng": 84.2016
+  },
+  {
+    "name": "Lopatino",
+    "country": "RU",
+    "lat": 55.52799,
+    "lng": 37.64666
+  },
+  {
+    "name": "Loza",
+    "country": "RU",
+    "lat": 56.25922,
+    "lng": 38.21375
+  },
+  {
+    "name": "Lomma",
+    "country": "SE",
+    "lat": 55.67244,
+    "lng": 13.06849
+  },
+  {
+    "name": "Loyang",
+    "country": "SG",
+    "lat": 1.37861,
+    "lng": 103.97167
+  },
+  {
+    "name": "Lovrenc na Pohorju",
+    "country": "SI",
+    "lat": 46.54134,
+    "lng": 15.39166
+  },
+  {
+    "name": "Loški Potok",
+    "country": "SI",
+    "lat": 45.70139,
+    "lng": 14.58028
+  },
+  {
+    "name": "Lokavec",
+    "country": "SI",
+    "lat": 45.90167,
+    "lng": 13.87972
+  },
+  {
+    "name": "Log pri Brezovici",
+    "country": "SI",
+    "lat": 46.01667,
+    "lng": 14.36667
+  },
+  {
+    "name": "Logatec",
+    "country": "SI",
+    "lat": 45.9168,
+    "lng": 14.22652
+  },
+  {
+    "name": "Longyearbyen",
+    "country": "SJ",
+    "lat": 78.22334,
+    "lng": 15.64689
+  },
+  {
+    "name": "Lomnička",
+    "country": "SK",
+    "lat": 49.24972,
+    "lng": 20.56955
+  },
+  {
+    "name": "Lozorno",
+    "country": "SK",
+    "lat": 48.33364,
+    "lng": 17.04322
+  },
+  {
+    "name": "Loma",
+    "country": "SL",
+    "lat": 9.75931,
+    "lng": -12.03383
+  },
+  {
+    "name": "Louga",
+    "country": "SN",
+    "lat": 15.61867,
+    "lng": -16.22436
+  },
+  {
+    "name": "Lolotique",
+    "country": "SV",
+    "lat": 13.55,
+    "lng": -88.35
+  },
+  {
+    "name": "Lower Prince’s Quarter",
+    "country": "SX",
+    "lat": 18.04987,
+    "lng": -63.03789
+  },
+  {
+    "name": "Lobamba",
+    "country": "SZ",
+    "lat": -26.46667,
+    "lng": 31.2
+  },
+  {
+    "name": "Lomé",
+    "country": "TG",
+    "lat": 6.12874,
+    "lng": 1.22154
+  },
+  {
+    "name": "Long",
+    "country": "TH",
+    "lat": 18.07422,
+    "lng": 99.83073
+  },
+  {
+    "name": "Lop Buri",
+    "country": "TH",
+    "lat": 14.79808,
+    "lng": 100.65397
+  },
+  {
+    "name": "Lom Sak",
+    "country": "TH",
+    "lat": 16.77983,
+    "lng": 101.24225
+  },
+  {
+    "name": "Lom Kao",
+    "country": "TH",
+    "lat": 16.88614,
+    "lng": 101.22894
+  },
+  {
+    "name": "Loeng Nok Tha",
+    "country": "TH",
+    "lat": 16.2075,
+    "lng": 104.55528
+  },
+  {
+    "name": "Loei",
+    "country": "TH",
+    "lat": 17.49052,
+    "lng": 101.72749
+  },
+  {
+    "name": "Lospalos",
+    "country": "TL",
+    "lat": -8.52167,
+    "lng": 126.99833
+  },
+  {
+    "name": "Longido",
+    "country": "TZ",
+    "lat": -2.73319,
+    "lng": 36.69773
+  },
+  {
+    "name": "Lozove",
+    "country": "UA",
+    "lat": 49.29376,
+    "lng": 27.30208
+  },
+  {
+    "name": "Lozovoye",
+    "country": "UA",
+    "lat": 44.906,
+    "lng": 34.16414
+  },
+  {
+    "name": "Lozova",
+    "country": "UA",
+    "lat": 48.88937,
+    "lng": 36.31755
+  },
+  {
+    "name": "Lozuvatka",
+    "country": "UA",
+    "lat": 48.06017,
+    "lng": 33.28668
+  },
+  {
+    "name": "Lozno-Oleksandrivka",
+    "country": "UA",
+    "lat": 49.8391,
+    "lng": 38.74098
+  },
+  {
+    "name": "Lotskyne",
+    "country": "UA",
+    "lat": 47.20529,
+    "lng": 32.39137
+  },
+  {
+    "name": "Loshchynivka",
+    "country": "UA",
+    "lat": 45.4745,
+    "lng": 28.82093
+  },
+  {
+    "name": "Lopukhiv",
+    "country": "UA",
+    "lat": 48.36988,
+    "lng": 23.97141
+  },
+  {
+    "name": "Lopatyn",
+    "country": "UA",
+    "lat": 50.22022,
+    "lng": 24.84831
+  },
+  {
+    "name": "Lomachyntsi",
+    "country": "UA",
+    "lat": 48.58434,
+    "lng": 27.3801
+  },
+  {
+    "name": "Lokhvytsya",
+    "country": "UA",
+    "lat": 50.36444,
+    "lng": 33.27153
+  },
+  {
+    "name": "Lokachi",
+    "country": "UA",
+    "lat": 50.737,
+    "lng": 24.64944
+  },
+  {
+    "name": "Lobanovo",
+    "country": "UA",
+    "lat": 45.77552,
+    "lng": 34.24236
+  },
+  {
+    "name": "Locust Fork",
+    "country": "US",
+    "lat": 33.9076,
+    "lng": -86.61527
+  },
+  {
+    "name": "Loxley",
+    "country": "US",
+    "lat": 30.61825,
+    "lng": -87.75305
+  },
+  {
+    "name": "London",
+    "country": "US",
+    "lat": 35.32897,
+    "lng": -93.25296
+  },
+  {
+    "name": "Lonoke",
+    "country": "US",
+    "lat": 34.78398,
+    "lng": -91.89986
+  },
+  {
+    "name": "Lowell",
+    "country": "US",
+    "lat": 36.25535,
+    "lng": -94.13076
+  },
+  {
+    "name": "Long Neck",
+    "country": "US",
+    "lat": 38.62011,
+    "lng": -75.15074
+  },
+  {
+    "name": "Lochmoor Waterway Estates",
+    "country": "US",
+    "lat": 26.64424,
+    "lng": -81.90981
+  },
+  {
+    "name": "Lockhart",
+    "country": "US",
+    "lat": 28.61944,
+    "lng": -81.44257
+  },
+  {
+    "name": "Longboat Key",
+    "country": "US",
+    "lat": 27.41254,
+    "lng": -82.65899
+  },
+  {
+    "name": "Longwood",
+    "country": "US",
+    "lat": 28.70305,
+    "lng": -81.3384
+  },
+  {
+    "name": "Loughman",
+    "country": "US",
+    "lat": 28.24196,
+    "lng": -81.56674
+  },
+  {
+    "name": "Lower Grand Lagoon",
+    "country": "US",
+    "lat": 30.14409,
+    "lng": -85.75076
+  },
+  {
+    "name": "Loxahatchee Groves",
+    "country": "US",
+    "lat": 26.68368,
+    "lng": -80.27977
+  },
+  {
+    "name": "Locust Grove",
+    "country": "US",
+    "lat": 33.34595,
+    "lng": -84.10908
+  },
+  {
+    "name": "Loganville",
+    "country": "US",
+    "lat": 33.839,
+    "lng": -83.90074
+  },
+  {
+    "name": "Lookout Mountain",
+    "country": "US",
+    "lat": 34.97758,
+    "lng": -85.35774
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 33.00154,
+    "lng": -82.41124
+  },
+  {
+    "name": "Lovejoy",
+    "country": "US",
+    "lat": 33.43622,
+    "lng": -84.31437
+  },
+  {
+    "name": "Long Creek",
+    "country": "US",
+    "lat": 39.81198,
+    "lng": -88.84757
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 38.77227,
+    "lng": -88.50255
+  },
+  {
+    "name": "Lovington",
+    "country": "US",
+    "lat": 39.71559,
+    "lng": -88.63256
+  },
+  {
+    "name": "Loogootee",
+    "country": "US",
+    "lat": 38.67699,
+    "lng": -86.91417
+  },
+  {
+    "name": "Louisburg",
+    "country": "US",
+    "lat": 38.61946,
+    "lng": -94.68079
+  },
+  {
+    "name": "London",
+    "country": "US",
+    "lat": 37.12898,
+    "lng": -84.08326
+  },
+  {
+    "name": "Louisa",
+    "country": "US",
+    "lat": 38.11425,
+    "lng": -82.60321
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 38.25424,
+    "lng": -85.75941
+  },
+  {
+    "name": "Lockport",
+    "country": "US",
+    "lat": 29.64605,
+    "lng": -90.53925
+  },
+  {
+    "name": "Lockport Heights",
+    "country": "US",
+    "lat": 29.65049,
+    "lng": -90.54647
+  },
+  {
+    "name": "Logansport",
+    "country": "US",
+    "lat": 31.97545,
+    "lng": -93.99797
+  },
+  {
+    "name": "Lochearn",
+    "country": "US",
+    "lat": 39.34066,
+    "lng": -76.72219
+  },
+  {
+    "name": "Lonaconing",
+    "country": "US",
+    "lat": 39.56592,
+    "lng": -78.9803
+  },
+  {
+    "name": "Londontowne",
+    "country": "US",
+    "lat": 38.93345,
+    "lng": -76.54941
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 38.46096,
+    "lng": -76.46884
+  },
+  {
+    "name": "Lone Jack",
+    "country": "US",
+    "lat": 38.87084,
+    "lng": -94.17383
+  },
+  {
+    "name": "Louisiana",
+    "country": "US",
+    "lat": 39.44894,
+    "lng": -91.05153
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 30.35048,
+    "lng": -89.15282
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 33.12374,
+    "lng": -89.05506
+  },
+  {
+    "name": "Locust",
+    "country": "US",
+    "lat": 35.25987,
+    "lng": -80.42534
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 33.91045,
+    "lng": -78.11777
+  },
+  {
+    "name": "Longview",
+    "country": "US",
+    "lat": 35.7293,
+    "lng": -81.38342
+  },
+  {
+    "name": "Louisburg",
+    "country": "US",
+    "lat": 36.09904,
+    "lng": -78.30111
+  },
+  {
+    "name": "Lowell",
+    "country": "US",
+    "lat": 35.26792,
+    "lng": -81.10285
+  },
+  {
+    "name": "Lowesville",
+    "country": "US",
+    "lat": 35.41708,
+    "lng": -81.01119
+  },
+  {
+    "name": "Lockland",
+    "country": "US",
+    "lat": 39.22922,
+    "lng": -84.45772
+  },
+  {
+    "name": "Logan",
+    "country": "US",
+    "lat": 39.54007,
+    "lng": -82.4071
+  },
+  {
+    "name": "Logan Elm Village",
+    "country": "US",
+    "lat": 39.56978,
+    "lng": -82.95185
+  },
+  {
+    "name": "London",
+    "country": "US",
+    "lat": 39.88645,
+    "lng": -83.44825
+  },
+  {
+    "name": "Loveland",
+    "country": "US",
+    "lat": 39.26895,
+    "lng": -84.26383
+  },
+  {
+    "name": "Loveland Park",
+    "country": "US",
+    "lat": 39.29978,
+    "lng": -84.26327
+  },
+  {
+    "name": "Locust Grove",
+    "country": "US",
+    "lat": 36.20009,
+    "lng": -95.16774
+  },
+  {
+    "name": "Lone Grove",
+    "country": "US",
+    "lat": 34.17537,
+    "lng": -97.26279
+  },
+  {
+    "name": "Longtown",
+    "country": "US",
+    "lat": 35.24538,
+    "lng": -95.51276
+  },
+  {
+    "name": "Loganville",
+    "country": "US",
+    "lat": 39.85566,
+    "lng": -76.70747
+  },
+  {
+    "name": "Loris",
+    "country": "US",
+    "lat": 34.05628,
+    "lng": -78.8903
+  },
+  {
+    "name": "Lone Oak",
+    "country": "US",
+    "lat": 35.20063,
+    "lng": -85.36413
+  },
+  {
+    "name": "Lookout Mountain",
+    "country": "US",
+    "lat": 34.99424,
+    "lng": -85.3494
+  },
+  {
+    "name": "Loretto",
+    "country": "US",
+    "lat": 35.07786,
+    "lng": -87.43974
+  },
+  {
+    "name": "Loudon",
+    "country": "US",
+    "lat": 35.73285,
+    "lng": -84.33381
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 35.82175,
+    "lng": -84.04796
+  },
+  {
+    "name": "Lockhart",
+    "country": "US",
+    "lat": 29.88494,
+    "lng": -97.67
+  },
+  {
+    "name": "Lone Star",
+    "country": "US",
+    "lat": 33.78566,
+    "lng": -95.38773
+  },
+  {
+    "name": "Lone Star",
+    "country": "US",
+    "lat": 32.94402,
+    "lng": -94.70715
+  },
+  {
+    "name": "Longview",
+    "country": "US",
+    "lat": 32.5007,
+    "lng": -94.74049
+  },
+  {
+    "name": "Lopezville",
+    "country": "US",
+    "lat": 26.23813,
+    "lng": -98.15973
+  },
+  {
+    "name": "Lorena",
+    "country": "US",
+    "lat": 31.38656,
+    "lng": -97.21556
+  },
+  {
+    "name": "Los Fresnos",
+    "country": "US",
+    "lat": 26.07174,
+    "lng": -97.47637
+  },
+  {
+    "name": "Los Indios",
+    "country": "US",
+    "lat": 26.04924,
+    "lng": -97.74499
+  },
+  {
+    "name": "Lost Creek",
+    "country": "US",
+    "lat": 30.29548,
+    "lng": -97.84445
+  },
+  {
+    "name": "Lowry Crossing",
+    "country": "US",
+    "lat": 33.15484,
+    "lng": -96.54721
+  },
+  {
+    "name": "Loch Lomond",
+    "country": "US",
+    "lat": 38.78623,
+    "lng": -77.47804
+  },
+  {
+    "name": "Lorton",
+    "country": "US",
+    "lat": 38.70428,
+    "lng": -77.22776
+  },
+  {
+    "name": "Louisa",
+    "country": "US",
+    "lat": 38.02514,
+    "lng": -78.00416
+  },
+  {
+    "name": "Lovettsville",
+    "country": "US",
+    "lat": 39.2726,
+    "lng": -77.63666
+  },
+  {
+    "name": "Lovingston",
+    "country": "US",
+    "lat": 37.75986,
+    "lng": -78.87086
+  },
+  {
+    "name": "Lowes Island",
+    "country": "US",
+    "lat": 39.05983,
+    "lng": -77.35221
+  },
+  {
+    "name": "Logan",
+    "country": "US",
+    "lat": 37.84871,
+    "lng": -81.99346
+  },
+  {
+    "name": "Long Hill",
+    "country": "US",
+    "lat": 41.35399,
+    "lng": -72.0523
+  },
+  {
+    "name": "Logan",
+    "country": "US",
+    "lat": 41.64305,
+    "lng": -95.7889
+  },
+  {
+    "name": "Lone Tree",
+    "country": "US",
+    "lat": 41.48808,
+    "lng": -91.42599
+  },
+  {
+    "name": "Lockport",
+    "country": "US",
+    "lat": 41.58948,
+    "lng": -88.05784
+  },
+  {
+    "name": "Logan Square",
+    "country": "US",
+    "lat": 41.92337,
+    "lng": -87.69922
+  },
+  {
+    "name": "Lombard",
+    "country": "US",
+    "lat": 41.88003,
+    "lng": -88.00784
+  },
+  {
+    "name": "Long Grove",
+    "country": "US",
+    "lat": 42.17836,
+    "lng": -87.99785
+  },
+  {
+    "name": "Long Lake",
+    "country": "US",
+    "lat": 42.37085,
+    "lng": -88.12758
+  },
+  {
+    "name": "Loves Park",
+    "country": "US",
+    "lat": 42.32002,
+    "lng": -89.05816
+  },
+  {
+    "name": "Lower West Side",
+    "country": "US",
+    "lat": 41.8542,
+    "lng": -87.66561
+  },
+  {
+    "name": "Logansport",
+    "country": "US",
+    "lat": 40.75448,
+    "lng": -86.35667
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 41.73893,
+    "lng": -86.85697
+  },
+  {
+    "name": "Lowell",
+    "country": "US",
+    "lat": 41.29142,
+    "lng": -87.42059
+  },
+  {
+    "name": "Longmeadow",
+    "country": "US",
+    "lat": 42.0501,
+    "lng": -72.58287
+  },
+  {
+    "name": "Lowell",
+    "country": "US",
+    "lat": 42.63342,
+    "lng": -71.31617
+  },
+  {
+    "name": "Lovell",
+    "country": "US",
+    "lat": 44.12674,
+    "lng": -70.89173
+  },
+  {
+    "name": "Lowell",
+    "country": "US",
+    "lat": 42.93364,
+    "lng": -85.34196
+  },
+  {
+    "name": "Long Lake",
+    "country": "US",
+    "lat": 44.98663,
+    "lng": -93.57162
+  },
+  {
+    "name": "Long Prairie",
+    "country": "US",
+    "lat": 45.97469,
+    "lng": -94.86558
+  },
+  {
+    "name": "Lonsdale",
+    "country": "US",
+    "lat": 44.48024,
+    "lng": -93.42856
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 40.99778,
+    "lng": -96.16224
+  },
+  {
+    "name": "Loup City",
+    "country": "US",
+    "lat": 41.27557,
+    "lng": -98.96675
+  },
+  {
+    "name": "Londonderry",
+    "country": "US",
+    "lat": 42.86509,
+    "lng": -71.37395
+  },
+  {
+    "name": "Lodi",
+    "country": "US",
+    "lat": 40.88232,
+    "lng": -74.0832
+  },
+  {
+    "name": "Long Branch",
+    "country": "US",
+    "lat": 40.30428,
+    "lng": -73.99236
+  },
+  {
+    "name": "Long Valley",
+    "country": "US",
+    "lat": 40.78593,
+    "lng": -74.78016
+  },
+  {
+    "name": "Lockport",
+    "country": "US",
+    "lat": 43.17061,
+    "lng": -78.69031
+  },
+  {
+    "name": "Locust Valley",
+    "country": "US",
+    "lat": 40.87593,
+    "lng": -73.59707
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 40.58844,
+    "lng": -73.65791
+  },
+  {
+    "name": "Long Island City",
+    "country": "US",
+    "lat": 40.74482,
+    "lng": -73.94875
+  },
+  {
+    "name": "Lorenz Park",
+    "country": "US",
+    "lat": 42.2637,
+    "lng": -73.76846
+  },
+  {
+    "name": "Lowville",
+    "country": "US",
+    "lat": 43.78674,
+    "lng": -75.49185
+  },
+  {
+    "name": "Lodi",
+    "country": "US",
+    "lat": 41.03339,
+    "lng": -82.01209
+  },
+  {
+    "name": "Lorain",
+    "country": "US",
+    "lat": 41.45282,
+    "lng": -82.18237
+  },
+  {
+    "name": "Lordstown",
+    "country": "US",
+    "lat": 41.16561,
+    "lng": -80.85758
+  },
+  {
+    "name": "Loudonville",
+    "country": "US",
+    "lat": 40.63534,
+    "lng": -82.23321
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 40.83728,
+    "lng": -81.25955
+  },
+  {
+    "name": "Lowellville",
+    "country": "US",
+    "lat": 41.03534,
+    "lng": -80.53646
+  },
+  {
+    "name": "Lock Haven",
+    "country": "US",
+    "lat": 41.13701,
+    "lng": -77.44693
+  },
+  {
+    "name": "Logan",
+    "country": "US",
+    "lat": 40.02845,
+    "lng": -75.15157
+  },
+  {
+    "name": "Lorane",
+    "country": "US",
+    "lat": 40.28843,
+    "lng": -75.85465
+  },
+  {
+    "name": "Loretto",
+    "country": "US",
+    "lat": 40.50313,
+    "lng": -78.6303
+  },
+  {
+    "name": "Lower Allen",
+    "country": "US",
+    "lat": 40.22648,
+    "lng": -76.90053
+  },
+  {
+    "name": "Lower Burrell",
+    "country": "US",
+    "lat": 40.55312,
+    "lng": -79.75727
+  },
+  {
+    "name": "Loyalhanna",
+    "country": "US",
+    "lat": 40.32257,
+    "lng": -79.36226
+  },
+  {
+    "name": "Londonderry",
+    "country": "US",
+    "lat": 43.22646,
+    "lng": -72.80649
+  },
+  {
+    "name": "Lodi",
+    "country": "US",
+    "lat": 43.31388,
+    "lng": -89.52651
+  },
+  {
+    "name": "Lomira",
+    "country": "US",
+    "lat": 43.59138,
+    "lng": -88.44371
+  },
+  {
+    "name": "Loyal",
+    "country": "US",
+    "lat": 44.73691,
+    "lng": -90.49597
+  },
+  {
+    "name": "Lockeford",
+    "country": "US",
+    "lat": 38.16353,
+    "lng": -121.14994
+  },
+  {
+    "name": "Lodi",
+    "country": "US",
+    "lat": 38.1302,
+    "lng": -121.27245
+  },
+  {
+    "name": "Loma Linda",
+    "country": "US",
+    "lat": 34.04835,
+    "lng": -117.26115
+  },
+  {
+    "name": "Loma Rica",
+    "country": "US",
+    "lat": 39.31183,
+    "lng": -121.41774
+  },
+  {
+    "name": "Lomita",
+    "country": "US",
+    "lat": 33.79224,
+    "lng": -118.31507
+  },
+  {
+    "name": "Lompico",
+    "country": "US",
+    "lat": 37.1055,
+    "lng": -122.05274
+  },
+  {
+    "name": "Lompoc",
+    "country": "US",
+    "lat": 34.63915,
+    "lng": -120.45794
+  },
+  {
+    "name": "London",
+    "country": "US",
+    "lat": 36.47606,
+    "lng": -119.44318
+  },
+  {
+    "name": "Lone Pine",
+    "country": "US",
+    "lat": 36.60626,
+    "lng": -118.06462
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 33.76696,
+    "lng": -118.18923
+  },
+  {
+    "name": "Loomis",
+    "country": "US",
+    "lat": 38.82129,
+    "lng": -121.193
+  },
+  {
+    "name": "Los Alamitos",
+    "country": "US",
+    "lat": 33.80307,
+    "lng": -118.07256
+  },
+  {
+    "name": "Los Alamos",
+    "country": "US",
+    "lat": 34.74443,
+    "lng": -120.27821
+  },
+  {
+    "name": "Los Altos",
+    "country": "US",
+    "lat": 37.38522,
+    "lng": -122.11413
+  },
+  {
+    "name": "Los Altos Hills",
+    "country": "US",
+    "lat": 37.37966,
+    "lng": -122.13746
+  },
+  {
+    "name": "Los Angeles",
+    "country": "US",
+    "lat": 34.05223,
+    "lng": -118.24368
+  },
+  {
+    "name": "Los Banos",
+    "country": "US",
+    "lat": 37.05828,
+    "lng": -120.84992
+  },
+  {
+    "name": "Los Gatos",
+    "country": "US",
+    "lat": 37.22661,
+    "lng": -121.97468
+  },
+  {
+    "name": "Los Olivos",
+    "country": "US",
+    "lat": 34.66776,
+    "lng": -120.11487
+  },
+  {
+    "name": "Los Osos",
+    "country": "US",
+    "lat": 35.31109,
+    "lng": -120.8324
+  },
+  {
+    "name": "Los Serranos",
+    "country": "US",
+    "lat": 33.97279,
+    "lng": -117.70811
+  },
+  {
+    "name": "Lost Hills",
+    "country": "US",
+    "lat": 35.61635,
+    "lng": -119.69429
+  },
+  {
+    "name": "Lower Lake",
+    "country": "US",
+    "lat": 38.91045,
+    "lng": -122.61026
+  },
+  {
+    "name": "Loyola",
+    "country": "US",
+    "lat": 37.35133,
+    "lng": -122.10052
+  },
+  {
+    "name": "Loma",
+    "country": "US",
+    "lat": 39.19581,
+    "lng": -108.81316
+  },
+  {
+    "name": "Lone Tree",
+    "country": "US",
+    "lat": 39.55171,
+    "lng": -104.8863
+  },
+  {
+    "name": "Louisville",
+    "country": "US",
+    "lat": 39.97776,
+    "lng": -105.13193
+  },
+  {
+    "name": "Lordsburg",
+    "country": "US",
+    "lat": 32.35036,
+    "lng": -108.70866
+  },
+  {
+    "name": "Los Alamos",
+    "country": "US",
+    "lat": 35.88808,
+    "lng": -106.30697
+  },
+  {
+    "name": "Los Chavez",
+    "country": "US",
+    "lat": 34.72571,
+    "lng": -106.75726
+  },
+  {
+    "name": "Los Lunas",
+    "country": "US",
+    "lat": 34.80617,
+    "lng": -106.73336
+  },
+  {
+    "name": "Los Ranchos de Albuquerque",
+    "country": "US",
+    "lat": 35.16199,
+    "lng": -106.6428
+  },
+  {
+    "name": "Loving",
+    "country": "US",
+    "lat": 32.28623,
+    "lng": -104.09577
+  },
+  {
+    "name": "Lovington",
+    "country": "US",
+    "lat": 32.94401,
+    "lng": -103.34855
+  },
+  {
+    "name": "Lockney",
+    "country": "US",
+    "lat": 34.12452,
+    "lng": -101.44155
+  },
+  {
+    "name": "Lorenzo",
+    "country": "US",
+    "lat": 33.67064,
+    "lng": -101.53516
+  },
+  {
+    "name": "Loa",
+    "country": "US",
+    "lat": 38.40276,
+    "lng": -111.64296
+  },
+  {
+    "name": "Los Molinos",
+    "country": "US",
+    "lat": 40.02127,
+    "lng": -122.10027
+  },
+  {
+    "name": "Lochbuie",
+    "country": "US",
+    "lat": 40.00721,
+    "lng": -104.71608
+  },
+  {
+    "name": "Longmont",
+    "country": "US",
+    "lat": 40.16721,
+    "lng": -105.10193
+  },
+  {
+    "name": "Loveland",
+    "country": "US",
+    "lat": 40.39776,
+    "lng": -105.07498
+  },
+  {
+    "name": "Lockwood",
+    "country": "US",
+    "lat": 45.81912,
+    "lng": -108.41486
+  },
+  {
+    "name": "Lolo",
+    "country": "US",
+    "lat": 46.75881,
+    "lng": -114.08094
+  },
+  {
+    "name": "Lovelock",
+    "country": "US",
+    "lat": 40.17935,
+    "lng": -118.47348
+  },
+  {
+    "name": "Lowell",
+    "country": "US",
+    "lat": 43.91846,
+    "lng": -122.78368
+  },
+  {
+    "name": "Logan",
+    "country": "US",
+    "lat": 41.73549,
+    "lng": -111.83439
+  },
+  {
+    "name": "Lochsloy",
+    "country": "US",
+    "lat": 48.05149,
+    "lng": -122.03208
+  },
+  {
+    "name": "Lofall",
+    "country": "US",
+    "lat": 47.81192,
+    "lng": -122.65841
+  },
+  {
+    "name": "Long Beach",
+    "country": "US",
+    "lat": 46.35232,
+    "lng": -124.05432
+  },
+  {
+    "name": "Longbranch",
+    "country": "US",
+    "lat": 47.20898,
+    "lng": -122.7568
+  },
+  {
+    "name": "Longview",
+    "country": "US",
+    "lat": 46.13817,
+    "lng": -122.93817
+  },
+  {
+    "name": "Longview Heights",
+    "country": "US",
+    "lat": 46.18039,
+    "lng": -122.95706
+  },
+  {
+    "name": "Lovell",
+    "country": "US",
+    "lat": 44.83745,
+    "lng": -108.38956
+  },
+  {
+    "name": "Loudoun Valley Estates",
+    "country": "US",
+    "lat": 38.98081,
+    "lng": -77.5079
+  },
+  {
+    "name": "Loch Raven",
+    "country": "US",
+    "lat": 39.36142,
+    "lng": -76.58183
+  },
+  {
+    "name": "Locust Point",
+    "country": "US",
+    "lat": 39.26945,
+    "lng": -76.59204
+  },
+  {
+    "name": "Loyola/Notre Dame",
+    "country": "US",
+    "lat": 39.3493,
+    "lng": -76.62116
+  },
+  {
+    "name": "Lower Wilhelmina",
+    "country": "US",
+    "lat": 21.28155,
+    "lng": -157.79437
+  },
+  {
+    "name": "Lower Palolo",
+    "country": "US",
+    "lat": 21.29279,
+    "lng": -157.80175
+  },
+  {
+    "name": "Lower McCully",
+    "country": "US",
+    "lat": 21.29005,
+    "lng": -157.82859
+  },
+  {
+    "name": "Lower Aiea",
+    "country": "US",
+    "lat": 21.37852,
+    "lng": -157.93224
+  },
+  {
+    "name": "Lower Pearl City",
+    "country": "US",
+    "lat": 21.40293,
+    "lng": -157.95758
+  },
+  {
+    "name": "Lower Waiau",
+    "country": "US",
+    "lat": 21.39594,
+    "lng": -157.96507
+  },
+  {
+    "name": "Lower Pawaa",
+    "country": "US",
+    "lat": 21.29849,
+    "lng": -157.8404
+  },
+  {
+    "name": "Lower Allston",
+    "country": "US",
+    "lat": 42.36465,
+    "lng": -71.12583
+  },
+  {
+    "name": "Logan Square",
+    "country": "US",
+    "lat": 39.95569,
+    "lng": -75.17054
+  },
+  {
+    "name": "Lower Moyamensing",
+    "country": "US",
+    "lat": 39.91956,
+    "lng": -75.16475
+  },
+  {
+    "name": "Los Cerrillos",
+    "country": "UY",
+    "lat": -34.605,
+    "lng": -56.35639
+  },
+  {
+    "name": "Loyish Shaharchasi",
+    "country": "UZ",
+    "lat": 39.87904,
+    "lng": 66.75055
+  },
+  {
+    "name": "Los Guasimitos",
+    "country": "VE",
+    "lat": 8.66435,
+    "lng": -70.23216
+  },
+  {
+    "name": "Los Teques",
+    "country": "VE",
+    "lat": 10.34954,
+    "lng": -67.04266
+  },
+  {
+    "name": "Los Rastrojos",
+    "country": "VE",
+    "lat": 10.02588,
+    "lng": -69.24166
+  },
+  {
+    "name": "Los Guayos",
+    "country": "VE",
+    "lat": 10.18932,
+    "lng": -67.93828
+  },
+  {
+    "name": "Los Dos Caminos",
+    "country": "VE",
+    "lat": 10.49389,
+    "lng": -66.82863
+  },
+  {
+    "name": "Lobatera",
+    "country": "VE",
+    "lat": 7.93005,
+    "lng": -72.24679
+  },
+  {
+    "name": "Los Roques",
+    "country": "VE",
+    "lat": 11.94836,
+    "lng": -66.67835
+  },
+  {
+    "name": "Los Puertos de Altagracia",
+    "country": "VE",
+    "lat": 10.71492,
+    "lng": -71.52168
+  },
+  {
+    "name": "Long Bien",
+    "country": "VN",
+    "lat": 21.03333,
+    "lng": 105.9
+  },
+  {
+    "name": "Long Xuyên",
+    "country": "VN",
+    "lat": 10.38639,
+    "lng": 105.43518
+  },
+  {
+    "name": "Long Thành",
+    "country": "VN",
+    "lat": 10.78909,
+    "lng": 106.95029
+  },
+  {
+    "name": "Long Phú",
+    "country": "VN",
+    "lat": 9.61025,
+    "lng": 106.11881
+  },
+  {
+    "name": "Long Mỹ",
+    "country": "VN",
+    "lat": 9.68141,
+    "lng": 105.57226
+  },
+  {
+    "name": "Long Khánh",
+    "country": "VN",
+    "lat": 10.92655,
+    "lng": 107.24783
+  },
+  {
+    "name": "Long Hồ",
+    "country": "VN",
+    "lat": 10.19281,
+    "lng": 106.01229
+  },
+  {
+    "name": "Long Cốc",
+    "country": "VN",
+    "lat": 21.11842,
+    "lng": 105.06047
+  },
+  {
+    "name": "Lotofagā",
+    "country": "WS",
+    "lat": -13.97643,
+    "lng": -171.85781
+  },
+  {
+    "name": "Longoni",
+    "country": "YT",
+    "lat": -12.73426,
+    "lng": 45.16298
+  },
+  {
+    "name": "Louwsburg",
+    "country": "ZA",
+    "lat": -27.57857,
+    "lng": 31.2894
+  },
+  {
+    "name": "Louterwater",
+    "country": "ZA",
+    "lat": -33.80009,
+    "lng": 23.66382
+  },
+  {
+    "name": "Louis Trichardt",
+    "country": "ZA",
+    "lat": -23.04385,
+    "lng": 29.90319
+  },
+  {
+    "name": "Lothair",
+    "country": "ZA",
+    "lat": -26.38939,
+    "lng": 30.43526
+  },
+  {
+    "name": "Loerieheuwel",
+    "country": "ZA",
+    "lat": -33.87596,
+    "lng": 25.02064
+  },
+  {
+    "name": "Loss",
+    "country": "ZA",
+    "lat": -28.10478,
+    "lng": 30.82101
+  },
+  {
+    "name": "Louis Trichardt Airforce Base",
+    "country": "ZA",
+    "lat": -23.15265,
+    "lng": 29.70407
+  },
+  {
+    "name": "Louieville",
+    "country": "ZA",
+    "lat": -25.67704,
+    "lng": 31.30575
+  }
+]

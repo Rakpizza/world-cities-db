@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Oyster Bay",
+    "country": "AU",
+    "lat": -34.00407,
+    "lng": 151.07588
+  },
+  {
+    "name": "Oyster River",
+    "country": "CA",
+    "lat": 49.86667,
+    "lng": -125.13333
+  },
+  {
+    "name": "Oyo",
+    "country": "CG",
+    "lat": -1.165,
+    "lng": 15.97
+  },
+  {
+    "name": "Oytograk",
+    "country": "CN",
+    "lat": 36.83333,
+    "lng": 81.93333
+  },
+  {
+    "name": "Oymak",
+    "country": "CN",
+    "lat": 47.87809,
+    "lng": 86.98955
+  },
+  {
+    "name": "Oyten",
+    "country": "DE",
+    "lat": 53.05,
+    "lng": 9.01667
+  },
+  {
+    "name": "Oy-Mittelberg",
+    "country": "DE",
+    "lat": 47.63333,
+    "lng": 10.43333
+  },
+  {
+    "name": "Oyacachi",
+    "country": "EC",
+    "lat": -0.21311,
+    "lng": -78.08836
+  },
+  {
+    "name": "Oyambarillo",
+    "country": "EC",
+    "lat": -0.19516,
+    "lng": -78.33173
+  },
+  {
+    "name": "Oytier-Saint-Oblas",
+    "country": "FR",
+    "lat": 45.55757,
+    "lng": 5.03083
+  },
+  {
+    "name": "Oyonnax",
+    "country": "FR",
+    "lat": 46.25917,
+    "lng": 5.65727
+  },
+  {
+    "name": "Oye-Plage",
+    "country": "FR",
+    "lat": 50.97713,
+    "lng": 2.04276
+  },
+  {
+    "name": "Oyem",
+    "country": "GA",
+    "lat": 1.5995,
+    "lng": 11.57933
+  },
+  {
+    "name": "Oyam",
+    "country": "GA",
+    "lat": -0.2,
+    "lng": 10.68333
+  },
+  {
+    "name": "Oyace",
+    "country": "IT",
+    "lat": 45.85116,
+    "lng": 7.383
+  },
+  {
+    "name": "Oyama",
+    "country": "JP",
+    "lat": 36.3,
+    "lng": 139.8
+  },
+  {
+    "name": "Oyama",
+    "country": "JP",
+    "lat": 35.35693,
+    "lng": 138.99759
+  },
+  {
+    "name": "Oyabe",
+    "country": "JP",
+    "lat": 36.66667,
+    "lng": 136.85
+  },
+  {
+    "name": "Oyamazaki",
+    "country": "JP",
+    "lat": 34.89396,
+    "lng": 135.68463
+  },
+  {
+    "name": "Oyugis",
+    "country": "KE",
+    "lat": -0.50974,
+    "lng": 34.73067
+  },
+  {
+    "name": "Oytal",
+    "country": "KZ",
+    "lat": 42.90573,
+    "lng": 73.26972
+  },
+  {
+    "name": "Oyster Pond",
+    "country": "MF",
+    "lat": 18.05947,
+    "lng": -63.01626
+  },
+  {
+    "name": "Oygon",
+    "country": "MN",
+    "lat": 48.98562,
+    "lng": 96.54339
+  },
+  {
+    "name": "Oyameles de Hidalgo",
+    "country": "MX",
+    "lat": 19.69736,
+    "lng": -97.53376
+  },
+  {
+    "name": "Oya",
+    "country": "MY",
+    "lat": 2.86667,
+    "lng": 111.88333
+  },
+  {
+    "name": "Oyo",
+    "country": "NG",
+    "lat": 7.85367,
+    "lng": 3.93235
+  },
+  {
+    "name": "Oye-Ekiti",
+    "country": "NG",
+    "lat": 7.79976,
+    "lng": 5.33242
+  },
+  {
+    "name": "Oyan",
+    "country": "NG",
+    "lat": 8.05,
+    "lng": 4.76667
+  },
+  {
+    "name": "Oyotún",
+    "country": "PE",
+    "lat": -6.84438,
+    "lng": -79.30093
+  },
+  {
+    "name": "Oyón",
+    "country": "PE",
+    "lat": -10.66846,
+    "lng": -76.77165
+  },
+  {
+    "name": "Oyolo",
+    "country": "PE",
+    "lat": -15.17914,
+    "lng": -73.18506
+  },
+  {
+    "name": "Oyskhara",
+    "country": "RU",
+    "lat": 43.26402,
+    "lng": 46.24803
+  },
+  {
+    "name": "Oyëk",
+    "country": "RU",
+    "lat": 52.58611,
+    "lng": 104.45556
+  },
+  {
+    "name": "Oy",
+    "country": "RU",
+    "lat": 61.54136,
+    "lng": 129.17516
+  },
+  {
+    "name": "Oyuklu",
+    "country": "TR",
+    "lat": 38.31667,
+    "lng": 40.78333
+  },
+  {
+    "name": "Oyratlı",
+    "country": "TR",
+    "lat": 37.6326,
+    "lng": 37.84125
+  },
+  {
+    "name": "Oymataş",
+    "country": "TR",
+    "lat": 37.79856,
+    "lng": 41.02083
+  },
+  {
+    "name": "Oyalı",
+    "country": "TR",
+    "lat": 37.22126,
+    "lng": 41.73862
+  },
+  {
+    "name": "Oyumsöğüt",
+    "country": "TR",
+    "lat": 37.11708,
+    "lng": 37.27935
+  },
+  {
+    "name": "Oymapınar",
+    "country": "TR",
+    "lat": 36.87286,
+    "lng": 31.52435
+  },
+  {
+    "name": "Oymaağaç",
+    "country": "TR",
+    "lat": 41.2051,
+    "lng": 35.4394
+  },
+  {
+    "name": "Oyam",
+    "country": "UG",
+    "lat": 2.235,
+    "lng": 32.38495
+  },
+  {
+    "name": "Oyster Creek",
+    "country": "US",
+    "lat": 29.00302,
+    "lng": -95.33188
+  },
+  {
+    "name": "Oyster Bay",
+    "country": "US",
+    "lat": 40.86565,
+    "lng": -73.53207
+  },
+  {
+    "name": "Oyster Bay Cove",
+    "country": "US",
+    "lat": 40.87093,
+    "lng": -73.51096
+  },
+  {
+    "name": "Oyim",
+    "country": "UZ",
+    "lat": 40.81955,
+    "lng": 72.74234
+  }
+]

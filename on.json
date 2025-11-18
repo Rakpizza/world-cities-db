@@ -1,0 +1,866 @@
+[
+  {
+    "name": "Ondjiva",
+    "country": "AO",
+    "lat": -17.06667,
+    "lng": 15.73333
+  },
+  {
+    "name": "Oncativo",
+    "country": "AR",
+    "lat": -31.9134,
+    "lng": -63.68214
+  },
+  {
+    "name": "Onslow",
+    "country": "AU",
+    "lat": -21.63764,
+    "lng": 115.11221
+  },
+  {
+    "name": "One Tree Hill",
+    "country": "AU",
+    "lat": -34.7,
+    "lng": 138.76667
+  },
+  {
+    "name": "One Mile",
+    "country": "AU",
+    "lat": -27.62902,
+    "lng": 152.73768
+  },
+  {
+    "name": "Onkaparinga Hills",
+    "country": "AU",
+    "lat": -35.13514,
+    "lng": 138.56697
+  },
+  {
+    "name": "Onze-Lieve-Vrouw-Waver",
+    "country": "BE",
+    "lat": 51.06265,
+    "lng": 4.57941
+  },
+  {
+    "name": "Onkerzele",
+    "country": "BE",
+    "lat": 50.78212,
+    "lng": 3.91145
+  },
+  {
+    "name": "Onhaye",
+    "country": "BE",
+    "lat": 50.24148,
+    "lng": 4.84069
+  },
+  {
+    "name": "On",
+    "country": "BE",
+    "lat": 50.17176,
+    "lng": 5.28936
+  },
+  {
+    "name": "Onda Verde",
+    "country": "BR",
+    "lat": -20.60779,
+    "lng": -49.29469
+  },
+  {
+    "name": "Onça",
+    "country": "BR",
+    "lat": -19.72866,
+    "lng": -44.80507
+  },
+  {
+    "name": "Onça de Pitangui",
+    "country": "BR",
+    "lat": -19.73028,
+    "lng": -44.80722
+  },
+  {
+    "name": "Onex",
+    "country": "CH",
+    "lat": 46.18396,
+    "lng": 6.10237
+  },
+  {
+    "name": "Ony-Tabré",
+    "country": "CI",
+    "lat": 6.18026,
+    "lng": -5.95943
+  },
+  {
+    "name": "Ono Salci",
+    "country": "CI",
+    "lat": 5.38138,
+    "lng": -3.5655
+  },
+  {
+    "name": "Ondjahio",
+    "country": "CI",
+    "lat": 6.17732,
+    "lng": -6.22756
+  },
+  {
+    "name": "Ondéfidouo",
+    "country": "CI",
+    "lat": 9.04384,
+    "lng": -3.08297
+  },
+  {
+    "name": "Onyar",
+    "country": "CN",
+    "lat": 43.85037,
+    "lng": 81.78308
+  },
+  {
+    "name": "Onzaga",
+    "country": "CO",
+    "lat": 6.34434,
+    "lng": -72.81726
+  },
+  {
+    "name": "Ondřejov",
+    "country": "CZ",
+    "lat": 49.90461,
+    "lng": 14.7842
+  },
+  {
+    "name": "Ontur",
+    "country": "ES",
+    "lat": 38.61509,
+    "lng": -1.49724
+  },
+  {
+    "name": "Ontígola",
+    "country": "ES",
+    "lat": 40.00421,
+    "lng": -3.57227
+  },
+  {
+    "name": "Ontinyent",
+    "country": "ES",
+    "lat": 38.82191,
+    "lng": -0.60603
+  },
+  {
+    "name": "Onil",
+    "country": "ES",
+    "lat": 38.62606,
+    "lng": -0.67313
+  },
+  {
+    "name": "Ondara",
+    "country": "ES",
+    "lat": 38.82817,
+    "lng": 0.0172
+  },
+  {
+    "name": "Onda",
+    "country": "ES",
+    "lat": 39.96495,
+    "lng": -0.26041
+  },
+  {
+    "name": "Onzonilla",
+    "country": "ES",
+    "lat": 42.52435,
+    "lng": -5.5816
+  },
+  {
+    "name": "Ontiñena",
+    "country": "ES",
+    "lat": 41.67663,
+    "lng": 0.08858
+  },
+  {
+    "name": "Ondarroa",
+    "country": "ES",
+    "lat": 43.31667,
+    "lng": -2.41667
+  },
+  {
+    "name": "Oncala",
+    "country": "ES",
+    "lat": 41.97021,
+    "lng": -2.31493
+  },
+  {
+    "name": "Onoun",
+    "country": "FM",
+    "lat": 8.575,
+    "lng": 149.687
+  },
+  {
+    "name": "Onou",
+    "country": "FM",
+    "lat": 8.799,
+    "lng": 150.2915
+  },
+  {
+    "name": "Oneop",
+    "country": "FM",
+    "lat": 5.5066,
+    "lng": 153.7105
+  },
+  {
+    "name": "Onzain",
+    "country": "FR",
+    "lat": 47.49956,
+    "lng": 1.17701
+  },
+  {
+    "name": "Ons-en-Bray",
+    "country": "FR",
+    "lat": 49.41631,
+    "lng": 1.92302
+  },
+  {
+    "name": "Onnaing",
+    "country": "FR",
+    "lat": 50.38584,
+    "lng": 3.59963
+  },
+  {
+    "name": "Onesse-Laharie",
+    "country": "FR",
+    "lat": 44.06237,
+    "lng": -1.06988
+  },
+  {
+    "name": "Ondres",
+    "country": "FR",
+    "lat": 43.5615,
+    "lng": -1.44911
+  },
+  {
+    "name": "Ondes",
+    "country": "FR",
+    "lat": 43.7825,
+    "lng": 1.30823
+  },
+  {
+    "name": "Onga",
+    "country": "GA",
+    "lat": -0.7599,
+    "lng": 14.3057
+  },
+  {
+    "name": "Oni",
+    "country": "GE",
+    "lat": 42.58453,
+    "lng": 43.44356
+  },
+  {
+    "name": "On Wo Yuen",
+    "country": "HK",
+    "lat": 22.31653,
+    "lng": 114.19132
+  },
+  {
+    "name": "One Kai Tak",
+    "country": "HK",
+    "lat": 22.32971,
+    "lng": 114.20049
+  },
+  {
+    "name": "Onga",
+    "country": "HU",
+    "lat": 48.11667,
+    "lng": 20.91667
+  },
+  {
+    "name": "Ondong Siau",
+    "country": "ID",
+    "lat": 2.7473,
+    "lng": 125.3611
+  },
+  {
+    "name": "Onolimbu",
+    "country": "ID",
+    "lat": 0.99459,
+    "lng": 97.49746
+  },
+  {
+    "name": "Onan Ganjang Satu",
+    "country": "ID",
+    "lat": 2.1589,
+    "lng": 98.63044
+  },
+  {
+    "name": "Onimsari",
+    "country": "ID",
+    "lat": -2.86693,
+    "lng": 132.99224
+  },
+  {
+    "name": "Onchan",
+    "country": "IM",
+    "lat": 54.17329,
+    "lng": -4.45324
+  },
+  {
+    "name": "Ongole",
+    "country": "IN",
+    "lat": 15.50357,
+    "lng": 80.04454
+  },
+  {
+    "name": "Onda",
+    "country": "IN",
+    "lat": 15.55635,
+    "lng": 74.05848
+  },
+  {
+    "name": "Ongallur-I",
+    "country": "IN",
+    "lat": 10.80268,
+    "lng": 76.21855
+  },
+  {
+    "name": "Ongallur-II",
+    "country": "IN",
+    "lat": 10.78974,
+    "lng": 76.21898
+  },
+  {
+    "name": "Oniferi",
+    "country": "IT",
+    "lat": 40.27196,
+    "lng": 9.17033
+  },
+  {
+    "name": "Onifai",
+    "country": "IT",
+    "lat": 40.40694,
+    "lng": 9.65005
+  },
+  {
+    "name": "Oneta",
+    "country": "IT",
+    "lat": 45.87149,
+    "lng": 9.81935
+  },
+  {
+    "name": "Onano",
+    "country": "IT",
+    "lat": 42.69104,
+    "lng": 11.81552
+  },
+  {
+    "name": "Onanì",
+    "country": "IT",
+    "lat": 40.48536,
+    "lng": 9.44324
+  },
+  {
+    "name": "Onzo",
+    "country": "IT",
+    "lat": 44.07013,
+    "lng": 8.05225
+  },
+  {
+    "name": "Oncino",
+    "country": "IT",
+    "lat": 44.67683,
+    "lng": 7.19032
+  },
+  {
+    "name": "Onore",
+    "country": "IT",
+    "lat": 45.89159,
+    "lng": 10.01076
+  },
+  {
+    "name": "Ono San Pietro",
+    "country": "IT",
+    "lat": 46.01689,
+    "lng": 10.32836
+  },
+  {
+    "name": "Onè",
+    "country": "IT",
+    "lat": 45.78374,
+    "lng": 11.87404
+  },
+  {
+    "name": "Onigo",
+    "country": "IT",
+    "lat": 45.85701,
+    "lng": 11.99073
+  },
+  {
+    "name": "Onuma",
+    "country": "JP",
+    "lat": 35.51667,
+    "lng": 138.85
+  },
+  {
+    "name": "Onomichi",
+    "country": "JP",
+    "lat": 34.41667,
+    "lng": 133.2
+  },
+  {
+    "name": "Onoda",
+    "country": "JP",
+    "lat": 34.00139,
+    "lng": 131.18361
+  },
+  {
+    "name": "Ono",
+    "country": "JP",
+    "lat": 35.98106,
+    "lng": 136.48727
+  },
+  {
+    "name": "Ono",
+    "country": "JP",
+    "lat": 34.85,
+    "lng": 134.93333
+  },
+  {
+    "name": "Onna",
+    "country": "JP",
+    "lat": 26.49543,
+    "lng": 127.85098
+  },
+  {
+    "name": "Ono-niimachi",
+    "country": "JP",
+    "lat": 37.28749,
+    "lng": 140.6328
+  },
+  {
+    "name": "Onagawa Chō",
+    "country": "JP",
+    "lat": 38.4466,
+    "lng": 141.44794
+  },
+  {
+    "name": "Ongata Rongai",
+    "country": "KE",
+    "lat": -1.3953,
+    "lng": 36.764
+  },
+  {
+    "name": "Ongoni",
+    "country": "KM",
+    "lat": -12.17028,
+    "lng": 44.50694
+  },
+  {
+    "name": "Ongjin",
+    "country": "KP",
+    "lat": 37.93472,
+    "lng": 125.36194
+  },
+  {
+    "name": "Onsŏng",
+    "country": "KP",
+    "lat": 42.95722,
+    "lng": 129.99333
+  },
+  {
+    "name": "Onam",
+    "country": "KR",
+    "lat": 37.69834,
+    "lng": 127.20579
+  },
+  {
+    "name": "Ongnyong",
+    "country": "KR",
+    "lat": 35.01766,
+    "lng": 127.61925
+  },
+  {
+    "name": "Onon",
+    "country": "MN",
+    "lat": 48.61667,
+    "lng": 110.6
+  },
+  {
+    "name": "Ongon",
+    "country": "MN",
+    "lat": 46.98259,
+    "lng": 103.78389
+  },
+  {
+    "name": "Ongi",
+    "country": "MN",
+    "lat": 46.46667,
+    "lng": 102.28333
+  },
+  {
+    "name": "Ongi",
+    "country": "MN",
+    "lat": 45.45,
+    "lng": 103.9
+  },
+  {
+    "name": "Once de Abril",
+    "country": "MX",
+    "lat": 15.05199,
+    "lng": -92.14224
+  },
+  {
+    "name": "Onavas",
+    "country": "MX",
+    "lat": 28.46085,
+    "lng": -109.52858
+  },
+  {
+    "name": "Ongwediva",
+    "country": "NA",
+    "lat": -17.77198,
+    "lng": 15.76564
+  },
+  {
+    "name": "Ongandjera",
+    "country": "NA",
+    "lat": -17.87847,
+    "lng": 15.06961
+  },
+  {
+    "name": "Ondangwa",
+    "country": "NA",
+    "lat": -17.90824,
+    "lng": 15.98037
+  },
+  {
+    "name": "Ondangwa East",
+    "country": "NA",
+    "lat": -17.93021,
+    "lng": 16.0172
+  },
+  {
+    "name": "Onyedega",
+    "country": "NG",
+    "lat": 6.88209,
+    "lng": 6.67585
+  },
+  {
+    "name": "Onitsha",
+    "country": "NG",
+    "lat": 6.14978,
+    "lng": 6.78569
+  },
+  {
+    "name": "Ondo",
+    "country": "NG",
+    "lat": 7.09316,
+    "lng": 4.83528
+  },
+  {
+    "name": "Onueke",
+    "country": "NG",
+    "lat": 6.15537,
+    "lng": 8.03735
+  },
+  {
+    "name": "Onuebonyi Echara",
+    "country": "NG",
+    "lat": 6.0954,
+    "lng": 8.15157
+  },
+  {
+    "name": "Onstwedde",
+    "country": "NL",
+    "lat": 53.035,
+    "lng": 7.04028
+  },
+  {
+    "name": "Onderdijk",
+    "country": "NL",
+    "lat": 52.74333,
+    "lng": 5.1375
+  },
+  {
+    "name": "Onerahi",
+    "country": "NZ",
+    "lat": -35.76667,
+    "lng": 174.36667
+  },
+  {
+    "name": "Onekawa",
+    "country": "NZ",
+    "lat": -39.50914,
+    "lng": 176.88958
+  },
+  {
+    "name": "Onehunga",
+    "country": "NZ",
+    "lat": -36.9182,
+    "lng": 174.78019
+  },
+  {
+    "name": "Oneroa",
+    "country": "NZ",
+    "lat": -36.77819,
+    "lng": 175.01019
+  },
+  {
+    "name": "Onepoto",
+    "country": "NZ",
+    "lat": -41.10827,
+    "lng": 174.8402
+  },
+  {
+    "name": "Ongoy",
+    "country": "PE",
+    "lat": -13.40361,
+    "lng": -73.66972
+  },
+  {
+    "name": "Ondores",
+    "country": "PE",
+    "lat": -11.08369,
+    "lng": -76.14705
+  },
+  {
+    "name": "Ondoy",
+    "country": "PH",
+    "lat": 11.81917,
+    "lng": 122.12611
+  },
+  {
+    "name": "Oniceni",
+    "country": "RO",
+    "lat": 47.32441,
+    "lng": 26.46217
+  },
+  {
+    "name": "Oniceni",
+    "country": "RO",
+    "lat": 46.81667,
+    "lng": 27.15
+  },
+  {
+    "name": "Oneaga",
+    "country": "RO",
+    "lat": 47.57626,
+    "lng": 26.73244
+  },
+  {
+    "name": "Oncești",
+    "country": "RO",
+    "lat": 47.84814,
+    "lng": 23.98183
+  },
+  {
+    "name": "Onceşti",
+    "country": "RO",
+    "lat": 46.46667,
+    "lng": 27.25
+  },
+  {
+    "name": "Onesti",
+    "country": "RO",
+    "lat": 46.25,
+    "lng": 26.75
+  },
+  {
+    "name": "Onega",
+    "country": "RU",
+    "lat": 63.9057,
+    "lng": 38.09944
+  },
+  {
+    "name": "Onokhino",
+    "country": "RU",
+    "lat": 56.92501,
+    "lng": 65.5394
+  },
+  {
+    "name": "Onguday",
+    "country": "RU",
+    "lat": 50.74962,
+    "lng": 86.13379
+  },
+  {
+    "name": "Onokhoy",
+    "country": "RU",
+    "lat": 51.92859,
+    "lng": 108.06693
+  },
+  {
+    "name": "Onsala",
+    "country": "SE",
+    "lat": 57.42531,
+    "lng": 12.02903
+  },
+  {
+    "name": "One Tree Hill",
+    "country": "SG",
+    "lat": 1.30167,
+    "lng": 103.82694
+  },
+  {
+    "name": "One North",
+    "country": "SG",
+    "lat": 1.30016,
+    "lng": 103.78711
+  },
+  {
+    "name": "Onverwacht",
+    "country": "SR",
+    "lat": 5.58983,
+    "lng": -55.19462
+  },
+  {
+    "name": "Ongkharak",
+    "country": "TH",
+    "lat": 14.12117,
+    "lng": 101.00364
+  },
+  {
+    "name": "Ondokuzmayıs",
+    "country": "TR",
+    "lat": 41.5011,
+    "lng": 36.06887
+  },
+  {
+    "name": "Onufriyivka",
+    "country": "UA",
+    "lat": 48.89917,
+    "lng": 33.44954
+  },
+  {
+    "name": "Onokivtsi",
+    "country": "UA",
+    "lat": 48.65763,
+    "lng": 22.34183
+  },
+  {
+    "name": "Oneonta",
+    "country": "US",
+    "lat": 33.94815,
+    "lng": -86.47276
+  },
+  {
+    "name": "Oneida",
+    "country": "US",
+    "lat": 36.49813,
+    "lng": -84.51272
+  },
+  {
+    "name": "Onalaska",
+    "country": "US",
+    "lat": 30.80575,
+    "lng": -95.11633
+  },
+  {
+    "name": "Onion Creek",
+    "country": "US",
+    "lat": 30.1366,
+    "lng": -97.78417
+  },
+  {
+    "name": "Onancock",
+    "country": "US",
+    "lat": 37.7118,
+    "lng": -75.7491
+  },
+  {
+    "name": "Onawa",
+    "country": "US",
+    "lat": 42.02665,
+    "lng": -96.09724
+  },
+  {
+    "name": "Onarga",
+    "country": "US",
+    "lat": 40.71504,
+    "lng": -88.00615
+  },
+  {
+    "name": "Onset",
+    "country": "US",
+    "lat": 41.74177,
+    "lng": -70.65781
+  },
+  {
+    "name": "Ontonagon",
+    "country": "US",
+    "lat": 46.87105,
+    "lng": -89.31403
+  },
+  {
+    "name": "Oneida",
+    "country": "US",
+    "lat": 43.09257,
+    "lng": -75.65129
+  },
+  {
+    "name": "Oneonta",
+    "country": "US",
+    "lat": 42.45286,
+    "lng": -75.06377
+  },
+  {
+    "name": "Ontario",
+    "country": "US",
+    "lat": 43.2209,
+    "lng": -77.28304
+  },
+  {
+    "name": "Ontario",
+    "country": "US",
+    "lat": 40.7595,
+    "lng": -82.59017
+  },
+  {
+    "name": "Onalaska",
+    "country": "US",
+    "lat": 43.88441,
+    "lng": -91.23514
+  },
+  {
+    "name": "Oneida",
+    "country": "US",
+    "lat": 44.4986,
+    "lng": -88.18288
+  },
+  {
+    "name": "Ontario",
+    "country": "US",
+    "lat": 34.06334,
+    "lng": -117.65089
+  },
+  {
+    "name": "Ontario",
+    "country": "US",
+    "lat": 44.02655,
+    "lng": -116.96294
+  },
+  {
+    "name": "Onida",
+    "country": "US",
+    "lat": 44.70804,
+    "lng": -100.05984
+  },
+  {
+    "name": "On Top of the World",
+    "country": "US",
+    "lat": 29.11516,
+    "lng": -82.29129
+  },
+  {
+    "name": "Onoto",
+    "country": "VE",
+    "lat": 9.59714,
+    "lng": -65.1935
+  },
+  {
+    "name": "Ongojou",
+    "country": "YT",
+    "lat": -12.83883,
+    "lng": 45.16012
+  },
+  {
+    "name": "Onverwacht",
+    "country": "ZA",
+    "lat": -25.60233,
+    "lng": 28.59898
+  }
+]

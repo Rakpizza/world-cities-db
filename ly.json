@@ -1,0 +1,920 @@
+[
+  {
+    "name": "Lyndoch",
+    "country": "AU",
+    "lat": -34.60124,
+    "lng": 138.89094
+  },
+  {
+    "name": "Lysterfield",
+    "country": "AU",
+    "lat": -37.93333,
+    "lng": 145.3
+  },
+  {
+    "name": "Lyneham",
+    "country": "AU",
+    "lat": -35.2398,
+    "lng": 149.13074
+  },
+  {
+    "name": "Lynbrook",
+    "country": "AU",
+    "lat": -38.05588,
+    "lng": 145.25615
+  },
+  {
+    "name": "Lynwood",
+    "country": "AU",
+    "lat": -32.04013,
+    "lng": 115.92888
+  },
+  {
+    "name": "Lyons",
+    "country": "AU",
+    "lat": -35.3406,
+    "lng": 149.07396
+  },
+  {
+    "name": "Lyons",
+    "country": "AU",
+    "lat": -12.35912,
+    "lng": 130.88852
+  },
+  {
+    "name": "Lyubimets",
+    "country": "BG",
+    "lat": 41.84432,
+    "lng": 26.08115
+  },
+  {
+    "name": "Lyaskovets",
+    "country": "BG",
+    "lat": 43.11111,
+    "lng": 25.72833
+  },
+  {
+    "name": "Lyuban’",
+    "country": "BY",
+    "lat": 52.7985,
+    "lng": 28.0048
+  },
+  {
+    "name": "Lyntupy",
+    "country": "BY",
+    "lat": 55.0516,
+    "lng": 26.3103
+  },
+  {
+    "name": "Lyepyel’",
+    "country": "BY",
+    "lat": 54.8814,
+    "lng": 28.699
+  },
+  {
+    "name": "Lyakhovichi",
+    "country": "BY",
+    "lat": 53.03931,
+    "lng": 26.26314
+  },
+  {
+    "name": "Lyeskawka",
+    "country": "BY",
+    "lat": 54.0024,
+    "lng": 27.7108
+  },
+  {
+    "name": "Lyasny",
+    "country": "BY",
+    "lat": 54.0072,
+    "lng": 27.6963
+  },
+  {
+    "name": "Lynnmour",
+    "country": "CA",
+    "lat": 49.31667,
+    "lng": -123.03333
+  },
+  {
+    "name": "Lynn Canyon",
+    "country": "CA",
+    "lat": 49.33998,
+    "lng": -123.02219
+  },
+  {
+    "name": "Lyndhurst",
+    "country": "CA",
+    "lat": 49.26544,
+    "lng": -122.89919
+  },
+  {
+    "name": "Lyssach",
+    "country": "CH",
+    "lat": 47.06445,
+    "lng": 7.58228
+  },
+  {
+    "name": "Lyss",
+    "country": "CH",
+    "lat": 47.0741,
+    "lng": 7.30655
+  },
+  {
+    "name": "Lythrodóntas",
+    "country": "CY",
+    "lat": 34.95105,
+    "lng": 33.29777
+  },
+  {
+    "name": "Lysice",
+    "country": "CZ",
+    "lat": 49.4516,
+    "lng": 16.53716
+  },
+  {
+    "name": "Lysá nad Labem",
+    "country": "CZ",
+    "lat": 50.20143,
+    "lng": 14.83281
+  },
+  {
+    "name": "Lychen",
+    "country": "DE",
+    "lat": 53.21242,
+    "lng": 13.31483
+  },
+  {
+    "name": "Lystrup",
+    "country": "DK",
+    "lat": 56.49839,
+    "lng": 10.46887
+  },
+  {
+    "name": "Lystrup",
+    "country": "DK",
+    "lat": 56.2375,
+    "lng": 10.23778
+  },
+  {
+    "name": "Lynge",
+    "country": "DK",
+    "lat": 55.83941,
+    "lng": 12.27725
+  },
+  {
+    "name": "Lys-lez-Lannoy",
+    "country": "FR",
+    "lat": 50.66667,
+    "lng": 3.21667
+  },
+  {
+    "name": "Lyon",
+    "country": "FR",
+    "lat": 45.74906,
+    "lng": 4.84789
+  },
+  {
+    "name": "Lyaud",
+    "country": "FR",
+    "lat": 46.33972,
+    "lng": 6.52595
+  },
+  {
+    "name": "Lyon 02",
+    "country": "FR",
+    "lat": 45.75423,
+    "lng": 4.83089
+  },
+  {
+    "name": "Lyon 03",
+    "country": "FR",
+    "lat": 45.76124,
+    "lng": 4.85184
+  },
+  {
+    "name": "Lyon 04",
+    "country": "FR",
+    "lat": 45.77507,
+    "lng": 4.82712
+  },
+  {
+    "name": "Lyon 05",
+    "country": "FR",
+    "lat": 45.76106,
+    "lng": 4.82677
+  },
+  {
+    "name": "Lyon 06",
+    "country": "FR",
+    "lat": 45.76788,
+    "lng": 4.85064
+  },
+  {
+    "name": "Lyon 07",
+    "country": "FR",
+    "lat": 45.74525,
+    "lng": 4.84197
+  },
+  {
+    "name": "Lyon 08",
+    "country": "FR",
+    "lat": 45.73626,
+    "lng": 4.86866
+  },
+  {
+    "name": "Lyon 09",
+    "country": "FR",
+    "lat": 45.77255,
+    "lng": 4.80326
+  },
+  {
+    "name": "Lyon 01",
+    "country": "FR",
+    "lat": 45.76758,
+    "lng": 4.8345
+  },
+  {
+    "name": "Lytchett Matravers",
+    "country": "GB",
+    "lat": 50.75826,
+    "lng": -2.07806
+  },
+  {
+    "name": "Lynton",
+    "country": "GB",
+    "lat": 51.22968,
+    "lng": -3.84131
+  },
+  {
+    "name": "Lyneham",
+    "country": "GB",
+    "lat": 51.51667,
+    "lng": -1.96667
+  },
+  {
+    "name": "Lyndhurst",
+    "country": "GB",
+    "lat": 50.87259,
+    "lng": -1.57662
+  },
+  {
+    "name": "Lympstone",
+    "country": "GB",
+    "lat": 50.64751,
+    "lng": -3.43162
+  },
+  {
+    "name": "Lympne",
+    "country": "GB",
+    "lat": 51.07773,
+    "lng": 1.02808
+  },
+  {
+    "name": "Lymm",
+    "country": "GB",
+    "lat": 53.38105,
+    "lng": -2.47763
+  },
+  {
+    "name": "Lymington",
+    "country": "GB",
+    "lat": 50.75916,
+    "lng": -1.53828
+  },
+  {
+    "name": "Lyminge",
+    "country": "GB",
+    "lat": 51.12951,
+    "lng": 1.08896
+  },
+  {
+    "name": "Lyme Regis",
+    "country": "GB",
+    "lat": 50.72654,
+    "lng": -2.93477
+  },
+  {
+    "name": "Lydney",
+    "country": "GB",
+    "lat": 51.72598,
+    "lng": -2.52605
+  },
+  {
+    "name": "Lydiard Tregoze",
+    "country": "GB",
+    "lat": 51.55,
+    "lng": -1.85
+  },
+  {
+    "name": "Lydiard Millicent",
+    "country": "GB",
+    "lat": 51.57117,
+    "lng": -1.86346
+  },
+  {
+    "name": "Lydham",
+    "country": "GB",
+    "lat": 52.51476,
+    "lng": -2.9797
+  },
+  {
+    "name": "Lydd",
+    "country": "GB",
+    "lat": 50.95132,
+    "lng": 0.90654
+  },
+  {
+    "name": "Lydbrook",
+    "country": "GB",
+    "lat": 51.83763,
+    "lng": -2.57818
+  },
+  {
+    "name": "Lynemouth",
+    "country": "GB",
+    "lat": 55.21306,
+    "lng": -1.5425
+  },
+  {
+    "name": "Lytham St Annes",
+    "country": "GB",
+    "lat": 53.7426,
+    "lng": -2.997
+  },
+  {
+    "name": "Lykóvrysi",
+    "country": "GR",
+    "lat": 38.06933,
+    "lng": 23.78223
+  },
+  {
+    "name": "Lyngseidet",
+    "country": "NO",
+    "lat": 69.57629,
+    "lng": 20.21887
+  },
+  {
+    "name": "Lysaker",
+    "country": "NO",
+    "lat": 59.90994,
+    "lng": 10.63545
+  },
+  {
+    "name": "Lyngdal",
+    "country": "NO",
+    "lat": 58.1376,
+    "lng": 7.07002
+  },
+  {
+    "name": "Lyefjell",
+    "country": "NO",
+    "lat": 58.73539,
+    "lng": 5.73615
+  },
+  {
+    "name": "Lyttelton",
+    "country": "NZ",
+    "lat": -43.60314,
+    "lng": 172.71765
+  },
+  {
+    "name": "Lynmouth",
+    "country": "NZ",
+    "lat": -39.06402,
+    "lng": 174.05378
+  },
+  {
+    "name": "Lynfield",
+    "country": "NZ",
+    "lat": -36.9282,
+    "lng": 174.72019
+  },
+  {
+    "name": "Lyall Bay",
+    "country": "NZ",
+    "lat": -41.32731,
+    "lng": 174.79448
+  },
+  {
+    "name": "Lyski",
+    "country": "PL",
+    "lat": 50.11992,
+    "lng": 18.39146
+  },
+  {
+    "name": "Lyudinovo",
+    "country": "RU",
+    "lat": 53.86639,
+    "lng": 34.44778
+  },
+  {
+    "name": "Lyubytino",
+    "country": "RU",
+    "lat": 58.81441,
+    "lng": 33.39196
+  },
+  {
+    "name": "Lyubuchany",
+    "country": "RU",
+    "lat": 55.25088,
+    "lng": 37.54988
+  },
+  {
+    "name": "Lyubovsho",
+    "country": "RU",
+    "lat": 52.9851,
+    "lng": 31.5422
+  },
+  {
+    "name": "Lyubokhna",
+    "country": "RU",
+    "lat": 53.50332,
+    "lng": 34.38847
+  },
+  {
+    "name": "Lyublino",
+    "country": "RU",
+    "lat": 55.67738,
+    "lng": 37.76005
+  },
+  {
+    "name": "Lyubim",
+    "country": "RU",
+    "lat": 58.36183,
+    "lng": 40.68695
+  },
+  {
+    "name": "Lyubertsy",
+    "country": "RU",
+    "lat": 55.67719,
+    "lng": 37.89322
+  },
+  {
+    "name": "Lyuban’",
+    "country": "RU",
+    "lat": 59.35,
+    "lng": 31.21667
+  },
+  {
+    "name": "Lytkarino",
+    "country": "RU",
+    "lat": 55.57653,
+    "lng": 37.91245
+  },
+  {
+    "name": "Lysyye Gory",
+    "country": "RU",
+    "lat": 51.55083,
+    "lng": 44.83982
+  },
+  {
+    "name": "Lys’va",
+    "country": "RU",
+    "lat": 58.10737,
+    "lng": 57.81063
+  },
+  {
+    "name": "Lysogorskaya",
+    "country": "RU",
+    "lat": 44.10639,
+    "lng": 43.27556
+  },
+  {
+    "name": "Lyskovo",
+    "country": "RU",
+    "lat": 56.02927,
+    "lng": 45.04233
+  },
+  {
+    "name": "Lyaskelya",
+    "country": "RU",
+    "lat": 61.76322,
+    "lng": 31.00616
+  },
+  {
+    "name": "Lyangasovo",
+    "country": "RU",
+    "lat": 58.51759,
+    "lng": 49.44718
+  },
+  {
+    "name": "Lyamino",
+    "country": "RU",
+    "lat": 58.2839,
+    "lng": 57.725
+  },
+  {
+    "name": "Lyambir’",
+    "country": "RU",
+    "lat": 54.27988,
+    "lng": 45.12225
+  },
+  {
+    "name": "Lyubinskiy",
+    "country": "RU",
+    "lat": 55.15821,
+    "lng": 72.6932
+  },
+  {
+    "name": "Lyantor",
+    "country": "RU",
+    "lat": 61.61945,
+    "lng": 72.15546
+  },
+  {
+    "name": "Lyalichi",
+    "country": "RU",
+    "lat": 44.07264,
+    "lng": 132.38701
+  },
+  {
+    "name": "Lysekil",
+    "country": "SE",
+    "lat": 58.27429,
+    "lng": 11.43576
+  },
+  {
+    "name": "Lycksele",
+    "country": "SE",
+    "lat": 64.59537,
+    "lng": 18.67351
+  },
+  {
+    "name": "Lysá pod Makytou",
+    "country": "SK",
+    "lat": 49.19713,
+    "lng": 18.19636
+  },
+  {
+    "name": "Lymanivka",
+    "country": "UA",
+    "lat": 48.93883,
+    "lng": 36.27828
+  },
+  {
+    "name": "Lyubymivka",
+    "country": "UA",
+    "lat": 46.81048,
+    "lng": 33.56845
+  },
+  {
+    "name": "Lysyanka",
+    "country": "UA",
+    "lat": 49.25045,
+    "lng": 30.82782
+  },
+  {
+    "name": "Lysa Hora",
+    "country": "UA",
+    "lat": 48.17059,
+    "lng": 31.10994
+  },
+  {
+    "name": "Lyubashivka",
+    "country": "UA",
+    "lat": 47.83387,
+    "lng": 30.25209
+  },
+  {
+    "name": "Lysychovo",
+    "country": "UA",
+    "lat": 48.49518,
+    "lng": 23.28237
+  },
+  {
+    "name": "Lysychansk",
+    "country": "UA",
+    "lat": 48.90421,
+    "lng": 38.44094
+  },
+  {
+    "name": "Lysets",
+    "country": "UA",
+    "lat": 48.86912,
+    "lng": 24.60898
+  },
+  {
+    "name": "Lyptsi",
+    "country": "UA",
+    "lat": 50.20931,
+    "lng": 36.42085
+  },
+  {
+    "name": "Lypovets",
+    "country": "UA",
+    "lat": 49.22776,
+    "lng": 29.05669
+  },
+  {
+    "name": "Lypova Dolyna",
+    "country": "UA",
+    "lat": 50.56428,
+    "lng": 33.79793
+  },
+  {
+    "name": "Lypniazhka",
+    "country": "UA",
+    "lat": 48.4458,
+    "lng": 31.08074
+  },
+  {
+    "name": "Lypetske",
+    "country": "UA",
+    "lat": 47.73646,
+    "lng": 29.71521
+  },
+  {
+    "name": "Lypcha",
+    "country": "UA",
+    "lat": 48.26194,
+    "lng": 23.38394
+  },
+  {
+    "name": "Lymany",
+    "country": "UA",
+    "lat": 46.73156,
+    "lng": 31.96848
+  },
+  {
+    "name": "Lymanske",
+    "country": "UA",
+    "lat": 46.67952,
+    "lng": 29.97231
+  },
+  {
+    "name": "Lymans’ke",
+    "country": "UA",
+    "lat": 45.42951,
+    "lng": 28.41331
+  },
+  {
+    "name": "Lyman",
+    "country": "UA",
+    "lat": 49.59358,
+    "lng": 36.46548
+  },
+  {
+    "name": "Lyman",
+    "country": "UA",
+    "lat": 45.67332,
+    "lng": 29.74444
+  },
+  {
+    "name": "Lykhivka",
+    "country": "UA",
+    "lat": 48.67739,
+    "lng": 33.93197
+  },
+  {
+    "name": "Lyman",
+    "country": "UA",
+    "lat": 48.98616,
+    "lng": 37.80307
+  },
+  {
+    "name": "Lymanka",
+    "country": "UA",
+    "lat": 46.38564,
+    "lng": 30.67736
+  },
+  {
+    "name": "Lyantonde",
+    "country": "UG",
+    "lat": -0.40306,
+    "lng": 31.15722
+  },
+  {
+    "name": "Lynn Haven",
+    "country": "US",
+    "lat": 30.24548,
+    "lng": -85.64826
+  },
+  {
+    "name": "Lyons",
+    "country": "US",
+    "lat": 32.20435,
+    "lng": -82.32179
+  },
+  {
+    "name": "Lyndon",
+    "country": "US",
+    "lat": 38.61001,
+    "lng": -95.68443
+  },
+  {
+    "name": "Lyons",
+    "country": "US",
+    "lat": 38.34501,
+    "lng": -98.20173
+  },
+  {
+    "name": "Lyndon",
+    "country": "US",
+    "lat": 38.25674,
+    "lng": -85.60163
+  },
+  {
+    "name": "Lyman",
+    "country": "US",
+    "lat": 30.49474,
+    "lng": -89.12561
+  },
+  {
+    "name": "Lynchburg",
+    "country": "US",
+    "lat": 34.96232,
+    "lng": -90.09593
+  },
+  {
+    "name": "Lynchburg",
+    "country": "US",
+    "lat": 32.44014,
+    "lng": -90.54899
+  },
+  {
+    "name": "Lynchburg",
+    "country": "US",
+    "lat": 39.24173,
+    "lng": -83.79131
+  },
+  {
+    "name": "Lyman",
+    "country": "US",
+    "lat": 34.94817,
+    "lng": -82.12733
+  },
+  {
+    "name": "Lynchburg",
+    "country": "US",
+    "lat": 35.28314,
+    "lng": -86.37416
+  },
+  {
+    "name": "Lyford",
+    "country": "US",
+    "lat": 26.41229,
+    "lng": -97.78972
+  },
+  {
+    "name": "Lytle",
+    "country": "US",
+    "lat": 29.23329,
+    "lng": -98.79641
+  },
+  {
+    "name": "Lynchburg",
+    "country": "US",
+    "lat": 37.41375,
+    "lng": -79.14225
+  },
+  {
+    "name": "Lyndhurst",
+    "country": "US",
+    "lat": 38.0293,
+    "lng": -78.94502
+  },
+  {
+    "name": "Lynwood",
+    "country": "US",
+    "lat": 41.52642,
+    "lng": -87.53865
+  },
+  {
+    "name": "Lynwood",
+    "country": "US",
+    "lat": 41.68364,
+    "lng": -88.39368
+  },
+  {
+    "name": "Lyons",
+    "country": "US",
+    "lat": 41.81337,
+    "lng": -87.81811
+  },
+  {
+    "name": "Lynn",
+    "country": "US",
+    "lat": 40.04977,
+    "lng": -84.93969
+  },
+  {
+    "name": "Lynn",
+    "country": "US",
+    "lat": 42.46676,
+    "lng": -70.94949
+  },
+  {
+    "name": "Lynnfield",
+    "country": "US",
+    "lat": 42.53898,
+    "lng": -71.04811
+  },
+  {
+    "name": "Lyme",
+    "country": "US",
+    "lat": 43.80951,
+    "lng": -72.15592
+  },
+  {
+    "name": "Lyndeborough",
+    "country": "US",
+    "lat": 42.90758,
+    "lng": -71.76646
+  },
+  {
+    "name": "Lyndhurst",
+    "country": "US",
+    "lat": 40.81204,
+    "lng": -74.12431
+  },
+  {
+    "name": "Lynbrook",
+    "country": "US",
+    "lat": 40.65483,
+    "lng": -73.6718
+  },
+  {
+    "name": "Lyncourt",
+    "country": "US",
+    "lat": 43.08146,
+    "lng": -76.12576
+  },
+  {
+    "name": "Lyons",
+    "country": "US",
+    "lat": 43.06423,
+    "lng": -76.99025
+  },
+  {
+    "name": "Lyndhurst",
+    "country": "US",
+    "lat": 41.52005,
+    "lng": -81.48873
+  },
+  {
+    "name": "Lykens",
+    "country": "US",
+    "lat": 40.56675,
+    "lng": -76.70052
+  },
+  {
+    "name": "Lyndon",
+    "country": "US",
+    "lat": 44.51422,
+    "lng": -72.01093
+  },
+  {
+    "name": "Lyndonville",
+    "country": "US",
+    "lat": 44.53367,
+    "lng": -72.00315
+  },
+  {
+    "name": "Lynwood",
+    "country": "US",
+    "lat": 33.93029,
+    "lng": -118.21146
+  },
+  {
+    "name": "Lyons",
+    "country": "US",
+    "lat": 40.22471,
+    "lng": -105.27138
+  },
+  {
+    "name": "Lyons",
+    "country": "US",
+    "lat": 44.77457,
+    "lng": -122.61509
+  },
+  {
+    "name": "Lynden",
+    "country": "US",
+    "lat": 48.9465,
+    "lng": -122.45211
+  },
+  {
+    "name": "Lynnwood",
+    "country": "US",
+    "lat": 47.82093,
+    "lng": -122.31513
+  },
+  {
+    "name": "Lyman",
+    "country": "US",
+    "lat": 41.32745,
+    "lng": -110.29293
+  },
+  {
+    "name": "Lynnwood-Pricedale",
+    "country": "US",
+    "lat": 40.13071,
+    "lng": -79.85135
+  },
+  {
+    "name": "Lydenburg",
+    "country": "ZA",
+    "lat": -25.09598,
+    "lng": 30.44393
+  }
+]

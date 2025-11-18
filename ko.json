@@ -1,0 +1,9152 @@
+[
+  {
+    "name": "Konispol",
+    "country": "AL",
+    "lat": 39.65889,
+    "lng": 20.18139
+  },
+  {
+    "name": "Korçë",
+    "country": "AL",
+    "lat": 40.61861,
+    "lng": 20.78083
+  },
+  {
+    "name": "Kolsh",
+    "country": "AL",
+    "lat": 42.07806,
+    "lng": 20.34194
+  },
+  {
+    "name": "Kodovjat",
+    "country": "AL",
+    "lat": 40.80556,
+    "lng": 20.25111
+  },
+  {
+    "name": "Kokaj",
+    "country": "AL",
+    "lat": 41.87833,
+    "lng": 20.50472
+  },
+  {
+    "name": "Kozarë",
+    "country": "AL",
+    "lat": 40.83083,
+    "lng": 19.90056
+  },
+  {
+    "name": "Kotë",
+    "country": "AL",
+    "lat": 40.38944,
+    "lng": 19.60222
+  },
+  {
+    "name": "Koplik",
+    "country": "AL",
+    "lat": 42.21361,
+    "lng": 19.43639
+  },
+  {
+    "name": "Kombësi",
+    "country": "AL",
+    "lat": 41.58167,
+    "lng": 19.98556
+  },
+  {
+    "name": "Kolonjë",
+    "country": "AL",
+    "lat": 40.82417,
+    "lng": 19.60389
+  },
+  {
+    "name": "Kolç",
+    "country": "AL",
+    "lat": 41.78667,
+    "lng": 19.67611
+  },
+  {
+    "name": "Kodër-Vorë",
+    "country": "AL",
+    "lat": 41.38306,
+    "lng": 19.66028
+  },
+  {
+    "name": "Kornidzor",
+    "country": "AM",
+    "lat": 39.54763,
+    "lng": 46.53046
+  },
+  {
+    "name": "Koti",
+    "country": "AM",
+    "lat": 41.13243,
+    "lng": 45.1295
+  },
+  {
+    "name": "Kotayk",
+    "country": "AM",
+    "lat": 40.27789,
+    "lng": 44.66388
+  },
+  {
+    "name": "Kosh",
+    "country": "AM",
+    "lat": 40.29995,
+    "lng": 44.15252
+  },
+  {
+    "name": "Koghb",
+    "country": "AM",
+    "lat": 41.18184,
+    "lng": 44.97608
+  },
+  {
+    "name": "Kottingbrunn",
+    "country": "AT",
+    "lat": 47.95096,
+    "lng": 16.22715
+  },
+  {
+    "name": "Korneuburg",
+    "country": "AT",
+    "lat": 48.35,
+    "lng": 16.33333
+  },
+  {
+    "name": "Koppl",
+    "country": "AT",
+    "lat": 47.80808,
+    "lng": 13.15561
+  },
+  {
+    "name": "Kopfing im Innkreis",
+    "country": "AT",
+    "lat": 48.43991,
+    "lng": 13.65841
+  },
+  {
+    "name": "Kolsassberg",
+    "country": "AT",
+    "lat": 47.2815,
+    "lng": 11.65289
+  },
+  {
+    "name": "Kohlschwarz",
+    "country": "AT",
+    "lat": 47.11667,
+    "lng": 15.11667
+  },
+  {
+    "name": "Kohlberg",
+    "country": "AT",
+    "lat": 46.9,
+    "lng": 15.78333
+  },
+  {
+    "name": "Kohfidisch",
+    "country": "AT",
+    "lat": 47.17472,
+    "lng": 16.35701
+  },
+  {
+    "name": "Koblach",
+    "country": "AT",
+    "lat": 47.33306,
+    "lng": 9.6
+  },
+  {
+    "name": "Kobersdorf",
+    "country": "AT",
+    "lat": 47.59572,
+    "lng": 16.39173
+  },
+  {
+    "name": "Kobenz",
+    "country": "AT",
+    "lat": 47.25,
+    "lng": 14.85
+  },
+  {
+    "name": "Kolsass",
+    "country": "AT",
+    "lat": 47.3,
+    "lng": 11.63333
+  },
+  {
+    "name": "Kojonup",
+    "country": "AU",
+    "lat": -33.8305,
+    "lng": 117.15946
+  },
+  {
+    "name": "Kotara",
+    "country": "AU",
+    "lat": -32.94282,
+    "lng": 151.69585
+  },
+  {
+    "name": "Korumburra",
+    "country": "AU",
+    "lat": -38.43194,
+    "lng": 145.82355
+  },
+  {
+    "name": "Koroit",
+    "country": "AU",
+    "lat": -38.2918,
+    "lng": 142.36729
+  },
+  {
+    "name": "Koo-Wee-Rup",
+    "country": "AU",
+    "lat": -38.19941,
+    "lng": 145.49081
+  },
+  {
+    "name": "Kootingal",
+    "country": "AU",
+    "lat": -31.05857,
+    "lng": 151.0535
+  },
+  {
+    "name": "Kogarah",
+    "country": "AU",
+    "lat": -33.9681,
+    "lng": 151.13564
+  },
+  {
+    "name": "Kooralbyn",
+    "country": "AU",
+    "lat": -28.07955,
+    "lng": 152.83974
+  },
+  {
+    "name": "Kosciuszko National Park",
+    "country": "AU",
+    "lat": -36.26436,
+    "lng": 148.48179
+  },
+  {
+    "name": "Kooringal",
+    "country": "AU",
+    "lat": -35.14069,
+    "lng": 147.3768
+  },
+  {
+    "name": "Koondoola",
+    "country": "AU",
+    "lat": -31.84145,
+    "lng": 115.86654
+  },
+  {
+    "name": "Koongal",
+    "country": "AU",
+    "lat": -23.36887,
+    "lng": 150.54917
+  },
+  {
+    "name": "Kogarah Bay",
+    "country": "AU",
+    "lat": -33.97951,
+    "lng": 151.12119
+  },
+  {
+    "name": "Koonawarra",
+    "country": "AU",
+    "lat": -34.50212,
+    "lng": 150.80855
+  },
+  {
+    "name": "Korora",
+    "country": "AU",
+    "lat": -30.2462,
+    "lng": 153.11487
+  },
+  {
+    "name": "Kotara South",
+    "country": "AU",
+    "lat": -32.95261,
+    "lng": 151.69076
+  },
+  {
+    "name": "Korgöz",
+    "country": "AZ",
+    "lat": 40.30446,
+    "lng": 49.6236
+  },
+  {
+    "name": "Kotor Varoš",
+    "country": "BA",
+    "lat": 44.61831,
+    "lng": 17.37204
+  },
+  {
+    "name": "Koraće",
+    "country": "BA",
+    "lat": 45.06706,
+    "lng": 17.93497
+  },
+  {
+    "name": "Kopači",
+    "country": "BA",
+    "lat": 43.67833,
+    "lng": 19.02845
+  },
+  {
+    "name": "Kočerin",
+    "country": "BA",
+    "lat": 43.39005,
+    "lng": 17.48552
+  },
+  {
+    "name": "Kobilja Glava",
+    "country": "BA",
+    "lat": 43.88188,
+    "lng": 18.38864
+  },
+  {
+    "name": "Kostajnica",
+    "country": "BA",
+    "lat": 45.21956,
+    "lng": 16.53929
+  },
+  {
+    "name": "Kozarska Dubica",
+    "country": "BA",
+    "lat": 45.17667,
+    "lng": 16.80944
+  },
+  {
+    "name": "Koran",
+    "country": "BA",
+    "lat": 43.81038,
+    "lng": 18.56999
+  },
+  {
+    "name": "Kovači",
+    "country": "BA",
+    "lat": 44.44874,
+    "lng": 18.20521
+  },
+  {
+    "name": "Konjic",
+    "country": "BA",
+    "lat": 43.65126,
+    "lng": 17.96082
+  },
+  {
+    "name": "Kozen",
+    "country": "BE",
+    "lat": 50.8752,
+    "lng": 5.24005
+  },
+  {
+    "name": "Kortrijk-Dutsel",
+    "country": "BE",
+    "lat": 50.92676,
+    "lng": 4.80799
+  },
+  {
+    "name": "Kortrijk",
+    "country": "BE",
+    "lat": 50.82803,
+    "lng": 3.26487
+  },
+  {
+    "name": "Kortessem",
+    "country": "BE",
+    "lat": 50.8589,
+    "lng": 5.38974
+  },
+  {
+    "name": "Kortenberg",
+    "country": "BE",
+    "lat": 50.88982,
+    "lng": 4.54353
+  },
+  {
+    "name": "Kortenaken",
+    "country": "BE",
+    "lat": 50.90862,
+    "lng": 5.05968
+  },
+  {
+    "name": "Kortemark",
+    "country": "BE",
+    "lat": 51.02951,
+    "lng": 3.04112
+  },
+  {
+    "name": "Korbeek-Lo",
+    "country": "BE",
+    "lat": 50.86028,
+    "lng": 4.76274
+  },
+  {
+    "name": "Koolskamp",
+    "country": "BE",
+    "lat": 51.00233,
+    "lng": 3.2104
+  },
+  {
+    "name": "Koolkerke",
+    "country": "BE",
+    "lat": 51.23931,
+    "lng": 3.24745
+  },
+  {
+    "name": "Kontich",
+    "country": "BE",
+    "lat": 51.13213,
+    "lng": 4.44706
+  },
+  {
+    "name": "Koninksem",
+    "country": "BE",
+    "lat": 50.76535,
+    "lng": 5.43892
+  },
+  {
+    "name": "Koningshooikt",
+    "country": "BE",
+    "lat": 51.09607,
+    "lng": 4.60992
+  },
+  {
+    "name": "Koksijde",
+    "country": "BE",
+    "lat": 51.11642,
+    "lng": 2.63772
+  },
+  {
+    "name": "Koersel",
+    "country": "BE",
+    "lat": 51.05909,
+    "lng": 5.27121
+  },
+  {
+    "name": "Koekelberg",
+    "country": "BE",
+    "lat": 50.86117,
+    "lng": 4.33136
+  },
+  {
+    "name": "Koekelare",
+    "country": "BE",
+    "lat": 51.09047,
+    "lng": 2.9783
+  },
+  {
+    "name": "Koubri",
+    "country": "BF",
+    "lat": 12.19785,
+    "lng": -1.40662
+  },
+  {
+    "name": "Koupéla",
+    "country": "BF",
+    "lat": 12.17864,
+    "lng": -0.35103
+  },
+  {
+    "name": "Kouka",
+    "country": "BF",
+    "lat": 13.4345,
+    "lng": -1.61361
+  },
+  {
+    "name": "Koudougou",
+    "country": "BF",
+    "lat": 12.25263,
+    "lng": -2.36272
+  },
+  {
+    "name": "Korsimoro",
+    "country": "BF",
+    "lat": 12.82506,
+    "lng": -1.06737
+  },
+  {
+    "name": "Kongoussi",
+    "country": "BF",
+    "lat": 13.32583,
+    "lng": -1.53472
+  },
+  {
+    "name": "Komsilga",
+    "country": "BF",
+    "lat": 12.18653,
+    "lng": -1.63379
+  },
+  {
+    "name": "Komki-Ipala",
+    "country": "BF",
+    "lat": 12.18279,
+    "lng": -1.79131
+  },
+  {
+    "name": "Kombissiri",
+    "country": "BF",
+    "lat": 12.06884,
+    "lng": -1.33644
+  },
+  {
+    "name": "Kokologo",
+    "country": "BF",
+    "lat": 12.19392,
+    "lng": -1.87687
+  },
+  {
+    "name": "Kompienga",
+    "country": "BF",
+    "lat": 11.08169,
+    "lng": 0.72365
+  },
+  {
+    "name": "Kozloduy",
+    "country": "BG",
+    "lat": 43.77691,
+    "lng": 23.73001
+  },
+  {
+    "name": "Koynare",
+    "country": "BG",
+    "lat": 43.35,
+    "lng": 24.13333
+  },
+  {
+    "name": "Kotel",
+    "country": "BG",
+    "lat": 42.88333,
+    "lng": 26.45
+  },
+  {
+    "name": "Kostinbrod",
+    "country": "BG",
+    "lat": 42.81667,
+    "lng": 23.21667
+  },
+  {
+    "name": "Koprivshtitsa",
+    "country": "BG",
+    "lat": 42.63333,
+    "lng": 24.35
+  },
+  {
+    "name": "Kolarovo",
+    "country": "BG",
+    "lat": 41.36385,
+    "lng": 23.10669
+  },
+  {
+    "name": "Kocherinovo",
+    "country": "BG",
+    "lat": 42.08439,
+    "lng": 23.0571
+  },
+  {
+    "name": "Kouandé",
+    "country": "BJ",
+    "lat": 6.4,
+    "lng": 2.06667
+  },
+  {
+    "name": "Kopargo",
+    "country": "BJ",
+    "lat": 9.84108,
+    "lng": 1.54231
+  },
+  {
+    "name": "Kota Batu",
+    "country": "BN",
+    "lat": 4.88333,
+    "lng": 114.95
+  },
+  {
+    "name": "Kopong",
+    "country": "BW",
+    "lat": -24.48333,
+    "lng": 25.88333
+  },
+  {
+    "name": "Kostyukovichi",
+    "country": "BY",
+    "lat": 53.35488,
+    "lng": 32.05128
+  },
+  {
+    "name": "Kosava",
+    "country": "BY",
+    "lat": 52.7583,
+    "lng": 25.1554
+  },
+  {
+    "name": "Korolëv Stan",
+    "country": "BY",
+    "lat": 53.9865,
+    "lng": 27.7982
+  },
+  {
+    "name": "Korma",
+    "country": "BY",
+    "lat": 53.1301,
+    "lng": 30.8016
+  },
+  {
+    "name": "Korelichi",
+    "country": "BY",
+    "lat": 53.5648,
+    "lng": 26.1406
+  },
+  {
+    "name": "Kopyl’",
+    "country": "BY",
+    "lat": 53.1516,
+    "lng": 27.0913
+  },
+  {
+    "name": "Konstantinovo",
+    "country": "BY",
+    "lat": 54.66036,
+    "lng": 29.2676
+  },
+  {
+    "name": "Kokhanovo",
+    "country": "BY",
+    "lat": 54.46061,
+    "lng": 29.99935
+  },
+  {
+    "name": "Kobryn",
+    "country": "BY",
+    "lat": 52.21173,
+    "lng": 24.3563
+  },
+  {
+    "name": "Koksilah",
+    "country": "CA",
+    "lat": 48.76667,
+    "lng": -123.68333
+  },
+  {
+    "name": "Kongolo",
+    "country": "CD",
+    "lat": -5.38532,
+    "lng": 27.00029
+  },
+  {
+    "name": "Kolwezi",
+    "country": "CD",
+    "lat": -10.71484,
+    "lng": 25.46674
+  },
+  {
+    "name": "Kouango",
+    "country": "CF",
+    "lat": 4.99337,
+    "lng": 19.96186
+  },
+  {
+    "name": "Komono",
+    "country": "CG",
+    "lat": -3.2775,
+    "lng": 13.22611
+  },
+  {
+    "name": "Koppigen",
+    "country": "CH",
+    "lat": 47.13125,
+    "lng": 7.60525
+  },
+  {
+    "name": "Konolfingen",
+    "country": "CH",
+    "lat": 46.87909,
+    "lng": 7.62013
+  },
+  {
+    "name": "Kollbrunn",
+    "country": "CH",
+    "lat": 47.45793,
+    "lng": 8.78295
+  },
+  {
+    "name": "Koblenz",
+    "country": "CH",
+    "lat": 47.60972,
+    "lng": 8.2375
+  },
+  {
+    "name": "Kollbrunn / Kollbrunn (Dorfkern)",
+    "country": "CH",
+    "lat": 47.45748,
+    "lng": 8.77413
+  },
+  {
+    "name": "Kohimon",
+    "country": "CI",
+    "lat": 8.33769,
+    "lng": -6.88623
+  },
+  {
+    "name": "Koumokro",
+    "country": "CI",
+    "lat": 7.01393,
+    "lng": -4.46996
+  },
+  {
+    "name": "Koziayo II",
+    "country": "CI",
+    "lat": 5.92426,
+    "lng": -6.34379
+  },
+  {
+    "name": "Koyékro",
+    "country": "CI",
+    "lat": 6.15253,
+    "lng": -4.74567
+  },
+  {
+    "name": "Kouyatouo",
+    "country": "CI",
+    "lat": 7.05456,
+    "lng": -8.09347
+  },
+  {
+    "name": "Kouarabo",
+    "country": "CI",
+    "lat": 7.80487,
+    "lng": -5.69796
+  },
+  {
+    "name": "Kouayaguiépleu",
+    "country": "CI",
+    "lat": 6.94601,
+    "lng": -8.2982
+  },
+  {
+    "name": "Kouwovogo",
+    "country": "CI",
+    "lat": 9.62879,
+    "lng": -5.55137
+  },
+  {
+    "name": "Koutoukounou",
+    "country": "CI",
+    "lat": 7.14632,
+    "lng": -4.0181
+  },
+  {
+    "name": "Kotouba",
+    "country": "CI",
+    "lat": 8.68898,
+    "lng": -3.19378
+  },
+  {
+    "name": "Kouto",
+    "country": "CI",
+    "lat": 9.89029,
+    "lng": -6.40921
+  },
+  {
+    "name": "Koutiourou",
+    "country": "CI",
+    "lat": 7.43333,
+    "lng": -7.35
+  },
+  {
+    "name": "Kouta",
+    "country": "CI",
+    "lat": 5.48849,
+    "lng": -5.23249
+  },
+  {
+    "name": "Kouroudoufla",
+    "country": "CI",
+    "lat": 6.60287,
+    "lng": -6.04457
+  },
+  {
+    "name": "Kouroundiala",
+    "country": "CI",
+    "lat": 9.09839,
+    "lng": -4.75927
+  },
+  {
+    "name": "Kouroukouna",
+    "country": "CI",
+    "lat": 9.28897,
+    "lng": -5.19851
+  },
+  {
+    "name": "Koulikoro",
+    "country": "CI",
+    "lat": 7.80819,
+    "lng": -7.15739
+  },
+  {
+    "name": "Kouroukono-Dioulasso",
+    "country": "CI",
+    "lat": 8.05367,
+    "lng": -4.44609
+  },
+  {
+    "name": "Kourou",
+    "country": "CI",
+    "lat": 8.83333,
+    "lng": -4.33333
+  },
+  {
+    "name": "Kouréfla",
+    "country": "CI",
+    "lat": 7.52222,
+    "lng": -5.97852
+  },
+  {
+    "name": "Koupéla",
+    "country": "CI",
+    "lat": 7.06135,
+    "lng": -5.76106
+  },
+  {
+    "name": "Kondé Yaokro",
+    "country": "CI",
+    "lat": 7.0862,
+    "lng": -5.23108
+  },
+  {
+    "name": "Kouohara",
+    "country": "CI",
+    "lat": 8.45504,
+    "lng": -4.66933
+  },
+  {
+    "name": "Koundoudougou",
+    "country": "CI",
+    "lat": 8.39467,
+    "lng": -4.66361
+  },
+  {
+    "name": "Kountiguisso",
+    "country": "CI",
+    "lat": 8.51746,
+    "lng": -7.37331
+  },
+  {
+    "name": "Koundé",
+    "country": "CI",
+    "lat": 10.01913,
+    "lng": -6.16312
+  },
+  {
+    "name": "Kounahiri",
+    "country": "CI",
+    "lat": 7.79089,
+    "lng": -5.83477
+  },
+  {
+    "name": "Koun-Fao",
+    "country": "CI",
+    "lat": 7.48764,
+    "lng": -3.25249
+  },
+  {
+    "name": "Koumouékro",
+    "country": "CI",
+    "lat": 7.85102,
+    "lng": -3.69376
+  },
+  {
+    "name": "Koumoudji",
+    "country": "CI",
+    "lat": 6.64449,
+    "lng": -5.63742
+  },
+  {
+    "name": "Koumbala",
+    "country": "CI",
+    "lat": 9.52098,
+    "lng": -5.1746
+  },
+  {
+    "name": "Koumassi",
+    "country": "CI",
+    "lat": 5.29716,
+    "lng": -3.96753
+  },
+  {
+    "name": "Koulousson",
+    "country": "CI",
+    "lat": 10.69374,
+    "lng": -6.36824
+  },
+  {
+    "name": "Kouloukorosso",
+    "country": "CI",
+    "lat": 9.4742,
+    "lng": -4.97403
+  },
+  {
+    "name": "Koulotyokaha",
+    "country": "CI",
+    "lat": 9.60764,
+    "lng": -5.41874
+  },
+  {
+    "name": "Koulopankaha",
+    "country": "CI",
+    "lat": 8.81978,
+    "lng": -5.7409
+  },
+  {
+    "name": "Koulokakaha",
+    "country": "CI",
+    "lat": 9.4656,
+    "lng": -5.57383
+  },
+  {
+    "name": "Koulokaha",
+    "country": "CI",
+    "lat": 8.90446,
+    "lng": -5.03483
+  },
+  {
+    "name": "Kouléyo",
+    "country": "CI",
+    "lat": 7.16738,
+    "lng": -6.67211
+  },
+  {
+    "name": "Kouléa",
+    "country": "CI",
+    "lat": 7.40999,
+    "lng": -7.399
+  },
+  {
+    "name": "Koulalé",
+    "country": "CI",
+    "lat": 7.95798,
+    "lng": -8.06857
+  },
+  {
+    "name": "Koulaéré",
+    "country": "CI",
+    "lat": 7.38303,
+    "lng": -7.20568
+  },
+  {
+    "name": "Koulaéoué",
+    "country": "CI",
+    "lat": 7.04434,
+    "lng": -7.88591
+  },
+  {
+    "name": "Koukoguhé",
+    "country": "CI",
+    "lat": 6.91063,
+    "lng": -6.56571
+  },
+  {
+    "name": "Kouisra",
+    "country": "CI",
+    "lat": 7.14215,
+    "lng": -7.45369
+  },
+  {
+    "name": "Kouinfla",
+    "country": "CI",
+    "lat": 7.54141,
+    "lng": -5.96685
+  },
+  {
+    "name": "Kouibly",
+    "country": "CI",
+    "lat": 7.25597,
+    "lng": -7.23508
+  },
+  {
+    "name": "Kouétinfla",
+    "country": "CI",
+    "lat": 6.61223,
+    "lng": -6.06037
+  },
+  {
+    "name": "Kouépleu",
+    "country": "CI",
+    "lat": 7.20336,
+    "lng": -7.93696
+  },
+  {
+    "name": "Kouénoufla",
+    "country": "CI",
+    "lat": 7.45503,
+    "lng": -6.33982
+  },
+  {
+    "name": "Kouénoufla Don",
+    "country": "CI",
+    "lat": 7.35452,
+    "lng": -6.75151
+  },
+  {
+    "name": "Koudouyou",
+    "country": "CI",
+    "lat": 5.76382,
+    "lng": -6.51191
+  },
+  {
+    "name": "Koudougou",
+    "country": "CI",
+    "lat": 6.93528,
+    "lng": -5.6663
+  },
+  {
+    "name": "Koubi",
+    "country": "CI",
+    "lat": 7.1283,
+    "lng": -5.18063
+  },
+  {
+    "name": "Koudébo Dan",
+    "country": "CI",
+    "lat": 7.73957,
+    "lng": -5.52675
+  },
+  {
+    "name": "Kouban",
+    "country": "CI",
+    "lat": 10.24392,
+    "lng": -7.41531
+  },
+  {
+    "name": "Kouatoutou",
+    "country": "CI",
+    "lat": 7.71419,
+    "lng": -3.07005
+  },
+  {
+    "name": "Kouata",
+    "country": "CI",
+    "lat": 7.8926,
+    "lng": -5.82809
+  },
+  {
+    "name": "Kouassissérénou",
+    "country": "CI",
+    "lat": 7.65266,
+    "lng": -2.90744
+  },
+  {
+    "name": "Kouassi-Ngatakro",
+    "country": "CI",
+    "lat": 7.38397,
+    "lng": -3.99424
+  },
+  {
+    "name": "Kouassi-Nawa",
+    "country": "CI",
+    "lat": 8.11848,
+    "lng": -2.91086
+  },
+  {
+    "name": "Kouassikro",
+    "country": "CI",
+    "lat": 7.6,
+    "lng": -4.35
+  },
+  {
+    "name": "Kouassi Kouamékro",
+    "country": "CI",
+    "lat": 7.91887,
+    "lng": -5.70867
+  },
+  {
+    "name": "Kouassidougou",
+    "country": "CI",
+    "lat": 8.02621,
+    "lng": -3.45736
+  },
+  {
+    "name": "Kouassidiotékro",
+    "country": "CI",
+    "lat": 7.13351,
+    "lng": -3.9585
+  },
+  {
+    "name": "Kouassi-Datékro",
+    "country": "CI",
+    "lat": 7.8175,
+    "lng": -3.52556
+  },
+  {
+    "name": "Kouassiblékro",
+    "country": "CI",
+    "lat": 7.67272,
+    "lng": -4.94633
+  },
+  {
+    "name": "Kouassianiaguéné",
+    "country": "CI",
+    "lat": 7.38889,
+    "lng": -3.03749
+  },
+  {
+    "name": "Kouasililié",
+    "country": "CI",
+    "lat": 5.7154,
+    "lng": -5.56047
+  },
+  {
+    "name": "Kouan Houlé",
+    "country": "CI",
+    "lat": 7.39279,
+    "lng": -8.26093
+  },
+  {
+    "name": "Kouandi-Ndakro",
+    "country": "CI",
+    "lat": 7.57896,
+    "lng": -4.00099
+  },
+  {
+    "name": "Konandikro",
+    "country": "CI",
+    "lat": 7.74806,
+    "lng": -4.0205
+  },
+  {
+    "name": "Kouamé-Lékro",
+    "country": "CI",
+    "lat": 7.31551,
+    "lng": -4.073
+  },
+  {
+    "name": "Kouaméfra",
+    "country": "CI",
+    "lat": 6.59205,
+    "lng": -5.42399
+  },
+  {
+    "name": "Kouamé-Akaffoukro",
+    "country": "CI",
+    "lat": 7.11787,
+    "lng": -4.86128
+  },
+  {
+    "name": "Kouakro",
+    "country": "CI",
+    "lat": 7.79722,
+    "lng": -4.8325
+  },
+  {
+    "name": "Kouakro",
+    "country": "CI",
+    "lat": 6.65142,
+    "lng": -4.43821
+  },
+  {
+    "name": "Kouakro",
+    "country": "CI",
+    "lat": 5.444,
+    "lng": -2.90642
+  },
+  {
+    "name": "Kouakoussekro",
+    "country": "CI",
+    "lat": 7.29013,
+    "lng": -4.15449
+  },
+  {
+    "name": "Kouakou-Kankrou",
+    "country": "CI",
+    "lat": 7.96895,
+    "lng": -3.62765
+  },
+  {
+    "name": "Kouakoudougou",
+    "country": "CI",
+    "lat": 7.77038,
+    "lng": -4.24489
+  },
+  {
+    "name": "Kouakouamékrou",
+    "country": "CI",
+    "lat": 7.26087,
+    "lng": -3.05376
+  },
+  {
+    "name": "Kouafla",
+    "country": "CI",
+    "lat": 7.60747,
+    "lng": -5.87601
+  },
+  {
+    "name": "Kouadioukro",
+    "country": "CI",
+    "lat": 7.25528,
+    "lng": -3.7675
+  },
+  {
+    "name": "Kouadiotékro",
+    "country": "CI",
+    "lat": 6.56114,
+    "lng": -4.74247
+  },
+  {
+    "name": "Kouadiokoto",
+    "country": "CI",
+    "lat": 7.96187,
+    "lng": -3.4691
+  },
+  {
+    "name": "Kouadio-Kissikro",
+    "country": "CI",
+    "lat": 7.44104,
+    "lng": -3.02236
+  },
+  {
+    "name": "Kouadio-Etienkro",
+    "country": "CI",
+    "lat": 6.79472,
+    "lng": -4.74949
+  },
+  {
+    "name": "Koidioblekro",
+    "country": "CI",
+    "lat": 6.93416,
+    "lng": -4.31717
+  },
+  {
+    "name": "Kouadjannikro",
+    "country": "CI",
+    "lat": 7.62982,
+    "lng": -4.74975
+  },
+  {
+    "name": "Kouaïsséizra",
+    "country": "CI",
+    "lat": 7.55916,
+    "lng": -5.91184
+  },
+  {
+    "name": "Koua",
+    "country": "CI",
+    "lat": 7.50571,
+    "lng": -7.27025
+  },
+  {
+    "name": "Kokoumba",
+    "country": "CI",
+    "lat": 7.96828,
+    "lng": -4.42299
+  },
+  {
+    "name": "Kotoula",
+    "country": "CI",
+    "lat": 10.11709,
+    "lng": -7.3949
+  },
+  {
+    "name": "Kotolo",
+    "country": "CI",
+    "lat": 8.32589,
+    "lng": -4.4125
+  },
+  {
+    "name": "Kotokou-Ayéra",
+    "country": "CI",
+    "lat": 7.29761,
+    "lng": -3.16776
+  },
+  {
+    "name": "Kotokosso",
+    "country": "CI",
+    "lat": 7.07394,
+    "lng": -3.12552
+  },
+  {
+    "name": "Kotoka",
+    "country": "CI",
+    "lat": 5.54281,
+    "lng": -2.86912
+  },
+  {
+    "name": "Koto-Ganda",
+    "country": "CI",
+    "lat": 7.58746,
+    "lng": -3.23384
+  },
+  {
+    "name": "Kotobo",
+    "country": "CI",
+    "lat": 7.73138,
+    "lng": -3.82677
+  },
+  {
+    "name": "Kotobi",
+    "country": "CI",
+    "lat": 6.69569,
+    "lng": -4.12892
+  },
+  {
+    "name": "Kotimpo",
+    "country": "CI",
+    "lat": 6.17761,
+    "lng": -4.24411
+  },
+  {
+    "name": "Kolikro Aouniénou",
+    "country": "CI",
+    "lat": 7.81362,
+    "lng": -5.44502
+  },
+  {
+    "name": "Kotiéssou",
+    "country": "CI",
+    "lat": 6.17827,
+    "lng": -5.06123
+  },
+  {
+    "name": "Kotabliéoua",
+    "country": "CI",
+    "lat": 6.20663,
+    "lng": -6.51734
+  },
+  {
+    "name": "Kossou",
+    "country": "CI",
+    "lat": 7.00103,
+    "lng": -5.48095
+  },
+  {
+    "name": "Kossou",
+    "country": "CI",
+    "lat": 6.95907,
+    "lng": -4.96852
+  },
+  {
+    "name": "Kosso",
+    "country": "CI",
+    "lat": 5.04973,
+    "lng": -5.77883
+  },
+  {
+    "name": "Kossandji",
+    "country": "CI",
+    "lat": 5.82463,
+    "lng": -3.61566
+  },
+  {
+    "name": "Kosséhoa",
+    "country": "CI",
+    "lat": 6.06919,
+    "lng": -6.2955
+  },
+  {
+    "name": "Koroumba",
+    "country": "CI",
+    "lat": 9.81565,
+    "lng": -7.10571
+  },
+  {
+    "name": "Korotou",
+    "country": "CI",
+    "lat": 8.06711,
+    "lng": -6.15409
+  },
+  {
+    "name": "Korosodougou",
+    "country": "CI",
+    "lat": 8.34571,
+    "lng": -5.89573
+  },
+  {
+    "name": "Koromabla",
+    "country": "CI",
+    "lat": 8.17149,
+    "lng": -5.80204
+  },
+  {
+    "name": "Korokaha",
+    "country": "CI",
+    "lat": 9.90059,
+    "lng": -5.62764
+  },
+  {
+    "name": "Korobo",
+    "country": "CI",
+    "lat": 7.70982,
+    "lng": -3.10177
+  },
+  {
+    "name": "Koro",
+    "country": "CI",
+    "lat": 9.89498,
+    "lng": -6.59756
+  },
+  {
+    "name": "Koro",
+    "country": "CI",
+    "lat": 8.55505,
+    "lng": -7.46348
+  },
+  {
+    "name": "Korhogo",
+    "country": "CI",
+    "lat": 9.45803,
+    "lng": -5.62961
+  },
+  {
+    "name": "Koréguhé",
+    "country": "CI",
+    "lat": 6.18859,
+    "lng": -6.65891
+  },
+  {
+    "name": "Koréyo",
+    "country": "CI",
+    "lat": 5.92107,
+    "lng": -6.58957
+  },
+  {
+    "name": "Korékipréa",
+    "country": "CI",
+    "lat": 6.56372,
+    "lng": -6.55386
+  },
+  {
+    "name": "Korébouo",
+    "country": "CI",
+    "lat": 6.47553,
+    "lng": -6.30844
+  },
+  {
+    "name": "Koréagui",
+    "country": "CI",
+    "lat": 5.54303,
+    "lng": -6.60172
+  },
+  {
+    "name": "Koréa",
+    "country": "CI",
+    "lat": 6.82523,
+    "lng": -6.64787
+  },
+  {
+    "name": "Kopéragui",
+    "country": "CI",
+    "lat": 5.79231,
+    "lng": -6.66171
+  },
+  {
+    "name": "Konzo",
+    "country": "CI",
+    "lat": 7.46173,
+    "lng": -5.06333
+  },
+  {
+    "name": "Konsou",
+    "country": "CI",
+    "lat": 7.64546,
+    "lng": -5.61249
+  },
+  {
+    "name": "Konima",
+    "country": "CI",
+    "lat": 8.33357,
+    "lng": -7.29291
+  },
+  {
+    "name": "Koni",
+    "country": "CI",
+    "lat": 9.58789,
+    "lng": -5.687
+  },
+  {
+    "name": "Konguidougou",
+    "country": "CI",
+    "lat": 7.695,
+    "lng": -4.25556
+  },
+  {
+    "name": "Kongossou",
+    "country": "CI",
+    "lat": 7.88967,
+    "lng": -5.50581
+  },
+  {
+    "name": "Kongola",
+    "country": "CI",
+    "lat": 7.77323,
+    "lng": -5.46373
+  },
+  {
+    "name": "Kongoti",
+    "country": "CI",
+    "lat": 7.4189,
+    "lng": -4.07484
+  },
+  {
+    "name": "Kongossou-Koidiokro",
+    "country": "CI",
+    "lat": 8.01691,
+    "lng": -5.48741
+  },
+  {
+    "name": "Kongossou",
+    "country": "CI",
+    "lat": 7.64508,
+    "lng": -5.56173
+  },
+  {
+    "name": "Kongonoussou",
+    "country": "CI",
+    "lat": 7.66957,
+    "lng": -5.59707
+  },
+  {
+    "name": "Kongonoua",
+    "country": "CI",
+    "lat": 6.82613,
+    "lng": -4.41611
+  },
+  {
+    "name": "Kongonekro",
+    "country": "CI",
+    "lat": 7.62154,
+    "lng": -5.03643
+  },
+  {
+    "name": "Kongolo",
+    "country": "CI",
+    "lat": 9.11829,
+    "lng": -4.49005
+  },
+  {
+    "name": "Kongolila",
+    "country": "CI",
+    "lat": 10.32529,
+    "lng": -7.40238
+  },
+  {
+    "name": "Kongodian",
+    "country": "CI",
+    "lat": 7.85592,
+    "lng": -5.55343
+  },
+  {
+    "name": "Kongobanadougou",
+    "country": "CI",
+    "lat": 8.4239,
+    "lng": -4.48281
+  },
+  {
+    "name": "Kongaso",
+    "country": "CI",
+    "lat": 7.81533,
+    "lng": -6.07747
+  },
+  {
+    "name": "Kong",
+    "country": "CI",
+    "lat": 9.14943,
+    "lng": -4.60982
+  },
+  {
+    "name": "Kong",
+    "country": "CI",
+    "lat": 6.11391,
+    "lng": -3.64849
+  },
+  {
+    "name": "Konékouamékro",
+    "country": "CI",
+    "lat": 7.21948,
+    "lng": -3.65131
+  },
+  {
+    "name": "Konéfla",
+    "country": "CI",
+    "lat": 6.81685,
+    "lng": -5.77745
+  },
+  {
+    "name": "Konéfla",
+    "country": "CI",
+    "lat": 6.65166,
+    "lng": -5.60501
+  },
+  {
+    "name": "Kondrokro",
+    "country": "CI",
+    "lat": 6.97974,
+    "lng": -4.83888
+  },
+  {
+    "name": "Kondoubo",
+    "country": "CI",
+    "lat": 7.75072,
+    "lng": -5.15152
+  },
+  {
+    "name": "Konossou",
+    "country": "CI",
+    "lat": 7.71635,
+    "lng": -4.50616
+  },
+  {
+    "name": "Kondorobo",
+    "country": "CI",
+    "lat": 7.83335,
+    "lng": -5.74638
+  },
+  {
+    "name": "Kondorobango",
+    "country": "CI",
+    "lat": 8.10361,
+    "lng": -3.87791
+  },
+  {
+    "name": "Kodiébouman",
+    "country": "CI",
+    "lat": 6.22107,
+    "lng": -4.54056
+  },
+  {
+    "name": "Komborodougou",
+    "country": "CI",
+    "lat": 9.32634,
+    "lng": -5.42922
+  },
+  {
+    "name": "Konbolokoura",
+    "country": "CI",
+    "lat": 9.33061,
+    "lng": -5.88637
+  },
+  {
+    "name": "Konbalasso",
+    "country": "CI",
+    "lat": 8.06224,
+    "lng": -4.20672
+  },
+  {
+    "name": "Konayo",
+    "country": "CI",
+    "lat": 6.1234,
+    "lng": -6.20418
+  },
+  {
+    "name": "Konanmoukro",
+    "country": "CI",
+    "lat": 7.50449,
+    "lng": -5.41007
+  },
+  {
+    "name": "Konan Kuikro",
+    "country": "CI",
+    "lat": 7.12178,
+    "lng": -5.33019
+  },
+  {
+    "name": "Konankofikro",
+    "country": "CI",
+    "lat": 6.97112,
+    "lng": -5.24463
+  },
+  {
+    "name": "Konan-Kékrékro",
+    "country": "CI",
+    "lat": 6.96672,
+    "lng": -4.89314
+  },
+  {
+    "name": "Konan n’drikro",
+    "country": "CI",
+    "lat": 7.23122,
+    "lng": -4.47077
+  },
+  {
+    "name": "Konan",
+    "country": "CI",
+    "lat": 8.34699,
+    "lng": -7.99347
+  },
+  {
+    "name": "Komorossou",
+    "country": "CI",
+    "lat": 7.21919,
+    "lng": -5.36544
+  },
+  {
+    "name": "Komou",
+    "country": "CI",
+    "lat": 8.87454,
+    "lng": -4.12036
+  },
+  {
+    "name": "Komoé-Noua",
+    "country": "CI",
+    "lat": 7.1944,
+    "lng": -3.60796
+  },
+  {
+    "name": "Kominapla",
+    "country": "CI",
+    "lat": 7.81197,
+    "lng": -5.94361
+  },
+  {
+    "name": "Komiékro",
+    "country": "CI",
+    "lat": 7.42645,
+    "lng": -4.06292
+  },
+  {
+    "name": "Koméayo",
+    "country": "CI",
+    "lat": 6.02489,
+    "lng": -6.39531
+  },
+  {
+    "name": "Komatou",
+    "country": "CI",
+    "lat": 8.53855,
+    "lng": -6.61074
+  },
+  {
+    "name": "Komabo",
+    "country": "CI",
+    "lat": 7.83871,
+    "lng": -3.41915
+  },
+  {
+    "name": "Koma",
+    "country": "CI",
+    "lat": 10.08525,
+    "lng": -7.24976
+  },
+  {
+    "name": "Kolon",
+    "country": "CI",
+    "lat": 9.04361,
+    "lng": -4.21467
+  },
+  {
+    "name": "Kolongonoua",
+    "country": "CI",
+    "lat": 7.67468,
+    "lng": -5.16167
+  },
+  {
+    "name": "Kolokaha",
+    "country": "CI",
+    "lat": 8.97153,
+    "lng": -5.19271
+  },
+  {
+    "name": "Kologo",
+    "country": "CI",
+    "lat": 8.97583,
+    "lng": -6.88667
+  },
+  {
+    "name": "Koliko",
+    "country": "CI",
+    "lat": 10.18471,
+    "lng": -7.44271
+  },
+  {
+    "name": "Koliakro",
+    "country": "CI",
+    "lat": 7.00225,
+    "lng": -4.3854
+  },
+  {
+    "name": "Kolia",
+    "country": "CI",
+    "lat": 9.7651,
+    "lng": -6.46372
+  },
+  {
+    "name": "Kolia",
+    "country": "CI",
+    "lat": 7.49869,
+    "lng": -3.22063
+  },
+  {
+    "name": "Kokwo",
+    "country": "CI",
+    "lat": 9.12078,
+    "lng": -5.57855
+  },
+  {
+    "name": "Koklo Kouassikro",
+    "country": "CI",
+    "lat": 7.38025,
+    "lng": -4.93091
+  },
+  {
+    "name": "Kokpa",
+    "country": "CI",
+    "lat": 5.67083,
+    "lng": -5.03833
+  },
+  {
+    "name": "Kokouna",
+    "country": "CI",
+    "lat": 8.21089,
+    "lng": -5.77466
+  },
+  {
+    "name": "Kokoun",
+    "country": "CI",
+    "lat": 9.49485,
+    "lng": -7.03818
+  },
+  {
+    "name": "Kokoumbo",
+    "country": "CI",
+    "lat": 6.54246,
+    "lng": -5.25925
+  },
+  {
+    "name": "Kokou",
+    "country": "CI",
+    "lat": 5.11985,
+    "lng": -5.25775
+  },
+  {
+    "name": "Kokonou",
+    "country": "CI",
+    "lat": 7.13217,
+    "lng": -3.61713
+  },
+  {
+    "name": "Kokolopozo",
+    "country": "CI",
+    "lat": 5.13662,
+    "lng": -6.08244
+  },
+  {
+    "name": "Kokoflé",
+    "country": "CI",
+    "lat": 7.80272,
+    "lng": -5.71655
+  },
+  {
+    "name": "Kokaha",
+    "country": "CI",
+    "lat": 9.63845,
+    "lng": -5.7363
+  },
+  {
+    "name": "Kouatchienkro",
+    "country": "CI",
+    "lat": 6.89193,
+    "lng": -3.6123
+  },
+  {
+    "name": "Koïtan",
+    "country": "CI",
+    "lat": 9.6,
+    "lng": -3.76667
+  },
+  {
+    "name": "Kouassi-Kouassikro",
+    "country": "CI",
+    "lat": 7.34141,
+    "lng": -4.67709
+  },
+  {
+    "name": "Kogotyèri",
+    "country": "CI",
+    "lat": 9.62045,
+    "lng": -5.62169
+  },
+  {
+    "name": "Kogolo",
+    "country": "CI",
+    "lat": 8.04824,
+    "lng": -6.16896
+  },
+  {
+    "name": "Kogbéra",
+    "country": "CI",
+    "lat": 8.01393,
+    "lng": -4.58916
+  },
+  {
+    "name": "Kofré",
+    "country": "CI",
+    "lat": 10.03177,
+    "lng": -6.24702
+  },
+  {
+    "name": "Koffissiokaha",
+    "country": "CI",
+    "lat": 8.13668,
+    "lng": -4.90132
+  },
+  {
+    "name": "Kofiplé",
+    "country": "CI",
+    "lat": 10.00282,
+    "lng": -5.58232
+  },
+  {
+    "name": "Kofikro",
+    "country": "CI",
+    "lat": 7.46116,
+    "lng": -5.10361
+  },
+  {
+    "name": "Kofikokourokouro",
+    "country": "CI",
+    "lat": 7.22826,
+    "lng": -3.16955
+  },
+  {
+    "name": "Kofidougou",
+    "country": "CI",
+    "lat": 7.74347,
+    "lng": -4.32209
+  },
+  {
+    "name": "Kofi Adoukro",
+    "country": "CI",
+    "lat": 7.11104,
+    "lng": -4.332
+  },
+  {
+    "name": "Koffi Ngonankro",
+    "country": "CI",
+    "lat": 6.99881,
+    "lng": -5.0053
+  },
+  {
+    "name": "Koffi Amoukro",
+    "country": "CI",
+    "lat": 7.46751,
+    "lng": -3.96111
+  },
+  {
+    "name": "Koffi Akakro",
+    "country": "CI",
+    "lat": 7.42366,
+    "lng": -3.82335
+  },
+  {
+    "name": "Kofesso",
+    "country": "CI",
+    "lat": 7.92059,
+    "lng": -3.99749
+  },
+  {
+    "name": "Kodiodougou",
+    "country": "CI",
+    "lat": 8.7607,
+    "lng": -6.32462
+  },
+  {
+    "name": "Kodoum",
+    "country": "CI",
+    "lat": 8.40507,
+    "lng": -6.13103
+  },
+  {
+    "name": "Kodjina",
+    "country": "CI",
+    "lat": 6.73543,
+    "lng": -3.59696
+  },
+  {
+    "name": "Kodioussou",
+    "country": "CI",
+    "lat": 5.77116,
+    "lng": -3.75595
+  },
+  {
+    "name": "Kodiakro",
+    "country": "CI",
+    "lat": 7.29388,
+    "lng": -4.05709
+  },
+  {
+    "name": "Kobrényoa",
+    "country": "CI",
+    "lat": 6.04091,
+    "lng": -5.9457
+  },
+  {
+    "name": "Koboro",
+    "country": "CI",
+    "lat": 9.73472,
+    "lng": -3.79699
+  },
+  {
+    "name": "Koboko",
+    "country": "CI",
+    "lat": 7.9692,
+    "lng": -2.94427
+  },
+  {
+    "name": "Kobadala",
+    "country": "CI",
+    "lat": 8.25126,
+    "lng": -5.91184
+  },
+  {
+    "name": "Koba",
+    "country": "CI",
+    "lat": 9.86885,
+    "lng": -7.28979
+  },
+  {
+    "name": "Koadguézon",
+    "country": "CI",
+    "lat": 6.48154,
+    "lng": -8.19893
+  },
+  {
+    "name": "Koulinlé",
+    "country": "CI",
+    "lat": 7.15007,
+    "lng": -7.52069
+  },
+  {
+    "name": "Koulouan",
+    "country": "CI",
+    "lat": 6.95309,
+    "lng": -7.69888
+  },
+  {
+    "name": "Kouadiokrou",
+    "country": "CI",
+    "lat": 7.095,
+    "lng": -3.03528
+  },
+  {
+    "name": "Koutoukro",
+    "country": "CI",
+    "lat": 5.61683,
+    "lng": -3.58292
+  },
+  {
+    "name": "Kouego",
+    "country": "CI",
+    "lat": 8.0425,
+    "lng": -6.74222
+  },
+  {
+    "name": "Konyiba",
+    "country": "CI",
+    "lat": 7.34751,
+    "lng": -8.23167
+  },
+  {
+    "name": "Konédougou",
+    "country": "CI",
+    "lat": 6.03991,
+    "lng": -6.66579
+  },
+  {
+    "name": "Koubéba",
+    "country": "CI",
+    "lat": 6.26348,
+    "lng": -4.55497
+  },
+  {
+    "name": "Kouitongouiné II",
+    "country": "CI",
+    "lat": 7.35833,
+    "lng": -7.64411
+  },
+  {
+    "name": "Kombara Mangorasso",
+    "country": "CI",
+    "lat": 7.99805,
+    "lng": -4.56294
+  },
+  {
+    "name": "Kombara Bambarassou",
+    "country": "CI",
+    "lat": 7.99618,
+    "lng": -4.55918
+  },
+  {
+    "name": "Kossihouen",
+    "country": "CI",
+    "lat": 5.52137,
+    "lng": -4.28113
+  },
+  {
+    "name": "Kohourou",
+    "country": "CI",
+    "lat": 5.47964,
+    "lng": -3.32856
+  },
+  {
+    "name": "Kongodjan",
+    "country": "CI",
+    "lat": 5.29849,
+    "lng": -3.435
+  },
+  {
+    "name": "Kobadukrom",
+    "country": "CI",
+    "lat": 7.29126,
+    "lng": -2.97305
+  },
+  {
+    "name": "Kouadioagui",
+    "country": "CI",
+    "lat": 5.34685,
+    "lng": -6.62945
+  },
+  {
+    "name": "Kossoyo",
+    "country": "CI",
+    "lat": 5.67298,
+    "lng": -6.0552
+  },
+  {
+    "name": "Koffiagui",
+    "country": "CI",
+    "lat": 5.44274,
+    "lng": -6.47197
+  },
+  {
+    "name": "Kouaméagui",
+    "country": "CI",
+    "lat": 5.47519,
+    "lng": -6.47273
+  },
+  {
+    "name": "Koda-Centre",
+    "country": "CI",
+    "lat": 5.8654,
+    "lng": -6.5129
+  },
+  {
+    "name": "Kouakouagui",
+    "country": "CI",
+    "lat": 5.93006,
+    "lng": -6.80181
+  },
+  {
+    "name": "Koupéro",
+    "country": "CI",
+    "lat": 5.884,
+    "lng": -6.84575
+  },
+  {
+    "name": "Kodaya",
+    "country": "CI",
+    "lat": 5.99517,
+    "lng": -6.97259
+  },
+  {
+    "name": "Kotouagnoa",
+    "country": "CI",
+    "lat": 5.21608,
+    "lng": -2.89049
+  },
+  {
+    "name": "Kossonoukro",
+    "country": "CI",
+    "lat": 6.0107,
+    "lng": -3.38927
+  },
+  {
+    "name": "Kouroulingué",
+    "country": "CI",
+    "lat": 10.16938,
+    "lng": -7.29117
+  },
+  {
+    "name": "Kokouezo",
+    "country": "CI",
+    "lat": 6.23992,
+    "lng": -5.94588
+  },
+  {
+    "name": "Kokolilié",
+    "country": "CI",
+    "lat": 5.57519,
+    "lng": -5.78892
+  },
+  {
+    "name": "Koffi-Kouadiokro",
+    "country": "CI",
+    "lat": 7.24246,
+    "lng": -4.49934
+  },
+  {
+    "name": "Koffidjèkro",
+    "country": "CI",
+    "lat": 6.70968,
+    "lng": -5.06287
+  },
+  {
+    "name": "Koffié-Kpri",
+    "country": "CI",
+    "lat": 7.57878,
+    "lng": -3.86228
+  },
+  {
+    "name": "Kouadiokro",
+    "country": "CI",
+    "lat": 6.6151,
+    "lng": -3.81945
+  },
+  {
+    "name": "Koffi-Kouassikro",
+    "country": "CI",
+    "lat": 7.17737,
+    "lng": -5.20833
+  },
+  {
+    "name": "Kongotty",
+    "country": "CI",
+    "lat": 6.40976,
+    "lng": -4.44261
+  },
+  {
+    "name": "Kodi",
+    "country": "CI",
+    "lat": 7.2829,
+    "lng": -4.00138
+  },
+  {
+    "name": "Kodjan",
+    "country": "CI",
+    "lat": 6.43427,
+    "lng": -3.86988
+  },
+  {
+    "name": "Kouadjokro",
+    "country": "CI",
+    "lat": 6.004,
+    "lng": -4.51903
+  },
+  {
+    "name": "Kouamékro",
+    "country": "CI",
+    "lat": 6.1916,
+    "lng": -4.43922
+  },
+  {
+    "name": "Kodimasso",
+    "country": "CI",
+    "lat": 5.89168,
+    "lng": -4.69471
+  },
+  {
+    "name": "Kokialo",
+    "country": "CI",
+    "lat": 8.01337,
+    "lng": -7.41416
+  },
+  {
+    "name": "Kordrou",
+    "country": "CI",
+    "lat": 7.31406,
+    "lng": -7.33776
+  },
+  {
+    "name": "Kouassi-Périta",
+    "country": "CI",
+    "lat": 6.93597,
+    "lng": -5.6435
+  },
+  {
+    "name": "Kouablazra",
+    "country": "CI",
+    "lat": 7.28026,
+    "lng": -6.24726
+  },
+  {
+    "name": "Kongo",
+    "country": "CI",
+    "lat": 6.98723,
+    "lng": -5.69532
+  },
+  {
+    "name": "Kouakou",
+    "country": "CI",
+    "lat": 6.99847,
+    "lng": -5.51243
+  },
+  {
+    "name": "Kolokaha",
+    "country": "CI",
+    "lat": 9.04843,
+    "lng": -6.09352
+  },
+  {
+    "name": "Kopiémévogo",
+    "country": "CI",
+    "lat": 9.68271,
+    "lng": -5.54267
+  },
+  {
+    "name": "Kolonza",
+    "country": "CI",
+    "lat": 10.64896,
+    "lng": -6.40678
+  },
+  {
+    "name": "Koussorokaha",
+    "country": "CI",
+    "lat": 9.63747,
+    "lng": -5.12262
+  },
+  {
+    "name": "Kouakro-Mizron",
+    "country": "CI",
+    "lat": 7.83448,
+    "lng": -5.07892
+  },
+  {
+    "name": "Kouadio-Sakassou",
+    "country": "CI",
+    "lat": 7.48224,
+    "lng": -5.57569
+  },
+  {
+    "name": "Konankro-Mizron",
+    "country": "CI",
+    "lat": 7.83413,
+    "lng": -5.07933
+  },
+  {
+    "name": "Kongo",
+    "country": "CI",
+    "lat": 7.32315,
+    "lng": -5.54143
+  },
+  {
+    "name": "Koffina",
+    "country": "CI",
+    "lat": 8.84659,
+    "lng": -7.87748
+  },
+  {
+    "name": "Kougbèré",
+    "country": "CI",
+    "lat": 8.41474,
+    "lng": -5.81493
+  },
+  {
+    "name": "Korokopla",
+    "country": "CI",
+    "lat": 7.88168,
+    "lng": -5.96623
+  },
+  {
+    "name": "Koriakro",
+    "country": "CI",
+    "lat": 7.02935,
+    "lng": -5.21719
+  },
+  {
+    "name": "Kouassi-Badoukro",
+    "country": "CI",
+    "lat": 7.40931,
+    "lng": -3.20596
+  },
+  {
+    "name": "Kouafo-Akidom",
+    "country": "CI",
+    "lat": 8.20469,
+    "lng": -2.84851
+  },
+  {
+    "name": "Kouakoukrakro",
+    "country": "CI",
+    "lat": 7.47385,
+    "lng": -3.25097
+  },
+  {
+    "name": "Kohodio",
+    "country": "CI",
+    "lat": 8.52223,
+    "lng": -2.60714
+  },
+  {
+    "name": "Koza",
+    "country": "CM",
+    "lat": 10.86846,
+    "lng": 13.88205
+  },
+  {
+    "name": "Kousséri",
+    "country": "CM",
+    "lat": 12.07689,
+    "lng": 15.03063
+  },
+  {
+    "name": "Kontcha",
+    "country": "CM",
+    "lat": 7.96667,
+    "lng": 12.23333
+  },
+  {
+    "name": "Kokyar",
+    "country": "CN",
+    "lat": 36.81899,
+    "lng": 81.63334
+  },
+  {
+    "name": "Korla",
+    "country": "CN",
+    "lat": 41.76055,
+    "lng": 86.15231
+  },
+  {
+    "name": "Koktokay",
+    "country": "CN",
+    "lat": 47.21654,
+    "lng": 89.81724
+  },
+  {
+    "name": "Kostik",
+    "country": "CN",
+    "lat": 47.78682,
+    "lng": 87.33078
+  },
+  {
+    "name": "Kou’an",
+    "country": "CN",
+    "lat": 32.3082,
+    "lng": 119.87568
+  },
+  {
+    "name": "Kongtan",
+    "country": "CN",
+    "lat": 29.14408,
+    "lng": 104.67474
+  },
+  {
+    "name": "Kocê",
+    "country": "CN",
+    "lat": 34.63639,
+    "lng": 102.22111
+  },
+  {
+    "name": "Koujiang",
+    "country": "CN",
+    "lat": 26.04333,
+    "lng": 108.8625
+  },
+  {
+    "name": "Kouqian",
+    "country": "CN",
+    "lat": 43.66479,
+    "lng": 126.49894
+  },
+  {
+    "name": "Kongjiazhuang",
+    "country": "CN",
+    "lat": 40.7525,
+    "lng": 114.72611
+  },
+  {
+    "name": "Koutouba",
+    "country": "CN",
+    "lat": 32.93999,
+    "lng": 104.94224
+  },
+  {
+    "name": "Konggar",
+    "country": "CN",
+    "lat": 29.29389,
+    "lng": 90.98708
+  },
+  {
+    "name": "Kofínou",
+    "country": "CY",
+    "lat": 34.82427,
+    "lng": 33.39133
+  },
+  {
+    "name": "Konia",
+    "country": "CY",
+    "lat": 34.78516,
+    "lng": 32.459
+  },
+  {
+    "name": "Kolossi",
+    "country": "CY",
+    "lat": 34.66865,
+    "lng": 32.93375
+  },
+  {
+    "name": "Koloni",
+    "country": "CY",
+    "lat": 34.74858,
+    "lng": 32.46565
+  },
+  {
+    "name": "Kokkinotrimithiá",
+    "country": "CY",
+    "lat": 35.15303,
+    "lng": 33.19966
+  },
+  {
+    "name": "Kozmice",
+    "country": "CZ",
+    "lat": 49.9128,
+    "lng": 18.15584
+  },
+  {
+    "name": "Kozlovice",
+    "country": "CZ",
+    "lat": 49.5904,
+    "lng": 18.25656
+  },
+  {
+    "name": "Kožlany",
+    "country": "CZ",
+    "lat": 49.99389,
+    "lng": 13.54107
+  },
+  {
+    "name": "Kovářská",
+    "country": "CZ",
+    "lat": 50.43821,
+    "lng": 13.05388
+  },
+  {
+    "name": "Kovářov",
+    "country": "CZ",
+    "lat": 49.5176,
+    "lng": 14.27809
+  },
+  {
+    "name": "Kout na Šumavě",
+    "country": "CZ",
+    "lat": 49.40255,
+    "lng": 13.00208
+  },
+  {
+    "name": "Kouřim",
+    "country": "CZ",
+    "lat": 50.00306,
+    "lng": 14.97703
+  },
+  {
+    "name": "Kostice",
+    "country": "CZ",
+    "lat": 48.74685,
+    "lng": 16.97869
+  },
+  {
+    "name": "Kostelec na Hané",
+    "country": "CZ",
+    "lat": 49.51398,
+    "lng": 17.05824
+  },
+  {
+    "name": "Kostelec nad Orlicí",
+    "country": "CZ",
+    "lat": 50.12267,
+    "lng": 16.21319
+  },
+  {
+    "name": "Kostelec nad Labem",
+    "country": "CZ",
+    "lat": 50.22653,
+    "lng": 14.58552
+  },
+  {
+    "name": "Kostelec nad Černými Lesy",
+    "country": "CZ",
+    "lat": 49.99403,
+    "lng": 14.85922
+  },
+  {
+    "name": "Košťany",
+    "country": "CZ",
+    "lat": 50.65507,
+    "lng": 13.75554
+  },
+  {
+    "name": "Košťálov",
+    "country": "CZ",
+    "lat": 50.57165,
+    "lng": 15.40403
+  },
+  {
+    "name": "Kosova Hora",
+    "country": "CZ",
+    "lat": 49.65414,
+    "lng": 14.47173
+  },
+  {
+    "name": "Kosmonosy",
+    "country": "CZ",
+    "lat": 50.4385,
+    "lng": 14.93
+  },
+  {
+    "name": "Košíře",
+    "country": "CZ",
+    "lat": 50.06708,
+    "lng": 14.36328
+  },
+  {
+    "name": "Koryčany",
+    "country": "CZ",
+    "lat": 49.10639,
+    "lng": 17.16433
+  },
+  {
+    "name": "Kořenov",
+    "country": "CZ",
+    "lat": 50.75926,
+    "lng": 15.36532
+  },
+  {
+    "name": "Kopřivnice",
+    "country": "CZ",
+    "lat": 49.59947,
+    "lng": 18.1448
+  },
+  {
+    "name": "Kopidlno",
+    "country": "CZ",
+    "lat": 50.33085,
+    "lng": 15.27029
+  },
+  {
+    "name": "Konice",
+    "country": "CZ",
+    "lat": 49.5903,
+    "lng": 16.88911
+  },
+  {
+    "name": "Komorní Lhotka",
+    "country": "CZ",
+    "lat": 49.65811,
+    "lng": 18.52777
+  },
+  {
+    "name": "Komárov",
+    "country": "CZ",
+    "lat": 49.8065,
+    "lng": 13.85636
+  },
+  {
+    "name": "Koloděje",
+    "country": "CZ",
+    "lat": 50.06257,
+    "lng": 14.64265
+  },
+  {
+    "name": "Kolinec",
+    "country": "CZ",
+    "lat": 49.29895,
+    "lng": 13.439
+  },
+  {
+    "name": "Kolín",
+    "country": "CZ",
+    "lat": 50.02806,
+    "lng": 15.1998
+  },
+  {
+    "name": "Kokory",
+    "country": "CZ",
+    "lat": 49.49482,
+    "lng": 17.37544
+  },
+  {
+    "name": "Kojetín",
+    "country": "CZ",
+    "lat": 49.35179,
+    "lng": 17.30207
+  },
+  {
+    "name": "Kobylisy",
+    "country": "CZ",
+    "lat": 50.12366,
+    "lng": 14.45209
+  },
+  {
+    "name": "Kobylí",
+    "country": "CZ",
+    "lat": 48.93286,
+    "lng": 16.89159
+  },
+  {
+    "name": "Kobeřice",
+    "country": "CZ",
+    "lat": 49.98548,
+    "lng": 18.05212
+  },
+  {
+    "name": "Kottweiler-Schwanden",
+    "country": "DE",
+    "lat": 49.48333,
+    "lng": 7.53333
+  },
+  {
+    "name": "Kottenheim",
+    "country": "DE",
+    "lat": 50.35,
+    "lng": 7.25
+  },
+  {
+    "name": "Kossa",
+    "country": "DE",
+    "lat": 51.61707,
+    "lng": 12.68197
+  },
+  {
+    "name": "Koserow",
+    "country": "DE",
+    "lat": 54.05189,
+    "lng": 14.00197
+  },
+  {
+    "name": "Kosel",
+    "country": "DE",
+    "lat": 54.5058,
+    "lng": 9.75653
+  },
+  {
+    "name": "Korschenbroich",
+    "country": "DE",
+    "lat": 51.19139,
+    "lng": 6.51352
+  },
+  {
+    "name": "Kornwestheim",
+    "country": "DE",
+    "lat": 48.86158,
+    "lng": 9.18569
+  },
+  {
+    "name": "Korntal",
+    "country": "DE",
+    "lat": 48.83218,
+    "lng": 9.1214
+  },
+  {
+    "name": "Kordel",
+    "country": "DE",
+    "lat": 49.83333,
+    "lng": 6.63333
+  },
+  {
+    "name": "Korbach",
+    "country": "DE",
+    "lat": 51.27561,
+    "lng": 8.873
+  },
+  {
+    "name": "Korb",
+    "country": "DE",
+    "lat": 48.84303,
+    "lng": 9.36258
+  },
+  {
+    "name": "Konzell",
+    "country": "DE",
+    "lat": 49.0724,
+    "lng": 12.71114
+  },
+  {
+    "name": "Konz",
+    "country": "DE",
+    "lat": 49.70045,
+    "lng": 6.57652
+  },
+  {
+    "name": "Konstanz",
+    "country": "DE",
+    "lat": 47.66033,
+    "lng": 9.17582
+  },
+  {
+    "name": "Konradsreuth",
+    "country": "DE",
+    "lat": 50.26667,
+    "lng": 11.85
+  },
+  {
+    "name": "Konradshöhe",
+    "country": "DE",
+    "lat": 52.58535,
+    "lng": 13.22758
+  },
+  {
+    "name": "Konradsreuth",
+    "country": "DE",
+    "lat": 49.74179,
+    "lng": 12.29628
+  },
+  {
+    "name": "Kollnburg",
+    "country": "DE",
+    "lat": 49.04664,
+    "lng": 12.86121
+  },
+  {
+    "name": "Kollmar",
+    "country": "DE",
+    "lat": 53.72936,
+    "lng": 9.4788
+  },
+  {
+    "name": "Kolkwitz",
+    "country": "DE",
+    "lat": 51.75,
+    "lng": 14.25
+  },
+  {
+    "name": "Kolitzheim",
+    "country": "DE",
+    "lat": 49.91667,
+    "lng": 10.23333
+  },
+  {
+    "name": "Kolbingen",
+    "country": "DE",
+    "lat": 48.05227,
+    "lng": 8.88957
+  },
+  {
+    "name": "Kolbermoor",
+    "country": "DE",
+    "lat": 47.84965,
+    "lng": 12.06696
+  },
+  {
+    "name": "Kohlberg",
+    "country": "DE",
+    "lat": 49.59121,
+    "lng": 12.01948
+  },
+  {
+    "name": "Kohlberg",
+    "country": "DE",
+    "lat": 48.55845,
+    "lng": 9.33576
+  },
+  {
+    "name": "Kodersdorf",
+    "country": "DE",
+    "lat": 51.24272,
+    "lng": 14.89336
+  },
+  {
+    "name": "Kochel",
+    "country": "DE",
+    "lat": 47.65926,
+    "lng": 11.36827
+  },
+  {
+    "name": "Koblenz",
+    "country": "DE",
+    "lat": 50.35357,
+    "lng": 7.57883
+  },
+  {
+    "name": "Kobern-Gondorf",
+    "country": "DE",
+    "lat": 50.3023,
+    "lng": 7.45612
+  },
+  {
+    "name": "Kottgeisering",
+    "country": "DE",
+    "lat": 48.11667,
+    "lng": 11.13333
+  },
+  {
+    "name": "Koûta Boûyya",
+    "country": "DJ",
+    "lat": 11.01611,
+    "lng": 41.96194
+  },
+  {
+    "name": "Korsør",
+    "country": "DK",
+    "lat": 55.32993,
+    "lng": 11.13857
+  },
+  {
+    "name": "Kongens Lyngby",
+    "country": "DK",
+    "lat": 55.77044,
+    "lng": 12.50378
+  },
+  {
+    "name": "Kolt",
+    "country": "DK",
+    "lat": 56.10845,
+    "lng": 10.06986
+  },
+  {
+    "name": "Kolding",
+    "country": "DK",
+    "lat": 55.4904,
+    "lng": 9.47216
+  },
+  {
+    "name": "Kokkedal",
+    "country": "DK",
+    "lat": 55.91179,
+    "lng": 12.49952
+  },
+  {
+    "name": "Kolea",
+    "country": "DZ",
+    "lat": 36.63888,
+    "lng": 2.76845
+  },
+  {
+    "name": "Kose",
+    "country": "EE",
+    "lat": 59.46001,
+    "lng": 24.87824
+  },
+  {
+    "name": "Kose",
+    "country": "EE",
+    "lat": 59.17889,
+    "lng": 25.17306
+  },
+  {
+    "name": "Kohtla-Järve",
+    "country": "EE",
+    "lat": 59.39861,
+    "lng": 27.27306
+  },
+  {
+    "name": "Kohtla-Nõmme",
+    "country": "EE",
+    "lat": 59.35167,
+    "lng": 27.175
+  },
+  {
+    "name": "Kohila",
+    "country": "EE",
+    "lat": 59.16806,
+    "lng": 24.7575
+  },
+  {
+    "name": "Koeru",
+    "country": "EE",
+    "lat": 58.96306,
+    "lng": 26.03083
+  },
+  {
+    "name": "Kom Ombo",
+    "country": "EG",
+    "lat": 24.47669,
+    "lng": 32.94626
+  },
+  {
+    "name": "Kortezubi",
+    "country": "ES",
+    "lat": 43.33333,
+    "lng": -2.65
+  },
+  {
+    "name": "Korem",
+    "country": "ET",
+    "lat": 12.50583,
+    "lng": 39.52278
+  },
+  {
+    "name": "Konso",
+    "country": "ET",
+    "lat": 5.25,
+    "lng": 37.48333
+  },
+  {
+    "name": "Kofelē",
+    "country": "ET",
+    "lat": 7.06667,
+    "lng": 38.78333
+  },
+  {
+    "name": "Kombolcha",
+    "country": "ET",
+    "lat": 11.08155,
+    "lng": 39.74339
+  },
+  {
+    "name": "Komtikas",
+    "country": "ET",
+    "lat": 6.95766,
+    "lng": 35.55746
+  },
+  {
+    "name": "Kobo",
+    "country": "ET",
+    "lat": 10.02798,
+    "lng": 39.8528
+  },
+  {
+    "name": "Kouvola",
+    "country": "FI",
+    "lat": 60.86667,
+    "lng": 26.7
+  },
+  {
+    "name": "Kotka",
+    "country": "FI",
+    "lat": 60.4664,
+    "lng": 26.94582
+  },
+  {
+    "name": "Koski Tl",
+    "country": "FI",
+    "lat": 60.65,
+    "lng": 23.15
+  },
+  {
+    "name": "Koskela",
+    "country": "FI",
+    "lat": 60.21846,
+    "lng": 24.96677
+  },
+  {
+    "name": "Koskela",
+    "country": "FI",
+    "lat": 65.04509,
+    "lng": 25.44528
+  },
+  {
+    "name": "Korvensuora",
+    "country": "FI",
+    "lat": 65.03897,
+    "lng": 25.57686
+  },
+  {
+    "name": "Kortesjärvi",
+    "country": "FI",
+    "lat": 63.3,
+    "lng": 23.16667
+  },
+  {
+    "name": "Korso",
+    "country": "FI",
+    "lat": 60.35107,
+    "lng": 25.07805
+  },
+  {
+    "name": "Korsnäs",
+    "country": "FI",
+    "lat": 62.78333,
+    "lng": 21.2
+  },
+  {
+    "name": "Korsholm",
+    "country": "FI",
+    "lat": 63.11418,
+    "lng": 21.68216
+  },
+  {
+    "name": "Korpilahti",
+    "country": "FI",
+    "lat": 62.01667,
+    "lng": 25.55
+  },
+  {
+    "name": "Koria",
+    "country": "FI",
+    "lat": 60.84614,
+    "lng": 26.60755
+  },
+  {
+    "name": "Kontiolahti",
+    "country": "FI",
+    "lat": 62.76023,
+    "lng": 29.84711
+  },
+  {
+    "name": "Konnevesi",
+    "country": "FI",
+    "lat": 62.61667,
+    "lng": 26.31667
+  },
+  {
+    "name": "Kolari",
+    "country": "FI",
+    "lat": 67.33047,
+    "lng": 23.77785
+  },
+  {
+    "name": "Kokkola",
+    "country": "FI",
+    "lat": 63.83847,
+    "lng": 23.13066
+  },
+  {
+    "name": "Kokemäki",
+    "country": "FI",
+    "lat": 61.25647,
+    "lng": 22.35643
+  },
+  {
+    "name": "Koivistonkylä",
+    "country": "FI",
+    "lat": 61.47084,
+    "lng": 23.79141
+  },
+  {
+    "name": "Konala",
+    "country": "FI",
+    "lat": 60.23713,
+    "lng": 24.84489
+  },
+  {
+    "name": "Koivukylä",
+    "country": "FI",
+    "lat": 60.32236,
+    "lng": 25.05861
+  },
+  {
+    "name": "Kontula",
+    "country": "FI",
+    "lat": 60.23764,
+    "lng": 25.08393
+  },
+  {
+    "name": "Korkinmäki",
+    "country": "FI",
+    "lat": 61.47239,
+    "lng": 23.82719
+  },
+  {
+    "name": "Koivuhaka",
+    "country": "FI",
+    "lat": 60.29836,
+    "lng": 25.00379
+  },
+  {
+    "name": "Korvenkylä",
+    "country": "FI",
+    "lat": 61.18113,
+    "lng": 28.70036
+  },
+  {
+    "name": "Koukkuniemi",
+    "country": "FI",
+    "lat": 60.15261,
+    "lng": 24.76467
+  },
+  {
+    "name": "Kourula",
+    "country": "FI",
+    "lat": 61.04628,
+    "lng": 28.13069
+  },
+  {
+    "name": "Konepaja",
+    "country": "FI",
+    "lat": 60.1938,
+    "lng": 24.94491
+  },
+  {
+    "name": "Kotkavuori",
+    "country": "FI",
+    "lat": 60.1631,
+    "lng": 24.88414
+  },
+  {
+    "name": "Kolonia Town",
+    "country": "FM",
+    "lat": 6.964,
+    "lng": 158.206
+  },
+  {
+    "name": "Kolonia",
+    "country": "FM",
+    "lat": 6.964,
+    "lng": 158.2062
+  },
+  {
+    "name": "Koulamoutou",
+    "country": "GA",
+    "lat": -1.13667,
+    "lng": 12.46399
+  },
+  {
+    "name": "Kojori",
+    "country": "GE",
+    "lat": 41.65887,
+    "lng": 44.70006
+  },
+  {
+    "name": "Kobuleti",
+    "country": "GE",
+    "lat": 41.83283,
+    "lng": 41.77823
+  },
+  {
+    "name": "Kourou",
+    "country": "GF",
+    "lat": 5.16281,
+    "lng": -52.64265
+  },
+  {
+    "name": "Konongo",
+    "country": "GH",
+    "lat": 6.61667,
+    "lng": -1.21667
+  },
+  {
+    "name": "Koforidua",
+    "country": "GH",
+    "lat": 6.09408,
+    "lng": -0.25913
+  },
+  {
+    "name": "Kotu",
+    "country": "GM",
+    "lat": 13.45944,
+    "lng": -16.70528
+  },
+  {
+    "name": "Kololi",
+    "country": "GM",
+    "lat": 13.45,
+    "lng": -16.71667
+  },
+  {
+    "name": "Koina",
+    "country": "GM",
+    "lat": 13.48333,
+    "lng": -13.86667
+  },
+  {
+    "name": "Kouroussa",
+    "country": "GN",
+    "lat": 10.65,
+    "lng": -9.88333
+  },
+  {
+    "name": "Koundara",
+    "country": "GN",
+    "lat": 12.48333,
+    "lng": -13.3
+  },
+  {
+    "name": "Koubia",
+    "country": "GN",
+    "lat": 11.58632,
+    "lng": -11.89485
+  },
+  {
+    "name": "Koumandjanbougou",
+    "country": "GN",
+    "lat": 11.44658,
+    "lng": -8.97546
+  },
+  {
+    "name": "Kouvarás",
+    "country": "GR",
+    "lat": 37.82711,
+    "lng": 23.96715
+  },
+  {
+    "name": "Koutsopódi",
+    "country": "GR",
+    "lat": 37.68426,
+    "lng": 22.71355
+  },
+  {
+    "name": "Koutselió",
+    "country": "GR",
+    "lat": 39.58808,
+    "lng": 20.91197
+  },
+  {
+    "name": "Kostakioí",
+    "country": "GR",
+    "lat": 39.13672,
+    "lng": 20.95761
+  },
+  {
+    "name": "Kos",
+    "country": "GR",
+    "lat": 36.89295,
+    "lng": 27.28768
+  },
+  {
+    "name": "Koropí",
+    "country": "GR",
+    "lat": 37.89886,
+    "lng": 23.87181
+  },
+  {
+    "name": "Koróni",
+    "country": "GR",
+    "lat": 36.79526,
+    "lng": 21.95794
+  },
+  {
+    "name": "Kompóti",
+    "country": "GR",
+    "lat": 39.10255,
+    "lng": 21.08389
+  },
+  {
+    "name": "Kolympári",
+    "country": "GR",
+    "lat": 35.54115,
+    "lng": 23.77995
+  },
+  {
+    "name": "Kokkónion",
+    "country": "GR",
+    "lat": 37.97061,
+    "lng": 22.78018
+  },
+  {
+    "name": "Kokkíni Cháni",
+    "country": "GR",
+    "lat": 35.32827,
+    "lng": 25.2581
+  },
+  {
+    "name": "Kokkári",
+    "country": "GR",
+    "lat": 37.77908,
+    "lng": 26.89179
+  },
+  {
+    "name": "Koilás",
+    "country": "GR",
+    "lat": 37.4123,
+    "lng": 23.12553
+  },
+  {
+    "name": "Kopanáki",
+    "country": "GR",
+    "lat": 37.28913,
+    "lng": 21.81854
+  },
+  {
+    "name": "Kozáni",
+    "country": "GR",
+    "lat": 40.29931,
+    "lng": 21.78984
+  },
+  {
+    "name": "Kouloúra",
+    "country": "GR",
+    "lat": 40.54652,
+    "lng": 22.31795
+  },
+  {
+    "name": "Koufália",
+    "country": "GR",
+    "lat": 40.77778,
+    "lng": 22.57194
+  },
+  {
+    "name": "Korinós",
+    "country": "GR",
+    "lat": 40.31659,
+    "lng": 22.58817
+  },
+  {
+    "name": "Koryfí",
+    "country": "GR",
+    "lat": 40.60286,
+    "lng": 22.50681
+  },
+  {
+    "name": "Kopanós",
+    "country": "GR",
+    "lat": 40.63382,
+    "lng": 22.12893
+  },
+  {
+    "name": "Kontariótissa",
+    "country": "GR",
+    "lat": 40.22754,
+    "lng": 22.461
+  },
+  {
+    "name": "Komotiní",
+    "country": "GR",
+    "lat": 41.11758,
+    "lng": 25.40587
+  },
+  {
+    "name": "Komniná",
+    "country": "GR",
+    "lat": 40.59057,
+    "lng": 21.77671
+  },
+  {
+    "name": "Kolchikón",
+    "country": "GR",
+    "lat": 40.75662,
+    "lng": 23.13377
+  },
+  {
+    "name": "Kolindrós",
+    "country": "GR",
+    "lat": 40.47888,
+    "lng": 22.48319
+  },
+  {
+    "name": "Kokkinóchoma",
+    "country": "GR",
+    "lat": 40.9269,
+    "lng": 24.30805
+  },
+  {
+    "name": "Koímisi",
+    "country": "GR",
+    "lat": 41.21282,
+    "lng": 23.30035
+  },
+  {
+    "name": "Koíla",
+    "country": "GR",
+    "lat": 40.33055,
+    "lng": 21.79102
+  },
+  {
+    "name": "Kontokáli",
+    "country": "GR",
+    "lat": 39.64436,
+    "lng": 19.85194
+  },
+  {
+    "name": "Koskinoù",
+    "country": "GR",
+    "lat": 36.38794,
+    "lng": 28.21506
+  },
+  {
+    "name": "Korydallós",
+    "country": "GR",
+    "lat": 37.98468,
+    "lng": 23.64711
+  },
+  {
+    "name": "Kowloon Tong",
+    "country": "HK",
+    "lat": 22.33312,
+    "lng": 114.17969
+  },
+  {
+    "name": "Kowloon City",
+    "country": "HK",
+    "lat": 22.33047,
+    "lng": 114.19222
+  },
+  {
+    "name": "Kowloon",
+    "country": "HK",
+    "lat": 22.31667,
+    "lng": 114.18333
+  },
+  {
+    "name": "Kowloon Bay",
+    "country": "HK",
+    "lat": 22.32662,
+    "lng": 114.20777
+  },
+  {
+    "name": "Kornhill",
+    "country": "HK",
+    "lat": 22.28213,
+    "lng": 114.21566
+  },
+  {
+    "name": "Kornhill Garden",
+    "country": "HK",
+    "lat": 22.2853,
+    "lng": 114.21601
+  },
+  {
+    "name": "Kowloon City Centre",
+    "country": "HK",
+    "lat": 22.32979,
+    "lng": 114.18889
+  },
+  {
+    "name": "Kowloon West End",
+    "country": "HK",
+    "lat": 22.32848,
+    "lng": 114.18514
+  },
+  {
+    "name": "Korenica",
+    "country": "HR",
+    "lat": 44.74389,
+    "lng": 15.70972
+  },
+  {
+    "name": "Kozinščak",
+    "country": "HR",
+    "lat": 45.81234,
+    "lng": 16.25755
+  },
+  {
+    "name": "Kotoriba",
+    "country": "HR",
+    "lat": 46.355,
+    "lng": 16.81806
+  },
+  {
+    "name": "Košute",
+    "country": "HR",
+    "lat": 43.63083,
+    "lng": 16.695
+  },
+  {
+    "name": "Kostrena",
+    "country": "HR",
+    "lat": 45.30111,
+    "lng": 14.50556
+  },
+  {
+    "name": "Koška",
+    "country": "HR",
+    "lat": 45.54528,
+    "lng": 18.28583
+  },
+  {
+    "name": "Korčula",
+    "country": "HR",
+    "lat": 42.96038,
+    "lng": 17.13525
+  },
+  {
+    "name": "Koprivnica",
+    "country": "HR",
+    "lat": 46.16364,
+    "lng": 16.8297
+  },
+  {
+    "name": "Končanica",
+    "country": "HR",
+    "lat": 45.63611,
+    "lng": 17.16639
+  },
+  {
+    "name": "Komletinci",
+    "country": "HR",
+    "lat": 45.14972,
+    "lng": 18.94917
+  },
+  {
+    "name": "Komiža",
+    "country": "HR",
+    "lat": 43.04306,
+    "lng": 16.09306
+  },
+  {
+    "name": "Kolan",
+    "country": "HR",
+    "lat": 44.49417,
+    "lng": 14.96139
+  },
+  {
+    "name": "Koprivnički Bregi",
+    "country": "HR",
+    "lat": 46.13861,
+    "lng": 16.90583
+  },
+  {
+    "name": "Koprivnički Ivanec",
+    "country": "HR",
+    "lat": 46.20278,
+    "lng": 16.81667
+  },
+  {
+    "name": "Korenica",
+    "country": "HR",
+    "lat": 45.22472,
+    "lng": 18.16556
+  },
+  {
+    "name": "Konjšćina",
+    "country": "HR",
+    "lat": 46.0521,
+    "lng": 16.17264
+  },
+  {
+    "name": "Kopčevec",
+    "country": "HR",
+    "lat": 45.80375,
+    "lng": 16.21347
+  },
+  {
+    "name": "Kotdefè",
+    "country": "HT",
+    "lat": 18.18872,
+    "lng": -73.00287
+  },
+  {
+    "name": "Koto",
+    "country": "HT",
+    "lat": 18.20601,
+    "lng": -74.04013
+  },
+  {
+    "name": "Konyár",
+    "country": "HU",
+    "lat": 47.31667,
+    "lng": 21.66667
+  },
+  {
+    "name": "Kondoros",
+    "country": "HU",
+    "lat": 46.76667,
+    "lng": 20.8
+  },
+  {
+    "name": "Kompolt",
+    "country": "HU",
+    "lat": 47.74222,
+    "lng": 20.24192
+  },
+  {
+    "name": "Komádi",
+    "country": "HU",
+    "lat": 47.0,
+    "lng": 21.5
+  },
+  {
+    "name": "Kocsord",
+    "country": "HU",
+    "lat": 47.93912,
+    "lng": 22.38333
+  },
+  {
+    "name": "Kozármisleny",
+    "country": "HU",
+    "lat": 46.02967,
+    "lng": 18.2921
+  },
+  {
+    "name": "Kosd",
+    "country": "HU",
+    "lat": 47.80791,
+    "lng": 19.17821
+  },
+  {
+    "name": "Komló",
+    "country": "HU",
+    "lat": 46.19278,
+    "lng": 18.26494
+  },
+  {
+    "name": "Komárom",
+    "country": "HU",
+    "lat": 47.74318,
+    "lng": 18.11913
+  },
+  {
+    "name": "Kocsér",
+    "country": "HU",
+    "lat": 47.00165,
+    "lng": 19.92067
+  },
+  {
+    "name": "Kocs",
+    "country": "HU",
+    "lat": 47.6075,
+    "lng": 18.21517
+  },
+  {
+    "name": "Kossuthfalva",
+    "country": "HU",
+    "lat": 47.43937,
+    "lng": 19.12304
+  },
+  {
+    "name": "Kossuth Ferenc-telep",
+    "country": "HU",
+    "lat": 47.40647,
+    "lng": 19.17624
+  },
+  {
+    "name": "Kotanopan",
+    "country": "ID",
+    "lat": 0.66758,
+    "lng": 99.70908
+  },
+  {
+    "name": "Kolaka",
+    "country": "ID",
+    "lat": -4.0597,
+    "lng": 121.60556
+  },
+  {
+    "name": "Kore",
+    "country": "ID",
+    "lat": -8.37599,
+    "lng": 118.29876
+  },
+  {
+    "name": "Kotawaringin",
+    "country": "ID",
+    "lat": -2.4729,
+    "lng": 111.4731
+  },
+  {
+    "name": "Kota Tengah",
+    "country": "ID",
+    "lat": 1.08738,
+    "lng": 100.55458
+  },
+  {
+    "name": "Kota Pinang",
+    "country": "ID",
+    "lat": 1.89076,
+    "lng": 100.09211
+  },
+  {
+    "name": "Kotabunan",
+    "country": "ID",
+    "lat": 0.81217,
+    "lng": 124.65546
+  },
+  {
+    "name": "Kotabumi",
+    "country": "ID",
+    "lat": -4.82505,
+    "lng": 104.8817
+  },
+  {
+    "name": "Kotabesi",
+    "country": "ID",
+    "lat": -2.3715,
+    "lng": 113.0025
+  },
+  {
+    "name": "Kotabaru Hilir",
+    "country": "ID",
+    "lat": -3.24267,
+    "lng": 116.22514
+  },
+  {
+    "name": "Kotabaru",
+    "country": "ID",
+    "lat": -1.10155,
+    "lng": 101.76031
+  },
+  {
+    "name": "Kotaagung",
+    "country": "ID",
+    "lat": -5.49415,
+    "lng": 104.62201
+  },
+  {
+    "name": "Kotaagung",
+    "country": "ID",
+    "lat": -4.06853,
+    "lng": 103.43164
+  },
+  {
+    "name": "Korem",
+    "country": "ID",
+    "lat": -0.90004,
+    "lng": 136.04082
+  },
+  {
+    "name": "Korido",
+    "country": "ID",
+    "lat": -0.8747,
+    "lng": 135.6344
+  },
+  {
+    "name": "Kopang Satu",
+    "country": "ID",
+    "lat": -8.6335,
+    "lng": 116.3517
+  },
+  {
+    "name": "Komodo",
+    "country": "ID",
+    "lat": -8.5895,
+    "lng": 119.4913
+  },
+  {
+    "name": "Kolonodale",
+    "country": "ID",
+    "lat": -1.9825,
+    "lng": 121.3364
+  },
+  {
+    "name": "Kokas Kota",
+    "country": "ID",
+    "lat": -2.70144,
+    "lng": 132.43848
+  },
+  {
+    "name": "Kokar",
+    "country": "ID",
+    "lat": -8.1629,
+    "lng": 124.4473
+  },
+  {
+    "name": "Koba",
+    "country": "ID",
+    "lat": -2.49313,
+    "lng": 106.4081
+  },
+  {
+    "name": "Kotabaru",
+    "country": "ID",
+    "lat": -4.2137,
+    "lng": 120.0096
+  },
+  {
+    "name": "Kotatua",
+    "country": "ID",
+    "lat": -0.34514,
+    "lng": 100.36241
+  },
+  {
+    "name": "Kototujuh",
+    "country": "ID",
+    "lat": -0.6361,
+    "lng": 100.889
+  },
+  {
+    "name": "Kotabaru",
+    "country": "ID",
+    "lat": -8.5104,
+    "lng": 121.9911
+  },
+  {
+    "name": "Kotawaikabubak",
+    "country": "ID",
+    "lat": -9.6376,
+    "lng": 119.4229
+  },
+  {
+    "name": "Kopibera",
+    "country": "ID",
+    "lat": -6.1548,
+    "lng": 105.8734
+  },
+  {
+    "name": "Kota Ternate",
+    "country": "ID",
+    "lat": 0.78333,
+    "lng": 127.36667
+  },
+  {
+    "name": "Kota Agung",
+    "country": "ID",
+    "lat": -5.50257,
+    "lng": 104.64538
+  },
+  {
+    "name": "Kokop",
+    "country": "ID",
+    "lat": -6.9425,
+    "lng": 113.0303
+  },
+  {
+    "name": "Kota Trieng",
+    "country": "ID",
+    "lat": 3.5984,
+    "lng": 96.96243
+  },
+  {
+    "name": "Kota Binjai",
+    "country": "ID",
+    "lat": 5.0469,
+    "lng": 97.60903
+  },
+  {
+    "name": "Kotabahagia",
+    "country": "ID",
+    "lat": 3.819,
+    "lng": 96.7658
+  },
+  {
+    "name": "Kobakma",
+    "country": "ID",
+    "lat": -3.66417,
+    "lng": 139.065
+  },
+  {
+    "name": "Kota Sambas",
+    "country": "ID",
+    "lat": 1.36259,
+    "lng": 109.30093
+  },
+  {
+    "name": "Kokhav HaShaẖar",
+    "country": "IL",
+    "lat": 31.96028,
+    "lng": 35.34923
+  },
+  {
+    "name": "Kokhav Michael Sobell",
+    "country": "IL",
+    "lat": 31.62804,
+    "lng": 34.66904
+  },
+  {
+    "name": "Kokhav Ya’ir",
+    "country": "IL",
+    "lat": 32.22623,
+    "lng": 35.00222
+  },
+  {
+    "name": "Kollam",
+    "country": "IN",
+    "lat": 8.88113,
+    "lng": 76.58469
+  },
+  {
+    "name": "Koyilandy",
+    "country": "IN",
+    "lat": 11.4381,
+    "lng": 75.69306
+  },
+  {
+    "name": "Koothanallur",
+    "country": "IN",
+    "lat": 10.7199,
+    "lng": 79.5157
+  },
+  {
+    "name": "Kodavasal",
+    "country": "IN",
+    "lat": 10.86163,
+    "lng": 79.47965
+  },
+  {
+    "name": "Kozhikode",
+    "country": "IN",
+    "lat": 11.24802,
+    "lng": 75.7804
+  },
+  {
+    "name": "Kozhancheri",
+    "country": "IN",
+    "lat": 9.35,
+    "lng": 76.7
+  },
+  {
+    "name": "Koynanagar",
+    "country": "IN",
+    "lat": 17.4,
+    "lng": 73.76667
+  },
+  {
+    "name": "Kovvūr",
+    "country": "IN",
+    "lat": 17.0162,
+    "lng": 81.72934
+  },
+  {
+    "name": "Kovūr",
+    "country": "IN",
+    "lat": 14.5005,
+    "lng": 79.98518
+  },
+  {
+    "name": "Kovilpatti",
+    "country": "IN",
+    "lat": 9.17167,
+    "lng": 77.86989
+  },
+  {
+    "name": "Kovalam",
+    "country": "IN",
+    "lat": 8.36667,
+    "lng": 76.99667
+  },
+  {
+    "name": "Kotwa",
+    "country": "IN",
+    "lat": 25.0308,
+    "lng": 81.31908
+  },
+  {
+    "name": "Kottūru",
+    "country": "IN",
+    "lat": 14.82442,
+    "lng": 76.22005
+  },
+  {
+    "name": "Kottayam",
+    "country": "IN",
+    "lat": 9.58692,
+    "lng": 76.52132
+  },
+  {
+    "name": "Kottavalasa",
+    "country": "IN",
+    "lat": 17.89044,
+    "lng": 83.1907
+  },
+  {
+    "name": "Kottārakara",
+    "country": "IN",
+    "lat": 9.00359,
+    "lng": 76.77383
+  },
+  {
+    "name": "Kottapalli",
+    "country": "IN",
+    "lat": 18.49543,
+    "lng": 79.0943
+  },
+  {
+    "name": "Kottaiyūr",
+    "country": "IN",
+    "lat": 10.10956,
+    "lng": 78.7956
+  },
+  {
+    "name": "Kottagūdem",
+    "country": "IN",
+    "lat": 17.55106,
+    "lng": 80.61779
+  },
+  {
+    "name": "Kothri Kalān",
+    "country": "IN",
+    "lat": 23.07219,
+    "lng": 76.8296
+  },
+  {
+    "name": "Kotra",
+    "country": "IN",
+    "lat": 25.8077,
+    "lng": 79.30909
+  },
+  {
+    "name": "Kotputli",
+    "country": "IN",
+    "lat": 27.70207,
+    "lng": 76.19911
+  },
+  {
+    "name": "Kotma",
+    "country": "IN",
+    "lat": 23.20383,
+    "lng": 81.97904
+  },
+  {
+    "name": "Kotla",
+    "country": "IN",
+    "lat": 32.25,
+    "lng": 76.03333
+  },
+  {
+    "name": "Kotkhai",
+    "country": "IN",
+    "lat": 31.11728,
+    "lng": 77.53936
+  },
+  {
+    "name": "Kot Kapūra",
+    "country": "IN",
+    "lat": 30.58061,
+    "lng": 74.82609
+  },
+  {
+    "name": "Kot Īsa Khān",
+    "country": "IN",
+    "lat": 30.94659,
+    "lng": 75.1378
+  },
+  {
+    "name": "Kothi",
+    "country": "IN",
+    "lat": 24.7526,
+    "lng": 80.77751
+  },
+  {
+    "name": "Kotharia",
+    "country": "IN",
+    "lat": 22.23436,
+    "lng": 70.81903
+  },
+  {
+    "name": "Kothāpet",
+    "country": "IN",
+    "lat": 19.35176,
+    "lng": 79.48323
+  },
+  {
+    "name": "Kothakota",
+    "country": "IN",
+    "lat": 16.38002,
+    "lng": 77.94004
+  },
+  {
+    "name": "Kot Fatah",
+    "country": "IN",
+    "lat": 30.11316,
+    "lng": 75.0867
+  },
+  {
+    "name": "Kotdwāra",
+    "country": "IN",
+    "lat": 29.74612,
+    "lng": 78.52219
+  },
+  {
+    "name": "Kotba",
+    "country": "IN",
+    "lat": 22.43943,
+    "lng": 83.73999
+  },
+  {
+    "name": "Kotār",
+    "country": "IN",
+    "lat": 24.69802,
+    "lng": 80.98073
+  },
+  {
+    "name": "Kotapārh",
+    "country": "IN",
+    "lat": 19.14256,
+    "lng": 82.32536
+  },
+  {
+    "name": "Kotamangalam",
+    "country": "IN",
+    "lat": 10.06435,
+    "lng": 76.62843
+  },
+  {
+    "name": "Kotagiri",
+    "country": "IN",
+    "lat": 11.42072,
+    "lng": 76.86035
+  },
+  {
+    "name": "Kota",
+    "country": "IN",
+    "lat": 25.18254,
+    "lng": 75.83907
+  },
+  {
+    "name": "Kota",
+    "country": "IN",
+    "lat": 24.44643,
+    "lng": 83.13063
+  },
+  {
+    "name": "Kotā",
+    "country": "IN",
+    "lat": 22.29507,
+    "lng": 82.02366
+  },
+  {
+    "name": "Kosigi",
+    "country": "IN",
+    "lat": 15.8551,
+    "lng": 77.24463
+  },
+  {
+    "name": "Kosi",
+    "country": "IN",
+    "lat": 27.79449,
+    "lng": 77.4368
+  },
+  {
+    "name": "Kosamba",
+    "country": "IN",
+    "lat": 21.46202,
+    "lng": 72.95842
+  },
+  {
+    "name": "Korwai",
+    "country": "IN",
+    "lat": 24.11774,
+    "lng": 78.04007
+  },
+  {
+    "name": "Korukollu",
+    "country": "IN",
+    "lat": 16.5,
+    "lng": 81.25
+  },
+  {
+    "name": "Koregaon",
+    "country": "IN",
+    "lat": 18.64573,
+    "lng": 74.05909
+  },
+  {
+    "name": "Koregaon",
+    "country": "IN",
+    "lat": 17.69915,
+    "lng": 74.16252
+  },
+  {
+    "name": "Korba",
+    "country": "IN",
+    "lat": 22.3458,
+    "lng": 82.69633
+  },
+  {
+    "name": "Koratla",
+    "country": "IN",
+    "lat": 18.82154,
+    "lng": 78.71186
+  },
+  {
+    "name": "Koratagere",
+    "country": "IN",
+    "lat": 13.522,
+    "lng": 77.2373
+  },
+  {
+    "name": "Koraput",
+    "country": "IN",
+    "lat": 18.81199,
+    "lng": 82.71048
+  },
+  {
+    "name": "Korampallam",
+    "country": "IN",
+    "lat": 8.77506,
+    "lng": 78.09158
+  },
+  {
+    "name": "Korādi",
+    "country": "IN",
+    "lat": 21.24758,
+    "lng": 79.10575
+  },
+  {
+    "name": "Koradacheri",
+    "country": "IN",
+    "lat": 10.77019,
+    "lng": 79.49158
+  },
+  {
+    "name": "Koppal",
+    "country": "IN",
+    "lat": 15.34522,
+    "lng": 76.15478
+  },
+  {
+    "name": "Koppa",
+    "country": "IN",
+    "lat": 13.53044,
+    "lng": 75.36329
+  },
+  {
+    "name": "Kopargaon",
+    "country": "IN",
+    "lat": 19.88239,
+    "lng": 74.47605
+  },
+  {
+    "name": "Kopāganj",
+    "country": "IN",
+    "lat": 26.01923,
+    "lng": 83.5663
+  },
+  {
+    "name": "Konta",
+    "country": "IN",
+    "lat": 17.80492,
+    "lng": 81.38666
+  },
+  {
+    "name": "Konnūr",
+    "country": "IN",
+    "lat": 16.20138,
+    "lng": 74.74886
+  },
+  {
+    "name": "Konnagar",
+    "country": "IN",
+    "lat": 22.70508,
+    "lng": 88.34446
+  },
+  {
+    "name": "Konganāpuram",
+    "country": "IN",
+    "lat": 11.57105,
+    "lng": 77.9004
+  },
+  {
+    "name": "Kondotty",
+    "country": "IN",
+    "lat": 11.1423,
+    "lng": 75.9657
+  },
+  {
+    "name": "Kondapalle",
+    "country": "IN",
+    "lat": 16.61989,
+    "lng": 80.54244
+  },
+  {
+    "name": "Kondalwādi",
+    "country": "IN",
+    "lat": 18.80727,
+    "lng": 77.77031
+  },
+  {
+    "name": "Kondagaon",
+    "country": "IN",
+    "lat": 19.59083,
+    "lng": 81.664
+  },
+  {
+    "name": "Konch",
+    "country": "IN",
+    "lat": 25.99451,
+    "lng": 79.15127
+  },
+  {
+    "name": "Konārka",
+    "country": "IN",
+    "lat": 19.89021,
+    "lng": 86.09761
+  },
+  {
+    "name": "Konanūr",
+    "country": "IN",
+    "lat": 12.63016,
+    "lng": 76.05037
+  },
+  {
+    "name": "Kombai",
+    "country": "IN",
+    "lat": 9.84745,
+    "lng": 77.29603
+  },
+  {
+    "name": "Kolasib",
+    "country": "IN",
+    "lat": 24.22388,
+    "lng": 92.67869
+  },
+  {
+    "name": "Kollegāl",
+    "country": "IN",
+    "lat": 12.15449,
+    "lng": 77.11051
+  },
+  {
+    "name": "Kolhāpur",
+    "country": "IN",
+    "lat": 16.69563,
+    "lng": 74.23167
+  },
+  {
+    "name": "Kolāyat",
+    "country": "IN",
+    "lat": 27.83815,
+    "lng": 72.95975
+  },
+  {
+    "name": "Kolāras",
+    "country": "IN",
+    "lat": 25.21928,
+    "lng": 77.61167
+  },
+  {
+    "name": "Kolār",
+    "country": "IN",
+    "lat": 13.13768,
+    "lng": 78.12999
+  },
+  {
+    "name": "Kolanukonda",
+    "country": "IN",
+    "lat": 16.45392,
+    "lng": 80.61046
+  },
+  {
+    "name": "Kokrajhar",
+    "country": "IN",
+    "lat": 26.40107,
+    "lng": 90.27286
+  },
+  {
+    "name": "Koīra",
+    "country": "IN",
+    "lat": 21.90494,
+    "lng": 85.24208
+  },
+  {
+    "name": "Kohima",
+    "country": "IN",
+    "lat": 25.67467,
+    "lng": 94.11099
+  },
+  {
+    "name": "Koelwār",
+    "country": "IN",
+    "lat": 25.58055,
+    "lng": 84.79751
+  },
+  {
+    "name": "Kodungallūr",
+    "country": "IN",
+    "lat": 10.23263,
+    "lng": 76.19513
+  },
+  {
+    "name": "Kodumudi",
+    "country": "IN",
+    "lat": 11.07751,
+    "lng": 77.88363
+  },
+  {
+    "name": "Kodoli",
+    "country": "IN",
+    "lat": 16.87639,
+    "lng": 74.1909
+  },
+  {
+    "name": "Kodlipet",
+    "country": "IN",
+    "lat": 12.80087,
+    "lng": 75.88662
+  },
+  {
+    "name": "Kodīnar",
+    "country": "IN",
+    "lat": 20.79393,
+    "lng": 70.70216
+  },
+  {
+    "name": "Kodigenahalli",
+    "country": "IN",
+    "lat": 13.72136,
+    "lng": 77.38629
+  },
+  {
+    "name": "Kodarma",
+    "country": "IN",
+    "lat": 24.46753,
+    "lng": 85.59397
+  },
+  {
+    "name": "Kodār",
+    "country": "IN",
+    "lat": 16.9985,
+    "lng": 79.9656
+  },
+  {
+    "name": "Kodala",
+    "country": "IN",
+    "lat": 19.62425,
+    "lng": 84.94075
+  },
+  {
+    "name": "Kodaikānāl",
+    "country": "IN",
+    "lat": 10.23925,
+    "lng": 77.48932
+  },
+  {
+    "name": "Koch Bihār",
+    "country": "IN",
+    "lat": 26.32539,
+    "lng": 89.44508
+  },
+  {
+    "name": "Koāth",
+    "country": "IN",
+    "lat": 25.32643,
+    "lng": 84.25983
+  },
+  {
+    "name": "Kochi",
+    "country": "IN",
+    "lat": 9.93988,
+    "lng": 76.26022
+  },
+  {
+    "name": "Kolkata",
+    "country": "IN",
+    "lat": 22.56263,
+    "lng": 88.36304
+  },
+  {
+    "name": "Kotūr",
+    "country": "IN",
+    "lat": 17.14842,
+    "lng": 78.28734
+  },
+  {
+    "name": "Kompalli",
+    "country": "IN",
+    "lat": 17.54499,
+    "lng": 78.48836
+  },
+  {
+    "name": "Kotivakkam",
+    "country": "IN",
+    "lat": 12.97016,
+    "lng": 80.25769
+  },
+  {
+    "name": "koppana Agrahara",
+    "country": "IN",
+    "lat": 12.85507,
+    "lng": 77.66707
+  },
+  {
+    "name": "Kotkapura",
+    "country": "IN",
+    "lat": 30.5819,
+    "lng": 74.83298
+  },
+  {
+    "name": "Kottur",
+    "country": "IN",
+    "lat": 10.53646,
+    "lng": 76.98034
+  },
+  {
+    "name": "Koloriāng",
+    "country": "IN",
+    "lat": 27.91001,
+    "lng": 93.35501
+  },
+  {
+    "name": "Kopawor",
+    "country": "IN",
+    "lat": 34.52856,
+    "lng": 74.26396
+  },
+  {
+    "name": "Kondli",
+    "country": "IN",
+    "lat": 28.61167,
+    "lng": 77.32667
+  },
+  {
+    "name": "Kotla Nihang",
+    "country": "IN",
+    "lat": 30.9532,
+    "lng": 76.53815
+  },
+  {
+    "name": "Kondhi",
+    "country": "IN",
+    "lat": 20.01453,
+    "lng": 79.28564
+  },
+  {
+    "name": "Kottapeta",
+    "country": "IN",
+    "lat": 17.30589,
+    "lng": 78.49099
+  },
+  {
+    "name": "Kot",
+    "country": "IN",
+    "lat": 32.40039,
+    "lng": 75.72166
+  },
+  {
+    "name": "Kosmī",
+    "country": "IN",
+    "lat": 21.80448,
+    "lng": 80.2068
+  },
+  {
+    "name": "Koni",
+    "country": "IN",
+    "lat": 22.12171,
+    "lng": 82.13362
+  },
+  {
+    "name": "Korangarapādi",
+    "country": "IN",
+    "lat": 13.3097,
+    "lng": 74.76147
+  },
+  {
+    "name": "Kolambe",
+    "country": "IN",
+    "lat": 12.96467,
+    "lng": 74.90865
+  },
+  {
+    "name": "Koipādi",
+    "country": "IN",
+    "lat": 12.59302,
+    "lng": 74.96262
+  },
+  {
+    "name": "Konrā",
+    "country": "IN",
+    "lat": 24.31033,
+    "lng": 85.4221
+  },
+  {
+    "name": "Kolaccheri",
+    "country": "IN",
+    "lat": 11.97634,
+    "lng": 75.41675
+  },
+  {
+    "name": "Kolavallúr",
+    "country": "IN",
+    "lat": 11.7507,
+    "lng": 75.61988
+  },
+  {
+    "name": "Kokernag",
+    "country": "IN",
+    "lat": 33.57847,
+    "lng": 75.3181
+  },
+  {
+    "name": "Kondalampatti",
+    "country": "IN",
+    "lat": 11.63453,
+    "lng": 78.12369
+  },
+  {
+    "name": "Koolimuttam",
+    "country": "IN",
+    "lat": 10.28624,
+    "lng": 76.13564
+  },
+  {
+    "name": "Koothappar",
+    "country": "IN",
+    "lat": 10.79709,
+    "lng": 78.79231
+  },
+  {
+    "name": "Koovappady",
+    "country": "IN",
+    "lat": 10.15525,
+    "lng": 76.48544
+  },
+  {
+    "name": "Kondasamudram",
+    "country": "IN",
+    "lat": 12.94552,
+    "lng": 78.87878
+  },
+  {
+    "name": "Kodivalasa",
+    "country": "IN",
+    "lat": 13.25468,
+    "lng": 79.42487
+  },
+  {
+    "name": "Kottaikādu",
+    "country": "IN",
+    "lat": 12.25556,
+    "lng": 79.98226
+  },
+  {
+    "name": "Kodur",
+    "country": "IN",
+    "lat": 11.01528,
+    "lng": 76.07009
+  },
+  {
+    "name": "Kollivāyal",
+    "country": "IN",
+    "lat": 11.49984,
+    "lng": 76.48152
+  },
+  {
+    "name": "Kottapuram",
+    "country": "IN",
+    "lat": 10.68015,
+    "lng": 76.19389
+  },
+  {
+    "name": "Kottuvalli",
+    "country": "IN",
+    "lat": 10.11119,
+    "lng": 76.24634
+  },
+  {
+    "name": "Koratti",
+    "country": "IN",
+    "lat": 10.26597,
+    "lng": 76.34767
+  },
+  {
+    "name": "Kokōtamangalam South",
+    "country": "IN",
+    "lat": 9.67948,
+    "lng": 76.35889
+  },
+  {
+    "name": "Kottangara",
+    "country": "IN",
+    "lat": 8.92412,
+    "lng": 76.64673
+  },
+  {
+    "name": "Kovilpālaiyampūdur",
+    "country": "IN",
+    "lat": 11.5077,
+    "lng": 77.36292
+  },
+  {
+    "name": "Kolappalūr",
+    "country": "IN",
+    "lat": 11.37914,
+    "lng": 77.42927
+  },
+  {
+    "name": "Kovilpālaiyam",
+    "country": "IN",
+    "lat": 10.73838,
+    "lng": 77.03456
+  },
+  {
+    "name": "Kodikkulam",
+    "country": "IN",
+    "lat": 9.64931,
+    "lng": 77.58602
+  },
+  {
+    "name": "Kottāram",
+    "country": "IN",
+    "lat": 8.11877,
+    "lng": 77.52428
+  },
+  {
+    "name": "Kondūr",
+    "country": "IN",
+    "lat": 11.75398,
+    "lng": 79.70449
+  },
+  {
+    "name": "Kottaikuppam",
+    "country": "IN",
+    "lat": 11.96126,
+    "lng": 79.83923
+  },
+  {
+    "name": "Kottaikavundanpatti",
+    "country": "IN",
+    "lat": 11.71961,
+    "lng": 78.06851
+  },
+  {
+    "name": "Kondamanāyakkanpatti",
+    "country": "IN",
+    "lat": 11.71028,
+    "lng": 78.17705
+  },
+  {
+    "name": "Kondichettippatti",
+    "country": "IN",
+    "lat": 11.2007,
+    "lng": 78.16343
+  },
+  {
+    "name": "Koonimedu",
+    "country": "IN",
+    "lat": 12.08519,
+    "lng": 79.88925
+  },
+  {
+    "name": "Koyali",
+    "country": "IN",
+    "lat": 20.02945,
+    "lng": 76.49074
+  },
+  {
+    "name": "Kondamallapally",
+    "country": "IN",
+    "lat": 16.71782,
+    "lng": 79.00204
+  },
+  {
+    "name": "Kochpara",
+    "country": "IN",
+    "lat": 26.08902,
+    "lng": 91.5318
+  },
+  {
+    "name": "Koora",
+    "country": "IN",
+    "lat": 21.43241,
+    "lng": 81.66528
+  },
+  {
+    "name": "Kotla Mahigiran",
+    "country": "IN",
+    "lat": 28.53671,
+    "lng": 77.28066
+  },
+  {
+    "name": "Kopali",
+    "country": "IN",
+    "lat": 22.83718,
+    "lng": 86.19161
+  },
+  {
+    "name": "Kodiyal",
+    "country": "IN",
+    "lat": 14.51665,
+    "lng": 75.78963
+  },
+  {
+    "name": "Konaje",
+    "country": "IN",
+    "lat": 12.79696,
+    "lng": 75.5102
+  },
+  {
+    "name": "Kodannur",
+    "country": "IN",
+    "lat": 10.46647,
+    "lng": 76.1842
+  },
+  {
+    "name": "Kozhukkully",
+    "country": "IN",
+    "lat": 10.52091,
+    "lng": 76.27804
+  },
+  {
+    "name": "Kozhukkallur",
+    "country": "IN",
+    "lat": 11.5146,
+    "lng": 75.70807
+  },
+  {
+    "name": "Koduvayur",
+    "country": "IN",
+    "lat": 10.68674,
+    "lng": 76.65879
+  },
+  {
+    "name": "Kottappally",
+    "country": "IN",
+    "lat": 11.61266,
+    "lng": 75.66136
+  },
+  {
+    "name": "Kodamthuruth",
+    "country": "IN",
+    "lat": 9.80062,
+    "lng": 76.30153
+  },
+  {
+    "name": "Komalapuram",
+    "country": "IN",
+    "lat": 9.54189,
+    "lng": 76.34236
+  },
+  {
+    "name": "Kolar",
+    "country": "IN",
+    "lat": 23.16478,
+    "lng": 77.41893
+  },
+  {
+    "name": "Kolki",
+    "country": "IN",
+    "lat": 17.97923,
+    "lng": 74.44998
+  },
+  {
+    "name": "Korochi",
+    "country": "IN",
+    "lat": 16.71917,
+    "lng": 74.4451
+  },
+  {
+    "name": "Kodoli",
+    "country": "IN",
+    "lat": 17.67023,
+    "lng": 74.03469
+  },
+  {
+    "name": "Kolvi",
+    "country": "IN",
+    "lat": 23.94213,
+    "lng": 75.59856
+  },
+  {
+    "name": "Kollankoil",
+    "country": "IN",
+    "lat": 11.12815,
+    "lng": 77.74364
+  },
+  {
+    "name": "Kothanallur",
+    "country": "IN",
+    "lat": 8.27911,
+    "lng": 77.30958
+  },
+  {
+    "name": "Kollancode",
+    "country": "IN",
+    "lat": 8.28903,
+    "lng": 77.10799
+  },
+  {
+    "name": "Koysinceq",
+    "country": "IQ",
+    "lat": 36.08289,
+    "lng": 44.62873
+  },
+  {
+    "name": "Kord Kūy",
+    "country": "IR",
+    "lat": 36.79307,
+    "lng": 54.11214
+  },
+  {
+    "name": "Komījān",
+    "country": "IR",
+    "lat": 34.72142,
+    "lng": 49.32653
+  },
+  {
+    "name": "Konarak-e ‘Olyā",
+    "country": "IR",
+    "lat": 31.79905,
+    "lng": 51.14901
+  },
+  {
+    "name": "Konārak",
+    "country": "IR",
+    "lat": 25.3604,
+    "lng": 60.3995
+  },
+  {
+    "name": "Kozakai-chō",
+    "country": "JP",
+    "lat": 34.8,
+    "lng": 137.35889
+  },
+  {
+    "name": "Kotohira",
+    "country": "JP",
+    "lat": 34.18333,
+    "lng": 133.81667
+  },
+  {
+    "name": "Koshima",
+    "country": "JP",
+    "lat": 30.23461,
+    "lng": 130.53517
+  },
+  {
+    "name": "Koshigaya",
+    "country": "JP",
+    "lat": 35.89035,
+    "lng": 139.78916
+  },
+  {
+    "name": "Koseda",
+    "country": "JP",
+    "lat": 30.38796,
+    "lng": 130.64924
+  },
+  {
+    "name": "Konoha",
+    "country": "JP",
+    "lat": 32.91884,
+    "lng": 130.62716
+  },
+  {
+    "name": "Komoro",
+    "country": "JP",
+    "lat": 36.31667,
+    "lng": 138.43333
+  },
+  {
+    "name": "Komori",
+    "country": "JP",
+    "lat": 33.98333,
+    "lng": 135.78333
+  },
+  {
+    "name": "Komono",
+    "country": "JP",
+    "lat": 35.0,
+    "lng": 136.51667
+  },
+  {
+    "name": "Komatsushimachō",
+    "country": "JP",
+    "lat": 34.0,
+    "lng": 134.58333
+  },
+  {
+    "name": "Komatsu",
+    "country": "JP",
+    "lat": 36.40263,
+    "lng": 136.45088
+  },
+  {
+    "name": "Komaki",
+    "country": "JP",
+    "lat": 35.28333,
+    "lng": 136.91667
+  },
+  {
+    "name": "Komagome",
+    "country": "JP",
+    "lat": 35.73868,
+    "lng": 139.74065
+  },
+  {
+    "name": "Komaba",
+    "country": "JP",
+    "lat": 35.43333,
+    "lng": 137.73333
+  },
+  {
+    "name": "Kokubunji",
+    "country": "JP",
+    "lat": 35.70222,
+    "lng": 139.47556
+  },
+  {
+    "name": "Kokubu-matsuki",
+    "country": "JP",
+    "lat": 31.73333,
+    "lng": 130.76667
+  },
+  {
+    "name": "Koishiwara",
+    "country": "JP",
+    "lat": 33.47142,
+    "lng": 130.82962
+  },
+  {
+    "name": "Koga",
+    "country": "JP",
+    "lat": 36.18333,
+    "lng": 139.71667
+  },
+  {
+    "name": "Koga",
+    "country": "JP",
+    "lat": 33.73333,
+    "lng": 130.46667
+  },
+  {
+    "name": "Kofu",
+    "country": "JP",
+    "lat": 35.66667,
+    "lng": 138.56667
+  },
+  {
+    "name": "Kodamachō-kodamaminami",
+    "country": "JP",
+    "lat": 36.18497,
+    "lng": 139.13191
+  },
+  {
+    "name": "Kochi",
+    "country": "JP",
+    "lat": 33.55,
+    "lng": 133.53333
+  },
+  {
+    "name": "Kobe",
+    "country": "JP",
+    "lat": 34.6913,
+    "lng": 135.183
+  },
+  {
+    "name": "Kobayashi",
+    "country": "JP",
+    "lat": 31.98333,
+    "lng": 130.98333
+  },
+  {
+    "name": "Kobatake",
+    "country": "JP",
+    "lat": 34.70581,
+    "lng": 133.25035
+  },
+  {
+    "name": "Ko-bae",
+    "country": "JP",
+    "lat": 32.46667,
+    "lng": 131.38333
+  },
+  {
+    "name": "Kotsubaki",
+    "country": "JP",
+    "lat": 35.52556,
+    "lng": 139.05306
+  },
+  {
+    "name": "Koori",
+    "country": "JP",
+    "lat": 37.83333,
+    "lng": 140.51667
+  },
+  {
+    "name": "Komatsu",
+    "country": "JP",
+    "lat": 38.0025,
+    "lng": 140.04139
+  },
+  {
+    "name": "Kogota-ekimae",
+    "country": "JP",
+    "lat": 38.53333,
+    "lng": 141.06667
+  },
+  {
+    "name": "Kogota",
+    "country": "JP",
+    "lat": 38.55,
+    "lng": 141.05
+  },
+  {
+    "name": "Kozawa",
+    "country": "JP",
+    "lat": 42.97096,
+    "lng": 140.67921
+  },
+  {
+    "name": "Koshimizu",
+    "country": "JP",
+    "lat": 43.85895,
+    "lng": 144.46509
+  },
+  {
+    "name": "Kosaka",
+    "country": "JP",
+    "lat": 40.37899,
+    "lng": 140.73133
+  },
+  {
+    "name": "Komagane",
+    "country": "JP",
+    "lat": 35.71657,
+    "lng": 137.93745
+  },
+  {
+    "name": "Kosai",
+    "country": "JP",
+    "lat": 34.70053,
+    "lng": 137.52253
+  },
+  {
+    "name": "Koshi",
+    "country": "JP",
+    "lat": 36.90591,
+    "lng": 137.57129
+  },
+  {
+    "name": "Kotake",
+    "country": "JP",
+    "lat": 33.6911,
+    "lng": 130.71193
+  },
+  {
+    "name": "Koumibara",
+    "country": "JP",
+    "lat": 36.05572,
+    "lng": 138.47822
+  },
+  {
+    "name": "Kosawada",
+    "country": "JP",
+    "lat": 40.06449,
+    "lng": 140.29092
+  },
+  {
+    "name": "Koga",
+    "country": "JP",
+    "lat": 33.86429,
+    "lng": 130.68709
+  },
+  {
+    "name": "Kofu",
+    "country": "JP",
+    "lat": 35.69763,
+    "lng": 138.58819
+  },
+  {
+    "name": "Kosuge",
+    "country": "JP",
+    "lat": 35.75351,
+    "lng": 139.82163
+  },
+  {
+    "name": "Kotō",
+    "country": "JP",
+    "lat": 32.77856,
+    "lng": 130.74537
+  },
+  {
+    "name": "Kodaira",
+    "country": "JP",
+    "lat": 35.72603,
+    "lng": 139.48508
+  },
+  {
+    "name": "Konan",
+    "country": "JP",
+    "lat": 34.99921,
+    "lng": 136.09674
+  },
+  {
+    "name": "Koganei",
+    "country": "JP",
+    "lat": 35.70014,
+    "lng": 139.51109
+  },
+  {
+    "name": "Komae",
+    "country": "JP",
+    "lat": 35.63424,
+    "lng": 139.57546
+  },
+  {
+    "name": "Konza",
+    "country": "KE",
+    "lat": -1.73947,
+    "lng": 37.13195
+  },
+  {
+    "name": "Korgon",
+    "country": "KG",
+    "lat": 39.88899,
+    "lng": 69.93559
+  },
+  {
+    "name": "Kochkor",
+    "country": "KG",
+    "lat": 42.21552,
+    "lng": 75.75659
+  },
+  {
+    "name": "Kochkor-Ata",
+    "country": "KG",
+    "lat": 41.03709,
+    "lng": 72.4832
+  },
+  {
+    "name": "Koah Thum",
+    "country": "KH",
+    "lat": 11.12421,
+    "lng": 105.05722
+  },
+  {
+    "name": "Kou Loab",
+    "country": "KH",
+    "lat": 12.54091,
+    "lng": 106.06247
+  },
+  {
+    "name": "Koun Sat",
+    "country": "KH",
+    "lat": 10.60058,
+    "lng": 104.27964
+  },
+  {
+    "name": "Kong Noy",
+    "country": "KH",
+    "lat": 11.4394,
+    "lng": 104.8378
+  },
+  {
+    "name": "Kokor",
+    "country": "KH",
+    "lat": 11.94062,
+    "lng": 105.37199
+  },
+  {
+    "name": "Koas Krala",
+    "country": "KH",
+    "lat": 12.75588,
+    "lng": 103.25514
+  },
+  {
+    "name": "Koh Kong",
+    "country": "KH",
+    "lat": 11.61531,
+    "lng": 102.9838
+  },
+  {
+    "name": "Kouk Trab",
+    "country": "KH",
+    "lat": 11.4046,
+    "lng": 104.84607
+  },
+  {
+    "name": "Kouk Thlok",
+    "country": "KH",
+    "lat": 10.9033,
+    "lng": 105.03308
+  },
+  {
+    "name": "Koun Mom",
+    "country": "KH",
+    "lat": 13.57767,
+    "lng": 106.77289
+  },
+  {
+    "name": "Koni-Djodjo",
+    "country": "KM",
+    "lat": -12.22972,
+    "lng": 44.48167
+  },
+  {
+    "name": "Koni-Ngani",
+    "country": "KM",
+    "lat": -12.21583,
+    "lng": 44.48
+  },
+  {
+    "name": "Koki",
+    "country": "KM",
+    "lat": -12.17139,
+    "lng": 44.44167
+  },
+  {
+    "name": "Koimbani",
+    "country": "KM",
+    "lat": -11.62306,
+    "lng": 43.35667
+  },
+  {
+    "name": "Koua",
+    "country": "KM",
+    "lat": -11.40514,
+    "lng": 43.34713
+  },
+  {
+    "name": "Kowŏn-ŭp",
+    "country": "KP",
+    "lat": 39.43806,
+    "lng": 127.24306
+  },
+  {
+    "name": "Kosan",
+    "country": "KP",
+    "lat": 38.85583,
+    "lng": 127.41806
+  },
+  {
+    "name": "Koksan-ŭp",
+    "country": "KP",
+    "lat": 38.78194,
+    "lng": 126.66639
+  },
+  {
+    "name": "Kop’ung",
+    "country": "KP",
+    "lat": 40.60389,
+    "lng": 125.94667
+  },
+  {
+    "name": "Komusan Il-tong",
+    "country": "KP",
+    "lat": 42.11015,
+    "lng": 129.69919
+  },
+  {
+    "name": "Kogŏnwon",
+    "country": "KP",
+    "lat": 42.66309,
+    "lng": 130.20179
+  },
+  {
+    "name": "Kosong",
+    "country": "KR",
+    "lat": 38.37881,
+    "lng": 128.4676
+  },
+  {
+    "name": "Koesan",
+    "country": "KR",
+    "lat": 36.81083,
+    "lng": 127.79472
+  },
+  {
+    "name": "Koch'ang",
+    "country": "KR",
+    "lat": 35.43333,
+    "lng": 126.7
+  },
+  {
+    "name": "Kostanay",
+    "country": "KZ",
+    "lat": 53.21435,
+    "lng": 63.62463
+  },
+  {
+    "name": "Konayev",
+    "country": "KZ",
+    "lat": 43.86681,
+    "lng": 77.06304
+  },
+  {
+    "name": "Koshi",
+    "country": "KZ",
+    "lat": 50.97075,
+    "lng": 71.35311
+  },
+  {
+    "name": "Kokshetau",
+    "country": "KZ",
+    "lat": 53.28414,
+    "lng": 69.39364
+  },
+  {
+    "name": "Kokterek",
+    "country": "KZ",
+    "lat": 42.49442,
+    "lng": 70.25478
+  },
+  {
+    "name": "Koktal",
+    "country": "KZ",
+    "lat": 49.65,
+    "lng": 73.51667
+  },
+  {
+    "name": "Kokpekty",
+    "country": "KZ",
+    "lat": 48.75,
+    "lng": 82.4
+  },
+  {
+    "name": "Kokpekty",
+    "country": "KZ",
+    "lat": 48.7553,
+    "lng": 82.38617
+  },
+  {
+    "name": "Korday",
+    "country": "KZ",
+    "lat": 43.03882,
+    "lng": 74.71287
+  },
+  {
+    "name": "Koktobe",
+    "country": "KZ",
+    "lat": 51.52983,
+    "lng": 77.47146
+  },
+  {
+    "name": "Kotikawatta",
+    "country": "LK",
+    "lat": 6.9269,
+    "lng": 79.9095
+  },
+  {
+    "name": "Kolonnawa",
+    "country": "LK",
+    "lat": 6.9329,
+    "lng": 79.8848
+  },
+  {
+    "name": "Koggala",
+    "country": "LK",
+    "lat": 5.9886,
+    "lng": 80.3286
+  },
+  {
+    "name": "Kolonyama",
+    "country": "LS",
+    "lat": -29.06506,
+    "lng": 27.73308
+  },
+  {
+    "name": "Kolo",
+    "country": "LS",
+    "lat": -29.68884,
+    "lng": 27.68751
+  },
+  {
+    "name": "Kopstal",
+    "country": "LU",
+    "lat": 49.66444,
+    "lng": 6.07306
+  },
+  {
+    "name": "Koerich",
+    "country": "LU",
+    "lat": 49.67,
+    "lng": 5.95
+  },
+  {
+    "name": "Koknese",
+    "country": "LV",
+    "lat": 56.65163,
+    "lng": 25.43637
+  },
+  {
+    "name": "Kocēni",
+    "country": "LV",
+    "lat": 57.52057,
+    "lng": 25.33821
+  },
+  {
+    "name": "Korouna",
+    "country": "MA",
+    "lat": 35.11628,
+    "lng": -3.64215
+  },
+  {
+    "name": "Kotor",
+    "country": "ME",
+    "lat": 42.42067,
+    "lng": 18.76825
+  },
+  {
+    "name": "Kolašin",
+    "country": "ME",
+    "lat": 42.82229,
+    "lng": 19.51653
+  },
+  {
+    "name": "Kopoky",
+    "country": "MG",
+    "lat": -25.2,
+    "lng": 45.2
+  },
+  {
+    "name": "Kosel",
+    "country": "MK",
+    "lat": 41.17444,
+    "lng": 20.83556
+  },
+  {
+    "name": "Kondovo",
+    "country": "MK",
+    "lat": 42.01151,
+    "lng": 21.31427
+  },
+  {
+    "name": "Konče",
+    "country": "MK",
+    "lat": 41.49528,
+    "lng": 22.38547
+  },
+  {
+    "name": "Kochani",
+    "country": "MK",
+    "lat": 41.91639,
+    "lng": 22.41278
+  },
+  {
+    "name": "Koutiala",
+    "country": "ML",
+    "lat": 12.38723,
+    "lng": -5.46507
+  },
+  {
+    "name": "Kouri",
+    "country": "ML",
+    "lat": 12.18396,
+    "lng": -4.80284
+  },
+  {
+    "name": "Koulikoro",
+    "country": "ML",
+    "lat": 12.86273,
+    "lng": -7.55985
+  },
+  {
+    "name": "Koula",
+    "country": "ML",
+    "lat": 13.11382,
+    "lng": -7.65231
+  },
+  {
+    "name": "Koro",
+    "country": "ML",
+    "lat": 14.064,
+    "lng": -3.07539
+  },
+  {
+    "name": "Kolondiéba",
+    "country": "ML",
+    "lat": 11.08943,
+    "lng": -6.8929
+  },
+  {
+    "name": "Kolokani",
+    "country": "ML",
+    "lat": 13.5728,
+    "lng": -8.0339
+  },
+  {
+    "name": "Kokofata",
+    "country": "ML",
+    "lat": 12.88333,
+    "lng": -9.95
+  },
+  {
+    "name": "Kobenni",
+    "country": "MR",
+    "lat": 15.81722,
+    "lng": -9.36528
+  },
+  {
+    "name": "Kopomá",
+    "country": "MX",
+    "lat": 20.64906,
+    "lng": -89.89989
+  },
+  {
+    "name": "Komchén",
+    "country": "MX",
+    "lat": 21.10367,
+    "lng": -89.66149
+  },
+  {
+    "name": "Kochol",
+    "country": "MX",
+    "lat": 20.61867,
+    "lng": -90.15906
+  },
+  {
+    "name": "Kotolte",
+    "country": "MX",
+    "lat": 16.86444,
+    "lng": -92.46111
+  },
+  {
+    "name": "Kota Tinggi",
+    "country": "MY",
+    "lat": 1.7381,
+    "lng": 103.8999
+  },
+  {
+    "name": "Kota Kinabalu",
+    "country": "MY",
+    "lat": 5.9749,
+    "lng": 116.0724
+  },
+  {
+    "name": "Kodiang",
+    "country": "MY",
+    "lat": 6.39638,
+    "lng": 100.30755
+  },
+  {
+    "name": "Kota Bharu",
+    "country": "MY",
+    "lat": 6.12361,
+    "lng": 102.24333
+  },
+  {
+    "name": "Kota Belud",
+    "country": "MY",
+    "lat": 6.351,
+    "lng": 116.4305
+  },
+  {
+    "name": "Kobang",
+    "country": "MY",
+    "lat": 4.44188,
+    "lng": 118.69287
+  },
+  {
+    "name": "Kota Kuala Muda",
+    "country": "MY",
+    "lat": 5.58822,
+    "lng": 100.37085
+  },
+  {
+    "name": "Kota Damansara",
+    "country": "MY",
+    "lat": 3.15454,
+    "lng": 101.58022
+  },
+  {
+    "name": "Kota Sarang Samut",
+    "country": "MY",
+    "lat": 5.94554,
+    "lng": 100.36453
+  },
+  {
+    "name": "Kota Samarahan",
+    "country": "MY",
+    "lat": 1.46031,
+    "lng": 110.48821
+  },
+  {
+    "name": "Kota Warisan",
+    "country": "MY",
+    "lat": 2.82388,
+    "lng": 101.69365
+  },
+  {
+    "name": "Koës",
+    "country": "NA",
+    "lat": -25.93091,
+    "lng": 19.12814
+  },
+  {
+    "name": "Koumac",
+    "country": "NC",
+    "lat": -20.56667,
+    "lng": 164.28333
+  },
+  {
+    "name": "Koné",
+    "country": "NC",
+    "lat": -21.05951,
+    "lng": 164.86582
+  },
+  {
+    "name": "Kollo",
+    "country": "NE",
+    "lat": 13.3043,
+    "lng": 2.339
+  },
+  {
+    "name": "Koton-Karfe",
+    "country": "NG",
+    "lat": 8.08834,
+    "lng": 6.79876
+  },
+  {
+    "name": "Kosubosu",
+    "country": "NG",
+    "lat": 9.55107,
+    "lng": 3.22841
+  },
+  {
+    "name": "Kontagora",
+    "country": "NG",
+    "lat": 10.40319,
+    "lng": 5.4708
+  },
+  {
+    "name": "Konkwesso",
+    "country": "NG",
+    "lat": 10.84686,
+    "lng": 4.09835
+  },
+  {
+    "name": "Konduga",
+    "country": "NG",
+    "lat": 11.65331,
+    "lng": 13.41787
+  },
+  {
+    "name": "Koko",
+    "country": "NG",
+    "lat": 6.00084,
+    "lng": 5.45523
+  },
+  {
+    "name": "Koguna",
+    "country": "NG",
+    "lat": 12.38137,
+    "lng": 8.45733
+  },
+  {
+    "name": "Koudum",
+    "country": "NL",
+    "lat": 52.91551,
+    "lng": 5.44834
+  },
+  {
+    "name": "Koudekerke",
+    "country": "NL",
+    "lat": 51.48167,
+    "lng": 3.55417
+  },
+  {
+    "name": "Korvel",
+    "country": "NL",
+    "lat": 51.54954,
+    "lng": 5.07079
+  },
+  {
+    "name": "Kortenhoef",
+    "country": "NL",
+    "lat": 52.23917,
+    "lng": 5.10694
+  },
+  {
+    "name": "Korrewegwijk",
+    "country": "NL",
+    "lat": 53.23235,
+    "lng": 6.56804
+  },
+  {
+    "name": "Kootwijkerbroek",
+    "country": "NL",
+    "lat": 52.15083,
+    "lng": 5.66944
+  },
+  {
+    "name": "Kootstertille",
+    "country": "NL",
+    "lat": 53.21261,
+    "lng": 6.09209
+  },
+  {
+    "name": "Koningslust",
+    "country": "NL",
+    "lat": 51.3575,
+    "lng": 5.99306
+  },
+  {
+    "name": "Koningsbosch",
+    "country": "NL",
+    "lat": 51.05167,
+    "lng": 5.95833
+  },
+  {
+    "name": "Kollumersweach",
+    "country": "NL",
+    "lat": 53.26224,
+    "lng": 6.07544
+  },
+  {
+    "name": "Kollum",
+    "country": "NL",
+    "lat": 53.27695,
+    "lng": 6.15293
+  },
+  {
+    "name": "Koewacht",
+    "country": "NL",
+    "lat": 51.22833,
+    "lng": 3.97361
+  },
+  {
+    "name": "Koekange",
+    "country": "NL",
+    "lat": 52.69917,
+    "lng": 6.31667
+  },
+  {
+    "name": "Kop van Zuid",
+    "country": "NL",
+    "lat": 51.90553,
+    "lng": 4.48706
+  },
+  {
+    "name": "Korgen",
+    "country": "NO",
+    "lat": 66.07662,
+    "lng": 13.8216
+  },
+  {
+    "name": "Koppang",
+    "country": "NO",
+    "lat": 61.57219,
+    "lng": 11.04659
+  },
+  {
+    "name": "Kopervik",
+    "country": "NO",
+    "lat": 59.28354,
+    "lng": 5.30669
+  },
+  {
+    "name": "Kongsvinger",
+    "country": "NO",
+    "lat": 60.19049,
+    "lng": 11.99772
+  },
+  {
+    "name": "Kongsberg",
+    "country": "NO",
+    "lat": 59.66858,
+    "lng": 9.65017
+  },
+  {
+    "name": "Kolvereid",
+    "country": "NO",
+    "lat": 64.86549,
+    "lng": 11.60465
+  },
+  {
+    "name": "Kolbotn",
+    "country": "NO",
+    "lat": 59.81056,
+    "lng": 10.80389
+  },
+  {
+    "name": "Kodāri̇̄",
+    "country": "NP",
+    "lat": 27.96228,
+    "lng": 85.95167
+  },
+  {
+    "name": "Kopuaranga",
+    "country": "NZ",
+    "lat": -40.83333,
+    "lng": 175.66667
+  },
+  {
+    "name": "Konini",
+    "country": "NZ",
+    "lat": -36.9282,
+    "lng": 174.64019
+  },
+  {
+    "name": "Kohimarama",
+    "country": "NZ",
+    "lat": -36.8582,
+    "lng": 174.84019
+  },
+  {
+    "name": "Kokopo",
+    "country": "PG",
+    "lat": -4.3432,
+    "lng": 152.26867
+  },
+  {
+    "name": "Kokoda",
+    "country": "PG",
+    "lat": -8.87778,
+    "lng": 147.73642
+  },
+  {
+    "name": "Kolumbug",
+    "country": "PH",
+    "lat": 6.52389,
+    "lng": 124.60833
+  },
+  {
+    "name": "Koronadal",
+    "country": "PH",
+    "lat": 6.50306,
+    "lng": 124.84694
+  },
+  {
+    "name": "Koronadal",
+    "country": "PH",
+    "lat": 6.24501,
+    "lng": 124.98743
+  },
+  {
+    "name": "Kolape",
+    "country": "PH",
+    "lat": 5.07028,
+    "lng": 119.89694
+  },
+  {
+    "name": "Kolambugan",
+    "country": "PH",
+    "lat": 8.1144,
+    "lng": 123.8971
+  },
+  {
+    "name": "Kotkot",
+    "country": "PH",
+    "lat": 10.425,
+    "lng": 124.0005
+  },
+  {
+    "name": "Kot Sultan",
+    "country": "PK",
+    "lat": 30.7737,
+    "lng": 70.93125
+  },
+  {
+    "name": "Kot Samaba",
+    "country": "PK",
+    "lat": 28.55207,
+    "lng": 70.46837
+  },
+  {
+    "name": "Kotri",
+    "country": "PK",
+    "lat": 25.36566,
+    "lng": 68.30831
+  },
+  {
+    "name": "Kot Rajkour",
+    "country": "PK",
+    "lat": 32.41208,
+    "lng": 74.62855
+  },
+  {
+    "name": "Kot Radha Kishan",
+    "country": "PK",
+    "lat": 31.17068,
+    "lng": 74.10126
+  },
+  {
+    "name": "Kot Mumin",
+    "country": "PK",
+    "lat": 32.18843,
+    "lng": 73.02987
+  },
+  {
+    "name": "Kot Malik Barkhurdar",
+    "country": "PK",
+    "lat": 30.20379,
+    "lng": 66.98723
+  },
+  {
+    "name": "Kotli Loharan",
+    "country": "PK",
+    "lat": 32.58893,
+    "lng": 74.49466
+  },
+  {
+    "name": "Kotli",
+    "country": "PK",
+    "lat": 33.51836,
+    "lng": 73.9022
+  },
+  {
+    "name": "Kot Ghulam Muhammad",
+    "country": "PK",
+    "lat": 32.33311,
+    "lng": 74.54694
+  },
+  {
+    "name": "Kot Diji",
+    "country": "PK",
+    "lat": 27.34156,
+    "lng": 68.70821
+  },
+  {
+    "name": "Kot Addu",
+    "country": "PK",
+    "lat": 30.46907,
+    "lng": 70.96699
+  },
+  {
+    "name": "Kohlu",
+    "country": "PK",
+    "lat": 29.903,
+    "lng": 69.231
+  },
+  {
+    "name": "Kohat",
+    "country": "PK",
+    "lat": 33.58196,
+    "lng": 71.44929
+  },
+  {
+    "name": "Kozubszczyzna",
+    "country": "PL",
+    "lat": 51.22323,
+    "lng": 22.42747
+  },
+  {
+    "name": "Kozłowo",
+    "country": "PL",
+    "lat": 53.30652,
+    "lng": 20.29098
+  },
+  {
+    "name": "Kozłów",
+    "country": "PL",
+    "lat": 50.48394,
+    "lng": 20.02456
+  },
+  {
+    "name": "Kozienice",
+    "country": "PL",
+    "lat": 51.58294,
+    "lng": 21.54779
+  },
+  {
+    "name": "Kowiesy",
+    "country": "PL",
+    "lat": 51.88942,
+    "lng": 20.41929
+  },
+  {
+    "name": "Kowale Oleckie",
+    "country": "PL",
+    "lat": 54.16354,
+    "lng": 22.41666
+  },
+  {
+    "name": "Kowala",
+    "country": "PL",
+    "lat": 51.32503,
+    "lng": 21.06972
+  },
+  {
+    "name": "Kotuń",
+    "country": "PL",
+    "lat": 52.17643,
+    "lng": 22.06819
+  },
+  {
+    "name": "Koszyce",
+    "country": "PL",
+    "lat": 49.97226,
+    "lng": 20.94166
+  },
+  {
+    "name": "Kostomłoty Pierwsze",
+    "country": "PL",
+    "lat": 50.92322,
+    "lng": 20.5949
+  },
+  {
+    "name": "Kostomłoty Drugie",
+    "country": "PL",
+    "lat": 50.92684,
+    "lng": 20.56529
+  },
+  {
+    "name": "Kosów Lacki",
+    "country": "PL",
+    "lat": 52.59541,
+    "lng": 22.14707
+  },
+  {
+    "name": "Kosina",
+    "country": "PL",
+    "lat": 50.07213,
+    "lng": 22.32903
+  },
+  {
+    "name": "Korzenna",
+    "country": "PL",
+    "lat": 49.68635,
+    "lng": 20.84355
+  },
+  {
+    "name": "Korytnica",
+    "country": "PL",
+    "lat": 52.41441,
+    "lng": 21.84949
+  },
+  {
+    "name": "Kortowo",
+    "country": "PL",
+    "lat": 53.75731,
+    "lng": 20.4562
+  },
+  {
+    "name": "Korsze",
+    "country": "PL",
+    "lat": 54.17002,
+    "lng": 21.13915
+  },
+  {
+    "name": "Korczyna",
+    "country": "PL",
+    "lat": 49.71555,
+    "lng": 21.80941
+  },
+  {
+    "name": "Korczew",
+    "country": "PL",
+    "lat": 52.35327,
+    "lng": 22.61338
+  },
+  {
+    "name": "Koprzywnica",
+    "country": "PL",
+    "lat": 50.5934,
+    "lng": 21.5838
+  },
+  {
+    "name": "Konstantynów",
+    "country": "PL",
+    "lat": 52.20746,
+    "lng": 23.0853
+  },
+  {
+    "name": "Konstancin-Jeziorna",
+    "country": "PL",
+    "lat": 52.0938,
+    "lng": 21.11761
+  },
+  {
+    "name": "Końskowola",
+    "country": "PL",
+    "lat": 51.40922,
+    "lng": 22.05175
+  },
+  {
+    "name": "Końskie",
+    "country": "PL",
+    "lat": 51.19166,
+    "lng": 20.40607
+  },
+  {
+    "name": "Konieczkowa",
+    "country": "PL",
+    "lat": 49.84208,
+    "lng": 21.9282
+  },
+  {
+    "name": "Kończyce",
+    "country": "PL",
+    "lat": 50.42575,
+    "lng": 22.15376
+  },
+  {
+    "name": "Komorów",
+    "country": "PL",
+    "lat": 52.1456,
+    "lng": 20.81566
+  },
+  {
+    "name": "Komarówka Podlaska",
+    "country": "PL",
+    "lat": 51.80315,
+    "lng": 22.94392
+  },
+  {
+    "name": "Komarów-Osada",
+    "country": "PL",
+    "lat": 50.62888,
+    "lng": 23.4774
+  },
+  {
+    "name": "Komańcza",
+    "country": "PL",
+    "lat": 49.33922,
+    "lng": 22.06166
+  },
+  {
+    "name": "Kolonia Opacz",
+    "country": "PL",
+    "lat": 52.1792,
+    "lng": 20.90097
+  },
+  {
+    "name": "Kolno",
+    "country": "PL",
+    "lat": 53.41148,
+    "lng": 21.92905
+  },
+  {
+    "name": "Kolbuszowa",
+    "country": "PL",
+    "lat": 50.2441,
+    "lng": 21.7761
+  },
+  {
+    "name": "Kołbiel",
+    "country": "PL",
+    "lat": 52.06431,
+    "lng": 21.48153
+  },
+  {
+    "name": "Kołaczyce",
+    "country": "PL",
+    "lat": 49.80743,
+    "lng": 21.43407
+  },
+  {
+    "name": "Kokotów",
+    "country": "PL",
+    "lat": 50.01254,
+    "lng": 20.07829
+  },
+  {
+    "name": "Kodeń",
+    "country": "PL",
+    "lat": 51.91171,
+    "lng": 23.60301
+  },
+  {
+    "name": "Kock",
+    "country": "PL",
+    "lat": 51.63997,
+    "lng": 22.44391
+  },
+  {
+    "name": "Kobyłka",
+    "country": "PL",
+    "lat": 52.33953,
+    "lng": 21.19589
+  },
+  {
+    "name": "Kobylanka",
+    "country": "PL",
+    "lat": 49.66891,
+    "lng": 21.22293
+  },
+  {
+    "name": "Kołaczkowo",
+    "country": "PL",
+    "lat": 52.21739,
+    "lng": 17.62413
+  },
+  {
+    "name": "Kozy",
+    "country": "PL",
+    "lat": 49.84756,
+    "lng": 19.14891
+  },
+  {
+    "name": "Kożuchów",
+    "country": "PL",
+    "lat": 51.74558,
+    "lng": 15.59492
+  },
+  {
+    "name": "Koźminek",
+    "country": "PL",
+    "lat": 51.79874,
+    "lng": 18.33893
+  },
+  {
+    "name": "Koźmin Wielkopolski",
+    "country": "PL",
+    "lat": 51.82712,
+    "lng": 17.45391
+  },
+  {
+    "name": "Koźle",
+    "country": "PL",
+    "lat": 50.3356,
+    "lng": 18.14332
+  },
+  {
+    "name": "Kozielice",
+    "country": "PL",
+    "lat": 53.10679,
+    "lng": 14.82237
+  },
+  {
+    "name": "Koziegłowy",
+    "country": "PL",
+    "lat": 50.60035,
+    "lng": 19.16299
+  },
+  {
+    "name": "Kowary",
+    "country": "PL",
+    "lat": 50.79313,
+    "lng": 15.83559
+  },
+  {
+    "name": "Kowalewo Pomorskie",
+    "country": "PL",
+    "lat": 53.15432,
+    "lng": 18.89868
+  },
+  {
+    "name": "Kowale",
+    "country": "PL",
+    "lat": 54.30976,
+    "lng": 18.56149
+  },
+  {
+    "name": "Kowal",
+    "country": "PL",
+    "lat": 52.53019,
+    "lng": 19.14767
+  },
+  {
+    "name": "Kotlin",
+    "country": "PL",
+    "lat": 51.91913,
+    "lng": 17.64825
+  },
+  {
+    "name": "Kotla",
+    "country": "PL",
+    "lat": 51.74542,
+    "lng": 16.03575
+  },
+  {
+    "name": "Koszarawa",
+    "country": "PL",
+    "lat": 49.64462,
+    "lng": 19.40083
+  },
+  {
+    "name": "Koszalin",
+    "country": "PL",
+    "lat": 54.19438,
+    "lng": 16.17222
+  },
+  {
+    "name": "Kostrzyn nad Odrą",
+    "country": "PL",
+    "lat": 52.58713,
+    "lng": 14.64953
+  },
+  {
+    "name": "Kostrzyn",
+    "country": "PL",
+    "lat": 52.39847,
+    "lng": 17.22811
+  },
+  {
+    "name": "Koszęcin",
+    "country": "PL",
+    "lat": 50.63411,
+    "lng": 18.8413
+  },
+  {
+    "name": "Kościerzyna",
+    "country": "PL",
+    "lat": 54.12226,
+    "lng": 17.98119
+  },
+  {
+    "name": "Kościelisko",
+    "country": "PL",
+    "lat": 49.29073,
+    "lng": 19.88929
+  },
+  {
+    "name": "Kościelec",
+    "country": "PL",
+    "lat": 52.17425,
+    "lng": 18.57067
+  },
+  {
+    "name": "Kościelec",
+    "country": "PL",
+    "lat": 50.89713,
+    "lng": 19.2156
+  },
+  {
+    "name": "Kościan",
+    "country": "PL",
+    "lat": 52.08829,
+    "lng": 16.64866
+  },
+  {
+    "name": "Kosakowo",
+    "country": "PL",
+    "lat": 54.58927,
+    "lng": 18.48484
+  },
+  {
+    "name": "Koronowo",
+    "country": "PL",
+    "lat": 53.3137,
+    "lng": 17.93698
+  },
+  {
+    "name": "Kornowac",
+    "country": "PL",
+    "lat": 50.07179,
+    "lng": 18.32846
+  },
+  {
+    "name": "Korfantów",
+    "country": "PL",
+    "lat": 50.48894,
+    "lng": 17.59898
+  },
+  {
+    "name": "Korbielów",
+    "country": "PL",
+    "lat": 49.5682,
+    "lng": 19.35001
+  },
+  {
+    "name": "Konstantynów Łódzki",
+    "country": "PL",
+    "lat": 51.74776,
+    "lng": 19.32564
+  },
+  {
+    "name": "Konotop",
+    "country": "PL",
+    "lat": 51.93157,
+    "lng": 15.90391
+  },
+  {
+    "name": "Konopiska",
+    "country": "PL",
+    "lat": 50.72695,
+    "lng": 19.00781
+  },
+  {
+    "name": "Konin",
+    "country": "PL",
+    "lat": 52.22338,
+    "lng": 18.25121
+  },
+  {
+    "name": "Koniecpol",
+    "country": "PL",
+    "lat": 50.77468,
+    "lng": 19.68896
+  },
+  {
+    "name": "Koniaków",
+    "country": "PL",
+    "lat": 49.55066,
+    "lng": 18.9491
+  },
+  {
+    "name": "Kończyce Wielkie",
+    "country": "PL",
+    "lat": 49.8351,
+    "lng": 18.64474
+  },
+  {
+    "name": "Kończyce Małe",
+    "country": "PL",
+    "lat": 49.85824,
+    "lng": 18.62964
+  },
+  {
+    "name": "Konary",
+    "country": "PL",
+    "lat": 51.6569,
+    "lng": 17.04185
+  },
+  {
+    "name": "Komprachcice",
+    "country": "PL",
+    "lat": 50.63678,
+    "lng": 17.82635
+  },
+  {
+    "name": "Komorniki",
+    "country": "PL",
+    "lat": 52.3387,
+    "lng": 16.81063
+  },
+  {
+    "name": "Koluszki",
+    "country": "PL",
+    "lat": 51.73872,
+    "lng": 19.81994
+  },
+  {
+    "name": "Kolsko",
+    "country": "PL",
+    "lat": 51.96146,
+    "lng": 15.95987
+  },
+  {
+    "name": "Kolonowskie",
+    "country": "PL",
+    "lat": 50.65338,
+    "lng": 18.38493
+  },
+  {
+    "name": "Kołobrzeg",
+    "country": "PL",
+    "lat": 54.17565,
+    "lng": 15.58342
+  },
+  {
+    "name": "Koło",
+    "country": "PL",
+    "lat": 52.20024,
+    "lng": 18.63865
+  },
+  {
+    "name": "Koleczkowo",
+    "country": "PL",
+    "lat": 54.48629,
+    "lng": 18.34373
+  },
+  {
+    "name": "Kołczygłowy",
+    "country": "PL",
+    "lat": 54.23895,
+    "lng": 17.23154
+  },
+  {
+    "name": "Kolbudy",
+    "country": "PL",
+    "lat": 54.26989,
+    "lng": 18.46639
+  },
+  {
+    "name": "Kołbaskowo",
+    "country": "PL",
+    "lat": 53.33641,
+    "lng": 14.43835
+  },
+  {
+    "name": "Kokoszki",
+    "country": "PL",
+    "lat": 54.35563,
+    "lng": 18.49102
+  },
+  {
+    "name": "Koczała",
+    "country": "PL",
+    "lat": 53.90449,
+    "lng": 17.06529
+  },
+  {
+    "name": "Kochanowice",
+    "country": "PL",
+    "lat": 50.70548,
+    "lng": 18.74911
+  },
+  {
+    "name": "Kobylnica",
+    "country": "PL",
+    "lat": 54.43975,
+    "lng": 16.99782
+  },
+  {
+    "name": "Kobylnica",
+    "country": "PL",
+    "lat": 52.44597,
+    "lng": 17.07644
+  },
+  {
+    "name": "Kobylin",
+    "country": "PL",
+    "lat": 51.71645,
+    "lng": 17.22682
+  },
+  {
+    "name": "Kobylanka",
+    "country": "PL",
+    "lat": 53.34492,
+    "lng": 14.87143
+  },
+  {
+    "name": "Kobyla Góra",
+    "country": "PL",
+    "lat": 51.37923,
+    "lng": 17.83811
+  },
+  {
+    "name": "Kobiór",
+    "country": "PL",
+    "lat": 50.06089,
+    "lng": 18.93468
+  },
+  {
+    "name": "Kobierzyce",
+    "country": "PL",
+    "lat": 50.97054,
+    "lng": 16.93508
+  },
+  {
+    "name": "Kobiernice",
+    "country": "PL",
+    "lat": 49.85497,
+    "lng": 19.21646
+  },
+  {
+    "name": "Koszyce Wielkie",
+    "country": "PL",
+    "lat": 49.98076,
+    "lng": 20.94552
+  },
+  {
+    "name": "Kocierzew Południowy",
+    "country": "PL",
+    "lat": 52.21728,
+    "lng": 20.01812
+  },
+  {
+    "name": "Kozanów",
+    "country": "PL",
+    "lat": 51.14447,
+    "lng": 16.96937
+  },
+  {
+    "name": "Kowale-Popiele",
+    "country": "PL",
+    "lat": 51.1309,
+    "lng": 17.10175
+  },
+  {
+    "name": "Kokhav Ya‘aqov",
+    "country": "PS",
+    "lat": 31.88102,
+    "lng": 35.24384
+  },
+  {
+    "name": "Koror",
+    "country": "PW",
+    "lat": 7.33978,
+    "lng": 134.47326
+  },
+  {
+    "name": "Koror Town",
+    "country": "PW",
+    "lat": 7.34257,
+    "lng": 134.47888
+  },
+  {
+    "name": "Kozjak",
+    "country": "RS",
+    "lat": 45.18264,
+    "lng": 20.86381
+  },
+  {
+    "name": "Kovin",
+    "country": "RS",
+    "lat": 44.7475,
+    "lng": 20.97611
+  },
+  {
+    "name": "Kovilj",
+    "country": "RS",
+    "lat": 45.23422,
+    "lng": 20.02327
+  },
+  {
+    "name": "Kovačica",
+    "country": "RS",
+    "lat": 45.11167,
+    "lng": 20.62139
+  },
+  {
+    "name": "Konak",
+    "country": "RS",
+    "lat": 45.31575,
+    "lng": 20.91468
+  },
+  {
+    "name": "Kozjak",
+    "country": "RS",
+    "lat": 44.58727,
+    "lng": 19.28412
+  },
+  {
+    "name": "Kosjerić",
+    "country": "RS",
+    "lat": 43.99611,
+    "lng": 19.90694
+  },
+  {
+    "name": "Kolut",
+    "country": "RS",
+    "lat": 45.89292,
+    "lng": 18.9276
+  },
+  {
+    "name": "Koceljeva",
+    "country": "RS",
+    "lat": 44.47361,
+    "lng": 19.81167
+  },
+  {
+    "name": "Kosterevo",
+    "country": "RU",
+    "lat": 55.9299,
+    "lng": 39.61438
+  },
+  {
+    "name": "Kotlovka",
+    "country": "RU",
+    "lat": 55.65928,
+    "lng": 37.60404
+  },
+  {
+    "name": "Komendantsky aerodrom",
+    "country": "RU",
+    "lat": 60.00448,
+    "lng": 30.27523
+  },
+  {
+    "name": "Koz’modem’yansk",
+    "country": "RU",
+    "lat": 56.33209,
+    "lng": 46.5606
+  },
+  {
+    "name": "Kozlovo",
+    "country": "RU",
+    "lat": 56.50977,
+    "lng": 36.27326
+  },
+  {
+    "name": "Kozlovka",
+    "country": "RU",
+    "lat": 55.84284,
+    "lng": 48.2492
+  },
+  {
+    "name": "Kozlovka",
+    "country": "RU",
+    "lat": 50.86222,
+    "lng": 40.4519
+  },
+  {
+    "name": "Kozhva",
+    "country": "RU",
+    "lat": 65.10727,
+    "lng": 57.0459
+  },
+  {
+    "name": "Kozhukhovo",
+    "country": "RU",
+    "lat": 55.7,
+    "lng": 37.66667
+  },
+  {
+    "name": "Kozeyevo",
+    "country": "RU",
+    "lat": 55.86667,
+    "lng": 37.61667
+  },
+  {
+    "name": "Kozel’sk",
+    "country": "RU",
+    "lat": 54.0366,
+    "lng": 35.77088
+  },
+  {
+    "name": "Koygorodok",
+    "country": "RU",
+    "lat": 60.44379,
+    "lng": 51.00342
+  },
+  {
+    "name": "Kovylkino",
+    "country": "RU",
+    "lat": 54.0372,
+    "lng": 43.91871
+  },
+  {
+    "name": "Kovrov",
+    "country": "RU",
+    "lat": 56.35752,
+    "lng": 41.31893
+  },
+  {
+    "name": "Kovernino",
+    "country": "RU",
+    "lat": 57.128,
+    "lng": 43.81462
+  },
+  {
+    "name": "Kovdor",
+    "country": "RU",
+    "lat": 67.56627,
+    "lng": 30.47765
+  },
+  {
+    "name": "Kotovsk",
+    "country": "RU",
+    "lat": 52.59047,
+    "lng": 41.50251
+  },
+  {
+    "name": "Kotovo",
+    "country": "RU",
+    "lat": 50.31567,
+    "lng": 44.81002
+  },
+  {
+    "name": "Kotlyarevskaya",
+    "country": "RU",
+    "lat": 43.57344,
+    "lng": 44.06134
+  },
+  {
+    "name": "Kotlas",
+    "country": "RU",
+    "lat": 61.25663,
+    "lng": 46.6537
+  },
+  {
+    "name": "Kotel’nikovo",
+    "country": "RU",
+    "lat": 47.63012,
+    "lng": 43.14158
+  },
+  {
+    "name": "Kotel’niki",
+    "country": "RU",
+    "lat": 55.65384,
+    "lng": 37.86234
+  },
+  {
+    "name": "Kotel’nich",
+    "country": "RU",
+    "lat": 58.30348,
+    "lng": 48.33745
+  },
+  {
+    "name": "Kostrovo",
+    "country": "RU",
+    "lat": 55.89429,
+    "lng": 36.69491
+  },
+  {
+    "name": "Kostroma",
+    "country": "RU",
+    "lat": 57.76638,
+    "lng": 40.92828
+  },
+  {
+    "name": "Kostomuksha",
+    "country": "RU",
+    "lat": 64.571,
+    "lng": 30.57667
+  },
+  {
+    "name": "Kostino",
+    "country": "RU",
+    "lat": 58.90966,
+    "lng": 53.26907
+  },
+  {
+    "name": "Kostino",
+    "country": "RU",
+    "lat": 56.03333,
+    "lng": 37.91667
+  },
+  {
+    "name": "Kostek",
+    "country": "RU",
+    "lat": 43.34387,
+    "lng": 46.85411
+  },
+  {
+    "name": "Kosmynino",
+    "country": "RU",
+    "lat": 57.58183,
+    "lng": 40.76434
+  },
+  {
+    "name": "Koslan",
+    "country": "RU",
+    "lat": 63.45954,
+    "lng": 48.89695
+  },
+  {
+    "name": "Kosino",
+    "country": "RU",
+    "lat": 58.41272,
+    "lng": 51.27819
+  },
+  {
+    "name": "Koshki",
+    "country": "RU",
+    "lat": 54.20851,
+    "lng": 50.46698
+  },
+  {
+    "name": "Koshekhabl’",
+    "country": "RU",
+    "lat": 44.90007,
+    "lng": 40.50326
+  },
+  {
+    "name": "Kosaya Gora",
+    "country": "RU",
+    "lat": 54.11896,
+    "lng": 37.54459
+  },
+  {
+    "name": "Kosa",
+    "country": "RU",
+    "lat": 59.94538,
+    "lng": 54.99189
+  },
+  {
+    "name": "Korzhovka-Golubovka",
+    "country": "RU",
+    "lat": 52.76742,
+    "lng": 32.35362
+  },
+  {
+    "name": "Korzhevskiy",
+    "country": "RU",
+    "lat": 45.19414,
+    "lng": 37.71949
+  },
+  {
+    "name": "Koryazhma",
+    "country": "RU",
+    "lat": 61.31242,
+    "lng": 47.14829
+  },
+  {
+    "name": "Kortkeros",
+    "country": "RU",
+    "lat": 61.81329,
+    "lng": 51.57714
+  },
+  {
+    "name": "Korsakovo",
+    "country": "RU",
+    "lat": 53.26764,
+    "lng": 37.35807
+  },
+  {
+    "name": "Korotoyak",
+    "country": "RU",
+    "lat": 50.98665,
+    "lng": 39.17677
+  },
+  {
+    "name": "Korocha",
+    "country": "RU",
+    "lat": 50.81087,
+    "lng": 37.19607
+  },
+  {
+    "name": "Korobitsyno",
+    "country": "RU",
+    "lat": 60.51523,
+    "lng": 29.72437
+  },
+  {
+    "name": "Kormëzhka",
+    "country": "RU",
+    "lat": 51.9005,
+    "lng": 48.0163
+  },
+  {
+    "name": "Korenovsk",
+    "country": "RU",
+    "lat": 45.46723,
+    "lng": 39.44923
+  },
+  {
+    "name": "Korenëvo",
+    "country": "RU",
+    "lat": 55.67194,
+    "lng": 38.00778
+  },
+  {
+    "name": "Korenevo",
+    "country": "RU",
+    "lat": 51.41065,
+    "lng": 34.90008
+  },
+  {
+    "name": "Korablino",
+    "country": "RU",
+    "lat": 53.92666,
+    "lng": 40.02365
+  },
+  {
+    "name": "Koptëvo",
+    "country": "RU",
+    "lat": 55.833,
+    "lng": 37.522
+  },
+  {
+    "name": "Kopor’ye",
+    "country": "RU",
+    "lat": 59.70633,
+    "lng": 29.042
+  },
+  {
+    "name": "Kopanskaya",
+    "country": "RU",
+    "lat": 46.27866,
+    "lng": 38.47985
+  },
+  {
+    "name": "Konyshëvka",
+    "country": "RU",
+    "lat": 51.8418,
+    "lng": 35.2941
+  },
+  {
+    "name": "Konstantinovskoye",
+    "country": "RU",
+    "lat": 45.29917,
+    "lng": 42.63667
+  },
+  {
+    "name": "Konstantinovskiy",
+    "country": "RU",
+    "lat": 57.83005,
+    "lng": 39.58989
+  },
+  {
+    "name": "Konstantinovskaya",
+    "country": "RU",
+    "lat": 44.83528,
+    "lng": 40.72694
+  },
+  {
+    "name": "Konstantinovskaya",
+    "country": "RU",
+    "lat": 44.04556,
+    "lng": 43.15833
+  },
+  {
+    "name": "Konstantinovsk",
+    "country": "RU",
+    "lat": 47.58113,
+    "lng": 41.0934
+  },
+  {
+    "name": "Konstantinovo",
+    "country": "RU",
+    "lat": 56.55,
+    "lng": 38.03333
+  },
+  {
+    "name": "Konosha",
+    "country": "RU",
+    "lat": 60.97306,
+    "lng": 40.26322
+  },
+  {
+    "name": "Konokovo",
+    "country": "RU",
+    "lat": 44.8616,
+    "lng": 41.3266
+  },
+  {
+    "name": "Konobeyevo",
+    "country": "RU",
+    "lat": 55.40776,
+    "lng": 38.66261
+  },
+  {
+    "name": "Konëvo",
+    "country": "RU",
+    "lat": 62.11745,
+    "lng": 39.33131
+  },
+  {
+    "name": "Kondrovo",
+    "country": "RU",
+    "lat": 54.8059,
+    "lng": 35.93067
+  },
+  {
+    "name": "Kondopoga",
+    "country": "RU",
+    "lat": 62.20406,
+    "lng": 34.26932
+  },
+  {
+    "name": "Kondol’",
+    "country": "RU",
+    "lat": 52.81889,
+    "lng": 45.05798
+  },
+  {
+    "name": "Konakovo",
+    "country": "RU",
+    "lat": 56.70153,
+    "lng": 36.77305
+  },
+  {
+    "name": "Komsomol'skoye",
+    "country": "RU",
+    "lat": 55.25667,
+    "lng": 47.54608
+  },
+  {
+    "name": "Komsomol’skiy",
+    "country": "RU",
+    "lat": 54.44522,
+    "lng": 45.83136
+  },
+  {
+    "name": "Komsomol’skiy",
+    "country": "RU",
+    "lat": 45.32944,
+    "lng": 46.04211
+  },
+  {
+    "name": "Komsomol’skiy",
+    "country": "RU",
+    "lat": 43.97833,
+    "lng": 46.69852
+  },
+  {
+    "name": "Komsomol’sk",
+    "country": "RU",
+    "lat": 57.02944,
+    "lng": 40.37566
+  },
+  {
+    "name": "Komsomolets",
+    "country": "RU",
+    "lat": 52.7686,
+    "lng": 41.28683
+  },
+  {
+    "name": "Komsomolets",
+    "country": "RU",
+    "lat": 44.01972,
+    "lng": 43.56972
+  },
+  {
+    "name": "Kommunarka",
+    "country": "RU",
+    "lat": 55.56952,
+    "lng": 37.48932
+  },
+  {
+    "name": "Kommunar",
+    "country": "RU",
+    "lat": 59.62056,
+    "lng": 30.39
+  },
+  {
+    "name": "Kommunar",
+    "country": "RU",
+    "lat": 56.11222,
+    "lng": 40.44666
+  },
+  {
+    "name": "Komarovo",
+    "country": "RU",
+    "lat": 60.1866,
+    "lng": 29.80865
+  },
+  {
+    "name": "Komarovskiy",
+    "country": "RU",
+    "lat": 51.02422,
+    "lng": 59.83154
+  },
+  {
+    "name": "Komarikhinskiy",
+    "country": "RU",
+    "lat": 58.0979,
+    "lng": 57.1163
+  },
+  {
+    "name": "Komarichi",
+    "country": "RU",
+    "lat": 52.42086,
+    "lng": 34.79758
+  },
+  {
+    "name": "Kolyubakino",
+    "country": "RU",
+    "lat": 55.668,
+    "lng": 36.53234
+  },
+  {
+    "name": "Kolyshley",
+    "country": "RU",
+    "lat": 52.7005,
+    "lng": 44.5367
+  },
+  {
+    "name": "Koltushi",
+    "country": "RU",
+    "lat": 59.92969,
+    "lng": 30.64465
+  },
+  {
+    "name": "Koltubanovskiy",
+    "country": "RU",
+    "lat": 52.9407,
+    "lng": 52.0269
+  },
+  {
+    "name": "Kolpna",
+    "country": "RU",
+    "lat": 52.2226,
+    "lng": 37.03096
+  },
+  {
+    "name": "Kolpino",
+    "country": "RU",
+    "lat": 59.75069,
+    "lng": 30.58856
+  },
+  {
+    "name": "Kolomyagi",
+    "country": "RU",
+    "lat": 60.02427,
+    "lng": 30.28491
+  },
+  {
+    "name": "Kolomna",
+    "country": "RU",
+    "lat": 55.07108,
+    "lng": 38.78399
+  },
+  {
+    "name": "Kolomenskoye",
+    "country": "RU",
+    "lat": 55.66667,
+    "lng": 37.68333
+  },
+  {
+    "name": "Kologriv",
+    "country": "RU",
+    "lat": 58.82667,
+    "lng": 44.31831
+  },
+  {
+    "name": "Kolodeznyy",
+    "country": "RU",
+    "lat": 51.33333,
+    "lng": 39.18333
+  },
+  {
+    "name": "Kolobovo",
+    "country": "RU",
+    "lat": 56.70199,
+    "lng": 41.34173
+  },
+  {
+    "name": "Kol’chugino",
+    "country": "RU",
+    "lat": 56.3045,
+    "lng": 39.37656
+  },
+  {
+    "name": "Kolchanovo",
+    "country": "RU",
+    "lat": 60.01647,
+    "lng": 32.58837
+  },
+  {
+    "name": "Kola",
+    "country": "RU",
+    "lat": 68.88138,
+    "lng": 33.01769
+  },
+  {
+    "name": "Koksovyy",
+    "country": "RU",
+    "lat": 48.19742,
+    "lng": 40.64325
+  },
+  {
+    "name": "Kokoshkino",
+    "country": "RU",
+    "lat": 55.59769,
+    "lng": 37.1695
+  },
+  {
+    "name": "Kokorevka",
+    "country": "RU",
+    "lat": 52.58747,
+    "lng": 34.27603
+  },
+  {
+    "name": "Kokino",
+    "country": "RU",
+    "lat": 52.49756,
+    "lng": 34.77943
+  },
+  {
+    "name": "Kokhma",
+    "country": "RU",
+    "lat": 56.9321,
+    "lng": 41.0947
+  },
+  {
+    "name": "Kodino",
+    "country": "RU",
+    "lat": 63.71976,
+    "lng": 39.64465
+  },
+  {
+    "name": "Kochkurovo",
+    "country": "RU",
+    "lat": 54.03805,
+    "lng": 45.43502
+  },
+  {
+    "name": "Kochëvo",
+    "country": "RU",
+    "lat": 59.60035,
+    "lng": 54.31501
+  },
+  {
+    "name": "Kobrinskoye",
+    "country": "RU",
+    "lat": 59.4225,
+    "lng": 30.12389
+  },
+  {
+    "name": "Korolev",
+    "country": "RU",
+    "lat": 55.91417,
+    "lng": 37.82556
+  },
+  {
+    "name": "Kokrek",
+    "country": "RU",
+    "lat": 43.23639,
+    "lng": 46.72665
+  },
+  {
+    "name": "Kontenko",
+    "country": "RU",
+    "lat": 45.35806,
+    "lng": 36.83222
+  },
+  {
+    "name": "Kovalevskoye",
+    "country": "RU",
+    "lat": 45.19417,
+    "lng": 40.97611
+  },
+  {
+    "name": "Korkmaskala",
+    "country": "RU",
+    "lat": 43.02469,
+    "lng": 47.29044
+  },
+  {
+    "name": "Kondratovo",
+    "country": "RU",
+    "lat": 57.9804,
+    "lng": 56.1066
+  },
+  {
+    "name": "Kochubeyevskoye",
+    "country": "RU",
+    "lat": 44.64417,
+    "lng": 41.84528
+  },
+  {
+    "name": "Kochubey",
+    "country": "RU",
+    "lat": 44.38611,
+    "lng": 46.5825
+  },
+  {
+    "name": "Kozul’ka",
+    "country": "RU",
+    "lat": 56.16485,
+    "lng": 91.39125
+  },
+  {
+    "name": "Kozhevnikovo",
+    "country": "RU",
+    "lat": 56.2618,
+    "lng": 83.96787
+  },
+  {
+    "name": "Koyelga",
+    "country": "RU",
+    "lat": 54.65224,
+    "lng": 60.9049
+  },
+  {
+    "name": "Kosikha",
+    "country": "RU",
+    "lat": 53.36231,
+    "lng": 84.58151
+  },
+  {
+    "name": "Koshurnikovo",
+    "country": "RU",
+    "lat": 54.16667,
+    "lng": 93.3
+  },
+  {
+    "name": "Kosh-Agach",
+    "country": "RU",
+    "lat": 49.99273,
+    "lng": 88.67598
+  },
+  {
+    "name": "Kormilovka",
+    "country": "RU",
+    "lat": 55.00264,
+    "lng": 74.10281
+  },
+  {
+    "name": "Korkino",
+    "country": "RU",
+    "lat": 54.89151,
+    "lng": 61.39201
+  },
+  {
+    "name": "Kop’yëvo",
+    "country": "RU",
+    "lat": 54.99264,
+    "lng": 89.82292
+  },
+  {
+    "name": "Kopeysk",
+    "country": "RU",
+    "lat": 55.11686,
+    "lng": 61.61807
+  },
+  {
+    "name": "Kondinskoye",
+    "country": "RU",
+    "lat": 59.64806,
+    "lng": 67.41
+  },
+  {
+    "name": "Kommunisticheskiy",
+    "country": "RU",
+    "lat": 61.67889,
+    "lng": 64.48194
+  },
+  {
+    "name": "Kommunar",
+    "country": "RU",
+    "lat": 54.34835,
+    "lng": 89.28297
+  },
+  {
+    "name": "Kolyvan’",
+    "country": "RU",
+    "lat": 55.30891,
+    "lng": 82.74196
+  },
+  {
+    "name": "Kol’tsovo",
+    "country": "RU",
+    "lat": 54.94204,
+    "lng": 83.19192
+  },
+  {
+    "name": "Kolpashevo",
+    "country": "RU",
+    "lat": 58.32007,
+    "lng": 82.90295
+  },
+  {
+    "name": "Kolosovka",
+    "country": "RU",
+    "lat": 56.46893,
+    "lng": 73.61677
+  },
+  {
+    "name": "Kodinsk",
+    "country": "RU",
+    "lat": 58.60629,
+    "lng": 99.17398
+  },
+  {
+    "name": "Kochki",
+    "country": "RU",
+    "lat": 54.33208,
+    "lng": 80.49338
+  },
+  {
+    "name": "Kochenëvo",
+    "country": "RU",
+    "lat": 55.01356,
+    "lng": 82.20783
+  },
+  {
+    "name": "Kotik",
+    "country": "RU",
+    "lat": 54.65057,
+    "lng": 100.45395
+  },
+  {
+    "name": "Korfovskiy",
+    "country": "RU",
+    "lat": 48.22211,
+    "lng": 135.0712
+  },
+  {
+    "name": "Konstantinovka",
+    "country": "RU",
+    "lat": 49.62038,
+    "lng": 127.99038
+  },
+  {
+    "name": "Komsomolsk-on-Amur",
+    "country": "RU",
+    "lat": 50.55034,
+    "lng": 137.00995
+  },
+  {
+    "name": "Kokuy",
+    "country": "RU",
+    "lat": 52.20818,
+    "lng": 117.55341
+  },
+  {
+    "name": "Kozyrevsk",
+    "country": "RU",
+    "lat": 56.0486,
+    "lng": 159.8715
+  },
+  {
+    "name": "Korsakov",
+    "country": "RU",
+    "lat": 46.63528,
+    "lng": 142.77583
+  },
+  {
+    "name": "Kogalym",
+    "country": "RU",
+    "lat": 62.26537,
+    "lng": 74.47906
+  },
+  {
+    "name": "Korotchaevo",
+    "country": "RU",
+    "lat": 65.91028,
+    "lng": 78.20917
+  },
+  {
+    "name": "Kora",
+    "country": "RW",
+    "lat": -1.6101,
+    "lng": 29.445
+  },
+  {
+    "name": "Kola'a",
+    "country": "SB",
+    "lat": -9.44112,
+    "lng": 159.97002
+  },
+  {
+    "name": "Kosti",
+    "country": "SD",
+    "lat": 13.1629,
+    "lng": 32.66347
+  },
+  {
+    "name": "Kopparmora",
+    "country": "SE",
+    "lat": 59.33306,
+    "lng": 18.58306
+  },
+  {
+    "name": "Kopparberg",
+    "country": "SE",
+    "lat": 59.87597,
+    "lng": 14.99436
+  },
+  {
+    "name": "Kolsva",
+    "country": "SE",
+    "lat": 59.6,
+    "lng": 15.83333
+  },
+  {
+    "name": "Kolbäck",
+    "country": "SE",
+    "lat": 59.56516,
+    "lng": 16.23037
+  },
+  {
+    "name": "Kode",
+    "country": "SE",
+    "lat": 57.94263,
+    "lng": 11.85051
+  },
+  {
+    "name": "Kozje",
+    "country": "SI",
+    "lat": 46.07333,
+    "lng": 15.55989
+  },
+  {
+    "name": "Kotlje",
+    "country": "SI",
+    "lat": 46.52139,
+    "lng": 14.98694
+  },
+  {
+    "name": "Kostanjevica na Krki",
+    "country": "SI",
+    "lat": 45.8456,
+    "lng": 15.42036
+  },
+  {
+    "name": "Koper",
+    "country": "SI",
+    "lat": 45.5482,
+    "lng": 13.72963
+  },
+  {
+    "name": "Komen",
+    "country": "SI",
+    "lat": 45.81559,
+    "lng": 13.74827
+  },
+  {
+    "name": "Kokrica",
+    "country": "SI",
+    "lat": 46.27028,
+    "lng": 14.36111
+  },
+  {
+    "name": "Kočevje",
+    "country": "SI",
+    "lat": 45.64323,
+    "lng": 14.86036
+  },
+  {
+    "name": "Kobilje",
+    "country": "SI",
+    "lat": 46.68519,
+    "lng": 16.39371
+  },
+  {
+    "name": "Kobarid",
+    "country": "SI",
+    "lat": 46.24761,
+    "lng": 13.57907
+  },
+  {
+    "name": "Koroška Bela",
+    "country": "SI",
+    "lat": 46.44913,
+    "lng": 14.11135
+  },
+  {
+    "name": "Komenda",
+    "country": "SI",
+    "lat": 46.20484,
+    "lng": 14.53839
+  },
+  {
+    "name": "Kostel",
+    "country": "SI",
+    "lat": 45.5084,
+    "lng": 14.9092
+  },
+  {
+    "name": "Košice",
+    "country": "SK",
+    "lat": 48.71441,
+    "lng": 21.25802
+  },
+  {
+    "name": "Kováčová",
+    "country": "SK",
+    "lat": 48.60148,
+    "lng": 19.10252
+  },
+  {
+    "name": "Kostolné Kračany",
+    "country": "SK",
+    "lat": 47.98258,
+    "lng": 17.57607
+  },
+  {
+    "name": "Koš",
+    "country": "SK",
+    "lat": 48.74142,
+    "lng": 18.58611
+  },
+  {
+    "name": "Kopčany",
+    "country": "SK",
+    "lat": 48.78718,
+    "lng": 17.11347
+  },
+  {
+    "name": "Komjatná",
+    "country": "SK",
+    "lat": 49.14694,
+    "lng": 19.24355
+  },
+  {
+    "name": "Komjatice",
+    "country": "SK",
+    "lat": 48.15704,
+    "lng": 18.17027
+  },
+  {
+    "name": "Komárno",
+    "country": "SK",
+    "lat": 48.11667,
+    "lng": 18.31667
+  },
+  {
+    "name": "Komárno",
+    "country": "SK",
+    "lat": 47.76356,
+    "lng": 18.12263
+  },
+  {
+    "name": "Kolta",
+    "country": "SK",
+    "lat": 48.01742,
+    "lng": 18.41244
+  },
+  {
+    "name": "Kolíňany",
+    "country": "SK",
+    "lat": 48.36059,
+    "lng": 18.19693
+  },
+  {
+    "name": "Kolárovo",
+    "country": "SK",
+    "lat": 47.92294,
+    "lng": 17.98467
+  },
+  {
+    "name": "Kostolište",
+    "country": "SK",
+    "lat": 48.45,
+    "lng": 16.98333
+  },
+  {
+    "name": "Koyima",
+    "country": "SL",
+    "lat": 8.70552,
+    "lng": -11.02241
+  },
+  {
+    "name": "Koribundu",
+    "country": "SL",
+    "lat": 7.70952,
+    "lng": -11.69354
+  },
+  {
+    "name": "Koidu",
+    "country": "SL",
+    "lat": 8.64387,
+    "lng": -10.9714
+  },
+  {
+    "name": "Konakridee",
+    "country": "SL",
+    "lat": 8.69778,
+    "lng": -13.23917
+  },
+  {
+    "name": "Kounkané",
+    "country": "SN",
+    "lat": 12.93333,
+    "lng": -14.08333
+  },
+  {
+    "name": "Koungneul Sossé",
+    "country": "SN",
+    "lat": 13.96667,
+    "lng": -14.81667
+  },
+  {
+    "name": "Koungheul",
+    "country": "SN",
+    "lat": 13.98333,
+    "lng": -14.8
+  },
+  {
+    "name": "Koumpentoum",
+    "country": "SN",
+    "lat": 13.98333,
+    "lng": -14.56667
+  },
+  {
+    "name": "Kotiari",
+    "country": "SN",
+    "lat": 13.9,
+    "lng": -13.45
+  },
+  {
+    "name": "Kolda",
+    "country": "SN",
+    "lat": 12.8939,
+    "lng": -14.94125
+  },
+  {
+    "name": "Kodok",
+    "country": "SS",
+    "lat": 9.88889,
+    "lng": 32.10944
+  },
+  {
+    "name": "Koolbaai",
+    "country": "SX",
+    "lat": 18.04048,
+    "lng": -63.08397
+  },
+  {
+    "name": "Koumra",
+    "country": "TD",
+    "lat": 8.91587,
+    "lng": 17.55046
+  },
+  {
+    "name": "Kouniohou",
+    "country": "TG",
+    "lat": 7.66667,
+    "lng": 0.8
+  },
+  {
+    "name": "Ko Yao",
+    "country": "TH",
+    "lat": 8.11013,
+    "lng": 98.59231
+  },
+  {
+    "name": "Kong Ra",
+    "country": "TH",
+    "lat": 7.40272,
+    "lng": 99.94972
+  },
+  {
+    "name": "Kong Krailat",
+    "country": "TH",
+    "lat": 16.95197,
+    "lng": 99.97769
+  },
+  {
+    "name": "Ko Lanta",
+    "country": "TH",
+    "lat": 7.53362,
+    "lng": 99.08647
+  },
+  {
+    "name": "Ko Kha",
+    "country": "TH",
+    "lat": 18.19225,
+    "lng": 99.39433
+  },
+  {
+    "name": "Ko Samui",
+    "country": "TH",
+    "lat": 9.53567,
+    "lng": 99.93567
+  },
+  {
+    "name": "Ko Pha Ngan",
+    "country": "TH",
+    "lat": 9.71945,
+    "lng": 99.99511
+  },
+  {
+    "name": "Kosum Phisai",
+    "country": "TH",
+    "lat": 16.24858,
+    "lng": 103.06739
+  },
+  {
+    "name": "Ko Si Chang",
+    "country": "TH",
+    "lat": 13.16389,
+    "lng": 100.80547
+  },
+  {
+    "name": "Ko Pha Ngan",
+    "country": "TH",
+    "lat": 9.75778,
+    "lng": 100.02914
+  },
+  {
+    "name": "Koh Tao",
+    "country": "TH",
+    "lat": 10.09808,
+    "lng": 99.83809
+  },
+  {
+    "name": "Ko Chang Tai",
+    "country": "TH",
+    "lat": 12.00171,
+    "lng": 102.37267
+  },
+  {
+    "name": "Kosamphi Nakhon",
+    "country": "TH",
+    "lat": 16.63131,
+    "lng": 99.34975
+  },
+  {
+    "name": "Ko Chan",
+    "country": "TH",
+    "lat": 13.41658,
+    "lng": 101.33458
+  },
+  {
+    "name": "Ko Kut",
+    "country": "TH",
+    "lat": 11.65856,
+    "lng": 102.54197
+  },
+  {
+    "name": "Ko Chang",
+    "country": "TH",
+    "lat": 12.10445,
+    "lng": 102.35239
+  },
+  {
+    "name": "Kolkhozobod",
+    "country": "TJ",
+    "lat": 37.58823,
+    "lng": 68.65886
+  },
+  {
+    "name": "Konsoy",
+    "country": "TJ",
+    "lat": 40.49155,
+    "lng": 69.70245
+  },
+  {
+    "name": "Konibodom",
+    "country": "TJ",
+    "lat": 40.29414,
+    "lng": 70.43122
+  },
+  {
+    "name": "Kommunizm",
+    "country": "TM",
+    "lat": 37.61185,
+    "lng": 61.92482
+  },
+  {
+    "name": "Koytendag",
+    "country": "TM",
+    "lat": 37.509,
+    "lng": 66.01358
+  },
+  {
+    "name": "Korbous",
+    "country": "TN",
+    "lat": 36.81668,
+    "lng": 10.56865
+  },
+  {
+    "name": "Korba",
+    "country": "TN",
+    "lat": 36.57861,
+    "lng": 10.85861
+  },
+  {
+    "name": "Kondhar",
+    "country": "TN",
+    "lat": 35.93265,
+    "lng": 10.30234
+  },
+  {
+    "name": "Kolonga",
+    "country": "TO",
+    "lat": -21.13333,
+    "lng": -175.06667
+  },
+  {
+    "name": "Kozak",
+    "country": "TR",
+    "lat": 39.25124,
+    "lng": 27.09021
+  },
+  {
+    "name": "Kozluca",
+    "country": "TR",
+    "lat": 37.49278,
+    "lng": 30.13278
+  },
+  {
+    "name": "Kozluk",
+    "country": "TR",
+    "lat": 38.19118,
+    "lng": 41.47775
+  },
+  {
+    "name": "Kozan",
+    "country": "TR",
+    "lat": 37.45517,
+    "lng": 35.81573
+  },
+  {
+    "name": "Kozaklı",
+    "country": "TR",
+    "lat": 39.22139,
+    "lng": 34.85056
+  },
+  {
+    "name": "Kozağacı",
+    "country": "TR",
+    "lat": 36.95111,
+    "lng": 29.91944
+  },
+  {
+    "name": "Kovanlık",
+    "country": "TR",
+    "lat": 37.14222,
+    "lng": 30.58472
+  },
+  {
+    "name": "Kovancılar",
+    "country": "TR",
+    "lat": 38.71882,
+    "lng": 39.86268
+  },
+  {
+    "name": "Kovalı",
+    "country": "TR",
+    "lat": 37.19123,
+    "lng": 40.25394
+  },
+  {
+    "name": "Korucu",
+    "country": "TR",
+    "lat": 39.47028,
+    "lng": 27.36528
+  },
+  {
+    "name": "Korkuteli",
+    "country": "TR",
+    "lat": 37.06498,
+    "lng": 30.19565
+  },
+  {
+    "name": "Korkut",
+    "country": "TR",
+    "lat": 38.7339,
+    "lng": 41.78396
+  },
+  {
+    "name": "Konyaaltı",
+    "country": "TR",
+    "lat": 36.86644,
+    "lng": 30.63031
+  },
+  {
+    "name": "Konya",
+    "country": "TR",
+    "lat": 37.87135,
+    "lng": 32.48464
+  },
+  {
+    "name": "Konalga",
+    "country": "TR",
+    "lat": 37.87214,
+    "lng": 43.05122
+  },
+  {
+    "name": "Konakpınar",
+    "country": "TR",
+    "lat": 39.43389,
+    "lng": 27.83623
+  },
+  {
+    "name": "Konakpınar",
+    "country": "TR",
+    "lat": 38.90583,
+    "lng": 37.29694
+  },
+  {
+    "name": "Konaklı",
+    "country": "TR",
+    "lat": 38.11278,
+    "lng": 27.99611
+  },
+  {
+    "name": "Konaklı",
+    "country": "TR",
+    "lat": 36.59251,
+    "lng": 31.89539
+  },
+  {
+    "name": "Koçören",
+    "country": "TR",
+    "lat": 36.17977,
+    "lng": 36.09575
+  },
+  {
+    "name": "Kocatepe",
+    "country": "TR",
+    "lat": 37.22922,
+    "lng": 40.16104
+  },
+  {
+    "name": "Kocatepe",
+    "country": "TR",
+    "lat": 37.04176,
+    "lng": 37.69212
+  },
+  {
+    "name": "Koçarlı",
+    "country": "TR",
+    "lat": 37.76113,
+    "lng": 27.70583
+  },
+  {
+    "name": "Kocapınar",
+    "country": "TR",
+    "lat": 39.09553,
+    "lng": 43.19616
+  },
+  {
+    "name": "Koçali",
+    "country": "TR",
+    "lat": 37.92306,
+    "lng": 38.25788
+  },
+  {
+    "name": "Kocaköy",
+    "country": "TR",
+    "lat": 38.28889,
+    "lng": 40.49786
+  },
+  {
+    "name": "Kocakoç",
+    "country": "TR",
+    "lat": 39.11664,
+    "lng": 39.65931
+  },
+  {
+    "name": "Kocahasanlı",
+    "country": "TR",
+    "lat": 36.58417,
+    "lng": 34.27359
+  },
+  {
+    "name": "Kocaaliler",
+    "country": "TR",
+    "lat": 37.31694,
+    "lng": 30.74
+  },
+  {
+    "name": "Kocasinan",
+    "country": "TR",
+    "lat": 38.77147,
+    "lng": 35.5725
+  },
+  {
+    "name": "Koyunluca",
+    "country": "TR",
+    "lat": 36.82278,
+    "lng": 39.34333
+  },
+  {
+    "name": "Kozlu",
+    "country": "TR",
+    "lat": 41.43194,
+    "lng": 31.74583
+  },
+  {
+    "name": "Kozlu",
+    "country": "TR",
+    "lat": 40.60878,
+    "lng": 36.47858
+  },
+  {
+    "name": "Kozcağız",
+    "country": "TR",
+    "lat": 41.48333,
+    "lng": 32.33333
+  },
+  {
+    "name": "Koyulhisar",
+    "country": "TR",
+    "lat": 40.30184,
+    "lng": 37.82336
+  },
+  {
+    "name": "Kovanlık",
+    "country": "TR",
+    "lat": 40.75484,
+    "lng": 38.11155
+  },
+  {
+    "name": "Koruköy",
+    "country": "TR",
+    "lat": 40.65435,
+    "lng": 29.16289
+  },
+  {
+    "name": "Korgun",
+    "country": "TR",
+    "lat": 40.73479,
+    "lng": 33.51844
+  },
+  {
+    "name": "Korgan",
+    "country": "TR",
+    "lat": 40.82472,
+    "lng": 37.34667
+  },
+  {
+    "name": "Konursu",
+    "country": "TR",
+    "lat": 40.39397,
+    "lng": 40.25443
+  },
+  {
+    "name": "Konuralp",
+    "country": "TR",
+    "lat": 40.90538,
+    "lng": 31.14568
+  },
+  {
+    "name": "Kolay",
+    "country": "TR",
+    "lat": 41.41824,
+    "lng": 35.80136
+  },
+  {
+    "name": "Kofçaz",
+    "country": "TR",
+    "lat": 41.94481,
+    "lng": 27.15829
+  },
+  {
+    "name": "Kocadere",
+    "country": "TR",
+    "lat": 40.63,
+    "lng": 29.03
+  },
+  {
+    "name": "Kocaali",
+    "country": "TR",
+    "lat": 41.05336,
+    "lng": 30.85278
+  },
+  {
+    "name": "Koramanlar",
+    "country": "TR",
+    "lat": 41.41367,
+    "lng": 32.1915
+  },
+  {
+    "name": "Kovanlı",
+    "country": "TR",
+    "lat": 37.21876,
+    "lng": 40.34089
+  },
+  {
+    "name": "Konuklu",
+    "country": "TR",
+    "lat": 37.12632,
+    "lng": 38.84858
+  },
+  {
+    "name": "Konacık",
+    "country": "TR",
+    "lat": 37.04487,
+    "lng": 27.40994
+  },
+  {
+    "name": "Korogwe",
+    "country": "TZ",
+    "lat": -5.15,
+    "lng": 38.48333
+  },
+  {
+    "name": "Kongwa",
+    "country": "TZ",
+    "lat": -6.2,
+    "lng": 36.41667
+  },
+  {
+    "name": "Kondoa",
+    "country": "TZ",
+    "lat": -4.9,
+    "lng": 35.78333
+  },
+  {
+    "name": "Konde",
+    "country": "TZ",
+    "lat": -4.95,
+    "lng": 39.75
+  },
+  {
+    "name": "Koani Ndogo",
+    "country": "TZ",
+    "lat": -6.13333,
+    "lng": 39.28333
+  },
+  {
+    "name": "Koani",
+    "country": "TZ",
+    "lat": -6.13333,
+    "lng": 39.28333
+  },
+  {
+    "name": "Kovyl’noye",
+    "country": "UA",
+    "lat": 45.69028,
+    "lng": 33.52775
+  },
+  {
+    "name": "Kopani",
+    "country": "UA",
+    "lat": 47.75964,
+    "lng": 38.33758
+  },
+  {
+    "name": "Koktebel",
+    "country": "UA",
+    "lat": 44.96462,
+    "lng": 35.24767
+  },
+  {
+    "name": "Kobzartsi",
+    "country": "UA",
+    "lat": 47.14387,
+    "lng": 32.76649
+  },
+  {
+    "name": "Koshulyany",
+    "country": "UA",
+    "lat": 48.24767,
+    "lng": 26.55766
+  },
+  {
+    "name": "Kozyrka",
+    "country": "UA",
+    "lat": 46.81038,
+    "lng": 31.88014
+  },
+  {
+    "name": "Kozova",
+    "country": "UA",
+    "lat": 49.43206,
+    "lng": 25.14547
+  },
+  {
+    "name": "Kozliv",
+    "country": "UA",
+    "lat": 49.55445,
+    "lng": 25.34566
+  },
+  {
+    "name": "Kozhanka",
+    "country": "UA",
+    "lat": 49.97231,
+    "lng": 29.76424
+  },
+  {
+    "name": "Kozelshchyna",
+    "country": "UA",
+    "lat": 49.21731,
+    "lng": 33.84888
+  },
+  {
+    "name": "Kozelets",
+    "country": "UA",
+    "lat": 50.91334,
+    "lng": 31.1214
+  },
+  {
+    "name": "Kozyryany",
+    "country": "UA",
+    "lat": 48.36774,
+    "lng": 26.64639
+  },
+  {
+    "name": "Kovel",
+    "country": "UA",
+    "lat": 51.21526,
+    "lng": 24.70867
+  },
+  {
+    "name": "Kovalivka",
+    "country": "UA",
+    "lat": 49.61119,
+    "lng": 34.70838
+  },
+  {
+    "name": "Kovalivka",
+    "country": "UA",
+    "lat": 47.26759,
+    "lng": 31.73563
+  },
+  {
+    "name": "Kotsiubynske",
+    "country": "UA",
+    "lat": 50.48836,
+    "lng": 30.32957
+  },
+  {
+    "name": "Kotlyareve",
+    "country": "UA",
+    "lat": 46.88586,
+    "lng": 32.21949
+  },
+  {
+    "name": "Kotlovyna",
+    "country": "UA",
+    "lat": 45.50692,
+    "lng": 28.57438
+  },
+  {
+    "name": "Kotelva",
+    "country": "UA",
+    "lat": 50.06849,
+    "lng": 34.74697
+  },
+  {
+    "name": "Kotel’nikovo",
+    "country": "UA",
+    "lat": 45.36584,
+    "lng": 34.02575
+  },
+  {
+    "name": "Koteleve",
+    "country": "UA",
+    "lat": 48.2835,
+    "lng": 26.35822
+  },
+  {
+    "name": "Kostyantynivka",
+    "country": "UA",
+    "lat": 47.83063,
+    "lng": 31.15155
+  },
+  {
+    "name": "Kostryzhivka",
+    "country": "UA",
+    "lat": 48.65456,
+    "lng": 25.70916
+  },
+  {
+    "name": "Kostopil",
+    "country": "UA",
+    "lat": 50.87841,
+    "lng": 26.45192
+  },
+  {
+    "name": "Kostyntsi",
+    "country": "UA",
+    "lat": 48.28046,
+    "lng": 25.6356
+  },
+  {
+    "name": "Kosiv",
+    "country": "UA",
+    "lat": 48.32051,
+    "lng": 25.09109
+  },
+  {
+    "name": "Kosmach",
+    "country": "UA",
+    "lat": 48.75,
+    "lng": 24.37014
+  },
+  {
+    "name": "Kosmach",
+    "country": "UA",
+    "lat": 48.33356,
+    "lng": 24.81845
+  },
+  {
+    "name": "Koson",
+    "country": "UA",
+    "lat": 48.25482,
+    "lng": 22.45896
+  },
+  {
+    "name": "Koshmanivka",
+    "country": "UA",
+    "lat": 49.52814,
+    "lng": 34.9811
+  },
+  {
+    "name": "Koriukivka",
+    "country": "UA",
+    "lat": 51.76877,
+    "lng": 32.24813
+  },
+  {
+    "name": "Korytne",
+    "country": "UA",
+    "lat": 48.33463,
+    "lng": 25.38912
+  },
+  {
+    "name": "Korsuntsi",
+    "country": "UA",
+    "lat": 46.59081,
+    "lng": 30.76486
+  },
+  {
+    "name": "Korsun-Shevchenkivskyy",
+    "country": "UA",
+    "lat": 49.41822,
+    "lng": 31.25174
+  },
+  {
+    "name": "Koroviia",
+    "country": "UA",
+    "lat": 48.22405,
+    "lng": 25.97186
+  },
+  {
+    "name": "Korotych",
+    "country": "UA",
+    "lat": 49.94737,
+    "lng": 36.03736
+  },
+  {
+    "name": "Korostyshiv",
+    "country": "UA",
+    "lat": 50.31723,
+    "lng": 29.0563
+  },
+  {
+    "name": "Korosten",
+    "country": "UA",
+    "lat": 50.95937,
+    "lng": 28.63855
+  },
+  {
+    "name": "Koropets",
+    "country": "UA",
+    "lat": 48.93245,
+    "lng": 25.17768
+  },
+  {
+    "name": "Korop",
+    "country": "UA",
+    "lat": 51.56638,
+    "lng": 32.95861
+  },
+  {
+    "name": "Korolevo",
+    "country": "UA",
+    "lat": 48.15731,
+    "lng": 23.13769
+  },
+  {
+    "name": "Kornyn",
+    "country": "UA",
+    "lat": 50.0953,
+    "lng": 29.53581
+  },
+  {
+    "name": "Korniyivka",
+    "country": "UA",
+    "lat": 50.41661,
+    "lng": 31.46261
+  },
+  {
+    "name": "Kormovoye",
+    "country": "UA",
+    "lat": 45.50001,
+    "lng": 33.61192
+  },
+  {
+    "name": "Korets",
+    "country": "UA",
+    "lat": 50.61655,
+    "lng": 27.16055
+  },
+  {
+    "name": "Koreiz",
+    "country": "UA",
+    "lat": 44.43149,
+    "lng": 34.08404
+  },
+  {
+    "name": "Korchivtsi",
+    "country": "UA",
+    "lat": 48.01143,
+    "lng": 25.77249
+  },
+  {
+    "name": "Kopychyntsi",
+    "country": "UA",
+    "lat": 49.103,
+    "lng": 25.91164
+  },
+  {
+    "name": "Kopaihorod",
+    "country": "UA",
+    "lat": 48.85367,
+    "lng": 27.80178
+  },
+  {
+    "name": "Kostiantynivka",
+    "country": "UA",
+    "lat": 48.52728,
+    "lng": 37.70594
+  },
+  {
+    "name": "Kostiantynivka",
+    "country": "UA",
+    "lat": 46.81778,
+    "lng": 35.42424
+  },
+  {
+    "name": "Konotop",
+    "country": "UA",
+    "lat": 51.24032,
+    "lng": 33.20263
+  },
+  {
+    "name": "Konoplyane",
+    "country": "UA",
+    "lat": 47.04619,
+    "lng": 30.47812
+  },
+  {
+    "name": "Kondratyevo",
+    "country": "UA",
+    "lat": 45.63125,
+    "lng": 34.47387
+  },
+  {
+    "name": "Kompaniyivka",
+    "country": "UA",
+    "lat": 48.25022,
+    "lng": 32.20138
+  },
+  {
+    "name": "Komarivtsi",
+    "country": "UA",
+    "lat": 48.19862,
+    "lng": 25.57956
+  },
+  {
+    "name": "Komariv",
+    "country": "UA",
+    "lat": 48.56125,
+    "lng": 26.9887
+  },
+  {
+    "name": "Komarno",
+    "country": "UA",
+    "lat": 49.62785,
+    "lng": 23.69866
+  },
+  {
+    "name": "Komar",
+    "country": "UA",
+    "lat": 47.97684,
+    "lng": 36.74986
+  },
+  {
+    "name": "Kol’tsovo",
+    "country": "UA",
+    "lat": 45.32807,
+    "lng": 33.44992
+  },
+  {
+    "name": "Koloski",
+    "country": "UA",
+    "lat": 45.26936,
+    "lng": 33.29386
+  },
+  {
+    "name": "Koloniya Zastav’ye",
+    "country": "UA",
+    "lat": 50.81667,
+    "lng": 27.03333
+  },
+  {
+    "name": "Kolomyia",
+    "country": "UA",
+    "lat": 48.52496,
+    "lng": 25.03712
+  },
+  {
+    "name": "Kolomak",
+    "country": "UA",
+    "lat": 49.84083,
+    "lng": 35.30238
+  },
+  {
+    "name": "Kolodeznoye",
+    "country": "UA",
+    "lat": 45.22682,
+    "lng": 34.33698
+  },
+  {
+    "name": "Kolodenka",
+    "country": "UA",
+    "lat": 50.58561,
+    "lng": 26.31601
+  },
+  {
+    "name": "Kolochava",
+    "country": "UA",
+    "lat": 48.42685,
+    "lng": 23.69769
+  },
+  {
+    "name": "Kolinkivtsy",
+    "country": "UA",
+    "lat": 48.41254,
+    "lng": 26.12462
+  },
+  {
+    "name": "Kol’chugino",
+    "country": "UA",
+    "lat": 44.94367,
+    "lng": 33.78865
+  },
+  {
+    "name": "Kolchyno",
+    "country": "UA",
+    "lat": 48.46936,
+    "lng": 22.75784
+  },
+  {
+    "name": "Kodyma",
+    "country": "UA",
+    "lat": 48.10306,
+    "lng": 29.12598
+  },
+  {
+    "name": "Kodra",
+    "country": "UA",
+    "lat": 50.59488,
+    "lng": 29.55873
+  },
+  {
+    "name": "Kochetok",
+    "country": "UA",
+    "lat": 49.88005,
+    "lng": 36.73723
+  },
+  {
+    "name": "Kobyzhcha",
+    "country": "UA",
+    "lat": 50.82854,
+    "lng": 31.50439
+  },
+  {
+    "name": "Kobyletska Polyana",
+    "country": "UA",
+    "lat": 48.06085,
+    "lng": 24.0719
+  },
+  {
+    "name": "Kobolchyn",
+    "country": "UA",
+    "lat": 48.50163,
+    "lng": 27.3686
+  },
+  {
+    "name": "Kobleve",
+    "country": "UA",
+    "lat": 46.66499,
+    "lng": 31.20804
+  },
+  {
+    "name": "Kobelyaky",
+    "country": "UA",
+    "lat": 49.14936,
+    "lng": 34.20193
+  },
+  {
+    "name": "Kozatske",
+    "country": "UA",
+    "lat": 46.78551,
+    "lng": 33.35002
+  },
+  {
+    "name": "Kozatske",
+    "country": "UA",
+    "lat": 46.34881,
+    "lng": 30.0452
+  },
+  {
+    "name": "Koziatyn",
+    "country": "UA",
+    "lat": 49.7164,
+    "lng": 28.83858
+  },
+  {
+    "name": "Kozacha Lopan",
+    "country": "UA",
+    "lat": 50.33212,
+    "lng": 36.19823
+  },
+  {
+    "name": "Kozachi Laheri",
+    "country": "UA",
+    "lat": 46.70538,
+    "lng": 32.98194
+  },
+  {
+    "name": "Komysh-Zorya",
+    "country": "UA",
+    "lat": 47.33074,
+    "lng": 36.69571
+  },
+  {
+    "name": "Komyshnya",
+    "country": "UA",
+    "lat": 50.18643,
+    "lng": 33.6831
+  },
+  {
+    "name": "Komyshivka",
+    "country": "UA",
+    "lat": 45.51876,
+    "lng": 29.12375
+  },
+  {
+    "name": "Komyshuvakha",
+    "country": "UA",
+    "lat": 47.71491,
+    "lng": 35.52405
+  },
+  {
+    "name": "Komyshany",
+    "country": "UA",
+    "lat": 46.63995,
+    "lng": 32.50343
+  },
+  {
+    "name": "Kopashnovo",
+    "country": "UA",
+    "lat": 48.21764,
+    "lng": 23.48366
+  },
+  {
+    "name": "Kosy",
+    "country": "UA",
+    "lat": 47.67896,
+    "lng": 29.49778
+  },
+  {
+    "name": "Komsomol’skoye",
+    "country": "UA",
+    "lat": 45.019,
+    "lng": 34.03049
+  },
+  {
+    "name": "Konstantinovka",
+    "country": "UA",
+    "lat": 44.85511,
+    "lng": 34.12069
+  },
+  {
+    "name": "Kostochkovka",
+    "country": "UA",
+    "lat": 45.31747,
+    "lng": 34.67418
+  },
+  {
+    "name": "Kostychany",
+    "country": "UA",
+    "lat": 48.2258,
+    "lng": 26.51545
+  },
+  {
+    "name": "Kotido",
+    "country": "UG",
+    "lat": 2.98056,
+    "lng": 34.13306
+  },
+  {
+    "name": "Koboko",
+    "country": "UG",
+    "lat": 3.41364,
+    "lng": 30.95994
+  },
+  {
+    "name": "Kole",
+    "country": "UG",
+    "lat": 2.40015,
+    "lng": 32.80034
+  },
+  {
+    "name": "Kosciusko",
+    "country": "US",
+    "lat": 33.058,
+    "lng": -89.58956
+  },
+  {
+    "name": "Konawa",
+    "country": "US",
+    "lat": 34.95953,
+    "lng": -96.7528
+  },
+  {
+    "name": "Kountze",
+    "country": "US",
+    "lat": 30.3716,
+    "lng": -94.31241
+  },
+  {
+    "name": "Kokomo",
+    "country": "US",
+    "lat": 40.48643,
+    "lng": -86.1336
+  },
+  {
+    "name": "Koontz Lake",
+    "country": "US",
+    "lat": 41.4181,
+    "lng": -86.48585
+  },
+  {
+    "name": "Kouts",
+    "country": "US",
+    "lat": 41.31671,
+    "lng": -87.02586
+  },
+  {
+    "name": "Kohler",
+    "country": "US",
+    "lat": 43.49639,
+    "lng": -88.02343
+  },
+  {
+    "name": "Kohler",
+    "country": "US",
+    "lat": 43.73916,
+    "lng": -87.78175
+  },
+  {
+    "name": "Koreatown",
+    "country": "US",
+    "lat": 34.05779,
+    "lng": -118.30091
+  },
+  {
+    "name": "Koloa",
+    "country": "US",
+    "lat": 21.90365,
+    "lng": -159.46663
+  },
+  {
+    "name": "Kodiak",
+    "country": "US",
+    "lat": 57.78852,
+    "lng": -152.40533
+  },
+  {
+    "name": "Kotzebue",
+    "country": "US",
+    "lat": 66.89846,
+    "lng": -162.59809
+  },
+  {
+    "name": "Kodiak Station",
+    "country": "US",
+    "lat": 57.76587,
+    "lng": -152.60004
+  },
+  {
+    "name": "Ko Olina",
+    "country": "US",
+    "lat": 21.33993,
+    "lng": -158.12562
+  },
+  {
+    "name": "Koolauloa",
+    "country": "US",
+    "lat": 21.60579,
+    "lng": -157.9265
+  },
+  {
+    "name": "Koloa-Poipu",
+    "country": "US",
+    "lat": 21.89449,
+    "lng": -159.46467
+  },
+  {
+    "name": "Koson",
+    "country": "UZ",
+    "lat": 39.0375,
+    "lng": 65.585
+  },
+  {
+    "name": "Kogon Shahri",
+    "country": "UZ",
+    "lat": 39.72746,
+    "lng": 64.55466
+  },
+  {
+    "name": "Koson Shahri",
+    "country": "UZ",
+    "lat": 39.04472,
+    "lng": 65.59082
+  },
+  {
+    "name": "Kosonsoy",
+    "country": "UZ",
+    "lat": 41.24944,
+    "lng": 71.54738
+  },
+  {
+    "name": "Konimex",
+    "country": "UZ",
+    "lat": 40.27593,
+    "lng": 65.14511
+  },
+  {
+    "name": "Kosonsoy Shahri",
+    "country": "UZ",
+    "lat": 41.26327,
+    "lng": 71.54239
+  },
+  {
+    "name": "Kon Tum",
+    "country": "VN",
+    "lat": 14.35451,
+    "lng": 108.00759
+  },
+  {
+    "name": "Kon Dơng",
+    "country": "VN",
+    "lat": 14.03886,
+    "lng": 108.25011
+  },
+  {
+    "name": "Kosuriq",
+    "country": "XK",
+    "lat": 42.57028,
+    "lng": 20.46472
+  },
+  {
+    "name": "Kosovo Polje",
+    "country": "XK",
+    "lat": 42.66394,
+    "lng": 21.09611
+  },
+  {
+    "name": "Koungou",
+    "country": "YT",
+    "lat": -12.73361,
+    "lng": 45.20417
+  },
+  {
+    "name": "Koster",
+    "country": "ZA",
+    "lat": -25.86301,
+    "lng": 26.89756
+  },
+  {
+    "name": "Koppies",
+    "country": "ZA",
+    "lat": -27.24179,
+    "lng": 27.57422
+  },
+  {
+    "name": "Komga",
+    "country": "ZA",
+    "lat": -32.57704,
+    "lng": 27.892
+  },
+  {
+    "name": "Komatipoort",
+    "country": "ZA",
+    "lat": -25.43321,
+    "lng": 31.95478
+  },
+  {
+    "name": "Komati",
+    "country": "ZA",
+    "lat": -26.09548,
+    "lng": 29.4608
+  },
+  {
+    "name": "Kokstad",
+    "country": "ZA",
+    "lat": -30.54723,
+    "lng": 29.42412
+  },
+  {
+    "name": "Koffiefontein",
+    "country": "ZA",
+    "lat": -29.40661,
+    "lng": 25.00309
+  },
+  {
+    "name": "Koringberg",
+    "country": "ZA",
+    "lat": -33.01806,
+    "lng": 18.67806
+  },
+  {
+    "name": "Koekenaap",
+    "country": "ZA",
+    "lat": -31.52689,
+    "lng": 18.29128
+  }
+]

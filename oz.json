@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Ozouer-le-Voulgis",
+    "country": "FR",
+    "lat": 48.66012,
+    "lng": 2.77409
+  },
+  {
+    "name": "Ozoir-la-Ferrière",
+    "country": "FR",
+    "lat": 48.76699,
+    "lng": 2.66871
+  },
+  {
+    "name": "Ozurgeti",
+    "country": "GE",
+    "lat": 41.92336,
+    "lng": 42.00525
+  },
+  {
+    "name": "Ozalj",
+    "country": "HR",
+    "lat": 45.61293,
+    "lng": 15.47771
+  },
+  {
+    "name": "Ozora",
+    "country": "HU",
+    "lat": 46.75133,
+    "lng": 18.4001
+  },
+  {
+    "name": "Ozar",
+    "country": "IN",
+    "lat": 20.09473,
+    "lng": 73.92816
+  },
+  {
+    "name": "Ozzero",
+    "country": "IT",
+    "lat": 45.36775,
+    "lng": 8.9244
+  },
+  {
+    "name": "Ozzano Monferrato",
+    "country": "IT",
+    "lat": 45.10592,
+    "lng": 8.37238
+  },
+  {
+    "name": "Ozieri",
+    "country": "IT",
+    "lat": 40.5863,
+    "lng": 9.0034
+  },
+  {
+    "name": "Ozegna",
+    "country": "IT",
+    "lat": 45.34801,
+    "lng": 7.74503
+  },
+  {
+    "name": "Ozzano dell'Emilia",
+    "country": "IT",
+    "lat": 44.44427,
+    "lng": 11.47552
+  },
+  {
+    "name": "Ozzano Taro",
+    "country": "IT",
+    "lat": 44.70969,
+    "lng": 10.14086
+  },
+  {
+    "name": "Ozora",
+    "country": "JP",
+    "lat": 43.91298,
+    "lng": 144.16852
+  },
+  {
+    "name": "Ozernyy",
+    "country": "KZ",
+    "lat": 46.80714,
+    "lng": 75.036
+  },
+  {
+    "name": "Ozolnieki",
+    "country": "LV",
+    "lat": 56.68986,
+    "lng": 23.7761
+  },
+  {
+    "name": "Ozumba de Alzate",
+    "country": "MX",
+    "lat": 19.03689,
+    "lng": -98.79516
+  },
+  {
+    "name": "Ozuluama de Mascareñas",
+    "country": "MX",
+    "lat": 21.6604,
+    "lng": -97.85049
+  },
+  {
+    "name": "Ozelonacaxtla",
+    "country": "MX",
+    "lat": 20.04657,
+    "lng": -97.6144
+  },
+  {
+    "name": "Oztotitlán",
+    "country": "MX",
+    "lat": 17.67232,
+    "lng": -99.02464
+  },
+  {
+    "name": "Ozoro",
+    "country": "NG",
+    "lat": 5.54692,
+    "lng": 6.22649
+  },
+  {
+    "name": "Ozubulu",
+    "country": "NG",
+    "lat": 5.95753,
+    "lng": 6.85305
+  },
+  {
+    "name": "Ozamiz City",
+    "country": "PH",
+    "lat": 8.1481,
+    "lng": 123.8405
+  },
+  {
+    "name": "Ozorków",
+    "country": "PL",
+    "lat": 51.96336,
+    "lng": 19.29139
+  },
+  {
+    "name": "Ozimek",
+    "country": "PL",
+    "lat": 50.67944,
+    "lng": 18.2137
+  },
+  {
+    "name": "Ozun",
+    "country": "RO",
+    "lat": 45.8,
+    "lng": 25.85
+  },
+  {
+    "name": "Ozinki",
+    "country": "RU",
+    "lat": 51.1987,
+    "lng": 49.7263
+  },
+  {
+    "name": "Ozherel’ye",
+    "country": "RU",
+    "lat": 54.79197,
+    "lng": 38.26559
+  },
+  {
+    "name": "Ozëry",
+    "country": "RU",
+    "lat": 54.85998,
+    "lng": 38.55062
+  },
+  {
+    "name": "Ozërsk",
+    "country": "RU",
+    "lat": 54.41056,
+    "lng": 22.01167
+  },
+  {
+    "name": "Ozërnyy",
+    "country": "RU",
+    "lat": 55.5802,
+    "lng": 32.4127
+  },
+  {
+    "name": "Ozerki",
+    "country": "RU",
+    "lat": 60.03947,
+    "lng": 30.31128
+  },
+  {
+    "name": "Ozërsk",
+    "country": "RU",
+    "lat": 55.76008,
+    "lng": 60.71426
+  },
+  {
+    "name": "Ozersk",
+    "country": "RU",
+    "lat": 55.75556,
+    "lng": 60.70278
+  },
+  {
+    "name": "Ozernovskiy",
+    "country": "RU",
+    "lat": 51.49604,
+    "lng": 156.50102
+  },
+  {
+    "name": "Ozerniy",
+    "country": "RU",
+    "lat": 57.86657,
+    "lng": 33.66401
+  },
+  {
+    "name": "Ozatlán",
+    "country": "SV",
+    "lat": 13.38333,
+    "lng": -88.5
+  },
+  {
+    "name": "Ozheve",
+    "country": "UA",
+    "lat": 48.55786,
+    "lng": 27.4641
+  },
+  {
+    "name": "Ozerne",
+    "country": "UA",
+    "lat": 50.17816,
+    "lng": 28.73384
+  },
+  {
+    "name": "Ozerne",
+    "country": "UA",
+    "lat": 45.40559,
+    "lng": 28.66861
+  },
+  {
+    "name": "Ozerna",
+    "country": "UA",
+    "lat": 49.62826,
+    "lng": 25.33029
+  },
+  {
+    "name": "Ozera",
+    "country": "UA",
+    "lat": 48.99179,
+    "lng": 33.95099
+  },
+  {
+    "name": "Ozark",
+    "country": "US",
+    "lat": 31.45906,
+    "lng": -85.64049
+  },
+  {
+    "name": "Ozark",
+    "country": "US",
+    "lat": 35.48703,
+    "lng": -93.8277
+  },
+  {
+    "name": "Ozark",
+    "country": "US",
+    "lat": 37.02089,
+    "lng": -93.20602
+  },
+  {
+    "name": "Ozone Park",
+    "country": "US",
+    "lat": 40.67677,
+    "lng": -73.84375
+  },
+  {
+    "name": "Ozona",
+    "country": "US",
+    "lat": 30.71017,
+    "lng": -101.20067
+  }
+]

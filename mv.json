@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Mvouti",
+    "country": "CG",
+    "lat": -4.24639,
+    "lng": 12.48889
+  },
+  {
+    "name": "Mvangué",
+    "country": "CM",
+    "lat": 2.96667,
+    "lng": 11.51667
+  },
+  {
+    "name": "Mvouni",
+    "country": "KM",
+    "lat": -11.71965,
+    "lng": 43.2752
+  },
+  {
+    "name": "Mvomero",
+    "country": "TZ",
+    "lat": -6.25,
+    "lng": 38.66667
+  },
+  {
+    "name": "Mvomero",
+    "country": "TZ",
+    "lat": -6.30122,
+    "lng": 37.44398
+  },
+  {
+    "name": "Mvelaphanda",
+    "country": "ZA",
+    "lat": -23.0703,
+    "lng": 30.40252
+  },
+  {
+    "name": "Mvurwi",
+    "country": "ZW",
+    "lat": -17.03333,
+    "lng": 30.85
+  },
+  {
+    "name": "Mvuma",
+    "country": "ZW",
+    "lat": -19.27924,
+    "lng": 30.52828
+  }
+]

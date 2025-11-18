@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Mborje",
+    "country": "AL",
+    "lat": 40.60333,
+    "lng": 20.80306
+  },
+  {
+    "name": "Mbrostar-Urë",
+    "country": "AL",
+    "lat": 40.75361,
+    "lng": 19.57944
+  },
+  {
+    "name": "Mbanza Kongo",
+    "country": "AO",
+    "lat": -6.26667,
+    "lng": 14.23833
+  },
+  {
+    "name": "Mburucuyá",
+    "country": "AR",
+    "lat": -28.04532,
+    "lng": -58.22835
+  },
+  {
+    "name": "Mbuji-Mayi",
+    "country": "CD",
+    "lat": -6.13603,
+    "lng": 23.58979
+  },
+  {
+    "name": "Mbanza-Ngungu",
+    "country": "CD",
+    "lat": -5.25837,
+    "lng": 14.85838
+  },
+  {
+    "name": "Mbandaka",
+    "country": "CD",
+    "lat": 0.04865,
+    "lng": 18.26034
+  },
+  {
+    "name": "Mbrés",
+    "country": "CF",
+    "lat": 6.668,
+    "lng": 19.80323
+  },
+  {
+    "name": "Mbaïki",
+    "country": "CF",
+    "lat": 3.86781,
+    "lng": 17.98923
+  },
+  {
+    "name": "Mbinda",
+    "country": "CG",
+    "lat": -2.10778,
+    "lng": 12.87083
+  },
+  {
+    "name": "Mbékro",
+    "country": "CI",
+    "lat": 6.89667,
+    "lng": -5.15239
+  },
+  {
+    "name": "Mbouédio",
+    "country": "CI",
+    "lat": 7.21659,
+    "lng": -5.14895
+  },
+  {
+    "name": "Mborla-Dioulasso",
+    "country": "CI",
+    "lat": 8.46882,
+    "lng": -4.481
+  },
+  {
+    "name": "Mbrati",
+    "country": "CI",
+    "lat": 5.15611,
+    "lng": -3.14517
+  },
+  {
+    "name": "Mbohouin",
+    "country": "CI",
+    "lat": 5.56741,
+    "lng": -3.6417
+  },
+  {
+    "name": "Mbia",
+    "country": "CI",
+    "lat": 9.51644,
+    "lng": -6.04639
+  },
+  {
+    "name": "Mbéboussou",
+    "country": "CI",
+    "lat": 6.85322,
+    "lng": -4.50203
+  },
+  {
+    "name": "Mbasso-Atié",
+    "country": "CI",
+    "lat": 6.29498,
+    "lng": -3.4835
+  },
+  {
+    "name": "Mbaoussiéssou",
+    "country": "CI",
+    "lat": 6.58073,
+    "lng": -4.2711
+  },
+  {
+    "name": "Mbala",
+    "country": "CI",
+    "lat": 9.35681,
+    "lng": -6.07335
+  },
+  {
+    "name": "Mbabrasso",
+    "country": "CI",
+    "lat": 7.68457,
+    "lng": -4.01312
+  },
+  {
+    "name": "Mbrimbo",
+    "country": "CI",
+    "lat": 6.0262,
+    "lng": -4.87406
+  },
+  {
+    "name": "Mbattra",
+    "country": "CI",
+    "lat": 5.96526,
+    "lng": -4.1324
+  },
+  {
+    "name": "Mborou",
+    "country": "CI",
+    "lat": 5.59474,
+    "lng": -4.36334
+  },
+  {
+    "name": "Mbonouan",
+    "country": "CI",
+    "lat": 5.55185,
+    "lng": -4.22948
+  },
+  {
+    "name": "Mbouda",
+    "country": "CM",
+    "lat": 5.62611,
+    "lng": 10.25421
+  },
+  {
+    "name": "Mbengwi",
+    "country": "CM",
+    "lat": 6.01667,
+    "lng": 10.0
+  },
+  {
+    "name": "Mbankomo",
+    "country": "CM",
+    "lat": 3.78333,
+    "lng": 11.38333
+  },
+  {
+    "name": "Mbanga",
+    "country": "CM",
+    "lat": 4.5016,
+    "lng": 9.5671
+  },
+  {
+    "name": "Mbang",
+    "country": "CM",
+    "lat": 4.58333,
+    "lng": 13.33333
+  },
+  {
+    "name": "Mbandjok",
+    "country": "CM",
+    "lat": 4.45,
+    "lng": 11.9
+  },
+  {
+    "name": "Mbalmayo",
+    "country": "CM",
+    "lat": 3.51667,
+    "lng": 11.5
+  },
+  {
+    "name": "Mbigou",
+    "country": "GA",
+    "lat": -1.90046,
+    "lng": 11.906
+  },
+  {
+    "name": "Mbini",
+    "country": "GQ",
+    "lat": 1.58267,
+    "lng": 9.61478
+  },
+  {
+    "name": "Mbay",
+    "country": "ID",
+    "lat": -8.5613,
+    "lng": 121.2717
+  },
+  {
+    "name": "Mbita",
+    "country": "KE",
+    "lat": -0.42492,
+    "lng": 34.20736
+  },
+  {
+    "name": "Mbale",
+    "country": "KE",
+    "lat": 0.08213,
+    "lng": 34.72139
+  },
+  {
+    "name": "Mbéni",
+    "country": "KM",
+    "lat": -11.50139,
+    "lng": 43.3775
+  },
+  {
+    "name": "Mboutt",
+    "country": "MR",
+    "lat": 16.02322,
+    "lng": -12.57872
+  },
+  {
+    "name": "Mbagne",
+    "country": "MR",
+    "lat": 16.14497,
+    "lng": -13.79258
+  },
+  {
+    "name": "Mbera",
+    "country": "MR",
+    "lat": 15.85615,
+    "lng": -5.79067
+  },
+  {
+    "name": "Mberubu",
+    "country": "NG",
+    "lat": 6.1731,
+    "lng": 7.63017
+  },
+  {
+    "name": "Mbalano",
+    "country": "NG",
+    "lat": 5.73432,
+    "lng": 7.50238
+  },
+  {
+    "name": "Mbuyapey",
+    "country": "PY",
+    "lat": -26.21921,
+    "lng": -56.75777
+  },
+  {
+    "name": "Mbutuý",
+    "country": "PY",
+    "lat": -24.97518,
+    "lng": -56.30927
+  },
+  {
+    "name": "Mbocayaty",
+    "country": "PY",
+    "lat": -25.71938,
+    "lng": -56.42179
+  },
+  {
+    "name": "Mbumburu",
+    "country": "SB",
+    "lat": -9.43333,
+    "lng": 159.93333
+  },
+  {
+    "name": "Mbour",
+    "country": "SN",
+    "lat": 14.42196,
+    "lng": -16.96375
+  },
+  {
+    "name": "Mbouba",
+    "country": "SN",
+    "lat": 16.19002,
+    "lng": -14.01562
+  },
+  {
+    "name": "Mbos Ndiamb",
+    "country": "SN",
+    "lat": 14.46829,
+    "lng": -16.06702
+  },
+  {
+    "name": "Mbos",
+    "country": "SN",
+    "lat": 14.36667,
+    "lng": -15.75
+  },
+  {
+    "name": "Mboro",
+    "country": "SN",
+    "lat": 15.14051,
+    "lng": -16.88682
+  },
+  {
+    "name": "Mbeuleukhé",
+    "country": "SN",
+    "lat": 15.6487,
+    "lng": -15.3492
+  },
+  {
+    "name": "Mbaké",
+    "country": "SN",
+    "lat": 14.79032,
+    "lng": -15.90803
+  },
+  {
+    "name": "Mbabane",
+    "country": "SZ",
+    "lat": -26.31667,
+    "lng": 31.13333
+  },
+  {
+    "name": "Mboursou Léré",
+    "country": "TD",
+    "lat": 9.7639,
+    "lng": 14.1539
+  },
+  {
+    "name": "Mbumi",
+    "country": "TZ",
+    "lat": -7.90577,
+    "lng": 39.21047
+  },
+  {
+    "name": "Mbulu",
+    "country": "TZ",
+    "lat": -3.85,
+    "lng": 35.53333
+  },
+  {
+    "name": "Mbuguni",
+    "country": "TZ",
+    "lat": -3.56667,
+    "lng": 36.95
+  },
+  {
+    "name": "Mbeya",
+    "country": "TZ",
+    "lat": -8.9,
+    "lng": 33.45
+  },
+  {
+    "name": "Mbinga",
+    "country": "TZ",
+    "lat": -10.93333,
+    "lng": 35.01667
+  },
+  {
+    "name": "Mbekenyera",
+    "country": "TZ",
+    "lat": -10.0,
+    "lng": 38.98333
+  },
+  {
+    "name": "Mbamba Bay",
+    "country": "TZ",
+    "lat": -11.28333,
+    "lng": 34.76667
+  },
+  {
+    "name": "Mbarara",
+    "country": "UG",
+    "lat": -0.60467,
+    "lng": 30.64851
+  },
+  {
+    "name": "Mbale",
+    "country": "UG",
+    "lat": 1.08209,
+    "lng": 34.17503
+  },
+  {
+    "name": "Mbombela",
+    "country": "ZA",
+    "lat": -25.47512,
+    "lng": 30.96935
+  },
+  {
+    "name": "Mbala",
+    "country": "ZM",
+    "lat": -8.84024,
+    "lng": 31.36587
+  }
+]

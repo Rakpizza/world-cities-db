@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Omarska",
+    "country": "BA",
+    "lat": 44.8917,
+    "lng": 16.89814
+  },
+  {
+    "name": "Omanjska",
+    "country": "BA",
+    "lat": 44.69831,
+    "lng": 17.95757
+  },
+  {
+    "name": "Omurtag",
+    "country": "BG",
+    "lat": 43.1,
+    "lng": 26.41667
+  },
+  {
+    "name": "Omemee",
+    "country": "CA",
+    "lat": 44.29897,
+    "lng": -78.55989
+  },
+  {
+    "name": "Ombésa",
+    "country": "CM",
+    "lat": 4.6,
+    "lng": 11.25
+  },
+  {
+    "name": "Omissy",
+    "country": "FR",
+    "lat": 49.8776,
+    "lng": 3.31235
+  },
+  {
+    "name": "Omboué",
+    "country": "GA",
+    "lat": -1.57464,
+    "lng": 9.26184
+  },
+  {
+    "name": "Omagh",
+    "country": "GB",
+    "lat": 54.6,
+    "lng": -7.3
+  },
+  {
+    "name": "Omvriakí",
+    "country": "GR",
+    "lat": 39.10118,
+    "lng": 22.27106
+  },
+  {
+    "name": "Omoa",
+    "country": "HN",
+    "lat": 15.77603,
+    "lng": -88.03833
+  },
+  {
+    "name": "Omišalj",
+    "country": "HR",
+    "lat": 45.21134,
+    "lng": 14.55495
+  },
+  {
+    "name": "Omiš",
+    "country": "HR",
+    "lat": 43.44472,
+    "lng": 16.68861
+  },
+  {
+    "name": "Omalur",
+    "country": "IN",
+    "lat": 11.74099,
+    "lng": 78.04559
+  },
+  {
+    "name": "Omkareshwar",
+    "country": "IN",
+    "lat": 22.24245,
+    "lng": 76.15044
+  },
+  {
+    "name": "Omīdcheh",
+    "country": "IR",
+    "lat": 38.28667,
+    "lng": 48.14139
+  },
+  {
+    "name": "Omīdīyeh",
+    "country": "IR",
+    "lat": 30.76277,
+    "lng": 49.70226
+  },
+  {
+    "name": "Omignano",
+    "country": "IT",
+    "lat": 40.24932,
+    "lng": 15.08406
+  },
+  {
+    "name": "Omegna",
+    "country": "IT",
+    "lat": 45.88002,
+    "lng": 8.40665
+  },
+  {
+    "name": "Ome",
+    "country": "IT",
+    "lat": 45.62728,
+    "lng": 10.12137
+  },
+  {
+    "name": "Omi",
+    "country": "JP",
+    "lat": 36.45,
+    "lng": 138.05
+  },
+  {
+    "name": "Omigawa",
+    "country": "JP",
+    "lat": 35.85,
+    "lng": 140.61667
+  },
+  {
+    "name": "Omitama",
+    "country": "JP",
+    "lat": 36.25449,
+    "lng": 140.37962
+  },
+  {
+    "name": "Omaezaki",
+    "country": "JP",
+    "lat": 34.59882,
+    "lng": 138.21934
+  },
+  {
+    "name": "Omega Gardens",
+    "country": "KY",
+    "lat": 19.29239,
+    "lng": -81.32675
+  },
+  {
+    "name": "Ometepec",
+    "country": "MX",
+    "lat": 18.85439,
+    "lng": -97.8535
+  },
+  {
+    "name": "Omoa",
+    "country": "MX",
+    "lat": 14.83292,
+    "lng": -92.23279
+  },
+  {
+    "name": "Omitlán de Juárez",
+    "country": "MX",
+    "lat": 20.1698,
+    "lng": -98.64842
+  },
+  {
+    "name": "Ometepec",
+    "country": "MX",
+    "lat": 16.69008,
+    "lng": -98.40797
+  },
+  {
+    "name": "Omealca",
+    "country": "MX",
+    "lat": 18.74732,
+    "lng": -96.7852
+  },
+  {
+    "name": "Omuthiya",
+    "country": "NA",
+    "lat": -18.36463,
+    "lng": 16.58146
+  },
+  {
+    "name": "Omaruru",
+    "country": "NA",
+    "lat": -21.42403,
+    "lng": 15.94611
+  },
+  {
+    "name": "Omuo-Ekiti",
+    "country": "NG",
+    "lat": 7.75833,
+    "lng": 5.72227
+  },
+  {
+    "name": "Omu-Aran",
+    "country": "NG",
+    "lat": 8.13385,
+    "lng": 5.10029
+  },
+  {
+    "name": "Omoku",
+    "country": "NG",
+    "lat": 5.34388,
+    "lng": 6.65684
+  },
+  {
+    "name": "Omoba",
+    "country": "NG",
+    "lat": 5.24268,
+    "lng": 7.40623
+  },
+  {
+    "name": "Ommoord",
+    "country": "NL",
+    "lat": 51.95951,
+    "lng": 4.54533
+  },
+  {
+    "name": "Ommen",
+    "country": "NL",
+    "lat": 52.52083,
+    "lng": 6.42083
+  },
+  {
+    "name": "Ommelanderwijk",
+    "country": "NL",
+    "lat": 53.08917,
+    "lng": 6.90556
+  },
+  {
+    "name": "Omokoroa",
+    "country": "NZ",
+    "lat": -37.64849,
+    "lng": 176.03497
+  },
+  {
+    "name": "Oma",
+    "country": "PA",
+    "lat": 8.34565,
+    "lng": -81.79827
+  },
+  {
+    "name": "Omia",
+    "country": "PE",
+    "lat": -6.46778,
+    "lng": -77.39608
+  },
+  {
+    "name": "Omate",
+    "country": "PE",
+    "lat": -16.68333,
+    "lng": -70.98333
+  },
+  {
+    "name": "Omas",
+    "country": "PE",
+    "lat": -12.51667,
+    "lng": -76.28333
+  },
+  {
+    "name": "Omacha",
+    "country": "PE",
+    "lat": -14.07139,
+    "lng": -71.73972
+  },
+  {
+    "name": "Omutninsk",
+    "country": "RU",
+    "lat": 58.67015,
+    "lng": 52.19313
+  },
+  {
+    "name": "Omutinskoye",
+    "country": "RU",
+    "lat": 56.46845,
+    "lng": 67.64172
+  },
+  {
+    "name": "Omsk",
+    "country": "RU",
+    "lat": 54.99244,
+    "lng": 73.36859
+  },
+  {
+    "name": "Omsukchan",
+    "country": "RU",
+    "lat": 62.51531,
+    "lng": 155.79406
+  },
+  {
+    "name": "Omdurman",
+    "country": "SD",
+    "lat": 15.64453,
+    "lng": 32.47773
+  },
+  {
+    "name": "Om Koi",
+    "country": "TH",
+    "lat": 17.80122,
+    "lng": 98.35933
+  },
+  {
+    "name": "Omelnyk",
+    "country": "UA",
+    "lat": 49.20765,
+    "lng": 33.54568
+  },
+  {
+    "name": "Omega",
+    "country": "US",
+    "lat": 31.34102,
+    "lng": -83.5935
+  },
+  {
+    "name": "Omaha",
+    "country": "US",
+    "lat": 41.25626,
+    "lng": -95.94043
+  },
+  {
+    "name": "Omro",
+    "country": "US",
+    "lat": 44.03943,
+    "lng": -88.74428
+  },
+  {
+    "name": "Omak",
+    "country": "US",
+    "lat": 48.41099,
+    "lng": -119.52755
+  },
+  {
+    "name": "Omao-Kukuiula",
+    "country": "US",
+    "lat": 21.90097,
+    "lng": -159.48594
+  },
+  {
+    "name": "Ombúes de Lavalle",
+    "country": "UY",
+    "lat": -33.93783,
+    "lng": -57.80959
+  }
+]

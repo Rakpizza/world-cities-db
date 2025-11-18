@@ -1,0 +1,4262 @@
+[
+  {
+    "name": "Nicaj-Shalë",
+    "country": "AL",
+    "lat": 42.29944,
+    "lng": 19.805
+  },
+  {
+    "name": "Nikël",
+    "country": "AL",
+    "lat": 41.44417,
+    "lng": 19.74833
+  },
+  {
+    "name": "Nicaj-Shosh",
+    "country": "AL",
+    "lat": 42.24444,
+    "lng": 19.75806
+  },
+  {
+    "name": "Nizami",
+    "country": "AM",
+    "lat": 40.09168,
+    "lng": 44.4057
+  },
+  {
+    "name": "Nitscha",
+    "country": "AT",
+    "lat": 47.11667,
+    "lng": 15.75
+  },
+  {
+    "name": "Nikolsdorf",
+    "country": "AT",
+    "lat": 46.78583,
+    "lng": 12.91333
+  },
+  {
+    "name": "Niklasdorf",
+    "country": "AT",
+    "lat": 47.38333,
+    "lng": 15.15
+  },
+  {
+    "name": "Nikitsch",
+    "country": "AT",
+    "lat": 47.53615,
+    "lng": 16.66017
+  },
+  {
+    "name": "Niederwölz",
+    "country": "AT",
+    "lat": 47.15126,
+    "lng": 14.37479
+  },
+  {
+    "name": "Niederthalheim",
+    "country": "AT",
+    "lat": 48.09901,
+    "lng": 13.7687
+  },
+  {
+    "name": "Niederöblarn",
+    "country": "AT",
+    "lat": 47.47667,
+    "lng": 14.01937
+  },
+  {
+    "name": "Niedernsill",
+    "country": "AT",
+    "lat": 47.28333,
+    "lng": 12.65
+  },
+  {
+    "name": "Niederneukirchen",
+    "country": "AT",
+    "lat": 48.16093,
+    "lng": 14.33965
+  },
+  {
+    "name": "Niederndorf",
+    "country": "AT",
+    "lat": 47.65,
+    "lng": 12.21667
+  },
+  {
+    "name": "Niederleis",
+    "country": "AT",
+    "lat": 48.55,
+    "lng": 16.4
+  },
+  {
+    "name": "Niederhollabrunn",
+    "country": "AT",
+    "lat": 48.43333,
+    "lng": 16.3
+  },
+  {
+    "name": "Niederdorf",
+    "country": "AT",
+    "lat": 46.61667,
+    "lng": 14.4
+  },
+  {
+    "name": "Niederbreitenbach",
+    "country": "AT",
+    "lat": 47.53333,
+    "lng": 12.08333
+  },
+  {
+    "name": "Niederau",
+    "country": "AT",
+    "lat": 47.45,
+    "lng": 12.08333
+  },
+  {
+    "name": "Niederalm",
+    "country": "AT",
+    "lat": 47.72872,
+    "lng": 13.06223
+  },
+  {
+    "name": "Nickelsdorf",
+    "country": "AT",
+    "lat": 47.94056,
+    "lng": 17.06944
+  },
+  {
+    "name": "Niederschöckl",
+    "country": "AT",
+    "lat": 47.15,
+    "lng": 15.5
+  },
+  {
+    "name": "Niederstraß",
+    "country": "AT",
+    "lat": 48.01398,
+    "lng": 13.72956
+  },
+  {
+    "name": "Nightcliff",
+    "country": "AU",
+    "lat": -12.38299,
+    "lng": 130.8517
+  },
+  {
+    "name": "Nimbin",
+    "country": "AU",
+    "lat": -28.59545,
+    "lng": 153.22336
+  },
+  {
+    "name": "Nicholson",
+    "country": "AU",
+    "lat": -37.81667,
+    "lng": 147.73333
+  },
+  {
+    "name": "Niddrie",
+    "country": "AU",
+    "lat": -37.7375,
+    "lng": 144.89212
+  },
+  {
+    "name": "Ningi",
+    "country": "AU",
+    "lat": -27.06108,
+    "lng": 153.07883
+  },
+  {
+    "name": "Nichols Point",
+    "country": "AU",
+    "lat": -34.21028,
+    "lng": 142.21122
+  },
+  {
+    "name": "Niagara Park",
+    "country": "AU",
+    "lat": -33.37638,
+    "lng": 151.3486
+  },
+  {
+    "name": "Ninderry",
+    "country": "AU",
+    "lat": -26.54094,
+    "lng": 152.9752
+  },
+  {
+    "name": "Nicholls",
+    "country": "AU",
+    "lat": -35.18733,
+    "lng": 149.09648
+  },
+  {
+    "name": "Nickol",
+    "country": "AU",
+    "lat": -20.74558,
+    "lng": 116.7954
+  },
+  {
+    "name": "Nilphamari",
+    "country": "BD",
+    "lat": 25.94167,
+    "lng": 88.84667
+  },
+  {
+    "name": "Nivelles",
+    "country": "BE",
+    "lat": 50.59833,
+    "lng": 4.32848
+  },
+  {
+    "name": "Nismes",
+    "country": "BE",
+    "lat": 50.07523,
+    "lng": 4.54767
+  },
+  {
+    "name": "Ninove",
+    "country": "BE",
+    "lat": 50.82776,
+    "lng": 4.02657
+  },
+  {
+    "name": "Nimy",
+    "country": "BE",
+    "lat": 50.47668,
+    "lng": 3.95516
+  },
+  {
+    "name": "Nil-Saint-Vincent-Saint-Martin",
+    "country": "BE",
+    "lat": 50.64331,
+    "lng": 4.68172
+  },
+  {
+    "name": "Nijlen",
+    "country": "BE",
+    "lat": 51.16096,
+    "lng": 4.67008
+  },
+  {
+    "name": "Nieuwrode",
+    "country": "BE",
+    "lat": 50.95,
+    "lng": 4.83333
+  },
+  {
+    "name": "Nieuwpoort",
+    "country": "BE",
+    "lat": 51.13008,
+    "lng": 2.75135
+  },
+  {
+    "name": "Nieuwkerken-Waas",
+    "country": "BE",
+    "lat": 51.19358,
+    "lng": 4.17776
+  },
+  {
+    "name": "Nieuwkerke",
+    "country": "BE",
+    "lat": 50.74709,
+    "lng": 2.8286
+  },
+  {
+    "name": "Nieuwerkerken",
+    "country": "BE",
+    "lat": 50.92386,
+    "lng": 4.00433
+  },
+  {
+    "name": "Nieuwerkerken",
+    "country": "BE",
+    "lat": 50.8638,
+    "lng": 5.19467
+  },
+  {
+    "name": "Nieuwenrode",
+    "country": "BE",
+    "lat": 50.97961,
+    "lng": 4.35282
+  },
+  {
+    "name": "Niel-bij-As",
+    "country": "BE",
+    "lat": 51.01851,
+    "lng": 5.60526
+  },
+  {
+    "name": "Niel",
+    "country": "BE",
+    "lat": 51.11096,
+    "lng": 4.33428
+  },
+  {
+    "name": "Niou",
+    "country": "BF",
+    "lat": 12.76975,
+    "lng": -1.93376
+  },
+  {
+    "name": "Nioko I",
+    "country": "BF",
+    "lat": 12.39501,
+    "lng": -1.43861
+  },
+  {
+    "name": "Niangoloko",
+    "country": "BF",
+    "lat": 10.28333,
+    "lng": -4.91667
+  },
+  {
+    "name": "Nikopol",
+    "country": "BG",
+    "lat": 43.70528,
+    "lng": 24.89521
+  },
+  {
+    "name": "Nikolaevo",
+    "country": "BG",
+    "lat": 42.63333,
+    "lng": 25.8
+  },
+  {
+    "name": "Nikki",
+    "country": "BJ",
+    "lat": 9.94009,
+    "lng": 3.21075
+  },
+  {
+    "name": "Niterói",
+    "country": "BR",
+    "lat": -22.88333,
+    "lng": -43.10361
+  },
+  {
+    "name": "Niquelândia",
+    "country": "BR",
+    "lat": -14.47389,
+    "lng": -48.45972
+  },
+  {
+    "name": "Nipoã",
+    "country": "BR",
+    "lat": -20.91333,
+    "lng": -49.77778
+  },
+  {
+    "name": "Nioaque",
+    "country": "BR",
+    "lat": -21.13528,
+    "lng": -55.83
+  },
+  {
+    "name": "Nilópolis",
+    "country": "BR",
+    "lat": -22.8075,
+    "lng": -43.41389
+  },
+  {
+    "name": "Nilo Peçanha",
+    "country": "BR",
+    "lat": -13.59944,
+    "lng": -39.10694
+  },
+  {
+    "name": "Nicolau Vergueiro",
+    "country": "BR",
+    "lat": -28.53583,
+    "lng": -52.46417
+  },
+  {
+    "name": "Nina Rodrigues",
+    "country": "BR",
+    "lat": -3.46611,
+    "lng": -43.905
+  },
+  {
+    "name": "Ninheira",
+    "country": "BR",
+    "lat": -15.32111,
+    "lng": -41.75361
+  },
+  {
+    "name": "Niagara Falls",
+    "country": "CA",
+    "lat": 43.10012,
+    "lng": -79.06627
+  },
+  {
+    "name": "Niagara-on-the-Lake",
+    "country": "CA",
+    "lat": 43.25655,
+    "lng": -79.08527
+  },
+  {
+    "name": "Nicolet",
+    "country": "CA",
+    "lat": 46.23085,
+    "lng": -72.61292
+  },
+  {
+    "name": "Nipawin",
+    "country": "CA",
+    "lat": 53.36678,
+    "lng": -104.00092
+  },
+  {
+    "name": "Nipigon",
+    "country": "CA",
+    "lat": 49.01681,
+    "lng": -88.26673
+  },
+  {
+    "name": "Niverville",
+    "country": "CA",
+    "lat": 49.60559,
+    "lng": -97.04234
+  },
+  {
+    "name": "Niagara",
+    "country": "CA",
+    "lat": 43.64455,
+    "lng": -79.40712
+  },
+  {
+    "name": "Nioki",
+    "country": "CD",
+    "lat": -2.72037,
+    "lng": 17.69001
+  },
+  {
+    "name": "Niederurnen",
+    "country": "CH",
+    "lat": 47.12598,
+    "lng": 9.05428
+  },
+  {
+    "name": "Niederrohrdorf",
+    "country": "CH",
+    "lat": 47.42409,
+    "lng": 8.30404
+  },
+  {
+    "name": "Niederlenz",
+    "country": "CH",
+    "lat": 47.40079,
+    "lng": 8.1764
+  },
+  {
+    "name": "Niederhelfenschwil",
+    "country": "CH",
+    "lat": 47.47487,
+    "lng": 9.18543
+  },
+  {
+    "name": "Niedergösgen",
+    "country": "CH",
+    "lat": 47.37157,
+    "lng": 7.98837
+  },
+  {
+    "name": "Niederbüren",
+    "country": "CH",
+    "lat": 47.46547,
+    "lng": 9.20568
+  },
+  {
+    "name": "Niederbipp",
+    "country": "CH",
+    "lat": 47.27175,
+    "lng": 7.69583
+  },
+  {
+    "name": "Nidau",
+    "country": "CH",
+    "lat": 47.12545,
+    "lng": 7.24033
+  },
+  {
+    "name": "Niederglatt / Niederglatt (Dorfkern)",
+    "country": "CH",
+    "lat": 47.49065,
+    "lng": 8.50048
+  },
+  {
+    "name": "Niederhasli",
+    "country": "CH",
+    "lat": 47.48012,
+    "lng": 8.48576
+  },
+  {
+    "name": "Niederglatt",
+    "country": "CH",
+    "lat": 47.49066,
+    "lng": 8.49987
+  },
+  {
+    "name": "Niedermuhlern",
+    "country": "CH",
+    "lat": 46.85846,
+    "lng": 7.46663
+  },
+  {
+    "name": "Niokosso",
+    "country": "CI",
+    "lat": 8.68795,
+    "lng": -7.67069
+  },
+  {
+    "name": "Nimé",
+    "country": "CI",
+    "lat": 6.76015,
+    "lng": -6.89336
+  },
+  {
+    "name": "Niédiékaha",
+    "country": "CI",
+    "lat": 8.9337,
+    "lng": -5.17636
+  },
+  {
+    "name": "Niouldé",
+    "country": "CI",
+    "lat": 6.55196,
+    "lng": -7.69047
+  },
+  {
+    "name": "Niougoni",
+    "country": "CI",
+    "lat": 10.54202,
+    "lng": -6.4224
+  },
+  {
+    "name": "Niouboua",
+    "country": "CI",
+    "lat": 6.70075,
+    "lng": -6.43672
+  },
+  {
+    "name": "Niofoin",
+    "country": "CI",
+    "lat": 9.615,
+    "lng": -6.07778
+  },
+  {
+    "name": "Nioboguhé",
+    "country": "CI",
+    "lat": 6.58109,
+    "lng": -6.61395
+  },
+  {
+    "name": "Ninioro",
+    "country": "CI",
+    "lat": 10.06057,
+    "lng": -6.5318
+  },
+  {
+    "name": "Niniféroua",
+    "country": "CI",
+    "lat": 5.78202,
+    "lng": -6.44184
+  },
+  {
+    "name": "Ninakiri",
+    "country": "CI",
+    "lat": 8.17916,
+    "lng": -5.79923
+  },
+  {
+    "name": "Nimpleu I",
+    "country": "CI",
+    "lat": 7.47162,
+    "lng": -8.09281
+  },
+  {
+    "name": "Nimbiasso",
+    "country": "CI",
+    "lat": 9.96667,
+    "lng": -6.43333
+  },
+  {
+    "name": "Nikolo",
+    "country": "CI",
+    "lat": 8.19677,
+    "lng": -5.07084
+  },
+  {
+    "name": "Nigui Saff",
+    "country": "CI",
+    "lat": 5.2475,
+    "lng": -4.61528
+  },
+  {
+    "name": "Nigui Nanon",
+    "country": "CI",
+    "lat": 5.28087,
+    "lng": -4.61276
+  },
+  {
+    "name": "Nigui Assoko",
+    "country": "CI",
+    "lat": 5.26692,
+    "lng": -4.59111
+  },
+  {
+    "name": "Nigré",
+    "country": "CI",
+    "lat": 5.62033,
+    "lng": -7.3578
+  },
+  {
+    "name": "Nigbaoa",
+    "country": "CI",
+    "lat": 6.06684,
+    "lng": -6.3286
+  },
+  {
+    "name": "Niendélé-Ségbéré",
+    "country": "CI",
+    "lat": 8.59645,
+    "lng": -4.57852
+  },
+  {
+    "name": "Niempurgué",
+    "country": "CI",
+    "lat": 9.21667,
+    "lng": -6.55
+  },
+  {
+    "name": "Niéméné",
+    "country": "CI",
+    "lat": 8.45702,
+    "lng": -4.68838
+  },
+  {
+    "name": "Niellé",
+    "country": "CI",
+    "lat": 10.19814,
+    "lng": -5.62337
+  },
+  {
+    "name": "Niégrouboué",
+    "country": "CI",
+    "lat": 5.41386,
+    "lng": -5.9
+  },
+  {
+    "name": "Nidrou",
+    "country": "CI",
+    "lat": 6.90202,
+    "lng": -7.18141
+  },
+  {
+    "name": "Niazaroko",
+    "country": "CI",
+    "lat": 5.78517,
+    "lng": -5.56075
+  },
+  {
+    "name": "Niatiahio",
+    "country": "CI",
+    "lat": 6.37592,
+    "lng": -6.27602
+  },
+  {
+    "name": "Niaprahio",
+    "country": "CI",
+    "lat": 6.22031,
+    "lng": -6.14572
+  },
+  {
+    "name": "Niapoyo",
+    "country": "CI",
+    "lat": 5.8796,
+    "lng": -6.30057
+  },
+  {
+    "name": "Niapidou",
+    "country": "CI",
+    "lat": 5.34849,
+    "lng": -6.05601
+  },
+  {
+    "name": "Nianoufla",
+    "country": "CI",
+    "lat": 7.34658,
+    "lng": -6.18
+  },
+  {
+    "name": "Niani",
+    "country": "CI",
+    "lat": 4.98088,
+    "lng": -6.06874
+  },
+  {
+    "name": "Niangourougbono",
+    "country": "CI",
+    "lat": 8.66614,
+    "lng": -4.66309
+  },
+  {
+    "name": "Niangomani",
+    "country": "CI",
+    "lat": 8.28424,
+    "lng": -3.07011
+  },
+  {
+    "name": "Niandian",
+    "country": "CI",
+    "lat": 6.60474,
+    "lng": -4.29964
+  },
+  {
+    "name": "Nianda",
+    "country": "CI",
+    "lat": 5.53725,
+    "lng": -4.89162
+  },
+  {
+    "name": "Niamoué",
+    "country": "CI",
+    "lat": 9.6112,
+    "lng": -3.44
+  },
+  {
+    "name": "Niamoué",
+    "country": "CI",
+    "lat": 5.87925,
+    "lng": -4.82481
+  },
+  {
+    "name": "Niamotou",
+    "country": "CI",
+    "lat": 8.8314,
+    "lng": -7.53436
+  },
+  {
+    "name": "Niambli",
+    "country": "CI",
+    "lat": 6.74357,
+    "lng": -7.28827
+  },
+  {
+    "name": "Niamayo",
+    "country": "CI",
+    "lat": 6.64823,
+    "lng": -6.18812
+  },
+  {
+    "name": "Niamandougou",
+    "country": "CI",
+    "lat": 8.86908,
+    "lng": -7.73935
+  },
+  {
+    "name": "Niamana",
+    "country": "CI",
+    "lat": 9.58889,
+    "lng": -7.88501
+  },
+  {
+    "name": "Niamabo",
+    "country": "CI",
+    "lat": 5.28162,
+    "lng": -4.59337
+  },
+  {
+    "name": "Nialépa",
+    "country": "CI",
+    "lat": 6.2831,
+    "lng": -5.94379
+  },
+  {
+    "name": "Niakoblonyoa",
+    "country": "CI",
+    "lat": 5.71802,
+    "lng": -5.96702
+  },
+  {
+    "name": "Niakaramandougou",
+    "country": "CI",
+    "lat": 8.65759,
+    "lng": -5.29109
+  },
+  {
+    "name": "Niagalilié",
+    "country": "CI",
+    "lat": 5.80458,
+    "lng": -5.52672
+  },
+  {
+    "name": "Niablé",
+    "country": "CI",
+    "lat": 6.66129,
+    "lng": -3.26984
+  },
+  {
+    "name": "Nionlé Gouépleu",
+    "country": "CI",
+    "lat": 7.16147,
+    "lng": -7.79018
+  },
+  {
+    "name": "Niakio",
+    "country": "CI",
+    "lat": 6.53175,
+    "lng": -6.31622
+  },
+  {
+    "name": "Niamanzra",
+    "country": "CI",
+    "lat": 5.88519,
+    "lng": -4.62386
+  },
+  {
+    "name": "Nizahon II",
+    "country": "CI",
+    "lat": 6.37222,
+    "lng": -7.39891
+  },
+  {
+    "name": "Nionlé Kpampleu",
+    "country": "CI",
+    "lat": 7.15479,
+    "lng": -7.77811
+  },
+  {
+    "name": "Niplou",
+    "country": "CI",
+    "lat": 4.79735,
+    "lng": -7.3942
+  },
+  {
+    "name": "Niabably Pk",
+    "country": "CI",
+    "lat": 5.0725,
+    "lng": -6.07504
+  },
+  {
+    "name": "Niorouhio",
+    "country": "CI",
+    "lat": 5.76837,
+    "lng": -6.12006
+  },
+  {
+    "name": "Ninguié",
+    "country": "CI",
+    "lat": 5.48893,
+    "lng": -3.13641
+  },
+  {
+    "name": "Nioupinbéniékro",
+    "country": "CI",
+    "lat": 6.13178,
+    "lng": -3.33857
+  },
+  {
+    "name": "Niamienlessa",
+    "country": "CI",
+    "lat": 5.46312,
+    "lng": -2.83663
+  },
+  {
+    "name": "Niahirio",
+    "country": "CI",
+    "lat": 5.89957,
+    "lng": -5.95011
+  },
+  {
+    "name": "Niamkey",
+    "country": "CI",
+    "lat": 6.53821,
+    "lng": -5.22704
+  },
+  {
+    "name": "Niplé",
+    "country": "CI",
+    "lat": 9.48706,
+    "lng": -5.86138
+  },
+  {
+    "name": "Niambrun",
+    "country": "CI",
+    "lat": 7.6202,
+    "lng": -5.56857
+  },
+  {
+    "name": "Niangourala-Tiéné",
+    "country": "CI",
+    "lat": 8.26534,
+    "lng": -5.82049
+  },
+  {
+    "name": "Niongonon",
+    "country": "CI",
+    "lat": 8.20785,
+    "lng": -6.66585
+  },
+  {
+    "name": "Niya",
+    "country": "CN",
+    "lat": 37.06543,
+    "lng": 82.68041
+  },
+  {
+    "name": "Nilka",
+    "country": "CN",
+    "lat": 43.78894,
+    "lng": 82.49599
+  },
+  {
+    "name": "Nianzhuang",
+    "country": "CN",
+    "lat": 34.29722,
+    "lng": 117.77222
+  },
+  {
+    "name": "Nima",
+    "country": "CN",
+    "lat": 34.00065,
+    "lng": 102.07127
+  },
+  {
+    "name": "Ningxiang",
+    "country": "CN",
+    "lat": 37.34,
+    "lng": 111.20523
+  },
+  {
+    "name": "Ning’an",
+    "country": "CN",
+    "lat": 37.49753,
+    "lng": 105.6765
+  },
+  {
+    "name": "Niyang",
+    "country": "CN",
+    "lat": 33.81944,
+    "lng": 105.82139
+  },
+  {
+    "name": "Niushan",
+    "country": "CN",
+    "lat": 34.52352,
+    "lng": 118.76495
+  },
+  {
+    "name": "Niujiapai",
+    "country": "CN",
+    "lat": 39.52222,
+    "lng": 117.28944
+  },
+  {
+    "name": "Niudaokou",
+    "country": "CN",
+    "lat": 39.78611,
+    "lng": 117.25222
+  },
+  {
+    "name": "Ningzhou",
+    "country": "CN",
+    "lat": 24.1877,
+    "lng": 102.917
+  },
+  {
+    "name": "Ningyang",
+    "country": "CN",
+    "lat": 35.76417,
+    "lng": 116.79139
+  },
+  {
+    "name": "Ningling Chengguanzhen",
+    "country": "CN",
+    "lat": 34.45,
+    "lng": 115.31667
+  },
+  {
+    "name": "Ningjin",
+    "country": "CN",
+    "lat": 36.9863,
+    "lng": 122.502
+  },
+  {
+    "name": "Ningjin",
+    "country": "CN",
+    "lat": 37.62678,
+    "lng": 116.79655
+  },
+  {
+    "name": "Ninghe",
+    "country": "CN",
+    "lat": 39.46194,
+    "lng": 117.7625
+  },
+  {
+    "name": "Ninghai",
+    "country": "CN",
+    "lat": 37.38422,
+    "lng": 121.60859
+  },
+  {
+    "name": "Ninghai",
+    "country": "CN",
+    "lat": 29.28917,
+    "lng": 121.42472
+  },
+  {
+    "name": "Ning’er",
+    "country": "CN",
+    "lat": 23.04053,
+    "lng": 101.03683
+  },
+  {
+    "name": "Ningchegu",
+    "country": "CN",
+    "lat": 39.15889,
+    "lng": 117.6625
+  },
+  {
+    "name": "Ningbo",
+    "country": "CN",
+    "lat": 29.87819,
+    "lng": 121.54945
+  },
+  {
+    "name": "Niangxi",
+    "country": "CN",
+    "lat": 27.30856,
+    "lng": 111.43186
+  },
+  {
+    "name": "Nianbo",
+    "country": "CN",
+    "lat": 36.48,
+    "lng": 102.41639
+  },
+  {
+    "name": "Ningshan Chengguanzhen",
+    "country": "CN",
+    "lat": 33.33153,
+    "lng": 108.30685
+  },
+  {
+    "name": "Ningde",
+    "country": "CN",
+    "lat": 26.66167,
+    "lng": 119.52278
+  },
+  {
+    "name": "Ningchang",
+    "country": "CN",
+    "lat": 31.48208,
+    "lng": 109.64029
+  },
+  {
+    "name": "Ninghua",
+    "country": "CN",
+    "lat": 26.26667,
+    "lng": 116.65024
+  },
+  {
+    "name": "Ning’an",
+    "country": "CN",
+    "lat": 44.33811,
+    "lng": 129.47429
+  },
+  {
+    "name": "Nianzishan",
+    "country": "CN",
+    "lat": 47.51344,
+    "lng": 122.88788
+  },
+  {
+    "name": "Niulanwo",
+    "country": "CN",
+    "lat": 22.63379,
+    "lng": 113.95311
+  },
+  {
+    "name": "Niba",
+    "country": "CN",
+    "lat": 34.45774,
+    "lng": 103.08458
+  },
+  {
+    "name": "Nianba",
+    "country": "CN",
+    "lat": 33.30637,
+    "lng": 105.46936
+  },
+  {
+    "name": "Ni’ao",
+    "country": "CN",
+    "lat": 33.96083,
+    "lng": 103.55052
+  },
+  {
+    "name": "Ningnan",
+    "country": "CN",
+    "lat": 31.98504,
+    "lng": 118.78147
+  },
+  {
+    "name": "Nierong",
+    "country": "CN",
+    "lat": 32.11002,
+    "lng": 92.30314
+  },
+  {
+    "name": "Ningdong",
+    "country": "CN",
+    "lat": 38.16143,
+    "lng": 106.58502
+  },
+  {
+    "name": "Ningjiang",
+    "country": "CN",
+    "lat": 45.16997,
+    "lng": 124.82369
+  },
+  {
+    "name": "Niuwan",
+    "country": "CN",
+    "lat": 22.5805,
+    "lng": 113.85399
+  },
+  {
+    "name": "Nimaima",
+    "country": "CO",
+    "lat": 5.12614,
+    "lng": -74.38495
+  },
+  {
+    "name": "Nilo",
+    "country": "CO",
+    "lat": 4.30604,
+    "lng": -74.62083
+  },
+  {
+    "name": "Nicoya",
+    "country": "CR",
+    "lat": 10.15038,
+    "lng": -85.45093
+  },
+  {
+    "name": "Niquero",
+    "country": "CU",
+    "lat": 20.04698,
+    "lng": -77.58089
+  },
+  {
+    "name": "Nicosia",
+    "country": "CY",
+    "lat": 35.17284,
+    "lng": 33.35397
+  },
+  {
+    "name": "Nižbor",
+    "country": "CZ",
+    "lat": 49.99995,
+    "lng": 14.00237
+  },
+  {
+    "name": "Nivnice",
+    "country": "CZ",
+    "lat": 48.97465,
+    "lng": 17.64757
+  },
+  {
+    "name": "Nittendorf",
+    "country": "DE",
+    "lat": 49.02459,
+    "lng": 11.96126
+  },
+  {
+    "name": "Nittenau",
+    "country": "DE",
+    "lat": 49.19425,
+    "lng": 12.26741
+  },
+  {
+    "name": "Nittel",
+    "country": "DE",
+    "lat": 49.65,
+    "lng": 6.45
+  },
+  {
+    "name": "Nister",
+    "country": "DE",
+    "lat": 50.67583,
+    "lng": 7.83833
+  },
+  {
+    "name": "Nippes",
+    "country": "DE",
+    "lat": 50.96545,
+    "lng": 6.95314
+  },
+  {
+    "name": "Nindorf",
+    "country": "DE",
+    "lat": 54.08723,
+    "lng": 9.11948
+  },
+  {
+    "name": "Nikolassee",
+    "country": "DE",
+    "lat": 52.4227,
+    "lng": 13.18508
+  },
+  {
+    "name": "Niesky",
+    "country": "DE",
+    "lat": 51.29241,
+    "lng": 14.82107
+  },
+  {
+    "name": "Nierstein",
+    "country": "DE",
+    "lat": 49.87003,
+    "lng": 8.33647
+  },
+  {
+    "name": "Niepars",
+    "country": "DE",
+    "lat": 54.31447,
+    "lng": 12.92447
+  },
+  {
+    "name": "Nienstedten",
+    "country": "DE",
+    "lat": 53.55556,
+    "lng": 9.84464
+  },
+  {
+    "name": "Nienstädt",
+    "country": "DE",
+    "lat": 52.29242,
+    "lng": 9.1644
+  },
+  {
+    "name": "Nienhagen",
+    "country": "DE",
+    "lat": 54.14869,
+    "lng": 12.17434
+  },
+  {
+    "name": "Niendorf",
+    "country": "DE",
+    "lat": 53.61769,
+    "lng": 9.95032
+  },
+  {
+    "name": "Nienburg",
+    "country": "DE",
+    "lat": 52.6461,
+    "lng": 9.22086
+  },
+  {
+    "name": "Nienburg/Saale",
+    "country": "DE",
+    "lat": 51.83747,
+    "lng": 11.76979
+  },
+  {
+    "name": "Niemegk",
+    "country": "DE",
+    "lat": 52.07388,
+    "lng": 12.68947
+  },
+  {
+    "name": "Niemberg",
+    "country": "DE",
+    "lat": 51.55035,
+    "lng": 12.09089
+  },
+  {
+    "name": "Nieheim",
+    "country": "DE",
+    "lat": 51.80499,
+    "lng": 9.11302
+  },
+  {
+    "name": "Niederzissen",
+    "country": "DE",
+    "lat": 50.45876,
+    "lng": 7.2181
+  },
+  {
+    "name": "Niederzimmern",
+    "country": "DE",
+    "lat": 51.00476,
+    "lng": 11.19028
+  },
+  {
+    "name": "Niederzier",
+    "country": "DE",
+    "lat": 50.88333,
+    "lng": 6.46667
+  },
+  {
+    "name": "Niederwinkling",
+    "country": "DE",
+    "lat": 48.88333,
+    "lng": 12.8
+  },
+  {
+    "name": "Niederwiesa",
+    "country": "DE",
+    "lat": 50.86667,
+    "lng": 13.01667
+  },
+  {
+    "name": "Niederwerth",
+    "country": "DE",
+    "lat": 50.4,
+    "lng": 7.61667
+  },
+  {
+    "name": "Niederwerrn",
+    "country": "DE",
+    "lat": 50.06149,
+    "lng": 10.1827
+  },
+  {
+    "name": "Niederwangen",
+    "country": "DE",
+    "lat": 47.67192,
+    "lng": 9.7988
+  },
+  {
+    "name": "Niederviehbach",
+    "country": "DE",
+    "lat": 48.61667,
+    "lng": 12.38333
+  },
+  {
+    "name": "Niedertaufkirchen",
+    "country": "DE",
+    "lat": 48.33333,
+    "lng": 12.55
+  },
+  {
+    "name": "Niederstriegis",
+    "country": "DE",
+    "lat": 51.08243,
+    "lng": 13.14925
+  },
+  {
+    "name": "Niederstotzingen",
+    "country": "DE",
+    "lat": 48.54127,
+    "lng": 10.23505
+  },
+  {
+    "name": "Niederstetten",
+    "country": "DE",
+    "lat": 49.4,
+    "lng": 9.91944
+  },
+  {
+    "name": "Niederschönhausen",
+    "country": "DE",
+    "lat": 52.58483,
+    "lng": 13.40272
+  },
+  {
+    "name": "Niederschöneweide",
+    "country": "DE",
+    "lat": 52.45564,
+    "lng": 13.51554
+  },
+  {
+    "name": "Niederschönenfeld",
+    "country": "DE",
+    "lat": 48.71667,
+    "lng": 10.93333
+  },
+  {
+    "name": "Niederschöna",
+    "country": "DE",
+    "lat": 50.96671,
+    "lng": 13.4191
+  },
+  {
+    "name": "Niedersachswerfen",
+    "country": "DE",
+    "lat": 51.55062,
+    "lng": 10.76594
+  },
+  {
+    "name": "Niederroßla",
+    "country": "DE",
+    "lat": 51.03333,
+    "lng": 11.48333
+  },
+  {
+    "name": "Niederrieden",
+    "country": "DE",
+    "lat": 48.0576,
+    "lng": 10.18321
+  },
+  {
+    "name": "Niederorschel",
+    "country": "DE",
+    "lat": 51.37222,
+    "lng": 10.42372
+  },
+  {
+    "name": "Nieder-Olm",
+    "country": "DE",
+    "lat": 49.91166,
+    "lng": 8.20533
+  },
+  {
+    "name": "Niedernwöhren",
+    "country": "DE",
+    "lat": 52.35214,
+    "lng": 9.14788
+  },
+  {
+    "name": "Niedernhausen",
+    "country": "DE",
+    "lat": 50.16307,
+    "lng": 8.31338
+  },
+  {
+    "name": "Niedernhall",
+    "country": "DE",
+    "lat": 49.29516,
+    "lng": 9.61604
+  },
+  {
+    "name": "Niederneisen",
+    "country": "DE",
+    "lat": 50.33333,
+    "lng": 8.05
+  },
+  {
+    "name": "Niederndodeleben",
+    "country": "DE",
+    "lat": 52.13416,
+    "lng": 11.50085
+  },
+  {
+    "name": "Niedernberg",
+    "country": "DE",
+    "lat": 49.91222,
+    "lng": 9.13694
+  },
+  {
+    "name": "Niedermurach",
+    "country": "DE",
+    "lat": 49.44999,
+    "lng": 12.3761
+  },
+  {
+    "name": "Niedermohr",
+    "country": "DE",
+    "lat": 49.45899,
+    "lng": 7.46955
+  },
+  {
+    "name": "Niedermerz",
+    "country": "DE",
+    "lat": 50.88151,
+    "lng": 6.26651
+  },
+  {
+    "name": "Niederlauer",
+    "country": "DE",
+    "lat": 50.29411,
+    "lng": 10.17712
+  },
+  {
+    "name": "Niederlangen",
+    "country": "DE",
+    "lat": 52.85712,
+    "lng": 7.28199
+  },
+  {
+    "name": "Niederkrüchten",
+    "country": "DE",
+    "lat": 51.2,
+    "lng": 6.21667
+  },
+  {
+    "name": "Niederklein",
+    "country": "DE",
+    "lat": 50.794,
+    "lng": 8.99694
+  },
+  {
+    "name": "Niederkirchen bei Deidesheim",
+    "country": "DE",
+    "lat": 49.415,
+    "lng": 8.21
+  },
+  {
+    "name": "Niederkirchen",
+    "country": "DE",
+    "lat": 49.58333,
+    "lng": 7.7
+  },
+  {
+    "name": "Niederkassel",
+    "country": "DE",
+    "lat": 50.81503,
+    "lng": 7.03777
+  },
+  {
+    "name": "Nieder-Ingelheim",
+    "country": "DE",
+    "lat": 49.97756,
+    "lng": 8.07246
+  },
+  {
+    "name": "Nieder-Gründau",
+    "country": "DE",
+    "lat": 50.21097,
+    "lng": 9.10801
+  },
+  {
+    "name": "Niedergörsdorf",
+    "country": "DE",
+    "lat": 51.97943,
+    "lng": 12.98541
+  },
+  {
+    "name": "Niederfüllbach",
+    "country": "DE",
+    "lat": 50.22002,
+    "lng": 10.99086
+  },
+  {
+    "name": "Niederfrohna",
+    "country": "DE",
+    "lat": 50.9,
+    "lng": 12.71667
+  },
+  {
+    "name": "Nieder-Florstadt",
+    "country": "DE",
+    "lat": 50.3162,
+    "lng": 8.86166
+  },
+  {
+    "name": "Niederfischbach",
+    "country": "DE",
+    "lat": 50.85,
+    "lng": 7.86667
+  },
+  {
+    "name": "Niederfell",
+    "country": "DE",
+    "lat": 50.28333,
+    "lng": 7.46667
+  },
+  {
+    "name": "Niedereschach",
+    "country": "DE",
+    "lat": 48.13333,
+    "lng": 8.53333
+  },
+  {
+    "name": "Niedererbach",
+    "country": "DE",
+    "lat": 50.4261,
+    "lng": 7.97425
+  },
+  {
+    "name": "Niederelbert",
+    "country": "DE",
+    "lat": 50.40775,
+    "lng": 7.8099
+  },
+  {
+    "name": "Niederdürenbach",
+    "country": "DE",
+    "lat": 50.45,
+    "lng": 7.18333
+  },
+  {
+    "name": "Niederdreisbach",
+    "country": "DE",
+    "lat": 50.74955,
+    "lng": 7.92352
+  },
+  {
+    "name": "Niederdorla",
+    "country": "DE",
+    "lat": 51.16025,
+    "lng": 10.4482
+  },
+  {
+    "name": "Niederdorfelden",
+    "country": "DE",
+    "lat": 50.19415,
+    "lng": 8.80005
+  },
+  {
+    "name": "Niederdorf",
+    "country": "DE",
+    "lat": 50.72623,
+    "lng": 12.78587
+  },
+  {
+    "name": "Niedercunnersdorf",
+    "country": "DE",
+    "lat": 51.05398,
+    "lng": 14.6583
+  },
+  {
+    "name": "Niederbreitbach",
+    "country": "DE",
+    "lat": 50.53051,
+    "lng": 7.42099
+  },
+  {
+    "name": "Niederbiel",
+    "country": "DE",
+    "lat": 50.55505,
+    "lng": 8.39845
+  },
+  {
+    "name": "Niederbergkirchen",
+    "country": "DE",
+    "lat": 48.31667,
+    "lng": 12.5
+  },
+  {
+    "name": "Niederbachem",
+    "country": "DE",
+    "lat": 50.64554,
+    "lng": 7.17986
+  },
+  {
+    "name": "Niederaula",
+    "country": "DE",
+    "lat": 50.8,
+    "lng": 9.6
+  },
+  {
+    "name": "Niederau",
+    "country": "DE",
+    "lat": 51.1773,
+    "lng": 13.54563
+  },
+  {
+    "name": "Niederalteich",
+    "country": "DE",
+    "lat": 48.76564,
+    "lng": 13.02412
+  },
+  {
+    "name": "Niederaichbach",
+    "country": "DE",
+    "lat": 48.6,
+    "lng": 12.31667
+  },
+  {
+    "name": "Niedenstein",
+    "country": "DE",
+    "lat": 51.23342,
+    "lng": 9.31029
+  },
+  {
+    "name": "Niebüll",
+    "country": "DE",
+    "lat": 54.78663,
+    "lng": 8.82854
+  },
+  {
+    "name": "Nideggen",
+    "country": "DE",
+    "lat": 50.69268,
+    "lng": 6.48437
+  },
+  {
+    "name": "Nidderau",
+    "country": "DE",
+    "lat": 50.23805,
+    "lng": 8.86704
+  },
+  {
+    "name": "Nidda",
+    "country": "DE",
+    "lat": 50.4133,
+    "lng": 9.00638
+  },
+  {
+    "name": "Nickenich",
+    "country": "DE",
+    "lat": 50.41421,
+    "lng": 7.32728
+  },
+  {
+    "name": "Niefern-Öschelbronn",
+    "country": "DE",
+    "lat": 48.91667,
+    "lng": 8.78333
+  },
+  {
+    "name": "Niederrad",
+    "country": "DE",
+    "lat": 50.08309,
+    "lng": 8.62852
+  },
+  {
+    "name": "Nivå",
+    "country": "DK",
+    "lat": 55.93405,
+    "lng": 12.50485
+  },
+  {
+    "name": "Nibe",
+    "country": "DK",
+    "lat": 56.9815,
+    "lng": 9.63917
+  },
+  {
+    "name": "Nizao",
+    "country": "DO",
+    "lat": 18.24697,
+    "lng": -70.21053
+  },
+  {
+    "name": "Nigüelas",
+    "country": "ES",
+    "lat": 36.9776,
+    "lng": -3.53949
+  },
+  {
+    "name": "Niebla",
+    "country": "ES",
+    "lat": 37.36213,
+    "lng": -6.67894
+  },
+  {
+    "name": "Niharra",
+    "country": "ES",
+    "lat": 40.58945,
+    "lng": -4.83895
+  },
+  {
+    "name": "Nigüella",
+    "country": "ES",
+    "lat": 41.53621,
+    "lng": -1.5245
+  },
+  {
+    "name": "Nigrán",
+    "country": "ES",
+    "lat": 42.14153,
+    "lng": -8.80656
+  },
+  {
+    "name": "Nieva de Cameros",
+    "country": "ES",
+    "lat": 42.21835,
+    "lng": -2.667
+  },
+  {
+    "name": "Nieva",
+    "country": "ES",
+    "lat": 41.08191,
+    "lng": -4.42501
+  },
+  {
+    "name": "Niño Jesús",
+    "country": "ES",
+    "lat": 40.41161,
+    "lng": -3.67343
+  },
+  {
+    "name": "Nivala",
+    "country": "FI",
+    "lat": 63.91667,
+    "lng": 24.96667
+  },
+  {
+    "name": "Nilsiä",
+    "country": "FI",
+    "lat": 63.20746,
+    "lng": 28.08222
+  },
+  {
+    "name": "Nickby",
+    "country": "FI",
+    "lat": 60.38333,
+    "lng": 25.28333
+  },
+  {
+    "name": "Nivavaara",
+    "country": "FI",
+    "lat": 66.53333,
+    "lng": 25.83333
+  },
+  {
+    "name": "Niittykumpu",
+    "country": "FI",
+    "lat": 60.17093,
+    "lng": 24.76421
+  },
+  {
+    "name": "Niipperi",
+    "country": "FI",
+    "lat": 60.28647,
+    "lng": 24.73967
+  },
+  {
+    "name": "Nikinmäki",
+    "country": "FI",
+    "lat": 60.34071,
+    "lng": 25.13878
+  },
+  {
+    "name": "Niemi",
+    "country": "FI",
+    "lat": 61.5272,
+    "lng": 23.68841
+  },
+  {
+    "name": "Niemenmäki",
+    "country": "FI",
+    "lat": 60.204,
+    "lng": 24.88481
+  },
+  {
+    "name": "Niemenranta",
+    "country": "FI",
+    "lat": 61.5217,
+    "lng": 23.68926
+  },
+  {
+    "name": "Nivolas-Vermelle",
+    "country": "FR",
+    "lat": 45.55885,
+    "lng": 5.30578
+  },
+  {
+    "name": "Nivillac",
+    "country": "FR",
+    "lat": 47.53455,
+    "lng": -2.28326
+  },
+  {
+    "name": "Nissan-lez-Enserune",
+    "country": "FR",
+    "lat": 43.28839,
+    "lng": 3.128
+  },
+  {
+    "name": "Niort",
+    "country": "FR",
+    "lat": 46.32313,
+    "lng": -0.45877
+  },
+  {
+    "name": "Nilvange",
+    "country": "FR",
+    "lat": 49.34224,
+    "lng": 6.04964
+  },
+  {
+    "name": "Niherne",
+    "country": "FR",
+    "lat": 46.82768,
+    "lng": 1.56384
+  },
+  {
+    "name": "Niévroz",
+    "country": "FR",
+    "lat": 45.82576,
+    "lng": 5.06108
+  },
+  {
+    "name": "Nieul-sur-Mer",
+    "country": "FR",
+    "lat": 46.20378,
+    "lng": -1.1678
+  },
+  {
+    "name": "Nieul-lès-Saintes",
+    "country": "FR",
+    "lat": 45.76041,
+    "lng": -0.73215
+  },
+  {
+    "name": "Nieul-le-Dolent",
+    "country": "FR",
+    "lat": 46.57482,
+    "lng": -1.50975
+  },
+  {
+    "name": "Nieul",
+    "country": "FR",
+    "lat": 45.92668,
+    "lng": 1.17494
+  },
+  {
+    "name": "Nieppe",
+    "country": "FR",
+    "lat": 50.70425,
+    "lng": 2.83506
+  },
+  {
+    "name": "Niederschaeffolsheim",
+    "country": "FR",
+    "lat": 48.77241,
+    "lng": 7.73862
+  },
+  {
+    "name": "Niedernai",
+    "country": "FR",
+    "lat": 48.45101,
+    "lng": 7.51635
+  },
+  {
+    "name": "Niederhausbergen",
+    "country": "FR",
+    "lat": 48.624,
+    "lng": 7.7021
+  },
+  {
+    "name": "Niederhaslach",
+    "country": "FR",
+    "lat": 48.54264,
+    "lng": 7.34282
+  },
+  {
+    "name": "Niederbronn-les-Bains",
+    "country": "FR",
+    "lat": 48.95165,
+    "lng": 7.64271
+  },
+  {
+    "name": "Niderviller",
+    "country": "FR",
+    "lat": 48.71294,
+    "lng": 7.10627
+  },
+  {
+    "name": "Nice",
+    "country": "FR",
+    "lat": 43.70313,
+    "lng": 7.26608
+  },
+  {
+    "name": "Niton",
+    "country": "GB",
+    "lat": 50.58702,
+    "lng": -1.28489
+  },
+  {
+    "name": "Ninfield",
+    "country": "GB",
+    "lat": 50.88641,
+    "lng": 0.42529
+  },
+  {
+    "name": "Ninotsminda",
+    "country": "GE",
+    "lat": 41.26697,
+    "lng": 43.58959
+  },
+  {
+    "name": "Nioro",
+    "country": "GM",
+    "lat": 13.35,
+    "lng": -15.75
+  },
+  {
+    "name": "Niandan Koro",
+    "country": "GN",
+    "lat": 11.08333,
+    "lng": -9.25
+  },
+  {
+    "name": "Nisí",
+    "country": "GR",
+    "lat": 40.6361,
+    "lng": 22.38884
+  },
+  {
+    "name": "Nikísiani",
+    "country": "GR",
+    "lat": 40.94739,
+    "lng": 24.14311
+  },
+  {
+    "name": "Nigríta",
+    "country": "GR",
+    "lat": 40.90528,
+    "lng": 23.49944
+  },
+  {
+    "name": "Nijemci",
+    "country": "HR",
+    "lat": 45.14028,
+    "lng": 19.03556
+  },
+  {
+    "name": "Nin",
+    "country": "HR",
+    "lat": 44.24139,
+    "lng": 15.17833
+  },
+  {
+    "name": "Nipah Panjang",
+    "country": "ID",
+    "lat": -1.07518,
+    "lng": 104.19438
+  },
+  {
+    "name": "Nikiniki",
+    "country": "ID",
+    "lat": -9.81361,
+    "lng": 124.47649
+  },
+  {
+    "name": "Niẕẕané ‘Oz",
+    "country": "IL",
+    "lat": 32.306,
+    "lng": 35.00374
+  },
+  {
+    "name": "Nir Tsevi",
+    "country": "IL",
+    "lat": 31.95291,
+    "lng": 34.86408
+  },
+  {
+    "name": "Nir Gallim",
+    "country": "IL",
+    "lat": 31.82542,
+    "lng": 34.68282
+  },
+  {
+    "name": "Niẕẕan",
+    "country": "IL",
+    "lat": 31.73854,
+    "lng": 34.62985
+  },
+  {
+    "name": "Nili",
+    "country": "IL",
+    "lat": 31.96396,
+    "lng": 35.04853
+  },
+  {
+    "name": "Nizāmpur",
+    "country": "IN",
+    "lat": 21.11277,
+    "lng": 74.33067
+  },
+  {
+    "name": "Nizāmābād",
+    "country": "IN",
+    "lat": 26.05295,
+    "lng": 83.05787
+  },
+  {
+    "name": "Nizāmābād",
+    "country": "IN",
+    "lat": 18.67154,
+    "lng": 78.0988
+  },
+  {
+    "name": "Niwas",
+    "country": "IN",
+    "lat": 23.04574,
+    "lng": 80.44469
+  },
+  {
+    "name": "Niwāri",
+    "country": "IN",
+    "lat": 28.87611,
+    "lng": 77.5382
+  },
+  {
+    "name": "Nirsā",
+    "country": "IN",
+    "lat": 23.78438,
+    "lng": 86.70692
+  },
+  {
+    "name": "Nirmāli",
+    "country": "IN",
+    "lat": 26.31397,
+    "lng": 86.58537
+  },
+  {
+    "name": "Nirmal",
+    "country": "IN",
+    "lat": 19.09685,
+    "lng": 78.34407
+  },
+  {
+    "name": "Nipāni",
+    "country": "IN",
+    "lat": 16.399,
+    "lng": 74.38285
+  },
+  {
+    "name": "Nimāparha",
+    "country": "IN",
+    "lat": 20.05756,
+    "lng": 86.00436
+  },
+  {
+    "name": "Nilanga",
+    "country": "IN",
+    "lat": 18.11675,
+    "lng": 76.75279
+  },
+  {
+    "name": "Nilambūr",
+    "country": "IN",
+    "lat": 11.27271,
+    "lng": 76.22571
+  },
+  {
+    "name": "Nilakottai",
+    "country": "IN",
+    "lat": 10.165,
+    "lng": 77.85024
+  },
+  {
+    "name": "Nilagiri",
+    "country": "IN",
+    "lat": 21.46235,
+    "lng": 86.76794
+  },
+  {
+    "name": "Nihtaur",
+    "country": "IN",
+    "lat": 29.32416,
+    "lng": 78.38724
+  },
+  {
+    "name": "Nidadavole",
+    "country": "IN",
+    "lat": 16.90572,
+    "lng": 81.67222
+  },
+  {
+    "name": "Nichlaul",
+    "country": "IN",
+    "lat": 27.31247,
+    "lng": 83.7253
+  },
+  {
+    "name": "Niwai",
+    "country": "IN",
+    "lat": 26.36073,
+    "lng": 75.91836
+  },
+  {
+    "name": "Nihālpur Simba",
+    "country": "IN",
+    "lat": 32.62361,
+    "lng": 74.78194
+  },
+  {
+    "name": "Nimach",
+    "country": "IN",
+    "lat": 24.45949,
+    "lng": 74.86625
+  },
+  {
+    "name": "Nildoh",
+    "country": "IN",
+    "lat": 21.11075,
+    "lng": 78.98915
+  },
+  {
+    "name": "Nilithi",
+    "country": "IN",
+    "lat": 28.65201,
+    "lng": 77.05644
+  },
+  {
+    "name": "Nivāri",
+    "country": "IN",
+    "lat": 25.34911,
+    "lng": 78.79974
+  },
+  {
+    "name": "Nimbhora Budrukh",
+    "country": "IN",
+    "lat": 21.04863,
+    "lng": 75.8419
+  },
+  {
+    "name": "Nilaiyūr",
+    "country": "IN",
+    "lat": 9.85721,
+    "lng": 78.05976
+  },
+  {
+    "name": "Niz-Bahjani",
+    "country": "IN",
+    "lat": 26.38059,
+    "lng": 91.41588
+  },
+  {
+    "name": "Niz Katigorah Pt III",
+    "country": "IN",
+    "lat": 24.87733,
+    "lng": 92.57003
+  },
+  {
+    "name": "Niz - Mankata",
+    "country": "IN",
+    "lat": 27.46417,
+    "lng": 94.9213
+  },
+  {
+    "name": "Nidanpur Pt-II",
+    "country": "IN",
+    "lat": 26.02331,
+    "lng": 90.30375
+  },
+  {
+    "name": "Niz-Hajo",
+    "country": "IN",
+    "lat": 26.24942,
+    "lng": 91.5243
+  },
+  {
+    "name": "Nithari",
+    "country": "IN",
+    "lat": 28.70489,
+    "lng": 77.05285
+  },
+  {
+    "name": "Ningthoukhong",
+    "country": "IN",
+    "lat": 24.57173,
+    "lng": 93.76406
+  },
+  {
+    "name": "Nizza di Sicilia",
+    "country": "IT",
+    "lat": 37.99081,
+    "lng": 15.40956
+  },
+  {
+    "name": "Nissoria",
+    "country": "IT",
+    "lat": 37.6541,
+    "lng": 14.4481
+  },
+  {
+    "name": "Niscemi",
+    "country": "IT",
+    "lat": 37.14649,
+    "lng": 14.39381
+  },
+  {
+    "name": "Nicotera",
+    "country": "IT",
+    "lat": 38.54915,
+    "lng": 15.93584
+  },
+  {
+    "name": "Nicosia",
+    "country": "IT",
+    "lat": 37.74747,
+    "lng": 14.39218
+  },
+  {
+    "name": "Nicolosi",
+    "country": "IT",
+    "lat": 37.62148,
+    "lng": 15.02785
+  },
+  {
+    "name": "Nicastro",
+    "country": "IT",
+    "lat": 38.97089,
+    "lng": 16.31285
+  },
+  {
+    "name": "Nizza Monferrato",
+    "country": "IT",
+    "lat": 44.77416,
+    "lng": 8.35784
+  },
+  {
+    "name": "Nimis",
+    "country": "IT",
+    "lat": 46.20659,
+    "lng": 13.26777
+  },
+  {
+    "name": "Niella Belbo",
+    "country": "IT",
+    "lat": 44.51275,
+    "lng": 8.08036
+  },
+  {
+    "name": "Nichelino",
+    "country": "IT",
+    "lat": 45.00031,
+    "lng": 7.65305
+  },
+  {
+    "name": "Nibbiano",
+    "country": "IT",
+    "lat": 44.90506,
+    "lng": 9.32826
+  },
+  {
+    "name": "Niella Tanaro",
+    "country": "IT",
+    "lat": 44.40573,
+    "lng": 7.92794
+  },
+  {
+    "name": "Nibionno",
+    "country": "IT",
+    "lat": 45.74648,
+    "lng": 9.26894
+  },
+  {
+    "name": "Niardo",
+    "country": "IT",
+    "lat": 45.97599,
+    "lng": 10.33326
+  },
+  {
+    "name": "Nicorvo",
+    "country": "IT",
+    "lat": 45.28566,
+    "lng": 8.66794
+  },
+  {
+    "name": "Nibbiola",
+    "country": "IT",
+    "lat": 45.37236,
+    "lng": 8.65674
+  },
+  {
+    "name": "Niviano",
+    "country": "IT",
+    "lat": 44.94027,
+    "lng": 9.62878
+  },
+  {
+    "name": "Nigoline-Bonomelli",
+    "country": "IT",
+    "lat": 45.62908,
+    "lng": 9.98682
+  },
+  {
+    "name": "Nishi-Tokyo-shi",
+    "country": "JP",
+    "lat": 35.72526,
+    "lng": 139.5383
+  },
+  {
+    "name": "Nishishinminato",
+    "country": "JP",
+    "lat": 36.77957,
+    "lng": 137.07576
+  },
+  {
+    "name": "Nishiya",
+    "country": "JP",
+    "lat": 35.16667,
+    "lng": 133.88333
+  },
+  {
+    "name": "Nishiwaki",
+    "country": "JP",
+    "lat": 34.98419,
+    "lng": 134.97407
+  },
+  {
+    "name": "Nishitawara",
+    "country": "JP",
+    "lat": 34.95556,
+    "lng": 134.76835
+  },
+  {
+    "name": "Nishio",
+    "country": "JP",
+    "lat": 34.86667,
+    "lng": 137.05
+  },
+  {
+    "name": "Nishinoomote",
+    "country": "JP",
+    "lat": 30.73333,
+    "lng": 131.0
+  },
+  {
+    "name": "Nishinomiya",
+    "country": "JP",
+    "lat": 34.71562,
+    "lng": 135.33199
+  },
+  {
+    "name": "Nishinippori",
+    "country": "JP",
+    "lat": 35.73264,
+    "lng": 139.76961
+  },
+  {
+    "name": "Nishina",
+    "country": "JP",
+    "lat": 34.77528,
+    "lng": 138.77523
+  },
+  {
+    "name": "Nishihara",
+    "country": "JP",
+    "lat": 26.25353,
+    "lng": 127.74352
+  },
+  {
+    "name": "Nishiarai",
+    "country": "JP",
+    "lat": 35.78469,
+    "lng": 139.77882
+  },
+  {
+    "name": "Nirasaki",
+    "country": "JP",
+    "lat": 35.7,
+    "lng": 138.45
+  },
+  {
+    "name": "Ninomiya",
+    "country": "JP",
+    "lat": 35.3015,
+    "lng": 139.25581
+  },
+  {
+    "name": "Nikkō",
+    "country": "JP",
+    "lat": 36.75,
+    "lng": 139.61667
+  },
+  {
+    "name": "Niitsu-honchō",
+    "country": "JP",
+    "lat": 37.80024,
+    "lng": 139.1224
+  },
+  {
+    "name": "Niimi",
+    "country": "JP",
+    "lat": 34.98333,
+    "lng": 133.46667
+  },
+  {
+    "name": "Niihama",
+    "country": "JP",
+    "lat": 33.96047,
+    "lng": 133.30522
+  },
+  {
+    "name": "Niigata",
+    "country": "JP",
+    "lat": 37.92259,
+    "lng": 139.04125
+  },
+  {
+    "name": "Nihonbashi-Kayabachō",
+    "country": "JP",
+    "lat": 35.67923,
+    "lng": 139.77872
+  },
+  {
+    "name": "Nichinan",
+    "country": "JP",
+    "lat": 31.6,
+    "lng": 131.36667
+  },
+  {
+    "name": "Nishimagome",
+    "country": "JP",
+    "lat": 35.58878,
+    "lng": 139.70397
+  },
+  {
+    "name": "Nishifukuma",
+    "country": "JP",
+    "lat": 33.76627,
+    "lng": 130.47461
+  },
+  {
+    "name": "Nihammatsu",
+    "country": "JP",
+    "lat": 35.37278,
+    "lng": 139.39167
+  },
+  {
+    "name": "Nishimonai",
+    "country": "JP",
+    "lat": 39.19517,
+    "lng": 140.40512
+  },
+  {
+    "name": "Nihommatsu",
+    "country": "JP",
+    "lat": 37.58333,
+    "lng": 140.43333
+  },
+  {
+    "name": "Nishiokoppe",
+    "country": "JP",
+    "lat": 44.33051,
+    "lng": 142.94857
+  },
+  {
+    "name": "Niki",
+    "country": "JP",
+    "lat": 43.15,
+    "lng": 140.76667
+  },
+  {
+    "name": "Niikappu",
+    "country": "JP",
+    "lat": 42.35,
+    "lng": 142.31667
+  },
+  {
+    "name": "Niiza",
+    "country": "JP",
+    "lat": 35.82088,
+    "lng": 139.55791
+  },
+  {
+    "name": "Ninohe",
+    "country": "JP",
+    "lat": 40.29081,
+    "lng": 141.31334
+  },
+  {
+    "name": "Nikaho",
+    "country": "JP",
+    "lat": 39.27077,
+    "lng": 139.93949
+  },
+  {
+    "name": "Nisshin",
+    "country": "JP",
+    "lat": 35.13676,
+    "lng": 137.05238
+  },
+  {
+    "name": "Niseko Town",
+    "country": "JP",
+    "lat": 42.77871,
+    "lng": 140.66903
+  },
+  {
+    "name": "Nishida",
+    "country": "JP",
+    "lat": 36.19999,
+    "lng": 133.30508
+  },
+  {
+    "name": "Nishino",
+    "country": "JP",
+    "lat": 34.16889,
+    "lng": 135.35297
+  },
+  {
+    "name": "Nihonbashi-bakurochō",
+    "country": "JP",
+    "lat": 35.69328,
+    "lng": 139.78172
+  },
+  {
+    "name": "Nishiawakura",
+    "country": "JP",
+    "lat": 35.17942,
+    "lng": 134.35043
+  },
+  {
+    "name": "Nishitōkyō",
+    "country": "JP",
+    "lat": 35.73355,
+    "lng": 139.54761
+  },
+  {
+    "name": "Niseko",
+    "country": "JP",
+    "lat": 42.80894,
+    "lng": 140.68596
+  },
+  {
+    "name": "Nishitokorozawa",
+    "country": "JP",
+    "lat": 35.78931,
+    "lng": 139.45854
+  },
+  {
+    "name": "Nizhnyaya Ala-Archa",
+    "country": "KG",
+    "lat": 42.92245,
+    "lng": 74.56684
+  },
+  {
+    "name": "Nioumachoua",
+    "country": "KM",
+    "lat": -12.36139,
+    "lng": 43.71528
+  },
+  {
+    "name": "Nioumamilima",
+    "country": "KM",
+    "lat": -11.85461,
+    "lng": 43.44607
+  },
+  {
+    "name": "Nicola Town",
+    "country": "KN",
+    "lat": 17.37956,
+    "lng": -62.75318
+  },
+  {
+    "name": "Nida",
+    "country": "LT",
+    "lat": 55.3086,
+    "lng": 20.99651
+  },
+  {
+    "name": "Niedercorn",
+    "country": "LU",
+    "lat": 49.53611,
+    "lng": 5.89306
+  },
+  {
+    "name": "Niederanven",
+    "country": "LU",
+    "lat": 49.65196,
+    "lng": 6.26199
+  },
+  {
+    "name": "Niederfeulen",
+    "country": "LU",
+    "lat": 49.85556,
+    "lng": 6.04722
+  },
+  {
+    "name": "Nisporeni",
+    "country": "MD",
+    "lat": 47.08025,
+    "lng": 28.17098
+  },
+  {
+    "name": "Nikšić",
+    "country": "ME",
+    "lat": 42.7731,
+    "lng": 18.94446
+  },
+  {
+    "name": "Nioro",
+    "country": "ML",
+    "lat": 15.23074,
+    "lng": -9.59356
+  },
+  {
+    "name": "Niono",
+    "country": "ML",
+    "lat": 14.25054,
+    "lng": -5.98679
+  },
+  {
+    "name": "Niafunké",
+    "country": "ML",
+    "lat": 15.9322,
+    "lng": -3.9906
+  },
+  {
+    "name": "Nilandhoo",
+    "country": "MV",
+    "lat": 3.05667,
+    "lng": 72.89
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 24.00232,
+    "lng": -98.26085
+  },
+  {
+    "name": "Niltepec",
+    "country": "MX",
+    "lat": 16.56401,
+    "lng": -94.61373
+  },
+  {
+    "name": "Nicolás Ruiz",
+    "country": "MX",
+    "lat": 16.4389,
+    "lng": -92.58218
+  },
+  {
+    "name": "Nicolás Romero",
+    "country": "MX",
+    "lat": 19.64177,
+    "lng": -99.3068
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 18.61718,
+    "lng": -97.30783
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 18.4591,
+    "lng": -88.92802
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 18.29202,
+    "lng": -93.13103
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 18.16084,
+    "lng": -93.08173
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 17.71621,
+    "lng": -92.61843
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 19.42213,
+    "lng": -97.96759
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 16.51058,
+    "lng": -92.99222
+  },
+  {
+    "name": "Niños Héroes",
+    "country": "MX",
+    "lat": 17.43493,
+    "lng": -94.49884
+  },
+  {
+    "name": "Nieves",
+    "country": "MX",
+    "lat": 23.99461,
+    "lng": -103.02005
+  },
+  {
+    "name": "Nicolas Bravo",
+    "country": "MX",
+    "lat": 29.35306,
+    "lng": -107.9344
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 24.39052,
+    "lng": -104.74294
+  },
+  {
+    "name": "Ninguno [Centro de Readaptación Social de Atlacholoaya]",
+    "country": "MX",
+    "lat": 18.75778,
+    "lng": -99.22944
+  },
+  {
+    "name": "Ninguno [CERESO]",
+    "country": "MX",
+    "lat": 28.60972,
+    "lng": -105.94028
+  },
+  {
+    "name": "Ninguno [CERESO]",
+    "country": "MX",
+    "lat": 20.67361,
+    "lng": -100.36028
+  },
+  {
+    "name": "Nicolás Bravo 5ta. Sección (Punta Brava)",
+    "country": "MX",
+    "lat": 18.27827,
+    "lng": -93.12872
+  },
+  {
+    "name": "Nigromante",
+    "country": "MX",
+    "lat": 20.96194,
+    "lng": -100.78028
+  },
+  {
+    "name": "Nicolás Blanco (San Pancho)",
+    "country": "MX",
+    "lat": 19.3525,
+    "lng": -96.33833
+  },
+  {
+    "name": "Nicolás Bravo",
+    "country": "MX",
+    "lat": 19.01636,
+    "lng": -97.82295
+  },
+  {
+    "name": "Niyor",
+    "country": "MY",
+    "lat": 2.0945,
+    "lng": 103.2807
+  },
+  {
+    "name": "Nibong Tebal",
+    "country": "MY",
+    "lat": 5.16586,
+    "lng": 100.47793
+  },
+  {
+    "name": "Niah",
+    "country": "MY",
+    "lat": 3.86203,
+    "lng": 113.71521
+  },
+  {
+    "name": "Niamey",
+    "country": "NE",
+    "lat": 13.51366,
+    "lng": 2.1098
+  },
+  {
+    "name": "Ningi",
+    "country": "NG",
+    "lat": 11.07837,
+    "lng": 9.56886
+  },
+  {
+    "name": "Niquinohomo",
+    "country": "NI",
+    "lat": 11.90518,
+    "lng": -86.09446
+  },
+  {
+    "name": "Nindirí",
+    "country": "NI",
+    "lat": 12.00386,
+    "lng": -86.12128
+  },
+  {
+    "name": "Nistelrode",
+    "country": "NL",
+    "lat": 51.70417,
+    "lng": 5.5625
+  },
+  {
+    "name": "Nispen",
+    "country": "NL",
+    "lat": 51.48331,
+    "lng": 4.46131
+  },
+  {
+    "name": "Nijrees",
+    "country": "NL",
+    "lat": 52.335,
+    "lng": 6.66389
+  },
+  {
+    "name": "Nijnsel",
+    "country": "NL",
+    "lat": 51.55083,
+    "lng": 5.48333
+  },
+  {
+    "name": "Nijmegen",
+    "country": "NL",
+    "lat": 51.8425,
+    "lng": 5.85278
+  },
+  {
+    "name": "Nijkerkerveen",
+    "country": "NL",
+    "lat": 52.195,
+    "lng": 5.46667
+  },
+  {
+    "name": "Nijkerk",
+    "country": "NL",
+    "lat": 52.22,
+    "lng": 5.48611
+  },
+  {
+    "name": "Nijenheim",
+    "country": "NL",
+    "lat": 52.08689,
+    "lng": 5.21852
+  },
+  {
+    "name": "Nieuw-Vossemeer",
+    "country": "NL",
+    "lat": 51.59,
+    "lng": 4.21806
+  },
+  {
+    "name": "Nieuwveen",
+    "country": "NL",
+    "lat": 52.19667,
+    "lng": 4.75694
+  },
+  {
+    "name": "Nieuw-Roden",
+    "country": "NL",
+    "lat": 53.13167,
+    "lng": 6.39722
+  },
+  {
+    "name": "Nieuwpoort",
+    "country": "NL",
+    "lat": 51.93583,
+    "lng": 4.86806
+  },
+  {
+    "name": "Nieuwoord",
+    "country": "NL",
+    "lat": 52.46667,
+    "lng": 6.55
+  },
+  {
+    "name": "Nieuwolda",
+    "country": "NL",
+    "lat": 53.24417,
+    "lng": 6.975
+  },
+  {
+    "name": "Nieuw-Namen",
+    "country": "NL",
+    "lat": 51.2925,
+    "lng": 4.16111
+  },
+  {
+    "name": "Nieuw-Lotbroek",
+    "country": "NL",
+    "lat": 50.91283,
+    "lng": 5.92798
+  },
+  {
+    "name": "Nieuw-Loosdrecht",
+    "country": "NL",
+    "lat": 52.19917,
+    "lng": 5.13889
+  },
+  {
+    "name": "Nieuw-Lekkerland",
+    "country": "NL",
+    "lat": 51.88915,
+    "lng": 4.68653
+  },
+  {
+    "name": "Nieuwland",
+    "country": "NL",
+    "lat": 51.90167,
+    "lng": 5.01389
+  },
+  {
+    "name": "Nieuw- en Sint Joosland",
+    "country": "NL",
+    "lat": 51.48333,
+    "lng": 3.65694
+  },
+  {
+    "name": "Nieuwkuijk",
+    "country": "NL",
+    "lat": 51.69,
+    "lng": 5.18194
+  },
+  {
+    "name": "Nieuwkoop",
+    "country": "NL",
+    "lat": 52.15083,
+    "lng": 4.77639
+  },
+  {
+    "name": "Nieuwerkerk",
+    "country": "NL",
+    "lat": 51.65083,
+    "lng": 4.00139
+  },
+  {
+    "name": "Nieuwe Pekela",
+    "country": "NL",
+    "lat": 53.07917,
+    "lng": 6.96528
+  },
+  {
+    "name": "Nieuwe-Niedorp",
+    "country": "NL",
+    "lat": 52.74,
+    "lng": 4.89861
+  },
+  {
+    "name": "Nieuwenhoorn",
+    "country": "NL",
+    "lat": 51.85417,
+    "lng": 4.14306
+  },
+  {
+    "name": "Nieuwendijk",
+    "country": "NL",
+    "lat": 51.775,
+    "lng": 4.92083
+  },
+  {
+    "name": "Nieuwehorne",
+    "country": "NL",
+    "lat": 52.95113,
+    "lng": 6.06342
+  },
+  {
+    "name": "Nieuwegein",
+    "country": "NL",
+    "lat": 52.02917,
+    "lng": 5.08056
+  },
+  {
+    "name": "Nieuwdorp",
+    "country": "NL",
+    "lat": 50.96216,
+    "lng": 5.77297
+  },
+  {
+    "name": "Nieuw-Dordrecht",
+    "country": "NL",
+    "lat": 52.74833,
+    "lng": 6.96806
+  },
+  {
+    "name": "Nieuw-Buinen",
+    "country": "NL",
+    "lat": 52.9625,
+    "lng": 6.95
+  },
+  {
+    "name": "Nieuw-Bergen",
+    "country": "NL",
+    "lat": 51.60333,
+    "lng": 6.05417
+  },
+  {
+    "name": "Nieuw-Beijerland",
+    "country": "NL",
+    "lat": 51.8125,
+    "lng": 4.34306
+  },
+  {
+    "name": "Nieuw-Amsterdam",
+    "country": "NL",
+    "lat": 52.71167,
+    "lng": 6.85556
+  },
+  {
+    "name": "Niekerk",
+    "country": "NL",
+    "lat": 53.225,
+    "lng": 6.35278
+  },
+  {
+    "name": "Nizwá",
+    "country": "OM",
+    "lat": 22.93333,
+    "lng": 57.53333
+  },
+  {
+    "name": "Niepos",
+    "country": "PE",
+    "lat": -6.92747,
+    "lng": -79.12898
+  },
+  {
+    "name": "Ninabamba",
+    "country": "PE",
+    "lat": -6.65014,
+    "lng": -78.78756
+  },
+  {
+    "name": "Ninacaca",
+    "country": "PE",
+    "lat": -10.85,
+    "lng": -76.11667
+  },
+  {
+    "name": "Nicasio",
+    "country": "PE",
+    "lat": -15.2356,
+    "lng": -70.26094
+  },
+  {
+    "name": "NIA Valencia",
+    "country": "PH",
+    "lat": 7.90639,
+    "lng": 125.09417
+  },
+  {
+    "name": "Niugan",
+    "country": "PH",
+    "lat": 14.94607,
+    "lng": 120.9672
+  },
+  {
+    "name": "Niugan",
+    "country": "PH",
+    "lat": 14.66444,
+    "lng": 120.95528
+  },
+  {
+    "name": "Ninoy",
+    "country": "PH",
+    "lat": 15.8596,
+    "lng": 120.2478
+  },
+  {
+    "name": "Nilombot",
+    "country": "PH",
+    "lat": 16.0306,
+    "lng": 120.43685
+  },
+  {
+    "name": "Nieves",
+    "country": "PH",
+    "lat": 15.32842,
+    "lng": 120.94892
+  },
+  {
+    "name": "Nibaliw Central",
+    "country": "PH",
+    "lat": 16.1275,
+    "lng": 120.4027
+  },
+  {
+    "name": "Niwiska",
+    "country": "PL",
+    "lat": 50.22492,
+    "lng": 21.63036
+  },
+  {
+    "name": "Nisko",
+    "country": "PL",
+    "lat": 50.51987,
+    "lng": 22.13968
+  },
+  {
+    "name": "Nieporęt",
+    "country": "PL",
+    "lat": 52.43152,
+    "lng": 21.03212
+  },
+  {
+    "name": "Niepołomice",
+    "country": "PL",
+    "lat": 50.04066,
+    "lng": 20.22257
+  },
+  {
+    "name": "Nienadowa",
+    "country": "PL",
+    "lat": 49.82901,
+    "lng": 22.42704
+  },
+  {
+    "name": "Niemce",
+    "country": "PL",
+    "lat": 51.36155,
+    "lng": 22.63939
+  },
+  {
+    "name": "Nielisz",
+    "country": "PL",
+    "lat": 50.80067,
+    "lng": 23.04451
+  },
+  {
+    "name": "Niedźwiedź",
+    "country": "PL",
+    "lat": 49.621,
+    "lng": 20.07794
+  },
+  {
+    "name": "Niedźwiada",
+    "country": "PL",
+    "lat": 51.54409,
+    "lng": 22.6914
+  },
+  {
+    "name": "Niedźwiada",
+    "country": "PL",
+    "lat": 49.98937,
+    "lng": 21.52162
+  },
+  {
+    "name": "Niedzica",
+    "country": "PL",
+    "lat": 49.41008,
+    "lng": 20.30273
+  },
+  {
+    "name": "Niedrzwica Duża",
+    "country": "PL",
+    "lat": 51.11462,
+    "lng": 22.38911
+  },
+  {
+    "name": "Niedomice",
+    "country": "PL",
+    "lat": 50.10737,
+    "lng": 20.89548
+  },
+  {
+    "name": "Niechobrz",
+    "country": "PL",
+    "lat": 49.99472,
+    "lng": 21.87824
+  },
+  {
+    "name": "Niebylec",
+    "country": "PL",
+    "lat": 49.85669,
+    "lng": 21.90348
+  },
+  {
+    "name": "Nieborów",
+    "country": "PL",
+    "lat": 52.07771,
+    "lng": 20.06902
+  },
+  {
+    "name": "Niebocko",
+    "country": "PL",
+    "lat": 49.67774,
+    "lng": 22.10484
+  },
+  {
+    "name": "Niebieszczany",
+    "country": "PL",
+    "lat": 49.50348,
+    "lng": 22.15651
+  },
+  {
+    "name": "Nidzica",
+    "country": "PL",
+    "lat": 53.36052,
+    "lng": 20.42749
+  },
+  {
+    "name": "Nieszawa",
+    "country": "PL",
+    "lat": 52.83452,
+    "lng": 18.89921
+  },
+  {
+    "name": "Niemodlin",
+    "country": "PL",
+    "lat": 50.642,
+    "lng": 17.61932
+  },
+  {
+    "name": "Niemcza",
+    "country": "PL",
+    "lat": 50.72007,
+    "lng": 16.83573
+  },
+  {
+    "name": "Niegowonice",
+    "country": "PL",
+    "lat": 50.38909,
+    "lng": 19.42263
+  },
+  {
+    "name": "Niedobczyce",
+    "country": "PL",
+    "lat": 50.0654,
+    "lng": 18.49531
+  },
+  {
+    "name": "Niechanowo",
+    "country": "PL",
+    "lat": 52.46527,
+    "lng": 17.67812
+  },
+  {
+    "name": "Nidek",
+    "country": "PL",
+    "lat": 49.90492,
+    "lng": 19.32461
+  },
+  {
+    "name": "Ni‘līn",
+    "country": "PS",
+    "lat": 31.94746,
+    "lng": 35.02031
+  },
+  {
+    "name": "Nisa",
+    "country": "PT",
+    "lat": 39.51499,
+    "lng": -7.64908
+  },
+  {
+    "name": "Nine",
+    "country": "PT",
+    "lat": 41.45883,
+    "lng": -8.54598
+  },
+  {
+    "name": "Niţchidorf",
+    "country": "RO",
+    "lat": 45.58333,
+    "lng": 21.53333
+  },
+  {
+    "name": "Nistru",
+    "country": "RO",
+    "lat": 47.72088,
+    "lng": 23.45495
+  },
+  {
+    "name": "Nistoreşti",
+    "country": "RO",
+    "lat": 45.83333,
+    "lng": 26.73333
+  },
+  {
+    "name": "Nisiporești",
+    "country": "RO",
+    "lat": 47.0772,
+    "lng": 26.73791
+  },
+  {
+    "name": "Nisipari",
+    "country": "RO",
+    "lat": 44.25964,
+    "lng": 28.3984
+  },
+  {
+    "name": "Nireș",
+    "country": "RO",
+    "lat": 47.11499,
+    "lng": 23.98092
+  },
+  {
+    "name": "Nimigea de Sus",
+    "country": "RO",
+    "lat": 47.28333,
+    "lng": 24.31667
+  },
+  {
+    "name": "Nimigea de Jos",
+    "country": "RO",
+    "lat": 47.25357,
+    "lng": 24.30084
+  },
+  {
+    "name": "Niculiţel",
+    "country": "RO",
+    "lat": 45.18333,
+    "lng": 28.48333
+  },
+  {
+    "name": "Niculești",
+    "country": "RO",
+    "lat": 44.68266,
+    "lng": 25.94221
+  },
+  {
+    "name": "Nicşeni",
+    "country": "RO",
+    "lat": 47.86667,
+    "lng": 26.63333
+  },
+  {
+    "name": "Nicoreşti",
+    "country": "RO",
+    "lat": 45.93223,
+    "lng": 27.30866
+  },
+  {
+    "name": "Nicolești",
+    "country": "RO",
+    "lat": 46.43918,
+    "lng": 25.84446
+  },
+  {
+    "name": "Nicolae Titulescu",
+    "country": "RO",
+    "lat": 44.3,
+    "lng": 24.8
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 47.56664,
+    "lng": 26.89629
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 46.46667,
+    "lng": 26.91667
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 44.99714,
+    "lng": 28.58757
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 44.45,
+    "lng": 26.76667
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 28.38333
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 44.37427,
+    "lng": 22.85837
+  },
+  {
+    "name": "Nicolae Bălcescu",
+    "country": "RO",
+    "lat": 44.28604,
+    "lng": 27.07877
+  },
+  {
+    "name": "Niš",
+    "country": "RS",
+    "lat": 43.32472,
+    "lng": 21.90333
+  },
+  {
+    "name": "Nikolinci",
+    "country": "RS",
+    "lat": 45.05245,
+    "lng": 21.06695
+  },
+  {
+    "name": "Niška Banja",
+    "country": "RS",
+    "lat": 43.29507,
+    "lng": 22.0057
+  },
+  {
+    "name": "Nikinci",
+    "country": "RS",
+    "lat": 44.85017,
+    "lng": 19.82321
+  },
+  {
+    "name": "Nizhnyaya Tura",
+    "country": "RU",
+    "lat": 58.62369,
+    "lng": 59.8523
+  },
+  {
+    "name": "Nizhnepavlovka",
+    "country": "RU",
+    "lat": 51.71324,
+    "lng": 54.80146
+  },
+  {
+    "name": "Nizhnyaya Maktama",
+    "country": "RU",
+    "lat": 54.86356,
+    "lng": 52.4281
+  },
+  {
+    "name": "Nizhnyaya Irga",
+    "country": "RU",
+    "lat": 56.8669,
+    "lng": 57.422
+  },
+  {
+    "name": "Nizhniy Ufaley",
+    "country": "RU",
+    "lat": 55.91528,
+    "lng": 59.98417
+  },
+  {
+    "name": "Nizhny Tagil",
+    "country": "RU",
+    "lat": 57.91944,
+    "lng": 59.965
+  },
+  {
+    "name": "Nizhniy Odes",
+    "country": "RU",
+    "lat": 63.64451,
+    "lng": 54.85598
+  },
+  {
+    "name": "Nizhniy Novgorod",
+    "country": "RU",
+    "lat": 56.32867,
+    "lng": 44.00205
+  },
+  {
+    "name": "Nizhniy Mamon",
+    "country": "RU",
+    "lat": 50.1937,
+    "lng": 40.5083
+  },
+  {
+    "name": "Nizhniy Lomov",
+    "country": "RU",
+    "lat": 53.53041,
+    "lng": 43.67663
+  },
+  {
+    "name": "Nizhniy Kislyay",
+    "country": "RU",
+    "lat": 50.8536,
+    "lng": 40.1726
+  },
+  {
+    "name": "Nizhniye Vyazovyye",
+    "country": "RU",
+    "lat": 55.79877,
+    "lng": 48.52476
+  },
+  {
+    "name": "Nizhniye Sergi",
+    "country": "RU",
+    "lat": 56.66134,
+    "lng": 59.29979
+  },
+  {
+    "name": "Nizhniye Achaluki",
+    "country": "RU",
+    "lat": 43.4028,
+    "lng": 44.75908
+  },
+  {
+    "name": "Nizhniy Dzhengutay",
+    "country": "RU",
+    "lat": 42.70008,
+    "lng": 47.24488
+  },
+  {
+    "name": "Nizhniy Chir",
+    "country": "RU",
+    "lat": 48.35973,
+    "lng": 43.0865
+  },
+  {
+    "name": "Nizhniy Cherek",
+    "country": "RU",
+    "lat": 43.51306,
+    "lng": 43.91389
+  },
+  {
+    "name": "Nizhniy Baskunchak",
+    "country": "RU",
+    "lat": 48.21978,
+    "lng": 46.83105
+  },
+  {
+    "name": "Nizhniy Arkhyz",
+    "country": "RU",
+    "lat": 43.67817,
+    "lng": 41.45977
+  },
+  {
+    "name": "Nizhneye Kazanishche",
+    "country": "RU",
+    "lat": 42.76369,
+    "lng": 47.16027
+  },
+  {
+    "name": "Nizhnetroitskiy",
+    "country": "RU",
+    "lat": 54.33852,
+    "lng": 53.68329
+  },
+  {
+    "name": "Nizhnekamsk",
+    "country": "RU",
+    "lat": 55.63794,
+    "lng": 51.81502
+  },
+  {
+    "name": "Nizhneivkino",
+    "country": "RU",
+    "lat": 58.19398,
+    "lng": 49.52137
+  },
+  {
+    "name": "Nizhnedevitsk",
+    "country": "RU",
+    "lat": 51.54413,
+    "lng": 38.36436
+  },
+  {
+    "name": "Niny",
+    "country": "RU",
+    "lat": 44.48778,
+    "lng": 43.94889
+  },
+  {
+    "name": "Nikulino",
+    "country": "RU",
+    "lat": 55.66943,
+    "lng": 37.46598
+  },
+  {
+    "name": "Nikol’skoye-na-Cheremshane",
+    "country": "RU",
+    "lat": 54.05,
+    "lng": 49.23333
+  },
+  {
+    "name": "Nikol’skoye",
+    "country": "RU",
+    "lat": 55.68333,
+    "lng": 37.48333
+  },
+  {
+    "name": "Nikol’skoye",
+    "country": "RU",
+    "lat": 59.70056,
+    "lng": 30.78472
+  },
+  {
+    "name": "Nikol’sk",
+    "country": "RU",
+    "lat": 59.53531,
+    "lng": 45.45743
+  },
+  {
+    "name": "Nikol’sk",
+    "country": "RU",
+    "lat": 53.71886,
+    "lng": 46.07118
+  },
+  {
+    "name": "Nikologory",
+    "country": "RU",
+    "lat": 56.1413,
+    "lng": 41.99218
+  },
+  {
+    "name": "Nikolo-Berëzovka",
+    "country": "RU",
+    "lat": 56.12422,
+    "lng": 54.15573
+  },
+  {
+    "name": "Nikolina Gora",
+    "country": "RU",
+    "lat": 55.73433,
+    "lng": 37.04364
+  },
+  {
+    "name": "Nikolayevskaya",
+    "country": "RU",
+    "lat": 47.61391,
+    "lng": 41.5023
+  },
+  {
+    "name": "Nikolayevsk",
+    "country": "RU",
+    "lat": 50.02805,
+    "lng": 45.46115
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "RU",
+    "lat": 54.1451,
+    "lng": 45.1444
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "RU",
+    "lat": 53.1309,
+    "lng": 47.21153
+  },
+  {
+    "name": "Nikola-Lenivets",
+    "country": "RU",
+    "lat": 54.74943,
+    "lng": 35.60133
+  },
+  {
+    "name": "Nikel",
+    "country": "RU",
+    "lat": 69.41285,
+    "lng": 30.22198
+  },
+  {
+    "name": "Nizhniy Kurkuzhin",
+    "country": "RU",
+    "lat": 43.74833,
+    "lng": 43.34972
+  },
+  {
+    "name": "Nizhnyaya Tavda",
+    "country": "RU",
+    "lat": 57.6687,
+    "lng": 66.17821
+  },
+  {
+    "name": "Nizhnyaya Salda",
+    "country": "RU",
+    "lat": 58.07756,
+    "lng": 60.7202
+  },
+  {
+    "name": "Nizhnyaya Poyma",
+    "country": "RU",
+    "lat": 56.1643,
+    "lng": 97.2065
+  },
+  {
+    "name": "Nizhnyaya Omka",
+    "country": "RU",
+    "lat": 55.43372,
+    "lng": 74.94035
+  },
+  {
+    "name": "Nizhniy Ingash",
+    "country": "RU",
+    "lat": 56.2003,
+    "lng": 96.5373
+  },
+  {
+    "name": "Nizhnevartovsk",
+    "country": "RU",
+    "lat": 60.9344,
+    "lng": 76.5531
+  },
+  {
+    "name": "Nizhneudinsk",
+    "country": "RU",
+    "lat": 54.90725,
+    "lng": 99.03396
+  },
+  {
+    "name": "Nikolo-Pavlovskoye",
+    "country": "RU",
+    "lat": 57.78306,
+    "lng": 60.05778
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "RU",
+    "lat": 51.92556,
+    "lng": 79.41583
+  },
+  {
+    "name": "Nikitinskiy",
+    "country": "RU",
+    "lat": 54.5845,
+    "lng": 86.0115
+  },
+  {
+    "name": "Nizhniy Sayantuy",
+    "country": "RU",
+    "lat": 51.73751,
+    "lng": 107.51308
+  },
+  {
+    "name": "Nizhniy Tsasuchey",
+    "country": "RU",
+    "lat": 50.51127,
+    "lng": 115.12458
+  },
+  {
+    "name": "Nizhniy Kuranakh",
+    "country": "RU",
+    "lat": 58.8238,
+    "lng": 125.52278
+  },
+  {
+    "name": "Nizhniy Bestyakh",
+    "country": "RU",
+    "lat": 61.96551,
+    "lng": 129.92225
+  },
+  {
+    "name": "Nizhneangarsk",
+    "country": "RU",
+    "lat": 55.79326,
+    "lng": 109.58029
+  },
+  {
+    "name": "Nikol’sk",
+    "country": "RU",
+    "lat": 51.19017,
+    "lng": 108.32558
+  },
+  {
+    "name": "Nikolayevskiy",
+    "country": "RU",
+    "lat": 51.65526,
+    "lng": 107.80068
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "RU",
+    "lat": 48.56195,
+    "lng": 134.78489
+  },
+  {
+    "name": "Nikol’skoye",
+    "country": "RU",
+    "lat": 55.19683,
+    "lng": 165.99779
+  },
+  {
+    "name": "Nikolayevsk-on-Amure",
+    "country": "RU",
+    "lat": 53.14657,
+    "lng": 140.72287
+  },
+  {
+    "name": "Nizhnesortymskiy",
+    "country": "RU",
+    "lat": 62.43965,
+    "lng": 71.76029
+  },
+  {
+    "name": "Niznyaya Poltavka",
+    "country": "RU",
+    "lat": 49.71265,
+    "lng": 128.2436
+  },
+  {
+    "name": "Nižná",
+    "country": "SK",
+    "lat": 49.31046,
+    "lng": 19.52428
+  },
+  {
+    "name": "Nitrianske Pravno",
+    "country": "SK",
+    "lat": 48.86839,
+    "lng": 18.63364
+  },
+  {
+    "name": "Nitrianske Hrnčiarovce",
+    "country": "SK",
+    "lat": 48.33277,
+    "lng": 18.12835
+  },
+  {
+    "name": "Nitra",
+    "country": "SK",
+    "lat": 48.30763,
+    "lng": 18.08453
+  },
+  {
+    "name": "Nioro du Rip",
+    "country": "SN",
+    "lat": 13.75,
+    "lng": -15.8
+  },
+  {
+    "name": "Niakoul Rab",
+    "country": "SN",
+    "lat": 14.78421,
+    "lng": -17.27361
+  },
+  {
+    "name": "Nieuw Nickerie",
+    "country": "SR",
+    "lat": 5.92606,
+    "lng": -56.97297
+  },
+  {
+    "name": "Nieuw Amsterdam",
+    "country": "SR",
+    "lat": 5.88573,
+    "lng": -55.08871
+  },
+  {
+    "name": "Niamtougou",
+    "country": "TG",
+    "lat": 9.76806,
+    "lng": 1.10528
+  },
+  {
+    "name": "Nikhom Nam Un",
+    "country": "TH",
+    "lat": 17.18314,
+    "lng": 103.71842
+  },
+  {
+    "name": "Nikhom Kham Soi",
+    "country": "TH",
+    "lat": 16.37167,
+    "lng": 104.55147
+  },
+  {
+    "name": "Nikhom Phattana",
+    "country": "TH",
+    "lat": 12.82736,
+    "lng": 101.20273
+  },
+  {
+    "name": "Nibbar",
+    "country": "TN",
+    "lat": 36.29411,
+    "lng": 8.76657
+  },
+  {
+    "name": "Nizip",
+    "country": "TR",
+    "lat": 37.00972,
+    "lng": 37.79417
+  },
+  {
+    "name": "Niğde",
+    "country": "TR",
+    "lat": 37.96583,
+    "lng": 34.67935
+  },
+  {
+    "name": "Nikfer",
+    "country": "TR",
+    "lat": 37.40542,
+    "lng": 29.13727
+  },
+  {
+    "name": "Niksar",
+    "country": "TR",
+    "lat": 40.59167,
+    "lng": 36.95167
+  },
+  {
+    "name": "Nilüfer",
+    "country": "TR",
+    "lat": 40.21401,
+    "lng": 28.91567
+  },
+  {
+    "name": "Nikol's’ke",
+    "country": "UA",
+    "lat": 47.20533,
+    "lng": 37.32139
+  },
+  {
+    "name": "Niu-York",
+    "country": "UA",
+    "lat": 48.33027,
+    "lng": 37.84114
+  },
+  {
+    "name": "Nizhyn",
+    "country": "UA",
+    "lat": 51.04801,
+    "lng": 31.88688
+  },
+  {
+    "name": "Nizhnegorskiy",
+    "country": "UA",
+    "lat": 45.44789,
+    "lng": 34.73839
+  },
+  {
+    "name": "Nikopol",
+    "country": "UA",
+    "lat": 47.56826,
+    "lng": 34.39126
+  },
+  {
+    "name": "Nikolayevka",
+    "country": "UA",
+    "lat": 44.96213,
+    "lng": 33.61061
+  },
+  {
+    "name": "Nikita",
+    "country": "UA",
+    "lat": 44.51335,
+    "lng": 34.23517
+  },
+  {
+    "name": "Niceville",
+    "country": "US",
+    "lat": 30.51686,
+    "lng": -86.48217
+  },
+  {
+    "name": "Nicholls",
+    "country": "US",
+    "lat": 31.51742,
+    "lng": -82.63486
+  },
+  {
+    "name": "Nicholson",
+    "country": "US",
+    "lat": 34.114,
+    "lng": -83.43155
+  },
+  {
+    "name": "Nickerson",
+    "country": "US",
+    "lat": 38.14723,
+    "lng": -98.08367
+  },
+  {
+    "name": "Nicholasville",
+    "country": "US",
+    "lat": 37.88063,
+    "lng": -84.573
+  },
+  {
+    "name": "Nixa",
+    "country": "US",
+    "lat": 37.04339,
+    "lng": -93.29435
+  },
+  {
+    "name": "Nicholson",
+    "country": "US",
+    "lat": 30.47714,
+    "lng": -89.69367
+  },
+  {
+    "name": "Nichols Hills",
+    "country": "US",
+    "lat": 35.55089,
+    "lng": -97.54893
+  },
+  {
+    "name": "Nicoma Park",
+    "country": "US",
+    "lat": 35.49117,
+    "lng": -97.32309
+  },
+  {
+    "name": "Ninnekah",
+    "country": "US",
+    "lat": 34.94785,
+    "lng": -97.92393
+  },
+  {
+    "name": "Ninety Six",
+    "country": "US",
+    "lat": 34.17513,
+    "lng": -82.02401
+  },
+  {
+    "name": "Nixon",
+    "country": "US",
+    "lat": 29.26746,
+    "lng": -97.76444
+  },
+  {
+    "name": "Nitro",
+    "country": "US",
+    "lat": 38.41481,
+    "lng": -81.84402
+  },
+  {
+    "name": "Niantic",
+    "country": "US",
+    "lat": 41.32538,
+    "lng": -72.19313
+  },
+  {
+    "name": "Niles",
+    "country": "US",
+    "lat": 42.01892,
+    "lng": -87.80284
+  },
+  {
+    "name": "Niles",
+    "country": "US",
+    "lat": 41.82977,
+    "lng": -86.25418
+  },
+  {
+    "name": "Nicollet",
+    "country": "US",
+    "lat": 44.27608,
+    "lng": -94.18746
+  },
+  {
+    "name": "Nisswa",
+    "country": "US",
+    "lat": 46.52052,
+    "lng": -94.28861
+  },
+  {
+    "name": "Niagara Falls",
+    "country": "US",
+    "lat": 43.0945,
+    "lng": -79.05671
+  },
+  {
+    "name": "Niskayuna",
+    "country": "US",
+    "lat": 42.7798,
+    "lng": -73.84568
+  },
+  {
+    "name": "Nissequogue",
+    "country": "US",
+    "lat": 40.90399,
+    "lng": -73.19789
+  },
+  {
+    "name": "Niverville",
+    "country": "US",
+    "lat": 42.44092,
+    "lng": -73.66095
+  },
+  {
+    "name": "Niles",
+    "country": "US",
+    "lat": 41.18284,
+    "lng": -80.76536
+  },
+  {
+    "name": "Nicetown-Tioga",
+    "country": "US",
+    "lat": 40.00989,
+    "lng": -75.16387
+  },
+  {
+    "name": "Nicetown",
+    "country": "US",
+    "lat": 40.01317,
+    "lng": -75.15684
+  },
+  {
+    "name": "Nixon",
+    "country": "US",
+    "lat": 40.7834,
+    "lng": -79.9295
+  },
+  {
+    "name": "Niagara",
+    "country": "US",
+    "lat": 45.77135,
+    "lng": -87.99485
+  },
+  {
+    "name": "Nice",
+    "country": "US",
+    "lat": 39.12323,
+    "lng": -122.84833
+  },
+  {
+    "name": "Niland",
+    "country": "US",
+    "lat": 33.24004,
+    "lng": -115.51888
+  },
+  {
+    "name": "Nipomo",
+    "country": "US",
+    "lat": 35.04275,
+    "lng": -120.476
+  },
+  {
+    "name": "Niwot",
+    "country": "US",
+    "lat": 40.10387,
+    "lng": -105.17082
+  },
+  {
+    "name": "Nibley",
+    "country": "US",
+    "lat": 41.67438,
+    "lng": -111.833
+  },
+  {
+    "name": "Niu Valley",
+    "country": "US",
+    "lat": 21.2843,
+    "lng": -157.73706
+  },
+  {
+    "name": "Nikiski",
+    "country": "US",
+    "lat": 60.69028,
+    "lng": -151.28889
+  },
+  {
+    "name": "Nishon Tumani",
+    "country": "UZ",
+    "lat": 38.69395,
+    "lng": 65.67512
+  },
+  {
+    "name": "Nirgua",
+    "country": "VE",
+    "lat": 10.15039,
+    "lng": -68.56478
+  },
+  {
+    "name": "Ninh Hòa",
+    "country": "VN",
+    "lat": 12.49187,
+    "lng": 109.12495
+  },
+  {
+    "name": "Ninh Giang",
+    "country": "VN",
+    "lat": 20.73083,
+    "lng": 106.39789
+  },
+  {
+    "name": "Ninh Bình",
+    "country": "VN",
+    "lat": 20.25809,
+    "lng": 105.97965
+  },
+  {
+    "name": "Nishor",
+    "country": "XK",
+    "lat": 42.42389,
+    "lng": 20.80167
+  },
+  {
+    "name": "Nişāb",
+    "country": "YE",
+    "lat": 14.50743,
+    "lng": 46.49349
+  },
+  {
+    "name": "Nigel",
+    "country": "ZA",
+    "lat": -26.43138,
+    "lng": 28.47713
+  },
+  {
+    "name": "Nieu-Bethesda",
+    "country": "ZA",
+    "lat": -31.867,
+    "lng": 24.55499
+  }
+]

@@ -1,0 +1,7976 @@
+[
+  {
+    "name": "Nadd al Ḩumr",
+    "country": "AE",
+    "lat": 25.20131,
+    "lng": 55.38388
+  },
+  {
+    "name": "Nayak",
+    "country": "AF",
+    "lat": 34.73414,
+    "lng": 66.95292
+  },
+  {
+    "name": "Narang",
+    "country": "AF",
+    "lat": 34.76009,
+    "lng": 71.04738
+  },
+  {
+    "name": "Nahrīn",
+    "country": "AF",
+    "lat": 36.0649,
+    "lng": 69.13343
+  },
+  {
+    "name": "Navur",
+    "country": "AM",
+    "lat": 40.86695,
+    "lng": 45.34179
+  },
+  {
+    "name": "Nalbandyan",
+    "country": "AM",
+    "lat": 40.0639,
+    "lng": 43.98889
+  },
+  {
+    "name": "Narek",
+    "country": "AM",
+    "lat": 40.00041,
+    "lng": 44.66482
+  },
+  {
+    "name": "Navarro",
+    "country": "AR",
+    "lat": -35.00587,
+    "lng": -59.27828
+  },
+  {
+    "name": "Naschel",
+    "country": "AR",
+    "lat": -32.91656,
+    "lng": -65.37535
+  },
+  {
+    "name": "Napenay",
+    "country": "AR",
+    "lat": -26.72992,
+    "lng": -60.61737
+  },
+  {
+    "name": "Nauders",
+    "country": "AT",
+    "lat": 46.88859,
+    "lng": 10.50126
+  },
+  {
+    "name": "Natters",
+    "country": "AT",
+    "lat": 47.23414,
+    "lng": 11.37342
+  },
+  {
+    "name": "Natternbach",
+    "country": "AT",
+    "lat": 48.3973,
+    "lng": 13.74965
+  },
+  {
+    "name": "Nassereith",
+    "country": "AT",
+    "lat": 47.31667,
+    "lng": 10.83333
+  },
+  {
+    "name": "Namlos",
+    "country": "AT",
+    "lat": 47.35,
+    "lng": 10.66667
+  },
+  {
+    "name": "Naas",
+    "country": "AT",
+    "lat": 47.25086,
+    "lng": 15.59449
+  },
+  {
+    "name": "Naarn im Machlande",
+    "country": "AT",
+    "lat": 48.22553,
+    "lng": 14.60838
+  },
+  {
+    "name": "Navis",
+    "country": "AT",
+    "lat": 47.1307,
+    "lng": 11.5404
+  },
+  {
+    "name": "Narrogin",
+    "country": "AU",
+    "lat": -32.93282,
+    "lng": 117.17763
+  },
+  {
+    "name": "Nairne",
+    "country": "AU",
+    "lat": -35.0345,
+    "lng": 138.91154
+  },
+  {
+    "name": "Narromine",
+    "country": "AU",
+    "lat": -32.23121,
+    "lng": 148.24052
+  },
+  {
+    "name": "Narre Warren North",
+    "country": "AU",
+    "lat": -37.98333,
+    "lng": 145.31667
+  },
+  {
+    "name": "Narre Warren",
+    "country": "AU",
+    "lat": -38.03333,
+    "lng": 145.3
+  },
+  {
+    "name": "Narrandera",
+    "country": "AU",
+    "lat": -34.74752,
+    "lng": 146.55096
+  },
+  {
+    "name": "Narrabri",
+    "country": "AU",
+    "lat": -30.32488,
+    "lng": 149.78266
+  },
+  {
+    "name": "Narrabeen",
+    "country": "AU",
+    "lat": -33.71277,
+    "lng": 151.29736
+  },
+  {
+    "name": "Narooma",
+    "country": "AU",
+    "lat": -36.21783,
+    "lng": 150.13247
+  },
+  {
+    "name": "Narellan",
+    "country": "AU",
+    "lat": -34.04338,
+    "lng": 150.73236
+  },
+  {
+    "name": "Narara",
+    "country": "AU",
+    "lat": -33.39593,
+    "lng": 151.33527
+  },
+  {
+    "name": "Narangba",
+    "country": "AU",
+    "lat": -27.20338,
+    "lng": 152.95923
+  },
+  {
+    "name": "Naracoorte",
+    "country": "AU",
+    "lat": -36.95785,
+    "lng": 140.7383
+  },
+  {
+    "name": "Nanango",
+    "country": "AU",
+    "lat": -26.67157,
+    "lng": 152.00211
+  },
+  {
+    "name": "Nana Glen",
+    "country": "AU",
+    "lat": -30.13333,
+    "lng": 153.01667
+  },
+  {
+    "name": "Nambucca Heads",
+    "country": "AU",
+    "lat": -30.64318,
+    "lng": 153.00884
+  },
+  {
+    "name": "Nambucca",
+    "country": "AU",
+    "lat": -30.63333,
+    "lng": 152.98333
+  },
+  {
+    "name": "Nambour",
+    "country": "AU",
+    "lat": -26.62613,
+    "lng": 152.95941
+  },
+  {
+    "name": "Nagambie",
+    "country": "AU",
+    "lat": -36.78515,
+    "lng": 145.15375
+  },
+  {
+    "name": "Nabiac",
+    "country": "AU",
+    "lat": -32.09837,
+    "lng": 152.37627
+  },
+  {
+    "name": "Nathalia",
+    "country": "AU",
+    "lat": -36.05772,
+    "lng": 145.20406
+  },
+  {
+    "name": "Nailsworth",
+    "country": "AU",
+    "lat": -34.88437,
+    "lng": 138.60619
+  },
+  {
+    "name": "Naremburn",
+    "country": "AU",
+    "lat": -33.81698,
+    "lng": 151.20079
+  },
+  {
+    "name": "Narrawallee",
+    "country": "AU",
+    "lat": -35.31243,
+    "lng": 150.46351
+  },
+  {
+    "name": "Narwee",
+    "country": "AU",
+    "lat": -33.94653,
+    "lng": 151.06919
+  },
+  {
+    "name": "Nakara",
+    "country": "AU",
+    "lat": -12.37054,
+    "lng": 130.87728
+  },
+  {
+    "name": "Narrabundah",
+    "country": "AU",
+    "lat": -35.3357,
+    "lng": 149.14924
+  },
+  {
+    "name": "Nathan",
+    "country": "AU",
+    "lat": -27.55888,
+    "lng": 153.0623
+  },
+  {
+    "name": "Narre Warren South",
+    "country": "AU",
+    "lat": -38.04369,
+    "lng": 145.2923
+  },
+  {
+    "name": "Narellan Vale",
+    "country": "AU",
+    "lat": -34.04974,
+    "lng": 150.74392
+  },
+  {
+    "name": "Narraweena",
+    "country": "AU",
+    "lat": -33.75519,
+    "lng": 151.27659
+  },
+  {
+    "name": "Nanum",
+    "country": "AU",
+    "lat": -12.64511,
+    "lng": 141.86221
+  },
+  {
+    "name": "Naxçıvan",
+    "country": "AZ",
+    "lat": 39.20889,
+    "lng": 45.41222
+  },
+  {
+    "name": "Nardaran",
+    "country": "AZ",
+    "lat": 40.55611,
+    "lng": 50.00556
+  },
+  {
+    "name": "Naftalan",
+    "country": "AZ",
+    "lat": 40.50821,
+    "lng": 46.8203
+  },
+  {
+    "name": "Narsingdi",
+    "country": "BD",
+    "lat": 23.92298,
+    "lng": 90.71768
+  },
+  {
+    "name": "Nageswari",
+    "country": "BD",
+    "lat": 25.96817,
+    "lng": 89.69153
+  },
+  {
+    "name": "Narail",
+    "country": "BD",
+    "lat": 23.15509,
+    "lng": 89.49515
+  },
+  {
+    "name": "Nawāb Char",
+    "country": "BD",
+    "lat": 23.71461,
+    "lng": 90.36684
+  },
+  {
+    "name": "Nalua",
+    "country": "BD",
+    "lat": 22.49292,
+    "lng": 90.41245
+  },
+  {
+    "name": "Nagar Naluākot",
+    "country": "BD",
+    "lat": 24.15608,
+    "lng": 90.7728
+  },
+  {
+    "name": "Nabīnagar",
+    "country": "BD",
+    "lat": 23.88791,
+    "lng": 90.96792
+  },
+  {
+    "name": "Nachnapāra",
+    "country": "BD",
+    "lat": 22.17201,
+    "lng": 89.96931
+  },
+  {
+    "name": "Nawābganj",
+    "country": "BD",
+    "lat": 24.59025,
+    "lng": 88.27444
+  },
+  {
+    "name": "Natona",
+    "country": "BD",
+    "lat": 22.05128,
+    "lng": 90.03197
+  },
+  {
+    "name": "Natore",
+    "country": "BD",
+    "lat": 24.41112,
+    "lng": 88.98673
+  },
+  {
+    "name": "Nazareth",
+    "country": "BE",
+    "lat": 50.95686,
+    "lng": 3.59425
+  },
+  {
+    "name": "Natoye",
+    "country": "BE",
+    "lat": 50.34294,
+    "lng": 5.058
+  },
+  {
+    "name": "Nassogne",
+    "country": "BE",
+    "lat": 50.12849,
+    "lng": 5.34274
+  },
+  {
+    "name": "Naninne",
+    "country": "BE",
+    "lat": 50.41888,
+    "lng": 4.92634
+  },
+  {
+    "name": "Namur",
+    "country": "BE",
+    "lat": 50.4669,
+    "lng": 4.86746
+  },
+  {
+    "name": "Namêche",
+    "country": "BE",
+    "lat": 50.47239,
+    "lng": 4.99756
+  },
+  {
+    "name": "Nalinnes",
+    "country": "BE",
+    "lat": 50.32434,
+    "lng": 4.44572
+  },
+  {
+    "name": "Naast",
+    "country": "BE",
+    "lat": 50.55413,
+    "lng": 4.10082
+  },
+  {
+    "name": "Nagréongo",
+    "country": "BF",
+    "lat": 12.47847,
+    "lng": -1.20129
+  },
+  {
+    "name": "Natiaboani",
+    "country": "BF",
+    "lat": 11.69917,
+    "lng": 0.50611
+  },
+  {
+    "name": "Namponkoré",
+    "country": "BF",
+    "lat": 11.73748,
+    "lng": 1.77718
+  },
+  {
+    "name": "Natitingou",
+    "country": "BJ",
+    "lat": 10.30416,
+    "lng": 1.37962
+  },
+  {
+    "name": "Nazária",
+    "country": "BR",
+    "lat": -5.34933,
+    "lng": -42.82028
+  },
+  {
+    "name": "Nazarezinho",
+    "country": "BR",
+    "lat": -6.91583,
+    "lng": -38.32472
+  },
+  {
+    "name": "Nazaré do Piauí",
+    "country": "BR",
+    "lat": -6.97333,
+    "lng": -42.67194
+  },
+  {
+    "name": "Nazaré da Mata",
+    "country": "BR",
+    "lat": -7.74167,
+    "lng": -35.22778
+  },
+  {
+    "name": "Nazaré",
+    "country": "BR",
+    "lat": -6.37194,
+    "lng": -47.66389
+  },
+  {
+    "name": "Natuba",
+    "country": "BR",
+    "lat": -7.64139,
+    "lng": -35.55
+  },
+  {
+    "name": "Natal",
+    "country": "BR",
+    "lat": -5.795,
+    "lng": -35.20944
+  },
+  {
+    "name": "Nazário",
+    "country": "BR",
+    "lat": -16.58167,
+    "lng": -49.88167
+  },
+  {
+    "name": "Nazaré Paulista",
+    "country": "BR",
+    "lat": -23.18111,
+    "lng": -46.395
+  },
+  {
+    "name": "Nazareno",
+    "country": "BR",
+    "lat": -21.21639,
+    "lng": -44.61139
+  },
+  {
+    "name": "Nazaré",
+    "country": "BR",
+    "lat": -13.035,
+    "lng": -39.01444
+  },
+  {
+    "name": "Naviraí",
+    "country": "BR",
+    "lat": -23.065,
+    "lng": -54.19056
+  },
+  {
+    "name": "Navegantes",
+    "country": "BR",
+    "lat": -26.89889,
+    "lng": -48.65417
+  },
+  {
+    "name": "Natividade",
+    "country": "BR",
+    "lat": -21.04222,
+    "lng": -41.97333
+  },
+  {
+    "name": "Natividade da Serra",
+    "country": "BR",
+    "lat": -23.37556,
+    "lng": -45.44194
+  },
+  {
+    "name": "Natividade",
+    "country": "BR",
+    "lat": -11.70871,
+    "lng": -47.728
+  },
+  {
+    "name": "Natércia",
+    "country": "BR",
+    "lat": -22.12,
+    "lng": -45.51167
+  },
+  {
+    "name": "Narandiba",
+    "country": "BR",
+    "lat": -22.40722,
+    "lng": -51.52444
+  },
+  {
+    "name": "Naque",
+    "country": "BR",
+    "lat": -19.23028,
+    "lng": -42.32833
+  },
+  {
+    "name": "Nanuque",
+    "country": "BR",
+    "lat": -17.83917,
+    "lng": -40.35389
+  },
+  {
+    "name": "Nantes",
+    "country": "BR",
+    "lat": -22.62056,
+    "lng": -51.23694
+  },
+  {
+    "name": "Nacip Raydan",
+    "country": "BR",
+    "lat": -18.45746,
+    "lng": -42.24948
+  },
+  {
+    "name": "Natalândia",
+    "country": "BR",
+    "lat": -16.50417,
+    "lng": -46.49333
+  },
+  {
+    "name": "Nassau",
+    "country": "BS",
+    "lat": 25.05823,
+    "lng": -77.34306
+  },
+  {
+    "name": "Nata",
+    "country": "BW",
+    "lat": -20.21667,
+    "lng": 26.18333
+  },
+  {
+    "name": "Nasilava",
+    "country": "BY",
+    "lat": 54.30441,
+    "lng": 26.78209
+  },
+  {
+    "name": "Narovlya",
+    "country": "BY",
+    "lat": 51.79724,
+    "lng": 29.49784
+  },
+  {
+    "name": "Narach",
+    "country": "BY",
+    "lat": 54.9102,
+    "lng": 26.708
+  },
+  {
+    "name": "Narach",
+    "country": "BY",
+    "lat": 54.5652,
+    "lng": 26.7314
+  },
+  {
+    "name": "Nahanni Butte",
+    "country": "CA",
+    "lat": 61.03346,
+    "lng": -123.38639
+  },
+  {
+    "name": "Nakusp",
+    "country": "CA",
+    "lat": 50.24987,
+    "lng": -117.80226
+  },
+  {
+    "name": "Nanaimo",
+    "country": "CA",
+    "lat": 49.16638,
+    "lng": -123.94003
+  },
+  {
+    "name": "Nanton",
+    "country": "CA",
+    "lat": 50.35008,
+    "lng": -113.76866
+  },
+  {
+    "name": "Napanee",
+    "country": "CA",
+    "lat": 44.25012,
+    "lng": -76.94944
+  },
+  {
+    "name": "Napierville",
+    "country": "CA",
+    "lat": 45.18648,
+    "lng": -73.40468
+  },
+  {
+    "name": "Nain",
+    "country": "CA",
+    "lat": 56.54193,
+    "lng": -61.69549
+  },
+  {
+    "name": "Napanee Downtown",
+    "country": "CA",
+    "lat": 44.24832,
+    "lng": -76.95069
+  },
+  {
+    "name": "Naramata",
+    "country": "CA",
+    "lat": 49.59513,
+    "lng": -119.59442
+  },
+  {
+    "name": "Nanoose Bay",
+    "country": "CA",
+    "lat": 49.27237,
+    "lng": -124.19332
+  },
+  {
+    "name": "Naters",
+    "country": "CH",
+    "lat": 46.32536,
+    "lng": 7.98912
+  },
+  {
+    "name": "Nazia",
+    "country": "CI",
+    "lat": 6.24358,
+    "lng": -6.02067
+  },
+  {
+    "name": "Nawalakaha",
+    "country": "CI",
+    "lat": 9.32963,
+    "lng": -5.64463
+  },
+  {
+    "name": "Navokaha",
+    "country": "CI",
+    "lat": 9.26768,
+    "lng": -5.5389
+  },
+  {
+    "name": "Natoro",
+    "country": "CI",
+    "lat": 10.18026,
+    "lng": -5.51983
+  },
+  {
+    "name": "Natéré-Dioulasso",
+    "country": "CI",
+    "lat": 8.29665,
+    "lng": -4.32434
+  },
+  {
+    "name": "Natéré",
+    "country": "CI",
+    "lat": 8.1,
+    "lng": -4.28333
+  },
+  {
+    "name": "Natengboro",
+    "country": "CI",
+    "lat": 8.84942,
+    "lng": -5.61731
+  },
+  {
+    "name": "Nassoulo",
+    "country": "CI",
+    "lat": 8.71528,
+    "lng": -4.73904
+  },
+  {
+    "name": "Nassian",
+    "country": "CI",
+    "lat": 8.45275,
+    "lng": -3.47152
+  },
+  {
+    "name": "Nassian",
+    "country": "CI",
+    "lat": 9.39755,
+    "lng": -4.47993
+  },
+  {
+    "name": "Nasalilié",
+    "country": "CI",
+    "lat": 5.94366,
+    "lng": -5.69397
+  },
+  {
+    "name": "Napié",
+    "country": "CI",
+    "lat": 9.28868,
+    "lng": -5.58324
+  },
+  {
+    "name": "Naolo-Sobara",
+    "country": "CI",
+    "lat": 8.5,
+    "lng": -4.61667
+  },
+  {
+    "name": "Nanlourougokaha",
+    "country": "CI",
+    "lat": 9.52551,
+    "lng": -5.61192
+  },
+  {
+    "name": "Nankouroubélékaha",
+    "country": "CI",
+    "lat": 9.60659,
+    "lng": -5.45637
+  },
+  {
+    "name": "Naniasso",
+    "country": "CI",
+    "lat": 10.4214,
+    "lng": -6.47883
+  },
+  {
+    "name": "Nangoniékaha",
+    "country": "CI",
+    "lat": 8.775,
+    "lng": -5.23031
+  },
+  {
+    "name": "Nangokro",
+    "country": "CI",
+    "lat": 7.12561,
+    "lng": -4.72487
+  },
+  {
+    "name": "Nangakaha",
+    "country": "CI",
+    "lat": 9.56689,
+    "lng": -5.52169
+  },
+  {
+    "name": "Nandibo Un",
+    "country": "CI",
+    "lat": 5.28381,
+    "lng": -4.92117
+  },
+  {
+    "name": "Nandékro",
+    "country": "CI",
+    "lat": 7.3111,
+    "lng": -4.59439
+  },
+  {
+    "name": "Nanbonkaha",
+    "country": "CI",
+    "lat": 9.74069,
+    "lng": -5.15874
+  },
+  {
+    "name": "Nanbékaha",
+    "country": "CI",
+    "lat": 9.28989,
+    "lng": -5.6868
+  },
+  {
+    "name": "Nanbanakaha",
+    "country": "CI",
+    "lat": 8.90965,
+    "lng": -5.16193
+  },
+  {
+    "name": "Nanandy",
+    "country": "CI",
+    "lat": 6.7425,
+    "lng": -7.1698
+  },
+  {
+    "name": "Nanan",
+    "country": "CI",
+    "lat": 6.76297,
+    "lng": -5.23633
+  },
+  {
+    "name": "Nambingué",
+    "country": "CI",
+    "lat": 10.05,
+    "lng": -5.33778
+  },
+  {
+    "name": "Nambézaria",
+    "country": "CI",
+    "lat": 5.65,
+    "lng": -5.75
+  },
+  {
+    "name": "Namassi",
+    "country": "CI",
+    "lat": 7.94669,
+    "lng": -3.44297
+  },
+  {
+    "name": "Namasélékaha",
+    "country": "CI",
+    "lat": 8.88476,
+    "lng": -5.75024
+  },
+  {
+    "name": "Namahounondougou",
+    "country": "CI",
+    "lat": 8.12691,
+    "lng": -4.13329
+  },
+  {
+    "name": "Nalogo",
+    "country": "CI",
+    "lat": 10.15001,
+    "lng": -5.69213
+  },
+  {
+    "name": "Nalého",
+    "country": "CI",
+    "lat": 10.29812,
+    "lng": -5.72287
+  },
+  {
+    "name": "Nakara",
+    "country": "CI",
+    "lat": 8.25783,
+    "lng": -5.63704
+  },
+  {
+    "name": "Nahio",
+    "country": "CI",
+    "lat": 6.38423,
+    "lng": -6.22736
+  },
+  {
+    "name": "Nagounanvogo",
+    "country": "CI",
+    "lat": 9.68122,
+    "lng": -5.51809
+  },
+  {
+    "name": "Nagafou",
+    "country": "CI",
+    "lat": 7.89242,
+    "lng": -3.07576
+  },
+  {
+    "name": "Nagabaré",
+    "country": "CI",
+    "lat": 8.08901,
+    "lng": -3.19674
+  },
+  {
+    "name": "Nafoun",
+    "country": "CI",
+    "lat": 9.33472,
+    "lng": -6.21167
+  },
+  {
+    "name": "Nafana",
+    "country": "CI",
+    "lat": 9.19146,
+    "lng": -4.78507
+  },
+  {
+    "name": "Nafana",
+    "country": "CI",
+    "lat": 7.60558,
+    "lng": -3.73052
+  },
+  {
+    "name": "Nafadougou",
+    "country": "CI",
+    "lat": 9.94219,
+    "lng": -7.56261
+  },
+  {
+    "name": "Nabodongo",
+    "country": "CI",
+    "lat": 7.88837,
+    "lng": -3.58765
+  },
+  {
+    "name": "Nambira",
+    "country": "CI",
+    "lat": 10.12993,
+    "lng": -5.90313
+  },
+  {
+    "name": "Nabagala",
+    "country": "CI",
+    "lat": 10.16889,
+    "lng": -7.65954
+  },
+  {
+    "name": "Nafoungolo",
+    "country": "CI",
+    "lat": 10.31364,
+    "lng": -5.44754
+  },
+  {
+    "name": "Namane",
+    "country": "CI",
+    "lat": 6.42177,
+    "lng": -6.68203
+  },
+  {
+    "name": "Naboville",
+    "country": "CI",
+    "lat": 5.09871,
+    "lng": -6.61456
+  },
+  {
+    "name": "Nafanasienso",
+    "country": "CI",
+    "lat": 9.26021,
+    "lng": -7.43569
+  },
+  {
+    "name": "Nanéko",
+    "country": "CI",
+    "lat": 5.5466,
+    "lng": -5.24023
+  },
+  {
+    "name": "Nagadoukou",
+    "country": "CI",
+    "lat": 6.42583,
+    "lng": -5.78126
+  },
+  {
+    "name": "Natta-Nord",
+    "country": "CI",
+    "lat": 6.93605,
+    "lng": -8.10497
+  },
+  {
+    "name": "Nané",
+    "country": "CI",
+    "lat": 7.68757,
+    "lng": -7.18685
+  },
+  {
+    "name": "Nadigbeu",
+    "country": "CI",
+    "lat": 6.75631,
+    "lng": -6.90695
+  },
+  {
+    "name": "Nadiéta",
+    "country": "CI",
+    "lat": 6.5717,
+    "lng": -5.82141
+  },
+  {
+    "name": "Nangrékro",
+    "country": "CI",
+    "lat": 6.92853,
+    "lng": -5.86142
+  },
+  {
+    "name": "Naniékaha",
+    "country": "CI",
+    "lat": 9.78428,
+    "lng": -5.14298
+  },
+  {
+    "name": "Naplékaha",
+    "country": "CI",
+    "lat": 8.17856,
+    "lng": -5.3405
+  },
+  {
+    "name": "Nancagua",
+    "country": "CL",
+    "lat": -34.65187,
+    "lng": -71.19724
+  },
+  {
+    "name": "Nacimiento",
+    "country": "CL",
+    "lat": -37.50253,
+    "lng": -72.67307
+  },
+  {
+    "name": "Nanga Eboko",
+    "country": "CM",
+    "lat": 4.68333,
+    "lng": 12.36667
+  },
+  {
+    "name": "Nangxian",
+    "country": "CN",
+    "lat": 29.04701,
+    "lng": 93.08795
+  },
+  {
+    "name": "Namling",
+    "country": "CN",
+    "lat": 29.68527,
+    "lng": 89.09556
+  },
+  {
+    "name": "Nagqu",
+    "country": "CN",
+    "lat": 31.47678,
+    "lng": 92.05729
+  },
+  {
+    "name": "Nansan",
+    "country": "CN",
+    "lat": 23.79575,
+    "lng": 98.80397
+  },
+  {
+    "name": "Nanjie",
+    "country": "CN",
+    "lat": 35.73556,
+    "lng": 107.63528
+  },
+  {
+    "name": "Napo Chengxiangzhen",
+    "country": "CN",
+    "lat": 23.47944,
+    "lng": 105.79157
+  },
+  {
+    "name": "Nanzhou",
+    "country": "CN",
+    "lat": 29.36382,
+    "lng": 112.40654
+  },
+  {
+    "name": "Nanzhao Chengguanzhen",
+    "country": "CN",
+    "lat": 33.49249,
+    "lng": 112.42723
+  },
+  {
+    "name": "Nanzhao",
+    "country": "CN",
+    "lat": 23.7199,
+    "lng": 117.17103
+  },
+  {
+    "name": "Nanzhang Chengguanzhen",
+    "country": "CN",
+    "lat": 31.78394,
+    "lng": 111.82752
+  },
+  {
+    "name": "Nanyang",
+    "country": "CN",
+    "lat": 32.99472,
+    "lng": 112.53278
+  },
+  {
+    "name": "Nanxun",
+    "country": "CN",
+    "lat": 30.86902,
+    "lng": 120.41994
+  },
+  {
+    "name": "Nanxi",
+    "country": "CN",
+    "lat": 28.84209,
+    "lng": 104.97958
+  },
+  {
+    "name": "Nantou",
+    "country": "CN",
+    "lat": 22.53557,
+    "lng": 113.91564
+  },
+  {
+    "name": "Nantong",
+    "country": "CN",
+    "lat": 32.03028,
+    "lng": 120.87472
+  },
+  {
+    "name": "Nanshu",
+    "country": "CN",
+    "lat": 37.02014,
+    "lng": 120.33731
+  },
+  {
+    "name": "Nansha",
+    "country": "CN",
+    "lat": 23.18037,
+    "lng": 102.8333
+  },
+  {
+    "name": "Nanrenfu",
+    "country": "CN",
+    "lat": 39.64611,
+    "lng": 117.19167
+  },
+  {
+    "name": "Nanping",
+    "country": "CN",
+    "lat": 29.08639,
+    "lng": 106.98722
+  },
+  {
+    "name": "Nanping",
+    "country": "CN",
+    "lat": 26.645,
+    "lng": 118.17361
+  },
+  {
+    "name": "Nanpi",
+    "country": "CN",
+    "lat": 38.04121,
+    "lng": 116.69537
+  },
+  {
+    "name": "Nanning",
+    "country": "CN",
+    "lat": 22.81667,
+    "lng": 108.31667
+  },
+  {
+    "name": "Nanmuping",
+    "country": "CN",
+    "lat": 27.31111,
+    "lng": 109.67861
+  },
+  {
+    "name": "Nanmaizhu",
+    "country": "CN",
+    "lat": 39.5025,
+    "lng": 117.74472
+  },
+  {
+    "name": "Nanma",
+    "country": "CN",
+    "lat": 36.18478,
+    "lng": 118.15486
+  },
+  {
+    "name": "Nanlong",
+    "country": "CN",
+    "lat": 31.35333,
+    "lng": 106.06309
+  },
+  {
+    "name": "Nanliang Nongchang",
+    "country": "CN",
+    "lat": 38.66667,
+    "lng": 106.2
+  },
+  {
+    "name": "Nanle",
+    "country": "CN",
+    "lat": 36.07314,
+    "lng": 115.19869
+  },
+  {
+    "name": "Nankang",
+    "country": "CN",
+    "lat": 29.44654,
+    "lng": 116.04068
+  },
+  {
+    "name": "Nanjing",
+    "country": "CN",
+    "lat": 32.06167,
+    "lng": 118.77778
+  },
+  {
+    "name": "Nanjie",
+    "country": "CN",
+    "lat": 23.63414,
+    "lng": 112.43478
+  },
+  {
+    "name": "Nanjiang",
+    "country": "CN",
+    "lat": 32.35389,
+    "lng": 106.83238
+  },
+  {
+    "name": "Nanjian",
+    "country": "CN",
+    "lat": 25.04493,
+    "lng": 100.51437
+  },
+  {
+    "name": "Nanhu",
+    "country": "CN",
+    "lat": 35.48778,
+    "lng": 119.34583
+  },
+  {
+    "name": "Nangong",
+    "country": "CN",
+    "lat": 37.35464,
+    "lng": 115.38881
+  },
+  {
+    "name": "Nanfeng",
+    "country": "CN",
+    "lat": 23.72695,
+    "lng": 111.79723
+  },
+  {
+    "name": "Nanfeng",
+    "country": "CN",
+    "lat": 19.41018,
+    "lng": 109.55024
+  },
+  {
+    "name": "Nandu",
+    "country": "CN",
+    "lat": 22.8525,
+    "lng": 110.82333
+  },
+  {
+    "name": "Nanding",
+    "country": "CN",
+    "lat": 36.74833,
+    "lng": 118.05583
+  },
+  {
+    "name": "Nandan",
+    "country": "CN",
+    "lat": 24.98179,
+    "lng": 107.54209
+  },
+  {
+    "name": "Nancun",
+    "country": "CN",
+    "lat": 36.53278,
+    "lng": 120.13389
+  },
+  {
+    "name": "Nancun",
+    "country": "CN",
+    "lat": 35.4635,
+    "lng": 112.796
+  },
+  {
+    "name": "Nanchong",
+    "country": "CN",
+    "lat": 30.79508,
+    "lng": 106.08473
+  },
+  {
+    "name": "Nanchangshan",
+    "country": "CN",
+    "lat": 37.91522,
+    "lng": 120.73247
+  },
+  {
+    "name": "Nanchang",
+    "country": "CN",
+    "lat": 28.68396,
+    "lng": 115.85306
+  },
+  {
+    "name": "Nancang",
+    "country": "CN",
+    "lat": 39.20409,
+    "lng": 117.13625
+  },
+  {
+    "name": "Nancaicun",
+    "country": "CN",
+    "lat": 39.47528,
+    "lng": 117.01611
+  },
+  {
+    "name": "Nanbin",
+    "country": "CN",
+    "lat": 29.9994,
+    "lng": 108.10913
+  },
+  {
+    "name": "Nan’an",
+    "country": "CN",
+    "lat": 25.40381,
+    "lng": 114.3569
+  },
+  {
+    "name": "Naliang",
+    "country": "CN",
+    "lat": 21.66667,
+    "lng": 107.86667
+  },
+  {
+    "name": "Nada",
+    "country": "CN",
+    "lat": 19.52134,
+    "lng": 109.57895
+  },
+  {
+    "name": "Naxi",
+    "country": "CN",
+    "lat": 28.77422,
+    "lng": 105.36488
+  },
+  {
+    "name": "Nanping",
+    "country": "CN",
+    "lat": 29.54111,
+    "lng": 106.58778
+  },
+  {
+    "name": "Nantou",
+    "country": "CN",
+    "lat": 22.72171,
+    "lng": 113.29261
+  },
+  {
+    "name": "Nandong",
+    "country": "CN",
+    "lat": 22.71758,
+    "lng": 113.83421
+  },
+  {
+    "name": "Nanhai",
+    "country": "CN",
+    "lat": 21.47251,
+    "lng": 111.02684
+  },
+  {
+    "name": "Nanpeng",
+    "country": "CN",
+    "lat": 29.33472,
+    "lng": 106.65222
+  },
+  {
+    "name": "Nanshan",
+    "country": "CN",
+    "lat": 22.538,
+    "lng": 113.93889
+  },
+  {
+    "name": "Nantai",
+    "country": "CN",
+    "lat": 40.9241,
+    "lng": 122.80437
+  },
+  {
+    "name": "Nanpiao",
+    "country": "CN",
+    "lat": 41.09822,
+    "lng": 120.74792
+  },
+  {
+    "name": "Nanzhao",
+    "country": "CN",
+    "lat": 25.22222,
+    "lng": 100.30344
+  },
+  {
+    "name": "Nayun",
+    "country": "CN",
+    "lat": 22.33196,
+    "lng": 99.56132
+  },
+  {
+    "name": "Nanshan Residential",
+    "country": "CN",
+    "lat": 22.53334,
+    "lng": 113.92978
+  },
+  {
+    "name": "Nanhe",
+    "country": "CN",
+    "lat": 34.09511,
+    "lng": 104.24716
+  },
+  {
+    "name": "Nanyang",
+    "country": "CN",
+    "lat": 33.95705,
+    "lng": 104.64327
+  },
+  {
+    "name": "Nanyu",
+    "country": "CN",
+    "lat": 33.71838,
+    "lng": 104.4133
+  },
+  {
+    "name": "Nalang",
+    "country": "CN",
+    "lat": 34.5154,
+    "lng": 103.70052
+  },
+  {
+    "name": "Nawu",
+    "country": "CN",
+    "lat": 34.95403,
+    "lng": 102.91337
+  },
+  {
+    "name": "Nanzheng Chengguanzhen",
+    "country": "CN",
+    "lat": 33.00452,
+    "lng": 106.93466
+  },
+  {
+    "name": "Nagqu",
+    "country": "CN",
+    "lat": 31.403,
+    "lng": 92.003
+  },
+  {
+    "name": "Nanchansi",
+    "country": "CN",
+    "lat": 31.56242,
+    "lng": 120.30021
+  },
+  {
+    "name": "Nanmen",
+    "country": "CN",
+    "lat": 30.96187,
+    "lng": 108.24327
+  },
+  {
+    "name": "Nanya",
+    "country": "CN",
+    "lat": 31.08434,
+    "lng": 108.08664
+  },
+  {
+    "name": "Nantianhu",
+    "country": "CN",
+    "lat": 29.70098,
+    "lng": 107.92053
+  },
+  {
+    "name": "Nanyaojie",
+    "country": "CN",
+    "lat": 28.39957,
+    "lng": 108.64484
+  },
+  {
+    "name": "Nanmu",
+    "country": "CN",
+    "lat": 28.60348,
+    "lng": 108.76393
+  },
+  {
+    "name": "Nantuo",
+    "country": "CN",
+    "lat": 29.85538,
+    "lng": 107.5279
+  },
+  {
+    "name": "Nanjin",
+    "country": "CN",
+    "lat": 29.98497,
+    "lng": 106.26529
+  },
+  {
+    "name": "Nandajie",
+    "country": "CN",
+    "lat": 29.33773,
+    "lng": 105.89237
+  },
+  {
+    "name": "Nanshan",
+    "country": "CN",
+    "lat": 47.31284,
+    "lng": 130.27956
+  },
+  {
+    "name": "Nanzhushan",
+    "country": "CN",
+    "lat": 29.23785,
+    "lng": 107.18342
+  },
+  {
+    "name": "Nanchuan",
+    "country": "CN",
+    "lat": 29.15201,
+    "lng": 107.10335
+  },
+  {
+    "name": "Nantong",
+    "country": "CN",
+    "lat": 28.94386,
+    "lng": 106.88194
+  },
+  {
+    "name": "Nan’an",
+    "country": "CN",
+    "lat": 23.03136,
+    "lng": 112.45108
+  },
+  {
+    "name": "Nanjie",
+    "country": "CN",
+    "lat": 38.95462,
+    "lng": 100.47237
+  },
+  {
+    "name": "Nanchangshan",
+    "country": "CN",
+    "lat": 37.93049,
+    "lng": 120.72908
+  },
+  {
+    "name": "Nanling",
+    "country": "CN",
+    "lat": 22.71121,
+    "lng": 99.99563
+  },
+  {
+    "name": "Nanguan",
+    "country": "CN",
+    "lat": 43.86201,
+    "lng": 125.34272
+  },
+  {
+    "name": "Nanping",
+    "country": "CN",
+    "lat": 29.06742,
+    "lng": 111.68604
+  },
+  {
+    "name": "Nanchang, Shenzhen",
+    "country": "CN",
+    "lat": 22.59763,
+    "lng": 113.8416
+  },
+  {
+    "name": "Nanyou, Shenzhen",
+    "country": "CN",
+    "lat": 22.50036,
+    "lng": 113.92314
+  },
+  {
+    "name": "Nanyuan Residential",
+    "country": "CN",
+    "lat": 22.54052,
+    "lng": 114.09526
+  },
+  {
+    "name": "Natagaima",
+    "country": "CO",
+    "lat": 3.62057,
+    "lng": -75.09415
+  },
+  {
+    "name": "Nariño",
+    "country": "CO",
+    "lat": 5.60893,
+    "lng": -75.17656
+  },
+  {
+    "name": "Nariño",
+    "country": "CO",
+    "lat": 4.39781,
+    "lng": -74.82731
+  },
+  {
+    "name": "Nariño",
+    "country": "CO",
+    "lat": 1.28995,
+    "lng": -77.35721
+  },
+  {
+    "name": "Naranjo",
+    "country": "CR",
+    "lat": 10.09866,
+    "lng": -84.37824
+  },
+  {
+    "name": "Nandayure",
+    "country": "CR",
+    "lat": 10.03333,
+    "lng": -85.2
+  },
+  {
+    "name": "Naranjito",
+    "country": "CU",
+    "lat": 23.07939,
+    "lng": -82.3769
+  },
+  {
+    "name": "Najasa",
+    "country": "CU",
+    "lat": 21.07308,
+    "lng": -77.74516
+  },
+  {
+    "name": "Naval Station Guantanamo Bay",
+    "country": "CU",
+    "lat": 19.91579,
+    "lng": -75.14385
+  },
+  {
+    "name": "Nalžovské Hory",
+    "country": "CZ",
+    "lat": 49.33097,
+    "lng": 13.54481
+  },
+  {
+    "name": "Nasavrky",
+    "country": "CZ",
+    "lat": 49.8445,
+    "lng": 15.80461
+  },
+  {
+    "name": "Napajedla",
+    "country": "CZ",
+    "lat": 49.17156,
+    "lng": 17.51194
+  },
+  {
+    "name": "Načeradec",
+    "country": "CZ",
+    "lat": 49.61018,
+    "lng": 14.90633
+  },
+  {
+    "name": "Nauwalde",
+    "country": "DE",
+    "lat": 51.41837,
+    "lng": 13.40974
+  },
+  {
+    "name": "Nauroth",
+    "country": "DE",
+    "lat": 50.69927,
+    "lng": 7.87543
+  },
+  {
+    "name": "Nauort",
+    "country": "DE",
+    "lat": 50.46667,
+    "lng": 7.63333
+  },
+  {
+    "name": "Naunhof",
+    "country": "DE",
+    "lat": 51.2777,
+    "lng": 12.58827
+  },
+  {
+    "name": "Naundorf",
+    "country": "DE",
+    "lat": 51.25718,
+    "lng": 13.1081
+  },
+  {
+    "name": "Naumburg",
+    "country": "DE",
+    "lat": 51.24816,
+    "lng": 9.16569
+  },
+  {
+    "name": "Naumburg",
+    "country": "DE",
+    "lat": 51.14987,
+    "lng": 11.80979
+  },
+  {
+    "name": "Nauendorf",
+    "country": "DE",
+    "lat": 51.60178,
+    "lng": 11.88525
+  },
+  {
+    "name": "Nauen",
+    "country": "DE",
+    "lat": 52.60701,
+    "lng": 12.87374
+  },
+  {
+    "name": "Nattheim",
+    "country": "DE",
+    "lat": 48.69963,
+    "lng": 10.24209
+  },
+  {
+    "name": "Nastätten",
+    "country": "DE",
+    "lat": 50.19883,
+    "lng": 7.85892
+  },
+  {
+    "name": "Nassau",
+    "country": "DE",
+    "lat": 50.31453,
+    "lng": 7.80025
+  },
+  {
+    "name": "Narsdorf",
+    "country": "DE",
+    "lat": 51.01667,
+    "lng": 12.71667
+  },
+  {
+    "name": "Nanzdietschweiler",
+    "country": "DE",
+    "lat": 49.45,
+    "lng": 7.45
+  },
+  {
+    "name": "Nandlstadt",
+    "country": "DE",
+    "lat": 48.53644,
+    "lng": 11.8073
+  },
+  {
+    "name": "Namborn",
+    "country": "DE",
+    "lat": 49.52166,
+    "lng": 7.1407
+  },
+  {
+    "name": "Nalbach",
+    "country": "DE",
+    "lat": 49.38333,
+    "lng": 6.78333
+  },
+  {
+    "name": "Naila",
+    "country": "DE",
+    "lat": 50.33034,
+    "lng": 11.70463
+  },
+  {
+    "name": "Nahrendorf",
+    "country": "DE",
+    "lat": 53.17389,
+    "lng": 10.81381
+  },
+  {
+    "name": "Nahe",
+    "country": "DE",
+    "lat": 53.79364,
+    "lng": 10.13565
+  },
+  {
+    "name": "Nagold",
+    "country": "DE",
+    "lat": 48.5498,
+    "lng": 8.72366
+  },
+  {
+    "name": "Nagel",
+    "country": "DE",
+    "lat": 49.98333,
+    "lng": 11.91667
+  },
+  {
+    "name": "Nackenheim",
+    "country": "DE",
+    "lat": 49.91528,
+    "lng": 8.33889
+  },
+  {
+    "name": "Nachterstedt",
+    "country": "DE",
+    "lat": 51.80081,
+    "lng": 11.33489
+  },
+  {
+    "name": "Nachrodt-Wiblingwerde",
+    "country": "DE",
+    "lat": 51.31667,
+    "lng": 7.61667
+  },
+  {
+    "name": "Nabburg",
+    "country": "DE",
+    "lat": 49.45347,
+    "lng": 12.17996
+  },
+  {
+    "name": "Nakskov",
+    "country": "DK",
+    "lat": 54.83038,
+    "lng": 11.13567
+  },
+  {
+    "name": "Nagua",
+    "country": "DO",
+    "lat": 19.3832,
+    "lng": -69.8474
+  },
+  {
+    "name": "Naciria",
+    "country": "DZ",
+    "lat": 36.74625,
+    "lng": 3.83163
+  },
+  {
+    "name": "Naama",
+    "country": "DZ",
+    "lat": 33.26667,
+    "lng": -0.31667
+  },
+  {
+    "name": "Nazón",
+    "country": "EC",
+    "lat": -2.70241,
+    "lng": -78.91014
+  },
+  {
+    "name": "Nayón",
+    "country": "EC",
+    "lat": -0.15817,
+    "lng": -78.43923
+  },
+  {
+    "name": "Naranjito",
+    "country": "EC",
+    "lat": -2.17071,
+    "lng": -79.465
+  },
+  {
+    "name": "Naranjal",
+    "country": "EC",
+    "lat": -2.67638,
+    "lng": -79.61735
+  },
+  {
+    "name": "Nambacola",
+    "country": "EC",
+    "lat": -4.14105,
+    "lng": -79.43063
+  },
+  {
+    "name": "Nabón",
+    "country": "EC",
+    "lat": -3.33875,
+    "lng": -79.06572
+  },
+  {
+    "name": "Narva-Jõesuu",
+    "country": "EE",
+    "lat": 59.45889,
+    "lng": 28.04083
+  },
+  {
+    "name": "Narva",
+    "country": "EE",
+    "lat": 59.37722,
+    "lng": 28.19028
+  },
+  {
+    "name": "Naqādah",
+    "country": "EG",
+    "lat": 25.90107,
+    "lng": 32.72392
+  },
+  {
+    "name": "Nag Hammâdi",
+    "country": "EG",
+    "lat": 26.04949,
+    "lng": 32.24142
+  },
+  {
+    "name": "Nabarūh",
+    "country": "EG",
+    "lat": 31.09755,
+    "lng": 31.30312
+  },
+  {
+    "name": "Nazaret",
+    "country": "ES",
+    "lat": 29.03818,
+    "lng": -13.56386
+  },
+  {
+    "name": "Navezuelas",
+    "country": "ES",
+    "lat": 39.50918,
+    "lng": -5.43766
+  },
+  {
+    "name": "Navas del Madroño",
+    "country": "ES",
+    "lat": 39.6229,
+    "lng": -6.6526
+  },
+  {
+    "name": "Navas de Jorquera",
+    "country": "ES",
+    "lat": 39.28333,
+    "lng": -1.71667
+  },
+  {
+    "name": "Navas de Estena",
+    "country": "ES",
+    "lat": 39.49481,
+    "lng": -4.52155
+  },
+  {
+    "name": "Navarrés",
+    "country": "ES",
+    "lat": 39.10198,
+    "lng": -0.69469
+  },
+  {
+    "name": "Navalvillar de Pela",
+    "country": "ES",
+    "lat": 39.09436,
+    "lng": -5.4681
+  },
+  {
+    "name": "Navalvillar de Ibor",
+    "country": "ES",
+    "lat": 39.58389,
+    "lng": -5.41328
+  },
+  {
+    "name": "Navalpino",
+    "country": "ES",
+    "lat": 39.22573,
+    "lng": -4.59133
+  },
+  {
+    "name": "Navalmoralejo",
+    "country": "ES",
+    "lat": 39.73929,
+    "lng": -5.14359
+  },
+  {
+    "name": "Navalmoral de la Mata",
+    "country": "ES",
+    "lat": 39.89158,
+    "lng": -5.54064
+  },
+  {
+    "name": "Navajas",
+    "country": "ES",
+    "lat": 39.88333,
+    "lng": -0.5
+  },
+  {
+    "name": "Navahermosa",
+    "country": "ES",
+    "lat": 39.63526,
+    "lng": -4.47012
+  },
+  {
+    "name": "Narboneta",
+    "country": "ES",
+    "lat": 39.75,
+    "lng": -1.46667
+  },
+  {
+    "name": "Nambroca",
+    "country": "ES",
+    "lat": 39.79771,
+    "lng": -3.94434
+  },
+  {
+    "name": "Nazar",
+    "country": "ES",
+    "lat": 42.63686,
+    "lng": -2.27966
+  },
+  {
+    "name": "Navianos de Valverde",
+    "country": "ES",
+    "lat": 41.95319,
+    "lng": -5.81781
+  },
+  {
+    "name": "Navia de Suarna",
+    "country": "ES",
+    "lat": 42.96667,
+    "lng": -7.0
+  },
+  {
+    "name": "Navia",
+    "country": "ES",
+    "lat": 43.53544,
+    "lng": -6.71935
+  },
+  {
+    "name": "Navatejares",
+    "country": "ES",
+    "lat": 40.33602,
+    "lng": -5.5322
+  },
+  {
+    "name": "Navatalgordo",
+    "country": "ES",
+    "lat": 40.4152,
+    "lng": -4.87155
+  },
+  {
+    "name": "Navata",
+    "country": "ES",
+    "lat": 42.22353,
+    "lng": 2.8611
+  },
+  {
+    "name": "Navasfrías",
+    "country": "ES",
+    "lat": 40.29679,
+    "lng": -6.81975
+  },
+  {
+    "name": "Navas de Oro",
+    "country": "ES",
+    "lat": 41.19627,
+    "lng": -4.43754
+  },
+  {
+    "name": "Navas del Rey",
+    "country": "ES",
+    "lat": 40.3861,
+    "lng": -4.25117
+  },
+  {
+    "name": "Navas de Bureba",
+    "country": "ES",
+    "lat": 42.6809,
+    "lng": -3.32698
+  },
+  {
+    "name": "Navascués",
+    "country": "ES",
+    "lat": 42.71758,
+    "lng": -1.11744
+  },
+  {
+    "name": "Navàs",
+    "country": "ES",
+    "lat": 41.89998,
+    "lng": 1.87763
+  },
+  {
+    "name": "Navarrevisca",
+    "country": "ES",
+    "lat": 40.36417,
+    "lng": -4.89352
+  },
+  {
+    "name": "Navarrete",
+    "country": "ES",
+    "lat": 42.43068,
+    "lng": -2.56466
+  },
+  {
+    "name": "Navarredondilla",
+    "country": "ES",
+    "lat": 40.45416,
+    "lng": -4.82199
+  },
+  {
+    "name": "Navarredonda de la Rinconada",
+    "country": "ES",
+    "lat": 40.60657,
+    "lng": -6.01169
+  },
+  {
+    "name": "Navaridas",
+    "country": "ES",
+    "lat": 42.54566,
+    "lng": -2.6265
+  },
+  {
+    "name": "Navares de las Cuevas",
+    "country": "ES",
+    "lat": 41.41431,
+    "lng": -3.75076
+  },
+  {
+    "name": "Navares de Enmedio",
+    "country": "ES",
+    "lat": 41.38096,
+    "lng": -3.72283
+  },
+  {
+    "name": "Navares de Ayuso",
+    "country": "ES",
+    "lat": 41.37447,
+    "lng": -3.70745
+  },
+  {
+    "name": "Navardún",
+    "country": "ES",
+    "lat": 42.51255,
+    "lng": -1.14822
+  },
+  {
+    "name": "Navarcles",
+    "country": "ES",
+    "lat": 41.75171,
+    "lng": 1.90357
+  },
+  {
+    "name": "Navaquesera",
+    "country": "ES",
+    "lat": 40.42558,
+    "lng": -4.91108
+  },
+  {
+    "name": "Navamorcuende",
+    "country": "ES",
+    "lat": 40.15659,
+    "lng": -4.78625
+  },
+  {
+    "name": "Navamorales",
+    "country": "ES",
+    "lat": 40.47618,
+    "lng": -5.47893
+  },
+  {
+    "name": "Navaluenga",
+    "country": "ES",
+    "lat": 40.41123,
+    "lng": -4.70897
+  },
+  {
+    "name": "Navalquejigo",
+    "country": "ES",
+    "lat": 40.60705,
+    "lng": -4.04966
+  },
+  {
+    "name": "Navalperal de Tormes",
+    "country": "ES",
+    "lat": 40.3528,
+    "lng": -5.30084
+  },
+  {
+    "name": "Navalperal de Pinares",
+    "country": "ES",
+    "lat": 40.59398,
+    "lng": -4.41149
+  },
+  {
+    "name": "Navalosa",
+    "country": "ES",
+    "lat": 40.40212,
+    "lng": -4.92999
+  },
+  {
+    "name": "Navalmoral de Béjar",
+    "country": "ES",
+    "lat": 40.42264,
+    "lng": -5.7831
+  },
+  {
+    "name": "Navalmoral",
+    "country": "ES",
+    "lat": 40.46028,
+    "lng": -4.76859
+  },
+  {
+    "name": "Navalmanzano",
+    "country": "ES",
+    "lat": 41.21594,
+    "lng": -4.25631
+  },
+  {
+    "name": "Navalilla",
+    "country": "ES",
+    "lat": 41.34146,
+    "lng": -3.93211
+  },
+  {
+    "name": "Navales",
+    "country": "ES",
+    "lat": 40.78857,
+    "lng": -5.47863
+  },
+  {
+    "name": "Navaleno",
+    "country": "ES",
+    "lat": 41.8383,
+    "lng": -3.00418
+  },
+  {
+    "name": "Navalcarnero",
+    "country": "ES",
+    "lat": 40.28908,
+    "lng": -4.01197
+  },
+  {
+    "name": "Navalcán",
+    "country": "ES",
+    "lat": 40.06667,
+    "lng": -5.08333
+  },
+  {
+    "name": "Navalagamella",
+    "country": "ES",
+    "lat": 40.46894,
+    "lng": -4.12334
+  },
+  {
+    "name": "Navalafuente",
+    "country": "ES",
+    "lat": 40.82063,
+    "lng": -3.67266
+  },
+  {
+    "name": "Navalacruz",
+    "country": "ES",
+    "lat": 40.43993,
+    "lng": -4.93122
+  },
+  {
+    "name": "Naval",
+    "country": "ES",
+    "lat": 42.19503,
+    "lng": 0.15183
+  },
+  {
+    "name": "Navajún",
+    "country": "ES",
+    "lat": 41.96667,
+    "lng": -2.1
+  },
+  {
+    "name": "Navahondilla",
+    "country": "ES",
+    "lat": 40.3251,
+    "lng": -4.49661
+  },
+  {
+    "name": "Navafría",
+    "country": "ES",
+    "lat": 41.05514,
+    "lng": -3.82478
+  },
+  {
+    "name": "Navaescurial",
+    "country": "ES",
+    "lat": 40.47163,
+    "lng": -5.27756
+  },
+  {
+    "name": "Navadijos",
+    "country": "ES",
+    "lat": 40.42524,
+    "lng": -5.08285
+  },
+  {
+    "name": "Nava de Sotrobal",
+    "country": "ES",
+    "lat": 40.89039,
+    "lng": -5.28562
+  },
+  {
+    "name": "Nava de Roa",
+    "country": "ES",
+    "lat": 41.61326,
+    "lng": -3.96442
+  },
+  {
+    "name": "Nava del Rey",
+    "country": "ES",
+    "lat": 41.33036,
+    "lng": -5.08095
+  },
+  {
+    "name": "Nava del Barco",
+    "country": "ES",
+    "lat": 40.29321,
+    "lng": -5.54022
+  },
+  {
+    "name": "Nava de la Asunción",
+    "country": "ES",
+    "lat": 41.15586,
+    "lng": -4.48751
+  },
+  {
+    "name": "Nava de Francia",
+    "country": "ES",
+    "lat": 40.53572,
+    "lng": -6.11628
+  },
+  {
+    "name": "Nava de Béjar",
+    "country": "ES",
+    "lat": 40.47518,
+    "lng": -5.67856
+  },
+  {
+    "name": "Nava de Arévalo",
+    "country": "ES",
+    "lat": 40.97803,
+    "lng": -4.77573
+  },
+  {
+    "name": "Navaconcejo",
+    "country": "ES",
+    "lat": 40.17712,
+    "lng": -5.83108
+  },
+  {
+    "name": "Navacerrada",
+    "country": "ES",
+    "lat": 40.72905,
+    "lng": -4.01696
+  },
+  {
+    "name": "Navacepedilla de Corneja",
+    "country": "ES",
+    "lat": 40.48602,
+    "lng": -5.1838
+  },
+  {
+    "name": "Navacarros",
+    "country": "ES",
+    "lat": 40.39776,
+    "lng": -5.71425
+  },
+  {
+    "name": "Nava",
+    "country": "ES",
+    "lat": 43.3581,
+    "lng": -5.51064
+  },
+  {
+    "name": "Narros de Saldueña",
+    "country": "ES",
+    "lat": 40.87268,
+    "lng": -4.86909
+  },
+  {
+    "name": "Narros de Matalayegua",
+    "country": "ES",
+    "lat": 40.6988,
+    "lng": -5.92658
+  },
+  {
+    "name": "Narros del Puerto",
+    "country": "ES",
+    "lat": 40.54131,
+    "lng": -4.99291
+  },
+  {
+    "name": "Narros del Castillo",
+    "country": "ES",
+    "lat": 40.85869,
+    "lng": -5.0601
+  },
+  {
+    "name": "Narros",
+    "country": "ES",
+    "lat": 41.84923,
+    "lng": -2.29474
+  },
+  {
+    "name": "Narrillos del Rebollar",
+    "country": "ES",
+    "lat": 40.66488,
+    "lng": -4.96577
+  },
+  {
+    "name": "Narrillos del Álamo",
+    "country": "ES",
+    "lat": 40.56673,
+    "lng": -5.46584
+  },
+  {
+    "name": "Narón",
+    "country": "ES",
+    "lat": 43.50175,
+    "lng": -8.19082
+  },
+  {
+    "name": "Nalec",
+    "country": "ES",
+    "lat": 41.55,
+    "lng": 1.11667
+  },
+  {
+    "name": "Nalda",
+    "country": "ES",
+    "lat": 42.33467,
+    "lng": -2.4871
+  },
+  {
+    "name": "Nafría de Ucero",
+    "country": "ES",
+    "lat": 41.72273,
+    "lng": -3.09499
+  },
+  {
+    "name": "Navas de San Juan",
+    "country": "ES",
+    "lat": 38.18382,
+    "lng": -3.31598
+  },
+  {
+    "name": "Navarredonda de Gredos",
+    "country": "ES",
+    "lat": 40.36136,
+    "lng": -5.13268
+  },
+  {
+    "name": "Natahoyo",
+    "country": "ES",
+    "lat": 43.54035,
+    "lng": -5.68233
+  },
+  {
+    "name": "Navas",
+    "country": "ES",
+    "lat": 41.41803,
+    "lng": 2.18596
+  },
+  {
+    "name": "Nazrēt",
+    "country": "ET",
+    "lat": 8.55,
+    "lng": 39.26667
+  },
+  {
+    "name": "Nastola",
+    "country": "FI",
+    "lat": 60.94797,
+    "lng": 25.92882
+  },
+  {
+    "name": "Nakkila",
+    "country": "FI",
+    "lat": 61.36667,
+    "lng": 22.0
+  },
+  {
+    "name": "Nagu",
+    "country": "FI",
+    "lat": 60.19375,
+    "lng": 21.90972
+  },
+  {
+    "name": "Naantali",
+    "country": "FI",
+    "lat": 60.46744,
+    "lng": 22.02428
+  },
+  {
+    "name": "Nalkala",
+    "country": "FI",
+    "lat": 61.4951,
+    "lng": 23.75802
+  },
+  {
+    "name": "Navua",
+    "country": "FJ",
+    "lat": -18.22271,
+    "lng": 178.17002
+  },
+  {
+    "name": "Nadi",
+    "country": "FJ",
+    "lat": -17.80309,
+    "lng": 177.41617
+  },
+  {
+    "name": "Nasinu",
+    "country": "FJ",
+    "lat": -18.07051,
+    "lng": 178.51313
+  },
+  {
+    "name": "Namoluk",
+    "country": "FM",
+    "lat": 5.924,
+    "lng": 153.152
+  },
+  {
+    "name": "Nazelles-Négron",
+    "country": "FR",
+    "lat": 47.43333,
+    "lng": 0.95
+  },
+  {
+    "name": "Nay",
+    "country": "FR",
+    "lat": 43.17987,
+    "lng": -0.26229
+  },
+  {
+    "name": "Naves",
+    "country": "FR",
+    "lat": 45.31395,
+    "lng": 1.76708
+  },
+  {
+    "name": "Navenne",
+    "country": "FR",
+    "lat": 47.60873,
+    "lng": 6.16176
+  },
+  {
+    "name": "Naveil",
+    "country": "FR",
+    "lat": 47.79576,
+    "lng": 1.03222
+  },
+  {
+    "name": "Navarrenx",
+    "country": "FR",
+    "lat": 43.3217,
+    "lng": -0.75968
+  },
+  {
+    "name": "Navailles-Angos",
+    "country": "FR",
+    "lat": 43.4142,
+    "lng": -0.34168
+  },
+  {
+    "name": "Naucelles",
+    "country": "FR",
+    "lat": 44.95898,
+    "lng": 2.41884
+  },
+  {
+    "name": "Naucelle",
+    "country": "FR",
+    "lat": 44.19796,
+    "lng": 2.3417
+  },
+  {
+    "name": "Nassandres",
+    "country": "FR",
+    "lat": 49.12632,
+    "lng": 0.73597
+  },
+  {
+    "name": "Narrosse",
+    "country": "FR",
+    "lat": 43.70324,
+    "lng": -1.00832
+  },
+  {
+    "name": "Nargis",
+    "country": "FR",
+    "lat": 48.11106,
+    "lng": 2.75597
+  },
+  {
+    "name": "Narbonne",
+    "country": "FR",
+    "lat": 43.18396,
+    "lng": 3.00141
+  },
+  {
+    "name": "Naours",
+    "country": "FR",
+    "lat": 50.03682,
+    "lng": 2.27691
+  },
+  {
+    "name": "Nantua",
+    "country": "FR",
+    "lat": 46.15343,
+    "lng": 5.60601
+  },
+  {
+    "name": "Nantiat",
+    "country": "FR",
+    "lat": 46.00946,
+    "lng": 1.17322
+  },
+  {
+    "name": "Nanteuil-lès-Meaux",
+    "country": "FR",
+    "lat": 48.9294,
+    "lng": 2.89594
+  },
+  {
+    "name": "Nanteuil-le-Haudouin",
+    "country": "FR",
+    "lat": 49.14082,
+    "lng": 2.81142
+  },
+  {
+    "name": "Nanteuil-en-Vallée",
+    "country": "FR",
+    "lat": 46.00065,
+    "lng": 0.32171
+  },
+  {
+    "name": "Nanteuil",
+    "country": "FR",
+    "lat": 46.41226,
+    "lng": -0.17449
+  },
+  {
+    "name": "Nantes",
+    "country": "FR",
+    "lat": 47.21725,
+    "lng": -1.55336
+  },
+  {
+    "name": "Nanterre",
+    "country": "FR",
+    "lat": 48.89198,
+    "lng": 2.20675
+  },
+  {
+    "name": "Nans-les-Pins",
+    "country": "FR",
+    "lat": 43.37066,
+    "lng": 5.78189
+  },
+  {
+    "name": "Nangis",
+    "country": "FR",
+    "lat": 48.55535,
+    "lng": 3.01306
+  },
+  {
+    "name": "Nandy",
+    "country": "FR",
+    "lat": 48.58301,
+    "lng": 2.56292
+  },
+  {
+    "name": "Nancy",
+    "country": "FR",
+    "lat": 48.68439,
+    "lng": 6.18496
+  },
+  {
+    "name": "Nancray",
+    "country": "FR",
+    "lat": 47.24536,
+    "lng": 6.18283
+  },
+  {
+    "name": "Nalliers",
+    "country": "FR",
+    "lat": 46.47055,
+    "lng": -1.02953
+  },
+  {
+    "name": "Naizin",
+    "country": "FR",
+    "lat": 47.98972,
+    "lng": -2.83267
+  },
+  {
+    "name": "Naintré",
+    "country": "FR",
+    "lat": 46.76285,
+    "lng": 0.48303
+  },
+  {
+    "name": "Nailloux",
+    "country": "FR",
+    "lat": 43.35611,
+    "lng": 1.62292
+  },
+  {
+    "name": "Nages-et-Solorgues",
+    "country": "FR",
+    "lat": 43.7906,
+    "lng": 4.23003
+  },
+  {
+    "name": "Navenby",
+    "country": "GB",
+    "lat": 53.1068,
+    "lng": -0.52494
+  },
+  {
+    "name": "Nash",
+    "country": "GB",
+    "lat": 51.54889,
+    "lng": -2.94611
+  },
+  {
+    "name": "Narborough",
+    "country": "GB",
+    "lat": 52.68333,
+    "lng": 0.58333
+  },
+  {
+    "name": "Narborough",
+    "country": "GB",
+    "lat": 52.56667,
+    "lng": -1.2
+  },
+  {
+    "name": "Narberth",
+    "country": "GB",
+    "lat": 51.79784,
+    "lng": -4.74275
+  },
+  {
+    "name": "Nantwich",
+    "country": "GB",
+    "lat": 53.06878,
+    "lng": -2.52051
+  },
+  {
+    "name": "Nairn",
+    "country": "GB",
+    "lat": 57.58094,
+    "lng": -3.87973
+  },
+  {
+    "name": "Nailsworth",
+    "country": "GB",
+    "lat": 51.69382,
+    "lng": -2.2199
+  },
+  {
+    "name": "Nailsea",
+    "country": "GB",
+    "lat": 51.43239,
+    "lng": -2.75847
+  },
+  {
+    "name": "Nafferton",
+    "country": "GB",
+    "lat": 54.01965,
+    "lng": -0.3919
+  },
+  {
+    "name": "Napsbury Park",
+    "country": "GB",
+    "lat": 51.72224,
+    "lng": -0.3132
+  },
+  {
+    "name": "Nanpean",
+    "country": "GB",
+    "lat": 50.36884,
+    "lng": -4.86935
+  },
+  {
+    "name": "Nash Mills",
+    "country": "GB",
+    "lat": 51.72373,
+    "lng": -0.44674
+  },
+  {
+    "name": "Naruja",
+    "country": "GE",
+    "lat": 41.90694,
+    "lng": 41.95417
+  },
+  {
+    "name": "Narazeni",
+    "country": "GE",
+    "lat": 42.37194,
+    "lng": 41.91083
+  },
+  {
+    "name": "Nasakirali",
+    "country": "GE",
+    "lat": 41.97305,
+    "lng": 42.06509
+  },
+  {
+    "name": "Navrongo",
+    "country": "GH",
+    "lat": 10.89469,
+    "lng": -1.09083
+  },
+  {
+    "name": "Nalerigu",
+    "country": "GH",
+    "lat": 10.52726,
+    "lng": -0.36982
+  },
+  {
+    "name": "Narsaq",
+    "country": "GL",
+    "lat": 60.91298,
+    "lng": -46.05055
+  },
+  {
+    "name": "Nanortalik",
+    "country": "GL",
+    "lat": 60.14169,
+    "lng": -45.24069
+  },
+  {
+    "name": "Nabou",
+    "country": "GN",
+    "lat": 11.98333,
+    "lng": -9.53333
+  },
+  {
+    "name": "Nahualá",
+    "country": "GT",
+    "lat": 14.8429,
+    "lng": -91.31799
+  },
+  {
+    "name": "Nai Chung",
+    "country": "HK",
+    "lat": 22.43116,
+    "lng": 114.25753
+  },
+  {
+    "name": "Nam Cheong",
+    "country": "HK",
+    "lat": 22.32799,
+    "lng": 114.15389
+  },
+  {
+    "name": "Nam Shan Estate",
+    "country": "HK",
+    "lat": 22.33477,
+    "lng": 114.17182
+  },
+  {
+    "name": "Nam Cheong Estate",
+    "country": "HK",
+    "lat": 22.32593,
+    "lng": 114.15744
+  },
+  {
+    "name": "Nam Fung Sun Chuen",
+    "country": "HK",
+    "lat": 22.28247,
+    "lng": 114.21475
+  },
+  {
+    "name": "Naranjito",
+    "country": "HN",
+    "lat": 14.95297,
+    "lng": -88.68333
+  },
+  {
+    "name": "Namasigüe",
+    "country": "HN",
+    "lat": 13.20472,
+    "lng": -87.13889
+  },
+  {
+    "name": "Naco",
+    "country": "HN",
+    "lat": 15.39106,
+    "lng": -88.18312
+  },
+  {
+    "name": "Nacaome",
+    "country": "HN",
+    "lat": 13.53917,
+    "lng": -87.48913
+  },
+  {
+    "name": "Našice",
+    "country": "HR",
+    "lat": 45.48861,
+    "lng": 18.08778
+  },
+  {
+    "name": "Naglići",
+    "country": "HR",
+    "lat": 45.51156,
+    "lng": 14.92308
+  },
+  {
+    "name": "Napkor",
+    "country": "HU",
+    "lat": 47.93797,
+    "lng": 21.86763
+  },
+  {
+    "name": "Nagyszénás",
+    "country": "HU",
+    "lat": 46.68333,
+    "lng": 20.66667
+  },
+  {
+    "name": "Nagyrábé",
+    "country": "HU",
+    "lat": 47.2,
+    "lng": 21.33333
+  },
+  {
+    "name": "Nagykálló",
+    "country": "HU",
+    "lat": 47.87491,
+    "lng": 21.84082
+  },
+  {
+    "name": "Nagyhalász",
+    "country": "HU",
+    "lat": 48.13266,
+    "lng": 21.76104
+  },
+  {
+    "name": "Nagyfüged",
+    "country": "HU",
+    "lat": 47.68333,
+    "lng": 20.11667
+  },
+  {
+    "name": "Nagyecsed",
+    "country": "HU",
+    "lat": 47.86547,
+    "lng": 22.39159
+  },
+  {
+    "name": "Nagydobos",
+    "country": "HU",
+    "lat": 48.05759,
+    "lng": 22.30423
+  },
+  {
+    "name": "Nagycserkesz",
+    "country": "HU",
+    "lat": 47.96667,
+    "lng": 21.53333
+  },
+  {
+    "name": "Naszály",
+    "country": "HU",
+    "lat": 47.70329,
+    "lng": 18.25751
+  },
+  {
+    "name": "Nagytarcsa",
+    "country": "HU",
+    "lat": 47.53128,
+    "lng": 19.28343
+  },
+  {
+    "name": "Nagyréde",
+    "country": "HU",
+    "lat": 47.76543,
+    "lng": 19.84819
+  },
+  {
+    "name": "Nagyoroszi",
+    "country": "HU",
+    "lat": 48.00503,
+    "lng": 19.0905
+  },
+  {
+    "name": "Nagymaros",
+    "country": "HU",
+    "lat": 47.7928,
+    "lng": 18.95984
+  },
+  {
+    "name": "Nagymányok",
+    "country": "HU",
+    "lat": 46.27911,
+    "lng": 18.45489
+  },
+  {
+    "name": "Nagykovácsi",
+    "country": "HU",
+    "lat": 47.5814,
+    "lng": 18.88549
+  },
+  {
+    "name": "Nagykőrös",
+    "country": "HU",
+    "lat": 47.03419,
+    "lng": 19.77857
+  },
+  {
+    "name": "Nagykáta",
+    "country": "HU",
+    "lat": 47.41514,
+    "lng": 19.7441
+  },
+  {
+    "name": "Nagykanizsa",
+    "country": "HU",
+    "lat": 46.45347,
+    "lng": 16.99104
+  },
+  {
+    "name": "Nagyigmánd",
+    "country": "HU",
+    "lat": 47.64093,
+    "lng": 18.0813
+  },
+  {
+    "name": "Nagydorog",
+    "country": "HU",
+    "lat": 46.62749,
+    "lng": 18.65565
+  },
+  {
+    "name": "Nagycenk",
+    "country": "HU",
+    "lat": 47.60435,
+    "lng": 16.69732
+  },
+  {
+    "name": "Nagybaracska",
+    "country": "HU",
+    "lat": 46.04248,
+    "lng": 18.9059
+  },
+  {
+    "name": "Nagybajom",
+    "country": "HU",
+    "lat": 46.39232,
+    "lng": 17.51147
+  },
+  {
+    "name": "Nagyatád",
+    "country": "HU",
+    "lat": 46.22961,
+    "lng": 17.35788
+  },
+  {
+    "name": "Nagyvenyim",
+    "country": "HU",
+    "lat": 46.95764,
+    "lng": 18.86353
+  },
+  {
+    "name": "Natal",
+    "country": "ID",
+    "lat": 0.5632,
+    "lng": 99.1099
+  },
+  {
+    "name": "Nainggolan",
+    "country": "ID",
+    "lat": 2.4361,
+    "lng": 98.8852
+  },
+  {
+    "name": "Natar",
+    "country": "ID",
+    "lat": -5.30897,
+    "lng": 105.19251
+  },
+  {
+    "name": "Narmada",
+    "country": "ID",
+    "lat": -8.5912,
+    "lng": 116.202
+  },
+  {
+    "name": "Naringgul",
+    "country": "ID",
+    "lat": -7.3344,
+    "lng": 107.3282
+  },
+  {
+    "name": "Nangaroro",
+    "country": "ID",
+    "lat": -8.7872,
+    "lng": 121.3923
+  },
+  {
+    "name": "Nangah Pinoh",
+    "country": "ID",
+    "lat": -0.33333,
+    "lng": 111.73333
+  },
+  {
+    "name": "Nanga Bulik",
+    "country": "ID",
+    "lat": -2.1624,
+    "lng": 111.4885
+  },
+  {
+    "name": "Namrole",
+    "country": "ID",
+    "lat": -3.84548,
+    "lng": 126.72619
+  },
+  {
+    "name": "Namlea",
+    "country": "ID",
+    "lat": -3.26194,
+    "lng": 127.09292
+  },
+  {
+    "name": "Nabire",
+    "country": "ID",
+    "lat": -3.35989,
+    "lng": 135.50074
+  },
+  {
+    "name": "Naisano Dua",
+    "country": "ID",
+    "lat": -9.59806,
+    "lng": 123.77028
+  },
+  {
+    "name": "Naru",
+    "country": "ID",
+    "lat": -8.572,
+    "lng": 118.9929
+  },
+  {
+    "name": "Nagarasari",
+    "country": "ID",
+    "lat": -7.3003,
+    "lng": 108.2213
+  },
+  {
+    "name": "Navan",
+    "country": "IE",
+    "lat": 53.65278,
+    "lng": -6.68139
+  },
+  {
+    "name": "Naas",
+    "country": "IE",
+    "lat": 53.21583,
+    "lng": -6.66694
+  },
+  {
+    "name": "Naẖal Teqoa‘",
+    "country": "IL",
+    "lat": 31.65406,
+    "lng": 35.22822
+  },
+  {
+    "name": "Naẕerat ‘Illit",
+    "country": "IL",
+    "lat": 32.70816,
+    "lng": 35.32469
+  },
+  {
+    "name": "Nazareth",
+    "country": "IL",
+    "lat": 32.70087,
+    "lng": 35.29719
+  },
+  {
+    "name": "Naḥf",
+    "country": "IL",
+    "lat": 32.93444,
+    "lng": 35.31679
+  },
+  {
+    "name": "Nahariyya",
+    "country": "IL",
+    "lat": 33.00892,
+    "lng": 35.09814
+  },
+  {
+    "name": "Na‘an",
+    "country": "IL",
+    "lat": 31.88282,
+    "lng": 34.85832
+  },
+  {
+    "name": "Na'ale",
+    "country": "IL",
+    "lat": 31.96236,
+    "lng": 35.06553
+  },
+  {
+    "name": "Nagaon",
+    "country": "IN",
+    "lat": 26.35,
+    "lng": 92.66667
+  },
+  {
+    "name": "Nazareth",
+    "country": "IN",
+    "lat": 8.56102,
+    "lng": 77.97214
+  },
+  {
+    "name": "Nayāgarh",
+    "country": "IN",
+    "lat": 20.12882,
+    "lng": 85.09626
+  },
+  {
+    "name": "Naya Bāzār",
+    "country": "IN",
+    "lat": 27.13082,
+    "lng": 88.23972
+  },
+  {
+    "name": "Nawanshahr",
+    "country": "IN",
+    "lat": 31.1245,
+    "lng": 76.11613
+  },
+  {
+    "name": "Nawāpāra",
+    "country": "IN",
+    "lat": 20.97173,
+    "lng": 81.85884
+  },
+  {
+    "name": "Nawānshahr",
+    "country": "IN",
+    "lat": 32.76505,
+    "lng": 74.52772
+  },
+  {
+    "name": "Nawalgarh",
+    "country": "IN",
+    "lat": 27.85161,
+    "lng": 75.27384
+  },
+  {
+    "name": "Nawāda",
+    "country": "IN",
+    "lat": 24.8867,
+    "lng": 85.54364
+  },
+  {
+    "name": "Nawābganj",
+    "country": "IN",
+    "lat": 26.49716,
+    "lng": 80.30934
+  },
+  {
+    "name": "Nawābganj",
+    "country": "IN",
+    "lat": 28.54103,
+    "lng": 79.63462
+  },
+  {
+    "name": "Nawābganj",
+    "country": "IN",
+    "lat": 26.93129,
+    "lng": 81.19841
+  },
+  {
+    "name": "Nawābganj",
+    "country": "IN",
+    "lat": 26.86396,
+    "lng": 82.14103
+  },
+  {
+    "name": "Navsari",
+    "country": "IN",
+    "lat": 20.94237,
+    "lng": 72.92467
+  },
+  {
+    "name": "Navelim",
+    "country": "IN",
+    "lat": 15.53333,
+    "lng": 73.98333
+  },
+  {
+    "name": "Navelim",
+    "country": "IN",
+    "lat": 15.25885,
+    "lng": 73.96637
+  },
+  {
+    "name": "Navāpur",
+    "country": "IN",
+    "lat": 21.16157,
+    "lng": 73.79399
+  },
+  {
+    "name": "Navalgund",
+    "country": "IN",
+    "lat": 15.55877,
+    "lng": 75.35305
+  },
+  {
+    "name": "Navadwīp",
+    "country": "IN",
+    "lat": 23.4067,
+    "lng": 88.36861
+  },
+  {
+    "name": "Nautanwa",
+    "country": "IN",
+    "lat": 27.42752,
+    "lng": 83.41789
+  },
+  {
+    "name": "Naugachhia",
+    "country": "IN",
+    "lat": 25.38807,
+    "lng": 87.09906
+  },
+  {
+    "name": "Naubatpur",
+    "country": "IN",
+    "lat": 25.49856,
+    "lng": 84.96084
+  },
+  {
+    "name": "Natham",
+    "country": "IN",
+    "lat": 10.22776,
+    "lng": 78.22969
+  },
+  {
+    "name": "Nasrullāhganj",
+    "country": "IN",
+    "lat": 22.6837,
+    "lng": 77.27069
+  },
+  {
+    "name": "Nasīrābād",
+    "country": "IN",
+    "lat": 26.30473,
+    "lng": 74.73364
+  },
+  {
+    "name": "Nashik",
+    "country": "IN",
+    "lat": 19.99727,
+    "lng": 73.79096
+  },
+  {
+    "name": "Narwar",
+    "country": "IN",
+    "lat": 25.6439,
+    "lng": 77.9129
+  },
+  {
+    "name": "Narwāna",
+    "country": "IN",
+    "lat": 29.59903,
+    "lng": 76.11927
+  },
+  {
+    "name": "Narsīpatnam",
+    "country": "IN",
+    "lat": 17.66709,
+    "lng": 82.61245
+  },
+  {
+    "name": "Narsinghgarh",
+    "country": "IN",
+    "lat": 23.70758,
+    "lng": 77.09319
+  },
+  {
+    "name": "Narsimhapur",
+    "country": "IN",
+    "lat": 22.94936,
+    "lng": 79.18357
+  },
+  {
+    "name": "Narsampet",
+    "country": "IN",
+    "lat": 17.92786,
+    "lng": 79.89227
+  },
+  {
+    "name": "Narot Mehra",
+    "country": "IN",
+    "lat": 32.26726,
+    "lng": 75.56469
+  },
+  {
+    "name": "Naroli",
+    "country": "IN",
+    "lat": 20.27354,
+    "lng": 72.94167
+  },
+  {
+    "name": "Naroda",
+    "country": "IN",
+    "lat": 23.07041,
+    "lng": 72.65702
+  },
+  {
+    "name": "Narnaul",
+    "country": "IN",
+    "lat": 28.04444,
+    "lng": 76.10833
+  },
+  {
+    "name": "Narkher",
+    "country": "IN",
+    "lat": 21.47231,
+    "lng": 78.53415
+  },
+  {
+    "name": "Narkatiāganj",
+    "country": "IN",
+    "lat": 27.10383,
+    "lng": 84.46185
+  },
+  {
+    "name": "Nari",
+    "country": "IN",
+    "lat": 21.77263,
+    "lng": 72.07279
+  },
+  {
+    "name": "Narharpur",
+    "country": "IN",
+    "lat": 20.44892,
+    "lng": 81.62004
+  },
+  {
+    "name": "Nargund",
+    "country": "IN",
+    "lat": 15.72299,
+    "lng": 75.38666
+  },
+  {
+    "name": "Narendranagar",
+    "country": "IN",
+    "lat": 30.16173,
+    "lng": 78.28712
+  },
+  {
+    "name": "Narela",
+    "country": "IN",
+    "lat": 28.85267,
+    "lng": 77.09288
+  },
+  {
+    "name": "Naregal",
+    "country": "IN",
+    "lat": 15.57316,
+    "lng": 75.80805
+  },
+  {
+    "name": "Naraingarh",
+    "country": "IN",
+    "lat": 30.47798,
+    "lng": 77.12804
+  },
+  {
+    "name": "Naraura",
+    "country": "IN",
+    "lat": 28.20147,
+    "lng": 78.38723
+  },
+  {
+    "name": "Narauli",
+    "country": "IN",
+    "lat": 28.48547,
+    "lng": 78.71484
+  },
+  {
+    "name": "Narasingāpuram",
+    "country": "IN",
+    "lat": 13.60759,
+    "lng": 79.31652
+  },
+  {
+    "name": "Narasimharājapura",
+    "country": "IN",
+    "lat": 13.61075,
+    "lng": 75.512
+  },
+  {
+    "name": "Narasaraopet",
+    "country": "IN",
+    "lat": 16.23488,
+    "lng": 80.04927
+  },
+  {
+    "name": "Narasapur",
+    "country": "IN",
+    "lat": 16.43425,
+    "lng": 81.69845
+  },
+  {
+    "name": "Narasannapeta",
+    "country": "IN",
+    "lat": 18.41428,
+    "lng": 84.04463
+  },
+  {
+    "name": "Narakal",
+    "country": "IN",
+    "lat": 10.03833,
+    "lng": 76.2221
+  },
+  {
+    "name": "Naraini",
+    "country": "IN",
+    "lat": 25.19033,
+    "lng": 80.475
+  },
+  {
+    "name": "Naraina",
+    "country": "IN",
+    "lat": 26.79069,
+    "lng": 75.20608
+  },
+  {
+    "name": "Napāsar",
+    "country": "IN",
+    "lat": 27.96059,
+    "lng": 73.55913
+  },
+  {
+    "name": "Nannilam",
+    "country": "IN",
+    "lat": 10.87933,
+    "lng": 79.61062
+  },
+  {
+    "name": "Nanjangūd",
+    "country": "IN",
+    "lat": 12.11764,
+    "lng": 76.68397
+  },
+  {
+    "name": "Nanguneri",
+    "country": "IN",
+    "lat": 8.49326,
+    "lng": 77.65806
+  },
+  {
+    "name": "Nangavalli",
+    "country": "IN",
+    "lat": 11.76189,
+    "lng": 77.89093
+  },
+  {
+    "name": "Nangal",
+    "country": "IN",
+    "lat": 31.38966,
+    "lng": 76.37574
+  },
+  {
+    "name": "Nandyāl",
+    "country": "IN",
+    "lat": 15.47799,
+    "lng": 78.4836
+  },
+  {
+    "name": "Nandurbar",
+    "country": "IN",
+    "lat": 21.36671,
+    "lng": 74.24051
+  },
+  {
+    "name": "Nandikotkūr",
+    "country": "IN",
+    "lat": 15.85668,
+    "lng": 78.26569
+  },
+  {
+    "name": "Nandigāma",
+    "country": "IN",
+    "lat": 16.7717,
+    "lng": 80.28596
+  },
+  {
+    "name": "Nandgaon",
+    "country": "IN",
+    "lat": 27.71102,
+    "lng": 77.38653
+  },
+  {
+    "name": "Nandgad",
+    "country": "IN",
+    "lat": 15.57746,
+    "lng": 74.56899
+  },
+  {
+    "name": "Nanded",
+    "country": "IN",
+    "lat": 19.16023,
+    "lng": 77.31497
+  },
+  {
+    "name": "Nanauta",
+    "country": "IN",
+    "lat": 29.71215,
+    "lng": 77.41728
+  },
+  {
+    "name": "Namli",
+    "country": "IN",
+    "lat": 23.46115,
+    "lng": 75.06036
+  },
+  {
+    "name": "Namchi",
+    "country": "IN",
+    "lat": 27.16494,
+    "lng": 88.3638
+  },
+  {
+    "name": "Nambutalai",
+    "country": "IN",
+    "lat": 9.72766,
+    "lng": 79.00707
+  },
+  {
+    "name": "Nambiyūr",
+    "country": "IN",
+    "lat": 11.35811,
+    "lng": 77.32115
+  },
+  {
+    "name": "Nal Khera",
+    "country": "IN",
+    "lat": 23.83602,
+    "lng": 76.24316
+  },
+  {
+    "name": "Naliya",
+    "country": "IN",
+    "lat": 23.26058,
+    "lng": 68.82655
+  },
+  {
+    "name": "Nalhāti",
+    "country": "IN",
+    "lat": 24.29704,
+    "lng": 87.82899
+  },
+  {
+    "name": "Nalgonda",
+    "country": "IN",
+    "lat": 17.05439,
+    "lng": 79.26707
+  },
+  {
+    "name": "Naldurg",
+    "country": "IN",
+    "lat": 17.81667,
+    "lng": 76.28182
+  },
+  {
+    "name": "Nalbāri",
+    "country": "IN",
+    "lat": 26.43937,
+    "lng": 91.44041
+  },
+  {
+    "name": "Nakūr",
+    "country": "IN",
+    "lat": 29.91964,
+    "lng": 77.30438
+  },
+  {
+    "name": "Naksalbāri",
+    "country": "IN",
+    "lat": 26.6827,
+    "lng": 88.22001
+  },
+  {
+    "name": "Nakrekal",
+    "country": "IN",
+    "lat": 17.16259,
+    "lng": 79.42754
+  },
+  {
+    "name": "Nakodar",
+    "country": "IN",
+    "lat": 31.12586,
+    "lng": 75.47508
+  },
+  {
+    "name": "Najībābād",
+    "country": "IN",
+    "lat": 29.61194,
+    "lng": 78.34274
+  },
+  {
+    "name": "Najafgarh",
+    "country": "IN",
+    "lat": 28.60922,
+    "lng": 76.97982
+  },
+  {
+    "name": "Nainwa",
+    "country": "IN",
+    "lat": 25.77145,
+    "lng": 75.84978
+  },
+  {
+    "name": "Nainpur",
+    "country": "IN",
+    "lat": 22.42996,
+    "lng": 80.10561
+  },
+  {
+    "name": "Naini Tāl",
+    "country": "IN",
+    "lat": 29.39743,
+    "lng": 79.44686
+  },
+  {
+    "name": "Naihāti",
+    "country": "IN",
+    "lat": 22.89396,
+    "lng": 88.41521
+  },
+  {
+    "name": "Naīgarhi",
+    "country": "IN",
+    "lat": 24.78686,
+    "lng": 81.77868
+  },
+  {
+    "name": "Nahorkatiya",
+    "country": "IN",
+    "lat": 27.286,
+    "lng": 95.328
+  },
+  {
+    "name": "Nagrota",
+    "country": "IN",
+    "lat": 32.80106,
+    "lng": 74.91324
+  },
+  {
+    "name": "Nagrota",
+    "country": "IN",
+    "lat": 32.0571,
+    "lng": 76.09139
+  },
+  {
+    "name": "Nagri",
+    "country": "IN",
+    "lat": 20.34646,
+    "lng": 81.95998
+  },
+  {
+    "name": "Nagrām",
+    "country": "IN",
+    "lat": 26.61872,
+    "lng": 81.14043
+  },
+  {
+    "name": "Nagpur",
+    "country": "IN",
+    "lat": 21.14631,
+    "lng": 79.08491
+  },
+  {
+    "name": "Naginimora",
+    "country": "IN",
+    "lat": 26.81492,
+    "lng": 94.81084
+  },
+  {
+    "name": "Nagīna",
+    "country": "IN",
+    "lat": 29.44433,
+    "lng": 78.43646
+  },
+  {
+    "name": "Nagīna",
+    "country": "IN",
+    "lat": 27.91717,
+    "lng": 76.98207
+  },
+  {
+    "name": "Nagda",
+    "country": "IN",
+    "lat": 23.45834,
+    "lng": 75.41759
+  },
+  {
+    "name": "Nagari",
+    "country": "IN",
+    "lat": 13.32139,
+    "lng": 79.58557
+  },
+  {
+    "name": "Nagar",
+    "country": "IN",
+    "lat": 32.13808,
+    "lng": 77.17393
+  },
+  {
+    "name": "Nagar",
+    "country": "IN",
+    "lat": 27.42397,
+    "lng": 77.09922
+  },
+  {
+    "name": "Nagapattinam",
+    "country": "IN",
+    "lat": 10.76377,
+    "lng": 79.84313
+  },
+  {
+    "name": "Nagalapuram",
+    "country": "IN",
+    "lat": 13.38836,
+    "lng": 79.79623
+  },
+  {
+    "name": "Naduvattam",
+    "country": "IN",
+    "lat": 11.48075,
+    "lng": 76.54365
+  },
+  {
+    "name": "Naduvannūr",
+    "country": "IN",
+    "lat": 11.48772,
+    "lng": 75.77511
+  },
+  {
+    "name": "Nadīgaon",
+    "country": "IN",
+    "lat": 26.10784,
+    "lng": 79.02283
+  },
+  {
+    "name": "Nadiād",
+    "country": "IN",
+    "lat": 22.69385,
+    "lng": 72.86157
+  },
+  {
+    "name": "Nabīnagar",
+    "country": "IN",
+    "lat": 24.60681,
+    "lng": 84.12624
+  },
+  {
+    "name": "Nagrota Bagwān",
+    "country": "IN",
+    "lat": 32.10721,
+    "lng": 76.37657
+  },
+  {
+    "name": "Narmadapuram",
+    "country": "IN",
+    "lat": 22.74747,
+    "lng": 77.72736
+  },
+  {
+    "name": "Naoghar",
+    "country": "IN",
+    "lat": 18.89167,
+    "lng": 72.98567
+  },
+  {
+    "name": "Nandambakkam",
+    "country": "IN",
+    "lat": 12.97795,
+    "lng": 80.06781
+  },
+  {
+    "name": "Nalambūr",
+    "country": "IN",
+    "lat": 13.08667,
+    "lng": 80.17028
+  },
+  {
+    "name": "Navi Mumbai",
+    "country": "IN",
+    "lat": 19.03681,
+    "lng": 73.01582
+  },
+  {
+    "name": "Naharlagun",
+    "country": "IN",
+    "lat": 27.10467,
+    "lng": 93.69518
+  },
+  {
+    "name": "Nangilickondan",
+    "country": "IN",
+    "lat": 12.25539,
+    "lng": 79.47508
+  },
+  {
+    "name": "Navoor",
+    "country": "IN",
+    "lat": 12.89096,
+    "lng": 75.08482
+  },
+  {
+    "name": "Nachiyar Koil",
+    "country": "IN",
+    "lat": 10.91953,
+    "lng": 79.44592
+  },
+  {
+    "name": "Nannambra",
+    "country": "IN",
+    "lat": 10.99211,
+    "lng": 75.90799
+  },
+  {
+    "name": "Naina Devi",
+    "country": "IN",
+    "lat": 31.30603,
+    "lng": 76.53639
+  },
+  {
+    "name": "Nawagarh",
+    "country": "IN",
+    "lat": 21.90083,
+    "lng": 81.61346
+  },
+  {
+    "name": "Nayabazar",
+    "country": "IN",
+    "lat": 27.14667,
+    "lng": 88.27975
+  },
+  {
+    "name": "Nambol",
+    "country": "IN",
+    "lat": 24.69557,
+    "lng": 93.81974
+  },
+  {
+    "name": "Nanhera",
+    "country": "IN",
+    "lat": 30.3192,
+    "lng": 76.84798
+  },
+  {
+    "name": "Nadrālā",
+    "country": "IN",
+    "lat": 27.41785,
+    "lng": 79.15205
+  },
+  {
+    "name": "Naubasta",
+    "country": "IN",
+    "lat": 24.56398,
+    "lng": 81.18498
+  },
+  {
+    "name": "Naurhiya",
+    "country": "IN",
+    "lat": 24.20688,
+    "lng": 82.56547
+  },
+  {
+    "name": "Nangli Sakrawat",
+    "country": "IN",
+    "lat": 28.62169,
+    "lng": 76.9923
+  },
+  {
+    "name": "Narsāpuram",
+    "country": "IN",
+    "lat": 18.10044,
+    "lng": 78.88021
+  },
+  {
+    "name": "Nailā",
+    "country": "IN",
+    "lat": 22.02074,
+    "lng": 82.5666
+  },
+  {
+    "name": "Nakkāpalle",
+    "country": "IN",
+    "lat": 17.40792,
+    "lng": 82.71663
+  },
+  {
+    "name": "Nadisāl",
+    "country": "IN",
+    "lat": 13.13264,
+    "lng": 74.77774
+  },
+  {
+    "name": "Nandgaon",
+    "country": "IN",
+    "lat": 19.90067,
+    "lng": 79.30635
+  },
+  {
+    "name": "Narikombu",
+    "country": "IN",
+    "lat": 12.88458,
+    "lng": 75.05423
+  },
+  {
+    "name": "Nangli",
+    "country": "IN",
+    "lat": 31.68633,
+    "lng": 74.88747
+  },
+  {
+    "name": "Nanminda",
+    "country": "IN",
+    "lat": 11.42325,
+    "lng": 75.82308
+  },
+  {
+    "name": "Navkawada",
+    "country": "IN",
+    "lat": 19.91992,
+    "lng": 79.10765
+  },
+  {
+    "name": "Namsai",
+    "country": "IN",
+    "lat": 27.66904,
+    "lng": 95.86395
+  },
+  {
+    "name": "Nagarukhra City",
+    "country": "IN",
+    "lat": 22.93938,
+    "lng": 88.63776
+  },
+  {
+    "name": "Nahira",
+    "country": "IN",
+    "lat": 26.10931,
+    "lng": 91.47045
+  },
+  {
+    "name": "Narasimhanaickenpalayam",
+    "country": "IN",
+    "lat": 11.11732,
+    "lng": 76.93631
+  },
+  {
+    "name": "Nattappettai",
+    "country": "IN",
+    "lat": 12.81871,
+    "lng": 79.74925
+  },
+  {
+    "name": "Naduvattam",
+    "country": "IN",
+    "lat": 10.87995,
+    "lng": 76.002
+  },
+  {
+    "name": "Natathara",
+    "country": "IN",
+    "lat": 10.50919,
+    "lng": 76.25905
+  },
+  {
+    "name": "Namminikara",
+    "country": "IN",
+    "lat": 10.43216,
+    "lng": 76.25418
+  },
+  {
+    "name": "Nallūr",
+    "country": "IN",
+    "lat": 11.1003,
+    "lng": 77.39136
+  },
+  {
+    "name": "Nallampatti",
+    "country": "IN",
+    "lat": 11.34289,
+    "lng": 77.53721
+  },
+  {
+    "name": "Nasiyanūr",
+    "country": "IN",
+    "lat": 11.33814,
+    "lng": 77.64082
+  },
+  {
+    "name": "Nallavila",
+    "country": "IN",
+    "lat": 8.20549,
+    "lng": 77.34439
+  },
+  {
+    "name": "Nallūr",
+    "country": "IN",
+    "lat": 8.8705,
+    "lng": 77.51712
+  },
+  {
+    "name": "Nangavaram",
+    "country": "IN",
+    "lat": 10.86924,
+    "lng": 78.53924
+  },
+  {
+    "name": "Navalpattu",
+    "country": "IN",
+    "lat": 10.75051,
+    "lng": 78.77626
+  },
+  {
+    "name": "Narasingam",
+    "country": "IN",
+    "lat": 9.9658,
+    "lng": 78.18331
+  },
+  {
+    "name": "Nallakavundanpālaiyam",
+    "country": "IN",
+    "lat": 11.59228,
+    "lng": 78.01366
+  },
+  {
+    "name": "Nallippālaiyam",
+    "country": "IN",
+    "lat": 11.23884,
+    "lng": 78.14948
+  },
+  {
+    "name": "Narasingapuram",
+    "country": "IN",
+    "lat": 11.60379,
+    "lng": 78.57782
+  },
+  {
+    "name": "Naigaon Dattapur",
+    "country": "IN",
+    "lat": 20.24404,
+    "lng": 76.57483
+  },
+  {
+    "name": "Nasvadi",
+    "country": "IN",
+    "lat": 22.04525,
+    "lng": 73.73161
+  },
+  {
+    "name": "Nautan",
+    "country": "IN",
+    "lat": 26.72028,
+    "lng": 84.47538
+  },
+  {
+    "name": "Nalco",
+    "country": "IN",
+    "lat": 20.86544,
+    "lng": 85.18283
+  },
+  {
+    "name": "Naryanpur",
+    "country": "IN",
+    "lat": 26.9501,
+    "lng": 93.85766
+  },
+  {
+    "name": "Nadim Tiruvuru",
+    "country": "IN",
+    "lat": 17.11209,
+    "lng": 80.6088
+  },
+  {
+    "name": "Nakhula Grant",
+    "country": "IN",
+    "lat": 26.12153,
+    "lng": 92.2105
+  },
+  {
+    "name": "Naubaisa Goan",
+    "country": "IN",
+    "lat": 26.79552,
+    "lng": 94.21591
+  },
+  {
+    "name": "Nai-Ledri",
+    "country": "IN",
+    "lat": 23.17711,
+    "lng": 82.19921
+  },
+  {
+    "name": "Naya Baradwar",
+    "country": "IN",
+    "lat": 22.01013,
+    "lng": 82.8177
+  },
+  {
+    "name": "Nandesari INA",
+    "country": "IN",
+    "lat": 22.40624,
+    "lng": 73.09517
+  },
+  {
+    "name": "Nava Bhildi",
+    "country": "IN",
+    "lat": 24.19067,
+    "lng": 72.00593
+  },
+  {
+    "name": "Nandej",
+    "country": "IN",
+    "lat": 22.89558,
+    "lng": 72.67916
+  },
+  {
+    "name": "Nanakwada",
+    "country": "IN",
+    "lat": 20.60287,
+    "lng": 72.92203
+  },
+  {
+    "name": "Nandelav",
+    "country": "IN",
+    "lat": 21.72026,
+    "lng": 72.99596
+  },
+  {
+    "name": "Nagam",
+    "country": "IN",
+    "lat": 33.92637,
+    "lng": 74.79189
+  },
+  {
+    "name": "Nandkharki",
+    "country": "IN",
+    "lat": 23.7823,
+    "lng": 86.19221
+  },
+  {
+    "name": "Narra",
+    "country": "IN",
+    "lat": 23.7817,
+    "lng": 86.10072
+  },
+  {
+    "name": "Nagri Kalan",
+    "country": "IN",
+    "lat": 23.81639,
+    "lng": 86.34371
+  },
+  {
+    "name": "Narath",
+    "country": "IN",
+    "lat": 11.9602,
+    "lng": 75.38931
+  },
+  {
+    "name": "Nattakam",
+    "country": "IN",
+    "lat": 9.54533,
+    "lng": 76.51414
+  },
+  {
+    "name": "Nagri",
+    "country": "IN",
+    "lat": 23.84771,
+    "lng": 75.14433
+  },
+  {
+    "name": "Nadgaon Tarf Birwadi",
+    "country": "IN",
+    "lat": 18.10079,
+    "lng": 73.45632
+  },
+  {
+    "name": "Nachane",
+    "country": "IN",
+    "lat": 16.98437,
+    "lng": 73.33928
+  },
+  {
+    "name": "Nagapur",
+    "country": "IN",
+    "lat": 19.15852,
+    "lng": 74.70087
+  },
+  {
+    "name": "Naya Gaon",
+    "country": "IN",
+    "lat": 30.77515,
+    "lng": 76.79308
+  },
+  {
+    "name": "Nandri",
+    "country": "IN",
+    "lat": 26.31157,
+    "lng": 73.10087
+  },
+  {
+    "name": "Nattalam",
+    "country": "IN",
+    "lat": 8.27961,
+    "lng": 77.23455
+  },
+  {
+    "name": "Nazarathpettai",
+    "country": "IN",
+    "lat": 13.04694,
+    "lng": 80.07977
+  },
+  {
+    "name": "Nadaikavu",
+    "country": "IN",
+    "lat": 8.2915,
+    "lng": 77.14793
+  },
+  {
+    "name": "Nathampannai",
+    "country": "IN",
+    "lat": 10.40934,
+    "lng": 78.79176
+  },
+  {
+    "name": "Naranapuram",
+    "country": "IN",
+    "lat": 9.45052,
+    "lng": 77.83524
+  },
+  {
+    "name": "Nalloor",
+    "country": "IN",
+    "lat": 8.30638,
+    "lng": 77.22398
+  },
+  {
+    "name": "Narsingarh",
+    "country": "IN",
+    "lat": 23.90967,
+    "lng": 91.25084
+  },
+  {
+    "name": "Nasiriyah",
+    "country": "IQ",
+    "lat": 31.05799,
+    "lng": 46.25726
+  },
+  {
+    "name": "Najaf",
+    "country": "IQ",
+    "lat": 32.02594,
+    "lng": 44.34625
+  },
+  {
+    "name": "Nahiyat Ghammas",
+    "country": "IQ",
+    "lat": 31.74311,
+    "lng": 44.6196
+  },
+  {
+    "name": "Narmāshīr",
+    "country": "IR",
+    "lat": 28.95216,
+    "lng": 58.69773
+  },
+  {
+    "name": "Naz̧arābād",
+    "country": "IR",
+    "lat": 35.95411,
+    "lng": 50.60607
+  },
+  {
+    "name": "Naţanz",
+    "country": "IR",
+    "lat": 33.51118,
+    "lng": 51.91808
+  },
+  {
+    "name": "Nashtārūd",
+    "country": "IR",
+    "lat": 36.7509,
+    "lng": 51.02362
+  },
+  {
+    "name": "Naqadeh",
+    "country": "IR",
+    "lat": 36.9553,
+    "lng": 45.388
+  },
+  {
+    "name": "Namīn",
+    "country": "IR",
+    "lat": 38.4269,
+    "lng": 48.4839
+  },
+  {
+    "name": "Nahāvand",
+    "country": "IR",
+    "lat": 34.19088,
+    "lng": 48.37446
+  },
+  {
+    "name": "Najafābād",
+    "country": "IR",
+    "lat": 32.63464,
+    "lng": 51.36525
+  },
+  {
+    "name": "Nasīm Shahr",
+    "country": "IR",
+    "lat": 35.56504,
+    "lng": 51.16332
+  },
+  {
+    "name": "Nasimshahr",
+    "country": "IR",
+    "lat": 35.56528,
+    "lng": 51.1583
+  },
+  {
+    "name": "Naso",
+    "country": "IT",
+    "lat": 38.12215,
+    "lng": 14.78702
+  },
+  {
+    "name": "Naro",
+    "country": "IT",
+    "lat": 37.29248,
+    "lng": 13.79337
+  },
+  {
+    "name": "Nardodipace",
+    "country": "IT",
+    "lat": 38.47418,
+    "lng": 16.34295
+  },
+  {
+    "name": "Narcao",
+    "country": "IT",
+    "lat": 39.1675,
+    "lng": 8.675
+  },
+  {
+    "name": "Naz-Sciaves - Natz-Schabs",
+    "country": "IT",
+    "lat": 46.76883,
+    "lng": 11.66558
+  },
+  {
+    "name": "Nazzano",
+    "country": "IT",
+    "lat": 42.23018,
+    "lng": 12.5944
+  },
+  {
+    "name": "Navelli",
+    "country": "IT",
+    "lat": 42.23721,
+    "lng": 13.72961
+  },
+  {
+    "name": "Nave",
+    "country": "IT",
+    "lat": 45.5848,
+    "lng": 10.27947
+  },
+  {
+    "name": "Naturno",
+    "country": "IT",
+    "lat": 46.64801,
+    "lng": 11.00129
+  },
+  {
+    "name": "Nasino-Borgo",
+    "country": "IT",
+    "lat": 44.11363,
+    "lng": 8.03205
+  },
+  {
+    "name": "Narzole",
+    "country": "IT",
+    "lat": 44.59441,
+    "lng": 7.86765
+  },
+  {
+    "name": "Narni Scalo",
+    "country": "IT",
+    "lat": 42.5362,
+    "lng": 12.5168
+  },
+  {
+    "name": "Narni",
+    "country": "IT",
+    "lat": 42.51956,
+    "lng": 12.52758
+  },
+  {
+    "name": "Nardò",
+    "country": "IT",
+    "lat": 40.17953,
+    "lng": 18.03174
+  },
+  {
+    "name": "Narbolia",
+    "country": "IT",
+    "lat": 40.04784,
+    "lng": 8.57552
+  },
+  {
+    "name": "Naples",
+    "country": "IT",
+    "lat": 40.85216,
+    "lng": 14.26811
+  },
+  {
+    "name": "Nalles",
+    "country": "IT",
+    "lat": 46.54341,
+    "lng": 11.20625
+  },
+  {
+    "name": "Nago-Torbole",
+    "country": "IT",
+    "lat": 45.87594,
+    "lng": 10.89106
+  },
+  {
+    "name": "Nanno",
+    "country": "IT",
+    "lat": 46.31481,
+    "lng": 11.04747
+  },
+  {
+    "name": "Nave San Rocco",
+    "country": "IT",
+    "lat": 46.16771,
+    "lng": 11.10508
+  },
+  {
+    "name": "Navedano",
+    "country": "IT",
+    "lat": 45.75524,
+    "lng": 9.0947
+  },
+  {
+    "name": "Nava",
+    "country": "IT",
+    "lat": 45.76219,
+    "lng": 9.36308
+  },
+  {
+    "name": "Natile Nuovo",
+    "country": "IT",
+    "lat": 38.18583,
+    "lng": 16.08527
+  },
+  {
+    "name": "Nain",
+    "country": "JM",
+    "lat": 17.96526,
+    "lng": -77.60528
+  },
+  {
+    "name": "Naze",
+    "country": "JP",
+    "lat": 28.36667,
+    "lng": 129.48333
+  },
+  {
+    "name": "Narutochō-mitsuishi",
+    "country": "JP",
+    "lat": 34.19933,
+    "lng": 134.60932
+  },
+  {
+    "name": "Nara-shi",
+    "country": "JP",
+    "lat": 34.68505,
+    "lng": 135.80485
+  },
+  {
+    "name": "Nanao",
+    "country": "JP",
+    "lat": 37.04816,
+    "lng": 136.96795
+  },
+  {
+    "name": "Namerikawa",
+    "country": "JP",
+    "lat": 36.75965,
+    "lng": 137.36215
+  },
+  {
+    "name": "Nambu",
+    "country": "JP",
+    "lat": 35.28333,
+    "lng": 138.45
+  },
+  {
+    "name": "Nakijin",
+    "country": "JP",
+    "lat": 26.67583,
+    "lng": 127.97167
+  },
+  {
+    "name": "Nakazawa",
+    "country": "JP",
+    "lat": 35.98333,
+    "lng": 138.21667
+  },
+  {
+    "name": "Nakayama",
+    "country": "JP",
+    "lat": 36.63333,
+    "lng": 138.96667
+  },
+  {
+    "name": "Nakatsugawa",
+    "country": "JP",
+    "lat": 35.48333,
+    "lng": 137.5
+  },
+  {
+    "name": "Nakatsu",
+    "country": "JP",
+    "lat": 33.59811,
+    "lng": 131.1883
+  },
+  {
+    "name": "Nakanokami",
+    "country": "JP",
+    "lat": 30.41472,
+    "lng": 130.9056
+  },
+  {
+    "name": "Nakanojōmachi",
+    "country": "JP",
+    "lat": 36.58717,
+    "lng": 138.84083
+  },
+  {
+    "name": "Nakano",
+    "country": "JP",
+    "lat": 36.75,
+    "lng": 138.36667
+  },
+  {
+    "name": "Nakamura",
+    "country": "JP",
+    "lat": 32.98333,
+    "lng": 132.93333
+  },
+  {
+    "name": "Nakama",
+    "country": "JP",
+    "lat": 33.81688,
+    "lng": 130.70962
+  },
+  {
+    "name": "Naka-kawabe",
+    "country": "JP",
+    "lat": 35.48333,
+    "lng": 137.06667
+  },
+  {
+    "name": "Nakagawa",
+    "country": "JP",
+    "lat": 37.47167,
+    "lng": 139.52902
+  },
+  {
+    "name": "Nahari",
+    "country": "JP",
+    "lat": 33.41667,
+    "lng": 134.01667
+  },
+  {
+    "name": "Naha",
+    "country": "JP",
+    "lat": 26.213,
+    "lng": 127.67851
+  },
+  {
+    "name": "Nagoya",
+    "country": "JP",
+    "lat": 35.18147,
+    "lng": 136.90641
+  },
+  {
+    "name": "Nago",
+    "country": "JP",
+    "lat": 26.61502,
+    "lng": 127.98543
+  },
+  {
+    "name": "Nagata",
+    "country": "JP",
+    "lat": 30.39516,
+    "lng": 130.42548
+  },
+  {
+    "name": "Nagasu",
+    "country": "JP",
+    "lat": 32.93257,
+    "lng": 130.44284
+  },
+  {
+    "name": "Nagasaki",
+    "country": "JP",
+    "lat": 32.75,
+    "lng": 129.88333
+  },
+  {
+    "name": "Nagareyama",
+    "country": "JP",
+    "lat": 35.8563,
+    "lng": 139.90266
+  },
+  {
+    "name": "Nagaoka",
+    "country": "JP",
+    "lat": 37.45,
+    "lng": 138.85
+  },
+  {
+    "name": "Naganohara",
+    "country": "JP",
+    "lat": 36.55,
+    "lng": 138.63333
+  },
+  {
+    "name": "Nagano",
+    "country": "JP",
+    "lat": 36.65,
+    "lng": 138.18333
+  },
+  {
+    "name": "Nagahama",
+    "country": "JP",
+    "lat": 35.38333,
+    "lng": 136.26667
+  },
+  {
+    "name": "Nabari",
+    "country": "JP",
+    "lat": 34.61667,
+    "lng": 136.08333
+  },
+  {
+    "name": "Nagiso",
+    "country": "JP",
+    "lat": 35.6086,
+    "lng": 137.61063
+  },
+  {
+    "name": "Nagato",
+    "country": "JP",
+    "lat": 34.38333,
+    "lng": 131.2
+  },
+  {
+    "name": "Natori-shi",
+    "country": "JP",
+    "lat": 38.16667,
+    "lng": 140.88333
+  },
+  {
+    "name": "Narutō",
+    "country": "JP",
+    "lat": 35.6,
+    "lng": 140.41667
+  },
+  {
+    "name": "Narita",
+    "country": "JP",
+    "lat": 35.78333,
+    "lng": 140.31667
+  },
+  {
+    "name": "Namie",
+    "country": "JP",
+    "lat": 37.48333,
+    "lng": 141.0
+  },
+  {
+    "name": "Naka-niida",
+    "country": "JP",
+    "lat": 38.56861,
+    "lng": 140.85361
+  },
+  {
+    "name": "Naka",
+    "country": "JP",
+    "lat": 36.05,
+    "lng": 140.16667
+  },
+  {
+    "name": "Nagasao",
+    "country": "JP",
+    "lat": 35.88333,
+    "lng": 140.28333
+  },
+  {
+    "name": "Nagasaki",
+    "country": "JP",
+    "lat": 38.32639,
+    "lng": 140.27639
+  },
+  {
+    "name": "Nagano",
+    "country": "JP",
+    "lat": 38.09083,
+    "lng": 140.65528
+  },
+  {
+    "name": "Nagai",
+    "country": "JP",
+    "lat": 38.10361,
+    "lng": 140.035
+  },
+  {
+    "name": "Nayoro",
+    "country": "JP",
+    "lat": 44.35056,
+    "lng": 142.45778
+  },
+  {
+    "name": "Namioka",
+    "country": "JP",
+    "lat": 40.71069,
+    "lng": 140.59048
+  },
+  {
+    "name": "Nakatonbetsu",
+    "country": "JP",
+    "lat": 44.97413,
+    "lng": 142.29263
+  },
+  {
+    "name": "Nakashibetsu",
+    "country": "JP",
+    "lat": 43.54849,
+    "lng": 144.97181
+  },
+  {
+    "name": "Naka-satsunai",
+    "country": "JP",
+    "lat": 42.7,
+    "lng": 143.13333
+  },
+  {
+    "name": "Nakasato",
+    "country": "JP",
+    "lat": 40.96949,
+    "lng": 140.43861
+  },
+  {
+    "name": "Nakagawa",
+    "country": "JP",
+    "lat": 44.81448,
+    "lng": 142.07816
+  },
+  {
+    "name": "Naka-furano",
+    "country": "JP",
+    "lat": 43.40278,
+    "lng": 142.4225
+  },
+  {
+    "name": "Naie",
+    "country": "JP",
+    "lat": 43.41833,
+    "lng": 141.88778
+  },
+  {
+    "name": "Nagatoyomachi",
+    "country": "JP",
+    "lat": 42.69998,
+    "lng": 140.06163
+  },
+  {
+    "name": "Naganuma",
+    "country": "JP",
+    "lat": 43.00583,
+    "lng": 141.68972
+  },
+  {
+    "name": "Nanto-shi",
+    "country": "JP",
+    "lat": 36.56922,
+    "lng": 136.91162
+  },
+  {
+    "name": "Namegata",
+    "country": "JP",
+    "lat": 36.00705,
+    "lng": 140.49623
+  },
+  {
+    "name": "Nanto",
+    "country": "JP",
+    "lat": 36.51274,
+    "lng": 136.89352
+  },
+  {
+    "name": "Nasushiobara",
+    "country": "JP",
+    "lat": 36.97682,
+    "lng": 140.06642
+  },
+  {
+    "name": "Nasukarasuyama",
+    "country": "JP",
+    "lat": 36.65233,
+    "lng": 140.16084
+  },
+  {
+    "name": "Nanjō",
+    "country": "JP",
+    "lat": 26.14447,
+    "lng": 127.76697
+  },
+  {
+    "name": "Nakagusuku",
+    "country": "JP",
+    "lat": 26.25,
+    "lng": 127.78333
+  },
+  {
+    "name": "Nakami",
+    "country": "JP",
+    "lat": 38.79717,
+    "lng": 140.5103
+  },
+  {
+    "name": "Nanaku",
+    "country": "JP",
+    "lat": 40.40089,
+    "lng": 141.27271
+  },
+  {
+    "name": "Narimasu",
+    "country": "JP",
+    "lat": 35.78355,
+    "lng": 139.6323
+  },
+  {
+    "name": "Nagasaki",
+    "country": "JP",
+    "lat": 35.72983,
+    "lng": 139.68857
+  },
+  {
+    "name": "Nakanobu",
+    "country": "JP",
+    "lat": 35.60498,
+    "lng": 139.71011
+  },
+  {
+    "name": "Nakameguro",
+    "country": "JP",
+    "lat": 35.6389,
+    "lng": 139.70065
+  },
+  {
+    "name": "Nakajima",
+    "country": "JP",
+    "lat": 36.46402,
+    "lng": 136.5871
+  },
+  {
+    "name": "Nakano",
+    "country": "JP",
+    "lat": 35.70449,
+    "lng": 139.66946
+  },
+  {
+    "name": "Nagase",
+    "country": "JP",
+    "lat": 35.22952,
+    "lng": 139.71555
+  },
+  {
+    "name": "Nakayama",
+    "country": "JP",
+    "lat": 36.6865,
+    "lng": 138.36841
+  },
+  {
+    "name": "Nagatoro",
+    "country": "JP",
+    "lat": 36.10311,
+    "lng": 139.10951
+  },
+  {
+    "name": "Nagaoka",
+    "country": "JP",
+    "lat": 34.93097,
+    "lng": 135.69203
+  },
+  {
+    "name": "Nakatsukuma",
+    "country": "JP",
+    "lat": 33.32351,
+    "lng": 130.44218
+  },
+  {
+    "name": "Nakatogari",
+    "country": "JP",
+    "lat": 35.13526,
+    "lng": 138.9028
+  },
+  {
+    "name": "Nasu",
+    "country": "JP",
+    "lat": 37.04209,
+    "lng": 140.09379
+  },
+  {
+    "name": "Narusawa",
+    "country": "JP",
+    "lat": 35.48321,
+    "lng": 138.70072
+  },
+  {
+    "name": "Nakazato",
+    "country": "JP",
+    "lat": 35.74223,
+    "lng": 139.75193
+  },
+  {
+    "name": "Nagadomi",
+    "country": "JP",
+    "lat": 35.42933,
+    "lng": 140.23104
+  },
+  {
+    "name": "Nakamatsu",
+    "country": "JP",
+    "lat": 32.83523,
+    "lng": 131.04527
+  },
+  {
+    "name": "Nagaoda",
+    "country": "JP",
+    "lat": 33.00048,
+    "lng": 130.60313
+  },
+  {
+    "name": "Nagawa",
+    "country": "JP",
+    "lat": 36.28358,
+    "lng": 138.24783
+  },
+  {
+    "name": "Nagakute",
+    "country": "JP",
+    "lat": 35.17325,
+    "lng": 137.05667
+  },
+  {
+    "name": "Nanyō",
+    "country": "JP",
+    "lat": 38.04322,
+    "lng": 140.11276
+  },
+  {
+    "name": "Nakatsu",
+    "country": "JP",
+    "lat": 33.46238,
+    "lng": 131.14174
+  },
+  {
+    "name": "Nankoku",
+    "country": "JP",
+    "lat": 33.56943,
+    "lng": 133.64937
+  },
+  {
+    "name": "Narashino",
+    "country": "JP",
+    "lat": 35.68184,
+    "lng": 140.04152
+  },
+  {
+    "name": "Nantan",
+    "country": "JP",
+    "lat": 35.1098,
+    "lng": 135.49164
+  },
+  {
+    "name": "Nasushiobara",
+    "country": "JP",
+    "lat": 36.97952,
+    "lng": 139.99466
+  },
+  {
+    "name": "Nakaiburi",
+    "country": "JP",
+    "lat": 34.30339,
+    "lng": 135.53322
+  },
+  {
+    "name": "Nagi",
+    "country": "JP",
+    "lat": 35.12303,
+    "lng": 134.17743
+  },
+  {
+    "name": "Naro Moru",
+    "country": "KE",
+    "lat": -0.16357,
+    "lng": 37.01773
+  },
+  {
+    "name": "Narok",
+    "country": "KE",
+    "lat": -1.08083,
+    "lng": 35.87111
+  },
+  {
+    "name": "Nanyuki",
+    "country": "KE",
+    "lat": 0.00624,
+    "lng": 37.07398
+  },
+  {
+    "name": "Nandi Hills",
+    "country": "KE",
+    "lat": 0.10366,
+    "lng": 35.18426
+  },
+  {
+    "name": "Nambare",
+    "country": "KE",
+    "lat": 0.45813,
+    "lng": 34.25353
+  },
+  {
+    "name": "Nakuru",
+    "country": "KE",
+    "lat": -0.30719,
+    "lng": 36.07225
+  },
+  {
+    "name": "Naivasha",
+    "country": "KE",
+    "lat": -0.71383,
+    "lng": 36.43261
+  },
+  {
+    "name": "Nairobi",
+    "country": "KE",
+    "lat": -1.28333,
+    "lng": 36.81667
+  },
+  {
+    "name": "Nairagi Enkare",
+    "country": "KE",
+    "lat": -1.04444,
+    "lng": 36.16314
+  },
+  {
+    "name": "Naryn",
+    "country": "KG",
+    "lat": 41.42832,
+    "lng": 75.99568
+  },
+  {
+    "name": "Nang Khi Lik",
+    "country": "KH",
+    "lat": 13.30353,
+    "lng": 107.15407
+  },
+  {
+    "name": "Napari Village",
+    "country": "KI",
+    "lat": 3.90806,
+    "lng": -159.38832
+  },
+  {
+    "name": "Nawerewere Village",
+    "country": "KI",
+    "lat": 1.36362,
+    "lng": 173.13935
+  },
+  {
+    "name": "Namp’o",
+    "country": "KP",
+    "lat": 38.7375,
+    "lng": 125.40778
+  },
+  {
+    "name": "Namyang",
+    "country": "KP",
+    "lat": 42.95044,
+    "lng": 129.85571
+  },
+  {
+    "name": "Namsan",
+    "country": "KP",
+    "lat": 42.22753,
+    "lng": 129.25408
+  },
+  {
+    "name": "Nangen",
+    "country": "KR",
+    "lat": 35.41,
+    "lng": 127.38583
+  },
+  {
+    "name": "Namsa",
+    "country": "KR",
+    "lat": 35.93333,
+    "lng": 127.05
+  },
+  {
+    "name": "Naju",
+    "country": "KR",
+    "lat": 35.0292,
+    "lng": 126.7175
+  },
+  {
+    "name": "Namyangju",
+    "country": "KR",
+    "lat": 37.63667,
+    "lng": 127.21417
+  },
+  {
+    "name": "Naesŏ",
+    "country": "KR",
+    "lat": 35.24972,
+    "lng": 128.52
+  },
+  {
+    "name": "Nammyeon",
+    "country": "KR",
+    "lat": 34.77247,
+    "lng": 127.88668
+  },
+  {
+    "name": "Nammyeon",
+    "country": "KR",
+    "lat": 35.00782,
+    "lng": 127.09621
+  },
+  {
+    "name": "Nasan",
+    "country": "KR",
+    "lat": 35.11447,
+    "lng": 126.60908
+  },
+  {
+    "name": "Nagwol",
+    "country": "KR",
+    "lat": 35.20248,
+    "lng": 126.13757
+  },
+  {
+    "name": "Narynkol",
+    "country": "KZ",
+    "lat": 42.72636,
+    "lng": 80.17495
+  },
+  {
+    "name": "Nabatîyé et Tahta",
+    "country": "LB",
+    "lat": 33.37889,
+    "lng": 35.48389
+  },
+  {
+    "name": "Nako",
+    "country": "LS",
+    "lat": -29.61667,
+    "lng": 27.76667
+  },
+  {
+    "name": "Naujoji Vilnia",
+    "country": "LT",
+    "lat": 54.69515,
+    "lng": 25.41969
+  },
+  {
+    "name": "Naujoji Akmene",
+    "country": "LT",
+    "lat": 56.31667,
+    "lng": 22.9
+  },
+  {
+    "name": "Naujininkai",
+    "country": "LT",
+    "lat": 54.66425,
+    "lng": 25.28418
+  },
+  {
+    "name": "Naujamiestis",
+    "country": "LT",
+    "lat": 54.67951,
+    "lng": 25.26855
+  },
+  {
+    "name": "Naukšēni",
+    "country": "LV",
+    "lat": 57.88349,
+    "lng": 25.45609
+  },
+  {
+    "name": "Naima",
+    "country": "MA",
+    "lat": 34.60277,
+    "lng": -2.21764
+  },
+  {
+    "name": "Nador",
+    "country": "MA",
+    "lat": 35.16813,
+    "lng": -2.93352
+  },
+  {
+    "name": "Nandihizana",
+    "country": "MG",
+    "lat": -18.9,
+    "lng": 47.71667
+  },
+  {
+    "name": "Namdrik",
+    "country": "MH",
+    "lat": 5.59944,
+    "lng": 168.10282
+  },
+  {
+    "name": "Nara",
+    "country": "ML",
+    "lat": 15.16931,
+    "lng": -7.28985
+  },
+  {
+    "name": "Nanyun",
+    "country": "MM",
+    "lat": 26.97997,
+    "lng": 96.16855
+  },
+  {
+    "name": "Nansang",
+    "country": "MM",
+    "lat": 20.89184,
+    "lng": 97.71672
+  },
+  {
+    "name": "Namhkam",
+    "country": "MM",
+    "lat": 23.83342,
+    "lng": 97.67984
+  },
+  {
+    "name": "Nay Pyi Taw",
+    "country": "MM",
+    "lat": 19.745,
+    "lng": 96.12972
+  },
+  {
+    "name": "Nant Hpar",
+    "country": "MM",
+    "lat": 26.06813,
+    "lng": 95.80374
+  },
+  {
+    "name": "Naranbulag",
+    "country": "MN",
+    "lat": 49.36667,
+    "lng": 92.56667
+  },
+  {
+    "name": "Namir",
+    "country": "MN",
+    "lat": 49.10641,
+    "lng": 91.71782
+  },
+  {
+    "name": "Nart",
+    "country": "MN",
+    "lat": 49.145,
+    "lng": 105.38833
+  },
+  {
+    "name": "Naranbulag",
+    "country": "MN",
+    "lat": 49.2436,
+    "lng": 113.37427
+  },
+  {
+    "name": "Nalayh",
+    "country": "MN",
+    "lat": 47.76667,
+    "lng": 107.28333
+  },
+  {
+    "name": "Naxxar",
+    "country": "MT",
+    "lat": 35.91368,
+    "lng": 14.44382
+  },
+  {
+    "name": "Nadur",
+    "country": "MT",
+    "lat": 36.0379,
+    "lng": 14.29382
+  },
+  {
+    "name": "Naifaru",
+    "country": "MV",
+    "lat": 5.44438,
+    "lng": 73.36571
+  },
+  {
+    "name": "Nativitas",
+    "country": "MX",
+    "lat": 17.6616,
+    "lng": -97.33566
+  },
+  {
+    "name": "Nanahuatípam",
+    "country": "MX",
+    "lat": 18.13414,
+    "lng": -97.12501
+  },
+  {
+    "name": "Nauzontla",
+    "country": "MX",
+    "lat": 19.95952,
+    "lng": -97.60314
+  },
+  {
+    "name": "Nautla",
+    "country": "MX",
+    "lat": 20.20795,
+    "lng": -96.77305
+  },
+  {
+    "name": "Naupan",
+    "country": "MX",
+    "lat": 20.23131,
+    "lng": -98.10881
+  },
+  {
+    "name": "Naucalpan de Juárez",
+    "country": "MX",
+    "lat": 19.47851,
+    "lng": -99.23963
+  },
+  {
+    "name": "Natívitas",
+    "country": "MX",
+    "lat": 19.23333,
+    "lng": -98.31472
+  },
+  {
+    "name": "Naranjos",
+    "country": "MX",
+    "lat": 21.35087,
+    "lng": -97.68656
+  },
+  {
+    "name": "Naranjal",
+    "country": "MX",
+    "lat": 18.81074,
+    "lng": -96.96282
+  },
+  {
+    "name": "Naolinco de Victoria",
+    "country": "MX",
+    "lat": 19.65474,
+    "lng": -96.8732
+  },
+  {
+    "name": "Nanchital de Lázaro Cárdenas del Río",
+    "country": "MX",
+    "lat": 18.07117,
+    "lng": -94.40756
+  },
+  {
+    "name": "Nacajuca",
+    "country": "MX",
+    "lat": 18.16963,
+    "lng": -93.01837
+  },
+  {
+    "name": "Nantzha",
+    "country": "MX",
+    "lat": 20.05317,
+    "lng": -99.36856
+  },
+  {
+    "name": "Narciso Mendoza",
+    "country": "MX",
+    "lat": 16.57996,
+    "lng": -92.98911
+  },
+  {
+    "name": "Navenchauc",
+    "country": "MX",
+    "lat": 16.73501,
+    "lng": -92.779
+  },
+  {
+    "name": "Nanacatlán",
+    "country": "MX",
+    "lat": 20.00366,
+    "lng": -97.67584
+  },
+  {
+    "name": "Nacuche",
+    "country": "MX",
+    "lat": 20.92466,
+    "lng": -88.29582
+  },
+  {
+    "name": "Nazas",
+    "country": "MX",
+    "lat": 25.22502,
+    "lng": -104.11349
+  },
+  {
+    "name": "Nazareno",
+    "country": "MX",
+    "lat": 25.39873,
+    "lng": -103.41958
+  },
+  {
+    "name": "Navolato",
+    "country": "MX",
+    "lat": 24.7668,
+    "lng": -107.69768
+  },
+  {
+    "name": "Navojoa",
+    "country": "MX",
+    "lat": 27.07057,
+    "lng": -109.44345
+  },
+  {
+    "name": "Navarrete",
+    "country": "MX",
+    "lat": 21.64841,
+    "lng": -105.11539
+  },
+  {
+    "name": "Nava",
+    "country": "MX",
+    "lat": 28.42071,
+    "lng": -100.76565
+  },
+  {
+    "name": "Narciso Mendoza",
+    "country": "MX",
+    "lat": 24.01294,
+    "lng": -103.96594
+  },
+  {
+    "name": "Naranja de Tapia",
+    "country": "MX",
+    "lat": 19.77708,
+    "lng": -101.75947
+  },
+  {
+    "name": "Namiquipa",
+    "country": "MX",
+    "lat": 29.25173,
+    "lng": -107.414
+  },
+  {
+    "name": "Naica",
+    "country": "MX",
+    "lat": 27.85562,
+    "lng": -105.48844
+  },
+  {
+    "name": "Nahuatzén",
+    "country": "MX",
+    "lat": 19.65506,
+    "lng": -101.91704
+  },
+  {
+    "name": "Nadadores",
+    "country": "MX",
+    "lat": 27.02819,
+    "lng": -101.5942
+  },
+  {
+    "name": "Nacozari Viejo",
+    "country": "MX",
+    "lat": 30.4,
+    "lng": -109.65
+  },
+  {
+    "name": "Nacozari de García",
+    "country": "MX",
+    "lat": 30.37462,
+    "lng": -109.68803
+  },
+  {
+    "name": "Naco",
+    "country": "MX",
+    "lat": 31.32639,
+    "lng": -109.94599
+  },
+  {
+    "name": "Nachig",
+    "country": "MX",
+    "lat": 16.73056,
+    "lng": -92.72528
+  },
+  {
+    "name": "Narciso Mendoza",
+    "country": "MX",
+    "lat": 18.87417,
+    "lng": -98.96972
+  },
+  {
+    "name": "Nanga Medamit",
+    "country": "MY",
+    "lat": 4.46667,
+    "lng": 114.91667
+  },
+  {
+    "name": "Nanga Merit",
+    "country": "MY",
+    "lat": 2.28333,
+    "lng": 113.13333
+  },
+  {
+    "name": "Nampula",
+    "country": "MZ",
+    "lat": -15.11646,
+    "lng": 39.2666
+  },
+  {
+    "name": "Namialo",
+    "country": "MZ",
+    "lat": -14.92056,
+    "lng": 39.98361
+  },
+  {
+    "name": "Nametil",
+    "country": "MZ",
+    "lat": -15.72028,
+    "lng": 39.3425
+  },
+  {
+    "name": "Namacurra",
+    "country": "MZ",
+    "lat": -17.49194,
+    "lng": 37.02889
+  },
+  {
+    "name": "Namaacha",
+    "country": "MZ",
+    "lat": -25.97502,
+    "lng": 32.01897
+  },
+  {
+    "name": "Nacala",
+    "country": "MZ",
+    "lat": -14.56257,
+    "lng": 40.68538
+  },
+  {
+    "name": "Namapa-erati",
+    "country": "MZ",
+    "lat": -13.71302,
+    "lng": 39.83151
+  },
+  {
+    "name": "Nasarawa Egon",
+    "country": "NG",
+    "lat": 8.71226,
+    "lng": 8.5406
+  },
+  {
+    "name": "Nasarawa",
+    "country": "NG",
+    "lat": 8.53895,
+    "lng": 7.70821
+  },
+  {
+    "name": "Nafada",
+    "country": "NG",
+    "lat": 11.09596,
+    "lng": 11.33261
+  },
+  {
+    "name": "Naka",
+    "country": "NG",
+    "lat": 7.58331,
+    "lng": 8.2044
+  },
+  {
+    "name": "Nasko",
+    "country": "NG",
+    "lat": 10.49539,
+    "lng": 4.89904
+  },
+  {
+    "name": "Nandasmo",
+    "country": "NI",
+    "lat": 11.92411,
+    "lng": -86.12072
+  },
+  {
+    "name": "Nandaime",
+    "country": "NI",
+    "lat": 11.75696,
+    "lng": -86.05286
+  },
+  {
+    "name": "Nagarote",
+    "country": "NI",
+    "lat": 12.26593,
+    "lng": -86.56474
+  },
+  {
+    "name": "Naastenbest",
+    "country": "NL",
+    "lat": 51.50484,
+    "lng": 5.38579
+  },
+  {
+    "name": "Naarden",
+    "country": "NL",
+    "lat": 52.29583,
+    "lng": 5.1625
+  },
+  {
+    "name": "Naaldwijk",
+    "country": "NL",
+    "lat": 51.99417,
+    "lng": 4.20972
+  },
+  {
+    "name": "Naustdal",
+    "country": "NO",
+    "lat": 61.51108,
+    "lng": 5.71694
+  },
+  {
+    "name": "Narvik",
+    "country": "NO",
+    "lat": 68.43838,
+    "lng": 17.4272
+  },
+  {
+    "name": "Namsskogan",
+    "country": "NO",
+    "lat": 64.92886,
+    "lng": 13.15954
+  },
+  {
+    "name": "Namsos",
+    "country": "NO",
+    "lat": 64.46624,
+    "lng": 11.49572
+  },
+  {
+    "name": "Namche Bazaar",
+    "country": "NP",
+    "lat": 27.80528,
+    "lng": 86.71058
+  },
+  {
+    "name": "Nagarkot",
+    "country": "NP",
+    "lat": 27.71522,
+    "lng": 85.52075
+  },
+  {
+    "name": "Napier",
+    "country": "NZ",
+    "lat": -39.4926,
+    "lng": 176.91233
+  },
+  {
+    "name": "Narrow Neck",
+    "country": "NZ",
+    "lat": -36.81542,
+    "lng": 174.79933
+  },
+  {
+    "name": "Naenae",
+    "country": "NZ",
+    "lat": -41.19827,
+    "lng": 174.94019
+  },
+  {
+    "name": "Natá",
+    "country": "PA",
+    "lat": 8.33588,
+    "lng": -80.5213
+  },
+  {
+    "name": "Narganá",
+    "country": "PA",
+    "lat": 9.44394,
+    "lng": -78.58666
+  },
+  {
+    "name": "Navarro",
+    "country": "PE",
+    "lat": -6.33333,
+    "lng": -75.75
+  },
+  {
+    "name": "Nauta",
+    "country": "PE",
+    "lat": -4.50561,
+    "lng": -73.58026
+  },
+  {
+    "name": "Naranjillo",
+    "country": "PE",
+    "lat": -9.24864,
+    "lng": -75.99374
+  },
+  {
+    "name": "Nanchoc",
+    "country": "PE",
+    "lat": -6.95972,
+    "lng": -79.24222
+  },
+  {
+    "name": "Namora",
+    "country": "PE",
+    "lat": -7.20223,
+    "lng": -78.32537
+  },
+  {
+    "name": "Namballe",
+    "country": "PE",
+    "lat": -5.00352,
+    "lng": -79.08907
+  },
+  {
+    "name": "Nazca",
+    "country": "PE",
+    "lat": -14.83098,
+    "lng": -74.93895
+  },
+  {
+    "name": "Naranjos",
+    "country": "PE",
+    "lat": -5.74278,
+    "lng": -77.49722
+  },
+  {
+    "name": "Navotas",
+    "country": "PH",
+    "lat": 14.66667,
+    "lng": 120.95
+  },
+  {
+    "name": "Navotas",
+    "country": "PH",
+    "lat": 14.4167,
+    "lng": 121.2268
+  },
+  {
+    "name": "Navatat",
+    "country": "PH",
+    "lat": 15.84971,
+    "lng": 120.39054
+  },
+  {
+    "name": "Naval",
+    "country": "PH",
+    "lat": 11.56056,
+    "lng": 124.3975
+  },
+  {
+    "name": "Naujan",
+    "country": "PH",
+    "lat": 13.32328,
+    "lng": 121.30282
+  },
+  {
+    "name": "Natalungan",
+    "country": "PH",
+    "lat": 7.53167,
+    "lng": 125.02361
+  },
+  {
+    "name": "Natubleng",
+    "country": "PH",
+    "lat": 16.69647,
+    "lng": 120.78054
+  },
+  {
+    "name": "Natonin",
+    "country": "PH",
+    "lat": 17.10925,
+    "lng": 121.27614
+  },
+  {
+    "name": "Nato",
+    "country": "PH",
+    "lat": 13.6105,
+    "lng": 123.5356
+  },
+  {
+    "name": "Nato",
+    "country": "PH",
+    "lat": 10.1492,
+    "lng": 122.8619
+  },
+  {
+    "name": "Natividad",
+    "country": "PH",
+    "lat": 16.0443,
+    "lng": 120.7987
+  },
+  {
+    "name": "Nattapian",
+    "country": "PH",
+    "lat": 17.67536,
+    "lng": 121.70296
+  },
+  {
+    "name": "Nasugbu",
+    "country": "PH",
+    "lat": 14.06694,
+    "lng": 120.63181
+  },
+  {
+    "name": "Nasipit",
+    "country": "PH",
+    "lat": 8.96917,
+    "lng": 125.29472
+  },
+  {
+    "name": "Narvacan",
+    "country": "PH",
+    "lat": 17.4175,
+    "lng": 120.4753
+  },
+  {
+    "name": "Narra",
+    "country": "PH",
+    "lat": 9.26877,
+    "lng": 118.4043
+  },
+  {
+    "name": "Naro",
+    "country": "PH",
+    "lat": 11.89697,
+    "lng": 123.67392
+  },
+  {
+    "name": "Napuro",
+    "country": "PH",
+    "lat": 12.0273,
+    "lng": 124.7082
+  },
+  {
+    "name": "Napoles",
+    "country": "PH",
+    "lat": 10.504,
+    "lng": 122.8979
+  },
+  {
+    "name": "Napnapan",
+    "country": "PH",
+    "lat": 10.70845,
+    "lng": 122.393
+  },
+  {
+    "name": "Napalitan",
+    "country": "PH",
+    "lat": 8.77528,
+    "lng": 124.80222
+  },
+  {
+    "name": "Nanyo",
+    "country": "PH",
+    "lat": 7.33306,
+    "lng": 125.63778
+  },
+  {
+    "name": "Nangka",
+    "country": "PH",
+    "lat": 10.85564,
+    "lng": 123.0359
+  },
+  {
+    "name": "Nangka",
+    "country": "PH",
+    "lat": 10.55,
+    "lng": 123.96667
+  },
+  {
+    "name": "Nangka",
+    "country": "PH",
+    "lat": 10.5324,
+    "lng": 123.7195
+  },
+  {
+    "name": "Nañgka",
+    "country": "PH",
+    "lat": 8.16667,
+    "lng": 124.18333
+  },
+  {
+    "name": "Nangka",
+    "country": "PH",
+    "lat": 9.4023,
+    "lng": 122.8244
+  },
+  {
+    "name": "Nangan",
+    "country": "PH",
+    "lat": 6.47264,
+    "lng": 126.12438
+  },
+  {
+    "name": "Nangalisan",
+    "country": "PH",
+    "lat": 16.4344,
+    "lng": 120.4778
+  },
+  {
+    "name": "Nancamarinan",
+    "country": "PH",
+    "lat": 15.6752,
+    "lng": 120.5364
+  },
+  {
+    "name": "Nancalobasaan",
+    "country": "PH",
+    "lat": 15.9342,
+    "lng": 120.8426
+  },
+  {
+    "name": "Namuac",
+    "country": "PH",
+    "lat": 18.6109,
+    "lng": 121.1657
+  },
+  {
+    "name": "Nampicuan",
+    "country": "PH",
+    "lat": 15.7314,
+    "lng": 120.625
+  },
+  {
+    "name": "Namboongan",
+    "country": "PH",
+    "lat": 16.3033,
+    "lng": 120.3758
+  },
+  {
+    "name": "Nambalan",
+    "country": "PH",
+    "lat": 15.59911,
+    "lng": 120.46031
+  },
+  {
+    "name": "Namayan",
+    "country": "PH",
+    "lat": 14.5783,
+    "lng": 121.0226
+  },
+  {
+    "name": "Nama",
+    "country": "PH",
+    "lat": 16.1412,
+    "lng": 120.5426
+  },
+  {
+    "name": "Nalus",
+    "country": "PH",
+    "lat": 6.01222,
+    "lng": 124.58528
+  },
+  {
+    "name": "Nalundan",
+    "country": "PH",
+    "lat": 9.75,
+    "lng": 123.06667
+  },
+  {
+    "name": "Nalsian Norte",
+    "country": "PH",
+    "lat": 15.84476,
+    "lng": 120.45084
+  },
+  {
+    "name": "Naisud",
+    "country": "PH",
+    "lat": 11.8058,
+    "lng": 122.1939
+  },
+  {
+    "name": "Nailong",
+    "country": "PH",
+    "lat": 11.0537,
+    "lng": 124.0385
+  },
+  {
+    "name": "Naili",
+    "country": "PH",
+    "lat": 11.7666,
+    "lng": 122.1765
+  },
+  {
+    "name": "Naic",
+    "country": "PH",
+    "lat": 14.31812,
+    "lng": 120.76609
+  },
+  {
+    "name": "Nahawan",
+    "country": "PH",
+    "lat": 9.9711,
+    "lng": 124.0484
+  },
+  {
+    "name": "Naguilian",
+    "country": "PH",
+    "lat": 17.02315,
+    "lng": 121.83704
+  },
+  {
+    "name": "Naguilian",
+    "country": "PH",
+    "lat": 16.53389,
+    "lng": 120.39667
+  },
+  {
+    "name": "Naguilayan",
+    "country": "PH",
+    "lat": 16.00304,
+    "lng": 120.29108
+  },
+  {
+    "name": "Naguelguel",
+    "country": "PH",
+    "lat": 16.00585,
+    "lng": 120.26351
+  },
+  {
+    "name": "Nagtipunan",
+    "country": "PH",
+    "lat": 16.21667,
+    "lng": 121.6
+  },
+  {
+    "name": "Nagsaing",
+    "country": "PH",
+    "lat": 15.98069,
+    "lng": 120.33787
+  },
+  {
+    "name": "Nagrumbuan",
+    "country": "PH",
+    "lat": 16.89955,
+    "lng": 121.70974
+  },
+  {
+    "name": "Nagpandayan",
+    "country": "PH",
+    "lat": 15.60138,
+    "lng": 120.76893
+  },
+  {
+    "name": "Nagiba",
+    "country": "PH",
+    "lat": 13.33018,
+    "lng": 121.27432
+  },
+  {
+    "name": "Naghalin",
+    "country": "PH",
+    "lat": 11.1456,
+    "lng": 124.5671
+  },
+  {
+    "name": "Nagcarlan",
+    "country": "PH",
+    "lat": 14.1364,
+    "lng": 121.4165
+  },
+  {
+    "name": "Nagbukel",
+    "country": "PH",
+    "lat": 17.4471,
+    "lng": 120.5247
+  },
+  {
+    "name": "Nagbalaye",
+    "country": "PH",
+    "lat": 9.2492,
+    "lng": 122.8759
+  },
+  {
+    "name": "Nagbacalan",
+    "country": "PH",
+    "lat": 18.1159,
+    "lng": 120.5235
+  },
+  {
+    "name": "Naagas",
+    "country": "PH",
+    "lat": 13.4357,
+    "lng": 123.6781
+  },
+  {
+    "name": "Naga",
+    "country": "PH",
+    "lat": 13.61917,
+    "lng": 123.18139
+  },
+  {
+    "name": "Naga",
+    "country": "PH",
+    "lat": 10.20898,
+    "lng": 123.758
+  },
+  {
+    "name": "Naga",
+    "country": "PH",
+    "lat": 7.77028,
+    "lng": 122.75083
+  },
+  {
+    "name": "Nabunturan",
+    "country": "PH",
+    "lat": 7.60778,
+    "lng": 125.96639
+  },
+  {
+    "name": "Nabulao",
+    "country": "PH",
+    "lat": 9.6616,
+    "lng": 122.4577
+  },
+  {
+    "name": "Nabannagan West",
+    "country": "PH",
+    "lat": 18.07156,
+    "lng": 121.5363
+  },
+  {
+    "name": "Nabua",
+    "country": "PH",
+    "lat": 13.4075,
+    "lng": 123.3724
+  },
+  {
+    "name": "Nabas",
+    "country": "PH",
+    "lat": 11.831,
+    "lng": 122.087
+  },
+  {
+    "name": "Nabangig",
+    "country": "PH",
+    "lat": 12.0989,
+    "lng": 123.9503
+  },
+  {
+    "name": "Naawan",
+    "country": "PH",
+    "lat": 8.43444,
+    "lng": 124.28889
+  },
+  {
+    "name": "Nawabshah",
+    "country": "PK",
+    "lat": 26.23939,
+    "lng": 68.40369
+  },
+  {
+    "name": "Naushahro Firoz",
+    "country": "PK",
+    "lat": 26.8401,
+    "lng": 68.12265
+  },
+  {
+    "name": "Naushahra Virkan",
+    "country": "PK",
+    "lat": 31.96258,
+    "lng": 73.97117
+  },
+  {
+    "name": "Naudero",
+    "country": "PK",
+    "lat": 27.66684,
+    "lng": 68.3609
+  },
+  {
+    "name": "Nasirabad",
+    "country": "PK",
+    "lat": 27.38137,
+    "lng": 67.91644
+  },
+  {
+    "name": "Narowal",
+    "country": "PK",
+    "lat": 32.10197,
+    "lng": 74.87303
+  },
+  {
+    "name": "Narang Mandi",
+    "country": "PK",
+    "lat": 31.90376,
+    "lng": 74.51587
+  },
+  {
+    "name": "Naukot",
+    "country": "PK",
+    "lat": 24.85822,
+    "lng": 69.40153
+  },
+  {
+    "name": "Nankana Sahib",
+    "country": "PK",
+    "lat": 31.4501,
+    "lng": 73.70653
+  },
+  {
+    "name": "Nagir",
+    "country": "PK",
+    "lat": 36.27542,
+    "lng": 74.71959
+  },
+  {
+    "name": "Nabisar",
+    "country": "PK",
+    "lat": 25.06717,
+    "lng": 69.6434
+  },
+  {
+    "name": "Nao Mian Sahib",
+    "country": "PK",
+    "lat": 28.15441,
+    "lng": 68.63706
+  },
+  {
+    "name": "Nazir Town",
+    "country": "PK",
+    "lat": 33.30614,
+    "lng": 73.4833
+  },
+  {
+    "name": "Nawojowa",
+    "country": "PL",
+    "lat": 49.56686,
+    "lng": 20.73927
+  },
+  {
+    "name": "Nasielsk",
+    "country": "PL",
+    "lat": 52.58887,
+    "lng": 20.80553
+  },
+  {
+    "name": "Naruszewo",
+    "country": "PL",
+    "lat": 52.52687,
+    "lng": 20.35157
+  },
+  {
+    "name": "Narol",
+    "country": "PL",
+    "lat": 50.34925,
+    "lng": 23.32679
+  },
+  {
+    "name": "Narew",
+    "country": "PL",
+    "lat": 52.91418,
+    "lng": 23.51984
+  },
+  {
+    "name": "Nałęczów",
+    "country": "PL",
+    "lat": 51.28581,
+    "lng": 22.21539
+  },
+  {
+    "name": "Nagłowice",
+    "country": "PL",
+    "lat": 50.67835,
+    "lng": 20.10661
+  },
+  {
+    "name": "Nadarzyn",
+    "country": "PL",
+    "lat": 52.09438,
+    "lng": 20.80776
+  },
+  {
+    "name": "Naprawa",
+    "country": "PL",
+    "lat": 49.64657,
+    "lng": 19.87916
+  },
+  {
+    "name": "Namysłów",
+    "country": "PL",
+    "lat": 51.07592,
+    "lng": 17.72284
+  },
+  {
+    "name": "Nakło nad Notecią",
+    "country": "PL",
+    "lat": 53.14214,
+    "lng": 17.60181
+  },
+  {
+    "name": "Nakło",
+    "country": "PL",
+    "lat": 50.57975,
+    "lng": 18.11817
+  },
+  {
+    "name": "Nakło",
+    "country": "PL",
+    "lat": 50.4369,
+    "lng": 18.91056
+  },
+  {
+    "name": "Naguabo",
+    "country": "PR",
+    "lat": 18.21162,
+    "lng": -65.73488
+  },
+  {
+    "name": "Naranjito",
+    "country": "PR",
+    "lat": 18.30079,
+    "lng": -66.24489
+  },
+  {
+    "name": "Nazlat ‘Īsá",
+    "country": "PS",
+    "lat": 32.41562,
+    "lng": 35.05888
+  },
+  {
+    "name": "Naḩḩālīn",
+    "country": "PS",
+    "lat": 31.68559,
+    "lng": 35.12081
+  },
+  {
+    "name": "Nablus",
+    "country": "PS",
+    "lat": 32.22111,
+    "lng": 35.25444
+  },
+  {
+    "name": "Nazaré",
+    "country": "PT",
+    "lat": 39.60289,
+    "lng": -9.06836
+  },
+  {
+    "name": "Nadadouro",
+    "country": "PT",
+    "lat": 39.41927,
+    "lng": -9.19091
+  },
+  {
+    "name": "Nariz",
+    "country": "PT",
+    "lat": 40.5392,
+    "lng": -8.59093
+  },
+  {
+    "name": "Natalio",
+    "country": "PY",
+    "lat": -26.75702,
+    "lng": -55.13777
+  },
+  {
+    "name": "Natalicio Talavera",
+    "country": "PY",
+    "lat": -25.65378,
+    "lng": -56.30933
+  },
+  {
+    "name": "Naranjal",
+    "country": "PY",
+    "lat": -25.97432,
+    "lng": -55.18661
+  },
+  {
+    "name": "Nanawa",
+    "country": "PY",
+    "lat": -25.2793,
+    "lng": -57.70307
+  },
+  {
+    "name": "Nazna",
+    "country": "RO",
+    "lat": 46.53552,
+    "lng": 24.5021
+  },
+  {
+    "name": "Nanov",
+    "country": "RO",
+    "lat": 44.0,
+    "lng": 25.3
+  },
+  {
+    "name": "Nana",
+    "country": "RO",
+    "lat": 44.26667,
+    "lng": 26.58333
+  },
+  {
+    "name": "Nalbant",
+    "country": "RO",
+    "lat": 45.05,
+    "lng": 28.61667
+  },
+  {
+    "name": "Naipu",
+    "country": "RO",
+    "lat": 44.15187,
+    "lng": 25.76175
+  },
+  {
+    "name": "Naidăș",
+    "country": "RO",
+    "lat": 44.88108,
+    "lng": 21.59061
+  },
+  {
+    "name": "Nadeş",
+    "country": "RO",
+    "lat": 46.31667,
+    "lng": 24.73333
+  },
+  {
+    "name": "Nadăș",
+    "country": "RO",
+    "lat": 46.2249,
+    "lng": 21.95036
+  },
+  {
+    "name": "Nadab",
+    "country": "RO",
+    "lat": 46.48195,
+    "lng": 21.51178
+  },
+  {
+    "name": "Nakovo",
+    "country": "RS",
+    "lat": 45.87503,
+    "lng": 20.56709
+  },
+  {
+    "name": "Nagornyy",
+    "country": "RU",
+    "lat": 55.65,
+    "lng": 37.61667
+  },
+  {
+    "name": "Nazran",
+    "country": "RU",
+    "lat": 43.22597,
+    "lng": 44.77323
+  },
+  {
+    "name": "Nazar'yevo",
+    "country": "RU",
+    "lat": 55.67417,
+    "lng": 37.04028
+  },
+  {
+    "name": "Navoloki",
+    "country": "RU",
+    "lat": 57.46572,
+    "lng": 41.96344
+  },
+  {
+    "name": "Navlya",
+    "country": "RU",
+    "lat": 52.82544,
+    "lng": 34.4996
+  },
+  {
+    "name": "Navashino",
+    "country": "RU",
+    "lat": 55.54315,
+    "lng": 42.19307
+  },
+  {
+    "name": "Naurskaya",
+    "country": "RU",
+    "lat": 43.64999,
+    "lng": 45.31127
+  },
+  {
+    "name": "Natyrbovo",
+    "country": "RU",
+    "lat": 44.73,
+    "lng": 40.62639
+  },
+  {
+    "name": "Naryshkino",
+    "country": "RU",
+    "lat": 52.96778,
+    "lng": 35.72677
+  },
+  {
+    "name": "Nar'yan-Mar",
+    "country": "RU",
+    "lat": 67.63869,
+    "lng": 53.00371
+  },
+  {
+    "name": "Nartkala",
+    "country": "RU",
+    "lat": 43.5544,
+    "lng": 43.85499
+  },
+  {
+    "name": "Nartan",
+    "country": "RU",
+    "lat": 43.51083,
+    "lng": 43.69944
+  },
+  {
+    "name": "Narovchat",
+    "country": "RU",
+    "lat": 53.87654,
+    "lng": 43.69458
+  },
+  {
+    "name": "Naro-Fominsk",
+    "country": "RU",
+    "lat": 55.38752,
+    "lng": 36.73307
+  },
+  {
+    "name": "Narimanov",
+    "country": "RU",
+    "lat": 46.69306,
+    "lng": 47.85071
+  },
+  {
+    "name": "Nalchik",
+    "country": "RU",
+    "lat": 43.49806,
+    "lng": 43.61889
+  },
+  {
+    "name": "Nakhabino",
+    "country": "RU",
+    "lat": 55.84854,
+    "lng": 37.17789
+  },
+  {
+    "name": "Nagutskoye",
+    "country": "RU",
+    "lat": 44.4415,
+    "lng": 42.8762
+  },
+  {
+    "name": "Nagorsk",
+    "country": "RU",
+    "lat": 59.3193,
+    "lng": 50.80607
+  },
+  {
+    "name": "Nadterechnoje",
+    "country": "RU",
+    "lat": 43.62271,
+    "lng": 45.33969
+  },
+  {
+    "name": "Nadvoitsy",
+    "country": "RU",
+    "lat": 63.889,
+    "lng": 34.258
+  },
+  {
+    "name": "Nadezhda",
+    "country": "RU",
+    "lat": 44.1,
+    "lng": 44.6
+  },
+  {
+    "name": "Nachalovo",
+    "country": "RU",
+    "lat": 46.33776,
+    "lng": 48.19815
+  },
+  {
+    "name": "Naberezhnyye Chelny",
+    "country": "RU",
+    "lat": 55.73718,
+    "lng": 52.41961
+  },
+  {
+    "name": "Nazyvayevsk",
+    "country": "RU",
+    "lat": 55.56897,
+    "lng": 71.35665
+  },
+  {
+    "name": "Nazarovo",
+    "country": "RU",
+    "lat": 56.01138,
+    "lng": 90.41656
+  },
+  {
+    "name": "Nauchnyy Gorodok",
+    "country": "RU",
+    "lat": 53.4203,
+    "lng": 83.521
+  },
+  {
+    "name": "Nalobikha",
+    "country": "RU",
+    "lat": 53.2009,
+    "lng": 84.6
+  },
+  {
+    "name": "Nagornyy",
+    "country": "RU",
+    "lat": 52.7959,
+    "lng": 83.5498
+  },
+  {
+    "name": "Nadym",
+    "country": "RU",
+    "lat": 65.53333,
+    "lng": 72.51667
+  },
+  {
+    "name": "Naushki",
+    "country": "RU",
+    "lat": 50.38278,
+    "lng": 106.10556
+  },
+  {
+    "name": "Namtsy",
+    "country": "RU",
+    "lat": 62.72414,
+    "lng": 129.66606
+  },
+  {
+    "name": "Nakhodka",
+    "country": "RU",
+    "lat": 42.8436,
+    "lng": 132.91831
+  },
+  {
+    "name": "Najrān",
+    "country": "SA",
+    "lat": 17.49326,
+    "lng": 44.12766
+  },
+  {
+    "name": "Nasir Extension",
+    "country": "SD",
+    "lat": 15.5939,
+    "lng": 32.5647
+  },
+  {
+    "name": "Najaru قرية نجرو",
+    "country": "SD",
+    "lat": 14.472,
+    "lng": 33.2479
+  },
+  {
+    "name": "Nagaro",
+    "country": "SD",
+    "lat": 14.4741,
+    "lng": 33.24919
+  },
+  {
+    "name": "Nacka",
+    "country": "SE",
+    "lat": 59.31053,
+    "lng": 18.16372
+  },
+  {
+    "name": "Nature Reserve",
+    "country": "SG",
+    "lat": 1.3732,
+    "lng": 103.77625
+  },
+  {
+    "name": "Naklo",
+    "country": "SI",
+    "lat": 46.27348,
+    "lng": 14.3173
+  },
+  {
+    "name": "Nazarje",
+    "country": "SI",
+    "lat": 46.319,
+    "lng": 14.95012
+  },
+  {
+    "name": "Nahuizalco",
+    "country": "SV",
+    "lat": 13.7775,
+    "lng": -89.73667
+  },
+  {
+    "name": "Nawá",
+    "country": "SY",
+    "lat": 32.88646,
+    "lng": 36.03905
+  },
+  {
+    "name": "Nakhon Si Thammarat",
+    "country": "TH",
+    "lat": 8.43333,
+    "lng": 99.96667
+  },
+  {
+    "name": "Na Bon",
+    "country": "TH",
+    "lat": 8.26167,
+    "lng": 99.59472
+  },
+  {
+    "name": "Na Dun",
+    "country": "TH",
+    "lat": 15.71668,
+    "lng": 103.22781
+  },
+  {
+    "name": "Na Yung",
+    "country": "TH",
+    "lat": 17.89747,
+    "lng": 102.14981
+  },
+  {
+    "name": "Na Tan",
+    "country": "TH",
+    "lat": 15.89749,
+    "lng": 105.29318
+  },
+  {
+    "name": "Na Mom",
+    "country": "TH",
+    "lat": 6.95856,
+    "lng": 100.55683
+  },
+  {
+    "name": "Na Klang",
+    "country": "TH",
+    "lat": 17.3072,
+    "lng": 102.18886
+  },
+  {
+    "name": "Na Wa",
+    "country": "TH",
+    "lat": 17.4897,
+    "lng": 104.10056
+  },
+  {
+    "name": "Na Thawi",
+    "country": "TH",
+    "lat": 6.74192,
+    "lng": 100.69139
+  },
+  {
+    "name": "Narathiwat",
+    "country": "TH",
+    "lat": 6.42639,
+    "lng": 101.82308
+  },
+  {
+    "name": "Na Pho",
+    "country": "TH",
+    "lat": 15.64113,
+    "lng": 102.95462
+  },
+  {
+    "name": "Na Noi",
+    "country": "TH",
+    "lat": 18.32639,
+    "lng": 100.71417
+  },
+  {
+    "name": "Nang Rong",
+    "country": "TH",
+    "lat": 14.6377,
+    "lng": 102.79138
+  },
+  {
+    "name": "Nan",
+    "country": "TH",
+    "lat": 18.78378,
+    "lng": 100.77899
+  },
+  {
+    "name": "Na Muen",
+    "country": "TH",
+    "lat": 18.18931,
+    "lng": 100.66047
+  },
+  {
+    "name": "Nam Som",
+    "country": "TH",
+    "lat": 17.77036,
+    "lng": 102.18947
+  },
+  {
+    "name": "Nam Phong",
+    "country": "TH",
+    "lat": 16.70228,
+    "lng": 102.85569
+  },
+  {
+    "name": "Nam Pat",
+    "country": "TH",
+    "lat": 17.72806,
+    "lng": 100.68433
+  },
+  {
+    "name": "Na Mon",
+    "country": "TH",
+    "lat": 16.57653,
+    "lng": 103.78711
+  },
+  {
+    "name": "Nam Nao",
+    "country": "TH",
+    "lat": 16.76753,
+    "lng": 101.66917
+  },
+  {
+    "name": "Nam Kliang",
+    "country": "TH",
+    "lat": 14.92731,
+    "lng": 104.51303
+  },
+  {
+    "name": "Nakhon Thai",
+    "country": "TH",
+    "lat": 17.10056,
+    "lng": 100.83739
+  },
+  {
+    "name": "Nakhon Sawan",
+    "country": "TH",
+    "lat": 15.70472,
+    "lng": 100.13717
+  },
+  {
+    "name": "Nakhon Ratchasima",
+    "country": "TH",
+    "lat": 14.97066,
+    "lng": 102.10196
+  },
+  {
+    "name": "Nakhon Phanom",
+    "country": "TH",
+    "lat": 17.41081,
+    "lng": 104.77856
+  },
+  {
+    "name": "Nakhon Pathom",
+    "country": "TH",
+    "lat": 13.8196,
+    "lng": 100.04427
+  },
+  {
+    "name": "Nakhon Nayok",
+    "country": "TH",
+    "lat": 14.20463,
+    "lng": 101.21295
+  },
+  {
+    "name": "Nakhon Luang",
+    "country": "TH",
+    "lat": 14.46281,
+    "lng": 100.60832
+  },
+  {
+    "name": "Nakhon Chai Si",
+    "country": "TH",
+    "lat": 13.80126,
+    "lng": 100.18451
+  },
+  {
+    "name": "Na Kae",
+    "country": "TH",
+    "lat": 16.94645,
+    "lng": 104.50081
+  },
+  {
+    "name": "Na Chueak",
+    "country": "TH",
+    "lat": 15.79339,
+    "lng": 103.03184
+  },
+  {
+    "name": "Na Chaluai",
+    "country": "TH",
+    "lat": 14.52046,
+    "lng": 105.24478
+  },
+  {
+    "name": "Na Yia",
+    "country": "TH",
+    "lat": 15.06367,
+    "lng": 105.05994
+  },
+  {
+    "name": "Na Yai Am",
+    "country": "TH",
+    "lat": 12.78153,
+    "lng": 101.82256
+  },
+  {
+    "name": "Na Thom",
+    "country": "TH",
+    "lat": 17.78491,
+    "lng": 104.09082
+  },
+  {
+    "name": "Na Khu",
+    "country": "TH",
+    "lat": 16.76384,
+    "lng": 104.02626
+  },
+  {
+    "name": "Na Haeo",
+    "country": "TH",
+    "lat": 17.48536,
+    "lng": 101.06808
+  },
+  {
+    "name": "Na Di",
+    "country": "TH",
+    "lat": 14.11517,
+    "lng": 101.78189
+  },
+  {
+    "name": "Nai Harn",
+    "country": "TH",
+    "lat": 7.77859,
+    "lng": 98.30661
+  },
+  {
+    "name": "Na Wang",
+    "country": "TH",
+    "lat": 17.32444,
+    "lng": 102.07829
+  },
+  {
+    "name": "Nathom",
+    "country": "TH",
+    "lat": 17.78536,
+    "lng": 104.09072
+  },
+  {
+    "name": "Nam Khun",
+    "country": "TH",
+    "lat": 14.58386,
+    "lng": 104.92481
+  },
+  {
+    "name": "Na Yong",
+    "country": "TH",
+    "lat": 7.56167,
+    "lng": 99.69483
+  },
+  {
+    "name": "Na Kluea",
+    "country": "TH",
+    "lat": 12.96199,
+    "lng": 100.89715
+  },
+  {
+    "name": "Nabeul",
+    "country": "TN",
+    "lat": 36.45606,
+    "lng": 10.73763
+  },
+  {
+    "name": "Nasrallah",
+    "country": "TN",
+    "lat": 35.35609,
+    "lng": 9.83071
+  },
+  {
+    "name": "Nazimiye",
+    "country": "TR",
+    "lat": 39.17986,
+    "lng": 39.82843
+  },
+  {
+    "name": "Nazilli",
+    "country": "TR",
+    "lat": 37.91631,
+    "lng": 28.32225
+  },
+  {
+    "name": "Narlıdere",
+    "country": "TR",
+    "lat": 38.2268,
+    "lng": 41.89014
+  },
+  {
+    "name": "Narlı",
+    "country": "TR",
+    "lat": 37.88449,
+    "lng": 42.97597
+  },
+  {
+    "name": "Narlı",
+    "country": "TR",
+    "lat": 37.39148,
+    "lng": 37.13614
+  },
+  {
+    "name": "Narince",
+    "country": "TR",
+    "lat": 37.88253,
+    "lng": 38.7592
+  },
+  {
+    "name": "Narlıca",
+    "country": "TR",
+    "lat": 36.23533,
+    "lng": 36.21458
+  },
+  {
+    "name": "Narman",
+    "country": "TR",
+    "lat": 40.34449,
+    "lng": 41.86088
+  },
+  {
+    "name": "Narlıca",
+    "country": "TR",
+    "lat": 40.38583,
+    "lng": 29.48111
+  },
+  {
+    "name": "Nallıhan",
+    "country": "TR",
+    "lat": 40.18593,
+    "lng": 31.35179
+  },
+  {
+    "name": "Narince",
+    "country": "TR",
+    "lat": 37.85864,
+    "lng": 38.44491
+  },
+  {
+    "name": "Narlıkuyu",
+    "country": "TR",
+    "lat": 36.44268,
+    "lng": 34.1129
+  },
+  {
+    "name": "Nantou",
+    "country": "TW",
+    "lat": 23.91566,
+    "lng": 120.66387
+  },
+  {
+    "name": "Nangan",
+    "country": "TW",
+    "lat": 26.15039,
+    "lng": 119.93284
+  },
+  {
+    "name": "Nansio",
+    "country": "TZ",
+    "lat": -2.13333,
+    "lng": 33.05
+  },
+  {
+    "name": "Nangwa",
+    "country": "TZ",
+    "lat": -4.46667,
+    "lng": 35.45
+  },
+  {
+    "name": "Namanyere",
+    "country": "TZ",
+    "lat": -7.51667,
+    "lng": 31.05
+  },
+  {
+    "name": "Namanga",
+    "country": "TZ",
+    "lat": -2.55116,
+    "lng": 36.78377
+  },
+  {
+    "name": "Nakatunguru",
+    "country": "TZ",
+    "lat": -2.11667,
+    "lng": 33.06667
+  },
+  {
+    "name": "Naberera",
+    "country": "TZ",
+    "lat": -4.2,
+    "lng": 36.93333
+  },
+  {
+    "name": "Nanyamba",
+    "country": "TZ",
+    "lat": -10.68333,
+    "lng": 39.83333
+  },
+  {
+    "name": "Nanhyanga",
+    "country": "TZ",
+    "lat": -10.8,
+    "lng": 39.55
+  },
+  {
+    "name": "Nangomba",
+    "country": "TZ",
+    "lat": -10.9,
+    "lng": 38.5
+  },
+  {
+    "name": "Nanganga",
+    "country": "TZ",
+    "lat": -10.38333,
+    "lng": 39.15
+  },
+  {
+    "name": "Namikupa",
+    "country": "TZ",
+    "lat": -10.83333,
+    "lng": 39.6
+  },
+  {
+    "name": "Namalenga",
+    "country": "TZ",
+    "lat": -10.95,
+    "lng": 39.1
+  },
+  {
+    "name": "Nachingwea",
+    "country": "TZ",
+    "lat": -10.3725,
+    "lng": 38.76251
+  },
+  {
+    "name": "Naydenovka",
+    "country": "UA",
+    "lat": 45.27088,
+    "lng": 34.44898
+  },
+  {
+    "name": "Navariia",
+    "country": "UA",
+    "lat": 49.74952,
+    "lng": 23.92746
+  },
+  {
+    "name": "Nasypnoe",
+    "country": "UA",
+    "lat": 45.05285,
+    "lng": 35.29415
+  },
+  {
+    "name": "Narodychi",
+    "country": "UA",
+    "lat": 51.20286,
+    "lng": 29.08228
+  },
+  {
+    "name": "Nahirne",
+    "country": "UA",
+    "lat": 45.42998,
+    "lng": 28.44852
+  },
+  {
+    "name": "Nadvirna",
+    "country": "UA",
+    "lat": 48.63659,
+    "lng": 24.5714
+  },
+  {
+    "name": "Nadrichne",
+    "country": "UA",
+    "lat": 46.3703,
+    "lng": 29.10606
+  },
+  {
+    "name": "Nadlymanske",
+    "country": "UA",
+    "lat": 46.37404,
+    "lng": 30.33329
+  },
+  {
+    "name": "Naddnipryanske",
+    "country": "UA",
+    "lat": 46.73591,
+    "lng": 32.7053
+  },
+  {
+    "name": "Narkevychi",
+    "country": "UA",
+    "lat": 49.51694,
+    "lng": 26.63787
+  },
+  {
+    "name": "Namutumba",
+    "country": "UG",
+    "lat": 0.83611,
+    "lng": 33.68611
+  },
+  {
+    "name": "Namayumba",
+    "country": "UG",
+    "lat": 0.52889,
+    "lng": 32.24861
+  },
+  {
+    "name": "Namasuba",
+    "country": "UG",
+    "lat": 0.68944,
+    "lng": 32.42139
+  },
+  {
+    "name": "Nakasongola",
+    "country": "UG",
+    "lat": 1.30889,
+    "lng": 32.45639
+  },
+  {
+    "name": "Nakaseke",
+    "country": "UG",
+    "lat": 0.75167,
+    "lng": 32.385
+  },
+  {
+    "name": "Nakaloke",
+    "country": "UG",
+    "lat": 1.15,
+    "lng": 34.15
+  },
+  {
+    "name": "Nagongera",
+    "country": "UG",
+    "lat": 0.7616,
+    "lng": 34.02623
+  },
+  {
+    "name": "Nakapiripirit",
+    "country": "UG",
+    "lat": 1.91667,
+    "lng": 34.78333
+  },
+  {
+    "name": "Namayingo",
+    "country": "UG",
+    "lat": 0.23983,
+    "lng": 33.88491
+  },
+  {
+    "name": "Napak",
+    "country": "UG",
+    "lat": 2.25139,
+    "lng": 34.25012
+  },
+  {
+    "name": "Nakivale Refugee Camp",
+    "country": "UG",
+    "lat": -0.74064,
+    "lng": 30.99632
+  },
+  {
+    "name": "Nansana",
+    "country": "UG",
+    "lat": 0.36389,
+    "lng": 32.52861
+  },
+  {
+    "name": "Namavundu",
+    "country": "UG",
+    "lat": 0.36402,
+    "lng": 33.81759
+  },
+  {
+    "name": "Natalia",
+    "country": "US",
+    "lat": 29.18968,
+    "lng": -98.86253
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 33.94567,
+    "lng": -93.84713
+  },
+  {
+    "name": "Nassau",
+    "country": "US",
+    "lat": 38.75206,
+    "lng": -75.18769
+  },
+  {
+    "name": "Naples",
+    "country": "US",
+    "lat": 26.14234,
+    "lng": -81.79596
+  },
+  {
+    "name": "Naples Manor",
+    "country": "US",
+    "lat": 26.0887,
+    "lng": -81.7262
+  },
+  {
+    "name": "Naples Park",
+    "country": "US",
+    "lat": 26.26175,
+    "lng": -81.80925
+  },
+  {
+    "name": "Naranja",
+    "country": "US",
+    "lat": 25.51816,
+    "lng": -80.42283
+  },
+  {
+    "name": "Navarre",
+    "country": "US",
+    "lat": 30.40159,
+    "lng": -86.86357
+  },
+  {
+    "name": "Nahunta",
+    "country": "US",
+    "lat": 31.20439,
+    "lng": -81.98123
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 31.20742,
+    "lng": -83.25015
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 38.34366,
+    "lng": -89.38064
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 39.20727,
+    "lng": -86.2511
+  },
+  {
+    "name": "Napoleonville",
+    "country": "US",
+    "lat": 29.94048,
+    "lng": -91.02482
+  },
+  {
+    "name": "Natalbany",
+    "country": "US",
+    "lat": 30.54622,
+    "lng": -90.48619
+  },
+  {
+    "name": "Natchitoches",
+    "country": "US",
+    "lat": 31.76072,
+    "lng": -93.08627
+  },
+  {
+    "name": "Natchez",
+    "country": "US",
+    "lat": 31.56017,
+    "lng": -91.40329
+  },
+  {
+    "name": "Nags Head",
+    "country": "US",
+    "lat": 35.95739,
+    "lng": -75.62406
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 35.9746,
+    "lng": -77.96554
+  },
+  {
+    "name": "Navassa",
+    "country": "US",
+    "lat": 34.25545,
+    "lng": -78.00749
+  },
+  {
+    "name": "National Park",
+    "country": "US",
+    "lat": 39.86595,
+    "lng": -75.17879
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 36.16589,
+    "lng": -86.78444
+  },
+  {
+    "name": "Nacogdoches",
+    "country": "US",
+    "lat": 31.60351,
+    "lng": -94.65549
+  },
+  {
+    "name": "Naples",
+    "country": "US",
+    "lat": 33.20318,
+    "lng": -94.68021
+  },
+  {
+    "name": "Nash",
+    "country": "US",
+    "lat": 33.44235,
+    "lng": -94.13075
+  },
+  {
+    "name": "Nash",
+    "country": "US",
+    "lat": 32.2657,
+    "lng": -96.81277
+  },
+  {
+    "name": "Nassau Bay",
+    "country": "US",
+    "lat": 29.54468,
+    "lng": -95.09104
+  },
+  {
+    "name": "Navasota",
+    "country": "US",
+    "lat": 30.38798,
+    "lng": -96.08773
+  },
+  {
+    "name": "Narrows",
+    "country": "US",
+    "lat": 37.33151,
+    "lng": -80.81119
+  },
+  {
+    "name": "Narrows",
+    "country": "US",
+    "lat": 37.20542,
+    "lng": -79.95893
+  },
+  {
+    "name": "Naugatuck",
+    "country": "US",
+    "lat": 41.48593,
+    "lng": -73.05066
+  },
+  {
+    "name": "Nashua",
+    "country": "US",
+    "lat": 42.95275,
+    "lng": -92.5363
+  },
+  {
+    "name": "Naperville",
+    "country": "US",
+    "lat": 41.78586,
+    "lng": -88.14729
+  },
+  {
+    "name": "Nauvoo",
+    "country": "US",
+    "lat": 40.55004,
+    "lng": -91.38487
+  },
+  {
+    "name": "Nappanee",
+    "country": "US",
+    "lat": 41.44283,
+    "lng": -86.00139
+  },
+  {
+    "name": "Nahant",
+    "country": "US",
+    "lat": 42.42649,
+    "lng": -70.91894
+  },
+  {
+    "name": "Nantucket",
+    "country": "US",
+    "lat": 41.28346,
+    "lng": -70.09946
+  },
+  {
+    "name": "Natick",
+    "country": "US",
+    "lat": 42.28343,
+    "lng": -71.3495
+  },
+  {
+    "name": "Napoleon",
+    "country": "US",
+    "lat": 42.16059,
+    "lng": -84.24606
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 42.60281,
+    "lng": -85.09305
+  },
+  {
+    "name": "Napoleon",
+    "country": "US",
+    "lat": 46.50831,
+    "lng": -99.77122
+  },
+  {
+    "name": "Nashua",
+    "country": "US",
+    "lat": 42.76537,
+    "lng": -71.46757
+  },
+  {
+    "name": "Navesink",
+    "country": "US",
+    "lat": 40.39955,
+    "lng": -74.03542
+  },
+  {
+    "name": "Nanuet",
+    "country": "US",
+    "lat": 41.08871,
+    "lng": -74.01347
+  },
+  {
+    "name": "Napanoch",
+    "country": "US",
+    "lat": 41.74398,
+    "lng": -74.37154
+  },
+  {
+    "name": "Naples",
+    "country": "US",
+    "lat": 42.61535,
+    "lng": -77.40249
+  },
+  {
+    "name": "Nassau",
+    "country": "US",
+    "lat": 42.51591,
+    "lng": -73.61012
+  },
+  {
+    "name": "Napoleon",
+    "country": "US",
+    "lat": 41.39227,
+    "lng": -84.12522
+  },
+  {
+    "name": "Navarre",
+    "country": "US",
+    "lat": 40.7245,
+    "lng": -81.52207
+  },
+  {
+    "name": "Nanticoke",
+    "country": "US",
+    "lat": 41.20536,
+    "lng": -76.00492
+  },
+  {
+    "name": "Nanty Glo",
+    "country": "US",
+    "lat": 40.47229,
+    "lng": -78.83336
+  },
+  {
+    "name": "Narberth",
+    "country": "US",
+    "lat": 40.00845,
+    "lng": -75.26046
+  },
+  {
+    "name": "Natrona Heights",
+    "country": "US",
+    "lat": 40.6234,
+    "lng": -79.72977
+  },
+  {
+    "name": "Nazareth",
+    "country": "US",
+    "lat": 40.74038,
+    "lng": -75.30962
+  },
+  {
+    "name": "Narragansett",
+    "country": "US",
+    "lat": 41.4501,
+    "lng": -71.4495
+  },
+  {
+    "name": "Narragansett Pier",
+    "country": "US",
+    "lat": 41.43232,
+    "lng": -71.45644
+  },
+  {
+    "name": "Nashotah",
+    "country": "US",
+    "lat": 43.09779,
+    "lng": -88.40232
+  },
+  {
+    "name": "Nashville",
+    "country": "US",
+    "lat": 45.52274,
+    "lng": -89.02484
+  },
+  {
+    "name": "Naco",
+    "country": "US",
+    "lat": 31.33538,
+    "lng": -109.94813
+  },
+  {
+    "name": "Napa",
+    "country": "US",
+    "lat": 38.29714,
+    "lng": -122.28553
+  },
+  {
+    "name": "National City",
+    "country": "US",
+    "lat": 32.67811,
+    "lng": -117.0992
+  },
+  {
+    "name": "Nambe",
+    "country": "US",
+    "lat": 35.89336,
+    "lng": -105.98252
+  },
+  {
+    "name": "Navajo",
+    "country": "US",
+    "lat": 35.90001,
+    "lng": -109.03398
+  },
+  {
+    "name": "Navajo",
+    "country": "US",
+    "lat": 36.94612,
+    "lng": -107.06309
+  },
+  {
+    "name": "Nampa",
+    "country": "US",
+    "lat": 43.54072,
+    "lng": -116.56346
+  },
+  {
+    "name": "Naples",
+    "country": "US",
+    "lat": 40.42691,
+    "lng": -109.4993
+  },
+  {
+    "name": "Napavine",
+    "country": "US",
+    "lat": 46.57455,
+    "lng": -122.90818
+  },
+  {
+    "name": "Navy Yard City",
+    "country": "US",
+    "lat": 47.55343,
+    "lng": -122.66458
+  },
+  {
+    "name": "Nanawale Estates",
+    "country": "US",
+    "lat": 19.50611,
+    "lng": -154.91194
+  },
+  {
+    "name": "Naval Academy",
+    "country": "US",
+    "lat": 38.98568,
+    "lng": -76.48774
+  },
+  {
+    "name": "Nassau Village-Ratliff",
+    "country": "US",
+    "lat": 30.51111,
+    "lng": -81.80925
+  },
+  {
+    "name": "Napili-Honokowai",
+    "country": "US",
+    "lat": 20.97533,
+    "lng": -156.67826
+  },
+  {
+    "name": "National Harbor",
+    "country": "US",
+    "lat": 38.78264,
+    "lng": -77.01506
+  },
+  {
+    "name": "Navoiy",
+    "country": "UZ",
+    "lat": 40.08444,
+    "lng": 65.37917
+  },
+  {
+    "name": "Navbahor",
+    "country": "UZ",
+    "lat": 40.48104,
+    "lng": 70.77093
+  },
+  {
+    "name": "Namangan",
+    "country": "UZ",
+    "lat": 40.9983,
+    "lng": 71.67257
+  },
+  {
+    "name": "Naiguatá",
+    "country": "VE",
+    "lat": 10.62026,
+    "lng": -66.73833
+  },
+  {
+    "name": "Naguanagua",
+    "country": "VE",
+    "lat": 10.25604,
+    "lng": -68.01649
+  },
+  {
+    "name": "Nam Định",
+    "country": "VN",
+    "lat": 20.43389,
+    "lng": 106.17729
+  },
+  {
+    "name": "Nam Đàn",
+    "country": "VN",
+    "lat": 18.69799,
+    "lng": 105.49881
+  },
+  {
+    "name": "Nam Giang",
+    "country": "VN",
+    "lat": 20.33322,
+    "lng": 106.17754
+  },
+  {
+    "name": "Nam Sách",
+    "country": "VN",
+    "lat": 20.99205,
+    "lng": 106.33613
+  },
+  {
+    "name": "Na Lay",
+    "country": "VN",
+    "lat": 22.03509,
+    "lng": 103.15347
+  },
+  {
+    "name": "Najd al Jamā‘ī",
+    "country": "YE",
+    "lat": 13.91577,
+    "lng": 44.32446
+  },
+  {
+    "name": "Namakgale",
+    "country": "ZA",
+    "lat": -23.93399,
+    "lng": 31.03119
+  },
+  {
+    "name": "Napier",
+    "country": "ZA",
+    "lat": -34.47451,
+    "lng": 19.89812
+  },
+  {
+    "name": "Nakonde",
+    "country": "ZM",
+    "lat": -9.34213,
+    "lng": 32.745
+  },
+  {
+    "name": "Namwala",
+    "country": "ZM",
+    "lat": -15.75042,
+    "lng": 26.43839
+  },
+  {
+    "name": "Nakambala",
+    "country": "ZM",
+    "lat": -15.83244,
+    "lng": 27.77994
+  },
+  {
+    "name": "Nampundwe",
+    "country": "ZM",
+    "lat": -15.50819,
+    "lng": 27.92441
+  },
+  {
+    "name": "Namalombwe",
+    "country": "ZM",
+    "lat": -15.39053,
+    "lng": 28.18986
+  }
+]

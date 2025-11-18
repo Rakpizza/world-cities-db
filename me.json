@@ -1,0 +1,7928 @@
+[
+  {
+    "name": "Mehtar Lām",
+    "country": "AF",
+    "lat": 34.67139,
+    "lng": 70.20944
+  },
+  {
+    "name": "Mesopotam",
+    "country": "AL",
+    "lat": 39.91028,
+    "lng": 20.09222
+  },
+  {
+    "name": "Melan",
+    "country": "AL",
+    "lat": 41.65417,
+    "lng": 20.46528
+  },
+  {
+    "name": "Memaliaj",
+    "country": "AL",
+    "lat": 40.35167,
+    "lng": 19.98028
+  },
+  {
+    "name": "Meghri",
+    "country": "AM",
+    "lat": 38.90123,
+    "lng": 46.24308
+  },
+  {
+    "name": "Mets Parni",
+    "country": "AM",
+    "lat": 40.83472,
+    "lng": 44.11108
+  },
+  {
+    "name": "Mets Masrik",
+    "country": "AM",
+    "lat": 40.21948,
+    "lng": 45.76391
+  },
+  {
+    "name": "Mets Mantash",
+    "country": "AM",
+    "lat": 40.64376,
+    "lng": 44.05653
+  },
+  {
+    "name": "Metsavan",
+    "country": "AM",
+    "lat": 41.20156,
+    "lng": 44.22877
+  },
+  {
+    "name": "Metsamor",
+    "country": "AM",
+    "lat": 40.07246,
+    "lng": 44.2905
+  },
+  {
+    "name": "Merdzavan",
+    "country": "AM",
+    "lat": 40.1814,
+    "lng": 44.40033
+  },
+  {
+    "name": "Melikgyugh",
+    "country": "AM",
+    "lat": 40.66545,
+    "lng": 44.35358
+  },
+  {
+    "name": "Meghrashen",
+    "country": "AM",
+    "lat": 40.67017,
+    "lng": 43.95652
+  },
+  {
+    "name": "Meghradzor",
+    "country": "AM",
+    "lat": 40.6068,
+    "lng": 44.64158
+  },
+  {
+    "name": "Metsadzor",
+    "country": "AM",
+    "lat": 40.38036,
+    "lng": 44.04591
+  },
+  {
+    "name": "Metsamor",
+    "country": "AM",
+    "lat": 40.14459,
+    "lng": 44.11484
+  },
+  {
+    "name": "Menongue",
+    "country": "AO",
+    "lat": -14.6585,
+    "lng": 17.69099
+  },
+  {
+    "name": "Merlo",
+    "country": "AR",
+    "lat": -34.66536,
+    "lng": -58.72744
+  },
+  {
+    "name": "Mercedes",
+    "country": "AR",
+    "lat": -34.65072,
+    "lng": -59.43143
+  },
+  {
+    "name": "Mercedes",
+    "country": "AR",
+    "lat": -29.18416,
+    "lng": -58.07519
+  },
+  {
+    "name": "Merlo",
+    "country": "AR",
+    "lat": -32.34288,
+    "lng": -65.01396
+  },
+  {
+    "name": "Mendoza",
+    "country": "AR",
+    "lat": -32.88946,
+    "lng": -68.84582
+  },
+  {
+    "name": "Mendiolaza",
+    "country": "AR",
+    "lat": -31.26406,
+    "lng": -64.30913
+  },
+  {
+    "name": "Melincué",
+    "country": "AR",
+    "lat": -33.66087,
+    "lng": -61.45654
+  },
+  {
+    "name": "Mettersdorf am Saßbach",
+    "country": "AT",
+    "lat": 46.80583,
+    "lng": 15.71111
+  },
+  {
+    "name": "Metnitz",
+    "country": "AT",
+    "lat": 46.98056,
+    "lng": 14.21667
+  },
+  {
+    "name": "Merkendorf",
+    "country": "AT",
+    "lat": 46.85722,
+    "lng": 15.90389
+  },
+  {
+    "name": "Mellach",
+    "country": "AT",
+    "lat": 46.93333,
+    "lng": 15.51667
+  },
+  {
+    "name": "Melk",
+    "country": "AT",
+    "lat": 48.22737,
+    "lng": 15.33186
+  },
+  {
+    "name": "Meiningen",
+    "country": "AT",
+    "lat": 47.29891,
+    "lng": 9.57862
+  },
+  {
+    "name": "Meidling",
+    "country": "AT",
+    "lat": 48.16667,
+    "lng": 16.33333
+  },
+  {
+    "name": "Mehrnbach",
+    "country": "AT",
+    "lat": 48.20809,
+    "lng": 13.43525
+  },
+  {
+    "name": "Meggenhofen",
+    "country": "AT",
+    "lat": 48.18017,
+    "lng": 13.79582
+  },
+  {
+    "name": "Medraz",
+    "country": "AT",
+    "lat": 47.14256,
+    "lng": 11.34287
+  },
+  {
+    "name": "Mellau",
+    "country": "AT",
+    "lat": 47.35034,
+    "lng": 9.88149
+  },
+  {
+    "name": "Merredin",
+    "country": "AU",
+    "lat": -31.48094,
+    "lng": 118.27448
+  },
+  {
+    "name": "Meningie",
+    "country": "AU",
+    "lat": -35.68637,
+    "lng": 139.34007
+  },
+  {
+    "name": "Medina",
+    "country": "AU",
+    "lat": -32.23406,
+    "lng": 115.79901
+  },
+  {
+    "name": "Meadows",
+    "country": "AU",
+    "lat": -35.18021,
+    "lng": 138.7625
+  },
+  {
+    "name": "Metung",
+    "country": "AU",
+    "lat": -37.89154,
+    "lng": 147.853
+  },
+  {
+    "name": "Merrylands",
+    "country": "AU",
+    "lat": -33.83333,
+    "lng": 150.98333
+  },
+  {
+    "name": "Merriwa",
+    "country": "AU",
+    "lat": -32.13922,
+    "lng": 150.35562
+  },
+  {
+    "name": "Merimbula",
+    "country": "AU",
+    "lat": -36.88901,
+    "lng": 149.90961
+  },
+  {
+    "name": "Mernda",
+    "country": "AU",
+    "lat": -37.60075,
+    "lng": 145.09555
+  },
+  {
+    "name": "Merbein",
+    "country": "AU",
+    "lat": -34.16802,
+    "lng": 142.06599
+  },
+  {
+    "name": "Mentone",
+    "country": "AU",
+    "lat": -37.98333,
+    "lng": 145.06667
+  },
+  {
+    "name": "Menangle",
+    "country": "AU",
+    "lat": -34.12675,
+    "lng": 150.73868
+  },
+  {
+    "name": "Menai",
+    "country": "AU",
+    "lat": -34.01667,
+    "lng": 151.01667
+  },
+  {
+    "name": "Melton South",
+    "country": "AU",
+    "lat": -37.70773,
+    "lng": 144.57493
+  },
+  {
+    "name": "Melton",
+    "country": "AU",
+    "lat": -37.68339,
+    "lng": 144.58543
+  },
+  {
+    "name": "Melbourne",
+    "country": "AU",
+    "lat": -37.814,
+    "lng": 144.96332
+  },
+  {
+    "name": "Medowie",
+    "country": "AU",
+    "lat": -32.7415,
+    "lng": 151.8676
+  },
+  {
+    "name": "Medindie",
+    "country": "AU",
+    "lat": -34.896,
+    "lng": 138.605
+  },
+  {
+    "name": "Mermaid Beach",
+    "country": "AU",
+    "lat": -28.04411,
+    "lng": 153.43472
+  },
+  {
+    "name": "Melton West",
+    "country": "AU",
+    "lat": -37.67852,
+    "lng": 144.56883
+  },
+  {
+    "name": "Metford",
+    "country": "AU",
+    "lat": -32.76497,
+    "lng": 151.6094
+  },
+  {
+    "name": "Menora",
+    "country": "AU",
+    "lat": -31.91889,
+    "lng": 115.86208
+  },
+  {
+    "name": "Merewether",
+    "country": "AU",
+    "lat": -32.94801,
+    "lng": 151.74325
+  },
+  {
+    "name": "Merriwa",
+    "country": "AU",
+    "lat": -31.66494,
+    "lng": 115.71273
+  },
+  {
+    "name": "Menzies",
+    "country": "AU",
+    "lat": -20.71809,
+    "lng": 139.49717
+  },
+  {
+    "name": "Merrimac",
+    "country": "AU",
+    "lat": -28.05085,
+    "lng": 153.37307
+  },
+  {
+    "name": "Meadow Springs",
+    "country": "AU",
+    "lat": -32.49718,
+    "lng": 115.75334
+  },
+  {
+    "name": "Meadowbrook",
+    "country": "AU",
+    "lat": -27.66401,
+    "lng": 153.14465
+  },
+  {
+    "name": "Meadow Heights",
+    "country": "AU",
+    "lat": -37.65117,
+    "lng": 144.91855
+  },
+  {
+    "name": "Melrose Park",
+    "country": "AU",
+    "lat": -33.81491,
+    "lng": 151.07208
+  },
+  {
+    "name": "Melba",
+    "country": "AU",
+    "lat": -35.21016,
+    "lng": 149.05405
+  },
+  {
+    "name": "Meadowbank",
+    "country": "AU",
+    "lat": -33.81668,
+    "lng": 151.08861
+  },
+  {
+    "name": "Melville",
+    "country": "AU",
+    "lat": -32.04039,
+    "lng": 115.80116
+  },
+  {
+    "name": "Melrose Park",
+    "country": "AU",
+    "lat": -34.98328,
+    "lng": 138.57541
+  },
+  {
+    "name": "Meridan Plains",
+    "country": "AU",
+    "lat": -26.77351,
+    "lng": 153.06187
+  },
+  {
+    "name": "Merrylands West",
+    "country": "AU",
+    "lat": -33.83269,
+    "lng": 150.96906
+  },
+  {
+    "name": "Mermaid Waters",
+    "country": "AU",
+    "lat": -28.04912,
+    "lng": 153.43081
+  },
+  {
+    "name": "Merewether Heights",
+    "country": "AU",
+    "lat": -32.94733,
+    "lng": 151.73565
+  },
+  {
+    "name": "Melbourne City Centre",
+    "country": "AU",
+    "lat": -37.81501,
+    "lng": 144.96657
+  },
+  {
+    "name": "Meringandan West",
+    "country": "AU",
+    "lat": -27.41612,
+    "lng": 151.88727
+  },
+  {
+    "name": "Međugorje",
+    "country": "BA",
+    "lat": 43.19576,
+    "lng": 17.67554
+  },
+  {
+    "name": "Mejdan - Obilićevo",
+    "country": "BA",
+    "lat": 44.76324,
+    "lng": 17.19012
+  },
+  {
+    "name": "Mehendiganj",
+    "country": "BD",
+    "lat": 22.82257,
+    "lng": 90.52859
+  },
+  {
+    "name": "Meyerode",
+    "country": "BE",
+    "lat": 50.32818,
+    "lng": 6.18776
+  },
+  {
+    "name": "Meux",
+    "country": "BE",
+    "lat": 50.55222,
+    "lng": 4.80103
+  },
+  {
+    "name": "Meulebeke",
+    "country": "BE",
+    "lat": 50.95136,
+    "lng": 3.28804
+  },
+  {
+    "name": "Mettet",
+    "country": "BE",
+    "lat": 50.32119,
+    "lng": 4.66232
+  },
+  {
+    "name": "Messelbroek",
+    "country": "BE",
+    "lat": 50.9955,
+    "lng": 4.93664
+  },
+  {
+    "name": "Messancy",
+    "country": "BE",
+    "lat": 49.59201,
+    "lng": 5.81879
+  },
+  {
+    "name": "Meslin-l'Évêque",
+    "country": "BE",
+    "lat": 50.64859,
+    "lng": 3.84736
+  },
+  {
+    "name": "Merksplas",
+    "country": "BE",
+    "lat": 51.35851,
+    "lng": 4.86513
+  },
+  {
+    "name": "Merksem",
+    "country": "BE",
+    "lat": 51.24623,
+    "lng": 4.44903
+  },
+  {
+    "name": "Merkem",
+    "country": "BE",
+    "lat": 50.95284,
+    "lng": 2.85225
+  },
+  {
+    "name": "Merendree",
+    "country": "BE",
+    "lat": 51.0766,
+    "lng": 3.576
+  },
+  {
+    "name": "Merelbeke",
+    "country": "BE",
+    "lat": 50.99447,
+    "lng": 3.74621
+  },
+  {
+    "name": "Mere",
+    "country": "BE",
+    "lat": 50.92306,
+    "lng": 3.97134
+  },
+  {
+    "name": "Merchtem",
+    "country": "BE",
+    "lat": 50.95129,
+    "lng": 4.23197
+  },
+  {
+    "name": "Merbes-le-Château",
+    "country": "BE",
+    "lat": 50.32449,
+    "lng": 4.16489
+  },
+  {
+    "name": "Menen",
+    "country": "BE",
+    "lat": 50.79722,
+    "lng": 3.12245
+  },
+  {
+    "name": "Membach",
+    "country": "BE",
+    "lat": 50.61908,
+    "lng": 5.99506
+  },
+  {
+    "name": "Melsen",
+    "country": "BE",
+    "lat": 50.95622,
+    "lng": 3.69567
+  },
+  {
+    "name": "Melsele",
+    "country": "BE",
+    "lat": 51.22285,
+    "lng": 4.28201
+  },
+  {
+    "name": "Melsbroek",
+    "country": "BE",
+    "lat": 50.91559,
+    "lng": 4.47985
+  },
+  {
+    "name": "Mellet",
+    "country": "BE",
+    "lat": 50.50573,
+    "lng": 4.47856
+  },
+  {
+    "name": "Melle",
+    "country": "BE",
+    "lat": 51.00232,
+    "lng": 3.80526
+  },
+  {
+    "name": "Melen",
+    "country": "BE",
+    "lat": 50.6462,
+    "lng": 5.73589
+  },
+  {
+    "name": "Meldert",
+    "country": "BE",
+    "lat": 51.00007,
+    "lng": 5.14215
+  },
+  {
+    "name": "Meldert",
+    "country": "BE",
+    "lat": 50.93449,
+    "lng": 4.13504
+  },
+  {
+    "name": "Meldert",
+    "country": "BE",
+    "lat": 50.78814,
+    "lng": 4.83776
+  },
+  {
+    "name": "Meix-devant-Virton",
+    "country": "BE",
+    "lat": 49.60581,
+    "lng": 5.48045
+  },
+  {
+    "name": "Meise",
+    "country": "BE",
+    "lat": 50.93934,
+    "lng": 4.32655
+  },
+  {
+    "name": "Meeuwen",
+    "country": "BE",
+    "lat": 51.0991,
+    "lng": 5.52106
+  },
+  {
+    "name": "Meerle",
+    "country": "BE",
+    "lat": 51.47235,
+    "lng": 4.80316
+  },
+  {
+    "name": "Meerhout",
+    "country": "BE",
+    "lat": 51.1321,
+    "lng": 5.07842
+  },
+  {
+    "name": "Meerdonk",
+    "country": "BE",
+    "lat": 51.26667,
+    "lng": 4.15
+  },
+  {
+    "name": "Meerbeke",
+    "country": "BE",
+    "lat": 50.82444,
+    "lng": 4.03674
+  },
+  {
+    "name": "Meerbeek",
+    "country": "BE",
+    "lat": 50.88213,
+    "lng": 4.58972
+  },
+  {
+    "name": "Meer",
+    "country": "BE",
+    "lat": 51.44641,
+    "lng": 4.73906
+  },
+  {
+    "name": "Meensel-Kiezegem",
+    "country": "BE",
+    "lat": 50.89621,
+    "lng": 4.92496
+  },
+  {
+    "name": "Mechelen-Bovelingen",
+    "country": "BE",
+    "lat": 50.74081,
+    "lng": 5.26278
+  },
+  {
+    "name": "Mechelen-aan-de-Maas",
+    "country": "BE",
+    "lat": 50.96589,
+    "lng": 5.69144
+  },
+  {
+    "name": "Mechelen",
+    "country": "BE",
+    "lat": 51.02574,
+    "lng": 4.47762
+  },
+  {
+    "name": "Mezdra",
+    "country": "BG",
+    "lat": 43.15,
+    "lng": 23.7
+  },
+  {
+    "name": "Medovene",
+    "country": "BG",
+    "lat": 43.76667,
+    "lng": 26.51667
+  },
+  {
+    "name": "Medkovets",
+    "country": "BG",
+    "lat": 43.62403,
+    "lng": 23.16876
+  },
+  {
+    "name": "Mentiri",
+    "country": "BN",
+    "lat": 4.97058,
+    "lng": 115.02078
+  },
+  {
+    "name": "Mecapaca",
+    "country": "BO",
+    "lat": -16.66829,
+    "lng": -68.01808
+  },
+  {
+    "name": "Messias",
+    "country": "BR",
+    "lat": -9.38333,
+    "lng": -35.84167
+  },
+  {
+    "name": "Meruoca",
+    "country": "BR",
+    "lat": -3.54167,
+    "lng": -40.455
+  },
+  {
+    "name": "Melgaço",
+    "country": "BR",
+    "lat": -1.80444,
+    "lng": -50.71222
+  },
+  {
+    "name": "Mesquita",
+    "country": "BR",
+    "lat": -19.2225,
+    "lng": -42.60722
+  },
+  {
+    "name": "Meridiano",
+    "country": "BR",
+    "lat": -20.35917,
+    "lng": -50.17333
+  },
+  {
+    "name": "Mercês",
+    "country": "BR",
+    "lat": -21.19417,
+    "lng": -43.34139
+  },
+  {
+    "name": "Mercedes",
+    "country": "BR",
+    "lat": -24.45389,
+    "lng": -54.16167
+  },
+  {
+    "name": "Mendonça",
+    "country": "BR",
+    "lat": -21.18465,
+    "lng": -49.57954
+  },
+  {
+    "name": "Mendes Pimentel",
+    "country": "BR",
+    "lat": -18.66111,
+    "lng": -41.40472
+  },
+  {
+    "name": "Mendes",
+    "country": "BR",
+    "lat": -22.52667,
+    "lng": -43.73278
+  },
+  {
+    "name": "Meleiro",
+    "country": "BR",
+    "lat": -28.82861,
+    "lng": -49.63583
+  },
+  {
+    "name": "Medina",
+    "country": "BR",
+    "lat": -16.2225,
+    "lng": -41.47694
+  },
+  {
+    "name": "Medianeira",
+    "country": "BR",
+    "lat": -25.29528,
+    "lng": -54.09389
+  },
+  {
+    "name": "Medeiros Neto",
+    "country": "BR",
+    "lat": -17.37389,
+    "lng": -40.22056
+  },
+  {
+    "name": "Medeiros",
+    "country": "BR",
+    "lat": -19.99556,
+    "lng": -46.22611
+  },
+  {
+    "name": "Medicilândia",
+    "country": "BR",
+    "lat": -3.44611,
+    "lng": -52.88889
+  },
+  {
+    "name": "Mesópolis",
+    "country": "BR",
+    "lat": -19.96639,
+    "lng": -50.63806
+  },
+  {
+    "name": "Messias Targino",
+    "country": "BR",
+    "lat": -6.07889,
+    "lng": -37.51389
+  },
+  {
+    "name": "Mebisa",
+    "country": "BT",
+    "lat": 27.0627,
+    "lng": 89.56053
+  },
+  {
+    "name": "Metsemotlhaba",
+    "country": "BW",
+    "lat": -24.55139,
+    "lng": 25.80306
+  },
+  {
+    "name": "Meadowbrook",
+    "country": "CA",
+    "lat": 49.26667,
+    "lng": -122.78333
+  },
+  {
+    "name": "Meadow Lake",
+    "country": "CA",
+    "lat": 54.13348,
+    "lng": -108.43471
+  },
+  {
+    "name": "Meaford",
+    "country": "CA",
+    "lat": 44.60725,
+    "lng": -80.61081
+  },
+  {
+    "name": "Medicine Hat",
+    "country": "CA",
+    "lat": 50.03928,
+    "lng": -110.67661
+  },
+  {
+    "name": "Melfort",
+    "country": "CA",
+    "lat": 52.86673,
+    "lng": -104.61768
+  },
+  {
+    "name": "Melita",
+    "country": "CA",
+    "lat": 49.26811,
+    "lng": -100.99669
+  },
+  {
+    "name": "Melocheville",
+    "country": "CA",
+    "lat": 45.31726,
+    "lng": -73.9371
+  },
+  {
+    "name": "Melville",
+    "country": "CA",
+    "lat": 50.91671,
+    "lng": -102.80099
+  },
+  {
+    "name": "Memramcook",
+    "country": "CA",
+    "lat": 46.00435,
+    "lng": -64.55156
+  },
+  {
+    "name": "Mercier",
+    "country": "CA",
+    "lat": 45.3105,
+    "lng": -73.73976
+  },
+  {
+    "name": "Merritt",
+    "country": "CA",
+    "lat": 50.11225,
+    "lng": -120.7942
+  },
+  {
+    "name": "Metcalfe",
+    "country": "CA",
+    "lat": 45.2334,
+    "lng": -75.46603
+  },
+  {
+    "name": "Metchosin",
+    "country": "CA",
+    "lat": 48.38293,
+    "lng": -123.53591
+  },
+  {
+    "name": "Metrotown",
+    "country": "CA",
+    "lat": 49.225,
+    "lng": -123.0
+  },
+  {
+    "name": "Metabetchouan-Lac-a-la-Croix",
+    "country": "CA",
+    "lat": 48.41,
+    "lng": -71.78
+  },
+  {
+    "name": "Meyrin",
+    "country": "CH",
+    "lat": 46.23424,
+    "lng": 6.08025
+  },
+  {
+    "name": "Mettmenstetten",
+    "country": "CH",
+    "lat": 47.24529,
+    "lng": 8.46347
+  },
+  {
+    "name": "Messen",
+    "country": "CH",
+    "lat": 47.09155,
+    "lng": 7.44528
+  },
+  {
+    "name": "Mesocco",
+    "country": "CH",
+    "lat": 46.3939,
+    "lng": 9.23333
+  },
+  {
+    "name": "Merenschwand",
+    "country": "CH",
+    "lat": 47.25944,
+    "lng": 8.37633
+  },
+  {
+    "name": "Menznau",
+    "country": "CH",
+    "lat": 47.08364,
+    "lng": 8.03971
+  },
+  {
+    "name": "Menzingen",
+    "country": "CH",
+    "lat": 47.17764,
+    "lng": 8.59215
+  },
+  {
+    "name": "Menziken",
+    "country": "CH",
+    "lat": 47.23965,
+    "lng": 8.18996
+  },
+  {
+    "name": "Mendrisio",
+    "country": "CH",
+    "lat": 45.87019,
+    "lng": 8.9816
+  },
+  {
+    "name": "Mellingen",
+    "country": "CH",
+    "lat": 47.41903,
+    "lng": 8.27331
+  },
+  {
+    "name": "Melide",
+    "country": "CH",
+    "lat": 45.95455,
+    "lng": 8.94725
+  },
+  {
+    "name": "Melchnau",
+    "country": "CH",
+    "lat": 47.18213,
+    "lng": 7.85128
+  },
+  {
+    "name": "Melano",
+    "country": "CH",
+    "lat": 45.92202,
+    "lng": 8.98435
+  },
+  {
+    "name": "Meisterschwanden",
+    "country": "CH",
+    "lat": 47.29489,
+    "lng": 8.22867
+  },
+  {
+    "name": "Meiringen",
+    "country": "CH",
+    "lat": 46.72709,
+    "lng": 8.1872
+  },
+  {
+    "name": "Meinisberg",
+    "country": "CH",
+    "lat": 47.15965,
+    "lng": 7.34801
+  },
+  {
+    "name": "Meilen",
+    "country": "CH",
+    "lat": 47.27232,
+    "lng": 8.64617
+  },
+  {
+    "name": "Meierskappel",
+    "country": "CH",
+    "lat": 47.1247,
+    "lng": 8.44274
+  },
+  {
+    "name": "Meggen",
+    "country": "CH",
+    "lat": 47.04691,
+    "lng": 8.37467
+  },
+  {
+    "name": "Meinier",
+    "country": "CH",
+    "lat": 46.24706,
+    "lng": 6.23423
+  },
+  {
+    "name": "Merlischachen",
+    "country": "CH",
+    "lat": 47.0662,
+    "lng": 8.4054
+  },
+  {
+    "name": "Mesoukro",
+    "country": "CI",
+    "lat": 8.03454,
+    "lng": -5.39953
+  },
+  {
+    "name": "Menou",
+    "country": "CI",
+    "lat": 7.01694,
+    "lng": -5.21639
+  },
+  {
+    "name": "Memni",
+    "country": "CI",
+    "lat": 5.51121,
+    "lng": -3.73995
+  },
+  {
+    "name": "Melipilla",
+    "country": "CL",
+    "lat": -33.68909,
+    "lng": -71.21528
+  },
+  {
+    "name": "Mejillones",
+    "country": "CL",
+    "lat": -23.10003,
+    "lng": -70.44703
+  },
+  {
+    "name": "Melong",
+    "country": "CM",
+    "lat": 5.12181,
+    "lng": 9.96143
+  },
+  {
+    "name": "Meïganga",
+    "country": "CM",
+    "lat": 6.51667,
+    "lng": 14.3
+  },
+  {
+    "name": "Mengsuo",
+    "country": "CN",
+    "lat": 22.60199,
+    "lng": 99.55137
+  },
+  {
+    "name": "Mengmeng",
+    "country": "CN",
+    "lat": 23.46502,
+    "lng": 99.80206
+  },
+  {
+    "name": "Mengmao",
+    "country": "CN",
+    "lat": 24.00139,
+    "lng": 97.86499
+  },
+  {
+    "name": "Menglang",
+    "country": "CN",
+    "lat": 22.56214,
+    "lng": 99.91029
+  },
+  {
+    "name": "Mengdong",
+    "country": "CN",
+    "lat": 23.16152,
+    "lng": 99.20226
+  },
+  {
+    "name": "Mekit",
+    "country": "CN",
+    "lat": 38.89697,
+    "lng": 77.63911
+  },
+  {
+    "name": "Mengjin",
+    "country": "CN",
+    "lat": 34.82646,
+    "lng": 112.43643
+  },
+  {
+    "name": "Menghai",
+    "country": "CN",
+    "lat": 21.95266,
+    "lng": 100.4353
+  },
+  {
+    "name": "Mentougou",
+    "country": "CN",
+    "lat": 39.93819,
+    "lng": 116.09307
+  },
+  {
+    "name": "Mengyin",
+    "country": "CN",
+    "lat": 35.70694,
+    "lng": 117.92639
+  },
+  {
+    "name": "Mengyan",
+    "country": "CN",
+    "lat": 26.31667,
+    "lng": 108.88333
+  },
+  {
+    "name": "Mengzhou",
+    "country": "CN",
+    "lat": 34.90726,
+    "lng": 112.78488
+  },
+  {
+    "name": "Mengshan",
+    "country": "CN",
+    "lat": 24.19558,
+    "lng": 110.5209
+  },
+  {
+    "name": "Mengquan",
+    "country": "CN",
+    "lat": 39.82528,
+    "lng": 117.47667
+  },
+  {
+    "name": "Menglie",
+    "country": "CN",
+    "lat": 22.55967,
+    "lng": 101.8679
+  },
+  {
+    "name": "Mengla",
+    "country": "CN",
+    "lat": 21.46234,
+    "lng": 101.5637
+  },
+  {
+    "name": "Mengcheng Chengguanzhen",
+    "country": "CN",
+    "lat": 33.26611,
+    "lng": 116.56605
+  },
+  {
+    "name": "Meizhou",
+    "country": "CN",
+    "lat": 24.28859,
+    "lng": 116.11768
+  },
+  {
+    "name": "Meixing",
+    "country": "CN",
+    "lat": 30.99907,
+    "lng": 102.36019
+  },
+  {
+    "name": "Meishan",
+    "country": "CN",
+    "lat": 31.72913,
+    "lng": 115.91241
+  },
+  {
+    "name": "Meishan",
+    "country": "CN",
+    "lat": 30.04392,
+    "lng": 103.83696
+  },
+  {
+    "name": "Meilin",
+    "country": "CN",
+    "lat": 25.87308,
+    "lng": 115.0108
+  },
+  {
+    "name": "Meijiang",
+    "country": "CN",
+    "lat": 28.26356,
+    "lng": 109.02685
+  },
+  {
+    "name": "Meijiang",
+    "country": "CN",
+    "lat": 26.47583,
+    "lng": 116.015
+  },
+  {
+    "name": "Meicheng",
+    "country": "CN",
+    "lat": 30.63449,
+    "lng": 116.5798
+  },
+  {
+    "name": "Meichang",
+    "country": "CN",
+    "lat": 39.36611,
+    "lng": 117.18056
+  },
+  {
+    "name": "Meipucun",
+    "country": "CN",
+    "lat": 26.21247,
+    "lng": 118.9
+  },
+  {
+    "name": "Meixi",
+    "country": "CN",
+    "lat": 47.6317,
+    "lng": 129.13064
+  },
+  {
+    "name": "Meilisi",
+    "country": "CN",
+    "lat": 47.30835,
+    "lng": 123.7447
+  },
+  {
+    "name": "Meihekou",
+    "country": "CN",
+    "lat": 42.52869,
+    "lng": 125.67876
+  },
+  {
+    "name": "Meiyuan Xincun",
+    "country": "CN",
+    "lat": 32.05421,
+    "lng": 118.79275
+  },
+  {
+    "name": "Meiziya",
+    "country": "CN",
+    "lat": 29.16076,
+    "lng": 108.5186
+  },
+  {
+    "name": "Meixian",
+    "country": "CN",
+    "lat": 24.28382,
+    "lng": 116.06953
+  },
+  {
+    "name": "Meilu",
+    "country": "CN",
+    "lat": 21.43412,
+    "lng": 110.77555
+  },
+  {
+    "name": "Menghuan",
+    "country": "CN",
+    "lat": 24.43532,
+    "lng": 98.58375
+  },
+  {
+    "name": "Mengzi",
+    "country": "CN",
+    "lat": 23.36779,
+    "lng": 103.38212
+  },
+  {
+    "name": "Mercaderes",
+    "country": "CO",
+    "lat": 1.80175,
+    "lng": -77.17032
+  },
+  {
+    "name": "Melgar",
+    "country": "CO",
+    "lat": 4.20475,
+    "lng": -74.64075
+  },
+  {
+    "name": "Medina",
+    "country": "CO",
+    "lat": 4.51005,
+    "lng": -73.34982
+  },
+  {
+    "name": "Medellín",
+    "country": "CO",
+    "lat": 6.245,
+    "lng": -75.57151
+  },
+  {
+    "name": "Mesetas",
+    "country": "CO",
+    "lat": 3.38463,
+    "lng": -74.04424
+  },
+  {
+    "name": "Mercedes Norte",
+    "country": "CR",
+    "lat": 10.00611,
+    "lng": -84.13018
+  },
+  {
+    "name": "Mercedes",
+    "country": "CR",
+    "lat": 9.27447,
+    "lng": -83.57968
+  },
+  {
+    "name": "Melena del Sur",
+    "country": "CU",
+    "lat": 22.78813,
+    "lng": -82.15138
+  },
+  {
+    "name": "Media Luna",
+    "country": "CU",
+    "lat": 20.14298,
+    "lng": -77.43532
+  },
+  {
+    "name": "Mesógi",
+    "country": "CY",
+    "lat": 34.81529,
+    "lng": 32.45627
+  },
+  {
+    "name": "Meneou",
+    "country": "CY",
+    "lat": 34.86075,
+    "lng": 33.59314
+  },
+  {
+    "name": "Meládeia",
+    "country": "CY",
+    "lat": 34.98816,
+    "lng": 32.50665
+  },
+  {
+    "name": "Meziměstí",
+    "country": "CZ",
+    "lat": 50.62461,
+    "lng": 16.24207
+  },
+  {
+    "name": "Meziboři",
+    "country": "CZ",
+    "lat": 50.62115,
+    "lng": 13.5987
+  },
+  {
+    "name": "Metylovice",
+    "country": "CZ",
+    "lat": 49.60666,
+    "lng": 18.33911
+  },
+  {
+    "name": "Merklín",
+    "country": "CZ",
+    "lat": 50.32808,
+    "lng": 12.8635
+  },
+  {
+    "name": "Merklín",
+    "country": "CZ",
+    "lat": 49.56043,
+    "lng": 13.1979
+  },
+  {
+    "name": "Medlov",
+    "country": "CZ",
+    "lat": 49.78754,
+    "lng": 17.06261
+  },
+  {
+    "name": "Meclov",
+    "country": "CZ",
+    "lat": 49.50556,
+    "lng": 12.88082
+  },
+  {
+    "name": "Meyenburg",
+    "country": "DE",
+    "lat": 53.04524,
+    "lng": 14.23691
+  },
+  {
+    "name": "Meuselwitz",
+    "country": "DE",
+    "lat": 51.04315,
+    "lng": 12.29935
+  },
+  {
+    "name": "Meuselbach",
+    "country": "DE",
+    "lat": 50.57152,
+    "lng": 11.09143
+  },
+  {
+    "name": "Meudt",
+    "country": "DE",
+    "lat": 50.49889,
+    "lng": 7.895
+  },
+  {
+    "name": "Metzingen",
+    "country": "DE",
+    "lat": 48.53695,
+    "lng": 9.2833
+  },
+  {
+    "name": "Mettmann",
+    "country": "DE",
+    "lat": 51.2504,
+    "lng": 6.97536
+  },
+  {
+    "name": "Mettlach",
+    "country": "DE",
+    "lat": 49.49489,
+    "lng": 6.58562
+  },
+  {
+    "name": "Mettingen",
+    "country": "DE",
+    "lat": 52.31667,
+    "lng": 7.78333
+  },
+  {
+    "name": "Mettenheim",
+    "country": "DE",
+    "lat": 49.74,
+    "lng": 8.32583
+  },
+  {
+    "name": "Mettenheim",
+    "country": "DE",
+    "lat": 48.26667,
+    "lng": 12.46667
+  },
+  {
+    "name": "Mettendorf",
+    "country": "DE",
+    "lat": 49.94784,
+    "lng": 6.33003
+  },
+  {
+    "name": "Metten",
+    "country": "DE",
+    "lat": 48.85512,
+    "lng": 12.91554
+  },
+  {
+    "name": "Metelen",
+    "country": "DE",
+    "lat": 52.14434,
+    "lng": 7.2127
+  },
+  {
+    "name": "Meßstetten",
+    "country": "DE",
+    "lat": 48.18317,
+    "lng": 8.96565
+  },
+  {
+    "name": "Meßkirch",
+    "country": "DE",
+    "lat": 47.99457,
+    "lng": 9.11479
+  },
+  {
+    "name": "Messingen",
+    "country": "DE",
+    "lat": 52.46667,
+    "lng": 7.46667
+  },
+  {
+    "name": "Messel",
+    "country": "DE",
+    "lat": 49.93833,
+    "lng": 8.74056
+  },
+  {
+    "name": "Mesekenhagen",
+    "country": "DE",
+    "lat": 54.14846,
+    "lng": 13.31843
+  },
+  {
+    "name": "Meschede",
+    "country": "DE",
+    "lat": 51.3502,
+    "lng": 8.28332
+  },
+  {
+    "name": "Merzig",
+    "country": "DE",
+    "lat": 49.44331,
+    "lng": 6.63874
+  },
+  {
+    "name": "Merzhausen",
+    "country": "DE",
+    "lat": 47.96667,
+    "lng": 7.83333
+  },
+  {
+    "name": "Merzen",
+    "country": "DE",
+    "lat": 52.48333,
+    "lng": 7.83333
+  },
+  {
+    "name": "Merzalben",
+    "country": "DE",
+    "lat": 49.24467,
+    "lng": 7.73077
+  },
+  {
+    "name": "Merxheim",
+    "country": "DE",
+    "lat": 49.79297,
+    "lng": 7.5601
+  },
+  {
+    "name": "Mertloch",
+    "country": "DE",
+    "lat": 50.26948,
+    "lng": 7.30814
+  },
+  {
+    "name": "Mertingen",
+    "country": "DE",
+    "lat": 48.65695,
+    "lng": 10.80557
+  },
+  {
+    "name": "Mertesdorf",
+    "country": "DE",
+    "lat": 49.77212,
+    "lng": 6.7329
+  },
+  {
+    "name": "Merseburg",
+    "country": "DE",
+    "lat": 51.35478,
+    "lng": 11.98923
+  },
+  {
+    "name": "Merklingen",
+    "country": "DE",
+    "lat": 48.51135,
+    "lng": 9.75496
+  },
+  {
+    "name": "Merkendorf",
+    "country": "DE",
+    "lat": 49.20361,
+    "lng": 10.70416
+  },
+  {
+    "name": "Merkenbach",
+    "country": "DE",
+    "lat": 50.65626,
+    "lng": 8.29513
+  },
+  {
+    "name": "Mering",
+    "country": "DE",
+    "lat": 48.2656,
+    "lng": 10.98461
+  },
+  {
+    "name": "Merenberg",
+    "country": "DE",
+    "lat": 50.50707,
+    "lng": 8.19194
+  },
+  {
+    "name": "Merdingen",
+    "country": "DE",
+    "lat": 48.01667,
+    "lng": 7.68333
+  },
+  {
+    "name": "Merchweiler",
+    "country": "DE",
+    "lat": 49.35,
+    "lng": 7.05
+  },
+  {
+    "name": "Merching",
+    "country": "DE",
+    "lat": 48.24594,
+    "lng": 10.9853
+  },
+  {
+    "name": "Meppen",
+    "country": "DE",
+    "lat": 52.69064,
+    "lng": 7.29097
+  },
+  {
+    "name": "Menteroda",
+    "country": "DE",
+    "lat": 51.30763,
+    "lng": 10.56323
+  },
+  {
+    "name": "Menslage",
+    "country": "DE",
+    "lat": 52.68333,
+    "lng": 7.81667
+  },
+  {
+    "name": "Mengkofen",
+    "country": "DE",
+    "lat": 48.71894,
+    "lng": 12.44047
+  },
+  {
+    "name": "Mengerskirchen",
+    "country": "DE",
+    "lat": 50.56392,
+    "lng": 8.15555
+  },
+  {
+    "name": "Mengersgereuth-Hämmern",
+    "country": "DE",
+    "lat": 50.3973,
+    "lng": 11.11649
+  },
+  {
+    "name": "Mengenich",
+    "country": "DE",
+    "lat": 50.9785,
+    "lng": 6.86737
+  },
+  {
+    "name": "Mengen",
+    "country": "DE",
+    "lat": 48.04951,
+    "lng": 9.33005
+  },
+  {
+    "name": "Mendig",
+    "country": "DE",
+    "lat": 50.36667,
+    "lng": 7.28333
+  },
+  {
+    "name": "Menden",
+    "country": "DE",
+    "lat": 51.44337,
+    "lng": 7.77825
+  },
+  {
+    "name": "Memmingerberg",
+    "country": "DE",
+    "lat": 47.98803,
+    "lng": 10.22295
+  },
+  {
+    "name": "Memmingen",
+    "country": "DE",
+    "lat": 47.98372,
+    "lng": 10.18527
+  },
+  {
+    "name": "Memmelsdorf",
+    "country": "DE",
+    "lat": 49.93012,
+    "lng": 10.95921
+  },
+  {
+    "name": "Melverode",
+    "country": "DE",
+    "lat": 52.22969,
+    "lng": 10.52542
+  },
+  {
+    "name": "Melsungen",
+    "country": "DE",
+    "lat": 51.13029,
+    "lng": 9.55236
+  },
+  {
+    "name": "Melsdorf",
+    "country": "DE",
+    "lat": 54.31649,
+    "lng": 10.02964
+  },
+  {
+    "name": "Melsbach",
+    "country": "DE",
+    "lat": 50.48333,
+    "lng": 7.48333
+  },
+  {
+    "name": "Mellrichstadt",
+    "country": "DE",
+    "lat": 50.42849,
+    "lng": 10.30334
+  },
+  {
+    "name": "Mellinghausen",
+    "country": "DE",
+    "lat": 52.70697,
+    "lng": 8.89704
+  },
+  {
+    "name": "Mellingen",
+    "country": "DE",
+    "lat": 50.94123,
+    "lng": 11.3964
+  },
+  {
+    "name": "Mellenbach-Glasbach",
+    "country": "DE",
+    "lat": 50.61667,
+    "lng": 11.1
+  },
+  {
+    "name": "Melle",
+    "country": "DE",
+    "lat": 52.20197,
+    "lng": 8.33826
+  },
+  {
+    "name": "Meldorf",
+    "country": "DE",
+    "lat": 54.09182,
+    "lng": 9.0687
+  },
+  {
+    "name": "Melchow",
+    "country": "DE",
+    "lat": 52.77613,
+    "lng": 13.70647
+  },
+  {
+    "name": "Melbeck",
+    "country": "DE",
+    "lat": 53.18333,
+    "lng": 10.4
+  },
+  {
+    "name": "Melbach",
+    "country": "DE",
+    "lat": 50.37908,
+    "lng": 8.80926
+  },
+  {
+    "name": "Meitzendorf",
+    "country": "DE",
+    "lat": 52.21308,
+    "lng": 11.56174
+  },
+  {
+    "name": "Meitingen",
+    "country": "DE",
+    "lat": 48.54586,
+    "lng": 10.85179
+  },
+  {
+    "name": "Meißenheim",
+    "country": "DE",
+    "lat": 48.41035,
+    "lng": 7.77266
+  },
+  {
+    "name": "Meissen",
+    "country": "DE",
+    "lat": 51.16158,
+    "lng": 13.4737
+  },
+  {
+    "name": "Meisenheim",
+    "country": "DE",
+    "lat": 49.70721,
+    "lng": 7.66765
+  },
+  {
+    "name": "Meiningen",
+    "country": "DE",
+    "lat": 50.56787,
+    "lng": 10.41521
+  },
+  {
+    "name": "Meinerzhagen",
+    "country": "DE",
+    "lat": 51.1074,
+    "lng": 7.64838
+  },
+  {
+    "name": "Meinersen",
+    "country": "DE",
+    "lat": 52.47436,
+    "lng": 10.35247
+  },
+  {
+    "name": "Meiderich",
+    "country": "DE",
+    "lat": 51.46667,
+    "lng": 6.76667
+  },
+  {
+    "name": "Mehrstetten",
+    "country": "DE",
+    "lat": 48.37609,
+    "lng": 9.566
+  },
+  {
+    "name": "Mehringen",
+    "country": "DE",
+    "lat": 51.72663,
+    "lng": 11.51264
+  },
+  {
+    "name": "Mehring",
+    "country": "DE",
+    "lat": 49.8,
+    "lng": 6.83333
+  },
+  {
+    "name": "Mehring",
+    "country": "DE",
+    "lat": 48.18333,
+    "lng": 12.78333
+  },
+  {
+    "name": "Mehrhoog",
+    "country": "DE",
+    "lat": 51.73826,
+    "lng": 6.51164
+  },
+  {
+    "name": "Mehren",
+    "country": "DE",
+    "lat": 50.18333,
+    "lng": 6.88333
+  },
+  {
+    "name": "Mehltheuer",
+    "country": "DE",
+    "lat": 50.5453,
+    "lng": 12.037
+  },
+  {
+    "name": "Mehlmeisel",
+    "country": "DE",
+    "lat": 49.97421,
+    "lng": 11.862
+  },
+  {
+    "name": "Mehlingen",
+    "country": "DE",
+    "lat": 49.49136,
+    "lng": 7.85467
+  },
+  {
+    "name": "Mehlbach",
+    "country": "DE",
+    "lat": 49.51667,
+    "lng": 7.71667
+  },
+  {
+    "name": "Meersburg",
+    "country": "DE",
+    "lat": 47.69419,
+    "lng": 9.27113
+  },
+  {
+    "name": "Meerdorf",
+    "country": "DE",
+    "lat": 52.34583,
+    "lng": 10.31745
+  },
+  {
+    "name": "Meerbusch",
+    "country": "DE",
+    "lat": 51.25268,
+    "lng": 6.68807
+  },
+  {
+    "name": "Meerbeck",
+    "country": "DE",
+    "lat": 52.34174,
+    "lng": 9.15067
+  },
+  {
+    "name": "Meerane",
+    "country": "DE",
+    "lat": 50.84688,
+    "lng": 12.46473
+  },
+  {
+    "name": "Meeder",
+    "country": "DE",
+    "lat": 50.32118,
+    "lng": 10.90697
+  },
+  {
+    "name": "Medebach",
+    "country": "DE",
+    "lat": 51.19713,
+    "lng": 8.70635
+  },
+  {
+    "name": "Meddersheim",
+    "country": "DE",
+    "lat": 49.77636,
+    "lng": 7.61708
+  },
+  {
+    "name": "Meckesheim",
+    "country": "DE",
+    "lat": 49.32167,
+    "lng": 8.81944
+  },
+  {
+    "name": "Meckenheim",
+    "country": "DE",
+    "lat": 50.62388,
+    "lng": 7.02942
+  },
+  {
+    "name": "Meckenheim",
+    "country": "DE",
+    "lat": 49.40444,
+    "lng": 8.23917
+  },
+  {
+    "name": "Meckenbeuren",
+    "country": "DE",
+    "lat": 47.7,
+    "lng": 9.56667
+  },
+  {
+    "name": "Mechterstädt",
+    "country": "DE",
+    "lat": 50.94201,
+    "lng": 10.5238
+  },
+  {
+    "name": "Mechernich",
+    "country": "DE",
+    "lat": 50.59304,
+    "lng": 6.65224
+  },
+  {
+    "name": "Medlingen",
+    "country": "DE",
+    "lat": 48.57027,
+    "lng": 10.31608
+  },
+  {
+    "name": "Mespelbrunn",
+    "country": "DE",
+    "lat": 49.91444,
+    "lng": 9.29194
+  },
+  {
+    "name": "Mern",
+    "country": "DK",
+    "lat": 55.04824,
+    "lng": 12.0556
+  },
+  {
+    "name": "Mella",
+    "country": "DO",
+    "lat": 18.35871,
+    "lng": -71.41716
+  },
+  {
+    "name": "Metlili Chaamba",
+    "country": "DZ",
+    "lat": 32.26667,
+    "lng": 3.63333
+  },
+  {
+    "name": "Metarfa",
+    "country": "DZ",
+    "lat": 28.58437,
+    "lng": -0.15039
+  },
+  {
+    "name": "Messaad",
+    "country": "DZ",
+    "lat": 34.15429,
+    "lng": 3.50309
+  },
+  {
+    "name": "Meskiana",
+    "country": "DZ",
+    "lat": 35.63058,
+    "lng": 7.66606
+  },
+  {
+    "name": "Mers el Kebir",
+    "country": "DZ",
+    "lat": 35.7279,
+    "lng": -0.7081
+  },
+  {
+    "name": "Merouana",
+    "country": "DZ",
+    "lat": 35.63106,
+    "lng": 5.91186
+  },
+  {
+    "name": "Melouza",
+    "country": "DZ",
+    "lat": 35.97999,
+    "lng": 4.18665
+  },
+  {
+    "name": "Mekla",
+    "country": "DZ",
+    "lat": 36.68178,
+    "lng": 4.26378
+  },
+  {
+    "name": "Mehdia daira de meghila",
+    "country": "DZ",
+    "lat": 35.43058,
+    "lng": 1.75714
+  },
+  {
+    "name": "Megarine",
+    "country": "DZ",
+    "lat": 33.19195,
+    "lng": 6.08695
+  },
+  {
+    "name": "Meftah",
+    "country": "DZ",
+    "lat": 36.6204,
+    "lng": 3.22248
+  },
+  {
+    "name": "Mecheria",
+    "country": "DZ",
+    "lat": 33.54453,
+    "lng": -0.28117
+  },
+  {
+    "name": "Mera",
+    "country": "EC",
+    "lat": -1.46053,
+    "lng": -78.11348
+  },
+  {
+    "name": "Membrillal",
+    "country": "EC",
+    "lat": -1.23781,
+    "lng": -80.66546
+  },
+  {
+    "name": "Mendefera",
+    "country": "ER",
+    "lat": 14.88722,
+    "lng": 38.81528
+  },
+  {
+    "name": "Mestanza",
+    "country": "ES",
+    "lat": 38.57616,
+    "lng": -4.07096
+  },
+  {
+    "name": "Mesas de Ibor",
+    "country": "ES",
+    "lat": 39.75587,
+    "lng": -5.54637
+  },
+  {
+    "name": "Mercadal",
+    "country": "ES",
+    "lat": 39.99014,
+    "lng": 4.09387
+  },
+  {
+    "name": "Mengibar",
+    "country": "ES",
+    "lat": 37.96978,
+    "lng": -3.80884
+  },
+  {
+    "name": "Mengabril",
+    "country": "ES",
+    "lat": 38.93554,
+    "lng": -5.93335
+  },
+  {
+    "name": "Menasalbas",
+    "country": "ES",
+    "lat": 39.63954,
+    "lng": -4.28418
+  },
+  {
+    "name": "Membrilla",
+    "country": "ES",
+    "lat": 38.97198,
+    "lng": -3.3433
+  },
+  {
+    "name": "Melilla",
+    "country": "ES",
+    "lat": 35.29369,
+    "lng": -2.93833
+  },
+  {
+    "name": "Meliana",
+    "country": "ES",
+    "lat": 39.53333,
+    "lng": -0.33333
+  },
+  {
+    "name": "Medina Sidonia",
+    "country": "ES",
+    "lat": 36.45695,
+    "lng": -5.92717
+  },
+  {
+    "name": "Medina de las Torres",
+    "country": "ES",
+    "lat": 38.33333,
+    "lng": -6.4
+  },
+  {
+    "name": "Medellín",
+    "country": "ES",
+    "lat": 38.96265,
+    "lng": -5.95785
+  },
+  {
+    "name": "Mezquita de Jarque",
+    "country": "ES",
+    "lat": 40.721,
+    "lng": -0.867
+  },
+  {
+    "name": "Mezalocha",
+    "country": "ES",
+    "lat": 41.42581,
+    "lng": -1.08276
+  },
+  {
+    "name": "Metauten",
+    "country": "ES",
+    "lat": 42.67714,
+    "lng": -2.13015
+  },
+  {
+    "name": "Mesones de Isuela",
+    "country": "ES",
+    "lat": 41.55119,
+    "lng": -1.53858
+  },
+  {
+    "name": "Mesia",
+    "country": "ES",
+    "lat": 43.1,
+    "lng": -8.26667
+  },
+  {
+    "name": "Mesegar de Corneja",
+    "country": "ES",
+    "lat": 40.50209,
+    "lng": -5.30131
+  },
+  {
+    "name": "Mequinensa / Mequinenza",
+    "country": "ES",
+    "lat": 41.37211,
+    "lng": 0.30169
+  },
+  {
+    "name": "Mengamuñoz",
+    "country": "ES",
+    "lat": 40.50006,
+    "lng": -4.99983
+  },
+  {
+    "name": "Meneses de Campos",
+    "country": "ES",
+    "lat": 41.94142,
+    "lng": -4.91927
+  },
+  {
+    "name": "Mendigorría",
+    "country": "ES",
+    "lat": 42.62822,
+    "lng": -1.8345
+  },
+  {
+    "name": "Mendavia",
+    "country": "ES",
+    "lat": 42.44335,
+    "lng": -2.20087
+  },
+  {
+    "name": "Mendaro",
+    "country": "ES",
+    "lat": 43.25326,
+    "lng": -2.38568
+  },
+  {
+    "name": "Membrillera",
+    "country": "ES",
+    "lat": 40.94807,
+    "lng": -2.97969
+  },
+  {
+    "name": "Membribe de la Sierra",
+    "country": "ES",
+    "lat": 40.69123,
+    "lng": -5.80568
+  },
+  {
+    "name": "Membibre de la Hoz",
+    "country": "ES",
+    "lat": 41.44958,
+    "lng": -4.09571
+  },
+  {
+    "name": "Melque de Cercos",
+    "country": "ES",
+    "lat": 41.05166,
+    "lng": -4.46944
+  },
+  {
+    "name": "Melón",
+    "country": "ES",
+    "lat": 42.26016,
+    "lng": -8.214
+  },
+  {
+    "name": "Melide",
+    "country": "ES",
+    "lat": 42.91382,
+    "lng": -8.01496
+  },
+  {
+    "name": "Melgar de Yuso",
+    "country": "ES",
+    "lat": 42.25381,
+    "lng": -4.25394
+  },
+  {
+    "name": "Melgar de Tera",
+    "country": "ES",
+    "lat": 41.96618,
+    "lng": -6.0139
+  },
+  {
+    "name": "Melgar de Fernamental",
+    "country": "ES",
+    "lat": 42.40445,
+    "lng": -4.24484
+  },
+  {
+    "name": "Melgar de Arriba",
+    "country": "ES",
+    "lat": 42.26806,
+    "lng": -5.09712
+  },
+  {
+    "name": "Melgar de Abajo",
+    "country": "ES",
+    "lat": 42.24344,
+    "lng": -5.14216
+  },
+  {
+    "name": "Mejorada del Campo",
+    "country": "ES",
+    "lat": 40.39283,
+    "lng": -3.48194
+  },
+  {
+    "name": "Mejorada",
+    "country": "ES",
+    "lat": 40.00991,
+    "lng": -4.88506
+  },
+  {
+    "name": "Meis",
+    "country": "ES",
+    "lat": 42.5,
+    "lng": -8.75
+  },
+  {
+    "name": "Meira",
+    "country": "ES",
+    "lat": 43.21337,
+    "lng": -7.29372
+  },
+  {
+    "name": "Megina",
+    "country": "ES",
+    "lat": 40.63911,
+    "lng": -1.87041
+  },
+  {
+    "name": "Megeces",
+    "country": "ES",
+    "lat": 41.40828,
+    "lng": -4.56166
+  },
+  {
+    "name": "Medrano",
+    "country": "ES",
+    "lat": 42.38361,
+    "lng": -2.55394
+  },
+  {
+    "name": "Medranda",
+    "country": "ES",
+    "lat": 40.98333,
+    "lng": -2.93719
+  },
+  {
+    "name": "Mediona",
+    "country": "ES",
+    "lat": 41.47798,
+    "lng": 1.61222
+  },
+  {
+    "name": "Medinilla",
+    "country": "ES",
+    "lat": 40.43967,
+    "lng": -5.61772
+  },
+  {
+    "name": "Medina de Ríoseco",
+    "country": "ES",
+    "lat": 41.88327,
+    "lng": -5.04405
+  },
+  {
+    "name": "Medina de Pomar",
+    "country": "ES",
+    "lat": 42.92938,
+    "lng": -3.48804
+  },
+  {
+    "name": "Medina del Campo",
+    "country": "ES",
+    "lat": 41.31239,
+    "lng": -4.91413
+  },
+  {
+    "name": "Medinaceli",
+    "country": "ES",
+    "lat": 41.17224,
+    "lng": -2.43476
+  },
+  {
+    "name": "Mediana de Voltoya",
+    "country": "ES",
+    "lat": 40.70104,
+    "lng": -4.56341
+  },
+  {
+    "name": "Meco",
+    "country": "ES",
+    "lat": 40.55274,
+    "lng": -3.32894
+  },
+  {
+    "name": "Mecerreyes",
+    "country": "ES",
+    "lat": 42.09536,
+    "lng": -3.57393
+  },
+  {
+    "name": "Meaño",
+    "country": "ES",
+    "lat": 42.44661,
+    "lng": -8.78122
+  },
+  {
+    "name": "Meranges",
+    "country": "ES",
+    "lat": 42.44518,
+    "lng": 1.78777
+  },
+  {
+    "name": "Mendexa",
+    "country": "ES",
+    "lat": 43.3459,
+    "lng": -2.4842
+  },
+  {
+    "name": "Media Legua",
+    "country": "ES",
+    "lat": 40.41189,
+    "lng": -3.65682
+  },
+  {
+    "name": "Metu",
+    "country": "ET",
+    "lat": 8.3,
+    "lng": 35.58333
+  },
+  {
+    "name": "Metemma",
+    "country": "ET",
+    "lat": 12.95479,
+    "lng": 36.15549
+  },
+  {
+    "name": "Metahāra",
+    "country": "ET",
+    "lat": 8.9,
+    "lng": 39.91667
+  },
+  {
+    "name": "Mertule Maryam",
+    "country": "ET",
+    "lat": 10.83333,
+    "lng": 38.26667
+  },
+  {
+    "name": "Mersa",
+    "country": "ET",
+    "lat": 11.66667,
+    "lng": 39.65
+  },
+  {
+    "name": "Mer’āwī",
+    "country": "ET",
+    "lat": 11.41667,
+    "lng": 37.16667
+  },
+  {
+    "name": "Mendī",
+    "country": "ET",
+    "lat": 9.8,
+    "lng": 35.1
+  },
+  {
+    "name": "Mena",
+    "country": "ET",
+    "lat": 6.41667,
+    "lng": 39.85
+  },
+  {
+    "name": "Mek’ī",
+    "country": "ET",
+    "lat": 8.15,
+    "lng": 38.81667
+  },
+  {
+    "name": "Mek'ele",
+    "country": "ET",
+    "lat": 13.49667,
+    "lng": 39.47528
+  },
+  {
+    "name": "Mehal Mēda",
+    "country": "ET",
+    "lat": 10.3121,
+    "lng": 39.65888
+  },
+  {
+    "name": "Mehoni",
+    "country": "ET",
+    "lat": 12.79881,
+    "lng": 39.64448
+  },
+  {
+    "name": "Merimasku",
+    "country": "FI",
+    "lat": 60.48333,
+    "lng": 21.86667
+  },
+  {
+    "name": "Merikarvia",
+    "country": "FI",
+    "lat": 61.85839,
+    "lng": 21.50035
+  },
+  {
+    "name": "Merijärvi",
+    "country": "FI",
+    "lat": 64.3,
+    "lng": 24.45
+  },
+  {
+    "name": "Mellunkylä",
+    "country": "FI",
+    "lat": 60.23355,
+    "lng": 25.09947
+  },
+  {
+    "name": "Mellilä",
+    "country": "FI",
+    "lat": 60.76667,
+    "lng": 22.95
+  },
+  {
+    "name": "Meilahti",
+    "country": "FI",
+    "lat": 60.18982,
+    "lng": 24.89717
+  },
+  {
+    "name": "Metsälä",
+    "country": "FI",
+    "lat": 60.22298,
+    "lng": 24.94034
+  },
+  {
+    "name": "Mellunmäki",
+    "country": "FI",
+    "lat": 60.23751,
+    "lng": 25.11552
+  },
+  {
+    "name": "Metsola",
+    "country": "FI",
+    "lat": 60.34848,
+    "lng": 25.09003
+  },
+  {
+    "name": "Meri-Rastila",
+    "country": "FI",
+    "lat": 60.19972,
+    "lng": 25.11857
+  },
+  {
+    "name": "Mezel",
+    "country": "FR",
+    "lat": 45.75508,
+    "lng": 3.24225
+  },
+  {
+    "name": "Meyzieu",
+    "country": "FR",
+    "lat": 45.76637,
+    "lng": 5.00277
+  },
+  {
+    "name": "Meythet",
+    "country": "FR",
+    "lat": 45.91836,
+    "lng": 6.09422
+  },
+  {
+    "name": "Meysse",
+    "country": "FR",
+    "lat": 44.61028,
+    "lng": 4.72306
+  },
+  {
+    "name": "Meyssac",
+    "country": "FR",
+    "lat": 45.05547,
+    "lng": 1.67412
+  },
+  {
+    "name": "Meyrueis",
+    "country": "FR",
+    "lat": 44.17865,
+    "lng": 3.42916
+  },
+  {
+    "name": "Meyreuil",
+    "country": "FR",
+    "lat": 43.4878,
+    "lng": 5.49574
+  },
+  {
+    "name": "Meyrargues",
+    "country": "FR",
+    "lat": 43.63677,
+    "lng": 5.52679
+  },
+  {
+    "name": "Meynes",
+    "country": "FR",
+    "lat": 43.88274,
+    "lng": 4.56133
+  },
+  {
+    "name": "Meymac",
+    "country": "FR",
+    "lat": 45.53583,
+    "lng": 2.14699
+  },
+  {
+    "name": "Meylan",
+    "country": "FR",
+    "lat": 45.20978,
+    "lng": 5.77762
+  },
+  {
+    "name": "Meyenheim",
+    "country": "FR",
+    "lat": 47.91364,
+    "lng": 7.3556
+  },
+  {
+    "name": "Mexy",
+    "country": "FR",
+    "lat": 49.50072,
+    "lng": 5.78078
+  },
+  {
+    "name": "Meximieux",
+    "country": "FR",
+    "lat": 45.90823,
+    "lng": 5.1992
+  },
+  {
+    "name": "Meursault",
+    "country": "FR",
+    "lat": 46.97822,
+    "lng": 4.76952
+  },
+  {
+    "name": "Meursac",
+    "country": "FR",
+    "lat": 45.64978,
+    "lng": -0.80953
+  },
+  {
+    "name": "Meurchin",
+    "country": "FR",
+    "lat": 50.49831,
+    "lng": 2.89318
+  },
+  {
+    "name": "Meung-sur-Loire",
+    "country": "FR",
+    "lat": 47.83124,
+    "lng": 1.69582
+  },
+  {
+    "name": "Meulan-en-Yvelines",
+    "country": "FR",
+    "lat": 49.00768,
+    "lng": 1.90602
+  },
+  {
+    "name": "Meudon",
+    "country": "FR",
+    "lat": 48.81381,
+    "lng": 2.235
+  },
+  {
+    "name": "Meucon",
+    "country": "FR",
+    "lat": 47.71785,
+    "lng": -2.76619
+  },
+  {
+    "name": "Metz-Tessy",
+    "country": "FR",
+    "lat": 45.93343,
+    "lng": 6.10973
+  },
+  {
+    "name": "Metzervisse",
+    "country": "FR",
+    "lat": 49.31476,
+    "lng": 6.28277
+  },
+  {
+    "name": "Metzeral",
+    "country": "FR",
+    "lat": 48.01217,
+    "lng": 7.07091
+  },
+  {
+    "name": "Metz",
+    "country": "FR",
+    "lat": 49.11911,
+    "lng": 6.17269
+  },
+  {
+    "name": "Mettray",
+    "country": "FR",
+    "lat": 47.45251,
+    "lng": 0.64939
+  },
+  {
+    "name": "Messimy",
+    "country": "FR",
+    "lat": 45.69816,
+    "lng": 4.67429
+  },
+  {
+    "name": "Messigny-et-Vantoux",
+    "country": "FR",
+    "lat": 47.40666,
+    "lng": 5.01715
+  },
+  {
+    "name": "Messery",
+    "country": "FR",
+    "lat": 46.35036,
+    "lng": 6.29099
+  },
+  {
+    "name": "Messeix",
+    "country": "FR",
+    "lat": 45.61702,
+    "lng": 2.54157
+  },
+  {
+    "name": "Messei",
+    "country": "FR",
+    "lat": 48.71157,
+    "lng": -0.53739
+  },
+  {
+    "name": "Messein",
+    "country": "FR",
+    "lat": 48.6118,
+    "lng": 6.13959
+  },
+  {
+    "name": "Messac",
+    "country": "FR",
+    "lat": 47.8245,
+    "lng": -1.80892
+  },
+  {
+    "name": "Mesquer",
+    "country": "FR",
+    "lat": 47.39951,
+    "lng": -2.46035
+  },
+  {
+    "name": "Mesnières-en-Bray",
+    "country": "FR",
+    "lat": 49.76172,
+    "lng": 1.38187
+  },
+  {
+    "name": "Meslay-du-Maine",
+    "country": "FR",
+    "lat": 47.9514,
+    "lng": -0.55583
+  },
+  {
+    "name": "Meslan",
+    "country": "FR",
+    "lat": 47.99452,
+    "lng": -3.43234
+  },
+  {
+    "name": "Meschers-sur-Gironde",
+    "country": "FR",
+    "lat": 45.55927,
+    "lng": -0.95668
+  },
+  {
+    "name": "Merxheim",
+    "country": "FR",
+    "lat": 47.91128,
+    "lng": 7.29492
+  },
+  {
+    "name": "Merville-Franceville-Plage",
+    "country": "FR",
+    "lat": 49.27218,
+    "lng": -0.19616
+  },
+  {
+    "name": "Merville",
+    "country": "FR",
+    "lat": 50.64329,
+    "lng": 2.64125
+  },
+  {
+    "name": "Merville",
+    "country": "FR",
+    "lat": 43.72354,
+    "lng": 1.29656
+  },
+  {
+    "name": "Mervent",
+    "country": "FR",
+    "lat": 46.52265,
+    "lng": -0.75634
+  },
+  {
+    "name": "Mervans",
+    "country": "FR",
+    "lat": 46.79923,
+    "lng": 5.1843
+  },
+  {
+    "name": "Mertzwiller",
+    "country": "FR",
+    "lat": 48.86558,
+    "lng": 7.68136
+  },
+  {
+    "name": "Merten",
+    "country": "FR",
+    "lat": 49.24903,
+    "lng": 6.66465
+  },
+  {
+    "name": "Mers-les-Bains",
+    "country": "FR",
+    "lat": 50.06538,
+    "lng": 1.3881
+  },
+  {
+    "name": "Merlimont",
+    "country": "FR",
+    "lat": 50.4559,
+    "lng": 1.61315
+  },
+  {
+    "name": "Merlevenez",
+    "country": "FR",
+    "lat": 47.73673,
+    "lng": -3.23358
+  },
+  {
+    "name": "Merdrignac",
+    "country": "FR",
+    "lat": 48.19356,
+    "lng": -2.41501
+  },
+  {
+    "name": "Mercy-le-Bas",
+    "country": "FR",
+    "lat": 49.38935,
+    "lng": 5.75599
+  },
+  {
+    "name": "Mercus-Garrabet",
+    "country": "FR",
+    "lat": 42.8779,
+    "lng": 1.629
+  },
+  {
+    "name": "Mercury",
+    "country": "FR",
+    "lat": 45.67452,
+    "lng": 6.33688
+  },
+  {
+    "name": "Mercurol-Veaunes",
+    "country": "FR",
+    "lat": 45.07437,
+    "lng": 4.89279
+  },
+  {
+    "name": "Mer",
+    "country": "FR",
+    "lat": 47.70555,
+    "lng": 1.50621
+  },
+  {
+    "name": "Menucourt",
+    "country": "FR",
+    "lat": 49.02841,
+    "lng": 1.98046
+  },
+  {
+    "name": "Menton",
+    "country": "FR",
+    "lat": 43.77649,
+    "lng": 7.50435
+  },
+  {
+    "name": "Menthon-Saint-Bernard",
+    "country": "FR",
+    "lat": 45.85995,
+    "lng": 6.19552
+  },
+  {
+    "name": "Mensignac",
+    "country": "FR",
+    "lat": 45.22515,
+    "lng": 0.56054
+  },
+  {
+    "name": "Mens",
+    "country": "FR",
+    "lat": 44.81557,
+    "lng": 5.75146
+  },
+  {
+    "name": "Menneval",
+    "country": "FR",
+    "lat": 49.1,
+    "lng": 0.61667
+  },
+  {
+    "name": "Mennecy",
+    "country": "FR",
+    "lat": 48.56903,
+    "lng": 2.44384
+  },
+  {
+    "name": "Menetou-Salon",
+    "country": "FR",
+    "lat": 47.23172,
+    "lng": 2.48715
+  },
+  {
+    "name": "Mende",
+    "country": "FR",
+    "lat": 44.52161,
+    "lng": 3.49978
+  },
+  {
+    "name": "Melun",
+    "country": "FR",
+    "lat": 48.5457,
+    "lng": 2.65356
+  },
+  {
+    "name": "Melrand",
+    "country": "FR",
+    "lat": 47.97966,
+    "lng": -3.11102
+  },
+  {
+    "name": "Mellecey",
+    "country": "FR",
+    "lat": 46.81084,
+    "lng": 4.72822
+  },
+  {
+    "name": "Melle",
+    "country": "FR",
+    "lat": 46.22395,
+    "lng": -0.14348
+  },
+  {
+    "name": "Mellac",
+    "country": "FR",
+    "lat": 47.90392,
+    "lng": -3.57764
+  },
+  {
+    "name": "Melgven",
+    "country": "FR",
+    "lat": 47.90648,
+    "lng": -3.83501
+  },
+  {
+    "name": "Melesse",
+    "country": "FR",
+    "lat": 48.21762,
+    "lng": -1.69721
+  },
+  {
+    "name": "Melay",
+    "country": "FR",
+    "lat": 47.18333,
+    "lng": -0.69429
+  },
+  {
+    "name": "Meistratzheim",
+    "country": "FR",
+    "lat": 48.44853,
+    "lng": 7.5435
+  },
+  {
+    "name": "Meillonnas",
+    "country": "FR",
+    "lat": 46.24367,
+    "lng": 5.35019
+  },
+  {
+    "name": "Meillac",
+    "country": "FR",
+    "lat": 48.41179,
+    "lng": -1.81272
+  },
+  {
+    "name": "Meilhan-sur-Garonne",
+    "country": "FR",
+    "lat": 44.52145,
+    "lng": 0.03328
+  },
+  {
+    "name": "Meilhan",
+    "country": "FR",
+    "lat": 43.86436,
+    "lng": -0.70587
+  },
+  {
+    "name": "Mehun-sur-Yèvre",
+    "country": "FR",
+    "lat": 47.13782,
+    "lng": 2.21105
+  },
+  {
+    "name": "Megève",
+    "country": "FR",
+    "lat": 45.85687,
+    "lng": 6.61775
+  },
+  {
+    "name": "Meaux",
+    "country": "FR",
+    "lat": 48.96014,
+    "lng": 2.87885
+  },
+  {
+    "name": "Mercurey",
+    "country": "FR",
+    "lat": 46.84035,
+    "lng": 4.71743
+  },
+  {
+    "name": "Meudon-la-Forêt",
+    "country": "FR",
+    "lat": 48.78404,
+    "lng": 2.22507
+  },
+  {
+    "name": "Menpenti",
+    "country": "FR",
+    "lat": 43.28198,
+    "lng": 5.39607
+  },
+  {
+    "name": "Mexborough",
+    "country": "GB",
+    "lat": 53.49389,
+    "lng": -1.29243
+  },
+  {
+    "name": "Mevagissey",
+    "country": "GB",
+    "lat": 50.27324,
+    "lng": -4.79166
+  },
+  {
+    "name": "Methven",
+    "country": "GB",
+    "lat": 56.41737,
+    "lng": -3.57832
+  },
+  {
+    "name": "Methley",
+    "country": "GB",
+    "lat": 53.72887,
+    "lng": -1.40318
+  },
+  {
+    "name": "Methil",
+    "country": "GB",
+    "lat": 56.18543,
+    "lng": -3.02157
+  },
+  {
+    "name": "Metheringham",
+    "country": "GB",
+    "lat": 53.14015,
+    "lng": -0.40368
+  },
+  {
+    "name": "Messingham",
+    "country": "GB",
+    "lat": 53.52828,
+    "lng": -0.65385
+  },
+  {
+    "name": "Merthyr Tydfil",
+    "country": "GB",
+    "lat": 51.74794,
+    "lng": -3.37779
+  },
+  {
+    "name": "Merstham",
+    "country": "GB",
+    "lat": 51.25969,
+    "lng": -0.15728
+  },
+  {
+    "name": "Merrow",
+    "country": "GB",
+    "lat": 51.24552,
+    "lng": -0.53136
+  },
+  {
+    "name": "Meriden",
+    "country": "GB",
+    "lat": 52.4377,
+    "lng": -1.64366
+  },
+  {
+    "name": "Mere",
+    "country": "GB",
+    "lat": 53.3321,
+    "lng": -2.40935
+  },
+  {
+    "name": "Mere",
+    "country": "GB",
+    "lat": 51.08889,
+    "lng": -2.26694
+  },
+  {
+    "name": "Meppershall",
+    "country": "GB",
+    "lat": 52.01713,
+    "lng": -0.33991
+  },
+  {
+    "name": "Meopham",
+    "country": "GB",
+    "lat": 51.36844,
+    "lng": 0.36007
+  },
+  {
+    "name": "Menston",
+    "country": "GB",
+    "lat": 53.89041,
+    "lng": -1.74395
+  },
+  {
+    "name": "Menai Bridge",
+    "country": "GB",
+    "lat": 53.22775,
+    "lng": -4.16926
+  },
+  {
+    "name": "Melton Mowbray",
+    "country": "GB",
+    "lat": 52.76588,
+    "lng": -0.88693
+  },
+  {
+    "name": "Meltham",
+    "country": "GB",
+    "lat": 53.59305,
+    "lng": -1.84861
+  },
+  {
+    "name": "Melrose",
+    "country": "GB",
+    "lat": 55.59969,
+    "lng": -2.7277
+  },
+  {
+    "name": "Melling",
+    "country": "GB",
+    "lat": 53.48333,
+    "lng": -2.91667
+  },
+  {
+    "name": "Melksham",
+    "country": "GB",
+    "lat": 51.37281,
+    "lng": -2.14002
+  },
+  {
+    "name": "Meldreth",
+    "country": "GB",
+    "lat": 52.09396,
+    "lng": 0.00807
+  },
+  {
+    "name": "Meldon",
+    "country": "GB",
+    "lat": 55.13333,
+    "lng": -1.8
+  },
+  {
+    "name": "Melbourne",
+    "country": "GB",
+    "lat": 53.88755,
+    "lng": -0.85925
+  },
+  {
+    "name": "Melbourne",
+    "country": "GB",
+    "lat": 52.8219,
+    "lng": -1.42522
+  },
+  {
+    "name": "Melbourn",
+    "country": "GB",
+    "lat": 52.08128,
+    "lng": 0.01514
+  },
+  {
+    "name": "Meikle Earnock",
+    "country": "GB",
+    "lat": 55.75,
+    "lng": -4.03333
+  },
+  {
+    "name": "Measham",
+    "country": "GB",
+    "lat": 52.70644,
+    "lng": -1.50637
+  },
+  {
+    "name": "Merthyr Mawr",
+    "country": "GB",
+    "lat": 51.48611,
+    "lng": -3.60861
+  },
+  {
+    "name": "Meltham Mills",
+    "country": "GB",
+    "lat": 53.59388,
+    "lng": -1.83989
+  },
+  {
+    "name": "Mendip",
+    "country": "GB",
+    "lat": 51.2372,
+    "lng": -2.6266
+  },
+  {
+    "name": "Menstrie",
+    "country": "GB",
+    "lat": 56.15138,
+    "lng": -3.85466
+  },
+  {
+    "name": "Merriott",
+    "country": "GB",
+    "lat": 50.91275,
+    "lng": -2.79538
+  },
+  {
+    "name": "Meriden",
+    "country": "GB",
+    "lat": 51.68311,
+    "lng": -0.38085
+  },
+  {
+    "name": "Mestia",
+    "country": "GE",
+    "lat": 43.0438,
+    "lng": 42.72368
+  },
+  {
+    "name": "Medina Estates",
+    "country": "GH",
+    "lat": 5.6658,
+    "lng": -0.16307
+  },
+  {
+    "name": "Megísti",
+    "country": "GR",
+    "lat": 36.14889,
+    "lng": 29.59361
+  },
+  {
+    "name": "Metsovo",
+    "country": "GR",
+    "lat": 39.76944,
+    "lng": 21.18222
+  },
+  {
+    "name": "Methóni",
+    "country": "GR",
+    "lat": 36.81973,
+    "lng": 21.70486
+  },
+  {
+    "name": "Messíni",
+    "country": "GR",
+    "lat": 37.05111,
+    "lng": 22.00778
+  },
+  {
+    "name": "Mesolóngi",
+    "country": "GR",
+    "lat": 38.37138,
+    "lng": 21.43151
+  },
+  {
+    "name": "Mesariá",
+    "country": "GR",
+    "lat": 36.39893,
+    "lng": 25.44807
+  },
+  {
+    "name": "Menídi",
+    "country": "GR",
+    "lat": 39.04213,
+    "lng": 21.11875
+  },
+  {
+    "name": "Melíssia",
+    "country": "GR",
+    "lat": 38.05,
+    "lng": 23.83333
+  },
+  {
+    "name": "Meligalás",
+    "country": "GR",
+    "lat": 37.21667,
+    "lng": 21.96667
+  },
+  {
+    "name": "Megalópoli",
+    "country": "GR",
+    "lat": 37.40111,
+    "lng": 22.14222
+  },
+  {
+    "name": "Megálo Chorió",
+    "country": "GR",
+    "lat": 36.45505,
+    "lng": 27.34563
+  },
+  {
+    "name": "Megalochóri",
+    "country": "GR",
+    "lat": 39.55982,
+    "lng": 21.84195
+  },
+  {
+    "name": "Megáli Khóra",
+    "country": "GR",
+    "lat": 38.64629,
+    "lng": 21.37309
+  },
+  {
+    "name": "Megála Kalývia",
+    "country": "GR",
+    "lat": 39.49693,
+    "lng": 21.78802
+  },
+  {
+    "name": "Metamórfosi",
+    "country": "GR",
+    "lat": 38.06576,
+    "lng": 23.76356
+  },
+  {
+    "name": "Megalochóri",
+    "country": "GR",
+    "lat": 37.71051,
+    "lng": 23.34659
+  },
+  {
+    "name": "Mesopotamía",
+    "country": "GR",
+    "lat": 40.50252,
+    "lng": 21.1611
+  },
+  {
+    "name": "Mesiméri",
+    "country": "GR",
+    "lat": 40.41344,
+    "lng": 23.0075
+  },
+  {
+    "name": "Meneméni",
+    "country": "GR",
+    "lat": 40.65829,
+    "lng": 22.89712
+  },
+  {
+    "name": "Melíti",
+    "country": "GR",
+    "lat": 40.83434,
+    "lng": 21.58426
+  },
+  {
+    "name": "Melissochóri",
+    "country": "GR",
+    "lat": 40.76796,
+    "lng": 22.92858
+  },
+  {
+    "name": "Melíki",
+    "country": "GR",
+    "lat": 40.51685,
+    "lng": 22.39599
+  },
+  {
+    "name": "Megáli Panagía",
+    "country": "GR",
+    "lat": 40.44505,
+    "lng": 23.67999
+  },
+  {
+    "name": "Melíssi",
+    "country": "GR",
+    "lat": 40.77406,
+    "lng": 22.35304
+  },
+  {
+    "name": "Megálo Chorió",
+    "country": "GR",
+    "lat": 37.4582,
+    "lng": 26.97272
+  },
+  {
+    "name": "Melchor de Mencos",
+    "country": "GT",
+    "lat": 17.06606,
+    "lng": -89.15229
+  },
+  {
+    "name": "Merizo Village",
+    "country": "GU",
+    "lat": 13.26584,
+    "lng": 144.66908
+  },
+  {
+    "name": "Mei Foo",
+    "country": "HK",
+    "lat": 22.33719,
+    "lng": 114.13856
+  },
+  {
+    "name": "Mei Foo Sun Chuen",
+    "country": "HK",
+    "lat": 22.33636,
+    "lng": 114.14018
+  },
+  {
+    "name": "Metropole Building",
+    "country": "HK",
+    "lat": 22.29056,
+    "lng": 114.19942
+  },
+  {
+    "name": "Metro Harbour",
+    "country": "HK",
+    "lat": 22.32447,
+    "lng": 114.16028
+  },
+  {
+    "name": "Mei King Mansion",
+    "country": "HK",
+    "lat": 22.31606,
+    "lng": 114.19047
+  },
+  {
+    "name": "Mei Tung Estate",
+    "country": "HK",
+    "lat": 22.33314,
+    "lng": 114.18986
+  },
+  {
+    "name": "Mezapa",
+    "country": "HN",
+    "lat": 15.58333,
+    "lng": -87.65
+  },
+  {
+    "name": "Metković",
+    "country": "HR",
+    "lat": 43.05417,
+    "lng": 17.64833
+  },
+  {
+    "name": "Medulin",
+    "country": "HR",
+    "lat": 44.8225,
+    "lng": 13.935
+  },
+  {
+    "name": "Mezőzombor",
+    "country": "HU",
+    "lat": 48.15,
+    "lng": 21.26667
+  },
+  {
+    "name": "Mezőtúr",
+    "country": "HU",
+    "lat": 47.0,
+    "lng": 20.63333
+  },
+  {
+    "name": "Mezőkövesd",
+    "country": "HU",
+    "lat": 47.81667,
+    "lng": 20.58333
+  },
+  {
+    "name": "Mezőkovácsháza",
+    "country": "HU",
+    "lat": 46.4,
+    "lng": 20.91667
+  },
+  {
+    "name": "Mezőkeresztes",
+    "country": "HU",
+    "lat": 47.83333,
+    "lng": 20.7
+  },
+  {
+    "name": "Mezőhegyes",
+    "country": "HU",
+    "lat": 46.31667,
+    "lng": 20.81667
+  },
+  {
+    "name": "Mezőcsát",
+    "country": "HU",
+    "lat": 47.81667,
+    "lng": 20.91667
+  },
+  {
+    "name": "Mezőberény",
+    "country": "HU",
+    "lat": 46.81667,
+    "lng": 21.03333
+  },
+  {
+    "name": "Megyaszó",
+    "country": "HU",
+    "lat": 48.18333,
+    "lng": 21.05
+  },
+  {
+    "name": "Medgyesegyháza",
+    "country": "HU",
+    "lat": 46.5,
+    "lng": 21.03333
+  },
+  {
+    "name": "Mezőszilas",
+    "country": "HU",
+    "lat": 46.81109,
+    "lng": 18.47789
+  },
+  {
+    "name": "Mezőfalva",
+    "country": "HU",
+    "lat": 46.93184,
+    "lng": 18.77177
+  },
+  {
+    "name": "Mende",
+    "country": "HU",
+    "lat": 47.43133,
+    "lng": 19.45628
+  },
+  {
+    "name": "Mecseknádasd",
+    "country": "HU",
+    "lat": 46.22468,
+    "lng": 18.47076
+  },
+  {
+    "name": "Meureubo",
+    "country": "ID",
+    "lat": 4.14,
+    "lng": 96.1623
+  },
+  {
+    "name": "Meulaboh",
+    "country": "ID",
+    "lat": 4.14402,
+    "lng": 96.12664
+  },
+  {
+    "name": "Medan",
+    "country": "ID",
+    "lat": 3.58333,
+    "lng": 98.66667
+  },
+  {
+    "name": "Metro",
+    "country": "ID",
+    "lat": -5.11306,
+    "lng": 105.30667
+  },
+  {
+    "name": "Mertoyudan",
+    "country": "ID",
+    "lat": -7.52,
+    "lng": 110.22639
+  },
+  {
+    "name": "Mersam",
+    "country": "ID",
+    "lat": -1.69823,
+    "lng": 102.9976
+  },
+  {
+    "name": "Merakurak",
+    "country": "ID",
+    "lat": -6.8783,
+    "lng": 111.9863
+  },
+  {
+    "name": "Mensalong",
+    "country": "ID",
+    "lat": 3.75883,
+    "lng": 116.74532
+  },
+  {
+    "name": "Menjalin",
+    "country": "ID",
+    "lat": 0.46935,
+    "lng": 109.33828
+  },
+  {
+    "name": "Mengkalip",
+    "country": "ID",
+    "lat": -2.1488,
+    "lng": 114.8819
+  },
+  {
+    "name": "Menggala",
+    "country": "ID",
+    "lat": -4.47131,
+    "lng": 105.25214
+  },
+  {
+    "name": "Menes",
+    "country": "ID",
+    "lat": -6.37553,
+    "lng": 105.91872
+  },
+  {
+    "name": "Mempawah",
+    "country": "ID",
+    "lat": 0.37102,
+    "lng": 108.97013
+  },
+  {
+    "name": "Meliau",
+    "country": "ID",
+    "lat": -0.12533,
+    "lng": 110.28962
+  },
+  {
+    "name": "Melati",
+    "country": "ID",
+    "lat": -7.73333,
+    "lng": 110.36667
+  },
+  {
+    "name": "Mega",
+    "country": "ID",
+    "lat": -0.66392,
+    "lng": 131.90487
+  },
+  {
+    "name": "Mendaha",
+    "country": "ID",
+    "lat": -1.0163,
+    "lng": 103.59331
+  },
+  {
+    "name": "Mentarang",
+    "country": "ID",
+    "lat": 3.60626,
+    "lng": 116.16786
+  },
+  {
+    "name": "Meral",
+    "country": "ID",
+    "lat": 0.99487,
+    "lng": 103.39365
+  },
+  {
+    "name": "Merauke",
+    "country": "ID",
+    "lat": -8.49958,
+    "lng": 140.40613
+  },
+  {
+    "name": "Menden",
+    "country": "ID",
+    "lat": -7.2467,
+    "lng": 111.4548
+  },
+  {
+    "name": "Menanga",
+    "country": "ID",
+    "lat": -8.436,
+    "lng": 123.0868
+  },
+  {
+    "name": "Merdey",
+    "country": "ID",
+    "lat": -1.59033,
+    "lng": 133.2946
+  },
+  {
+    "name": "Meukek",
+    "country": "ID",
+    "lat": 3.47608,
+    "lng": 97.06235
+  },
+  {
+    "name": "Mersak",
+    "country": "ID",
+    "lat": 3.51416,
+    "lng": 97.38209
+  },
+  {
+    "name": "Meyado",
+    "country": "ID",
+    "lat": -1.90655,
+    "lng": 133.15245
+  },
+  {
+    "name": "Mevasseret Tsiyyon",
+    "country": "IL",
+    "lat": 31.80186,
+    "lng": 35.15072
+  },
+  {
+    "name": "Metulla",
+    "country": "IL",
+    "lat": 33.27918,
+    "lng": 35.5795
+  },
+  {
+    "name": "Mesillat Tsiyyon",
+    "country": "IL",
+    "lat": 31.802,
+    "lng": 35.01095
+  },
+  {
+    "name": "Menaẖemya",
+    "country": "IL",
+    "lat": 32.66662,
+    "lng": 35.555
+  },
+  {
+    "name": "Megadim",
+    "country": "IL",
+    "lat": 32.72815,
+    "lng": 34.95631
+  },
+  {
+    "name": "Mefallesim",
+    "country": "IL",
+    "lat": 31.50125,
+    "lng": 34.5637
+  },
+  {
+    "name": "Meisir",
+    "country": "IL",
+    "lat": 32.44445,
+    "lng": 35.04134
+  },
+  {
+    "name": "Meitar",
+    "country": "IL",
+    "lat": 31.32726,
+    "lng": 34.93855
+  },
+  {
+    "name": "Merkaz Shapira",
+    "country": "IL",
+    "lat": 31.69874,
+    "lng": 34.70895
+  },
+  {
+    "name": "Meethari Marwar",
+    "country": "IN",
+    "lat": 27.57615,
+    "lng": 74.68661
+  },
+  {
+    "name": "Mettur",
+    "country": "IN",
+    "lat": 11.78796,
+    "lng": 77.8008
+  },
+  {
+    "name": "Mettupalayam",
+    "country": "IN",
+    "lat": 11.29971,
+    "lng": 76.93485
+  },
+  {
+    "name": "Mettuppālaiyam",
+    "country": "IN",
+    "lat": 11.16806,
+    "lng": 78.44944
+  },
+  {
+    "name": "Merta",
+    "country": "IN",
+    "lat": 26.64859,
+    "lng": 74.03414
+  },
+  {
+    "name": "Mennānyam",
+    "country": "IN",
+    "lat": 11.5579,
+    "lng": 75.75964
+  },
+  {
+    "name": "Mendarda",
+    "country": "IN",
+    "lat": 21.32112,
+    "lng": 70.44078
+  },
+  {
+    "name": "Memāri",
+    "country": "IN",
+    "lat": 23.17647,
+    "lng": 88.09749
+  },
+  {
+    "name": "Melur",
+    "country": "IN",
+    "lat": 10.03241,
+    "lng": 78.3393
+  },
+  {
+    "name": "Melukote",
+    "country": "IN",
+    "lat": 12.66258,
+    "lng": 76.64861
+  },
+  {
+    "name": "Mehsi",
+    "country": "IN",
+    "lat": 26.35574,
+    "lng": 85.09251
+  },
+  {
+    "name": "Mehndāwal",
+    "country": "IN",
+    "lat": 26.97579,
+    "lng": 83.10995
+  },
+  {
+    "name": "Mehnagar",
+    "country": "IN",
+    "lat": 25.87889,
+    "lng": 83.11611
+  },
+  {
+    "name": "Mehkar",
+    "country": "IN",
+    "lat": 20.1505,
+    "lng": 76.56841
+  },
+  {
+    "name": "Meghraj",
+    "country": "IN",
+    "lat": 23.49805,
+    "lng": 73.51352
+  },
+  {
+    "name": "Meerut",
+    "country": "IN",
+    "lat": 28.98002,
+    "lng": 77.70636
+  },
+  {
+    "name": "Medinīpur",
+    "country": "IN",
+    "lat": 22.42114,
+    "lng": 87.32257
+  },
+  {
+    "name": "Medha",
+    "country": "IN",
+    "lat": 17.79414,
+    "lng": 73.82867
+  },
+  {
+    "name": "Medchal",
+    "country": "IN",
+    "lat": 17.62972,
+    "lng": 78.48139
+  },
+  {
+    "name": "Medak",
+    "country": "IN",
+    "lat": 18.04531,
+    "lng": 78.26078
+  },
+  {
+    "name": "Medininagar",
+    "country": "IN",
+    "lat": 24.03971,
+    "lng": 84.0658
+  },
+  {
+    "name": "Medpalli",
+    "country": "IN",
+    "lat": 17.40611,
+    "lng": 78.60444
+  },
+  {
+    "name": "Meddappakkam",
+    "country": "IN",
+    "lat": 12.91661,
+    "lng": 80.19385
+  },
+  {
+    "name": "Melpedu",
+    "country": "IN",
+    "lat": 13.15639,
+    "lng": 80.04139
+  },
+  {
+    "name": "Metpalle",
+    "country": "IN",
+    "lat": 18.84724,
+    "lng": 78.62563
+  },
+  {
+    "name": "Mechcheri",
+    "country": "IN",
+    "lat": 11.83412,
+    "lng": 77.94387
+  },
+  {
+    "name": "Mehidpur",
+    "country": "IN",
+    "lat": 23.48879,
+    "lng": 75.658
+  },
+  {
+    "name": "Meenambakkam",
+    "country": "IN",
+    "lat": 12.98456,
+    "lng": 80.1747
+  },
+  {
+    "name": "Meru",
+    "country": "IN",
+    "lat": 24.00967,
+    "lng": 85.46731
+  },
+  {
+    "name": "Meppāyyūr",
+    "country": "IN",
+    "lat": 11.53885,
+    "lng": 75.7351
+  },
+  {
+    "name": "Meghahatuburu",
+    "country": "IN",
+    "lat": 22.07238,
+    "lng": 85.26918
+  },
+  {
+    "name": "Mevalūrkuppam",
+    "country": "IN",
+    "lat": 13.03198,
+    "lng": 79.99954
+  },
+  {
+    "name": "Mettuppālaiyam",
+    "country": "IN",
+    "lat": 11.45034,
+    "lng": 77.56823
+  },
+  {
+    "name": "Mel Seval",
+    "country": "IN",
+    "lat": 8.67223,
+    "lng": 77.61467
+  },
+  {
+    "name": "Melmadai",
+    "country": "IN",
+    "lat": 9.92638,
+    "lng": 78.15028
+  },
+  {
+    "name": "Mel Pattāmbākkam",
+    "country": "IN",
+    "lat": 11.78816,
+    "lng": 79.6284
+  },
+  {
+    "name": "Meghnagar",
+    "country": "IN",
+    "lat": 22.90657,
+    "lng": 74.54158
+  },
+  {
+    "name": "Medziphema",
+    "country": "IN",
+    "lat": 25.75759,
+    "lng": 93.86545
+  },
+  {
+    "name": "Mehmand",
+    "country": "IN",
+    "lat": 22.03715,
+    "lng": 82.19613
+  },
+  {
+    "name": "Mercurim",
+    "country": "IN",
+    "lat": 15.42698,
+    "lng": 73.89963
+  },
+  {
+    "name": "Mehatpur Basdehra",
+    "country": "IN",
+    "lat": 31.40712,
+    "lng": 76.34231
+  },
+  {
+    "name": "Mehmood Pora",
+    "country": "IN",
+    "lat": 33.68736,
+    "lng": 74.99523
+  },
+  {
+    "name": "Mera",
+    "country": "IN",
+    "lat": 23.7556,
+    "lng": 86.79438
+  },
+  {
+    "name": "Medankarwadi",
+    "country": "IN",
+    "lat": 18.74775,
+    "lng": 73.8691
+  },
+  {
+    "name": "Merta Road",
+    "country": "IN",
+    "lat": 26.72269,
+    "lng": 73.91762
+  },
+  {
+    "name": "Mettamalai",
+    "country": "IN",
+    "lat": 9.39554,
+    "lng": 77.89459
+  },
+  {
+    "name": "Methukummal",
+    "country": "IN",
+    "lat": 8.30746,
+    "lng": 77.15205
+  },
+  {
+    "name": "Mexmur",
+    "country": "IQ",
+    "lat": 35.77622,
+    "lng": 43.57974
+  },
+  {
+    "name": "Meshkīn Dasht",
+    "country": "IR",
+    "lat": 35.74988,
+    "lng": 50.94376
+  },
+  {
+    "name": "Meybod",
+    "country": "IR",
+    "lat": 32.25014,
+    "lng": 54.01658
+  },
+  {
+    "name": "Meshgīn Shahr",
+    "country": "IR",
+    "lat": 38.399,
+    "lng": 47.682
+  },
+  {
+    "name": "Mehrān",
+    "country": "IR",
+    "lat": 33.1222,
+    "lng": 46.1646
+  },
+  {
+    "name": "Mezzojuso",
+    "country": "IT",
+    "lat": 37.86509,
+    "lng": 13.46509
+  },
+  {
+    "name": "Messina",
+    "country": "IT",
+    "lat": 38.19394,
+    "lng": 15.55256
+  },
+  {
+    "name": "Messignadi",
+    "country": "IT",
+    "lat": 38.29964,
+    "lng": 15.99642
+  },
+  {
+    "name": "Mesoraca",
+    "country": "IT",
+    "lat": 39.07948,
+    "lng": 16.78808
+  },
+  {
+    "name": "Merì",
+    "country": "IT",
+    "lat": 38.1663,
+    "lng": 15.2497
+  },
+  {
+    "name": "Menfi",
+    "country": "IT",
+    "lat": 37.60409,
+    "lng": 12.96889
+  },
+  {
+    "name": "Mendicino",
+    "country": "IT",
+    "lat": 39.26282,
+    "lng": 16.19452
+  },
+  {
+    "name": "Melito di Porto Salvo",
+    "country": "IT",
+    "lat": 37.92629,
+    "lng": 15.7499
+  },
+  {
+    "name": "Melissano",
+    "country": "IT",
+    "lat": 39.97315,
+    "lng": 18.12113
+  },
+  {
+    "name": "Melissa",
+    "country": "IT",
+    "lat": 39.30953,
+    "lng": 17.02968
+  },
+  {
+    "name": "Melilli",
+    "country": "IT",
+    "lat": 37.17821,
+    "lng": 15.1302
+  },
+  {
+    "name": "Melicucco",
+    "country": "IT",
+    "lat": 38.43298,
+    "lng": 16.05748
+  },
+  {
+    "name": "Melicuccà",
+    "country": "IT",
+    "lat": 38.30311,
+    "lng": 15.88153
+  },
+  {
+    "name": "Meana Sardo",
+    "country": "IT",
+    "lat": 39.94467,
+    "lng": 9.07355
+  },
+  {
+    "name": "Mezzomerico",
+    "country": "IT",
+    "lat": 45.61991,
+    "lng": 8.60616
+  },
+  {
+    "name": "Mezzolombardo",
+    "country": "IT",
+    "lat": 46.20774,
+    "lng": 11.09636
+  },
+  {
+    "name": "Mezzoldo",
+    "country": "IT",
+    "lat": 46.01259,
+    "lng": 9.66555
+  },
+  {
+    "name": "Mezzolara",
+    "country": "IT",
+    "lat": 44.58917,
+    "lng": 11.56492
+  },
+  {
+    "name": "Mezzogoro",
+    "country": "IT",
+    "lat": 44.90256,
+    "lng": 12.09925
+  },
+  {
+    "name": "Mezzocorona",
+    "country": "IT",
+    "lat": 46.21159,
+    "lng": 11.12253
+  },
+  {
+    "name": "Mezzano Inferiore",
+    "country": "IT",
+    "lat": 44.91291,
+    "lng": 10.45838
+  },
+  {
+    "name": "Mezzano",
+    "country": "IT",
+    "lat": 46.15393,
+    "lng": 11.80876
+  },
+  {
+    "name": "Mezzano",
+    "country": "IT",
+    "lat": 44.46625,
+    "lng": 12.08632
+  },
+  {
+    "name": "Mezzanino",
+    "country": "IT",
+    "lat": 45.12489,
+    "lng": 9.20497
+  },
+  {
+    "name": "Mezzanego",
+    "country": "IT",
+    "lat": 44.38275,
+    "lng": 9.37667
+  },
+  {
+    "name": "Mezzana Rabattone",
+    "country": "IT",
+    "lat": 45.09488,
+    "lng": 9.03247
+  },
+  {
+    "name": "Mezzana Bigli",
+    "country": "IT",
+    "lat": 45.05988,
+    "lng": 8.84728
+  },
+  {
+    "name": "Mezzana",
+    "country": "IT",
+    "lat": 46.31671,
+    "lng": 10.80007
+  },
+  {
+    "name": "Meta",
+    "country": "IT",
+    "lat": 40.64081,
+    "lng": 14.41582
+  },
+  {
+    "name": "Mestrino",
+    "country": "IT",
+    "lat": 45.44139,
+    "lng": 11.75931
+  },
+  {
+    "name": "Mestre",
+    "country": "IT",
+    "lat": 45.49167,
+    "lng": 12.24538
+  },
+  {
+    "name": "Mesola",
+    "country": "IT",
+    "lat": 44.91831,
+    "lng": 12.23121
+  },
+  {
+    "name": "Mese",
+    "country": "IT",
+    "lat": 46.3036,
+    "lng": 9.37769
+  },
+  {
+    "name": "Mesagne",
+    "country": "IT",
+    "lat": 40.55851,
+    "lng": 17.80774
+  },
+  {
+    "name": "Merlara",
+    "country": "IT",
+    "lat": 45.167,
+    "lng": 11.44504
+  },
+  {
+    "name": "Merine",
+    "country": "IT",
+    "lat": 40.33418,
+    "lng": 18.22383
+  },
+  {
+    "name": "Mergozzo",
+    "country": "IT",
+    "lat": 45.96229,
+    "lng": 8.45403
+  },
+  {
+    "name": "Mergo",
+    "country": "IT",
+    "lat": 43.4735,
+    "lng": 13.03509
+  },
+  {
+    "name": "Mereto di Tomba",
+    "country": "IT",
+    "lat": 46.05128,
+    "lng": 13.04432
+  },
+  {
+    "name": "Mercogliano",
+    "country": "IT",
+    "lat": 40.92157,
+    "lng": 14.74491
+  },
+  {
+    "name": "Mercenasco",
+    "country": "IT",
+    "lat": 45.36002,
+    "lng": 7.88013
+  },
+  {
+    "name": "Mercato Vecchio",
+    "country": "IT",
+    "lat": 43.80421,
+    "lng": 12.37653
+  },
+  {
+    "name": "Mercato Saraceno",
+    "country": "IT",
+    "lat": 43.96274,
+    "lng": 12.19638
+  },
+  {
+    "name": "Mercato San Severino",
+    "country": "IT",
+    "lat": 40.78468,
+    "lng": 14.75369
+  },
+  {
+    "name": "Mercato",
+    "country": "IT",
+    "lat": 40.71612,
+    "lng": 14.9401
+  },
+  {
+    "name": "Mercatello sul Metauro",
+    "country": "IT",
+    "lat": 43.64677,
+    "lng": 12.33619
+  },
+  {
+    "name": "Mercatale",
+    "country": "IT",
+    "lat": 43.78276,
+    "lng": 12.48478
+  },
+  {
+    "name": "Mercallo",
+    "country": "IT",
+    "lat": 45.74791,
+    "lng": 8.66998
+  },
+  {
+    "name": "Merate",
+    "country": "IT",
+    "lat": 45.68858,
+    "lng": 9.4208
+  },
+  {
+    "name": "Merano",
+    "country": "IT",
+    "lat": 46.66817,
+    "lng": 11.15953
+  },
+  {
+    "name": "Meolo",
+    "country": "IT",
+    "lat": 45.6197,
+    "lng": 12.45236
+  },
+  {
+    "name": "Mentana",
+    "country": "IT",
+    "lat": 42.03539,
+    "lng": 12.64413
+  },
+  {
+    "name": "Menconico",
+    "country": "IT",
+    "lat": 44.79656,
+    "lng": 9.27946
+  },
+  {
+    "name": "Menaggio",
+    "country": "IT",
+    "lat": 46.02075,
+    "lng": 9.23907
+  },
+  {
+    "name": "Melzo",
+    "country": "IT",
+    "lat": 45.4981,
+    "lng": 9.42043
+  },
+  {
+    "name": "Meltina",
+    "country": "IT",
+    "lat": 46.58744,
+    "lng": 11.25487
+  },
+  {
+    "name": "Melpignano",
+    "country": "IT",
+    "lat": 40.15624,
+    "lng": 18.29194
+  },
+  {
+    "name": "Mello",
+    "country": "IT",
+    "lat": 46.1549,
+    "lng": 9.54734
+  },
+  {
+    "name": "Melle",
+    "country": "IT",
+    "lat": 44.56197,
+    "lng": 7.31948
+  },
+  {
+    "name": "Melizzano",
+    "country": "IT",
+    "lat": 41.16181,
+    "lng": 14.50554
+  },
+  {
+    "name": "Melito Irpino",
+    "country": "IT",
+    "lat": 41.10312,
+    "lng": 15.05235
+  },
+  {
+    "name": "Melito di Napoli",
+    "country": "IT",
+    "lat": 40.91948,
+    "lng": 14.23104
+  },
+  {
+    "name": "Melfi",
+    "country": "IT",
+    "lat": 40.99571,
+    "lng": 15.65578
+  },
+  {
+    "name": "Meleti",
+    "country": "IT",
+    "lat": 45.11967,
+    "lng": 9.83568
+  },
+  {
+    "name": "Melendugno",
+    "country": "IT",
+    "lat": 40.27252,
+    "lng": 18.33798
+  },
+  {
+    "name": "Melegnano",
+    "country": "IT",
+    "lat": 45.35781,
+    "lng": 9.3236
+  },
+  {
+    "name": "Meldola",
+    "country": "IT",
+    "lat": 44.12775,
+    "lng": 12.0626
+  },
+  {
+    "name": "Melara",
+    "country": "IT",
+    "lat": 45.06421,
+    "lng": 11.20117
+  },
+  {
+    "name": "Mel",
+    "country": "IT",
+    "lat": 46.06379,
+    "lng": 12.09
+  },
+  {
+    "name": "Meina",
+    "country": "IT",
+    "lat": 45.79123,
+    "lng": 8.53761
+  },
+  {
+    "name": "Megliadino San Vitale",
+    "country": "IT",
+    "lat": 45.19577,
+    "lng": 11.52402
+  },
+  {
+    "name": "Meggiano",
+    "country": "IT",
+    "lat": 42.75474,
+    "lng": 12.86379
+  },
+  {
+    "name": "Meduno",
+    "country": "IT",
+    "lat": 46.21518,
+    "lng": 12.79932
+  },
+  {
+    "name": "Medolla",
+    "country": "IT",
+    "lat": 44.84667,
+    "lng": 11.0676
+  },
+  {
+    "name": "Medole",
+    "country": "IT",
+    "lat": 45.32588,
+    "lng": 10.51357
+  },
+  {
+    "name": "Medolago",
+    "country": "IT",
+    "lat": 45.67129,
+    "lng": 9.49807
+  },
+  {
+    "name": "Mediis",
+    "country": "IT",
+    "lat": 46.40336,
+    "lng": 12.82341
+  },
+  {
+    "name": "Medicina-Buda",
+    "country": "IT",
+    "lat": 44.47867,
+    "lng": 11.63812
+  },
+  {
+    "name": "Medesano",
+    "country": "IT",
+    "lat": 44.75824,
+    "lng": 10.13794
+  },
+  {
+    "name": "Mede",
+    "country": "IT",
+    "lat": 45.09678,
+    "lng": 8.73679
+  },
+  {
+    "name": "Meda",
+    "country": "IT",
+    "lat": 45.66121,
+    "lng": 9.15337
+  },
+  {
+    "name": "Medea",
+    "country": "IT",
+    "lat": 45.91751,
+    "lng": 13.42444
+  },
+  {
+    "name": "Meduna di Livenza",
+    "country": "IT",
+    "lat": 45.8172,
+    "lng": 12.62828
+  },
+  {
+    "name": "Merso di Sopra",
+    "country": "IT",
+    "lat": 46.12389,
+    "lng": 13.52806
+  },
+  {
+    "name": "Mediglia",
+    "country": "IT",
+    "lat": 45.39537,
+    "lng": 9.33165
+  },
+  {
+    "name": "Mendatica",
+    "country": "IT",
+    "lat": 44.07713,
+    "lng": 7.80564
+  },
+  {
+    "name": "Mesenzana",
+    "country": "IT",
+    "lat": 45.95158,
+    "lng": 8.76453
+  },
+  {
+    "name": "Merone",
+    "country": "IT",
+    "lat": 45.78718,
+    "lng": 9.24404
+  },
+  {
+    "name": "Mezzegra",
+    "country": "IT",
+    "lat": 45.98168,
+    "lng": 9.20514
+  },
+  {
+    "name": "Megliadino San Fidenzio",
+    "country": "IT",
+    "lat": 45.21739,
+    "lng": 11.516
+  },
+  {
+    "name": "Menarola",
+    "country": "IT",
+    "lat": 46.29929,
+    "lng": 9.36124
+  },
+  {
+    "name": "Mezzana Mortigliengo",
+    "country": "IT",
+    "lat": 45.62657,
+    "lng": 8.18952
+  },
+  {
+    "name": "Mesero",
+    "country": "IT",
+    "lat": 45.50227,
+    "lng": 8.85544
+  },
+  {
+    "name": "Mezzago",
+    "country": "IT",
+    "lat": 45.62898,
+    "lng": 9.44485
+  },
+  {
+    "name": "Mele",
+    "country": "IT",
+    "lat": 44.44573,
+    "lng": 8.74889
+  },
+  {
+    "name": "Meugliano",
+    "country": "IT",
+    "lat": 45.49026,
+    "lng": 7.77942
+  },
+  {
+    "name": "Melazzo",
+    "country": "IT",
+    "lat": 44.64394,
+    "lng": 8.42495
+  },
+  {
+    "name": "Merana",
+    "country": "IT",
+    "lat": 44.51884,
+    "lng": 8.29824
+  },
+  {
+    "name": "Mezzane di Sotto",
+    "country": "IT",
+    "lat": 45.48199,
+    "lng": 11.12729
+  },
+  {
+    "name": "Mercatino Conca",
+    "country": "IT",
+    "lat": 43.87016,
+    "lng": 12.49115
+  },
+  {
+    "name": "Merlino",
+    "country": "IT",
+    "lat": 45.43337,
+    "lng": 9.42985
+  },
+  {
+    "name": "Meana di Susa",
+    "country": "IT",
+    "lat": 45.12204,
+    "lng": 7.06471
+  },
+  {
+    "name": "Mezzenile",
+    "country": "IT",
+    "lat": 45.29485,
+    "lng": 7.39561
+  },
+  {
+    "name": "Mercatale",
+    "country": "IT",
+    "lat": 43.63677,
+    "lng": 11.2279
+  },
+  {
+    "name": "Mezzate",
+    "country": "IT",
+    "lat": 45.44385,
+    "lng": 9.29452
+  },
+  {
+    "name": "Mejaniga",
+    "country": "IT",
+    "lat": 45.45768,
+    "lng": 11.90644
+  },
+  {
+    "name": "Mercatale-San Quirico",
+    "country": "IT",
+    "lat": 44.04426,
+    "lng": 11.15163
+  },
+  {
+    "name": "Meledo",
+    "country": "IT",
+    "lat": 45.43821,
+    "lng": 11.4156
+  },
+  {
+    "name": "Metato",
+    "country": "IT",
+    "lat": 43.77352,
+    "lng": 10.37106
+  },
+  {
+    "name": "Melia",
+    "country": "IT",
+    "lat": 37.90384,
+    "lng": 15.27499
+  },
+  {
+    "name": "Meiern",
+    "country": "IT",
+    "lat": 46.56503,
+    "lng": 10.7827
+  },
+  {
+    "name": "Meano",
+    "country": "IT",
+    "lat": 46.12457,
+    "lng": 11.11761
+  },
+  {
+    "name": "Mercato",
+    "country": "IT",
+    "lat": 40.84512,
+    "lng": 14.27241
+  },
+  {
+    "name": "Menuma",
+    "country": "JP",
+    "lat": 36.22245,
+    "lng": 139.38205
+  },
+  {
+    "name": "Memuro-minami",
+    "country": "JP",
+    "lat": 42.90717,
+    "lng": 143.0365
+  },
+  {
+    "name": "Mendahigashi",
+    "country": "JP",
+    "lat": 32.2417,
+    "lng": 130.89665
+  },
+  {
+    "name": "Mejiro",
+    "country": "JP",
+    "lat": 35.7242,
+    "lng": 139.70358
+  },
+  {
+    "name": "Meguro",
+    "country": "JP",
+    "lat": 35.6322,
+    "lng": 139.70174
+  },
+  {
+    "name": "Meru",
+    "country": "KE",
+    "lat": 0.04626,
+    "lng": 37.65587
+  },
+  {
+    "name": "Merti",
+    "country": "KE",
+    "lat": 1.06725,
+    "lng": 38.6662
+  },
+  {
+    "name": "Mean Chey",
+    "country": "KH",
+    "lat": 11.53264,
+    "lng": 104.93662
+  },
+  {
+    "name": "Me Sang",
+    "country": "KH",
+    "lat": 11.32761,
+    "lng": 105.54605
+  },
+  {
+    "name": "Merke",
+    "country": "KZ",
+    "lat": 42.87183,
+    "lng": 73.19648
+  },
+  {
+    "name": "Mertzig",
+    "country": "LU",
+    "lat": 49.83389,
+    "lng": 6.0075
+  },
+  {
+    "name": "Mertert",
+    "country": "LU",
+    "lat": 49.70261,
+    "lng": 6.47966
+  },
+  {
+    "name": "Mersch",
+    "country": "LU",
+    "lat": 49.75055,
+    "lng": 6.10627
+  },
+  {
+    "name": "Merl",
+    "country": "LU",
+    "lat": 49.60333,
+    "lng": 6.09556
+  },
+  {
+    "name": "Medernach",
+    "country": "LU",
+    "lat": 49.80955,
+    "lng": 6.21521
+  },
+  {
+    "name": "Mežaparks",
+    "country": "LV",
+    "lat": 57.00008,
+    "lng": 24.15997
+  },
+  {
+    "name": "Mežciems",
+    "country": "LV",
+    "lat": 56.96906,
+    "lng": 24.23427
+  },
+  {
+    "name": "Meknes",
+    "country": "MA",
+    "lat": 33.89352,
+    "lng": -5.54727
+  },
+  {
+    "name": "Mehdya",
+    "country": "MA",
+    "lat": 34.25596,
+    "lng": -6.67345
+  },
+  {
+    "name": "Mediouna",
+    "country": "MA",
+    "lat": 33.45161,
+    "lng": -7.51995
+  },
+  {
+    "name": "Mechraa Bel Ksiri",
+    "country": "MA",
+    "lat": 34.57373,
+    "lng": -5.95585
+  },
+  {
+    "name": "Mellila",
+    "country": "MA",
+    "lat": 33.38,
+    "lng": -7.14
+  },
+  {
+    "name": "Mers El Kheir",
+    "country": "MA",
+    "lat": 33.86262,
+    "lng": -6.92964
+  },
+  {
+    "name": "Merenii Noi",
+    "country": "MD",
+    "lat": 46.92594,
+    "lng": 29.0624
+  },
+  {
+    "name": "Merikanjaka",
+    "country": "MG",
+    "lat": -19.13333,
+    "lng": 47.85
+  },
+  {
+    "name": "Mejit",
+    "country": "MH",
+    "lat": 10.27531,
+    "lng": 170.86461
+  },
+  {
+    "name": "Mešeišta",
+    "country": "MK",
+    "lat": 41.23814,
+    "lng": 20.77414
+  },
+  {
+    "name": "Meiktila",
+    "country": "MM",
+    "lat": 20.87776,
+    "lng": 95.85844
+  },
+  {
+    "name": "Mederdra",
+    "country": "MR",
+    "lat": 16.92256,
+    "lng": -15.65646
+  },
+  {
+    "name": "Mellieħa",
+    "country": "MT",
+    "lat": 35.95663,
+    "lng": 14.36259
+  },
+  {
+    "name": "Melrose",
+    "country": "MU",
+    "lat": -20.26972,
+    "lng": 57.63194
+  },
+  {
+    "name": "Meedhoo",
+    "country": "MV",
+    "lat": -0.58333,
+    "lng": 73.23333
+  },
+  {
+    "name": "Mexicaltzingo",
+    "country": "MX",
+    "lat": 19.2113,
+    "lng": -99.58469
+  },
+  {
+    "name": "Mezcala",
+    "country": "MX",
+    "lat": 17.9324,
+    "lng": -99.60257
+  },
+  {
+    "name": "Mextepec",
+    "country": "MX",
+    "lat": 19.46118,
+    "lng": -99.89126
+  },
+  {
+    "name": "Mexcalcuautla",
+    "country": "MX",
+    "lat": 19.86657,
+    "lng": -97.39154
+  },
+  {
+    "name": "Metztitlán",
+    "country": "MX",
+    "lat": 20.59496,
+    "lng": -98.76286
+  },
+  {
+    "name": "Mezquititlán",
+    "country": "MX",
+    "lat": 20.53307,
+    "lng": -98.63749
+  },
+  {
+    "name": "Metlatónoc",
+    "country": "MX",
+    "lat": 17.19482,
+    "lng": -98.40706
+  },
+  {
+    "name": "Metlapa",
+    "country": "MX",
+    "lat": 18.31019,
+    "lng": -99.6091
+  },
+  {
+    "name": "Metlaltoyuca",
+    "country": "MX",
+    "lat": 20.73556,
+    "lng": -97.85194
+  },
+  {
+    "name": "Metepec",
+    "country": "MX",
+    "lat": 20.23762,
+    "lng": -98.32122
+  },
+  {
+    "name": "Metepec",
+    "country": "MX",
+    "lat": 19.25934,
+    "lng": -99.60175
+  },
+  {
+    "name": "Metapa",
+    "country": "MX",
+    "lat": 14.83637,
+    "lng": -92.19137
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 26.05502,
+    "lng": -99.54381
+  },
+  {
+    "name": "Medias Aguas",
+    "country": "MX",
+    "lat": 17.66776,
+    "lng": -95.02857
+  },
+  {
+    "name": "Medellín de Bravo",
+    "country": "MX",
+    "lat": 19.05869,
+    "lng": -96.15781
+  },
+  {
+    "name": "Mecayapan",
+    "country": "MX",
+    "lat": 18.22001,
+    "lng": -94.83794
+  },
+  {
+    "name": "Mecatlán",
+    "country": "MX",
+    "lat": 20.93573,
+    "lng": -98.40305
+  },
+  {
+    "name": "Mecatlán",
+    "country": "MX",
+    "lat": 20.21053,
+    "lng": -97.68204
+  },
+  {
+    "name": "Mecatepec",
+    "country": "MX",
+    "lat": 17.8893,
+    "lng": -93.52421
+  },
+  {
+    "name": "Mecapalapa",
+    "country": "MX",
+    "lat": 20.52684,
+    "lng": -97.85643
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 19.9454,
+    "lng": -99.28171
+  },
+  {
+    "name": "Mexico City",
+    "country": "MX",
+    "lat": 19.42847,
+    "lng": -99.12766
+  },
+  {
+    "name": "Merced del Potrero",
+    "country": "MX",
+    "lat": 16.04679,
+    "lng": -96.07048
+  },
+  {
+    "name": "Mecoacán",
+    "country": "MX",
+    "lat": 18.23749,
+    "lng": -93.08229
+  },
+  {
+    "name": "Medellín y Madero Segunda Sección",
+    "country": "MX",
+    "lat": 18.11351,
+    "lng": -92.854
+  },
+  {
+    "name": "Mesa de Guadalupe",
+    "country": "MX",
+    "lat": 19.56403,
+    "lng": -96.69948
+  },
+  {
+    "name": "Mequetla",
+    "country": "MX",
+    "lat": 20.79468,
+    "lng": -97.68855
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 20.34456,
+    "lng": -97.53517
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 19.70186,
+    "lng": -99.14485
+  },
+  {
+    "name": "Mesa del Huracán",
+    "country": "MX",
+    "lat": 29.67045,
+    "lng": -108.25182
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 25.04686,
+    "lng": -107.89414
+  },
+  {
+    "name": "Mesón de los Sauces",
+    "country": "MX",
+    "lat": 21.57425,
+    "lng": -102.13827
+  },
+  {
+    "name": "Mechoacanejo",
+    "country": "MX",
+    "lat": 21.54068,
+    "lng": -102.59701
+  },
+  {
+    "name": "Mezquitic",
+    "country": "MX",
+    "lat": 22.38932,
+    "lng": -103.728
+  },
+  {
+    "name": "Mezquital del Oro",
+    "country": "MX",
+    "lat": 21.21667,
+    "lng": -103.36278
+  },
+  {
+    "name": "Mezcales",
+    "country": "MX",
+    "lat": 20.73072,
+    "lng": -105.28257
+  },
+  {
+    "name": "Mezcala",
+    "country": "MX",
+    "lat": 20.95278,
+    "lng": -102.84611
+  },
+  {
+    "name": "Mezcala",
+    "country": "MX",
+    "lat": 20.33572,
+    "lng": -103.01795
+  },
+  {
+    "name": "Mexticacán",
+    "country": "MX",
+    "lat": 21.26538,
+    "lng": -102.77985
+  },
+  {
+    "name": "Mexquitic de Carmona",
+    "country": "MX",
+    "lat": 22.26644,
+    "lng": -101.11274
+  },
+  {
+    "name": "Mexicali",
+    "country": "MX",
+    "lat": 32.62781,
+    "lng": -115.45446
+  },
+  {
+    "name": "Mesillas",
+    "country": "MX",
+    "lat": 23.24642,
+    "lng": -106.04821
+  },
+  {
+    "name": "Mesa Grande",
+    "country": "MX",
+    "lat": 21.80529,
+    "lng": -102.72181
+  },
+  {
+    "name": "Mesa del Nayar",
+    "country": "MX",
+    "lat": 22.2177,
+    "lng": -104.65352
+  },
+  {
+    "name": "Merino",
+    "country": "MX",
+    "lat": 20.49424,
+    "lng": -100.88411
+  },
+  {
+    "name": "Meoqui",
+    "country": "MX",
+    "lat": 28.26701,
+    "lng": -105.48093
+  },
+  {
+    "name": "Menores",
+    "country": "MX",
+    "lat": 20.92028,
+    "lng": -101.395
+  },
+  {
+    "name": "Medina",
+    "country": "MX",
+    "lat": 21.14972,
+    "lng": -101.6225
+  },
+  {
+    "name": "Mecatán",
+    "country": "MX",
+    "lat": 21.53643,
+    "lng": -105.11946
+  },
+  {
+    "name": "Mezquite de Sotelo",
+    "country": "MX",
+    "lat": 21.00825,
+    "lng": -101.50287
+  },
+  {
+    "name": "Mezquite de Luna",
+    "country": "MX",
+    "lat": 20.29765,
+    "lng": -101.8926
+  },
+  {
+    "name": "Mexicanos",
+    "country": "MX",
+    "lat": 20.52903,
+    "lng": -101.07064
+  },
+  {
+    "name": "Mezquite Gordo",
+    "country": "MX",
+    "lat": 20.81463,
+    "lng": -101.49277
+  },
+  {
+    "name": "Medio Sitio",
+    "country": "MX",
+    "lat": 20.86948,
+    "lng": -101.35689
+  },
+  {
+    "name": "Mesón Nuevo (Cañada de la Magdalena)",
+    "country": "MX",
+    "lat": 19.81474,
+    "lng": -101.16597
+  },
+  {
+    "name": "Mesillas",
+    "country": "MX",
+    "lat": 20.12914,
+    "lng": -100.00715
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 18.03694,
+    "lng": -93.3625
+  },
+  {
+    "name": "Metepec",
+    "country": "MX",
+    "lat": 18.87889,
+    "lng": -98.74667
+  },
+  {
+    "name": "Mecoacán 2da. Sección (San Lorenzo)",
+    "country": "MX",
+    "lat": 18.2779,
+    "lng": -93.09095
+  },
+  {
+    "name": "Mezapa la Fábrica",
+    "country": "MX",
+    "lat": 19.17556,
+    "lng": -99.44528
+  },
+  {
+    "name": "Melitón Albáñez Domínguez",
+    "country": "MX",
+    "lat": 23.66139,
+    "lng": -110.42083
+  },
+  {
+    "name": "Mezquitic de la Magdalena",
+    "country": "MX",
+    "lat": 21.22111,
+    "lng": -102.30444
+  },
+  {
+    "name": "Mexcala",
+    "country": "MX",
+    "lat": 18.69556,
+    "lng": -97.16472
+  },
+  {
+    "name": "Metepec Primero",
+    "country": "MX",
+    "lat": 20.14167,
+    "lng": -98.43222
+  },
+  {
+    "name": "Metlac Hernández (Metlac Primero)",
+    "country": "MX",
+    "lat": 18.9775,
+    "lng": -97.14306
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 19.83972,
+    "lng": -97.30667
+  },
+  {
+    "name": "Melchor Ocampo",
+    "country": "MX",
+    "lat": 17.35895,
+    "lng": -98.44754
+  },
+  {
+    "name": "Mersing",
+    "country": "MY",
+    "lat": 2.4312,
+    "lng": 103.8405
+  },
+  {
+    "name": "Meru",
+    "country": "MY",
+    "lat": 3.13622,
+    "lng": 101.4394
+  },
+  {
+    "name": "Menglembu",
+    "country": "MY",
+    "lat": 4.5594,
+    "lng": 101.0484
+  },
+  {
+    "name": "Merlimau",
+    "country": "MY",
+    "lat": 2.1449,
+    "lng": 102.4251
+  },
+  {
+    "name": "Mentakab",
+    "country": "MY",
+    "lat": 3.4854,
+    "lng": 102.3484
+  },
+  {
+    "name": "Melor",
+    "country": "MY",
+    "lat": 5.96561,
+    "lng": 102.29422
+  },
+  {
+    "name": "Metro City New Township",
+    "country": "MY",
+    "lat": 1.56798,
+    "lng": 110.30588
+  },
+  {
+    "name": "Metangula",
+    "country": "MZ",
+    "lat": -12.695,
+    "lng": 34.81583
+  },
+  {
+    "name": "Meconta",
+    "country": "MZ",
+    "lat": -14.9925,
+    "lng": 39.84667
+  },
+  {
+    "name": "Messica",
+    "country": "MZ",
+    "lat": -18.99161,
+    "lng": 33.08226
+  },
+  {
+    "name": "Meteren",
+    "country": "NL",
+    "lat": 51.865,
+    "lng": 5.28333
+  },
+  {
+    "name": "Merum",
+    "country": "NL",
+    "lat": 51.17333,
+    "lng": 5.95972
+  },
+  {
+    "name": "Merselo",
+    "country": "NL",
+    "lat": 51.53,
+    "lng": 5.92778
+  },
+  {
+    "name": "Merkelbeek",
+    "country": "NL",
+    "lat": 50.95389,
+    "lng": 5.94069
+  },
+  {
+    "name": "Merenwijk",
+    "country": "NL",
+    "lat": 52.17655,
+    "lng": 4.50885
+  },
+  {
+    "name": "Meppel",
+    "country": "NL",
+    "lat": 52.69583,
+    "lng": 6.19444
+  },
+  {
+    "name": "Menaam",
+    "country": "NL",
+    "lat": 53.21797,
+    "lng": 5.66124
+  },
+  {
+    "name": "Melle",
+    "country": "NL",
+    "lat": 51.66244,
+    "lng": 5.63367
+  },
+  {
+    "name": "Meliskerke",
+    "country": "NL",
+    "lat": 51.51417,
+    "lng": 3.50972
+  },
+  {
+    "name": "Melick",
+    "country": "NL",
+    "lat": 51.15917,
+    "lng": 6.01667
+  },
+  {
+    "name": "Melderslo",
+    "country": "NL",
+    "lat": 51.46167,
+    "lng": 6.08611
+  },
+  {
+    "name": "Mekkelholt",
+    "country": "NL",
+    "lat": 52.23645,
+    "lng": 6.89058
+  },
+  {
+    "name": "Meijel",
+    "country": "NL",
+    "lat": 51.34417,
+    "lng": 5.88472
+  },
+  {
+    "name": "Megen",
+    "country": "NL",
+    "lat": 51.82167,
+    "lng": 5.5625
+  },
+  {
+    "name": "Meezenbroek",
+    "country": "NL",
+    "lat": 50.8968,
+    "lng": 5.99051
+  },
+  {
+    "name": "Meerveldhoven",
+    "country": "NL",
+    "lat": 51.41705,
+    "lng": 5.41618
+  },
+  {
+    "name": "Meerssen",
+    "country": "NL",
+    "lat": 50.8875,
+    "lng": 5.75
+  },
+  {
+    "name": "Meerlo",
+    "country": "NL",
+    "lat": 51.51333,
+    "lng": 6.08472
+  },
+  {
+    "name": "Meeden",
+    "country": "NL",
+    "lat": 53.14,
+    "lng": 6.92639
+  },
+  {
+    "name": "Medemblik",
+    "country": "NL",
+    "lat": 52.77167,
+    "lng": 5.10556
+  },
+  {
+    "name": "Mechelen",
+    "country": "NL",
+    "lat": 50.79583,
+    "lng": 5.92639
+  },
+  {
+    "name": "Meerhoven",
+    "country": "NL",
+    "lat": 51.44267,
+    "lng": 5.41102
+  },
+  {
+    "name": "Mehamn",
+    "country": "NO",
+    "lat": 71.04137,
+    "lng": 27.85133
+  },
+  {
+    "name": "Meråker",
+    "country": "NO",
+    "lat": 63.41406,
+    "lng": 11.74298
+  },
+  {
+    "name": "Melsomvik",
+    "country": "NO",
+    "lat": 59.22394,
+    "lng": 10.33616
+  },
+  {
+    "name": "Melhus",
+    "country": "NO",
+    "lat": 63.28555,
+    "lng": 10.27806
+  },
+  {
+    "name": "Melbu",
+    "country": "NO",
+    "lat": 68.50246,
+    "lng": 14.79962
+  },
+  {
+    "name": "Meieribyen",
+    "country": "NO",
+    "lat": 59.47453,
+    "lng": 11.16083
+  },
+  {
+    "name": "Mebonden",
+    "country": "NO",
+    "lat": 63.23034,
+    "lng": 11.03099
+  },
+  {
+    "name": "Menen",
+    "country": "NR",
+    "lat": -0.54539,
+    "lng": 166.94871
+  },
+  {
+    "name": "Methven",
+    "country": "NZ",
+    "lat": -43.63333,
+    "lng": 171.65
+  },
+  {
+    "name": "Merivale",
+    "country": "NZ",
+    "lat": -43.50833,
+    "lng": 172.61013
+  },
+  {
+    "name": "Merrilands",
+    "country": "NZ",
+    "lat": -39.06801,
+    "lng": 174.09772
+  },
+  {
+    "name": "Mellons Bay",
+    "country": "NZ",
+    "lat": -36.88295,
+    "lng": 174.9299
+  },
+  {
+    "name": "Meadowbank",
+    "country": "NZ",
+    "lat": -36.8682,
+    "lng": 174.82019
+  },
+  {
+    "name": "Melrose",
+    "country": "NZ",
+    "lat": -41.32339,
+    "lng": 174.78819
+  },
+  {
+    "name": "Metetí",
+    "country": "PA",
+    "lat": 8.49909,
+    "lng": -77.97897
+  },
+  {
+    "name": "Mendoza",
+    "country": "PA",
+    "lat": 9.01589,
+    "lng": -79.84856
+  },
+  {
+    "name": "Mendoza",
+    "country": "PE",
+    "lat": -6.39444,
+    "lng": -77.48167
+  },
+  {
+    "name": "Mejía",
+    "country": "PE",
+    "lat": -17.10176,
+    "lng": -71.9057
+  },
+  {
+    "name": "Mendi",
+    "country": "PG",
+    "lat": -6.14755,
+    "lng": 143.65633
+  },
+  {
+    "name": "Meycauayan",
+    "country": "PH",
+    "lat": 14.73694,
+    "lng": 120.96083
+  },
+  {
+    "name": "Mexico",
+    "country": "PH",
+    "lat": 15.0646,
+    "lng": 120.7198
+  },
+  {
+    "name": "Merida",
+    "country": "PH",
+    "lat": 10.9098,
+    "lng": 124.5376
+  },
+  {
+    "name": "Mercedes",
+    "country": "PH",
+    "lat": 14.1093,
+    "lng": 123.0109
+  },
+  {
+    "name": "Mercedes",
+    "country": "PH",
+    "lat": 10.6686,
+    "lng": 124.4021
+  },
+  {
+    "name": "Mercedes",
+    "country": "PH",
+    "lat": 6.95861,
+    "lng": 122.14833
+  },
+  {
+    "name": "Mendez-Nuñez",
+    "country": "PH",
+    "lat": 14.12861,
+    "lng": 120.90583
+  },
+  {
+    "name": "Medina",
+    "country": "PH",
+    "lat": 8.91222,
+    "lng": 125.02444
+  },
+  {
+    "name": "Medellin",
+    "country": "PH",
+    "lat": 11.1286,
+    "lng": 123.9622
+  },
+  {
+    "name": "Mehrabpur",
+    "country": "PK",
+    "lat": 28.10773,
+    "lng": 68.02554
+  },
+  {
+    "name": "Mehar",
+    "country": "PK",
+    "lat": 27.18027,
+    "lng": 67.82051
+  },
+  {
+    "name": "Mehmand Chak",
+    "country": "PK",
+    "lat": 32.78518,
+    "lng": 73.82306
+  },
+  {
+    "name": "Mełgiew",
+    "country": "PL",
+    "lat": 51.22519,
+    "lng": 22.78414
+  },
+  {
+    "name": "Medyka",
+    "country": "PL",
+    "lat": 49.80526,
+    "lng": 22.92229
+  },
+  {
+    "name": "Meszna",
+    "country": "PL",
+    "lat": 49.74567,
+    "lng": 19.05561
+  },
+  {
+    "name": "Mevo H̱oron",
+    "country": "PS",
+    "lat": 31.84923,
+    "lng": 35.0359
+  },
+  {
+    "name": "Mexilhoeira Grande",
+    "country": "PT",
+    "lat": 37.15858,
+    "lng": -8.61487
+  },
+  {
+    "name": "Mem Martins",
+    "country": "PT",
+    "lat": 38.79443,
+    "lng": -9.34284
+  },
+  {
+    "name": "Meia Via",
+    "country": "PT",
+    "lat": 39.47465,
+    "lng": -8.49887
+  },
+  {
+    "name": "Meca",
+    "country": "PT",
+    "lat": 39.08178,
+    "lng": -9.03459
+  },
+  {
+    "name": "Mesão Frio",
+    "country": "PT",
+    "lat": 41.1598,
+    "lng": -7.88954
+  },
+  {
+    "name": "Merelim",
+    "country": "PT",
+    "lat": 41.58568,
+    "lng": -8.46555
+  },
+  {
+    "name": "Melres",
+    "country": "PT",
+    "lat": 41.06989,
+    "lng": -8.40091
+  },
+  {
+    "name": "Meinedo",
+    "country": "PT",
+    "lat": 41.24827,
+    "lng": -8.25807
+  },
+  {
+    "name": "Mealhada",
+    "country": "PT",
+    "lat": 40.37806,
+    "lng": -8.44991
+  },
+  {
+    "name": "Meadela",
+    "country": "PT",
+    "lat": 41.70654,
+    "lng": -8.79628
+  },
+  {
+    "name": "Melekeok Village",
+    "country": "PW",
+    "lat": 7.49567,
+    "lng": 134.63671
+  },
+  {
+    "name": "Medalaii Hamlet",
+    "country": "PW",
+    "lat": 7.34391,
+    "lng": 134.46588
+  },
+  {
+    "name": "Mengellang",
+    "country": "PW",
+    "lat": 7.6957,
+    "lng": 134.63054
+  },
+  {
+    "name": "Meziad",
+    "country": "RO",
+    "lat": 46.7409,
+    "lng": 22.42846
+  },
+  {
+    "name": "Meteş",
+    "country": "RO",
+    "lat": 46.1,
+    "lng": 23.41667
+  },
+  {
+    "name": "Meseşenii de Jos",
+    "country": "RO",
+    "lat": 47.15,
+    "lng": 22.98333
+  },
+  {
+    "name": "Merişani",
+    "country": "RO",
+    "lat": 44.9682,
+    "lng": 24.74327
+  },
+  {
+    "name": "Merișani",
+    "country": "RO",
+    "lat": 44.2519,
+    "lng": 24.8755
+  },
+  {
+    "name": "Merișani",
+    "country": "RO",
+    "lat": 44.11669,
+    "lng": 25.3998
+  },
+  {
+    "name": "Merii Petchii",
+    "country": "RO",
+    "lat": 44.73532,
+    "lng": 26.30054
+  },
+  {
+    "name": "Meri",
+    "country": "RO",
+    "lat": 44.83366,
+    "lng": 26.30863
+  },
+  {
+    "name": "Merghindeal",
+    "country": "RO",
+    "lat": 45.96667,
+    "lng": 24.73333
+  },
+  {
+    "name": "Mereşti",
+    "country": "RO",
+    "lat": 46.23333,
+    "lng": 25.45
+  },
+  {
+    "name": "Merenii de Sus",
+    "country": "RO",
+    "lat": 44.22839,
+    "lng": 25.62103
+  },
+  {
+    "name": "Merenii de Jos",
+    "country": "RO",
+    "lat": 44.23214,
+    "lng": 25.64346
+  },
+  {
+    "name": "Mereni",
+    "country": "RO",
+    "lat": 46.07924,
+    "lng": 26.23597
+  },
+  {
+    "name": "Mereni",
+    "country": "RO",
+    "lat": 44.05,
+    "lng": 28.36667
+  },
+  {
+    "name": "Merei",
+    "country": "RO",
+    "lat": 45.13333,
+    "lng": 26.68333
+  },
+  {
+    "name": "Mera",
+    "country": "RO",
+    "lat": 46.81525,
+    "lng": 23.45405
+  },
+  {
+    "name": "Mera",
+    "country": "RO",
+    "lat": 45.76667,
+    "lng": 26.95
+  },
+  {
+    "name": "Melineşti",
+    "country": "RO",
+    "lat": 44.56667,
+    "lng": 23.71667
+  },
+  {
+    "name": "Mehadica",
+    "country": "RO",
+    "lat": 45.03333,
+    "lng": 22.26667
+  },
+  {
+    "name": "Mehadia",
+    "country": "RO",
+    "lat": 44.90083,
+    "lng": 22.36694
+  },
+  {
+    "name": "Medieşu Aurit",
+    "country": "RO",
+    "lat": 47.78333,
+    "lng": 23.15
+  },
+  {
+    "name": "Mediaş",
+    "country": "RO",
+    "lat": 46.16667,
+    "lng": 24.35
+  },
+  {
+    "name": "Medgidia",
+    "country": "RO",
+    "lat": 44.25,
+    "lng": 28.28333
+  },
+  {
+    "name": "Merošina",
+    "country": "RS",
+    "lat": 43.28358,
+    "lng": 21.7204
+  },
+  {
+    "name": "Melenci",
+    "country": "RS",
+    "lat": 45.5168,
+    "lng": 20.31961
+  },
+  {
+    "name": "Medveđa",
+    "country": "RS",
+    "lat": 42.84306,
+    "lng": 21.58333
+  },
+  {
+    "name": "Međa",
+    "country": "RS",
+    "lat": 45.53815,
+    "lng": 20.80677
+  },
+  {
+    "name": "Metković",
+    "country": "RS",
+    "lat": 44.85617,
+    "lng": 19.54654
+  },
+  {
+    "name": "Mezinovskiy",
+    "country": "RU",
+    "lat": 55.5042,
+    "lng": 40.35932
+  },
+  {
+    "name": "Mezhozërnyy",
+    "country": "RU",
+    "lat": 54.14639,
+    "lng": 59.37361
+  },
+  {
+    "name": "Mezhevoy",
+    "country": "RU",
+    "lat": 55.17111,
+    "lng": 58.78139
+  },
+  {
+    "name": "Mezhdurechensk",
+    "country": "RU",
+    "lat": 63.24556,
+    "lng": 48.55333
+  },
+  {
+    "name": "Mezhdurechensk",
+    "country": "RU",
+    "lat": 53.2665,
+    "lng": 49.1116
+  },
+  {
+    "name": "Mezen’",
+    "country": "RU",
+    "lat": 65.84364,
+    "lng": 44.24643
+  },
+  {
+    "name": "Metallostroy",
+    "country": "RU",
+    "lat": 59.80083,
+    "lng": 30.54778
+  },
+  {
+    "name": "Mesyagutovo",
+    "country": "RU",
+    "lat": 55.53227,
+    "lng": 58.24616
+  },
+  {
+    "name": "Mesker-Yurt",
+    "country": "RU",
+    "lat": 43.25147,
+    "lng": 45.90716
+  },
+  {
+    "name": "Meshchovsk",
+    "country": "RU",
+    "lat": 54.32148,
+    "lng": 35.28453
+  },
+  {
+    "name": "Meshcherino",
+    "country": "RU",
+    "lat": 55.19567,
+    "lng": 38.36002
+  },
+  {
+    "name": "Menzelinsk",
+    "country": "RU",
+    "lat": 55.72792,
+    "lng": 53.1022
+  },
+  {
+    "name": "Mendeleyevskiy",
+    "country": "RU",
+    "lat": 54.13745,
+    "lng": 37.58742
+  },
+  {
+    "name": "Mendeleyevsk",
+    "country": "RU",
+    "lat": 55.89692,
+    "lng": 52.31119
+  },
+  {
+    "name": "Mendeleyevo",
+    "country": "RU",
+    "lat": 58.16976,
+    "lng": 54.99634
+  },
+  {
+    "name": "Mendeleyevo",
+    "country": "RU",
+    "lat": 56.03333,
+    "lng": 37.21667
+  },
+  {
+    "name": "Melikhovo",
+    "country": "RU",
+    "lat": 55.1144,
+    "lng": 37.64827
+  },
+  {
+    "name": "Meleuz",
+    "country": "RU",
+    "lat": 52.96467,
+    "lng": 55.93277
+  },
+  {
+    "name": "Melenki",
+    "country": "RU",
+    "lat": 55.33579,
+    "lng": 41.62747
+  },
+  {
+    "name": "Melikhovskaya",
+    "country": "RU",
+    "lat": 47.48106,
+    "lng": 40.48669
+  },
+  {
+    "name": "Melekhovo",
+    "country": "RU",
+    "lat": 56.2773,
+    "lng": 41.29346
+  },
+  {
+    "name": "Mekhel’ta",
+    "country": "RU",
+    "lat": 42.79093,
+    "lng": 46.49418
+  },
+  {
+    "name": "Medyn",
+    "country": "RU",
+    "lat": 54.96917,
+    "lng": 35.85861
+  },
+  {
+    "name": "Medvezh’yegorsk",
+    "country": "RU",
+    "lat": 62.91447,
+    "lng": 34.45856
+  },
+  {
+    "name": "Medvezh’i Ozëra",
+    "country": "RU",
+    "lat": 55.86935,
+    "lng": 37.98613
+  },
+  {
+    "name": "Medvënka",
+    "country": "RU",
+    "lat": 51.41698,
+    "lng": 36.1107
+  },
+  {
+    "name": "Medvedovskaya",
+    "country": "RU",
+    "lat": 45.45151,
+    "lng": 39.02485
+  },
+  {
+    "name": "Medvedok",
+    "country": "RU",
+    "lat": 57.38913,
+    "lng": 50.0351
+  },
+  {
+    "name": "Medveditskiy",
+    "country": "RU",
+    "lat": 50.78521,
+    "lng": 44.71287
+  },
+  {
+    "name": "Medvedevo",
+    "country": "RU",
+    "lat": 56.63402,
+    "lng": 47.8035
+  },
+  {
+    "name": "Mednogorsk",
+    "country": "RU",
+    "lat": 51.40571,
+    "lng": 57.58751
+  },
+  {
+    "name": "Mechetinskaya",
+    "country": "RU",
+    "lat": 46.7713,
+    "lng": 40.45597
+  },
+  {
+    "name": "Mednogorskiy",
+    "country": "RU",
+    "lat": 43.9178,
+    "lng": 41.18255
+  },
+  {
+    "name": "Mezhgor’ye",
+    "country": "RU",
+    "lat": 54.23968,
+    "lng": 57.96403
+  },
+  {
+    "name": "Mezhdurechenskiy",
+    "country": "RU",
+    "lat": 59.6,
+    "lng": 65.93333
+  },
+  {
+    "name": "Mezhdurechensk",
+    "country": "RU",
+    "lat": 53.68993,
+    "lng": 88.06221
+  },
+  {
+    "name": "Mendeleyevo",
+    "country": "RU",
+    "lat": 58.16667,
+    "lng": 68.3
+  },
+  {
+    "name": "Mel’nikovo",
+    "country": "RU",
+    "lat": 56.55687,
+    "lng": 84.0814
+  },
+  {
+    "name": "Melioratorov",
+    "country": "RU",
+    "lat": 57.21065,
+    "lng": 65.60774
+  },
+  {
+    "name": "Megion",
+    "country": "RU",
+    "lat": 61.03429,
+    "lng": 76.10683
+  },
+  {
+    "name": "Meget",
+    "country": "RU",
+    "lat": 52.415,
+    "lng": 104.04944
+  },
+  {
+    "name": "Metrogorodok",
+    "country": "RU",
+    "lat": 55.80961,
+    "lng": 37.78739
+  },
+  {
+    "name": "Mezgor'e",
+    "country": "RU",
+    "lat": 54.04976,
+    "lng": 57.81713
+  },
+  {
+    "name": "Mellit",
+    "country": "SD",
+    "lat": 14.13333,
+    "lng": 25.55
+  },
+  {
+    "name": "Merowe",
+    "country": "SD",
+    "lat": 18.47036,
+    "lng": 31.81126
+  },
+  {
+    "name": "Mellerud",
+    "country": "SE",
+    "lat": 58.69979,
+    "lng": 12.45312
+  },
+  {
+    "name": "Mellbystrand",
+    "country": "SE",
+    "lat": 56.48561,
+    "lng": 12.93958
+  },
+  {
+    "name": "Mežica",
+    "country": "SI",
+    "lat": 46.5203,
+    "lng": 14.85307
+  },
+  {
+    "name": "Metlika",
+    "country": "SI",
+    "lat": 45.64983,
+    "lng": 15.31333
+  },
+  {
+    "name": "Mengeš",
+    "country": "SI",
+    "lat": 46.16859,
+    "lng": 14.57442
+  },
+  {
+    "name": "Mekinje",
+    "country": "SI",
+    "lat": 46.23333,
+    "lng": 14.61667
+  },
+  {
+    "name": "Medvode",
+    "country": "SI",
+    "lat": 46.1422,
+    "lng": 14.41114
+  },
+  {
+    "name": "Medzilaborce",
+    "country": "SK",
+    "lat": 49.27195,
+    "lng": 21.90073
+  },
+  {
+    "name": "Medzev",
+    "country": "SK",
+    "lat": 48.70041,
+    "lng": 20.89367
+  },
+  {
+    "name": "Medné",
+    "country": "SK",
+    "lat": 49.08558,
+    "lng": 18.28899
+  },
+  {
+    "name": "Mermoz Boabab",
+    "country": "SN",
+    "lat": 14.70649,
+    "lng": -17.47581
+  },
+  {
+    "name": "Meerzorg",
+    "country": "SR",
+    "lat": 5.80789,
+    "lng": -55.1408
+  },
+  {
+    "name": "Metapán",
+    "country": "SV",
+    "lat": 14.33333,
+    "lng": -89.45
+  },
+  {
+    "name": "Mejicanos",
+    "country": "SV",
+    "lat": 13.72397,
+    "lng": -89.188
+  },
+  {
+    "name": "Melfi",
+    "country": "TD",
+    "lat": 11.0598,
+    "lng": 17.9355
+  },
+  {
+    "name": "Mehron",
+    "country": "TJ",
+    "lat": 39.41691,
+    "lng": 69.28677
+  },
+  {
+    "name": "Metinaro",
+    "country": "TL",
+    "lat": -8.53007,
+    "lng": 125.74163
+  },
+  {
+    "name": "Menzel Temime",
+    "country": "TN",
+    "lat": 36.78222,
+    "lng": 10.9875
+  },
+  {
+    "name": "Menzel Chaker",
+    "country": "TN",
+    "lat": 34.96472,
+    "lng": 10.36944
+  },
+  {
+    "name": "Menzel Salem",
+    "country": "TN",
+    "lat": 35.85673,
+    "lng": 8.47654
+  },
+  {
+    "name": "Menzel Kamel",
+    "country": "TN",
+    "lat": 35.62477,
+    "lng": 10.66727
+  },
+  {
+    "name": "Menzel Jemil",
+    "country": "TN",
+    "lat": 37.23618,
+    "lng": 9.91448
+  },
+  {
+    "name": "Menzel Heurr",
+    "country": "TN",
+    "lat": 36.72818,
+    "lng": 10.95757
+  },
+  {
+    "name": "Mennzel Bou Zelfa",
+    "country": "TN",
+    "lat": 36.68312,
+    "lng": 10.58431
+  },
+  {
+    "name": "Menzel Bourguiba",
+    "country": "TN",
+    "lat": 37.15368,
+    "lng": 9.78594
+  },
+  {
+    "name": "Menzel Abderhaman",
+    "country": "TN",
+    "lat": 37.23737,
+    "lng": 9.86313
+  },
+  {
+    "name": "Melloulèche",
+    "country": "TN",
+    "lat": 35.16617,
+    "lng": 11.03504
+  },
+  {
+    "name": "Medjez el Bab",
+    "country": "TN",
+    "lat": 36.64964,
+    "lng": 9.61231
+  },
+  {
+    "name": "Medenine",
+    "country": "TN",
+    "lat": 33.35495,
+    "lng": 10.50548
+  },
+  {
+    "name": "Metlaoui",
+    "country": "TN",
+    "lat": 34.32081,
+    "lng": 8.40157
+  },
+  {
+    "name": "Mezzouna",
+    "country": "TN",
+    "lat": 34.57758,
+    "lng": 9.84193
+  },
+  {
+    "name": "Messadine",
+    "country": "TN",
+    "lat": 35.76444,
+    "lng": 10.59694
+  },
+  {
+    "name": "Menzel M’heri",
+    "country": "TN",
+    "lat": 35.42031,
+    "lng": 9.84899
+  },
+  {
+    "name": "Menzel Fersi",
+    "country": "TN",
+    "lat": 35.5515,
+    "lng": 10.86952
+  },
+  {
+    "name": "Menzel Bouzaiane",
+    "country": "TN",
+    "lat": 34.5732,
+    "lng": 9.42567
+  },
+  {
+    "name": "Menzel Ennour",
+    "country": "TN",
+    "lat": 35.66872,
+    "lng": 10.78085
+  },
+  {
+    "name": "Menzel Hayet",
+    "country": "TN",
+    "lat": 35.54206,
+    "lng": 10.57436
+  },
+  {
+    "name": "Mezraa",
+    "country": "TR",
+    "lat": 37.65408,
+    "lng": 43.18821
+  },
+  {
+    "name": "Mezitli",
+    "country": "TR",
+    "lat": 36.74541,
+    "lng": 34.52256
+  },
+  {
+    "name": "Meydankapı",
+    "country": "TR",
+    "lat": 36.78278,
+    "lng": 39.15833
+  },
+  {
+    "name": "Meydan",
+    "country": "TR",
+    "lat": 38.35585,
+    "lng": 41.76941
+  },
+  {
+    "name": "Mersin",
+    "country": "TR",
+    "lat": 36.81196,
+    "lng": 34.63886
+  },
+  {
+    "name": "Mermer",
+    "country": "TR",
+    "lat": 38.11828,
+    "lng": 40.44874
+  },
+  {
+    "name": "Mercimekkale",
+    "country": "TR",
+    "lat": 38.92945,
+    "lng": 41.50325
+  },
+  {
+    "name": "Meram",
+    "country": "TR",
+    "lat": 37.82985,
+    "lng": 32.46777
+  },
+  {
+    "name": "Menzil",
+    "country": "TR",
+    "lat": 37.78022,
+    "lng": 38.77718
+  },
+  {
+    "name": "Menemen",
+    "country": "TR",
+    "lat": 38.60754,
+    "lng": 27.06938
+  },
+  {
+    "name": "Mebusevleri",
+    "country": "TR",
+    "lat": 39.93333,
+    "lng": 32.83333
+  },
+  {
+    "name": "Menderes",
+    "country": "TR",
+    "lat": 38.24963,
+    "lng": 27.13429
+  },
+  {
+    "name": "Melikgazi",
+    "country": "TR",
+    "lat": 38.75,
+    "lng": 35.45
+  },
+  {
+    "name": "Menteşe",
+    "country": "TR",
+    "lat": 37.11667,
+    "lng": 28.26667
+  },
+  {
+    "name": "Mezraa",
+    "country": "TR",
+    "lat": 41.19764,
+    "lng": 35.11684
+  },
+  {
+    "name": "Meydancık",
+    "country": "TR",
+    "lat": 41.40964,
+    "lng": 42.2364
+  },
+  {
+    "name": "Mesudiye",
+    "country": "TR",
+    "lat": 40.45446,
+    "lng": 37.77353
+  },
+  {
+    "name": "Merzifon",
+    "country": "TR",
+    "lat": 40.87333,
+    "lng": 35.46306
+  },
+  {
+    "name": "Meriç",
+    "country": "TR",
+    "lat": 41.19183,
+    "lng": 26.42097
+  },
+  {
+    "name": "Mengen",
+    "country": "TR",
+    "lat": 40.93877,
+    "lng": 32.07642
+  },
+  {
+    "name": "Mecitözü",
+    "country": "TR",
+    "lat": 40.52,
+    "lng": 35.29528
+  },
+  {
+    "name": "Mecidiye",
+    "country": "TR",
+    "lat": 40.63889,
+    "lng": 26.53917
+  },
+  {
+    "name": "Merter Keresteciler",
+    "country": "TR",
+    "lat": 41.01295,
+    "lng": 28.88593
+  },
+  {
+    "name": "Merkez",
+    "country": "TR",
+    "lat": 40.12954,
+    "lng": 26.42075
+  },
+  {
+    "name": "Merkezefendi",
+    "country": "TR",
+    "lat": 37.80544,
+    "lng": 29.04236
+  },
+  {
+    "name": "Merelani",
+    "country": "TZ",
+    "lat": -3.56182,
+    "lng": 36.97895
+  },
+  {
+    "name": "Mezhvodnoye",
+    "country": "UA",
+    "lat": 45.58751,
+    "lng": 32.84501
+  },
+  {
+    "name": "Mezhova",
+    "country": "UA",
+    "lat": 48.25318,
+    "lng": 36.73468
+  },
+  {
+    "name": "Mezenivka",
+    "country": "UA",
+    "lat": 50.63486,
+    "lng": 35.3134
+  },
+  {
+    "name": "Merefa",
+    "country": "UA",
+    "lat": 49.81861,
+    "lng": 36.05653
+  },
+  {
+    "name": "Mena",
+    "country": "UA",
+    "lat": 51.5217,
+    "lng": 32.21568
+  },
+  {
+    "name": "Melnytsya-Podilska",
+    "country": "UA",
+    "lat": 48.60816,
+    "lng": 26.16657
+  },
+  {
+    "name": "Melitopol",
+    "country": "UA",
+    "lat": 46.84735,
+    "lng": 35.38196
+  },
+  {
+    "name": "Melioratyvne",
+    "country": "UA",
+    "lat": 48.62047,
+    "lng": 35.40248
+  },
+  {
+    "name": "Melekyne",
+    "country": "UA",
+    "lat": 46.95648,
+    "lng": 37.3933
+  },
+  {
+    "name": "Medzhybizh",
+    "country": "UA",
+    "lat": 49.43658,
+    "lng": 27.40907
+  },
+  {
+    "name": "Medvedevo",
+    "country": "UA",
+    "lat": 45.38597,
+    "lng": 33.004
+  },
+  {
+    "name": "Medvedivka",
+    "country": "UA",
+    "lat": 49.1729,
+    "lng": 32.3759
+  },
+  {
+    "name": "Medvedevka",
+    "country": "UA",
+    "lat": 45.88389,
+    "lng": 34.55562
+  },
+  {
+    "name": "Medenychi",
+    "country": "UA",
+    "lat": 49.42676,
+    "lng": 23.74963
+  },
+  {
+    "name": "Mel’nichnoye",
+    "country": "UA",
+    "lat": 45.19885,
+    "lng": 34.42012
+  },
+  {
+    "name": "Metalist",
+    "country": "UA",
+    "lat": 48.62218,
+    "lng": 39.28231
+  },
+  {
+    "name": "Meadowbrook",
+    "country": "US",
+    "lat": 33.40205,
+    "lng": -86.69665
+  },
+  {
+    "name": "Meridianville",
+    "country": "US",
+    "lat": 34.85148,
+    "lng": -86.57222
+  },
+  {
+    "name": "Melbourne",
+    "country": "US",
+    "lat": 36.05951,
+    "lng": -91.90848
+  },
+  {
+    "name": "Mena",
+    "country": "US",
+    "lat": 34.58622,
+    "lng": -94.23966
+  },
+  {
+    "name": "Meadow Woods",
+    "country": "US",
+    "lat": 28.38556,
+    "lng": -81.36646
+  },
+  {
+    "name": "Medulla",
+    "country": "US",
+    "lat": 27.9678,
+    "lng": -81.97342
+  },
+  {
+    "name": "Melbourne",
+    "country": "US",
+    "lat": 28.08363,
+    "lng": -80.60811
+  },
+  {
+    "name": "Melbourne Beach",
+    "country": "US",
+    "lat": 28.06835,
+    "lng": -80.56033
+  },
+  {
+    "name": "Melrose Park",
+    "country": "US",
+    "lat": 26.11342,
+    "lng": -80.19338
+  },
+  {
+    "name": "Memphis",
+    "country": "US",
+    "lat": 27.53587,
+    "lng": -82.56121
+  },
+  {
+    "name": "Merritt Island",
+    "country": "US",
+    "lat": 28.359,
+    "lng": -80.69
+  },
+  {
+    "name": "Mexico Beach",
+    "country": "US",
+    "lat": 29.94809,
+    "lng": -85.41995
+  },
+  {
+    "name": "Meigs",
+    "country": "US",
+    "lat": 31.07241,
+    "lng": -84.08907
+  },
+  {
+    "name": "Metter",
+    "country": "US",
+    "lat": 32.39712,
+    "lng": -82.06012
+  },
+  {
+    "name": "Meredosia",
+    "country": "US",
+    "lat": 39.83116,
+    "lng": -90.55957
+  },
+  {
+    "name": "Metropolis",
+    "country": "US",
+    "lat": 37.15117,
+    "lng": -88.732
+  },
+  {
+    "name": "Melody Hill",
+    "country": "US",
+    "lat": 38.02615,
+    "lng": -87.51585
+  },
+  {
+    "name": "Meridian Hills",
+    "country": "US",
+    "lat": 39.89004,
+    "lng": -86.15721
+  },
+  {
+    "name": "Medicine Lodge",
+    "country": "US",
+    "lat": 37.28113,
+    "lng": -98.58036
+  },
+  {
+    "name": "Merriam",
+    "country": "US",
+    "lat": 39.02362,
+    "lng": -94.69357
+  },
+  {
+    "name": "Meads",
+    "country": "US",
+    "lat": 38.41258,
+    "lng": -82.70905
+  },
+  {
+    "name": "Melville",
+    "country": "US",
+    "lat": 30.69297,
+    "lng": -91.744
+  },
+  {
+    "name": "Meraux",
+    "country": "US",
+    "lat": 29.93017,
+    "lng": -89.91623
+  },
+  {
+    "name": "Merrydale",
+    "country": "US",
+    "lat": 30.5013,
+    "lng": -91.10844
+  },
+  {
+    "name": "Merryville",
+    "country": "US",
+    "lat": 30.75437,
+    "lng": -93.54045
+  },
+  {
+    "name": "Metairie",
+    "country": "US",
+    "lat": 29.98409,
+    "lng": -90.15285
+  },
+  {
+    "name": "Metairie Terrace",
+    "country": "US",
+    "lat": 29.97854,
+    "lng": -90.16396
+  },
+  {
+    "name": "Mechanicsville",
+    "country": "US",
+    "lat": 38.4429,
+    "lng": -76.74385
+  },
+  {
+    "name": "Mellwood",
+    "country": "US",
+    "lat": 38.81039,
+    "lng": -76.82414
+  },
+  {
+    "name": "Mehlville",
+    "country": "US",
+    "lat": 38.50839,
+    "lng": -90.32289
+  },
+  {
+    "name": "Merriam Woods",
+    "country": "US",
+    "lat": 36.71395,
+    "lng": -93.16185
+  },
+  {
+    "name": "Mexico",
+    "country": "US",
+    "lat": 39.16976,
+    "lng": -91.88295
+  },
+  {
+    "name": "Meadville",
+    "country": "US",
+    "lat": 31.47239,
+    "lng": -90.89677
+  },
+  {
+    "name": "Mendenhall",
+    "country": "US",
+    "lat": 31.96182,
+    "lng": -89.87008
+  },
+  {
+    "name": "Meridian",
+    "country": "US",
+    "lat": 32.36431,
+    "lng": -88.70366
+  },
+  {
+    "name": "Metcalfe",
+    "country": "US",
+    "lat": 33.454,
+    "lng": -91.00733
+  },
+  {
+    "name": "Mebane",
+    "country": "US",
+    "lat": 36.09597,
+    "lng": -79.26696
+  },
+  {
+    "name": "Medford Lakes",
+    "country": "US",
+    "lat": 39.85845,
+    "lng": -74.80294
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 36.80697,
+    "lng": -97.73366
+  },
+  {
+    "name": "Meeker",
+    "country": "US",
+    "lat": 35.5034,
+    "lng": -96.9028
+  },
+  {
+    "name": "Meridian",
+    "country": "US",
+    "lat": 34.42731,
+    "lng": -97.97809
+  },
+  {
+    "name": "Media",
+    "country": "US",
+    "lat": 39.91678,
+    "lng": -75.38769
+  },
+  {
+    "name": "Mercersburg",
+    "country": "US",
+    "lat": 39.82787,
+    "lng": -77.90333
+  },
+  {
+    "name": "Meyersdale",
+    "country": "US",
+    "lat": 39.81369,
+    "lng": -79.02475
+  },
+  {
+    "name": "Meggett",
+    "country": "US",
+    "lat": 32.71796,
+    "lng": -80.23899
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 35.80285,
+    "lng": -88.77478
+  },
+  {
+    "name": "Memphis",
+    "country": "US",
+    "lat": 35.14953,
+    "lng": -90.04898
+  },
+  {
+    "name": "Meadowlakes",
+    "country": "US",
+    "lat": 30.56245,
+    "lng": -98.29867
+  },
+  {
+    "name": "Meadows Place",
+    "country": "US",
+    "lat": 29.65134,
+    "lng": -95.588
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 29.79661,
+    "lng": -99.24643
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 26.92115,
+    "lng": -99.25948
+  },
+  {
+    "name": "Melissa",
+    "country": "US",
+    "lat": 33.28595,
+    "lng": -96.57277
+  },
+  {
+    "name": "Menard",
+    "country": "US",
+    "lat": 30.91767,
+    "lng": -99.78646
+  },
+  {
+    "name": "Mercedes",
+    "country": "US",
+    "lat": 26.1498,
+    "lng": -97.91361
+  },
+  {
+    "name": "Meridian",
+    "country": "US",
+    "lat": 31.92321,
+    "lng": -97.65669
+  },
+  {
+    "name": "Mesquite",
+    "country": "US",
+    "lat": 32.7668,
+    "lng": -96.59916
+  },
+  {
+    "name": "Mexia",
+    "country": "US",
+    "lat": 31.67989,
+    "lng": -96.4822
+  },
+  {
+    "name": "Mechanicsville",
+    "country": "US",
+    "lat": 37.60876,
+    "lng": -77.37331
+  },
+  {
+    "name": "Merrifield",
+    "country": "US",
+    "lat": 38.87428,
+    "lng": -77.22693
+  },
+  {
+    "name": "Merrimac",
+    "country": "US",
+    "lat": 38.45263,
+    "lng": -78.07861
+  },
+  {
+    "name": "Merrimac",
+    "country": "US",
+    "lat": 37.18957,
+    "lng": -80.42561
+  },
+  {
+    "name": "Merchantville",
+    "country": "US",
+    "lat": 39.94734,
+    "lng": -75.06656
+  },
+  {
+    "name": "Meriden",
+    "country": "US",
+    "lat": 41.53815,
+    "lng": -72.80704
+  },
+  {
+    "name": "Mechanicsville",
+    "country": "US",
+    "lat": 41.90446,
+    "lng": -91.25461
+  },
+  {
+    "name": "Mediapolis",
+    "country": "US",
+    "lat": 41.00809,
+    "lng": -91.16404
+  },
+  {
+    "name": "Melcher-Dallas",
+    "country": "US",
+    "lat": 41.225,
+    "lng": -93.24132
+  },
+  {
+    "name": "Medinah",
+    "country": "US",
+    "lat": 41.98142,
+    "lng": -88.05118
+  },
+  {
+    "name": "Melrose Park",
+    "country": "US",
+    "lat": 41.90059,
+    "lng": -87.85673
+  },
+  {
+    "name": "Mendota",
+    "country": "US",
+    "lat": 41.54725,
+    "lng": -89.11759
+  },
+  {
+    "name": "Merrionette Park",
+    "country": "US",
+    "lat": 41.6842,
+    "lng": -87.70033
+  },
+  {
+    "name": "Metamora",
+    "country": "US",
+    "lat": 40.79059,
+    "lng": -89.36064
+  },
+  {
+    "name": "Merrillville",
+    "country": "US",
+    "lat": 41.48281,
+    "lng": -87.33281
+  },
+  {
+    "name": "Medfield",
+    "country": "US",
+    "lat": 42.1876,
+    "lng": -71.30645
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 42.41843,
+    "lng": -71.10616
+  },
+  {
+    "name": "Medway",
+    "country": "US",
+    "lat": 42.14176,
+    "lng": -71.39673
+  },
+  {
+    "name": "Melrose",
+    "country": "US",
+    "lat": 42.45843,
+    "lng": -71.06616
+  },
+  {
+    "name": "Mendon",
+    "country": "US",
+    "lat": 42.10565,
+    "lng": -71.55229
+  },
+  {
+    "name": "Merrimac",
+    "country": "US",
+    "lat": 42.83065,
+    "lng": -71.00228
+  },
+  {
+    "name": "Methuen",
+    "country": "US",
+    "lat": 42.7262,
+    "lng": -71.19089
+  },
+  {
+    "name": "Mechanic Falls",
+    "country": "US",
+    "lat": 44.11174,
+    "lng": -70.39172
+  },
+  {
+    "name": "Medway",
+    "country": "US",
+    "lat": 45.60894,
+    "lng": -68.53086
+  },
+  {
+    "name": "Mexico",
+    "country": "US",
+    "lat": 44.5609,
+    "lng": -70.54534
+  },
+  {
+    "name": "Melvindale",
+    "country": "US",
+    "lat": 42.28254,
+    "lng": -83.1752
+  },
+  {
+    "name": "Memphis",
+    "country": "US",
+    "lat": 42.89642,
+    "lng": -82.76881
+  },
+  {
+    "name": "Menominee",
+    "country": "US",
+    "lat": 45.10776,
+    "lng": -87.61427
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 44.17413,
+    "lng": -93.24632
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 45.03524,
+    "lng": -93.58246
+  },
+  {
+    "name": "Melrose",
+    "country": "US",
+    "lat": 45.67469,
+    "lng": -94.80752
+  },
+  {
+    "name": "Menahga",
+    "country": "US",
+    "lat": 46.75385,
+    "lng": -95.09808
+  },
+  {
+    "name": "Mendota Heights",
+    "country": "US",
+    "lat": 44.88358,
+    "lng": -93.13827
+  },
+  {
+    "name": "Memphis",
+    "country": "US",
+    "lat": 40.45781,
+    "lng": -92.17129
+  },
+  {
+    "name": "Meredith",
+    "country": "US",
+    "lat": 43.65757,
+    "lng": -71.50035
+  },
+  {
+    "name": "Merrimack",
+    "country": "US",
+    "lat": 42.86509,
+    "lng": -71.4934
+  },
+  {
+    "name": "Mendham",
+    "country": "US",
+    "lat": 40.77593,
+    "lng": -74.60071
+  },
+  {
+    "name": "Mercerville",
+    "country": "US",
+    "lat": 40.23705,
+    "lng": -74.68655
+  },
+  {
+    "name": "Metuchen",
+    "country": "US",
+    "lat": 40.54316,
+    "lng": -74.3632
+  },
+  {
+    "name": "Mechanicstown",
+    "country": "US",
+    "lat": 41.44287,
+    "lng": -74.38849
+  },
+  {
+    "name": "Mechanicville",
+    "country": "US",
+    "lat": 42.90285,
+    "lng": -73.68734
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 40.8176,
+    "lng": -73.00011
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 43.22006,
+    "lng": -78.38697
+  },
+  {
+    "name": "Melrose",
+    "country": "US",
+    "lat": 40.82455,
+    "lng": -73.91041
+  },
+  {
+    "name": "Melrose Park",
+    "country": "US",
+    "lat": 42.90868,
+    "lng": -76.54022
+  },
+  {
+    "name": "Melville",
+    "country": "US",
+    "lat": 40.79343,
+    "lng": -73.41512
+  },
+  {
+    "name": "Menands",
+    "country": "US",
+    "lat": 42.69202,
+    "lng": -73.72456
+  },
+  {
+    "name": "Merrick",
+    "country": "US",
+    "lat": 40.66288,
+    "lng": -73.55152
+  },
+  {
+    "name": "Mexico",
+    "country": "US",
+    "lat": 43.45951,
+    "lng": -76.22882
+  },
+  {
+    "name": "Mechanicsburg",
+    "country": "US",
+    "lat": 40.072,
+    "lng": -83.55631
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 41.13839,
+    "lng": -81.86375
+  },
+  {
+    "name": "Mentor",
+    "country": "US",
+    "lat": 41.66616,
+    "lng": -81.33955
+  },
+  {
+    "name": "Mentor-on-the-Lake",
+    "country": "US",
+    "lat": 41.70504,
+    "lng": -81.36039
+  },
+  {
+    "name": "Meadowood",
+    "country": "US",
+    "lat": 40.84201,
+    "lng": -79.89394
+  },
+  {
+    "name": "Meadville",
+    "country": "US",
+    "lat": 41.64144,
+    "lng": -80.15145
+  },
+  {
+    "name": "Mechanicsburg",
+    "country": "US",
+    "lat": 40.21426,
+    "lng": -77.00859
+  },
+  {
+    "name": "Mechanicsville",
+    "country": "US",
+    "lat": 40.96648,
+    "lng": -76.58662
+  },
+  {
+    "name": "Mercer",
+    "country": "US",
+    "lat": 41.227,
+    "lng": -80.23979
+  },
+  {
+    "name": "Mermaid",
+    "country": "US",
+    "lat": 40.079,
+    "lng": -75.17823
+  },
+  {
+    "name": "Meridian",
+    "country": "US",
+    "lat": 40.8484,
+    "lng": -79.962
+  },
+  {
+    "name": "Melville",
+    "country": "US",
+    "lat": 41.58705,
+    "lng": -71.28338
+  },
+  {
+    "name": "Mendon",
+    "country": "US",
+    "lat": 43.65198,
+    "lng": -72.9278
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 45.13858,
+    "lng": -90.34014
+  },
+  {
+    "name": "Meeme",
+    "country": "US",
+    "lat": 43.92055,
+    "lng": -87.83148
+  },
+  {
+    "name": "Menasha",
+    "country": "US",
+    "lat": 44.20221,
+    "lng": -88.4465
+  },
+  {
+    "name": "Menomonee Falls",
+    "country": "US",
+    "lat": 43.1789,
+    "lng": -88.11731
+  },
+  {
+    "name": "Menomonie",
+    "country": "US",
+    "lat": 44.87552,
+    "lng": -91.91934
+  },
+  {
+    "name": "Mequon",
+    "country": "US",
+    "lat": 43.21555,
+    "lng": -88.03001
+  },
+  {
+    "name": "Merrill",
+    "country": "US",
+    "lat": 45.18052,
+    "lng": -89.68346
+  },
+  {
+    "name": "Merton",
+    "country": "US",
+    "lat": 43.14667,
+    "lng": -88.30676
+  },
+  {
+    "name": "Meadview",
+    "country": "US",
+    "lat": 36.00221,
+    "lng": -114.06829
+  },
+  {
+    "name": "Mesa",
+    "country": "US",
+    "lat": 33.42227,
+    "lng": -111.82264
+  },
+  {
+    "name": "Mescal",
+    "country": "US",
+    "lat": 31.99008,
+    "lng": -110.43535
+  },
+  {
+    "name": "Mead Valley",
+    "country": "US",
+    "lat": 33.83335,
+    "lng": -117.29615
+  },
+  {
+    "name": "Meadow Vista",
+    "country": "US",
+    "lat": 39.00101,
+    "lng": -121.02189
+  },
+  {
+    "name": "Mecca",
+    "country": "US",
+    "lat": 33.57219,
+    "lng": -116.0782
+  },
+  {
+    "name": "Meiners Oaks",
+    "country": "US",
+    "lat": 34.44694,
+    "lng": -119.27928
+  },
+  {
+    "name": "Mendota",
+    "country": "US",
+    "lat": 36.75356,
+    "lng": -120.38156
+  },
+  {
+    "name": "Menifee",
+    "country": "US",
+    "lat": 33.72835,
+    "lng": -117.14642
+  },
+  {
+    "name": "Menlo Park",
+    "country": "US",
+    "lat": 37.45383,
+    "lng": -122.18219
+  },
+  {
+    "name": "Mentone",
+    "country": "US",
+    "lat": 34.07001,
+    "lng": -117.13448
+  },
+  {
+    "name": "Merced",
+    "country": "US",
+    "lat": 37.30216,
+    "lng": -120.48297
+  },
+  {
+    "name": "Mesa Verde",
+    "country": "US",
+    "lat": 33.60586,
+    "lng": -114.73107
+  },
+  {
+    "name": "Meridian",
+    "country": "US",
+    "lat": 39.53957,
+    "lng": -104.84528
+  },
+  {
+    "name": "Meade",
+    "country": "US",
+    "lat": 37.28558,
+    "lng": -100.34015
+  },
+  {
+    "name": "Meadow Lake",
+    "country": "US",
+    "lat": 34.80144,
+    "lng": -106.54363
+  },
+  {
+    "name": "Mescalero",
+    "country": "US",
+    "lat": 33.15759,
+    "lng": -105.77415
+  },
+  {
+    "name": "Mesilla",
+    "country": "US",
+    "lat": 32.27009,
+    "lng": -106.80084
+  },
+  {
+    "name": "Mesquite",
+    "country": "US",
+    "lat": 32.16454,
+    "lng": -106.69666
+  },
+  {
+    "name": "Mesquite",
+    "country": "US",
+    "lat": 36.80553,
+    "lng": -114.06719
+  },
+  {
+    "name": "Memphis",
+    "country": "US",
+    "lat": 34.72478,
+    "lng": -100.53401
+  },
+  {
+    "name": "Mentone",
+    "country": "US",
+    "lat": 31.70513,
+    "lng": -103.59935
+  },
+  {
+    "name": "Merkel",
+    "country": "US",
+    "lat": 32.47068,
+    "lng": -100.01287
+  },
+  {
+    "name": "Mertzon",
+    "country": "US",
+    "lat": 31.26183,
+    "lng": -100.81733
+  },
+  {
+    "name": "Metlakatla",
+    "country": "US",
+    "lat": 55.12905,
+    "lng": -131.57698
+  },
+  {
+    "name": "Mead",
+    "country": "US",
+    "lat": 40.23332,
+    "lng": -104.99859
+  },
+  {
+    "name": "Meeker",
+    "country": "US",
+    "lat": 40.03747,
+    "lng": -107.91313
+  },
+  {
+    "name": "Meridian",
+    "country": "US",
+    "lat": 43.61211,
+    "lng": -116.39151
+  },
+  {
+    "name": "Medora",
+    "country": "US",
+    "lat": 46.9139,
+    "lng": -103.52435
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 42.32652,
+    "lng": -122.87559
+  },
+  {
+    "name": "Merlin",
+    "country": "US",
+    "lat": 42.51734,
+    "lng": -123.41979
+  },
+  {
+    "name": "Metzger",
+    "country": "US",
+    "lat": 45.44651,
+    "lng": -122.75899
+  },
+  {
+    "name": "Mendon",
+    "country": "US",
+    "lat": 41.70993,
+    "lng": -111.97773
+  },
+  {
+    "name": "Mead",
+    "country": "US",
+    "lat": 47.76739,
+    "lng": -117.35494
+  },
+  {
+    "name": "Meadow Glade",
+    "country": "US",
+    "lat": 45.75845,
+    "lng": -122.56038
+  },
+  {
+    "name": "Meadowdale",
+    "country": "US",
+    "lat": 47.858,
+    "lng": -122.313
+  },
+  {
+    "name": "Medical Lake",
+    "country": "US",
+    "lat": 47.57294,
+    "lng": -117.68216
+  },
+  {
+    "name": "Medina",
+    "country": "US",
+    "lat": 47.62093,
+    "lng": -122.22762
+  },
+  {
+    "name": "Mercer Island",
+    "country": "US",
+    "lat": 47.57065,
+    "lng": -122.22207
+  },
+  {
+    "name": "Meadow Lakes",
+    "country": "US",
+    "lat": 61.62472,
+    "lng": -149.60111
+  },
+  {
+    "name": "Mercerville-Hamilton Square",
+    "country": "US",
+    "lat": 40.23126,
+    "lng": -74.67223
+  },
+  {
+    "name": "Meridian Station",
+    "country": "US",
+    "lat": 32.55049,
+    "lng": -88.61849
+  },
+  {
+    "name": "Meadowbrook",
+    "country": "US",
+    "lat": 33.72578,
+    "lng": -117.28509
+  },
+  {
+    "name": "Meadow Oaks",
+    "country": "US",
+    "lat": 28.34619,
+    "lng": -82.60284
+  },
+  {
+    "name": "Merritt Park",
+    "country": "US",
+    "lat": 41.53848,
+    "lng": -73.87238
+  },
+  {
+    "name": "Meadowbrook",
+    "country": "US",
+    "lat": 37.44882,
+    "lng": -77.47353
+  },
+  {
+    "name": "Medfield",
+    "country": "US",
+    "lat": 39.34026,
+    "lng": -76.64326
+  },
+  {
+    "name": "Medford",
+    "country": "US",
+    "lat": 39.27872,
+    "lng": -76.54733
+  },
+  {
+    "name": "Mercedes",
+    "country": "UY",
+    "lat": -33.2524,
+    "lng": -58.03047
+  },
+  {
+    "name": "Melo",
+    "country": "UY",
+    "lat": -32.3682,
+    "lng": -54.16409
+  },
+  {
+    "name": "Mene Grande",
+    "country": "VE",
+    "lat": 9.84639,
+    "lng": -70.92655
+  },
+  {
+    "name": "Mene de Mauroa",
+    "country": "VE",
+    "lat": 10.68091,
+    "lng": -71.03609
+  },
+  {
+    "name": "Me",
+    "country": "VN",
+    "lat": 20.34697,
+    "lng": 105.83615
+  },
+  {
+    "name": "Meyerton",
+    "country": "ZA",
+    "lat": -26.55987,
+    "lng": 28.0195
+  },
+  {
+    "name": "Merweville",
+    "country": "ZA",
+    "lat": -32.66756,
+    "lng": 21.51554
+  },
+  {
+    "name": "Merry Pebble Stream",
+    "country": "ZA",
+    "lat": -24.76647,
+    "lng": 31.21869
+  },
+  {
+    "name": "Memel",
+    "country": "ZA",
+    "lat": -27.68159,
+    "lng": 29.56686
+  },
+  {
+    "name": "Melmoth",
+    "country": "ZA",
+    "lat": -28.58664,
+    "lng": 31.39783
+  },
+  {
+    "name": "Melkhoutfontein",
+    "country": "ZA",
+    "lat": -34.32673,
+    "lng": 21.42093
+  },
+  {
+    "name": "Meetse",
+    "country": "ZA",
+    "lat": -24.85346,
+    "lng": 31.3416
+  },
+  {
+    "name": "Melkbosstrand",
+    "country": "ZA",
+    "lat": -33.72614,
+    "lng": 18.44286
+  }
+]

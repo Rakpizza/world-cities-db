@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Kwinana",
+    "country": "AU",
+    "lat": -32.23013,
+    "lng": 115.78128
+  },
+  {
+    "name": "Kwaadmechelen",
+    "country": "BE",
+    "lat": 51.10099,
+    "lng": 5.14478
+  },
+  {
+    "name": "Kwalé",
+    "country": "CI",
+    "lat": 8.28631,
+    "lng": -5.72843
+  },
+  {
+    "name": "Kwun Tong",
+    "country": "HK",
+    "lat": 22.31184,
+    "lng": 114.22176
+  },
+  {
+    "name": "Kwai Chung",
+    "country": "HK",
+    "lat": 22.36828,
+    "lng": 114.13877
+  },
+  {
+    "name": "Kwong Yuen",
+    "country": "HK",
+    "lat": 22.38005,
+    "lng": 114.21361
+  },
+  {
+    "name": "Kwun Lung Lau",
+    "country": "HK",
+    "lat": 22.28044,
+    "lng": 114.12758
+  },
+  {
+    "name": "Kwantisore",
+    "country": "ID",
+    "lat": -3.2651,
+    "lng": 134.9065
+  },
+  {
+    "name": "Kwandang",
+    "country": "ID",
+    "lat": 0.8348,
+    "lng": 122.915
+  },
+  {
+    "name": "Kwakta",
+    "country": "IN",
+    "lat": 24.44824,
+    "lng": 93.73024
+  },
+  {
+    "name": "Kwale",
+    "country": "KE",
+    "lat": -4.17375,
+    "lng": 39.45206
+  },
+  {
+    "name": "Kwaksan",
+    "country": "KP",
+    "lat": 39.6875,
+    "lng": 125.08278
+  },
+  {
+    "name": "Kwail-ŭp",
+    "country": "KP",
+    "lat": 38.44611,
+    "lng": 125.01861
+  },
+  {
+    "name": "Kwirak",
+    "country": "KP",
+    "lat": 42.49324,
+    "lng": 130.32051
+  },
+  {
+    "name": "Kwangyang",
+    "country": "KR",
+    "lat": 34.97528,
+    "lng": 127.58917
+  },
+  {
+    "name": "Kwolla",
+    "country": "NG",
+    "lat": 8.90361,
+    "lng": 9.29086
+  },
+  {
+    "name": "Kwoi",
+    "country": "NG",
+    "lat": 9.45745,
+    "lng": 8.00684
+  },
+  {
+    "name": "Kwaya Kusar",
+    "country": "NG",
+    "lat": 10.50296,
+    "lng": 11.84331
+  },
+  {
+    "name": "Kwatarkwashi",
+    "country": "NG",
+    "lat": 12.14082,
+    "lng": 6.82196
+  },
+  {
+    "name": "Kware",
+    "country": "NG",
+    "lat": 13.21969,
+    "lng": 5.26596
+  },
+  {
+    "name": "Kwali",
+    "country": "NG",
+    "lat": 8.88346,
+    "lng": 7.01858
+  },
+  {
+    "name": "Kwale",
+    "country": "NG",
+    "lat": 5.70773,
+    "lng": 6.43402
+  },
+  {
+    "name": "Kwal",
+    "country": "NG",
+    "lat": 9.37128,
+    "lng": 9.6192
+  },
+  {
+    "name": "Kwintsheul",
+    "country": "NL",
+    "lat": 52.01333,
+    "lng": 4.25556
+  },
+  {
+    "name": "Kwikila",
+    "country": "PG",
+    "lat": -9.81847,
+    "lng": 147.65968
+  },
+  {
+    "name": "Kwilcz",
+    "country": "PL",
+    "lat": 52.55506,
+    "lng": 16.08562
+  },
+  {
+    "name": "Kwidzyn",
+    "country": "PL",
+    "lat": 53.72495,
+    "lng": 18.93114
+  },
+  {
+    "name": "Kwaczała",
+    "country": "PL",
+    "lat": 50.06408,
+    "lng": 19.49215
+  },
+  {
+    "name": "Kwaluseni",
+    "country": "SZ",
+    "lat": -26.47675,
+    "lng": 31.33274
+  },
+  {
+    "name": "Kwakoa",
+    "country": "TZ",
+    "lat": -3.76667,
+    "lng": 37.71667
+  },
+  {
+    "name": "KwaDukuza",
+    "country": "ZA",
+    "lat": -29.32816,
+    "lng": 31.28954
+  },
+  {
+    "name": "KwaMbonambi",
+    "country": "ZA",
+    "lat": -28.59827,
+    "lng": 32.0894
+  },
+  {
+    "name": "Kwaggafontein",
+    "country": "ZA",
+    "lat": -25.32729,
+    "lng": 28.94224
+  },
+  {
+    "name": "KwaGingindlovu",
+    "country": "ZA",
+    "lat": -29.02671,
+    "lng": 31.58152
+  },
+  {
+    "name": "Kwamhlanga",
+    "country": "ZA",
+    "lat": -25.43001,
+    "lng": 28.71218
+  },
+  {
+    "name": "KwaDela",
+    "country": "ZA",
+    "lat": -26.46389,
+    "lng": 29.66585
+  },
+  {
+    "name": "KwaThandeka",
+    "country": "ZA",
+    "lat": -26.65372,
+    "lng": 30.678
+  },
+  {
+    "name": "KwaNgema",
+    "country": "ZA",
+    "lat": -27.01067,
+    "lng": 30.48566
+  },
+  {
+    "name": "Kwekwe",
+    "country": "ZW",
+    "lat": -18.92809,
+    "lng": 29.81486
+  }
+]

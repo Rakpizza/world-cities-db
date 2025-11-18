@@ -1,0 +1,728 @@
+[
+  {
+    "name": "Okegem",
+    "country": "BE",
+    "lat": 50.85559,
+    "lng": 4.05516
+  },
+  {
+    "name": "Okinawa Número Uno",
+    "country": "BO",
+    "lat": -17.23333,
+    "lng": -62.81667
+  },
+  {
+    "name": "Okinawa Uno",
+    "country": "BO",
+    "lat": -17.21889,
+    "lng": -62.89528
+  },
+  {
+    "name": "Oka",
+    "country": "CA",
+    "lat": 45.46489,
+    "lng": -74.08892
+  },
+  {
+    "name": "Okanagan Falls",
+    "country": "CA",
+    "lat": 49.35,
+    "lng": -119.56667
+  },
+  {
+    "name": "Okanagan Mission",
+    "country": "CA",
+    "lat": 49.81667,
+    "lng": -119.48333
+  },
+  {
+    "name": "Okotoks",
+    "country": "CA",
+    "lat": 50.72885,
+    "lng": -113.98281
+  },
+  {
+    "name": "Okrouyo",
+    "country": "CI",
+    "lat": 5.76443,
+    "lng": -6.40785
+  },
+  {
+    "name": "Okromodou",
+    "country": "CI",
+    "lat": 5.35123,
+    "lng": -5.67593
+  },
+  {
+    "name": "Okoudougou",
+    "country": "CI",
+    "lat": 8.32852,
+    "lng": -5.71506
+  },
+  {
+    "name": "Oko",
+    "country": "CI",
+    "lat": 7.54771,
+    "lng": -4.95532
+  },
+  {
+    "name": "Oku",
+    "country": "CM",
+    "lat": 6.25,
+    "lng": 10.43333
+  },
+  {
+    "name": "Okola",
+    "country": "CM",
+    "lat": 4.01667,
+    "lng": 11.38333
+  },
+  {
+    "name": "Okoa",
+    "country": "CM",
+    "lat": 3.98333,
+    "lng": 11.6
+  },
+  {
+    "name": "Okrouhlice",
+    "country": "CZ",
+    "lat": 49.62991,
+    "lng": 15.49083
+  },
+  {
+    "name": "Okříšky",
+    "country": "CZ",
+    "lat": 49.24539,
+    "lng": 15.76959
+  },
+  {
+    "name": "Oksbøl",
+    "country": "DK",
+    "lat": 55.6268,
+    "lng": 8.28757
+  },
+  {
+    "name": "Okondja",
+    "country": "GA",
+    "lat": -0.65487,
+    "lng": 13.67533
+  },
+  {
+    "name": "Okehampton",
+    "country": "GB",
+    "lat": 50.73841,
+    "lng": -4.0016
+  },
+  {
+    "name": "Okučani",
+    "country": "HR",
+    "lat": 45.26034,
+    "lng": 17.19925
+  },
+  {
+    "name": "Oklaj",
+    "country": "HR",
+    "lat": 43.96315,
+    "lng": 16.07655
+  },
+  {
+    "name": "Okrug Gornji",
+    "country": "HR",
+    "lat": 43.49473,
+    "lng": 16.26531
+  },
+  {
+    "name": "Okány",
+    "country": "HU",
+    "lat": 46.9,
+    "lng": 21.35
+  },
+  {
+    "name": "Okaba",
+    "country": "ID",
+    "lat": -8.05419,
+    "lng": 139.65681
+  },
+  {
+    "name": "Oksibil",
+    "country": "ID",
+    "lat": -4.90417,
+    "lng": 140.62972
+  },
+  {
+    "name": "Okha",
+    "country": "IN",
+    "lat": 22.46756,
+    "lng": 69.07002
+  },
+  {
+    "name": "Okni",
+    "country": "IN",
+    "lat": 24.00011,
+    "lng": 85.35477
+  },
+  {
+    "name": "Okugano",
+    "country": "JP",
+    "lat": 34.41667,
+    "lng": 131.83333
+  },
+  {
+    "name": "Okegawa",
+    "country": "JP",
+    "lat": 36.0,
+    "lng": 139.55722
+  },
+  {
+    "name": "Okazaki",
+    "country": "JP",
+    "lat": 34.95,
+    "lng": 137.16667
+  },
+  {
+    "name": "Okayama",
+    "country": "JP",
+    "lat": 34.65,
+    "lng": 133.93333
+  },
+  {
+    "name": "Okaya",
+    "country": "JP",
+    "lat": 36.05659,
+    "lng": 138.0451
+  },
+  {
+    "name": "Okinawa",
+    "country": "JP",
+    "lat": 26.33583,
+    "lng": 127.80139
+  },
+  {
+    "name": "Okushiri",
+    "country": "JP",
+    "lat": 42.17213,
+    "lng": 139.51228
+  },
+  {
+    "name": "Okunoya",
+    "country": "JP",
+    "lat": 36.28333,
+    "lng": 140.41667
+  },
+  {
+    "name": "Okoppe",
+    "country": "JP",
+    "lat": 44.46944,
+    "lng": 143.12
+  },
+  {
+    "name": "Oketo",
+    "country": "JP",
+    "lat": 43.67993,
+    "lng": 143.58993
+  },
+  {
+    "name": "Okuno",
+    "country": "JP",
+    "lat": 34.12245,
+    "lng": 134.4927
+  },
+  {
+    "name": "Okino",
+    "country": "JP",
+    "lat": 32.87009,
+    "lng": 130.7917
+  },
+  {
+    "name": "Okcheon",
+    "country": "KR",
+    "lat": 36.3012,
+    "lng": 127.568
+  },
+  {
+    "name": "Okgok",
+    "country": "KR",
+    "lat": 34.9903,
+    "lng": 127.69875
+  },
+  {
+    "name": "Oktyabr’skoye",
+    "country": "KZ",
+    "lat": 52.11106,
+    "lng": 65.67578
+  },
+  {
+    "name": "Oktisi",
+    "country": "MK",
+    "lat": 41.2325,
+    "lng": 20.60722
+  },
+  {
+    "name": "Okondjatu",
+    "country": "NA",
+    "lat": -20.98168,
+    "lng": 18.22422
+  },
+  {
+    "name": "Okombahe",
+    "country": "NA",
+    "lat": -21.358,
+    "lng": 15.37748
+  },
+  {
+    "name": "Okalongo",
+    "country": "NA",
+    "lat": -17.44006,
+    "lng": 15.33234
+  },
+  {
+    "name": "Okakarara",
+    "country": "NA",
+    "lat": -20.58755,
+    "lng": 17.45942
+  },
+  {
+    "name": "Okahao",
+    "country": "NA",
+    "lat": -17.88758,
+    "lng": 15.06677
+  },
+  {
+    "name": "Okahandja",
+    "country": "NA",
+    "lat": -21.98141,
+    "lng": 16.9029
+  },
+  {
+    "name": "Okpoga",
+    "country": "NG",
+    "lat": 7.03911,
+    "lng": 7.81225
+  },
+  {
+    "name": "Okwe",
+    "country": "NG",
+    "lat": 5.77743,
+    "lng": 7.21794
+  },
+  {
+    "name": "Okuta",
+    "country": "NG",
+    "lat": 9.21866,
+    "lng": 3.20117
+  },
+  {
+    "name": "Okrika",
+    "country": "NG",
+    "lat": 4.74215,
+    "lng": 7.08368
+  },
+  {
+    "name": "Okpoma",
+    "country": "NG",
+    "lat": 6.59679,
+    "lng": 8.63728
+  },
+  {
+    "name": "Okpo",
+    "country": "NG",
+    "lat": 7.21626,
+    "lng": 7.56022
+  },
+  {
+    "name": "Okoroete",
+    "country": "NG",
+    "lat": 4.54077,
+    "lng": 7.74858
+  },
+  {
+    "name": "Okopedi",
+    "country": "NG",
+    "lat": 4.84918,
+    "lng": 8.12564
+  },
+  {
+    "name": "Oko Ita",
+    "country": "NG",
+    "lat": 5.192,
+    "lng": 7.89531
+  },
+  {
+    "name": "Okigwe",
+    "country": "NG",
+    "lat": 5.82917,
+    "lng": 7.35056
+  },
+  {
+    "name": "Oke-Oyi",
+    "country": "NG",
+    "lat": 8.58263,
+    "lng": 4.71622
+  },
+  {
+    "name": "Okene",
+    "country": "NG",
+    "lat": 7.55122,
+    "lng": 6.23589
+  },
+  {
+    "name": "Oke Mesi",
+    "country": "NG",
+    "lat": 7.81667,
+    "lng": 4.91667
+  },
+  {
+    "name": "Oke Ila",
+    "country": "NG",
+    "lat": 7.95,
+    "lng": 4.98333
+  },
+  {
+    "name": "Okeho",
+    "country": "NG",
+    "lat": 8.03453,
+    "lng": 3.34759
+  },
+  {
+    "name": "Okehi",
+    "country": "NG",
+    "lat": 5.13895,
+    "lng": 7.13915
+  },
+  {
+    "name": "Oke-Agbe",
+    "country": "NG",
+    "lat": 7.64314,
+    "lng": 5.75943
+  },
+  {
+    "name": "Okada",
+    "country": "NG",
+    "lat": 6.73488,
+    "lng": 5.39447
+  },
+  {
+    "name": "Oka",
+    "country": "NG",
+    "lat": 7.46012,
+    "lng": 5.80174
+  },
+  {
+    "name": "Okuku",
+    "country": "NG",
+    "lat": 8.01807,
+    "lng": 4.67253
+  },
+  {
+    "name": "Oke-Ikpe",
+    "country": "NG",
+    "lat": 4.91301,
+    "lng": 7.31936
+  },
+  {
+    "name": "Okpuala-Ngwa",
+    "country": "NG",
+    "lat": 5.3571,
+    "lng": 7.38765
+  },
+  {
+    "name": "Okiot",
+    "country": "PH",
+    "lat": 9.56667,
+    "lng": 123.16667
+  },
+  {
+    "name": "Okara",
+    "country": "PK",
+    "lat": 30.81029,
+    "lng": 73.45155
+  },
+  {
+    "name": "Oksa",
+    "country": "PL",
+    "lat": 50.72874,
+    "lng": 20.10086
+  },
+  {
+    "name": "Okocim",
+    "country": "PL",
+    "lat": 49.9489,
+    "lng": 20.6016
+  },
+  {
+    "name": "Okonek",
+    "country": "PL",
+    "lat": 53.53618,
+    "lng": 16.85158
+  },
+  {
+    "name": "Okulovka",
+    "country": "RU",
+    "lat": 58.40801,
+    "lng": 33.28852
+  },
+  {
+    "name": "Oktyabr’skoye",
+    "country": "RU",
+    "lat": 52.34774,
+    "lng": 55.5022
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 61.08934,
+    "lng": 43.17177
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 56.51713,
+    "lng": 57.20489
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 56.21887,
+    "lng": 42.04069
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 55.60806,
+    "lng": 37.97738
+  },
+  {
+    "name": "Oktyabrsky",
+    "country": "RU",
+    "lat": 54.48147,
+    "lng": 53.47103
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 54.22675,
+    "lng": 38.89402
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 50.44521,
+    "lng": 36.36066
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 47.96973,
+    "lng": 43.64663
+  },
+  {
+    "name": "Oktyabr’sk",
+    "country": "RU",
+    "lat": 53.16675,
+    "lng": 48.69723
+  },
+  {
+    "name": "Oksovskiy",
+    "country": "RU",
+    "lat": 62.60623,
+    "lng": 39.89845
+  },
+  {
+    "name": "Okhansk",
+    "country": "RU",
+    "lat": 57.71491,
+    "lng": 55.3906
+  },
+  {
+    "name": "Oktyabr’skoye",
+    "country": "RU",
+    "lat": 62.45833,
+    "lng": 66.03417
+  },
+  {
+    "name": "Oktyabr’skoye",
+    "country": "RU",
+    "lat": 54.41171,
+    "lng": 62.73159
+  },
+  {
+    "name": "Okoneshnikovo",
+    "country": "RU",
+    "lat": 54.84011,
+    "lng": 75.07729
+  },
+  {
+    "name": "Okino-Klyuchi",
+    "country": "RU",
+    "lat": 50.59389,
+    "lng": 107.10944
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 49.05666,
+    "lng": 140.25473
+  },
+  {
+    "name": "Okhotsk",
+    "country": "RU",
+    "lat": 59.362,
+    "lng": 143.21468
+  },
+  {
+    "name": "Okha",
+    "country": "RU",
+    "lat": 53.59398,
+    "lng": 142.95279
+  },
+  {
+    "name": "Oktyabr’skiy",
+    "country": "RU",
+    "lat": 48.655,
+    "lng": 43.804
+  },
+  {
+    "name": "Okoličná na Ostrove",
+    "country": "SK",
+    "lat": 47.80382,
+    "lng": 17.92093
+  },
+  {
+    "name": "Okoč",
+    "country": "SK",
+    "lat": 47.88757,
+    "lng": 17.80867
+  },
+  {
+    "name": "Okçular",
+    "country": "TR",
+    "lat": 37.73879,
+    "lng": 42.43844
+  },
+  {
+    "name": "Okurcalar",
+    "country": "TR",
+    "lat": 36.64876,
+    "lng": 31.70387
+  },
+  {
+    "name": "Okunevka",
+    "country": "UA",
+    "lat": 45.36855,
+    "lng": 32.76357
+  },
+  {
+    "name": "Oktyabr’skoye",
+    "country": "UA",
+    "lat": 45.65531,
+    "lng": 33.94918
+  },
+  {
+    "name": "Oktyabr'skoye",
+    "country": "UA",
+    "lat": 45.36215,
+    "lng": 36.36803
+  },
+  {
+    "name": "Oktyabr’skoye",
+    "country": "UA",
+    "lat": 45.28866,
+    "lng": 34.13521
+  },
+  {
+    "name": "Okhotskoye",
+    "country": "UA",
+    "lat": 45.48612,
+    "lng": 34.86401
+  },
+  {
+    "name": "Okhotnikovo",
+    "country": "UA",
+    "lat": 45.23985,
+    "lng": 33.59405
+  },
+  {
+    "name": "Okhtyrka",
+    "country": "UA",
+    "lat": 50.31036,
+    "lng": 34.89879
+  },
+  {
+    "name": "Okny",
+    "country": "UA",
+    "lat": 47.54293,
+    "lng": 29.45586
+  },
+  {
+    "name": "Okeechobee",
+    "country": "US",
+    "lat": 27.24393,
+    "lng": -80.82978
+  },
+  {
+    "name": "Okawville",
+    "country": "US",
+    "lat": 38.43422,
+    "lng": -89.55037
+  },
+  {
+    "name": "Okolona",
+    "country": "US",
+    "lat": 38.14118,
+    "lng": -85.68774
+  },
+  {
+    "name": "Okolona",
+    "country": "US",
+    "lat": 34.00178,
+    "lng": -88.75533
+  },
+  {
+    "name": "Okarche",
+    "country": "US",
+    "lat": 35.72588,
+    "lng": -97.97644
+  },
+  {
+    "name": "Okeene",
+    "country": "US",
+    "lat": 36.11615,
+    "lng": -98.31702
+  },
+  {
+    "name": "Okemah",
+    "country": "US",
+    "lat": 35.43259,
+    "lng": -96.30501
+  },
+  {
+    "name": "Oklahoma City",
+    "country": "US",
+    "lat": 35.46756,
+    "lng": -97.51643
+  },
+  {
+    "name": "Okmulgee",
+    "country": "US",
+    "lat": 35.62344,
+    "lng": -95.96055
+  },
+  {
+    "name": "Okemos",
+    "country": "US",
+    "lat": 42.72226,
+    "lng": -84.42747
+  },
+  {
+    "name": "Okauchee Lake",
+    "country": "US",
+    "lat": 43.12334,
+    "lng": -88.44065
+  },
+  {
+    "name": "Okanogan",
+    "country": "US",
+    "lat": 48.36126,
+    "lng": -119.58339
+  }
+]

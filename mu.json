@@ -1,0 +1,4820 @@
+[
+  {
+    "name": "Muzayri‘",
+    "country": "AE",
+    "lat": 23.14355,
+    "lng": 53.7881
+  },
+  {
+    "name": "Murbaḩ",
+    "country": "AE",
+    "lat": 25.27623,
+    "lng": 56.36256
+  },
+  {
+    "name": "Mushayrif",
+    "country": "AE",
+    "lat": 25.40977,
+    "lng": 55.47106
+  },
+  {
+    "name": "Musaffah",
+    "country": "AE",
+    "lat": 24.35893,
+    "lng": 54.48267
+  },
+  {
+    "name": "Muqêr",
+    "country": "AF",
+    "lat": 32.82009,
+    "lng": 67.76934
+  },
+  {
+    "name": "Muḩammad Āghah Wuluswālī",
+    "country": "AF",
+    "lat": 34.21422,
+    "lng": 69.10026
+  },
+  {
+    "name": "Mutā Khān",
+    "country": "AF",
+    "lat": 33.24001,
+    "lng": 68.8663
+  },
+  {
+    "name": "Muhmand Dara",
+    "country": "AF",
+    "lat": 34.24749,
+    "lng": 70.87218
+  },
+  {
+    "name": "Mughni",
+    "country": "AM",
+    "lat": 40.31198,
+    "lng": 44.36671
+  },
+  {
+    "name": "Musaler",
+    "country": "AM",
+    "lat": 40.1557,
+    "lng": 44.37793
+  },
+  {
+    "name": "Muconda",
+    "country": "AO",
+    "lat": -10.59236,
+    "lng": 21.31805
+  },
+  {
+    "name": "Mussende",
+    "country": "AO",
+    "lat": -10.5143,
+    "lng": 16.0199
+  },
+  {
+    "name": "Mungo",
+    "country": "AO",
+    "lat": -11.83268,
+    "lng": 16.23613
+  },
+  {
+    "name": "Muñiz",
+    "country": "AR",
+    "lat": -34.55622,
+    "lng": -58.70739
+  },
+  {
+    "name": "Mutquin",
+    "country": "AR",
+    "lat": -28.31539,
+    "lng": -66.14787
+  },
+  {
+    "name": "Murau",
+    "country": "AT",
+    "lat": 47.11056,
+    "lng": 14.16944
+  },
+  {
+    "name": "Mutters",
+    "country": "AT",
+    "lat": 47.23333,
+    "lng": 11.38333
+  },
+  {
+    "name": "Musau",
+    "country": "AT",
+    "lat": 47.53195,
+    "lng": 10.67339
+  },
+  {
+    "name": "Mureck",
+    "country": "AT",
+    "lat": 46.70806,
+    "lng": 15.77472
+  },
+  {
+    "name": "Muntlix",
+    "country": "AT",
+    "lat": 47.28296,
+    "lng": 9.65939
+  },
+  {
+    "name": "Munderfing",
+    "country": "AT",
+    "lat": 48.07039,
+    "lng": 13.18162
+  },
+  {
+    "name": "Muhr",
+    "country": "AT",
+    "lat": 47.09893,
+    "lng": 13.49756
+  },
+  {
+    "name": "Muggendorf",
+    "country": "AT",
+    "lat": 47.91059,
+    "lng": 15.93533
+  },
+  {
+    "name": "Muckendorf an der Donau",
+    "country": "AT",
+    "lat": 48.33183,
+    "lng": 16.1554
+  },
+  {
+    "name": "Murray Bridge",
+    "country": "AU",
+    "lat": -35.11986,
+    "lng": 139.27345
+  },
+  {
+    "name": "Mundijong",
+    "country": "AU",
+    "lat": -32.29217,
+    "lng": 115.98564
+  },
+  {
+    "name": "Mundaring",
+    "country": "AU",
+    "lat": -31.9021,
+    "lng": 116.16757
+  },
+  {
+    "name": "Mullaloo",
+    "country": "AU",
+    "lat": -31.77896,
+    "lng": 115.73676
+  },
+  {
+    "name": "Muswellbrook",
+    "country": "AU",
+    "lat": -32.26118,
+    "lng": 150.89009
+  },
+  {
+    "name": "Murwillumbah",
+    "country": "AU",
+    "lat": -28.32732,
+    "lng": 153.39339
+  },
+  {
+    "name": "Murrurundi",
+    "country": "AU",
+    "lat": -31.76422,
+    "lng": 150.83575
+  },
+  {
+    "name": "Murrumbeena",
+    "country": "AU",
+    "lat": -37.9,
+    "lng": 145.06667
+  },
+  {
+    "name": "Murrumbateman",
+    "country": "AU",
+    "lat": -34.97199,
+    "lng": 149.02985
+  },
+  {
+    "name": "Murgon",
+    "country": "AU",
+    "lat": -26.2417,
+    "lng": 151.94047
+  },
+  {
+    "name": "Mundubbera",
+    "country": "AU",
+    "lat": -25.59266,
+    "lng": 151.30225
+  },
+  {
+    "name": "Mulwala",
+    "country": "AU",
+    "lat": -35.98536,
+    "lng": 146.00534
+  },
+  {
+    "name": "Mullumbimby",
+    "country": "AU",
+    "lat": -28.55236,
+    "lng": 153.49956
+  },
+  {
+    "name": "Mulgrave",
+    "country": "AU",
+    "lat": -37.92845,
+    "lng": 145.17708
+  },
+  {
+    "name": "Mulgoa",
+    "country": "AU",
+    "lat": -33.838,
+    "lng": 150.64963
+  },
+  {
+    "name": "Mudgeeraba",
+    "country": "AU",
+    "lat": -28.08333,
+    "lng": 153.36667
+  },
+  {
+    "name": "Mudgee",
+    "country": "AU",
+    "lat": -32.59426,
+    "lng": 149.5871
+  },
+  {
+    "name": "Murarrie",
+    "country": "AU",
+    "lat": -27.46289,
+    "lng": 153.09809
+  },
+  {
+    "name": "Mudjimba",
+    "country": "AU",
+    "lat": -26.61497,
+    "lng": 153.0989
+  },
+  {
+    "name": "Murray",
+    "country": "AU",
+    "lat": -19.31803,
+    "lng": 146.79494
+  },
+  {
+    "name": "Munno Para West",
+    "country": "AU",
+    "lat": -34.657,
+    "lng": 138.671
+  },
+  {
+    "name": "Mundingburra",
+    "country": "AU",
+    "lat": -19.29851,
+    "lng": 146.79352
+  },
+  {
+    "name": "Murrumba Downs",
+    "country": "AU",
+    "lat": -27.26733,
+    "lng": 153.01053
+  },
+  {
+    "name": "Munruben",
+    "country": "AU",
+    "lat": -27.74635,
+    "lng": 153.03119
+  },
+  {
+    "name": "Mundoolun",
+    "country": "AU",
+    "lat": -27.8994,
+    "lng": 153.0715
+  },
+  {
+    "name": "Murdoch",
+    "country": "AU",
+    "lat": -32.06987,
+    "lng": 115.83757
+  },
+  {
+    "name": "Munster",
+    "country": "AU",
+    "lat": -32.142,
+    "lng": 115.798
+  },
+  {
+    "name": "Mulambin",
+    "country": "AU",
+    "lat": -23.18755,
+    "lng": 150.78933
+  },
+  {
+    "name": "Muirhead",
+    "country": "AU",
+    "lat": -12.35863,
+    "lng": 130.89352
+  },
+  {
+    "name": "Munno Para",
+    "country": "AU",
+    "lat": -34.66792,
+    "lng": 138.70149
+  },
+  {
+    "name": "Mughan",
+    "country": "AZ",
+    "lat": 40.09902,
+    "lng": 48.81886
+  },
+  {
+    "name": "Muktāgācha",
+    "country": "BD",
+    "lat": 24.76484,
+    "lng": 90.25698
+  },
+  {
+    "name": "Mussy-la-Ville",
+    "country": "BE",
+    "lat": 49.57009,
+    "lng": 5.66191
+  },
+  {
+    "name": "Musson",
+    "country": "BE",
+    "lat": 49.55835,
+    "lng": 5.70525
+  },
+  {
+    "name": "Munsterbilzen",
+    "country": "BE",
+    "lat": 50.88939,
+    "lng": 5.52647
+  },
+  {
+    "name": "Munkzwalm",
+    "country": "BE",
+    "lat": 50.87676,
+    "lng": 3.73503
+  },
+  {
+    "name": "Muizen",
+    "country": "BE",
+    "lat": 51.01111,
+    "lng": 4.51427
+  },
+  {
+    "name": "Muzinda",
+    "country": "BI",
+    "lat": -3.2617,
+    "lng": 29.4206
+  },
+  {
+    "name": "Muramvya",
+    "country": "BI",
+    "lat": -3.26776,
+    "lng": 29.6162
+  },
+  {
+    "name": "Mugongomanga",
+    "country": "BI",
+    "lat": -3.4693,
+    "lng": 29.5451
+  },
+  {
+    "name": "Muyinga",
+    "country": "BI",
+    "lat": -2.8451,
+    "lng": 30.3414
+  },
+  {
+    "name": "Murici",
+    "country": "BR",
+    "lat": -9.30667,
+    "lng": -35.94333
+  },
+  {
+    "name": "Mulungu",
+    "country": "BR",
+    "lat": -7.02444,
+    "lng": -35.46194
+  },
+  {
+    "name": "Mulungu",
+    "country": "BR",
+    "lat": -4.30556,
+    "lng": -38.99639
+  },
+  {
+    "name": "Mucambo",
+    "country": "BR",
+    "lat": -3.90944,
+    "lng": -40.74667
+  },
+  {
+    "name": "Muaná",
+    "country": "BR",
+    "lat": -1.52833,
+    "lng": -49.21667
+  },
+  {
+    "name": "Murici dos Portelas",
+    "country": "BR",
+    "lat": -3.32383,
+    "lng": -42.08982
+  },
+  {
+    "name": "Muricilândia",
+    "country": "BR",
+    "lat": -7.14583,
+    "lng": -48.61
+  },
+  {
+    "name": "Muzambinho",
+    "country": "BR",
+    "lat": -21.37583,
+    "lng": -46.52556
+  },
+  {
+    "name": "Mutunópolis",
+    "country": "BR",
+    "lat": -13.7325,
+    "lng": -49.275
+  },
+  {
+    "name": "Mutum",
+    "country": "BR",
+    "lat": -19.8,
+    "lng": -41.43833
+  },
+  {
+    "name": "Mutuípe",
+    "country": "BR",
+    "lat": -13.22861,
+    "lng": -39.50472
+  },
+  {
+    "name": "Murutinga do Sul",
+    "country": "BR",
+    "lat": -20.99333,
+    "lng": -51.2775
+  },
+  {
+    "name": "Muritiba",
+    "country": "BR",
+    "lat": -12.91667,
+    "lng": -39.25
+  },
+  {
+    "name": "Muritiba",
+    "country": "BR",
+    "lat": -12.62639,
+    "lng": -38.99
+  },
+  {
+    "name": "Muribeca",
+    "country": "BR",
+    "lat": -10.42722,
+    "lng": -36.95917
+  },
+  {
+    "name": "Muriaé",
+    "country": "BR",
+    "lat": -21.13056,
+    "lng": -42.36639
+  },
+  {
+    "name": "Muqui",
+    "country": "BR",
+    "lat": -20.95167,
+    "lng": -41.34583
+  },
+  {
+    "name": "Muniz Freire",
+    "country": "BR",
+    "lat": -20.46417,
+    "lng": -41.41306
+  },
+  {
+    "name": "Muniz Ferreira",
+    "country": "BR",
+    "lat": -13.00278,
+    "lng": -39.11
+  },
+  {
+    "name": "Munhoz de Melo",
+    "country": "BR",
+    "lat": -23.14806,
+    "lng": -51.77389
+  },
+  {
+    "name": "Munhoz",
+    "country": "BR",
+    "lat": -22.61306,
+    "lng": -46.36056
+  },
+  {
+    "name": "Mundo Novo",
+    "country": "BR",
+    "lat": -11.85889,
+    "lng": -40.4725
+  },
+  {
+    "name": "Mulungu do Morro",
+    "country": "BR",
+    "lat": -11.96611,
+    "lng": -41.63889
+  },
+  {
+    "name": "Muliterno",
+    "country": "BR",
+    "lat": -28.32944,
+    "lng": -51.7675
+  },
+  {
+    "name": "Muitos Capões",
+    "country": "BR",
+    "lat": -28.31417,
+    "lng": -51.18167
+  },
+  {
+    "name": "Mucurici",
+    "country": "BR",
+    "lat": -18.09333,
+    "lng": -40.51583
+  },
+  {
+    "name": "Mucuri",
+    "country": "BR",
+    "lat": -18.08639,
+    "lng": -39.55083
+  },
+  {
+    "name": "Muçum",
+    "country": "BR",
+    "lat": -29.16472,
+    "lng": -51.86778
+  },
+  {
+    "name": "Mucugê",
+    "country": "BR",
+    "lat": -13.00845,
+    "lng": -41.37237
+  },
+  {
+    "name": "Mucajaí",
+    "country": "BR",
+    "lat": 2.43986,
+    "lng": -60.91146
+  },
+  {
+    "name": "Mundo Novo",
+    "country": "BR",
+    "lat": -13.77611,
+    "lng": -50.28111
+  },
+  {
+    "name": "Muquém do São Francisco",
+    "country": "BR",
+    "lat": -12.06597,
+    "lng": -43.54934
+  },
+  {
+    "name": "Munster",
+    "country": "CA",
+    "lat": 45.16476,
+    "lng": -75.9396
+  },
+  {
+    "name": "Murrayville",
+    "country": "CA",
+    "lat": 49.08333,
+    "lng": -122.61667
+  },
+  {
+    "name": "Musqueam",
+    "country": "CA",
+    "lat": 49.22825,
+    "lng": -123.19277
+  },
+  {
+    "name": "Mulongo",
+    "country": "CD",
+    "lat": -7.83486,
+    "lng": 26.99852
+  },
+  {
+    "name": "Mushie",
+    "country": "CD",
+    "lat": -3.01728,
+    "lng": 16.92238
+  },
+  {
+    "name": "Muttenz",
+    "country": "CH",
+    "lat": 47.52271,
+    "lng": 7.64511
+  },
+  {
+    "name": "Murten/Morat",
+    "country": "CH",
+    "lat": 46.92827,
+    "lng": 7.11715
+  },
+  {
+    "name": "Muri",
+    "country": "CH",
+    "lat": 47.27428,
+    "lng": 8.33854
+  },
+  {
+    "name": "Muri",
+    "country": "CH",
+    "lat": 46.93122,
+    "lng": 7.48658
+  },
+  {
+    "name": "Murgenthal",
+    "country": "CH",
+    "lat": 47.27145,
+    "lng": 7.83935
+  },
+  {
+    "name": "Muotathal",
+    "country": "CH",
+    "lat": 46.97676,
+    "lng": 8.76499
+  },
+  {
+    "name": "Muolen",
+    "country": "CH",
+    "lat": 47.52102,
+    "lng": 9.32484
+  },
+  {
+    "name": "Mumpf",
+    "country": "CH",
+    "lat": 47.54563,
+    "lng": 7.92123
+  },
+  {
+    "name": "Muhen",
+    "country": "CH",
+    "lat": 47.33578,
+    "lng": 8.05536
+  },
+  {
+    "name": "Muralto",
+    "country": "CH",
+    "lat": 46.17323,
+    "lng": 8.80219
+  },
+  {
+    "name": "Mulchén",
+    "country": "CL",
+    "lat": -37.71893,
+    "lng": -72.24099
+  },
+  {
+    "name": "Muyuka",
+    "country": "CM",
+    "lat": 4.2898,
+    "lng": 9.4103
+  },
+  {
+    "name": "Mutengene",
+    "country": "CM",
+    "lat": 4.0913,
+    "lng": 9.3144
+  },
+  {
+    "name": "Mundemba",
+    "country": "CM",
+    "lat": 4.9479,
+    "lng": 8.8724
+  },
+  {
+    "name": "Muxi",
+    "country": "CN",
+    "lat": 28.95964,
+    "lng": 103.90086
+  },
+  {
+    "name": "Mu’er",
+    "country": "CN",
+    "lat": 29.80601,
+    "lng": 106.64439
+  },
+  {
+    "name": "Mudong",
+    "country": "CN",
+    "lat": 29.57334,
+    "lng": 106.83928
+  },
+  {
+    "name": "Mucheng",
+    "country": "CN",
+    "lat": 35.09727,
+    "lng": 113.40025
+  },
+  {
+    "name": "Muping",
+    "country": "CN",
+    "lat": 30.37045,
+    "lng": 102.81223
+  },
+  {
+    "name": "Mudu",
+    "country": "CN",
+    "lat": 31.25597,
+    "lng": 120.51857
+  },
+  {
+    "name": "Mutang",
+    "country": "CN",
+    "lat": 19.80755,
+    "lng": 109.34539
+  },
+  {
+    "name": "Mulan",
+    "country": "CN",
+    "lat": 45.94711,
+    "lng": 128.03727
+  },
+  {
+    "name": "Mujiayingzi",
+    "country": "CN",
+    "lat": 42.11667,
+    "lng": 118.78333
+  },
+  {
+    "name": "Mudanjiang",
+    "country": "CN",
+    "lat": 44.54804,
+    "lng": 129.62594
+  },
+  {
+    "name": "Muling",
+    "country": "CN",
+    "lat": 44.91647,
+    "lng": 130.51707
+  },
+  {
+    "name": "Mu’er",
+    "country": "CN",
+    "lat": 34.56612,
+    "lng": 103.58545
+  },
+  {
+    "name": "Mu’er",
+    "country": "CN",
+    "lat": 34.25702,
+    "lng": 104.34245
+  },
+  {
+    "name": "Muye",
+    "country": "CN",
+    "lat": 29.25554,
+    "lng": 108.98832
+  },
+  {
+    "name": "Muxihe",
+    "country": "CN",
+    "lat": 33.7572,
+    "lng": 101.24533
+  },
+  {
+    "name": "Muyu",
+    "country": "CN",
+    "lat": 31.47202,
+    "lng": 110.38717
+  },
+  {
+    "name": "Muliang",
+    "country": "CN",
+    "lat": 29.2162,
+    "lng": 107.02229
+  },
+  {
+    "name": "Mugala",
+    "country": "CN",
+    "lat": 36.8545,
+    "lng": 81.66425
+  },
+  {
+    "name": "Mudan",
+    "country": "CN",
+    "lat": 35.24616,
+    "lng": 115.43336
+  },
+  {
+    "name": "Mujia",
+    "country": "CN",
+    "lat": 22.991,
+    "lng": 99.63453
+  },
+  {
+    "name": "Muhe",
+    "country": "CN",
+    "lat": 35.02337,
+    "lng": 106.13488
+  },
+  {
+    "name": "Muye",
+    "country": "CN",
+    "lat": 35.32328,
+    "lng": 113.88257
+  },
+  {
+    "name": "Muzo",
+    "country": "CO",
+    "lat": 5.53528,
+    "lng": -74.10778
+  },
+  {
+    "name": "Mutiscua",
+    "country": "CO",
+    "lat": 7.30061,
+    "lng": -72.74667
+  },
+  {
+    "name": "Mutatá",
+    "country": "CO",
+    "lat": 7.24407,
+    "lng": -76.43564
+  },
+  {
+    "name": "Murindó",
+    "country": "CO",
+    "lat": 6.98057,
+    "lng": -76.82119
+  },
+  {
+    "name": "Murillo",
+    "country": "CO",
+    "lat": 4.87393,
+    "lng": -75.17151
+  },
+  {
+    "name": "Municipio Hato Corozal",
+    "country": "CO",
+    "lat": 6.15676,
+    "lng": -71.76372
+  },
+  {
+    "name": "Mutěnice",
+    "country": "CZ",
+    "lat": 48.90413,
+    "lng": 17.02917
+  },
+  {
+    "name": "Mukařov",
+    "country": "CZ",
+    "lat": 49.99115,
+    "lng": 14.74155
+  },
+  {
+    "name": "Mutzschen",
+    "country": "DE",
+    "lat": 51.26159,
+    "lng": 12.89125
+  },
+  {
+    "name": "Mutterstadt",
+    "country": "DE",
+    "lat": 49.44139,
+    "lng": 8.35611
+  },
+  {
+    "name": "Mutlangen",
+    "country": "DE",
+    "lat": 48.82588,
+    "lng": 9.79714
+  },
+  {
+    "name": "Muschwitz",
+    "country": "DE",
+    "lat": 51.19296,
+    "lng": 12.12065
+  },
+  {
+    "name": "Murrhardt",
+    "country": "DE",
+    "lat": 48.98191,
+    "lng": 9.57047
+  },
+  {
+    "name": "Murr",
+    "country": "DE",
+    "lat": 48.96207,
+    "lng": 9.25924
+  },
+  {
+    "name": "Murnau am Staffelsee",
+    "country": "DE",
+    "lat": 47.68085,
+    "lng": 11.20125
+  },
+  {
+    "name": "Murg",
+    "country": "DE",
+    "lat": 47.55492,
+    "lng": 8.02182
+  },
+  {
+    "name": "Munster",
+    "country": "DE",
+    "lat": 52.98569,
+    "lng": 10.08756
+  },
+  {
+    "name": "Munningen",
+    "country": "DE",
+    "lat": 48.91667,
+    "lng": 10.6
+  },
+  {
+    "name": "Munkbrarup",
+    "country": "DE",
+    "lat": 54.8,
+    "lng": 9.56667
+  },
+  {
+    "name": "Munderkingen",
+    "country": "DE",
+    "lat": 48.23568,
+    "lng": 9.64398
+  },
+  {
+    "name": "Mundelsheim",
+    "country": "DE",
+    "lat": 49.00083,
+    "lng": 9.20778
+  },
+  {
+    "name": "Munich",
+    "country": "DE",
+    "lat": 48.13743,
+    "lng": 11.57549
+  },
+  {
+    "name": "Mulfingen",
+    "country": "DE",
+    "lat": 49.34028,
+    "lng": 9.80083
+  },
+  {
+    "name": "Muldenstein",
+    "country": "DE",
+    "lat": 51.67192,
+    "lng": 12.34548
+  },
+  {
+    "name": "Mulda",
+    "country": "DE",
+    "lat": 50.80789,
+    "lng": 13.41477
+  },
+  {
+    "name": "Muggensturm",
+    "country": "DE",
+    "lat": 48.86667,
+    "lng": 8.28333
+  },
+  {
+    "name": "Mudersbach",
+    "country": "DE",
+    "lat": 50.82515,
+    "lng": 7.94347
+  },
+  {
+    "name": "Mudau",
+    "country": "DE",
+    "lat": 49.53444,
+    "lng": 9.20444
+  },
+  {
+    "name": "Much",
+    "country": "DE",
+    "lat": 50.90383,
+    "lng": 7.40306
+  },
+  {
+    "name": "Muhr am See",
+    "country": "DE",
+    "lat": 49.15445,
+    "lng": 10.71845
+  },
+  {
+    "name": "Munkebo",
+    "country": "DK",
+    "lat": 55.45553,
+    "lng": 10.55433
+  },
+  {
+    "name": "Mulaló",
+    "country": "EC",
+    "lat": -0.78064,
+    "lng": -78.57534
+  },
+  {
+    "name": "Muisne",
+    "country": "EC",
+    "lat": 0.61045,
+    "lng": -80.0186
+  },
+  {
+    "name": "Muluncay",
+    "country": "EC",
+    "lat": -3.63625,
+    "lng": -79.63615
+  },
+  {
+    "name": "Mustvee",
+    "country": "EE",
+    "lat": 58.84861,
+    "lng": 26.93972
+  },
+  {
+    "name": "Muţūbas",
+    "country": "EG",
+    "lat": 31.29443,
+    "lng": 30.52248
+  },
+  {
+    "name": "Munūf",
+    "country": "EG",
+    "lat": 30.46597,
+    "lng": 30.93199
+  },
+  {
+    "name": "Munsha‘at Abū ‘Umar",
+    "country": "EG",
+    "lat": 30.90711,
+    "lng": 32.02341
+  },
+  {
+    "name": "Munshāt ‘Alī Āghā",
+    "country": "EG",
+    "lat": 31.15791,
+    "lng": 30.70177
+  },
+  {
+    "name": "Museros",
+    "country": "ES",
+    "lat": 39.56667,
+    "lng": -0.35
+  },
+  {
+    "name": "Murtas",
+    "country": "ES",
+    "lat": 36.88504,
+    "lng": -3.10945
+  },
+  {
+    "name": "Muro del Alcoy",
+    "country": "ES",
+    "lat": 38.7812,
+    "lng": -0.43608
+  },
+  {
+    "name": "Muro",
+    "country": "ES",
+    "lat": 39.73661,
+    "lng": 3.05559
+  },
+  {
+    "name": "Murla",
+    "country": "ES",
+    "lat": 38.76037,
+    "lng": -0.08208
+  },
+  {
+    "name": "Murcia",
+    "country": "ES",
+    "lat": 37.98704,
+    "lng": -1.13004
+  },
+  {
+    "name": "Munera",
+    "country": "ES",
+    "lat": 39.04217,
+    "lng": -2.48068
+  },
+  {
+    "name": "Mula",
+    "country": "ES",
+    "lat": 38.04095,
+    "lng": -1.49014
+  },
+  {
+    "name": "Mutxamel",
+    "country": "ES",
+    "lat": 38.4158,
+    "lng": -0.44529
+  },
+  {
+    "name": "Mutiloa",
+    "country": "ES",
+    "lat": 43.02288,
+    "lng": -2.27257
+  },
+  {
+    "name": "Muruzábal",
+    "country": "ES",
+    "lat": 42.69051,
+    "lng": -1.76931
+  },
+  {
+    "name": "Muros de Nalón",
+    "country": "ES",
+    "lat": 43.54277,
+    "lng": -6.10348
+  },
+  {
+    "name": "Muros",
+    "country": "ES",
+    "lat": 42.77617,
+    "lng": -9.06032
+  },
+  {
+    "name": "Muro en Cameros",
+    "country": "ES",
+    "lat": 42.22509,
+    "lng": -2.53038
+  },
+  {
+    "name": "Muro de Aguas",
+    "country": "ES",
+    "lat": 42.13364,
+    "lng": -2.11175
+  },
+  {
+    "name": "Murillo el Fruto",
+    "country": "ES",
+    "lat": 42.39272,
+    "lng": -1.46034
+  },
+  {
+    "name": "Murillo de Río Leza",
+    "country": "ES",
+    "lat": 42.40099,
+    "lng": -2.32464
+  },
+  {
+    "name": "Murieta",
+    "country": "ES",
+    "lat": 42.65618,
+    "lng": -2.15452
+  },
+  {
+    "name": "Muriel Viejo",
+    "country": "ES",
+    "lat": 41.78261,
+    "lng": -2.91522
+  },
+  {
+    "name": "Muriel de la Fuente",
+    "country": "ES",
+    "lat": 41.7232,
+    "lng": -2.86
+  },
+  {
+    "name": "Murias de Paredes",
+    "country": "ES",
+    "lat": 42.85027,
+    "lng": -6.19164
+  },
+  {
+    "name": "Murgia",
+    "country": "ES",
+    "lat": 42.95686,
+    "lng": -2.81945
+  },
+  {
+    "name": "Murero",
+    "country": "ES",
+    "lat": 41.15967,
+    "lng": -1.48275
+  },
+  {
+    "name": "Murchante",
+    "country": "ES",
+    "lat": 42.03185,
+    "lng": -1.65582
+  },
+  {
+    "name": "Muras",
+    "country": "ES",
+    "lat": 43.46685,
+    "lng": -7.72383
+  },
+  {
+    "name": "Mura",
+    "country": "ES",
+    "lat": 41.69943,
+    "lng": 1.97612
+  },
+  {
+    "name": "Muñoveros",
+    "country": "ES",
+    "lat": 41.17234,
+    "lng": -3.95161
+  },
+  {
+    "name": "Muñotello",
+    "country": "ES",
+    "lat": 40.54236,
+    "lng": -5.04187
+  },
+  {
+    "name": "Muñosancho",
+    "country": "ES",
+    "lat": 40.92097,
+    "lng": -5.03559
+  },
+  {
+    "name": "Muñopepe",
+    "country": "ES",
+    "lat": 40.63408,
+    "lng": -4.81876
+  },
+  {
+    "name": "Muñopedro",
+    "country": "ES",
+    "lat": 40.88804,
+    "lng": -4.47213
+  },
+  {
+    "name": "Muñomer del Peco",
+    "country": "ES",
+    "lat": 40.85878,
+    "lng": -4.87992
+  },
+  {
+    "name": "Muñogrande",
+    "country": "ES",
+    "lat": 40.82181,
+    "lng": -4.92223
+  },
+  {
+    "name": "Muñogalindo",
+    "country": "ES",
+    "lat": 40.60324,
+    "lng": -4.89895
+  },
+  {
+    "name": "Munilla",
+    "country": "ES",
+    "lat": 42.189,
+    "lng": -2.29506
+  },
+  {
+    "name": "Muniesa",
+    "country": "ES",
+    "lat": 41.03308,
+    "lng": -0.81141
+  },
+  {
+    "name": "Muñico",
+    "country": "ES",
+    "lat": 40.70678,
+    "lng": -5.02717
+  },
+  {
+    "name": "Mungia",
+    "country": "ES",
+    "lat": 43.35461,
+    "lng": -2.84524
+  },
+  {
+    "name": "Munébrega",
+    "country": "ES",
+    "lat": 41.25203,
+    "lng": -1.70557
+  },
+  {
+    "name": "Mundaka",
+    "country": "ES",
+    "lat": 43.40804,
+    "lng": -2.69852
+  },
+  {
+    "name": "Muñana",
+    "country": "ES",
+    "lat": 40.59042,
+    "lng": -5.01447
+  },
+  {
+    "name": "Mugia",
+    "country": "ES",
+    "lat": 43.10414,
+    "lng": -9.21791
+  },
+  {
+    "name": "Mugardos",
+    "country": "ES",
+    "lat": 43.4604,
+    "lng": -8.25507
+  },
+  {
+    "name": "Muga de Sayago",
+    "country": "ES",
+    "lat": 41.38779,
+    "lng": -6.19777
+  },
+  {
+    "name": "Muelas de los Caballeros",
+    "country": "ES",
+    "lat": 42.12843,
+    "lng": -6.33719
+  },
+  {
+    "name": "Muel",
+    "country": "ES",
+    "lat": 41.46633,
+    "lng": -1.08503
+  },
+  {
+    "name": "Muduex",
+    "country": "ES",
+    "lat": 40.8293,
+    "lng": -2.95899
+  },
+  {
+    "name": "Mudá",
+    "country": "ES",
+    "lat": 42.8753,
+    "lng": -4.39426
+  },
+  {
+    "name": "Mucientes",
+    "country": "ES",
+    "lat": 41.74278,
+    "lng": -4.76191
+  },
+  {
+    "name": "Mutriku",
+    "country": "ES",
+    "lat": 43.30643,
+    "lng": -2.38517
+  },
+  {
+    "name": "Muntanyola",
+    "country": "ES",
+    "lat": 41.88333,
+    "lng": 2.18333
+  },
+  {
+    "name": "Muxika",
+    "country": "ES",
+    "lat": 43.28905,
+    "lng": -2.68937
+  },
+  {
+    "name": "Muurla",
+    "country": "FI",
+    "lat": 60.35,
+    "lng": 23.28333
+  },
+  {
+    "name": "Muurame",
+    "country": "FI",
+    "lat": 62.13333,
+    "lng": 25.66667
+  },
+  {
+    "name": "Muonio",
+    "country": "FI",
+    "lat": 67.95546,
+    "lng": 23.68258
+  },
+  {
+    "name": "Munkkisaari",
+    "country": "FI",
+    "lat": 60.157,
+    "lng": 24.92792
+  },
+  {
+    "name": "Munkkiniemi",
+    "country": "FI",
+    "lat": 60.19861,
+    "lng": 24.87772
+  },
+  {
+    "name": "Multia",
+    "country": "FI",
+    "lat": 62.41667,
+    "lng": 24.78333
+  },
+  {
+    "name": "Muhos",
+    "country": "FI",
+    "lat": 64.80798,
+    "lng": 25.99314
+  },
+  {
+    "name": "Muhos",
+    "country": "FI",
+    "lat": 64.76667,
+    "lng": 26.1
+  },
+  {
+    "name": "Muurala",
+    "country": "FI",
+    "lat": 60.2127,
+    "lng": 24.64251
+  },
+  {
+    "name": "Munkkivuori",
+    "country": "FI",
+    "lat": 60.2058,
+    "lng": 24.87597
+  },
+  {
+    "name": "Muotiala",
+    "country": "FI",
+    "lat": 61.47732,
+    "lng": 23.81992
+  },
+  {
+    "name": "Multisilta",
+    "country": "FI",
+    "lat": 61.43829,
+    "lng": 23.75143
+  },
+  {
+    "name": "Murilo",
+    "country": "FM",
+    "lat": 8.69242,
+    "lng": 152.33934
+  },
+  {
+    "name": "Muzillac",
+    "country": "FR",
+    "lat": 47.55317,
+    "lng": -2.48209
+  },
+  {
+    "name": "Mutzig",
+    "country": "FR",
+    "lat": 48.53974,
+    "lng": 7.45594
+  },
+  {
+    "name": "Muttersholtz",
+    "country": "FR",
+    "lat": 48.26761,
+    "lng": 7.53567
+  },
+  {
+    "name": "Mussy-sur-Seine",
+    "country": "FR",
+    "lat": 47.97791,
+    "lng": 4.49743
+  },
+  {
+    "name": "Mussig",
+    "country": "FR",
+    "lat": 48.22993,
+    "lng": 7.51963
+  },
+  {
+    "name": "Mussidan",
+    "country": "FR",
+    "lat": 45.03505,
+    "lng": 0.36495
+  },
+  {
+    "name": "Mus",
+    "country": "FR",
+    "lat": 43.73976,
+    "lng": 4.20055
+  },
+  {
+    "name": "Murviel-lès-Montpellier",
+    "country": "FR",
+    "lat": 43.60528,
+    "lng": 3.7375
+  },
+  {
+    "name": "Murviel-lès-Béziers",
+    "country": "FR",
+    "lat": 43.43333,
+    "lng": 3.13333
+  },
+  {
+    "name": "Muron",
+    "country": "FR",
+    "lat": 46.03524,
+    "lng": -0.82893
+  },
+  {
+    "name": "Muret",
+    "country": "FR",
+    "lat": 43.45998,
+    "lng": 1.32541
+  },
+  {
+    "name": "Mur-de-Sologne",
+    "country": "FR",
+    "lat": 47.41239,
+    "lng": 1.60832
+  },
+  {
+    "name": "Murat",
+    "country": "FR",
+    "lat": 45.11011,
+    "lng": 2.86859
+  },
+  {
+    "name": "Munster",
+    "country": "FR",
+    "lat": 48.04048,
+    "lng": 7.13933
+  },
+  {
+    "name": "Mundolsheim",
+    "country": "FR",
+    "lat": 48.64215,
+    "lng": 7.71378
+  },
+  {
+    "name": "Munchhouse",
+    "country": "FR",
+    "lat": 47.8693,
+    "lng": 7.45233
+  },
+  {
+    "name": "Mulsanne",
+    "country": "FR",
+    "lat": 47.91151,
+    "lng": 0.24826
+  },
+  {
+    "name": "Mulhouse",
+    "country": "FR",
+    "lat": 47.75205,
+    "lng": 7.32866
+  },
+  {
+    "name": "Muizon",
+    "country": "FR",
+    "lat": 49.27499,
+    "lng": 3.89083
+  },
+  {
+    "name": "Muides-sur-Loire",
+    "country": "FR",
+    "lat": 47.66958,
+    "lng": 1.52694
+  },
+  {
+    "name": "Mugron",
+    "country": "FR",
+    "lat": 43.74982,
+    "lng": -0.75239
+  },
+  {
+    "name": "Mudaison",
+    "country": "FR",
+    "lat": 43.64616,
+    "lng": 4.03916
+  },
+  {
+    "name": "Musselburgh",
+    "country": "GB",
+    "lat": 55.9417,
+    "lng": -3.04991
+  },
+  {
+    "name": "Murton",
+    "country": "GB",
+    "lat": 54.81812,
+    "lng": -1.39036
+  },
+  {
+    "name": "Mundford",
+    "country": "GB",
+    "lat": 52.5093,
+    "lng": 0.64991
+  },
+  {
+    "name": "Mundesley",
+    "country": "GB",
+    "lat": 52.87842,
+    "lng": 1.4297
+  },
+  {
+    "name": "Mullion",
+    "country": "GB",
+    "lat": 50.02706,
+    "lng": -5.24248
+  },
+  {
+    "name": "Mulbarton",
+    "country": "GB",
+    "lat": 52.55913,
+    "lng": 1.23327
+  },
+  {
+    "name": "Muir of Ord",
+    "country": "GB",
+    "lat": 57.51976,
+    "lng": -4.45939
+  },
+  {
+    "name": "Muirkirk",
+    "country": "GB",
+    "lat": 55.52272,
+    "lng": -4.06551
+  },
+  {
+    "name": "Muirhead",
+    "country": "GB",
+    "lat": 56.5,
+    "lng": -3.06667
+  },
+  {
+    "name": "Muggleswick",
+    "country": "GB",
+    "lat": 54.83333,
+    "lng": -1.93333
+  },
+  {
+    "name": "Much Wenlock",
+    "country": "GB",
+    "lat": 52.59582,
+    "lng": -2.55749
+  },
+  {
+    "name": "Much Hadham",
+    "country": "GB",
+    "lat": 51.85407,
+    "lng": 0.07188
+  },
+  {
+    "name": "Much Birch",
+    "country": "GB",
+    "lat": 51.97108,
+    "lng": -2.72349
+  },
+  {
+    "name": "Muirhead",
+    "country": "GB",
+    "lat": 55.89803,
+    "lng": -4.1058
+  },
+  {
+    "name": "Muswell Hill",
+    "country": "GB",
+    "lat": 51.59054,
+    "lng": -0.14212
+  },
+  {
+    "name": "Murton",
+    "country": "GB",
+    "lat": 53.96607,
+    "lng": -1.0107
+  },
+  {
+    "name": "Mumford",
+    "country": "GH",
+    "lat": 5.26176,
+    "lng": -0.75897
+  },
+  {
+    "name": "Mui Wo Kau Tsuen",
+    "country": "HK",
+    "lat": 22.26886,
+    "lng": 113.98609
+  },
+  {
+    "name": "Mursko Središće",
+    "country": "HR",
+    "lat": 46.5121,
+    "lng": 16.43938
+  },
+  {
+    "name": "Murter",
+    "country": "HR",
+    "lat": 43.82043,
+    "lng": 15.58988
+  },
+  {
+    "name": "Murakeresztúr",
+    "country": "HU",
+    "lat": 46.36422,
+    "lng": 16.88177
+  },
+  {
+    "name": "Muara Soma",
+    "country": "ID",
+    "lat": 0.68842,
+    "lng": 99.36194
+  },
+  {
+    "name": "Muara Sipongi",
+    "country": "ID",
+    "lat": 0.56926,
+    "lng": 100.01266
+  },
+  {
+    "name": "Muara Siberut",
+    "country": "ID",
+    "lat": -1.59787,
+    "lng": 99.21097
+  },
+  {
+    "name": "Muara",
+    "country": "ID",
+    "lat": 2.33722,
+    "lng": 98.90539
+  },
+  {
+    "name": "Muraloka",
+    "country": "ID",
+    "lat": -8.77213,
+    "lng": 116.87932
+  },
+  {
+    "name": "Muntok",
+    "country": "ID",
+    "lat": -2.06719,
+    "lng": 105.16228
+  },
+  {
+    "name": "Muntilan",
+    "country": "ID",
+    "lat": -7.58111,
+    "lng": 110.29278
+  },
+  {
+    "name": "Munjungan",
+    "country": "ID",
+    "lat": -8.3031,
+    "lng": 111.5786
+  },
+  {
+    "name": "Munduk",
+    "country": "ID",
+    "lat": -8.26866,
+    "lng": 115.07947
+  },
+  {
+    "name": "Muncar",
+    "country": "ID",
+    "lat": -8.43333,
+    "lng": 114.33333
+  },
+  {
+    "name": "Muncang",
+    "country": "ID",
+    "lat": -6.5443,
+    "lng": 106.2911
+  },
+  {
+    "name": "Mulia",
+    "country": "ID",
+    "lat": -3.71472,
+    "lng": 137.98528
+  },
+  {
+    "name": "Mukomuko",
+    "country": "ID",
+    "lat": -2.5689,
+    "lng": 101.1118
+  },
+  {
+    "name": "Mujur",
+    "country": "ID",
+    "lat": -8.7617,
+    "lng": 116.3548
+  },
+  {
+    "name": "Muarauya",
+    "country": "ID",
+    "lat": -1.8875,
+    "lng": 115.595
+  },
+  {
+    "name": "Muara Teweh",
+    "country": "ID",
+    "lat": -0.94734,
+    "lng": 114.8962
+  },
+  {
+    "name": "Muara Tembesi",
+    "country": "ID",
+    "lat": -1.7109,
+    "lng": 103.1182
+  },
+  {
+    "name": "Muara Tebo",
+    "country": "ID",
+    "lat": -1.476,
+    "lng": 102.4435
+  },
+  {
+    "name": "Muara Siau",
+    "country": "ID",
+    "lat": -2.273,
+    "lng": 102.0998
+  },
+  {
+    "name": "Muara Sabak",
+    "country": "ID",
+    "lat": -1.13612,
+    "lng": 103.84987
+  },
+  {
+    "name": "Muararupit",
+    "country": "ID",
+    "lat": -2.7236,
+    "lng": 102.9108
+  },
+  {
+    "name": "Muarapinang",
+    "country": "ID",
+    "lat": -3.8503,
+    "lng": 103.0533
+  },
+  {
+    "name": "Muara Limun",
+    "country": "ID",
+    "lat": -2.3967,
+    "lng": 102.6389
+  },
+  {
+    "name": "Muara Lembu",
+    "country": "ID",
+    "lat": -0.3808,
+    "lng": 101.3395
+  },
+  {
+    "name": "Muaralakitan",
+    "country": "ID",
+    "lat": -2.8594,
+    "lng": 103.3039
+  },
+  {
+    "name": "Muaralabuh",
+    "country": "ID",
+    "lat": -1.4621,
+    "lng": 101.023
+  },
+  {
+    "name": "Muarakuang",
+    "country": "ID",
+    "lat": -3.66648,
+    "lng": 104.56717
+  },
+  {
+    "name": "Muarakomam",
+    "country": "ID",
+    "lat": -1.6785,
+    "lng": 115.8129
+  },
+  {
+    "name": "Muarajawa",
+    "country": "ID",
+    "lat": -0.63333,
+    "lng": 117.3
+  },
+  {
+    "name": "Muara Enim",
+    "country": "ID",
+    "lat": -3.6486,
+    "lng": 103.771
+  },
+  {
+    "name": "Muara Dua",
+    "country": "ID",
+    "lat": -4.53178,
+    "lng": 104.07397
+  },
+  {
+    "name": "Muara Bungo",
+    "country": "ID",
+    "lat": -1.49018,
+    "lng": 102.1149
+  },
+  {
+    "name": "Muara Bulian",
+    "country": "ID",
+    "lat": -1.71327,
+    "lng": 103.25902
+  },
+  {
+    "name": "Muara Beliti",
+    "country": "ID",
+    "lat": -3.2486,
+    "lng": 103.0335
+  },
+  {
+    "name": "Muarabadak",
+    "country": "ID",
+    "lat": -0.35085,
+    "lng": 117.43523
+  },
+  {
+    "name": "Muaro",
+    "country": "ID",
+    "lat": -0.66387,
+    "lng": 100.95818
+  },
+  {
+    "name": "Munse",
+    "country": "ID",
+    "lat": -4.0967,
+    "lng": 123.2519
+  },
+  {
+    "name": "Mungkid",
+    "country": "ID",
+    "lat": -7.5925,
+    "lng": 110.21889
+  },
+  {
+    "name": "Mulyosari",
+    "country": "ID",
+    "lat": -7.50735,
+    "lng": 108.78593
+  },
+  {
+    "name": "Muting",
+    "country": "ID",
+    "lat": -7.30759,
+    "lng": 140.55782
+  },
+  {
+    "name": "Mungkuruyam",
+    "country": "ID",
+    "lat": -2.2668,
+    "lng": 115.5759
+  },
+  {
+    "name": "Mullagh",
+    "country": "IE",
+    "lat": 53.81306,
+    "lng": -6.95139
+  },
+  {
+    "name": "Muff",
+    "country": "IE",
+    "lat": 55.06667,
+    "lng": -7.26667
+  },
+  {
+    "name": "Mulhuddart",
+    "country": "IE",
+    "lat": 53.40361,
+    "lng": -6.40111
+  },
+  {
+    "name": "Muṣmuṣ",
+    "country": "IL",
+    "lat": 32.54358,
+    "lng": 35.15619
+  },
+  {
+    "name": "Muqeibila",
+    "country": "IL",
+    "lat": 32.51424,
+    "lng": 35.29617
+  },
+  {
+    "name": "Muzaffarpur",
+    "country": "IN",
+    "lat": 26.12259,
+    "lng": 85.39055
+  },
+  {
+    "name": "Muzaffarnagar",
+    "country": "IN",
+    "lat": 29.47091,
+    "lng": 77.70332
+  },
+  {
+    "name": "Muttūr",
+    "country": "IN",
+    "lat": 11.04637,
+    "lng": 77.7363
+  },
+  {
+    "name": "Muthupet",
+    "country": "IN",
+    "lat": 10.39505,
+    "lng": 79.49353
+  },
+  {
+    "name": "Mustafābād",
+    "country": "IN",
+    "lat": 30.2022,
+    "lng": 77.14873
+  },
+  {
+    "name": "Mussoorie",
+    "country": "IN",
+    "lat": 30.45498,
+    "lng": 78.07068
+  },
+  {
+    "name": "Musiri",
+    "country": "IN",
+    "lat": 10.95299,
+    "lng": 78.44427
+  },
+  {
+    "name": "Mushābani",
+    "country": "IN",
+    "lat": 22.51135,
+    "lng": 86.45713
+  },
+  {
+    "name": "Musāfir-Khāna",
+    "country": "IN",
+    "lat": 26.37837,
+    "lng": 81.79607
+  },
+  {
+    "name": "Murwāra",
+    "country": "IN",
+    "lat": 23.83776,
+    "lng": 80.39405
+  },
+  {
+    "name": "Murud",
+    "country": "IN",
+    "lat": 18.32817,
+    "lng": 72.9621
+  },
+  {
+    "name": "Murtajāpur",
+    "country": "IN",
+    "lat": 20.73299,
+    "lng": 77.36694
+  },
+  {
+    "name": "Murshidābād",
+    "country": "IN",
+    "lat": 24.1839,
+    "lng": 88.27171
+  },
+  {
+    "name": "Mursān",
+    "country": "IN",
+    "lat": 27.57788,
+    "lng": 77.94091
+  },
+  {
+    "name": "Murlīganj",
+    "country": "IN",
+    "lat": 25.8969,
+    "lng": 86.99577
+  },
+  {
+    "name": "Muri",
+    "country": "IN",
+    "lat": 23.37074,
+    "lng": 85.86236
+  },
+  {
+    "name": "Murgūd",
+    "country": "IN",
+    "lat": 16.39604,
+    "lng": 74.19142
+  },
+  {
+    "name": "Murbād",
+    "country": "IN",
+    "lat": 19.25395,
+    "lng": 73.38993
+  },
+  {
+    "name": "Muragācha",
+    "country": "IN",
+    "lat": 23.53631,
+    "lng": 88.39425
+  },
+  {
+    "name": "Murādnagar",
+    "country": "IN",
+    "lat": 28.78069,
+    "lng": 77.49865
+  },
+  {
+    "name": "Munnar",
+    "country": "IN",
+    "lat": 10.08818,
+    "lng": 77.06239
+  },
+  {
+    "name": "Munirābād",
+    "country": "IN",
+    "lat": 15.30928,
+    "lng": 76.3383
+  },
+  {
+    "name": "Munger",
+    "country": "IN",
+    "lat": 25.37459,
+    "lng": 86.47455
+  },
+  {
+    "name": "Mungeli",
+    "country": "IN",
+    "lat": 22.06566,
+    "lng": 81.68543
+  },
+  {
+    "name": "Mungaoli",
+    "country": "IN",
+    "lat": 24.40837,
+    "lng": 78.09588
+  },
+  {
+    "name": "Mundra",
+    "country": "IN",
+    "lat": 22.83918,
+    "lng": 69.7219
+  },
+  {
+    "name": "Mundi",
+    "country": "IN",
+    "lat": 22.06693,
+    "lng": 76.49326
+  },
+  {
+    "name": "Mundgod",
+    "country": "IN",
+    "lat": 14.97144,
+    "lng": 75.03658
+  },
+  {
+    "name": "Mundargi",
+    "country": "IN",
+    "lat": 15.20677,
+    "lng": 75.8839
+  },
+  {
+    "name": "Multai",
+    "country": "IN",
+    "lat": 21.77463,
+    "lng": 78.25756
+  },
+  {
+    "name": "Mulgund",
+    "country": "IN",
+    "lat": 15.2807,
+    "lng": 75.52132
+  },
+  {
+    "name": "Mulbāgal",
+    "country": "IN",
+    "lat": 13.16352,
+    "lng": 78.39346
+  },
+  {
+    "name": "Muluppilagadu",
+    "country": "IN",
+    "lat": 11.79788,
+    "lng": 75.45111
+  },
+  {
+    "name": "Muktsar",
+    "country": "IN",
+    "lat": 30.47426,
+    "lng": 74.5166
+  },
+  {
+    "name": "Mukmelpur",
+    "country": "IN",
+    "lat": 28.79177,
+    "lng": 77.16296
+  },
+  {
+    "name": "Mukher",
+    "country": "IN",
+    "lat": 18.70636,
+    "lng": 77.36795
+  },
+  {
+    "name": "Mukeriān",
+    "country": "IN",
+    "lat": 31.95394,
+    "lng": 75.61716
+  },
+  {
+    "name": "Muhammadābād",
+    "country": "IN",
+    "lat": 27.30895,
+    "lng": 79.43252
+  },
+  {
+    "name": "Muhammadābād",
+    "country": "IN",
+    "lat": 26.03404,
+    "lng": 83.38114
+  },
+  {
+    "name": "Muhammadābād",
+    "country": "IN",
+    "lat": 25.61907,
+    "lng": 83.75576
+  },
+  {
+    "name": "Mugma",
+    "country": "IN",
+    "lat": 23.77015,
+    "lng": 86.72746
+  },
+  {
+    "name": "Mughal Sarāi",
+    "country": "IN",
+    "lat": 25.28307,
+    "lng": 83.11968
+  },
+  {
+    "name": "Mudukulathur",
+    "country": "IN",
+    "lat": 9.34169,
+    "lng": 78.51388
+  },
+  {
+    "name": "Mudki",
+    "country": "IN",
+    "lat": 30.78005,
+    "lng": 74.88106
+  },
+  {
+    "name": "Mudkhed",
+    "country": "IN",
+    "lat": 19.15657,
+    "lng": 77.50304
+  },
+  {
+    "name": "Mudgere",
+    "country": "IN",
+    "lat": 13.13353,
+    "lng": 75.6416
+  },
+  {
+    "name": "Mudhol",
+    "country": "IN",
+    "lat": 16.33354,
+    "lng": 75.28305
+  },
+  {
+    "name": "Mudgal",
+    "country": "IN",
+    "lat": 16.01191,
+    "lng": 76.44203
+  },
+  {
+    "name": "Muddebihāl",
+    "country": "IN",
+    "lat": 16.33782,
+    "lng": 76.13173
+  },
+  {
+    "name": "Muddanūru",
+    "country": "IN",
+    "lat": 14.68718,
+    "lng": 78.39309
+  },
+  {
+    "name": "Mubārikpur",
+    "country": "IN",
+    "lat": 30.61464,
+    "lng": 76.85586
+  },
+  {
+    "name": "Mubarakpur",
+    "country": "IN",
+    "lat": 26.08866,
+    "lng": 83.29088
+  },
+  {
+    "name": "Mukandgarh",
+    "country": "IN",
+    "lat": 27.95208,
+    "lng": 75.22431
+  },
+  {
+    "name": "Mumbai",
+    "country": "IN",
+    "lat": 19.07283,
+    "lng": 72.88261
+  },
+  {
+    "name": "Muttargi",
+    "country": "IN",
+    "lat": 17.54096,
+    "lng": 78.22715
+  },
+  {
+    "name": "Mullānwāla",
+    "country": "IN",
+    "lat": 31.06189,
+    "lng": 74.82277
+  },
+  {
+    "name": "Mugalivakkam",
+    "country": "IN",
+    "lat": 13.02054,
+    "lng": 80.16528
+  },
+  {
+    "name": "Murudeshwara",
+    "country": "IN",
+    "lat": 14.0943,
+    "lng": 74.4845
+  },
+  {
+    "name": "Muvattupuzha",
+    "country": "IN",
+    "lat": 9.97985,
+    "lng": 76.57381
+  },
+  {
+    "name": "Murhāri",
+    "country": "IN",
+    "lat": 24.17868,
+    "lng": 91.82333
+  },
+  {
+    "name": "Mushalpur",
+    "country": "IN",
+    "lat": 26.5792,
+    "lng": 91.4261
+  },
+  {
+    "name": "Mubārakpur Dobās",
+    "country": "IN",
+    "lat": 28.7098,
+    "lng": 77.03936
+  },
+  {
+    "name": "Mukandpur",
+    "country": "IN",
+    "lat": 28.73944,
+    "lng": 77.18315
+  },
+  {
+    "name": "Murādābād Pahāri",
+    "country": "IN",
+    "lat": 28.56456,
+    "lng": 77.15126
+  },
+  {
+    "name": "Mustafābād",
+    "country": "IN",
+    "lat": 28.71974,
+    "lng": 77.26781
+  },
+  {
+    "name": "Mulānpur",
+    "country": "IN",
+    "lat": 30.79997,
+    "lng": 76.74358
+  },
+  {
+    "name": "Murmāri",
+    "country": "IN",
+    "lat": 21.07292,
+    "lng": 79.82804
+  },
+  {
+    "name": "Munnūru",
+    "country": "IN",
+    "lat": 12.86163,
+    "lng": 75.01855
+  },
+  {
+    "name": "Munderi",
+    "country": "IN",
+    "lat": 11.93028,
+    "lng": 75.44546
+  },
+  {
+    "name": "Muhdal",
+    "country": "IN",
+    "lat": 31.68644,
+    "lng": 74.95124
+  },
+  {
+    "name": "Mutge",
+    "country": "IN",
+    "lat": 15.86561,
+    "lng": 74.59183
+  },
+  {
+    "name": "Mulavukad",
+    "country": "IN",
+    "lat": 10.0136,
+    "lng": 76.26306
+  },
+  {
+    "name": "Mullippattu",
+    "country": "IN",
+    "lat": 12.67014,
+    "lng": 79.25876
+  },
+  {
+    "name": "Muthutala",
+    "country": "IN",
+    "lat": 10.83544,
+    "lng": 76.15958
+  },
+  {
+    "name": "Mullasshēri",
+    "country": "IN",
+    "lat": 10.53328,
+    "lng": 76.08585
+  },
+  {
+    "name": "Mundathikōd",
+    "country": "IN",
+    "lat": 10.64457,
+    "lng": 76.19528
+  },
+  {
+    "name": "Muringur Vadakummuri",
+    "country": "IN",
+    "lat": 10.28901,
+    "lng": 76.33851
+  },
+  {
+    "name": "Muttukavundanpudūr",
+    "country": "IN",
+    "lat": 11.0498,
+    "lng": 77.11515
+  },
+  {
+    "name": "Murugampālaiyam",
+    "country": "IN",
+    "lat": 11.08063,
+    "lng": 77.32381
+  },
+  {
+    "name": "Muttanampālaiyam",
+    "country": "IN",
+    "lat": 11.08453,
+    "lng": 77.3969
+  },
+  {
+    "name": "Mukāsi Pidāriyūr",
+    "country": "IN",
+    "lat": 11.19554,
+    "lng": 77.60271
+  },
+  {
+    "name": "Mulakumūd",
+    "country": "IN",
+    "lat": 8.26809,
+    "lng": 77.28599
+  },
+  {
+    "name": "Mukkūdal",
+    "country": "IN",
+    "lat": 8.74312,
+    "lng": 77.5225
+  },
+  {
+    "name": "Muttayyāpuram",
+    "country": "IN",
+    "lat": 8.7498,
+    "lng": 78.13112
+  },
+  {
+    "name": "Mulugu",
+    "country": "IN",
+    "lat": 18.191,
+    "lng": 79.943
+  },
+  {
+    "name": "Mudalgi",
+    "country": "IN",
+    "lat": 16.33685,
+    "lng": 74.96768
+  },
+  {
+    "name": "Mulakuddu",
+    "country": "IN",
+    "lat": 17.91609,
+    "lng": 83.4488
+  },
+  {
+    "name": "Murakambattu",
+    "country": "IN",
+    "lat": 13.24631,
+    "lng": 79.11874
+  },
+  {
+    "name": "Murda",
+    "country": "IN",
+    "lat": 15.48022,
+    "lng": 73.85441
+  },
+  {
+    "name": "Muraidih",
+    "country": "IN",
+    "lat": 23.80984,
+    "lng": 86.23871
+  },
+  {
+    "name": "Mulur",
+    "country": "IN",
+    "lat": 12.93984,
+    "lng": 74.92761
+  },
+  {
+    "name": "Muduperar",
+    "country": "IN",
+    "lat": 12.97332,
+    "lng": 74.93779
+  },
+  {
+    "name": "Muthukulam",
+    "country": "IN",
+    "lat": 9.2168,
+    "lng": 76.4592
+  },
+  {
+    "name": "Mulamthuruthy",
+    "country": "IN",
+    "lat": 9.90032,
+    "lng": 76.38701
+  },
+  {
+    "name": "Muhamma",
+    "country": "IN",
+    "lat": 9.60886,
+    "lng": 76.36083
+  },
+  {
+    "name": "Mundamarai",
+    "country": "IN",
+    "lat": 19.63928,
+    "lng": 84.60133
+  },
+  {
+    "name": "Mukhiguda",
+    "country": "IN",
+    "lat": 19.44019,
+    "lng": 82.85051
+  },
+  {
+    "name": "Muzhucode",
+    "country": "IN",
+    "lat": 8.3619,
+    "lng": 77.2281
+  },
+  {
+    "name": "Mussomeli",
+    "country": "IT",
+    "lat": 37.58067,
+    "lng": 13.75214
+  },
+  {
+    "name": "Musei",
+    "country": "IT",
+    "lat": 39.30232,
+    "lng": 8.66613
+  },
+  {
+    "name": "Muravera",
+    "country": "IT",
+    "lat": 39.41972,
+    "lng": 9.57471
+  },
+  {
+    "name": "Muzzana del Turgnano",
+    "country": "IT",
+    "lat": 45.81799,
+    "lng": 13.12751
+  },
+  {
+    "name": "Musso",
+    "country": "IT",
+    "lat": 46.11295,
+    "lng": 9.27379
+  },
+  {
+    "name": "Musile di Piave",
+    "country": "IT",
+    "lat": 45.62057,
+    "lng": 12.54177
+  },
+  {
+    "name": "Musano",
+    "country": "IT",
+    "lat": 45.72646,
+    "lng": 12.11785
+  },
+  {
+    "name": "Muros",
+    "country": "IT",
+    "lat": 40.67902,
+    "lng": 8.6178
+  },
+  {
+    "name": "Muro Lucano",
+    "country": "IT",
+    "lat": 40.75379,
+    "lng": 15.48808
+  },
+  {
+    "name": "Muro Leccese",
+    "country": "IT",
+    "lat": 40.10286,
+    "lng": 18.33674
+  },
+  {
+    "name": "Murlo",
+    "country": "IT",
+    "lat": 43.16114,
+    "lng": 11.38794
+  },
+  {
+    "name": "Murisengo",
+    "country": "IT",
+    "lat": 45.08165,
+    "lng": 8.13554
+  },
+  {
+    "name": "Murialdo",
+    "country": "IT",
+    "lat": 44.31693,
+    "lng": 8.16815
+  },
+  {
+    "name": "Murazzano",
+    "country": "IT",
+    "lat": 44.47334,
+    "lng": 8.01938
+  },
+  {
+    "name": "Murano",
+    "country": "IT",
+    "lat": 45.45857,
+    "lng": 12.35683
+  },
+  {
+    "name": "Mura",
+    "country": "IT",
+    "lat": 45.71307,
+    "lng": 10.34204
+  },
+  {
+    "name": "Mulazzo",
+    "country": "IT",
+    "lat": 44.31564,
+    "lng": 9.89101
+  },
+  {
+    "name": "Mugnano di Napoli",
+    "country": "IT",
+    "lat": 40.90936,
+    "lng": 14.20984
+  },
+  {
+    "name": "Mugnano del Cardinale",
+    "country": "IT",
+    "lat": 40.94248,
+    "lng": 14.6361
+  },
+  {
+    "name": "Muggiò",
+    "country": "IT",
+    "lat": 45.58878,
+    "lng": 9.22784
+  },
+  {
+    "name": "Muggia",
+    "country": "IT",
+    "lat": 45.60419,
+    "lng": 13.76754
+  },
+  {
+    "name": "Muccia",
+    "country": "IT",
+    "lat": 43.08232,
+    "lng": 13.04323
+  },
+  {
+    "name": "Muscoline",
+    "country": "IT",
+    "lat": 45.56249,
+    "lng": 10.46187
+  },
+  {
+    "name": "Murello",
+    "country": "IT",
+    "lat": 44.75214,
+    "lng": 7.60093
+  },
+  {
+    "name": "Mussolente",
+    "country": "IT",
+    "lat": 45.7792,
+    "lng": 11.8062
+  },
+  {
+    "name": "Muzzano",
+    "country": "IT",
+    "lat": 45.56076,
+    "lng": 7.98892
+  },
+  {
+    "name": "Mulazzano",
+    "country": "IT",
+    "lat": 45.37237,
+    "lng": 9.39765
+  },
+  {
+    "name": "Musestre",
+    "country": "IT",
+    "lat": 45.58864,
+    "lng": 12.37249
+  },
+  {
+    "name": "Mussotto",
+    "country": "IT",
+    "lat": 44.71766,
+    "lng": 8.03404
+  },
+  {
+    "name": "Mulino",
+    "country": "IT",
+    "lat": 44.49257,
+    "lng": 11.04667
+  },
+  {
+    "name": "Musci",
+    "country": "IT",
+    "lat": 40.87861,
+    "lng": 14.366
+  },
+  {
+    "name": "Mure",
+    "country": "IT",
+    "lat": 45.73419,
+    "lng": 11.61065
+  },
+  {
+    "name": "Muzza di Cornegliano Laudense",
+    "country": "IT",
+    "lat": 45.28462,
+    "lng": 9.47166
+  },
+  {
+    "name": "Mulayḩ",
+    "country": "JO",
+    "lat": 31.58517,
+    "lng": 35.80716
+  },
+  {
+    "name": "Muthallath al Azraq",
+    "country": "JO",
+    "lat": 31.83269,
+    "lng": 36.81487
+  },
+  {
+    "name": "Muthallath Şabḩā",
+    "country": "JO",
+    "lat": 32.26011,
+    "lng": 36.4678
+  },
+  {
+    "name": "Muthallath Jāmi‘at Āl al Bayt",
+    "country": "JO",
+    "lat": 32.34592,
+    "lng": 36.23352
+  },
+  {
+    "name": "Musashino",
+    "country": "JP",
+    "lat": 35.70611,
+    "lng": 139.55944
+  },
+  {
+    "name": "Muroto-misakicho",
+    "country": "JP",
+    "lat": 33.28662,
+    "lng": 134.16832
+  },
+  {
+    "name": "Mure",
+    "country": "JP",
+    "lat": 36.75124,
+    "lng": 138.24018
+  },
+  {
+    "name": "Muramatsu",
+    "country": "JP",
+    "lat": 37.69257,
+    "lng": 139.17127
+  },
+  {
+    "name": "Murakami",
+    "country": "JP",
+    "lat": 38.23333,
+    "lng": 139.48333
+  },
+  {
+    "name": "Mukō",
+    "country": "JP",
+    "lat": 34.96545,
+    "lng": 135.70415
+  },
+  {
+    "name": "Mukai-awagasaki",
+    "country": "JP",
+    "lat": 36.63246,
+    "lng": 136.63726
+  },
+  {
+    "name": "Muikamachi",
+    "country": "JP",
+    "lat": 37.06667,
+    "lng": 138.88333
+  },
+  {
+    "name": "Mugiura",
+    "country": "JP",
+    "lat": 33.66585,
+    "lng": 134.42293
+  },
+  {
+    "name": "Murata",
+    "country": "JP",
+    "lat": 38.11858,
+    "lng": 140.72434
+  },
+  {
+    "name": "Mutsu",
+    "country": "JP",
+    "lat": 41.28944,
+    "lng": 141.21694
+  },
+  {
+    "name": "Muroran",
+    "country": "JP",
+    "lat": 42.31722,
+    "lng": 140.98806
+  },
+  {
+    "name": "Mukawa",
+    "country": "JP",
+    "lat": 42.57194,
+    "lng": 141.92639
+  },
+  {
+    "name": "Murayama",
+    "country": "JP",
+    "lat": 38.46972,
+    "lng": 140.41441
+  },
+  {
+    "name": "Musashimurayama",
+    "country": "JP",
+    "lat": 35.74242,
+    "lng": 139.42635
+  },
+  {
+    "name": "Munakata",
+    "country": "JP",
+    "lat": 33.7957,
+    "lng": 130.55895
+  },
+  {
+    "name": "Muroto",
+    "country": "JP",
+    "lat": 33.33282,
+    "lng": 134.14169
+  },
+  {
+    "name": "Murang’a",
+    "country": "KE",
+    "lat": -0.72104,
+    "lng": 37.15259
+  },
+  {
+    "name": "Mumias",
+    "country": "KE",
+    "lat": 0.33474,
+    "lng": 34.48796
+  },
+  {
+    "name": "Mulot",
+    "country": "KE",
+    "lat": -0.93752,
+    "lng": 35.42162
+  },
+  {
+    "name": "Muhoroni",
+    "country": "KE",
+    "lat": -0.15816,
+    "lng": 35.19645
+  },
+  {
+    "name": "Mukurwe-ini",
+    "country": "KE",
+    "lat": -0.56092,
+    "lng": 37.04759
+  },
+  {
+    "name": "Muhuru",
+    "country": "KE",
+    "lat": -0.99862,
+    "lng": 34.09614
+  },
+  {
+    "name": "Muchorwi",
+    "country": "KE",
+    "lat": -0.3299,
+    "lng": 35.68751
+  },
+  {
+    "name": "Mukh Kampul",
+    "country": "KH",
+    "lat": 11.73577,
+    "lng": 104.97713
+  },
+  {
+    "name": "Musan-ŭp",
+    "country": "KP",
+    "lat": 42.22609,
+    "lng": 129.20776
+  },
+  {
+    "name": "Munsan",
+    "country": "KR",
+    "lat": 37.85944,
+    "lng": 126.785
+  },
+  {
+    "name": "Mungyeong",
+    "country": "KR",
+    "lat": 36.59458,
+    "lng": 128.19946
+  },
+  {
+    "name": "Mungyeong",
+    "country": "KR",
+    "lat": 36.73528,
+    "lng": 128.10833
+  },
+  {
+    "name": "Muan",
+    "country": "KR",
+    "lat": 34.99014,
+    "lng": 126.47899
+  },
+  {
+    "name": "Mundeok",
+    "country": "KR",
+    "lat": 34.92966,
+    "lng": 127.17236
+  },
+  {
+    "name": "Mubārak al Kabīr",
+    "country": "KW",
+    "lat": 29.18979,
+    "lng": 48.08716
+  },
+  {
+    "name": "Munayshy",
+    "country": "KZ",
+    "lat": 43.49988,
+    "lng": 52.09745
+  },
+  {
+    "name": "Muang Xay",
+    "country": "LA",
+    "lat": 20.69229,
+    "lng": 101.98368
+  },
+  {
+    "name": "Muang Sing",
+    "country": "LA",
+    "lat": 21.19206,
+    "lng": 101.14789
+  },
+  {
+    "name": "Muang Sanakham",
+    "country": "LA",
+    "lat": 17.91006,
+    "lng": 101.67348
+  },
+  {
+    "name": "Muang Phônsavan",
+    "country": "LA",
+    "lat": 19.4494,
+    "lng": 103.1917
+  },
+  {
+    "name": "Muang Phôn-Hông",
+    "country": "LA",
+    "lat": 18.4953,
+    "lng": 102.4153
+  },
+  {
+    "name": "Muang Phin",
+    "country": "LA",
+    "lat": 16.53399,
+    "lng": 106.02401
+  },
+  {
+    "name": "Muang Mok",
+    "country": "LA",
+    "lat": 18.90997,
+    "lng": 104.00626
+  },
+  {
+    "name": "Muang Long",
+    "country": "LA",
+    "lat": 20.96504,
+    "lng": 100.82074
+  },
+  {
+    "name": "Muang Không",
+    "country": "LA",
+    "lat": 14.11785,
+    "lng": 105.85469
+  },
+  {
+    "name": "Muang Kènthao",
+    "country": "LA",
+    "lat": 17.73289,
+    "lng": 101.39815
+  },
+  {
+    "name": "Muang Kasi",
+    "country": "LA",
+    "lat": 19.22926,
+    "lng": 102.25319
+  },
+  {
+    "name": "Muang Hinboun",
+    "country": "LA",
+    "lat": 17.591,
+    "lng": 104.60388
+  },
+  {
+    "name": "Muang Khamkeut",
+    "country": "LA",
+    "lat": 18.22572,
+    "lng": 104.73119
+  },
+  {
+    "name": "Muang Nalè",
+    "country": "LA",
+    "lat": 20.53212,
+    "lng": 101.44678
+  },
+  {
+    "name": "Mulleriyawa",
+    "country": "LK",
+    "lat": 6.933,
+    "lng": 79.9297
+  },
+  {
+    "name": "Muhlenbach",
+    "country": "LU",
+    "lat": 49.63167,
+    "lng": 6.11917
+  },
+  {
+    "name": "Mukhaylá",
+    "country": "LY",
+    "lat": 32.16005,
+    "lng": 22.27845
+  },
+  {
+    "name": "Murzuk",
+    "country": "LY",
+    "lat": 25.91552,
+    "lng": 13.91839
+  },
+  {
+    "name": "Murtino",
+    "country": "MK",
+    "lat": 41.41537,
+    "lng": 22.72589
+  },
+  {
+    "name": "Mu-se",
+    "country": "MM",
+    "lat": 23.99742,
+    "lng": 97.90109
+  },
+  {
+    "name": "Mudon",
+    "country": "MM",
+    "lat": 16.25624,
+    "lng": 97.7246
+  },
+  {
+    "name": "Munxar",
+    "country": "MT",
+    "lat": 36.03048,
+    "lng": 14.23469
+  },
+  {
+    "name": "Muli",
+    "country": "MV",
+    "lat": 2.92167,
+    "lng": 73.58111
+  },
+  {
+    "name": "Mulanje",
+    "country": "MW",
+    "lat": -16.03163,
+    "lng": 35.5
+  },
+  {
+    "name": "Muxupip",
+    "country": "MX",
+    "lat": 21.04257,
+    "lng": -89.32901
+  },
+  {
+    "name": "Muna",
+    "country": "MX",
+    "lat": 20.48794,
+    "lng": -89.71387
+  },
+  {
+    "name": "Multé",
+    "country": "MX",
+    "lat": 17.68758,
+    "lng": -91.37893
+  },
+  {
+    "name": "Munitepec de Madero",
+    "country": "MX",
+    "lat": 20.12858,
+    "lng": -99.19948
+  },
+  {
+    "name": "Muñoz",
+    "country": "MX",
+    "lat": 19.47458,
+    "lng": -98.20963
+  },
+  {
+    "name": "Mundo Nuevo",
+    "country": "MX",
+    "lat": 18.08831,
+    "lng": -94.39024
+  },
+  {
+    "name": "Mulegé",
+    "country": "MX",
+    "lat": 26.89141,
+    "lng": -111.9826
+  },
+  {
+    "name": "Muquén",
+    "country": "MX",
+    "lat": 16.80641,
+    "lng": -92.61006
+  },
+  {
+    "name": "Muar",
+    "country": "MY",
+    "lat": 2.0442,
+    "lng": 102.5689
+  },
+  {
+    "name": "Mukah",
+    "country": "MY",
+    "lat": 2.89435,
+    "lng": 112.09145
+  },
+  {
+    "name": "Mulu",
+    "country": "MY",
+    "lat": 1.68333,
+    "lng": 111.38333
+  },
+  {
+    "name": "Muadzam Shah",
+    "country": "MY",
+    "lat": 3.0627,
+    "lng": 103.0892
+  },
+  {
+    "name": "Mukim Pulai",
+    "country": "MY",
+    "lat": 1.53333,
+    "lng": 103.66667
+  },
+  {
+    "name": "Mukim Tioman",
+    "country": "MY",
+    "lat": 2.7825,
+    "lng": 104.17
+  },
+  {
+    "name": "Mutiara Damansara",
+    "country": "MY",
+    "lat": 3.15724,
+    "lng": 101.60822
+  },
+  {
+    "name": "Murrupula",
+    "country": "MZ",
+    "lat": -15.45694,
+    "lng": 38.67722
+  },
+  {
+    "name": "Mueda",
+    "country": "MZ",
+    "lat": -11.66278,
+    "lng": 39.55056
+  },
+  {
+    "name": "Mutuáli",
+    "country": "MZ",
+    "lat": -14.87056,
+    "lng": 37.00444
+  },
+  {
+    "name": "Mutum Biyu",
+    "country": "NG",
+    "lat": 8.64138,
+    "lng": 10.77355
+  },
+  {
+    "name": "Mushin",
+    "country": "NG",
+    "lat": 6.52799,
+    "lng": 3.35411
+  },
+  {
+    "name": "Musawa",
+    "country": "NG",
+    "lat": 12.12949,
+    "lng": 7.67023
+  },
+  {
+    "name": "Mubi",
+    "country": "NG",
+    "lat": 10.26858,
+    "lng": 13.26701
+  },
+  {
+    "name": "Muy Muy",
+    "country": "NI",
+    "lat": 12.76224,
+    "lng": -85.62915
+  },
+  {
+    "name": "Murra",
+    "country": "NI",
+    "lat": 13.7585,
+    "lng": -86.01843
+  },
+  {
+    "name": "Mulukukú",
+    "country": "NI",
+    "lat": 13.17611,
+    "lng": -84.95522
+  },
+  {
+    "name": "Muelle de los Bueyes",
+    "country": "NI",
+    "lat": 12.06999,
+    "lng": -84.53503
+  },
+  {
+    "name": "Munstergeleen",
+    "country": "NL",
+    "lat": 50.975,
+    "lng": 5.86389
+  },
+  {
+    "name": "Muiderberg",
+    "country": "NL",
+    "lat": 52.32583,
+    "lng": 5.12083
+  },
+  {
+    "name": "Muiden",
+    "country": "NL",
+    "lat": 52.33,
+    "lng": 5.06944
+  },
+  {
+    "name": "Muschberg en Geestenberg",
+    "country": "NL",
+    "lat": 51.44384,
+    "lng": 5.52329
+  },
+  {
+    "name": "Murupara",
+    "country": "NZ",
+    "lat": -38.46667,
+    "lng": 176.7
+  },
+  {
+    "name": "Muriwai Beach",
+    "country": "NZ",
+    "lat": -36.83659,
+    "lng": 174.43298
+  },
+  {
+    "name": "Musselburgh",
+    "country": "NZ",
+    "lat": -45.89662,
+    "lng": 170.5145
+  },
+  {
+    "name": "Murrays Bay",
+    "country": "NZ",
+    "lat": -36.72819,
+    "lng": 174.75019
+  },
+  {
+    "name": "Muscat",
+    "country": "OM",
+    "lat": 23.58413,
+    "lng": 58.40778
+  },
+  {
+    "name": "Mulatupo",
+    "country": "PA",
+    "lat": 8.94672,
+    "lng": -77.7508
+  },
+  {
+    "name": "Muquiyauyo",
+    "country": "PE",
+    "lat": -11.81371,
+    "lng": -75.45482
+  },
+  {
+    "name": "Muqui",
+    "country": "PE",
+    "lat": -11.83364,
+    "lng": -75.43462
+  },
+  {
+    "name": "Mungui",
+    "country": "PE",
+    "lat": -15.18278,
+    "lng": -72.90556
+  },
+  {
+    "name": "Muñani",
+    "country": "PE",
+    "lat": -14.76794,
+    "lng": -69.9526
+  },
+  {
+    "name": "Mucllo",
+    "country": "PE",
+    "lat": -11.61926,
+    "lng": -75.08968
+  },
+  {
+    "name": "Musga",
+    "country": "PE",
+    "lat": -8.9063,
+    "lng": -77.33892
+  },
+  {
+    "name": "Muti",
+    "country": "PH",
+    "lat": 7.27583,
+    "lng": 122.28
+  },
+  {
+    "name": "Muricay",
+    "country": "PH",
+    "lat": 7.8275,
+    "lng": 123.4782
+  },
+  {
+    "name": "Murcia",
+    "country": "PH",
+    "lat": 15.40425,
+    "lng": 120.60903
+  },
+  {
+    "name": "Murcia",
+    "country": "PH",
+    "lat": 10.60516,
+    "lng": 123.0417
+  },
+  {
+    "name": "Muntinlupa",
+    "country": "PH",
+    "lat": 14.39028,
+    "lng": 121.0475
+  },
+  {
+    "name": "Muñoz East",
+    "country": "PH",
+    "lat": 17.15754,
+    "lng": 121.61354
+  },
+  {
+    "name": "Muñoz",
+    "country": "PH",
+    "lat": 15.71611,
+    "lng": 120.90306
+  },
+  {
+    "name": "Mungo",
+    "country": "PH",
+    "lat": 17.72412,
+    "lng": 121.47096
+  },
+  {
+    "name": "Munai",
+    "country": "PH",
+    "lat": 7.97583,
+    "lng": 124.06361
+  },
+  {
+    "name": "Mulauin",
+    "country": "PH",
+    "lat": 13.86667,
+    "lng": 121.01667
+  },
+  {
+    "name": "Mulanay",
+    "country": "PH",
+    "lat": 13.52222,
+    "lng": 122.40417
+  },
+  {
+    "name": "Muladbucad",
+    "country": "PH",
+    "lat": 13.2389,
+    "lng": 123.6057
+  },
+  {
+    "name": "Muzaffargarh",
+    "country": "PK",
+    "lat": 30.07258,
+    "lng": 71.19379
+  },
+  {
+    "name": "Muzaffarābād",
+    "country": "PK",
+    "lat": 34.37002,
+    "lng": 73.47082
+  },
+  {
+    "name": "Mustafabad",
+    "country": "PK",
+    "lat": 30.89222,
+    "lng": 73.49889
+  },
+  {
+    "name": "Musa Khel Bazar",
+    "country": "PK",
+    "lat": 30.85944,
+    "lng": 69.82208
+  },
+  {
+    "name": "Murree",
+    "country": "PK",
+    "lat": 33.90836,
+    "lng": 73.3903
+  },
+  {
+    "name": "Muridke",
+    "country": "PK",
+    "lat": 31.80258,
+    "lng": 74.25772
+  },
+  {
+    "name": "Multan",
+    "country": "PK",
+    "lat": 30.19679,
+    "lng": 71.47824
+  },
+  {
+    "name": "Musa Banda/Musa khan kallay",
+    "country": "PK",
+    "lat": 34.03374,
+    "lng": 72.48176
+  },
+  {
+    "name": "Muhammad Moryal Sahito Jo Goth",
+    "country": "PK",
+    "lat": 27.16825,
+    "lng": 68.40328
+  },
+  {
+    "name": "Mughalabad",
+    "country": "PK",
+    "lat": 33.89731,
+    "lng": 73.42545
+  },
+  {
+    "name": "Muhammad Pur",
+    "country": "PK",
+    "lat": 30.71015,
+    "lng": 73.01782
+  },
+  {
+    "name": "Muszyna",
+    "country": "PL",
+    "lat": 49.35661,
+    "lng": 20.89718
+  },
+  {
+    "name": "Murzasichle",
+    "country": "PL",
+    "lat": 49.30207,
+    "lng": 20.04009
+  },
+  {
+    "name": "Murowana Goślina",
+    "country": "PL",
+    "lat": 52.57463,
+    "lng": 17.00933
+  },
+  {
+    "name": "Murów",
+    "country": "PL",
+    "lat": 50.86307,
+    "lng": 17.94557
+  },
+  {
+    "name": "Murcki",
+    "country": "PL",
+    "lat": 50.20036,
+    "lng": 19.04351
+  },
+  {
+    "name": "Mucarabones",
+    "country": "PR",
+    "lat": 18.39078,
+    "lng": -66.216
+  },
+  {
+    "name": "Murtosa",
+    "country": "PT",
+    "lat": 40.73695,
+    "lng": -8.6377
+  },
+  {
+    "name": "Murça",
+    "country": "PT",
+    "lat": 41.406,
+    "lng": -7.45485
+  },
+  {
+    "name": "Musay‘īd",
+    "country": "QA",
+    "lat": 24.99226,
+    "lng": 51.55067
+  },
+  {
+    "name": "Mu‘aydhir Rawḑat Rāshid",
+    "country": "QA",
+    "lat": 25.2617,
+    "lng": 51.39684
+  },
+  {
+    "name": "Mușătești",
+    "country": "RO",
+    "lat": 45.21651,
+    "lng": 24.77941
+  },
+  {
+    "name": "Muşeteşti",
+    "country": "RO",
+    "lat": 45.15,
+    "lng": 23.46667
+  },
+  {
+    "name": "Muşeniţa",
+    "country": "RO",
+    "lat": 47.96667,
+    "lng": 26.0
+  },
+  {
+    "name": "Murighiol",
+    "country": "RO",
+    "lat": 45.03333,
+    "lng": 29.16667
+  },
+  {
+    "name": "Murgeşti",
+    "country": "RO",
+    "lat": 45.4,
+    "lng": 26.88333
+  },
+  {
+    "name": "Murgeni",
+    "country": "RO",
+    "lat": 46.20444,
+    "lng": 28.01972
+  },
+  {
+    "name": "Murgași",
+    "country": "RO",
+    "lat": 44.49968,
+    "lng": 23.86698
+  },
+  {
+    "name": "Murfatlar",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 28.41667
+  },
+  {
+    "name": "Muntenii de Sus",
+    "country": "RO",
+    "lat": 46.68968,
+    "lng": 27.77763
+  },
+  {
+    "name": "Muntenii de Jos",
+    "country": "RO",
+    "lat": 46.61667,
+    "lng": 27.76667
+  },
+  {
+    "name": "Munteni Buzău",
+    "country": "RO",
+    "lat": 44.63333,
+    "lng": 26.98333
+  },
+  {
+    "name": "Munteni",
+    "country": "RO",
+    "lat": 47.3153,
+    "lng": 27.13839
+  },
+  {
+    "name": "Munteni",
+    "country": "RO",
+    "lat": 45.93333,
+    "lng": 27.43333
+  },
+  {
+    "name": "Muntele Mic",
+    "country": "RO",
+    "lat": 45.38333,
+    "lng": 22.33333
+  },
+  {
+    "name": "Muncelu de Sus",
+    "country": "RO",
+    "lat": 47.12384,
+    "lng": 26.73518
+  },
+  {
+    "name": "Mugeni",
+    "country": "RO",
+    "lat": 46.25,
+    "lng": 25.21667
+  },
+  {
+    "name": "Muereasca",
+    "country": "RO",
+    "lat": 45.18739,
+    "lng": 24.31562
+  },
+  {
+    "name": "Muyezerskiy",
+    "country": "RU",
+    "lat": 63.95758,
+    "lng": 31.98738
+  },
+  {
+    "name": "Mutsalaul",
+    "country": "RU",
+    "lat": 43.27548,
+    "lng": 46.73078
+  },
+  {
+    "name": "Muslyumovo",
+    "country": "RU",
+    "lat": 55.30706,
+    "lng": 53.18855
+  },
+  {
+    "name": "Murygino",
+    "country": "RU",
+    "lat": 58.73831,
+    "lng": 49.45822
+  },
+  {
+    "name": "Murom",
+    "country": "RU",
+    "lat": 55.56853,
+    "lng": 42.02388
+  },
+  {
+    "name": "Murmino",
+    "country": "RU",
+    "lat": 54.6043,
+    "lng": 40.0549
+  },
+  {
+    "name": "Murmashi",
+    "country": "RU",
+    "lat": 68.81542,
+    "lng": 32.81147
+  },
+  {
+    "name": "Murmansk",
+    "country": "RU",
+    "lat": 68.96778,
+    "lng": 33.09922
+  },
+  {
+    "name": "Murino",
+    "country": "RU",
+    "lat": 60.04796,
+    "lng": 30.45204
+  },
+  {
+    "name": "Murashi",
+    "country": "RU",
+    "lat": 59.3984,
+    "lng": 48.96374
+  },
+  {
+    "name": "Muranovo",
+    "country": "RU",
+    "lat": 56.18333,
+    "lng": 37.9
+  },
+  {
+    "name": "Mumra",
+    "country": "RU",
+    "lat": 45.77251,
+    "lng": 47.65398
+  },
+  {
+    "name": "Mullovka",
+    "country": "RU",
+    "lat": 54.2,
+    "lng": 49.4
+  },
+  {
+    "name": "Mulino",
+    "country": "RU",
+    "lat": 56.28923,
+    "lng": 42.92005
+  },
+  {
+    "name": "Mukhtolovo",
+    "country": "RU",
+    "lat": 55.46751,
+    "lng": 43.19973
+  },
+  {
+    "name": "Mugi",
+    "country": "RU",
+    "lat": 42.29944,
+    "lng": 47.42077
+  },
+  {
+    "name": "Muchkapskiy",
+    "country": "RU",
+    "lat": 51.85094,
+    "lng": 42.47648
+  },
+  {
+    "name": "Mursalimkino",
+    "country": "RU",
+    "lat": 55.0379,
+    "lng": 58.5585
+  },
+  {
+    "name": "Muzhi",
+    "country": "RU",
+    "lat": 65.4003,
+    "lng": 64.70278
+  },
+  {
+    "name": "Muslyumovo",
+    "country": "RU",
+    "lat": 55.6133,
+    "lng": 61.626
+  },
+  {
+    "name": "Muromtsevo",
+    "country": "RU",
+    "lat": 56.36919,
+    "lng": 75.25044
+  },
+  {
+    "name": "Mundybash",
+    "country": "RU",
+    "lat": 53.211,
+    "lng": 87.2983
+  },
+  {
+    "name": "Mugur-Aksy",
+    "country": "RU",
+    "lat": 50.38072,
+    "lng": 90.43739
+  },
+  {
+    "name": "Muravlenko",
+    "country": "RU",
+    "lat": 63.78977,
+    "lng": 74.52301
+  },
+  {
+    "name": "Mukhorshibir’",
+    "country": "RU",
+    "lat": 51.04986,
+    "lng": 107.82997
+  },
+  {
+    "name": "Mukhen",
+    "country": "RU",
+    "lat": 48.19781,
+    "lng": 136.12428
+  },
+  {
+    "name": "Mugun",
+    "country": "RU",
+    "lat": 54.47143,
+    "lng": 100.24831
+  },
+  {
+    "name": "Muromtsevo",
+    "country": "RU",
+    "lat": 55.93096,
+    "lng": 40.90738
+  },
+  {
+    "name": "Musanze",
+    "country": "RW",
+    "lat": -1.49984,
+    "lng": 29.63497
+  },
+  {
+    "name": "Muhanga",
+    "country": "RW",
+    "lat": -2.02269,
+    "lng": 29.70691
+  },
+  {
+    "name": "Mugina",
+    "country": "RW",
+    "lat": -2.1057,
+    "lng": 29.9417
+  },
+  {
+    "name": "Mukamira",
+    "country": "RW",
+    "lat": -1.61112,
+    "lng": 29.49687
+  },
+  {
+    "name": "Mukingo",
+    "country": "RW",
+    "lat": -1.5394,
+    "lng": 29.5558
+  },
+  {
+    "name": "Mulayjah",
+    "country": "SA",
+    "lat": 27.27103,
+    "lng": 48.42419
+  },
+  {
+    "name": "Munda",
+    "country": "SB",
+    "lat": -8.32799,
+    "lng": 157.26652
+  },
+  {
+    "name": "Munkfors",
+    "country": "SE",
+    "lat": 59.83856,
+    "lng": 13.54361
+  },
+  {
+    "name": "Munkedal",
+    "country": "SE",
+    "lat": 58.46634,
+    "lng": 11.67345
+  },
+  {
+    "name": "Munka-Ljungby",
+    "country": "SE",
+    "lat": 56.25,
+    "lng": 12.96667
+  },
+  {
+    "name": "Mullsjö",
+    "country": "SE",
+    "lat": 57.9171,
+    "lng": 13.87831
+  },
+  {
+    "name": "Muta",
+    "country": "SI",
+    "lat": 46.6116,
+    "lng": 15.16624
+  },
+  {
+    "name": "Murska Sobota",
+    "country": "SI",
+    "lat": 46.66264,
+    "lng": 16.16643
+  },
+  {
+    "name": "Mužla",
+    "country": "SK",
+    "lat": 47.79302,
+    "lng": 18.59931
+  },
+  {
+    "name": "Murata",
+    "country": "SM",
+    "lat": 43.92015,
+    "lng": 12.45146
+  },
+  {
+    "name": "Mukharram al Fawqānī",
+    "country": "SY",
+    "lat": 34.81521,
+    "lng": 37.08677
+  },
+  {
+    "name": "Muḩambal",
+    "country": "SY",
+    "lat": 35.78735,
+    "lng": 36.4721
+  },
+  {
+    "name": "Mueang Pan",
+    "country": "TH",
+    "lat": 18.76803,
+    "lng": 99.5025
+  },
+  {
+    "name": "Mueang Yang",
+    "country": "TH",
+    "lat": 15.4206,
+    "lng": 102.89282
+  },
+  {
+    "name": "Mueang Chan",
+    "country": "TH",
+    "lat": 15.15951,
+    "lng": 104.03615
+  },
+  {
+    "name": "Mueang Nonthaburi",
+    "country": "TH",
+    "lat": 13.86075,
+    "lng": 100.51477
+  },
+  {
+    "name": "Mukdahan",
+    "country": "TH",
+    "lat": 16.54531,
+    "lng": 104.72351
+  },
+  {
+    "name": "Mueang Suang",
+    "country": "TH",
+    "lat": 15.82192,
+    "lng": 103.72884
+  },
+  {
+    "name": "Muang Sam Sip",
+    "country": "TH",
+    "lat": 15.51307,
+    "lng": 104.72565
+  },
+  {
+    "name": "Muak Lek",
+    "country": "TH",
+    "lat": 14.65287,
+    "lng": 101.20022
+  },
+  {
+    "name": "Muban Thep Thani",
+    "country": "TH",
+    "lat": 13.69919,
+    "lng": 100.69406
+  },
+  {
+    "name": "Mueang Phuket",
+    "country": "TH",
+    "lat": 7.86338,
+    "lng": 98.36437
+  },
+  {
+    "name": "Murghob",
+    "country": "TJ",
+    "lat": 38.17023,
+    "lng": 73.96674
+  },
+  {
+    "name": "Murgab",
+    "country": "TM",
+    "lat": 37.49656,
+    "lng": 61.97142
+  },
+  {
+    "name": "Mutki",
+    "country": "TR",
+    "lat": 38.40624,
+    "lng": 41.92018
+  },
+  {
+    "name": "Mut",
+    "country": "TR",
+    "lat": 36.64389,
+    "lng": 33.43885
+  },
+  {
+    "name": "Mustafabeyli",
+    "country": "TR",
+    "lat": 37.07936,
+    "lng": 36.07233
+  },
+  {
+    "name": "Musabeyli",
+    "country": "TR",
+    "lat": 39.83306,
+    "lng": 34.62306
+  },
+  {
+    "name": "Musabeyli",
+    "country": "TR",
+    "lat": 36.88639,
+    "lng": 36.91861
+  },
+  {
+    "name": "Muş",
+    "country": "TR",
+    "lat": 38.73163,
+    "lng": 41.48482
+  },
+  {
+    "name": "Mursal",
+    "country": "TR",
+    "lat": 39.16778,
+    "lng": 37.95694
+  },
+  {
+    "name": "Muratlı",
+    "country": "TR",
+    "lat": 36.96167,
+    "lng": 40.10056
+  },
+  {
+    "name": "Murat",
+    "country": "TR",
+    "lat": 39.67281,
+    "lng": 43.23952
+  },
+  {
+    "name": "Muradiye",
+    "country": "TR",
+    "lat": 38.98568,
+    "lng": 43.7531
+  },
+  {
+    "name": "Muradiye",
+    "country": "TR",
+    "lat": 38.66025,
+    "lng": 27.33836
+  },
+  {
+    "name": "Muğla",
+    "country": "TR",
+    "lat": 37.21807,
+    "lng": 28.3665
+  },
+  {
+    "name": "Mucur",
+    "country": "TR",
+    "lat": 39.06147,
+    "lng": 34.38286
+  },
+  {
+    "name": "Mustafakemalpaşa",
+    "country": "TR",
+    "lat": 40.03815,
+    "lng": 28.40866
+  },
+  {
+    "name": "Muratlı",
+    "country": "TR",
+    "lat": 41.47405,
+    "lng": 41.70647
+  },
+  {
+    "name": "Muratlı",
+    "country": "TR",
+    "lat": 41.17216,
+    "lng": 27.4992
+  },
+  {
+    "name": "Muncurlu",
+    "country": "TR",
+    "lat": 40.81599,
+    "lng": 31.25804
+  },
+  {
+    "name": "Muharremşah",
+    "country": "TR",
+    "lat": 41.3635,
+    "lng": 32.19567
+  },
+  {
+    "name": "Mudurnu",
+    "country": "TR",
+    "lat": 40.473,
+    "lng": 31.20755
+  },
+  {
+    "name": "Mudanya",
+    "country": "TR",
+    "lat": 40.37524,
+    "lng": 28.8838
+  },
+  {
+    "name": "Murgul",
+    "country": "TR",
+    "lat": 41.28049,
+    "lng": 41.56438
+  },
+  {
+    "name": "Muratbey",
+    "country": "TR",
+    "lat": 41.0963,
+    "lng": 28.49227
+  },
+  {
+    "name": "Mustafalar",
+    "country": "TR",
+    "lat": 37.11411,
+    "lng": 35.51107
+  },
+  {
+    "name": "Muratpaşa",
+    "country": "TR",
+    "lat": 36.89157,
+    "lng": 30.76498
+  },
+  {
+    "name": "Mutaflar",
+    "country": "TR",
+    "lat": 37.61089,
+    "lng": 28.08831
+  },
+  {
+    "name": "Mucurapo",
+    "country": "TT",
+    "lat": 10.66253,
+    "lng": -61.53697
+  },
+  {
+    "name": "Musoma",
+    "country": "TZ",
+    "lat": -1.5,
+    "lng": 33.8
+  },
+  {
+    "name": "Muriti",
+    "country": "TZ",
+    "lat": -1.98333,
+    "lng": 32.91667
+  },
+  {
+    "name": "Mungaa",
+    "country": "TZ",
+    "lat": -4.96667,
+    "lng": 34.88333
+  },
+  {
+    "name": "Muleba",
+    "country": "TZ",
+    "lat": -1.83972,
+    "lng": 31.65444
+  },
+  {
+    "name": "Muheza",
+    "country": "TZ",
+    "lat": -5.16667,
+    "lng": 38.78333
+  },
+  {
+    "name": "Mugumu",
+    "country": "TZ",
+    "lat": -1.85,
+    "lng": 34.7
+  },
+  {
+    "name": "Mugango",
+    "country": "TZ",
+    "lat": -1.68333,
+    "lng": 33.7
+  },
+  {
+    "name": "Murafa",
+    "country": "UA",
+    "lat": 48.76734,
+    "lng": 28.21519
+  },
+  {
+    "name": "Muzhiievo",
+    "country": "UA",
+    "lat": 48.17856,
+    "lng": 22.70229
+  },
+  {
+    "name": "Muskatnoye",
+    "country": "UA",
+    "lat": 45.46586,
+    "lng": 34.54316
+  },
+  {
+    "name": "Murovani Kurylivtsi",
+    "country": "UA",
+    "lat": 48.71813,
+    "lng": 27.53084
+  },
+  {
+    "name": "Murovane",
+    "country": "UA",
+    "lat": 49.52143,
+    "lng": 22.9367
+  },
+  {
+    "name": "Muravlivka",
+    "country": "UA",
+    "lat": 45.56347,
+    "lng": 29.15678
+  },
+  {
+    "name": "Mukachevo",
+    "country": "UA",
+    "lat": 48.44248,
+    "lng": 22.718
+  },
+  {
+    "name": "Muromskoye",
+    "country": "UA",
+    "lat": 45.09051,
+    "lng": 34.849
+  },
+  {
+    "name": "Mukono",
+    "country": "UG",
+    "lat": 0.35333,
+    "lng": 32.75528
+  },
+  {
+    "name": "Muhororo",
+    "country": "UG",
+    "lat": 0.93806,
+    "lng": 30.75944
+  },
+  {
+    "name": "Mubende",
+    "country": "UG",
+    "lat": 0.55849,
+    "lng": 31.39489
+  },
+  {
+    "name": "Muhorro",
+    "country": "UG",
+    "lat": 0.91513,
+    "lng": 30.75078
+  },
+  {
+    "name": "Munford",
+    "country": "US",
+    "lat": 33.52983,
+    "lng": -85.9508
+  },
+  {
+    "name": "Muscle Shoals",
+    "country": "US",
+    "lat": 34.74481,
+    "lng": -87.66753
+  },
+  {
+    "name": "Mulberry",
+    "country": "US",
+    "lat": 35.50064,
+    "lng": -94.05159
+  },
+  {
+    "name": "Murfreesboro",
+    "country": "US",
+    "lat": 34.06233,
+    "lng": -93.6899
+  },
+  {
+    "name": "Mulberry",
+    "country": "US",
+    "lat": 27.8953,
+    "lng": -81.97342
+  },
+  {
+    "name": "Murphysboro",
+    "country": "US",
+    "lat": 37.7645,
+    "lng": -89.33509
+  },
+  {
+    "name": "Mulvane",
+    "country": "US",
+    "lat": 37.47446,
+    "lng": -97.24393
+  },
+  {
+    "name": "Munfordville",
+    "country": "US",
+    "lat": 37.27228,
+    "lng": -85.89108
+  },
+  {
+    "name": "Murray",
+    "country": "US",
+    "lat": 36.61033,
+    "lng": -88.31476
+  },
+  {
+    "name": "Murphy",
+    "country": "US",
+    "lat": 38.49033,
+    "lng": -90.48707
+  },
+  {
+    "name": "Mulberry",
+    "country": "US",
+    "lat": 36.23958,
+    "lng": -81.18064
+  },
+  {
+    "name": "Murfreesboro",
+    "country": "US",
+    "lat": 36.44238,
+    "lng": -77.09858
+  },
+  {
+    "name": "Murphy",
+    "country": "US",
+    "lat": 35.08758,
+    "lng": -84.03463
+  },
+  {
+    "name": "Murraysville",
+    "country": "US",
+    "lat": 34.29572,
+    "lng": -77.84748
+  },
+  {
+    "name": "Mullica Hill",
+    "country": "US",
+    "lat": 39.73928,
+    "lng": -75.22407
+  },
+  {
+    "name": "Mulberry",
+    "country": "US",
+    "lat": 39.19339,
+    "lng": -84.24216
+  },
+  {
+    "name": "Muldrow",
+    "country": "US",
+    "lat": 35.4062,
+    "lng": -94.59883
+  },
+  {
+    "name": "Muskogee",
+    "country": "US",
+    "lat": 35.74788,
+    "lng": -95.36969
+  },
+  {
+    "name": "Mustang",
+    "country": "US",
+    "lat": 35.38423,
+    "lng": -97.72449
+  },
+  {
+    "name": "Mullins",
+    "country": "US",
+    "lat": 34.20572,
+    "lng": -79.25449
+  },
+  {
+    "name": "Murphys Estates",
+    "country": "US",
+    "lat": 33.60125,
+    "lng": -81.94428
+  },
+  {
+    "name": "Murrells Inlet",
+    "country": "US",
+    "lat": 33.551,
+    "lng": -79.04143
+  },
+  {
+    "name": "Munford",
+    "country": "US",
+    "lat": 35.44925,
+    "lng": -89.81508
+  },
+  {
+    "name": "Murfreesboro",
+    "country": "US",
+    "lat": 35.84562,
+    "lng": -86.39027
+  },
+  {
+    "name": "Muenster",
+    "country": "US",
+    "lat": 33.65177,
+    "lng": -97.37641
+  },
+  {
+    "name": "Munday",
+    "country": "US",
+    "lat": 33.44926,
+    "lng": -99.62286
+  },
+  {
+    "name": "Muniz",
+    "country": "US",
+    "lat": 26.25646,
+    "lng": -98.08945
+  },
+  {
+    "name": "Murillo Colonia",
+    "country": "US",
+    "lat": 26.25646,
+    "lng": -98.11334
+  },
+  {
+    "name": "Murphy",
+    "country": "US",
+    "lat": 33.01512,
+    "lng": -96.61305
+  },
+  {
+    "name": "Mullens",
+    "country": "US",
+    "lat": 37.58317,
+    "lng": -81.38038
+  },
+  {
+    "name": "Muscatine",
+    "country": "US",
+    "lat": 41.42447,
+    "lng": -91.04321
+  },
+  {
+    "name": "Mundelein",
+    "country": "US",
+    "lat": 42.26308,
+    "lng": -88.00397
+  },
+  {
+    "name": "Mulberry",
+    "country": "US",
+    "lat": 40.34448,
+    "lng": -86.66528
+  },
+  {
+    "name": "Muncie",
+    "country": "US",
+    "lat": 40.19338,
+    "lng": -85.38636
+  },
+  {
+    "name": "Munster",
+    "country": "US",
+    "lat": 41.56448,
+    "lng": -87.51254
+  },
+  {
+    "name": "Munising",
+    "country": "US",
+    "lat": 46.4112,
+    "lng": -86.64926
+  },
+  {
+    "name": "Muskegon",
+    "country": "US",
+    "lat": 43.23418,
+    "lng": -86.24839
+  },
+  {
+    "name": "Muskegon Heights",
+    "country": "US",
+    "lat": 43.20113,
+    "lng": -86.23895
+  },
+  {
+    "name": "Munsey Park",
+    "country": "US",
+    "lat": 40.79871,
+    "lng": -73.67985
+  },
+  {
+    "name": "Munsons Corners",
+    "country": "US",
+    "lat": 42.58229,
+    "lng": -76.2091
+  },
+  {
+    "name": "Muttontown",
+    "country": "US",
+    "lat": 40.82399,
+    "lng": -73.54763
+  },
+  {
+    "name": "Munroe Falls",
+    "country": "US",
+    "lat": 41.1445,
+    "lng": -81.43983
+  },
+  {
+    "name": "Muhlenberg Park",
+    "country": "US",
+    "lat": 40.38482,
+    "lng": -75.94132
+  },
+  {
+    "name": "Muncy",
+    "country": "US",
+    "lat": 41.20564,
+    "lng": -76.78552
+  },
+  {
+    "name": "Munhall",
+    "country": "US",
+    "lat": 40.39229,
+    "lng": -79.90005
+  },
+  {
+    "name": "Mundys Corner",
+    "country": "US",
+    "lat": 40.44479,
+    "lng": -78.84113
+  },
+  {
+    "name": "Murrysville",
+    "country": "US",
+    "lat": 40.4284,
+    "lng": -79.69755
+  },
+  {
+    "name": "Muse",
+    "country": "US",
+    "lat": 40.29285,
+    "lng": -80.20034
+  },
+  {
+    "name": "Mukwonago",
+    "country": "US",
+    "lat": 42.86668,
+    "lng": -88.33343
+  },
+  {
+    "name": "Muscoda",
+    "country": "US",
+    "lat": 43.18499,
+    "lng": -90.44318
+  },
+  {
+    "name": "Muskego",
+    "country": "US",
+    "lat": 42.90585,
+    "lng": -88.13898
+  },
+  {
+    "name": "Murphys",
+    "country": "US",
+    "lat": 38.13762,
+    "lng": -120.46105
+  },
+  {
+    "name": "Murrieta",
+    "country": "US",
+    "lat": 33.55391,
+    "lng": -117.21392
+  },
+  {
+    "name": "Murrieta Hot Springs",
+    "country": "US",
+    "lat": 33.56058,
+    "lng": -117.15809
+  },
+  {
+    "name": "Muscoy",
+    "country": "US",
+    "lat": 34.15418,
+    "lng": -117.34421
+  },
+  {
+    "name": "Muleshoe",
+    "country": "US",
+    "lat": 34.22647,
+    "lng": -102.72383
+  },
+  {
+    "name": "Murphy",
+    "country": "US",
+    "lat": 43.21822,
+    "lng": -116.55234
+  },
+  {
+    "name": "Mullen",
+    "country": "US",
+    "lat": 42.04278,
+    "lng": -101.04266
+  },
+  {
+    "name": "Mulino",
+    "country": "US",
+    "lat": 45.22151,
+    "lng": -122.58203
+  },
+  {
+    "name": "Murdo",
+    "country": "US",
+    "lat": 43.88832,
+    "lng": -100.71291
+  },
+  {
+    "name": "Murray",
+    "country": "US",
+    "lat": 40.66689,
+    "lng": -111.88799
+  },
+  {
+    "name": "Mukilteo",
+    "country": "US",
+    "lat": 47.94454,
+    "lng": -122.30458
+  },
+  {
+    "name": "Mug‘lon Shahar",
+    "country": "UZ",
+    "lat": 38.91878,
+    "lng": 65.41217
+  },
+  {
+    "name": "Muborak",
+    "country": "UZ",
+    "lat": 39.25528,
+    "lng": 65.15278
+  },
+  {
+    "name": "Muborak Shahri",
+    "country": "UZ",
+    "lat": 39.25778,
+    "lng": 65.15674
+  },
+  {
+    "name": "Mucuchíes",
+    "country": "VE",
+    "lat": 8.74921,
+    "lng": -70.91978
+  },
+  {
+    "name": "Mui Ne",
+    "country": "VN",
+    "lat": 10.93314,
+    "lng": 108.28327
+  },
+  {
+    "name": "Mua",
+    "country": "WF",
+    "lat": -13.34169,
+    "lng": -176.18701
+  },
+  {
+    "name": "Mulifanua",
+    "country": "WS",
+    "lat": -13.83183,
+    "lng": -172.03602
+  },
+  {
+    "name": "Mustabā’",
+    "country": "YE",
+    "lat": 16.22816,
+    "lng": 43.24895
+  },
+  {
+    "name": "Mukayrās",
+    "country": "YE",
+    "lat": 13.94427,
+    "lng": 45.67074
+  },
+  {
+    "name": "Mukalla",
+    "country": "YE",
+    "lat": 14.54248,
+    "lng": 49.12424
+  },
+  {
+    "name": "Mutale",
+    "country": "ZA",
+    "lat": -22.46972,
+    "lng": 30.87533
+  },
+  {
+    "name": "Murraysburg",
+    "country": "ZA",
+    "lat": -31.96046,
+    "lng": 23.76204
+  },
+  {
+    "name": "Murchison",
+    "country": "ZA",
+    "lat": -23.90209,
+    "lng": 30.69097
+  },
+  {
+    "name": "Muldersdriseloop",
+    "country": "ZA",
+    "lat": -26.03673,
+    "lng": 27.83798
+  },
+  {
+    "name": "Musina",
+    "country": "ZA",
+    "lat": -22.34881,
+    "lng": 30.04074
+  },
+  {
+    "name": "Mununga",
+    "country": "ZM",
+    "lat": -9.04865,
+    "lng": 29.04265
+  },
+  {
+    "name": "Mungwi",
+    "country": "ZM",
+    "lat": -10.1732,
+    "lng": 31.36942
+  },
+  {
+    "name": "Mumbwa",
+    "country": "ZM",
+    "lat": -14.98293,
+    "lng": 27.0619
+  },
+  {
+    "name": "Mufumbwe",
+    "country": "ZM",
+    "lat": -13.68333,
+    "lng": 24.8
+  },
+  {
+    "name": "Mufulira",
+    "country": "ZM",
+    "lat": -12.54982,
+    "lng": 28.24071
+  },
+  {
+    "name": "Mufumbwe",
+    "country": "ZM",
+    "lat": -13.13701,
+    "lng": 25.00653
+  },
+  {
+    "name": "Mutoko",
+    "country": "ZW",
+    "lat": -17.39699,
+    "lng": 32.22677
+  },
+  {
+    "name": "Mutare",
+    "country": "ZW",
+    "lat": -18.9707,
+    "lng": 32.67086
+  },
+  {
+    "name": "Murewa",
+    "country": "ZW",
+    "lat": -17.64322,
+    "lng": 31.784
+  }
+]

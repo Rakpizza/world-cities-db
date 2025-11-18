@@ -1,0 +1,614 @@
+[
+  {
+    "name": "Kyogle",
+    "country": "AU",
+    "lat": -28.62278,
+    "lng": 152.99736
+  },
+  {
+    "name": "Kyneton",
+    "country": "AU",
+    "lat": -37.24444,
+    "lng": 144.45148
+  },
+  {
+    "name": "Kyabram",
+    "country": "AU",
+    "lat": -36.31335,
+    "lng": 145.05035
+  },
+  {
+    "name": "Kyle Bay",
+    "country": "AU",
+    "lat": -33.98787,
+    "lng": 151.09939
+  },
+  {
+    "name": "Kyzyl-Burun",
+    "country": "AZ",
+    "lat": 41.07811,
+    "lng": 49.11564
+  },
+  {
+    "name": "Kyurdarmir",
+    "country": "AZ",
+    "lat": 40.34257,
+    "lng": 48.15649
+  },
+  {
+    "name": "Kyadabek",
+    "country": "AZ",
+    "lat": 40.57055,
+    "lng": 45.81229
+  },
+  {
+    "name": "Kyustendil",
+    "country": "BG",
+    "lat": 42.28314,
+    "lng": 22.69224
+  },
+  {
+    "name": "Kyrenia",
+    "country": "CY",
+    "lat": 35.33634,
+    "lng": 33.31729
+  },
+  {
+    "name": "Kyperoúnta",
+    "country": "CY",
+    "lat": 34.93815,
+    "lng": 32.97551
+  },
+  {
+    "name": "Kynšperk nad Ohří",
+    "country": "CZ",
+    "lat": 50.11893,
+    "lng": 12.53027
+  },
+  {
+    "name": "Kyjov",
+    "country": "CZ",
+    "lat": 49.01018,
+    "lng": 17.12253
+  },
+  {
+    "name": "Kyje",
+    "country": "CZ",
+    "lat": 50.09729,
+    "lng": 14.5477
+  },
+  {
+    "name": "Kyritz",
+    "country": "DE",
+    "lat": 52.94212,
+    "lng": 12.39704
+  },
+  {
+    "name": "Kyllburg",
+    "country": "DE",
+    "lat": 50.03864,
+    "lng": 6.59478
+  },
+  {
+    "name": "Kyyjärvi",
+    "country": "FI",
+    "lat": 63.03333,
+    "lng": 24.56667
+  },
+  {
+    "name": "Kyrö",
+    "country": "FI",
+    "lat": 60.7,
+    "lng": 22.75
+  },
+  {
+    "name": "Kylmäkoski",
+    "country": "FI",
+    "lat": 61.154,
+    "lng": 23.68858
+  },
+  {
+    "name": "Kyttälä",
+    "country": "FI",
+    "lat": 61.49841,
+    "lng": 23.76942
+  },
+  {
+    "name": "Kynsilehto",
+    "country": "FI",
+    "lat": 65.03037,
+    "lng": 25.53919
+  },
+  {
+    "name": "Kylpylä",
+    "country": "FI",
+    "lat": 61.05983,
+    "lng": 28.19081
+  },
+  {
+    "name": "Kyriáki",
+    "country": "GR",
+    "lat": 38.35365,
+    "lng": 22.78841
+  },
+  {
+    "name": "Kyrás Vrýsi",
+    "country": "GR",
+    "lat": 37.91295,
+    "lng": 22.98651
+  },
+  {
+    "name": "Kypséli",
+    "country": "GR",
+    "lat": 37.76021,
+    "lng": 23.45448
+  },
+  {
+    "name": "Kyparissía",
+    "country": "GR",
+    "lat": 37.25111,
+    "lng": 21.67361
+  },
+  {
+    "name": "Kyllíni",
+    "country": "GR",
+    "lat": 37.93542,
+    "lng": 21.14503
+  },
+  {
+    "name": "Kyprínos",
+    "country": "GR",
+    "lat": 41.57542,
+    "lng": 26.22905
+  },
+  {
+    "name": "Kynopiástes",
+    "country": "GR",
+    "lat": 39.56785,
+    "lng": 19.88362
+  },
+  {
+    "name": "Kyelang",
+    "country": "IN",
+    "lat": 32.5717,
+    "lng": 77.02448
+  },
+  {
+    "name": "Kyathampalle",
+    "country": "IN",
+    "lat": 19.66781,
+    "lng": 78.5289
+  },
+  {
+    "name": "Kyoto",
+    "country": "JP",
+    "lat": 35.02107,
+    "lng": 135.75385
+  },
+  {
+    "name": "Kyōmendao",
+    "country": "JP",
+    "lat": 34.88333,
+    "lng": 132.43333
+  },
+  {
+    "name": "Kyōgoku",
+    "country": "JP",
+    "lat": 42.86326,
+    "lng": 140.90594
+  },
+  {
+    "name": "Kyōtanabe",
+    "country": "JP",
+    "lat": 34.8045,
+    "lng": 135.76681
+  },
+  {
+    "name": "Kyōtango",
+    "country": "JP",
+    "lat": 35.60623,
+    "lng": 135.04429
+  },
+  {
+    "name": "Kyōtamba",
+    "country": "JP",
+    "lat": 35.16436,
+    "lng": 135.42305
+  },
+  {
+    "name": "Kyzyl-Eshme",
+    "country": "KG",
+    "lat": 39.56559,
+    "lng": 72.27153
+  },
+  {
+    "name": "Kyzyl-Suu",
+    "country": "KG",
+    "lat": 42.34211,
+    "lng": 78.00644
+  },
+  {
+    "name": "Kyzyl-Kyya",
+    "country": "KG",
+    "lat": 40.25684,
+    "lng": 72.12793
+  },
+  {
+    "name": "Kyzyl-Adyr",
+    "country": "KG",
+    "lat": 42.61981,
+    "lng": 71.5891
+  },
+  {
+    "name": "Kyrgyz-Kyshtak",
+    "country": "KG",
+    "lat": 40.31055,
+    "lng": 71.34966
+  },
+  {
+    "name": "Kyzyl-Bulak",
+    "country": "KG",
+    "lat": 40.0517,
+    "lng": 71.73726
+  },
+  {
+    "name": "Kyo",
+    "country": "KM",
+    "lat": -12.33222,
+    "lng": 44.51917
+  },
+  {
+    "name": "Kyŏngsŏng",
+    "country": "KP",
+    "lat": 41.58778,
+    "lng": 129.60611
+  },
+  {
+    "name": "Kyosai",
+    "country": "KR",
+    "lat": 34.85028,
+    "lng": 128.58861
+  },
+  {
+    "name": "Kyzylorda",
+    "country": "KZ",
+    "lat": 44.85278,
+    "lng": 65.50917
+  },
+  {
+    "name": "Kyzylzhar",
+    "country": "KZ",
+    "lat": 49.98197,
+    "lng": 72.60761
+  },
+  {
+    "name": "Kybartai",
+    "country": "LT",
+    "lat": 54.63858,
+    "lng": 22.76316
+  },
+  {
+    "name": "Kyonpyaw",
+    "country": "MM",
+    "lat": 17.30132,
+    "lng": 95.19833
+  },
+  {
+    "name": "Kyeintali",
+    "country": "MM",
+    "lat": 18.00611,
+    "lng": 94.49
+  },
+  {
+    "name": "Kyauktan",
+    "country": "MM",
+    "lat": 24.2782,
+    "lng": 95.89487
+  },
+  {
+    "name": "Kyauktaga",
+    "country": "MM",
+    "lat": 17.49468,
+    "lng": 96.97758
+  },
+  {
+    "name": "Kyaukse",
+    "country": "MM",
+    "lat": 21.6056,
+    "lng": 96.13508
+  },
+  {
+    "name": "Kyaukpyu",
+    "country": "MM",
+    "lat": 19.42793,
+    "lng": 93.55134
+  },
+  {
+    "name": "Kyaukpadaung",
+    "country": "MM",
+    "lat": 20.84158,
+    "lng": 95.1267
+  },
+  {
+    "name": "Kyaukme",
+    "country": "MM",
+    "lat": 22.5392,
+    "lng": 97.03434
+  },
+  {
+    "name": "Kyaikto",
+    "country": "MM",
+    "lat": 17.30858,
+    "lng": 97.01124
+  },
+  {
+    "name": "Kyaiklat",
+    "country": "MM",
+    "lat": 16.44502,
+    "lng": 95.72373
+  },
+  {
+    "name": "Kyaikkami",
+    "country": "MM",
+    "lat": 16.07686,
+    "lng": 97.56388
+  },
+  {
+    "name": "Kyain Seikgyi Township",
+    "country": "MM",
+    "lat": 15.82288,
+    "lng": 98.25257
+  },
+  {
+    "name": "Kyrksæterøra",
+    "country": "NO",
+    "lat": 63.29057,
+    "lng": 9.08909
+  },
+  {
+    "name": "Kyrkjebygda",
+    "country": "NO",
+    "lat": 58.61523,
+    "lng": 7.41391
+  },
+  {
+    "name": "Kyzyl-Oktyabr’skiy",
+    "country": "RU",
+    "lat": 43.8257,
+    "lng": 41.78605
+  },
+  {
+    "name": "Kyzburun Pervyy",
+    "country": "RU",
+    "lat": 43.65167,
+    "lng": 43.395
+  },
+  {
+    "name": "Kyakhulay",
+    "country": "RU",
+    "lat": 42.96839,
+    "lng": 47.48301
+  },
+  {
+    "name": "Kyzyl-Mazhalyk",
+    "country": "RU",
+    "lat": 51.14654,
+    "lng": 90.58293
+  },
+  {
+    "name": "Kyzyl-Khaya",
+    "country": "RU",
+    "lat": 50.04986,
+    "lng": 89.87821
+  },
+  {
+    "name": "Kyzyl",
+    "country": "RU",
+    "lat": 51.71108,
+    "lng": 94.43776
+  },
+  {
+    "name": "Kytmanovo",
+    "country": "RU",
+    "lat": 53.46067,
+    "lng": 85.44749
+  },
+  {
+    "name": "Kyshtym",
+    "country": "RU",
+    "lat": 55.7163,
+    "lng": 60.551
+  },
+  {
+    "name": "Kyshtovka",
+    "country": "RU",
+    "lat": 56.55555,
+    "lng": 76.63029
+  },
+  {
+    "name": "Kysyl-Syr",
+    "country": "RU",
+    "lat": 63.89482,
+    "lng": 122.7654
+  },
+  {
+    "name": "Kyren",
+    "country": "RU",
+    "lat": 51.68225,
+    "lng": 102.14044
+  },
+  {
+    "name": "Kyra",
+    "country": "RU",
+    "lat": 49.57954,
+    "lng": 111.97456
+  },
+  {
+    "name": "Kyakhta",
+    "country": "RU",
+    "lat": 50.34956,
+    "lng": 106.451
+  },
+  {
+    "name": "Kysucké Nové Mesto",
+    "country": "SK",
+    "lat": 49.3,
+    "lng": 18.78333
+  },
+  {
+    "name": "Kyabé",
+    "country": "TD",
+    "lat": 9.45149,
+    "lng": 18.94493
+  },
+  {
+    "name": "Kyela",
+    "country": "TZ",
+    "lat": -9.58333,
+    "lng": 33.85
+  },
+  {
+    "name": "Kyaka",
+    "country": "TZ",
+    "lat": -1.25222,
+    "lng": 31.42028
+  },
+  {
+    "name": "Kyiv",
+    "country": "UA",
+    "lat": 50.45466,
+    "lng": 30.5238
+  },
+  {
+    "name": "Kyslytsya",
+    "country": "UA",
+    "lat": 45.40802,
+    "lng": 29.03616
+  },
+  {
+    "name": "Kyselivka",
+    "country": "UA",
+    "lat": 47.00204,
+    "lng": 32.46997
+  },
+  {
+    "name": "Kyseliv",
+    "country": "UA",
+    "lat": 48.58022,
+    "lng": 25.657
+  },
+  {
+    "name": "Kyryakivka",
+    "country": "UA",
+    "lat": 47.05664,
+    "lng": 31.85076
+  },
+  {
+    "name": "Kyrnychky",
+    "country": "UA",
+    "lat": 45.70537,
+    "lng": 29.06911
+  },
+  {
+    "name": "Kyrnasivka",
+    "country": "UA",
+    "lat": 48.59183,
+    "lng": 28.97923
+  },
+  {
+    "name": "Kyrykivka",
+    "country": "UA",
+    "lat": 50.36408,
+    "lng": 35.1149
+  },
+  {
+    "name": "Kybyntsi",
+    "country": "UA",
+    "lat": 49.95651,
+    "lng": 33.45686
+  },
+  {
+    "name": "Kyrylivka",
+    "country": "UA",
+    "lat": 46.37179,
+    "lng": 35.3701
+  },
+  {
+    "name": "Kyotera",
+    "country": "UG",
+    "lat": -0.61556,
+    "lng": 31.5175
+  },
+  {
+    "name": "Kyenjojo",
+    "country": "UG",
+    "lat": 0.63278,
+    "lng": 30.62139
+  },
+  {
+    "name": "Kyegegwa",
+    "country": "UG",
+    "lat": 0.50222,
+    "lng": 31.04139
+  },
+  {
+    "name": "Kyazanga",
+    "country": "UG",
+    "lat": -0.38333,
+    "lng": 31.35
+  },
+  {
+    "name": "Kyarusozi",
+    "country": "UG",
+    "lat": 0.78417,
+    "lng": 30.53111
+  },
+  {
+    "name": "Kyamahungu",
+    "country": "UG",
+    "lat": -0.45139,
+    "lng": 30.11333
+  },
+  {
+    "name": "Kyankwanzi",
+    "country": "UG",
+    "lat": 1.20061,
+    "lng": 31.80063
+  },
+  {
+    "name": "Kyengera",
+    "country": "UG",
+    "lat": 0.29517,
+    "lng": 32.50159
+  },
+  {
+    "name": "Kyaka II Refugee Camp",
+    "country": "UG",
+    "lat": 0.36738,
+    "lng": 31.10817
+  },
+  {
+    "name": "Kyangwali Refugee Camp",
+    "country": "UG",
+    "lat": 1.18807,
+    "lng": 30.78281
+  },
+  {
+    "name": "Kyle",
+    "country": "US",
+    "lat": 29.98911,
+    "lng": -97.87723
+  },
+  {
+    "name": "Kyzyldzhar",
+    "country": "UZ",
+    "lat": 41.56667,
+    "lng": 70.01667
+  },
+  {
+    "name": "Kylemore",
+    "country": "ZA",
+    "lat": -33.91515,
+    "lng": 18.95025
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Odrie",
+    "country": "AL",
+    "lat": 40.13333,
+    "lng": 20.16667
+  },
+  {
+    "name": "Odzun",
+    "country": "AM",
+    "lat": 41.05321,
+    "lng": 44.61341
+  },
+  {
+    "name": "Odžak",
+    "country": "BA",
+    "lat": 45.02461,
+    "lng": 18.32107
+  },
+  {
+    "name": "Odeur",
+    "country": "BE",
+    "lat": 50.70642,
+    "lng": 5.41578
+  },
+  {
+    "name": "Odogui",
+    "country": "CI",
+    "lat": 5.62682,
+    "lng": -4.20298
+  },
+  {
+    "name": "Odienné",
+    "country": "CI",
+    "lat": 9.50511,
+    "lng": -7.56433
+  },
+  {
+    "name": "Odia",
+    "country": "CI",
+    "lat": 9.37361,
+    "lng": -6.16889
+  },
+  {
+    "name": "Odogué",
+    "country": "CI",
+    "lat": 5.64906,
+    "lng": -4.25904
+  },
+  {
+    "name": "Odry",
+    "country": "CZ",
+    "lat": 49.66255,
+    "lng": 17.83084
+  },
+  {
+    "name": "Odolena Voda",
+    "country": "CZ",
+    "lat": 50.23341,
+    "lng": 14.41078
+  },
+  {
+    "name": "Odernheim",
+    "country": "DE",
+    "lat": 49.76511,
+    "lng": 7.70427
+  },
+  {
+    "name": "Oderberg",
+    "country": "DE",
+    "lat": 52.86571,
+    "lng": 14.04508
+  },
+  {
+    "name": "Odenthal",
+    "country": "DE",
+    "lat": 51.03333,
+    "lng": 7.11667
+  },
+  {
+    "name": "Odelzhausen",
+    "country": "DE",
+    "lat": 48.30889,
+    "lng": 11.19889
+  },
+  {
+    "name": "Odense",
+    "country": "DK",
+    "lat": 55.39594,
+    "lng": 10.38831
+  },
+  {
+    "name": "Odder",
+    "country": "DK",
+    "lat": 55.97313,
+    "lng": 10.153
+  },
+  {
+    "name": "Odón",
+    "country": "ES",
+    "lat": 40.88417,
+    "lng": -1.56792
+  },
+  {
+    "name": "Odos",
+    "country": "FR",
+    "lat": 43.19575,
+    "lng": 0.0574
+  },
+  {
+    "name": "Oderen",
+    "country": "FR",
+    "lat": 47.91036,
+    "lng": 6.97463
+  },
+  {
+    "name": "Odiham",
+    "country": "GB",
+    "lat": 51.25407,
+    "lng": -0.93933
+  },
+  {
+    "name": "Odell",
+    "country": "GB",
+    "lat": 52.20937,
+    "lng": -0.5888
+  },
+  {
+    "name": "Odumase Krobo",
+    "country": "GH",
+    "lat": 6.53333,
+    "lng": -0.81667
+  },
+  {
+    "name": "Odra",
+    "country": "HR",
+    "lat": 45.72979,
+    "lng": 15.9924
+  },
+  {
+    "name": "Odranski Obrež",
+    "country": "HR",
+    "lat": 45.71667,
+    "lng": 15.93333
+  },
+  {
+    "name": "Odugattūr",
+    "country": "IN",
+    "lat": 12.76793,
+    "lng": 78.88304
+  },
+  {
+    "name": "Odlābāri",
+    "country": "IN",
+    "lat": 26.83644,
+    "lng": 88.62943
+  },
+  {
+    "name": "Od",
+    "country": "IN",
+    "lat": 22.62104,
+    "lng": 73.11725
+  },
+  {
+    "name": "Oddanchathiram",
+    "country": "IN",
+    "lat": 10.48013,
+    "lng": 77.74977
+  },
+  {
+    "name": "Odagaon",
+    "country": "IN",
+    "lat": 20.01625,
+    "lng": 84.98719
+  },
+  {
+    "name": "Odaiyakulam",
+    "country": "IN",
+    "lat": 10.56789,
+    "lng": 76.91047
+  },
+  {
+    "name": "Odaipatti",
+    "country": "IN",
+    "lat": 9.83231,
+    "lng": 77.44329
+  },
+  {
+    "name": "Odolo",
+    "country": "IT",
+    "lat": 45.6455,
+    "lng": 10.38309
+  },
+  {
+    "name": "Oderzo",
+    "country": "IT",
+    "lat": 45.78114,
+    "lng": 12.49442
+  },
+  {
+    "name": "Odalengo Piccolo",
+    "country": "IT",
+    "lat": 45.07165,
+    "lng": 8.20603
+  },
+  {
+    "name": "Odalengo Grande",
+    "country": "IT",
+    "lat": 45.10922,
+    "lng": 8.16748
+  },
+  {
+    "name": "Odawara",
+    "country": "JP",
+    "lat": 35.25556,
+    "lng": 139.15972
+  },
+  {
+    "name": "Oda",
+    "country": "JP",
+    "lat": 35.20103,
+    "lng": 132.49967
+  },
+  {
+    "name": "Odongk",
+    "country": "KH",
+    "lat": 11.68267,
+    "lng": 104.69945
+  },
+  {
+    "name": "Odukpani",
+    "country": "NG",
+    "lat": 5.13375,
+    "lng": 8.33814
+  },
+  {
+    "name": "Odot",
+    "country": "NG",
+    "lat": 4.83095,
+    "lng": 8.03839
+  },
+  {
+    "name": "Odoro Ikpe",
+    "country": "NG",
+    "lat": 5.35835,
+    "lng": 7.75184
+  },
+  {
+    "name": "Odogbolu",
+    "country": "NG",
+    "lat": 6.84035,
+    "lng": 3.76285
+  },
+  {
+    "name": "Odo-Ere",
+    "country": "NG",
+    "lat": 8.25091,
+    "lng": 5.55122
+  },
+  {
+    "name": "Odeda",
+    "country": "NG",
+    "lat": 7.2313,
+    "lng": 3.5246
+  },
+  {
+    "name": "Ode",
+    "country": "NG",
+    "lat": 7.7899,
+    "lng": 5.7117
+  },
+  {
+    "name": "Ode-Ekiti",
+    "country": "NG",
+    "lat": 7.64813,
+    "lng": 5.54948
+  },
+  {
+    "name": "Ode-Irele",
+    "country": "NG",
+    "lat": 6.49418,
+    "lng": 4.87036
+  },
+  {
+    "name": "Odoorn",
+    "country": "NL",
+    "lat": 52.84917,
+    "lng": 6.85139
+  },
+  {
+    "name": "Odiliapeel",
+    "country": "NL",
+    "lat": 51.64333,
+    "lng": 5.70556
+  },
+  {
+    "name": "Odijk",
+    "country": "NL",
+    "lat": 52.0525,
+    "lng": 5.23611
+  },
+  {
+    "name": "Odda",
+    "country": "NO",
+    "lat": 60.06912,
+    "lng": 6.54565
+  },
+  {
+    "name": "Odala",
+    "country": "PH",
+    "lat": 13.4776,
+    "lng": 120.8223
+  },
+  {
+    "name": "Odiongan",
+    "country": "PH",
+    "lat": 12.40167,
+    "lng": 121.99194
+  },
+  {
+    "name": "Odiongan",
+    "country": "PH",
+    "lat": 8.84583,
+    "lng": 125.16639
+  },
+  {
+    "name": "Odiong",
+    "country": "PH",
+    "lat": 12.5931,
+    "lng": 121.5032
+  },
+  {
+    "name": "Odiong",
+    "country": "PH",
+    "lat": 11.5356,
+    "lng": 122.4666
+  },
+  {
+    "name": "Odiong",
+    "country": "PH",
+    "lat": 10.2858,
+    "lng": 123.0526
+  },
+  {
+    "name": "Odicon",
+    "country": "PH",
+    "lat": 13.53,
+    "lng": 123.0588
+  },
+  {
+    "name": "Odrzywół",
+    "country": "PL",
+    "lat": 51.51953,
+    "lng": 20.55559
+  },
+  {
+    "name": "Odrzykoń",
+    "country": "PL",
+    "lat": 49.74057,
+    "lng": 21.74074
+  },
+  {
+    "name": "Odrzechowa",
+    "country": "PL",
+    "lat": 49.54459,
+    "lng": 21.97609
+  },
+  {
+    "name": "Odolanów",
+    "country": "PL",
+    "lat": 51.57419,
+    "lng": 17.67434
+  },
+  {
+    "name": "Odivelas",
+    "country": "PT",
+    "lat": 38.79269,
+    "lng": -9.1838
+  },
+  {
+    "name": "Odemira",
+    "country": "PT",
+    "lat": 37.59798,
+    "lng": -8.63972
+  },
+  {
+    "name": "Odorheiu Secuiesc",
+    "country": "RO",
+    "lat": 46.3,
+    "lng": 25.3
+  },
+  {
+    "name": "Odoreu",
+    "country": "RO",
+    "lat": 47.8,
+    "lng": 23.0
+  },
+  {
+    "name": "Odobești",
+    "country": "RO",
+    "lat": 46.67608,
+    "lng": 27.14983
+  },
+  {
+    "name": "Odobeşti",
+    "country": "RO",
+    "lat": 45.76667,
+    "lng": 27.05
+  },
+  {
+    "name": "Odobeşti",
+    "country": "RO",
+    "lat": 44.61667,
+    "lng": 25.56667
+  },
+  {
+    "name": "Odăile",
+    "country": "RO",
+    "lat": 45.38333,
+    "lng": 26.55
+  },
+  {
+    "name": "Odaia Turcului",
+    "country": "RO",
+    "lat": 44.69777,
+    "lng": 25.45082
+  },
+  {
+    "name": "Odaia Manolache",
+    "country": "RO",
+    "lat": 45.54897,
+    "lng": 27.99057
+  },
+  {
+    "name": "Odăi",
+    "country": "RO",
+    "lat": 44.39272,
+    "lng": 26.03537
+  },
+  {
+    "name": "Odžaci",
+    "country": "RS",
+    "lat": 45.50667,
+    "lng": 19.26111
+  },
+  {
+    "name": "Odoyev",
+    "country": "RU",
+    "lat": 53.93567,
+    "lng": 36.68821
+  },
+  {
+    "name": "Odintsovo",
+    "country": "RU",
+    "lat": 55.66977,
+    "lng": 37.27716
+  },
+  {
+    "name": "Odesskoye",
+    "country": "RU",
+    "lat": 54.215,
+    "lng": 72.9651
+  },
+  {
+    "name": "Odensjö",
+    "country": "SE",
+    "lat": 57.71667,
+    "lng": 14.16667
+  },
+  {
+    "name": "Odensbacken",
+    "country": "SE",
+    "lat": 59.16667,
+    "lng": 15.53333
+  },
+  {
+    "name": "Odranci",
+    "country": "SI",
+    "lat": 46.58637,
+    "lng": 16.27966
+  },
+  {
+    "name": "Odobéré",
+    "country": "SN",
+    "lat": 15.56142,
+    "lng": -13.09862
+  },
+  {
+    "name": "Odabaşı",
+    "country": "TR",
+    "lat": 37.02634,
+    "lng": 30.68075
+  },
+  {
+    "name": "Odunpazarı",
+    "country": "TR",
+    "lat": 39.76821,
+    "lng": 30.53538
+  },
+  {
+    "name": "Odesa",
+    "country": "UA",
+    "lat": 46.48572,
+    "lng": 30.74383
+  },
+  {
+    "name": "Odenville",
+    "country": "US",
+    "lat": 33.67732,
+    "lng": -86.39665
+  },
+  {
+    "name": "Odessa",
+    "country": "US",
+    "lat": 28.1939,
+    "lng": -82.59176
+  },
+  {
+    "name": "Odin",
+    "country": "US",
+    "lat": 38.61727,
+    "lng": -89.05229
+  },
+  {
+    "name": "Odon",
+    "country": "US",
+    "lat": 38.84283,
+    "lng": -86.9914
+  },
+  {
+    "name": "Odenton",
+    "country": "US",
+    "lat": 39.084,
+    "lng": -76.70025
+  },
+  {
+    "name": "Odessa",
+    "country": "US",
+    "lat": 38.99917,
+    "lng": -93.95356
+  },
+  {
+    "name": "Odem",
+    "country": "US",
+    "lat": 27.95057,
+    "lng": -97.58222
+  },
+  {
+    "name": "Odessa",
+    "country": "US",
+    "lat": 31.84568,
+    "lng": -102.36764
+  },
+  {
+    "name": "Odell",
+    "country": "US",
+    "lat": 45.62706,
+    "lng": -121.54313
+  },
+  {
+    "name": "Odendaalsrus",
+    "country": "ZA",
+    "lat": -27.87394,
+    "lng": 26.69072
+  },
+  {
+    "name": "Odzi",
+    "country": "ZW",
+    "lat": -18.96167,
+    "lng": 32.40557
+  }
+]

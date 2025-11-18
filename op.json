@@ -1,0 +1,626 @@
+[
+  {
+    "name": "Open Door",
+    "country": "AR",
+    "lat": -34.49113,
+    "lng": -59.07531
+  },
+  {
+    "name": "Opponitz",
+    "country": "AT",
+    "lat": 47.87776,
+    "lng": 14.82283
+  },
+  {
+    "name": "Oppenberg",
+    "country": "AT",
+    "lat": 47.48333,
+    "lng": 14.26667
+  },
+  {
+    "name": "Opwijk",
+    "country": "BE",
+    "lat": 50.96724,
+    "lng": 4.18442
+  },
+  {
+    "name": "Opvelp",
+    "country": "BE",
+    "lat": 50.81017,
+    "lng": 4.79347
+  },
+  {
+    "name": "Oppuurs",
+    "country": "BE",
+    "lat": 51.06629,
+    "lng": 4.24222
+  },
+  {
+    "name": "Opprebais",
+    "country": "BE",
+    "lat": 50.67998,
+    "lng": 4.79785
+  },
+  {
+    "name": "Opoeteren",
+    "country": "BE",
+    "lat": 51.06923,
+    "lng": 5.65556
+  },
+  {
+    "name": "Oplinter",
+    "country": "BE",
+    "lat": 50.83023,
+    "lng": 4.99002
+  },
+  {
+    "name": "Opitter",
+    "country": "BE",
+    "lat": 51.11705,
+    "lng": 5.64749
+  },
+  {
+    "name": "Ophoven",
+    "country": "BE",
+    "lat": 51.12571,
+    "lng": 5.80155
+  },
+  {
+    "name": "Ophasselt",
+    "country": "BE",
+    "lat": 50.81729,
+    "lng": 3.89293
+  },
+  {
+    "name": "Ophain-Bois-Seigneur-Isaac",
+    "country": "BE",
+    "lat": 50.66646,
+    "lng": 4.34865
+  },
+  {
+    "name": "Opgrimbie",
+    "country": "BE",
+    "lat": 50.94188,
+    "lng": 5.67967
+  },
+  {
+    "name": "Opglabbeek",
+    "country": "BE",
+    "lat": 51.04258,
+    "lng": 5.58346
+  },
+  {
+    "name": "Opdorp",
+    "country": "BE",
+    "lat": 51.02806,
+    "lng": 4.21801
+  },
+  {
+    "name": "Opbrakel",
+    "country": "BE",
+    "lat": 50.79201,
+    "lng": 3.74862
+  },
+  {
+    "name": "Opaka",
+    "country": "BG",
+    "lat": 43.45,
+    "lng": 26.16667
+  },
+  {
+    "name": "Opfikon",
+    "country": "CH",
+    "lat": 47.43169,
+    "lng": 8.57588
+  },
+  {
+    "name": "Oporapa",
+    "country": "CO",
+    "lat": 2.02378,
+    "lng": -75.99588
+  },
+  {
+    "name": "Opočno",
+    "country": "CZ",
+    "lat": 50.26742,
+    "lng": 16.1148
+  },
+  {
+    "name": "Opava",
+    "country": "CZ",
+    "lat": 49.93866,
+    "lng": 17.90257
+  },
+  {
+    "name": "Opatovice nad Labem",
+    "country": "CZ",
+    "lat": 50.14541,
+    "lng": 15.79045
+  },
+  {
+    "name": "Opatov",
+    "country": "CZ",
+    "lat": 49.825,
+    "lng": 16.50458
+  },
+  {
+    "name": "Opařany",
+    "country": "CZ",
+    "lat": 49.39678,
+    "lng": 14.48137
+  },
+  {
+    "name": "Oppurg",
+    "country": "DE",
+    "lat": 50.71065,
+    "lng": 11.65289
+  },
+  {
+    "name": "Oppum",
+    "country": "DE",
+    "lat": 51.32244,
+    "lng": 6.61518
+  },
+  {
+    "name": "Oppin",
+    "country": "DE",
+    "lat": 51.55136,
+    "lng": 12.03274
+  },
+  {
+    "name": "Oppenweiler",
+    "country": "DE",
+    "lat": 48.9827,
+    "lng": 9.4585
+  },
+  {
+    "name": "Oppenheim",
+    "country": "DE",
+    "lat": 49.8547,
+    "lng": 8.35974
+  },
+  {
+    "name": "Oppenau",
+    "country": "DE",
+    "lat": 48.47332,
+    "lng": 8.1597
+  },
+  {
+    "name": "Oppach",
+    "country": "DE",
+    "lat": 51.06667,
+    "lng": 14.5
+  },
+  {
+    "name": "Opladen",
+    "country": "DE",
+    "lat": 51.06863,
+    "lng": 7.00387
+  },
+  {
+    "name": "Opfenbach",
+    "country": "DE",
+    "lat": 47.63333,
+    "lng": 9.83333
+  },
+  {
+    "name": "Opañel",
+    "country": "ES",
+    "lat": 40.39023,
+    "lng": -3.72178
+  },
+  {
+    "name": "Oppède le Vieux",
+    "country": "FR",
+    "lat": 43.82844,
+    "lng": 5.16132
+  },
+  {
+    "name": "Opio",
+    "country": "FR",
+    "lat": 43.66862,
+    "lng": 6.98212
+  },
+  {
+    "name": "Opéra",
+    "country": "FR",
+    "lat": 43.29401,
+    "lng": 5.3761
+  },
+  {
+    "name": "Opuzen",
+    "country": "HR",
+    "lat": 43.01528,
+    "lng": 17.56556
+  },
+  {
+    "name": "Oprtalj",
+    "country": "HR",
+    "lat": 45.38167,
+    "lng": 13.82611
+  },
+  {
+    "name": "Oprisavci",
+    "country": "HR",
+    "lat": 45.1464,
+    "lng": 18.21576
+  },
+  {
+    "name": "Opatija",
+    "country": "HR",
+    "lat": 45.33658,
+    "lng": 14.30782
+  },
+  {
+    "name": "Oppido Lucano",
+    "country": "IT",
+    "lat": 40.76174,
+    "lng": 15.98818
+  },
+  {
+    "name": "Oppeano",
+    "country": "IT",
+    "lat": 45.30331,
+    "lng": 11.18005
+  },
+  {
+    "name": "Opi",
+    "country": "IT",
+    "lat": 41.77838,
+    "lng": 13.82932
+  },
+  {
+    "name": "Opera",
+    "country": "IT",
+    "lat": 45.37355,
+    "lng": 9.21084
+  },
+  {
+    "name": "Oppido Mamertina",
+    "country": "IT",
+    "lat": 38.29337,
+    "lng": 15.9839
+  },
+  {
+    "name": "Open Stage",
+    "country": "MV",
+    "lat": 5.1053,
+    "lng": 73.07115
+  },
+  {
+    "name": "Opichén",
+    "country": "MX",
+    "lat": 20.55116,
+    "lng": -89.85718
+  },
+  {
+    "name": "Opopeo",
+    "country": "MX",
+    "lat": 19.41163,
+    "lng": -101.60515
+  },
+  {
+    "name": "Opodepe",
+    "country": "MX",
+    "lat": 29.92588,
+    "lng": -110.62939
+  },
+  {
+    "name": "Opuwo",
+    "country": "NA",
+    "lat": -18.06068,
+    "lng": 13.83998
+  },
+  {
+    "name": "Oporoma",
+    "country": "NG",
+    "lat": 4.80604,
+    "lng": 6.08016
+  },
+  {
+    "name": "Opobo",
+    "country": "NG",
+    "lat": 4.51388,
+    "lng": 7.53794
+  },
+  {
+    "name": "Opi",
+    "country": "NG",
+    "lat": 6.78223,
+    "lng": 7.43319
+  },
+  {
+    "name": "Opperdoes",
+    "country": "NL",
+    "lat": 52.75915,
+    "lng": 5.07534
+  },
+  {
+    "name": "Oppenhuizen",
+    "country": "NL",
+    "lat": 53.01194,
+    "lng": 5.69495
+  },
+  {
+    "name": "Opmeer",
+    "country": "NL",
+    "lat": 52.70667,
+    "lng": 4.94444
+  },
+  {
+    "name": "Opijnen",
+    "country": "NL",
+    "lat": 51.82917,
+    "lng": 5.29861
+  },
+  {
+    "name": "Ophoven",
+    "country": "NL",
+    "lat": 50.99036,
+    "lng": 5.85868
+  },
+  {
+    "name": "Opheusden",
+    "country": "NL",
+    "lat": 51.93167,
+    "lng": 5.63194
+  },
+  {
+    "name": "Ophemert",
+    "country": "NL",
+    "lat": 51.845,
+    "lng": 5.3875
+  },
+  {
+    "name": "Opeinde",
+    "country": "NL",
+    "lat": 53.1341,
+    "lng": 6.05656
+  },
+  {
+    "name": "Op Buuren",
+    "country": "NL",
+    "lat": 52.12769,
+    "lng": 5.05847
+  },
+  {
+    "name": "Oppdal",
+    "country": "NO",
+    "lat": 62.59431,
+    "lng": 9.6912
+  },
+  {
+    "name": "Oppeid",
+    "country": "NO",
+    "lat": 68.08522,
+    "lng": 15.60942
+  },
+  {
+    "name": "Opua",
+    "country": "NZ",
+    "lat": -35.31667,
+    "lng": 174.11667
+  },
+  {
+    "name": "Opaheke",
+    "country": "NZ",
+    "lat": -37.08333,
+    "lng": 174.96667
+  },
+  {
+    "name": "Opunake",
+    "country": "NZ",
+    "lat": -39.45556,
+    "lng": 173.85833
+  },
+  {
+    "name": "Opotiki",
+    "country": "NZ",
+    "lat": -38.00915,
+    "lng": 177.28706
+  },
+  {
+    "name": "Opoho",
+    "country": "NZ",
+    "lat": -45.84838,
+    "lng": 170.5201
+  },
+  {
+    "name": "Opawa",
+    "country": "NZ",
+    "lat": -43.55499,
+    "lng": 172.66139
+  },
+  {
+    "name": "Opol",
+    "country": "PH",
+    "lat": 8.52139,
+    "lng": 124.57111
+  },
+  {
+    "name": "Opole Lubelskie",
+    "country": "PL",
+    "lat": 51.14775,
+    "lng": 21.96897
+  },
+  {
+    "name": "Opoczno",
+    "country": "PL",
+    "lat": 51.37569,
+    "lng": 20.27827
+  },
+  {
+    "name": "Opinogóra Górna",
+    "country": "PL",
+    "lat": 52.90554,
+    "lng": 20.71781
+  },
+  {
+    "name": "Opatowiec",
+    "country": "PL",
+    "lat": 50.24314,
+    "lng": 20.72348
+  },
+  {
+    "name": "Opatów",
+    "country": "PL",
+    "lat": 50.80058,
+    "lng": 21.42538
+  },
+  {
+    "name": "Oporów",
+    "country": "PL",
+    "lat": 52.26448,
+    "lng": 19.56416
+  },
+  {
+    "name": "Opole",
+    "country": "PL",
+    "lat": 50.67119,
+    "lng": 17.92604
+  },
+  {
+    "name": "Opatówek",
+    "country": "PL",
+    "lat": 51.73989,
+    "lng": 18.21653
+  },
+  {
+    "name": "Opatów",
+    "country": "PL",
+    "lat": 51.21463,
+    "lng": 18.14615
+  },
+  {
+    "name": "Opatów",
+    "country": "PL",
+    "lat": 50.95567,
+    "lng": 18.81941
+  },
+  {
+    "name": "Opalenica",
+    "country": "PL",
+    "lat": 52.30887,
+    "lng": 16.41278
+  },
+  {
+    "name": "Optaşi",
+    "country": "RO",
+    "lat": 44.58333,
+    "lng": 24.65
+  },
+  {
+    "name": "Oprişor",
+    "country": "RO",
+    "lat": 44.28333,
+    "lng": 23.08333
+  },
+  {
+    "name": "Oporelu",
+    "country": "RO",
+    "lat": 44.6,
+    "lng": 24.41667
+  },
+  {
+    "name": "Opovo",
+    "country": "RS",
+    "lat": 45.05222,
+    "lng": 20.43028
+  },
+  {
+    "name": "Opochka",
+    "country": "RU",
+    "lat": 56.71448,
+    "lng": 28.66287
+  },
+  {
+    "name": "Opechenskiy Posad",
+    "country": "RU",
+    "lat": 58.2751,
+    "lng": 34.11731
+  },
+  {
+    "name": "Oparino",
+    "country": "RU",
+    "lat": 59.85098,
+    "lng": 48.28614
+  },
+  {
+    "name": "Opalikha",
+    "country": "RU",
+    "lat": 55.82593,
+    "lng": 37.25278
+  },
+  {
+    "name": "Oplotnica",
+    "country": "SI",
+    "lat": 46.38733,
+    "lng": 15.44583
+  },
+  {
+    "name": "Opatovce nad Nitrou",
+    "country": "SK",
+    "lat": 48.76448,
+    "lng": 18.57169
+  },
+  {
+    "name": "Oprysheny",
+    "country": "UA",
+    "lat": 48.05334,
+    "lng": 26.02699
+  },
+  {
+    "name": "Opishnya",
+    "country": "UA",
+    "lat": 49.95948,
+    "lng": 34.60634
+  },
+  {
+    "name": "Opytne",
+    "country": "UA",
+    "lat": 48.5562,
+    "lng": 38.01744
+  },
+  {
+    "name": "Opit",
+    "country": "UG",
+    "lat": 2.61112,
+    "lng": 32.47559
+  },
+  {
+    "name": "Opelika",
+    "country": "US",
+    "lat": 32.64541,
+    "lng": -85.37828
+  },
+  {
+    "name": "Opp",
+    "country": "US",
+    "lat": 31.28267,
+    "lng": -86.25551
+  },
+  {
+    "name": "Opa-locka",
+    "country": "US",
+    "lat": 25.90232,
+    "lng": -80.25033
+  },
+  {
+    "name": "Opelousas",
+    "country": "US",
+    "lat": 30.53353,
+    "lng": -92.08151
+  },
+  {
+    "name": "Opportunity",
+    "country": "US",
+    "lat": 47.64995,
+    "lng": -117.23991
+  },
+  {
+    "name": "Op-die-Berg",
+    "country": "ZA",
+    "lat": -33.01726,
+    "lng": 19.3107
+  }
+]

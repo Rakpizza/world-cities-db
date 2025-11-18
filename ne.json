@@ -1,0 +1,7064 @@
+[
+  {
+    "name": "Nerkin Sasnashen",
+    "country": "AM",
+    "lat": 40.35553,
+    "lng": 43.9917
+  },
+  {
+    "name": "Nerkin Getashen",
+    "country": "AM",
+    "lat": 40.14172,
+    "lng": 45.27087
+  },
+  {
+    "name": "Nerkin Bazmaberd",
+    "country": "AM",
+    "lat": 40.33893,
+    "lng": 44.01392
+  },
+  {
+    "name": "Negage",
+    "country": "AO",
+    "lat": -7.75938,
+    "lng": 15.2722
+  },
+  {
+    "name": "Necochea",
+    "country": "AR",
+    "lat": -38.5545,
+    "lng": -58.73961
+  },
+  {
+    "name": "Neuquén",
+    "country": "AR",
+    "lat": -38.95078,
+    "lng": -68.0592
+  },
+  {
+    "name": "Neu-Guntramsdorf",
+    "country": "AT",
+    "lat": 48.0642,
+    "lng": 16.31573
+  },
+  {
+    "name": "Neuhaus am Klausenbach",
+    "country": "AT",
+    "lat": 46.86667,
+    "lng": 16.03333
+  },
+  {
+    "name": "Neuzeug",
+    "country": "AT",
+    "lat": 48.05,
+    "lng": 14.33333
+  },
+  {
+    "name": "Neutillmitsch",
+    "country": "AT",
+    "lat": 46.81667,
+    "lng": 15.53333
+  },
+  {
+    "name": "Neutal",
+    "country": "AT",
+    "lat": 47.54548,
+    "lng": 16.44619
+  },
+  {
+    "name": "Neustift im Stubaital",
+    "country": "AT",
+    "lat": 47.11667,
+    "lng": 11.31667
+  },
+  {
+    "name": "Neustift bei Güssing",
+    "country": "AT",
+    "lat": 47.02474,
+    "lng": 16.26041
+  },
+  {
+    "name": "Neustift an der Lafnitz",
+    "country": "AT",
+    "lat": 47.36667,
+    "lng": 16.03333
+  },
+  {
+    "name": "Neusiedl an der Zaya",
+    "country": "AT",
+    "lat": 48.5992,
+    "lng": 16.7799
+  },
+  {
+    "name": "Neusiedl am See",
+    "country": "AT",
+    "lat": 47.94901,
+    "lng": 16.8417
+  },
+  {
+    "name": "Neusiedl",
+    "country": "AT",
+    "lat": 47.88769,
+    "lng": 15.96313
+  },
+  {
+    "name": "Neunkirchen",
+    "country": "AT",
+    "lat": 47.72096,
+    "lng": 16.08107
+  },
+  {
+    "name": "Neumarkt in Steiermark",
+    "country": "AT",
+    "lat": 47.07398,
+    "lng": 14.42728
+  },
+  {
+    "name": "Neumarkt im Mühlkreis",
+    "country": "AT",
+    "lat": 48.42818,
+    "lng": 14.48444
+  },
+  {
+    "name": "Neumarkt im Hausruckkreis",
+    "country": "AT",
+    "lat": 48.2728,
+    "lng": 13.72836
+  },
+  {
+    "name": "Neumarkt an der Ybbs",
+    "country": "AT",
+    "lat": 48.14103,
+    "lng": 15.05758
+  },
+  {
+    "name": "Neumarkt am Wallersee",
+    "country": "AT",
+    "lat": 47.95,
+    "lng": 13.23333
+  },
+  {
+    "name": "Neulengbach",
+    "country": "AT",
+    "lat": 48.19745,
+    "lng": 15.90219
+  },
+  {
+    "name": "Neukirchen bei Lambach",
+    "country": "AT",
+    "lat": 48.1,
+    "lng": 13.81667
+  },
+  {
+    "name": "Neukirchen an der Vöckla",
+    "country": "AT",
+    "lat": 48.04053,
+    "lng": 13.5376
+  },
+  {
+    "name": "Neukirchen am Walde",
+    "country": "AT",
+    "lat": 48.40584,
+    "lng": 13.78158
+  },
+  {
+    "name": "Neukirchen am Großvenediger",
+    "country": "AT",
+    "lat": 47.25046,
+    "lng": 12.27585
+  },
+  {
+    "name": "Neukirchen",
+    "country": "AT",
+    "lat": 47.87502,
+    "lng": 13.71111
+  },
+  {
+    "name": "Neuhofen an der Ybbs",
+    "country": "AT",
+    "lat": 48.05795,
+    "lng": 14.85489
+  },
+  {
+    "name": "Neuhofen an der Krems",
+    "country": "AT",
+    "lat": 48.13866,
+    "lng": 14.22764
+  },
+  {
+    "name": "Neuhaus",
+    "country": "AT",
+    "lat": 46.63333,
+    "lng": 14.88333
+  },
+  {
+    "name": "Neufeld an der Leitha",
+    "country": "AT",
+    "lat": 47.86558,
+    "lng": 16.37856
+  },
+  {
+    "name": "Neudörfl",
+    "country": "AT",
+    "lat": 47.79655,
+    "lng": 16.2977
+  },
+  {
+    "name": "Neudorf im Weinviertel",
+    "country": "AT",
+    "lat": 48.72083,
+    "lng": 16.49139
+  },
+  {
+    "name": "Neudau",
+    "country": "AT",
+    "lat": 47.17554,
+    "lng": 16.10184
+  },
+  {
+    "name": "Neuberg an der Mürz",
+    "country": "AT",
+    "lat": 47.66423,
+    "lng": 15.57226
+  },
+  {
+    "name": "Nestelbach im Ilztal",
+    "country": "AT",
+    "lat": 47.08333,
+    "lng": 15.86667
+  },
+  {
+    "name": "Nestelbach bei Graz",
+    "country": "AT",
+    "lat": 47.06053,
+    "lng": 15.6114
+  },
+  {
+    "name": "Nesselwängle",
+    "country": "AT",
+    "lat": 47.48333,
+    "lng": 10.61667
+  },
+  {
+    "name": "Nenzing",
+    "country": "AT",
+    "lat": 47.18436,
+    "lng": 9.70539
+  },
+  {
+    "name": "Neidling",
+    "country": "AT",
+    "lat": 48.24005,
+    "lng": 15.55591
+  },
+  {
+    "name": "Neckenmarkt",
+    "country": "AT",
+    "lat": 47.59964,
+    "lng": 16.5467
+  },
+  {
+    "name": "Neue Heimat",
+    "country": "AT",
+    "lat": 48.24565,
+    "lng": 13.04172
+  },
+  {
+    "name": "Nebelberg",
+    "country": "AT",
+    "lat": 48.62854,
+    "lng": 13.84629
+  },
+  {
+    "name": "Neuberg im Burgenland",
+    "country": "AT",
+    "lat": 47.16894,
+    "lng": 16.26054
+  },
+  {
+    "name": "Neufurth",
+    "country": "AT",
+    "lat": 48.07894,
+    "lng": 14.8118
+  },
+  {
+    "name": "Neualm",
+    "country": "AT",
+    "lat": 47.69336,
+    "lng": 13.08758
+  },
+  {
+    "name": "Neu-Feffernitz",
+    "country": "AT",
+    "lat": 46.68772,
+    "lng": 13.67914
+  },
+  {
+    "name": "Neubau",
+    "country": "AT",
+    "lat": 48.21901,
+    "lng": 14.19301
+  },
+  {
+    "name": "Neubau",
+    "country": "AT",
+    "lat": 48.20172,
+    "lng": 16.34715
+  },
+  {
+    "name": "Newman",
+    "country": "AU",
+    "lat": -23.35644,
+    "lng": 119.73553
+  },
+  {
+    "name": "Nedlands",
+    "country": "AU",
+    "lat": -31.98184,
+    "lng": 115.8073
+  },
+  {
+    "name": "Newtown",
+    "country": "AU",
+    "lat": -33.89835,
+    "lng": 151.17754
+  },
+  {
+    "name": "Newstead",
+    "country": "AU",
+    "lat": -41.44108,
+    "lng": 147.16183
+  },
+  {
+    "name": "Newstead",
+    "country": "AU",
+    "lat": -27.45314,
+    "lng": 153.04183
+  },
+  {
+    "name": "Newport",
+    "country": "AU",
+    "lat": -37.84427,
+    "lng": 144.88483
+  },
+  {
+    "name": "Newport",
+    "country": "AU",
+    "lat": -33.65639,
+    "lng": 151.31401
+  },
+  {
+    "name": "New Norfolk",
+    "country": "AU",
+    "lat": -42.78261,
+    "lng": 147.0587
+  },
+  {
+    "name": "Newnham",
+    "country": "AU",
+    "lat": -41.38969,
+    "lng": 147.11397
+  },
+  {
+    "name": "Newmarket",
+    "country": "AU",
+    "lat": -27.43534,
+    "lng": 153.00781
+  },
+  {
+    "name": "Newington",
+    "country": "AU",
+    "lat": -37.55846,
+    "lng": 143.82485
+  },
+  {
+    "name": "Newcastle",
+    "country": "AU",
+    "lat": -32.92953,
+    "lng": 151.7801
+  },
+  {
+    "name": "Nerang",
+    "country": "AU",
+    "lat": -27.98941,
+    "lng": 153.33633
+  },
+  {
+    "name": "Nelson Bay",
+    "country": "AU",
+    "lat": -32.72043,
+    "lng": 152.14398
+  },
+  {
+    "name": "Neerim South",
+    "country": "AU",
+    "lat": -38.01683,
+    "lng": 145.95447
+  },
+  {
+    "name": "Nebo",
+    "country": "AU",
+    "lat": -21.68333,
+    "lng": 148.68333
+  },
+  {
+    "name": "New Lambton",
+    "country": "AU",
+    "lat": -32.92838,
+    "lng": 151.7085
+  },
+  {
+    "name": "New Town",
+    "country": "AU",
+    "lat": -42.85758,
+    "lng": 147.30869
+  },
+  {
+    "name": "New Farm",
+    "country": "AU",
+    "lat": -27.46777,
+    "lng": 153.04834
+  },
+  {
+    "name": "Neutral Bay",
+    "country": "AU",
+    "lat": -33.83784,
+    "lng": 151.2175
+  },
+  {
+    "name": "Newport",
+    "country": "AU",
+    "lat": -27.20731,
+    "lng": 153.10135
+  },
+  {
+    "name": "Nelly Bay",
+    "country": "AU",
+    "lat": -19.15775,
+    "lng": 146.84977
+  },
+  {
+    "name": "Netley",
+    "country": "AU",
+    "lat": -34.94887,
+    "lng": 138.54983
+  },
+  {
+    "name": "Newborough",
+    "country": "AU",
+    "lat": -38.17171,
+    "lng": 146.29264
+  },
+  {
+    "name": "Newcomb",
+    "country": "AU",
+    "lat": -38.16623,
+    "lng": 144.39429
+  },
+  {
+    "name": "Netherby",
+    "country": "AU",
+    "lat": -34.97048,
+    "lng": 138.62503
+  },
+  {
+    "name": "Newtown",
+    "country": "AU",
+    "lat": -27.6163,
+    "lng": 152.77675
+  },
+  {
+    "name": "New Beith",
+    "country": "AU",
+    "lat": -27.766,
+    "lng": 152.942
+  },
+  {
+    "name": "Newton",
+    "country": "AU",
+    "lat": -34.88207,
+    "lng": 138.68249
+  },
+  {
+    "name": "Newtown",
+    "country": "AU",
+    "lat": -27.55602,
+    "lng": 151.93255
+  },
+  {
+    "name": "New Auckland",
+    "country": "AU",
+    "lat": -23.88359,
+    "lng": 151.23563
+  },
+  {
+    "name": "Newtown",
+    "country": "AU",
+    "lat": -38.15391,
+    "lng": 144.33507
+  },
+  {
+    "name": "Newington",
+    "country": "AU",
+    "lat": -33.83488,
+    "lng": 151.05703
+  },
+  {
+    "name": "New Lambton Heights",
+    "country": "AU",
+    "lat": -32.92466,
+    "lng": 151.69364
+  },
+  {
+    "name": "Newcastle East",
+    "country": "AU",
+    "lat": -32.92771,
+    "lng": 151.7884
+  },
+  {
+    "name": "New Gisborne",
+    "country": "AU",
+    "lat": -37.46065,
+    "lng": 144.5993
+  },
+  {
+    "name": "Neftçala",
+    "country": "AZ",
+    "lat": 39.3768,
+    "lng": 49.247
+  },
+  {
+    "name": "Nevesinje",
+    "country": "BA",
+    "lat": 43.25861,
+    "lng": 18.11333
+  },
+  {
+    "name": "Neum",
+    "country": "BA",
+    "lat": 42.92333,
+    "lng": 17.61556
+  },
+  {
+    "name": "Netrakona",
+    "country": "BD",
+    "lat": 24.88352,
+    "lng": 90.72898
+  },
+  {
+    "name": "Nevele",
+    "country": "BE",
+    "lat": 51.03531,
+    "lng": 3.54574
+  },
+  {
+    "name": "Neuville-en-Condroz",
+    "country": "BE",
+    "lat": 50.55293,
+    "lng": 5.45076
+  },
+  {
+    "name": "Neuville",
+    "country": "BE",
+    "lat": 50.17327,
+    "lng": 4.51598
+  },
+  {
+    "name": "Neu-Moresnet",
+    "country": "BE",
+    "lat": 50.71575,
+    "lng": 6.02119
+  },
+  {
+    "name": "Neufvilles",
+    "country": "BE",
+    "lat": 50.57107,
+    "lng": 4.00041
+  },
+  {
+    "name": "Neufchâteau",
+    "country": "BE",
+    "lat": 49.84074,
+    "lng": 5.43535
+  },
+  {
+    "name": "Nethen",
+    "country": "BE",
+    "lat": 50.7832,
+    "lng": 4.67503
+  },
+  {
+    "name": "Neerwinden",
+    "country": "BE",
+    "lat": 50.76756,
+    "lng": 5.04021
+  },
+  {
+    "name": "Neerpelt",
+    "country": "BE",
+    "lat": 51.22807,
+    "lng": 5.4427
+  },
+  {
+    "name": "Neeroeteren",
+    "country": "BE",
+    "lat": 51.09156,
+    "lng": 5.69933
+  },
+  {
+    "name": "Neerlinter",
+    "country": "BE",
+    "lat": 50.83971,
+    "lng": 5.02287
+  },
+  {
+    "name": "Neerijse",
+    "country": "BE",
+    "lat": 50.81722,
+    "lng": 4.62361
+  },
+  {
+    "name": "Neerheylissem",
+    "country": "BE",
+    "lat": 50.75839,
+    "lng": 4.9883
+  },
+  {
+    "name": "Neerharen",
+    "country": "BE",
+    "lat": 50.90964,
+    "lng": 5.68027
+  },
+  {
+    "name": "Nederokkerzeel",
+    "country": "BE",
+    "lat": 50.91943,
+    "lng": 4.56388
+  },
+  {
+    "name": "Nederhasselt",
+    "country": "BE",
+    "lat": 50.84646,
+    "lng": 3.97497
+  },
+  {
+    "name": "Nederboelare",
+    "country": "BE",
+    "lat": 50.77596,
+    "lng": 3.87148
+  },
+  {
+    "name": "Negenmanneke",
+    "country": "BE",
+    "lat": 50.80458,
+    "lng": 4.28506
+  },
+  {
+    "name": "Nevestino",
+    "country": "BG",
+    "lat": 42.25465,
+    "lng": 22.84899
+  },
+  {
+    "name": "Nesebar",
+    "country": "BG",
+    "lat": 42.65921,
+    "lng": 27.73602
+  },
+  {
+    "name": "Nedelino",
+    "country": "BG",
+    "lat": 41.45602,
+    "lng": 25.08008
+  },
+  {
+    "name": "Neves Paulista",
+    "country": "BR",
+    "lat": -20.84611,
+    "lng": -49.62972
+  },
+  {
+    "name": "Nerópolis",
+    "country": "BR",
+    "lat": -16.40639,
+    "lng": -49.21861
+  },
+  {
+    "name": "Nepomuceno",
+    "country": "BR",
+    "lat": -21.23342,
+    "lng": -45.23488
+  },
+  {
+    "name": "Neópolis",
+    "country": "BR",
+    "lat": -10.32,
+    "lng": -36.57944
+  },
+  {
+    "name": "Nesvizh",
+    "country": "BY",
+    "lat": 53.22186,
+    "lng": 26.67679
+  },
+  {
+    "name": "Neuland",
+    "country": "BZ",
+    "lat": 18.0519,
+    "lng": -88.24824
+  },
+  {
+    "name": "Neebing",
+    "country": "CA",
+    "lat": 48.1668,
+    "lng": -89.41683
+  },
+  {
+    "name": "Neepawa",
+    "country": "CA",
+    "lat": 50.22892,
+    "lng": -99.46642
+  },
+  {
+    "name": "Nelson",
+    "country": "CA",
+    "lat": 49.49985,
+    "lng": -117.28553
+  },
+  {
+    "name": "Nepean",
+    "country": "CA",
+    "lat": 45.33619,
+    "lng": -75.7225
+  },
+  {
+    "name": "New Glasgow",
+    "country": "CA",
+    "lat": 45.58344,
+    "lng": -62.64863
+  },
+  {
+    "name": "New Hamburg",
+    "country": "CA",
+    "lat": 43.38339,
+    "lng": -80.6997
+  },
+  {
+    "name": "Newmarket",
+    "country": "CA",
+    "lat": 44.05011,
+    "lng": -79.46631
+  },
+  {
+    "name": "New Maryland",
+    "country": "CA",
+    "lat": 45.89662,
+    "lng": -66.68225
+  },
+  {
+    "name": "Newton",
+    "country": "CA",
+    "lat": 49.13333,
+    "lng": -122.85
+  },
+  {
+    "name": "New Toronto",
+    "country": "CA",
+    "lat": 43.60019,
+    "lng": -79.50527
+  },
+  {
+    "name": "New Westminster",
+    "country": "CA",
+    "lat": 49.20678,
+    "lng": -122.91092
+  },
+  {
+    "name": "New-Wes-Valley",
+    "country": "CA",
+    "lat": 49.14988,
+    "lng": -53.56475
+  },
+  {
+    "name": "Neuville",
+    "country": "CA",
+    "lat": 46.69823,
+    "lng": -71.58275
+  },
+  {
+    "name": "Neguac",
+    "country": "CA",
+    "lat": 47.24894,
+    "lng": -65.07408
+  },
+  {
+    "name": "New-Richmond",
+    "country": "CA",
+    "lat": 48.16059,
+    "lng": -65.85823
+  },
+  {
+    "name": "New Carlisle",
+    "country": "CA",
+    "lat": 48.00956,
+    "lng": -65.33621
+  },
+  {
+    "name": "Neufchâtel-Est–Lebourgneuf",
+    "country": "CA",
+    "lat": 46.85436,
+    "lng": -71.34191
+  },
+  {
+    "name": "Newtonbrook East",
+    "country": "CA",
+    "lat": 43.79154,
+    "lng": -79.40594
+  },
+  {
+    "name": "Newtonbrook West",
+    "country": "CA",
+    "lat": 43.78583,
+    "lng": -79.43142
+  },
+  {
+    "name": "New Horizons",
+    "country": "CA",
+    "lat": 49.28125,
+    "lng": -122.77906
+  },
+  {
+    "name": "Neunkirch",
+    "country": "CH",
+    "lat": 47.69012,
+    "lng": 8.49981
+  },
+  {
+    "name": "Neuhausen",
+    "country": "CH",
+    "lat": 47.68579,
+    "lng": 8.61474
+  },
+  {
+    "name": "Neuenkirch",
+    "country": "CH",
+    "lat": 47.09989,
+    "lng": 8.20416
+  },
+  {
+    "name": "Neuenhof",
+    "country": "CH",
+    "lat": 47.44985,
+    "lng": 8.32682
+  },
+  {
+    "name": "Neudorf",
+    "country": "CH",
+    "lat": 47.17699,
+    "lng": 8.20911
+  },
+  {
+    "name": "Neuchâtel",
+    "country": "CH",
+    "lat": 46.99179,
+    "lng": 6.931
+  },
+  {
+    "name": "Netstal",
+    "country": "CH",
+    "lat": 47.06337,
+    "lng": 9.05734
+  },
+  {
+    "name": "Neftenbach / Dorf Neftenbach",
+    "country": "CH",
+    "lat": 47.52764,
+    "lng": 8.6649
+  },
+  {
+    "name": "Nebikon",
+    "country": "CH",
+    "lat": 47.19185,
+    "lng": 7.97769
+  },
+  {
+    "name": "Neerach",
+    "country": "CH",
+    "lat": 47.51096,
+    "lng": 8.47099
+  },
+  {
+    "name": "Nero-Brousse",
+    "country": "CI",
+    "lat": 4.80636,
+    "lng": -6.92561
+  },
+  {
+    "name": "Nerkéné",
+    "country": "CI",
+    "lat": 9.09566,
+    "lng": -5.72041
+  },
+  {
+    "name": "Neixiang Chengguanzhen",
+    "country": "CN",
+    "lat": 33.04667,
+    "lng": 111.84361
+  },
+  {
+    "name": "Neiqiu",
+    "country": "CN",
+    "lat": 37.28539,
+    "lng": 114.51074
+  },
+  {
+    "name": "Neijiang",
+    "country": "CN",
+    "lat": 29.58354,
+    "lng": 105.06216
+  },
+  {
+    "name": "Neihuang",
+    "country": "CN",
+    "lat": 35.95321,
+    "lng": 114.89689
+  },
+  {
+    "name": "Neikeng",
+    "country": "CN",
+    "lat": 24.78544,
+    "lng": 118.46037
+  },
+  {
+    "name": "Nenjiang",
+    "country": "CN",
+    "lat": 49.17405,
+    "lng": 125.21967
+  },
+  {
+    "name": "Nehe",
+    "country": "CN",
+    "lat": 48.4793,
+    "lng": 124.87016
+  },
+  {
+    "name": "Nemocón",
+    "country": "CO",
+    "lat": 5.06767,
+    "lng": -73.87769
+  },
+  {
+    "name": "Neiva",
+    "country": "CO",
+    "lat": 2.93001,
+    "lng": -75.27973
+  },
+  {
+    "name": "Neira",
+    "country": "CO",
+    "lat": 5.1665,
+    "lng": -75.52001
+  },
+  {
+    "name": "Necoclí",
+    "country": "CO",
+    "lat": 8.42627,
+    "lng": -76.78926
+  },
+  {
+    "name": "Nechí",
+    "country": "CO",
+    "lat": 8.09419,
+    "lng": -74.77573
+  },
+  {
+    "name": "Nezvěstice",
+    "country": "CZ",
+    "lat": 49.64043,
+    "lng": 13.51962
+  },
+  {
+    "name": "Nezamyslice",
+    "country": "CZ",
+    "lat": 49.32543,
+    "lng": 17.17326
+  },
+  {
+    "name": "Neveklov",
+    "country": "CZ",
+    "lat": 49.75373,
+    "lng": 14.53291
+  },
+  {
+    "name": "Netvořice",
+    "country": "CZ",
+    "lat": 49.81569,
+    "lng": 14.51827
+  },
+  {
+    "name": "Netolice",
+    "country": "CZ",
+    "lat": 49.0493,
+    "lng": 14.197
+  },
+  {
+    "name": "Nesovice",
+    "country": "CZ",
+    "lat": 49.15111,
+    "lng": 17.08095
+  },
+  {
+    "name": "Neratovice",
+    "country": "CZ",
+    "lat": 50.25926,
+    "lng": 14.51759
+  },
+  {
+    "name": "Nepomuk",
+    "country": "CZ",
+    "lat": 49.48616,
+    "lng": 13.58225
+  },
+  {
+    "name": "Nemanice",
+    "country": "CZ",
+    "lat": 49.43655,
+    "lng": 12.72053
+  },
+  {
+    "name": "Nelahozeves",
+    "country": "CZ",
+    "lat": 50.26148,
+    "lng": 14.29881
+  },
+  {
+    "name": "Nejdek",
+    "country": "CZ",
+    "lat": 50.32242,
+    "lng": 12.72936
+  },
+  {
+    "name": "Nehvizdy",
+    "country": "CZ",
+    "lat": 50.13056,
+    "lng": 14.72993
+  },
+  {
+    "name": "Nedvědice",
+    "country": "CZ",
+    "lat": 49.45702,
+    "lng": 16.33406
+  },
+  {
+    "name": "Nedašov",
+    "country": "CZ",
+    "lat": 49.10778,
+    "lng": 18.07036
+  },
+  {
+    "name": "Nedakonice",
+    "country": "CZ",
+    "lat": 49.03159,
+    "lng": 17.38141
+  },
+  {
+    "name": "Nechanice",
+    "country": "CZ",
+    "lat": 50.23737,
+    "lng": 15.63276
+  },
+  {
+    "name": "Newel",
+    "country": "DE",
+    "lat": 49.8124,
+    "lng": 6.58304
+  },
+  {
+    "name": "Neverin",
+    "country": "DE",
+    "lat": 53.61913,
+    "lng": 13.33483
+  },
+  {
+    "name": "Neuzelle",
+    "country": "DE",
+    "lat": 52.09016,
+    "lng": 14.64804
+  },
+  {
+    "name": "Neu Zauche",
+    "country": "DE",
+    "lat": 51.92757,
+    "lng": 14.08812
+  },
+  {
+    "name": "Neu Wulmstorf",
+    "country": "DE",
+    "lat": 53.46667,
+    "lng": 9.8
+  },
+  {
+    "name": "Neuwittenbek",
+    "country": "DE",
+    "lat": 54.36799,
+    "lng": 10.02686
+  },
+  {
+    "name": "Neuwied",
+    "country": "DE",
+    "lat": 50.4336,
+    "lng": 7.47057
+  },
+  {
+    "name": "Neuweiler",
+    "country": "DE",
+    "lat": 48.66667,
+    "lng": 8.6
+  },
+  {
+    "name": "Neu-Ulm",
+    "country": "DE",
+    "lat": 48.39279,
+    "lng": 10.01112
+  },
+  {
+    "name": "Neutrebbin",
+    "country": "DE",
+    "lat": 52.66482,
+    "lng": 14.22802
+  },
+  {
+    "name": "Neutraubling",
+    "country": "DE",
+    "lat": 48.98737,
+    "lng": 12.201
+  },
+  {
+    "name": "Neustrelitz",
+    "country": "DE",
+    "lat": 53.3613,
+    "lng": 13.07292
+  },
+  {
+    "name": "Neustadt in Holstein",
+    "country": "DE",
+    "lat": 54.10707,
+    "lng": 10.8145
+  },
+  {
+    "name": "Neustadt-Glewe",
+    "country": "DE",
+    "lat": 53.37846,
+    "lng": 11.59264
+  },
+  {
+    "name": "Neustadt bei Coburg",
+    "country": "DE",
+    "lat": 50.32975,
+    "lng": 11.12058
+  },
+  {
+    "name": "Neustadt an der Weinstraße",
+    "country": "DE",
+    "lat": 49.35009,
+    "lng": 8.13886
+  },
+  {
+    "name": "Neustadt an der Waldnaab",
+    "country": "DE",
+    "lat": 49.73287,
+    "lng": 12.17773
+  },
+  {
+    "name": "Neustadt an der Donau",
+    "country": "DE",
+    "lat": 48.80705,
+    "lng": 11.76952
+  },
+  {
+    "name": "Neustadt an der Aisch",
+    "country": "DE",
+    "lat": 49.57953,
+    "lng": 10.61126
+  },
+  {
+    "name": "Neustadt am Rübenberge",
+    "country": "DE",
+    "lat": 52.50462,
+    "lng": 9.45871
+  },
+  {
+    "name": "Neustadt am Rennsteig",
+    "country": "DE",
+    "lat": 50.58216,
+    "lng": 10.93323
+  },
+  {
+    "name": "Neustadt am Main",
+    "country": "DE",
+    "lat": 49.93021,
+    "lng": 9.56808
+  },
+  {
+    "name": "Neustadt",
+    "country": "DE",
+    "lat": 53.55196,
+    "lng": 9.98558
+  },
+  {
+    "name": "Neue Neustadt",
+    "country": "DE",
+    "lat": 52.15,
+    "lng": 11.63333
+  },
+  {
+    "name": "Neustadt in Sachsen",
+    "country": "DE",
+    "lat": 51.02844,
+    "lng": 14.21785
+  },
+  {
+    "name": "Neustadt (Hessen)",
+    "country": "DE",
+    "lat": 50.85,
+    "lng": 9.11667
+  },
+  {
+    "name": "Neustadt Vogtland",
+    "country": "DE",
+    "lat": 50.461,
+    "lng": 12.33224
+  },
+  {
+    "name": "Neuss",
+    "country": "DE",
+    "lat": 51.19807,
+    "lng": 6.68504
+  },
+  {
+    "name": "Neusorg",
+    "country": "DE",
+    "lat": 49.93333,
+    "lng": 11.96667
+  },
+  {
+    "name": "Neusitz",
+    "country": "DE",
+    "lat": 49.37185,
+    "lng": 10.22559
+  },
+  {
+    "name": "Neuschönau",
+    "country": "DE",
+    "lat": 48.88419,
+    "lng": 13.47576
+  },
+  {
+    "name": "Neusalza-Spremberg",
+    "country": "DE",
+    "lat": 51.03945,
+    "lng": 14.5356
+  },
+  {
+    "name": "Neuruppin",
+    "country": "DE",
+    "lat": 52.92815,
+    "lng": 12.80311
+  },
+  {
+    "name": "Neuried",
+    "country": "DE",
+    "lat": 48.09322,
+    "lng": 11.46561
+  },
+  {
+    "name": "Neureichenau",
+    "country": "DE",
+    "lat": 48.74861,
+    "lng": 13.74699
+  },
+  {
+    "name": "Neupotz",
+    "country": "DE",
+    "lat": 49.11778,
+    "lng": 8.31944
+  },
+  {
+    "name": "Neuötting",
+    "country": "DE",
+    "lat": 48.24102,
+    "lng": 12.68998
+  },
+  {
+    "name": "Neunkirchen am Sand",
+    "country": "DE",
+    "lat": 49.52464,
+    "lng": 11.31955
+  },
+  {
+    "name": "Neunkirchen am Main",
+    "country": "DE",
+    "lat": 49.923,
+    "lng": 11.64793
+  },
+  {
+    "name": "Neunkirchen",
+    "country": "DE",
+    "lat": 50.8,
+    "lng": 8.0
+  },
+  {
+    "name": "Neunkirchen",
+    "country": "DE",
+    "lat": 49.38694,
+    "lng": 9.01056
+  },
+  {
+    "name": "Neunkirchen",
+    "country": "DE",
+    "lat": 49.34449,
+    "lng": 7.18045
+  },
+  {
+    "name": "Neunkhausen",
+    "country": "DE",
+    "lat": 50.70722,
+    "lng": 7.90278
+  },
+  {
+    "name": "Neundorf",
+    "country": "DE",
+    "lat": 51.8208,
+    "lng": 11.57484
+  },
+  {
+    "name": "Neunburg vorm Wald",
+    "country": "DE",
+    "lat": 49.34782,
+    "lng": 12.38621
+  },
+  {
+    "name": "Neumünster",
+    "country": "DE",
+    "lat": 54.07399,
+    "lng": 9.98456
+  },
+  {
+    "name": "Neumühle",
+    "country": "DE",
+    "lat": 53.63171,
+    "lng": 11.37085
+  },
+  {
+    "name": "Neumarkt-Sankt Veit",
+    "country": "DE",
+    "lat": 48.36051,
+    "lng": 12.50723
+  },
+  {
+    "name": "Neumarkt in der Oberpfalz",
+    "country": "DE",
+    "lat": 49.28028,
+    "lng": 11.46278
+  },
+  {
+    "name": "Neumark",
+    "country": "DE",
+    "lat": 50.6601,
+    "lng": 12.35619
+  },
+  {
+    "name": "Neulußheim",
+    "country": "DE",
+    "lat": 49.29333,
+    "lng": 8.52194
+  },
+  {
+    "name": "Neulewin",
+    "country": "DE",
+    "lat": 52.72434,
+    "lng": 14.27922
+  },
+  {
+    "name": "Neuler",
+    "country": "DE",
+    "lat": 48.92803,
+    "lng": 10.06888
+  },
+  {
+    "name": "Neuland",
+    "country": "DE",
+    "lat": 53.46965,
+    "lng": 10.03287
+  },
+  {
+    "name": "Neukölln",
+    "country": "DE",
+    "lat": 52.47719,
+    "lng": 13.43126
+  },
+  {
+    "name": "Neukloster",
+    "country": "DE",
+    "lat": 53.86661,
+    "lng": 11.68779
+  },
+  {
+    "name": "Neukirchen beim Heiligen Blut",
+    "country": "DE",
+    "lat": 49.25867,
+    "lng": 12.96867
+  },
+  {
+    "name": "Neukirchen-Balbini",
+    "country": "DE",
+    "lat": 49.29101,
+    "lng": 12.43643
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 54.86667,
+    "lng": 8.73333
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 54.2166,
+    "lng": 10.55456
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 50.86906,
+    "lng": 9.34655
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 50.80188,
+    "lng": 12.38416
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 50.77955,
+    "lng": 12.86755
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 49.26015,
+    "lng": 12.96921
+  },
+  {
+    "name": "Neukirchen",
+    "country": "DE",
+    "lat": 48.97506,
+    "lng": 12.75547
+  },
+  {
+    "name": "Neukirch",
+    "country": "DE",
+    "lat": 51.28333,
+    "lng": 13.98333
+  },
+  {
+    "name": "Neukirch/Lausitz",
+    "country": "DE",
+    "lat": 51.09727,
+    "lng": 14.30789
+  },
+  {
+    "name": "Neukirch",
+    "country": "DE",
+    "lat": 47.65738,
+    "lng": 9.70333
+  },
+  {
+    "name": "Neukieritzsch",
+    "country": "DE",
+    "lat": 51.14995,
+    "lng": 12.4109
+  },
+  {
+    "name": "Neu Kaliß",
+    "country": "DE",
+    "lat": 53.17466,
+    "lng": 11.29446
+  },
+  {
+    "name": "Neukalen",
+    "country": "DE",
+    "lat": 53.82275,
+    "lng": 12.79015
+  },
+  {
+    "name": "Neu-Isenburg",
+    "country": "DE",
+    "lat": 50.04832,
+    "lng": 8.69406
+  },
+  {
+    "name": "Neuhütten",
+    "country": "DE",
+    "lat": 50.0,
+    "lng": 9.41667
+  },
+  {
+    "name": "Neuhofen",
+    "country": "DE",
+    "lat": 49.42778,
+    "lng": 8.42472
+  },
+  {
+    "name": "Neuhof an der Zenn",
+    "country": "DE",
+    "lat": 49.4569,
+    "lng": 10.64548
+  },
+  {
+    "name": "Neuhof",
+    "country": "DE",
+    "lat": 50.45313,
+    "lng": 9.6175
+  },
+  {
+    "name": "Neuhaus-Schierschnitz",
+    "country": "DE",
+    "lat": 50.31237,
+    "lng": 11.24019
+  },
+  {
+    "name": "Neuhausen auf den Fildern",
+    "country": "DE",
+    "lat": 48.68333,
+    "lng": 9.28333
+  },
+  {
+    "name": "Neuhausen",
+    "country": "DE",
+    "lat": 50.67647,
+    "lng": 13.4675
+  },
+  {
+    "name": "Neuhausen",
+    "country": "DE",
+    "lat": 48.7926,
+    "lng": 8.77649
+  },
+  {
+    "name": "Neuhausen",
+    "country": "DE",
+    "lat": 47.83754,
+    "lng": 8.77449
+  },
+  {
+    "name": "Neuhäusel",
+    "country": "DE",
+    "lat": 50.3836,
+    "lng": 7.7096
+  },
+  {
+    "name": "Neuhaus an der Pegnitz",
+    "country": "DE",
+    "lat": 49.62799,
+    "lng": 11.55066
+  },
+  {
+    "name": "Neuhaus an der Oste",
+    "country": "DE",
+    "lat": 53.79919,
+    "lng": 9.0321
+  },
+  {
+    "name": "Neuhaus am Rennweg",
+    "country": "DE",
+    "lat": 50.51006,
+    "lng": 11.13787
+  },
+  {
+    "name": "Neuhaus am Inn",
+    "country": "DE",
+    "lat": 48.46086,
+    "lng": 13.42083
+  },
+  {
+    "name": "Neuhaus",
+    "country": "DE",
+    "lat": 50.68333,
+    "lng": 10.93333
+  },
+  {
+    "name": "Neuharlingersiel",
+    "country": "DE",
+    "lat": 53.69993,
+    "lng": 7.70288
+  },
+  {
+    "name": "Neuhardenberg",
+    "country": "DE",
+    "lat": 52.59601,
+    "lng": 14.23768
+  },
+  {
+    "name": "Neugraben-Fischbek",
+    "country": "DE",
+    "lat": 53.46579,
+    "lng": 9.84344
+  },
+  {
+    "name": "Neugersdorf",
+    "country": "DE",
+    "lat": 50.97729,
+    "lng": 14.60881
+  },
+  {
+    "name": "Neufraunhofen",
+    "country": "DE",
+    "lat": 48.4,
+    "lng": 12.21667
+  },
+  {
+    "name": "Neufra",
+    "country": "DE",
+    "lat": 48.1288,
+    "lng": 9.47554
+  },
+  {
+    "name": "Neuffen",
+    "country": "DE",
+    "lat": 48.5546,
+    "lng": 9.3755
+  },
+  {
+    "name": "Neufahrn bei Freising",
+    "country": "DE",
+    "lat": 48.31588,
+    "lng": 11.66316
+  },
+  {
+    "name": "Neufahrn",
+    "country": "DE",
+    "lat": 48.25587,
+    "lng": 12.44078
+  },
+  {
+    "name": "Neuerburg",
+    "country": "DE",
+    "lat": 50.00102,
+    "lng": 6.94828
+  },
+  {
+    "name": "Neuental",
+    "country": "DE",
+    "lat": 51.0,
+    "lng": 9.21667
+  },
+  {
+    "name": "Neuenstein",
+    "country": "DE",
+    "lat": 49.2049,
+    "lng": 9.58
+  },
+  {
+    "name": "Neuenstadt am Kocher",
+    "country": "DE",
+    "lat": 49.23498,
+    "lng": 9.33215
+  },
+  {
+    "name": "Neuensalz",
+    "country": "DE",
+    "lat": 50.5,
+    "lng": 12.21667
+  },
+  {
+    "name": "Neuenrade",
+    "country": "DE",
+    "lat": 51.28278,
+    "lng": 7.7825
+  },
+  {
+    "name": "Neuenmarkt",
+    "country": "DE",
+    "lat": 50.09193,
+    "lng": 11.58033
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 53.59729,
+    "lng": 13.36942
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 53.23173,
+    "lng": 8.52665
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 53.03259,
+    "lng": 9.70642
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 52.77629,
+    "lng": 8.75044
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 52.51037,
+    "lng": 8.06371
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 52.24472,
+    "lng": 7.37183
+  },
+  {
+    "name": "Neuenkirchen",
+    "country": "DE",
+    "lat": 52.13778,
+    "lng": 8.38835
+  },
+  {
+    "name": "Neuenhaus",
+    "country": "DE",
+    "lat": 52.49912,
+    "lng": 6.96626
+  },
+  {
+    "name": "Neuenhagen",
+    "country": "DE",
+    "lat": 52.52985,
+    "lng": 13.68914
+  },
+  {
+    "name": "Neuenfelde",
+    "country": "DE",
+    "lat": 53.51829,
+    "lng": 9.79828
+  },
+  {
+    "name": "Neuendettelsau",
+    "country": "DE",
+    "lat": 49.28333,
+    "lng": 10.78333
+  },
+  {
+    "name": "Neuenbürg",
+    "country": "DE",
+    "lat": 48.84516,
+    "lng": 8.59574
+  },
+  {
+    "name": "Neuenburg am Rhein",
+    "country": "DE",
+    "lat": 47.81431,
+    "lng": 7.56005
+  },
+  {
+    "name": "Neudrossenfeld",
+    "country": "DE",
+    "lat": 50.01667,
+    "lng": 11.5
+  },
+  {
+    "name": "Neudorf-Bornstein",
+    "country": "DE",
+    "lat": 54.43333,
+    "lng": 9.95
+  },
+  {
+    "name": "Neudietendorf",
+    "country": "DE",
+    "lat": 50.9125,
+    "lng": 10.91346
+  },
+  {
+    "name": "Neudenau",
+    "country": "DE",
+    "lat": 49.29181,
+    "lng": 9.26975
+  },
+  {
+    "name": "Neu Darchau",
+    "country": "DE",
+    "lat": 53.22901,
+    "lng": 10.88529
+  },
+  {
+    "name": "Neuburg an der Donau",
+    "country": "DE",
+    "lat": 48.73218,
+    "lng": 11.18709
+  },
+  {
+    "name": "Neuburg",
+    "country": "DE",
+    "lat": 53.40677,
+    "lng": 11.91742
+  },
+  {
+    "name": "Neuburg",
+    "country": "DE",
+    "lat": 48.98933,
+    "lng": 8.24715
+  },
+  {
+    "name": "Neuburg",
+    "country": "DE",
+    "lat": 48.50654,
+    "lng": 13.44718
+  },
+  {
+    "name": "Neuburg",
+    "country": "DE",
+    "lat": 47.77056,
+    "lng": 10.35563
+  },
+  {
+    "name": "Neubulach",
+    "country": "DE",
+    "lat": 48.66092,
+    "lng": 8.69611
+  },
+  {
+    "name": "Neubrunn",
+    "country": "DE",
+    "lat": 49.73088,
+    "lng": 9.67161
+  },
+  {
+    "name": "Neubrück",
+    "country": "DE",
+    "lat": 52.37088,
+    "lng": 10.41761
+  },
+  {
+    "name": "Neubrück",
+    "country": "DE",
+    "lat": 51.13434,
+    "lng": 6.63857
+  },
+  {
+    "name": "Neubrandenburg",
+    "country": "DE",
+    "lat": 53.56414,
+    "lng": 13.27532
+  },
+  {
+    "name": "Neubörger",
+    "country": "DE",
+    "lat": 52.95815,
+    "lng": 7.44839
+  },
+  {
+    "name": "Neubiberg",
+    "country": "DE",
+    "lat": 48.0771,
+    "lng": 11.65812
+  },
+  {
+    "name": "Neubeuern",
+    "country": "DE",
+    "lat": 47.77368,
+    "lng": 12.14002
+  },
+  {
+    "name": "Neuberend",
+    "country": "DE",
+    "lat": 54.55034,
+    "lng": 9.52797
+  },
+  {
+    "name": "Neu-Anspach",
+    "country": "DE",
+    "lat": 50.31667,
+    "lng": 8.5
+  },
+  {
+    "name": "Netzschkau",
+    "country": "DE",
+    "lat": 50.61411,
+    "lng": 12.24382
+  },
+  {
+    "name": "Nettetal",
+    "country": "DE",
+    "lat": 51.31667,
+    "lng": 6.28333
+  },
+  {
+    "name": "Nettersheim",
+    "country": "DE",
+    "lat": 50.49372,
+    "lng": 6.62896
+  },
+  {
+    "name": "Netphen",
+    "country": "DE",
+    "lat": 50.91667,
+    "lng": 8.1
+  },
+  {
+    "name": "Nesselwang",
+    "country": "DE",
+    "lat": 47.62342,
+    "lng": 10.50243
+  },
+  {
+    "name": "Neschwitz",
+    "country": "DE",
+    "lat": 51.27056,
+    "lng": 14.329
+  },
+  {
+    "name": "Nersingen",
+    "country": "DE",
+    "lat": 48.42829,
+    "lng": 10.12356
+  },
+  {
+    "name": "Neresheim",
+    "country": "DE",
+    "lat": 48.75511,
+    "lng": 10.33041
+  },
+  {
+    "name": "Nerchau",
+    "country": "DE",
+    "lat": 51.27094,
+    "lng": 12.78912
+  },
+  {
+    "name": "Nentershausen",
+    "country": "DE",
+    "lat": 51.01667,
+    "lng": 9.93333
+  },
+  {
+    "name": "Nentershausen",
+    "country": "DE",
+    "lat": 50.41667,
+    "lng": 7.93333
+  },
+  {
+    "name": "Nennslingen",
+    "country": "DE",
+    "lat": 49.04709,
+    "lng": 11.13052
+  },
+  {
+    "name": "Nennhausen",
+    "country": "DE",
+    "lat": 52.6,
+    "lng": 12.5
+  },
+  {
+    "name": "Nellingen",
+    "country": "DE",
+    "lat": 48.54196,
+    "lng": 9.79053
+  },
+  {
+    "name": "Neinstedt",
+    "country": "DE",
+    "lat": 51.7495,
+    "lng": 11.08721
+  },
+  {
+    "name": "Neidlingen",
+    "country": "DE",
+    "lat": 48.57865,
+    "lng": 9.56454
+  },
+  {
+    "name": "Neidenstein",
+    "country": "DE",
+    "lat": 49.31667,
+    "lng": 8.88472
+  },
+  {
+    "name": "Nehren",
+    "country": "DE",
+    "lat": 48.43097,
+    "lng": 9.0699
+  },
+  {
+    "name": "Negernbötel",
+    "country": "DE",
+    "lat": 53.98348,
+    "lng": 10.24889
+  },
+  {
+    "name": "Neckarzimmern",
+    "country": "DE",
+    "lat": 49.31917,
+    "lng": 9.13278
+  },
+  {
+    "name": "Neckarwestheim",
+    "country": "DE",
+    "lat": 49.04694,
+    "lng": 9.19
+  },
+  {
+    "name": "Neckartenzlingen",
+    "country": "DE",
+    "lat": 48.58981,
+    "lng": 9.23478
+  },
+  {
+    "name": "Neckartailfingen",
+    "country": "DE",
+    "lat": 48.61172,
+    "lng": 9.26371
+  },
+  {
+    "name": "Neckarsulm",
+    "country": "DE",
+    "lat": 49.18912,
+    "lng": 9.22527
+  },
+  {
+    "name": "Neckarsteinach",
+    "country": "DE",
+    "lat": 49.40735,
+    "lng": 8.84342
+  },
+  {
+    "name": "Neckargerach",
+    "country": "DE",
+    "lat": 49.4,
+    "lng": 9.06667
+  },
+  {
+    "name": "Neckargemünd",
+    "country": "DE",
+    "lat": 49.38899,
+    "lng": 8.7959
+  },
+  {
+    "name": "Neckarbischofsheim",
+    "country": "DE",
+    "lat": 49.29625,
+    "lng": 8.9638
+  },
+  {
+    "name": "Nebra",
+    "country": "DE",
+    "lat": 51.2881,
+    "lng": 11.57749
+  },
+  {
+    "name": "Nebelschütz",
+    "country": "DE",
+    "lat": 51.26227,
+    "lng": 14.15849
+  },
+  {
+    "name": "Neukirchen-Vluyn",
+    "country": "DE",
+    "lat": 51.44665,
+    "lng": 6.55194
+  },
+  {
+    "name": "Neumagen-Dhron",
+    "country": "DE",
+    "lat": 49.85553,
+    "lng": 6.89777
+  },
+  {
+    "name": "Neukamperfehn",
+    "country": "DE",
+    "lat": 53.33642,
+    "lng": 7.56189
+  },
+  {
+    "name": "Nessa",
+    "country": "DE",
+    "lat": 51.14565,
+    "lng": 12.00874
+  },
+  {
+    "name": "Neuehrenfeld",
+    "country": "DE",
+    "lat": 50.95753,
+    "lng": 6.93611
+  },
+  {
+    "name": "Neunkirchen am Brand",
+    "country": "DE",
+    "lat": 49.61204,
+    "lng": 11.12967
+  },
+  {
+    "name": "Neu-Hohenschönhausen",
+    "country": "DE",
+    "lat": 52.56681,
+    "lng": 13.51255
+  },
+  {
+    "name": "Neustadt an der Orla",
+    "country": "DE",
+    "lat": 50.7364,
+    "lng": 11.74619
+  },
+  {
+    "name": "Neustadt",
+    "country": "DE",
+    "lat": 52.26799,
+    "lng": 10.52001
+  },
+  {
+    "name": "Neu-Pattern",
+    "country": "DE",
+    "lat": 50.88854,
+    "lng": 6.27688
+  },
+  {
+    "name": "Neustadt/Nord",
+    "country": "DE",
+    "lat": 50.949,
+    "lng": 6.9479
+  },
+  {
+    "name": "Neustadt/Süd",
+    "country": "DE",
+    "lat": 50.92509,
+    "lng": 6.94762
+  },
+  {
+    "name": "Neustadt am Kulm",
+    "country": "DE",
+    "lat": 49.82641,
+    "lng": 11.8391
+  },
+  {
+    "name": "Neues Hochschulviertel",
+    "country": "DE",
+    "lat": 52.2812,
+    "lng": 10.5435
+  },
+  {
+    "name": "Nexø",
+    "country": "DK",
+    "lat": 55.06067,
+    "lng": 15.13058
+  },
+  {
+    "name": "Neder Vindinge",
+    "country": "DK",
+    "lat": 55.03211,
+    "lng": 11.88356
+  },
+  {
+    "name": "Neder Holluf",
+    "country": "DK",
+    "lat": 55.36451,
+    "lng": 10.44824
+  },
+  {
+    "name": "Neiba",
+    "country": "DO",
+    "lat": 18.4898,
+    "lng": -71.41894
+  },
+  {
+    "name": "Nedroma",
+    "country": "DZ",
+    "lat": 35.01361,
+    "lng": -1.74799
+  },
+  {
+    "name": "New Cairo",
+    "country": "EG",
+    "lat": 30.03,
+    "lng": 31.47
+  },
+  {
+    "name": "New Bani Sewif City",
+    "country": "EG",
+    "lat": 29.03556,
+    "lng": 31.11792
+  },
+  {
+    "name": "Nerva",
+    "country": "ES",
+    "lat": 37.69627,
+    "lng": -6.54967
+  },
+  {
+    "name": "Nerpio",
+    "country": "ES",
+    "lat": 38.14751,
+    "lng": -2.30202
+  },
+  {
+    "name": "Nerja",
+    "country": "ES",
+    "lat": 36.75278,
+    "lng": -3.8744
+  },
+  {
+    "name": "Nestares",
+    "country": "ES",
+    "lat": 42.27014,
+    "lng": -2.61993
+  },
+  {
+    "name": "Nepas",
+    "country": "ES",
+    "lat": 41.52639,
+    "lng": -2.39866
+  },
+  {
+    "name": "Neila de San Miguel",
+    "country": "ES",
+    "lat": 40.42372,
+    "lng": -5.6509
+  },
+  {
+    "name": "Neila",
+    "country": "ES",
+    "lat": 42.06016,
+    "lng": -2.99691
+  },
+  {
+    "name": "Negrilla de Palencia",
+    "country": "ES",
+    "lat": 41.09185,
+    "lng": -5.59165
+  },
+  {
+    "name": "Negreira",
+    "country": "ES",
+    "lat": 42.90402,
+    "lng": -8.74273
+  },
+  {
+    "name": "Negredo",
+    "country": "ES",
+    "lat": 41.02737,
+    "lng": -2.85878
+  },
+  {
+    "name": "Nebreda",
+    "country": "ES",
+    "lat": 41.96881,
+    "lng": -3.6343
+  },
+  {
+    "name": "Nek’emtē",
+    "country": "ET",
+    "lat": 9.08333,
+    "lng": 36.55
+  },
+  {
+    "name": "Nejo",
+    "country": "ET",
+    "lat": 9.5,
+    "lng": 35.5
+  },
+  {
+    "name": "Negēlē",
+    "country": "ET",
+    "lat": 5.31667,
+    "lng": 39.58333
+  },
+  {
+    "name": "Nefas Mewch’a",
+    "country": "ET",
+    "lat": 11.73333,
+    "lng": 38.46667
+  },
+  {
+    "name": "Neefkuceliye",
+    "country": "ET",
+    "lat": 6.55459,
+    "lng": 45.38992
+  },
+  {
+    "name": "Nekala",
+    "country": "FI",
+    "lat": 61.48417,
+    "lng": 23.79296
+  },
+  {
+    "name": "Nema",
+    "country": "FM",
+    "lat": 6.98922,
+    "lng": 152.57377
+  },
+  {
+    "name": "Neydens",
+    "country": "FR",
+    "lat": 46.12162,
+    "lng": 6.10436
+  },
+  {
+    "name": "Nexon",
+    "country": "FR",
+    "lat": 45.67988,
+    "lng": 1.18491
+  },
+  {
+    "name": "Nevoy",
+    "country": "FR",
+    "lat": 47.71591,
+    "lng": 2.57791
+  },
+  {
+    "name": "Nevers",
+    "country": "FR",
+    "lat": 46.98956,
+    "lng": 3.159
+  },
+  {
+    "name": "Neuwiller-lès-Saverne",
+    "country": "FR",
+    "lat": 48.82506,
+    "lng": 7.40513
+  },
+  {
+    "name": "Neuvy-sur-Loire",
+    "country": "FR",
+    "lat": 47.52323,
+    "lng": 2.88333
+  },
+  {
+    "name": "Neuvy-sur-Barangeon",
+    "country": "FR",
+    "lat": 47.31495,
+    "lng": 2.25343
+  },
+  {
+    "name": "Neuvy-Sautour",
+    "country": "FR",
+    "lat": 48.0419,
+    "lng": 3.79472
+  },
+  {
+    "name": "Neuvy-Saint-Sépulchre",
+    "country": "FR",
+    "lat": 46.59781,
+    "lng": 1.80601
+  },
+  {
+    "name": "Neuvy-Pailloux",
+    "country": "FR",
+    "lat": 46.88486,
+    "lng": 1.86152
+  },
+  {
+    "name": "Neuvy-le-Roi",
+    "country": "FR",
+    "lat": 47.60386,
+    "lng": 0.59472
+  },
+  {
+    "name": "Neuvy",
+    "country": "FR",
+    "lat": 46.56191,
+    "lng": 3.29038
+  },
+  {
+    "name": "Neuville-sur-Sarthe",
+    "country": "FR",
+    "lat": 48.076,
+    "lng": 0.19343
+  },
+  {
+    "name": "Neuville-sur-Saône",
+    "country": "FR",
+    "lat": 45.87615,
+    "lng": 4.84099
+  },
+  {
+    "name": "Neuville-sur-Oise",
+    "country": "FR",
+    "lat": 49.01667,
+    "lng": 2.06667
+  },
+  {
+    "name": "Neuville-sur-Escaut",
+    "country": "FR",
+    "lat": 50.3,
+    "lng": 3.35
+  },
+  {
+    "name": "Neuville-sur-Ain",
+    "country": "FR",
+    "lat": 46.07144,
+    "lng": 5.37491
+  },
+  {
+    "name": "Neuville-Saint-Vaast",
+    "country": "FR",
+    "lat": 50.35756,
+    "lng": 2.76261
+  },
+  {
+    "name": "Neuville-Saint-Rémy",
+    "country": "FR",
+    "lat": 50.18618,
+    "lng": 3.22404
+  },
+  {
+    "name": "Neuville-les-Dames",
+    "country": "FR",
+    "lat": 46.1623,
+    "lng": 5.00667
+  },
+  {
+    "name": "Neuville-en-Ferrain",
+    "country": "FR",
+    "lat": 50.74839,
+    "lng": 3.15676
+  },
+  {
+    "name": "Neuville-de-Poitou",
+    "country": "FR",
+    "lat": 46.68505,
+    "lng": 0.24474
+  },
+  {
+    "name": "Neuville-aux-Bois",
+    "country": "FR",
+    "lat": 48.06813,
+    "lng": 2.05372
+  },
+  {
+    "name": "Neuvic-Entier",
+    "country": "FR",
+    "lat": 45.72272,
+    "lng": 1.61198
+  },
+  {
+    "name": "Neuvic",
+    "country": "FR",
+    "lat": 45.38134,
+    "lng": 2.27115
+  },
+  {
+    "name": "Neuvic",
+    "country": "FR",
+    "lat": 45.10073,
+    "lng": 0.46879
+  },
+  {
+    "name": "Neuves-Maisons",
+    "country": "FR",
+    "lat": 48.61811,
+    "lng": 6.10544
+  },
+  {
+    "name": "Neuvéglise",
+    "country": "FR",
+    "lat": 44.92809,
+    "lng": 2.98328
+  },
+  {
+    "name": "Neuvecelle",
+    "country": "FR",
+    "lat": 46.39502,
+    "lng": 6.61257
+  },
+  {
+    "name": "Neussargues",
+    "country": "FR",
+    "lat": 45.12826,
+    "lng": 2.97627
+  },
+  {
+    "name": "Neung-sur-Beuvron",
+    "country": "FR",
+    "lat": 47.53486,
+    "lng": 1.80514
+  },
+  {
+    "name": "Neulliac",
+    "country": "FR",
+    "lat": 48.1281,
+    "lng": -2.98243
+  },
+  {
+    "name": "Neulise",
+    "country": "FR",
+    "lat": 45.89811,
+    "lng": 4.18134
+  },
+  {
+    "name": "Neuilly-sur-Seine",
+    "country": "FR",
+    "lat": 48.8846,
+    "lng": 2.26965
+  },
+  {
+    "name": "Neuilly-sur-Marne",
+    "country": "FR",
+    "lat": 48.85373,
+    "lng": 2.54903
+  },
+  {
+    "name": "Neuilly-sous-Clermont",
+    "country": "FR",
+    "lat": 49.34437,
+    "lng": 2.4103
+  },
+  {
+    "name": "Neuilly-Saint-Front",
+    "country": "FR",
+    "lat": 49.17012,
+    "lng": 3.26393
+  },
+  {
+    "name": "Neuilly-Plaisance",
+    "country": "FR",
+    "lat": 48.86342,
+    "lng": 2.506
+  },
+  {
+    "name": "Neuilly-lès-Dijon",
+    "country": "FR",
+    "lat": 47.27943,
+    "lng": 5.10645
+  },
+  {
+    "name": "Neuilly-le-Réal",
+    "country": "FR",
+    "lat": 46.46413,
+    "lng": 3.43197
+  },
+  {
+    "name": "Neuilly-en-Thelle",
+    "country": "FR",
+    "lat": 49.22445,
+    "lng": 2.28525
+  },
+  {
+    "name": "Neuillé-Pont-Pierre",
+    "country": "FR",
+    "lat": 47.5484,
+    "lng": 0.54962
+  },
+  {
+    "name": "Neufmoutiers-en-Brie",
+    "country": "FR",
+    "lat": 48.76882,
+    "lng": 2.83156
+  },
+  {
+    "name": "Neufmanil",
+    "country": "FR",
+    "lat": 49.81096,
+    "lng": 4.79673
+  },
+  {
+    "name": "Neufgrange",
+    "country": "FR",
+    "lat": 49.07679,
+    "lng": 7.06526
+  },
+  {
+    "name": "Neufchef",
+    "country": "FR",
+    "lat": 49.31678,
+    "lng": 6.02416
+  },
+  {
+    "name": "Neufchâtel-Hardelot",
+    "country": "FR",
+    "lat": 50.62018,
+    "lng": 1.64223
+  },
+  {
+    "name": "Neufchâtel-en-Bray",
+    "country": "FR",
+    "lat": 49.73315,
+    "lng": 1.43956
+  },
+  {
+    "name": "Neufchâteau",
+    "country": "FR",
+    "lat": 48.35557,
+    "lng": 5.69602
+  },
+  {
+    "name": "Neuf-Brisach",
+    "country": "FR",
+    "lat": 48.01783,
+    "lng": 7.52795
+  },
+  {
+    "name": "Neuf-Berquin",
+    "country": "FR",
+    "lat": 50.66065,
+    "lng": 2.67213
+  },
+  {
+    "name": "Nesmy",
+    "country": "FR",
+    "lat": 46.59102,
+    "lng": -1.40167
+  },
+  {
+    "name": "Nesles-la-Vallée",
+    "country": "FR",
+    "lat": 49.13202,
+    "lng": 2.17099
+  },
+  {
+    "name": "Nesles-la-Montagne",
+    "country": "FR",
+    "lat": 49.01964,
+    "lng": 3.42607
+  },
+  {
+    "name": "Nesles",
+    "country": "FR",
+    "lat": 50.62588,
+    "lng": 1.65641
+  },
+  {
+    "name": "Nesle",
+    "country": "FR",
+    "lat": 49.75888,
+    "lng": 2.91133
+  },
+  {
+    "name": "Nersac",
+    "country": "FR",
+    "lat": 45.62557,
+    "lng": 0.05098
+  },
+  {
+    "name": "Nercillac",
+    "country": "FR",
+    "lat": 45.71536,
+    "lng": -0.24615
+  },
+  {
+    "name": "Nemours",
+    "country": "FR",
+    "lat": 48.27511,
+    "lng": 2.69078
+  },
+  {
+    "name": "Neauphle-le-Château",
+    "country": "FR",
+    "lat": 48.81418,
+    "lng": 1.90567
+  },
+  {
+    "name": "Neaufles-Saint-Martin",
+    "country": "FR",
+    "lat": 49.2765,
+    "lng": 1.72794
+  },
+  {
+    "name": "Neyland",
+    "country": "GB",
+    "lat": 51.71014,
+    "lng": -4.95155
+  },
+  {
+    "name": "New Tredegar",
+    "country": "GB",
+    "lat": 51.72051,
+    "lng": -3.2413
+  },
+  {
+    "name": "Newtownstewart",
+    "country": "GB",
+    "lat": 54.71778,
+    "lng": -7.37886
+  },
+  {
+    "name": "Newtown St Boswells",
+    "country": "GB",
+    "lat": 55.57887,
+    "lng": -2.66874
+  },
+  {
+    "name": "Newtownhamilton",
+    "country": "GB",
+    "lat": 54.1907,
+    "lng": -6.57632
+  },
+  {
+    "name": "Newtownards",
+    "country": "GB",
+    "lat": 54.59236,
+    "lng": -5.69092
+  },
+  {
+    "name": "Newtownabbey",
+    "country": "GB",
+    "lat": 54.65983,
+    "lng": -5.90858
+  },
+  {
+    "name": "Newtown",
+    "country": "GB",
+    "lat": 52.51667,
+    "lng": -3.3
+  },
+  {
+    "name": "Newton Stewart",
+    "country": "GB",
+    "lat": 54.95784,
+    "lng": -4.48315
+  },
+  {
+    "name": "Newton Poppleford",
+    "country": "GB",
+    "lat": 50.7,
+    "lng": -3.29586
+  },
+  {
+    "name": "Newtonmore",
+    "country": "GB",
+    "lat": 57.06567,
+    "lng": -4.12097
+  },
+  {
+    "name": "Newton Mearns",
+    "country": "GB",
+    "lat": 55.77334,
+    "lng": -4.33339
+  },
+  {
+    "name": "Newton Longville",
+    "country": "GB",
+    "lat": 51.976,
+    "lng": -0.76595
+  },
+  {
+    "name": "Newton-le-Willows",
+    "country": "GB",
+    "lat": 53.45,
+    "lng": -2.6
+  },
+  {
+    "name": "Newtonhill",
+    "country": "GB",
+    "lat": 57.03333,
+    "lng": -2.15
+  },
+  {
+    "name": "Newton Ferrers",
+    "country": "GB",
+    "lat": 50.31467,
+    "lng": -4.0392
+  },
+  {
+    "name": "Newton Aycliffe",
+    "country": "GB",
+    "lat": 54.61842,
+    "lng": -1.5719
+  },
+  {
+    "name": "Newton Abbot",
+    "country": "GB",
+    "lat": 50.52858,
+    "lng": -3.61186
+  },
+  {
+    "name": "Newry",
+    "country": "GB",
+    "lat": 54.17841,
+    "lng": -6.33739
+  },
+  {
+    "name": "New Romney",
+    "country": "GB",
+    "lat": 50.98599,
+    "lng": 0.94122
+  },
+  {
+    "name": "New Quay",
+    "country": "GB",
+    "lat": 52.21515,
+    "lng": -4.35887
+  },
+  {
+    "name": "Newquay",
+    "country": "GB",
+    "lat": 50.41557,
+    "lng": -5.07319
+  },
+  {
+    "name": "Newport Pagnell",
+    "country": "GB",
+    "lat": 52.08731,
+    "lng": -0.72218
+  },
+  {
+    "name": "Newport-on-Tay",
+    "country": "GB",
+    "lat": 56.43911,
+    "lng": -2.9367
+  },
+  {
+    "name": "Newport",
+    "country": "GB",
+    "lat": 53.76333,
+    "lng": -0.69986
+  },
+  {
+    "name": "Newport",
+    "country": "GB",
+    "lat": 52.76684,
+    "lng": -2.37734
+  },
+  {
+    "name": "Newport",
+    "country": "GB",
+    "lat": 52.01667,
+    "lng": -4.83333
+  },
+  {
+    "name": "Newport",
+    "country": "GB",
+    "lat": 51.98425,
+    "lng": 0.21355
+  },
+  {
+    "name": "Newport",
+    "country": "GB",
+    "lat": 51.58774,
+    "lng": -2.99835
+  },
+  {
+    "name": "Newport",
+    "country": "GB",
+    "lat": 50.70146,
+    "lng": -1.29124
+  },
+  {
+    "name": "New Pitsligo",
+    "country": "GB",
+    "lat": 57.59019,
+    "lng": -2.19535
+  },
+  {
+    "name": "New Milton",
+    "country": "GB",
+    "lat": 50.75601,
+    "lng": -1.6658
+  },
+  {
+    "name": "Newmilns",
+    "country": "GB",
+    "lat": 55.60751,
+    "lng": -4.32416
+  },
+  {
+    "name": "New Mills",
+    "country": "GB",
+    "lat": 53.36592,
+    "lng": -1.99986
+  },
+  {
+    "name": "Newmarket",
+    "country": "GB",
+    "lat": 52.24467,
+    "lng": 0.40418
+  },
+  {
+    "name": "New Malden",
+    "country": "GB",
+    "lat": 51.40065,
+    "lng": -0.2617
+  },
+  {
+    "name": "Newmains",
+    "country": "GB",
+    "lat": 55.78514,
+    "lng": -3.87465
+  },
+  {
+    "name": "Newmacher",
+    "country": "GB",
+    "lat": 57.26667,
+    "lng": -2.18333
+  },
+  {
+    "name": "Newington",
+    "country": "GB",
+    "lat": 51.35217,
+    "lng": 0.66768
+  },
+  {
+    "name": "Newick",
+    "country": "GB",
+    "lat": 50.97518,
+    "lng": 0.01579
+  },
+  {
+    "name": "Newhaven",
+    "country": "GB",
+    "lat": 50.79693,
+    "lng": 0.05545
+  },
+  {
+    "name": "New Ferry",
+    "country": "GB",
+    "lat": 53.36046,
+    "lng": -2.99377
+  },
+  {
+    "name": "Newent",
+    "country": "GB",
+    "lat": 51.93365,
+    "lng": -2.40815
+  },
+  {
+    "name": "New Cumnock",
+    "country": "GB",
+    "lat": 55.39563,
+    "lng": -4.18458
+  },
+  {
+    "name": "New Cross",
+    "country": "GB",
+    "lat": 51.47534,
+    "lng": -0.03837
+  },
+  {
+    "name": "Newchurch",
+    "country": "GB",
+    "lat": 50.66744,
+    "lng": -1.20828
+  },
+  {
+    "name": "Newcastle upon Tyne",
+    "country": "GB",
+    "lat": 54.97328,
+    "lng": -1.61396
+  },
+  {
+    "name": "Newcastle under Lyme",
+    "country": "GB",
+    "lat": 53.0,
+    "lng": -2.23333
+  },
+  {
+    "name": "Newcastle Emlyn",
+    "country": "GB",
+    "lat": 52.04056,
+    "lng": -4.4667
+  },
+  {
+    "name": "Newbury",
+    "country": "GB",
+    "lat": 51.40148,
+    "lng": -1.32471
+  },
+  {
+    "name": "Newburn",
+    "country": "GB",
+    "lat": 54.9876,
+    "lng": -1.74415
+  },
+  {
+    "name": "Newburgh",
+    "country": "GB",
+    "lat": 57.31711,
+    "lng": -2.00449
+  },
+  {
+    "name": "Newburgh",
+    "country": "GB",
+    "lat": 56.35079,
+    "lng": -3.2365
+  },
+  {
+    "name": "New Buildings",
+    "country": "GB",
+    "lat": 54.9603,
+    "lng": -7.35581
+  },
+  {
+    "name": "Newbridge",
+    "country": "GB",
+    "lat": 55.93333,
+    "lng": -3.4
+  },
+  {
+    "name": "Newbridge",
+    "country": "GB",
+    "lat": 51.66667,
+    "lng": -3.13333
+  },
+  {
+    "name": "Newborough",
+    "country": "GB",
+    "lat": 52.6389,
+    "lng": -0.22333
+  },
+  {
+    "name": "Newbold Verdon",
+    "country": "GB",
+    "lat": 52.62959,
+    "lng": -1.3422
+  },
+  {
+    "name": "Newbiggin-by-the-Sea",
+    "country": "GB",
+    "lat": 55.18532,
+    "lng": -1.51469
+  },
+  {
+    "name": "Newbiggin",
+    "country": "GB",
+    "lat": 54.64171,
+    "lng": -2.13555
+  },
+  {
+    "name": "New Barnet",
+    "country": "GB",
+    "lat": 51.64969,
+    "lng": -0.17527
+  },
+  {
+    "name": "Newarthill",
+    "country": "GB",
+    "lat": 55.8151,
+    "lng": -3.93733
+  },
+  {
+    "name": "Newark on Trent",
+    "country": "GB",
+    "lat": 53.06667,
+    "lng": -0.81667
+  },
+  {
+    "name": "New Alresford",
+    "country": "GB",
+    "lat": 51.08624,
+    "lng": -1.17011
+  },
+  {
+    "name": "Nefyn",
+    "country": "GB",
+    "lat": 52.93538,
+    "lng": -4.5225
+  },
+  {
+    "name": "Nevern",
+    "country": "GB",
+    "lat": 52.02387,
+    "lng": -4.80068
+  },
+  {
+    "name": "Nettleton",
+    "country": "GB",
+    "lat": 51.50222,
+    "lng": -2.2625
+  },
+  {
+    "name": "Nettleham",
+    "country": "GB",
+    "lat": 53.26603,
+    "lng": -0.48866
+  },
+  {
+    "name": "Netley",
+    "country": "GB",
+    "lat": 50.87463,
+    "lng": -1.35476
+  },
+  {
+    "name": "Netherton",
+    "country": "GB",
+    "lat": 52.48333,
+    "lng": -2.08333
+  },
+  {
+    "name": "Nether Stowey",
+    "country": "GB",
+    "lat": 51.15101,
+    "lng": -3.15676
+  },
+  {
+    "name": "Nether Poppleton",
+    "country": "GB",
+    "lat": 53.98793,
+    "lng": -1.15062
+  },
+  {
+    "name": "Nether Edge",
+    "country": "GB",
+    "lat": 53.35934,
+    "lng": -1.48759
+  },
+  {
+    "name": "Netheravon",
+    "country": "GB",
+    "lat": 51.23613,
+    "lng": -1.79083
+  },
+  {
+    "name": "Neston",
+    "country": "GB",
+    "lat": 53.28333,
+    "lng": -3.05
+  },
+  {
+    "name": "Nelson",
+    "country": "GB",
+    "lat": 53.83333,
+    "lng": -2.2
+  },
+  {
+    "name": "Nelson",
+    "country": "GB",
+    "lat": 51.65333,
+    "lng": -3.28444
+  },
+  {
+    "name": "Neilston",
+    "country": "GB",
+    "lat": 55.78574,
+    "lng": -4.42637
+  },
+  {
+    "name": "Needingworth",
+    "country": "GB",
+    "lat": 52.33051,
+    "lng": -0.03116
+  },
+  {
+    "name": "Needham Market",
+    "country": "GB",
+    "lat": 52.1555,
+    "lng": 1.0516
+  },
+  {
+    "name": "Necton",
+    "country": "GB",
+    "lat": 52.64994,
+    "lng": 0.77539
+  },
+  {
+    "name": "Neath",
+    "country": "GB",
+    "lat": 51.66317,
+    "lng": -3.80443
+  },
+  {
+    "name": "New Inn",
+    "country": "GB",
+    "lat": 51.69056,
+    "lng": -3.00917
+  },
+  {
+    "name": "Neston",
+    "country": "GB",
+    "lat": 51.41222,
+    "lng": -2.20056
+  },
+  {
+    "name": "Nether Heyford",
+    "country": "GB",
+    "lat": 52.22123,
+    "lng": -1.03452
+  },
+  {
+    "name": "New Marske",
+    "country": "GB",
+    "lat": 54.57848,
+    "lng": -1.04224
+  },
+  {
+    "name": "Newcastle",
+    "country": "GB",
+    "lat": 54.21804,
+    "lng": -5.88979
+  },
+  {
+    "name": "Netherley",
+    "country": "GB",
+    "lat": 53.3908,
+    "lng": -2.83937
+  },
+  {
+    "name": "New Stevenston",
+    "country": "GB",
+    "lat": 55.81669,
+    "lng": -3.97357
+  },
+  {
+    "name": "Netherlee",
+    "country": "GB",
+    "lat": 55.80157,
+    "lng": -4.27325
+  },
+  {
+    "name": "New Basford",
+    "country": "GB",
+    "lat": 52.97336,
+    "lng": -1.16564
+  },
+  {
+    "name": "New Denham",
+    "country": "GB",
+    "lat": 51.5541,
+    "lng": -0.48901
+  },
+  {
+    "name": "New Mill",
+    "country": "GB",
+    "lat": 53.57498,
+    "lng": -1.75004
+  },
+  {
+    "name": "New Greens",
+    "country": "GB",
+    "lat": 51.77177,
+    "lng": -0.3398
+  },
+  {
+    "name": "Newbury Park",
+    "country": "GB",
+    "lat": 51.57767,
+    "lng": 0.09335
+  },
+  {
+    "name": "New Tafo",
+    "country": "GH",
+    "lat": 6.71897,
+    "lng": -1.61188
+  },
+  {
+    "name": "New Achimota",
+    "country": "GH",
+    "lat": 5.62657,
+    "lng": -0.25807
+  },
+  {
+    "name": "Nema Kunku",
+    "country": "GM",
+    "lat": 13.25,
+    "lng": -15.88333
+  },
+  {
+    "name": "New Jeshwang",
+    "country": "GM",
+    "lat": 13.44735,
+    "lng": -16.665
+  },
+  {
+    "name": "Neápolis",
+    "country": "GR",
+    "lat": 38.67144,
+    "lng": 21.36274
+  },
+  {
+    "name": "Nerokoúros",
+    "country": "GR",
+    "lat": 35.47587,
+    "lng": 24.03995
+  },
+  {
+    "name": "Neochorópoulo",
+    "country": "GR",
+    "lat": 39.62553,
+    "lng": 20.83558
+  },
+  {
+    "name": "Neochóri",
+    "country": "GR",
+    "lat": 39.07025,
+    "lng": 21.01892
+  },
+  {
+    "name": "Neochórion",
+    "country": "GR",
+    "lat": 38.40847,
+    "lng": 21.27511
+  },
+  {
+    "name": "Neochóri",
+    "country": "GR",
+    "lat": 37.90794,
+    "lng": 21.20392
+  },
+  {
+    "name": "Neméa",
+    "country": "GR",
+    "lat": 37.82068,
+    "lng": 22.66102
+  },
+  {
+    "name": "Neápoli",
+    "country": "GR",
+    "lat": 35.25627,
+    "lng": 25.60415
+  },
+  {
+    "name": "Nestório",
+    "country": "GR",
+    "lat": 40.41278,
+    "lng": 21.06222
+  },
+  {
+    "name": "Neochoroúda",
+    "country": "GR",
+    "lat": 40.73817,
+    "lng": 22.87557
+  },
+  {
+    "name": "Neochóri",
+    "country": "GR",
+    "lat": 41.51131,
+    "lng": 26.4574
+  },
+  {
+    "name": "Neochóri",
+    "country": "GR",
+    "lat": 41.05231,
+    "lng": 23.57997
+  },
+  {
+    "name": "Neos Voutzás",
+    "country": "GR",
+    "lat": 38.04312,
+    "lng": 23.97749
+  },
+  {
+    "name": "Neapoli",
+    "country": "GR",
+    "lat": 40.6532,
+    "lng": 22.94156
+  },
+  {
+    "name": "Nea Lava",
+    "country": "GR",
+    "lat": 40.19048,
+    "lng": 22.0132
+  },
+  {
+    "name": "Nentón",
+    "country": "GT",
+    "lat": 15.80113,
+    "lng": -91.75423
+  },
+  {
+    "name": "Nebaj",
+    "country": "GT",
+    "lat": 15.40614,
+    "lng": -91.14682
+  },
+  {
+    "name": "New Amsterdam",
+    "country": "GY",
+    "lat": 6.24924,
+    "lng": -57.51578
+  },
+  {
+    "name": "New Jade Garden",
+    "country": "HK",
+    "lat": 22.26376,
+    "lng": 114.23685
+  },
+  {
+    "name": "New Territories",
+    "country": "HK",
+    "lat": 22.42441,
+    "lng": 114.11095
+  },
+  {
+    "name": "Nerežišće",
+    "country": "HR",
+    "lat": 43.33111,
+    "lng": 16.57861
+  },
+  {
+    "name": "Negoslavci",
+    "country": "HR",
+    "lat": 45.27944,
+    "lng": 18.99667
+  },
+  {
+    "name": "Nedeščina",
+    "country": "HR",
+    "lat": 45.14,
+    "lng": 14.11194
+  },
+  {
+    "name": "Nedeljanec",
+    "country": "HR",
+    "lat": 46.28778,
+    "lng": 16.28333
+  },
+  {
+    "name": "Nedelišće",
+    "country": "HR",
+    "lat": 46.37583,
+    "lng": 16.3875
+  },
+  {
+    "name": "Netretić",
+    "country": "HR",
+    "lat": 45.50889,
+    "lng": 15.41333
+  },
+  {
+    "name": "Neszmély",
+    "country": "HU",
+    "lat": 47.73585,
+    "lng": 18.35966
+  },
+  {
+    "name": "Nemesvámos",
+    "country": "HU",
+    "lat": 47.05514,
+    "lng": 17.87477
+  },
+  {
+    "name": "Nemesnádudvar",
+    "country": "HU",
+    "lat": 46.34051,
+    "lng": 19.05115
+  },
+  {
+    "name": "Negararatu",
+    "country": "ID",
+    "lat": -4.65603,
+    "lng": 104.73576
+  },
+  {
+    "name": "Negara",
+    "country": "ID",
+    "lat": -8.35694,
+    "lng": 114.61694
+  },
+  {
+    "name": "Neonmat",
+    "country": "ID",
+    "lat": -9.8757,
+    "lng": 124.3317
+  },
+  {
+    "name": "Negeriagung",
+    "country": "ID",
+    "lat": -3.7673,
+    "lng": 103.6516
+  },
+  {
+    "name": "Newtown Trim",
+    "country": "IE",
+    "lat": 53.55611,
+    "lng": -6.77
+  },
+  {
+    "name": "Newtown Cunningham",
+    "country": "IE",
+    "lat": 54.99639,
+    "lng": -7.51917
+  },
+  {
+    "name": "New Ross",
+    "country": "IE",
+    "lat": 52.39667,
+    "lng": -6.93667
+  },
+  {
+    "name": "Newport",
+    "country": "IE",
+    "lat": 52.71111,
+    "lng": -8.40972
+  },
+  {
+    "name": "Newmarket on Fergus",
+    "country": "IE",
+    "lat": 52.76,
+    "lng": -8.89556
+  },
+  {
+    "name": "Newcastle",
+    "country": "IE",
+    "lat": 53.30111,
+    "lng": -6.50222
+  },
+  {
+    "name": "Newcastle West",
+    "country": "IE",
+    "lat": 52.44917,
+    "lng": -9.06111
+  },
+  {
+    "name": "Nenagh",
+    "country": "IE",
+    "lat": 52.86284,
+    "lng": -8.19953
+  },
+  {
+    "name": "Nenagh Bridge",
+    "country": "IE",
+    "lat": 52.88167,
+    "lng": -8.19583
+  },
+  {
+    "name": "Newtownmountkennedy",
+    "country": "IE",
+    "lat": 53.09052,
+    "lng": -6.11149
+  },
+  {
+    "name": "Nevve Yaraq",
+    "country": "IL",
+    "lat": 32.13247,
+    "lng": 34.92447
+  },
+  {
+    "name": "Nevve Yamin",
+    "country": "IL",
+    "lat": 32.17217,
+    "lng": 34.9393
+  },
+  {
+    "name": "Netivot",
+    "country": "IL",
+    "lat": 31.42305,
+    "lng": 34.58911
+  },
+  {
+    "name": "Netanya",
+    "country": "IL",
+    "lat": 32.33291,
+    "lng": 34.85992
+  },
+  {
+    "name": "Ness Ziona",
+    "country": "IL",
+    "lat": 31.92933,
+    "lng": 34.79868
+  },
+  {
+    "name": "Nesher",
+    "country": "IL",
+    "lat": 32.76622,
+    "lng": 35.04425
+  },
+  {
+    "name": "Nes Harim",
+    "country": "IL",
+    "lat": 31.74547,
+    "lng": 35.0574
+  },
+  {
+    "name": "Nein",
+    "country": "IL",
+    "lat": 32.63063,
+    "lng": 35.34885
+  },
+  {
+    "name": "Neẖusha",
+    "country": "IL",
+    "lat": 31.63064,
+    "lng": 34.9531
+  },
+  {
+    "name": "Nehora",
+    "country": "IL",
+    "lat": 31.62276,
+    "lng": 34.70424
+  },
+  {
+    "name": "Neẖalim",
+    "country": "IL",
+    "lat": 32.06012,
+    "lng": 34.91069
+  },
+  {
+    "name": "Neemrana",
+    "country": "IN",
+    "lat": 27.99193,
+    "lng": 76.38543
+  },
+  {
+    "name": "Neem ka Thana",
+    "country": "IN",
+    "lat": 27.73976,
+    "lng": 75.78652
+  },
+  {
+    "name": "Needamangalam",
+    "country": "IN",
+    "lat": 10.77378,
+    "lng": 79.41875
+  },
+  {
+    "name": "Neyyūr",
+    "country": "IN",
+    "lat": 8.19829,
+    "lng": 77.30379
+  },
+  {
+    "name": "Neyyāttinkara",
+    "country": "IN",
+    "lat": 8.39854,
+    "lng": 77.08586
+  },
+  {
+    "name": "Neyveli",
+    "country": "IN",
+    "lat": 11.60877,
+    "lng": 79.4994
+  },
+  {
+    "name": "Neykuppai",
+    "country": "IN",
+    "lat": 10.2214,
+    "lng": 78.53602
+  },
+  {
+    "name": "New Delhi",
+    "country": "IN",
+    "lat": 28.62137,
+    "lng": 77.2148
+  },
+  {
+    "name": "Neturhāt",
+    "country": "IN",
+    "lat": 23.47457,
+    "lng": 84.2678
+  },
+  {
+    "name": "Nerul",
+    "country": "IN",
+    "lat": 15.51031,
+    "lng": 73.78087
+  },
+  {
+    "name": "Nerinjippettai",
+    "country": "IN",
+    "lat": 11.65433,
+    "lng": 77.75862
+  },
+  {
+    "name": "Neral",
+    "country": "IN",
+    "lat": 19.02475,
+    "lng": 73.31688
+  },
+  {
+    "name": "Ner",
+    "country": "IN",
+    "lat": 20.48971,
+    "lng": 77.86632
+  },
+  {
+    "name": "Nepānagar",
+    "country": "IN",
+    "lat": 21.4538,
+    "lng": 76.39335
+  },
+  {
+    "name": "Nellore",
+    "country": "IN",
+    "lat": 14.44992,
+    "lng": 79.98697
+  },
+  {
+    "name": "Nellimarla",
+    "country": "IN",
+    "lat": 18.15619,
+    "lng": 83.44727
+  },
+  {
+    "name": "Nellikkuppam",
+    "country": "IN",
+    "lat": 11.77554,
+    "lng": 79.67016
+  },
+  {
+    "name": "Nelamangala",
+    "country": "IN",
+    "lat": 13.09978,
+    "lng": 77.39364
+  },
+  {
+    "name": "Nedumangād",
+    "country": "IN",
+    "lat": 8.60267,
+    "lng": 77.00139
+  },
+  {
+    "name": "Nerkunram",
+    "country": "IN",
+    "lat": 13.06194,
+    "lng": 80.20944
+  },
+  {
+    "name": "Nedumbassery",
+    "country": "IN",
+    "lat": 10.15646,
+    "lng": 76.40167
+  },
+  {
+    "name": "Neemuch",
+    "country": "IN",
+    "lat": 24.47639,
+    "lng": 74.86241
+  },
+  {
+    "name": "Neelankarai",
+    "country": "IN",
+    "lat": 12.9495,
+    "lng": 80.2592
+  },
+  {
+    "name": "Nedumpana",
+    "country": "IN",
+    "lat": 8.90796,
+    "lng": 76.69298
+  },
+  {
+    "name": "Nemili",
+    "country": "IN",
+    "lat": 12.97833,
+    "lng": 79.61722
+  },
+  {
+    "name": "Nelluvāyi",
+    "country": "IN",
+    "lat": 10.68069,
+    "lng": 76.18203
+  },
+  {
+    "name": "Nedumpura",
+    "country": "IN",
+    "lat": 10.73279,
+    "lng": 76.26437
+  },
+  {
+    "name": "Nerupperichchal",
+    "country": "IN",
+    "lat": 11.16105,
+    "lng": 77.37398
+  },
+  {
+    "name": "Neykkārappatti",
+    "country": "IN",
+    "lat": 10.44886,
+    "lng": 77.46272
+  },
+  {
+    "name": "Neykkārappatti",
+    "country": "IN",
+    "lat": 11.6225,
+    "lng": 78.10579
+  },
+  {
+    "name": "New Bongaigaon Railway Colony",
+    "country": "IN",
+    "lat": 26.47716,
+    "lng": 90.53598
+  },
+  {
+    "name": "Neb Sarai",
+    "country": "IN",
+    "lat": 28.50841,
+    "lng": 77.20063
+  },
+  {
+    "name": "Neduva",
+    "country": "IN",
+    "lat": 11.05669,
+    "lng": 75.86685
+  },
+  {
+    "name": "Newa Talai",
+    "country": "IN",
+    "lat": 24.35217,
+    "lng": 73.74796
+  },
+  {
+    "name": "Neelagiri",
+    "country": "IN",
+    "lat": 10.75943,
+    "lng": 79.09337
+  },
+  {
+    "name": "Neyāsar",
+    "country": "IR",
+    "lat": 33.97258,
+    "lng": 51.14869
+  },
+  {
+    "name": "Neyshābūr",
+    "country": "IR",
+    "lat": 36.21329,
+    "lng": 58.79575
+  },
+  {
+    "name": "Neyrīz",
+    "country": "IR",
+    "lat": 29.1988,
+    "lng": 54.3278
+  },
+  {
+    "name": "Neqāb",
+    "country": "IR",
+    "lat": 36.70792,
+    "lng": 57.42146
+  },
+  {
+    "name": "Nekā",
+    "country": "IR",
+    "lat": 36.65079,
+    "lng": 53.29905
+  },
+  {
+    "name": "Nehbandān",
+    "country": "IR",
+    "lat": 31.54185,
+    "lng": 60.03648
+  },
+  {
+    "name": "Neskaupstaður",
+    "country": "IS",
+    "lat": 65.14819,
+    "lng": -13.68368
+  },
+  {
+    "name": "Neviano degli Arduini",
+    "country": "IT",
+    "lat": 44.58344,
+    "lng": 10.31638
+  },
+  {
+    "name": "Neviano",
+    "country": "IT",
+    "lat": 40.1065,
+    "lng": 18.11517
+  },
+  {
+    "name": "Nettuno",
+    "country": "IT",
+    "lat": 41.45794,
+    "lng": 12.66393
+  },
+  {
+    "name": "Netro",
+    "country": "IT",
+    "lat": 45.54004,
+    "lng": 7.94695
+  },
+  {
+    "name": "Nespolo",
+    "country": "IT",
+    "lat": 42.15671,
+    "lng": 13.06938
+  },
+  {
+    "name": "Nerviano",
+    "country": "IT",
+    "lat": 45.55343,
+    "lng": 8.9792
+  },
+  {
+    "name": "Nervesa della Battaglia",
+    "country": "IT",
+    "lat": 45.81232,
+    "lng": 12.19837
+  },
+  {
+    "name": "Nerola",
+    "country": "IT",
+    "lat": 42.16011,
+    "lng": 12.78529
+  },
+  {
+    "name": "Nerito",
+    "country": "IT",
+    "lat": 42.54763,
+    "lng": 13.47759
+  },
+  {
+    "name": "Nereto",
+    "country": "IT",
+    "lat": 42.81548,
+    "lng": 13.81989
+  },
+  {
+    "name": "Nepi",
+    "country": "IT",
+    "lat": 42.24221,
+    "lng": 12.34355
+  },
+  {
+    "name": "Nepezzano",
+    "country": "IT",
+    "lat": 42.68994,
+    "lng": 13.7565
+  },
+  {
+    "name": "Neoneli",
+    "country": "IT",
+    "lat": 40.06475,
+    "lng": 8.94673
+  },
+  {
+    "name": "Nemoli",
+    "country": "IT",
+    "lat": 40.06765,
+    "lng": 15.79962
+  },
+  {
+    "name": "Nemi",
+    "country": "IT",
+    "lat": 41.72185,
+    "lng": 12.71809
+  },
+  {
+    "name": "Nembro",
+    "country": "IT",
+    "lat": 45.74411,
+    "lng": 9.76127
+  },
+  {
+    "name": "Neirone",
+    "country": "IT",
+    "lat": 44.45482,
+    "lng": 9.19133
+  },
+  {
+    "name": "Negrar",
+    "country": "IT",
+    "lat": 45.52918,
+    "lng": 10.93899
+  },
+  {
+    "name": "Nesso",
+    "country": "IT",
+    "lat": 45.91238,
+    "lng": 9.15674
+  },
+  {
+    "name": "Neviglie",
+    "country": "IT",
+    "lat": 44.69194,
+    "lng": 8.11684
+  },
+  {
+    "name": "Nebbiuno",
+    "country": "IT",
+    "lat": 45.80774,
+    "lng": 8.52593
+  },
+  {
+    "name": "Negrone",
+    "country": "IT",
+    "lat": 45.71028,
+    "lng": 9.75811
+  },
+  {
+    "name": "Neive-Borgonovo",
+    "country": "IT",
+    "lat": 44.72397,
+    "lng": 8.1178
+  },
+  {
+    "name": "New Kingston",
+    "country": "JM",
+    "lat": 18.00747,
+    "lng": -76.78319
+  },
+  {
+    "name": "Negril",
+    "country": "JM",
+    "lat": 18.26844,
+    "lng": -78.3481
+  },
+  {
+    "name": "Neu",
+    "country": "JP",
+    "lat": 35.23538,
+    "lng": 133.44658
+  },
+  {
+    "name": "Negishichō",
+    "country": "JP",
+    "lat": 35.41903,
+    "lng": 139.64237
+  },
+  {
+    "name": "Nemuro",
+    "country": "JP",
+    "lat": 43.32361,
+    "lng": 145.575
+  },
+  {
+    "name": "Neyagawa",
+    "country": "JP",
+    "lat": 34.76615,
+    "lng": 135.62759
+  },
+  {
+    "name": "Nejime-kawaminan",
+    "country": "JP",
+    "lat": 31.21131,
+    "lng": 130.77849
+  },
+  {
+    "name": "Nezu",
+    "country": "JP",
+    "lat": 35.71886,
+    "lng": 139.76467
+  },
+  {
+    "name": "Newcastle",
+    "country": "KN",
+    "lat": 17.2,
+    "lng": -62.58333
+  },
+  {
+    "name": "Neietsu",
+    "country": "KR",
+    "lat": 37.18447,
+    "lng": 128.46821
+  },
+  {
+    "name": "Newlands",
+    "country": "KY",
+    "lat": 19.28542,
+    "lng": -81.302
+  },
+  {
+    "name": "Nendeln",
+    "country": "LI",
+    "lat": 47.19846,
+    "lng": 9.543
+  },
+  {
+    "name": "Negombo",
+    "country": "LK",
+    "lat": 7.2083,
+    "lng": 79.8358
+  },
+  {
+    "name": "New Yekepa",
+    "country": "LR",
+    "lat": 7.57944,
+    "lng": -8.53778
+  },
+  {
+    "name": "Neringa",
+    "country": "LT",
+    "lat": 55.37194,
+    "lng": 21.06472
+  },
+  {
+    "name": "Nemėžis",
+    "country": "LT",
+    "lat": 54.63629,
+    "lng": 25.35455
+  },
+  {
+    "name": "Nemenčinė",
+    "country": "LT",
+    "lat": 54.84776,
+    "lng": 25.46992
+  },
+  {
+    "name": "Neudorf-Weimershof",
+    "country": "LU",
+    "lat": 49.6256,
+    "lng": 6.16926
+  },
+  {
+    "name": "Nereta",
+    "country": "LV",
+    "lat": 56.20279,
+    "lng": 25.30752
+  },
+  {
+    "name": "New Fes",
+    "country": "MA",
+    "lat": 34.05466,
+    "lng": -5.00725
+  },
+  {
+    "name": "Nerašte",
+    "country": "MK",
+    "lat": 42.10711,
+    "lng": 21.1081
+  },
+  {
+    "name": "Negotino",
+    "country": "MK",
+    "lat": 41.87792,
+    "lng": 20.88389
+  },
+  {
+    "name": "Negotino",
+    "country": "MK",
+    "lat": 41.48456,
+    "lng": 22.09056
+  },
+  {
+    "name": "New Grove",
+    "country": "MU",
+    "lat": -20.40861,
+    "lng": 57.61361
+  },
+  {
+    "name": "Neno",
+    "country": "MW",
+    "lat": -15.39805,
+    "lng": 34.65343
+  },
+  {
+    "name": "Necoxcalco",
+    "country": "MX",
+    "lat": 18.46092,
+    "lng": -97.29827
+  },
+  {
+    "name": "Netzahualcóyotl",
+    "country": "MX",
+    "lat": 17.71127,
+    "lng": -91.44243
+  },
+  {
+    "name": "Nepopualco",
+    "country": "MX",
+    "lat": 18.99926,
+    "lng": -98.9427
+  },
+  {
+    "name": "Nepantla de Sor Juana Inés de la Cruz",
+    "country": "MX",
+    "lat": 18.98028,
+    "lng": -98.84083
+  },
+  {
+    "name": "Nejapa de Madero",
+    "country": "MX",
+    "lat": 16.60571,
+    "lng": -95.97855
+  },
+  {
+    "name": "Necaxa",
+    "country": "MX",
+    "lat": 20.21271,
+    "lng": -98.01188
+  },
+  {
+    "name": "Nealtican",
+    "country": "MX",
+    "lat": 19.0499,
+    "lng": -98.4272
+  },
+  {
+    "name": "Necoxtla",
+    "country": "MX",
+    "lat": 18.39811,
+    "lng": -97.35999
+  },
+  {
+    "name": "Neutla",
+    "country": "MX",
+    "lat": 20.708,
+    "lng": -100.83957
+  },
+  {
+    "name": "Nextipac",
+    "country": "MX",
+    "lat": 20.76689,
+    "lng": -103.52601
+  },
+  {
+    "name": "Negritas",
+    "country": "MX",
+    "lat": 22.79361,
+    "lng": -100.16015
+  },
+  {
+    "name": "Nejapa",
+    "country": "MX",
+    "lat": 17.61389,
+    "lng": -99.145
+  },
+  {
+    "name": "Necoxtla",
+    "country": "MX",
+    "lat": 18.77861,
+    "lng": -97.15361
+  },
+  {
+    "name": "Nexticapan",
+    "country": "MX",
+    "lat": 19.82722,
+    "lng": -97.55417
+  },
+  {
+    "name": "Nexpan",
+    "country": "MX",
+    "lat": 19.88389,
+    "lng": -97.42333
+  },
+  {
+    "name": "Nenehuaca",
+    "country": "MX",
+    "lat": 19.14389,
+    "lng": -97.04222
+  },
+  {
+    "name": "Nezahualcóyotl",
+    "country": "MX",
+    "lat": 19.38763,
+    "lng": -98.99264
+  },
+  {
+    "name": "Neram Satu",
+    "country": "MY",
+    "lat": 4.0129,
+    "lng": 103.2766
+  },
+  {
+    "name": "New Shagunnu",
+    "country": "NG",
+    "lat": 10.33957,
+    "lng": 4.4688
+  },
+  {
+    "name": "New Bussa",
+    "country": "NG",
+    "lat": 9.88644,
+    "lng": 4.50854
+  },
+  {
+    "name": "Neni",
+    "country": "NG",
+    "lat": 6.09511,
+    "lng": 7.02426
+  },
+  {
+    "name": "Nembe",
+    "country": "NG",
+    "lat": 4.53673,
+    "lng": 6.40332
+  },
+  {
+    "name": "Nes",
+    "country": "NL",
+    "lat": 53.44502,
+    "lng": 5.774
+  },
+  {
+    "name": "Nes",
+    "country": "NL",
+    "lat": 53.05207,
+    "lng": 5.85223
+  },
+  {
+    "name": "Neerkant",
+    "country": "NL",
+    "lat": 51.36833,
+    "lng": 5.86667
+  },
+  {
+    "name": "Neerbeek",
+    "country": "NL",
+    "lat": 50.95,
+    "lng": 5.81528
+  },
+  {
+    "name": "Neede",
+    "country": "NL",
+    "lat": 52.13417,
+    "lng": 6.61389
+  },
+  {
+    "name": "Nederwoud",
+    "country": "NL",
+    "lat": 52.10083,
+    "lng": 5.57083
+  },
+  {
+    "name": "Nederweert",
+    "country": "NL",
+    "lat": 51.28583,
+    "lng": 5.74861
+  },
+  {
+    "name": "Nederhemert-Noord",
+    "country": "NL",
+    "lat": 51.76322,
+    "lng": 5.17305
+  },
+  {
+    "name": "Nederhemert",
+    "country": "NL",
+    "lat": 51.76518,
+    "lng": 5.16817
+  },
+  {
+    "name": "Neder-Hardinxveld",
+    "country": "NL",
+    "lat": 51.82879,
+    "lng": 4.85489
+  },
+  {
+    "name": "Nesttun",
+    "country": "NO",
+    "lat": 60.31821,
+    "lng": 5.35317
+  },
+  {
+    "name": "Nesna",
+    "country": "NO",
+    "lat": 66.19817,
+    "lng": 13.01844
+  },
+  {
+    "name": "Nesbyen",
+    "country": "NO",
+    "lat": 60.56809,
+    "lng": 9.10274
+  },
+  {
+    "name": "Nesoddtangen",
+    "country": "NO",
+    "lat": 59.86244,
+    "lng": 10.66308
+  },
+  {
+    "name": "Neskollen",
+    "country": "NO",
+    "lat": 60.12159,
+    "lng": 11.33926
+  },
+  {
+    "name": "Nepalgunj",
+    "country": "NP",
+    "lat": 28.05,
+    "lng": 81.61667
+  },
+  {
+    "name": "Newton",
+    "country": "NZ",
+    "lat": -36.85843,
+    "lng": 174.75005
+  },
+  {
+    "name": "New Plymouth",
+    "country": "NZ",
+    "lat": -39.06667,
+    "lng": 174.08333
+  },
+  {
+    "name": "New Brighton",
+    "country": "NZ",
+    "lat": -43.51667,
+    "lng": 172.73333
+  },
+  {
+    "name": "Nelson",
+    "country": "NZ",
+    "lat": -41.27078,
+    "lng": 173.28404
+  },
+  {
+    "name": "Newfield",
+    "country": "NZ",
+    "lat": -46.41842,
+    "lng": 168.38009
+  },
+  {
+    "name": "Netherby",
+    "country": "NZ",
+    "lat": -43.89834,
+    "lng": 171.76011
+  },
+  {
+    "name": "New Brighton North",
+    "country": "NZ",
+    "lat": -43.49179,
+    "lng": 172.72018
+  },
+  {
+    "name": "New Lynn",
+    "country": "NZ",
+    "lat": -36.90694,
+    "lng": 174.68704
+  },
+  {
+    "name": "New Windsor",
+    "country": "NZ",
+    "lat": -36.8982,
+    "lng": 174.70019
+  },
+  {
+    "name": "Newmarket",
+    "country": "NZ",
+    "lat": -36.86977,
+    "lng": 174.77566
+  },
+  {
+    "name": "Nelson South",
+    "country": "NZ",
+    "lat": -41.28503,
+    "lng": 173.27491
+  },
+  {
+    "name": "Newtown",
+    "country": "NZ",
+    "lat": -41.31115,
+    "lng": 174.77935
+  },
+  {
+    "name": "Newlands",
+    "country": "NZ",
+    "lat": -41.22444,
+    "lng": 174.82192
+  },
+  {
+    "name": "Nepeña",
+    "country": "PE",
+    "lat": -9.1725,
+    "lng": -78.35889
+  },
+  {
+    "name": "Negritos",
+    "country": "PE",
+    "lat": -4.65389,
+    "lng": -81.30472
+  },
+  {
+    "name": "New Pandanon",
+    "country": "PH",
+    "lat": 10.55696,
+    "lng": 123.1475
+  },
+  {
+    "name": "New Washington",
+    "country": "PH",
+    "lat": 11.6508,
+    "lng": 122.4322
+  },
+  {
+    "name": "New Visayas",
+    "country": "PH",
+    "lat": 7.52333,
+    "lng": 125.62333
+  },
+  {
+    "name": "New Sibonga",
+    "country": "PH",
+    "lat": 7.5609,
+    "lng": 125.9298
+  },
+  {
+    "name": "New Panay",
+    "country": "PH",
+    "lat": 6.74237,
+    "lng": 124.55956
+  },
+  {
+    "name": "New Panamao",
+    "country": "PH",
+    "lat": 5.95,
+    "lng": 121.2
+  },
+  {
+    "name": "New Leyte",
+    "country": "PH",
+    "lat": 7.5,
+    "lng": 125.75
+  },
+  {
+    "name": "New Lagao",
+    "country": "PH",
+    "lat": 6.70235,
+    "lng": 124.64141
+  },
+  {
+    "name": "New Iloilo",
+    "country": "PH",
+    "lat": 6.54776,
+    "lng": 124.78951
+  },
+  {
+    "name": "New Corella",
+    "country": "PH",
+    "lat": 7.5866,
+    "lng": 125.8237
+  },
+  {
+    "name": "New Cebu",
+    "country": "PH",
+    "lat": 7.09528,
+    "lng": 125.03361
+  },
+  {
+    "name": "New Bohol",
+    "country": "PH",
+    "lat": 7.5233,
+    "lng": 125.8363
+  },
+  {
+    "name": "New Batu Batu",
+    "country": "PH",
+    "lat": 5.06667,
+    "lng": 119.88333
+  },
+  {
+    "name": "New Agutaya",
+    "country": "PH",
+    "lat": 10.56139,
+    "lng": 119.30778
+  },
+  {
+    "name": "Nenita",
+    "country": "PH",
+    "lat": 12.49167,
+    "lng": 124.80444
+  },
+  {
+    "name": "Nena",
+    "country": "PH",
+    "lat": 11.76583,
+    "lng": 125.41778
+  },
+  {
+    "name": "New Baclayon",
+    "country": "PH",
+    "lat": 6.58417,
+    "lng": 125.36944
+  },
+  {
+    "name": "New Mirpur City",
+    "country": "PK",
+    "lat": 33.14782,
+    "lng": 73.75187
+  },
+  {
+    "name": "New Badah",
+    "country": "PK",
+    "lat": 27.34167,
+    "lng": 68.03194
+  },
+  {
+    "name": "Nekla",
+    "country": "PL",
+    "lat": 52.36496,
+    "lng": 17.41329
+  },
+  {
+    "name": "Neuhof",
+    "country": "PL",
+    "lat": 54.11638,
+    "lng": 20.54409
+  },
+  {
+    "name": "Neve Daniel",
+    "country": "PS",
+    "lat": 31.67676,
+    "lng": 35.14375
+  },
+  {
+    "name": "Neves",
+    "country": "PT",
+    "lat": 38.0227,
+    "lng": -7.81344
+  },
+  {
+    "name": "Nevogilde",
+    "country": "PT",
+    "lat": 41.16515,
+    "lng": -8.67917
+  },
+  {
+    "name": "Nelas",
+    "country": "PT",
+    "lat": 40.53216,
+    "lng": -7.85152
+  },
+  {
+    "name": "Neiral",
+    "country": "PT",
+    "lat": 41.15,
+    "lng": -8.58333
+  },
+  {
+    "name": "Negrelos",
+    "country": "PT",
+    "lat": 41.34946,
+    "lng": -8.40145
+  },
+  {
+    "name": "Negreiros",
+    "country": "PT",
+    "lat": 41.43552,
+    "lng": -8.61398
+  },
+  {
+    "name": "Nemby",
+    "country": "PY",
+    "lat": -25.3949,
+    "lng": -57.53574
+  },
+  {
+    "name": "Neudorf",
+    "country": "RO",
+    "lat": 46.0696,
+    "lng": 21.61899
+  },
+  {
+    "name": "Nereju Mic",
+    "country": "RO",
+    "lat": 45.70618,
+    "lng": 26.69641
+  },
+  {
+    "name": "Nereju",
+    "country": "RO",
+    "lat": 45.71667,
+    "lng": 26.71667
+  },
+  {
+    "name": "Nerău",
+    "country": "RO",
+    "lat": 45.96929,
+    "lng": 20.5607
+  },
+  {
+    "name": "Nepos",
+    "country": "RO",
+    "lat": 47.2775,
+    "lng": 24.5332
+  },
+  {
+    "name": "Nenciulești",
+    "country": "RO",
+    "lat": 44.03486,
+    "lng": 25.20061
+  },
+  {
+    "name": "Nemțișor",
+    "country": "RO",
+    "lat": 47.23962,
+    "lng": 26.27209
+  },
+  {
+    "name": "Nehoiu",
+    "country": "RO",
+    "lat": 45.41667,
+    "lng": 26.3
+  },
+  {
+    "name": "Negru Vodă",
+    "country": "RO",
+    "lat": 43.81667,
+    "lng": 28.2
+  },
+  {
+    "name": "Negrilești",
+    "country": "RO",
+    "lat": 47.27068,
+    "lng": 24.04936
+  },
+  {
+    "name": "Negrilești",
+    "country": "RO",
+    "lat": 45.95729,
+    "lng": 27.48085
+  },
+  {
+    "name": "Negrilești",
+    "country": "RO",
+    "lat": 45.93697,
+    "lng": 26.70635
+  },
+  {
+    "name": "Negrileasa",
+    "country": "RO",
+    "lat": 47.42348,
+    "lng": 25.81617
+  },
+  {
+    "name": "Negri",
+    "country": "RO",
+    "lat": 46.7,
+    "lng": 26.96667
+  },
+  {
+    "name": "Negreşti-Oaş",
+    "country": "RO",
+    "lat": 47.86667,
+    "lng": 23.43333
+  },
+  {
+    "name": "Negrești",
+    "country": "RO",
+    "lat": 47.02938,
+    "lng": 26.37958
+  },
+  {
+    "name": "Negreşti",
+    "country": "RO",
+    "lat": 46.83333,
+    "lng": 27.43333
+  },
+  {
+    "name": "Negreni",
+    "country": "RO",
+    "lat": 46.95378,
+    "lng": 22.76347
+  },
+  {
+    "name": "Negreni",
+    "country": "RO",
+    "lat": 44.56848,
+    "lng": 24.59535
+  },
+  {
+    "name": "Negraşi",
+    "country": "RO",
+    "lat": 44.6,
+    "lng": 25.11667
+  },
+  {
+    "name": "Negostina",
+    "country": "RO",
+    "lat": 47.92282,
+    "lng": 26.08209
+  },
+  {
+    "name": "Negomir",
+    "country": "RO",
+    "lat": 44.83333,
+    "lng": 23.16667
+  },
+  {
+    "name": "Negoi",
+    "country": "RO",
+    "lat": 43.91396,
+    "lng": 23.37288
+  },
+  {
+    "name": "Negoiești",
+    "country": "RO",
+    "lat": 44.87393,
+    "lng": 25.9816
+  },
+  {
+    "name": "Negoiești",
+    "country": "RO",
+    "lat": 44.53584,
+    "lng": 23.7269
+  },
+  {
+    "name": "Negoești",
+    "country": "RO",
+    "lat": 44.23065,
+    "lng": 26.50151
+  },
+  {
+    "name": "Nedelea",
+    "country": "RO",
+    "lat": 44.97191,
+    "lng": 25.81647
+  },
+  {
+    "name": "Nedeia",
+    "country": "RO",
+    "lat": 43.84992,
+    "lng": 23.77643
+  },
+  {
+    "name": "Necşeşti",
+    "country": "RO",
+    "lat": 44.25,
+    "lng": 25.15
+  },
+  {
+    "name": "Neaua",
+    "country": "RO",
+    "lat": 46.48333,
+    "lng": 24.83333
+  },
+  {
+    "name": "Neagra Șarului",
+    "country": "RO",
+    "lat": 47.23907,
+    "lng": 25.32923
+  },
+  {
+    "name": "Neuzina",
+    "country": "RS",
+    "lat": 45.3446,
+    "lng": 20.71418
+  },
+  {
+    "name": "Negotin",
+    "country": "RS",
+    "lat": 44.22639,
+    "lng": 22.53083
+  },
+  {
+    "name": "Nezlobnaya",
+    "country": "RU",
+    "lat": 44.11806,
+    "lng": 43.40278
+  },
+  {
+    "name": "Nezhinka",
+    "country": "RU",
+    "lat": 51.7676,
+    "lng": 55.3694
+  },
+  {
+    "name": "Neya",
+    "country": "RU",
+    "lat": 58.29708,
+    "lng": 43.86834
+  },
+  {
+    "name": "Nevinnomyssk",
+    "country": "RU",
+    "lat": 44.6333,
+    "lng": 41.9444
+  },
+  {
+    "name": "Neverkino",
+    "country": "RU",
+    "lat": 52.78541,
+    "lng": 46.74174
+  },
+  {
+    "name": "Nevel’",
+    "country": "RU",
+    "lat": 56.02,
+    "lng": 29.92824
+  },
+  {
+    "name": "Nesterovskaya",
+    "country": "RU",
+    "lat": 43.23861,
+    "lng": 45.05028
+  },
+  {
+    "name": "Nesterov",
+    "country": "RU",
+    "lat": 54.63056,
+    "lng": 22.57139
+  },
+  {
+    "name": "Nerl’",
+    "country": "RU",
+    "lat": 56.66285,
+    "lng": 40.38931
+  },
+  {
+    "name": "Nerekhta",
+    "country": "RU",
+    "lat": 57.45795,
+    "lng": 40.57169
+  },
+  {
+    "name": "Nemchinovka",
+    "country": "RU",
+    "lat": 55.72288,
+    "lng": 37.36086
+  },
+  {
+    "name": "Neman",
+    "country": "RU",
+    "lat": 55.03111,
+    "lng": 22.02639
+  },
+  {
+    "name": "Nema",
+    "country": "RU",
+    "lat": 57.50687,
+    "lng": 50.5011
+  },
+  {
+    "name": "Nelidovo",
+    "country": "RU",
+    "lat": 56.22761,
+    "lng": 32.77474
+  },
+  {
+    "name": "Nelazskoye",
+    "country": "RU",
+    "lat": 59.18919,
+    "lng": 37.63963
+  },
+  {
+    "name": "Nekrasovskoye",
+    "country": "RU",
+    "lat": 57.67958,
+    "lng": 40.36504
+  },
+  {
+    "name": "Nekrasovskiy",
+    "country": "RU",
+    "lat": 56.08667,
+    "lng": 37.49753
+  },
+  {
+    "name": "Nekrasovskaya",
+    "country": "RU",
+    "lat": 45.14468,
+    "lng": 39.74868
+  },
+  {
+    "name": "Nekrasovka",
+    "country": "RU",
+    "lat": 55.69328,
+    "lng": 37.91148
+  },
+  {
+    "name": "Neklyudovo",
+    "country": "RU",
+    "lat": 56.41421,
+    "lng": 43.97721
+  },
+  {
+    "name": "Nekhayevskaya",
+    "country": "RU",
+    "lat": 50.40841,
+    "lng": 41.74882
+  },
+  {
+    "name": "Neftekamsk",
+    "country": "RU",
+    "lat": 56.08879,
+    "lng": 54.26383
+  },
+  {
+    "name": "Neftegorsk",
+    "country": "RU",
+    "lat": 52.80135,
+    "lng": 51.16551
+  },
+  {
+    "name": "Neftegorsk",
+    "country": "RU",
+    "lat": 44.3658,
+    "lng": 39.7078
+  },
+  {
+    "name": "Nedvigovka",
+    "country": "RU",
+    "lat": 47.26799,
+    "lng": 39.35314
+  },
+  {
+    "name": "Nebug",
+    "country": "RU",
+    "lat": 44.1717,
+    "lng": 39.0026
+  },
+  {
+    "name": "Nebolchi",
+    "country": "RU",
+    "lat": 59.12393,
+    "lng": 33.34537
+  },
+  {
+    "name": "Neftekumsk",
+    "country": "RU",
+    "lat": 44.75583,
+    "lng": 44.9925
+  },
+  {
+    "name": "Net’inka",
+    "country": "RU",
+    "lat": 53.34778,
+    "lng": 34.19111
+  },
+  {
+    "name": "Nezhinskiy",
+    "country": "RU",
+    "lat": 43.92833,
+    "lng": 42.68556
+  },
+  {
+    "name": "Neyvo-Shaytanskiy",
+    "country": "RU",
+    "lat": 57.7286,
+    "lng": 61.24956
+  },
+  {
+    "name": "Neyvo-Rudyanka",
+    "country": "RU",
+    "lat": 57.3444,
+    "lng": 60.1343
+  },
+  {
+    "name": "Nev’yansk",
+    "country": "RU",
+    "lat": 57.49233,
+    "lng": 60.21415
+  },
+  {
+    "name": "Nefteyugansk",
+    "country": "RU",
+    "lat": 61.09979,
+    "lng": 72.60349
+  },
+  {
+    "name": "Never",
+    "country": "RU",
+    "lat": 53.98019,
+    "lng": 124.16139
+  },
+  {
+    "name": "Neryungri",
+    "country": "RU",
+    "lat": 56.65836,
+    "lng": 124.72499
+  },
+  {
+    "name": "Nerchinskiy Zavod",
+    "country": "RU",
+    "lat": 51.30843,
+    "lng": 119.61693
+  },
+  {
+    "name": "Nerchinsk",
+    "country": "RU",
+    "lat": 51.97981,
+    "lng": 116.58693
+  },
+  {
+    "name": "Nekrasovka",
+    "country": "RU",
+    "lat": 48.35135,
+    "lng": 135.23898
+  },
+  {
+    "name": "Nevel’sk",
+    "country": "RU",
+    "lat": 46.67956,
+    "lng": 141.85587
+  },
+  {
+    "name": "Nezhdaninskoe",
+    "country": "RU",
+    "lat": 62.50523,
+    "lng": 139.05104
+  },
+  {
+    "name": "New Halfa",
+    "country": "SD",
+    "lat": 15.33021,
+    "lng": 35.59854
+  },
+  {
+    "name": "Newton",
+    "country": "SG",
+    "lat": 1.30902,
+    "lng": 103.83757
+  },
+  {
+    "name": "Nesvady",
+    "country": "SK",
+    "lat": 47.92819,
+    "lng": 18.12675
+  },
+  {
+    "name": "Nemšová",
+    "country": "SK",
+    "lat": 48.96702,
+    "lng": 18.11892
+  },
+  {
+    "name": "Nedožery - Brezany",
+    "country": "SK",
+    "lat": 48.82429,
+    "lng": 18.64458
+  },
+  {
+    "name": "Neves",
+    "country": "ST",
+    "lat": 0.35671,
+    "lng": 6.54897
+  },
+  {
+    "name": "Neftobod",
+    "country": "TJ",
+    "lat": 40.21524,
+    "lng": 70.57193
+  },
+  {
+    "name": "Nefta",
+    "country": "TN",
+    "lat": 33.87309,
+    "lng": 7.87765
+  },
+  {
+    "name": "Neiafu",
+    "country": "TO",
+    "lat": -18.65144,
+    "lng": -173.98354
+  },
+  {
+    "name": "Nevşehir",
+    "country": "TR",
+    "lat": 38.625,
+    "lng": 34.71222
+  },
+  {
+    "name": "Neşetiye",
+    "country": "TR",
+    "lat": 37.89115,
+    "lng": 27.54461
+  },
+  {
+    "name": "Neili",
+    "country": "TW",
+    "lat": 24.9725,
+    "lng": 121.26139
+  },
+  {
+    "name": "Neihu",
+    "country": "TW",
+    "lat": 25.0815,
+    "lng": 121.58809
+  },
+  {
+    "name": "New Taipei City",
+    "country": "TW",
+    "lat": 25.06199,
+    "lng": 121.45703
+  },
+  {
+    "name": "Newala Kisimani",
+    "country": "TZ",
+    "lat": -10.95,
+    "lng": 39.28333
+  },
+  {
+    "name": "Newala",
+    "country": "TZ",
+    "lat": -10.93333,
+    "lng": 39.3
+  },
+  {
+    "name": "Nevytske",
+    "country": "UA",
+    "lat": 48.67472,
+    "lng": 22.38813
+  },
+  {
+    "name": "Netishyn",
+    "country": "UA",
+    "lat": 50.32863,
+    "lng": 26.64872
+  },
+  {
+    "name": "Nesvoya",
+    "country": "UA",
+    "lat": 48.33688,
+    "lng": 26.57635
+  },
+  {
+    "name": "Nestoita",
+    "country": "UA",
+    "lat": 47.76793,
+    "lng": 29.3511
+  },
+  {
+    "name": "Nerushay",
+    "country": "UA",
+    "lat": 45.6644,
+    "lng": 29.515
+  },
+  {
+    "name": "Nerubayske",
+    "country": "UA",
+    "lat": 46.54445,
+    "lng": 30.62921
+  },
+  {
+    "name": "Neresnytsia",
+    "country": "UA",
+    "lat": 48.12261,
+    "lng": 23.77425
+  },
+  {
+    "name": "Nepolokivtsi",
+    "country": "UA",
+    "lat": 48.38809,
+    "lng": 25.6353
+  },
+  {
+    "name": "Nemyriv",
+    "country": "UA",
+    "lat": 48.97002,
+    "lng": 28.83781
+  },
+  {
+    "name": "Nemishaieve",
+    "country": "UA",
+    "lat": 50.55939,
+    "lng": 30.08665
+  },
+  {
+    "name": "Nelypivtsi",
+    "country": "UA",
+    "lat": 48.4183,
+    "lng": 26.92207
+  },
+  {
+    "name": "Nelipyno",
+    "country": "UA",
+    "lat": 48.56101,
+    "lng": 23.03146
+  },
+  {
+    "name": "Nekrasovka",
+    "country": "UA",
+    "lat": 45.44085,
+    "lng": 34.98584
+  },
+  {
+    "name": "Nekhvoroshcha",
+    "country": "UA",
+    "lat": 49.15105,
+    "lng": 34.72274
+  },
+  {
+    "name": "Nedryhailiv",
+    "country": "UA",
+    "lat": 50.83398,
+    "lng": 33.87626
+  },
+  {
+    "name": "Nedra",
+    "country": "UA",
+    "lat": 50.36114,
+    "lng": 31.51248
+  },
+  {
+    "name": "Nedoharky",
+    "country": "UA",
+    "lat": 49.16998,
+    "lng": 33.26424
+  },
+  {
+    "name": "Nedoboyvtsi",
+    "country": "UA",
+    "lat": 48.43181,
+    "lng": 26.36724
+  },
+  {
+    "name": "Nechayane",
+    "country": "UA",
+    "lat": 46.94416,
+    "lng": 31.55113
+  },
+  {
+    "name": "Nebyliv",
+    "country": "UA",
+    "lat": 48.8151,
+    "lng": 24.21924
+  },
+  {
+    "name": "Nevetlenfolu",
+    "country": "UA",
+    "lat": 48.01667,
+    "lng": 23.0
+  },
+  {
+    "name": "Nekrasovo",
+    "country": "UA",
+    "lat": 45.42453,
+    "lng": 34.28545
+  },
+  {
+    "name": "Nebbi",
+    "country": "UG",
+    "lat": 2.47826,
+    "lng": 31.08893
+  },
+  {
+    "name": "New Pekin",
+    "country": "US",
+    "lat": 38.50506,
+    "lng": -86.01692
+  },
+  {
+    "name": "New Brockton",
+    "country": "US",
+    "lat": 31.38572,
+    "lng": -85.92939
+  },
+  {
+    "name": "New Hope",
+    "country": "US",
+    "lat": 34.53712,
+    "lng": -86.39426
+  },
+  {
+    "name": "New Market",
+    "country": "US",
+    "lat": 34.91003,
+    "lng": -86.42779
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 31.33517,
+    "lng": -85.60521
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 35.70174,
+    "lng": -91.44152
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 35.6048,
+    "lng": -91.2818
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 39.65948,
+    "lng": -75.56359
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 39.68372,
+    "lng": -75.74966
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 39.71372,
+    "lng": -75.60937
+  },
+  {
+    "name": "Neptune Beach",
+    "country": "US",
+    "lat": 30.31191,
+    "lng": -81.39647
+  },
+  {
+    "name": "New Port Richey",
+    "country": "US",
+    "lat": 28.24418,
+    "lng": -82.71927
+  },
+  {
+    "name": "New Smyrna Beach",
+    "country": "US",
+    "lat": 29.02582,
+    "lng": -80.927
+  },
+  {
+    "name": "Newberry",
+    "country": "US",
+    "lat": 29.64635,
+    "lng": -82.6065
+  },
+  {
+    "name": "Nelson",
+    "country": "US",
+    "lat": 34.38204,
+    "lng": -84.37103
+  },
+  {
+    "name": "Newnan",
+    "country": "US",
+    "lat": 33.38067,
+    "lng": -84.79966
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 31.31296,
+    "lng": -84.33574
+  },
+  {
+    "name": "Neoga",
+    "country": "US",
+    "lat": 39.31948,
+    "lng": -88.45283
+  },
+  {
+    "name": "New Athens",
+    "country": "US",
+    "lat": 38.32644,
+    "lng": -89.87705
+  },
+  {
+    "name": "New Baden",
+    "country": "US",
+    "lat": 38.53505,
+    "lng": -89.70065
+  },
+  {
+    "name": "New Berlin",
+    "country": "US",
+    "lat": 39.72533,
+    "lng": -89.91066
+  },
+  {
+    "name": "New Albany",
+    "country": "US",
+    "lat": 38.28562,
+    "lng": -85.82413
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 39.92894,
+    "lng": -85.37025
+  },
+  {
+    "name": "New Palestine",
+    "country": "US",
+    "lat": 39.72199,
+    "lng": -85.88915
+  },
+  {
+    "name": "New Whiteland",
+    "country": "US",
+    "lat": 39.5581,
+    "lng": -86.09526
+  },
+  {
+    "name": "Newburgh",
+    "country": "US",
+    "lat": 37.94449,
+    "lng": -87.40529
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 39.8842,
+    "lng": -87.40863
+  },
+  {
+    "name": "Neodesha",
+    "country": "US",
+    "lat": 37.41839,
+    "lng": -95.68026
+  },
+  {
+    "name": "Ness City",
+    "country": "US",
+    "lat": 38.45279,
+    "lng": -99.90651
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 38.04668,
+    "lng": -97.34504
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 38.4334,
+    "lng": -85.16968
+  },
+  {
+    "name": "Newburg",
+    "country": "US",
+    "lat": 38.16007,
+    "lng": -85.65968
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 39.09145,
+    "lng": -84.49578
+  },
+  {
+    "name": "New Iberia",
+    "country": "US",
+    "lat": 30.00354,
+    "lng": -91.81873
+  },
+  {
+    "name": "New Llano",
+    "country": "US",
+    "lat": 31.11491,
+    "lng": -93.27155
+  },
+  {
+    "name": "New Orleans",
+    "country": "US",
+    "lat": 29.95465,
+    "lng": -90.07507
+  },
+  {
+    "name": "New Roads",
+    "country": "US",
+    "lat": 30.70157,
+    "lng": -91.43622
+  },
+  {
+    "name": "New Sarpy",
+    "country": "US",
+    "lat": 29.97817,
+    "lng": -90.38963
+  },
+  {
+    "name": "Newellton",
+    "country": "US",
+    "lat": 32.07265,
+    "lng": -91.24095
+  },
+  {
+    "name": "New Carrollton",
+    "country": "US",
+    "lat": 38.96983,
+    "lng": -76.87997
+  },
+  {
+    "name": "New Market",
+    "country": "US",
+    "lat": 39.3826,
+    "lng": -77.26943
+  },
+  {
+    "name": "New Windsor",
+    "country": "US",
+    "lat": 39.54205,
+    "lng": -77.10804
+  },
+  {
+    "name": "Neosho",
+    "country": "US",
+    "lat": 36.86896,
+    "lng": -94.368
+  },
+  {
+    "name": "Nevada",
+    "country": "US",
+    "lat": 37.83921,
+    "lng": -94.35467
+  },
+  {
+    "name": "New Franklin",
+    "country": "US",
+    "lat": 39.01725,
+    "lng": -92.73741
+  },
+  {
+    "name": "New Haven",
+    "country": "US",
+    "lat": 38.60838,
+    "lng": -91.21904
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 39.58532,
+    "lng": -91.40098
+  },
+  {
+    "name": "New Madrid",
+    "country": "US",
+    "lat": 36.58645,
+    "lng": -89.52785
+  },
+  {
+    "name": "Nellieburg",
+    "country": "US",
+    "lat": 32.40681,
+    "lng": -88.77727
+  },
+  {
+    "name": "Nettleton",
+    "country": "US",
+    "lat": 34.089,
+    "lng": -88.62227
+  },
+  {
+    "name": "New Albany",
+    "country": "US",
+    "lat": 34.49427,
+    "lng": -89.00784
+  },
+  {
+    "name": "New Augusta",
+    "country": "US",
+    "lat": 31.20263,
+    "lng": -89.03668
+  },
+  {
+    "name": "New Hope",
+    "country": "US",
+    "lat": 33.46817,
+    "lng": -88.3267
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 32.32126,
+    "lng": -89.16339
+  },
+  {
+    "name": "Neuse Forest",
+    "country": "US",
+    "lat": 34.96377,
+    "lng": -76.94467
+  },
+  {
+    "name": "New Bern",
+    "country": "US",
+    "lat": 35.10849,
+    "lng": -77.04411
+  },
+  {
+    "name": "Newland",
+    "country": "US",
+    "lat": 36.08735,
+    "lng": -81.92734
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 34.78655,
+    "lng": -76.85911
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 35.66986,
+    "lng": -81.22147
+  },
+  {
+    "name": "Newfield",
+    "country": "US",
+    "lat": 39.54688,
+    "lng": -75.02636
+  },
+  {
+    "name": "Nelsonville",
+    "country": "US",
+    "lat": 39.45868,
+    "lng": -82.23182
+  },
+  {
+    "name": "New Boston",
+    "country": "US",
+    "lat": 38.7523,
+    "lng": -82.93684
+  },
+  {
+    "name": "New Burlington",
+    "country": "US",
+    "lat": 39.2595,
+    "lng": -84.55717
+  },
+  {
+    "name": "New Carlisle",
+    "country": "US",
+    "lat": 39.93617,
+    "lng": -84.02549
+  },
+  {
+    "name": "New Concord",
+    "country": "US",
+    "lat": 39.99368,
+    "lng": -81.73402
+  },
+  {
+    "name": "New Lebanon",
+    "country": "US",
+    "lat": 39.74533,
+    "lng": -84.38495
+  },
+  {
+    "name": "New Lexington",
+    "country": "US",
+    "lat": 39.71396,
+    "lng": -82.20848
+  },
+  {
+    "name": "New Matamoras",
+    "country": "US",
+    "lat": 39.52452,
+    "lng": -81.06705
+  },
+  {
+    "name": "New Miami",
+    "country": "US",
+    "lat": 39.43478,
+    "lng": -84.53689
+  },
+  {
+    "name": "New Paris",
+    "country": "US",
+    "lat": 39.85699,
+    "lng": -84.79329
+  },
+  {
+    "name": "New Richmond",
+    "country": "US",
+    "lat": 38.94868,
+    "lng": -84.27994
+  },
+  {
+    "name": "New Vienna",
+    "country": "US",
+    "lat": 39.32367,
+    "lng": -83.69103
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 39.39091,
+    "lng": -81.22678
+  },
+  {
+    "name": "Newtown",
+    "country": "US",
+    "lat": 39.1245,
+    "lng": -84.36161
+  },
+  {
+    "name": "Newcastle",
+    "country": "US",
+    "lat": 35.24729,
+    "lng": -97.59976
+  },
+  {
+    "name": "Newkirk",
+    "country": "US",
+    "lat": 36.88225,
+    "lng": -97.05337
+  },
+  {
+    "name": "New Freedom",
+    "country": "US",
+    "lat": 39.73788,
+    "lng": -76.70136
+  },
+  {
+    "name": "New Oxford",
+    "country": "US",
+    "lat": 39.86371,
+    "lng": -77.05581
+  },
+  {
+    "name": "New Ellenton",
+    "country": "US",
+    "lat": 33.42153,
+    "lng": -81.68567
+  },
+  {
+    "name": "Newberry",
+    "country": "US",
+    "lat": 34.27458,
+    "lng": -81.61872
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 34.98986,
+    "lng": -81.10091
+  },
+  {
+    "name": "New Hope",
+    "country": "US",
+    "lat": 35.00508,
+    "lng": -85.6583
+  },
+  {
+    "name": "New Johnsonville",
+    "country": "US",
+    "lat": 36.02117,
+    "lng": -87.96698
+  },
+  {
+    "name": "New Market",
+    "country": "US",
+    "lat": 36.10398,
+    "lng": -83.55268
+  },
+  {
+    "name": "New South Memphis",
+    "country": "US",
+    "lat": 35.08676,
+    "lng": -90.05676
+  },
+  {
+    "name": "New Tazewell",
+    "country": "US",
+    "lat": 36.44258,
+    "lng": -83.59963
+  },
+  {
+    "name": "New Union",
+    "country": "US",
+    "lat": 35.53258,
+    "lng": -86.08082
+  },
+  {
+    "name": "Newbern",
+    "country": "US",
+    "lat": 36.11285,
+    "lng": -89.26174
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 35.96704,
+    "lng": -83.18766
+  },
+  {
+    "name": "Nederland",
+    "country": "US",
+    "lat": 29.97438,
+    "lng": -93.9924
+  },
+  {
+    "name": "Needville",
+    "country": "US",
+    "lat": 29.39941,
+    "lng": -95.83773
+  },
+  {
+    "name": "Nevada",
+    "country": "US",
+    "lat": 33.04234,
+    "lng": -96.37387
+  },
+  {
+    "name": "New Boston",
+    "country": "US",
+    "lat": 33.45984,
+    "lng": -94.41548
+  },
+  {
+    "name": "New Braunfels",
+    "country": "US",
+    "lat": 29.703,
+    "lng": -98.12445
+  },
+  {
+    "name": "New Caney",
+    "country": "US",
+    "lat": 30.15522,
+    "lng": -95.21132
+  },
+  {
+    "name": "New Summerfield",
+    "country": "US",
+    "lat": 31.98072,
+    "lng": -95.09383
+  },
+  {
+    "name": "New Territory",
+    "country": "US",
+    "lat": 29.59412,
+    "lng": -95.68078
+  },
+  {
+    "name": "New Waverly",
+    "country": "US",
+    "lat": 30.5377,
+    "lng": -95.48328
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 33.00124,
+    "lng": -97.48447
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 30.84853,
+    "lng": -93.7574
+  },
+  {
+    "name": "Nellysford",
+    "country": "US",
+    "lat": 37.89042,
+    "lng": -78.87224
+  },
+  {
+    "name": "New Baltimore",
+    "country": "US",
+    "lat": 38.76734,
+    "lng": -77.72833
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 37.50013,
+    "lng": -80.11088
+  },
+  {
+    "name": "New Market",
+    "country": "US",
+    "lat": 38.6479,
+    "lng": -78.67141
+  },
+  {
+    "name": "Newington",
+    "country": "US",
+    "lat": 38.73845,
+    "lng": -77.18498
+  },
+  {
+    "name": "Newport News",
+    "country": "US",
+    "lat": 36.98038,
+    "lng": -76.42975
+  },
+  {
+    "name": "New Martinsville",
+    "country": "US",
+    "lat": 39.64452,
+    "lng": -80.8576
+  },
+  {
+    "name": "New Haven",
+    "country": "US",
+    "lat": 38.98647,
+    "lng": -81.97347
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 38.99088,
+    "lng": -88.16254
+  },
+  {
+    "name": "New Kent",
+    "country": "US",
+    "lat": 37.51765,
+    "lng": -76.97886
+  },
+  {
+    "name": "New Britain",
+    "country": "US",
+    "lat": 41.66121,
+    "lng": -72.77954
+  },
+  {
+    "name": "New Canaan",
+    "country": "US",
+    "lat": 41.14676,
+    "lng": -73.49484
+  },
+  {
+    "name": "New Fairfield",
+    "country": "US",
+    "lat": 41.46648,
+    "lng": -73.48568
+  },
+  {
+    "name": "New Haven",
+    "country": "US",
+    "lat": 41.30815,
+    "lng": -72.92816
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 41.35565,
+    "lng": -72.09952
+  },
+  {
+    "name": "New Milford",
+    "country": "US",
+    "lat": 41.57704,
+    "lng": -73.40845
+  },
+  {
+    "name": "New Preston",
+    "country": "US",
+    "lat": 41.6751,
+    "lng": -73.35179
+  },
+  {
+    "name": "Newington",
+    "country": "US",
+    "lat": 41.69788,
+    "lng": -72.72371
+  },
+  {
+    "name": "Nevada",
+    "country": "US",
+    "lat": 42.02277,
+    "lng": -93.45243
+  },
+  {
+    "name": "New Hampton",
+    "country": "US",
+    "lat": 43.05914,
+    "lng": -92.31768
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 40.92698,
+    "lng": -91.3996
+  },
+  {
+    "name": "New Sharon",
+    "country": "US",
+    "lat": 41.47,
+    "lng": -92.6513
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 41.69971,
+    "lng": -93.04798
+  },
+  {
+    "name": "Near North Side",
+    "country": "US",
+    "lat": 41.90003,
+    "lng": -87.6345
+  },
+  {
+    "name": "Near South Side",
+    "country": "US",
+    "lat": 41.8567,
+    "lng": -87.62477
+  },
+  {
+    "name": "New City",
+    "country": "US",
+    "lat": 41.80753,
+    "lng": -87.65644
+  },
+  {
+    "name": "New Lenox",
+    "country": "US",
+    "lat": 41.51198,
+    "lng": -87.96561
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 41.53697,
+    "lng": -88.58341
+  },
+  {
+    "name": "New Carlisle",
+    "country": "US",
+    "lat": 41.70032,
+    "lng": -86.50946
+  },
+  {
+    "name": "New Chicago",
+    "country": "US",
+    "lat": 41.55837,
+    "lng": -87.27448
+  },
+  {
+    "name": "New Haven",
+    "country": "US",
+    "lat": 41.0706,
+    "lng": -85.01441
+  },
+  {
+    "name": "New Paris",
+    "country": "US",
+    "lat": 41.50033,
+    "lng": -85.82805
+  },
+  {
+    "name": "Needham",
+    "country": "US",
+    "lat": 42.28343,
+    "lng": -71.23283
+  },
+  {
+    "name": "New Bedford",
+    "country": "US",
+    "lat": 41.63526,
+    "lng": -70.92701
+  },
+  {
+    "name": "New Marlborough",
+    "country": "US",
+    "lat": 42.12287,
+    "lng": -73.22872
+  },
+  {
+    "name": "Newburyport",
+    "country": "US",
+    "lat": 42.81259,
+    "lng": -70.87728
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 42.33704,
+    "lng": -71.20922
+  },
+  {
+    "name": "Newton Center",
+    "country": "US",
+    "lat": 42.33065,
+    "lng": -71.1995
+  },
+  {
+    "name": "Newton Corner",
+    "country": "US",
+    "lat": 42.36121,
+    "lng": -71.19533
+  },
+  {
+    "name": "Newton Highlands",
+    "country": "US",
+    "lat": 42.32093,
+    "lng": -71.1995
+  },
+  {
+    "name": "Newton Lower Falls",
+    "country": "US",
+    "lat": 42.32926,
+    "lng": -71.25367
+  },
+  {
+    "name": "Newton Upper Falls",
+    "country": "US",
+    "lat": 42.31399,
+    "lng": -71.2195
+  },
+  {
+    "name": "Newtonville",
+    "country": "US",
+    "lat": 42.3501,
+    "lng": -71.20367
+  },
+  {
+    "name": "New Gloucester",
+    "country": "US",
+    "lat": 43.96285,
+    "lng": -70.28255
+  },
+  {
+    "name": "New Sharon",
+    "country": "US",
+    "lat": 44.63895,
+    "lng": -70.01561
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 44.83534,
+    "lng": -69.27394
+  },
+  {
+    "name": "Newfield",
+    "country": "US",
+    "lat": 43.64813,
+    "lng": -70.84701
+  },
+  {
+    "name": "Negaunee",
+    "country": "US",
+    "lat": 46.4991,
+    "lng": -87.6118
+  },
+  {
+    "name": "New Baltimore",
+    "country": "US",
+    "lat": 42.68114,
+    "lng": -82.73686
+  },
+  {
+    "name": "New Buffalo",
+    "country": "US",
+    "lat": 41.79393,
+    "lng": -86.74392
+  },
+  {
+    "name": "New Haven",
+    "country": "US",
+    "lat": 42.72948,
+    "lng": -82.80131
+  },
+  {
+    "name": "New Haven",
+    "country": "US",
+    "lat": 43.09364,
+    "lng": -84.15331
+  },
+  {
+    "name": "Newaygo",
+    "country": "US",
+    "lat": 43.41974,
+    "lng": -85.80005
+  },
+  {
+    "name": "Newberry",
+    "country": "US",
+    "lat": 46.355,
+    "lng": -85.50956
+  },
+  {
+    "name": "New Brighton",
+    "country": "US",
+    "lat": 45.06552,
+    "lng": -93.20189
+  },
+  {
+    "name": "New Hope",
+    "country": "US",
+    "lat": 45.03802,
+    "lng": -93.38662
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 45.30108,
+    "lng": -94.94418
+  },
+  {
+    "name": "New Prague",
+    "country": "US",
+    "lat": 44.5433,
+    "lng": -93.57607
+  },
+  {
+    "name": "New Richland",
+    "country": "US",
+    "lat": 43.89385,
+    "lng": -93.49383
+  },
+  {
+    "name": "New Ulm",
+    "country": "US",
+    "lat": 44.31246,
+    "lng": -94.46053
+  },
+  {
+    "name": "New York Mills",
+    "country": "US",
+    "lat": 46.51802,
+    "lng": -95.37615
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 44.86636,
+    "lng": -93.00049
+  },
+  {
+    "name": "New Rockford",
+    "country": "US",
+    "lat": 47.68,
+    "lng": -99.1379
+  },
+  {
+    "name": "Nebraska City",
+    "country": "US",
+    "lat": 40.67667,
+    "lng": -95.85917
+  },
+  {
+    "name": "Neligh",
+    "country": "US",
+    "lat": 42.12862,
+    "lng": -98.02979
+  },
+  {
+    "name": "Nelson",
+    "country": "US",
+    "lat": 40.20168,
+    "lng": -98.06782
+  },
+  {
+    "name": "New Boston",
+    "country": "US",
+    "lat": 42.97619,
+    "lng": -71.69396
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 43.07229,
+    "lng": -70.71718
+  },
+  {
+    "name": "New Durham",
+    "country": "US",
+    "lat": 43.43675,
+    "lng": -71.17229
+  },
+  {
+    "name": "New Ipswich",
+    "country": "US",
+    "lat": 42.74814,
+    "lng": -71.85424
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 43.41396,
+    "lng": -71.98508
+  },
+  {
+    "name": "Newbury",
+    "country": "US",
+    "lat": 43.32146,
+    "lng": -72.03592
+  },
+  {
+    "name": "Newmarket",
+    "country": "US",
+    "lat": 43.08286,
+    "lng": -70.93506
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 43.36535,
+    "lng": -72.17342
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 42.86953,
+    "lng": -71.0345
+  },
+  {
+    "name": "Neptune City",
+    "country": "US",
+    "lat": 40.20011,
+    "lng": -74.02792
+  },
+  {
+    "name": "Netcong",
+    "country": "US",
+    "lat": 40.89899,
+    "lng": -74.70655
+  },
+  {
+    "name": "New Brunswick",
+    "country": "US",
+    "lat": 40.48622,
+    "lng": -74.45182
+  },
+  {
+    "name": "New Egypt",
+    "country": "US",
+    "lat": 40.06761,
+    "lng": -74.53071
+  },
+  {
+    "name": "New Milford",
+    "country": "US",
+    "lat": 40.9351,
+    "lng": -74.01903
+  },
+  {
+    "name": "New Providence",
+    "country": "US",
+    "lat": 40.69843,
+    "lng": -74.40154
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 40.73566,
+    "lng": -74.17237
+  },
+  {
+    "name": "Newton",
+    "country": "US",
+    "lat": 41.05815,
+    "lng": -74.75267
+  },
+  {
+    "name": "New Hempstead",
+    "country": "US",
+    "lat": 41.14982,
+    "lng": -74.03375
+  },
+  {
+    "name": "Nedrow",
+    "country": "US",
+    "lat": 42.97507,
+    "lng": -76.14131
+  },
+  {
+    "name": "Neponsit",
+    "country": "US",
+    "lat": 40.57177,
+    "lng": -73.86152
+  },
+  {
+    "name": "Nesconset",
+    "country": "US",
+    "lat": 40.85204,
+    "lng": -73.154
+  },
+  {
+    "name": "New Cassel",
+    "country": "US",
+    "lat": 40.75899,
+    "lng": -73.56957
+  },
+  {
+    "name": "New City",
+    "country": "US",
+    "lat": 41.1476,
+    "lng": -73.98931
+  },
+  {
+    "name": "New Dorp",
+    "country": "US",
+    "lat": 40.57399,
+    "lng": -74.11598
+  },
+  {
+    "name": "New Dorp Beach",
+    "country": "US",
+    "lat": 40.56538,
+    "lng": -74.10292
+  },
+  {
+    "name": "New Hartford",
+    "country": "US",
+    "lat": 43.0734,
+    "lng": -75.28767
+  },
+  {
+    "name": "New Hyde Park",
+    "country": "US",
+    "lat": 40.7351,
+    "lng": -73.68791
+  },
+  {
+    "name": "New Brighton",
+    "country": "US",
+    "lat": 40.64233,
+    "lng": -74.09292
+  },
+  {
+    "name": "New Paltz",
+    "country": "US",
+    "lat": 41.74759,
+    "lng": -74.08681
+  },
+  {
+    "name": "New Rochelle",
+    "country": "US",
+    "lat": 40.91149,
+    "lng": -73.78235
+  },
+  {
+    "name": "New Springville",
+    "country": "US",
+    "lat": 40.59344,
+    "lng": -74.1632
+  },
+  {
+    "name": "New Square",
+    "country": "US",
+    "lat": 41.13956,
+    "lng": -74.02942
+  },
+  {
+    "name": "New Windsor",
+    "country": "US",
+    "lat": 41.47676,
+    "lng": -74.02375
+  },
+  {
+    "name": "New York City",
+    "country": "US",
+    "lat": 40.71427,
+    "lng": -74.00597
+  },
+  {
+    "name": "New York Mills",
+    "country": "US",
+    "lat": 43.10535,
+    "lng": -75.29128
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 43.04673,
+    "lng": -77.09525
+  },
+  {
+    "name": "Newburgh",
+    "country": "US",
+    "lat": 41.50343,
+    "lng": -74.01042
+  },
+  {
+    "name": "Newfane",
+    "country": "US",
+    "lat": 43.28672,
+    "lng": -78.71031
+  },
+  {
+    "name": "New Albany",
+    "country": "US",
+    "lat": 40.08117,
+    "lng": -82.80879
+  },
+  {
+    "name": "New Bremen",
+    "country": "US",
+    "lat": 40.43699,
+    "lng": -84.37967
+  },
+  {
+    "name": "New California",
+    "country": "US",
+    "lat": 40.15617,
+    "lng": -83.23658
+  },
+  {
+    "name": "New Franklin",
+    "country": "US",
+    "lat": 40.94172,
+    "lng": -81.54151
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 41.08505,
+    "lng": -82.39989
+  },
+  {
+    "name": "New Middletown",
+    "country": "US",
+    "lat": 40.96117,
+    "lng": -80.55757
+  },
+  {
+    "name": "New Philadelphia",
+    "country": "US",
+    "lat": 40.48979,
+    "lng": -81.44567
+  },
+  {
+    "name": "New Waterford",
+    "country": "US",
+    "lat": 40.84506,
+    "lng": -80.61452
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 40.05812,
+    "lng": -82.40126
+  },
+  {
+    "name": "Newburgh Heights",
+    "country": "US",
+    "lat": 41.45005,
+    "lng": -81.66346
+  },
+  {
+    "name": "Newcomerstown",
+    "country": "US",
+    "lat": 40.27229,
+    "lng": -81.60595
+  },
+  {
+    "name": "Newton Falls",
+    "country": "US",
+    "lat": 41.18839,
+    "lng": -80.97815
+  },
+  {
+    "name": "Nescopeck",
+    "country": "US",
+    "lat": 41.05203,
+    "lng": -76.22077
+  },
+  {
+    "name": "Nesquehoning",
+    "country": "US",
+    "lat": 40.86453,
+    "lng": -75.81103
+  },
+  {
+    "name": "New Beaver",
+    "country": "US",
+    "lat": 40.87645,
+    "lng": -80.37062
+  },
+  {
+    "name": "New Berlinville",
+    "country": "US",
+    "lat": 40.34537,
+    "lng": -75.63296
+  },
+  {
+    "name": "New Bloomfield",
+    "country": "US",
+    "lat": 40.41981,
+    "lng": -77.18637
+  },
+  {
+    "name": "New Brighton",
+    "country": "US",
+    "lat": 40.73034,
+    "lng": -80.31006
+  },
+  {
+    "name": "New Britain",
+    "country": "US",
+    "lat": 40.299,
+    "lng": -75.18101
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 41.00367,
+    "lng": -80.34701
+  },
+  {
+    "name": "New Columbia",
+    "country": "US",
+    "lat": 41.04092,
+    "lng": -76.86691
+  },
+  {
+    "name": "New Eagle",
+    "country": "US",
+    "lat": 40.20785,
+    "lng": -79.94699
+  },
+  {
+    "name": "New Cumberland",
+    "country": "US",
+    "lat": 40.23231,
+    "lng": -76.8847
+  },
+  {
+    "name": "New Hope",
+    "country": "US",
+    "lat": 40.36427,
+    "lng": -74.95128
+  },
+  {
+    "name": "New Kensington",
+    "country": "US",
+    "lat": 40.56979,
+    "lng": -79.76477
+  },
+  {
+    "name": "New Holland",
+    "country": "US",
+    "lat": 40.10176,
+    "lng": -76.08523
+  },
+  {
+    "name": "New Philadelphia",
+    "country": "US",
+    "lat": 40.71953,
+    "lng": -76.11577
+  },
+  {
+    "name": "New Stanton",
+    "country": "US",
+    "lat": 40.21924,
+    "lng": -79.60948
+  },
+  {
+    "name": "New Wilmington",
+    "country": "US",
+    "lat": 41.12228,
+    "lng": -80.33284
+  },
+  {
+    "name": "Newmanstown",
+    "country": "US",
+    "lat": 40.34954,
+    "lng": -76.21328
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 40.47786,
+    "lng": -77.13054
+  },
+  {
+    "name": "Newtown",
+    "country": "US",
+    "lat": 40.22928,
+    "lng": -74.93683
+  },
+  {
+    "name": "Newtown Grant",
+    "country": "US",
+    "lat": 40.26011,
+    "lng": -74.95489
+  },
+  {
+    "name": "Newville",
+    "country": "US",
+    "lat": 40.17314,
+    "lng": -77.3986
+  },
+  {
+    "name": "New Shoreham",
+    "country": "US",
+    "lat": 41.17233,
+    "lng": -71.55783
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 41.4901,
+    "lng": -71.31283
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 44.93644,
+    "lng": -72.2051
+  },
+  {
+    "name": "Newfane",
+    "country": "US",
+    "lat": 42.98564,
+    "lng": -72.65593
+  },
+  {
+    "name": "Neenah",
+    "country": "US",
+    "lat": 44.18582,
+    "lng": -88.46261
+  },
+  {
+    "name": "Neillsville",
+    "country": "US",
+    "lat": 44.55996,
+    "lng": -90.59625
+  },
+  {
+    "name": "Nekoosa",
+    "country": "US",
+    "lat": 44.31246,
+    "lng": -89.90429
+  },
+  {
+    "name": "New Berlin",
+    "country": "US",
+    "lat": 42.9764,
+    "lng": -88.10842
+  },
+  {
+    "name": "New Glarus",
+    "country": "US",
+    "lat": 42.81445,
+    "lng": -89.63512
+  },
+  {
+    "name": "New Holstein",
+    "country": "US",
+    "lat": 43.94999,
+    "lng": -88.08426
+  },
+  {
+    "name": "New Lisbon",
+    "country": "US",
+    "lat": 43.87914,
+    "lng": -90.16541
+  },
+  {
+    "name": "New London",
+    "country": "US",
+    "lat": 44.39276,
+    "lng": -88.73983
+  },
+  {
+    "name": "New Richmond",
+    "country": "US",
+    "lat": 45.12302,
+    "lng": -92.53659
+  },
+  {
+    "name": "Newburg",
+    "country": "US",
+    "lat": 43.43167,
+    "lng": -88.04648
+  },
+  {
+    "name": "New Cumberland",
+    "country": "US",
+    "lat": 40.49673,
+    "lng": -80.60674
+  },
+  {
+    "name": "Newell",
+    "country": "US",
+    "lat": 40.6184,
+    "lng": -80.60424
+  },
+  {
+    "name": "Newtown",
+    "country": "US",
+    "lat": 41.41398,
+    "lng": -73.30345
+  },
+  {
+    "name": "New River",
+    "country": "US",
+    "lat": 33.91587,
+    "lng": -112.13599
+  },
+  {
+    "name": "Needles",
+    "country": "US",
+    "lat": 34.84806,
+    "lng": -114.61413
+  },
+  {
+    "name": "Nevada City",
+    "country": "US",
+    "lat": 39.26173,
+    "lng": -121.01779
+  },
+  {
+    "name": "Newark",
+    "country": "US",
+    "lat": 37.52966,
+    "lng": -122.04024
+  },
+  {
+    "name": "Newcastle",
+    "country": "US",
+    "lat": 38.87407,
+    "lng": -121.13328
+  },
+  {
+    "name": "Newman",
+    "country": "US",
+    "lat": 37.31383,
+    "lng": -121.02076
+  },
+  {
+    "name": "Newport Beach",
+    "country": "US",
+    "lat": 33.61891,
+    "lng": -117.92895
+  },
+  {
+    "name": "Nederland",
+    "country": "US",
+    "lat": 39.96138,
+    "lng": -105.51083
+  },
+  {
+    "name": "New Castle",
+    "country": "US",
+    "lat": 39.57276,
+    "lng": -107.53644
+  },
+  {
+    "name": "Nephi",
+    "country": "US",
+    "lat": 39.71023,
+    "lng": -111.83632
+  },
+  {
+    "name": "New Plymouth",
+    "country": "US",
+    "lat": 43.96989,
+    "lng": -116.81904
+  },
+  {
+    "name": "Nezperce",
+    "country": "US",
+    "lat": 46.23489,
+    "lng": -116.2407
+  },
+  {
+    "name": "New Town",
+    "country": "US",
+    "lat": 47.98085,
+    "lng": -102.49018
+  },
+  {
+    "name": "New Hope",
+    "country": "US",
+    "lat": 42.36234,
+    "lng": -123.36784
+  },
+  {
+    "name": "Newberg",
+    "country": "US",
+    "lat": 45.30012,
+    "lng": -122.97316
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 44.63678,
+    "lng": -124.05345
+  },
+  {
+    "name": "Newcastle",
+    "country": "US",
+    "lat": 47.53899,
+    "lng": -122.15568
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 47.57121,
+    "lng": -122.18068
+  },
+  {
+    "name": "Newport",
+    "country": "US",
+    "lat": 48.17963,
+    "lng": -117.04326
+  },
+  {
+    "name": "Newcastle",
+    "country": "US",
+    "lat": 43.8547,
+    "lng": -104.20494
+  },
+  {
+    "name": "New Fairview",
+    "country": "US",
+    "lat": 33.09917,
+    "lng": -97.44639
+  },
+  {
+    "name": "New Hartford Center",
+    "country": "US",
+    "lat": 41.87996,
+    "lng": -72.9753
+  },
+  {
+    "name": "Newport East",
+    "country": "US",
+    "lat": 41.51579,
+    "lng": -71.28752
+  },
+  {
+    "name": "New Castle Northwest",
+    "country": "US",
+    "lat": 41.02208,
+    "lng": -80.35682
+  },
+  {
+    "name": "New Port Richey East",
+    "country": "US",
+    "lat": 28.26027,
+    "lng": -82.69261
+  },
+  {
+    "name": "Nellis Air Force Base",
+    "country": "US",
+    "lat": 36.24607,
+    "lng": -115.05721
+  },
+  {
+    "name": "New Kingman-Butler",
+    "country": "US",
+    "lat": 35.26504,
+    "lng": -114.03226
+  },
+  {
+    "name": "New Century",
+    "country": "US",
+    "lat": 38.82253,
+    "lng": -94.89971
+  },
+  {
+    "name": "New Southwest/Mount Clare",
+    "country": "US",
+    "lat": 39.28303,
+    "lng": -76.64173
+  },
+  {
+    "name": "New Northwood",
+    "country": "US",
+    "lat": 39.34883,
+    "lng": -76.59496
+  },
+  {
+    "name": "Newtown",
+    "country": "US",
+    "lat": 21.39972,
+    "lng": -157.93789
+  },
+  {
+    "name": "New Montrose",
+    "country": "VC",
+    "lat": 13.16344,
+    "lng": -61.23144
+  },
+  {
+    "name": "Neo",
+    "country": "VN",
+    "lat": 21.20048,
+    "lng": 106.24739
+  },
+  {
+    "name": "New Hanover",
+    "country": "ZA",
+    "lat": -29.35519,
+    "lng": 30.52801
+  },
+  {
+    "name": "New Forest A",
+    "country": "ZA",
+    "lat": -24.74512,
+    "lng": 31.11911
+  },
+  {
+    "name": "Newcastle",
+    "country": "ZA",
+    "lat": -27.75796,
+    "lng": 29.9318
+  },
+  {
+    "name": "Nelspoort",
+    "country": "ZA",
+    "lat": -32.093,
+    "lng": 23.007
+  },
+  {
+    "name": "Newlands",
+    "country": "ZA",
+    "lat": -33.97846,
+    "lng": 18.4481
+  },
+  {
+    "name": "New Forest B",
+    "country": "ZA",
+    "lat": -24.72473,
+    "lng": 31.15417
+  },
+  {
+    "name": "New Line",
+    "country": "ZA",
+    "lat": -24.63881,
+    "lng": 31.00509
+  }
+]

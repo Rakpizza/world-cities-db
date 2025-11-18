@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Mkhchyan",
+    "country": "AM",
+    "lat": 40.02228,
+    "lng": 44.4917
+  },
+  {
+    "name": "Mkpat Enin",
+    "country": "NG",
+    "lat": 4.73478,
+    "lng": 7.74897
+  },
+  {
+    "name": "Mkuranga",
+    "country": "TZ",
+    "lat": -7.11799,
+    "lng": 39.20782
+  },
+  {
+    "name": "Mkokotoni",
+    "country": "TZ",
+    "lat": -5.87506,
+    "lng": 39.25523
+  },
+  {
+    "name": "Mkoani",
+    "country": "TZ",
+    "lat": -5.36667,
+    "lng": 39.65
+  },
+  {
+    "name": "Mkuze",
+    "country": "ZA",
+    "lat": -27.61641,
+    "lng": 32.03861
+  },
+  {
+    "name": "Mkhuhlu",
+    "country": "ZA",
+    "lat": -24.98776,
+    "lng": 31.2385
+  },
+  {
+    "name": "Mkukwini",
+    "country": "ZA",
+    "lat": -31.97144,
+    "lng": 27.43361
+  },
+  {
+    "name": "Mkushi",
+    "country": "ZM",
+    "lat": -13.62015,
+    "lng": 29.3939
+  }
+]

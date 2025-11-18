@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Oeynhausen",
+    "country": "AT",
+    "lat": 47.98533,
+    "lng": 16.29187
+  },
+  {
+    "name": "Oetz",
+    "country": "AT",
+    "lat": 47.2,
+    "lng": 10.9
+  },
+  {
+    "name": "Oepping",
+    "country": "AT",
+    "lat": 48.60284,
+    "lng": 13.94586
+  },
+  {
+    "name": "Oehling",
+    "country": "AT",
+    "lat": 48.1,
+    "lng": 14.8
+  },
+  {
+    "name": "Oedt",
+    "country": "AT",
+    "lat": 48.21335,
+    "lng": 14.21013
+  },
+  {
+    "name": "Oevel",
+    "country": "BE",
+    "lat": 51.13789,
+    "lng": 4.90471
+  },
+  {
+    "name": "Oetingen",
+    "country": "BE",
+    "lat": 50.77318,
+    "lng": 4.0635
+  },
+  {
+    "name": "Oeselgem",
+    "country": "BE",
+    "lat": 50.93789,
+    "lng": 3.43185
+  },
+  {
+    "name": "Oelegem",
+    "country": "BE",
+    "lat": 51.2131,
+    "lng": 4.59832
+  },
+  {
+    "name": "Oekene",
+    "country": "BE",
+    "lat": 50.91794,
+    "lng": 3.15676
+  },
+  {
+    "name": "Oedelem",
+    "country": "BE",
+    "lat": 51.17033,
+    "lng": 3.33762
+  },
+  {
+    "name": "Oeiras do Pará",
+    "country": "BR",
+    "lat": -2.00306,
+    "lng": -49.85444
+  },
+  {
+    "name": "Oeiras",
+    "country": "BR",
+    "lat": -7.02528,
+    "lng": -42.13111
+  },
+  {
+    "name": "Oetwil",
+    "country": "CH",
+    "lat": 47.27049,
+    "lng": 8.72023
+  },
+  {
+    "name": "Oensingen",
+    "country": "CH",
+    "lat": 47.28764,
+    "lng": 7.71612
+  },
+  {
+    "name": "Oeversee",
+    "country": "DE",
+    "lat": 54.7,
+    "lng": 9.43333
+  },
+  {
+    "name": "Oerlenbach",
+    "country": "DE",
+    "lat": 50.15,
+    "lng": 10.13333
+  },
+  {
+    "name": "Oerel",
+    "country": "DE",
+    "lat": 53.48261,
+    "lng": 9.06142
+  },
+  {
+    "name": "Oelixdorf",
+    "country": "DE",
+    "lat": 53.92738,
+    "lng": 9.56383
+  },
+  {
+    "name": "Oettingen in Bayern",
+    "country": "DE",
+    "lat": 48.95274,
+    "lng": 10.60465
+  },
+  {
+    "name": "Oerlinghausen",
+    "country": "DE",
+    "lat": 51.95453,
+    "lng": 8.6622
+  },
+  {
+    "name": "Oer-Erkenschwick",
+    "country": "DE",
+    "lat": 51.64198,
+    "lng": 7.26451
+  },
+  {
+    "name": "Oelsnitz",
+    "country": "DE",
+    "lat": 50.72584,
+    "lng": 12.701
+  },
+  {
+    "name": "Oelsnitz",
+    "country": "DE",
+    "lat": 50.4147,
+    "lng": 12.1695
+  },
+  {
+    "name": "Oelde",
+    "country": "DE",
+    "lat": 51.8289,
+    "lng": 8.14724
+  },
+  {
+    "name": "Oedheim",
+    "country": "DE",
+    "lat": 49.24028,
+    "lng": 9.25333
+  },
+  {
+    "name": "Oederan",
+    "country": "DE",
+    "lat": 50.86064,
+    "lng": 13.17164
+  },
+  {
+    "name": "Oebisfelde",
+    "country": "DE",
+    "lat": 52.43421,
+    "lng": 10.98786
+  },
+  {
+    "name": "Oederquart",
+    "country": "DE",
+    "lat": 53.80267,
+    "lng": 9.2368
+  },
+  {
+    "name": "Oencia",
+    "country": "ES",
+    "lat": 42.54758,
+    "lng": -6.96859
+  },
+  {
+    "name": "Oeyreluy",
+    "country": "FR",
+    "lat": 43.67159,
+    "lng": -1.08042
+  },
+  {
+    "name": "Oermingen",
+    "country": "FR",
+    "lat": 49.00043,
+    "lng": 7.129
+  },
+  {
+    "name": "Oelamasi",
+    "country": "ID",
+    "lat": -10.0642,
+    "lng": 123.8787
+  },
+  {
+    "name": "Oekabiti",
+    "country": "ID",
+    "lat": -10.2152,
+    "lng": 123.8253
+  },
+  {
+    "name": "Oebobo",
+    "country": "ID",
+    "lat": -10.1678,
+    "lng": 123.5992
+  },
+  {
+    "name": "Oekamusa",
+    "country": "ID",
+    "lat": -9.8747,
+    "lng": 124.3064
+  },
+  {
+    "name": "Oeekam",
+    "country": "ID",
+    "lat": -9.7087,
+    "lng": 124.5886
+  },
+  {
+    "name": "Oeseo",
+    "country": "KR",
+    "lat": 34.9142,
+    "lng": 127.27727
+  },
+  {
+    "name": "Oerle",
+    "country": "NL",
+    "lat": 51.42255,
+    "lng": 5.37163
+  },
+  {
+    "name": "Oentsjerk",
+    "country": "NL",
+    "lat": 53.25,
+    "lng": 5.9
+  },
+  {
+    "name": "Oegstgeest",
+    "country": "NL",
+    "lat": 52.18,
+    "lng": 4.46944
+  },
+  {
+    "name": "Oeiras",
+    "country": "PT",
+    "lat": 38.69105,
+    "lng": -9.31085
+  },
+  {
+    "name": "Oeștii Pământeni",
+    "country": "RO",
+    "lat": 45.25241,
+    "lng": 24.65658
+  },
+  {
+    "name": "Oelwein",
+    "country": "US",
+    "lat": 42.67332,
+    "lng": -91.9135
+  }
+]

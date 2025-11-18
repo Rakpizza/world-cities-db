@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Oggau",
+    "country": "AT",
+    "lat": 47.83333,
+    "lng": 16.66667
+  },
+  {
+    "name": "Oguédoumé",
+    "country": "CI",
+    "lat": 5.37753,
+    "lng": -3.77504
+  },
+  {
+    "name": "Ogoudou",
+    "country": "CI",
+    "lat": 5.89674,
+    "lng": -5.15792
+  },
+  {
+    "name": "Oghlwapo",
+    "country": "CI",
+    "lat": 5.40253,
+    "lng": -3.74355
+  },
+  {
+    "name": "Ogari",
+    "country": "CI",
+    "lat": 9.5368,
+    "lng": -5.92474
+  },
+  {
+    "name": "Ogíjares",
+    "country": "ES",
+    "lat": 37.11913,
+    "lng": -3.60772
+  },
+  {
+    "name": "Ognes",
+    "country": "FR",
+    "lat": 49.61244,
+    "lng": 3.1934
+  },
+  {
+    "name": "Ogeu-les-Bains",
+    "country": "FR",
+    "lat": 43.14724,
+    "lng": -0.50458
+  },
+  {
+    "name": "Ogmore Vale",
+    "country": "GB",
+    "lat": 51.6023,
+    "lng": -3.54217
+  },
+  {
+    "name": "Ogulin",
+    "country": "HR",
+    "lat": 45.26611,
+    "lng": 15.22861
+  },
+  {
+    "name": "Ogotua",
+    "country": "ID",
+    "lat": 0.95928,
+    "lng": 120.26367
+  },
+  {
+    "name": "Oganlima",
+    "country": "ID",
+    "lat": -4.86736,
+    "lng": 104.70308
+  },
+  {
+    "name": "Ogliastro Cilento",
+    "country": "IT",
+    "lat": 40.35113,
+    "lng": 15.04638
+  },
+  {
+    "name": "Oglianico",
+    "country": "IT",
+    "lat": 45.34154,
+    "lng": 7.69196
+  },
+  {
+    "name": "Oggiono",
+    "country": "IT",
+    "lat": 45.79133,
+    "lng": 9.34815
+  },
+  {
+    "name": "Oggiona con Santo Stefano",
+    "country": "IT",
+    "lat": 45.70427,
+    "lng": 8.81653
+  },
+  {
+    "name": "Oggebbio",
+    "country": "IT",
+    "lat": 45.99088,
+    "lng": 8.64663
+  },
+  {
+    "name": "Ogunimachi",
+    "country": "JP",
+    "lat": 38.06153,
+    "lng": 139.74809
+  },
+  {
+    "name": "Ogose",
+    "country": "JP",
+    "lat": 35.95889,
+    "lng": 139.29
+  },
+  {
+    "name": "Ogōri-shimogō",
+    "country": "JP",
+    "lat": 34.1,
+    "lng": 131.4
+  },
+  {
+    "name": "Ogikubo",
+    "country": "JP",
+    "lat": 35.69822,
+    "lng": 139.62372
+  },
+  {
+    "name": "Ogawamachi",
+    "country": "JP",
+    "lat": 36.05342,
+    "lng": 139.26612
+  },
+  {
+    "name": "Ogawa",
+    "country": "JP",
+    "lat": 34.96667,
+    "lng": 136.96667
+  },
+  {
+    "name": "Ogano",
+    "country": "JP",
+    "lat": 36.02191,
+    "lng": 139.00301
+  },
+  {
+    "name": "Ogawa",
+    "country": "JP",
+    "lat": 36.75,
+    "lng": 140.13333
+  },
+  {
+    "name": "Oga",
+    "country": "JP",
+    "lat": 39.871,
+    "lng": 139.84926
+  },
+  {
+    "name": "Ogura",
+    "country": "JP",
+    "lat": 36.4569,
+    "lng": 138.99513
+  },
+  {
+    "name": "Ogawa",
+    "country": "JP",
+    "lat": 34.40498,
+    "lng": 135.9702
+  },
+  {
+    "name": "Ogōri",
+    "country": "JP",
+    "lat": 33.38738,
+    "lng": 130.54865
+  },
+  {
+    "name": "Ogi",
+    "country": "JP",
+    "lat": 33.28028,
+    "lng": 130.19503
+  },
+  {
+    "name": "Ogasawara",
+    "country": "JP",
+    "lat": 27.09688,
+    "lng": 142.20377
+  },
+  {
+    "name": "Ogunja",
+    "country": "KE",
+    "lat": 0.19019,
+    "lng": 34.29916
+  },
+  {
+    "name": "Ogembo",
+    "country": "KE",
+    "lat": -0.80116,
+    "lng": 34.72579
+  },
+  {
+    "name": "Ognyovka",
+    "country": "KZ",
+    "lat": 49.68368,
+    "lng": 83.01687
+  },
+  {
+    "name": "Ogre",
+    "country": "LV",
+    "lat": 56.8162,
+    "lng": 24.61401
+  },
+  {
+    "name": "Ognjaci",
+    "country": "MK",
+    "lat": 41.92167,
+    "lng": 21.58306
+  },
+  {
+    "name": "Ogwashi-Uku",
+    "country": "NG",
+    "lat": 6.17811,
+    "lng": 6.52461
+  },
+  {
+    "name": "Oguta",
+    "country": "NG",
+    "lat": 5.71044,
+    "lng": 6.80936
+  },
+  {
+    "name": "Ogurugu",
+    "country": "NG",
+    "lat": 6.78636,
+    "lng": 6.95017
+  },
+  {
+    "name": "Oguma",
+    "country": "NG",
+    "lat": 7.89635,
+    "lng": 7.06229
+  },
+  {
+    "name": "Ogu",
+    "country": "NG",
+    "lat": 4.72247,
+    "lng": 7.19859
+  },
+  {
+    "name": "Ogoja",
+    "country": "NG",
+    "lat": 6.6584,
+    "lng": 8.79923
+  },
+  {
+    "name": "Ogidi",
+    "country": "NG",
+    "lat": 6.15209,
+    "lng": 6.86343
+  },
+  {
+    "name": "Ogbomoso",
+    "country": "NG",
+    "lat": 8.13373,
+    "lng": 4.24014
+  },
+  {
+    "name": "Ogbere",
+    "country": "NG",
+    "lat": 6.73948,
+    "lng": 4.16102
+  },
+  {
+    "name": "Ogbede",
+    "country": "NG",
+    "lat": 6.67295,
+    "lng": 7.37441
+  },
+  {
+    "name": "Ogaminana",
+    "country": "NG",
+    "lat": 7.59383,
+    "lng": 6.21798
+  },
+  {
+    "name": "Oghara",
+    "country": "NG",
+    "lat": 5.93554,
+    "lng": 5.6661
+  },
+  {
+    "name": "Ogbia",
+    "country": "NG",
+    "lat": 4.68836,
+    "lng": 6.31525
+  },
+  {
+    "name": "Ogtongon",
+    "country": "PH",
+    "lat": 10.77334,
+    "lng": 123.52
+  },
+  {
+    "name": "Ogod",
+    "country": "PH",
+    "lat": 12.9009,
+    "lng": 123.617
+  },
+  {
+    "name": "Ogrodzieniec",
+    "country": "PL",
+    "lat": 50.45177,
+    "lng": 19.51987
+  },
+  {
+    "name": "Ogrezeni",
+    "country": "RO",
+    "lat": 44.41972,
+    "lng": 25.76833
+  },
+  {
+    "name": "Ogretin",
+    "country": "RO",
+    "lat": 45.26483,
+    "lng": 26.09169
+  },
+  {
+    "name": "Ograda",
+    "country": "RO",
+    "lat": 44.61457,
+    "lng": 27.57047
+  },
+  {
+    "name": "Ogra",
+    "country": "RO",
+    "lat": 46.43333,
+    "lng": 24.31667
+  },
+  {
+    "name": "Oglinzi",
+    "country": "RO",
+    "lat": 47.25055,
+    "lng": 26.35026
+  },
+  {
+    "name": "Ogurlu",
+    "country": "TR",
+    "lat": 41.10393,
+    "lng": 35.1747
+  },
+  {
+    "name": "Oglethorpe",
+    "country": "US",
+    "lat": 32.29377,
+    "lng": -84.06102
+  },
+  {
+    "name": "Ogden",
+    "country": "US",
+    "lat": 39.11111,
+    "lng": -96.70612
+  },
+  {
+    "name": "Ogden",
+    "country": "US",
+    "lat": 34.27239,
+    "lng": -77.81859
+  },
+  {
+    "name": "Ogden",
+    "country": "US",
+    "lat": 42.03915,
+    "lng": -94.02773
+  },
+  {
+    "name": "Oglesby",
+    "country": "US",
+    "lat": 41.29531,
+    "lng": -89.05953
+  },
+  {
+    "name": "Ogden Dunes",
+    "country": "US",
+    "lat": 41.62281,
+    "lng": -87.1917
+  },
+  {
+    "name": "Ogunquit",
+    "country": "US",
+    "lat": 43.24898,
+    "lng": -70.59922
+  },
+  {
+    "name": "Ogdensburg",
+    "country": "US",
+    "lat": 41.08176,
+    "lng": -74.59238
+  },
+  {
+    "name": "Ogdensburg",
+    "country": "US",
+    "lat": 44.69423,
+    "lng": -75.48634
+  },
+  {
+    "name": "Ogontz",
+    "country": "US",
+    "lat": 40.05178,
+    "lng": -75.15129
+  },
+  {
+    "name": "Ogallala",
+    "country": "US",
+    "lat": 41.12805,
+    "lng": -101.71962
+  },
+  {
+    "name": "Oglala",
+    "country": "US",
+    "lat": 43.18859,
+    "lng": -102.73962
+  },
+  {
+    "name": "Ogden",
+    "country": "US",
+    "lat": 41.223,
+    "lng": -111.97383
+  },
+  {
+    "name": "Ogies",
+    "country": "ZA",
+    "lat": -26.04877,
+    "lng": 29.06391
+  }
+]

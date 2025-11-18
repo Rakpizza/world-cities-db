@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Mhow",
+    "country": "IN",
+    "lat": 22.5589,
+    "lng": 75.76543
+  },
+  {
+    "name": "Mhaswad",
+    "country": "IN",
+    "lat": 17.63359,
+    "lng": 74.78773
+  },
+  {
+    "name": "Mhasla",
+    "country": "IN",
+    "lat": 18.1334,
+    "lng": 73.11162
+  },
+  {
+    "name": "Mhāsāl",
+    "country": "IN",
+    "lat": 20.75044,
+    "lng": 78.63634
+  },
+  {
+    "name": "Mharal Bk",
+    "country": "IN",
+    "lat": 19.24588,
+    "lng": 73.1771
+  },
+  {
+    "name": "Mhamid",
+    "country": "MA",
+    "lat": 29.82,
+    "lng": -5.72
+  },
+  {
+    "name": "Mhlume",
+    "country": "SZ",
+    "lat": -26.02607,
+    "lng": 31.81423
+  },
+  {
+    "name": "Mhlambanyatsi",
+    "country": "SZ",
+    "lat": -26.45174,
+    "lng": 31.05248
+  },
+  {
+    "name": "Mhango",
+    "country": "TZ",
+    "lat": -3.28333,
+    "lng": 32.85
+  },
+  {
+    "name": "Mhalamba",
+    "country": "TZ",
+    "lat": -2.5812,
+    "lng": 32.00991
+  },
+  {
+    "name": "Mhlambanyatsi",
+    "country": "ZA",
+    "lat": -25.66205,
+    "lng": 31.5159
+  },
+  {
+    "name": "Mhangura",
+    "country": "ZW",
+    "lat": -16.89387,
+    "lng": 30.16828
+  },
+  {
+    "name": "Mhangura Mine",
+    "country": "ZW",
+    "lat": -16.89196,
+    "lng": 30.15902
+  }
+]

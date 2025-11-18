@@ -1,0 +1,776 @@
+[
+  {
+    "name": "Ngraçan",
+    "country": "AL",
+    "lat": 40.64444,
+    "lng": 19.7925
+  },
+  {
+    "name": "Ngukurr",
+    "country": "AU",
+    "lat": -14.73081,
+    "lng": 134.73102
+  },
+  {
+    "name": "Ngunnawal",
+    "country": "AU",
+    "lat": -35.1728,
+    "lng": 149.11147
+  },
+  {
+    "name": "Ngozi",
+    "country": "BI",
+    "lat": -2.9075,
+    "lng": 29.8306
+  },
+  {
+    "name": "Ngo",
+    "country": "CG",
+    "lat": -2.48722,
+    "lng": 15.75556
+  },
+  {
+    "name": "Ngabé",
+    "country": "CG",
+    "lat": -3.21472,
+    "lng": 16.17361
+  },
+  {
+    "name": "Ngandana",
+    "country": "CI",
+    "lat": 10.23891,
+    "lng": -5.93987
+  },
+  {
+    "name": "Nguinou",
+    "country": "CI",
+    "lat": 6.75052,
+    "lng": -4.16133
+  },
+  {
+    "name": "Nguessankro",
+    "country": "CI",
+    "lat": 7.12148,
+    "lng": -3.34329
+  },
+  {
+    "name": "Nguessankro",
+    "country": "CI",
+    "lat": 6.63468,
+    "lng": -4.30349
+  },
+  {
+    "name": "Nguessankankro",
+    "country": "CI",
+    "lat": 7.9567,
+    "lng": -5.31306
+  },
+  {
+    "name": "Nguessan-Brindoukrou",
+    "country": "CI",
+    "lat": 7.10565,
+    "lng": -3.07603
+  },
+  {
+    "name": "Nguéssambakro",
+    "country": "CI",
+    "lat": 6.51382,
+    "lng": -5.20176
+  },
+  {
+    "name": "Ngorla",
+    "country": "CI",
+    "lat": 8.3984,
+    "lng": -4.50826
+  },
+  {
+    "name": "Ngolodougou",
+    "country": "CI",
+    "lat": 9.13329,
+    "lng": -5.15986
+  },
+  {
+    "name": "Ngoloblasso",
+    "country": "CI",
+    "lat": 9.68488,
+    "lng": -7.22373
+  },
+  {
+    "name": "Ngolato",
+    "country": "CI",
+    "lat": 7.55044,
+    "lng": -3.23091
+  },
+  {
+    "name": "Ngokro",
+    "country": "CI",
+    "lat": 7.2679,
+    "lng": -5.02788
+  },
+  {
+    "name": "Ngohinou",
+    "country": "CI",
+    "lat": 6.54293,
+    "lng": -4.50755
+  },
+  {
+    "name": "Ngisidougou",
+    "country": "CI",
+    "lat": 8.71689,
+    "lng": -6.14795
+  },
+  {
+    "name": "Ngatty",
+    "country": "CI",
+    "lat": 5.29375,
+    "lng": -4.34273
+  },
+  {
+    "name": "Ngatakro",
+    "country": "CI",
+    "lat": 6.87712,
+    "lng": -5.33066
+  },
+  {
+    "name": "Ngata Sakassou",
+    "country": "CI",
+    "lat": 7.82411,
+    "lng": -5.06684
+  },
+  {
+    "name": "Ngatakro",
+    "country": "CI",
+    "lat": 7.06378,
+    "lng": -3.75868
+  },
+  {
+    "name": "Ngata Dorikro",
+    "country": "CI",
+    "lat": 7.28812,
+    "lng": -5.15208
+  },
+  {
+    "name": "Ngassokro",
+    "country": "CI",
+    "lat": 6.83648,
+    "lng": -4.48464
+  },
+  {
+    "name": "Nganon",
+    "country": "CI",
+    "lat": 9.68176,
+    "lng": -5.99172
+  },
+  {
+    "name": "Ngam",
+    "country": "CI",
+    "lat": 7.68267,
+    "lng": -2.89555
+  },
+  {
+    "name": "Ngom",
+    "country": "CI",
+    "lat": 7.36663,
+    "lng": -5.06472
+  },
+  {
+    "name": "Ngata Kokokro",
+    "country": "CI",
+    "lat": 7.13993,
+    "lng": -4.50396
+  },
+  {
+    "name": "Nguiémé",
+    "country": "CI",
+    "lat": 5.14576,
+    "lng": -3.04965
+  },
+  {
+    "name": "Ngouan Té",
+    "country": "CI",
+    "lat": 7.03423,
+    "lng": -4.70915
+  },
+  {
+    "name": "Nguessankoa",
+    "country": "CI",
+    "lat": 5.93875,
+    "lng": -3.94116
+  },
+  {
+    "name": "Nguti",
+    "country": "CM",
+    "lat": 5.3299,
+    "lng": 9.4185
+  },
+  {
+    "name": "Ngoro",
+    "country": "CM",
+    "lat": 4.95,
+    "lng": 11.38333
+  },
+  {
+    "name": "Ngomedzap",
+    "country": "CM",
+    "lat": 3.25,
+    "lng": 11.2
+  },
+  {
+    "name": "Ngaoundéré",
+    "country": "CM",
+    "lat": 7.32765,
+    "lng": 13.58472
+  },
+  {
+    "name": "Ngambé",
+    "country": "CM",
+    "lat": 4.23343,
+    "lng": 10.61532
+  },
+  {
+    "name": "Ngou",
+    "country": "CM",
+    "lat": 5.19685,
+    "lng": 10.38595
+  },
+  {
+    "name": "Ngaoundal",
+    "country": "CM",
+    "lat": 6.5,
+    "lng": 13.26667
+  },
+  {
+    "name": "Ngamring",
+    "country": "CN",
+    "lat": 29.23333,
+    "lng": 87.16667
+  },
+  {
+    "name": "Ngatik",
+    "country": "FM",
+    "lat": 5.78849,
+    "lng": 157.15954
+  },
+  {
+    "name": "Ngulu",
+    "country": "FM",
+    "lat": 8.45,
+    "lng": 137.484
+  },
+  {
+    "name": "Ngwoni",
+    "country": "GA",
+    "lat": -1.50021,
+    "lng": 13.79245
+  },
+  {
+    "name": "Ngong Ping",
+    "country": "HK",
+    "lat": 22.25556,
+    "lng": 113.90391
+  },
+  {
+    "name": "Ngunut",
+    "country": "ID",
+    "lat": -8.1058,
+    "lng": 112.01591
+  },
+  {
+    "name": "Ngrayun",
+    "country": "ID",
+    "lat": -8.0723,
+    "lng": 111.4489
+  },
+  {
+    "name": "Ngoro",
+    "country": "ID",
+    "lat": -7.68386,
+    "lng": 112.25804
+  },
+  {
+    "name": "Ngawi",
+    "country": "ID",
+    "lat": -7.4038,
+    "lng": 111.4461
+  },
+  {
+    "name": "Ngawen",
+    "country": "ID",
+    "lat": -7.0032,
+    "lng": 111.3129
+  },
+  {
+    "name": "Ngantru",
+    "country": "ID",
+    "lat": -8.0101,
+    "lng": 111.9254
+  },
+  {
+    "name": "Nganjuk",
+    "country": "ID",
+    "lat": -7.6051,
+    "lng": 111.9035
+  },
+  {
+    "name": "Ngabang",
+    "country": "ID",
+    "lat": 0.38333,
+    "lng": 109.95
+  },
+  {
+    "name": "Ngamprah",
+    "country": "ID",
+    "lat": -6.80361,
+    "lng": 107.27528
+  },
+  {
+    "name": "Ngemplak",
+    "country": "ID",
+    "lat": -7.54972,
+    "lng": 110.71639
+  },
+  {
+    "name": "Ngraho",
+    "country": "ID",
+    "lat": -7.1707,
+    "lng": 111.4972
+  },
+  {
+    "name": "Nggongi",
+    "country": "ID",
+    "lat": -10.1944,
+    "lng": 120.2336
+  },
+  {
+    "name": "Ngulakan",
+    "country": "ID",
+    "lat": -6.7761,
+    "lng": 111.2248
+  },
+  {
+    "name": "Ngalu",
+    "country": "ID",
+    "lat": -10.1453,
+    "lng": 120.7084
+  },
+  {
+    "name": "Ngkan",
+    "country": "ID",
+    "lat": 3.40173,
+    "lng": 97.66872
+  },
+  {
+    "name": "Ngasem",
+    "country": "ID",
+    "lat": -7.79649,
+    "lng": 112.04471
+  },
+  {
+    "name": "Ngūr",
+    "country": "IN",
+    "lat": 23.53798,
+    "lng": 93.3732
+  },
+  {
+    "name": "Ngong",
+    "country": "KE",
+    "lat": -1.3527,
+    "lng": 36.6699
+  },
+  {
+    "name": "Ngewa",
+    "country": "KE",
+    "lat": -1.09196,
+    "lng": 36.8659
+  },
+  {
+    "name": "Ngapali",
+    "country": "MM",
+    "lat": 18.43664,
+    "lng": 94.32215
+  },
+  {
+    "name": "Ngabu",
+    "country": "MW",
+    "lat": -16.49428,
+    "lng": 34.91147
+  },
+  {
+    "name": "Nguigmi",
+    "country": "NE",
+    "lat": 14.24953,
+    "lng": 13.10921
+  },
+  {
+    "name": "Ngourti",
+    "country": "NE",
+    "lat": 15.33128,
+    "lng": 13.19932
+  },
+  {
+    "name": "Nguzu Edda",
+    "country": "NG",
+    "lat": 5.75543,
+    "lng": 7.81721
+  },
+  {
+    "name": "Nguru",
+    "country": "NG",
+    "lat": 12.87695,
+    "lng": 10.45536
+  },
+  {
+    "name": "Ngurore",
+    "country": "NG",
+    "lat": 9.28871,
+    "lng": 12.24026
+  },
+  {
+    "name": "Ngo",
+    "country": "NG",
+    "lat": 4.48388,
+    "lng": 7.41446
+  },
+  {
+    "name": "Ngala",
+    "country": "NG",
+    "lat": 12.34053,
+    "lng": 14.1867
+  },
+  {
+    "name": "Ngunguru",
+    "country": "NZ",
+    "lat": -35.61667,
+    "lng": 174.5
+  },
+  {
+    "name": "Ngongotaha",
+    "country": "NZ",
+    "lat": -38.08333,
+    "lng": 176.2
+  },
+  {
+    "name": "Ngatea",
+    "country": "NZ",
+    "lat": -37.28333,
+    "lng": 175.5
+  },
+  {
+    "name": "Ngaio",
+    "country": "NZ",
+    "lat": -41.25039,
+    "lng": 174.77394
+  },
+  {
+    "name": "Ngaruawahia",
+    "country": "NZ",
+    "lat": -37.66738,
+    "lng": 175.15554
+  },
+  {
+    "name": "Ngermid Hamlet",
+    "country": "PW",
+    "lat": 7.33983,
+    "lng": 134.50163
+  },
+  {
+    "name": "Ngerbeched Hamlet",
+    "country": "PW",
+    "lat": 7.33249,
+    "lng": 134.47623
+  },
+  {
+    "name": "Ngerchemai Hamlet",
+    "country": "PW",
+    "lat": 7.35,
+    "lng": 134.4889
+  },
+  {
+    "name": "Ngereklmadel",
+    "country": "PW",
+    "lat": 7.48826,
+    "lng": 134.48562
+  },
+  {
+    "name": "Ngchesar Hamlet",
+    "country": "PW",
+    "lat": 7.46932,
+    "lng": 134.60991
+  },
+  {
+    "name": "Ngerkeai",
+    "country": "PW",
+    "lat": 7.55456,
+    "lng": 134.63612
+  },
+  {
+    "name": "Ngetkib",
+    "country": "PW",
+    "lat": 7.36451,
+    "lng": 134.51484
+  },
+  {
+    "name": "Ngchemiangel",
+    "country": "PW",
+    "lat": 7.44613,
+    "lng": 134.47678
+  },
+  {
+    "name": "Ngardmau",
+    "country": "PW",
+    "lat": 7.60986,
+    "lng": 134.5744
+  },
+  {
+    "name": "Ngerulmud",
+    "country": "PW",
+    "lat": 7.50077,
+    "lng": 134.6238
+  },
+  {
+    "name": "Ngororero",
+    "country": "RW",
+    "lat": -1.8628,
+    "lng": 29.62541
+  },
+  {
+    "name": "Nggosi",
+    "country": "SB",
+    "lat": -9.43056,
+    "lng": 159.92103
+  },
+  {
+    "name": "Nguidjlone",
+    "country": "SN",
+    "lat": 15.94052,
+    "lng": -13.35138
+  },
+  {
+    "name": "Nguékhokh",
+    "country": "SN",
+    "lat": 14.51255,
+    "lng": -17.00447
+  },
+  {
+    "name": "Ngaparou",
+    "country": "SN",
+    "lat": 14.46419,
+    "lng": -17.05619
+  },
+  {
+    "name": "Nganda",
+    "country": "SN",
+    "lat": 13.83333,
+    "lng": -15.41667
+  },
+  {
+    "name": "Ngouri",
+    "country": "TD",
+    "lat": 8.5135,
+    "lng": 16.00682
+  },
+  {
+    "name": "Ngama",
+    "country": "TD",
+    "lat": 11.78729,
+    "lng": 17.15925
+  },
+  {
+    "name": "Ngama",
+    "country": "TD",
+    "lat": 11.78333,
+    "lng": 17.16667
+  },
+  {
+    "name": "Ngao",
+    "country": "TH",
+    "lat": 18.75678,
+    "lng": 99.97814
+  },
+  {
+    "name": "Nguruka",
+    "country": "TZ",
+    "lat": -5.10917,
+    "lng": 31.04194
+  },
+  {
+    "name": "Ngudu",
+    "country": "TZ",
+    "lat": -2.96667,
+    "lng": 33.33333
+  },
+  {
+    "name": "Ngorongoro",
+    "country": "TZ",
+    "lat": -3.23973,
+    "lng": 35.48747
+  },
+  {
+    "name": "Ngerengere",
+    "country": "TZ",
+    "lat": -6.75,
+    "lng": 38.11667
+  },
+  {
+    "name": "Ngara",
+    "country": "TZ",
+    "lat": -2.51222,
+    "lng": 30.65583
+  },
+  {
+    "name": "Nganane",
+    "country": "TZ",
+    "lat": -6.4,
+    "lng": 39.55
+  },
+  {
+    "name": "Ngora",
+    "country": "UG",
+    "lat": 1.43139,
+    "lng": 33.77722
+  },
+  {
+    "name": "Nguyễn Du",
+    "country": "VN",
+    "lat": 21.01667,
+    "lng": 105.85
+  },
+  {
+    "name": "Ngô Đồng",
+    "country": "VN",
+    "lat": 20.28296,
+    "lng": 106.44347
+  },
+  {
+    "name": "Ngọc Lặc",
+    "country": "VN",
+    "lat": 20.09189,
+    "lng": 105.36761
+  },
+  {
+    "name": "Ngọc Hồi",
+    "country": "VN",
+    "lat": 20.92189,
+    "lng": 105.85198
+  },
+  {
+    "name": "Nghi Xuân",
+    "country": "VN",
+    "lat": 18.66206,
+    "lng": 105.75575
+  },
+  {
+    "name": "Nghi Sơn",
+    "country": "VN",
+    "lat": 19.32746,
+    "lng": 105.82145
+  },
+  {
+    "name": "Nghĩa Lộ",
+    "country": "VN",
+    "lat": 21.6,
+    "lng": 104.51667
+  },
+  {
+    "name": "Nghĩa Hành",
+    "country": "VN",
+    "lat": 15.04568,
+    "lng": 108.77724
+  },
+  {
+    "name": "Nghĩa Đô",
+    "country": "VN",
+    "lat": 21.05,
+    "lng": 105.8
+  },
+  {
+    "name": "Nghĩa Đàn",
+    "country": "VN",
+    "lat": 19.3,
+    "lng": 105.43333
+  },
+  {
+    "name": "Nga Sơn",
+    "country": "VN",
+    "lat": 20.00722,
+    "lng": 105.97044
+  },
+  {
+    "name": "Nghèn",
+    "country": "VN",
+    "lat": 18.45119,
+    "lng": 105.77969
+  },
+  {
+    "name": "Ngũ Hành Sơn",
+    "country": "VN",
+    "lat": 16.01618,
+    "lng": 108.25335
+  },
+  {
+    "name": "Ngã Bảy",
+    "country": "VN",
+    "lat": 9.81371,
+    "lng": 105.82096
+  },
+  {
+    "name": "Ngã Sáu",
+    "country": "VN",
+    "lat": 9.92303,
+    "lng": 105.80542
+  },
+  {
+    "name": "Ngọc Hiển",
+    "country": "VN",
+    "lat": 8.65724,
+    "lng": 105.06021
+  },
+  {
+    "name": "Ngã Năm",
+    "country": "VN",
+    "lat": 9.56513,
+    "lng": 105.59897
+  },
+  {
+    "name": "Ngqamakhwe",
+    "country": "ZA",
+    "lat": -32.19648,
+    "lng": 27.93807
+  },
+  {
+    "name": "Ngqeleni",
+    "country": "ZA",
+    "lat": -31.67315,
+    "lng": 29.03327
+  },
+  {
+    "name": "Ngagane",
+    "country": "ZA",
+    "lat": -27.84017,
+    "lng": 29.99771
+  },
+  {
+    "name": "Ngcobo",
+    "country": "ZA",
+    "lat": -31.6754,
+    "lng": 27.99664
+  },
+  {
+    "name": "Ngabangu",
+    "country": "ZA",
+    "lat": -32.62924,
+    "lng": 27.39823
+  },
+  {
+    "name": "Ngodwana",
+    "country": "ZA",
+    "lat": -25.56923,
+    "lng": 30.67895
+  },
+  {
+    "name": "Ngema Tribal Trust",
+    "country": "ZA",
+    "lat": -27.07309,
+    "lng": 30.54204
+  }
+]

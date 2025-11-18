@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Nyora",
+    "country": "AU",
+    "lat": -38.33364,
+    "lng": 145.67248
+  },
+  {
+    "name": "Nyngan",
+    "country": "AU",
+    "lat": -31.56375,
+    "lng": 147.19373
+  },
+  {
+    "name": "Nyakhachava",
+    "country": "BY",
+    "lat": 52.644,
+    "lng": 25.2027
+  },
+  {
+    "name": "Nyunzu",
+    "country": "CD",
+    "lat": -5.95609,
+    "lng": 28.01649
+  },
+  {
+    "name": "Nyon",
+    "country": "CH",
+    "lat": 46.38318,
+    "lng": 6.23955
+  },
+  {
+    "name": "Nyoroningé",
+    "country": "CI",
+    "lat": 9.98227,
+    "lng": -5.22131
+  },
+  {
+    "name": "Nyatibo",
+    "country": "CI",
+    "lat": 8.21162,
+    "lng": -5.73784
+  },
+  {
+    "name": "Nyangourala",
+    "country": "CI",
+    "lat": 8.13664,
+    "lng": -5.72554
+  },
+  {
+    "name": "Nyangbo",
+    "country": "CI",
+    "lat": 8.80612,
+    "lng": -5.16358
+  },
+  {
+    "name": "Nyampleu",
+    "country": "CI",
+    "lat": 7.13954,
+    "lng": -8.13745
+  },
+  {
+    "name": "Nyakouoboué",
+    "country": "CI",
+    "lat": 5.90844,
+    "lng": -5.77885
+  },
+  {
+    "name": "Nyan",
+    "country": "CI",
+    "lat": 6.00996,
+    "lng": -3.72554
+  },
+  {
+    "name": "Nyêmo",
+    "country": "CN",
+    "lat": 29.43736,
+    "lng": 90.14849
+  },
+  {
+    "name": "Nyingchi",
+    "country": "CN",
+    "lat": 29.64885,
+    "lng": 94.35509
+  },
+  {
+    "name": "Nymburk",
+    "country": "CZ",
+    "lat": 50.18605,
+    "lng": 15.04167
+  },
+  {
+    "name": "Nysted",
+    "country": "DK",
+    "lat": 54.66513,
+    "lng": 11.73426
+  },
+  {
+    "name": "Nyråd",
+    "country": "DK",
+    "lat": 55.00511,
+    "lng": 11.9606
+  },
+  {
+    "name": "Nykøbing Falster",
+    "country": "DK",
+    "lat": 54.76906,
+    "lng": 11.87425
+  },
+  {
+    "name": "Nykøbing Sjælland",
+    "country": "DK",
+    "lat": 55.92491,
+    "lng": 11.67109
+  },
+  {
+    "name": "Nykøbing Mors",
+    "country": "DK",
+    "lat": 56.79334,
+    "lng": 8.85282
+  },
+  {
+    "name": "Nyborg",
+    "country": "DK",
+    "lat": 55.31274,
+    "lng": 10.78964
+  },
+  {
+    "name": "Nykarleby",
+    "country": "FI",
+    "lat": 63.52277,
+    "lng": 22.53073
+  },
+  {
+    "name": "Nyons",
+    "country": "FR",
+    "lat": 44.36082,
+    "lng": 5.14052
+  },
+  {
+    "name": "Nyoiseau",
+    "country": "FR",
+    "lat": 47.71667,
+    "lng": -0.91667
+  },
+  {
+    "name": "Nyamanari",
+    "country": "GM",
+    "lat": 13.33333,
+    "lng": -13.86667
+  },
+  {
+    "name": "Nyagassola",
+    "country": "GN",
+    "lat": 12.31667,
+    "lng": -9.11667
+  },
+  {
+    "name": "Nyírvasvári",
+    "country": "HU",
+    "lat": 47.81667,
+    "lng": 22.18683
+  },
+  {
+    "name": "Nyírtelek",
+    "country": "HU",
+    "lat": 48.01667,
+    "lng": 21.63333
+  },
+  {
+    "name": "Nyírtass",
+    "country": "HU",
+    "lat": 48.11667,
+    "lng": 22.03333
+  },
+  {
+    "name": "Nyírpazony",
+    "country": "HU",
+    "lat": 47.98333,
+    "lng": 21.8
+  },
+  {
+    "name": "Nyírmihálydi",
+    "country": "HU",
+    "lat": 47.73976,
+    "lng": 21.96445
+  },
+  {
+    "name": "Nyírmeggyes",
+    "country": "HU",
+    "lat": 47.91667,
+    "lng": 22.26667
+  },
+  {
+    "name": "Nyírmártonfalva",
+    "country": "HU",
+    "lat": 47.58333,
+    "lng": 21.9
+  },
+  {
+    "name": "Nyírmada",
+    "country": "HU",
+    "lat": 48.06667,
+    "lng": 22.2
+  },
+  {
+    "name": "Nyírlugos",
+    "country": "HU",
+    "lat": 47.69315,
+    "lng": 22.04476
+  },
+  {
+    "name": "Nyírkarász",
+    "country": "HU",
+    "lat": 48.09477,
+    "lng": 22.10463
+  },
+  {
+    "name": "Nyírgyulaj",
+    "country": "HU",
+    "lat": 47.88622,
+    "lng": 22.09781
+  },
+  {
+    "name": "Nyíregyháza",
+    "country": "HU",
+    "lat": 47.95539,
+    "lng": 21.71671
+  },
+  {
+    "name": "Nyírcsaholy",
+    "country": "HU",
+    "lat": 47.90383,
+    "lng": 22.3363
+  },
+  {
+    "name": "Nyírbogdány",
+    "country": "HU",
+    "lat": 48.05723,
+    "lng": 21.88242
+  },
+  {
+    "name": "Nyírbogát",
+    "country": "HU",
+    "lat": 47.8034,
+    "lng": 22.06561
+  },
+  {
+    "name": "Nyírbéltek",
+    "country": "HU",
+    "lat": 47.7,
+    "lng": 22.13333
+  },
+  {
+    "name": "Nyírbátor",
+    "country": "HU",
+    "lat": 47.83333,
+    "lng": 22.13333
+  },
+  {
+    "name": "Nyíradony",
+    "country": "HU",
+    "lat": 47.69746,
+    "lng": 21.91878
+  },
+  {
+    "name": "Nyíracsád",
+    "country": "HU",
+    "lat": 47.6033,
+    "lng": 21.97208
+  },
+  {
+    "name": "Nyírábrány",
+    "country": "HU",
+    "lat": 47.55311,
+    "lng": 22.02401
+  },
+  {
+    "name": "Nyékládháza",
+    "country": "HU",
+    "lat": 47.98333,
+    "lng": 20.83333
+  },
+  {
+    "name": "Nyúl",
+    "country": "HU",
+    "lat": 47.59047,
+    "lng": 17.68904
+  },
+  {
+    "name": "Nyergesújfalu",
+    "country": "HU",
+    "lat": 47.76027,
+    "lng": 18.55694
+  },
+  {
+    "name": "Nyárlőrinc",
+    "country": "HU",
+    "lat": 46.86017,
+    "lng": 19.87836
+  },
+  {
+    "name": "Nyáregyháza",
+    "country": "HU",
+    "lat": 47.26175,
+    "lng": 19.50146
+  },
+  {
+    "name": "Nyalindung",
+    "country": "ID",
+    "lat": -7.0426,
+    "lng": 106.9442
+  },
+  {
+    "name": "Nyāmti",
+    "country": "IN",
+    "lat": 14.14869,
+    "lng": 75.57641
+  },
+  {
+    "name": "Nyūzen",
+    "country": "JP",
+    "lat": 36.93744,
+    "lng": 137.50059
+  },
+  {
+    "name": "Nyeri",
+    "country": "KE",
+    "lat": -0.42013,
+    "lng": 36.94759
+  },
+  {
+    "name": "Nyangusu",
+    "country": "KE",
+    "lat": -0.93263,
+    "lng": 34.84421
+  },
+  {
+    "name": "Nyandiwa",
+    "country": "KE",
+    "lat": -0.72265,
+    "lng": 34.0591
+  },
+  {
+    "name": "Nyamira",
+    "country": "KE",
+    "lat": -0.56333,
+    "lng": 34.93583
+  },
+  {
+    "name": "Nyambunwa",
+    "country": "KE",
+    "lat": -0.67783,
+    "lng": 34.70722
+  },
+  {
+    "name": "Nyahururu",
+    "country": "KE",
+    "lat": 0.03813,
+    "lng": 36.36339
+  },
+  {
+    "name": "Nyansiongo",
+    "country": "KE",
+    "lat": -0.7596,
+    "lng": 35.0148
+  },
+  {
+    "name": "Nyaungdon",
+    "country": "MM",
+    "lat": 17.04459,
+    "lng": 95.63957
+  },
+  {
+    "name": "Nyaung-U",
+    "country": "MM",
+    "lat": 21.20056,
+    "lng": 94.90827
+  },
+  {
+    "name": "Nyaungshwe",
+    "country": "MM",
+    "lat": 20.66084,
+    "lng": 96.93405
+  },
+  {
+    "name": "Nyaunglebin",
+    "country": "MM",
+    "lat": 17.95363,
+    "lng": 96.72247
+  },
+  {
+    "name": "Nyalas",
+    "country": "MY",
+    "lat": 2.4338,
+    "lng": 102.4714
+  },
+  {
+    "name": "Nysa",
+    "country": "PL",
+    "lat": 50.47379,
+    "lng": 17.33437
+  },
+  {
+    "name": "Nyuksenitsa",
+    "country": "RU",
+    "lat": 60.41159,
+    "lng": 44.23309
+  },
+  {
+    "name": "Nytva",
+    "country": "RU",
+    "lat": 57.93771,
+    "lng": 55.34136
+  },
+  {
+    "name": "Nyrob",
+    "country": "RU",
+    "lat": 60.733,
+    "lng": 56.72024
+  },
+  {
+    "name": "Nyazepetrovsk",
+    "country": "RU",
+    "lat": 56.03715,
+    "lng": 59.59852
+  },
+  {
+    "name": "Nyandoma",
+    "country": "RU",
+    "lat": 61.6718,
+    "lng": 40.21221
+  },
+  {
+    "name": "Nyda",
+    "country": "RU",
+    "lat": 66.62472,
+    "lng": 72.92278
+  },
+  {
+    "name": "Nyagan",
+    "country": "RU",
+    "lat": 62.14056,
+    "lng": 65.39361
+  },
+  {
+    "name": "Nyurba",
+    "country": "RU",
+    "lat": 63.28431,
+    "lng": 118.34975
+  },
+  {
+    "name": "Nyagatare",
+    "country": "RW",
+    "lat": -1.2952,
+    "lng": 30.3226
+  },
+  {
+    "name": "Nyabitekeli",
+    "country": "RW",
+    "lat": -2.3541,
+    "lng": 29.0298
+  },
+  {
+    "name": "Nyanza",
+    "country": "RW",
+    "lat": -2.35187,
+    "lng": 29.75089
+  },
+  {
+    "name": "Nyamata",
+    "country": "RW",
+    "lat": -2.20419,
+    "lng": 30.14494
+  },
+  {
+    "name": "Nyala",
+    "country": "SD",
+    "lat": 12.04888,
+    "lng": 24.88069
+  },
+  {
+    "name": "Nynäshamn",
+    "country": "SE",
+    "lat": 58.90337,
+    "lng": 17.94793
+  },
+  {
+    "name": "Nykvarn",
+    "country": "SE",
+    "lat": 59.8,
+    "lng": 18.3
+  },
+  {
+    "name": "Nykvarn",
+    "country": "SE",
+    "lat": 59.17718,
+    "lng": 17.4323
+  },
+  {
+    "name": "Nyköping",
+    "country": "SE",
+    "lat": 58.753,
+    "lng": 17.00788
+  },
+  {
+    "name": "Nyhammar",
+    "country": "SE",
+    "lat": 60.28333,
+    "lng": 14.96667
+  },
+  {
+    "name": "Nybro",
+    "country": "SE",
+    "lat": 56.74461,
+    "lng": 15.90714
+  },
+  {
+    "name": "Nyyazow",
+    "country": "TM",
+    "lat": 41.83926,
+    "lng": 60.13172
+  },
+  {
+    "name": "Nyanguge",
+    "country": "TZ",
+    "lat": -2.55,
+    "lng": 33.2
+  },
+  {
+    "name": "Nyamuswa",
+    "country": "TZ",
+    "lat": -1.9,
+    "lng": 34.01667
+  },
+  {
+    "name": "Nyalikungu",
+    "country": "TZ",
+    "lat": -3.18333,
+    "lng": 33.78333
+  },
+  {
+    "name": "Nyakahanga",
+    "country": "TZ",
+    "lat": -1.60333,
+    "lng": 31.14139
+  },
+  {
+    "name": "Nyakabindi",
+    "country": "TZ",
+    "lat": -2.63333,
+    "lng": 33.98333
+  },
+  {
+    "name": "Nyangao",
+    "country": "TZ",
+    "lat": -10.33333,
+    "lng": 39.28333
+  },
+  {
+    "name": "Nyzhni Petrivtsi",
+    "country": "UA",
+    "lat": 48.03055,
+    "lng": 25.72521
+  },
+  {
+    "name": "Nyrkiv",
+    "country": "UA",
+    "lat": 48.81433,
+    "lng": 25.59909
+  },
+  {
+    "name": "Nyzy",
+    "country": "UA",
+    "lat": 50.78281,
+    "lng": 34.78441
+  },
+  {
+    "name": "Nyzhnia Krynka",
+    "country": "UA",
+    "lat": 48.11376,
+    "lng": 38.15962
+  },
+  {
+    "name": "Nyzhnia Duvanka",
+    "country": "UA",
+    "lat": 49.58351,
+    "lng": 38.16824
+  },
+  {
+    "name": "Nyzhni Stanivtsi",
+    "country": "UA",
+    "lat": 48.32055,
+    "lng": 25.56948
+  },
+  {
+    "name": "Nyzhni Sirohozy",
+    "country": "UA",
+    "lat": 46.84585,
+    "lng": 34.37489
+  },
+  {
+    "name": "Nyzhnye Selyshche",
+    "country": "UA",
+    "lat": 48.19911,
+    "lng": 23.44757
+  },
+  {
+    "name": "Nyzhankovychi",
+    "country": "UA",
+    "lat": 49.6797,
+    "lng": 22.8117
+  },
+  {
+    "name": "Nyva Trudova",
+    "country": "UA",
+    "lat": 47.73119,
+    "lng": 33.62156
+  },
+  {
+    "name": "Nyahuka",
+    "country": "UG",
+    "lat": 0.675,
+    "lng": 29.9926
+  },
+  {
+    "name": "Nyachera",
+    "country": "UG",
+    "lat": -0.9,
+    "lng": 30.41667
+  },
+  {
+    "name": "Nyamunuka",
+    "country": "UG",
+    "lat": -0.83487,
+    "lng": 30.09216
+  },
+  {
+    "name": "Nyack",
+    "country": "US",
+    "lat": 41.09065,
+    "lng": -73.91791
+  },
+  {
+    "name": "Nyssa",
+    "country": "US",
+    "lat": 43.87683,
+    "lng": -116.99488
+  },
+  {
+    "name": "Nyambadao",
+    "country": "YT",
+    "lat": -12.89346,
+    "lng": 45.20214
+  },
+  {
+    "name": "Nyimba",
+    "country": "ZM",
+    "lat": -14.55656,
+    "lng": 30.8149
+  },
+  {
+    "name": "Nyazura",
+    "country": "ZW",
+    "lat": -18.70587,
+    "lng": 32.16796
+  },
+  {
+    "name": "Nyanga",
+    "country": "ZW",
+    "lat": -18.21667,
+    "lng": 32.75
+  }
+]

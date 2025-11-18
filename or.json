@@ -1,0 +1,3230 @@
+[
+  {
+    "name": "Ordino",
+    "country": "AD",
+    "lat": 42.55623,
+    "lng": 1.53319
+  },
+  {
+    "name": "Orosh",
+    "country": "AL",
+    "lat": 41.83333,
+    "lng": 20.08333
+  },
+  {
+    "name": "Orenjë",
+    "country": "AL",
+    "lat": 41.28472,
+    "lng": 20.21194
+  },
+  {
+    "name": "Orikum",
+    "country": "AL",
+    "lat": 40.32528,
+    "lng": 19.47139
+  },
+  {
+    "name": "Oro Verde",
+    "country": "AR",
+    "lat": -31.82462,
+    "lng": -60.51633
+  },
+  {
+    "name": "Ordoñez",
+    "country": "AR",
+    "lat": -32.84114,
+    "lng": -62.86595
+  },
+  {
+    "name": "Ort im Innkreis",
+    "country": "AT",
+    "lat": 48.31654,
+    "lng": 13.43362
+  },
+  {
+    "name": "Orth an der Donau",
+    "country": "AT",
+    "lat": 48.14524,
+    "lng": 16.70089
+  },
+  {
+    "name": "Ortgraben",
+    "country": "AT",
+    "lat": 47.45,
+    "lng": 16.05
+  },
+  {
+    "name": "Ormond",
+    "country": "AU",
+    "lat": -37.9,
+    "lng": 145.03333
+  },
+  {
+    "name": "Ormiston",
+    "country": "AU",
+    "lat": -27.51667,
+    "lng": 153.25
+  },
+  {
+    "name": "Ormeau",
+    "country": "AU",
+    "lat": -27.76791,
+    "lng": 153.2428
+  },
+  {
+    "name": "Orbost",
+    "country": "AU",
+    "lat": -37.69644,
+    "lng": 148.457
+  },
+  {
+    "name": "Orange",
+    "country": "AU",
+    "lat": -33.28397,
+    "lng": 149.10018
+  },
+  {
+    "name": "Orangeville",
+    "country": "AU",
+    "lat": -34.03108,
+    "lng": 150.60179
+  },
+  {
+    "name": "Orelia",
+    "country": "AU",
+    "lat": -32.2333,
+    "lng": 115.82227
+  },
+  {
+    "name": "Orana",
+    "country": "AU",
+    "lat": -34.99601,
+    "lng": 117.85925
+  },
+  {
+    "name": "Oran Park",
+    "country": "AU",
+    "lat": -34.00564,
+    "lng": 150.74032
+  },
+  {
+    "name": "Orchard Hills",
+    "country": "AU",
+    "lat": -33.7823,
+    "lng": 150.71088
+  },
+  {
+    "name": "Ormeau Hills",
+    "country": "AU",
+    "lat": -27.79653,
+    "lng": 153.2567
+  },
+  {
+    "name": "Oranjestad",
+    "country": "AW",
+    "lat": 12.52398,
+    "lng": -70.02703
+  },
+  {
+    "name": "Orjonikidze",
+    "country": "AZ",
+    "lat": 39.63571,
+    "lng": 47.71199
+  },
+  {
+    "name": "Ordubad",
+    "country": "AZ",
+    "lat": 38.90961,
+    "lng": 46.02274
+  },
+  {
+    "name": "Orguz",
+    "country": "BA",
+    "lat": 43.77414,
+    "lng": 16.86329
+  },
+  {
+    "name": "Orašje",
+    "country": "BA",
+    "lat": 45.03366,
+    "lng": 18.69334
+  },
+  {
+    "name": "Orašac",
+    "country": "BA",
+    "lat": 44.63039,
+    "lng": 16.07443
+  },
+  {
+    "name": "Orahovica Donja",
+    "country": "BA",
+    "lat": 44.65345,
+    "lng": 18.36951
+  },
+  {
+    "name": "Orp-le-Grand",
+    "country": "BE",
+    "lat": 50.70331,
+    "lng": 4.9891
+  },
+  {
+    "name": "Ormeignies",
+    "country": "BE",
+    "lat": 50.59501,
+    "lng": 3.75183
+  },
+  {
+    "name": "Orgeo",
+    "country": "BE",
+    "lat": 49.8339,
+    "lng": 5.30646
+  },
+  {
+    "name": "Oreye",
+    "country": "BE",
+    "lat": 50.73187,
+    "lng": 5.35818
+  },
+  {
+    "name": "Orcq",
+    "country": "BE",
+    "lat": 50.60322,
+    "lng": 3.34924
+  },
+  {
+    "name": "Orbais",
+    "country": "BE",
+    "lat": 50.63798,
+    "lng": 4.76352
+  },
+  {
+    "name": "Orodara",
+    "country": "BF",
+    "lat": 10.98115,
+    "lng": -4.91885
+  },
+  {
+    "name": "Oryahovo",
+    "country": "BG",
+    "lat": 43.73805,
+    "lng": 23.95874
+  },
+  {
+    "name": "Oruro",
+    "country": "BO",
+    "lat": -17.97153,
+    "lng": -67.0932
+  },
+  {
+    "name": "Oranjestad",
+    "country": "BQ",
+    "lat": 17.48303,
+    "lng": -62.9864
+  },
+  {
+    "name": "Orós",
+    "country": "BR",
+    "lat": -6.24444,
+    "lng": -38.91361
+  },
+  {
+    "name": "Orobó",
+    "country": "BR",
+    "lat": -7.745,
+    "lng": -35.60222
+  },
+  {
+    "name": "Oriximiná",
+    "country": "BR",
+    "lat": -1.76556,
+    "lng": -55.86611
+  },
+  {
+    "name": "Ortigueira",
+    "country": "BR",
+    "lat": -24.20833,
+    "lng": -50.94944
+  },
+  {
+    "name": "Orleans",
+    "country": "BR",
+    "lat": -28.35889,
+    "lng": -49.29139
+  },
+  {
+    "name": "Orlândia",
+    "country": "BR",
+    "lat": -20.72028,
+    "lng": -47.88667
+  },
+  {
+    "name": "Orizona",
+    "country": "BR",
+    "lat": -17.03139,
+    "lng": -48.29583
+  },
+  {
+    "name": "Orizânia",
+    "country": "BR",
+    "lat": -20.50639,
+    "lng": -42.21
+  },
+  {
+    "name": "Orindiúva",
+    "country": "BR",
+    "lat": -20.18222,
+    "lng": -49.35139
+  },
+  {
+    "name": "Oriente",
+    "country": "BR",
+    "lat": -22.15278,
+    "lng": -50.09083
+  },
+  {
+    "name": "Oratórios",
+    "country": "BR",
+    "lat": -20.43056,
+    "lng": -42.80556
+  },
+  {
+    "name": "Orocó",
+    "country": "BR",
+    "lat": -8.61563,
+    "lng": -39.60035
+  },
+  {
+    "name": "Orapa",
+    "country": "BW",
+    "lat": -21.3115,
+    "lng": 25.37642
+  },
+  {
+    "name": "Orsha",
+    "country": "BY",
+    "lat": 54.51362,
+    "lng": 30.40365
+  },
+  {
+    "name": "Orange Walk",
+    "country": "BZ",
+    "lat": 18.08124,
+    "lng": -88.56328
+  },
+  {
+    "name": "Orangeville",
+    "country": "CA",
+    "lat": 43.9168,
+    "lng": -80.09967
+  },
+  {
+    "name": "Orillia",
+    "country": "CA",
+    "lat": 44.60868,
+    "lng": -79.42068
+  },
+  {
+    "name": "Ormstown",
+    "country": "CA",
+    "lat": 45.13338,
+    "lng": -73.99922
+  },
+  {
+    "name": "Oromocto",
+    "country": "CA",
+    "lat": 45.83512,
+    "lng": -66.47917
+  },
+  {
+    "name": "Orvin",
+    "country": "CH",
+    "lat": 47.16068,
+    "lng": 7.21368
+  },
+  {
+    "name": "Orsières",
+    "country": "CH",
+    "lat": 46.02903,
+    "lng": 7.14437
+  },
+  {
+    "name": "Orpund",
+    "country": "CH",
+    "lat": 47.13891,
+    "lng": 7.30775
+  },
+  {
+    "name": "Oron-la-Ville",
+    "country": "CH",
+    "lat": 46.57094,
+    "lng": 6.82557
+  },
+  {
+    "name": "Ormalingen",
+    "country": "CH",
+    "lat": 47.46936,
+    "lng": 7.87248
+  },
+  {
+    "name": "Orbe",
+    "country": "CH",
+    "lat": 46.72504,
+    "lng": 6.53069
+  },
+  {
+    "name": "Orny",
+    "country": "CH",
+    "lat": 46.66758,
+    "lng": 6.52639
+  },
+  {
+    "name": "Oress-Krobou",
+    "country": "CI",
+    "lat": 5.7324,
+    "lng": -4.3947
+  },
+  {
+    "name": "Orbaff",
+    "country": "CI",
+    "lat": 5.40157,
+    "lng": -4.41398
+  },
+  {
+    "name": "Oroqen Zizhiqi",
+    "country": "CN",
+    "lat": 50.56667,
+    "lng": 123.71667
+  },
+  {
+    "name": "Ordos",
+    "country": "CN",
+    "lat": 39.6086,
+    "lng": 109.78157
+  },
+  {
+    "name": "Ortega",
+    "country": "CO",
+    "lat": 3.9361,
+    "lng": -75.22169
+  },
+  {
+    "name": "Orocué",
+    "country": "CO",
+    "lat": 4.79035,
+    "lng": -71.33917
+  },
+  {
+    "name": "Orito",
+    "country": "CO",
+    "lat": 0.66749,
+    "lng": -76.87297
+  },
+  {
+    "name": "Orotina",
+    "country": "CR",
+    "lat": 9.91193,
+    "lng": -84.52337
+  },
+  {
+    "name": "Orosi",
+    "country": "CR",
+    "lat": 9.79617,
+    "lng": -83.85383
+  },
+  {
+    "name": "Ormidhia",
+    "country": "CY",
+    "lat": 34.99176,
+    "lng": 33.77721
+  },
+  {
+    "name": "Orlová",
+    "country": "CZ",
+    "lat": 49.84527,
+    "lng": 18.43011
+  },
+  {
+    "name": "Ortrand",
+    "country": "DE",
+    "lat": 51.37505,
+    "lng": 13.75982
+  },
+  {
+    "name": "Ortenburg",
+    "country": "DE",
+    "lat": 48.54597,
+    "lng": 13.2225
+  },
+  {
+    "name": "Ortenberg",
+    "country": "DE",
+    "lat": 50.35584,
+    "lng": 9.05602
+  },
+  {
+    "name": "Ortenberg",
+    "country": "DE",
+    "lat": 48.45158,
+    "lng": 7.97178
+  },
+  {
+    "name": "Orsingen-Nenzingen",
+    "country": "DE",
+    "lat": 47.84272,
+    "lng": 8.95909
+  },
+  {
+    "name": "Orscholz",
+    "country": "DE",
+    "lat": 49.50593,
+    "lng": 6.52502
+  },
+  {
+    "name": "Ornbau",
+    "country": "DE",
+    "lat": 49.17623,
+    "lng": 10.65797
+  },
+  {
+    "name": "Orlamünde",
+    "country": "DE",
+    "lat": 50.77486,
+    "lng": 11.51929
+  },
+  {
+    "name": "Orenhofen",
+    "country": "DE",
+    "lat": 49.9,
+    "lng": 6.65
+  },
+  {
+    "name": "Oranienburg",
+    "country": "DE",
+    "lat": 52.75577,
+    "lng": 13.24197
+  },
+  {
+    "name": "Oranienbaum",
+    "country": "DE",
+    "lat": 51.7986,
+    "lng": 12.40583
+  },
+  {
+    "name": "Oran",
+    "country": "DZ",
+    "lat": 35.69906,
+    "lng": -0.63588
+  },
+  {
+    "name": "Orissaare",
+    "country": "EE",
+    "lat": 58.55917,
+    "lng": 23.08262
+  },
+  {
+    "name": "Oropesa",
+    "country": "ES",
+    "lat": 39.91726,
+    "lng": -5.17371
+  },
+  {
+    "name": "Orihuela",
+    "country": "ES",
+    "lat": 38.08483,
+    "lng": -0.94401
+  },
+  {
+    "name": "Oria",
+    "country": "ES",
+    "lat": 37.4853,
+    "lng": -2.29292
+  },
+  {
+    "name": "Orgaz",
+    "country": "ES",
+    "lat": 39.64826,
+    "lng": -3.87577
+  },
+  {
+    "name": "Orellana la Vieja",
+    "country": "ES",
+    "lat": 39.00617,
+    "lng": -5.53441
+  },
+  {
+    "name": "Orcheta",
+    "country": "ES",
+    "lat": 38.56397,
+    "lng": -0.26299
+  },
+  {
+    "name": "Orcera",
+    "country": "ES",
+    "lat": 38.31742,
+    "lng": -2.66487
+  },
+  {
+    "name": "Orce",
+    "country": "ES",
+    "lat": 37.7212,
+    "lng": -2.47752
+  },
+  {
+    "name": "Orba",
+    "country": "ES",
+    "lat": 38.78041,
+    "lng": -0.06278
+  },
+  {
+    "name": "Ordizia",
+    "country": "ES",
+    "lat": 43.0541,
+    "lng": -2.17632
+  },
+  {
+    "name": "Ortuella",
+    "country": "ES",
+    "lat": 43.31113,
+    "lng": -3.05617
+  },
+  {
+    "name": "Ortigosa de Pestaño",
+    "country": "ES",
+    "lat": 41.08741,
+    "lng": -4.39516
+  },
+  {
+    "name": "Ortigosa del Monte",
+    "country": "ES",
+    "lat": 40.84182,
+    "lng": -4.17724
+  },
+  {
+    "name": "Ortigosa",
+    "country": "ES",
+    "lat": 42.17568,
+    "lng": -2.70513
+  },
+  {
+    "name": "Orrios",
+    "country": "ES",
+    "lat": 40.58945,
+    "lng": -0.98614
+  },
+  {
+    "name": "Orpí",
+    "country": "ES",
+    "lat": 41.5187,
+    "lng": 1.57536
+  },
+  {
+    "name": "Oroso",
+    "country": "ES",
+    "lat": 42.98333,
+    "lng": -8.43333
+  },
+  {
+    "name": "Oropesa del Mar",
+    "country": "ES",
+    "lat": 40.09134,
+    "lng": 0.14115
+  },
+  {
+    "name": "Oronz",
+    "country": "ES",
+    "lat": 42.86873,
+    "lng": -1.09683
+  },
+  {
+    "name": "Ormaiztegi",
+    "country": "ES",
+    "lat": 43.04339,
+    "lng": -2.25673
+  },
+  {
+    "name": "Oristà",
+    "country": "ES",
+    "lat": 41.93333,
+    "lng": 2.06667
+  },
+  {
+    "name": "Orísoain",
+    "country": "ES",
+    "lat": 42.60122,
+    "lng": -1.60403
+  },
+  {
+    "name": "Orís",
+    "country": "ES",
+    "lat": 42.05967,
+    "lng": 2.22066
+  },
+  {
+    "name": "Orio",
+    "country": "ES",
+    "lat": 43.2787,
+    "lng": -2.12537
+  },
+  {
+    "name": "Orihuela del Tremedal",
+    "country": "ES",
+    "lat": 40.55,
+    "lng": -1.65
+  },
+  {
+    "name": "Oria",
+    "country": "ES",
+    "lat": 43.25541,
+    "lng": -2.01873
+  },
+  {
+    "name": "Orés",
+    "country": "ES",
+    "lat": 42.27765,
+    "lng": -1.0015
+  },
+  {
+    "name": "Orera",
+    "country": "ES",
+    "lat": 41.29842,
+    "lng": -1.47849
+  },
+  {
+    "name": "Orendain",
+    "country": "ES",
+    "lat": 43.07896,
+    "lng": -2.11201
+  },
+  {
+    "name": "Orexa",
+    "country": "ES",
+    "lat": 43.09382,
+    "lng": -2.01119
+  },
+  {
+    "name": "Orea",
+    "country": "ES",
+    "lat": 40.55725,
+    "lng": -1.72738
+  },
+  {
+    "name": "Ordis",
+    "country": "ES",
+    "lat": 42.2183,
+    "lng": 2.90705
+  },
+  {
+    "name": "Ordes",
+    "country": "ES",
+    "lat": 43.07654,
+    "lng": -8.409
+  },
+  {
+    "name": "Orkoien",
+    "country": "ES",
+    "lat": 42.8238,
+    "lng": -1.70485
+  },
+  {
+    "name": "Orcajo",
+    "country": "ES",
+    "lat": 41.10975,
+    "lng": -1.48933
+  },
+  {
+    "name": "Orbita",
+    "country": "ES",
+    "lat": 40.99846,
+    "lng": -4.64833
+  },
+  {
+    "name": "Orbara",
+    "country": "ES",
+    "lat": 42.96728,
+    "lng": -1.24213
+  },
+  {
+    "name": "Orcasitas",
+    "country": "ES",
+    "lat": 40.36863,
+    "lng": -3.71242
+  },
+  {
+    "name": "Orcasur",
+    "country": "ES",
+    "lat": 40.37221,
+    "lng": -3.69815
+  },
+  {
+    "name": "Orivesi",
+    "country": "FI",
+    "lat": 61.67766,
+    "lng": 24.3572
+  },
+  {
+    "name": "Oripää",
+    "country": "FI",
+    "lat": 60.85,
+    "lng": 22.68333
+  },
+  {
+    "name": "Orimattila",
+    "country": "FI",
+    "lat": 60.80487,
+    "lng": 25.72964
+  },
+  {
+    "name": "Oravais",
+    "country": "FI",
+    "lat": 63.30135,
+    "lng": 22.37821
+  },
+  {
+    "name": "Orvault",
+    "country": "FR",
+    "lat": 47.27117,
+    "lng": -1.62361
+  },
+  {
+    "name": "Orval",
+    "country": "FR",
+    "lat": 46.72581,
+    "lng": 2.47144
+  },
+  {
+    "name": "Orthez",
+    "country": "FR",
+    "lat": 43.48834,
+    "lng": -0.77266
+  },
+  {
+    "name": "Ortaffa",
+    "country": "FR",
+    "lat": 42.58025,
+    "lng": 2.92502
+  },
+  {
+    "name": "Orschwihr",
+    "country": "FR",
+    "lat": 47.93489,
+    "lng": 7.23304
+  },
+  {
+    "name": "Orsay",
+    "country": "FR",
+    "lat": 48.69572,
+    "lng": 2.18727
+  },
+  {
+    "name": "Orsan",
+    "country": "FR",
+    "lat": 44.13181,
+    "lng": 4.66594
+  },
+  {
+    "name": "Orry-la-Ville",
+    "country": "FR",
+    "lat": 49.13345,
+    "lng": 2.51139
+  },
+  {
+    "name": "Ornex",
+    "country": "FR",
+    "lat": 46.2727,
+    "lng": 6.09982
+  },
+  {
+    "name": "Ornans",
+    "country": "FR",
+    "lat": 47.10749,
+    "lng": 6.14306
+  },
+  {
+    "name": "Ornaisons",
+    "country": "FR",
+    "lat": 43.18093,
+    "lng": 2.83724
+  },
+  {
+    "name": "Ormoy",
+    "country": "FR",
+    "lat": 48.57489,
+    "lng": 2.45206
+  },
+  {
+    "name": "Ormesson-sur-Marne",
+    "country": "FR",
+    "lat": 48.7863,
+    "lng": 2.54471
+  },
+  {
+    "name": "Ormes",
+    "country": "FR",
+    "lat": 47.94152,
+    "lng": 1.81823
+  },
+  {
+    "name": "Orly",
+    "country": "FR",
+    "lat": 48.74792,
+    "lng": 2.39253
+  },
+  {
+    "name": "Orliénas",
+    "country": "FR",
+    "lat": 45.65886,
+    "lng": 4.71832
+  },
+  {
+    "name": "Orleix",
+    "country": "FR",
+    "lat": 43.27945,
+    "lng": 0.12043
+  },
+  {
+    "name": "Orléat",
+    "country": "FR",
+    "lat": 45.86059,
+    "lng": 3.42083
+  },
+  {
+    "name": "Orléans",
+    "country": "FR",
+    "lat": 47.90248,
+    "lng": 1.90407
+  },
+  {
+    "name": "Orival",
+    "country": "FR",
+    "lat": 49.72429,
+    "lng": 1.20512
+  },
+  {
+    "name": "Origny-Sainte-Benoite",
+    "country": "FR",
+    "lat": 49.83333,
+    "lng": 3.5
+  },
+  {
+    "name": "Origny-en-Thiérache",
+    "country": "FR",
+    "lat": 49.89327,
+    "lng": 4.01644
+  },
+  {
+    "name": "Orgueil",
+    "country": "FR",
+    "lat": 43.90618,
+    "lng": 1.41071
+  },
+  {
+    "name": "Orgon",
+    "country": "FR",
+    "lat": 43.79108,
+    "lng": 5.03869
+  },
+  {
+    "name": "Orgeval",
+    "country": "FR",
+    "lat": 48.92162,
+    "lng": 1.9779
+  },
+  {
+    "name": "Orgerus",
+    "country": "FR",
+    "lat": 48.83851,
+    "lng": 1.70132
+  },
+  {
+    "name": "Orgères-en-Beauce",
+    "country": "FR",
+    "lat": 48.14636,
+    "lng": 1.6838
+  },
+  {
+    "name": "Orgères",
+    "country": "FR",
+    "lat": 47.99847,
+    "lng": -1.66828
+  },
+  {
+    "name": "Orgelet",
+    "country": "FR",
+    "lat": 46.52096,
+    "lng": 5.61049
+  },
+  {
+    "name": "Orcines",
+    "country": "FR",
+    "lat": 45.78246,
+    "lng": 3.01234
+  },
+  {
+    "name": "Orchies",
+    "country": "FR",
+    "lat": 50.46667,
+    "lng": 3.23333
+  },
+  {
+    "name": "Orchamps-Vennes",
+    "country": "FR",
+    "lat": 47.13042,
+    "lng": 6.52468
+  },
+  {
+    "name": "Orchamps",
+    "country": "FR",
+    "lat": 47.14751,
+    "lng": 5.65873
+  },
+  {
+    "name": "Orcet",
+    "country": "FR",
+    "lat": 45.70355,
+    "lng": 3.16884
+  },
+  {
+    "name": "Orbey",
+    "country": "FR",
+    "lat": 48.12651,
+    "lng": 7.16455
+  },
+  {
+    "name": "Orbec",
+    "country": "FR",
+    "lat": 49.01667,
+    "lng": 0.41667
+  },
+  {
+    "name": "Orange",
+    "country": "FR",
+    "lat": 44.13806,
+    "lng": 4.81025
+  },
+  {
+    "name": "Oraison",
+    "country": "FR",
+    "lat": 43.91726,
+    "lng": 5.91836
+  },
+  {
+    "name": "Oradour-sur-Vayres",
+    "country": "FR",
+    "lat": 45.73189,
+    "lng": 0.86677
+  },
+  {
+    "name": "Oradour-sur-Glane",
+    "country": "FR",
+    "lat": 45.9333,
+    "lng": 1.03078
+  },
+  {
+    "name": "Orwell",
+    "country": "GB",
+    "lat": 52.1356,
+    "lng": -0.01099
+  },
+  {
+    "name": "Orsett",
+    "country": "GB",
+    "lat": 51.51232,
+    "lng": 0.36753
+  },
+  {
+    "name": "Orpington",
+    "country": "GB",
+    "lat": 51.37457,
+    "lng": 0.09785
+  },
+  {
+    "name": "Ormskirk",
+    "country": "GB",
+    "lat": 53.56685,
+    "lng": -2.88178
+  },
+  {
+    "name": "Ormiston",
+    "country": "GB",
+    "lat": 55.91302,
+    "lng": -2.93985
+  },
+  {
+    "name": "Ormesby St Margaret",
+    "country": "GB",
+    "lat": 52.67506,
+    "lng": 1.6885
+  },
+  {
+    "name": "Orleton",
+    "country": "GB",
+    "lat": 52.3,
+    "lng": -2.75
+  },
+  {
+    "name": "Orgreave",
+    "country": "GB",
+    "lat": 53.38333,
+    "lng": -1.36667
+  },
+  {
+    "name": "Orsant’ia",
+    "country": "GE",
+    "lat": 42.46777,
+    "lng": 41.67377
+  },
+  {
+    "name": "Oropós",
+    "country": "GR",
+    "lat": 38.30326,
+    "lng": 23.75549
+  },
+  {
+    "name": "Orchomenós",
+    "country": "GR",
+    "lat": 38.4929,
+    "lng": 22.97962
+  },
+  {
+    "name": "Oreoí",
+    "country": "GR",
+    "lat": 38.95034,
+    "lng": 23.09191
+  },
+  {
+    "name": "Ormýlia",
+    "country": "GR",
+    "lat": 40.29451,
+    "lng": 23.54332
+  },
+  {
+    "name": "Orestiáda",
+    "country": "GR",
+    "lat": 41.50306,
+    "lng": 26.52972
+  },
+  {
+    "name": "Oraiókastro",
+    "country": "GR",
+    "lat": 40.73083,
+    "lng": 22.91722
+  },
+  {
+    "name": "Ornós",
+    "country": "GR",
+    "lat": 37.42391,
+    "lng": 25.32248
+  },
+  {
+    "name": "Oratorio",
+    "country": "GT",
+    "lat": 14.22806,
+    "lng": -90.17583
+  },
+  {
+    "name": "Oropolí",
+    "country": "HN",
+    "lat": 13.81667,
+    "lng": -86.81667
+  },
+  {
+    "name": "Oropéndolas",
+    "country": "HN",
+    "lat": 15.01667,
+    "lng": -87.93333
+  },
+  {
+    "name": "Orocuina",
+    "country": "HN",
+    "lat": 13.48167,
+    "lng": -87.105
+  },
+  {
+    "name": "Orica",
+    "country": "HN",
+    "lat": 14.7,
+    "lng": -86.95
+  },
+  {
+    "name": "Oroslavje",
+    "country": "HR",
+    "lat": 45.99672,
+    "lng": 15.91507
+  },
+  {
+    "name": "Orle",
+    "country": "HR",
+    "lat": 45.68333,
+    "lng": 16.23333
+  },
+  {
+    "name": "Oriovac",
+    "country": "HR",
+    "lat": 45.16611,
+    "lng": 17.76
+  },
+  {
+    "name": "Orešje",
+    "country": "HR",
+    "lat": 45.81618,
+    "lng": 15.80246
+  },
+  {
+    "name": "Orehovica",
+    "country": "HR",
+    "lat": 46.33167,
+    "lng": 16.50694
+  },
+  {
+    "name": "Orebić",
+    "country": "HR",
+    "lat": 42.9767,
+    "lng": 17.18619
+  },
+  {
+    "name": "Orahovica",
+    "country": "HR",
+    "lat": 45.52954,
+    "lng": 17.87977
+  },
+  {
+    "name": "Orišje",
+    "country": "HR",
+    "lat": 45.40485,
+    "lng": 15.29114
+  },
+  {
+    "name": "Orosháza",
+    "country": "HU",
+    "lat": 46.56667,
+    "lng": 20.66667
+  },
+  {
+    "name": "Oroszlány",
+    "country": "HU",
+    "lat": 47.48671,
+    "lng": 18.31225
+  },
+  {
+    "name": "Orgovány",
+    "country": "HU",
+    "lat": 46.75087,
+    "lng": 19.47259
+  },
+  {
+    "name": "Orczynegyed",
+    "country": "HU",
+    "lat": 47.48541,
+    "lng": 19.08847
+  },
+  {
+    "name": "Orbánhegy",
+    "country": "HU",
+    "lat": 47.49539,
+    "lng": 19.00583
+  },
+  {
+    "name": "Oransbari",
+    "country": "ID",
+    "lat": -1.3442,
+    "lng": 134.2587
+  },
+  {
+    "name": "Oranmore",
+    "country": "IE",
+    "lat": 53.26833,
+    "lng": -8.92
+  },
+  {
+    "name": "Or Yehuda",
+    "country": "IL",
+    "lat": 32.02923,
+    "lng": 34.85788
+  },
+  {
+    "name": "Or Akiva",
+    "country": "IL",
+    "lat": 32.5064,
+    "lng": 34.92087
+  },
+  {
+    "name": "Ora",
+    "country": "IL",
+    "lat": 31.75519,
+    "lng": 35.15613
+  },
+  {
+    "name": "Orchha",
+    "country": "IN",
+    "lat": 25.35192,
+    "lng": 78.64033
+  },
+  {
+    "name": "Orathanadu",
+    "country": "IN",
+    "lat": 10.62324,
+    "lng": 79.25494
+  },
+  {
+    "name": "Oran",
+    "country": "IN",
+    "lat": 25.36882,
+    "lng": 80.7423
+  },
+  {
+    "name": "Orai",
+    "country": "IN",
+    "lat": 25.99023,
+    "lng": 79.45334
+  },
+  {
+    "name": "Orīkkai",
+    "country": "IN",
+    "lat": 12.80164,
+    "lng": 79.71106
+  },
+  {
+    "name": "Orumanayūr",
+    "country": "IN",
+    "lat": 10.57007,
+    "lng": 76.02912
+  },
+  {
+    "name": "Orla",
+    "country": "IN",
+    "lat": 23.72261,
+    "lng": 85.48862
+  },
+  {
+    "name": "Orgao",
+    "country": "IN",
+    "lat": 15.51397,
+    "lng": 73.95939
+  },
+  {
+    "name": "Orvad",
+    "country": "IN",
+    "lat": 20.45269,
+    "lng": 72.92024
+  },
+  {
+    "name": "Ordnance Factory Itarsi",
+    "country": "IN",
+    "lat": 22.5733,
+    "lng": 77.86529
+  },
+  {
+    "name": "Orūmīyeh",
+    "country": "IR",
+    "lat": 37.55274,
+    "lng": 45.07605
+  },
+  {
+    "name": "Orzū’īyeh",
+    "country": "IR",
+    "lat": 28.45318,
+    "lng": 56.35994
+  },
+  {
+    "name": "Ortacesus",
+    "country": "IT",
+    "lat": 39.53904,
+    "lng": 9.08695
+  },
+  {
+    "name": "Orsomarso",
+    "country": "IT",
+    "lat": 39.7991,
+    "lng": 15.90748
+  },
+  {
+    "name": "Orroli",
+    "country": "IT",
+    "lat": 39.69237,
+    "lng": 9.24995
+  },
+  {
+    "name": "Oristano",
+    "country": "IT",
+    "lat": 39.9036,
+    "lng": 8.59257
+  },
+  {
+    "name": "Orzivecchi",
+    "country": "IT",
+    "lat": 45.42058,
+    "lng": 9.96326
+  },
+  {
+    "name": "Orzinuovi",
+    "country": "IT",
+    "lat": 45.40191,
+    "lng": 9.92319
+  },
+  {
+    "name": "Orvinio",
+    "country": "IT",
+    "lat": 42.13039,
+    "lng": 12.93762
+  },
+  {
+    "name": "Orvieto",
+    "country": "IT",
+    "lat": 42.71924,
+    "lng": 12.11249
+  },
+  {
+    "name": "Orune",
+    "country": "IT",
+    "lat": 40.40786,
+    "lng": 9.36963
+  },
+  {
+    "name": "Ortueri",
+    "country": "IT",
+    "lat": 40.03545,
+    "lng": 8.98591
+  },
+  {
+    "name": "Ortucchio",
+    "country": "IT",
+    "lat": 41.95525,
+    "lng": 13.64651
+  },
+  {
+    "name": "Ortovero",
+    "country": "IT",
+    "lat": 44.05385,
+    "lng": 8.0995
+  },
+  {
+    "name": "Ortona dei Marsi",
+    "country": "IT",
+    "lat": 41.9982,
+    "lng": 13.72909
+  },
+  {
+    "name": "Ortona",
+    "country": "IT",
+    "lat": 42.35087,
+    "lng": 14.40342
+  },
+  {
+    "name": "Ortisei",
+    "country": "IT",
+    "lat": 46.57603,
+    "lng": 11.67176
+  },
+  {
+    "name": "Ortignano Raggiolo",
+    "country": "IT",
+    "lat": 43.67995,
+    "lng": 11.74883
+  },
+  {
+    "name": "Ortezzano",
+    "country": "IT",
+    "lat": 43.03042,
+    "lng": 13.60531
+  },
+  {
+    "name": "Ortelle",
+    "country": "IT",
+    "lat": 40.03371,
+    "lng": 18.39125
+  },
+  {
+    "name": "Orte",
+    "country": "IT",
+    "lat": 42.46117,
+    "lng": 12.38635
+  },
+  {
+    "name": "Orta San Giulio",
+    "country": "IT",
+    "lat": 45.79727,
+    "lng": 8.41437
+  },
+  {
+    "name": "Orta Nova",
+    "country": "IT",
+    "lat": 41.32879,
+    "lng": 15.70994
+  },
+  {
+    "name": "Orsogna",
+    "country": "IT",
+    "lat": 42.22344,
+    "lng": 14.28085
+  },
+  {
+    "name": "Orsenigo",
+    "country": "IT",
+    "lat": 45.77839,
+    "lng": 9.17963
+  },
+  {
+    "name": "Orsara di Puglia",
+    "country": "IT",
+    "lat": 41.28163,
+    "lng": 15.26765
+  },
+  {
+    "name": "Orria",
+    "country": "IT",
+    "lat": 40.29971,
+    "lng": 15.17116
+  },
+  {
+    "name": "Orotelli",
+    "country": "IT",
+    "lat": 40.30663,
+    "lng": 9.1215
+  },
+  {
+    "name": "Orosei",
+    "country": "IT",
+    "lat": 40.37826,
+    "lng": 9.69248
+  },
+  {
+    "name": "Ornica",
+    "country": "IT",
+    "lat": 45.98892,
+    "lng": 9.57848
+  },
+  {
+    "name": "Ornavasso",
+    "country": "IT",
+    "lat": 45.96795,
+    "lng": 8.41584
+  },
+  {
+    "name": "Ornago",
+    "country": "IT",
+    "lat": 45.59987,
+    "lng": 9.42099
+  },
+  {
+    "name": "Ormea",
+    "country": "IT",
+    "lat": 44.1487,
+    "lng": 7.91199
+  },
+  {
+    "name": "Oriolo Romano",
+    "country": "IT",
+    "lat": 42.16261,
+    "lng": 12.13859
+  },
+  {
+    "name": "Oriolo",
+    "country": "IT",
+    "lat": 40.0532,
+    "lng": 16.44663
+  },
+  {
+    "name": "Orio Litta",
+    "country": "IT",
+    "lat": 45.16244,
+    "lng": 9.55447
+  },
+  {
+    "name": "Orio Canavese",
+    "country": "IT",
+    "lat": 45.32883,
+    "lng": 7.85991
+  },
+  {
+    "name": "Orio al Serio",
+    "country": "IT",
+    "lat": 45.6749,
+    "lng": 9.69083
+  },
+  {
+    "name": "Origgio",
+    "country": "IT",
+    "lat": 45.59676,
+    "lng": 9.01645
+  },
+  {
+    "name": "Oricola",
+    "country": "IT",
+    "lat": 42.04922,
+    "lng": 13.03939
+  },
+  {
+    "name": "Oria",
+    "country": "IT",
+    "lat": 40.49999,
+    "lng": 17.6428
+  },
+  {
+    "name": "Orgosolo",
+    "country": "IT",
+    "lat": 40.2053,
+    "lng": 9.35445
+  },
+  {
+    "name": "Orgiano",
+    "country": "IT",
+    "lat": 45.33366,
+    "lng": 11.45953
+  },
+  {
+    "name": "Ordona",
+    "country": "IT",
+    "lat": 41.31501,
+    "lng": 15.62832
+  },
+  {
+    "name": "Orciano di Pesaro",
+    "country": "IT",
+    "lat": 43.68938,
+    "lng": 12.97206
+  },
+  {
+    "name": "Orcenico Inferiore",
+    "country": "IT",
+    "lat": 45.94977,
+    "lng": 12.76452
+  },
+  {
+    "name": "Orbetello",
+    "country": "IT",
+    "lat": 42.44158,
+    "lng": 11.2214
+  },
+  {
+    "name": "Orbassano",
+    "country": "IT",
+    "lat": 45.00547,
+    "lng": 7.53813
+  },
+  {
+    "name": "Oratino",
+    "country": "IT",
+    "lat": 41.58598,
+    "lng": 14.59463
+  },
+  {
+    "name": "Orani",
+    "country": "IT",
+    "lat": 40.252,
+    "lng": 9.18149
+  },
+  {
+    "name": "Ora",
+    "country": "IT",
+    "lat": 46.34687,
+    "lng": 11.29747
+  },
+  {
+    "name": "Ormelle",
+    "country": "IT",
+    "lat": 45.7778,
+    "lng": 12.42429
+  },
+  {
+    "name": "Orsago",
+    "country": "IT",
+    "lat": 45.92965,
+    "lng": 12.42712
+  },
+  {
+    "name": "Orsaria",
+    "country": "IT",
+    "lat": 46.03862,
+    "lng": 13.38247
+  },
+  {
+    "name": "Orta di Atella",
+    "country": "IT",
+    "lat": 40.96441,
+    "lng": 14.26854
+  },
+  {
+    "name": "Orero",
+    "country": "IT",
+    "lat": 44.40835,
+    "lng": 9.26707
+  },
+  {
+    "name": "Orino",
+    "country": "IT",
+    "lat": 45.88148,
+    "lng": 8.71563
+  },
+  {
+    "name": "Orco Feglino",
+    "country": "IT",
+    "lat": 44.22023,
+    "lng": 8.32455
+  },
+  {
+    "name": "Orsara Bormida",
+    "country": "IT",
+    "lat": 44.69015,
+    "lng": 8.56275
+  },
+  {
+    "name": "Orciano Pisano",
+    "country": "IT",
+    "lat": 43.49444,
+    "lng": 10.51151
+  },
+  {
+    "name": "Orentano",
+    "country": "IT",
+    "lat": 43.77907,
+    "lng": 10.65939
+  },
+  {
+    "name": "Orzignano",
+    "country": "IT",
+    "lat": 43.77408,
+    "lng": 10.42382
+  },
+  {
+    "name": "Orvieto Scalo",
+    "country": "IT",
+    "lat": 42.72088,
+    "lng": 12.13402
+  },
+  {
+    "name": "Orbetello Scalo",
+    "country": "IT",
+    "lat": 42.44828,
+    "lng": 11.2481
+  },
+  {
+    "name": "Orte Scalo",
+    "country": "IT",
+    "lat": 42.43483,
+    "lng": 12.40783
+  },
+  {
+    "name": "Oracabessa",
+    "country": "JM",
+    "lat": 18.40319,
+    "lng": -76.94641
+  },
+  {
+    "name": "Ortum",
+    "country": "KE",
+    "lat": 1.43735,
+    "lng": 35.35629
+  },
+  {
+    "name": "Orozbekovo",
+    "country": "KG",
+    "lat": 40.05689,
+    "lng": 71.66945
+  },
+  {
+    "name": "Ormosh",
+    "country": "KG",
+    "lat": 39.94591,
+    "lng": 71.26086
+  },
+  {
+    "name": "Oral",
+    "country": "KZ",
+    "lat": 51.24601,
+    "lng": 51.42558
+  },
+  {
+    "name": "Orhei",
+    "country": "MD",
+    "lat": 47.38503,
+    "lng": 28.82535
+  },
+  {
+    "name": "Orizari",
+    "country": "MK",
+    "lat": 41.92262,
+    "lng": 22.44628
+  },
+  {
+    "name": "Orashac",
+    "country": "MK",
+    "lat": 42.0625,
+    "lng": 21.79972
+  },
+  {
+    "name": "Oraovica",
+    "country": "MK",
+    "lat": 41.62583,
+    "lng": 22.51333
+  },
+  {
+    "name": "Orgil",
+    "country": "MN",
+    "lat": 48.58722,
+    "lng": 99.35083
+  },
+  {
+    "name": "Orhontuul",
+    "country": "MN",
+    "lat": 48.94972,
+    "lng": 104.97583
+  },
+  {
+    "name": "Orgil",
+    "country": "MN",
+    "lat": 48.4538,
+    "lng": 105.31769
+  },
+  {
+    "name": "Orhon",
+    "country": "MN",
+    "lat": 49.8325,
+    "lng": 106.13639
+  },
+  {
+    "name": "Orizabita",
+    "country": "MX",
+    "lat": 20.58338,
+    "lng": -99.20874
+  },
+  {
+    "name": "Orizaba",
+    "country": "MX",
+    "lat": 18.85195,
+    "lng": -97.09957
+  },
+  {
+    "name": "Orilla del Monte",
+    "country": "MX",
+    "lat": 19.66078,
+    "lng": -97.29274
+  },
+  {
+    "name": "Oriental",
+    "country": "MX",
+    "lat": 19.37614,
+    "lng": -97.62051
+  },
+  {
+    "name": "Oriente 1ra. Sección",
+    "country": "MX",
+    "lat": 18.33889,
+    "lng": -93.20056
+  },
+  {
+    "name": "Orranteño",
+    "country": "MX",
+    "lat": 28.18272,
+    "lng": -105.33774
+  },
+  {
+    "name": "Ortiz",
+    "country": "MX",
+    "lat": 28.28937,
+    "lng": -110.71433
+  },
+  {
+    "name": "Orduña de Abajo",
+    "country": "MX",
+    "lat": 20.75806,
+    "lng": -100.78278
+  },
+  {
+    "name": "Orizaba",
+    "country": "MX",
+    "lat": 23.9575,
+    "lng": -104.07389
+  },
+  {
+    "name": "Orba (Infiernito)",
+    "country": "MX",
+    "lat": 25.68944,
+    "lng": -108.36278
+  },
+  {
+    "name": "Oriente 6ta. Sección (Los Mulatos)",
+    "country": "MX",
+    "lat": 18.16722,
+    "lng": -93.23583
+  },
+  {
+    "name": "Oriente 1ra. Sección (Santo Domingo)",
+    "country": "MX",
+    "lat": 18.26417,
+    "lng": -93.20306
+  },
+  {
+    "name": "Oriente 2da. Sección (Palma Huaca)",
+    "country": "MX",
+    "lat": 18.32917,
+    "lng": -93.18528
+  },
+  {
+    "name": "Oriente 2da. Sección (San Cayetano)",
+    "country": "MX",
+    "lat": 18.18667,
+    "lng": -93.22944
+  },
+  {
+    "name": "Oriental de Zapata",
+    "country": "MX",
+    "lat": 19.98528,
+    "lng": -99.03167
+  },
+  {
+    "name": "Orduña de Arriba",
+    "country": "MX",
+    "lat": 20.76583,
+    "lng": -100.79262
+  },
+  {
+    "name": "Oranjemund",
+    "country": "NA",
+    "lat": -28.55153,
+    "lng": 16.42728
+  },
+  {
+    "name": "Orphelinat",
+    "country": "NC",
+    "lat": -22.28238,
+    "lng": 166.44437
+  },
+  {
+    "name": "Oron",
+    "country": "NG",
+    "lat": 4.82171,
+    "lng": 8.23504
+  },
+  {
+    "name": "Orodo",
+    "country": "NG",
+    "lat": 5.61667,
+    "lng": 7.03333
+  },
+  {
+    "name": "Orlu",
+    "country": "NG",
+    "lat": 5.79565,
+    "lng": 7.03513
+  },
+  {
+    "name": "Orita-Eruwa",
+    "country": "NG",
+    "lat": 7.55632,
+    "lng": 3.44107
+  },
+  {
+    "name": "Orerokpe",
+    "country": "NG",
+    "lat": 5.63747,
+    "lng": 5.89013
+  },
+  {
+    "name": "Ore",
+    "country": "NG",
+    "lat": 6.74716,
+    "lng": 4.8761
+  },
+  {
+    "name": "Orthen",
+    "country": "NL",
+    "lat": 51.70613,
+    "lng": 5.30468
+  },
+  {
+    "name": "Orden",
+    "country": "NL",
+    "lat": 52.20113,
+    "lng": 5.93417
+  },
+  {
+    "name": "Oranjewoud",
+    "country": "NL",
+    "lat": 52.94579,
+    "lng": 5.95038
+  },
+  {
+    "name": "Oranjewijk",
+    "country": "NL",
+    "lat": 52.04922,
+    "lng": 4.65374
+  },
+  {
+    "name": "Orkanger",
+    "country": "NO",
+    "lat": 63.30668,
+    "lng": 9.85025
+  },
+  {
+    "name": "Oropi",
+    "country": "NZ",
+    "lat": -37.83948,
+    "lng": 176.16105
+  },
+  {
+    "name": "Orewa",
+    "country": "NZ",
+    "lat": -36.581,
+    "lng": 174.679
+  },
+  {
+    "name": "Oratia",
+    "country": "NZ",
+    "lat": -36.91667,
+    "lng": 174.61667
+  },
+  {
+    "name": "Oranga",
+    "country": "NZ",
+    "lat": -36.9082,
+    "lng": 174.79019
+  },
+  {
+    "name": "Oriental Bay",
+    "country": "NZ",
+    "lat": -41.29174,
+    "lng": 174.79385
+  },
+  {
+    "name": "Oria Arriba",
+    "country": "PA",
+    "lat": 7.50749,
+    "lng": -80.20603
+  },
+  {
+    "name": "Orellana",
+    "country": "PE",
+    "lat": -6.9,
+    "lng": -75.16667
+  },
+  {
+    "name": "Orurillo",
+    "country": "PE",
+    "lat": -14.72753,
+    "lng": -70.51174
+  },
+  {
+    "name": "Oropesa",
+    "country": "PE",
+    "lat": -14.25611,
+    "lng": -72.555
+  },
+  {
+    "name": "Oropesa",
+    "country": "PE",
+    "lat": -13.59454,
+    "lng": -71.7636
+  },
+  {
+    "name": "Orcotuna",
+    "country": "PE",
+    "lat": -11.96886,
+    "lng": -75.3078
+  },
+  {
+    "name": "Orcopampa",
+    "country": "PE",
+    "lat": -15.26611,
+    "lng": -72.34167
+  },
+  {
+    "name": "Oronccoy",
+    "country": "PE",
+    "lat": -13.38028,
+    "lng": -73.43528
+  },
+  {
+    "name": "Oroquieta",
+    "country": "PH",
+    "lat": 8.4859,
+    "lng": 123.8048
+  },
+  {
+    "name": "Orong",
+    "country": "PH",
+    "lat": 9.9373,
+    "lng": 122.829
+  },
+  {
+    "name": "Ormoc",
+    "country": "PH",
+    "lat": 11.00639,
+    "lng": 124.6075
+  },
+  {
+    "name": "Orion",
+    "country": "PH",
+    "lat": 14.62056,
+    "lng": 120.58167
+  },
+  {
+    "name": "Oras",
+    "country": "PH",
+    "lat": 12.1406,
+    "lng": 125.4397
+  },
+  {
+    "name": "Orani",
+    "country": "PH",
+    "lat": 14.8006,
+    "lng": 120.5371
+  },
+  {
+    "name": "Oracon",
+    "country": "PH",
+    "lat": 10.4782,
+    "lng": 122.5839
+  },
+  {
+    "name": "Ormara",
+    "country": "PK",
+    "lat": 25.21018,
+    "lng": 64.63626
+  },
+  {
+    "name": "Orzysz",
+    "country": "PL",
+    "lat": 53.80967,
+    "lng": 21.94811
+  },
+  {
+    "name": "Orzechówka",
+    "country": "PL",
+    "lat": 49.7308,
+    "lng": 21.94519
+  },
+  {
+    "name": "Orońsko",
+    "country": "PL",
+    "lat": 51.31339,
+    "lng": 20.99067
+  },
+  {
+    "name": "Orneta",
+    "country": "PL",
+    "lat": 54.11483,
+    "lng": 20.13328
+  },
+  {
+    "name": "Orły",
+    "country": "PL",
+    "lat": 49.87107,
+    "lng": 22.80298
+  },
+  {
+    "name": "Orla",
+    "country": "PL",
+    "lat": 52.70546,
+    "lng": 23.33213
+  },
+  {
+    "name": "Orzesze",
+    "country": "PL",
+    "lat": 50.15595,
+    "lng": 18.77923
+  },
+  {
+    "name": "Orzech",
+    "country": "PL",
+    "lat": 50.42744,
+    "lng": 18.92275
+  },
+  {
+    "name": "Ornontowice",
+    "country": "PL",
+    "lat": 50.19377,
+    "lng": 18.75435
+  },
+  {
+    "name": "Orle",
+    "country": "PL",
+    "lat": 54.64022,
+    "lng": 18.17057
+  },
+  {
+    "name": "Orchowo",
+    "country": "PL",
+    "lat": 52.50938,
+    "lng": 18.01578
+  },
+  {
+    "name": "Orunia-Św. Wojciech-Lipce",
+    "country": "PL",
+    "lat": 54.31469,
+    "lng": 18.63685
+  },
+  {
+    "name": "Orunia Górna-Gdańsk Południe",
+    "country": "PL",
+    "lat": 54.32491,
+    "lng": 18.61567
+  },
+  {
+    "name": "Orocovis",
+    "country": "PR",
+    "lat": 18.2269,
+    "lng": -66.391
+  },
+  {
+    "name": "Oranit",
+    "country": "PS",
+    "lat": 32.13165,
+    "lng": 34.99094
+  },
+  {
+    "name": "Orţişoara",
+    "country": "RO",
+    "lat": 45.96361,
+    "lng": 21.19833
+  },
+  {
+    "name": "Orşova",
+    "country": "RO",
+    "lat": 44.72299,
+    "lng": 22.39619
+  },
+  {
+    "name": "Oroftiana",
+    "country": "RO",
+    "lat": 48.17758,
+    "lng": 26.34856
+  },
+  {
+    "name": "Orodel",
+    "country": "RO",
+    "lat": 44.23333,
+    "lng": 23.23333
+  },
+  {
+    "name": "Ormeniş",
+    "country": "RO",
+    "lat": 46.01667,
+    "lng": 25.55
+  },
+  {
+    "name": "Orleşti",
+    "country": "RO",
+    "lat": 44.8,
+    "lng": 24.21667
+  },
+  {
+    "name": "Orlea Nouă",
+    "country": "RO",
+    "lat": 43.75522,
+    "lng": 24.35834
+  },
+  {
+    "name": "Orlea",
+    "country": "RO",
+    "lat": 43.75,
+    "lng": 24.38333
+  },
+  {
+    "name": "Orlat",
+    "country": "RO",
+    "lat": 45.75,
+    "lng": 23.96667
+  },
+  {
+    "name": "Orevița Mare",
+    "country": "RO",
+    "lat": 44.45715,
+    "lng": 22.91317
+  },
+  {
+    "name": "Oreavu",
+    "country": "RO",
+    "lat": 45.36826,
+    "lng": 27.02301
+  },
+  {
+    "name": "Orbeni",
+    "country": "RO",
+    "lat": 46.28333,
+    "lng": 27.01667
+  },
+  {
+    "name": "Orbeasca de Sus",
+    "country": "RO",
+    "lat": 44.15,
+    "lng": 25.31667
+  },
+  {
+    "name": "Orbeasca de Jos",
+    "country": "RO",
+    "lat": 44.12177,
+    "lng": 25.32952
+  },
+  {
+    "name": "Oraviţa",
+    "country": "RO",
+    "lat": 45.0325,
+    "lng": 21.68944
+  },
+  {
+    "name": "Oraşu Nou",
+    "country": "RO",
+    "lat": 47.83333,
+    "lng": 23.28333
+  },
+  {
+    "name": "Orăştioara de Sus",
+    "country": "RO",
+    "lat": 45.73333,
+    "lng": 23.16667
+  },
+  {
+    "name": "Orăştie",
+    "country": "RO",
+    "lat": 45.83333,
+    "lng": 23.2
+  },
+  {
+    "name": "Orășeni-Deal",
+    "country": "RO",
+    "lat": 47.67597,
+    "lng": 26.67671
+  },
+  {
+    "name": "Orășa",
+    "country": "RO",
+    "lat": 46.42225,
+    "lng": 26.7437
+  },
+  {
+    "name": "Oradea",
+    "country": "RO",
+    "lat": 47.0458,
+    "lng": 21.91833
+  },
+  {
+    "name": "Orlovat",
+    "country": "RS",
+    "lat": 45.24171,
+    "lng": 20.58089
+  },
+  {
+    "name": "Orud’yevo",
+    "country": "RU",
+    "lat": 56.43333,
+    "lng": 37.53333
+  },
+  {
+    "name": "Orsk",
+    "country": "RU",
+    "lat": 51.23206,
+    "lng": 58.48802
+  },
+  {
+    "name": "Orshanka",
+    "country": "RU",
+    "lat": 56.91729,
+    "lng": 47.89636
+  },
+  {
+    "name": "Orsha",
+    "country": "RU",
+    "lat": 56.91196,
+    "lng": 36.22862
+  },
+  {
+    "name": "Orlovskiy",
+    "country": "RU",
+    "lat": 46.87441,
+    "lng": 42.05223
+  },
+  {
+    "name": "Orlovo",
+    "country": "RU",
+    "lat": 51.7592,
+    "lng": 39.5882
+  },
+  {
+    "name": "Orlovka",
+    "country": "RU",
+    "lat": 44.69139,
+    "lng": 44.17444
+  },
+  {
+    "name": "Orichi",
+    "country": "RU",
+    "lat": 58.40138,
+    "lng": 49.05982
+  },
+  {
+    "name": "Orgtrud",
+    "country": "RU",
+    "lat": 56.1832,
+    "lng": 40.6149
+  },
+  {
+    "name": "Orenburg",
+    "country": "RU",
+    "lat": 51.76712,
+    "lng": 55.09883
+  },
+  {
+    "name": "Orël",
+    "country": "RU",
+    "lat": 52.96879,
+    "lng": 36.0791
+  },
+  {
+    "name": "Orekhovo-Zuyevo",
+    "country": "RU",
+    "lat": 55.81242,
+    "lng": 38.99155
+  },
+  {
+    "name": "Orekhovo-Borisovo Severnoye",
+    "country": "RU",
+    "lat": 55.61667,
+    "lng": 37.68333
+  },
+  {
+    "name": "Ordzhonikidzevskiy",
+    "country": "RU",
+    "lat": 43.84233,
+    "lng": 41.89636
+  },
+  {
+    "name": "Orda",
+    "country": "RU",
+    "lat": 57.19197,
+    "lng": 56.90462
+  },
+  {
+    "name": "Oranzherei",
+    "country": "RU",
+    "lat": 45.84756,
+    "lng": 47.56635
+  },
+  {
+    "name": "Orlov",
+    "country": "RU",
+    "lat": 58.53917,
+    "lng": 48.89166
+  },
+  {
+    "name": "Orekhovo-Borisovo Yuzhnoye",
+    "country": "RU",
+    "lat": 55.63333,
+    "lng": 37.73333
+  },
+  {
+    "name": "Orël-Izumrud",
+    "country": "RU",
+    "lat": 43.46005,
+    "lng": 39.92377
+  },
+  {
+    "name": "Orlik",
+    "country": "RU",
+    "lat": 52.51537,
+    "lng": 99.82574
+  },
+  {
+    "name": "Ordynskoye",
+    "country": "RU",
+    "lat": 54.36225,
+    "lng": 81.88658
+  },
+  {
+    "name": "Orlovskiy",
+    "country": "RU",
+    "lat": 51.0419,
+    "lng": 114.84818
+  },
+  {
+    "name": "Orotukan",
+    "country": "RU",
+    "lat": 62.26392,
+    "lng": 151.6698
+  },
+  {
+    "name": "Orekhovo-Borisovo",
+    "country": "RU",
+    "lat": 55.61252,
+    "lng": 37.72639
+  },
+  {
+    "name": "Orsa",
+    "country": "SE",
+    "lat": 61.12034,
+    "lng": 14.6155
+  },
+  {
+    "name": "Ornäs",
+    "country": "SE",
+    "lat": 60.50944,
+    "lng": 15.54128
+  },
+  {
+    "name": "Ormož",
+    "country": "SI",
+    "lat": 46.4121,
+    "lng": 16.1522
+  },
+  {
+    "name": "Orechová Potôň",
+    "country": "SK",
+    "lat": 48.01708,
+    "lng": 17.53806
+  },
+  {
+    "name": "Oravský Podzámok",
+    "country": "SK",
+    "lat": 49.25939,
+    "lng": 19.3569
+  },
+  {
+    "name": "Oravská Lesná",
+    "country": "SK",
+    "lat": 49.36672,
+    "lng": 19.18093
+  },
+  {
+    "name": "Orzu",
+    "country": "TJ",
+    "lat": 37.5582,
+    "lng": 68.81952
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 39.42153,
+    "lng": 36.23403
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 38.73728,
+    "lng": 34.03866
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 37.32783,
+    "lng": 43.28061
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 37.22296,
+    "lng": 40.78404
+  },
+  {
+    "name": "Ortaklar",
+    "country": "TR",
+    "lat": 37.88788,
+    "lng": 27.50234
+  },
+  {
+    "name": "Ortyakent Yahşi",
+    "country": "TR",
+    "lat": 37.04944,
+    "lng": 27.34833
+  },
+  {
+    "name": "Ortaca",
+    "country": "TR",
+    "lat": 37.47417,
+    "lng": 41.55596
+  },
+  {
+    "name": "Ortaca",
+    "country": "TR",
+    "lat": 36.83915,
+    "lng": 28.76457
+  },
+  {
+    "name": "Ortabağ",
+    "country": "TR",
+    "lat": 37.39671,
+    "lng": 42.9101
+  },
+  {
+    "name": "Orhaneli",
+    "country": "TR",
+    "lat": 39.90333,
+    "lng": 28.99056
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 41.25104,
+    "lng": 41.98363
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 41.10154,
+    "lng": 28.37588
+  },
+  {
+    "name": "Ortakent",
+    "country": "TR",
+    "lat": 40.39367,
+    "lng": 38.01028
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 40.27352,
+    "lng": 35.25175
+  },
+  {
+    "name": "Ortacalar",
+    "country": "TR",
+    "lat": 41.27896,
+    "lng": 41.37887
+  },
+  {
+    "name": "Orta",
+    "country": "TR",
+    "lat": 40.6242,
+    "lng": 33.10928
+  },
+  {
+    "name": "Ormanlı",
+    "country": "TR",
+    "lat": 41.16472,
+    "lng": 31.61417
+  },
+  {
+    "name": "Ormankadı",
+    "country": "TR",
+    "lat": 40.14773,
+    "lng": 28.45182
+  },
+  {
+    "name": "Orhangazi",
+    "country": "TR",
+    "lat": 40.48917,
+    "lng": 29.30889
+  },
+  {
+    "name": "Ordu",
+    "country": "TR",
+    "lat": 40.97782,
+    "lng": 37.89047
+  },
+  {
+    "name": "Ortaköy",
+    "country": "TR",
+    "lat": 40.97305,
+    "lng": 30.67686
+  },
+  {
+    "name": "Orzhytsya",
+    "country": "UA",
+    "lat": 49.78949,
+    "lng": 32.69794
+  },
+  {
+    "name": "Orzhiv",
+    "country": "UA",
+    "lat": 50.75227,
+    "lng": 26.11907
+  },
+  {
+    "name": "Orlovskoye",
+    "country": "UA",
+    "lat": 45.8107,
+    "lng": 33.97308
+  },
+  {
+    "name": "Orlivka",
+    "country": "UA",
+    "lat": 45.31659,
+    "lng": 28.44046
+  },
+  {
+    "name": "Orlinoye",
+    "country": "UA",
+    "lat": 44.44685,
+    "lng": 33.77588
+  },
+  {
+    "name": "Orlyk",
+    "country": "UA",
+    "lat": 48.85964,
+    "lng": 34.23279
+  },
+  {
+    "name": "Orikhivka",
+    "country": "UA",
+    "lat": 49.96968,
+    "lng": 33.27312
+  },
+  {
+    "name": "Orikhivka",
+    "country": "UA",
+    "lat": 45.80679,
+    "lng": 28.90336
+  },
+  {
+    "name": "Orikhiv",
+    "country": "UA",
+    "lat": 47.57613,
+    "lng": 35.78333
+  },
+  {
+    "name": "Ordzhonikidze",
+    "country": "UA",
+    "lat": 44.96401,
+    "lng": 35.35576
+  },
+  {
+    "name": "Orativ",
+    "country": "UA",
+    "lat": 49.18594,
+    "lng": 29.52889
+  },
+  {
+    "name": "Orshivtsi",
+    "country": "UA",
+    "lat": 48.4196,
+    "lng": 25.63075
+  },
+  {
+    "name": "Orekhovo",
+    "country": "UA",
+    "lat": 45.12944,
+    "lng": 33.6318
+  },
+  {
+    "name": "Orzhiv",
+    "country": "UA",
+    "lat": 50.8,
+    "lng": 26.12
+  },
+  {
+    "name": "Orange Beach",
+    "country": "US",
+    "lat": 30.29437,
+    "lng": -87.57359
+  },
+  {
+    "name": "Orange City",
+    "country": "US",
+    "lat": 28.94888,
+    "lng": -81.29867
+  },
+  {
+    "name": "Orange Park",
+    "country": "US",
+    "lat": 30.16607,
+    "lng": -81.70648
+  },
+  {
+    "name": "Orangetree",
+    "country": "US",
+    "lat": 26.29286,
+    "lng": -81.58842
+  },
+  {
+    "name": "Oriole Beach",
+    "country": "US",
+    "lat": 30.37381,
+    "lng": -87.09136
+  },
+  {
+    "name": "Orlando",
+    "country": "US",
+    "lat": 28.53834,
+    "lng": -81.37924
+  },
+  {
+    "name": "Orlovista",
+    "country": "US",
+    "lat": 28.53834,
+    "lng": -81.46035
+  },
+  {
+    "name": "Ormond Beach",
+    "country": "US",
+    "lat": 29.28581,
+    "lng": -81.05589
+  },
+  {
+    "name": "Ormond-by-the-Sea",
+    "country": "US",
+    "lat": 29.34914,
+    "lng": -81.06645
+  },
+  {
+    "name": "Orleans",
+    "country": "US",
+    "lat": 38.66172,
+    "lng": -86.45166
+  },
+  {
+    "name": "Orchard Grass Hills",
+    "country": "US",
+    "lat": 38.32368,
+    "lng": -85.52135
+  },
+  {
+    "name": "Oran",
+    "country": "US",
+    "lat": 37.08505,
+    "lng": -89.65536
+  },
+  {
+    "name": "Oregon",
+    "country": "US",
+    "lat": 39.98694,
+    "lng": -95.14498
+  },
+  {
+    "name": "Oronogo",
+    "country": "US",
+    "lat": 37.18839,
+    "lng": -94.47023
+  },
+  {
+    "name": "Orangeburg",
+    "country": "US",
+    "lat": 33.49182,
+    "lng": -80.85565
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 30.09299,
+    "lng": -93.73655
+  },
+  {
+    "name": "Orange Grove",
+    "country": "US",
+    "lat": 27.95668,
+    "lng": -97.93694
+  },
+  {
+    "name": "Ore City",
+    "country": "US",
+    "lat": 32.80014,
+    "lng": -94.72076
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 38.24541,
+    "lng": -78.11083
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 41.27843,
+    "lng": -73.02566
+  },
+  {
+    "name": "Orange City",
+    "country": "US",
+    "lat": 43.00721,
+    "lng": -96.05835
+  },
+  {
+    "name": "Oregon",
+    "country": "US",
+    "lat": 42.01475,
+    "lng": -89.33233
+  },
+  {
+    "name": "Orion",
+    "country": "US",
+    "lat": 41.35476,
+    "lng": -90.38152
+  },
+  {
+    "name": "Orland Hills",
+    "country": "US",
+    "lat": 41.58531,
+    "lng": -87.84311
+  },
+  {
+    "name": "Orland Park",
+    "country": "US",
+    "lat": 41.63031,
+    "lng": -87.85394
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 42.59036,
+    "lng": -72.30981
+  },
+  {
+    "name": "Orient Heights",
+    "country": "US",
+    "lat": 42.3876,
+    "lng": -71.00366
+  },
+  {
+    "name": "Orleans",
+    "country": "US",
+    "lat": 41.78983,
+    "lng": -69.98974
+  },
+  {
+    "name": "Orland",
+    "country": "US",
+    "lat": 44.57035,
+    "lng": -68.73586
+  },
+  {
+    "name": "Orono",
+    "country": "US",
+    "lat": 44.88312,
+    "lng": -68.67198
+  },
+  {
+    "name": "Orrington",
+    "country": "US",
+    "lat": 44.73118,
+    "lng": -68.82643
+  },
+  {
+    "name": "Orchard Lake",
+    "country": "US",
+    "lat": 42.58309,
+    "lng": -83.35938
+  },
+  {
+    "name": "Ortonville",
+    "country": "US",
+    "lat": 42.85225,
+    "lng": -83.443
+  },
+  {
+    "name": "Orono",
+    "country": "US",
+    "lat": 44.97135,
+    "lng": -93.6044
+  },
+  {
+    "name": "Oronoco",
+    "country": "US",
+    "lat": 44.16608,
+    "lng": -92.53491
+  },
+  {
+    "name": "Ortonville",
+    "country": "US",
+    "lat": 45.30469,
+    "lng": -96.44478
+  },
+  {
+    "name": "Ord",
+    "country": "US",
+    "lat": 41.60334,
+    "lng": -98.9262
+  },
+  {
+    "name": "Orford",
+    "country": "US",
+    "lat": 43.90535,
+    "lng": -72.14009
+  },
+  {
+    "name": "Oradell",
+    "country": "US",
+    "lat": 40.95871,
+    "lng": -74.03681
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 40.77066,
+    "lng": -74.23265
+  },
+  {
+    "name": "Orange Lake",
+    "country": "US",
+    "lat": 41.53982,
+    "lng": -74.0982
+  },
+  {
+    "name": "Orangeburg",
+    "country": "US",
+    "lat": 41.04649,
+    "lng": -73.94958
+  },
+  {
+    "name": "Orchard Park",
+    "country": "US",
+    "lat": 42.76756,
+    "lng": -78.74392
+  },
+  {
+    "name": "Oriskany",
+    "country": "US",
+    "lat": 43.15729,
+    "lng": -75.33267
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 41.44978,
+    "lng": -81.48067
+  },
+  {
+    "name": "Oregon",
+    "country": "US",
+    "lat": 41.64366,
+    "lng": -83.48688
+  },
+  {
+    "name": "Orrville",
+    "country": "US",
+    "lat": 40.84367,
+    "lng": -81.76402
+  },
+  {
+    "name": "Orwell",
+    "country": "US",
+    "lat": 41.53506,
+    "lng": -80.86814
+  },
+  {
+    "name": "Orchard Hills",
+    "country": "US",
+    "lat": 40.58618,
+    "lng": -79.53143
+  },
+  {
+    "name": "Oreland",
+    "country": "US",
+    "lat": 40.11844,
+    "lng": -75.17768
+  },
+  {
+    "name": "Orwigsburg",
+    "country": "US",
+    "lat": 40.65481,
+    "lng": -76.10077
+  },
+  {
+    "name": "Oregon",
+    "country": "US",
+    "lat": 42.92611,
+    "lng": -89.38456
+  },
+  {
+    "name": "Orfordville",
+    "country": "US",
+    "lat": 42.62751,
+    "lng": -89.25317
+  },
+  {
+    "name": "Oracle",
+    "country": "US",
+    "lat": 32.61091,
+    "lng": -110.77093
+  },
+  {
+    "name": "Oro Valley",
+    "country": "US",
+    "lat": 32.39091,
+    "lng": -110.96649
+  },
+  {
+    "name": "Orange",
+    "country": "US",
+    "lat": 33.78779,
+    "lng": -117.85311
+  },
+  {
+    "name": "Orange Cove",
+    "country": "US",
+    "lat": 36.62439,
+    "lng": -119.31373
+  },
+  {
+    "name": "Orangevale",
+    "country": "US",
+    "lat": 38.67851,
+    "lng": -121.22578
+  },
+  {
+    "name": "Orcutt",
+    "country": "US",
+    "lat": 34.86526,
+    "lng": -120.436
+  },
+  {
+    "name": "Orinda",
+    "country": "US",
+    "lat": 37.87715,
+    "lng": -122.17969
+  },
+  {
+    "name": "Orland",
+    "country": "US",
+    "lat": 39.74738,
+    "lng": -122.19637
+  },
+  {
+    "name": "Orosi",
+    "country": "US",
+    "lat": 36.54495,
+    "lng": -119.28734
+  },
+  {
+    "name": "Oroville",
+    "country": "US",
+    "lat": 39.51394,
+    "lng": -121.55776
+  },
+  {
+    "name": "Orchard Mesa",
+    "country": "US",
+    "lat": 39.048,
+    "lng": -108.529
+  },
+  {
+    "name": "Orchard City",
+    "country": "US",
+    "lat": 38.82832,
+    "lng": -107.9709
+  },
+  {
+    "name": "Ordway",
+    "country": "US",
+    "lat": 38.21806,
+    "lng": -103.75606
+  },
+  {
+    "name": "Orangeville",
+    "country": "US",
+    "lat": 39.22719,
+    "lng": -111.0535
+  },
+  {
+    "name": "Orofino",
+    "country": "US",
+    "lat": 46.47935,
+    "lng": -116.25514
+  },
+  {
+    "name": "Orchard Homes",
+    "country": "US",
+    "lat": 46.86326,
+    "lng": -114.04844
+  },
+  {
+    "name": "Oregon City",
+    "country": "US",
+    "lat": 45.35734,
+    "lng": -122.60676
+  },
+  {
+    "name": "Orem",
+    "country": "US",
+    "lat": 40.2969,
+    "lng": -111.69465
+  },
+  {
+    "name": "Orchards",
+    "country": "US",
+    "lat": 45.66651,
+    "lng": -122.56093
+  },
+  {
+    "name": "Oroville",
+    "country": "US",
+    "lat": 48.93905,
+    "lng": -119.43562
+  },
+  {
+    "name": "Orting",
+    "country": "US",
+    "lat": 47.09788,
+    "lng": -122.20428
+  },
+  {
+    "name": "Orchidlands Estates",
+    "country": "US",
+    "lat": 19.56084,
+    "lng": -155.01527
+  },
+  {
+    "name": "Oroville East",
+    "country": "US",
+    "lat": 39.51126,
+    "lng": -121.47519
+  },
+  {
+    "name": "Orchard Ridge",
+    "country": "US",
+    "lat": 39.31324,
+    "lng": -76.55828
+  },
+  {
+    "name": "Original Northwood",
+    "country": "US",
+    "lat": 39.33982,
+    "lng": -76.59678
+  },
+  {
+    "name": "Ortiz",
+    "country": "VE",
+    "lat": 9.62168,
+    "lng": -67.29047
+  },
+  {
+    "name": "Orahovac",
+    "country": "XK",
+    "lat": 42.39944,
+    "lng": 20.65472
+  },
+  {
+    "name": "Orkney",
+    "country": "ZA",
+    "lat": -26.98023,
+    "lng": 26.67272
+  },
+  {
+    "name": "Oranjeville",
+    "country": "ZA",
+    "lat": -26.99379,
+    "lng": 28.20967
+  },
+  {
+    "name": "Orania",
+    "country": "ZA",
+    "lat": -29.81381,
+    "lng": 24.41205
+  },
+  {
+    "name": "Orange Farm",
+    "country": "ZA",
+    "lat": -26.48333,
+    "lng": 27.86667
+  },
+  {
+    "name": "Orient Hills",
+    "country": "ZA",
+    "lat": -26.03137,
+    "lng": 27.60266
+  },
+  {
+    "name": "Orinoco A",
+    "country": "ZA",
+    "lat": -24.76259,
+    "lng": 31.06516
+  },
+  {
+    "name": "Orinoco B",
+    "country": "ZA",
+    "lat": -24.73137,
+    "lng": 31.06501
+  },
+  {
+    "name": "Orinoco C",
+    "country": "ZA",
+    "lat": -24.73987,
+    "lng": 31.10057
+  }
+]

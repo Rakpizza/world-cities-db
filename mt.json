@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Mtskheta",
+    "country": "GE",
+    "lat": 41.84514,
+    "lng": 44.71875
+  },
+  {
+    "name": "Mtito Andei",
+    "country": "KE",
+    "lat": -2.68987,
+    "lng": 38.16687
+  },
+  {
+    "name": "Mtwapa",
+    "country": "KE",
+    "lat": -3.93938,
+    "lng": 39.74877
+  },
+  {
+    "name": "Mtsamdou",
+    "country": "KM",
+    "lat": -11.60694,
+    "lng": 43.38056
+  },
+  {
+    "name": "Mtakoudja",
+    "country": "KM",
+    "lat": -12.26111,
+    "lng": 43.70361
+  },
+  {
+    "name": "Mtsensk",
+    "country": "RU",
+    "lat": 53.2788,
+    "lng": 36.58047
+  },
+  {
+    "name": "Mtwango",
+    "country": "TZ",
+    "lat": -9.01667,
+    "lng": 34.8
+  },
+  {
+    "name": "Mto wa Mbu",
+    "country": "TZ",
+    "lat": -3.35,
+    "lng": 35.85
+  },
+  {
+    "name": "Mtinko",
+    "country": "TZ",
+    "lat": -4.55,
+    "lng": 34.85
+  },
+  {
+    "name": "Mtimbira",
+    "country": "TZ",
+    "lat": -8.78333,
+    "lng": 36.35
+  },
+  {
+    "name": "Mtambile",
+    "country": "TZ",
+    "lat": -5.38333,
+    "lng": 39.7
+  },
+  {
+    "name": "Mtwara",
+    "country": "TZ",
+    "lat": -10.26667,
+    "lng": 40.18333
+  },
+  {
+    "name": "Mtama",
+    "country": "TZ",
+    "lat": -10.3,
+    "lng": 39.36667
+  },
+  {
+    "name": "Mtsahara",
+    "country": "YT",
+    "lat": -12.68137,
+    "lng": 45.08274
+  },
+  {
+    "name": "Mtsangamboua",
+    "country": "YT",
+    "lat": -12.69033,
+    "lng": 45.10926
+  },
+  {
+    "name": "Mtsamboro",
+    "country": "YT",
+    "lat": -12.69982,
+    "lng": 45.06894
+  },
+  {
+    "name": "Mtsangadoua",
+    "country": "YT",
+    "lat": -12.71112,
+    "lng": 45.05118
+  },
+  {
+    "name": "Mtsapéré",
+    "country": "YT",
+    "lat": -12.78636,
+    "lng": 45.21732
+  },
+  {
+    "name": "Mtsamoudou",
+    "country": "YT",
+    "lat": -12.96232,
+    "lng": 45.17449
+  },
+  {
+    "name": "Mthatha",
+    "country": "ZA",
+    "lat": -31.58893,
+    "lng": 28.78443
+  },
+  {
+    "name": "Mtunzini",
+    "country": "ZA",
+    "lat": -28.95657,
+    "lng": 31.75431
+  },
+  {
+    "name": "Mtubatuba",
+    "country": "ZA",
+    "lat": -28.41789,
+    "lng": 32.18483
+  },
+  {
+    "name": "Mtititi",
+    "country": "ZA",
+    "lat": -23.09269,
+    "lng": 30.89928
+  }
+]

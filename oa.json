@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Oatley",
+    "country": "AU",
+    "lat": -33.98004,
+    "lng": 151.07201
+  },
+  {
+    "name": "Oakleigh East",
+    "country": "AU",
+    "lat": -37.9,
+    "lng": 145.11667
+  },
+  {
+    "name": "Oakleigh",
+    "country": "AU",
+    "lat": -37.89809,
+    "lng": 145.08837
+  },
+  {
+    "name": "Oakhurst",
+    "country": "AU",
+    "lat": -25.51253,
+    "lng": 152.63583
+  },
+  {
+    "name": "Oakey",
+    "country": "AU",
+    "lat": -27.43305,
+    "lng": 151.72063
+  },
+  {
+    "name": "Oakdale",
+    "country": "AU",
+    "lat": -34.0793,
+    "lng": 150.5132
+  },
+  {
+    "name": "Oakleigh South",
+    "country": "AU",
+    "lat": -37.92416,
+    "lng": 145.09146
+  },
+  {
+    "name": "Oakdowns",
+    "country": "AU",
+    "lat": -42.90178,
+    "lng": 147.45595
+  },
+  {
+    "name": "Oakden",
+    "country": "AU",
+    "lat": -34.8528,
+    "lng": 138.6433
+  },
+  {
+    "name": "Oakhurst",
+    "country": "AU",
+    "lat": -33.73883,
+    "lng": 150.83837
+  },
+  {
+    "name": "Oakville",
+    "country": "AU",
+    "lat": -33.61558,
+    "lng": 150.88006
+  },
+  {
+    "name": "Oak Flats",
+    "country": "AU",
+    "lat": -34.56229,
+    "lng": 150.82193
+  },
+  {
+    "name": "Oatlands",
+    "country": "AU",
+    "lat": -33.79595,
+    "lng": 151.02712
+  },
+  {
+    "name": "Oak Park",
+    "country": "AU",
+    "lat": -37.71842,
+    "lng": 144.91945
+  },
+  {
+    "name": "Oaklands Park",
+    "country": "AU",
+    "lat": -35.00671,
+    "lng": 138.54457
+  },
+  {
+    "name": "Oakford",
+    "country": "AU",
+    "lat": -32.20094,
+    "lng": 115.93391
+  },
+  {
+    "name": "Oak Bay",
+    "country": "CA",
+    "lat": 48.44964,
+    "lng": -123.3026
+  },
+  {
+    "name": "Oakridge",
+    "country": "CA",
+    "lat": 43.69686,
+    "lng": -79.28028
+  },
+  {
+    "name": "Oakridge",
+    "country": "CA",
+    "lat": 49.23333,
+    "lng": -123.11667
+  },
+  {
+    "name": "Oakville",
+    "country": "CA",
+    "lat": 43.45011,
+    "lng": -79.68292
+  },
+  {
+    "name": "Oakwood Village",
+    "country": "CA",
+    "lat": 43.68278,
+    "lng": -79.43833
+  },
+  {
+    "name": "Oakalla",
+    "country": "CA",
+    "lat": 49.23396,
+    "lng": -122.97751
+  },
+  {
+    "name": "Oaklands",
+    "country": "CA",
+    "lat": 48.4439,
+    "lng": -123.34065
+  },
+  {
+    "name": "Oakley",
+    "country": "GB",
+    "lat": 56.08421,
+    "lng": -3.56311
+  },
+  {
+    "name": "Oakley",
+    "country": "GB",
+    "lat": 52.16862,
+    "lng": -0.52649
+  },
+  {
+    "name": "Oakley",
+    "country": "GB",
+    "lat": 51.80406,
+    "lng": -1.07261
+  },
+  {
+    "name": "Oakington",
+    "country": "GB",
+    "lat": 52.26044,
+    "lng": 0.06849
+  },
+  {
+    "name": "Oakham",
+    "country": "GB",
+    "lat": 52.66667,
+    "lng": -0.73333
+  },
+  {
+    "name": "Oakengates",
+    "country": "GB",
+    "lat": 52.69501,
+    "lng": -2.45036
+  },
+  {
+    "name": "Oadby",
+    "country": "GB",
+    "lat": 52.60621,
+    "lng": -1.08354
+  },
+  {
+    "name": "Oakmere",
+    "country": "GB",
+    "lat": 53.21996,
+    "lng": -2.64054
+  },
+  {
+    "name": "Oakwood",
+    "country": "GB",
+    "lat": 51.64761,
+    "lng": -0.13184
+  },
+  {
+    "name": "Oakley",
+    "country": "GB",
+    "lat": 50.78368,
+    "lng": -1.96822
+  },
+  {
+    "name": "Oadar Temsia",
+    "country": "MA",
+    "lat": 30.36531,
+    "lng": -9.41044
+  },
+  {
+    "name": "Oaxtepec",
+    "country": "MX",
+    "lat": 18.91825,
+    "lng": -98.95644
+  },
+  {
+    "name": "Oaxaca",
+    "country": "MX",
+    "lat": 17.06025,
+    "lng": -96.72544
+  },
+  {
+    "name": "Oacalco",
+    "country": "MX",
+    "lat": 18.92342,
+    "lng": -99.02935
+  },
+  {
+    "name": "Oasis",
+    "country": "MX",
+    "lat": 19.20167,
+    "lng": -96.21917
+  },
+  {
+    "name": "Oakura",
+    "country": "NZ",
+    "lat": -39.11667,
+    "lng": 173.95
+  },
+  {
+    "name": "Oamaru",
+    "country": "NZ",
+    "lat": -45.09758,
+    "lng": 170.97087
+  },
+  {
+    "name": "Oas",
+    "country": "PH",
+    "lat": 13.2593,
+    "lng": 123.4963
+  },
+  {
+    "name": "Oaqui",
+    "country": "PH",
+    "lat": 16.8583,
+    "lng": 120.4124
+  },
+  {
+    "name": "Oarţa de Jos",
+    "country": "RO",
+    "lat": 47.45827,
+    "lng": 23.12742
+  },
+  {
+    "name": "Oarja Sat",
+    "country": "RO",
+    "lat": 44.76429,
+    "lng": 24.97141
+  },
+  {
+    "name": "Oarda",
+    "country": "RO",
+    "lat": 46.03333,
+    "lng": 23.56667
+  },
+  {
+    "name": "Oar",
+    "country": "RO",
+    "lat": 47.80569,
+    "lng": 22.73085
+  },
+  {
+    "name": "Oanțu",
+    "country": "RO",
+    "lat": 46.9097,
+    "lng": 26.19887
+  },
+  {
+    "name": "Oancea",
+    "country": "RO",
+    "lat": 45.91667,
+    "lng": 28.1
+  },
+  {
+    "name": "Oarja",
+    "country": "RO",
+    "lat": 44.76053,
+    "lng": 24.97596
+  },
+  {
+    "name": "Oak Hill",
+    "country": "US",
+    "lat": 28.86443,
+    "lng": -80.8545
+  },
+  {
+    "name": "Oak Ridge",
+    "country": "US",
+    "lat": 28.47112,
+    "lng": -81.42452
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 28.555,
+    "lng": -81.63313
+  },
+  {
+    "name": "Oakland Park",
+    "country": "US",
+    "lat": 26.17231,
+    "lng": -80.13199
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 34.2276,
+    "lng": -83.88435
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 33.54817,
+    "lng": -83.97435
+  },
+  {
+    "name": "Oak Park",
+    "country": "US",
+    "lat": 38.30562,
+    "lng": -85.69635
+  },
+  {
+    "name": "Oakland City",
+    "country": "US",
+    "lat": 38.33866,
+    "lng": -87.34501
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 36.66505,
+    "lng": -87.44279
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 37.34421,
+    "lng": -86.75471
+  },
+  {
+    "name": "Oakbrook",
+    "country": "US",
+    "lat": 38.99978,
+    "lng": -84.68522
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 32.86096,
+    "lng": -91.38845
+  },
+  {
+    "name": "Oak Hills Place",
+    "country": "US",
+    "lat": 30.35992,
+    "lng": -91.0876
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 30.81603,
+    "lng": -92.66042
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 39.40787,
+    "lng": -79.40671
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 39.00501,
+    "lng": -94.12939
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 38.57644,
+    "lng": -90.38567
+  },
+  {
+    "name": "Oakville",
+    "country": "US",
+    "lat": 38.47005,
+    "lng": -90.30456
+  },
+  {
+    "name": "Oak Island",
+    "country": "US",
+    "lat": 33.91656,
+    "lng": -78.16111
+  },
+  {
+    "name": "Oak Ridge",
+    "country": "US",
+    "lat": 36.17347,
+    "lng": -79.98893
+  },
+  {
+    "name": "Oakboro",
+    "country": "US",
+    "lat": 35.2257,
+    "lng": -80.32895
+  },
+  {
+    "name": "Oaklyn",
+    "country": "US",
+    "lat": 39.90095,
+    "lng": -75.08462
+  },
+  {
+    "name": "Oak Hill",
+    "country": "US",
+    "lat": 38.89396,
+    "lng": -82.57349
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 39.72534,
+    "lng": -84.17411
+  },
+  {
+    "name": "Oakhurst",
+    "country": "US",
+    "lat": 36.07537,
+    "lng": -96.06444
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 34.1001,
+    "lng": -96.79389
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 33.77821,
+    "lng": -80.96676
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 33.98293,
+    "lng": -80.48842
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 36.41177,
+    "lng": -82.42459
+  },
+  {
+    "name": "Oak Hill",
+    "country": "US",
+    "lat": 36.08784,
+    "lng": -86.78305
+  },
+  {
+    "name": "Oak Ridge",
+    "country": "US",
+    "lat": 36.01036,
+    "lng": -84.26964
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 35.22898,
+    "lng": -89.51508
+  },
+  {
+    "name": "Oak Leaf",
+    "country": "US",
+    "lat": 32.52042,
+    "lng": -96.85472
+  },
+  {
+    "name": "Oak Point",
+    "country": "US",
+    "lat": 33.19012,
+    "lng": -96.99167
+  },
+  {
+    "name": "Oak Ridge North",
+    "country": "US",
+    "lat": 30.16022,
+    "lng": -95.44438
+  },
+  {
+    "name": "Oak Trail Shores",
+    "country": "US",
+    "lat": 32.48875,
+    "lng": -97.8342
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 38.984,
+    "lng": -77.40388
+  },
+  {
+    "name": "Oakton",
+    "country": "US",
+    "lat": 38.88095,
+    "lng": -77.30082
+  },
+  {
+    "name": "Oak Hill",
+    "country": "US",
+    "lat": 37.97233,
+    "lng": -81.14871
+  },
+  {
+    "name": "Oak Valley",
+    "country": "US",
+    "lat": 39.80122,
+    "lng": -75.1624
+  },
+  {
+    "name": "Oakville",
+    "country": "US",
+    "lat": 41.59343,
+    "lng": -73.08539
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 42.58109,
+    "lng": -93.44326
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 41.30916,
+    "lng": -95.39667
+  },
+  {
+    "name": "Oak Brook",
+    "country": "US",
+    "lat": 41.83281,
+    "lng": -87.92895
+  },
+  {
+    "name": "Oak Forest",
+    "country": "US",
+    "lat": 41.60281,
+    "lng": -87.74394
+  },
+  {
+    "name": "Oak Lawn",
+    "country": "US",
+    "lat": 41.71087,
+    "lng": -87.75811
+  },
+  {
+    "name": "Oak Park",
+    "country": "US",
+    "lat": 41.88503,
+    "lng": -87.7845
+  },
+  {
+    "name": "Oakbrook Terrace",
+    "country": "US",
+    "lat": 41.85003,
+    "lng": -87.96451
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 40.11615,
+    "lng": -87.77836
+  },
+  {
+    "name": "Oakwood Hills",
+    "country": "US",
+    "lat": 42.24641,
+    "lng": -88.24286
+  },
+  {
+    "name": "Oak Bluffs",
+    "country": "US",
+    "lat": 41.45428,
+    "lng": -70.56197
+  },
+  {
+    "name": "Oak Hill Park",
+    "country": "US",
+    "lat": 42.29454,
+    "lng": -71.18561
+  },
+  {
+    "name": "Oakham",
+    "country": "US",
+    "lat": 42.35287,
+    "lng": -72.04535
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 44.54034,
+    "lng": -69.72199
+  },
+  {
+    "name": "Oak Park",
+    "country": "US",
+    "lat": 42.45948,
+    "lng": -83.18271
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 45.3408,
+    "lng": -93.3269
+  },
+  {
+    "name": "Oak Park Heights",
+    "country": "US",
+    "lat": 45.03136,
+    "lng": -92.79298
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 44.96302,
+    "lng": -92.96494
+  },
+  {
+    "name": "Oakport",
+    "country": "US",
+    "lat": 46.93191,
+    "lng": -96.77897
+  },
+  {
+    "name": "Oakes",
+    "country": "US",
+    "lat": 46.13858,
+    "lng": -98.09038
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 41.83583,
+    "lng": -96.46697
+  },
+  {
+    "name": "Oakhurst",
+    "country": "US",
+    "lat": 40.27094,
+    "lng": -74.01625
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 41.01315,
+    "lng": -74.26431
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 42.2512,
+    "lng": -73.78013
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 40.74399,
+    "lng": -73.13872
+  },
+  {
+    "name": "Oakfield",
+    "country": "US",
+    "lat": 43.06589,
+    "lng": -78.26974
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 40.56399,
+    "lng": -74.11598
+  },
+  {
+    "name": "Oak Harbor",
+    "country": "US",
+    "lat": 41.50672,
+    "lng": -83.14659
+  },
+  {
+    "name": "Oak Hill",
+    "country": "US",
+    "lat": 40.41423,
+    "lng": -82.24099
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 41.36533,
+    "lng": -81.5079
+  },
+  {
+    "name": "Oak Hills",
+    "country": "US",
+    "lat": 40.82479,
+    "lng": -79.91311
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 40.39812,
+    "lng": -80.18561
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 40.99203,
+    "lng": -75.9202
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 40.30646,
+    "lng": -78.88752
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 40.98978,
+    "lng": -80.36951
+  },
+  {
+    "name": "Oakmont",
+    "country": "US",
+    "lat": 40.52173,
+    "lng": -79.84227
+  },
+  {
+    "name": "Oakwood",
+    "country": "US",
+    "lat": 41.01062,
+    "lng": -80.37951
+  },
+  {
+    "name": "Oak Creek",
+    "country": "US",
+    "lat": 42.88585,
+    "lng": -87.86314
+  },
+  {
+    "name": "Oakfield",
+    "country": "US",
+    "lat": 43.6861,
+    "lng": -88.5465
+  },
+  {
+    "name": "Oak Hills",
+    "country": "US",
+    "lat": 34.38313,
+    "lng": -117.38135
+  },
+  {
+    "name": "Oak Park",
+    "country": "US",
+    "lat": 34.17917,
+    "lng": -118.76287
+  },
+  {
+    "name": "Oak View",
+    "country": "US",
+    "lat": 34.4,
+    "lng": -119.30011
+  },
+  {
+    "name": "Oakdale",
+    "country": "US",
+    "lat": 37.76659,
+    "lng": -120.84715
+  },
+  {
+    "name": "Oakhurst",
+    "country": "US",
+    "lat": 37.328,
+    "lng": -119.64932
+  },
+  {
+    "name": "Oakland",
+    "country": "US",
+    "lat": 37.80437,
+    "lng": -122.2708
+  },
+  {
+    "name": "Oakley",
+    "country": "US",
+    "lat": 37.99742,
+    "lng": -121.71245
+  },
+  {
+    "name": "Oasis",
+    "country": "US",
+    "lat": 33.46586,
+    "lng": -116.09889
+  },
+  {
+    "name": "Oakley",
+    "country": "US",
+    "lat": 39.13334,
+    "lng": -100.86376
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 45.41679,
+    "lng": -122.64009
+  },
+  {
+    "name": "Oak Hills",
+    "country": "US",
+    "lat": 45.54123,
+    "lng": -122.84121
+  },
+  {
+    "name": "Oakridge",
+    "country": "US",
+    "lat": 43.74651,
+    "lng": -122.46172
+  },
+  {
+    "name": "Oakley",
+    "country": "US",
+    "lat": 40.71467,
+    "lng": -111.30074
+  },
+  {
+    "name": "Oak Harbor",
+    "country": "US",
+    "lat": 48.29316,
+    "lng": -122.64322
+  },
+  {
+    "name": "Oak Grove",
+    "country": "US",
+    "lat": 33.9809,
+    "lng": -81.14286
+  },
+  {
+    "name": "Oatfield",
+    "country": "US",
+    "lat": 45.41418,
+    "lng": -122.60007
+  },
+  {
+    "name": "Oakleaf Plantation",
+    "country": "US",
+    "lat": 30.17083,
+    "lng": -81.83549
+  },
+  {
+    "name": "Oak Cliff Place",
+    "country": "US",
+    "lat": 29.92712,
+    "lng": -95.62672
+  },
+  {
+    "name": "Oak Hill",
+    "country": "US",
+    "lat": 38.9258,
+    "lng": -77.40156
+  },
+  {
+    "name": "Oak Creek",
+    "country": "US",
+    "lat": 33.67398,
+    "lng": -117.77123
+  },
+  {
+    "name": "Oakley",
+    "country": "ZA",
+    "lat": -24.92682,
+    "lng": 31.22888
+  },
+  {
+    "name": "Oakglen",
+    "country": "ZA",
+    "lat": -31.05073,
+    "lng": 24.4326
+  }
+]

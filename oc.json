@@ -1,0 +1,920 @@
+[
+  {
+    "name": "Ocean Shores",
+    "country": "AU",
+    "lat": -28.5093,
+    "lng": 153.5376
+  },
+  {
+    "name": "Ocean Reef",
+    "country": "AU",
+    "lat": -31.75871,
+    "lng": 115.73601
+  },
+  {
+    "name": "Ocean Grove",
+    "country": "AU",
+    "lat": -38.25772,
+    "lng": 144.51919
+  },
+  {
+    "name": "Ochamps",
+    "country": "BE",
+    "lat": 49.92453,
+    "lng": 5.27679
+  },
+  {
+    "name": "Ocara",
+    "country": "BR",
+    "lat": -4.49083,
+    "lng": -38.59667
+  },
+  {
+    "name": "Ocauçu",
+    "country": "BR",
+    "lat": -22.43889,
+    "lng": -49.92278
+  },
+  {
+    "name": "Ocaña",
+    "country": "CO",
+    "lat": 8.23773,
+    "lng": -73.35604
+  },
+  {
+    "name": "Ocamonte",
+    "country": "CO",
+    "lat": 6.34001,
+    "lng": -73.12205
+  },
+  {
+    "name": "Ochoz u Brna",
+    "country": "CZ",
+    "lat": 49.25447,
+    "lng": 16.73733
+  },
+  {
+    "name": "Ockenheim",
+    "country": "DE",
+    "lat": 49.94371,
+    "lng": 7.97127
+  },
+  {
+    "name": "Ockenfels",
+    "country": "DE",
+    "lat": 50.5761,
+    "lng": 7.27535
+  },
+  {
+    "name": "Ochtrup",
+    "country": "DE",
+    "lat": 52.20802,
+    "lng": 7.18988
+  },
+  {
+    "name": "Ochtendung",
+    "country": "DE",
+    "lat": 50.35,
+    "lng": 7.38333
+  },
+  {
+    "name": "Ochsenwerder",
+    "country": "DE",
+    "lat": 53.47565,
+    "lng": 10.10147
+  },
+  {
+    "name": "Ochsenhausen",
+    "country": "DE",
+    "lat": 48.07029,
+    "lng": 9.9503
+  },
+  {
+    "name": "Ochsenfurt",
+    "country": "DE",
+    "lat": 49.66429,
+    "lng": 10.06227
+  },
+  {
+    "name": "Ocaña",
+    "country": "ES",
+    "lat": 39.95785,
+    "lng": -3.4982
+  },
+  {
+    "name": "Ocón",
+    "country": "ES",
+    "lat": 42.29898,
+    "lng": -2.24019
+  },
+  {
+    "name": "Oco",
+    "country": "ES",
+    "lat": 42.63828,
+    "lng": -2.16476
+  },
+  {
+    "name": "Ochánduri",
+    "country": "ES",
+    "lat": 42.52525,
+    "lng": -3.00415
+  },
+  {
+    "name": "Ocentejo",
+    "country": "ES",
+    "lat": 40.77234,
+    "lng": -2.39764
+  },
+  {
+    "name": "Octeville-sur-Mer",
+    "country": "FR",
+    "lat": 49.55496,
+    "lng": 0.1166
+  },
+  {
+    "name": "Octeville",
+    "country": "FR",
+    "lat": 49.62612,
+    "lng": -1.64349
+  },
+  {
+    "name": "Ocle Pychard",
+    "country": "GB",
+    "lat": 52.11667,
+    "lng": -2.6
+  },
+  {
+    "name": "Ochiltree",
+    "country": "GB",
+    "lat": 55.45981,
+    "lng": -4.36782
+  },
+  {
+    "name": "Ochkhamuri",
+    "country": "GE",
+    "lat": 41.85713,
+    "lng": 41.83219
+  },
+  {
+    "name": "Ochamchire",
+    "country": "GE",
+    "lat": 42.71232,
+    "lng": 41.46863
+  },
+  {
+    "name": "Ocós",
+    "country": "GT",
+    "lat": 14.50998,
+    "lng": -92.19298
+  },
+  {
+    "name": "Ocote Paulino",
+    "country": "HN",
+    "lat": 15.41667,
+    "lng": -87.6
+  },
+  {
+    "name": "Ochira",
+    "country": "IN",
+    "lat": 9.13478,
+    "lng": 76.51169
+  },
+  {
+    "name": "Occimiano",
+    "country": "IT",
+    "lat": 45.05991,
+    "lng": 8.50666
+  },
+  {
+    "name": "Occhiobello",
+    "country": "IT",
+    "lat": 44.9224,
+    "lng": 11.58139
+  },
+  {
+    "name": "Occhieppo Superiore",
+    "country": "IT",
+    "lat": 45.564,
+    "lng": 8.00618
+  },
+  {
+    "name": "Occhieppo Inferiore",
+    "country": "IT",
+    "lat": 45.55006,
+    "lng": 8.02102
+  },
+  {
+    "name": "Occagno",
+    "country": "IT",
+    "lat": 45.92901,
+    "lng": 9.0987
+  },
+  {
+    "name": "Ocho Rios",
+    "country": "JM",
+    "lat": 18.4076,
+    "lng": -77.10312
+  },
+  {
+    "name": "Ochi",
+    "country": "JP",
+    "lat": 33.53333,
+    "lng": 133.25
+  },
+  {
+    "name": "Ocheon",
+    "country": "KR",
+    "lat": 35.97046,
+    "lng": 129.41222
+  },
+  {
+    "name": "Ocniţa",
+    "country": "MD",
+    "lat": 48.38231,
+    "lng": 27.43864
+  },
+  {
+    "name": "Occidente (San Francisco)",
+    "country": "MX",
+    "lat": 18.3313,
+    "lng": -93.25238
+  },
+  {
+    "name": "Ocuituco",
+    "country": "MX",
+    "lat": 18.87731,
+    "lng": -98.77323
+  },
+  {
+    "name": "Ocuilan de Arteaga",
+    "country": "MX",
+    "lat": 18.97784,
+    "lng": -99.41986
+  },
+  {
+    "name": "Ocozocoautla de Espinosa",
+    "country": "MX",
+    "lat": 16.7612,
+    "lng": -93.37426
+  },
+  {
+    "name": "Ocoyoacac",
+    "country": "MX",
+    "lat": 19.27127,
+    "lng": -99.45787
+  },
+  {
+    "name": "Ocozotepec",
+    "country": "MX",
+    "lat": 18.25895,
+    "lng": -94.9104
+  },
+  {
+    "name": "Ocotlán de Morelos",
+    "country": "MX",
+    "lat": 16.79151,
+    "lng": -96.67455
+  },
+  {
+    "name": "Ocotlán de Betancourt",
+    "country": "MX",
+    "lat": 19.79752,
+    "lng": -97.53664
+  },
+  {
+    "name": "Ocotlamanic",
+    "country": "MX",
+    "lat": 18.32389,
+    "lng": -97.09667
+  },
+  {
+    "name": "Ocotitlán",
+    "country": "MX",
+    "lat": 19.04256,
+    "lng": -96.90832
+  },
+  {
+    "name": "Ocotepec",
+    "country": "MX",
+    "lat": 19.55519,
+    "lng": -97.65078
+  },
+  {
+    "name": "Ocotepec",
+    "country": "MX",
+    "lat": 17.22601,
+    "lng": -93.16426
+  },
+  {
+    "name": "Ocotal Chico",
+    "country": "MX",
+    "lat": 18.25771,
+    "lng": -94.86047
+  },
+  {
+    "name": "Ocosingo",
+    "country": "MX",
+    "lat": 16.90634,
+    "lng": -92.09349
+  },
+  {
+    "name": "Ocampo",
+    "country": "MX",
+    "lat": 22.84585,
+    "lng": -99.33566
+  },
+  {
+    "name": "Occidente 4ta. Sección",
+    "country": "MX",
+    "lat": 18.30347,
+    "lng": -93.23388
+  },
+  {
+    "name": "Ocuapan",
+    "country": "MX",
+    "lat": 17.85411,
+    "lng": -93.4894
+  },
+  {
+    "name": "Ocampo",
+    "country": "MX",
+    "lat": 20.00896,
+    "lng": -99.23926
+  },
+  {
+    "name": "Ochusjob",
+    "country": "MX",
+    "lat": 16.22482,
+    "lng": -92.25201
+  },
+  {
+    "name": "Ocotillo",
+    "country": "MX",
+    "lat": 17.03551,
+    "lng": -99.87671
+  },
+  {
+    "name": "Ocotlán",
+    "country": "MX",
+    "lat": 16.93947,
+    "lng": -99.36919
+  },
+  {
+    "name": "Ocotepec",
+    "country": "MX",
+    "lat": 19.80722,
+    "lng": -97.27428
+  },
+  {
+    "name": "Ocelota",
+    "country": "MX",
+    "lat": 18.3992,
+    "lng": -95.28333
+  },
+  {
+    "name": "Ocho de Enero",
+    "country": "MX",
+    "lat": 26.99745,
+    "lng": -101.49584
+  },
+  {
+    "name": "Ocumicho",
+    "country": "MX",
+    "lat": 19.79654,
+    "lng": -102.22169
+  },
+  {
+    "name": "Ocotlán",
+    "country": "MX",
+    "lat": 20.35116,
+    "lng": -102.76832
+  },
+  {
+    "name": "Oconahua",
+    "country": "MX",
+    "lat": 20.74217,
+    "lng": -104.16525
+  },
+  {
+    "name": "Ocampo",
+    "country": "MX",
+    "lat": 28.19351,
+    "lng": -108.36759
+  },
+  {
+    "name": "Ocampo",
+    "country": "MX",
+    "lat": 27.31477,
+    "lng": -102.3966
+  },
+  {
+    "name": "Ocampo",
+    "country": "MX",
+    "lat": 21.64653,
+    "lng": -101.48012
+  },
+  {
+    "name": "Ocampo",
+    "country": "MX",
+    "lat": 19.58241,
+    "lng": -100.33913
+  },
+  {
+    "name": "Ocurio",
+    "country": "MX",
+    "lat": 19.48254,
+    "lng": -100.42344
+  },
+  {
+    "name": "Ocopulco",
+    "country": "MX",
+    "lat": 19.58972,
+    "lng": -98.89694
+  },
+  {
+    "name": "Octaviano López",
+    "country": "MX",
+    "lat": 27.0025,
+    "lng": -105.03306
+  },
+  {
+    "name": "Ocotlán de Venustiano Carranza",
+    "country": "MX",
+    "lat": 18.79111,
+    "lng": -97.66917
+  },
+  {
+    "name": "Ocoxaltepec",
+    "country": "MX",
+    "lat": 18.935,
+    "lng": -98.7525
+  },
+  {
+    "name": "Ococh",
+    "country": "MX",
+    "lat": 16.83806,
+    "lng": -92.47528
+  },
+  {
+    "name": "Octeyuco Dos Mil",
+    "country": "MX",
+    "lat": 19.96333,
+    "lng": -99.58806
+  },
+  {
+    "name": "Octavio Paz",
+    "country": "MX",
+    "lat": 14.85778,
+    "lng": -92.26389
+  },
+  {
+    "name": "Ocotequila",
+    "country": "MX",
+    "lat": 17.44944,
+    "lng": -98.6775
+  },
+  {
+    "name": "Ocuiltzapoyo",
+    "country": "MX",
+    "lat": 21.32444,
+    "lng": -98.72861
+  },
+  {
+    "name": "Ochobo",
+    "country": "NG",
+    "lat": 7.18045,
+    "lng": 7.9824
+  },
+  {
+    "name": "Ocotal",
+    "country": "NI",
+    "lat": 13.63222,
+    "lng": -86.47399
+  },
+  {
+    "name": "Ochten",
+    "country": "NL",
+    "lat": 51.91,
+    "lng": 5.56944
+  },
+  {
+    "name": "Ocú",
+    "country": "PA",
+    "lat": 7.94525,
+    "lng": -80.7773
+  },
+  {
+    "name": "Ocuviri",
+    "country": "PE",
+    "lat": -15.11373,
+    "lng": -70.90912
+  },
+  {
+    "name": "Ocucaje",
+    "country": "PE",
+    "lat": -14.34861,
+    "lng": -75.66917
+  },
+  {
+    "name": "Ocros",
+    "country": "PE",
+    "lat": -13.39095,
+    "lng": -73.91535
+  },
+  {
+    "name": "Ocros",
+    "country": "PE",
+    "lat": -10.40348,
+    "lng": -77.39679
+  },
+  {
+    "name": "Ocoyo",
+    "country": "PE",
+    "lat": -14.0082,
+    "lng": -75.02242
+  },
+  {
+    "name": "Ocoruro",
+    "country": "PE",
+    "lat": -15.0525,
+    "lng": -71.12889
+  },
+  {
+    "name": "Ocongate",
+    "country": "PE",
+    "lat": -13.62694,
+    "lng": -71.38528
+  },
+  {
+    "name": "Ocoña",
+    "country": "PE",
+    "lat": -16.43306,
+    "lng": -73.10778
+  },
+  {
+    "name": "Ocobamba",
+    "country": "PE",
+    "lat": -13.48267,
+    "lng": -73.56029
+  },
+  {
+    "name": "Ocobamba",
+    "country": "PE",
+    "lat": -12.87197,
+    "lng": -72.44732
+  },
+  {
+    "name": "Ocaña",
+    "country": "PE",
+    "lat": -14.3986,
+    "lng": -74.82275
+  },
+  {
+    "name": "Ocoy",
+    "country": "PH",
+    "lat": 11.1716,
+    "lng": 123.7948
+  },
+  {
+    "name": "Ochanado",
+    "country": "PH",
+    "lat": 11.6139,
+    "lng": 122.4833
+  },
+  {
+    "name": "Ocaña",
+    "country": "PH",
+    "lat": 10.0656,
+    "lng": 123.6244
+  },
+  {
+    "name": "Ocampo",
+    "country": "PH",
+    "lat": 13.5594,
+    "lng": 123.3761
+  },
+  {
+    "name": "Ochotnica Górna",
+    "country": "PL",
+    "lat": 49.50904,
+    "lng": 20.24262
+  },
+  {
+    "name": "Ochotnica Dolna",
+    "country": "PL",
+    "lat": 49.52682,
+    "lng": 20.34265
+  },
+  {
+    "name": "Ochota",
+    "country": "PL",
+    "lat": 52.22096,
+    "lng": 20.98526
+  },
+  {
+    "name": "Ochojno",
+    "country": "PL",
+    "lat": 49.95255,
+    "lng": 19.97452
+  },
+  {
+    "name": "Ochla",
+    "country": "PL",
+    "lat": 51.87903,
+    "lng": 15.47132
+  },
+  {
+    "name": "Ochaby",
+    "country": "PL",
+    "lat": 49.84252,
+    "lng": 18.76894
+  },
+  {
+    "name": "Ocoliş",
+    "country": "RO",
+    "lat": 46.48333,
+    "lng": 23.46667
+  },
+  {
+    "name": "Ocnița",
+    "country": "RO",
+    "lat": 46.86266,
+    "lng": 24.48677
+  },
+  {
+    "name": "Ocniţa",
+    "country": "RO",
+    "lat": 44.98333,
+    "lng": 25.55
+  },
+  {
+    "name": "Ocna Şugatag",
+    "country": "RO",
+    "lat": 47.78333,
+    "lng": 23.93333
+  },
+  {
+    "name": "Ocna Sibiului",
+    "country": "RO",
+    "lat": 45.88333,
+    "lng": 24.05
+  },
+  {
+    "name": "Ocna Mureş",
+    "country": "RO",
+    "lat": 46.38333,
+    "lng": 23.85
+  },
+  {
+    "name": "Ocna de Sus",
+    "country": "RO",
+    "lat": 46.52729,
+    "lng": 25.15131
+  },
+  {
+    "name": "Ocna Dejului",
+    "country": "RO",
+    "lat": 47.11581,
+    "lng": 23.85934
+  },
+  {
+    "name": "Ocna de Jos",
+    "country": "RO",
+    "lat": 46.52635,
+    "lng": 25.12945
+  },
+  {
+    "name": "Ocland",
+    "country": "RO",
+    "lat": 46.16667,
+    "lng": 25.41667
+  },
+  {
+    "name": "Ocina de Sus",
+    "country": "RO",
+    "lat": 45.2006,
+    "lng": 25.59882
+  },
+  {
+    "name": "Ocolna",
+    "country": "RO",
+    "lat": 43.87917,
+    "lng": 24.13405
+  },
+  {
+    "name": "Ochër",
+    "country": "RU",
+    "lat": 57.88227,
+    "lng": 54.71827
+  },
+  {
+    "name": "Ochakovo-Matveyevskoye",
+    "country": "RU",
+    "lat": 55.68432,
+    "lng": 37.44654
+  },
+  {
+    "name": "Ockelbo",
+    "country": "SE",
+    "lat": 60.8912,
+    "lng": 16.71846
+  },
+  {
+    "name": "Ocaklı",
+    "country": "TR",
+    "lat": 37.93355,
+    "lng": 28.28271
+  },
+  {
+    "name": "Ochakiv",
+    "country": "UA",
+    "lat": 46.61472,
+    "lng": 31.54505
+  },
+  {
+    "name": "Ocean View",
+    "country": "US",
+    "lat": 38.54511,
+    "lng": -75.08907
+  },
+  {
+    "name": "Ocala",
+    "country": "US",
+    "lat": 29.1872,
+    "lng": -82.14009
+  },
+  {
+    "name": "Ocean City",
+    "country": "US",
+    "lat": 30.44103,
+    "lng": -86.61356
+  },
+  {
+    "name": "Ocean Ridge",
+    "country": "US",
+    "lat": 26.52702,
+    "lng": -80.04837
+  },
+  {
+    "name": "Ocoee",
+    "country": "US",
+    "lat": 28.56917,
+    "lng": -81.54396
+  },
+  {
+    "name": "Ocilla",
+    "country": "US",
+    "lat": 31.59447,
+    "lng": -83.2513
+  },
+  {
+    "name": "Ocean City",
+    "country": "US",
+    "lat": 38.3365,
+    "lng": -75.08491
+  },
+  {
+    "name": "Ocean Pines",
+    "country": "US",
+    "lat": 38.39539,
+    "lng": -75.15574
+  },
+  {
+    "name": "Ocean Springs",
+    "country": "US",
+    "lat": 30.41131,
+    "lng": -88.82781
+  },
+  {
+    "name": "Ocean Acres",
+    "country": "US",
+    "lat": 39.74345,
+    "lng": -74.28098
+  },
+  {
+    "name": "Ocean City",
+    "country": "US",
+    "lat": 39.27762,
+    "lng": -74.5746
+  },
+  {
+    "name": "Ocean Gate",
+    "country": "US",
+    "lat": 39.92679,
+    "lng": -74.13375
+  },
+  {
+    "name": "Occoquan",
+    "country": "US",
+    "lat": 38.68373,
+    "lng": -77.26026
+  },
+  {
+    "name": "Oceana",
+    "country": "US",
+    "lat": 37.69206,
+    "lng": -81.624
+  },
+  {
+    "name": "Ocean Grove",
+    "country": "US",
+    "lat": 41.72927,
+    "lng": -71.20921
+  },
+  {
+    "name": "Ocean Grove",
+    "country": "US",
+    "lat": 40.21206,
+    "lng": -74.00653
+  },
+  {
+    "name": "Oceanport",
+    "country": "US",
+    "lat": 40.31817,
+    "lng": -74.01514
+  },
+  {
+    "name": "Oceanside",
+    "country": "US",
+    "lat": 40.63871,
+    "lng": -73.64013
+  },
+  {
+    "name": "Oconomowoc",
+    "country": "US",
+    "lat": 43.11167,
+    "lng": -88.49927
+  },
+  {
+    "name": "Oconto",
+    "country": "US",
+    "lat": 44.88721,
+    "lng": -87.86455
+  },
+  {
+    "name": "Oconto Falls",
+    "country": "US",
+    "lat": 44.87388,
+    "lng": -88.14288
+  },
+  {
+    "name": "Occidental",
+    "country": "US",
+    "lat": 38.40741,
+    "lng": -122.94833
+  },
+  {
+    "name": "Oceano",
+    "country": "US",
+    "lat": 35.09886,
+    "lng": -120.61239
+  },
+  {
+    "name": "Oceanside",
+    "country": "US",
+    "lat": 33.19587,
+    "lng": -117.37948
+  },
+  {
+    "name": "Ocean Park",
+    "country": "US",
+    "lat": 46.49177,
+    "lng": -124.05208
+  },
+  {
+    "name": "Ocean Shores",
+    "country": "US",
+    "lat": 46.9737,
+    "lng": -124.15629
+  },
+  {
+    "name": "Ocean Bluff-Brant Rock",
+    "country": "US",
+    "lat": 42.10234,
+    "lng": -70.65736
+  },
+  {
+    "name": "Ocean Pointe",
+    "country": "US",
+    "lat": 21.31066,
+    "lng": -158.03638
+  },
+  {
+    "name": "Ocumare del Tuy",
+    "country": "VE",
+    "lat": 10.1182,
+    "lng": -66.77513
+  },
+  {
+    "name": "Ocumare de la Costa",
+    "country": "VE",
+    "lat": 10.46127,
+    "lng": -67.76872
+  },
+  {
+    "name": "Ocean Drive-In",
+    "country": "ZA",
+    "lat": -29.58971,
+    "lng": 31.14713
+  }
+]

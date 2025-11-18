@@ -1,0 +1,4724 @@
+[
+  {
+    "name": "Lunik",
+    "country": "AL",
+    "lat": 41.28917,
+    "lng": 20.32361
+  },
+  {
+    "name": "Lukovë",
+    "country": "AL",
+    "lat": 39.99222,
+    "lng": 19.91389
+  },
+  {
+    "name": "Luzi i Vogël",
+    "country": "AL",
+    "lat": 41.1275,
+    "lng": 19.57389
+  },
+  {
+    "name": "Lushnjë",
+    "country": "AL",
+    "lat": 40.94194,
+    "lng": 19.705
+  },
+  {
+    "name": "Luftinjë",
+    "country": "AL",
+    "lat": 40.44278,
+    "lng": 19.95444
+  },
+  {
+    "name": "Lumas",
+    "country": "AL",
+    "lat": 40.8182,
+    "lng": 19.99378
+  },
+  {
+    "name": "Lusarat",
+    "country": "AM",
+    "lat": 39.87403,
+    "lng": 44.58678
+  },
+  {
+    "name": "Lusaghbyur",
+    "country": "AM",
+    "lat": 40.86137,
+    "lng": 44.03489
+  },
+  {
+    "name": "Lusagyugh",
+    "country": "AM",
+    "lat": 40.08893,
+    "lng": 44.26947
+  },
+  {
+    "name": "Lukashin",
+    "country": "AM",
+    "lat": 40.18726,
+    "lng": 44.0039
+  },
+  {
+    "name": "Lusakunk",
+    "country": "AM",
+    "lat": 40.1778,
+    "lng": 45.69137
+  },
+  {
+    "name": "Lucapa",
+    "country": "AO",
+    "lat": -8.41915,
+    "lng": 20.74466
+  },
+  {
+    "name": "Lumeji",
+    "country": "AO",
+    "lat": -11.55768,
+    "lng": 20.78096
+  },
+  {
+    "name": "Lumbala",
+    "country": "AO",
+    "lat": -14.10165,
+    "lng": 21.43531
+  },
+  {
+    "name": "Luau",
+    "country": "AO",
+    "lat": -10.70727,
+    "lng": 22.22466
+  },
+  {
+    "name": "Lucala",
+    "country": "AO",
+    "lat": -9.27268,
+    "lng": 15.25206
+  },
+  {
+    "name": "Lubalo",
+    "country": "AO",
+    "lat": -9.15445,
+    "lng": 19.28136
+  },
+  {
+    "name": "Luanda",
+    "country": "AO",
+    "lat": -8.83682,
+    "lng": 13.23432
+  },
+  {
+    "name": "Luquembo",
+    "country": "AO",
+    "lat": -10.73912,
+    "lng": 17.71766
+  },
+  {
+    "name": "Luena",
+    "country": "AO",
+    "lat": -11.78333,
+    "lng": 19.91667
+  },
+  {
+    "name": "Lubango",
+    "country": "AO",
+    "lat": -14.91717,
+    "lng": 13.4925
+  },
+  {
+    "name": "Luján",
+    "country": "AR",
+    "lat": -34.5664,
+    "lng": -59.11478
+  },
+  {
+    "name": "Lucas González",
+    "country": "AR",
+    "lat": -32.38436,
+    "lng": -59.53086
+  },
+  {
+    "name": "Lules",
+    "country": "AR",
+    "lat": -26.9282,
+    "lng": -65.33852
+  },
+  {
+    "name": "Luján de Cuyo",
+    "country": "AR",
+    "lat": -33.03917,
+    "lng": -68.87955
+  },
+  {
+    "name": "Luján",
+    "country": "AR",
+    "lat": -32.36674,
+    "lng": -65.93642
+  },
+  {
+    "name": "Lutzmannsburg",
+    "country": "AT",
+    "lat": 47.46373,
+    "lng": 16.63665
+  },
+  {
+    "name": "Lustenau",
+    "country": "AT",
+    "lat": 47.42642,
+    "lng": 9.65851
+  },
+  {
+    "name": "Lunz am See",
+    "country": "AT",
+    "lat": 47.8612,
+    "lng": 15.02998
+  },
+  {
+    "name": "Luftenberg an der Donau",
+    "country": "AT",
+    "lat": 48.27462,
+    "lng": 14.41303
+  },
+  {
+    "name": "Ludmannsdorf",
+    "country": "AT",
+    "lat": 46.54139,
+    "lng": 14.13425
+  },
+  {
+    "name": "Ludesch",
+    "country": "AT",
+    "lat": 47.2,
+    "lng": 9.78306
+  },
+  {
+    "name": "Ludmilla",
+    "country": "AU",
+    "lat": -12.42032,
+    "lng": 130.85506
+  },
+  {
+    "name": "Luddenham",
+    "country": "AU",
+    "lat": -33.8785,
+    "lng": 150.68863
+  },
+  {
+    "name": "Lucknow",
+    "country": "AU",
+    "lat": -37.81667,
+    "lng": 147.65
+  },
+  {
+    "name": "Lugarno",
+    "country": "AU",
+    "lat": -33.98267,
+    "lng": 151.04184
+  },
+  {
+    "name": "Lutana",
+    "country": "AU",
+    "lat": -42.83475,
+    "lng": 147.31152
+  },
+  {
+    "name": "Lutwyche",
+    "country": "AU",
+    "lat": -27.42275,
+    "lng": 153.03354
+  },
+  {
+    "name": "Lurnea",
+    "country": "AU",
+    "lat": -33.93539,
+    "lng": 150.89673
+  },
+  {
+    "name": "Lumparland",
+    "country": "AX",
+    "lat": 60.11695,
+    "lng": 20.25819
+  },
+  {
+    "name": "Lukavica",
+    "country": "BA",
+    "lat": 44.76452,
+    "lng": 18.16887
+  },
+  {
+    "name": "Lukavica",
+    "country": "BA",
+    "lat": 43.82693,
+    "lng": 18.38318
+  },
+  {
+    "name": "Lukavac",
+    "country": "BA",
+    "lat": 44.54245,
+    "lng": 18.52618
+  },
+  {
+    "name": "Lug",
+    "country": "BA",
+    "lat": 44.98715,
+    "lng": 17.87088
+  },
+  {
+    "name": "Luttre",
+    "country": "BE",
+    "lat": 50.51006,
+    "lng": 4.39709
+  },
+  {
+    "name": "Lustin",
+    "country": "BE",
+    "lat": 50.37876,
+    "lng": 4.89871
+  },
+  {
+    "name": "Lummen",
+    "country": "BE",
+    "lat": 50.98772,
+    "lng": 5.19121
+  },
+  {
+    "name": "Luingne",
+    "country": "BE",
+    "lat": 50.73952,
+    "lng": 3.23603
+  },
+  {
+    "name": "Lubbeek",
+    "country": "BE",
+    "lat": 50.88278,
+    "lng": 4.83896
+  },
+  {
+    "name": "Lukovit",
+    "country": "BG",
+    "lat": 43.2,
+    "lng": 24.16667
+  },
+  {
+    "name": "Lumapas",
+    "country": "BN",
+    "lat": 4.85,
+    "lng": 114.91667
+  },
+  {
+    "name": "Luzilândia",
+    "country": "BR",
+    "lat": -3.45778,
+    "lng": -42.37028
+  },
+  {
+    "name": "Luís Gomes",
+    "country": "BR",
+    "lat": -6.41389,
+    "lng": -38.38861
+  },
+  {
+    "name": "Luís Domingues",
+    "country": "BR",
+    "lat": -1.32705,
+    "lng": -45.8976
+  },
+  {
+    "name": "Luís Correia",
+    "country": "BR",
+    "lat": -2.87917,
+    "lng": -41.66694
+  },
+  {
+    "name": "Lucrécia",
+    "country": "BR",
+    "lat": -6.12,
+    "lng": -37.81556
+  },
+  {
+    "name": "Lucena",
+    "country": "BR",
+    "lat": -6.90028,
+    "lng": -34.86889
+  },
+  {
+    "name": "Luziânia",
+    "country": "BR",
+    "lat": -16.2525,
+    "lng": -47.95028
+  },
+  {
+    "name": "Luzerna",
+    "country": "BR",
+    "lat": -27.13278,
+    "lng": -51.46722
+  },
+  {
+    "name": "Luz",
+    "country": "BR",
+    "lat": -19.80139,
+    "lng": -45.68556
+  },
+  {
+    "name": "Lutécia",
+    "country": "BR",
+    "lat": -22.34,
+    "lng": -50.39222
+  },
+  {
+    "name": "Lupionópolis",
+    "country": "BR",
+    "lat": -22.75528,
+    "lng": -51.65722
+  },
+  {
+    "name": "Lupércio",
+    "country": "BR",
+    "lat": -22.415,
+    "lng": -49.81722
+  },
+  {
+    "name": "Luminárias",
+    "country": "BR",
+    "lat": -21.51111,
+    "lng": -44.90333
+  },
+  {
+    "name": "Luiziânia",
+    "country": "BR",
+    "lat": -21.67583,
+    "lng": -50.32667
+  },
+  {
+    "name": "Luiziana",
+    "country": "BR",
+    "lat": -24.28611,
+    "lng": -52.27583
+  },
+  {
+    "name": "Luisburgo",
+    "country": "BR",
+    "lat": -20.43972,
+    "lng": -42.10278
+  },
+  {
+    "name": "Luís Antônio",
+    "country": "BR",
+    "lat": -21.555,
+    "lng": -47.70444
+  },
+  {
+    "name": "Luiz Alves",
+    "country": "BR",
+    "lat": -26.72056,
+    "lng": -48.93278
+  },
+  {
+    "name": "Luciara",
+    "country": "BR",
+    "lat": -11.22163,
+    "lng": -50.66722
+  },
+  {
+    "name": "Lucianópolis",
+    "country": "BR",
+    "lat": -22.43111,
+    "lng": -49.5225
+  },
+  {
+    "name": "Lucélia",
+    "country": "BR",
+    "lat": -21.72028,
+    "lng": -51.01889
+  },
+  {
+    "name": "Lucas",
+    "country": "BR",
+    "lat": -16.33333,
+    "lng": -55.93333
+  },
+  {
+    "name": "Lunardelli",
+    "country": "BR",
+    "lat": -24.07797,
+    "lng": -51.74205
+  },
+  {
+    "name": "Lucas do Rio Verde",
+    "country": "BR",
+    "lat": -13.07127,
+    "lng": -55.91479
+  },
+  {
+    "name": "Luislândia",
+    "country": "BR",
+    "lat": -16.1175,
+    "lng": -44.58861
+  },
+  {
+    "name": "Luzinópolis",
+    "country": "BR",
+    "lat": -6.18222,
+    "lng": -47.85611
+  },
+  {
+    "name": "Luis Eduardo Magalhães",
+    "country": "BR",
+    "lat": -12.09086,
+    "lng": -45.78501
+  },
+  {
+    "name": "Lucaya",
+    "country": "BS",
+    "lat": 26.53333,
+    "lng": -78.66667
+  },
+  {
+    "name": "Lungtenzampa",
+    "country": "BT",
+    "lat": 27.46821,
+    "lng": 89.64441
+  },
+  {
+    "name": "Luninyets",
+    "country": "BY",
+    "lat": 52.24864,
+    "lng": 26.80061
+  },
+  {
+    "name": "Luhavaya Slabada",
+    "country": "BY",
+    "lat": 53.7823,
+    "lng": 27.8434
+  },
+  {
+    "name": "Lucan",
+    "country": "CA",
+    "lat": 43.18339,
+    "lng": -81.39976
+  },
+  {
+    "name": "Lumby",
+    "country": "CA",
+    "lat": 50.24979,
+    "lng": -118.96904
+  },
+  {
+    "name": "Lumsden",
+    "country": "CA",
+    "lat": 50.65009,
+    "lng": -104.86783
+  },
+  {
+    "name": "Lunenburg",
+    "country": "CA",
+    "lat": 44.37847,
+    "lng": -64.31658
+  },
+  {
+    "name": "Lutes Mountain",
+    "country": "CA",
+    "lat": 46.13544,
+    "lng": -64.90504
+  },
+  {
+    "name": "Luceville",
+    "country": "CA",
+    "lat": 48.54498,
+    "lng": -68.39658
+  },
+  {
+    "name": "Lusambo",
+    "country": "CD",
+    "lat": -4.97503,
+    "lng": 23.44391
+  },
+  {
+    "name": "Luputa",
+    "country": "CD",
+    "lat": -7.16177,
+    "lng": 23.70057
+  },
+  {
+    "name": "Lukula",
+    "country": "CD",
+    "lat": -3.86881,
+    "lng": 23.88348
+  },
+  {
+    "name": "Luebo",
+    "country": "CD",
+    "lat": -5.35218,
+    "lng": 21.42192
+  },
+  {
+    "name": "Lubero",
+    "country": "CD",
+    "lat": -0.15837,
+    "lng": 29.23859
+  },
+  {
+    "name": "Lubao",
+    "country": "CD",
+    "lat": -5.38771,
+    "lng": 25.74885
+  },
+  {
+    "name": "Lubumbashi",
+    "country": "CD",
+    "lat": -11.66089,
+    "lng": 27.47938
+  },
+  {
+    "name": "Lukolela",
+    "country": "CD",
+    "lat": -1.06046,
+    "lng": 17.1821
+  },
+  {
+    "name": "Luzern",
+    "country": "CH",
+    "lat": 47.05048,
+    "lng": 8.30635
+  },
+  {
+    "name": "Luzein",
+    "country": "CH",
+    "lat": 46.91957,
+    "lng": 9.7608
+  },
+  {
+    "name": "Lutry",
+    "country": "CH",
+    "lat": 46.50241,
+    "lng": 6.68647
+  },
+  {
+    "name": "Luthern",
+    "country": "CH",
+    "lat": 47.05753,
+    "lng": 7.91692
+  },
+  {
+    "name": "Luterbach",
+    "country": "CH",
+    "lat": 47.21426,
+    "lng": 7.58463
+  },
+  {
+    "name": "Lungern",
+    "country": "CH",
+    "lat": 46.78578,
+    "lng": 8.15984
+  },
+  {
+    "name": "Lumino",
+    "country": "CH",
+    "lat": 46.2302,
+    "lng": 9.0642
+  },
+  {
+    "name": "Lugano",
+    "country": "CH",
+    "lat": 46.01008,
+    "lng": 8.96004
+  },
+  {
+    "name": "Luchsingen",
+    "country": "CH",
+    "lat": 46.9664,
+    "lng": 9.03715
+  },
+  {
+    "name": "Lucens",
+    "country": "CH",
+    "lat": 46.70854,
+    "lng": 6.83931
+  },
+  {
+    "name": "Lugbakro",
+    "country": "CI",
+    "lat": 6.72607,
+    "lng": -5.20166
+  },
+  {
+    "name": "Luéhouan",
+    "country": "CI",
+    "lat": 6.29916,
+    "lng": -6.77104
+  },
+  {
+    "name": "Luénoufla",
+    "country": "CI",
+    "lat": 7.07236,
+    "lng": -6.24125
+  },
+  {
+    "name": "Lumaco",
+    "country": "CL",
+    "lat": -38.16485,
+    "lng": -72.90551
+  },
+  {
+    "name": "Luobuqiongzi",
+    "country": "CN",
+    "lat": 29.16667,
+    "lng": 89.25
+  },
+  {
+    "name": "Luzhang",
+    "country": "CN",
+    "lat": 25.97309,
+    "lng": 98.82345
+  },
+  {
+    "name": "Luring",
+    "country": "CN",
+    "lat": 32.26667,
+    "lng": 84.2
+  },
+  {
+    "name": "Luntai",
+    "country": "CN",
+    "lat": 41.77953,
+    "lng": 84.27049
+  },
+  {
+    "name": "Luzhou",
+    "country": "CN",
+    "lat": 28.8903,
+    "lng": 105.42575
+  },
+  {
+    "name": "Luzhai",
+    "country": "CN",
+    "lat": 24.48526,
+    "lng": 109.73496
+  },
+  {
+    "name": "Luyuan",
+    "country": "CN",
+    "lat": 34.53596,
+    "lng": 109.08508
+  },
+  {
+    "name": "Luyang",
+    "country": "CN",
+    "lat": 27.62389,
+    "lng": 110.09889
+  },
+  {
+    "name": "Luxia",
+    "country": "CN",
+    "lat": 26.93,
+    "lng": 118.80722
+  },
+  {
+    "name": "Luxi",
+    "country": "CN",
+    "lat": 27.63618,
+    "lng": 114.03529
+  },
+  {
+    "name": "Luwan",
+    "country": "CN",
+    "lat": 31.20908,
+    "lng": 121.46335
+  },
+  {
+    "name": "Lushi",
+    "country": "CN",
+    "lat": 34.05678,
+    "lng": 111.05394
+  },
+  {
+    "name": "Lushar",
+    "country": "CN",
+    "lat": 36.48416,
+    "lng": 101.56328
+  },
+  {
+    "name": "Luyang",
+    "country": "CN",
+    "lat": 33.73564,
+    "lng": 112.90508
+  },
+  {
+    "name": "Lushan",
+    "country": "CN",
+    "lat": 26.65,
+    "lng": 107.78333
+  },
+  {
+    "name": "Luqiao",
+    "country": "CN",
+    "lat": 29.93246,
+    "lng": 102.23163
+  },
+  {
+    "name": "Luoyang",
+    "country": "CN",
+    "lat": 34.67345,
+    "lng": 112.43684
+  },
+  {
+    "name": "Luoyang",
+    "country": "CN",
+    "lat": 27.56139,
+    "lng": 119.71139
+  },
+  {
+    "name": "Luoyang",
+    "country": "CN",
+    "lat": 24.95938,
+    "lng": 118.683
+  },
+  {
+    "name": "Luoyang",
+    "country": "CN",
+    "lat": 23.16244,
+    "lng": 114.27342
+  },
+  {
+    "name": "Luoxiong",
+    "country": "CN",
+    "lat": 24.88558,
+    "lng": 104.29225
+  },
+  {
+    "name": "Luoshan Chengguanzhen",
+    "country": "CN",
+    "lat": 32.20318,
+    "lng": 114.50942
+  },
+  {
+    "name": "Luorong",
+    "country": "CN",
+    "lat": 24.40583,
+    "lng": 109.60861
+  },
+  {
+    "name": "Luoqiaocun",
+    "country": "CN",
+    "lat": 26.47023,
+    "lng": 119.00317
+  },
+  {
+    "name": "Luoqi",
+    "country": "CN",
+    "lat": 29.72235,
+    "lng": 106.93206
+  },
+  {
+    "name": "Luoping",
+    "country": "CN",
+    "lat": 31.20659,
+    "lng": 110.08679
+  },
+  {
+    "name": "Luoning",
+    "country": "CN",
+    "lat": 34.38562,
+    "lng": 111.65242
+  },
+  {
+    "name": "Luomen",
+    "country": "CN",
+    "lat": 34.75417,
+    "lng": 105.02472
+  },
+  {
+    "name": "Luolong",
+    "country": "CN",
+    "lat": 28.80557,
+    "lng": 104.89906
+  },
+  {
+    "name": "Luojiu",
+    "country": "CN",
+    "lat": 27.51583,
+    "lng": 109.80889
+  },
+  {
+    "name": "Luojiang",
+    "country": "CN",
+    "lat": 31.30497,
+    "lng": 104.50484
+  },
+  {
+    "name": "Luohuang",
+    "country": "CN",
+    "lat": 29.34662,
+    "lng": 106.43514
+  },
+  {
+    "name": "Luohe",
+    "country": "CN",
+    "lat": 33.56394,
+    "lng": 114.04272
+  },
+  {
+    "name": "Luocheng",
+    "country": "CN",
+    "lat": 22.76953,
+    "lng": 111.56882
+  },
+  {
+    "name": "Luocheng",
+    "country": "CN",
+    "lat": 30.98021,
+    "lng": 104.28081
+  },
+  {
+    "name": "Luocheng",
+    "country": "CN",
+    "lat": 29.38481,
+    "lng": 104.02862
+  },
+  {
+    "name": "Luocheng",
+    "country": "CN",
+    "lat": 25.03231,
+    "lng": 118.79495
+  },
+  {
+    "name": "Lufu",
+    "country": "CN",
+    "lat": 24.7602,
+    "lng": 103.26647
+  },
+  {
+    "name": "Lulou",
+    "country": "CN",
+    "lat": 34.71667,
+    "lng": 116.76667
+  },
+  {
+    "name": "Lulong",
+    "country": "CN",
+    "lat": 39.8912,
+    "lng": 118.87331
+  },
+  {
+    "name": "Lukou",
+    "country": "CN",
+    "lat": 27.70292,
+    "lng": 113.15202
+  },
+  {
+    "name": "Lujiao",
+    "country": "CN",
+    "lat": 29.13436,
+    "lng": 108.28523
+  },
+  {
+    "name": "Lucheng",
+    "country": "CN",
+    "lat": 31.23357,
+    "lng": 117.28057
+  },
+  {
+    "name": "Luhua",
+    "country": "CN",
+    "lat": 32.06708,
+    "lng": 102.98786
+  },
+  {
+    "name": "Lufeng",
+    "country": "CN",
+    "lat": 27.90944,
+    "lng": 110.58583
+  },
+  {
+    "name": "Luhua",
+    "country": "CN",
+    "lat": 36.33139,
+    "lng": 113.22444
+  },
+  {
+    "name": "Lucheng",
+    "country": "CN",
+    "lat": 31.76324,
+    "lng": 120.04588
+  },
+  {
+    "name": "Lubu",
+    "country": "CN",
+    "lat": 23.17233,
+    "lng": 112.28298
+  },
+  {
+    "name": "Luanzhou",
+    "country": "CN",
+    "lat": 39.73923,
+    "lng": 118.70043
+  },
+  {
+    "name": "Luanchuan Chengguanzhen",
+    "country": "CN",
+    "lat": 33.7808,
+    "lng": 111.613
+  },
+  {
+    "name": "Luancheng",
+    "country": "CN",
+    "lat": 37.88452,
+    "lng": 114.64629
+  },
+  {
+    "name": "Lu’an",
+    "country": "CN",
+    "lat": 31.73561,
+    "lng": 116.51688
+  },
+  {
+    "name": "Luocheng",
+    "country": "CN",
+    "lat": 24.78058,
+    "lng": 108.89846
+  },
+  {
+    "name": "Luoli",
+    "country": "CN",
+    "lat": 26.34583,
+    "lng": 108.93889
+  },
+  {
+    "name": "Luoba",
+    "country": "CN",
+    "lat": 34.32278,
+    "lng": 105.06472
+  },
+  {
+    "name": "Luogang",
+    "country": "CN",
+    "lat": 23.17789,
+    "lng": 113.50104
+  },
+  {
+    "name": "Lubei",
+    "country": "CN",
+    "lat": 44.60866,
+    "lng": 120.9556
+  },
+  {
+    "name": "Luanping",
+    "country": "CN",
+    "lat": 40.93966,
+    "lng": 117.33229
+  },
+  {
+    "name": "Luobei",
+    "country": "CN",
+    "lat": 47.57602,
+    "lng": 130.81311
+  },
+  {
+    "name": "Luozhou",
+    "country": "CN",
+    "lat": 21.60589,
+    "lng": 110.27705
+  },
+  {
+    "name": "Luoda",
+    "country": "CN",
+    "lat": 33.98619,
+    "lng": 103.98081
+  },
+  {
+    "name": "Luotang",
+    "country": "CN",
+    "lat": 33.06775,
+    "lng": 105.26485
+  },
+  {
+    "name": "Luoyu",
+    "country": "CN",
+    "lat": 33.84103,
+    "lng": 105.23117
+  },
+  {
+    "name": "Luhe",
+    "country": "CN",
+    "lat": 34.00918,
+    "lng": 105.34021
+  },
+  {
+    "name": "Lugu",
+    "country": "CN",
+    "lat": 39.89672,
+    "lng": 116.22037
+  },
+  {
+    "name": "Lubei",
+    "country": "CN",
+    "lat": 28.58633,
+    "lng": 121.36998
+  },
+  {
+    "name": "Luotian",
+    "country": "CN",
+    "lat": 30.5156,
+    "lng": 108.55948
+  },
+  {
+    "name": "Luming",
+    "country": "CN",
+    "lat": 29.44858,
+    "lng": 108.0819
+  },
+  {
+    "name": "Lutang",
+    "country": "CN",
+    "lat": 29.51798,
+    "lng": 108.32942
+  },
+  {
+    "name": "Luoyun",
+    "country": "CN",
+    "lat": 29.78072,
+    "lng": 107.5979
+  },
+  {
+    "name": "Luolun",
+    "country": "CN",
+    "lat": 24.3219,
+    "lng": 111.068
+  },
+  {
+    "name": "Luobupo",
+    "country": "CN",
+    "lat": 40.46402,
+    "lng": 90.85692
+  },
+  {
+    "name": "Lunan",
+    "country": "CN",
+    "lat": 39.61109,
+    "lng": 118.14392
+  },
+  {
+    "name": "Lubei",
+    "country": "CN",
+    "lat": 39.64381,
+    "lng": 118.17143
+  },
+  {
+    "name": "Luolong",
+    "country": "CN",
+    "lat": 34.61994,
+    "lng": 112.46699
+  },
+  {
+    "name": "Luohu District",
+    "country": "CN",
+    "lat": 22.54721,
+    "lng": 114.13149
+  },
+  {
+    "name": "Lushui",
+    "country": "CN",
+    "lat": 25.8232,
+    "lng": 98.85853
+  },
+  {
+    "name": "Luruaco",
+    "country": "CO",
+    "lat": 10.61712,
+    "lng": -75.15146
+  },
+  {
+    "name": "Luis Arcos Bergnes",
+    "country": "CU",
+    "lat": 22.50402,
+    "lng": -79.81521
+  },
+  {
+    "name": "Lužná",
+    "country": "CZ",
+    "lat": 50.12377,
+    "lng": 13.77004
+  },
+  {
+    "name": "Lužice",
+    "country": "CZ",
+    "lat": 48.84098,
+    "lng": 17.07104
+  },
+  {
+    "name": "Lužec nad Vltavou",
+    "country": "CZ",
+    "lat": 50.32138,
+    "lng": 14.40022
+  },
+  {
+    "name": "Luže",
+    "country": "CZ",
+    "lat": 49.89341,
+    "lng": 16.0285
+  },
+  {
+    "name": "Lutín",
+    "country": "CZ",
+    "lat": 49.55845,
+    "lng": 17.13572
+  },
+  {
+    "name": "Luštěnice",
+    "country": "CZ",
+    "lat": 50.32296,
+    "lng": 14.93667
+  },
+  {
+    "name": "Lukov",
+    "country": "CZ",
+    "lat": 49.29027,
+    "lng": 17.72959
+  },
+  {
+    "name": "Lukavice",
+    "country": "CZ",
+    "lat": 50.06029,
+    "lng": 16.48207
+  },
+  {
+    "name": "Lukavec",
+    "country": "CZ",
+    "lat": 49.56541,
+    "lng": 14.99041
+  },
+  {
+    "name": "Luka nad Jihlavou",
+    "country": "CZ",
+    "lat": 49.37403,
+    "lng": 15.70194
+  },
+  {
+    "name": "Luhačovice",
+    "country": "CZ",
+    "lat": 49.09982,
+    "lng": 17.75747
+  },
+  {
+    "name": "Ludgeřovice",
+    "country": "CZ",
+    "lat": 49.89042,
+    "lng": 18.24008
+  },
+  {
+    "name": "Lučany nad Nisou",
+    "country": "CZ",
+    "lat": 50.74136,
+    "lng": 15.22046
+  },
+  {
+    "name": "Luby",
+    "country": "CZ",
+    "lat": 50.25248,
+    "lng": 12.40595
+  },
+  {
+    "name": "Lubenec",
+    "country": "CZ",
+    "lat": 50.13207,
+    "lng": 13.31319
+  },
+  {
+    "name": "Lučina",
+    "country": "CZ",
+    "lat": 49.72082,
+    "lng": 18.44776
+  },
+  {
+    "name": "Lutzerath",
+    "country": "DE",
+    "lat": 50.12695,
+    "lng": 7.0074
+  },
+  {
+    "name": "Lutter am Barenberge",
+    "country": "DE",
+    "lat": 51.98943,
+    "lng": 10.2693
+  },
+  {
+    "name": "Lustadt",
+    "country": "DE",
+    "lat": 49.24476,
+    "lng": 8.27407
+  },
+  {
+    "name": "Lurup",
+    "country": "DE",
+    "lat": 53.59266,
+    "lng": 9.87697
+  },
+  {
+    "name": "Lupburg",
+    "country": "DE",
+    "lat": 49.1551,
+    "lng": 11.7564
+  },
+  {
+    "name": "Lunzenau",
+    "country": "DE",
+    "lat": 50.96269,
+    "lng": 12.75594
+  },
+  {
+    "name": "Lunestedt",
+    "country": "DE",
+    "lat": 53.43621,
+    "lng": 8.75193
+  },
+  {
+    "name": "Lunden",
+    "country": "DE",
+    "lat": 54.33131,
+    "lng": 9.02523
+  },
+  {
+    "name": "Luisenthal",
+    "country": "DE",
+    "lat": 50.78333,
+    "lng": 10.73333
+  },
+  {
+    "name": "Luhe-Wildenau",
+    "country": "DE",
+    "lat": 49.58367,
+    "lng": 12.14921
+  },
+  {
+    "name": "Luhden",
+    "country": "DE",
+    "lat": 52.22538,
+    "lng": 9.09256
+  },
+  {
+    "name": "Lugau",
+    "country": "DE",
+    "lat": 50.73843,
+    "lng": 12.74861
+  },
+  {
+    "name": "Ludwigsstadt",
+    "country": "DE",
+    "lat": 50.48605,
+    "lng": 11.38734
+  },
+  {
+    "name": "Ludwigslust",
+    "country": "DE",
+    "lat": 53.32917,
+    "lng": 11.49714
+  },
+  {
+    "name": "Ludwigshafen am Rhein",
+    "country": "DE",
+    "lat": 49.48121,
+    "lng": 8.44641
+  },
+  {
+    "name": "Ludwigsfelde",
+    "country": "DE",
+    "lat": 52.30322,
+    "lng": 13.25405
+  },
+  {
+    "name": "Ludwigsburg",
+    "country": "DE",
+    "lat": 48.89731,
+    "lng": 9.19161
+  },
+  {
+    "name": "Luckenwalde",
+    "country": "DE",
+    "lat": 52.09029,
+    "lng": 13.16772
+  },
+  {
+    "name": "Luckau",
+    "country": "DE",
+    "lat": 51.85245,
+    "lng": 13.70735
+  },
+  {
+    "name": "Lucka",
+    "country": "DE",
+    "lat": 51.09727,
+    "lng": 12.33336
+  },
+  {
+    "name": "Lubmin",
+    "country": "DE",
+    "lat": 54.13509,
+    "lng": 13.61687
+  },
+  {
+    "name": "Lubnjow",
+    "country": "DE",
+    "lat": 51.86217,
+    "lng": 13.95168
+  },
+  {
+    "name": "Lubin",
+    "country": "DE",
+    "lat": 51.93814,
+    "lng": 13.88826
+  },
+  {
+    "name": "Luftkurort Arendsee",
+    "country": "DE",
+    "lat": 52.88073,
+    "lng": 11.48621
+  },
+  {
+    "name": "Ludweiler-Warndt",
+    "country": "DE",
+    "lat": 49.22074,
+    "lng": 6.81195
+  },
+  {
+    "name": "Luisenthal",
+    "country": "DE",
+    "lat": 49.24932,
+    "lng": 6.90057
+  },
+  {
+    "name": "Lunderskov",
+    "country": "DK",
+    "lat": 55.48375,
+    "lng": 9.29917
+  },
+  {
+    "name": "Luperón",
+    "country": "DO",
+    "lat": 19.89131,
+    "lng": -70.96204
+  },
+  {
+    "name": "Luz de América",
+    "country": "EC",
+    "lat": -0.40579,
+    "lng": -79.30323
+  },
+  {
+    "name": "Luunja",
+    "country": "EE",
+    "lat": 58.35583,
+    "lng": 26.88083
+  },
+  {
+    "name": "Luxor",
+    "country": "EG",
+    "lat": 25.69893,
+    "lng": 32.6421
+  },
+  {
+    "name": "Luque",
+    "country": "ES",
+    "lat": 37.55797,
+    "lng": -4.27974
+  },
+  {
+    "name": "Lupión",
+    "country": "ES",
+    "lat": 37.99653,
+    "lng": -3.54699
+  },
+  {
+    "name": "Lugros",
+    "country": "ES",
+    "lat": 37.22942,
+    "lng": -3.2415
+  },
+  {
+    "name": "Lucillos",
+    "country": "ES",
+    "lat": 39.9851,
+    "lng": -4.61279
+  },
+  {
+    "name": "Lucena del Puerto",
+    "country": "ES",
+    "lat": 37.30396,
+    "lng": -6.72926
+  },
+  {
+    "name": "Lucena",
+    "country": "ES",
+    "lat": 37.40881,
+    "lng": -4.48522
+  },
+  {
+    "name": "Lucainena de las Torres",
+    "country": "ES",
+    "lat": 37.04037,
+    "lng": -2.20095
+  },
+  {
+    "name": "Lubrín",
+    "country": "ES",
+    "lat": 37.21538,
+    "lng": -2.06677
+  },
+  {
+    "name": "Luintra",
+    "country": "ES",
+    "lat": 42.40964,
+    "lng": -7.72682
+  },
+  {
+    "name": "Luzón",
+    "country": "ES",
+    "lat": 41.02691,
+    "lng": -2.27691
+  },
+  {
+    "name": "Luzmela",
+    "country": "ES",
+    "lat": 43.29685,
+    "lng": -4.20884
+  },
+  {
+    "name": "Luzaga",
+    "country": "ES",
+    "lat": 40.97337,
+    "lng": -2.44497
+  },
+  {
+    "name": "Luyego",
+    "country": "ES",
+    "lat": 42.36667,
+    "lng": -6.23333
+  },
+  {
+    "name": "Lupiana",
+    "country": "ES",
+    "lat": 40.60846,
+    "lng": -3.05118
+  },
+  {
+    "name": "Luna",
+    "country": "ES",
+    "lat": 42.1676,
+    "lng": -0.93292
+  },
+  {
+    "name": "Lumpiaque",
+    "country": "ES",
+    "lat": 41.62953,
+    "lng": -1.30156
+  },
+  {
+    "name": "Lumbreras",
+    "country": "ES",
+    "lat": 42.10477,
+    "lng": -2.62189
+  },
+  {
+    "name": "Lumbrales",
+    "country": "ES",
+    "lat": 40.93501,
+    "lng": -6.71948
+  },
+  {
+    "name": "Lumbier",
+    "country": "ES",
+    "lat": 42.65303,
+    "lng": -1.30669
+  },
+  {
+    "name": "Lugones",
+    "country": "ES",
+    "lat": 43.40272,
+    "lng": -5.81215
+  },
+  {
+    "name": "Lugo",
+    "country": "ES",
+    "lat": 43.00992,
+    "lng": -7.55602
+  },
+  {
+    "name": "Luesma",
+    "country": "ES",
+    "lat": 41.16583,
+    "lng": -1.14575
+  },
+  {
+    "name": "Luesia",
+    "country": "ES",
+    "lat": 42.36974,
+    "lng": -1.02421
+  },
+  {
+    "name": "Luelmo",
+    "country": "ES",
+    "lat": 41.4403,
+    "lng": -6.13338
+  },
+  {
+    "name": "Ludiente",
+    "country": "ES",
+    "lat": 40.08333,
+    "lng": -0.36667
+  },
+  {
+    "name": "Luceni",
+    "country": "ES",
+    "lat": 41.82857,
+    "lng": -1.23889
+  },
+  {
+    "name": "Lucena del Cid",
+    "country": "ES",
+    "lat": 40.13333,
+    "lng": -0.28333
+  },
+  {
+    "name": "Lucena de Jalón",
+    "country": "ES",
+    "lat": 41.55301,
+    "lng": -1.31305
+  },
+  {
+    "name": "Lubián",
+    "country": "ES",
+    "lat": 42.03569,
+    "lng": -6.90541
+  },
+  {
+    "name": "Luanco",
+    "country": "ES",
+    "lat": 43.61517,
+    "lng": -5.79344
+  },
+  {
+    "name": "Lucero",
+    "country": "ES",
+    "lat": 40.40229,
+    "lng": -3.75035
+  },
+  {
+    "name": "Lumamē",
+    "country": "ET",
+    "lat": 10.25,
+    "lng": 37.93333
+  },
+  {
+    "name": "Luvia",
+    "country": "FI",
+    "lat": 61.36375,
+    "lng": 21.62556
+  },
+  {
+    "name": "Luumäki",
+    "country": "FI",
+    "lat": 60.92618,
+    "lng": 27.58135
+  },
+  {
+    "name": "Luopioinen",
+    "country": "FI",
+    "lat": 61.36293,
+    "lng": 24.66781
+  },
+  {
+    "name": "Lumijoki",
+    "country": "FI",
+    "lat": 64.83744,
+    "lng": 25.18607
+  },
+  {
+    "name": "Luhanka",
+    "country": "FI",
+    "lat": 61.79682,
+    "lng": 25.70457
+  },
+  {
+    "name": "Lukonmäki",
+    "country": "FI",
+    "lat": 61.46873,
+    "lng": 23.84583
+  },
+  {
+    "name": "Lukunor",
+    "country": "FM",
+    "lat": 5.507,
+    "lng": 153.8205
+  },
+  {
+    "name": "Luzy",
+    "country": "FR",
+    "lat": 46.79011,
+    "lng": 3.97036
+  },
+  {
+    "name": "Luz-Saint-Sauveur",
+    "country": "FR",
+    "lat": 42.87229,
+    "lng": -0.00311
+  },
+  {
+    "name": "Luzinay",
+    "country": "FR",
+    "lat": 45.58996,
+    "lng": 4.95891
+  },
+  {
+    "name": "Luzech",
+    "country": "FR",
+    "lat": 44.47825,
+    "lng": 1.28675
+  },
+  {
+    "name": "Luzarches",
+    "country": "FR",
+    "lat": 49.11319,
+    "lng": 2.4223
+  },
+  {
+    "name": "Luynes",
+    "country": "FR",
+    "lat": 47.38441,
+    "lng": 0.5547
+  },
+  {
+    "name": "Luxeuil-les-Bains",
+    "country": "FR",
+    "lat": 47.8171,
+    "lng": 6.365
+  },
+  {
+    "name": "Lutzelhouse",
+    "country": "FR",
+    "lat": 48.52114,
+    "lng": 7.287
+  },
+  {
+    "name": "Lutterbach",
+    "country": "FR",
+    "lat": 47.75976,
+    "lng": 7.28032
+  },
+  {
+    "name": "Lussac-les-Châteaux",
+    "country": "FR",
+    "lat": 46.40329,
+    "lng": 0.72326
+  },
+  {
+    "name": "Lussac",
+    "country": "FR",
+    "lat": 44.95024,
+    "lng": -0.09606
+  },
+  {
+    "name": "Lusigny-sur-Barse",
+    "country": "FR",
+    "lat": 48.25451,
+    "lng": 4.26891
+  },
+  {
+    "name": "Lusigny",
+    "country": "FR",
+    "lat": 46.58776,
+    "lng": 3.49142
+  },
+  {
+    "name": "Lusignan",
+    "country": "FR",
+    "lat": 46.43531,
+    "lng": 0.12204
+  },
+  {
+    "name": "Lusanger",
+    "country": "FR",
+    "lat": 47.68118,
+    "lng": -1.58838
+  },
+  {
+    "name": "Lure",
+    "country": "FR",
+    "lat": 47.68294,
+    "lng": 6.49658
+  },
+  {
+    "name": "Lurcy-Lévis",
+    "country": "FR",
+    "lat": 46.72981,
+    "lng": 2.93829
+  },
+  {
+    "name": "Luray",
+    "country": "FR",
+    "lat": 48.72035,
+    "lng": 1.39889
+  },
+  {
+    "name": "Lunéville",
+    "country": "FR",
+    "lat": 48.59273,
+    "lng": 6.49383
+  },
+  {
+    "name": "Lunery",
+    "country": "FR",
+    "lat": 46.93569,
+    "lng": 2.26895
+  },
+  {
+    "name": "Luneray",
+    "country": "FR",
+    "lat": 49.82795,
+    "lng": 0.91581
+  },
+  {
+    "name": "Lunel-Viel",
+    "country": "FR",
+    "lat": 43.6789,
+    "lng": 4.0925
+  },
+  {
+    "name": "Lunel",
+    "country": "FR",
+    "lat": 43.67778,
+    "lng": 4.13611
+  },
+  {
+    "name": "Lunay",
+    "country": "FR",
+    "lat": 47.80864,
+    "lng": 0.91499
+  },
+  {
+    "name": "Lumio",
+    "country": "FR",
+    "lat": 42.57894,
+    "lng": 8.83373
+  },
+  {
+    "name": "Lumigny-Nesles-Ormeaux",
+    "country": "FR",
+    "lat": 48.73333,
+    "lng": 2.95
+  },
+  {
+    "name": "Lumes",
+    "country": "FR",
+    "lat": 49.73461,
+    "lng": 4.78616
+  },
+  {
+    "name": "Lumbres",
+    "country": "FR",
+    "lat": 50.70693,
+    "lng": 2.12081
+  },
+  {
+    "name": "Lumbin",
+    "country": "FR",
+    "lat": 45.30954,
+    "lng": 5.91505
+  },
+  {
+    "name": "Luitré",
+    "country": "FR",
+    "lat": 48.2831,
+    "lng": -1.11875
+  },
+  {
+    "name": "Luisant",
+    "country": "FR",
+    "lat": 48.4295,
+    "lng": 1.47383
+  },
+  {
+    "name": "Lugrin",
+    "country": "FR",
+    "lat": 46.40208,
+    "lng": 6.65283
+  },
+  {
+    "name": "Ludres",
+    "country": "FR",
+    "lat": 48.62032,
+    "lng": 6.16747
+  },
+  {
+    "name": "Ludon-Médoc",
+    "country": "FR",
+    "lat": 44.98218,
+    "lng": -0.60386
+  },
+  {
+    "name": "Luc-sur-Mer",
+    "country": "FR",
+    "lat": 49.31452,
+    "lng": -0.35499
+  },
+  {
+    "name": "Lucq-de-Béarn",
+    "country": "FR",
+    "lat": 43.28739,
+    "lng": -0.65893
+  },
+  {
+    "name": "Luçon",
+    "country": "FR",
+    "lat": 46.45493,
+    "lng": -1.16629
+  },
+  {
+    "name": "Lucinges",
+    "country": "FR",
+    "lat": 46.19181,
+    "lng": 6.31511
+  },
+  {
+    "name": "Luché-Pringé",
+    "country": "FR",
+    "lat": 47.70326,
+    "lng": 0.07549
+  },
+  {
+    "name": "Lucéram",
+    "country": "FR",
+    "lat": 43.88293,
+    "lng": 7.35988
+  },
+  {
+    "name": "Lucenay-lès-Aix",
+    "country": "FR",
+    "lat": 46.70274,
+    "lng": 3.48308
+  },
+  {
+    "name": "Lucenay",
+    "country": "FR",
+    "lat": 45.91274,
+    "lng": 4.70287
+  },
+  {
+    "name": "Luceau",
+    "country": "FR",
+    "lat": 47.71146,
+    "lng": 0.39701
+  },
+  {
+    "name": "Lucé",
+    "country": "FR",
+    "lat": 48.43689,
+    "lng": 1.46359
+  },
+  {
+    "name": "Lucciana",
+    "country": "FR",
+    "lat": 42.54609,
+    "lng": 9.41865
+  },
+  {
+    "name": "Luçay-le-Mâle",
+    "country": "FR",
+    "lat": 47.12996,
+    "lng": 1.44173
+  },
+  {
+    "name": "Luc-la-Primaube",
+    "country": "FR",
+    "lat": 44.31439,
+    "lng": 2.53552
+  },
+  {
+    "name": "Lubersac",
+    "country": "FR",
+    "lat": 45.44474,
+    "lng": 1.40457
+  },
+  {
+    "name": "Luant",
+    "country": "FR",
+    "lat": 46.733,
+    "lng": 1.55793
+  },
+  {
+    "name": "Lugon-et-l'Île-du-Carnay",
+    "country": "FR",
+    "lat": 44.95556,
+    "lng": -0.33611
+  },
+  {
+    "name": "Lutterworth",
+    "country": "GB",
+    "lat": 52.45634,
+    "lng": -1.20218
+  },
+  {
+    "name": "Luton",
+    "country": "GB",
+    "lat": 51.87967,
+    "lng": -0.41748
+  },
+  {
+    "name": "Lundin Links",
+    "country": "GB",
+    "lat": 56.21399,
+    "lng": -2.95173
+  },
+  {
+    "name": "Lund",
+    "country": "GB",
+    "lat": 53.9192,
+    "lng": -0.52211
+  },
+  {
+    "name": "Luncarty",
+    "country": "GB",
+    "lat": 56.45308,
+    "lng": -3.47007
+  },
+  {
+    "name": "Lugwardine",
+    "country": "GB",
+    "lat": 52.06583,
+    "lng": -2.6578
+  },
+  {
+    "name": "Ludlow",
+    "country": "GB",
+    "lat": 52.37431,
+    "lng": -2.71311
+  },
+  {
+    "name": "Ludgershall",
+    "country": "GB",
+    "lat": 51.25558,
+    "lng": -1.6222
+  },
+  {
+    "name": "Luddenden Foot",
+    "country": "GB",
+    "lat": 53.71873,
+    "lng": -1.94582
+  },
+  {
+    "name": "Luckington",
+    "country": "GB",
+    "lat": 51.55444,
+    "lng": -2.24222
+  },
+  {
+    "name": "Luba",
+    "country": "GQ",
+    "lat": 3.45683,
+    "lng": 8.55465
+  },
+  {
+    "name": "Luk Yeung",
+    "country": "HK",
+    "lat": 22.37371,
+    "lng": 114.11917
+  },
+  {
+    "name": "Lung Poon Court",
+    "country": "HK",
+    "lat": 22.34239,
+    "lng": 114.19987
+  },
+  {
+    "name": "Lucerna",
+    "country": "HN",
+    "lat": 14.55817,
+    "lng": -88.9345
+  },
+  {
+    "name": "Lupoglav",
+    "country": "HR",
+    "lat": 45.3528,
+    "lng": 14.1075
+  },
+  {
+    "name": "Lumbarda",
+    "country": "HR",
+    "lat": 42.92278,
+    "lng": 17.16722
+  },
+  {
+    "name": "Luka Vrbovečka",
+    "country": "HR",
+    "lat": 45.87833,
+    "lng": 16.38167
+  },
+  {
+    "name": "Lukavec",
+    "country": "HR",
+    "lat": 45.70444,
+    "lng": 15.99
+  },
+  {
+    "name": "Lukač",
+    "country": "HR",
+    "lat": 45.8725,
+    "lng": 17.41944
+  },
+  {
+    "name": "Ludbreg",
+    "country": "HR",
+    "lat": 46.25194,
+    "lng": 16.61472
+  },
+  {
+    "name": "Lučko",
+    "country": "HR",
+    "lat": 45.76162,
+    "lng": 15.88028
+  },
+  {
+    "name": "Lukarišće",
+    "country": "HR",
+    "lat": 45.81318,
+    "lng": 16.27524
+  },
+  {
+    "name": "Lugarski Breg",
+    "country": "HR",
+    "lat": 45.96137,
+    "lng": 15.73631
+  },
+  {
+    "name": "Lubuk Pakam",
+    "country": "ID",
+    "lat": 3.5592,
+    "lng": 98.8733
+  },
+  {
+    "name": "Luwuk",
+    "country": "ID",
+    "lat": -0.9516,
+    "lng": 122.7875
+  },
+  {
+    "name": "Luragung",
+    "country": "ID",
+    "lat": -7.0172,
+    "lng": 108.6381
+  },
+  {
+    "name": "Lumajang",
+    "country": "ID",
+    "lat": -8.1335,
+    "lng": 113.2248
+  },
+  {
+    "name": "Lubuk Sikaping",
+    "country": "ID",
+    "lat": 0.14411,
+    "lng": 100.1657
+  },
+  {
+    "name": "Lubuklinggau",
+    "country": "ID",
+    "lat": -3.2945,
+    "lng": 102.8614
+  },
+  {
+    "name": "Lubuk Jambi",
+    "country": "ID",
+    "lat": -0.6517,
+    "lng": 101.4681
+  },
+  {
+    "name": "Lubukgadang",
+    "country": "ID",
+    "lat": -1.5251,
+    "lng": 101.2734
+  },
+  {
+    "name": "Lubuk Basung",
+    "country": "ID",
+    "lat": -0.32545,
+    "lng": 100.06462
+  },
+  {
+    "name": "Lubukbergalung",
+    "country": "ID",
+    "lat": -0.96076,
+    "lng": 100.40011
+  },
+  {
+    "name": "Lubukalung",
+    "country": "ID",
+    "lat": -0.68321,
+    "lng": 100.31856
+  },
+  {
+    "name": "Lupak",
+    "country": "ID",
+    "lat": -3.3823,
+    "lng": 114.268
+  },
+  {
+    "name": "Lueng Putu",
+    "country": "ID",
+    "lat": 5.2571,
+    "lng": 96.0565
+  },
+  {
+    "name": "Lubukalung",
+    "country": "ID",
+    "lat": -0.68624,
+    "lng": 100.28613
+  },
+  {
+    "name": "Luan Balu",
+    "country": "ID",
+    "lat": 2.52582,
+    "lng": 96.33172
+  },
+  {
+    "name": "Luthu",
+    "country": "ID",
+    "lat": 5.31351,
+    "lng": 95.40294
+  },
+  {
+    "name": "Lusk",
+    "country": "IE",
+    "lat": 53.52743,
+    "lng": -6.16423
+  },
+  {
+    "name": "Lucan",
+    "country": "IE",
+    "lat": 53.35736,
+    "lng": -6.44859
+  },
+  {
+    "name": "Lunglei",
+    "country": "IN",
+    "lat": 22.89247,
+    "lng": 92.74218
+  },
+  {
+    "name": "Ludhiana",
+    "country": "IN",
+    "lat": 30.91204,
+    "lng": 75.85379
+  },
+  {
+    "name": "Lucknow",
+    "country": "IN",
+    "lat": 26.83928,
+    "lng": 80.92313
+  },
+  {
+    "name": "Luckeesarai",
+    "country": "IN",
+    "lat": 25.1765,
+    "lng": 86.0947
+  },
+  {
+    "name": "Lumding Railway Colony",
+    "country": "IN",
+    "lat": 25.74903,
+    "lng": 93.16998
+  },
+  {
+    "name": "Luwangsangbam",
+    "country": "IN",
+    "lat": 24.86956,
+    "lng": 93.92217
+  },
+  {
+    "name": "Luzzi",
+    "country": "IT",
+    "lat": 39.44799,
+    "lng": 16.2873
+  },
+  {
+    "name": "Lungro",
+    "country": "IT",
+    "lat": 39.73772,
+    "lng": 16.12586
+  },
+  {
+    "name": "Lunamatrona",
+    "country": "IT",
+    "lat": 39.64943,
+    "lng": 8.89966
+  },
+  {
+    "name": "Lucugnano",
+    "country": "IT",
+    "lat": 39.9349,
+    "lng": 18.32174
+  },
+  {
+    "name": "Lucca Sicula",
+    "country": "IT",
+    "lat": 37.57783,
+    "lng": 13.30579
+  },
+  {
+    "name": "Lucino-Rodano",
+    "country": "IT",
+    "lat": 45.47607,
+    "lng": 9.35315
+  },
+  {
+    "name": "Luzzara",
+    "country": "IT",
+    "lat": 44.95925,
+    "lng": 10.68953
+  },
+  {
+    "name": "Luzzano",
+    "country": "IT",
+    "lat": 41.06818,
+    "lng": 14.53611
+  },
+  {
+    "name": "Luzzana",
+    "country": "IT",
+    "lat": 45.7153,
+    "lng": 9.88105
+  },
+  {
+    "name": "Lustra",
+    "country": "IT",
+    "lat": 40.2883,
+    "lng": 15.06826
+  },
+  {
+    "name": "Luson - Luesen",
+    "country": "IT",
+    "lat": 46.74623,
+    "lng": 11.76098
+  },
+  {
+    "name": "Lusiana",
+    "country": "IT",
+    "lat": 45.78428,
+    "lng": 11.57478
+  },
+  {
+    "name": "Lusia",
+    "country": "IT",
+    "lat": 45.09848,
+    "lng": 11.66511
+  },
+  {
+    "name": "Lusevera",
+    "country": "IT",
+    "lat": 46.27529,
+    "lng": 13.26922
+  },
+  {
+    "name": "Luserna",
+    "country": "IT",
+    "lat": 44.80745,
+    "lng": 7.24579
+  },
+  {
+    "name": "Luserna",
+    "country": "IT",
+    "lat": 45.9226,
+    "lng": 11.32289
+  },
+  {
+    "name": "Lurate Caccivio",
+    "country": "IT",
+    "lat": 45.76701,
+    "lng": 8.99897
+  },
+  {
+    "name": "Luras",
+    "country": "IT",
+    "lat": 40.93643,
+    "lng": 9.1748
+  },
+  {
+    "name": "Lurago Marinone",
+    "country": "IT",
+    "lat": 45.70482,
+    "lng": 8.9833
+  },
+  {
+    "name": "Lurago d'Erba",
+    "country": "IT",
+    "lat": 45.75097,
+    "lng": 9.21817
+  },
+  {
+    "name": "Lupara",
+    "country": "IT",
+    "lat": 41.76141,
+    "lng": 14.7339
+  },
+  {
+    "name": "Luogosanto",
+    "country": "IT",
+    "lat": 41.04681,
+    "lng": 9.20553
+  },
+  {
+    "name": "Luogosano",
+    "country": "IT",
+    "lat": 40.98643,
+    "lng": 14.99206
+  },
+  {
+    "name": "Lungavilla",
+    "country": "IT",
+    "lat": 45.04151,
+    "lng": 9.07842
+  },
+  {
+    "name": "Lunano",
+    "country": "IT",
+    "lat": 43.73214,
+    "lng": 12.44326
+  },
+  {
+    "name": "Lumignano",
+    "country": "IT",
+    "lat": 45.45968,
+    "lng": 11.58786
+  },
+  {
+    "name": "Lumellogno",
+    "country": "IT",
+    "lat": 45.40801,
+    "lng": 8.58787
+  },
+  {
+    "name": "Lula",
+    "country": "IT",
+    "lat": 40.47048,
+    "lng": 9.48684
+  },
+  {
+    "name": "Luino",
+    "country": "IT",
+    "lat": 46.00185,
+    "lng": 8.74512
+  },
+  {
+    "name": "Lugugnana",
+    "country": "IT",
+    "lat": 45.73277,
+    "lng": 12.95958
+  },
+  {
+    "name": "Lugo",
+    "country": "IT",
+    "lat": 44.42137,
+    "lng": 11.91094
+  },
+  {
+    "name": "Lugnano in Teverina",
+    "country": "IT",
+    "lat": 42.57592,
+    "lng": 12.33336
+  },
+  {
+    "name": "Lugagnano Val d'Arda",
+    "country": "IT",
+    "lat": 44.82304,
+    "lng": 9.82828
+  },
+  {
+    "name": "Lugagnano",
+    "country": "IT",
+    "lat": 45.43327,
+    "lng": 10.88402
+  },
+  {
+    "name": "Lucrezia",
+    "country": "IT",
+    "lat": 43.7731,
+    "lng": 12.93995
+  },
+  {
+    "name": "Luco dei Marsi",
+    "country": "IT",
+    "lat": 41.95925,
+    "lng": 13.47349
+  },
+  {
+    "name": "Lucito",
+    "country": "IT",
+    "lat": 41.73193,
+    "lng": 14.68723
+  },
+  {
+    "name": "Lucinasco",
+    "country": "IT",
+    "lat": 43.96602,
+    "lng": 7.96005
+  },
+  {
+    "name": "Lucignano",
+    "country": "IT",
+    "lat": 43.27259,
+    "lng": 11.74599
+  },
+  {
+    "name": "Lucera",
+    "country": "IT",
+    "lat": 41.5055,
+    "lng": 15.3391
+  },
+  {
+    "name": "Lucca",
+    "country": "IT",
+    "lat": 43.84369,
+    "lng": 10.50447
+  },
+  {
+    "name": "Lubriano",
+    "country": "IT",
+    "lat": 42.63623,
+    "lng": 12.10876
+  },
+  {
+    "name": "Lu",
+    "country": "IT",
+    "lat": 45.00184,
+    "lng": 8.48561
+  },
+  {
+    "name": "Lutrano",
+    "country": "IT",
+    "lat": 45.81415,
+    "lng": 12.47316
+  },
+  {
+    "name": "Lughignano",
+    "country": "IT",
+    "lat": 45.62533,
+    "lng": 12.32478
+  },
+  {
+    "name": "Lumezzane",
+    "country": "IT",
+    "lat": 45.64789,
+    "lng": 10.26487
+  },
+  {
+    "name": "Lusciano",
+    "country": "IT",
+    "lat": 40.97001,
+    "lng": 14.19043
+  },
+  {
+    "name": "Lugo di Vicenza",
+    "country": "IT",
+    "lat": 45.7455,
+    "lng": 11.52869
+  },
+  {
+    "name": "Lucoli",
+    "country": "IT",
+    "lat": 42.29093,
+    "lng": 13.33799
+  },
+  {
+    "name": "Luvinate",
+    "country": "IT",
+    "lat": 45.83958,
+    "lng": 8.77193
+  },
+  {
+    "name": "Luisago",
+    "country": "IT",
+    "lat": 45.76288,
+    "lng": 9.03544
+  },
+  {
+    "name": "Lurano",
+    "country": "IT",
+    "lat": 45.56568,
+    "lng": 9.64016
+  },
+  {
+    "name": "Lugnacco",
+    "country": "IT",
+    "lat": 45.44506,
+    "lng": 7.78212
+  },
+  {
+    "name": "Lusigliè",
+    "country": "IT",
+    "lat": 45.31845,
+    "lng": 7.76462
+  },
+  {
+    "name": "Lusernetta",
+    "country": "IT",
+    "lat": 44.80314,
+    "lng": 7.24672
+  },
+  {
+    "name": "Luco Mugello",
+    "country": "IT",
+    "lat": 44.00032,
+    "lng": 11.39611
+  },
+  {
+    "name": "Lu Bagnu",
+    "country": "IT",
+    "lat": 40.90184,
+    "lng": 8.68555
+  },
+  {
+    "name": "Lunetta-Frassino",
+    "country": "IT",
+    "lat": 45.16016,
+    "lng": 10.82059
+  },
+  {
+    "name": "Lucino",
+    "country": "IT",
+    "lat": 45.7835,
+    "lng": 9.0434
+  },
+  {
+    "name": "Ludriano",
+    "country": "IT",
+    "lat": 45.44846,
+    "lng": 9.93276
+  },
+  {
+    "name": "Lucea",
+    "country": "JM",
+    "lat": 18.45095,
+    "lng": -78.17356
+  },
+  {
+    "name": "Lunga-Lunga",
+    "country": "KE",
+    "lat": -4.55276,
+    "lng": 39.12363
+  },
+  {
+    "name": "Lugulu",
+    "country": "KE",
+    "lat": 0.39337,
+    "lng": 34.30399
+  },
+  {
+    "name": "Luanda",
+    "country": "KE",
+    "lat": 0.31354,
+    "lng": 34.07146
+  },
+  {
+    "name": "Luanda",
+    "country": "KE",
+    "lat": 0.02333,
+    "lng": 34.58661
+  },
+  {
+    "name": "Lumphat",
+    "country": "KH",
+    "lat": 13.49146,
+    "lng": 106.98022
+  },
+  {
+    "name": "Lugovoy",
+    "country": "KZ",
+    "lat": 42.94197,
+    "lng": 72.76098
+  },
+  {
+    "name": "Luang Prabang",
+    "country": "LA",
+    "lat": 19.8933,
+    "lng": 102.1525
+  },
+  {
+    "name": "Luang Namtha",
+    "country": "LA",
+    "lat": 20.9486,
+    "lng": 101.40188
+  },
+  {
+    "name": "Luxembourg",
+    "country": "LU",
+    "lat": 49.60982,
+    "lng": 6.13268
+  },
+  {
+    "name": "Ludza",
+    "country": "LV",
+    "lat": 56.53373,
+    "lng": 27.72155
+  },
+  {
+    "name": "Lubāna",
+    "country": "LV",
+    "lat": 56.90425,
+    "lng": 26.71606
+  },
+  {
+    "name": "Lukovo",
+    "country": "MK",
+    "lat": 41.35339,
+    "lng": 20.60637
+  },
+  {
+    "name": "Luhuan",
+    "country": "MO",
+    "lat": 22.11806,
+    "lng": 113.55194
+  },
+  {
+    "name": "Luqa",
+    "country": "MT",
+    "lat": 35.85985,
+    "lng": 14.48895
+  },
+  {
+    "name": "Luchenza",
+    "country": "MW",
+    "lat": -16.00693,
+    "lng": 35.30947
+  },
+  {
+    "name": "Luis Gil Pérez",
+    "country": "MX",
+    "lat": 17.87572,
+    "lng": -93.07161
+  },
+  {
+    "name": "Luis Espinoza",
+    "country": "MX",
+    "lat": 17.15045,
+    "lng": -93.42239
+  },
+  {
+    "name": "Luis Moya",
+    "country": "MX",
+    "lat": 22.43237,
+    "lng": -102.24864
+  },
+  {
+    "name": "Luchanas",
+    "country": "MX",
+    "lat": 25.79091,
+    "lng": -103.19384
+  },
+  {
+    "name": "Luis Rodríguez (El Vergel)",
+    "country": "MX",
+    "lat": 30.40722,
+    "lng": -115.88722
+  },
+  {
+    "name": "Lucio Blanco (Los Gavilanes)",
+    "country": "MX",
+    "lat": 21.11528,
+    "lng": -101.55111
+  },
+  {
+    "name": "Luis Espinoza",
+    "country": "MX",
+    "lat": 17.03167,
+    "lng": -93.02694
+  },
+  {
+    "name": "Lunas",
+    "country": "MY",
+    "lat": 5.43058,
+    "lng": 100.53012
+  },
+  {
+    "name": "Lubok China",
+    "country": "MY",
+    "lat": 2.4536,
+    "lng": 102.0695
+  },
+  {
+    "name": "Lumut",
+    "country": "MY",
+    "lat": 4.2323,
+    "lng": 100.6298
+  },
+  {
+    "name": "Lubok Antu",
+    "country": "MY",
+    "lat": 1.04186,
+    "lng": 111.83398
+  },
+  {
+    "name": "Lundu",
+    "country": "MY",
+    "lat": 1.67439,
+    "lng": 109.85171
+  },
+  {
+    "name": "Lukut",
+    "country": "MY",
+    "lat": 2.5703,
+    "lng": 101.833
+  },
+  {
+    "name": "Lubok Buntar",
+    "country": "MY",
+    "lat": 5.14216,
+    "lng": 100.58971
+  },
+  {
+    "name": "Lurah Bilut",
+    "country": "MY",
+    "lat": 3.6648,
+    "lng": 101.8888
+  },
+  {
+    "name": "Luabo",
+    "country": "MZ",
+    "lat": -18.39278,
+    "lng": 36.10528
+  },
+  {
+    "name": "Luyksgestel",
+    "country": "NL",
+    "lat": 51.28917,
+    "lng": 5.32361
+  },
+  {
+    "name": "Luttelgeest",
+    "country": "NL",
+    "lat": 52.74333,
+    "lng": 5.85278
+  },
+  {
+    "name": "Lutjebroek",
+    "country": "NL",
+    "lat": 52.6975,
+    "lng": 5.20417
+  },
+  {
+    "name": "Lunteren",
+    "country": "NL",
+    "lat": 52.085,
+    "lng": 5.62222
+  },
+  {
+    "name": "Lunetten",
+    "country": "NL",
+    "lat": 52.06178,
+    "lng": 5.13474
+  },
+  {
+    "name": "Lunde",
+    "country": "NO",
+    "lat": 59.29832,
+    "lng": 9.10268
+  },
+  {
+    "name": "Lundamo",
+    "country": "NO",
+    "lat": 63.15216,
+    "lng": 10.28555
+  },
+  {
+    "name": "Lurøy",
+    "country": "NO",
+    "lat": 66.41887,
+    "lng": 12.84248
+  },
+  {
+    "name": "Luster",
+    "country": "NO",
+    "lat": 61.44322,
+    "lng": 7.45992
+  },
+  {
+    "name": "Luya",
+    "country": "PE",
+    "lat": -6.16389,
+    "lng": -77.94528
+  },
+  {
+    "name": "Lucmapampa",
+    "country": "PE",
+    "lat": -6.94142,
+    "lng": -78.09168
+  },
+  {
+    "name": "Lucma",
+    "country": "PE",
+    "lat": -8.91941,
+    "lng": -77.41099
+  },
+  {
+    "name": "Lucma",
+    "country": "PE",
+    "lat": -7.64064,
+    "lng": -78.55134
+  },
+  {
+    "name": "Luricocha",
+    "country": "PE",
+    "lat": -12.89928,
+    "lng": -74.27407
+  },
+  {
+    "name": "Lucre",
+    "country": "PE",
+    "lat": -13.94969,
+    "lng": -73.22638
+  },
+  {
+    "name": "Lucre",
+    "country": "PE",
+    "lat": -13.63556,
+    "lng": -71.7375
+  },
+  {
+    "name": "Lucma",
+    "country": "PE",
+    "lat": -13.05269,
+    "lng": -72.93705
+  },
+  {
+    "name": "Lucanas",
+    "country": "PE",
+    "lat": -14.62232,
+    "lng": -74.23344
+  },
+  {
+    "name": "Lucena",
+    "country": "PH",
+    "lat": 10.8794,
+    "lng": 122.5967
+  },
+  {
+    "name": "Lusong",
+    "country": "PH",
+    "lat": 16.867,
+    "lng": 120.442
+  },
+  {
+    "name": "Luzon",
+    "country": "PH",
+    "lat": 6.51904,
+    "lng": 126.09408
+  },
+  {
+    "name": "Luuk Datan",
+    "country": "PH",
+    "lat": 4.81194,
+    "lng": 119.84528
+  },
+  {
+    "name": "Lu-uk",
+    "country": "PH",
+    "lat": 5.9684,
+    "lng": 121.3122
+  },
+  {
+    "name": "Lut-od",
+    "country": "PH",
+    "lat": 10.25722,
+    "lng": 123.62944
+  },
+  {
+    "name": "Lutayan",
+    "country": "PH",
+    "lat": 6.6189,
+    "lng": 124.88156
+  },
+  {
+    "name": "Lusacan",
+    "country": "PH",
+    "lat": 13.95523,
+    "lng": 121.34477
+  },
+  {
+    "name": "Lurugan",
+    "country": "PH",
+    "lat": 8.01667,
+    "lng": 124.96667
+  },
+  {
+    "name": "Lupon",
+    "country": "PH",
+    "lat": 6.89814,
+    "lng": 126.00961
+  },
+  {
+    "name": "Lupi Viejo",
+    "country": "PH",
+    "lat": 13.7897,
+    "lng": 122.9098
+  },
+  {
+    "name": "Lupi",
+    "country": "PH",
+    "lat": 13.53333,
+    "lng": 123.15
+  },
+  {
+    "name": "Lupao",
+    "country": "PH",
+    "lat": 15.8793,
+    "lng": 120.8983
+  },
+  {
+    "name": "Luntal",
+    "country": "PH",
+    "lat": 14.0292,
+    "lng": 120.7174
+  },
+  {
+    "name": "Lun Pequeño",
+    "country": "PH",
+    "lat": 6.03778,
+    "lng": 125.28389
+  },
+  {
+    "name": "Lungog",
+    "country": "PH",
+    "lat": 17.4645,
+    "lng": 120.4784
+  },
+  {
+    "name": "Lungaog",
+    "country": "PH",
+    "lat": 7.52944,
+    "lng": 125.68778
+  },
+  {
+    "name": "Lunen",
+    "country": "PH",
+    "lat": 6.35911,
+    "lng": 124.90477
+  },
+  {
+    "name": "Lunec",
+    "country": "PH",
+    "lat": 15.95395,
+    "lng": 120.48949
+  },
+  {
+    "name": "Lunas",
+    "country": "PH",
+    "lat": 10.6402,
+    "lng": 123.7525
+  },
+  {
+    "name": "Lunao",
+    "country": "PH",
+    "lat": 8.85028,
+    "lng": 125.05639
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 18.32583,
+    "lng": 121.35361
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 16.96975,
+    "lng": 121.72924
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 16.8528,
+    "lng": 120.3761
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 10.969,
+    "lng": 123.2419
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 9.737,
+    "lng": 125.4976
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 7.57639,
+    "lng": 125.66722
+  },
+  {
+    "name": "Lumuyon",
+    "country": "PH",
+    "lat": 5.91583,
+    "lng": 124.78694
+  },
+  {
+    "name": "Lumil",
+    "country": "PH",
+    "lat": 14.18144,
+    "lng": 121.00989
+  },
+  {
+    "name": "Lumbia",
+    "country": "PH",
+    "lat": 8.39583,
+    "lng": 124.59389
+  },
+  {
+    "name": "Lumbayao",
+    "country": "PH",
+    "lat": 8.01667,
+    "lng": 125.16667
+  },
+  {
+    "name": "Lumbayanague",
+    "country": "PH",
+    "lat": 7.7825,
+    "lng": 124.28
+  },
+  {
+    "name": "Lumbayan",
+    "country": "PH",
+    "lat": 6.94722,
+    "lng": 122.14111
+  },
+  {
+    "name": "Lumbatan",
+    "country": "PH",
+    "lat": 7.785,
+    "lng": 124.25639
+  },
+  {
+    "name": "Lumbangan",
+    "country": "PH",
+    "lat": 14.0524,
+    "lng": 120.6667
+  },
+  {
+    "name": "Lumbang",
+    "country": "PH",
+    "lat": 14.2973,
+    "lng": 121.4598
+  },
+  {
+    "name": "Lumatil",
+    "country": "PH",
+    "lat": 5.87472,
+    "lng": 124.88833
+  },
+  {
+    "name": "Lumazal",
+    "country": "PH",
+    "lat": 5.88528,
+    "lng": 124.84944
+  },
+  {
+    "name": "Lumangbayan",
+    "country": "PH",
+    "lat": 13.419,
+    "lng": 121.0348
+  },
+  {
+    "name": "Lumangbayan",
+    "country": "PH",
+    "lat": 13.0483,
+    "lng": 121.49872
+  },
+  {
+    "name": "Luksuhin",
+    "country": "PH",
+    "lat": 14.09667,
+    "lng": 120.88083
+  },
+  {
+    "name": "Luklukan",
+    "country": "PH",
+    "lat": 14.3254,
+    "lng": 122.7124
+  },
+  {
+    "name": "Luisiana",
+    "country": "PH",
+    "lat": 14.185,
+    "lng": 121.5109
+  },
+  {
+    "name": "Lugus",
+    "country": "PH",
+    "lat": 5.70361,
+    "lng": 120.82028
+  },
+  {
+    "name": "Lugui",
+    "country": "PH",
+    "lat": 14.1131,
+    "lng": 122.7935
+  },
+  {
+    "name": "Lugo",
+    "country": "PH",
+    "lat": 10.81672,
+    "lng": 123.98626
+  },
+  {
+    "name": "Lugait",
+    "country": "PH",
+    "lat": 8.34111,
+    "lng": 124.25917
+  },
+  {
+    "name": "Lucsuhin",
+    "country": "PH",
+    "lat": 13.88186,
+    "lng": 120.64131
+  },
+  {
+    "name": "Lucero",
+    "country": "PH",
+    "lat": 16.4051,
+    "lng": 119.9124
+  },
+  {
+    "name": "Lucero",
+    "country": "PH",
+    "lat": 11.4542,
+    "lng": 122.46431
+  },
+  {
+    "name": "Lucena",
+    "country": "PH",
+    "lat": 13.93139,
+    "lng": 121.61722
+  },
+  {
+    "name": "Lucban",
+    "country": "PH",
+    "lat": 14.11356,
+    "lng": 121.55574
+  },
+  {
+    "name": "Lukatan",
+    "country": "PH",
+    "lat": 7.0096,
+    "lng": 126.42118
+  },
+  {
+    "name": "Lucapon",
+    "country": "PH",
+    "lat": 15.6998,
+    "lng": 119.932
+  },
+  {
+    "name": "Lucap",
+    "country": "PH",
+    "lat": 16.19038,
+    "lng": 120.00221
+  },
+  {
+    "name": "Lubuagan",
+    "country": "PH",
+    "lat": 17.3548,
+    "lng": 121.1747
+  },
+  {
+    "name": "Lubigan",
+    "country": "PH",
+    "lat": 13.742,
+    "lng": 122.9373
+  },
+  {
+    "name": "Lucban",
+    "country": "PH",
+    "lat": 18.33644,
+    "lng": 121.43082
+  },
+  {
+    "name": "Lubao",
+    "country": "PH",
+    "lat": 14.9405,
+    "lng": 120.6011
+  },
+  {
+    "name": "Lubang",
+    "country": "PH",
+    "lat": 13.85835,
+    "lng": 120.12402
+  },
+  {
+    "name": "Luba",
+    "country": "PH",
+    "lat": 17.318,
+    "lng": 120.6945
+  },
+  {
+    "name": "Lupo",
+    "country": "PH",
+    "lat": 11.5076,
+    "lng": 122.4791
+  },
+  {
+    "name": "Luna",
+    "country": "PH",
+    "lat": 12.5492,
+    "lng": 123.7336
+  },
+  {
+    "name": "Lumbog",
+    "country": "PH",
+    "lat": 7.5581,
+    "lng": 123.2014
+  },
+  {
+    "name": "Lumbac",
+    "country": "PH",
+    "lat": 7.73417,
+    "lng": 124.25278
+  },
+  {
+    "name": "Lutowiska",
+    "country": "PL",
+    "lat": 49.25318,
+    "lng": 22.69252
+  },
+  {
+    "name": "Lutoryż",
+    "country": "PL",
+    "lat": 49.96712,
+    "lng": 21.9124
+  },
+  {
+    "name": "Ludwin",
+    "country": "PL",
+    "lat": 51.34605,
+    "lng": 22.90581
+  },
+  {
+    "name": "Lubycza Królewska",
+    "country": "PL",
+    "lat": 50.34102,
+    "lng": 23.51941
+  },
+  {
+    "name": "Lubomino",
+    "country": "PL",
+    "lat": 54.06684,
+    "lng": 20.23956
+  },
+  {
+    "name": "Lubomierz",
+    "country": "PL",
+    "lat": 49.60854,
+    "lng": 20.20214
+  },
+  {
+    "name": "Lubochnia",
+    "country": "PL",
+    "lat": 51.60794,
+    "lng": 20.05391
+  },
+  {
+    "name": "Lublin",
+    "country": "PL",
+    "lat": 51.25058,
+    "lng": 22.57009
+  },
+  {
+    "name": "Lubenia",
+    "country": "PL",
+    "lat": 49.93078,
+    "lng": 21.92665
+  },
+  {
+    "name": "Lubartów",
+    "country": "PL",
+    "lat": 51.46026,
+    "lng": 22.60952
+  },
+  {
+    "name": "Lubaczów",
+    "country": "PL",
+    "lat": 50.157,
+    "lng": 23.12339
+  },
+  {
+    "name": "Luzino",
+    "country": "PL",
+    "lat": 54.56604,
+    "lng": 18.10907
+  },
+  {
+    "name": "Lututów",
+    "country": "PL",
+    "lat": 51.37033,
+    "lng": 18.4348
+  },
+  {
+    "name": "Lutomiersk",
+    "country": "PL",
+    "lat": 51.75376,
+    "lng": 19.21097
+  },
+  {
+    "name": "Lutocin",
+    "country": "PL",
+    "lat": 52.98152,
+    "lng": 19.76655
+  },
+  {
+    "name": "Luszowice",
+    "country": "PL",
+    "lat": 50.17415,
+    "lng": 19.40426
+  },
+  {
+    "name": "Ludźmierz",
+    "country": "PL",
+    "lat": 49.46656,
+    "lng": 19.9825
+  },
+  {
+    "name": "Ludwikowice Kłodzkie",
+    "country": "PL",
+    "lat": 50.62464,
+    "lng": 16.46052
+  },
+  {
+    "name": "Lubsza",
+    "country": "PL",
+    "lat": 50.91591,
+    "lng": 17.52173
+  },
+  {
+    "name": "Lubsko",
+    "country": "PL",
+    "lat": 51.78467,
+    "lng": 14.97196
+  },
+  {
+    "name": "Lubrza",
+    "country": "PL",
+    "lat": 52.30418,
+    "lng": 15.44317
+  },
+  {
+    "name": "Lubrza",
+    "country": "PL",
+    "lat": 50.33631,
+    "lng": 17.62636
+  },
+  {
+    "name": "Lubraniec",
+    "country": "PL",
+    "lat": 52.54178,
+    "lng": 18.83254
+  },
+  {
+    "name": "Lubowidz",
+    "country": "PL",
+    "lat": 53.11865,
+    "lng": 19.84594
+  },
+  {
+    "name": "Luboń",
+    "country": "PL",
+    "lat": 52.34705,
+    "lng": 16.89267
+  },
+  {
+    "name": "Lubomierz",
+    "country": "PL",
+    "lat": 51.01278,
+    "lng": 15.50969
+  },
+  {
+    "name": "Lubomia",
+    "country": "PL",
+    "lat": 50.03972,
+    "lng": 18.3082
+  },
+  {
+    "name": "Lubniewice",
+    "country": "PL",
+    "lat": 52.51638,
+    "lng": 15.25005
+  },
+  {
+    "name": "Lubliniec",
+    "country": "PL",
+    "lat": 50.66897,
+    "lng": 18.6844
+  },
+  {
+    "name": "Lublewo Gdańskie",
+    "country": "PL",
+    "lat": 54.28457,
+    "lng": 18.50389
+  },
+  {
+    "name": "Lubiszyn",
+    "country": "PL",
+    "lat": 52.78075,
+    "lng": 14.94793
+  },
+  {
+    "name": "Lubin",
+    "country": "PL",
+    "lat": 51.40089,
+    "lng": 16.20149
+  },
+  {
+    "name": "Lubiewo",
+    "country": "PL",
+    "lat": 53.46542,
+    "lng": 18.02994
+  },
+  {
+    "name": "Lubień Kujawski",
+    "country": "PL",
+    "lat": 52.40574,
+    "lng": 19.1644
+  },
+  {
+    "name": "Lubień",
+    "country": "PL",
+    "lat": 49.71921,
+    "lng": 19.97847
+  },
+  {
+    "name": "Lubichowo",
+    "country": "PL",
+    "lat": 53.85136,
+    "lng": 18.39901
+  },
+  {
+    "name": "Lubiana",
+    "country": "PL",
+    "lat": 54.114,
+    "lng": 17.87012
+  },
+  {
+    "name": "Lubawka",
+    "country": "PL",
+    "lat": 50.70456,
+    "lng": 16.00026
+  },
+  {
+    "name": "Lubawa",
+    "country": "PL",
+    "lat": 53.50428,
+    "lng": 19.74966
+  },
+  {
+    "name": "Lubasz",
+    "country": "PL",
+    "lat": 52.85213,
+    "lng": 16.52344
+  },
+  {
+    "name": "Lubanie",
+    "country": "PL",
+    "lat": 52.74689,
+    "lng": 18.9194
+  },
+  {
+    "name": "Lubań",
+    "country": "PL",
+    "lat": 51.12014,
+    "lng": 15.28768
+  },
+  {
+    "name": "Lubicz Dolny",
+    "country": "PL",
+    "lat": 53.03151,
+    "lng": 18.74559
+  },
+  {
+    "name": "Lubicz Górny",
+    "country": "PL",
+    "lat": 53.02686,
+    "lng": 18.771
+  },
+  {
+    "name": "Luis Llorens Torres",
+    "country": "PR",
+    "lat": 18.05691,
+    "lng": -66.52684
+  },
+  {
+    "name": "Luis M. Cintron",
+    "country": "PR",
+    "lat": 18.29968,
+    "lng": -65.63849
+  },
+  {
+    "name": "Luquillo",
+    "country": "PR",
+    "lat": 18.37245,
+    "lng": -65.71655
+  },
+  {
+    "name": "Luyando",
+    "country": "PR",
+    "lat": 18.36439,
+    "lng": -67.1574
+  },
+  {
+    "name": "Luz",
+    "country": "PT",
+    "lat": 37.09216,
+    "lng": -7.70433
+  },
+  {
+    "name": "Lumiar",
+    "country": "PT",
+    "lat": 38.77478,
+    "lng": -9.15601
+  },
+  {
+    "name": "Lustosa",
+    "country": "PT",
+    "lat": 41.34081,
+    "lng": -8.31715
+  },
+  {
+    "name": "Luso",
+    "country": "PT",
+    "lat": 40.38429,
+    "lng": -8.37845
+  },
+  {
+    "name": "Lupşanu",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 26.9
+  },
+  {
+    "name": "Lupşa",
+    "country": "RO",
+    "lat": 46.36667,
+    "lng": 23.2
+  },
+  {
+    "name": "Lupeni",
+    "country": "RO",
+    "lat": 46.38333,
+    "lng": 25.21667
+  },
+  {
+    "name": "Lupeni",
+    "country": "RO",
+    "lat": 45.36029,
+    "lng": 23.23832
+  },
+  {
+    "name": "Lupac",
+    "country": "RO",
+    "lat": 45.28,
+    "lng": 21.81278
+  },
+  {
+    "name": "Lunguleţu",
+    "country": "RO",
+    "lat": 44.61667,
+    "lng": 25.65
+  },
+  {
+    "name": "Lungeşti",
+    "country": "RO",
+    "lat": 44.56667,
+    "lng": 24.18333
+  },
+  {
+    "name": "Lungani",
+    "country": "RO",
+    "lat": 47.18333,
+    "lng": 27.15
+  },
+  {
+    "name": "Lunga",
+    "country": "RO",
+    "lat": 46.01822,
+    "lng": 26.21208
+  },
+  {
+    "name": "Luncșoara",
+    "country": "RO",
+    "lat": 47.03663,
+    "lng": 22.54213
+  },
+  {
+    "name": "Luncoiu de Jos",
+    "country": "RO",
+    "lat": 46.078,
+    "lng": 22.78767
+  },
+  {
+    "name": "Luncaviţa",
+    "country": "RO",
+    "lat": 45.28333,
+    "lng": 28.26667
+  },
+  {
+    "name": "Luncaviţa",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 22.26667
+  },
+  {
+    "name": "Lunca Priporului",
+    "country": "RO",
+    "lat": 45.43909,
+    "lng": 26.30869
+  },
+  {
+    "name": "Lunca Prahovei",
+    "country": "RO",
+    "lat": 45.04714,
+    "lng": 25.77161
+  },
+  {
+    "name": "Luncani",
+    "country": "RO",
+    "lat": 46.47274,
+    "lng": 23.95095
+  },
+  {
+    "name": "Lunca Mureşului",
+    "country": "RO",
+    "lat": 46.43333,
+    "lng": 23.9
+  },
+  {
+    "name": "Lunca Leșului",
+    "country": "RO",
+    "lat": 47.30943,
+    "lng": 24.77602
+  },
+  {
+    "name": "Lunca la Tisa",
+    "country": "RO",
+    "lat": 47.95213,
+    "lng": 24.05216
+  },
+  {
+    "name": "Lunca Jariștei",
+    "country": "RO",
+    "lat": 45.48231,
+    "lng": 26.25483
+  },
+  {
+    "name": "Lunca Ilvei",
+    "country": "RO",
+    "lat": 47.36667,
+    "lng": 24.98333
+  },
+  {
+    "name": "Lunca de Sus",
+    "country": "RO",
+    "lat": 46.53333,
+    "lng": 25.96667
+  },
+  {
+    "name": "Lunca de Jos",
+    "country": "RO",
+    "lat": 46.56667,
+    "lng": 25.98333
+  },
+  {
+    "name": "Lunca Corbului",
+    "country": "RO",
+    "lat": 44.68391,
+    "lng": 24.75855
+  },
+  {
+    "name": "Lunca Cetățuii",
+    "country": "RO",
+    "lat": 47.0966,
+    "lng": 27.56319
+  },
+  {
+    "name": "Lunca Cernii de Jos",
+    "country": "RO",
+    "lat": 45.63333,
+    "lng": 22.61667
+  },
+  {
+    "name": "Lunca Bradului",
+    "country": "RO",
+    "lat": 46.95595,
+    "lng": 25.1114
+  },
+  {
+    "name": "Lunca Banului",
+    "country": "RO",
+    "lat": 46.595,
+    "lng": 28.16833
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 47.28144,
+    "lng": 26.73708
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 47.61667,
+    "lng": 26.98333
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 47.22765,
+    "lng": 26.29979
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 46.85,
+    "lng": 24.56667
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 46.51667,
+    "lng": 22.46667
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 45.20022,
+    "lng": 25.44351
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 45.00494,
+    "lng": 27.21335
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 44.73288,
+    "lng": 28.77495
+  },
+  {
+    "name": "Lunca",
+    "country": "RO",
+    "lat": 43.83333,
+    "lng": 24.76667
+  },
+  {
+    "name": "Luna de Sus",
+    "country": "RO",
+    "lat": 46.74313,
+    "lng": 23.43539
+  },
+  {
+    "name": "Luminiș",
+    "country": "RO",
+    "lat": 46.81332,
+    "lng": 26.45275
+  },
+  {
+    "name": "Lumina",
+    "country": "RO",
+    "lat": 44.28333,
+    "lng": 28.56667
+  },
+  {
+    "name": "Luizi-Călugăra",
+    "country": "RO",
+    "lat": 46.53333,
+    "lng": 26.83333
+  },
+  {
+    "name": "Luica",
+    "country": "RO",
+    "lat": 44.23333,
+    "lng": 26.58333
+  },
+  {
+    "name": "Lugoj",
+    "country": "RO",
+    "lat": 45.68861,
+    "lng": 21.90306
+  },
+  {
+    "name": "Lugaşu de Jos",
+    "country": "RO",
+    "lat": 47.06667,
+    "lng": 22.35
+  },
+  {
+    "name": "Lueta",
+    "country": "RO",
+    "lat": 46.26667,
+    "lng": 25.48333
+  },
+  {
+    "name": "Luduş",
+    "country": "RO",
+    "lat": 46.48333,
+    "lng": 24.1
+  },
+  {
+    "name": "Ludoş",
+    "country": "RO",
+    "lat": 45.91667,
+    "lng": 23.9
+  },
+  {
+    "name": "Ludeşti",
+    "country": "RO",
+    "lat": 44.86667,
+    "lng": 25.23333
+  },
+  {
+    "name": "Ludași",
+    "country": "RO",
+    "lat": 46.61962,
+    "lng": 26.57926
+  },
+  {
+    "name": "Luciu",
+    "country": "RO",
+    "lat": 44.96667,
+    "lng": 27.08333
+  },
+  {
+    "name": "Luciu",
+    "country": "RO",
+    "lat": 44.74722,
+    "lng": 27.7276
+  },
+  {
+    "name": "Lucieni",
+    "country": "RO",
+    "lat": 44.85,
+    "lng": 25.43333
+  },
+  {
+    "name": "Lucăceni",
+    "country": "RO",
+    "lat": 47.74194,
+    "lng": 22.47819
+  },
+  {
+    "name": "Luna",
+    "country": "RO",
+    "lat": 46.50659,
+    "lng": 23.91959
+  },
+  {
+    "name": "Lukićevo",
+    "country": "RS",
+    "lat": 45.33815,
+    "lng": 20.49895
+  },
+  {
+    "name": "Lugavčina",
+    "country": "RS",
+    "lat": 44.52314,
+    "lng": 21.07083
+  },
+  {
+    "name": "Lučani",
+    "country": "RS",
+    "lat": 43.86083,
+    "lng": 20.13806
+  },
+  {
+    "name": "Luzhniki",
+    "country": "RU",
+    "lat": 55.71599,
+    "lng": 37.55376
+  },
+  {
+    "name": "Luza",
+    "country": "RU",
+    "lat": 60.62634,
+    "lng": 47.2644
+  },
+  {
+    "name": "Luppolovo",
+    "country": "RU",
+    "lat": 60.15402,
+    "lng": 30.28034
+  },
+  {
+    "name": "Lunino",
+    "country": "RU",
+    "lat": 53.59176,
+    "lng": 45.22709
+  },
+  {
+    "name": "Lukoyanov",
+    "country": "RU",
+    "lat": 55.03145,
+    "lng": 44.48179
+  },
+  {
+    "name": "Lukovetskiy",
+    "country": "RU",
+    "lat": 64.2956,
+    "lng": 41.9211
+  },
+  {
+    "name": "Luknovo",
+    "country": "RU",
+    "lat": 56.18045,
+    "lng": 42.03987
+  },
+  {
+    "name": "Lukino",
+    "country": "RU",
+    "lat": 56.85933,
+    "lng": 28.46426
+  },
+  {
+    "name": "Lukino",
+    "country": "RU",
+    "lat": 56.44183,
+    "lng": 43.62932
+  },
+  {
+    "name": "Lukhovka",
+    "country": "RU",
+    "lat": 54.14844,
+    "lng": 45.25728
+  },
+  {
+    "name": "Lukhovitsy",
+    "country": "RU",
+    "lat": 54.9418,
+    "lng": 39.02498
+  },
+  {
+    "name": "Lukhovitsy",
+    "country": "RU",
+    "lat": 54.97661,
+    "lng": 39.0444
+  },
+  {
+    "name": "Lukh",
+    "country": "RU",
+    "lat": 57.01036,
+    "lng": 42.25861
+  },
+  {
+    "name": "Lugovaya",
+    "country": "RU",
+    "lat": 56.05,
+    "lng": 37.48333
+  },
+  {
+    "name": "Luga",
+    "country": "RU",
+    "lat": 58.73876,
+    "lng": 29.84756
+  },
+  {
+    "name": "Lubyany",
+    "country": "RU",
+    "lat": 56.0378,
+    "lng": 51.40001
+  },
+  {
+    "name": "Lutkun",
+    "country": "RU",
+    "lat": 41.48084,
+    "lng": 47.68578
+  },
+  {
+    "name": "Luzino",
+    "country": "RU",
+    "lat": 54.94811,
+    "lng": 73.03531
+  },
+  {
+    "name": "Lugovskoy",
+    "country": "RU",
+    "lat": 56.95849,
+    "lng": 64.52897
+  },
+  {
+    "name": "Luchki",
+    "country": "RU",
+    "lat": 44.28587,
+    "lng": 132.26061
+  },
+  {
+    "name": "Luchegorsk",
+    "country": "RU",
+    "lat": 46.4446,
+    "lng": 134.29342
+  },
+  {
+    "name": "Luleå",
+    "country": "SE",
+    "lat": 65.58415,
+    "lng": 22.15465
+  },
+  {
+    "name": "Lund",
+    "country": "SE",
+    "lat": 55.70584,
+    "lng": 13.19321
+  },
+  {
+    "name": "Ludvika",
+    "country": "SE",
+    "lat": 60.14959,
+    "lng": 15.18776
+  },
+  {
+    "name": "Lucky Hills",
+    "country": "SG",
+    "lat": 1.32556,
+    "lng": 103.95278
+  },
+  {
+    "name": "Lukovica pri Domžalah",
+    "country": "SI",
+    "lat": 46.16988,
+    "lng": 14.69179
+  },
+  {
+    "name": "Luče",
+    "country": "SI",
+    "lat": 46.35496,
+    "lng": 14.7476
+  },
+  {
+    "name": "Lucija",
+    "country": "SI",
+    "lat": 45.50526,
+    "lng": 13.6024
+  },
+  {
+    "name": "Lužianky",
+    "country": "SK",
+    "lat": 48.34908,
+    "lng": 18.029
+  },
+  {
+    "name": "Lukáčovce",
+    "country": "SK",
+    "lat": 48.39552,
+    "lng": 17.93784
+  },
+  {
+    "name": "Lučenec",
+    "country": "SK",
+    "lat": 48.33249,
+    "lng": 19.66708
+  },
+  {
+    "name": "Lunsar",
+    "country": "SL",
+    "lat": 8.68439,
+    "lng": -12.53499
+  },
+  {
+    "name": "Luuq",
+    "country": "SO",
+    "lat": 3.80315,
+    "lng": 42.54417
+  },
+  {
+    "name": "Lughaye",
+    "country": "SO",
+    "lat": 10.68573,
+    "lng": 43.94397
+  },
+  {
+    "name": "Lue Amnat",
+    "country": "TH",
+    "lat": 15.69476,
+    "lng": 104.64846
+  },
+  {
+    "name": "Lugu",
+    "country": "TW",
+    "lat": 23.74639,
+    "lng": 120.7525
+  },
+  {
+    "name": "Lushoto",
+    "country": "TZ",
+    "lat": -4.78333,
+    "lng": 38.28333
+  },
+  {
+    "name": "Lupiro",
+    "country": "TZ",
+    "lat": -8.38333,
+    "lng": 36.66667
+  },
+  {
+    "name": "Lugoba",
+    "country": "TZ",
+    "lat": -6.45,
+    "lng": 38.33333
+  },
+  {
+    "name": "Lubata",
+    "country": "TZ",
+    "lat": -6.1,
+    "lng": 37.45
+  },
+  {
+    "name": "Lulindi",
+    "country": "TZ",
+    "lat": -10.81667,
+    "lng": 39.13333
+  },
+  {
+    "name": "Lukuledi",
+    "country": "TZ",
+    "lat": -10.56667,
+    "lng": 38.8
+  },
+  {
+    "name": "Luchingu",
+    "country": "TZ",
+    "lat": -10.9,
+    "lng": 39.33333
+  },
+  {
+    "name": "Luzhany",
+    "country": "UA",
+    "lat": 48.35923,
+    "lng": 25.78292
+  },
+  {
+    "name": "Lutuhyne",
+    "country": "UA",
+    "lat": 48.40507,
+    "lng": 39.22675
+  },
+  {
+    "name": "Lutsk",
+    "country": "UA",
+    "lat": 50.75784,
+    "lng": 25.35024
+  },
+  {
+    "name": "Lutovynivka",
+    "country": "UA",
+    "lat": 49.2366,
+    "lng": 33.90112
+  },
+  {
+    "name": "Lukavtsi",
+    "country": "UA",
+    "lat": 48.20224,
+    "lng": 25.41234
+  },
+  {
+    "name": "Lukovytsya",
+    "country": "UA",
+    "lat": 48.20249,
+    "lng": 26.07742
+  },
+  {
+    "name": "Lukiv",
+    "country": "UA",
+    "lat": 51.0521,
+    "lng": 25.40059
+  },
+  {
+    "name": "Lukanivka",
+    "country": "UA",
+    "lat": 47.91344,
+    "lng": 30.4656
+  },
+  {
+    "name": "Luka",
+    "country": "UA",
+    "lat": 50.46026,
+    "lng": 33.28882
+  },
+  {
+    "name": "Luhansk",
+    "country": "UA",
+    "lat": 48.56814,
+    "lng": 39.30553
+  },
+  {
+    "name": "Lugovoye",
+    "country": "UA",
+    "lat": 45.23469,
+    "lng": 35.72202
+  },
+  {
+    "name": "Luhyny",
+    "country": "UA",
+    "lat": 51.08203,
+    "lng": 28.40057
+  },
+  {
+    "name": "Luhanske",
+    "country": "UA",
+    "lat": 48.4447,
+    "lng": 38.25519
+  },
+  {
+    "name": "Luchistoye",
+    "country": "UA",
+    "lat": 44.73646,
+    "lng": 34.40063
+  },
+  {
+    "name": "Lubny",
+    "country": "UA",
+    "lat": 50.01413,
+    "lng": 32.99975
+  },
+  {
+    "name": "Lupareve",
+    "country": "UA",
+    "lat": 46.69167,
+    "lng": 31.975
+  },
+  {
+    "name": "Luganskoye",
+    "country": "UA",
+    "lat": 45.8019,
+    "lng": 34.23786
+  },
+  {
+    "name": "Luwero",
+    "country": "UG",
+    "lat": 0.84917,
+    "lng": 32.47306
+  },
+  {
+    "name": "Lukaya",
+    "country": "UG",
+    "lat": -0.11306,
+    "lng": 31.85389
+  },
+  {
+    "name": "Lugazi",
+    "country": "UG",
+    "lat": 0.36788,
+    "lng": 32.9376
+  },
+  {
+    "name": "Luuka Town",
+    "country": "UG",
+    "lat": 0.70076,
+    "lng": 33.3002
+  },
+  {
+    "name": "Lugoff",
+    "country": "US",
+    "lat": 34.22737,
+    "lng": -80.68925
+  },
+  {
+    "name": "Luverne",
+    "country": "US",
+    "lat": 31.71655,
+    "lng": -86.26385
+  },
+  {
+    "name": "Luxora",
+    "country": "US",
+    "lat": 35.75619,
+    "lng": -89.92814
+  },
+  {
+    "name": "Lutz",
+    "country": "US",
+    "lat": 28.15112,
+    "lng": -82.46148
+  },
+  {
+    "name": "Ludowici",
+    "country": "US",
+    "lat": 31.70799,
+    "lng": -81.74234
+  },
+  {
+    "name": "Lula",
+    "country": "US",
+    "lat": 34.3876,
+    "lng": -83.66629
+  },
+  {
+    "name": "Lumber City",
+    "country": "US",
+    "lat": 31.92935,
+    "lng": -82.67958
+  },
+  {
+    "name": "Lumpkin",
+    "country": "US",
+    "lat": 32.05099,
+    "lng": -84.79909
+  },
+  {
+    "name": "Ludlow",
+    "country": "US",
+    "lat": 39.09256,
+    "lng": -84.54744
+  },
+  {
+    "name": "Luling",
+    "country": "US",
+    "lat": 29.93215,
+    "lng": -90.36647
+  },
+  {
+    "name": "Lutcher",
+    "country": "US",
+    "lat": 30.04048,
+    "lng": -90.69898
+  },
+  {
+    "name": "Lusby",
+    "country": "US",
+    "lat": 38.355,
+    "lng": -76.437
+  },
+  {
+    "name": "Lutherville",
+    "country": "US",
+    "lat": 39.42122,
+    "lng": -76.62608
+  },
+  {
+    "name": "Lucedale",
+    "country": "US",
+    "lat": 30.92519,
+    "lng": -88.59002
+  },
+  {
+    "name": "Lumberton",
+    "country": "US",
+    "lat": 31.00129,
+    "lng": -89.45229
+  },
+  {
+    "name": "Lucama",
+    "country": "US",
+    "lat": 35.64544,
+    "lng": -78.00971
+  },
+  {
+    "name": "Lumberton",
+    "country": "US",
+    "lat": 34.61834,
+    "lng": -79.01045
+  },
+  {
+    "name": "Lumberton",
+    "country": "US",
+    "lat": 39.96595,
+    "lng": -74.80516
+  },
+  {
+    "name": "Lucasville",
+    "country": "US",
+    "lat": 38.87952,
+    "lng": -82.99684
+  },
+  {
+    "name": "Luther",
+    "country": "US",
+    "lat": 35.66173,
+    "lng": -97.19559
+  },
+  {
+    "name": "Ludlow",
+    "country": "US",
+    "lat": 39.97206,
+    "lng": -75.14629
+  },
+  {
+    "name": "Luzerne",
+    "country": "US",
+    "lat": 39.99924,
+    "lng": -79.96283
+  },
+  {
+    "name": "Luttrell",
+    "country": "US",
+    "lat": 36.19953,
+    "lng": -83.74185
+  },
+  {
+    "name": "Lucas",
+    "country": "US",
+    "lat": 33.08429,
+    "lng": -96.57666
+  },
+  {
+    "name": "Lufkin",
+    "country": "US",
+    "lat": 31.33824,
+    "lng": -94.7291
+  },
+  {
+    "name": "Luling",
+    "country": "US",
+    "lat": 29.68051,
+    "lng": -97.6475
+  },
+  {
+    "name": "Lumberton",
+    "country": "US",
+    "lat": 30.26577,
+    "lng": -94.19963
+  },
+  {
+    "name": "Lunenburg",
+    "country": "US",
+    "lat": 36.96098,
+    "lng": -78.26555
+  },
+  {
+    "name": "Luray",
+    "country": "US",
+    "lat": 38.6654,
+    "lng": -78.45945
+  },
+  {
+    "name": "Lubeck",
+    "country": "US",
+    "lat": 39.23535,
+    "lng": -81.63124
+  },
+  {
+    "name": "Ludlow",
+    "country": "US",
+    "lat": 42.16009,
+    "lng": -72.47592
+  },
+  {
+    "name": "Lunenburg",
+    "country": "US",
+    "lat": 42.59453,
+    "lng": -71.72452
+  },
+  {
+    "name": "Ludington",
+    "country": "US",
+    "lat": 43.95528,
+    "lng": -86.45258
+  },
+  {
+    "name": "Luna Pier",
+    "country": "US",
+    "lat": 41.80699,
+    "lng": -83.44243
+  },
+  {
+    "name": "Luverne",
+    "country": "US",
+    "lat": 43.65414,
+    "lng": -96.21281
+  },
+  {
+    "name": "Luckey",
+    "country": "US",
+    "lat": 41.45061,
+    "lng": -83.48743
+  },
+  {
+    "name": "Luzerne",
+    "country": "US",
+    "lat": 41.28564,
+    "lng": -75.90103
+  },
+  {
+    "name": "Lunenburg",
+    "country": "US",
+    "lat": 44.46311,
+    "lng": -71.68203
+  },
+  {
+    "name": "Luck",
+    "country": "US",
+    "lat": 45.57607,
+    "lng": -92.4827
+  },
+  {
+    "name": "Luxemburg",
+    "country": "US",
+    "lat": 44.53861,
+    "lng": -87.70398
+  },
+  {
+    "name": "Lukachukai",
+    "country": "US",
+    "lat": 36.41695,
+    "lng": -109.22871
+  },
+  {
+    "name": "Lucerne",
+    "country": "US",
+    "lat": 36.38078,
+    "lng": -119.6643
+  },
+  {
+    "name": "Lucerne",
+    "country": "US",
+    "lat": 39.09017,
+    "lng": -122.79638
+  },
+  {
+    "name": "Lucerne Valley",
+    "country": "US",
+    "lat": 34.44389,
+    "lng": -116.96781
+  },
+  {
+    "name": "Lubbock",
+    "country": "US",
+    "lat": 33.57786,
+    "lng": -101.85517
+  },
+  {
+    "name": "Lusk",
+    "country": "US",
+    "lat": 42.76247,
+    "lng": -104.45217
+  },
+  {
+    "name": "Lutherville-Timonium",
+    "country": "US",
+    "lat": 39.43997,
+    "lng": -76.61099
+  },
+  {
+    "name": "Lucas Valley-Marinwood",
+    "country": "US",
+    "lat": 38.04011,
+    "lng": -122.5755
+  },
+  {
+    "name": "Luganville",
+    "country": "VU",
+    "lat": -15.51989,
+    "lng": 167.16235
+  },
+  {
+    "name": "Lufilufi",
+    "country": "WS",
+    "lat": -13.87449,
+    "lng": -171.59857
+  },
+  {
+    "name": "Lumbardhi",
+    "country": "XK",
+    "lat": 42.54667,
+    "lng": 20.34667
+  },
+  {
+    "name": "Lusikisiki",
+    "country": "ZA",
+    "lat": -31.36199,
+    "lng": 29.57328
+  },
+  {
+    "name": "Luphisi",
+    "country": "ZA",
+    "lat": -25.40637,
+    "lng": 31.27893
+  },
+  {
+    "name": "Ludlow",
+    "country": "ZA",
+    "lat": -24.66921,
+    "lng": 31.27929
+  },
+  {
+    "name": "Luckhoff",
+    "country": "ZA",
+    "lat": -29.75023,
+    "lng": 24.78794
+  },
+  {
+    "name": "Lutzville",
+    "country": "ZA",
+    "lat": -31.55993,
+    "lng": 18.344
+  },
+  {
+    "name": "Lukwatini",
+    "country": "ZA",
+    "lat": -26.05501,
+    "lng": 30.82292
+  },
+  {
+    "name": "Luwingu",
+    "country": "ZM",
+    "lat": -10.2621,
+    "lng": 29.92712
+  },
+  {
+    "name": "Lusaka",
+    "country": "ZM",
+    "lat": -15.40669,
+    "lng": 28.28713
+  },
+  {
+    "name": "Lundazi",
+    "country": "ZM",
+    "lat": -12.29292,
+    "lng": 33.1782
+  },
+  {
+    "name": "Lukulu",
+    "country": "ZM",
+    "lat": -14.37067,
+    "lng": 23.24196
+  },
+  {
+    "name": "Lubwe",
+    "country": "ZM",
+    "lat": -11.11654,
+    "lng": 29.64619
+  },
+  {
+    "name": "Lubombo",
+    "country": "ZM",
+    "lat": -15.86698,
+    "lng": 27.87632
+  },
+  {
+    "name": "Luanshya",
+    "country": "ZM",
+    "lat": -13.13667,
+    "lng": 28.41661
+  },
+  {
+    "name": "Luangwa",
+    "country": "ZM",
+    "lat": -15.61667,
+    "lng": 30.41667
+  },
+  {
+    "name": "Lusaka West",
+    "country": "ZM",
+    "lat": -15.31864,
+    "lng": 28.11026
+  },
+  {
+    "name": "Lupane",
+    "country": "ZW",
+    "lat": -18.93149,
+    "lng": 27.80696
+  }
+]

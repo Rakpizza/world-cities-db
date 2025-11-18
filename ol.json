@@ -1,0 +1,2426 @@
+[
+  {
+    "name": "Olivos",
+    "country": "AR",
+    "lat": -34.50872,
+    "lng": -58.48026
+  },
+  {
+    "name": "Olta",
+    "country": "AR",
+    "lat": -30.63024,
+    "lng": -66.26671
+  },
+  {
+    "name": "Oliva",
+    "country": "AR",
+    "lat": -32.03823,
+    "lng": -63.57063
+  },
+  {
+    "name": "Olavarría",
+    "country": "AR",
+    "lat": -36.89384,
+    "lng": -60.32319
+  },
+  {
+    "name": "Ollersdorf im Burgenland",
+    "country": "AT",
+    "lat": 47.18333,
+    "lng": 16.16667
+  },
+  {
+    "name": "Olbendorf",
+    "country": "AT",
+    "lat": 47.18333,
+    "lng": 16.2
+  },
+  {
+    "name": "Old Noarlunga",
+    "country": "AU",
+    "lat": -35.18209,
+    "lng": 138.50138
+  },
+  {
+    "name": "Olinda",
+    "country": "AU",
+    "lat": -37.85,
+    "lng": 145.36667
+  },
+  {
+    "name": "Old Beach",
+    "country": "AU",
+    "lat": -42.77758,
+    "lng": 147.26659
+  },
+  {
+    "name": "Old Bar",
+    "country": "AU",
+    "lat": -31.9694,
+    "lng": 152.58807
+  },
+  {
+    "name": "Old Erowal Bay",
+    "country": "AU",
+    "lat": -35.0846,
+    "lng": 150.64568
+  },
+  {
+    "name": "Old Guildford",
+    "country": "AU",
+    "lat": -33.86429,
+    "lng": 150.98395
+  },
+  {
+    "name": "Old Toongabbie",
+    "country": "AU",
+    "lat": -33.78763,
+    "lng": 150.96897
+  },
+  {
+    "name": "Old Reynella",
+    "country": "AU",
+    "lat": -35.10353,
+    "lng": 138.53365
+  },
+  {
+    "name": "Olovo",
+    "country": "BA",
+    "lat": 44.1277,
+    "lng": 18.58065
+  },
+  {
+    "name": "Olsene",
+    "country": "BE",
+    "lat": 50.93422,
+    "lng": 3.46389
+  },
+  {
+    "name": "Olne",
+    "country": "BE",
+    "lat": 50.58994,
+    "lng": 5.74662
+  },
+  {
+    "name": "Olmen",
+    "country": "BE",
+    "lat": 51.14228,
+    "lng": 5.14999
+  },
+  {
+    "name": "Ollignies",
+    "country": "BE",
+    "lat": 50.68794,
+    "lng": 3.86229
+  },
+  {
+    "name": "Oleye",
+    "country": "BE",
+    "lat": 50.71396,
+    "lng": 5.28133
+  },
+  {
+    "name": "Olen",
+    "country": "BE",
+    "lat": 51.14391,
+    "lng": 4.8598
+  },
+  {
+    "name": "Olivença",
+    "country": "BR",
+    "lat": -9.51861,
+    "lng": -37.19056
+  },
+  {
+    "name": "Olivedos",
+    "country": "BR",
+    "lat": -6.99056,
+    "lng": -36.24417
+  },
+  {
+    "name": "Olinda",
+    "country": "BR",
+    "lat": -8.00889,
+    "lng": -34.85528
+  },
+  {
+    "name": "Olho d'Água do Casado",
+    "country": "BR",
+    "lat": -9.50194,
+    "lng": -37.83389
+  },
+  {
+    "name": "Olho d'Água do Borges",
+    "country": "BR",
+    "lat": -5.95639,
+    "lng": -37.70556
+  },
+  {
+    "name": "Olho d'Água das Flores",
+    "country": "BR",
+    "lat": -9.53611,
+    "lng": -37.29389
+  },
+  {
+    "name": "Olho d'Água",
+    "country": "BR",
+    "lat": -7.22778,
+    "lng": -37.75056
+  },
+  {
+    "name": "Oliveira Fortes",
+    "country": "BR",
+    "lat": -21.33889,
+    "lng": -43.45639
+  },
+  {
+    "name": "Oliveira dos Brejinhos",
+    "country": "BR",
+    "lat": -12.31694,
+    "lng": -42.89611
+  },
+  {
+    "name": "Oliveira",
+    "country": "BR",
+    "lat": -20.69639,
+    "lng": -44.82722
+  },
+  {
+    "name": "Olindina",
+    "country": "BR",
+    "lat": -11.36667,
+    "lng": -38.33333
+  },
+  {
+    "name": "Olímpio Noronha",
+    "country": "BR",
+    "lat": -22.06778,
+    "lng": -45.26389
+  },
+  {
+    "name": "Olímpia",
+    "country": "BR",
+    "lat": -20.73722,
+    "lng": -48.91472
+  },
+  {
+    "name": "Olhos d'Água",
+    "country": "BR",
+    "lat": -17.39694,
+    "lng": -43.57333
+  },
+  {
+    "name": "Olho d'Água Grande",
+    "country": "BR",
+    "lat": -10.05833,
+    "lng": -36.81667
+  },
+  {
+    "name": "Olaria",
+    "country": "BR",
+    "lat": -21.86083,
+    "lng": -43.93722
+  },
+  {
+    "name": "Olho d'Água do Piauí",
+    "country": "BR",
+    "lat": -5.84139,
+    "lng": -42.575
+  },
+  {
+    "name": "Olinda Nova do Maranhão",
+    "country": "BR",
+    "lat": -2.99806,
+    "lng": -44.99694
+  },
+  {
+    "name": "Oliveira de Fátima",
+    "country": "BR",
+    "lat": -10.70778,
+    "lng": -48.90667
+  },
+  {
+    "name": "Olho d’Água das Cunhãs",
+    "country": "BR",
+    "lat": -4.13873,
+    "lng": -45.11881
+  },
+  {
+    "name": "Olds",
+    "country": "CA",
+    "lat": 51.78341,
+    "lng": -114.10199
+  },
+  {
+    "name": "Oliver",
+    "country": "CA",
+    "lat": 49.18306,
+    "lng": -119.5524
+  },
+  {
+    "name": "Old East York",
+    "country": "CA",
+    "lat": 43.69678,
+    "lng": -79.33549
+  },
+  {
+    "name": "Olombo",
+    "country": "CG",
+    "lat": -1.2653,
+    "lng": 15.89996
+  },
+  {
+    "name": "Olten",
+    "country": "CH",
+    "lat": 47.34999,
+    "lng": 7.90329
+  },
+  {
+    "name": "Ollon",
+    "country": "CH",
+    "lat": 46.29524,
+    "lng": 6.99314
+  },
+  {
+    "name": "Olodio",
+    "country": "CI",
+    "lat": 4.71589,
+    "lng": -7.46696
+  },
+  {
+    "name": "Oligbé",
+    "country": "CI",
+    "lat": 5.56463,
+    "lng": -5.24677
+  },
+  {
+    "name": "Olibribouo",
+    "country": "CI",
+    "lat": 6.0151,
+    "lng": -5.874
+  },
+  {
+    "name": "Olléo",
+    "country": "CI",
+    "lat": 9.60842,
+    "lng": -5.78626
+  },
+  {
+    "name": "Olaya Herrera",
+    "country": "CO",
+    "lat": 1.24803,
+    "lng": -77.49085
+  },
+  {
+    "name": "Olaya",
+    "country": "CO",
+    "lat": 6.62773,
+    "lng": -75.8127
+  },
+  {
+    "name": "Olšany",
+    "country": "CZ",
+    "lat": 49.96509,
+    "lng": 16.85894
+  },
+  {
+    "name": "Olšany u Prostějova",
+    "country": "CZ",
+    "lat": 49.53635,
+    "lng": 17.16494
+  },
+  {
+    "name": "Oloví",
+    "country": "CZ",
+    "lat": 50.25113,
+    "lng": 12.55877
+  },
+  {
+    "name": "Olomouc",
+    "country": "CZ",
+    "lat": 49.59552,
+    "lng": 17.25175
+  },
+  {
+    "name": "Olešnice",
+    "country": "CZ",
+    "lat": 49.55755,
+    "lng": 16.42169
+  },
+  {
+    "name": "Oldřišov",
+    "country": "CZ",
+    "lat": 49.9913,
+    "lng": 17.96074
+  },
+  {
+    "name": "Olbramovice",
+    "country": "CZ",
+    "lat": 48.9848,
+    "lng": 16.40239
+  },
+  {
+    "name": "Olsbrücken",
+    "country": "DE",
+    "lat": 49.53884,
+    "lng": 7.65857
+  },
+  {
+    "name": "Olsberg",
+    "country": "DE",
+    "lat": 51.35613,
+    "lng": 8.48899
+  },
+  {
+    "name": "Olpe",
+    "country": "DE",
+    "lat": 51.02899,
+    "lng": 7.85139
+  },
+  {
+    "name": "Olfen",
+    "country": "DE",
+    "lat": 51.70787,
+    "lng": 7.37893
+  },
+  {
+    "name": "Oldisleben",
+    "country": "DE",
+    "lat": 51.30975,
+    "lng": 11.17112
+  },
+  {
+    "name": "Oldenswort",
+    "country": "DE",
+    "lat": 54.37243,
+    "lng": 8.93996
+  },
+  {
+    "name": "Oldendorf",
+    "country": "DE",
+    "lat": 53.95341,
+    "lng": 9.45858
+  },
+  {
+    "name": "Oldendorf",
+    "country": "DE",
+    "lat": 53.59068,
+    "lng": 9.25325
+  },
+  {
+    "name": "Oldendorf",
+    "country": "DE",
+    "lat": 53.1558,
+    "lng": 10.21431
+  },
+  {
+    "name": "Oldenburg in Holstein",
+    "country": "DE",
+    "lat": 54.29498,
+    "lng": 10.89043
+  },
+  {
+    "name": "Oldenburg",
+    "country": "DE",
+    "lat": 53.14118,
+    "lng": 8.21467
+  },
+  {
+    "name": "Olching",
+    "country": "DE",
+    "lat": 48.2,
+    "lng": 11.33333
+  },
+  {
+    "name": "Olbersdorf",
+    "country": "DE",
+    "lat": 50.87304,
+    "lng": 14.77035
+  },
+  {
+    "name": "Olbernhau",
+    "country": "DE",
+    "lat": 50.6587,
+    "lng": 13.3425
+  },
+  {
+    "name": "Olmedo",
+    "country": "EC",
+    "lat": -3.93435,
+    "lng": -79.64646
+  },
+  {
+    "name": "Olmedo",
+    "country": "EC",
+    "lat": -1.39527,
+    "lng": -80.2108
+  },
+  {
+    "name": "Olvera",
+    "country": "ES",
+    "lat": 36.93418,
+    "lng": -5.26678
+  },
+  {
+    "name": "Olula del Río",
+    "country": "ES",
+    "lat": 37.35445,
+    "lng": -2.29754
+  },
+  {
+    "name": "Olula de Castro",
+    "country": "ES",
+    "lat": 37.17475,
+    "lng": -2.4743
+  },
+  {
+    "name": "Olocau",
+    "country": "ES",
+    "lat": 39.7,
+    "lng": -0.53333
+  },
+  {
+    "name": "Olmedilla de Alarcón",
+    "country": "ES",
+    "lat": 39.61667,
+    "lng": -2.1
+  },
+  {
+    "name": "Olmeda del Rey",
+    "country": "ES",
+    "lat": 39.8,
+    "lng": -2.08333
+  },
+  {
+    "name": "Olivares de Júcar",
+    "country": "ES",
+    "lat": 39.76101,
+    "lng": -2.35589
+  },
+  {
+    "name": "Olivares",
+    "country": "ES",
+    "lat": 37.41802,
+    "lng": -6.15603
+  },
+  {
+    "name": "Oliva de Mérida",
+    "country": "ES",
+    "lat": 38.79051,
+    "lng": -6.12402
+  },
+  {
+    "name": "Oliva de la Frontera",
+    "country": "ES",
+    "lat": 38.27595,
+    "lng": -6.91873
+  },
+  {
+    "name": "Oliva",
+    "country": "ES",
+    "lat": 38.91971,
+    "lng": -0.11935
+  },
+  {
+    "name": "Olías del Rey",
+    "country": "ES",
+    "lat": 39.94436,
+    "lng": -3.98684
+  },
+  {
+    "name": "Oltza",
+    "country": "ES",
+    "lat": 42.85,
+    "lng": -1.76667
+  },
+  {
+    "name": "Olvés",
+    "country": "ES",
+    "lat": 41.23965,
+    "lng": -1.64647
+  },
+  {
+    "name": "Olvega",
+    "country": "ES",
+    "lat": 41.77901,
+    "lng": -1.98391
+  },
+  {
+    "name": "Olot",
+    "country": "ES",
+    "lat": 42.18096,
+    "lng": 2.49012
+  },
+  {
+    "name": "Olost",
+    "country": "ES",
+    "lat": 41.9854,
+    "lng": 2.09457
+  },
+  {
+    "name": "Olóriz",
+    "country": "ES",
+    "lat": 42.63522,
+    "lng": -1.61276
+  },
+  {
+    "name": "Olombrada",
+    "country": "ES",
+    "lat": 41.41492,
+    "lng": -4.16071
+  },
+  {
+    "name": "Olocau del Rey",
+    "country": "ES",
+    "lat": 40.63775,
+    "lng": -0.34041
+  },
+  {
+    "name": "Olmos de Peñafiel",
+    "country": "ES",
+    "lat": 41.57142,
+    "lng": -4.04316
+  },
+  {
+    "name": "Olmos de Ojeda",
+    "country": "ES",
+    "lat": 42.72274,
+    "lng": -4.42446
+  },
+  {
+    "name": "Olmos de Esgueva",
+    "country": "ES",
+    "lat": 41.68815,
+    "lng": -4.52255
+  },
+  {
+    "name": "Olmillos de Muñó",
+    "country": "ES",
+    "lat": 42.20322,
+    "lng": -3.93911
+  },
+  {
+    "name": "Olmillos de Castro",
+    "country": "ES",
+    "lat": 41.73179,
+    "lng": -5.96791
+  },
+  {
+    "name": "Olmedo de Camaces",
+    "country": "ES",
+    "lat": 40.87967,
+    "lng": -6.6236
+  },
+  {
+    "name": "Olmedo",
+    "country": "ES",
+    "lat": 41.28706,
+    "lng": -4.68878
+  },
+  {
+    "name": "Olmedillo de Roa",
+    "country": "ES",
+    "lat": 41.78362,
+    "lng": -3.93419
+  },
+  {
+    "name": "Olmedilla de Eliz",
+    "country": "ES",
+    "lat": 40.30232,
+    "lng": -2.41952
+  },
+  {
+    "name": "Olmeda de la Cuesta",
+    "country": "ES",
+    "lat": 40.31088,
+    "lng": -2.47592
+  },
+  {
+    "name": "Olmeda de Cobeta",
+    "country": "ES",
+    "lat": 40.85971,
+    "lng": -2.1828
+  },
+  {
+    "name": "Olloniego",
+    "country": "ES",
+    "lat": 43.29878,
+    "lng": -5.82357
+  },
+  {
+    "name": "Ollauri",
+    "country": "ES",
+    "lat": 42.54256,
+    "lng": -2.83448
+  },
+  {
+    "name": "Olivella",
+    "country": "ES",
+    "lat": 41.31667,
+    "lng": 1.81667
+  },
+  {
+    "name": "Olivares de Duero",
+    "country": "ES",
+    "lat": 41.63755,
+    "lng": -4.36547
+  },
+  {
+    "name": "Oliva de Plasencia",
+    "country": "ES",
+    "lat": 40.11227,
+    "lng": -6.08648
+  },
+  {
+    "name": "Olius",
+    "country": "ES",
+    "lat": 42.01035,
+    "lng": 1.5646
+  },
+  {
+    "name": "Olite",
+    "country": "ES",
+    "lat": 42.47971,
+    "lng": -1.65196
+  },
+  {
+    "name": "Oliete",
+    "country": "ES",
+    "lat": 40.99791,
+    "lng": -0.67429
+  },
+  {
+    "name": "Oliana",
+    "country": "ES",
+    "lat": 42.06895,
+    "lng": 1.31353
+  },
+  {
+    "name": "Olesa de Montserrat",
+    "country": "ES",
+    "lat": 41.54372,
+    "lng": 1.89407
+  },
+  {
+    "name": "Olesa de Bonesvalls",
+    "country": "ES",
+    "lat": 41.35435,
+    "lng": 1.84907
+  },
+  {
+    "name": "Olejua",
+    "country": "ES",
+    "lat": 42.62329,
+    "lng": -2.14202
+  },
+  {
+    "name": "Oleiros",
+    "country": "ES",
+    "lat": 43.33333,
+    "lng": -8.31667
+  },
+  {
+    "name": "Olea de Boedo",
+    "country": "ES",
+    "lat": 42.6099,
+    "lng": -4.4504
+  },
+  {
+    "name": "Olvan",
+    "country": "ES",
+    "lat": 42.06667,
+    "lng": 1.9
+  },
+  {
+    "name": "Olba",
+    "country": "ES",
+    "lat": 40.13333,
+    "lng": -0.61667
+  },
+  {
+    "name": "Olazagutía",
+    "country": "ES",
+    "lat": 42.87584,
+    "lng": -2.19538
+  },
+  {
+    "name": "Olaberria",
+    "country": "ES",
+    "lat": 43.02726,
+    "lng": -2.20349
+  },
+  {
+    "name": "Oliver-Valdefierro",
+    "country": "ES",
+    "lat": 41.64454,
+    "lng": -0.93349
+  },
+  {
+    "name": "Olivenza",
+    "country": "ES",
+    "lat": 38.68269,
+    "lng": -7.10046
+  },
+  {
+    "name": "Olari",
+    "country": "FI",
+    "lat": 60.17239,
+    "lng": 24.72713
+  },
+  {
+    "name": "Olkahinen",
+    "country": "FI",
+    "lat": 61.52526,
+    "lng": 23.94325
+  },
+  {
+    "name": "Oloron-Sainte-Marie",
+    "country": "FR",
+    "lat": 43.19441,
+    "lng": -0.61069
+  },
+  {
+    "name": "Olonzac",
+    "country": "FR",
+    "lat": 43.28383,
+    "lng": 2.7303
+  },
+  {
+    "name": "Olonne-sur-Mer",
+    "country": "FR",
+    "lat": 46.53524,
+    "lng": -1.77293
+  },
+  {
+    "name": "Olmeto",
+    "country": "FR",
+    "lat": 41.71724,
+    "lng": 8.91783
+  },
+  {
+    "name": "Ollioules",
+    "country": "FR",
+    "lat": 43.1399,
+    "lng": 5.84766
+  },
+  {
+    "name": "Ollainville",
+    "country": "FR",
+    "lat": 48.59081,
+    "lng": 2.21936
+  },
+  {
+    "name": "Olivet",
+    "country": "FR",
+    "lat": 47.86219,
+    "lng": 1.8991
+  },
+  {
+    "name": "Oletta",
+    "country": "FR",
+    "lat": 42.62991,
+    "lng": 9.35431
+  },
+  {
+    "name": "Olemps",
+    "country": "FR",
+    "lat": 44.34638,
+    "lng": 2.5514
+  },
+  {
+    "name": "Olveston",
+    "country": "GB",
+    "lat": 51.58032,
+    "lng": -2.5775
+  },
+  {
+    "name": "Olney",
+    "country": "GB",
+    "lat": 52.15345,
+    "lng": -0.70201
+  },
+  {
+    "name": "Old Windsor",
+    "country": "GB",
+    "lat": 51.45807,
+    "lng": -0.58674
+  },
+  {
+    "name": "Oldmeldrum",
+    "country": "GB",
+    "lat": 57.33492,
+    "lng": -2.3199
+  },
+  {
+    "name": "Old Leake",
+    "country": "GB",
+    "lat": 53.03108,
+    "lng": 0.09873
+  },
+  {
+    "name": "Old Kilpatrick",
+    "country": "GB",
+    "lat": 55.92241,
+    "lng": -4.45567
+  },
+  {
+    "name": "Oldham",
+    "country": "GB",
+    "lat": 53.54051,
+    "lng": -2.1183
+  },
+  {
+    "name": "Oldbury",
+    "country": "GB",
+    "lat": 52.5,
+    "lng": -2.01667
+  },
+  {
+    "name": "Old Basing",
+    "country": "GB",
+    "lat": 51.26667,
+    "lng": -1.03333
+  },
+  {
+    "name": "Old Trafford",
+    "country": "GB",
+    "lat": 53.45756,
+    "lng": -2.28818
+  },
+  {
+    "name": "Old Swan",
+    "country": "GB",
+    "lat": 53.41392,
+    "lng": -2.90889
+  },
+  {
+    "name": "Old Woking",
+    "country": "GB",
+    "lat": 51.30215,
+    "lng": -0.54163
+  },
+  {
+    "name": "Old Harlow",
+    "country": "GB",
+    "lat": 51.78353,
+    "lng": 0.13381
+  },
+  {
+    "name": "Old Yundum",
+    "country": "GM",
+    "lat": 13.3625,
+    "lng": -16.68611
+  },
+  {
+    "name": "Old Jeswang",
+    "country": "GM",
+    "lat": 13.45861,
+    "lng": -16.66333
+  },
+  {
+    "name": "Olopa",
+    "country": "GT",
+    "lat": 14.69229,
+    "lng": -89.35003
+  },
+  {
+    "name": "Olintepeque",
+    "country": "GT",
+    "lat": 14.88605,
+    "lng": -91.51472
+  },
+  {
+    "name": "Olympic",
+    "country": "HK",
+    "lat": 22.31939,
+    "lng": 114.15736
+  },
+  {
+    "name": "Olanchito",
+    "country": "HN",
+    "lat": 15.48131,
+    "lng": -86.57415
+  },
+  {
+    "name": "Olaszliszka",
+    "country": "HU",
+    "lat": 48.25,
+    "lng": 21.43333
+  },
+  {
+    "name": "Olafulihaa",
+    "country": "ID",
+    "lat": -10.631,
+    "lng": 123.2347
+  },
+  {
+    "name": "Olehsari",
+    "country": "ID",
+    "lat": -8.2158,
+    "lng": 114.3193
+  },
+  {
+    "name": "Old Kilcullen",
+    "country": "IE",
+    "lat": 53.10639,
+    "lng": -6.76528
+  },
+  {
+    "name": "Oldcastle",
+    "country": "IE",
+    "lat": 53.76648,
+    "lng": -7.16284
+  },
+  {
+    "name": "Oldbawn",
+    "country": "IE",
+    "lat": 53.27556,
+    "lng": -6.3675
+  },
+  {
+    "name": "Olpād",
+    "country": "IN",
+    "lat": 21.33649,
+    "lng": 72.75161
+  },
+  {
+    "name": "Olagadam",
+    "country": "IN",
+    "lat": 11.56558,
+    "lng": 77.64284
+  },
+  {
+    "name": "Olavanna",
+    "country": "IN",
+    "lat": 11.21836,
+    "lng": 75.83248
+  },
+  {
+    "name": "Oliveri",
+    "country": "IT",
+    "lat": 38.12515,
+    "lng": 15.06068
+  },
+  {
+    "name": "Olivadi",
+    "country": "IT",
+    "lat": 38.72558,
+    "lng": 16.4237
+  },
+  {
+    "name": "Olia Speciosa",
+    "country": "IT",
+    "lat": 39.27806,
+    "lng": 9.525
+  },
+  {
+    "name": "Olivetta San Michele",
+    "country": "IT",
+    "lat": 43.87872,
+    "lng": 7.51504
+  },
+  {
+    "name": "Olzai",
+    "country": "IT",
+    "lat": 40.18238,
+    "lng": 9.14679
+  },
+  {
+    "name": "Oltrona di San Mamette",
+    "country": "IT",
+    "lat": 45.75578,
+    "lng": 8.97673
+  },
+  {
+    "name": "Oltre Il Colle",
+    "country": "IT",
+    "lat": 45.88949,
+    "lng": 9.76925
+  },
+  {
+    "name": "Olmo al Brembo",
+    "country": "IT",
+    "lat": 45.97006,
+    "lng": 9.65034
+  },
+  {
+    "name": "Olmeneta",
+    "country": "IT",
+    "lat": 45.2354,
+    "lng": 10.02318
+  },
+  {
+    "name": "Olmedo",
+    "country": "IT",
+    "lat": 40.65156,
+    "lng": 8.38021
+  },
+  {
+    "name": "Ollolai",
+    "country": "IT",
+    "lat": 40.16805,
+    "lng": 9.17776
+  },
+  {
+    "name": "Oliveto Lucano",
+    "country": "IT",
+    "lat": 40.53554,
+    "lng": 16.18547
+  },
+  {
+    "name": "Oliveto Citra",
+    "country": "IT",
+    "lat": 40.69039,
+    "lng": 15.23346
+  },
+  {
+    "name": "Oliena",
+    "country": "IT",
+    "lat": 40.27617,
+    "lng": 9.40193
+  },
+  {
+    "name": "Olginate",
+    "country": "IT",
+    "lat": 45.79126,
+    "lng": 9.41869
+  },
+  {
+    "name": "Olgiate Olona",
+    "country": "IT",
+    "lat": 45.63706,
+    "lng": 8.88147
+  },
+  {
+    "name": "Olgiate Comasco",
+    "country": "IT",
+    "lat": 45.78436,
+    "lng": 8.96816
+  },
+  {
+    "name": "Olevano sul Tusciano",
+    "country": "IT",
+    "lat": 40.65721,
+    "lng": 15.02305
+  },
+  {
+    "name": "Olevano Romano",
+    "country": "IT",
+    "lat": 41.85869,
+    "lng": 13.03601
+  },
+  {
+    "name": "Olevano di Lomellina",
+    "country": "IT",
+    "lat": 45.21322,
+    "lng": 8.7175
+  },
+  {
+    "name": "Oleggio",
+    "country": "IT",
+    "lat": 45.59674,
+    "lng": 8.64213
+  },
+  {
+    "name": "Oldenico",
+    "country": "IT",
+    "lat": 45.40276,
+    "lng": 8.38103
+  },
+  {
+    "name": "Olcenengo",
+    "country": "IT",
+    "lat": 45.36346,
+    "lng": 8.30983
+  },
+  {
+    "name": "Olbia",
+    "country": "IT",
+    "lat": 40.92337,
+    "lng": 9.49802
+  },
+  {
+    "name": "Olgiate Molgora",
+    "country": "IT",
+    "lat": 45.73028,
+    "lng": 9.40335
+  },
+  {
+    "name": "Oltressenda Alta",
+    "country": "IT",
+    "lat": 45.91519,
+    "lng": 9.94486
+  },
+  {
+    "name": "Olivola",
+    "country": "IT",
+    "lat": 45.03725,
+    "lng": 8.36784
+  },
+  {
+    "name": "Ollomont",
+    "country": "IT",
+    "lat": 45.84976,
+    "lng": 7.3106
+  },
+  {
+    "name": "Oliva Gessi",
+    "country": "IT",
+    "lat": 45.00597,
+    "lng": 9.17317
+  },
+  {
+    "name": "Olmo Gentile",
+    "country": "IT",
+    "lat": 44.58574,
+    "lng": 8.24694
+  },
+  {
+    "name": "Ollastra",
+    "country": "IT",
+    "lat": 39.95095,
+    "lng": 8.73423
+  },
+  {
+    "name": "Oleggio Castello",
+    "country": "IT",
+    "lat": 45.74887,
+    "lng": 8.52713
+  },
+  {
+    "name": "Oltre Brenta",
+    "country": "IT",
+    "lat": 45.41207,
+    "lng": 11.99803
+  },
+  {
+    "name": "Old Harbour Bay",
+    "country": "JM",
+    "lat": 17.90918,
+    "lng": -77.09718
+  },
+  {
+    "name": "Old Harbour",
+    "country": "JM",
+    "lat": 17.94144,
+    "lng": -77.10898
+  },
+  {
+    "name": "Olulung’a",
+    "country": "KE",
+    "lat": -1.00268,
+    "lng": 35.66336
+  },
+  {
+    "name": "Oloitokitok",
+    "country": "KE",
+    "lat": -2.92724,
+    "lng": 37.5103
+  },
+  {
+    "name": "Ol Joro Orok",
+    "country": "KE",
+    "lat": -0.07473,
+    "lng": 36.36288
+  },
+  {
+    "name": "Olenguruone",
+    "country": "KE",
+    "lat": -0.5861,
+    "lng": 35.68769
+  },
+  {
+    "name": "Ol Kalou",
+    "country": "KE",
+    "lat": -0.27088,
+    "lng": 36.37917
+  },
+  {
+    "name": "Ol Kalau South Settlement",
+    "country": "KE",
+    "lat": -0.27444,
+    "lng": 36.33999
+  },
+  {
+    "name": "Ol Donyo",
+    "country": "KE",
+    "lat": -1.084,
+    "lng": 37.25274
+  },
+  {
+    "name": "Old Road Town",
+    "country": "KN",
+    "lat": 17.32215,
+    "lng": -62.80337
+  },
+  {
+    "name": "Old Stores",
+    "country": "KY",
+    "lat": 19.39273,
+    "lng": -81.39358
+  },
+  {
+    "name": "Old Man Bay",
+    "country": "KY",
+    "lat": 19.34419,
+    "lng": -81.17652
+  },
+  {
+    "name": "Olm",
+    "country": "LU",
+    "lat": 49.65722,
+    "lng": 6.00028
+  },
+  {
+    "name": "Olaine",
+    "country": "LV",
+    "lat": 56.79583,
+    "lng": 23.93726
+  },
+  {
+    "name": "Olivia",
+    "country": "MU",
+    "lat": -20.28778,
+    "lng": 57.73097
+  },
+  {
+    "name": "Oluta",
+    "country": "MX",
+    "lat": 17.92972,
+    "lng": -94.89662
+  },
+  {
+    "name": "Olintla",
+    "country": "MX",
+    "lat": 20.10196,
+    "lng": -97.68427
+  },
+  {
+    "name": "Olinalá",
+    "country": "MX",
+    "lat": 17.77861,
+    "lng": -98.73944
+  },
+  {
+    "name": "Olcuatitán",
+    "country": "MX",
+    "lat": 18.19031,
+    "lng": -92.96128
+  },
+  {
+    "name": "Olintepec",
+    "country": "MX",
+    "lat": 18.74056,
+    "lng": -98.98722
+  },
+  {
+    "name": "Olupona",
+    "country": "NG",
+    "lat": 7.60039,
+    "lng": 4.19264
+  },
+  {
+    "name": "Oleh",
+    "country": "NG",
+    "lat": 5.46186,
+    "lng": 6.20624
+  },
+  {
+    "name": "Olst",
+    "country": "NL",
+    "lat": 52.3375,
+    "lng": 6.10972
+  },
+  {
+    "name": "Oldenzaal",
+    "country": "NL",
+    "lat": 52.31333,
+    "lng": 6.92917
+  },
+  {
+    "name": "Oldemarkt",
+    "country": "NL",
+    "lat": 52.82083,
+    "lng": 5.975
+  },
+  {
+    "name": "Oldehove",
+    "country": "NL",
+    "lat": 53.30333,
+    "lng": 6.39583
+  },
+  {
+    "name": "Oldebroek",
+    "country": "NL",
+    "lat": 52.445,
+    "lng": 5.90139
+  },
+  {
+    "name": "Oldeberkoop",
+    "country": "NL",
+    "lat": 52.93788,
+    "lng": 6.13089
+  },
+  {
+    "name": "Olderdalen",
+    "country": "NO",
+    "lat": 69.60407,
+    "lng": 20.53272
+  },
+  {
+    "name": "Olá",
+    "country": "PA",
+    "lat": 8.42024,
+    "lng": -80.65051
+  },
+  {
+    "name": "Olto",
+    "country": "PE",
+    "lat": -6.1025,
+    "lng": -77.95944
+  },
+  {
+    "name": "Olmos",
+    "country": "PE",
+    "lat": -5.98472,
+    "lng": -79.74528
+  },
+  {
+    "name": "Olleros",
+    "country": "PE",
+    "lat": -9.66682,
+    "lng": -77.46563
+  },
+  {
+    "name": "Olleros",
+    "country": "PE",
+    "lat": -6.04861,
+    "lng": -77.64583
+  },
+  {
+    "name": "Ollantaytambo",
+    "country": "PE",
+    "lat": -13.25722,
+    "lng": -72.26306
+  },
+  {
+    "name": "Ollachea",
+    "country": "PE",
+    "lat": -13.79403,
+    "lng": -70.4722
+  },
+  {
+    "name": "Olutanga",
+    "country": "PH",
+    "lat": 7.31056,
+    "lng": 122.84639
+  },
+  {
+    "name": "Olongapo",
+    "country": "PH",
+    "lat": 14.82917,
+    "lng": 120.28278
+  },
+  {
+    "name": "Olingan",
+    "country": "PH",
+    "lat": 8.5381,
+    "lng": 123.3216
+  },
+  {
+    "name": "Olea",
+    "country": "PH",
+    "lat": 15.86237,
+    "lng": 120.49366
+  },
+  {
+    "name": "Olsztynek",
+    "country": "PL",
+    "lat": 53.58374,
+    "lng": 20.28471
+  },
+  {
+    "name": "Olsztyn",
+    "country": "PL",
+    "lat": 53.78376,
+    "lng": 20.49272
+  },
+  {
+    "name": "Olszówka",
+    "country": "PL",
+    "lat": 49.61455,
+    "lng": 20.02885
+  },
+  {
+    "name": "Olszanica",
+    "country": "PL",
+    "lat": 49.47741,
+    "lng": 22.44382
+  },
+  {
+    "name": "Olszana",
+    "country": "PL",
+    "lat": 49.56748,
+    "lng": 20.52126
+  },
+  {
+    "name": "Oleszyce",
+    "country": "PL",
+    "lat": 50.1675,
+    "lng": 23.03481
+  },
+  {
+    "name": "Olesno",
+    "country": "PL",
+    "lat": 50.20152,
+    "lng": 20.92578
+  },
+  {
+    "name": "Oleśnica",
+    "country": "PL",
+    "lat": 50.45357,
+    "lng": 21.06457
+  },
+  {
+    "name": "Olecko",
+    "country": "PL",
+    "lat": 54.03374,
+    "lng": 22.50704
+  },
+  {
+    "name": "Olza",
+    "country": "PL",
+    "lat": 49.95393,
+    "lng": 18.3391
+  },
+  {
+    "name": "Olszyna",
+    "country": "PL",
+    "lat": 51.0671,
+    "lng": 15.37228
+  },
+  {
+    "name": "Olsztyn",
+    "country": "PL",
+    "lat": 50.75185,
+    "lng": 19.26737
+  },
+  {
+    "name": "Olszówka",
+    "country": "PL",
+    "lat": 52.1903,
+    "lng": 18.86258
+  },
+  {
+    "name": "Olszanka",
+    "country": "PL",
+    "lat": 50.79514,
+    "lng": 17.4789
+  },
+  {
+    "name": "Olszanica",
+    "country": "PL",
+    "lat": 51.20672,
+    "lng": 15.8004
+  },
+  {
+    "name": "Olkusz",
+    "country": "PL",
+    "lat": 50.2813,
+    "lng": 19.56503
+  },
+  {
+    "name": "Oliwa",
+    "country": "PL",
+    "lat": 54.40723,
+    "lng": 18.55363
+  },
+  {
+    "name": "Olesno",
+    "country": "PL",
+    "lat": 50.87698,
+    "lng": 18.42094
+  },
+  {
+    "name": "Oleśnica",
+    "country": "PL",
+    "lat": 51.21338,
+    "lng": 17.38986
+  },
+  {
+    "name": "Olszynka",
+    "country": "PL",
+    "lat": 54.33747,
+    "lng": 18.66732
+  },
+  {
+    "name": "Olimpo",
+    "country": "PR",
+    "lat": 18.00191,
+    "lng": -66.10822
+  },
+  {
+    "name": "Old City",
+    "country": "PS",
+    "lat": 31.77667,
+    "lng": 35.23417
+  },
+  {
+    "name": "Olival Basto",
+    "country": "PT",
+    "lat": 38.79079,
+    "lng": -9.16621
+  },
+  {
+    "name": "Olival",
+    "country": "PT",
+    "lat": 38.77079,
+    "lng": -9.25015
+  },
+  {
+    "name": "Olivais",
+    "country": "PT",
+    "lat": 38.76994,
+    "lng": -9.10674
+  },
+  {
+    "name": "Olhos de Água",
+    "country": "PT",
+    "lat": 37.09024,
+    "lng": -8.19168
+  },
+  {
+    "name": "Olho Marinho",
+    "country": "PT",
+    "lat": 39.32791,
+    "lng": -9.23179
+  },
+  {
+    "name": "Olhão",
+    "country": "PT",
+    "lat": 37.0286,
+    "lng": -7.8411
+  },
+  {
+    "name": "Olhalvo",
+    "country": "PT",
+    "lat": 39.09893,
+    "lng": -9.06545
+  },
+  {
+    "name": "Oleiros",
+    "country": "PT",
+    "lat": 39.91893,
+    "lng": -7.9137
+  },
+  {
+    "name": "Oliveirinha",
+    "country": "PT",
+    "lat": 40.60715,
+    "lng": -8.59198
+  },
+  {
+    "name": "Oliveira do Mondego",
+    "country": "PT",
+    "lat": 40.32305,
+    "lng": -8.22367
+  },
+  {
+    "name": "Oliveira do Hospital",
+    "country": "PT",
+    "lat": 40.3618,
+    "lng": -7.86014
+  },
+  {
+    "name": "Oliveira do Douro",
+    "country": "PT",
+    "lat": 41.12466,
+    "lng": -8.58463
+  },
+  {
+    "name": "Oliveira do Bairro",
+    "country": "PT",
+    "lat": 40.5146,
+    "lng": -8.49386
+  },
+  {
+    "name": "Oliveira de Frades",
+    "country": "PT",
+    "lat": 40.73357,
+    "lng": -8.17481
+  },
+  {
+    "name": "Oliveira de Azemeis",
+    "country": "PT",
+    "lat": 40.84101,
+    "lng": -8.47555
+  },
+  {
+    "name": "Oliveira",
+    "country": "PT",
+    "lat": 41.47819,
+    "lng": -8.46965
+  },
+  {
+    "name": "Olival",
+    "country": "PT",
+    "lat": 41.05024,
+    "lng": -8.54416
+  },
+  {
+    "name": "Oltina",
+    "country": "RO",
+    "lat": 44.16667,
+    "lng": 27.66667
+  },
+  {
+    "name": "Olteniţa",
+    "country": "RO",
+    "lat": 44.08333,
+    "lng": 26.63333
+  },
+  {
+    "name": "Olteni",
+    "country": "RO",
+    "lat": 44.39307,
+    "lng": 25.95021
+  },
+  {
+    "name": "Olteni",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 25.28333
+  },
+  {
+    "name": "Olteneşti",
+    "country": "RO",
+    "lat": 46.58333,
+    "lng": 27.9
+  },
+  {
+    "name": "Olteanca",
+    "country": "RO",
+    "lat": 43.83047,
+    "lng": 24.79597
+  },
+  {
+    "name": "Ologeni",
+    "country": "RO",
+    "lat": 44.7337,
+    "lng": 25.95059
+  },
+  {
+    "name": "Oleșești",
+    "country": "RO",
+    "lat": 45.84781,
+    "lng": 27.10097
+  },
+  {
+    "name": "Olcea",
+    "country": "RO",
+    "lat": 46.68333,
+    "lng": 21.98333
+  },
+  {
+    "name": "Olari",
+    "country": "RO",
+    "lat": 46.38333,
+    "lng": 21.55
+  },
+  {
+    "name": "Olari",
+    "country": "RO",
+    "lat": 44.78482,
+    "lng": 26.21728
+  },
+  {
+    "name": "Olari",
+    "country": "RO",
+    "lat": 44.30783,
+    "lng": 24.20857
+  },
+  {
+    "name": "Olanu",
+    "country": "RO",
+    "lat": 44.86667,
+    "lng": 24.3
+  },
+  {
+    "name": "Olănești",
+    "country": "RO",
+    "lat": 45.18209,
+    "lng": 24.2599
+  },
+  {
+    "name": "Olym",
+    "country": "RU",
+    "lat": 51.682,
+    "lng": 38.17652
+  },
+  {
+    "name": "Olonets",
+    "country": "RU",
+    "lat": 60.98106,
+    "lng": 32.97261
+  },
+  {
+    "name": "Ol’khovka",
+    "country": "RU",
+    "lat": 49.85921,
+    "lng": 44.56234
+  },
+  {
+    "name": "Ol’khovatka",
+    "country": "RU",
+    "lat": 50.27927,
+    "lng": 39.29357
+  },
+  {
+    "name": "Ol’gino",
+    "country": "RU",
+    "lat": 59.83702,
+    "lng": 29.92266
+  },
+  {
+    "name": "Ol’ginskaya",
+    "country": "RU",
+    "lat": 47.18732,
+    "lng": 39.95187
+  },
+  {
+    "name": "Ol’ginskaya",
+    "country": "RU",
+    "lat": 45.9461,
+    "lng": 38.54864
+  },
+  {
+    "name": "Ol’gino",
+    "country": "RU",
+    "lat": 60.00928,
+    "lng": 30.11559
+  },
+  {
+    "name": "Ol’ginka",
+    "country": "RU",
+    "lat": 44.2075,
+    "lng": 38.89111
+  },
+  {
+    "name": "Olenino",
+    "country": "RU",
+    "lat": 56.20917,
+    "lng": 33.48888
+  },
+  {
+    "name": "Olenegorsk",
+    "country": "RU",
+    "lat": 68.1432,
+    "lng": 33.25287
+  },
+  {
+    "name": "Olovyannaya",
+    "country": "RU",
+    "lat": 50.94627,
+    "lng": 115.57553
+  },
+  {
+    "name": "Ol’ga",
+    "country": "RU",
+    "lat": 43.74667,
+    "lng": 135.29419
+  },
+  {
+    "name": "Olenyok",
+    "country": "RU",
+    "lat": 68.50472,
+    "lng": 112.4485
+  },
+  {
+    "name": "Olyokminsk",
+    "country": "RU",
+    "lat": 60.3743,
+    "lng": 120.4203
+  },
+  {
+    "name": "Ola",
+    "country": "RU",
+    "lat": 59.58032,
+    "lng": 151.29946
+  },
+  {
+    "name": "Ol'yavidovo",
+    "country": "RU",
+    "lat": 56.5033,
+    "lng": 37.7516
+  },
+  {
+    "name": "Olstorp",
+    "country": "SE",
+    "lat": 58.81667,
+    "lng": 16.63333
+  },
+  {
+    "name": "Olofström",
+    "country": "SE",
+    "lat": 56.2773,
+    "lng": 14.53402
+  },
+  {
+    "name": "Olofstorp",
+    "country": "SE",
+    "lat": 58.25,
+    "lng": 14.0
+  },
+  {
+    "name": "Olofstorp",
+    "country": "SE",
+    "lat": 57.80444,
+    "lng": 12.17131
+  },
+  {
+    "name": "Olstorp",
+    "country": "SE",
+    "lat": 57.82277,
+    "lng": 12.27696
+  },
+  {
+    "name": "Olonkinbyen",
+    "country": "SJ",
+    "lat": 70.9221,
+    "lng": -8.7187
+  },
+  {
+    "name": "Olešná",
+    "country": "SK",
+    "lat": 49.4236,
+    "lng": 18.67624
+  },
+  {
+    "name": "Olocuilta",
+    "country": "SV",
+    "lat": 13.56972,
+    "lng": -89.11722
+  },
+  {
+    "name": "Oltintopkan",
+    "country": "TJ",
+    "lat": 40.65425,
+    "lng": 69.59811
+  },
+  {
+    "name": "Olgun",
+    "country": "TR",
+    "lat": 38.08786,
+    "lng": 39.84779
+  },
+  {
+    "name": "Olur",
+    "country": "TR",
+    "lat": 40.82165,
+    "lng": 42.13055
+  },
+  {
+    "name": "Oltu",
+    "country": "TR",
+    "lat": 40.53945,
+    "lng": 41.98722
+  },
+  {
+    "name": "Old Shinyanga",
+    "country": "TZ",
+    "lat": -3.55,
+    "lng": 33.4
+  },
+  {
+    "name": "Olenevka",
+    "country": "UA",
+    "lat": 45.38333,
+    "lng": 32.53333
+  },
+  {
+    "name": "Oleshky",
+    "country": "UA",
+    "lat": 46.62553,
+    "lng": 32.72426
+  },
+  {
+    "name": "Olyka",
+    "country": "UA",
+    "lat": 50.71855,
+    "lng": 25.81251
+  },
+  {
+    "name": "Olshanske",
+    "country": "UA",
+    "lat": 47.1724,
+    "lng": 31.76498
+  },
+  {
+    "name": "Olyshivka",
+    "country": "UA",
+    "lat": 51.22266,
+    "lng": 31.33314
+  },
+  {
+    "name": "Olevsk",
+    "country": "UA",
+    "lat": 51.22482,
+    "lng": 27.65228
+  },
+  {
+    "name": "Olesko",
+    "country": "UA",
+    "lat": 49.96233,
+    "lng": 24.89336
+  },
+  {
+    "name": "Oleshnyk",
+    "country": "UA",
+    "lat": 48.16532,
+    "lng": 22.96249
+  },
+  {
+    "name": "Olenivka",
+    "country": "UA",
+    "lat": 47.8272,
+    "lng": 37.65982
+  },
+  {
+    "name": "Oleksandriya",
+    "country": "UA",
+    "lat": 48.67466,
+    "lng": 33.11761
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 48.968,
+    "lng": 32.23968
+  },
+  {
+    "name": "Oleksiyvka",
+    "country": "UA",
+    "lat": 48.41,
+    "lng": 27.26302
+  },
+  {
+    "name": "Oleksandriyske",
+    "country": "UA",
+    "lat": 48.60444,
+    "lng": 32.98851
+  },
+  {
+    "name": "Oleksiivka",
+    "country": "UA",
+    "lat": 46.12058,
+    "lng": 30.06219
+  },
+  {
+    "name": "Oleksandrivsk",
+    "country": "UA",
+    "lat": 48.58611,
+    "lng": 39.18946
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 47.69009,
+    "lng": 31.27756
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 46.83786,
+    "lng": 32.76344
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 46.61147,
+    "lng": 30.86444
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 46.44254,
+    "lng": 29.45463
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 46.32868,
+    "lng": 30.63562
+  },
+  {
+    "name": "Oleksandrivka",
+    "country": "UA",
+    "lat": 45.89067,
+    "lng": 28.94747
+  },
+  {
+    "name": "Ola",
+    "country": "US",
+    "lat": 35.03231,
+    "lng": -93.22323
+  },
+  {
+    "name": "Oldsmar",
+    "country": "US",
+    "lat": 28.03418,
+    "lng": -82.6651
+  },
+  {
+    "name": "Olga",
+    "country": "US",
+    "lat": 26.71896,
+    "lng": -81.7123
+  },
+  {
+    "name": "Olympia Heights",
+    "country": "US",
+    "lat": 25.72677,
+    "lng": -80.35533
+  },
+  {
+    "name": "Olney",
+    "country": "US",
+    "lat": 38.73088,
+    "lng": -88.08532
+  },
+  {
+    "name": "Olathe",
+    "country": "US",
+    "lat": 38.8814,
+    "lng": -94.81913
+  },
+  {
+    "name": "Olive Hill",
+    "country": "US",
+    "lat": 38.30008,
+    "lng": -83.17407
+  },
+  {
+    "name": "Old Jefferson",
+    "country": "US",
+    "lat": 30.38269,
+    "lng": -91.01705
+  },
+  {
+    "name": "Olla",
+    "country": "US",
+    "lat": 31.90294,
+    "lng": -92.24319
+  },
+  {
+    "name": "Old Town",
+    "country": "US",
+    "lat": 39.294,
+    "lng": -76.60719
+  },
+  {
+    "name": "Olney",
+    "country": "US",
+    "lat": 39.15316,
+    "lng": -77.06692
+  },
+  {
+    "name": "Olivette",
+    "country": "US",
+    "lat": 38.66533,
+    "lng": -90.37595
+  },
+  {
+    "name": "Olive Branch",
+    "country": "US",
+    "lat": 34.96176,
+    "lng": -89.82953
+  },
+  {
+    "name": "Olivet",
+    "country": "US",
+    "lat": 39.54817,
+    "lng": -75.15463
+  },
+  {
+    "name": "Old City",
+    "country": "US",
+    "lat": 39.9465,
+    "lng": -75.14684
+  },
+  {
+    "name": "Oliver",
+    "country": "US",
+    "lat": 39.91869,
+    "lng": -79.71782
+  },
+  {
+    "name": "Olivet",
+    "country": "US",
+    "lat": 35.21425,
+    "lng": -88.20031
+  },
+  {
+    "name": "Oliver Springs",
+    "country": "US",
+    "lat": 36.04452,
+    "lng": -84.34437
+  },
+  {
+    "name": "Old River-Winfree",
+    "country": "US",
+    "lat": 29.86828,
+    "lng": -94.8327
+  },
+  {
+    "name": "Olivarez",
+    "country": "US",
+    "lat": 26.22841,
+    "lng": -97.99223
+  },
+  {
+    "name": "Olmito",
+    "country": "US",
+    "lat": 26.02174,
+    "lng": -97.53415
+  },
+  {
+    "name": "Olmos Park",
+    "country": "US",
+    "lat": 29.47884,
+    "lng": -98.48752
+  },
+  {
+    "name": "Olney",
+    "country": "US",
+    "lat": 33.37066,
+    "lng": -98.75284
+  },
+  {
+    "name": "Old Greenwich",
+    "country": "US",
+    "lat": 41.02287,
+    "lng": -73.56485
+  },
+  {
+    "name": "Old Mystic",
+    "country": "US",
+    "lat": 41.39149,
+    "lng": -71.96174
+  },
+  {
+    "name": "Old Saybrook",
+    "country": "US",
+    "lat": 41.29177,
+    "lng": -72.3762
+  },
+  {
+    "name": "Olympia Fields",
+    "country": "US",
+    "lat": 41.51337,
+    "lng": -87.67421
+  },
+  {
+    "name": "Old Orchard Beach",
+    "country": "US",
+    "lat": 43.51731,
+    "lng": -70.37755
+  },
+  {
+    "name": "Old Town",
+    "country": "US",
+    "lat": 44.93423,
+    "lng": -68.64531
+  },
+  {
+    "name": "Olivet",
+    "country": "US",
+    "lat": 42.44143,
+    "lng": -84.92415
+  },
+  {
+    "name": "Olivia",
+    "country": "US",
+    "lat": 44.77635,
+    "lng": -94.98972
+  },
+  {
+    "name": "Old Bridge",
+    "country": "US",
+    "lat": 40.41483,
+    "lng": -74.36543
+  },
+  {
+    "name": "Old Tappan",
+    "country": "US",
+    "lat": 41.01065,
+    "lng": -73.99125
+  },
+  {
+    "name": "Olcott",
+    "country": "US",
+    "lat": 43.33783,
+    "lng": -78.71476
+  },
+  {
+    "name": "Old Bethpage",
+    "country": "US",
+    "lat": 40.7626,
+    "lng": -73.45318
+  },
+  {
+    "name": "Old Brookville",
+    "country": "US",
+    "lat": 40.83204,
+    "lng": -73.60485
+  },
+  {
+    "name": "Old Westbury",
+    "country": "US",
+    "lat": 40.78871,
+    "lng": -73.59957
+  },
+  {
+    "name": "Olean",
+    "country": "US",
+    "lat": 42.07756,
+    "lng": -78.42974
+  },
+  {
+    "name": "Olmsted Falls",
+    "country": "US",
+    "lat": 41.37505,
+    "lng": -81.90819
+  },
+  {
+    "name": "Old Forge",
+    "country": "US",
+    "lat": 41.37119,
+    "lng": -75.73491
+  },
+  {
+    "name": "Old Orchard",
+    "country": "US",
+    "lat": 40.65788,
+    "lng": -75.26212
+  },
+  {
+    "name": "Oley",
+    "country": "US",
+    "lat": 40.38759,
+    "lng": -75.78964
+  },
+  {
+    "name": "Olney",
+    "country": "US",
+    "lat": 40.04122,
+    "lng": -75.12379
+  },
+  {
+    "name": "Olyphant",
+    "country": "US",
+    "lat": 41.46841,
+    "lng": -75.60297
+  },
+  {
+    "name": "Olivet",
+    "country": "US",
+    "lat": 43.24082,
+    "lng": -97.67534
+  },
+  {
+    "name": "Olivehurst",
+    "country": "US",
+    "lat": 39.09545,
+    "lng": -121.55219
+  },
+  {
+    "name": "Olathe",
+    "country": "US",
+    "lat": 38.60499,
+    "lng": -107.98229
+  },
+  {
+    "name": "Olton",
+    "country": "US",
+    "lat": 34.18341,
+    "lng": -102.13463
+  },
+  {
+    "name": "Olympia",
+    "country": "US",
+    "lat": 47.04491,
+    "lng": -122.90169
+  },
+  {
+    "name": "Old Saybrook Center",
+    "country": "US",
+    "lat": 41.29123,
+    "lng": -72.37176
+  },
+  {
+    "name": "Old Fig Garden",
+    "country": "US",
+    "lat": 36.79885,
+    "lng": -119.80515
+  },
+  {
+    "name": "Old Jamestown",
+    "country": "US",
+    "lat": 38.83494,
+    "lng": -90.28511
+  },
+  {
+    "name": "Olinda, CDP",
+    "country": "US",
+    "lat": 20.82368,
+    "lng": -156.29236
+  },
+  {
+    "name": "Oliver",
+    "country": "US",
+    "lat": 39.30802,
+    "lng": -76.5993
+  },
+  {
+    "name": "Olomana",
+    "country": "US",
+    "lat": 21.37725,
+    "lng": -157.75602
+  },
+  {
+    "name": "Oltinko‘l",
+    "country": "UZ",
+    "lat": 43.06874,
+    "lng": 58.90372
+  },
+  {
+    "name": "Olot Shahri",
+    "country": "UZ",
+    "lat": 39.415,
+    "lng": 63.80333
+  },
+  {
+    "name": "Olmaliq",
+    "country": "UZ",
+    "lat": 40.84472,
+    "lng": 69.59833
+  },
+  {
+    "name": "Oltinko‘l",
+    "country": "UZ",
+    "lat": 40.80104,
+    "lng": 72.17306
+  },
+  {
+    "name": "Oltiariq",
+    "country": "UZ",
+    "lat": 40.39194,
+    "lng": 71.47417
+  },
+  {
+    "name": "Old Montrose",
+    "country": "VC",
+    "lat": 13.16679,
+    "lng": -61.22891
+  }
+]

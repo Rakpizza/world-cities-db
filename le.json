@@ -1,0 +1,8150 @@
+[
+  {
+    "name": "les Escaldes",
+    "country": "AD",
+    "lat": 42.50729,
+    "lng": 1.53414
+  },
+  {
+    "name": "Leskovik",
+    "country": "AL",
+    "lat": 40.15139,
+    "lng": 20.59722
+  },
+  {
+    "name": "Leshnjë",
+    "country": "AL",
+    "lat": 40.53694,
+    "lng": 20.31333
+  },
+  {
+    "name": "Lenias",
+    "country": "AL",
+    "lat": 40.76667,
+    "lng": 20.39139
+  },
+  {
+    "name": "Lekas",
+    "country": "AL",
+    "lat": 40.60222,
+    "lng": 20.5125
+  },
+  {
+    "name": "Lezhë",
+    "country": "AL",
+    "lat": 41.78361,
+    "lng": 19.64361
+  },
+  {
+    "name": "Levan",
+    "country": "AL",
+    "lat": 40.67611,
+    "lng": 19.48972
+  },
+  {
+    "name": "Lekbibaj",
+    "country": "AL",
+    "lat": 42.29472,
+    "lng": 19.93167
+  },
+  {
+    "name": "Lekaj",
+    "country": "AL",
+    "lat": 41.11444,
+    "lng": 19.60972
+  },
+  {
+    "name": "Lernavan",
+    "country": "AM",
+    "lat": 40.7882,
+    "lng": 44.16024
+  },
+  {
+    "name": "Lernapat",
+    "country": "AM",
+    "lat": 40.81538,
+    "lng": 44.39344
+  },
+  {
+    "name": "Lernantsk",
+    "country": "AM",
+    "lat": 40.79532,
+    "lng": 44.27435
+  },
+  {
+    "name": "Lernanist",
+    "country": "AM",
+    "lat": 40.46676,
+    "lng": 44.79249
+  },
+  {
+    "name": "Lernakert",
+    "country": "AM",
+    "lat": 40.5625,
+    "lng": 43.9389
+  },
+  {
+    "name": "Lermontovo",
+    "country": "AM",
+    "lat": 40.75843,
+    "lng": 44.63401
+  },
+  {
+    "name": "Lernagog",
+    "country": "AM",
+    "lat": 40.24011,
+    "lng": 43.87102
+  },
+  {
+    "name": "Lenughi",
+    "country": "AM",
+    "lat": 40.12512,
+    "lng": 43.96393
+  },
+  {
+    "name": "Lernahovit",
+    "country": "AM",
+    "lat": 41.1619,
+    "lng": 44.36979
+  },
+  {
+    "name": "Leandro N. Alem",
+    "country": "AR",
+    "lat": -27.60376,
+    "lng": -55.32365
+  },
+  {
+    "name": "Leones",
+    "country": "AR",
+    "lat": -32.65828,
+    "lng": -62.29773
+  },
+  {
+    "name": "Leleque",
+    "country": "AR",
+    "lat": -42.41295,
+    "lng": -71.07115
+  },
+  {
+    "name": "Leone",
+    "country": "AS",
+    "lat": -14.34389,
+    "lng": -170.785
+  },
+  {
+    "name": "Leutschach",
+    "country": "AT",
+    "lat": 46.66722,
+    "lng": 15.46889
+  },
+  {
+    "name": "Lermoos",
+    "country": "AT",
+    "lat": 47.40358,
+    "lng": 10.8807
+  },
+  {
+    "name": "Leopoldsdorf im Marchfelde",
+    "country": "AT",
+    "lat": 48.22261,
+    "lng": 16.68858
+  },
+  {
+    "name": "Leopoldsdorf",
+    "country": "AT",
+    "lat": 48.11557,
+    "lng": 16.39126
+  },
+  {
+    "name": "Leonstein",
+    "country": "AT",
+    "lat": 47.89666,
+    "lng": 14.23124
+  },
+  {
+    "name": "Leonding",
+    "country": "AT",
+    "lat": 48.27965,
+    "lng": 14.2533
+  },
+  {
+    "name": "Leogang",
+    "country": "AT",
+    "lat": 47.43906,
+    "lng": 12.76109
+  },
+  {
+    "name": "Leobersdorf",
+    "country": "AT",
+    "lat": 47.92796,
+    "lng": 16.21651
+  },
+  {
+    "name": "Leobendorf",
+    "country": "AT",
+    "lat": 48.38333,
+    "lng": 16.31667
+  },
+  {
+    "name": "Leoben",
+    "country": "AT",
+    "lat": 47.3765,
+    "lng": 15.09144
+  },
+  {
+    "name": "Lenzing",
+    "country": "AT",
+    "lat": 47.97326,
+    "lng": 13.60846
+  },
+  {
+    "name": "Lengfelden",
+    "country": "AT",
+    "lat": 47.85,
+    "lng": 13.05
+  },
+  {
+    "name": "Lengenfeld",
+    "country": "AT",
+    "lat": 48.47187,
+    "lng": 15.5987
+  },
+  {
+    "name": "Lendorf",
+    "country": "AT",
+    "lat": 46.83528,
+    "lng": 13.43028
+  },
+  {
+    "name": "Lend",
+    "country": "AT",
+    "lat": 47.29856,
+    "lng": 13.05176
+  },
+  {
+    "name": "Lembach im Mühlkreis",
+    "country": "AT",
+    "lat": 48.49517,
+    "lng": 13.89513
+  },
+  {
+    "name": "Leitzersdorf",
+    "country": "AT",
+    "lat": 48.41918,
+    "lng": 16.24513
+  },
+  {
+    "name": "Leitring",
+    "country": "AT",
+    "lat": 46.77957,
+    "lng": 15.55915
+  },
+  {
+    "name": "Leithaprodersdorf",
+    "country": "AT",
+    "lat": 47.93348,
+    "lng": 16.47915
+  },
+  {
+    "name": "Leitersdorf im Raabtal",
+    "country": "AT",
+    "lat": 46.94182,
+    "lng": 15.93365
+  },
+  {
+    "name": "Leitendorf",
+    "country": "AT",
+    "lat": 47.36667,
+    "lng": 15.08333
+  },
+  {
+    "name": "Leisach",
+    "country": "AT",
+    "lat": 46.8125,
+    "lng": 12.74861
+  },
+  {
+    "name": "Leibnitz",
+    "country": "AT",
+    "lat": 46.78161,
+    "lng": 15.53836
+  },
+  {
+    "name": "Leiben",
+    "country": "AT",
+    "lat": 48.24628,
+    "lng": 15.2746
+  },
+  {
+    "name": "Ledenitzen",
+    "country": "AT",
+    "lat": 46.56639,
+    "lng": 13.96139
+  },
+  {
+    "name": "Lechaschau",
+    "country": "AT",
+    "lat": 47.48804,
+    "lng": 10.70652
+  },
+  {
+    "name": "Lech",
+    "country": "AT",
+    "lat": 47.20797,
+    "lng": 10.14184
+  },
+  {
+    "name": "Leutasch",
+    "country": "AT",
+    "lat": 47.3689,
+    "lng": 11.14404
+  },
+  {
+    "name": "Lehen",
+    "country": "AT",
+    "lat": 47.87083,
+    "lng": 13.01722
+  },
+  {
+    "name": "Lerchenfeld",
+    "country": "AT",
+    "lat": 48.41234,
+    "lng": 15.63183
+  },
+  {
+    "name": "Lend",
+    "country": "AT",
+    "lat": 47.08256,
+    "lng": 15.41589
+  },
+  {
+    "name": "Lewiston",
+    "country": "AU",
+    "lat": -34.60449,
+    "lng": 138.59125
+  },
+  {
+    "name": "Leonora",
+    "country": "AU",
+    "lat": -28.88509,
+    "lng": 121.33074
+  },
+  {
+    "name": "Leanyer",
+    "country": "AU",
+    "lat": -12.36667,
+    "lng": 130.9
+  },
+  {
+    "name": "Leura",
+    "country": "AU",
+    "lat": -33.71667,
+    "lng": 150.33333
+  },
+  {
+    "name": "Leumeah",
+    "country": "AU",
+    "lat": -34.05,
+    "lng": 150.83333
+  },
+  {
+    "name": "Leopold",
+    "country": "AU",
+    "lat": -38.19001,
+    "lng": 144.46825
+  },
+  {
+    "name": "Leongatha",
+    "country": "AU",
+    "lat": -38.47607,
+    "lng": 145.94685
+  },
+  {
+    "name": "Leichhardt",
+    "country": "AU",
+    "lat": -33.88341,
+    "lng": 151.15625
+  },
+  {
+    "name": "Legana",
+    "country": "AU",
+    "lat": -41.36572,
+    "lng": 147.04584
+  },
+  {
+    "name": "Leeton",
+    "country": "AU",
+    "lat": -34.55105,
+    "lng": 146.40483
+  },
+  {
+    "name": "Leinster",
+    "country": "AU",
+    "lat": -27.92028,
+    "lng": 120.6967
+  },
+  {
+    "name": "Lemon Tree Passage",
+    "country": "AU",
+    "lat": -32.73047,
+    "lng": 152.03859
+  },
+  {
+    "name": "Lennox Head",
+    "country": "AU",
+    "lat": -28.79131,
+    "lng": 153.59201
+  },
+  {
+    "name": "Leschenault",
+    "country": "AU",
+    "lat": -33.24519,
+    "lng": 115.7251
+  },
+  {
+    "name": "Leederville",
+    "country": "AU",
+    "lat": -31.93628,
+    "lng": 115.8419
+  },
+  {
+    "name": "Leeming",
+    "country": "AU",
+    "lat": -32.07511,
+    "lng": 115.86613
+  },
+  {
+    "name": "Leda",
+    "country": "AU",
+    "lat": -32.26766,
+    "lng": 115.7993
+  },
+  {
+    "name": "Leonay",
+    "country": "AU",
+    "lat": -33.76542,
+    "lng": 150.64806
+  },
+  {
+    "name": "Lethbridge Park",
+    "country": "AU",
+    "lat": -33.73716,
+    "lng": 150.80042
+  },
+  {
+    "name": "Leppington",
+    "country": "AU",
+    "lat": -33.96983,
+    "lng": 150.79675
+  },
+  {
+    "name": "Lesmurdie",
+    "country": "AU",
+    "lat": -32.00199,
+    "lng": 116.04821
+  },
+  {
+    "name": "Lenah Valley",
+    "country": "AU",
+    "lat": -42.87146,
+    "lng": 147.27514
+  },
+  {
+    "name": "Leichhardt",
+    "country": "AU",
+    "lat": -27.62279,
+    "lng": 152.73373
+  },
+  {
+    "name": "Lewisham",
+    "country": "AU",
+    "lat": -33.89719,
+    "lng": 151.14883
+  },
+  {
+    "name": "Leabrook",
+    "country": "AU",
+    "lat": -34.92976,
+    "lng": 138.65862
+  },
+  {
+    "name": "Lemland",
+    "country": "AX",
+    "lat": 60.07178,
+    "lng": 20.08472
+  },
+  {
+    "name": "Lerik",
+    "country": "AZ",
+    "lat": 38.77388,
+    "lng": 48.41497
+  },
+  {
+    "name": "Le Roeulx",
+    "country": "BE",
+    "lat": 50.50365,
+    "lng": 4.11163
+  },
+  {
+    "name": "Lettelingen",
+    "country": "BE",
+    "lat": 50.68333,
+    "lng": 4.08333
+  },
+  {
+    "name": "Leval-Trahegnies",
+    "country": "BE",
+    "lat": 50.4213,
+    "lng": 4.22556
+  },
+  {
+    "name": "Leuze",
+    "country": "BE",
+    "lat": 50.6,
+    "lng": 3.6
+  },
+  {
+    "name": "Leuze",
+    "country": "BE",
+    "lat": 50.54635,
+    "lng": 4.9063
+  },
+  {
+    "name": "Leuven",
+    "country": "BE",
+    "lat": 50.87959,
+    "lng": 4.70093
+  },
+  {
+    "name": "Leut",
+    "country": "BE",
+    "lat": 50.99107,
+    "lng": 5.73624
+  },
+  {
+    "name": "Letterhoutem",
+    "country": "BE",
+    "lat": 50.92768,
+    "lng": 3.8797
+  },
+  {
+    "name": "Lesve",
+    "country": "BE",
+    "lat": 50.37705,
+    "lng": 4.77785
+  },
+  {
+    "name": "Lessines",
+    "country": "BE",
+    "lat": 50.71104,
+    "lng": 3.83579
+  },
+  {
+    "name": "Le Roux",
+    "country": "BE",
+    "lat": 50.38877,
+    "lng": 4.62404
+  },
+  {
+    "name": "Leopoldsburg",
+    "country": "BE",
+    "lat": 51.11667,
+    "lng": 5.25
+  },
+  {
+    "name": "Lens-sur-Geer",
+    "country": "BE",
+    "lat": 50.72162,
+    "lng": 5.35086
+  },
+  {
+    "name": "Lens-Saint-Remy",
+    "country": "BE",
+    "lat": 50.65077,
+    "lng": 5.1319
+  },
+  {
+    "name": "Lens",
+    "country": "BE",
+    "lat": 50.55696,
+    "lng": 3.89946
+  },
+  {
+    "name": "Lendelede",
+    "country": "BE",
+    "lat": 50.88626,
+    "lng": 3.23747
+  },
+  {
+    "name": "Lemberge",
+    "country": "BE",
+    "lat": 50.97629,
+    "lng": 3.77054
+  },
+  {
+    "name": "Lembeke",
+    "country": "BE",
+    "lat": 51.19487,
+    "lng": 3.63333
+  },
+  {
+    "name": "Lembeek",
+    "country": "BE",
+    "lat": 50.7157,
+    "lng": 4.21832
+  },
+  {
+    "name": "Leke",
+    "country": "BE",
+    "lat": 51.10022,
+    "lng": 2.89098
+  },
+  {
+    "name": "Leignon",
+    "country": "BE",
+    "lat": 50.26861,
+    "lng": 5.11045
+  },
+  {
+    "name": "Leffinge",
+    "country": "BE",
+    "lat": 51.17576,
+    "lng": 2.87576
+  },
+  {
+    "name": "Leeuwergem",
+    "country": "BE",
+    "lat": 50.888,
+    "lng": 3.831
+  },
+  {
+    "name": "Leest",
+    "country": "BE",
+    "lat": 51.03319,
+    "lng": 4.4153
+  },
+  {
+    "name": "Leers-Nord",
+    "country": "BE",
+    "lat": 50.68748,
+    "lng": 3.27023
+  },
+  {
+    "name": "Leernes",
+    "country": "BE",
+    "lat": 50.39812,
+    "lng": 4.33239
+  },
+  {
+    "name": "Leerbeek",
+    "country": "BE",
+    "lat": 50.77788,
+    "lng": 4.11936
+  },
+  {
+    "name": "Leefdaal",
+    "country": "BE",
+    "lat": 50.84759,
+    "lng": 4.58936
+  },
+  {
+    "name": "Ledegem",
+    "country": "BE",
+    "lat": 50.85785,
+    "lng": 3.12409
+  },
+  {
+    "name": "Ledeberg",
+    "country": "BE",
+    "lat": 51.03859,
+    "lng": 3.74458
+  },
+  {
+    "name": "Ledeberg",
+    "country": "BE",
+    "lat": 50.84356,
+    "lng": 4.09112
+  },
+  {
+    "name": "Lede",
+    "country": "BE",
+    "lat": 50.96626,
+    "lng": 3.98594
+  },
+  {
+    "name": "Lebbeke",
+    "country": "BE",
+    "lat": 51.00464,
+    "lng": 4.13457
+  },
+  {
+    "name": "Levski",
+    "country": "BG",
+    "lat": 43.36667,
+    "lng": 25.13333
+  },
+  {
+    "name": "Letnitsa",
+    "country": "BG",
+    "lat": 43.31167,
+    "lng": 25.07333
+  },
+  {
+    "name": "Lesichovo",
+    "country": "BG",
+    "lat": 42.35626,
+    "lng": 24.1119
+  },
+  {
+    "name": "Leópolis",
+    "country": "BR",
+    "lat": -23.08,
+    "lng": -50.75111
+  },
+  {
+    "name": "Leopoldo de Bulhões",
+    "country": "BR",
+    "lat": -16.61917,
+    "lng": -48.74361
+  },
+  {
+    "name": "Leopoldina",
+    "country": "BR",
+    "lat": -21.53194,
+    "lng": -42.64306
+  },
+  {
+    "name": "Lençóis Paulista",
+    "country": "BR",
+    "lat": -22.59861,
+    "lng": -48.80028
+  },
+  {
+    "name": "Lençóis",
+    "country": "BR",
+    "lat": -12.56306,
+    "lng": -41.39
+  },
+  {
+    "name": "Leme do Prado",
+    "country": "BR",
+    "lat": -17.08333,
+    "lng": -42.6925
+  },
+  {
+    "name": "Leme",
+    "country": "BR",
+    "lat": -22.18556,
+    "lng": -47.39028
+  },
+  {
+    "name": "Lebon Régis",
+    "country": "BR",
+    "lat": -26.92889,
+    "lng": -50.69528
+  },
+  {
+    "name": "Leandro Ferreira",
+    "country": "BR",
+    "lat": -19.71806,
+    "lng": -45.025
+  },
+  {
+    "name": "Leblon",
+    "country": "BR",
+    "lat": -22.98444,
+    "lng": -43.22315
+  },
+  {
+    "name": "Leme",
+    "country": "BR",
+    "lat": -22.9621,
+    "lng": -43.16831
+  },
+  {
+    "name": "Leoberto Leal",
+    "country": "BR",
+    "lat": -27.50694,
+    "lng": -49.28694
+  },
+  {
+    "name": "Letlhakeng",
+    "country": "BW",
+    "lat": -24.09442,
+    "lng": 25.02977
+  },
+  {
+    "name": "Letlhakane",
+    "country": "BW",
+    "lat": -21.41494,
+    "lng": 25.59263
+  },
+  {
+    "name": "Lenchwe Le Tau",
+    "country": "BW",
+    "lat": -24.38333,
+    "lng": 25.85
+  },
+  {
+    "name": "Lehututu",
+    "country": "BW",
+    "lat": -23.915,
+    "lng": 21.83
+  },
+  {
+    "name": "Letsheng",
+    "country": "BW",
+    "lat": -22.66384,
+    "lng": 27.2239
+  },
+  {
+    "name": "Lentsweletau",
+    "country": "BW",
+    "lat": -24.24863,
+    "lng": 25.85215
+  },
+  {
+    "name": "Lerala",
+    "country": "BW",
+    "lat": -22.78797,
+    "lng": 27.76503
+  },
+  {
+    "name": "Lel’chitsy",
+    "country": "BY",
+    "lat": 51.78613,
+    "lng": 28.32824
+  },
+  {
+    "name": "Leamington",
+    "country": "CA",
+    "lat": 42.05009,
+    "lng": -82.59981
+  },
+  {
+    "name": "Lebel-sur-Quévillon",
+    "country": "CA",
+    "lat": 49.05018,
+    "lng": -76.98273
+  },
+  {
+    "name": "Leblanc",
+    "country": "CA",
+    "lat": 48.26683,
+    "lng": -74.34914
+  },
+  {
+    "name": "Leduc",
+    "country": "CA",
+    "lat": 53.26682,
+    "lng": -113.55201
+  },
+  {
+    "name": "Les Cèdres",
+    "country": "CA",
+    "lat": 45.31009,
+    "lng": -74.05926
+  },
+  {
+    "name": "Les Coteaux",
+    "country": "CA",
+    "lat": 45.28338,
+    "lng": -74.23254
+  },
+  {
+    "name": "Lethbridge",
+    "country": "CA",
+    "lat": 49.69999,
+    "lng": -112.81856
+  },
+  {
+    "name": "Lewisporte",
+    "country": "CA",
+    "lat": 49.24343,
+    "lng": -55.06196
+  },
+  {
+    "name": "Les Escoumins",
+    "country": "CA",
+    "lat": 48.35191,
+    "lng": -69.40724
+  },
+  {
+    "name": "le Plateau",
+    "country": "CA",
+    "lat": 45.43514,
+    "lng": -75.7803
+  },
+  {
+    "name": "Le Bic",
+    "country": "CA",
+    "lat": 48.37549,
+    "lng": -68.69415
+  },
+  {
+    "name": "Leaside-Bennington",
+    "country": "CA",
+    "lat": 43.7038,
+    "lng": -79.36607
+  },
+  {
+    "name": "Leytron",
+    "country": "CH",
+    "lat": 46.1866,
+    "lng": 7.2078
+  },
+  {
+    "name": "Leysin",
+    "country": "CH",
+    "lat": 46.34183,
+    "lng": 7.01151
+  },
+  {
+    "name": "Le Vaud",
+    "country": "CH",
+    "lat": 46.47753,
+    "lng": 6.23603
+  },
+  {
+    "name": "Leuzigen",
+    "country": "CH",
+    "lat": 47.17458,
+    "lng": 7.45775
+  },
+  {
+    "name": "Leukerbad",
+    "country": "CH",
+    "lat": 46.37943,
+    "lng": 7.62687
+  },
+  {
+    "name": "Leuk",
+    "country": "CH",
+    "lat": 46.31736,
+    "lng": 7.63412
+  },
+  {
+    "name": "Les Ponts-de-Martel",
+    "country": "CH",
+    "lat": 46.99735,
+    "lng": 6.73059
+  },
+  {
+    "name": "Les Geneveys-sur-Coffrane",
+    "country": "CH",
+    "lat": 47.01528,
+    "lng": 6.8513
+  },
+  {
+    "name": "Les Breuleux",
+    "country": "CH",
+    "lat": 47.21099,
+    "lng": 7.00792
+  },
+  {
+    "name": "Les Brenets",
+    "country": "CH",
+    "lat": 47.06774,
+    "lng": 6.70478
+  },
+  {
+    "name": "Les Bois",
+    "country": "CH",
+    "lat": 47.17715,
+    "lng": 6.90498
+  },
+  {
+    "name": "Lenzerheide",
+    "country": "CH",
+    "lat": 46.72215,
+    "lng": 9.55905
+  },
+  {
+    "name": "Lenzburg",
+    "country": "CH",
+    "lat": 47.38853,
+    "lng": 8.17503
+  },
+  {
+    "name": "Lens",
+    "country": "CH",
+    "lat": 46.28298,
+    "lng": 7.44976
+  },
+  {
+    "name": "Le Noirmont",
+    "country": "CH",
+    "lat": 47.22464,
+    "lng": 6.95784
+  },
+  {
+    "name": "Lenk",
+    "country": "CH",
+    "lat": 46.45826,
+    "lng": 7.44298
+  },
+  {
+    "name": "Lengnau",
+    "country": "CH",
+    "lat": 47.18155,
+    "lng": 7.36814
+  },
+  {
+    "name": "Le Mont-sur-Lausanne",
+    "country": "CH",
+    "lat": 46.55815,
+    "lng": 6.63145
+  },
+  {
+    "name": "Le Locle",
+    "country": "CH",
+    "lat": 47.05619,
+    "lng": 6.74913
+  },
+  {
+    "name": "Le Landeron",
+    "country": "CH",
+    "lat": 47.05702,
+    "lng": 7.07052
+  },
+  {
+    "name": "Leibstadt",
+    "country": "CH",
+    "lat": 47.5879,
+    "lng": 8.17611
+  },
+  {
+    "name": "Le Chenit",
+    "country": "CH",
+    "lat": 46.60688,
+    "lng": 6.23062
+  },
+  {
+    "name": "Le Grand-Saconnex",
+    "country": "CH",
+    "lat": 46.23188,
+    "lng": 6.12091
+  },
+  {
+    "name": "Les Avanchets",
+    "country": "CH",
+    "lat": 46.22168,
+    "lng": 6.10814
+  },
+  {
+    "name": "Les Clées",
+    "country": "CH",
+    "lat": 46.7321,
+    "lng": 6.46266
+  },
+  {
+    "name": "Lenguézan",
+    "country": "CI",
+    "lat": 7.69978,
+    "lng": -3.93292
+  },
+  {
+    "name": "Lengbé Kouassiblékro",
+    "country": "CI",
+    "lat": 7.32408,
+    "lng": -4.63825
+  },
+  {
+    "name": "Lenguédougou",
+    "country": "CI",
+    "lat": 8.98841,
+    "lng": -6.24312
+  },
+  {
+    "name": "Lebam",
+    "country": "CI",
+    "lat": 6.30595,
+    "lng": -6.21033
+  },
+  {
+    "name": "Ledjean",
+    "country": "CI",
+    "lat": 6.92867,
+    "lng": -7.10539
+  },
+  {
+    "name": "Lessiri",
+    "country": "CI",
+    "lat": 5.90971,
+    "lng": -6.48897
+  },
+  {
+    "name": "Lendékro",
+    "country": "CI",
+    "lat": 7.77413,
+    "lng": -4.01688
+  },
+  {
+    "name": "Lebu",
+    "country": "CL",
+    "lat": -37.60825,
+    "lng": -73.65356
+  },
+  {
+    "name": "Leping",
+    "country": "CN",
+    "lat": 37.61469,
+    "lng": 113.66499
+  },
+  {
+    "name": "Leshou",
+    "country": "CN",
+    "lat": 38.18956,
+    "lng": 116.11984
+  },
+  {
+    "name": "Leiyang",
+    "country": "CN",
+    "lat": 30.12043,
+    "lng": 116.68292
+  },
+  {
+    "name": "Leye",
+    "country": "CN",
+    "lat": 24.80071,
+    "lng": 106.55801
+  },
+  {
+    "name": "Lechang",
+    "country": "CN",
+    "lat": 35.64201,
+    "lng": 111.46722
+  },
+  {
+    "name": "Leshan",
+    "country": "CN",
+    "lat": 29.56227,
+    "lng": 103.76386
+  },
+  {
+    "name": "Leping",
+    "country": "CN",
+    "lat": 28.96817,
+    "lng": 117.11653
+  },
+  {
+    "name": "Lengshuitan",
+    "country": "CN",
+    "lat": 26.4111,
+    "lng": 111.59559
+  },
+  {
+    "name": "Lengshuijiang",
+    "country": "CN",
+    "lat": 27.68806,
+    "lng": 111.42944
+  },
+  {
+    "name": "Lengshuiguan",
+    "country": "CN",
+    "lat": 29.38155,
+    "lng": 107.14378
+  },
+  {
+    "name": "Leling",
+    "country": "CN",
+    "lat": 37.73472,
+    "lng": 117.22028
+  },
+  {
+    "name": "Leiyang",
+    "country": "CN",
+    "lat": 26.40238,
+    "lng": 112.85908
+  },
+  {
+    "name": "Leizhou",
+    "country": "CN",
+    "lat": 20.91932,
+    "lng": 110.07885
+  },
+  {
+    "name": "Lecheng",
+    "country": "CN",
+    "lat": 25.128,
+    "lng": 113.35041
+  },
+  {
+    "name": "Leiwang",
+    "country": "CN",
+    "lat": 34.05084,
+    "lng": 105.14418
+  },
+  {
+    "name": "Leifeng",
+    "country": "CN",
+    "lat": 28.2,
+    "lng": 112.84611
+  },
+  {
+    "name": "Leicheng",
+    "country": "CN",
+    "lat": 20.91558,
+    "lng": 110.08371
+  },
+  {
+    "name": "Leiba",
+    "country": "CN",
+    "lat": 33.79086,
+    "lng": 105.03795
+  },
+  {
+    "name": "Lexiu",
+    "country": "CN",
+    "lat": 34.74136,
+    "lng": 103.09018
+  },
+  {
+    "name": "Lengshui",
+    "country": "CN",
+    "lat": 30.12988,
+    "lng": 108.54631
+  },
+  {
+    "name": "Lengshui",
+    "country": "CN",
+    "lat": 24.3258,
+    "lng": 111.178
+  },
+  {
+    "name": "Leidong",
+    "country": "CN",
+    "lat": 25.91396,
+    "lng": 109.34042
+  },
+  {
+    "name": "Lequn",
+    "country": "CN",
+    "lat": 22.57764,
+    "lng": 113.87385
+  },
+  {
+    "name": "Lei Yue Mun",
+    "country": "CN",
+    "lat": 22.51872,
+    "lng": 113.89708
+  },
+  {
+    "name": "Leticia",
+    "country": "CO",
+    "lat": -4.21079,
+    "lng": -69.93944
+  },
+  {
+    "name": "Lenguazaque",
+    "country": "CO",
+    "lat": 5.30711,
+    "lng": -73.71152
+  },
+  {
+    "name": "Leiva",
+    "country": "CO",
+    "lat": 1.93497,
+    "lng": -77.30634
+  },
+  {
+    "name": "Lebrija",
+    "country": "CO",
+    "lat": 7.11317,
+    "lng": -73.2178
+  },
+  {
+    "name": "Lejanías",
+    "country": "CO",
+    "lat": 3.52762,
+    "lng": -74.02335
+  },
+  {
+    "name": "Leader",
+    "country": "CU",
+    "lat": 23.03333,
+    "lng": -82.25
+  },
+  {
+    "name": "Leonárisso",
+    "country": "CY",
+    "lat": 35.46892,
+    "lng": 34.13886
+  },
+  {
+    "name": "Lefkónoiko",
+    "country": "CY",
+    "lat": 35.2598,
+    "lng": 33.73189
+  },
+  {
+    "name": "Letovice",
+    "country": "CZ",
+    "lat": 49.54709,
+    "lng": 16.57357
+  },
+  {
+    "name": "Letonice",
+    "country": "CZ",
+    "lat": 49.17726,
+    "lng": 16.95913
+  },
+  {
+    "name": "Letohrad",
+    "country": "CZ",
+    "lat": 50.0358,
+    "lng": 16.49879
+  },
+  {
+    "name": "Letňany",
+    "country": "CZ",
+    "lat": 50.13333,
+    "lng": 14.51667
+  },
+  {
+    "name": "Leština",
+    "country": "CZ",
+    "lat": 49.86879,
+    "lng": 16.92748
+  },
+  {
+    "name": "Lešná",
+    "country": "CZ",
+    "lat": 49.52055,
+    "lng": 17.93004
+  },
+  {
+    "name": "Lenešice",
+    "country": "CZ",
+    "lat": 50.37516,
+    "lng": 13.7659
+  },
+  {
+    "name": "Lelekovice",
+    "country": "CZ",
+    "lat": 49.29144,
+    "lng": 16.57874
+  },
+  {
+    "name": "Lednice",
+    "country": "CZ",
+    "lat": 48.79992,
+    "lng": 16.80339
+  },
+  {
+    "name": "Ledenice",
+    "country": "CZ",
+    "lat": 48.93329,
+    "lng": 14.61886
+  },
+  {
+    "name": "Ledeč nad Sázavou",
+    "country": "CZ",
+    "lat": 49.69517,
+    "lng": 15.27772
+  },
+  {
+    "name": "Leverkusen",
+    "country": "DE",
+    "lat": 51.0303,
+    "lng": 6.98432
+  },
+  {
+    "name": "Leutkirch",
+    "country": "DE",
+    "lat": 47.82672,
+    "lng": 10.0205
+  },
+  {
+    "name": "Leutesdorf",
+    "country": "DE",
+    "lat": 50.45,
+    "lng": 7.38333
+  },
+  {
+    "name": "Leutershausen",
+    "country": "DE",
+    "lat": 49.29869,
+    "lng": 10.41189
+  },
+  {
+    "name": "Leutersdorf",
+    "country": "DE",
+    "lat": 50.95,
+    "lng": 14.65
+  },
+  {
+    "name": "Leutenberg",
+    "country": "DE",
+    "lat": 50.56354,
+    "lng": 11.45619
+  },
+  {
+    "name": "Leutenbach",
+    "country": "DE",
+    "lat": 49.7095,
+    "lng": 11.17224
+  },
+  {
+    "name": "Leutenbach",
+    "country": "DE",
+    "lat": 48.88791,
+    "lng": 9.39267
+  },
+  {
+    "name": "Leupoldsgrün",
+    "country": "DE",
+    "lat": 50.3,
+    "lng": 11.8
+  },
+  {
+    "name": "Leuna",
+    "country": "DE",
+    "lat": 51.31783,
+    "lng": 12.01589
+  },
+  {
+    "name": "Leun",
+    "country": "DE",
+    "lat": 50.55129,
+    "lng": 8.35836
+  },
+  {
+    "name": "Leuchtenberg",
+    "country": "DE",
+    "lat": 49.59737,
+    "lng": 12.2584
+  },
+  {
+    "name": "Leubsdorf",
+    "country": "DE",
+    "lat": 50.8,
+    "lng": 13.16667
+  },
+  {
+    "name": "Leubsdorf",
+    "country": "DE",
+    "lat": 50.55,
+    "lng": 7.3
+  },
+  {
+    "name": "Leubnitz",
+    "country": "DE",
+    "lat": 50.72313,
+    "lng": 12.3566
+  },
+  {
+    "name": "Leuben",
+    "country": "DE",
+    "lat": 51.01122,
+    "lng": 13.82029
+  },
+  {
+    "name": "Letzlingen",
+    "country": "DE",
+    "lat": 52.44615,
+    "lng": 11.48518
+  },
+  {
+    "name": "Letschin",
+    "country": "DE",
+    "lat": 52.64379,
+    "lng": 14.36007
+  },
+  {
+    "name": "Leopoldshöhe",
+    "country": "DE",
+    "lat": 52.01246,
+    "lng": 8.69834
+  },
+  {
+    "name": "Leonberg",
+    "country": "DE",
+    "lat": 49.94708,
+    "lng": 12.2852
+  },
+  {
+    "name": "Leonberg",
+    "country": "DE",
+    "lat": 48.8,
+    "lng": 9.01667
+  },
+  {
+    "name": "Lenzkirch",
+    "country": "DE",
+    "lat": 47.86832,
+    "lng": 8.20211
+  },
+  {
+    "name": "Lenzen",
+    "country": "DE",
+    "lat": 53.09176,
+    "lng": 11.47453
+  },
+  {
+    "name": "Lentföhrden",
+    "country": "DE",
+    "lat": 53.87318,
+    "lng": 9.88611
+  },
+  {
+    "name": "Lensahn",
+    "country": "DE",
+    "lat": 54.21652,
+    "lng": 10.88326
+  },
+  {
+    "name": "Lennestadt",
+    "country": "DE",
+    "lat": 51.11721,
+    "lng": 8.06707
+  },
+  {
+    "name": "Lenggries",
+    "country": "DE",
+    "lat": 47.68333,
+    "lng": 11.56667
+  },
+  {
+    "name": "Lengerich",
+    "country": "DE",
+    "lat": 52.55381,
+    "lng": 7.53164
+  },
+  {
+    "name": "Lengerich",
+    "country": "DE",
+    "lat": 52.18661,
+    "lng": 7.86043
+  },
+  {
+    "name": "Lengenwang",
+    "country": "DE",
+    "lat": 47.7,
+    "lng": 10.6
+  },
+  {
+    "name": "Lengenfeld",
+    "country": "DE",
+    "lat": 50.5694,
+    "lng": 12.36408
+  },
+  {
+    "name": "Lengefeld",
+    "country": "DE",
+    "lat": 50.71911,
+    "lng": 13.1929
+  },
+  {
+    "name": "Lengede",
+    "country": "DE",
+    "lat": 52.20487,
+    "lng": 10.30775
+  },
+  {
+    "name": "Lengdorf",
+    "country": "DE",
+    "lat": 48.25737,
+    "lng": 12.04973
+  },
+  {
+    "name": "Lemsahl-Mellingstedt",
+    "country": "DE",
+    "lat": 53.68998,
+    "lng": 10.09648
+  },
+  {
+    "name": "Lemgo",
+    "country": "DE",
+    "lat": 52.02786,
+    "lng": 8.89901
+  },
+  {
+    "name": "Lemförde",
+    "country": "DE",
+    "lat": 52.46557,
+    "lng": 8.37621
+  },
+  {
+    "name": "Lemberg",
+    "country": "DE",
+    "lat": 49.17309,
+    "lng": 7.65111
+  },
+  {
+    "name": "Leiwen",
+    "country": "DE",
+    "lat": 49.81667,
+    "lng": 6.88333
+  },
+  {
+    "name": "Leitzkau",
+    "country": "DE",
+    "lat": 52.05818,
+    "lng": 11.95203
+  },
+  {
+    "name": "Leißling",
+    "country": "DE",
+    "lat": 51.1826,
+    "lng": 11.90954
+  },
+  {
+    "name": "Leisnig",
+    "country": "DE",
+    "lat": 51.15743,
+    "lng": 12.9279
+  },
+  {
+    "name": "Leipzig",
+    "country": "DE",
+    "lat": 51.33962,
+    "lng": 12.37129
+  },
+  {
+    "name": "Leipheim",
+    "country": "DE",
+    "lat": 48.45004,
+    "lng": 10.22278
+  },
+  {
+    "name": "Leinzell",
+    "country": "DE",
+    "lat": 48.84941,
+    "lng": 9.8775
+  },
+  {
+    "name": "Leinfelden-Echterdingen",
+    "country": "DE",
+    "lat": 48.69406,
+    "lng": 9.16809
+  },
+  {
+    "name": "Leinefelde-Worbis",
+    "country": "DE",
+    "lat": 51.38796,
+    "lng": 10.3262
+  },
+  {
+    "name": "Leinburg",
+    "country": "DE",
+    "lat": 49.45167,
+    "lng": 11.31
+  },
+  {
+    "name": "Leimersheim",
+    "country": "DE",
+    "lat": 49.12421,
+    "lng": 8.34531
+  },
+  {
+    "name": "Leimen",
+    "country": "DE",
+    "lat": 49.34737,
+    "lng": 8.68733
+  },
+  {
+    "name": "Leimbach",
+    "country": "DE",
+    "lat": 50.81667,
+    "lng": 10.2
+  },
+  {
+    "name": "Leiferde",
+    "country": "DE",
+    "lat": 52.20445,
+    "lng": 10.50842
+  },
+  {
+    "name": "Leidersbach",
+    "country": "DE",
+    "lat": 49.90139,
+    "lng": 9.22167
+  },
+  {
+    "name": "Leichlingen",
+    "country": "DE",
+    "lat": 51.10628,
+    "lng": 7.01873
+  },
+  {
+    "name": "Leiblfing",
+    "country": "DE",
+    "lat": 48.77565,
+    "lng": 12.51793
+  },
+  {
+    "name": "Leibertingen",
+    "country": "DE",
+    "lat": 48.04263,
+    "lng": 9.01308
+  },
+  {
+    "name": "Lehrte",
+    "country": "DE",
+    "lat": 52.37193,
+    "lng": 9.97919
+  },
+  {
+    "name": "Lehrensteinsfeld",
+    "country": "DE",
+    "lat": 49.13111,
+    "lng": 9.32722
+  },
+  {
+    "name": "Lehre",
+    "country": "DE",
+    "lat": 52.32793,
+    "lng": 10.66899
+  },
+  {
+    "name": "Lehrberg",
+    "country": "DE",
+    "lat": 49.34568,
+    "lng": 10.51101
+  },
+  {
+    "name": "Lehndorf",
+    "country": "DE",
+    "lat": 52.27625,
+    "lng": 10.47924
+  },
+  {
+    "name": "Lehmkuhlen",
+    "country": "DE",
+    "lat": 54.23333,
+    "lng": 10.36667
+  },
+  {
+    "name": "Lehmen",
+    "country": "DE",
+    "lat": 50.28333,
+    "lng": 7.45
+  },
+  {
+    "name": "Lehesten",
+    "country": "DE",
+    "lat": 50.98333,
+    "lng": 11.58333
+  },
+  {
+    "name": "Lehe",
+    "country": "DE",
+    "lat": 54.34143,
+    "lng": 9.02374
+  },
+  {
+    "name": "Legden",
+    "country": "DE",
+    "lat": 52.03333,
+    "lng": 7.1
+  },
+  {
+    "name": "Legau",
+    "country": "DE",
+    "lat": 47.85628,
+    "lng": 10.12981
+  },
+  {
+    "name": "Leezen",
+    "country": "DE",
+    "lat": 53.86532,
+    "lng": 10.25438
+  },
+  {
+    "name": "Leezen",
+    "country": "DE",
+    "lat": 53.66265,
+    "lng": 11.49874
+  },
+  {
+    "name": "Leezdorf",
+    "country": "DE",
+    "lat": 53.54787,
+    "lng": 7.29574
+  },
+  {
+    "name": "Leese",
+    "country": "DE",
+    "lat": 52.5,
+    "lng": 9.11667
+  },
+  {
+    "name": "Leer",
+    "country": "DE",
+    "lat": 53.23157,
+    "lng": 7.461
+  },
+  {
+    "name": "Leegebruch",
+    "country": "DE",
+    "lat": 52.7234,
+    "lng": 13.19304
+  },
+  {
+    "name": "Leck",
+    "country": "DE",
+    "lat": 54.76667,
+    "lng": 8.98333
+  },
+  {
+    "name": "Lechbruck",
+    "country": "DE",
+    "lat": 47.70162,
+    "lng": 10.79493
+  },
+  {
+    "name": "Lebus",
+    "country": "DE",
+    "lat": 52.42719,
+    "lng": 14.53235
+  },
+  {
+    "name": "Lebach",
+    "country": "DE",
+    "lat": 49.41122,
+    "lng": 6.90988
+  },
+  {
+    "name": "Leingarten",
+    "country": "DE",
+    "lat": 49.14639,
+    "lng": 9.11694
+  },
+  {
+    "name": "Lewenberg",
+    "country": "DE",
+    "lat": 53.64591,
+    "lng": 11.40767
+  },
+  {
+    "name": "Lenningen",
+    "country": "DE",
+    "lat": 48.55048,
+    "lng": 9.47674
+  },
+  {
+    "name": "Lemwerder",
+    "country": "DE",
+    "lat": 53.16281,
+    "lng": 8.61495
+  },
+  {
+    "name": "Lemvig",
+    "country": "DK",
+    "lat": 56.54856,
+    "lng": 8.31019
+  },
+  {
+    "name": "Lejre",
+    "country": "DK",
+    "lat": 55.60461,
+    "lng": 11.97477
+  },
+  {
+    "name": "Leonidas Plaza Gutiérrez",
+    "country": "EC",
+    "lat": -0.62754,
+    "lng": -80.42504
+  },
+  {
+    "name": "Lezuza",
+    "country": "ES",
+    "lat": 38.9497,
+    "lng": -2.35419
+  },
+  {
+    "name": "Letur",
+    "country": "ES",
+    "lat": 38.36626,
+    "lng": -2.10206
+  },
+  {
+    "name": "Lepe",
+    "country": "ES",
+    "lat": 37.25482,
+    "lng": -7.20433
+  },
+  {
+    "name": "Lentegí",
+    "country": "ES",
+    "lat": 36.83613,
+    "lng": -3.67426
+  },
+  {
+    "name": "Ledaña",
+    "country": "ES",
+    "lat": 39.36667,
+    "lng": -1.7
+  },
+  {
+    "name": "Lebrija",
+    "country": "ES",
+    "lat": 36.92077,
+    "lng": -6.07529
+  },
+  {
+    "name": "Leintz-Gatzaga",
+    "country": "ES",
+    "lat": 42.98684,
+    "lng": -2.56851
+  },
+  {
+    "name": "Lezo",
+    "country": "ES",
+    "lat": 43.32142,
+    "lng": -1.89739
+  },
+  {
+    "name": "Lezáun",
+    "country": "ES",
+    "lat": 42.77739,
+    "lng": -1.99385
+  },
+  {
+    "name": "Lezama",
+    "country": "ES",
+    "lat": 43.02799,
+    "lng": -2.97257
+  },
+  {
+    "name": "Leza de Río Leza",
+    "country": "ES",
+    "lat": 42.32952,
+    "lng": -2.40606
+  },
+  {
+    "name": "Leza",
+    "country": "ES",
+    "lat": 42.56552,
+    "lng": -2.63324
+  },
+  {
+    "name": "Letux",
+    "country": "ES",
+    "lat": 41.25512,
+    "lng": -0.80269
+  },
+  {
+    "name": "Lesaka",
+    "country": "ES",
+    "lat": 43.25,
+    "lng": -1.7
+  },
+  {
+    "name": "Les",
+    "country": "ES",
+    "lat": 42.81076,
+    "lng": 0.7105
+  },
+  {
+    "name": "Lerma",
+    "country": "ES",
+    "lat": 42.02609,
+    "lng": -3.75978
+  },
+  {
+    "name": "Lerín",
+    "country": "ES",
+    "lat": 42.48318,
+    "lng": -1.97184
+  },
+  {
+    "name": "Lerga",
+    "country": "ES",
+    "lat": 42.56781,
+    "lng": -1.5011
+  },
+  {
+    "name": "Lekeitio",
+    "country": "ES",
+    "lat": 43.36417,
+    "lng": -2.50492
+  },
+  {
+    "name": "León",
+    "country": "ES",
+    "lat": 42.60003,
+    "lng": -5.57032
+  },
+  {
+    "name": "Leioa",
+    "country": "ES",
+    "lat": 43.32686,
+    "lng": -2.98884
+  },
+  {
+    "name": "Leitza",
+    "country": "ES",
+    "lat": 43.08333,
+    "lng": -1.91667
+  },
+  {
+    "name": "Leiva",
+    "country": "ES",
+    "lat": 42.50281,
+    "lng": -3.04701
+  },
+  {
+    "name": "Legorreta",
+    "country": "ES",
+    "lat": 43.08464,
+    "lng": -2.15017
+  },
+  {
+    "name": "Legazpi",
+    "country": "ES",
+    "lat": 43.05319,
+    "lng": -2.33689
+  },
+  {
+    "name": "Legaria",
+    "country": "ES",
+    "lat": 42.64924,
+    "lng": -2.17392
+  },
+  {
+    "name": "Legarda",
+    "country": "ES",
+    "lat": 42.71183,
+    "lng": -1.76846
+  },
+  {
+    "name": "Leganiel",
+    "country": "ES",
+    "lat": 40.16568,
+    "lng": -2.94966
+  },
+  {
+    "name": "Leganés",
+    "country": "ES",
+    "lat": 40.32718,
+    "lng": -3.7635
+  },
+  {
+    "name": "Ledrada",
+    "country": "ES",
+    "lat": 40.46878,
+    "lng": -5.72038
+  },
+  {
+    "name": "Ledigos",
+    "country": "ES",
+    "lat": 42.3548,
+    "lng": -4.8648
+  },
+  {
+    "name": "Ledesma de la Cogolla",
+    "country": "ES",
+    "lat": 42.32032,
+    "lng": -2.719
+  },
+  {
+    "name": "Ledesma",
+    "country": "ES",
+    "lat": 41.08829,
+    "lng": -6.00178
+  },
+  {
+    "name": "Ledanca",
+    "country": "ES",
+    "lat": 40.86881,
+    "lng": -2.8434
+  },
+  {
+    "name": "Lekunberri",
+    "country": "ES",
+    "lat": 43.0005,
+    "lng": -1.89257
+  },
+  {
+    "name": "Leciñena",
+    "country": "ES",
+    "lat": 41.79868,
+    "lng": -0.61174
+  },
+  {
+    "name": "Lechón",
+    "country": "ES",
+    "lat": 41.08633,
+    "lng": -1.28483
+  },
+  {
+    "name": "Leache",
+    "country": "ES",
+    "lat": 42.60718,
+    "lng": -1.40728
+  },
+  {
+    "name": "Leaburu",
+    "country": "ES",
+    "lat": 43.12188,
+    "lng": -2.0543
+  },
+  {
+    "name": "les Planes d'Hostoles",
+    "country": "ES",
+    "lat": 42.05669,
+    "lng": 2.54093
+  },
+  {
+    "name": "les Llosses",
+    "country": "ES",
+    "lat": 42.15,
+    "lng": 2.11667
+  },
+  {
+    "name": "Les Cases d'Alcanar",
+    "country": "ES",
+    "lat": 40.55359,
+    "lng": 0.53022
+  },
+  {
+    "name": "les Borges del Camp",
+    "country": "ES",
+    "lat": 41.16667,
+    "lng": 1.01667
+  },
+  {
+    "name": "Les Corts",
+    "country": "ES",
+    "lat": 41.38712,
+    "lng": 2.13007
+  },
+  {
+    "name": "Les Franqueses del Vallès",
+    "country": "ES",
+    "lat": 41.61929,
+    "lng": 2.29829
+  },
+  {
+    "name": "les Roquetes",
+    "country": "ES",
+    "lat": 41.44809,
+    "lng": 2.17519
+  },
+  {
+    "name": "Legazpi",
+    "country": "ES",
+    "lat": 40.38884,
+    "lng": -3.68715
+  },
+  {
+    "name": "Leku",
+    "country": "ET",
+    "lat": 6.87309,
+    "lng": 38.44425
+  },
+  {
+    "name": "Lestijärvi",
+    "country": "FI",
+    "lat": 63.53333,
+    "lng": 24.65
+  },
+  {
+    "name": "Leppävirta",
+    "country": "FI",
+    "lat": 62.49009,
+    "lng": 27.78262
+  },
+  {
+    "name": "Leppävaara",
+    "country": "FI",
+    "lat": 60.21283,
+    "lng": 24.81348
+  },
+  {
+    "name": "Lemu",
+    "country": "FI",
+    "lat": 60.56667,
+    "lng": 21.96667
+  },
+  {
+    "name": "Lempäälä",
+    "country": "FI",
+    "lat": 61.31667,
+    "lng": 23.75
+  },
+  {
+    "name": "Lemi",
+    "country": "FI",
+    "lat": 61.06244,
+    "lng": 27.80571
+  },
+  {
+    "name": "Leivonmäki",
+    "country": "FI",
+    "lat": 61.91198,
+    "lng": 26.12796
+  },
+  {
+    "name": "Lehtisaari",
+    "country": "FI",
+    "lat": 60.17972,
+    "lng": 24.85167
+  },
+  {
+    "name": "Leppäkorpi",
+    "country": "FI",
+    "lat": 60.36266,
+    "lng": 25.09346
+  },
+  {
+    "name": "Lentävänniemi",
+    "country": "FI",
+    "lat": 61.52801,
+    "lng": 23.70575
+  },
+  {
+    "name": "Leinola",
+    "country": "FI",
+    "lat": 61.48617,
+    "lng": 23.90093
+  },
+  {
+    "name": "Leiri",
+    "country": "FI",
+    "lat": 61.05583,
+    "lng": 28.17787
+  },
+  {
+    "name": "Leveri",
+    "country": "FI",
+    "lat": 65.00431,
+    "lng": 25.46467
+  },
+  {
+    "name": "Levuka",
+    "country": "FJ",
+    "lat": -18.06667,
+    "lng": 179.31667
+  },
+  {
+    "name": "Lelu",
+    "country": "FM",
+    "lat": 5.33359,
+    "lng": 163.02248
+  },
+  {
+    "name": "Leirvík",
+    "country": "FO",
+    "lat": 62.20992,
+    "lng": -6.69284
+  },
+  {
+    "name": "Le Vieux-Marché",
+    "country": "FR",
+    "lat": 48.6,
+    "lng": -3.45
+  },
+  {
+    "name": "Le Plan-de-la-Tour",
+    "country": "FR",
+    "lat": 43.33333,
+    "lng": 6.55
+  },
+  {
+    "name": "Les Martres-d'Artière",
+    "country": "FR",
+    "lat": 45.83333,
+    "lng": 3.26667
+  },
+  {
+    "name": "Lezoux",
+    "country": "FR",
+    "lat": 45.82689,
+    "lng": 3.37924
+  },
+  {
+    "name": "Lezennes",
+    "country": "FR",
+    "lat": 50.61553,
+    "lng": 3.11354
+  },
+  {
+    "name": "Lezay",
+    "country": "FR",
+    "lat": 46.26494,
+    "lng": -0.00909
+  },
+  {
+    "name": "Leyment",
+    "country": "FR",
+    "lat": 45.9239,
+    "lng": 5.29241
+  },
+  {
+    "name": "Leymen",
+    "country": "FR",
+    "lat": 47.49632,
+    "lng": 7.48517
+  },
+  {
+    "name": "Leyme",
+    "country": "FR",
+    "lat": 44.78537,
+    "lng": 1.90045
+  },
+  {
+    "name": "Lexy",
+    "country": "FR",
+    "lat": 49.49996,
+    "lng": 5.72985
+  },
+  {
+    "name": "Lewarde",
+    "country": "FR",
+    "lat": 50.34173,
+    "lng": 3.16782
+  },
+  {
+    "name": "Levroux",
+    "country": "FR",
+    "lat": 46.9786,
+    "lng": 1.61243
+  },
+  {
+    "name": "Le Vivier-sur-Mer",
+    "country": "FR",
+    "lat": 48.6024,
+    "lng": -1.77536
+  },
+  {
+    "name": "Le Vigen",
+    "country": "FR",
+    "lat": 45.75178,
+    "lng": 1.28856
+  },
+  {
+    "name": "Le Vigan-en-Quercy",
+    "country": "FR",
+    "lat": 44.74146,
+    "lng": 1.43884
+  },
+  {
+    "name": "Le Vigan",
+    "country": "FR",
+    "lat": 43.99106,
+    "lng": 3.60648
+  },
+  {
+    "name": "Levier",
+    "country": "FR",
+    "lat": 46.95302,
+    "lng": 6.12059
+  },
+  {
+    "name": "Le Vieil-Baugé",
+    "country": "FR",
+    "lat": 47.53193,
+    "lng": -0.11888
+  },
+  {
+    "name": "Levet",
+    "country": "FR",
+    "lat": 46.92605,
+    "lng": 2.40732
+  },
+  {
+    "name": "Le Vésinet",
+    "country": "FR",
+    "lat": 48.89281,
+    "lng": 2.13308
+  },
+  {
+    "name": "Le Versoud",
+    "country": "FR",
+    "lat": 45.21988,
+    "lng": 5.86502
+  },
+  {
+    "name": "Le Verdon-sur-Mer",
+    "country": "FR",
+    "lat": 45.54627,
+    "lng": -1.06158
+  },
+  {
+    "name": "Levens",
+    "country": "FR",
+    "lat": 43.85948,
+    "lng": 7.22583
+  },
+  {
+    "name": "Le Vaudreuil",
+    "country": "FR",
+    "lat": 49.25407,
+    "lng": 1.2096
+  },
+  {
+    "name": "Le Val-Saint-Père",
+    "country": "FR",
+    "lat": 48.66177,
+    "lng": -1.37653
+  },
+  {
+    "name": "Le Val-Saint-Germain",
+    "country": "FR",
+    "lat": 48.56601,
+    "lng": 2.06471
+  },
+  {
+    "name": "Levallois-Perret",
+    "country": "FR",
+    "lat": 48.89389,
+    "lng": 2.28864
+  },
+  {
+    "name": "Leval",
+    "country": "FR",
+    "lat": 50.18106,
+    "lng": 3.83093
+  },
+  {
+    "name": "Le Val",
+    "country": "FR",
+    "lat": 43.43928,
+    "lng": 6.07335
+  },
+  {
+    "name": "Leuville-sur-Orge",
+    "country": "FR",
+    "lat": 48.6173,
+    "lng": 2.26685
+  },
+  {
+    "name": "Leudeville",
+    "country": "FR",
+    "lat": 48.56591,
+    "lng": 2.32676
+  },
+  {
+    "name": "Leucate",
+    "country": "FR",
+    "lat": 42.91056,
+    "lng": 3.02944
+  },
+  {
+    "name": "Le Trévoux",
+    "country": "FR",
+    "lat": 47.89474,
+    "lng": -3.64169
+  },
+  {
+    "name": "Le Tréport",
+    "country": "FR",
+    "lat": 50.05979,
+    "lng": 1.37583
+  },
+  {
+    "name": "Le Trait",
+    "country": "FR",
+    "lat": 49.46895,
+    "lng": 0.81634
+  },
+  {
+    "name": "Le Touvet",
+    "country": "FR",
+    "lat": 45.35909,
+    "lng": 5.95283
+  },
+  {
+    "name": "Le Touquet-Paris-Plage",
+    "country": "FR",
+    "lat": 50.52432,
+    "lng": 1.58571
+  },
+  {
+    "name": "Le Tignet",
+    "country": "FR",
+    "lat": 43.63979,
+    "lng": 6.84625
+  },
+  {
+    "name": "Le Thuit-Signol",
+    "country": "FR",
+    "lat": 49.26487,
+    "lng": 0.9391
+  },
+  {
+    "name": "Le Thou",
+    "country": "FR",
+    "lat": 46.08424,
+    "lng": -0.91732
+  },
+  {
+    "name": "Le Thoronet",
+    "country": "FR",
+    "lat": 43.45174,
+    "lng": 6.30391
+  },
+  {
+    "name": "Le Thor",
+    "country": "FR",
+    "lat": 43.92943,
+    "lng": 4.99543
+  },
+  {
+    "name": "Le Tholy",
+    "country": "FR",
+    "lat": 48.08229,
+    "lng": 6.74351
+  },
+  {
+    "name": "Le Tholonet",
+    "country": "FR",
+    "lat": 43.52176,
+    "lng": 5.51115
+  },
+  {
+    "name": "Le Thillot",
+    "country": "FR",
+    "lat": 47.87941,
+    "lng": 6.76279
+  },
+  {
+    "name": "Le Thillay",
+    "country": "FR",
+    "lat": 49.00659,
+    "lng": 2.47218
+  },
+  {
+    "name": "Le Theil-de-Bretagne",
+    "country": "FR",
+    "lat": 47.91994,
+    "lng": -1.42973
+  },
+  {
+    "name": "Le Theil-Bocage",
+    "country": "FR",
+    "lat": 48.88333,
+    "lng": -0.71667
+  },
+  {
+    "name": "Le Temple-de-Bretagne",
+    "country": "FR",
+    "lat": 47.32868,
+    "lng": -1.79143
+  },
+  {
+    "name": "Le Teilleul",
+    "country": "FR",
+    "lat": 48.53758,
+    "lng": -0.87304
+  },
+  {
+    "name": "Le Teil",
+    "country": "FR",
+    "lat": 44.54531,
+    "lng": 4.68223
+  },
+  {
+    "name": "Le Teich",
+    "country": "FR",
+    "lat": 44.63389,
+    "lng": -1.02437
+  },
+  {
+    "name": "Le Tallud",
+    "country": "FR",
+    "lat": 46.63068,
+    "lng": -0.29759
+  },
+  {
+    "name": "Le Taillan-Médoc",
+    "country": "FR",
+    "lat": 44.90429,
+    "lng": -0.66997
+  },
+  {
+    "name": "Le Syndicat",
+    "country": "FR",
+    "lat": 48.01733,
+    "lng": 6.68436
+  },
+  {
+    "name": "Les Vans",
+    "country": "FR",
+    "lat": 44.40522,
+    "lng": 4.13198
+  },
+  {
+    "name": "Lestrem",
+    "country": "FR",
+    "lat": 50.61987,
+    "lng": 2.68646
+  },
+  {
+    "name": "Les Touches",
+    "country": "FR",
+    "lat": 47.44249,
+    "lng": -1.43097
+  },
+  {
+    "name": "Lestelle-Bétharram",
+    "country": "FR",
+    "lat": 43.13035,
+    "lng": -0.2095
+  },
+  {
+    "name": "Les Sorinières",
+    "country": "FR",
+    "lat": 47.14744,
+    "lng": -1.53004
+  },
+  {
+    "name": "Lessay",
+    "country": "FR",
+    "lat": 49.21703,
+    "lng": -1.53089
+  },
+  {
+    "name": "Les Salles-du-Gardon",
+    "country": "FR",
+    "lat": 44.20675,
+    "lng": 4.03469
+  },
+  {
+    "name": "Les Sables-d'Olonne",
+    "country": "FR",
+    "lat": 46.49687,
+    "lng": -1.7847
+  },
+  {
+    "name": "Les Rousses",
+    "country": "FR",
+    "lat": 46.48412,
+    "lng": 6.0633
+  },
+  {
+    "name": "Les Rosiers-sur-Loire",
+    "country": "FR",
+    "lat": 47.3516,
+    "lng": -0.22502
+  },
+  {
+    "name": "Les Roches-de-Condrieu",
+    "country": "FR",
+    "lat": 45.45281,
+    "lng": 4.76718
+  },
+  {
+    "name": "Les Riceys",
+    "country": "FR",
+    "lat": 47.9939,
+    "lng": 4.36986
+  },
+  {
+    "name": "Lesquin",
+    "country": "FR",
+    "lat": 50.58232,
+    "lng": 3.119
+  },
+  {
+    "name": "Les Ponts-de-Cé",
+    "country": "FR",
+    "lat": 47.42315,
+    "lng": -0.52477
+  },
+  {
+    "name": "Lespinasse",
+    "country": "FR",
+    "lat": 43.71206,
+    "lng": 1.38462
+  },
+  {
+    "name": "Lespignan",
+    "country": "FR",
+    "lat": 43.27364,
+    "lng": 3.17193
+  },
+  {
+    "name": "Les Pieux",
+    "country": "FR",
+    "lat": 49.51286,
+    "lng": -1.80714
+  },
+  {
+    "name": "Les Pennes-Mirabeau",
+    "country": "FR",
+    "lat": 43.41012,
+    "lng": 5.30838
+  },
+  {
+    "name": "Les Peintures",
+    "country": "FR",
+    "lat": 45.06899,
+    "lng": -0.09752
+  },
+  {
+    "name": "Les Pavillons-sous-Bois",
+    "country": "FR",
+    "lat": 48.90683,
+    "lng": 2.50648
+  },
+  {
+    "name": "Lesparre-Médoc",
+    "country": "FR",
+    "lat": 45.30709,
+    "lng": -0.93793
+  },
+  {
+    "name": "Le Sourn",
+    "country": "FR",
+    "lat": 48.04273,
+    "lng": -2.9891
+  },
+  {
+    "name": "Les Ormes",
+    "country": "FR",
+    "lat": 46.97211,
+    "lng": 0.60608
+  },
+  {
+    "name": "Les Olives",
+    "country": "FR",
+    "lat": 43.32393,
+    "lng": 5.4584
+  },
+  {
+    "name": "Le Soler",
+    "country": "FR",
+    "lat": 42.68185,
+    "lng": 2.79305
+  },
+  {
+    "name": "Les Noës-près-Troyes",
+    "country": "FR",
+    "lat": 48.30358,
+    "lng": 4.04552
+  },
+  {
+    "name": "Lesneven",
+    "country": "FR",
+    "lat": 48.57157,
+    "lng": -4.31745
+  },
+  {
+    "name": "Les Mureaux",
+    "country": "FR",
+    "lat": 48.99173,
+    "lng": 1.90972
+  },
+  {
+    "name": "Les Moutiers-en-Retz",
+    "country": "FR",
+    "lat": 47.06375,
+    "lng": -1.999
+  },
+  {
+    "name": "Les Montils",
+    "country": "FR",
+    "lat": 47.49499,
+    "lng": 1.29775
+  },
+  {
+    "name": "Les Molières",
+    "country": "FR",
+    "lat": 48.67306,
+    "lng": 2.06959
+  },
+  {
+    "name": "Les Mées",
+    "country": "FR",
+    "lat": 44.02961,
+    "lng": 5.97635
+  },
+  {
+    "name": "Les Mathes",
+    "country": "FR",
+    "lat": 45.7175,
+    "lng": -1.14838
+  },
+  {
+    "name": "Les Matelles",
+    "country": "FR",
+    "lat": 43.73044,
+    "lng": 3.80912
+  },
+  {
+    "name": "Les Marches",
+    "country": "FR",
+    "lat": 45.50042,
+    "lng": 6.00381
+  },
+  {
+    "name": "Les Magnils-Reigniers",
+    "country": "FR",
+    "lat": 46.48333,
+    "lng": -1.21667
+  },
+  {
+    "name": "Les Mages",
+    "country": "FR",
+    "lat": 44.22875,
+    "lng": 4.16633
+  },
+  {
+    "name": "Les Lucs-sur-Boulogne",
+    "country": "FR",
+    "lat": 46.84414,
+    "lng": -1.49392
+  },
+  {
+    "name": "Les Loges-Marchis",
+    "country": "FR",
+    "lat": 48.54132,
+    "lng": -1.08754
+  },
+  {
+    "name": "Les Loges-en-Josas",
+    "country": "FR",
+    "lat": 48.76377,
+    "lng": 2.14002
+  },
+  {
+    "name": "Les Loges",
+    "country": "FR",
+    "lat": 49.6986,
+    "lng": 0.28403
+  },
+  {
+    "name": "Les Lilas",
+    "country": "FR",
+    "lat": 48.87992,
+    "lng": 2.42057
+  },
+  {
+    "name": "Les Landes-Genusson",
+    "country": "FR",
+    "lat": 46.96378,
+    "lng": -1.1194
+  },
+  {
+    "name": "Les Houches",
+    "country": "FR",
+    "lat": 45.89267,
+    "lng": 6.80637
+  },
+  {
+    "name": "Les Herbiers",
+    "country": "FR",
+    "lat": 46.87095,
+    "lng": -1.0156
+  },
+  {
+    "name": "Les Hautes-Rivières",
+    "country": "FR",
+    "lat": 49.88595,
+    "lng": 4.84186
+  },
+  {
+    "name": "Les Grandes-Ventes",
+    "country": "FR",
+    "lat": 49.78544,
+    "lng": 1.22921
+  },
+  {
+    "name": "Les Gonds",
+    "country": "FR",
+    "lat": 45.71542,
+    "lng": -0.61711
+  },
+  {
+    "name": "Les Gets",
+    "country": "FR",
+    "lat": 46.15522,
+    "lng": 6.66492
+  },
+  {
+    "name": "Les Fourgs",
+    "country": "FR",
+    "lat": 46.83455,
+    "lng": 6.39953
+  },
+  {
+    "name": "Les Forges",
+    "country": "FR",
+    "lat": 48.17747,
+    "lng": 6.38846
+  },
+  {
+    "name": "Les Fins",
+    "country": "FR",
+    "lat": 47.07764,
+    "lng": 6.63002
+  },
+  {
+    "name": "Les Essarts-le-Roi",
+    "country": "FR",
+    "lat": 48.71673,
+    "lng": 1.90089
+  },
+  {
+    "name": "Les Essarts",
+    "country": "FR",
+    "lat": 46.77401,
+    "lng": -1.22953
+  },
+  {
+    "name": "Les Epesses",
+    "country": "FR",
+    "lat": 46.88287,
+    "lng": -0.90011
+  },
+  {
+    "name": "Les Églisottes-et-Chalaures",
+    "country": "FR",
+    "lat": 45.09811,
+    "lng": -0.03893
+  },
+  {
+    "name": "Les Échelles",
+    "country": "FR",
+    "lat": 45.44058,
+    "lng": 5.74866
+  },
+  {
+    "name": "Les Contamines-Montjoie",
+    "country": "FR",
+    "lat": 45.82164,
+    "lng": 6.72865
+  },
+  {
+    "name": "Les Clouzeaux",
+    "country": "FR",
+    "lat": 46.63035,
+    "lng": -1.5094
+  },
+  {
+    "name": "Les Clayes-sous-Bois",
+    "country": "FR",
+    "lat": 48.82206,
+    "lng": 1.98677
+  },
+  {
+    "name": "Les Chères",
+    "country": "FR",
+    "lat": 45.8896,
+    "lng": 4.74261
+  },
+  {
+    "name": "Les Champs-Géraux",
+    "country": "FR",
+    "lat": 48.41649,
+    "lng": -1.97148
+  },
+  {
+    "name": "Lescar",
+    "country": "FR",
+    "lat": 43.33358,
+    "lng": -0.43458
+  },
+  {
+    "name": "Les Camoins",
+    "country": "FR",
+    "lat": 43.30607,
+    "lng": 5.51745
+  },
+  {
+    "name": "Les Brouzils",
+    "country": "FR",
+    "lat": 46.88701,
+    "lng": -1.32179
+  },
+  {
+    "name": "Les Baumettes",
+    "country": "FR",
+    "lat": 43.22641,
+    "lng": 5.41642
+  },
+  {
+    "name": "Les Aygalades",
+    "country": "FR",
+    "lat": 43.35711,
+    "lng": 5.37116
+  },
+  {
+    "name": "Les Avenières",
+    "country": "FR",
+    "lat": 45.63632,
+    "lng": 5.56144
+  },
+  {
+    "name": "Les Authieux-sur-le-Port-Saint-Ouen",
+    "country": "FR",
+    "lat": 49.341,
+    "lng": 1.13465
+  },
+  {
+    "name": "Les Attaques",
+    "country": "FR",
+    "lat": 50.90962,
+    "lng": 1.92961
+  },
+  {
+    "name": "Les Artigues-de-Lussac",
+    "country": "FR",
+    "lat": 44.97182,
+    "lng": -0.13958
+  },
+  {
+    "name": "Les Arcs",
+    "country": "FR",
+    "lat": 43.46328,
+    "lng": 6.47876
+  },
+  {
+    "name": "Le Sappey-en-Chartreuse",
+    "country": "FR",
+    "lat": 45.26235,
+    "lng": 5.77476
+  },
+  {
+    "name": "Les Angles",
+    "country": "FR",
+    "lat": 43.95452,
+    "lng": 4.76645
+  },
+  {
+    "name": "Les Andelys",
+    "country": "FR",
+    "lat": 49.24557,
+    "lng": 1.41168
+  },
+  {
+    "name": "Les Ancizes",
+    "country": "FR",
+    "lat": 45.92524,
+    "lng": 2.81265
+  },
+  {
+    "name": "Les Alluets-le-Roi",
+    "country": "FR",
+    "lat": 48.91379,
+    "lng": 1.9181
+  },
+  {
+    "name": "Les Allues",
+    "country": "FR",
+    "lat": 45.43255,
+    "lng": 6.55558
+  },
+  {
+    "name": "Les Aix-d'Angillon",
+    "country": "FR",
+    "lat": 47.19652,
+    "lng": 2.56506
+  },
+  {
+    "name": "Les Ageux",
+    "country": "FR",
+    "lat": 49.31667,
+    "lng": 2.6
+  },
+  {
+    "name": "Les Abrets",
+    "country": "FR",
+    "lat": 45.54466,
+    "lng": 5.58021
+  },
+  {
+    "name": "Le Russey",
+    "country": "FR",
+    "lat": 47.16055,
+    "lng": 6.72912
+  },
+  {
+    "name": "Le Rove",
+    "country": "FR",
+    "lat": 43.36987,
+    "lng": 5.25112
+  },
+  {
+    "name": "Le Rouret",
+    "country": "FR",
+    "lat": 43.67873,
+    "lng": 7.01521
+  },
+  {
+    "name": "Le Rheu",
+    "country": "FR",
+    "lat": 48.1019,
+    "lng": -1.79565
+  },
+  {
+    "name": "Le Revest-les-Eaux",
+    "country": "FR",
+    "lat": 43.17612,
+    "lng": 5.92667
+  },
+  {
+    "name": "Le Relecq-Kerhuon",
+    "country": "FR",
+    "lat": 48.40817,
+    "lng": -4.39676
+  },
+  {
+    "name": "Le Redon",
+    "country": "FR",
+    "lat": 43.24604,
+    "lng": 5.42889
+  },
+  {
+    "name": "Le Raincy",
+    "country": "FR",
+    "lat": 48.89916,
+    "lng": 2.52298
+  },
+  {
+    "name": "Le Quesnoy",
+    "country": "FR",
+    "lat": 50.24797,
+    "lng": 3.63656
+  },
+  {
+    "name": "Le Puy-Sainte-Réparade",
+    "country": "FR",
+    "lat": 43.66393,
+    "lng": 5.43493
+  },
+  {
+    "name": "Le Puy-Notre-Dame",
+    "country": "FR",
+    "lat": 47.12512,
+    "lng": -0.23492
+  },
+  {
+    "name": "Le Puy-en-Velay",
+    "country": "FR",
+    "lat": 45.04366,
+    "lng": 3.88523
+  },
+  {
+    "name": "Lepuix",
+    "country": "FR",
+    "lat": 47.7605,
+    "lng": 6.81434
+  },
+  {
+    "name": "Le Pré-Saint-Gervais",
+    "country": "FR",
+    "lat": 48.88549,
+    "lng": 2.40422
+  },
+  {
+    "name": "Le Pradet",
+    "country": "FR",
+    "lat": 43.10545,
+    "lng": 6.0235
+  },
+  {
+    "name": "Le Pouzin",
+    "country": "FR",
+    "lat": 44.75173,
+    "lng": 4.74798
+  },
+  {
+    "name": "Le Pouliguen",
+    "country": "FR",
+    "lat": 47.27187,
+    "lng": -2.43319
+  },
+  {
+    "name": "Le Poujol-sur-Orb",
+    "country": "FR",
+    "lat": 43.57954,
+    "lng": 3.06044
+  },
+  {
+    "name": "Le Pouget",
+    "country": "FR",
+    "lat": 43.59197,
+    "lng": 3.5245
+  },
+  {
+    "name": "Le Port-Marly",
+    "country": "FR",
+    "lat": 48.89016,
+    "lng": 2.11139
+  },
+  {
+    "name": "Le Portel",
+    "country": "FR",
+    "lat": 50.70559,
+    "lng": 1.57574
+  },
+  {
+    "name": "Le Porge",
+    "country": "FR",
+    "lat": 44.87307,
+    "lng": -1.09251
+  },
+  {
+    "name": "Le Pontet",
+    "country": "FR",
+    "lat": 43.96119,
+    "lng": 4.86008
+  },
+  {
+    "name": "Le Pont-de-Claix",
+    "country": "FR",
+    "lat": 45.12321,
+    "lng": 5.69782
+  },
+  {
+    "name": "Le Pont-de-Beauvoisin",
+    "country": "FR",
+    "lat": 45.53694,
+    "lng": 5.67333
+  },
+  {
+    "name": "Le Poiré-sur-Vie",
+    "country": "FR",
+    "lat": 46.76868,
+    "lng": -1.50911
+  },
+  {
+    "name": "Le Poinçonnet",
+    "country": "FR",
+    "lat": 46.7641,
+    "lng": 1.7179
+  },
+  {
+    "name": "Le Plessis-Trévise",
+    "country": "FR",
+    "lat": 48.81074,
+    "lng": 2.57363
+  },
+  {
+    "name": "Le Plessis-Robinson",
+    "country": "FR",
+    "lat": 48.78889,
+    "lng": 2.27078
+  },
+  {
+    "name": "Le Plessis-Pâté",
+    "country": "FR",
+    "lat": 48.61078,
+    "lng": 2.32318
+  },
+  {
+    "name": "Le Plessis-Macé",
+    "country": "FR",
+    "lat": 47.54304,
+    "lng": -0.67436
+  },
+  {
+    "name": "Le Plessis-Grammoire",
+    "country": "FR",
+    "lat": 47.49935,
+    "lng": -0.4302
+  },
+  {
+    "name": "Le Plessis-Brion",
+    "country": "FR",
+    "lat": 49.46419,
+    "lng": 2.89096
+  },
+  {
+    "name": "Le Plessis-Bouchard",
+    "country": "FR",
+    "lat": 49.0,
+    "lng": 2.23333
+  },
+  {
+    "name": "Le Plessis-Belleville",
+    "country": "FR",
+    "lat": 49.09501,
+    "lng": 2.75614
+  },
+  {
+    "name": "Le Pizou",
+    "country": "FR",
+    "lat": 45.02514,
+    "lng": 0.06223
+  },
+  {
+    "name": "Le Pin-en-Mauges",
+    "country": "FR",
+    "lat": 47.25357,
+    "lng": -0.89917
+  },
+  {
+    "name": "Le Pin",
+    "country": "FR",
+    "lat": 48.91523,
+    "lng": 2.62841
+  },
+  {
+    "name": "Le Pin",
+    "country": "FR",
+    "lat": 46.86281,
+    "lng": -0.6551
+  },
+  {
+    "name": "Le Pin",
+    "country": "FR",
+    "lat": 45.45582,
+    "lng": 5.50497
+  },
+  {
+    "name": "Le Pian-Médoc",
+    "country": "FR",
+    "lat": 44.95519,
+    "lng": -0.67017
+  },
+  {
+    "name": "Le Petit-Quevilly",
+    "country": "FR",
+    "lat": 49.41338,
+    "lng": 1.06155
+  },
+  {
+    "name": "Le Pertre",
+    "country": "FR",
+    "lat": 48.03373,
+    "lng": -1.03735
+  },
+  {
+    "name": "Le Perrier",
+    "country": "FR",
+    "lat": 46.82002,
+    "lng": -1.99338
+  },
+  {
+    "name": "Le Perreux-sur-Marne",
+    "country": "FR",
+    "lat": 48.85,
+    "lng": 2.5
+  },
+  {
+    "name": "Le Perréon",
+    "country": "FR",
+    "lat": 46.06316,
+    "lng": 4.60045
+  },
+  {
+    "name": "Le Perray-en-Yvelines",
+    "country": "FR",
+    "lat": 48.69441,
+    "lng": 1.85643
+  },
+  {
+    "name": "Le Pellerin",
+    "country": "FR",
+    "lat": 47.19863,
+    "lng": -1.75466
+  },
+  {
+    "name": "Le Pecq",
+    "country": "FR",
+    "lat": 48.89317,
+    "lng": 2.10371
+  },
+  {
+    "name": "Le Pêchereau",
+    "country": "FR",
+    "lat": 46.57677,
+    "lng": 1.54743
+  },
+  {
+    "name": "Le Péage-de-Roussillon",
+    "country": "FR",
+    "lat": 45.3738,
+    "lng": 4.79727
+  },
+  {
+    "name": "Le Passage",
+    "country": "FR",
+    "lat": 44.2014,
+    "lng": 0.60347
+  },
+  {
+    "name": "Le Pallet",
+    "country": "FR",
+    "lat": 47.13842,
+    "lng": -1.33609
+  },
+  {
+    "name": "Le Palais-sur-Vienne",
+    "country": "FR",
+    "lat": 45.8639,
+    "lng": 1.32313
+  },
+  {
+    "name": "Le Palais",
+    "country": "FR",
+    "lat": 47.3463,
+    "lng": -3.15583
+  },
+  {
+    "name": "Lentilly",
+    "country": "FR",
+    "lat": 45.81873,
+    "lng": 4.66304
+  },
+  {
+    "name": "Lentigny",
+    "country": "FR",
+    "lat": 45.99391,
+    "lng": 3.97918
+  },
+  {
+    "name": "Lent",
+    "country": "FR",
+    "lat": 46.12027,
+    "lng": 5.19352
+  },
+  {
+    "name": "Lens",
+    "country": "FR",
+    "lat": 50.43302,
+    "lng": 2.82791
+  },
+  {
+    "name": "Le Nouvion-en-Thiérache",
+    "country": "FR",
+    "lat": 50.01625,
+    "lng": 3.78509
+  },
+  {
+    "name": "Le Neubourg",
+    "country": "FR",
+    "lat": 49.15048,
+    "lng": 0.9102
+  },
+  {
+    "name": "Lencloître",
+    "country": "FR",
+    "lat": 46.81434,
+    "lng": 0.32796
+  },
+  {
+    "name": "Le Muy",
+    "country": "FR",
+    "lat": 43.4728,
+    "lng": 6.56637
+  },
+  {
+    "name": "Lempdes",
+    "country": "FR",
+    "lat": 45.77097,
+    "lng": 3.19356
+  },
+  {
+    "name": "Lempdes-sur-Allagnon",
+    "country": "FR",
+    "lat": 45.38333,
+    "lng": 3.28333
+  },
+  {
+    "name": "Le Monêtier-les-Bains",
+    "country": "FR",
+    "lat": 44.97604,
+    "lng": 6.50898
+  },
+  {
+    "name": "Le Monastier-sur-Gazeille",
+    "country": "FR",
+    "lat": 44.93333,
+    "lng": 4.0
+  },
+  {
+    "name": "Le Monastère",
+    "country": "FR",
+    "lat": 44.34165,
+    "lng": 2.57956
+  },
+  {
+    "name": "Le Molay-Littry",
+    "country": "FR",
+    "lat": 49.24265,
+    "lng": -0.87238
+  },
+  {
+    "name": "Le Minihic-sur-Rance",
+    "country": "FR",
+    "lat": 48.57659,
+    "lng": -2.01221
+  },
+  {
+    "name": "Le Meux",
+    "country": "FR",
+    "lat": 49.36718,
+    "lng": 2.74374
+  },
+  {
+    "name": "Le Mesnil-sur-Oger",
+    "country": "FR",
+    "lat": 48.94708,
+    "lng": 4.02263
+  },
+  {
+    "name": "Le Mesnil-Saint-Denis",
+    "country": "FR",
+    "lat": 48.74485,
+    "lng": 1.95594
+  },
+  {
+    "name": "Le Mesnil-le-Roi",
+    "country": "FR",
+    "lat": 48.93825,
+    "lng": 2.12554
+  },
+  {
+    "name": "Le Mesnil-Esnard",
+    "country": "FR",
+    "lat": 49.41319,
+    "lng": 1.14521
+  },
+  {
+    "name": "Le Mesnil-en-Vallée",
+    "country": "FR",
+    "lat": 47.36551,
+    "lng": -0.93485
+  },
+  {
+    "name": "Le Mesnil-en-Thelle",
+    "country": "FR",
+    "lat": 49.1783,
+    "lng": 2.28573
+  },
+  {
+    "name": "Le Merlan",
+    "country": "FR",
+    "lat": 43.33875,
+    "lng": 5.40773
+  },
+  {
+    "name": "Le Ménil",
+    "country": "FR",
+    "lat": 47.90477,
+    "lng": 6.78209
+  },
+  {
+    "name": "Le Mée-sur-Seine",
+    "country": "FR",
+    "lat": 48.53157,
+    "lng": 2.62829
+  },
+  {
+    "name": "Lembras",
+    "country": "FR",
+    "lat": 44.88468,
+    "lng": 0.52363
+  },
+  {
+    "name": "Lemberg",
+    "country": "FR",
+    "lat": 49.00199,
+    "lng": 7.37889
+  },
+  {
+    "name": "Lembach",
+    "country": "FR",
+    "lat": 49.00362,
+    "lng": 7.78986
+  },
+  {
+    "name": "Le May-sur-Èvre",
+    "country": "FR",
+    "lat": 47.13653,
+    "lng": -0.89273
+  },
+  {
+    "name": "Le Mayet-de-Montagne",
+    "country": "FR",
+    "lat": 46.07091,
+    "lng": 3.66665
+  },
+  {
+    "name": "Le Mas-d'Agenais",
+    "country": "FR",
+    "lat": 44.41108,
+    "lng": 0.21739
+  },
+  {
+    "name": "Le Mans",
+    "country": "FR",
+    "lat": 48.0021,
+    "lng": 0.20251
+  },
+  {
+    "name": "Le Manoir",
+    "country": "FR",
+    "lat": 49.31355,
+    "lng": 1.20455
+  },
+  {
+    "name": "Le Malzieu-Ville",
+    "country": "FR",
+    "lat": 44.8556,
+    "lng": 3.33013
+  },
+  {
+    "name": "Le Lude",
+    "country": "FR",
+    "lat": 47.64648,
+    "lng": 0.15664
+  },
+  {
+    "name": "Le Luc",
+    "country": "FR",
+    "lat": 43.39453,
+    "lng": 6.31253
+  },
+  {
+    "name": "Le Luart",
+    "country": "FR",
+    "lat": 48.06969,
+    "lng": 0.58661
+  },
+  {
+    "name": "Le Louroux Béconnais",
+    "country": "FR",
+    "lat": 47.52148,
+    "lng": -0.88559
+  },
+  {
+    "name": "Le Loroux-Bottereau",
+    "country": "FR",
+    "lat": 47.23797,
+    "lng": -1.34963
+  },
+  {
+    "name": "Le Longeron",
+    "country": "FR",
+    "lat": 47.01845,
+    "lng": -1.05763
+  },
+  {
+    "name": "Le Lavandou",
+    "country": "FR",
+    "lat": 43.137,
+    "lng": 6.366
+  },
+  {
+    "name": "Le Lardin-Saint-Lazare",
+    "country": "FR",
+    "lat": 45.13333,
+    "lng": 1.21667
+  },
+  {
+    "name": "Le Langon",
+    "country": "FR",
+    "lat": 46.43792,
+    "lng": -0.95005
+  },
+  {
+    "name": "Le Landreau",
+    "country": "FR",
+    "lat": 47.20443,
+    "lng": -1.30546
+  },
+  {
+    "name": "Le Kremlin-Bicêtre",
+    "country": "FR",
+    "lat": 48.81471,
+    "lng": 2.36073
+  },
+  {
+    "name": "Le Houlme",
+    "country": "FR",
+    "lat": 49.50972,
+    "lng": 1.03537
+  },
+  {
+    "name": "Le Houga",
+    "country": "FR",
+    "lat": 43.77487,
+    "lng": -0.18061
+  },
+  {
+    "name": "Le Havre",
+    "country": "FR",
+    "lat": 49.49346,
+    "lng": 0.10785
+  },
+  {
+    "name": "Le Haillan",
+    "country": "FR",
+    "lat": 44.87161,
+    "lng": -0.67691
+  },
+  {
+    "name": "Le Gua",
+    "country": "FR",
+    "lat": 45.72628,
+    "lng": -0.944
+  },
+  {
+    "name": "Le Gua",
+    "country": "FR",
+    "lat": 45.01667,
+    "lng": 5.61667
+  },
+  {
+    "name": "Le Grau-du-Roi",
+    "country": "FR",
+    "lat": 43.53881,
+    "lng": 4.13559
+  },
+  {
+    "name": "Le Grand-Quevilly",
+    "country": "FR",
+    "lat": 49.40076,
+    "lng": 1.04582
+  },
+  {
+    "name": "Le Grand-Pressigny",
+    "country": "FR",
+    "lat": 46.92017,
+    "lng": 0.8038
+  },
+  {
+    "name": "Le Grand-Lucé",
+    "country": "FR",
+    "lat": 47.86523,
+    "lng": 0.4688
+  },
+  {
+    "name": "Le Grand-Lemps",
+    "country": "FR",
+    "lat": 45.39646,
+    "lng": 5.4201
+  },
+  {
+    "name": "Le Grand-Bourg",
+    "country": "FR",
+    "lat": 46.16021,
+    "lng": 1.64493
+  },
+  {
+    "name": "Le Grand-Bornand",
+    "country": "FR",
+    "lat": 45.94211,
+    "lng": 6.43077
+  },
+  {
+    "name": "Legé",
+    "country": "FR",
+    "lat": 46.88523,
+    "lng": -1.59876
+  },
+  {
+    "name": "Le Gâvre",
+    "country": "FR",
+    "lat": 47.52061,
+    "lng": -1.74815
+  },
+  {
+    "name": "Le Garric",
+    "country": "FR",
+    "lat": 44.0097,
+    "lng": 2.16243
+  },
+  {
+    "name": "Le Fuilet",
+    "country": "FR",
+    "lat": 47.28345,
+    "lng": -1.1131
+  },
+  {
+    "name": "Le Fousseret",
+    "country": "FR",
+    "lat": 43.2818,
+    "lng": 1.06585
+  },
+  {
+    "name": "Leforest",
+    "country": "FR",
+    "lat": 50.43866,
+    "lng": 3.0648
+  },
+  {
+    "name": "Le Folgoët",
+    "country": "FR",
+    "lat": 48.56381,
+    "lng": -4.33829
+  },
+  {
+    "name": "Le Fœil",
+    "country": "FR",
+    "lat": 48.42825,
+    "lng": -2.91506
+  },
+  {
+    "name": "Le Fleix",
+    "country": "FR",
+    "lat": 44.87499,
+    "lng": 0.25122
+  },
+  {
+    "name": "Le Fief-Sauvin",
+    "country": "FR",
+    "lat": 47.22143,
+    "lng": -1.04214
+  },
+  {
+    "name": "Leffrinckoucke",
+    "country": "FR",
+    "lat": 51.03457,
+    "lng": 2.46452
+  },
+  {
+    "name": "Le Fenouiller",
+    "country": "FR",
+    "lat": 46.71949,
+    "lng": -1.90037
+  },
+  {
+    "name": "Le Fauga",
+    "country": "FR",
+    "lat": 43.39666,
+    "lng": 1.29413
+  },
+  {
+    "name": "Le Faouët",
+    "country": "FR",
+    "lat": 48.03299,
+    "lng": -3.49048
+  },
+  {
+    "name": "Le Faou",
+    "country": "FR",
+    "lat": 48.29456,
+    "lng": -4.17927
+  },
+  {
+    "name": "Leers",
+    "country": "FR",
+    "lat": 50.68217,
+    "lng": 3.24429
+  },
+  {
+    "name": "Le Drennec",
+    "country": "FR",
+    "lat": 48.5344,
+    "lng": -4.37243
+  },
+  {
+    "name": "Le Doulieu",
+    "country": "FR",
+    "lat": 50.68194,
+    "lng": 2.71741
+  },
+  {
+    "name": "Le Dorat",
+    "country": "FR",
+    "lat": 46.21451,
+    "lng": 1.0816
+  },
+  {
+    "name": "Le Donjon",
+    "country": "FR",
+    "lat": 46.35058,
+    "lng": 3.79269
+  },
+  {
+    "name": "Ledeuix",
+    "country": "FR",
+    "lat": 43.21653,
+    "lng": -0.62048
+  },
+  {
+    "name": "Lectoure",
+    "country": "FR",
+    "lat": 43.93431,
+    "lng": 0.62116
+  },
+  {
+    "name": "Le Crotoy",
+    "country": "FR",
+    "lat": 50.216,
+    "lng": 1.625
+  },
+  {
+    "name": "Le Croisic",
+    "country": "FR",
+    "lat": 47.29276,
+    "lng": -2.51797
+  },
+  {
+    "name": "Le Creusot",
+    "country": "FR",
+    "lat": 46.80714,
+    "lng": 4.41632
+  },
+  {
+    "name": "Le Crest",
+    "country": "FR",
+    "lat": 45.68666,
+    "lng": 3.12735
+  },
+  {
+    "name": "Le Crès",
+    "country": "FR",
+    "lat": 43.64763,
+    "lng": 3.9388
+  },
+  {
+    "name": "Le Coudray-Montceaux",
+    "country": "FR",
+    "lat": 48.56376,
+    "lng": 2.50013
+  },
+  {
+    "name": "Le Coudray",
+    "country": "FR",
+    "lat": 48.42115,
+    "lng": 1.50057
+  },
+  {
+    "name": "Le Coteau",
+    "country": "FR",
+    "lat": 46.01919,
+    "lng": 4.0923
+  },
+  {
+    "name": "Le Conquet",
+    "country": "FR",
+    "lat": 48.36053,
+    "lng": -4.77086
+  },
+  {
+    "name": "Le Cheylas",
+    "country": "FR",
+    "lat": 45.37064,
+    "lng": 5.99277
+  },
+  {
+    "name": "Le Cheylard",
+    "country": "FR",
+    "lat": 44.90623,
+    "lng": 4.42406
+  },
+  {
+    "name": "Le Chesnay",
+    "country": "FR",
+    "lat": 48.8222,
+    "lng": 2.12213
+  },
+  {
+    "name": "Le Châtelet-en-Brie",
+    "country": "FR",
+    "lat": 48.50695,
+    "lng": 2.79163
+  },
+  {
+    "name": "Le Châtelet",
+    "country": "FR",
+    "lat": 46.64247,
+    "lng": 2.28229
+  },
+  {
+    "name": "Le Champ-Saint-Père",
+    "country": "FR",
+    "lat": 46.50835,
+    "lng": -1.34633
+  },
+  {
+    "name": "Le Champ-près-Froges",
+    "country": "FR",
+    "lat": 45.28045,
+    "lng": 5.93977
+  },
+  {
+    "name": "Le Chambon-sur-Lignon",
+    "country": "FR",
+    "lat": 45.06097,
+    "lng": 4.30241
+  },
+  {
+    "name": "Le Chambon-Feugerolles",
+    "country": "FR",
+    "lat": 45.39145,
+    "lng": 4.32149
+  },
+  {
+    "name": "Le Cendre",
+    "country": "FR",
+    "lat": 45.7224,
+    "lng": 3.18711
+  },
+  {
+    "name": "Le Cellier",
+    "country": "FR",
+    "lat": 47.31964,
+    "lng": -1.34716
+  },
+  {
+    "name": "Lecelles",
+    "country": "FR",
+    "lat": 50.46779,
+    "lng": 3.40096
+  },
+  {
+    "name": "Le Castellet",
+    "country": "FR",
+    "lat": 43.20291,
+    "lng": 5.77657
+  },
+  {
+    "name": "Le Cap d'Agde",
+    "country": "FR",
+    "lat": 43.27796,
+    "lng": 3.51357
+  },
+  {
+    "name": "Le Cannet-des-Maures",
+    "country": "FR",
+    "lat": 43.39236,
+    "lng": 6.33966
+  },
+  {
+    "name": "Le Cannet",
+    "country": "FR",
+    "lat": 43.57662,
+    "lng": 7.01912
+  },
+  {
+    "name": "Le Canet",
+    "country": "FR",
+    "lat": 43.32611,
+    "lng": 5.3723
+  },
+  {
+    "name": "Le Cailar",
+    "country": "FR",
+    "lat": 43.6759,
+    "lng": 4.23616
+  },
+  {
+    "name": "Le Buisson-de-Cadouin",
+    "country": "FR",
+    "lat": 44.85,
+    "lng": 0.91667
+  },
+  {
+    "name": "Le Bugue",
+    "country": "FR",
+    "lat": 44.91847,
+    "lng": 0.92714
+  },
+  {
+    "name": "Le Brusquet",
+    "country": "FR",
+    "lat": 44.16126,
+    "lng": 6.30925
+  },
+  {
+    "name": "Le Broc",
+    "country": "FR",
+    "lat": 43.80878,
+    "lng": 7.16882
+  },
+  {
+    "name": "Le Breuil-sur-Couze",
+    "country": "FR",
+    "lat": 45.4686,
+    "lng": 3.2631
+  },
+  {
+    "name": "Le Breuil",
+    "country": "FR",
+    "lat": 46.80654,
+    "lng": 4.46953
+  },
+  {
+    "name": "Le Breil-sur-Mérize",
+    "country": "FR",
+    "lat": 48.00778,
+    "lng": 0.47669
+  },
+  {
+    "name": "Le Bousquet-d'Orb",
+    "country": "FR",
+    "lat": 43.6925,
+    "lng": 3.16595
+  },
+  {
+    "name": "Le Bouscat",
+    "country": "FR",
+    "lat": 44.86488,
+    "lng": -0.59864
+  },
+  {
+    "name": "Le Bourgneuf-la-Forêt",
+    "country": "FR",
+    "lat": 48.16418,
+    "lng": -0.97064
+  },
+  {
+    "name": "Le Bourget-du-Lac",
+    "country": "FR",
+    "lat": 45.65362,
+    "lng": 5.8549
+  },
+  {
+    "name": "Le Bourget",
+    "country": "FR",
+    "lat": 48.93405,
+    "lng": 2.43584
+  },
+  {
+    "name": "Le Bourg-d'Oisans",
+    "country": "FR",
+    "lat": 45.05483,
+    "lng": 6.03366
+  },
+  {
+    "name": "Le Boupère",
+    "country": "FR",
+    "lat": 46.7957,
+    "lng": -0.92641
+  },
+  {
+    "name": "Le Boulou",
+    "country": "FR",
+    "lat": 42.52424,
+    "lng": 2.83336
+  },
+  {
+    "name": "Le Bosc-Roger-en-Roumois",
+    "country": "FR",
+    "lat": 49.28333,
+    "lng": 0.93333
+  },
+  {
+    "name": "Le Bois-Plage-en-Ré",
+    "country": "FR",
+    "lat": 46.18622,
+    "lng": -1.39238
+  },
+  {
+    "name": "Le Blanc-Mesnil",
+    "country": "FR",
+    "lat": 48.93872,
+    "lng": 2.46138
+  },
+  {
+    "name": "Le Blanc",
+    "country": "FR",
+    "lat": 46.63371,
+    "lng": 1.06272
+  },
+  {
+    "name": "Le Bignon",
+    "country": "FR",
+    "lat": 47.09854,
+    "lng": -1.49103
+  },
+  {
+    "name": "Le Beausset",
+    "country": "FR",
+    "lat": 43.19822,
+    "lng": 5.80267
+  },
+  {
+    "name": "Le Bar-sur-Loup",
+    "country": "FR",
+    "lat": 43.7,
+    "lng": 6.98333
+  },
+  {
+    "name": "Le Barp",
+    "country": "FR",
+    "lat": 44.60784,
+    "lng": -0.77318
+  },
+  {
+    "name": "Le Barcarès",
+    "country": "FR",
+    "lat": 42.78773,
+    "lng": 3.03656
+  },
+  {
+    "name": "Les Deux Alpes",
+    "country": "FR",
+    "lat": 45.0116,
+    "lng": 6.12548
+  },
+  {
+    "name": "Le Ban Saint-Martin",
+    "country": "FR",
+    "lat": 49.1225,
+    "lng": 6.15111
+  },
+  {
+    "name": "Le Sequestre",
+    "country": "FR",
+    "lat": 43.91076,
+    "lng": 2.11804
+  },
+  {
+    "name": "Les Ulis",
+    "country": "FR",
+    "lat": 48.68167,
+    "lng": 2.16944
+  },
+  {
+    "name": "Le Bois-d'Oingt",
+    "country": "FR",
+    "lat": 45.91718,
+    "lng": 4.58259
+  },
+  {
+    "name": "Les Côtes-d'Arey",
+    "country": "FR",
+    "lat": 45.4564,
+    "lng": 4.8666
+  },
+  {
+    "name": "Le Chapitre",
+    "country": "FR",
+    "lat": 43.30053,
+    "lng": 5.38433
+  },
+  {
+    "name": "Les Grands Carmes",
+    "country": "FR",
+    "lat": 43.30038,
+    "lng": 5.37275
+  },
+  {
+    "name": "Les Chartreux",
+    "country": "FR",
+    "lat": 43.31112,
+    "lng": 5.4048
+  },
+  {
+    "name": "Le Camas",
+    "country": "FR",
+    "lat": 43.29469,
+    "lng": 5.39415
+  },
+  {
+    "name": "Le Pharo",
+    "country": "FR",
+    "lat": 43.2914,
+    "lng": 5.35829
+  },
+  {
+    "name": "Le Cabot",
+    "country": "FR",
+    "lat": 43.25884,
+    "lng": 5.41729
+  },
+  {
+    "name": "Les Accates",
+    "country": "FR",
+    "lat": 43.29989,
+    "lng": 5.49726
+  },
+  {
+    "name": "Les Caillols",
+    "country": "FR",
+    "lat": 43.30221,
+    "lng": 5.44811
+  },
+  {
+    "name": "Les Trois-Lucs",
+    "country": "FR",
+    "lat": 43.31371,
+    "lng": 5.46248
+  },
+  {
+    "name": "Les Médecins",
+    "country": "FR",
+    "lat": 43.35417,
+    "lng": 5.45483
+  },
+  {
+    "name": "Les Arnavaux",
+    "country": "FR",
+    "lat": 43.33506,
+    "lng": 5.37969
+  },
+  {
+    "name": "Les Crottes",
+    "country": "FR",
+    "lat": 43.32302,
+    "lng": 5.36809
+  },
+  {
+    "name": "Leyton",
+    "country": "GB",
+    "lat": 51.55956,
+    "lng": -0.00777
+  },
+  {
+    "name": "Leysdown-on-Sea",
+    "country": "GB",
+    "lat": 51.3973,
+    "lng": 0.92156
+  },
+  {
+    "name": "Leyland",
+    "country": "GB",
+    "lat": 53.69786,
+    "lng": -2.68758
+  },
+  {
+    "name": "Leyburn",
+    "country": "GB",
+    "lat": 54.31004,
+    "lng": -1.83041
+  },
+  {
+    "name": "Lewes",
+    "country": "GB",
+    "lat": 50.87398,
+    "lng": 0.0088
+  },
+  {
+    "name": "Leverstock Green",
+    "country": "GB",
+    "lat": 51.74818,
+    "lng": -0.43263
+  },
+  {
+    "name": "Leven",
+    "country": "GB",
+    "lat": 56.2,
+    "lng": -3.0
+  },
+  {
+    "name": "Leven",
+    "country": "GB",
+    "lat": 53.89028,
+    "lng": -0.31783
+  },
+  {
+    "name": "Leuchars",
+    "country": "GB",
+    "lat": 56.38174,
+    "lng": -2.88253
+  },
+  {
+    "name": "Letterston",
+    "country": "GB",
+    "lat": 51.92757,
+    "lng": -4.99141
+  },
+  {
+    "name": "Letham",
+    "country": "GB",
+    "lat": 56.62683,
+    "lng": -2.7706
+  },
+  {
+    "name": "Lesmahagow",
+    "country": "GB",
+    "lat": 55.63668,
+    "lng": -3.88736
+  },
+  {
+    "name": "Leslie",
+    "country": "GB",
+    "lat": 56.2,
+    "lng": -3.21667
+  },
+  {
+    "name": "Lesbury",
+    "country": "GB",
+    "lat": 55.39832,
+    "lng": -1.6283
+  },
+  {
+    "name": "Lerwick",
+    "country": "GB",
+    "lat": 60.15339,
+    "lng": -1.14427
+  },
+  {
+    "name": "Leominster",
+    "country": "GB",
+    "lat": 52.22583,
+    "lng": -2.74491
+  },
+  {
+    "name": "Lennoxtown",
+    "country": "GB",
+    "lat": 55.97263,
+    "lng": -4.20001
+  },
+  {
+    "name": "Lenham",
+    "country": "GB",
+    "lat": 51.23705,
+    "lng": 0.71892
+  },
+  {
+    "name": "Leiston",
+    "country": "GB",
+    "lat": 52.20611,
+    "lng": 1.57757
+  },
+  {
+    "name": "Leighton Buzzard",
+    "country": "GB",
+    "lat": 51.91722,
+    "lng": -0.65802
+  },
+  {
+    "name": "Leigh-on-Sea",
+    "country": "GB",
+    "lat": 51.54297,
+    "lng": 0.64905
+  },
+  {
+    "name": "Leigh",
+    "country": "GB",
+    "lat": 53.49642,
+    "lng": -2.51973
+  },
+  {
+    "name": "Leigh",
+    "country": "GB",
+    "lat": 51.61667,
+    "lng": -1.9
+  },
+  {
+    "name": "Leicester",
+    "country": "GB",
+    "lat": 52.6386,
+    "lng": -1.13169
+  },
+  {
+    "name": "Leeswood",
+    "country": "GB",
+    "lat": 53.13347,
+    "lng": -3.09466
+  },
+  {
+    "name": "Lees",
+    "country": "GB",
+    "lat": 53.53794,
+    "lng": -2.07302
+  },
+  {
+    "name": "Lee-on-the-Solent",
+    "country": "GB",
+    "lat": 50.80169,
+    "lng": -1.20174
+  },
+  {
+    "name": "Leek Wootton",
+    "country": "GB",
+    "lat": 52.31782,
+    "lng": -1.57933
+  },
+  {
+    "name": "Leek",
+    "country": "GB",
+    "lat": 53.10434,
+    "lng": -2.02207
+  },
+  {
+    "name": "Leeds",
+    "country": "GB",
+    "lat": 53.79648,
+    "lng": -1.54785
+  },
+  {
+    "name": "Ledston",
+    "country": "GB",
+    "lat": 53.75254,
+    "lng": -1.34355
+  },
+  {
+    "name": "Ledsham",
+    "country": "GB",
+    "lat": 53.76322,
+    "lng": -1.30857
+  },
+  {
+    "name": "Ledsham",
+    "country": "GB",
+    "lat": 53.26667,
+    "lng": -2.96667
+  },
+  {
+    "name": "Ledbury",
+    "country": "GB",
+    "lat": 52.03639,
+    "lng": -2.42635
+  },
+  {
+    "name": "Leconfield",
+    "country": "GB",
+    "lat": 53.8773,
+    "lng": -0.45729
+  },
+  {
+    "name": "Lechlade",
+    "country": "GB",
+    "lat": 51.69403,
+    "lng": -1.69128
+  },
+  {
+    "name": "Leavesden Green",
+    "country": "GB",
+    "lat": 51.69482,
+    "lng": -0.40718
+  },
+  {
+    "name": "Leatherhead",
+    "country": "GB",
+    "lat": 51.29652,
+    "lng": -0.3338
+  },
+  {
+    "name": "Leasingham",
+    "country": "GB",
+    "lat": 53.02573,
+    "lng": -0.42606
+  },
+  {
+    "name": "Lea",
+    "country": "GB",
+    "lat": 51.9,
+    "lng": -2.5
+  },
+  {
+    "name": "Leytonstone",
+    "country": "GB",
+    "lat": 51.56856,
+    "lng": 0.00768
+  },
+  {
+    "name": "Letchworth Garden City",
+    "country": "GB",
+    "lat": 51.97938,
+    "lng": -0.22664
+  },
+  {
+    "name": "Lee",
+    "country": "GB",
+    "lat": 51.45556,
+    "lng": 0.00515
+  },
+  {
+    "name": "Lenzie",
+    "country": "GB",
+    "lat": 55.92762,
+    "lng": -4.15399
+  },
+  {
+    "name": "Leicester Forest East",
+    "country": "GB",
+    "lat": 52.62497,
+    "lng": -1.21827
+  },
+  {
+    "name": "Lentekhi",
+    "country": "GE",
+    "lat": 42.78888,
+    "lng": 42.72228
+  },
+  {
+    "name": "Les Abymes",
+    "country": "GP",
+    "lat": 16.273,
+    "lng": -61.50507
+  },
+  {
+    "name": "Le Moule",
+    "country": "GP",
+    "lat": 16.33164,
+    "lng": -61.34656
+  },
+  {
+    "name": "Le Gosier",
+    "country": "GP",
+    "lat": 16.20618,
+    "lng": -61.49306
+  },
+  {
+    "name": "Leipsoí",
+    "country": "GR",
+    "lat": 37.28333,
+    "lng": 26.76667
+  },
+  {
+    "name": "Lefkímmi",
+    "country": "GR",
+    "lat": 39.42336,
+    "lng": 20.07094
+  },
+  {
+    "name": "Lefkáda",
+    "country": "GR",
+    "lat": 38.83036,
+    "lng": 20.70442
+  },
+  {
+    "name": "Levídion",
+    "country": "GR",
+    "lat": 37.68269,
+    "lng": 22.29586
+  },
+  {
+    "name": "Lepenoú",
+    "country": "GR",
+    "lat": 38.70839,
+    "lng": 21.2897
+  },
+  {
+    "name": "Leonídio",
+    "country": "GR",
+    "lat": 37.16679,
+    "lng": 22.85773
+  },
+  {
+    "name": "Leondárion",
+    "country": "GR",
+    "lat": 37.987,
+    "lng": 23.85518
+  },
+  {
+    "name": "Lechainá",
+    "country": "GR",
+    "lat": 37.93333,
+    "lng": 21.26667
+  },
+  {
+    "name": "Leptokaryá",
+    "country": "GR",
+    "lat": 40.06032,
+    "lng": 22.5612
+  },
+  {
+    "name": "Lefkónas",
+    "country": "GR",
+    "lat": 41.10029,
+    "lng": 23.49658
+  },
+  {
+    "name": "Lethem",
+    "country": "GY",
+    "lat": 3.3726,
+    "lng": -59.79967
+  },
+  {
+    "name": "Leighton Hill",
+    "country": "HK",
+    "lat": 22.2761,
+    "lng": 114.18398
+  },
+  {
+    "name": "Lei Tung",
+    "country": "HK",
+    "lat": 22.24052,
+    "lng": 114.15757
+  },
+  {
+    "name": "Lee On",
+    "country": "HK",
+    "lat": 22.42635,
+    "lng": 114.24133
+  },
+  {
+    "name": "Lei Cheng Uk Estate",
+    "country": "HK",
+    "lat": 22.33937,
+    "lng": 114.15921
+  },
+  {
+    "name": "Lei King Wan",
+    "country": "HK",
+    "lat": 22.28389,
+    "lng": 114.22328
+  },
+  {
+    "name": "Lei Tung Estate",
+    "country": "HK",
+    "lat": 22.24115,
+    "lng": 114.15523
+  },
+  {
+    "name": "Lepaterique",
+    "country": "HN",
+    "lat": 14.06667,
+    "lng": -87.46667
+  },
+  {
+    "name": "Lepaera",
+    "country": "HN",
+    "lat": 14.77876,
+    "lng": -88.5902
+  },
+  {
+    "name": "Lejamaní",
+    "country": "HN",
+    "lat": 14.36681,
+    "lng": -87.7072
+  },
+  {
+    "name": "Levanjska Varoš",
+    "country": "HR",
+    "lat": 45.31556,
+    "lng": 18.18361
+  },
+  {
+    "name": "Lepoglava",
+    "country": "HR",
+    "lat": 46.21056,
+    "lng": 16.03556
+  },
+  {
+    "name": "Lekenik",
+    "country": "HR",
+    "lat": 45.58556,
+    "lng": 16.21139
+  },
+  {
+    "name": "Legrad",
+    "country": "HR",
+    "lat": 46.2975,
+    "lng": 16.85667
+  },
+  {
+    "name": "Lećevica",
+    "country": "HR",
+    "lat": 43.64191,
+    "lng": 16.34954
+  },
+  {
+    "name": "Lenbe",
+    "country": "HT",
+    "lat": 19.70603,
+    "lng": -72.40336
+  },
+  {
+    "name": "Les Irois",
+    "country": "HT",
+    "lat": 18.4049,
+    "lng": -74.4528
+  },
+  {
+    "name": "Les Anglais",
+    "country": "HT",
+    "lat": 18.3054,
+    "lng": -74.21968
+  },
+  {
+    "name": "Les Cayes",
+    "country": "HT",
+    "lat": 18.19199,
+    "lng": -73.74948
+  },
+  {
+    "name": "Les Abricots",
+    "country": "HT",
+    "lat": 18.64901,
+    "lng": -74.30786
+  },
+  {
+    "name": "Levelek",
+    "country": "HU",
+    "lat": 47.96282,
+    "lng": 21.98537
+  },
+  {
+    "name": "Levél",
+    "country": "HU",
+    "lat": 47.8944,
+    "lng": 17.2039
+  },
+  {
+    "name": "Letenye",
+    "country": "HU",
+    "lat": 46.43301,
+    "lng": 16.72583
+  },
+  {
+    "name": "Lepsény",
+    "country": "HU",
+    "lat": 46.99036,
+    "lng": 18.24357
+  },
+  {
+    "name": "Lenti",
+    "country": "HU",
+    "lat": 46.62403,
+    "lng": 16.53863
+  },
+  {
+    "name": "Lengyeltóti",
+    "country": "HU",
+    "lat": 46.67013,
+    "lng": 17.64398
+  },
+  {
+    "name": "Leányfalu",
+    "country": "HU",
+    "lat": 47.71778,
+    "lng": 19.08585
+  },
+  {
+    "name": "Lewoleba",
+    "country": "ID",
+    "lat": -8.3723,
+    "lng": 123.418
+  },
+  {
+    "name": "Lewolaga",
+    "country": "ID",
+    "lat": -8.4196,
+    "lng": 122.8094
+  },
+  {
+    "name": "Leuwidamar",
+    "country": "ID",
+    "lat": -6.5125,
+    "lng": 106.1934
+  },
+  {
+    "name": "Letung",
+    "country": "ID",
+    "lat": 2.98861,
+    "lng": 105.70694
+  },
+  {
+    "name": "Lenteng",
+    "country": "ID",
+    "lat": -7.02804,
+    "lng": 113.78428
+  },
+  {
+    "name": "Lengkong",
+    "country": "ID",
+    "lat": -7.1315,
+    "lng": 106.6926
+  },
+  {
+    "name": "Lenangguar",
+    "country": "ID",
+    "lat": -8.7356,
+    "lng": 117.3653
+  },
+  {
+    "name": "Lemito",
+    "country": "ID",
+    "lat": 0.5424,
+    "lng": 121.5713
+  },
+  {
+    "name": "Lembar",
+    "country": "ID",
+    "lat": -8.7264,
+    "lng": 116.0744
+  },
+  {
+    "name": "Lembang",
+    "country": "ID",
+    "lat": -6.81167,
+    "lng": 107.6175
+  },
+  {
+    "name": "Lemahputih",
+    "country": "ID",
+    "lat": -7.0099,
+    "lng": 108.1698
+  },
+  {
+    "name": "Lelogama",
+    "country": "ID",
+    "lat": -9.7114,
+    "lng": 123.954
+  },
+  {
+    "name": "Leles",
+    "country": "ID",
+    "lat": -7.1099,
+    "lng": 107.8986
+  },
+  {
+    "name": "Lela",
+    "country": "ID",
+    "lat": -8.7289,
+    "lng": 122.1726
+  },
+  {
+    "name": "Leksula",
+    "country": "ID",
+    "lat": -3.7731,
+    "lng": 126.538
+  },
+  {
+    "name": "Lekebai",
+    "country": "ID",
+    "lat": -8.712,
+    "lng": 122.0762
+  },
+  {
+    "name": "Ledokombo",
+    "country": "ID",
+    "lat": -8.1346,
+    "lng": 113.8752
+  },
+  {
+    "name": "Lebakwangi",
+    "country": "ID",
+    "lat": -7.0173,
+    "lng": 108.6016
+  },
+  {
+    "name": "Lebaksiu",
+    "country": "ID",
+    "lat": -7.0496,
+    "lng": 109.1441
+  },
+  {
+    "name": "Lempokasi",
+    "country": "ID",
+    "lat": -3.4557,
+    "lng": 120.3661
+  },
+  {
+    "name": "Legian",
+    "country": "ID",
+    "lat": -8.70415,
+    "lng": 115.17028
+  },
+  {
+    "name": "Ledeunu",
+    "country": "ID",
+    "lat": -10.6058,
+    "lng": 121.6106
+  },
+  {
+    "name": "Leifear",
+    "country": "IE",
+    "lat": 54.83194,
+    "lng": -7.48361
+  },
+  {
+    "name": "Letterkenny",
+    "country": "IE",
+    "lat": 54.95,
+    "lng": -7.73333
+  },
+  {
+    "name": "Leixlip",
+    "country": "IE",
+    "lat": 53.36583,
+    "lng": -6.49556
+  },
+  {
+    "name": "Lehavim",
+    "country": "IL",
+    "lat": 31.37284,
+    "lng": 34.81619
+  },
+  {
+    "name": "Lezayre",
+    "country": "IM",
+    "lat": 54.31667,
+    "lng": -4.41667
+  },
+  {
+    "name": "Leteri",
+    "country": "IN",
+    "lat": 24.05979,
+    "lng": 77.40858
+  },
+  {
+    "name": "Lelanga",
+    "country": "IN",
+    "lat": 22.39197,
+    "lng": 83.58078
+  },
+  {
+    "name": "Leh",
+    "country": "IN",
+    "lat": 34.16504,
+    "lng": 77.58402
+  },
+  {
+    "name": "Lengpui",
+    "country": "IN",
+    "lat": 23.83179,
+    "lng": 92.6262
+  },
+  {
+    "name": "Lemmi",
+    "country": "IN",
+    "lat": 27.14665,
+    "lng": 93.24643
+  },
+  {
+    "name": "Lehragaga",
+    "country": "IN",
+    "lat": 29.94265,
+    "lng": 75.80144
+  },
+  {
+    "name": "Lebachhara",
+    "country": "IN",
+    "lat": 23.39568,
+    "lng": 91.73381
+  },
+  {
+    "name": "Leuca",
+    "country": "IT",
+    "lat": 39.79949,
+    "lng": 18.35815
+  },
+  {
+    "name": "Letojanni",
+    "country": "IT",
+    "lat": 37.8805,
+    "lng": 15.30735
+  },
+  {
+    "name": "Lercara Friddi",
+    "country": "IT",
+    "lat": 37.74657,
+    "lng": 13.60391
+  },
+  {
+    "name": "Leonforte",
+    "country": "IT",
+    "lat": 37.64197,
+    "lng": 14.39766
+  },
+  {
+    "name": "Lentini",
+    "country": "IT",
+    "lat": 37.28556,
+    "lng": 14.99737
+  },
+  {
+    "name": "Leni",
+    "country": "IT",
+    "lat": 38.55534,
+    "lng": 14.82497
+  },
+  {
+    "name": "Le Castella",
+    "country": "IT",
+    "lat": 38.9101,
+    "lng": 17.02216
+  },
+  {
+    "name": "Le Casine-Perignano-Spinelli",
+    "country": "IT",
+    "lat": 43.6,
+    "lng": 10.58333
+  },
+  {
+    "name": "Lezzeno",
+    "country": "IT",
+    "lat": 45.94411,
+    "lng": 9.18488
+  },
+  {
+    "name": "Levico Terme",
+    "country": "IT",
+    "lat": 46.01217,
+    "lng": 11.30427
+  },
+  {
+    "name": "Levice",
+    "country": "IT",
+    "lat": 44.53824,
+    "lng": 8.15504
+  },
+  {
+    "name": "Leverano",
+    "country": "IT",
+    "lat": 40.28852,
+    "lng": 17.9965
+  },
+  {
+    "name": "Levanto",
+    "country": "IT",
+    "lat": 44.17424,
+    "lng": 9.6167
+  },
+  {
+    "name": "Levada",
+    "country": "IT",
+    "lat": 45.73442,
+    "lng": 12.47128
+  },
+  {
+    "name": "Lettopalena",
+    "country": "IT",
+    "lat": 42.00251,
+    "lng": 14.15652
+  },
+  {
+    "name": "Lettomanoppello",
+    "country": "IT",
+    "lat": 42.24336,
+    "lng": 14.03843
+  },
+  {
+    "name": "Lestizza",
+    "country": "IT",
+    "lat": 45.95656,
+    "lng": 13.14221
+  },
+  {
+    "name": "Lestans",
+    "country": "IT",
+    "lat": 46.15793,
+    "lng": 12.88872
+  },
+  {
+    "name": "Lessona",
+    "country": "IT",
+    "lat": 45.58693,
+    "lng": 8.19433
+  },
+  {
+    "name": "Lessolo",
+    "country": "IT",
+    "lat": 45.47794,
+    "lng": 7.81576
+  },
+  {
+    "name": "Lesina",
+    "country": "IT",
+    "lat": 41.86125,
+    "lng": 15.35322
+  },
+  {
+    "name": "Lesignano de'Bagni",
+    "country": "IT",
+    "lat": 44.64346,
+    "lng": 10.30039
+  },
+  {
+    "name": "Lesegno",
+    "country": "IT",
+    "lat": 44.4011,
+    "lng": 7.96943
+  },
+  {
+    "name": "Lesa",
+    "country": "IT",
+    "lat": 45.82066,
+    "lng": 8.55964
+  },
+  {
+    "name": "Lerma",
+    "country": "IT",
+    "lat": 44.63577,
+    "lng": 8.71323
+  },
+  {
+    "name": "Lerici",
+    "country": "IT",
+    "lat": 44.07587,
+    "lng": 9.91121
+  },
+  {
+    "name": "Lequile",
+    "country": "IT",
+    "lat": 40.30583,
+    "lng": 18.14022
+  },
+  {
+    "name": "Leporano",
+    "country": "IT",
+    "lat": 40.38218,
+    "lng": 17.33426
+  },
+  {
+    "name": "Leonessa",
+    "country": "IT",
+    "lat": 42.56855,
+    "lng": 12.95996
+  },
+  {
+    "name": "Lentigione-Sorbolo a Mane",
+    "country": "IT",
+    "lat": 44.86667,
+    "lng": 10.48333
+  },
+  {
+    "name": "Lentiai",
+    "country": "IT",
+    "lat": 46.04504,
+    "lng": 12.02053
+  },
+  {
+    "name": "Lentella",
+    "country": "IT",
+    "lat": 41.99576,
+    "lng": 14.67692
+  },
+  {
+    "name": "Lentate sul Seveso",
+    "country": "IT",
+    "lat": 45.67637,
+    "lng": 9.11774
+  },
+  {
+    "name": "Lenta",
+    "country": "IT",
+    "lat": 45.55691,
+    "lng": 8.38402
+  },
+  {
+    "name": "Lenola",
+    "country": "IT",
+    "lat": 41.40485,
+    "lng": 13.45934
+  },
+  {
+    "name": "Leno",
+    "country": "IT",
+    "lat": 45.3693,
+    "lng": 10.21675
+  },
+  {
+    "name": "Lenno",
+    "country": "IT",
+    "lat": 45.97298,
+    "lng": 9.19084
+  },
+  {
+    "name": "Lenna",
+    "country": "IT",
+    "lat": 45.94273,
+    "lng": 9.67876
+  },
+  {
+    "name": "Lendinara",
+    "country": "IT",
+    "lat": 45.08301,
+    "lng": 11.60318
+  },
+  {
+    "name": "Lemie",
+    "country": "IT",
+    "lat": 45.22866,
+    "lng": 7.29248
+  },
+  {
+    "name": "Leini",
+    "country": "IT",
+    "lat": 45.18275,
+    "lng": 7.71422
+  },
+  {
+    "name": "Lei",
+    "country": "IT",
+    "lat": 40.30641,
+    "lng": 8.91858
+  },
+  {
+    "name": "Le Grazie di Ancona",
+    "country": "IT",
+    "lat": 43.60081,
+    "lng": 13.51529
+  },
+  {
+    "name": "Le Grazie",
+    "country": "IT",
+    "lat": 44.06699,
+    "lng": 9.83392
+  },
+  {
+    "name": "Legnaro",
+    "country": "IT",
+    "lat": 45.34238,
+    "lng": 11.96482
+  },
+  {
+    "name": "Legnano",
+    "country": "IT",
+    "lat": 45.59788,
+    "lng": 8.91506
+  },
+  {
+    "name": "Legnago",
+    "country": "IT",
+    "lat": 45.19365,
+    "lng": 11.30227
+  },
+  {
+    "name": "Leffe",
+    "country": "IT",
+    "lat": 45.79793,
+    "lng": 9.88426
+  },
+  {
+    "name": "Lecco",
+    "country": "IT",
+    "lat": 45.85589,
+    "lng": 9.39704
+  },
+  {
+    "name": "Lecce Nei Marsi",
+    "country": "IT",
+    "lat": 41.93436,
+    "lng": 13.6843
+  },
+  {
+    "name": "Lecce",
+    "country": "IT",
+    "lat": 40.35481,
+    "lng": 18.17244
+  },
+  {
+    "name": "Leivi",
+    "country": "IT",
+    "lat": 44.35344,
+    "lng": 9.31074
+  },
+  {
+    "name": "Lettere",
+    "country": "IT",
+    "lat": 40.70491,
+    "lng": 14.54494
+  },
+  {
+    "name": "Leggiuno",
+    "country": "IT",
+    "lat": 45.87588,
+    "lng": 8.62063
+  },
+  {
+    "name": "Lesmo",
+    "country": "IT",
+    "lat": 45.64858,
+    "lng": 9.30735
+  },
+  {
+    "name": "Levate",
+    "country": "IT",
+    "lat": 45.62518,
+    "lng": 9.62415
+  },
+  {
+    "name": "Levone",
+    "country": "IT",
+    "lat": 45.31665,
+    "lng": 7.60632
+  },
+  {
+    "name": "Lequio Berria",
+    "country": "IT",
+    "lat": 44.60584,
+    "lng": 8.09814
+  },
+  {
+    "name": "Letino",
+    "country": "IT",
+    "lat": 41.45302,
+    "lng": 14.25542
+  },
+  {
+    "name": "Lequio Tanaro",
+    "country": "IT",
+    "lat": 44.55994,
+    "lng": 7.88214
+  },
+  {
+    "name": "Lesna",
+    "country": "IT",
+    "lat": 45.05418,
+    "lng": 7.62031
+  },
+  {
+    "name": "Levata",
+    "country": "IT",
+    "lat": 45.12518,
+    "lng": 10.76794
+  },
+  {
+    "name": "Le Rughe",
+    "country": "IT",
+    "lat": 42.06885,
+    "lng": 12.37624
+  },
+  {
+    "name": "Le Forna",
+    "country": "IT",
+    "lat": 40.92475,
+    "lng": 12.96896
+  },
+  {
+    "name": "Leone-Santa Elisabetta",
+    "country": "IT",
+    "lat": 46.73166,
+    "lng": 11.64944
+  },
+  {
+    "name": "Lemna",
+    "country": "IT",
+    "lat": 45.85808,
+    "lng": 9.15986
+  },
+  {
+    "name": "Leporano Marina",
+    "country": "IT",
+    "lat": 40.3786,
+    "lng": 17.3096
+  },
+  {
+    "name": "Le Hocq",
+    "country": "JE",
+    "lat": 49.16823,
+    "lng": -2.06178
+  },
+  {
+    "name": "Lebedinovka",
+    "country": "KG",
+    "lat": 42.88454,
+    "lng": 74.67819
+  },
+  {
+    "name": "Leuk Daek",
+    "country": "KH",
+    "lat": 11.1751,
+    "lng": 105.2292
+  },
+  {
+    "name": "Lepsy",
+    "country": "KZ",
+    "lat": 46.23426,
+    "lng": 78.94034
+  },
+  {
+    "name": "Leninskiy",
+    "country": "KZ",
+    "lat": 52.25346,
+    "lng": 76.78211
+  },
+  {
+    "name": "Leningradskoye",
+    "country": "KZ",
+    "lat": 53.53319,
+    "lng": 71.54252
+  },
+  {
+    "name": "Lenger",
+    "country": "KZ",
+    "lat": 42.18152,
+    "lng": 69.88582
+  },
+  {
+    "name": "Lejone",
+    "country": "LS",
+    "lat": -29.10853,
+    "lng": 28.48807
+  },
+  {
+    "name": "Lentvaris",
+    "country": "LT",
+    "lat": 54.64364,
+    "lng": 25.05162
+  },
+  {
+    "name": "Leudelange",
+    "country": "LU",
+    "lat": 49.56833,
+    "lng": 6.06528
+  },
+  {
+    "name": "Lenningen",
+    "country": "LU",
+    "lat": 49.60045,
+    "lng": 6.36719
+  },
+  {
+    "name": "Lemhaya",
+    "country": "MA",
+    "lat": 33.97716,
+    "lng": -5.251
+  },
+  {
+    "name": "Leova",
+    "country": "MD",
+    "lat": 46.48195,
+    "lng": 28.25298
+  },
+  {
+    "name": "Leleni",
+    "country": "ML",
+    "lat": 12.38944,
+    "lng": -5.24528
+  },
+  {
+    "name": "Lewe",
+    "country": "MM",
+    "lat": 19.63606,
+    "lng": 96.10998
+  },
+  {
+    "name": "Letpandan",
+    "country": "MM",
+    "lat": 17.78664,
+    "lng": 95.75076
+  },
+  {
+    "name": "Le Vauclin",
+    "country": "MQ",
+    "lat": 14.5454,
+    "lng": -60.83831
+  },
+  {
+    "name": "Les Trois-Îlets",
+    "country": "MQ",
+    "lat": 14.53912,
+    "lng": -61.03354
+  },
+  {
+    "name": "Le Robert",
+    "country": "MQ",
+    "lat": 14.67751,
+    "lng": -60.94228
+  },
+  {
+    "name": "Le Morne-Rouge",
+    "country": "MQ",
+    "lat": 14.7761,
+    "lng": -61.13564
+  },
+  {
+    "name": "Le Marin",
+    "country": "MQ",
+    "lat": 14.47158,
+    "lng": -60.86989
+  },
+  {
+    "name": "Le Lorrain",
+    "country": "MQ",
+    "lat": 14.83257,
+    "lng": -61.05553
+  },
+  {
+    "name": "Le Lamentin",
+    "country": "MQ",
+    "lat": 14.61341,
+    "lng": -60.99964
+  },
+  {
+    "name": "Le François",
+    "country": "MQ",
+    "lat": 14.61513,
+    "lng": -60.90311
+  },
+  {
+    "name": "Le Gros-Morne",
+    "country": "MQ",
+    "lat": 14.7,
+    "lng": -61.0
+  },
+  {
+    "name": "Lexeiba Un",
+    "country": "MR",
+    "lat": 16.22506,
+    "lng": -13.14089
+  },
+  {
+    "name": "Le Hochet",
+    "country": "MU",
+    "lat": -20.13859,
+    "lng": 57.53013
+  },
+  {
+    "name": "Lerma",
+    "country": "MX",
+    "lat": 19.80404,
+    "lng": -90.60088
+  },
+  {
+    "name": "Lerma de Villada",
+    "country": "MX",
+    "lat": 19.28881,
+    "lng": -99.51163
+  },
+  {
+    "name": "Lerdo de Tejada",
+    "country": "MX",
+    "lat": 18.62936,
+    "lng": -95.51968
+  },
+  {
+    "name": "Lepan",
+    "country": "MX",
+    "lat": 20.71243,
+    "lng": -89.49719
+  },
+  {
+    "name": "Leona Vicario",
+    "country": "MX",
+    "lat": 20.9897,
+    "lng": -87.20224
+  },
+  {
+    "name": "León Guzmán",
+    "country": "MX",
+    "lat": 25.5007,
+    "lng": -103.65911
+  },
+  {
+    "name": "León de los Aldama",
+    "country": "MX",
+    "lat": 21.12908,
+    "lng": -101.67374
+  },
+  {
+    "name": "Lequeitio",
+    "country": "MX",
+    "lat": 25.84631,
+    "lng": -103.27897
+  },
+  {
+    "name": "Lerdo",
+    "country": "MX",
+    "lat": 25.53611,
+    "lng": -103.52485
+  },
+  {
+    "name": "Leona Vicario",
+    "country": "MX",
+    "lat": 20.90944,
+    "lng": -89.60111
+  },
+  {
+    "name": "Leacaman",
+    "country": "MX",
+    "lat": 20.09861,
+    "lng": -97.64306
+  },
+  {
+    "name": "Lenggeng",
+    "country": "MY",
+    "lat": 2.8558,
+    "lng": 101.9424
+  },
+  {
+    "name": "Lepai",
+    "country": "MY",
+    "lat": 6.08333,
+    "lng": 100.36667
+  },
+  {
+    "name": "Lenggong",
+    "country": "MY",
+    "lat": 5.10633,
+    "lng": 100.96792
+  },
+  {
+    "name": "Lengkuas",
+    "country": "MY",
+    "lat": 6.02782,
+    "lng": 100.38185
+  },
+  {
+    "name": "Leonardville",
+    "country": "NA",
+    "lat": -23.50462,
+    "lng": 18.7912
+  },
+  {
+    "name": "Lere",
+    "country": "NG",
+    "lat": 10.38584,
+    "lng": 8.57286
+  },
+  {
+    "name": "Lere",
+    "country": "NG",
+    "lat": 9.71052,
+    "lng": 9.34029
+  },
+  {
+    "name": "Lemu",
+    "country": "NG",
+    "lat": 9.39637,
+    "lng": 6.02791
+  },
+  {
+    "name": "Lekki",
+    "country": "NG",
+    "lat": 6.41222,
+    "lng": 4.0947
+  },
+  {
+    "name": "Lessel",
+    "country": "NG",
+    "lat": 7.12729,
+    "lng": 9.01981
+  },
+  {
+    "name": "León",
+    "country": "NI",
+    "lat": 12.43527,
+    "lng": -86.87862
+  },
+  {
+    "name": "Leuth",
+    "country": "NL",
+    "lat": 51.83917,
+    "lng": 5.99167
+  },
+  {
+    "name": "Leusden",
+    "country": "NL",
+    "lat": 52.1325,
+    "lng": 5.43194
+  },
+  {
+    "name": "Leunen",
+    "country": "NL",
+    "lat": 51.51,
+    "lng": 5.97917
+  },
+  {
+    "name": "Leuken",
+    "country": "NL",
+    "lat": 51.25288,
+    "lng": 5.7346
+  },
+  {
+    "name": "Lepelstraat",
+    "country": "NL",
+    "lat": 51.54833,
+    "lng": 4.27639
+  },
+  {
+    "name": "Lent",
+    "country": "NL",
+    "lat": 51.86167,
+    "lng": 5.86667
+  },
+  {
+    "name": "Lemmer",
+    "country": "NL",
+    "lat": 52.84618,
+    "lng": 5.70912
+  },
+  {
+    "name": "Lelystad",
+    "country": "NL",
+    "lat": 52.50833,
+    "lng": 5.475
+  },
+  {
+    "name": "Leimuiden",
+    "country": "NL",
+    "lat": 52.22417,
+    "lng": 4.66944
+  },
+  {
+    "name": "Leiderdorp",
+    "country": "NL",
+    "lat": 52.15833,
+    "lng": 4.52917
+  },
+  {
+    "name": "Leiden",
+    "country": "NL",
+    "lat": 52.15833,
+    "lng": 4.49306
+  },
+  {
+    "name": "Leeuwen",
+    "country": "NL",
+    "lat": 51.21032,
+    "lng": 5.99862
+  },
+  {
+    "name": "Leeuwarden",
+    "country": "NL",
+    "lat": 53.20271,
+    "lng": 5.80973
+  },
+  {
+    "name": "Leesten",
+    "country": "NL",
+    "lat": 52.1279,
+    "lng": 6.23217
+  },
+  {
+    "name": "Leest",
+    "country": "NL",
+    "lat": 51.60983,
+    "lng": 5.54312
+  },
+  {
+    "name": "Leersum",
+    "country": "NL",
+    "lat": 52.01167,
+    "lng": 5.42778
+  },
+  {
+    "name": "Leerdam",
+    "country": "NL",
+    "lat": 51.89333,
+    "lng": 5.09167
+  },
+  {
+    "name": "Leens",
+    "country": "NL",
+    "lat": 53.36,
+    "lng": 6.37917
+  },
+  {
+    "name": "Leende",
+    "country": "NL",
+    "lat": 51.35083,
+    "lng": 5.55417
+  },
+  {
+    "name": "Leek",
+    "country": "NL",
+    "lat": 53.1625,
+    "lng": 6.37639
+  },
+  {
+    "name": "Levanger",
+    "country": "NO",
+    "lat": 63.74644,
+    "lng": 11.29963
+  },
+  {
+    "name": "Lervik",
+    "country": "NO",
+    "lat": 59.27119,
+    "lng": 10.7461
+  },
+  {
+    "name": "Lenvik",
+    "country": "NO",
+    "lat": 69.44318,
+    "lng": 18.15643
+  },
+  {
+    "name": "Lena",
+    "country": "NO",
+    "lat": 60.67391,
+    "lng": 10.81317
+  },
+  {
+    "name": "Leland",
+    "country": "NO",
+    "lat": 66.06406,
+    "lng": 12.94325
+  },
+  {
+    "name": "Leknes",
+    "country": "NO",
+    "lat": 65.1,
+    "lng": 11.7
+  },
+  {
+    "name": "Leirvik",
+    "country": "NO",
+    "lat": 59.77977,
+    "lng": 5.50051
+  },
+  {
+    "name": "Leirsund",
+    "country": "NO",
+    "lat": 59.99682,
+    "lng": 11.08746
+  },
+  {
+    "name": "Lesja",
+    "country": "NO",
+    "lat": 62.11837,
+    "lng": 8.86424
+  },
+  {
+    "name": "Leinesfjorden",
+    "country": "NO",
+    "lat": 67.77548,
+    "lng": 15.01545
+  },
+  {
+    "name": "Leknes",
+    "country": "NO",
+    "lat": 68.14746,
+    "lng": 13.61151
+  },
+  {
+    "name": "Leigh",
+    "country": "NZ",
+    "lat": -36.28333,
+    "lng": 174.81667
+  },
+  {
+    "name": "Leeston",
+    "country": "NZ",
+    "lat": -43.76667,
+    "lng": 172.3
+  },
+  {
+    "name": "Levin",
+    "country": "NZ",
+    "lat": -40.63333,
+    "lng": 175.275
+  },
+  {
+    "name": "Leones Arriba",
+    "country": "PA",
+    "lat": 7.77035,
+    "lng": -80.85126
+  },
+  {
+    "name": "Leones Arriba",
+    "country": "PA",
+    "lat": 7.75415,
+    "lng": -81.11556
+  },
+  {
+    "name": "Levanto",
+    "country": "PE",
+    "lat": -6.30833,
+    "lng": -77.89861
+  },
+  {
+    "name": "Leticia",
+    "country": "PE",
+    "lat": -11.37728,
+    "lng": -75.75198
+  },
+  {
+    "name": "Ledoy",
+    "country": "PE",
+    "lat": -7.12934,
+    "lng": -76.64908
+  },
+  {
+    "name": "Leyte",
+    "country": "PH",
+    "lat": 11.36687,
+    "lng": 124.48239
+  },
+  {
+    "name": "Leuteboro",
+    "country": "PH",
+    "lat": 13.061,
+    "lng": 121.37472
+  },
+  {
+    "name": "Lepanto",
+    "country": "PH",
+    "lat": 9.6845,
+    "lng": 123.4026
+  },
+  {
+    "name": "Lepa",
+    "country": "PH",
+    "lat": 15.88438,
+    "lng": 120.45089
+  },
+  {
+    "name": "Leones East",
+    "country": "PH",
+    "lat": 16.3633,
+    "lng": 120.3919
+  },
+  {
+    "name": "Leon",
+    "country": "PH",
+    "lat": 10.78085,
+    "lng": 122.3894
+  },
+  {
+    "name": "Lennec",
+    "country": "PH",
+    "lat": 15.6835,
+    "lng": 120.7338
+  },
+  {
+    "name": "Lemery",
+    "country": "PH",
+    "lat": 13.8809,
+    "lng": 120.91389
+  },
+  {
+    "name": "Lemery",
+    "country": "PH",
+    "lat": 11.2258,
+    "lng": 122.9275
+  },
+  {
+    "name": "Legaspi",
+    "country": "PH",
+    "lat": 13.14125,
+    "lng": 123.74073
+  },
+  {
+    "name": "Legrada",
+    "country": "PH",
+    "lat": 7.6333,
+    "lng": 123.3045
+  },
+  {
+    "name": "Leganes",
+    "country": "PH",
+    "lat": 10.78722,
+    "lng": 122.58917
+  },
+  {
+    "name": "Lebak",
+    "country": "PH",
+    "lat": 6.64389,
+    "lng": 124.06583
+  },
+  {
+    "name": "Leon Postigo",
+    "country": "PH",
+    "lat": 8.1551,
+    "lng": 122.9311
+  },
+  {
+    "name": "Leżajsk",
+    "country": "PL",
+    "lat": 50.26257,
+    "lng": 22.41932
+  },
+  {
+    "name": "Lesznowola",
+    "country": "PL",
+    "lat": 52.09095,
+    "lng": 20.93479
+  },
+  {
+    "name": "Leszno",
+    "country": "PL",
+    "lat": 52.25799,
+    "lng": 20.59121
+  },
+  {
+    "name": "Leśnica",
+    "country": "PL",
+    "lat": 49.40092,
+    "lng": 20.06001
+  },
+  {
+    "name": "Leśna Podlaska",
+    "country": "PL",
+    "lat": 52.13317,
+    "lng": 23.02786
+  },
+  {
+    "name": "Lesko",
+    "country": "PL",
+    "lat": 49.4701,
+    "lng": 22.33042
+  },
+  {
+    "name": "Lelkowo",
+    "country": "PL",
+    "lat": 54.32458,
+    "lng": 20.2248
+  },
+  {
+    "name": "Legionowo",
+    "country": "PL",
+    "lat": 52.40149,
+    "lng": 20.92664
+  },
+  {
+    "name": "Lecka",
+    "country": "PL",
+    "lat": 49.8786,
+    "lng": 22.01368
+  },
+  {
+    "name": "Lewin Kłodzki",
+    "country": "PL",
+    "lat": 50.40559,
+    "lng": 16.29101
+  },
+  {
+    "name": "Lewin Brzeski",
+    "country": "PL",
+    "lat": 50.7487,
+    "lng": 17.61688
+  },
+  {
+    "name": "Leszno",
+    "country": "PL",
+    "lat": 51.84034,
+    "lng": 16.57494
+  },
+  {
+    "name": "Leśnica",
+    "country": "PL",
+    "lat": 50.43083,
+    "lng": 18.18684
+  },
+  {
+    "name": "Leśna",
+    "country": "PL",
+    "lat": 51.02431,
+    "lng": 15.26413
+  },
+  {
+    "name": "Leśna",
+    "country": "PL",
+    "lat": 49.67041,
+    "lng": 19.12763
+  },
+  {
+    "name": "Leńcze",
+    "country": "PL",
+    "lat": 49.89895,
+    "lng": 19.73539
+  },
+  {
+    "name": "Lelów",
+    "country": "PL",
+    "lat": 50.68335,
+    "lng": 19.62562
+  },
+  {
+    "name": "Legnickie Pole",
+    "country": "PL",
+    "lat": 51.14419,
+    "lng": 16.24208
+  },
+  {
+    "name": "Legnica",
+    "country": "PL",
+    "lat": 51.21006,
+    "lng": 16.1619
+  },
+  {
+    "name": "Letnica",
+    "country": "PL",
+    "lat": 54.39207,
+    "lng": 18.64749
+  },
+  {
+    "name": "Leśnica-Ratyń-Pustki",
+    "country": "PL",
+    "lat": 51.14228,
+    "lng": 16.84773
+  },
+  {
+    "name": "Levittown",
+    "country": "PR",
+    "lat": 18.44995,
+    "lng": -66.18156
+  },
+  {
+    "name": "Leiria",
+    "country": "PT",
+    "lat": 39.74362,
+    "lng": -8.80705
+  },
+  {
+    "name": "Lever",
+    "country": "PT",
+    "lat": 41.06681,
+    "lng": -8.47575
+  },
+  {
+    "name": "Leça do Bailio",
+    "country": "PT",
+    "lat": 41.21201,
+    "lng": -8.63422
+  },
+  {
+    "name": "Leça da Palmeira",
+    "country": "PT",
+    "lat": 41.191,
+    "lng": -8.70027
+  },
+  {
+    "name": "Les Trois-Bassins",
+    "country": "RE",
+    "lat": -21.1,
+    "lng": 55.3
+  },
+  {
+    "name": "Le Tampon",
+    "country": "RE",
+    "lat": -21.2766,
+    "lng": 55.51766
+  },
+  {
+    "name": "Les Avirons",
+    "country": "RE",
+    "lat": -21.24063,
+    "lng": 55.33685
+  },
+  {
+    "name": "Le Port",
+    "country": "RE",
+    "lat": -20.93752,
+    "lng": 55.29415
+  },
+  {
+    "name": "Leu",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 24.0
+  },
+  {
+    "name": "Letea Veche",
+    "country": "RO",
+    "lat": 46.55,
+    "lng": 26.95
+  },
+  {
+    "name": "Letca Veche",
+    "country": "RO",
+    "lat": 44.19911,
+    "lng": 25.68681
+  },
+  {
+    "name": "Letca Nouă",
+    "country": "RO",
+    "lat": 44.23496,
+    "lng": 25.74262
+  },
+  {
+    "name": "Leţcani",
+    "country": "RO",
+    "lat": 47.18333,
+    "lng": 27.41667
+  },
+  {
+    "name": "Letca",
+    "country": "RO",
+    "lat": 47.33333,
+    "lng": 23.45
+  },
+  {
+    "name": "Leşu",
+    "country": "RO",
+    "lat": 47.31667,
+    "lng": 24.75
+  },
+  {
+    "name": "Lespezi",
+    "country": "RO",
+    "lat": 47.36667,
+    "lng": 26.7
+  },
+  {
+    "name": "Lespezi",
+    "country": "RO",
+    "lat": 46.66493,
+    "lng": 26.76882
+  },
+  {
+    "name": "Lespezi",
+    "country": "RO",
+    "lat": 46.16027,
+    "lng": 27.24065
+  },
+  {
+    "name": "Lereşti",
+    "country": "RO",
+    "lat": 45.33333,
+    "lng": 25.06667
+  },
+  {
+    "name": "Leordina",
+    "country": "RO",
+    "lat": 47.78333,
+    "lng": 24.25
+  },
+  {
+    "name": "Leordeni",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 25.11667
+  },
+  {
+    "name": "Leorda",
+    "country": "RO",
+    "lat": 47.81667,
+    "lng": 26.45
+  },
+  {
+    "name": "Lenauheim",
+    "country": "RO",
+    "lat": 45.87194,
+    "lng": 20.79944
+  },
+  {
+    "name": "Lemnia",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 26.26667
+  },
+  {
+    "name": "Leliceni",
+    "country": "RO",
+    "lat": 46.34713,
+    "lng": 25.84782
+  },
+  {
+    "name": "Leleşti",
+    "country": "RO",
+    "lat": 45.1,
+    "lng": 23.2
+  },
+  {
+    "name": "Lelese",
+    "country": "RO",
+    "lat": 45.73333,
+    "lng": 22.7
+  },
+  {
+    "name": "Leleasca",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 24.43333
+  },
+  {
+    "name": "Leicești",
+    "country": "RO",
+    "lat": 45.09586,
+    "lng": 24.86108
+  },
+  {
+    "name": "Lehliu-Gară",
+    "country": "RO",
+    "lat": 44.43333,
+    "lng": 26.85
+  },
+  {
+    "name": "Lehliu",
+    "country": "RO",
+    "lat": 44.46667,
+    "lng": 26.81667
+  },
+  {
+    "name": "Lechinţa",
+    "country": "RO",
+    "lat": 47.01667,
+    "lng": 24.35
+  },
+  {
+    "name": "Leskovac",
+    "country": "RS",
+    "lat": 42.99806,
+    "lng": 21.94611
+  },
+  {
+    "name": "Lebane",
+    "country": "RS",
+    "lat": 42.92389,
+    "lng": 21.7375
+  },
+  {
+    "name": "Lešnica",
+    "country": "RS",
+    "lat": 44.6525,
+    "lng": 19.31
+  },
+  {
+    "name": "Ledinci",
+    "country": "RS",
+    "lat": 45.18697,
+    "lng": 19.80554
+  },
+  {
+    "name": "Lezhnevo",
+    "country": "RU",
+    "lat": 56.77508,
+    "lng": 40.89174
+  },
+  {
+    "name": "Lev Tolstoy",
+    "country": "RU",
+    "lat": 53.20993,
+    "lng": 39.45431
+  },
+  {
+    "name": "Levokumskoye",
+    "country": "RU",
+    "lat": 44.82194,
+    "lng": 44.66056
+  },
+  {
+    "name": "Levokumka",
+    "country": "RU",
+    "lat": 44.23167,
+    "lng": 43.15
+  },
+  {
+    "name": "Levikha",
+    "country": "RU",
+    "lat": 57.58361,
+    "lng": 59.90028
+  },
+  {
+    "name": "Levashevo",
+    "country": "RU",
+    "lat": 57.64451,
+    "lng": 40.52401
+  },
+  {
+    "name": "Levashi",
+    "country": "RU",
+    "lat": 42.43224,
+    "lng": 47.3237
+  },
+  {
+    "name": "Levashovo",
+    "country": "RU",
+    "lat": 60.10369,
+    "lng": 30.20683
+  },
+  {
+    "name": "Letnyaya Stavka",
+    "country": "RU",
+    "lat": 45.42819,
+    "lng": 43.4442
+  },
+  {
+    "name": "Letnik",
+    "country": "RU",
+    "lat": 46.011,
+    "lng": 41.2657
+  },
+  {
+    "name": "Letka",
+    "country": "RU",
+    "lat": 59.60111,
+    "lng": 49.42321
+  },
+  {
+    "name": "Lesogorskiy",
+    "country": "RU",
+    "lat": 61.04549,
+    "lng": 28.92938
+  },
+  {
+    "name": "Lesnyye Polyany",
+    "country": "RU",
+    "lat": 59.00314,
+    "lng": 52.41802
+  },
+  {
+    "name": "Lesnyye Polyany",
+    "country": "RU",
+    "lat": 55.96667,
+    "lng": 37.86667
+  },
+  {
+    "name": "Lesnoy Gorodok",
+    "country": "RU",
+    "lat": 55.63893,
+    "lng": 37.20829
+  },
+  {
+    "name": "Lesnoye",
+    "country": "RU",
+    "lat": 58.28603,
+    "lng": 35.52359
+  },
+  {
+    "name": "Lesnoy",
+    "country": "RU",
+    "lat": 59.781,
+    "lng": 52.12838
+  },
+  {
+    "name": "Lesnoy",
+    "country": "RU",
+    "lat": 56.06667,
+    "lng": 37.91667
+  },
+  {
+    "name": "Lesnoy",
+    "country": "RU",
+    "lat": 54.2125,
+    "lng": 40.4713
+  },
+  {
+    "name": "Leskolovo",
+    "country": "RU",
+    "lat": 60.26341,
+    "lng": 30.45462
+  },
+  {
+    "name": "Leshukonskoye",
+    "country": "RU",
+    "lat": 64.89985,
+    "lng": 45.76165
+  },
+  {
+    "name": "Lermontovo",
+    "country": "RU",
+    "lat": 52.99277,
+    "lng": 43.66141
+  },
+  {
+    "name": "Lermontov",
+    "country": "RU",
+    "lat": 44.1072,
+    "lng": 42.97798
+  },
+  {
+    "name": "Leonovo",
+    "country": "RU",
+    "lat": 55.85,
+    "lng": 37.65
+  },
+  {
+    "name": "Leninskoye",
+    "country": "RU",
+    "lat": 60.22021,
+    "lng": 29.84711
+  },
+  {
+    "name": "Leninskoye",
+    "country": "RU",
+    "lat": 58.31552,
+    "lng": 47.0884
+  },
+  {
+    "name": "Leninskiye Gory",
+    "country": "RU",
+    "lat": 55.7,
+    "lng": 37.56667
+  },
+  {
+    "name": "Leninskiy",
+    "country": "RU",
+    "lat": 54.28734,
+    "lng": 37.4571
+  },
+  {
+    "name": "Leninsk",
+    "country": "RU",
+    "lat": 54.90306,
+    "lng": 59.8675
+  },
+  {
+    "name": "Leninsk",
+    "country": "RU",
+    "lat": 48.70311,
+    "lng": 45.19611
+  },
+  {
+    "name": "Leninogorsk",
+    "country": "RU",
+    "lat": 54.5971,
+    "lng": 52.45124
+  },
+  {
+    "name": "Leninkent",
+    "country": "RU",
+    "lat": 42.96895,
+    "lng": 47.35202
+  },
+  {
+    "name": "Leningradskaya",
+    "country": "RU",
+    "lat": 46.32143,
+    "lng": 39.38551
+  },
+  {
+    "name": "Leninaul",
+    "country": "RU",
+    "lat": 43.09138,
+    "lng": 46.57434
+  },
+  {
+    "name": "Lenina",
+    "country": "RU",
+    "lat": 46.06667,
+    "lng": 39.78333
+  },
+  {
+    "name": "Lefortovo",
+    "country": "RU",
+    "lat": 55.76667,
+    "lng": 37.7
+  },
+  {
+    "name": "Ledmozero",
+    "country": "RU",
+    "lat": 64.25444,
+    "lng": 32.02789
+  },
+  {
+    "name": "Lechinkay",
+    "country": "RU",
+    "lat": 43.56472,
+    "lng": 43.43278
+  },
+  {
+    "name": "Lebyazh’ye",
+    "country": "RU",
+    "lat": 59.96182,
+    "lng": 29.4149
+  },
+  {
+    "name": "Lebyazh’ye",
+    "country": "RU",
+    "lat": 57.40968,
+    "lng": 49.53059
+  },
+  {
+    "name": "Lebedyan’",
+    "country": "RU",
+    "lat": 53.01532,
+    "lng": 39.14458
+  },
+  {
+    "name": "Levoberezhnyy",
+    "country": "RU",
+    "lat": 55.85,
+    "lng": 37.48333
+  },
+  {
+    "name": "Lepley",
+    "country": "RU",
+    "lat": 54.3092,
+    "lng": 42.8599
+  },
+  {
+    "name": "Lesnoy",
+    "country": "RU",
+    "lat": 58.63944,
+    "lng": 59.7896
+  },
+  {
+    "name": "Lermontovo",
+    "country": "RU",
+    "lat": 44.3038,
+    "lng": 38.7572
+  },
+  {
+    "name": "Lesosibirsk",
+    "country": "RU",
+    "lat": 58.23544,
+    "lng": 92.48351
+  },
+  {
+    "name": "Lesogorsk",
+    "country": "RU",
+    "lat": 56.0458,
+    "lng": 99.5136
+  },
+  {
+    "name": "Lesnoye",
+    "country": "RU",
+    "lat": 52.46926,
+    "lng": 85.25547
+  },
+  {
+    "name": "Lesnikovo",
+    "country": "RU",
+    "lat": 55.28222,
+    "lng": 65.3175
+  },
+  {
+    "name": "Leninsk-Kuznetsky",
+    "country": "RU",
+    "lat": 54.6567,
+    "lng": 86.1737
+  },
+  {
+    "name": "Lebyazh’ye",
+    "country": "RU",
+    "lat": 55.27361,
+    "lng": 66.49472
+  },
+  {
+    "name": "Lebyazh’ye",
+    "country": "RU",
+    "lat": 53.24361,
+    "lng": 83.65333
+  },
+  {
+    "name": "Lesogorsk",
+    "country": "RU",
+    "lat": 56.0495,
+    "lng": 99.4414
+  },
+  {
+    "name": "Lesozavodsk",
+    "country": "RU",
+    "lat": 45.47171,
+    "lng": 133.39827
+  },
+  {
+    "name": "Lermontovka",
+    "country": "RU",
+    "lat": 47.14603,
+    "lng": 134.33889
+  },
+  {
+    "name": "Lensk",
+    "country": "RU",
+    "lat": 60.72383,
+    "lng": 114.93447
+  },
+  {
+    "name": "Leninskoye",
+    "country": "RU",
+    "lat": 47.94275,
+    "lng": 132.61924
+  },
+  {
+    "name": "Leninskiy",
+    "country": "RU",
+    "lat": 58.57141,
+    "lng": 125.43918
+  },
+  {
+    "name": "Lebedinyy",
+    "country": "RU",
+    "lat": 58.48844,
+    "lng": 125.49415
+  },
+  {
+    "name": "Leonidovo",
+    "country": "RU",
+    "lat": 49.28712,
+    "lng": 142.87205
+  },
+  {
+    "name": "Lesnoy",
+    "country": "RU",
+    "lat": 57.6198,
+    "lng": 63.0784
+  },
+  {
+    "name": "Les Mamelles",
+    "country": "SC",
+    "lat": -4.64584,
+    "lng": 55.46795
+  },
+  {
+    "name": "Lessebo",
+    "country": "SE",
+    "lat": 56.75185,
+    "lng": 15.26969
+  },
+  {
+    "name": "Lerum",
+    "country": "SE",
+    "lat": 57.77051,
+    "lng": 12.26904
+  },
+  {
+    "name": "Lenhovda",
+    "country": "SE",
+    "lat": 57.0,
+    "lng": 15.28333
+  },
+  {
+    "name": "Leksand",
+    "country": "SE",
+    "lat": 60.7303,
+    "lng": 14.99994
+  },
+  {
+    "name": "Leedon Park",
+    "country": "SG",
+    "lat": 1.31694,
+    "lng": 103.79417
+  },
+  {
+    "name": "Leonie Hill",
+    "country": "SG",
+    "lat": 1.29819,
+    "lng": 103.83226
+  },
+  {
+    "name": "Leskovec pri Krškem",
+    "country": "SI",
+    "lat": 45.93566,
+    "lng": 15.47184
+  },
+  {
+    "name": "Lesce",
+    "country": "SI",
+    "lat": 46.36111,
+    "lng": 14.15778
+  },
+  {
+    "name": "Lendava",
+    "country": "SI",
+    "lat": 46.56494,
+    "lng": 16.45091
+  },
+  {
+    "name": "Lenart v Slov. Goricah",
+    "country": "SI",
+    "lat": 46.57611,
+    "lng": 15.83139
+  },
+  {
+    "name": "Leskova Dolina",
+    "country": "SI",
+    "lat": 45.62139,
+    "lng": 14.46056
+  },
+  {
+    "name": "Legen",
+    "country": "SI",
+    "lat": 46.50651,
+    "lng": 15.14424
+  },
+  {
+    "name": "Levoča",
+    "country": "SK",
+    "lat": 49.02173,
+    "lng": 20.59212
+  },
+  {
+    "name": "Lehota pod Vtáčnikom",
+    "country": "SK",
+    "lat": 48.69138,
+    "lng": 18.59944
+  },
+  {
+    "name": "Levice",
+    "country": "SK",
+    "lat": 48.21563,
+    "lng": 18.60705
+  },
+  {
+    "name": "Leopoldov",
+    "country": "SK",
+    "lat": 48.44575,
+    "lng": 17.76458
+  },
+  {
+    "name": "Lehota",
+    "country": "SK",
+    "lat": 48.31157,
+    "lng": 17.98948
+  },
+  {
+    "name": "Lehnice",
+    "country": "SK",
+    "lat": 48.05577,
+    "lng": 17.46337
+  },
+  {
+    "name": "Le Plateau",
+    "country": "SN",
+    "lat": 14.66222,
+    "lng": -17.43972
+  },
+  {
+    "name": "Lelydorp",
+    "country": "SR",
+    "lat": 5.7,
+    "lng": -55.23333
+  },
+  {
+    "name": "Leer",
+    "country": "SS",
+    "lat": 8.30306,
+    "lng": 30.14056
+  },
+  {
+    "name": "Lemos",
+    "country": "ST",
+    "lat": 0.29922,
+    "lng": 6.69847
+  },
+  {
+    "name": "Levakant",
+    "country": "TJ",
+    "lat": 37.87136,
+    "lng": 68.92233
+  },
+  {
+    "name": "Lemta",
+    "country": "TN",
+    "lat": 35.66667,
+    "lng": 10.88333
+  },
+  {
+    "name": "Le Bardo",
+    "country": "TN",
+    "lat": 36.81058,
+    "lng": 10.13481
+  },
+  {
+    "name": "Le Kram",
+    "country": "TN",
+    "lat": 36.83578,
+    "lng": 10.31641
+  },
+  {
+    "name": "Le Krib",
+    "country": "TN",
+    "lat": 36.32802,
+    "lng": 9.13613
+  },
+  {
+    "name": "Leimātu'a",
+    "country": "TO",
+    "lat": -18.59964,
+    "lng": -173.98121
+  },
+  {
+    "name": "Levent",
+    "country": "TR",
+    "lat": 38.43704,
+    "lng": 37.85425
+  },
+  {
+    "name": "Leblebitaşı",
+    "country": "TR",
+    "lat": 37.62706,
+    "lng": 39.97951
+  },
+  {
+    "name": "Levent",
+    "country": "TR",
+    "lat": 41.08116,
+    "lng": 29.01772
+  },
+  {
+    "name": "Lembeni",
+    "country": "TZ",
+    "lat": -3.78333,
+    "lng": 37.61667
+  },
+  {
+    "name": "Lebedyn",
+    "country": "UA",
+    "lat": 50.58518,
+    "lng": 34.4849
+  },
+  {
+    "name": "Letychiv",
+    "country": "UA",
+    "lat": 49.3801,
+    "lng": 27.61889
+  },
+  {
+    "name": "Lesky",
+    "country": "UA",
+    "lat": 49.33104,
+    "lng": 32.21971
+  },
+  {
+    "name": "Lepetykha",
+    "country": "UA",
+    "lat": 47.32739,
+    "lng": 33.05024
+  },
+  {
+    "name": "Lenkivtsi",
+    "country": "UA",
+    "lat": 48.50738,
+    "lng": 26.75856
+  },
+  {
+    "name": "Leninskoye",
+    "country": "UA",
+    "lat": 45.26844,
+    "lng": 34.05023
+  },
+  {
+    "name": "Leninskoye",
+    "country": "UA",
+    "lat": 45.25373,
+    "lng": 35.91969
+  },
+  {
+    "name": "Lenino",
+    "country": "UA",
+    "lat": 45.29857,
+    "lng": 35.77708
+  },
+  {
+    "name": "Lebedyn",
+    "country": "UA",
+    "lat": 48.9628,
+    "lng": 31.52575
+  },
+  {
+    "name": "Lesnovka",
+    "country": "UA",
+    "lat": 45.1535,
+    "lng": 33.61889
+  },
+  {
+    "name": "Lekarstvennoye",
+    "country": "UA",
+    "lat": 44.94194,
+    "lng": 33.82229
+  },
+  {
+    "name": "Levadki",
+    "country": "UA",
+    "lat": 44.87083,
+    "lng": 34.04278
+  },
+  {
+    "name": "Leeds",
+    "country": "US",
+    "lat": 33.54816,
+    "lng": -86.54443
+  },
+  {
+    "name": "Leesburg",
+    "country": "US",
+    "lat": 34.17982,
+    "lng": -85.76136
+  },
+  {
+    "name": "Level Plains",
+    "country": "US",
+    "lat": 31.29962,
+    "lng": -85.77799
+  },
+  {
+    "name": "Leachville",
+    "country": "US",
+    "lat": 35.93591,
+    "lng": -90.25788
+  },
+  {
+    "name": "Lepanto",
+    "country": "US",
+    "lat": 35.61119,
+    "lng": -90.32982
+  },
+  {
+    "name": "Lewisville",
+    "country": "US",
+    "lat": 33.35846,
+    "lng": -93.57768
+  },
+  {
+    "name": "Lewes",
+    "country": "US",
+    "lat": 38.77456,
+    "lng": -75.13935
+  },
+  {
+    "name": "Lealman",
+    "country": "US",
+    "lat": 27.82114,
+    "lng": -82.67927
+  },
+  {
+    "name": "Lecanto",
+    "country": "US",
+    "lat": 28.85165,
+    "lng": -82.4876
+  },
+  {
+    "name": "Leesburg",
+    "country": "US",
+    "lat": 28.81082,
+    "lng": -81.87786
+  },
+  {
+    "name": "Lehigh Acres",
+    "country": "US",
+    "lat": 26.62535,
+    "lng": -81.6248
+  },
+  {
+    "name": "Leisure City",
+    "country": "US",
+    "lat": 25.49539,
+    "lng": -80.42922
+  },
+  {
+    "name": "Lely",
+    "country": "US",
+    "lat": 26.10065,
+    "lng": -81.72842
+  },
+  {
+    "name": "Lely Resort",
+    "country": "US",
+    "lat": 26.08093,
+    "lng": -81.69786
+  },
+  {
+    "name": "Leesburg",
+    "country": "US",
+    "lat": 31.73212,
+    "lng": -84.17074
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 33.86984,
+    "lng": -83.11182
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 38.60394,
+    "lng": -89.80732
+  },
+  {
+    "name": "Leland Grove",
+    "country": "US",
+    "lat": 39.777,
+    "lng": -89.67927
+  },
+  {
+    "name": "Leavenworth",
+    "country": "US",
+    "lat": 39.31111,
+    "lng": -94.92246
+  },
+  {
+    "name": "Leawood",
+    "country": "US",
+    "lat": 38.96667,
+    "lng": -94.6169
+  },
+  {
+    "name": "Lenexa",
+    "country": "US",
+    "lat": 38.95362,
+    "lng": -94.73357
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 37.56979,
+    "lng": -85.25274
+  },
+  {
+    "name": "Lebanon Junction",
+    "country": "US",
+    "lat": 37.83451,
+    "lng": -85.7319
+  },
+  {
+    "name": "Ledbetter",
+    "country": "US",
+    "lat": 37.04756,
+    "lng": -88.47699
+  },
+  {
+    "name": "Leitchfield",
+    "country": "US",
+    "lat": 37.48005,
+    "lng": -86.29386
+  },
+  {
+    "name": "Lewisport",
+    "country": "US",
+    "lat": 37.937,
+    "lng": -86.90221
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 37.98869,
+    "lng": -84.47772
+  },
+  {
+    "name": "Lexington-Fayette",
+    "country": "US",
+    "lat": 38.0498,
+    "lng": -84.45855
+  },
+  {
+    "name": "Lecompte",
+    "country": "US",
+    "lat": 31.09463,
+    "lng": -92.40041
+  },
+  {
+    "name": "Leesville",
+    "country": "US",
+    "lat": 31.14352,
+    "lng": -93.261
+  },
+  {
+    "name": "Leonville",
+    "country": "US",
+    "lat": 30.47047,
+    "lng": -91.97845
+  },
+  {
+    "name": "Leonardtown",
+    "country": "US",
+    "lat": 38.29124,
+    "lng": -76.63579
+  },
+  {
+    "name": "Lexington Park",
+    "country": "US",
+    "lat": 38.26679,
+    "lng": -76.45384
+  },
+  {
+    "name": "Leadwood",
+    "country": "US",
+    "lat": 37.86727,
+    "lng": -90.59318
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 37.6806,
+    "lng": -92.66379
+  },
+  {
+    "name": "Lee's Summit",
+    "country": "US",
+    "lat": 38.91084,
+    "lng": -94.38217
+  },
+  {
+    "name": "Lemay",
+    "country": "US",
+    "lat": 38.53339,
+    "lng": -90.27928
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 39.18473,
+    "lng": -93.87994
+  },
+  {
+    "name": "Leakesville",
+    "country": "US",
+    "lat": 31.15574,
+    "lng": -88.5578
+  },
+  {
+    "name": "Leland",
+    "country": "US",
+    "lat": 33.40539,
+    "lng": -90.8976
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 33.11318,
+    "lng": -90.05314
+  },
+  {
+    "name": "Leland",
+    "country": "US",
+    "lat": 34.25628,
+    "lng": -78.04471
+  },
+  {
+    "name": "Lenoir",
+    "country": "US",
+    "lat": 35.91402,
+    "lng": -81.53898
+  },
+  {
+    "name": "Lewisville",
+    "country": "US",
+    "lat": 36.09708,
+    "lng": -80.41922
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 35.82403,
+    "lng": -80.25338
+  },
+  {
+    "name": "Leisuretowne",
+    "country": "US",
+    "lat": 39.89234,
+    "lng": -74.7021
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 39.43534,
+    "lng": -84.20299
+  },
+  {
+    "name": "Leesburg",
+    "country": "US",
+    "lat": 39.34506,
+    "lng": -83.55297
+  },
+  {
+    "name": "Lewisburg",
+    "country": "US",
+    "lat": 39.84616,
+    "lng": -84.53967
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 35.01479,
+    "lng": -97.33558
+  },
+  {
+    "name": "Leesville",
+    "country": "US",
+    "lat": 33.91653,
+    "lng": -81.51344
+  },
+  {
+    "name": "Lesslie",
+    "country": "US",
+    "lat": 34.8907,
+    "lng": -80.95647
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 33.98154,
+    "lng": -81.23621
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 36.20811,
+    "lng": -86.2911
+  },
+  {
+    "name": "Lenoir City",
+    "country": "US",
+    "lat": 35.7973,
+    "lng": -84.25603
+  },
+  {
+    "name": "Lewisburg",
+    "country": "US",
+    "lat": 35.44924,
+    "lng": -86.78889
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 35.6509,
+    "lng": -88.39338
+  },
+  {
+    "name": "League City",
+    "country": "US",
+    "lat": 29.50745,
+    "lng": -95.09493
+  },
+  {
+    "name": "Leakey",
+    "country": "US",
+    "lat": 29.72884,
+    "lng": -99.76145
+  },
+  {
+    "name": "Leander",
+    "country": "US",
+    "lat": 30.57881,
+    "lng": -97.85307
+  },
+  {
+    "name": "Leon Valley",
+    "country": "US",
+    "lat": 29.49523,
+    "lng": -98.61863
+  },
+  {
+    "name": "Leonard",
+    "country": "US",
+    "lat": 33.37955,
+    "lng": -96.24748
+  },
+  {
+    "name": "Lewisville",
+    "country": "US",
+    "lat": 33.04623,
+    "lng": -96.99417
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 30.4191,
+    "lng": -97.01165
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 36.90094,
+    "lng": -82.08013
+  },
+  {
+    "name": "Leesburg",
+    "country": "US",
+    "lat": 39.11566,
+    "lng": -77.5636
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 37.78402,
+    "lng": -79.44282
+  },
+  {
+    "name": "Lesage",
+    "country": "US",
+    "lat": 38.50647,
+    "lng": -82.29848
+  },
+  {
+    "name": "Lewisburg",
+    "country": "US",
+    "lat": 37.80179,
+    "lng": -80.44563
+  },
+  {
+    "name": "Lena",
+    "country": "US",
+    "lat": 42.37946,
+    "lng": -89.82234
+  },
+  {
+    "name": "Ledyard",
+    "country": "US",
+    "lat": 41.43982,
+    "lng": -72.01424
+  },
+  {
+    "name": "Le Claire",
+    "country": "US",
+    "lat": 41.59864,
+    "lng": -90.34346
+  },
+  {
+    "name": "Le Mars",
+    "country": "US",
+    "lat": 42.79416,
+    "lng": -96.16558
+  },
+  {
+    "name": "Lenox",
+    "country": "US",
+    "lat": 40.88165,
+    "lng": -94.56191
+  },
+  {
+    "name": "Leon",
+    "country": "US",
+    "lat": 40.73972,
+    "lng": -93.74772
+  },
+  {
+    "name": "Le Roy",
+    "country": "US",
+    "lat": 40.35198,
+    "lng": -88.76424
+  },
+  {
+    "name": "Lemont",
+    "country": "US",
+    "lat": 41.67364,
+    "lng": -88.00173
+  },
+  {
+    "name": "Lewistown",
+    "country": "US",
+    "lat": 40.3931,
+    "lng": -90.15484
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 40.64142,
+    "lng": -88.7834
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 40.04837,
+    "lng": -86.46917
+  },
+  {
+    "name": "Leo-Cedarville",
+    "country": "US",
+    "lat": 41.21255,
+    "lng": -85.01664
+  },
+  {
+    "name": "Lee",
+    "country": "US",
+    "lat": 42.30425,
+    "lng": -73.24816
+  },
+  {
+    "name": "Leicester",
+    "country": "US",
+    "lat": 42.24593,
+    "lng": -71.90868
+  },
+  {
+    "name": "Lenox",
+    "country": "US",
+    "lat": 42.35648,
+    "lng": -73.28483
+  },
+  {
+    "name": "Leominster",
+    "country": "US",
+    "lat": 42.52509,
+    "lng": -71.75979
+  },
+  {
+    "name": "Leverett",
+    "country": "US",
+    "lat": 42.45203,
+    "lng": -72.50148
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 42.44732,
+    "lng": -71.2245
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 43.39453,
+    "lng": -70.85089
+  },
+  {
+    "name": "Leeds",
+    "country": "US",
+    "lat": 44.3034,
+    "lng": -70.1195
+  },
+  {
+    "name": "Levant",
+    "country": "US",
+    "lat": 44.86924,
+    "lng": -68.93476
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 44.10035,
+    "lng": -70.21478
+  },
+  {
+    "name": "Leland",
+    "country": "US",
+    "lat": 45.02305,
+    "lng": -85.75981
+  },
+  {
+    "name": "Leslie",
+    "country": "US",
+    "lat": 42.45143,
+    "lng": -84.43247
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 44.8839,
+    "lng": -84.30557
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 43.26808,
+    "lng": -82.53076
+  },
+  {
+    "name": "Le Center",
+    "country": "US",
+    "lat": 44.38941,
+    "lng": -93.73023
+  },
+  {
+    "name": "Le Sueur",
+    "country": "US",
+    "lat": 44.46135,
+    "lng": -93.91524
+  },
+  {
+    "name": "Lester Prairie",
+    "country": "US",
+    "lat": 44.88385,
+    "lng": -94.04164
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 43.98441,
+    "lng": -91.86932
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 45.14247,
+    "lng": -93.16328
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 40.78084,
+    "lng": -99.7415
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 43.64229,
+    "lng": -72.25176
+  },
+  {
+    "name": "Lee",
+    "country": "US",
+    "lat": 43.12314,
+    "lng": -71.01145
+  },
+  {
+    "name": "Lempster",
+    "country": "US",
+    "lat": 43.23841,
+    "lng": -72.21064
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 40.64177,
+    "lng": -74.836
+  },
+  {
+    "name": "Leisure Knoll",
+    "country": "US",
+    "lat": 40.01901,
+    "lng": -74.29209
+  },
+  {
+    "name": "Leisure Village",
+    "country": "US",
+    "lat": 40.04262,
+    "lng": -74.18486
+  },
+  {
+    "name": "Leisure Village East",
+    "country": "US",
+    "lat": 40.03012,
+    "lng": -74.16431
+  },
+  {
+    "name": "Leonardo",
+    "country": "US",
+    "lat": 40.41733,
+    "lng": -74.06208
+  },
+  {
+    "name": "Leonia",
+    "country": "US",
+    "lat": 40.86149,
+    "lng": -73.98819
+  },
+  {
+    "name": "Le Roy",
+    "country": "US",
+    "lat": 42.97839,
+    "lng": -77.98418
+  },
+  {
+    "name": "Levittown",
+    "country": "US",
+    "lat": 40.72593,
+    "lng": -73.51429
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 43.17256,
+    "lng": -79.03588
+  },
+  {
+    "name": "Leavittsburg",
+    "country": "US",
+    "lat": 41.24783,
+    "lng": -80.87703
+  },
+  {
+    "name": "Leetonia",
+    "country": "US",
+    "lat": 40.87728,
+    "lng": -80.75536
+  },
+  {
+    "name": "Leipsic",
+    "country": "US",
+    "lat": 41.09838,
+    "lng": -83.98467
+  },
+  {
+    "name": "Lewis Center",
+    "country": "US",
+    "lat": 40.1984,
+    "lng": -83.01018
+  },
+  {
+    "name": "Lexington",
+    "country": "US",
+    "lat": 40.67867,
+    "lng": -82.58239
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 40.34093,
+    "lng": -76.41135
+  },
+  {
+    "name": "Leechburg",
+    "country": "US",
+    "lat": 40.62701,
+    "lng": -79.6056
+  },
+  {
+    "name": "Leesport",
+    "country": "US",
+    "lat": 40.44704,
+    "lng": -75.96632
+  },
+  {
+    "name": "Leetsdale",
+    "country": "US",
+    "lat": 40.56312,
+    "lng": -80.20839
+  },
+  {
+    "name": "Lehighton",
+    "country": "US",
+    "lat": 40.8337,
+    "lng": -75.7138
+  },
+  {
+    "name": "Lemont",
+    "country": "US",
+    "lat": 40.81062,
+    "lng": -77.81833
+  },
+  {
+    "name": "Lemoyne",
+    "country": "US",
+    "lat": 40.2412,
+    "lng": -76.89414
+  },
+  {
+    "name": "Lenape Heights",
+    "country": "US",
+    "lat": 40.76423,
+    "lng": -79.5206
+  },
+  {
+    "name": "Leola",
+    "country": "US",
+    "lat": 40.08787,
+    "lng": -76.18495
+  },
+  {
+    "name": "Level Green",
+    "country": "US",
+    "lat": 40.3934,
+    "lng": -79.72032
+  },
+  {
+    "name": "Levittown",
+    "country": "US",
+    "lat": 40.15511,
+    "lng": -74.82877
+  },
+  {
+    "name": "Lewisburg",
+    "country": "US",
+    "lat": 40.96453,
+    "lng": -76.88441
+  },
+  {
+    "name": "Lewistown",
+    "country": "US",
+    "lat": 40.59924,
+    "lng": -77.57138
+  },
+  {
+    "name": "Lexington Park",
+    "country": "US",
+    "lat": 40.05344,
+    "lng": -75.04628
+  },
+  {
+    "name": "Lennox",
+    "country": "US",
+    "lat": 43.35415,
+    "lng": -96.892
+  },
+  {
+    "name": "Leola",
+    "country": "US",
+    "lat": 45.72275,
+    "lng": -98.94094
+  },
+  {
+    "name": "Leicester",
+    "country": "US",
+    "lat": 43.86673,
+    "lng": -73.10789
+  },
+  {
+    "name": "LeChee",
+    "country": "US",
+    "lat": 35.03224,
+    "lng": -110.75291
+  },
+  {
+    "name": "Le Grand",
+    "country": "US",
+    "lat": 37.22855,
+    "lng": -120.24823
+  },
+  {
+    "name": "Lebec",
+    "country": "US",
+    "lat": 34.84164,
+    "lng": -118.86482
+  },
+  {
+    "name": "Lemon Grove",
+    "country": "US",
+    "lat": 32.74255,
+    "lng": -117.03142
+  },
+  {
+    "name": "Lemoore",
+    "country": "US",
+    "lat": 36.30078,
+    "lng": -119.78291
+  },
+  {
+    "name": "Lennox",
+    "country": "US",
+    "lat": 33.93807,
+    "lng": -118.35258
+  },
+  {
+    "name": "Lenwood",
+    "country": "US",
+    "lat": 34.87665,
+    "lng": -117.10393
+  },
+  {
+    "name": "Leona Valley",
+    "country": "US",
+    "lat": 34.61832,
+    "lng": -118.28813
+  },
+  {
+    "name": "Lexington Hills",
+    "country": "US",
+    "lat": 37.16467,
+    "lng": -121.97301
+  },
+  {
+    "name": "Leadville",
+    "country": "US",
+    "lat": 39.25082,
+    "lng": -106.29252
+  },
+  {
+    "name": "Leoti",
+    "country": "US",
+    "lat": 38.47974,
+    "lng": -101.35877
+  },
+  {
+    "name": "Lee Acres",
+    "country": "US",
+    "lat": 35.14866,
+    "lng": -106.64697
+  },
+  {
+    "name": "Lee Acres",
+    "country": "US",
+    "lat": 36.69889,
+    "lng": -108.03674
+  },
+  {
+    "name": "Lemmon Valley",
+    "country": "US",
+    "lat": 39.63602,
+    "lng": -119.84325
+  },
+  {
+    "name": "Levelland",
+    "country": "US",
+    "lat": 33.58732,
+    "lng": -102.37796
+  },
+  {
+    "name": "Lea Hill",
+    "country": "US",
+    "lat": 47.32621,
+    "lng": -122.18151
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 40.70737,
+    "lng": -122.80752
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 46.41655,
+    "lng": -117.01766
+  },
+  {
+    "name": "Lewiston Orchards",
+    "country": "US",
+    "lat": 46.38044,
+    "lng": -116.97543
+  },
+  {
+    "name": "Lewistown",
+    "country": "US",
+    "lat": 47.06247,
+    "lng": -109.42824
+  },
+  {
+    "name": "Lebanon",
+    "country": "US",
+    "lat": 44.53651,
+    "lng": -122.90703
+  },
+  {
+    "name": "Lents",
+    "country": "US",
+    "lat": 45.47984,
+    "lng": -122.56731
+  },
+  {
+    "name": "Lead",
+    "country": "US",
+    "lat": 44.35221,
+    "lng": -103.7652
+  },
+  {
+    "name": "Lemmon",
+    "country": "US",
+    "lat": 45.94083,
+    "lng": -102.15932
+  },
+  {
+    "name": "Lehi",
+    "country": "US",
+    "lat": 40.39162,
+    "lng": -111.85077
+  },
+  {
+    "name": "Lewiston",
+    "country": "US",
+    "lat": 41.97576,
+    "lng": -111.85634
+  },
+  {
+    "name": "Leavenworth",
+    "country": "US",
+    "lat": 47.59623,
+    "lng": -120.66148
+  },
+  {
+    "name": "Lewisville",
+    "country": "US",
+    "lat": 45.80984,
+    "lng": -122.52315
+  },
+  {
+    "name": "Leilani Estates",
+    "country": "US",
+    "lat": 19.46972,
+    "lng": -154.91778
+  },
+  {
+    "name": "Leisure World",
+    "country": "US",
+    "lat": 39.1023,
+    "lng": -77.06898
+  },
+  {
+    "name": "Lebanon South",
+    "country": "US",
+    "lat": 40.32804,
+    "lng": -76.40644
+  },
+  {
+    "name": "Leisure Village West-Pine Lake Park",
+    "country": "US",
+    "lat": 40.00416,
+    "lng": -74.26629
+  },
+  {
+    "name": "Leith-Hatfield",
+    "country": "US",
+    "lat": 39.87744,
+    "lng": -79.73133
+  },
+  {
+    "name": "Legend Lake",
+    "country": "US",
+    "lat": 44.89095,
+    "lng": -88.54406
+  },
+  {
+    "name": "Level Park-Oak Park",
+    "country": "US",
+    "lat": 42.36418,
+    "lng": -85.2665
+  },
+  {
+    "name": "Leadville North",
+    "country": "US",
+    "lat": 39.2576,
+    "lng": -106.30138
+  },
+  {
+    "name": "LeChee",
+    "country": "US",
+    "lat": 36.86211,
+    "lng": -111.44063
+  },
+  {
+    "name": "Lemoore Station",
+    "country": "US",
+    "lat": 36.26326,
+    "lng": -119.90476
+  },
+  {
+    "name": "Levindale",
+    "country": "US",
+    "lat": 39.35296,
+    "lng": -76.66466
+  },
+  {
+    "name": "Lecherías",
+    "country": "VE",
+    "lat": 10.19167,
+    "lng": -64.69207
+  },
+  {
+    "name": "Leava",
+    "country": "WF",
+    "lat": -14.29333,
+    "lng": -178.15833
+  },
+  {
+    "name": "Leulumoega",
+    "country": "WS",
+    "lat": -13.82297,
+    "lng": -171.96127
+  },
+  {
+    "name": "Leshan",
+    "country": "XK",
+    "lat": 42.32778,
+    "lng": 20.78111
+  },
+  {
+    "name": "Leposaviq",
+    "country": "XK",
+    "lat": 43.10389,
+    "lng": 20.80278
+  },
+  {
+    "name": "Leslie",
+    "country": "ZA",
+    "lat": -26.36737,
+    "lng": 28.9189
+  },
+  {
+    "name": "Lenyenye",
+    "country": "ZA",
+    "lat": -23.97056,
+    "lng": 30.26965
+  },
+  {
+    "name": "Leeupoort",
+    "country": "ZA",
+    "lat": -24.91651,
+    "lng": 27.73154
+  },
+  {
+    "name": "Leeu-Gamka",
+    "country": "ZA",
+    "lat": -32.77423,
+    "lng": 21.9786
+  },
+  {
+    "name": "Leeudoringstad",
+    "country": "ZA",
+    "lat": -27.23712,
+    "lng": 26.23514
+  },
+  {
+    "name": "Lephalale",
+    "country": "ZA",
+    "lat": -23.66607,
+    "lng": 27.74477
+  },
+  {
+    "name": "Leeuwfontein-C",
+    "country": "ZA",
+    "lat": -25.17046,
+    "lng": 28.90361
+  },
+  {
+    "name": "Lehurutshe",
+    "country": "ZA",
+    "lat": -25.4812,
+    "lng": 25.96508
+  },
+  {
+    "name": "Lebohang",
+    "country": "ZA",
+    "lat": -26.37945,
+    "lng": 28.92112
+  },
+  {
+    "name": "Leeudoorn Mine",
+    "country": "ZA",
+    "lat": -26.44244,
+    "lng": 27.57278
+  },
+  {
+    "name": "Lebowakgomo",
+    "country": "ZA",
+    "lat": -24.31457,
+    "lng": 29.50078
+  },
+  {
+    "name": "Letlhabile",
+    "country": "ZA",
+    "lat": -25.48238,
+    "lng": 27.83925
+  },
+  {
+    "name": "Leerkrans",
+    "country": "ZA",
+    "lat": -28.406,
+    "lng": 21.52342
+  },
+  {
+    "name": "Le Roux",
+    "country": "ZA",
+    "lat": -33.89058,
+    "lng": 19.10328
+  }
+]

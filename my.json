@@ -1,0 +1,686 @@
+[
+  {
+    "name": "Myasnikyan",
+    "country": "AM",
+    "lat": 40.18048,
+    "lng": 43.91949
+  },
+  {
+    "name": "Mylor",
+    "country": "AU",
+    "lat": -35.04303,
+    "lng": 138.759
+  },
+  {
+    "name": "Myrtleford",
+    "country": "AU",
+    "lat": -36.56104,
+    "lng": 146.72371
+  },
+  {
+    "name": "Myrtle Bank",
+    "country": "AU",
+    "lat": -34.96057,
+    "lng": 138.63377
+  },
+  {
+    "name": "Myaree",
+    "country": "AU",
+    "lat": -32.04,
+    "lng": 115.81761
+  },
+  {
+    "name": "Mymensingh",
+    "country": "BD",
+    "lat": 24.75636,
+    "lng": 90.40646
+  },
+  {
+    "name": "Myshkavichy",
+    "country": "BY",
+    "lat": 53.2172,
+    "lng": 29.512
+  },
+  {
+    "name": "Myadzyel",
+    "country": "BY",
+    "lat": 54.87894,
+    "lng": 26.93619
+  },
+  {
+    "name": "Myazhysyatki",
+    "country": "BY",
+    "lat": 53.7776,
+    "lng": 30.1765
+  },
+  {
+    "name": "Myan-Gokro",
+    "country": "CI",
+    "lat": 8.00934,
+    "lng": -5.41871
+  },
+  {
+    "name": "Mylau",
+    "country": "DE",
+    "lat": 50.61861,
+    "lng": 12.26535
+  },
+  {
+    "name": "Myllytulli",
+    "country": "FI",
+    "lat": 65.01578,
+    "lng": 25.48313
+  },
+  {
+    "name": "Myrskylä",
+    "country": "FI",
+    "lat": 60.66965,
+    "lng": 25.8475
+  },
+  {
+    "name": "Mynämäki",
+    "country": "FI",
+    "lat": 60.67915,
+    "lng": 21.99274
+  },
+  {
+    "name": "Myyrmäki",
+    "country": "FI",
+    "lat": 60.26711,
+    "lng": 24.84713
+  },
+  {
+    "name": "Myllypuro",
+    "country": "FI",
+    "lat": 60.22207,
+    "lng": 25.06741
+  },
+  {
+    "name": "Myllyoja",
+    "country": "FI",
+    "lat": 65.01908,
+    "lng": 25.55286
+  },
+  {
+    "name": "Myllymäki",
+    "country": "FI",
+    "lat": 60.9616,
+    "lng": 28.0304
+  },
+  {
+    "name": "Mytholmroyd",
+    "country": "GB",
+    "lat": 53.73065,
+    "lng": -1.98258
+  },
+  {
+    "name": "Mytchett",
+    "country": "GB",
+    "lat": 51.2882,
+    "lng": -0.72866
+  },
+  {
+    "name": "Mylor Bridge",
+    "country": "GB",
+    "lat": 50.18506,
+    "lng": -5.07963
+  },
+  {
+    "name": "Mytilinioí",
+    "country": "GR",
+    "lat": 37.72716,
+    "lng": 26.90747
+  },
+  {
+    "name": "Mytilene",
+    "country": "GR",
+    "lat": 39.10772,
+    "lng": 26.55529
+  },
+  {
+    "name": "Mytikas",
+    "country": "GR",
+    "lat": 38.44373,
+    "lng": 23.65365
+  },
+  {
+    "name": "Mystrás",
+    "country": "GR",
+    "lat": 37.06853,
+    "lng": 22.37216
+  },
+  {
+    "name": "Myrsíni",
+    "country": "GR",
+    "lat": 37.92117,
+    "lng": 21.237
+  },
+  {
+    "name": "Mykonos",
+    "country": "GR",
+    "lat": 37.44529,
+    "lng": 25.32872
+  },
+  {
+    "name": "Mysuru",
+    "country": "IN",
+    "lat": 12.29791,
+    "lng": 76.63925
+  },
+  {
+    "name": "Myoko",
+    "country": "JP",
+    "lat": 37.02534,
+    "lng": 138.25561
+  },
+  {
+    "name": "Myōden",
+    "country": "JP",
+    "lat": 35.69355,
+    "lng": 139.92902
+  },
+  {
+    "name": "Myŏngch’ŏn",
+    "country": "KP",
+    "lat": 41.07056,
+    "lng": 129.42917
+  },
+  {
+    "name": "Myŏnggan-dong",
+    "country": "KP",
+    "lat": 41.13722,
+    "lng": 129.49472
+  },
+  {
+    "name": "Myoryang",
+    "country": "KR",
+    "lat": 35.25755,
+    "lng": 126.54315
+  },
+  {
+    "name": "Myrzakent",
+    "country": "KZ",
+    "lat": 40.66338,
+    "lng": 68.5451
+  },
+  {
+    "name": "Mynaral",
+    "country": "KZ",
+    "lat": 45.44344,
+    "lng": 73.65453
+  },
+  {
+    "name": "My Drarga",
+    "country": "MA",
+    "lat": 30.37733,
+    "lng": -9.47342
+  },
+  {
+    "name": "Myitkyina",
+    "country": "MM",
+    "lat": 25.38327,
+    "lng": 97.39637
+  },
+  {
+    "name": "Myingyan",
+    "country": "MM",
+    "lat": 21.46002,
+    "lng": 95.3884
+  },
+  {
+    "name": "Myawadi",
+    "country": "MM",
+    "lat": 16.68911,
+    "lng": 98.50893
+  },
+  {
+    "name": "Myaungmya",
+    "country": "MM",
+    "lat": 16.59875,
+    "lng": 94.92111
+  },
+  {
+    "name": "Myanaung",
+    "country": "MM",
+    "lat": 18.28651,
+    "lng": 95.32014
+  },
+  {
+    "name": "Myeik",
+    "country": "MM",
+    "lat": 12.43954,
+    "lng": 98.60028
+  },
+  {
+    "name": "Myaydo",
+    "country": "MM",
+    "lat": 19.36838,
+    "lng": 95.21512
+  },
+  {
+    "name": "Mysen",
+    "country": "NO",
+    "lat": 59.55354,
+    "lng": 11.32578
+  },
+  {
+    "name": "Myre",
+    "country": "NO",
+    "lat": 69.10588,
+    "lng": 15.96308
+  },
+  {
+    "name": "Myra",
+    "country": "NO",
+    "lat": 58.74921,
+    "lng": 8.86254
+  },
+  {
+    "name": "Myre",
+    "country": "NO",
+    "lat": 68.914,
+    "lng": 15.07843
+  },
+  {
+    "name": "Myszyniec",
+    "country": "PL",
+    "lat": 53.38055,
+    "lng": 21.34961
+  },
+  {
+    "name": "Mysiadło",
+    "country": "PL",
+    "lat": 52.10216,
+    "lng": 21.01856
+  },
+  {
+    "name": "Myszków",
+    "country": "PL",
+    "lat": 50.5752,
+    "lng": 19.32461
+  },
+  {
+    "name": "Mysłowice",
+    "country": "PL",
+    "lat": 50.20745,
+    "lng": 19.16668
+  },
+  {
+    "name": "Myślibórz",
+    "country": "PL",
+    "lat": 52.92382,
+    "lng": 14.86785
+  },
+  {
+    "name": "Myślenice",
+    "country": "PL",
+    "lat": 49.83383,
+    "lng": 19.9383
+  },
+  {
+    "name": "Mysłakowice",
+    "country": "PL",
+    "lat": 50.84123,
+    "lng": 15.77894
+  },
+  {
+    "name": "Myślachowice",
+    "country": "PL",
+    "lat": 50.18514,
+    "lng": 19.48116
+  },
+  {
+    "name": "Mykanów",
+    "country": "PL",
+    "lat": 50.9236,
+    "lng": 19.2005
+  },
+  {
+    "name": "Myurego",
+    "country": "RU",
+    "lat": 42.41087,
+    "lng": 47.69304
+  },
+  {
+    "name": "Mytishchi",
+    "country": "RU",
+    "lat": 55.91099,
+    "lng": 37.72964
+  },
+  {
+    "name": "Myskhako",
+    "country": "RU",
+    "lat": 44.66147,
+    "lng": 37.76406
+  },
+  {
+    "name": "Myshkin",
+    "country": "RU",
+    "lat": 57.79027,
+    "lng": 38.454
+  },
+  {
+    "name": "Myatlevo",
+    "country": "RU",
+    "lat": 54.89693,
+    "lng": 35.67619
+  },
+  {
+    "name": "Myaksa",
+    "country": "RU",
+    "lat": 58.8889,
+    "lng": 38.1938
+  },
+  {
+    "name": "Myski",
+    "country": "RU",
+    "lat": 53.71631,
+    "lng": 87.79652
+  },
+  {
+    "name": "Mys-Kamennyy",
+    "country": "RU",
+    "lat": 68.45972,
+    "lng": 73.59028
+  },
+  {
+    "name": "Myaundzha",
+    "country": "RU",
+    "lat": 63.04421,
+    "lng": 147.1821
+  },
+  {
+    "name": "Myggenäs",
+    "country": "SE",
+    "lat": 58.06176,
+    "lng": 11.74936
+  },
+  {
+    "name": "Myjava",
+    "country": "SK",
+    "lat": 48.75876,
+    "lng": 17.56866
+  },
+  {
+    "name": "Mykhaylivka",
+    "country": "UA",
+    "lat": 47.13689,
+    "lng": 31.62523
+  },
+  {
+    "name": "Mykolayivka-Novorosiyska",
+    "country": "UA",
+    "lat": 46.13444,
+    "lng": 29.90417
+  },
+  {
+    "name": "Mykolaivka",
+    "country": "UA",
+    "lat": 48.85461,
+    "lng": 37.7728
+  },
+  {
+    "name": "Mykolaivka",
+    "country": "UA",
+    "lat": 47.75293,
+    "lng": 32.84704
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA",
+    "lat": 47.53898,
+    "lng": 30.76007
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA",
+    "lat": 47.53673,
+    "lng": 30.24611
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA",
+    "lat": 46.37305,
+    "lng": 29.40531
+  },
+  {
+    "name": "Mykolaivka",
+    "country": "UA",
+    "lat": 46.30549,
+    "lng": 30.33226
+  },
+  {
+    "name": "Mykolayivka",
+    "country": "UA",
+    "lat": 45.90706,
+    "lng": 30.22221
+  },
+  {
+    "name": "Mysovoe",
+    "country": "UA",
+    "lat": 45.44788,
+    "lng": 35.83528
+  },
+  {
+    "name": "Mylove",
+    "country": "UA",
+    "lat": 47.06688,
+    "lng": 33.63018
+  },
+  {
+    "name": "Mykolaiv",
+    "country": "UA",
+    "lat": 49.52659,
+    "lng": 23.98138
+  },
+  {
+    "name": "Mykolayiv",
+    "country": "UA",
+    "lat": 46.97625,
+    "lng": 31.99296
+  },
+  {
+    "name": "Myrivka",
+    "country": "UA",
+    "lat": 49.92974,
+    "lng": 30.62215
+  },
+  {
+    "name": "Myropillia",
+    "country": "UA",
+    "lat": 51.023,
+    "lng": 35.26233
+  },
+  {
+    "name": "Myronivka",
+    "country": "UA",
+    "lat": 49.66007,
+    "lng": 30.98225
+  },
+  {
+    "name": "Myrne",
+    "country": "UA",
+    "lat": 47.42542,
+    "lng": 37.73284
+  },
+  {
+    "name": "Myrne",
+    "country": "UA",
+    "lat": 46.4681,
+    "lng": 30.37136
+  },
+  {
+    "name": "Myrne",
+    "country": "UA",
+    "lat": 46.25004,
+    "lng": 33.46561
+  },
+  {
+    "name": "Myrnopillia",
+    "country": "UA",
+    "lat": 46.0584,
+    "lng": 29.39282
+  },
+  {
+    "name": "Myrhorod",
+    "country": "UA",
+    "lat": 49.96464,
+    "lng": 33.60861
+  },
+  {
+    "name": "Mynai",
+    "country": "UA",
+    "lat": 48.5888,
+    "lng": 22.27502
+  },
+  {
+    "name": "Myloradove",
+    "country": "UA",
+    "lat": 49.82238,
+    "lng": 34.75309
+  },
+  {
+    "name": "Mykulyntsi",
+    "country": "UA",
+    "lat": 49.39187,
+    "lng": 25.60685
+  },
+  {
+    "name": "Mykhailivka",
+    "country": "UA",
+    "lat": 49.3011,
+    "lng": 34.86553
+  },
+  {
+    "name": "Mykhaylivka",
+    "country": "UA",
+    "lat": 47.26863,
+    "lng": 35.22207
+  },
+  {
+    "name": "Mykhaylivka",
+    "country": "UA",
+    "lat": 45.94961,
+    "lng": 29.69661
+  },
+  {
+    "name": "Mykhaylo-Laryne",
+    "country": "UA",
+    "lat": 47.10757,
+    "lng": 32.20426
+  },
+  {
+    "name": "Mykhailo-Kotsiubynske",
+    "country": "UA",
+    "lat": 51.45376,
+    "lng": 31.08035
+  },
+  {
+    "name": "Mykhalcha",
+    "country": "UA",
+    "lat": 48.24848,
+    "lng": 25.85207
+  },
+  {
+    "name": "Myhove",
+    "country": "UA",
+    "lat": 48.15612,
+    "lng": 25.37574
+  },
+  {
+    "name": "Myhiia",
+    "country": "UA",
+    "lat": 48.04001,
+    "lng": 30.95489
+  },
+  {
+    "name": "Myrnohrad",
+    "country": "UA",
+    "lat": 48.3099,
+    "lng": 37.26513
+  },
+  {
+    "name": "Myrne",
+    "country": "UA",
+    "lat": 45.58001,
+    "lng": 29.46065
+  },
+  {
+    "name": "Myrne",
+    "country": "UA",
+    "lat": 46.95033,
+    "lng": 35.4415
+  },
+  {
+    "name": "Mykolayivske",
+    "country": "UA",
+    "lat": 46.92924,
+    "lng": 32.1256
+  },
+  {
+    "name": "Myrtle Grove",
+    "country": "US",
+    "lat": 30.42103,
+    "lng": -87.30747
+  },
+  {
+    "name": "Myersville",
+    "country": "US",
+    "lat": 39.5051,
+    "lng": -77.56638
+  },
+  {
+    "name": "Myrtle Grove",
+    "country": "US",
+    "lat": 34.13462,
+    "lng": -77.88165
+  },
+  {
+    "name": "Mystic Island",
+    "country": "US",
+    "lat": 39.54428,
+    "lng": -74.38237
+  },
+  {
+    "name": "Myrtle Beach",
+    "country": "US",
+    "lat": 33.68906,
+    "lng": -78.88669
+  },
+  {
+    "name": "Mystic",
+    "country": "US",
+    "lat": 41.35427,
+    "lng": -71.96646
+  },
+  {
+    "name": "Myers Corner",
+    "country": "US",
+    "lat": 41.6062,
+    "lng": -73.87291
+  },
+  {
+    "name": "Myerstown",
+    "country": "US",
+    "lat": 40.37454,
+    "lng": -76.30273
+  },
+  {
+    "name": "Myrtletown",
+    "country": "US",
+    "lat": 40.78874,
+    "lng": -124.13034
+  },
+  {
+    "name": "Myrtle Creek",
+    "country": "US",
+    "lat": 43.02012,
+    "lng": -123.29312
+  },
+  {
+    "name": "Myrtle Point",
+    "country": "US",
+    "lat": 43.06483,
+    "lng": -124.13899
+  }
+]
