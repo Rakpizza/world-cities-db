@@ -1,0 +1,386 @@
+[
+  {
+    "name": "Hrazdan",
+    "country": "AM",
+    "lat": 40.5169,
+    "lng": 44.75591
+  },
+  {
+    "name": "Hreša",
+    "country": "BA",
+    "lat": 43.878,
+    "lng": 18.49699
+  },
+  {
+    "name": "Hrodna",
+    "country": "BY",
+    "lat": 53.6758,
+    "lng": 23.82887
+  },
+  {
+    "name": "Hrušovany u Brna",
+    "country": "CZ",
+    "lat": 49.03863,
+    "lng": 16.59429
+  },
+  {
+    "name": "Hrušovany nad Jevišovkou",
+    "country": "CZ",
+    "lat": 48.82991,
+    "lng": 16.40271
+  },
+  {
+    "name": "Hrušky",
+    "country": "CZ",
+    "lat": 48.79272,
+    "lng": 16.97404
+  },
+  {
+    "name": "Hroznová Lhota",
+    "country": "CZ",
+    "lat": 48.90784,
+    "lng": 17.41697
+  },
+  {
+    "name": "Hroznětín",
+    "country": "CZ",
+    "lat": 50.3094,
+    "lng": 12.8718
+  },
+  {
+    "name": "Hrotovice",
+    "country": "CZ",
+    "lat": 49.1077,
+    "lng": 16.06067
+  },
+  {
+    "name": "Hronov",
+    "country": "CZ",
+    "lat": 50.47968,
+    "lng": 16.1823
+  },
+  {
+    "name": "Hromnice",
+    "country": "CZ",
+    "lat": 49.84907,
+    "lng": 13.44146
+  },
+  {
+    "name": "Hrochův Týnec",
+    "country": "CZ",
+    "lat": 49.95946,
+    "lng": 15.91054
+  },
+  {
+    "name": "Hrob",
+    "country": "CZ",
+    "lat": 50.65919,
+    "lng": 13.72676
+  },
+  {
+    "name": "Hrdějovice",
+    "country": "CZ",
+    "lat": 49.01893,
+    "lng": 14.47857
+  },
+  {
+    "name": "Hranice",
+    "country": "CZ",
+    "lat": 50.30459,
+    "lng": 12.17577
+  },
+  {
+    "name": "Hranice",
+    "country": "CZ",
+    "lat": 49.54796,
+    "lng": 17.73469
+  },
+  {
+    "name": "Hradištko",
+    "country": "CZ",
+    "lat": 49.86828,
+    "lng": 14.40935
+  },
+  {
+    "name": "Hrádek nad Nisou",
+    "country": "CZ",
+    "lat": 50.85279,
+    "lng": 14.84455
+  },
+  {
+    "name": "Hrádek",
+    "country": "CZ",
+    "lat": 49.71316,
+    "lng": 13.65296
+  },
+  {
+    "name": "Hrádek",
+    "country": "CZ",
+    "lat": 49.61661,
+    "lng": 18.7372
+  },
+  {
+    "name": "Hrádek",
+    "country": "CZ",
+    "lat": 49.26127,
+    "lng": 13.4985
+  },
+  {
+    "name": "Hradec nad Svitavou",
+    "country": "CZ",
+    "lat": 49.71143,
+    "lng": 16.48058
+  },
+  {
+    "name": "Hradec Králové",
+    "country": "CZ",
+    "lat": 50.20923,
+    "lng": 15.83277
+  },
+  {
+    "name": "Hradec nad Moravicí",
+    "country": "CZ",
+    "lat": 49.87042,
+    "lng": 17.87843
+  },
+  {
+    "name": "Hrabyně",
+    "country": "CZ",
+    "lat": 49.88249,
+    "lng": 18.05483
+  },
+  {
+    "name": "Hrvatska Kostajnica",
+    "country": "HR",
+    "lat": 45.23167,
+    "lng": 16.53917
+  },
+  {
+    "name": "Hrvatski Leskovac",
+    "country": "HR",
+    "lat": 45.74327,
+    "lng": 15.88975
+  },
+  {
+    "name": "Hrvace",
+    "country": "HR",
+    "lat": 43.76333,
+    "lng": 16.615
+  },
+  {
+    "name": "Hreljin",
+    "country": "HR",
+    "lat": 45.2825,
+    "lng": 14.59917
+  },
+  {
+    "name": "Hrašćina",
+    "country": "HR",
+    "lat": 46.11061,
+    "lng": 16.22698
+  },
+  {
+    "name": "Hrašće Turopoljsko",
+    "country": "HR",
+    "lat": 45.73042,
+    "lng": 16.00518
+  },
+  {
+    "name": "Hrvatska Dubica",
+    "country": "HR",
+    "lat": 45.19111,
+    "lng": 16.80028
+  },
+  {
+    "name": "Hrašćica",
+    "country": "HR",
+    "lat": 46.32494,
+    "lng": 16.29427
+  },
+  {
+    "name": "Hrajel",
+    "country": "LB",
+    "lat": 34.01722,
+    "lng": 35.79244
+  },
+  {
+    "name": "Hryhoriopol",
+    "country": "MD",
+    "lat": 47.15413,
+    "lng": 29.30008
+  },
+  {
+    "name": "Hrubieszów",
+    "country": "PL",
+    "lat": 50.80502,
+    "lng": 23.89251
+  },
+  {
+    "name": "Hrtkovci",
+    "country": "RS",
+    "lat": 44.88155,
+    "lng": 19.76374
+  },
+  {
+    "name": "Hrvatini",
+    "country": "SI",
+    "lat": 45.58278,
+    "lng": 13.75667
+  },
+  {
+    "name": "Hrušica",
+    "country": "SI",
+    "lat": 46.445,
+    "lng": 14.01778
+  },
+  {
+    "name": "Hrpelje",
+    "country": "SI",
+    "lat": 45.60722,
+    "lng": 13.94278
+  },
+  {
+    "name": "Hrib-Loški Potok",
+    "country": "SI",
+    "lat": 45.70688,
+    "lng": 14.61674
+  },
+  {
+    "name": "Hrastnik",
+    "country": "SI",
+    "lat": 46.14655,
+    "lng": 15.08456
+  },
+  {
+    "name": "Hrastje",
+    "country": "SI",
+    "lat": 46.21667,
+    "lng": 14.4
+  },
+  {
+    "name": "Hrubý Šúr",
+    "country": "SK",
+    "lat": 48.17041,
+    "lng": 17.42086
+  },
+  {
+    "name": "Hrubá Borša",
+    "country": "SK",
+    "lat": 48.18135,
+    "lng": 17.48266
+  },
+  {
+    "name": "Hrochoť",
+    "country": "SK",
+    "lat": 48.65567,
+    "lng": 19.31284
+  },
+  {
+    "name": "Hriňová",
+    "country": "SK",
+    "lat": 48.57787,
+    "lng": 19.52574
+  },
+  {
+    "name": "Hreyhove",
+    "country": "UA",
+    "lat": 47.11433,
+    "lng": 32.30029
+  },
+  {
+    "name": "Hrushivka",
+    "country": "UA",
+    "lat": 48.18022,
+    "lng": 25.96726
+  },
+  {
+    "name": "Hradenytsi",
+    "country": "UA",
+    "lat": 46.59691,
+    "lng": 30.00244
+  },
+  {
+    "name": "Hrubna",
+    "country": "UA",
+    "lat": 48.45568,
+    "lng": 27.07309
+  },
+  {
+    "name": "Hrozyntsi",
+    "country": "UA",
+    "lat": 48.42517,
+    "lng": 26.14864
+  },
+  {
+    "name": "Hrodivka",
+    "country": "UA",
+    "lat": 48.26196,
+    "lng": 37.38118
+  },
+  {
+    "name": "Hrytsiv",
+    "country": "UA",
+    "lat": 49.97186,
+    "lng": 27.21687
+  },
+  {
+    "name": "Hryshkivtsi",
+    "country": "UA",
+    "lat": 49.93634,
+    "lng": 28.60472
+  },
+  {
+    "name": "Hryshyne",
+    "country": "UA",
+    "lat": 48.32759,
+    "lng": 37.08055
+  },
+  {
+    "name": "Hrymailiv",
+    "country": "UA",
+    "lat": 49.32962,
+    "lng": 26.0139
+  },
+  {
+    "name": "Hryhorivka",
+    "country": "UA",
+    "lat": 47.69431,
+    "lng": 35.35698
+  },
+  {
+    "name": "Hremiach",
+    "country": "UA",
+    "lat": 52.34006,
+    "lng": 33.28482
+  },
+  {
+    "name": "Hrebinka",
+    "country": "UA",
+    "lat": 50.12017,
+    "lng": 32.42966
+  },
+  {
+    "name": "Hrebenyky",
+    "country": "UA",
+    "lat": 46.88964,
+    "lng": 29.80864
+  },
+  {
+    "name": "Hradyzk",
+    "country": "UA",
+    "lat": 49.23943,
+    "lng": 33.13941
+  },
+  {
+    "name": "Hrabove",
+    "country": "UA",
+    "lat": 48.02341,
+    "lng": 29.03594
+  },
+  {
+    "name": "Hrushivka",
+    "country": "UA",
+    "lat": 48.02453,
+    "lng": 30.93492
+  }
+]

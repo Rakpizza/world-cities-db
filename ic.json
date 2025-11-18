@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Icaño",
+    "country": "AR",
+    "lat": -28.91946,
+    "lng": -65.33023
+  },
+  {
+    "name": "Ichtegem",
+    "country": "BE",
+    "lat": 51.09572,
+    "lng": 3.01549
+  },
+  {
+    "name": "Icó",
+    "country": "BR",
+    "lat": -6.40111,
+    "lng": -38.86222
+  },
+  {
+    "name": "Icatu",
+    "country": "BR",
+    "lat": -2.77583,
+    "lng": -44.06583
+  },
+  {
+    "name": "Icapuí",
+    "country": "BR",
+    "lat": -4.71306,
+    "lng": -37.35528
+  },
+  {
+    "name": "Iconha",
+    "country": "BR",
+    "lat": -20.79306,
+    "lng": -40.81111
+  },
+  {
+    "name": "Ichu",
+    "country": "BR",
+    "lat": -11.74861,
+    "lng": -39.19222
+  },
+  {
+    "name": "Icém",
+    "country": "BR",
+    "lat": -20.34167,
+    "lng": -49.195
+  },
+  {
+    "name": "Icaraíma",
+    "country": "BR",
+    "lat": -23.39556,
+    "lng": -53.61389
+  },
+  {
+    "name": "Icaraí de Minas",
+    "country": "BR",
+    "lat": -16.21824,
+    "lng": -44.90273
+  },
+  {
+    "name": "Icononzo",
+    "country": "CO",
+    "lat": 4.17698,
+    "lng": -74.53254
+  },
+  {
+    "name": "Icking",
+    "country": "DE",
+    "lat": 47.95,
+    "lng": 11.43333
+  },
+  {
+    "name": "Ichtershausen",
+    "country": "DE",
+    "lat": 50.87602,
+    "lng": 10.97028
+  },
+  {
+    "name": "Ichenheim",
+    "country": "DE",
+    "lat": 48.43318,
+    "lng": 7.81062
+  },
+  {
+    "name": "Ichenhausen",
+    "country": "DE",
+    "lat": 48.37119,
+    "lng": 10.30706
+  },
+  {
+    "name": "Icod de los Vinos",
+    "country": "ES",
+    "lat": 28.37241,
+    "lng": -16.71188
+  },
+  {
+    "name": "Ickenham",
+    "country": "GB",
+    "lat": 51.56433,
+    "lng": -0.44373
+  },
+  {
+    "name": "Ichora",
+    "country": "IN",
+    "lat": 19.42966,
+    "lng": 78.45285
+  },
+  {
+    "name": "Ichhāwar",
+    "country": "IN",
+    "lat": 23.02816,
+    "lng": 77.01729
+  },
+  {
+    "name": "Ichchāpuram",
+    "country": "IN",
+    "lat": 19.11393,
+    "lng": 84.68721
+  },
+  {
+    "name": "Ichalkaranji",
+    "country": "IN",
+    "lat": 16.69117,
+    "lng": 74.46054
+  },
+  {
+    "name": "Icchannūr",
+    "country": "IN",
+    "lat": 11.36148,
+    "lng": 75.77819
+  },
+  {
+    "name": "Ichchhapor",
+    "country": "IN",
+    "lat": 21.19307,
+    "lng": 72.73651
+  },
+  {
+    "name": "Ichinomiya",
+    "country": "JP",
+    "lat": 35.3,
+    "lng": 136.8
+  },
+  {
+    "name": "Ichikawadaimon",
+    "country": "JP",
+    "lat": 35.56667,
+    "lng": 138.5
+  },
+  {
+    "name": "Ichigaya-honmurachō",
+    "country": "JP",
+    "lat": 35.69437,
+    "lng": 139.72857
+  },
+  {
+    "name": "Ichiba",
+    "country": "JP",
+    "lat": 35.55,
+    "lng": 138.05
+  },
+  {
+    "name": "Ichiba",
+    "country": "JP",
+    "lat": 35.55,
+    "lng": 137.9
+  },
+  {
+    "name": "Ichinoseki",
+    "country": "JP",
+    "lat": 38.91667,
+    "lng": 141.13333
+  },
+  {
+    "name": "Ichinomiya",
+    "country": "JP",
+    "lat": 35.37211,
+    "lng": 140.37998
+  },
+  {
+    "name": "Ichihara",
+    "country": "JP",
+    "lat": 35.51667,
+    "lng": 140.08333
+  },
+  {
+    "name": "Ichinohe",
+    "country": "JP",
+    "lat": 40.21965,
+    "lng": 141.28986
+  },
+  {
+    "name": "Ichikawa-minami",
+    "country": "JP",
+    "lat": 35.72634,
+    "lng": 139.90392
+  },
+  {
+    "name": "Ichinoe",
+    "country": "JP",
+    "lat": 35.69137,
+    "lng": 139.88254
+  },
+  {
+    "name": "Ichikikushikino",
+    "country": "JP",
+    "lat": 31.72934,
+    "lng": 130.29305
+  },
+  {
+    "name": "Ichikawa",
+    "country": "JP",
+    "lat": 35.73413,
+    "lng": 139.9065
+  },
+  {
+    "name": "Ichikai",
+    "country": "JP",
+    "lat": 36.5433,
+    "lng": 140.10204
+  },
+  {
+    "name": "Icheon-si",
+    "country": "KR",
+    "lat": 37.27917,
+    "lng": 127.4425
+  },
+  {
+    "name": "Icxotitla",
+    "country": "MX",
+    "lat": 20.24253,
+    "lng": -98.10069
+  },
+  {
+    "name": "Ichán",
+    "country": "MX",
+    "lat": 19.85806,
+    "lng": -102.05417
+  },
+  {
+    "name": "Icheu",
+    "country": "NG",
+    "lat": 7.7067,
+    "lng": 6.7718
+  },
+  {
+    "name": "Ichocán",
+    "country": "PE",
+    "lat": -7.36837,
+    "lng": -78.13042
+  },
+  {
+    "name": "Ichupampa",
+    "country": "PE",
+    "lat": -15.64979,
+    "lng": -71.68692
+  },
+  {
+    "name": "Ichuña",
+    "country": "PE",
+    "lat": -16.15,
+    "lng": -70.56667
+  },
+  {
+    "name": "Ica",
+    "country": "PE",
+    "lat": -14.07538,
+    "lng": -75.73422
+  },
+  {
+    "name": "Ichon",
+    "country": "PH",
+    "lat": 10.09495,
+    "lng": 124.90168
+  },
+  {
+    "name": "Icuseşti",
+    "country": "RO",
+    "lat": 46.8,
+    "lng": 26.93333
+  },
+  {
+    "name": "Icușeni",
+    "country": "RO",
+    "lat": 47.59269,
+    "lng": 26.59605
+  },
+  {
+    "name": "Icoana",
+    "country": "RO",
+    "lat": 44.49309,
+    "lng": 25.74623
+  },
+  {
+    "name": "Icoana",
+    "country": "RO",
+    "lat": 44.41667,
+    "lng": 24.71667
+  },
+  {
+    "name": "Iclod",
+    "country": "RO",
+    "lat": 46.98333,
+    "lng": 23.8
+  },
+  {
+    "name": "Iclănzel",
+    "country": "RO",
+    "lat": 46.53333,
+    "lng": 24.28333
+  },
+  {
+    "name": "Ichnia",
+    "country": "UA",
+    "lat": 50.86258,
+    "lng": 32.39425
+  },
+  {
+    "name": "Icard",
+    "country": "US",
+    "lat": 35.72735,
+    "lng": -81.47065
+  },
+  {
+    "name": "Ich Hau",
+    "country": "VN",
+    "lat": 18.45,
+    "lng": 105.85
+  }
+]

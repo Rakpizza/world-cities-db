@@ -1,0 +1,4796 @@
+[
+  {
+    "name": "Jawand",
+    "country": "AF",
+    "lat": 35.06361,
+    "lng": 64.14917
+  },
+  {
+    "name": "Jalrēz",
+    "country": "AF",
+    "lat": 34.4708,
+    "lng": 68.65438
+  },
+  {
+    "name": "Jalālābād",
+    "country": "AF",
+    "lat": 34.42647,
+    "lng": 70.45153
+  },
+  {
+    "name": "Jabal os Saraj",
+    "country": "AF",
+    "lat": 35.11833,
+    "lng": 69.23778
+  },
+  {
+    "name": "Janfida",
+    "country": "AM",
+    "lat": 40.04449,
+    "lng": 44.02789
+  },
+  {
+    "name": "Jamba",
+    "country": "AO",
+    "lat": -17.5,
+    "lng": 22.66667
+  },
+  {
+    "name": "Jardín América",
+    "country": "AR",
+    "lat": -27.04346,
+    "lng": -55.22698
+  },
+  {
+    "name": "James Craik",
+    "country": "AR",
+    "lat": -32.16145,
+    "lng": -63.4679
+  },
+  {
+    "name": "Jacinto Aráuz",
+    "country": "AR",
+    "lat": -38.08545,
+    "lng": -63.43027
+  },
+  {
+    "name": "Japons",
+    "country": "AT",
+    "lat": 48.7925,
+    "lng": 15.56831
+  },
+  {
+    "name": "Jaidhof",
+    "country": "AT",
+    "lat": 48.53333,
+    "lng": 15.48333
+  },
+  {
+    "name": "Jagerberg",
+    "country": "AT",
+    "lat": 46.85361,
+    "lng": 15.73806
+  },
+  {
+    "name": "Jabing",
+    "country": "AT",
+    "lat": 47.2388,
+    "lng": 16.27659
+  },
+  {
+    "name": "Jakomini",
+    "country": "AT",
+    "lat": 47.05441,
+    "lng": 15.44984
+  },
+  {
+    "name": "Jarrahdale",
+    "country": "AU",
+    "lat": -32.3358,
+    "lng": 116.05951
+  },
+  {
+    "name": "Jamestown",
+    "country": "AU",
+    "lat": -33.20531,
+    "lng": 138.60503
+  },
+  {
+    "name": "Jannali",
+    "country": "AU",
+    "lat": -34.01643,
+    "lng": 151.06065
+  },
+  {
+    "name": "Jandowae",
+    "country": "AU",
+    "lat": -26.78411,
+    "lng": 151.1124
+  },
+  {
+    "name": "Jamberoo",
+    "country": "AU",
+    "lat": -34.64745,
+    "lng": 150.77464
+  },
+  {
+    "name": "Jabiru",
+    "country": "AU",
+    "lat": -12.67049,
+    "lng": 132.83604
+  },
+  {
+    "name": "Jacobs Well",
+    "country": "AU",
+    "lat": -27.77992,
+    "lng": 153.36153
+  },
+  {
+    "name": "Jamboree Heights",
+    "country": "AU",
+    "lat": -27.55634,
+    "lng": 152.93402
+  },
+  {
+    "name": "Jackass Flat",
+    "country": "AU",
+    "lat": -36.71589,
+    "lng": 144.28597
+  },
+  {
+    "name": "Jamisontown",
+    "country": "AU",
+    "lat": -33.76797,
+    "lng": 150.67681
+  },
+  {
+    "name": "Jandakot",
+    "country": "AU",
+    "lat": -32.10158,
+    "lng": 115.87083
+  },
+  {
+    "name": "Jacana",
+    "country": "AU",
+    "lat": -37.68778,
+    "lng": 144.91111
+  },
+  {
+    "name": "Jan Juc",
+    "country": "AU",
+    "lat": -38.34455,
+    "lng": 144.29518
+  },
+  {
+    "name": "Jane Brook",
+    "country": "AU",
+    "lat": -31.86368,
+    "lng": 116.05039
+  },
+  {
+    "name": "Jalilabad",
+    "country": "AZ",
+    "lat": 39.20963,
+    "lng": 48.49186
+  },
+  {
+    "name": "Janja",
+    "country": "BA",
+    "lat": 44.66554,
+    "lng": 19.24691
+  },
+  {
+    "name": "Jajce",
+    "country": "BA",
+    "lat": 44.34203,
+    "lng": 17.27059
+  },
+  {
+    "name": "Jablanica",
+    "country": "BA",
+    "lat": 43.66028,
+    "lng": 17.76167
+  },
+  {
+    "name": "Jamālpur",
+    "country": "BD",
+    "lat": 24.91965,
+    "lng": 89.94812
+  },
+  {
+    "name": "Jahedpur",
+    "country": "BD",
+    "lat": 24.83333,
+    "lng": 91.65
+  },
+  {
+    "name": "Jauche",
+    "country": "BE",
+    "lat": 50.68136,
+    "lng": 4.95563
+  },
+  {
+    "name": "Jandrain-Jandrenouille",
+    "country": "BE",
+    "lat": 50.67177,
+    "lng": 4.97801
+  },
+  {
+    "name": "Jamoigne",
+    "country": "BE",
+    "lat": 49.69328,
+    "lng": 5.40906
+  },
+  {
+    "name": "Jamioulx",
+    "country": "BE",
+    "lat": 50.35296,
+    "lng": 4.41281
+  },
+  {
+    "name": "Jambes",
+    "country": "BE",
+    "lat": 50.45636,
+    "lng": 4.87166
+  },
+  {
+    "name": "Jalhay",
+    "country": "BE",
+    "lat": 50.55876,
+    "lng": 5.96764
+  },
+  {
+    "name": "Jabbeke",
+    "country": "BE",
+    "lat": 51.18185,
+    "lng": 3.08935
+  },
+  {
+    "name": "Jandrain",
+    "country": "BE",
+    "lat": 50.67438,
+    "lng": 4.98024
+  },
+  {
+    "name": "Jatobá",
+    "country": "BR",
+    "lat": -9.18306,
+    "lng": -38.26889
+  },
+  {
+    "name": "Jati",
+    "country": "BR",
+    "lat": -7.68853,
+    "lng": -39.00576
+  },
+  {
+    "name": "Jataúba",
+    "country": "BR",
+    "lat": -7.99,
+    "lng": -36.49639
+  },
+  {
+    "name": "Jardim do Seridó",
+    "country": "BR",
+    "lat": -6.58444,
+    "lng": -36.77444
+  },
+  {
+    "name": "Jardim de Piranhas",
+    "country": "BR",
+    "lat": -6.37861,
+    "lng": -37.35194
+  },
+  {
+    "name": "Jardim de Angicos",
+    "country": "BR",
+    "lat": -5.65361,
+    "lng": -35.96889
+  },
+  {
+    "name": "Jardim",
+    "country": "BR",
+    "lat": -7.5817,
+    "lng": -39.28348
+  },
+  {
+    "name": "Jardim",
+    "country": "BR",
+    "lat": -3.46444,
+    "lng": -39.05667
+  },
+  {
+    "name": "Jaramataia",
+    "country": "BR",
+    "lat": -9.65944,
+    "lng": -37.00194
+  },
+  {
+    "name": "Jaqueira",
+    "country": "BR",
+    "lat": -8.72667,
+    "lng": -35.79333
+  },
+  {
+    "name": "Japi",
+    "country": "BR",
+    "lat": -6.465,
+    "lng": -35.94667
+  },
+  {
+    "name": "Japaratinga",
+    "country": "BR",
+    "lat": -9.08833,
+    "lng": -35.25833
+  },
+  {
+    "name": "Janduís",
+    "country": "BR",
+    "lat": -6.01556,
+    "lng": -37.40889
+  },
+  {
+    "name": "Jandaíra",
+    "country": "BR",
+    "lat": -5.35639,
+    "lng": -36.12806
+  },
+  {
+    "name": "Jaicós",
+    "country": "BR",
+    "lat": -7.35917,
+    "lng": -41.13778
+  },
+  {
+    "name": "Jaguaruana",
+    "country": "BR",
+    "lat": -4.83389,
+    "lng": -37.78111
+  },
+  {
+    "name": "Jaguaribe",
+    "country": "BR",
+    "lat": -5.89056,
+    "lng": -38.62194
+  },
+  {
+    "name": "Jaguaribara",
+    "country": "BR",
+    "lat": -5.46033,
+    "lng": -38.46263
+  },
+  {
+    "name": "Jaguaretama",
+    "country": "BR",
+    "lat": -5.61278,
+    "lng": -38.76694
+  },
+  {
+    "name": "Jacundá",
+    "country": "BR",
+    "lat": -4.44696,
+    "lng": -49.11556
+  },
+  {
+    "name": "Jacuípe",
+    "country": "BR",
+    "lat": -8.84167,
+    "lng": -35.46
+  },
+  {
+    "name": "Jacobina do Piauí",
+    "country": "BR",
+    "lat": -7.93643,
+    "lng": -41.2113
+  },
+  {
+    "name": "Jacaré dos Homens",
+    "country": "BR",
+    "lat": -9.63556,
+    "lng": -37.20472
+  },
+  {
+    "name": "Jacareacanga",
+    "country": "BR",
+    "lat": -6.22222,
+    "lng": -57.75278
+  },
+  {
+    "name": "Jacaraú",
+    "country": "BR",
+    "lat": -6.61222,
+    "lng": -35.29278
+  },
+  {
+    "name": "Jaçanã",
+    "country": "BR",
+    "lat": -6.42583,
+    "lng": -36.205
+  },
+  {
+    "name": "Jaboatão",
+    "country": "BR",
+    "lat": -8.18028,
+    "lng": -35.00139
+  },
+  {
+    "name": "Janiópolis",
+    "country": "BR",
+    "lat": -24.14302,
+    "lng": -52.77798
+  },
+  {
+    "name": "Jaupaci",
+    "country": "BR",
+    "lat": -16.17806,
+    "lng": -50.95306
+  },
+  {
+    "name": "Jaú",
+    "country": "BR",
+    "lat": -22.29639,
+    "lng": -48.55778
+  },
+  {
+    "name": "Jateí",
+    "country": "BR",
+    "lat": -22.48194,
+    "lng": -54.3025
+  },
+  {
+    "name": "Jataizinho",
+    "country": "BR",
+    "lat": -23.25417,
+    "lng": -50.98
+  },
+  {
+    "name": "Jataí",
+    "country": "BR",
+    "lat": -17.87939,
+    "lng": -51.72166
+  },
+  {
+    "name": "Jarinu",
+    "country": "BR",
+    "lat": -23.10139,
+    "lng": -46.72833
+  },
+  {
+    "name": "Jari",
+    "country": "BR",
+    "lat": -29.29139,
+    "lng": -54.22389
+  },
+  {
+    "name": "Jardinópolis",
+    "country": "BR",
+    "lat": -21.01778,
+    "lng": -47.76389
+  },
+  {
+    "name": "Jardim Alegre",
+    "country": "BR",
+    "lat": -24.17917,
+    "lng": -51.69222
+  },
+  {
+    "name": "Jardim",
+    "country": "BR",
+    "lat": -21.48028,
+    "lng": -56.13806
+  },
+  {
+    "name": "Jaraguari",
+    "country": "BR",
+    "lat": -20.14167,
+    "lng": -54.39944
+  },
+  {
+    "name": "Jaraguá do Sul",
+    "country": "BR",
+    "lat": -26.48611,
+    "lng": -49.06667
+  },
+  {
+    "name": "Jaraguá",
+    "country": "BR",
+    "lat": -23.44077,
+    "lng": -46.73774
+  },
+  {
+    "name": "Jaraguá",
+    "country": "BR",
+    "lat": -15.75694,
+    "lng": -49.33444
+  },
+  {
+    "name": "Jaquirana",
+    "country": "BR",
+    "lat": -28.88472,
+    "lng": -50.35778
+  },
+  {
+    "name": "Japurá",
+    "country": "BR",
+    "lat": -23.47,
+    "lng": -52.55333
+  },
+  {
+    "name": "Japoatã",
+    "country": "BR",
+    "lat": -10.34667,
+    "lng": -36.80111
+  },
+  {
+    "name": "Japira",
+    "country": "BR",
+    "lat": -23.81306,
+    "lng": -50.13861
+  },
+  {
+    "name": "Japeri",
+    "country": "BR",
+    "lat": -22.64306,
+    "lng": -43.65333
+  },
+  {
+    "name": "Japaratuba",
+    "country": "BR",
+    "lat": -10.59333,
+    "lng": -36.94028
+  },
+  {
+    "name": "Japaraíba",
+    "country": "BR",
+    "lat": -20.14139,
+    "lng": -45.50333
+  },
+  {
+    "name": "Januária",
+    "country": "BR",
+    "lat": -15.47949,
+    "lng": -44.3652
+  },
+  {
+    "name": "Jangada",
+    "country": "BR",
+    "lat": -15.23556,
+    "lng": -56.48917
+  },
+  {
+    "name": "Jandira",
+    "country": "BR",
+    "lat": -23.5275,
+    "lng": -46.9025
+  },
+  {
+    "name": "Jandaíra",
+    "country": "BR",
+    "lat": -11.56417,
+    "lng": -37.78444
+  },
+  {
+    "name": "Jandaia do Sul",
+    "country": "BR",
+    "lat": -23.60306,
+    "lng": -51.64333
+  },
+  {
+    "name": "Jandaia",
+    "country": "BR",
+    "lat": -17.04861,
+    "lng": -50.14611
+  },
+  {
+    "name": "Janaúba",
+    "country": "BR",
+    "lat": -15.8025,
+    "lng": -43.30889
+  },
+  {
+    "name": "Jampruca",
+    "country": "BR",
+    "lat": -18.46278,
+    "lng": -41.80389
+  },
+  {
+    "name": "Jambeiro",
+    "country": "BR",
+    "lat": -23.25361,
+    "lng": -45.68778
+  },
+  {
+    "name": "Jales",
+    "country": "BR",
+    "lat": -20.26889,
+    "lng": -50.54583
+  },
+  {
+    "name": "Jaguaruna",
+    "country": "BR",
+    "lat": -28.62145,
+    "lng": -49.02529
+  },
+  {
+    "name": "Jaguariúna",
+    "country": "BR",
+    "lat": -22.70556,
+    "lng": -46.98583
+  },
+  {
+    "name": "Jaguaripe",
+    "country": "BR",
+    "lat": -13.11333,
+    "lng": -38.89556
+  },
+  {
+    "name": "Jaguariaíva",
+    "country": "BR",
+    "lat": -24.24423,
+    "lng": -49.70932
+  },
+  {
+    "name": "Jaguari",
+    "country": "BR",
+    "lat": -29.4975,
+    "lng": -54.69
+  },
+  {
+    "name": "Jaguarari",
+    "country": "BR",
+    "lat": -10.26389,
+    "lng": -40.19583
+  },
+  {
+    "name": "Jaguarão",
+    "country": "BR",
+    "lat": -32.56611,
+    "lng": -53.37583
+  },
+  {
+    "name": "Jaguaraçu",
+    "country": "BR",
+    "lat": -19.64917,
+    "lng": -42.74972
+  },
+  {
+    "name": "Jaguaquara",
+    "country": "BR",
+    "lat": -13.53056,
+    "lng": -39.97083
+  },
+  {
+    "name": "Jaguapitã",
+    "country": "BR",
+    "lat": -23.11278,
+    "lng": -51.53194
+  },
+  {
+    "name": "Jacutinga",
+    "country": "BR",
+    "lat": -27.72889,
+    "lng": -52.535
+  },
+  {
+    "name": "Jacutinga",
+    "country": "BR",
+    "lat": -22.28556,
+    "lng": -46.61222
+  },
+  {
+    "name": "Jacupiranga",
+    "country": "BR",
+    "lat": -24.6925,
+    "lng": -48.00222
+  },
+  {
+    "name": "Jacuizinho",
+    "country": "BR",
+    "lat": -29.03222,
+    "lng": -53.06333
+  },
+  {
+    "name": "Jacuí",
+    "country": "BR",
+    "lat": -21.01667,
+    "lng": -46.74111
+  },
+  {
+    "name": "Jacobina",
+    "country": "BR",
+    "lat": -11.18143,
+    "lng": -40.51372
+  },
+  {
+    "name": "Jacinto Machado",
+    "country": "BR",
+    "lat": -28.9975,
+    "lng": -49.76361
+  },
+  {
+    "name": "Jacinto",
+    "country": "BR",
+    "lat": -16.14444,
+    "lng": -40.29333
+  },
+  {
+    "name": "Jaciara",
+    "country": "BR",
+    "lat": -15.96528,
+    "lng": -54.96833
+  },
+  {
+    "name": "Jaci",
+    "country": "BR",
+    "lat": -20.88222,
+    "lng": -49.57
+  },
+  {
+    "name": "Jacarezinho",
+    "country": "BR",
+    "lat": -23.16056,
+    "lng": -49.96944
+  },
+  {
+    "name": "Jacareí",
+    "country": "BR",
+    "lat": -23.30528,
+    "lng": -45.96583
+  },
+  {
+    "name": "Jaguaré",
+    "country": "BR",
+    "lat": -18.90556,
+    "lng": -40.07611
+  },
+  {
+    "name": "Jacaraci",
+    "country": "BR",
+    "lat": -14.84972,
+    "lng": -42.43333
+  },
+  {
+    "name": "Jaboticabal",
+    "country": "BR",
+    "lat": -21.25472,
+    "lng": -48.32222
+  },
+  {
+    "name": "Jaboticaba",
+    "country": "BR",
+    "lat": -27.63083,
+    "lng": -53.27722
+  },
+  {
+    "name": "Jaboticatubas",
+    "country": "BR",
+    "lat": -19.51361,
+    "lng": -43.745
+  },
+  {
+    "name": "Jaboti",
+    "country": "BR",
+    "lat": -23.74333,
+    "lng": -50.07583
+  },
+  {
+    "name": "Jaborandi",
+    "country": "BR",
+    "lat": -20.68806,
+    "lng": -48.4125
+  },
+  {
+    "name": "Jaborá",
+    "country": "BR",
+    "lat": -27.17583,
+    "lng": -51.73361
+  },
+  {
+    "name": "Jaú do Tocantins",
+    "country": "BR",
+    "lat": -12.655,
+    "lng": -48.59333
+  },
+  {
+    "name": "Japurá",
+    "country": "BR",
+    "lat": -1.82611,
+    "lng": -66.59889
+  },
+  {
+    "name": "Jaru",
+    "country": "BR",
+    "lat": -10.43889,
+    "lng": -62.46639
+  },
+  {
+    "name": "Jaboatão dos Guararapes",
+    "country": "BR",
+    "lat": -8.11278,
+    "lng": -35.01472
+  },
+  {
+    "name": "Jaíba",
+    "country": "BR",
+    "lat": -15.33833,
+    "lng": -43.67444
+  },
+  {
+    "name": "Japonvar",
+    "country": "BR",
+    "lat": -15.99472,
+    "lng": -44.27
+  },
+  {
+    "name": "Japorã",
+    "country": "BR",
+    "lat": -23.89111,
+    "lng": -54.40417
+  },
+  {
+    "name": "Jardim do Mulato",
+    "country": "BR",
+    "lat": -6.09889,
+    "lng": -42.63028
+  },
+  {
+    "name": "Jardim Olinda",
+    "country": "BR",
+    "lat": -22.54972,
+    "lng": -52.03639
+  },
+  {
+    "name": "Jardinópolis",
+    "country": "BR",
+    "lat": -26.72167,
+    "lng": -52.85972
+  },
+  {
+    "name": "Jatobá",
+    "country": "BR",
+    "lat": -5.81667,
+    "lng": -44.22333
+  },
+  {
+    "name": "Jatobá do Piauí",
+    "country": "BR",
+    "lat": -4.77111,
+    "lng": -41.81778
+  },
+  {
+    "name": "Jauru",
+    "country": "BR",
+    "lat": -15.34194,
+    "lng": -58.86639
+  },
+  {
+    "name": "Jardim Paulista",
+    "country": "BR",
+    "lat": -23.56675,
+    "lng": -46.66439
+  },
+  {
+    "name": "Jaçanã",
+    "country": "BR",
+    "lat": -23.46013,
+    "lng": -46.5749
+  },
+  {
+    "name": "Jaguara",
+    "country": "BR",
+    "lat": -23.51103,
+    "lng": -46.74713
+  },
+  {
+    "name": "Jabaquara",
+    "country": "BR",
+    "lat": -23.65055,
+    "lng": -46.64591
+  },
+  {
+    "name": "Jardim Angela",
+    "country": "BR",
+    "lat": -23.71636,
+    "lng": -46.76872
+  },
+  {
+    "name": "Jaguare",
+    "country": "BR",
+    "lat": -23.54382,
+    "lng": -46.74871
+  },
+  {
+    "name": "Jardim Helena",
+    "country": "BR",
+    "lat": -23.4837,
+    "lng": -46.41309
+  },
+  {
+    "name": "Jardim Sao Luis",
+    "country": "BR",
+    "lat": -23.68073,
+    "lng": -46.7394
+  },
+  {
+    "name": "Jardim Botânico",
+    "country": "BR",
+    "lat": -15.86527,
+    "lng": -47.81477
+  },
+  {
+    "name": "Jaborandi",
+    "country": "BR",
+    "lat": -13.62034,
+    "lng": -44.46968
+  },
+  {
+    "name": "Jakar",
+    "country": "BT",
+    "lat": 27.54918,
+    "lng": 90.7525
+  },
+  {
+    "name": "Janeng",
+    "country": "BW",
+    "lat": -25.41667,
+    "lng": 25.55
+  },
+  {
+    "name": "James Bay",
+    "country": "CA",
+    "lat": 48.41667,
+    "lng": -123.38333
+  },
+  {
+    "name": "Jarvis",
+    "country": "CA",
+    "lat": 42.88559,
+    "lng": -80.1122
+  },
+  {
+    "name": "Jasper Park Lodge",
+    "country": "CA",
+    "lat": 52.88633,
+    "lng": -118.05625
+  },
+  {
+    "name": "Jasper",
+    "country": "CA",
+    "lat": 52.87946,
+    "lng": -118.08041
+  },
+  {
+    "name": "Jacqueville",
+    "country": "CI",
+    "lat": 5.20515,
+    "lng": -4.4146
+  },
+  {
+    "name": "Jakiri",
+    "country": "CM",
+    "lat": 6.1,
+    "lng": 10.65
+  },
+  {
+    "name": "Jalai Nur",
+    "country": "CN",
+    "lat": 49.45,
+    "lng": 117.7
+  },
+  {
+    "name": "Jardín",
+    "country": "CO",
+    "lat": 5.59902,
+    "lng": -75.81976
+  },
+  {
+    "name": "Jamundí",
+    "country": "CO",
+    "lat": 3.26074,
+    "lng": -76.53499
+  },
+  {
+    "name": "Jambaló",
+    "country": "CO",
+    "lat": 2.77762,
+    "lng": -76.32444
+  },
+  {
+    "name": "Jacó",
+    "country": "CR",
+    "lat": 9.61497,
+    "lng": -84.62975
+  },
+  {
+    "name": "Jatibonico",
+    "country": "CU",
+    "lat": 21.94333,
+    "lng": -79.16906
+  },
+  {
+    "name": "Jaruco",
+    "country": "CU",
+    "lat": 23.04419,
+    "lng": -82.00919
+  },
+  {
+    "name": "Jamaica",
+    "country": "CU",
+    "lat": 22.97559,
+    "lng": -82.16852
+  },
+  {
+    "name": "Jagüey Grande",
+    "country": "CU",
+    "lat": 22.52694,
+    "lng": -81.12861
+  },
+  {
+    "name": "Javorník",
+    "country": "CZ",
+    "lat": 50.39077,
+    "lng": 17.00272
+  },
+  {
+    "name": "Jarošov nad Nežárkou",
+    "country": "CZ",
+    "lat": 49.18989,
+    "lng": 15.06734
+  },
+  {
+    "name": "Jaroslavice",
+    "country": "CZ",
+    "lat": 48.75657,
+    "lng": 16.23351
+  },
+  {
+    "name": "Jaroměřice nad Rokytnou",
+    "country": "CZ",
+    "lat": 49.09408,
+    "lng": 15.89331
+  },
+  {
+    "name": "Jaroměřice",
+    "country": "CZ",
+    "lat": 49.62556,
+    "lng": 16.75185
+  },
+  {
+    "name": "Jaroměř",
+    "country": "CZ",
+    "lat": 50.3562,
+    "lng": 15.92136
+  },
+  {
+    "name": "Janov nad Nisou",
+    "country": "CZ",
+    "lat": 50.77204,
+    "lng": 15.16913
+  },
+  {
+    "name": "Janovice nad Úhlavou",
+    "country": "CZ",
+    "lat": 49.34515,
+    "lng": 13.21813
+  },
+  {
+    "name": "Janovice",
+    "country": "CZ",
+    "lat": 49.62141,
+    "lng": 18.40602
+  },
+  {
+    "name": "Jalubí",
+    "country": "CZ",
+    "lat": 49.11626,
+    "lng": 17.42788
+  },
+  {
+    "name": "Jakartovice",
+    "country": "CZ",
+    "lat": 49.9151,
+    "lng": 17.684
+  },
+  {
+    "name": "Jablunkov",
+    "country": "CZ",
+    "lat": 49.57672,
+    "lng": 18.76458
+  },
+  {
+    "name": "Jablůnka",
+    "country": "CZ",
+    "lat": 49.38355,
+    "lng": 17.95021
+  },
+  {
+    "name": "Jablonné v Podještědí",
+    "country": "CZ",
+    "lat": 50.76528,
+    "lng": 14.76052
+  },
+  {
+    "name": "Jablonné nad Orlicí",
+    "country": "CZ",
+    "lat": 50.02964,
+    "lng": 16.60059
+  },
+  {
+    "name": "Jablonec nad Nisou",
+    "country": "CZ",
+    "lat": 50.72431,
+    "lng": 15.17108
+  },
+  {
+    "name": "Jablonec nad Jizerou",
+    "country": "CZ",
+    "lat": 50.70347,
+    "lng": 15.42959
+  },
+  {
+    "name": "Jatznick",
+    "country": "DE",
+    "lat": 53.57951,
+    "lng": 13.93955
+  },
+  {
+    "name": "Jarmen",
+    "country": "DE",
+    "lat": 53.92385,
+    "lng": 13.34032
+  },
+  {
+    "name": "Jandelsbrunn",
+    "country": "DE",
+    "lat": 48.73333,
+    "lng": 13.7
+  },
+  {
+    "name": "Jameln",
+    "country": "DE",
+    "lat": 53.05,
+    "lng": 11.08333
+  },
+  {
+    "name": "Jacobsdorf",
+    "country": "DE",
+    "lat": 52.33333,
+    "lng": 14.35
+  },
+  {
+    "name": "Jahnsdorf",
+    "country": "DE",
+    "lat": 50.74509,
+    "lng": 12.85414
+  },
+  {
+    "name": "Jagstzell",
+    "country": "DE",
+    "lat": 49.03055,
+    "lng": 10.09751
+  },
+  {
+    "name": "Jagsthausen",
+    "country": "DE",
+    "lat": 49.31056,
+    "lng": 9.46833
+  },
+  {
+    "name": "Jarplund-Weding",
+    "country": "DE",
+    "lat": 54.73714,
+    "lng": 9.41813
+  },
+  {
+    "name": "Jade",
+    "country": "DE",
+    "lat": 53.33169,
+    "lng": 8.20035
+  },
+  {
+    "name": "Jahnatal",
+    "country": "DE",
+    "lat": 51.20038,
+    "lng": 13.16347
+  },
+  {
+    "name": "Jarabacoa",
+    "country": "DO",
+    "lat": 19.11683,
+    "lng": -70.63595
+  },
+  {
+    "name": "Jaquimeyes",
+    "country": "DO",
+    "lat": 18.31173,
+    "lng": -71.16145
+  },
+  {
+    "name": "Jamao al Norte",
+    "country": "DO",
+    "lat": 19.63552,
+    "lng": -70.44664
+  },
+  {
+    "name": "Jaibón",
+    "country": "DO",
+    "lat": 19.61169,
+    "lng": -71.14847
+  },
+  {
+    "name": "Jama",
+    "country": "EC",
+    "lat": -0.20172,
+    "lng": -80.26358
+  },
+  {
+    "name": "Jambelí",
+    "country": "EC",
+    "lat": 0.08451,
+    "lng": -77.07557
+  },
+  {
+    "name": "Jarājūs",
+    "country": "EG",
+    "lat": 25.87198,
+    "lng": 32.75585
+  },
+  {
+    "name": "Jam‘īyat Iskān aḑ Ḑubbāţ bi Akādīmīyat ash Shurţah",
+    "country": "EG",
+    "lat": 30.05618,
+    "lng": 31.42256
+  },
+  {
+    "name": "Jayena",
+    "country": "ES",
+    "lat": 36.9492,
+    "lng": -3.82313
+  },
+  {
+    "name": "Javea",
+    "country": "ES",
+    "lat": 38.78333,
+    "lng": 0.16667
+  },
+  {
+    "name": "Jaraicejo",
+    "country": "ES",
+    "lat": 39.66624,
+    "lng": -5.81308
+  },
+  {
+    "name": "Jarafuel",
+    "country": "ES",
+    "lat": 39.14013,
+    "lng": -1.07306
+  },
+  {
+    "name": "Jamilena",
+    "country": "ES",
+    "lat": 37.74717,
+    "lng": -3.91433
+  },
+  {
+    "name": "Jalón",
+    "country": "ES",
+    "lat": 38.74063,
+    "lng": -0.01129
+  },
+  {
+    "name": "Jalance",
+    "country": "ES",
+    "lat": 39.2,
+    "lng": -1.06667
+  },
+  {
+    "name": "Jaén",
+    "country": "ES",
+    "lat": 37.76922,
+    "lng": -3.79028
+  },
+  {
+    "name": "Jacarilla",
+    "country": "ES",
+    "lat": 38.06247,
+    "lng": -0.86822
+  },
+  {
+    "name": "Jabugo",
+    "country": "ES",
+    "lat": 37.91622,
+    "lng": -6.72968
+  },
+  {
+    "name": "Jabalquinto",
+    "country": "ES",
+    "lat": 38.01935,
+    "lng": -3.72512
+  },
+  {
+    "name": "Javier",
+    "country": "ES",
+    "lat": 42.59119,
+    "lng": -1.20884
+  },
+  {
+    "name": "Jaulín",
+    "country": "ES",
+    "lat": 41.45198,
+    "lng": -0.99256
+  },
+  {
+    "name": "Jatiel",
+    "country": "ES",
+    "lat": 41.22008,
+    "lng": -0.38183
+  },
+  {
+    "name": "Jasa",
+    "country": "ES",
+    "lat": 42.6948,
+    "lng": -0.66605
+  },
+  {
+    "name": "Jarque de la Val",
+    "country": "ES",
+    "lat": 40.70283,
+    "lng": -0.80083
+  },
+  {
+    "name": "Jarque",
+    "country": "ES",
+    "lat": 41.55613,
+    "lng": -1.67563
+  },
+  {
+    "name": "Jarilla",
+    "country": "ES",
+    "lat": 40.17156,
+    "lng": -6.00281
+  },
+  {
+    "name": "Jarandilla de la Vera",
+    "country": "ES",
+    "lat": 40.12915,
+    "lng": -5.66079
+  },
+  {
+    "name": "Jaramillo Quemado",
+    "country": "ES",
+    "lat": 42.08568,
+    "lng": -3.35868
+  },
+  {
+    "name": "Jaramillo de la Fuente",
+    "country": "ES",
+    "lat": 42.11472,
+    "lng": -3.31239
+  },
+  {
+    "name": "Jaraíz de la Vera",
+    "country": "ES",
+    "lat": 40.06005,
+    "lng": -5.75426
+  },
+  {
+    "name": "Jaraba",
+    "country": "ES",
+    "lat": 41.19083,
+    "lng": -1.8844
+  },
+  {
+    "name": "Jambrina",
+    "country": "ES",
+    "lat": 41.39196,
+    "lng": -5.66411
+  },
+  {
+    "name": "Jalón de Cameros",
+    "country": "ES",
+    "lat": 42.21804,
+    "lng": -2.49004
+  },
+  {
+    "name": "Jafre",
+    "country": "ES",
+    "lat": 42.07254,
+    "lng": 3.01062
+  },
+  {
+    "name": "Jadraque",
+    "country": "ES",
+    "lat": 40.92454,
+    "lng": -2.92468
+  },
+  {
+    "name": "Jaca",
+    "country": "ES",
+    "lat": 42.56898,
+    "lng": -0.54987
+  },
+  {
+    "name": "Jabaloyas",
+    "country": "ES",
+    "lat": 40.2401,
+    "lng": -1.40886
+  },
+  {
+    "name": "Janakkala",
+    "country": "FI",
+    "lat": 60.9,
+    "lng": 24.6
+  },
+  {
+    "name": "Jalasjärvi",
+    "country": "FI",
+    "lat": 62.49018,
+    "lng": 22.75901
+  },
+  {
+    "name": "Jakobstad",
+    "country": "FI",
+    "lat": 63.67486,
+    "lng": 22.70256
+  },
+  {
+    "name": "Jaala",
+    "country": "FI",
+    "lat": 61.05251,
+    "lng": 26.48117
+  },
+  {
+    "name": "Jakomäki",
+    "country": "FI",
+    "lat": 60.2594,
+    "lng": 25.07801
+  },
+  {
+    "name": "Javené",
+    "country": "FR",
+    "lat": 48.3196,
+    "lng": -1.21646
+  },
+  {
+    "name": "Jaux",
+    "country": "FR",
+    "lat": 49.3912,
+    "lng": 2.77809
+  },
+  {
+    "name": "Jausiers",
+    "country": "FR",
+    "lat": 44.41705,
+    "lng": 6.72947
+  },
+  {
+    "name": "Jaunay-Clan",
+    "country": "FR",
+    "lat": 46.68503,
+    "lng": 0.37179
+  },
+  {
+    "name": "Jaujac",
+    "country": "FR",
+    "lat": 44.63695,
+    "lng": 4.25638
+  },
+  {
+    "name": "Jasseron",
+    "country": "FR",
+    "lat": 46.21316,
+    "lng": 5.32579
+  },
+  {
+    "name": "Jassans-Riottier",
+    "country": "FR",
+    "lat": 45.98134,
+    "lng": 4.7614
+  },
+  {
+    "name": "Jarzé",
+    "country": "FR",
+    "lat": 47.55513,
+    "lng": -0.2332
+  },
+  {
+    "name": "Jarville-la-Malgrange",
+    "country": "FR",
+    "lat": 48.66697,
+    "lng": 6.20269
+  },
+  {
+    "name": "Javron-les-Chapelles",
+    "country": "FR",
+    "lat": 48.41797,
+    "lng": -0.33742
+  },
+  {
+    "name": "Jarrie",
+    "country": "FR",
+    "lat": 45.11732,
+    "lng": 5.75957
+  },
+  {
+    "name": "Jarny",
+    "country": "FR",
+    "lat": 49.15873,
+    "lng": 5.8764
+  },
+  {
+    "name": "Jarnac",
+    "country": "FR",
+    "lat": 45.6816,
+    "lng": -0.17329
+  },
+  {
+    "name": "Jargeau",
+    "country": "FR",
+    "lat": 47.86316,
+    "lng": 2.12648
+  },
+  {
+    "name": "Jard-sur-Mer",
+    "country": "FR",
+    "lat": 46.41638,
+    "lng": -1.57678
+  },
+  {
+    "name": "Jardin",
+    "country": "FR",
+    "lat": 45.49638,
+    "lng": 4.90847
+  },
+  {
+    "name": "Janzé",
+    "country": "FR",
+    "lat": 47.95959,
+    "lng": -1.49938
+  },
+  {
+    "name": "Janville-sur-Juine",
+    "country": "FR",
+    "lat": 48.51352,
+    "lng": 2.27064
+  },
+  {
+    "name": "Janville",
+    "country": "FR",
+    "lat": 48.20284,
+    "lng": 1.8802
+  },
+  {
+    "name": "Jans",
+    "country": "FR",
+    "lat": 47.62116,
+    "lng": -1.61443
+  },
+  {
+    "name": "Janneyrias",
+    "country": "FR",
+    "lat": 45.75221,
+    "lng": 5.11277
+  },
+  {
+    "name": "Jallais",
+    "country": "FR",
+    "lat": 47.19691,
+    "lng": -0.86738
+  },
+  {
+    "name": "Jacou",
+    "country": "FR",
+    "lat": 43.66139,
+    "lng": 3.91222
+  },
+  {
+    "name": "Jacob-Bellecombette",
+    "country": "FR",
+    "lat": 45.55763,
+    "lng": 5.91484
+  },
+  {
+    "name": "Jarrow",
+    "country": "GB",
+    "lat": 54.98036,
+    "lng": -1.48423
+  },
+  {
+    "name": "Jacobstow",
+    "country": "GB",
+    "lat": 50.73333,
+    "lng": -4.55
+  },
+  {
+    "name": "Java",
+    "country": "GE",
+    "lat": 42.38991,
+    "lng": 43.92421
+  },
+  {
+    "name": "Japekrom",
+    "country": "GH",
+    "lat": 7.5758,
+    "lng": -2.78516
+  },
+  {
+    "name": "Jarreng",
+    "country": "GM",
+    "lat": 13.61667,
+    "lng": -15.18333
+  },
+  {
+    "name": "Jamisa",
+    "country": "GM",
+    "lat": 13.41667,
+    "lng": -16.71667
+  },
+  {
+    "name": "Jambanjali",
+    "country": "GM",
+    "lat": 13.28028,
+    "lng": -16.72944
+  },
+  {
+    "name": "Jali",
+    "country": "GM",
+    "lat": 13.35,
+    "lng": -15.96667
+  },
+  {
+    "name": "Jakhaly",
+    "country": "GM",
+    "lat": 13.55,
+    "lng": -14.96667
+  },
+  {
+    "name": "Janjanbureh",
+    "country": "GM",
+    "lat": 13.54039,
+    "lng": -14.76374
+  },
+  {
+    "name": "Jalpatagua",
+    "country": "GT",
+    "lat": 14.1369,
+    "lng": -90.00908
+  },
+  {
+    "name": "Jalapa",
+    "country": "GT",
+    "lat": 14.63542,
+    "lng": -89.99112
+  },
+  {
+    "name": "Jacaltenango",
+    "country": "GT",
+    "lat": 15.66662,
+    "lng": -91.71177
+  },
+  {
+    "name": "Jabicunda",
+    "country": "GW",
+    "lat": 12.31667,
+    "lng": -14.55
+  },
+  {
+    "name": "Jardine's Lookout",
+    "country": "HK",
+    "lat": 22.26857,
+    "lng": 114.19252
+  },
+  {
+    "name": "Jat Min Chuen",
+    "country": "HK",
+    "lat": 22.37609,
+    "lng": 114.1914
+  },
+  {
+    "name": "Jamalteca",
+    "country": "HN",
+    "lat": 14.69597,
+    "lng": -87.57908
+  },
+  {
+    "name": "Jacaleapa",
+    "country": "HN",
+    "lat": 14.01667,
+    "lng": -86.66667
+  },
+  {
+    "name": "Jastrebarsko",
+    "country": "HR",
+    "lat": 45.66833,
+    "lng": 15.64861
+  },
+  {
+    "name": "Jasenovac",
+    "country": "HR",
+    "lat": 45.27167,
+    "lng": 16.91167
+  },
+  {
+    "name": "Jarmina",
+    "country": "HR",
+    "lat": 45.31806,
+    "lng": 18.72917
+  },
+  {
+    "name": "Janjina",
+    "country": "HR",
+    "lat": 42.92528,
+    "lng": 17.42833
+  },
+  {
+    "name": "Jalžabet",
+    "country": "HR",
+    "lat": 46.26083,
+    "lng": 16.475
+  },
+  {
+    "name": "Jalkovec",
+    "country": "HR",
+    "lat": 46.28083,
+    "lng": 16.31972
+  },
+  {
+    "name": "Jakšić",
+    "country": "HR",
+    "lat": 45.35806,
+    "lng": 17.76389
+  },
+  {
+    "name": "Jakovlje",
+    "country": "HR",
+    "lat": 45.93611,
+    "lng": 15.85559
+  },
+  {
+    "name": "Jagodnjak",
+    "country": "HR",
+    "lat": 45.69917,
+    "lng": 18.57694
+  },
+  {
+    "name": "Jadranovo",
+    "country": "HR",
+    "lat": 45.23111,
+    "lng": 14.61833
+  },
+  {
+    "name": "Jablanovec",
+    "country": "HR",
+    "lat": 45.87583,
+    "lng": 15.85361
+  },
+  {
+    "name": "Jankomir",
+    "country": "HR",
+    "lat": 45.79167,
+    "lng": 15.9
+  },
+  {
+    "name": "Jacmel",
+    "country": "HT",
+    "lat": 18.23569,
+    "lng": -72.53686
+  },
+  {
+    "name": "Jatiwangi",
+    "country": "ID",
+    "lat": -6.73361,
+    "lng": 108.26278
+  },
+  {
+    "name": "Jatiroto",
+    "country": "ID",
+    "lat": -8.1218,
+    "lng": 113.3637
+  },
+  {
+    "name": "Jatiroto",
+    "country": "ID",
+    "lat": -7.88333,
+    "lng": 111.11667
+  },
+  {
+    "name": "Jatirogo",
+    "country": "ID",
+    "lat": -6.8858,
+    "lng": 111.6592
+  },
+  {
+    "name": "Jatinagara",
+    "country": "ID",
+    "lat": -7.1735,
+    "lng": 108.4028
+  },
+  {
+    "name": "Jatibarang",
+    "country": "ID",
+    "lat": -6.47472,
+    "lng": 108.31528
+  },
+  {
+    "name": "Jaten",
+    "country": "ID",
+    "lat": -7.57722,
+    "lng": 110.8975
+  },
+  {
+    "name": "Japah",
+    "country": "ID",
+    "lat": -6.9423,
+    "lng": 111.2903
+  },
+  {
+    "name": "Jangkat",
+    "country": "ID",
+    "lat": -2.5072,
+    "lng": 102.054
+  },
+  {
+    "name": "Jampang Tengah",
+    "country": "ID",
+    "lat": -7.0568,
+    "lng": 106.8014
+  },
+  {
+    "name": "Jampang Kulon",
+    "country": "ID",
+    "lat": -7.2579,
+    "lng": 106.6256
+  },
+  {
+    "name": "Jambula",
+    "country": "ID",
+    "lat": 0.75776,
+    "lng": 127.31828
+  },
+  {
+    "name": "Jambi City",
+    "country": "ID",
+    "lat": -1.6,
+    "lng": 103.61667
+  },
+  {
+    "name": "Jalang",
+    "country": "ID",
+    "lat": -4.0383,
+    "lng": 120.3216
+  },
+  {
+    "name": "Jakenan",
+    "country": "ID",
+    "lat": -6.762,
+    "lng": 111.1643
+  },
+  {
+    "name": "Jakarta",
+    "country": "ID",
+    "lat": -6.21462,
+    "lng": 106.84513
+  },
+  {
+    "name": "Jailolo",
+    "country": "ID",
+    "lat": 1.06504,
+    "lng": 127.46786
+  },
+  {
+    "name": "Jabung",
+    "country": "ID",
+    "lat": -5.46314,
+    "lng": 105.66752
+  },
+  {
+    "name": "Jangkar",
+    "country": "ID",
+    "lat": -7.73249,
+    "lng": 114.20898
+  },
+  {
+    "name": "Jayapura",
+    "country": "ID",
+    "lat": -2.53371,
+    "lng": 140.71813
+  },
+  {
+    "name": "Jambi Baru",
+    "country": "ID",
+    "lat": 2.7787,
+    "lng": 97.8887
+  },
+  {
+    "name": "Janapria",
+    "country": "ID",
+    "lat": -8.6952,
+    "lng": 116.4015
+  },
+  {
+    "name": "Jabajero",
+    "country": "ID",
+    "lat": -8.72767,
+    "lng": 115.17502
+  },
+  {
+    "name": "Jayapura",
+    "country": "ID",
+    "lat": -7.352,
+    "lng": 108.0322
+  },
+  {
+    "name": "Jamanis",
+    "country": "ID",
+    "lat": -7.1894,
+    "lng": 108.1836
+  },
+  {
+    "name": "Jamong",
+    "country": "ID",
+    "lat": -6.8016,
+    "lng": 111.8552
+  },
+  {
+    "name": "Jagongjeget",
+    "country": "ID",
+    "lat": 4.38727,
+    "lng": 96.79298
+  },
+  {
+    "name": "Jagiro",
+    "country": "ID",
+    "lat": -1.82196,
+    "lng": 133.04748
+  },
+  {
+    "name": "Jaffa",
+    "country": "IL",
+    "lat": 32.05043,
+    "lng": 34.75224
+  },
+  {
+    "name": "Jatt",
+    "country": "IL",
+    "lat": 32.39843,
+    "lng": 35.03933
+  },
+  {
+    "name": "Jaljūlya",
+    "country": "IL",
+    "lat": 32.1547,
+    "lng": 34.95372
+  },
+  {
+    "name": "Jalandhar",
+    "country": "IN",
+    "lat": 31.32556,
+    "lng": 75.57917
+  },
+  {
+    "name": "Jalārpet",
+    "country": "IN",
+    "lat": 12.57025,
+    "lng": 78.57318
+  },
+  {
+    "name": "Jainagar",
+    "country": "IN",
+    "lat": 26.59048,
+    "lng": 86.13791
+  },
+  {
+    "name": "Jaynagar Majilpur",
+    "country": "IN",
+    "lat": 22.1752,
+    "lng": 88.42008
+  },
+  {
+    "name": "Jayamkondacholapuram",
+    "country": "IN",
+    "lat": 11.21266,
+    "lng": 79.36369
+  },
+  {
+    "name": "Jawhār",
+    "country": "IN",
+    "lat": 19.91213,
+    "lng": 73.22679
+  },
+  {
+    "name": "Jawāla Mukhi",
+    "country": "IN",
+    "lat": 31.87456,
+    "lng": 76.32013
+  },
+  {
+    "name": "Jaunpur",
+    "country": "IN",
+    "lat": 25.75356,
+    "lng": 82.68689
+  },
+  {
+    "name": "Jatāra",
+    "country": "IN",
+    "lat": 25.00964,
+    "lng": 79.04869
+  },
+  {
+    "name": "Jatani",
+    "country": "IN",
+    "lat": 20.15975,
+    "lng": 85.70742
+  },
+  {
+    "name": "Jaswantnagar",
+    "country": "IN",
+    "lat": 26.88271,
+    "lng": 78.90256
+  },
+  {
+    "name": "Jasrāsar",
+    "country": "IN",
+    "lat": 27.70701,
+    "lng": 73.81276
+  },
+  {
+    "name": "Jasrāna",
+    "country": "IN",
+    "lat": 27.23587,
+    "lng": 78.65244
+  },
+  {
+    "name": "Jaspur",
+    "country": "IN",
+    "lat": 29.27919,
+    "lng": 78.82798
+  },
+  {
+    "name": "Jasidih",
+    "country": "IN",
+    "lat": 24.51379,
+    "lng": 86.64576
+  },
+  {
+    "name": "Jashpur Nagar",
+    "country": "IN",
+    "lat": 22.88783,
+    "lng": 84.13864
+  },
+  {
+    "name": "Jasdan",
+    "country": "IN",
+    "lat": 22.03709,
+    "lng": 71.20794
+  },
+  {
+    "name": "Jarwal",
+    "country": "IN",
+    "lat": 27.1629,
+    "lng": 81.54179
+  },
+  {
+    "name": "Jarod",
+    "country": "IN",
+    "lat": 22.43928,
+    "lng": 73.33475
+  },
+  {
+    "name": "Jaora",
+    "country": "IN",
+    "lat": 23.63783,
+    "lng": 75.12711
+  },
+  {
+    "name": "Jangipur",
+    "country": "IN",
+    "lat": 24.47001,
+    "lng": 88.07659
+  },
+  {
+    "name": "Jangaon",
+    "country": "IN",
+    "lat": 17.72602,
+    "lng": 79.15236
+  },
+  {
+    "name": "Jandiāla Gurū",
+    "country": "IN",
+    "lat": 31.56198,
+    "lng": 75.0277
+  },
+  {
+    "name": "Jandiāla",
+    "country": "IN",
+    "lat": 31.1593,
+    "lng": 75.61755
+  },
+  {
+    "name": "Jamwa Rāmgarh",
+    "country": "IN",
+    "lat": 27.02021,
+    "lng": 76.01089
+  },
+  {
+    "name": "Jamunāmukh",
+    "country": "IN",
+    "lat": 26.10147,
+    "lng": 92.74264
+  },
+  {
+    "name": "Jamūī",
+    "country": "IN",
+    "lat": 24.92606,
+    "lng": 86.22531
+  },
+  {
+    "name": "Jamshedpur",
+    "country": "IN",
+    "lat": 22.80278,
+    "lng": 86.18545
+  },
+  {
+    "name": "Jamnagar",
+    "country": "IN",
+    "lat": 22.47292,
+    "lng": 70.06673
+  },
+  {
+    "name": "Jammu",
+    "country": "IN",
+    "lat": 32.73528,
+    "lng": 74.86167
+  },
+  {
+    "name": "Jammalamadugu",
+    "country": "IN",
+    "lat": 14.84677,
+    "lng": 78.38314
+  },
+  {
+    "name": "Jamkhandi",
+    "country": "IN",
+    "lat": 16.50461,
+    "lng": 75.29146
+  },
+  {
+    "name": "Jambusar",
+    "country": "IN",
+    "lat": 22.05236,
+    "lng": 72.80074
+  },
+  {
+    "name": "Jamālpur",
+    "country": "IN",
+    "lat": 25.31258,
+    "lng": 86.48888
+  },
+  {
+    "name": "Jalpāiguri",
+    "country": "IN",
+    "lat": 26.51667,
+    "lng": 88.73333
+  },
+  {
+    "name": "Jalor",
+    "country": "IN",
+    "lat": 25.34558,
+    "lng": 72.61559
+  },
+  {
+    "name": "Jalgaon Jamod",
+    "country": "IN",
+    "lat": 21.05194,
+    "lng": 76.53464
+  },
+  {
+    "name": "Jalgaon",
+    "country": "IN",
+    "lat": 21.00292,
+    "lng": 75.56602
+  },
+  {
+    "name": "Jalgaon",
+    "country": "IN",
+    "lat": 17.74026,
+    "lng": 73.19087
+  },
+  {
+    "name": "Jaleshwar",
+    "country": "IN",
+    "lat": 21.80176,
+    "lng": 87.2225
+  },
+  {
+    "name": "Jalesar",
+    "country": "IN",
+    "lat": 27.47315,
+    "lng": 78.3031
+  },
+  {
+    "name": "Jalālpur",
+    "country": "IN",
+    "lat": 26.31162,
+    "lng": 82.73859
+  },
+  {
+    "name": "Jalalpore",
+    "country": "IN",
+    "lat": 20.94896,
+    "lng": 72.89829
+  },
+  {
+    "name": "Jalālī",
+    "country": "IN",
+    "lat": 27.8668,
+    "lng": 78.25267
+  },
+  {
+    "name": "Jalālābād",
+    "country": "IN",
+    "lat": 30.60622,
+    "lng": 74.25727
+  },
+  {
+    "name": "Jalālābad",
+    "country": "IN",
+    "lat": 29.61853,
+    "lng": 77.43908
+  },
+  {
+    "name": "Jalālābād",
+    "country": "IN",
+    "lat": 27.72625,
+    "lng": 79.65523
+  },
+  {
+    "name": "Jalakandapuram",
+    "country": "IN",
+    "lat": 11.69779,
+    "lng": 77.87298
+  },
+  {
+    "name": "Jaito",
+    "country": "IN",
+    "lat": 30.45126,
+    "lng": 74.89189
+  },
+  {
+    "name": "Jaithāri",
+    "country": "IN",
+    "lat": 23.20856,
+    "lng": 78.61487
+  },
+  {
+    "name": "Jaitāran",
+    "country": "IN",
+    "lat": 26.20446,
+    "lng": 73.93676
+  },
+  {
+    "name": "Jaisingpur",
+    "country": "IN",
+    "lat": 16.77639,
+    "lng": 74.55361
+  },
+  {
+    "name": "Jaisinghnagar",
+    "country": "IN",
+    "lat": 23.68582,
+    "lng": 81.39085
+  },
+  {
+    "name": "Jaisalmer",
+    "country": "IN",
+    "lat": 26.91763,
+    "lng": 70.90387
+  },
+  {
+    "name": "Jais",
+    "country": "IN",
+    "lat": 26.2649,
+    "lng": 81.54855
+  },
+  {
+    "name": "Jaipur",
+    "country": "IN",
+    "lat": 26.91962,
+    "lng": 75.78781
+  },
+  {
+    "name": "Jainpur",
+    "country": "IN",
+    "lat": 26.15389,
+    "lng": 83.33505
+  },
+  {
+    "name": "Jahāzpur",
+    "country": "IN",
+    "lat": 25.61994,
+    "lng": 75.27609
+  },
+  {
+    "name": "Jahāngīrpur",
+    "country": "IN",
+    "lat": 28.17919,
+    "lng": 77.70501
+  },
+  {
+    "name": "Jahāngīrābād",
+    "country": "IN",
+    "lat": 28.40549,
+    "lng": 78.10588
+  },
+  {
+    "name": "Jahānābād",
+    "country": "IN",
+    "lat": 28.63025,
+    "lng": 79.71818
+  },
+  {
+    "name": "Jahānābād",
+    "country": "IN",
+    "lat": 25.21368,
+    "lng": 84.9871
+  },
+  {
+    "name": "Jagtiāl",
+    "country": "IN",
+    "lat": 18.79473,
+    "lng": 78.91661
+  },
+  {
+    "name": "Jagraon",
+    "country": "IN",
+    "lat": 30.78783,
+    "lng": 75.47391
+  },
+  {
+    "name": "Jagnair",
+    "country": "IN",
+    "lat": 26.8636,
+    "lng": 77.60231
+  },
+  {
+    "name": "Jaggayyapeta",
+    "country": "IN",
+    "lat": 16.8938,
+    "lng": 80.09807
+  },
+  {
+    "name": "Jagdīspur",
+    "country": "IN",
+    "lat": 25.46811,
+    "lng": 84.41939
+  },
+  {
+    "name": "Jagdīshpur",
+    "country": "IN",
+    "lat": 26.74967,
+    "lng": 80.5451
+  },
+  {
+    "name": "Jagdalpur",
+    "country": "IN",
+    "lat": 19.08136,
+    "lng": 82.02131
+  },
+  {
+    "name": "Jagatsinghapur",
+    "country": "IN",
+    "lat": 20.2557,
+    "lng": 86.17112
+  },
+  {
+    "name": "Jagannāthpur",
+    "country": "IN",
+    "lat": 22.22115,
+    "lng": 85.63917
+  },
+  {
+    "name": "Jagalūr",
+    "country": "IN",
+    "lat": 14.51957,
+    "lng": 76.33915
+  },
+  {
+    "name": "Jagādhri",
+    "country": "IN",
+    "lat": 30.16719,
+    "lng": 77.30367
+  },
+  {
+    "name": "Jagadāpatnam",
+    "country": "IN",
+    "lat": 9.96795,
+    "lng": 79.19014
+  },
+  {
+    "name": "Jadcherla",
+    "country": "IN",
+    "lat": 16.77381,
+    "lng": 78.13666
+  },
+  {
+    "name": "Jabera",
+    "country": "IN",
+    "lat": 23.55819,
+    "lng": 79.67802
+  },
+  {
+    "name": "Jabalpur",
+    "country": "IN",
+    "lat": 23.16697,
+    "lng": 79.95006
+  },
+  {
+    "name": "Jauriān",
+    "country": "IN",
+    "lat": 32.83255,
+    "lng": 74.57612
+  },
+  {
+    "name": "Jaigaon",
+    "country": "IN",
+    "lat": 26.84766,
+    "lng": 89.37558
+  },
+  {
+    "name": "Jarhi",
+    "country": "IN",
+    "lat": 23.35918,
+    "lng": 83.0447
+  },
+  {
+    "name": "Jalandhar Cantonment",
+    "country": "IN",
+    "lat": 31.29421,
+    "lng": 75.61974
+  },
+  {
+    "name": "Jaitpur",
+    "country": "IN",
+    "lat": 28.50647,
+    "lng": 77.32976
+  },
+  {
+    "name": "Jainur",
+    "country": "IN",
+    "lat": 19.37348,
+    "lng": 78.90828
+  },
+  {
+    "name": "Jaitwāri",
+    "country": "IN",
+    "lat": 24.72368,
+    "lng": 80.86132
+  },
+  {
+    "name": "Jaithari",
+    "country": "IN",
+    "lat": 23.04055,
+    "lng": 81.79763
+  },
+  {
+    "name": "Jalda",
+    "country": "IN",
+    "lat": 22.1872,
+    "lng": 84.84359
+  },
+  {
+    "name": "Jamjodhpur",
+    "country": "IN",
+    "lat": 21.90219,
+    "lng": 70.0357
+  },
+  {
+    "name": "Jainagar",
+    "country": "IN",
+    "lat": 23.65694,
+    "lng": 85.31988
+  },
+  {
+    "name": "Jaoli",
+    "country": "IN",
+    "lat": 17.94817,
+    "lng": 73.62172
+  },
+  {
+    "name": "Jalukie",
+    "country": "IN",
+    "lat": 25.64674,
+    "lng": 93.66087
+  },
+  {
+    "name": "Jarjapupeta",
+    "country": "IN",
+    "lat": 18.18071,
+    "lng": 83.44025
+  },
+  {
+    "name": "Jaggaiahpet",
+    "country": "IN",
+    "lat": 16.89155,
+    "lng": 80.09551
+  },
+  {
+    "name": "Jalah",
+    "country": "IN",
+    "lat": 26.23794,
+    "lng": 91.71982
+  },
+  {
+    "name": "Jagiroad",
+    "country": "IN",
+    "lat": 26.12017,
+    "lng": 92.19772
+  },
+  {
+    "name": "Jaijepur",
+    "country": "IN",
+    "lat": 21.83129,
+    "lng": 82.81642
+  },
+  {
+    "name": "Jawaharnagar",
+    "country": "IN",
+    "lat": 22.35829,
+    "lng": 73.13423
+  },
+  {
+    "name": "Jammu Cantonment",
+    "country": "IN",
+    "lat": 32.70438,
+    "lng": 74.86114
+  },
+  {
+    "name": "Jangalpur",
+    "country": "IN",
+    "lat": 23.82737,
+    "lng": 86.57928
+  },
+  {
+    "name": "Jadugora",
+    "country": "IN",
+    "lat": 22.65361,
+    "lng": 86.35595
+  },
+  {
+    "name": "Jasai",
+    "country": "IN",
+    "lat": 18.93188,
+    "lng": 73.01889
+  },
+  {
+    "name": "Jalochi",
+    "country": "IN",
+    "lat": 18.15662,
+    "lng": 74.60708
+  },
+  {
+    "name": "Jaffrabad",
+    "country": "IN",
+    "lat": 12.69053,
+    "lng": 78.60795
+  },
+  {
+    "name": "Jalladiampet",
+    "country": "IN",
+    "lat": 12.92028,
+    "lng": 80.20806
+  },
+  {
+    "name": "Jallaram",
+    "country": "IN",
+    "lat": 18.72408,
+    "lng": 79.57097
+  },
+  {
+    "name": "Jawaharnagar",
+    "country": "IN",
+    "lat": 17.51001,
+    "lng": 78.56562
+  },
+  {
+    "name": "Jamjamāl",
+    "country": "IQ",
+    "lat": 35.53356,
+    "lng": 44.8343
+  },
+  {
+    "name": "Javānrūd",
+    "country": "IR",
+    "lat": 34.8067,
+    "lng": 46.4913
+  },
+  {
+    "name": "Javānrūd",
+    "country": "IR",
+    "lat": 34.79611,
+    "lng": 46.51722
+  },
+  {
+    "name": "Jask",
+    "country": "IR",
+    "lat": 25.64533,
+    "lng": 57.77552
+  },
+  {
+    "name": "Jam",
+    "country": "IR",
+    "lat": 27.82977,
+    "lng": 52.32518
+  },
+  {
+    "name": "Jahrom",
+    "country": "IR",
+    "lat": 28.5,
+    "lng": 53.5605
+  },
+  {
+    "name": "Jacurso",
+    "country": "IT",
+    "lat": 38.84649,
+    "lng": 16.3798
+  },
+  {
+    "name": "Jarash",
+    "country": "JO",
+    "lat": 32.28082,
+    "lng": 35.89929
+  },
+  {
+    "name": "Jalal-Abad",
+    "country": "KG",
+    "lat": 40.94498,
+    "lng": 72.99313
+  },
+  {
+    "name": "Jangseong",
+    "country": "KR",
+    "lat": 35.29778,
+    "lng": 126.78444
+  },
+  {
+    "name": "Jangheung",
+    "country": "KR",
+    "lat": 34.68164,
+    "lng": 126.90694
+  },
+  {
+    "name": "Jangan",
+    "country": "KR",
+    "lat": 35.31296,
+    "lng": 129.24244
+  },
+  {
+    "name": "Jangpyeong",
+    "country": "KR",
+    "lat": 36.3414,
+    "lng": 126.893
+  },
+  {
+    "name": "Jangheung",
+    "country": "KR",
+    "lat": 37.71727,
+    "lng": 126.94122
+  },
+  {
+    "name": "Janūb as Surrah",
+    "country": "KW",
+    "lat": 29.26917,
+    "lng": 47.97806
+  },
+  {
+    "name": "Jaffna",
+    "country": "LK",
+    "lat": 9.66845,
+    "lng": 80.00742
+  },
+  {
+    "name": "Ja Ela",
+    "country": "LK",
+    "lat": 7.0744,
+    "lng": 79.8919
+  },
+  {
+    "name": "Jaunpils",
+    "country": "LV",
+    "lat": 56.73137,
+    "lng": 23.01247
+  },
+  {
+    "name": "Jaunjelgava",
+    "country": "LV",
+    "lat": 56.61319,
+    "lng": 25.08316
+  },
+  {
+    "name": "Jaunciems",
+    "country": "LV",
+    "lat": 57.0391,
+    "lng": 24.17413
+  },
+  {
+    "name": "Jaunaglona",
+    "country": "LV",
+    "lat": 56.16066,
+    "lng": 27.00714
+  },
+  {
+    "name": "Jardas al ‘Abīd",
+    "country": "LY",
+    "lat": 32.30337,
+    "lng": 20.98615
+  },
+  {
+    "name": "Janzūr",
+    "country": "LY",
+    "lat": 32.81868,
+    "lng": 13.01727
+  },
+  {
+    "name": "Jamaat Shaim",
+    "country": "MA",
+    "lat": 32.34694,
+    "lng": -8.84249
+  },
+  {
+    "name": "Jardin Exotique",
+    "country": "MC",
+    "lat": 43.73049,
+    "lng": 7.41399
+  },
+  {
+    "name": "Jabor",
+    "country": "MH",
+    "lat": 5.92098,
+    "lng": 169.64335
+  },
+  {
+    "name": "Jabat",
+    "country": "MH",
+    "lat": 7.75003,
+    "lng": 168.97513
+  },
+  {
+    "name": "Jankovec",
+    "country": "MK",
+    "lat": 41.11028,
+    "lng": 21.01139
+  },
+  {
+    "name": "Jakimovo",
+    "country": "MK",
+    "lat": 41.9,
+    "lng": 22.51222
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 49.30677,
+    "lng": 95.44785
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 47.15,
+    "lng": 99.63333
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 46.9267,
+    "lng": 91.08782
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 45.70954,
+    "lng": 97.17596
+  },
+  {
+    "name": "Javhlant",
+    "country": "MN",
+    "lat": 48.80189,
+    "lng": 105.924
+  },
+  {
+    "name": "Javarthushuu",
+    "country": "MN",
+    "lat": 49.15,
+    "lng": 112.73333
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 50.0675,
+    "lng": 105.88056
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 49.29591,
+    "lng": 100.25711
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 48.52056,
+    "lng": 105.86833
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 47.79309,
+    "lng": 101.97235
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 47.53333,
+    "lng": 100.21667
+  },
+  {
+    "name": "Javhlant",
+    "country": "MN",
+    "lat": 47.78333,
+    "lng": 112.11667
+  },
+  {
+    "name": "Jargalant",
+    "country": "MN",
+    "lat": 49.12915,
+    "lng": 104.40803
+  },
+  {
+    "name": "Jalpilla",
+    "country": "MX",
+    "lat": 21.39571,
+    "lng": -98.87229
+  },
+  {
+    "name": "Jamiltepec",
+    "country": "MX",
+    "lat": 16.28258,
+    "lng": -97.82446
+  },
+  {
+    "name": "Jaltepetongo",
+    "country": "MX",
+    "lat": 17.68623,
+    "lng": -97.03569
+  },
+  {
+    "name": "Jaumave",
+    "country": "MX",
+    "lat": 23.40638,
+    "lng": -99.37618
+  },
+  {
+    "name": "Jantetelco",
+    "country": "MX",
+    "lat": 18.71828,
+    "lng": -98.7776
+  },
+  {
+    "name": "Jamapa",
+    "country": "MX",
+    "lat": 19.04179,
+    "lng": -96.24143
+  },
+  {
+    "name": "Jaltocan",
+    "country": "MX",
+    "lat": 21.13284,
+    "lng": -98.53898
+  },
+  {
+    "name": "Jaltepec de Candayoc",
+    "country": "MX",
+    "lat": 17.35495,
+    "lng": -95.41428
+  },
+  {
+    "name": "Jaltepec",
+    "country": "MX",
+    "lat": 20.11552,
+    "lng": -98.41712
+  },
+  {
+    "name": "Jaltepec",
+    "country": "MX",
+    "lat": 19.7296,
+    "lng": -98.63456
+  },
+  {
+    "name": "Jaltenco",
+    "country": "MX",
+    "lat": 19.75298,
+    "lng": -99.0939
+  },
+  {
+    "name": "Jalpan de Serra",
+    "country": "MX",
+    "lat": 21.21745,
+    "lng": -99.47183
+  },
+  {
+    "name": "Jalpa de Méndez",
+    "country": "MX",
+    "lat": 18.17678,
+    "lng": -93.06376
+  },
+  {
+    "name": "Jalpa",
+    "country": "MX",
+    "lat": 21.10908,
+    "lng": -98.71313
+  },
+  {
+    "name": "Jaleaca de Catalán",
+    "country": "MX",
+    "lat": 17.44636,
+    "lng": -99.85968
+  },
+  {
+    "name": "Jalcomulco",
+    "country": "MX",
+    "lat": 19.33185,
+    "lng": -96.7625
+  },
+  {
+    "name": "Jalapilla",
+    "country": "MX",
+    "lat": 18.82642,
+    "lng": -97.08865
+  },
+  {
+    "name": "Jalacingo",
+    "country": "MX",
+    "lat": 19.80333,
+    "lng": -97.3083
+  },
+  {
+    "name": "Jacala",
+    "country": "MX",
+    "lat": 21.00952,
+    "lng": -99.19134
+  },
+  {
+    "name": "Jaltenango de la Paz",
+    "country": "MX",
+    "lat": 15.87257,
+    "lng": -92.72469
+  },
+  {
+    "name": "Jalapita",
+    "country": "MX",
+    "lat": 18.41506,
+    "lng": -92.99483
+  },
+  {
+    "name": "Jalupa",
+    "country": "MX",
+    "lat": 18.13686,
+    "lng": -93.04741
+  },
+  {
+    "name": "Jalapa",
+    "country": "MX",
+    "lat": 17.72168,
+    "lng": -92.81272
+  },
+  {
+    "name": "Jalisco",
+    "country": "MX",
+    "lat": 16.43033,
+    "lng": -91.97499
+  },
+  {
+    "name": "Jaltocan",
+    "country": "MX",
+    "lat": 20.61968,
+    "lng": -97.81787
+  },
+  {
+    "name": "Jalapa",
+    "country": "MX",
+    "lat": 16.71227,
+    "lng": -99.05564
+  },
+  {
+    "name": "Jalpa de los Baños",
+    "country": "MX",
+    "lat": 19.67833,
+    "lng": -99.87389
+  },
+  {
+    "name": "Jaula de Abajo",
+    "country": "MX",
+    "lat": 22.02853,
+    "lng": -101.58916
+  },
+  {
+    "name": "Jaboncillo",
+    "country": "MX",
+    "lat": 25.74676,
+    "lng": -103.26672
+  },
+  {
+    "name": "Jauja",
+    "country": "MX",
+    "lat": 25.92893,
+    "lng": -103.37449
+  },
+  {
+    "name": "Jauregui",
+    "country": "MX",
+    "lat": 20.5928,
+    "lng": -100.7194
+  },
+  {
+    "name": "Jaral del Progreso",
+    "country": "MX",
+    "lat": 20.37237,
+    "lng": -101.06249
+  },
+  {
+    "name": "Jarácuaro",
+    "country": "MX",
+    "lat": 19.56058,
+    "lng": -101.67785
+  },
+  {
+    "name": "Janos",
+    "country": "MX",
+    "lat": 30.88909,
+    "lng": -108.19431
+  },
+  {
+    "name": "Jamay",
+    "country": "MX",
+    "lat": 20.29479,
+    "lng": -102.7094
+  },
+  {
+    "name": "Jamaica",
+    "country": "MX",
+    "lat": 21.14364,
+    "lng": -100.7343
+  },
+  {
+    "name": "Jaluco",
+    "country": "MX",
+    "lat": 19.23041,
+    "lng": -104.68451
+  },
+  {
+    "name": "Jalpilla",
+    "country": "MX",
+    "lat": 20.73129,
+    "lng": -100.7209
+  },
+  {
+    "name": "Jalpa",
+    "country": "MX",
+    "lat": 21.63241,
+    "lng": -102.97906
+  },
+  {
+    "name": "Jalostotitlán",
+    "country": "MX",
+    "lat": 21.16813,
+    "lng": -102.46097
+  },
+  {
+    "name": "Jalipa",
+    "country": "MX",
+    "lat": 19.12275,
+    "lng": -104.26737
+  },
+  {
+    "name": "Jalcocotán",
+    "country": "MX",
+    "lat": 21.48122,
+    "lng": -105.09851
+  },
+  {
+    "name": "Jala",
+    "country": "MX",
+    "lat": 21.10484,
+    "lng": -104.43764
+  },
+  {
+    "name": "Jacona de Plancarte",
+    "country": "MX",
+    "lat": 19.95232,
+    "lng": -102.30781
+  },
+  {
+    "name": "Janitzio",
+    "country": "MX",
+    "lat": 19.57327,
+    "lng": -101.65189
+  },
+  {
+    "name": "Jaltiche de Arriba",
+    "country": "MX",
+    "lat": 21.77525,
+    "lng": -102.78849
+  },
+  {
+    "name": "Jaltomate",
+    "country": "MX",
+    "lat": 22.01528,
+    "lng": -102.14583
+  },
+  {
+    "name": "Janamuato",
+    "country": "MX",
+    "lat": 20.09961,
+    "lng": -101.5854
+  },
+  {
+    "name": "Janambo",
+    "country": "MX",
+    "lat": 20.20642,
+    "lng": -101.52644
+  },
+  {
+    "name": "Jamaica",
+    "country": "MX",
+    "lat": 19.85577,
+    "lng": -101.13486
+  },
+  {
+    "name": "Jaripeo",
+    "country": "MX",
+    "lat": 19.68026,
+    "lng": -101.08545
+  },
+  {
+    "name": "Jardines de la Silla",
+    "country": "MX",
+    "lat": 25.62944,
+    "lng": -100.18778
+  },
+  {
+    "name": "Jacarandas",
+    "country": "MX",
+    "lat": 19.49556,
+    "lng": -96.85278
+  },
+  {
+    "name": "Javier Rojo Gómez",
+    "country": "MX",
+    "lat": 20.06972,
+    "lng": -98.41778
+  },
+  {
+    "name": "Jardines de San Sebastián",
+    "country": "MX",
+    "lat": 20.51889,
+    "lng": -103.42222
+  },
+  {
+    "name": "Jagüey de Téllez (Estación Téllez)",
+    "country": "MX",
+    "lat": 19.98056,
+    "lng": -98.78833
+  },
+  {
+    "name": "Javier Rojo Gómez",
+    "country": "MX",
+    "lat": 18.27389,
+    "lng": -88.68111
+  },
+  {
+    "name": "Jardínes del Grijalva",
+    "country": "MX",
+    "lat": 16.72847,
+    "lng": -93.03463
+  },
+  {
+    "name": "Jardines del Edén",
+    "country": "MX",
+    "lat": 20.5325,
+    "lng": -103.36278
+  },
+  {
+    "name": "Javier Rojo Gómez",
+    "country": "MX",
+    "lat": 25.49472,
+    "lng": -108.3775
+  },
+  {
+    "name": "Jagüey Blanco",
+    "country": "MX",
+    "lat": 20.27639,
+    "lng": -99.15222
+  },
+  {
+    "name": "Jarillas",
+    "country": "MX",
+    "lat": 22.29611,
+    "lng": -102.06333
+  },
+  {
+    "name": "Jalmolonga (La Hacienda)",
+    "country": "MX",
+    "lat": 18.91835,
+    "lng": -99.49407
+  },
+  {
+    "name": "Jawi",
+    "country": "MY",
+    "lat": 5.21525,
+    "lng": 100.49211
+  },
+  {
+    "name": "Jama’are",
+    "country": "NG",
+    "lat": 11.6698,
+    "lng": 9.928
+  },
+  {
+    "name": "Jalingo",
+    "country": "NG",
+    "lat": 8.89367,
+    "lng": 11.3596
+  },
+  {
+    "name": "Jakusko",
+    "country": "NG",
+    "lat": 12.37093,
+    "lng": 10.77373
+  },
+  {
+    "name": "Jajimaji",
+    "country": "NG",
+    "lat": 12.8985,
+    "lng": 10.80688
+  },
+  {
+    "name": "Jahun",
+    "country": "NG",
+    "lat": 12.07629,
+    "lng": 9.62757
+  },
+  {
+    "name": "Jada",
+    "country": "NG",
+    "lat": 8.75682,
+    "lng": 12.15537
+  },
+  {
+    "name": "Jalapa",
+    "country": "NI",
+    "lat": 13.92221,
+    "lng": -86.12346
+  },
+  {
+    "name": "Jagershoef",
+    "country": "NL",
+    "lat": 51.4733,
+    "lng": 5.4672
+  },
+  {
+    "name": "Jaren",
+    "country": "NO",
+    "lat": 60.39273,
+    "lng": 10.56155
+  },
+  {
+    "name": "Janakpur",
+    "country": "NP",
+    "lat": 26.72882,
+    "lng": 85.92628
+  },
+  {
+    "name": "Jaleshwar",
+    "country": "NP",
+    "lat": 26.64921,
+    "lng": 85.80017
+  },
+  {
+    "name": "Jack's Point",
+    "country": "NZ",
+    "lat": -45.07356,
+    "lng": 168.74828
+  },
+  {
+    "name": "Jaramillo Arriba",
+    "country": "PA",
+    "lat": 8.78621,
+    "lng": -82.4231
+  },
+  {
+    "name": "Jaqué",
+    "country": "PA",
+    "lat": 7.51826,
+    "lng": -78.16343
+  },
+  {
+    "name": "Jayanca",
+    "country": "PE",
+    "lat": -6.39083,
+    "lng": -79.82194
+  },
+  {
+    "name": "Jangas",
+    "country": "PE",
+    "lat": -9.4025,
+    "lng": -77.57583
+  },
+  {
+    "name": "Jamalca",
+    "country": "PE",
+    "lat": -5.86722,
+    "lng": -78.26167
+  },
+  {
+    "name": "Jaén",
+    "country": "PE",
+    "lat": -5.70729,
+    "lng": -78.80785
+  },
+  {
+    "name": "Jauja",
+    "country": "PE",
+    "lat": -11.77584,
+    "lng": -75.49656
+  },
+  {
+    "name": "Jatun Orcochiri",
+    "country": "PE",
+    "lat": -15.75003,
+    "lng": -71.34641
+  },
+  {
+    "name": "Jarpa",
+    "country": "PE",
+    "lat": -12.12622,
+    "lng": -75.43554
+  },
+  {
+    "name": "Jaquí",
+    "country": "PE",
+    "lat": -15.47668,
+    "lng": -74.44177
+  },
+  {
+    "name": "Jacobo Hunter",
+    "country": "PE",
+    "lat": -16.44083,
+    "lng": -71.55333
+  },
+  {
+    "name": "Jayune",
+    "country": "PE",
+    "lat": -15.56277,
+    "lng": -71.30312
+  },
+  {
+    "name": "Jayobamba",
+    "country": "PE",
+    "lat": -14.09425,
+    "lng": -71.33922
+  },
+  {
+    "name": "Jacas Grande",
+    "country": "PE",
+    "lat": -9.53965,
+    "lng": -76.73639
+  },
+  {
+    "name": "Janjaillo",
+    "country": "PE",
+    "lat": -11.76466,
+    "lng": -75.61118
+  },
+  {
+    "name": "Jardin",
+    "country": "PE",
+    "lat": -13.16234,
+    "lng": -74.2134
+  },
+  {
+    "name": "Jayubó",
+    "country": "PH",
+    "lat": 11.05,
+    "lng": 122.38333
+  },
+  {
+    "name": "Javier",
+    "country": "PH",
+    "lat": 8.48889,
+    "lng": 126.085
+  },
+  {
+    "name": "Javalera",
+    "country": "PH",
+    "lat": 14.25813,
+    "lng": 120.91558
+  },
+  {
+    "name": "Jasaan",
+    "country": "PH",
+    "lat": 8.65417,
+    "lng": 124.75556
+  },
+  {
+    "name": "Jaro",
+    "country": "PH",
+    "lat": 11.18375,
+    "lng": 124.78267
+  },
+  {
+    "name": "Japitan",
+    "country": "PH",
+    "lat": 10.76524,
+    "lng": 123.5444
+  },
+  {
+    "name": "Japitan",
+    "country": "PH",
+    "lat": 10.1279,
+    "lng": 123.5035
+  },
+  {
+    "name": "Jantianon",
+    "country": "PH",
+    "lat": 9.4442,
+    "lng": 123.1657
+  },
+  {
+    "name": "Janopol",
+    "country": "PH",
+    "lat": 14.08586,
+    "lng": 121.09489
+  },
+  {
+    "name": "Janiuay",
+    "country": "PH",
+    "lat": 10.9493,
+    "lng": 122.5061
+  },
+  {
+    "name": "Jandayan Norte",
+    "country": "PH",
+    "lat": 10.16852,
+    "lng": 124.18148
+  },
+  {
+    "name": "Janagdong",
+    "country": "PH",
+    "lat": 13.9034,
+    "lng": 121.5134
+  },
+  {
+    "name": "Jampang",
+    "country": "PH",
+    "lat": 9.90761,
+    "lng": 123.60015
+  },
+  {
+    "name": "Jamindan",
+    "country": "PH",
+    "lat": 11.40023,
+    "lng": 122.49833
+  },
+  {
+    "name": "Jamabalod",
+    "country": "PH",
+    "lat": 10.8788,
+    "lng": 122.6212
+  },
+  {
+    "name": "Jalaud",
+    "country": "PH",
+    "lat": 10.89333,
+    "lng": 122.7475
+  },
+  {
+    "name": "Jalaud",
+    "country": "PH",
+    "lat": 10.8436,
+    "lng": 122.6404
+  },
+  {
+    "name": "Jalajala",
+    "country": "PH",
+    "lat": 14.353,
+    "lng": 121.3225
+  },
+  {
+    "name": "Jagupit",
+    "country": "PH",
+    "lat": 9.24222,
+    "lng": 125.55806
+  },
+  {
+    "name": "Jaguimitan",
+    "country": "PH",
+    "lat": 11.14,
+    "lng": 122.7236
+  },
+  {
+    "name": "Jagna",
+    "country": "PH",
+    "lat": 9.6531,
+    "lng": 124.3697
+  },
+  {
+    "name": "Jaena",
+    "country": "PH",
+    "lat": 11.41667,
+    "lng": 122.4
+  },
+  {
+    "name": "Jaen",
+    "country": "PH",
+    "lat": 15.3275,
+    "lng": 120.9192
+  },
+  {
+    "name": "Jaclupan",
+    "country": "PH",
+    "lat": 10.30138,
+    "lng": 123.8165
+  },
+  {
+    "name": "Jabonga",
+    "country": "PH",
+    "lat": 9.34306,
+    "lng": 125.51556
+  },
+  {
+    "name": "Jarigue",
+    "country": "PH",
+    "lat": 11.86538,
+    "lng": 121.44041
+  },
+  {
+    "name": "Jauharabad",
+    "country": "PK",
+    "lat": 32.29016,
+    "lng": 72.28182
+  },
+  {
+    "name": "Jatoi Shimali",
+    "country": "PK",
+    "lat": 29.51827,
+    "lng": 70.84474
+  },
+  {
+    "name": "Jati",
+    "country": "PK",
+    "lat": 24.35492,
+    "lng": 68.26732
+  },
+  {
+    "name": "Jaranwala",
+    "country": "PK",
+    "lat": 31.3332,
+    "lng": 73.41868
+  },
+  {
+    "name": "Jandiala Sher Khan",
+    "country": "PK",
+    "lat": 31.82098,
+    "lng": 73.91815
+  },
+  {
+    "name": "Jand",
+    "country": "PK",
+    "lat": 33.43304,
+    "lng": 72.01877
+  },
+  {
+    "name": "Jamshoro",
+    "country": "PK",
+    "lat": 25.43608,
+    "lng": 68.28017
+  },
+  {
+    "name": "Jampur",
+    "country": "PK",
+    "lat": 29.64235,
+    "lng": 70.59518
+  },
+  {
+    "name": "Jalalpur Pirwala",
+    "country": "PK",
+    "lat": 29.5051,
+    "lng": 71.22202
+  },
+  {
+    "name": "Jalalpur Jattan",
+    "country": "PK",
+    "lat": 32.64118,
+    "lng": 74.20561
+  },
+  {
+    "name": "Jahanian Shah",
+    "country": "PK",
+    "lat": 31.80541,
+    "lng": 72.2774
+  },
+  {
+    "name": "Jaglot",
+    "country": "PK",
+    "lat": 35.68842,
+    "lng": 74.62412
+  },
+  {
+    "name": "Jacobabad",
+    "country": "PK",
+    "lat": 28.28187,
+    "lng": 68.43761
+  },
+  {
+    "name": "Jawornik Polski",
+    "country": "PL",
+    "lat": 49.89082,
+    "lng": 22.28868
+  },
+  {
+    "name": "Jawornik",
+    "country": "PL",
+    "lat": 49.8464,
+    "lng": 21.89404
+  },
+  {
+    "name": "Jastrzębia",
+    "country": "PL",
+    "lat": 51.49742,
+    "lng": 21.23709
+  },
+  {
+    "name": "Jastrzębia",
+    "country": "PL",
+    "lat": 49.79733,
+    "lng": 20.88089
+  },
+  {
+    "name": "Jastrząb",
+    "country": "PL",
+    "lat": 51.24725,
+    "lng": 20.94758
+  },
+  {
+    "name": "Jastków",
+    "country": "PL",
+    "lat": 51.30411,
+    "lng": 22.43546
+  },
+  {
+    "name": "Jasło",
+    "country": "PL",
+    "lat": 49.74506,
+    "lng": 21.47252
+  },
+  {
+    "name": "Jaśliska",
+    "country": "PL",
+    "lat": 49.44229,
+    "lng": 21.80795
+  },
+  {
+    "name": "Jasionów",
+    "country": "PL",
+    "lat": 49.65841,
+    "lng": 21.97678
+  },
+  {
+    "name": "Jasieniec",
+    "country": "PL",
+    "lat": 51.82104,
+    "lng": 20.94099
+  },
+  {
+    "name": "Jasienica Rosielna",
+    "country": "PL",
+    "lat": 49.75144,
+    "lng": 21.94176
+  },
+  {
+    "name": "Jasienica",
+    "country": "PL",
+    "lat": 52.41415,
+    "lng": 21.4115
+  },
+  {
+    "name": "Jasień",
+    "country": "PL",
+    "lat": 49.96988,
+    "lng": 20.5719
+  },
+  {
+    "name": "Jarosław",
+    "country": "PL",
+    "lat": 50.01623,
+    "lng": 22.67776
+  },
+  {
+    "name": "Jarocin",
+    "country": "PL",
+    "lat": 50.56459,
+    "lng": 22.32121
+  },
+  {
+    "name": "Jarczów",
+    "country": "PL",
+    "lat": 50.42438,
+    "lng": 23.58576
+  },
+  {
+    "name": "Janów Podlaski",
+    "country": "PL",
+    "lat": 52.19398,
+    "lng": 23.21218
+  },
+  {
+    "name": "Janów Lubelski",
+    "country": "PL",
+    "lat": 50.70695,
+    "lng": 22.41039
+  },
+  {
+    "name": "Janowiec",
+    "country": "PL",
+    "lat": 51.32359,
+    "lng": 21.8894
+  },
+  {
+    "name": "Janowice",
+    "country": "PL",
+    "lat": 49.89154,
+    "lng": 20.86081
+  },
+  {
+    "name": "Janów",
+    "country": "PL",
+    "lat": 53.46747,
+    "lng": 23.23052
+  },
+  {
+    "name": "Jakubowice Murowane",
+    "country": "PL",
+    "lat": 51.26992,
+    "lng": 22.63415
+  },
+  {
+    "name": "Jakubów",
+    "country": "PL",
+    "lat": 52.21965,
+    "lng": 21.68032
+  },
+  {
+    "name": "Jagiełła",
+    "country": "PL",
+    "lat": 50.0946,
+    "lng": 22.57261
+  },
+  {
+    "name": "Jadowniki Mokre",
+    "country": "PL",
+    "lat": 50.16546,
+    "lng": 20.72845
+  },
+  {
+    "name": "Jadowniki",
+    "country": "PL",
+    "lat": 49.95884,
+    "lng": 20.64434
+  },
+  {
+    "name": "Jadów",
+    "country": "PL",
+    "lat": 52.47849,
+    "lng": 21.63199
+  },
+  {
+    "name": "Jabłonna Lacka",
+    "country": "PL",
+    "lat": 52.47664,
+    "lng": 22.44228
+  },
+  {
+    "name": "Jabłonna",
+    "country": "PL",
+    "lat": 52.37885,
+    "lng": 20.91745
+  },
+  {
+    "name": "Jabłonna",
+    "country": "PL",
+    "lat": 51.08875,
+    "lng": 22.59364
+  },
+  {
+    "name": "Jabłonka",
+    "country": "PL",
+    "lat": 49.69417,
+    "lng": 22.11565
+  },
+  {
+    "name": "Jabłonica Polska",
+    "country": "PL",
+    "lat": 49.69784,
+    "lng": 21.89961
+  },
+  {
+    "name": "Jabłoń Dąbrowa",
+    "country": "PL",
+    "lat": 52.91037,
+    "lng": 22.69665
+  },
+  {
+    "name": "Jabłoń",
+    "country": "PL",
+    "lat": 51.72501,
+    "lng": 23.08743
+  },
+  {
+    "name": "Jaworzynka",
+    "country": "PL",
+    "lat": 49.54019,
+    "lng": 18.86996
+  },
+  {
+    "name": "Jaworzyna Śląska",
+    "country": "PL",
+    "lat": 50.9134,
+    "lng": 16.43241
+  },
+  {
+    "name": "Jaworzno",
+    "country": "PL",
+    "lat": 50.20528,
+    "lng": 19.27498
+  },
+  {
+    "name": "Jaworze",
+    "country": "PL",
+    "lat": 49.79351,
+    "lng": 18.9479
+  },
+  {
+    "name": "Jawornik",
+    "country": "PL",
+    "lat": 49.8558,
+    "lng": 19.89315
+  },
+  {
+    "name": "Jawor",
+    "country": "PL",
+    "lat": 51.05132,
+    "lng": 16.19347
+  },
+  {
+    "name": "Jastrzębie Zdrój",
+    "country": "PL",
+    "lat": 49.95542,
+    "lng": 18.57479
+  },
+  {
+    "name": "Jastrzębia Góra",
+    "country": "PL",
+    "lat": 54.83135,
+    "lng": 18.31301
+  },
+  {
+    "name": "Jastrząb",
+    "country": "PL",
+    "lat": 50.67019,
+    "lng": 19.1817
+  },
+  {
+    "name": "Jastrowie",
+    "country": "PL",
+    "lat": 53.42048,
+    "lng": 16.81756
+  },
+  {
+    "name": "Jastarnia",
+    "country": "PL",
+    "lat": 54.6983,
+    "lng": 18.6773
+  },
+  {
+    "name": "Jasienica",
+    "country": "PL",
+    "lat": 53.59196,
+    "lng": 14.54167
+  },
+  {
+    "name": "Jasienica",
+    "country": "PL",
+    "lat": 49.82281,
+    "lng": 19.84191
+  },
+  {
+    "name": "Jasienica",
+    "country": "PL",
+    "lat": 49.81312,
+    "lng": 18.92155
+  },
+  {
+    "name": "Jasień",
+    "country": "PL",
+    "lat": 51.75142,
+    "lng": 15.01419
+  },
+  {
+    "name": "Jaroszowiec",
+    "country": "PL",
+    "lat": 50.33633,
+    "lng": 19.60213
+  },
+  {
+    "name": "Jaroszowice",
+    "country": "PL",
+    "lat": 49.86267,
+    "lng": 19.51962
+  },
+  {
+    "name": "Jarocin",
+    "country": "PL",
+    "lat": 51.97266,
+    "lng": 17.50256
+  },
+  {
+    "name": "Jaraczewo",
+    "country": "PL",
+    "lat": 51.96854,
+    "lng": 17.29707
+  },
+  {
+    "name": "Januszkowice",
+    "country": "PL",
+    "lat": 50.39189,
+    "lng": 18.1368
+  },
+  {
+    "name": "Janowiec Wielkopolski",
+    "country": "PL",
+    "lat": 52.75583,
+    "lng": 17.48981
+  },
+  {
+    "name": "Janowice Wielkie",
+    "country": "PL",
+    "lat": 50.87569,
+    "lng": 15.92322
+  },
+  {
+    "name": "Janowice",
+    "country": "PL",
+    "lat": 49.88496,
+    "lng": 19.09376
+  },
+  {
+    "name": "Janków Przygodzki",
+    "country": "PL",
+    "lat": 51.59808,
+    "lng": 17.78824
+  },
+  {
+    "name": "Jankowice Rybnickie",
+    "country": "PL",
+    "lat": 50.04479,
+    "lng": 18.54707
+  },
+  {
+    "name": "Jankowice",
+    "country": "PL",
+    "lat": 50.0009,
+    "lng": 18.98901
+  },
+  {
+    "name": "Janikowo",
+    "country": "PL",
+    "lat": 52.75328,
+    "lng": 18.11328
+  },
+  {
+    "name": "Jabłonowo Pomorskie",
+    "country": "PL",
+    "lat": 53.39137,
+    "lng": 19.15509
+  },
+  {
+    "name": "Jabłonna",
+    "country": "PL",
+    "lat": 52.20598,
+    "lng": 16.20741
+  },
+  {
+    "name": "Jabłonka",
+    "country": "PL",
+    "lat": 49.47968,
+    "lng": 19.6937
+  },
+  {
+    "name": "Jarnołtów-Jerzmanowo",
+    "country": "PL",
+    "lat": 51.12163,
+    "lng": 16.86621
+  },
+  {
+    "name": "Jagual",
+    "country": "PR",
+    "lat": 18.16163,
+    "lng": -65.99544
+  },
+  {
+    "name": "Jauca",
+    "country": "PR",
+    "lat": 17.96913,
+    "lng": -66.36572
+  },
+  {
+    "name": "Jayuya",
+    "country": "PR",
+    "lat": 18.21857,
+    "lng": -66.59156
+  },
+  {
+    "name": "Jabālyā",
+    "country": "PS",
+    "lat": 31.5272,
+    "lng": 34.48347
+  },
+  {
+    "name": "Jannātah",
+    "country": "PS",
+    "lat": 31.66959,
+    "lng": 35.21961
+  },
+  {
+    "name": "Jayyūs",
+    "country": "PS",
+    "lat": 32.20125,
+    "lng": 35.03416
+  },
+  {
+    "name": "Janīn",
+    "country": "PS",
+    "lat": 32.45943,
+    "lng": 35.30086
+  },
+  {
+    "name": "Jammā‘īn",
+    "country": "PS",
+    "lat": 32.13164,
+    "lng": 35.20403
+  },
+  {
+    "name": "Jalqamūs",
+    "country": "PS",
+    "lat": 32.42464,
+    "lng": 35.36421
+  },
+  {
+    "name": "Jalbūn",
+    "country": "PS",
+    "lat": 32.45957,
+    "lng": 35.41516
+  },
+  {
+    "name": "Jaba‘",
+    "country": "PS",
+    "lat": 32.32409,
+    "lng": 35.22133
+  },
+  {
+    "name": "Jaba‘",
+    "country": "PS",
+    "lat": 31.85727,
+    "lng": 35.25868
+  },
+  {
+    "name": "Jariştea",
+    "country": "RO",
+    "lat": 45.78333,
+    "lng": 27.06667
+  },
+  {
+    "name": "Jamu Mare",
+    "country": "RO",
+    "lat": 45.25417,
+    "lng": 21.41694
+  },
+  {
+    "name": "Jabenița",
+    "country": "RO",
+    "lat": 46.78407,
+    "lng": 24.79671
+  },
+  {
+    "name": "Jazovo",
+    "country": "RS",
+    "lat": 45.89876,
+    "lng": 20.2213
+  },
+  {
+    "name": "Jaša Tomić",
+    "country": "RS",
+    "lat": 45.44725,
+    "lng": 20.85546
+  },
+  {
+    "name": "Jarkovac",
+    "country": "RS",
+    "lat": 45.26985,
+    "lng": 20.76078
+  },
+  {
+    "name": "Janošik",
+    "country": "RS",
+    "lat": 45.17141,
+    "lng": 21.00658
+  },
+  {
+    "name": "Jakovo",
+    "country": "RS",
+    "lat": 44.75366,
+    "lng": 20.26008
+  },
+  {
+    "name": "Jajinci",
+    "country": "RS",
+    "lat": 44.74061,
+    "lng": 20.48634
+  },
+  {
+    "name": "Jagodina",
+    "country": "RS",
+    "lat": 43.97713,
+    "lng": 21.26121
+  },
+  {
+    "name": "Jarebice",
+    "country": "RS",
+    "lat": 44.53995,
+    "lng": 19.42418
+  },
+  {
+    "name": "Jarak",
+    "country": "RS",
+    "lat": 44.91843,
+    "lng": 19.75477
+  },
+  {
+    "name": "Jadranska Lešnica",
+    "country": "RS",
+    "lat": 44.58625,
+    "lng": 19.34701
+  },
+  {
+    "name": "Jalqani",
+    "country": "SD",
+    "lat": 12.4486,
+    "lng": 34.2186
+  },
+  {
+    "name": "Jakobsberg",
+    "country": "SE",
+    "lat": 59.42268,
+    "lng": 17.83508
+  },
+  {
+    "name": "Jamestown",
+    "country": "SH",
+    "lat": -15.92488,
+    "lng": -5.71816
+  },
+  {
+    "name": "Jagodje",
+    "country": "SI",
+    "lat": 45.52845,
+    "lng": 13.64721
+  },
+  {
+    "name": "Jarovce",
+    "country": "SK",
+    "lat": 48.06498,
+    "lng": 17.11303
+  },
+  {
+    "name": "Jarok",
+    "country": "SK",
+    "lat": 48.27541,
+    "lng": 17.95913
+  },
+  {
+    "name": "Jablonové",
+    "country": "SK",
+    "lat": 48.34752,
+    "lng": 17.09949
+  },
+  {
+    "name": "Jablonec",
+    "country": "SK",
+    "lat": 48.33204,
+    "lng": 17.44789
+  },
+  {
+    "name": "Jakubov",
+    "country": "SK",
+    "lat": 48.41667,
+    "lng": 16.93333
+  },
+  {
+    "name": "Jaxaay Parcelle Niakoul Rap",
+    "country": "SN",
+    "lat": 14.77474,
+    "lng": -17.28024
+  },
+  {
+    "name": "Jawhar",
+    "country": "SO",
+    "lat": 2.78087,
+    "lng": 45.50048
+  },
+  {
+    "name": "Jamaame",
+    "country": "SO",
+    "lat": 0.06968,
+    "lng": 42.74497
+  },
+  {
+    "name": "Jalalaqsi",
+    "country": "SO",
+    "lat": 3.3766,
+    "lng": 45.5996
+  },
+  {
+    "name": "Jayrūd",
+    "country": "SY",
+    "lat": 33.80709,
+    "lng": 36.73861
+  },
+  {
+    "name": "Jawbat Burghāl",
+    "country": "SY",
+    "lat": 35.48995,
+    "lng": 36.17473
+  },
+  {
+    "name": "Jaramānā",
+    "country": "SY",
+    "lat": 33.4862,
+    "lng": 36.34614
+  },
+  {
+    "name": "Jarābulus",
+    "country": "SY",
+    "lat": 36.8175,
+    "lng": 38.01111
+  },
+  {
+    "name": "Jablah",
+    "country": "SY",
+    "lat": 35.36211,
+    "lng": 35.92759
+  },
+  {
+    "name": "Jack",
+    "country": "US",
+    "lat": 31.57405,
+    "lng": -86.00023
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 31.50905,
+    "lng": -87.89444
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 33.81382,
+    "lng": -85.7613
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 33.83122,
+    "lng": -87.27751
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 34.8662,
+    "lng": -92.11015
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 36.00813,
+    "lng": -93.18657
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 30.33218,
+    "lng": -81.65565
+  },
+  {
+    "name": "Jacksonville Beach",
+    "country": "US",
+    "lat": 30.29469,
+    "lng": -81.39314
+  },
+  {
+    "name": "Jan-Phyl Village",
+    "country": "US",
+    "lat": 28.01474,
+    "lng": -81.77175
+  },
+  {
+    "name": "Jasmine Estates",
+    "country": "US",
+    "lat": 28.29306,
+    "lng": -82.6901
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 30.51827,
+    "lng": -82.94819
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 33.29457,
+    "lng": -83.96602
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 34.46787,
+    "lng": -84.42909
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 39.73394,
+    "lng": -90.22901
+  },
+  {
+    "name": "Jasonville",
+    "country": "US",
+    "lat": 39.1631,
+    "lng": -87.19918
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 38.39144,
+    "lng": -86.93111
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 37.55315,
+    "lng": -83.38351
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 37.82508,
+    "lng": -84.87079
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 36.98479,
+    "lng": -85.06301
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 30.8374,
+    "lng": -91.21761
+  },
+  {
+    "name": "Jarrettsville",
+    "country": "US",
+    "lat": 39.60455,
+    "lng": -76.47774
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 37.38227,
+    "lng": -89.66621
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 32.29876,
+    "lng": -90.18481
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 36.3896,
+    "lng": -77.42136
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 34.75405,
+    "lng": -77.43024
+  },
+  {
+    "name": "James City",
+    "country": "US",
+    "lat": 35.08877,
+    "lng": -77.03495
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 35.9943,
+    "lng": -79.93531
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 39.7765,
+    "lng": -74.86238
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 39.05202,
+    "lng": -82.63655
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 39.65812,
+    "lng": -83.73492
+  },
+  {
+    "name": "Jay",
+    "country": "US",
+    "lat": 36.42119,
+    "lng": -94.7969
+  },
+  {
+    "name": "Jacobus",
+    "country": "US",
+    "lat": 39.88316,
+    "lng": -76.71052
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 33.32542,
+    "lng": -81.78789
+  },
+  {
+    "name": "Jacksboro",
+    "country": "US",
+    "lat": 36.33008,
+    "lng": -84.18382
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 35.61452,
+    "lng": -88.81395
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 36.42757,
+    "lng": -84.93189
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 35.07424,
+    "lng": -85.62608
+  },
+  {
+    "name": "Jacinto City",
+    "country": "US",
+    "lat": 29.76745,
+    "lng": -95.23382
+  },
+  {
+    "name": "Jacksboro",
+    "country": "US",
+    "lat": 33.21845,
+    "lng": -98.15866
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 31.96378,
+    "lng": -95.2705
+  },
+  {
+    "name": "Jamaica Beach",
+    "country": "US",
+    "lat": 29.18968,
+    "lng": -94.97965
+  },
+  {
+    "name": "Jarrell",
+    "country": "US",
+    "lat": 30.82491,
+    "lng": -97.60445
+  },
+  {
+    "name": "Jasper",
+    "country": "US",
+    "lat": 30.9202,
+    "lng": -93.99658
+  },
+  {
+    "name": "Jamaica Plain",
+    "country": "US",
+    "lat": 42.30982,
+    "lng": -71.12033
+  },
+  {
+    "name": "Jay",
+    "country": "US",
+    "lat": 44.50395,
+    "lng": -70.21617
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 42.24587,
+    "lng": -84.40135
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 43.62079,
+    "lng": -94.9886
+  },
+  {
+    "name": "Janesville",
+    "country": "US",
+    "lat": 44.11608,
+    "lng": -93.708
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 46.91054,
+    "lng": -98.70844
+  },
+  {
+    "name": "Jaffrey",
+    "country": "US",
+    "lat": 42.81397,
+    "lng": -72.02314
+  },
+  {
+    "name": "Jamesburg",
+    "country": "US",
+    "lat": 40.35261,
+    "lng": -74.44015
+  },
+  {
+    "name": "Jackson Heights",
+    "country": "US",
+    "lat": 40.75566,
+    "lng": -73.88541
+  },
+  {
+    "name": "Jamaica",
+    "country": "US",
+    "lat": 40.69149,
+    "lng": -73.80569
+  },
+  {
+    "name": "Jamesport",
+    "country": "US",
+    "lat": 40.94954,
+    "lng": -72.58148
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 42.097,
+    "lng": -79.23533
+  },
+  {
+    "name": "Jackson Center",
+    "country": "US",
+    "lat": 40.43949,
+    "lng": -84.04022
+  },
+  {
+    "name": "Jacksonwald",
+    "country": "US",
+    "lat": 40.32454,
+    "lng": -75.84965
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 41.49705,
+    "lng": -71.36728
+  },
+  {
+    "name": "Jamaica",
+    "country": "US",
+    "lat": 43.10036,
+    "lng": -72.77843
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 43.32389,
+    "lng": -88.16676
+  },
+  {
+    "name": "Janesville",
+    "country": "US",
+    "lat": 42.68279,
+    "lng": -89.01872
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 38.3488,
+    "lng": -120.7741
+  },
+  {
+    "name": "Jamestown",
+    "country": "US",
+    "lat": 37.95326,
+    "lng": -120.4227
+  },
+  {
+    "name": "Jamul",
+    "country": "US",
+    "lat": 32.717,
+    "lng": -116.87613
+  },
+  {
+    "name": "Jal",
+    "country": "US",
+    "lat": 32.11318,
+    "lng": -103.19351
+  },
+  {
+    "name": "Jarales",
+    "country": "US",
+    "lat": 34.61312,
+    "lng": -106.76364
+  },
+  {
+    "name": "Jayton",
+    "country": "US",
+    "lat": 33.24815,
+    "lng": -100.57373
+  },
+  {
+    "name": "Janesville",
+    "country": "US",
+    "lat": 40.29656,
+    "lng": -120.52411
+  },
+  {
+    "name": "Jackpot",
+    "country": "US",
+    "lat": 41.98324,
+    "lng": -114.67476
+  },
+  {
+    "name": "Jacksonville",
+    "country": "US",
+    "lat": 42.31346,
+    "lng": -122.96699
+  },
+  {
+    "name": "Jackson",
+    "country": "US",
+    "lat": 43.47993,
+    "lng": -110.76243
+  },
+  {
+    "name": "Jamestown West",
+    "country": "US",
+    "lat": 42.08851,
+    "lng": -79.2811
+  },
+  {
+    "name": "James Island",
+    "country": "US",
+    "lat": 32.72374,
+    "lng": -79.96284
+  },
+  {
+    "name": "Jalolquduq",
+    "country": "UZ",
+    "lat": 40.68918,
+    "lng": 72.60931
+  },
+  {
+    "name": "Jacura",
+    "country": "VE",
+    "lat": 11.07446,
+    "lng": -68.85583
+  },
+  {
+    "name": "Jawf al Maqbābah",
+    "country": "YE",
+    "lat": 13.83783,
+    "lng": 45.83488
+  },
+  {
+    "name": "Ja‘ār",
+    "country": "YE",
+    "lat": 13.223,
+    "lng": 45.30559
+  },
+  {
+    "name": "Jawl al Majma‘",
+    "country": "YE",
+    "lat": 14.93278,
+    "lng": 47.02763
+  },
+  {
+    "name": "Jayshān",
+    "country": "YE",
+    "lat": 14.25204,
+    "lng": 46.17905
+  },
+  {
+    "name": "Jadder Cemetery",
+    "country": "YE",
+    "lat": 15.467,
+    "lng": 44.17787
+  },
+  {
+    "name": "Jansenville",
+    "country": "ZA",
+    "lat": -32.94306,
+    "lng": 24.67218
+  },
+  {
+    "name": "Jan Kempdorp",
+    "country": "ZA",
+    "lat": -27.92246,
+    "lng": 24.83051
+  },
+  {
+    "name": "Jane Furse",
+    "country": "ZA",
+    "lat": -24.76021,
+    "lng": 29.86993
+  },
+  {
+    "name": "James Calata",
+    "country": "ZA",
+    "lat": -31.12139,
+    "lng": 26.80667
+  },
+  {
+    "name": "Jagersfontein",
+    "country": "ZA",
+    "lat": -29.76126,
+    "lng": 25.42706
+  },
+  {
+    "name": "Jacobsdal",
+    "country": "ZA",
+    "lat": -29.12792,
+    "lng": 24.77382
+  }
+]

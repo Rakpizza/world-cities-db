@@ -1,0 +1,5192 @@
+[
+  {
+    "name": "Herāt",
+    "country": "AF",
+    "lat": 34.34817,
+    "lng": 62.19967
+  },
+  {
+    "name": "Helmas",
+    "country": "AL",
+    "lat": 41.18028,
+    "lng": 19.60694
+  },
+  {
+    "name": "Hekal",
+    "country": "AL",
+    "lat": 40.56194,
+    "lng": 19.73583
+  },
+  {
+    "name": "Herrera",
+    "country": "AR",
+    "lat": -32.43401,
+    "lng": -58.63177
+  },
+  {
+    "name": "Herradura",
+    "country": "AR",
+    "lat": -26.48983,
+    "lng": -58.31172
+  },
+  {
+    "name": "Herlitzka",
+    "country": "AR",
+    "lat": -27.56606,
+    "lng": -58.25935
+  },
+  {
+    "name": "Hersilia",
+    "country": "AR",
+    "lat": -30.00376,
+    "lng": -61.83867
+  },
+  {
+    "name": "Herrera",
+    "country": "AR",
+    "lat": -28.48291,
+    "lng": -63.06624
+  },
+  {
+    "name": "Hernando",
+    "country": "AR",
+    "lat": -32.42785,
+    "lng": -63.7335
+  },
+  {
+    "name": "Hernández",
+    "country": "AR",
+    "lat": -32.33748,
+    "lng": -60.031
+  },
+  {
+    "name": "Hermoso Campo",
+    "country": "AR",
+    "lat": -27.61005,
+    "lng": -61.34421
+  },
+  {
+    "name": "Henderson",
+    "country": "AR",
+    "lat": -36.29818,
+    "lng": -61.71856
+  },
+  {
+    "name": "Helvecia",
+    "country": "AR",
+    "lat": -31.10066,
+    "lng": -60.08805
+  },
+  {
+    "name": "Heugraben",
+    "country": "AT",
+    "lat": 47.11783,
+    "lng": 16.19041
+  },
+  {
+    "name": "Hetzendorf",
+    "country": "AT",
+    "lat": 47.18333,
+    "lng": 14.68333
+  },
+  {
+    "name": "Herzogsdorf",
+    "country": "AT",
+    "lat": 48.43011,
+    "lng": 14.1128
+  },
+  {
+    "name": "Herzogenburg",
+    "country": "AT",
+    "lat": 48.28137,
+    "lng": 15.69431
+  },
+  {
+    "name": "Herrnbaumgarten",
+    "country": "AT",
+    "lat": 48.69606,
+    "lng": 16.68283
+  },
+  {
+    "name": "Hernstein",
+    "country": "AT",
+    "lat": 47.89465,
+    "lng": 16.10561
+  },
+  {
+    "name": "Hernals",
+    "country": "AT",
+    "lat": 48.22544,
+    "lng": 16.30871
+  },
+  {
+    "name": "Hermagor",
+    "country": "AT",
+    "lat": 46.62722,
+    "lng": 13.36722
+  },
+  {
+    "name": "Hennersdorf",
+    "country": "AT",
+    "lat": 48.11173,
+    "lng": 16.36311
+  },
+  {
+    "name": "Henndorf am Wallersee",
+    "country": "AT",
+    "lat": 47.9,
+    "lng": 13.18333
+  },
+  {
+    "name": "Hengsberg",
+    "country": "AT",
+    "lat": 46.8692,
+    "lng": 15.4505
+  },
+  {
+    "name": "Hellmonsödt",
+    "country": "AT",
+    "lat": 48.43333,
+    "lng": 14.3
+  },
+  {
+    "name": "Heiterwang",
+    "country": "AT",
+    "lat": 47.45,
+    "lng": 10.75
+  },
+  {
+    "name": "Heiligenkreuz im Lafnitztal",
+    "country": "AT",
+    "lat": 46.98917,
+    "lng": 16.26083
+  },
+  {
+    "name": "Heiligenkreuz am Waasen",
+    "country": "AT",
+    "lat": 46.95583,
+    "lng": 15.58806
+  },
+  {
+    "name": "Heiligenkreuz",
+    "country": "AT",
+    "lat": 48.05559,
+    "lng": 16.12493
+  },
+  {
+    "name": "Heiligeneich",
+    "country": "AT",
+    "lat": 48.29964,
+    "lng": 15.89413
+  },
+  {
+    "name": "Heiligenbrunn",
+    "country": "AT",
+    "lat": 47.02705,
+    "lng": 16.41688
+  },
+  {
+    "name": "Heiligenblut",
+    "country": "AT",
+    "lat": 47.03979,
+    "lng": 12.84345
+  },
+  {
+    "name": "Heidenreichstein",
+    "country": "AT",
+    "lat": 48.86667,
+    "lng": 15.11667
+  },
+  {
+    "name": "Heimschuh",
+    "country": "AT",
+    "lat": 46.76,
+    "lng": 15.49306
+  },
+  {
+    "name": "Heinfels",
+    "country": "AT",
+    "lat": 46.75,
+    "lng": 12.45
+  },
+  {
+    "name": "Herne Hill",
+    "country": "AU",
+    "lat": -31.82553,
+    "lng": 116.0227
+  },
+  {
+    "name": "Heywood",
+    "country": "AU",
+    "lat": -38.13294,
+    "lng": 141.62949
+  },
+  {
+    "name": "Henty",
+    "country": "AU",
+    "lat": -35.52094,
+    "lng": 147.03426
+  },
+  {
+    "name": "Helidon",
+    "country": "AU",
+    "lat": -27.55316,
+    "lng": 152.12398
+  },
+  {
+    "name": "Helensburgh",
+    "country": "AU",
+    "lat": -34.17836,
+    "lng": 150.99522
+  },
+  {
+    "name": "Heidelberg West",
+    "country": "AU",
+    "lat": -37.73922,
+    "lng": 145.04034
+  },
+  {
+    "name": "Heidelberg",
+    "country": "AU",
+    "lat": -37.75,
+    "lng": 145.06667
+  },
+  {
+    "name": "Heddon Greta",
+    "country": "AU",
+    "lat": -32.80204,
+    "lng": 151.51327
+  },
+  {
+    "name": "Heathmont",
+    "country": "AU",
+    "lat": -37.83333,
+    "lng": 145.25
+  },
+  {
+    "name": "Heatherton",
+    "country": "AU",
+    "lat": -37.96667,
+    "lng": 145.1
+  },
+  {
+    "name": "Heathcote",
+    "country": "AU",
+    "lat": -36.92214,
+    "lng": 144.70837
+  },
+  {
+    "name": "Heathcote",
+    "country": "AU",
+    "lat": -34.0841,
+    "lng": 151.01305
+  },
+  {
+    "name": "Healesville",
+    "country": "AU",
+    "lat": -37.65395,
+    "lng": 145.51718
+  },
+  {
+    "name": "Hervey Bay",
+    "country": "AU",
+    "lat": -25.28762,
+    "lng": 152.76936
+  },
+  {
+    "name": "Heyfield",
+    "country": "AU",
+    "lat": -37.9813,
+    "lng": 146.78559
+  },
+  {
+    "name": "Heathridge",
+    "country": "AU",
+    "lat": -31.76244,
+    "lng": 115.75895
+  },
+  {
+    "name": "Herston",
+    "country": "AU",
+    "lat": -27.44453,
+    "lng": 153.01852
+  },
+  {
+    "name": "Helensvale",
+    "country": "AU",
+    "lat": -27.91828,
+    "lng": 153.33275
+  },
+  {
+    "name": "Henley Beach South",
+    "country": "AU",
+    "lat": -34.92591,
+    "lng": 138.49554
+  },
+  {
+    "name": "Heathwood",
+    "country": "AU",
+    "lat": -27.63449,
+    "lng": 152.98814
+  },
+  {
+    "name": "Heritage Park",
+    "country": "AU",
+    "lat": -27.68273,
+    "lng": 153.06082
+  },
+  {
+    "name": "Hermit Park",
+    "country": "AU",
+    "lat": -19.28741,
+    "lng": 146.80043
+  },
+  {
+    "name": "Helena Valley",
+    "country": "AU",
+    "lat": -31.91938,
+    "lng": 116.03982
+  },
+  {
+    "name": "Herne Hill",
+    "country": "AU",
+    "lat": -38.13427,
+    "lng": 144.32406
+  },
+  {
+    "name": "Herbert",
+    "country": "AU",
+    "lat": -12.53414,
+    "lng": 131.16197
+  },
+  {
+    "name": "Hebersham",
+    "country": "AU",
+    "lat": -33.74582,
+    "lng": 150.82385
+  },
+  {
+    "name": "Hewett",
+    "country": "AU",
+    "lat": -34.57801,
+    "lng": 138.75242
+  },
+  {
+    "name": "Heckenberg",
+    "country": "AU",
+    "lat": -33.90828,
+    "lng": 150.88982
+  },
+  {
+    "name": "Herdsmans Cove",
+    "country": "AU",
+    "lat": -42.75066,
+    "lng": 147.26483
+  },
+  {
+    "name": "Heatley",
+    "country": "AU",
+    "lat": -19.29035,
+    "lng": 146.75355
+  },
+  {
+    "name": "Hemmant",
+    "country": "AU",
+    "lat": -27.44776,
+    "lng": 153.13174
+  },
+  {
+    "name": "Hendra",
+    "country": "AU",
+    "lat": -27.41775,
+    "lng": 153.07025
+  },
+  {
+    "name": "Heidelberg Heights",
+    "country": "AU",
+    "lat": -37.74313,
+    "lng": 145.05695
+  },
+  {
+    "name": "Hectorville",
+    "country": "AU",
+    "lat": -34.89157,
+    "lng": 138.65892
+  },
+  {
+    "name": "Henley Beach",
+    "country": "AU",
+    "lat": -34.92029,
+    "lng": 138.49442
+  },
+  {
+    "name": "Henley Brook",
+    "country": "AU",
+    "lat": -31.81393,
+    "lng": 115.98807
+  },
+  {
+    "name": "Healy",
+    "country": "AU",
+    "lat": -20.74596,
+    "lng": 139.5001
+  },
+  {
+    "name": "Heydarabad",
+    "country": "AZ",
+    "lat": 39.72286,
+    "lng": 44.84846
+  },
+  {
+    "name": "Heverlee",
+    "country": "BE",
+    "lat": 50.86426,
+    "lng": 4.69597
+  },
+  {
+    "name": "Hever",
+    "country": "BE",
+    "lat": 50.99545,
+    "lng": 4.55126
+  },
+  {
+    "name": "Heusy",
+    "country": "BE",
+    "lat": 50.57457,
+    "lng": 5.86618
+  },
+  {
+    "name": "Heusden",
+    "country": "BE",
+    "lat": 51.03664,
+    "lng": 5.28013
+  },
+  {
+    "name": "Heusden",
+    "country": "BE",
+    "lat": 51.02815,
+    "lng": 3.80425
+  },
+  {
+    "name": "Heure-le-Romain",
+    "country": "BE",
+    "lat": 50.73162,
+    "lng": 5.6329
+  },
+  {
+    "name": "Heule",
+    "country": "BE",
+    "lat": 50.83752,
+    "lng": 3.23818
+  },
+  {
+    "name": "Herzele",
+    "country": "BE",
+    "lat": 50.88681,
+    "lng": 3.89014
+  },
+  {
+    "name": "Herve",
+    "country": "BE",
+    "lat": 50.64083,
+    "lng": 5.79353
+  },
+  {
+    "name": "Hertsberge",
+    "country": "BE",
+    "lat": 51.10728,
+    "lng": 3.26936
+  },
+  {
+    "name": "Herstal",
+    "country": "BE",
+    "lat": 50.66415,
+    "lng": 5.62346
+  },
+  {
+    "name": "Herselt",
+    "country": "BE",
+    "lat": 51.05159,
+    "lng": 4.88231
+  },
+  {
+    "name": "Herseaux",
+    "country": "BE",
+    "lat": 50.71667,
+    "lng": 3.21667
+  },
+  {
+    "name": "Herne",
+    "country": "BE",
+    "lat": 50.72423,
+    "lng": 4.03481
+  },
+  {
+    "name": "Hermée",
+    "country": "BE",
+    "lat": 50.70883,
+    "lng": 5.61831
+  },
+  {
+    "name": "Hermalle-sous-Huy",
+    "country": "BE",
+    "lat": 50.5592,
+    "lng": 5.3639
+  },
+  {
+    "name": "Hermalle-sous-Argenteau",
+    "country": "BE",
+    "lat": 50.71231,
+    "lng": 5.67753
+  },
+  {
+    "name": "Herk-de-Stad",
+    "country": "BE",
+    "lat": 50.94013,
+    "lng": 5.16636
+  },
+  {
+    "name": "Hergenrath",
+    "country": "BE",
+    "lat": 50.70912,
+    "lng": 6.03089
+  },
+  {
+    "name": "Herfelingen",
+    "country": "BE",
+    "lat": 50.74816,
+    "lng": 4.09754
+  },
+  {
+    "name": "Herenthout",
+    "country": "BE",
+    "lat": 51.1401,
+    "lng": 4.75572
+  },
+  {
+    "name": "Herentals",
+    "country": "BE",
+    "lat": 51.17655,
+    "lng": 4.83248
+  },
+  {
+    "name": "Herent",
+    "country": "BE",
+    "lat": 50.90861,
+    "lng": 4.67056
+  },
+  {
+    "name": "Herdersem",
+    "country": "BE",
+    "lat": 50.97193,
+    "lng": 4.06667
+  },
+  {
+    "name": "Herderen",
+    "country": "BE",
+    "lat": 50.80734,
+    "lng": 5.5735
+  },
+  {
+    "name": "Herchies",
+    "country": "BE",
+    "lat": 50.52794,
+    "lng": 3.85689
+  },
+  {
+    "name": "Herbeumont",
+    "country": "BE",
+    "lat": 49.78086,
+    "lng": 5.2358
+  },
+  {
+    "name": "Heppignies",
+    "country": "BE",
+    "lat": 50.4846,
+    "lng": 4.4953
+  },
+  {
+    "name": "Heppenbach",
+    "country": "BE",
+    "lat": 50.3626,
+    "lng": 6.21826
+  },
+  {
+    "name": "Heppen",
+    "country": "BE",
+    "lat": 51.10934,
+    "lng": 5.22898
+  },
+  {
+    "name": "Hensies",
+    "country": "BE",
+    "lat": 50.43263,
+    "lng": 3.68411
+  },
+  {
+    "name": "Henri-Chapelle",
+    "country": "BE",
+    "lat": 50.67688,
+    "lng": 5.93009
+  },
+  {
+    "name": "Hennuyères",
+    "country": "BE",
+    "lat": 50.6386,
+    "lng": 4.16935
+  },
+  {
+    "name": "Hemiksem",
+    "country": "BE",
+    "lat": 51.14484,
+    "lng": 4.33874
+  },
+  {
+    "name": "Hellebecq",
+    "country": "BE",
+    "lat": 50.66426,
+    "lng": 3.88839
+  },
+  {
+    "name": "Heldergem",
+    "country": "BE",
+    "lat": 50.87799,
+    "lng": 3.95789
+  },
+  {
+    "name": "Helchteren",
+    "country": "BE",
+    "lat": 51.05591,
+    "lng": 5.38244
+  },
+  {
+    "name": "Hekelgem",
+    "country": "BE",
+    "lat": 50.90569,
+    "lng": 4.10769
+  },
+  {
+    "name": "Heist-op-den-Berg",
+    "country": "BE",
+    "lat": 51.07537,
+    "lng": 4.72827
+  },
+  {
+    "name": "Heist",
+    "country": "BE",
+    "lat": 51.33867,
+    "lng": 3.23882
+  },
+  {
+    "name": "Heinsch",
+    "country": "BE",
+    "lat": 49.69986,
+    "lng": 5.7467
+  },
+  {
+    "name": "Heffen",
+    "country": "BE",
+    "lat": 51.04722,
+    "lng": 4.41599
+  },
+  {
+    "name": "Heestert",
+    "country": "BE",
+    "lat": 50.78204,
+    "lng": 3.41218
+  },
+  {
+    "name": "Heers",
+    "country": "BE",
+    "lat": 50.75383,
+    "lng": 5.3021
+  },
+  {
+    "name": "Hechtel",
+    "country": "BE",
+    "lat": 51.12518,
+    "lng": 5.36768
+  },
+  {
+    "name": "Herval",
+    "country": "BR",
+    "lat": -32.02361,
+    "lng": -53.39556
+  },
+  {
+    "name": "Herculândia",
+    "country": "BR",
+    "lat": -22.00361,
+    "lng": -50.38528
+  },
+  {
+    "name": "Heliópolis",
+    "country": "BR",
+    "lat": -10.68333,
+    "lng": -38.28611
+  },
+  {
+    "name": "Heliodora",
+    "country": "BR",
+    "lat": -22.06722,
+    "lng": -45.54222
+  },
+  {
+    "name": "Herveiras",
+    "country": "BR",
+    "lat": -29.40667,
+    "lng": -52.6525
+  },
+  {
+    "name": "Herval d'Oeste",
+    "country": "BR",
+    "lat": -27.17524,
+    "lng": -51.49215
+  },
+  {
+    "name": "Heitoraí",
+    "country": "BR",
+    "lat": -15.71889,
+    "lng": -49.82917
+  },
+  {
+    "name": "Herval dOeste",
+    "country": "BR",
+    "lat": -27.19361,
+    "lng": -51.49472
+  },
+  {
+    "name": "Headingley",
+    "country": "CA",
+    "lat": 49.8753,
+    "lng": -97.40896
+  },
+  {
+    "name": "Hearst",
+    "country": "CA",
+    "lat": 49.68351,
+    "lng": -83.66654
+  },
+  {
+    "name": "Henry Farm",
+    "country": "CA",
+    "lat": 43.76952,
+    "lng": -79.3524
+  },
+  {
+    "name": "Heritage Pointe",
+    "country": "CA",
+    "lat": 50.84213,
+    "lng": -114.00493
+  },
+  {
+    "name": "Heritage Mountain",
+    "country": "CA",
+    "lat": 49.29079,
+    "lng": -122.83189
+  },
+  {
+    "name": "Hettlingen",
+    "country": "CH",
+    "lat": 47.5461,
+    "lng": 8.70532
+  },
+  {
+    "name": "Herzogenbuchsee",
+    "country": "CH",
+    "lat": 47.18795,
+    "lng": 7.7062
+  },
+  {
+    "name": "Herrliberg",
+    "country": "CH",
+    "lat": 47.29064,
+    "lng": 8.61464
+  },
+  {
+    "name": "Hermiswil",
+    "country": "CH",
+    "lat": 46.83125,
+    "lng": 7.47775
+  },
+  {
+    "name": "Herisau",
+    "country": "CH",
+    "lat": 47.38615,
+    "lng": 9.27916
+  },
+  {
+    "name": "Hergiswil",
+    "country": "CH",
+    "lat": 46.98429,
+    "lng": 8.30944
+  },
+  {
+    "name": "Henggart",
+    "country": "CH",
+    "lat": 47.56272,
+    "lng": 8.68215
+  },
+  {
+    "name": "Heitenried",
+    "country": "CH",
+    "lat": 46.82762,
+    "lng": 7.29944
+  },
+  {
+    "name": "Heimiswil",
+    "country": "CH",
+    "lat": 47.06755,
+    "lng": 7.66665
+  },
+  {
+    "name": "Heimberg",
+    "country": "CH",
+    "lat": 46.79482,
+    "lng": 7.60433
+  },
+  {
+    "name": "Heiden",
+    "country": "CH",
+    "lat": 47.44255,
+    "lng": 9.53293
+  },
+  {
+    "name": "Hedingen",
+    "country": "CH",
+    "lat": 47.29794,
+    "lng": 8.44833
+  },
+  {
+    "name": "Hegnau / Sunnebüel-Eich",
+    "country": "CH",
+    "lat": 47.39246,
+    "lng": 8.6791
+  },
+  {
+    "name": "Hegnau / Dammboden-Grindel",
+    "country": "CH",
+    "lat": 47.38713,
+    "lng": 8.66657
+  },
+  {
+    "name": "Hegnau",
+    "country": "CH",
+    "lat": 47.39227,
+    "lng": 8.66988
+  },
+  {
+    "name": "Heshun",
+    "country": "CN",
+    "lat": 25.01667,
+    "lng": 98.46667
+  },
+  {
+    "name": "Hejing",
+    "country": "CN",
+    "lat": 42.31069,
+    "lng": 86.39103
+  },
+  {
+    "name": "Hegou",
+    "country": "CN",
+    "lat": 34.40833,
+    "lng": 118.12222
+  },
+  {
+    "name": "Heqiao",
+    "country": "CN",
+    "lat": 34.45278,
+    "lng": 116.9
+  },
+  {
+    "name": "Hekou",
+    "country": "CN",
+    "lat": 34.57778,
+    "lng": 116.81389
+  },
+  {
+    "name": "Heyuan",
+    "country": "CN",
+    "lat": 23.73333,
+    "lng": 114.68333
+  },
+  {
+    "name": "Heyou",
+    "country": "CN",
+    "lat": 30.08256,
+    "lng": 107.35174
+  },
+  {
+    "name": "Hengzhou",
+    "country": "CN",
+    "lat": 38.62085,
+    "lng": 114.70388
+  },
+  {
+    "name": "Heyang",
+    "country": "CN",
+    "lat": 37.00082,
+    "lng": 114.6878
+  },
+  {
+    "name": "Hecheng",
+    "country": "CN",
+    "lat": 27.7139,
+    "lng": 117.06802
+  },
+  {
+    "name": "Hepu",
+    "country": "CN",
+    "lat": 21.65921,
+    "lng": 109.20011
+  },
+  {
+    "name": "Hezuo",
+    "country": "CN",
+    "lat": 34.98556,
+    "lng": 102.90944
+  },
+  {
+    "name": "Hezheng Chengguanzhen",
+    "country": "CN",
+    "lat": 35.42999,
+    "lng": 103.35725
+  },
+  {
+    "name": "Hezhang",
+    "country": "CN",
+    "lat": 27.12222,
+    "lng": 104.72389
+  },
+  {
+    "name": "Heze",
+    "country": "CN",
+    "lat": 35.23929,
+    "lng": 115.47358
+  },
+  {
+    "name": "Heyin",
+    "country": "CN",
+    "lat": 36.04408,
+    "lng": 101.42874
+  },
+  {
+    "name": "Hechuan",
+    "country": "CN",
+    "lat": 29.99228,
+    "lng": 106.26461
+  },
+  {
+    "name": "Hexiangqiao",
+    "country": "CN",
+    "lat": 27.22028,
+    "lng": 110.96333
+  },
+  {
+    "name": "Hetoudian",
+    "country": "CN",
+    "lat": 37.01837,
+    "lng": 120.57372
+  },
+  {
+    "name": "Hetang",
+    "country": "CN",
+    "lat": 26.66276,
+    "lng": 119.11062
+  },
+  {
+    "name": "Heshan",
+    "country": "CN",
+    "lat": 28.56938,
+    "lng": 112.34733
+  },
+  {
+    "name": "Hepo",
+    "country": "CN",
+    "lat": 23.43077,
+    "lng": 115.82991
+  },
+  {
+    "name": "Hepingyizu",
+    "country": "CN",
+    "lat": 29.24693,
+    "lng": 103.08249
+  },
+  {
+    "name": "Heping",
+    "country": "CN",
+    "lat": 28.5579,
+    "lng": 108.49
+  },
+  {
+    "name": "Heping",
+    "country": "CN",
+    "lat": 22.69419,
+    "lng": 113.79144
+  },
+  {
+    "name": "Heng",
+    "country": "CN",
+    "lat": 22.68314,
+    "lng": 109.25713
+  },
+  {
+    "name": "Hengyang",
+    "country": "CN",
+    "lat": 26.88946,
+    "lng": 112.61888
+  },
+  {
+    "name": "Hengshui",
+    "country": "CN",
+    "lat": 37.73908,
+    "lng": 115.68348
+  },
+  {
+    "name": "Hengshui",
+    "country": "CN",
+    "lat": 25.7,
+    "lng": 114.31667
+  },
+  {
+    "name": "Hengdong Chengguanzhen",
+    "country": "CN",
+    "lat": 27.08333,
+    "lng": 112.95
+  },
+  {
+    "name": "Hengbei",
+    "country": "CN",
+    "lat": 23.87968,
+    "lng": 115.72546
+  },
+  {
+    "name": "Hengbanqiao",
+    "country": "CN",
+    "lat": 27.17167,
+    "lng": 110.86528
+  },
+  {
+    "name": "Helixi",
+    "country": "CN",
+    "lat": 30.62841,
+    "lng": 118.98124
+  },
+  {
+    "name": "Helin",
+    "country": "CN",
+    "lat": 30.58123,
+    "lng": 107.68064
+  },
+  {
+    "name": "Helie",
+    "country": "CN",
+    "lat": 31.5214,
+    "lng": 120.28961
+  },
+  {
+    "name": "Hekou",
+    "country": "CN",
+    "lat": 28.31176,
+    "lng": 117.70808
+  },
+  {
+    "name": "Hekou",
+    "country": "CN",
+    "lat": 22.53851,
+    "lng": 104.01109
+  },
+  {
+    "name": "Hejiang",
+    "country": "CN",
+    "lat": 28.81161,
+    "lng": 105.83359
+  },
+  {
+    "name": "Hejian",
+    "country": "CN",
+    "lat": 38.43918,
+    "lng": 116.09559
+  },
+  {
+    "name": "Heishui",
+    "country": "CN",
+    "lat": 29.05551,
+    "lng": 108.79636
+  },
+  {
+    "name": "Heilangkou",
+    "country": "CN",
+    "lat": 39.61278,
+    "lng": 117.40167
+  },
+  {
+    "name": "Hefei",
+    "country": "CN",
+    "lat": 31.86389,
+    "lng": 117.28083
+  },
+  {
+    "name": "Hede",
+    "country": "CN",
+    "lat": 33.7722,
+    "lng": 120.26176
+  },
+  {
+    "name": "Hecun",
+    "country": "CN",
+    "lat": 36.53333,
+    "lng": 114.11111
+  },
+  {
+    "name": "Hechuan",
+    "country": "CN",
+    "lat": 26.93613,
+    "lng": 114.22778
+  },
+  {
+    "name": "Hecheng",
+    "country": "CN",
+    "lat": 28.13939,
+    "lng": 120.28799
+  },
+  {
+    "name": "Hebian",
+    "country": "CN",
+    "lat": 29.65663,
+    "lng": 106.19673
+  },
+  {
+    "name": "Hebi",
+    "country": "CN",
+    "lat": 35.73231,
+    "lng": 114.28616
+  },
+  {
+    "name": "Hebeitun",
+    "country": "CN",
+    "lat": 39.57472,
+    "lng": 117.11333
+  },
+  {
+    "name": "Heba",
+    "country": "CN",
+    "lat": 33.93624,
+    "lng": 105.21625
+  },
+  {
+    "name": "Heba",
+    "country": "CN",
+    "lat": 29.18875,
+    "lng": 112.63096
+  },
+  {
+    "name": "Hengfeng",
+    "country": "CN",
+    "lat": 28.41145,
+    "lng": 117.59547
+  },
+  {
+    "name": "Hebao",
+    "country": "CN",
+    "lat": 29.56617,
+    "lng": 105.54338
+  },
+  {
+    "name": "Hegeng",
+    "country": "CN",
+    "lat": 29.13696,
+    "lng": 105.86988
+  },
+  {
+    "name": "Heqing",
+    "country": "CN",
+    "lat": 19.52831,
+    "lng": 109.63279
+  },
+  {
+    "name": "Hedong",
+    "country": "CN",
+    "lat": 23.9196,
+    "lng": 115.7801
+  },
+  {
+    "name": "Hepingjie",
+    "country": "CN",
+    "lat": 42.05972,
+    "lng": 126.91583
+  },
+  {
+    "name": "Hengshan",
+    "country": "CN",
+    "lat": 45.20837,
+    "lng": 130.89808
+  },
+  {
+    "name": "Helong",
+    "country": "CN",
+    "lat": 42.53974,
+    "lng": 128.99722
+  },
+  {
+    "name": "Heishan",
+    "country": "CN",
+    "lat": 41.68917,
+    "lng": 122.11278
+  },
+  {
+    "name": "Heihe",
+    "country": "CN",
+    "lat": 50.24413,
+    "lng": 127.49016
+  },
+  {
+    "name": "Hegang",
+    "country": "CN",
+    "lat": 47.34727,
+    "lng": 130.29033
+  },
+  {
+    "name": "Hexi",
+    "country": "CN",
+    "lat": 21.68651,
+    "lng": 110.63417
+  },
+  {
+    "name": "Hejiabao",
+    "country": "CN",
+    "lat": 34.03659,
+    "lng": 104.31586
+  },
+  {
+    "name": "Hezhou",
+    "country": "CN",
+    "lat": 24.40357,
+    "lng": 111.56675
+  },
+  {
+    "name": "Heping",
+    "country": "CN",
+    "lat": 46.08626,
+    "lng": 122.07708
+  },
+  {
+    "name": "Hehai",
+    "country": "CN",
+    "lat": 31.82921,
+    "lng": 119.9778
+  },
+  {
+    "name": "Heyu",
+    "country": "CN",
+    "lat": 31.87058,
+    "lng": 108.9492
+  },
+  {
+    "name": "Heqian",
+    "country": "CN",
+    "lat": 31.41497,
+    "lng": 108.46973
+  },
+  {
+    "name": "Heyan",
+    "country": "CN",
+    "lat": 31.35639,
+    "lng": 108.67045
+  },
+  {
+    "name": "Henghe",
+    "country": "CN",
+    "lat": 30.53147,
+    "lng": 108.75415
+  },
+  {
+    "name": "Hezui",
+    "country": "CN",
+    "lat": 30.51197,
+    "lng": 108.3985
+  },
+  {
+    "name": "Hexing",
+    "country": "CN",
+    "lat": 30.74485,
+    "lng": 107.81977
+  },
+  {
+    "name": "Heixi",
+    "country": "CN",
+    "lat": 29.62064,
+    "lng": 108.54075
+  },
+  {
+    "name": "Heshun",
+    "country": "CN",
+    "lat": 29.4123,
+    "lng": 107.42352
+  },
+  {
+    "name": "Hetu",
+    "country": "CN",
+    "lat": 29.30898,
+    "lng": 107.02885
+  },
+  {
+    "name": "Hexi",
+    "country": "CN",
+    "lat": 28.83116,
+    "lng": 107.31303
+  },
+  {
+    "name": "Hengshan",
+    "country": "CN",
+    "lat": 29.1135,
+    "lng": 106.67237
+  },
+  {
+    "name": "Herembagh",
+    "country": "CN",
+    "lat": 43.90845,
+    "lng": 81.33299
+  },
+  {
+    "name": "Hekou",
+    "country": "CN",
+    "lat": 37.88464,
+    "lng": 118.52664
+  },
+  {
+    "name": "Heguan",
+    "country": "CN",
+    "lat": 36.88998,
+    "lng": 118.57379
+  },
+  {
+    "name": "Heshan",
+    "country": "CN",
+    "lat": 23.81301,
+    "lng": 108.88812
+  },
+  {
+    "name": "Heshan",
+    "country": "CN",
+    "lat": 35.52336,
+    "lng": 119.51009
+  },
+  {
+    "name": "Hechi",
+    "country": "CN",
+    "lat": 24.69285,
+    "lng": 108.08376
+  },
+  {
+    "name": "Hehua",
+    "country": "CN",
+    "lat": 24.97024,
+    "lng": 98.39368
+  },
+  {
+    "name": "Hefeng",
+    "country": "CN",
+    "lat": 30.92941,
+    "lng": 109.54093
+  },
+  {
+    "name": "Heishan",
+    "country": "CN",
+    "lat": 28.91651,
+    "lng": 107.00086
+  },
+  {
+    "name": "Heshan",
+    "country": "CN",
+    "lat": 35.97373,
+    "lng": 114.14974
+  },
+  {
+    "name": "Heyi",
+    "country": "CN",
+    "lat": 22.71423,
+    "lng": 113.78528
+  },
+  {
+    "name": "Hedong",
+    "country": "CN",
+    "lat": 22.57444,
+    "lng": 113.88314
+  },
+  {
+    "name": "Herveo",
+    "country": "CO",
+    "lat": 5.08004,
+    "lng": -75.17556
+  },
+  {
+    "name": "Herrán",
+    "country": "CO",
+    "lat": 7.50611,
+    "lng": -72.48332
+  },
+  {
+    "name": "Heliconia",
+    "country": "CO",
+    "lat": 6.20831,
+    "lng": -75.73565
+  },
+  {
+    "name": "Heredia",
+    "country": "CR",
+    "lat": 9.99872,
+    "lng": -84.11587
+  },
+  {
+    "name": "Hevlín",
+    "country": "CZ",
+    "lat": 48.75209,
+    "lng": 16.38131
+  },
+  {
+    "name": "Heřmanův Městec",
+    "country": "CZ",
+    "lat": 49.94707,
+    "lng": 15.66492
+  },
+  {
+    "name": "Heřmanova Huť",
+    "country": "CZ",
+    "lat": 49.70679,
+    "lng": 13.10069
+  },
+  {
+    "name": "Herálec",
+    "country": "CZ",
+    "lat": 49.68891,
+    "lng": 15.99431
+  },
+  {
+    "name": "Herálec",
+    "country": "CZ",
+    "lat": 49.53083,
+    "lng": 15.45708
+  },
+  {
+    "name": "Hejnice",
+    "country": "CZ",
+    "lat": 50.8772,
+    "lng": 15.18168
+  },
+  {
+    "name": "Heidstock",
+    "country": "DE",
+    "lat": 49.25571,
+    "lng": 6.88156
+  },
+  {
+    "name": "Heyersum",
+    "country": "DE",
+    "lat": 52.15678,
+    "lng": 9.81265
+  },
+  {
+    "name": "Heyerode",
+    "country": "DE",
+    "lat": 51.16439,
+    "lng": 10.32009
+  },
+  {
+    "name": "Heusweiler",
+    "country": "DE",
+    "lat": 49.33632,
+    "lng": 6.93036
+  },
+  {
+    "name": "Heustreu",
+    "country": "DE",
+    "lat": 50.35485,
+    "lng": 10.26069
+  },
+  {
+    "name": "Heusenstamm",
+    "country": "DE",
+    "lat": 50.05553,
+    "lng": 8.80076
+  },
+  {
+    "name": "Heumaden",
+    "country": "DE",
+    "lat": 48.74657,
+    "lng": 9.23547
+  },
+  {
+    "name": "Heuerßen",
+    "country": "DE",
+    "lat": 52.32946,
+    "lng": 9.27718
+  },
+  {
+    "name": "Heudeber",
+    "country": "DE",
+    "lat": 51.90245,
+    "lng": 10.84321
+  },
+  {
+    "name": "Heuchlingen",
+    "country": "DE",
+    "lat": 48.85215,
+    "lng": 9.94391
+  },
+  {
+    "name": "Heuchelheim bei Frankenthal",
+    "country": "DE",
+    "lat": 49.56306,
+    "lng": 8.29083
+  },
+  {
+    "name": "Heuchelheim",
+    "country": "DE",
+    "lat": 50.58333,
+    "lng": 8.63333
+  },
+  {
+    "name": "Heubach",
+    "country": "DE",
+    "lat": 48.79267,
+    "lng": 9.9337
+  },
+  {
+    "name": "Hetzles",
+    "country": "DE",
+    "lat": 49.63333,
+    "lng": 11.13333
+  },
+  {
+    "name": "Hetzerath",
+    "country": "DE",
+    "lat": 49.88333,
+    "lng": 6.81667
+  },
+  {
+    "name": "Hettstedt",
+    "country": "DE",
+    "lat": 51.6503,
+    "lng": 11.51146
+  },
+  {
+    "name": "Hettstadt",
+    "country": "DE",
+    "lat": 49.79944,
+    "lng": 9.815
+  },
+  {
+    "name": "Hettingen",
+    "country": "DE",
+    "lat": 48.21601,
+    "lng": 9.23169
+  },
+  {
+    "name": "Hettenshausen",
+    "country": "DE",
+    "lat": 48.5,
+    "lng": 11.5
+  },
+  {
+    "name": "Hettenleidelheim",
+    "country": "DE",
+    "lat": 49.53556,
+    "lng": 8.07361
+  },
+  {
+    "name": "Hetlingen",
+    "country": "DE",
+    "lat": 53.60712,
+    "lng": 9.63718
+  },
+  {
+    "name": "Hessisch Oldendorf",
+    "country": "DE",
+    "lat": 52.17269,
+    "lng": 9.24913
+  },
+  {
+    "name": "Hessisch Lichtenau",
+    "country": "DE",
+    "lat": 51.19954,
+    "lng": 9.71857
+  },
+  {
+    "name": "Hessigheim",
+    "country": "DE",
+    "lat": 48.99407,
+    "lng": 9.18629
+  },
+  {
+    "name": "Heßheim",
+    "country": "DE",
+    "lat": 49.54583,
+    "lng": 8.30778
+  },
+  {
+    "name": "Heßdorf",
+    "country": "DE",
+    "lat": 49.62728,
+    "lng": 10.91002
+  },
+  {
+    "name": "Hespe",
+    "country": "DE",
+    "lat": 52.32999,
+    "lng": 9.10818
+  },
+  {
+    "name": "Hesel",
+    "country": "DE",
+    "lat": 53.3,
+    "lng": 7.6
+  },
+  {
+    "name": "Herzogenrath",
+    "country": "DE",
+    "lat": 50.86874,
+    "lng": 6.09317
+  },
+  {
+    "name": "Herzogenaurach",
+    "country": "DE",
+    "lat": 49.56798,
+    "lng": 10.88565
+  },
+  {
+    "name": "Herzlake",
+    "country": "DE",
+    "lat": 52.6853,
+    "lng": 7.59946
+  },
+  {
+    "name": "Herzhorn",
+    "country": "DE",
+    "lat": 53.78728,
+    "lng": 9.48461
+  },
+  {
+    "name": "Herzberg am Harz",
+    "country": "DE",
+    "lat": 51.65546,
+    "lng": 10.33938
+  },
+  {
+    "name": "Herzberg",
+    "country": "DE",
+    "lat": 51.68692,
+    "lng": 13.22016
+  },
+  {
+    "name": "Herxheim am Berg",
+    "country": "DE",
+    "lat": 49.50917,
+    "lng": 8.17917
+  },
+  {
+    "name": "Herten",
+    "country": "DE",
+    "lat": 51.59638,
+    "lng": 7.14387
+  },
+  {
+    "name": "Herschweiler-Pettersheim",
+    "country": "DE",
+    "lat": 49.48333,
+    "lng": 7.35
+  },
+  {
+    "name": "Herscheid",
+    "country": "DE",
+    "lat": 51.17901,
+    "lng": 7.74355
+  },
+  {
+    "name": "Herschdorf",
+    "country": "DE",
+    "lat": 50.71168,
+    "lng": 11.53736
+  },
+  {
+    "name": "Hersbruck",
+    "country": "DE",
+    "lat": 49.51083,
+    "lng": 11.43151
+  },
+  {
+    "name": "Herrsching am Ammersee",
+    "country": "DE",
+    "lat": 47.99888,
+    "lng": 11.17679
+  },
+  {
+    "name": "Herrnhut",
+    "country": "DE",
+    "lat": 51.01624,
+    "lng": 14.74381
+  },
+  {
+    "name": "Herrngiersdorf",
+    "country": "DE",
+    "lat": 48.78863,
+    "lng": 12.072
+  },
+  {
+    "name": "Herrischried",
+    "country": "DE",
+    "lat": 47.66667,
+    "lng": 8.0
+  },
+  {
+    "name": "Herrieden",
+    "country": "DE",
+    "lat": 49.23779,
+    "lng": 10.5035
+  },
+  {
+    "name": "Herrenberg",
+    "country": "DE",
+    "lat": 48.59523,
+    "lng": 8.86648
+  },
+  {
+    "name": "Heroldsberg",
+    "country": "DE",
+    "lat": 49.53247,
+    "lng": 11.15551
+  },
+  {
+    "name": "Heroldsbach",
+    "country": "DE",
+    "lat": 49.69342,
+    "lng": 10.99882
+  },
+  {
+    "name": "Herne",
+    "country": "DE",
+    "lat": 51.5388,
+    "lng": 7.22572
+  },
+  {
+    "name": "Hermsdorf",
+    "country": "DE",
+    "lat": 52.61421,
+    "lng": 13.30587
+  },
+  {
+    "name": "Hermsdorf",
+    "country": "DE",
+    "lat": 52.1874,
+    "lng": 11.47556
+  },
+  {
+    "name": "Hermsdorf",
+    "country": "DE",
+    "lat": 50.92338,
+    "lng": 13.7348
+  },
+  {
+    "name": "Hermsdorf",
+    "country": "DE",
+    "lat": 50.89694,
+    "lng": 11.85549
+  },
+  {
+    "name": "Hermeskeil",
+    "country": "DE",
+    "lat": 49.65528,
+    "lng": 6.94407
+  },
+  {
+    "name": "Hermersberg",
+    "country": "DE",
+    "lat": 49.31667,
+    "lng": 7.63333
+  },
+  {
+    "name": "Hermaringen",
+    "country": "DE",
+    "lat": 48.59544,
+    "lng": 10.26065
+  },
+  {
+    "name": "Herrmannshöhe",
+    "country": "DE",
+    "lat": 52.25,
+    "lng": 10.5
+  },
+  {
+    "name": "Hermannsburg",
+    "country": "DE",
+    "lat": 52.83254,
+    "lng": 10.08957
+  },
+  {
+    "name": "Herleshausen",
+    "country": "DE",
+    "lat": 51.00629,
+    "lng": 10.16731
+  },
+  {
+    "name": "Heringsdorf",
+    "country": "DE",
+    "lat": 54.301,
+    "lng": 11.00658
+  },
+  {
+    "name": "Heringen",
+    "country": "DE",
+    "lat": 51.44705,
+    "lng": 10.87612
+  },
+  {
+    "name": "Heringen",
+    "country": "DE",
+    "lat": 50.88798,
+    "lng": 10.00717
+  },
+  {
+    "name": "Hergisdorf",
+    "country": "DE",
+    "lat": 51.53333,
+    "lng": 11.48333
+  },
+  {
+    "name": "Hergensweiler",
+    "country": "DE",
+    "lat": 47.61667,
+    "lng": 9.78333
+  },
+  {
+    "name": "Herforst",
+    "country": "DE",
+    "lat": 49.95,
+    "lng": 6.7
+  },
+  {
+    "name": "Herford",
+    "country": "DE",
+    "lat": 52.11457,
+    "lng": 8.67343
+  },
+  {
+    "name": "Heretsried",
+    "country": "DE",
+    "lat": 48.45972,
+    "lng": 10.73601
+  },
+  {
+    "name": "Herdorf",
+    "country": "DE",
+    "lat": 50.77704,
+    "lng": 7.95366
+  },
+  {
+    "name": "Herdecke",
+    "country": "DE",
+    "lat": 51.39999,
+    "lng": 7.43584
+  },
+  {
+    "name": "Herbstein",
+    "country": "DE",
+    "lat": 50.56105,
+    "lng": 9.34592
+  },
+  {
+    "name": "Herbsleben",
+    "country": "DE",
+    "lat": 51.11667,
+    "lng": 10.83333
+  },
+  {
+    "name": "Herbrechtingen",
+    "country": "DE",
+    "lat": 48.62173,
+    "lng": 10.176
+  },
+  {
+    "name": "Herborn",
+    "country": "DE",
+    "lat": 50.68135,
+    "lng": 8.30369
+  },
+  {
+    "name": "Herbolzheim",
+    "country": "DE",
+    "lat": 48.21884,
+    "lng": 7.77746
+  },
+  {
+    "name": "Herbertingen",
+    "country": "DE",
+    "lat": 48.06667,
+    "lng": 9.43333
+  },
+  {
+    "name": "Hepstedt",
+    "country": "DE",
+    "lat": 53.25874,
+    "lng": 9.08209
+  },
+  {
+    "name": "Heppenheim an der Bergstrasse",
+    "country": "DE",
+    "lat": 49.64145,
+    "lng": 8.63206
+  },
+  {
+    "name": "Hennweiler",
+    "country": "DE",
+    "lat": 49.81667,
+    "lng": 7.43333
+  },
+  {
+    "name": "Hennstedt",
+    "country": "DE",
+    "lat": 54.28585,
+    "lng": 9.16204
+  },
+  {
+    "name": "Hennigsdorf",
+    "country": "DE",
+    "lat": 52.63598,
+    "lng": 13.20419
+  },
+  {
+    "name": "Hennef (Sieg)",
+    "country": "DE",
+    "lat": 50.77555,
+    "lng": 7.28308
+  },
+  {
+    "name": "Hengersberg",
+    "country": "DE",
+    "lat": 48.77255,
+    "lng": 13.05485
+  },
+  {
+    "name": "Henfenfeld",
+    "country": "DE",
+    "lat": 49.49846,
+    "lng": 11.39059
+  },
+  {
+    "name": "Hendungen",
+    "country": "DE",
+    "lat": 50.39462,
+    "lng": 10.35204
+  },
+  {
+    "name": "Hemslingen",
+    "country": "DE",
+    "lat": 53.08333,
+    "lng": 9.6
+  },
+  {
+    "name": "Hemsbünde",
+    "country": "DE",
+    "lat": 53.08998,
+    "lng": 9.47261
+  },
+  {
+    "name": "Hemsbach",
+    "country": "DE",
+    "lat": 49.59075,
+    "lng": 8.64779
+  },
+  {
+    "name": "Hemmoor",
+    "country": "DE",
+    "lat": 53.68844,
+    "lng": 9.15241
+  },
+  {
+    "name": "Hemmingstedt",
+    "country": "DE",
+    "lat": 54.1547,
+    "lng": 9.08063
+  },
+  {
+    "name": "Hemmingen",
+    "country": "DE",
+    "lat": 52.31425,
+    "lng": 9.72359
+  },
+  {
+    "name": "Hemmingen",
+    "country": "DE",
+    "lat": 48.86667,
+    "lng": 9.03333
+  },
+  {
+    "name": "Hemhofen",
+    "country": "DE",
+    "lat": 49.68333,
+    "lng": 10.93333
+  },
+  {
+    "name": "Hemer",
+    "country": "DE",
+    "lat": 51.38707,
+    "lng": 7.77019
+  },
+  {
+    "name": "Hemdingen",
+    "country": "DE",
+    "lat": 53.76494,
+    "lng": 9.84224
+  },
+  {
+    "name": "Hemau",
+    "country": "DE",
+    "lat": 49.05399,
+    "lng": 11.78195
+  },
+  {
+    "name": "Heltersberg",
+    "country": "DE",
+    "lat": 49.31667,
+    "lng": 7.71667
+  },
+  {
+    "name": "Helsa",
+    "country": "DE",
+    "lat": 51.25981,
+    "lng": 9.68872
+  },
+  {
+    "name": "Helpsen",
+    "country": "DE",
+    "lat": 52.31131,
+    "lng": 9.11676
+  },
+  {
+    "name": "Helmstedt",
+    "country": "DE",
+    "lat": 52.2279,
+    "lng": 11.00985
+  },
+  {
+    "name": "Helmstadt",
+    "country": "DE",
+    "lat": 49.7618,
+    "lng": 9.70803
+  },
+  {
+    "name": "Helmbrechts",
+    "country": "DE",
+    "lat": 50.23557,
+    "lng": 11.71589
+  },
+  {
+    "name": "Hellwege",
+    "country": "DE",
+    "lat": 53.07346,
+    "lng": 9.23566
+  },
+  {
+    "name": "Hellingen",
+    "country": "DE",
+    "lat": 50.25,
+    "lng": 10.68333
+  },
+  {
+    "name": "Hellersdorf",
+    "country": "DE",
+    "lat": 52.53319,
+    "lng": 13.6088
+  },
+  {
+    "name": "Hellerau",
+    "country": "DE",
+    "lat": 51.11667,
+    "lng": 13.75
+  },
+  {
+    "name": "Hellenthal",
+    "country": "DE",
+    "lat": 50.48333,
+    "lng": 6.43333
+  },
+  {
+    "name": "Hellenhahn-Schellenberg",
+    "country": "DE",
+    "lat": 50.61278,
+    "lng": 8.02639
+  },
+  {
+    "name": "Helferskirchen",
+    "country": "DE",
+    "lat": 50.51028,
+    "lng": 7.81184
+  },
+  {
+    "name": "Heldrungen",
+    "country": "DE",
+    "lat": 51.30208,
+    "lng": 11.21816
+  },
+  {
+    "name": "Helbra",
+    "country": "DE",
+    "lat": 51.55,
+    "lng": 11.5
+  },
+  {
+    "name": "Heitersheim",
+    "country": "DE",
+    "lat": 47.87468,
+    "lng": 7.65721
+  },
+  {
+    "name": "Heisterbacherrott",
+    "country": "DE",
+    "lat": 50.69581,
+    "lng": 7.23406
+  },
+  {
+    "name": "Heistenbach",
+    "country": "DE",
+    "lat": 50.37933,
+    "lng": 7.98629
+  },
+  {
+    "name": "Heist",
+    "country": "DE",
+    "lat": 53.65422,
+    "lng": 9.66038
+  },
+  {
+    "name": "Heinsen",
+    "country": "DE",
+    "lat": 52.06257,
+    "lng": 9.66316
+  },
+  {
+    "name": "Heinsberg",
+    "country": "DE",
+    "lat": 51.06358,
+    "lng": 6.0998
+  },
+  {
+    "name": "Heiningen",
+    "country": "DE",
+    "lat": 48.66177,
+    "lng": 9.64977
+  },
+  {
+    "name": "Heinersdorf",
+    "country": "DE",
+    "lat": 52.57173,
+    "lng": 13.43757
+  },
+  {
+    "name": "Heinbockel",
+    "country": "DE",
+    "lat": 53.57437,
+    "lng": 9.32719
+  },
+  {
+    "name": "Heinade",
+    "country": "DE",
+    "lat": 51.83333,
+    "lng": 9.63333
+  },
+  {
+    "name": "Heimsheim",
+    "country": "DE",
+    "lat": 48.80656,
+    "lng": 8.86744
+  },
+  {
+    "name": "Heimertingen",
+    "country": "DE",
+    "lat": 48.03333,
+    "lng": 10.15
+  },
+  {
+    "name": "Heimenkirch",
+    "country": "DE",
+    "lat": 47.62959,
+    "lng": 9.90304
+  },
+  {
+    "name": "Heimbuchenthal",
+    "country": "DE",
+    "lat": 49.88917,
+    "lng": 9.29556
+  },
+  {
+    "name": "Heimbach",
+    "country": "DE",
+    "lat": 50.63693,
+    "lng": 6.46896
+  },
+  {
+    "name": "Heimbach",
+    "country": "DE",
+    "lat": 50.45,
+    "lng": 7.53333
+  },
+  {
+    "name": "Heilsbronn",
+    "country": "DE",
+    "lat": 49.33572,
+    "lng": 10.78741
+  },
+  {
+    "name": "Heiligkreuzsteinach",
+    "country": "DE",
+    "lat": 49.48333,
+    "lng": 8.795
+  },
+  {
+    "name": "Heiligenstedten",
+    "country": "DE",
+    "lat": 53.93264,
+    "lng": 9.47462
+  },
+  {
+    "name": "Heilbad Heiligenstadt",
+    "country": "DE",
+    "lat": 51.37819,
+    "lng": 10.13744
+  },
+  {
+    "name": "Heiligenstadt",
+    "country": "DE",
+    "lat": 49.86303,
+    "lng": 11.17185
+  },
+  {
+    "name": "Heiligensee",
+    "country": "DE",
+    "lat": 52.61449,
+    "lng": 13.24501
+  },
+  {
+    "name": "Heiligenroth",
+    "country": "DE",
+    "lat": 50.45,
+    "lng": 7.86667
+  },
+  {
+    "name": "Heiligenhaus",
+    "country": "DE",
+    "lat": 51.32662,
+    "lng": 6.97106
+  },
+  {
+    "name": "Heiligenhafen",
+    "country": "DE",
+    "lat": 54.37037,
+    "lng": 10.97628
+  },
+  {
+    "name": "Heiligengrabe",
+    "country": "DE",
+    "lat": 53.14461,
+    "lng": 12.36254
+  },
+  {
+    "name": "Heiligenberg",
+    "country": "DE",
+    "lat": 47.82094,
+    "lng": 9.3128
+  },
+  {
+    "name": "Heilbronn",
+    "country": "DE",
+    "lat": 49.13995,
+    "lng": 9.22054
+  },
+  {
+    "name": "Heikendorf",
+    "country": "DE",
+    "lat": 54.36667,
+    "lng": 10.2
+  },
+  {
+    "name": "Heigenbrücken",
+    "country": "DE",
+    "lat": 50.0282,
+    "lng": 9.37116
+  },
+  {
+    "name": "Heidgraben",
+    "country": "DE",
+    "lat": 53.70787,
+    "lng": 9.68099
+  },
+  {
+    "name": "Heidesheim",
+    "country": "DE",
+    "lat": 49.58247,
+    "lng": 8.19537
+  },
+  {
+    "name": "Heidenheim an der Brenz",
+    "country": "DE",
+    "lat": 48.67798,
+    "lng": 10.15162
+  },
+  {
+    "name": "Heidenheim",
+    "country": "DE",
+    "lat": 49.01719,
+    "lng": 10.74347
+  },
+  {
+    "name": "Heidenau",
+    "country": "DE",
+    "lat": 53.31667,
+    "lng": 9.66667
+  },
+  {
+    "name": "Heidenau",
+    "country": "DE",
+    "lat": 50.97221,
+    "lng": 13.86741
+  },
+  {
+    "name": "Heiden",
+    "country": "DE",
+    "lat": 51.83333,
+    "lng": 6.93333
+  },
+  {
+    "name": "Heidelberg",
+    "country": "DE",
+    "lat": 49.40768,
+    "lng": 8.69079
+  },
+  {
+    "name": "Heideck",
+    "country": "DE",
+    "lat": 49.13365,
+    "lng": 11.12726
+  },
+  {
+    "name": "Heide",
+    "country": "DE",
+    "lat": 54.19562,
+    "lng": 9.09742
+  },
+  {
+    "name": "Hehlen",
+    "country": "DE",
+    "lat": 51.98858,
+    "lng": 9.47004
+  },
+  {
+    "name": "Heeßen",
+    "country": "DE",
+    "lat": 52.23211,
+    "lng": 9.09642
+  },
+  {
+    "name": "Heeslingen",
+    "country": "DE",
+    "lat": 53.31667,
+    "lng": 9.33333
+  },
+  {
+    "name": "Heemsen",
+    "country": "DE",
+    "lat": 52.7,
+    "lng": 9.26667
+  },
+  {
+    "name": "Heek",
+    "country": "DE",
+    "lat": 52.11667,
+    "lng": 7.1
+  },
+  {
+    "name": "Heede",
+    "country": "DE",
+    "lat": 52.99205,
+    "lng": 7.2983
+  },
+  {
+    "name": "Hedersleben",
+    "country": "DE",
+    "lat": 51.85943,
+    "lng": 11.25
+  },
+  {
+    "name": "Hedersleben",
+    "country": "DE",
+    "lat": 51.54891,
+    "lng": 11.64983
+  },
+  {
+    "name": "Heddesheim",
+    "country": "DE",
+    "lat": 49.50556,
+    "lng": 8.60361
+  },
+  {
+    "name": "Hecklingen",
+    "country": "DE",
+    "lat": 51.84705,
+    "lng": 11.53416
+  },
+  {
+    "name": "Hechthausen",
+    "country": "DE",
+    "lat": 53.64041,
+    "lng": 9.23942
+  },
+  {
+    "name": "Hechingen",
+    "country": "DE",
+    "lat": 48.35149,
+    "lng": 8.96317
+  },
+  {
+    "name": "Hebertshausen",
+    "country": "DE",
+    "lat": 48.28959,
+    "lng": 11.46526
+  },
+  {
+    "name": "Hebertsfelden",
+    "country": "DE",
+    "lat": 48.40596,
+    "lng": 12.82259
+  },
+  {
+    "name": "Herdwangen-Schönach",
+    "country": "DE",
+    "lat": 47.85,
+    "lng": 9.2
+  },
+  {
+    "name": "Helgoland",
+    "country": "DE",
+    "lat": 54.18143,
+    "lng": 7.8863
+  },
+  {
+    "name": "Heere",
+    "country": "DE",
+    "lat": 52.06667,
+    "lng": 10.25
+  },
+  {
+    "name": "Heidberg",
+    "country": "DE",
+    "lat": 52.22735,
+    "lng": 10.531
+  },
+  {
+    "name": "Helmstadt-Bargen",
+    "country": "DE",
+    "lat": 49.31427,
+    "lng": 8.99712
+  },
+  {
+    "name": "Heerstraße",
+    "country": "DE",
+    "lat": 48.73474,
+    "lng": 9.10017
+  },
+  {
+    "name": "Herning",
+    "country": "DK",
+    "lat": 56.13615,
+    "lng": 8.97662
+  },
+  {
+    "name": "Herlev",
+    "country": "DK",
+    "lat": 55.72366,
+    "lng": 12.43998
+  },
+  {
+    "name": "Helsingør",
+    "country": "DK",
+    "lat": 56.03606,
+    "lng": 12.6136
+  },
+  {
+    "name": "Helsinge",
+    "country": "DK",
+    "lat": 56.02283,
+    "lng": 12.19752
+  },
+  {
+    "name": "Hellebæk",
+    "country": "DK",
+    "lat": 56.06823,
+    "lng": 12.55782
+  },
+  {
+    "name": "Hedensted",
+    "country": "DK",
+    "lat": 55.77043,
+    "lng": 9.7011
+  },
+  {
+    "name": "Hedehusene",
+    "country": "DK",
+    "lat": 55.64951,
+    "lng": 12.19827
+  },
+  {
+    "name": "Hennaya",
+    "country": "DZ",
+    "lat": 34.95139,
+    "lng": -1.36806
+  },
+  {
+    "name": "Herreruela de Oropesa",
+    "country": "ES",
+    "lat": 39.88928,
+    "lng": -5.24279
+  },
+  {
+    "name": "Herrera del Duque",
+    "country": "ES",
+    "lat": 39.1684,
+    "lng": -5.05049
+  },
+  {
+    "name": "Herrera de Alcántara",
+    "country": "ES",
+    "lat": 39.63865,
+    "lng": -7.40619
+  },
+  {
+    "name": "Herrera",
+    "country": "ES",
+    "lat": 37.36396,
+    "lng": -4.84979
+  },
+  {
+    "name": "Hermigua",
+    "country": "ES",
+    "lat": 28.16766,
+    "lng": -17.19051
+  },
+  {
+    "name": "Herguijuela",
+    "country": "ES",
+    "lat": 39.37452,
+    "lng": -5.76001
+  },
+  {
+    "name": "Herencia",
+    "country": "ES",
+    "lat": 39.36616,
+    "lng": -3.35735
+  },
+  {
+    "name": "Henarejos",
+    "country": "ES",
+    "lat": 39.86667,
+    "lng": -1.48333
+  },
+  {
+    "name": "Hellín",
+    "country": "ES",
+    "lat": 38.5106,
+    "lng": -1.70096
+  },
+  {
+    "name": "Hervías",
+    "country": "ES",
+    "lat": 42.44781,
+    "lng": -2.88714
+  },
+  {
+    "name": "Hervás",
+    "country": "ES",
+    "lat": 40.27081,
+    "lng": -5.86721
+  },
+  {
+    "name": "Herrín de Campos",
+    "country": "ES",
+    "lat": 42.12476,
+    "lng": -4.95239
+  },
+  {
+    "name": "Herreros de Suso",
+    "country": "ES",
+    "lat": 40.80361,
+    "lng": -5.03892
+  },
+  {
+    "name": "Herrería",
+    "country": "ES",
+    "lat": 40.88815,
+    "lng": -1.96014
+  },
+  {
+    "name": "Herrera de Valdecañas",
+    "country": "ES",
+    "lat": 42.04828,
+    "lng": -4.20004
+  },
+  {
+    "name": "Herrera de Soria",
+    "country": "ES",
+    "lat": 41.76269,
+    "lng": -3.01243
+  },
+  {
+    "name": "Herrera de Pisuerga",
+    "country": "ES",
+    "lat": 42.59492,
+    "lng": -4.33034
+  },
+  {
+    "name": "Herrera de los Navarros",
+    "country": "ES",
+    "lat": 41.21024,
+    "lng": -1.08271
+  },
+  {
+    "name": "Herramélluri",
+    "country": "ES",
+    "lat": 42.50295,
+    "lng": -3.01954
+  },
+  {
+    "name": "Hernialde",
+    "country": "ES",
+    "lat": 43.15446,
+    "lng": -2.08521
+  },
+  {
+    "name": "Hernansancho",
+    "country": "ES",
+    "lat": 40.85753,
+    "lng": -4.73045
+  },
+  {
+    "name": "Hernán-Pérez",
+    "country": "ES",
+    "lat": 40.21246,
+    "lng": -6.46479
+  },
+  {
+    "name": "Hernani",
+    "country": "ES",
+    "lat": 43.26615,
+    "lng": -1.97615
+  },
+  {
+    "name": "Hermisende",
+    "country": "ES",
+    "lat": 41.96898,
+    "lng": -6.89616
+  },
+  {
+    "name": "Herguijuela del Campo",
+    "country": "ES",
+    "lat": 40.63102,
+    "lng": -5.86398
+  },
+  {
+    "name": "Herguijuela de la Sierra",
+    "country": "ES",
+    "lat": 40.44535,
+    "lng": -6.07445
+  },
+  {
+    "name": "Herguijuela de Ciudad Rodrigo",
+    "country": "ES",
+    "lat": 40.4586,
+    "lng": -6.52075
+  },
+  {
+    "name": "Herce",
+    "country": "ES",
+    "lat": 42.21423,
+    "lng": -2.16488
+  },
+  {
+    "name": "Herbés",
+    "country": "ES",
+    "lat": 40.721,
+    "lng": -0.00441
+  },
+  {
+    "name": "Henche",
+    "country": "ES",
+    "lat": 40.71474,
+    "lng": -2.70746
+  },
+  {
+    "name": "Hellín",
+    "country": "ES",
+    "lat": 40.43095,
+    "lng": -3.61682
+  },
+  {
+    "name": "Herukka",
+    "country": "FI",
+    "lat": 65.09712,
+    "lng": 25.40485
+  },
+  {
+    "name": "Hervanta",
+    "country": "FI",
+    "lat": 61.44792,
+    "lng": 23.85301
+  },
+  {
+    "name": "Herttoniemi",
+    "country": "FI",
+    "lat": 60.19471,
+    "lng": 25.03535
+  },
+  {
+    "name": "Helsinki",
+    "country": "FI",
+    "lat": 60.16952,
+    "lng": 24.93545
+  },
+  {
+    "name": "Heinola",
+    "country": "FI",
+    "lat": 61.20564,
+    "lng": 26.03811
+  },
+  {
+    "name": "Heinävesi",
+    "country": "FI",
+    "lat": 62.43333,
+    "lng": 28.6
+  },
+  {
+    "name": "Henttaa",
+    "country": "FI",
+    "lat": 60.19027,
+    "lng": 24.72696
+  },
+  {
+    "name": "Heikinlaakso",
+    "country": "FI",
+    "lat": 60.26873,
+    "lng": 25.07379
+  },
+  {
+    "name": "Herttoniemenranta",
+    "country": "FI",
+    "lat": 60.19065,
+    "lng": 25.0369
+  },
+  {
+    "name": "Hermanni",
+    "country": "FI",
+    "lat": 60.19439,
+    "lng": 24.97005
+  },
+  {
+    "name": "Heikkilänkangas",
+    "country": "FI",
+    "lat": 64.96861,
+    "lng": 25.61425
+  },
+  {
+    "name": "Hevossalmi",
+    "country": "FI",
+    "lat": 60.1657,
+    "lng": 25.04655
+  },
+  {
+    "name": "Hervantajärvi",
+    "country": "FI",
+    "lat": 61.43869,
+    "lng": 23.87318
+  },
+  {
+    "name": "Herttoniemen yritysalue",
+    "country": "FI",
+    "lat": 60.19417,
+    "lng": 25.04303
+  },
+  {
+    "name": "Hervanta luode",
+    "country": "FI",
+    "lat": 61.4507,
+    "lng": 23.83526
+  },
+  {
+    "name": "Hervanta koillinen",
+    "country": "FI",
+    "lat": 61.45617,
+    "lng": 23.86104
+  },
+  {
+    "name": "Hervanta lounas",
+    "country": "FI",
+    "lat": 61.4402,
+    "lng": 23.84479
+  },
+  {
+    "name": "Hervanta kaakko",
+    "country": "FI",
+    "lat": 61.44576,
+    "lng": 23.86724
+  },
+  {
+    "name": "Heyrieux",
+    "country": "FR",
+    "lat": 45.63186,
+    "lng": 5.06284
+  },
+  {
+    "name": "Heuringhem",
+    "country": "FR",
+    "lat": 50.69638,
+    "lng": 2.28333
+  },
+  {
+    "name": "Heugas",
+    "country": "FR",
+    "lat": 43.64201,
+    "lng": -1.08004
+  },
+  {
+    "name": "Heudreville-sur-Eure",
+    "country": "FR",
+    "lat": 49.14089,
+    "lng": 1.18813
+  },
+  {
+    "name": "Hettange-Grande",
+    "country": "FR",
+    "lat": 49.4065,
+    "lng": 6.15233
+  },
+  {
+    "name": "Hesdin",
+    "country": "FR",
+    "lat": 50.37349,
+    "lng": 2.0382
+  },
+  {
+    "name": "Herzeele",
+    "country": "FR",
+    "lat": 50.88584,
+    "lng": 2.5351
+  },
+  {
+    "name": "Hersin-Coupigny",
+    "country": "FR",
+    "lat": 50.44796,
+    "lng": 2.6494
+  },
+  {
+    "name": "Herserange",
+    "country": "FR",
+    "lat": 49.52047,
+    "lng": 5.78994
+  },
+  {
+    "name": "Herry",
+    "country": "FR",
+    "lat": 47.21667,
+    "lng": 2.95385
+  },
+  {
+    "name": "Herrlisheim-près-Colmar",
+    "country": "FR",
+    "lat": 48.01835,
+    "lng": 7.32668
+  },
+  {
+    "name": "Herrlisheim",
+    "country": "FR",
+    "lat": 48.73049,
+    "lng": 7.90535
+  },
+  {
+    "name": "Hermonville",
+    "country": "FR",
+    "lat": 49.33655,
+    "lng": 3.91011
+  },
+  {
+    "name": "Hermies",
+    "country": "FR",
+    "lat": 50.11126,
+    "lng": 3.04202
+  },
+  {
+    "name": "Hermes",
+    "country": "FR",
+    "lat": 49.36032,
+    "lng": 2.24461
+  },
+  {
+    "name": "Hermanville-sur-Mer",
+    "country": "FR",
+    "lat": 49.28464,
+    "lng": -0.31544
+  },
+  {
+    "name": "Herlies",
+    "country": "FR",
+    "lat": 50.57753,
+    "lng": 2.85285
+  },
+  {
+    "name": "Hergnies",
+    "country": "FR",
+    "lat": 50.47287,
+    "lng": 3.52612
+  },
+  {
+    "name": "Herblay-sur-Seine",
+    "country": "FR",
+    "lat": 48.98994,
+    "lng": 2.1699
+  },
+  {
+    "name": "Herbitzheim",
+    "country": "FR",
+    "lat": 49.01541,
+    "lng": 7.08188
+  },
+  {
+    "name": "Herbignac",
+    "country": "FR",
+    "lat": 47.44909,
+    "lng": -2.31722
+  },
+  {
+    "name": "Herbeys",
+    "country": "FR",
+    "lat": 45.14012,
+    "lng": 5.79289
+  },
+  {
+    "name": "Herbault",
+    "country": "FR",
+    "lat": 47.60501,
+    "lng": 1.13934
+  },
+  {
+    "name": "Henvic",
+    "country": "FR",
+    "lat": 48.63244,
+    "lng": -3.92727
+  },
+  {
+    "name": "Henrichemont",
+    "country": "FR",
+    "lat": 47.30333,
+    "lng": 2.52458
+  },
+  {
+    "name": "Hennebont",
+    "country": "FR",
+    "lat": 47.80479,
+    "lng": -3.27812
+  },
+  {
+    "name": "Hendaye",
+    "country": "FR",
+    "lat": 43.35809,
+    "lng": -1.7744
+  },
+  {
+    "name": "Hem",
+    "country": "FR",
+    "lat": 50.65256,
+    "lng": 3.18681
+  },
+  {
+    "name": "Helfaut",
+    "country": "FR",
+    "lat": 50.69783,
+    "lng": 2.24234
+  },
+  {
+    "name": "Heimsbrunn",
+    "country": "FR",
+    "lat": 47.72669,
+    "lng": 7.22699
+  },
+  {
+    "name": "Heillecourt",
+    "country": "FR",
+    "lat": 48.65049,
+    "lng": 6.19512
+  },
+  {
+    "name": "Heysham",
+    "country": "GB",
+    "lat": 54.04367,
+    "lng": -2.89322
+  },
+  {
+    "name": "Hexham",
+    "country": "GB",
+    "lat": 54.96986,
+    "lng": -2.104
+  },
+  {
+    "name": "Hetton-Le-Hole",
+    "country": "GB",
+    "lat": 54.81667,
+    "lng": -1.45
+  },
+  {
+    "name": "Hethersett",
+    "country": "GB",
+    "lat": 52.59761,
+    "lng": 1.17359
+  },
+  {
+    "name": "Heswall",
+    "country": "GB",
+    "lat": 53.32733,
+    "lng": -3.09648
+  },
+  {
+    "name": "Heston",
+    "country": "GB",
+    "lat": 51.48363,
+    "lng": -0.37577
+  },
+  {
+    "name": "Hessle",
+    "country": "GB",
+    "lat": 53.72454,
+    "lng": -0.43842
+  },
+  {
+    "name": "Heslington",
+    "country": "GB",
+    "lat": 53.94636,
+    "lng": -1.04919
+  },
+  {
+    "name": "Hertford",
+    "country": "GB",
+    "lat": 51.79588,
+    "lng": -0.07854
+  },
+  {
+    "name": "Herstmonceux",
+    "country": "GB",
+    "lat": 50.88958,
+    "lng": 0.3229
+  },
+  {
+    "name": "Herne Bay",
+    "country": "GB",
+    "lat": 51.373,
+    "lng": 1.12857
+  },
+  {
+    "name": "Hermitage",
+    "country": "GB",
+    "lat": 51.4554,
+    "lng": -1.26823
+  },
+  {
+    "name": "Hereford",
+    "country": "GB",
+    "lat": 52.05684,
+    "lng": -2.71482
+  },
+  {
+    "name": "Herbrandston",
+    "country": "GB",
+    "lat": 51.72639,
+    "lng": -5.08667
+  },
+  {
+    "name": "Henstridge",
+    "country": "GB",
+    "lat": 50.97717,
+    "lng": -2.395
+  },
+  {
+    "name": "Henlow",
+    "country": "GB",
+    "lat": 52.03021,
+    "lng": -0.28599
+  },
+  {
+    "name": "Henllan",
+    "country": "GB",
+    "lat": 53.2,
+    "lng": -3.46667
+  },
+  {
+    "name": "Henley-on-Thames",
+    "country": "GB",
+    "lat": 51.53333,
+    "lng": -0.9
+  },
+  {
+    "name": "Henley in Arden",
+    "country": "GB",
+    "lat": 52.29032,
+    "lng": -1.77807
+  },
+  {
+    "name": "Hengoed",
+    "country": "GB",
+    "lat": 51.65083,
+    "lng": -3.23167
+  },
+  {
+    "name": "Henfield",
+    "country": "GB",
+    "lat": 50.92995,
+    "lng": -0.27071
+  },
+  {
+    "name": "Hendon",
+    "country": "GB",
+    "lat": 51.6,
+    "lng": -0.21667
+  },
+  {
+    "name": "Hemyock",
+    "country": "GB",
+    "lat": 50.91234,
+    "lng": -3.22807
+  },
+  {
+    "name": "Hemsworth",
+    "country": "GB",
+    "lat": 53.61267,
+    "lng": -1.35424
+  },
+  {
+    "name": "Hemsby",
+    "country": "GB",
+    "lat": 52.69714,
+    "lng": 1.69181
+  },
+  {
+    "name": "Hemingford Grey",
+    "country": "GB",
+    "lat": 52.31756,
+    "lng": -0.10029
+  },
+  {
+    "name": "Hemingbrough",
+    "country": "GB",
+    "lat": 53.76863,
+    "lng": -0.97673
+  },
+  {
+    "name": "Hemel Hempstead",
+    "country": "GB",
+    "lat": 51.75368,
+    "lng": -0.44975
+  },
+  {
+    "name": "Helston",
+    "country": "GB",
+    "lat": 50.10319,
+    "lng": -5.27045
+  },
+  {
+    "name": "Helsby",
+    "country": "GB",
+    "lat": 53.27396,
+    "lng": -2.76905
+  },
+  {
+    "name": "Helpston",
+    "country": "GB",
+    "lat": 52.63233,
+    "lng": -0.34676
+  },
+  {
+    "name": "Helmsley",
+    "country": "GB",
+    "lat": 54.24577,
+    "lng": -1.05683
+  },
+  {
+    "name": "Hellifield",
+    "country": "GB",
+    "lat": 54.00486,
+    "lng": -2.22302
+  },
+  {
+    "name": "Helland",
+    "country": "GB",
+    "lat": 50.5,
+    "lng": -4.71667
+  },
+  {
+    "name": "Helensburgh",
+    "country": "GB",
+    "lat": 56.00614,
+    "lng": -4.72648
+  },
+  {
+    "name": "Heighington",
+    "country": "GB",
+    "lat": 54.59594,
+    "lng": -1.61791
+  },
+  {
+    "name": "Heighington",
+    "country": "GB",
+    "lat": 53.21241,
+    "lng": -0.45902
+  },
+  {
+    "name": "Hedon",
+    "country": "GB",
+    "lat": 53.73962,
+    "lng": -0.19655
+  },
+  {
+    "name": "Heddon on the Wall",
+    "country": "GB",
+    "lat": 54.99692,
+    "lng": -1.79386
+  },
+  {
+    "name": "Heckmondwike",
+    "country": "GB",
+    "lat": 53.70646,
+    "lng": -1.67747
+  },
+  {
+    "name": "Heckington",
+    "country": "GB",
+    "lat": 52.98183,
+    "lng": -0.29903
+  },
+  {
+    "name": "Hebron",
+    "country": "GB",
+    "lat": 55.18333,
+    "lng": -1.68333
+  },
+  {
+    "name": "Hebden Bridge",
+    "country": "GB",
+    "lat": 53.74093,
+    "lng": -2.01337
+  },
+  {
+    "name": "Hebburn",
+    "country": "GB",
+    "lat": 54.97302,
+    "lng": -1.51546
+  },
+  {
+    "name": "Heathfield",
+    "country": "GB",
+    "lat": 50.96718,
+    "lng": 0.25612
+  },
+  {
+    "name": "Heath and Reach",
+    "country": "GB",
+    "lat": 51.94517,
+    "lng": -0.65697
+  },
+  {
+    "name": "Heanor",
+    "country": "GB",
+    "lat": 53.01372,
+    "lng": -1.35383
+  },
+  {
+    "name": "Healing",
+    "country": "GB",
+    "lat": 53.58101,
+    "lng": -0.16202
+  },
+  {
+    "name": "Healey",
+    "country": "GB",
+    "lat": 54.91667,
+    "lng": -1.96667
+  },
+  {
+    "name": "Heage",
+    "country": "GB",
+    "lat": 53.0505,
+    "lng": -1.44688
+  },
+  {
+    "name": "Headcorn",
+    "country": "GB",
+    "lat": 51.16966,
+    "lng": 0.62433
+  },
+  {
+    "name": "Heacham",
+    "country": "GB",
+    "lat": 52.90782,
+    "lng": 0.49387
+  },
+  {
+    "name": "Hellaby",
+    "country": "GB",
+    "lat": 53.42257,
+    "lng": -1.24125
+  },
+  {
+    "name": "Hedge End",
+    "country": "GB",
+    "lat": 50.91234,
+    "lng": -1.30076
+  },
+  {
+    "name": "Heywood",
+    "country": "GB",
+    "lat": 53.59245,
+    "lng": -2.21941
+  },
+  {
+    "name": "Heaton Chapel",
+    "country": "GB",
+    "lat": 53.43015,
+    "lng": -2.17538
+  },
+  {
+    "name": "Heavitree",
+    "country": "GB",
+    "lat": 50.72044,
+    "lng": -3.49646
+  },
+  {
+    "name": "Headstone",
+    "country": "GB",
+    "lat": 51.59279,
+    "lng": -0.34495
+  },
+  {
+    "name": "Head of Muir",
+    "country": "GB",
+    "lat": 56.00623,
+    "lng": -3.91358
+  },
+  {
+    "name": "Helena Number One",
+    "country": "GY",
+    "lat": 6.67305,
+    "lng": -57.92454
+  },
+  {
+    "name": "Heng Fa Chuen",
+    "country": "HK",
+    "lat": 22.27668,
+    "lng": 114.24077
+  },
+  {
+    "name": "Healthy Gardens",
+    "country": "HK",
+    "lat": 22.29153,
+    "lng": 114.20387
+  },
+  {
+    "name": "Healthy Village",
+    "country": "HK",
+    "lat": 22.29117,
+    "lng": 114.20624
+  },
+  {
+    "name": "Hercegovac",
+    "country": "HR",
+    "lat": 45.65861,
+    "lng": 17.01361
+  },
+  {
+    "name": "Heves",
+    "country": "HU",
+    "lat": 47.6,
+    "lng": 20.28333
+  },
+  {
+    "name": "Hernádnémeti",
+    "country": "HU",
+    "lat": 48.06667,
+    "lng": 20.98333
+  },
+  {
+    "name": "Hejőbába",
+    "country": "HU",
+    "lat": 47.9,
+    "lng": 20.95
+  },
+  {
+    "name": "Hernád",
+    "country": "HU",
+    "lat": 47.16238,
+    "lng": 19.43295
+  },
+  {
+    "name": "Herend",
+    "country": "HU",
+    "lat": 47.13333,
+    "lng": 17.75
+  },
+  {
+    "name": "Heréd",
+    "country": "HU",
+    "lat": 47.70638,
+    "lng": 19.63314
+  },
+  {
+    "name": "Hercegszántó",
+    "country": "HU",
+    "lat": 45.95,
+    "lng": 18.93917
+  },
+  {
+    "name": "Helvécia",
+    "country": "HU",
+    "lat": 46.83661,
+    "lng": 19.62251
+  },
+  {
+    "name": "Hegyeshalom",
+    "country": "HU",
+    "lat": 47.91338,
+    "lng": 17.15388
+  },
+  {
+    "name": "Hegarsari",
+    "country": "ID",
+    "lat": -7.3859,
+    "lng": 108.5394
+  },
+  {
+    "name": "Herzliya",
+    "country": "IL",
+    "lat": 32.16627,
+    "lng": 34.82536
+  },
+  {
+    "name": "Herzliya Pituah",
+    "country": "IL",
+    "lat": 32.17409,
+    "lng": 34.8028
+  },
+  {
+    "name": "Hesla",
+    "country": "IN",
+    "lat": 24.06313,
+    "lng": 85.87905
+  },
+  {
+    "name": "Heggadadevankote",
+    "country": "IN",
+    "lat": 12.08809,
+    "lng": 76.32957
+  },
+  {
+    "name": "Hebbagodi",
+    "country": "IN",
+    "lat": 12.82632,
+    "lng": 77.68085
+  },
+  {
+    "name": "Heli Mandi",
+    "country": "IN",
+    "lat": 28.34494,
+    "lng": 76.75694
+  },
+  {
+    "name": "Heslā",
+    "country": "IN",
+    "lat": 23.62081,
+    "lng": 85.27991
+  },
+  {
+    "name": "Heirok",
+    "country": "IN",
+    "lat": 24.58558,
+    "lng": 94.06669
+  },
+  {
+    "name": "Heingang",
+    "country": "IN",
+    "lat": 24.85677,
+    "lng": 93.94679
+  },
+  {
+    "name": "Hetit",
+    "country": "IQ",
+    "lat": 37.03788,
+    "lng": 43.72845
+  },
+  {
+    "name": "Herīs",
+    "country": "IR",
+    "lat": 38.24816,
+    "lng": 47.11678
+  },
+  {
+    "name": "Hendījān",
+    "country": "IR",
+    "lat": 30.2363,
+    "lng": 49.7119
+  },
+  {
+    "name": "Hekinan",
+    "country": "JP",
+    "lat": 34.88333,
+    "lng": 136.98333
+  },
+  {
+    "name": "Heda",
+    "country": "JP",
+    "lat": 34.96277,
+    "lng": 138.78543
+  },
+  {
+    "name": "Heiwadai",
+    "country": "JP",
+    "lat": 35.75762,
+    "lng": 139.65984
+  },
+  {
+    "name": "Heian",
+    "country": "JP",
+    "lat": 35.1947,
+    "lng": 136.9307
+  },
+  {
+    "name": "Heunghae",
+    "country": "KR",
+    "lat": 36.10945,
+    "lng": 129.34517
+  },
+  {
+    "name": "Hell",
+    "country": "KY",
+    "lat": 19.3801,
+    "lng": -81.40694
+  },
+  {
+    "name": "Hendala",
+    "country": "LK",
+    "lat": 6.9909,
+    "lng": 79.883
+  },
+  {
+    "name": "Hesperange",
+    "country": "LU",
+    "lat": 49.56806,
+    "lng": 6.15139
+  },
+  {
+    "name": "Helmsange",
+    "country": "LU",
+    "lat": 49.65278,
+    "lng": 6.14139
+  },
+  {
+    "name": "Heisdorf",
+    "country": "LU",
+    "lat": 49.67207,
+    "lng": 6.14202
+  },
+  {
+    "name": "Heffingen",
+    "country": "LU",
+    "lat": 49.76907,
+    "lng": 6.24049
+  },
+  {
+    "name": "Herceg Novi",
+    "country": "ME",
+    "lat": 42.45306,
+    "lng": 18.5375
+  },
+  {
+    "name": "Hell-Ville",
+    "country": "MG",
+    "lat": -13.39718,
+    "lng": 48.26663
+  },
+  {
+    "name": "Heho",
+    "country": "MM",
+    "lat": 20.72315,
+    "lng": 96.82278
+  },
+  {
+    "name": "Herlen",
+    "country": "MN",
+    "lat": 47.3,
+    "lng": 110.56667
+  },
+  {
+    "name": "Heroica Ciudad de Tlaxiaco",
+    "country": "MX",
+    "lat": 17.26916,
+    "lng": -97.68053
+  },
+  {
+    "name": "Heroica Matamoros",
+    "country": "MX",
+    "lat": 25.87972,
+    "lng": -97.50417
+  },
+  {
+    "name": "Hecelchakán",
+    "country": "MX",
+    "lat": 20.17735,
+    "lng": -90.13357
+  },
+  {
+    "name": "Hermenegildo Galeana",
+    "country": "MX",
+    "lat": 16.57722,
+    "lng": -93.35944
+  },
+  {
+    "name": "Hermenegildo Galeana",
+    "country": "MX",
+    "lat": 15.55239,
+    "lng": -93.00807
+  },
+  {
+    "name": "Hermenegildo Galeana",
+    "country": "MX",
+    "lat": 18.25667,
+    "lng": -98.10222
+  },
+  {
+    "name": "Helio García Alfaro",
+    "country": "MX",
+    "lat": 17.25968,
+    "lng": -94.28849
+  },
+  {
+    "name": "Hermanos Cedillo",
+    "country": "MX",
+    "lat": 17.25194,
+    "lng": -94.61129
+  },
+  {
+    "name": "Heróica Zitácuaro",
+    "country": "MX",
+    "lat": 19.43612,
+    "lng": -100.35733
+  },
+  {
+    "name": "Heroica Caborca",
+    "country": "MX",
+    "lat": 30.71833,
+    "lng": -112.15837
+  },
+  {
+    "name": "Hernández",
+    "country": "MX",
+    "lat": 23.03337,
+    "lng": -102.03763
+  },
+  {
+    "name": "Hermosillo",
+    "country": "MX",
+    "lat": 29.08874,
+    "lng": -110.96677
+  },
+  {
+    "name": "Heroica Guaymas",
+    "country": "MX",
+    "lat": 27.91989,
+    "lng": -110.89888
+  },
+  {
+    "name": "Hermenegildo J. Aldana",
+    "country": "MX",
+    "lat": 18.00611,
+    "lng": -94.61222
+  },
+  {
+    "name": "Heriberto Valdez Romero (El Guayabo)",
+    "country": "MX",
+    "lat": 25.94056,
+    "lng": -109.13722
+  },
+  {
+    "name": "Hermenegildo Galeana 2da. Sección",
+    "country": "MX",
+    "lat": 18.17054,
+    "lng": -93.13508
+  },
+  {
+    "name": "Hendrop",
+    "country": "MY",
+    "lat": 4.719,
+    "lng": 101.5521
+  },
+  {
+    "name": "Henties Bay",
+    "country": "NA",
+    "lat": -22.11609,
+    "lng": 14.28394
+  },
+  {
+    "name": "Helao Nafidi",
+    "country": "NA",
+    "lat": -17.39321,
+    "lng": 15.89107
+  },
+  {
+    "name": "Heythuysen",
+    "country": "NL",
+    "lat": 51.25,
+    "lng": 5.89861
+  },
+  {
+    "name": "Heusdenhout",
+    "country": "NL",
+    "lat": 51.58811,
+    "lng": 4.8193
+  },
+  {
+    "name": "Heusden",
+    "country": "NL",
+    "lat": 51.73417,
+    "lng": 5.13889
+  },
+  {
+    "name": "Heusden",
+    "country": "NL",
+    "lat": 51.38417,
+    "lng": 5.76389
+  },
+  {
+    "name": "Heumen",
+    "country": "NL",
+    "lat": 51.765,
+    "lng": 5.84444
+  },
+  {
+    "name": "Heugem",
+    "country": "NL",
+    "lat": 50.82791,
+    "lng": 5.70774
+  },
+  {
+    "name": "Het Oostrik",
+    "country": "NL",
+    "lat": 52.25,
+    "lng": 6.21667
+  },
+  {
+    "name": "Het Loo",
+    "country": "NL",
+    "lat": 52.2339,
+    "lng": 5.95275
+  },
+  {
+    "name": "Heteren",
+    "country": "NL",
+    "lat": 51.95667,
+    "lng": 5.75556
+  },
+  {
+    "name": "Herwijnen",
+    "country": "NL",
+    "lat": 51.82667,
+    "lng": 5.12917
+  },
+  {
+    "name": "Herten",
+    "country": "NL",
+    "lat": 51.18083,
+    "lng": 5.9625
+  },
+  {
+    "name": "Herpen",
+    "country": "NL",
+    "lat": 51.77167,
+    "lng": 5.64167
+  },
+  {
+    "name": "Herkenbosch",
+    "country": "NL",
+    "lat": 51.15333,
+    "lng": 6.06389
+  },
+  {
+    "name": "Hensbroek",
+    "country": "NL",
+    "lat": 52.65833,
+    "lng": 4.88472
+  },
+  {
+    "name": "Hengstdal",
+    "country": "NL",
+    "lat": 51.83333,
+    "lng": 5.88333
+  },
+  {
+    "name": "Hengevelde",
+    "country": "NL",
+    "lat": 52.19917,
+    "lng": 6.63611
+  },
+  {
+    "name": "Hengelo",
+    "country": "NL",
+    "lat": 52.26583,
+    "lng": 6.79306
+  },
+  {
+    "name": "Hengelo",
+    "country": "NL",
+    "lat": 52.05083,
+    "lng": 6.30972
+  },
+  {
+    "name": "Hendrik-Ido-Ambacht",
+    "country": "NL",
+    "lat": 51.84417,
+    "lng": 4.63889
+  },
+  {
+    "name": "Hem",
+    "country": "NL",
+    "lat": 52.66083,
+    "lng": 5.18333
+  },
+  {
+    "name": "Helvoirt",
+    "country": "NL",
+    "lat": 51.63167,
+    "lng": 5.23056
+  },
+  {
+    "name": "Helpman",
+    "country": "NL",
+    "lat": 53.19794,
+    "lng": 6.57978
+  },
+  {
+    "name": "Helmond",
+    "country": "NL",
+    "lat": 51.48167,
+    "lng": 5.66111
+  },
+  {
+    "name": "Hellevoetsluis",
+    "country": "NL",
+    "lat": 51.83333,
+    "lng": 4.13333
+  },
+  {
+    "name": "Helden",
+    "country": "NL",
+    "lat": 51.31917,
+    "lng": 6.0
+  },
+  {
+    "name": "Heksenberg",
+    "country": "NL",
+    "lat": 50.92068,
+    "lng": 5.97373
+  },
+  {
+    "name": "Heino",
+    "country": "NL",
+    "lat": 52.43661,
+    "lng": 6.23282
+  },
+  {
+    "name": "Heiloo",
+    "country": "NL",
+    "lat": 52.60252,
+    "lng": 4.68815
+  },
+  {
+    "name": "Heiligerlee",
+    "country": "NL",
+    "lat": 53.15667,
+    "lng": 7.00972
+  },
+  {
+    "name": "Heijplaat",
+    "country": "NL",
+    "lat": 51.89333,
+    "lng": 4.42083
+  },
+  {
+    "name": "Heijen",
+    "country": "NL",
+    "lat": 51.675,
+    "lng": 5.98056
+  },
+  {
+    "name": "Heide",
+    "country": "NL",
+    "lat": 51.06833,
+    "lng": 5.87222
+  },
+  {
+    "name": "Hegelsom",
+    "country": "NL",
+    "lat": 51.43917,
+    "lng": 6.03889
+  },
+  {
+    "name": "Heeze",
+    "country": "NL",
+    "lat": 51.3828,
+    "lng": 5.57145
+  },
+  {
+    "name": "Heeswijk-Dinther",
+    "country": "NL",
+    "lat": 51.65083,
+    "lng": 5.475
+  },
+  {
+    "name": "Heesterakker",
+    "country": "NL",
+    "lat": 51.4861,
+    "lng": 5.49681
+  },
+  {
+    "name": "Heesch",
+    "country": "NL",
+    "lat": 51.73362,
+    "lng": 5.52672
+  },
+  {
+    "name": "Hees",
+    "country": "NL",
+    "lat": 51.84136,
+    "lng": 5.82846
+  },
+  {
+    "name": "Heerlen",
+    "country": "NL",
+    "lat": 50.88365,
+    "lng": 5.98154
+  },
+  {
+    "name": "Heerle",
+    "country": "NL",
+    "lat": 51.51917,
+    "lng": 4.35972
+  },
+  {
+    "name": "Heerjansdam",
+    "country": "NL",
+    "lat": 51.83583,
+    "lng": 4.56389
+  },
+  {
+    "name": "Heerhugowaard",
+    "country": "NL",
+    "lat": 52.67144,
+    "lng": 4.84862
+  },
+  {
+    "name": "Heerewaarden",
+    "country": "NL",
+    "lat": 51.81769,
+    "lng": 5.393
+  },
+  {
+    "name": "Heerenveen",
+    "country": "NL",
+    "lat": 52.95929,
+    "lng": 5.91854
+  },
+  {
+    "name": "Heerde",
+    "country": "NL",
+    "lat": 52.38723,
+    "lng": 6.04016
+  },
+  {
+    "name": "Heer",
+    "country": "NL",
+    "lat": 50.83836,
+    "lng": 5.72989
+  },
+  {
+    "name": "Heemstede",
+    "country": "NL",
+    "lat": 52.34992,
+    "lng": 4.62301
+  },
+  {
+    "name": "Heemskerk",
+    "country": "NL",
+    "lat": 52.51108,
+    "lng": 4.67165
+  },
+  {
+    "name": "Heelsum",
+    "country": "NL",
+    "lat": 51.98417,
+    "lng": 5.75833
+  },
+  {
+    "name": "Heel",
+    "country": "NL",
+    "lat": 51.17917,
+    "lng": 5.89444
+  },
+  {
+    "name": "Heeg",
+    "country": "NL",
+    "lat": 52.9686,
+    "lng": 5.61075
+  },
+  {
+    "name": "Heechterp",
+    "country": "NL",
+    "lat": 53.20963,
+    "lng": 5.8225
+  },
+  {
+    "name": "Hedel",
+    "country": "NL",
+    "lat": 51.74802,
+    "lng": 5.26134
+  },
+  {
+    "name": "Herre",
+    "country": "NO",
+    "lat": 59.10351,
+    "lng": 9.56195
+  },
+  {
+    "name": "Hermansverk",
+    "country": "NO",
+    "lat": 61.18461,
+    "lng": 6.85016
+  },
+  {
+    "name": "Hemsedal",
+    "country": "NO",
+    "lat": 60.86293,
+    "lng": 8.55337
+  },
+  {
+    "name": "Hemnesberget",
+    "country": "NO",
+    "lat": 66.22489,
+    "lng": 13.61643
+  },
+  {
+    "name": "Hell",
+    "country": "NO",
+    "lat": 63.44582,
+    "lng": 10.90093
+  },
+  {
+    "name": "Heggenes",
+    "country": "NO",
+    "lat": 61.14383,
+    "lng": 9.06942
+  },
+  {
+    "name": "Hetauda",
+    "country": "NP",
+    "lat": 27.42839,
+    "lng": 85.03219
+  },
+  {
+    "name": "Heretaunga",
+    "country": "NZ",
+    "lat": -41.15,
+    "lng": 175.03333
+  },
+  {
+    "name": "Heathcote Valley",
+    "country": "NZ",
+    "lat": -43.57787,
+    "lng": 172.71224
+  },
+  {
+    "name": "Heidelberg",
+    "country": "NZ",
+    "lat": -46.42842,
+    "lng": 168.37009
+  },
+  {
+    "name": "Hei Hei",
+    "country": "NZ",
+    "lat": -43.52833,
+    "lng": 172.52013
+  },
+  {
+    "name": "Helensville",
+    "country": "NZ",
+    "lat": -36.67819,
+    "lng": 174.45019
+  },
+  {
+    "name": "Henderson",
+    "country": "NZ",
+    "lat": -36.88012,
+    "lng": 174.61975
+  },
+  {
+    "name": "Heretaunga",
+    "country": "NZ",
+    "lat": -41.13827,
+    "lng": 175.0202
+  },
+  {
+    "name": "Herrera",
+    "country": "PH",
+    "lat": 13.2693,
+    "lng": 123.5769
+  },
+  {
+    "name": "Hernani",
+    "country": "PH",
+    "lat": 11.32583,
+    "lng": 125.61944
+  },
+  {
+    "name": "Hermosa",
+    "country": "PH",
+    "lat": 14.8314,
+    "lng": 120.5081
+  },
+  {
+    "name": "Herby",
+    "country": "PL",
+    "lat": 50.75318,
+    "lng": 18.88756
+  },
+  {
+    "name": "Henryków",
+    "country": "PL",
+    "lat": 50.65327,
+    "lng": 17.01027
+  },
+  {
+    "name": "Hel",
+    "country": "PL",
+    "lat": 54.60384,
+    "lng": 18.80351
+  },
+  {
+    "name": "Hebron",
+    "country": "PS",
+    "lat": 31.52935,
+    "lng": 35.0938
+  },
+  {
+    "name": "Herla",
+    "country": "RO",
+    "lat": 47.44286,
+    "lng": 26.01254
+  },
+  {
+    "name": "Hereclean",
+    "country": "RO",
+    "lat": 47.25,
+    "lng": 23.01667
+  },
+  {
+    "name": "Herculian",
+    "country": "RO",
+    "lat": 46.13402,
+    "lng": 25.70977
+  },
+  {
+    "name": "Herăști",
+    "country": "RO",
+    "lat": 44.21174,
+    "lng": 26.35903
+  },
+  {
+    "name": "Hemeiuș",
+    "country": "RO",
+    "lat": 46.62643,
+    "lng": 26.8544
+  },
+  {
+    "name": "Heleșteni",
+    "country": "RO",
+    "lat": 47.20303,
+    "lng": 26.87755
+  },
+  {
+    "name": "Helegiu",
+    "country": "RO",
+    "lat": 46.35,
+    "lng": 26.75
+  },
+  {
+    "name": "Heci",
+    "country": "RO",
+    "lat": 47.34325,
+    "lng": 26.66226
+  },
+  {
+    "name": "Hetin",
+    "country": "RS",
+    "lat": 45.66202,
+    "lng": 20.79138
+  },
+  {
+    "name": "Hestra",
+    "country": "SE",
+    "lat": 57.91667,
+    "lng": 14.58333
+  },
+  {
+    "name": "Hestra",
+    "country": "SE",
+    "lat": 57.44232,
+    "lng": 13.59575
+  },
+  {
+    "name": "Herrljunga",
+    "country": "SE",
+    "lat": 58.07739,
+    "lng": 13.02662
+  },
+  {
+    "name": "Herrestad",
+    "country": "SE",
+    "lat": 58.38333,
+    "lng": 14.8
+  },
+  {
+    "name": "Henån",
+    "country": "SE",
+    "lat": 58.23848,
+    "lng": 11.67598
+  },
+  {
+    "name": "Hemse",
+    "country": "SE",
+    "lat": 57.23788,
+    "lng": 18.37443
+  },
+  {
+    "name": "Hemmesta",
+    "country": "SE",
+    "lat": 59.32273,
+    "lng": 18.48675
+  },
+  {
+    "name": "Helsingborg",
+    "country": "SE",
+    "lat": 56.04673,
+    "lng": 12.69437
+  },
+  {
+    "name": "Hedesunda",
+    "country": "SE",
+    "lat": 60.4,
+    "lng": 17.0
+  },
+  {
+    "name": "Hedemora",
+    "country": "SE",
+    "lat": 60.27973,
+    "lng": 15.98855
+  },
+  {
+    "name": "Heby",
+    "country": "SE",
+    "lat": 59.93815,
+    "lng": 16.86217
+  },
+  {
+    "name": "Henderson Estate",
+    "country": "SG",
+    "lat": 1.28917,
+    "lng": 103.82333
+  },
+  {
+    "name": "Hennchir Ksar Rhaleb",
+    "country": "TN",
+    "lat": 36.98333,
+    "lng": 11.05
+  },
+  {
+    "name": "Hencha",
+    "country": "TN",
+    "lat": 35.12226,
+    "lng": 10.74219
+  },
+  {
+    "name": "Hebira",
+    "country": "TN",
+    "lat": 35.16815,
+    "lng": 10.22933
+  },
+  {
+    "name": "Hendekköy",
+    "country": "TR",
+    "lat": 38.15624,
+    "lng": 39.627
+  },
+  {
+    "name": "Hekimhan",
+    "country": "TR",
+    "lat": 38.81622,
+    "lng": 37.92882
+  },
+  {
+    "name": "Hekimdağ",
+    "country": "TR",
+    "lat": 39.90904,
+    "lng": 30.5646
+  },
+  {
+    "name": "Hemşin",
+    "country": "TR",
+    "lat": 41.04777,
+    "lng": 40.8984
+  },
+  {
+    "name": "Hereke",
+    "country": "TR",
+    "lat": 40.78611,
+    "lng": 29.61472
+  },
+  {
+    "name": "Hendek",
+    "country": "TR",
+    "lat": 40.79944,
+    "lng": 30.74806
+  },
+  {
+    "name": "Hengchun",
+    "country": "TW",
+    "lat": 22.00417,
+    "lng": 120.74389
+  },
+  {
+    "name": "Hedaru",
+    "country": "TZ",
+    "lat": -4.5,
+    "lng": 37.9
+  },
+  {
+    "name": "Hertsa",
+    "country": "UA",
+    "lat": 48.14752,
+    "lng": 26.26186
+  },
+  {
+    "name": "Heorhiivka",
+    "country": "UA",
+    "lat": 48.42278,
+    "lng": 39.25278
+  },
+  {
+    "name": "Henichesk",
+    "country": "UA",
+    "lat": 46.16824,
+    "lng": 34.80861
+  },
+  {
+    "name": "Hermanivka",
+    "country": "UA",
+    "lat": 49.99377,
+    "lng": 30.56145
+  },
+  {
+    "name": "Helmiaziv",
+    "country": "UA",
+    "lat": 49.82174,
+    "lng": 31.83582
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 32.15322,
+    "lng": -94.79938
+  },
+  {
+    "name": "Headland",
+    "country": "US",
+    "lat": 31.35128,
+    "lng": -85.34216
+  },
+  {
+    "name": "Heflin",
+    "country": "US",
+    "lat": 33.64899,
+    "lng": -85.58746
+  },
+  {
+    "name": "Helena",
+    "country": "US",
+    "lat": 33.29622,
+    "lng": -86.8436
+  },
+  {
+    "name": "Henagar",
+    "country": "US",
+    "lat": 34.63508,
+    "lng": -85.76719
+  },
+  {
+    "name": "Heber Springs",
+    "country": "US",
+    "lat": 35.49147,
+    "lng": -92.03126
+  },
+  {
+    "name": "Helena",
+    "country": "US",
+    "lat": 34.52955,
+    "lng": -90.59177
+  },
+  {
+    "name": "Heathrow",
+    "country": "US",
+    "lat": 28.76333,
+    "lng": -81.37225
+  },
+  {
+    "name": "Hernando",
+    "country": "US",
+    "lat": 28.89998,
+    "lng": -82.37454
+  },
+  {
+    "name": "Hernando Beach",
+    "country": "US",
+    "lat": 28.46944,
+    "lng": -82.65927
+  },
+  {
+    "name": "Helena",
+    "country": "US",
+    "lat": 32.07379,
+    "lng": -82.91459
+  },
+  {
+    "name": "Hephzibah",
+    "country": "US",
+    "lat": 33.31403,
+    "lng": -82.09679
+  },
+  {
+    "name": "Herrin",
+    "country": "US",
+    "lat": 37.80311,
+    "lng": -89.02757
+  },
+  {
+    "name": "Henryville",
+    "country": "US",
+    "lat": 38.54173,
+    "lng": -85.76774
+  },
+  {
+    "name": "Herington",
+    "country": "US",
+    "lat": 38.67112,
+    "lng": -96.94251
+  },
+  {
+    "name": "Hesston",
+    "country": "US",
+    "lat": 38.13834,
+    "lng": -97.43143
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 39.06589,
+    "lng": -84.70106
+  },
+  {
+    "name": "Hebron Estates",
+    "country": "US",
+    "lat": 38.04951,
+    "lng": -85.66607
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 37.83615,
+    "lng": -87.59001
+  },
+  {
+    "name": "Hendron",
+    "country": "US",
+    "lat": 37.0395,
+    "lng": -88.62922
+  },
+  {
+    "name": "Heritage Creek",
+    "country": "US",
+    "lat": 38.12368,
+    "lng": -85.71968
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 30.31325,
+    "lng": -91.79039
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 38.42012,
+    "lng": -75.68771
+  },
+  {
+    "name": "Herald Harbor",
+    "country": "US",
+    "lat": 39.05372,
+    "lng": -76.56913
+  },
+  {
+    "name": "Herculaneum",
+    "country": "US",
+    "lat": 38.26839,
+    "lng": -90.38012
+  },
+  {
+    "name": "Hermann",
+    "country": "US",
+    "lat": 38.70421,
+    "lng": -91.43738
+  },
+  {
+    "name": "Hermitage",
+    "country": "US",
+    "lat": 37.94142,
+    "lng": -93.31631
+  },
+  {
+    "name": "Helena",
+    "country": "US",
+    "lat": 30.49464,
+    "lng": -88.49585
+  },
+  {
+    "name": "Hernando",
+    "country": "US",
+    "lat": 34.82399,
+    "lng": -89.9937
+  },
+  {
+    "name": "Hemby Bridge",
+    "country": "US",
+    "lat": 35.10371,
+    "lng": -80.62798
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 36.32959,
+    "lng": -78.39916
+  },
+  {
+    "name": "Hendersonville",
+    "country": "US",
+    "lat": 35.31873,
+    "lng": -82.46095
+  },
+  {
+    "name": "Hertford",
+    "country": "US",
+    "lat": 36.19016,
+    "lng": -76.46605
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 39.96173,
+    "lng": -82.49127
+  },
+  {
+    "name": "Healdton",
+    "country": "US",
+    "lat": 34.23315,
+    "lng": -97.4878
+  },
+  {
+    "name": "Heavener",
+    "country": "US",
+    "lat": 34.88927,
+    "lng": -94.60078
+  },
+  {
+    "name": "Helena",
+    "country": "US",
+    "lat": 36.54614,
+    "lng": -98.27007
+  },
+  {
+    "name": "Hennessey",
+    "country": "US",
+    "lat": 36.1092,
+    "lng": -97.89867
+  },
+  {
+    "name": "Henryetta",
+    "country": "US",
+    "lat": 35.43983,
+    "lng": -95.98194
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 35.43924,
+    "lng": -88.64144
+  },
+  {
+    "name": "Hendersonville",
+    "country": "US",
+    "lat": 36.30477,
+    "lng": -86.62
+  },
+  {
+    "name": "Hermitage",
+    "country": "US",
+    "lat": 36.19617,
+    "lng": -86.6225
+  },
+  {
+    "name": "Hearne",
+    "country": "US",
+    "lat": 30.87852,
+    "lng": -96.59303
+  },
+  {
+    "name": "Heath",
+    "country": "US",
+    "lat": 32.83651,
+    "lng": -96.47499
+  },
+  {
+    "name": "Hebbronville",
+    "country": "US",
+    "lat": 27.30688,
+    "lng": -98.68032
+  },
+  {
+    "name": "Hedwig Village",
+    "country": "US",
+    "lat": 29.77745,
+    "lng": -95.51716
+  },
+  {
+    "name": "Heidelberg",
+    "country": "US",
+    "lat": 26.19702,
+    "lng": -97.88028
+  },
+  {
+    "name": "Helotes",
+    "country": "US",
+    "lat": 29.57801,
+    "lng": -98.68975
+  },
+  {
+    "name": "Hemphill",
+    "country": "US",
+    "lat": 31.34074,
+    "lng": -93.84685
+  },
+  {
+    "name": "Hempstead",
+    "country": "US",
+    "lat": 30.09744,
+    "lng": -96.07829
+  },
+  {
+    "name": "Henrietta",
+    "country": "US",
+    "lat": 33.81732,
+    "lng": -98.19532
+  },
+  {
+    "name": "Hewitt",
+    "country": "US",
+    "lat": 31.46239,
+    "lng": -97.19584
+  },
+  {
+    "name": "Heathsville",
+    "country": "US",
+    "lat": 37.91763,
+    "lng": -76.47217
+  },
+  {
+    "name": "Henry Fork",
+    "country": "US",
+    "lat": 36.96625,
+    "lng": -79.87031
+  },
+  {
+    "name": "Herndon",
+    "country": "US",
+    "lat": 38.96955,
+    "lng": -77.3861
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 41.65788,
+    "lng": -72.36592
+  },
+  {
+    "name": "Heritage Village",
+    "country": "US",
+    "lat": 41.48565,
+    "lng": -73.23789
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 42.47169,
+    "lng": -88.43232
+  },
+  {
+    "name": "Hennepin",
+    "country": "US",
+    "lat": 41.2542,
+    "lng": -89.34231
+  },
+  {
+    "name": "Henry",
+    "country": "US",
+    "lat": 41.11142,
+    "lng": -89.35648
+  },
+  {
+    "name": "Herscher",
+    "country": "US",
+    "lat": 41.0492,
+    "lng": -88.09783
+  },
+  {
+    "name": "Heyworth",
+    "country": "US",
+    "lat": 40.31337,
+    "lng": -88.97369
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 41.31865,
+    "lng": -87.20031
+  },
+  {
+    "name": "Head of Westport",
+    "country": "US",
+    "lat": 41.62094,
+    "lng": -71.06199
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 44.19813,
+    "lng": -70.40645
+  },
+  {
+    "name": "Hermon",
+    "country": "US",
+    "lat": 44.81007,
+    "lng": -68.91337
+  },
+  {
+    "name": "Hemlock",
+    "country": "US",
+    "lat": 43.41475,
+    "lng": -84.23054
+  },
+  {
+    "name": "Hector",
+    "country": "US",
+    "lat": 44.74385,
+    "lng": -94.71555
+  },
+  {
+    "name": "Hermantown",
+    "country": "US",
+    "lat": 46.80689,
+    "lng": -92.23825
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 40.16639,
+    "lng": -97.58588
+  },
+  {
+    "name": "Henniker",
+    "country": "US",
+    "lat": 43.1798,
+    "lng": -71.8223
+  },
+  {
+    "name": "Heathcote",
+    "country": "US",
+    "lat": 40.38872,
+    "lng": -74.57571
+  },
+  {
+    "name": "Helmetta",
+    "country": "US",
+    "lat": 40.37677,
+    "lng": -74.4246
+  },
+  {
+    "name": "Head of the Harbor",
+    "country": "US",
+    "lat": 40.90343,
+    "lng": -73.15789
+  },
+  {
+    "name": "Hell's Kitchen",
+    "country": "US",
+    "lat": 40.76496,
+    "lng": -73.9909
+  },
+  {
+    "name": "Hempstead",
+    "country": "US",
+    "lat": 40.70621,
+    "lng": -73.61874
+  },
+  {
+    "name": "Henrietta",
+    "country": "US",
+    "lat": 43.05923,
+    "lng": -77.61222
+  },
+  {
+    "name": "Herkimer",
+    "country": "US",
+    "lat": 43.02563,
+    "lng": -74.98599
+  },
+  {
+    "name": "Heritage Hills",
+    "country": "US",
+    "lat": 41.33954,
+    "lng": -73.69735
+  },
+  {
+    "name": "Herricks",
+    "country": "US",
+    "lat": 40.75538,
+    "lng": -73.6668
+  },
+  {
+    "name": "Hewlett",
+    "country": "US",
+    "lat": 40.64316,
+    "lng": -73.69569
+  },
+  {
+    "name": "Hewlett Harbor",
+    "country": "US",
+    "lat": 40.63621,
+    "lng": -73.68152
+  },
+  {
+    "name": "Heath",
+    "country": "US",
+    "lat": 40.02284,
+    "lng": -82.4446
+  },
+  {
+    "name": "Hebron",
+    "country": "US",
+    "lat": 40.33898,
+    "lng": -76.3994
+  },
+  {
+    "name": "Heidelberg",
+    "country": "US",
+    "lat": 40.39229,
+    "lng": -80.09089
+  },
+  {
+    "name": "Hellertown",
+    "country": "US",
+    "lat": 40.57954,
+    "lng": -75.34073
+  },
+  {
+    "name": "Hemlock Farms",
+    "country": "US",
+    "lat": 41.32676,
+    "lng": -75.03656
+  },
+  {
+    "name": "Hermitage",
+    "country": "US",
+    "lat": 41.23339,
+    "lng": -80.44868
+  },
+  {
+    "name": "Hershey",
+    "country": "US",
+    "lat": 40.28592,
+    "lng": -76.65025
+  },
+  {
+    "name": "Healdsburg",
+    "country": "US",
+    "lat": 38.61047,
+    "lng": -122.86916
+  },
+  {
+    "name": "Heber",
+    "country": "US",
+    "lat": 32.73089,
+    "lng": -115.52972
+  },
+  {
+    "name": "Hemet",
+    "country": "US",
+    "lat": 33.74761,
+    "lng": -116.97307
+  },
+  {
+    "name": "Herald",
+    "country": "US",
+    "lat": 38.29575,
+    "lng": -121.24439
+  },
+  {
+    "name": "Hercules",
+    "country": "US",
+    "lat": 38.01714,
+    "lng": -122.28858
+  },
+  {
+    "name": "Hermosa Beach",
+    "country": "US",
+    "lat": 33.86224,
+    "lng": -118.39952
+  },
+  {
+    "name": "Hesperia",
+    "country": "US",
+    "lat": 34.42639,
+    "lng": -117.30088
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 36.0397,
+    "lng": -114.98194
+  },
+  {
+    "name": "Hereford",
+    "country": "US",
+    "lat": 34.81521,
+    "lng": -102.39932
+  },
+  {
+    "name": "Helper",
+    "country": "US",
+    "lat": 39.68413,
+    "lng": -110.85461
+  },
+  {
+    "name": "Heyburn",
+    "country": "US",
+    "lat": 42.55852,
+    "lng": -113.7639
+  },
+  {
+    "name": "Helena",
+    "country": "US",
+    "lat": 46.59271,
+    "lng": -112.03611
+  },
+  {
+    "name": "Hettinger",
+    "country": "US",
+    "lat": 46.00139,
+    "lng": -102.63682
+  },
+  {
+    "name": "Heppner",
+    "country": "US",
+    "lat": 45.35318,
+    "lng": -119.5578
+  },
+  {
+    "name": "Hermiston",
+    "country": "US",
+    "lat": 45.84041,
+    "lng": -119.28946
+  },
+  {
+    "name": "Heber City",
+    "country": "US",
+    "lat": 40.5069,
+    "lng": -111.41324
+  },
+  {
+    "name": "Herriman",
+    "country": "US",
+    "lat": 40.51411,
+    "lng": -112.03299
+  },
+  {
+    "name": "He‘eia",
+    "country": "US",
+    "lat": 21.43054,
+    "lng": -157.81611
+  },
+  {
+    "name": "Healy",
+    "country": "US",
+    "lat": 63.85694,
+    "lng": -148.96611
+  },
+  {
+    "name": "Helena-West Helena",
+    "country": "US",
+    "lat": 34.5291,
+    "lng": -90.59
+  },
+  {
+    "name": "Heber-Overgaard",
+    "country": "US",
+    "lat": 34.41414,
+    "lng": -110.56956
+  },
+  {
+    "name": "Helena Valley Northeast",
+    "country": "US",
+    "lat": 46.69882,
+    "lng": -111.95207
+  },
+  {
+    "name": "Helena Valley Northwest",
+    "country": "US",
+    "lat": 46.72894,
+    "lng": -112.06275
+  },
+  {
+    "name": "Helena Valley Southeast",
+    "country": "US",
+    "lat": 46.61527,
+    "lng": -111.92156
+  },
+  {
+    "name": "Helena Valley West Central",
+    "country": "US",
+    "lat": 46.66291,
+    "lng": -112.06044
+  },
+  {
+    "name": "Helena West Side",
+    "country": "US",
+    "lat": 46.59672,
+    "lng": -112.11304
+  },
+  {
+    "name": "Heritage Pines",
+    "country": "US",
+    "lat": 28.42522,
+    "lng": -82.62111
+  },
+  {
+    "name": "Henderson",
+    "country": "US",
+    "lat": 32.00813,
+    "lng": -81.25887
+  },
+  {
+    "name": "Heritage Lake",
+    "country": "US",
+    "lat": 40.54745,
+    "lng": -89.32581
+  },
+  {
+    "name": "Heritage Lake",
+    "country": "US",
+    "lat": 39.72779,
+    "lng": -86.71022
+  },
+  {
+    "name": "Helemano",
+    "country": "US",
+    "lat": 21.53602,
+    "lng": -158.01894
+  },
+  {
+    "name": "Hertzogville",
+    "country": "ZA",
+    "lat": -28.12759,
+    "lng": 25.50387
+  },
+  {
+    "name": "Hennenman",
+    "country": "ZA",
+    "lat": -27.97654,
+    "lng": 27.02423
+  },
+  {
+    "name": "Hendrina",
+    "country": "ZA",
+    "lat": -26.15881,
+    "lng": 29.71528
+  },
+  {
+    "name": "Heilbron",
+    "country": "ZA",
+    "lat": -27.28115,
+    "lng": 27.9709
+  },
+  {
+    "name": "Heidelberg",
+    "country": "ZA",
+    "lat": -34.09127,
+    "lng": 20.95661
+  },
+  {
+    "name": "Heidelberg",
+    "country": "ZA",
+    "lat": -26.50476,
+    "lng": 28.35921
+  },
+  {
+    "name": "Hectorspruit",
+    "country": "ZA",
+    "lat": -25.44115,
+    "lng": 31.68382
+  },
+  {
+    "name": "Hermanus",
+    "country": "ZA",
+    "lat": -34.4187,
+    "lng": 19.23446
+  },
+  {
+    "name": "Herolds Bay",
+    "country": "ZA",
+    "lat": -34.04832,
+    "lng": 22.39709
+  },
+  {
+    "name": "Headlands",
+    "country": "ZW",
+    "lat": -18.27733,
+    "lng": 32.0515
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "name": "Ikast",
+    "country": "DK",
+    "lat": 56.13883,
+    "lng": 9.15768
+  },
+  {
+    "name": "Ikaztegieta",
+    "country": "ES",
+    "lat": 43.09444,
+    "lng": -2.12373
+  },
+  {
+    "name": "Ikuri",
+    "country": "FI",
+    "lat": 61.51132,
+    "lng": 23.59417
+  },
+  {
+    "name": "Ikaalinen",
+    "country": "FI",
+    "lat": 61.76951,
+    "lng": 23.0658
+  },
+  {
+    "name": "Iklad",
+    "country": "HU",
+    "lat": 47.66533,
+    "lng": 19.4361
+  },
+  {
+    "name": "Iksāl",
+    "country": "IL",
+    "lat": 32.68164,
+    "lng": 35.32365
+  },
+  {
+    "name": "Iklehra",
+    "country": "IN",
+    "lat": 23.14667,
+    "lng": 76.39044
+  },
+  {
+    "name": "Ikauna",
+    "country": "IN",
+    "lat": 27.53097,
+    "lng": 81.96917
+  },
+  {
+    "name": "Ikoma",
+    "country": "JP",
+    "lat": 34.68333,
+    "lng": 135.7
+  },
+  {
+    "name": "Ikeno",
+    "country": "JP",
+    "lat": 35.43333,
+    "lng": 136.58333
+  },
+  {
+    "name": "Ikegawa",
+    "country": "JP",
+    "lat": 33.6,
+    "lng": 133.18333
+  },
+  {
+    "name": "Ikeda",
+    "country": "JP",
+    "lat": 36.41667,
+    "lng": 137.88333
+  },
+  {
+    "name": "Ikeda",
+    "country": "JP",
+    "lat": 34.82208,
+    "lng": 135.4298
+  },
+  {
+    "name": "Ikedachō",
+    "country": "JP",
+    "lat": 34.02849,
+    "lng": 133.80616
+  },
+  {
+    "name": "Ikaruga",
+    "country": "JP",
+    "lat": 34.83475,
+    "lng": 134.57803
+  },
+  {
+    "name": "Ikutora",
+    "country": "JP",
+    "lat": 43.15556,
+    "lng": 142.57056
+  },
+  {
+    "name": "Ikeda",
+    "country": "JP",
+    "lat": 42.92139,
+    "lng": 143.45194
+  },
+  {
+    "name": "Ikatagoshi",
+    "country": "JP",
+    "lat": 33.50175,
+    "lng": 132.34217
+  },
+  {
+    "name": "Ikeda",
+    "country": "JP",
+    "lat": 35.89211,
+    "lng": 136.34153
+  },
+  {
+    "name": "Ikebukuro",
+    "country": "JP",
+    "lat": 35.73681,
+    "lng": 139.70711
+  },
+  {
+    "name": "Ikata-chō",
+    "country": "JP",
+    "lat": 33.48833,
+    "lng": 132.35417
+  },
+  {
+    "name": "Ikegami",
+    "country": "JP",
+    "lat": 35.57667,
+    "lng": 139.70517
+  },
+  {
+    "name": "Iki",
+    "country": "JP",
+    "lat": 33.78286,
+    "lng": 129.7209
+  },
+  {
+    "name": "Ikinu",
+    "country": "KE",
+    "lat": -1.10804,
+    "lng": 36.79161
+  },
+  {
+    "name": "Ikoni",
+    "country": "KM",
+    "lat": -11.74487,
+    "lng": 43.2371
+  },
+  {
+    "name": "Iksan",
+    "country": "KR",
+    "lat": 35.94389,
+    "lng": 126.95444
+  },
+  {
+    "name": "Ikšķile",
+    "country": "LV",
+    "lat": 56.83399,
+    "lng": 24.49679
+  },
+  {
+    "name": "Ikongo",
+    "country": "MG",
+    "lat": -21.88333,
+    "lng": 47.43333
+  },
+  {
+    "name": "Ikalamavony",
+    "country": "MG",
+    "lat": -21.15,
+    "lng": 46.58333
+  },
+  {
+    "name": "Ikot Abasi",
+    "country": "NG",
+    "lat": 4.56851,
+    "lng": 7.55262
+  },
+  {
+    "name": "Ikoyi-Ile",
+    "country": "NG",
+    "lat": 8.2444,
+    "lng": 4.17181
+  },
+  {
+    "name": "Ikoyi",
+    "country": "NG",
+    "lat": 6.45254,
+    "lng": 3.43584
+  },
+  {
+    "name": "Ikotun",
+    "country": "NG",
+    "lat": 6.54433,
+    "lng": 3.26379
+  },
+  {
+    "name": "Ikot Nakanda",
+    "country": "NG",
+    "lat": 4.88426,
+    "lng": 8.48379
+  },
+  {
+    "name": "Ikot Ibritam",
+    "country": "NG",
+    "lat": 4.81171,
+    "lng": 7.61401
+  },
+  {
+    "name": "Ikot Ekpene",
+    "country": "NG",
+    "lat": 5.18194,
+    "lng": 7.71481
+  },
+  {
+    "name": "Ikorodu",
+    "country": "NG",
+    "lat": 6.61526,
+    "lng": 3.5069
+  },
+  {
+    "name": "Ikom",
+    "country": "NG",
+    "lat": 5.96669,
+    "lng": 8.70632
+  },
+  {
+    "name": "Ikole-Ekiti",
+    "country": "NG",
+    "lat": 7.79148,
+    "lng": 5.50865
+  },
+  {
+    "name": "Ikirun",
+    "country": "NG",
+    "lat": 7.91283,
+    "lng": 4.66741
+  },
+  {
+    "name": "Ikire",
+    "country": "NG",
+    "lat": 7.36983,
+    "lng": 4.1863
+  },
+  {
+    "name": "Ikere-Ekiti",
+    "country": "NG",
+    "lat": 7.49748,
+    "lng": 5.23041
+  },
+  {
+    "name": "Ikenne",
+    "country": "NG",
+    "lat": 6.86579,
+    "lng": 3.71518
+  },
+  {
+    "name": "Ikem",
+    "country": "NG",
+    "lat": 6.77993,
+    "lng": 7.71484
+  },
+  {
+    "name": "Ikeja",
+    "country": "NG",
+    "lat": 6.59651,
+    "lng": 3.34205
+  },
+  {
+    "name": "Ikare",
+    "country": "NG",
+    "lat": 7.52591,
+    "lng": 5.75342
+  },
+  {
+    "name": "Ikara",
+    "country": "NG",
+    "lat": 11.17511,
+    "lng": 8.22466
+  },
+  {
+    "name": "Ikang",
+    "country": "NG",
+    "lat": 4.78978,
+    "lng": 8.5316
+  },
+  {
+    "name": "Ikot Edibon",
+    "country": "NG",
+    "lat": 4.77022,
+    "lng": 7.931
+  },
+  {
+    "name": "Ikot Akpa Nkuk",
+    "country": "NG",
+    "lat": 4.87231,
+    "lng": 7.56459
+  },
+  {
+    "name": "Iktābah",
+    "country": "PS",
+    "lat": 32.3266,
+    "lng": 35.05262
+  },
+  {
+    "name": "Iksha",
+    "country": "RU",
+    "lat": 56.17204,
+    "lng": 37.49842
+  },
+  {
+    "name": "Ikryanoye",
+    "country": "RU",
+    "lat": 46.09292,
+    "lng": 47.72965
+  },
+  {
+    "name": "Ikon-Khalk",
+    "country": "RU",
+    "lat": 44.3051,
+    "lng": 41.9142
+  },
+  {
+    "name": "Iki Burul",
+    "country": "RU",
+    "lat": 45.82327,
+    "lng": 44.6457
+  },
+  {
+    "name": "Ikovka",
+    "country": "RU",
+    "lat": 55.60889,
+    "lng": 64.9375
+  },
+  {
+    "name": "Ikey",
+    "country": "RU",
+    "lat": 54.19194,
+    "lng": 100.08111
+  },
+  {
+    "name": "İkizce",
+    "country": "TR",
+    "lat": 39.59516,
+    "lng": 32.66097
+  },
+  {
+    "name": "İkizce",
+    "country": "TR",
+    "lat": 36.86262,
+    "lng": 37.77432
+  },
+  {
+    "name": "İkiköprü",
+    "country": "TR",
+    "lat": 37.96459,
+    "lng": 41.33119
+  },
+  {
+    "name": "İkizören",
+    "country": "TR",
+    "lat": 40.68833,
+    "lng": 33.88333
+  },
+  {
+    "name": "İkizdere",
+    "country": "TR",
+    "lat": 40.77484,
+    "lng": 40.55227
+  },
+  {
+    "name": "İkizce",
+    "country": "TR",
+    "lat": 41.05833,
+    "lng": 37.08028
+  },
+  {
+    "name": "Ikwiriri",
+    "country": "TZ",
+    "lat": -7.95618,
+    "lng": 38.97164
+  },
+  {
+    "name": "Ikungi",
+    "country": "TZ",
+    "lat": -5.13333,
+    "lng": 34.76667
+  },
+  {
+    "name": "Ikgomotseng",
+    "country": "ZA",
+    "lat": -28.73477,
+    "lng": 26.10788
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Hlybokaye",
+    "country": "BY",
+    "lat": 55.13933,
+    "lng": 27.69143
+  },
+  {
+    "name": "Hlusha",
+    "country": "BY",
+    "lat": 53.0868,
+    "lng": 28.8567
+  },
+  {
+    "name": "Hluk",
+    "country": "CZ",
+    "lat": 48.98805,
+    "lng": 17.52744
+  },
+  {
+    "name": "Hlučín",
+    "country": "CZ",
+    "lat": 49.89795,
+    "lng": 18.19196
+  },
+  {
+    "name": "Hluboká nad Vltavou",
+    "country": "CZ",
+    "lat": 49.05225,
+    "lng": 14.43427
+  },
+  {
+    "name": "Hlubočky",
+    "country": "CZ",
+    "lat": 49.61783,
+    "lng": 17.39436
+  },
+  {
+    "name": "Hlubočepy",
+    "country": "CZ",
+    "lat": 50.04364,
+    "lng": 14.40162
+  },
+  {
+    "name": "Hloubětín",
+    "country": "CZ",
+    "lat": 50.10621,
+    "lng": 14.53723
+  },
+  {
+    "name": "Hlohovec",
+    "country": "CZ",
+    "lat": 48.77399,
+    "lng": 16.7623
+  },
+  {
+    "name": "Hlinsko",
+    "country": "CZ",
+    "lat": 49.76213,
+    "lng": 15.90756
+  },
+  {
+    "name": "Hlebine",
+    "country": "HR",
+    "lat": 46.15694,
+    "lng": 16.96278
+  },
+  {
+    "name": "Hlotse",
+    "country": "LS",
+    "lat": -28.87185,
+    "lng": 28.04501
+  },
+  {
+    "name": "Hlegu",
+    "country": "MM",
+    "lat": 17.09567,
+    "lng": 96.22056
+  },
+  {
+    "name": "Hlipiceni",
+    "country": "RO",
+    "lat": 47.6,
+    "lng": 27.15
+  },
+  {
+    "name": "Hlăpești",
+    "country": "RO",
+    "lat": 47.03817,
+    "lng": 26.59842
+  },
+  {
+    "name": "Hlohovec",
+    "country": "SK",
+    "lat": 48.43174,
+    "lng": 17.8031
+  },
+  {
+    "name": "Hluti",
+    "country": "SZ",
+    "lat": -27.221,
+    "lng": 31.58685
+  },
+  {
+    "name": "Hlathikhulu",
+    "country": "SZ",
+    "lat": -26.97991,
+    "lng": 31.32569
+  },
+  {
+    "name": "Hlyboka",
+    "country": "UA",
+    "lat": 48.08756,
+    "lng": 25.9284
+  },
+  {
+    "name": "Hlukhiv",
+    "country": "UA",
+    "lat": 51.67822,
+    "lng": 33.9162
+  },
+  {
+    "name": "Hlukhivtsi",
+    "country": "UA",
+    "lat": 49.77149,
+    "lng": 28.72976
+  },
+  {
+    "name": "Hlyboke",
+    "country": "UA",
+    "lat": 45.73036,
+    "lng": 29.60853
+  },
+  {
+    "name": "Hlobyne",
+    "country": "UA",
+    "lat": 49.37894,
+    "lng": 33.27555
+  },
+  {
+    "name": "Hlynne",
+    "country": "UA",
+    "lat": 51.52638,
+    "lng": 27.41285
+  },
+  {
+    "name": "Hlynytsya",
+    "country": "UA",
+    "lat": 48.33406,
+    "lng": 25.70507
+  },
+  {
+    "name": "Hlevakha",
+    "country": "UA",
+    "lat": 50.27423,
+    "lng": 30.32706
+  },
+  {
+    "name": "Hlavani",
+    "country": "UA",
+    "lat": 45.84468,
+    "lng": 29.19499
+  },
+  {
+    "name": "Hlyns'k",
+    "country": "UA",
+    "lat": 50.06033,
+    "lng": 23.89956
+  },
+  {
+    "name": "Hlybochok",
+    "country": "UA",
+    "lat": 48.86686,
+    "lng": 30.79897
+  },
+  {
+    "name": "Hlengesha",
+    "country": "ZA",
+    "lat": -25.74932,
+    "lng": 31.54034
+  },
+  {
+    "name": "Hluvukani",
+    "country": "ZA",
+    "lat": -24.64528,
+    "lng": 31.34103
+  },
+  {
+    "name": "Hluhluwe",
+    "country": "ZA",
+    "lat": -28.01895,
+    "lng": 32.26762
+  },
+  {
+    "name": "Hlobane",
+    "country": "ZA",
+    "lat": -27.71656,
+    "lng": 31.00112
+  },
+  {
+    "name": "Hlabisa",
+    "country": "ZA",
+    "lat": -28.14519,
+    "lng": 31.87719
+  },
+  {
+    "name": "Hlohlolwane",
+    "country": "ZA",
+    "lat": -28.91588,
+    "lng": 27.56957
+  },
+  {
+    "name": "Hlanganani",
+    "country": "ZA",
+    "lat": -24.95911,
+    "lng": 31.17025
+  },
+  {
+    "name": "Hlalanathi",
+    "country": "ZA",
+    "lat": -27.49124,
+    "lng": 32.18304
+  },
+  {
+    "name": "Hlavekisa",
+    "country": "ZA",
+    "lat": -24.62923,
+    "lng": 31.38002
+  }
+]

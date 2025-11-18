@@ -1,0 +1,554 @@
+[
+  {
+    "name": "Ivanhoe East",
+    "country": "AU",
+    "lat": -37.7734,
+    "lng": 145.06195
+  },
+  {
+    "name": "Ivanhoe",
+    "country": "AU",
+    "lat": -37.76903,
+    "lng": 145.04308
+  },
+  {
+    "name": "Ivoz-Ramet",
+    "country": "BE",
+    "lat": 50.58798,
+    "lng": 5.4657
+  },
+  {
+    "name": "Ivaylovgrad",
+    "country": "BG",
+    "lat": 41.52672,
+    "lng": 26.1249
+  },
+  {
+    "name": "Ivanovo",
+    "country": "BG",
+    "lat": 43.68568,
+    "lng": 25.95565
+  },
+  {
+    "name": "Ivoti",
+    "country": "BR",
+    "lat": -29.59111,
+    "lng": -51.16056
+  },
+  {
+    "name": "Ivorá",
+    "country": "BR",
+    "lat": -29.52028,
+    "lng": -53.58056
+  },
+  {
+    "name": "Ivolândia",
+    "country": "BR",
+    "lat": -16.60194,
+    "lng": -50.79389
+  },
+  {
+    "name": "Ivatuba",
+    "country": "BR",
+    "lat": -23.61861,
+    "lng": -52.22139
+  },
+  {
+    "name": "Ivinhema",
+    "country": "BR",
+    "lat": -22.30127,
+    "lng": -53.82866
+  },
+  {
+    "name": "Ivaiporã",
+    "country": "BR",
+    "lat": -24.24778,
+    "lng": -51.68472
+  },
+  {
+    "name": "Ivaí",
+    "country": "BR",
+    "lat": -25.01083,
+    "lng": -50.85889
+  },
+  {
+    "name": "Ivaté",
+    "country": "BR",
+    "lat": -23.40917,
+    "lng": -53.36917
+  },
+  {
+    "name": "Ivyanyets",
+    "country": "BY",
+    "lat": 53.8864,
+    "lng": 26.7432
+  },
+  {
+    "name": "Ivatsevichi",
+    "country": "BY",
+    "lat": 52.70793,
+    "lng": 25.33509
+  },
+  {
+    "name": "Ivanovo",
+    "country": "BY",
+    "lat": 52.14724,
+    "lng": 25.53198
+  },
+  {
+    "name": "Ivanovice na Hané",
+    "country": "CZ",
+    "lat": 49.30542,
+    "lng": 17.09343
+  },
+  {
+    "name": "Ivančice",
+    "country": "CZ",
+    "lat": 49.10144,
+    "lng": 16.37752
+  },
+  {
+    "name": "Ivorra",
+    "country": "ES",
+    "lat": 41.76667,
+    "lng": 1.4
+  },
+  {
+    "name": "Ivars d'Urgell",
+    "country": "ES",
+    "lat": 41.68019,
+    "lng": 0.98696
+  },
+  {
+    "name": "Ivalo",
+    "country": "FI",
+    "lat": 68.65986,
+    "lng": 27.53891
+  },
+  {
+    "name": "Ivry-sur-Seine",
+    "country": "FR",
+    "lat": 48.81568,
+    "lng": 2.38487
+  },
+  {
+    "name": "Ivry-la-Bataille",
+    "country": "FR",
+    "lat": 48.88333,
+    "lng": 1.45948
+  },
+  {
+    "name": "Ivybridge",
+    "country": "GB",
+    "lat": 50.39039,
+    "lng": -3.91914
+  },
+  {
+    "name": "Ivinghoe",
+    "country": "GB",
+    "lat": 51.83602,
+    "lng": -0.62983
+  },
+  {
+    "name": "Iver",
+    "country": "GB",
+    "lat": 51.5,
+    "lng": -0.5
+  },
+  {
+    "name": "Iver Heath",
+    "country": "GB",
+    "lat": 51.53642,
+    "lng": -0.5179
+  },
+  {
+    "name": "Ivington",
+    "country": "GB",
+    "lat": 52.20535,
+    "lng": -2.77265
+  },
+  {
+    "name": "Ivanovac",
+    "country": "HR",
+    "lat": 45.48639,
+    "lng": 18.63694
+  },
+  {
+    "name": "Ivanska",
+    "country": "HR",
+    "lat": 45.77889,
+    "lng": 16.81194
+  },
+  {
+    "name": "Ivanovec",
+    "country": "HR",
+    "lat": 46.36833,
+    "lng": 16.47667
+  },
+  {
+    "name": "Ivankovo",
+    "country": "HR",
+    "lat": 45.28861,
+    "lng": 18.68389
+  },
+  {
+    "name": "Ivanja Reka",
+    "country": "HR",
+    "lat": 45.80222,
+    "lng": 16.11889
+  },
+  {
+    "name": "Ivanić-Grad",
+    "country": "HR",
+    "lat": 45.70833,
+    "lng": 16.39694
+  },
+  {
+    "name": "Ivanec",
+    "country": "HR",
+    "lat": 46.22306,
+    "lng": 16.12
+  },
+  {
+    "name": "Iváncsa",
+    "country": "HU",
+    "lat": 47.1567,
+    "lng": 18.8203
+  },
+  {
+    "name": "Iván",
+    "country": "HU",
+    "lat": 47.44378,
+    "lng": 16.90598
+  },
+  {
+    "name": "Ivrea",
+    "country": "IT",
+    "lat": 45.46723,
+    "lng": 7.87617
+  },
+  {
+    "name": "Ivanovka",
+    "country": "KG",
+    "lat": 42.88778,
+    "lng": 75.085
+  },
+  {
+    "name": "Ivanovo-Alekseyevka",
+    "country": "KG",
+    "lat": 42.54689,
+    "lng": 72.20921
+  },
+  {
+    "name": "Ivouani",
+    "country": "KM",
+    "lat": -11.39157,
+    "lng": 43.39454
+  },
+  {
+    "name": "Ivato",
+    "country": "MG",
+    "lat": -22.41667,
+    "lng": 47.26667
+  },
+  {
+    "name": "Ivato",
+    "country": "MG",
+    "lat": -18.8,
+    "lng": 47.48333
+  },
+  {
+    "name": "Ivankovci",
+    "country": "MK",
+    "lat": 41.84889,
+    "lng": 21.82028
+  },
+  {
+    "name": "Ivisan",
+    "country": "PH",
+    "lat": 11.52167,
+    "lng": 122.69083
+  },
+  {
+    "name": "Ivana",
+    "country": "PH",
+    "lat": 20.37005,
+    "lng": 121.91457
+  },
+  {
+    "name": "Iveşti",
+    "country": "RO",
+    "lat": 46.18333,
+    "lng": 27.53333
+  },
+  {
+    "name": "Iveşti",
+    "country": "RO",
+    "lat": 45.68333,
+    "lng": 27.51667
+  },
+  {
+    "name": "Ivănești",
+    "country": "RO",
+    "lat": 46.63481,
+    "lng": 27.46048
+  },
+  {
+    "name": "Ivanjica",
+    "country": "RS",
+    "lat": 43.58028,
+    "lng": 20.23111
+  },
+  {
+    "name": "Ivot",
+    "country": "RU",
+    "lat": 53.67452,
+    "lng": 34.1893
+  },
+  {
+    "name": "Ivnya",
+    "country": "RU",
+    "lat": 51.05758,
+    "lng": 36.14802
+  },
+  {
+    "name": "Ivanteyevka",
+    "country": "RU",
+    "lat": 55.97111,
+    "lng": 37.92083
+  },
+  {
+    "name": "Ivanteyevka",
+    "country": "RU",
+    "lat": 52.26764,
+    "lng": 49.10512
+  },
+  {
+    "name": "Ivanovskoye",
+    "country": "RU",
+    "lat": 55.76667,
+    "lng": 37.83333
+  },
+  {
+    "name": "Ivanovskoye",
+    "country": "RU",
+    "lat": 44.5795,
+    "lng": 41.8764
+  },
+  {
+    "name": "Ivanovskaya",
+    "country": "RU",
+    "lat": 45.27601,
+    "lng": 38.46435
+  },
+  {
+    "name": "Ivanovo",
+    "country": "RU",
+    "lat": 56.99988,
+    "lng": 40.97257
+  },
+  {
+    "name": "Ivanishchi",
+    "country": "RU",
+    "lat": 55.77417,
+    "lng": 40.42731
+  },
+  {
+    "name": "Ivanino",
+    "country": "RU",
+    "lat": 51.64488,
+    "lng": 35.57536
+  },
+  {
+    "name": "Ivangorod",
+    "country": "RU",
+    "lat": 59.37155,
+    "lng": 28.21625
+  },
+  {
+    "name": "Ivanovka",
+    "country": "RU",
+    "lat": 53.34694,
+    "lng": 34.21917
+  },
+  {
+    "name": "Ivdel’",
+    "country": "RU",
+    "lat": 60.69111,
+    "lng": 60.42056
+  },
+  {
+    "name": "Ivolginsk",
+    "country": "RU",
+    "lat": 51.74522,
+    "lng": 107.28435
+  },
+  {
+    "name": "Ivanovka",
+    "country": "RU",
+    "lat": 50.36077,
+    "lng": 127.99719
+  },
+  {
+    "name": "Ivanovka",
+    "country": "RU",
+    "lat": 43.96798,
+    "lng": 132.48199
+  },
+  {
+    "name": "Ivančna Gorica",
+    "country": "SI",
+    "lat": 45.93695,
+    "lng": 14.80529
+  },
+  {
+    "name": "Ivanka pri Nitre",
+    "country": "SK",
+    "lat": 48.24295,
+    "lng": 18.11617
+  },
+  {
+    "name": "Ivanka pri Dunaji",
+    "country": "SK",
+    "lat": 48.18675,
+    "lng": 17.2554
+  },
+  {
+    "name": "İvrindi",
+    "country": "TR",
+    "lat": 39.58389,
+    "lng": 27.48639
+  },
+  {
+    "name": "Ivano-Frankove",
+    "country": "UA",
+    "lat": 49.91978,
+    "lng": 23.72913
+  },
+  {
+    "name": "Ivanove",
+    "country": "UA",
+    "lat": 46.67688,
+    "lng": 30.88484
+  },
+  {
+    "name": "Ivanivka",
+    "country": "UA",
+    "lat": 46.6541,
+    "lng": 31.66495
+  },
+  {
+    "name": "Ivashkiv",
+    "country": "UA",
+    "lat": 48.1259,
+    "lng": 29.20448
+  },
+  {
+    "name": "Ivanivtsi",
+    "country": "UA",
+    "lat": 48.48851,
+    "lng": 27.03363
+  },
+  {
+    "name": "Ivanivka",
+    "country": "UA",
+    "lat": 46.97463,
+    "lng": 30.46938
+  },
+  {
+    "name": "Ivanivka",
+    "country": "UA",
+    "lat": 46.71268,
+    "lng": 34.54975
+  },
+  {
+    "name": "Ivanovka",
+    "country": "UA",
+    "lat": 45.072,
+    "lng": 33.6613
+  },
+  {
+    "name": "Ivanopil",
+    "country": "UA",
+    "lat": 49.8606,
+    "lng": 28.21561
+  },
+  {
+    "name": "Ivano-Frankivsk",
+    "country": "UA",
+    "lat": 48.92312,
+    "lng": 24.71248
+  },
+  {
+    "name": "Ivankiv",
+    "country": "UA",
+    "lat": 50.93865,
+    "lng": 29.89426
+  },
+  {
+    "name": "Ivankivtsi",
+    "country": "UA",
+    "lat": 48.45332,
+    "lng": 25.67275
+  },
+  {
+    "name": "Ivanky",
+    "country": "UA",
+    "lat": 48.99063,
+    "lng": 30.44773
+  },
+  {
+    "name": "Ivanovka",
+    "country": "UA",
+    "lat": 45.3743,
+    "lng": 34.72013
+  },
+  {
+    "name": "Ivy City",
+    "country": "US",
+    "lat": 38.91122,
+    "lng": -76.9847
+  },
+  {
+    "name": "Ives Estates",
+    "country": "US",
+    "lat": 25.96231,
+    "lng": -80.17671
+  },
+  {
+    "name": "Iva",
+    "country": "US",
+    "lat": 34.3065,
+    "lng": -82.66374
+  },
+  {
+    "name": "Ivanhoe",
+    "country": "US",
+    "lat": 44.4633,
+    "lng": -96.24726
+  },
+  {
+    "name": "Ivyland",
+    "country": "US",
+    "lat": 40.20789,
+    "lng": -75.07267
+  },
+  {
+    "name": "Ivanhoe",
+    "country": "US",
+    "lat": 36.38717,
+    "lng": -119.21789
+  },
+  {
+    "name": "Ivins",
+    "country": "US",
+    "lat": 37.16859,
+    "lng": -113.67941
+  },
+  {
+    "name": "Ivory Park",
+    "country": "ZA",
+    "lat": -25.9957,
+    "lng": 28.1971
+  }
+]

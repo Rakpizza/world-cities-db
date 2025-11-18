@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Iqaluit",
+    "country": "CA",
+    "lat": 63.74697,
+    "lng": -68.51727
+  },
+  {
+    "name": "Iquique",
+    "country": "CL",
+    "lat": -20.21326,
+    "lng": -70.15027
+  },
+  {
+    "name": "Iquinuapa",
+    "country": "MX",
+    "lat": 18.19583,
+    "lng": -93.12056
+  },
+  {
+    "name": "Iquitos",
+    "country": "PE",
+    "lat": -3.74814,
+    "lng": -73.2529
+  },
+  {
+    "name": "Iquipi",
+    "country": "PE",
+    "lat": -15.94009,
+    "lng": -73.13086
+  }
+]

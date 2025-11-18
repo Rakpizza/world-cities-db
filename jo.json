@@ -1,0 +1,2066 @@
+[
+  {
+    "name": "Jovita",
+    "country": "AR",
+    "lat": -34.51886,
+    "lng": -63.94404
+  },
+  {
+    "name": "José de San Martín",
+    "country": "AR",
+    "lat": -44.05139,
+    "lng": -70.46955
+  },
+  {
+    "name": "Joaquín V. González",
+    "country": "AR",
+    "lat": -25.11364,
+    "lng": -64.12628
+  },
+  {
+    "name": "José C. Paz",
+    "country": "AR",
+    "lat": -34.51541,
+    "lng": -58.76813
+  },
+  {
+    "name": "Jois",
+    "country": "AT",
+    "lat": 47.96165,
+    "lng": 16.79604
+  },
+  {
+    "name": "Johnsbach",
+    "country": "AT",
+    "lat": 47.53333,
+    "lng": 14.58333
+  },
+  {
+    "name": "Jochberg",
+    "country": "AT",
+    "lat": 47.3792,
+    "lng": 12.41807
+  },
+  {
+    "name": "Josefstadt",
+    "country": "AT",
+    "lat": 48.21243,
+    "lng": 16.34549
+  },
+  {
+    "name": "Joondalup",
+    "country": "AU",
+    "lat": -31.74445,
+    "lng": 115.76835
+  },
+  {
+    "name": "Jolimont",
+    "country": "AU",
+    "lat": -37.81679,
+    "lng": 144.98459
+  },
+  {
+    "name": "Jolimont",
+    "country": "AU",
+    "lat": -31.94564,
+    "lng": 115.80947
+  },
+  {
+    "name": "Johnston",
+    "country": "AU",
+    "lat": -12.48764,
+    "lng": 131.01169
+  },
+  {
+    "name": "Joyner",
+    "country": "AU",
+    "lat": -27.27613,
+    "lng": 152.94471
+  },
+  {
+    "name": "Joslin",
+    "country": "AU",
+    "lat": -34.89967,
+    "lng": 138.62655
+  },
+  {
+    "name": "Joondanna",
+    "country": "AU",
+    "lat": -31.90767,
+    "lng": 115.84233
+  },
+  {
+    "name": "Jordan Springs",
+    "country": "AU",
+    "lat": -33.72138,
+    "lng": 150.72873
+  },
+  {
+    "name": "Jomala",
+    "country": "AX",
+    "lat": 60.14902,
+    "lng": 19.951
+  },
+  {
+    "name": "Joypur Hāt",
+    "country": "BD",
+    "lat": 25.10147,
+    "lng": 89.02734
+  },
+  {
+    "name": "Jodoigne",
+    "country": "BE",
+    "lat": 50.72357,
+    "lng": 4.86914
+  },
+  {
+    "name": "Jorochito",
+    "country": "BO",
+    "lat": -18.05608,
+    "lng": -63.42788
+  },
+  {
+    "name": "José de Freitas",
+    "country": "BR",
+    "lat": -4.75639,
+    "lng": -42.57556
+  },
+  {
+    "name": "José da Penha",
+    "country": "BR",
+    "lat": -6.31667,
+    "lng": -38.28139
+  },
+  {
+    "name": "Joaquim Nabuco",
+    "country": "BR",
+    "lat": -8.62444,
+    "lng": -35.53333
+  },
+  {
+    "name": "Joaquim Gomes",
+    "country": "BR",
+    "lat": -9.13333,
+    "lng": -35.74833
+  },
+  {
+    "name": "João Pessoa",
+    "country": "BR",
+    "lat": -7.115,
+    "lng": -34.86306
+  },
+  {
+    "name": "João Lisboa",
+    "country": "BR",
+    "lat": -5.44778,
+    "lng": -47.40083
+  },
+  {
+    "name": "João Dias",
+    "country": "BR",
+    "lat": -6.27444,
+    "lng": -37.79611
+  },
+  {
+    "name": "João Câmara",
+    "country": "BR",
+    "lat": -5.5375,
+    "lng": -35.81972
+  },
+  {
+    "name": "João Alfredo",
+    "country": "BR",
+    "lat": -7.85583,
+    "lng": -35.58833
+  },
+  {
+    "name": "Joaquim Pires",
+    "country": "BR",
+    "lat": -3.50833,
+    "lng": -42.19778
+  },
+  {
+    "name": "Joviânia",
+    "country": "BR",
+    "lat": -17.80583,
+    "lng": -49.61278
+  },
+  {
+    "name": "José Raydan",
+    "country": "BR",
+    "lat": -18.21944,
+    "lng": -42.49861
+  },
+  {
+    "name": "Josenópolis",
+    "country": "BR",
+    "lat": -16.54722,
+    "lng": -42.51528
+  },
+  {
+    "name": "José Bonifácio",
+    "country": "BR",
+    "lat": -21.05278,
+    "lng": -49.68833
+  },
+  {
+    "name": "José Boiteux",
+    "country": "BR",
+    "lat": -26.95833,
+    "lng": -49.62806
+  },
+  {
+    "name": "Jordânia",
+    "country": "BR",
+    "lat": -15.90028,
+    "lng": -40.17806
+  },
+  {
+    "name": "Joinville",
+    "country": "BR",
+    "lat": -26.30444,
+    "lng": -48.84556
+  },
+  {
+    "name": "Joaquim Távora",
+    "country": "BR",
+    "lat": -23.49887,
+    "lng": -49.92591
+  },
+  {
+    "name": "Joaquim Felício",
+    "country": "BR",
+    "lat": -17.7575,
+    "lng": -44.17222
+  },
+  {
+    "name": "Joaquim Egídio",
+    "country": "BR",
+    "lat": -22.88778,
+    "lng": -46.94306
+  },
+  {
+    "name": "João Ramalho",
+    "country": "BR",
+    "lat": -22.25028,
+    "lng": -50.76778
+  },
+  {
+    "name": "João Pinheiro",
+    "country": "BR",
+    "lat": -17.7425,
+    "lng": -46.1725
+  },
+  {
+    "name": "João Neiva",
+    "country": "BR",
+    "lat": -19.7575,
+    "lng": -40.38556
+  },
+  {
+    "name": "João Monlevade",
+    "country": "BR",
+    "lat": -19.81,
+    "lng": -43.17361
+  },
+  {
+    "name": "Joanópolis",
+    "country": "BR",
+    "lat": -22.93028,
+    "lng": -46.27556
+  },
+  {
+    "name": "Joanésia",
+    "country": "BR",
+    "lat": -19.17222,
+    "lng": -42.67861
+  },
+  {
+    "name": "Joaíma",
+    "country": "BR",
+    "lat": -16.65417,
+    "lng": -41.03056
+  },
+  {
+    "name": "Joaçaba",
+    "country": "BR",
+    "lat": -27.17806,
+    "lng": -51.50472
+  },
+  {
+    "name": "João Dourado",
+    "country": "BR",
+    "lat": -11.34484,
+    "lng": -41.66317
+  },
+  {
+    "name": "João Costa",
+    "country": "BR",
+    "lat": -8.49013,
+    "lng": -42.41742
+  },
+  {
+    "name": "Joca Marques",
+    "country": "BR",
+    "lat": -3.49785,
+    "lng": -42.43282
+  },
+  {
+    "name": "Jordão",
+    "country": "BR",
+    "lat": -9.43417,
+    "lng": -71.88389
+  },
+  {
+    "name": "José Gonçalves de Minas",
+    "country": "BR",
+    "lat": -16.90694,
+    "lng": -42.60361
+  },
+  {
+    "name": "Jose Bonifacio",
+    "country": "BR",
+    "lat": -23.56742,
+    "lng": -46.43264
+  },
+  {
+    "name": "Joselândia",
+    "country": "BR",
+    "lat": -4.98753,
+    "lng": -44.69534
+  },
+  {
+    "name": "Jordão",
+    "country": "BR",
+    "lat": -9.19201,
+    "lng": -71.9488
+  },
+  {
+    "name": "Joliette",
+    "country": "CA",
+    "lat": 46.0164,
+    "lng": -73.4236
+  },
+  {
+    "name": "Jonquière",
+    "country": "CA",
+    "lat": 48.41648,
+    "lng": -71.24884
+  },
+  {
+    "name": "Jonschwil",
+    "country": "CH",
+    "lat": 47.42402,
+    "lng": 9.08689
+  },
+  {
+    "name": "Jonen",
+    "country": "CH",
+    "lat": 47.2975,
+    "lng": 8.39282
+  },
+  {
+    "name": "Jona",
+    "country": "CH",
+    "lat": 47.22983,
+    "lng": 8.83884
+  },
+  {
+    "name": "Jongny",
+    "country": "CH",
+    "lat": 46.47883,
+    "lng": 6.84114
+  },
+  {
+    "name": "Johin",
+    "country": "CI",
+    "lat": 5.80465,
+    "lng": -6.78437
+  },
+  {
+    "name": "Jomda",
+    "country": "CN",
+    "lat": 31.4962,
+    "lng": 98.21171
+  },
+  {
+    "name": "Jordán",
+    "country": "CO",
+    "lat": 6.733,
+    "lng": -73.09588
+  },
+  {
+    "name": "Jovellanos",
+    "country": "CU",
+    "lat": 22.80375,
+    "lng": -81.19127
+  },
+  {
+    "name": "Jobabo",
+    "country": "CU",
+    "lat": 20.96917,
+    "lng": -76.29944
+  },
+  {
+    "name": "Jobabo",
+    "country": "CU",
+    "lat": 20.90748,
+    "lng": -77.28194
+  },
+  {
+    "name": "João Teves",
+    "country": "CV",
+    "lat": 15.06694,
+    "lng": -23.58917
+  },
+  {
+    "name": "Josefův Důl",
+    "country": "CZ",
+    "lat": 50.78191,
+    "lng": 15.23146
+  },
+  {
+    "name": "Jork",
+    "country": "DE",
+    "lat": 53.53198,
+    "lng": 9.68076
+  },
+  {
+    "name": "Johannisthal",
+    "country": "DE",
+    "lat": 52.44653,
+    "lng": 13.5066
+  },
+  {
+    "name": "Johanniskirchen",
+    "country": "DE",
+    "lat": 48.53333,
+    "lng": 12.95
+  },
+  {
+    "name": "Johanngeorgenstadt",
+    "country": "DE",
+    "lat": 50.43254,
+    "lng": 12.7114
+  },
+  {
+    "name": "Johannesberg",
+    "country": "DE",
+    "lat": 50.03159,
+    "lng": 9.14252
+  },
+  {
+    "name": "Jockgrim",
+    "country": "DE",
+    "lat": 49.09288,
+    "lng": 8.27468
+  },
+  {
+    "name": "Joachimsthal",
+    "country": "DE",
+    "lat": 52.97945,
+    "lng": 13.74493
+  },
+  {
+    "name": "Joba Arriba",
+    "country": "DO",
+    "lat": 19.56667,
+    "lng": -70.26667
+  },
+  {
+    "name": "Joséguango Bajo",
+    "country": "EC",
+    "lat": -0.81842,
+    "lng": -78.59521
+  },
+  {
+    "name": "Jorquera",
+    "country": "ES",
+    "lat": 39.16667,
+    "lng": -1.51667
+  },
+  {
+    "name": "Josa",
+    "country": "ES",
+    "lat": 40.9555,
+    "lng": -0.76683
+  },
+  {
+    "name": "Jorcas",
+    "country": "ES",
+    "lat": 40.54275,
+    "lng": -0.75308
+  },
+  {
+    "name": "Jorba",
+    "country": "ES",
+    "lat": 41.60193,
+    "lng": 1.5475
+  },
+  {
+    "name": "Joarilla de las Matas",
+    "country": "ES",
+    "lat": 42.28755,
+    "lng": -5.17855
+  },
+  {
+    "name": "Joutseno",
+    "country": "FI",
+    "lat": 61.11796,
+    "lng": 28.50763
+  },
+  {
+    "name": "Joutsa",
+    "country": "FI",
+    "lat": 61.73333,
+    "lng": 26.11667
+  },
+  {
+    "name": "Joroinen",
+    "country": "FI",
+    "lat": 62.17823,
+    "lng": 27.83165
+  },
+  {
+    "name": "Jollas",
+    "country": "FI",
+    "lat": 60.1628,
+    "lng": 25.07361
+  },
+  {
+    "name": "Jokioinen",
+    "country": "FI",
+    "lat": 60.80162,
+    "lng": 23.48004
+  },
+  {
+    "name": "Jokiniemi",
+    "country": "FI",
+    "lat": 60.5665,
+    "lng": 26.45833
+  },
+  {
+    "name": "Jokela",
+    "country": "FI",
+    "lat": 60.55413,
+    "lng": 24.96296
+  },
+  {
+    "name": "Joensuu",
+    "country": "FI",
+    "lat": 62.60118,
+    "lng": 29.76316
+  },
+  {
+    "name": "Jokiniemi",
+    "country": "FI",
+    "lat": 60.29826,
+    "lng": 25.05677
+  },
+  {
+    "name": "Jokipohja",
+    "country": "FI",
+    "lat": 61.47858,
+    "lng": 23.80828
+  },
+  {
+    "name": "Joyeuse",
+    "country": "FR",
+    "lat": 44.47951,
+    "lng": 4.23778
+  },
+  {
+    "name": "Jouy-sur-Morin",
+    "country": "FR",
+    "lat": 48.795,
+    "lng": 3.27238
+  },
+  {
+    "name": "Jouy-le-Potier",
+    "country": "FR",
+    "lat": 47.74553,
+    "lng": 1.81115
+  },
+  {
+    "name": "Jouy-le-Moutier",
+    "country": "FR",
+    "lat": 49.01068,
+    "lng": 2.04028
+  },
+  {
+    "name": "Jouy-le-Châtel",
+    "country": "FR",
+    "lat": 48.66651,
+    "lng": 3.13036
+  },
+  {
+    "name": "Jouy-en-Josas",
+    "country": "FR",
+    "lat": 48.75909,
+    "lng": 2.16966
+  },
+  {
+    "name": "Jouy-aux-Arches",
+    "country": "FR",
+    "lat": 49.06148,
+    "lng": 6.07925
+  },
+  {
+    "name": "Jouy",
+    "country": "FR",
+    "lat": 48.51005,
+    "lng": 1.54501
+  },
+  {
+    "name": "Joux-la-Ville",
+    "country": "FR",
+    "lat": 47.62241,
+    "lng": 3.86217
+  },
+  {
+    "name": "Jouques",
+    "country": "FR",
+    "lat": 43.6371,
+    "lng": 5.63672
+  },
+  {
+    "name": "Jougne",
+    "country": "FR",
+    "lat": 46.76291,
+    "lng": 6.38838
+  },
+  {
+    "name": "Jouet-sur-l'Aubois",
+    "country": "FR",
+    "lat": 47.04562,
+    "lng": 2.98725
+  },
+  {
+    "name": "Joué-lès-Tours",
+    "country": "FR",
+    "lat": 47.34907,
+    "lng": 0.66513
+  },
+  {
+    "name": "Joudreville",
+    "country": "FR",
+    "lat": 49.29145,
+    "lng": 5.77903
+  },
+  {
+    "name": "Jouars-Pontchartrain",
+    "country": "FR",
+    "lat": 48.78888,
+    "lng": 1.89898
+  },
+  {
+    "name": "Jouarre",
+    "country": "FR",
+    "lat": 48.92661,
+    "lng": 3.13168
+  },
+  {
+    "name": "Josselin",
+    "country": "FR",
+    "lat": 47.9561,
+    "lng": -2.54804
+  },
+  {
+    "name": "Jonzieux",
+    "country": "FR",
+    "lat": 45.31355,
+    "lng": 4.36158
+  },
+  {
+    "name": "Jonzac",
+    "country": "FR",
+    "lat": 45.44636,
+    "lng": -0.43485
+  },
+  {
+    "name": "Jons",
+    "country": "FR",
+    "lat": 45.80823,
+    "lng": 5.0807
+  },
+  {
+    "name": "Jonquières-Saint-Vincent",
+    "country": "FR",
+    "lat": 43.82809,
+    "lng": 4.56327
+  },
+  {
+    "name": "Jonquières",
+    "country": "FR",
+    "lat": 44.11603,
+    "lng": 4.89989
+  },
+  {
+    "name": "Jonquerettes",
+    "country": "FR",
+    "lat": 43.94655,
+    "lng": 4.93286
+  },
+  {
+    "name": "Jonchery-sur-Vesle",
+    "country": "FR",
+    "lat": 49.28952,
+    "lng": 3.81345
+  },
+  {
+    "name": "Joncherey",
+    "country": "FR",
+    "lat": 47.52895,
+    "lng": 7.00323
+  },
+  {
+    "name": "Jonage",
+    "country": "FR",
+    "lat": 45.79638,
+    "lng": 5.04664
+  },
+  {
+    "name": "Joinville-le-Pont",
+    "country": "FR",
+    "lat": 48.82538,
+    "lng": 2.47458
+  },
+  {
+    "name": "Joinville",
+    "country": "FR",
+    "lat": 48.44363,
+    "lng": 5.14144
+  },
+  {
+    "name": "Joigny",
+    "country": "FR",
+    "lat": 47.98288,
+    "lng": 3.40096
+  },
+  {
+    "name": "Job",
+    "country": "FR",
+    "lat": 45.61607,
+    "lng": 3.74542
+  },
+  {
+    "name": "Jordanstown",
+    "country": "GB",
+    "lat": 54.68333,
+    "lng": -5.9
+  },
+  {
+    "name": "Johnstone",
+    "country": "GB",
+    "lat": 55.82906,
+    "lng": -4.51605
+  },
+  {
+    "name": "Johnston",
+    "country": "GB",
+    "lat": 51.75556,
+    "lng": -4.99667
+  },
+  {
+    "name": "Joyabaj",
+    "country": "GT",
+    "lat": 14.99311,
+    "lng": -90.80161
+  },
+  {
+    "name": "Jocotenango",
+    "country": "GT",
+    "lat": 14.57814,
+    "lng": -90.73804
+  },
+  {
+    "name": "Jocotán",
+    "country": "GT",
+    "lat": 14.82072,
+    "lng": -89.38991
+  },
+  {
+    "name": "Jordan",
+    "country": "HK",
+    "lat": 22.30539,
+    "lng": 114.17001
+  },
+  {
+    "name": "Joconal",
+    "country": "HN",
+    "lat": 15.35519,
+    "lng": -88.63295
+  },
+  {
+    "name": "Jocón",
+    "country": "HN",
+    "lat": 15.28333,
+    "lng": -86.96667
+  },
+  {
+    "name": "Josipovac",
+    "country": "HR",
+    "lat": 45.58278,
+    "lng": 18.58139
+  },
+  {
+    "name": "Josipdol",
+    "country": "HR",
+    "lat": 45.1937,
+    "lng": 15.28924
+  },
+  {
+    "name": "Jobbágyi",
+    "country": "HU",
+    "lat": 47.83238,
+    "lng": 19.67762
+  },
+  {
+    "name": "Jorong",
+    "country": "ID",
+    "lat": -3.986,
+    "lng": 114.9518
+  },
+  {
+    "name": "Jombang",
+    "country": "ID",
+    "lat": -7.54595,
+    "lng": 112.23307
+  },
+  {
+    "name": "Jojogan",
+    "country": "ID",
+    "lat": -6.9709,
+    "lng": 111.7881
+  },
+  {
+    "name": "Jogonalan",
+    "country": "ID",
+    "lat": -7.70361,
+    "lng": 110.53611
+  },
+  {
+    "name": "Johnstown",
+    "country": "IE",
+    "lat": 53.23833,
+    "lng": -6.62222
+  },
+  {
+    "name": "Jobstown",
+    "country": "IE",
+    "lat": 53.27866,
+    "lng": -6.40803
+  },
+  {
+    "name": "Jowai",
+    "country": "IN",
+    "lat": 25.43596,
+    "lng": 92.19132
+  },
+  {
+    "name": "Joshīmath",
+    "country": "IN",
+    "lat": 30.55543,
+    "lng": 79.56436
+  },
+  {
+    "name": "Jorhat",
+    "country": "IN",
+    "lat": 26.75751,
+    "lng": 94.20306
+  },
+  {
+    "name": "Jora",
+    "country": "IN",
+    "lat": 26.34209,
+    "lng": 77.8092
+  },
+  {
+    "name": "Jogipet",
+    "country": "IN",
+    "lat": 17.83564,
+    "lng": 78.06811
+  },
+  {
+    "name": "Jogindarnagar",
+    "country": "IN",
+    "lat": 31.98727,
+    "lng": 76.78906
+  },
+  {
+    "name": "Jogīghopa",
+    "country": "IN",
+    "lat": 26.22646,
+    "lng": 90.57247
+  },
+  {
+    "name": "Jogbani",
+    "country": "IN",
+    "lat": 26.39905,
+    "lng": 87.26525
+  },
+  {
+    "name": "Jodiya Bandar",
+    "country": "IN",
+    "lat": 22.71667,
+    "lng": 70.28333
+  },
+  {
+    "name": "Jodhpur",
+    "country": "IN",
+    "lat": 26.26841,
+    "lng": 73.00594
+  },
+  {
+    "name": "Jodhpur",
+    "country": "IN",
+    "lat": 21.90174,
+    "lng": 70.0327
+  },
+  {
+    "name": "Jobner",
+    "country": "IN",
+    "lat": 26.97257,
+    "lng": 75.38752
+  },
+  {
+    "name": "Jobat",
+    "country": "IN",
+    "lat": 22.41599,
+    "lng": 74.56828
+  },
+  {
+    "name": "Joshipur",
+    "country": "IN",
+    "lat": 21.96265,
+    "lng": 86.07509
+  },
+  {
+    "name": "Jorethang",
+    "country": "IN",
+    "lat": 27.10696,
+    "lng": 88.32332
+  },
+  {
+    "name": "Joda",
+    "country": "IN",
+    "lat": 22.017,
+    "lng": 85.422
+  },
+  {
+    "name": "Jodhan",
+    "country": "IN",
+    "lat": 30.79616,
+    "lng": 75.75584
+  },
+  {
+    "name": "Jora Khurd",
+    "country": "IN",
+    "lat": 26.48927,
+    "lng": 77.97578
+  },
+  {
+    "name": "Joka",
+    "country": "IN",
+    "lat": 22.4531,
+    "lng": 88.30227
+  },
+  {
+    "name": "Jonai Bazar",
+    "country": "IN",
+    "lat": 27.82902,
+    "lng": 95.21941
+  },
+  {
+    "name": "Jona Pur",
+    "country": "IN",
+    "lat": 28.46615,
+    "lng": 77.15377
+  },
+  {
+    "name": "Jorada",
+    "country": "IN",
+    "lat": 20.91742,
+    "lng": 85.1227
+  },
+  {
+    "name": "Joghtāy",
+    "country": "IR",
+    "lat": 36.63619,
+    "lng": 57.07284
+  },
+  {
+    "name": "Jongīyeh",
+    "country": "IR",
+    "lat": 31.25583,
+    "lng": 48.61667
+  },
+  {
+    "name": "Joppolo Giancaxio",
+    "country": "IT",
+    "lat": 37.38681,
+    "lng": 13.55586
+  },
+  {
+    "name": "Jolanda di Savoia",
+    "country": "IT",
+    "lat": 44.88319,
+    "lng": 11.9791
+  },
+  {
+    "name": "Jonadi",
+    "country": "IT",
+    "lat": 38.62988,
+    "lng": 16.061
+  },
+  {
+    "name": "Jovencan",
+    "country": "IT",
+    "lat": 45.71486,
+    "lng": 7.2726
+  },
+  {
+    "name": "Joppolo",
+    "country": "IT",
+    "lat": 38.58338,
+    "lng": 15.89709
+  },
+  {
+    "name": "Joseong",
+    "country": "KR",
+    "lat": 34.80915,
+    "lng": 127.24754
+  },
+  {
+    "name": "Jounieh",
+    "country": "LB",
+    "lat": 33.98083,
+    "lng": 35.61778
+  },
+  {
+    "name": "Joubb Jannîne",
+    "country": "LB",
+    "lat": 33.62694,
+    "lng": 35.78417
+  },
+  {
+    "name": "Joniškis",
+    "country": "LT",
+    "lat": 56.23939,
+    "lng": 23.61541
+  },
+  {
+    "name": "Jonava",
+    "country": "LT",
+    "lat": 55.08014,
+    "lng": 24.27544
+  },
+  {
+    "name": "Jorf",
+    "country": "MA",
+    "lat": 31.49442,
+    "lng": -4.40598
+  },
+  {
+    "name": "José Cardel",
+    "country": "MX",
+    "lat": 19.3681,
+    "lng": -96.36951
+  },
+  {
+    "name": "Joquicingo",
+    "country": "MX",
+    "lat": 19.05032,
+    "lng": -99.53375
+  },
+  {
+    "name": "Jopala",
+    "country": "MX",
+    "lat": 20.16353,
+    "lng": -97.69285
+  },
+  {
+    "name": "Jonuta",
+    "country": "MX",
+    "lat": 18.08984,
+    "lng": -92.13807
+  },
+  {
+    "name": "Jonotla",
+    "country": "MX",
+    "lat": 20.03032,
+    "lng": -97.5753
+  },
+  {
+    "name": "Jonacatepec",
+    "country": "MX",
+    "lat": 18.68081,
+    "lng": -98.80336
+  },
+  {
+    "name": "Jonacapa",
+    "country": "MX",
+    "lat": 20.43358,
+    "lng": -99.53306
+  },
+  {
+    "name": "Jojutla",
+    "country": "MX",
+    "lat": 18.61472,
+    "lng": -99.18028
+  },
+  {
+    "name": "Jocotitlán",
+    "country": "MX",
+    "lat": 19.70991,
+    "lng": -99.78867
+  },
+  {
+    "name": "Joaquín Miguel Gutiérrez",
+    "country": "MX",
+    "lat": 15.81416,
+    "lng": -91.94852
+  },
+  {
+    "name": "Joachín",
+    "country": "MX",
+    "lat": 18.63855,
+    "lng": -96.23318
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 16.20409,
+    "lng": -97.92971
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 19.46571,
+    "lng": -98.1587
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 19.3175,
+    "lng": -97.97789
+  },
+  {
+    "name": "Joljá",
+    "country": "MX",
+    "lat": 17.20459,
+    "lng": -92.49946
+  },
+  {
+    "name": "José María Morelos y Pavón",
+    "country": "MX",
+    "lat": 17.24105,
+    "lng": -92.70231
+  },
+  {
+    "name": "José María Pino Suárez",
+    "country": "MX",
+    "lat": 16.50571,
+    "lng": -93.7391
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 16.04189,
+    "lng": -91.83201
+  },
+  {
+    "name": "Joaquín Miguel Gutiérrez",
+    "country": "MX",
+    "lat": 16.37,
+    "lng": -93.36556
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 19.14147,
+    "lng": -97.46809
+  },
+  {
+    "name": "Jolalpan",
+    "country": "MX",
+    "lat": 18.32495,
+    "lng": -98.84489
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 19.74887,
+    "lng": -88.70866
+  },
+  {
+    "name": "Jose Narciso Rovirosa",
+    "country": "MX",
+    "lat": 18.1062,
+    "lng": -88.72565
+  },
+  {
+    "name": "José F. Gutiérrez",
+    "country": "MX",
+    "lat": 18.02526,
+    "lng": -94.61028
+  },
+  {
+    "name": "José María Morelos y Pavón",
+    "country": "MX",
+    "lat": 28.09706,
+    "lng": -110.68994
+  },
+  {
+    "name": "José María Morelos y Pavón",
+    "country": "MX",
+    "lat": 23.86138,
+    "lng": -103.13983
+  },
+  {
+    "name": "José Esteban Coronado",
+    "country": "MX",
+    "lat": 26.73722,
+    "lng": -105.15833
+  },
+  {
+    "name": "José María Pino Suárez",
+    "country": "MX",
+    "lat": 23.87731,
+    "lng": -104.49051
+  },
+  {
+    "name": "José María Morelos (Santa Mónica)",
+    "country": "MX",
+    "lat": 23.60556,
+    "lng": -103.11028
+  },
+  {
+    "name": "José Guadalupe Aguilera (Santa Lucía)",
+    "country": "MX",
+    "lat": 24.4542,
+    "lng": -104.70888
+  },
+  {
+    "name": "José Guadalupe Rodríguez",
+    "country": "MX",
+    "lat": 24.31868,
+    "lng": -104.08005
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 19.67763,
+    "lng": -105.1846
+  },
+  {
+    "name": "Jomulco",
+    "country": "MX",
+    "lat": 21.10394,
+    "lng": -104.42378
+  },
+  {
+    "name": "Jocotepec",
+    "country": "MX",
+    "lat": 20.28566,
+    "lng": -103.42908
+  },
+  {
+    "name": "José Mariano Jiménez",
+    "country": "MX",
+    "lat": 27.13076,
+    "lng": -104.92391
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 25.01331,
+    "lng": -105.20875
+  },
+  {
+    "name": "Jocoqui",
+    "country": "MX",
+    "lat": 20.58201,
+    "lng": -100.6987
+  },
+  {
+    "name": "Jofrito",
+    "country": "MX",
+    "lat": 20.86146,
+    "lng": -100.4188
+  },
+  {
+    "name": "Jorge Jiménez Cantú",
+    "country": "MX",
+    "lat": 19.30972,
+    "lng": -98.84667
+  },
+  {
+    "name": "Joshil",
+    "country": "MX",
+    "lat": 17.24667,
+    "lng": -92.36278
+  },
+  {
+    "name": "José María Pino Suárez (Nuevo Nahuapa)",
+    "country": "MX",
+    "lat": 19.94889,
+    "lng": -105.32778
+  },
+  {
+    "name": "Jorobas",
+    "country": "MX",
+    "lat": 19.82389,
+    "lng": -99.24833
+  },
+  {
+    "name": "José María Morelos (La Yegüería)",
+    "country": "MX",
+    "lat": 19.86389,
+    "lng": -100.87917
+  },
+  {
+    "name": "Joaquín Miguel Gutiérrez (Margaritas)",
+    "country": "MX",
+    "lat": 15.55028,
+    "lng": -93.09306
+  },
+  {
+    "name": "Jolotichán",
+    "country": "MX",
+    "lat": 16.75222,
+    "lng": -98.73056
+  },
+  {
+    "name": "Jolochero 2da. Sección",
+    "country": "MX",
+    "lat": 18.12,
+    "lng": -92.79833
+  },
+  {
+    "name": "José Refugio Salcido",
+    "country": "MX",
+    "lat": 23.96444,
+    "lng": -104.51806
+  },
+  {
+    "name": "José María Morelos (San José)",
+    "country": "MX",
+    "lat": 19.6825,
+    "lng": -98.57639
+  },
+  {
+    "name": "José María Morelos",
+    "country": "MX",
+    "lat": 23.32278,
+    "lng": -103.01444
+  },
+  {
+    "name": "Jomanichim",
+    "country": "MX",
+    "lat": 16.90056,
+    "lng": -92.47222
+  },
+  {
+    "name": "Jolsibaquil",
+    "country": "MX",
+    "lat": 17.25972,
+    "lng": -92.48167
+  },
+  {
+    "name": "José María Pino Suárez",
+    "country": "MX",
+    "lat": 20.24722,
+    "lng": -99.42111
+  },
+  {
+    "name": "Joconoxtle (La Tuna)",
+    "country": "MX",
+    "lat": 20.45222,
+    "lng": -102.67639
+  },
+  {
+    "name": "José Colomo",
+    "country": "MX",
+    "lat": 17.94691,
+    "lng": -92.46659
+  },
+  {
+    "name": "Joltealal",
+    "country": "MX",
+    "lat": 17.07683,
+    "lng": -92.62163
+  },
+  {
+    "name": "Johor Bahru",
+    "country": "MY",
+    "lat": 1.4655,
+    "lng": 103.7578
+  },
+  {
+    "name": "Johor Jaya",
+    "country": "MY",
+    "lat": 1.5392,
+    "lng": 103.8092
+  },
+  {
+    "name": "Jos",
+    "country": "NG",
+    "lat": 9.92849,
+    "lng": 8.89212
+  },
+  {
+    "name": "Jobele",
+    "country": "NG",
+    "lat": 7.76373,
+    "lng": 3.91985
+  },
+  {
+    "name": "Joure",
+    "country": "NL",
+    "lat": 52.9657,
+    "lng": 5.80301
+  },
+  {
+    "name": "Jondal",
+    "country": "NO",
+    "lat": 60.27561,
+    "lng": 6.25229
+  },
+  {
+    "name": "Johnsonville",
+    "country": "NZ",
+    "lat": -41.22132,
+    "lng": 174.80295
+  },
+  {
+    "name": "José Leonardo Ortiz",
+    "country": "PE",
+    "lat": -6.74314,
+    "lng": -79.85105
+  },
+  {
+    "name": "Jovellar",
+    "country": "PH",
+    "lat": 13.0695,
+    "lng": 123.5999
+  },
+  {
+    "name": "Jovellar",
+    "country": "PH",
+    "lat": 7.0635,
+    "lng": 126.45558
+  },
+  {
+    "name": "Jose Pañganiban",
+    "country": "PH",
+    "lat": 14.2906,
+    "lng": 122.6917
+  },
+  {
+    "name": "Josefina",
+    "country": "PH",
+    "lat": 8.2,
+    "lng": 123.53333
+  },
+  {
+    "name": "Joroan",
+    "country": "PH",
+    "lat": 13.4885,
+    "lng": 123.6189
+  },
+  {
+    "name": "Jordan",
+    "country": "PH",
+    "lat": 10.65836,
+    "lng": 122.5963
+  },
+  {
+    "name": "Jones",
+    "country": "PH",
+    "lat": 16.5571,
+    "lng": 121.7029
+  },
+  {
+    "name": "Jolo",
+    "country": "PH",
+    "lat": 6.05222,
+    "lng": 121.00222
+  },
+  {
+    "name": "Jose Rizal",
+    "country": "PH",
+    "lat": 8.87722,
+    "lng": 117.50415
+  },
+  {
+    "name": "Johi",
+    "country": "PK",
+    "lat": 26.69225,
+    "lng": 67.61431
+  },
+  {
+    "name": "Jodłówka-Wałki",
+    "country": "PL",
+    "lat": 50.04992,
+    "lng": 21.13332
+  },
+  {
+    "name": "Jonkowo",
+    "country": "PL",
+    "lat": 53.82817,
+    "lng": 20.31054
+  },
+  {
+    "name": "Joniec",
+    "country": "PL",
+    "lat": 52.60128,
+    "lng": 20.58177
+  },
+  {
+    "name": "Jodłówka",
+    "country": "PL",
+    "lat": 49.99295,
+    "lng": 20.54821
+  },
+  {
+    "name": "Jodłówka",
+    "country": "PL",
+    "lat": 49.8943,
+    "lng": 22.46653
+  },
+  {
+    "name": "Jodłowa",
+    "country": "PL",
+    "lat": 49.87229,
+    "lng": 21.27897
+  },
+  {
+    "name": "Jordanów Śląski",
+    "country": "PL",
+    "lat": 50.86421,
+    "lng": 16.86873
+  },
+  {
+    "name": "Jordanów",
+    "country": "PL",
+    "lat": 49.64935,
+    "lng": 19.82981
+  },
+  {
+    "name": "Jobos",
+    "country": "PR",
+    "lat": 17.95524,
+    "lng": -66.16544
+  },
+  {
+    "name": "Jovim",
+    "country": "PT",
+    "lat": 41.11102,
+    "lng": -8.51903
+  },
+  {
+    "name": "Joane",
+    "country": "PT",
+    "lat": 41.43906,
+    "lng": -8.40846
+  },
+  {
+    "name": "Josenii Bârgăului",
+    "country": "RO",
+    "lat": 47.21667,
+    "lng": 24.68333
+  },
+  {
+    "name": "Joseni",
+    "country": "RO",
+    "lat": 46.7,
+    "lng": 25.5
+  },
+  {
+    "name": "Jorăşti",
+    "country": "RO",
+    "lat": 45.98333,
+    "lng": 27.86667
+  },
+  {
+    "name": "Jorăști",
+    "country": "RO",
+    "lat": 45.71477,
+    "lng": 27.26335
+  },
+  {
+    "name": "Joldești",
+    "country": "RO",
+    "lat": 47.56004,
+    "lng": 26.57705
+  },
+  {
+    "name": "Joiţa",
+    "country": "RO",
+    "lat": 44.49417,
+    "lng": 25.85389
+  },
+  {
+    "name": "Joševa",
+    "country": "RS",
+    "lat": 44.58772,
+    "lng": 19.40967
+  },
+  {
+    "name": "Jordbro",
+    "country": "SE",
+    "lat": 59.14972,
+    "lng": 18.11667
+  },
+  {
+    "name": "Jonstorp",
+    "country": "SE",
+    "lat": 58.0,
+    "lng": 12.71667
+  },
+  {
+    "name": "Jonstorp",
+    "country": "SE",
+    "lat": 56.2338,
+    "lng": 12.67184
+  },
+  {
+    "name": "Jokkmokk",
+    "country": "SE",
+    "lat": 66.60665,
+    "lng": 19.82324
+  },
+  {
+    "name": "Johannedal",
+    "country": "SE",
+    "lat": 62.43424,
+    "lng": 17.37273
+  },
+  {
+    "name": "Jojoima",
+    "country": "SL",
+    "lat": 7.87815,
+    "lng": -10.78976
+  },
+  {
+    "name": "Joal",
+    "country": "SN",
+    "lat": 14.17309,
+    "lng": -16.84929
+  },
+  {
+    "name": "Jocoro",
+    "country": "SV",
+    "lat": 13.61667,
+    "lng": -88.01667
+  },
+  {
+    "name": "Johnson",
+    "country": "US",
+    "lat": 36.13286,
+    "lng": -94.16548
+  },
+  {
+    "name": "Jonesboro",
+    "country": "US",
+    "lat": 35.8423,
+    "lng": -90.70428
+  },
+  {
+    "name": "Jonesboro",
+    "country": "US",
+    "lat": 33.5215,
+    "lng": -84.35381
+  },
+  {
+    "name": "Johnston City",
+    "country": "US",
+    "lat": 37.82061,
+    "lng": -88.92757
+  },
+  {
+    "name": "Jonesboro",
+    "country": "US",
+    "lat": 37.45172,
+    "lng": -89.26814
+  },
+  {
+    "name": "Jonesboro",
+    "country": "US",
+    "lat": 32.24127,
+    "lng": -92.71599
+  },
+  {
+    "name": "Jonesville",
+    "country": "US",
+    "lat": 31.62656,
+    "lng": -91.81818
+  },
+  {
+    "name": "Joppatowne",
+    "country": "US",
+    "lat": 39.414,
+    "lng": -76.358
+  },
+  {
+    "name": "Joplin",
+    "country": "US",
+    "lat": 37.08423,
+    "lng": -94.51328
+  },
+  {
+    "name": "Jonestown",
+    "country": "US",
+    "lat": 34.31955,
+    "lng": -90.45565
+  },
+  {
+    "name": "Jonesville",
+    "country": "US",
+    "lat": 36.2393,
+    "lng": -80.84452
+  },
+  {
+    "name": "Jones",
+    "country": "US",
+    "lat": 35.56589,
+    "lng": -97.28698
+  },
+  {
+    "name": "Joanna",
+    "country": "US",
+    "lat": 34.41491,
+    "lng": -81.8124
+  },
+  {
+    "name": "Johnsonville",
+    "country": "US",
+    "lat": 33.81794,
+    "lng": -79.44922
+  },
+  {
+    "name": "Johnston",
+    "country": "US",
+    "lat": 33.83208,
+    "lng": -81.80094
+  },
+  {
+    "name": "Johnson City",
+    "country": "US",
+    "lat": 36.31344,
+    "lng": -82.35347
+  },
+  {
+    "name": "Johnsonville",
+    "country": "US",
+    "lat": 36.06006,
+    "lng": -87.95281
+  },
+  {
+    "name": "Jonesborough",
+    "country": "US",
+    "lat": 36.29427,
+    "lng": -82.47348
+  },
+  {
+    "name": "Johnson City",
+    "country": "US",
+    "lat": 30.27687,
+    "lng": -98.41197
+  },
+  {
+    "name": "Jollyville",
+    "country": "US",
+    "lat": 30.4427,
+    "lng": -97.77501
+  },
+  {
+    "name": "Jones Creek",
+    "country": "US",
+    "lat": 28.96858,
+    "lng": -95.45522
+  },
+  {
+    "name": "Jonestown",
+    "country": "US",
+    "lat": 30.49547,
+    "lng": -97.92335
+  },
+  {
+    "name": "Josephine",
+    "country": "US",
+    "lat": 33.06123,
+    "lng": -96.3072
+  },
+  {
+    "name": "Joshua",
+    "country": "US",
+    "lat": 32.46153,
+    "lng": -97.38807
+  },
+  {
+    "name": "Jourdanton",
+    "country": "US",
+    "lat": 28.91803,
+    "lng": -98.54641
+  },
+  {
+    "name": "Jolivue",
+    "country": "US",
+    "lat": 38.10985,
+    "lng": -79.07308
+  },
+  {
+    "name": "Jonesville",
+    "country": "US",
+    "lat": 36.68898,
+    "lng": -83.111
+  },
+  {
+    "name": "Johnston",
+    "country": "US",
+    "lat": 41.67304,
+    "lng": -93.69772
+  },
+  {
+    "name": "Johnsburg",
+    "country": "US",
+    "lat": 42.38002,
+    "lng": -88.24203
+  },
+  {
+    "name": "Joliet",
+    "country": "US",
+    "lat": 41.52519,
+    "lng": -88.0834
+  },
+  {
+    "name": "Jonesboro",
+    "country": "US",
+    "lat": 40.47976,
+    "lng": -85.62775
+  },
+  {
+    "name": "Jonesport",
+    "country": "US",
+    "lat": 44.53286,
+    "lng": -67.59833
+  },
+  {
+    "name": "Jonesville",
+    "country": "US",
+    "lat": 41.98421,
+    "lng": -84.6619
+  },
+  {
+    "name": "Jordan",
+    "country": "US",
+    "lat": 44.66691,
+    "lng": -93.6269
+  },
+  {
+    "name": "Johnson City",
+    "country": "US",
+    "lat": 42.11563,
+    "lng": -75.95881
+  },
+  {
+    "name": "Johnstown",
+    "country": "US",
+    "lat": 43.00674,
+    "lng": -74.36764
+  },
+  {
+    "name": "Jordan",
+    "country": "US",
+    "lat": 43.06534,
+    "lng": -76.47299
+  },
+  {
+    "name": "Johnstown",
+    "country": "US",
+    "lat": 40.15367,
+    "lng": -82.68517
+  },
+  {
+    "name": "Johnsonburg",
+    "country": "US",
+    "lat": 41.49062,
+    "lng": -78.67503
+  },
+  {
+    "name": "Johnsonburg",
+    "country": "US",
+    "lat": 40.88618,
+    "lng": -78.87781
+  },
+  {
+    "name": "Johnstown",
+    "country": "US",
+    "lat": 40.32674,
+    "lng": -78.92197
+  },
+  {
+    "name": "Jonestown",
+    "country": "US",
+    "lat": 40.4137,
+    "lng": -76.4783
+  },
+  {
+    "name": "Johnson",
+    "country": "US",
+    "lat": 44.63561,
+    "lng": -72.6804
+  },
+  {
+    "name": "Johnson Creek",
+    "country": "US",
+    "lat": 43.07611,
+    "lng": -88.77427
+  },
+  {
+    "name": "Joseph City",
+    "country": "US",
+    "lat": 34.95586,
+    "lng": -110.33401
+  },
+  {
+    "name": "Joshua Tree",
+    "country": "US",
+    "lat": 34.13473,
+    "lng": -116.31307
+  },
+  {
+    "name": "Johnson",
+    "country": "US",
+    "lat": 37.57057,
+    "lng": -101.751
+  },
+  {
+    "name": "Johnson Lane",
+    "country": "US",
+    "lat": 39.04796,
+    "lng": -119.72212
+  },
+  {
+    "name": "Johnstonville",
+    "country": "US",
+    "lat": 40.38434,
+    "lng": -120.58745
+  },
+  {
+    "name": "Johnstown",
+    "country": "US",
+    "lat": 40.33693,
+    "lng": -104.9122
+  },
+  {
+    "name": "Jordan",
+    "country": "US",
+    "lat": 47.32083,
+    "lng": -106.91007
+  },
+  {
+    "name": "John Day",
+    "country": "US",
+    "lat": 44.41599,
+    "lng": -118.95301
+  },
+  {
+    "name": "Joseph",
+    "country": "US",
+    "lat": 45.35432,
+    "lng": -117.22961
+  },
+  {
+    "name": "Johns Creek",
+    "country": "US",
+    "lat": 34.02893,
+    "lng": -84.19858
+  },
+  {
+    "name": "Joint Base Lewis McChord",
+    "country": "US",
+    "lat": 47.10787,
+    "lng": -122.57694
+  },
+  {
+    "name": "Johnston",
+    "country": "US",
+    "lat": 41.82186,
+    "lng": -71.50675
+  },
+  {
+    "name": "Joint Base Pearl Harbor Hickam",
+    "country": "US",
+    "lat": 21.34906,
+    "lng": -157.94713
+  },
+  {
+    "name": "Jonestown",
+    "country": "US",
+    "lat": 39.29086,
+    "lng": -76.60366
+  },
+  {
+    "name": "Johnston Square",
+    "country": "US",
+    "lat": 39.30348,
+    "lng": -76.60624
+  },
+  {
+    "name": "José Pedro Varela",
+    "country": "UY",
+    "lat": -33.45451,
+    "lng": -54.53586
+  },
+  {
+    "name": "José Enrique Rodó",
+    "country": "UY",
+    "lat": -33.69618,
+    "lng": -57.53153
+  },
+  {
+    "name": "José Batlle y Ordóñez",
+    "country": "UY",
+    "lat": -33.46667,
+    "lng": -55.11667
+  },
+  {
+    "name": "Joaquín Suárez",
+    "country": "UY",
+    "lat": -34.73501,
+    "lng": -56.0347
+  },
+  {
+    "name": "Jondor Shaharchasi",
+    "country": "UZ",
+    "lat": 39.7417,
+    "lng": 64.17962
+  },
+  {
+    "name": "Jomboy Shahri",
+    "country": "UZ",
+    "lat": 39.69889,
+    "lng": 67.09333
+  },
+  {
+    "name": "Jozini",
+    "country": "ZA",
+    "lat": -27.4296,
+    "lng": 32.06658
+  },
+  {
+    "name": "Joubertina",
+    "country": "ZA",
+    "lat": -33.82547,
+    "lng": 23.85618
+  },
+  {
+    "name": "Johannesburg",
+    "country": "ZA",
+    "lat": -26.20227,
+    "lng": 28.04363
+  }
+]

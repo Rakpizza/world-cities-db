@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Ipswich",
+    "country": "AU",
+    "lat": -27.62343,
+    "lng": 152.76067
+  },
+  {
+    "name": "Ipueiras",
+    "country": "BR",
+    "lat": -7.03333,
+    "lng": -40.45
+  },
+  {
+    "name": "Ipueiras",
+    "country": "BR",
+    "lat": -4.54167,
+    "lng": -40.71889
+  },
+  {
+    "name": "Ipueira",
+    "country": "BR",
+    "lat": -6.81417,
+    "lng": -37.19889
+  },
+  {
+    "name": "Ipubi",
+    "country": "BR",
+    "lat": -7.65194,
+    "lng": -40.14889
+  },
+  {
+    "name": "Ipu",
+    "country": "BR",
+    "lat": -4.32222,
+    "lng": -40.71083
+  },
+  {
+    "name": "Ipojuca",
+    "country": "BR",
+    "lat": -8.39889,
+    "lng": -35.06389
+  },
+  {
+    "name": "Ipiranga do Piauí",
+    "country": "BR",
+    "lat": -6.82833,
+    "lng": -41.74056
+  },
+  {
+    "name": "Ipaumirim",
+    "country": "BR",
+    "lat": -6.78972,
+    "lng": -38.71917
+  },
+  {
+    "name": "Ipaporanga",
+    "country": "BR",
+    "lat": -4.9,
+    "lng": -40.75889
+  },
+  {
+    "name": "Ipanguaçu",
+    "country": "BR",
+    "lat": -5.50762,
+    "lng": -36.8593
+  },
+  {
+    "name": "Ipupiara",
+    "country": "BR",
+    "lat": -11.82028,
+    "lng": -42.61417
+  },
+  {
+    "name": "Ipumirim",
+    "country": "BR",
+    "lat": -27.07667,
+    "lng": -52.13556
+  },
+  {
+    "name": "Ipuiúna",
+    "country": "BR",
+    "lat": -22.09889,
+    "lng": -46.18972
+  },
+  {
+    "name": "Ipueiras",
+    "country": "BR",
+    "lat": -11.23861,
+    "lng": -48.46333
+  },
+  {
+    "name": "Ipuaçu",
+    "country": "BR",
+    "lat": -26.63139,
+    "lng": -52.455
+  },
+  {
+    "name": "Ipuã",
+    "country": "BR",
+    "lat": -20.43806,
+    "lng": -48.01222
+  },
+  {
+    "name": "Iporanga",
+    "country": "BR",
+    "lat": -24.58556,
+    "lng": -48.59306
+  },
+  {
+    "name": "Iporã do Oeste",
+    "country": "BR",
+    "lat": -26.98802,
+    "lng": -53.53462
+  },
+  {
+    "name": "Iporã",
+    "country": "BR",
+    "lat": -24.00306,
+    "lng": -53.70417
+  },
+  {
+    "name": "Iporá",
+    "country": "BR",
+    "lat": -16.44194,
+    "lng": -51.11778
+  },
+  {
+    "name": "Ipiranga",
+    "country": "BR",
+    "lat": -23.59957,
+    "lng": -46.61599
+  },
+  {
+    "name": "Ipiranga",
+    "country": "BR",
+    "lat": -25.02389,
+    "lng": -50.58417
+  },
+  {
+    "name": "Ipira",
+    "country": "BR",
+    "lat": -27.40361,
+    "lng": -51.77306
+  },
+  {
+    "name": "Ipirá",
+    "country": "BR",
+    "lat": -12.15833,
+    "lng": -39.73722
+  },
+  {
+    "name": "Ipiguá",
+    "country": "BR",
+    "lat": -20.65667,
+    "lng": -49.38722
+  },
+  {
+    "name": "Ipiaú",
+    "country": "BR",
+    "lat": -14.13449,
+    "lng": -39.73948
+  },
+  {
+    "name": "Ipiaçu",
+    "country": "BR",
+    "lat": -18.69222,
+    "lng": -49.94278
+  },
+  {
+    "name": "Ipeúna",
+    "country": "BR",
+    "lat": -22.43583,
+    "lng": -47.71889
+  },
+  {
+    "name": "Iperó",
+    "country": "BR",
+    "lat": -23.35028,
+    "lng": -47.68861
+  },
+  {
+    "name": "Ipecaetá",
+    "country": "BR",
+    "lat": -12.31577,
+    "lng": -39.30745
+  },
+  {
+    "name": "Ipê",
+    "country": "BR",
+    "lat": -28.82,
+    "lng": -51.27917
+  },
+  {
+    "name": "Ipaussu",
+    "country": "BR",
+    "lat": -23.05667,
+    "lng": -49.62639
+  },
+  {
+    "name": "Ipatinga",
+    "country": "BR",
+    "lat": -19.46833,
+    "lng": -42.53667
+  },
+  {
+    "name": "Ipanema",
+    "country": "BR",
+    "lat": -22.98436,
+    "lng": -43.20285
+  },
+  {
+    "name": "Ipanema",
+    "country": "BR",
+    "lat": -19.80083,
+    "lng": -41.71306
+  },
+  {
+    "name": "Ipameri",
+    "country": "BR",
+    "lat": -17.72194,
+    "lng": -48.15972
+  },
+  {
+    "name": "Ipaba",
+    "country": "BR",
+    "lat": -19.41361,
+    "lng": -42.41944
+  },
+  {
+    "name": "Ipixuna",
+    "country": "BR",
+    "lat": -7.05056,
+    "lng": -71.69472
+  },
+  {
+    "name": "Ipixuna do Pará",
+    "country": "BR",
+    "lat": -2.55778,
+    "lng": -47.495
+  },
+  {
+    "name": "Ipiranga do Sul",
+    "country": "BR",
+    "lat": -27.93667,
+    "lng": -52.42639
+  },
+  {
+    "name": "Ipiranga do Norte",
+    "country": "BR",
+    "lat": -12.24074,
+    "lng": -56.1525
+  },
+  {
+    "name": "Ipiranga de Goiás",
+    "country": "BR",
+    "lat": -15.17274,
+    "lng": -49.67218
+  },
+  {
+    "name": "Ippy",
+    "country": "CF",
+    "lat": 6.26793,
+    "lng": 21.22468
+  },
+  {
+    "name": "Ipouagui",
+    "country": "CI",
+    "lat": 5.51902,
+    "lng": -6.83564
+  },
+  {
+    "name": "Ipiales",
+    "country": "CO",
+    "lat": 0.82501,
+    "lng": -77.63966
+  },
+  {
+    "name": "Ipís",
+    "country": "CR",
+    "lat": 9.96548,
+    "lng": -84.0182
+  },
+  {
+    "name": "Ipsheim",
+    "country": "DE",
+    "lat": 49.5275,
+    "lng": 10.48176
+  },
+  {
+    "name": "Ippesheim",
+    "country": "DE",
+    "lat": 49.60214,
+    "lng": 10.22552
+  },
+  {
+    "name": "Iphofen",
+    "country": "DE",
+    "lat": 49.70239,
+    "lng": 10.26037
+  },
+  {
+    "name": "Ipswich",
+    "country": "GB",
+    "lat": 52.05917,
+    "lng": 1.15545
+  },
+  {
+    "name": "Ipplepen",
+    "country": "GB",
+    "lat": 50.48919,
+    "lng": -3.639
+  },
+  {
+    "name": "Ipala",
+    "country": "GT",
+    "lat": 14.61987,
+    "lng": -89.6194
+  },
+  {
+    "name": "Ipuh",
+    "country": "ID",
+    "lat": -3.0067,
+    "lng": 101.4836
+  },
+  {
+    "name": "Ipalapa",
+    "country": "MX",
+    "lat": 16.63944,
+    "lng": -98.03154
+  },
+  {
+    "name": "Ipoh",
+    "country": "MY",
+    "lat": 4.5841,
+    "lng": 101.0829
+  },
+  {
+    "name": "Ipoti",
+    "country": "NG",
+    "lat": 7.87377,
+    "lng": 5.07691
+  },
+  {
+    "name": "Ipokia",
+    "country": "NG",
+    "lat": 6.52499,
+    "lng": 2.84246
+  },
+  {
+    "name": "Ipetumodu",
+    "country": "NG",
+    "lat": 7.52152,
+    "lng": 4.44477
+  },
+  {
+    "name": "Iperu",
+    "country": "NG",
+    "lat": 6.91002,
+    "lng": 3.66557
+  },
+  {
+    "name": "Iperindo",
+    "country": "NG",
+    "lat": 7.50212,
+    "lng": 4.82582
+  },
+  {
+    "name": "Iparia",
+    "country": "PE",
+    "lat": -9.30542,
+    "lng": -74.44125
+  },
+  {
+    "name": "Ipilan",
+    "country": "PH",
+    "lat": 8.84306,
+    "lng": 117.90333
+  },
+  {
+    "name": "Ipil",
+    "country": "PH",
+    "lat": 13.5132,
+    "lng": 121.9841
+  },
+  {
+    "name": "Ipil",
+    "country": "PH",
+    "lat": 10.97472,
+    "lng": 124.63639
+  },
+  {
+    "name": "Ipil",
+    "country": "PH",
+    "lat": 9.7907,
+    "lng": 125.4386
+  },
+  {
+    "name": "Ipil",
+    "country": "PH",
+    "lat": 7.78444,
+    "lng": 122.58611
+  },
+  {
+    "name": "Ipoteşti",
+    "country": "RO",
+    "lat": 47.61667,
+    "lng": 26.28333
+  },
+  {
+    "name": "Ipotești",
+    "country": "RO",
+    "lat": 44.32529,
+    "lng": 24.40089
+  },
+  {
+    "name": "Ipatele",
+    "country": "RO",
+    "lat": 46.91667,
+    "lng": 27.41667
+  },
+  {
+    "name": "Ip",
+    "country": "RO",
+    "lat": 47.23333,
+    "lng": 22.65
+  },
+  {
+    "name": "Ipatovo",
+    "country": "RU",
+    "lat": 45.71801,
+    "lng": 42.90612
+  },
+  {
+    "name": "İpsala",
+    "country": "TR",
+    "lat": 40.92115,
+    "lng": 26.38273
+  },
+  {
+    "name": "Ipinda",
+    "country": "TZ",
+    "lat": -9.48333,
+    "lng": 33.9
+  },
+  {
+    "name": "Ipswich",
+    "country": "US",
+    "lat": 42.67926,
+    "lng": -70.84116
+  },
+  {
+    "name": "Ipswich",
+    "country": "US",
+    "lat": 45.44442,
+    "lng": -99.02928
+  }
+]

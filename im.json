@@ -1,0 +1,638 @@
+[
+  {
+    "name": "Imām Şāḩib",
+    "country": "AF",
+    "lat": 37.18897,
+    "lng": 68.93644
+  },
+  {
+    "name": "Imsterberg",
+    "country": "AT",
+    "lat": 47.20517,
+    "lng": 10.69605
+  },
+  {
+    "name": "Imst",
+    "country": "AT",
+    "lat": 47.24504,
+    "lng": 10.73974
+  },
+  {
+    "name": "Imishli",
+    "country": "AZ",
+    "lat": 39.87095,
+    "lng": 48.05995
+  },
+  {
+    "name": "Impe",
+    "country": "BE",
+    "lat": 50.96048,
+    "lng": 3.9501
+  },
+  {
+    "name": "Imperatriz",
+    "country": "BR",
+    "lat": -5.52639,
+    "lng": -47.49167
+  },
+  {
+    "name": "Imaculada",
+    "country": "BR",
+    "lat": -7.38972,
+    "lng": -37.50917
+  },
+  {
+    "name": "Imbituva",
+    "country": "BR",
+    "lat": -25.23,
+    "lng": -50.60444
+  },
+  {
+    "name": "Imbituba",
+    "country": "BR",
+    "lat": -28.24,
+    "lng": -48.67028
+  },
+  {
+    "name": "Imbé de Minas",
+    "country": "BR",
+    "lat": -19.59806,
+    "lng": -41.96969
+  },
+  {
+    "name": "Imbaú",
+    "country": "BR",
+    "lat": -24.445,
+    "lng": -50.76083
+  },
+  {
+    "name": "Imaruí",
+    "country": "BR",
+    "lat": -28.34139,
+    "lng": -48.82
+  },
+  {
+    "name": "Imigrante",
+    "country": "BR",
+    "lat": -29.35442,
+    "lng": -51.77786
+  },
+  {
+    "name": "Imbé",
+    "country": "BR",
+    "lat": -29.97528,
+    "lng": -50.12806
+  },
+  {
+    "name": "Imbuia",
+    "country": "BR",
+    "lat": -27.49278,
+    "lng": -49.42389
+  },
+  {
+    "name": "Imbé",
+    "country": "BR",
+    "lat": -29.93314,
+    "lng": -50.1063
+  },
+  {
+    "name": "Impfondo",
+    "country": "CG",
+    "lat": 1.61804,
+    "lng": 18.05981
+  },
+  {
+    "name": "Imués",
+    "country": "CO",
+    "lat": 1.05516,
+    "lng": -77.49669
+  },
+  {
+    "name": "Imsbach",
+    "country": "DE",
+    "lat": 49.58333,
+    "lng": 7.88333
+  },
+  {
+    "name": "Immenstadt im Allgäu",
+    "country": "DE",
+    "lat": 47.55996,
+    "lng": 10.21394
+  },
+  {
+    "name": "Immenstaad am Bodensee",
+    "country": "DE",
+    "lat": 47.66667,
+    "lng": 9.36667
+  },
+  {
+    "name": "Immenreuth",
+    "country": "DE",
+    "lat": 49.9,
+    "lng": 11.86667
+  },
+  {
+    "name": "Immenhausen",
+    "country": "DE",
+    "lat": 51.42763,
+    "lng": 9.48017
+  },
+  {
+    "name": "Immendingen",
+    "country": "DE",
+    "lat": 47.93333,
+    "lng": 8.73333
+  },
+  {
+    "name": "Immelborn",
+    "country": "DE",
+    "lat": 50.79229,
+    "lng": 10.27812
+  },
+  {
+    "name": "Imbert",
+    "country": "DO",
+    "lat": 19.75371,
+    "lng": -70.82906
+  },
+  {
+    "name": "Imantag",
+    "country": "EC",
+    "lat": 0.35716,
+    "lng": -78.24871
+  },
+  {
+    "name": "Imperial",
+    "country": "ES",
+    "lat": 40.40619,
+    "lng": -3.71836
+  },
+  {
+    "name": "Imatra",
+    "country": "FI",
+    "lat": 61.17185,
+    "lng": 28.75242
+  },
+  {
+    "name": "Imphy",
+    "country": "FR",
+    "lat": 46.93619,
+    "lng": 3.26037
+  },
+  {
+    "name": "Immingham",
+    "country": "GB",
+    "lat": 53.6142,
+    "lng": -0.21579
+  },
+  {
+    "name": "Imotski",
+    "country": "HR",
+    "lat": 43.44667,
+    "lng": 17.21667
+  },
+  {
+    "name": "Imphal",
+    "country": "IN",
+    "lat": 24.80805,
+    "lng": 93.9442
+  },
+  {
+    "name": "Impruneta",
+    "country": "IT",
+    "lat": 43.68453,
+    "lng": 11.25434
+  },
+  {
+    "name": "Imperia",
+    "country": "IT",
+    "lat": 43.88917,
+    "lng": 8.03933
+  },
+  {
+    "name": "Imola",
+    "country": "IT",
+    "lat": 44.35916,
+    "lng": 11.7132
+  },
+  {
+    "name": "Imposte",
+    "country": "IT",
+    "lat": 42.68634,
+    "lng": 13.52829
+  },
+  {
+    "name": "Imbersago",
+    "country": "IT",
+    "lat": 45.70588,
+    "lng": 9.44445
+  },
+  {
+    "name": "Imer",
+    "country": "IT",
+    "lat": 46.14931,
+    "lng": 11.78919
+  },
+  {
+    "name": "Imarichō-kō",
+    "country": "JP",
+    "lat": 33.27362,
+    "lng": 129.87877
+  },
+  {
+    "name": "Imaichi",
+    "country": "JP",
+    "lat": 36.71667,
+    "lng": 139.68333
+  },
+  {
+    "name": "Imabari",
+    "country": "JP",
+    "lat": 34.07001,
+    "lng": 133.00023
+  },
+  {
+    "name": "Imagane",
+    "country": "JP",
+    "lat": 42.42306,
+    "lng": 140.00861
+  },
+  {
+    "name": "Imabetsu",
+    "country": "JP",
+    "lat": 41.175,
+    "lng": 140.48444
+  },
+  {
+    "name": "Imizu",
+    "country": "JP",
+    "lat": 36.76835,
+    "lng": 137.12572
+  },
+  {
+    "name": "Imai",
+    "country": "JP",
+    "lat": 34.51324,
+    "lng": 136.12393
+  },
+  {
+    "name": "Imari",
+    "country": "JP",
+    "lat": 33.29036,
+    "lng": 129.88998
+  },
+  {
+    "name": "Imara Daima Estate",
+    "country": "KE",
+    "lat": -1.32323,
+    "lng": 36.88021
+  },
+  {
+    "name": "Imsil",
+    "country": "KR",
+    "lat": 35.61306,
+    "lng": 127.27944
+  },
+  {
+    "name": "Imja",
+    "country": "KR",
+    "lat": 35.08457,
+    "lng": 126.11105
+  },
+  {
+    "name": "Imouzzer Kandar",
+    "country": "MA",
+    "lat": 33.72871,
+    "lng": -5.01092
+  },
+  {
+    "name": "Imouzzer des Marmoucha",
+    "country": "MA",
+    "lat": 33.47024,
+    "lng": -4.29571
+  },
+  {
+    "name": "Imider",
+    "country": "MA",
+    "lat": 31.37324,
+    "lng": -5.79384
+  },
+  {
+    "name": "Imi-n-Tanout",
+    "country": "MA",
+    "lat": 31.17213,
+    "lng": -8.84728
+  },
+  {
+    "name": "Imilchil",
+    "country": "MA",
+    "lat": 32.15309,
+    "lng": -5.62453
+  },
+  {
+    "name": "Imzouren",
+    "country": "MA",
+    "lat": 35.14637,
+    "lng": -3.85063
+  },
+  {
+    "name": "Imlili",
+    "country": "MA",
+    "lat": 22.6558,
+    "lng": -15.60719
+  },
+  {
+    "name": "Imerintsiatosika",
+    "country": "MG",
+    "lat": -18.98333,
+    "lng": 47.31667
+  },
+  {
+    "name": "Imtarfa",
+    "country": "MT",
+    "lat": 35.89243,
+    "lng": 14.39819
+  },
+  {
+    "name": "Imsida",
+    "country": "MT",
+    "lat": 35.8925,
+    "lng": 14.48278
+  },
+  {
+    "name": "Imġarr",
+    "country": "MT",
+    "lat": 35.92148,
+    "lng": 14.365
+  },
+  {
+    "name": "Imdina",
+    "country": "MT",
+    "lat": 35.88636,
+    "lng": 14.40312
+  },
+  {
+    "name": "Imuris",
+    "country": "MX",
+    "lat": 30.78955,
+    "lng": -110.84596
+  },
+  {
+    "name": "Imeko",
+    "country": "NG",
+    "lat": 7.44888,
+    "lng": 2.84289
+  },
+  {
+    "name": "Imota",
+    "country": "NG",
+    "lat": 6.66362,
+    "lng": 3.66945
+  },
+  {
+    "name": "Imperial",
+    "country": "PE",
+    "lat": -13.05927,
+    "lng": -76.35269
+  },
+  {
+    "name": "Imus",
+    "country": "PH",
+    "lat": 14.42972,
+    "lng": 120.93667
+  },
+  {
+    "name": "Impasugong",
+    "country": "PH",
+    "lat": 8.30972,
+    "lng": 125.00194
+  },
+  {
+    "name": "Impalutao",
+    "country": "PH",
+    "lat": 8.25778,
+    "lng": 125.0275
+  },
+  {
+    "name": "Imelda",
+    "country": "PH",
+    "lat": 14.03333,
+    "lng": 122.88333
+  },
+  {
+    "name": "Imelda",
+    "country": "PH",
+    "lat": 7.64703,
+    "lng": 122.95349
+  },
+  {
+    "name": "Imbatug",
+    "country": "PH",
+    "lat": 8.05444,
+    "lng": 125.28389
+  },
+  {
+    "name": "Imbang",
+    "country": "PH",
+    "lat": 10.7967,
+    "lng": 123.0213
+  },
+  {
+    "name": "Imielno",
+    "country": "PL",
+    "lat": 50.58569,
+    "lng": 20.44813
+  },
+  {
+    "name": "Imielin",
+    "country": "PL",
+    "lat": 50.14534,
+    "lng": 19.18599
+  },
+  {
+    "name": "Imbery",
+    "country": "PR",
+    "lat": 18.43689,
+    "lng": -66.55239
+  },
+  {
+    "name": "Imrīsh",
+    "country": "PS",
+    "lat": 31.46895,
+    "lng": 35.00819
+  },
+  {
+    "name": "Immātīn",
+    "country": "PS",
+    "lat": 32.19164,
+    "lng": 35.15836
+  },
+  {
+    "name": "Imeong Hamlet",
+    "country": "PW",
+    "lat": 7.53134,
+    "lng": 134.52713
+  },
+  {
+    "name": "Imper",
+    "country": "RO",
+    "lat": 46.21667,
+    "lng": 26.1
+  },
+  {
+    "name": "Imeni Zhelyabova",
+    "country": "RU",
+    "lat": 58.9544,
+    "lng": 36.5956
+  },
+  {
+    "name": "Imeni Vorovskogo",
+    "country": "RU",
+    "lat": 55.7237,
+    "lng": 41.119
+  },
+  {
+    "name": "Imeni Vorovskogo",
+    "country": "RU",
+    "lat": 55.7319,
+    "lng": 38.32368
+  },
+  {
+    "name": "Imeni Vladimira Il’icha Lenina",
+    "country": "RU",
+    "lat": 53.56422,
+    "lng": 46.9801
+  },
+  {
+    "name": "Imeni Tsyurupy",
+    "country": "RU",
+    "lat": 55.49567,
+    "lng": 38.65064
+  },
+  {
+    "name": "Imeni Sverdlova",
+    "country": "RU",
+    "lat": 59.79611,
+    "lng": 30.66583
+  },
+  {
+    "name": "Imeni Stepana Razina",
+    "country": "RU",
+    "lat": 54.8932,
+    "lng": 44.29627
+  },
+  {
+    "name": "Imeni Morozova",
+    "country": "RU",
+    "lat": 59.97572,
+    "lng": 31.03762
+  },
+  {
+    "name": "Imeni Karla Libknekhta",
+    "country": "RU",
+    "lat": 51.6195,
+    "lng": 35.4763
+  },
+  {
+    "name": "Imeni Babushkina",
+    "country": "RU",
+    "lat": 59.75727,
+    "lng": 43.12847
+  },
+  {
+    "name": "Imeni Pervogo Maya",
+    "country": "RU",
+    "lat": 50.88997,
+    "lng": 39.5919
+  },
+  {
+    "name": "Imeni Poliny Osipenko",
+    "country": "RU",
+    "lat": 52.4242,
+    "lng": 136.48681
+  },
+  {
+    "name": "Imeni M. I. Kalinina",
+    "country": "RU",
+    "lat": 56.17926,
+    "lng": 44.33098
+  },
+  {
+    "name": "Im. Telmana Posyolok",
+    "country": "RU",
+    "lat": 55.56444,
+    "lng": 38.03902
+  },
+  {
+    "name": "Imeľ",
+    "country": "SK",
+    "lat": 47.90403,
+    "lng": 18.14169
+  },
+  {
+    "name": "İmrahor",
+    "country": "TR",
+    "lat": 37.0534,
+    "lng": 30.21667
+  },
+  {
+    "name": "İmranlı",
+    "country": "TR",
+    "lat": 39.87544,
+    "lng": 38.11358
+  },
+  {
+    "name": "İmamoğlu",
+    "country": "TR",
+    "lat": 37.26506,
+    "lng": 35.65717
+  },
+  {
+    "name": "Immokalee",
+    "country": "US",
+    "lat": 26.41869,
+    "lng": -81.4173
+  },
+  {
+    "name": "Imperial",
+    "country": "US",
+    "lat": 38.36978,
+    "lng": -90.37845
+  },
+  {
+    "name": "Imlay City",
+    "country": "US",
+    "lat": 43.02475,
+    "lng": -83.07772
+  },
+  {
+    "name": "Imperial",
+    "country": "US",
+    "lat": 40.44951,
+    "lng": -80.2445
+  },
+  {
+    "name": "Imperial",
+    "country": "US",
+    "lat": 32.84755,
+    "lng": -115.56944
+  },
+  {
+    "name": "Imperial Beach",
+    "country": "US",
+    "lat": 32.58394,
+    "lng": -117.11308
+  },
+  {
+    "name": "Imperial",
+    "country": "US",
+    "lat": 40.51694,
+    "lng": -101.64323
+  },
+  {
+    "name": "Impendle",
+    "country": "ZA",
+    "lat": -29.60049,
+    "lng": 29.86561
+  }
+]

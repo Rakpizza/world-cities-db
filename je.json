@@ -1,0 +1,1694 @@
+[
+  {
+    "name": "Jebel Ali",
+    "country": "AE",
+    "lat": 25.00255,
+    "lng": 55.10811
+  },
+  {
+    "name": "Jermuk",
+    "country": "AM",
+    "lat": 39.83948,
+    "lng": 45.67112
+  },
+  {
+    "name": "Jesús María",
+    "country": "AR",
+    "lat": -30.98153,
+    "lng": -64.09424
+  },
+  {
+    "name": "Jerzens",
+    "country": "AT",
+    "lat": 47.1512,
+    "lng": 10.74686
+  },
+  {
+    "name": "Jennersdorf",
+    "country": "AT",
+    "lat": 46.93848,
+    "lng": 16.14158
+  },
+  {
+    "name": "Jenbach",
+    "country": "AT",
+    "lat": 47.39173,
+    "lng": 11.77245
+  },
+  {
+    "name": "Jedenspeigen",
+    "country": "AT",
+    "lat": 48.49807,
+    "lng": 16.87225
+  },
+  {
+    "name": "Jerilderie",
+    "country": "AU",
+    "lat": -35.35757,
+    "lng": 145.72962
+  },
+  {
+    "name": "Jensen",
+    "country": "AU",
+    "lat": -19.2457,
+    "lng": 146.65289
+  },
+  {
+    "name": "Jerrabomberra",
+    "country": "AU",
+    "lat": -35.38441,
+    "lng": 149.20248
+  },
+  {
+    "name": "Jesmond",
+    "country": "AU",
+    "lat": -32.90275,
+    "lng": 151.69072
+  },
+  {
+    "name": "Jewells",
+    "country": "AU",
+    "lat": -33.01386,
+    "lng": 151.68308
+  },
+  {
+    "name": "Jebrail",
+    "country": "AZ",
+    "lat": 39.39917,
+    "lng": 47.02835
+  },
+  {
+    "name": "Jezerski",
+    "country": "BA",
+    "lat": 44.98172,
+    "lng": 16.09447
+  },
+  {
+    "name": "Jezero",
+    "country": "BA",
+    "lat": 44.34954,
+    "lng": 17.1688
+  },
+  {
+    "name": "Jelah",
+    "country": "BA",
+    "lat": 44.654,
+    "lng": 17.95897
+  },
+  {
+    "name": "Jezero",
+    "country": "BA",
+    "lat": 44.86456,
+    "lng": 17.39427
+  },
+  {
+    "name": "Jessore",
+    "country": "BD",
+    "lat": 23.16971,
+    "lng": 89.21371
+  },
+  {
+    "name": "Jeuk",
+    "country": "BE",
+    "lat": 50.73499,
+    "lng": 5.20992
+  },
+  {
+    "name": "Jette",
+    "country": "BE",
+    "lat": 50.87309,
+    "lng": 4.33419
+  },
+  {
+    "name": "Jemeppe-sur-Meuse",
+    "country": "BE",
+    "lat": 50.61701,
+    "lng": 5.49849
+  },
+  {
+    "name": "Jemeppe-sur-Sambre",
+    "country": "BE",
+    "lat": 50.46543,
+    "lng": 4.6655
+  },
+  {
+    "name": "Jemelle",
+    "country": "BE",
+    "lat": 50.16315,
+    "lng": 5.26709
+  },
+  {
+    "name": "Jemappes",
+    "country": "BE",
+    "lat": 50.44914,
+    "lng": 3.89096
+  },
+  {
+    "name": "Jehay",
+    "country": "BE",
+    "lat": 50.5731,
+    "lng": 5.32382
+  },
+  {
+    "name": "Jerumenha",
+    "country": "BR",
+    "lat": -7.08778,
+    "lng": -43.50972
+  },
+  {
+    "name": "Jericó",
+    "country": "BR",
+    "lat": -6.55361,
+    "lng": -37.80861
+  },
+  {
+    "name": "Jetibá",
+    "country": "BR",
+    "lat": -20.02069,
+    "lng": -40.68145
+  },
+  {
+    "name": "Jesuânia",
+    "country": "BR",
+    "lat": -21.99778,
+    "lng": -45.29111
+  },
+  {
+    "name": "Jerônimo Monteiro",
+    "country": "BR",
+    "lat": -20.78944,
+    "lng": -41.395
+  },
+  {
+    "name": "Jeriquara",
+    "country": "BR",
+    "lat": -20.31111,
+    "lng": -47.58917
+  },
+  {
+    "name": "Jeremoabo",
+    "country": "BR",
+    "lat": -10.076,
+    "lng": -38.34725
+  },
+  {
+    "name": "Jequitinhonha",
+    "country": "BR",
+    "lat": -16.43389,
+    "lng": -41.00333
+  },
+  {
+    "name": "Jequitibá",
+    "country": "BR",
+    "lat": -19.23556,
+    "lng": -44.02778
+  },
+  {
+    "name": "Jequitaí",
+    "country": "BR",
+    "lat": -17.23556,
+    "lng": -44.44556
+  },
+  {
+    "name": "Jequié",
+    "country": "BR",
+    "lat": -13.85875,
+    "lng": -40.08512
+  },
+  {
+    "name": "Jequiá da Praia",
+    "country": "BR",
+    "lat": -10.01095,
+    "lng": -36.02509
+  },
+  {
+    "name": "Jequeri",
+    "country": "BR",
+    "lat": -20.45583,
+    "lng": -42.66583
+  },
+  {
+    "name": "Jeceaba",
+    "country": "BR",
+    "lat": -20.53411,
+    "lng": -43.99192
+  },
+  {
+    "name": "Jenipapo de Minas",
+    "country": "BR",
+    "lat": -17.08278,
+    "lng": -42.25833
+  },
+  {
+    "name": "Jenipapo dos Vieiras",
+    "country": "BR",
+    "lat": -5.37139,
+    "lng": -45.63639
+  },
+  {
+    "name": "Jesuítas",
+    "country": "BR",
+    "lat": -24.385,
+    "lng": -53.3875
+  },
+  {
+    "name": "Jesúpolis",
+    "country": "BR",
+    "lat": -15.95139,
+    "lng": -49.37389
+  },
+  {
+    "name": "Jenaz",
+    "country": "CH",
+    "lat": 46.92892,
+    "lng": 9.71275
+  },
+  {
+    "name": "Jegenstorf",
+    "country": "CH",
+    "lat": 47.04802,
+    "lng": 7.50787
+  },
+  {
+    "name": "Jelilyüzi",
+    "country": "CN",
+    "lat": 43.9749,
+    "lng": 81.53555
+  },
+  {
+    "name": "Jesús María",
+    "country": "CO",
+    "lat": 5.87715,
+    "lng": -73.78097
+  },
+  {
+    "name": "Jerusalén",
+    "country": "CO",
+    "lat": 4.56309,
+    "lng": -74.69519
+  },
+  {
+    "name": "Jericó",
+    "country": "CO",
+    "lat": 6.14592,
+    "lng": -72.5708
+  },
+  {
+    "name": "Jericó",
+    "country": "CO",
+    "lat": 5.79211,
+    "lng": -75.78601
+  },
+  {
+    "name": "Jenesano",
+    "country": "CO",
+    "lat": 5.38541,
+    "lng": -73.36364
+  },
+  {
+    "name": "Jesús Menéndez",
+    "country": "CU",
+    "lat": 21.16139,
+    "lng": -76.47919
+  },
+  {
+    "name": "Jevišovice",
+    "country": "CZ",
+    "lat": 48.98736,
+    "lng": 15.98992
+  },
+  {
+    "name": "Jevíčko",
+    "country": "CZ",
+    "lat": 49.6322,
+    "lng": 16.71125
+  },
+  {
+    "name": "Jeseník nad Odrou",
+    "country": "CZ",
+    "lat": 49.61194,
+    "lng": 17.90526
+  },
+  {
+    "name": "Jeseník",
+    "country": "CZ",
+    "lat": 50.22937,
+    "lng": 17.20464
+  },
+  {
+    "name": "Jesenice",
+    "country": "CZ",
+    "lat": 50.09703,
+    "lng": 13.46948
+  },
+  {
+    "name": "Jesenice",
+    "country": "CZ",
+    "lat": 49.96814,
+    "lng": 14.5135
+  },
+  {
+    "name": "Jeneč",
+    "country": "CZ",
+    "lat": 50.0873,
+    "lng": 14.21482
+  },
+  {
+    "name": "Jemnice",
+    "country": "CZ",
+    "lat": 49.01898,
+    "lng": 15.56994
+  },
+  {
+    "name": "Jedovnice",
+    "country": "CZ",
+    "lat": 49.34453,
+    "lng": 16.75595
+  },
+  {
+    "name": "Jedlová",
+    "country": "CZ",
+    "lat": 49.661,
+    "lng": 16.30608
+  },
+  {
+    "name": "Jever",
+    "country": "DE",
+    "lat": 53.57343,
+    "lng": 7.90039
+  },
+  {
+    "name": "Jevenstedt",
+    "country": "DE",
+    "lat": 54.23455,
+    "lng": 9.66413
+  },
+  {
+    "name": "Jetzendorf",
+    "country": "DE",
+    "lat": 48.43333,
+    "lng": 11.41667
+  },
+  {
+    "name": "Jestetten",
+    "country": "DE",
+    "lat": 47.65,
+    "lng": 8.56667
+  },
+  {
+    "name": "Jesteburg",
+    "country": "DE",
+    "lat": 53.30966,
+    "lng": 9.95262
+  },
+  {
+    "name": "Jeßnitz",
+    "country": "DE",
+    "lat": 51.68307,
+    "lng": 12.29992
+  },
+  {
+    "name": "Jessen",
+    "country": "DE",
+    "lat": 51.79337,
+    "lng": 12.95762
+  },
+  {
+    "name": "Jesewitz",
+    "country": "DE",
+    "lat": 51.42276,
+    "lng": 12.56312
+  },
+  {
+    "name": "Jesenwang",
+    "country": "DE",
+    "lat": 48.16667,
+    "lng": 11.13333
+  },
+  {
+    "name": "Jesberg",
+    "country": "DE",
+    "lat": 51.0,
+    "lng": 9.15
+  },
+  {
+    "name": "Jerxheim",
+    "country": "DE",
+    "lat": 52.08172,
+    "lng": 10.89844
+  },
+  {
+    "name": "Jersbek",
+    "country": "DE",
+    "lat": 53.74091,
+    "lng": 10.22419
+  },
+  {
+    "name": "Jerrishoe",
+    "country": "DE",
+    "lat": 54.6567,
+    "lng": 9.36918
+  },
+  {
+    "name": "Jerichow",
+    "country": "DE",
+    "lat": 52.50049,
+    "lng": 12.02383
+  },
+  {
+    "name": "Jengen",
+    "country": "DE",
+    "lat": 47.99934,
+    "lng": 10.72575
+  },
+  {
+    "name": "Jena",
+    "country": "DE",
+    "lat": 50.92878,
+    "lng": 11.5899
+  },
+  {
+    "name": "Jemgum",
+    "country": "DE",
+    "lat": 53.26667,
+    "lng": 7.38333
+  },
+  {
+    "name": "Jembke",
+    "country": "DE",
+    "lat": 52.5,
+    "lng": 10.76667
+  },
+  {
+    "name": "Jettingen-Scheppach",
+    "country": "DE",
+    "lat": 48.3896,
+    "lng": 10.4381
+  },
+  {
+    "name": "Jelling",
+    "country": "DK",
+    "lat": 55.75588,
+    "lng": 9.4258
+  },
+  {
+    "name": "Jesús María",
+    "country": "EC",
+    "lat": -2.56825,
+    "lng": -79.54587
+  },
+  {
+    "name": "Jerez de los Caballeros",
+    "country": "ES",
+    "lat": 38.32063,
+    "lng": -6.7726
+  },
+  {
+    "name": "Jerez de la Frontera",
+    "country": "ES",
+    "lat": 36.68645,
+    "lng": -6.13606
+  },
+  {
+    "name": "Jerte",
+    "country": "ES",
+    "lat": 40.22271,
+    "lng": -5.75011
+  },
+  {
+    "name": "Jete",
+    "country": "ES",
+    "lat": 36.79691,
+    "lng": -3.6672
+  },
+  {
+    "name": "Jerónimos",
+    "country": "ES",
+    "lat": 40.41375,
+    "lng": -3.68514
+  },
+  {
+    "name": "Jeumont",
+    "country": "FR",
+    "lat": 50.29658,
+    "lng": 4.10108
+  },
+  {
+    "name": "Jenlain",
+    "country": "FR",
+    "lat": 50.31164,
+    "lng": 3.62872
+  },
+  {
+    "name": "Jegun",
+    "country": "FR",
+    "lat": 43.7573,
+    "lng": 0.45889
+  },
+  {
+    "name": "Jebsheim",
+    "country": "FR",
+    "lat": 48.12375,
+    "lng": 7.47578
+  },
+  {
+    "name": "Jeanménil",
+    "country": "FR",
+    "lat": 48.3356,
+    "lng": 6.68769
+  },
+  {
+    "name": "Jeffreyston",
+    "country": "GB",
+    "lat": 51.725,
+    "lng": -4.7675
+  },
+  {
+    "name": "Jedburgh",
+    "country": "GB",
+    "lat": 55.47997,
+    "lng": -2.552
+  },
+  {
+    "name": "Jersey Farm",
+    "country": "GB",
+    "lat": 51.77,
+    "lng": -0.29551
+  },
+  {
+    "name": "Jenoi",
+    "country": "GM",
+    "lat": 13.48333,
+    "lng": -15.56667
+  },
+  {
+    "name": "Jerez",
+    "country": "GT",
+    "lat": 14.09083,
+    "lng": -89.7511
+  },
+  {
+    "name": "Jesús de Otoro",
+    "country": "HN",
+    "lat": 14.48775,
+    "lng": -87.98181
+  },
+  {
+    "name": "Jericó",
+    "country": "HN",
+    "lat": 15.95,
+    "lng": -85.96667
+  },
+  {
+    "name": "Ježdovec",
+    "country": "HR",
+    "lat": 45.7727,
+    "lng": 15.85218
+  },
+  {
+    "name": "Jesenice",
+    "country": "HR",
+    "lat": 44.23,
+    "lng": 15.5775
+  },
+  {
+    "name": "Jesenice",
+    "country": "HR",
+    "lat": 43.46158,
+    "lng": 16.60197
+  },
+  {
+    "name": "Jelsa",
+    "country": "HR",
+    "lat": 43.16139,
+    "lng": 16.69306
+  },
+  {
+    "name": "Jelisavac",
+    "country": "HR",
+    "lat": 45.52889,
+    "lng": 18.15611
+  },
+  {
+    "name": "Jelenje",
+    "country": "HR",
+    "lat": 45.38611,
+    "lng": 14.45111
+  },
+  {
+    "name": "Jean-Rabel",
+    "country": "HT",
+    "lat": 19.85379,
+    "lng": -73.19131
+  },
+  {
+    "name": "Jepon",
+    "country": "ID",
+    "lat": -6.9726,
+    "lng": 111.4795
+  },
+  {
+    "name": "Jepara",
+    "country": "ID",
+    "lat": -6.5924,
+    "lng": 110.671
+  },
+  {
+    "name": "Jepara",
+    "country": "ID",
+    "lat": -5.16948,
+    "lng": 105.70441
+  },
+  {
+    "name": "Jenggawah",
+    "country": "ID",
+    "lat": -8.2661,
+    "lng": 113.6479
+  },
+  {
+    "name": "Jeneponto",
+    "country": "ID",
+    "lat": -5.6765,
+    "lng": 119.7484
+  },
+  {
+    "name": "Jember",
+    "country": "ID",
+    "lat": -8.17211,
+    "lng": 113.69953
+  },
+  {
+    "name": "Jelbuk",
+    "country": "ID",
+    "lat": -8.0825,
+    "lng": 113.75917
+  },
+  {
+    "name": "Jekulo",
+    "country": "ID",
+    "lat": -6.8057,
+    "lng": 110.9262
+  },
+  {
+    "name": "Jebus",
+    "country": "ID",
+    "lat": -1.74302,
+    "lng": 105.45527
+  },
+  {
+    "name": "Jetis",
+    "country": "ID",
+    "lat": -6.9122,
+    "lng": 111.6263
+  },
+  {
+    "name": "Jenamas",
+    "country": "ID",
+    "lat": -2.4464,
+    "lng": 114.908
+  },
+  {
+    "name": "Jembrana Subdistrict",
+    "country": "ID",
+    "lat": -8.31492,
+    "lng": 114.57586
+  },
+  {
+    "name": "Jerusalem",
+    "country": "IL",
+    "lat": 31.76904,
+    "lng": 35.21633
+  },
+  {
+    "name": "Jewar",
+    "country": "IN",
+    "lat": 28.122,
+    "lng": 77.55734
+  },
+  {
+    "name": "Jevargi",
+    "country": "IN",
+    "lat": 17.01394,
+    "lng": 76.77317
+  },
+  {
+    "name": "Jetpur",
+    "country": "IN",
+    "lat": 22.34472,
+    "lng": 73.84093
+  },
+  {
+    "name": "Jetpur",
+    "country": "IN",
+    "lat": 21.75482,
+    "lng": 70.62347
+  },
+  {
+    "name": "Jetalsar",
+    "country": "IN",
+    "lat": 21.70891,
+    "lng": 70.57695
+  },
+  {
+    "name": "Jejūri",
+    "country": "IN",
+    "lat": 18.27658,
+    "lng": 74.16008
+  },
+  {
+    "name": "Jeypore",
+    "country": "IN",
+    "lat": 18.8563,
+    "lng": 82.5716
+  },
+  {
+    "name": "Jena",
+    "country": "IN",
+    "lat": 23.67621,
+    "lng": 86.01809
+  },
+  {
+    "name": "Jerzu",
+    "country": "IT",
+    "lat": 39.79289,
+    "lng": 9.51785
+  },
+  {
+    "name": "Jesi",
+    "country": "IT",
+    "lat": 43.52142,
+    "lng": 13.24368
+  },
+  {
+    "name": "Jelsi",
+    "country": "IT",
+    "lat": 41.51704,
+    "lng": 14.7979
+  },
+  {
+    "name": "Jerago Con Orago",
+    "country": "IT",
+    "lat": 45.70467,
+    "lng": 8.79593
+  },
+  {
+    "name": "Jenne",
+    "country": "IT",
+    "lat": 41.88882,
+    "lng": 13.16959
+  },
+  {
+    "name": "Jebilat",
+    "country": "KE",
+    "lat": -0.69356,
+    "lng": 35.07132
+  },
+  {
+    "name": "Jenzan",
+    "country": "KR",
+    "lat": 36.24083,
+    "lng": 128.2975
+  },
+  {
+    "name": "Jeonju",
+    "country": "KR",
+    "lat": 35.82194,
+    "lng": 127.14889
+  },
+  {
+    "name": "Jeongok",
+    "country": "KR",
+    "lat": 38.02596,
+    "lng": 127.07021
+  },
+  {
+    "name": "Jeju City",
+    "country": "KR",
+    "lat": 33.50972,
+    "lng": 126.52194
+  },
+  {
+    "name": "Jeongeup",
+    "country": "KR",
+    "lat": 35.60004,
+    "lng": 126.91699
+  },
+  {
+    "name": "Jeongnyang",
+    "country": "KR",
+    "lat": 35.08337,
+    "lng": 127.77696
+  },
+  {
+    "name": "Jezzine",
+    "country": "LB",
+    "lat": 33.54167,
+    "lng": 35.58444
+  },
+  {
+    "name": "Jelgava",
+    "country": "LV",
+    "lat": 56.65,
+    "lng": 23.71278
+  },
+  {
+    "name": "Jem’at Oulad ’Abbou",
+    "country": "MA",
+    "lat": 33.1148,
+    "lng": -7.9336
+  },
+  {
+    "name": "Jerada",
+    "country": "MA",
+    "lat": 34.31,
+    "lng": -2.16
+  },
+  {
+    "name": "Jebha",
+    "country": "MA",
+    "lat": 35.20549,
+    "lng": -4.66524
+  },
+  {
+    "name": "Jebel Tiskaouine",
+    "country": "MA",
+    "lat": 31.02722,
+    "lng": -5.11643
+  },
+  {
+    "name": "Jegunovce",
+    "country": "MK",
+    "lat": 42.07243,
+    "lng": 21.12314
+  },
+  {
+    "name": "Jesús Carranza",
+    "country": "MX",
+    "lat": 17.43526,
+    "lng": -95.02637
+  },
+  {
+    "name": "Jesús Huitznahuac",
+    "country": "MX",
+    "lat": 19.34251,
+    "lng": -98.12807
+  },
+  {
+    "name": "Jericó",
+    "country": "MX",
+    "lat": 16.28713,
+    "lng": -92.9663
+  },
+  {
+    "name": "Jesús María Garza",
+    "country": "MX",
+    "lat": 16.39669,
+    "lng": -93.29368
+  },
+  {
+    "name": "Jesús Carranza (Rancho de Jesús)",
+    "country": "MX",
+    "lat": 18.94528,
+    "lng": -99.63056
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 19.41773,
+    "lng": -99.99696
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 23.15488,
+    "lng": -102.19253
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 22.25056,
+    "lng": -104.51792
+  },
+  {
+    "name": "Jesús Gómez Portugal",
+    "country": "MX",
+    "lat": 21.99607,
+    "lng": -102.29095
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 25.08945,
+    "lng": -107.45231
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 21.96111,
+    "lng": -102.34333
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 20.60744,
+    "lng": -102.21974
+  },
+  {
+    "name": "Jerez de García Salinas",
+    "country": "MX",
+    "lat": 22.6497,
+    "lng": -102.98979
+  },
+  {
+    "name": "Jerécuaro",
+    "country": "MX",
+    "lat": 20.15467,
+    "lng": -100.5086
+  },
+  {
+    "name": "Jecopaco",
+    "country": "MX",
+    "lat": 27.19824,
+    "lng": -109.76956
+  },
+  {
+    "name": "Jesús Gómez Portugal (Margaritas)",
+    "country": "MX",
+    "lat": 21.99917,
+    "lng": -102.29139
+  },
+  {
+    "name": "Jesús del Monte",
+    "country": "MX",
+    "lat": 20.91504,
+    "lng": -101.74129
+  },
+  {
+    "name": "Jesús del Monte",
+    "country": "MX",
+    "lat": 19.65151,
+    "lng": -101.15227
+  },
+  {
+    "name": "Jesús María",
+    "country": "MX",
+    "lat": 20.62223,
+    "lng": -100.25615
+  },
+  {
+    "name": "Jesús del Monte",
+    "country": "MX",
+    "lat": 19.375,
+    "lng": -99.29444
+  },
+  {
+    "name": "Jesús Nazareno",
+    "country": "MX",
+    "lat": 18.87667,
+    "lng": -97.62306
+  },
+  {
+    "name": "Jerusalén",
+    "country": "MX",
+    "lat": 17.36806,
+    "lng": -92.06083
+  },
+  {
+    "name": "Jesús Tepactepec",
+    "country": "MX",
+    "lat": 19.22917,
+    "lng": -98.31417
+  },
+  {
+    "name": "Jerantut",
+    "country": "MY",
+    "lat": 3.936,
+    "lng": 102.3626
+  },
+  {
+    "name": "Jenjarum",
+    "country": "MY",
+    "lat": 2.8724,
+    "lng": 101.49484
+  },
+  {
+    "name": "Jertih",
+    "country": "MY",
+    "lat": 5.7336,
+    "lng": 102.4897
+  },
+  {
+    "name": "Jelutong",
+    "country": "MY",
+    "lat": 5.38998,
+    "lng": 100.31885
+  },
+  {
+    "name": "Jega",
+    "country": "NG",
+    "lat": 12.22336,
+    "lng": 4.37971
+  },
+  {
+    "name": "Jebba",
+    "country": "NG",
+    "lat": 9.11972,
+    "lng": 4.8236
+  },
+  {
+    "name": "Jevnaker",
+    "country": "NO",
+    "lat": 60.23979,
+    "lng": 10.38709
+  },
+  {
+    "name": "Jessheim",
+    "country": "NO",
+    "lat": 60.14151,
+    "lng": 11.17515
+  },
+  {
+    "name": "Jerusalem",
+    "country": "NZ",
+    "lat": -39.55,
+    "lng": 175.06667
+  },
+  {
+    "name": "Jesús",
+    "country": "PE",
+    "lat": -7.2497,
+    "lng": -78.38035
+  },
+  {
+    "name": "Jepelacio",
+    "country": "PE",
+    "lat": -6.11667,
+    "lng": -76.95
+  },
+  {
+    "name": "Jeberos",
+    "country": "PE",
+    "lat": -5.28333,
+    "lng": -76.28333
+  },
+  {
+    "name": "Jesus Maria",
+    "country": "PE",
+    "lat": -12.06982,
+    "lng": -77.04495
+  },
+  {
+    "name": "Jetafe",
+    "country": "PH",
+    "lat": 10.14722,
+    "lng": 124.15389
+  },
+  {
+    "name": "Jeziorzany",
+    "country": "PL",
+    "lat": 51.60245,
+    "lng": 22.27667
+  },
+  {
+    "name": "Jeżowe",
+    "country": "PL",
+    "lat": 50.37486,
+    "lng": 22.12749
+  },
+  {
+    "name": "Jeziorany",
+    "country": "PL",
+    "lat": 53.97578,
+    "lng": 20.74639
+  },
+  {
+    "name": "Jedwabno",
+    "country": "PL",
+    "lat": 53.5299,
+    "lng": 20.72657
+  },
+  {
+    "name": "Jedwabne",
+    "country": "PL",
+    "lat": 53.28554,
+    "lng": 22.30353
+  },
+  {
+    "name": "Jednorożec",
+    "country": "PL",
+    "lat": 53.14116,
+    "lng": 21.05161
+  },
+  {
+    "name": "Jedlnia-Letnisko",
+    "country": "PL",
+    "lat": 51.43074,
+    "lng": 21.33536
+  },
+  {
+    "name": "Jedlińsk",
+    "country": "PL",
+    "lat": 51.514,
+    "lng": 21.11577
+  },
+  {
+    "name": "Jedlicze",
+    "country": "PL",
+    "lat": 49.71749,
+    "lng": 21.64886
+  },
+  {
+    "name": "Jeżów Sudecki",
+    "country": "PL",
+    "lat": 50.93507,
+    "lng": 15.74306
+  },
+  {
+    "name": "Jeżów",
+    "country": "PL",
+    "lat": 51.81376,
+    "lng": 19.96877
+  },
+  {
+    "name": "Jeziora Wielkie",
+    "country": "PL",
+    "lat": 52.53043,
+    "lng": 18.26803
+  },
+  {
+    "name": "Jeżewo",
+    "country": "PL",
+    "lat": 53.51061,
+    "lng": 18.49437
+  },
+  {
+    "name": "Jerzmanowice",
+    "country": "PL",
+    "lat": 50.21267,
+    "lng": 19.74672
+  },
+  {
+    "name": "Jenin",
+    "country": "PL",
+    "lat": 52.69647,
+    "lng": 15.09796
+  },
+  {
+    "name": "Jemielno",
+    "country": "PL",
+    "lat": 51.52434,
+    "lng": 16.54326
+  },
+  {
+    "name": "Jemielnica",
+    "country": "PL",
+    "lat": 50.54573,
+    "lng": 18.37807
+  },
+  {
+    "name": "Jeleśnia",
+    "country": "PL",
+    "lat": 49.64246,
+    "lng": 19.32701
+  },
+  {
+    "name": "Jelenia Góra",
+    "country": "PL",
+    "lat": 50.89973,
+    "lng": 15.72899
+  },
+  {
+    "name": "Jelcz",
+    "country": "PL",
+    "lat": 51.02102,
+    "lng": 17.32095
+  },
+  {
+    "name": "Jejkowice",
+    "country": "PL",
+    "lat": 50.10814,
+    "lng": 18.46767
+  },
+  {
+    "name": "Jedlina-Zdrój",
+    "country": "PL",
+    "lat": 50.72005,
+    "lng": 16.34645
+  },
+  {
+    "name": "Jelcz Laskowice",
+    "country": "PL",
+    "lat": 51.02134,
+    "lng": 17.31649
+  },
+  {
+    "name": "Jericho",
+    "country": "PS",
+    "lat": 31.86667,
+    "lng": 35.45
+  },
+  {
+    "name": "Jesús",
+    "country": "PY",
+    "lat": -27.05598,
+    "lng": -55.7413
+  },
+  {
+    "name": "Jegălia",
+    "country": "RO",
+    "lat": 44.3,
+    "lng": 27.63333
+  },
+  {
+    "name": "Jebel",
+    "country": "RO",
+    "lat": 45.55556,
+    "lng": 21.21361
+  },
+  {
+    "name": "Jermenovci",
+    "country": "RS",
+    "lat": 45.18635,
+    "lng": 21.0455
+  },
+  {
+    "name": "Jevremovac",
+    "country": "RS",
+    "lat": 44.72172,
+    "lng": 19.66364
+  },
+  {
+    "name": "Jelenča",
+    "country": "RS",
+    "lat": 44.727,
+    "lng": 19.735
+  },
+  {
+    "name": "Jeddah",
+    "country": "SA",
+    "lat": 21.49012,
+    "lng": 39.18624
+  },
+  {
+    "name": "Jelebu",
+    "country": "SG",
+    "lat": 1.37953,
+    "lng": 103.76286
+  },
+  {
+    "name": "Jesenice",
+    "country": "SI",
+    "lat": 46.4324,
+    "lng": 14.06232
+  },
+  {
+    "name": "Jelšava",
+    "country": "SK",
+    "lat": 48.62908,
+    "lng": 20.24141
+  },
+  {
+    "name": "Jelka",
+    "country": "SK",
+    "lat": 48.14545,
+    "lng": 17.51126
+  },
+  {
+    "name": "Jelenec",
+    "country": "SK",
+    "lat": 48.37844,
+    "lng": 18.22351
+  },
+  {
+    "name": "Jendouba",
+    "country": "TN",
+    "lat": 36.50114,
+    "lng": 8.78024
+  },
+  {
+    "name": "Jerissa",
+    "country": "TN",
+    "lat": 35.84509,
+    "lng": 8.63028
+  },
+  {
+    "name": "Jemna",
+    "country": "TN",
+    "lat": 33.57778,
+    "lng": 9.01472
+  },
+  {
+    "name": "Jedeïda",
+    "country": "TN",
+    "lat": 36.83111,
+    "lng": 9.92417
+  },
+  {
+    "name": "Jedelienne",
+    "country": "TN",
+    "lat": 35.59316,
+    "lng": 9.05987
+  },
+  {
+    "name": "Jessup",
+    "country": "US",
+    "lat": 39.14927,
+    "lng": -76.77525
+  },
+  {
+    "name": "Jemison",
+    "country": "US",
+    "lat": 32.95985,
+    "lng": -86.74665
+  },
+  {
+    "name": "Jensen Beach",
+    "country": "US",
+    "lat": 27.25449,
+    "lng": -80.22977
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 34.11705,
+    "lng": -83.57239
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 33.4493,
+    "lng": -83.31155
+  },
+  {
+    "name": "Jeffersonville",
+    "country": "US",
+    "lat": 32.68765,
+    "lng": -83.34656
+  },
+  {
+    "name": "Jesup",
+    "country": "US",
+    "lat": 31.60785,
+    "lng": -81.88634
+  },
+  {
+    "name": "Jerome",
+    "country": "US",
+    "lat": 39.76755,
+    "lng": -89.68066
+  },
+  {
+    "name": "Jerseyville",
+    "country": "US",
+    "lat": 39.12005,
+    "lng": -90.32845
+  },
+  {
+    "name": "Jeffersonville",
+    "country": "US",
+    "lat": 38.27757,
+    "lng": -85.73718
+  },
+  {
+    "name": "Jetmore",
+    "country": "US",
+    "lat": 38.08446,
+    "lng": -99.89346
+  },
+  {
+    "name": "Jeffersontown",
+    "country": "US",
+    "lat": 38.19424,
+    "lng": -85.5644
+  },
+  {
+    "name": "Jeffersonville",
+    "country": "US",
+    "lat": 37.97369,
+    "lng": -83.84186
+  },
+  {
+    "name": "Jenkins",
+    "country": "US",
+    "lat": 37.17344,
+    "lng": -82.63099
+  },
+  {
+    "name": "Jean Lafitte",
+    "country": "US",
+    "lat": 29.73604,
+    "lng": -90.12674
+  },
+  {
+    "name": "Jeanerette",
+    "country": "US",
+    "lat": 29.91104,
+    "lng": -91.66345
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 29.96604,
+    "lng": -90.15313
+  },
+  {
+    "name": "Jena",
+    "country": "US",
+    "lat": 31.68323,
+    "lng": -92.13374
+  },
+  {
+    "name": "Jennings",
+    "country": "US",
+    "lat": 30.22243,
+    "lng": -92.65708
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 39.36205,
+    "lng": -77.53165
+  },
+  {
+    "name": "Jefferson City",
+    "country": "US",
+    "lat": 38.5767,
+    "lng": -92.17352
+  },
+  {
+    "name": "Jennings",
+    "country": "US",
+    "lat": 38.71922,
+    "lng": -90.26039
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 36.4204,
+    "lng": -81.47344
+  },
+  {
+    "name": "Jeffersonville",
+    "country": "US",
+    "lat": 39.65367,
+    "lng": -83.56381
+  },
+  {
+    "name": "Jenks",
+    "country": "US",
+    "lat": 36.02287,
+    "lng": -95.96833
+  },
+  {
+    "name": "Jefferson City",
+    "country": "US",
+    "lat": 36.12231,
+    "lng": -83.4924
+  },
+  {
+    "name": "Jellico",
+    "country": "US",
+    "lat": 36.58786,
+    "lng": -84.12687
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 32.75736,
+    "lng": -94.34519
+  },
+  {
+    "name": "Jersey Village",
+    "country": "US",
+    "lat": 29.88772,
+    "lng": -95.563
+  },
+  {
+    "name": "Jewett",
+    "country": "US",
+    "lat": 31.36157,
+    "lng": -96.14413
+  },
+  {
+    "name": "Jewett City",
+    "country": "US",
+    "lat": 41.60677,
+    "lng": -71.98091
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 42.01526,
+    "lng": -94.37747
+  },
+  {
+    "name": "Jesup",
+    "country": "US",
+    "lat": 42.47554,
+    "lng": -92.06379
+  },
+  {
+    "name": "Jewell",
+    "country": "US",
+    "lat": 42.30693,
+    "lng": -93.64022
+  },
+  {
+    "name": "Jeffries Point",
+    "country": "US",
+    "lat": 42.36538,
+    "lng": -71.03283
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 44.20674,
+    "lng": -69.45254
+  },
+  {
+    "name": "Jenison",
+    "country": "US",
+    "lat": 42.90725,
+    "lng": -85.79198
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 44.41895,
+    "lng": -71.47453
+  },
+  {
+    "name": "Jersey City",
+    "country": "US",
+    "lat": 40.72816,
+    "lng": -74.07764
+  },
+  {
+    "name": "Jefferson Heights",
+    "country": "US",
+    "lat": 42.23398,
+    "lng": -73.88235
+  },
+  {
+    "name": "Jericho",
+    "country": "US",
+    "lat": 40.79204,
+    "lng": -73.53985
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 41.73867,
+    "lng": -80.76981
+  },
+  {
+    "name": "Jeannette",
+    "country": "US",
+    "lat": 40.32812,
+    "lng": -79.61532
+  },
+  {
+    "name": "Jefferson Hills",
+    "country": "US",
+    "lat": 40.29118,
+    "lng": -79.93199
+  },
+  {
+    "name": "Jenkintown",
+    "country": "US",
+    "lat": 40.09594,
+    "lng": -75.12517
+  },
+  {
+    "name": "Jermyn",
+    "country": "US",
+    "lat": 41.53091,
+    "lng": -75.54546
+  },
+  {
+    "name": "Jerome",
+    "country": "US",
+    "lat": 40.20896,
+    "lng": -78.98364
+  },
+  {
+    "name": "Jersey Shore",
+    "country": "US",
+    "lat": 41.20202,
+    "lng": -77.26442
+  },
+  {
+    "name": "Jessup",
+    "country": "US",
+    "lat": 41.46869,
+    "lng": -75.56213
+  },
+  {
+    "name": "Jericho",
+    "country": "US",
+    "lat": 44.50394,
+    "lng": -72.99763
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 43.00556,
+    "lng": -88.80733
+  },
+  {
+    "name": "Jemez Pueblo",
+    "country": "US",
+    "lat": 35.61422,
+    "lng": -106.72832
+  },
+  {
+    "name": "Jerome",
+    "country": "US",
+    "lat": 42.72407,
+    "lng": -114.51865
+  },
+  {
+    "name": "Jefferson",
+    "country": "US",
+    "lat": 44.71957,
+    "lng": -123.01037
+  },
+  {
+    "name": "Jennings Lodge",
+    "country": "US",
+    "lat": 45.39123,
+    "lng": -122.61259
+  },
+  {
+    "name": "Jefferson Valley-Yorktown",
+    "country": "US",
+    "lat": 41.31797,
+    "lng": -73.80066
+  },
+  {
+    "name": "Jeffreys Bay",
+    "country": "ZA",
+    "lat": -34.04526,
+    "lng": 24.92146
+  }
+]

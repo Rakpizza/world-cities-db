@@ -1,0 +1,2894 @@
+[
+  {
+    "name": "Khawr Fakkān",
+    "country": "AE",
+    "lat": 25.33132,
+    "lng": 56.34199
+  },
+  {
+    "name": "Khalifah A City",
+    "country": "AE",
+    "lat": 24.42588,
+    "lng": 54.605
+  },
+  {
+    "name": "Khōshī",
+    "country": "AF",
+    "lat": 33.99916,
+    "lng": 69.21582
+  },
+  {
+    "name": "Khōshāmand",
+    "country": "AF",
+    "lat": 32.68567,
+    "lng": 68.23801
+  },
+  {
+    "name": "Khwājah Ghār",
+    "country": "AF",
+    "lat": 37.06588,
+    "lng": 69.42126
+  },
+  {
+    "name": "Khwājah Dū Kōh",
+    "country": "AF",
+    "lat": 36.82881,
+    "lng": 65.62432
+  },
+  {
+    "name": "Khulbisāt",
+    "country": "AF",
+    "lat": 33.4948,
+    "lng": 70.00605
+  },
+  {
+    "name": "Khūgyāṉī",
+    "country": "AF",
+    "lat": 31.56267,
+    "lng": 66.5814
+  },
+  {
+    "name": "Khōst",
+    "country": "AF",
+    "lat": 33.33951,
+    "lng": 69.92041
+  },
+  {
+    "name": "Khulm",
+    "country": "AF",
+    "lat": 36.69736,
+    "lng": 67.69826
+  },
+  {
+    "name": "Khudāydād Khēl",
+    "country": "AF",
+    "lat": 35.17835,
+    "lng": 67.68758
+  },
+  {
+    "name": "Khinjān",
+    "country": "AF",
+    "lat": 35.58908,
+    "lng": 68.90093
+  },
+  {
+    "name": "Khinj",
+    "country": "AF",
+    "lat": 35.42898,
+    "lng": 69.73482
+  },
+  {
+    "name": "Khāsh",
+    "country": "AF",
+    "lat": 31.52919,
+    "lng": 62.79055
+  },
+  {
+    "name": "Khān Neshīn",
+    "country": "AF",
+    "lat": 30.5488,
+    "lng": 63.7888
+  },
+  {
+    "name": "Khānaqāh",
+    "country": "AF",
+    "lat": 36.62587,
+    "lng": 69.53695
+  },
+  {
+    "name": "Khandūd",
+    "country": "AF",
+    "lat": 36.95127,
+    "lng": 72.318
+  },
+  {
+    "name": "Khānaqāh",
+    "country": "AF",
+    "lat": 36.86279,
+    "lng": 66.16656
+  },
+  {
+    "name": "Khanabad",
+    "country": "AF",
+    "lat": 36.68304,
+    "lng": 69.11279
+  },
+  {
+    "name": "Khamyāb",
+    "country": "AF",
+    "lat": 37.5275,
+    "lng": 65.75833
+  },
+  {
+    "name": "Khākirān",
+    "country": "AF",
+    "lat": 32.8385,
+    "lng": 67.07377
+  },
+  {
+    "name": "Khadīr",
+    "country": "AF",
+    "lat": 33.92232,
+    "lng": 65.93398
+  },
+  {
+    "name": "Khayr Kōṯ",
+    "country": "AF",
+    "lat": 32.85355,
+    "lng": 68.44971
+  },
+  {
+    "name": "Khndzoresk",
+    "country": "AM",
+    "lat": 39.51325,
+    "lng": 46.43141
+  },
+  {
+    "name": "Khoronk",
+    "country": "AM",
+    "lat": 40.13611,
+    "lng": 44.24731
+  },
+  {
+    "name": "Khashtarak",
+    "country": "AM",
+    "lat": 40.93668,
+    "lng": 45.1821
+  },
+  {
+    "name": "Khachpar",
+    "country": "AM",
+    "lat": 40.12512,
+    "lng": 44.4057
+  },
+  {
+    "name": "Khachaghbyur",
+    "country": "AM",
+    "lat": 40.16808,
+    "lng": 45.69259
+  },
+  {
+    "name": "Khanjyan",
+    "country": "AM",
+    "lat": 40.18742,
+    "lng": 43.97718
+  },
+  {
+    "name": "Khankendi",
+    "country": "AZ",
+    "lat": 39.8177,
+    "lng": 46.7528
+  },
+  {
+    "name": "Khojaly",
+    "country": "AZ",
+    "lat": 39.91361,
+    "lng": 46.79213
+  },
+  {
+    "name": "Khirdalan",
+    "country": "AZ",
+    "lat": 40.44808,
+    "lng": 49.75502
+  },
+  {
+    "name": "Khojasan",
+    "country": "AZ",
+    "lat": 40.41293,
+    "lng": 49.76904
+  },
+  {
+    "name": "Khagrachhari",
+    "country": "BD",
+    "lat": 23.10787,
+    "lng": 91.97007
+  },
+  {
+    "name": "Khulna",
+    "country": "BD",
+    "lat": 22.80979,
+    "lng": 89.56439
+  },
+  {
+    "name": "Khanbaniara",
+    "country": "BD",
+    "lat": 23.78225,
+    "lng": 90.18382
+  },
+  {
+    "name": "Khudumelapye",
+    "country": "BW",
+    "lat": -23.88333,
+    "lng": 24.75
+  },
+  {
+    "name": "Khakhea",
+    "country": "BW",
+    "lat": -24.68954,
+    "lng": 23.49403
+  },
+  {
+    "name": "Khoyniki",
+    "country": "BY",
+    "lat": 51.90773,
+    "lng": 29.98258
+  },
+  {
+    "name": "Khotimsk",
+    "country": "BY",
+    "lat": 53.40843,
+    "lng": 32.57949
+  },
+  {
+    "name": "Kholopenichi",
+    "country": "BY",
+    "lat": 54.51746,
+    "lng": 28.95645
+  },
+  {
+    "name": "Khodosy",
+    "country": "BY",
+    "lat": 53.92681,
+    "lng": 31.47882
+  },
+  {
+    "name": "Khal’ch",
+    "country": "BY",
+    "lat": 52.5643,
+    "lng": 31.1364
+  },
+  {
+    "name": "Khatsyezhyna",
+    "country": "BY",
+    "lat": 53.9094,
+    "lng": 27.3069
+  },
+  {
+    "name": "Khuma",
+    "country": "CN",
+    "lat": 51.72711,
+    "lng": 126.65114
+  },
+  {
+    "name": "Khôr Angar",
+    "country": "DJ",
+    "lat": 12.38725,
+    "lng": 43.3347
+  },
+  {
+    "name": "Khenchela",
+    "country": "DZ",
+    "lat": 35.43583,
+    "lng": 7.14333
+  },
+  {
+    "name": "Khemis Miliana",
+    "country": "DZ",
+    "lat": 36.26104,
+    "lng": 2.22015
+  },
+  {
+    "name": "Khemis el Khechna",
+    "country": "DZ",
+    "lat": 36.64997,
+    "lng": 3.3308
+  },
+  {
+    "name": "Khulo",
+    "country": "GE",
+    "lat": 41.64517,
+    "lng": 42.31464
+  },
+  {
+    "name": "Khoni",
+    "country": "GE",
+    "lat": 42.32535,
+    "lng": 42.42243
+  },
+  {
+    "name": "Khobi",
+    "country": "GE",
+    "lat": 42.31746,
+    "lng": 41.9002
+  },
+  {
+    "name": "Khelvachauri",
+    "country": "GE",
+    "lat": 41.58452,
+    "lng": 41.6731
+  },
+  {
+    "name": "Khashuri",
+    "country": "GE",
+    "lat": 41.99733,
+    "lng": 43.59905
+  },
+  {
+    "name": "Kharagauli",
+    "country": "GE",
+    "lat": 42.02137,
+    "lng": 43.19773
+  },
+  {
+    "name": "Khiliomódhi",
+    "country": "GR",
+    "lat": 37.81016,
+    "lng": 22.86972
+  },
+  {
+    "name": "Khalkoútsion",
+    "country": "GR",
+    "lat": 38.33263,
+    "lng": 23.73188
+  },
+  {
+    "name": "Khalándrion",
+    "country": "GR",
+    "lat": 38.02369,
+    "lng": 23.80068
+  },
+  {
+    "name": "Khairiahmandah",
+    "country": "ID",
+    "lat": 0.02107,
+    "lng": 103.49757
+  },
+  {
+    "name": "Khirbat Abu Tulūl",
+    "country": "IL",
+    "lat": 31.14229,
+    "lng": 34.91424
+  },
+  {
+    "name": "Khūtār",
+    "country": "IN",
+    "lat": 28.20307,
+    "lng": 80.27046
+  },
+  {
+    "name": "Khusropur",
+    "country": "IN",
+    "lat": 25.48174,
+    "lng": 85.38492
+  },
+  {
+    "name": "Khurja",
+    "country": "IN",
+    "lat": 28.25382,
+    "lng": 77.85535
+  },
+  {
+    "name": "Khordha",
+    "country": "IN",
+    "lat": 20.18268,
+    "lng": 85.61629
+  },
+  {
+    "name": "Khurai",
+    "country": "IN",
+    "lat": 24.04372,
+    "lng": 78.33014
+  },
+  {
+    "name": "Khunti",
+    "country": "IN",
+    "lat": 23.07602,
+    "lng": 85.27818
+  },
+  {
+    "name": "Khuldābād",
+    "country": "IN",
+    "lat": 20.00671,
+    "lng": 75.19245
+  },
+  {
+    "name": "Khujner",
+    "country": "IN",
+    "lat": 23.78597,
+    "lng": 76.61773
+  },
+  {
+    "name": "Khudāganj",
+    "country": "IN",
+    "lat": 28.14607,
+    "lng": 79.71472
+  },
+  {
+    "name": "Khreuh",
+    "country": "IN",
+    "lat": 34.01886,
+    "lng": 74.99914
+  },
+  {
+    "name": "Khowai",
+    "country": "IN",
+    "lat": 24.07964,
+    "lng": 91.59972
+  },
+  {
+    "name": "Khopoli",
+    "country": "IN",
+    "lat": 18.78562,
+    "lng": 73.34589
+  },
+  {
+    "name": "Khonsa",
+    "country": "IN",
+    "lat": 27.01667,
+    "lng": 95.56667
+  },
+  {
+    "name": "Khirkiya",
+    "country": "IN",
+    "lat": 22.16732,
+    "lng": 76.86137
+  },
+  {
+    "name": "Khilchipur",
+    "country": "IN",
+    "lat": 24.03943,
+    "lng": 76.578
+  },
+  {
+    "name": "Khetri",
+    "country": "IN",
+    "lat": 28.00069,
+    "lng": 75.78644
+  },
+  {
+    "name": "Khetia",
+    "country": "IN",
+    "lat": 21.67124,
+    "lng": 74.58535
+  },
+  {
+    "name": "Kherwāra",
+    "country": "IN",
+    "lat": 23.98588,
+    "lng": 73.59493
+  },
+  {
+    "name": "Kheri",
+    "country": "IN",
+    "lat": 27.90354,
+    "lng": 80.79754
+  },
+  {
+    "name": "Kherālu",
+    "country": "IN",
+    "lat": 23.88534,
+    "lng": 72.61869
+  },
+  {
+    "name": "Khem Karan",
+    "country": "IN",
+    "lat": 31.14443,
+    "lng": 74.55938
+  },
+  {
+    "name": "Khekra",
+    "country": "IN",
+    "lat": 28.86586,
+    "lng": 77.2841
+  },
+  {
+    "name": "Khedbrahma",
+    "country": "IN",
+    "lat": 24.0299,
+    "lng": 73.04632
+  },
+  {
+    "name": "Kheda",
+    "country": "IN",
+    "lat": 22.75218,
+    "lng": 72.68533
+  },
+  {
+    "name": "Khed",
+    "country": "IN",
+    "lat": 18.33811,
+    "lng": 73.84677
+  },
+  {
+    "name": "Khed",
+    "country": "IN",
+    "lat": 17.71888,
+    "lng": 73.39693
+  },
+  {
+    "name": "Khawhai",
+    "country": "IN",
+    "lat": 23.37807,
+    "lng": 93.12797
+  },
+  {
+    "name": "Khaur",
+    "country": "IN",
+    "lat": 32.6027,
+    "lng": 74.80918
+  },
+  {
+    "name": "Khātra",
+    "country": "IN",
+    "lat": 22.97617,
+    "lng": 86.85462
+  },
+  {
+    "name": "Khatīma",
+    "country": "IN",
+    "lat": 28.92134,
+    "lng": 79.97075
+  },
+  {
+    "name": "Khātegaon",
+    "country": "IN",
+    "lat": 22.59573,
+    "lng": 76.9133
+  },
+  {
+    "name": "Khatauli",
+    "country": "IN",
+    "lat": 29.27844,
+    "lng": 77.73302
+  },
+  {
+    "name": "Khārupatia",
+    "country": "IN",
+    "lat": 26.51839,
+    "lng": 92.14722
+  },
+  {
+    "name": "Kharsia",
+    "country": "IN",
+    "lat": 21.98953,
+    "lng": 83.10476
+  },
+  {
+    "name": "Kharsāwān",
+    "country": "IN",
+    "lat": 22.79093,
+    "lng": 85.83102
+  },
+  {
+    "name": "Kharora",
+    "country": "IN",
+    "lat": 21.40097,
+    "lng": 81.92757
+  },
+  {
+    "name": "Kharod",
+    "country": "IN",
+    "lat": 21.7442,
+    "lng": 82.5788
+  },
+  {
+    "name": "Kharkhauda",
+    "country": "IN",
+    "lat": 28.8787,
+    "lng": 76.91069
+  },
+  {
+    "name": "Kharkhauda",
+    "country": "IN",
+    "lat": 28.83644,
+    "lng": 77.74159
+  },
+  {
+    "name": "Kharhiāl",
+    "country": "IN",
+    "lat": 20.28845,
+    "lng": 82.7606
+  },
+  {
+    "name": "Khargupur",
+    "country": "IN",
+    "lat": 27.37611,
+    "lng": 81.9882
+  },
+  {
+    "name": "Khargone",
+    "country": "IN",
+    "lat": 21.82292,
+    "lng": 75.61394
+  },
+  {
+    "name": "Khargāpur",
+    "country": "IN",
+    "lat": 24.823,
+    "lng": 79.144
+  },
+  {
+    "name": "Kharela",
+    "country": "IN",
+    "lat": 25.54277,
+    "lng": 79.81235
+  },
+  {
+    "name": "Khardi",
+    "country": "IN",
+    "lat": 19.58763,
+    "lng": 73.38195
+  },
+  {
+    "name": "Khardah",
+    "country": "IN",
+    "lat": 22.71861,
+    "lng": 88.37806
+  },
+  {
+    "name": "Kharar",
+    "country": "IN",
+    "lat": 30.74632,
+    "lng": 76.64689
+  },
+  {
+    "name": "Kharar",
+    "country": "IN",
+    "lat": 22.72211,
+    "lng": 87.67824
+  },
+  {
+    "name": "Kharakvasla",
+    "country": "IN",
+    "lat": 18.43997,
+    "lng": 73.77545
+  },
+  {
+    "name": "Kharagpur",
+    "country": "IN",
+    "lat": 25.12446,
+    "lng": 86.55578
+  },
+  {
+    "name": "Kharagpur",
+    "country": "IN",
+    "lat": 22.33971,
+    "lng": 87.32501
+  },
+  {
+    "name": "Khāpa",
+    "country": "IN",
+    "lat": 21.42243,
+    "lng": 78.98168
+  },
+  {
+    "name": "Khānpur",
+    "country": "IN",
+    "lat": 28.53446,
+    "lng": 78.06546
+  },
+  {
+    "name": "Khānpur",
+    "country": "IN",
+    "lat": 24.73241,
+    "lng": 76.39601
+  },
+  {
+    "name": "Khanna",
+    "country": "IN",
+    "lat": 30.70547,
+    "lng": 76.22196
+  },
+  {
+    "name": "Khaniādhāna",
+    "country": "IN",
+    "lat": 25.02983,
+    "lng": 78.12709
+  },
+  {
+    "name": "Khandwa",
+    "country": "IN",
+    "lat": 21.82427,
+    "lng": 76.35086
+  },
+  {
+    "name": "Khandpara",
+    "country": "IN",
+    "lat": 20.26436,
+    "lng": 85.17673
+  },
+  {
+    "name": "Khandela",
+    "country": "IN",
+    "lat": 27.60499,
+    "lng": 75.502
+  },
+  {
+    "name": "Khānāpur",
+    "country": "IN",
+    "lat": 15.63969,
+    "lng": 74.50847
+  },
+  {
+    "name": "Khammam",
+    "country": "IN",
+    "lat": 17.24767,
+    "lng": 80.14368
+  },
+  {
+    "name": "Khamharia",
+    "country": "IN",
+    "lat": 20.976,
+    "lng": 82.25116
+  },
+  {
+    "name": "Khāmgaon",
+    "country": "IN",
+    "lat": 20.70738,
+    "lng": 76.56827
+  },
+  {
+    "name": "Khambhāt",
+    "country": "IN",
+    "lat": 22.31744,
+    "lng": 72.61916
+  },
+  {
+    "name": "Khambhāliya",
+    "country": "IN",
+    "lat": 22.20685,
+    "lng": 69.65031
+  },
+  {
+    "name": "Khamaria",
+    "country": "IN",
+    "lat": 23.22558,
+    "lng": 79.88007
+  },
+  {
+    "name": "Khamānon Kalān",
+    "country": "IN",
+    "lat": 30.81725,
+    "lng": 76.35478
+  },
+  {
+    "name": "Khallikot",
+    "country": "IN",
+    "lat": 19.60908,
+    "lng": 85.08609
+  },
+  {
+    "name": "Khalīlābād",
+    "country": "IN",
+    "lat": 26.77268,
+    "lng": 83.07179
+  },
+  {
+    "name": "Khali Kachigam",
+    "country": "IN",
+    "lat": 20.38333,
+    "lng": 72.86667
+  },
+  {
+    "name": "Khalāri",
+    "country": "IN",
+    "lat": 23.65063,
+    "lng": 85.00744
+  },
+  {
+    "name": "Khajuraho Group of Monuments",
+    "country": "IN",
+    "lat": 24.84809,
+    "lng": 79.93351
+  },
+  {
+    "name": "Khairāgarh",
+    "country": "IN",
+    "lat": 26.94352,
+    "lng": 77.81816
+  },
+  {
+    "name": "Khairāgarh",
+    "country": "IN",
+    "lat": 21.41859,
+    "lng": 80.97942
+  },
+  {
+    "name": "Khairābād",
+    "country": "IN",
+    "lat": 27.52698,
+    "lng": 80.75461
+  },
+  {
+    "name": "Khairābād",
+    "country": "IN",
+    "lat": 24.6596,
+    "lng": 75.93067
+  },
+  {
+    "name": "Khair",
+    "country": "IN",
+    "lat": 27.94195,
+    "lng": 77.84243
+  },
+  {
+    "name": "Khailār",
+    "country": "IN",
+    "lat": 25.34127,
+    "lng": 78.53133
+  },
+  {
+    "name": "Khagaul",
+    "country": "IN",
+    "lat": 25.57898,
+    "lng": 85.04564
+  },
+  {
+    "name": "Khagaria",
+    "country": "IN",
+    "lat": 25.5022,
+    "lng": 86.46708
+  },
+  {
+    "name": "Khāga",
+    "country": "IN",
+    "lat": 25.77215,
+    "lng": 81.10393
+  },
+  {
+    "name": "Khadki",
+    "country": "IN",
+    "lat": 18.5635,
+    "lng": 73.85205
+  },
+  {
+    "name": "Khada",
+    "country": "IN",
+    "lat": 27.18333,
+    "lng": 83.88333
+  },
+  {
+    "name": "Khāchrod",
+    "country": "IN",
+    "lat": 23.42322,
+    "lng": 75.28185
+  },
+  {
+    "name": "Kheri Sāmpla",
+    "country": "IN",
+    "lat": 28.7781,
+    "lng": 76.7756
+  },
+  {
+    "name": "Kheri Nāngal",
+    "country": "IN",
+    "lat": 29.35436,
+    "lng": 76.97737
+  },
+  {
+    "name": "Khaira",
+    "country": "IN",
+    "lat": 28.59417,
+    "lng": 76.97011
+  },
+  {
+    "name": "Kharghar",
+    "country": "IN",
+    "lat": 19.04979,
+    "lng": 73.07024
+  },
+  {
+    "name": "Khoni",
+    "country": "IN",
+    "lat": 19.31734,
+    "lng": 73.05973
+  },
+  {
+    "name": "Khawzawl",
+    "country": "IN",
+    "lat": 23.51771,
+    "lng": 93.18886
+  },
+  {
+    "name": "Khori Kalān",
+    "country": "IN",
+    "lat": 28.21515,
+    "lng": 76.88147
+  },
+  {
+    "name": "Khairtal",
+    "country": "IN",
+    "lat": 27.80426,
+    "lng": 76.63861
+  },
+  {
+    "name": "Kherli",
+    "country": "IN",
+    "lat": 27.27359,
+    "lng": 76.98613
+  },
+  {
+    "name": "Khera Kalān",
+    "country": "IN",
+    "lat": 28.77445,
+    "lng": 77.11718
+  },
+  {
+    "name": "Khera Khurd",
+    "country": "IN",
+    "lat": 28.77555,
+    "lng": 77.09967
+  },
+  {
+    "name": "Kherlīganj",
+    "country": "IN",
+    "lat": 24.88078,
+    "lng": 76.66821
+  },
+  {
+    "name": "Khadki Buzurg",
+    "country": "IN",
+    "lat": 20.66756,
+    "lng": 77.02226
+  },
+  {
+    "name": "Khanr",
+    "country": "IN",
+    "lat": 24.18082,
+    "lng": 81.28567
+  },
+  {
+    "name": "Khāndbāra",
+    "country": "IN",
+    "lat": 21.30608,
+    "lng": 74.0441
+  },
+  {
+    "name": "Khān Sāhib",
+    "country": "IN",
+    "lat": 33.93284,
+    "lng": 74.65669
+  },
+  {
+    "name": "Khamaria",
+    "country": "IN",
+    "lat": 23.21287,
+    "lng": 80.03134
+  },
+  {
+    "name": "Khairī",
+    "country": "IN",
+    "lat": 22.5983,
+    "lng": 80.39243
+  },
+  {
+    "name": "Khilchiān",
+    "country": "IN",
+    "lat": 31.55211,
+    "lng": 75.17236
+  },
+  {
+    "name": "Khamārī",
+    "country": "IN",
+    "lat": 21.42684,
+    "lng": 80.2345
+  },
+  {
+    "name": "Khotran",
+    "country": "IN",
+    "lat": 31.20128,
+    "lng": 75.80148
+  },
+  {
+    "name": "Khaliapāli",
+    "country": "IN",
+    "lat": 21.36397,
+    "lng": 83.61641
+  },
+  {
+    "name": "Khliehriat",
+    "country": "IN",
+    "lat": 25.35776,
+    "lng": 92.36643
+  },
+  {
+    "name": "Khanpur",
+    "country": "IN",
+    "lat": 23.28352,
+    "lng": 73.68152
+  },
+  {
+    "name": "Khatiguda",
+    "country": "IN",
+    "lat": 19.23752,
+    "lng": 82.78812
+  },
+  {
+    "name": "Kharijapikon",
+    "country": "IN",
+    "lat": 26.03285,
+    "lng": 90.66708
+  },
+  {
+    "name": "Khaira Bari",
+    "country": "IN",
+    "lat": 26.51081,
+    "lng": 90.96887
+  },
+  {
+    "name": "Khuda Alisher",
+    "country": "IN",
+    "lat": 30.77474,
+    "lng": 76.81176
+  },
+  {
+    "name": "Khongapani",
+    "country": "IN",
+    "lat": 23.1912,
+    "lng": 82.16265
+  },
+  {
+    "name": "Khan Pur Dhani",
+    "country": "IN",
+    "lat": 28.70997,
+    "lng": 77.28301
+  },
+  {
+    "name": "Khajoori Khas",
+    "country": "IN",
+    "lat": 28.70958,
+    "lng": 77.2587
+  },
+  {
+    "name": "Kharach",
+    "country": "IN",
+    "lat": 21.45436,
+    "lng": 72.91579
+  },
+  {
+    "name": "Kharaghoda",
+    "country": "IN",
+    "lat": 23.18713,
+    "lng": 71.72664
+  },
+  {
+    "name": "Khapat",
+    "country": "IN",
+    "lat": 21.65414,
+    "lng": 69.61259
+  },
+  {
+    "name": "Khonmoh",
+    "country": "IN",
+    "lat": 34.05786,
+    "lng": 74.94992
+  },
+  {
+    "name": "Khore",
+    "country": "IN",
+    "lat": 32.8226,
+    "lng": 74.51129
+  },
+  {
+    "name": "Kharkhari",
+    "country": "IN",
+    "lat": 23.77764,
+    "lng": 86.23925
+  },
+  {
+    "name": "Khor",
+    "country": "IN",
+    "lat": 24.59236,
+    "lng": 74.81471
+  },
+  {
+    "name": "Kharbav",
+    "country": "IN",
+    "lat": 19.29698,
+    "lng": 72.99631
+  },
+  {
+    "name": "Khapar",
+    "country": "IN",
+    "lat": 21.53296,
+    "lng": 73.93117
+  },
+  {
+    "name": "Kherdi",
+    "country": "IN",
+    "lat": 17.5189,
+    "lng": 73.55656
+  },
+  {
+    "name": "Khadkale",
+    "country": "IN",
+    "lat": 18.76143,
+    "lng": 73.55756
+  },
+  {
+    "name": "Khaira",
+    "country": "IN",
+    "lat": 19.78673,
+    "lng": 72.76161
+  },
+  {
+    "name": "Khariar Road",
+    "country": "IN",
+    "lat": 20.89872,
+    "lng": 82.50893
+  },
+  {
+    "name": "Khambra on Nakodar Road",
+    "country": "IN",
+    "lat": 31.27368,
+    "lng": 75.55749
+  },
+  {
+    "name": "Khanapuram Haveli",
+    "country": "IN",
+    "lat": 17.26239,
+    "lng": 80.16809
+  },
+  {
+    "name": "Khānaqīn",
+    "country": "IQ",
+    "lat": 34.3482,
+    "lng": 45.39065
+  },
+  {
+    "name": "Khāliş",
+    "country": "IQ",
+    "lat": 33.80809,
+    "lng": 44.53343
+  },
+  {
+    "name": "Khorramdarreh",
+    "country": "IR",
+    "lat": 36.20777,
+    "lng": 49.19527
+  },
+  {
+    "name": "Khalīlābād",
+    "country": "IR",
+    "lat": 36.80905,
+    "lng": 49.41486
+  },
+  {
+    "name": "Khowy",
+    "country": "IR",
+    "lat": 38.5503,
+    "lng": 44.9521
+  },
+  {
+    "name": "Khowrmūj",
+    "country": "IR",
+    "lat": 28.6543,
+    "lng": 51.38
+  },
+  {
+    "name": "Khūr",
+    "country": "IR",
+    "lat": 33.77512,
+    "lng": 55.08329
+  },
+  {
+    "name": "Khvānsār",
+    "country": "IR",
+    "lat": 33.22052,
+    "lng": 50.31497
+  },
+  {
+    "name": "Khūsf",
+    "country": "IR",
+    "lat": 32.78108,
+    "lng": 58.89002
+  },
+  {
+    "name": "Khorramshahr",
+    "country": "IR",
+    "lat": 30.44079,
+    "lng": 48.18428
+  },
+  {
+    "name": "Khorramabad",
+    "country": "IR",
+    "lat": 33.48778,
+    "lng": 48.35583
+  },
+  {
+    "name": "Khonj",
+    "country": "IR",
+    "lat": 27.8913,
+    "lng": 53.4344
+  },
+  {
+    "name": "Khondāb",
+    "country": "IR",
+    "lat": 34.3928,
+    "lng": 49.1841
+  },
+  {
+    "name": "Khomeyn",
+    "country": "IR",
+    "lat": 33.63889,
+    "lng": 50.08003
+  },
+  {
+    "name": "Khomārlū",
+    "country": "IR",
+    "lat": 39.1489,
+    "lng": 47.0347
+  },
+  {
+    "name": "Khasht",
+    "country": "IR",
+    "lat": 27.2346,
+    "lng": 53.4352
+  },
+  {
+    "name": "Kherāmeh",
+    "country": "IR",
+    "lat": 29.49896,
+    "lng": 53.31199
+  },
+  {
+    "name": "Khalkhāl",
+    "country": "IR",
+    "lat": 37.61837,
+    "lng": 48.52928
+  },
+  {
+    "name": "Khalīlābād",
+    "country": "IR",
+    "lat": 35.25395,
+    "lng": 58.28566
+  },
+  {
+    "name": "Khārk",
+    "country": "IR",
+    "lat": 29.26139,
+    "lng": 50.33056
+  },
+  {
+    "name": "Khowrzūq",
+    "country": "IR",
+    "lat": 32.778,
+    "lng": 51.64685
+  },
+  {
+    "name": "Khomeynī Shahr",
+    "country": "IR",
+    "lat": 32.6856,
+    "lng": 51.53609
+  },
+  {
+    "name": "Khvāf",
+    "country": "IR",
+    "lat": 34.5763,
+    "lng": 60.14093
+  },
+  {
+    "name": "Khāsh",
+    "country": "IR",
+    "lat": 28.22107,
+    "lng": 61.21582
+  },
+  {
+    "name": "Khuraybat as Sūq",
+    "country": "JO",
+    "lat": 31.87913,
+    "lng": 35.92098
+  },
+  {
+    "name": "Kharjā",
+    "country": "JO",
+    "lat": 32.65988,
+    "lng": 35.88782
+  },
+  {
+    "name": "Khwisero",
+    "country": "KE",
+    "lat": 0.17124,
+    "lng": 34.59466
+  },
+  {
+    "name": "Khayega",
+    "country": "KE",
+    "lat": 0.20888,
+    "lng": 34.77078
+  },
+  {
+    "name": "Khalmion",
+    "country": "KG",
+    "lat": 40.21218,
+    "lng": 71.63274
+  },
+  {
+    "name": "Khpob Ateav",
+    "country": "KH",
+    "lat": 11.06276,
+    "lng": 105.19025
+  },
+  {
+    "name": "Khnach Romeas",
+    "country": "KH",
+    "lat": 13.26428,
+    "lng": 102.95043
+  },
+  {
+    "name": "Khŭm Ânsaông",
+    "country": "KH",
+    "lat": 11.12893,
+    "lng": 105.544
+  },
+  {
+    "name": "Khŭm Ângkôr Ban",
+    "country": "KH",
+    "lat": 11.95581,
+    "lng": 105.20791
+  },
+  {
+    "name": "Khsach Andaet",
+    "country": "KH",
+    "lat": 12.2522,
+    "lng": 105.86726
+  },
+  {
+    "name": "Khromtau",
+    "country": "KZ",
+    "lat": 50.25161,
+    "lng": 58.43574
+  },
+  {
+    "name": "Khantau",
+    "country": "KZ",
+    "lat": 44.22627,
+    "lng": 73.7941
+  },
+  {
+    "name": "Khoa",
+    "country": "LA",
+    "lat": 21.07833,
+    "lng": 102.50608
+  },
+  {
+    "name": "Khouribga",
+    "country": "MA",
+    "lat": 32.88108,
+    "lng": -6.9063
+  },
+  {
+    "name": "Khenifra",
+    "country": "MA",
+    "lat": 32.93492,
+    "lng": -5.66167
+  },
+  {
+    "name": "Khenichet-sur Ouerrha",
+    "country": "MA",
+    "lat": 34.44041,
+    "lng": -5.67879
+  },
+  {
+    "name": "Khemis Sahel",
+    "country": "MA",
+    "lat": 35.25344,
+    "lng": -6.0796
+  },
+  {
+    "name": "Khemisset",
+    "country": "MA",
+    "lat": 33.82404,
+    "lng": -6.06627
+  },
+  {
+    "name": "Khovd",
+    "country": "MN",
+    "lat": 48.00556,
+    "lng": 91.64194
+  },
+  {
+    "name": "Khujirt",
+    "country": "MN",
+    "lat": 46.89704,
+    "lng": 102.76903
+  },
+  {
+    "name": "Kharkhorin",
+    "country": "MN",
+    "lat": 47.19245,
+    "lng": 102.81349
+  },
+  {
+    "name": "Khorixas",
+    "country": "NA",
+    "lat": -20.37711,
+    "lng": 14.96203
+  },
+  {
+    "name": "Khaddamari",
+    "country": "NG",
+    "lat": 11.92589,
+    "lng": 13.23062
+  },
+  {
+    "name": "Khā̃dbāri̇̄",
+    "country": "NP",
+    "lat": 27.37647,
+    "lng": 87.20773
+  },
+  {
+    "name": "Khandallah",
+    "country": "NZ",
+    "lat": -41.245,
+    "lng": 174.79422
+  },
+  {
+    "name": "Khasab",
+    "country": "OM",
+    "lat": 26.17993,
+    "lng": 56.24774
+  },
+  {
+    "name": "Khairpur Mir’s",
+    "country": "PK",
+    "lat": 27.52948,
+    "lng": 68.75915
+  },
+  {
+    "name": "Khuzdar",
+    "country": "PK",
+    "lat": 27.81193,
+    "lng": 66.61096
+  },
+  {
+    "name": "Khushāb",
+    "country": "PK",
+    "lat": 32.29667,
+    "lng": 72.3525
+  },
+  {
+    "name": "Khurarianwala",
+    "country": "PK",
+    "lat": 31.49936,
+    "lng": 73.26763
+  },
+  {
+    "name": "Khuiratta",
+    "country": "PK",
+    "lat": 33.35731,
+    "lng": 74.02785
+  },
+  {
+    "name": "Khewra",
+    "country": "PK",
+    "lat": 32.6491,
+    "lng": 73.01059
+  },
+  {
+    "name": "Kharian",
+    "country": "PK",
+    "lat": 32.81612,
+    "lng": 73.88697
+  },
+  {
+    "name": "Kharan",
+    "country": "PK",
+    "lat": 28.58459,
+    "lng": 65.41501
+  },
+  {
+    "name": "Khar",
+    "country": "PK",
+    "lat": 34.7361,
+    "lng": 71.52739
+  },
+  {
+    "name": "Khaplu",
+    "country": "PK",
+    "lat": 35.16221,
+    "lng": 76.33381
+  },
+  {
+    "name": "Khanpur",
+    "country": "PK",
+    "lat": 28.64739,
+    "lng": 70.65694
+  },
+  {
+    "name": "Khanpur Mahar",
+    "country": "PK",
+    "lat": 27.84088,
+    "lng": 69.41302
+  },
+  {
+    "name": "Khangarh",
+    "country": "PK",
+    "lat": 29.91446,
+    "lng": 71.16067
+  },
+  {
+    "name": "Khangah Dogran",
+    "country": "PK",
+    "lat": 31.83294,
+    "lng": 73.62213
+  },
+  {
+    "name": "Khanewal",
+    "country": "PK",
+    "lat": 30.30173,
+    "lng": 71.93212
+  },
+  {
+    "name": "Khandowa",
+    "country": "PK",
+    "lat": 32.74255,
+    "lng": 72.73478
+  },
+  {
+    "name": "Khalabat",
+    "country": "PK",
+    "lat": 34.05997,
+    "lng": 72.88963
+  },
+  {
+    "name": "Khairpur Nathan Shah",
+    "country": "PK",
+    "lat": 27.09064,
+    "lng": 67.73489
+  },
+  {
+    "name": "Khairpur Tamewah",
+    "country": "PK",
+    "lat": 29.58139,
+    "lng": 72.23804
+  },
+  {
+    "name": "Khairpur",
+    "country": "PK",
+    "lat": 28.06437,
+    "lng": 69.70363
+  },
+  {
+    "name": "Khadro",
+    "country": "PK",
+    "lat": 26.14713,
+    "lng": 68.71777
+  },
+  {
+    "name": "Khadan Khak",
+    "country": "PK",
+    "lat": 30.75236,
+    "lng": 67.71133
+  },
+  {
+    "name": "Khai Gala",
+    "country": "PK",
+    "lat": 33.84589,
+    "lng": 73.82722
+  },
+  {
+    "name": "Khuzā‘ah",
+    "country": "PS",
+    "lat": 31.30675,
+    "lng": 34.3611
+  },
+  {
+    "name": "Khān Yūnis",
+    "country": "PS",
+    "lat": 31.34018,
+    "lng": 34.30627
+  },
+  {
+    "name": "Kharbathā al Mişbāḩ",
+    "country": "PS",
+    "lat": 31.88546,
+    "lng": 35.07185
+  },
+  {
+    "name": "Khirbat Abū Falāḩ",
+    "country": "PS",
+    "lat": 32.01678,
+    "lng": 35.30135
+  },
+  {
+    "name": "Kharbathā Banī Ḩārith",
+    "country": "PS",
+    "lat": 31.94508,
+    "lng": 35.07194
+  },
+  {
+    "name": "Khārās",
+    "country": "PS",
+    "lat": 31.6148,
+    "lng": 35.04174
+  },
+  {
+    "name": "Khallat al Mayyah",
+    "country": "PS",
+    "lat": 31.44222,
+    "lng": 35.14286
+  },
+  {
+    "name": "Khallat an Nu‘mān",
+    "country": "PS",
+    "lat": 31.71749,
+    "lng": 35.24227
+  },
+  {
+    "name": "Khallat Ḩamāmah",
+    "country": "PS",
+    "lat": 31.7216,
+    "lng": 35.19243
+  },
+  {
+    "name": "Khallat ad Dār",
+    "country": "PS",
+    "lat": 31.49737,
+    "lng": 35.11362
+  },
+  {
+    "name": "Khallat Şāliḩ",
+    "country": "PS",
+    "lat": 31.42013,
+    "lng": 35.11516
+  },
+  {
+    "name": "Khursā",
+    "country": "PS",
+    "lat": 31.48232,
+    "lng": 35.01742
+  },
+  {
+    "name": "Khebda",
+    "country": "RU",
+    "lat": 42.44539,
+    "lng": 46.55161
+  },
+  {
+    "name": "Khvoynaya",
+    "country": "RU",
+    "lat": 58.89665,
+    "lng": 34.512
+  },
+  {
+    "name": "Khvorostyanka",
+    "country": "RU",
+    "lat": 52.61127,
+    "lng": 48.96008
+  },
+  {
+    "name": "Khvatovka",
+    "country": "RU",
+    "lat": 52.35236,
+    "lng": 46.56282
+  },
+  {
+    "name": "Khvastovichi",
+    "country": "RU",
+    "lat": 53.46814,
+    "lng": 35.09294
+  },
+  {
+    "name": "Khvalynsk",
+    "country": "RU",
+    "lat": 52.49114,
+    "lng": 48.10606
+  },
+  {
+    "name": "Khvalovo",
+    "country": "RU",
+    "lat": 59.94774,
+    "lng": 32.73723
+  },
+  {
+    "name": "Khunzakh",
+    "country": "RU",
+    "lat": 42.54286,
+    "lng": 46.70605
+  },
+  {
+    "name": "Khumalag",
+    "country": "RU",
+    "lat": 43.24031,
+    "lng": 44.47521
+  },
+  {
+    "name": "Khuchni",
+    "country": "RU",
+    "lat": 41.95137,
+    "lng": 47.94892
+  },
+  {
+    "name": "Khryashchevka",
+    "country": "RU",
+    "lat": 53.8119,
+    "lng": 49.0916
+  },
+  {
+    "name": "Khrenovoye",
+    "country": "RU",
+    "lat": 51.1183,
+    "lng": 40.2904
+  },
+  {
+    "name": "Khrabrovo",
+    "country": "RU",
+    "lat": 54.89709,
+    "lng": 20.58035
+  },
+  {
+    "name": "Khotynets",
+    "country": "RU",
+    "lat": 53.1286,
+    "lng": 35.3966
+  },
+  {
+    "name": "Khot'kovo",
+    "country": "RU",
+    "lat": 56.25699,
+    "lng": 37.99544
+  },
+  {
+    "name": "Khosta",
+    "country": "RU",
+    "lat": 43.51484,
+    "lng": 39.86825
+  },
+  {
+    "name": "Khoroshëvo-Mnevniki",
+    "country": "RU",
+    "lat": 55.78363,
+    "lng": 37.47137
+  },
+  {
+    "name": "Khorlovo",
+    "country": "RU",
+    "lat": 55.3327,
+    "lng": 38.81365
+  },
+  {
+    "name": "Khomutovo",
+    "country": "RU",
+    "lat": 52.85219,
+    "lng": 37.4408
+  },
+  {
+    "name": "Khomutovka",
+    "country": "RU",
+    "lat": 51.9207,
+    "lng": 34.5619
+  },
+  {
+    "name": "Kholm-Zhirkovskiy",
+    "country": "RU",
+    "lat": 55.511,
+    "lng": 33.48667
+  },
+  {
+    "name": "Kholmskiy",
+    "country": "RU",
+    "lat": 44.84694,
+    "lng": 38.385
+  },
+  {
+    "name": "Kholmogory",
+    "country": "RU",
+    "lat": 64.22814,
+    "lng": 41.65109
+  },
+  {
+    "name": "Kholm",
+    "country": "RU",
+    "lat": 59.26667,
+    "lng": 32.85
+  },
+  {
+    "name": "Kholm",
+    "country": "RU",
+    "lat": 57.14893,
+    "lng": 31.18173
+  },
+  {
+    "name": "Khokhryaki",
+    "country": "RU",
+    "lat": 56.91561,
+    "lng": 53.3221
+  },
+  {
+    "name": "Khokhol’skiy",
+    "country": "RU",
+    "lat": 51.56955,
+    "lng": 38.77088
+  },
+  {
+    "name": "Khokhlovo",
+    "country": "RU",
+    "lat": 59.14923,
+    "lng": 37.39978
+  },
+  {
+    "name": "Khodz’",
+    "country": "RU",
+    "lat": 44.5102,
+    "lng": 40.7142
+  },
+  {
+    "name": "Khlevnoye",
+    "country": "RU",
+    "lat": 52.19472,
+    "lng": 39.08909
+  },
+  {
+    "name": "Khiv",
+    "country": "RU",
+    "lat": 41.75455,
+    "lng": 47.93071
+  },
+  {
+    "name": "Khislavichi",
+    "country": "RU",
+    "lat": 54.18714,
+    "lng": 32.15817
+  },
+  {
+    "name": "Khima",
+    "country": "RU",
+    "lat": 42.65484,
+    "lng": 45.85267
+  },
+  {
+    "name": "Khimki",
+    "country": "RU",
+    "lat": 55.9001,
+    "lng": 37.42848
+  },
+  {
+    "name": "Khelyulya",
+    "country": "RU",
+    "lat": 61.739,
+    "lng": 30.689
+  },
+  {
+    "name": "Khatukay",
+    "country": "RU",
+    "lat": 45.19074,
+    "lng": 39.6632
+  },
+  {
+    "name": "Khasavyurt",
+    "country": "RU",
+    "lat": 43.24872,
+    "lng": 46.58571
+  },
+  {
+    "name": "Kharovsk",
+    "country": "RU",
+    "lat": 59.96425,
+    "lng": 40.19121
+  },
+  {
+    "name": "Kharlu",
+    "country": "RU",
+    "lat": 61.80869,
+    "lng": 30.93783
+  },
+  {
+    "name": "Kharitonovo",
+    "country": "RU",
+    "lat": 61.40092,
+    "lng": 47.49779
+  },
+  {
+    "name": "Kharabali",
+    "country": "RU",
+    "lat": 47.40769,
+    "lng": 47.25391
+  },
+  {
+    "name": "Khanskaya",
+    "country": "RU",
+    "lat": 44.67702,
+    "lng": 39.9616
+  },
+  {
+    "name": "Khanino",
+    "country": "RU",
+    "lat": 54.211,
+    "lng": 36.62292
+  },
+  {
+    "name": "Khamamatyurt",
+    "country": "RU",
+    "lat": 43.60809,
+    "lng": 46.5006
+  },
+  {
+    "name": "Khadzhalmakhi",
+    "country": "RU",
+    "lat": 42.42,
+    "lng": 47.18206
+  },
+  {
+    "name": "Khadyzhensk",
+    "country": "RU",
+    "lat": 44.4258,
+    "lng": 39.5362
+  },
+  {
+    "name": "Khabez",
+    "country": "RU",
+    "lat": 44.04422,
+    "lng": 41.77046
+  },
+  {
+    "name": "Khambi-Irze",
+    "country": "RU",
+    "lat": 43.23502,
+    "lng": 45.45302
+  },
+  {
+    "name": "Khazar",
+    "country": "RU",
+    "lat": 41.9974,
+    "lng": 48.33325
+  },
+  {
+    "name": "Khankala",
+    "country": "RU",
+    "lat": 43.30212,
+    "lng": 45.75564
+  },
+  {
+    "name": "Khulimsunt",
+    "country": "RU",
+    "lat": 62.86333,
+    "lng": 61.64361
+  },
+  {
+    "name": "Khudoyelanskoye",
+    "country": "RU",
+    "lat": 54.70375,
+    "lng": 99.63042
+  },
+  {
+    "name": "Khovu-Aksy",
+    "country": "RU",
+    "lat": 51.13294,
+    "lng": 93.71286
+  },
+  {
+    "name": "Kharp",
+    "country": "RU",
+    "lat": 66.80139,
+    "lng": 65.80806
+  },
+  {
+    "name": "Khanty-Mansiysk",
+    "country": "RU",
+    "lat": 61.00187,
+    "lng": 69.02728
+  },
+  {
+    "name": "Khandagayty",
+    "country": "RU",
+    "lat": 50.73295,
+    "lng": 92.0756
+  },
+  {
+    "name": "Khabary",
+    "country": "RU",
+    "lat": 53.62663,
+    "lng": 79.53657
+  },
+  {
+    "name": "Khuzhir",
+    "country": "RU",
+    "lat": 53.19389,
+    "lng": 107.33972
+  },
+  {
+    "name": "Khurba",
+    "country": "RU",
+    "lat": 50.40657,
+    "lng": 136.88276
+  },
+  {
+    "name": "Khrebtovaya",
+    "country": "RU",
+    "lat": 56.7032,
+    "lng": 104.2494
+  },
+  {
+    "name": "Khorol’",
+    "country": "RU",
+    "lat": 44.42697,
+    "lng": 132.07709
+  },
+  {
+    "name": "Khorinsk",
+    "country": "RU",
+    "lat": 52.16249,
+    "lng": 109.78008
+  },
+  {
+    "name": "Khor",
+    "country": "RU",
+    "lat": 47.88399,
+    "lng": 134.95577
+  },
+  {
+    "name": "Khonkholoy",
+    "country": "RU",
+    "lat": 51.12981,
+    "lng": 108.22696
+  },
+  {
+    "name": "Khomutovo",
+    "country": "RU",
+    "lat": 52.46583,
+    "lng": 104.4025
+  },
+  {
+    "name": "Kholtoson",
+    "country": "RU",
+    "lat": 50.2981,
+    "lng": 103.3097
+  },
+  {
+    "name": "Kholbon",
+    "country": "RU",
+    "lat": 51.9,
+    "lng": 116.25
+  },
+  {
+    "name": "Khingansk",
+    "country": "RU",
+    "lat": 49.12883,
+    "lng": 131.19823
+  },
+  {
+    "name": "Khilok",
+    "country": "RU",
+    "lat": 51.36336,
+    "lng": 110.45926
+  },
+  {
+    "name": "Khatassy",
+    "country": "RU",
+    "lat": 61.90638,
+    "lng": 129.63302
+  },
+  {
+    "name": "Khatanga",
+    "country": "RU",
+    "lat": 71.98002,
+    "lng": 102.47111
+  },
+  {
+    "name": "Khandyga",
+    "country": "RU",
+    "lat": 62.65302,
+    "lng": 135.56649
+  },
+  {
+    "name": "Khabarovsk",
+    "country": "RU",
+    "lat": 48.46204,
+    "lng": 135.0971
+  },
+  {
+    "name": "Khabarovsk Vtoroy",
+    "country": "RU",
+    "lat": 48.43787,
+    "lng": 135.12994
+  },
+  {
+    "name": "Khonuu",
+    "country": "RU",
+    "lat": 66.45545,
+    "lng": 143.22294
+  },
+  {
+    "name": "Kholodnyy",
+    "country": "RU",
+    "lat": 62.71325,
+    "lng": 147.91031
+  },
+  {
+    "name": "Kholmsk",
+    "country": "RU",
+    "lat": 47.04612,
+    "lng": 142.04938
+  },
+  {
+    "name": "Khulayş",
+    "country": "SA",
+    "lat": 22.15553,
+    "lng": 39.32015
+  },
+  {
+    "name": "Khaybar",
+    "country": "SA",
+    "lat": 25.71344,
+    "lng": 39.28031
+  },
+  {
+    "name": "Khamis Mushait",
+    "country": "SA",
+    "lat": 18.3,
+    "lng": 42.73333
+  },
+  {
+    "name": "Khobar",
+    "country": "SA",
+    "lat": 26.27944,
+    "lng": 50.20833
+  },
+  {
+    "name": "Khashm al Qirbah",
+    "country": "SD",
+    "lat": 14.96667,
+    "lng": 35.91667
+  },
+  {
+    "name": "Khartoum North",
+    "country": "SD",
+    "lat": 15.64925,
+    "lng": 32.53458
+  },
+  {
+    "name": "Khartoum",
+    "country": "SD",
+    "lat": 15.55177,
+    "lng": 32.53241
+  },
+  {
+    "name": "Khombole",
+    "country": "SN",
+    "lat": 14.76361,
+    "lng": -16.6916
+  },
+  {
+    "name": "Khushām",
+    "country": "SY",
+    "lat": 35.30088,
+    "lng": 40.28916
+  },
+  {
+    "name": "Khirbat Tīn Nūr",
+    "country": "SY",
+    "lat": 34.70122,
+    "lng": 36.55658
+  },
+  {
+    "name": "Khirbat al Ma‘azzah",
+    "country": "SY",
+    "lat": 34.80454,
+    "lng": 36.00077
+  },
+  {
+    "name": "Khirbat Ghazālah",
+    "country": "SY",
+    "lat": 32.73376,
+    "lng": 36.20455
+  },
+  {
+    "name": "Khān Shaykhūn",
+    "country": "SY",
+    "lat": 35.44208,
+    "lng": 36.65095
+  },
+  {
+    "name": "Khanāşir",
+    "country": "SY",
+    "lat": 35.78159,
+    "lng": 37.49919
+  },
+  {
+    "name": "Khān Arnabah",
+    "country": "SY",
+    "lat": 33.18378,
+    "lng": 35.89158
+  },
+  {
+    "name": "Khura Buri",
+    "country": "TH",
+    "lat": 9.19397,
+    "lng": 98.41514
+  },
+  {
+    "name": "Khun Yuam",
+    "country": "TH",
+    "lat": 18.82958,
+    "lng": 97.93347
+  },
+  {
+    "name": "Khlong Thom",
+    "country": "TH",
+    "lat": 7.9375,
+    "lng": 99.14457
+  },
+  {
+    "name": "Khlong Lan",
+    "country": "TH",
+    "lat": 16.20331,
+    "lng": 99.31997
+  },
+  {
+    "name": "Khlong Khlung",
+    "country": "TH",
+    "lat": 16.21633,
+    "lng": 99.71906
+  },
+  {
+    "name": "Khiri Mat",
+    "country": "TH",
+    "lat": 16.83333,
+    "lng": 99.8
+  },
+  {
+    "name": "Khian Sa",
+    "country": "TH",
+    "lat": 8.84295,
+    "lng": 99.19856
+  },
+  {
+    "name": "Khao Yoi",
+    "country": "TH",
+    "lat": 13.24025,
+    "lng": 99.82428
+  },
+  {
+    "name": "Khao Phanom",
+    "country": "TH",
+    "lat": 8.26549,
+    "lng": 99.05124
+  },
+  {
+    "name": "Khanu Woralaksaburi",
+    "country": "TH",
+    "lat": 16.0617,
+    "lng": 99.86058
+  },
+  {
+    "name": "Khuean Ubonrat",
+    "country": "TH",
+    "lat": 16.75269,
+    "lng": 102.63245
+  },
+  {
+    "name": "Khun Han",
+    "country": "TH",
+    "lat": 14.61739,
+    "lng": 104.42506
+  },
+  {
+    "name": "Khu Mueang",
+    "country": "TH",
+    "lat": 15.2716,
+    "lng": 103.00167
+  },
+  {
+    "name": "Khu Khan",
+    "country": "TH",
+    "lat": 14.71358,
+    "lng": 104.19836
+  },
+  {
+    "name": "Khuan Niang",
+    "country": "TH",
+    "lat": 7.19138,
+    "lng": 100.35355
+  },
+  {
+    "name": "Khuan Khanun",
+    "country": "TH",
+    "lat": 7.7347,
+    "lng": 100.00931
+  },
+  {
+    "name": "Khuan Kalong",
+    "country": "TH",
+    "lat": 6.84538,
+    "lng": 100.07148
+  },
+  {
+    "name": "Khueang Nai",
+    "country": "TH",
+    "lat": 15.38989,
+    "lng": 104.55083
+  },
+  {
+    "name": "Khuan Don",
+    "country": "TH",
+    "lat": 6.78758,
+    "lng": 100.07778
+  },
+  {
+    "name": "Kho Wang",
+    "country": "TH",
+    "lat": 15.36998,
+    "lng": 104.35231
+  },
+  {
+    "name": "Khon Sawan",
+    "country": "TH",
+    "lat": 15.93192,
+    "lng": 102.28103
+  },
+  {
+    "name": "Khon San",
+    "country": "TH",
+    "lat": 16.61286,
+    "lng": 101.91944
+  },
+  {
+    "name": "Khon Kaen",
+    "country": "TH",
+    "lat": 16.44671,
+    "lng": 102.833
+  },
+  {
+    "name": "Khong Chiam",
+    "country": "TH",
+    "lat": 15.31856,
+    "lng": 105.49506
+  },
+  {
+    "name": "Khong",
+    "country": "TH",
+    "lat": 15.44393,
+    "lng": 102.32862
+  },
+  {
+    "name": "Khon Buri",
+    "country": "TH",
+    "lat": 14.52541,
+    "lng": 102.24591
+  },
+  {
+    "name": "Khok Si Suphan",
+    "country": "TH",
+    "lat": 17.04507,
+    "lng": 104.2756
+  },
+  {
+    "name": "Khok Samrong",
+    "country": "TH",
+    "lat": 15.06649,
+    "lng": 100.72233
+  },
+  {
+    "name": "Khok Pho",
+    "country": "TH",
+    "lat": 6.73064,
+    "lng": 101.09619
+  },
+  {
+    "name": "Khok Charoen",
+    "country": "TH",
+    "lat": 15.37927,
+    "lng": 100.8187
+  },
+  {
+    "name": "Khlung",
+    "country": "TH",
+    "lat": 12.45467,
+    "lng": 102.22142
+  },
+  {
+    "name": "Khlong Yai",
+    "country": "TH",
+    "lat": 11.77645,
+    "lng": 102.88567
+  },
+  {
+    "name": "Khlong San",
+    "country": "TH",
+    "lat": 13.73086,
+    "lng": 100.50903
+  },
+  {
+    "name": "Khlong Luang",
+    "country": "TH",
+    "lat": 14.06467,
+    "lng": 100.64578
+  },
+  {
+    "name": "Khlong Hat",
+    "country": "TH",
+    "lat": 13.45177,
+    "lng": 102.29823
+  },
+  {
+    "name": "Khemarat",
+    "country": "TH",
+    "lat": 16.04252,
+    "lng": 105.21836
+  },
+  {
+    "name": "Khao Wong",
+    "country": "TH",
+    "lat": 16.70008,
+    "lng": 104.09019
+  },
+  {
+    "name": "Khao Saming",
+    "country": "TH",
+    "lat": 12.35353,
+    "lng": 102.4355
+  },
+  {
+    "name": "Khao Chaison",
+    "country": "TH",
+    "lat": 7.46125,
+    "lng": 100.13372
+  },
+  {
+    "name": "Kham Thale So",
+    "country": "TH",
+    "lat": 14.96083,
+    "lng": 101.94789
+  },
+  {
+    "name": "Kham Ta Kla",
+    "country": "TH",
+    "lat": 17.85231,
+    "lng": 103.75657
+  },
+  {
+    "name": "Kham Sakae Saeng",
+    "country": "TH",
+    "lat": 15.33221,
+    "lng": 102.17278
+  },
+  {
+    "name": "Kham Muang",
+    "country": "TH",
+    "lat": 16.92902,
+    "lng": 103.63518
+  },
+  {
+    "name": "Kham Khuean Kaeo",
+    "country": "TH",
+    "lat": 15.65233,
+    "lng": 104.30861
+  },
+  {
+    "name": "Khamcha-i",
+    "country": "TH",
+    "lat": 16.57764,
+    "lng": 104.41956
+  },
+  {
+    "name": "Khok Sung",
+    "country": "TH",
+    "lat": 13.83824,
+    "lng": 102.62254
+  },
+  {
+    "name": "Khlong Khuean",
+    "country": "TH",
+    "lat": 13.79131,
+    "lng": 101.16353
+  },
+  {
+    "name": "Khlong Hoi Khong",
+    "country": "TH",
+    "lat": 6.89865,
+    "lng": 100.38885
+  },
+  {
+    "name": "Khao Chakan",
+    "country": "TH",
+    "lat": 13.6535,
+    "lng": 102.08825
+  },
+  {
+    "name": "Khlong Toei",
+    "country": "TH",
+    "lat": 13.71669,
+    "lng": 100.57159
+  },
+  {
+    "name": "Khan Na Yao",
+    "country": "TH",
+    "lat": 13.82609,
+    "lng": 100.67933
+  },
+  {
+    "name": "Khun Tan",
+    "country": "TH",
+    "lat": 19.83353,
+    "lng": 100.25858
+  },
+  {
+    "name": "Khwaeng Bang Khae",
+    "country": "TH",
+    "lat": 13.69162,
+    "lng": 100.40448
+  },
+  {
+    "name": "Khao Chamao",
+    "country": "TH",
+    "lat": 12.97586,
+    "lng": 101.68511
+  },
+  {
+    "name": "Khao Khitchakut",
+    "country": "TH",
+    "lat": 12.80481,
+    "lng": 102.11514
+  },
+  {
+    "name": "Khok Pho Chai",
+    "country": "TH",
+    "lat": 16.08375,
+    "lng": 102.399
+  },
+  {
+    "name": "Khong Chai",
+    "country": "TH",
+    "lat": 16.26025,
+    "lng": 103.45828
+  },
+  {
+    "name": "Khwao Sinarin",
+    "country": "TH",
+    "lat": 15.00244,
+    "lng": 103.59154
+  },
+  {
+    "name": "Khao Kho",
+    "country": "TH",
+    "lat": 16.65791,
+    "lng": 101.02208
+  },
+  {
+    "name": "Khaen Dong",
+    "country": "TH",
+    "lat": 15.32476,
+    "lng": 103.13343
+  },
+  {
+    "name": "Khet Rop Mueang",
+    "country": "TH",
+    "lat": 14.06244,
+    "lng": 101.36066
+  },
+  {
+    "name": "Khetsamsenok",
+    "country": "TH",
+    "lat": 13.79284,
+    "lng": 100.58298
+  },
+  {
+    "name": "Khwaeng Bang Plat",
+    "country": "TH",
+    "lat": 13.78775,
+    "lng": 100.49469
+  },
+  {
+    "name": "Khlong Sam Wa",
+    "country": "TH",
+    "lat": 13.87139,
+    "lng": 100.73719
+  },
+  {
+    "name": "Khlong Chan",
+    "country": "TH",
+    "lat": 13.78126,
+    "lng": 100.64506
+  },
+  {
+    "name": "Khlong Kum",
+    "country": "TH",
+    "lat": 13.78843,
+    "lng": 100.68033
+  },
+  {
+    "name": "Khovaling",
+    "country": "TJ",
+    "lat": 38.34194,
+    "lng": 69.97531
+  },
+  {
+    "name": "Khorugh",
+    "country": "TJ",
+    "lat": 37.48974,
+    "lng": 71.55304
+  },
+  {
+    "name": "Khodzha-Maston",
+    "country": "TJ",
+    "lat": 38.74457,
+    "lng": 68.62702
+  },
+  {
+    "name": "Khujand",
+    "country": "TJ",
+    "lat": 40.28256,
+    "lng": 69.62216
+  },
+  {
+    "name": "Khunays",
+    "country": "TN",
+    "lat": 35.71667,
+    "lng": 10.81667
+  },
+  {
+    "name": "Khledia",
+    "country": "TN",
+    "lat": 36.64609,
+    "lng": 10.19343
+  },
+  {
+    "name": "Khrustalnyi",
+    "country": "UA",
+    "lat": 48.13954,
+    "lng": 38.93715
+  },
+  {
+    "name": "Khrestivka",
+    "country": "UA",
+    "lat": 48.14918,
+    "lng": 38.35944
+  },
+  {
+    "name": "Khyriv",
+    "country": "UA",
+    "lat": 49.53345,
+    "lng": 22.85312
+  },
+  {
+    "name": "Khust",
+    "country": "UA",
+    "lat": 48.17193,
+    "lng": 23.29791
+  },
+  {
+    "name": "Khriatska",
+    "country": "UA",
+    "lat": 48.1655,
+    "lng": 26.18714
+  },
+  {
+    "name": "Khrystoforivka",
+    "country": "UA",
+    "lat": 47.98295,
+    "lng": 33.0943
+  },
+  {
+    "name": "Khrystoforivka",
+    "country": "UA",
+    "lat": 47.2678,
+    "lng": 32.25637
+  },
+  {
+    "name": "Khrystynivka",
+    "country": "UA",
+    "lat": 48.81282,
+    "lng": 29.96885
+  },
+  {
+    "name": "Khotiv",
+    "country": "UA",
+    "lat": 50.33069,
+    "lng": 30.46836
+  },
+  {
+    "name": "Khotyn",
+    "country": "UA",
+    "lat": 48.50555,
+    "lng": 26.48978
+  },
+  {
+    "name": "Khorostkiv",
+    "country": "UA",
+    "lat": 49.21385,
+    "lng": 25.91964
+  },
+  {
+    "name": "Khorosheve",
+    "country": "UA",
+    "lat": 49.8517,
+    "lng": 36.22759
+  },
+  {
+    "name": "Khorol",
+    "country": "UA",
+    "lat": 49.78286,
+    "lng": 33.27184
+  },
+  {
+    "name": "Khomutets",
+    "country": "UA",
+    "lat": 50.06107,
+    "lng": 33.72042
+  },
+  {
+    "name": "Kholodna Balka",
+    "country": "UA",
+    "lat": 46.60626,
+    "lng": 30.58363
+  },
+  {
+    "name": "Kholmy",
+    "country": "UA",
+    "lat": 51.87096,
+    "lng": 32.60063
+  },
+  {
+    "name": "Kholmske",
+    "country": "UA",
+    "lat": 45.75913,
+    "lng": 29.22759
+  },
+  {
+    "name": "Khodoriv",
+    "country": "UA",
+    "lat": 49.40681,
+    "lng": 24.3113
+  },
+  {
+    "name": "Khmelnytskyi",
+    "country": "UA",
+    "lat": 49.41835,
+    "lng": 26.97936
+  },
+  {
+    "name": "Khmilnyk",
+    "country": "UA",
+    "lat": 49.5581,
+    "lng": 27.95682
+  },
+  {
+    "name": "Khymchyn",
+    "country": "UA",
+    "lat": 48.37965,
+    "lng": 25.14848
+  },
+  {
+    "name": "Kherson",
+    "country": "UA",
+    "lat": 46.63695,
+    "lng": 32.61458
+  },
+  {
+    "name": "Khartsyzk",
+    "country": "UA",
+    "lat": 48.04243,
+    "lng": 38.14728
+  },
+  {
+    "name": "Kharkiv",
+    "country": "UA",
+    "lat": 49.98177,
+    "lng": 36.25475
+  },
+  {
+    "name": "Khutir-Mykhailivskyi",
+    "country": "UA",
+    "lat": 52.04769,
+    "lng": 33.94534
+  },
+  {
+    "name": "Kholmovka",
+    "country": "UA",
+    "lat": 44.6583,
+    "lng": 33.75456
+  },
+  {
+    "name": "Khlibodarske",
+    "country": "UA",
+    "lat": 46.48455,
+    "lng": 30.59374
+  },
+  {
+    "name": "Khánh Vĩnh Yên",
+    "country": "VN",
+    "lat": 18.46312,
+    "lng": 105.7131
+  },
+  {
+    "name": "Khe Sanh",
+    "country": "VN",
+    "lat": 16.62825,
+    "lng": 106.73884
+  },
+  {
+    "name": "Khoái Châu",
+    "country": "VN",
+    "lat": 20.83912,
+    "lng": 105.97755
+  },
+  {
+    "name": "Khe Tre",
+    "country": "VN",
+    "lat": 16.1691,
+    "lng": 107.71793
+  },
+  {
+    "name": "Khâm Đức",
+    "country": "VN",
+    "lat": 15.44508,
+    "lng": 107.79337
+  },
+  {
+    "name": "Khánh Vĩnh",
+    "country": "VN",
+    "lat": 12.28355,
+    "lng": 108.9047
+  },
+  {
+    "name": "Khánh Hải",
+    "country": "VN",
+    "lat": 11.59105,
+    "lng": 109.04052
+  },
+  {
+    "name": "Khawr Maksar",
+    "country": "YE",
+    "lat": 12.81227,
+    "lng": 45.03337
+  },
+  {
+    "name": "Khawrah",
+    "country": "YE",
+    "lat": 14.43201,
+    "lng": 46.15435
+  },
+  {
+    "name": "Khamir",
+    "country": "YE",
+    "lat": 15.98792,
+    "lng": 43.95362
+  },
+  {
+    "name": "Khimār",
+    "country": "YE",
+    "lat": 14.3198,
+    "lng": 46.73922
+  },
+  {
+    "name": "Khayrān",
+    "country": "YE",
+    "lat": 16.02191,
+    "lng": 43.37859
+  },
+  {
+    "name": "Khowa",
+    "country": "ZA",
+    "lat": -31.33306,
+    "lng": 27.85
+  },
+  {
+    "name": "Khaya Mnandi",
+    "country": "ZA",
+    "lat": -33.82628,
+    "lng": 25.45378
+  },
+  {
+    "name": "Khomanani",
+    "country": "ZA",
+    "lat": -24.83782,
+    "lng": 31.30996
+  },
+  {
+    "name": "Khokhamoya",
+    "country": "ZA",
+    "lat": -24.95375,
+    "lng": 31.32135
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Izačić",
+    "country": "BA",
+    "lat": 44.87485,
+    "lng": 15.78256
+  },
+  {
+    "name": "Izel",
+    "country": "BE",
+    "lat": 49.69371,
+    "lng": 5.37382
+  },
+  {
+    "name": "Izegem",
+    "country": "BE",
+    "lat": 50.91396,
+    "lng": 3.21378
+  },
+  {
+    "name": "Izambré",
+    "country": "CI",
+    "lat": 6.26527,
+    "lng": -6.02112
+  },
+  {
+    "name": "Iza",
+    "country": "CO",
+    "lat": 5.61203,
+    "lng": -72.9793
+  },
+  {
+    "name": "Izamba",
+    "country": "EC",
+    "lat": -1.22704,
+    "lng": -78.58631
+  },
+  {
+    "name": "Iznatoraf",
+    "country": "ES",
+    "lat": 38.15706,
+    "lng": -3.03242
+  },
+  {
+    "name": "Iznate",
+    "country": "ES",
+    "lat": 36.78333,
+    "lng": -4.18333
+  },
+  {
+    "name": "Iznalloz",
+    "country": "ES",
+    "lat": 37.39258,
+    "lng": -3.52762
+  },
+  {
+    "name": "Iznájar",
+    "country": "ES",
+    "lat": 37.25766,
+    "lng": -4.30836
+  },
+  {
+    "name": "Izurtza",
+    "country": "ES",
+    "lat": 43.15,
+    "lng": -2.63333
+  },
+  {
+    "name": "Izagre",
+    "country": "ES",
+    "lat": 42.2241,
+    "lng": -5.25727
+  },
+  {
+    "name": "Izon",
+    "country": "FR",
+    "lat": 44.92051,
+    "lng": -0.36212
+  },
+  {
+    "name": "Izernore",
+    "country": "FR",
+    "lat": 46.21352,
+    "lng": 5.552
+  },
+  {
+    "name": "Izeaux",
+    "country": "FR",
+    "lat": 45.33473,
+    "lng": 5.42486
+  },
+  {
+    "name": "Iztapa",
+    "country": "GT",
+    "lat": 13.93333,
+    "lng": -90.7075
+  },
+  {
+    "name": "Izsófalva",
+    "country": "HU",
+    "lat": 48.3,
+    "lng": 20.66667
+  },
+  {
+    "name": "Izsák",
+    "country": "HU",
+    "lat": 46.80454,
+    "lng": 19.35172
+  },
+  {
+    "name": "Izano",
+    "country": "IT",
+    "lat": 45.35552,
+    "lng": 9.75138
+  },
+  {
+    "name": "Izumozaki",
+    "country": "JP",
+    "lat": 37.53333,
+    "lng": 138.68333
+  },
+  {
+    "name": "Izumo",
+    "country": "JP",
+    "lat": 35.36667,
+    "lng": 132.76667
+  },
+  {
+    "name": "Izumisano",
+    "country": "JP",
+    "lat": 34.41667,
+    "lng": 135.31667
+  },
+  {
+    "name": "Izumiōtsu",
+    "country": "JP",
+    "lat": 34.5,
+    "lng": 135.4
+  },
+  {
+    "name": "Izumi",
+    "country": "JP",
+    "lat": 34.48333,
+    "lng": 135.43333
+  },
+  {
+    "name": "Izumi",
+    "country": "JP",
+    "lat": 32.08333,
+    "lng": 130.36667
+  },
+  {
+    "name": "Izena",
+    "country": "JP",
+    "lat": 26.91651,
+    "lng": 127.93136
+  },
+  {
+    "name": "Izunokuni",
+    "country": "JP",
+    "lat": 35.03907,
+    "lng": 138.95143
+  },
+  {
+    "name": "Izu",
+    "country": "JP",
+    "lat": 34.97159,
+    "lng": 138.94643
+  },
+  {
+    "name": "Izumizaki",
+    "country": "JP",
+    "lat": 37.15937,
+    "lng": 140.29692
+  },
+  {
+    "name": "Izumisano",
+    "country": "JP",
+    "lat": 34.379,
+    "lng": 135.31981
+  },
+  {
+    "name": "Izvor",
+    "country": "MK",
+    "lat": 42.20322,
+    "lng": 21.57812
+  },
+  {
+    "name": "Izúcar de Matamoros",
+    "country": "MX",
+    "lat": 18.60157,
+    "lng": -98.46152
+  },
+  {
+    "name": "Izamal",
+    "country": "MX",
+    "lat": 20.93537,
+    "lng": -89.01802
+  },
+  {
+    "name": "Iztapalapa",
+    "country": "MX",
+    "lat": 19.35529,
+    "lng": -99.06224
+  },
+  {
+    "name": "Iztacalco",
+    "country": "MX",
+    "lat": 19.39528,
+    "lng": -99.09778
+  },
+  {
+    "name": "Iztacapa",
+    "country": "MX",
+    "lat": 21.37,
+    "lng": -98.94167
+  },
+  {
+    "name": "Izotepec",
+    "country": "MX",
+    "lat": 17.585,
+    "lng": -99.95444
+  },
+  {
+    "name": "Izkī",
+    "country": "OM",
+    "lat": 22.93333,
+    "lng": 57.76667
+  },
+  {
+    "name": "Izcuchaca",
+    "country": "PE",
+    "lat": -12.50064,
+    "lng": -74.99718
+  },
+  {
+    "name": "Izbica",
+    "country": "PL",
+    "lat": 50.88728,
+    "lng": 23.15248
+  },
+  {
+    "name": "Izdebnik",
+    "country": "PL",
+    "lat": 49.87218,
+    "lng": 19.76801
+  },
+  {
+    "name": "Izbicko",
+    "country": "PL",
+    "lat": 50.57163,
+    "lng": 18.15585
+  },
+  {
+    "name": "Izbica Kujawska",
+    "country": "PL",
+    "lat": 52.42073,
+    "lng": 18.7627
+  },
+  {
+    "name": "Izabelin",
+    "country": "PL",
+    "lat": 52.29992,
+    "lng": 20.81729
+  },
+  {
+    "name": "Izabelin C",
+    "country": "PL",
+    "lat": 52.29929,
+    "lng": 20.80381
+  },
+  {
+    "name": "Izvoru",
+    "country": "RO",
+    "lat": 45.19249,
+    "lng": 26.59154
+  },
+  {
+    "name": "Izvoru Dulce",
+    "country": "RO",
+    "lat": 45.34178,
+    "lng": 26.7773
+  },
+  {
+    "name": "Izvoru de Sus",
+    "country": "RO",
+    "lat": 44.81667,
+    "lng": 24.65
+  },
+  {
+    "name": "Izvoru Crişului",
+    "country": "RO",
+    "lat": 46.83333,
+    "lng": 23.1
+  },
+  {
+    "name": "Izvoru Bârzii",
+    "country": "RO",
+    "lat": 44.70667,
+    "lng": 22.67417
+  },
+  {
+    "name": "Izvoru Berheciului",
+    "country": "RO",
+    "lat": 46.58333,
+    "lng": 27.21667
+  },
+  {
+    "name": "Izvoru",
+    "country": "RO",
+    "lat": 44.49414,
+    "lng": 25.0647
+  },
+  {
+    "name": "Izvoarele Sucevei",
+    "country": "RO",
+    "lat": 47.75,
+    "lng": 25.18333
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 47.04241,
+    "lng": 26.9023
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 46.17011,
+    "lng": 23.90377
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 45.03333,
+    "lng": 28.53333
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 45.03333,
+    "lng": 25.26667
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 44.30958,
+    "lng": 22.66348
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 44.26667,
+    "lng": 24.51667
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 44.16968,
+    "lng": 26.31374
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 44.03389,
+    "lng": 25.77472
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 43.81667,
+    "lng": 25.38333
+  },
+  {
+    "name": "Izvoare",
+    "country": "RO",
+    "lat": 46.91013,
+    "lng": 26.47014
+  },
+  {
+    "name": "Izvoare",
+    "country": "RO",
+    "lat": 46.74699,
+    "lng": 26.80221
+  },
+  {
+    "name": "Izvoare",
+    "country": "RO",
+    "lat": 44.14773,
+    "lng": 23.29582
+  },
+  {
+    "name": "Izvin",
+    "country": "RO",
+    "lat": 45.80034,
+    "lng": 21.46066
+  },
+  {
+    "name": "Izimșa",
+    "country": "RO",
+    "lat": 44.17819,
+    "lng": 22.95649
+  },
+  {
+    "name": "Izbiceni",
+    "country": "RO",
+    "lat": 43.82222,
+    "lng": 24.66331
+  },
+  {
+    "name": "Izvoarele",
+    "country": "RO",
+    "lat": 45.28376,
+    "lng": 26.00119
+  },
+  {
+    "name": "Izbište",
+    "country": "RS",
+    "lat": 45.02253,
+    "lng": 21.18388
+  },
+  {
+    "name": "Izoplit",
+    "country": "RU",
+    "lat": 56.62558,
+    "lng": 36.22198
+  },
+  {
+    "name": "Izobil’nyy",
+    "country": "RU",
+    "lat": 45.36653,
+    "lng": 41.7091
+  },
+  {
+    "name": "Iznoski",
+    "country": "RU",
+    "lat": 54.9878,
+    "lng": 35.30928
+  },
+  {
+    "name": "Izmaylovo",
+    "country": "RU",
+    "lat": 55.78677,
+    "lng": 37.80165
+  },
+  {
+    "name": "Izmaylovo",
+    "country": "RU",
+    "lat": 53.72114,
+    "lng": 47.24581
+  },
+  {
+    "name": "Izmalkovo",
+    "country": "RU",
+    "lat": 52.68819,
+    "lng": 37.96638
+  },
+  {
+    "name": "Izhma",
+    "country": "RU",
+    "lat": 65.00798,
+    "lng": 53.91126
+  },
+  {
+    "name": "Izhevskoye",
+    "country": "RU",
+    "lat": 54.557,
+    "lng": 40.8753
+  },
+  {
+    "name": "Izhevsk",
+    "country": "RU",
+    "lat": 56.85225,
+    "lng": 53.19862
+  },
+  {
+    "name": "Izborsk",
+    "country": "RU",
+    "lat": 57.70757,
+    "lng": 27.86291
+  },
+  {
+    "name": "Izberbash",
+    "country": "RU",
+    "lat": 42.56705,
+    "lng": 47.87546
+  },
+  {
+    "name": "Izumrud",
+    "country": "RU",
+    "lat": 57.07881,
+    "lng": 61.39932
+  },
+  {
+    "name": "Izhmorskiy",
+    "country": "RU",
+    "lat": 56.19216,
+    "lng": 86.64162
+  },
+  {
+    "name": "Izvestkovyy",
+    "country": "RU",
+    "lat": 48.97984,
+    "lng": 131.55547
+  },
+  {
+    "name": "Izmaylovo",
+    "country": "RU",
+    "lat": 55.56428,
+    "lng": 37.64254
+  },
+  {
+    "name": "Izluchinsk",
+    "country": "RU",
+    "lat": 60.97944,
+    "lng": 76.92421
+  },
+  {
+    "name": "Izola",
+    "country": "SI",
+    "lat": 45.53661,
+    "lng": 13.66015
+  },
+  {
+    "name": "Izlake",
+    "country": "SI",
+    "lat": 46.15,
+    "lng": 14.95
+  },
+  {
+    "name": "Izalco",
+    "country": "SV",
+    "lat": 13.74472,
+    "lng": -89.67306
+  },
+  {
+    "name": "Izra‘",
+    "country": "SY",
+    "lat": 32.86709,
+    "lng": 36.25072
+  },
+  {
+    "name": "İzmir",
+    "country": "TR",
+    "lat": 38.41273,
+    "lng": 27.13838
+  },
+  {
+    "name": "İznik",
+    "country": "TR",
+    "lat": 40.42861,
+    "lng": 29.72111
+  },
+  {
+    "name": "İzmit",
+    "country": "TR",
+    "lat": 40.76499,
+    "lng": 29.92928
+  },
+  {
+    "name": "Izazi",
+    "country": "TZ",
+    "lat": -7.2,
+    "lng": 35.73333
+  },
+  {
+    "name": "Izyumovka",
+    "country": "UA",
+    "lat": 45.04437,
+    "lng": 35.13717
+  },
+  {
+    "name": "Izium",
+    "country": "UA",
+    "lat": 49.20697,
+    "lng": 37.27679
+  },
+  {
+    "name": "Iziaslav",
+    "country": "UA",
+    "lat": 50.11978,
+    "lng": 26.82475
+  },
+  {
+    "name": "Izvaryne",
+    "country": "UA",
+    "lat": 48.28696,
+    "lng": 39.89428
+  },
+  {
+    "name": "Izobil’noye",
+    "country": "UA",
+    "lat": 45.57019,
+    "lng": 34.94469
+  },
+  {
+    "name": "Izobil’noye",
+    "country": "UA",
+    "lat": 44.70276,
+    "lng": 34.35357
+  },
+  {
+    "name": "Izmail",
+    "country": "UA",
+    "lat": 45.35058,
+    "lng": 28.83751
+  },
+  {
+    "name": "Iza",
+    "country": "UA",
+    "lat": 48.21525,
+    "lng": 23.32867
+  },
+  {
+    "name": "Izumrudnoye",
+    "country": "UA",
+    "lat": 45.73704,
+    "lng": 34.41299
+  },
+  {
+    "name": "Izboskan",
+    "country": "UZ",
+    "lat": 41.03766,
+    "lng": 72.33659
+  },
+  {
+    "name": "Izingolweni",
+    "country": "ZA",
+    "lat": -30.78409,
+    "lng": 30.12294
+  }
+]

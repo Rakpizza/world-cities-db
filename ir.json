@@ -1,0 +1,1016 @@
+[
+  {
+    "name": "Iruya",
+    "country": "AR",
+    "lat": -22.79189,
+    "lng": -65.21703
+  },
+  {
+    "name": "Irschen",
+    "country": "AT",
+    "lat": 46.75694,
+    "lng": 13.02528
+  },
+  {
+    "name": "Irrsdorf",
+    "country": "AT",
+    "lat": 47.96667,
+    "lng": 13.28333
+  },
+  {
+    "name": "Irdning",
+    "country": "AT",
+    "lat": 47.50529,
+    "lng": 14.10155
+  },
+  {
+    "name": "Irymple",
+    "country": "AU",
+    "lat": -34.23537,
+    "lng": 142.17101
+  },
+  {
+    "name": "Ironbark",
+    "country": "AU",
+    "lat": -36.75478,
+    "lng": 144.26378
+  },
+  {
+    "name": "Irchonwelz",
+    "country": "BE",
+    "lat": 50.62066,
+    "lng": 3.7508
+  },
+  {
+    "name": "Irpa Irpa",
+    "country": "BO",
+    "lat": -17.71667,
+    "lng": -66.26667
+  },
+  {
+    "name": "Irituia",
+    "country": "BR",
+    "lat": -1.77111,
+    "lng": -47.43806
+  },
+  {
+    "name": "Irauçuba",
+    "country": "BR",
+    "lat": -3.74611,
+    "lng": -39.78333
+  },
+  {
+    "name": "Iracema",
+    "country": "BR",
+    "lat": -5.81194,
+    "lng": -38.30583
+  },
+  {
+    "name": "Irupi",
+    "country": "BR",
+    "lat": -20.34528,
+    "lng": -41.64111
+  },
+  {
+    "name": "Iretama",
+    "country": "BR",
+    "lat": -24.42389,
+    "lng": -52.10583
+  },
+  {
+    "name": "Irecê",
+    "country": "BR",
+    "lat": -11.30417,
+    "lng": -41.85583
+  },
+  {
+    "name": "Irati",
+    "country": "BR",
+    "lat": -25.46722,
+    "lng": -50.65111
+  },
+  {
+    "name": "Irará",
+    "country": "BR",
+    "lat": -12.05,
+    "lng": -38.76667
+  },
+  {
+    "name": "Iraquara",
+    "country": "BR",
+    "lat": -12.24861,
+    "lng": -41.61944
+  },
+  {
+    "name": "Irapuru",
+    "country": "BR",
+    "lat": -21.57083,
+    "lng": -51.345
+  },
+  {
+    "name": "Irapuã",
+    "country": "BR",
+    "lat": -21.27944,
+    "lng": -49.40889
+  },
+  {
+    "name": "Irani",
+    "country": "BR",
+    "lat": -27.02472,
+    "lng": -51.90167
+  },
+  {
+    "name": "Iramaia",
+    "country": "BR",
+    "lat": -13.28556,
+    "lng": -40.95111
+  },
+  {
+    "name": "Irajuba",
+    "country": "BR",
+    "lat": -13.25139,
+    "lng": -40.08444
+  },
+  {
+    "name": "Iraí de Minas",
+    "country": "BR",
+    "lat": -18.98389,
+    "lng": -47.46139
+  },
+  {
+    "name": "Iraí",
+    "country": "BR",
+    "lat": -27.19361,
+    "lng": -53.25056
+  },
+  {
+    "name": "Iraceminha",
+    "country": "BR",
+    "lat": -26.8225,
+    "lng": -53.27444
+  },
+  {
+    "name": "Iracemápolis",
+    "country": "BR",
+    "lat": -22.58056,
+    "lng": -47.51861
+  },
+  {
+    "name": "Iranduba",
+    "country": "BR",
+    "lat": -3.28472,
+    "lng": -60.18611
+  },
+  {
+    "name": "Iracema",
+    "country": "BR",
+    "lat": 2.18222,
+    "lng": -61.04111
+  },
+  {
+    "name": "Iracema do Oeste",
+    "country": "BR",
+    "lat": -24.42833,
+    "lng": -53.35472
+  },
+  {
+    "name": "Irati",
+    "country": "BR",
+    "lat": -26.65639,
+    "lng": -52.89222
+  },
+  {
+    "name": "Irineópolis",
+    "country": "BR",
+    "lat": -26.23861,
+    "lng": -50.79972
+  },
+  {
+    "name": "Iroquois Falls",
+    "country": "CA",
+    "lat": 48.76688,
+    "lng": -80.68307
+  },
+  {
+    "name": "Irricana",
+    "country": "CA",
+    "lat": 51.32372,
+    "lng": -113.60475
+  },
+  {
+    "name": "Ironwood",
+    "country": "CA",
+    "lat": 49.12609,
+    "lng": -123.09512
+  },
+  {
+    "name": "Irogogoua",
+    "country": "CI",
+    "lat": 6.41233,
+    "lng": -6.5761
+  },
+  {
+    "name": "Irindékoro",
+    "country": "CI",
+    "lat": 9.4629,
+    "lng": -4.6254
+  },
+  {
+    "name": "Iribafla",
+    "country": "CI",
+    "lat": 6.73042,
+    "lng": -6.11757
+  },
+  {
+    "name": "Iriéfla",
+    "country": "CI",
+    "lat": 7.68645,
+    "lng": -5.85026
+  },
+  {
+    "name": "Iratéké",
+    "country": "CI",
+    "lat": 4.7077,
+    "lng": -7.25869
+  },
+  {
+    "name": "Irassuénou",
+    "country": "CI",
+    "lat": 7.71508,
+    "lng": -5.30867
+  },
+  {
+    "name": "Irianikro",
+    "country": "CI",
+    "lat": 6.85138,
+    "lng": -4.80678
+  },
+  {
+    "name": "Irho La",
+    "country": "CI",
+    "lat": 5.45611,
+    "lng": -3.84831
+  },
+  {
+    "name": "Ira",
+    "country": "CI",
+    "lat": 5.35403,
+    "lng": -4.65894
+  },
+  {
+    "name": "Irobo",
+    "country": "CI",
+    "lat": 5.29358,
+    "lng": -4.79603
+  },
+  {
+    "name": "Irxleben",
+    "country": "DE",
+    "lat": 52.16689,
+    "lng": 11.48064
+  },
+  {
+    "name": "Irsee",
+    "country": "DE",
+    "lat": 47.90815,
+    "lng": 10.57177
+  },
+  {
+    "name": "Irschenberg",
+    "country": "DE",
+    "lat": 47.83333,
+    "lng": 11.91667
+  },
+  {
+    "name": "Irsch",
+    "country": "DE",
+    "lat": 49.7262,
+    "lng": 6.69806
+  },
+  {
+    "name": "Irsch",
+    "country": "DE",
+    "lat": 49.60487,
+    "lng": 6.59547
+  },
+  {
+    "name": "Irrel",
+    "country": "DE",
+    "lat": 49.84539,
+    "lng": 6.45705
+  },
+  {
+    "name": "Irlbach",
+    "country": "DE",
+    "lat": 48.84128,
+    "lng": 12.75135
+  },
+  {
+    "name": "Irchenrieth",
+    "country": "DE",
+    "lat": 49.62286,
+    "lng": 12.22495
+  },
+  {
+    "name": "Irurtzun",
+    "country": "ES",
+    "lat": 42.91667,
+    "lng": -1.83333
+  },
+  {
+    "name": "Irura",
+    "country": "ES",
+    "lat": 43.16651,
+    "lng": -2.06746
+  },
+  {
+    "name": "Irun",
+    "country": "ES",
+    "lat": 43.33904,
+    "lng": -1.78938
+  },
+  {
+    "name": "Irueste",
+    "country": "ES",
+    "lat": 40.61206,
+    "lng": -2.89072
+  },
+  {
+    "name": "Iruelos",
+    "country": "ES",
+    "lat": 41.14135,
+    "lng": -6.32808
+  },
+  {
+    "name": "Irixoa",
+    "country": "ES",
+    "lat": 43.2847,
+    "lng": -8.05916
+  },
+  {
+    "name": "Irañeta",
+    "country": "ES",
+    "lat": 42.92287,
+    "lng": -1.94595
+  },
+  {
+    "name": "Irvillac",
+    "country": "FR",
+    "lat": 48.37032,
+    "lng": -4.21292
+  },
+  {
+    "name": "Irodouër",
+    "country": "FR",
+    "lat": 48.24947,
+    "lng": -1.95002
+  },
+  {
+    "name": "Irmstett",
+    "country": "FR",
+    "lat": 48.58801,
+    "lng": 7.47837
+  },
+  {
+    "name": "Irigny",
+    "country": "FR",
+    "lat": 45.67313,
+    "lng": 4.82243
+  },
+  {
+    "name": "Irvinestown",
+    "country": "GB",
+    "lat": 54.46667,
+    "lng": -7.63333
+  },
+  {
+    "name": "Irvine",
+    "country": "GB",
+    "lat": 55.6194,
+    "lng": -4.65508
+  },
+  {
+    "name": "Irthlingborough",
+    "country": "GB",
+    "lat": 52.32674,
+    "lng": -0.61129
+  },
+  {
+    "name": "Ironbridge",
+    "country": "GB",
+    "lat": 52.62795,
+    "lng": -2.48465
+  },
+  {
+    "name": "Irlam",
+    "country": "GB",
+    "lat": 53.44253,
+    "lng": -2.42323
+  },
+  {
+    "name": "Irchester",
+    "country": "GB",
+    "lat": 52.28108,
+    "lng": -0.6451
+  },
+  {
+    "name": "Iracoubo",
+    "country": "GF",
+    "lat": 5.47952,
+    "lng": -53.20524
+  },
+  {
+    "name": "Irákleio",
+    "country": "GR",
+    "lat": 38.05282,
+    "lng": 23.76523
+  },
+  {
+    "name": "Irákleion",
+    "country": "GR",
+    "lat": 35.32787,
+    "lng": 25.14341
+  },
+  {
+    "name": "Iráklion",
+    "country": "GR",
+    "lat": 40.7568,
+    "lng": 23.0356
+  },
+  {
+    "name": "Irákleia",
+    "country": "GR",
+    "lat": 41.18217,
+    "lng": 23.28243
+  },
+  {
+    "name": "Iralaya",
+    "country": "HN",
+    "lat": 15.0,
+    "lng": -83.23333
+  },
+  {
+    "name": "Iregszemcse",
+    "country": "HU",
+    "lat": 46.69286,
+    "lng": 18.18581
+  },
+  {
+    "name": "Irarututiga",
+    "country": "ID",
+    "lat": -2.5368,
+    "lng": 133.4423
+  },
+  {
+    "name": "Irugūr",
+    "country": "IN",
+    "lat": 11.01782,
+    "lng": 77.06285
+  },
+  {
+    "name": "Irinjālakuda",
+    "country": "IN",
+    "lat": 10.34238,
+    "lng": 76.21124
+  },
+  {
+    "name": "Iringal",
+    "country": "IN",
+    "lat": 11.55929,
+    "lng": 75.61663
+  },
+  {
+    "name": "Irikkūr",
+    "country": "IN",
+    "lat": 11.98668,
+    "lng": 75.55007
+  },
+  {
+    "name": "Irivēri",
+    "country": "IN",
+    "lat": 11.85586,
+    "lng": 75.47362
+  },
+  {
+    "name": "Iroopara",
+    "country": "IN",
+    "lat": 8.60747,
+    "lng": 76.91494
+  },
+  {
+    "name": "Irimbiliyam",
+    "country": "IN",
+    "lat": 10.86242,
+    "lng": 76.09218
+  },
+  {
+    "name": "Iringappuram",
+    "country": "IN",
+    "lat": 10.61032,
+    "lng": 76.0525
+  },
+  {
+    "name": "Iramallūr",
+    "country": "IN",
+    "lat": 10.0619,
+    "lng": 76.57168
+  },
+  {
+    "name": "Irbā",
+    "country": "IN",
+    "lat": 23.45528,
+    "lng": 85.44045
+  },
+  {
+    "name": "Irongmara",
+    "country": "IN",
+    "lat": 24.689,
+    "lng": 92.74221
+  },
+  {
+    "name": "Iranshahr",
+    "country": "IR",
+    "lat": 27.20245,
+    "lng": 60.68476
+  },
+  {
+    "name": "Irsina",
+    "country": "IT",
+    "lat": 40.75015,
+    "lng": 16.23816
+  },
+  {
+    "name": "Irgoli",
+    "country": "IT",
+    "lat": 40.40999,
+    "lng": 9.63135
+  },
+  {
+    "name": "Irma",
+    "country": "IT",
+    "lat": 45.77129,
+    "lng": 10.28457
+  },
+  {
+    "name": "Irbid",
+    "country": "JO",
+    "lat": 32.55556,
+    "lng": 35.85
+  },
+  {
+    "name": "Irino",
+    "country": "JP",
+    "lat": 33.01667,
+    "lng": 133.0
+  },
+  {
+    "name": "Iruma",
+    "country": "JP",
+    "lat": 35.818,
+    "lng": 139.368
+  },
+  {
+    "name": "Iriya",
+    "country": "JP",
+    "lat": 35.72104,
+    "lng": 139.78691
+  },
+  {
+    "name": "Iradan",
+    "country": "KG",
+    "lat": 40.26667,
+    "lng": 72.1
+  },
+  {
+    "name": "Irtyshsk",
+    "country": "KZ",
+    "lat": 53.33365,
+    "lng": 75.45775
+  },
+  {
+    "name": "Irolo",
+    "country": "MX",
+    "lat": 19.73452,
+    "lng": -98.59641
+  },
+  {
+    "name": "Irapuato",
+    "country": "MX",
+    "lat": 20.67675,
+    "lng": -101.35628
+  },
+  {
+    "name": "Irámuco",
+    "country": "MX",
+    "lat": 19.96156,
+    "lng": -100.92202
+  },
+  {
+    "name": "Irimbo",
+    "country": "MX",
+    "lat": 19.70083,
+    "lng": -100.47847
+  },
+  {
+    "name": "Irapeo",
+    "country": "MX",
+    "lat": 19.69334,
+    "lng": -101.05842
+  },
+  {
+    "name": "Iratzio",
+    "country": "MX",
+    "lat": 19.64583,
+    "lng": -101.41194
+  },
+  {
+    "name": "Irewe",
+    "country": "NG",
+    "lat": 6.41692,
+    "lng": 3.14058
+  },
+  {
+    "name": "Iresa-Adu",
+    "country": "NG",
+    "lat": 8.08747,
+    "lng": 4.39264
+  },
+  {
+    "name": "Iragbiji",
+    "country": "NG",
+    "lat": 7.904,
+    "lng": 4.68705
+  },
+  {
+    "name": "Irrua",
+    "country": "NG",
+    "lat": 6.73634,
+    "lng": 6.21984
+  },
+  {
+    "name": "Iray",
+    "country": "PE",
+    "lat": -15.85356,
+    "lng": -72.62974
+  },
+  {
+    "name": "Irosin",
+    "country": "PH",
+    "lat": 12.70013,
+    "lng": 124.03221
+  },
+  {
+    "name": "Irirum",
+    "country": "PH",
+    "lat": 12.61603,
+    "lng": 120.93061
+  },
+  {
+    "name": "Iriga City",
+    "country": "PH",
+    "lat": 13.4324,
+    "lng": 123.4115
+  },
+  {
+    "name": "Iraya",
+    "country": "PH",
+    "lat": 13.25,
+    "lng": 123.51667
+  },
+  {
+    "name": "Irasan",
+    "country": "PH",
+    "lat": 8.526,
+    "lng": 123.206
+  },
+  {
+    "name": "Iraray",
+    "country": "PH",
+    "lat": 8.99361,
+    "lng": 118.05111
+  },
+  {
+    "name": "Irahuan",
+    "country": "PH",
+    "lat": 9.80798,
+    "lng": 118.69191
+  },
+  {
+    "name": "Iraga",
+    "country": "PH",
+    "lat": 17.7015,
+    "lng": 121.6546
+  },
+  {
+    "name": "Irești",
+    "country": "RO",
+    "lat": 45.92993,
+    "lng": 26.94393
+  },
+  {
+    "name": "Iratoşu",
+    "country": "RO",
+    "lat": 46.31667,
+    "lng": 21.2
+  },
+  {
+    "name": "Irig",
+    "country": "RS",
+    "lat": 45.10111,
+    "lng": 19.85833
+  },
+  {
+    "name": "Irig",
+    "country": "RS",
+    "lat": 45.0523,
+    "lng": 19.84448
+  },
+  {
+    "name": "Irkliyevskaya",
+    "country": "RU",
+    "lat": 45.85635,
+    "lng": 39.65381
+  },
+  {
+    "name": "Irganay",
+    "country": "RU",
+    "lat": 42.6465,
+    "lng": 46.91154
+  },
+  {
+    "name": "Irgakly",
+    "country": "RU",
+    "lat": 44.36111,
+    "lng": 44.75556
+  },
+  {
+    "name": "Irtyshskiy",
+    "country": "RU",
+    "lat": 58.33333,
+    "lng": 68.13333
+  },
+  {
+    "name": "Irtyshskiy",
+    "country": "RU",
+    "lat": 54.81426,
+    "lng": 73.58722
+  },
+  {
+    "name": "Irsha",
+    "country": "RU",
+    "lat": 55.9273,
+    "lng": 94.7999
+  },
+  {
+    "name": "Irbit",
+    "country": "RU",
+    "lat": 57.66863,
+    "lng": 63.07072
+  },
+  {
+    "name": "Irbeyskoye",
+    "country": "RU",
+    "lat": 55.64989,
+    "lng": 95.46219
+  },
+  {
+    "name": "Irkutsk",
+    "country": "RU",
+    "lat": 52.29566,
+    "lng": 104.29076
+  },
+  {
+    "name": "Irsta",
+    "country": "SE",
+    "lat": 59.7,
+    "lng": 16.93333
+  },
+  {
+    "name": "Irsta",
+    "country": "SE",
+    "lat": 59.6,
+    "lng": 16.7
+  },
+  {
+    "name": "Iriba",
+    "country": "TD",
+    "lat": 15.11667,
+    "lng": 22.25
+  },
+  {
+    "name": "Irabin de Baixo",
+    "country": "TL",
+    "lat": -8.74861,
+    "lng": 126.69694
+  },
+  {
+    "name": "Iringa",
+    "country": "TZ",
+    "lat": -7.76667,
+    "lng": 35.7
+  },
+  {
+    "name": "Irmino",
+    "country": "UA",
+    "lat": 48.59905,
+    "lng": 38.58824
+  },
+  {
+    "name": "Irshava",
+    "country": "UA",
+    "lat": 48.31227,
+    "lng": 23.04065
+  },
+  {
+    "name": "Irshansk",
+    "country": "UA",
+    "lat": 50.75095,
+    "lng": 28.72387
+  },
+  {
+    "name": "Irpin",
+    "country": "UA",
+    "lat": 50.52175,
+    "lng": 30.25055
+  },
+  {
+    "name": "Irkliiv",
+    "country": "UA",
+    "lat": 49.51893,
+    "lng": 32.33364
+  },
+  {
+    "name": "Iryango",
+    "country": "UG",
+    "lat": -0.96667,
+    "lng": 30.6
+  },
+  {
+    "name": "Irondale",
+    "country": "US",
+    "lat": 33.53816,
+    "lng": -86.70721
+  },
+  {
+    "name": "Irondale",
+    "country": "US",
+    "lat": 33.48067,
+    "lng": -84.35881
+  },
+  {
+    "name": "Irwinton",
+    "country": "US",
+    "lat": 32.81126,
+    "lng": -83.17265
+  },
+  {
+    "name": "Ironville",
+    "country": "US",
+    "lat": 38.45647,
+    "lng": -82.69238
+  },
+  {
+    "name": "Irvine",
+    "country": "US",
+    "lat": 37.70064,
+    "lng": -83.97381
+  },
+  {
+    "name": "Irvington",
+    "country": "US",
+    "lat": 37.88034,
+    "lng": -86.28386
+  },
+  {
+    "name": "Irvington",
+    "country": "US",
+    "lat": 39.28288,
+    "lng": -76.68608
+  },
+  {
+    "name": "Ironton",
+    "country": "US",
+    "lat": 37.59727,
+    "lng": -90.62734
+  },
+  {
+    "name": "Ironton",
+    "country": "US",
+    "lat": 38.53675,
+    "lng": -82.68294
+  },
+  {
+    "name": "Irmo",
+    "country": "US",
+    "lat": 34.08598,
+    "lng": -81.18315
+  },
+  {
+    "name": "Irwin",
+    "country": "US",
+    "lat": 34.69376,
+    "lng": -80.82229
+  },
+  {
+    "name": "Irving",
+    "country": "US",
+    "lat": 32.81402,
+    "lng": -96.94889
+  },
+  {
+    "name": "Irving Park",
+    "country": "US",
+    "lat": 41.95336,
+    "lng": -87.73645
+  },
+  {
+    "name": "Iron Mountain",
+    "country": "US",
+    "lat": 45.82023,
+    "lng": -88.06596
+  },
+  {
+    "name": "Iron River",
+    "country": "US",
+    "lat": 46.09273,
+    "lng": -88.64235
+  },
+  {
+    "name": "Ironwood",
+    "country": "US",
+    "lat": 46.45467,
+    "lng": -90.17101
+  },
+  {
+    "name": "Irvington",
+    "country": "US",
+    "lat": 40.73232,
+    "lng": -74.23487
+  },
+  {
+    "name": "Irondequoit",
+    "country": "US",
+    "lat": 43.2134,
+    "lng": -77.57972
+  },
+  {
+    "name": "Irvington",
+    "country": "US",
+    "lat": 41.03922,
+    "lng": -73.86823
+  },
+  {
+    "name": "Irwin",
+    "country": "US",
+    "lat": 40.32451,
+    "lng": -79.70115
+  },
+  {
+    "name": "Irvine",
+    "country": "US",
+    "lat": 33.66946,
+    "lng": -117.82311
+  },
+  {
+    "name": "Irwindale",
+    "country": "US",
+    "lat": 34.10695,
+    "lng": -117.93534
+  },
+  {
+    "name": "Iraan",
+    "country": "US",
+    "lat": 30.91405,
+    "lng": -101.89791
+  },
+  {
+    "name": "Irrigon",
+    "country": "US",
+    "lat": 45.89569,
+    "lng": -119.49141
+  },
+  {
+    "name": "Iroquois Point",
+    "country": "US",
+    "lat": 21.32776,
+    "lng": -157.98301
+  },
+  {
+    "name": "Irvine Health and Science Complex",
+    "country": "US",
+    "lat": 33.65803,
+    "lng": -117.76525
+  },
+  {
+    "name": "Irapa",
+    "country": "VE",
+    "lat": 10.57006,
+    "lng": -62.58204
+  },
+  {
+    "name": "Irzniq",
+    "country": "XK",
+    "lat": 42.52,
+    "lng": 20.34722
+  }
+]

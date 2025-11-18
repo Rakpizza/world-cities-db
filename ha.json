@@ -1,0 +1,9842 @@
+[
+  {
+    "name": "Hawr al ‘Anz",
+    "country": "AE",
+    "lat": 25.27744,
+    "lng": 55.33675
+  },
+  {
+    "name": "Halwan",
+    "country": "AE",
+    "lat": 25.34586,
+    "lng": 55.42165
+  },
+  {
+    "name": "Havaleas",
+    "country": "AL",
+    "lat": 40.82028,
+    "lng": 19.89694
+  },
+  {
+    "name": "Hasan",
+    "country": "AL",
+    "lat": 41.48278,
+    "lng": 19.69972
+  },
+  {
+    "name": "Hajmel",
+    "country": "AL",
+    "lat": 41.95306,
+    "lng": 19.63778
+  },
+  {
+    "name": "Hayanist",
+    "country": "AM",
+    "lat": 40.11995,
+    "lng": 44.37298
+  },
+  {
+    "name": "Hatsik",
+    "country": "AM",
+    "lat": 40.17143,
+    "lng": 43.94993
+  },
+  {
+    "name": "Haghartsin",
+    "country": "AM",
+    "lat": 40.77614,
+    "lng": 44.96847
+  },
+  {
+    "name": "Haytagh",
+    "country": "AM",
+    "lat": 40.18048,
+    "lng": 44.23328
+  },
+  {
+    "name": "Haykavan",
+    "country": "AM",
+    "lat": 40.80312,
+    "lng": 43.75173
+  },
+  {
+    "name": "Haykavan",
+    "country": "AM",
+    "lat": 40.08893,
+    "lng": 44.03888
+  },
+  {
+    "name": "Hartagyugh",
+    "country": "AM",
+    "lat": 40.8346,
+    "lng": 44.04614
+  },
+  {
+    "name": "Harich",
+    "country": "AM",
+    "lat": 40.60947,
+    "lng": 44.00308
+  },
+  {
+    "name": "Haghtanak",
+    "country": "AM",
+    "lat": 41.2172,
+    "lng": 44.91376
+  },
+  {
+    "name": "Haykashen",
+    "country": "AM",
+    "lat": 40.07233,
+    "lng": 44.30829
+  },
+  {
+    "name": "Haedo",
+    "country": "AR",
+    "lat": -34.64239,
+    "lng": -58.59212
+  },
+  {
+    "name": "Hasenkamp",
+    "country": "AR",
+    "lat": -31.51212,
+    "lng": -59.83537
+  },
+  {
+    "name": "Hall in Tirol",
+    "country": "AT",
+    "lat": 47.28333,
+    "lng": 11.51667
+  },
+  {
+    "name": "Hausmening",
+    "country": "AT",
+    "lat": 48.07074,
+    "lng": 14.81438
+  },
+  {
+    "name": "Hausmannstätten",
+    "country": "AT",
+    "lat": 46.99111,
+    "lng": 15.51139
+  },
+  {
+    "name": "Hausleiten",
+    "country": "AT",
+    "lat": 48.38333,
+    "lng": 16.1
+  },
+  {
+    "name": "Hauskirchen",
+    "country": "AT",
+    "lat": 48.61324,
+    "lng": 16.75872
+  },
+  {
+    "name": "Hausbrunn",
+    "country": "AT",
+    "lat": 48.62602,
+    "lng": 16.82844
+  },
+  {
+    "name": "Haus",
+    "country": "AT",
+    "lat": 47.40997,
+    "lng": 13.76724
+  },
+  {
+    "name": "Haunoldstein",
+    "country": "AT",
+    "lat": 48.2,
+    "lng": 15.45
+  },
+  {
+    "name": "Haugsdorf",
+    "country": "AT",
+    "lat": 48.70762,
+    "lng": 16.07656
+  },
+  {
+    "name": "Haugschlag",
+    "country": "AT",
+    "lat": 48.98333,
+    "lng": 15.05
+  },
+  {
+    "name": "Hatzendorf",
+    "country": "AT",
+    "lat": 46.97686,
+    "lng": 16.00107
+  },
+  {
+    "name": "Hatting",
+    "country": "AT",
+    "lat": 47.2787,
+    "lng": 11.16838
+  },
+  {
+    "name": "Haslach an der Mühl",
+    "country": "AT",
+    "lat": 48.5757,
+    "lng": 14.03984
+  },
+  {
+    "name": "Haselbach",
+    "country": "AT",
+    "lat": 48.25308,
+    "lng": 13.05614
+  },
+  {
+    "name": "Hartmannsdorf",
+    "country": "AT",
+    "lat": 47.05461,
+    "lng": 15.83941
+  },
+  {
+    "name": "Hartl",
+    "country": "AT",
+    "lat": 47.18333,
+    "lng": 15.91667
+  },
+  {
+    "name": "Hartkirchen",
+    "country": "AT",
+    "lat": 48.36349,
+    "lng": 14.00422
+  },
+  {
+    "name": "Hart im Zillertal",
+    "country": "AT",
+    "lat": 47.35106,
+    "lng": 11.86476
+  },
+  {
+    "name": "Hartheim",
+    "country": "AT",
+    "lat": 48.28079,
+    "lng": 14.11426
+  },
+  {
+    "name": "Hartberg",
+    "country": "AT",
+    "lat": 47.28333,
+    "lng": 15.96667
+  },
+  {
+    "name": "Hart",
+    "country": "AT",
+    "lat": 48.26526,
+    "lng": 14.25691
+  },
+  {
+    "name": "Harmannsdorf",
+    "country": "AT",
+    "lat": 48.39724,
+    "lng": 16.3722
+  },
+  {
+    "name": "Harland",
+    "country": "AT",
+    "lat": 48.16162,
+    "lng": 15.63835
+  },
+  {
+    "name": "Haringsee",
+    "country": "AT",
+    "lat": 48.1927,
+    "lng": 16.78741
+  },
+  {
+    "name": "Hardegg",
+    "country": "AT",
+    "lat": 48.85,
+    "lng": 15.85
+  },
+  {
+    "name": "Hard",
+    "country": "AT",
+    "lat": 47.48306,
+    "lng": 9.68306
+  },
+  {
+    "name": "Hannersdorf",
+    "country": "AT",
+    "lat": 47.22895,
+    "lng": 16.3825
+  },
+  {
+    "name": "Handenberg",
+    "country": "AT",
+    "lat": 48.13356,
+    "lng": 13.00751
+  },
+  {
+    "name": "Hallwang",
+    "country": "AT",
+    "lat": 47.85,
+    "lng": 13.08333
+  },
+  {
+    "name": "Hallein",
+    "country": "AT",
+    "lat": 47.68333,
+    "lng": 13.1
+  },
+  {
+    "name": "Halbturn",
+    "country": "AT",
+    "lat": 47.87019,
+    "lng": 16.97542
+  },
+  {
+    "name": "Halbenrain",
+    "country": "AT",
+    "lat": 46.72194,
+    "lng": 15.94667
+  },
+  {
+    "name": "Hainzenberg",
+    "country": "AT",
+    "lat": 47.21788,
+    "lng": 11.90034
+  },
+  {
+    "name": "Hainsdorf im Schwarzautal",
+    "country": "AT",
+    "lat": 46.83583,
+    "lng": 15.64139
+  },
+  {
+    "name": "Hainfeld",
+    "country": "AT",
+    "lat": 48.0339,
+    "lng": 15.77414
+  },
+  {
+    "name": "Hainersdorf",
+    "country": "AT",
+    "lat": 47.11506,
+    "lng": 15.94374
+  },
+  {
+    "name": "Hainburg an der Donau",
+    "country": "AT",
+    "lat": 48.14627,
+    "lng": 16.94504
+  },
+  {
+    "name": "Haiming",
+    "country": "AT",
+    "lat": 47.25,
+    "lng": 10.88333
+  },
+  {
+    "name": "Haidershofen",
+    "country": "AT",
+    "lat": 48.07579,
+    "lng": 14.46131
+  },
+  {
+    "name": "Haiden",
+    "country": "AT",
+    "lat": 47.7179,
+    "lng": 13.56906
+  },
+  {
+    "name": "Haid",
+    "country": "AT",
+    "lat": 48.20477,
+    "lng": 14.25107
+  },
+  {
+    "name": "Haibach im Mühlkreis",
+    "country": "AT",
+    "lat": 48.44429,
+    "lng": 14.34411
+  },
+  {
+    "name": "Hagenbrunn",
+    "country": "AT",
+    "lat": 48.33333,
+    "lng": 16.4
+  },
+  {
+    "name": "Hagenberg im Mühlkreis",
+    "country": "AT",
+    "lat": 48.36788,
+    "lng": 14.51689
+  },
+  {
+    "name": "Hafnerbach",
+    "country": "AT",
+    "lat": 48.21667,
+    "lng": 15.48333
+  },
+  {
+    "name": "Hafendorf",
+    "country": "AT",
+    "lat": 47.45653,
+    "lng": 15.31837
+  },
+  {
+    "name": "Hadres",
+    "country": "AT",
+    "lat": 48.70965,
+    "lng": 16.13038
+  },
+  {
+    "name": "Hadersdorf am Kamp",
+    "country": "AT",
+    "lat": 48.45848,
+    "lng": 15.72051
+  },
+  {
+    "name": "Hackerberg",
+    "country": "AT",
+    "lat": 47.19819,
+    "lng": 16.10568
+  },
+  {
+    "name": "Habach",
+    "country": "AT",
+    "lat": 47.81753,
+    "lng": 13.16252
+  },
+  {
+    "name": "Haag am Hausruck",
+    "country": "AT",
+    "lat": 48.18423,
+    "lng": 13.64373
+  },
+  {
+    "name": "Haag",
+    "country": "AT",
+    "lat": 48.27063,
+    "lng": 14.26875
+  },
+  {
+    "name": "Haag",
+    "country": "AT",
+    "lat": 48.19027,
+    "lng": 15.90135
+  },
+  {
+    "name": "Haag",
+    "country": "AT",
+    "lat": 48.11362,
+    "lng": 14.56753
+  },
+  {
+    "name": "Hart bei Graz",
+    "country": "AT",
+    "lat": 47.04311,
+    "lng": 15.51527
+  },
+  {
+    "name": "Haus im Ennstal",
+    "country": "AT",
+    "lat": 47.41058,
+    "lng": 13.76759
+  },
+  {
+    "name": "Hall bei Admont",
+    "country": "AT",
+    "lat": 47.587,
+    "lng": 14.46372
+  },
+  {
+    "name": "Hart",
+    "country": "AT",
+    "lat": 48.1532,
+    "lng": 15.61569
+  },
+  {
+    "name": "Haidl",
+    "country": "AT",
+    "lat": 48.17267,
+    "lng": 14.05297
+  },
+  {
+    "name": "Harvey",
+    "country": "AU",
+    "lat": -33.07863,
+    "lng": 115.91512
+  },
+  {
+    "name": "Happy Valley",
+    "country": "AU",
+    "lat": -35.08333,
+    "lng": 138.53333
+  },
+  {
+    "name": "Hamersley",
+    "country": "AU",
+    "lat": -31.84898,
+    "lng": 115.80757
+  },
+  {
+    "name": "Halls Creek",
+    "country": "AU",
+    "lat": -18.22485,
+    "lng": 127.66647
+  },
+  {
+    "name": "Hahndorf",
+    "country": "AU",
+    "lat": -35.02863,
+    "lng": 138.80779
+  },
+  {
+    "name": "Hackham",
+    "country": "AU",
+    "lat": -35.15514,
+    "lng": 138.52509
+  },
+  {
+    "name": "Hazelbrook",
+    "country": "AU",
+    "lat": -33.72446,
+    "lng": 150.45839
+  },
+  {
+    "name": "Hay Point",
+    "country": "AU",
+    "lat": -21.29646,
+    "lng": 149.27368
+  },
+  {
+    "name": "Haymarket",
+    "country": "AU",
+    "lat": -33.87868,
+    "lng": 151.20526
+  },
+  {
+    "name": "Hay",
+    "country": "AU",
+    "lat": -34.50903,
+    "lng": 144.84306
+  },
+  {
+    "name": "Hawthorn South",
+    "country": "AU",
+    "lat": -37.8329,
+    "lng": 145.0367
+  },
+  {
+    "name": "Hawthorn",
+    "country": "AU",
+    "lat": -37.81992,
+    "lng": 145.0358
+  },
+  {
+    "name": "Hawks Nest",
+    "country": "AU",
+    "lat": -32.66755,
+    "lng": 152.17831
+  },
+  {
+    "name": "Hatton Vale",
+    "country": "AU",
+    "lat": -27.56667,
+    "lng": 152.46667
+  },
+  {
+    "name": "Hastings",
+    "country": "AU",
+    "lat": -38.3,
+    "lng": 145.18333
+  },
+  {
+    "name": "Harristown",
+    "country": "AU",
+    "lat": -27.58333,
+    "lng": 151.93333
+  },
+  {
+    "name": "Harrington",
+    "country": "AU",
+    "lat": -31.88306,
+    "lng": 152.65924
+  },
+  {
+    "name": "Harlaxton",
+    "country": "AU",
+    "lat": -27.53333,
+    "lng": 151.96667
+  },
+  {
+    "name": "Hanwood",
+    "country": "AU",
+    "lat": -34.33095,
+    "lng": 146.04137
+  },
+  {
+    "name": "Hampton Park",
+    "country": "AU",
+    "lat": -38.03333,
+    "lng": 145.25
+  },
+  {
+    "name": "Hampton",
+    "country": "AU",
+    "lat": -37.95,
+    "lng": 145.0
+  },
+  {
+    "name": "Hamilton",
+    "country": "AU",
+    "lat": -37.74425,
+    "lng": 142.02202
+  },
+  {
+    "name": "Hallam",
+    "country": "AU",
+    "lat": -38.01667,
+    "lng": 145.26667
+  },
+  {
+    "name": "Hadspen",
+    "country": "AU",
+    "lat": -41.50059,
+    "lng": 147.07359
+  },
+  {
+    "name": "Haddon",
+    "country": "AU",
+    "lat": -37.6,
+    "lng": 143.71667
+  },
+  {
+    "name": "Haberfield",
+    "country": "AU",
+    "lat": -33.88296,
+    "lng": 151.14389
+  },
+  {
+    "name": "Hamilton",
+    "country": "AU",
+    "lat": -27.43896,
+    "lng": 153.06287
+  },
+  {
+    "name": "Hawthorne",
+    "country": "AU",
+    "lat": -27.46696,
+    "lng": 153.05779
+  },
+  {
+    "name": "Hawthorn East",
+    "country": "AU",
+    "lat": -37.82484,
+    "lng": 145.0464
+  },
+  {
+    "name": "Hampton East",
+    "country": "AU",
+    "lat": -37.93695,
+    "lng": 145.02863
+  },
+  {
+    "name": "Harrington Park",
+    "country": "AU",
+    "lat": -34.02405,
+    "lng": 150.73501
+  },
+  {
+    "name": "Hawthorndene",
+    "country": "AU",
+    "lat": -35.02229,
+    "lng": 138.63039
+  },
+  {
+    "name": "Halekulani",
+    "country": "AU",
+    "lat": -33.21914,
+    "lng": 151.55251
+  },
+  {
+    "name": "Hammondville",
+    "country": "AU",
+    "lat": -33.94827,
+    "lng": 150.95211
+  },
+  {
+    "name": "Hamilton Hill",
+    "country": "AU",
+    "lat": -32.08451,
+    "lng": 115.77946
+  },
+  {
+    "name": "Hayborough",
+    "country": "AU",
+    "lat": -35.53129,
+    "lng": 138.65037
+  },
+  {
+    "name": "Haven",
+    "country": "AU",
+    "lat": -36.76072,
+    "lng": 142.19426
+  },
+  {
+    "name": "Hamlyn Terrace",
+    "country": "AU",
+    "lat": -33.25125,
+    "lng": 151.47627
+  },
+  {
+    "name": "Hampstead Gardens",
+    "country": "AU",
+    "lat": -34.87448,
+    "lng": 138.62881
+  },
+  {
+    "name": "Hammond Park",
+    "country": "AU",
+    "lat": -32.16853,
+    "lng": 115.8504
+  },
+  {
+    "name": "Halls Head",
+    "country": "AU",
+    "lat": -32.54315,
+    "lng": 115.69665
+  },
+  {
+    "name": "Hannans",
+    "country": "AU",
+    "lat": -30.71909,
+    "lng": 121.4548
+  },
+  {
+    "name": "Harrison",
+    "country": "AU",
+    "lat": -35.19906,
+    "lng": 149.15631
+  },
+  {
+    "name": "Hackett",
+    "country": "AU",
+    "lat": -35.24948,
+    "lng": 149.16352
+  },
+  {
+    "name": "Hawker",
+    "country": "AU",
+    "lat": -35.24707,
+    "lng": 149.03666
+  },
+  {
+    "name": "Hadfield",
+    "country": "AU",
+    "lat": -37.70728,
+    "lng": 144.9416
+  },
+  {
+    "name": "Harris Park",
+    "country": "AU",
+    "lat": -33.82285,
+    "lng": 151.00781
+  },
+  {
+    "name": "Hassall Grove",
+    "country": "AU",
+    "lat": -33.73349,
+    "lng": 150.83542
+  },
+  {
+    "name": "Hazelwood Park",
+    "country": "AU",
+    "lat": -34.93947,
+    "lng": 138.65879
+  },
+  {
+    "name": "Hallett Cove",
+    "country": "AU",
+    "lat": -35.07923,
+    "lng": 138.5146
+  },
+  {
+    "name": "Hawthorn",
+    "country": "AU",
+    "lat": -34.97384,
+    "lng": 138.60738
+  },
+  {
+    "name": "Hackham West",
+    "country": "AU",
+    "lat": -35.14312,
+    "lng": 138.51442
+  },
+  {
+    "name": "Harrisdale",
+    "country": "AU",
+    "lat": -32.11084,
+    "lng": 115.93563
+  },
+  {
+    "name": "Hamilton",
+    "country": "AU",
+    "lat": -32.92207,
+    "lng": 151.74711
+  },
+  {
+    "name": "Hamlyn Heights",
+    "country": "AU",
+    "lat": -38.12108,
+    "lng": 144.32799
+  },
+  {
+    "name": "Hazelwood North",
+    "country": "AU",
+    "lat": -38.26763,
+    "lng": 146.48286
+  },
+  {
+    "name": "Hammarland",
+    "country": "AX",
+    "lat": 60.21667,
+    "lng": 19.75
+  },
+  {
+    "name": "Haftoni",
+    "country": "AZ",
+    "lat": 38.76325,
+    "lng": 48.76223
+  },
+  {
+    "name": "Hadrut",
+    "country": "AZ",
+    "lat": 39.52003,
+    "lng": 47.0319
+  },
+  {
+    "name": "Hacıqabul",
+    "country": "AZ",
+    "lat": 40.03874,
+    "lng": 48.94286
+  },
+  {
+    "name": "Hacı Zeynalabdin",
+    "country": "AZ",
+    "lat": 40.62333,
+    "lng": 49.55861
+  },
+  {
+    "name": "Hacıhüseynli",
+    "country": "AZ",
+    "lat": 41.45639,
+    "lng": 48.64889
+  },
+  {
+    "name": "Han Pijesak",
+    "country": "BA",
+    "lat": 44.08161,
+    "lng": 18.95258
+  },
+  {
+    "name": "Hadžići",
+    "country": "BA",
+    "lat": 43.82222,
+    "lng": 18.20667
+  },
+  {
+    "name": "Hastings",
+    "country": "BB",
+    "lat": 13.07513,
+    "lng": -59.59688
+  },
+  {
+    "name": "Habiganj",
+    "country": "BD",
+    "lat": 24.38044,
+    "lng": 91.41299
+  },
+  {
+    "name": "Hatalia",
+    "country": "BD",
+    "lat": 22.46839,
+    "lng": 89.99351
+  },
+  {
+    "name": "Havré",
+    "country": "BE",
+    "lat": 50.46401,
+    "lng": 4.04675
+  },
+  {
+    "name": "Havinnes",
+    "country": "BE",
+    "lat": 50.61658,
+    "lng": 3.46341
+  },
+  {
+    "name": "Havelange",
+    "country": "BE",
+    "lat": 50.38931,
+    "lng": 5.23816
+  },
+  {
+    "name": "Hautrage",
+    "country": "BE",
+    "lat": 50.48192,
+    "lng": 3.76522
+  },
+  {
+    "name": "Hauset",
+    "country": "BE",
+    "lat": 50.7107,
+    "lng": 6.06969
+  },
+  {
+    "name": "Haulchin",
+    "country": "BE",
+    "lat": 50.38406,
+    "lng": 4.08297
+  },
+  {
+    "name": "Hastière-Lavaux",
+    "country": "BE",
+    "lat": 50.21849,
+    "lng": 4.82446
+  },
+  {
+    "name": "Hasselt",
+    "country": "BE",
+    "lat": 50.93106,
+    "lng": 5.33781
+  },
+  {
+    "name": "Harzé",
+    "country": "BE",
+    "lat": 50.44133,
+    "lng": 5.66706
+  },
+  {
+    "name": "Harelbeke",
+    "country": "BE",
+    "lat": 50.85343,
+    "lng": 3.30935
+  },
+  {
+    "name": "Harchies",
+    "country": "BE",
+    "lat": 50.47963,
+    "lng": 3.69347
+  },
+  {
+    "name": "Hanzinelle",
+    "country": "BE",
+    "lat": 50.29615,
+    "lng": 4.55633
+  },
+  {
+    "name": "Han-sur-Lesse",
+    "country": "BE",
+    "lat": 50.12674,
+    "lng": 5.18623
+  },
+  {
+    "name": "Hansbeke",
+    "country": "BE",
+    "lat": 51.07442,
+    "lng": 3.53571
+  },
+  {
+    "name": "Hanret",
+    "country": "BE",
+    "lat": 50.58155,
+    "lng": 4.9484
+  },
+  {
+    "name": "Hannut",
+    "country": "BE",
+    "lat": 50.67142,
+    "lng": 5.07898
+  },
+  {
+    "name": "Haneffe",
+    "country": "BE",
+    "lat": 50.63835,
+    "lng": 5.32013
+  },
+  {
+    "name": "Handzame",
+    "country": "BE",
+    "lat": 51.0254,
+    "lng": 3.0032
+  },
+  {
+    "name": "Ham-sur-Sambre",
+    "country": "BE",
+    "lat": 50.44368,
+    "lng": 4.67425
+  },
+  {
+    "name": "Ham-sur-Heure",
+    "country": "BE",
+    "lat": 50.323,
+    "lng": 4.38844
+  },
+  {
+    "name": "Hamont",
+    "country": "BE",
+    "lat": 51.25332,
+    "lng": 5.54732
+  },
+  {
+    "name": "Hamois",
+    "country": "BE",
+    "lat": 50.3402,
+    "lng": 5.15619
+  },
+  {
+    "name": "Hamoir",
+    "country": "BE",
+    "lat": 50.42675,
+    "lng": 5.53304
+  },
+  {
+    "name": "Hamme-Mille",
+    "country": "BE",
+    "lat": 50.78022,
+    "lng": 4.71734
+  },
+  {
+    "name": "Hamme",
+    "country": "BE",
+    "lat": 51.09822,
+    "lng": 4.13705
+  },
+  {
+    "name": "Hamipré",
+    "country": "BE",
+    "lat": 49.83734,
+    "lng": 5.45686
+  },
+  {
+    "name": "Haltinne",
+    "country": "BE",
+    "lat": 50.45119,
+    "lng": 5.07731
+  },
+  {
+    "name": "Halle-Booienhoven",
+    "country": "BE",
+    "lat": 50.80534,
+    "lng": 5.11173
+  },
+  {
+    "name": "Halle",
+    "country": "BE",
+    "lat": 51.24075,
+    "lng": 4.64327
+  },
+  {
+    "name": "Halle",
+    "country": "BE",
+    "lat": 50.73385,
+    "lng": 4.23454
+  },
+  {
+    "name": "Hallaar",
+    "country": "BE",
+    "lat": 51.0842,
+    "lng": 4.72918
+  },
+  {
+    "name": "Halen",
+    "country": "BE",
+    "lat": 50.94837,
+    "lng": 5.11096
+  },
+  {
+    "name": "Halanzy",
+    "country": "BE",
+    "lat": 49.56052,
+    "lng": 5.74433
+  },
+  {
+    "name": "Hakendover",
+    "country": "BE",
+    "lat": 50.7959,
+    "lng": 4.98231
+  },
+  {
+    "name": "Haine-Saint-Pierre",
+    "country": "BE",
+    "lat": 50.45747,
+    "lng": 4.20659
+  },
+  {
+    "name": "Haine-Saint-Paul",
+    "country": "BE",
+    "lat": 50.45544,
+    "lng": 4.1885
+  },
+  {
+    "name": "Haillot",
+    "country": "BE",
+    "lat": 50.44247,
+    "lng": 5.15413
+  },
+  {
+    "name": "Haccourt",
+    "country": "BE",
+    "lat": 50.73091,
+    "lng": 5.66963
+  },
+  {
+    "name": "Habay-la-Vieille",
+    "country": "BE",
+    "lat": 49.72329,
+    "lng": 5.61999
+  },
+  {
+    "name": "Habay-la-Neuve",
+    "country": "BE",
+    "lat": 49.7282,
+    "lng": 5.6474
+  },
+  {
+    "name": "Haasrode",
+    "country": "BE",
+    "lat": 50.83169,
+    "lng": 4.72953
+  },
+  {
+    "name": "Haasdonk",
+    "country": "BE",
+    "lat": 51.18151,
+    "lng": 4.24137
+  },
+  {
+    "name": "Haaltert",
+    "country": "BE",
+    "lat": 50.90634,
+    "lng": 4.00093
+  },
+  {
+    "name": "Haacht",
+    "country": "BE",
+    "lat": 50.97737,
+    "lng": 4.63777
+  },
+  {
+    "name": "Hayredin",
+    "country": "BG",
+    "lat": 43.60193,
+    "lng": 23.66135
+  },
+  {
+    "name": "Haskovo",
+    "country": "BG",
+    "lat": 41.93415,
+    "lng": 25.55557
+  },
+  {
+    "name": "Harmanli",
+    "country": "BG",
+    "lat": 41.93233,
+    "lng": 25.90172
+  },
+  {
+    "name": "Hadzhidimovo",
+    "country": "BG",
+    "lat": 41.52222,
+    "lng": 23.86861
+  },
+  {
+    "name": "Hamilton",
+    "country": "BM",
+    "lat": 32.2949,
+    "lng": -64.78303
+  },
+  {
+    "name": "Hamilton Parish",
+    "country": "BM",
+    "lat": 32.34221,
+    "lng": -64.73019
+  },
+  {
+    "name": "Harmonia",
+    "country": "BR",
+    "lat": -29.54778,
+    "lng": -51.42556
+  },
+  {
+    "name": "Hard Bargain",
+    "country": "BS",
+    "lat": 26.31667,
+    "lng": -77.56667
+  },
+  {
+    "name": "Ha",
+    "country": "BT",
+    "lat": 27.38747,
+    "lng": 89.28074
+  },
+  {
+    "name": "Hantsavichy",
+    "country": "BY",
+    "lat": 52.75786,
+    "lng": 26.4309
+  },
+  {
+    "name": "Haradzishcha",
+    "country": "BY",
+    "lat": 53.3247,
+    "lng": 26.0107
+  },
+  {
+    "name": "Haradzyeya",
+    "country": "BY",
+    "lat": 53.3121,
+    "lng": 26.538
+  },
+  {
+    "name": "Hal’shany",
+    "country": "BY",
+    "lat": 54.2585,
+    "lng": 26.0144
+  },
+  {
+    "name": "Hatava",
+    "country": "BY",
+    "lat": 53.7829,
+    "lng": 27.6407
+  },
+  {
+    "name": "Hattieville",
+    "country": "BZ",
+    "lat": 17.44779,
+    "lng": -88.39355
+  },
+  {
+    "name": "Halfmoon Bay",
+    "country": "CA",
+    "lat": 49.51289,
+    "lng": -123.9087
+  },
+  {
+    "name": "Halton Hills",
+    "country": "CA",
+    "lat": 43.6403,
+    "lng": -79.93146
+  },
+  {
+    "name": "Hamilton",
+    "country": "CA",
+    "lat": 43.25011,
+    "lng": -79.84963
+  },
+  {
+    "name": "Hampstead",
+    "country": "CA",
+    "lat": 45.48075,
+    "lng": -73.6467
+  },
+  {
+    "name": "Hampton",
+    "country": "CA",
+    "lat": 45.52876,
+    "lng": -65.85354
+  },
+  {
+    "name": "Hanceville",
+    "country": "CA",
+    "lat": 51.91922,
+    "lng": -123.04458
+  },
+  {
+    "name": "Haney",
+    "country": "CA",
+    "lat": 49.21667,
+    "lng": -122.6
+  },
+  {
+    "name": "Hanna",
+    "country": "CA",
+    "lat": 51.63343,
+    "lng": -111.90181
+  },
+  {
+    "name": "Hanover",
+    "country": "CA",
+    "lat": 44.15009,
+    "lng": -81.03303
+  },
+  {
+    "name": "Hantsport",
+    "country": "CA",
+    "lat": 45.06685,
+    "lng": -64.16544
+  },
+  {
+    "name": "Happy Valley-Goose Bay",
+    "country": "CA",
+    "lat": 53.3038,
+    "lng": -60.32576
+  },
+  {
+    "name": "Harbour Breton",
+    "country": "CA",
+    "lat": 47.48325,
+    "lng": -55.79833
+  },
+  {
+    "name": "Harbour Chines",
+    "country": "CA",
+    "lat": 49.26667,
+    "lng": -122.85
+  },
+  {
+    "name": "Harbour Village",
+    "country": "CA",
+    "lat": 49.26667,
+    "lng": -122.81667
+  },
+  {
+    "name": "Harrison Hot Springs",
+    "country": "CA",
+    "lat": 49.29969,
+    "lng": -121.78586
+  },
+  {
+    "name": "Harriston",
+    "country": "CA",
+    "lat": 43.91199,
+    "lng": -80.87199
+  },
+  {
+    "name": "Hastings-Sunrise",
+    "country": "CA",
+    "lat": 49.28333,
+    "lng": -123.03333
+  },
+  {
+    "name": "Hatzic",
+    "country": "CA",
+    "lat": 49.15,
+    "lng": -122.25
+  },
+  {
+    "name": "Havre-Saint-Pierre",
+    "country": "CA",
+    "lat": 50.24342,
+    "lng": -63.60264
+  },
+  {
+    "name": "Hawkesbury",
+    "country": "CA",
+    "lat": 45.60009,
+    "lng": -74.61595
+  },
+  {
+    "name": "Hay River",
+    "country": "CA",
+    "lat": 60.81555,
+    "lng": -115.79993
+  },
+  {
+    "name": "Halifax",
+    "country": "CA",
+    "lat": 44.64269,
+    "lng": -63.57688
+  },
+  {
+    "name": "Hayes Subdivision",
+    "country": "CA",
+    "lat": 45.05519,
+    "lng": -64.58795
+  },
+  {
+    "name": "Haliburton Village",
+    "country": "CA",
+    "lat": 45.04921,
+    "lng": -78.50854
+  },
+  {
+    "name": "Hauterive",
+    "country": "CA",
+    "lat": 49.19572,
+    "lng": -68.25813
+  },
+  {
+    "name": "Harbour Main-Chapel's Cove-Lakeview",
+    "country": "CA",
+    "lat": 47.4117,
+    "lng": -53.1744
+  },
+  {
+    "name": "Harewood",
+    "country": "CA",
+    "lat": 49.1474,
+    "lng": -123.94739
+  },
+  {
+    "name": "Handsworth",
+    "country": "CA",
+    "lat": 49.35453,
+    "lng": -123.10434
+  },
+  {
+    "name": "Hammond",
+    "country": "CA",
+    "lat": 49.21931,
+    "lng": -122.65327
+  },
+  {
+    "name": "Hamilton",
+    "country": "CA",
+    "lat": 49.17401,
+    "lng": -122.97428
+  },
+  {
+    "name": "Hausen am Albis / Hausen (Dorf)",
+    "country": "CH",
+    "lat": 47.24496,
+    "lng": 8.53299
+  },
+  {
+    "name": "Haslen",
+    "country": "CH",
+    "lat": 47.36931,
+    "lng": 9.36752
+  },
+  {
+    "name": "Hasle",
+    "country": "CH",
+    "lat": 46.97787,
+    "lng": 8.05326
+  },
+  {
+    "name": "Hallau",
+    "country": "CH",
+    "lat": 47.69648,
+    "lng": 8.45827
+  },
+  {
+    "name": "Hadlikon",
+    "country": "CH",
+    "lat": 47.2875,
+    "lng": 8.85719
+  },
+  {
+    "name": "Haag (Rheintal)",
+    "country": "CH",
+    "lat": 47.20989,
+    "lng": 9.48931
+  },
+  {
+    "name": "Hausen",
+    "country": "CH",
+    "lat": 47.46396,
+    "lng": 8.20988
+  },
+  {
+    "name": "Half Berebi",
+    "country": "CI",
+    "lat": 4.55859,
+    "lng": -7.02811
+  },
+  {
+    "name": "Haali Kolie Nzikro",
+    "country": "CI",
+    "lat": 7.03458,
+    "lng": -4.38989
+  },
+  {
+    "name": "Hannié",
+    "country": "CI",
+    "lat": 5.19401,
+    "lng": -7.35304
+  },
+  {
+    "name": "Hana",
+    "country": "CI",
+    "lat": 5.68994,
+    "lng": -6.82328
+  },
+  {
+    "name": "Hallanikro",
+    "country": "CI",
+    "lat": 6.85323,
+    "lng": -5.63957
+  },
+  {
+    "name": "Hacienda La Calera",
+    "country": "CL",
+    "lat": -32.78333,
+    "lng": -71.21667
+  },
+  {
+    "name": "Hanga Roa",
+    "country": "CL",
+    "lat": -27.15253,
+    "lng": -109.42438
+  },
+  {
+    "name": "Hami",
+    "country": "CN",
+    "lat": 42.83393,
+    "lng": 93.50601
+  },
+  {
+    "name": "Hanwang",
+    "country": "CN",
+    "lat": 34.19444,
+    "lng": 117.08333
+  },
+  {
+    "name": "Hancheng",
+    "country": "CN",
+    "lat": 32.51861,
+    "lng": 112.35222
+  },
+  {
+    "name": "Haining",
+    "country": "CN",
+    "lat": 30.53629,
+    "lng": 120.68638
+  },
+  {
+    "name": "Haixing",
+    "country": "CN",
+    "lat": 38.13976,
+    "lng": 117.4921
+  },
+  {
+    "name": "Hanchang",
+    "country": "CN",
+    "lat": 28.70441,
+    "lng": 113.57828
+  },
+  {
+    "name": "Hanyuan",
+    "country": "CN",
+    "lat": 32.834,
+    "lng": 106.25035
+  },
+  {
+    "name": "Haimen",
+    "country": "CN",
+    "lat": 31.89619,
+    "lng": 121.17274
+  },
+  {
+    "name": "Haoxue",
+    "country": "CN",
+    "lat": 30.04761,
+    "lng": 112.46759
+  },
+  {
+    "name": "Haomen",
+    "country": "CN",
+    "lat": 37.37575,
+    "lng": 101.62199
+  },
+  {
+    "name": "Haojiaqiao",
+    "country": "CN",
+    "lat": 38.01667,
+    "lng": 106.28333
+  },
+  {
+    "name": "Hanzhong",
+    "country": "CN",
+    "lat": 33.07507,
+    "lng": 107.02214
+  },
+  {
+    "name": "Hanyuan",
+    "country": "CN",
+    "lat": 34.01083,
+    "lng": 105.29194
+  },
+  {
+    "name": "Hanyin Chengguanzhen",
+    "country": "CN",
+    "lat": 32.89139,
+    "lng": 108.50472
+  },
+  {
+    "name": "Hanting",
+    "country": "CN",
+    "lat": 36.77083,
+    "lng": 119.21083
+  },
+  {
+    "name": "Hanshou",
+    "country": "CN",
+    "lat": 28.90813,
+    "lng": 111.96319
+  },
+  {
+    "name": "Hanjiashu",
+    "country": "CN",
+    "lat": 39.1875,
+    "lng": 117.07306
+  },
+  {
+    "name": "Hanjiang",
+    "country": "CN",
+    "lat": 25.47047,
+    "lng": 119.10348
+  },
+  {
+    "name": "Hanjia",
+    "country": "CN",
+    "lat": 29.29524,
+    "lng": 108.16132
+  },
+  {
+    "name": "Hanji",
+    "country": "CN",
+    "lat": 35.49544,
+    "lng": 102.9926
+  },
+  {
+    "name": "Hangzhou",
+    "country": "CN",
+    "lat": 30.29365,
+    "lng": 120.16142
+  },
+  {
+    "name": "Hangu",
+    "country": "CN",
+    "lat": 39.24889,
+    "lng": 117.78917
+  },
+  {
+    "name": "Hangou",
+    "country": "CN",
+    "lat": 39.29083,
+    "lng": 117.09
+  },
+  {
+    "name": "Hanfeng",
+    "country": "CN",
+    "lat": 31.16946,
+    "lng": 108.4031
+  },
+  {
+    "name": "Handian",
+    "country": "CN",
+    "lat": 36.04583,
+    "lng": 113.04417
+  },
+  {
+    "name": "Handan",
+    "country": "CN",
+    "lat": 36.60999,
+    "lng": 114.48764
+  },
+  {
+    "name": "Hanchuan",
+    "country": "CN",
+    "lat": 30.65,
+    "lng": 113.76667
+  },
+  {
+    "name": "Hancheng",
+    "country": "CN",
+    "lat": 35.46028,
+    "lng": 110.42917
+  },
+  {
+    "name": "Haizhou",
+    "country": "CN",
+    "lat": 34.58167,
+    "lng": 119.12889
+  },
+  {
+    "name": "Haiyang",
+    "country": "CN",
+    "lat": 29.78612,
+    "lng": 118.17698
+  },
+  {
+    "name": "Haitou",
+    "country": "CN",
+    "lat": 19.50563,
+    "lng": 108.95054
+  },
+  {
+    "name": "Haishiwan",
+    "country": "CN",
+    "lat": 36.34628,
+    "lng": 102.85799
+  },
+  {
+    "name": "Haimen",
+    "country": "CN",
+    "lat": 23.19346,
+    "lng": 116.61219
+  },
+  {
+    "name": "Haikou",
+    "country": "CN",
+    "lat": 24.77985,
+    "lng": 102.57548
+  },
+  {
+    "name": "Haikou",
+    "country": "CN",
+    "lat": 20.03421,
+    "lng": 110.34651
+  },
+  {
+    "name": "Haicheng",
+    "country": "CN",
+    "lat": 22.97132,
+    "lng": 115.33462
+  },
+  {
+    "name": "Haidian",
+    "country": "CN",
+    "lat": 39.99064,
+    "lng": 116.28868
+  },
+  {
+    "name": "Hai’an",
+    "country": "CN",
+    "lat": 32.54361,
+    "lng": 120.45
+  },
+  {
+    "name": "Hanshan",
+    "country": "CN",
+    "lat": 36.56667,
+    "lng": 114.53333
+  },
+  {
+    "name": "Harbin",
+    "country": "CN",
+    "lat": 45.75,
+    "lng": 126.65
+  },
+  {
+    "name": "Hanjiayuan",
+    "country": "CN",
+    "lat": 52.06341,
+    "lng": 125.7312
+  },
+  {
+    "name": "Haliut",
+    "country": "CN",
+    "lat": 41.55611,
+    "lng": 108.51972
+  },
+  {
+    "name": "Hailun",
+    "country": "CN",
+    "lat": 47.44663,
+    "lng": 126.92475
+  },
+  {
+    "name": "Hailin",
+    "country": "CN",
+    "lat": 44.57149,
+    "lng": 129.38539
+  },
+  {
+    "name": "Hailar",
+    "country": "CN",
+    "lat": 49.2,
+    "lng": 119.7
+  },
+  {
+    "name": "Haicheng",
+    "country": "CN",
+    "lat": 40.85158,
+    "lng": 122.74754
+  },
+  {
+    "name": "Hanbin",
+    "country": "CN",
+    "lat": 32.88972,
+    "lng": 108.90444
+  },
+  {
+    "name": "Haikuotiankong",
+    "country": "CN",
+    "lat": 22.52881,
+    "lng": 113.9399
+  },
+  {
+    "name": "Hanyuan",
+    "country": "CN",
+    "lat": 33.95489,
+    "lng": 104.68871
+  },
+  {
+    "name": "Haoti",
+    "country": "CN",
+    "lat": 33.97379,
+    "lng": 104.76214
+  },
+  {
+    "name": "Hanban",
+    "country": "CN",
+    "lat": 33.8727,
+    "lng": 104.18424
+  },
+  {
+    "name": "Hanlin",
+    "country": "CN",
+    "lat": 33.47541,
+    "lng": 104.90215
+  },
+  {
+    "name": "Hanwang",
+    "country": "CN",
+    "lat": 33.34313,
+    "lng": 105.01046
+  },
+  {
+    "name": "Ha’ergai Dadui",
+    "country": "CN",
+    "lat": 37.2515,
+    "lng": 100.42133
+  },
+  {
+    "name": "Haolin",
+    "country": "CN",
+    "lat": 33.76791,
+    "lng": 105.21345
+  },
+  {
+    "name": "Hadapu Zhen",
+    "country": "CN",
+    "lat": 34.23132,
+    "lng": 104.22301
+  },
+  {
+    "name": "Hanshang",
+    "country": "CN",
+    "lat": 32.37744,
+    "lng": 119.39302
+  },
+  {
+    "name": "Haiyang",
+    "country": "CN",
+    "lat": 28.73632,
+    "lng": 109.12367
+  },
+  {
+    "name": "Haitang",
+    "country": "CN",
+    "lat": 30.17173,
+    "lng": 107.22991
+  },
+  {
+    "name": "Haokou",
+    "country": "CN",
+    "lat": 29.09287,
+    "lng": 107.831
+  },
+  {
+    "name": "Han’airike",
+    "country": "CN",
+    "lat": 37.54174,
+    "lng": 80.11735
+  },
+  {
+    "name": "Haimen",
+    "country": "CN",
+    "lat": 28.68074,
+    "lng": 121.42408
+  },
+  {
+    "name": "Haidong Zhen",
+    "country": "CN",
+    "lat": 25.70979,
+    "lng": 100.26061
+  },
+  {
+    "name": "Haicheng",
+    "country": "CN",
+    "lat": 21.47775,
+    "lng": 109.11321
+  },
+  {
+    "name": "Hanbin",
+    "country": "CN",
+    "lat": 43.93846,
+    "lng": 81.26144
+  },
+  {
+    "name": "Haiyang",
+    "country": "CN",
+    "lat": 39.05908,
+    "lng": 123.16969
+  },
+  {
+    "name": "Haigang",
+    "country": "CN",
+    "lat": 39.94674,
+    "lng": 119.56329
+  },
+  {
+    "name": "Haoye",
+    "country": "CN",
+    "lat": 22.73538,
+    "lng": 113.8051
+  },
+  {
+    "name": "Haihua Park (Southwest gate)",
+    "country": "CN",
+    "lat": 22.56371,
+    "lng": 113.88745
+  },
+  {
+    "name": "Happy Harbour",
+    "country": "CN",
+    "lat": 22.54702,
+    "lng": 113.88727
+  },
+  {
+    "name": "Hailianting",
+    "country": "CN",
+    "lat": 22.53416,
+    "lng": 114.00067
+  },
+  {
+    "name": "Hato",
+    "country": "CO",
+    "lat": 6.54302,
+    "lng": -73.30826
+  },
+  {
+    "name": "Hatillo de Loba",
+    "country": "CO",
+    "lat": 8.95635,
+    "lng": -74.07819
+  },
+  {
+    "name": "Hacarí",
+    "country": "CO",
+    "lat": 8.32097,
+    "lng": -73.14576
+  },
+  {
+    "name": "Havana",
+    "country": "CU",
+    "lat": 23.13302,
+    "lng": -82.38304
+  },
+  {
+    "name": "Hazlov",
+    "country": "CZ",
+    "lat": 50.15634,
+    "lng": 12.27238
+  },
+  {
+    "name": "Havlíčkův Brod",
+    "country": "CZ",
+    "lat": 49.6069,
+    "lng": 15.57937
+  },
+  {
+    "name": "Havířov",
+    "country": "CZ",
+    "lat": 49.77984,
+    "lng": 18.43688
+  },
+  {
+    "name": "Hať",
+    "country": "CZ",
+    "lat": 49.94644,
+    "lng": 18.23931
+  },
+  {
+    "name": "Hartmanice",
+    "country": "CZ",
+    "lat": 49.16948,
+    "lng": 13.45455
+  },
+  {
+    "name": "Harrachov",
+    "country": "CZ",
+    "lat": 50.77209,
+    "lng": 15.43141
+  },
+  {
+    "name": "Hanušovice",
+    "country": "CZ",
+    "lat": 50.08049,
+    "lng": 16.93641
+  },
+  {
+    "name": "Halenkovice",
+    "country": "CZ",
+    "lat": 49.17102,
+    "lng": 17.47156
+  },
+  {
+    "name": "Halenkov",
+    "country": "CZ",
+    "lat": 49.3174,
+    "lng": 18.14749
+  },
+  {
+    "name": "Habry",
+    "country": "CZ",
+    "lat": 49.75603,
+    "lng": 15.48486
+  },
+  {
+    "name": "Habartov",
+    "country": "CZ",
+    "lat": 50.18297,
+    "lng": 12.55054
+  },
+  {
+    "name": "Hansestadt Stade",
+    "country": "DE",
+    "lat": 53.59407,
+    "lng": 9.47302
+  },
+  {
+    "name": "Hannoversch Münden",
+    "country": "DE",
+    "lat": 51.41505,
+    "lng": 9.65046
+  },
+  {
+    "name": "Hayingen",
+    "country": "DE",
+    "lat": 48.27531,
+    "lng": 9.4776
+  },
+  {
+    "name": "Hawangen",
+    "country": "DE",
+    "lat": 47.96667,
+    "lng": 10.26667
+  },
+  {
+    "name": "Havixbeck",
+    "country": "DE",
+    "lat": 51.98333,
+    "lng": 7.41667
+  },
+  {
+    "name": "Haverlah",
+    "country": "DE",
+    "lat": 52.06667,
+    "lng": 10.16667
+  },
+  {
+    "name": "Havelberg",
+    "country": "DE",
+    "lat": 52.83088,
+    "lng": 12.07552
+  },
+  {
+    "name": "Hauzenberg",
+    "country": "DE",
+    "lat": 48.64957,
+    "lng": 13.62645
+  },
+  {
+    "name": "Hauswalde",
+    "country": "DE",
+    "lat": 51.15212,
+    "lng": 14.0863
+  },
+  {
+    "name": "Hausham",
+    "country": "DE",
+    "lat": 47.7466,
+    "lng": 11.84069
+  },
+  {
+    "name": "Hausen",
+    "country": "DE",
+    "lat": 50.54242,
+    "lng": 7.40703
+  },
+  {
+    "name": "Hausen",
+    "country": "DE",
+    "lat": 49.86972,
+    "lng": 9.21028
+  },
+  {
+    "name": "Hausen",
+    "country": "DE",
+    "lat": 49.68945,
+    "lng": 11.03216
+  },
+  {
+    "name": "Hausen",
+    "country": "DE",
+    "lat": 48.85953,
+    "lng": 12.0063
+  },
+  {
+    "name": "Hausen",
+    "country": "DE",
+    "lat": 47.68128,
+    "lng": 7.83986
+  },
+  {
+    "name": "Hausbruch",
+    "country": "DE",
+    "lat": 53.47424,
+    "lng": 9.88289
+  },
+  {
+    "name": "Hausach",
+    "country": "DE",
+    "lat": 48.28426,
+    "lng": 8.17602
+  },
+  {
+    "name": "Hauptstuhl",
+    "country": "DE",
+    "lat": 49.4,
+    "lng": 7.48333
+  },
+  {
+    "name": "Haunsheim",
+    "country": "DE",
+    "lat": 48.59977,
+    "lng": 10.37401
+  },
+  {
+    "name": "Haundorf",
+    "country": "DE",
+    "lat": 49.17598,
+    "lng": 10.77124
+  },
+  {
+    "name": "Hauenstein",
+    "country": "DE",
+    "lat": 49.19211,
+    "lng": 7.85492
+  },
+  {
+    "name": "Hatzfeld",
+    "country": "DE",
+    "lat": 50.99334,
+    "lng": 8.5457
+  },
+  {
+    "name": "Hatzenbühl",
+    "country": "DE",
+    "lat": 49.11111,
+    "lng": 8.24528
+  },
+  {
+    "name": "Hattstedt",
+    "country": "DE",
+    "lat": 54.52811,
+    "lng": 9.02222
+  },
+  {
+    "name": "Hattorf",
+    "country": "DE",
+    "lat": 51.65035,
+    "lng": 10.23681
+  },
+  {
+    "name": "Hattingen",
+    "country": "DE",
+    "lat": 51.39894,
+    "lng": 7.18557
+  },
+  {
+    "name": "Hattersheim",
+    "country": "DE",
+    "lat": 50.06906,
+    "lng": 8.48632
+  },
+  {
+    "name": "Hattenhofen",
+    "country": "DE",
+    "lat": 48.66648,
+    "lng": 9.57456
+  },
+  {
+    "name": "Hattenhofen",
+    "country": "DE",
+    "lat": 48.22231,
+    "lng": 11.11551
+  },
+  {
+    "name": "Hatten",
+    "country": "DE",
+    "lat": 53.05,
+    "lng": 8.38333
+  },
+  {
+    "name": "Haste",
+    "country": "DE",
+    "lat": 52.38105,
+    "lng": 9.3928
+  },
+  {
+    "name": "Haßmersheim",
+    "country": "DE",
+    "lat": 49.3,
+    "lng": 9.15
+  },
+  {
+    "name": "Haßloch",
+    "country": "DE",
+    "lat": 49.36278,
+    "lng": 8.25806
+  },
+  {
+    "name": "Haßleben",
+    "country": "DE",
+    "lat": 51.10878,
+    "lng": 10.99637
+  },
+  {
+    "name": "Haßfurt",
+    "country": "DE",
+    "lat": 50.03521,
+    "lng": 10.5156
+  },
+  {
+    "name": "Hassendorf",
+    "country": "DE",
+    "lat": 53.10859,
+    "lng": 9.26482
+  },
+  {
+    "name": "Hasselfelde",
+    "country": "DE",
+    "lat": 51.69051,
+    "lng": 10.85373
+  },
+  {
+    "name": "Hasseldieksdamm",
+    "country": "DE",
+    "lat": 54.31667,
+    "lng": 10.08333
+  },
+  {
+    "name": "Hassel",
+    "country": "DE",
+    "lat": 52.69688,
+    "lng": 8.83198
+  },
+  {
+    "name": "Haßbergen",
+    "country": "DE",
+    "lat": 52.73333,
+    "lng": 9.23333
+  },
+  {
+    "name": "Hasloh",
+    "country": "DE",
+    "lat": 53.69471,
+    "lng": 9.91682
+  },
+  {
+    "name": "Hasloch",
+    "country": "DE",
+    "lat": 49.79194,
+    "lng": 9.49361
+  },
+  {
+    "name": "Haslach im Kinzigtal",
+    "country": "DE",
+    "lat": 48.27773,
+    "lng": 8.08941
+  },
+  {
+    "name": "Haslach",
+    "country": "DE",
+    "lat": 48.56531,
+    "lng": 8.05658
+  },
+  {
+    "name": "Haselünne",
+    "country": "DE",
+    "lat": 52.67412,
+    "lng": 7.4846
+  },
+  {
+    "name": "Haselhorst",
+    "country": "DE",
+    "lat": 52.54409,
+    "lng": 13.23743
+  },
+  {
+    "name": "Haseldorf",
+    "country": "DE",
+    "lat": 53.6378,
+    "lng": 9.59151
+  },
+  {
+    "name": "Haselbach",
+    "country": "DE",
+    "lat": 48.64564,
+    "lng": 13.38956
+  },
+  {
+    "name": "Haselau",
+    "country": "DE",
+    "lat": 53.66181,
+    "lng": 9.6201
+  },
+  {
+    "name": "Hasel",
+    "country": "DE",
+    "lat": 47.65342,
+    "lng": 7.8972
+  },
+  {
+    "name": "Hasbergen",
+    "country": "DE",
+    "lat": 52.23754,
+    "lng": 7.96114
+  },
+  {
+    "name": "Harzgerode",
+    "country": "DE",
+    "lat": 51.64189,
+    "lng": 11.1433
+  },
+  {
+    "name": "Harxheim",
+    "country": "DE",
+    "lat": 49.90528,
+    "lng": 8.26417
+  },
+  {
+    "name": "Harvestehude",
+    "country": "DE",
+    "lat": 53.5792,
+    "lng": 9.99064
+  },
+  {
+    "name": "Hartmannsdorf",
+    "country": "DE",
+    "lat": 50.88635,
+    "lng": 12.79904
+  },
+  {
+    "name": "Hartmannsdorf",
+    "country": "DE",
+    "lat": 50.75804,
+    "lng": 12.42687
+  },
+  {
+    "name": "Hartheim",
+    "country": "DE",
+    "lat": 47.93333,
+    "lng": 7.63333
+  },
+  {
+    "name": "Harthausen",
+    "country": "DE",
+    "lat": 49.29417,
+    "lng": 8.345
+  },
+  {
+    "name": "Hartha",
+    "country": "DE",
+    "lat": 51.09863,
+    "lng": 12.97391
+  },
+  {
+    "name": "Hartenstein",
+    "country": "DE",
+    "lat": 50.66236,
+    "lng": 12.66966
+  },
+  {
+    "name": "Hartenstein",
+    "country": "DE",
+    "lat": 49.6,
+    "lng": 11.51667
+  },
+  {
+    "name": "Hartenholm",
+    "country": "DE",
+    "lat": 53.89856,
+    "lng": 10.05953
+  },
+  {
+    "name": "Harsum",
+    "country": "DE",
+    "lat": 52.21045,
+    "lng": 9.96486
+  },
+  {
+    "name": "Harsleben",
+    "country": "DE",
+    "lat": 51.86667,
+    "lng": 11.1
+  },
+  {
+    "name": "Harsewinkel",
+    "country": "DE",
+    "lat": 51.96224,
+    "lng": 8.22766
+  },
+  {
+    "name": "Harsefeld",
+    "country": "DE",
+    "lat": 53.4536,
+    "lng": 9.50437
+  },
+  {
+    "name": "Harsdorf",
+    "country": "DE",
+    "lat": 50.03333,
+    "lng": 11.56667
+  },
+  {
+    "name": "Harrislee",
+    "country": "DE",
+    "lat": 54.8,
+    "lng": 9.38333
+  },
+  {
+    "name": "Harpstedt",
+    "country": "DE",
+    "lat": 52.90942,
+    "lng": 8.58962
+  },
+  {
+    "name": "Hargesheim",
+    "country": "DE",
+    "lat": 49.8623,
+    "lng": 7.82881
+  },
+  {
+    "name": "Haren",
+    "country": "DE",
+    "lat": 52.79262,
+    "lng": 7.24142
+  },
+  {
+    "name": "Hardt",
+    "country": "DE",
+    "lat": 48.18333,
+    "lng": 8.41667
+  },
+  {
+    "name": "Hardheim",
+    "country": "DE",
+    "lat": 49.61194,
+    "lng": 9.47194
+  },
+  {
+    "name": "Hardegsen",
+    "country": "DE",
+    "lat": 51.65227,
+    "lng": 9.8305
+  },
+  {
+    "name": "Harburg",
+    "country": "DE",
+    "lat": 53.46057,
+    "lng": 9.98388
+  },
+  {
+    "name": "Harburg",
+    "country": "DE",
+    "lat": 48.78674,
+    "lng": 10.68927
+  },
+  {
+    "name": "Harbke",
+    "country": "DE",
+    "lat": 52.18877,
+    "lng": 11.04624
+  },
+  {
+    "name": "Happurg",
+    "country": "DE",
+    "lat": 49.49372,
+    "lng": 11.47119
+  },
+  {
+    "name": "Hanstedt Eins",
+    "country": "DE",
+    "lat": 53.04642,
+    "lng": 10.37444
+  },
+  {
+    "name": "Hanstedt",
+    "country": "DE",
+    "lat": 53.26667,
+    "lng": 10.01667
+  },
+  {
+    "name": "Hannover",
+    "country": "DE",
+    "lat": 52.37052,
+    "lng": 9.73322
+  },
+  {
+    "name": "Hankensbüttel",
+    "country": "DE",
+    "lat": 52.73333,
+    "lng": 10.6
+  },
+  {
+    "name": "Hanhofen",
+    "country": "DE",
+    "lat": 49.31667,
+    "lng": 8.34083
+  },
+  {
+    "name": "Hangard",
+    "country": "DE",
+    "lat": 49.3826,
+    "lng": 7.21046
+  },
+  {
+    "name": "Hanerau-Hademarschen",
+    "country": "DE",
+    "lat": 54.12437,
+    "lng": 9.42087
+  },
+  {
+    "name": "Handorf",
+    "country": "DE",
+    "lat": 53.34084,
+    "lng": 10.34652
+  },
+  {
+    "name": "Handewitt",
+    "country": "DE",
+    "lat": 54.76667,
+    "lng": 9.33333
+  },
+  {
+    "name": "Handeloh",
+    "country": "DE",
+    "lat": 53.24563,
+    "lng": 9.83923
+  },
+  {
+    "name": "Hanau am Main",
+    "country": "DE",
+    "lat": 50.13423,
+    "lng": 8.91418
+  },
+  {
+    "name": "Hammoor",
+    "country": "DE",
+    "lat": 53.71378,
+    "lng": 10.322
+  },
+  {
+    "name": "Hamminkeln",
+    "country": "DE",
+    "lat": 51.73262,
+    "lng": 6.59031
+  },
+  {
+    "name": "Hammersbach",
+    "country": "DE",
+    "lat": 50.21667,
+    "lng": 8.98333
+  },
+  {
+    "name": "Hammerbrücke",
+    "country": "DE",
+    "lat": 50.43504,
+    "lng": 12.415
+  },
+  {
+    "name": "Hammelburg",
+    "country": "DE",
+    "lat": 50.11633,
+    "lng": 9.89143
+  },
+  {
+    "name": "Hammah",
+    "country": "DE",
+    "lat": 53.61788,
+    "lng": 9.36698
+  },
+  {
+    "name": "Hamm",
+    "country": "DE",
+    "lat": 53.55487,
+    "lng": 10.05742
+  },
+  {
+    "name": "Hamm",
+    "country": "DE",
+    "lat": 51.68033,
+    "lng": 7.82089
+  },
+  {
+    "name": "Hamm (Sieg)",
+    "country": "DE",
+    "lat": 50.76531,
+    "lng": 7.67761
+  },
+  {
+    "name": "Hameln",
+    "country": "DE",
+    "lat": 52.10397,
+    "lng": 9.35623
+  },
+  {
+    "name": "Hamdorf",
+    "country": "DE",
+    "lat": 54.22522,
+    "lng": 9.51866
+  },
+  {
+    "name": "Hamburg-Mitte",
+    "country": "DE",
+    "lat": 53.55,
+    "lng": 10.01667
+  },
+  {
+    "name": "Hamburg",
+    "country": "DE",
+    "lat": 53.55073,
+    "lng": 9.99302
+  },
+  {
+    "name": "Hambühren",
+    "country": "DE",
+    "lat": 52.63333,
+    "lng": 9.98333
+  },
+  {
+    "name": "Hambrücken",
+    "country": "DE",
+    "lat": 49.19,
+    "lng": 8.54056
+  },
+  {
+    "name": "Hambergen",
+    "country": "DE",
+    "lat": 53.30826,
+    "lng": 8.8252
+  },
+  {
+    "name": "Hamberge",
+    "country": "DE",
+    "lat": 53.83938,
+    "lng": 10.5823
+  },
+  {
+    "name": "Halver",
+    "country": "DE",
+    "lat": 51.18612,
+    "lng": 7.49817
+  },
+  {
+    "name": "Haltern am See",
+    "country": "DE",
+    "lat": 51.74297,
+    "lng": 7.18163
+  },
+  {
+    "name": "Halstenbek",
+    "country": "DE",
+    "lat": 53.63301,
+    "lng": 9.83945
+  },
+  {
+    "name": "Halsenbach",
+    "country": "DE",
+    "lat": 50.17174,
+    "lng": 7.55673
+  },
+  {
+    "name": "Halsbrücke",
+    "country": "DE",
+    "lat": 50.95,
+    "lng": 13.35
+  },
+  {
+    "name": "Hallstadt",
+    "country": "DE",
+    "lat": 49.92901,
+    "lng": 10.87539
+  },
+  {
+    "name": "Hallerndorf",
+    "country": "DE",
+    "lat": 49.75909,
+    "lng": 10.97946
+  },
+  {
+    "name": "Hallenberg",
+    "country": "DE",
+    "lat": 51.11115,
+    "lng": 8.62008
+  },
+  {
+    "name": "Halle",
+    "country": "DE",
+    "lat": 52.06007,
+    "lng": 8.36083
+  },
+  {
+    "name": "Halle",
+    "country": "DE",
+    "lat": 51.99122,
+    "lng": 9.56532
+  },
+  {
+    "name": "Halle (Saale)",
+    "country": "DE",
+    "lat": 51.48158,
+    "lng": 11.97947
+  },
+  {
+    "name": "Hallbergmoos",
+    "country": "DE",
+    "lat": 48.32747,
+    "lng": 11.75142
+  },
+  {
+    "name": "Halfing",
+    "country": "DE",
+    "lat": 47.95197,
+    "lng": 12.27525
+  },
+  {
+    "name": "Halensee",
+    "country": "DE",
+    "lat": 52.49005,
+    "lng": 13.29602
+  },
+  {
+    "name": "Haldenwang",
+    "country": "DE",
+    "lat": 48.43763,
+    "lng": 10.44817
+  },
+  {
+    "name": "Haldenwang",
+    "country": "DE",
+    "lat": 47.8,
+    "lng": 10.35
+  },
+  {
+    "name": "Haldensleben I",
+    "country": "DE",
+    "lat": 52.28906,
+    "lng": 11.40982
+  },
+  {
+    "name": "Halblech",
+    "country": "DE",
+    "lat": 47.63155,
+    "lng": 10.82024
+  },
+  {
+    "name": "Halberstadt",
+    "country": "DE",
+    "lat": 51.89562,
+    "lng": 11.05622
+  },
+  {
+    "name": "Halbemond",
+    "country": "DE",
+    "lat": 53.5671,
+    "lng": 7.29038
+  },
+  {
+    "name": "Halbe",
+    "country": "DE",
+    "lat": 52.11667,
+    "lng": 13.7
+  },
+  {
+    "name": "Hakenfelde",
+    "country": "DE",
+    "lat": 52.55877,
+    "lng": 13.20831
+  },
+  {
+    "name": "Haiterbach",
+    "country": "DE",
+    "lat": 48.52066,
+    "lng": 8.64435
+  },
+  {
+    "name": "Hainsfarth",
+    "country": "DE",
+    "lat": 48.95839,
+    "lng": 10.62491
+  },
+  {
+    "name": "Hainichen",
+    "country": "DE",
+    "lat": 50.97044,
+    "lng": 13.12287
+  },
+  {
+    "name": "Hain-Gründau",
+    "country": "DE",
+    "lat": 50.24284,
+    "lng": 9.14287
+  },
+  {
+    "name": "Hainewalde",
+    "country": "DE",
+    "lat": 50.91014,
+    "lng": 14.70387
+  },
+  {
+    "name": "Haina",
+    "country": "DE",
+    "lat": 51.02774,
+    "lng": 8.97441
+  },
+  {
+    "name": "Haina",
+    "country": "DE",
+    "lat": 50.98971,
+    "lng": 10.51774
+  },
+  {
+    "name": "Haiming",
+    "country": "DE",
+    "lat": 48.21667,
+    "lng": 12.9
+  },
+  {
+    "name": "Haimhausen",
+    "country": "DE",
+    "lat": 48.31545,
+    "lng": 11.55453
+  },
+  {
+    "name": "Haigerloch",
+    "country": "DE",
+    "lat": 48.36614,
+    "lng": 8.80357
+  },
+  {
+    "name": "Haiger",
+    "country": "DE",
+    "lat": 50.74162,
+    "lng": 8.20778
+  },
+  {
+    "name": "Haidmühle",
+    "country": "DE",
+    "lat": 48.82565,
+    "lng": 13.77649
+  },
+  {
+    "name": "Haibach",
+    "country": "DE",
+    "lat": 49.96444,
+    "lng": 9.20722
+  },
+  {
+    "name": "Hahnstätten",
+    "country": "DE",
+    "lat": 50.3,
+    "lng": 8.06667
+  },
+  {
+    "name": "Hahnheim",
+    "country": "DE",
+    "lat": 49.86083,
+    "lng": 8.23694
+  },
+  {
+    "name": "Hahnbach",
+    "country": "DE",
+    "lat": 49.53389,
+    "lng": 11.80302
+  },
+  {
+    "name": "Hagnau",
+    "country": "DE",
+    "lat": 47.67666,
+    "lng": 9.31787
+  },
+  {
+    "name": "Hagenow",
+    "country": "DE",
+    "lat": 53.43134,
+    "lng": 11.19159
+  },
+  {
+    "name": "Hagen im Bremischen",
+    "country": "DE",
+    "lat": 53.35707,
+    "lng": 8.64341
+  },
+  {
+    "name": "Hagenburg",
+    "country": "DE",
+    "lat": 52.43367,
+    "lng": 9.32473
+  },
+  {
+    "name": "Hagenbüchach",
+    "country": "DE",
+    "lat": 49.53333,
+    "lng": 10.76667
+  },
+  {
+    "name": "Hagenbach",
+    "country": "DE",
+    "lat": 49.01734,
+    "lng": 8.25024
+  },
+  {
+    "name": "Hagen",
+    "country": "DE",
+    "lat": 52.19629,
+    "lng": 7.98041
+  },
+  {
+    "name": "Hagen",
+    "country": "DE",
+    "lat": 51.36081,
+    "lng": 7.47168
+  },
+  {
+    "name": "Hagelstadt",
+    "country": "DE",
+    "lat": 48.9,
+    "lng": 12.21667
+  },
+  {
+    "name": "Hage",
+    "country": "DE",
+    "lat": 53.60277,
+    "lng": 7.28436
+  },
+  {
+    "name": "Hafenlohr",
+    "country": "DE",
+    "lat": 49.86944,
+    "lng": 9.60222
+  },
+  {
+    "name": "Hadmersleben",
+    "country": "DE",
+    "lat": 51.99275,
+    "lng": 11.30283
+  },
+  {
+    "name": "Hadamar",
+    "country": "DE",
+    "lat": 50.44593,
+    "lng": 8.04253
+  },
+  {
+    "name": "Hackenheim",
+    "country": "DE",
+    "lat": 49.82524,
+    "lng": 7.89907
+  },
+  {
+    "name": "Hachenburg",
+    "country": "DE",
+    "lat": 50.65998,
+    "lng": 7.82276
+  },
+  {
+    "name": "Habach",
+    "country": "DE",
+    "lat": 47.73333,
+    "lng": 11.28333
+  },
+  {
+    "name": "Haarbach",
+    "country": "DE",
+    "lat": 48.5,
+    "lng": 13.15
+  },
+  {
+    "name": "Haar",
+    "country": "DE",
+    "lat": 48.10881,
+    "lng": 11.72653
+  },
+  {
+    "name": "Haan",
+    "country": "DE",
+    "lat": 51.19382,
+    "lng": 7.0133
+  },
+  {
+    "name": "Haag in Oberbayern",
+    "country": "DE",
+    "lat": 48.16196,
+    "lng": 12.17942
+  },
+  {
+    "name": "Haag an der Amper",
+    "country": "DE",
+    "lat": 48.4584,
+    "lng": 11.82796
+  },
+  {
+    "name": "Hamburg-Altstadt",
+    "country": "DE",
+    "lat": 53.55,
+    "lng": 10.0
+  },
+  {
+    "name": "Hattert",
+    "country": "DE",
+    "lat": 50.66667,
+    "lng": 7.76667
+  },
+  {
+    "name": "Halle-Neustadt",
+    "country": "DE",
+    "lat": 51.47924,
+    "lng": 11.91605
+  },
+  {
+    "name": "Hammerbrook",
+    "country": "DE",
+    "lat": 53.54527,
+    "lng": 10.03042
+  },
+  {
+    "name": "HafenCity",
+    "country": "DE",
+    "lat": 53.54156,
+    "lng": 9.99328
+  },
+  {
+    "name": "Hansaviertel",
+    "country": "DE",
+    "lat": 52.51853,
+    "lng": 13.34178
+  },
+  {
+    "name": "Hamburg-Nord",
+    "country": "DE",
+    "lat": 53.58935,
+    "lng": 9.984
+  },
+  {
+    "name": "Hagen",
+    "country": "DE",
+    "lat": 52.26787,
+    "lng": 10.52533
+  },
+  {
+    "name": "Hauptbahnhof",
+    "country": "DE",
+    "lat": 52.24999,
+    "lng": 10.55041
+  },
+  {
+    "name": "Havdrup",
+    "country": "DK",
+    "lat": 55.54481,
+    "lng": 12.12392
+  },
+  {
+    "name": "Hatting",
+    "country": "DK",
+    "lat": 55.85295,
+    "lng": 9.76948
+  },
+  {
+    "name": "Hasselager",
+    "country": "DK",
+    "lat": 56.10555,
+    "lng": 10.10003
+  },
+  {
+    "name": "Haslev",
+    "country": "DK",
+    "lat": 55.32346,
+    "lng": 11.96389
+  },
+  {
+    "name": "Hasle",
+    "country": "DK",
+    "lat": 55.18212,
+    "lng": 14.71117
+  },
+  {
+    "name": "Harlev",
+    "country": "DK",
+    "lat": 56.14105,
+    "lng": 9.99601
+  },
+  {
+    "name": "Haarby",
+    "country": "DK",
+    "lat": 55.22357,
+    "lng": 10.12268
+  },
+  {
+    "name": "Harboøre",
+    "country": "DK",
+    "lat": 56.61752,
+    "lng": 8.18069
+  },
+  {
+    "name": "Hanstholm",
+    "country": "DK",
+    "lat": 57.11548,
+    "lng": 8.6172
+  },
+  {
+    "name": "Hammerum",
+    "country": "DK",
+    "lat": 56.13361,
+    "lng": 9.06121
+  },
+  {
+    "name": "Hammel",
+    "country": "DK",
+    "lat": 56.25762,
+    "lng": 9.86316
+  },
+  {
+    "name": "Hals",
+    "country": "DK",
+    "lat": 56.99609,
+    "lng": 10.30807
+  },
+  {
+    "name": "Hadsund",
+    "country": "DK",
+    "lat": 56.71482,
+    "lng": 10.11682
+  },
+  {
+    "name": "Hadsten",
+    "country": "DK",
+    "lat": 56.32819,
+    "lng": 10.04931
+  },
+  {
+    "name": "Haderslev",
+    "country": "DK",
+    "lat": 55.24943,
+    "lng": 9.48771
+  },
+  {
+    "name": "Hato Mayor del Rey",
+    "country": "DO",
+    "lat": 18.76575,
+    "lng": -69.25579
+  },
+  {
+    "name": "Hatillo Palma",
+    "country": "DO",
+    "lat": 19.66256,
+    "lng": -71.19406
+  },
+  {
+    "name": "Hassi Messaoud",
+    "country": "DZ",
+    "lat": 31.68041,
+    "lng": 6.07286
+  },
+  {
+    "name": "Hassi Bahbah",
+    "country": "DZ",
+    "lat": 35.07109,
+    "lng": 3.0299
+  },
+  {
+    "name": "Hammam Righa",
+    "country": "DZ",
+    "lat": 36.37972,
+    "lng": 2.39889
+  },
+  {
+    "name": "Hammamet",
+    "country": "DZ",
+    "lat": 35.44862,
+    "lng": 7.95184
+  },
+  {
+    "name": "Hammam Bou Hadjar",
+    "country": "DZ",
+    "lat": 35.37889,
+    "lng": -0.96778
+  },
+  {
+    "name": "Hamma Bouziane",
+    "country": "DZ",
+    "lat": 36.41205,
+    "lng": 6.59603
+  },
+  {
+    "name": "Hadjout",
+    "country": "DZ",
+    "lat": 36.51257,
+    "lng": 2.41382
+  },
+  {
+    "name": "Haljala",
+    "country": "EE",
+    "lat": 59.43361,
+    "lng": 26.26139
+  },
+  {
+    "name": "Haapsalu",
+    "country": "EE",
+    "lat": 58.93937,
+    "lng": 23.54127
+  },
+  {
+    "name": "Haabneeme",
+    "country": "EE",
+    "lat": 59.51358,
+    "lng": 24.82225
+  },
+  {
+    "name": "Harku",
+    "country": "EE",
+    "lat": 59.38641,
+    "lng": 24.57176
+  },
+  {
+    "name": "Haría",
+    "country": "ES",
+    "lat": 29.14553,
+    "lng": -13.49986
+  },
+  {
+    "name": "Hazas de Cesto",
+    "country": "ES",
+    "lat": 43.39653,
+    "lng": -3.58916
+  },
+  {
+    "name": "Haza",
+    "country": "ES",
+    "lat": 41.61667,
+    "lng": -3.81667
+  },
+  {
+    "name": "Haro",
+    "country": "ES",
+    "lat": 42.57634,
+    "lng": -2.8476
+  },
+  {
+    "name": "Hacinas",
+    "country": "ES",
+    "lat": 41.98514,
+    "lng": -3.28709
+  },
+  {
+    "name": "Hartīshēk",
+    "country": "ET",
+    "lat": 9.15722,
+    "lng": 43.35417
+  },
+  {
+    "name": "Harar",
+    "country": "ET",
+    "lat": 9.31387,
+    "lng": 42.11815
+  },
+  {
+    "name": "Harbu",
+    "country": "ET",
+    "lat": 10.9202,
+    "lng": 39.78714
+  },
+  {
+    "name": "Hadero",
+    "country": "ET",
+    "lat": 7.2,
+    "lng": 37.66667
+  },
+  {
+    "name": "Hagere Maryam",
+    "country": "ET",
+    "lat": 5.63418,
+    "lng": 38.23603
+  },
+  {
+    "name": "Halale",
+    "country": "ET",
+    "lat": 6.75249,
+    "lng": 37.34174
+  },
+  {
+    "name": "Haukiluoma",
+    "country": "FI",
+    "lat": 61.51848,
+    "lng": 23.60413
+  },
+  {
+    "name": "Hausjärvi",
+    "country": "FI",
+    "lat": 60.78333,
+    "lng": 24.93333
+  },
+  {
+    "name": "Haukivuori",
+    "country": "FI",
+    "lat": 62.01753,
+    "lng": 27.21906
+  },
+  {
+    "name": "Haukipudas",
+    "country": "FI",
+    "lat": 65.17654,
+    "lng": 25.35233
+  },
+  {
+    "name": "Hauho",
+    "country": "FI",
+    "lat": 61.17255,
+    "lng": 24.56303
+  },
+  {
+    "name": "Hartola",
+    "country": "FI",
+    "lat": 61.58333,
+    "lng": 26.01667
+  },
+  {
+    "name": "Harjavalta",
+    "country": "FI",
+    "lat": 61.31667,
+    "lng": 22.13333
+  },
+  {
+    "name": "Hankasalmi",
+    "country": "FI",
+    "lat": 62.38333,
+    "lng": 26.43333
+  },
+  {
+    "name": "Hanko",
+    "country": "FI",
+    "lat": 59.83333,
+    "lng": 22.95
+  },
+  {
+    "name": "Hamina",
+    "country": "FI",
+    "lat": 60.56974,
+    "lng": 27.19794
+  },
+  {
+    "name": "Halsua",
+    "country": "FI",
+    "lat": 63.46667,
+    "lng": 24.16667
+  },
+  {
+    "name": "Halikko",
+    "country": "FI",
+    "lat": 60.4,
+    "lng": 23.08333
+  },
+  {
+    "name": "Hakkila",
+    "country": "FI",
+    "lat": 60.29238,
+    "lng": 25.07346
+  },
+  {
+    "name": "Hakunila",
+    "country": "FI",
+    "lat": 60.27822,
+    "lng": 25.10342
+  },
+  {
+    "name": "Hailuoto",
+    "country": "FI",
+    "lat": 65.009,
+    "lng": 24.71385
+  },
+  {
+    "name": "Haapavesi",
+    "country": "FI",
+    "lat": 64.13333,
+    "lng": 25.36667
+  },
+  {
+    "name": "Haapajärvi",
+    "country": "FI",
+    "lat": 63.75,
+    "lng": 25.33333
+  },
+  {
+    "name": "Haaga",
+    "country": "FI",
+    "lat": 60.22132,
+    "lng": 24.89759
+  },
+  {
+    "name": "Haukilahti",
+    "country": "FI",
+    "lat": 60.15889,
+    "lng": 24.77057
+  },
+  {
+    "name": "Hakuninmaa",
+    "country": "FI",
+    "lat": 60.25357,
+    "lng": 24.89227
+  },
+  {
+    "name": "Havukoski",
+    "country": "FI",
+    "lat": 60.32155,
+    "lng": 25.07174
+  },
+  {
+    "name": "Hallila",
+    "country": "FI",
+    "lat": 61.4631,
+    "lng": 23.82939
+  },
+  {
+    "name": "Hatanpää",
+    "country": "FI",
+    "lat": 61.48293,
+    "lng": 23.76253
+  },
+  {
+    "name": "Harapainen",
+    "country": "FI",
+    "lat": 61.05022,
+    "lng": 28.21104
+  },
+  {
+    "name": "Hakali",
+    "country": "FI",
+    "lat": 61.07185,
+    "lng": 28.27579
+  },
+  {
+    "name": "Hazebrouck",
+    "country": "FR",
+    "lat": 50.72374,
+    "lng": 2.53729
+  },
+  {
+    "name": "Haybes",
+    "country": "FR",
+    "lat": 50.00458,
+    "lng": 4.70496
+  },
+  {
+    "name": "Hayange",
+    "country": "FR",
+    "lat": 49.32881,
+    "lng": 6.06278
+  },
+  {
+    "name": "Haverskerque",
+    "country": "FR",
+    "lat": 50.64089,
+    "lng": 2.54162
+  },
+  {
+    "name": "Haveluy",
+    "country": "FR",
+    "lat": 50.35289,
+    "lng": 3.40389
+  },
+  {
+    "name": "Hauville",
+    "country": "FR",
+    "lat": 49.39645,
+    "lng": 0.77232
+  },
+  {
+    "name": "Hautot-sur-Mer",
+    "country": "FR",
+    "lat": 49.89789,
+    "lng": 1.02884
+  },
+  {
+    "name": "Hautmont",
+    "country": "FR",
+    "lat": 50.25077,
+    "lng": 3.92143
+  },
+  {
+    "name": "Hauteville-Lompnes",
+    "country": "FR",
+    "lat": 45.97794,
+    "lng": 5.60114
+  },
+  {
+    "name": "Hauteville-lès-Dijon",
+    "country": "FR",
+    "lat": 47.36602,
+    "lng": 4.99375
+  },
+  {
+    "name": "Haute-Rivoire",
+    "country": "FR",
+    "lat": 45.71559,
+    "lng": 4.39633
+  },
+  {
+    "name": "Hauterives",
+    "country": "FR",
+    "lat": 45.25565,
+    "lng": 5.01904
+  },
+  {
+    "name": "Hauterive",
+    "country": "FR",
+    "lat": 46.08834,
+    "lng": 3.44626
+  },
+  {
+    "name": "Haute-Goulaine",
+    "country": "FR",
+    "lat": 47.19904,
+    "lng": -1.43012
+  },
+  {
+    "name": "Hautefort",
+    "country": "FR",
+    "lat": 45.25915,
+    "lng": 1.14839
+  },
+  {
+    "name": "Haussy",
+    "country": "FR",
+    "lat": 50.2183,
+    "lng": 3.47683
+  },
+  {
+    "name": "Haulchin",
+    "country": "FR",
+    "lat": 50.3172,
+    "lng": 3.43599
+  },
+  {
+    "name": "Haucourt",
+    "country": "FR",
+    "lat": 49.48982,
+    "lng": 5.80361
+  },
+  {
+    "name": "Haubourdin",
+    "country": "FR",
+    "lat": 50.60826,
+    "lng": 2.99143
+  },
+  {
+    "name": "Hatten",
+    "country": "FR",
+    "lat": 48.90123,
+    "lng": 7.97968
+  },
+  {
+    "name": "Haspres",
+    "country": "FR",
+    "lat": 50.25829,
+    "lng": 3.41695
+  },
+  {
+    "name": "Hasparren",
+    "country": "FR",
+    "lat": 43.38394,
+    "lng": -1.30523
+  },
+  {
+    "name": "Hasnon",
+    "country": "FR",
+    "lat": 50.42472,
+    "lng": 3.38657
+  },
+  {
+    "name": "Harnes",
+    "country": "FR",
+    "lat": 50.44643,
+    "lng": 2.90481
+  },
+  {
+    "name": "Harly",
+    "country": "FR",
+    "lat": 49.83766,
+    "lng": 3.31001
+  },
+  {
+    "name": "Hargarten-aux-Mines",
+    "country": "FR",
+    "lat": 49.22436,
+    "lng": 6.61459
+  },
+  {
+    "name": "Harfleur",
+    "country": "FR",
+    "lat": 49.5066,
+    "lng": 0.19827
+  },
+  {
+    "name": "Hardricourt",
+    "country": "FR",
+    "lat": 49.00779,
+    "lng": 1.89389
+  },
+  {
+    "name": "Hardinghen",
+    "country": "FR",
+    "lat": 50.80414,
+    "lng": 1.82122
+  },
+  {
+    "name": "Harbonnières",
+    "country": "FR",
+    "lat": 49.84958,
+    "lng": 2.66812
+  },
+  {
+    "name": "Hanvec",
+    "country": "FR",
+    "lat": 48.32754,
+    "lng": -4.16133
+  },
+  {
+    "name": "Hangenbieten",
+    "country": "FR",
+    "lat": 48.55985,
+    "lng": 7.61464
+  },
+  {
+    "name": "Hanches",
+    "country": "FR",
+    "lat": 48.60115,
+    "lng": 1.65137
+  },
+  {
+    "name": "Ham-sous-Varsberg",
+    "country": "FR",
+    "lat": 49.18014,
+    "lng": 6.64702
+  },
+  {
+    "name": "Hames-Boucres",
+    "country": "FR",
+    "lat": 50.88178,
+    "lng": 1.84338
+  },
+  {
+    "name": "Hambye",
+    "country": "FR",
+    "lat": 48.94798,
+    "lng": -1.26417
+  },
+  {
+    "name": "Hambach",
+    "country": "FR",
+    "lat": 49.05942,
+    "lng": 7.0353
+  },
+  {
+    "name": "Ham",
+    "country": "FR",
+    "lat": 49.74721,
+    "lng": 3.07301
+  },
+  {
+    "name": "Halluin",
+    "country": "FR",
+    "lat": 50.78628,
+    "lng": 3.12611
+  },
+  {
+    "name": "Hallines",
+    "country": "FR",
+    "lat": 50.71087,
+    "lng": 2.22629
+  },
+  {
+    "name": "Hallennes-lez-Haubourdin",
+    "country": "FR",
+    "lat": 50.61334,
+    "lng": 2.9656
+  },
+  {
+    "name": "Hallencourt",
+    "country": "FR",
+    "lat": 49.99201,
+    "lng": 1.87649
+  },
+  {
+    "name": "Haisnes",
+    "country": "FR",
+    "lat": 50.50776,
+    "lng": 2.79416
+  },
+  {
+    "name": "Haillicourt",
+    "country": "FR",
+    "lat": 50.47519,
+    "lng": 2.57458
+  },
+  {
+    "name": "Haguenau",
+    "country": "FR",
+    "lat": 48.81557,
+    "lng": 7.79051
+  },
+  {
+    "name": "Hagondange",
+    "country": "FR",
+    "lat": 49.24879,
+    "lng": 6.16374
+  },
+  {
+    "name": "Hagetmau",
+    "country": "FR",
+    "lat": 43.65893,
+    "lng": -0.59172
+  },
+  {
+    "name": "Hagenthal-le-Bas",
+    "country": "FR",
+    "lat": 47.52497,
+    "lng": 7.47783
+  },
+  {
+    "name": "Hadol",
+    "country": "FR",
+    "lat": 48.08983,
+    "lng": 6.47662
+  },
+  {
+    "name": "Habsheim",
+    "country": "FR",
+    "lat": 47.72975,
+    "lng": 7.41801
+  },
+  {
+    "name": "Habas",
+    "country": "FR",
+    "lat": 43.5717,
+    "lng": -0.92975
+  },
+  {
+    "name": "Hazel Grove",
+    "country": "GB",
+    "lat": 53.38333,
+    "lng": -2.11667
+  },
+  {
+    "name": "Haywards Heath",
+    "country": "GB",
+    "lat": 50.99769,
+    "lng": -0.10313
+  },
+  {
+    "name": "Hayton",
+    "country": "GB",
+    "lat": 53.9,
+    "lng": -0.75
+  },
+  {
+    "name": "Haynes",
+    "country": "GB",
+    "lat": 52.06646,
+    "lng": -0.39946
+  },
+  {
+    "name": "Hayle",
+    "country": "GB",
+    "lat": 50.18392,
+    "lng": -5.42137
+  },
+  {
+    "name": "Hayfield",
+    "country": "GB",
+    "lat": 53.37893,
+    "lng": -1.94544
+  },
+  {
+    "name": "Hayes",
+    "country": "GB",
+    "lat": 51.51579,
+    "lng": -0.4234
+  },
+  {
+    "name": "Hayes",
+    "country": "GB",
+    "lat": 51.37786,
+    "lng": 0.01682
+  },
+  {
+    "name": "Haydon Bridge",
+    "country": "GB",
+    "lat": 54.97486,
+    "lng": -2.2468
+  },
+  {
+    "name": "Haydock",
+    "country": "GB",
+    "lat": 53.46723,
+    "lng": -2.68166
+  },
+  {
+    "name": "Hay",
+    "country": "GB",
+    "lat": 52.07049,
+    "lng": -3.12741
+  },
+  {
+    "name": "Haxey",
+    "country": "GB",
+    "lat": 53.48937,
+    "lng": -0.8402
+  },
+  {
+    "name": "Haxby",
+    "country": "GB",
+    "lat": 54.01422,
+    "lng": -1.07121
+  },
+  {
+    "name": "Hawthorn",
+    "country": "GB",
+    "lat": 54.8,
+    "lng": -1.35
+  },
+  {
+    "name": "Haworth",
+    "country": "GB",
+    "lat": 53.82905,
+    "lng": -1.94827
+  },
+  {
+    "name": "Hawkinge",
+    "country": "GB",
+    "lat": 51.11276,
+    "lng": 1.16176
+  },
+  {
+    "name": "Hawkhurst",
+    "country": "GB",
+    "lat": 51.0479,
+    "lng": 0.51095
+  },
+  {
+    "name": "Hawick",
+    "country": "GB",
+    "lat": 55.42273,
+    "lng": -2.78666
+  },
+  {
+    "name": "Hawarden",
+    "country": "GB",
+    "lat": 53.18478,
+    "lng": -3.02578
+  },
+  {
+    "name": "Haverigg",
+    "country": "GB",
+    "lat": 54.19973,
+    "lng": -3.29263
+  },
+  {
+    "name": "Haverhill",
+    "country": "GB",
+    "lat": 52.08226,
+    "lng": 0.43891
+  },
+  {
+    "name": "Haverfordwest",
+    "country": "GB",
+    "lat": 51.80169,
+    "lng": -4.96914
+  },
+  {
+    "name": "Havant",
+    "country": "GB",
+    "lat": 50.8567,
+    "lng": -0.98559
+  },
+  {
+    "name": "Haughley",
+    "country": "GB",
+    "lat": 52.21907,
+    "lng": 0.968
+  },
+  {
+    "name": "Hatton",
+    "country": "GB",
+    "lat": 52.30007,
+    "lng": -1.6326
+  },
+  {
+    "name": "Hathersage",
+    "country": "GB",
+    "lat": 53.3303,
+    "lng": -1.65398
+  },
+  {
+    "name": "Hathern",
+    "country": "GB",
+    "lat": 52.79548,
+    "lng": -1.25644
+  },
+  {
+    "name": "Hatherleigh",
+    "country": "GB",
+    "lat": 50.82144,
+    "lng": -4.07228
+  },
+  {
+    "name": "Hatfield Peverel",
+    "country": "GB",
+    "lat": 51.77591,
+    "lng": 0.59489
+  },
+  {
+    "name": "Hatfield Heath",
+    "country": "GB",
+    "lat": 51.81233,
+    "lng": 0.21243
+  },
+  {
+    "name": "Hatfield",
+    "country": "GB",
+    "lat": 53.57788,
+    "lng": -0.99924
+  },
+  {
+    "name": "Hatfield",
+    "country": "GB",
+    "lat": 51.76338,
+    "lng": -0.22419
+  },
+  {
+    "name": "Hatch End",
+    "country": "GB",
+    "lat": 51.60789,
+    "lng": -0.37367
+  },
+  {
+    "name": "Haswell",
+    "country": "GB",
+    "lat": 54.78333,
+    "lng": -1.41667
+  },
+  {
+    "name": "Hastings",
+    "country": "GB",
+    "lat": 50.85568,
+    "lng": 0.58009
+  },
+  {
+    "name": "Hassocks",
+    "country": "GB",
+    "lat": 50.92814,
+    "lng": -0.16617
+  },
+  {
+    "name": "Haslingfield",
+    "country": "GB",
+    "lat": 52.15016,
+    "lng": 0.05579
+  },
+  {
+    "name": "Haslingden",
+    "country": "GB",
+    "lat": 53.70326,
+    "lng": -2.32382
+  },
+  {
+    "name": "Haslemere",
+    "country": "GB",
+    "lat": 51.09015,
+    "lng": -0.70785
+  },
+  {
+    "name": "Harwich",
+    "country": "GB",
+    "lat": 51.94194,
+    "lng": 1.28437
+  },
+  {
+    "name": "Harwell",
+    "country": "GB",
+    "lat": 51.59947,
+    "lng": -1.29175
+  },
+  {
+    "name": "Harvington",
+    "country": "GB",
+    "lat": 52.14095,
+    "lng": -1.92313
+  },
+  {
+    "name": "Hartwell",
+    "country": "GB",
+    "lat": 52.14616,
+    "lng": -0.85376
+  },
+  {
+    "name": "Hartshill",
+    "country": "GB",
+    "lat": 52.54831,
+    "lng": -1.52221
+  },
+  {
+    "name": "Hartley Wintney",
+    "country": "GB",
+    "lat": 51.30379,
+    "lng": -0.90019
+  },
+  {
+    "name": "Hartley",
+    "country": "GB",
+    "lat": 51.38673,
+    "lng": 0.30367
+  },
+  {
+    "name": "Hartlepool",
+    "country": "GB",
+    "lat": 54.68554,
+    "lng": -1.21028
+  },
+  {
+    "name": "Hartlebury",
+    "country": "GB",
+    "lat": 52.33333,
+    "lng": -2.23333
+  },
+  {
+    "name": "Harthill",
+    "country": "GB",
+    "lat": 55.86067,
+    "lng": -3.75166
+  },
+  {
+    "name": "Harthill",
+    "country": "GB",
+    "lat": 53.31667,
+    "lng": -1.26667
+  },
+  {
+    "name": "Harthill",
+    "country": "GB",
+    "lat": 53.08333,
+    "lng": -2.75
+  },
+  {
+    "name": "Hartford",
+    "country": "GB",
+    "lat": 53.24508,
+    "lng": -2.55119
+  },
+  {
+    "name": "Hartburn",
+    "country": "GB",
+    "lat": 55.16667,
+    "lng": -1.85
+  },
+  {
+    "name": "Harston",
+    "country": "GB",
+    "lat": 52.13691,
+    "lng": 0.07999
+  },
+  {
+    "name": "Harrow Weald",
+    "country": "GB",
+    "lat": 51.61066,
+    "lng": -0.3374
+  },
+  {
+    "name": "Harrow on the Hill",
+    "country": "GB",
+    "lat": 51.57142,
+    "lng": -0.33371
+  },
+  {
+    "name": "Harrow",
+    "country": "GB",
+    "lat": 51.57835,
+    "lng": -0.33208
+  },
+  {
+    "name": "Harrold",
+    "country": "GB",
+    "lat": 52.20127,
+    "lng": -0.61038
+  },
+  {
+    "name": "Harrogate",
+    "country": "GB",
+    "lat": 53.99078,
+    "lng": -1.5373
+  },
+  {
+    "name": "Harrietsham",
+    "country": "GB",
+    "lat": 51.24252,
+    "lng": 0.6706
+  },
+  {
+    "name": "Harpole",
+    "country": "GB",
+    "lat": 52.24246,
+    "lng": -0.98937
+  },
+  {
+    "name": "Harpenden",
+    "country": "GB",
+    "lat": 51.81684,
+    "lng": -0.35706
+  },
+  {
+    "name": "Harlow",
+    "country": "GB",
+    "lat": 51.77655,
+    "lng": 0.11158
+  },
+  {
+    "name": "Harlington",
+    "country": "GB",
+    "lat": 51.96288,
+    "lng": -0.49241
+  },
+  {
+    "name": "Harley",
+    "country": "GB",
+    "lat": 52.6,
+    "lng": -2.6
+  },
+  {
+    "name": "Harleston",
+    "country": "GB",
+    "lat": 52.40302,
+    "lng": 1.29664
+  },
+  {
+    "name": "Harlesden",
+    "country": "GB",
+    "lat": 51.53811,
+    "lng": -0.2502
+  },
+  {
+    "name": "Harlech",
+    "country": "GB",
+    "lat": 52.85941,
+    "lng": -4.10831
+  },
+  {
+    "name": "Harefield",
+    "country": "GB",
+    "lat": 51.60333,
+    "lng": -0.48546
+  },
+  {
+    "name": "Hardingstone",
+    "country": "GB",
+    "lat": 52.21358,
+    "lng": -0.88582
+  },
+  {
+    "name": "Harbury",
+    "country": "GB",
+    "lat": 52.23537,
+    "lng": -1.45706
+  },
+  {
+    "name": "Hapton",
+    "country": "GB",
+    "lat": 53.78333,
+    "lng": -2.31667
+  },
+  {
+    "name": "Hanworth",
+    "country": "GB",
+    "lat": 51.43333,
+    "lng": -0.38333
+  },
+  {
+    "name": "Hanslope",
+    "country": "GB",
+    "lat": 52.11425,
+    "lng": -0.82672
+  },
+  {
+    "name": "Hannington",
+    "country": "GB",
+    "lat": 51.63333,
+    "lng": -1.75
+  },
+  {
+    "name": "Hankerton",
+    "country": "GB",
+    "lat": 51.61444,
+    "lng": -2.045
+  },
+  {
+    "name": "Handcross",
+    "country": "GB",
+    "lat": 51.05383,
+    "lng": -0.20076
+  },
+  {
+    "name": "Hamsterley",
+    "country": "GB",
+    "lat": 54.68333,
+    "lng": -1.81667
+  },
+  {
+    "name": "Hampton in Arden",
+    "country": "GB",
+    "lat": 52.4254,
+    "lng": -1.70271
+  },
+  {
+    "name": "Hampton",
+    "country": "GB",
+    "lat": 51.41334,
+    "lng": -0.36701
+  },
+  {
+    "name": "Hammersmith",
+    "country": "GB",
+    "lat": 51.49384,
+    "lng": -0.22882
+  },
+  {
+    "name": "Hamilton",
+    "country": "GB",
+    "lat": 55.76667,
+    "lng": -4.03333
+  },
+  {
+    "name": "Hambleton",
+    "country": "GB",
+    "lat": 53.76667,
+    "lng": -1.16667
+  },
+  {
+    "name": "Hamble-le-Rice",
+    "country": "GB",
+    "lat": 50.85966,
+    "lng": -1.32432
+  },
+  {
+    "name": "Haltwhistle",
+    "country": "GB",
+    "lat": 54.97101,
+    "lng": -2.45682
+  },
+  {
+    "name": "Halton",
+    "country": "GB",
+    "lat": 54.07887,
+    "lng": -2.758
+  },
+  {
+    "name": "Halton",
+    "country": "GB",
+    "lat": 53.31667,
+    "lng": -2.7
+  },
+  {
+    "name": "Halstead",
+    "country": "GB",
+    "lat": 51.94506,
+    "lng": 0.63927
+  },
+  {
+    "name": "Halsham",
+    "country": "GB",
+    "lat": 53.72985,
+    "lng": -0.0745
+  },
+  {
+    "name": "Hallow",
+    "country": "GB",
+    "lat": 52.22344,
+    "lng": -2.25468
+  },
+  {
+    "name": "Halling",
+    "country": "GB",
+    "lat": 51.35142,
+    "lng": 0.4452
+  },
+  {
+    "name": "Halkyn",
+    "country": "GB",
+    "lat": 53.22556,
+    "lng": -3.19016
+  },
+  {
+    "name": "Halkirk",
+    "country": "GB",
+    "lat": 58.51227,
+    "lng": -3.49155
+  },
+  {
+    "name": "Halifax",
+    "country": "GB",
+    "lat": 53.71667,
+    "lng": -1.85
+  },
+  {
+    "name": "Halewood",
+    "country": "GB",
+    "lat": 53.3596,
+    "lng": -2.83148
+  },
+  {
+    "name": "Halesworth",
+    "country": "GB",
+    "lat": 52.3464,
+    "lng": 1.5029
+  },
+  {
+    "name": "Halesowen",
+    "country": "GB",
+    "lat": 52.44859,
+    "lng": -2.04938
+  },
+  {
+    "name": "Hale",
+    "country": "GB",
+    "lat": 53.33333,
+    "lng": -2.8
+  },
+  {
+    "name": "Hale",
+    "country": "GB",
+    "lat": 51.22946,
+    "lng": -0.78908
+  },
+  {
+    "name": "Hailsham",
+    "country": "GB",
+    "lat": 50.8622,
+    "lng": 0.25775
+  },
+  {
+    "name": "Haigh",
+    "country": "GB",
+    "lat": 53.6,
+    "lng": -2.58333
+  },
+  {
+    "name": "Hagley",
+    "country": "GB",
+    "lat": 52.4262,
+    "lng": -2.12819
+  },
+  {
+    "name": "Hadlow",
+    "country": "GB",
+    "lat": 51.22417,
+    "lng": 0.33914
+  },
+  {
+    "name": "Hadley",
+    "country": "GB",
+    "lat": 52.7,
+    "lng": -2.48333
+  },
+  {
+    "name": "Hadleigh",
+    "country": "GB",
+    "lat": 52.04499,
+    "lng": 0.95298
+  },
+  {
+    "name": "Hadleigh",
+    "country": "GB",
+    "lat": 51.55269,
+    "lng": 0.60983
+  },
+  {
+    "name": "Haddington",
+    "country": "GB",
+    "lat": 55.95612,
+    "lng": -2.78332
+  },
+  {
+    "name": "Haddenham",
+    "country": "GB",
+    "lat": 52.35789,
+    "lng": 0.14827
+  },
+  {
+    "name": "Haddenham",
+    "country": "GB",
+    "lat": 51.77326,
+    "lng": -0.92628
+  },
+  {
+    "name": "Hackney",
+    "country": "GB",
+    "lat": 51.55,
+    "lng": -0.05
+  },
+  {
+    "name": "Hackleton",
+    "country": "GB",
+    "lat": 52.18798,
+    "lng": -0.82312
+  },
+  {
+    "name": "Hadston",
+    "country": "GB",
+    "lat": 55.29428,
+    "lng": -1.60392
+  },
+  {
+    "name": "Hazlerigg",
+    "country": "GB",
+    "lat": 55.04135,
+    "lng": -1.63912
+  },
+  {
+    "name": "Hale",
+    "country": "GB",
+    "lat": 53.37831,
+    "lng": -2.33271
+  },
+  {
+    "name": "Hainault",
+    "country": "GB",
+    "lat": 51.60836,
+    "lng": 0.10716
+  },
+  {
+    "name": "Harold Wood",
+    "country": "GB",
+    "lat": 51.59462,
+    "lng": 0.23294
+  },
+  {
+    "name": "Haughton Green",
+    "country": "GB",
+    "lat": 53.44118,
+    "lng": -2.09827
+  },
+  {
+    "name": "Hadley Wood",
+    "country": "GB",
+    "lat": 51.66669,
+    "lng": -0.16981
+  },
+  {
+    "name": "Hameldon Hill",
+    "country": "GB",
+    "lat": 53.7557,
+    "lng": -2.2919
+  },
+  {
+    "name": "Hayling Island",
+    "country": "GB",
+    "lat": 50.7838,
+    "lng": -0.96869
+  },
+  {
+    "name": "Harringay",
+    "country": "GB",
+    "lat": 51.5824,
+    "lng": -0.09956
+  },
+  {
+    "name": "Hampton Wick",
+    "country": "GB",
+    "lat": 51.42002,
+    "lng": -0.31504
+  },
+  {
+    "name": "Hallglen",
+    "country": "GB",
+    "lat": 55.98573,
+    "lng": -3.78535
+  },
+  {
+    "name": "Hardwick Village",
+    "country": "GB",
+    "lat": 53.27372,
+    "lng": -1.0432
+  },
+  {
+    "name": "Harrow Road",
+    "country": "GB",
+    "lat": 51.52661,
+    "lng": -0.19947
+  },
+  {
+    "name": "Hale Barns",
+    "country": "GB",
+    "lat": 53.3689,
+    "lng": -2.31333
+  },
+  {
+    "name": "Hagåtña",
+    "country": "GU",
+    "lat": 13.47567,
+    "lng": 144.74886
+  },
+  {
+    "name": "Hagåtña Village",
+    "country": "GU",
+    "lat": 13.47279,
+    "lng": 144.75802
+  },
+  {
+    "name": "Ha Tsuen",
+    "country": "HK",
+    "lat": 22.44724,
+    "lng": 113.9916
+  },
+  {
+    "name": "Happy Valley",
+    "country": "HK",
+    "lat": 22.26912,
+    "lng": 114.18619
+  },
+  {
+    "name": "Hang Hau",
+    "country": "HK",
+    "lat": 22.31811,
+    "lng": 114.26994
+  },
+  {
+    "name": "Harmony Garden",
+    "country": "HK",
+    "lat": 22.26573,
+    "lng": 114.2487
+  },
+  {
+    "name": "Harbour Green",
+    "country": "HK",
+    "lat": 22.32127,
+    "lng": 114.15931
+  },
+  {
+    "name": "Harbour Place",
+    "country": "HK",
+    "lat": 22.30323,
+    "lng": 114.18619
+  },
+  {
+    "name": "Harsány",
+    "country": "HU",
+    "lat": 47.96667,
+    "lng": 20.75
+  },
+  {
+    "name": "Halmaj",
+    "country": "HU",
+    "lat": 48.25,
+    "lng": 21.0
+  },
+  {
+    "name": "Hajdúszovát",
+    "country": "HU",
+    "lat": 47.38333,
+    "lng": 21.48333
+  },
+  {
+    "name": "Hajdúszoboszló",
+    "country": "HU",
+    "lat": 47.45,
+    "lng": 21.4
+  },
+  {
+    "name": "Hajdúsámson",
+    "country": "HU",
+    "lat": 47.6,
+    "lng": 21.76667
+  },
+  {
+    "name": "Hajdúnánás",
+    "country": "HU",
+    "lat": 47.85,
+    "lng": 21.43333
+  },
+  {
+    "name": "Hajdúhadház",
+    "country": "HU",
+    "lat": 47.68333,
+    "lng": 21.66667
+  },
+  {
+    "name": "Hajdúdorog",
+    "country": "HU",
+    "lat": 47.81667,
+    "lng": 21.5
+  },
+  {
+    "name": "Hajdúböszörmény",
+    "country": "HU",
+    "lat": 47.66667,
+    "lng": 21.51667
+  },
+  {
+    "name": "Hajdúbagos",
+    "country": "HU",
+    "lat": 47.39295,
+    "lng": 21.66551
+  },
+  {
+    "name": "Hatvan",
+    "country": "HU",
+    "lat": 47.66667,
+    "lng": 19.68333
+  },
+  {
+    "name": "Harta",
+    "country": "HU",
+    "lat": 46.69758,
+    "lng": 19.0311
+  },
+  {
+    "name": "Harkány",
+    "country": "HU",
+    "lat": 45.85002,
+    "lng": 18.23668
+  },
+  {
+    "name": "Halásztelek",
+    "country": "HU",
+    "lat": 47.36173,
+    "lng": 18.98119
+  },
+  {
+    "name": "Halászi",
+    "country": "HU",
+    "lat": 47.8893,
+    "lng": 17.32615
+  },
+  {
+    "name": "Hajós",
+    "country": "HU",
+    "lat": 46.39861,
+    "lng": 19.12056
+  },
+  {
+    "name": "Hajmáskér",
+    "country": "HU",
+    "lat": 47.14513,
+    "lng": 18.01964
+  },
+  {
+    "name": "Havanna-lakótelep",
+    "country": "HU",
+    "lat": 47.44031,
+    "lng": 19.16695
+  },
+  {
+    "name": "Hampang",
+    "country": "ID",
+    "lat": -2.918,
+    "lng": 115.8373
+  },
+  {
+    "name": "Haruyan",
+    "country": "ID",
+    "lat": -2.69169,
+    "lng": 115.34992
+  },
+  {
+    "name": "Haruai",
+    "country": "ID",
+    "lat": -2.0154,
+    "lng": 115.5072
+  },
+  {
+    "name": "Hadakewa",
+    "country": "ID",
+    "lat": -8.3698,
+    "lng": 123.5473
+  },
+  {
+    "name": "Harapankarya",
+    "country": "ID",
+    "lat": -3.9893,
+    "lng": 119.6438
+  },
+  {
+    "name": "Harian",
+    "country": "ID",
+    "lat": 2.5561,
+    "lng": 98.6625
+  },
+  {
+    "name": "Handilenam",
+    "country": "ID",
+    "lat": -0.8244,
+    "lng": 117.2488
+  },
+  {
+    "name": "Halong",
+    "country": "ID",
+    "lat": -2.258,
+    "lng": 115.6511
+  },
+  {
+    "name": "Harapan Jaya",
+    "country": "ID",
+    "lat": 3.87472,
+    "lng": 108.30306
+  },
+  {
+    "name": "Hartstown",
+    "country": "IE",
+    "lat": 53.39306,
+    "lng": -6.42694
+  },
+  {
+    "name": "Har Adar",
+    "country": "IL",
+    "lat": 31.82754,
+    "lng": 35.13093
+  },
+  {
+    "name": "Haifa",
+    "country": "IL",
+    "lat": 32.81303,
+    "lng": 34.99928
+  },
+  {
+    "name": "HaZore‘im",
+    "country": "IL",
+    "lat": 32.74707,
+    "lng": 35.50274
+  },
+  {
+    "name": "Hadera",
+    "country": "IL",
+    "lat": 32.44192,
+    "lng": 34.9039
+  },
+  {
+    "name": "Hashmonaim",
+    "country": "IL",
+    "lat": 31.92973,
+    "lng": 35.0215
+  },
+  {
+    "name": "Harduf",
+    "country": "IL",
+    "lat": 32.76342,
+    "lng": 35.17469
+  },
+  {
+    "name": "Hadagalli",
+    "country": "IN",
+    "lat": 15.02048,
+    "lng": 75.93185
+  },
+  {
+    "name": "Hatti",
+    "country": "IN",
+    "lat": 16.19836,
+    "lng": 76.66037
+  },
+  {
+    "name": "Harbatpur",
+    "country": "IN",
+    "lat": 30.43863,
+    "lng": 77.74058
+  },
+  {
+    "name": "Hazāribāgh",
+    "country": "IN",
+    "lat": 23.99241,
+    "lng": 85.36162
+  },
+  {
+    "name": "Hayuliang",
+    "country": "IN",
+    "lat": 28.07301,
+    "lng": 96.54305
+  },
+  {
+    "name": "Hattīn",
+    "country": "IN",
+    "lat": 28.04234,
+    "lng": 77.24049
+  },
+  {
+    "name": "Hatta",
+    "country": "IN",
+    "lat": 24.13406,
+    "lng": 79.60119
+  },
+  {
+    "name": "Hathwa",
+    "country": "IN",
+    "lat": 26.35535,
+    "lng": 84.29759
+  },
+  {
+    "name": "Hastināpur",
+    "country": "IN",
+    "lat": 29.16042,
+    "lng": 78.00762
+  },
+  {
+    "name": "Hassan",
+    "country": "IN",
+    "lat": 13.00715,
+    "lng": 76.0962
+  },
+  {
+    "name": "Hasanpur",
+    "country": "IN",
+    "lat": 28.72249,
+    "lng": 78.28436
+  },
+  {
+    "name": "Hasanpur",
+    "country": "IN",
+    "lat": 27.96944,
+    "lng": 77.49544
+  },
+  {
+    "name": "Harūr",
+    "country": "IN",
+    "lat": 12.05267,
+    "lng": 78.48023
+  },
+  {
+    "name": "Harsūd",
+    "country": "IN",
+    "lat": 22.09947,
+    "lng": 76.73423
+  },
+  {
+    "name": "Harrai",
+    "country": "IN",
+    "lat": 22.61428,
+    "lng": 79.22207
+  },
+  {
+    "name": "Harpanahalli",
+    "country": "IN",
+    "lat": 14.78766,
+    "lng": 75.98863
+  },
+  {
+    "name": "Harpālpur",
+    "country": "IN",
+    "lat": 25.28773,
+    "lng": 79.33279
+  },
+  {
+    "name": "Harnai",
+    "country": "IN",
+    "lat": 17.8134,
+    "lng": 73.09668
+  },
+  {
+    "name": "Haripād",
+    "country": "IN",
+    "lat": 9.28358,
+    "lng": 76.45519
+  },
+  {
+    "name": "Haringhāta",
+    "country": "IN",
+    "lat": 22.96474,
+    "lng": 88.57451
+  },
+  {
+    "name": "Harihar",
+    "country": "IN",
+    "lat": 14.51288,
+    "lng": 75.80716
+  },
+  {
+    "name": "Haridwar",
+    "country": "IN",
+    "lat": 29.94791,
+    "lng": 78.16025
+  },
+  {
+    "name": "Hariāna",
+    "country": "IN",
+    "lat": 31.63512,
+    "lng": 75.83887
+  },
+  {
+    "name": "Harduāganj",
+    "country": "IN",
+    "lat": 27.94361,
+    "lng": 78.15789
+  },
+  {
+    "name": "Hardoī",
+    "country": "IN",
+    "lat": 27.39491,
+    "lng": 80.13165
+  },
+  {
+    "name": "Harda",
+    "country": "IN",
+    "lat": 22.34414,
+    "lng": 77.09536
+  },
+  {
+    "name": "Haraiya",
+    "country": "IN",
+    "lat": 26.79477,
+    "lng": 82.46436
+  },
+  {
+    "name": "Hanūr",
+    "country": "IN",
+    "lat": 12.0874,
+    "lng": 77.30208
+  },
+  {
+    "name": "Hanumāngarh",
+    "country": "IN",
+    "lat": 29.58182,
+    "lng": 74.32938
+  },
+  {
+    "name": "Hansot",
+    "country": "IN",
+    "lat": 21.58496,
+    "lng": 72.80764
+  },
+  {
+    "name": "Handiā",
+    "country": "IN",
+    "lat": 25.36379,
+    "lng": 82.18655
+  },
+  {
+    "name": "Handwāra",
+    "country": "IN",
+    "lat": 34.39677,
+    "lng": 74.28138
+  },
+  {
+    "name": "Hampi",
+    "country": "IN",
+    "lat": 15.3352,
+    "lng": 76.4603
+  },
+  {
+    "name": "Hamīrpur",
+    "country": "IN",
+    "lat": 31.68411,
+    "lng": 76.52506
+  },
+  {
+    "name": "Hamīrpur",
+    "country": "IN",
+    "lat": 25.9553,
+    "lng": 80.14842
+  },
+  {
+    "name": "Hamīrgarh",
+    "country": "IN",
+    "lat": 25.18772,
+    "lng": 74.63122
+  },
+  {
+    "name": "Halwāra",
+    "country": "IN",
+    "lat": 30.7251,
+    "lng": 75.64252
+  },
+  {
+    "name": "Halvad",
+    "country": "IN",
+    "lat": 23.01516,
+    "lng": 71.18029
+  },
+  {
+    "name": "Haludpukhur",
+    "country": "IN",
+    "lat": 22.60112,
+    "lng": 86.13844
+  },
+  {
+    "name": "Haliyal",
+    "country": "IN",
+    "lat": 15.32864,
+    "lng": 74.75638
+  },
+  {
+    "name": "Haldwani",
+    "country": "IN",
+    "lat": 29.22254,
+    "lng": 79.5286
+  },
+  {
+    "name": "Haldībāri",
+    "country": "IN",
+    "lat": 26.33887,
+    "lng": 88.7822
+  },
+  {
+    "name": "Haldaur",
+    "country": "IN",
+    "lat": 29.28988,
+    "lng": 78.28437
+  },
+  {
+    "name": "Hailākāndi",
+    "country": "IN",
+    "lat": 24.68394,
+    "lng": 92.56097
+  },
+  {
+    "name": "Hadiāya",
+    "country": "IN",
+    "lat": 30.32757,
+    "lng": 75.50198
+  },
+  {
+    "name": "Hadgāon",
+    "country": "IN",
+    "lat": 19.49552,
+    "lng": 77.65863
+  },
+  {
+    "name": "Haldia",
+    "country": "IN",
+    "lat": 22.06046,
+    "lng": 88.10975
+  },
+  {
+    "name": "Haripur",
+    "country": "IN",
+    "lat": 22.93611,
+    "lng": 88.23194
+  },
+  {
+    "name": "Hanumana",
+    "country": "IN",
+    "lat": 24.77888,
+    "lng": 82.096
+  },
+  {
+    "name": "Hashtsāl",
+    "country": "IN",
+    "lat": 28.63406,
+    "lng": 77.05771
+  },
+  {
+    "name": "Hatwāns",
+    "country": "IN",
+    "lat": 22.76828,
+    "lng": 78.34637
+  },
+  {
+    "name": "Harduli",
+    "country": "IN",
+    "lat": 22.92783,
+    "lng": 79.90299
+  },
+  {
+    "name": "Harēkala",
+    "country": "IN",
+    "lat": 12.84255,
+    "lng": 74.91528
+  },
+  {
+    "name": "Haralāpura",
+    "country": "IN",
+    "lat": 14.53306,
+    "lng": 75.80934
+  },
+  {
+    "name": "Haralahalli",
+    "country": "IN",
+    "lat": 13.04129,
+    "lng": 76.10595
+  },
+  {
+    "name": "Hawai",
+    "country": "IN",
+    "lat": 27.88677,
+    "lng": 96.8017
+  },
+  {
+    "name": "Hatsingimari",
+    "country": "IN",
+    "lat": 25.70986,
+    "lng": 89.90078
+  },
+  {
+    "name": "Hale Dharmapuri",
+    "country": "IN",
+    "lat": 12.15876,
+    "lng": 78.16358
+  },
+  {
+    "name": "Hanumantanpatti",
+    "country": "IN",
+    "lat": 9.78585,
+    "lng": 77.31701
+  },
+  {
+    "name": "Hamren",
+    "country": "IN",
+    "lat": 25.93354,
+    "lng": 92.61656
+  },
+  {
+    "name": "Harina Pashdal Bar",
+    "country": "IN",
+    "lat": 21.9021,
+    "lng": 87.7062
+  },
+  {
+    "name": "Haveli",
+    "country": "IN",
+    "lat": 18.42966,
+    "lng": 73.88218
+  },
+  {
+    "name": "Hamren",
+    "country": "IN",
+    "lat": 25.84696,
+    "lng": 92.57409
+  },
+  {
+    "name": "Habibpur",
+    "country": "IN",
+    "lat": 25.23828,
+    "lng": 86.94676
+  },
+  {
+    "name": "Hajira INA",
+    "country": "IN",
+    "lat": 21.11295,
+    "lng": 72.6502
+  },
+  {
+    "name": "Hadgood",
+    "country": "IN",
+    "lat": 22.52818,
+    "lng": 72.97853
+  },
+  {
+    "name": "Harina",
+    "country": "IN",
+    "lat": 23.8078,
+    "lng": 86.20745
+  },
+  {
+    "name": "Hariharpur",
+    "country": "IN",
+    "lat": 23.88884,
+    "lng": 86.13065
+  },
+  {
+    "name": "Hasir",
+    "country": "IN",
+    "lat": 23.77346,
+    "lng": 85.81395
+  },
+  {
+    "name": "Haludbani",
+    "country": "IN",
+    "lat": 22.75123,
+    "lng": 86.2099
+  },
+  {
+    "name": "Hajarmachi",
+    "country": "IN",
+    "lat": 17.31434,
+    "lng": 74.23114
+  },
+  {
+    "name": "Hajiawa",
+    "country": "IQ",
+    "lat": 36.23579,
+    "lng": 44.79469
+  },
+  {
+    "name": "Halshaw",
+    "country": "IQ",
+    "lat": 36.20684,
+    "lng": 45.27274
+  },
+  {
+    "name": "Hayraw",
+    "country": "IQ",
+    "lat": 36.12682,
+    "lng": 45.28279
+  },
+  {
+    "name": "Hawe Ben Alean",
+    "country": "IQ",
+    "lat": 35.27135,
+    "lng": 43.37825
+  },
+  {
+    "name": "Hashtpar",
+    "country": "IR",
+    "lat": 37.79658,
+    "lng": 48.90521
+  },
+  {
+    "name": "Halor",
+    "country": "IR",
+    "lat": 26.9669,
+    "lng": 56.0834
+  },
+  {
+    "name": "Hashatjīn",
+    "country": "IR",
+    "lat": 37.36885,
+    "lng": 48.32155
+  },
+  {
+    "name": "Hashtgerd",
+    "country": "IR",
+    "lat": 35.962,
+    "lng": 50.6799
+  },
+  {
+    "name": "Harsīn",
+    "country": "IR",
+    "lat": 34.2721,
+    "lng": 47.5861
+  },
+  {
+    "name": "Hamadān",
+    "country": "IR",
+    "lat": 34.79922,
+    "lng": 48.51456
+  },
+  {
+    "name": "Haftkel",
+    "country": "IR",
+    "lat": 31.44686,
+    "lng": 49.52951
+  },
+  {
+    "name": "Hafshejān",
+    "country": "IR",
+    "lat": 32.22662,
+    "lng": 50.79314
+  },
+  {
+    "name": "Hashtrūd",
+    "country": "IR",
+    "lat": 37.4779,
+    "lng": 47.0508
+  },
+  {
+    "name": "Hafnarfjörður",
+    "country": "IS",
+    "lat": 64.0671,
+    "lng": -21.93774
+  },
+  {
+    "name": "Hayes",
+    "country": "JM",
+    "lat": 17.87569,
+    "lng": -77.23711
+  },
+  {
+    "name": "Half Way Tree",
+    "country": "JM",
+    "lat": 18.01248,
+    "lng": -76.79928
+  },
+  {
+    "name": "Hamamatsuchō",
+    "country": "JP",
+    "lat": 35.65545,
+    "lng": 139.75547
+  },
+  {
+    "name": "Hayashino",
+    "country": "JP",
+    "lat": 35.0,
+    "lng": 134.15
+  },
+  {
+    "name": "Hayashima",
+    "country": "JP",
+    "lat": 34.60388,
+    "lng": 133.82947
+  },
+  {
+    "name": "Hayama",
+    "country": "JP",
+    "lat": 35.27651,
+    "lng": 139.57733
+  },
+  {
+    "name": "Hayakawa",
+    "country": "JP",
+    "lat": 35.45,
+    "lng": 138.35
+  },
+  {
+    "name": "Hatsukaichi",
+    "country": "JP",
+    "lat": 34.35,
+    "lng": 132.33333
+  },
+  {
+    "name": "Hatogaya-honchō",
+    "country": "JP",
+    "lat": 35.83314,
+    "lng": 139.7425
+  },
+  {
+    "name": "Hatchōbori",
+    "country": "JP",
+    "lat": 35.67533,
+    "lng": 139.77529
+  },
+  {
+    "name": "Hashimoto",
+    "country": "JP",
+    "lat": 34.31667,
+    "lng": 135.61667
+  },
+  {
+    "name": "Hara-machida",
+    "country": "JP",
+    "lat": 35.53333,
+    "lng": 139.45
+  },
+  {
+    "name": "Harai",
+    "country": "JP",
+    "lat": 33.52393,
+    "lng": 131.16508
+  },
+  {
+    "name": "Haramachi",
+    "country": "JP",
+    "lat": 36.57273,
+    "lng": 138.82639
+  },
+  {
+    "name": "Hara",
+    "country": "JP",
+    "lat": 35.96667,
+    "lng": 138.55
+  },
+  {
+    "name": "Hara",
+    "country": "JP",
+    "lat": 34.04296,
+    "lng": 133.92684
+  },
+  {
+    "name": "Hanyū",
+    "country": "JP",
+    "lat": 36.16667,
+    "lng": 139.53333
+  },
+  {
+    "name": "Hannō",
+    "country": "JP",
+    "lat": 35.85194,
+    "lng": 139.31806
+  },
+  {
+    "name": "Haneda",
+    "country": "JP",
+    "lat": 35.54913,
+    "lng": 139.7456
+  },
+  {
+    "name": "Handa",
+    "country": "JP",
+    "lat": 34.88333,
+    "lng": 136.93333
+  },
+  {
+    "name": "Hamasaka",
+    "country": "JP",
+    "lat": 35.61667,
+    "lng": 134.45
+  },
+  {
+    "name": "Hamanose",
+    "country": "JP",
+    "lat": 33.88333,
+    "lng": 135.15
+  },
+  {
+    "name": "Hamanoichi",
+    "country": "JP",
+    "lat": 31.71667,
+    "lng": 130.73333
+  },
+  {
+    "name": "Hamamatsu",
+    "country": "JP",
+    "lat": 34.7,
+    "lng": 137.73333
+  },
+  {
+    "name": "Hamakita",
+    "country": "JP",
+    "lat": 34.8,
+    "lng": 137.78333
+  },
+  {
+    "name": "Hamada",
+    "country": "JP",
+    "lat": 34.88333,
+    "lng": 132.08333
+  },
+  {
+    "name": "Hakui",
+    "country": "JP",
+    "lat": 36.88333,
+    "lng": 136.78333
+  },
+  {
+    "name": "Hakonegasaki",
+    "country": "JP",
+    "lat": 35.76944,
+    "lng": 139.35111
+  },
+  {
+    "name": "Hakone",
+    "country": "JP",
+    "lat": 35.18945,
+    "lng": 139.02649
+  },
+  {
+    "name": "Haibara-akanedai",
+    "country": "JP",
+    "lat": 34.53333,
+    "lng": 135.95
+  },
+  {
+    "name": "Hagi",
+    "country": "JP",
+    "lat": 34.4,
+    "lng": 131.41667
+  },
+  {
+    "name": "Hadano",
+    "country": "JP",
+    "lat": 35.37111,
+    "lng": 139.22361
+  },
+  {
+    "name": "Hachiōji",
+    "country": "JP",
+    "lat": 35.65583,
+    "lng": 139.32389
+  },
+  {
+    "name": "Hasuda",
+    "country": "JP",
+    "lat": 35.97113,
+    "lng": 139.6491
+  },
+  {
+    "name": "Haramachi",
+    "country": "JP",
+    "lat": 33.77037,
+    "lng": 132.78977
+  },
+  {
+    "name": "Hasaki",
+    "country": "JP",
+    "lat": 35.73333,
+    "lng": 140.83333
+  },
+  {
+    "name": "Hanawa",
+    "country": "JP",
+    "lat": 36.94727,
+    "lng": 140.41646
+  },
+  {
+    "name": "Hanamaki",
+    "country": "JP",
+    "lat": 39.38333,
+    "lng": 141.11667
+  },
+  {
+    "name": "Hamaikawa",
+    "country": "JP",
+    "lat": 39.91362,
+    "lng": 140.07422
+  },
+  {
+    "name": "Hachirougata",
+    "country": "JP",
+    "lat": 39.93333,
+    "lng": 140.08333
+  },
+  {
+    "name": "Hanawa",
+    "country": "JP",
+    "lat": 40.18361,
+    "lng": 140.78722
+  },
+  {
+    "name": "Hamanaka-sakuraminami",
+    "country": "JP",
+    "lat": 43.15343,
+    "lng": 145.10253
+  },
+  {
+    "name": "Hakodate",
+    "country": "JP",
+    "lat": 41.77583,
+    "lng": 140.73667
+  },
+  {
+    "name": "Hachinohe",
+    "country": "JP",
+    "lat": 40.5,
+    "lng": 141.5
+  },
+  {
+    "name": "Haboro",
+    "country": "JP",
+    "lat": 44.35778,
+    "lng": 141.70222
+  },
+  {
+    "name": "Hamatonbetsu",
+    "country": "JP",
+    "lat": 45.13333,
+    "lng": 142.38333
+  },
+  {
+    "name": "Hachimantai",
+    "country": "JP",
+    "lat": 39.89979,
+    "lng": 141.12989
+  },
+  {
+    "name": "Hashima",
+    "country": "JP",
+    "lat": 35.329,
+    "lng": 136.68051
+  },
+  {
+    "name": "Habikino",
+    "country": "JP",
+    "lat": 34.55276,
+    "lng": 135.59097
+  },
+  {
+    "name": "Hannan",
+    "country": "JP",
+    "lat": 34.33333,
+    "lng": 135.25
+  },
+  {
+    "name": "Hakurōmachi",
+    "country": "JP",
+    "lat": 40.52352,
+    "lng": 141.30613
+  },
+  {
+    "name": "Hasune",
+    "country": "JP",
+    "lat": 35.78302,
+    "lng": 139.67556
+  },
+  {
+    "name": "Hatsudai",
+    "country": "JP",
+    "lat": 35.67729,
+    "lng": 139.68588
+  },
+  {
+    "name": "Hakuba",
+    "country": "JP",
+    "lat": 36.69818,
+    "lng": 137.86185
+  },
+  {
+    "name": "Hario",
+    "country": "JP",
+    "lat": 36.11961,
+    "lng": 137.84278
+  },
+  {
+    "name": "Hatchō-muta",
+    "country": "JP",
+    "lat": 33.21071,
+    "lng": 130.43386
+  },
+  {
+    "name": "Hayakawa",
+    "country": "JP",
+    "lat": 35.24187,
+    "lng": 139.14247
+  },
+  {
+    "name": "Hachijō",
+    "country": "JP",
+    "lat": 33.10276,
+    "lng": 139.7788
+  },
+  {
+    "name": "Hamura",
+    "country": "JP",
+    "lat": 35.76232,
+    "lng": 139.31952
+  },
+  {
+    "name": "Hakusan",
+    "country": "JP",
+    "lat": 36.48204,
+    "lng": 136.58684
+  },
+  {
+    "name": "Hakuraku",
+    "country": "JP",
+    "lat": 35.48926,
+    "lng": 139.62798
+  },
+  {
+    "name": "Haruta",
+    "country": "JP",
+    "lat": 35.1422,
+    "lng": 136.8121
+  },
+  {
+    "name": "Hatoyama",
+    "country": "JP",
+    "lat": 35.98146,
+    "lng": 139.33411
+  },
+  {
+    "name": "Habaswein",
+    "country": "KE",
+    "lat": 1.01659,
+    "lng": 39.49122
+  },
+  {
+    "name": "Han Chey",
+    "country": "KH",
+    "lat": 12.25816,
+    "lng": 105.94835
+  },
+  {
+    "name": "Han Chey",
+    "country": "KH",
+    "lat": 12.14333,
+    "lng": 105.52702
+  },
+  {
+    "name": "Haong Samnam",
+    "country": "KH",
+    "lat": 11.57149,
+    "lng": 104.23424
+  },
+  {
+    "name": "Hajoho",
+    "country": "KM",
+    "lat": -12.12434,
+    "lng": 44.48881
+  },
+  {
+    "name": "Harembo",
+    "country": "KM",
+    "lat": -12.15108,
+    "lng": 44.49828
+  },
+  {
+    "name": "Hantsindzi",
+    "country": "KM",
+    "lat": -11.43178,
+    "lng": 43.41102
+  },
+  {
+    "name": "Hamhŭng",
+    "country": "KP",
+    "lat": 39.91833,
+    "lng": 127.53639
+  },
+  {
+    "name": "Haeju",
+    "country": "KP",
+    "lat": 38.04056,
+    "lng": 125.71472
+  },
+  {
+    "name": "Hau-ri",
+    "country": "KP",
+    "lat": 41.20056,
+    "lng": 129.47028
+  },
+  {
+    "name": "Hahoe-dong",
+    "country": "KP",
+    "lat": 42.50417,
+    "lng": 130.49522
+  },
+  {
+    "name": "Hayang",
+    "country": "KR",
+    "lat": 35.91333,
+    "lng": 128.82
+  },
+  {
+    "name": "Hancheolli",
+    "country": "KR",
+    "lat": 34.97411,
+    "lng": 127.00028
+  },
+  {
+    "name": "Haenam",
+    "country": "KR",
+    "lat": 34.57111,
+    "lng": 126.59889
+  },
+  {
+    "name": "Hamyeol",
+    "country": "KR",
+    "lat": 36.07595,
+    "lng": 126.96405
+  },
+  {
+    "name": "Hanam",
+    "country": "KR",
+    "lat": 37.54,
+    "lng": 127.20556
+  },
+  {
+    "name": "Haksan",
+    "country": "KR",
+    "lat": 36.0976,
+    "lng": 127.6844
+  },
+  {
+    "name": "Hajeom",
+    "country": "KR",
+    "lat": 37.77419,
+    "lng": 126.41226
+  },
+  {
+    "name": "Haseong",
+    "country": "KR",
+    "lat": 37.71953,
+    "lng": 126.63107
+  },
+  {
+    "name": "Haean",
+    "country": "KR",
+    "lat": 38.28634,
+    "lng": 128.13774
+  },
+  {
+    "name": "Haeryong",
+    "country": "KR",
+    "lat": 34.91406,
+    "lng": 127.53764
+  },
+  {
+    "name": "Hadong",
+    "country": "KR",
+    "lat": 35.068,
+    "lng": 127.75147
+  },
+  {
+    "name": "Haeje",
+    "country": "KR",
+    "lat": 35.11073,
+    "lng": 126.29458
+  },
+  {
+    "name": "Haebo",
+    "country": "KR",
+    "lat": 35.18122,
+    "lng": 126.60102
+  },
+  {
+    "name": "Haeri",
+    "country": "KR",
+    "lat": 35.46144,
+    "lng": 126.53914
+  },
+  {
+    "name": "Half Way Pond",
+    "country": "KY",
+    "lat": 19.28687,
+    "lng": -81.37212
+  },
+  {
+    "name": "Half Way Ground",
+    "country": "KY",
+    "lat": 19.72119,
+    "lng": -79.82195
+  },
+  {
+    "name": "Half Moon Bay",
+    "country": "KY",
+    "lat": 19.29689,
+    "lng": -81.15102
+  },
+  {
+    "name": "Hasbaya",
+    "country": "LB",
+    "lat": 33.39778,
+    "lng": 35.685
+  },
+  {
+    "name": "Halba",
+    "country": "LB",
+    "lat": 34.54278,
+    "lng": 36.07972
+  },
+  {
+    "name": "Habboûch",
+    "country": "LB",
+    "lat": 33.40729,
+    "lng": 35.48169
+  },
+  {
+    "name": "Hatton",
+    "country": "LK",
+    "lat": 6.8916,
+    "lng": 80.5955
+  },
+  {
+    "name": "Haputale",
+    "country": "LK",
+    "lat": 6.76566,
+    "lng": 80.95104
+  },
+  {
+    "name": "Hanwella Ihala",
+    "country": "LK",
+    "lat": 6.9012,
+    "lng": 80.0852
+  },
+  {
+    "name": "Harper",
+    "country": "LR",
+    "lat": 4.3782,
+    "lng": -7.71081
+  },
+  {
+    "name": "Harbel",
+    "country": "LR",
+    "lat": 6.24683,
+    "lng": -10.35642
+  },
+  {
+    "name": "Hautcharage",
+    "country": "LU",
+    "lat": 49.57499,
+    "lng": 5.9097
+  },
+  {
+    "name": "Hamm",
+    "country": "LU",
+    "lat": 49.60694,
+    "lng": 6.16861
+  },
+  {
+    "name": "Hagen",
+    "country": "LU",
+    "lat": 49.64944,
+    "lng": 5.93167
+  },
+  {
+    "name": "Hassi Berkane",
+    "country": "MA",
+    "lat": 34.83898,
+    "lng": -2.86699
+  },
+  {
+    "name": "Haj Kaddour",
+    "country": "MA",
+    "lat": 33.82507,
+    "lng": -5.42501
+  },
+  {
+    "name": "Had Kourt",
+    "country": "MA",
+    "lat": 34.61588,
+    "lng": -5.7404
+  },
+  {
+    "name": "Had Abdallah Rhiat",
+    "country": "MA",
+    "lat": 31.51914,
+    "lng": -7.83691
+  },
+  {
+    "name": "Had Hrara",
+    "country": "MA",
+    "lat": 32.44072,
+    "lng": -9.13344
+  },
+  {
+    "name": "Had Beni Chiker",
+    "country": "MA",
+    "lat": 35.27652,
+    "lng": -3.01452
+  },
+  {
+    "name": "Had Oulad Zbair",
+    "country": "MA",
+    "lat": 34.2894,
+    "lng": -4.31952
+  },
+  {
+    "name": "Had Bouhssoussen",
+    "country": "MA",
+    "lat": 33.14861,
+    "lng": -6.07972
+  },
+  {
+    "name": "Hattane",
+    "country": "MA",
+    "lat": 32.84085,
+    "lng": -6.80027
+  },
+  {
+    "name": "Had Soualem",
+    "country": "MA",
+    "lat": 33.41972,
+    "lng": -7.85237
+  },
+  {
+    "name": "Hakha",
+    "country": "MM",
+    "lat": 22.64452,
+    "lng": 93.61076
+  },
+  {
+    "name": "Havtsal",
+    "country": "MN",
+    "lat": 50.1,
+    "lng": 91.66667
+  },
+  {
+    "name": "Har-Us",
+    "country": "MN",
+    "lat": 49.03333,
+    "lng": 92.03333
+  },
+  {
+    "name": "Har-Us",
+    "country": "MN",
+    "lat": 48.48333,
+    "lng": 91.43333
+  },
+  {
+    "name": "Harmod",
+    "country": "MN",
+    "lat": 50.3413,
+    "lng": 91.60641
+  },
+  {
+    "name": "Harhiraa",
+    "country": "MN",
+    "lat": 49.77849,
+    "lng": 91.90424
+  },
+  {
+    "name": "Haliun",
+    "country": "MN",
+    "lat": 45.9296,
+    "lng": 96.16239
+  },
+  {
+    "name": "Halban",
+    "country": "MN",
+    "lat": 49.52877,
+    "lng": 97.7409
+  },
+  {
+    "name": "Haylaastay",
+    "country": "MN",
+    "lat": 46.77076,
+    "lng": 113.88248
+  },
+  {
+    "name": "Havirga",
+    "country": "MN",
+    "lat": 45.66667,
+    "lng": 113.08333
+  },
+  {
+    "name": "Hatavch",
+    "country": "MN",
+    "lat": 46.16667,
+    "lng": 112.95
+  },
+  {
+    "name": "Hatansuudal",
+    "country": "MN",
+    "lat": 44.54595,
+    "lng": 100.82788
+  },
+  {
+    "name": "Hashaat",
+    "country": "MN",
+    "lat": 45.24323,
+    "lng": 104.80511
+  },
+  {
+    "name": "Haraat",
+    "country": "MN",
+    "lat": 46.41667,
+    "lng": 107.65
+  },
+  {
+    "name": "Hanhöhiy",
+    "country": "MN",
+    "lat": 47.61667,
+    "lng": 112.13333
+  },
+  {
+    "name": "Hajuu-Us",
+    "country": "MN",
+    "lat": 46.04988,
+    "lng": 107.48955
+  },
+  {
+    "name": "Hassi Chegar",
+    "country": "MR",
+    "lat": 15.36628,
+    "lng": -12.08663
+  },
+  {
+    "name": "Hamoud",
+    "country": "MR",
+    "lat": 15.64004,
+    "lng": -11.51864
+  },
+  {
+    "name": "Haz-Zebbug",
+    "country": "MT",
+    "lat": 35.87194,
+    "lng": 14.44111
+  },
+  {
+    "name": "Hal Gharghur",
+    "country": "MT",
+    "lat": 35.92409,
+    "lng": 14.45118
+  },
+  {
+    "name": "Hampolol",
+    "country": "MX",
+    "lat": 19.92716,
+    "lng": -90.38924
+  },
+  {
+    "name": "Halachó",
+    "country": "MX",
+    "lat": 20.4777,
+    "lng": -90.08104
+  },
+  {
+    "name": "Hacienda Blanca",
+    "country": "MX",
+    "lat": 17.13994,
+    "lng": -96.7759
+  },
+  {
+    "name": "Haro",
+    "country": "MX",
+    "lat": 18.44418,
+    "lng": -90.79153
+  },
+  {
+    "name": "Hacienda Nueva",
+    "country": "MX",
+    "lat": 22.82461,
+    "lng": -102.60836
+  },
+  {
+    "name": "Hacienda de Márquez",
+    "country": "MX",
+    "lat": 20.78037,
+    "lng": -101.35979
+  },
+  {
+    "name": "Hacienda de la Bolsa",
+    "country": "MX",
+    "lat": 20.37524,
+    "lng": -101.10425
+  },
+  {
+    "name": "Hacienda Arriba",
+    "country": "MX",
+    "lat": 21.23366,
+    "lng": -101.70393
+  },
+  {
+    "name": "Hacienda de Cabañas",
+    "country": "MX",
+    "lat": 17.09731,
+    "lng": -100.47163
+  },
+  {
+    "name": "Hacienda Santa Fe",
+    "country": "MX",
+    "lat": 20.51806,
+    "lng": -103.38056
+  },
+  {
+    "name": "Hacienda los Fresnos",
+    "country": "MX",
+    "lat": 20.51944,
+    "lng": -103.39306
+  },
+  {
+    "name": "Hacienda San Pedro",
+    "country": "MX",
+    "lat": 25.91472,
+    "lng": -100.16278
+  },
+  {
+    "name": "Hacienda la Cruz [Fraccionamiento]",
+    "country": "MX",
+    "lat": 20.63333,
+    "lng": -100.26278
+  },
+  {
+    "name": "Hacienda Vieja del Castillo (Castillo Viejo)",
+    "country": "MX",
+    "lat": 20.54,
+    "lng": -103.24417
+  },
+  {
+    "name": "Hacienda Tecate",
+    "country": "MX",
+    "lat": 32.565,
+    "lng": -116.525
+  },
+  {
+    "name": "Habanero 1ra. Sección (Venustiano Carranza)",
+    "country": "MX",
+    "lat": 17.96778,
+    "lng": -93.32806
+  },
+  {
+    "name": "Hacienda Sotavento",
+    "country": "MX",
+    "lat": 19.13361,
+    "lng": -96.18139
+  },
+  {
+    "name": "Hacienda San Marcos [Fraccionamiento]",
+    "country": "MX",
+    "lat": 21.80611,
+    "lng": -102.26556
+  },
+  {
+    "name": "Haut-Magenta",
+    "country": "NC",
+    "lat": -22.2632,
+    "lng": 166.45863
+  },
+  {
+    "name": "Hadejia",
+    "country": "NG",
+    "lat": 12.45347,
+    "lng": 10.04115
+  },
+  {
+    "name": "Havelte",
+    "country": "NL",
+    "lat": 52.76941,
+    "lng": 6.24015
+  },
+  {
+    "name": "Haulerwijk",
+    "country": "NL",
+    "lat": 53.06468,
+    "lng": 6.33453
+  },
+  {
+    "name": "Hattemerbroek",
+    "country": "NL",
+    "lat": 52.47417,
+    "lng": 6.02222
+  },
+  {
+    "name": "Hattem",
+    "country": "NL",
+    "lat": 52.475,
+    "lng": 6.06389
+  },
+  {
+    "name": "Hatert",
+    "country": "NL",
+    "lat": 51.80635,
+    "lng": 5.83057
+  },
+  {
+    "name": "Hasselt",
+    "country": "NL",
+    "lat": 52.59267,
+    "lng": 6.09527
+  },
+  {
+    "name": "Harskamp",
+    "country": "NL",
+    "lat": 52.13,
+    "lng": 5.75278
+  },
+  {
+    "name": "Harlingen",
+    "country": "NL",
+    "lat": 53.17477,
+    "lng": 5.42244
+  },
+  {
+    "name": "Harkstede",
+    "country": "NL",
+    "lat": 53.21333,
+    "lng": 6.69861
+  },
+  {
+    "name": "Harkema",
+    "country": "NL",
+    "lat": 53.18333,
+    "lng": 6.13333
+  },
+  {
+    "name": "Harenkarspel",
+    "country": "NL",
+    "lat": 52.73416,
+    "lng": 4.77682
+  },
+  {
+    "name": "Haren",
+    "country": "NL",
+    "lat": 53.17209,
+    "lng": 6.60931
+  },
+  {
+    "name": "Harderwijk",
+    "country": "NL",
+    "lat": 52.34167,
+    "lng": 5.62083
+  },
+  {
+    "name": "Hardenberg",
+    "country": "NL",
+    "lat": 52.57583,
+    "lng": 6.61944
+  },
+  {
+    "name": "Haps",
+    "country": "NL",
+    "lat": 51.68917,
+    "lng": 5.86111
+  },
+  {
+    "name": "Hapert",
+    "country": "NL",
+    "lat": 51.36833,
+    "lng": 5.25694
+  },
+  {
+    "name": "Hank",
+    "country": "NL",
+    "lat": 51.735,
+    "lng": 4.89722
+  },
+  {
+    "name": "Handel",
+    "country": "NL",
+    "lat": 51.58,
+    "lng": 5.70972
+  },
+  {
+    "name": "Halsteren",
+    "country": "NL",
+    "lat": 51.52834,
+    "lng": 4.26785
+  },
+  {
+    "name": "Hallum",
+    "country": "NL",
+    "lat": 53.30657,
+    "lng": 5.78379
+  },
+  {
+    "name": "Halfweg",
+    "country": "NL",
+    "lat": 52.52417,
+    "lng": 4.92778
+  },
+  {
+    "name": "Halfweg",
+    "country": "NL",
+    "lat": 52.3825,
+    "lng": 4.75417
+  },
+  {
+    "name": "Hagestein",
+    "country": "NL",
+    "lat": 51.98083,
+    "lng": 5.12222
+  },
+  {
+    "name": "Haelen",
+    "country": "NL",
+    "lat": 51.23583,
+    "lng": 5.95694
+  },
+  {
+    "name": "Haastrecht",
+    "country": "NL",
+    "lat": 52.00074,
+    "lng": 4.77639
+  },
+  {
+    "name": "Haarsteeg",
+    "country": "NL",
+    "lat": 51.71167,
+    "lng": 5.19861
+  },
+  {
+    "name": "Haarlem",
+    "country": "NL",
+    "lat": 52.38084,
+    "lng": 4.63683
+  },
+  {
+    "name": "Haarle",
+    "country": "NL",
+    "lat": 52.35917,
+    "lng": 6.38056
+  },
+  {
+    "name": "Haaren",
+    "country": "NL",
+    "lat": 51.6025,
+    "lng": 5.22222
+  },
+  {
+    "name": "Haanrade",
+    "country": "NL",
+    "lat": 50.87981,
+    "lng": 6.07411
+  },
+  {
+    "name": "Haamstede",
+    "country": "NL",
+    "lat": 51.69682,
+    "lng": 3.74299
+  },
+  {
+    "name": "Haalderen",
+    "country": "NL",
+    "lat": 51.8875,
+    "lng": 5.92917
+  },
+  {
+    "name": "Haaksbergen",
+    "country": "NL",
+    "lat": 52.15667,
+    "lng": 6.73889
+  },
+  {
+    "name": "Haaften",
+    "country": "NL",
+    "lat": 51.81583,
+    "lng": 5.21111
+  },
+  {
+    "name": "Hammerfest",
+    "country": "NO",
+    "lat": 70.66313,
+    "lng": 23.68092
+  },
+  {
+    "name": "Hauknes",
+    "country": "NO",
+    "lat": 66.28333,
+    "lng": 14.06667
+  },
+  {
+    "name": "Haugesund",
+    "country": "NO",
+    "lat": 59.41378,
+    "lng": 5.268
+  },
+  {
+    "name": "Hauge i Dalane",
+    "country": "NO",
+    "lat": 58.34361,
+    "lng": 6.28121
+  },
+  {
+    "name": "Harstad",
+    "country": "NO",
+    "lat": 68.79833,
+    "lng": 16.54165
+  },
+  {
+    "name": "Hareid",
+    "country": "NO",
+    "lat": 62.37041,
+    "lng": 6.02902
+  },
+  {
+    "name": "Hardbakke",
+    "country": "NO",
+    "lat": 61.07562,
+    "lng": 4.84111
+  },
+  {
+    "name": "Haram",
+    "country": "NO",
+    "lat": 62.65781,
+    "lng": 6.24094
+  },
+  {
+    "name": "Hansnes",
+    "country": "NO",
+    "lat": 69.96701,
+    "lng": 19.62752
+  },
+  {
+    "name": "Hamnvik",
+    "country": "NO",
+    "lat": 68.77927,
+    "lng": 17.17179
+  },
+  {
+    "name": "Hamar",
+    "country": "NO",
+    "lat": 60.7945,
+    "lng": 11.06798
+  },
+  {
+    "name": "Halden",
+    "country": "NO",
+    "lat": 59.12478,
+    "lng": 11.38754
+  },
+  {
+    "name": "Hagavik",
+    "country": "NO",
+    "lat": 60.18076,
+    "lng": 5.40146
+  },
+  {
+    "name": "Hattfjelldal",
+    "country": "NO",
+    "lat": 65.59736,
+    "lng": 13.98791
+  },
+  {
+    "name": "Hatteng",
+    "country": "NO",
+    "lat": 69.27072,
+    "lng": 19.95944
+  },
+  {
+    "name": "Hari Bdr Tamang House",
+    "country": "NP",
+    "lat": 27.6289,
+    "lng": 85.45893
+  },
+  {
+    "name": "Havelock North",
+    "country": "NZ",
+    "lat": -39.66667,
+    "lng": 176.88333
+  },
+  {
+    "name": "Haumoana",
+    "country": "NZ",
+    "lat": -39.6037,
+    "lng": 176.94571
+  },
+  {
+    "name": "Hastings",
+    "country": "NZ",
+    "lat": -39.6381,
+    "lng": 176.84918
+  },
+  {
+    "name": "Haruru",
+    "country": "NZ",
+    "lat": -35.28066,
+    "lng": 174.05434
+  },
+  {
+    "name": "Harewood",
+    "country": "NZ",
+    "lat": -43.48333,
+    "lng": 172.58333
+  },
+  {
+    "name": "Hanmer Springs",
+    "country": "NZ",
+    "lat": -42.51667,
+    "lng": 172.81667
+  },
+  {
+    "name": "Hamurana",
+    "country": "NZ",
+    "lat": -38.03333,
+    "lng": 176.26667
+  },
+  {
+    "name": "Hamilton",
+    "country": "NZ",
+    "lat": -37.78333,
+    "lng": 175.28333
+  },
+  {
+    "name": "Halswell",
+    "country": "NZ",
+    "lat": -43.58333,
+    "lng": 172.56667
+  },
+  {
+    "name": "Halfway Bush",
+    "country": "NZ",
+    "lat": -45.85,
+    "lng": 170.46667
+  },
+  {
+    "name": "Hawera",
+    "country": "NZ",
+    "lat": -39.59167,
+    "lng": 174.28333
+  },
+  {
+    "name": "Hawthorndale",
+    "country": "NZ",
+    "lat": -46.39841,
+    "lng": 168.38009
+  },
+  {
+    "name": "Hampstead",
+    "country": "NZ",
+    "lat": -43.90834,
+    "lng": 171.75011
+  },
+  {
+    "name": "Half Moon Bay",
+    "country": "NZ",
+    "lat": -36.8782,
+    "lng": 174.89019
+  },
+  {
+    "name": "Hauraki",
+    "country": "NZ",
+    "lat": -36.79961,
+    "lng": 174.778
+  },
+  {
+    "name": "Hataitai",
+    "country": "NZ",
+    "lat": -41.30431,
+    "lng": 174.7942
+  },
+  {
+    "name": "Hamilton East",
+    "country": "NZ",
+    "lat": -37.78821,
+    "lng": 175.2902
+  },
+  {
+    "name": "Hamilton West",
+    "country": "NZ",
+    "lat": -37.78821,
+    "lng": 175.2702
+  },
+  {
+    "name": "Haymā’",
+    "country": "OM",
+    "lat": 19.95931,
+    "lng": 56.27575
+  },
+  {
+    "name": "Hato Pilón",
+    "country": "PA",
+    "lat": 8.40172,
+    "lng": -81.86809
+  },
+  {
+    "name": "Hato Montaña",
+    "country": "PA",
+    "lat": 8.91938,
+    "lng": -79.73915
+  },
+  {
+    "name": "Hato Julí",
+    "country": "PA",
+    "lat": 8.35259,
+    "lng": -81.84839
+  },
+  {
+    "name": "Hato Jobo",
+    "country": "PA",
+    "lat": 8.41025,
+    "lng": -81.89239
+  },
+  {
+    "name": "Hato Culantro",
+    "country": "PA",
+    "lat": 8.47209,
+    "lng": -81.86204
+  },
+  {
+    "name": "Hato Corotú",
+    "country": "PA",
+    "lat": 8.33516,
+    "lng": -81.9703
+  },
+  {
+    "name": "Hato Chamí",
+    "country": "PA",
+    "lat": 8.44853,
+    "lng": -81.77025
+  },
+  {
+    "name": "Hacienda Pucala",
+    "country": "PE",
+    "lat": -6.77919,
+    "lng": -79.60258
+  },
+  {
+    "name": "Habana",
+    "country": "PE",
+    "lat": -6.08167,
+    "lng": -77.09083
+  },
+  {
+    "name": "Haquira",
+    "country": "PE",
+    "lat": -14.21278,
+    "lng": -72.19
+  },
+  {
+    "name": "Haapiti",
+    "country": "PF",
+    "lat": -17.56352,
+    "lng": -149.86905
+  },
+  {
+    "name": "Hacienda Santa Rosa",
+    "country": "PH",
+    "lat": 10.57226,
+    "lng": 123.1012
+  },
+  {
+    "name": "Hacienda Refugio",
+    "country": "PH",
+    "lat": 10.52166,
+    "lng": 123.4445
+  },
+  {
+    "name": "Hamoraon",
+    "country": "PH",
+    "lat": 12.22564,
+    "lng": 123.55151
+  },
+  {
+    "name": "Harrison",
+    "country": "PH",
+    "lat": 13.45,
+    "lng": 120.43333
+  },
+  {
+    "name": "Hapao",
+    "country": "PH",
+    "lat": 16.87966,
+    "lng": 121.01604
+  },
+  {
+    "name": "Hamtic",
+    "country": "PH",
+    "lat": 10.7023,
+    "lng": 121.9824
+  },
+  {
+    "name": "Halog West",
+    "country": "PH",
+    "lat": 16.3668,
+    "lng": 120.4147
+  },
+  {
+    "name": "Haligue",
+    "country": "PH",
+    "lat": 13.66667,
+    "lng": 121.11667
+  },
+  {
+    "name": "Halayhayin",
+    "country": "PH",
+    "lat": 14.1891,
+    "lng": 121.4075
+  },
+  {
+    "name": "Halayhay",
+    "country": "PH",
+    "lat": 14.37389,
+    "lng": 120.81333
+  },
+  {
+    "name": "Halapitan",
+    "country": "PH",
+    "lat": 7.9175,
+    "lng": 125.33
+  },
+  {
+    "name": "Haguimit",
+    "country": "PH",
+    "lat": 10.3999,
+    "lng": 123.0178
+  },
+  {
+    "name": "Hagonoy",
+    "country": "PH",
+    "lat": 14.83413,
+    "lng": 120.73271
+  },
+  {
+    "name": "Hagonoy",
+    "country": "PH",
+    "lat": 6.68333,
+    "lng": 125.32556
+  },
+  {
+    "name": "Hagnaya",
+    "country": "PH",
+    "lat": 11.0924,
+    "lng": 123.9435
+  },
+  {
+    "name": "Hagdan",
+    "country": "PH",
+    "lat": 11.33333,
+    "lng": 123.9
+  },
+  {
+    "name": "Hacienda",
+    "country": "PH",
+    "lat": 15.936,
+    "lng": 120.1786
+  },
+  {
+    "name": "Hanggan",
+    "country": "PH",
+    "lat": 14.18871,
+    "lng": 121.30009
+  },
+  {
+    "name": "Hazro City",
+    "country": "PK",
+    "lat": 33.9099,
+    "lng": 72.49179
+  },
+  {
+    "name": "Havelian",
+    "country": "PK",
+    "lat": 34.05348,
+    "lng": 73.15993
+  },
+  {
+    "name": "Haveli Lakha",
+    "country": "PK",
+    "lat": 30.45097,
+    "lng": 73.69371
+  },
+  {
+    "name": "Hattiān Bāla",
+    "country": "PK",
+    "lat": 34.1704,
+    "lng": 73.73379
+  },
+  {
+    "name": "Hasilpur",
+    "country": "PK",
+    "lat": 29.69221,
+    "lng": 72.54566
+  },
+  {
+    "name": "Harunabad",
+    "country": "PK",
+    "lat": 29.61206,
+    "lng": 73.13802
+  },
+  {
+    "name": "Harnoli",
+    "country": "PK",
+    "lat": 32.27871,
+    "lng": 71.55429
+  },
+  {
+    "name": "Harnai",
+    "country": "PK",
+    "lat": 30.10077,
+    "lng": 67.93824
+  },
+  {
+    "name": "Haripur",
+    "country": "PK",
+    "lat": 33.99783,
+    "lng": 72.93493
+  },
+  {
+    "name": "Harappa",
+    "country": "PK",
+    "lat": 30.63251,
+    "lng": 72.87032
+  },
+  {
+    "name": "Hangu",
+    "country": "PK",
+    "lat": 33.53198,
+    "lng": 71.0595
+  },
+  {
+    "name": "Hala",
+    "country": "PK",
+    "lat": 25.81459,
+    "lng": 68.42198
+  },
+  {
+    "name": "Hajira",
+    "country": "PK",
+    "lat": 33.77389,
+    "lng": 73.89438
+  },
+  {
+    "name": "Hafizabad",
+    "country": "PK",
+    "lat": 32.07095,
+    "lng": 73.68802
+  },
+  {
+    "name": "Hadali",
+    "country": "PK",
+    "lat": 32.64043,
+    "lng": 74.56898
+  },
+  {
+    "name": "Hattian Bala",
+    "country": "PK",
+    "lat": 34.1691,
+    "lng": 73.7432
+  },
+  {
+    "name": "Harasiuki",
+    "country": "PL",
+    "lat": 50.47515,
+    "lng": 22.47288
+  },
+  {
+    "name": "Hańsk",
+    "country": "PL",
+    "lat": 51.41286,
+    "lng": 23.39942
+  },
+  {
+    "name": "Handzlówka",
+    "country": "PL",
+    "lat": 49.99527,
+    "lng": 22.22311
+  },
+  {
+    "name": "Halinów",
+    "country": "PL",
+    "lat": 52.2288,
+    "lng": 21.3551
+  },
+  {
+    "name": "Hajnówka",
+    "country": "PL",
+    "lat": 52.74328,
+    "lng": 23.58122
+  },
+  {
+    "name": "Haczów",
+    "country": "PL",
+    "lat": 49.66152,
+    "lng": 21.8979
+  },
+  {
+    "name": "Hażlach",
+    "country": "PL",
+    "lat": 49.80714,
+    "lng": 18.65178
+  },
+  {
+    "name": "Harbutowice",
+    "country": "PL",
+    "lat": 49.81235,
+    "lng": 19.78045
+  },
+  {
+    "name": "Hatillo",
+    "country": "PR",
+    "lat": 18.48633,
+    "lng": -66.82545
+  },
+  {
+    "name": "Hato Candal",
+    "country": "PR",
+    "lat": 18.37439,
+    "lng": -65.78711
+  },
+  {
+    "name": "Har Gillo",
+    "country": "PS",
+    "lat": 31.72119,
+    "lng": 35.1724
+  },
+  {
+    "name": "Havârna",
+    "country": "RO",
+    "lat": 48.06667,
+    "lng": 26.65
+  },
+  {
+    "name": "Haţeg",
+    "country": "RO",
+    "lat": 45.61667,
+    "lng": 22.95
+  },
+  {
+    "name": "Hanu Conachi",
+    "country": "RO",
+    "lat": 45.5865,
+    "lng": 27.59481
+  },
+  {
+    "name": "Hangu",
+    "country": "RO",
+    "lat": 47.05,
+    "lng": 26.03333
+  },
+  {
+    "name": "Hamcearca",
+    "country": "RO",
+    "lat": 45.11667,
+    "lng": 28.36667
+  },
+  {
+    "name": "Halmeu",
+    "country": "RO",
+    "lat": 47.96667,
+    "lng": 23.01667
+  },
+  {
+    "name": "Halmăşd",
+    "country": "RO",
+    "lat": 47.15,
+    "lng": 22.61667
+  },
+  {
+    "name": "Halânga",
+    "country": "RO",
+    "lat": 44.68116,
+    "lng": 22.69037
+  },
+  {
+    "name": "Haneș Mină",
+    "country": "RO",
+    "lat": 46.12398,
+    "lng": 23.09054
+  },
+  {
+    "name": "Hajdučica",
+    "country": "RS",
+    "lat": 45.2501,
+    "lng": 20.96016
+  },
+  {
+    "name": "Ha'il",
+    "country": "SA",
+    "lat": 27.52188,
+    "lng": 41.69073
+  },
+  {
+    "name": "Hafar Al-Batin",
+    "country": "SA",
+    "lat": 28.43279,
+    "lng": 45.97077
+  },
+  {
+    "name": "Haparanda",
+    "country": "SE",
+    "lat": 65.83549,
+    "lng": 24.13676
+  },
+  {
+    "name": "Haverdal",
+    "country": "SE",
+    "lat": 56.72222,
+    "lng": 12.67194
+  },
+  {
+    "name": "Hasslö",
+    "country": "SE",
+    "lat": 56.11667,
+    "lng": 15.48333
+  },
+  {
+    "name": "Harplinge",
+    "country": "SE",
+    "lat": 56.74491,
+    "lng": 12.72758
+  },
+  {
+    "name": "Haninge",
+    "country": "SE",
+    "lat": 59.16775,
+    "lng": 18.14478
+  },
+  {
+    "name": "Handen",
+    "country": "SE",
+    "lat": 59.16809,
+    "lng": 18.13796
+  },
+  {
+    "name": "Hanaskog",
+    "country": "SE",
+    "lat": 56.16061,
+    "lng": 14.09307
+  },
+  {
+    "name": "Hammerdal",
+    "country": "SE",
+    "lat": 63.57615,
+    "lng": 15.36516
+  },
+  {
+    "name": "Hammarstrand",
+    "country": "SE",
+    "lat": 63.11041,
+    "lng": 16.35377
+  },
+  {
+    "name": "Hammar",
+    "country": "SE",
+    "lat": 56.01667,
+    "lng": 14.21667
+  },
+  {
+    "name": "Halmstad",
+    "country": "SE",
+    "lat": 56.67446,
+    "lng": 12.85676
+  },
+  {
+    "name": "Hallstavik",
+    "country": "SE",
+    "lat": 60.05,
+    "lng": 18.6
+  },
+  {
+    "name": "Hallstahammar",
+    "country": "SE",
+    "lat": 59.61395,
+    "lng": 16.22846
+  },
+  {
+    "name": "Hallsberg",
+    "country": "SE",
+    "lat": 59.06463,
+    "lng": 15.10993
+  },
+  {
+    "name": "Hagfors",
+    "country": "SE",
+    "lat": 60.02378,
+    "lng": 13.67214
+  },
+  {
+    "name": "Habo",
+    "country": "SE",
+    "lat": 57.91185,
+    "lng": 14.07444
+  },
+  {
+    "name": "Hammarkullen",
+    "country": "SE",
+    "lat": 57.78049,
+    "lng": 12.03604
+  },
+  {
+    "name": "HarbourFront",
+    "country": "SG",
+    "lat": 1.2652,
+    "lng": 103.8201
+  },
+  {
+    "name": "Half Tree Hollow",
+    "country": "SH",
+    "lat": -15.93723,
+    "lng": -5.71996
+  },
+  {
+    "name": "Hanušovce nad Topľou",
+    "country": "SK",
+    "lat": 49.02691,
+    "lng": 21.50414
+  },
+  {
+    "name": "Handlová",
+    "country": "SK",
+    "lat": 48.7276,
+    "lng": 18.76012
+  },
+  {
+    "name": "Hamuliakovo",
+    "country": "SK",
+    "lat": 48.03809,
+    "lng": 17.25031
+  },
+  {
+    "name": "Hastings",
+    "country": "SL",
+    "lat": 8.37994,
+    "lng": -13.13693
+  },
+  {
+    "name": "Hangha",
+    "country": "SL",
+    "lat": 7.93974,
+    "lng": -11.14132
+  },
+  {
+    "name": "Haïré Lao",
+    "country": "SN",
+    "lat": 16.39697,
+    "lng": -14.32196
+  },
+  {
+    "name": "Hargeysa",
+    "country": "SO",
+    "lat": 9.56,
+    "lng": 44.065
+  },
+  {
+    "name": "Hajīn",
+    "country": "SY",
+    "lat": 34.69508,
+    "lng": 40.83138
+  },
+  {
+    "name": "Haraze",
+    "country": "TD",
+    "lat": 9.93969,
+    "lng": 20.90524
+  },
+  {
+    "name": "Hang Dong",
+    "country": "TH",
+    "lat": 18.68703,
+    "lng": 98.91939
+  },
+  {
+    "name": "Hang Chat",
+    "country": "TH",
+    "lat": 18.32883,
+    "lng": 99.34621
+  },
+  {
+    "name": "Hat Yai",
+    "country": "TH",
+    "lat": 7.00836,
+    "lng": 100.47668
+  },
+  {
+    "name": "Hankha",
+    "country": "TH",
+    "lat": 14.98122,
+    "lng": 100.0147
+  },
+  {
+    "name": "Hat Samran",
+    "country": "TH",
+    "lat": 7.24034,
+    "lng": 99.57621
+  },
+  {
+    "name": "Halaç",
+    "country": "TM",
+    "lat": 38.07201,
+    "lng": 64.87938
+  },
+  {
+    "name": "Harqalah",
+    "country": "TN",
+    "lat": 36.03027,
+    "lng": 10.50904
+  },
+  {
+    "name": "Hammam Sousse",
+    "country": "TN",
+    "lat": 35.8609,
+    "lng": 10.60313
+  },
+  {
+    "name": "Hammam el Rhezez",
+    "country": "TN",
+    "lat": 36.87483,
+    "lng": 11.10837
+  },
+  {
+    "name": "Hammam-Lif",
+    "country": "TN",
+    "lat": 36.72866,
+    "lng": 10.34163
+  },
+  {
+    "name": "Hamadet el Kebalou",
+    "country": "TN",
+    "lat": 35.5,
+    "lng": 10.86667
+  },
+  {
+    "name": "Haïdra",
+    "country": "TN",
+    "lat": 35.56626,
+    "lng": 8.44412
+  },
+  {
+    "name": "Haffouz",
+    "country": "TN",
+    "lat": 35.63235,
+    "lng": 9.67624
+  },
+  {
+    "name": "Hammamet",
+    "country": "TN",
+    "lat": 36.4,
+    "lng": 10.61667
+  },
+  {
+    "name": "Hajeb el Aïoun",
+    "country": "TN",
+    "lat": 35.39564,
+    "lng": 9.5438
+  },
+  {
+    "name": "Haveluloto",
+    "country": "TO",
+    "lat": -21.15216,
+    "lng": -175.21333
+  },
+  {
+    "name": "Ha'ateiho",
+    "country": "TO",
+    "lat": -21.1776,
+    "lng": -175.23291
+  },
+  {
+    "name": "Ha'atu'a",
+    "country": "TO",
+    "lat": -21.37662,
+    "lng": -174.95465
+  },
+  {
+    "name": "Halıcılar",
+    "country": "TR",
+    "lat": 37.70673,
+    "lng": 30.39915
+  },
+  {
+    "name": "Hazar",
+    "country": "TR",
+    "lat": 38.3878,
+    "lng": 39.42365
+  },
+  {
+    "name": "Hazro",
+    "country": "TR",
+    "lat": 38.24903,
+    "lng": 40.77129
+  },
+  {
+    "name": "Haymana",
+    "country": "TR",
+    "lat": 39.43212,
+    "lng": 32.49732
+  },
+  {
+    "name": "Haydarlı",
+    "country": "TR",
+    "lat": 38.25972,
+    "lng": 30.38583
+  },
+  {
+    "name": "Havutlu",
+    "country": "TR",
+    "lat": 36.92484,
+    "lng": 35.3567
+  },
+  {
+    "name": "Havran",
+    "country": "TR",
+    "lat": 39.55833,
+    "lng": 27.09833
+  },
+  {
+    "name": "Hatunsaray",
+    "country": "TR",
+    "lat": 37.58753,
+    "lng": 32.34802
+  },
+  {
+    "name": "Hatipler",
+    "country": "TR",
+    "lat": 37.16667,
+    "lng": 30.78333
+  },
+  {
+    "name": "Hatip",
+    "country": "TR",
+    "lat": 37.75447,
+    "lng": 32.4222
+  },
+  {
+    "name": "Hassa",
+    "country": "TR",
+    "lat": 36.79944,
+    "lng": 36.51778
+  },
+  {
+    "name": "Hasköy",
+    "country": "TR",
+    "lat": 38.68231,
+    "lng": 41.67851
+  },
+  {
+    "name": "Hasyurt",
+    "country": "TR",
+    "lat": 36.32415,
+    "lng": 30.22285
+  },
+  {
+    "name": "Hasbek",
+    "country": "TR",
+    "lat": 39.54945,
+    "lng": 35.54772
+  },
+  {
+    "name": "Hasankeyf",
+    "country": "TR",
+    "lat": 37.70612,
+    "lng": 41.4048
+  },
+  {
+    "name": "Hasançelebi",
+    "country": "TR",
+    "lat": 38.95093,
+    "lng": 37.88064
+  },
+  {
+    "name": "Hasancalı",
+    "country": "TR",
+    "lat": 36.88551,
+    "lng": 36.81615
+  },
+  {
+    "name": "Hasanbeyli",
+    "country": "TR",
+    "lat": 37.12838,
+    "lng": 36.54608
+  },
+  {
+    "name": "Harran",
+    "country": "TR",
+    "lat": 36.86,
+    "lng": 39.03139
+  },
+  {
+    "name": "Harput",
+    "country": "TR",
+    "lat": 38.70373,
+    "lng": 39.2415
+  },
+  {
+    "name": "Harmanlı",
+    "country": "TR",
+    "lat": 37.83812,
+    "lng": 37.74428
+  },
+  {
+    "name": "Harmancık",
+    "country": "TR",
+    "lat": 39.67611,
+    "lng": 29.15528
+  },
+  {
+    "name": "Harbiye",
+    "country": "TR",
+    "lat": 36.13685,
+    "lng": 36.13293
+  },
+  {
+    "name": "Han",
+    "country": "TR",
+    "lat": 39.15917,
+    "lng": 30.86139
+  },
+  {
+    "name": "Hankendi",
+    "country": "TR",
+    "lat": 38.56879,
+    "lng": 39.05739
+  },
+  {
+    "name": "Hani",
+    "country": "TR",
+    "lat": 38.40741,
+    "lng": 40.38578
+  },
+  {
+    "name": "Hanköy",
+    "country": "TR",
+    "lat": 36.95081,
+    "lng": 40.19855
+  },
+  {
+    "name": "Hamzalı",
+    "country": "TR",
+    "lat": 38.34159,
+    "lng": 41.16254
+  },
+  {
+    "name": "Hamur",
+    "country": "TR",
+    "lat": 39.60561,
+    "lng": 42.985
+  },
+  {
+    "name": "Hamdibey",
+    "country": "TR",
+    "lat": 39.84944,
+    "lng": 27.24806
+  },
+  {
+    "name": "Halkapınar",
+    "country": "TR",
+    "lat": 37.43394,
+    "lng": 34.18743
+  },
+  {
+    "name": "Halitpaşa",
+    "country": "TR",
+    "lat": 38.68541,
+    "lng": 27.67836
+  },
+  {
+    "name": "Halilçavuş",
+    "country": "TR",
+    "lat": 39.2472,
+    "lng": 41.79257
+  },
+  {
+    "name": "Halfeti",
+    "country": "TR",
+    "lat": 37.24529,
+    "lng": 37.86874
+  },
+  {
+    "name": "Hafik",
+    "country": "TR",
+    "lat": 39.85639,
+    "lng": 37.38639
+  },
+  {
+    "name": "Hadim",
+    "country": "TR",
+    "lat": 36.98776,
+    "lng": 32.45674
+  },
+  {
+    "name": "Hacıveliler",
+    "country": "TR",
+    "lat": 36.36746,
+    "lng": 30.27328
+  },
+  {
+    "name": "Hacılar",
+    "country": "TR",
+    "lat": 39.09868,
+    "lng": 40.82271
+  },
+  {
+    "name": "Hacılar",
+    "country": "TR",
+    "lat": 38.64631,
+    "lng": 35.44937
+  },
+  {
+    "name": "Hacıhalilarpaç",
+    "country": "TR",
+    "lat": 36.72496,
+    "lng": 34.37842
+  },
+  {
+    "name": "Hacıbektaş",
+    "country": "TR",
+    "lat": 38.94077,
+    "lng": 34.5577
+  },
+  {
+    "name": "Haberli",
+    "country": "TR",
+    "lat": 37.3051,
+    "lng": 41.61758
+  },
+  {
+    "name": "Hakkâri",
+    "country": "TR",
+    "lat": 37.57444,
+    "lng": 43.74083
+  },
+  {
+    "name": "Hacıpaşa",
+    "country": "TR",
+    "lat": 36.06907,
+    "lng": 36.37076
+  },
+  {
+    "name": "Hayrat",
+    "country": "TR",
+    "lat": 40.8853,
+    "lng": 40.36495
+  },
+  {
+    "name": "Hayrabolu",
+    "country": "TR",
+    "lat": 41.21311,
+    "lng": 27.10688
+  },
+  {
+    "name": "Havza",
+    "country": "TR",
+    "lat": 40.97056,
+    "lng": 35.66222
+  },
+  {
+    "name": "Havsa",
+    "country": "TR",
+    "lat": 41.54898,
+    "lng": 26.82207
+  },
+  {
+    "name": "Hasköy",
+    "country": "TR",
+    "lat": 41.64134,
+    "lng": 26.85882
+  },
+  {
+    "name": "Hasköy",
+    "country": "TR",
+    "lat": 40.99292,
+    "lng": 42.8842
+  },
+  {
+    "name": "Hasayaz",
+    "country": "TR",
+    "lat": 40.24067,
+    "lng": 33.328
+  },
+  {
+    "name": "Hasanbey",
+    "country": "TR",
+    "lat": 40.12902,
+    "lng": 27.64228
+  },
+  {
+    "name": "Hanönü",
+    "country": "TR",
+    "lat": 41.62705,
+    "lng": 34.46667
+  },
+  {
+    "name": "Hanak",
+    "country": "TR",
+    "lat": 41.23344,
+    "lng": 42.84037
+  },
+  {
+    "name": "Hamzabey",
+    "country": "TR",
+    "lat": 40.13583,
+    "lng": 29.52639
+  },
+  {
+    "name": "Hamidiye",
+    "country": "TR",
+    "lat": 41.15128,
+    "lng": 26.66411
+  },
+  {
+    "name": "Hamamözü",
+    "country": "TR",
+    "lat": 40.78476,
+    "lng": 35.0258
+  },
+  {
+    "name": "Hacılar",
+    "country": "TR",
+    "lat": 41.49115,
+    "lng": 32.09305
+  },
+  {
+    "name": "Hacıköy",
+    "country": "TR",
+    "lat": 40.98015,
+    "lng": 26.55087
+  },
+  {
+    "name": "Hacıhamza",
+    "country": "TR",
+    "lat": 41.0743,
+    "lng": 34.449
+  },
+  {
+    "name": "Halıdere",
+    "country": "TR",
+    "lat": 40.71604,
+    "lng": 29.75223
+  },
+  {
+    "name": "Habibfaki",
+    "country": "TR",
+    "lat": 41.1677,
+    "lng": 35.19364
+  },
+  {
+    "name": "Hacımehmetli",
+    "country": "TR",
+    "lat": 36.5633,
+    "lng": 31.96775
+  },
+  {
+    "name": "Handeni",
+    "country": "TZ",
+    "lat": -5.43333,
+    "lng": 38.01667
+  },
+  {
+    "name": "Hayvoron",
+    "country": "UA",
+    "lat": 48.34323,
+    "lng": 29.86592
+  },
+  {
+    "name": "Haysyn",
+    "country": "UA",
+    "lat": 48.81294,
+    "lng": 29.37917
+  },
+  {
+    "name": "Handrabury",
+    "country": "UA",
+    "lat": 47.71728,
+    "lng": 29.86808
+  },
+  {
+    "name": "Halytsynove",
+    "country": "UA",
+    "lat": 46.80045,
+    "lng": 31.95125
+  },
+  {
+    "name": "Halych",
+    "country": "UA",
+    "lat": 49.12374,
+    "lng": 24.72748
+  },
+  {
+    "name": "Hadyach",
+    "country": "UA",
+    "lat": 50.36912,
+    "lng": 33.997
+  },
+  {
+    "name": "Hackleburg",
+    "country": "US",
+    "lat": 34.27732,
+    "lng": -87.82864
+  },
+  {
+    "name": "Haleyville",
+    "country": "US",
+    "lat": 34.22649,
+    "lng": -87.62141
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 34.14232,
+    "lng": -87.98864
+  },
+  {
+    "name": "Hanceville",
+    "country": "US",
+    "lat": 34.06065,
+    "lng": -86.7675
+  },
+  {
+    "name": "Harpersville",
+    "country": "US",
+    "lat": 33.344,
+    "lng": -86.43804
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 31.1024,
+    "lng": -85.69688
+  },
+  {
+    "name": "Hartselle",
+    "country": "US",
+    "lat": 34.44343,
+    "lng": -86.93528
+  },
+  {
+    "name": "Harvest",
+    "country": "US",
+    "lat": 34.85564,
+    "lng": -86.75083
+  },
+  {
+    "name": "Hayden",
+    "country": "US",
+    "lat": 33.8926,
+    "lng": -86.75777
+  },
+  {
+    "name": "Hayneville",
+    "country": "US",
+    "lat": 32.18403,
+    "lng": -86.58025
+  },
+  {
+    "name": "Hazel Green",
+    "country": "US",
+    "lat": 34.93231,
+    "lng": -86.57194
+  },
+  {
+    "name": "Hamburg",
+    "country": "US",
+    "lat": 33.22818,
+    "lng": -91.79763
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 33.53789,
+    "lng": -92.46988
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 35.56425,
+    "lng": -90.71678
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 36.22979,
+    "lng": -93.10768
+  },
+  {
+    "name": "Haskell",
+    "country": "US",
+    "lat": 34.50148,
+    "lng": -92.63655
+  },
+  {
+    "name": "Hazen",
+    "country": "US",
+    "lat": 34.78093,
+    "lng": -91.58097
+  },
+  {
+    "name": "Harrington",
+    "country": "US",
+    "lat": 38.92372,
+    "lng": -75.5777
+  },
+  {
+    "name": "Haines City",
+    "country": "US",
+    "lat": 28.1145,
+    "lng": -81.62009
+  },
+  {
+    "name": "Hallandale Beach",
+    "country": "US",
+    "lat": 25.9812,
+    "lng": -80.14838
+  },
+  {
+    "name": "Harbor Bluffs",
+    "country": "US",
+    "lat": 27.90947,
+    "lng": -82.8276
+  },
+  {
+    "name": "Harbour Heights",
+    "country": "US",
+    "lat": 26.99089,
+    "lng": -82.00231
+  },
+  {
+    "name": "Harlem",
+    "country": "US",
+    "lat": 26.73757,
+    "lng": -80.9509
+  },
+  {
+    "name": "Harlem Heights",
+    "country": "US",
+    "lat": 26.51619,
+    "lng": -81.92787
+  },
+  {
+    "name": "Havana",
+    "country": "US",
+    "lat": 30.62381,
+    "lng": -84.41463
+  },
+  {
+    "name": "Haverhill",
+    "country": "US",
+    "lat": 26.69118,
+    "lng": -80.12004
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 29.59191,
+    "lng": -82.08732
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 28.76138,
+    "lng": -81.87091
+  },
+  {
+    "name": "Hahira",
+    "country": "US",
+    "lat": 30.99131,
+    "lng": -83.37266
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 32.75791,
+    "lng": -84.87493
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 33.38706,
+    "lng": -84.28298
+  },
+  {
+    "name": "Hannahs Mill",
+    "country": "US",
+    "lat": 32.93291,
+    "lng": -84.34936
+  },
+  {
+    "name": "Hapeville",
+    "country": "US",
+    "lat": 33.66011,
+    "lng": -84.4102
+  },
+  {
+    "name": "Hardwick",
+    "country": "US",
+    "lat": 33.0682,
+    "lng": -83.22349
+  },
+  {
+    "name": "Harlem",
+    "country": "US",
+    "lat": 33.41458,
+    "lng": -82.31262
+  },
+  {
+    "name": "Hartwell",
+    "country": "US",
+    "lat": 34.35288,
+    "lng": -82.93209
+  },
+  {
+    "name": "Hawkinsville",
+    "country": "US",
+    "lat": 32.28377,
+    "lng": -83.47212
+  },
+  {
+    "name": "Hazlehurst",
+    "country": "US",
+    "lat": 31.86963,
+    "lng": -82.5943
+  },
+  {
+    "name": "Hardin",
+    "country": "US",
+    "lat": 39.15671,
+    "lng": -90.6179
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 37.73838,
+    "lng": -88.54061
+  },
+  {
+    "name": "Harristown",
+    "country": "US",
+    "lat": 39.85393,
+    "lng": -89.08397
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 38.83338,
+    "lng": -90.09594
+  },
+  {
+    "name": "Hagerstown",
+    "country": "US",
+    "lat": 39.91116,
+    "lng": -85.16163
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 38.71423,
+    "lng": -85.47357
+  },
+  {
+    "name": "Haubstadt",
+    "country": "US",
+    "lat": 38.20504,
+    "lng": -87.57419
+  },
+  {
+    "name": "Halstead",
+    "country": "US",
+    "lat": 38.0014,
+    "lng": -97.50865
+  },
+  {
+    "name": "Harper",
+    "country": "US",
+    "lat": 37.28669,
+    "lng": -98.02589
+  },
+  {
+    "name": "Haven",
+    "country": "US",
+    "lat": 37.8989,
+    "lng": -97.78283
+  },
+  {
+    "name": "Hays",
+    "country": "US",
+    "lat": 38.87918,
+    "lng": -99.32677
+  },
+  {
+    "name": "Haysville",
+    "country": "US",
+    "lat": 37.56446,
+    "lng": -97.35227
+  },
+  {
+    "name": "Hardinsburg",
+    "country": "US",
+    "lat": 37.78006,
+    "lng": -86.46053
+  },
+  {
+    "name": "Harlan",
+    "country": "US",
+    "lat": 36.84314,
+    "lng": -83.32185
+  },
+  {
+    "name": "Harrodsburg",
+    "country": "US",
+    "lat": 37.7623,
+    "lng": -84.84329
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 37.45116,
+    "lng": -86.90916
+  },
+  {
+    "name": "Hawesville",
+    "country": "US",
+    "lat": 37.90006,
+    "lng": -86.75499
+  },
+  {
+    "name": "Hazard",
+    "country": "US",
+    "lat": 37.24954,
+    "lng": -83.19323
+  },
+  {
+    "name": "Hackberry",
+    "country": "US",
+    "lat": 29.99605,
+    "lng": -93.3421
+  },
+  {
+    "name": "Hahnville",
+    "country": "US",
+    "lat": 29.97659,
+    "lng": -90.40897
+  },
+  {
+    "name": "Hammond",
+    "country": "US",
+    "lat": 30.50463,
+    "lng": -90.46293
+  },
+  {
+    "name": "Harahan",
+    "country": "US",
+    "lat": 29.94048,
+    "lng": -90.20313
+  },
+  {
+    "name": "Harrisonburg",
+    "country": "US",
+    "lat": 31.77211,
+    "lng": -91.82152
+  },
+  {
+    "name": "Harvey",
+    "country": "US",
+    "lat": 29.90354,
+    "lng": -90.07729
+  },
+  {
+    "name": "Haughton",
+    "country": "US",
+    "lat": 32.53265,
+    "lng": -93.50406
+  },
+  {
+    "name": "Haynesville",
+    "country": "US",
+    "lat": 32.96208,
+    "lng": -93.14016
+  },
+  {
+    "name": "Hagerstown",
+    "country": "US",
+    "lat": 39.64176,
+    "lng": -77.71999
+  },
+  {
+    "name": "Halfway",
+    "country": "US",
+    "lat": 39.62065,
+    "lng": -77.75888
+  },
+  {
+    "name": "Hampden",
+    "country": "US",
+    "lat": 39.33094,
+    "lng": -76.63497
+  },
+  {
+    "name": "Hampstead",
+    "country": "US",
+    "lat": 39.60483,
+    "lng": -76.84998
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 39.42288,
+    "lng": -76.58469
+  },
+  {
+    "name": "Hancock",
+    "country": "US",
+    "lat": 39.69898,
+    "lng": -78.17973
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 39.19289,
+    "lng": -76.72414
+  },
+  {
+    "name": "Havre de Grace",
+    "country": "US",
+    "lat": 39.54928,
+    "lng": -76.09162
+  },
+  {
+    "name": "Hallsville",
+    "country": "US",
+    "lat": 39.11699,
+    "lng": -92.22074
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 39.74362,
+    "lng": -93.99827
+  },
+  {
+    "name": "Hanley Hills",
+    "country": "US",
+    "lat": 38.68588,
+    "lng": -90.32373
+  },
+  {
+    "name": "Hannibal",
+    "country": "US",
+    "lat": 39.70838,
+    "lng": -91.35848
+  },
+  {
+    "name": "Harrisonville",
+    "country": "US",
+    "lat": 38.65334,
+    "lng": -94.34884
+  },
+  {
+    "name": "Hartville",
+    "country": "US",
+    "lat": 37.25088,
+    "lng": -92.51044
+  },
+  {
+    "name": "Hayti",
+    "country": "US",
+    "lat": 36.23368,
+    "lng": -89.74953
+  },
+  {
+    "name": "Hazelwood",
+    "country": "US",
+    "lat": 38.77144,
+    "lng": -90.37095
+  },
+  {
+    "name": "Hattiesburg",
+    "country": "US",
+    "lat": 31.32712,
+    "lng": -89.29034
+  },
+  {
+    "name": "Hazlehurst",
+    "country": "US",
+    "lat": 31.86044,
+    "lng": -90.39593
+  },
+  {
+    "name": "Half Moon",
+    "country": "US",
+    "lat": 34.826,
+    "lng": -77.45941
+  },
+  {
+    "name": "Halifax",
+    "country": "US",
+    "lat": 36.32849,
+    "lng": -77.58942
+  },
+  {
+    "name": "Hamlet",
+    "country": "US",
+    "lat": 34.88488,
+    "lng": -79.69422
+  },
+  {
+    "name": "Hampstead",
+    "country": "US",
+    "lat": 34.36767,
+    "lng": -77.71053
+  },
+  {
+    "name": "Harkers Island",
+    "country": "US",
+    "lat": 34.69516,
+    "lng": -76.55937
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 35.32395,
+    "lng": -80.65784
+  },
+  {
+    "name": "Havelock",
+    "country": "US",
+    "lat": 34.87905,
+    "lng": -76.90133
+  },
+  {
+    "name": "Haw River",
+    "country": "US",
+    "lat": 36.09153,
+    "lng": -79.36419
+  },
+  {
+    "name": "Hayesville",
+    "country": "US",
+    "lat": 35.0462,
+    "lng": -83.81795
+  },
+  {
+    "name": "Hays",
+    "country": "US",
+    "lat": 36.24985,
+    "lng": -81.11564
+  },
+  {
+    "name": "Hazelwood",
+    "country": "US",
+    "lat": 35.46871,
+    "lng": -83.00403
+  },
+  {
+    "name": "Haddon Heights",
+    "country": "US",
+    "lat": 39.87734,
+    "lng": -75.06462
+  },
+  {
+    "name": "Haddonfield",
+    "country": "US",
+    "lat": 39.8915,
+    "lng": -75.03767
+  },
+  {
+    "name": "Hammonton",
+    "country": "US",
+    "lat": 39.63651,
+    "lng": -74.80239
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 39.3995,
+    "lng": -84.56134
+  },
+  {
+    "name": "Harbor Hills",
+    "country": "US",
+    "lat": 39.93673,
+    "lng": -82.43515
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 39.262,
+    "lng": -84.81995
+  },
+  {
+    "name": "Hall Park",
+    "country": "US",
+    "lat": 35.23701,
+    "lng": -97.40642
+  },
+  {
+    "name": "Harrah",
+    "country": "US",
+    "lat": 35.48951,
+    "lng": -97.16364
+  },
+  {
+    "name": "Hartshorne",
+    "country": "US",
+    "lat": 34.8451,
+    "lng": -95.55748
+  },
+  {
+    "name": "Haskell",
+    "country": "US",
+    "lat": 35.82038,
+    "lng": -95.67415
+  },
+  {
+    "name": "Haddington",
+    "country": "US",
+    "lat": 39.96578,
+    "lng": -75.23764
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 39.80066,
+    "lng": -76.98304
+  },
+  {
+    "name": "Hartranft",
+    "country": "US",
+    "lat": 39.98483,
+    "lng": -75.14712
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 39.93595,
+    "lng": -75.16712
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 32.87794,
+    "lng": -81.12761
+  },
+  {
+    "name": "Hanahan",
+    "country": "US",
+    "lat": 32.91851,
+    "lng": -80.02203
+  },
+  {
+    "name": "Hardeeville",
+    "country": "US",
+    "lat": 32.28714,
+    "lng": -81.08067
+  },
+  {
+    "name": "Hartsville",
+    "country": "US",
+    "lat": 34.37404,
+    "lng": -80.0734
+  },
+  {
+    "name": "Halls",
+    "country": "US",
+    "lat": 35.87563,
+    "lng": -89.39618
+  },
+  {
+    "name": "Harriman",
+    "country": "US",
+    "lat": 35.93396,
+    "lng": -84.55244
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 35.11368,
+    "lng": -85.13801
+  },
+  {
+    "name": "Harrogate",
+    "country": "US",
+    "lat": 36.5823,
+    "lng": -83.65686
+  },
+  {
+    "name": "Hartsville",
+    "country": "US",
+    "lat": 36.39088,
+    "lng": -86.16721
+  },
+  {
+    "name": "Hackberry",
+    "country": "US",
+    "lat": 33.15234,
+    "lng": -96.91778
+  },
+  {
+    "name": "Hallettsville",
+    "country": "US",
+    "lat": 29.44385,
+    "lng": -96.94109
+  },
+  {
+    "name": "Hallsville",
+    "country": "US",
+    "lat": 32.50432,
+    "lng": -94.57409
+  },
+  {
+    "name": "Haltom City",
+    "country": "US",
+    "lat": 32.79957,
+    "lng": -97.26918
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 31.70377,
+    "lng": -98.12392
+  },
+  {
+    "name": "Harker Heights",
+    "country": "US",
+    "lat": 31.08351,
+    "lng": -97.65974
+  },
+  {
+    "name": "Harlingen",
+    "country": "US",
+    "lat": 26.19063,
+    "lng": -97.6961
+  },
+  {
+    "name": "Harper",
+    "country": "US",
+    "lat": 30.29992,
+    "lng": -99.24421
+  },
+  {
+    "name": "Haskell",
+    "country": "US",
+    "lat": 33.1576,
+    "lng": -99.7337
+  },
+  {
+    "name": "Haslet",
+    "country": "US",
+    "lat": 32.97485,
+    "lng": -97.3478
+  },
+  {
+    "name": "Hawkins",
+    "country": "US",
+    "lat": 32.58847,
+    "lng": -95.20411
+  },
+  {
+    "name": "Halifax",
+    "country": "US",
+    "lat": 36.76597,
+    "lng": -78.92834
+  },
+  {
+    "name": "Hampden Sydney",
+    "country": "US",
+    "lat": 37.24237,
+    "lng": -78.45972
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 37.02987,
+    "lng": -76.34522
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 37.76653,
+    "lng": -77.37026
+  },
+  {
+    "name": "Harrisonburg",
+    "country": "US",
+    "lat": 38.44957,
+    "lng": -78.86892
+  },
+  {
+    "name": "Hayfield",
+    "country": "US",
+    "lat": 38.75178,
+    "lng": -77.13581
+  },
+  {
+    "name": "Haymarket",
+    "country": "US",
+    "lat": 38.81206,
+    "lng": -77.63638
+  },
+  {
+    "name": "Hamlin",
+    "country": "US",
+    "lat": 38.2787,
+    "lng": -82.10292
+  },
+  {
+    "name": "Harrisville",
+    "country": "US",
+    "lat": 39.20952,
+    "lng": -81.05178
+  },
+  {
+    "name": "Hayti",
+    "country": "US",
+    "lat": 44.65719,
+    "lng": -97.20507
+  },
+  {
+    "name": "Hamden",
+    "country": "US",
+    "lat": 41.39593,
+    "lng": -72.89677
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 41.76371,
+    "lng": -72.68509
+  },
+  {
+    "name": "Hazardville",
+    "country": "US",
+    "lat": 41.98732,
+    "lng": -72.54481
+  },
+  {
+    "name": "Hamburg",
+    "country": "US",
+    "lat": 40.60445,
+    "lng": -95.65777
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 42.74192,
+    "lng": -93.20242
+  },
+  {
+    "name": "Harlan",
+    "country": "US",
+    "lat": 41.65304,
+    "lng": -95.32555
+  },
+  {
+    "name": "Hartley",
+    "country": "US",
+    "lat": 43.17997,
+    "lng": -95.47695
+  },
+  {
+    "name": "Hawarden",
+    "country": "US",
+    "lat": 42.99582,
+    "lng": -96.48531
+  },
+  {
+    "name": "Hainesville",
+    "country": "US",
+    "lat": 42.34502,
+    "lng": -88.06786
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 40.39643,
+    "lng": -91.33904
+  },
+  {
+    "name": "Hampshire",
+    "country": "US",
+    "lat": 42.0978,
+    "lng": -88.53036
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 41.55587,
+    "lng": -90.4093
+  },
+  {
+    "name": "Hanna City",
+    "country": "US",
+    "lat": 40.6917,
+    "lng": -89.79511
+  },
+  {
+    "name": "Hanover Park",
+    "country": "US",
+    "lat": 41.99947,
+    "lng": -88.14507
+  },
+  {
+    "name": "Harvard",
+    "country": "US",
+    "lat": 42.42224,
+    "lng": -88.61371
+  },
+  {
+    "name": "Harvey",
+    "country": "US",
+    "lat": 41.61003,
+    "lng": -87.64671
+  },
+  {
+    "name": "Harwood Heights",
+    "country": "US",
+    "lat": 41.96725,
+    "lng": -87.80756
+  },
+  {
+    "name": "Havana",
+    "country": "US",
+    "lat": 40.30004,
+    "lng": -90.06095
+  },
+  {
+    "name": "Hawthorn Woods",
+    "country": "US",
+    "lat": 42.21697,
+    "lng": -88.04952
+  },
+  {
+    "name": "Hazel Crest",
+    "country": "US",
+    "lat": 41.5717,
+    "lng": -87.69449
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 41.53366,
+    "lng": -84.91274
+  },
+  {
+    "name": "Hammond",
+    "country": "US",
+    "lat": 41.58337,
+    "lng": -87.50004
+  },
+  {
+    "name": "Harlan",
+    "country": "US",
+    "lat": 41.19616,
+    "lng": -84.91969
+  },
+  {
+    "name": "Hartford City",
+    "country": "US",
+    "lat": 40.45115,
+    "lng": -85.36997
+  },
+  {
+    "name": "Hadley",
+    "country": "US",
+    "lat": 42.34176,
+    "lng": -72.58842
+  },
+  {
+    "name": "Halifax",
+    "country": "US",
+    "lat": 41.99121,
+    "lng": -70.86199
+  },
+  {
+    "name": "Hamilton Worcester",
+    "country": "US",
+    "lat": 42.2562,
+    "lng": -71.76757
+  },
+  {
+    "name": "Hampden",
+    "country": "US",
+    "lat": 42.06398,
+    "lng": -72.41342
+  },
+  {
+    "name": "Hanson",
+    "country": "US",
+    "lat": 42.0751,
+    "lng": -70.88004
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 42.11316,
+    "lng": -70.81199
+  },
+  {
+    "name": "Hardwick",
+    "country": "US",
+    "lat": 42.35009,
+    "lng": -72.19952
+  },
+  {
+    "name": "Harvard",
+    "country": "US",
+    "lat": 42.50009,
+    "lng": -71.58284
+  },
+  {
+    "name": "Harwich",
+    "country": "US",
+    "lat": 41.68622,
+    "lng": -70.07585
+  },
+  {
+    "name": "Harwich Port",
+    "country": "US",
+    "lat": 41.66678,
+    "lng": -70.07863
+  },
+  {
+    "name": "Hatfield",
+    "country": "US",
+    "lat": 42.37092,
+    "lng": -72.59814
+  },
+  {
+    "name": "Haverhill",
+    "country": "US",
+    "lat": 42.7762,
+    "lng": -71.07728
+  },
+  {
+    "name": "Hallowell",
+    "country": "US",
+    "lat": 44.2859,
+    "lng": -69.79088
+  },
+  {
+    "name": "Hampden",
+    "country": "US",
+    "lat": 44.74478,
+    "lng": -68.83769
+  },
+  {
+    "name": "Hancock",
+    "country": "US",
+    "lat": 44.52924,
+    "lng": -68.25363
+  },
+  {
+    "name": "Harpswell Center",
+    "country": "US",
+    "lat": 43.80175,
+    "lng": -69.98421
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 44.11035,
+    "lng": -70.67923
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 44.37284,
+    "lng": -70.34673
+  },
+  {
+    "name": "Hamtramck",
+    "country": "US",
+    "lat": 42.39282,
+    "lng": -83.04964
+  },
+  {
+    "name": "Hancock",
+    "country": "US",
+    "lat": 47.12687,
+    "lng": -88.58096
+  },
+  {
+    "name": "Harbor Beach",
+    "country": "US",
+    "lat": 43.84474,
+    "lng": -82.65132
+  },
+  {
+    "name": "Harbor Springs",
+    "country": "US",
+    "lat": 45.43168,
+    "lng": -84.992
+  },
+  {
+    "name": "Harper Woods",
+    "country": "US",
+    "lat": 42.43309,
+    "lng": -82.92408
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 44.01919,
+    "lng": -84.79947
+  },
+  {
+    "name": "Harrisville",
+    "country": "US",
+    "lat": 44.6564,
+    "lng": -83.29469
+  },
+  {
+    "name": "Hart",
+    "country": "US",
+    "lat": 43.69834,
+    "lng": -86.36397
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 42.20671,
+    "lng": -86.16669
+  },
+  {
+    "name": "Harvey",
+    "country": "US",
+    "lat": 46.49466,
+    "lng": -87.35431
+  },
+  {
+    "name": "Haslett",
+    "country": "US",
+    "lat": 42.74698,
+    "lng": -84.40108
+  },
+  {
+    "name": "Hastings",
+    "country": "US",
+    "lat": 42.64587,
+    "lng": -85.29084
+  },
+  {
+    "name": "Hazel Park",
+    "country": "US",
+    "lat": 42.46254,
+    "lng": -83.10409
+  },
+  {
+    "name": "Hallock",
+    "country": "US",
+    "lat": 48.77443,
+    "lng": -96.94645
+  },
+  {
+    "name": "Ham Lake",
+    "country": "US",
+    "lat": 45.25024,
+    "lng": -93.24995
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 45.1558,
+    "lng": -93.66635
+  },
+  {
+    "name": "Harris",
+    "country": "US",
+    "lat": 45.58635,
+    "lng": -92.97466
+  },
+  {
+    "name": "Hastings",
+    "country": "US",
+    "lat": 44.7433,
+    "lng": -92.85243
+  },
+  {
+    "name": "Hawley",
+    "country": "US",
+    "lat": 46.88079,
+    "lng": -96.31673
+  },
+  {
+    "name": "Hayfield",
+    "country": "US",
+    "lat": 43.89052,
+    "lng": -92.84769
+  },
+  {
+    "name": "Harvey",
+    "country": "US",
+    "lat": 47.76972,
+    "lng": -99.9354
+  },
+  {
+    "name": "Hartington",
+    "country": "US",
+    "lat": 42.6225,
+    "lng": -97.2645
+  },
+  {
+    "name": "Hastings",
+    "country": "US",
+    "lat": 40.58612,
+    "lng": -98.38839
+  },
+  {
+    "name": "Hampstead",
+    "country": "US",
+    "lat": 42.87453,
+    "lng": -71.18117
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 42.93759,
+    "lng": -70.83894
+  },
+  {
+    "name": "Hampton Beach",
+    "country": "US",
+    "lat": 42.90731,
+    "lng": -70.812
+  },
+  {
+    "name": "Hampton Falls",
+    "country": "US",
+    "lat": 42.9162,
+    "lng": -70.86366
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 43.70229,
+    "lng": -72.28954
+  },
+  {
+    "name": "Harrisville",
+    "country": "US",
+    "lat": 42.94508,
+    "lng": -72.09647
+  },
+  {
+    "name": "Haverhill",
+    "country": "US",
+    "lat": 44.03451,
+    "lng": -72.06398
+  },
+  {
+    "name": "Hackensack",
+    "country": "US",
+    "lat": 40.88593,
+    "lng": -74.04347
+  },
+  {
+    "name": "Hackettstown",
+    "country": "US",
+    "lat": 40.85399,
+    "lng": -74.82906
+  },
+  {
+    "name": "Hamburg",
+    "country": "US",
+    "lat": 41.15343,
+    "lng": -74.57627
+  },
+  {
+    "name": "Hamilton Square",
+    "country": "US",
+    "lat": 40.22733,
+    "lng": -74.65321
+  },
+  {
+    "name": "Hampton",
+    "country": "US",
+    "lat": 40.70704,
+    "lng": -74.956
+  },
+  {
+    "name": "Haledon",
+    "country": "US",
+    "lat": 40.93565,
+    "lng": -74.18626
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 40.80454,
+    "lng": -74.36682
+  },
+  {
+    "name": "Hardwick",
+    "country": "US",
+    "lat": 41.05454,
+    "lng": -74.93212
+  },
+  {
+    "name": "Harrington Park",
+    "country": "US",
+    "lat": 40.98371,
+    "lng": -73.97986
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 40.74649,
+    "lng": -74.15626
+  },
+  {
+    "name": "Hasbrouck Heights",
+    "country": "US",
+    "lat": 40.85816,
+    "lng": -74.0807
+  },
+  {
+    "name": "Haskell",
+    "country": "US",
+    "lat": 41.02843,
+    "lng": -74.29598
+  },
+  {
+    "name": "Haworth",
+    "country": "US",
+    "lat": 40.96093,
+    "lng": -73.99014
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 40.94926,
+    "lng": -74.15375
+  },
+  {
+    "name": "Hadley",
+    "country": "US",
+    "lat": 43.31729,
+    "lng": -73.84818
+  },
+  {
+    "name": "Hagaman",
+    "country": "US",
+    "lat": 42.97452,
+    "lng": -74.15096
+  },
+  {
+    "name": "Halesite",
+    "country": "US",
+    "lat": 40.88843,
+    "lng": -73.4154
+  },
+  {
+    "name": "Hamburg",
+    "country": "US",
+    "lat": 42.71589,
+    "lng": -78.82948
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 42.82701,
+    "lng": -75.54462
+  },
+  {
+    "name": "Hamlin",
+    "country": "US",
+    "lat": 43.30312,
+    "lng": -77.92112
+  },
+  {
+    "name": "Hampton Bays",
+    "country": "US",
+    "lat": 40.86899,
+    "lng": -72.51759
+  },
+  {
+    "name": "Hampton Manor",
+    "country": "US",
+    "lat": 42.62091,
+    "lng": -73.72845
+  },
+  {
+    "name": "Hannawa Falls",
+    "country": "US",
+    "lat": 44.61228,
+    "lng": -74.97103
+  },
+  {
+    "name": "Harbor Isle",
+    "country": "US",
+    "lat": 40.60344,
+    "lng": -73.66457
+  },
+  {
+    "name": "Harlem",
+    "country": "US",
+    "lat": 40.80788,
+    "lng": -73.94542
+  },
+  {
+    "name": "Harriman",
+    "country": "US",
+    "lat": 41.30843,
+    "lng": -74.14459
+  },
+  {
+    "name": "Harris Hill",
+    "country": "US",
+    "lat": 42.96478,
+    "lng": -78.67753
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 40.96899,
+    "lng": -73.71263
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 43.36368,
+    "lng": -73.39372
+  },
+  {
+    "name": "Hartsdale",
+    "country": "US",
+    "lat": 41.01899,
+    "lng": -73.79819
+  },
+  {
+    "name": "Hastings-on-Hudson",
+    "country": "US",
+    "lat": 40.99454,
+    "lng": -73.87875
+  },
+  {
+    "name": "Hauppauge",
+    "country": "US",
+    "lat": 40.82565,
+    "lng": -73.20261
+  },
+  {
+    "name": "Haverstraw",
+    "country": "US",
+    "lat": 41.19759,
+    "lng": -73.96458
+  },
+  {
+    "name": "Haviland",
+    "country": "US",
+    "lat": 41.76676,
+    "lng": -73.90152
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 41.10732,
+    "lng": -73.79597
+  },
+  {
+    "name": "Hanover",
+    "country": "US",
+    "lat": 40.07979,
+    "lng": -82.26098
+  },
+  {
+    "name": "Hartville",
+    "country": "US",
+    "lat": 40.96367,
+    "lng": -81.33122
+  },
+  {
+    "name": "Haskins",
+    "country": "US",
+    "lat": 41.46477,
+    "lng": -83.70605
+  },
+  {
+    "name": "Halfway House",
+    "country": "US",
+    "lat": 40.28204,
+    "lng": -75.64324
+  },
+  {
+    "name": "Hallam",
+    "country": "US",
+    "lat": 40.00482,
+    "lng": -76.60413
+  },
+  {
+    "name": "Hallstead",
+    "country": "US",
+    "lat": 41.96119,
+    "lng": -75.74324
+  },
+  {
+    "name": "Hamburg",
+    "country": "US",
+    "lat": 40.55565,
+    "lng": -75.98188
+  },
+  {
+    "name": "Harleigh",
+    "country": "US",
+    "lat": 40.98064,
+    "lng": -75.97131
+  },
+  {
+    "name": "Harleysville",
+    "country": "US",
+    "lat": 40.27955,
+    "lng": -75.38712
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 40.2737,
+    "lng": -76.88442
+  },
+  {
+    "name": "Harveys Lake",
+    "country": "US",
+    "lat": 41.38341,
+    "lng": -76.02465
+  },
+  {
+    "name": "Hastings",
+    "country": "US",
+    "lat": 40.66507,
+    "lng": -78.71225
+  },
+  {
+    "name": "Hasson Heights",
+    "country": "US",
+    "lat": 41.44895,
+    "lng": -79.677
+  },
+  {
+    "name": "Hatboro",
+    "country": "US",
+    "lat": 40.17428,
+    "lng": -75.10684
+  },
+  {
+    "name": "Hatfield",
+    "country": "US",
+    "lat": 40.27983,
+    "lng": -75.29934
+  },
+  {
+    "name": "Hawley",
+    "country": "US",
+    "lat": 41.47592,
+    "lng": -75.18212
+  },
+  {
+    "name": "Hazleton",
+    "country": "US",
+    "lat": 40.95842,
+    "lng": -75.97465
+  },
+  {
+    "name": "Harrisville",
+    "country": "US",
+    "lat": 41.96565,
+    "lng": -71.67451
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 43.43137,
+    "lng": -96.69727
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 43.62303,
+    "lng": -96.94255
+  },
+  {
+    "name": "Hardwick",
+    "country": "US",
+    "lat": 44.50478,
+    "lng": -72.36816
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 43.66063,
+    "lng": -72.33842
+  },
+  {
+    "name": "Hales Corners",
+    "country": "US",
+    "lat": 42.93751,
+    "lng": -88.0487
+  },
+  {
+    "name": "Hammond",
+    "country": "US",
+    "lat": 44.97886,
+    "lng": -92.43575
+  },
+  {
+    "name": "Hartford",
+    "country": "US",
+    "lat": 43.31778,
+    "lng": -88.37899
+  },
+  {
+    "name": "Hartland",
+    "country": "US",
+    "lat": 43.10501,
+    "lng": -88.34204
+  },
+  {
+    "name": "Hayward",
+    "country": "US",
+    "lat": 46.01301,
+    "lng": -91.48462
+  },
+  {
+    "name": "Hazel Green",
+    "country": "US",
+    "lat": 42.53278,
+    "lng": -90.43457
+  },
+  {
+    "name": "Hacienda Heights",
+    "country": "US",
+    "lat": 33.99307,
+    "lng": -117.96868
+  },
+  {
+    "name": "Half Moon Bay",
+    "country": "US",
+    "lat": 37.46355,
+    "lng": -122.42859
+  },
+  {
+    "name": "Hamilton City",
+    "country": "US",
+    "lat": 39.74266,
+    "lng": -122.01359
+  },
+  {
+    "name": "Hanford",
+    "country": "US",
+    "lat": 36.32745,
+    "lng": -119.64568
+  },
+  {
+    "name": "Harbison Canyon",
+    "country": "US",
+    "lat": 32.82033,
+    "lng": -116.83002
+  },
+  {
+    "name": "Hartley",
+    "country": "US",
+    "lat": 38.41713,
+    "lng": -121.94691
+  },
+  {
+    "name": "Hawaiian Gardens",
+    "country": "US",
+    "lat": 33.8314,
+    "lng": -118.07284
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 33.9164,
+    "lng": -118.35257
+  },
+  {
+    "name": "Hayward",
+    "country": "US",
+    "lat": 37.66882,
+    "lng": -122.0808
+  },
+  {
+    "name": "Hagerman",
+    "country": "US",
+    "lat": 33.11511,
+    "lng": -104.32691
+  },
+  {
+    "name": "Hatch",
+    "country": "US",
+    "lat": 32.66536,
+    "lng": -107.15307
+  },
+  {
+    "name": "Hawthorne",
+    "country": "US",
+    "lat": 38.52464,
+    "lng": -118.62458
+  },
+  {
+    "name": "Hale Center",
+    "country": "US",
+    "lat": 34.06424,
+    "lng": -101.84379
+  },
+  {
+    "name": "Hamlin",
+    "country": "US",
+    "lat": 32.88483,
+    "lng": -100.12649
+  },
+  {
+    "name": "Hart",
+    "country": "US",
+    "lat": 34.38507,
+    "lng": -102.11574
+  },
+  {
+    "name": "Happy Camp",
+    "country": "US",
+    "lat": 41.79275,
+    "lng": -123.3808
+  },
+  {
+    "name": "Hayfork",
+    "country": "US",
+    "lat": 40.55431,
+    "lng": -123.18308
+  },
+  {
+    "name": "Hayden",
+    "country": "US",
+    "lat": 40.49529,
+    "lng": -107.25729
+  },
+  {
+    "name": "Hailey",
+    "country": "US",
+    "lat": 43.51963,
+    "lng": -114.31532
+  },
+  {
+    "name": "Hansen",
+    "country": "US",
+    "lat": 42.53068,
+    "lng": -114.30101
+  },
+  {
+    "name": "Hayden",
+    "country": "US",
+    "lat": 47.76602,
+    "lng": -116.78658
+  },
+  {
+    "name": "Hamilton",
+    "country": "US",
+    "lat": 46.24687,
+    "lng": -114.16037
+  },
+  {
+    "name": "Hardin",
+    "country": "US",
+    "lat": 45.73248,
+    "lng": -107.61203
+  },
+  {
+    "name": "Harlowton",
+    "country": "US",
+    "lat": 46.43551,
+    "lng": -109.83435
+  },
+  {
+    "name": "Havre",
+    "country": "US",
+    "lat": 48.55,
+    "lng": -109.68409
+  },
+  {
+    "name": "Hazen",
+    "country": "US",
+    "lat": 47.29445,
+    "lng": -101.62266
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 41.55636,
+    "lng": -103.73856
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 42.68719,
+    "lng": -103.88271
+  },
+  {
+    "name": "Hayes Center",
+    "country": "US",
+    "lat": 40.51084,
+    "lng": -101.0196
+  },
+  {
+    "name": "Happy Valley",
+    "country": "US",
+    "lat": 45.44679,
+    "lng": -122.53037
+  },
+  {
+    "name": "Harbor",
+    "country": "US",
+    "lat": 42.05317,
+    "lng": -124.26759
+  },
+  {
+    "name": "Harrisburg",
+    "country": "US",
+    "lat": 44.27401,
+    "lng": -123.17065
+  },
+  {
+    "name": "Hayesville",
+    "country": "US",
+    "lat": 44.98595,
+    "lng": -122.98287
+  },
+  {
+    "name": "Harrisville",
+    "country": "US",
+    "lat": 41.28133,
+    "lng": -111.98828
+  },
+  {
+    "name": "Hansville",
+    "country": "US",
+    "lat": 47.9187,
+    "lng": -122.55431
+  },
+  {
+    "name": "Hazel Dell",
+    "country": "US",
+    "lat": 45.67151,
+    "lng": -122.66288
+  },
+  {
+    "name": "Haines",
+    "country": "US",
+    "lat": 59.23595,
+    "lng": -135.44533
+  },
+  {
+    "name": "Haʻikū",
+    "country": "US",
+    "lat": 20.91547,
+    "lng": -156.32185
+  },
+  {
+    "name": "Hale‘iwa",
+    "country": "US",
+    "lat": 21.59284,
+    "lng": -158.10339
+  },
+  {
+    "name": "Hana",
+    "country": "US",
+    "lat": 20.75806,
+    "lng": -155.99028
+  },
+  {
+    "name": "Haliimaile",
+    "country": "US",
+    "lat": 20.8714,
+    "lng": -156.34571
+  },
+  {
+    "name": "Hanamā‘ulu",
+    "country": "US",
+    "lat": 21.994,
+    "lng": -159.355
+  },
+  {
+    "name": "Hanapēpē",
+    "country": "US",
+    "lat": 21.90733,
+    "lng": -159.5944
+  },
+  {
+    "name": "Hanapēpē Heights",
+    "country": "US",
+    "lat": 21.91633,
+    "lng": -159.58995
+  },
+  {
+    "name": "Hau‘ula",
+    "country": "US",
+    "lat": 21.6076,
+    "lng": -157.90868
+  },
+  {
+    "name": "Hawai‘i Kai",
+    "country": "US",
+    "lat": 21.29637,
+    "lng": -157.70175
+  },
+  {
+    "name": "Hawaiian Beaches",
+    "country": "US",
+    "lat": 19.54306,
+    "lng": -154.91583
+  },
+  {
+    "name": "Hawaiian Acres",
+    "country": "US",
+    "lat": 19.53806,
+    "lng": -155.05222
+  },
+  {
+    "name": "Hawaiian Paradise Park",
+    "country": "US",
+    "lat": 19.59333,
+    "lng": -154.97306
+  },
+  {
+    "name": "Hawaiian Ocean View",
+    "country": "US",
+    "lat": 19.06861,
+    "lng": -155.765
+  },
+  {
+    "name": "Harwich Center",
+    "country": "US",
+    "lat": 41.69235,
+    "lng": -70.06938
+  },
+  {
+    "name": "Haiku-Pauwela",
+    "country": "US",
+    "lat": 20.92187,
+    "lng": -156.30508
+  },
+  {
+    "name": "Harrison",
+    "country": "US",
+    "lat": 44.22776,
+    "lng": -88.33591
+  },
+  {
+    "name": "Hanlon-Longwood",
+    "country": "US",
+    "lat": 39.31821,
+    "lng": -76.66946
+  },
+  {
+    "name": "Hamilton Hills",
+    "country": "US",
+    "lat": 39.36277,
+    "lng": -76.56505
+  },
+  {
+    "name": "Harlem Park",
+    "country": "US",
+    "lat": 39.29597,
+    "lng": -76.6401
+  },
+  {
+    "name": "Harwood",
+    "country": "US",
+    "lat": 39.32078,
+    "lng": -76.61125
+  },
+  {
+    "name": "Hazratishoh",
+    "country": "UZ",
+    "lat": 41.39465,
+    "lng": 71.78903
+  },
+  {
+    "name": "Hamza",
+    "country": "UZ",
+    "lat": 40.42762,
+    "lng": 71.50534
+  },
+  {
+    "name": "Haqqulobod",
+    "country": "UZ",
+    "lat": 40.91667,
+    "lng": 72.11667
+  },
+  {
+    "name": "Hazorasp",
+    "country": "UZ",
+    "lat": 41.31944,
+    "lng": 61.07417
+  },
+  {
+    "name": "Hanoi",
+    "country": "VN",
+    "lat": 21.0245,
+    "lng": 105.84117
+  },
+  {
+    "name": "Haiphong",
+    "country": "VN",
+    "lat": 20.86481,
+    "lng": 106.68345
+  },
+  {
+    "name": "Hanoi",
+    "country": "VN",
+    "lat": 20.32773,
+    "lng": 106.01208
+  },
+  {
+    "name": "Hai Bà Trưng",
+    "country": "VN",
+    "lat": 21.01341,
+    "lng": 105.84772
+  },
+  {
+    "name": "Hai Riêng",
+    "country": "VN",
+    "lat": 12.97908,
+    "lng": 108.89732
+  },
+  {
+    "name": "Hani i Elezit",
+    "country": "XK",
+    "lat": 42.15,
+    "lng": 21.29667
+  },
+  {
+    "name": "Hadibu",
+    "country": "YE",
+    "lat": 12.64881,
+    "lng": 54.01895
+  },
+  {
+    "name": "Handréma",
+    "country": "YT",
+    "lat": -12.68112,
+    "lng": 45.09965
+  },
+  {
+    "name": "Hamjago",
+    "country": "YT",
+    "lat": -12.68832,
+    "lng": 45.0745
+  },
+  {
+    "name": "Hajangoua",
+    "country": "YT",
+    "lat": -12.86607,
+    "lng": 45.19857
+  },
+  {
+    "name": "Hamouro",
+    "country": "YT",
+    "lat": -12.8813,
+    "lng": 45.21494
+  },
+  {
+    "name": "Hazyview",
+    "country": "ZA",
+    "lat": -25.04398,
+    "lng": 31.12767
+  },
+  {
+    "name": "Hartswater",
+    "country": "ZA",
+    "lat": -27.74964,
+    "lng": 24.79712
+  },
+  {
+    "name": "Hartbeespoort",
+    "country": "ZA",
+    "lat": -25.7287,
+    "lng": 27.87
+  },
+  {
+    "name": "Hartbeesfontein",
+    "country": "ZA",
+    "lat": -26.76566,
+    "lng": 26.42024
+  },
+  {
+    "name": "Harrismith",
+    "country": "ZA",
+    "lat": -28.27276,
+    "lng": 29.12946
+  },
+  {
+    "name": "Harding",
+    "country": "ZA",
+    "lat": -30.57643,
+    "lng": 29.88401
+  },
+  {
+    "name": "Hanover",
+    "country": "ZA",
+    "lat": -32.81899,
+    "lng": 27.4806
+  },
+  {
+    "name": "Hankey",
+    "country": "ZA",
+    "lat": -33.83308,
+    "lng": 24.88359
+  },
+  {
+    "name": "Hammanskraal",
+    "country": "ZA",
+    "lat": -25.40892,
+    "lng": 28.287
+  },
+  {
+    "name": "Hamburg",
+    "country": "ZA",
+    "lat": -33.29042,
+    "lng": 27.4747
+  },
+  {
+    "name": "Ha-Mavhunga",
+    "country": "ZA",
+    "lat": -22.92493,
+    "lng": 30.11682
+  },
+  {
+    "name": "Haarlem",
+    "country": "ZA",
+    "lat": -33.73302,
+    "lng": 23.34263
+  },
+  {
+    "name": "Hartbeestfontein-A",
+    "country": "ZA",
+    "lat": -25.44141,
+    "lng": 27.51114
+  },
+  {
+    "name": "Hambanathi",
+    "country": "ZA",
+    "lat": -29.55416,
+    "lng": 31.10513
+  },
+  {
+    "name": "Hazelmere",
+    "country": "ZA",
+    "lat": -29.59665,
+    "lng": 31.04358
+  },
+  {
+    "name": "Harare",
+    "country": "ZW",
+    "lat": -17.82772,
+    "lng": 31.05337
+  },
+  {
+    "name": "Harare Western Suburbs",
+    "country": "ZW",
+    "lat": -17.8415,
+    "lng": 30.87674
+  }
+]

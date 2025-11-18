@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Gschwandt",
+    "country": "AT",
+    "lat": 47.93515,
+    "lng": 13.84569
+  },
+  {
+    "name": "Gschnitz",
+    "country": "AT",
+    "lat": 47.04469,
+    "lng": 11.35089
+  },
+  {
+    "name": "Gstaad",
+    "country": "CH",
+    "lat": 46.47215,
+    "lng": 7.28685
+  },
+  {
+    "name": "Gstadt am Chiemsee",
+    "country": "DE",
+    "lat": 47.88453,
+    "lng": 12.41813
+  },
+  {
+    "name": "Gschwend",
+    "country": "DE",
+    "lat": 48.93333,
+    "lng": 9.74436
+  },
+  {
+    "name": "GSFC Complex INA",
+    "country": "IN",
+    "lat": 22.37262,
+    "lng": 73.15473
+  }
+]

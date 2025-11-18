@@ -1,0 +1,5564 @@
+[
+  {
+    "name": "Gostimë",
+    "country": "AL",
+    "lat": 41.14556,
+    "lng": 20.24
+  },
+  {
+    "name": "Golaj",
+    "country": "AL",
+    "lat": 42.2475,
+    "lng": 20.38028
+  },
+  {
+    "name": "Gosë e Madhe",
+    "country": "AL",
+    "lat": 41.09056,
+    "lng": 19.62472
+  },
+  {
+    "name": "Goraj",
+    "country": "AL",
+    "lat": 40.81194,
+    "lng": 19.9475
+  },
+  {
+    "name": "Golem",
+    "country": "AL",
+    "lat": 40.96778,
+    "lng": 19.68528
+  },
+  {
+    "name": "Golem",
+    "country": "AL",
+    "lat": 41.24583,
+    "lng": 19.53472
+  },
+  {
+    "name": "Goravan",
+    "country": "AM",
+    "lat": 39.90539,
+    "lng": 44.73131
+  },
+  {
+    "name": "Goris",
+    "country": "AM",
+    "lat": 39.51111,
+    "lng": 46.34168
+  },
+  {
+    "name": "Gosh",
+    "country": "AM",
+    "lat": 40.73053,
+    "lng": 45.00012
+  },
+  {
+    "name": "Goght",
+    "country": "AM",
+    "lat": 40.1347,
+    "lng": 44.78332
+  },
+  {
+    "name": "Gogaran",
+    "country": "AM",
+    "lat": 40.89255,
+    "lng": 44.19915
+  },
+  {
+    "name": "Golungo Alto",
+    "country": "AO",
+    "lat": -9.13333,
+    "lng": 14.76667
+  },
+  {
+    "name": "Gobernador López",
+    "country": "AR",
+    "lat": -27.66628,
+    "lng": -55.21352
+  },
+  {
+    "name": "Goya",
+    "country": "AR",
+    "lat": -29.13995,
+    "lng": -59.26343
+  },
+  {
+    "name": "Gobernador Roca",
+    "country": "AR",
+    "lat": -27.19057,
+    "lng": -55.46927
+  },
+  {
+    "name": "Gobernador Mansilla",
+    "country": "AR",
+    "lat": -32.54548,
+    "lng": -59.3566
+  },
+  {
+    "name": "Gobernador Juan E. Martínez",
+    "country": "AR",
+    "lat": -28.91161,
+    "lng": -58.93594
+  },
+  {
+    "name": "Gobernador Virasora",
+    "country": "AR",
+    "lat": -28.05,
+    "lng": -56.03333
+  },
+  {
+    "name": "Godoy Cruz",
+    "country": "AR",
+    "lat": -32.92533,
+    "lng": -68.84428
+  },
+  {
+    "name": "Gobernador Gregores",
+    "country": "AR",
+    "lat": -48.75057,
+    "lng": -70.24741
+  },
+  {
+    "name": "Gobernador Gálvez",
+    "country": "AR",
+    "lat": -33.03016,
+    "lng": -60.64045
+  },
+  {
+    "name": "Gobernador Costa",
+    "country": "AR",
+    "lat": -44.04992,
+    "lng": -70.59798
+  },
+  {
+    "name": "Gossendorf",
+    "country": "AT",
+    "lat": 46.91076,
+    "lng": 15.93043
+  },
+  {
+    "name": "Gosdorf",
+    "country": "AT",
+    "lat": 46.72778,
+    "lng": 15.7925
+  },
+  {
+    "name": "Gosau",
+    "country": "AT",
+    "lat": 47.58417,
+    "lng": 13.53447
+  },
+  {
+    "name": "Gols",
+    "country": "AT",
+    "lat": 47.89689,
+    "lng": 16.91113
+  },
+  {
+    "name": "Golling an der Salzach",
+    "country": "AT",
+    "lat": 47.6,
+    "lng": 13.16667
+  },
+  {
+    "name": "Goldwörth",
+    "country": "AT",
+    "lat": 48.32664,
+    "lng": 14.10112
+  },
+  {
+    "name": "Goldegg",
+    "country": "AT",
+    "lat": 47.31875,
+    "lng": 13.09922
+  },
+  {
+    "name": "Going",
+    "country": "AT",
+    "lat": 47.51332,
+    "lng": 12.33164
+  },
+  {
+    "name": "Gosnells",
+    "country": "AU",
+    "lat": -32.081,
+    "lng": 116.0054
+  },
+  {
+    "name": "Gooseberry Hill",
+    "country": "AU",
+    "lat": -31.95444,
+    "lng": 116.0492
+  },
+  {
+    "name": "Goolwa",
+    "country": "AU",
+    "lat": -35.50159,
+    "lng": 138.78191
+  },
+  {
+    "name": "Golden Grove",
+    "country": "AU",
+    "lat": -34.78333,
+    "lng": 138.73333
+  },
+  {
+    "name": "Gowrie Junction",
+    "country": "AU",
+    "lat": -27.48333,
+    "lng": 151.88333
+  },
+  {
+    "name": "Goulburn",
+    "country": "AU",
+    "lat": -34.75155,
+    "lng": 149.72086
+  },
+  {
+    "name": "Gosford",
+    "country": "AU",
+    "lat": -33.4244,
+    "lng": 151.34399
+  },
+  {
+    "name": "Gorokan",
+    "country": "AU",
+    "lat": -33.25764,
+    "lng": 151.5097
+  },
+  {
+    "name": "Gordonvale",
+    "country": "AU",
+    "lat": -17.09959,
+    "lng": 145.78038
+  },
+  {
+    "name": "Gordon",
+    "country": "AU",
+    "lat": -37.5823,
+    "lng": 144.10925
+  },
+  {
+    "name": "Gordon",
+    "country": "AU",
+    "lat": -33.75535,
+    "lng": 151.15115
+  },
+  {
+    "name": "Goonellabah",
+    "country": "AU",
+    "lat": -28.81667,
+    "lng": 153.31667
+  },
+  {
+    "name": "Goondiwindi",
+    "country": "AU",
+    "lat": -28.54709,
+    "lng": 150.30546
+  },
+  {
+    "name": "Goodna",
+    "country": "AU",
+    "lat": -27.61046,
+    "lng": 152.89896
+  },
+  {
+    "name": "Gooburrum",
+    "country": "AU",
+    "lat": -24.82312,
+    "lng": 152.33154
+  },
+  {
+    "name": "Gol Gol",
+    "country": "AU",
+    "lat": -34.17877,
+    "lng": 142.22149
+  },
+  {
+    "name": "Gold Coast",
+    "country": "AU",
+    "lat": -28.00029,
+    "lng": 153.43088
+  },
+  {
+    "name": "Goodwood",
+    "country": "AU",
+    "lat": -42.82822,
+    "lng": 147.29301
+  },
+  {
+    "name": "Goolwa Beach",
+    "country": "AU",
+    "lat": -35.50474,
+    "lng": 138.7732
+  },
+  {
+    "name": "Golden Beach",
+    "country": "AU",
+    "lat": -26.82177,
+    "lng": 153.11972
+  },
+  {
+    "name": "Golden Point",
+    "country": "AU",
+    "lat": -37.57493,
+    "lng": 143.8687
+  },
+  {
+    "name": "Googong",
+    "country": "AU",
+    "lat": -35.43873,
+    "lng": 149.2131
+  },
+  {
+    "name": "Golden Bay",
+    "country": "AU",
+    "lat": -32.42505,
+    "lng": 115.76099
+  },
+  {
+    "name": "Gordon",
+    "country": "AU",
+    "lat": -35.45676,
+    "lng": 149.08498
+  },
+  {
+    "name": "Golden Square",
+    "country": "AU",
+    "lat": -36.77265,
+    "lng": 144.25271
+  },
+  {
+    "name": "Gowrie",
+    "country": "AU",
+    "lat": -35.41187,
+    "lng": 149.10903
+  },
+  {
+    "name": "Goodwood",
+    "country": "AU",
+    "lat": -34.95092,
+    "lng": 138.5923
+  },
+  {
+    "name": "Gordon Park",
+    "country": "AU",
+    "lat": -27.41899,
+    "lng": 153.02547
+  },
+  {
+    "name": "Gowanbrae",
+    "country": "AU",
+    "lat": -37.70823,
+    "lng": 144.89079
+  },
+  {
+    "name": "Godby",
+    "country": "AX",
+    "lat": 60.22995,
+    "lng": 19.9881
+  },
+  {
+    "name": "Goranboy",
+    "country": "AZ",
+    "lat": 40.61028,
+    "lng": 46.78972
+  },
+  {
+    "name": "Gostovići",
+    "country": "BA",
+    "lat": 44.41124,
+    "lng": 18.17029
+  },
+  {
+    "name": "Gornji Vakuf",
+    "country": "BA",
+    "lat": 43.93806,
+    "lng": 17.58833
+  },
+  {
+    "name": "Gornji Smrtići",
+    "country": "BA",
+    "lat": 44.99121,
+    "lng": 17.7415
+  },
+  {
+    "name": "Gornji Ribnik",
+    "country": "BA",
+    "lat": 44.41752,
+    "lng": 16.8169
+  },
+  {
+    "name": "Gornje Živinice",
+    "country": "BA",
+    "lat": 44.42921,
+    "lng": 18.61667
+  },
+  {
+    "name": "Gornje Moštre",
+    "country": "BA",
+    "lat": 44.01911,
+    "lng": 18.15477
+  },
+  {
+    "name": "Gornja Tuzla",
+    "country": "BA",
+    "lat": 44.55659,
+    "lng": 18.76159
+  },
+  {
+    "name": "Gornja Koprivna",
+    "country": "BA",
+    "lat": 45.01091,
+    "lng": 15.95487
+  },
+  {
+    "name": "Gorica",
+    "country": "BA",
+    "lat": 43.41833,
+    "lng": 17.285
+  },
+  {
+    "name": "Goražde",
+    "country": "BA",
+    "lat": 43.66795,
+    "lng": 18.97564
+  },
+  {
+    "name": "Gornja Breza",
+    "country": "BA",
+    "lat": 44.03758,
+    "lng": 18.24564
+  },
+  {
+    "name": "Gopālganj",
+    "country": "BD",
+    "lat": 23.22348,
+    "lng": 90.06041
+  },
+  {
+    "name": "Gozée",
+    "country": "BE",
+    "lat": 50.33461,
+    "lng": 4.35273
+  },
+  {
+    "name": "Gouy-lez-Piéton",
+    "country": "BE",
+    "lat": 50.4907,
+    "lng": 4.3289
+  },
+  {
+    "name": "Gouvy",
+    "country": "BE",
+    "lat": 50.186,
+    "lng": 5.93917
+  },
+  {
+    "name": "Goutroux",
+    "country": "BE",
+    "lat": 50.41333,
+    "lng": 4.36226
+  },
+  {
+    "name": "Gougnies",
+    "country": "BE",
+    "lat": 50.35543,
+    "lng": 4.57615
+  },
+  {
+    "name": "Gottignies",
+    "country": "BE",
+    "lat": 50.4953,
+    "lng": 4.05996
+  },
+  {
+    "name": "Gosselies",
+    "country": "BE",
+    "lat": 50.46936,
+    "lng": 4.43324
+  },
+  {
+    "name": "Gooik",
+    "country": "BE",
+    "lat": 50.79443,
+    "lng": 4.11378
+  },
+  {
+    "name": "Goetsenhoven",
+    "country": "BE",
+    "lat": 50.76882,
+    "lng": 4.95157
+  },
+  {
+    "name": "Goeferdinge",
+    "country": "BE",
+    "lat": 50.76605,
+    "lng": 3.83978
+  },
+  {
+    "name": "Godveerdegem",
+    "country": "BE",
+    "lat": 50.85932,
+    "lng": 3.82092
+  },
+  {
+    "name": "Godinne",
+    "country": "BE",
+    "lat": 50.34809,
+    "lng": 4.87364
+  },
+  {
+    "name": "Godarville",
+    "country": "BE",
+    "lat": 50.49496,
+    "lng": 4.28698
+  },
+  {
+    "name": "Gourcy",
+    "country": "BF",
+    "lat": 13.20776,
+    "lng": -2.35893
+  },
+  {
+    "name": "Goulouré",
+    "country": "BF",
+    "lat": 12.23484,
+    "lng": -1.93394
+  },
+  {
+    "name": "Gorom-Gorom",
+    "country": "BF",
+    "lat": 14.4429,
+    "lng": -0.23468
+  },
+  {
+    "name": "Gomboussougou",
+    "country": "BF",
+    "lat": 11.42611,
+    "lng": -0.77278
+  },
+  {
+    "name": "Gotse Delchev",
+    "country": "BG",
+    "lat": 41.56667,
+    "lng": 23.73333
+  },
+  {
+    "name": "Gorna Oryahovitsa",
+    "country": "BG",
+    "lat": 43.12778,
+    "lng": 25.70167
+  },
+  {
+    "name": "Gorna Malina",
+    "country": "BG",
+    "lat": 42.68333,
+    "lng": 23.7
+  },
+  {
+    "name": "Gorichevo",
+    "country": "BG",
+    "lat": 43.85,
+    "lng": 26.45
+  },
+  {
+    "name": "Godech",
+    "country": "BG",
+    "lat": 43.01682,
+    "lng": 23.04852
+  },
+  {
+    "name": "Goumori",
+    "country": "BJ",
+    "lat": 11.18131,
+    "lng": 2.29295
+  },
+  {
+    "name": "Gogounou",
+    "country": "BJ",
+    "lat": 10.8399,
+    "lng": 2.83174
+  },
+  {
+    "name": "Godomè",
+    "country": "BJ",
+    "lat": 6.38948,
+    "lng": 2.34581
+  },
+  {
+    "name": "Governador Dix-Sept Rosado",
+    "country": "BR",
+    "lat": -5.45889,
+    "lng": -37.52083
+  },
+  {
+    "name": "Governador Archer",
+    "country": "BR",
+    "lat": -5.02222,
+    "lng": -44.27111
+  },
+  {
+    "name": "Gonçalves Dias",
+    "country": "BR",
+    "lat": -5.15332,
+    "lng": -44.30013
+  },
+  {
+    "name": "Goiatins",
+    "country": "BR",
+    "lat": -7.71,
+    "lng": -47.31417
+  },
+  {
+    "name": "Goianorte",
+    "country": "BR",
+    "lat": -8.77583,
+    "lng": -48.93167
+  },
+  {
+    "name": "Goianinha",
+    "country": "BR",
+    "lat": -6.26617,
+    "lng": -35.20969
+  },
+  {
+    "name": "Goiana",
+    "country": "BR",
+    "lat": -7.56056,
+    "lng": -35.0025
+  },
+  {
+    "name": "Governador Valadares",
+    "country": "BR",
+    "lat": -18.85111,
+    "lng": -41.94944
+  },
+  {
+    "name": "Governador Lindenberg",
+    "country": "BR",
+    "lat": -19.25278,
+    "lng": -40.46
+  },
+  {
+    "name": "Gouveia",
+    "country": "BR",
+    "lat": -18.45444,
+    "lng": -43.74083
+  },
+  {
+    "name": "Gonzaga",
+    "country": "BR",
+    "lat": -18.82222,
+    "lng": -42.47917
+  },
+  {
+    "name": "Gongogi",
+    "country": "BR",
+    "lat": -14.32506,
+    "lng": -39.46838
+  },
+  {
+    "name": "Gonçalves",
+    "country": "BR",
+    "lat": -22.65889,
+    "lng": -45.85583
+  },
+  {
+    "name": "Goioxim",
+    "country": "BR",
+    "lat": -25.19472,
+    "lng": -51.9925
+  },
+  {
+    "name": "Goioerê",
+    "country": "BR",
+    "lat": -24.18472,
+    "lng": -53.0275
+  },
+  {
+    "name": "Goiatuba",
+    "country": "BR",
+    "lat": -18.0125,
+    "lng": -49.35472
+  },
+  {
+    "name": "Goiás",
+    "country": "BR",
+    "lat": -15.93444,
+    "lng": -50.14028
+  },
+  {
+    "name": "Goianira",
+    "country": "BR",
+    "lat": -16.49611,
+    "lng": -49.42639
+  },
+  {
+    "name": "Goiânia",
+    "country": "BR",
+    "lat": -16.67861,
+    "lng": -49.25389
+  },
+  {
+    "name": "Goianésia",
+    "country": "BR",
+    "lat": -15.3175,
+    "lng": -49.1175
+  },
+  {
+    "name": "Goiandira",
+    "country": "BR",
+    "lat": -18.13167,
+    "lng": -48.085
+  },
+  {
+    "name": "Goianápolis",
+    "country": "BR",
+    "lat": -16.51056,
+    "lng": -49.02389
+  },
+  {
+    "name": "Goianá",
+    "country": "BR",
+    "lat": -21.53722,
+    "lng": -43.20167
+  },
+  {
+    "name": "Goiabeira",
+    "country": "BR",
+    "lat": -18.98222,
+    "lng": -41.2225
+  },
+  {
+    "name": "Governador Mangabeira",
+    "country": "BR",
+    "lat": -12.60044,
+    "lng": -39.04178
+  },
+  {
+    "name": "Godofredo Viana",
+    "country": "BR",
+    "lat": -1.415,
+    "lng": -45.77222
+  },
+  {
+    "name": "Godoy Moreira",
+    "country": "BR",
+    "lat": -24.19253,
+    "lng": -51.92313
+  },
+  {
+    "name": "Goianésia do Pará",
+    "country": "BR",
+    "lat": -3.8425,
+    "lng": -49.09694
+  },
+  {
+    "name": "Governador Celso Ramos",
+    "country": "BR",
+    "lat": -27.31472,
+    "lng": -48.55917
+  },
+  {
+    "name": "Governador Eugênio Barros",
+    "country": "BR",
+    "lat": -5.32306,
+    "lng": -44.24667
+  },
+  {
+    "name": "Governador Jorge Teixeira",
+    "country": "BR",
+    "lat": -10.525,
+    "lng": -62.64389
+  },
+  {
+    "name": "Governador Luiz Rocha",
+    "country": "BR",
+    "lat": -5.46861,
+    "lng": -44.07389
+  },
+  {
+    "name": "Governador Newton Bello",
+    "country": "BR",
+    "lat": -3.42611,
+    "lng": -45.67583
+  },
+  {
+    "name": "Governador Nunes Freire",
+    "country": "BR",
+    "lat": -2.12583,
+    "lng": -45.88528
+  },
+  {
+    "name": "Gouvelândia",
+    "country": "BR",
+    "lat": -18.44011,
+    "lng": -50.13504
+  },
+  {
+    "name": "Governador Edison Lobão",
+    "country": "BR",
+    "lat": -5.74507,
+    "lng": -47.36395
+  },
+  {
+    "name": "Governador Jorge Teixeira",
+    "country": "BR",
+    "lat": -10.61349,
+    "lng": -62.73456
+  },
+  {
+    "name": "Governor’s Harbour",
+    "country": "BS",
+    "lat": 25.16667,
+    "lng": -76.23333
+  },
+  {
+    "name": "Gobojango",
+    "country": "BW",
+    "lat": -21.8327,
+    "lng": 28.72882
+  },
+  {
+    "name": "Good Hope",
+    "country": "BW",
+    "lat": -25.46712,
+    "lng": 25.43921
+  },
+  {
+    "name": "Gorodok",
+    "country": "BY",
+    "lat": 55.4624,
+    "lng": 29.98451
+  },
+  {
+    "name": "Godefroy",
+    "country": "CA",
+    "lat": 51.75012,
+    "lng": -68.08213
+  },
+  {
+    "name": "Goderich",
+    "country": "CA",
+    "lat": 43.74171,
+    "lng": -81.71339
+  },
+  {
+    "name": "Golden",
+    "country": "CA",
+    "lat": 51.29995,
+    "lng": -116.9689
+  },
+  {
+    "name": "Gold River",
+    "country": "CA",
+    "lat": 49.78091,
+    "lng": -126.05013
+  },
+  {
+    "name": "Gordon Head",
+    "country": "CA",
+    "lat": 48.48333,
+    "lng": -123.31667
+  },
+  {
+    "name": "Goulds",
+    "country": "CA",
+    "lat": 47.45532,
+    "lng": -52.77552
+  },
+  {
+    "name": "Golden",
+    "country": "CA",
+    "lat": 51.05917,
+    "lng": -93.73568
+  },
+  {
+    "name": "Government Road",
+    "country": "CA",
+    "lat": 49.25209,
+    "lng": -122.94371
+  },
+  {
+    "name": "Gonzales",
+    "country": "CA",
+    "lat": 48.41646,
+    "lng": -123.32989
+  },
+  {
+    "name": "Golden Village",
+    "country": "CA",
+    "lat": 49.1878,
+    "lng": -123.12816
+  },
+  {
+    "name": "Goma",
+    "country": "CD",
+    "lat": -1.67409,
+    "lng": 29.22845
+  },
+  {
+    "name": "Gottlieben",
+    "country": "CH",
+    "lat": 47.6638,
+    "lng": 9.13371
+  },
+  {
+    "name": "Gossau",
+    "country": "CH",
+    "lat": 47.41551,
+    "lng": 9.25482
+  },
+  {
+    "name": "Gossau",
+    "country": "CH",
+    "lat": 47.3051,
+    "lng": 8.75831
+  },
+  {
+    "name": "Gorgier",
+    "country": "CH",
+    "lat": 46.90143,
+    "lng": 6.77985
+  },
+  {
+    "name": "Gordola",
+    "country": "CH",
+    "lat": 46.18256,
+    "lng": 8.86657
+  },
+  {
+    "name": "Gontenschwil",
+    "country": "CH",
+    "lat": 47.27166,
+    "lng": 8.14396
+  },
+  {
+    "name": "Gonten",
+    "country": "CH",
+    "lat": 47.32725,
+    "lng": 9.34705
+  },
+  {
+    "name": "Gommiswald",
+    "country": "CH",
+    "lat": 47.23128,
+    "lng": 9.02355
+  },
+  {
+    "name": "Goldingen",
+    "country": "CH",
+    "lat": 47.26477,
+    "lng": 8.96167
+  },
+  {
+    "name": "Goldau",
+    "country": "CH",
+    "lat": 47.04761,
+    "lng": 8.54616
+  },
+  {
+    "name": "Goldach",
+    "country": "CH",
+    "lat": 47.47401,
+    "lng": 9.46711
+  },
+  {
+    "name": "Gockhausen",
+    "country": "CH",
+    "lat": 47.38098,
+    "lng": 8.59978
+  },
+  {
+    "name": "Goziogouiné I",
+    "country": "CI",
+    "lat": 7.14637,
+    "lng": -7.56326
+  },
+  {
+    "name": "Gozi",
+    "country": "CI",
+    "lat": 7.45645,
+    "lng": -6.3425
+  },
+  {
+    "name": "Goya",
+    "country": "CI",
+    "lat": 6.56487,
+    "lng": -7.42735
+  },
+  {
+    "name": "Gouzanfla",
+    "country": "CI",
+    "lat": 7.55784,
+    "lng": -5.76129
+  },
+  {
+    "name": "Goutro",
+    "country": "CI",
+    "lat": 7.23806,
+    "lng": -8.2892
+  },
+  {
+    "name": "Gouriela",
+    "country": "CI",
+    "lat": 7.53053,
+    "lng": -6.5145
+  },
+  {
+    "name": "Gounga",
+    "country": "CI",
+    "lat": 7.73606,
+    "lng": -5.99902
+  },
+  {
+    "name": "Gouméré",
+    "country": "CI",
+    "lat": 7.8963,
+    "lng": -2.98013
+  },
+  {
+    "name": "Goulikao",
+    "country": "CI",
+    "lat": 6.50706,
+    "lng": -5.52408
+  },
+  {
+    "name": "Goulia",
+    "country": "CI",
+    "lat": 10.01908,
+    "lng": -7.20108
+  },
+  {
+    "name": "Gouléako Dioula",
+    "country": "CI",
+    "lat": 5.84015,
+    "lng": -7.41217
+  },
+  {
+    "name": "Goulaonfla",
+    "country": "CI",
+    "lat": 7.67736,
+    "lng": -6.54254
+  },
+  {
+    "name": "Goulaleu",
+    "country": "CI",
+    "lat": 6.70309,
+    "lng": -8.36241
+  },
+  {
+    "name": "Gouiné",
+    "country": "CI",
+    "lat": 7.71628,
+    "lng": -7.41383
+  },
+  {
+    "name": "Gouimpleu I",
+    "country": "CI",
+    "lat": 7.46389,
+    "lng": -7.63206
+  },
+  {
+    "name": "Gouézépleu",
+    "country": "CI",
+    "lat": 7.16639,
+    "lng": -7.93973
+  },
+  {
+    "name": "Gouétimba",
+    "country": "CI",
+    "lat": 7.4999,
+    "lng": -7.46052
+  },
+  {
+    "name": "Gouétilé",
+    "country": "CI",
+    "lat": 7.01239,
+    "lng": -7.7094
+  },
+  {
+    "name": "Gouétifla",
+    "country": "CI",
+    "lat": 7.60749,
+    "lng": -6.29014
+  },
+  {
+    "name": "Gouessesso",
+    "country": "CI",
+    "lat": 7.76115,
+    "lng": -7.65271
+  },
+  {
+    "name": "Gouénoufla",
+    "country": "CI",
+    "lat": 7.24057,
+    "lng": -6.19779
+  },
+  {
+    "name": "Gouéma",
+    "country": "CI",
+    "lat": 7.72922,
+    "lng": -6.0529
+  },
+  {
+    "name": "Gouéleu",
+    "country": "CI",
+    "lat": 7.46656,
+    "lng": -8.30278
+  },
+  {
+    "name": "Gouédié",
+    "country": "CI",
+    "lat": 7.5321,
+    "lng": -7.75032
+  },
+  {
+    "name": "Gouékangouiné",
+    "country": "CI",
+    "lat": 7.24071,
+    "lng": -7.65424
+  },
+  {
+    "name": "Gouéguéni",
+    "country": "CI",
+    "lat": 10.34336,
+    "lng": -6.7948
+  },
+  {
+    "name": "Gouégouiné",
+    "country": "CI",
+    "lat": 7.18694,
+    "lng": -7.68889
+  },
+  {
+    "name": "Gouégolé",
+    "country": "CI",
+    "lat": 7.23543,
+    "lng": -7.69161
+  },
+  {
+    "name": "Gouéda",
+    "country": "CI",
+    "lat": 6.21439,
+    "lng": -5.69125
+  },
+  {
+    "name": "Goudi",
+    "country": "CI",
+    "lat": 6.12401,
+    "lng": -5.10372
+  },
+  {
+    "name": "Gouané",
+    "country": "CI",
+    "lat": 7.81634,
+    "lng": -7.41956
+  },
+  {
+    "name": "Gouakatouo",
+    "country": "CI",
+    "lat": 6.97558,
+    "lng": -8.08426
+  },
+  {
+    "name": "Goafla",
+    "country": "CI",
+    "lat": 7.60285,
+    "lng": -5.87662
+  },
+  {
+    "name": "Gouabouo II",
+    "country": "CI",
+    "lat": 6.21854,
+    "lng": -6.51867
+  },
+  {
+    "name": "Gouabafla",
+    "country": "CI",
+    "lat": 7.32113,
+    "lng": -6.56099
+  },
+  {
+    "name": "Gotongouiné",
+    "country": "CI",
+    "lat": 7.17363,
+    "lng": -7.74959
+  },
+  {
+    "name": "Gosséa",
+    "country": "CI",
+    "lat": 6.85692,
+    "lng": -6.55357
+  },
+  {
+    "name": "Gorongui",
+    "country": "CI",
+    "lat": 8.29678,
+    "lng": -3.24275
+  },
+  {
+    "name": "Gorodi",
+    "country": "CI",
+    "lat": 6.70524,
+    "lng": -6.91219
+  },
+  {
+    "name": "Golipla",
+    "country": "CI",
+    "lat": 7.81978,
+    "lng": -5.83535
+  },
+  {
+    "name": "Gopoupleu",
+    "country": "CI",
+    "lat": 7.43483,
+    "lng": -8.28532
+  },
+  {
+    "name": "Gooua",
+    "country": "CI",
+    "lat": 6.6988,
+    "lng": -5.48932
+  },
+  {
+    "name": "Gontepleu",
+    "country": "CI",
+    "lat": 6.75906,
+    "lng": -8.25926
+  },
+  {
+    "name": "Gonoula",
+    "country": "CI",
+    "lat": 7.47613,
+    "lng": -6.02215
+  },
+  {
+    "name": "Gongouiné I",
+    "country": "CI",
+    "lat": 7.25931,
+    "lng": -7.61926
+  },
+  {
+    "name": "Gondia",
+    "country": "CI",
+    "lat": 7.92084,
+    "lng": -3.37655
+  },
+  {
+    "name": "Gonaté",
+    "country": "CI",
+    "lat": 6.90418,
+    "lng": -6.24347
+  },
+  {
+    "name": "Gona",
+    "country": "CI",
+    "lat": 8.27854,
+    "lng": -6.09931
+  },
+  {
+    "name": "Gomon",
+    "country": "CI",
+    "lat": 5.72358,
+    "lng": -4.44129
+  },
+  {
+    "name": "Goménébéri",
+    "country": "CI",
+    "lat": 5.37889,
+    "lng": -5.51833
+  },
+  {
+    "name": "Goliahio",
+    "country": "CI",
+    "lat": 6.32206,
+    "lng": -6.3749
+  },
+  {
+    "name": "Goli-Nzikro",
+    "country": "CI",
+    "lat": 7.33983,
+    "lng": -4.3603
+  },
+  {
+    "name": "Golikro",
+    "country": "CI",
+    "lat": 7.67033,
+    "lng": -5.43584
+  },
+  {
+    "name": "Golé",
+    "country": "CI",
+    "lat": 7.25,
+    "lng": -7.63333
+  },
+  {
+    "name": "Gohifla",
+    "country": "CI",
+    "lat": 7.30511,
+    "lng": -6.001
+  },
+  {
+    "name": "Gohouo",
+    "country": "CI",
+    "lat": 7.05402,
+    "lng": -7.44035
+  },
+  {
+    "name": "Gohondo",
+    "country": "CI",
+    "lat": 8.32415,
+    "lng": -3.09586
+  },
+  {
+    "name": "Gohizra",
+    "country": "CI",
+    "lat": 7.37593,
+    "lng": -6.62194
+  },
+  {
+    "name": "Gohitafla",
+    "country": "CI",
+    "lat": 7.49076,
+    "lng": -5.87952
+  },
+  {
+    "name": "Gogobro",
+    "country": "CI",
+    "lat": 6.15532,
+    "lng": -5.32088
+  },
+  {
+    "name": "Gogo",
+    "country": "CI",
+    "lat": 9.7714,
+    "lng": -3.53092
+  },
+  {
+    "name": "Gofabo",
+    "country": "CI",
+    "lat": 6.82417,
+    "lng": -5.08968
+  },
+  {
+    "name": "Goézra",
+    "country": "CI",
+    "lat": 7.26448,
+    "lng": -6.25441
+  },
+  {
+    "name": "Goétifla",
+    "country": "CI",
+    "lat": 7.38207,
+    "lng": -6.03181
+  },
+  {
+    "name": "Godoua",
+    "country": "CI",
+    "lat": 6.51865,
+    "lng": -6.30316
+  },
+  {
+    "name": "Godélilié",
+    "country": "CI",
+    "lat": 6.0456,
+    "lng": -5.84345
+  },
+  {
+    "name": "Goda",
+    "country": "CI",
+    "lat": 6.45384,
+    "lng": -6.60408
+  },
+  {
+    "name": "Goboué",
+    "country": "CI",
+    "lat": 5.76624,
+    "lng": -5.77362
+  },
+  {
+    "name": "Gobia",
+    "country": "CI",
+    "lat": 6.5986,
+    "lng": -5.41906
+  },
+  {
+    "name": "Goazra",
+    "country": "CI",
+    "lat": 6.94429,
+    "lng": -5.96878
+  },
+  {
+    "name": "Gouabo",
+    "country": "CI",
+    "lat": 5.99741,
+    "lng": -4.32071
+  },
+  {
+    "name": "Gozon",
+    "country": "CI",
+    "lat": 6.89282,
+    "lng": -7.4689
+  },
+  {
+    "name": "Gouélégui Béoué",
+    "country": "CI",
+    "lat": 6.10222,
+    "lng": -7.48874
+  },
+  {
+    "name": "Gouagonoplé",
+    "country": "CI",
+    "lat": 7.2992,
+    "lng": -7.71754
+  },
+  {
+    "name": "Goréké",
+    "country": "CI",
+    "lat": 4.79602,
+    "lng": -6.70287
+  },
+  {
+    "name": "Gobroko",
+    "country": "CI",
+    "lat": 5.40626,
+    "lng": -5.90484
+  },
+  {
+    "name": "Goh",
+    "country": "CI",
+    "lat": 5.2323,
+    "lng": -6.63627
+  },
+  {
+    "name": "Gogoko",
+    "country": "CI",
+    "lat": 5.9992,
+    "lng": -5.69357
+  },
+  {
+    "name": "Goply",
+    "country": "CI",
+    "lat": 5.74323,
+    "lng": -5.30603
+  },
+  {
+    "name": "Gogné",
+    "country": "CI",
+    "lat": 6.01947,
+    "lng": -5.76279
+  },
+  {
+    "name": "Godou",
+    "country": "CI",
+    "lat": 6.11416,
+    "lng": -5.62152
+  },
+  {
+    "name": "Gobéry",
+    "country": "CI",
+    "lat": 5.67628,
+    "lng": -5.79317
+  },
+  {
+    "name": "Goudouko",
+    "country": "CI",
+    "lat": 5.73666,
+    "lng": -5.61581
+  },
+  {
+    "name": "Godesso",
+    "country": "CI",
+    "lat": 5.60302,
+    "lng": -4.91103
+  },
+  {
+    "name": "Gohouo-Zibiao",
+    "country": "CI",
+    "lat": 7.23022,
+    "lng": -7.35852
+  },
+  {
+    "name": "Goénié",
+    "country": "CI",
+    "lat": 7.10519,
+    "lng": -7.4715
+  },
+  {
+    "name": "Goueupouta",
+    "country": "CI",
+    "lat": 7.49021,
+    "lng": -8.19879
+  },
+  {
+    "name": "Gohouo-Zarabaon",
+    "country": "CI",
+    "lat": 7.00374,
+    "lng": -7.7499
+  },
+  {
+    "name": "Gonié-Tahouaké",
+    "country": "CI",
+    "lat": 7.13159,
+    "lng": -7.29997
+  },
+  {
+    "name": "Gourané",
+    "country": "CI",
+    "lat": 7.61198,
+    "lng": -7.2986
+  },
+  {
+    "name": "Gogoguhé",
+    "country": "CI",
+    "lat": 6.66028,
+    "lng": -6.42073
+  },
+  {
+    "name": "Gonazofla",
+    "country": "CI",
+    "lat": 6.63577,
+    "lng": -6.11557
+  },
+  {
+    "name": "Golikro",
+    "country": "CI",
+    "lat": 7.14498,
+    "lng": -6.1943
+  },
+  {
+    "name": "Gokra",
+    "country": "CI",
+    "lat": 6.68619,
+    "lng": -6.57907
+  },
+  {
+    "name": "Gouriniani",
+    "country": "CI",
+    "lat": 7.20357,
+    "lng": -6.18393
+  },
+  {
+    "name": "Goli-Maya",
+    "country": "CI",
+    "lat": 8.0951,
+    "lng": -5.45695
+  },
+  {
+    "name": "Goli-Kpangbassou",
+    "country": "CI",
+    "lat": 7.96129,
+    "lng": -5.50737
+  },
+  {
+    "name": "Golmud",
+    "country": "CN",
+    "lat": 36.40672,
+    "lng": 94.90061
+  },
+  {
+    "name": "Gongliu",
+    "country": "CN",
+    "lat": 43.47986,
+    "lng": 82.22472
+  },
+  {
+    "name": "Gongyi",
+    "country": "CN",
+    "lat": 34.75534,
+    "lng": 113.01137
+  },
+  {
+    "name": "Gongtan",
+    "country": "CN",
+    "lat": 28.90772,
+    "lng": 108.34856
+  },
+  {
+    "name": "Gongping",
+    "country": "CN",
+    "lat": 31.12695,
+    "lng": 109.19722
+  },
+  {
+    "name": "Gongmen",
+    "country": "CN",
+    "lat": 34.94139,
+    "lng": 106.29639
+  },
+  {
+    "name": "Gongjing",
+    "country": "CN",
+    "lat": 29.34748,
+    "lng": 104.71157
+  },
+  {
+    "name": "Gongjiang",
+    "country": "CN",
+    "lat": 25.95735,
+    "lng": 115.41002
+  },
+  {
+    "name": "Gonghe",
+    "country": "CN",
+    "lat": 25.25575,
+    "lng": 101.51857
+  },
+  {
+    "name": "Gongguan",
+    "country": "CN",
+    "lat": 21.8,
+    "lng": 109.6
+  },
+  {
+    "name": "Gongcheng",
+    "country": "CN",
+    "lat": 24.83429,
+    "lng": 110.82423
+  },
+  {
+    "name": "Gongba",
+    "country": "CN",
+    "lat": 33.48459,
+    "lng": 104.52861
+  },
+  {
+    "name": "Goutou",
+    "country": "CN",
+    "lat": 39.805,
+    "lng": 117.19917
+  },
+  {
+    "name": "Gongzhuling",
+    "country": "CN",
+    "lat": 43.50075,
+    "lng": 124.81979
+  },
+  {
+    "name": "Gongchangling",
+    "country": "CN",
+    "lat": 41.11667,
+    "lng": 123.45
+  },
+  {
+    "name": "Gongheyong",
+    "country": "CN",
+    "lat": 22.75923,
+    "lng": 113.79452
+  },
+  {
+    "name": "Gongchen",
+    "country": "CN",
+    "lat": 39.72796,
+    "lng": 116.13756
+  },
+  {
+    "name": "Gongnong",
+    "country": "CN",
+    "lat": 47.31624,
+    "lng": 130.26732
+  },
+  {
+    "name": "Gongqingcheng",
+    "country": "CN",
+    "lat": 29.24915,
+    "lng": 115.80953
+  },
+  {
+    "name": "Gongle Gongye",
+    "country": "CN",
+    "lat": 22.58475,
+    "lng": 113.87183
+  },
+  {
+    "name": "Gold tai",
+    "country": "CN",
+    "lat": 22.57839,
+    "lng": 113.89615
+  },
+  {
+    "name": "González",
+    "country": "CO",
+    "lat": 8.39016,
+    "lng": -73.38048
+  },
+  {
+    "name": "Golfito",
+    "country": "CR",
+    "lat": 8.60327,
+    "lng": -83.11342
+  },
+  {
+    "name": "Golčův Jeníkov",
+    "country": "CZ",
+    "lat": 49.81626,
+    "lng": 15.47686
+  },
+  {
+    "name": "Gottmadingen",
+    "country": "DE",
+    "lat": 47.73511,
+    "lng": 8.77687
+  },
+  {
+    "name": "Gottfrieding",
+    "country": "DE",
+    "lat": 48.63737,
+    "lng": 12.53561
+  },
+  {
+    "name": "Gotteszell",
+    "country": "DE",
+    "lat": 48.96667,
+    "lng": 12.96667
+  },
+  {
+    "name": "Gottenheim",
+    "country": "DE",
+    "lat": 48.05,
+    "lng": 7.73333
+  },
+  {
+    "name": "Gotha",
+    "country": "DE",
+    "lat": 50.94823,
+    "lng": 10.70193
+  },
+  {
+    "name": "Goßwitz",
+    "country": "DE",
+    "lat": 50.63536,
+    "lng": 11.47737
+  },
+  {
+    "name": "Goslar",
+    "country": "DE",
+    "lat": 51.90425,
+    "lng": 10.42766
+  },
+  {
+    "name": "Gosheim",
+    "country": "DE",
+    "lat": 48.1343,
+    "lng": 8.75426
+  },
+  {
+    "name": "Goseck",
+    "country": "DE",
+    "lat": 51.2,
+    "lng": 11.86667
+  },
+  {
+    "name": "Gornsdorf",
+    "country": "DE",
+    "lat": 50.7,
+    "lng": 12.88333
+  },
+  {
+    "name": "Gornau",
+    "country": "DE",
+    "lat": 50.75901,
+    "lng": 13.03731
+  },
+  {
+    "name": "Gorbitz",
+    "country": "DE",
+    "lat": 51.0455,
+    "lng": 13.66108
+  },
+  {
+    "name": "Gondelsheim",
+    "country": "DE",
+    "lat": 49.05917,
+    "lng": 8.65833
+  },
+  {
+    "name": "Gommersheim",
+    "country": "DE",
+    "lat": 49.29111,
+    "lng": 8.26583
+  },
+  {
+    "name": "Gommern",
+    "country": "DE",
+    "lat": 52.07391,
+    "lng": 11.82297
+  },
+  {
+    "name": "Gomaringen",
+    "country": "DE",
+    "lat": 48.45349,
+    "lng": 9.09582
+  },
+  {
+    "name": "Gomadingen",
+    "country": "DE",
+    "lat": 48.3998,
+    "lng": 9.39065
+  },
+  {
+    "name": "Golzow",
+    "country": "DE",
+    "lat": 52.27617,
+    "lng": 12.60052
+  },
+  {
+    "name": "Golßen",
+    "country": "DE",
+    "lat": 51.97204,
+    "lng": 13.60115
+  },
+  {
+    "name": "Golmbach",
+    "country": "DE",
+    "lat": 51.9,
+    "lng": 9.55
+  },
+  {
+    "name": "Goldkronach",
+    "country": "DE",
+    "lat": 50.01086,
+    "lng": 11.6875
+  },
+  {
+    "name": "Goldenstedt",
+    "country": "DE",
+    "lat": 52.78833,
+    "lng": 8.43201
+  },
+  {
+    "name": "Goldberg",
+    "country": "DE",
+    "lat": 53.58878,
+    "lng": 12.08855
+  },
+  {
+    "name": "Goldbeck",
+    "country": "DE",
+    "lat": 52.71695,
+    "lng": 11.8606
+  },
+  {
+    "name": "Goldbach",
+    "country": "DE",
+    "lat": 51.04566,
+    "lng": 11.43289
+  },
+  {
+    "name": "Goldbach",
+    "country": "DE",
+    "lat": 49.99951,
+    "lng": 9.1844
+  },
+  {
+    "name": "Gohlis",
+    "country": "DE",
+    "lat": 51.366,
+    "lng": 12.367
+  },
+  {
+    "name": "Gochsheim",
+    "country": "DE",
+    "lat": 50.01667,
+    "lng": 10.28333
+  },
+  {
+    "name": "Goch",
+    "country": "DE",
+    "lat": 51.67873,
+    "lng": 6.15895
+  },
+  {
+    "name": "Gossersweiler-Stein",
+    "country": "DE",
+    "lat": 49.15,
+    "lng": 7.93333
+  },
+  {
+    "name": "Gondershausen",
+    "country": "DE",
+    "lat": 50.15,
+    "lng": 7.5
+  },
+  {
+    "name": "Goubétto",
+    "country": "DJ",
+    "lat": 11.42389,
+    "lng": 43.00028
+  },
+  {
+    "name": "Gonzalo",
+    "country": "DO",
+    "lat": 18.95147,
+    "lng": -69.75114
+  },
+  {
+    "name": "Gonzol",
+    "country": "EC",
+    "lat": -2.26223,
+    "lng": -78.84673
+  },
+  {
+    "name": "Gonzanamá",
+    "country": "EC",
+    "lat": -4.23081,
+    "lng": -79.43545
+  },
+  {
+    "name": "Gonzalo Pizarro",
+    "country": "EC",
+    "lat": 0.01674,
+    "lng": -77.37924
+  },
+  {
+    "name": "Gorga",
+    "country": "ES",
+    "lat": 38.71896,
+    "lng": -0.35589
+  },
+  {
+    "name": "Gor",
+    "country": "ES",
+    "lat": 37.36937,
+    "lng": -2.97016
+  },
+  {
+    "name": "Golosalvo",
+    "country": "ES",
+    "lat": 39.23333,
+    "lng": -1.63333
+  },
+  {
+    "name": "Godelleta",
+    "country": "ES",
+    "lat": 39.41667,
+    "lng": -0.68333
+  },
+  {
+    "name": "Godella",
+    "country": "ES",
+    "lat": 39.53333,
+    "lng": -0.41667
+  },
+  {
+    "name": "Gobernador",
+    "country": "ES",
+    "lat": 37.47845,
+    "lng": -3.32119
+  },
+  {
+    "name": "Gotor",
+    "country": "ES",
+    "lat": 41.54583,
+    "lng": -1.64915
+  },
+  {
+    "name": "Gotarrendura",
+    "country": "ES",
+    "lat": 40.82652,
+    "lng": -4.7409
+  },
+  {
+    "name": "Gormaz",
+    "country": "ES",
+    "lat": 41.49232,
+    "lng": -3.005
+  },
+  {
+    "name": "Gordoncillo",
+    "country": "ES",
+    "lat": 42.13557,
+    "lng": -5.40181
+  },
+  {
+    "name": "Gordaliza del Pino",
+    "country": "ES",
+    "lat": 42.34357,
+    "lng": -5.15731
+  },
+  {
+    "name": "Goñi",
+    "country": "ES",
+    "lat": 42.85167,
+    "lng": -1.90358
+  },
+  {
+    "name": "Gondomar",
+    "country": "ES",
+    "lat": 42.11155,
+    "lng": -8.74971
+  },
+  {
+    "name": "Gomecello",
+    "country": "ES",
+    "lat": 41.0428,
+    "lng": -5.53585
+  },
+  {
+    "name": "Golpejas",
+    "country": "ES",
+    "lat": 40.99981,
+    "lng": -5.90687
+  },
+  {
+    "name": "Golmés",
+    "country": "ES",
+    "lat": 41.63354,
+    "lng": 0.93125
+  },
+  {
+    "name": "Golmayo",
+    "country": "ES",
+    "lat": 41.7662,
+    "lng": -2.52267
+  },
+  {
+    "name": "Goizueta",
+    "country": "ES",
+    "lat": 43.17187,
+    "lng": -1.86411
+  },
+  {
+    "name": "Godojos",
+    "country": "ES",
+    "lat": 41.26838,
+    "lng": -1.8641
+  },
+  {
+    "name": "Gordexola",
+    "country": "ES",
+    "lat": 43.1786,
+    "lng": -3.076
+  },
+  {
+    "name": "Goya",
+    "country": "ES",
+    "lat": 40.42505,
+    "lng": -3.67442
+  },
+  {
+    "name": "Gorē",
+    "country": "ET",
+    "lat": 8.15,
+    "lng": 35.53333
+  },
+  {
+    "name": "Gonder",
+    "country": "ET",
+    "lat": 12.6,
+    "lng": 37.46667
+  },
+  {
+    "name": "Gode",
+    "country": "ET",
+    "lat": 5.95056,
+    "lng": 43.55186
+  },
+  {
+    "name": "Gobēsa",
+    "country": "ET",
+    "lat": 7.61667,
+    "lng": 39.5
+  },
+  {
+    "name": "Goba",
+    "country": "ET",
+    "lat": 7.01667,
+    "lng": 39.98333
+  },
+  {
+    "name": "Golwayn",
+    "country": "ET",
+    "lat": 6.50727,
+    "lng": 45.83493
+  },
+  {
+    "name": "Gond-Pontouvre",
+    "country": "FR",
+    "lat": 45.68333,
+    "lng": 0.16667
+  },
+  {
+    "name": "Goven",
+    "country": "FR",
+    "lat": 48.00633,
+    "lng": -1.84667
+  },
+  {
+    "name": "Gouzon",
+    "country": "FR",
+    "lat": 46.19192,
+    "lng": 2.23889
+  },
+  {
+    "name": "Gouzeaucourt",
+    "country": "FR",
+    "lat": 50.05606,
+    "lng": 3.12351
+  },
+  {
+    "name": "Gouy-sous-Bellonne",
+    "country": "FR",
+    "lat": 50.31139,
+    "lng": 3.05657
+  },
+  {
+    "name": "Gouville-sur-Mer",
+    "country": "FR",
+    "lat": 49.09611,
+    "lng": -1.57908
+  },
+  {
+    "name": "Gouvieux",
+    "country": "FR",
+    "lat": 49.18705,
+    "lng": 2.41439
+  },
+  {
+    "name": "Gouvernes",
+    "country": "FR",
+    "lat": 48.86007,
+    "lng": 2.69074
+  },
+  {
+    "name": "Goussainville",
+    "country": "FR",
+    "lat": 49.01367,
+    "lng": 2.46595
+  },
+  {
+    "name": "Gournay-sur-Marne",
+    "country": "FR",
+    "lat": 48.86223,
+    "lng": 2.58452
+  },
+  {
+    "name": "Gournay-en-Bray",
+    "country": "FR",
+    "lat": 49.48285,
+    "lng": 1.72471
+  },
+  {
+    "name": "Gourin",
+    "country": "FR",
+    "lat": 48.1395,
+    "lng": -3.6077
+  },
+  {
+    "name": "Gourdon",
+    "country": "FR",
+    "lat": 44.73576,
+    "lng": 1.38071
+  },
+  {
+    "name": "Gourdan-Polignan",
+    "country": "FR",
+    "lat": 43.07092,
+    "lng": 0.57482
+  },
+  {
+    "name": "Goult",
+    "country": "FR",
+    "lat": 43.86297,
+    "lng": 5.2439
+  },
+  {
+    "name": "Gouézec",
+    "country": "FR",
+    "lat": 48.16948,
+    "lng": -3.97276
+  },
+  {
+    "name": "Gouesnou",
+    "country": "FR",
+    "lat": 48.45297,
+    "lng": -4.46495
+  },
+  {
+    "name": "Gouesnach",
+    "country": "FR",
+    "lat": 47.91071,
+    "lng": -4.11525
+  },
+  {
+    "name": "Goudelin",
+    "country": "FR",
+    "lat": 48.60413,
+    "lng": -3.01898
+  },
+  {
+    "name": "Goudargues",
+    "country": "FR",
+    "lat": 44.21509,
+    "lng": 4.46631
+  },
+  {
+    "name": "Gouarec",
+    "country": "FR",
+    "lat": 48.22725,
+    "lng": -3.17994
+  },
+  {
+    "name": "Gouaix",
+    "country": "FR",
+    "lat": 48.48539,
+    "lng": 3.29336
+  },
+  {
+    "name": "Gosné",
+    "country": "FR",
+    "lat": 48.24666,
+    "lng": -1.46534
+  },
+  {
+    "name": "Gosnay",
+    "country": "FR",
+    "lat": 50.50622,
+    "lng": 2.58904
+  },
+  {
+    "name": "Gorze",
+    "country": "FR",
+    "lat": 49.05236,
+    "lng": 6.00072
+  },
+  {
+    "name": "Gorron",
+    "country": "FR",
+    "lat": 48.41161,
+    "lng": -0.81287
+  },
+  {
+    "name": "Gorges",
+    "country": "FR",
+    "lat": 47.10112,
+    "lng": -1.30267
+  },
+  {
+    "name": "Gordes",
+    "country": "FR",
+    "lat": 43.9129,
+    "lng": 5.19892
+  },
+  {
+    "name": "Gorcy",
+    "country": "FR",
+    "lat": 49.53487,
+    "lng": 5.68487
+  },
+  {
+    "name": "Gorbio",
+    "country": "FR",
+    "lat": 43.78678,
+    "lng": 7.44375
+  },
+  {
+    "name": "Gontaud-de-Nogaret",
+    "country": "FR",
+    "lat": 44.45,
+    "lng": 0.3
+  },
+  {
+    "name": "Gonneville-la-Mallet",
+    "country": "FR",
+    "lat": 49.6395,
+    "lng": 0.22245
+  },
+  {
+    "name": "Gonnehem",
+    "country": "FR",
+    "lat": 50.56061,
+    "lng": 2.57277
+  },
+  {
+    "name": "Gonfaron",
+    "country": "FR",
+    "lat": 43.32036,
+    "lng": 6.28929
+  },
+  {
+    "name": "Gonesse",
+    "country": "FR",
+    "lat": 48.98693,
+    "lng": 2.44892
+  },
+  {
+    "name": "Gondrin",
+    "country": "FR",
+    "lat": 43.88499,
+    "lng": 0.23652
+  },
+  {
+    "name": "Gondreville",
+    "country": "FR",
+    "lat": 48.69373,
+    "lng": 5.96467
+  },
+  {
+    "name": "Gondrecourt-le-Château",
+    "country": "FR",
+    "lat": 48.51366,
+    "lng": 5.51058
+  },
+  {
+    "name": "Gondecourt",
+    "country": "FR",
+    "lat": 50.54469,
+    "lng": 2.98378
+  },
+  {
+    "name": "Goncelin",
+    "country": "FR",
+    "lat": 45.34428,
+    "lng": 5.97896
+  },
+  {
+    "name": "Gommegnies",
+    "country": "FR",
+    "lat": 50.27155,
+    "lng": 3.70625
+  },
+  {
+    "name": "Gometz-le-Châtel",
+    "country": "FR",
+    "lat": 48.67837,
+    "lng": 2.13792
+  },
+  {
+    "name": "Gometz-la-Ville",
+    "country": "FR",
+    "lat": 48.67219,
+    "lng": 2.12868
+  },
+  {
+    "name": "Golbey",
+    "country": "FR",
+    "lat": 48.19764,
+    "lng": 6.43966
+  },
+  {
+    "name": "Goincourt",
+    "country": "FR",
+    "lat": 49.42614,
+    "lng": 2.03621
+  },
+  {
+    "name": "Goetzenbruck",
+    "country": "FR",
+    "lat": 48.97778,
+    "lng": 7.3796
+  },
+  {
+    "name": "Godewaersvelde",
+    "country": "FR",
+    "lat": 50.79399,
+    "lng": 2.64456
+  },
+  {
+    "name": "Goderville",
+    "country": "FR",
+    "lat": 49.64566,
+    "lng": 0.36593
+  },
+  {
+    "name": "Goxhill",
+    "country": "GB",
+    "lat": 53.67635,
+    "lng": -0.33759
+  },
+  {
+    "name": "Govilon",
+    "country": "GB",
+    "lat": 51.81928,
+    "lng": -3.06295
+  },
+  {
+    "name": "Gourock",
+    "country": "GB",
+    "lat": 55.96157,
+    "lng": -4.81789
+  },
+  {
+    "name": "Goudhurst",
+    "country": "GB",
+    "lat": 51.11314,
+    "lng": 0.45615
+  },
+  {
+    "name": "Gotham",
+    "country": "GB",
+    "lat": 52.86799,
+    "lng": -1.20558
+  },
+  {
+    "name": "Gosport",
+    "country": "GB",
+    "lat": 50.79509,
+    "lng": -1.12902
+  },
+  {
+    "name": "Gosforth",
+    "country": "GB",
+    "lat": 55.0,
+    "lng": -1.61667
+  },
+  {
+    "name": "Gosfield",
+    "country": "GB",
+    "lat": 51.93657,
+    "lng": 0.59197
+  },
+  {
+    "name": "Gosberton",
+    "country": "GB",
+    "lat": 52.86913,
+    "lng": -0.16102
+  },
+  {
+    "name": "Gorseinon",
+    "country": "GB",
+    "lat": 51.66931,
+    "lng": -4.04163
+  },
+  {
+    "name": "Gorleston-on-Sea",
+    "country": "GB",
+    "lat": 52.57301,
+    "lng": 1.73069
+  },
+  {
+    "name": "Goring-by-Sea",
+    "country": "GB",
+    "lat": 50.81239,
+    "lng": -0.42194
+  },
+  {
+    "name": "Goring",
+    "country": "GB",
+    "lat": 51.52322,
+    "lng": -1.13342
+  },
+  {
+    "name": "Gorebridge",
+    "country": "GB",
+    "lat": 55.84594,
+    "lng": -3.04563
+  },
+  {
+    "name": "Goostrey",
+    "country": "GB",
+    "lat": 53.22731,
+    "lng": -2.33919
+  },
+  {
+    "name": "Goosnargh",
+    "country": "GB",
+    "lat": 53.822,
+    "lng": -2.67017
+  },
+  {
+    "name": "Goole",
+    "country": "GB",
+    "lat": 53.70324,
+    "lng": -0.87732
+  },
+  {
+    "name": "Goodwick",
+    "country": "GB",
+    "lat": 52.00491,
+    "lng": -4.99511
+  },
+  {
+    "name": "Goodmayes",
+    "country": "GB",
+    "lat": 51.56288,
+    "lng": 0.11068
+  },
+  {
+    "name": "Golspie",
+    "country": "GB",
+    "lat": 57.97266,
+    "lng": -3.97798
+  },
+  {
+    "name": "Goldcliff",
+    "country": "GB",
+    "lat": 51.54222,
+    "lng": -2.91778
+  },
+  {
+    "name": "Golborne",
+    "country": "GB",
+    "lat": 53.47693,
+    "lng": -2.59651
+  },
+  {
+    "name": "Godstone",
+    "country": "GB",
+    "lat": 51.24779,
+    "lng": -0.06914
+  },
+  {
+    "name": "Godshill",
+    "country": "GB",
+    "lat": 50.63308,
+    "lng": -1.25476
+  },
+  {
+    "name": "Godmanchester",
+    "country": "GB",
+    "lat": 52.31939,
+    "lng": -0.17509
+  },
+  {
+    "name": "Godalming",
+    "country": "GB",
+    "lat": 51.1858,
+    "lng": -0.61489
+  },
+  {
+    "name": "Gobowen",
+    "country": "GB",
+    "lat": 52.89615,
+    "lng": -3.03686
+  },
+  {
+    "name": "Gossops Green",
+    "country": "GB",
+    "lat": 51.11105,
+    "lng": -0.21728
+  },
+  {
+    "name": "Golders Green",
+    "country": "GB",
+    "lat": 51.57631,
+    "lng": -0.20033
+  },
+  {
+    "name": "Gouyave",
+    "country": "GD",
+    "lat": 12.16462,
+    "lng": -61.72965
+  },
+  {
+    "name": "Gori",
+    "country": "GE",
+    "lat": 41.98532,
+    "lng": 44.1129
+  },
+  {
+    "name": "Goaso",
+    "country": "GH",
+    "lat": 6.80355,
+    "lng": -2.5172
+  },
+  {
+    "name": "Gourbeyre",
+    "country": "GP",
+    "lat": 15.99454,
+    "lng": -61.69203
+  },
+  {
+    "name": "Goúrnes",
+    "country": "GR",
+    "lat": 35.32626,
+    "lng": 25.2774
+  },
+  {
+    "name": "Goúmero",
+    "country": "GR",
+    "lat": 37.76236,
+    "lng": 21.61853
+  },
+  {
+    "name": "Gouménissa",
+    "country": "GR",
+    "lat": 40.94604,
+    "lng": 22.44974
+  },
+  {
+    "name": "Goascorán",
+    "country": "HN",
+    "lat": 13.58333,
+    "lng": -87.61667
+  },
+  {
+    "name": "Gospić",
+    "country": "HR",
+    "lat": 44.54611,
+    "lng": 15.37472
+  },
+  {
+    "name": "Gornji Mihaljevec",
+    "country": "HR",
+    "lat": 46.43047,
+    "lng": 16.32568
+  },
+  {
+    "name": "Gornji Kneginec",
+    "country": "HR",
+    "lat": 46.25051,
+    "lng": 16.37555
+  },
+  {
+    "name": "Gornji Bogičevci",
+    "country": "HR",
+    "lat": 45.25944,
+    "lng": 17.23611
+  },
+  {
+    "name": "Gornje Vratno",
+    "country": "HR",
+    "lat": 46.35823,
+    "lng": 16.14556
+  },
+  {
+    "name": "Gornje Jesenje",
+    "country": "HR",
+    "lat": 46.20639,
+    "lng": 15.9125
+  },
+  {
+    "name": "Gornja Vrba",
+    "country": "HR",
+    "lat": 45.15528,
+    "lng": 18.06556
+  },
+  {
+    "name": "Gornja Stubica",
+    "country": "HR",
+    "lat": 45.97519,
+    "lng": 16.01931
+  },
+  {
+    "name": "Gornja Rijeka",
+    "country": "HR",
+    "lat": 46.11121,
+    "lng": 16.39229
+  },
+  {
+    "name": "Gornja Bistra",
+    "country": "HR",
+    "lat": 45.91667,
+    "lng": 15.9
+  },
+  {
+    "name": "Gorjani",
+    "country": "HR",
+    "lat": 45.39889,
+    "lng": 18.37222
+  },
+  {
+    "name": "Goričan",
+    "country": "HR",
+    "lat": 46.38417,
+    "lng": 16.68083
+  },
+  {
+    "name": "Gola",
+    "country": "HR",
+    "lat": 46.19583,
+    "lng": 17.05806
+  },
+  {
+    "name": "Gornji Stupnik",
+    "country": "HR",
+    "lat": 45.75261,
+    "lng": 15.84314
+  },
+  {
+    "name": "Gornji Vinjani",
+    "country": "HR",
+    "lat": 43.48361,
+    "lng": 17.23583
+  },
+  {
+    "name": "Gornjaki",
+    "country": "HR",
+    "lat": 46.11222,
+    "lng": 16.24144
+  },
+  {
+    "name": "Gonaïves",
+    "country": "HT",
+    "lat": 19.44755,
+    "lng": -72.68928
+  },
+  {
+    "name": "Gomba",
+    "country": "HU",
+    "lat": 47.37095,
+    "lng": 19.53057
+  },
+  {
+    "name": "Gosong Telaga",
+    "country": "ID",
+    "lat": 2.2786,
+    "lng": 97.9268
+  },
+  {
+    "name": "Gorontalo",
+    "country": "ID",
+    "lat": 0.5375,
+    "lng": 123.0625
+  },
+  {
+    "name": "Gongdanglegi Kulon",
+    "country": "ID",
+    "lat": -8.17529,
+    "lng": 112.63594
+  },
+  {
+    "name": "Gondang",
+    "country": "ID",
+    "lat": -8.0734,
+    "lng": 111.8472
+  },
+  {
+    "name": "Gombong",
+    "country": "ID",
+    "lat": -7.60722,
+    "lng": 109.51417
+  },
+  {
+    "name": "Godo",
+    "country": "ID",
+    "lat": -8.56114,
+    "lng": 118.66647
+  },
+  {
+    "name": "Godean",
+    "country": "ID",
+    "lat": -7.76972,
+    "lng": 110.29389
+  },
+  {
+    "name": "Gondang",
+    "country": "ID",
+    "lat": -8.0462,
+    "lng": 111.6566
+  },
+  {
+    "name": "Gort",
+    "country": "IE",
+    "lat": 53.06639,
+    "lng": -8.81667
+  },
+  {
+    "name": "Gorey",
+    "country": "IE",
+    "lat": 52.67472,
+    "lng": -6.2925
+  },
+  {
+    "name": "Gogri Jamālpur",
+    "country": "IN",
+    "lat": 25.41117,
+    "lng": 86.65925
+  },
+  {
+    "name": "Goyerkāta",
+    "country": "IN",
+    "lat": 26.69984,
+    "lng": 89.02565
+  },
+  {
+    "name": "Govindgarh",
+    "country": "IN",
+    "lat": 27.50423,
+    "lng": 76.99938
+  },
+  {
+    "name": "Govindgarh",
+    "country": "IN",
+    "lat": 24.37845,
+    "lng": 81.29644
+  },
+  {
+    "name": "Govardhan",
+    "country": "IN",
+    "lat": 27.49658,
+    "lng": 77.46263
+  },
+  {
+    "name": "Gotan",
+    "country": "IN",
+    "lat": 26.65551,
+    "lng": 73.7371
+  },
+  {
+    "name": "Goshaingaon",
+    "country": "IN",
+    "lat": 26.43946,
+    "lng": 89.96307
+  },
+  {
+    "name": "Goshāīnganj",
+    "country": "IN",
+    "lat": 26.76793,
+    "lng": 81.10752
+  },
+  {
+    "name": "Goshāinganj",
+    "country": "IN",
+    "lat": 26.57115,
+    "lng": 82.38091
+  },
+  {
+    "name": "Gosāba",
+    "country": "IN",
+    "lat": 22.16547,
+    "lng": 88.8007
+  },
+  {
+    "name": "Gorūr",
+    "country": "IN",
+    "lat": 12.82297,
+    "lng": 76.06463
+  },
+  {
+    "name": "Gormi",
+    "country": "IN",
+    "lat": 26.60029,
+    "lng": 78.51188
+  },
+  {
+    "name": "Goregaon",
+    "country": "IN",
+    "lat": 18.15483,
+    "lng": 73.29147
+  },
+  {
+    "name": "Gorantla",
+    "country": "IN",
+    "lat": 13.98411,
+    "lng": 77.77224
+  },
+  {
+    "name": "Gorakhpur",
+    "country": "IN",
+    "lat": 29.44768,
+    "lng": 75.67206
+  },
+  {
+    "name": "Gorakhpur",
+    "country": "IN",
+    "lat": 26.76628,
+    "lng": 83.36889
+  },
+  {
+    "name": "Gorai",
+    "country": "IN",
+    "lat": 19.25,
+    "lng": 72.78333
+  },
+  {
+    "name": "Gopināthpur",
+    "country": "IN",
+    "lat": 22.66301,
+    "lng": 86.075
+  },
+  {
+    "name": "Gobichettipalayam",
+    "country": "IN",
+    "lat": 11.45496,
+    "lng": 77.4422
+  },
+  {
+    "name": "Gopāmau",
+    "country": "IN",
+    "lat": 27.53468,
+    "lng": 80.28507
+  },
+  {
+    "name": "Gopālur",
+    "country": "IN",
+    "lat": 16.6122,
+    "lng": 77.80728
+  },
+  {
+    "name": "Gopālpur",
+    "country": "IN",
+    "lat": 19.25861,
+    "lng": 84.90517
+  },
+  {
+    "name": "Gopālganj",
+    "country": "IN",
+    "lat": 26.46734,
+    "lng": 84.44041
+  },
+  {
+    "name": "Gooty",
+    "country": "IN",
+    "lat": 15.11836,
+    "lng": 77.63776
+  },
+  {
+    "name": "Gondiā",
+    "country": "IN",
+    "lat": 21.46026,
+    "lng": 80.19205
+  },
+  {
+    "name": "Gondal",
+    "country": "IN",
+    "lat": 21.96074,
+    "lng": 70.80255
+  },
+  {
+    "name": "Gondā City",
+    "country": "IN",
+    "lat": 27.13181,
+    "lng": 81.95332
+  },
+  {
+    "name": "Gomoh",
+    "country": "IN",
+    "lat": 23.87355,
+    "lng": 86.1516
+  },
+  {
+    "name": "Golakganj",
+    "country": "IN",
+    "lat": 26.10216,
+    "lng": 89.82275
+  },
+  {
+    "name": "Gola Gokarannāth",
+    "country": "IN",
+    "lat": 28.07837,
+    "lng": 80.47054
+  },
+  {
+    "name": "Golāghāt",
+    "country": "IN",
+    "lat": 26.51167,
+    "lng": 93.95951
+  },
+  {
+    "name": "Gola Bāzār",
+    "country": "IN",
+    "lat": 26.3446,
+    "lng": 83.35303
+  },
+  {
+    "name": "Gokul",
+    "country": "IN",
+    "lat": 27.43926,
+    "lng": 77.72019
+  },
+  {
+    "name": "Gokavaram",
+    "country": "IN",
+    "lat": 17.25823,
+    "lng": 81.84985
+  },
+  {
+    "name": "Gokarna",
+    "country": "IN",
+    "lat": 14.55,
+    "lng": 74.31667
+  },
+  {
+    "name": "Gokak",
+    "country": "IN",
+    "lat": 16.16901,
+    "lng": 74.82393
+  },
+  {
+    "name": "Gohpur",
+    "country": "IN",
+    "lat": 26.88184,
+    "lng": 93.6156
+  },
+  {
+    "name": "Gohānd",
+    "country": "IN",
+    "lat": 25.69871,
+    "lng": 79.54567
+  },
+  {
+    "name": "Gohāna",
+    "country": "IN",
+    "lat": 29.13777,
+    "lng": 76.70247
+  },
+  {
+    "name": "Gohad",
+    "country": "IN",
+    "lat": 26.43278,
+    "lng": 78.44205
+  },
+  {
+    "name": "Gogūnda",
+    "country": "IN",
+    "lat": 24.75844,
+    "lng": 73.52981
+  },
+  {
+    "name": "Gogāpur",
+    "country": "IN",
+    "lat": 23.55746,
+    "lng": 75.51665
+  },
+  {
+    "name": "Goyali",
+    "country": "IN",
+    "lat": 24.89947,
+    "lng": 72.83042
+  },
+  {
+    "name": "Godhra",
+    "country": "IN",
+    "lat": 22.77547,
+    "lng": 73.61488
+  },
+  {
+    "name": "Godda",
+    "country": "IN",
+    "lat": 24.827,
+    "lng": 87.2125
+  },
+  {
+    "name": "Gobindpur",
+    "country": "IN",
+    "lat": 23.83556,
+    "lng": 86.51853
+  },
+  {
+    "name": "Gobindpur",
+    "country": "IN",
+    "lat": 22.63393,
+    "lng": 86.07162
+  },
+  {
+    "name": "Gobārdānga",
+    "country": "IN",
+    "lat": 22.8774,
+    "lng": 88.75479
+  },
+  {
+    "name": "Goa Velha",
+    "country": "IN",
+    "lat": 15.44384,
+    "lng": 73.88572
+  },
+  {
+    "name": "Goālpāra",
+    "country": "IN",
+    "lat": 26.17668,
+    "lng": 90.62634
+  },
+  {
+    "name": "Gobindapur",
+    "country": "IN",
+    "lat": 22.59306,
+    "lng": 88.09139
+  },
+  {
+    "name": "Gopālpur",
+    "country": "IN",
+    "lat": 22.61845,
+    "lng": 88.75119
+  },
+  {
+    "name": "Govindapuram",
+    "country": "IN",
+    "lat": 16.15477,
+    "lng": 80.10279
+  },
+  {
+    "name": "Gokalpur",
+    "country": "IN",
+    "lat": 28.7029,
+    "lng": 77.28961
+  },
+  {
+    "name": "Goniāna Mandi",
+    "country": "IN",
+    "lat": 30.31679,
+    "lng": 74.91254
+  },
+  {
+    "name": "Gothara",
+    "country": "IN",
+    "lat": 28.0662,
+    "lng": 75.81772
+  },
+  {
+    "name": "Gorrakunta",
+    "country": "IN",
+    "lat": 17.97621,
+    "lng": 79.64496
+  },
+  {
+    "name": "Gokunda",
+    "country": "IN",
+    "lat": 19.60707,
+    "lng": 78.20072
+  },
+  {
+    "name": "Gotegaon",
+    "country": "IN",
+    "lat": 23.02888,
+    "lng": 79.48233
+  },
+  {
+    "name": "Golkhera",
+    "country": "IN",
+    "lat": 22.43816,
+    "lng": 75.66001
+  },
+  {
+    "name": "Gorāya",
+    "country": "IN",
+    "lat": 31.12411,
+    "lng": 75.7724
+  },
+  {
+    "name": "Gobindgarh",
+    "country": "IN",
+    "lat": 30.67089,
+    "lng": 76.30192
+  },
+  {
+    "name": "Gond Pīpri",
+    "country": "IN",
+    "lat": 19.71499,
+    "lng": 79.68618
+  },
+  {
+    "name": "Gonikoppal",
+    "country": "IN",
+    "lat": 12.18302,
+    "lng": 75.92943
+  },
+  {
+    "name": "Gopavaram",
+    "country": "IN",
+    "lat": 14.78412,
+    "lng": 78.5729
+  },
+  {
+    "name": "Gopālasamudram",
+    "country": "IN",
+    "lat": 8.67468,
+    "lng": 77.63792
+  },
+  {
+    "name": "Golaghatia Basti",
+    "country": "IN",
+    "lat": 25.9925,
+    "lng": 92.86396
+  },
+  {
+    "name": "Gobindapur",
+    "country": "IN",
+    "lat": 26.16325,
+    "lng": 90.59271
+  },
+  {
+    "name": "Govindpur",
+    "country": "IN",
+    "lat": 23.2448,
+    "lng": 82.96893
+  },
+  {
+    "name": "Gorah Salathian",
+    "country": "IN",
+    "lat": 32.60522,
+    "lng": 75.04244
+  },
+  {
+    "name": "Gogipeth",
+    "country": "IN",
+    "lat": 16.73521,
+    "lng": 76.74434
+  },
+  {
+    "name": "Gokak Falls",
+    "country": "IN",
+    "lat": 16.1879,
+    "lng": 74.7776
+  },
+  {
+    "name": "Gokul Shirgaon",
+    "country": "IN",
+    "lat": 16.6434,
+    "lng": 74.27409
+  },
+  {
+    "name": "Godoli",
+    "country": "IN",
+    "lat": 17.67178,
+    "lng": 74.01289
+  },
+  {
+    "name": "Godiputamatiapara",
+    "country": "IN",
+    "lat": 20.1392,
+    "lng": 85.70286
+  },
+  {
+    "name": "Gotamara",
+    "country": "IN",
+    "lat": 20.85828,
+    "lng": 85.20269
+  },
+  {
+    "name": "Golestān",
+    "country": "IR",
+    "lat": 35.5183,
+    "lng": 51.1819
+  },
+  {
+    "name": "Gomīshān",
+    "country": "IR",
+    "lat": 37.0718,
+    "lng": 54.07654
+  },
+  {
+    "name": "Gorgān",
+    "country": "IR",
+    "lat": 36.8427,
+    "lng": 54.44391
+  },
+  {
+    "name": "Gonbad-e Kāvūs",
+    "country": "IR",
+    "lat": 37.25004,
+    "lng": 55.16721
+  },
+  {
+    "name": "Gonābād",
+    "country": "IR",
+    "lat": 34.35287,
+    "lng": 58.68365
+  },
+  {
+    "name": "Golpāyegān",
+    "country": "IR",
+    "lat": 33.4537,
+    "lng": 50.28836
+  },
+  {
+    "name": "Gotvand",
+    "country": "IR",
+    "lat": 32.24585,
+    "lng": 48.81315
+  },
+  {
+    "name": "Gonnostramatza",
+    "country": "IT",
+    "lat": 39.68306,
+    "lng": 8.83283
+  },
+  {
+    "name": "Gonnosnò",
+    "country": "IT",
+    "lat": 39.76104,
+    "lng": 8.87135
+  },
+  {
+    "name": "Gonnosfanadiga",
+    "country": "IT",
+    "lat": 39.49426,
+    "lng": 8.662
+  },
+  {
+    "name": "Gonnoscodina",
+    "country": "IT",
+    "lat": 39.69962,
+    "lng": 8.83598
+  },
+  {
+    "name": "Gonnesa",
+    "country": "IT",
+    "lat": 39.26535,
+    "lng": 8.47038
+  },
+  {
+    "name": "Goni",
+    "country": "IT",
+    "lat": 39.57906,
+    "lng": 9.28519
+  },
+  {
+    "name": "Godrano",
+    "country": "IT",
+    "lat": 37.9031,
+    "lng": 13.42823
+  },
+  {
+    "name": "Gozzano",
+    "country": "IT",
+    "lat": 45.74273,
+    "lng": 8.43659
+  },
+  {
+    "name": "Gottolengo",
+    "country": "IT",
+    "lat": 45.29278,
+    "lng": 10.26855
+  },
+  {
+    "name": "Gossolengo",
+    "country": "IT",
+    "lat": 45.00248,
+    "lng": 9.61799
+  },
+  {
+    "name": "Gosaldo",
+    "country": "IT",
+    "lat": 46.22142,
+    "lng": 11.9557
+  },
+  {
+    "name": "Gorzegno",
+    "country": "IT",
+    "lat": 44.51236,
+    "lng": 8.1348
+  },
+  {
+    "name": "Gorreto",
+    "country": "IT",
+    "lat": 44.60485,
+    "lng": 9.29126
+  },
+  {
+    "name": "Goro",
+    "country": "IT",
+    "lat": 44.8515,
+    "lng": 12.29651
+  },
+  {
+    "name": "Gorno",
+    "country": "IT",
+    "lat": 45.86249,
+    "lng": 9.84155
+  },
+  {
+    "name": "Gorle",
+    "country": "IT",
+    "lat": 45.70127,
+    "lng": 9.71382
+  },
+  {
+    "name": "Gorla Maggiore",
+    "country": "IT",
+    "lat": 45.66388,
+    "lng": 8.89537
+  },
+  {
+    "name": "Gorizia",
+    "country": "IT",
+    "lat": 45.94088,
+    "lng": 13.62167
+  },
+  {
+    "name": "Goriano Sicoli",
+    "country": "IT",
+    "lat": 42.08011,
+    "lng": 13.77459
+  },
+  {
+    "name": "Gorgonzola",
+    "country": "IT",
+    "lat": 45.53069,
+    "lng": 9.40531
+  },
+  {
+    "name": "Gorgoglione",
+    "country": "IT",
+    "lat": 40.39532,
+    "lng": 16.14456
+  },
+  {
+    "name": "Gorga",
+    "country": "IT",
+    "lat": 41.65468,
+    "lng": 13.10663
+  },
+  {
+    "name": "Gordona",
+    "country": "IT",
+    "lat": 46.29176,
+    "lng": 9.367
+  },
+  {
+    "name": "Gonzaga",
+    "country": "IT",
+    "lat": 44.95193,
+    "lng": 10.81913
+  },
+  {
+    "name": "Gonars",
+    "country": "IT",
+    "lat": 45.8974,
+    "lng": 13.24402
+  },
+  {
+    "name": "Golfo Aranci",
+    "country": "IT",
+    "lat": 40.98333,
+    "lng": 9.63333
+  },
+  {
+    "name": "Golasecca",
+    "country": "IT",
+    "lat": 45.69821,
+    "lng": 8.66112
+  },
+  {
+    "name": "Goito",
+    "country": "IT",
+    "lat": 45.25076,
+    "lng": 10.66121
+  },
+  {
+    "name": "Godo",
+    "country": "IT",
+    "lat": 44.39173,
+    "lng": 12.07495
+  },
+  {
+    "name": "Godiasco",
+    "country": "IT",
+    "lat": 44.89645,
+    "lng": 9.05667
+  },
+  {
+    "name": "Godega",
+    "country": "IT",
+    "lat": 45.92859,
+    "lng": 12.39687
+  },
+  {
+    "name": "Gorgo al Monticano",
+    "country": "IT",
+    "lat": 45.79139,
+    "lng": 12.55
+  },
+  {
+    "name": "Gornate Olona",
+    "country": "IT",
+    "lat": 45.74157,
+    "lng": 8.85994
+  },
+  {
+    "name": "Gorla Minore",
+    "country": "IT",
+    "lat": 45.64117,
+    "lng": 8.90264
+  },
+  {
+    "name": "Gorlago",
+    "country": "IT",
+    "lat": 45.67408,
+    "lng": 9.82296
+  },
+  {
+    "name": "Golferenzo",
+    "country": "IT",
+    "lat": 44.96106,
+    "lng": 9.30596
+  },
+  {
+    "name": "Gombito",
+    "country": "IT",
+    "lat": 45.26187,
+    "lng": 9.72856
+  },
+  {
+    "name": "Golfo Aranci",
+    "country": "IT",
+    "lat": 41.00648,
+    "lng": 9.61453
+  },
+  {
+    "name": "Gottasecca",
+    "country": "IT",
+    "lat": 44.46014,
+    "lng": 8.16754
+  },
+  {
+    "name": "Govone",
+    "country": "IT",
+    "lat": 44.80445,
+    "lng": 8.09404
+  },
+  {
+    "name": "Gorgo della Chiesa",
+    "country": "IT",
+    "lat": 45.78747,
+    "lng": 12.5627
+  },
+  {
+    "name": "Gorzano",
+    "country": "IT",
+    "lat": 44.51626,
+    "lng": 10.87983
+  },
+  {
+    "name": "Gonte",
+    "country": "IT",
+    "lat": 45.99519,
+    "lng": 8.64982
+  },
+  {
+    "name": "Gordon Town",
+    "country": "JM",
+    "lat": 18.03578,
+    "lng": -76.71783
+  },
+  {
+    "name": "Golden Grove",
+    "country": "JM",
+    "lat": 17.93361,
+    "lng": -76.27254
+  },
+  {
+    "name": "Gotemba",
+    "country": "JP",
+    "lat": 35.31859,
+    "lng": 138.94343
+  },
+  {
+    "name": "Gosen",
+    "country": "JP",
+    "lat": 37.73333,
+    "lng": 139.16667
+  },
+  {
+    "name": "Gose",
+    "country": "JP",
+    "lat": 34.45,
+    "lng": 135.73333
+  },
+  {
+    "name": "Gojō",
+    "country": "JP",
+    "lat": 34.35,
+    "lng": 135.7
+  },
+  {
+    "name": "Gohyakkoku",
+    "country": "JP",
+    "lat": 36.66411,
+    "lng": 137.31665
+  },
+  {
+    "name": "Gobō",
+    "country": "JP",
+    "lat": 33.88153,
+    "lng": 135.1696
+  },
+  {
+    "name": "Gojōnome",
+    "country": "JP",
+    "lat": 39.93333,
+    "lng": 140.11667
+  },
+  {
+    "name": "Goshogawara",
+    "country": "JP",
+    "lat": 40.80444,
+    "lng": 140.44139
+  },
+  {
+    "name": "Gotō",
+    "country": "JP",
+    "lat": 32.68418,
+    "lng": 128.8068
+  },
+  {
+    "name": "Gongoni",
+    "country": "KE",
+    "lat": -3.03668,
+    "lng": 40.13748
+  },
+  {
+    "name": "Goyang-si",
+    "country": "KR",
+    "lat": 37.65639,
+    "lng": 126.835
+  },
+  {
+    "name": "Goseong",
+    "country": "KR",
+    "lat": 34.97631,
+    "lng": 128.32361
+  },
+  {
+    "name": "Gongju",
+    "country": "KR",
+    "lat": 36.45556,
+    "lng": 127.12472
+  },
+  {
+    "name": "Gongeum",
+    "country": "KR",
+    "lat": 35.37825,
+    "lng": 126.51141
+  },
+  {
+    "name": "Gonderange",
+    "country": "LU",
+    "lat": 49.69537,
+    "lng": 6.24577
+  },
+  {
+    "name": "Goesdorf",
+    "country": "LU",
+    "lat": 49.92131,
+    "lng": 5.96601
+  },
+  {
+    "name": "Gourrama",
+    "country": "MA",
+    "lat": 32.34016,
+    "lng": -4.07349
+  },
+  {
+    "name": "Goulmima",
+    "country": "MA",
+    "lat": 31.69227,
+    "lng": -4.95256
+  },
+  {
+    "name": "Goričani",
+    "country": "ME",
+    "lat": 42.33222,
+    "lng": 19.21194
+  },
+  {
+    "name": "Golubovci",
+    "country": "ME",
+    "lat": 42.3352,
+    "lng": 19.23104
+  },
+  {
+    "name": "Gostivar",
+    "country": "MK",
+    "lat": 41.79627,
+    "lng": 20.90799
+  },
+  {
+    "name": "Gorobinci",
+    "country": "MK",
+    "lat": 41.87507,
+    "lng": 21.87599
+  },
+  {
+    "name": "Gorno Orizari",
+    "country": "MK",
+    "lat": 41.68583,
+    "lng": 21.73475
+  },
+  {
+    "name": "Gorno Orizari",
+    "country": "MK",
+    "lat": 41.05188,
+    "lng": 21.34548
+  },
+  {
+    "name": "Golema Rečica",
+    "country": "MK",
+    "lat": 41.98803,
+    "lng": 20.94517
+  },
+  {
+    "name": "Gourma Rharous",
+    "country": "ML",
+    "lat": 16.87778,
+    "lng": -1.92306
+  },
+  {
+    "name": "Goundam",
+    "country": "ML",
+    "lat": 16.41453,
+    "lng": -3.67075
+  },
+  {
+    "name": "Goodlands",
+    "country": "MU",
+    "lat": -20.03841,
+    "lng": 57.65055
+  },
+  {
+    "name": "González",
+    "country": "MX",
+    "lat": 22.82761,
+    "lng": -98.42715
+  },
+  {
+    "name": "Gobernador Cruz",
+    "country": "MX",
+    "lat": 18.43394,
+    "lng": -92.87293
+  },
+  {
+    "name": "González Ortega",
+    "country": "MX",
+    "lat": 19.34268,
+    "lng": -97.27023
+  },
+  {
+    "name": "Golfo de Santa Clara",
+    "country": "MX",
+    "lat": 31.68932,
+    "lng": -114.49509
+  },
+  {
+    "name": "Gonzales Ortega",
+    "country": "MX",
+    "lat": 23.18056,
+    "lng": -102.47589
+  },
+  {
+    "name": "Gobernadores",
+    "country": "MX",
+    "lat": 18.24694,
+    "lng": -93.18528
+  },
+  {
+    "name": "Gopeng",
+    "country": "MY",
+    "lat": 4.4715,
+    "lng": 101.1663
+  },
+  {
+    "name": "Gorongosa",
+    "country": "MZ",
+    "lat": -18.67556,
+    "lng": 34.07278
+  },
+  {
+    "name": "Gondola",
+    "country": "MZ",
+    "lat": -19.08833,
+    "lng": 33.64861
+  },
+  {
+    "name": "Gochas",
+    "country": "NA",
+    "lat": -24.85762,
+    "lng": 18.80137
+  },
+  {
+    "name": "Gobabis",
+    "country": "NA",
+    "lat": -22.45338,
+    "lng": 18.97159
+  },
+  {
+    "name": "Gouré",
+    "country": "NE",
+    "lat": 13.9835,
+    "lng": 10.27035
+  },
+  {
+    "name": "Goudoumaria",
+    "country": "NE",
+    "lat": 13.7109,
+    "lng": 11.1885
+  },
+  {
+    "name": "Gothèye",
+    "country": "NE",
+    "lat": 13.8559,
+    "lng": 1.56707
+  },
+  {
+    "name": "Goronyo",
+    "country": "NG",
+    "lat": 13.44226,
+    "lng": 5.67234
+  },
+  {
+    "name": "Gorgoram",
+    "country": "NG",
+    "lat": 12.63958,
+    "lng": 10.70422
+  },
+  {
+    "name": "Gora",
+    "country": "NG",
+    "lat": 11.91294,
+    "lng": 7.66531
+  },
+  {
+    "name": "Goniri",
+    "country": "NG",
+    "lat": 11.48451,
+    "lng": 12.31264
+  },
+  {
+    "name": "Gombi",
+    "country": "NG",
+    "lat": 10.16756,
+    "lng": 12.73684
+  },
+  {
+    "name": "Gombe",
+    "country": "NG",
+    "lat": 10.28969,
+    "lng": 11.16729
+  },
+  {
+    "name": "Gouwsluis",
+    "country": "NL",
+    "lat": 52.11943,
+    "lng": 4.66899
+  },
+  {
+    "name": "Goutum",
+    "country": "NL",
+    "lat": 53.17734,
+    "lng": 5.8037
+  },
+  {
+    "name": "Goudswaard",
+    "country": "NL",
+    "lat": 51.79417,
+    "lng": 4.27639
+  },
+  {
+    "name": "Gouderak",
+    "country": "NL",
+    "lat": 51.98417,
+    "lng": 4.67778
+  },
+  {
+    "name": "Gouda",
+    "country": "NL",
+    "lat": 52.01667,
+    "lng": 4.70833
+  },
+  {
+    "name": "Gorssel",
+    "country": "NL",
+    "lat": 52.20167,
+    "lng": 6.20139
+  },
+  {
+    "name": "Gorredijk",
+    "country": "NL",
+    "lat": 53.00659,
+    "lng": 6.06402
+  },
+  {
+    "name": "Gorinchem",
+    "country": "NL",
+    "lat": 51.83652,
+    "lng": 4.97243
+  },
+  {
+    "name": "Goor",
+    "country": "NL",
+    "lat": 52.23333,
+    "lng": 6.58611
+  },
+  {
+    "name": "Goirle",
+    "country": "NL",
+    "lat": 51.52083,
+    "lng": 5.06667
+  },
+  {
+    "name": "Goes",
+    "country": "NL",
+    "lat": 51.50417,
+    "lng": 3.88889
+  },
+  {
+    "name": "Goedereede",
+    "country": "NL",
+    "lat": 51.8175,
+    "lng": 3.98056
+  },
+  {
+    "name": "Gol",
+    "country": "NO",
+    "lat": 60.7014,
+    "lng": 8.94572
+  },
+  {
+    "name": "Gore",
+    "country": "NZ",
+    "lat": -46.10282,
+    "lng": 168.94357
+  },
+  {
+    "name": "Gobernadora",
+    "country": "PA",
+    "lat": 7.55931,
+    "lng": -81.18553
+  },
+  {
+    "name": "Gonzalo Vásquez",
+    "country": "PA",
+    "lat": 8.41976,
+    "lng": -78.45189
+  },
+  {
+    "name": "Gobea",
+    "country": "PA",
+    "lat": 9.16794,
+    "lng": -80.25383
+  },
+  {
+    "name": "Gonzalillo",
+    "country": "PA",
+    "lat": 9.09779,
+    "lng": -79.51313
+  },
+  {
+    "name": "Goyllarisquizga",
+    "country": "PE",
+    "lat": -10.47389,
+    "lng": -76.40944
+  },
+  {
+    "name": "Gorgorillo",
+    "country": "PE",
+    "lat": -10.33541,
+    "lng": -77.12563
+  },
+  {
+    "name": "Gorgor",
+    "country": "PE",
+    "lat": -10.58333,
+    "lng": -77.03333
+  },
+  {
+    "name": "Goroka",
+    "country": "PG",
+    "lat": -6.085,
+    "lng": 145.38667
+  },
+  {
+    "name": "Gonzaga",
+    "country": "PH",
+    "lat": 18.25937,
+    "lng": 121.99495
+  },
+  {
+    "name": "Goma",
+    "country": "PH",
+    "lat": 6.79194,
+    "lng": 125.32083
+  },
+  {
+    "name": "Gocoton",
+    "country": "PH",
+    "lat": 7.15611,
+    "lng": 124.69111
+  },
+  {
+    "name": "Goa",
+    "country": "PH",
+    "lat": 13.6978,
+    "lng": 123.4892
+  },
+  {
+    "name": "Goth Shams Pir",
+    "country": "PK",
+    "lat": 24.84414,
+    "lng": 66.92181
+  },
+  {
+    "name": "Goth Radhan",
+    "country": "PK",
+    "lat": 27.19846,
+    "lng": 67.95348
+  },
+  {
+    "name": "Goth Phulji",
+    "country": "PK",
+    "lat": 26.88099,
+    "lng": 67.68239
+  },
+  {
+    "name": "Gojra",
+    "country": "PK",
+    "lat": 31.14926,
+    "lng": 72.68323
+  },
+  {
+    "name": "Goth Garelo",
+    "country": "PK",
+    "lat": 27.43521,
+    "lng": 68.07572
+  },
+  {
+    "name": "Goworowo",
+    "country": "PL",
+    "lat": 52.90083,
+    "lng": 21.55578
+  },
+  {
+    "name": "Gowarczów",
+    "country": "PL",
+    "lat": 51.27845,
+    "lng": 20.43835
+  },
+  {
+    "name": "Goszczyn",
+    "country": "PL",
+    "lat": 51.73187,
+    "lng": 20.85154
+  },
+  {
+    "name": "Gościeradów",
+    "country": "PL",
+    "lat": 50.86859,
+    "lng": 22.00536
+  },
+  {
+    "name": "Gorzyce",
+    "country": "PL",
+    "lat": 50.6672,
+    "lng": 21.84013
+  },
+  {
+    "name": "Gorzyce",
+    "country": "PL",
+    "lat": 50.12841,
+    "lng": 22.57926
+  },
+  {
+    "name": "Gorzków",
+    "country": "PL",
+    "lat": 50.94778,
+    "lng": 23.01267
+  },
+  {
+    "name": "Gorliczyna",
+    "country": "PL",
+    "lat": 50.09217,
+    "lng": 22.48764
+  },
+  {
+    "name": "Gorlice",
+    "country": "PL",
+    "lat": 49.65563,
+    "lng": 21.16035
+  },
+  {
+    "name": "Goraj",
+    "country": "PL",
+    "lat": 50.72184,
+    "lng": 22.66651
+  },
+  {
+    "name": "Goniadz",
+    "country": "PL",
+    "lat": 53.48953,
+    "lng": 22.73578
+  },
+  {
+    "name": "Gołymin-Ośrodek",
+    "country": "PL",
+    "lat": 52.808,
+    "lng": 20.87325
+  },
+  {
+    "name": "Gołdap",
+    "country": "PL",
+    "lat": 54.30631,
+    "lng": 22.30362
+  },
+  {
+    "name": "Golcowa",
+    "country": "PL",
+    "lat": 49.77162,
+    "lng": 22.02501
+  },
+  {
+    "name": "Godziszów",
+    "country": "PL",
+    "lat": 50.74889,
+    "lng": 22.49794
+  },
+  {
+    "name": "Godzianów",
+    "country": "PL",
+    "lat": 51.89694,
+    "lng": 20.03589
+  },
+  {
+    "name": "Gozdowo",
+    "country": "PL",
+    "lat": 52.72455,
+    "lng": 19.68501
+  },
+  {
+    "name": "Gozdnica",
+    "country": "PL",
+    "lat": 51.4363,
+    "lng": 15.09856
+  },
+  {
+    "name": "Goszczanów",
+    "country": "PL",
+    "lat": 51.79163,
+    "lng": 18.5057
+  },
+  {
+    "name": "Gostynin",
+    "country": "PL",
+    "lat": 52.42938,
+    "lng": 19.46194
+  },
+  {
+    "name": "Gostyń",
+    "country": "PL",
+    "lat": 51.88247,
+    "lng": 17.01225
+  },
+  {
+    "name": "Gostyń",
+    "country": "PL",
+    "lat": 50.10528,
+    "lng": 18.88241
+  },
+  {
+    "name": "Gostycyn",
+    "country": "PL",
+    "lat": 53.49014,
+    "lng": 17.80978
+  },
+  {
+    "name": "Gościno",
+    "country": "PL",
+    "lat": 54.05123,
+    "lng": 15.65256
+  },
+  {
+    "name": "Gościcino",
+    "country": "PL",
+    "lat": 54.60459,
+    "lng": 18.15491
+  },
+  {
+    "name": "Gorzyczki",
+    "country": "PL",
+    "lat": 49.94912,
+    "lng": 18.4033
+  },
+  {
+    "name": "Gorzyce Wielkie",
+    "country": "PL",
+    "lat": 51.63725,
+    "lng": 17.72953
+  },
+  {
+    "name": "Gorzyce",
+    "country": "PL",
+    "lat": 49.95945,
+    "lng": 18.39884
+  },
+  {
+    "name": "Gorzów Wielkopolski",
+    "country": "PL",
+    "lat": 52.73371,
+    "lng": 15.22505
+  },
+  {
+    "name": "Gorzów Śląski",
+    "country": "PL",
+    "lat": 51.02871,
+    "lng": 18.42304
+  },
+  {
+    "name": "Gorzkowice",
+    "country": "PL",
+    "lat": 51.21533,
+    "lng": 19.59626
+  },
+  {
+    "name": "Gorenice",
+    "country": "PL",
+    "lat": 50.208,
+    "lng": 19.62038
+  },
+  {
+    "name": "Gomunice",
+    "country": "PL",
+    "lat": 51.1689,
+    "lng": 19.49335
+  },
+  {
+    "name": "Gołuchów",
+    "country": "PL",
+    "lat": 51.85036,
+    "lng": 17.9314
+  },
+  {
+    "name": "Golub-Dobrzyń",
+    "country": "PL",
+    "lat": 53.11087,
+    "lng": 19.05381
+  },
+  {
+    "name": "Gołkowice",
+    "country": "PL",
+    "lat": 49.91418,
+    "lng": 18.51419
+  },
+  {
+    "name": "Golina",
+    "country": "PL",
+    "lat": 52.24315,
+    "lng": 18.09268
+  },
+  {
+    "name": "Golina",
+    "country": "PL",
+    "lat": 51.91489,
+    "lng": 17.48268
+  },
+  {
+    "name": "Goleszów",
+    "country": "PL",
+    "lat": 49.7358,
+    "lng": 18.73675
+  },
+  {
+    "name": "Goleniów",
+    "country": "PL",
+    "lat": 53.56392,
+    "lng": 14.82854
+  },
+  {
+    "name": "Golczewo",
+    "country": "PL",
+    "lat": 53.82426,
+    "lng": 14.97847
+  },
+  {
+    "name": "Gołańcz",
+    "country": "PL",
+    "lat": 52.94326,
+    "lng": 17.29995
+  },
+  {
+    "name": "Gogolin",
+    "country": "PL",
+    "lat": 50.49222,
+    "lng": 18.01994
+  },
+  {
+    "name": "Godziszka",
+    "country": "PL",
+    "lat": 49.71288,
+    "lng": 19.07587
+  },
+  {
+    "name": "Godów",
+    "country": "PL",
+    "lat": 49.92481,
+    "lng": 18.4783
+  },
+  {
+    "name": "Goczałkowice Zdrój",
+    "country": "PL",
+    "lat": 49.94454,
+    "lng": 18.96927
+  },
+  {
+    "name": "Godziszów Pierwszy",
+    "country": "PL",
+    "lat": 50.75753,
+    "lng": 22.48386
+  },
+  {
+    "name": "Golegã",
+    "country": "PT",
+    "lat": 39.40474,
+    "lng": -8.48625
+  },
+  {
+    "name": "Gondomar",
+    "country": "PT",
+    "lat": 41.14454,
+    "lng": -8.53223
+  },
+  {
+    "name": "Gondizalves",
+    "country": "PT",
+    "lat": 41.54158,
+    "lng": -8.4557
+  },
+  {
+    "name": "Godim",
+    "country": "PT",
+    "lat": 41.17104,
+    "lng": -7.80303
+  },
+  {
+    "name": "Godim",
+    "country": "PT",
+    "lat": 41.15452,
+    "lng": -8.58892
+  },
+  {
+    "name": "Gottlob",
+    "country": "RO",
+    "lat": 45.936,
+    "lng": 20.71168
+  },
+  {
+    "name": "Gostinu",
+    "country": "RO",
+    "lat": 44.0,
+    "lng": 26.11667
+  },
+  {
+    "name": "Goştinari-Văcăreşti",
+    "country": "RO",
+    "lat": 44.18333,
+    "lng": 26.21667
+  },
+  {
+    "name": "Gostinari",
+    "country": "RO",
+    "lat": 44.18624,
+    "lng": 26.22807
+  },
+  {
+    "name": "Gostavăţu",
+    "country": "RO",
+    "lat": 44.08333,
+    "lng": 24.53333
+  },
+  {
+    "name": "Goșmani",
+    "country": "RO",
+    "lat": 46.8362,
+    "lng": 26.71522
+  },
+  {
+    "name": "Goruni",
+    "country": "RO",
+    "lat": 47.10389,
+    "lng": 27.71854
+  },
+  {
+    "name": "Goruna",
+    "country": "RO",
+    "lat": 45.08696,
+    "lng": 25.94202
+  },
+  {
+    "name": "Goruia",
+    "country": "RO",
+    "lat": 45.18722,
+    "lng": 21.77917
+  },
+  {
+    "name": "Gornet-Cricov",
+    "country": "RO",
+    "lat": 45.08333,
+    "lng": 26.26667
+  },
+  {
+    "name": "Gornet",
+    "country": "RO",
+    "lat": 45.11667,
+    "lng": 26.06667
+  },
+  {
+    "name": "Gorneşti",
+    "country": "RO",
+    "lat": 46.67129,
+    "lng": 24.64757
+  },
+  {
+    "name": "Gorgota",
+    "country": "RO",
+    "lat": 44.97626,
+    "lng": 25.50837
+  },
+  {
+    "name": "Gorgota",
+    "country": "RO",
+    "lat": 44.78333,
+    "lng": 26.08333
+  },
+  {
+    "name": "Gorganu",
+    "country": "RO",
+    "lat": 44.84241,
+    "lng": 25.03838
+  },
+  {
+    "name": "Goreni",
+    "country": "RO",
+    "lat": 46.85474,
+    "lng": 24.65569
+  },
+  {
+    "name": "Gorbăneşti",
+    "country": "RO",
+    "lat": 47.78333,
+    "lng": 26.85
+  },
+  {
+    "name": "Gorban",
+    "country": "RO",
+    "lat": 46.87611,
+    "lng": 28.07889
+  },
+  {
+    "name": "Goranu",
+    "country": "RO",
+    "lat": 45.10523,
+    "lng": 24.38431
+  },
+  {
+    "name": "Gologanu",
+    "country": "RO",
+    "lat": 45.60979,
+    "lng": 27.27091
+  },
+  {
+    "name": "Goleşti",
+    "country": "RO",
+    "lat": 45.66667,
+    "lng": 27.16533
+  },
+  {
+    "name": "Golești",
+    "country": "RO",
+    "lat": 44.8397,
+    "lng": 24.9653
+  },
+  {
+    "name": "Golăiești",
+    "country": "RO",
+    "lat": 47.23333,
+    "lng": 27.7
+  },
+  {
+    "name": "Goicea",
+    "country": "RO",
+    "lat": 43.91667,
+    "lng": 23.61667
+  },
+  {
+    "name": "Gohor",
+    "country": "RO",
+    "lat": 46.06667,
+    "lng": 27.4
+  },
+  {
+    "name": "Gogoşu",
+    "country": "RO",
+    "lat": 44.41667,
+    "lng": 23.36667
+  },
+  {
+    "name": "Gogoşu",
+    "country": "RO",
+    "lat": 44.37389,
+    "lng": 22.59306
+  },
+  {
+    "name": "Gogoşari",
+    "country": "RO",
+    "lat": 43.86667,
+    "lng": 25.7
+  },
+  {
+    "name": "Goești",
+    "country": "RO",
+    "lat": 47.15654,
+    "lng": 27.13659
+  },
+  {
+    "name": "Goiești",
+    "country": "RO",
+    "lat": 44.48333,
+    "lng": 23.76667
+  },
+  {
+    "name": "Godineşti",
+    "country": "RO",
+    "lat": 45.0,
+    "lng": 22.96667
+  },
+  {
+    "name": "Godeni",
+    "country": "RO",
+    "lat": 45.23333,
+    "lng": 24.98333
+  },
+  {
+    "name": "Godeanu",
+    "country": "RO",
+    "lat": 44.80111,
+    "lng": 22.60861
+  },
+  {
+    "name": "Gornji Milanovac",
+    "country": "RS",
+    "lat": 44.02603,
+    "lng": 20.46152
+  },
+  {
+    "name": "Gornji Breg",
+    "country": "RS",
+    "lat": 45.91995,
+    "lng": 20.01766
+  },
+  {
+    "name": "Golubinci",
+    "country": "RS",
+    "lat": 44.98533,
+    "lng": 20.06339
+  },
+  {
+    "name": "Golubac",
+    "country": "RS",
+    "lat": 44.65296,
+    "lng": 21.63199
+  },
+  {
+    "name": "Gornja Bukovica",
+    "country": "RS",
+    "lat": 44.34233,
+    "lng": 19.78647
+  },
+  {
+    "name": "Golovinskiy",
+    "country": "RU",
+    "lat": 55.85381,
+    "lng": 37.49604
+  },
+  {
+    "name": "Goyty",
+    "country": "RU",
+    "lat": 43.16417,
+    "lng": 45.62278
+  },
+  {
+    "name": "Gostilitsy",
+    "country": "RU",
+    "lat": 59.74832,
+    "lng": 29.62205
+  },
+  {
+    "name": "Gostagayevskaya",
+    "country": "RU",
+    "lat": 45.02284,
+    "lng": 37.50511
+  },
+  {
+    "name": "Goryachiy Klyuch",
+    "country": "RU",
+    "lat": 44.63394,
+    "lng": 39.13582
+  },
+  {
+    "name": "Goryachevodskiy",
+    "country": "RU",
+    "lat": 44.02361,
+    "lng": 43.09222
+  },
+  {
+    "name": "Gorskaya",
+    "country": "RU",
+    "lat": 60.0464,
+    "lng": 29.97137
+  },
+  {
+    "name": "Gorshechnoye",
+    "country": "RU",
+    "lat": 51.52356,
+    "lng": 38.03799
+  },
+  {
+    "name": "Gorokhovets",
+    "country": "RU",
+    "lat": 56.19958,
+    "lng": 42.68866
+  },
+  {
+    "name": "Gorodovikovsk",
+    "country": "RU",
+    "lat": 46.08776,
+    "lng": 41.93344
+  },
+  {
+    "name": "Gorodoviki",
+    "country": "RU",
+    "lat": 46.13528,
+    "lng": 41.96556
+  },
+  {
+    "name": "Gorodnya",
+    "country": "RU",
+    "lat": 56.7055,
+    "lng": 36.31793
+  },
+  {
+    "name": "Gorodishche",
+    "country": "RU",
+    "lat": 53.2775,
+    "lng": 45.7017
+  },
+  {
+    "name": "Gorodishche",
+    "country": "RU",
+    "lat": 48.80263,
+    "lng": 44.47491
+  },
+  {
+    "name": "Gorodets",
+    "country": "RU",
+    "lat": 56.65497,
+    "lng": 43.47269
+  },
+  {
+    "name": "Gornyy Balykley",
+    "country": "RU",
+    "lat": 49.55002,
+    "lng": 45.06769
+  },
+  {
+    "name": "Gornyy",
+    "country": "RU",
+    "lat": 51.75748,
+    "lng": 48.53688
+  },
+  {
+    "name": "Gornyy",
+    "country": "RU",
+    "lat": 47.81592,
+    "lng": 40.20363
+  },
+  {
+    "name": "Gornyatskiy",
+    "country": "RU",
+    "lat": 48.29649,
+    "lng": 40.92404
+  },
+  {
+    "name": "Gornozavodsk",
+    "country": "RU",
+    "lat": 58.37314,
+    "lng": 58.32607
+  },
+  {
+    "name": "Gorki Vtoryye",
+    "country": "RU",
+    "lat": 55.72565,
+    "lng": 37.1635
+  },
+  {
+    "name": "Gorki-Leninskiye",
+    "country": "RU",
+    "lat": 55.50855,
+    "lng": 37.77618
+  },
+  {
+    "name": "Goritsy",
+    "country": "RU",
+    "lat": 59.86949,
+    "lng": 38.26016
+  },
+  {
+    "name": "Goreloye",
+    "country": "RU",
+    "lat": 52.93697,
+    "lng": 41.50435
+  },
+  {
+    "name": "Gorelovo",
+    "country": "RU",
+    "lat": 59.77234,
+    "lng": 30.13455
+  },
+  {
+    "name": "Gorelki",
+    "country": "RU",
+    "lat": 54.25617,
+    "lng": 37.6108
+  },
+  {
+    "name": "Gordeyevka",
+    "country": "RU",
+    "lat": 52.9569,
+    "lng": 31.9703
+  },
+  {
+    "name": "Gorbunki",
+    "country": "RU",
+    "lat": 59.81307,
+    "lng": 29.98478
+  },
+  {
+    "name": "Gorbatovka",
+    "country": "RU",
+    "lat": 56.25716,
+    "lng": 43.74577
+  },
+  {
+    "name": "Gorbatov",
+    "country": "RU",
+    "lat": 56.1311,
+    "lng": 43.06363
+  },
+  {
+    "name": "Goragorskiy",
+    "country": "RU",
+    "lat": 43.5002,
+    "lng": 45.08574
+  },
+  {
+    "name": "Golynki",
+    "country": "RU",
+    "lat": 54.86964,
+    "lng": 31.38609
+  },
+  {
+    "name": "Gol’yanovo",
+    "country": "RU",
+    "lat": 55.82299,
+    "lng": 37.81306
+  },
+  {
+    "name": "Golubitskaya",
+    "country": "RU",
+    "lat": 45.32566,
+    "lng": 37.2702
+  },
+  {
+    "name": "Golovino",
+    "country": "RU",
+    "lat": 55.96128,
+    "lng": 40.42511
+  },
+  {
+    "name": "Golovchino",
+    "country": "RU",
+    "lat": 50.5341,
+    "lng": 35.797
+  },
+  {
+    "name": "Golitsyno",
+    "country": "RU",
+    "lat": 55.60928,
+    "lng": 36.98212
+  },
+  {
+    "name": "Gofitskoye",
+    "country": "RU",
+    "lat": 45.07917,
+    "lng": 43.04639
+  },
+  {
+    "name": "Gornoye Loo",
+    "country": "RU",
+    "lat": 43.71294,
+    "lng": 39.60492
+  },
+  {
+    "name": "Gorod Shebekino",
+    "country": "RU",
+    "lat": 50.41667,
+    "lng": 36.91667
+  },
+  {
+    "name": "Gornyy Shchit",
+    "country": "RU",
+    "lat": 56.68815,
+    "lng": 60.51947
+  },
+  {
+    "name": "Gornyy",
+    "country": "RU",
+    "lat": 55.1153,
+    "lng": 83.9059
+  },
+  {
+    "name": "Gornyak",
+    "country": "RU",
+    "lat": 55.13446,
+    "lng": 61.68268
+  },
+  {
+    "name": "Gornyak",
+    "country": "RU",
+    "lat": 50.99529,
+    "lng": 81.46693
+  },
+  {
+    "name": "Gornopravdinsk",
+    "country": "RU",
+    "lat": 60.05,
+    "lng": 69.9
+  },
+  {
+    "name": "Gorno-Altaysk",
+    "country": "RU",
+    "lat": 51.96056,
+    "lng": 85.91892
+  },
+  {
+    "name": "Gor’kovskoye",
+    "country": "RU",
+    "lat": 55.36852,
+    "lng": 74.36689
+  },
+  {
+    "name": "Gon’ba",
+    "country": "RU",
+    "lat": 53.4172,
+    "lng": 83.5747
+  },
+  {
+    "name": "Golyshmanovo",
+    "country": "RU",
+    "lat": 56.39865,
+    "lng": 68.37555
+  },
+  {
+    "name": "Gornyye Klyuchi",
+    "country": "RU",
+    "lat": 45.24487,
+    "lng": 133.50016
+  },
+  {
+    "name": "Gornyy",
+    "country": "RU",
+    "lat": 50.76344,
+    "lng": 136.44951
+  },
+  {
+    "name": "Gornorechenskiy",
+    "country": "RU",
+    "lat": 44.26393,
+    "lng": 135.11427
+  },
+  {
+    "name": "Gorin",
+    "country": "RU",
+    "lat": 51.19861,
+    "lng": 136.66216
+  },
+  {
+    "name": "Gornozavodsk",
+    "country": "RU",
+    "lat": 46.55984,
+    "lng": 141.84358
+  },
+  {
+    "name": "Gorshkovo",
+    "country": "RU",
+    "lat": 56.37561,
+    "lng": 37.4124
+  },
+  {
+    "name": "Gornyi",
+    "country": "RU",
+    "lat": 51.54806,
+    "lng": 113.03875
+  },
+  {
+    "name": "Gotovlje",
+    "country": "SI",
+    "lat": 46.27418,
+    "lng": 15.15186
+  },
+  {
+    "name": "Gornji Petrovci",
+    "country": "SI",
+    "lat": 46.80362,
+    "lng": 16.21898
+  },
+  {
+    "name": "Gornji Grad",
+    "country": "SI",
+    "lat": 46.29541,
+    "lng": 14.8079
+  },
+  {
+    "name": "Gornja Radgona",
+    "country": "SI",
+    "lat": 46.67263,
+    "lng": 15.99219
+  },
+  {
+    "name": "Gorišnica",
+    "country": "SI",
+    "lat": 46.41475,
+    "lng": 16.0135
+  },
+  {
+    "name": "Gorenja Vas",
+    "country": "SI",
+    "lat": 46.1074,
+    "lng": 14.14769
+  },
+  {
+    "name": "Golnik",
+    "country": "SI",
+    "lat": 46.33333,
+    "lng": 14.33333
+  },
+  {
+    "name": "Golianovo",
+    "country": "SK",
+    "lat": 48.27189,
+    "lng": 18.19185
+  },
+  {
+    "name": "Gorahun",
+    "country": "SL",
+    "lat": 7.46439,
+    "lng": -11.23952
+  },
+  {
+    "name": "Goderich",
+    "country": "SL",
+    "lat": 8.42756,
+    "lng": -13.28598
+  },
+  {
+    "name": "Goudomp",
+    "country": "SN",
+    "lat": 12.57778,
+    "lng": -15.87222
+  },
+  {
+    "name": "Goudiry",
+    "country": "SN",
+    "lat": 14.18146,
+    "lng": -12.71803
+  },
+  {
+    "name": "Gossas Village",
+    "country": "SN",
+    "lat": 14.48409,
+    "lng": -16.11377
+  },
+  {
+    "name": "Goléré",
+    "country": "SN",
+    "lat": 16.25575,
+    "lng": -14.10165
+  },
+  {
+    "name": "Gorayacowl",
+    "country": "SO",
+    "lat": 9.86899,
+    "lng": 43.2275
+  },
+  {
+    "name": "Gogrial",
+    "country": "SS",
+    "lat": 8.53324,
+    "lng": 28.10037
+  },
+  {
+    "name": "Goz Béïda",
+    "country": "TD",
+    "lat": 13.94563,
+    "lng": 20.5468
+  },
+  {
+    "name": "Goz Beida",
+    "country": "TD",
+    "lat": 12.22643,
+    "lng": 21.40983
+  },
+  {
+    "name": "Gounou Gaya",
+    "country": "TD",
+    "lat": 9.6294,
+    "lng": 15.5132
+  },
+  {
+    "name": "Goundi",
+    "country": "TD",
+    "lat": 9.36267,
+    "lng": 17.36597
+  },
+  {
+    "name": "Goré",
+    "country": "TD",
+    "lat": 8.65,
+    "lng": 16.51667
+  },
+  {
+    "name": "Godown",
+    "country": "TH",
+    "lat": 13.71667,
+    "lng": 100.5
+  },
+  {
+    "name": "Gowurdak",
+    "country": "TM",
+    "lat": 37.81244,
+    "lng": 66.04656
+  },
+  {
+    "name": "Goubellat",
+    "country": "TN",
+    "lat": 36.54178,
+    "lng": 9.66334
+  },
+  {
+    "name": "Gornostayevka",
+    "country": "UA",
+    "lat": 45.27819,
+    "lng": 36.18601
+  },
+  {
+    "name": "Golubinka",
+    "country": "UA",
+    "lat": 44.59382,
+    "lng": 33.91521
+  },
+  {
+    "name": "Gombe",
+    "country": "UG",
+    "lat": 0.20333,
+    "lng": 32.08806
+  },
+  {
+    "name": "Good Hope",
+    "country": "US",
+    "lat": 34.11593,
+    "lng": -86.86361
+  },
+  {
+    "name": "Goodwater",
+    "country": "US",
+    "lat": 33.06567,
+    "lng": -86.0533
+  },
+  {
+    "name": "Gordo",
+    "country": "US",
+    "lat": 33.32012,
+    "lng": -87.9028
+  },
+  {
+    "name": "Gosnell",
+    "country": "US",
+    "lat": 35.95979,
+    "lng": -89.97203
+  },
+  {
+    "name": "Goshen",
+    "country": "US",
+    "lat": 36.10119,
+    "lng": -93.99131
+  },
+  {
+    "name": "Golden Gate",
+    "country": "US",
+    "lat": 26.18787,
+    "lng": -81.69509
+  },
+  {
+    "name": "Golden Glades",
+    "country": "US",
+    "lat": 25.91176,
+    "lng": -80.20033
+  },
+  {
+    "name": "Goldenrod",
+    "country": "US",
+    "lat": 28.61028,
+    "lng": -81.28868
+  },
+  {
+    "name": "Gonzalez",
+    "country": "US",
+    "lat": 30.58158,
+    "lng": -87.29136
+  },
+  {
+    "name": "Gotha",
+    "country": "US",
+    "lat": 28.52778,
+    "lng": -81.52313
+  },
+  {
+    "name": "Goulding",
+    "country": "US",
+    "lat": 30.44298,
+    "lng": -87.22247
+  },
+  {
+    "name": "Goulds",
+    "country": "US",
+    "lat": 25.56261,
+    "lng": -80.38228
+  },
+  {
+    "name": "Gordon",
+    "country": "US",
+    "lat": 32.88209,
+    "lng": -83.33238
+  },
+  {
+    "name": "Godfrey",
+    "country": "US",
+    "lat": 38.9556,
+    "lng": -90.18678
+  },
+  {
+    "name": "Golconda",
+    "country": "US",
+    "lat": 37.36727,
+    "lng": -88.48643
+  },
+  {
+    "name": "Goreville",
+    "country": "US",
+    "lat": 37.5545,
+    "lng": -88.97229
+  },
+  {
+    "name": "Goddard",
+    "country": "US",
+    "lat": 37.65974,
+    "lng": -97.57533
+  },
+  {
+    "name": "Golden Meadow",
+    "country": "US",
+    "lat": 29.37911,
+    "lng": -90.26008
+  },
+  {
+    "name": "Gonzales",
+    "country": "US",
+    "lat": 30.23853,
+    "lng": -90.9201
+  },
+  {
+    "name": "Goddard",
+    "country": "US",
+    "lat": 38.98955,
+    "lng": -76.85331
+  },
+  {
+    "name": "Golden Beach",
+    "country": "US",
+    "lat": 38.48985,
+    "lng": -76.68218
+  },
+  {
+    "name": "Goodman",
+    "country": "US",
+    "lat": 36.74174,
+    "lng": -94.39911
+  },
+  {
+    "name": "Gower",
+    "country": "US",
+    "lat": 39.61083,
+    "lng": -94.5994
+  },
+  {
+    "name": "Goodman",
+    "country": "US",
+    "lat": 32.97013,
+    "lng": -89.91231
+  },
+  {
+    "name": "Goldsboro",
+    "country": "US",
+    "lat": 35.38488,
+    "lng": -77.99277
+  },
+  {
+    "name": "Gorman",
+    "country": "US",
+    "lat": 36.03653,
+    "lng": -78.82334
+  },
+  {
+    "name": "Golden Triangle",
+    "country": "US",
+    "lat": 39.92789,
+    "lng": -75.03878
+  },
+  {
+    "name": "Golf Manor",
+    "country": "US",
+    "lat": 39.18728,
+    "lng": -84.44633
+  },
+  {
+    "name": "Goshen",
+    "country": "US",
+    "lat": 39.23339,
+    "lng": -84.16132
+  },
+  {
+    "name": "Goldsby",
+    "country": "US",
+    "lat": 35.14118,
+    "lng": -97.47698
+  },
+  {
+    "name": "Golden Grove",
+    "country": "US",
+    "lat": 34.73401,
+    "lng": -82.44374
+  },
+  {
+    "name": "Goose Creek",
+    "country": "US",
+    "lat": 32.98101,
+    "lng": -80.03259
+  },
+  {
+    "name": "Goodlettsville",
+    "country": "US",
+    "lat": 36.32311,
+    "lng": -86.71333
+  },
+  {
+    "name": "Gordonsville",
+    "country": "US",
+    "lat": 36.17256,
+    "lng": -85.92971
+  },
+  {
+    "name": "Godley",
+    "country": "US",
+    "lat": 32.44903,
+    "lng": -97.52669
+  },
+  {
+    "name": "Goldthwaite",
+    "country": "US",
+    "lat": 31.44989,
+    "lng": -98.57088
+  },
+  {
+    "name": "Goliad",
+    "country": "US",
+    "lat": 28.66833,
+    "lng": -97.38833
+  },
+  {
+    "name": "Gonzales",
+    "country": "US",
+    "lat": 29.50163,
+    "lng": -97.45249
+  },
+  {
+    "name": "Gorman",
+    "country": "US",
+    "lat": 32.21375,
+    "lng": -98.67061
+  },
+  {
+    "name": "Goochland",
+    "country": "US",
+    "lat": 37.68431,
+    "lng": -77.88527
+  },
+  {
+    "name": "Gordonsville",
+    "country": "US",
+    "lat": 38.13736,
+    "lng": -78.18778
+  },
+  {
+    "name": "Goodings Grove",
+    "country": "US",
+    "lat": 41.6292,
+    "lng": -87.93089
+  },
+  {
+    "name": "Goodland",
+    "country": "US",
+    "lat": 40.76337,
+    "lng": -87.29363
+  },
+  {
+    "name": "Goshen",
+    "country": "US",
+    "lat": 41.58227,
+    "lng": -85.83444
+  },
+  {
+    "name": "Gorham",
+    "country": "US",
+    "lat": 43.67952,
+    "lng": -70.44422
+  },
+  {
+    "name": "Gouldsboro",
+    "country": "US",
+    "lat": 44.47841,
+    "lng": -68.03834
+  },
+  {
+    "name": "Goodrich",
+    "country": "US",
+    "lat": 42.91697,
+    "lng": -83.50634
+  },
+  {
+    "name": "Golden Valley",
+    "country": "US",
+    "lat": 45.00969,
+    "lng": -93.34912
+  },
+  {
+    "name": "Goodhue",
+    "country": "US",
+    "lat": 44.40052,
+    "lng": -92.6238
+  },
+  {
+    "name": "Goodview",
+    "country": "US",
+    "lat": 44.06246,
+    "lng": -91.69571
+  },
+  {
+    "name": "Goffstown",
+    "country": "US",
+    "lat": 43.02036,
+    "lng": -71.60035
+  },
+  {
+    "name": "Gorham",
+    "country": "US",
+    "lat": 44.38784,
+    "lng": -71.17313
+  },
+  {
+    "name": "Goldens Bridge",
+    "country": "US",
+    "lat": 41.29343,
+    "lng": -73.6768
+  },
+  {
+    "name": "Gordon Heights",
+    "country": "US",
+    "lat": 40.85871,
+    "lng": -72.97066
+  },
+  {
+    "name": "Goshen",
+    "country": "US",
+    "lat": 41.40204,
+    "lng": -74.32432
+  },
+  {
+    "name": "Gouverneur",
+    "country": "US",
+    "lat": 44.33673,
+    "lng": -75.46299
+  },
+  {
+    "name": "Gowanda",
+    "country": "US",
+    "lat": 42.46312,
+    "lng": -78.93587
+  },
+  {
+    "name": "Gold Key Lake",
+    "country": "US",
+    "lat": 41.30593,
+    "lng": -74.9385
+  },
+  {
+    "name": "Gold Camp",
+    "country": "US",
+    "lat": 33.29367,
+    "lng": -111.30429
+  },
+  {
+    "name": "Golden Valley",
+    "country": "US",
+    "lat": 35.22333,
+    "lng": -114.22301
+  },
+  {
+    "name": "Goodyear",
+    "country": "US",
+    "lat": 33.43532,
+    "lng": -112.35821
+  },
+  {
+    "name": "Gold River",
+    "country": "US",
+    "lat": 38.62629,
+    "lng": -121.24662
+  },
+  {
+    "name": "Golden Hills",
+    "country": "US",
+    "lat": 35.14247,
+    "lng": -118.49036
+  },
+  {
+    "name": "Goleta",
+    "country": "US",
+    "lat": 34.43583,
+    "lng": -119.82764
+  },
+  {
+    "name": "Gonzales",
+    "country": "US",
+    "lat": 36.50663,
+    "lng": -121.44438
+  },
+  {
+    "name": "Good Hope",
+    "country": "US",
+    "lat": 33.76474,
+    "lng": -117.26698
+  },
+  {
+    "name": "Goshen",
+    "country": "US",
+    "lat": 36.35106,
+    "lng": -119.42012
+  },
+  {
+    "name": "Golden",
+    "country": "US",
+    "lat": 39.75554,
+    "lng": -105.2211
+  },
+  {
+    "name": "Goodland",
+    "country": "US",
+    "lat": 39.35083,
+    "lng": -101.71017
+  },
+  {
+    "name": "Gove",
+    "country": "US",
+    "lat": 38.95779,
+    "lng": -100.48875
+  },
+  {
+    "name": "Golden Valley",
+    "country": "US",
+    "lat": 39.61547,
+    "lng": -119.82658
+  },
+  {
+    "name": "Goldfield",
+    "country": "US",
+    "lat": 37.70854,
+    "lng": -117.23563
+  },
+  {
+    "name": "Goodwell",
+    "country": "US",
+    "lat": 36.5953,
+    "lng": -101.63655
+  },
+  {
+    "name": "Gooding",
+    "country": "US",
+    "lat": 42.93879,
+    "lng": -114.71311
+  },
+  {
+    "name": "Gordon",
+    "country": "US",
+    "lat": 42.80472,
+    "lng": -102.20322
+  },
+  {
+    "name": "Gothenburg",
+    "country": "US",
+    "lat": 40.92945,
+    "lng": -100.16068
+  },
+  {
+    "name": "Gold Hill",
+    "country": "US",
+    "lat": 42.43179,
+    "lng": -123.0506
+  },
+  {
+    "name": "Gold Bar",
+    "country": "US",
+    "lat": 47.85677,
+    "lng": -121.69706
+  },
+  {
+    "name": "Goldendale",
+    "country": "US",
+    "lat": 45.82068,
+    "lng": -120.82173
+  },
+  {
+    "name": "Gold Beach",
+    "country": "US",
+    "lat": 42.40733,
+    "lng": -124.42177
+  },
+  {
+    "name": "Gold Canyon",
+    "country": "US",
+    "lat": 33.37145,
+    "lng": -111.43691
+  },
+  {
+    "name": "Golden Shores",
+    "country": "US",
+    "lat": 34.78188,
+    "lng": -114.47775
+  },
+  {
+    "name": "Golden Triangle",
+    "country": "US",
+    "lat": 38.90524,
+    "lng": -77.04362
+  },
+  {
+    "name": "Gonubie",
+    "country": "ZA",
+    "lat": -32.94433,
+    "lng": 28.01496
+  },
+  {
+    "name": "Gouda",
+    "country": "ZA",
+    "lat": -33.30034,
+    "lng": 19.04006
+  },
+  {
+    "name": "Goedverwag",
+    "country": "ZA",
+    "lat": -32.86752,
+    "lng": 18.69433
+  },
+  {
+    "name": "Godide",
+    "country": "ZA",
+    "lat": -24.72898,
+    "lng": 31.23695
+  },
+  {
+    "name": "Gokwe",
+    "country": "ZW",
+    "lat": -18.20476,
+    "lng": 28.9349
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Ixelles",
+    "country": "BE",
+    "lat": 50.83333,
+    "lng": 4.36667
+  },
+  {
+    "name": "Ixiamas",
+    "country": "BO",
+    "lat": -13.76766,
+    "lng": -68.128
+  },
+  {
+    "name": "Ixworth",
+    "country": "GB",
+    "lat": 52.29893,
+    "lng": 0.8341
+  },
+  {
+    "name": "Ixtahuacán",
+    "country": "GT",
+    "lat": 15.41688,
+    "lng": -91.76927
+  },
+  {
+    "name": "Ixchiguán",
+    "country": "GT",
+    "lat": 15.16375,
+    "lng": -91.93256
+  },
+  {
+    "name": "Ixcapa",
+    "country": "MX",
+    "lat": 16.54548,
+    "lng": -98.14478
+  },
+  {
+    "name": "Ixtenco",
+    "country": "MX",
+    "lat": 19.25146,
+    "lng": -97.89412
+  },
+  {
+    "name": "Ixtapa",
+    "country": "MX",
+    "lat": 18.71599,
+    "lng": -97.4594
+  },
+  {
+    "name": "Ixtapantongo",
+    "country": "MX",
+    "lat": 19.53872,
+    "lng": -99.76779
+  },
+  {
+    "name": "Ixtolco de Morelos",
+    "country": "MX",
+    "lat": 19.90553,
+    "lng": -97.81762
+  },
+  {
+    "name": "Ixtlán de Juárez",
+    "country": "MX",
+    "lat": 17.33211,
+    "lng": -96.48812
+  },
+  {
+    "name": "Ixtlahuaca",
+    "country": "MX",
+    "lat": 20.88368,
+    "lng": -98.70379
+  },
+  {
+    "name": "Ixtlahuaca de Rayón",
+    "country": "MX",
+    "lat": 19.56889,
+    "lng": -99.76694
+  },
+  {
+    "name": "Ixtepec",
+    "country": "MX",
+    "lat": 16.56052,
+    "lng": -95.10375
+  },
+  {
+    "name": "Ixtapangajoya",
+    "country": "MX",
+    "lat": 17.4978,
+    "lng": -93.00203
+  },
+  {
+    "name": "Ixtapan de la Sal",
+    "country": "MX",
+    "lat": 18.84369,
+    "lng": -99.67671
+  },
+  {
+    "name": "Ixtapaluca",
+    "country": "MX",
+    "lat": 19.31556,
+    "lng": -98.88284
+  },
+  {
+    "name": "Ixtapa",
+    "country": "MX",
+    "lat": 16.8031,
+    "lng": -92.90534
+  },
+  {
+    "name": "Ixtaczoquitlán",
+    "country": "MX",
+    "lat": 18.85364,
+    "lng": -97.06229
+  },
+  {
+    "name": "Ixtacomitán",
+    "country": "MX",
+    "lat": 17.43061,
+    "lng": -93.09687
+  },
+  {
+    "name": "Ixtacamaxtitlán",
+    "country": "MX",
+    "lat": 19.62352,
+    "lng": -97.81539
+  },
+  {
+    "name": "Ixpila",
+    "country": "MX",
+    "lat": 19.11837,
+    "lng": -96.96675
+  },
+  {
+    "name": "Ixmiquilpan",
+    "country": "MX",
+    "lat": 20.47841,
+    "lng": -99.21697
+  },
+  {
+    "name": "Ixhuapán",
+    "country": "MX",
+    "lat": 18.17612,
+    "lng": -94.79886
+  },
+  {
+    "name": "Ixil",
+    "country": "MX",
+    "lat": 21.15244,
+    "lng": -89.48179
+  },
+  {
+    "name": "Ixhuatlán de Madero",
+    "country": "MX",
+    "lat": 20.68879,
+    "lng": -98.01177
+  },
+  {
+    "name": "Ixhuatlán del Café",
+    "country": "MX",
+    "lat": 19.05118,
+    "lng": -96.98391
+  },
+  {
+    "name": "Ixhuatlancillo",
+    "country": "MX",
+    "lat": 18.89766,
+    "lng": -97.14899
+  },
+  {
+    "name": "Ixcatlán",
+    "country": "MX",
+    "lat": 21.08134,
+    "lng": -98.53468
+  },
+  {
+    "name": "Ixcatepec",
+    "country": "MX",
+    "lat": 21.23695,
+    "lng": -98.00689
+  },
+  {
+    "name": "Ixcateopan de Cuauhtémoc",
+    "country": "MX",
+    "lat": 18.50139,
+    "lng": -99.79139
+  },
+  {
+    "name": "Ixcateopan",
+    "country": "MX",
+    "lat": 17.61812,
+    "lng": -98.51405
+  },
+  {
+    "name": "Ixcapuzalco",
+    "country": "MX",
+    "lat": 18.51204,
+    "lng": -99.88755
+  },
+  {
+    "name": "Ixcapantla",
+    "country": "MX",
+    "lat": 19.02571,
+    "lng": -96.97052
+  },
+  {
+    "name": "Ixcuinquitlapilco",
+    "country": "MX",
+    "lat": 20.11091,
+    "lng": -98.9398
+  },
+  {
+    "name": "Ixhuatán",
+    "country": "MX",
+    "lat": 17.2931,
+    "lng": -93.00813
+  },
+  {
+    "name": "Ixpantepec Nieves",
+    "country": "MX",
+    "lat": 17.5069,
+    "lng": -98.04264
+  },
+  {
+    "name": "Ixtlahuaca de Cuauhtémoc",
+    "country": "MX",
+    "lat": 19.88139,
+    "lng": -98.86028
+  },
+  {
+    "name": "Ixtepec",
+    "country": "MX",
+    "lat": 20.02461,
+    "lng": -97.64612
+  },
+  {
+    "name": "Ixcamilpa",
+    "country": "MX",
+    "lat": 18.02769,
+    "lng": -98.69643
+  },
+  {
+    "name": "Ixhuacán de los Reyes",
+    "country": "MX",
+    "lat": 19.35526,
+    "lng": -97.11751
+  },
+  {
+    "name": "Ixcatla",
+    "country": "MX",
+    "lat": 19.07528,
+    "lng": -96.91889
+  },
+  {
+    "name": "Ixhuapan",
+    "country": "MX",
+    "lat": 18.01333,
+    "lng": -94.87667
+  },
+  {
+    "name": "Ixtacapa el Chico",
+    "country": "MX",
+    "lat": 18.49001,
+    "lng": -96.74246
+  },
+  {
+    "name": "Ixtapa-Zihuatanejo",
+    "country": "MX",
+    "lat": 17.64344,
+    "lng": -101.55212
+  },
+  {
+    "name": "Ixtlán del Río",
+    "country": "MX",
+    "lat": 21.03907,
+    "lng": -104.37116
+  },
+  {
+    "name": "Ixtlán de los Hervores",
+    "country": "MX",
+    "lat": 20.16895,
+    "lng": -102.3948
+  },
+  {
+    "name": "Ixtlahuacán del Río",
+    "country": "MX",
+    "lat": 20.8639,
+    "lng": -103.23924
+  },
+  {
+    "name": "Ixtlahuacán de los Membrillos",
+    "country": "MX",
+    "lat": 20.34869,
+    "lng": -103.19206
+  },
+  {
+    "name": "Ixtlahuacán",
+    "country": "MX",
+    "lat": 19.00119,
+    "lng": -103.73638
+  },
+  {
+    "name": "Ixtapan del Oro",
+    "country": "MX",
+    "lat": 19.26303,
+    "lng": -100.26459
+  },
+  {
+    "name": "Ixtapan de la Concepción",
+    "country": "MX",
+    "lat": 21.30774,
+    "lng": -105.15773
+  },
+  {
+    "name": "Ixtapa",
+    "country": "MX",
+    "lat": 20.71598,
+    "lng": -105.20508
+  },
+  {
+    "name": "Ixtapa",
+    "country": "MX",
+    "lat": 17.66782,
+    "lng": -101.64165
+  },
+  {
+    "name": "Ixtlahuaca Barrio",
+    "country": "MX",
+    "lat": 19.83889,
+    "lng": -98.01444
+  },
+  {
+    "name": "Ixticpan",
+    "country": "MX",
+    "lat": 19.81419,
+    "lng": -97.34454
+  },
+  {
+    "name": "Ixcatla",
+    "country": "MX",
+    "lat": 17.4225,
+    "lng": -98.99944
+  },
+  {
+    "name": "Ixtlilco el Chico",
+    "country": "MX",
+    "lat": 18.55833,
+    "lng": -98.84694
+  },
+  {
+    "name": "Ixtahuiata (La Legua)",
+    "country": "MX",
+    "lat": 19.84389,
+    "lng": -97.33556
+  },
+  {
+    "name": "Ixtlahuaca",
+    "country": "MX",
+    "lat": 19.82309,
+    "lng": -97.33496
+  },
+  {
+    "name": "Ixhuatlán del Sureste",
+    "country": "MX",
+    "lat": 18.02137,
+    "lng": -94.3886
+  },
+  {
+    "name": "Ixonia",
+    "country": "US",
+    "lat": 43.14389,
+    "lng": -88.59732
+  },
+  {
+    "name": "Ixopo",
+    "country": "ZA",
+    "lat": -30.15,
+    "lng": 30.08333
+  }
+]

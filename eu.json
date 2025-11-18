@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Euratsfeld",
+    "country": "AT",
+    "lat": 48.08181,
+    "lng": 14.93154
+  },
+  {
+    "name": "Eugendorf",
+    "country": "AT",
+    "lat": 47.86765,
+    "lng": 13.12609
+  },
+  {
+    "name": "Euroa",
+    "country": "AU",
+    "lat": -36.75555,
+    "lng": 145.57075
+  },
+  {
+    "name": "Eumundi",
+    "country": "AU",
+    "lat": -26.47737,
+    "lng": 152.95115
+  },
+  {
+    "name": "Eulomogo",
+    "country": "AU",
+    "lat": -32.26667,
+    "lng": 148.68333
+  },
+  {
+    "name": "Eudlo",
+    "country": "AU",
+    "lat": -26.72963,
+    "lng": 152.95395
+  },
+  {
+    "name": "Eumemmerring",
+    "country": "AU",
+    "lat": -37.9978,
+    "lng": 145.24821
+  },
+  {
+    "name": "Eupen",
+    "country": "BE",
+    "lat": 50.6279,
+    "lng": 6.03647
+  },
+  {
+    "name": "Eugies",
+    "country": "BE",
+    "lat": 50.38893,
+    "lng": 3.88513
+  },
+  {
+    "name": "Eucaliptus",
+    "country": "BO",
+    "lat": -17.58333,
+    "lng": -67.51667
+  },
+  {
+    "name": "Eusébio",
+    "country": "BR",
+    "lat": -3.89,
+    "lng": -38.45056
+  },
+  {
+    "name": "Euclides da Cunha Paulista",
+    "country": "BR",
+    "lat": -22.5572,
+    "lng": -52.58972
+  },
+  {
+    "name": "Eunápolis",
+    "country": "BR",
+    "lat": -16.3775,
+    "lng": -39.58028
+  },
+  {
+    "name": "Eugenópolis",
+    "country": "BR",
+    "lat": -21.09861,
+    "lng": -42.18667
+  },
+  {
+    "name": "Eugênio de Castro",
+    "country": "BR",
+    "lat": -28.52611,
+    "lng": -54.14917
+  },
+  {
+    "name": "Euclides da Cunha",
+    "country": "BR",
+    "lat": -10.5075,
+    "lng": -39.01583
+  },
+  {
+    "name": "Eutingen an der Enz",
+    "country": "DE",
+    "lat": 48.91246,
+    "lng": 8.74898
+  },
+  {
+    "name": "Eutin",
+    "country": "DE",
+    "lat": 54.13503,
+    "lng": 10.61148
+  },
+  {
+    "name": "Eußenheim",
+    "country": "DE",
+    "lat": 49.98589,
+    "lng": 9.80899
+  },
+  {
+    "name": "Euskirchen",
+    "country": "DE",
+    "lat": 50.66057,
+    "lng": 6.78722
+  },
+  {
+    "name": "Eurasburg",
+    "country": "DE",
+    "lat": 48.33333,
+    "lng": 11.08333
+  },
+  {
+    "name": "Eurasburg",
+    "country": "DE",
+    "lat": 47.85389,
+    "lng": 11.40587
+  },
+  {
+    "name": "Euerdorf",
+    "country": "DE",
+    "lat": 50.14853,
+    "lng": 10.02331
+  },
+  {
+    "name": "Euerbach",
+    "country": "DE",
+    "lat": 50.06199,
+    "lng": 10.13695
+  },
+  {
+    "name": "Eulate",
+    "country": "ES",
+    "lat": 42.77641,
+    "lng": -2.20638
+  },
+  {
+    "name": "Eurajoki",
+    "country": "FI",
+    "lat": 61.2,
+    "lng": 21.73333
+  },
+  {
+    "name": "Eura",
+    "country": "FI",
+    "lat": 61.13333,
+    "lng": 22.13333
+  },
+  {
+    "name": "Euville",
+    "country": "FR",
+    "lat": 48.7503,
+    "lng": 5.62603
+  },
+  {
+    "name": "Eurville-Bienville",
+    "country": "FR",
+    "lat": 48.58333,
+    "lng": 5.03333
+  },
+  {
+    "name": "Eurre",
+    "country": "FR",
+    "lat": 44.75825,
+    "lng": 4.98843
+  },
+  {
+    "name": "Eulmont",
+    "country": "FR",
+    "lat": 48.75026,
+    "lng": 6.22731
+  },
+  {
+    "name": "Eu",
+    "country": "FR",
+    "lat": 50.04606,
+    "lng": 1.42079
+  },
+  {
+    "name": "Euxton",
+    "country": "GB",
+    "lat": 53.6699,
+    "lng": -2.67615
+  },
+  {
+    "name": "Euán",
+    "country": "MX",
+    "lat": 20.99715,
+    "lng": -89.34187
+  },
+  {
+    "name": "Eureka y Belén",
+    "country": "MX",
+    "lat": 17.55968,
+    "lng": -92.92899
+  },
+  {
+    "name": "Eureka de Media Luna (Eureka)",
+    "country": "MX",
+    "lat": 25.79889,
+    "lng": -103.37361
+  },
+  {
+    "name": "Eustaquio Lopez",
+    "country": "PH",
+    "lat": 10.8195,
+    "lng": 123.0412
+  },
+  {
+    "name": "Eusebio Ayala",
+    "country": "PY",
+    "lat": -25.38276,
+    "lng": -56.96088
+  },
+  {
+    "name": "Eunos",
+    "country": "SG",
+    "lat": 1.32252,
+    "lng": 103.89822
+  },
+  {
+    "name": "Eufaula",
+    "country": "US",
+    "lat": 31.89127,
+    "lng": -85.14549
+  },
+  {
+    "name": "Eutaw",
+    "country": "US",
+    "lat": 32.84059,
+    "lng": -87.88762
+  },
+  {
+    "name": "Eudora",
+    "country": "US",
+    "lat": 33.10957,
+    "lng": -91.26206
+  },
+  {
+    "name": "Eureka Springs",
+    "country": "US",
+    "lat": 36.40118,
+    "lng": -93.73797
+  },
+  {
+    "name": "Eustis",
+    "country": "US",
+    "lat": 28.85277,
+    "lng": -81.68535
+  },
+  {
+    "name": "Euharlee",
+    "country": "US",
+    "lat": 34.14482,
+    "lng": -84.933
+  },
+  {
+    "name": "Eureka",
+    "country": "US",
+    "lat": 37.82392,
+    "lng": -96.28917
+  },
+  {
+    "name": "Eudora",
+    "country": "US",
+    "lat": 38.94334,
+    "lng": -95.09858
+  },
+  {
+    "name": "Eunice",
+    "country": "US",
+    "lat": 30.49437,
+    "lng": -92.41763
+  },
+  {
+    "name": "Eureka",
+    "country": "US",
+    "lat": 38.50255,
+    "lng": -90.6279
+  },
+  {
+    "name": "Eupora",
+    "country": "US",
+    "lat": 33.54068,
+    "lng": -89.26701
+  },
+  {
+    "name": "Eufaula",
+    "country": "US",
+    "lat": 35.28722,
+    "lng": -95.5825
+  },
+  {
+    "name": "Eureka Mill",
+    "country": "US",
+    "lat": 34.71764,
+    "lng": -81.1937
+  },
+  {
+    "name": "Euless",
+    "country": "US",
+    "lat": 32.83707,
+    "lng": -97.08195
+  },
+  {
+    "name": "Eureka",
+    "country": "US",
+    "lat": 40.72143,
+    "lng": -89.27286
+  },
+  {
+    "name": "Euclid",
+    "country": "US",
+    "lat": 41.5931,
+    "lng": -81.52679
+  },
+  {
+    "name": "Eucalyptus Hills",
+    "country": "US",
+    "lat": 32.87977,
+    "lng": -116.94669
+  },
+  {
+    "name": "Eunice",
+    "country": "US",
+    "lat": 32.43734,
+    "lng": -103.15908
+  },
+  {
+    "name": "Eureka",
+    "country": "US",
+    "lat": 39.51271,
+    "lng": -115.96061
+  },
+  {
+    "name": "Eureka",
+    "country": "US",
+    "lat": 40.80207,
+    "lng": -124.16367
+  },
+  {
+    "name": "Eureka",
+    "country": "US",
+    "lat": 48.87996,
+    "lng": -115.0535
+  },
+  {
+    "name": "Eugene",
+    "country": "US",
+    "lat": 44.05207,
+    "lng": -123.08675
+  }
+]

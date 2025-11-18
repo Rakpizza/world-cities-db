@@ -1,0 +1,1820 @@
+[
+  {
+    "name": "Jumayrā",
+    "country": "AE",
+    "lat": 25.20795,
+    "lng": 55.24969
+  },
+  {
+    "name": "Jurm",
+    "country": "AF",
+    "lat": 36.86477,
+    "lng": 70.83421
+  },
+  {
+    "name": "Juan Pujol",
+    "country": "AR",
+    "lat": -30.41934,
+    "lng": -57.85598
+  },
+  {
+    "name": "Justo Daract",
+    "country": "AR",
+    "lat": -33.86056,
+    "lng": -65.18224
+  },
+  {
+    "name": "Justiniano Posse",
+    "country": "AR",
+    "lat": -32.88344,
+    "lng": -62.67965
+  },
+  {
+    "name": "Junín de los Andes",
+    "country": "AR",
+    "lat": -39.94931,
+    "lng": -71.07543
+  },
+  {
+    "name": "Junín",
+    "country": "AR",
+    "lat": -34.59391,
+    "lng": -60.94644
+  },
+  {
+    "name": "Junín",
+    "country": "AR",
+    "lat": -33.14653,
+    "lng": -68.48727
+  },
+  {
+    "name": "Juan José Castelli",
+    "country": "AR",
+    "lat": -25.9466,
+    "lng": -60.62008
+  },
+  {
+    "name": "Jungholz",
+    "country": "AT",
+    "lat": 47.57409,
+    "lng": 10.44723
+  },
+  {
+    "name": "Judendorf",
+    "country": "AT",
+    "lat": 47.4,
+    "lng": 15.1
+  },
+  {
+    "name": "Judendorf",
+    "country": "AT",
+    "lat": 47.11667,
+    "lng": 15.35
+  },
+  {
+    "name": "Judenburg",
+    "country": "AT",
+    "lat": 47.16667,
+    "lng": 14.66667
+  },
+  {
+    "name": "Jurien Bay",
+    "country": "AU",
+    "lat": -30.30591,
+    "lng": 115.03825
+  },
+  {
+    "name": "Junee",
+    "country": "AU",
+    "lat": -34.86819,
+    "lng": 147.58273
+  },
+  {
+    "name": "Julatten",
+    "country": "AU",
+    "lat": -16.6072,
+    "lng": 145.34118
+  },
+  {
+    "name": "Junction Hill",
+    "country": "AU",
+    "lat": -29.64113,
+    "lng": 152.92491
+  },
+  {
+    "name": "Jubilee Pocket",
+    "country": "AU",
+    "lat": -20.28809,
+    "lng": 148.72938
+  },
+  {
+    "name": "Junortoun",
+    "country": "AU",
+    "lat": -36.77106,
+    "lng": 144.36311
+  },
+  {
+    "name": "Junction Village",
+    "country": "AU",
+    "lat": -38.13636,
+    "lng": 145.29684
+  },
+  {
+    "name": "Jurbise",
+    "country": "BE",
+    "lat": 50.531,
+    "lng": 3.90942
+  },
+  {
+    "name": "Juprelle",
+    "country": "BE",
+    "lat": 50.7076,
+    "lng": 5.53127
+  },
+  {
+    "name": "Jupille-sur-Meuse",
+    "country": "BE",
+    "lat": 50.64587,
+    "lng": 5.63307
+  },
+  {
+    "name": "Jumet",
+    "country": "BE",
+    "lat": 50.4422,
+    "lng": 4.43745
+  },
+  {
+    "name": "Juruti",
+    "country": "BR",
+    "lat": -2.15222,
+    "lng": -56.09222
+  },
+  {
+    "name": "Juru",
+    "country": "BR",
+    "lat": -7.53694,
+    "lng": -37.81861
+  },
+  {
+    "name": "Juripiranga",
+    "country": "BR",
+    "lat": -7.37333,
+    "lng": -35.23806
+  },
+  {
+    "name": "Jurema",
+    "country": "BR",
+    "lat": -9.2223,
+    "lng": -43.12915
+  },
+  {
+    "name": "Jurema",
+    "country": "BR",
+    "lat": -8.71806,
+    "lng": -36.13583
+  },
+  {
+    "name": "Jupi",
+    "country": "BR",
+    "lat": -8.71167,
+    "lng": -36.415
+  },
+  {
+    "name": "Junqueiro",
+    "country": "BR",
+    "lat": -9.92528,
+    "lng": -36.47583
+  },
+  {
+    "name": "Jundiá",
+    "country": "BR",
+    "lat": -8.93472,
+    "lng": -35.57361
+  },
+  {
+    "name": "Junco do Seridó",
+    "country": "BR",
+    "lat": -6.99667,
+    "lng": -36.71306
+  },
+  {
+    "name": "Jucurutu",
+    "country": "BR",
+    "lat": -6.03389,
+    "lng": -37.02028
+  },
+  {
+    "name": "Jucati",
+    "country": "BR",
+    "lat": -8.70639,
+    "lng": -36.48889
+  },
+  {
+    "name": "Jucás",
+    "country": "BR",
+    "lat": -6.52528,
+    "lng": -39.5275
+  },
+  {
+    "name": "Juazeiro do Norte",
+    "country": "BR",
+    "lat": -7.21306,
+    "lng": -39.31528
+  },
+  {
+    "name": "Juazeiro",
+    "country": "BR",
+    "lat": -9.41167,
+    "lng": -40.49861
+  },
+  {
+    "name": "Juazeiro do Piauí",
+    "country": "BR",
+    "lat": -5.17373,
+    "lng": -41.70763
+  },
+  {
+    "name": "Juarez Távora",
+    "country": "BR",
+    "lat": -7.17167,
+    "lng": -35.58333
+  },
+  {
+    "name": "Juá dos Vieiras",
+    "country": "BR",
+    "lat": -3.53333,
+    "lng": -41.3
+  },
+  {
+    "name": "Juarina",
+    "country": "BR",
+    "lat": -8.11944,
+    "lng": -49.06472
+  },
+  {
+    "name": "Juti",
+    "country": "BR",
+    "lat": -22.86056,
+    "lng": -54.60278
+  },
+  {
+    "name": "Jussiape",
+    "country": "BR",
+    "lat": -13.51667,
+    "lng": -41.5925
+  },
+  {
+    "name": "Jussari",
+    "country": "BR",
+    "lat": -15.19139,
+    "lng": -39.49528
+  },
+  {
+    "name": "Jussara",
+    "country": "BR",
+    "lat": -23.62139,
+    "lng": -52.46944
+  },
+  {
+    "name": "Juruaia",
+    "country": "BR",
+    "lat": -21.25278,
+    "lng": -46.57694
+  },
+  {
+    "name": "Juranda",
+    "country": "BR",
+    "lat": -24.42028,
+    "lng": -52.84306
+  },
+  {
+    "name": "Juramento",
+    "country": "BR",
+    "lat": -16.84806,
+    "lng": -43.58694
+  },
+  {
+    "name": "Juquitiba",
+    "country": "BR",
+    "lat": -23.93167,
+    "lng": -47.06833
+  },
+  {
+    "name": "Juquiá",
+    "country": "BR",
+    "lat": -24.32083,
+    "lng": -47.63472
+  },
+  {
+    "name": "Jupiá",
+    "country": "BR",
+    "lat": -26.39833,
+    "lng": -52.72778
+  },
+  {
+    "name": "Junqueirópolis",
+    "country": "BR",
+    "lat": -21.51472,
+    "lng": -51.43361
+  },
+  {
+    "name": "Jundiaí do Sul",
+    "country": "BR",
+    "lat": -23.43667,
+    "lng": -50.2475
+  },
+  {
+    "name": "Jundiaí",
+    "country": "BR",
+    "lat": -23.18639,
+    "lng": -46.88417
+  },
+  {
+    "name": "Jumirim",
+    "country": "BR",
+    "lat": -23.08667,
+    "lng": -47.78417
+  },
+  {
+    "name": "Juiz de Fora",
+    "country": "BR",
+    "lat": -21.76417,
+    "lng": -43.35028
+  },
+  {
+    "name": "Jussara",
+    "country": "BR",
+    "lat": -15.865,
+    "lng": -50.86806
+  },
+  {
+    "name": "Juatuba",
+    "country": "BR",
+    "lat": -19.95194,
+    "lng": -44.34278
+  },
+  {
+    "name": "Jussara",
+    "country": "BR",
+    "lat": -11.04404,
+    "lng": -41.97102
+  },
+  {
+    "name": "Jutaí",
+    "country": "BR",
+    "lat": -5.18333,
+    "lng": -68.9
+  },
+  {
+    "name": "Jutaí",
+    "country": "BR",
+    "lat": -2.74738,
+    "lng": -66.76838
+  },
+  {
+    "name": "Juruá",
+    "country": "BR",
+    "lat": -3.48111,
+    "lng": -66.06889
+  },
+  {
+    "name": "Juara",
+    "country": "BR",
+    "lat": -11.255,
+    "lng": -57.51972
+  },
+  {
+    "name": "Jucuruçu",
+    "country": "BR",
+    "lat": -16.84278,
+    "lng": -40.15889
+  },
+  {
+    "name": "Juína",
+    "country": "BR",
+    "lat": -11.42047,
+    "lng": -58.75488
+  },
+  {
+    "name": "Juruena",
+    "country": "BR",
+    "lat": -10.31806,
+    "lng": -58.35889
+  },
+  {
+    "name": "Juscimeira",
+    "country": "BR",
+    "lat": -16.05056,
+    "lng": -54.88444
+  },
+  {
+    "name": "Juvenília",
+    "country": "BR",
+    "lat": -14.2625,
+    "lng": -44.16028
+  },
+  {
+    "name": "Jundiá",
+    "country": "BR",
+    "lat": -6.27012,
+    "lng": -35.32723
+  },
+  {
+    "name": "Junco do Maranhão",
+    "country": "BR",
+    "lat": -1.87854,
+    "lng": -46.07151
+  },
+  {
+    "name": "Juruena",
+    "country": "BR",
+    "lat": -10.32997,
+    "lng": -58.50233
+  },
+  {
+    "name": "Juniper Ridge",
+    "country": "CA",
+    "lat": 50.66667,
+    "lng": -120.25
+  },
+  {
+    "name": "Junction Area",
+    "country": "CA",
+    "lat": 43.66789,
+    "lng": -79.47144
+  },
+  {
+    "name": "Jubilee",
+    "country": "CA",
+    "lat": 48.43034,
+    "lng": -123.32833
+  },
+  {
+    "name": "Jussy",
+    "country": "CH",
+    "lat": 46.2359,
+    "lng": 6.26701
+  },
+  {
+    "name": "Judian",
+    "country": "CN",
+    "lat": 27.30612,
+    "lng": 99.6491
+  },
+  {
+    "name": "Junyang",
+    "country": "CN",
+    "lat": 28.41298,
+    "lng": 115.37668
+  },
+  {
+    "name": "Juye",
+    "country": "CN",
+    "lat": 35.38737,
+    "lng": 116.07168
+  },
+  {
+    "name": "Junxi",
+    "country": "CN",
+    "lat": 25.69795,
+    "lng": 117.84541
+  },
+  {
+    "name": "Junlian",
+    "country": "CN",
+    "lat": 28.17106,
+    "lng": 104.51162
+  },
+  {
+    "name": "Julu",
+    "country": "CN",
+    "lat": 37.21563,
+    "lng": 115.03106
+  },
+  {
+    "name": "Juexi",
+    "country": "CN",
+    "lat": 28.9241,
+    "lng": 104.26154
+  },
+  {
+    "name": "Juegang",
+    "country": "CN",
+    "lat": 32.31737,
+    "lng": 121.18552
+  },
+  {
+    "name": "Juanshui",
+    "country": "CN",
+    "lat": 29.30307,
+    "lng": 113.88676
+  },
+  {
+    "name": "Juancheng",
+    "country": "CN",
+    "lat": 35.56157,
+    "lng": 115.50134
+  },
+  {
+    "name": "Jutou",
+    "country": "CN",
+    "lat": 34.82083,
+    "lng": 105.03389
+  },
+  {
+    "name": "Julun",
+    "country": "CN",
+    "lat": 37.9074,
+    "lng": 112.55774
+  },
+  {
+    "name": "Jukui",
+    "country": "CN",
+    "lat": 30.63588,
+    "lng": 107.59633
+  },
+  {
+    "name": "Juradó",
+    "country": "CO",
+    "lat": 7.10421,
+    "lng": -77.762
+  },
+  {
+    "name": "Junín",
+    "country": "CO",
+    "lat": 4.78333,
+    "lng": -75.01667
+  },
+  {
+    "name": "Junín",
+    "country": "CO",
+    "lat": 4.79027,
+    "lng": -73.66011
+  },
+  {
+    "name": "Juan de Acosta",
+    "country": "CO",
+    "lat": 10.8293,
+    "lng": -75.03346
+  },
+  {
+    "name": "Juntas",
+    "country": "CR",
+    "lat": 10.28082,
+    "lng": -84.95912
+  },
+  {
+    "name": "Jungingen",
+    "country": "DE",
+    "lat": 48.32787,
+    "lng": 9.04095
+  },
+  {
+    "name": "Julbach",
+    "country": "DE",
+    "lat": 48.2543,
+    "lng": 12.95793
+  },
+  {
+    "name": "Juist",
+    "country": "DE",
+    "lat": 53.67787,
+    "lng": 6.99575
+  },
+  {
+    "name": "Jugenheim",
+    "country": "DE",
+    "lat": 49.89362,
+    "lng": 8.08468
+  },
+  {
+    "name": "Judenbach",
+    "country": "DE",
+    "lat": 50.39591,
+    "lng": 11.22099
+  },
+  {
+    "name": "Juelsminde",
+    "country": "DK",
+    "lat": 55.70876,
+    "lng": 10.01668
+  },
+  {
+    "name": "Juncalito Abajo",
+    "country": "DO",
+    "lat": 19.2199,
+    "lng": -70.81905
+  },
+  {
+    "name": "Juan Santiago",
+    "country": "DO",
+    "lat": 18.70342,
+    "lng": -71.58971
+  },
+  {
+    "name": "Juan López Abajo",
+    "country": "DO",
+    "lat": 19.43333,
+    "lng": -70.5
+  },
+  {
+    "name": "Juan de Herrera",
+    "country": "DO",
+    "lat": 18.87402,
+    "lng": -71.2383
+  },
+  {
+    "name": "Juancho",
+    "country": "DO",
+    "lat": 17.85782,
+    "lng": -71.29311
+  },
+  {
+    "name": "Juan Adrián",
+    "country": "DO",
+    "lat": 18.76365,
+    "lng": -70.33732
+  },
+  {
+    "name": "Junín",
+    "country": "EC",
+    "lat": -0.92777,
+    "lng": -80.20583
+  },
+  {
+    "name": "Julcuy",
+    "country": "EC",
+    "lat": -1.47698,
+    "lng": -80.62584
+  },
+  {
+    "name": "Juan Benigno Vela",
+    "country": "EC",
+    "lat": -1.30173,
+    "lng": -78.69407
+  },
+  {
+    "name": "Juhaynah",
+    "country": "EG",
+    "lat": 26.67418,
+    "lng": 31.49686
+  },
+  {
+    "name": "Juviles",
+    "country": "ES",
+    "lat": 36.94879,
+    "lng": -3.22586
+  },
+  {
+    "name": "Jun",
+    "country": "ES",
+    "lat": 37.22083,
+    "lng": -3.59407
+  },
+  {
+    "name": "Jumilla",
+    "country": "ES",
+    "lat": 38.47917,
+    "lng": -1.325
+  },
+  {
+    "name": "Jubrique",
+    "country": "ES",
+    "lat": 36.56475,
+    "lng": -5.2156
+  },
+  {
+    "name": "Juzbado",
+    "country": "ES",
+    "lat": 41.07791,
+    "lng": -5.8614
+  },
+  {
+    "name": "Juià",
+    "country": "ES",
+    "lat": 42.01667,
+    "lng": 2.91667
+  },
+  {
+    "name": "Justel",
+    "country": "ES",
+    "lat": 42.14861,
+    "lng": -6.29594
+  },
+  {
+    "name": "Juneda",
+    "country": "ES",
+    "lat": 41.54847,
+    "lng": 0.82451
+  },
+  {
+    "name": "Juncosa",
+    "country": "ES",
+    "lat": 41.37033,
+    "lng": 0.7765
+  },
+  {
+    "name": "Junciana",
+    "country": "ES",
+    "lat": 40.41076,
+    "lng": -5.55698
+  },
+  {
+    "name": "Juarros de Voltoya",
+    "country": "ES",
+    "lat": 41.03097,
+    "lng": -4.51922
+  },
+  {
+    "name": "Justicia",
+    "country": "ES",
+    "lat": 40.42366,
+    "lng": -3.69666
+  },
+  {
+    "name": "Juva",
+    "country": "FI",
+    "lat": 61.9,
+    "lng": 27.85
+  },
+  {
+    "name": "Juupajoki",
+    "country": "FI",
+    "lat": 61.79901,
+    "lng": 24.36939
+  },
+  {
+    "name": "Juuka",
+    "country": "FI",
+    "lat": 63.23333,
+    "lng": 29.25
+  },
+  {
+    "name": "Jurva",
+    "country": "FI",
+    "lat": 62.68333,
+    "lng": 21.98333
+  },
+  {
+    "name": "Juankoski",
+    "country": "FI",
+    "lat": 63.06475,
+    "lng": 28.32917
+  },
+  {
+    "name": "Juhannuskylä",
+    "country": "FI",
+    "lat": 61.50239,
+    "lng": 23.76935
+  },
+  {
+    "name": "Juziers",
+    "country": "FR",
+    "lat": 48.99137,
+    "lng": 1.8476
+  },
+  {
+    "name": "Juvisy-sur-Orge",
+    "country": "FR",
+    "lat": 48.68333,
+    "lng": 2.38333
+  },
+  {
+    "name": "Juvigny-sous-Andaine",
+    "country": "FR",
+    "lat": 48.55194,
+    "lng": -0.50878
+  },
+  {
+    "name": "Juvigné",
+    "country": "FR",
+    "lat": 48.22992,
+    "lng": -1.03522
+  },
+  {
+    "name": "Juvignac",
+    "country": "FR",
+    "lat": 43.61389,
+    "lng": 3.81056
+  },
+  {
+    "name": "Jussy",
+    "country": "FR",
+    "lat": 49.71984,
+    "lng": 3.2327
+  },
+  {
+    "name": "Jussey",
+    "country": "FR",
+    "lat": 47.82536,
+    "lng": 5.90193
+  },
+  {
+    "name": "Jussac",
+    "country": "FR",
+    "lat": 44.98764,
+    "lng": 2.42308
+  },
+  {
+    "name": "Jurançon",
+    "country": "FR",
+    "lat": 43.2883,
+    "lng": -0.38694
+  },
+  {
+    "name": "Jumilhac-le-Grand",
+    "country": "FR",
+    "lat": 45.4945,
+    "lng": 1.06398
+  },
+  {
+    "name": "Jumièges",
+    "country": "FR",
+    "lat": 49.43324,
+    "lng": 0.81918
+  },
+  {
+    "name": "Jumelles",
+    "country": "FR",
+    "lat": 47.43517,
+    "lng": -0.10371
+  },
+  {
+    "name": "Jullouville",
+    "country": "FR",
+    "lat": 48.77576,
+    "lng": -1.56366
+  },
+  {
+    "name": "Jujurieux",
+    "country": "FR",
+    "lat": 46.04122,
+    "lng": 5.40855
+  },
+  {
+    "name": "Juilly",
+    "country": "FR",
+    "lat": 49.01375,
+    "lng": 2.70563
+  },
+  {
+    "name": "Juillan",
+    "country": "FR",
+    "lat": 43.20072,
+    "lng": 0.02326
+  },
+  {
+    "name": "Juillac",
+    "country": "FR",
+    "lat": 45.31808,
+    "lng": 1.32257
+  },
+  {
+    "name": "Juigné-sur-Sarthe",
+    "country": "FR",
+    "lat": 47.86388,
+    "lng": -0.28667
+  },
+  {
+    "name": "Juigné sur Loire",
+    "country": "FR",
+    "lat": 47.4075,
+    "lng": -0.4761
+  },
+  {
+    "name": "Juigné",
+    "country": "FR",
+    "lat": 47.71878,
+    "lng": -0.39405
+  },
+  {
+    "name": "Jugon-les-Lacs",
+    "country": "FR",
+    "lat": 48.41667,
+    "lng": -2.33333
+  },
+  {
+    "name": "Jutiapa",
+    "country": "GT",
+    "lat": 14.28491,
+    "lng": -89.88798
+  },
+  {
+    "name": "Jutiquile",
+    "country": "HN",
+    "lat": 14.71667,
+    "lng": -86.08333
+  },
+  {
+    "name": "Juticalpa",
+    "country": "HN",
+    "lat": 14.66438,
+    "lng": -86.22246
+  },
+  {
+    "name": "Jutiapa",
+    "country": "HN",
+    "lat": 15.76667,
+    "lng": -86.51667
+  },
+  {
+    "name": "Jutiapa",
+    "country": "HN",
+    "lat": 13.98333,
+    "lng": -86.4
+  },
+  {
+    "name": "Juwana",
+    "country": "ID",
+    "lat": -6.715,
+    "lng": 111.1514
+  },
+  {
+    "name": "Jumpangdua",
+    "country": "ID",
+    "lat": 5.19669,
+    "lng": 96.78445
+  },
+  {
+    "name": "Juli",
+    "country": "ID",
+    "lat": 5.10782,
+    "lng": 96.71058
+  },
+  {
+    "name": "Juai",
+    "country": "ID",
+    "lat": -2.3044,
+    "lng": 115.5622
+  },
+  {
+    "name": "Judeida Makr",
+    "country": "IL",
+    "lat": 32.9282,
+    "lng": 35.15705
+  },
+  {
+    "name": "Jurby",
+    "country": "IM",
+    "lat": 54.35941,
+    "lng": -4.52199
+  },
+  {
+    "name": "Jutogh",
+    "country": "IN",
+    "lat": 31.1,
+    "lng": 77.11667
+  },
+  {
+    "name": "Junnar",
+    "country": "IN",
+    "lat": 19.20815,
+    "lng": 73.8752
+  },
+  {
+    "name": "Jugsālai",
+    "country": "IN",
+    "lat": 22.77668,
+    "lng": 86.18351
+  },
+  {
+    "name": "Jubbal",
+    "country": "IN",
+    "lat": 31.10923,
+    "lng": 77.65085
+  },
+  {
+    "name": "Jua",
+    "country": "IN",
+    "lat": 15.5307,
+    "lng": 73.95047
+  },
+  {
+    "name": "Jugiāl",
+    "country": "IN",
+    "lat": 32.36839,
+    "lng": 75.67819
+  },
+  {
+    "name": "Julfa",
+    "country": "IR",
+    "lat": 38.93788,
+    "lng": 45.63329
+  },
+  {
+    "name": "Juraynah",
+    "country": "JO",
+    "lat": 31.76,
+    "lng": 35.79466
+  },
+  {
+    "name": "Judita",
+    "country": "JO",
+    "lat": 32.40792,
+    "lng": 35.70802
+  },
+  {
+    "name": "Juja",
+    "country": "KE",
+    "lat": -1.10148,
+    "lng": 37.0132
+  },
+  {
+    "name": "Jungpyong",
+    "country": "KR",
+    "lat": 36.78472,
+    "lng": 127.58194
+  },
+  {
+    "name": "Jumunjin",
+    "country": "KR",
+    "lat": 37.89139,
+    "lng": 128.82583
+  },
+  {
+    "name": "Juam",
+    "country": "KR",
+    "lat": 35.07733,
+    "lng": 127.23496
+  },
+  {
+    "name": "Jurbarkas",
+    "country": "LT",
+    "lat": 55.07556,
+    "lng": 22.76416
+  },
+  {
+    "name": "Juodupė",
+    "country": "LT",
+    "lat": 56.087,
+    "lng": 25.607
+  },
+  {
+    "name": "Justiniškės",
+    "country": "LT",
+    "lat": 54.71664,
+    "lng": 25.2174
+  },
+  {
+    "name": "Junglinster",
+    "country": "LU",
+    "lat": 49.70722,
+    "lng": 6.25306
+  },
+  {
+    "name": "Jumprava",
+    "country": "LV",
+    "lat": 56.67613,
+    "lng": 24.9721
+  },
+  {
+    "name": "Juan Rodríguez Clara",
+    "country": "MX",
+    "lat": 17.99283,
+    "lng": -95.40099
+  },
+  {
+    "name": "Jumiltepec",
+    "country": "MX",
+    "lat": 18.91359,
+    "lng": -98.77666
+  },
+  {
+    "name": "Juchitepec",
+    "country": "MX",
+    "lat": 19.10059,
+    "lng": -98.8788
+  },
+  {
+    "name": "Juchitán de Zaragoza",
+    "country": "MX",
+    "lat": 16.43603,
+    "lng": -95.01975
+  },
+  {
+    "name": "Juchique de Ferrer",
+    "country": "MX",
+    "lat": 19.83985,
+    "lng": -96.69463
+  },
+  {
+    "name": "Juan Sarabia",
+    "country": "MX",
+    "lat": 18.50035,
+    "lng": -88.48013
+  },
+  {
+    "name": "Juan Marcos (San José Buenavista)",
+    "country": "MX",
+    "lat": 19.72917,
+    "lng": -97.19667
+  },
+  {
+    "name": "Juan N. Méndez",
+    "country": "MX",
+    "lat": 18.54347,
+    "lng": -97.77195
+  },
+  {
+    "name": "Juan Aldama",
+    "country": "MX",
+    "lat": 17.6088,
+    "lng": -93.02779
+  },
+  {
+    "name": "Julián Villagrán",
+    "country": "MX",
+    "lat": 20.39645,
+    "lng": -99.10431
+  },
+  {
+    "name": "Juárez",
+    "country": "MX",
+    "lat": 17.60747,
+    "lng": -93.19253
+  },
+  {
+    "name": "Justo Sierra",
+    "country": "MX",
+    "lat": 16.54248,
+    "lng": -92.05737
+  },
+  {
+    "name": "Julián Grajales",
+    "country": "MX",
+    "lat": 16.48709,
+    "lng": -92.96932
+  },
+  {
+    "name": "Julián Grajales",
+    "country": "MX",
+    "lat": 16.42917,
+    "lng": -93.71417
+  },
+  {
+    "name": "Julián Blanco (Dos Caminos)",
+    "country": "MX",
+    "lat": 17.21889,
+    "lng": -99.52472
+  },
+  {
+    "name": "Juchitán",
+    "country": "MX",
+    "lat": 16.62402,
+    "lng": -98.64028
+  },
+  {
+    "name": "Juan Jacobo Torres [Bodega de Totontepec]",
+    "country": "MX",
+    "lat": 18.33645,
+    "lng": -95.26033
+  },
+  {
+    "name": "Juan Díaz Covarrubias",
+    "country": "MX",
+    "lat": 18.15964,
+    "lng": -95.18675
+  },
+  {
+    "name": "Julimes",
+    "country": "MX",
+    "lat": 28.42318,
+    "lng": -105.43091
+  },
+  {
+    "name": "Juárez",
+    "country": "MX",
+    "lat": 27.60747,
+    "lng": -100.72664
+  },
+  {
+    "name": "Juventino Rosas",
+    "country": "MX",
+    "lat": 20.64337,
+    "lng": -100.99286
+  },
+  {
+    "name": "Juriquilla",
+    "country": "MX",
+    "lat": 20.7114,
+    "lng": -100.45705
+  },
+  {
+    "name": "Jungapeo de Juárez",
+    "country": "MX",
+    "lat": 19.45915,
+    "lng": -100.49483
+  },
+  {
+    "name": "Jucutacato",
+    "country": "MX",
+    "lat": 19.37771,
+    "lng": -102.07924
+  },
+  {
+    "name": "Juchitlán",
+    "country": "MX",
+    "lat": 20.08428,
+    "lng": -104.09783
+  },
+  {
+    "name": "Juchipila",
+    "country": "MX",
+    "lat": 21.41091,
+    "lng": -103.11686
+  },
+  {
+    "name": "Juárez",
+    "country": "MX",
+    "lat": 30.30982,
+    "lng": -108.07852
+  },
+  {
+    "name": "Juan Martín",
+    "country": "MX",
+    "lat": 20.47301,
+    "lng": -100.74691
+  },
+  {
+    "name": "Juan Gil Preciado",
+    "country": "MX",
+    "lat": 20.37268,
+    "lng": -103.72764
+  },
+  {
+    "name": "Juan Escutia (Borbollón)",
+    "country": "MX",
+    "lat": 21.16741,
+    "lng": -104.86698
+  },
+  {
+    "name": "Juan E. García",
+    "country": "MX",
+    "lat": 25.49203,
+    "lng": -103.6917
+  },
+  {
+    "name": "Juan Aldama",
+    "country": "MX",
+    "lat": 24.29072,
+    "lng": -103.39339
+  },
+  {
+    "name": "Juanacatlán",
+    "country": "MX",
+    "lat": 20.50873,
+    "lng": -103.16761
+  },
+  {
+    "name": "Juanacatlán",
+    "country": "MX",
+    "lat": 20.03207,
+    "lng": -103.6854
+  },
+  {
+    "name": "Juan José Ríos",
+    "country": "MX",
+    "lat": 25.75714,
+    "lng": -108.8242
+  },
+  {
+    "name": "Juan Morales",
+    "country": "MX",
+    "lat": 18.81139,
+    "lng": -98.92194
+  },
+  {
+    "name": "Juárez Coronaco",
+    "country": "MX",
+    "lat": 19.36056,
+    "lng": -98.525
+  },
+  {
+    "name": "Juan Aldama (El Tigre)",
+    "country": "MX",
+    "lat": 24.93972,
+    "lng": -107.82083
+  },
+  {
+    "name": "Juan del Grijalva",
+    "country": "MX",
+    "lat": 16.72806,
+    "lng": -92.9775
+  },
+  {
+    "name": "Juamave",
+    "country": "MX",
+    "lat": 23.40578,
+    "lng": -99.38044
+  },
+  {
+    "name": "Juan de la Granja",
+    "country": "MX",
+    "lat": 19.22118,
+    "lng": -97.80884
+  },
+  {
+    "name": "Julau",
+    "country": "MY",
+    "lat": 2.01667,
+    "lng": 111.91667
+  },
+  {
+    "name": "Juru",
+    "country": "MY",
+    "lat": 5.31201,
+    "lng": 100.44229
+  },
+  {
+    "name": "Juigalpa",
+    "country": "NI",
+    "lat": 12.10591,
+    "lng": -85.36549
+  },
+  {
+    "name": "Julianadorp",
+    "country": "NL",
+    "lat": 52.89,
+    "lng": 4.74028
+  },
+  {
+    "name": "Jubbega",
+    "country": "NL",
+    "lat": 53.00396,
+    "lng": 6.12183
+  },
+  {
+    "name": "Judaberg",
+    "country": "NO",
+    "lat": 59.17204,
+    "lng": 5.87617
+  },
+  {
+    "name": "Justvik",
+    "country": "NO",
+    "lat": 58.19691,
+    "lng": 8.03107
+  },
+  {
+    "name": "Jumla",
+    "country": "NP",
+    "lat": 29.27472,
+    "lng": 82.18383
+  },
+  {
+    "name": "Judgeford",
+    "country": "NZ",
+    "lat": -41.11667,
+    "lng": 174.93333
+  },
+  {
+    "name": "Judea",
+    "country": "NZ",
+    "lat": -37.6953,
+    "lng": 176.14406
+  },
+  {
+    "name": "Juay",
+    "country": "PA",
+    "lat": 8.2869,
+    "lng": -81.94759
+  },
+  {
+    "name": "Juan Díaz",
+    "country": "PA",
+    "lat": 9.04059,
+    "lng": -79.44083
+  },
+  {
+    "name": "Juan Díaz",
+    "country": "PA",
+    "lat": 8.46069,
+    "lng": -80.28532
+  },
+  {
+    "name": "Juanjuí",
+    "country": "PE",
+    "lat": -7.17697,
+    "lng": -76.72774
+  },
+  {
+    "name": "Juan Guerra",
+    "country": "PE",
+    "lat": -6.58278,
+    "lng": -76.33
+  },
+  {
+    "name": "Junín",
+    "country": "PE",
+    "lat": -11.15895,
+    "lng": -75.99304
+  },
+  {
+    "name": "Juliaca",
+    "country": "PE",
+    "lat": -15.5,
+    "lng": -70.13333
+  },
+  {
+    "name": "Juli",
+    "country": "PE",
+    "lat": -16.21667,
+    "lng": -69.45
+  },
+  {
+    "name": "Julcan",
+    "country": "PE",
+    "lat": -11.75956,
+    "lng": -75.43564
+  },
+  {
+    "name": "Julcamarca",
+    "country": "PE",
+    "lat": -13.01447,
+    "lng": -74.44467
+  },
+  {
+    "name": "Jucul",
+    "country": "PE",
+    "lat": -10.94861,
+    "lng": -76.745
+  },
+  {
+    "name": "Julita",
+    "country": "PH",
+    "lat": 10.97472,
+    "lng": 124.96167
+  },
+  {
+    "name": "Jugno",
+    "country": "PH",
+    "lat": 9.4683,
+    "lng": 123.2038
+  },
+  {
+    "name": "Jubasan",
+    "country": "PH",
+    "lat": 12.4844,
+    "lng": 124.2872
+  },
+  {
+    "name": "Juban",
+    "country": "PH",
+    "lat": 12.84778,
+    "lng": 123.98778
+  },
+  {
+    "name": "Jutrosin",
+    "country": "PL",
+    "lat": 51.65009,
+    "lng": 17.16957
+  },
+  {
+    "name": "Juszczyna",
+    "country": "PL",
+    "lat": 49.62984,
+    "lng": 19.22032
+  },
+  {
+    "name": "Juszczyn",
+    "country": "PL",
+    "lat": 49.6929,
+    "lng": 19.69128
+  },
+  {
+    "name": "Jugów",
+    "country": "PL",
+    "lat": 50.62758,
+    "lng": 16.51812
+  },
+  {
+    "name": "Juana Díaz",
+    "country": "PR",
+    "lat": 18.05246,
+    "lng": -66.50656
+  },
+  {
+    "name": "Juncal",
+    "country": "PR",
+    "lat": 18.31384,
+    "lng": -66.91907
+  },
+  {
+    "name": "Juncos",
+    "country": "PR",
+    "lat": 18.22746,
+    "lng": -65.921
+  },
+  {
+    "name": "Juḩr ad Dīk",
+    "country": "PS",
+    "lat": 31.45571,
+    "lng": 34.43719
+  },
+  {
+    "name": "Juncal",
+    "country": "PT",
+    "lat": 39.60243,
+    "lng": -8.89928
+  },
+  {
+    "name": "Jurilovca",
+    "country": "RO",
+    "lat": 44.76667,
+    "lng": 28.86667
+  },
+  {
+    "name": "Jupânești",
+    "country": "RO",
+    "lat": 45.06667,
+    "lng": 24.85
+  },
+  {
+    "name": "Jupâneşti",
+    "country": "RO",
+    "lat": 44.9,
+    "lng": 23.53333
+  },
+  {
+    "name": "Jugureni",
+    "country": "RO",
+    "lat": 45.1,
+    "lng": 26.45
+  },
+  {
+    "name": "Jugureanu",
+    "country": "RO",
+    "lat": 44.94313,
+    "lng": 27.27878
+  },
+  {
+    "name": "Jugur",
+    "country": "RO",
+    "lat": 45.19255,
+    "lng": 25.08493
+  },
+  {
+    "name": "Julayjilah",
+    "country": "SA",
+    "lat": 25.5,
+    "lng": 49.6
+  },
+  {
+    "name": "Jubayt",
+    "country": "SD",
+    "lat": 18.9533,
+    "lng": 36.8336
+  },
+  {
+    "name": "Jursla",
+    "country": "SE",
+    "lat": 58.65466,
+    "lng": 16.16259
+  },
+  {
+    "name": "Jurong East",
+    "country": "SG",
+    "lat": 1.32888,
+    "lng": 103.73995
+  },
+  {
+    "name": "Jurong Town",
+    "country": "SG",
+    "lat": 1.33417,
+    "lng": 103.72278
+  },
+  {
+    "name": "Jurong West",
+    "country": "SG",
+    "lat": 1.35028,
+    "lng": 103.72278
+  },
+  {
+    "name": "Juršinci",
+    "country": "SI",
+    "lat": 46.48594,
+    "lng": 15.96818
+  },
+  {
+    "name": "Jurovski Dol",
+    "country": "SI",
+    "lat": 46.60667,
+    "lng": 15.78464
+  },
+  {
+    "name": "Juba",
+    "country": "SS",
+    "lat": 4.85165,
+    "lng": 31.58247
+  },
+  {
+    "name": "Jujutla",
+    "country": "SV",
+    "lat": 13.78694,
+    "lng": -89.85722
+  },
+  {
+    "name": "Jucuarán",
+    "country": "SV",
+    "lat": 13.25389,
+    "lng": -88.24778
+  },
+  {
+    "name": "Jucuapa",
+    "country": "SV",
+    "lat": 13.51667,
+    "lng": -88.38333
+  },
+  {
+    "name": "Juayúa",
+    "country": "SV",
+    "lat": 13.84139,
+    "lng": -89.74556
+  },
+  {
+    "name": "Junaynat Raslān",
+    "country": "SY",
+    "lat": 34.92789,
+    "lng": 36.124
+  },
+  {
+    "name": "Jubb Ramlah",
+    "country": "SY",
+    "lat": 35.20922,
+    "lng": 36.43104
+  },
+  {
+    "name": "Jubb al Jarrāḩ",
+    "country": "SY",
+    "lat": 34.83444,
+    "lng": 37.32396
+  },
+  {
+    "name": "Judsonia",
+    "country": "US",
+    "lat": 35.27009,
+    "lng": -91.63986
+  },
+  {
+    "name": "June Park",
+    "country": "US",
+    "lat": 28.07224,
+    "lng": -80.68006
+  },
+  {
+    "name": "Juno Beach",
+    "country": "US",
+    "lat": 26.87978,
+    "lng": -80.05337
+  },
+  {
+    "name": "Jupiter",
+    "country": "US",
+    "lat": 26.93422,
+    "lng": -80.09421
+  },
+  {
+    "name": "Junction City",
+    "country": "US",
+    "lat": 39.02861,
+    "lng": -96.8314
+  },
+  {
+    "name": "Junction City",
+    "country": "US",
+    "lat": 37.58674,
+    "lng": -84.79384
+  },
+  {
+    "name": "Justice",
+    "country": "US",
+    "lat": 36.29287,
+    "lng": -95.56664
+  },
+  {
+    "name": "Judson",
+    "country": "US",
+    "lat": 34.83317,
+    "lng": -82.42762
+  },
+  {
+    "name": "Junction",
+    "country": "US",
+    "lat": 30.48936,
+    "lng": -99.77201
+  },
+  {
+    "name": "Justin",
+    "country": "US",
+    "lat": 33.08484,
+    "lng": -97.29613
+  },
+  {
+    "name": "Justice",
+    "country": "US",
+    "lat": 41.74448,
+    "lng": -87.83783
+  },
+  {
+    "name": "Juniata Park",
+    "country": "US",
+    "lat": 40.00845,
+    "lng": -75.10879
+  },
+  {
+    "name": "Juneau",
+    "country": "US",
+    "lat": 43.40555,
+    "lng": -88.7051
+  },
+  {
+    "name": "Julian",
+    "country": "US",
+    "lat": 33.07866,
+    "lng": -116.60196
+  },
+  {
+    "name": "Jurupa Valley",
+    "country": "US",
+    "lat": 33.99251,
+    "lng": -117.51644
+  },
+  {
+    "name": "Junction",
+    "country": "US",
+    "lat": 38.23748,
+    "lng": -112.21993
+  },
+  {
+    "name": "Juneau",
+    "country": "US",
+    "lat": 58.30194,
+    "lng": -134.41972
+  },
+  {
+    "name": "Julesburg",
+    "country": "US",
+    "lat": 40.98833,
+    "lng": -102.26435
+  },
+  {
+    "name": "Junction City",
+    "country": "US",
+    "lat": 44.21929,
+    "lng": -123.20565
+  },
+  {
+    "name": "Juan L. Lacaze",
+    "country": "UY",
+    "lat": -34.41888,
+    "lng": -57.45285
+  },
+  {
+    "name": "Juanicó",
+    "country": "UY",
+    "lat": -34.59454,
+    "lng": -56.25334
+  },
+  {
+    "name": "Juma Shahri",
+    "country": "UZ",
+    "lat": 39.71611,
+    "lng": 66.66417
+  },
+  {
+    "name": "Judibana",
+    "country": "VE",
+    "lat": 11.75908,
+    "lng": -70.18418
+  },
+  {
+    "name": "Juan Griego",
+    "country": "VE",
+    "lat": 11.08172,
+    "lng": -63.96549
+  },
+  {
+    "name": "Junik",
+    "country": "XK",
+    "lat": 42.47583,
+    "lng": 20.27722
+  },
+  {
+    "name": "Judaydah",
+    "country": "YE",
+    "lat": 15.07512,
+    "lng": 45.29962
+  },
+  {
+    "name": "Juban",
+    "country": "YE",
+    "lat": 14.01164,
+    "lng": 44.8746
+  },
+  {
+    "name": "Justicia",
+    "country": "ZA",
+    "lat": -24.88002,
+    "lng": 31.41316
+  }
+]

@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Ghōriyān",
+    "country": "AF",
+    "lat": 34.3448,
+    "lng": 61.49321
+  },
+  {
+    "name": "Ghormach",
+    "country": "AF",
+    "lat": 35.73062,
+    "lng": 63.78264
+  },
+  {
+    "name": "Ghurayd Gharamē",
+    "country": "AF",
+    "lat": 36.5222,
+    "lng": 70.79063
+  },
+  {
+    "name": "Ghazni",
+    "country": "AF",
+    "lat": 33.55391,
+    "lng": 68.42096
+  },
+  {
+    "name": "Ghulām ‘Alī",
+    "country": "AF",
+    "lat": 34.95076,
+    "lng": 69.2287
+  },
+  {
+    "name": "Ghukasavan",
+    "country": "AM",
+    "lat": 40.12394,
+    "lng": 44.41556
+  },
+  {
+    "name": "Ghoy",
+    "country": "BE",
+    "lat": 50.72834,
+    "lng": 3.80983
+  },
+  {
+    "name": "Ghlin",
+    "country": "BE",
+    "lat": 50.47313,
+    "lng": 3.90289
+  },
+  {
+    "name": "Ghanzi",
+    "country": "BW",
+    "lat": -21.69785,
+    "lng": 21.64581
+  },
+  {
+    "name": "Ghegbessou",
+    "country": "CI",
+    "lat": 7.10481,
+    "lng": -4.93472
+  },
+  {
+    "name": "Ghulja",
+    "country": "CN",
+    "lat": 43.91515,
+    "lng": 81.32151
+  },
+  {
+    "name": "Ghazaouet",
+    "country": "DZ",
+    "lat": 35.09579,
+    "lng": -1.85772
+  },
+  {
+    "name": "Ghardaïa",
+    "country": "DZ",
+    "lat": 32.49094,
+    "lng": 3.67347
+  },
+  {
+    "name": "Ghinnir",
+    "country": "ET",
+    "lat": 7.13952,
+    "lng": 40.71083
+  },
+  {
+    "name": "Ghyvelde",
+    "country": "FR",
+    "lat": 51.05275,
+    "lng": 2.52642
+  },
+  {
+    "name": "Ghisonaccia",
+    "country": "FR",
+    "lat": 42.01582,
+    "lng": 9.40507
+  },
+  {
+    "name": "Ghajar",
+    "country": "IL",
+    "lat": 33.27115,
+    "lng": 35.62288
+  },
+  {
+    "name": "Ghugus",
+    "country": "IN",
+    "lat": 19.9381,
+    "lng": 79.11192
+  },
+  {
+    "name": "Ghoti Budrukh",
+    "country": "IN",
+    "lat": 19.71641,
+    "lng": 73.62821
+  },
+  {
+    "name": "Ghosī",
+    "country": "IN",
+    "lat": 26.10587,
+    "lng": 83.5393
+  },
+  {
+    "name": "Ghorāwal",
+    "country": "IN",
+    "lat": 24.75459,
+    "lng": 82.77965
+  },
+  {
+    "name": "Ghogha",
+    "country": "IN",
+    "lat": 21.68813,
+    "lng": 72.2763
+  },
+  {
+    "name": "Ghogardīha",
+    "country": "IN",
+    "lat": 26.27986,
+    "lng": 86.47001
+  },
+  {
+    "name": "Ghogaon",
+    "country": "IN",
+    "lat": 21.91622,
+    "lng": 75.74734
+  },
+  {
+    "name": "Ghoga",
+    "country": "IN",
+    "lat": 25.21738,
+    "lng": 87.1571
+  },
+  {
+    "name": "Ghiror",
+    "country": "IN",
+    "lat": 27.18912,
+    "lng": 78.79312
+  },
+  {
+    "name": "Ghazīpur",
+    "country": "IN",
+    "lat": 25.58333,
+    "lng": 83.58526
+  },
+  {
+    "name": "Ghāziābād",
+    "country": "IN",
+    "lat": 28.66535,
+    "lng": 77.43915
+  },
+  {
+    "name": "Ghaura",
+    "country": "IN",
+    "lat": 24.50588,
+    "lng": 79.07813
+  },
+  {
+    "name": "Ghātsīla",
+    "country": "IN",
+    "lat": 22.58531,
+    "lng": 86.47682
+  },
+  {
+    "name": "Ghātanji",
+    "country": "IN",
+    "lat": 20.14183,
+    "lng": 78.31333
+  },
+  {
+    "name": "Ghātampur",
+    "country": "IN",
+    "lat": 26.15272,
+    "lng": 80.16803
+  },
+  {
+    "name": "Ghātāl",
+    "country": "IN",
+    "lat": 22.66244,
+    "lng": 87.73399
+  },
+  {
+    "name": "Gharghoda",
+    "country": "IN",
+    "lat": 22.17427,
+    "lng": 83.3517
+  },
+  {
+    "name": "Gharaunda",
+    "country": "IN",
+    "lat": 29.53692,
+    "lng": 76.97142
+  },
+  {
+    "name": "Ghansor",
+    "country": "IN",
+    "lat": 22.65976,
+    "lng": 79.95013
+  },
+  {
+    "name": "Ghanpur",
+    "country": "IN",
+    "lat": 17.85,
+    "lng": 79.36667
+  },
+  {
+    "name": "Ghanaur",
+    "country": "IN",
+    "lat": 30.33092,
+    "lng": 76.61203
+  },
+  {
+    "name": "Ghanaula",
+    "country": "IN",
+    "lat": 31.02465,
+    "lng": 76.60274
+  },
+  {
+    "name": "Ghumārwīn",
+    "country": "IN",
+    "lat": 31.44166,
+    "lng": 76.71509
+  },
+  {
+    "name": "Ghāghrā",
+    "country": "IN",
+    "lat": 23.26659,
+    "lng": 84.55297
+  },
+  {
+    "name": "Ghagga",
+    "country": "IN",
+    "lat": 30.01975,
+    "lng": 76.10408
+  },
+  {
+    "name": "Gho Brāhmanān de",
+    "country": "IN",
+    "lat": 32.5559,
+    "lng": 74.9539
+  },
+  {
+    "name": "Ghatkesar",
+    "country": "IN",
+    "lat": 17.45081,
+    "lng": 78.68366
+  },
+  {
+    "name": "Ghoradongri",
+    "country": "IN",
+    "lat": 22.12426,
+    "lng": 77.99967
+  },
+  {
+    "name": "Gheora",
+    "country": "IN",
+    "lat": 28.69408,
+    "lng": 77.00156
+  },
+  {
+    "name": "Gharroli",
+    "country": "IN",
+    "lat": 28.6167,
+    "lng": 77.33207
+  },
+  {
+    "name": "Ghoh",
+    "country": "IN",
+    "lat": 32.32989,
+    "lng": 75.67484
+  },
+  {
+    "name": "Ghāzīpur",
+    "country": "IN",
+    "lat": 25.09832,
+    "lng": 86.66033
+  },
+  {
+    "name": "Ghitorni",
+    "country": "IN",
+    "lat": 28.49478,
+    "lng": 77.14403
+  },
+  {
+    "name": "Gharonda Neemka Bangar",
+    "country": "IN",
+    "lat": 28.61644,
+    "lng": 77.288
+  },
+  {
+    "name": "Ghanteshvar",
+    "country": "IN",
+    "lat": 22.33637,
+    "lng": 70.75301
+  },
+  {
+    "name": "Ghatal Mahaniawas",
+    "country": "IN",
+    "lat": 28.22119,
+    "lng": 76.84055
+  },
+  {
+    "name": "Ghomanhasan",
+    "country": "IN",
+    "lat": 32.72181,
+    "lng": 74.73496
+  },
+  {
+    "name": "Ghorabandha",
+    "country": "IN",
+    "lat": 22.7724,
+    "lng": 86.27109
+  },
+  {
+    "name": "Ghulewadi",
+    "country": "IN",
+    "lat": 19.6031,
+    "lng": 74.19356
+  },
+  {
+    "name": "Ghantapada",
+    "country": "IN",
+    "lat": 20.93453,
+    "lng": 85.18788
+  },
+  {
+    "name": "Ghislarengo",
+    "country": "IT",
+    "lat": 45.52856,
+    "lng": 8.38514
+  },
+  {
+    "name": "Ghisalba",
+    "country": "IT",
+    "lat": 45.59354,
+    "lng": 9.75765
+  },
+  {
+    "name": "Ghilarza",
+    "country": "IT",
+    "lat": 40.12119,
+    "lng": 8.83612
+  },
+  {
+    "name": "Ghiffa",
+    "country": "IT",
+    "lat": 45.95298,
+    "lng": 8.6043
+  },
+  {
+    "name": "Ghemme",
+    "country": "IT",
+    "lat": 45.59863,
+    "lng": 8.42013
+  },
+  {
+    "name": "Ghedi",
+    "country": "IT",
+    "lat": 45.40204,
+    "lng": 10.27681
+  },
+  {
+    "name": "Ghiare-Madonna",
+    "country": "IT",
+    "lat": 44.8077,
+    "lng": 8.37404
+  },
+  {
+    "name": "Ghiaie",
+    "country": "IT",
+    "lat": 45.68205,
+    "lng": 9.58121
+  },
+  {
+    "name": "Ghawr al Mazra‘ah",
+    "country": "JO",
+    "lat": 31.26586,
+    "lng": 35.51674
+  },
+  {
+    "name": "Ghazieh",
+    "country": "LB",
+    "lat": 33.5175,
+    "lng": 35.36889
+  },
+  {
+    "name": "Ghat",
+    "country": "LY",
+    "lat": 24.96334,
+    "lng": 10.18003
+  },
+  {
+    "name": "Gharyan",
+    "country": "LY",
+    "lat": 32.17222,
+    "lng": 13.02028
+  },
+  {
+    "name": "Ghadames",
+    "country": "LY",
+    "lat": 30.13366,
+    "lng": 9.50072
+  },
+  {
+    "name": "Ghouazi",
+    "country": "MA",
+    "lat": 34.47737,
+    "lng": -5.30235
+  },
+  {
+    "name": "Ghafsaï",
+    "country": "MA",
+    "lat": 34.62799,
+    "lng": -4.91266
+  },
+  {
+    "name": "Ghindești",
+    "country": "MD",
+    "lat": 47.85482,
+    "lng": 28.37679
+  },
+  {
+    "name": "Ghorahi",
+    "country": "NP",
+    "lat": 28.04324,
+    "lng": 82.48625
+  },
+  {
+    "name": "Ghotki",
+    "country": "PK",
+    "lat": 28.00437,
+    "lng": 69.31569
+  },
+  {
+    "name": "Ghauspur",
+    "country": "PK",
+    "lat": 28.13882,
+    "lng": 69.08245
+  },
+  {
+    "name": "Gharo",
+    "country": "PK",
+    "lat": 24.74182,
+    "lng": 67.58534
+  },
+  {
+    "name": "Ghioca",
+    "country": "RO",
+    "lat": 44.31667,
+    "lng": 24.73333
+  },
+  {
+    "name": "Ghizela",
+    "country": "RO",
+    "lat": 45.82417,
+    "lng": 21.73722
+  },
+  {
+    "name": "Ghizdăvești",
+    "country": "RO",
+    "lat": 44.05757,
+    "lng": 24.10811
+  },
+  {
+    "name": "Ghiroda",
+    "country": "RO",
+    "lat": 45.76389,
+    "lng": 21.30028
+  },
+  {
+    "name": "Ghirdoveni",
+    "country": "RO",
+    "lat": 44.94059,
+    "lng": 25.67368
+  },
+  {
+    "name": "Ghioșești",
+    "country": "RO",
+    "lat": 45.24235,
+    "lng": 25.62671
+  },
+  {
+    "name": "Ghioroiu",
+    "country": "RO",
+    "lat": 44.7,
+    "lng": 23.83333
+  },
+  {
+    "name": "Ghioroc",
+    "country": "RO",
+    "lat": 46.15,
+    "lng": 21.58333
+  },
+  {
+    "name": "Ghiorac",
+    "country": "RO",
+    "lat": 46.7134,
+    "lng": 21.68309
+  },
+  {
+    "name": "Ghinești",
+    "country": "RO",
+    "lat": 44.74774,
+    "lng": 25.553
+  },
+  {
+    "name": "Ghindeni",
+    "country": "RO",
+    "lat": 44.21223,
+    "lng": 23.92336
+  },
+  {
+    "name": "Ghindari",
+    "country": "RO",
+    "lat": 46.5,
+    "lng": 24.91667
+  },
+  {
+    "name": "Ghindăreşti",
+    "country": "RO",
+    "lat": 44.65,
+    "lng": 28.03333
+  },
+  {
+    "name": "Ghindăoani",
+    "country": "RO",
+    "lat": 47.10983,
+    "lng": 26.33909
+  },
+  {
+    "name": "Ghimpețeni",
+    "country": "RO",
+    "lat": 44.28101,
+    "lng": 24.77458
+  },
+  {
+    "name": "Ghimpați",
+    "country": "RO",
+    "lat": 44.19586,
+    "lng": 25.78336
+  },
+  {
+    "name": "Ghimpați",
+    "country": "RO",
+    "lat": 44.15359,
+    "lng": 24.42698
+  },
+  {
+    "name": "Ghimeş-Făget",
+    "country": "RO",
+    "lat": 46.58333,
+    "lng": 26.06667
+  },
+  {
+    "name": "Ghimeș",
+    "country": "RO",
+    "lat": 46.56821,
+    "lng": 26.08886
+  },
+  {
+    "name": "Ghimbav",
+    "country": "RO",
+    "lat": 45.66667,
+    "lng": 25.5
+  },
+  {
+    "name": "Ghilad",
+    "country": "RO",
+    "lat": 45.46501,
+    "lng": 21.13824
+  },
+  {
+    "name": "Ghighișeni",
+    "country": "RO",
+    "lat": 46.55141,
+    "lng": 22.43148
+  },
+  {
+    "name": "Ghidigeni",
+    "country": "RO",
+    "lat": 46.05,
+    "lng": 27.5
+  },
+  {
+    "name": "Ghidici",
+    "country": "RO",
+    "lat": 43.89103,
+    "lng": 23.19454
+  },
+  {
+    "name": "Ghidfalău",
+    "country": "RO",
+    "lat": 45.9,
+    "lng": 25.85
+  },
+  {
+    "name": "Gheaba",
+    "country": "RO",
+    "lat": 45.30916,
+    "lng": 26.00626
+  },
+  {
+    "name": "Gherteniș",
+    "country": "RO",
+    "lat": 45.43315,
+    "lng": 21.58126
+  },
+  {
+    "name": "Gherţa Mică",
+    "country": "RO",
+    "lat": 47.93333,
+    "lng": 23.23333
+  },
+  {
+    "name": "Gherța Mare",
+    "country": "RO",
+    "lat": 47.96884,
+    "lng": 23.20853
+  },
+  {
+    "name": "Ghermănești",
+    "country": "RO",
+    "lat": 46.82998,
+    "lng": 28.08105
+  },
+  {
+    "name": "Ghermănești",
+    "country": "RO",
+    "lat": 44.68829,
+    "lng": 26.14962
+  },
+  {
+    "name": "Gherla",
+    "country": "RO",
+    "lat": 47.03333,
+    "lng": 23.91667
+  },
+  {
+    "name": "Gherghiţa",
+    "country": "RO",
+    "lat": 44.8,
+    "lng": 26.26667
+  },
+  {
+    "name": "Ghergheşti",
+    "country": "RO",
+    "lat": 46.5,
+    "lng": 27.51667
+  },
+  {
+    "name": "Ghergheasa",
+    "country": "RO",
+    "lat": 45.26667,
+    "lng": 27.2
+  },
+  {
+    "name": "Gherăseni",
+    "country": "RO",
+    "lat": 45.02589,
+    "lng": 26.79128
+  },
+  {
+    "name": "Gherăeşti",
+    "country": "RO",
+    "lat": 47.01667,
+    "lng": 26.81667
+  },
+  {
+    "name": "Gheorgheni",
+    "country": "RO",
+    "lat": 46.72292,
+    "lng": 25.60055
+  },
+  {
+    "name": "Gheorghieni",
+    "country": "RO",
+    "lat": 46.71393,
+    "lng": 23.68853
+  },
+  {
+    "name": "Gheorghe Lazăr",
+    "country": "RO",
+    "lat": 44.63333,
+    "lng": 27.45
+  },
+  {
+    "name": "Gheorghe Doja",
+    "country": "RO",
+    "lat": 46.46667,
+    "lng": 24.5
+  },
+  {
+    "name": "Gheorghe Doja",
+    "country": "RO",
+    "lat": 46.37831,
+    "lng": 26.96248
+  },
+  {
+    "name": "Ghelinţa",
+    "country": "RO",
+    "lat": 45.95,
+    "lng": 26.23333
+  },
+  {
+    "name": "Ghelari",
+    "country": "RO",
+    "lat": 45.71667,
+    "lng": 22.78333
+  },
+  {
+    "name": "Gheja",
+    "country": "RO",
+    "lat": 46.44727,
+    "lng": 24.06491
+  },
+  {
+    "name": "Gheboieni",
+    "country": "RO",
+    "lat": 44.98701,
+    "lng": 25.3067
+  },
+  {
+    "name": "Gheboaia",
+    "country": "RO",
+    "lat": 44.80203,
+    "lng": 25.74875
+  },
+  {
+    "name": "Gheorghe Doja",
+    "country": "RO",
+    "lat": 44.61622,
+    "lng": 27.1874
+  },
+  {
+    "name": "Ghubaysh",
+    "country": "SD",
+    "lat": 12.15,
+    "lng": 27.35
+  },
+  {
+    "name": "Ghim Moh",
+    "country": "SG",
+    "lat": 1.31111,
+    "lng": 103.78778
+  },
+  {
+    "name": "Ghabāghib",
+    "country": "SY",
+    "lat": 33.18235,
+    "lng": 36.22534
+  },
+  {
+    "name": "Gharavŭtí",
+    "country": "TJ",
+    "lat": 37.56703,
+    "lng": 68.44668
+  },
+  {
+    "name": "Ghonchí",
+    "country": "TJ",
+    "lat": 39.96238,
+    "lng": 69.12966
+  },
+  {
+    "name": "Ghafurov",
+    "country": "TJ",
+    "lat": 40.21571,
+    "lng": 69.72867
+  },
+  {
+    "name": "Ghomrassen",
+    "country": "TN",
+    "lat": 33.05936,
+    "lng": 10.33712
+  },
+  {
+    "name": "Ghardimaou",
+    "country": "TN",
+    "lat": 36.44788,
+    "lng": 8.4413
+  },
+  {
+    "name": "Ghraiba",
+    "country": "TN",
+    "lat": 34.49555,
+    "lng": 10.21113
+  },
+  {
+    "name": "Gholson",
+    "country": "US",
+    "lat": 31.701,
+    "lng": -97.2164
+  },
+  {
+    "name": "Ghayl Bā Wazīr",
+    "country": "YE",
+    "lat": 14.77611,
+    "lng": 49.36611
+  }
+]

@@ -1,0 +1,2366 @@
+[
+  {
+    "name": "Jindera",
+    "country": "AU",
+    "lat": -35.95474,
+    "lng": 146.88852
+  },
+  {
+    "name": "Jindabyne",
+    "country": "AU",
+    "lat": -36.41745,
+    "lng": 148.62254
+  },
+  {
+    "name": "Jimboomba",
+    "country": "AU",
+    "lat": -27.83118,
+    "lng": 153.02737
+  },
+  {
+    "name": "Jilliby",
+    "country": "AU",
+    "lat": -33.22605,
+    "lng": 151.41684
+  },
+  {
+    "name": "Jingili",
+    "country": "AU",
+    "lat": -12.38895,
+    "lng": 130.87281
+  },
+  {
+    "name": "Jindalee",
+    "country": "AU",
+    "lat": -27.53446,
+    "lng": 152.93843
+  },
+  {
+    "name": "Jindalee",
+    "country": "AU",
+    "lat": -31.64938,
+    "lng": 115.69496
+  },
+  {
+    "name": "Jidd Ḩafş",
+    "country": "BH",
+    "lat": 26.21861,
+    "lng": 50.54778
+  },
+  {
+    "name": "Jitaúna",
+    "country": "BR",
+    "lat": -14.01274,
+    "lng": -39.89833
+  },
+  {
+    "name": "Jiquiriça",
+    "country": "BR",
+    "lat": -13.25667,
+    "lng": -39.57222
+  },
+  {
+    "name": "Ji Paraná",
+    "country": "BR",
+    "lat": -10.88528,
+    "lng": -61.95167
+  },
+  {
+    "name": "Jijoca de Jericoacoara",
+    "country": "BR",
+    "lat": -2.895,
+    "lng": -40.44917
+  },
+  {
+    "name": "Jiuquan",
+    "country": "CN",
+    "lat": 39.74318,
+    "lng": 98.51736
+  },
+  {
+    "name": "Jiajuedibu",
+    "country": "CN",
+    "lat": 30.93333,
+    "lng": 88.63333
+  },
+  {
+    "name": "Jinta",
+    "country": "CN",
+    "lat": 39.98333,
+    "lng": 98.86667
+  },
+  {
+    "name": "Jinhua",
+    "country": "CN",
+    "lat": 26.538,
+    "lng": 99.91715
+  },
+  {
+    "name": "Jinding",
+    "country": "CN",
+    "lat": 26.43903,
+    "lng": 99.44061
+  },
+  {
+    "name": "Jietou",
+    "country": "CN",
+    "lat": 25.4274,
+    "lng": 98.65324
+  },
+  {
+    "name": "Jiayuguan",
+    "country": "CN",
+    "lat": 39.81121,
+    "lng": 98.28618
+  },
+  {
+    "name": "Jiangzi",
+    "country": "CN",
+    "lat": 28.92026,
+    "lng": 89.59956
+  },
+  {
+    "name": "Jiding",
+    "country": "CN",
+    "lat": 29.36667,
+    "lng": 88.25
+  },
+  {
+    "name": "Jimsar",
+    "country": "CN",
+    "lat": 43.99747,
+    "lng": 89.18976
+  },
+  {
+    "name": "Jinshanlu",
+    "country": "CN",
+    "lat": 47.8505,
+    "lng": 88.13286
+  },
+  {
+    "name": "Jiangzhuang",
+    "country": "CN",
+    "lat": 34.49167,
+    "lng": 117.39722
+  },
+  {
+    "name": "Jiahe Chengguanzhen",
+    "country": "CN",
+    "lat": 25.55936,
+    "lng": 112.36352
+  },
+  {
+    "name": "Jiangpu",
+    "country": "CN",
+    "lat": 32.06149,
+    "lng": 118.62399
+  },
+  {
+    "name": "Jicheng",
+    "country": "CN",
+    "lat": 37.06359,
+    "lng": 112.95769
+  },
+  {
+    "name": "Jinghong",
+    "country": "CN",
+    "lat": 22.00265,
+    "lng": 100.7697
+  },
+  {
+    "name": "Jiulong",
+    "country": "CN",
+    "lat": 30.53534,
+    "lng": 106.44902
+  },
+  {
+    "name": "Jingxi",
+    "country": "CN",
+    "lat": 23.13711,
+    "lng": 106.41316
+  },
+  {
+    "name": "Jinfeng",
+    "country": "CN",
+    "lat": 28.2385,
+    "lng": 116.60054
+  },
+  {
+    "name": "Jinxi",
+    "country": "CN",
+    "lat": 30.43226,
+    "lng": 116.29217
+  },
+  {
+    "name": "Jianning",
+    "country": "CN",
+    "lat": 26.83448,
+    "lng": 116.83848
+  },
+  {
+    "name": "Jiyuanlu",
+    "country": "CN",
+    "lat": 34.80823,
+    "lng": 113.28626
+  },
+  {
+    "name": "Jieyang",
+    "country": "CN",
+    "lat": 23.5418,
+    "lng": 116.36581
+  },
+  {
+    "name": "Jinjiang",
+    "country": "CN",
+    "lat": 24.81978,
+    "lng": 118.57415
+  },
+  {
+    "name": "Jishan",
+    "country": "CN",
+    "lat": 30.92149,
+    "lng": 118.33017
+  },
+  {
+    "name": "Jiannan",
+    "country": "CN",
+    "lat": 31.34355,
+    "lng": 104.19588
+  },
+  {
+    "name": "Jiangbei",
+    "country": "CN",
+    "lat": 29.7283,
+    "lng": 106.63506
+  },
+  {
+    "name": "Jize",
+    "country": "CN",
+    "lat": 36.91969,
+    "lng": 114.86989
+  },
+  {
+    "name": "Jiyuan",
+    "country": "CN",
+    "lat": 35.08912,
+    "lng": 112.58815
+  },
+  {
+    "name": "Jiyang",
+    "country": "CN",
+    "lat": 36.97515,
+    "lng": 117.16904
+  },
+  {
+    "name": "Jizhou",
+    "country": "CN",
+    "lat": 37.55054,
+    "lng": 115.56871
+  },
+  {
+    "name": "Jichang",
+    "country": "CN",
+    "lat": 36.10111,
+    "lng": 110.67333
+  },
+  {
+    "name": "Jiuxian",
+    "country": "CN",
+    "lat": 29.86203,
+    "lng": 106.20288
+  },
+  {
+    "name": "Jiushan",
+    "country": "CN",
+    "lat": 36.19611,
+    "lng": 118.465
+  },
+  {
+    "name": "Jiujiang",
+    "country": "CN",
+    "lat": 29.70475,
+    "lng": 116.00206
+  },
+  {
+    "name": "Jiudian",
+    "country": "CN",
+    "lat": 36.9918,
+    "lng": 120.20412
+  },
+  {
+    "name": "Jiuchenggong",
+    "country": "CN",
+    "lat": 34.67868,
+    "lng": 107.78758
+  },
+  {
+    "name": "Jishui",
+    "country": "CN",
+    "lat": 33.73333,
+    "lng": 115.4
+  },
+  {
+    "name": "Jishou",
+    "country": "CN",
+    "lat": 28.31925,
+    "lng": 109.73346
+  },
+  {
+    "name": "Jifeng",
+    "country": "CN",
+    "lat": 35.61347,
+    "lng": 110.95854
+  },
+  {
+    "name": "Jinzhou",
+    "country": "CN",
+    "lat": 39.1,
+    "lng": 121.71667
+  },
+  {
+    "name": "Jinyuan",
+    "country": "CN",
+    "lat": 37.72694,
+    "lng": 112.47083
+  },
+  {
+    "name": "Jinxiu",
+    "country": "CN",
+    "lat": 24.13344,
+    "lng": 110.18453
+  },
+  {
+    "name": "Jinxiang",
+    "country": "CN",
+    "lat": 27.43265,
+    "lng": 120.60625
+  },
+  {
+    "name": "Jinzhou",
+    "country": "CN",
+    "lat": 38.02867,
+    "lng": 115.03799
+  },
+  {
+    "name": "Jinshiqiao",
+    "country": "CN",
+    "lat": 27.58425,
+    "lng": 110.93634
+  },
+  {
+    "name": "Jinshi",
+    "country": "CN",
+    "lat": 29.60487,
+    "lng": 111.87012
+  },
+  {
+    "name": "Jinshi",
+    "country": "CN",
+    "lat": 26.41796,
+    "lng": 110.80017
+  },
+  {
+    "name": "Jinshan",
+    "country": "CN",
+    "lat": 25.11508,
+    "lng": 102.09833
+  },
+  {
+    "name": "Jinsha",
+    "country": "CN",
+    "lat": 32.08982,
+    "lng": 121.07355
+  },
+  {
+    "name": "Jinqiao",
+    "country": "CN",
+    "lat": 31.27092,
+    "lng": 121.59331
+  },
+  {
+    "name": "Jinping",
+    "country": "CN",
+    "lat": 35.31435,
+    "lng": 107.02923
+  },
+  {
+    "name": "Jinping",
+    "country": "CN",
+    "lat": 24.43374,
+    "lng": 100.81989
+  },
+  {
+    "name": "Jinping",
+    "country": "CN",
+    "lat": 24.03054,
+    "lng": 104.22702
+  },
+  {
+    "name": "Jinhe",
+    "country": "CN",
+    "lat": 22.76667,
+    "lng": 103.25
+  },
+  {
+    "name": "Jinjing",
+    "country": "CN",
+    "lat": 24.575,
+    "lng": 118.59722
+  },
+  {
+    "name": "Jinjiang",
+    "country": "CN",
+    "lat": 28.40051,
+    "lng": 116.89983
+  },
+  {
+    "name": "Jinjiang",
+    "country": "CN",
+    "lat": 19.72878,
+    "lng": 110.00851
+  },
+  {
+    "name": "Jinji",
+    "country": "CN",
+    "lat": 23.22806,
+    "lng": 110.82611
+  },
+  {
+    "name": "Jining",
+    "country": "CN",
+    "lat": 35.405,
+    "lng": 116.58139
+  },
+  {
+    "name": "Jinhua",
+    "country": "CN",
+    "lat": 29.10678,
+    "lng": 119.64421
+  },
+  {
+    "name": "Jinhe",
+    "country": "CN",
+    "lat": 27.71694,
+    "lng": 109.60472
+  },
+  {
+    "name": "Jingzhou",
+    "country": "CN",
+    "lat": 30.35028,
+    "lng": 112.19028
+  },
+  {
+    "name": "Jingzhi",
+    "country": "CN",
+    "lat": 36.31,
+    "lng": 119.3875
+  },
+  {
+    "name": "Jingyang",
+    "country": "CN",
+    "lat": 32.51667,
+    "lng": 107.88333
+  },
+  {
+    "name": "Jingyang",
+    "country": "CN",
+    "lat": 30.29194,
+    "lng": 118.5425
+  },
+  {
+    "name": "Jingzhou",
+    "country": "CN",
+    "lat": 37.69098,
+    "lng": 116.25447
+  },
+  {
+    "name": "Jingchuan",
+    "country": "CN",
+    "lat": 30.68916,
+    "lng": 118.40431
+  },
+  {
+    "name": "Jingui",
+    "country": "CN",
+    "lat": 38.5,
+    "lng": 106.41667
+  },
+  {
+    "name": "Jingping",
+    "country": "CN",
+    "lat": 39.52,
+    "lng": 112.28389
+  },
+  {
+    "name": "Jingning Chengguanzhen",
+    "country": "CN",
+    "lat": 35.52036,
+    "lng": 105.72301
+  },
+  {
+    "name": "Jingmen",
+    "country": "CN",
+    "lat": 31.03361,
+    "lng": 112.20472
+  },
+  {
+    "name": "Jingling",
+    "country": "CN",
+    "lat": 30.65,
+    "lng": 113.1
+  },
+  {
+    "name": "Jingjiang",
+    "country": "CN",
+    "lat": 32.01417,
+    "lng": 120.2625
+  },
+  {
+    "name": "Jinghai",
+    "country": "CN",
+    "lat": 38.93373,
+    "lng": 116.92699
+  },
+  {
+    "name": "Jingguan",
+    "country": "CN",
+    "lat": 29.89545,
+    "lng": 106.5639
+  },
+  {
+    "name": "Jinggan",
+    "country": "CN",
+    "lat": 34.53,
+    "lng": 108.83417
+  },
+  {
+    "name": "Jingdezhen",
+    "country": "CN",
+    "lat": 29.2947,
+    "lng": 117.20789
+  },
+  {
+    "name": "Jingchuan Chengguanzhen",
+    "country": "CN",
+    "lat": 35.33194,
+    "lng": 107.36111
+  },
+  {
+    "name": "Jing’an",
+    "country": "CN",
+    "lat": 22.21072,
+    "lng": 113.29218
+  },
+  {
+    "name": "Jin’e",
+    "country": "CN",
+    "lat": 29.34313,
+    "lng": 105.28443
+  },
+  {
+    "name": "Jinchang",
+    "country": "CN",
+    "lat": 38.50062,
+    "lng": 102.19379
+  },
+  {
+    "name": "Jinchuan",
+    "country": "CN",
+    "lat": 31.47551,
+    "lng": 102.05884
+  },
+  {
+    "name": "Jinchuan",
+    "country": "CN",
+    "lat": 27.76036,
+    "lng": 115.3885
+  },
+  {
+    "name": "Jincheng",
+    "country": "CN",
+    "lat": 35.50222,
+    "lng": 112.83278
+  },
+  {
+    "name": "Jincheng",
+    "country": "CN",
+    "lat": 30.99712,
+    "lng": 105.88191
+  },
+  {
+    "name": "Jincheng",
+    "country": "CN",
+    "lat": 28.26648,
+    "lng": 103.56838
+  },
+  {
+    "name": "Jincheng",
+    "country": "CN",
+    "lat": 25.50147,
+    "lng": 102.40058
+  },
+  {
+    "name": "Jinbi",
+    "country": "CN",
+    "lat": 25.70855,
+    "lng": 101.33679
+  },
+  {
+    "name": "Jinan",
+    "country": "CN",
+    "lat": 36.66833,
+    "lng": 116.99722
+  },
+  {
+    "name": "Jin’an",
+    "country": "CN",
+    "lat": 32.63941,
+    "lng": 103.59683
+  },
+  {
+    "name": "Jimo",
+    "country": "CN",
+    "lat": 36.38972,
+    "lng": 120.46222
+  },
+  {
+    "name": "Jiming",
+    "country": "CN",
+    "lat": 31.71335,
+    "lng": 108.59846
+  },
+  {
+    "name": "Jijiang",
+    "country": "CN",
+    "lat": 29.28993,
+    "lng": 106.25001
+  },
+  {
+    "name": "Jiexiu",
+    "country": "CN",
+    "lat": 37.02444,
+    "lng": 111.9125
+  },
+  {
+    "name": "Jieshou",
+    "country": "CN",
+    "lat": 33.26338,
+    "lng": 115.36108
+  },
+  {
+    "name": "Jieshi",
+    "country": "CN",
+    "lat": 22.81027,
+    "lng": 115.83058
+  },
+  {
+    "name": "Jielong",
+    "country": "CN",
+    "lat": 29.24946,
+    "lng": 106.77663
+  },
+  {
+    "name": "Jiekou",
+    "country": "CN",
+    "lat": 23.54992,
+    "lng": 113.58099
+  },
+  {
+    "name": "Jiehu",
+    "country": "CN",
+    "lat": 35.54278,
+    "lng": 118.455
+  },
+  {
+    "name": "Jiazi",
+    "country": "CN",
+    "lat": 22.87932,
+    "lng": 116.07318
+  },
+  {
+    "name": "Jiayue",
+    "country": "CN",
+    "lat": 36.02361,
+    "lng": 119.17611
+  },
+  {
+    "name": "Jiaxing",
+    "country": "CN",
+    "lat": 30.7522,
+    "lng": 120.75
+  },
+  {
+    "name": "Jiaxiang",
+    "country": "CN",
+    "lat": 35.40827,
+    "lng": 116.35238
+  },
+  {
+    "name": "Jiaxian",
+    "country": "CN",
+    "lat": 33.96833,
+    "lng": 113.20806
+  },
+  {
+    "name": "Jiawang",
+    "country": "CN",
+    "lat": 34.43278,
+    "lng": 117.44194
+  },
+  {
+    "name": "Jiasi",
+    "country": "CN",
+    "lat": 29.11569,
+    "lng": 106.44691
+  },
+  {
+    "name": "Jiaozuo",
+    "country": "CN",
+    "lat": 35.23925,
+    "lng": 113.23914
+  },
+  {
+    "name": "Jiaoshi",
+    "country": "CN",
+    "lat": 29.71607,
+    "lng": 107.5976
+  },
+  {
+    "name": "Jiaocheng",
+    "country": "CN",
+    "lat": 24.65732,
+    "lng": 116.16709
+  },
+  {
+    "name": "Jiaokui",
+    "country": "CN",
+    "lat": 27.59414,
+    "lng": 104.00478
+  },
+  {
+    "name": "Jiaogong",
+    "country": "CN",
+    "lat": 33.56547,
+    "lng": 104.64637
+  },
+  {
+    "name": "Jiaozhou",
+    "country": "CN",
+    "lat": 36.28389,
+    "lng": 120.00333
+  },
+  {
+    "name": "Jiancheng",
+    "country": "CN",
+    "lat": 30.39097,
+    "lng": 104.54912
+  },
+  {
+    "name": "Jianshan",
+    "country": "CN",
+    "lat": 31.43396,
+    "lng": 108.89533
+  },
+  {
+    "name": "Jian’ou",
+    "country": "CN",
+    "lat": 27.04146,
+    "lng": 118.31897
+  },
+  {
+    "name": "Jianjun",
+    "country": "CN",
+    "lat": 34.69139,
+    "lng": 108.13972
+  },
+  {
+    "name": "Jianjiang",
+    "country": "CN",
+    "lat": 26.54972,
+    "lng": 119.755
+  },
+  {
+    "name": "Jiangzhuang",
+    "country": "CN",
+    "lat": 36.49444,
+    "lng": 119.79417
+  },
+  {
+    "name": "Jiangyan",
+    "country": "CN",
+    "lat": 32.50611,
+    "lng": 120.14278
+  },
+  {
+    "name": "Jiangwakou",
+    "country": "CN",
+    "lat": 39.5225,
+    "lng": 117.7025
+  },
+  {
+    "name": "Jianguang",
+    "country": "CN",
+    "lat": 28.19377,
+    "lng": 115.7836
+  },
+  {
+    "name": "Jiangshi",
+    "country": "CN",
+    "lat": 27.12333,
+    "lng": 109.73778
+  },
+  {
+    "name": "Jiangshan",
+    "country": "CN",
+    "lat": 36.67806,
+    "lng": 120.52917
+  },
+  {
+    "name": "Jiangping",
+    "country": "CN",
+    "lat": 21.6,
+    "lng": 108.15
+  },
+  {
+    "name": "Jiangna",
+    "country": "CN",
+    "lat": 23.6092,
+    "lng": 104.37312
+  },
+  {
+    "name": "Jiangmen",
+    "country": "CN",
+    "lat": 22.58333,
+    "lng": 113.08333
+  },
+  {
+    "name": "Jiangluo",
+    "country": "CN",
+    "lat": 33.90139,
+    "lng": 105.82194
+  },
+  {
+    "name": "Jiangkou",
+    "country": "CN",
+    "lat": 31.56506,
+    "lng": 107.09736
+  },
+  {
+    "name": "Jiangkou",
+    "country": "CN",
+    "lat": 29.23964,
+    "lng": 107.87876
+  },
+  {
+    "name": "Jiangkouxu",
+    "country": "CN",
+    "lat": 27.69417,
+    "lng": 109.73583
+  },
+  {
+    "name": "Jiangkou",
+    "country": "CN",
+    "lat": 25.48694,
+    "lng": 119.19834
+  },
+  {
+    "name": "Jiangkou",
+    "country": "CN",
+    "lat": 23.43916,
+    "lng": 111.4974
+  },
+  {
+    "name": "Jiangfang",
+    "country": "CN",
+    "lat": 26.50158,
+    "lng": 110.3464
+  },
+  {
+    "name": "Jiangjia",
+    "country": "CN",
+    "lat": 29.39306,
+    "lng": 106.81917
+  },
+  {
+    "name": "Jiang’an Qu",
+    "country": "CN",
+    "lat": 30.6089,
+    "lng": 114.30683
+  },
+  {
+    "name": "Jiang’an",
+    "country": "CN",
+    "lat": 28.73335,
+    "lng": 105.0683
+  },
+  {
+    "name": "Jianchang",
+    "country": "CN",
+    "lat": 27.55831,
+    "lng": 116.63978
+  },
+  {
+    "name": "Ji’an",
+    "country": "CN",
+    "lat": 27.11716,
+    "lng": 114.97927
+  },
+  {
+    "name": "Jiamaying",
+    "country": "CN",
+    "lat": 37.20806,
+    "lng": 115.95
+  },
+  {
+    "name": "Jiading",
+    "country": "CN",
+    "lat": 25.39215,
+    "lng": 114.92201
+  },
+  {
+    "name": "Jiachuan",
+    "country": "CN",
+    "lat": 32.20907,
+    "lng": 106.21494
+  },
+  {
+    "name": "Jianshe",
+    "country": "CN",
+    "lat": 34.2175,
+    "lng": 113.76889
+  },
+  {
+    "name": "Jiaojiang",
+    "country": "CN",
+    "lat": 28.69844,
+    "lng": 121.47331
+  },
+  {
+    "name": "Jiangle",
+    "country": "CN",
+    "lat": 26.74234,
+    "lng": 117.46459
+  },
+  {
+    "name": "Jinchang",
+    "country": "CN",
+    "lat": 38.49808,
+    "lng": 112.9236
+  },
+  {
+    "name": "Jiangyin",
+    "country": "CN",
+    "lat": 31.91102,
+    "lng": 120.26302
+  },
+  {
+    "name": "Jiangyou",
+    "country": "CN",
+    "lat": 31.76667,
+    "lng": 104.71667
+  },
+  {
+    "name": "Jinshan",
+    "country": "CN",
+    "lat": 29.66575,
+    "lng": 105.88206
+  },
+  {
+    "name": "Jinlong",
+    "country": "CN",
+    "lat": 29.5136,
+    "lng": 106.06062
+  },
+  {
+    "name": "Ji’an",
+    "country": "CN",
+    "lat": 29.15897,
+    "lng": 105.74703
+  },
+  {
+    "name": "Jiuchao",
+    "country": "CN",
+    "lat": 26.09083,
+    "lng": 108.76528
+  },
+  {
+    "name": "Jiangkou",
+    "country": "CN",
+    "lat": 34.05846,
+    "lng": 105.09996
+  },
+  {
+    "name": "Jinshan",
+    "country": "CN",
+    "lat": 34.81139,
+    "lng": 105.43444
+  },
+  {
+    "name": "Jingfeng",
+    "country": "CN",
+    "lat": 24.97441,
+    "lng": 118.96486
+  },
+  {
+    "name": "Jitoucun",
+    "country": "CN",
+    "lat": 26.47681,
+    "lng": 119.60517
+  },
+  {
+    "name": "Jixi",
+    "country": "CN",
+    "lat": 45.29322,
+    "lng": 130.96217
+  },
+  {
+    "name": "Jiutai",
+    "country": "CN",
+    "lat": 44.1525,
+    "lng": 125.83278
+  },
+  {
+    "name": "Jiupu",
+    "country": "CN",
+    "lat": 41.06667,
+    "lng": 122.95
+  },
+  {
+    "name": "Jishu",
+    "country": "CN",
+    "lat": 44.31667,
+    "lng": 126.8
+  },
+  {
+    "name": "Jinzhou",
+    "country": "CN",
+    "lat": 41.10778,
+    "lng": 121.14167
+  },
+  {
+    "name": "Jinshan",
+    "country": "CN",
+    "lat": 41.91667,
+    "lng": 118.66667
+  },
+  {
+    "name": "Jining",
+    "country": "CN",
+    "lat": 41.0275,
+    "lng": 113.10583
+  },
+  {
+    "name": "Jingyu",
+    "country": "CN",
+    "lat": 42.38734,
+    "lng": 126.80969
+  },
+  {
+    "name": "Jingpeng",
+    "country": "CN",
+    "lat": 43.25,
+    "lng": 117.51667
+  },
+  {
+    "name": "Jilin",
+    "country": "CN",
+    "lat": 43.84652,
+    "lng": 126.5608
+  },
+  {
+    "name": "Jidong",
+    "country": "CN",
+    "lat": 45.256,
+    "lng": 131.11637
+  },
+  {
+    "name": "Jiaohe",
+    "country": "CN",
+    "lat": 43.72133,
+    "lng": 127.33473
+  },
+  {
+    "name": "Ji’an",
+    "country": "CN",
+    "lat": 41.12818,
+    "lng": 126.19455
+  },
+  {
+    "name": "Jiamusi",
+    "country": "CN",
+    "lat": 46.79711,
+    "lng": 130.31118
+  },
+  {
+    "name": "Jiagedaqi",
+    "country": "CN",
+    "lat": 50.41667,
+    "lng": 124.11667
+  },
+  {
+    "name": "Jinshan",
+    "country": "CN",
+    "lat": 41.03349,
+    "lng": 110.05205
+  },
+  {
+    "name": "Jixian",
+    "country": "CN",
+    "lat": 46.72594,
+    "lng": 131.13308
+  },
+  {
+    "name": "Jinniu",
+    "country": "CN",
+    "lat": 25.80062,
+    "lng": 100.57435
+  },
+  {
+    "name": "Jiantang",
+    "country": "CN",
+    "lat": 27.82244,
+    "lng": 99.76929
+  },
+  {
+    "name": "Jianghai",
+    "country": "CN",
+    "lat": 22.57518,
+    "lng": 113.11904
+  },
+  {
+    "name": "Jincheng",
+    "country": "CN",
+    "lat": 31.74422,
+    "lng": 119.57416
+  },
+  {
+    "name": "Jiangbian",
+    "country": "CN",
+    "lat": 22.77542,
+    "lng": 113.80999
+  },
+  {
+    "name": "Jiuxiangling",
+    "country": "CN",
+    "lat": 22.58788,
+    "lng": 113.95103
+  },
+  {
+    "name": "Jiuwei",
+    "country": "CN",
+    "lat": 22.6504,
+    "lng": 113.85684
+  },
+  {
+    "name": "Jinjiazhuang",
+    "country": "CN",
+    "lat": 31.72012,
+    "lng": 118.48953
+  },
+  {
+    "name": "Jinghu",
+    "country": "CN",
+    "lat": 31.34758,
+    "lng": 118.36829
+  },
+  {
+    "name": "Jiashan",
+    "country": "CN",
+    "lat": 30.84918,
+    "lng": 120.92583
+  },
+  {
+    "name": "Jiahe",
+    "country": "CN",
+    "lat": 34.09187,
+    "lng": 104.37974
+  },
+  {
+    "name": "Jiangtai",
+    "country": "CN",
+    "lat": 34.08932,
+    "lng": 104.407
+  },
+  {
+    "name": "Jiangpan",
+    "country": "CN",
+    "lat": 33.77872,
+    "lng": 104.36459
+  },
+  {
+    "name": "Jianshan",
+    "country": "CN",
+    "lat": 33.02803,
+    "lng": 104.85526
+  },
+  {
+    "name": "Jiegan",
+    "country": "CN",
+    "lat": 33.28934,
+    "lng": 105.09552
+  },
+  {
+    "name": "Jinling",
+    "country": "CN",
+    "lat": 34.36925,
+    "lng": 107.14997
+  },
+  {
+    "name": "Jiangxi",
+    "country": "CN",
+    "lat": 33.99934,
+    "lng": 105.19994
+  },
+  {
+    "name": "Jialing",
+    "country": "CN",
+    "lat": 33.69927,
+    "lng": 106.19629
+  },
+  {
+    "name": "Jindong",
+    "country": "CN",
+    "lat": 33.90604,
+    "lng": 106.3087
+  },
+  {
+    "name": "Jishi",
+    "country": "CN",
+    "lat": 35.84613,
+    "lng": 102.48171
+  },
+  {
+    "name": "Jizhou",
+    "country": "CN",
+    "lat": 27.14409,
+    "lng": 114.99596
+  },
+  {
+    "name": "Jiefanglu",
+    "country": "CN",
+    "lat": 31.70886,
+    "lng": 118.50905
+  },
+  {
+    "name": "Jingshan",
+    "country": "CN",
+    "lat": 39.92528,
+    "lng": 116.40411
+  },
+  {
+    "name": "Jinrongjie",
+    "country": "CN",
+    "lat": 39.91222,
+    "lng": 116.35615
+  },
+  {
+    "name": "Jianping",
+    "country": "CN",
+    "lat": 31.0449,
+    "lng": 109.92485
+  },
+  {
+    "name": "Jinping",
+    "country": "CN",
+    "lat": 31.20842,
+    "lng": 109.93537
+  },
+  {
+    "name": "Jiagao",
+    "country": "CN",
+    "lat": 30.88922,
+    "lng": 109.17596
+  },
+  {
+    "name": "Jiulongshan",
+    "country": "CN",
+    "lat": 31.19445,
+    "lng": 108.25094
+  },
+  {
+    "name": "Jinfeng",
+    "country": "CN",
+    "lat": 31.19358,
+    "lng": 108.56146
+  },
+  {
+    "name": "Jiuchi",
+    "country": "CN",
+    "lat": 30.79834,
+    "lng": 108.37089
+  },
+  {
+    "name": "Jinling",
+    "country": "CN",
+    "lat": 29.99265,
+    "lng": 108.4951
+  },
+  {
+    "name": "Jindai",
+    "country": "CN",
+    "lat": 30.60177,
+    "lng": 107.69789
+  },
+  {
+    "name": "Jiangchi",
+    "country": "CN",
+    "lat": 29.91369,
+    "lng": 108.02711
+  },
+  {
+    "name": "Jilong",
+    "country": "CN",
+    "lat": 29.72284,
+    "lng": 108.00519
+  },
+  {
+    "name": "Jindong",
+    "country": "CN",
+    "lat": 29.20335,
+    "lng": 108.84728
+  },
+  {
+    "name": "Jinxi",
+    "country": "CN",
+    "lat": 29.39217,
+    "lng": 108.68697
+  },
+  {
+    "name": "Jielong",
+    "country": "CN",
+    "lat": 29.59624,
+    "lng": 107.89467
+  },
+  {
+    "name": "Jiangnan",
+    "country": "CN",
+    "lat": 29.79313,
+    "lng": 107.03715
+  },
+  {
+    "name": "Jindaoxia",
+    "country": "CN",
+    "lat": 30.00528,
+    "lng": 106.65187
+  },
+  {
+    "name": "Jijia",
+    "country": "CN",
+    "lat": 29.63201,
+    "lng": 105.53491
+  },
+  {
+    "name": "Jianlong",
+    "country": "CN",
+    "lat": 29.3586,
+    "lng": 106.18522
+  },
+  {
+    "name": "Jimai",
+    "country": "CN",
+    "lat": 33.75155,
+    "lng": 99.64821
+  },
+  {
+    "name": "Jianhua",
+    "country": "CN",
+    "lat": 47.35773,
+    "lng": 123.95977
+  },
+  {
+    "name": "Jiao",
+    "country": "CN",
+    "lat": 46.80712,
+    "lng": 130.31944
+  },
+  {
+    "name": "Jiguan",
+    "country": "CN",
+    "lat": 45.30275,
+    "lng": 130.97412
+  },
+  {
+    "name": "Jinshan",
+    "country": "CN",
+    "lat": 28.93096,
+    "lng": 107.10437
+  },
+  {
+    "name": "Jiayin",
+    "country": "CN",
+    "lat": 48.88698,
+    "lng": 130.39413
+  },
+  {
+    "name": "Jinqiao",
+    "country": "CN",
+    "lat": 29.04826,
+    "lng": 106.88515
+  },
+  {
+    "name": "Jibenggang",
+    "country": "CN",
+    "lat": 29.6583,
+    "lng": 91.1276
+  },
+  {
+    "name": "Jianshui",
+    "country": "CN",
+    "lat": 24.2774,
+    "lng": 101.224
+  },
+  {
+    "name": "Jiachuan",
+    "country": "CN",
+    "lat": 34.70222,
+    "lng": 105.92974
+  },
+  {
+    "name": "Jicang",
+    "country": "CN",
+    "lat": 34.71737,
+    "lng": 102.82502
+  },
+  {
+    "name": "Jinzhong",
+    "country": "CN",
+    "lat": 37.68403,
+    "lng": 112.75471
+  },
+  {
+    "name": "Jiawa Airikecun",
+    "country": "CN",
+    "lat": 38.16839,
+    "lng": 85.50975
+  },
+  {
+    "name": "Jiangzhou",
+    "country": "CN",
+    "lat": 22.41162,
+    "lng": 107.34213
+  },
+  {
+    "name": "Jiangnan",
+    "country": "CN",
+    "lat": 22.78392,
+    "lng": 108.26914
+  },
+  {
+    "name": "Jiawang Zhen",
+    "country": "CN",
+    "lat": 34.42202,
+    "lng": 117.46764
+  },
+  {
+    "name": "Jing'an",
+    "country": "CN",
+    "lat": 34.49621,
+    "lng": 116.92249
+  },
+  {
+    "name": "Jinzhongzi",
+    "country": "CN",
+    "lat": 36.33457,
+    "lng": 119.25807
+  },
+  {
+    "name": "Jinggou",
+    "country": "CN",
+    "lat": 36.28176,
+    "lng": 119.55185
+  },
+  {
+    "name": "Jitai",
+    "country": "CN",
+    "lat": 36.75724,
+    "lng": 118.73866
+  },
+  {
+    "name": "Jiujing",
+    "country": "CN",
+    "lat": 22.44681,
+    "lng": 99.97521
+  },
+  {
+    "name": "Jiuhe",
+    "country": "CN",
+    "lat": 26.76269,
+    "lng": 99.99185
+  },
+  {
+    "name": "Jifeng",
+    "country": "CN",
+    "lat": 33.65526,
+    "lng": 105.65786
+  },
+  {
+    "name": "Jinji",
+    "country": "CN",
+    "lat": 34.6497,
+    "lng": 105.89992
+  },
+  {
+    "name": "Jianshan",
+    "country": "CN",
+    "lat": 46.645,
+    "lng": 131.15079
+  },
+  {
+    "name": "Jiayi",
+    "country": "CN",
+    "lat": 36.85481,
+    "lng": 81.63545
+  },
+  {
+    "name": "Jiahanbage",
+    "country": "CN",
+    "lat": 37.19652,
+    "lng": 79.70572
+  },
+  {
+    "name": "Jieshi",
+    "country": "CN",
+    "lat": 29.38958,
+    "lng": 106.60783
+  },
+  {
+    "name": "Jiaping",
+    "country": "CN",
+    "lat": 28.99165,
+    "lng": 106.34842
+  },
+  {
+    "name": "Jinzhu",
+    "country": "CN",
+    "lat": 29.96107,
+    "lng": 108.4593
+  },
+  {
+    "name": "Jiuzhou",
+    "country": "CN",
+    "lat": 38.20744,
+    "lng": 117.02536
+  },
+  {
+    "name": "Jiangyuan",
+    "country": "CN",
+    "lat": 42.05636,
+    "lng": 126.58564
+  },
+  {
+    "name": "Jingxiu",
+    "country": "CN",
+    "lat": 38.87682,
+    "lng": 115.45388
+  },
+  {
+    "name": "Jianxi",
+    "country": "CN",
+    "lat": 34.65878,
+    "lng": 112.3866
+  },
+  {
+    "name": "Jiushixia",
+    "country": "CN",
+    "lat": 22.51787,
+    "lng": 114.05479
+  },
+  {
+    "name": "Jiajinlong",
+    "country": "CN",
+    "lat": 22.54731,
+    "lng": 113.90618
+  },
+  {
+    "name": "Jiazhou",
+    "country": "CN",
+    "lat": 22.57121,
+    "lng": 113.8954
+  },
+  {
+    "name": "Jiefang",
+    "country": "CN",
+    "lat": 22.60018,
+    "lng": 113.8414
+  },
+  {
+    "name": "Jiaoju",
+    "country": "CN",
+    "lat": 22.51018,
+    "lng": 113.89958
+  },
+  {
+    "name": "Jing",
+    "country": "CN",
+    "lat": 44.59939,
+    "lng": 82.89307
+  },
+  {
+    "name": "Jiefang",
+    "country": "CN",
+    "lat": 35.23753,
+    "lng": 113.21723
+  },
+  {
+    "name": "Jiguaní",
+    "country": "CU",
+    "lat": 20.36785,
+    "lng": -76.42741
+  },
+  {
+    "name": "Jimaguayú",
+    "country": "CU",
+    "lat": 21.24224,
+    "lng": -77.82625
+  },
+  {
+    "name": "Jistebník",
+    "country": "CZ",
+    "lat": 49.754,
+    "lng": 18.13063
+  },
+  {
+    "name": "Jistebnice",
+    "country": "CZ",
+    "lat": 49.48553,
+    "lng": 14.5276
+  },
+  {
+    "name": "Jirny",
+    "country": "CZ",
+    "lat": 50.11578,
+    "lng": 14.69923
+  },
+  {
+    "name": "Jirkov",
+    "country": "CZ",
+    "lat": 50.49979,
+    "lng": 13.44769
+  },
+  {
+    "name": "Jiříkov",
+    "country": "CZ",
+    "lat": 50.99514,
+    "lng": 14.5691
+  },
+  {
+    "name": "Jinonice",
+    "country": "CZ",
+    "lat": 50.05042,
+    "lng": 14.37835
+  },
+  {
+    "name": "Jindřichův Hradec",
+    "country": "CZ",
+    "lat": 49.14404,
+    "lng": 15.00301
+  },
+  {
+    "name": "Jindřichov",
+    "country": "CZ",
+    "lat": 50.25184,
+    "lng": 17.51903
+  },
+  {
+    "name": "Jince",
+    "country": "CZ",
+    "lat": 49.78624,
+    "lng": 13.97867
+  },
+  {
+    "name": "Jimramov",
+    "country": "CZ",
+    "lat": 49.63719,
+    "lng": 16.22632
+  },
+  {
+    "name": "Jilemnice",
+    "country": "CZ",
+    "lat": 50.6089,
+    "lng": 15.50653
+  },
+  {
+    "name": "Jihlava",
+    "country": "CZ",
+    "lat": 49.3961,
+    "lng": 15.59124
+  },
+  {
+    "name": "Jičín",
+    "country": "CZ",
+    "lat": 50.43723,
+    "lng": 15.35162
+  },
+  {
+    "name": "Jimaní",
+    "country": "DO",
+    "lat": 18.48775,
+    "lng": -71.85148
+  },
+  {
+    "name": "Jima Abajo",
+    "country": "DO",
+    "lat": 19.13292,
+    "lng": -70.37607
+  },
+  {
+    "name": "Jicomé",
+    "country": "DO",
+    "lat": 19.64955,
+    "lng": -70.94927
+  },
+  {
+    "name": "Jijel",
+    "country": "DZ",
+    "lat": 36.821,
+    "lng": 5.76352
+  },
+  {
+    "name": "Jipijapa",
+    "country": "EC",
+    "lat": -1.34841,
+    "lng": -80.57913
+  },
+  {
+    "name": "Jimera de Líbar",
+    "country": "ES",
+    "lat": 36.65119,
+    "lng": -5.27412
+  },
+  {
+    "name": "Jimena de la Frontera",
+    "country": "ES",
+    "lat": 36.43517,
+    "lng": -5.45387
+  },
+  {
+    "name": "Jimena",
+    "country": "ES",
+    "lat": 37.84157,
+    "lng": -3.4771
+  },
+  {
+    "name": "Jirueque",
+    "country": "ES",
+    "lat": 40.96431,
+    "lng": -2.90289
+  },
+  {
+    "name": "Jinka",
+    "country": "ET",
+    "lat": 5.65,
+    "lng": 36.65
+  },
+  {
+    "name": "Jimma",
+    "country": "ET",
+    "lat": 7.67344,
+    "lng": 36.83441
+  },
+  {
+    "name": "Jijiga",
+    "country": "ET",
+    "lat": 9.35,
+    "lng": 42.8
+  },
+  {
+    "name": "Jirapa",
+    "country": "GH",
+    "lat": 10.53689,
+    "lng": -2.70155
+  },
+  {
+    "name": "Jifarong",
+    "country": "GM",
+    "lat": 13.3,
+    "lng": -15.86667
+  },
+  {
+    "name": "Jiquinlaca",
+    "country": "HN",
+    "lat": 14.00595,
+    "lng": -88.35162
+  },
+  {
+    "name": "Jimbaran",
+    "country": "ID",
+    "lat": -8.79093,
+    "lng": 115.16006
+  },
+  {
+    "name": "Jisr ez Zarqā",
+    "country": "IL",
+    "lat": 32.53684,
+    "lng": 34.9127
+  },
+  {
+    "name": "Jintūr",
+    "country": "IN",
+    "lat": 19.61186,
+    "lng": 76.6874
+  },
+  {
+    "name": "Jining",
+    "country": "IN",
+    "lat": 28.21633,
+    "lng": 94.85389
+  },
+  {
+    "name": "Jigani",
+    "country": "IN",
+    "lat": 12.78612,
+    "lng": 77.63855
+  },
+  {
+    "name": "Jilādiguda",
+    "country": "IN",
+    "lat": 17.332,
+    "lng": 78.52553
+  },
+  {
+    "name": "Jirapur",
+    "country": "IN",
+    "lat": 24.0214,
+    "lng": 76.3764
+  },
+  {
+    "name": "Jiraūn Kasba",
+    "country": "IN",
+    "lat": 25.12104,
+    "lng": 78.65597
+  },
+  {
+    "name": "Jiribam",
+    "country": "IN",
+    "lat": 24.80427,
+    "lng": 93.12148
+  },
+  {
+    "name": "Jiyūgaoka",
+    "country": "JP",
+    "lat": 35.61099,
+    "lng": 139.66782
+  },
+  {
+    "name": "Jinjam",
+    "country": "KR",
+    "lat": 36.30029,
+    "lng": 127.31719
+  },
+  {
+    "name": "Jinan-gun",
+    "country": "KR",
+    "lat": 35.79167,
+    "lng": 127.42528
+  },
+  {
+    "name": "Jido",
+    "country": "KR",
+    "lat": 35.06132,
+    "lng": 126.20753
+  },
+  {
+    "name": "Jinjeop",
+    "country": "KR",
+    "lat": 37.72722,
+    "lng": 127.18992
+  },
+  {
+    "name": "Jinwol",
+    "country": "KR",
+    "lat": 34.9791,
+    "lng": 127.75807
+  },
+  {
+    "name": "Jinsang",
+    "country": "KR",
+    "lat": 35.02117,
+    "lng": 127.71976
+  },
+  {
+    "name": "Jieznas",
+    "country": "LT",
+    "lat": 54.59937,
+    "lng": 24.17593
+  },
+  {
+    "name": "Jiutepec",
+    "country": "MX",
+    "lat": 18.88139,
+    "lng": -99.17778
+  },
+  {
+    "name": "Jitotol",
+    "country": "MX",
+    "lat": 17.06748,
+    "lng": -92.86022
+  },
+  {
+    "name": "Jiquipilco",
+    "country": "MX",
+    "lat": 19.55644,
+    "lng": -99.60833
+  },
+  {
+    "name": "Jiquipilas",
+    "country": "MX",
+    "lat": 16.66806,
+    "lng": -93.64667
+  },
+  {
+    "name": "Jilotzingo",
+    "country": "MX",
+    "lat": 19.86889,
+    "lng": -99.06194
+  },
+  {
+    "name": "Jilotepec de Molina Enríquez",
+    "country": "MX",
+    "lat": 19.95194,
+    "lng": -99.53278
+  },
+  {
+    "name": "Jilotepec",
+    "country": "MX",
+    "lat": 19.61184,
+    "lng": -96.95169
+  },
+  {
+    "name": "Jicolapa",
+    "country": "MX",
+    "lat": 19.96596,
+    "lng": -97.97345
+  },
+  {
+    "name": "Jicayán de Tovar",
+    "country": "MX",
+    "lat": 17.12716,
+    "lng": -98.23622
+  },
+  {
+    "name": "Jicarero",
+    "country": "MX",
+    "lat": 18.61488,
+    "lng": -99.22344
+  },
+  {
+    "name": "Jiménez",
+    "country": "MX",
+    "lat": 18.16043,
+    "lng": -92.93336
+  },
+  {
+    "name": "Jiquílpan de Juárez",
+    "country": "MX",
+    "lat": 19.99482,
+    "lng": -102.71969
+  },
+  {
+    "name": "Jiquilpan",
+    "country": "MX",
+    "lat": 19.77996,
+    "lng": -103.77711
+  },
+  {
+    "name": "Jiménez del Teul",
+    "country": "MX",
+    "lat": 23.25416,
+    "lng": -103.79856
+  },
+  {
+    "name": "Jiménez",
+    "country": "MX",
+    "lat": 29.06975,
+    "lng": -100.67895
+  },
+  {
+    "name": "Jiménez",
+    "country": "MX",
+    "lat": 25.83134,
+    "lng": -103.35677
+  },
+  {
+    "name": "Jilotlán de los Dolores",
+    "country": "MX",
+    "lat": 19.371,
+    "lng": -103.01941
+  },
+  {
+    "name": "Jitzámuri",
+    "country": "MX",
+    "lat": 26.21546,
+    "lng": -109.26385
+  },
+  {
+    "name": "Jitonhueca",
+    "country": "MX",
+    "lat": 27.06167,
+    "lng": -109.605
+  },
+  {
+    "name": "Jicaltepec Autopan",
+    "country": "MX",
+    "lat": 19.37167,
+    "lng": -99.64083
+  },
+  {
+    "name": "Jicaltepec Cuexcontitlán",
+    "country": "MX",
+    "lat": 19.37306,
+    "lng": -99.6275
+  },
+  {
+    "name": "Jilotzingo",
+    "country": "MX",
+    "lat": 20.0325,
+    "lng": -97.9025
+  },
+  {
+    "name": "Jiquilpan (Estación Bonanza)",
+    "country": "MX",
+    "lat": 15.34194,
+    "lng": -92.7475
+  },
+  {
+    "name": "Jitra",
+    "country": "MY",
+    "lat": 6.26812,
+    "lng": 100.42167
+  },
+  {
+    "name": "Jinjang",
+    "country": "MY",
+    "lat": 3.20881,
+    "lng": 101.65623
+  },
+  {
+    "name": "Jimeta",
+    "country": "NG",
+    "lat": 9.27949,
+    "lng": 12.45819
+  },
+  {
+    "name": "Jikamshi",
+    "country": "NG",
+    "lat": 12.17328,
+    "lng": 7.77424
+  },
+  {
+    "name": "Jibia",
+    "country": "NG",
+    "lat": 13.09378,
+    "lng": 7.22624
+  },
+  {
+    "name": "Jiquilillo",
+    "country": "NI",
+    "lat": 12.74593,
+    "lng": -87.4516
+  },
+  {
+    "name": "Jinotepe",
+    "country": "NI",
+    "lat": 11.84828,
+    "lng": -86.19916
+  },
+  {
+    "name": "Jinotega",
+    "country": "NI",
+    "lat": 13.09103,
+    "lng": -86.00234
+  },
+  {
+    "name": "Jirnsum",
+    "country": "NL",
+    "lat": 53.07753,
+    "lng": 5.79254
+  },
+  {
+    "name": "Jingurudo",
+    "country": "PA",
+    "lat": 7.87747,
+    "lng": -78.08388
+  },
+  {
+    "name": "Jimbe",
+    "country": "PE",
+    "lat": -9.01312,
+    "lng": -78.13776
+  },
+  {
+    "name": "Jilili",
+    "country": "PE",
+    "lat": -4.5827,
+    "lng": -79.79713
+  },
+  {
+    "name": "Jivia",
+    "country": "PE",
+    "lat": -10.02389,
+    "lng": -76.67917
+  },
+  {
+    "name": "Jimenez",
+    "country": "PH",
+    "lat": 8.3365,
+    "lng": 123.8383
+  },
+  {
+    "name": "Jimalalud",
+    "country": "PH",
+    "lat": 9.9797,
+    "lng": 123.1999
+  },
+  {
+    "name": "Jibao-an",
+    "country": "PH",
+    "lat": 10.78333,
+    "lng": 122.5
+  },
+  {
+    "name": "Jiabong",
+    "country": "PH",
+    "lat": 11.7625,
+    "lng": 124.95194
+  },
+  {
+    "name": "Jiwani",
+    "country": "PK",
+    "lat": 25.04852,
+    "lng": 61.74573
+  },
+  {
+    "name": "Jifnā",
+    "country": "PS",
+    "lat": 31.96192,
+    "lng": 35.21338
+  },
+  {
+    "name": "Jinşāfūţ",
+    "country": "PS",
+    "lat": 32.17916,
+    "lng": 35.13038
+  },
+  {
+    "name": "Jiu-Paroșeni",
+    "country": "RO",
+    "lat": 45.36175,
+    "lng": 23.26044
+  },
+  {
+    "name": "Jitia",
+    "country": "RO",
+    "lat": 45.58333,
+    "lng": 26.71667
+  },
+  {
+    "name": "Jirov",
+    "country": "RO",
+    "lat": 44.67098,
+    "lng": 23.08693
+  },
+  {
+    "name": "Jirlău",
+    "country": "RO",
+    "lat": 45.16667,
+    "lng": 27.16667
+  },
+  {
+    "name": "Jina",
+    "country": "RO",
+    "lat": 45.78333,
+    "lng": 23.68333
+  },
+  {
+    "name": "Jimbolia",
+    "country": "RO",
+    "lat": 45.79139,
+    "lng": 20.71722
+  },
+  {
+    "name": "Jilavele",
+    "country": "RO",
+    "lat": 44.76667,
+    "lng": 26.53333
+  },
+  {
+    "name": "Jilava",
+    "country": "RO",
+    "lat": 44.33333,
+    "lng": 26.07806
+  },
+  {
+    "name": "Jijila",
+    "country": "RO",
+    "lat": 45.3,
+    "lng": 28.15
+  },
+  {
+    "name": "Jieni",
+    "country": "RO",
+    "lat": 43.95095,
+    "lng": 24.59349
+  },
+  {
+    "name": "Jidvei",
+    "country": "RO",
+    "lat": 46.21667,
+    "lng": 24.1
+  },
+  {
+    "name": "Jidoștița",
+    "country": "RO",
+    "lat": 44.71582,
+    "lng": 22.59311
+  },
+  {
+    "name": "Jichişu de Jos",
+    "country": "RO",
+    "lat": 47.11667,
+    "lng": 23.8
+  },
+  {
+    "name": "Jibou",
+    "country": "RO",
+    "lat": 47.25896,
+    "lng": 23.25651
+  },
+  {
+    "name": "Jiblea Veche",
+    "country": "RO",
+    "lat": 45.2436,
+    "lng": 24.35163
+  },
+  {
+    "name": "Jibert",
+    "country": "RO",
+    "lat": 46.0,
+    "lng": 25.06667
+  },
+  {
+    "name": "Jiana Veche",
+    "country": "RO",
+    "lat": 44.39083,
+    "lng": 22.66861
+  },
+  {
+    "name": "Jiana",
+    "country": "RO",
+    "lat": 44.40184,
+    "lng": 22.71278
+  },
+  {
+    "name": "Jizan",
+    "country": "SA",
+    "lat": 16.88917,
+    "lng": 42.55111
+  },
+  {
+    "name": "Jilib",
+    "country": "SO",
+    "lat": 0.48829,
+    "lng": 42.78535
+  },
+  {
+    "name": "Jiquilisco",
+    "country": "SV",
+    "lat": 13.31667,
+    "lng": -88.58333
+  },
+  {
+    "name": "Jisr ash Shughūr",
+    "country": "SY",
+    "lat": 35.81418,
+    "lng": 36.31983
+  },
+  {
+    "name": "Jinnīyah",
+    "country": "SY",
+    "lat": 36.31869,
+    "lng": 38.91419
+  },
+  {
+    "name": "Jindayris",
+    "country": "SY",
+    "lat": 36.39496,
+    "lng": 36.6889
+  },
+  {
+    "name": "Jirghatol",
+    "country": "TJ",
+    "lat": 39.21966,
+    "lng": 71.19155
+  },
+  {
+    "name": "Jilikŭl",
+    "country": "TJ",
+    "lat": 37.49167,
+    "lng": 68.53106
+  },
+  {
+    "name": "Jilma",
+    "country": "TN",
+    "lat": 35.27311,
+    "lng": 9.42385
+  },
+  {
+    "name": "Jinhu",
+    "country": "TW",
+    "lat": 24.43944,
+    "lng": 118.42111
+  },
+  {
+    "name": "Jiufen",
+    "country": "TW",
+    "lat": 25.10957,
+    "lng": 121.84424
+  },
+  {
+    "name": "Jincheng",
+    "country": "TW",
+    "lat": 24.43415,
+    "lng": 118.31712
+  },
+  {
+    "name": "Jieshoucun",
+    "country": "TW",
+    "lat": 26.15485,
+    "lng": 119.95159
+  },
+  {
+    "name": "Jinja",
+    "country": "UG",
+    "lat": 0.43902,
+    "lng": 33.20317
+  },
+  {
+    "name": "Jim Thorpe",
+    "country": "US",
+    "lat": 40.87592,
+    "lng": -75.73241
+  },
+  {
+    "name": "Jizzax",
+    "country": "UZ",
+    "lat": 40.13351,
+    "lng": 67.82956
+  },
+  {
+    "name": "Jiḩānah",
+    "country": "YE",
+    "lat": 15.22628,
+    "lng": 44.48244
+  },
+  {
+    "name": "Jiblah",
+    "country": "YE",
+    "lat": 13.92162,
+    "lng": 44.14668
+  },
+  {
+    "name": "Jim Brown",
+    "country": "ZA",
+    "lat": -24.98016,
+    "lng": 31.08813
+  }
+]

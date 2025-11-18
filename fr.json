@@ -1,0 +1,4400 @@
+[
+  {
+    "name": "Frashër",
+    "country": "AL",
+    "lat": 40.36889,
+    "lng": 20.42444
+  },
+  {
+    "name": "Fratar",
+    "country": "AL",
+    "lat": 40.5,
+    "lng": 19.81667
+  },
+  {
+    "name": "Frakulla e Madhe",
+    "country": "AL",
+    "lat": 40.65583,
+    "lng": 19.5025
+  },
+  {
+    "name": "Frías",
+    "country": "AR",
+    "lat": -28.63754,
+    "lng": -65.12873
+  },
+  {
+    "name": "Fray Luis Beltrán",
+    "country": "AR",
+    "lat": -39.31369,
+    "lng": -65.76002
+  },
+  {
+    "name": "Fray Luis A. Beltrán",
+    "country": "AR",
+    "lat": -32.79122,
+    "lng": -60.72819
+  },
+  {
+    "name": "Fraile Pintado",
+    "country": "AR",
+    "lat": -23.94148,
+    "lng": -64.8009
+  },
+  {
+    "name": "Frohsdorf",
+    "country": "AT",
+    "lat": 47.75076,
+    "lng": 16.26383
+  },
+  {
+    "name": "Frohnleiten",
+    "country": "AT",
+    "lat": 47.26667,
+    "lng": 15.31667
+  },
+  {
+    "name": "Fritzens",
+    "country": "AT",
+    "lat": 47.30535,
+    "lng": 11.5895
+  },
+  {
+    "name": "Friesach",
+    "country": "AT",
+    "lat": 46.95528,
+    "lng": 14.40583
+  },
+  {
+    "name": "Friedberg",
+    "country": "AT",
+    "lat": 47.43333,
+    "lng": 16.05
+  },
+  {
+    "name": "Fresach",
+    "country": "AT",
+    "lat": 46.71556,
+    "lng": 13.69083
+  },
+  {
+    "name": "Freistadt",
+    "country": "AT",
+    "lat": 48.51103,
+    "lng": 14.50453
+  },
+  {
+    "name": "Freindorf",
+    "country": "AT",
+    "lat": 48.2257,
+    "lng": 14.2951
+  },
+  {
+    "name": "Freiland bei Deutschlandsberg",
+    "country": "AT",
+    "lat": 46.83333,
+    "lng": 15.13333
+  },
+  {
+    "name": "Freidorf an der Laßnitz",
+    "country": "AT",
+    "lat": 46.81667,
+    "lng": 15.25
+  },
+  {
+    "name": "Fraxern",
+    "country": "AT",
+    "lat": 47.31498,
+    "lng": 9.67391
+  },
+  {
+    "name": "Frauenkirchen",
+    "country": "AT",
+    "lat": 47.83678,
+    "lng": 16.92581
+  },
+  {
+    "name": "Frauenberg",
+    "country": "AT",
+    "lat": 47.42855,
+    "lng": 15.34206
+  },
+  {
+    "name": "Frannach",
+    "country": "AT",
+    "lat": 46.91306,
+    "lng": 15.63361
+  },
+  {
+    "name": "Frankenmarkt",
+    "country": "AT",
+    "lat": 47.98333,
+    "lng": 13.41667
+  },
+  {
+    "name": "Frankenfels",
+    "country": "AT",
+    "lat": 47.98234,
+    "lng": 15.32593
+  },
+  {
+    "name": "Frankenburg",
+    "country": "AT",
+    "lat": 48.06844,
+    "lng": 13.49065
+  },
+  {
+    "name": "Frauenstein",
+    "country": "AT",
+    "lat": 46.81417,
+    "lng": 14.29417
+  },
+  {
+    "name": "Frastanz",
+    "country": "AT",
+    "lat": 47.21735,
+    "lng": 9.62995
+  },
+  {
+    "name": "Fresen",
+    "country": "AT",
+    "lat": 46.70516,
+    "lng": 14.04513
+  },
+  {
+    "name": "Fremantle",
+    "country": "AU",
+    "lat": -32.05632,
+    "lng": 115.74557
+  },
+  {
+    "name": "Freeling",
+    "country": "AU",
+    "lat": -34.45407,
+    "lng": 138.80868
+  },
+  {
+    "name": "Freshwater",
+    "country": "AU",
+    "lat": -16.88333,
+    "lng": 145.71667
+  },
+  {
+    "name": "Frederickton",
+    "country": "AU",
+    "lat": -31.03749,
+    "lng": 152.8753
+  },
+  {
+    "name": "Frankston East",
+    "country": "AU",
+    "lat": -38.13333,
+    "lng": 145.13333
+  },
+  {
+    "name": "Frankston",
+    "country": "AU",
+    "lat": -38.14458,
+    "lng": 145.12291
+  },
+  {
+    "name": "Franklin",
+    "country": "AU",
+    "lat": -43.08884,
+    "lng": 147.00906
+  },
+  {
+    "name": "Freshwater",
+    "country": "AU",
+    "lat": -33.77867,
+    "lng": 151.28569
+  },
+  {
+    "name": "Freemans Reach",
+    "country": "AU",
+    "lat": -33.55794,
+    "lng": 150.79553
+  },
+  {
+    "name": "Frenchs Forest",
+    "country": "AU",
+    "lat": -33.74821,
+    "lng": 151.22322
+  },
+  {
+    "name": "Fraser",
+    "country": "AU",
+    "lat": -35.1917,
+    "lng": 149.04534
+  },
+  {
+    "name": "Frenchville",
+    "country": "AU",
+    "lat": -23.34761,
+    "lng": 150.5445
+  },
+  {
+    "name": "Franklin",
+    "country": "AU",
+    "lat": -35.19946,
+    "lng": 149.14329
+  },
+  {
+    "name": "Frankston North",
+    "country": "AU",
+    "lat": -38.12352,
+    "lng": 145.14836
+  },
+  {
+    "name": "Frankston South",
+    "country": "AU",
+    "lat": -38.16604,
+    "lng": 145.13643
+  },
+  {
+    "name": "Froyennes",
+    "country": "BE",
+    "lat": 50.62185,
+    "lng": 3.35456
+  },
+  {
+    "name": "Froidchapelle",
+    "country": "BE",
+    "lat": 50.15106,
+    "lng": 4.32742
+  },
+  {
+    "name": "Frasnes-lez-Gosselies",
+    "country": "BE",
+    "lat": 50.53838,
+    "lng": 4.45232
+  },
+  {
+    "name": "Frasnes-lez-Buissenal",
+    "country": "BE",
+    "lat": 50.66783,
+    "lng": 3.62047
+  },
+  {
+    "name": "Frasnes",
+    "country": "BE",
+    "lat": 50.08022,
+    "lng": 4.51384
+  },
+  {
+    "name": "Franière",
+    "country": "BE",
+    "lat": 50.43657,
+    "lng": 4.73219
+  },
+  {
+    "name": "Francorchamps",
+    "country": "BE",
+    "lat": 50.45353,
+    "lng": 5.95276
+  },
+  {
+    "name": "Frameries",
+    "country": "BE",
+    "lat": 50.40578,
+    "lng": 3.89603
+  },
+  {
+    "name": "Fraire",
+    "country": "BE",
+    "lat": 50.26127,
+    "lng": 4.5076
+  },
+  {
+    "name": "Fraipont",
+    "country": "BE",
+    "lat": 50.56519,
+    "lng": 5.72225
+  },
+  {
+    "name": "Frutuoso Gomes",
+    "country": "BR",
+    "lat": -6.15964,
+    "lng": -37.84218
+  },
+  {
+    "name": "Fronteiras",
+    "country": "BR",
+    "lat": -7.08806,
+    "lng": -40.61639
+  },
+  {
+    "name": "Frei Miguelinho",
+    "country": "BR",
+    "lat": -7.93972,
+    "lng": -35.91222
+  },
+  {
+    "name": "Frei Martinho",
+    "country": "BR",
+    "lat": -6.40306,
+    "lng": -36.45556
+  },
+  {
+    "name": "Frecheirinha",
+    "country": "BR",
+    "lat": -3.76,
+    "lng": -40.81639
+  },
+  {
+    "name": "Francisco Santos",
+    "country": "BR",
+    "lat": -6.99278,
+    "lng": -41.13778
+  },
+  {
+    "name": "Francisco Dantas",
+    "country": "BR",
+    "lat": -6.08884,
+    "lng": -38.12346
+  },
+  {
+    "name": "Francisco Ayres",
+    "country": "BR",
+    "lat": -6.62306,
+    "lng": -42.69278
+  },
+  {
+    "name": "Francinópolis",
+    "country": "BR",
+    "lat": -6.39583,
+    "lng": -42.26194
+  },
+  {
+    "name": "Fronteira dos Vales",
+    "country": "BR",
+    "lat": -16.88975,
+    "lng": -40.92532
+  },
+  {
+    "name": "Freguesia do Ó",
+    "country": "BR",
+    "lat": -23.49877,
+    "lng": -46.69983
+  },
+  {
+    "name": "Frutal",
+    "country": "BR",
+    "lat": -20.02472,
+    "lng": -48.94056
+  },
+  {
+    "name": "Fruta de Leite",
+    "country": "BR",
+    "lat": -16.11695,
+    "lng": -42.52811
+  },
+  {
+    "name": "Frei Rogério",
+    "country": "BR",
+    "lat": -27.17472,
+    "lng": -50.80472
+  },
+  {
+    "name": "Frei Paulo",
+    "country": "BR",
+    "lat": -10.54944,
+    "lng": -37.53444
+  },
+  {
+    "name": "Frei Inocêncio",
+    "country": "BR",
+    "lat": -18.56472,
+    "lng": -41.91444
+  },
+  {
+    "name": "Frei Gaspar",
+    "country": "BR",
+    "lat": -18.06611,
+    "lng": -41.42944
+  },
+  {
+    "name": "Frederico Westphalen",
+    "country": "BR",
+    "lat": -27.35917,
+    "lng": -53.39444
+  },
+  {
+    "name": "Franco da Rocha",
+    "country": "BR",
+    "lat": -23.32167,
+    "lng": -46.72694
+  },
+  {
+    "name": "Francisco Sá",
+    "country": "BR",
+    "lat": -16.47583,
+    "lng": -43.48833
+  },
+  {
+    "name": "Francisco Morato",
+    "country": "BR",
+    "lat": -23.28167,
+    "lng": -46.74528
+  },
+  {
+    "name": "Francisco Beltrão",
+    "country": "BR",
+    "lat": -26.08111,
+    "lng": -53.055
+  },
+  {
+    "name": "Francisco Badaró",
+    "country": "BR",
+    "lat": -16.9925,
+    "lng": -42.35194
+  },
+  {
+    "name": "Francisco Alves",
+    "country": "BR",
+    "lat": -24.06583,
+    "lng": -53.84778
+  },
+  {
+    "name": "Franca",
+    "country": "BR",
+    "lat": -20.53861,
+    "lng": -47.40083
+  },
+  {
+    "name": "Fraiburgo",
+    "country": "BR",
+    "lat": -27.02611,
+    "lng": -50.92139
+  },
+  {
+    "name": "Francisco Dumont",
+    "country": "BR",
+    "lat": -17.315,
+    "lng": -44.23417
+  },
+  {
+    "name": "Francisco Macedo",
+    "country": "BR",
+    "lat": -7.33056,
+    "lng": -40.78833
+  },
+  {
+    "name": "Franciscópolis",
+    "country": "BR",
+    "lat": -17.95972,
+    "lng": -42.00861
+  },
+  {
+    "name": "Frei Lagonegro",
+    "country": "BR",
+    "lat": -18.16778,
+    "lng": -42.76611
+  },
+  {
+    "name": "Fronteira",
+    "country": "BR",
+    "lat": -20.26778,
+    "lng": -49.19944
+  },
+  {
+    "name": "Freguesia do Ribeirao da Ilha",
+    "country": "BR",
+    "lat": -27.71773,
+    "lng": -48.56266
+  },
+  {
+    "name": "Freeport",
+    "country": "BS",
+    "lat": 26.53333,
+    "lng": -78.7
+  },
+  {
+    "name": "Freetown",
+    "country": "BS",
+    "lat": 24.77894,
+    "lng": -76.27705
+  },
+  {
+    "name": "Francistown",
+    "country": "BW",
+    "lat": -21.17,
+    "lng": 27.50778
+  },
+  {
+    "name": "Franklin",
+    "country": "CA",
+    "lat": 45.03338,
+    "lng": -73.91591
+  },
+  {
+    "name": "Fraser Heights",
+    "country": "CA",
+    "lat": 49.2,
+    "lng": -122.78333
+  },
+  {
+    "name": "Fredericton",
+    "country": "CA",
+    "lat": 45.94541,
+    "lng": -66.66558
+  },
+  {
+    "name": "French Creek",
+    "country": "CA",
+    "lat": 49.34123,
+    "lng": -124.35541
+  },
+  {
+    "name": "Fruitvale",
+    "country": "CA",
+    "lat": 49.11654,
+    "lng": -117.55222
+  },
+  {
+    "name": "Frutigen",
+    "country": "CH",
+    "lat": 46.58723,
+    "lng": 7.64945
+  },
+  {
+    "name": "Froideville",
+    "country": "CH",
+    "lat": 46.60123,
+    "lng": 6.68085
+  },
+  {
+    "name": "Frick",
+    "country": "CH",
+    "lat": 47.51169,
+    "lng": 8.02471
+  },
+  {
+    "name": "Fribourg",
+    "country": "CH",
+    "lat": 46.80237,
+    "lng": 7.15128
+  },
+  {
+    "name": "Frenkendorf",
+    "country": "CH",
+    "lat": 47.50686,
+    "lng": 7.71648
+  },
+  {
+    "name": "Freienbach",
+    "country": "CH",
+    "lat": 47.20534,
+    "lng": 8.75842
+  },
+  {
+    "name": "Frauenkappelen",
+    "country": "CH",
+    "lat": 46.95425,
+    "lng": 7.33835
+  },
+  {
+    "name": "Frauenfeld",
+    "country": "CH",
+    "lat": 47.55776,
+    "lng": 8.89893
+  },
+  {
+    "name": "Fraubrunnen",
+    "country": "CH",
+    "lat": 47.0862,
+    "lng": 7.52727
+  },
+  {
+    "name": "Freienstein",
+    "country": "CH",
+    "lat": 47.53307,
+    "lng": 8.58455
+  },
+  {
+    "name": "Frototou",
+    "country": "CI",
+    "lat": 8.59644,
+    "lng": -6.61095
+  },
+  {
+    "name": "Fronobo",
+    "country": "CI",
+    "lat": 6.70865,
+    "lng": -4.37941
+  },
+  {
+    "name": "Fresco",
+    "country": "CI",
+    "lat": 5.08226,
+    "lng": -5.56938
+  },
+  {
+    "name": "Fransobli",
+    "country": "CI",
+    "lat": 7.52986,
+    "lng": -7.24973
+  },
+  {
+    "name": "Frambo",
+    "country": "CI",
+    "lat": 5.12696,
+    "lng": -2.96074
+  },
+  {
+    "name": "Fronan",
+    "country": "CI",
+    "lat": 8.21494,
+    "lng": -5.12549
+  },
+  {
+    "name": "Freire",
+    "country": "CL",
+    "lat": -38.95252,
+    "lng": -72.62653
+  },
+  {
+    "name": "Frontino",
+    "country": "CO",
+    "lat": 6.77133,
+    "lng": -76.13324
+  },
+  {
+    "name": "Frías",
+    "country": "CO",
+    "lat": 5.02973,
+    "lng": -75.0086
+  },
+  {
+    "name": "Fresno",
+    "country": "CO",
+    "lat": 5.15264,
+    "lng": -75.03624
+  },
+  {
+    "name": "Fredonia",
+    "country": "CO",
+    "lat": 5.92583,
+    "lng": -75.67056
+  },
+  {
+    "name": "Frénaros",
+    "country": "CY",
+    "lat": 35.04121,
+    "lng": 33.92242
+  },
+  {
+    "name": "Fryšták",
+    "country": "CZ",
+    "lat": 49.2852,
+    "lng": 17.68346
+  },
+  {
+    "name": "Frymburk",
+    "country": "CZ",
+    "lat": 48.66094,
+    "lng": 14.16564
+  },
+  {
+    "name": "Frýdlant nad Ostravicí",
+    "country": "CZ",
+    "lat": 49.5928,
+    "lng": 18.35967
+  },
+  {
+    "name": "Frýdlant",
+    "country": "CZ",
+    "lat": 50.92139,
+    "lng": 15.07974
+  },
+  {
+    "name": "Frýdek-Místek",
+    "country": "CZ",
+    "lat": 49.68333,
+    "lng": 18.35
+  },
+  {
+    "name": "Fryčovice",
+    "country": "CZ",
+    "lat": 49.66677,
+    "lng": 18.22321
+  },
+  {
+    "name": "Frenštát pod Radhoštěm",
+    "country": "CZ",
+    "lat": 49.54835,
+    "lng": 18.21078
+  },
+  {
+    "name": "Františkovy Lázně",
+    "country": "CZ",
+    "lat": 50.12033,
+    "lng": 12.35174
+  },
+  {
+    "name": "Francova Lhota",
+    "country": "CZ",
+    "lat": 49.20174,
+    "lng": 18.11175
+  },
+  {
+    "name": "Frose",
+    "country": "DE",
+    "lat": 51.79581,
+    "lng": 11.37914
+  },
+  {
+    "name": "Frontenhausen",
+    "country": "DE",
+    "lat": 48.54628,
+    "lng": 12.53118
+  },
+  {
+    "name": "Fronhausen",
+    "country": "DE",
+    "lat": 50.7,
+    "lng": 8.7
+  },
+  {
+    "name": "Fröndenberg",
+    "country": "DE",
+    "lat": 51.47563,
+    "lng": 7.76946
+  },
+  {
+    "name": "Frohnau",
+    "country": "DE",
+    "lat": 52.63336,
+    "lng": 13.29024
+  },
+  {
+    "name": "Frohburg",
+    "country": "DE",
+    "lat": 51.05719,
+    "lng": 12.55746
+  },
+  {
+    "name": "Fritzlar",
+    "country": "DE",
+    "lat": 51.13181,
+    "lng": 9.27557
+  },
+  {
+    "name": "Frittlingen",
+    "country": "DE",
+    "lat": 48.12709,
+    "lng": 8.70774
+  },
+  {
+    "name": "Friolzheim",
+    "country": "DE",
+    "lat": 48.83333,
+    "lng": 8.83333
+  },
+  {
+    "name": "Friesoythe",
+    "country": "DE",
+    "lat": 53.0226,
+    "lng": 7.85764
+  },
+  {
+    "name": "Friesenried",
+    "country": "DE",
+    "lat": 47.87477,
+    "lng": 10.53464
+  },
+  {
+    "name": "Friesenhagen",
+    "country": "DE",
+    "lat": 50.90377,
+    "lng": 7.80961
+  },
+  {
+    "name": "Friesdorf",
+    "country": "DE",
+    "lat": 50.69608,
+    "lng": 7.12874
+  },
+  {
+    "name": "Friesack",
+    "country": "DE",
+    "lat": 52.73764,
+    "lng": 12.57969
+  },
+  {
+    "name": "Friemar",
+    "country": "DE",
+    "lat": 50.97702,
+    "lng": 10.78851
+  },
+  {
+    "name": "Frielendorf",
+    "country": "DE",
+    "lat": 50.97073,
+    "lng": 9.32269
+  },
+  {
+    "name": "Friedrichsthal",
+    "country": "DE",
+    "lat": 49.32786,
+    "lng": 7.09622
+  },
+  {
+    "name": "Friedrichstadt",
+    "country": "DE",
+    "lat": 51.88751,
+    "lng": 12.66947
+  },
+  {
+    "name": "Friedrichstadt",
+    "country": "DE",
+    "lat": 54.37566,
+    "lng": 9.08672
+  },
+  {
+    "name": "Friedrichstadt",
+    "country": "DE",
+    "lat": 51.06047,
+    "lng": 13.70787
+  },
+  {
+    "name": "Friedrichsort",
+    "country": "DE",
+    "lat": 54.394,
+    "lng": 10.176
+  },
+  {
+    "name": "Friedrichskoog",
+    "country": "DE",
+    "lat": 54.00854,
+    "lng": 8.88467
+  },
+  {
+    "name": "Friedrichshain",
+    "country": "DE",
+    "lat": 52.51559,
+    "lng": 13.45482
+  },
+  {
+    "name": "Friedrichshagen",
+    "country": "DE",
+    "lat": 52.45052,
+    "lng": 13.62463
+  },
+  {
+    "name": "Friedrichshafen",
+    "country": "DE",
+    "lat": 47.65689,
+    "lng": 9.47554
+  },
+  {
+    "name": "Friedrichsfelde",
+    "country": "DE",
+    "lat": 52.50575,
+    "lng": 13.50812
+  },
+  {
+    "name": "Friedrichsdorf",
+    "country": "DE",
+    "lat": 50.24962,
+    "lng": 8.64281
+  },
+  {
+    "name": "Friedrichsbrunn",
+    "country": "DE",
+    "lat": 51.69028,
+    "lng": 11.03737
+  },
+  {
+    "name": "Friedrichroda",
+    "country": "DE",
+    "lat": 50.85754,
+    "lng": 10.56507
+  },
+  {
+    "name": "Friedland",
+    "country": "DE",
+    "lat": 53.672,
+    "lng": 13.5506
+  },
+  {
+    "name": "Friedland",
+    "country": "DE",
+    "lat": 52.10493,
+    "lng": 14.26399
+  },
+  {
+    "name": "Friedewald",
+    "country": "DE",
+    "lat": 50.88333,
+    "lng": 9.86667
+  },
+  {
+    "name": "Friedewald",
+    "country": "DE",
+    "lat": 50.71106,
+    "lng": 7.9604
+  },
+  {
+    "name": "Friedersdorf",
+    "country": "DE",
+    "lat": 51.64809,
+    "lng": 12.36555
+  },
+  {
+    "name": "Friedersdorf",
+    "country": "DE",
+    "lat": 51.02416,
+    "lng": 14.56246
+  },
+  {
+    "name": "Friedenweiler",
+    "country": "DE",
+    "lat": 47.91778,
+    "lng": 8.25627
+  },
+  {
+    "name": "Friedenfels",
+    "country": "DE",
+    "lat": 49.8826,
+    "lng": 12.10124
+  },
+  {
+    "name": "Friedenau",
+    "country": "DE",
+    "lat": 52.47133,
+    "lng": 13.32813
+  },
+  {
+    "name": "Friedelsheim",
+    "country": "DE",
+    "lat": 49.44694,
+    "lng": 8.22306
+  },
+  {
+    "name": "Friedeburg",
+    "country": "DE",
+    "lat": 53.45362,
+    "lng": 7.83146
+  },
+  {
+    "name": "Friedberg",
+    "country": "DE",
+    "lat": 50.33739,
+    "lng": 8.75591
+  },
+  {
+    "name": "Friedberg",
+    "country": "DE",
+    "lat": 48.35693,
+    "lng": 10.98461
+  },
+  {
+    "name": "Fridolfing",
+    "country": "DE",
+    "lat": 47.99773,
+    "lng": 12.82628
+  },
+  {
+    "name": "Fridingen an der Donau",
+    "country": "DE",
+    "lat": 48.01955,
+    "lng": 8.92322
+  },
+  {
+    "name": "Frickingen",
+    "country": "DE",
+    "lat": 47.81438,
+    "lng": 9.27349
+  },
+  {
+    "name": "Frickenhausen",
+    "country": "DE",
+    "lat": 49.67089,
+    "lng": 10.09268
+  },
+  {
+    "name": "Frickenhausen",
+    "country": "DE",
+    "lat": 48.59353,
+    "lng": 9.36005
+  },
+  {
+    "name": "Freyung",
+    "country": "DE",
+    "lat": 48.80952,
+    "lng": 13.54768
+  },
+  {
+    "name": "Freystadt",
+    "country": "DE",
+    "lat": 49.20007,
+    "lng": 11.33032
+  },
+  {
+    "name": "Freyburg",
+    "country": "DE",
+    "lat": 51.21362,
+    "lng": 11.76804
+  },
+  {
+    "name": "Freudental",
+    "country": "DE",
+    "lat": 49.00972,
+    "lng": 9.05917
+  },
+  {
+    "name": "Freudenstadt",
+    "country": "DE",
+    "lat": 48.46695,
+    "lng": 8.41371
+  },
+  {
+    "name": "Freudenburg",
+    "country": "DE",
+    "lat": 49.54348,
+    "lng": 6.53292
+  },
+  {
+    "name": "Freudenberg",
+    "country": "DE",
+    "lat": 50.89741,
+    "lng": 7.87415
+  },
+  {
+    "name": "Freudenberg",
+    "country": "DE",
+    "lat": 49.75349,
+    "lng": 9.32748
+  },
+  {
+    "name": "Freudenberg",
+    "country": "DE",
+    "lat": 49.48333,
+    "lng": 11.98333
+  },
+  {
+    "name": "Freren",
+    "country": "DE",
+    "lat": 52.487,
+    "lng": 7.54313
+  },
+  {
+    "name": "Frensdorf",
+    "country": "DE",
+    "lat": 49.81667,
+    "lng": 10.86667
+  },
+  {
+    "name": "Fremdingen",
+    "country": "DE",
+    "lat": 48.97241,
+    "lng": 10.45754
+  },
+  {
+    "name": "Freital",
+    "country": "DE",
+    "lat": 51.00166,
+    "lng": 13.6488
+  },
+  {
+    "name": "Freising",
+    "country": "DE",
+    "lat": 48.40351,
+    "lng": 11.74876
+  },
+  {
+    "name": "Freisen",
+    "country": "DE",
+    "lat": 49.55,
+    "lng": 7.25
+  },
+  {
+    "name": "Freisbach",
+    "country": "DE",
+    "lat": 49.27167,
+    "lng": 8.27194
+  },
+  {
+    "name": "Freinsheim",
+    "country": "DE",
+    "lat": 49.50649,
+    "lng": 8.21186
+  },
+  {
+    "name": "Frei-Laubersheim",
+    "country": "DE",
+    "lat": 49.8,
+    "lng": 7.9
+  },
+  {
+    "name": "Freilassing",
+    "country": "DE",
+    "lat": 47.84085,
+    "lng": 12.98114
+  },
+  {
+    "name": "Freihung",
+    "country": "DE",
+    "lat": 49.62134,
+    "lng": 11.90817
+  },
+  {
+    "name": "Freienwill",
+    "country": "DE",
+    "lat": 54.72752,
+    "lng": 9.49414
+  },
+  {
+    "name": "Freiensteinau",
+    "country": "DE",
+    "lat": 50.42509,
+    "lng": 9.40267
+  },
+  {
+    "name": "Freienbessingen",
+    "country": "DE",
+    "lat": 51.23333,
+    "lng": 10.76667
+  },
+  {
+    "name": "Freiburg",
+    "country": "DE",
+    "lat": 47.9959,
+    "lng": 7.85222
+  },
+  {
+    "name": "Freiburg (Elbe) Flecken",
+    "country": "DE",
+    "lat": 53.82491,
+    "lng": 9.28798
+  },
+  {
+    "name": "Freiberg am Neckar",
+    "country": "DE",
+    "lat": 48.93196,
+    "lng": 9.2024
+  },
+  {
+    "name": "Freiberg",
+    "country": "DE",
+    "lat": 50.91089,
+    "lng": 13.33881
+  },
+  {
+    "name": "Freden",
+    "country": "DE",
+    "lat": 51.92771,
+    "lng": 9.8935
+  },
+  {
+    "name": "Freckenfeld",
+    "country": "DE",
+    "lat": 49.065,
+    "lng": 8.11389
+  },
+  {
+    "name": "Frechen",
+    "country": "DE",
+    "lat": 50.91485,
+    "lng": 6.8118
+  },
+  {
+    "name": "Fraureuth",
+    "country": "DE",
+    "lat": 50.7,
+    "lng": 12.35
+  },
+  {
+    "name": "Fraunberg",
+    "country": "DE",
+    "lat": 48.36667,
+    "lng": 12.0
+  },
+  {
+    "name": "Frauenwald",
+    "country": "DE",
+    "lat": 50.5843,
+    "lng": 10.85841
+  },
+  {
+    "name": "Frauenstein",
+    "country": "DE",
+    "lat": 50.80279,
+    "lng": 13.5379
+  },
+  {
+    "name": "Frauenprießnitz",
+    "country": "DE",
+    "lat": 51.01667,
+    "lng": 11.73333
+  },
+  {
+    "name": "Frauenneuharting",
+    "country": "DE",
+    "lat": 48.03873,
+    "lng": 12.0478
+  },
+  {
+    "name": "Frauenau",
+    "country": "DE",
+    "lat": 48.98895,
+    "lng": 13.30067
+  },
+  {
+    "name": "Frasdorf",
+    "country": "DE",
+    "lat": 47.80376,
+    "lng": 12.28512
+  },
+  {
+    "name": "Franzburg",
+    "country": "DE",
+    "lat": 54.18559,
+    "lng": 12.88235
+  },
+  {
+    "name": "Frankleben",
+    "country": "DE",
+    "lat": 51.31144,
+    "lng": 11.92932
+  },
+  {
+    "name": "Fränkisch-Crumbach",
+    "country": "DE",
+    "lat": 49.74611,
+    "lng": 8.85861
+  },
+  {
+    "name": "Frankfurt am Main",
+    "country": "DE",
+    "lat": 50.11552,
+    "lng": 8.68417
+  },
+  {
+    "name": "Frankfurt (Oder)",
+    "country": "DE",
+    "lat": 52.34714,
+    "lng": 14.55062
+  },
+  {
+    "name": "Frankenthal",
+    "country": "DE",
+    "lat": 51.13129,
+    "lng": 14.10893
+  },
+  {
+    "name": "Frankenthal",
+    "country": "DE",
+    "lat": 49.53414,
+    "lng": 8.35357
+  },
+  {
+    "name": "Frankenstein",
+    "country": "DE",
+    "lat": 50.90064,
+    "lng": 13.20933
+  },
+  {
+    "name": "Frankenstein",
+    "country": "DE",
+    "lat": 49.44015,
+    "lng": 7.97744
+  },
+  {
+    "name": "Frankenheim",
+    "country": "DE",
+    "lat": 50.54452,
+    "lng": 10.06828
+  },
+  {
+    "name": "Frankenberg",
+    "country": "DE",
+    "lat": 51.0589,
+    "lng": 8.80077
+  },
+  {
+    "name": "Frankenberg",
+    "country": "DE",
+    "lat": 50.91297,
+    "lng": 13.04011
+  },
+  {
+    "name": "Frankenau",
+    "country": "DE",
+    "lat": 51.09269,
+    "lng": 8.93447
+  },
+  {
+    "name": "Frammersbach",
+    "country": "DE",
+    "lat": 50.06468,
+    "lng": 9.46888
+  },
+  {
+    "name": "Framersheim",
+    "country": "DE",
+    "lat": 49.75806,
+    "lng": 8.17417
+  },
+  {
+    "name": "Französisch Buchholz",
+    "country": "DE",
+    "lat": 52.60242,
+    "lng": 13.43019
+  },
+  {
+    "name": "Friedland",
+    "country": "DE",
+    "lat": 51.41917,
+    "lng": 9.91762
+  },
+  {
+    "name": "Fronreute",
+    "country": "DE",
+    "lat": 47.87053,
+    "lng": 9.56944
+  },
+  {
+    "name": "Frejlev",
+    "country": "DK",
+    "lat": 57.00623,
+    "lng": 9.81711
+  },
+  {
+    "name": "Frederiksværk",
+    "country": "DK",
+    "lat": 55.97073,
+    "lng": 12.0225
+  },
+  {
+    "name": "Frederikssund",
+    "country": "DK",
+    "lat": 55.83956,
+    "lng": 12.06896
+  },
+  {
+    "name": "Frederikshavn",
+    "country": "DK",
+    "lat": 57.44073,
+    "lng": 10.53661
+  },
+  {
+    "name": "Frederiksberg",
+    "country": "DK",
+    "lat": 55.67938,
+    "lng": 12.53463
+  },
+  {
+    "name": "Frederiksberg",
+    "country": "DK",
+    "lat": 55.41618,
+    "lng": 11.56934
+  },
+  {
+    "name": "Fredericia",
+    "country": "DK",
+    "lat": 55.56568,
+    "lng": 9.75257
+  },
+  {
+    "name": "Fredensborg",
+    "country": "DK",
+    "lat": 55.97558,
+    "lng": 12.40314
+  },
+  {
+    "name": "Framlev",
+    "country": "DK",
+    "lat": 56.15664,
+    "lng": 10.01318
+  },
+  {
+    "name": "Frenda",
+    "country": "DZ",
+    "lat": 35.06544,
+    "lng": 1.04945
+  },
+  {
+    "name": "Freha",
+    "country": "DZ",
+    "lat": 36.75234,
+    "lng": 4.3155
+  },
+  {
+    "name": "Frontera",
+    "country": "ES",
+    "lat": 27.75404,
+    "lng": -18.00367
+  },
+  {
+    "name": "Frigiliana",
+    "country": "ES",
+    "lat": 36.78747,
+    "lng": -3.89441
+  },
+  {
+    "name": "Fresnedoso de Ibor",
+    "country": "ES",
+    "lat": 39.68418,
+    "lng": -5.50899
+  },
+  {
+    "name": "Fresneda de Altarejos",
+    "country": "ES",
+    "lat": 39.92577,
+    "lng": -2.31498
+  },
+  {
+    "name": "Freila",
+    "country": "ES",
+    "lat": 37.5299,
+    "lng": -2.90828
+  },
+  {
+    "name": "Fregenal de la Sierra",
+    "country": "ES",
+    "lat": 38.16922,
+    "lng": -6.6537
+  },
+  {
+    "name": "Frailes",
+    "country": "ES",
+    "lat": 37.48617,
+    "lng": -3.83743
+  },
+  {
+    "name": "Frumales",
+    "country": "ES",
+    "lat": 41.38333,
+    "lng": -4.18631
+  },
+  {
+    "name": "Frómista",
+    "country": "ES",
+    "lat": 42.26667,
+    "lng": -4.40546
+  },
+  {
+    "name": "Friol",
+    "country": "ES",
+    "lat": 43.03213,
+    "lng": -7.79514
+  },
+  {
+    "name": "Friera de Valverde",
+    "country": "ES",
+    "lat": 41.91214,
+    "lng": -5.84153
+  },
+  {
+    "name": "Frías de Albarracín",
+    "country": "ES",
+    "lat": 40.33754,
+    "lng": -1.6147
+  },
+  {
+    "name": "Frías",
+    "country": "ES",
+    "lat": 42.76225,
+    "lng": -3.29394
+  },
+  {
+    "name": "Fresno El Viejo",
+    "country": "ES",
+    "lat": 41.19752,
+    "lng": -5.14413
+  },
+  {
+    "name": "Fresno de Torote",
+    "country": "ES",
+    "lat": 40.5904,
+    "lng": -3.41003
+  },
+  {
+    "name": "Fresno de Sayago",
+    "country": "ES",
+    "lat": 41.31848,
+    "lng": -5.97129
+  },
+  {
+    "name": "Fresno de Rodilla",
+    "country": "ES",
+    "lat": 42.42054,
+    "lng": -3.48507
+  },
+  {
+    "name": "Fresno del Río",
+    "country": "ES",
+    "lat": 42.68176,
+    "lng": -4.81734
+  },
+  {
+    "name": "Fresno de la Vega",
+    "country": "ES",
+    "lat": 42.34545,
+    "lng": -5.53587
+  },
+  {
+    "name": "Fresno de la Ribera",
+    "country": "ES",
+    "lat": 41.52926,
+    "lng": -5.56658
+  },
+  {
+    "name": "Fresno de la Polvorosa",
+    "country": "ES",
+    "lat": 42.0831,
+    "lng": -5.76969
+  },
+  {
+    "name": "Fresno de la Fuente",
+    "country": "ES",
+    "lat": 41.39243,
+    "lng": -3.64491
+  },
+  {
+    "name": "Fresno de Caracena",
+    "country": "ES",
+    "lat": 41.45247,
+    "lng": -3.09123
+  },
+  {
+    "name": "Fresno de Cantespino",
+    "country": "ES",
+    "lat": 41.3682,
+    "lng": -3.4995
+  },
+  {
+    "name": "Fresnillo de las Dueñas",
+    "country": "ES",
+    "lat": 41.647,
+    "lng": -3.64558
+  },
+  {
+    "name": "Fresneña",
+    "country": "ES",
+    "lat": 42.41366,
+    "lng": -3.13453
+  },
+  {
+    "name": "Fresnedoso",
+    "country": "ES",
+    "lat": 40.43619,
+    "lng": -5.70969
+  },
+  {
+    "name": "Fresnedillas",
+    "country": "ES",
+    "lat": 40.48704,
+    "lng": -4.17146
+  },
+  {
+    "name": "Fresnedilla",
+    "country": "ES",
+    "lat": 40.23233,
+    "lng": -4.62201
+  },
+  {
+    "name": "Fresneda de la Sierra Tirón",
+    "country": "ES",
+    "lat": 42.31535,
+    "lng": -3.13596
+  },
+  {
+    "name": "Fresneda de la Sierra",
+    "country": "ES",
+    "lat": 40.39101,
+    "lng": -2.14233
+  },
+  {
+    "name": "Fresneda de Cuéllar",
+    "country": "ES",
+    "lat": 41.31905,
+    "lng": -4.44938
+  },
+  {
+    "name": "Fréscano",
+    "country": "ES",
+    "lat": 41.88333,
+    "lng": -1.45
+  },
+  {
+    "name": "Frechilla de Almazán",
+    "country": "ES",
+    "lat": 41.42656,
+    "lng": -2.51444
+  },
+  {
+    "name": "Frechilla",
+    "country": "ES",
+    "lat": 42.13768,
+    "lng": -4.84112
+  },
+  {
+    "name": "Frandovínez",
+    "country": "ES",
+    "lat": 42.31032,
+    "lng": -3.83783
+  },
+  {
+    "name": "Fraga",
+    "country": "ES",
+    "lat": 41.52294,
+    "lng": 0.34894
+  },
+  {
+    "name": "Frades de la Sierra",
+    "country": "ES",
+    "lat": 40.65687,
+    "lng": -5.78223
+  },
+  {
+    "name": "Frades",
+    "country": "ES",
+    "lat": 43.05011,
+    "lng": -8.29391
+  },
+  {
+    "name": "Fréhel",
+    "country": "FR",
+    "lat": 48.63333,
+    "lng": -2.36667
+  },
+  {
+    "name": "Fruges",
+    "country": "FR",
+    "lat": 50.51501,
+    "lng": 2.13292
+  },
+  {
+    "name": "Frouzins",
+    "country": "FR",
+    "lat": 43.51482,
+    "lng": 1.32523
+  },
+  {
+    "name": "Frouard",
+    "country": "FR",
+    "lat": 48.75994,
+    "lng": 6.13036
+  },
+  {
+    "name": "Frotey-lès-Vesoul",
+    "country": "FR",
+    "lat": 47.62078,
+    "lng": 6.18831
+  },
+  {
+    "name": "Frossay",
+    "country": "FR",
+    "lat": 47.24451,
+    "lng": -1.93557
+  },
+  {
+    "name": "Frontonas",
+    "country": "FR",
+    "lat": 45.64487,
+    "lng": 5.19701
+  },
+  {
+    "name": "Fronton",
+    "country": "FR",
+    "lat": 43.84033,
+    "lng": 1.38852
+  },
+  {
+    "name": "Frontignan",
+    "country": "FR",
+    "lat": 43.44775,
+    "lng": 3.75524
+  },
+  {
+    "name": "Frontenex",
+    "country": "FR",
+    "lat": 45.63335,
+    "lng": 6.31168
+  },
+  {
+    "name": "Frontenay-Rohan-Rohan",
+    "country": "FR",
+    "lat": 46.25276,
+    "lng": -0.53833
+  },
+  {
+    "name": "Fronsac",
+    "country": "FR",
+    "lat": 44.92402,
+    "lng": -0.27226
+  },
+  {
+    "name": "Froncles",
+    "country": "FR",
+    "lat": 48.29756,
+    "lng": 5.14586
+  },
+  {
+    "name": "Fromelennes",
+    "country": "FR",
+    "lat": 50.12333,
+    "lng": 4.85952
+  },
+  {
+    "name": "Froidfond",
+    "country": "FR",
+    "lat": 46.86921,
+    "lng": -1.75908
+  },
+  {
+    "name": "Froideconche",
+    "country": "FR",
+    "lat": 47.82121,
+    "lng": 6.41523
+  },
+  {
+    "name": "Froges",
+    "country": "FR",
+    "lat": 45.27377,
+    "lng": 5.92098
+  },
+  {
+    "name": "Friville-Escarbotin",
+    "country": "FR",
+    "lat": 50.08602,
+    "lng": 1.5456
+  },
+  {
+    "name": "Frignicourt",
+    "country": "FR",
+    "lat": 48.69966,
+    "lng": 4.59153
+  },
+  {
+    "name": "Freyming-Merlebach",
+    "country": "FR",
+    "lat": 49.15,
+    "lng": 6.78333
+  },
+  {
+    "name": "Frévent",
+    "country": "FR",
+    "lat": 50.27608,
+    "lng": 2.28725
+  },
+  {
+    "name": "Fretin",
+    "country": "FR",
+    "lat": 50.55745,
+    "lng": 3.13668
+  },
+  {
+    "name": "Fréthun",
+    "country": "FR",
+    "lat": 50.91729,
+    "lng": 1.82505
+  },
+  {
+    "name": "Fresse-sur-Moselle",
+    "country": "FR",
+    "lat": 47.87589,
+    "lng": 6.78589
+  },
+  {
+    "name": "Fressenneville",
+    "country": "FR",
+    "lat": 50.06838,
+    "lng": 1.57816
+  },
+  {
+    "name": "Fresnoy-le-Grand",
+    "country": "FR",
+    "lat": 49.94757,
+    "lng": 3.41841
+  },
+  {
+    "name": "Fresnes-sur-Escaut",
+    "country": "FR",
+    "lat": 50.43382,
+    "lng": 3.57752
+  },
+  {
+    "name": "Fresnes",
+    "country": "FR",
+    "lat": 48.75568,
+    "lng": 2.32241
+  },
+  {
+    "name": "Fresnay-sur-Sarthe",
+    "country": "FR",
+    "lat": 48.28171,
+    "lng": 0.02148
+  },
+  {
+    "name": "Frépillon",
+    "country": "FR",
+    "lat": 49.05216,
+    "lng": 2.20528
+  },
+  {
+    "name": "Freneuse",
+    "country": "FR",
+    "lat": 49.04832,
+    "lng": 1.60168
+  },
+  {
+    "name": "Frelinghien",
+    "country": "FR",
+    "lat": 50.71667,
+    "lng": 2.93333
+  },
+  {
+    "name": "Fréland",
+    "country": "FR",
+    "lat": 48.17215,
+    "lng": 7.19167
+  },
+  {
+    "name": "Fréjus",
+    "country": "FR",
+    "lat": 43.43325,
+    "lng": 6.73555
+  },
+  {
+    "name": "Fréjairolles",
+    "country": "FR",
+    "lat": 43.88094,
+    "lng": 2.23151
+  },
+  {
+    "name": "Freigné",
+    "country": "FR",
+    "lat": 47.54858,
+    "lng": -1.12274
+  },
+  {
+    "name": "Frasne",
+    "country": "FR",
+    "lat": 46.85641,
+    "lng": 6.1594
+  },
+  {
+    "name": "Frans",
+    "country": "FR",
+    "lat": 45.99291,
+    "lng": 4.7782
+  },
+  {
+    "name": "Franois",
+    "country": "FR",
+    "lat": 47.23055,
+    "lng": 5.92869
+  },
+  {
+    "name": "Frangy",
+    "country": "FR",
+    "lat": 46.02,
+    "lng": 5.9322
+  },
+  {
+    "name": "Franconville",
+    "country": "FR",
+    "lat": 48.98333,
+    "lng": 2.23333
+  },
+  {
+    "name": "Francheville",
+    "country": "FR",
+    "lat": 48.78647,
+    "lng": 0.84962
+  },
+  {
+    "name": "Francheville",
+    "country": "FR",
+    "lat": 45.73637,
+    "lng": 4.76358
+  },
+  {
+    "name": "Francheleins",
+    "country": "FR",
+    "lat": 46.0744,
+    "lng": 4.8092
+  },
+  {
+    "name": "Fraize",
+    "country": "FR",
+    "lat": 48.1866,
+    "lng": 6.99787
+  },
+  {
+    "name": "Fraisses",
+    "country": "FR",
+    "lat": 45.38838,
+    "lng": 4.26373
+  },
+  {
+    "name": "Fraisans",
+    "country": "FR",
+    "lat": 47.14857,
+    "lng": 5.76051
+  },
+  {
+    "name": "Frahier-et-Chatebier",
+    "country": "FR",
+    "lat": 47.66667,
+    "lng": 6.75
+  },
+  {
+    "name": "Franceville",
+    "country": "GA",
+    "lat": -1.63333,
+    "lng": 13.58357
+  },
+  {
+    "name": "Frome",
+    "country": "GB",
+    "lat": 51.22834,
+    "lng": -2.32211
+  },
+  {
+    "name": "Frodsham",
+    "country": "GB",
+    "lat": 53.29485,
+    "lng": -2.72745
+  },
+  {
+    "name": "Frizington",
+    "country": "GB",
+    "lat": 54.54185,
+    "lng": -3.4946
+  },
+  {
+    "name": "Friston",
+    "country": "GB",
+    "lat": 50.76402,
+    "lng": 0.1993
+  },
+  {
+    "name": "Friockheim",
+    "country": "GB",
+    "lat": 56.63688,
+    "lng": -2.66806
+  },
+  {
+    "name": "Frinton-on-Sea",
+    "country": "GB",
+    "lat": 51.83061,
+    "lng": 1.24424
+  },
+  {
+    "name": "Frimley",
+    "country": "GB",
+    "lat": 51.31667,
+    "lng": -0.74544
+  },
+  {
+    "name": "Friern Barnet",
+    "country": "GB",
+    "lat": 51.61328,
+    "lng": -0.15853
+  },
+  {
+    "name": "Freystrop",
+    "country": "GB",
+    "lat": 51.76333,
+    "lng": -4.96028
+  },
+  {
+    "name": "Freuchie",
+    "country": "GB",
+    "lat": 56.24688,
+    "lng": -3.15861
+  },
+  {
+    "name": "Freshwater",
+    "country": "GB",
+    "lat": 50.68365,
+    "lng": -1.52616
+  },
+  {
+    "name": "Freshford",
+    "country": "GB",
+    "lat": 51.33917,
+    "lng": -2.30306
+  },
+  {
+    "name": "Fremington",
+    "country": "GB",
+    "lat": 51.06955,
+    "lng": -4.1366
+  },
+  {
+    "name": "Freckleton",
+    "country": "GB",
+    "lat": 53.75433,
+    "lng": -2.86489
+  },
+  {
+    "name": "Fraserburgh",
+    "country": "GB",
+    "lat": 57.68744,
+    "lng": -2.01844
+  },
+  {
+    "name": "Frampton on Severn",
+    "country": "GB",
+    "lat": 51.77054,
+    "lng": -2.36382
+  },
+  {
+    "name": "Framlingham",
+    "country": "GB",
+    "lat": 52.22117,
+    "lng": 1.34205
+  },
+  {
+    "name": "Frimley Green",
+    "country": "GB",
+    "lat": 51.30599,
+    "lng": -0.73308
+  },
+  {
+    "name": "Frogmore",
+    "country": "GB",
+    "lat": 51.71802,
+    "lng": -0.33485
+  },
+  {
+    "name": "Fria",
+    "country": "GN",
+    "lat": 10.36676,
+    "lng": -13.58253
+  },
+  {
+    "name": "Fry",
+    "country": "GR",
+    "lat": 35.41623,
+    "lng": 26.92328
+  },
+  {
+    "name": "Fraijanes",
+    "country": "GT",
+    "lat": 14.46528,
+    "lng": -90.44083
+  },
+  {
+    "name": "Fray Bartolomé de Las Casas",
+    "country": "GT",
+    "lat": 15.8051,
+    "lng": -89.8605
+  },
+  {
+    "name": "French Harbor",
+    "country": "HN",
+    "lat": 16.35,
+    "lng": -86.43333
+  },
+  {
+    "name": "Francia",
+    "country": "HN",
+    "lat": 15.85,
+    "lng": -85.58333
+  },
+  {
+    "name": "French Rocks",
+    "country": "IN",
+    "lat": 12.50094,
+    "lng": 76.67416
+  },
+  {
+    "name": "Freelandgunj",
+    "country": "IN",
+    "lat": 22.8384,
+    "lng": 74.2363
+  },
+  {
+    "name": "Frazzanò",
+    "country": "IT",
+    "lat": 38.07202,
+    "lng": 14.74407
+  },
+  {
+    "name": "Frascineto",
+    "country": "IT",
+    "lat": 39.83382,
+    "lng": 16.26378
+  },
+  {
+    "name": "Francofonte",
+    "country": "IT",
+    "lat": 37.22477,
+    "lng": 14.87488
+  },
+  {
+    "name": "Francica",
+    "country": "IT",
+    "lat": 38.61697,
+    "lng": 16.10007
+  },
+  {
+    "name": "Francavilla Marittima",
+    "country": "IT",
+    "lat": 39.8161,
+    "lng": 16.39499
+  },
+  {
+    "name": "Francavilla di Sicilia",
+    "country": "IT",
+    "lat": 37.90197,
+    "lng": 15.13821
+  },
+  {
+    "name": "Francavilla Angitola",
+    "country": "IT",
+    "lat": 38.78016,
+    "lng": 16.27228
+  },
+  {
+    "name": "Frugarolo",
+    "country": "IT",
+    "lat": 44.83924,
+    "lng": 8.68165
+  },
+  {
+    "name": "Frosolone",
+    "country": "IT",
+    "lat": 41.60006,
+    "lng": 14.44578
+  },
+  {
+    "name": "Frosinone",
+    "country": "IT",
+    "lat": 41.63976,
+    "lng": 13.34109
+  },
+  {
+    "name": "Frontone",
+    "country": "IT",
+    "lat": 43.51478,
+    "lng": 12.73791
+  },
+  {
+    "name": "Frontino",
+    "country": "IT",
+    "lat": 43.76456,
+    "lng": 12.37675
+  },
+  {
+    "name": "Front",
+    "country": "IT",
+    "lat": 45.27941,
+    "lng": 7.66425
+  },
+  {
+    "name": "Frisanco",
+    "country": "IT",
+    "lat": 46.21246,
+    "lng": 12.72626
+  },
+  {
+    "name": "Frisa",
+    "country": "IT",
+    "lat": 42.26572,
+    "lng": 14.37625
+  },
+  {
+    "name": "Frigento",
+    "country": "IT",
+    "lat": 41.01103,
+    "lng": 15.10026
+  },
+  {
+    "name": "Fresagrandinaria",
+    "country": "IT",
+    "lat": 41.979,
+    "lng": 14.66211
+  },
+  {
+    "name": "Fregona",
+    "country": "IT",
+    "lat": 46.00795,
+    "lng": 12.33864
+  },
+  {
+    "name": "Fregene",
+    "country": "IT",
+    "lat": 41.85051,
+    "lng": 12.19671
+  },
+  {
+    "name": "Fratte",
+    "country": "IT",
+    "lat": 45.58333,
+    "lng": 11.9
+  },
+  {
+    "name": "Fratta Todina",
+    "country": "IT",
+    "lat": 42.85684,
+    "lng": 12.36366
+  },
+  {
+    "name": "Fratta Polesine",
+    "country": "IT",
+    "lat": 45.02819,
+    "lng": 11.64265
+  },
+  {
+    "name": "Frattaminore",
+    "country": "IT",
+    "lat": 40.9558,
+    "lng": 14.27201
+  },
+  {
+    "name": "Frattamaggiore",
+    "country": "IT",
+    "lat": 40.9414,
+    "lng": 14.27588
+  },
+  {
+    "name": "Frasso Telesino",
+    "country": "IT",
+    "lat": 41.15682,
+    "lng": 14.52783
+  },
+  {
+    "name": "Frasso Sabino",
+    "country": "IT",
+    "lat": 42.22927,
+    "lng": 12.80658
+  },
+  {
+    "name": "Frassinoro",
+    "country": "IT",
+    "lat": 44.29451,
+    "lng": 10.57117
+  },
+  {
+    "name": "Frassino",
+    "country": "IT",
+    "lat": 44.57211,
+    "lng": 7.27536
+  },
+  {
+    "name": "Frassinetto",
+    "country": "IT",
+    "lat": 45.43834,
+    "lng": 7.60886
+  },
+  {
+    "name": "Frassineto Po",
+    "country": "IT",
+    "lat": 45.13271,
+    "lng": 8.53525
+  },
+  {
+    "name": "Frassinello Monferrato",
+    "country": "IT",
+    "lat": 45.03322,
+    "lng": 8.38666
+  },
+  {
+    "name": "Frascati",
+    "country": "IT",
+    "lat": 41.8091,
+    "lng": 12.67942
+  },
+  {
+    "name": "Frascaro",
+    "country": "IT",
+    "lat": 44.82575,
+    "lng": 8.53127
+  },
+  {
+    "name": "Francolise",
+    "country": "IT",
+    "lat": 41.18501,
+    "lng": 14.05672
+  },
+  {
+    "name": "Francolino",
+    "country": "IT",
+    "lat": 44.89662,
+    "lng": 11.65701
+  },
+  {
+    "name": "Francavilla in Sinni",
+    "country": "IT",
+    "lat": 40.08142,
+    "lng": 16.20417
+  },
+  {
+    "name": "Francavilla Fontana",
+    "country": "IT",
+    "lat": 40.53123,
+    "lng": 17.58522
+  },
+  {
+    "name": "Francavilla d'Ete",
+    "country": "IT",
+    "lat": 43.18837,
+    "lng": 13.54033
+  },
+  {
+    "name": "Francavilla al Mare",
+    "country": "IT",
+    "lat": 42.42158,
+    "lng": 14.28217
+  },
+  {
+    "name": "Framura",
+    "country": "IT",
+    "lat": 44.20946,
+    "lng": 9.55399
+  },
+  {
+    "name": "Fraine",
+    "country": "IT",
+    "lat": 41.90624,
+    "lng": 14.48788
+  },
+  {
+    "name": "Fragneto Monforte",
+    "country": "IT",
+    "lat": 41.24634,
+    "lng": 14.76342
+  },
+  {
+    "name": "Fragneto L'Abate",
+    "country": "IT",
+    "lat": 41.2558,
+    "lng": 14.78382
+  },
+  {
+    "name": "Fragagnano",
+    "country": "IT",
+    "lat": 40.4302,
+    "lng": 17.47553
+  },
+  {
+    "name": "Frabosa Soprana",
+    "country": "IT",
+    "lat": 44.29094,
+    "lng": 7.80353
+  },
+  {
+    "name": "Francenigo",
+    "country": "IT",
+    "lat": 45.90799,
+    "lng": 12.50347
+  },
+  {
+    "name": "Fratte Rosa",
+    "country": "IT",
+    "lat": 43.63346,
+    "lng": 12.90236
+  },
+  {
+    "name": "Frignano",
+    "country": "IT",
+    "lat": 40.99811,
+    "lng": 14.17913
+  },
+  {
+    "name": "Frazione Chiesa",
+    "country": "IT",
+    "lat": 45.69405,
+    "lng": 8.21228
+  },
+  {
+    "name": "Fraconalto",
+    "country": "IT",
+    "lat": 44.59105,
+    "lng": 8.87846
+  },
+  {
+    "name": "Francavilla Bisio",
+    "country": "IT",
+    "lat": 44.73465,
+    "lng": 8.73125
+  },
+  {
+    "name": "Fresonara",
+    "country": "IT",
+    "lat": 44.78295,
+    "lng": 8.68615
+  },
+  {
+    "name": "Frascarolo",
+    "country": "IT",
+    "lat": 45.04666,
+    "lng": 8.68204
+  },
+  {
+    "name": "Frassinelle Polesine",
+    "country": "IT",
+    "lat": 44.99518,
+    "lng": 11.69881
+  },
+  {
+    "name": "Frassilongo",
+    "country": "IT",
+    "lat": 46.08991,
+    "lng": 11.29718
+  },
+  {
+    "name": "Frossasco",
+    "country": "IT",
+    "lat": 44.92176,
+    "lng": 7.37125
+  },
+  {
+    "name": "Frabosa Sottana",
+    "country": "IT",
+    "lat": 44.30233,
+    "lng": 7.79754
+  },
+  {
+    "name": "Frinco",
+    "country": "IT",
+    "lat": 45.00405,
+    "lng": 8.17193
+  },
+  {
+    "name": "Fratta Terme",
+    "country": "IT",
+    "lat": 44.14157,
+    "lng": 12.10213
+  },
+  {
+    "name": "Frescada",
+    "country": "IT",
+    "lat": 45.62878,
+    "lng": 12.23671
+  },
+  {
+    "name": "Fraviano",
+    "country": "IT",
+    "lat": 46.29691,
+    "lng": 10.69197
+  },
+  {
+    "name": "Franche",
+    "country": "IT",
+    "lat": 40.67175,
+    "lng": 14.52139
+  },
+  {
+    "name": "Frank Sound",
+    "country": "KY",
+    "lat": 19.30239,
+    "lng": -81.18194
+  },
+  {
+    "name": "Frisange",
+    "country": "LU",
+    "lat": 49.51616,
+    "lng": 6.18858
+  },
+  {
+    "name": "Frontera Hidalgo",
+    "country": "MX",
+    "lat": 14.77773,
+    "lng": -92.17713
+  },
+  {
+    "name": "Frontera",
+    "country": "MX",
+    "lat": 18.54326,
+    "lng": -92.6453
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 15.82501,
+    "lng": -92.68506
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 15.06996,
+    "lng": -92.54435
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 18.33402,
+    "lng": -93.20463
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 20.73186,
+    "lng": -99.31951
+  },
+  {
+    "name": "Francisco Villa",
+    "country": "MX",
+    "lat": 19.5863,
+    "lng": -98.46225
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 19.52096,
+    "lng": -98.49052
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 17.21287,
+    "lng": -93.38998
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 16.80364,
+    "lng": -93.75822
+  },
+  {
+    "name": "Frontera Corozal",
+    "country": "MX",
+    "lat": 16.81473,
+    "lng": -90.88351
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 16.29447,
+    "lng": -91.90828
+  },
+  {
+    "name": "Francisco Sarabia",
+    "country": "MX",
+    "lat": 16.15879,
+    "lng": -92.10465
+  },
+  {
+    "name": "Francisco Villa",
+    "country": "MX",
+    "lat": 16.21426,
+    "lng": -93.33697
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 19.24985,
+    "lng": -97.22648
+  },
+  {
+    "name": "Francisco Ibarra Ramos",
+    "country": "MX",
+    "lat": 17.97781,
+    "lng": -97.91748
+  },
+  {
+    "name": "Francisco Ignacio Madero",
+    "country": "MX",
+    "lat": 18.49306,
+    "lng": -97.46384
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 19.52718,
+    "lng": -97.27067
+  },
+  {
+    "name": "Fresno Nichi",
+    "country": "MX",
+    "lat": 19.56694,
+    "lng": -99.94889
+  },
+  {
+    "name": "Francisco Javier Mina",
+    "country": "MX",
+    "lat": 27.46136,
+    "lng": -110.1085
+  },
+  {
+    "name": "Francisco Zarco",
+    "country": "MX",
+    "lat": 32.09498,
+    "lng": -116.57192
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 24.40214,
+    "lng": -104.31856
+  },
+  {
+    "name": "Frontera",
+    "country": "MX",
+    "lat": 26.92814,
+    "lng": -101.45212
+  },
+  {
+    "name": "Francisco Serrato (San Bartolo)",
+    "country": "MX",
+    "lat": 19.5068,
+    "lng": -100.26
+  },
+  {
+    "name": "Fronteras",
+    "country": "MX",
+    "lat": 30.89732,
+    "lng": -109.5597
+  },
+  {
+    "name": "Fresnillo",
+    "country": "MX",
+    "lat": 23.1749,
+    "lng": -102.86785
+  },
+  {
+    "name": "Franco",
+    "country": "MX",
+    "lat": 20.94327,
+    "lng": -101.4618
+  },
+  {
+    "name": "Francisco Sarabia (Cerrito Pelón)",
+    "country": "MX",
+    "lat": 20.03086,
+    "lng": -102.70158
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 25.773,
+    "lng": -103.27127
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 21.58186,
+    "lng": -104.81927
+  },
+  {
+    "name": "Francisco García Salinas",
+    "country": "MX",
+    "lat": 23.81224,
+    "lng": -103.18215
+  },
+  {
+    "name": "Franco Tavera",
+    "country": "MX",
+    "lat": 20.60595,
+    "lng": -100.927
+  },
+  {
+    "name": "Frías",
+    "country": "MX",
+    "lat": 20.79945,
+    "lng": -101.99644
+  },
+  {
+    "name": "Fraccionamiento Real Palmas",
+    "country": "MX",
+    "lat": 25.90417,
+    "lng": -100.15972
+  },
+  {
+    "name": "Fraccionamiento Ciudad Olmeca",
+    "country": "MX",
+    "lat": 18.15056,
+    "lng": -94.5525
+  },
+  {
+    "name": "Fraccionamiento Geovillas los Pinos",
+    "country": "MX",
+    "lat": 19.21722,
+    "lng": -96.22639
+  },
+  {
+    "name": "Fraccionamiento la Trinidad",
+    "country": "MX",
+    "lat": 19.82917,
+    "lng": -99.08278
+  },
+  {
+    "name": "Fraccionamiento Lomas de Ahuatlán",
+    "country": "MX",
+    "lat": 18.95444,
+    "lng": -99.25722
+  },
+  {
+    "name": "Fraccionamiento Misión del Valle",
+    "country": "MX",
+    "lat": 19.76556,
+    "lng": -101.12167
+  },
+  {
+    "name": "Fraccionamiento Colinas del Sol",
+    "country": "MX",
+    "lat": 19.37222,
+    "lng": -99.74028
+  },
+  {
+    "name": "Fraccionamiento los Ángeles",
+    "country": "MX",
+    "lat": 23.18833,
+    "lng": -106.33
+  },
+  {
+    "name": "Fraccionamiento Arboledas San Ramón",
+    "country": "MX",
+    "lat": 19.09417,
+    "lng": -96.15667
+  },
+  {
+    "name": "Fraccionamiento Galaxia Tarímbaro",
+    "country": "MX",
+    "lat": 19.76167,
+    "lng": -101.19444
+  },
+  {
+    "name": "Fraccionamiento Metrópolis II",
+    "country": "MX",
+    "lat": 19.75639,
+    "lng": -101.20444
+  },
+  {
+    "name": "Fraccionamiento Ocuiltzapotlán Dos",
+    "country": "MX",
+    "lat": 18.10889,
+    "lng": -92.86778
+  },
+  {
+    "name": "Fraccionamiento Costa Dorada",
+    "country": "MX",
+    "lat": 19.20833,
+    "lng": -96.21639
+  },
+  {
+    "name": "Francisco Sarabia",
+    "country": "MX",
+    "lat": 16.94583,
+    "lng": -93.01306
+  },
+  {
+    "name": "Fraccionamiento Valle Dorado",
+    "country": "MX",
+    "lat": 18.86889,
+    "lng": -97.12222
+  },
+  {
+    "name": "Fraccionamiento las Fuentes",
+    "country": "MX",
+    "lat": 19.49611,
+    "lng": -96.88639
+  },
+  {
+    "name": "Fraccionamiento Cosmópolis Octavo Sector",
+    "country": "MX",
+    "lat": 25.82528,
+    "lng": -100.24611
+  },
+  {
+    "name": "Fraccionamiento Real de San Pablo",
+    "country": "MX",
+    "lat": 19.38944,
+    "lng": -99.64861
+  },
+  {
+    "name": "Fraccionamiento San Miguel",
+    "country": "MX",
+    "lat": 20.07111,
+    "lng": -102.68667
+  },
+  {
+    "name": "Fraccionamiento Misión de San Javier",
+    "country": "MX",
+    "lat": 25.74556,
+    "lng": -100.15194
+  },
+  {
+    "name": "Fraccionamiento los Prados",
+    "country": "MX",
+    "lat": 17.97778,
+    "lng": -94.63917
+  },
+  {
+    "name": "Fraccionamiento Ex-Hacienda el Refugio",
+    "country": "MX",
+    "lat": 19.95083,
+    "lng": -102.25639
+  },
+  {
+    "name": "Fraccionamiento Rinconada del Valle",
+    "country": "MX",
+    "lat": 19.41111,
+    "lng": -99.57417
+  },
+  {
+    "name": "Fraccionamiento Ciudad Yagul",
+    "country": "MX",
+    "lat": 16.9775,
+    "lng": -96.46194
+  },
+  {
+    "name": "Fraccionamiento Ex-Hacienda Catano",
+    "country": "MX",
+    "lat": 17.2275,
+    "lng": -96.81556
+  },
+  {
+    "name": "Fredepo",
+    "country": "MX",
+    "lat": 18.88056,
+    "lng": -96.97694
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 16.87427,
+    "lng": -93.21678
+  },
+  {
+    "name": "Fraccionamiento Hacienda del Bosque",
+    "country": "MX",
+    "lat": 19.72667,
+    "lng": -98.96861
+  },
+  {
+    "name": "Fraccionamiento Monte Olivo",
+    "country": "MX",
+    "lat": 19.98472,
+    "lng": -102.25111
+  },
+  {
+    "name": "Fraccionamiento Paseo de las Torres",
+    "country": "MX",
+    "lat": 21.16833,
+    "lng": -101.75806
+  },
+  {
+    "name": "Fraccionamiento San Miguel",
+    "country": "MX",
+    "lat": 17.21278,
+    "lng": -96.78694
+  },
+  {
+    "name": "Francisco I. Madero",
+    "country": "MX",
+    "lat": 18.32667,
+    "lng": -95.3625
+  },
+  {
+    "name": "Fraccionamiento Universo",
+    "country": "MX",
+    "lat": 18.96167,
+    "lng": -99.18639
+  },
+  {
+    "name": "Fraccionamiento Real del Valle",
+    "country": "MX",
+    "lat": 16.93278,
+    "lng": -96.76778
+  },
+  {
+    "name": "Fraccionamiento y Club de Golf los Encinos",
+    "country": "MX",
+    "lat": 19.28917,
+    "lng": -99.48
+  },
+  {
+    "name": "Fraccionamiento la Florida",
+    "country": "MX",
+    "lat": 20.58667,
+    "lng": -97.42833
+  },
+  {
+    "name": "Fraccionamiento Santa Cruz",
+    "country": "MX",
+    "lat": 17.97194,
+    "lng": -94.895
+  },
+  {
+    "name": "Fracción Milpillas",
+    "country": "MX",
+    "lat": 22.22778,
+    "lng": -100.96417
+  },
+  {
+    "name": "Fraccionamiento la Virgen",
+    "country": "MX",
+    "lat": 19.32306,
+    "lng": -98.27389
+  },
+  {
+    "name": "Fraccionamiento las Liebres",
+    "country": "MX",
+    "lat": 20.6475,
+    "lng": -101.39556
+  },
+  {
+    "name": "Francisco Sarabia",
+    "country": "MX",
+    "lat": 16.2475,
+    "lng": -91.96278
+  },
+  {
+    "name": "Francisco Rueda",
+    "country": "MX",
+    "lat": 17.82917,
+    "lng": -93.93389
+  },
+  {
+    "name": "Fraccionamiento Praderas de la Venta",
+    "country": "MX",
+    "lat": 20.53611,
+    "lng": -101.0
+  },
+  {
+    "name": "Fraccionamiento Villas de la Llave",
+    "country": "MX",
+    "lat": 18.91583,
+    "lng": -96.99111
+  },
+  {
+    "name": "Fraccionamiento Villa Jardín",
+    "country": "MX",
+    "lat": 20.99167,
+    "lng": -101.85194
+  },
+  {
+    "name": "Fraccionamiento del Magisterio Tulancinguense",
+    "country": "MX",
+    "lat": 20.07639,
+    "lng": -98.39972
+  },
+  {
+    "name": "Fraccionamiento la Noria",
+    "country": "MX",
+    "lat": 25.55722,
+    "lng": -103.34361
+  },
+  {
+    "name": "Francisco Sarabia",
+    "country": "MX",
+    "lat": 18.96417,
+    "lng": -98.31389
+  },
+  {
+    "name": "Fraccionamiento Laureles Eréndira",
+    "country": "MX",
+    "lat": 19.77222,
+    "lng": -101.13056
+  },
+  {
+    "name": "Francisco Primo de Verdad (Ciénega de Mata)",
+    "country": "MX",
+    "lat": 21.74472,
+    "lng": -101.82611
+  },
+  {
+    "name": "Fracción San Roque (El Prieto)",
+    "country": "MX",
+    "lat": 19.68722,
+    "lng": -99.17222
+  },
+  {
+    "name": "Fraccionamiento Riberas de San Jerónimo",
+    "country": "MX",
+    "lat": 17.1125,
+    "lng": -96.77722
+  },
+  {
+    "name": "Fraccionamiento Paraíso Real",
+    "country": "MX",
+    "lat": 21.1125,
+    "lng": -101.58083
+  },
+  {
+    "name": "Fraccionamiento Colinas Universidad",
+    "country": "MX",
+    "lat": 20.01833,
+    "lng": -102.73694
+  },
+  {
+    "name": "Fraccionamiento los Álamos",
+    "country": "MX",
+    "lat": 18.92389,
+    "lng": -96.97528
+  },
+  {
+    "name": "Fraccionamiento Villas de Guanajuato",
+    "country": "MX",
+    "lat": 20.96028,
+    "lng": -101.29806
+  },
+  {
+    "name": "Fraccionamiento Privadas del Sol",
+    "country": "MX",
+    "lat": 19.75222,
+    "lng": -101.19139
+  },
+  {
+    "name": "Francisco Villa",
+    "country": "MX",
+    "lat": 19.875,
+    "lng": -100.93583
+  },
+  {
+    "name": "Fraccionamiento del Valle",
+    "country": "MX",
+    "lat": 31.91139,
+    "lng": -116.26056
+  },
+  {
+    "name": "Fraccionamiento la Mezquitera",
+    "country": "MX",
+    "lat": 21.00972,
+    "lng": -101.83472
+  },
+  {
+    "name": "Fraccionamiento Carlos Salinas de Gortari",
+    "country": "MX",
+    "lat": 20.11028,
+    "lng": -98.43028
+  },
+  {
+    "name": "Francisco Villa",
+    "country": "MX",
+    "lat": 18.84446,
+    "lng": -97.76336
+  },
+  {
+    "name": "Frankhuis",
+    "country": "NL",
+    "lat": 52.525,
+    "lng": 6.06806
+  },
+  {
+    "name": "Franeker",
+    "country": "NL",
+    "lat": 53.18546,
+    "lng": 5.54123
+  },
+  {
+    "name": "Frogner",
+    "country": "NO",
+    "lat": 60.02463,
+    "lng": 11.10284
+  },
+  {
+    "name": "Frekhaug",
+    "country": "NO",
+    "lat": 60.51321,
+    "lng": 5.24252
+  },
+  {
+    "name": "Fredrikstad",
+    "country": "NO",
+    "lat": 59.2181,
+    "lng": 10.9298
+  },
+  {
+    "name": "Frydenberg",
+    "country": "NO",
+    "lat": 59.92879,
+    "lng": 10.78875
+  },
+  {
+    "name": "Frosta",
+    "country": "NO",
+    "lat": 63.5891,
+    "lng": 10.7423
+  },
+  {
+    "name": "Frankton Junction",
+    "country": "NZ",
+    "lat": -37.8,
+    "lng": 175.26667
+  },
+  {
+    "name": "Frankton",
+    "country": "NZ",
+    "lat": -45.02125,
+    "lng": 168.73361
+  },
+  {
+    "name": "Frankleigh Park",
+    "country": "NZ",
+    "lat": -39.07824,
+    "lng": 174.0602
+  },
+  {
+    "name": "Freemans Bay",
+    "country": "NZ",
+    "lat": -36.8482,
+    "lng": 174.74019
+  },
+  {
+    "name": "Frias",
+    "country": "PE",
+    "lat": -4.92958,
+    "lng": -79.94796
+  },
+  {
+    "name": "Frysztak",
+    "country": "PL",
+    "lat": 49.84164,
+    "lng": 21.60942
+  },
+  {
+    "name": "Frydman",
+    "country": "PL",
+    "lat": 49.44927,
+    "lng": 20.22961
+  },
+  {
+    "name": "Fredropol",
+    "country": "PL",
+    "lat": 49.69578,
+    "lng": 22.74625
+  },
+  {
+    "name": "Frampol",
+    "country": "PL",
+    "lat": 50.67159,
+    "lng": 22.67061
+  },
+  {
+    "name": "Frydrychowice",
+    "country": "PL",
+    "lat": 49.90481,
+    "lng": 19.41936
+  },
+  {
+    "name": "Frydek",
+    "country": "PL",
+    "lat": 49.99626,
+    "lng": 19.07278
+  },
+  {
+    "name": "Frombork",
+    "country": "PL",
+    "lat": 54.35766,
+    "lng": 19.68029
+  },
+  {
+    "name": "Franquez",
+    "country": "PR",
+    "lat": 18.34023,
+    "lng": -66.42767
+  },
+  {
+    "name": "Fronteira",
+    "country": "PT",
+    "lat": 39.05629,
+    "lng": -7.64868
+  },
+  {
+    "name": "Frossos",
+    "country": "PT",
+    "lat": 41.5659,
+    "lng": -8.45134
+  },
+  {
+    "name": "Freixo de Espada à Cinta",
+    "country": "PT",
+    "lat": 41.09033,
+    "lng": -6.80648
+  },
+  {
+    "name": "Freamunde",
+    "country": "PT",
+    "lat": 41.28835,
+    "lng": -8.33533
+  },
+  {
+    "name": "Frazão",
+    "country": "PT",
+    "lat": 41.25866,
+    "lng": -8.40014
+  },
+  {
+    "name": "Francos",
+    "country": "PT",
+    "lat": 41.1676,
+    "lng": -8.63767
+  },
+  {
+    "name": "Fradelos",
+    "country": "PT",
+    "lat": 41.36846,
+    "lng": -8.59887
+  },
+  {
+    "name": "Fram",
+    "country": "PY",
+    "lat": -26.98333,
+    "lng": -55.88333
+  },
+  {
+    "name": "Frunzi",
+    "country": "RO",
+    "lat": 46.9,
+    "lng": 24.33333
+  },
+  {
+    "name": "Fruntișeni",
+    "country": "RO",
+    "lat": 46.20634,
+    "lng": 27.76904
+  },
+  {
+    "name": "Frumuşiţa",
+    "country": "RO",
+    "lat": 45.66667,
+    "lng": 28.06667
+  },
+  {
+    "name": "Frumuşica",
+    "country": "RO",
+    "lat": 47.53333,
+    "lng": 26.9
+  },
+  {
+    "name": "Frumușelu",
+    "country": "RO",
+    "lat": 46.27796,
+    "lng": 27.35203
+  },
+  {
+    "name": "Frumuşani",
+    "country": "RO",
+    "lat": 44.29611,
+    "lng": 26.32556
+  },
+  {
+    "name": "Frumosu",
+    "country": "RO",
+    "lat": 47.61667,
+    "lng": 25.65
+  },
+  {
+    "name": "Frumoasa",
+    "country": "RO",
+    "lat": 46.66298,
+    "lng": 26.54196
+  },
+  {
+    "name": "Frumoasa",
+    "country": "RO",
+    "lat": 46.45,
+    "lng": 25.85
+  },
+  {
+    "name": "Frumoasa",
+    "country": "RO",
+    "lat": 43.8,
+    "lng": 25.46667
+  },
+  {
+    "name": "Frecăţei",
+    "country": "RO",
+    "lat": 45.1,
+    "lng": 28.66667
+  },
+  {
+    "name": "Frecăţei",
+    "country": "RO",
+    "lat": 44.9,
+    "lng": 28.11667
+  },
+  {
+    "name": "Fratoștița",
+    "country": "RO",
+    "lat": 44.58671,
+    "lng": 23.57044
+  },
+  {
+    "name": "Frăteşti",
+    "country": "RO",
+    "lat": 43.96667,
+    "lng": 25.96667
+  },
+  {
+    "name": "Frătăuţii Vechi",
+    "country": "RO",
+    "lat": 47.9,
+    "lng": 25.88333
+  },
+  {
+    "name": "Frătăuţii Noi",
+    "country": "RO",
+    "lat": 47.94257,
+    "lng": 25.84465
+  },
+  {
+    "name": "Frata",
+    "country": "RO",
+    "lat": 46.7,
+    "lng": 24.05
+  },
+  {
+    "name": "Frăsinet",
+    "country": "RO",
+    "lat": 44.31667,
+    "lng": 26.8
+  },
+  {
+    "name": "Frăsinet",
+    "country": "RO",
+    "lat": 44.18038,
+    "lng": 25.38238
+  },
+  {
+    "name": "Frasin",
+    "country": "RO",
+    "lat": 47.53333,
+    "lng": 25.8
+  },
+  {
+    "name": "Frumușeni",
+    "country": "RO",
+    "lat": 46.10252,
+    "lng": 21.46167
+  },
+  {
+    "name": "Fryazino",
+    "country": "RU",
+    "lat": 55.96131,
+    "lng": 38.04643
+  },
+  {
+    "name": "Fryazevo",
+    "country": "RU",
+    "lat": 55.73321,
+    "lng": 38.46458
+  },
+  {
+    "name": "Fryanovo",
+    "country": "RU",
+    "lat": 56.13333,
+    "lng": 38.45
+  },
+  {
+    "name": "Froly",
+    "country": "RU",
+    "lat": 57.9214,
+    "lng": 56.2728
+  },
+  {
+    "name": "Frolovo",
+    "country": "RU",
+    "lat": 49.7688,
+    "lng": 43.65417
+  },
+  {
+    "name": "Frolishchi",
+    "country": "RU",
+    "lat": 56.42177,
+    "lng": 42.65187
+  },
+  {
+    "name": "Frövi",
+    "country": "SE",
+    "lat": 59.46667,
+    "lng": 15.36667
+  },
+  {
+    "name": "Frösakull",
+    "country": "SE",
+    "lat": 56.68333,
+    "lng": 12.73333
+  },
+  {
+    "name": "Fritsla",
+    "country": "SE",
+    "lat": 57.55655,
+    "lng": 12.78457
+  },
+  {
+    "name": "Fristad",
+    "country": "SE",
+    "lat": 57.82483,
+    "lng": 13.01064
+  },
+  {
+    "name": "Frillesås",
+    "country": "SE",
+    "lat": 57.31667,
+    "lng": 12.16667
+  },
+  {
+    "name": "Fränsta",
+    "country": "SE",
+    "lat": 62.49855,
+    "lng": 16.17016
+  },
+  {
+    "name": "Fram",
+    "country": "SI",
+    "lat": 46.456,
+    "lng": 15.63007
+  },
+  {
+    "name": "Freetown",
+    "country": "SL",
+    "lat": 8.48714,
+    "lng": -13.2356
+  },
+  {
+    "name": "Frunze",
+    "country": "UA",
+    "lat": 45.02688,
+    "lng": 33.62956
+  },
+  {
+    "name": "Frontovoye",
+    "country": "UA",
+    "lat": 44.66737,
+    "lng": 33.73841
+  },
+  {
+    "name": "Frisco City",
+    "country": "US",
+    "lat": 31.4335,
+    "lng": -87.40138
+  },
+  {
+    "name": "Freeport",
+    "country": "US",
+    "lat": 30.49825,
+    "lng": -86.13605
+  },
+  {
+    "name": "Frostproof",
+    "country": "US",
+    "lat": 27.74586,
+    "lng": -81.53063
+  },
+  {
+    "name": "Fruit Cove",
+    "country": "US",
+    "lat": 30.11107,
+    "lng": -81.64176
+  },
+  {
+    "name": "Fruitland Park",
+    "country": "US",
+    "lat": 28.86138,
+    "lng": -81.90647
+  },
+  {
+    "name": "Fruitville",
+    "country": "US",
+    "lat": 27.32977,
+    "lng": -82.4576
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 33.27762,
+    "lng": -85.098
+  },
+  {
+    "name": "Franklin Springs",
+    "country": "US",
+    "lat": 34.28483,
+    "lng": -83.14432
+  },
+  {
+    "name": "Freeburg",
+    "country": "US",
+    "lat": 38.42755,
+    "lng": -89.91371
+  },
+  {
+    "name": "French Lick",
+    "country": "US",
+    "lat": 38.54894,
+    "lng": -86.61999
+  },
+  {
+    "name": "Fredonia",
+    "country": "US",
+    "lat": 37.53394,
+    "lng": -95.82665
+  },
+  {
+    "name": "Frontenac",
+    "country": "US",
+    "lat": 37.4556,
+    "lng": -94.68913
+  },
+  {
+    "name": "Francisville",
+    "country": "US",
+    "lat": 39.10506,
+    "lng": -84.72439
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 38.20091,
+    "lng": -84.87328
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 36.72226,
+    "lng": -86.57722
+  },
+  {
+    "name": "Frenchburg",
+    "country": "US",
+    "lat": 37.95092,
+    "lng": -83.62575
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 29.79604,
+    "lng": -91.5015
+  },
+  {
+    "name": "Franklinton",
+    "country": "US",
+    "lat": 30.84731,
+    "lng": -90.15527
+  },
+  {
+    "name": "French Settlement",
+    "country": "US",
+    "lat": 30.29599,
+    "lng": -90.7963
+  },
+  {
+    "name": "Frederick",
+    "country": "US",
+    "lat": 39.41427,
+    "lng": -77.41054
+  },
+  {
+    "name": "Friendly",
+    "country": "US",
+    "lat": 38.75178,
+    "lng": -76.97859
+  },
+  {
+    "name": "Friendship Village",
+    "country": "US",
+    "lat": 38.96289,
+    "lng": -77.08887
+  },
+  {
+    "name": "Frostburg",
+    "country": "US",
+    "lat": 39.65814,
+    "lng": -78.92836
+  },
+  {
+    "name": "Fruitland",
+    "country": "US",
+    "lat": 38.32206,
+    "lng": -75.6202
+  },
+  {
+    "name": "Fredericktown",
+    "country": "US",
+    "lat": 37.55978,
+    "lng": -90.29401
+  },
+  {
+    "name": "Frontenac",
+    "country": "US",
+    "lat": 38.63561,
+    "lng": -90.41512
+  },
+  {
+    "name": "Friars Point",
+    "country": "US",
+    "lat": 34.37088,
+    "lng": -90.63834
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 35.18232,
+    "lng": -83.38154
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 35.72125,
+    "lng": -80.49895
+  },
+  {
+    "name": "Franklinton",
+    "country": "US",
+    "lat": 36.10182,
+    "lng": -78.45805
+  },
+  {
+    "name": "Franklinville",
+    "country": "US",
+    "lat": 35.74375,
+    "lng": -79.69225
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 35.54544,
+    "lng": -77.97471
+  },
+  {
+    "name": "Fruitland",
+    "country": "US",
+    "lat": 35.39651,
+    "lng": -82.39317
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 39.40145,
+    "lng": -83.18074
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 39.55895,
+    "lng": -84.30411
+  },
+  {
+    "name": "Franklin Furnace",
+    "country": "US",
+    "lat": 38.626,
+    "lng": -82.847
+  },
+  {
+    "name": "Fruit Hill",
+    "country": "US",
+    "lat": 39.07562,
+    "lng": -84.36438
+  },
+  {
+    "name": "Frederick",
+    "country": "US",
+    "lat": 34.39203,
+    "lng": -99.01841
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 35.92506,
+    "lng": -86.86889
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 31.02602,
+    "lng": -96.48524
+  },
+  {
+    "name": "Frankston",
+    "country": "US",
+    "lat": 32.05266,
+    "lng": -95.50635
+  },
+  {
+    "name": "Fredericksburg",
+    "country": "US",
+    "lat": 30.2752,
+    "lng": -98.87198
+  },
+  {
+    "name": "Freeport",
+    "country": "US",
+    "lat": 28.95414,
+    "lng": -95.35966
+  },
+  {
+    "name": "Freer",
+    "country": "US",
+    "lat": 27.8828,
+    "lng": -98.61779
+  },
+  {
+    "name": "Fresno",
+    "country": "US",
+    "lat": 29.53885,
+    "lng": -95.44744
+  },
+  {
+    "name": "Friendswood",
+    "country": "US",
+    "lat": 29.5294,
+    "lng": -95.20104
+  },
+  {
+    "name": "Frisco",
+    "country": "US",
+    "lat": 33.15067,
+    "lng": -96.82361
+  },
+  {
+    "name": "Franconia",
+    "country": "US",
+    "lat": 38.78206,
+    "lng": -77.14637
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 36.67765,
+    "lng": -76.92246
+  },
+  {
+    "name": "Fredericksburg",
+    "country": "US",
+    "lat": 38.30318,
+    "lng": -77.46054
+  },
+  {
+    "name": "Front Royal",
+    "country": "US",
+    "lat": 38.91817,
+    "lng": -78.19444
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 38.64289,
+    "lng": -79.33115
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 39.48061,
+    "lng": -86.05499
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 41.49587,
+    "lng": -87.84866
+  },
+  {
+    "name": "Frankfort Square",
+    "country": "US",
+    "lat": 41.51892,
+    "lng": -87.8031
+  },
+  {
+    "name": "Franklin Park",
+    "country": "US",
+    "lat": 41.93531,
+    "lng": -87.86562
+  },
+  {
+    "name": "Freeport",
+    "country": "US",
+    "lat": 42.29669,
+    "lng": -89.62123
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 40.27948,
+    "lng": -86.51084
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 41.73088,
+    "lng": -84.93274
+  },
+  {
+    "name": "Frankton",
+    "country": "US",
+    "lat": 40.22282,
+    "lng": -85.77887
+  },
+  {
+    "name": "Framingham",
+    "country": "US",
+    "lat": 42.27926,
+    "lng": -71.41617
+  },
+  {
+    "name": "Framingham Center",
+    "country": "US",
+    "lat": 42.29732,
+    "lng": -71.43701
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 42.08343,
+    "lng": -71.39673
+  },
+  {
+    "name": "Freetown",
+    "country": "US",
+    "lat": 41.76677,
+    "lng": -71.03282
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 44.6098,
+    "lng": -68.8767
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 44.58702,
+    "lng": -68.23224
+  },
+  {
+    "name": "Freeport",
+    "country": "US",
+    "lat": 43.85702,
+    "lng": -70.10311
+  },
+  {
+    "name": "Frenchville",
+    "country": "US",
+    "lat": 47.28087,
+    "lng": -68.37976
+  },
+  {
+    "name": "Friendship",
+    "country": "US",
+    "lat": 43.98369,
+    "lng": -69.33394
+  },
+  {
+    "name": "Fryeburg",
+    "country": "US",
+    "lat": 44.01646,
+    "lng": -70.98062
+  },
+  {
+    "name": "Frankenmuth",
+    "country": "US",
+    "lat": 43.33169,
+    "lng": -83.73802
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 44.63361,
+    "lng": -86.23454
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 42.52226,
+    "lng": -83.30604
+  },
+  {
+    "name": "Fraser",
+    "country": "US",
+    "lat": 42.5392,
+    "lng": -82.94937
+  },
+  {
+    "name": "Freeland",
+    "country": "US",
+    "lat": 43.52503,
+    "lng": -84.12276
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 43.46752,
+    "lng": -85.942
+  },
+  {
+    "name": "Fruitport",
+    "country": "US",
+    "lat": 43.13196,
+    "lng": -86.15478
+  },
+  {
+    "name": "Frazee",
+    "country": "US",
+    "lat": 46.72801,
+    "lng": -95.70088
+  },
+  {
+    "name": "Fridley",
+    "country": "US",
+    "lat": 45.08608,
+    "lng": -93.26328
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 40.09612,
+    "lng": -98.95258
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 41.43333,
+    "lng": -96.49808
+  },
+  {
+    "name": "Friend",
+    "country": "US",
+    "lat": 40.65362,
+    "lng": -97.28616
+  },
+  {
+    "name": "Francestown",
+    "country": "US",
+    "lat": 42.98758,
+    "lng": -71.81258
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 43.44424,
+    "lng": -71.6473
+  },
+  {
+    "name": "Freedom",
+    "country": "US",
+    "lat": 43.8123,
+    "lng": -71.03562
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 42.99092,
+    "lng": -71.14256
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 41.12204,
+    "lng": -74.58044
+  },
+  {
+    "name": "Franklin Lakes",
+    "country": "US",
+    "lat": 41.01676,
+    "lng": -74.2057
+  },
+  {
+    "name": "Franklin Park",
+    "country": "US",
+    "lat": 40.43899,
+    "lng": -74.53515
+  },
+  {
+    "name": "Freehold",
+    "country": "US",
+    "lat": 40.26011,
+    "lng": -74.27376
+  },
+  {
+    "name": "Frenchtown",
+    "country": "US",
+    "lat": 40.52621,
+    "lng": -75.06156
+  },
+  {
+    "name": "Frankfort",
+    "country": "US",
+    "lat": 43.03896,
+    "lng": -75.07044
+  },
+  {
+    "name": "Franklin Square",
+    "country": "US",
+    "lat": 40.70732,
+    "lng": -73.67596
+  },
+  {
+    "name": "Franklinville",
+    "country": "US",
+    "lat": 42.33701,
+    "lng": -78.45808
+  },
+  {
+    "name": "Fredonia",
+    "country": "US",
+    "lat": 42.44006,
+    "lng": -79.33171
+  },
+  {
+    "name": "Freeport",
+    "country": "US",
+    "lat": 40.6576,
+    "lng": -73.58318
+  },
+  {
+    "name": "Fresh Meadows",
+    "country": "US",
+    "lat": 40.73482,
+    "lng": -73.79347
+  },
+  {
+    "name": "Frewsburg",
+    "country": "US",
+    "lat": 42.0545,
+    "lng": -79.1581
+  },
+  {
+    "name": "Friendship",
+    "country": "US",
+    "lat": 42.20646,
+    "lng": -78.13751
+  },
+  {
+    "name": "Frazeysburg",
+    "country": "US",
+    "lat": 40.11729,
+    "lng": -82.11931
+  },
+  {
+    "name": "Fredericktown",
+    "country": "US",
+    "lat": 40.48117,
+    "lng": -82.54072
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 41.35033,
+    "lng": -83.12186
+  },
+  {
+    "name": "Frackville",
+    "country": "US",
+    "lat": 40.78398,
+    "lng": -76.23022
+  },
+  {
+    "name": "Frankford",
+    "country": "US",
+    "lat": 40.01384,
+    "lng": -75.07859
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 41.39784,
+    "lng": -79.83144
+  },
+  {
+    "name": "Franklin Park",
+    "country": "US",
+    "lat": 40.5834,
+    "lng": -80.08784
+  },
+  {
+    "name": "Fredericksburg",
+    "country": "US",
+    "lat": 40.4437,
+    "lng": -76.42829
+  },
+  {
+    "name": "Freedom",
+    "country": "US",
+    "lat": 40.68562,
+    "lng": -80.25173
+  },
+  {
+    "name": "Freeland",
+    "country": "US",
+    "lat": 41.01675,
+    "lng": -75.89714
+  },
+  {
+    "name": "Freeport",
+    "country": "US",
+    "lat": 40.67395,
+    "lng": -79.68477
+  },
+  {
+    "name": "Freemansburg",
+    "country": "US",
+    "lat": 40.62649,
+    "lng": -75.34574
+  },
+  {
+    "name": "Friedens",
+    "country": "US",
+    "lat": 40.05008,
+    "lng": -78.99836
+  },
+  {
+    "name": "Freeman",
+    "country": "US",
+    "lat": 43.35249,
+    "lng": -97.43729
+  },
+  {
+    "name": "Franklin",
+    "country": "US",
+    "lat": 42.88863,
+    "lng": -88.03842
+  },
+  {
+    "name": "Franksville",
+    "country": "US",
+    "lat": 42.76002,
+    "lng": -87.91341
+  },
+  {
+    "name": "Frederic",
+    "country": "US",
+    "lat": 45.65912,
+    "lng": -92.46714
+  },
+  {
+    "name": "Fredonia",
+    "country": "US",
+    "lat": 43.47056,
+    "lng": -87.95065
+  },
+  {
+    "name": "French Island",
+    "country": "US",
+    "lat": 43.8583,
+    "lng": -91.26042
+  },
+  {
+    "name": "Friendship",
+    "country": "US",
+    "lat": 43.97053,
+    "lng": -89.81679
+  },
+  {
+    "name": "Fredonia",
+    "country": "US",
+    "lat": 36.94554,
+    "lng": -112.52659
+  },
+  {
+    "name": "Frazier Park",
+    "country": "US",
+    "lat": 34.82276,
+    "lng": -118.94482
+  },
+  {
+    "name": "Freedom",
+    "country": "US",
+    "lat": 36.93523,
+    "lng": -121.77301
+  },
+  {
+    "name": "Fremont",
+    "country": "US",
+    "lat": 37.54827,
+    "lng": -121.98857
+  },
+  {
+    "name": "French Camp",
+    "country": "US",
+    "lat": 37.88409,
+    "lng": -121.27106
+  },
+  {
+    "name": "Fresno",
+    "country": "US",
+    "lat": 36.74773,
+    "lng": -119.77237
+  },
+  {
+    "name": "Fraser",
+    "country": "US",
+    "lat": 39.94499,
+    "lng": -105.81723
+  },
+  {
+    "name": "Frisco",
+    "country": "US",
+    "lat": 39.57443,
+    "lng": -106.09752
+  },
+  {
+    "name": "Fruita",
+    "country": "US",
+    "lat": 39.15887,
+    "lng": -108.72899
+  },
+  {
+    "name": "Fruitvale",
+    "country": "US",
+    "lat": 39.08165,
+    "lng": -108.49676
+  },
+  {
+    "name": "Friona",
+    "country": "US",
+    "lat": 34.64173,
+    "lng": -102.7241
+  },
+  {
+    "name": "Fritch",
+    "country": "US",
+    "lat": 35.63977,
+    "lng": -101.60323
+  },
+  {
+    "name": "Frederick",
+    "country": "US",
+    "lat": 40.09915,
+    "lng": -104.9372
+  },
+  {
+    "name": "Fruitland",
+    "country": "US",
+    "lat": 44.00766,
+    "lng": -116.91655
+  },
+  {
+    "name": "Frenchtown",
+    "country": "US",
+    "lat": 47.01492,
+    "lng": -114.22984
+  },
+  {
+    "name": "Francis",
+    "country": "US",
+    "lat": 40.61051,
+    "lng": -111.28074
+  },
+  {
+    "name": "Fruit Heights",
+    "country": "US",
+    "lat": 41.03217,
+    "lng": -111.90216
+  },
+  {
+    "name": "Frederickson",
+    "country": "US",
+    "lat": 47.09621,
+    "lng": -122.35873
+  },
+  {
+    "name": "Freeland",
+    "country": "US",
+    "lat": 48.00954,
+    "lng": -122.52598
+  },
+  {
+    "name": "Friday Harbor",
+    "country": "US",
+    "lat": 48.53427,
+    "lng": -123.01712
+  },
+  {
+    "name": "Fruitdale",
+    "country": "US",
+    "lat": 42.42206,
+    "lng": -123.30811
+  },
+  {
+    "name": "Fritz Creek",
+    "country": "US",
+    "lat": 59.73611,
+    "lng": -151.29528
+  },
+  {
+    "name": "Fruitridge Pocket",
+    "country": "US",
+    "lat": 38.53265,
+    "lng": -121.45581
+  },
+  {
+    "name": "Franklin Center",
+    "country": "US",
+    "lat": 40.53153,
+    "lng": -74.54141
+  },
+  {
+    "name": "Franklintown",
+    "country": "US",
+    "lat": 39.30584,
+    "lng": -76.70145
+  },
+  {
+    "name": "Frankford",
+    "country": "US",
+    "lat": 39.32928,
+    "lng": -76.54463
+  },
+  {
+    "name": "Franklin Square",
+    "country": "US",
+    "lat": 39.2904,
+    "lng": -76.64277
+  },
+  {
+    "name": "Franklintown Road",
+    "country": "US",
+    "lat": 39.29738,
+    "lng": -76.66758
+  },
+  {
+    "name": "Fray Bentos",
+    "country": "UY",
+    "lat": -33.11651,
+    "lng": -58.31067
+  },
+  {
+    "name": "Fraile Muerto",
+    "country": "UY",
+    "lat": -32.51667,
+    "lng": -54.53333
+  },
+  {
+    "name": "Friendly Village",
+    "country": "VC",
+    "lat": 13.22821,
+    "lng": -61.12819
+  },
+  {
+    "name": "Fraserburg",
+    "country": "ZA",
+    "lat": -31.91566,
+    "lng": 21.51335
+  },
+  {
+    "name": "Franklin",
+    "country": "ZA",
+    "lat": -30.31655,
+    "lng": 29.45216
+  },
+  {
+    "name": "Frankfort",
+    "country": "ZA",
+    "lat": -32.72985,
+    "lng": 27.46644
+  },
+  {
+    "name": "Frankfort",
+    "country": "ZA",
+    "lat": -27.27888,
+    "lng": 28.49696
+  },
+  {
+    "name": "Franschhoek",
+    "country": "ZA",
+    "lat": -33.91075,
+    "lng": 19.1198
+  },
+  {
+    "name": "Frischgewaagd",
+    "country": "ZA",
+    "lat": -27.38985,
+    "lng": 30.95469
+  },
+  {
+    "name": "Friemersheim",
+    "country": "ZA",
+    "lat": -33.95528,
+    "lng": 22.1425
+  }
+]

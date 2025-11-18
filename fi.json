@@ -1,0 +1,1826 @@
+[
+  {
+    "name": "Finiq",
+    "country": "AL",
+    "lat": 39.90639,
+    "lng": 20.05833
+  },
+  {
+    "name": "Fierzë",
+    "country": "AL",
+    "lat": 42.26056,
+    "lng": 20.01694
+  },
+  {
+    "name": "Fier-Shegan",
+    "country": "AL",
+    "lat": 40.86722,
+    "lng": 19.78528
+  },
+  {
+    "name": "Fier-Çifçi",
+    "country": "AL",
+    "lat": 40.71667,
+    "lng": 19.56667
+  },
+  {
+    "name": "Fier",
+    "country": "AL",
+    "lat": 40.7251,
+    "lng": 19.55823
+  },
+  {
+    "name": "Fierzë",
+    "country": "AL",
+    "lat": 40.92056,
+    "lng": 19.84694
+  },
+  {
+    "name": "Fioletovo",
+    "country": "AM",
+    "lat": 40.72365,
+    "lng": 44.71664
+  },
+  {
+    "name": "Firmat",
+    "country": "AR",
+    "lat": -33.45937,
+    "lng": -61.4832
+  },
+  {
+    "name": "Fiambalá",
+    "country": "AR",
+    "lat": -27.67225,
+    "lng": -67.6187
+  },
+  {
+    "name": "Fiss",
+    "country": "AT",
+    "lat": 47.05714,
+    "lng": 10.61747
+  },
+  {
+    "name": "Fisching",
+    "country": "AT",
+    "lat": 48.22301,
+    "lng": 14.42771
+  },
+  {
+    "name": "Fischbach",
+    "country": "AT",
+    "lat": 47.44234,
+    "lng": 15.64972
+  },
+  {
+    "name": "Fischamend-Markt",
+    "country": "AT",
+    "lat": 48.11667,
+    "lng": 16.6
+  },
+  {
+    "name": "Fischamend",
+    "country": "AT",
+    "lat": 48.11843,
+    "lng": 16.61211
+  },
+  {
+    "name": "Finkenstein",
+    "country": "AT",
+    "lat": 46.56155,
+    "lng": 13.87086
+  },
+  {
+    "name": "Finkenberg",
+    "country": "AT",
+    "lat": 47.15279,
+    "lng": 11.82212
+  },
+  {
+    "name": "Filzmoos",
+    "country": "AT",
+    "lat": 47.43333,
+    "lng": 13.51667
+  },
+  {
+    "name": "Fiecht",
+    "country": "AT",
+    "lat": 47.35,
+    "lng": 11.7
+  },
+  {
+    "name": "Fieberbrunn",
+    "country": "AT",
+    "lat": 47.47626,
+    "lng": 12.54347
+  },
+  {
+    "name": "Finkenstein am Faaker See",
+    "country": "AT",
+    "lat": 46.56081,
+    "lng": 13.87115
+  },
+  {
+    "name": "Fitzroy Crossing",
+    "country": "AU",
+    "lat": -18.19714,
+    "lng": 125.56663
+  },
+  {
+    "name": "Findon",
+    "country": "AU",
+    "lat": -34.9,
+    "lng": 138.53333
+  },
+  {
+    "name": "Fitzroy North",
+    "country": "AU",
+    "lat": -37.78862,
+    "lng": 144.97885
+  },
+  {
+    "name": "Fitzroy",
+    "country": "AU",
+    "lat": -37.79839,
+    "lng": 144.97833
+  },
+  {
+    "name": "Finley",
+    "country": "AU",
+    "lat": -35.65498,
+    "lng": 145.57106
+  },
+  {
+    "name": "Figtree",
+    "country": "AU",
+    "lat": -34.43556,
+    "lng": 150.85833
+  },
+  {
+    "name": "Fitzgibbon",
+    "country": "AU",
+    "lat": -27.33971,
+    "lng": 153.02921
+  },
+  {
+    "name": "Fingal Bay",
+    "country": "AU",
+    "lat": -32.74969,
+    "lng": 152.17104
+  },
+  {
+    "name": "Five Dock",
+    "country": "AU",
+    "lat": -33.8674,
+    "lng": 151.12905
+  },
+  {
+    "name": "Firle",
+    "country": "AU",
+    "lat": -34.90459,
+    "lng": 138.65319
+  },
+  {
+    "name": "Fig Tree Pocket",
+    "country": "AU",
+    "lat": -27.52784,
+    "lng": 152.9619
+  },
+  {
+    "name": "Fisher",
+    "country": "AU",
+    "lat": -35.36126,
+    "lng": 149.05704
+  },
+  {
+    "name": "Figtree",
+    "country": "AU",
+    "lat": -28.45635,
+    "lng": 152.89199
+  },
+  {
+    "name": "Finström",
+    "country": "AX",
+    "lat": 60.26667,
+    "lng": 19.93333
+  },
+  {
+    "name": "Fizuli",
+    "country": "AZ",
+    "lat": 39.60094,
+    "lng": 47.14529
+  },
+  {
+    "name": "Filadélfia",
+    "country": "BR",
+    "lat": -7.33611,
+    "lng": -47.49028
+  },
+  {
+    "name": "Firminópolis",
+    "country": "BR",
+    "lat": -16.58194,
+    "lng": -50.305
+  },
+  {
+    "name": "Firmino Alves",
+    "country": "BR",
+    "lat": -14.98528,
+    "lng": -39.92361
+  },
+  {
+    "name": "Filadélfia",
+    "country": "BR",
+    "lat": -10.74278,
+    "lng": -40.13194
+  },
+  {
+    "name": "Figueira",
+    "country": "BR",
+    "lat": -23.84917,
+    "lng": -50.40306
+  },
+  {
+    "name": "Figueirópolis",
+    "country": "BR",
+    "lat": -12.13083,
+    "lng": -49.17417
+  },
+  {
+    "name": "Figueirópolis dOeste",
+    "country": "BR",
+    "lat": -15.445,
+    "lng": -58.74028
+  },
+  {
+    "name": "Figueirão",
+    "country": "BR",
+    "lat": -18.67863,
+    "lng": -53.63794
+  },
+  {
+    "name": "Fischingen",
+    "country": "CH",
+    "lat": 47.41422,
+    "lng": 8.96862
+  },
+  {
+    "name": "Fiesch",
+    "country": "CH",
+    "lat": 46.39981,
+    "lng": 8.13533
+  },
+  {
+    "name": "Fiampleu",
+    "country": "CI",
+    "lat": 7.18241,
+    "lng": -8.0044
+  },
+  {
+    "name": "Fizanlouma",
+    "country": "CI",
+    "lat": 8.03163,
+    "lng": -6.08507
+  },
+  {
+    "name": "Fisa",
+    "country": "CI",
+    "lat": 8.01226,
+    "lng": -3.14018
+  },
+  {
+    "name": "Fizankoro",
+    "country": "CI",
+    "lat": 8.46361,
+    "lng": -6.19861
+  },
+  {
+    "name": "Finneu",
+    "country": "CI",
+    "lat": 6.99749,
+    "lng": -8.15283
+  },
+  {
+    "name": "Fingolo",
+    "country": "CI",
+    "lat": 8.88836,
+    "lng": -6.74555
+  },
+  {
+    "name": "Findimanou",
+    "country": "CI",
+    "lat": 6.83153,
+    "lng": -4.08298
+  },
+  {
+    "name": "Filasso",
+    "country": "CI",
+    "lat": 8.38209,
+    "lng": -6.13309
+  },
+  {
+    "name": "Fila Faraba",
+    "country": "CI",
+    "lat": 8.91806,
+    "lng": -6.3175
+  },
+  {
+    "name": "Fiékon",
+    "country": "CI",
+    "lat": 7.09963,
+    "lng": -6.84547
+  },
+  {
+    "name": "Fiassé",
+    "country": "CI",
+    "lat": 6.16357,
+    "lng": -3.63625
+  },
+  {
+    "name": "Fitabro",
+    "country": "CI",
+    "lat": 7.78987,
+    "lng": -5.49438
+  },
+  {
+    "name": "Figuil",
+    "country": "CM",
+    "lat": 9.75574,
+    "lng": 13.9647
+  },
+  {
+    "name": "Firavitoba",
+    "country": "CO",
+    "lat": 5.66885,
+    "lng": -72.99289
+  },
+  {
+    "name": "Filandia",
+    "country": "CO",
+    "lat": 4.67472,
+    "lng": -75.65833
+  },
+  {
+    "name": "Filadelfia",
+    "country": "CO",
+    "lat": 5.29606,
+    "lng": -75.5612
+  },
+  {
+    "name": "Fischerbach",
+    "country": "DE",
+    "lat": 48.28687,
+    "lng": 8.10959
+  },
+  {
+    "name": "Fischeln",
+    "country": "DE",
+    "lat": 51.30353,
+    "lng": 6.58836
+  },
+  {
+    "name": "Fischbachau",
+    "country": "DE",
+    "lat": 47.71952,
+    "lng": 11.95081
+  },
+  {
+    "name": "Fischbach",
+    "country": "DE",
+    "lat": 49.08771,
+    "lng": 7.7116
+  },
+  {
+    "name": "Fischach",
+    "country": "DE",
+    "lat": 48.29047,
+    "lng": 10.65592
+  },
+  {
+    "name": "Fintel",
+    "country": "DE",
+    "lat": 53.17188,
+    "lng": 9.66969
+  },
+  {
+    "name": "Finsterwalde",
+    "country": "DE",
+    "lat": 51.63388,
+    "lng": 13.70662
+  },
+  {
+    "name": "Finsterbergen",
+    "country": "DE",
+    "lat": 50.83464,
+    "lng": 10.58916
+  },
+  {
+    "name": "Finsing",
+    "country": "DE",
+    "lat": 48.21615,
+    "lng": 11.82412
+  },
+  {
+    "name": "Finnentrop",
+    "country": "DE",
+    "lat": 51.1736,
+    "lng": 7.9664
+  },
+  {
+    "name": "Filsum",
+    "country": "DE",
+    "lat": 53.24213,
+    "lng": 7.62785
+  },
+  {
+    "name": "Fichtenwalde",
+    "country": "DE",
+    "lat": 52.28038,
+    "lng": 12.88349
+  },
+  {
+    "name": "Fichtenberg",
+    "country": "DE",
+    "lat": 48.98601,
+    "lng": 9.71199
+  },
+  {
+    "name": "Fichtelberg",
+    "country": "DE",
+    "lat": 50.00288,
+    "lng": 11.85425
+  },
+  {
+    "name": "Finningen",
+    "country": "DE",
+    "lat": 48.65452,
+    "lng": 10.49864
+  },
+  {
+    "name": "Filderstadt",
+    "country": "DE",
+    "lat": 48.65698,
+    "lng": 9.22049
+  },
+  {
+    "name": "Firgas",
+    "country": "ES",
+    "lat": 28.10711,
+    "lng": -15.56299
+  },
+  {
+    "name": "Finestrat",
+    "country": "ES",
+    "lat": 38.56737,
+    "lng": -0.21235
+  },
+  {
+    "name": "Fines",
+    "country": "ES",
+    "lat": 37.36074,
+    "lng": -2.2581
+  },
+  {
+    "name": "Fiñana",
+    "country": "ES",
+    "lat": 37.1715,
+    "lng": -2.84011
+  },
+  {
+    "name": "Fitero",
+    "country": "ES",
+    "lat": 42.0577,
+    "lng": -1.85756
+  },
+  {
+    "name": "Fiscal",
+    "country": "ES",
+    "lat": 42.49561,
+    "lng": -0.12094
+  },
+  {
+    "name": "Fisterra",
+    "country": "ES",
+    "lat": 42.90492,
+    "lng": -9.26289
+  },
+  {
+    "name": "Figueruelas",
+    "country": "ES",
+    "lat": 41.76651,
+    "lng": -1.17473
+  },
+  {
+    "name": "Figueruela de Arriba",
+    "country": "ES",
+    "lat": 41.86867,
+    "lng": -6.44454
+  },
+  {
+    "name": "Figueroles",
+    "country": "ES",
+    "lat": 40.11667,
+    "lng": -0.23333
+  },
+  {
+    "name": "Figueres",
+    "country": "ES",
+    "lat": 42.26645,
+    "lng": 2.96163
+  },
+  {
+    "name": "Figaró",
+    "country": "ES",
+    "lat": 41.72122,
+    "lng": 2.27297
+  },
+  {
+    "name": "Finote Selam",
+    "country": "ET",
+    "lat": 10.7,
+    "lng": 37.26667
+  },
+  {
+    "name": "Filakit",
+    "country": "ET",
+    "lat": 11.66667,
+    "lng": 38.8
+  },
+  {
+    "name": "Fichē",
+    "country": "ET",
+    "lat": 9.8,
+    "lng": 38.73333
+  },
+  {
+    "name": "Finlayson",
+    "country": "FI",
+    "lat": 61.50167,
+    "lng": 23.75341
+  },
+  {
+    "name": "Figari",
+    "country": "FR",
+    "lat": 41.48792,
+    "lng": 9.13013
+  },
+  {
+    "name": "Fitz-James",
+    "country": "FR",
+    "lat": 49.39113,
+    "lng": 2.4307
+  },
+  {
+    "name": "Fitilieu",
+    "country": "FR",
+    "lat": 45.54744,
+    "lng": 5.56194
+  },
+  {
+    "name": "Fismes",
+    "country": "FR",
+    "lat": 49.30773,
+    "lng": 3.68607
+  },
+  {
+    "name": "Firminy",
+    "country": "FR",
+    "lat": 45.38956,
+    "lng": 4.2886
+  },
+  {
+    "name": "Firmi",
+    "country": "FR",
+    "lat": 44.54106,
+    "lng": 2.30764
+  },
+  {
+    "name": "Finhan",
+    "country": "FR",
+    "lat": 43.91335,
+    "lng": 1.2212
+  },
+  {
+    "name": "Fillinges",
+    "country": "FR",
+    "lat": 46.15944,
+    "lng": 6.34237
+  },
+  {
+    "name": "Fillé",
+    "country": "FR",
+    "lat": 47.89861,
+    "lng": 0.12502
+  },
+  {
+    "name": "Figeac",
+    "country": "FR",
+    "lat": 44.60894,
+    "lng": 2.03155
+  },
+  {
+    "name": "Figanières",
+    "country": "FR",
+    "lat": 43.56882,
+    "lng": 6.49722
+  },
+  {
+    "name": "Fivemiletown",
+    "country": "GB",
+    "lat": 54.38333,
+    "lng": -7.3
+  },
+  {
+    "name": "Fitzwilliam",
+    "country": "GB",
+    "lat": 53.63288,
+    "lng": -1.3769
+  },
+  {
+    "name": "Fishtoft",
+    "country": "GB",
+    "lat": 52.96095,
+    "lng": 0.02702
+  },
+  {
+    "name": "Fishguard",
+    "country": "GB",
+    "lat": 51.99376,
+    "lng": -4.97631
+  },
+  {
+    "name": "Fishburn",
+    "country": "GB",
+    "lat": 54.68296,
+    "lng": -1.43631
+  },
+  {
+    "name": "Fishbourne",
+    "country": "GB",
+    "lat": 50.83641,
+    "lng": -0.82088
+  },
+  {
+    "name": "Fintona",
+    "country": "GB",
+    "lat": 54.5,
+    "lng": -7.31667
+  },
+  {
+    "name": "Finningley",
+    "country": "GB",
+    "lat": 53.48696,
+    "lng": -0.99083
+  },
+  {
+    "name": "Finedon",
+    "country": "GB",
+    "lat": 52.33917,
+    "lng": -0.65008
+  },
+  {
+    "name": "Findon",
+    "country": "GB",
+    "lat": 50.86816,
+    "lng": -0.40735
+  },
+  {
+    "name": "Findochty",
+    "country": "GB",
+    "lat": 57.69735,
+    "lng": -2.90104
+  },
+  {
+    "name": "Findern",
+    "country": "GB",
+    "lat": 52.87037,
+    "lng": -1.54409
+  },
+  {
+    "name": "Finchley",
+    "country": "GB",
+    "lat": 51.60096,
+    "lng": -0.19518
+  },
+  {
+    "name": "Finchampstead",
+    "country": "GB",
+    "lat": 51.36149,
+    "lng": -0.85728
+  },
+  {
+    "name": "Fimber",
+    "country": "GB",
+    "lat": 54.03495,
+    "lng": -0.63133
+  },
+  {
+    "name": "Filey",
+    "country": "GB",
+    "lat": 54.21,
+    "lng": -0.28917
+  },
+  {
+    "name": "Five Oak Green",
+    "country": "GB",
+    "lat": 51.18338,
+    "lng": 0.35517
+  },
+  {
+    "name": "Fidako",
+    "country": "GN",
+    "lat": 12.10397,
+    "lng": -9.175
+  },
+  {
+    "name": "Firá",
+    "country": "GR",
+    "lat": 36.42107,
+    "lng": 25.43087
+  },
+  {
+    "name": "Filótion",
+    "country": "GR",
+    "lat": 37.05167,
+    "lng": 25.49829
+  },
+  {
+    "name": "Filothéi",
+    "country": "GR",
+    "lat": 38.02524,
+    "lng": 23.78257
+  },
+  {
+    "name": "Filippiáda",
+    "country": "GR",
+    "lat": 39.20472,
+    "lng": 20.88222
+  },
+  {
+    "name": "Filiatrá",
+    "country": "GR",
+    "lat": 37.15637,
+    "lng": 21.58532
+  },
+  {
+    "name": "Filiátes",
+    "country": "GR",
+    "lat": 39.60111,
+    "lng": 20.31194
+  },
+  {
+    "name": "Filótas",
+    "country": "GR",
+    "lat": 40.6252,
+    "lng": 21.70851
+  },
+  {
+    "name": "Fillýra",
+    "country": "GR",
+    "lat": 41.11667,
+    "lng": 25.63333
+  },
+  {
+    "name": "Finglas",
+    "country": "IE",
+    "lat": 53.38917,
+    "lng": -6.29694
+  },
+  {
+    "name": "Firhouse",
+    "country": "IE",
+    "lat": 53.28167,
+    "lng": -6.33917
+  },
+  {
+    "name": "Firozpur",
+    "country": "IN",
+    "lat": 30.92574,
+    "lng": 74.61311
+  },
+  {
+    "name": "Fingeshwar",
+    "country": "IN",
+    "lat": 20.96898,
+    "lng": 82.04039
+  },
+  {
+    "name": "Fiumefreddo Sicilia",
+    "country": "IT",
+    "lat": 37.79146,
+    "lng": 15.20919
+  },
+  {
+    "name": "Fiumefreddo Bruzio",
+    "country": "IT",
+    "lat": 39.23568,
+    "lng": 16.07056
+  },
+  {
+    "name": "Fiumedinisi",
+    "country": "IT",
+    "lat": 38.02596,
+    "lng": 15.38099
+  },
+  {
+    "name": "Firmo",
+    "country": "IT",
+    "lat": 39.72208,
+    "lng": 16.16344
+  },
+  {
+    "name": "Finale",
+    "country": "IT",
+    "lat": 38.01891,
+    "lng": 14.16151
+  },
+  {
+    "name": "Filogaso",
+    "country": "IT",
+    "lat": 38.68287,
+    "lng": 16.22584
+  },
+  {
+    "name": "Filadelfia",
+    "country": "IT",
+    "lat": 38.78468,
+    "lng": 16.292
+  },
+  {
+    "name": "Ficarra",
+    "country": "IT",
+    "lat": 38.10849,
+    "lng": 14.8299
+  },
+  {
+    "name": "Ficarazzi",
+    "country": "IT",
+    "lat": 38.09229,
+    "lng": 13.4639
+  },
+  {
+    "name": "Fivizzano",
+    "country": "IT",
+    "lat": 44.23784,
+    "lng": 10.1265
+  },
+  {
+    "name": "Fiumicino",
+    "country": "IT",
+    "lat": 41.77093,
+    "lng": 12.23662
+  },
+  {
+    "name": "Fiume Veneto",
+    "country": "IT",
+    "lat": 45.92865,
+    "lng": 12.73811
+  },
+  {
+    "name": "Fiumana",
+    "country": "IT",
+    "lat": 44.14325,
+    "lng": 11.98719
+  },
+  {
+    "name": "Fiumalbo-Dogana",
+    "country": "IT",
+    "lat": 44.17925,
+    "lng": 10.6472
+  },
+  {
+    "name": "Fiuggi",
+    "country": "IT",
+    "lat": 41.7978,
+    "lng": 13.22386
+  },
+  {
+    "name": "Fisciano",
+    "country": "IT",
+    "lat": 40.77175,
+    "lng": 14.79454
+  },
+  {
+    "name": "Firenzuola",
+    "country": "IT",
+    "lat": 44.11968,
+    "lng": 11.38185
+  },
+  {
+    "name": "Fiorenzuola d'Arda",
+    "country": "IT",
+    "lat": 44.92435,
+    "lng": 9.91329
+  },
+  {
+    "name": "Fiorano",
+    "country": "IT",
+    "lat": 44.53889,
+    "lng": 10.81166
+  },
+  {
+    "name": "Fino Mornasco",
+    "country": "IT",
+    "lat": 45.7429,
+    "lng": 9.04996
+  },
+  {
+    "name": "Finale Ligure",
+    "country": "IT",
+    "lat": 44.16952,
+    "lng": 8.3436
+  },
+  {
+    "name": "Finale Emilia",
+    "country": "IT",
+    "lat": 44.83373,
+    "lng": 11.29378
+  },
+  {
+    "name": "Filottrano",
+    "country": "IT",
+    "lat": 43.43553,
+    "lng": 13.35141
+  },
+  {
+    "name": "Filignano",
+    "country": "IT",
+    "lat": 41.54578,
+    "lng": 14.05757
+  },
+  {
+    "name": "Filighera",
+    "country": "IT",
+    "lat": 45.17496,
+    "lng": 9.31646
+  },
+  {
+    "name": "Filiano",
+    "country": "IT",
+    "lat": 40.81042,
+    "lng": 15.70984
+  },
+  {
+    "name": "Filettole",
+    "country": "IT",
+    "lat": 43.81307,
+    "lng": 10.40239
+  },
+  {
+    "name": "Filetto",
+    "country": "IT",
+    "lat": 42.22931,
+    "lng": 14.24501
+  },
+  {
+    "name": "Filettino",
+    "country": "IT",
+    "lat": 41.89131,
+    "lng": 13.32531
+  },
+  {
+    "name": "Filacciano",
+    "country": "IT",
+    "lat": 42.25445,
+    "lng": 12.5988
+  },
+  {
+    "name": "Figline Valdarno",
+    "country": "IT",
+    "lat": 43.61995,
+    "lng": 11.47191
+  },
+  {
+    "name": "Fiesso Umbertiano",
+    "country": "IT",
+    "lat": 44.96072,
+    "lng": 11.60576
+  },
+  {
+    "name": "Fiesse",
+    "country": "IT",
+    "lat": 45.23207,
+    "lng": 10.32417
+  },
+  {
+    "name": "Fiesole",
+    "country": "IT",
+    "lat": 43.80455,
+    "lng": 11.29487
+  },
+  {
+    "name": "Fiera di Primiero",
+    "country": "IT",
+    "lat": 46.17621,
+    "lng": 11.82879
+  },
+  {
+    "name": "Fiè Allo Sciliar",
+    "country": "IT",
+    "lat": 46.51672,
+    "lng": 11.50128
+  },
+  {
+    "name": "Fidenza",
+    "country": "IT",
+    "lat": 44.86694,
+    "lng": 10.06039
+  },
+  {
+    "name": "Ficulle",
+    "country": "IT",
+    "lat": 42.83194,
+    "lng": 12.06801
+  },
+  {
+    "name": "Ficarolo",
+    "country": "IT",
+    "lat": 44.95425,
+    "lng": 11.43662
+  },
+  {
+    "name": "Fiavè",
+    "country": "IT",
+    "lat": 46.00457,
+    "lng": 10.84225
+  },
+  {
+    "name": "Fiano Romano",
+    "country": "IT",
+    "lat": 42.15538,
+    "lng": 12.59467
+  },
+  {
+    "name": "Fiano",
+    "country": "IT",
+    "lat": 45.21631,
+    "lng": 7.52603
+  },
+  {
+    "name": "Fiamignano",
+    "country": "IT",
+    "lat": 42.26546,
+    "lng": 13.12413
+  },
+  {
+    "name": "Fiesso d'Artico",
+    "country": "IT",
+    "lat": 45.42139,
+    "lng": 12.02944
+  },
+  {
+    "name": "Fierozzo",
+    "country": "IT",
+    "lat": 46.11131,
+    "lng": 11.31848
+  },
+  {
+    "name": "Fiumicello",
+    "country": "IT",
+    "lat": 45.79202,
+    "lng": 13.40964
+  },
+  {
+    "name": "Fiumara",
+    "country": "IT",
+    "lat": 38.21267,
+    "lng": 15.69369
+  },
+  {
+    "name": "Filago",
+    "country": "IT",
+    "lat": 45.63758,
+    "lng": 9.55635
+  },
+  {
+    "name": "Fiorano al Serio",
+    "country": "IT",
+    "lat": 45.80018,
+    "lng": 9.84276
+  },
+  {
+    "name": "Figino Serenza",
+    "country": "IT",
+    "lat": 45.71048,
+    "lng": 9.13114
+  },
+  {
+    "name": "Fino del Monte",
+    "country": "IT",
+    "lat": 45.89269,
+    "lng": 9.99406
+  },
+  {
+    "name": "Fiesco",
+    "country": "IT",
+    "lat": 45.33737,
+    "lng": 9.77786
+  },
+  {
+    "name": "Fiorano Canavese",
+    "country": "IT",
+    "lat": 45.46776,
+    "lng": 7.83372
+  },
+  {
+    "name": "Figline Vegliaturo",
+    "country": "IT",
+    "lat": 39.22519,
+    "lng": 16.3303
+  },
+  {
+    "name": "Filandari",
+    "country": "IT",
+    "lat": 38.61508,
+    "lng": 16.0314
+  },
+  {
+    "name": "Filattiera",
+    "country": "IT",
+    "lat": 44.33005,
+    "lng": 9.93308
+  },
+  {
+    "name": "Fizzonasco",
+    "country": "IT",
+    "lat": 45.37241,
+    "lng": 9.19066
+  },
+  {
+    "name": "Fiesso",
+    "country": "IT",
+    "lat": 45.41954,
+    "lng": 12.03378
+  },
+  {
+    "name": "Figino",
+    "country": "IT",
+    "lat": 45.49261,
+    "lng": 9.07779
+  },
+  {
+    "name": "Figliaro",
+    "country": "IT",
+    "lat": 45.77992,
+    "lng": 8.94466
+  },
+  {
+    "name": "Fig Tree",
+    "country": "KN",
+    "lat": 17.12623,
+    "lng": -62.60265
+  },
+  {
+    "name": "Fish Town",
+    "country": "LR",
+    "lat": 5.19739,
+    "lng": -7.87579
+  },
+  {
+    "name": "Fischbach",
+    "country": "LU",
+    "lat": 49.746,
+    "lng": 6.18702
+  },
+  {
+    "name": "Figuig (Centre)",
+    "country": "MA",
+    "lat": 32.10891,
+    "lng": -1.22855
+  },
+  {
+    "name": "Fifi",
+    "country": "MA",
+    "lat": 34.94873,
+    "lng": -5.24798
+  },
+  {
+    "name": "Fianarantsoa",
+    "country": "MG",
+    "lat": -21.45267,
+    "lng": 47.08569
+  },
+  {
+    "name": "Figuira-Toma",
+    "country": "ML",
+    "lat": 11.91667,
+    "lng": -8.36667
+  },
+  {
+    "name": "Filomeno Mata",
+    "country": "MX",
+    "lat": 20.20004,
+    "lng": -97.70392
+  },
+  {
+    "name": "Filingué",
+    "country": "NE",
+    "lat": 14.3521,
+    "lng": 3.3168
+  },
+  {
+    "name": "Fika",
+    "country": "NG",
+    "lat": 11.28674,
+    "lng": 11.30772
+  },
+  {
+    "name": "Fiditi",
+    "country": "NG",
+    "lat": 7.71393,
+    "lng": 3.91665
+  },
+  {
+    "name": "Fijnaart",
+    "country": "NL",
+    "lat": 51.6375,
+    "lng": 4.46944
+  },
+  {
+    "name": "Fitjar",
+    "country": "NO",
+    "lat": 59.91803,
+    "lng": 5.31674
+  },
+  {
+    "name": "Finnsnes",
+    "country": "NO",
+    "lat": 69.22959,
+    "lng": 17.98114
+  },
+  {
+    "name": "Fillan",
+    "country": "NO",
+    "lat": 63.60638,
+    "lng": 8.96961
+  },
+  {
+    "name": "Fiskå",
+    "country": "NO",
+    "lat": 62.10059,
+    "lng": 5.55788
+  },
+  {
+    "name": "Fitzroy",
+    "country": "NZ",
+    "lat": -39.05,
+    "lng": 174.1
+  },
+  {
+    "name": "Fitzherbert",
+    "country": "NZ",
+    "lat": -40.37825,
+    "lng": 175.63021
+  },
+  {
+    "name": "Finca Blanco",
+    "country": "PA",
+    "lat": 8.38263,
+    "lng": -82.87405
+  },
+  {
+    "name": "Fitii",
+    "country": "PF",
+    "lat": -16.73535,
+    "lng": -151.0327
+  },
+  {
+    "name": "Finschhafen",
+    "country": "PG",
+    "lat": -6.604,
+    "lng": 147.848
+  },
+  {
+    "name": "Firlej",
+    "country": "PL",
+    "lat": 51.55882,
+    "lng": 22.50841
+  },
+  {
+    "name": "Filipów",
+    "country": "PL",
+    "lat": 54.18037,
+    "lng": 22.62076
+  },
+  {
+    "name": "Filipowice",
+    "country": "PL",
+    "lat": 50.15573,
+    "lng": 19.56579
+  },
+  {
+    "name": "Figueiró dos Vinhos",
+    "country": "PT",
+    "lat": 39.90413,
+    "lng": -8.27511
+  },
+  {
+    "name": "Figueiró",
+    "country": "PT",
+    "lat": 41.29922,
+    "lng": -8.16779
+  },
+  {
+    "name": "Figueira de Castelo Rodrigo",
+    "country": "PT",
+    "lat": 40.89262,
+    "lng": -6.9635
+  },
+  {
+    "name": "Figueira da Foz",
+    "country": "PT",
+    "lat": 40.15085,
+    "lng": -8.86179
+  },
+  {
+    "name": "Fiães",
+    "country": "PT",
+    "lat": 40.99446,
+    "lng": -8.52537
+  },
+  {
+    "name": "Filadelfia",
+    "country": "PY",
+    "lat": -22.33936,
+    "lng": -60.03157
+  },
+  {
+    "name": "Fizeşu Gherlii",
+    "country": "RO",
+    "lat": 47.01667,
+    "lng": 23.98333
+  },
+  {
+    "name": "Fizeș",
+    "country": "RO",
+    "lat": 45.36403,
+    "lng": 21.59517
+  },
+  {
+    "name": "Fitioneşti",
+    "country": "RO",
+    "lat": 45.98333,
+    "lng": 27.05
+  },
+  {
+    "name": "Fișer",
+    "country": "RO",
+    "lat": 46.07912,
+    "lng": 25.15103
+  },
+  {
+    "name": "Finta Mare",
+    "country": "RO",
+    "lat": 44.8,
+    "lng": 25.8
+  },
+  {
+    "name": "Finiş",
+    "country": "RO",
+    "lat": 46.63333,
+    "lng": 22.31667
+  },
+  {
+    "name": "Filipeştii de Târg",
+    "country": "RO",
+    "lat": 44.98333,
+    "lng": 25.78333
+  },
+  {
+    "name": "Filipeştii de Pădure",
+    "country": "RO",
+    "lat": 45.0,
+    "lng": 25.75
+  },
+  {
+    "name": "Filipeşti",
+    "country": "RO",
+    "lat": 46.75,
+    "lng": 26.88333
+  },
+  {
+    "name": "Filipeni",
+    "country": "RO",
+    "lat": 46.53333,
+    "lng": 27.18333
+  },
+  {
+    "name": "Filioara",
+    "country": "RO",
+    "lat": 47.1604,
+    "lng": 26.2792
+  },
+  {
+    "name": "Filiaşi",
+    "country": "RO",
+    "lat": 44.55,
+    "lng": 23.51667
+  },
+  {
+    "name": "Filiaș",
+    "country": "RO",
+    "lat": 46.27075,
+    "lng": 25.0212
+  },
+  {
+    "name": "Filia",
+    "country": "RO",
+    "lat": 46.14409,
+    "lng": 25.6214
+  },
+  {
+    "name": "Fildu de Jos",
+    "country": "RO",
+    "lat": 46.93333,
+    "lng": 23.06667
+  },
+  {
+    "name": "Fierbinţi-Târg",
+    "country": "RO",
+    "lat": 44.682,
+    "lng": 26.401
+  },
+  {
+    "name": "Fierbinții de Sus",
+    "country": "RO",
+    "lat": 44.68988,
+    "lng": 26.396
+  },
+  {
+    "name": "Fierbinții de Jos",
+    "country": "RO",
+    "lat": 44.69523,
+    "lng": 26.39629
+  },
+  {
+    "name": "Fierbinți",
+    "country": "RO",
+    "lat": 44.50747,
+    "lng": 25.2876
+  },
+  {
+    "name": "Fieni",
+    "country": "RO",
+    "lat": 45.13333,
+    "lng": 25.41667
+  },
+  {
+    "name": "Fibiș",
+    "country": "RO",
+    "lat": 45.9728,
+    "lng": 21.42355
+  },
+  {
+    "name": "Firsanovka",
+    "country": "RU",
+    "lat": 55.95361,
+    "lng": 37.24083
+  },
+  {
+    "name": "Firovo",
+    "country": "RU",
+    "lat": 57.48135,
+    "lng": 33.70211
+  },
+  {
+    "name": "Filimonki",
+    "country": "RU",
+    "lat": 55.55794,
+    "lng": 37.34719
+  },
+  {
+    "name": "Fili",
+    "country": "RU",
+    "lat": 55.74819,
+    "lng": 37.47969
+  },
+  {
+    "name": "Filimonovo",
+    "country": "RU",
+    "lat": 56.20111,
+    "lng": 95.46111
+  },
+  {
+    "name": "Finlyandskiy",
+    "country": "RU",
+    "lat": 59.96824,
+    "lng": 30.36415
+  },
+  {
+    "name": "Filippovka",
+    "country": "RU",
+    "lat": 57.4373,
+    "lng": 57.01934
+  },
+  {
+    "name": "Fittja",
+    "country": "SE",
+    "lat": 59.24868,
+    "lng": 17.85991
+  },
+  {
+    "name": "Finspång",
+    "country": "SE",
+    "lat": 58.70578,
+    "lng": 15.76739
+  },
+  {
+    "name": "Filipstad",
+    "country": "SE",
+    "lat": 59.71236,
+    "lng": 14.16831
+  },
+  {
+    "name": "Fisksätra",
+    "country": "SE",
+    "lat": 59.29153,
+    "lng": 18.2549
+  },
+  {
+    "name": "Fiľakovo",
+    "country": "SK",
+    "lat": 48.26757,
+    "lng": 19.82473
+  },
+  {
+    "name": "Fiorentino",
+    "country": "SM",
+    "lat": 43.91001,
+    "lng": 12.45738
+  },
+  {
+    "name": "Fianga",
+    "country": "TD",
+    "lat": 9.9146,
+    "lng": 15.1399
+  },
+  {
+    "name": "Finike",
+    "country": "TR",
+    "lat": 36.295,
+    "lng": 30.14056
+  },
+  {
+    "name": "Filyos",
+    "country": "TR",
+    "lat": 41.55383,
+    "lng": 32.02389
+  },
+  {
+    "name": "Filatovka",
+    "country": "UA",
+    "lat": 46.08192,
+    "lng": 33.7851
+  },
+  {
+    "name": "Fish Hawk",
+    "country": "US",
+    "lat": 27.85058,
+    "lng": -82.21092
+  },
+  {
+    "name": "Five Points",
+    "country": "US",
+    "lat": 30.20912,
+    "lng": -82.63735
+  },
+  {
+    "name": "Fitzgerald",
+    "country": "US",
+    "lat": 31.71491,
+    "lng": -83.25265
+  },
+  {
+    "name": "Fishers",
+    "country": "US",
+    "lat": 39.95559,
+    "lng": -86.01387
+  },
+  {
+    "name": "Finneytown",
+    "country": "US",
+    "lat": 39.20034,
+    "lng": -84.5205
+  },
+  {
+    "name": "Five Points",
+    "country": "US",
+    "lat": 39.56867,
+    "lng": -84.19299
+  },
+  {
+    "name": "Fishtown",
+    "country": "US",
+    "lat": 39.96511,
+    "lng": -75.13545
+  },
+  {
+    "name": "Five Forks",
+    "country": "US",
+    "lat": 34.80484,
+    "lng": -82.22956
+  },
+  {
+    "name": "Fincastle",
+    "country": "US",
+    "lat": 36.4098,
+    "lng": -84.0477
+  },
+  {
+    "name": "Fifth Street",
+    "country": "US",
+    "lat": 29.59829,
+    "lng": -95.55133
+  },
+  {
+    "name": "Fincastle",
+    "country": "US",
+    "lat": 37.4993,
+    "lng": -79.87726
+  },
+  {
+    "name": "Fishersville",
+    "country": "US",
+    "lat": 38.09902,
+    "lng": -78.96919
+  },
+  {
+    "name": "Fisher",
+    "country": "US",
+    "lat": 40.31476,
+    "lng": -88.35005
+  },
+  {
+    "name": "Fish Lake",
+    "country": "US",
+    "lat": 41.56671,
+    "lng": -86.55196
+  },
+  {
+    "name": "Fiskdale",
+    "country": "US",
+    "lat": 42.11621,
+    "lng": -72.11341
+  },
+  {
+    "name": "Fitchburg",
+    "country": "US",
+    "lat": 42.58342,
+    "lng": -71.8023
+  },
+  {
+    "name": "Finley",
+    "country": "US",
+    "lat": 47.51416,
+    "lng": -97.83593
+  },
+  {
+    "name": "Fitzwilliam",
+    "country": "US",
+    "lat": 42.78064,
+    "lng": -72.14175
+  },
+  {
+    "name": "Finderne",
+    "country": "US",
+    "lat": 40.56316,
+    "lng": -74.57766
+  },
+  {
+    "name": "Firthcliffe",
+    "country": "US",
+    "lat": 41.43926,
+    "lng": -74.04514
+  },
+  {
+    "name": "Fishkill",
+    "country": "US",
+    "lat": 41.53565,
+    "lng": -73.89903
+  },
+  {
+    "name": "Findlay",
+    "country": "US",
+    "lat": 41.04422,
+    "lng": -83.64993
+  },
+  {
+    "name": "Fivepointville",
+    "country": "US",
+    "lat": 40.18287,
+    "lng": -76.05106
+  },
+  {
+    "name": "Fitchburg",
+    "country": "US",
+    "lat": 42.96083,
+    "lng": -89.46984
+  },
+  {
+    "name": "Fillmore",
+    "country": "US",
+    "lat": 34.39916,
+    "lng": -118.91815
+  },
+  {
+    "name": "First Mesa",
+    "country": "US",
+    "lat": 35.83667,
+    "lng": -110.38152
+  },
+  {
+    "name": "Firebaugh",
+    "country": "US",
+    "lat": 36.85884,
+    "lng": -120.45601
+  },
+  {
+    "name": "Fillmore",
+    "country": "US",
+    "lat": 38.96885,
+    "lng": -112.32355
+  },
+  {
+    "name": "Firestone",
+    "country": "US",
+    "lat": 40.11248,
+    "lng": -104.93664
+  },
+  {
+    "name": "Filer",
+    "country": "US",
+    "lat": 42.57019,
+    "lng": -114.60782
+  },
+  {
+    "name": "Fife",
+    "country": "US",
+    "lat": 47.23927,
+    "lng": -122.35707
+  },
+  {
+    "name": "Fife Heights",
+    "country": "US",
+    "lat": 47.25899,
+    "lng": -122.34568
+  },
+  {
+    "name": "Finley",
+    "country": "US",
+    "lat": 46.15402,
+    "lng": -119.0339
+  },
+  {
+    "name": "Fircrest",
+    "country": "US",
+    "lat": 47.23954,
+    "lng": -122.51596
+  },
+  {
+    "name": "Five Corners",
+    "country": "US",
+    "lat": 45.68456,
+    "lng": -122.5751
+  },
+  {
+    "name": "Fishhook",
+    "country": "US",
+    "lat": 61.74402,
+    "lng": -149.23613
+  },
+  {
+    "name": "Financial District",
+    "country": "US",
+    "lat": 40.70789,
+    "lng": -74.00857
+  },
+  {
+    "name": "Firing Range",
+    "country": "US",
+    "lat": 33.43752,
+    "lng": -82.69068
+  },
+  {
+    "name": "Financial District",
+    "country": "US",
+    "lat": 21.30924,
+    "lng": -157.86134
+  },
+  {
+    "name": "Ficksburg",
+    "country": "ZA",
+    "lat": -28.872,
+    "lng": 27.87506
+  },
+  {
+    "name": "Fisantekraal",
+    "country": "ZA",
+    "lat": -33.78545,
+    "lng": 18.71406
+  },
+  {
+    "name": "Filabusi",
+    "country": "ZW",
+    "lat": -20.53333,
+    "lng": 29.28502
+  }
+]

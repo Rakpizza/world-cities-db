@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Gdyel",
+    "country": "DZ",
+    "lat": 35.78111,
+    "lng": -0.42581
+  },
+  {
+    "name": "Gdów",
+    "country": "PL",
+    "lat": 49.90818,
+    "lng": 20.19879
+  },
+  {
+    "name": "Gdynia",
+    "country": "PL",
+    "lat": 54.51889,
+    "lng": 18.53188
+  },
+  {
+    "name": "Gdańsk",
+    "country": "PL",
+    "lat": 54.35227,
+    "lng": 18.64912
+  },
+  {
+    "name": "Gdov",
+    "country": "RU",
+    "lat": 58.74439,
+    "lng": 27.81959
+  }
+]

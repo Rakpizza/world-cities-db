@@ -1,0 +1,4016 @@
+[
+  {
+    "name": "Formosa",
+    "country": "AR",
+    "lat": -26.18489,
+    "lng": -58.17313
+  },
+  {
+    "name": "Fontana",
+    "country": "AR",
+    "lat": -27.42039,
+    "lng": -59.03731
+  },
+  {
+    "name": "Forstau",
+    "country": "AT",
+    "lat": 47.37842,
+    "lng": 13.55558
+  },
+  {
+    "name": "Fornach",
+    "country": "AT",
+    "lat": 48.02277,
+    "lng": 13.42941
+  },
+  {
+    "name": "Forchtenstein",
+    "country": "AT",
+    "lat": 47.71161,
+    "lng": 16.34525
+  },
+  {
+    "name": "Forchach",
+    "country": "AT",
+    "lat": 47.41667,
+    "lng": 10.58333
+  },
+  {
+    "name": "Fohnsdorf",
+    "country": "AT",
+    "lat": 47.20798,
+    "lng": 14.67586
+  },
+  {
+    "name": "Foster",
+    "country": "AU",
+    "lat": -38.65275,
+    "lng": 146.20073
+  },
+  {
+    "name": "Forster",
+    "country": "AU",
+    "lat": -32.18136,
+    "lng": 152.51715
+  },
+  {
+    "name": "Forest Hill",
+    "country": "AU",
+    "lat": -35.1481,
+    "lng": 147.46707
+  },
+  {
+    "name": "Forest Hill",
+    "country": "AU",
+    "lat": -37.83333,
+    "lng": 145.18333
+  },
+  {
+    "name": "Forbes",
+    "country": "AU",
+    "lat": -33.38436,
+    "lng": 148.0076
+  },
+  {
+    "name": "Footscray",
+    "country": "AU",
+    "lat": -37.8,
+    "lng": 144.9
+  },
+  {
+    "name": "Forestville",
+    "country": "AU",
+    "lat": -33.76667,
+    "lng": 151.20833
+  },
+  {
+    "name": "Fortitude Valley",
+    "country": "AU",
+    "lat": -27.45706,
+    "lng": 153.03178
+  },
+  {
+    "name": "Forresters Beach",
+    "country": "AU",
+    "lat": -33.407,
+    "lng": 151.476
+  },
+  {
+    "name": "Forde",
+    "country": "AU",
+    "lat": -35.16823,
+    "lng": 149.14607
+  },
+  {
+    "name": "Forestdale",
+    "country": "AU",
+    "lat": -27.66334,
+    "lng": 153.00383
+  },
+  {
+    "name": "Forest Lodge",
+    "country": "AU",
+    "lat": -33.88137,
+    "lng": 151.18
+  },
+  {
+    "name": "Forrestfield",
+    "country": "AU",
+    "lat": -31.98277,
+    "lng": 116.00673
+  },
+  {
+    "name": "Forrestdale",
+    "country": "AU",
+    "lat": -32.1552,
+    "lng": 115.93417
+  },
+  {
+    "name": "Forrest",
+    "country": "AU",
+    "lat": -35.31499,
+    "lng": 149.12859
+  },
+  {
+    "name": "Forest Lake",
+    "country": "AU",
+    "lat": -27.62563,
+    "lng": 152.96883
+  },
+  {
+    "name": "Forestville",
+    "country": "AU",
+    "lat": -34.94946,
+    "lng": 138.57845
+  },
+  {
+    "name": "Forest Glen",
+    "country": "AU",
+    "lat": -26.68864,
+    "lng": 153.00453
+  },
+  {
+    "name": "Fojnica",
+    "country": "BA",
+    "lat": 43.95952,
+    "lng": 17.90288
+  },
+  {
+    "name": "Foča",
+    "country": "BA",
+    "lat": 43.50646,
+    "lng": 18.77854
+  },
+  {
+    "name": "Four Cross Roads",
+    "country": "BB",
+    "lat": 13.17018,
+    "lng": -59.52186
+  },
+  {
+    "name": "Fosses-la-Ville",
+    "country": "BE",
+    "lat": 50.39517,
+    "lng": 4.69623
+  },
+  {
+    "name": "Fosse",
+    "country": "BE",
+    "lat": 50.34001,
+    "lng": 5.84083
+  },
+  {
+    "name": "Forville",
+    "country": "BE",
+    "lat": 50.57424,
+    "lng": 4.99861
+  },
+  {
+    "name": "Forrières",
+    "country": "BE",
+    "lat": 50.13132,
+    "lng": 5.28268
+  },
+  {
+    "name": "Forges",
+    "country": "BE",
+    "lat": 50.02569,
+    "lng": 4.32765
+  },
+  {
+    "name": "Forêt",
+    "country": "BE",
+    "lat": 50.58387,
+    "lng": 5.7
+  },
+  {
+    "name": "Forest",
+    "country": "BE",
+    "lat": 50.81678,
+    "lng": 4.32775
+  },
+  {
+    "name": "Forchies-la-Marche",
+    "country": "BE",
+    "lat": 50.4369,
+    "lng": 4.32115
+  },
+  {
+    "name": "Fontaine-Valmont",
+    "country": "BE",
+    "lat": 50.31994,
+    "lng": 4.21467
+  },
+  {
+    "name": "Fontaine-l'Évêque",
+    "country": "BE",
+    "lat": 50.40907,
+    "lng": 4.32427
+  },
+  {
+    "name": "Fortuna",
+    "country": "BR",
+    "lat": -5.73333,
+    "lng": -44.15833
+  },
+  {
+    "name": "Fortim",
+    "country": "BR",
+    "lat": -4.45194,
+    "lng": -37.79722
+  },
+  {
+    "name": "Fortaleza dos Nogueiras",
+    "country": "BR",
+    "lat": -6.96389,
+    "lng": -46.17722
+  },
+  {
+    "name": "Fortaleza",
+    "country": "BR",
+    "lat": -3.71722,
+    "lng": -38.54306
+  },
+  {
+    "name": "Forquilha",
+    "country": "BR",
+    "lat": -3.79833,
+    "lng": -40.26056
+  },
+  {
+    "name": "Formosa da Serra Negra",
+    "country": "BR",
+    "lat": -6.44458,
+    "lng": -46.18883
+  },
+  {
+    "name": "Fortaleza do Tabocão",
+    "country": "BR",
+    "lat": -9.05722,
+    "lng": -48.51889
+  },
+  {
+    "name": "Foz do Jordão",
+    "country": "BR",
+    "lat": -25.73715,
+    "lng": -52.11844
+  },
+  {
+    "name": "Foz do Iguaçu",
+    "country": "BR",
+    "lat": -25.54778,
+    "lng": -54.58806
+  },
+  {
+    "name": "Fortuna de Minas",
+    "country": "BR",
+    "lat": -19.56139,
+    "lng": -44.44727
+  },
+  {
+    "name": "Fortaleza dos Valos",
+    "country": "BR",
+    "lat": -28.79722,
+    "lng": -53.22278
+  },
+  {
+    "name": "Forquilhinha",
+    "country": "BR",
+    "lat": -28.7475,
+    "lng": -49.47222
+  },
+  {
+    "name": "Formoso",
+    "country": "BR",
+    "lat": -14.94667,
+    "lng": -46.23194
+  },
+  {
+    "name": "Formoso",
+    "country": "BR",
+    "lat": -13.65361,
+    "lng": -48.88194
+  },
+  {
+    "name": "Formoso do Araguaia",
+    "country": "BR",
+    "lat": -11.79667,
+    "lng": -49.52889
+  },
+  {
+    "name": "Formosa do Rio Preto",
+    "country": "BR",
+    "lat": -11.04833,
+    "lng": -45.19306
+  },
+  {
+    "name": "Formosa",
+    "country": "BR",
+    "lat": -15.53722,
+    "lng": -47.33444
+  },
+  {
+    "name": "Formigueiro",
+    "country": "BR",
+    "lat": -30.00028,
+    "lng": -53.49917
+  },
+  {
+    "name": "Formiga",
+    "country": "BR",
+    "lat": -20.46444,
+    "lng": -45.42639
+  },
+  {
+    "name": "Fontoura Xavier",
+    "country": "BR",
+    "lat": -28.98278,
+    "lng": -52.34583
+  },
+  {
+    "name": "Fonte Boa",
+    "country": "BR",
+    "lat": -2.51389,
+    "lng": -66.09167
+  },
+  {
+    "name": "Formosa do Oeste",
+    "country": "BR",
+    "lat": -24.29278,
+    "lng": -53.3125
+  },
+  {
+    "name": "Formosa do Sul",
+    "country": "BR",
+    "lat": -26.64694,
+    "lng": -52.79417
+  },
+  {
+    "name": "Forquetinha",
+    "country": "BR",
+    "lat": -29.38056,
+    "lng": -52.09444
+  },
+  {
+    "name": "Fortaleza de Minas",
+    "country": "BR",
+    "lat": -20.84917,
+    "lng": -46.71806
+  },
+  {
+    "name": "Fort St. James",
+    "country": "CA",
+    "lat": 54.45597,
+    "lng": -124.26275
+  },
+  {
+    "name": "Foam Lake",
+    "country": "CA",
+    "lat": 51.65001,
+    "lng": -103.53431
+  },
+  {
+    "name": "Fort-Coulonge",
+    "country": "CA",
+    "lat": 45.85011,
+    "lng": -76.73272
+  },
+  {
+    "name": "Fort Erie",
+    "country": "CA",
+    "lat": 42.90012,
+    "lng": -78.93286
+  },
+  {
+    "name": "Fort Frances",
+    "country": "CA",
+    "lat": 48.61667,
+    "lng": -93.4003
+  },
+  {
+    "name": "Fort Langley",
+    "country": "CA",
+    "lat": 49.16838,
+    "lng": -122.58004
+  },
+  {
+    "name": "Fort Macleod",
+    "country": "CA",
+    "lat": 49.71671,
+    "lng": -113.41857
+  },
+  {
+    "name": "Fort McMurray",
+    "country": "CA",
+    "lat": 56.72676,
+    "lng": -111.38103
+  },
+  {
+    "name": "Fort Nelson",
+    "country": "CA",
+    "lat": 58.80533,
+    "lng": -122.7002
+  },
+  {
+    "name": "Fort Saskatchewan",
+    "country": "CA",
+    "lat": 53.69814,
+    "lng": -113.21382
+  },
+  {
+    "name": "Fort Simpson",
+    "country": "CA",
+    "lat": 61.86269,
+    "lng": -121.35159
+  },
+  {
+    "name": "Fort Smith",
+    "country": "CA",
+    "lat": 60.00439,
+    "lng": -111.88871
+  },
+  {
+    "name": "Fort St. John",
+    "country": "CA",
+    "lat": 56.24988,
+    "lng": -120.85292
+  },
+  {
+    "name": "Fox Creek",
+    "country": "CA",
+    "lat": 54.40007,
+    "lng": -116.80238
+  },
+  {
+    "name": "Forestville",
+    "country": "CA",
+    "lat": 48.73808,
+    "lng": -69.08478
+  },
+  {
+    "name": "Fossambault-sur-le-Lac",
+    "country": "CA",
+    "lat": 46.87662,
+    "lng": -71.61541
+  },
+  {
+    "name": "Fogo Island",
+    "country": "CA",
+    "lat": 49.71649,
+    "lng": -54.16981
+  },
+  {
+    "name": "Forest Hill North",
+    "country": "CA",
+    "lat": 43.70422,
+    "lng": -79.42814
+  },
+  {
+    "name": "Forest Hill South",
+    "country": "CA",
+    "lat": 43.69453,
+    "lng": -79.41432
+  },
+  {
+    "name": "Founex",
+    "country": "CH",
+    "lat": 46.33277,
+    "lng": 6.19243
+  },
+  {
+    "name": "Fontenais",
+    "country": "CH",
+    "lat": 47.40292,
+    "lng": 7.08108
+  },
+  {
+    "name": "Fontainemelon",
+    "country": "CH",
+    "lat": 47.05495,
+    "lng": 6.8868
+  },
+  {
+    "name": "Fourouna",
+    "country": "CI",
+    "lat": 8.13357,
+    "lng": -6.62362
+  },
+  {
+    "name": "Foungouésso",
+    "country": "CI",
+    "lat": 7.9489,
+    "lng": -7.67664
+  },
+  {
+    "name": "Foumbolo",
+    "country": "CI",
+    "lat": 8.64189,
+    "lng": -4.64539
+  },
+  {
+    "name": "Foula",
+    "country": "CI",
+    "lat": 9.33892,
+    "lng": -7.78958
+  },
+  {
+    "name": "Fouanga",
+    "country": "CI",
+    "lat": 7.76316,
+    "lng": -6.08752
+  },
+  {
+    "name": "Foro Foro",
+    "country": "CI",
+    "lat": 7.98399,
+    "lng": -5.05851
+  },
+  {
+    "name": "Foro",
+    "country": "CI",
+    "lat": 9.41106,
+    "lng": -5.71389
+  },
+  {
+    "name": "Fonondara",
+    "country": "CI",
+    "lat": 9.47083,
+    "lng": -6.27139
+  },
+  {
+    "name": "Folonfokaha",
+    "country": "CI",
+    "lat": 8.57671,
+    "lng": -5.20799
+  },
+  {
+    "name": "Fodio",
+    "country": "CI",
+    "lat": 9.515,
+    "lng": -6.22223
+  },
+  {
+    "name": "Fodonition",
+    "country": "CI",
+    "lat": 9.49843,
+    "lng": -5.64127
+  },
+  {
+    "name": "Foto-Kouamékro",
+    "country": "CI",
+    "lat": 7.56834,
+    "lng": -5.13085
+  },
+  {
+    "name": "Foumbot",
+    "country": "CM",
+    "lat": 5.50803,
+    "lng": 10.6325
+  },
+  {
+    "name": "Foumban",
+    "country": "CM",
+    "lat": 5.72662,
+    "lng": 10.89865
+  },
+  {
+    "name": "Fontem",
+    "country": "CM",
+    "lat": 5.4685,
+    "lng": 9.8818
+  },
+  {
+    "name": "Foshan",
+    "country": "CN",
+    "lat": 23.02677,
+    "lng": 113.13148
+  },
+  {
+    "name": "Foya",
+    "country": "CN",
+    "lat": 33.4378,
+    "lng": 105.27333
+  },
+  {
+    "name": "Fozi'ao",
+    "country": "CN",
+    "lat": 22.64927,
+    "lng": 113.83217
+  },
+  {
+    "name": "Fosca",
+    "country": "CO",
+    "lat": 4.33916,
+    "lng": -73.93852
+  },
+  {
+    "name": "Fortul",
+    "country": "CO",
+    "lat": 6.79261,
+    "lng": -71.77596
+  },
+  {
+    "name": "Fonseca",
+    "country": "CO",
+    "lat": 10.88606,
+    "lng": -72.8487
+  },
+  {
+    "name": "Fontanar",
+    "country": "CU",
+    "lat": 23.02389,
+    "lng": -82.408
+  },
+  {
+    "name": "Fomento",
+    "country": "CU",
+    "lat": 22.10475,
+    "lng": -79.72141
+  },
+  {
+    "name": "Forstinning",
+    "country": "DE",
+    "lat": 48.16866,
+    "lng": 11.91244
+  },
+  {
+    "name": "Forst",
+    "country": "DE",
+    "lat": 51.73544,
+    "lng": 14.63971
+  },
+  {
+    "name": "Forst",
+    "country": "DE",
+    "lat": 49.15861,
+    "lng": 8.58083
+  },
+  {
+    "name": "Forchtenberg",
+    "country": "DE",
+    "lat": 49.28867,
+    "lng": 9.56026
+  },
+  {
+    "name": "Forchheim",
+    "country": "DE",
+    "lat": 49.71754,
+    "lng": 11.05877
+  },
+  {
+    "name": "Forchheim",
+    "country": "DE",
+    "lat": 48.16667,
+    "lng": 7.7
+  },
+  {
+    "name": "Forbach",
+    "country": "DE",
+    "lat": 48.68333,
+    "lng": 8.35
+  },
+  {
+    "name": "Fockbek",
+    "country": "DE",
+    "lat": 54.30501,
+    "lng": 9.59884
+  },
+  {
+    "name": "Forlev",
+    "country": "DK",
+    "lat": 55.37445,
+    "lng": 11.25966
+  },
+  {
+    "name": "Foios",
+    "country": "ES",
+    "lat": 39.53333,
+    "lng": -0.35
+  },
+  {
+    "name": "Fortuna",
+    "country": "ES",
+    "lat": 38.1814,
+    "lng": -1.1259
+  },
+  {
+    "name": "Fortaleny",
+    "country": "ES",
+    "lat": 39.18333,
+    "lng": -0.3
+  },
+  {
+    "name": "Fornalutx",
+    "country": "ES",
+    "lat": 39.78232,
+    "lng": 2.74107
+  },
+  {
+    "name": "Formentera de Segura",
+    "country": "ES",
+    "lat": 38.08509,
+    "lng": -0.74604
+  },
+  {
+    "name": "Fontanars dels Alforins",
+    "country": "ES",
+    "lat": 38.78423,
+    "lng": -0.78667
+  },
+  {
+    "name": "Fontanarejo",
+    "country": "ES",
+    "lat": 39.22014,
+    "lng": -4.51753
+  },
+  {
+    "name": "Fonelas",
+    "country": "ES",
+    "lat": 37.41042,
+    "lng": -3.17158
+  },
+  {
+    "name": "Fondón",
+    "country": "ES",
+    "lat": 36.9802,
+    "lng": -2.85957
+  },
+  {
+    "name": "Foz-Calanda",
+    "country": "ES",
+    "lat": 40.92208,
+    "lng": -0.26483
+  },
+  {
+    "name": "Foz",
+    "country": "ES",
+    "lat": 43.5692,
+    "lng": -7.25441
+  },
+  {
+    "name": "Forua",
+    "country": "ES",
+    "lat": 43.33343,
+    "lng": -2.67504
+  },
+  {
+    "name": "Fortià",
+    "country": "ES",
+    "lat": 42.2432,
+    "lng": 3.03881
+  },
+  {
+    "name": "Fortanete",
+    "country": "ES",
+    "lat": 40.50533,
+    "lng": -0.52283
+  },
+  {
+    "name": "Fornelos de Montes",
+    "country": "ES",
+    "lat": 42.34126,
+    "lng": -8.45291
+  },
+  {
+    "name": "Fornells de la Selva",
+    "country": "ES",
+    "lat": 41.93159,
+    "lng": 2.80907
+  },
+  {
+    "name": "Formiche Alto",
+    "country": "ES",
+    "lat": 40.32367,
+    "lng": -0.89241
+  },
+  {
+    "name": "Forfoleda",
+    "country": "ES",
+    "lat": 41.09779,
+    "lng": -5.74979
+  },
+  {
+    "name": "Forès",
+    "country": "ES",
+    "lat": 41.48333,
+    "lng": 1.23333
+  },
+  {
+    "name": "Forcall",
+    "country": "ES",
+    "lat": 40.64542,
+    "lng": -0.19992
+  },
+  {
+    "name": "Fonzaleche",
+    "country": "ES",
+    "lat": 42.58114,
+    "lng": -3.01218
+  },
+  {
+    "name": "Fonz",
+    "country": "ES",
+    "lat": 42.01015,
+    "lng": 0.25878
+  },
+  {
+    "name": "Fontiveros",
+    "country": "ES",
+    "lat": 40.92997,
+    "lng": -4.96445
+  },
+  {
+    "name": "Fontioso",
+    "country": "ES",
+    "lat": 41.94273,
+    "lng": -3.73872
+  },
+  {
+    "name": "Fontihoyuelo",
+    "country": "ES",
+    "lat": 42.16192,
+    "lng": -5.05791
+  },
+  {
+    "name": "Fontellas",
+    "country": "ES",
+    "lat": 42.02694,
+    "lng": -1.57648
+  },
+  {
+    "name": "Fontcoberta",
+    "country": "ES",
+    "lat": 42.13333,
+    "lng": 2.8
+  },
+  {
+    "name": "Fontanilles",
+    "country": "ES",
+    "lat": 42.01117,
+    "lng": 3.10776
+  },
+  {
+    "name": "Fontanar",
+    "country": "ES",
+    "lat": 40.72466,
+    "lng": -3.17309
+  },
+  {
+    "name": "Fonsagrada",
+    "country": "ES",
+    "lat": 43.12398,
+    "lng": -7.0679
+  },
+  {
+    "name": "Fonollosa",
+    "country": "ES",
+    "lat": 41.76303,
+    "lng": 1.66867
+  },
+  {
+    "name": "Fonfría",
+    "country": "ES",
+    "lat": 41.63493,
+    "lng": -6.14081
+  },
+  {
+    "name": "Fonfría",
+    "country": "ES",
+    "lat": 40.99566,
+    "lng": -1.08475
+  },
+  {
+    "name": "Foncea",
+    "country": "ES",
+    "lat": 42.61529,
+    "lng": -3.03897
+  },
+  {
+    "name": "Fompedraza",
+    "country": "ES",
+    "lat": 41.53541,
+    "lng": -4.14483
+  },
+  {
+    "name": "Fombuena",
+    "country": "ES",
+    "lat": 41.14442,
+    "lng": -1.19266
+  },
+  {
+    "name": "Fombellida",
+    "country": "ES",
+    "lat": 41.76693,
+    "lng": -4.18409
+  },
+  {
+    "name": "Folgoso de la Ribera",
+    "country": "ES",
+    "lat": 42.64693,
+    "lng": -6.32035
+  },
+  {
+    "name": "Foixà",
+    "country": "ES",
+    "lat": 42.03626,
+    "lng": 3.00021
+  },
+  {
+    "name": "Fogars de Montclús",
+    "country": "ES",
+    "lat": 41.73333,
+    "lng": 2.45
+  },
+  {
+    "name": "Forcarei",
+    "country": "ES",
+    "lat": 42.59233,
+    "lng": -8.3509
+  },
+  {
+    "name": "Fort Pienc",
+    "country": "ES",
+    "lat": 41.39458,
+    "lng": 2.17946
+  },
+  {
+    "name": "Font-Rubí",
+    "country": "ES",
+    "lat": 41.4343,
+    "lng": 1.59096
+  },
+  {
+    "name": "Fontarrón",
+    "country": "ES",
+    "lat": 40.40141,
+    "lng": -3.64678
+  },
+  {
+    "name": "Forssa",
+    "country": "FI",
+    "lat": 60.81462,
+    "lng": 23.62146
+  },
+  {
+    "name": "Foussais-Payré",
+    "country": "FR",
+    "lat": 46.53333,
+    "lng": -0.68333
+  },
+  {
+    "name": "Fourqueux",
+    "country": "FR",
+    "lat": 48.88693,
+    "lng": 2.06367
+  },
+  {
+    "name": "Fourques-sur-Garonne",
+    "country": "FR",
+    "lat": 44.44857,
+    "lng": 0.15838
+  },
+  {
+    "name": "Fourques",
+    "country": "FR",
+    "lat": 43.6945,
+    "lng": 4.60932
+  },
+  {
+    "name": "Fournes-en-Weppes",
+    "country": "FR",
+    "lat": 50.58497,
+    "lng": 2.88793
+  },
+  {
+    "name": "Fourmies",
+    "country": "FR",
+    "lat": 50.01532,
+    "lng": 4.04784
+  },
+  {
+    "name": "Fourchambault",
+    "country": "FR",
+    "lat": 47.01667,
+    "lng": 3.08333
+  },
+  {
+    "name": "Fouras",
+    "country": "FR",
+    "lat": 45.98839,
+    "lng": -1.09336
+  },
+  {
+    "name": "Fouquières-lès-Lens",
+    "country": "FR",
+    "lat": 50.42842,
+    "lng": 2.91321
+  },
+  {
+    "name": "Fouquières-lès-Béthune",
+    "country": "FR",
+    "lat": 50.51534,
+    "lng": 2.60999
+  },
+  {
+    "name": "Fouquereuil",
+    "country": "FR",
+    "lat": 50.51885,
+    "lng": 2.60024
+  },
+  {
+    "name": "Foulayronnes",
+    "country": "FR",
+    "lat": 44.24029,
+    "lng": 0.64516
+  },
+  {
+    "name": "Fouillard",
+    "country": "FR",
+    "lat": 48.1582,
+    "lng": -1.57915
+  },
+  {
+    "name": "Fougerolles-du-Plessis",
+    "country": "FR",
+    "lat": 48.4747,
+    "lng": -0.97354
+  },
+  {
+    "name": "Fougerolles",
+    "country": "FR",
+    "lat": 47.88542,
+    "lng": 6.40454
+  },
+  {
+    "name": "Fougères",
+    "country": "FR",
+    "lat": 48.35157,
+    "lng": -1.19961
+  },
+  {
+    "name": "Foug",
+    "country": "FR",
+    "lat": 48.68385,
+    "lng": 5.78735
+  },
+  {
+    "name": "Fouesnant",
+    "country": "FR",
+    "lat": 47.89342,
+    "lng": -4.0124
+  },
+  {
+    "name": "Foucherans",
+    "country": "FR",
+    "lat": 47.08094,
+    "lng": 5.45503
+  },
+  {
+    "name": "Foucarmont",
+    "country": "FR",
+    "lat": 49.84682,
+    "lng": 1.56899
+  },
+  {
+    "name": "Fos-sur-Mer",
+    "country": "FR",
+    "lat": 43.43774,
+    "lng": 4.94457
+  },
+  {
+    "name": "Fosses",
+    "country": "FR",
+    "lat": 49.09808,
+    "lng": 2.50957
+  },
+  {
+    "name": "Fortschwihr",
+    "country": "FR",
+    "lat": 48.08825,
+    "lng": 7.4505
+  },
+  {
+    "name": "Fort-Mardyck",
+    "country": "FR",
+    "lat": 51.02899,
+    "lng": 2.30724
+  },
+  {
+    "name": "Fort-Mahon-Plage",
+    "country": "FR",
+    "lat": 50.33955,
+    "lng": 1.55984
+  },
+  {
+    "name": "Fors",
+    "country": "FR",
+    "lat": 46.23622,
+    "lng": -0.40967
+  },
+  {
+    "name": "Formerie",
+    "country": "FR",
+    "lat": 49.64928,
+    "lng": 1.73106
+  },
+  {
+    "name": "Forges-les-Eaux",
+    "country": "FR",
+    "lat": 49.61391,
+    "lng": 1.54449
+  },
+  {
+    "name": "Forges-les-Bains",
+    "country": "FR",
+    "lat": 48.62942,
+    "lng": 2.10264
+  },
+  {
+    "name": "Forest-sur-Marque",
+    "country": "FR",
+    "lat": 50.63341,
+    "lng": 3.18939
+  },
+  {
+    "name": "Forcalquier",
+    "country": "FR",
+    "lat": 43.95927,
+    "lng": 5.77945
+  },
+  {
+    "name": "Forcalqueiret",
+    "country": "FR",
+    "lat": 43.33618,
+    "lng": 6.08346
+  },
+  {
+    "name": "Forbach",
+    "country": "FR",
+    "lat": 49.18848,
+    "lng": 6.89255
+  },
+  {
+    "name": "Fontvieille",
+    "country": "FR",
+    "lat": 43.72806,
+    "lng": 4.70953
+  },
+  {
+    "name": "Font-Romeu-Odeillo-Via",
+    "country": "FR",
+    "lat": 42.50552,
+    "lng": 2.04011
+  },
+  {
+    "name": "Fontoy",
+    "country": "FR",
+    "lat": 49.35597,
+    "lng": 5.9925
+  },
+  {
+    "name": "Fontevraud-l'Abbaye",
+    "country": "FR",
+    "lat": 47.18252,
+    "lng": 0.04897
+  },
+  {
+    "name": "Fontenilles",
+    "country": "FR",
+    "lat": 43.5535,
+    "lng": 1.19142
+  },
+  {
+    "name": "Fontenay-Trésigny",
+    "country": "FR",
+    "lat": 48.70647,
+    "lng": 2.87047
+  },
+  {
+    "name": "Fontenay-sur-Loing",
+    "country": "FR",
+    "lat": 48.10365,
+    "lng": 2.77542
+  },
+  {
+    "name": "Fontenay-sous-Bois",
+    "country": "FR",
+    "lat": 48.85442,
+    "lng": 2.48268
+  },
+  {
+    "name": "Fontenay-lès-Briis",
+    "country": "FR",
+    "lat": 48.61962,
+    "lng": 2.15276
+  },
+  {
+    "name": "Fontenay-le-Marmion",
+    "country": "FR",
+    "lat": 49.09346,
+    "lng": -0.35294
+  },
+  {
+    "name": "Fontenay-le-Fleury",
+    "country": "FR",
+    "lat": 48.81253,
+    "lng": 2.04863
+  },
+  {
+    "name": "Fontenay-le-Comte",
+    "country": "FR",
+    "lat": 46.46671,
+    "lng": -0.80624
+  },
+  {
+    "name": "Fontenay-en-Parisis",
+    "country": "FR",
+    "lat": 49.05371,
+    "lng": 2.45156
+  },
+  {
+    "name": "Fontenay-aux-Roses",
+    "country": "FR",
+    "lat": 48.79325,
+    "lng": 2.29275
+  },
+  {
+    "name": "Fontenay",
+    "country": "FR",
+    "lat": 49.55993,
+    "lng": 0.18391
+  },
+  {
+    "name": "Fontcouverte",
+    "country": "FR",
+    "lat": 45.77196,
+    "lng": -0.59141
+  },
+  {
+    "name": "Fontannes",
+    "country": "FR",
+    "lat": 45.30149,
+    "lng": 3.76366
+  },
+  {
+    "name": "Fontanil-Cornillon",
+    "country": "FR",
+    "lat": 45.2528,
+    "lng": 5.66308
+  },
+  {
+    "name": "Fontaines-sur-Saône",
+    "country": "FR",
+    "lat": 45.83572,
+    "lng": 4.8449
+  },
+  {
+    "name": "Fontaines-Saint-Martin",
+    "country": "FR",
+    "lat": 45.8442,
+    "lng": 4.85305
+  },
+  {
+    "name": "Fontaines",
+    "country": "FR",
+    "lat": 46.84905,
+    "lng": 4.77036
+  },
+  {
+    "name": "Fontaine-Notre-Dame",
+    "country": "FR",
+    "lat": 50.16681,
+    "lng": 3.15812
+  },
+  {
+    "name": "Fontaine-lès-Luxeuil",
+    "country": "FR",
+    "lat": 47.85592,
+    "lng": 6.33482
+  },
+  {
+    "name": "Fontaine-lès-Dijon",
+    "country": "FR",
+    "lat": 47.34238,
+    "lng": 5.02007
+  },
+  {
+    "name": "Fontaine-le-Dun",
+    "country": "FR",
+    "lat": 49.81182,
+    "lng": 0.85095
+  },
+  {
+    "name": "Fontaine-le-Comte",
+    "country": "FR",
+    "lat": 46.53136,
+    "lng": 0.26226
+  },
+  {
+    "name": "Fontaine-le-Bourg",
+    "country": "FR",
+    "lat": 49.56451,
+    "lng": 1.16391
+  },
+  {
+    "name": "Fontaine-la-Mallet",
+    "country": "FR",
+    "lat": 49.536,
+    "lng": 0.14625
+  },
+  {
+    "name": "Fontaine-la-Guyon",
+    "country": "FR",
+    "lat": 48.4727,
+    "lng": 1.31417
+  },
+  {
+    "name": "Fontaine-Étoupefour",
+    "country": "FR",
+    "lat": 49.146,
+    "lng": -0.45522
+  },
+  {
+    "name": "Fontainebleau",
+    "country": "FR",
+    "lat": 48.40908,
+    "lng": 2.70177
+  },
+  {
+    "name": "Fontaine-au-Pire",
+    "country": "FR",
+    "lat": 50.1325,
+    "lng": 3.37667
+  },
+  {
+    "name": "Fontaine",
+    "country": "FR",
+    "lat": 45.19275,
+    "lng": 5.68821
+  },
+  {
+    "name": "Fonsorbes",
+    "country": "FR",
+    "lat": 43.539,
+    "lng": 1.22882
+  },
+  {
+    "name": "Fondettes",
+    "country": "FR",
+    "lat": 47.4035,
+    "lng": 0.59686
+  },
+  {
+    "name": "Fonbeauzard",
+    "country": "FR",
+    "lat": 43.6783,
+    "lng": 1.4344
+  },
+  {
+    "name": "Folschviller",
+    "country": "FR",
+    "lat": 49.07732,
+    "lng": 6.68358
+  },
+  {
+    "name": "Follainville-Dennemont",
+    "country": "FR",
+    "lat": 49.02194,
+    "lng": 1.71331
+  },
+  {
+    "name": "Folkling",
+    "country": "FR",
+    "lat": 49.14756,
+    "lng": 6.89482
+  },
+  {
+    "name": "Folembray",
+    "country": "FR",
+    "lat": 49.54334,
+    "lng": 3.29119
+  },
+  {
+    "name": "Foix",
+    "country": "FR",
+    "lat": 42.96535,
+    "lng": 1.60705
+  },
+  {
+    "name": "Foissiat",
+    "country": "FR",
+    "lat": 46.3715,
+    "lng": 5.17525
+  },
+  {
+    "name": "Foëcy",
+    "country": "FR",
+    "lat": 47.17618,
+    "lng": 2.16257
+  },
+  {
+    "name": "Folie Méricourt",
+    "country": "FR",
+    "lat": 48.86625,
+    "lng": 2.37142
+  },
+  {
+    "name": "Fougamou",
+    "country": "GA",
+    "lat": -1.21544,
+    "lng": 10.58378
+  },
+  {
+    "name": "Fowlmere",
+    "country": "GB",
+    "lat": 52.09343,
+    "lng": 0.07433
+  },
+  {
+    "name": "Fowey",
+    "country": "GB",
+    "lat": 50.33634,
+    "lng": -4.6386
+  },
+  {
+    "name": "Four Marks",
+    "country": "GB",
+    "lat": 51.10735,
+    "lng": -1.04945
+  },
+  {
+    "name": "Four Crosses",
+    "country": "GB",
+    "lat": 52.75941,
+    "lng": -3.08106
+  },
+  {
+    "name": "Foulsham",
+    "country": "GB",
+    "lat": 52.78182,
+    "lng": 1.01049
+  },
+  {
+    "name": "Foulridge",
+    "country": "GB",
+    "lat": 53.87579,
+    "lng": -2.16864
+  },
+  {
+    "name": "Fort William",
+    "country": "GB",
+    "lat": 56.81648,
+    "lng": -5.11208
+  },
+  {
+    "name": "Fortuneswell",
+    "country": "GB",
+    "lat": 50.5603,
+    "lng": -2.44243
+  },
+  {
+    "name": "Fortrose",
+    "country": "GB",
+    "lat": 57.58087,
+    "lng": -4.13263
+  },
+  {
+    "name": "Forth",
+    "country": "GB",
+    "lat": 55.76502,
+    "lng": -3.68874
+  },
+  {
+    "name": "Forres",
+    "country": "GB",
+    "lat": 57.60997,
+    "lng": -3.62115
+  },
+  {
+    "name": "Formby",
+    "country": "GB",
+    "lat": 53.55838,
+    "lng": -3.06999
+  },
+  {
+    "name": "Forfar",
+    "country": "GB",
+    "lat": 56.64382,
+    "lng": -2.89001
+  },
+  {
+    "name": "Forest Row",
+    "country": "GB",
+    "lat": 51.09641,
+    "lng": 0.03262
+  },
+  {
+    "name": "Forest Hill",
+    "country": "GB",
+    "lat": 51.4462,
+    "lng": -0.04189
+  },
+  {
+    "name": "Fordingbridge",
+    "country": "GB",
+    "lat": 50.92747,
+    "lng": -1.79029
+  },
+  {
+    "name": "Fordham",
+    "country": "GB",
+    "lat": 52.31129,
+    "lng": 0.39057
+  },
+  {
+    "name": "Ford",
+    "country": "GB",
+    "lat": 55.63333,
+    "lng": -2.08333
+  },
+  {
+    "name": "Ford",
+    "country": "GB",
+    "lat": 52.71693,
+    "lng": -2.86881
+  },
+  {
+    "name": "Folkestone",
+    "country": "GB",
+    "lat": 51.08169,
+    "lng": 1.16734
+  },
+  {
+    "name": "Fochriw",
+    "country": "GB",
+    "lat": 51.74003,
+    "lng": -3.29861
+  },
+  {
+    "name": "Fochabers",
+    "country": "GB",
+    "lat": 57.61445,
+    "lng": -3.09947
+  },
+  {
+    "name": "Fontwell",
+    "country": "GB",
+    "lat": 50.8552,
+    "lng": -0.64831
+  },
+  {
+    "name": "Four Lanes",
+    "country": "GB",
+    "lat": 50.20163,
+    "lng": -5.24014
+  },
+  {
+    "name": "Forest Parish",
+    "country": "GG",
+    "lat": 49.42983,
+    "lng": -2.60168
+  },
+  {
+    "name": "Foso",
+    "country": "GH",
+    "lat": 5.70119,
+    "lng": -1.28657
+  },
+  {
+    "name": "Foula Mori",
+    "country": "GN",
+    "lat": 12.16667,
+    "lng": -13.85
+  },
+  {
+    "name": "Forécariah",
+    "country": "GN",
+    "lat": 9.43056,
+    "lng": -13.08806
+  },
+  {
+    "name": "Folói",
+    "country": "GR",
+    "lat": 37.78978,
+    "lng": 21.71975
+  },
+  {
+    "name": "Folégandros",
+    "country": "GR",
+    "lat": 36.62794,
+    "lng": 24.92021
+  },
+  {
+    "name": "Fotolívos",
+    "country": "GR",
+    "lat": 41.06013,
+    "lng": 24.04724
+  },
+  {
+    "name": "Foúrnoi",
+    "country": "GR",
+    "lat": 37.5785,
+    "lng": 26.48069
+  },
+  {
+    "name": "Fort Wellington",
+    "country": "GY",
+    "lat": 6.39185,
+    "lng": -57.59628
+  },
+  {
+    "name": "Fo Tan",
+    "country": "HK",
+    "lat": 22.39846,
+    "lng": 114.19293
+  },
+  {
+    "name": "Fortress Hill",
+    "country": "HK",
+    "lat": 22.28858,
+    "lng": 114.19417
+  },
+  {
+    "name": "Fortune Estate",
+    "country": "HK",
+    "lat": 22.33556,
+    "lng": 114.15373
+  },
+  {
+    "name": "Fortress Garden",
+    "country": "HK",
+    "lat": 22.28744,
+    "lng": 114.19411
+  },
+  {
+    "name": "Fort Liberté",
+    "country": "HT",
+    "lat": 19.66254,
+    "lng": -71.8351
+  },
+  {
+    "name": "Fonds Verrettes",
+    "country": "HT",
+    "lat": 18.39566,
+    "lng": -71.85634
+  },
+  {
+    "name": "Fond Parisien",
+    "country": "HT",
+    "lat": 18.50547,
+    "lng": -71.98122
+  },
+  {
+    "name": "Fond des Blancs",
+    "country": "HT",
+    "lat": 18.27782,
+    "lng": -73.12733
+  },
+  {
+    "name": "Fond Bassin Bleu",
+    "country": "HT",
+    "lat": 19.79445,
+    "lng": -72.79949
+  },
+  {
+    "name": "Forrópuszta",
+    "country": "HU",
+    "lat": 47.45504,
+    "lng": 19.66001
+  },
+  {
+    "name": "Forráskút",
+    "country": "HU",
+    "lat": 46.36528,
+    "lng": 19.90973
+  },
+  {
+    "name": "Fonyód",
+    "country": "HU",
+    "lat": 46.74303,
+    "lng": 17.55754
+  },
+  {
+    "name": "Foxford",
+    "country": "IE",
+    "lat": 53.9807,
+    "lng": -9.11551
+  },
+  {
+    "name": "Foxrock",
+    "country": "IE",
+    "lat": 53.26667,
+    "lng": -6.17417
+  },
+  {
+    "name": "Fort Gloster",
+    "country": "IN",
+    "lat": 22.50444,
+    "lng": 88.18333
+  },
+  {
+    "name": "Forbesganj",
+    "country": "IN",
+    "lat": 26.30253,
+    "lng": 87.26556
+  },
+  {
+    "name": "Forest Village Lakhipathar",
+    "country": "IN",
+    "lat": 27.45334,
+    "lng": 95.58126
+  },
+  {
+    "name": "Fossato Serralta",
+    "country": "IT",
+    "lat": 38.99629,
+    "lng": 16.5796
+  },
+  {
+    "name": "Fossato Ionico-Fossatello-San Luca Marcelluzzo",
+    "country": "IT",
+    "lat": 38.01065,
+    "lng": 15.76302
+  },
+  {
+    "name": "Forza d'Agrò",
+    "country": "IT",
+    "lat": 37.91539,
+    "lng": 15.33409
+  },
+  {
+    "name": "Fordongianus",
+    "country": "IT",
+    "lat": 39.99436,
+    "lng": 8.81019
+  },
+  {
+    "name": "Fontane-Zurane-Gresine",
+    "country": "IT",
+    "lat": 45.63336,
+    "lng": 10.0472
+  },
+  {
+    "name": "Foza",
+    "country": "IT",
+    "lat": 45.89703,
+    "lng": 11.63053
+  },
+  {
+    "name": "Fossombrone",
+    "country": "IT",
+    "lat": 43.69017,
+    "lng": 12.81173
+  },
+  {
+    "name": "Fossato di Vico",
+    "country": "IT",
+    "lat": 43.29644,
+    "lng": 12.76121
+  },
+  {
+    "name": "Fossano",
+    "country": "IT",
+    "lat": 44.55077,
+    "lng": 7.71922
+  },
+  {
+    "name": "Fossalunga",
+    "country": "IT",
+    "lat": 45.6916,
+    "lng": 12.0532
+  },
+  {
+    "name": "Fossalto",
+    "country": "IT",
+    "lat": 41.67293,
+    "lng": 14.54573
+  },
+  {
+    "name": "Fossalta di Portogruaro",
+    "country": "IT",
+    "lat": 45.79329,
+    "lng": 12.90998
+  },
+  {
+    "name": "Fossalta di Piave",
+    "country": "IT",
+    "lat": 45.64497,
+    "lng": 12.50902
+  },
+  {
+    "name": "Fossacesia",
+    "country": "IT",
+    "lat": 42.24198,
+    "lng": 14.48339
+  },
+  {
+    "name": "Fossa",
+    "country": "IT",
+    "lat": 42.29273,
+    "lng": 13.48779
+  },
+  {
+    "name": "Fosdinovo",
+    "country": "IT",
+    "lat": 44.1332,
+    "lng": 10.01778
+  },
+  {
+    "name": "Fortunago",
+    "country": "IT",
+    "lat": 44.9216,
+    "lng": 9.18471
+  },
+  {
+    "name": "Fortezza",
+    "country": "IT",
+    "lat": 46.78963,
+    "lng": 11.60998
+  },
+  {
+    "name": "Forte dei Marmi",
+    "country": "IT",
+    "lat": 43.96388,
+    "lng": 10.17478
+  },
+  {
+    "name": "Fornovo San Giovanni",
+    "country": "IT",
+    "lat": 45.49742,
+    "lng": 9.67739
+  },
+  {
+    "name": "Fornovo di Taro",
+    "country": "IT",
+    "lat": 44.69465,
+    "lng": 10.10178
+  },
+  {
+    "name": "Forno di Zoldo",
+    "country": "IT",
+    "lat": 46.3501,
+    "lng": 12.17913
+  },
+  {
+    "name": "Forno Canavese",
+    "country": "IT",
+    "lat": 45.34287,
+    "lng": 7.58951
+  },
+  {
+    "name": "Forni di Sotto",
+    "country": "IT",
+    "lat": 46.39379,
+    "lng": 12.6721
+  },
+  {
+    "name": "Forni di Sopra",
+    "country": "IT",
+    "lat": 46.42028,
+    "lng": 12.58312
+  },
+  {
+    "name": "Forni Avoltri",
+    "country": "IT",
+    "lat": 46.58615,
+    "lng": 12.7751
+  },
+  {
+    "name": "Fornelli",
+    "country": "IT",
+    "lat": 41.60678,
+    "lng": 14.14041
+  },
+  {
+    "name": "Fornaci di Barga",
+    "country": "IT",
+    "lat": 44.04899,
+    "lng": 10.47111
+  },
+  {
+    "name": "Fornaci",
+    "country": "IT",
+    "lat": 45.6517,
+    "lng": 12.43738
+  },
+  {
+    "name": "Fornacette",
+    "country": "IT",
+    "lat": 43.67023,
+    "lng": 10.58512
+  },
+  {
+    "name": "Fornacelle",
+    "country": "IT",
+    "lat": 43.92377,
+    "lng": 11.03525
+  },
+  {
+    "name": "Formignana",
+    "country": "IT",
+    "lat": 44.8423,
+    "lng": 11.85935
+  },
+  {
+    "name": "Formigliana",
+    "country": "IT",
+    "lat": 45.42926,
+    "lng": 8.29193
+  },
+  {
+    "name": "Formigine",
+    "country": "IT",
+    "lat": 44.57268,
+    "lng": 10.84737
+  },
+  {
+    "name": "Formigara",
+    "country": "IT",
+    "lat": 45.22307,
+    "lng": 9.77076
+  },
+  {
+    "name": "Formicola",
+    "country": "IT",
+    "lat": 41.21084,
+    "lng": 14.23462
+  },
+  {
+    "name": "Formia",
+    "country": "IT",
+    "lat": 41.25632,
+    "lng": 13.60888
+  },
+  {
+    "name": "Formello",
+    "country": "IT",
+    "lat": 42.06246,
+    "lng": 12.39435
+  },
+  {
+    "name": "Formazza",
+    "country": "IT",
+    "lat": 46.37689,
+    "lng": 8.42571
+  },
+  {
+    "name": "Forlimpopoli",
+    "country": "IT",
+    "lat": 44.19107,
+    "lng": 12.12873
+  },
+  {
+    "name": "Forlì del Sannio",
+    "country": "IT",
+    "lat": 41.69593,
+    "lng": 14.17952
+  },
+  {
+    "name": "Forlì",
+    "country": "IT",
+    "lat": 44.22177,
+    "lng": 12.04144
+  },
+  {
+    "name": "Forio",
+    "country": "IT",
+    "lat": 40.73757,
+    "lng": 13.86003
+  },
+  {
+    "name": "Forino",
+    "country": "IT",
+    "lat": 40.85829,
+    "lng": 14.73254
+  },
+  {
+    "name": "Forenza",
+    "country": "IT",
+    "lat": 40.86041,
+    "lng": 15.85457
+  },
+  {
+    "name": "Forcoli",
+    "country": "IT",
+    "lat": 43.60374,
+    "lng": 10.70514
+  },
+  {
+    "name": "Forchia",
+    "country": "IT",
+    "lat": 41.03144,
+    "lng": 14.53573
+  },
+  {
+    "name": "Forano",
+    "country": "IT",
+    "lat": 42.29768,
+    "lng": 12.59469
+  },
+  {
+    "name": "Foppolo",
+    "country": "IT",
+    "lat": 46.04297,
+    "lng": 9.75775
+  },
+  {
+    "name": "Fonzaso",
+    "country": "IT",
+    "lat": 46.0164,
+    "lng": 11.79897
+  },
+  {
+    "name": "Fontignano",
+    "country": "IT",
+    "lat": 43.02436,
+    "lng": 12.1919
+  },
+  {
+    "name": "Fontevivo",
+    "country": "IT",
+    "lat": 44.85942,
+    "lng": 10.17281
+  },
+  {
+    "name": "Fontegreca",
+    "country": "IT",
+    "lat": 41.45653,
+    "lng": 14.18385
+  },
+  {
+    "name": "Fontechiari",
+    "country": "IT",
+    "lat": 41.66788,
+    "lng": 13.67504
+  },
+  {
+    "name": "Fontecchio",
+    "country": "IT",
+    "lat": 42.23027,
+    "lng": 13.60613
+  },
+  {
+    "name": "Fonteblanda",
+    "country": "IT",
+    "lat": 42.56463,
+    "lng": 11.17325
+  },
+  {
+    "name": "Fontaniva",
+    "country": "IT",
+    "lat": 45.63516,
+    "lng": 11.75381
+  },
+  {
+    "name": "Fontanile",
+    "country": "IT",
+    "lat": 44.75295,
+    "lng": 8.42134
+  },
+  {
+    "name": "Fontanigorda",
+    "country": "IT",
+    "lat": 44.5454,
+    "lng": 9.30548
+  },
+  {
+    "name": "Fontanetto Po",
+    "country": "IT",
+    "lat": 45.19436,
+    "lng": 8.19206
+  },
+  {
+    "name": "Fontaneto D'Agogna",
+    "country": "IT",
+    "lat": 45.64347,
+    "lng": 8.47879
+  },
+  {
+    "name": "Fontanelle",
+    "country": "IT",
+    "lat": 45.83345,
+    "lng": 12.46625
+  },
+  {
+    "name": "Fontanellato",
+    "country": "IT",
+    "lat": 44.88187,
+    "lng": 10.17631
+  },
+  {
+    "name": "Fontanella",
+    "country": "IT",
+    "lat": 45.46903,
+    "lng": 9.80248
+  },
+  {
+    "name": "Fontanelice",
+    "country": "IT",
+    "lat": 44.25932,
+    "lng": 11.55852
+  },
+  {
+    "name": "Fontanarosa",
+    "country": "IT",
+    "lat": 41.01812,
+    "lng": 15.02055
+  },
+  {
+    "name": "Fontana Nuova-Bevia",
+    "country": "IT",
+    "lat": 46.41159,
+    "lng": 10.96843
+  },
+  {
+    "name": "Fonni",
+    "country": "IT",
+    "lat": 40.11932,
+    "lng": 9.25347
+  },
+  {
+    "name": "Fondo",
+    "country": "IT",
+    "lat": 46.4388,
+    "lng": 11.13723
+  },
+  {
+    "name": "Fondi",
+    "country": "IT",
+    "lat": 41.35787,
+    "lng": 13.42718
+  },
+  {
+    "name": "Fombio",
+    "country": "IT",
+    "lat": 45.14126,
+    "lng": 9.68043
+  },
+  {
+    "name": "Follonica",
+    "country": "IT",
+    "lat": 42.92779,
+    "lng": 10.76451
+  },
+  {
+    "name": "Follina",
+    "country": "IT",
+    "lat": 45.95352,
+    "lng": 12.11985
+  },
+  {
+    "name": "Foligno",
+    "country": "IT",
+    "lat": 42.95488,
+    "lng": 12.70268
+  },
+  {
+    "name": "Folignano",
+    "country": "IT",
+    "lat": 42.8207,
+    "lng": 13.63273
+  },
+  {
+    "name": "Folgaria",
+    "country": "IT",
+    "lat": 45.91543,
+    "lng": 11.1682
+  },
+  {
+    "name": "Foiano di Val Fortore",
+    "country": "IT",
+    "lat": 41.35283,
+    "lng": 14.97635
+  },
+  {
+    "name": "Foiano della Chiana",
+    "country": "IT",
+    "lat": 43.25318,
+    "lng": 11.81647
+  },
+  {
+    "name": "Fognano",
+    "country": "IT",
+    "lat": 44.20509,
+    "lng": 11.73782
+  },
+  {
+    "name": "Foglizzo",
+    "country": "IT",
+    "lat": 45.27361,
+    "lng": 7.82087
+  },
+  {
+    "name": "Fogliano",
+    "country": "IT",
+    "lat": 45.86556,
+    "lng": 13.48222
+  },
+  {
+    "name": "Foglianise",
+    "country": "IT",
+    "lat": 41.16127,
+    "lng": 14.67112
+  },
+  {
+    "name": "Foggia",
+    "country": "IT",
+    "lat": 41.45845,
+    "lng": 15.55188
+  },
+  {
+    "name": "Fobello",
+    "country": "IT",
+    "lat": 45.89002,
+    "lng": 8.15799
+  },
+  {
+    "name": "Fosso Ghiaia",
+    "country": "IT",
+    "lat": 44.35525,
+    "lng": 12.2543
+  },
+  {
+    "name": "Fornace Zarattini",
+    "country": "IT",
+    "lat": 44.41667,
+    "lng": 12.13333
+  },
+  {
+    "name": "Fossò",
+    "country": "IT",
+    "lat": 45.3858,
+    "lng": 12.04627
+  },
+  {
+    "name": "Forgaria nel Friuli",
+    "country": "IT",
+    "lat": 46.22036,
+    "lng": 12.9747
+  },
+  {
+    "name": "Foresto Sparso",
+    "country": "IT",
+    "lat": 45.69088,
+    "lng": 9.92006
+  },
+  {
+    "name": "Forcola",
+    "country": "IT",
+    "lat": 46.15859,
+    "lng": 9.66034
+  },
+  {
+    "name": "Fondachelli-Fantina",
+    "country": "IT",
+    "lat": 37.98476,
+    "lng": 15.17519
+  },
+  {
+    "name": "Fontainemore",
+    "country": "IT",
+    "lat": 45.64746,
+    "lng": 7.85952
+  },
+  {
+    "name": "Fonteno",
+    "country": "IT",
+    "lat": 45.75859,
+    "lng": 10.01856
+  },
+  {
+    "name": "Fornace",
+    "country": "IT",
+    "lat": 46.11805,
+    "lng": 11.20751
+  },
+  {
+    "name": "Force",
+    "country": "IT",
+    "lat": 42.96095,
+    "lng": 13.48768
+  },
+  {
+    "name": "Fosciandora",
+    "country": "IT",
+    "lat": 44.11495,
+    "lng": 10.4585
+  },
+  {
+    "name": "Focene",
+    "country": "IT",
+    "lat": 41.81367,
+    "lng": 12.21354
+  },
+  {
+    "name": "Fossoli",
+    "country": "IT",
+    "lat": 44.8216,
+    "lng": 10.88977
+  },
+  {
+    "name": "Fontana delle Monache",
+    "country": "IT",
+    "lat": 44.11386,
+    "lng": 10.27943
+  },
+  {
+    "name": "Fossignano",
+    "country": "IT",
+    "lat": 41.59226,
+    "lng": 12.56333
+  },
+  {
+    "name": "Fogliano",
+    "country": "IT",
+    "lat": 44.64751,
+    "lng": 10.64505
+  },
+  {
+    "name": "Fornaci",
+    "country": "IT",
+    "lat": 45.02816,
+    "lng": 7.59869
+  },
+  {
+    "name": "Formica",
+    "country": "IT",
+    "lat": 44.46838,
+    "lng": 11.01337
+  },
+  {
+    "name": "Fornase",
+    "country": "IT",
+    "lat": 45.47586,
+    "lng": 12.16273
+  },
+  {
+    "name": "Fonte Umano-San Martino Alta",
+    "country": "IT",
+    "lat": 42.52084,
+    "lng": 14.1076
+  },
+  {
+    "name": "Folzano",
+    "country": "IT",
+    "lat": 45.49587,
+    "lng": 10.2065
+  },
+  {
+    "name": "Fossa",
+    "country": "IT",
+    "lat": 44.92304,
+    "lng": 11.02356
+  },
+  {
+    "name": "Forche",
+    "country": "IT",
+    "lat": 44.63646,
+    "lng": 10.57316
+  },
+  {
+    "name": "Fornole",
+    "country": "IT",
+    "lat": 42.54218,
+    "lng": 12.45576
+  },
+  {
+    "name": "Foresta",
+    "country": "IT",
+    "lat": 39.09939,
+    "lng": 16.81287
+  },
+  {
+    "name": "Forette",
+    "country": "IT",
+    "lat": 45.34221,
+    "lng": 10.9446
+  },
+  {
+    "name": "Fornaci",
+    "country": "IT",
+    "lat": 45.19872,
+    "lng": 9.67794
+  },
+  {
+    "name": "Fontanella-Ozino",
+    "country": "IT",
+    "lat": 45.61963,
+    "lng": 8.16927
+  },
+  {
+    "name": "Fontanafredda",
+    "country": "IT",
+    "lat": 45.29159,
+    "lng": 11.66172
+  },
+  {
+    "name": "Foumbouni",
+    "country": "KM",
+    "lat": -11.86537,
+    "lng": 43.49529
+  },
+  {
+    "name": "Fomboni",
+    "country": "KM",
+    "lat": -12.28759,
+    "lng": 43.74344
+  },
+  {
+    "name": "Fort-Shevchenko",
+    "country": "KZ",
+    "lat": 44.50654,
+    "lng": 50.26388
+  },
+  {
+    "name": "Forestière",
+    "country": "LC",
+    "lat": 13.95947,
+    "lng": -60.96253
+  },
+  {
+    "name": "Foya Kamara",
+    "country": "LR",
+    "lat": 8.36028,
+    "lng": -10.20639
+  },
+  {
+    "name": "Foum Jam’a",
+    "country": "MA",
+    "lat": 31.96166,
+    "lng": -6.98354
+  },
+  {
+    "name": "Foum Zguid",
+    "country": "MA",
+    "lat": 30.08792,
+    "lng": -6.87119
+  },
+  {
+    "name": "Fontvieille",
+    "country": "MC",
+    "lat": 43.72687,
+    "lng": 7.41766
+  },
+  {
+    "name": "Forino",
+    "country": "MK",
+    "lat": 41.82334,
+    "lng": 20.96174
+  },
+  {
+    "name": "Fort-de-France",
+    "country": "MQ",
+    "lat": 14.60365,
+    "lng": -61.07418
+  },
+  {
+    "name": "Fontana",
+    "country": "MT",
+    "lat": 36.03804,
+    "lng": 14.23595
+  },
+  {
+    "name": "Fond du Sac",
+    "country": "MU",
+    "lat": -20.04732,
+    "lng": 57.584
+  },
+  {
+    "name": "Fonadhoo",
+    "country": "MV",
+    "lat": 1.83243,
+    "lng": 73.50257
+  },
+  {
+    "name": "Fortín de las Flores",
+    "country": "MX",
+    "lat": 18.90806,
+    "lng": -97.0
+  },
+  {
+    "name": "Fontezuelas",
+    "country": "MX",
+    "lat": 20.48853,
+    "lng": -98.87164
+  },
+  {
+    "name": "Forjadores de Pachuca",
+    "country": "MX",
+    "lat": 20.055,
+    "lng": -98.76333
+  },
+  {
+    "name": "Forest City",
+    "country": "MY",
+    "lat": 1.33884,
+    "lng": 103.58876
+  },
+  {
+    "name": "Fossbergom",
+    "country": "NO",
+    "lat": 61.83772,
+    "lng": 8.56842
+  },
+  {
+    "name": "Fossby",
+    "country": "NO",
+    "lat": 59.22218,
+    "lng": 11.69928
+  },
+  {
+    "name": "Fosnavåg",
+    "country": "NO",
+    "lat": 62.34194,
+    "lng": 5.63396
+  },
+  {
+    "name": "Folldal",
+    "country": "NO",
+    "lat": 62.13246,
+    "lng": 9.9968
+  },
+  {
+    "name": "Foxton Beach",
+    "country": "NZ",
+    "lat": -40.46384,
+    "lng": 175.22716
+  },
+  {
+    "name": "Foxton",
+    "country": "NZ",
+    "lat": -40.47277,
+    "lng": 175.28601
+  },
+  {
+    "name": "Forrest Hill",
+    "country": "NZ",
+    "lat": -36.76447,
+    "lng": 174.74773
+  },
+  {
+    "name": "Fonavi",
+    "country": "PE",
+    "lat": -14.03282,
+    "lng": -75.73697
+  },
+  {
+    "name": "Fort Abbas",
+    "country": "PK",
+    "lat": 29.19344,
+    "lng": 72.85525
+  },
+  {
+    "name": "Fordon",
+    "country": "PL",
+    "lat": 53.14821,
+    "lng": 18.17036
+  },
+  {
+    "name": "Foz do Arelho",
+    "country": "PT",
+    "lat": 39.43672,
+    "lng": -9.21374
+  },
+  {
+    "name": "Fortios",
+    "country": "PT",
+    "lat": 39.32494,
+    "lng": -7.50057
+  },
+  {
+    "name": "Fontanelas",
+    "country": "PT",
+    "lat": 38.84806,
+    "lng": -9.43942
+  },
+  {
+    "name": "Foz do Sousa",
+    "country": "PT",
+    "lat": 41.09668,
+    "lng": -8.50184
+  },
+  {
+    "name": "Foz do Douro",
+    "country": "PT",
+    "lat": 41.15119,
+    "lng": -8.67125
+  },
+  {
+    "name": "Fornos de Algodres",
+    "country": "PT",
+    "lat": 40.62807,
+    "lng": -7.54064
+  },
+  {
+    "name": "Fonte Bastardo",
+    "country": "PT",
+    "lat": 38.69201,
+    "lng": -27.07942
+  },
+  {
+    "name": "Forotic",
+    "country": "RO",
+    "lat": 45.23028,
+    "lng": 21.5875
+  },
+  {
+    "name": "Forău",
+    "country": "RO",
+    "lat": 46.7107,
+    "lng": 22.20113
+  },
+  {
+    "name": "Forăşti",
+    "country": "RO",
+    "lat": 47.35,
+    "lng": 26.46667
+  },
+  {
+    "name": "Folteşti",
+    "country": "RO",
+    "lat": 45.75,
+    "lng": 28.05
+  },
+  {
+    "name": "Foglaş",
+    "country": "RO",
+    "lat": 47.25,
+    "lng": 22.53333
+  },
+  {
+    "name": "Foieni",
+    "country": "RO",
+    "lat": 47.6976,
+    "lng": 22.3805
+  },
+  {
+    "name": "Foeni",
+    "country": "RO",
+    "lat": 45.49861,
+    "lng": 20.87583
+  },
+  {
+    "name": "Focuri",
+    "country": "RO",
+    "lat": 47.35,
+    "lng": 27.21667
+  },
+  {
+    "name": "Focșani",
+    "country": "RO",
+    "lat": 45.7,
+    "lng": 27.18333
+  },
+  {
+    "name": "Fosforitnyy",
+    "country": "RU",
+    "lat": 55.32892,
+    "lng": 38.89509
+  },
+  {
+    "name": "Fornosovo",
+    "country": "RU",
+    "lat": 59.56889,
+    "lng": 30.55444
+  },
+  {
+    "name": "Fokino",
+    "country": "RU",
+    "lat": 53.45472,
+    "lng": 34.41345
+  },
+  {
+    "name": "Foki",
+    "country": "RU",
+    "lat": 56.693,
+    "lng": 54.34985
+  },
+  {
+    "name": "Fokino",
+    "country": "RU",
+    "lat": 42.97096,
+    "lng": 132.41035
+  },
+  {
+    "name": "Forsbacka",
+    "country": "SE",
+    "lat": 64.76667,
+    "lng": 20.5
+  },
+  {
+    "name": "Forsheda",
+    "country": "SE",
+    "lat": 57.16415,
+    "lng": 13.83016
+  },
+  {
+    "name": "Forshaga",
+    "country": "SE",
+    "lat": 59.52541,
+    "lng": 13.48127
+  },
+  {
+    "name": "Forserum",
+    "country": "SE",
+    "lat": 57.7,
+    "lng": 14.46667
+  },
+  {
+    "name": "Forsbacka",
+    "country": "SE",
+    "lat": 60.61667,
+    "lng": 16.88333
+  },
+  {
+    "name": "Foindu",
+    "country": "SL",
+    "lat": 7.40906,
+    "lng": -11.54328
+  },
+  {
+    "name": "Foundiougne",
+    "country": "SN",
+    "lat": 14.12272,
+    "lng": -16.46916
+  },
+  {
+    "name": "Folha Fede",
+    "country": "ST",
+    "lat": 0.284,
+    "lng": 6.684
+  },
+  {
+    "name": "Fohorem",
+    "country": "TL",
+    "lat": -9.28361,
+    "lng": 125.08944
+  },
+  {
+    "name": "Fouchana",
+    "country": "TN",
+    "lat": 36.70048,
+    "lng": 10.1685
+  },
+  {
+    "name": "Foça",
+    "country": "TR",
+    "lat": 38.6703,
+    "lng": 26.75656
+  },
+  {
+    "name": "Foros",
+    "country": "UA",
+    "lat": 44.39312,
+    "lng": 33.78816
+  },
+  {
+    "name": "Fontanka",
+    "country": "UA",
+    "lat": 46.57016,
+    "lng": 30.85469
+  },
+  {
+    "name": "Fontany",
+    "country": "UA",
+    "lat": 44.89717,
+    "lng": 34.07297
+  },
+  {
+    "name": "Fort Portal",
+    "country": "UG",
+    "lat": 0.66174,
+    "lng": 30.2748
+  },
+  {
+    "name": "Fort Hunt",
+    "country": "US",
+    "lat": 38.73289,
+    "lng": -77.05803
+  },
+  {
+    "name": "Foley",
+    "country": "US",
+    "lat": 30.40659,
+    "lng": -87.6836
+  },
+  {
+    "name": "Forestdale",
+    "country": "US",
+    "lat": 33.57011,
+    "lng": -86.89638
+  },
+  {
+    "name": "Fort Deposit",
+    "country": "US",
+    "lat": 31.98459,
+    "lng": -86.57859
+  },
+  {
+    "name": "Fort Payne",
+    "country": "US",
+    "lat": 34.44425,
+    "lng": -85.71969
+  },
+  {
+    "name": "Fordyce",
+    "country": "US",
+    "lat": 33.81372,
+    "lng": -92.41293
+  },
+  {
+    "name": "Forrest City",
+    "country": "US",
+    "lat": 35.00815,
+    "lng": -90.78983
+  },
+  {
+    "name": "Fort Smith",
+    "country": "US",
+    "lat": 35.38592,
+    "lng": -94.39855
+  },
+  {
+    "name": "Foggy Bottom",
+    "country": "US",
+    "lat": 38.9015,
+    "lng": -77.0622
+  },
+  {
+    "name": "Fort Lincoln",
+    "country": "US",
+    "lat": 38.92233,
+    "lng": -76.95636
+  },
+  {
+    "name": "Forest City",
+    "country": "US",
+    "lat": 28.66678,
+    "lng": -81.44334
+  },
+  {
+    "name": "Fort Lauderdale",
+    "country": "US",
+    "lat": 26.12231,
+    "lng": -80.14338
+  },
+  {
+    "name": "Fort Meade",
+    "country": "US",
+    "lat": 27.75225,
+    "lng": -81.80175
+  },
+  {
+    "name": "Fort Myers",
+    "country": "US",
+    "lat": 26.62168,
+    "lng": -81.84059
+  },
+  {
+    "name": "Fort Myers Beach",
+    "country": "US",
+    "lat": 26.45271,
+    "lng": -81.95011
+  },
+  {
+    "name": "Fort Myers Shores",
+    "country": "US",
+    "lat": 26.70924,
+    "lng": -81.74592
+  },
+  {
+    "name": "Fort Pierce",
+    "country": "US",
+    "lat": 27.44671,
+    "lng": -80.32561
+  },
+  {
+    "name": "Fort Walton Beach",
+    "country": "US",
+    "lat": 30.42059,
+    "lng": -86.61707
+  },
+  {
+    "name": "Fountainebleau",
+    "country": "US",
+    "lat": 25.77288,
+    "lng": -80.34783
+  },
+  {
+    "name": "Folkston",
+    "country": "US",
+    "lat": 30.83095,
+    "lng": -82.01131
+  },
+  {
+    "name": "Forest Park",
+    "country": "US",
+    "lat": 33.62205,
+    "lng": -84.36909
+  },
+  {
+    "name": "Forsyth",
+    "country": "US",
+    "lat": 33.0343,
+    "lng": -83.93824
+  },
+  {
+    "name": "Fort Gaines",
+    "country": "US",
+    "lat": 31.60924,
+    "lng": -85.04933
+  },
+  {
+    "name": "Fort Oglethorpe",
+    "country": "US",
+    "lat": 34.94896,
+    "lng": -85.2569
+  },
+  {
+    "name": "Fort Valley",
+    "country": "US",
+    "lat": 32.55376,
+    "lng": -83.88741
+  },
+  {
+    "name": "Forsyth",
+    "country": "US",
+    "lat": 39.93254,
+    "lng": -88.95119
+  },
+  {
+    "name": "Fort Branch",
+    "country": "US",
+    "lat": 38.25116,
+    "lng": -87.58113
+  },
+  {
+    "name": "Fortville",
+    "country": "US",
+    "lat": 39.93226,
+    "lng": -85.84804
+  },
+  {
+    "name": "Fort Scott",
+    "country": "US",
+    "lat": 37.83976,
+    "lng": -94.7083
+  },
+  {
+    "name": "Fort Mitchell",
+    "country": "US",
+    "lat": 39.0595,
+    "lng": -84.54744
+  },
+  {
+    "name": "Fort Thomas",
+    "country": "US",
+    "lat": 39.07506,
+    "lng": -84.44716
+  },
+  {
+    "name": "Fort Wright",
+    "country": "US",
+    "lat": 39.05173,
+    "lng": -84.53411
+  },
+  {
+    "name": "Forest Glen",
+    "country": "US",
+    "lat": 39.01455,
+    "lng": -77.0547
+  },
+  {
+    "name": "Forest Heights",
+    "country": "US",
+    "lat": 38.80956,
+    "lng": -76.99803
+  },
+  {
+    "name": "Forest Park",
+    "country": "US",
+    "lat": 39.32594,
+    "lng": -76.68191
+  },
+  {
+    "name": "Forestville",
+    "country": "US",
+    "lat": 38.84511,
+    "lng": -76.87497
+  },
+  {
+    "name": "Fort George G Mead Junction",
+    "country": "US",
+    "lat": 39.12594,
+    "lng": -76.78914
+  },
+  {
+    "name": "Fort Washington",
+    "country": "US",
+    "lat": 38.70734,
+    "lng": -77.02303
+  },
+  {
+    "name": "Four Corners",
+    "country": "US",
+    "lat": 39.02039,
+    "lng": -77.01275
+  },
+  {
+    "name": "Forsyth",
+    "country": "US",
+    "lat": 36.68506,
+    "lng": -93.1199
+  },
+  {
+    "name": "Four Seasons",
+    "country": "US",
+    "lat": 38.19809,
+    "lng": -92.71102
+  },
+  {
+    "name": "Forest",
+    "country": "US",
+    "lat": 32.36459,
+    "lng": -89.47423
+  },
+  {
+    "name": "Forest City",
+    "country": "US",
+    "lat": 35.33401,
+    "lng": -81.8651
+  },
+  {
+    "name": "Forest Oaks",
+    "country": "US",
+    "lat": 35.98819,
+    "lng": -79.70614
+  },
+  {
+    "name": "Foscoe",
+    "country": "US",
+    "lat": 36.16179,
+    "lng": -81.76566
+  },
+  {
+    "name": "Four Oaks",
+    "country": "US",
+    "lat": 35.44488,
+    "lng": -78.42695
+  },
+  {
+    "name": "Folsom",
+    "country": "US",
+    "lat": 39.60206,
+    "lng": -74.84267
+  },
+  {
+    "name": "Forked River",
+    "country": "US",
+    "lat": 39.83984,
+    "lng": -74.19014
+  },
+  {
+    "name": "Forest Park",
+    "country": "US",
+    "lat": 39.29034,
+    "lng": -84.50411
+  },
+  {
+    "name": "Forestville",
+    "country": "US",
+    "lat": 39.07506,
+    "lng": -84.34494
+  },
+  {
+    "name": "Fort McKinley",
+    "country": "US",
+    "lat": 39.79756,
+    "lng": -84.25355
+  },
+  {
+    "name": "Forest Park",
+    "country": "US",
+    "lat": 35.50423,
+    "lng": -97.44615
+  },
+  {
+    "name": "Fort Gibson",
+    "country": "US",
+    "lat": 35.7976,
+    "lng": -95.25052
+  },
+  {
+    "name": "Folsom",
+    "country": "US",
+    "lat": 39.88983,
+    "lng": -75.32519
+  },
+  {
+    "name": "Folcroft",
+    "country": "US",
+    "lat": 39.89095,
+    "lng": -75.2838
+  },
+  {
+    "name": "Folly Beach",
+    "country": "US",
+    "lat": 32.65518,
+    "lng": -79.94037
+  },
+  {
+    "name": "Forest Acres",
+    "country": "US",
+    "lat": 34.01932,
+    "lng": -80.98981
+  },
+  {
+    "name": "Forestbrook",
+    "country": "US",
+    "lat": 33.72239,
+    "lng": -78.95809
+  },
+  {
+    "name": "Fort Mill",
+    "country": "US",
+    "lat": 35.00737,
+    "lng": -80.94508
+  },
+  {
+    "name": "Fountain Inn",
+    "country": "US",
+    "lat": 34.68901,
+    "lng": -82.19567
+  },
+  {
+    "name": "Forest Hills",
+    "country": "US",
+    "lat": 36.06839,
+    "lng": -86.84417
+  },
+  {
+    "name": "Forest Hill",
+    "country": "US",
+    "lat": 32.67208,
+    "lng": -97.26918
+  },
+  {
+    "name": "Forney",
+    "country": "US",
+    "lat": 32.74818,
+    "lng": -96.47193
+  },
+  {
+    "name": "Fort Worth",
+    "country": "US",
+    "lat": 32.72541,
+    "lng": -97.32085
+  },
+  {
+    "name": "Four Corners",
+    "country": "US",
+    "lat": 29.66857,
+    "lng": -95.65772
+  },
+  {
+    "name": "Forest",
+    "country": "US",
+    "lat": 37.36375,
+    "lng": -79.28975
+  },
+  {
+    "name": "Fort Lee",
+    "country": "US",
+    "lat": 37.4957,
+    "lng": -77.33526
+  },
+  {
+    "name": "Fort Ashby",
+    "country": "US",
+    "lat": 39.50315,
+    "lng": -78.76863
+  },
+  {
+    "name": "Forest City",
+    "country": "US",
+    "lat": 43.26246,
+    "lng": -93.63716
+  },
+  {
+    "name": "Fort Dodge",
+    "country": "US",
+    "lat": 42.49747,
+    "lng": -94.16802
+  },
+  {
+    "name": "Fort Madison",
+    "country": "US",
+    "lat": 40.62976,
+    "lng": -91.31515
+  },
+  {
+    "name": "Ford Heights",
+    "country": "US",
+    "lat": 41.50642,
+    "lng": -87.59171
+  },
+  {
+    "name": "Forest Lake",
+    "country": "US",
+    "lat": 42.20752,
+    "lng": -88.05563
+  },
+  {
+    "name": "Forest Park",
+    "country": "US",
+    "lat": 41.87948,
+    "lng": -87.81367
+  },
+  {
+    "name": "Forrest",
+    "country": "US",
+    "lat": 40.75198,
+    "lng": -88.41116
+  },
+  {
+    "name": "Forreston",
+    "country": "US",
+    "lat": 42.12614,
+    "lng": -89.57928
+  },
+  {
+    "name": "Fox Lake",
+    "country": "US",
+    "lat": 42.39669,
+    "lng": -88.1837
+  },
+  {
+    "name": "Fox Lake Hills",
+    "country": "US",
+    "lat": 42.40808,
+    "lng": -88.13175
+  },
+  {
+    "name": "Fox River Grove",
+    "country": "US",
+    "lat": 42.20086,
+    "lng": -88.21453
+  },
+  {
+    "name": "Fort Wayne",
+    "country": "US",
+    "lat": 41.1306,
+    "lng": -85.12886
+  },
+  {
+    "name": "Fowler",
+    "country": "US",
+    "lat": 40.6167,
+    "lng": -87.32085
+  },
+  {
+    "name": "Forestdale",
+    "country": "US",
+    "lat": 41.69177,
+    "lng": -70.49947
+  },
+  {
+    "name": "Foxborough",
+    "country": "US",
+    "lat": 42.06538,
+    "lng": -71.24783
+  },
+  {
+    "name": "Fort Fairfield",
+    "country": "US",
+    "lat": 46.77227,
+    "lng": -67.83391
+  },
+  {
+    "name": "Fort Kent",
+    "country": "US",
+    "lat": 47.25865,
+    "lng": -68.58949
+  },
+  {
+    "name": "Forest Hills",
+    "country": "US",
+    "lat": 42.95947,
+    "lng": -85.48975
+  },
+  {
+    "name": "Fowler",
+    "country": "US",
+    "lat": 43.0017,
+    "lng": -84.73972
+  },
+  {
+    "name": "Fowlerville",
+    "country": "US",
+    "lat": 42.66059,
+    "lng": -84.07301
+  },
+  {
+    "name": "Foley",
+    "country": "US",
+    "lat": 45.66469,
+    "lng": -93.9097
+  },
+  {
+    "name": "Forest Lake",
+    "country": "US",
+    "lat": 45.27886,
+    "lng": -92.98522
+  },
+  {
+    "name": "Fosston",
+    "country": "US",
+    "lat": 47.57635,
+    "lng": -95.75141
+  },
+  {
+    "name": "Forman",
+    "country": "US",
+    "lat": 46.10774,
+    "lng": -97.63649
+  },
+  {
+    "name": "Fort Totten",
+    "country": "US",
+    "lat": 47.98,
+    "lng": -98.9929
+  },
+  {
+    "name": "Fords",
+    "country": "US",
+    "lat": 40.52927,
+    "lng": -74.31598
+  },
+  {
+    "name": "Fort Dix",
+    "country": "US",
+    "lat": 40.02984,
+    "lng": -74.61849
+  },
+  {
+    "name": "Fort Lee",
+    "country": "US",
+    "lat": 40.85093,
+    "lng": -73.97014
+  },
+  {
+    "name": "Fonda",
+    "country": "US",
+    "lat": 42.95452,
+    "lng": -74.37652
+  },
+  {
+    "name": "Fordham",
+    "country": "US",
+    "lat": 40.85927,
+    "lng": -73.89847
+  },
+  {
+    "name": "Forest Hills",
+    "country": "US",
+    "lat": 40.71621,
+    "lng": -73.85014
+  },
+  {
+    "name": "Fort Edward",
+    "country": "US",
+    "lat": 43.26702,
+    "lng": -73.58456
+  },
+  {
+    "name": "Fort Hamilton",
+    "country": "US",
+    "lat": 40.61872,
+    "lng": -74.0332
+  },
+  {
+    "name": "Fort Montgomery",
+    "country": "US",
+    "lat": 41.33148,
+    "lng": -73.98681
+  },
+  {
+    "name": "Fort Plain",
+    "country": "US",
+    "lat": 42.93146,
+    "lng": -74.62264
+  },
+  {
+    "name": "Fort Salonga",
+    "country": "US",
+    "lat": 40.9126,
+    "lng": -73.30095
+  },
+  {
+    "name": "Fort Wadsworth",
+    "country": "US",
+    "lat": 40.60113,
+    "lng": -74.05738
+  },
+  {
+    "name": "Forest",
+    "country": "US",
+    "lat": 40.80172,
+    "lng": -83.51048
+  },
+  {
+    "name": "Fort Loramie",
+    "country": "US",
+    "lat": 40.35144,
+    "lng": -84.37384
+  },
+  {
+    "name": "Fort Recovery",
+    "country": "US",
+    "lat": 40.41282,
+    "lng": -84.77635
+  },
+  {
+    "name": "Fort Shawnee",
+    "country": "US",
+    "lat": 40.68672,
+    "lng": -84.13773
+  },
+  {
+    "name": "Fostoria",
+    "country": "US",
+    "lat": 41.157,
+    "lng": -83.41687
+  },
+  {
+    "name": "Ford City",
+    "country": "US",
+    "lat": 40.77229,
+    "lng": -79.52977
+  },
+  {
+    "name": "Forest City",
+    "country": "US",
+    "lat": 41.65147,
+    "lng": -75.46657
+  },
+  {
+    "name": "Forest Hills",
+    "country": "US",
+    "lat": 40.41979,
+    "lng": -79.85005
+  },
+  {
+    "name": "Fort Washington",
+    "country": "US",
+    "lat": 40.14178,
+    "lng": -75.20906
+  },
+  {
+    "name": "Forty Fort",
+    "country": "US",
+    "lat": 41.27897,
+    "lng": -75.87825
+  },
+  {
+    "name": "Foster Brook",
+    "country": "US",
+    "lat": 41.97506,
+    "lng": -78.61725
+  },
+  {
+    "name": "Fountain Hill",
+    "country": "US",
+    "lat": 40.60149,
+    "lng": -75.39518
+  },
+  {
+    "name": "Fox Chapel",
+    "country": "US",
+    "lat": 40.5134,
+    "lng": -79.87977
+  },
+  {
+    "name": "Fox Chase",
+    "country": "US",
+    "lat": 40.08122,
+    "lng": -75.08017
+  },
+  {
+    "name": "Fox Run",
+    "country": "US",
+    "lat": 40.70229,
+    "lng": -80.08284
+  },
+  {
+    "name": "Foster",
+    "country": "US",
+    "lat": 41.85371,
+    "lng": -71.75812
+  },
+  {
+    "name": "Fort Thompson",
+    "country": "US",
+    "lat": 44.0686,
+    "lng": -99.43788
+  },
+  {
+    "name": "Fond du Lac",
+    "country": "US",
+    "lat": 43.775,
+    "lng": -88.43883
+  },
+  {
+    "name": "Fontana",
+    "country": "US",
+    "lat": 42.55141,
+    "lng": -88.5751
+  },
+  {
+    "name": "Fort Atkinson",
+    "country": "US",
+    "lat": 42.92889,
+    "lng": -88.83705
+  },
+  {
+    "name": "Fox Lake",
+    "country": "US",
+    "lat": 43.56554,
+    "lng": -88.9065
+  },
+  {
+    "name": "Fox Point",
+    "country": "US",
+    "lat": 43.15751,
+    "lng": -87.90175
+  },
+  {
+    "name": "Follansbee",
+    "country": "US",
+    "lat": 40.32757,
+    "lng": -80.59591
+  },
+  {
+    "name": "Fort Defiance",
+    "country": "US",
+    "lat": 35.74446,
+    "lng": -109.07648
+  },
+  {
+    "name": "Fortuna Foothills",
+    "country": "US",
+    "lat": 32.65783,
+    "lng": -114.41189
+  },
+  {
+    "name": "Fountain Hills",
+    "country": "US",
+    "lat": 33.61171,
+    "lng": -111.71736
+  },
+  {
+    "name": "Folsom",
+    "country": "US",
+    "lat": 38.67796,
+    "lng": -121.17606
+  },
+  {
+    "name": "Fontana",
+    "country": "US",
+    "lat": 34.09223,
+    "lng": -117.43505
+  },
+  {
+    "name": "Foothill Farms",
+    "country": "US",
+    "lat": 38.67877,
+    "lng": -121.35114
+  },
+  {
+    "name": "Foothill Ranch",
+    "country": "US",
+    "lat": 33.68641,
+    "lng": -117.66088
+  },
+  {
+    "name": "Ford City",
+    "country": "US",
+    "lat": 35.15441,
+    "lng": -119.45623
+  },
+  {
+    "name": "Forest Meadows",
+    "country": "US",
+    "lat": 38.16851,
+    "lng": -120.40659
+  },
+  {
+    "name": "Forest Ranch",
+    "country": "US",
+    "lat": 39.88211,
+    "lng": -121.67275
+  },
+  {
+    "name": "Foresthill",
+    "country": "US",
+    "lat": 39.02018,
+    "lng": -120.81799
+  },
+  {
+    "name": "Forestville",
+    "country": "US",
+    "lat": 38.47352,
+    "lng": -122.89027
+  },
+  {
+    "name": "Fort Bragg",
+    "country": "US",
+    "lat": 39.44572,
+    "lng": -123.80529
+  },
+  {
+    "name": "Fort Irwin",
+    "country": "US",
+    "lat": 35.26275,
+    "lng": -116.68475
+  },
+  {
+    "name": "Foster City",
+    "country": "US",
+    "lat": 37.55855,
+    "lng": -122.27108
+  },
+  {
+    "name": "Fountain Valley",
+    "country": "US",
+    "lat": 33.70918,
+    "lng": -117.95367
+  },
+  {
+    "name": "Fowler",
+    "country": "US",
+    "lat": 36.63051,
+    "lng": -119.67847
+  },
+  {
+    "name": "Fort Carson",
+    "country": "US",
+    "lat": 38.73749,
+    "lng": -104.78886
+  },
+  {
+    "name": "Fountain",
+    "country": "US",
+    "lat": 38.68222,
+    "lng": -104.70081
+  },
+  {
+    "name": "Fowler",
+    "country": "US",
+    "lat": 38.12917,
+    "lng": -104.02329
+  },
+  {
+    "name": "Fort Sumner",
+    "country": "US",
+    "lat": 34.47173,
+    "lng": -104.24553
+  },
+  {
+    "name": "Fort Clark Springs",
+    "country": "US",
+    "lat": 29.30607,
+    "lng": -100.42202
+  },
+  {
+    "name": "Fort Davis",
+    "country": "US",
+    "lat": 30.58821,
+    "lng": -103.89463
+  },
+  {
+    "name": "Fort Hancock",
+    "country": "US",
+    "lat": 31.29846,
+    "lng": -105.84525
+  },
+  {
+    "name": "Fort Stockton",
+    "country": "US",
+    "lat": 30.89404,
+    "lng": -102.87932
+  },
+  {
+    "name": "Fountain Green",
+    "country": "US",
+    "lat": 39.62996,
+    "lng": -111.6352
+  },
+  {
+    "name": "Fort Dick",
+    "country": "US",
+    "lat": 41.86789,
+    "lng": -124.14897
+  },
+  {
+    "name": "Fortuna",
+    "country": "US",
+    "lat": 40.59819,
+    "lng": -124.15728
+  },
+  {
+    "name": "Fort Collins",
+    "country": "US",
+    "lat": 40.58526,
+    "lng": -105.08442
+  },
+  {
+    "name": "Fort Lupton",
+    "country": "US",
+    "lat": 40.08471,
+    "lng": -104.81303
+  },
+  {
+    "name": "Fort Morgan",
+    "country": "US",
+    "lat": 40.25026,
+    "lng": -103.79995
+  },
+  {
+    "name": "Fort Hall",
+    "country": "US",
+    "lat": 43.03325,
+    "lng": -112.43831
+  },
+  {
+    "name": "Forsyth",
+    "country": "US",
+    "lat": 46.26638,
+    "lng": -106.67781
+  },
+  {
+    "name": "Fort Belknap Agency",
+    "country": "US",
+    "lat": 48.4825,
+    "lng": -108.76544
+  },
+  {
+    "name": "Fort Benton",
+    "country": "US",
+    "lat": 47.8183,
+    "lng": -110.66744
+  },
+  {
+    "name": "Four Corners",
+    "country": "US",
+    "lat": 45.66,
+    "lng": -111.185
+  },
+  {
+    "name": "Fort Yates",
+    "country": "US",
+    "lat": 46.08694,
+    "lng": -100.63013
+  },
+  {
+    "name": "Forest Grove",
+    "country": "US",
+    "lat": 45.51984,
+    "lng": -123.11066
+  },
+  {
+    "name": "Fossil",
+    "country": "US",
+    "lat": 44.99819,
+    "lng": -120.21614
+  },
+  {
+    "name": "Four Corners",
+    "country": "US",
+    "lat": 44.9279,
+    "lng": -122.98371
+  },
+  {
+    "name": "Fort Pierre",
+    "country": "US",
+    "lat": 44.35359,
+    "lng": -100.37374
+  },
+  {
+    "name": "Fobes Hill",
+    "country": "US",
+    "lat": 47.94899,
+    "lng": -122.11985
+  },
+  {
+    "name": "Fords Prairie",
+    "country": "US",
+    "lat": 46.7351,
+    "lng": -122.98902
+  },
+  {
+    "name": "Forks",
+    "country": "US",
+    "lat": 47.95036,
+    "lng": -124.38549
+  },
+  {
+    "name": "Fox Island",
+    "country": "US",
+    "lat": 47.25149,
+    "lng": -122.62902
+  },
+  {
+    "name": "Fort Washakie",
+    "country": "US",
+    "lat": 43.00635,
+    "lng": -108.88235
+  },
+  {
+    "name": "Fort Bragg",
+    "country": "US",
+    "lat": 35.139,
+    "lng": -79.00603
+  },
+  {
+    "name": "Fox Chase",
+    "country": "US",
+    "lat": 40.39557,
+    "lng": -75.96216
+  },
+  {
+    "name": "Fort Belvoir",
+    "country": "US",
+    "lat": 38.7119,
+    "lng": -77.14589
+  },
+  {
+    "name": "Fort Drum",
+    "country": "US",
+    "lat": 44.05843,
+    "lng": -75.76189
+  },
+  {
+    "name": "Fort Lee",
+    "country": "US",
+    "lat": 37.24694,
+    "lng": -77.33442
+  },
+  {
+    "name": "Fort Meade",
+    "country": "US",
+    "lat": 39.10815,
+    "lng": -76.74323
+  },
+  {
+    "name": "Fountainhead-Orchard Hills",
+    "country": "US",
+    "lat": 39.68636,
+    "lng": -77.71901
+  },
+  {
+    "name": "Fort Leonard Wood",
+    "country": "US",
+    "lat": 37.70573,
+    "lng": -92.15717
+  },
+  {
+    "name": "Fort Riley North",
+    "country": "US",
+    "lat": 39.11081,
+    "lng": -96.81392
+  },
+  {
+    "name": "Fort Campbell North",
+    "country": "US",
+    "lat": 36.65429,
+    "lng": -87.46056
+  },
+  {
+    "name": "Fort Knox",
+    "country": "US",
+    "lat": 37.89113,
+    "lng": -85.96363
+  },
+  {
+    "name": "Fort Pierce North",
+    "country": "US",
+    "lat": 27.47364,
+    "lng": -80.3593
+  },
+  {
+    "name": "Fort Pierce South",
+    "country": "US",
+    "lat": 27.40962,
+    "lng": -80.35483
+  },
+  {
+    "name": "Fort Polk North",
+    "country": "US",
+    "lat": 31.10302,
+    "lng": -93.17913
+  },
+  {
+    "name": "Fort Polk South",
+    "country": "US",
+    "lat": 31.0511,
+    "lng": -93.21578
+  },
+  {
+    "name": "Fort Novosel",
+    "country": "US",
+    "lat": 31.34282,
+    "lng": -85.71538
+  },
+  {
+    "name": "Fort Stewart",
+    "country": "US",
+    "lat": 31.87217,
+    "lng": -81.61001
+  },
+  {
+    "name": "Four Corners",
+    "country": "US",
+    "lat": 28.33287,
+    "lng": -81.64738
+  },
+  {
+    "name": "Fort Bliss",
+    "country": "US",
+    "lat": 31.81357,
+    "lng": -106.41224
+  },
+  {
+    "name": "Fort Cavazos",
+    "country": "US",
+    "lat": 31.13489,
+    "lng": -97.77561
+  },
+  {
+    "name": "Fox Farm-College",
+    "country": "US",
+    "lat": 41.11203,
+    "lng": -104.78546
+  },
+  {
+    "name": "Fort Covington Hamlet",
+    "country": "US",
+    "lat": 44.97178,
+    "lng": -74.50757
+  },
+  {
+    "name": "Fort Shafter",
+    "country": "US",
+    "lat": 21.34411,
+    "lng": -157.88628
+  },
+  {
+    "name": "Ford Island",
+    "country": "US",
+    "lat": 21.34981,
+    "lng": -157.95924
+  },
+  {
+    "name": "Fouriesburg",
+    "country": "ZA",
+    "lat": -28.61961,
+    "lng": 28.20966
+  },
+  {
+    "name": "Fort Beaufort",
+    "country": "ZA",
+    "lat": -32.77477,
+    "lng": 26.63376
+  },
+  {
+    "name": "Fochville",
+    "country": "ZA",
+    "lat": -26.48862,
+    "lng": 27.49387
+  },
+  {
+    "name": "Folweni",
+    "country": "ZA",
+    "lat": -29.99569,
+    "lng": 30.80724
+  }
+]

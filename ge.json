@@ -1,0 +1,3578 @@
+[
+  {
+    "name": "Gereshk",
+    "country": "AF",
+    "lat": 31.82089,
+    "lng": 64.57005
+  },
+  {
+    "name": "George Hill",
+    "country": "AI",
+    "lat": 18.19939,
+    "lng": -63.0665
+  },
+  {
+    "name": "Gegë",
+    "country": "AL",
+    "lat": 40.83694,
+    "lng": 19.92611
+  },
+  {
+    "name": "Getap",
+    "country": "AM",
+    "lat": 39.76392,
+    "lng": 45.30829
+  },
+  {
+    "name": "Getahovit",
+    "country": "AM",
+    "lat": 40.89523,
+    "lng": 45.1355
+  },
+  {
+    "name": "Geghakert",
+    "country": "AM",
+    "lat": 40.18516,
+    "lng": 44.24493
+  },
+  {
+    "name": "Geghashen",
+    "country": "AM",
+    "lat": 40.22754,
+    "lng": 44.72464
+  },
+  {
+    "name": "Getazat",
+    "country": "AM",
+    "lat": 40.03844,
+    "lng": 44.56369
+  },
+  {
+    "name": "Getashen",
+    "country": "AM",
+    "lat": 40.04449,
+    "lng": 43.94171
+  },
+  {
+    "name": "Geghanist",
+    "country": "AM",
+    "lat": 40.68467,
+    "lng": 44.02333
+  },
+  {
+    "name": "Geghanist",
+    "country": "AM",
+    "lat": 40.14587,
+    "lng": 44.43048
+  },
+  {
+    "name": "Geghadzor",
+    "country": "AM",
+    "lat": 40.62731,
+    "lng": 44.17095
+  },
+  {
+    "name": "Gegharkunik",
+    "country": "AM",
+    "lat": 40.25568,
+    "lng": 45.14728
+  },
+  {
+    "name": "Geghamavan",
+    "country": "AM",
+    "lat": 40.5625,
+    "lng": 44.88892
+  },
+  {
+    "name": "Geghhovit",
+    "country": "AM",
+    "lat": 40.10479,
+    "lng": 45.2855
+  },
+  {
+    "name": "Getapnya",
+    "country": "AM",
+    "lat": 40.1381,
+    "lng": 44.42795
+  },
+  {
+    "name": "General Vedia",
+    "country": "AR",
+    "lat": -26.93243,
+    "lng": -58.65919
+  },
+  {
+    "name": "General Rodríguez",
+    "country": "AR",
+    "lat": -34.60658,
+    "lng": -58.95221
+  },
+  {
+    "name": "General Pacheco",
+    "country": "AR",
+    "lat": -34.45256,
+    "lng": -58.64312
+  },
+  {
+    "name": "General Lavalle",
+    "country": "AR",
+    "lat": -36.40809,
+    "lng": -56.94336
+  },
+  {
+    "name": "General Las Heras",
+    "country": "AR",
+    "lat": -34.92682,
+    "lng": -58.94667
+  },
+  {
+    "name": "General Juan Madariaga",
+    "country": "AR",
+    "lat": -37.00196,
+    "lng": -57.13584
+  },
+  {
+    "name": "General José de San Martín",
+    "country": "AR",
+    "lat": -26.53643,
+    "lng": -59.34138
+  },
+  {
+    "name": "General Guido",
+    "country": "AR",
+    "lat": -36.64168,
+    "lng": -57.79213
+  },
+  {
+    "name": "General Galarza",
+    "country": "AR",
+    "lat": -32.72039,
+    "lng": -59.39587
+  },
+  {
+    "name": "General Conesa",
+    "country": "AR",
+    "lat": -36.52086,
+    "lng": -57.32494
+  },
+  {
+    "name": "General Campos",
+    "country": "AR",
+    "lat": -31.52341,
+    "lng": -58.4058
+  },
+  {
+    "name": "General Belgrano",
+    "country": "AR",
+    "lat": -35.76842,
+    "lng": -58.49444
+  },
+  {
+    "name": "General Alvear",
+    "country": "AR",
+    "lat": -27.42611,
+    "lng": -55.16916
+  },
+  {
+    "name": "General Villegas",
+    "country": "AR",
+    "lat": -35.03264,
+    "lng": -63.01484
+  },
+  {
+    "name": "General San Martín",
+    "country": "AR",
+    "lat": -37.97888,
+    "lng": -63.60349
+  },
+  {
+    "name": "General Roca",
+    "country": "AR",
+    "lat": -39.03333,
+    "lng": -67.58333
+  },
+  {
+    "name": "General Roca",
+    "country": "AR",
+    "lat": -32.7309,
+    "lng": -61.91583
+  },
+  {
+    "name": "General Ramírez",
+    "country": "AR",
+    "lat": -32.17718,
+    "lng": -60.20172
+  },
+  {
+    "name": "General Pinto",
+    "country": "AR",
+    "lat": -34.76431,
+    "lng": -61.89154
+  },
+  {
+    "name": "General Pinedo",
+    "country": "AR",
+    "lat": -27.32534,
+    "lng": -61.28101
+  },
+  {
+    "name": "General Pico",
+    "country": "AR",
+    "lat": -35.6593,
+    "lng": -63.75787
+  },
+  {
+    "name": "General Güemes",
+    "country": "AR",
+    "lat": -24.67445,
+    "lng": -65.0466
+  },
+  {
+    "name": "General Manuel J. Campos",
+    "country": "AR",
+    "lat": -37.46145,
+    "lng": -63.58576
+  },
+  {
+    "name": "General Levalle",
+    "country": "AR",
+    "lat": -34.00719,
+    "lng": -63.92334
+  },
+  {
+    "name": "General La Madrid",
+    "country": "AR",
+    "lat": -37.24675,
+    "lng": -61.26312
+  },
+  {
+    "name": "General Fernández Oro",
+    "country": "AR",
+    "lat": -38.95297,
+    "lng": -67.92489
+  },
+  {
+    "name": "General Mosconi",
+    "country": "AR",
+    "lat": -23.18454,
+    "lng": -62.307
+  },
+  {
+    "name": "General Mosconi",
+    "country": "AR",
+    "lat": -22.59617,
+    "lng": -63.811
+  },
+  {
+    "name": "General Enrique Godoy",
+    "country": "AR",
+    "lat": -39.07891,
+    "lng": -67.15807
+  },
+  {
+    "name": "General Conesa",
+    "country": "AR",
+    "lat": -40.10408,
+    "lng": -64.45592
+  },
+  {
+    "name": "General Cabrera",
+    "country": "AR",
+    "lat": -32.81048,
+    "lng": -63.87213
+  },
+  {
+    "name": "General Baldissera",
+    "country": "AR",
+    "lat": -33.12196,
+    "lng": -62.30356
+  },
+  {
+    "name": "General Arenales",
+    "country": "AR",
+    "lat": -34.30337,
+    "lng": -61.30708
+  },
+  {
+    "name": "General Alvear",
+    "country": "AR",
+    "lat": -36.02174,
+    "lng": -60.0145
+  },
+  {
+    "name": "General Alvear",
+    "country": "AR",
+    "lat": -34.97747,
+    "lng": -67.69618
+  },
+  {
+    "name": "General Acha",
+    "country": "AR",
+    "lat": -37.37821,
+    "lng": -64.60422
+  },
+  {
+    "name": "Gersdorf an der Feistritz",
+    "country": "AT",
+    "lat": 47.16667,
+    "lng": 15.85
+  },
+  {
+    "name": "Gerolding",
+    "country": "AT",
+    "lat": 48.25,
+    "lng": 15.41667
+  },
+  {
+    "name": "Gerersdorf",
+    "country": "AT",
+    "lat": 48.20088,
+    "lng": 15.55613
+  },
+  {
+    "name": "Gerasdorf bei Wien",
+    "country": "AT",
+    "lat": 48.29447,
+    "lng": 16.46765
+  },
+  {
+    "name": "Geras",
+    "country": "AT",
+    "lat": 48.79725,
+    "lng": 15.67268
+  },
+  {
+    "name": "Georgenberg",
+    "country": "AT",
+    "lat": 47.63333,
+    "lng": 13.15
+  },
+  {
+    "name": "Geistthal",
+    "country": "AT",
+    "lat": 47.16667,
+    "lng": 15.16667
+  },
+  {
+    "name": "Gedersdorf",
+    "country": "AT",
+    "lat": 48.43319,
+    "lng": 15.68865
+  },
+  {
+    "name": "Geboltskirchen",
+    "country": "AT",
+    "lat": 48.15338,
+    "lng": 13.6336
+  },
+  {
+    "name": "Gerlosberg",
+    "country": "AT",
+    "lat": 47.2201,
+    "lng": 11.93468
+  },
+  {
+    "name": "Gerlos",
+    "country": "AT",
+    "lat": 47.22464,
+    "lng": 12.03012
+  },
+  {
+    "name": "Geidorf",
+    "country": "AT",
+    "lat": 47.08393,
+    "lng": 15.444
+  },
+  {
+    "name": "Geraldton",
+    "country": "AU",
+    "lat": -28.77897,
+    "lng": 114.61459
+  },
+  {
+    "name": "Gerringong",
+    "country": "AU",
+    "lat": -34.74702,
+    "lng": 150.82809
+  },
+  {
+    "name": "George Town",
+    "country": "AU",
+    "lat": -41.10559,
+    "lng": 146.82606
+  },
+  {
+    "name": "Gembrook",
+    "country": "AU",
+    "lat": -37.95321,
+    "lng": 145.55536
+  },
+  {
+    "name": "Geeveston",
+    "country": "AU",
+    "lat": -43.16337,
+    "lng": 146.92549
+  },
+  {
+    "name": "Geelong West",
+    "country": "AU",
+    "lat": -38.13888,
+    "lng": 144.34842
+  },
+  {
+    "name": "Geelong",
+    "country": "AU",
+    "lat": -38.14711,
+    "lng": 144.36069
+  },
+  {
+    "name": "Gelorup",
+    "country": "AU",
+    "lat": -33.42425,
+    "lng": 115.64094
+  },
+  {
+    "name": "Geebung",
+    "country": "AU",
+    "lat": -27.37246,
+    "lng": 153.04712
+  },
+  {
+    "name": "Geilston Bay",
+    "country": "AU",
+    "lat": -42.82955,
+    "lng": 147.3463
+  },
+  {
+    "name": "Geographe",
+    "country": "AU",
+    "lat": -33.63974,
+    "lng": 115.38358
+  },
+  {
+    "name": "Georgetown",
+    "country": "AU",
+    "lat": -32.9081,
+    "lng": 151.73119
+  },
+  {
+    "name": "Georges Hall",
+    "country": "AU",
+    "lat": -33.90879,
+    "lng": 150.98852
+  },
+  {
+    "name": "Geelong city centre",
+    "country": "AU",
+    "lat": -38.14996,
+    "lng": 144.36176
+  },
+  {
+    "name": "Geraldton city centre",
+    "country": "AU",
+    "lat": -28.77754,
+    "lng": 114.61494
+  },
+  {
+    "name": "Geta",
+    "country": "AX",
+    "lat": 60.37453,
+    "lng": 19.84455
+  },
+  {
+    "name": "Geytepe",
+    "country": "AZ",
+    "lat": 39.11998,
+    "lng": 48.59383
+  },
+  {
+    "name": "Gesves",
+    "country": "BE",
+    "lat": 50.40146,
+    "lng": 5.07457
+  },
+  {
+    "name": "Geraardsbergen",
+    "country": "BE",
+    "lat": 50.77343,
+    "lng": 3.88223
+  },
+  {
+    "name": "Genval",
+    "country": "BE",
+    "lat": 50.72162,
+    "lng": 4.49375
+  },
+  {
+    "name": "Gentbrugge",
+    "country": "BE",
+    "lat": 51.03692,
+    "lng": 3.76509
+  },
+  {
+    "name": "Gent",
+    "country": "BE",
+    "lat": 51.05,
+    "lng": 3.71667
+  },
+  {
+    "name": "Genly",
+    "country": "BE",
+    "lat": 50.38953,
+    "lng": 3.91242
+  },
+  {
+    "name": "Genk",
+    "country": "BE",
+    "lat": 50.965,
+    "lng": 5.50082
+  },
+  {
+    "name": "Genappe",
+    "country": "BE",
+    "lat": 50.61173,
+    "lng": 4.45152
+  },
+  {
+    "name": "Gemmenich",
+    "country": "BE",
+    "lat": 50.74608,
+    "lng": 5.99507
+  },
+  {
+    "name": "Gembloux",
+    "country": "BE",
+    "lat": 50.56149,
+    "lng": 4.69889
+  },
+  {
+    "name": "Geluwe",
+    "country": "BE",
+    "lat": 50.80978,
+    "lng": 3.07695
+  },
+  {
+    "name": "Geluveld",
+    "country": "BE",
+    "lat": 50.83511,
+    "lng": 2.99343
+  },
+  {
+    "name": "Gelrode",
+    "country": "BE",
+    "lat": 50.96632,
+    "lng": 4.80412
+  },
+  {
+    "name": "Gellik",
+    "country": "BE",
+    "lat": 50.88473,
+    "lng": 5.61007
+  },
+  {
+    "name": "Gelinden",
+    "country": "BE",
+    "lat": 50.7656,
+    "lng": 5.26121
+  },
+  {
+    "name": "Gelbressée",
+    "country": "BE",
+    "lat": 50.50611,
+    "lng": 4.95552
+  },
+  {
+    "name": "Geetbets",
+    "country": "BE",
+    "lat": 50.89431,
+    "lng": 5.11199
+  },
+  {
+    "name": "Geest-Gérompont-Petit-Rosière",
+    "country": "BE",
+    "lat": 50.64043,
+    "lng": 4.8587
+  },
+  {
+    "name": "Geer",
+    "country": "BE",
+    "lat": 50.6699,
+    "lng": 5.17364
+  },
+  {
+    "name": "Geel",
+    "country": "BE",
+    "lat": 51.16557,
+    "lng": 4.98917
+  },
+  {
+    "name": "Gedinne",
+    "country": "BE",
+    "lat": 49.98037,
+    "lng": 4.93674
+  },
+  {
+    "name": "General Toshevo",
+    "country": "BG",
+    "lat": 43.70123,
+    "lng": 28.03787
+  },
+  {
+    "name": "General Sampaio",
+    "country": "BR",
+    "lat": -4.05278,
+    "lng": -39.45444
+  },
+  {
+    "name": "Getúlio Vargas",
+    "country": "BR",
+    "lat": -27.89028,
+    "lng": -52.2275
+  },
+  {
+    "name": "Getulina",
+    "country": "BR",
+    "lat": -21.79861,
+    "lng": -49.92861
+  },
+  {
+    "name": "Gentio do Ouro",
+    "country": "BR",
+    "lat": -11.42889,
+    "lng": -42.50278
+  },
+  {
+    "name": "General Salgado",
+    "country": "BR",
+    "lat": -20.64833,
+    "lng": -50.36056
+  },
+  {
+    "name": "General Carneiro",
+    "country": "BR",
+    "lat": -26.4275,
+    "lng": -51.31556
+  },
+  {
+    "name": "General Carneiro",
+    "country": "BR",
+    "lat": -15.71083,
+    "lng": -52.75528
+  },
+  {
+    "name": "General Câmara",
+    "country": "BR",
+    "lat": -29.905,
+    "lng": -51.76028
+  },
+  {
+    "name": "Geminiano",
+    "country": "BR",
+    "lat": -7.15778,
+    "lng": -41.36111
+  },
+  {
+    "name": "General Maynard",
+    "country": "BR",
+    "lat": -10.68889,
+    "lng": -36.98389
+  },
+  {
+    "name": "Gentil",
+    "country": "BR",
+    "lat": -28.43028,
+    "lng": -52.03556
+  },
+  {
+    "name": "George Town",
+    "country": "BS",
+    "lat": 23.51616,
+    "lng": -75.78665
+  },
+  {
+    "name": "Geylegphug",
+    "country": "BT",
+    "lat": 26.86833,
+    "lng": 90.48778
+  },
+  {
+    "name": "Gellatly",
+    "country": "CA",
+    "lat": 49.81667,
+    "lng": -119.61667
+  },
+  {
+    "name": "Gemena",
+    "country": "CD",
+    "lat": 3.25651,
+    "lng": 19.77234
+  },
+  {
+    "name": "Geuensee",
+    "country": "CH",
+    "lat": 47.1997,
+    "lng": 8.10689
+  },
+  {
+    "name": "Gersau",
+    "country": "CH",
+    "lat": 46.99419,
+    "lng": 8.525
+  },
+  {
+    "name": "Gerlafingen",
+    "country": "CH",
+    "lat": 47.17087,
+    "lng": 7.57249
+  },
+  {
+    "name": "Genolier",
+    "country": "CH",
+    "lat": 46.43537,
+    "lng": 6.21809
+  },
+  {
+    "name": "Genève",
+    "country": "CH",
+    "lat": 46.20222,
+    "lng": 6.14569
+  },
+  {
+    "name": "Gelterkinden",
+    "country": "CH",
+    "lat": 47.46497,
+    "lng": 7.85174
+  },
+  {
+    "name": "Gebenstorf",
+    "country": "CH",
+    "lat": 47.48136,
+    "lng": 8.23949
+  },
+  {
+    "name": "Geroldswil",
+    "country": "CH",
+    "lat": 47.42213,
+    "lng": 8.41085
+  },
+  {
+    "name": "Geso Bondoso",
+    "country": "CI",
+    "lat": 8.27729,
+    "lng": -5.65933
+  },
+  {
+    "name": "Geji",
+    "country": "CN",
+    "lat": 32.39545,
+    "lng": 81.13972
+  },
+  {
+    "name": "Gengqing",
+    "country": "CN",
+    "lat": 31.81649,
+    "lng": 98.59579
+  },
+  {
+    "name": "Gengma",
+    "country": "CN",
+    "lat": 23.52325,
+    "lng": 99.3786
+  },
+  {
+    "name": "Gexianzhuang",
+    "country": "CN",
+    "lat": 37.07119,
+    "lng": 115.66174
+  },
+  {
+    "name": "Gelan",
+    "country": "CN",
+    "lat": 30.03589,
+    "lng": 107.11612
+  },
+  {
+    "name": "Gejiu",
+    "country": "CN",
+    "lat": 23.36085,
+    "lng": 103.15372
+  },
+  {
+    "name": "Gedong",
+    "country": "CN",
+    "lat": 37.89311,
+    "lng": 111.25544
+  },
+  {
+    "name": "Gecheng",
+    "country": "CN",
+    "lat": 31.94856,
+    "lng": 108.66073
+  },
+  {
+    "name": "Genhe",
+    "country": "CN",
+    "lat": 50.78333,
+    "lng": 121.51667
+  },
+  {
+    "name": "Geroskípou (quarter)",
+    "country": "CY",
+    "lat": 34.75581,
+    "lng": 32.44915
+  },
+  {
+    "name": "Germasógeia",
+    "country": "CY",
+    "lat": 34.72073,
+    "lng": 33.08447
+  },
+  {
+    "name": "Geroskipou",
+    "country": "CY",
+    "lat": 34.76091,
+    "lng": 32.44844
+  },
+  {
+    "name": "Geyer",
+    "country": "DE",
+    "lat": 50.62632,
+    "lng": 12.92074
+  },
+  {
+    "name": "Gevelsberg",
+    "country": "DE",
+    "lat": 51.31971,
+    "lng": 7.3392
+  },
+  {
+    "name": "Geusa",
+    "country": "DE",
+    "lat": 51.33914,
+    "lng": 11.94382
+  },
+  {
+    "name": "Gettorf",
+    "country": "DE",
+    "lat": 54.40697,
+    "lng": 9.97803
+  },
+  {
+    "name": "Gesundbrunnen",
+    "country": "DE",
+    "lat": 52.55035,
+    "lng": 13.39139
+  },
+  {
+    "name": "Gestratz",
+    "country": "DE",
+    "lat": 47.65,
+    "lng": 9.98333
+  },
+  {
+    "name": "Gessertshausen",
+    "country": "DE",
+    "lat": 48.32904,
+    "lng": 10.73278
+  },
+  {
+    "name": "Geslau",
+    "country": "DE",
+    "lat": 49.36643,
+    "lng": 10.31528
+  },
+  {
+    "name": "Geseke",
+    "country": "DE",
+    "lat": 51.64091,
+    "lng": 8.5109
+  },
+  {
+    "name": "Gesees",
+    "country": "DE",
+    "lat": 50.03207,
+    "lng": 11.66623
+  },
+  {
+    "name": "Geschwenda",
+    "country": "DE",
+    "lat": 50.73178,
+    "lng": 10.8254
+  },
+  {
+    "name": "Gescher",
+    "country": "DE",
+    "lat": 51.954,
+    "lng": 7.00481
+  },
+  {
+    "name": "Gerzen",
+    "country": "DE",
+    "lat": 48.50706,
+    "lng": 12.42686
+  },
+  {
+    "name": "Gerwisch",
+    "country": "DE",
+    "lat": 52.17662,
+    "lng": 11.73972
+  },
+  {
+    "name": "Gerswalde",
+    "country": "DE",
+    "lat": 53.16988,
+    "lng": 13.74853
+  },
+  {
+    "name": "Gerstungen",
+    "country": "DE",
+    "lat": 50.96667,
+    "lng": 10.06667
+  },
+  {
+    "name": "Gersthofen",
+    "country": "DE",
+    "lat": 48.42432,
+    "lng": 10.87273
+  },
+  {
+    "name": "Gerstetten",
+    "country": "DE",
+    "lat": 48.62254,
+    "lng": 10.01984
+  },
+  {
+    "name": "Gersten",
+    "country": "DE",
+    "lat": 52.58333,
+    "lng": 7.51667
+  },
+  {
+    "name": "Gersheim",
+    "country": "DE",
+    "lat": 49.15,
+    "lng": 7.2
+  },
+  {
+    "name": "Gersfeld",
+    "country": "DE",
+    "lat": 50.45138,
+    "lng": 9.91422
+  },
+  {
+    "name": "Gersdorf",
+    "country": "DE",
+    "lat": 51.1122,
+    "lng": 12.93889
+  },
+  {
+    "name": "Gersdorf",
+    "country": "DE",
+    "lat": 50.75,
+    "lng": 12.71667
+  },
+  {
+    "name": "Gerolzhofen",
+    "country": "DE",
+    "lat": 49.90025,
+    "lng": 10.34832
+  },
+  {
+    "name": "Gerolstein",
+    "country": "DE",
+    "lat": 50.22224,
+    "lng": 6.65984
+  },
+  {
+    "name": "Gerolsheim",
+    "country": "DE",
+    "lat": 49.54778,
+    "lng": 8.26389
+  },
+  {
+    "name": "Gerolsbach",
+    "country": "DE",
+    "lat": 48.49283,
+    "lng": 11.36149
+  },
+  {
+    "name": "Gerolfingen",
+    "country": "DE",
+    "lat": 49.0534,
+    "lng": 10.51151
+  },
+  {
+    "name": "Geroldshausen",
+    "country": "DE",
+    "lat": 49.68361,
+    "lng": 9.90222
+  },
+  {
+    "name": "Geroldsgrün",
+    "country": "DE",
+    "lat": 50.33333,
+    "lng": 11.6
+  },
+  {
+    "name": "Gernsheim",
+    "country": "DE",
+    "lat": 49.75305,
+    "lng": 8.48859
+  },
+  {
+    "name": "Gernsbach",
+    "country": "DE",
+    "lat": 48.77034,
+    "lng": 8.34306
+  },
+  {
+    "name": "Gernrode",
+    "country": "DE",
+    "lat": 51.72575,
+    "lng": 11.13876
+  },
+  {
+    "name": "Gernrode",
+    "country": "DE",
+    "lat": 51.4,
+    "lng": 10.4
+  },
+  {
+    "name": "Germersheim",
+    "country": "DE",
+    "lat": 49.2144,
+    "lng": 8.36687
+  },
+  {
+    "name": "Germering",
+    "country": "DE",
+    "lat": 48.13392,
+    "lng": 11.3765
+  },
+  {
+    "name": "Gerlingen",
+    "country": "DE",
+    "lat": 48.79954,
+    "lng": 9.06316
+  },
+  {
+    "name": "Geringswalde",
+    "country": "DE",
+    "lat": 51.07677,
+    "lng": 12.90725
+  },
+  {
+    "name": "Gerhardshofen",
+    "country": "DE",
+    "lat": 49.63123,
+    "lng": 10.69133
+  },
+  {
+    "name": "Geretsried",
+    "country": "DE",
+    "lat": 47.85775,
+    "lng": 11.48054
+  },
+  {
+    "name": "Gerdau",
+    "country": "DE",
+    "lat": 52.96667,
+    "lng": 10.41667
+  },
+  {
+    "name": "Gerbstedt",
+    "country": "DE",
+    "lat": 51.63281,
+    "lng": 11.62669
+  },
+  {
+    "name": "Gerbrunn",
+    "country": "DE",
+    "lat": 49.77528,
+    "lng": 9.99361
+  },
+  {
+    "name": "Gerach",
+    "country": "DE",
+    "lat": 50.03333,
+    "lng": 10.8
+  },
+  {
+    "name": "Gerabronn",
+    "country": "DE",
+    "lat": 48.97071,
+    "lng": 9.91986
+  },
+  {
+    "name": "Geraberg",
+    "country": "DE",
+    "lat": 50.71594,
+    "lng": 10.83737
+  },
+  {
+    "name": "Gera",
+    "country": "DE",
+    "lat": 50.88029,
+    "lng": 12.08187
+  },
+  {
+    "name": "Georgsmarienhütte",
+    "country": "DE",
+    "lat": 52.20296,
+    "lng": 8.0448
+  },
+  {
+    "name": "Georgsdorf",
+    "country": "DE",
+    "lat": 52.56667,
+    "lng": 7.08333
+  },
+  {
+    "name": "Georgenthal",
+    "country": "DE",
+    "lat": 50.83205,
+    "lng": 10.66266
+  },
+  {
+    "name": "Georgensgmünd",
+    "country": "DE",
+    "lat": 49.18972,
+    "lng": 11.01667
+  },
+  {
+    "name": "Georgenberg",
+    "country": "DE",
+    "lat": 49.70297,
+    "lng": 12.42082
+  },
+  {
+    "name": "Genthin",
+    "country": "DE",
+    "lat": 52.40668,
+    "lng": 12.1592
+  },
+  {
+    "name": "Gensingen",
+    "country": "DE",
+    "lat": 49.9,
+    "lng": 7.93333
+  },
+  {
+    "name": "Gengenbach",
+    "country": "DE",
+    "lat": 48.40476,
+    "lng": 8.01433
+  },
+  {
+    "name": "Genderkingen",
+    "country": "DE",
+    "lat": 48.7,
+    "lng": 10.88333
+  },
+  {
+    "name": "Gemünden an der Wohra",
+    "country": "DE",
+    "lat": 50.97401,
+    "lng": 8.96946
+  },
+  {
+    "name": "Gemünden am Main",
+    "country": "DE",
+    "lat": 50.04946,
+    "lng": 9.70593
+  },
+  {
+    "name": "Gemünden",
+    "country": "DE",
+    "lat": 49.89444,
+    "lng": 7.4775
+  },
+  {
+    "name": "Gemmrigheim",
+    "country": "DE",
+    "lat": 49.02833,
+    "lng": 9.15556
+  },
+  {
+    "name": "Gemmingen",
+    "country": "DE",
+    "lat": 49.15639,
+    "lng": 8.98194
+  },
+  {
+    "name": "Gelting",
+    "country": "DE",
+    "lat": 54.74527,
+    "lng": 9.89702
+  },
+  {
+    "name": "Geltendorf",
+    "country": "DE",
+    "lat": 48.11737,
+    "lng": 11.03216
+  },
+  {
+    "name": "Gelsenkirchen",
+    "country": "DE",
+    "lat": 51.50508,
+    "lng": 7.09654
+  },
+  {
+    "name": "Gelnhausen",
+    "country": "DE",
+    "lat": 50.20164,
+    "lng": 9.18742
+  },
+  {
+    "name": "Gelenau",
+    "country": "DE",
+    "lat": 50.71151,
+    "lng": 12.96666
+  },
+  {
+    "name": "Geldersheim",
+    "country": "DE",
+    "lat": 50.04286,
+    "lng": 10.15609
+  },
+  {
+    "name": "Geldern",
+    "country": "DE",
+    "lat": 51.51908,
+    "lng": 6.32363
+  },
+  {
+    "name": "Gelbensande",
+    "country": "DE",
+    "lat": 54.20272,
+    "lng": 12.30168
+  },
+  {
+    "name": "Geithain",
+    "country": "DE",
+    "lat": 51.05528,
+    "lng": 12.69674
+  },
+  {
+    "name": "Geitelde",
+    "country": "DE",
+    "lat": 52.20987,
+    "lng": 10.46858
+  },
+  {
+    "name": "Geismar",
+    "country": "DE",
+    "lat": 51.23169,
+    "lng": 10.16548
+  },
+  {
+    "name": "Geislingen an der Steige",
+    "country": "DE",
+    "lat": 48.62423,
+    "lng": 9.82736
+  },
+  {
+    "name": "Geislingen",
+    "country": "DE",
+    "lat": 48.28768,
+    "lng": 8.81241
+  },
+  {
+    "name": "Geisleden",
+    "country": "DE",
+    "lat": 51.35,
+    "lng": 10.2
+  },
+  {
+    "name": "Geisingen",
+    "country": "DE",
+    "lat": 47.92504,
+    "lng": 8.65002
+  },
+  {
+    "name": "Geising",
+    "country": "DE",
+    "lat": 50.75742,
+    "lng": 13.79278
+  },
+  {
+    "name": "Geisenheim",
+    "country": "DE",
+    "lat": 49.9847,
+    "lng": 7.96835
+  },
+  {
+    "name": "Geisenhausen",
+    "country": "DE",
+    "lat": 48.47609,
+    "lng": 12.25817
+  },
+  {
+    "name": "Geisenfeld",
+    "country": "DE",
+    "lat": 48.68426,
+    "lng": 11.61233
+  },
+  {
+    "name": "Geiselwind",
+    "country": "DE",
+    "lat": 49.77356,
+    "lng": 10.47063
+  },
+  {
+    "name": "Geiselhöring",
+    "country": "DE",
+    "lat": 48.82505,
+    "lng": 12.39649
+  },
+  {
+    "name": "Geiselbach",
+    "country": "DE",
+    "lat": 50.12329,
+    "lng": 9.19664
+  },
+  {
+    "name": "Geisa",
+    "country": "DE",
+    "lat": 50.71465,
+    "lng": 9.95075
+  },
+  {
+    "name": "Geilenkirchen",
+    "country": "DE",
+    "lat": 50.96745,
+    "lng": 6.11763
+  },
+  {
+    "name": "Geiersthal",
+    "country": "DE",
+    "lat": 49.04569,
+    "lng": 12.98171
+  },
+  {
+    "name": "Gehren",
+    "country": "DE",
+    "lat": 50.64852,
+    "lng": 11.00471
+  },
+  {
+    "name": "Gehrden",
+    "country": "DE",
+    "lat": 52.31362,
+    "lng": 9.60033
+  },
+  {
+    "name": "Gehrde",
+    "country": "DE",
+    "lat": 52.57684,
+    "lng": 8.00342
+  },
+  {
+    "name": "Gefrees",
+    "country": "DE",
+    "lat": 50.09538,
+    "lng": 11.73772
+  },
+  {
+    "name": "Geesthacht",
+    "country": "DE",
+    "lat": 53.43575,
+    "lng": 10.3779
+  },
+  {
+    "name": "Geeste",
+    "country": "DE",
+    "lat": 52.6,
+    "lng": 7.26667
+  },
+  {
+    "name": "Gedern",
+    "country": "DE",
+    "lat": 50.42482,
+    "lng": 9.1984
+  },
+  {
+    "name": "Gechingen",
+    "country": "DE",
+    "lat": 48.69527,
+    "lng": 8.82915
+  },
+  {
+    "name": "Gebsattel",
+    "country": "DE",
+    "lat": 49.35,
+    "lng": 10.2
+  },
+  {
+    "name": "Gebhardshain",
+    "country": "DE",
+    "lat": 50.75,
+    "lng": 7.81667
+  },
+  {
+    "name": "Gebesee",
+    "country": "DE",
+    "lat": 51.11488,
+    "lng": 10.93455
+  },
+  {
+    "name": "Gemeinde Friedland",
+    "country": "DE",
+    "lat": 51.41667,
+    "lng": 9.93333
+  },
+  {
+    "name": "Gesundbrunnen",
+    "country": "DE",
+    "lat": 51.18996,
+    "lng": 14.44251
+  },
+  {
+    "name": "Gevninge",
+    "country": "DK",
+    "lat": 55.64544,
+    "lng": 11.95724
+  },
+  {
+    "name": "Gelsted",
+    "country": "DK",
+    "lat": 55.39878,
+    "lng": 9.97314
+  },
+  {
+    "name": "Gedved",
+    "country": "DK",
+    "lat": 55.93085,
+    "lng": 9.84601
+  },
+  {
+    "name": "General Vernaza",
+    "country": "EC",
+    "lat": -1.76275,
+    "lng": -79.79105
+  },
+  {
+    "name": "General Proaño",
+    "country": "EC",
+    "lat": -2.26676,
+    "lng": -78.12982
+  },
+  {
+    "name": "General Morales",
+    "country": "EC",
+    "lat": -2.40772,
+    "lng": -79.02322
+  },
+  {
+    "name": "General Leonidas Plaza Gutiérrez",
+    "country": "EC",
+    "lat": -2.96677,
+    "lng": -78.43207
+  },
+  {
+    "name": "Gestalgar",
+    "country": "ES",
+    "lat": 39.6,
+    "lng": -0.83333
+  },
+  {
+    "name": "Gerindote",
+    "country": "ES",
+    "lat": 39.96594,
+    "lng": -4.30278
+  },
+  {
+    "name": "Gerena",
+    "country": "ES",
+    "lat": 37.52957,
+    "lng": -6.15479
+  },
+  {
+    "name": "Genovés",
+    "country": "ES",
+    "lat": 38.98915,
+    "lng": -0.46992
+  },
+  {
+    "name": "Genalguacil",
+    "country": "ES",
+    "lat": 36.54546,
+    "lng": -5.23572
+  },
+  {
+    "name": "Gelves",
+    "country": "ES",
+    "lat": 37.33481,
+    "lng": -6.02601
+  },
+  {
+    "name": "Geldo",
+    "country": "ES",
+    "lat": 39.83333,
+    "lng": -0.46667
+  },
+  {
+    "name": "Getaria",
+    "country": "ES",
+    "lat": 43.30326,
+    "lng": -2.20444
+  },
+  {
+    "name": "Gernika-Lumo",
+    "country": "ES",
+    "lat": 43.31667,
+    "lng": -2.68333
+  },
+  {
+    "name": "Getxo",
+    "country": "ES",
+    "lat": 43.35689,
+    "lng": -3.01146
+  },
+  {
+    "name": "Getafe",
+    "country": "ES",
+    "lat": 40.30571,
+    "lng": -3.73295
+  },
+  {
+    "name": "Geria",
+    "country": "ES",
+    "lat": 41.57868,
+    "lng": -4.87663
+  },
+  {
+    "name": "Ger",
+    "country": "ES",
+    "lat": 42.41059,
+    "lng": 1.84536
+  },
+  {
+    "name": "Genevilla",
+    "country": "ES",
+    "lat": 42.6452,
+    "lng": -2.39021
+  },
+  {
+    "name": "Gemuño",
+    "country": "ES",
+    "lat": 40.59159,
+    "lng": -4.78178
+  },
+  {
+    "name": "Gema",
+    "country": "ES",
+    "lat": 41.41855,
+    "lng": -5.64906
+  },
+  {
+    "name": "Gelsa",
+    "country": "ES",
+    "lat": 41.40766,
+    "lng": -0.46158
+  },
+  {
+    "name": "Gelida",
+    "country": "ES",
+    "lat": 41.43333,
+    "lng": 1.86667
+  },
+  {
+    "name": "Gejuelo del Barro",
+    "country": "ES",
+    "lat": 41.07633,
+    "lng": -6.12332
+  },
+  {
+    "name": "Gea de Albarracín",
+    "country": "ES",
+    "lat": 40.41114,
+    "lng": -1.34823
+  },
+  {
+    "name": "Genet",
+    "country": "ET",
+    "lat": 9.06667,
+    "lng": 38.5
+  },
+  {
+    "name": "Gelemso",
+    "country": "ET",
+    "lat": 8.81667,
+    "lng": 40.51667
+  },
+  {
+    "name": "Gedeb",
+    "country": "ET",
+    "lat": 9.5725,
+    "lng": 43.18139
+  },
+  {
+    "name": "Gebre Guracha",
+    "country": "ET",
+    "lat": 9.8,
+    "lng": 38.4
+  },
+  {
+    "name": "Gex",
+    "country": "FR",
+    "lat": 46.33323,
+    "lng": 6.05766
+  },
+  {
+    "name": "Gevrey-Chambertin",
+    "country": "FR",
+    "lat": 47.22614,
+    "lng": 4.96806
+  },
+  {
+    "name": "Geudertheim",
+    "country": "FR",
+    "lat": 48.72415,
+    "lng": 7.75188
+  },
+  {
+    "name": "Gestel",
+    "country": "FR",
+    "lat": 47.80339,
+    "lng": -3.44479
+  },
+  {
+    "name": "Gesté",
+    "country": "FR",
+    "lat": 47.18179,
+    "lng": -1.10917
+  },
+  {
+    "name": "Gespunsart",
+    "country": "FR",
+    "lat": 49.82143,
+    "lng": 4.82926
+  },
+  {
+    "name": "Gerzat",
+    "country": "FR",
+    "lat": 45.82581,
+    "lng": 3.14473
+  },
+  {
+    "name": "Gerstheim",
+    "country": "FR",
+    "lat": 48.38215,
+    "lng": 7.70395
+  },
+  {
+    "name": "Gergy",
+    "country": "FR",
+    "lat": 46.87557,
+    "lng": 4.94527
+  },
+  {
+    "name": "Gerde",
+    "country": "FR",
+    "lat": 43.05528,
+    "lng": 0.16698
+  },
+  {
+    "name": "Gerbéviller",
+    "country": "FR",
+    "lat": 48.49618,
+    "lng": 6.51075
+  },
+  {
+    "name": "Ger",
+    "country": "FR",
+    "lat": 43.25296,
+    "lng": -0.05201
+  },
+  {
+    "name": "Gentilly",
+    "country": "FR",
+    "lat": 48.81294,
+    "lng": 2.3417
+  },
+  {
+    "name": "Gensac-la-Pallue",
+    "country": "FR",
+    "lat": 45.65054,
+    "lng": -0.25287
+  },
+  {
+    "name": "Gennevilliers",
+    "country": "FR",
+    "lat": 48.93333,
+    "lng": 2.3
+  },
+  {
+    "name": "Gennes",
+    "country": "FR",
+    "lat": 47.3401,
+    "lng": -0.23149
+  },
+  {
+    "name": "Genlis",
+    "country": "FR",
+    "lat": 47.24203,
+    "lng": 5.22415
+  },
+  {
+    "name": "Genillé",
+    "country": "FR",
+    "lat": 47.18333,
+    "lng": 1.1
+  },
+  {
+    "name": "Genech",
+    "country": "FR",
+    "lat": 50.53122,
+    "lng": 3.21651
+  },
+  {
+    "name": "Genay",
+    "country": "FR",
+    "lat": 45.89681,
+    "lng": 4.84091
+  },
+  {
+    "name": "Genas",
+    "country": "FR",
+    "lat": 45.73131,
+    "lng": 5.00211
+  },
+  {
+    "name": "Gelos",
+    "country": "FR",
+    "lat": 43.28319,
+    "lng": -0.37117
+  },
+  {
+    "name": "Gelles",
+    "country": "FR",
+    "lat": 45.76947,
+    "lng": 2.76309
+  },
+  {
+    "name": "Geispolsheim",
+    "country": "FR",
+    "lat": 48.51603,
+    "lng": 7.64825
+  },
+  {
+    "name": "Geneston",
+    "country": "FR",
+    "lat": 47.05639,
+    "lng": -1.51139
+  },
+  {
+    "name": "Germoe",
+    "country": "GB",
+    "lat": 50.11539,
+    "lng": -5.37881
+  },
+  {
+    "name": "Gelligaer",
+    "country": "GB",
+    "lat": 51.66444,
+    "lng": -3.25611
+  },
+  {
+    "name": "Gedney Hill",
+    "country": "GB",
+    "lat": 52.68434,
+    "lng": -0.02008
+  },
+  {
+    "name": "Gedling",
+    "country": "GB",
+    "lat": 52.97574,
+    "lng": -1.07873
+  },
+  {
+    "name": "Geddington",
+    "country": "GB",
+    "lat": 52.43757,
+    "lng": -0.68965
+  },
+  {
+    "name": "Gerrards Cross",
+    "country": "GB",
+    "lat": 51.5861,
+    "lng": -0.55543
+  },
+  {
+    "name": "Geráni",
+    "country": "GR",
+    "lat": 35.51721,
+    "lng": 23.87818
+  },
+  {
+    "name": "Geráki",
+    "country": "GR",
+    "lat": 36.99227,
+    "lng": 22.70663
+  },
+  {
+    "name": "Gerakaroú",
+    "country": "GR",
+    "lat": 40.62666,
+    "lng": 23.21566
+  },
+  {
+    "name": "Genisséa",
+    "country": "GR",
+    "lat": 41.06165,
+    "lng": 24.96248
+  },
+  {
+    "name": "Georgioupolis",
+    "country": "GR",
+    "lat": 35.36225,
+    "lng": 24.26013
+  },
+  {
+    "name": "Georgetown",
+    "country": "GY",
+    "lat": 6.80448,
+    "lng": -58.15527
+  },
+  {
+    "name": "Generalski Stol",
+    "country": "HR",
+    "lat": 45.34196,
+    "lng": 15.37557
+  },
+  {
+    "name": "Gesztely",
+    "country": "HU",
+    "lat": 48.1,
+    "lng": 20.96667
+  },
+  {
+    "name": "Gencsapáti",
+    "country": "HU",
+    "lat": 47.28496,
+    "lng": 16.59575
+  },
+  {
+    "name": "Geser",
+    "country": "ID",
+    "lat": -3.87877,
+    "lng": 130.89935
+  },
+  {
+    "name": "Gerung",
+    "country": "ID",
+    "lat": -8.683,
+    "lng": 116.1253
+  },
+  {
+    "name": "Genteng",
+    "country": "ID",
+    "lat": -8.36667,
+    "lng": 114.15
+  },
+  {
+    "name": "Gedong Tataan",
+    "country": "ID",
+    "lat": -5.3827,
+    "lng": 105.0955
+  },
+  {
+    "name": "Gedangan",
+    "country": "ID",
+    "lat": -7.39083,
+    "lng": 112.72667
+  },
+  {
+    "name": "Gebog",
+    "country": "ID",
+    "lat": -6.735,
+    "lng": 110.8444
+  },
+  {
+    "name": "Getengan",
+    "country": "ID",
+    "lat": -3.1813,
+    "lng": 119.8839
+  },
+  {
+    "name": "Genyem",
+    "country": "ID",
+    "lat": -2.5791,
+    "lng": 140.1495
+  },
+  {
+    "name": "Gedongombo",
+    "country": "ID",
+    "lat": -6.9094,
+    "lng": 112.0647
+  },
+  {
+    "name": "Gedangan",
+    "country": "ID",
+    "lat": -8.2949,
+    "lng": 112.6517
+  },
+  {
+    "name": "Getentiri",
+    "country": "ID",
+    "lat": -6.58887,
+    "lng": 140.34613
+  },
+  {
+    "name": "Geuleumpangminyeuk",
+    "country": "ID",
+    "lat": 5.25,
+    "lng": 96.02904
+  },
+  {
+    "name": "Geumpang",
+    "country": "ID",
+    "lat": 4.82876,
+    "lng": 96.16073
+  },
+  {
+    "name": "Geva‘ Karmel",
+    "country": "IL",
+    "lat": 32.66002,
+    "lng": 34.94874
+  },
+  {
+    "name": "Gesher HaZiv",
+    "country": "IL",
+    "lat": 33.04039,
+    "lng": 35.11065
+  },
+  {
+    "name": "Gedera",
+    "country": "IL",
+    "lat": 31.81456,
+    "lng": 34.77998
+  },
+  {
+    "name": "Gevrai",
+    "country": "IN",
+    "lat": 19.26372,
+    "lng": 75.75007
+  },
+  {
+    "name": "George Town",
+    "country": "IN",
+    "lat": 13.0926,
+    "lng": 80.2801
+  },
+  {
+    "name": "Gerimari Chapori",
+    "country": "IN",
+    "lat": 26.42783,
+    "lng": 92.02511
+  },
+  {
+    "name": "Gerāsh",
+    "country": "IR",
+    "lat": 27.66966,
+    "lng": 54.13586
+  },
+  {
+    "name": "Germī",
+    "country": "IR",
+    "lat": 39.0215,
+    "lng": 48.0801
+  },
+  {
+    "name": "Gerocarne",
+    "country": "IT",
+    "lat": 38.58767,
+    "lng": 16.21818
+  },
+  {
+    "name": "Gesturi",
+    "country": "IT",
+    "lat": 39.73237,
+    "lng": 9.02077
+  },
+  {
+    "name": "Gesico",
+    "country": "IT",
+    "lat": 39.61636,
+    "lng": 9.10665
+  },
+  {
+    "name": "Gergei",
+    "country": "IT",
+    "lat": 39.69878,
+    "lng": 9.09965
+  },
+  {
+    "name": "Geraci Siculo",
+    "country": "IT",
+    "lat": 37.85901,
+    "lng": 14.15333
+  },
+  {
+    "name": "Gerace",
+    "country": "IT",
+    "lat": 38.27137,
+    "lng": 16.2207
+  },
+  {
+    "name": "Genuri",
+    "country": "IT",
+    "lat": 39.74327,
+    "lng": 8.92407
+  },
+  {
+    "name": "Genoni",
+    "country": "IT",
+    "lat": 39.79361,
+    "lng": 9.00797
+  },
+  {
+    "name": "Gemini",
+    "country": "IT",
+    "lat": 39.91134,
+    "lng": 18.18742
+  },
+  {
+    "name": "Gela",
+    "country": "IT",
+    "lat": 37.07381,
+    "lng": 14.24038
+  },
+  {
+    "name": "Gesualdo",
+    "country": "IT",
+    "lat": 41.00554,
+    "lng": 15.07262
+  },
+  {
+    "name": "Gessopalena",
+    "country": "IT",
+    "lat": 42.05521,
+    "lng": 14.27367
+  },
+  {
+    "name": "Gerosa",
+    "country": "IT",
+    "lat": 45.8498,
+    "lng": 9.57161
+  },
+  {
+    "name": "Gerola Alta",
+    "country": "IT",
+    "lat": 46.06003,
+    "lng": 9.55025
+  },
+  {
+    "name": "Germagnano",
+    "country": "IT",
+    "lat": 45.26317,
+    "lng": 7.46886
+  },
+  {
+    "name": "Gerenzago",
+    "country": "IT",
+    "lat": 45.20633,
+    "lng": 9.36137
+  },
+  {
+    "name": "Gerano",
+    "country": "IT",
+    "lat": 41.93474,
+    "lng": 12.99034
+  },
+  {
+    "name": "Gera Lario",
+    "country": "IT",
+    "lat": 46.17003,
+    "lng": 9.36736
+  },
+  {
+    "name": "Genzone",
+    "country": "IT",
+    "lat": 45.17962,
+    "lng": 9.34829
+  },
+  {
+    "name": "Genzano di Roma",
+    "country": "IT",
+    "lat": 41.70706,
+    "lng": 12.68904
+  },
+  {
+    "name": "Genzano di Lucania",
+    "country": "IT",
+    "lat": 40.84589,
+    "lng": 16.03124
+  },
+  {
+    "name": "Genoa",
+    "country": "IT",
+    "lat": 44.40478,
+    "lng": 8.94439
+  },
+  {
+    "name": "Genola",
+    "country": "IT",
+    "lat": 44.59053,
+    "lng": 7.66114
+  },
+  {
+    "name": "Genivolta",
+    "country": "IT",
+    "lat": 45.33257,
+    "lng": 9.87726
+  },
+  {
+    "name": "Genga",
+    "country": "IT",
+    "lat": 43.43032,
+    "lng": 12.93549
+  },
+  {
+    "name": "Genazzano",
+    "country": "IT",
+    "lat": 41.82807,
+    "lng": 12.97196
+  },
+  {
+    "name": "Gemonio",
+    "country": "IT",
+    "lat": 45.87878,
+    "lng": 8.67478
+  },
+  {
+    "name": "Gemona",
+    "country": "IT",
+    "lat": 46.27405,
+    "lng": 13.12237
+  },
+  {
+    "name": "Gemmano",
+    "country": "IT",
+    "lat": 43.90393,
+    "lng": 12.58091
+  },
+  {
+    "name": "Gerenzano",
+    "country": "IT",
+    "lat": 45.63967,
+    "lng": 9.00104
+  },
+  {
+    "name": "Gerre de' Caprioli",
+    "country": "IT",
+    "lat": 45.09042,
+    "lng": 10.05085
+  },
+  {
+    "name": "Gessate",
+    "country": "IT",
+    "lat": 45.54838,
+    "lng": 9.43775
+  },
+  {
+    "name": "Germignaga",
+    "country": "IT",
+    "lat": 45.99128,
+    "lng": 8.72403
+  },
+  {
+    "name": "Germagno",
+    "country": "IT",
+    "lat": 45.89257,
+    "lng": 8.38772
+  },
+  {
+    "name": "Gerbole",
+    "country": "IT",
+    "lat": 45.00115,
+    "lng": 7.5067
+  },
+  {
+    "name": "Genio Civile",
+    "country": "IT",
+    "lat": 41.54807,
+    "lng": 12.69161
+  },
+  {
+    "name": "Gerbido",
+    "country": "IT",
+    "lat": 45.04449,
+    "lng": 7.61408
+  },
+  {
+    "name": "Geromina",
+    "country": "IT",
+    "lat": 45.53645,
+    "lng": 9.5754
+  },
+  {
+    "name": "Gello",
+    "country": "IT",
+    "lat": 43.75402,
+    "lng": 10.42386
+  },
+  {
+    "name": "Gerbole-Zucche",
+    "country": "IT",
+    "lat": 44.98605,
+    "lng": 7.51671
+  },
+  {
+    "name": "Gero",
+    "country": "JP",
+    "lat": 35.8,
+    "lng": 137.23333
+  },
+  {
+    "name": "Geumjeong",
+    "country": "KR",
+    "lat": 34.86348,
+    "lng": 126.74895
+  },
+  {
+    "name": "Geumseong",
+    "country": "KR",
+    "lat": 34.96449,
+    "lng": 127.79025
+  },
+  {
+    "name": "George Town",
+    "country": "KY",
+    "lat": 19.2866,
+    "lng": -81.37436
+  },
+  {
+    "name": "Gelgaudiškis",
+    "country": "LT",
+    "lat": 55.07688,
+    "lng": 22.97699
+  },
+  {
+    "name": "Gevgelija",
+    "country": "MK",
+    "lat": 41.14289,
+    "lng": 22.50108
+  },
+  {
+    "name": "General Zaragoza",
+    "country": "MX",
+    "lat": 23.97319,
+    "lng": -99.77233
+  },
+  {
+    "name": "General Treviño",
+    "country": "MX",
+    "lat": 26.22316,
+    "lng": -99.48503
+  },
+  {
+    "name": "General Bravo",
+    "country": "MX",
+    "lat": 25.79239,
+    "lng": -99.18147
+  },
+  {
+    "name": "General Pascual Fentes",
+    "country": "MX",
+    "lat": 16.43472,
+    "lng": -94.2627
+  },
+  {
+    "name": "General Pedro María Anaya",
+    "country": "MX",
+    "lat": 20.156,
+    "lng": -99.348
+  },
+  {
+    "name": "General Miguel Alemán",
+    "country": "MX",
+    "lat": 18.89346,
+    "lng": -96.79239
+  },
+  {
+    "name": "Genaro Codina",
+    "country": "MX",
+    "lat": 22.48703,
+    "lng": -102.45648
+  },
+  {
+    "name": "General Pánfilo Natera",
+    "country": "MX",
+    "lat": 22.66495,
+    "lng": -102.10981
+  },
+  {
+    "name": "General Enrique Estrada",
+    "country": "MX",
+    "lat": 22.99658,
+    "lng": -102.74281
+  },
+  {
+    "name": "General Lázaro Cárdenas",
+    "country": "MX",
+    "lat": 25.29425,
+    "lng": -103.99782
+  },
+  {
+    "name": "General Francisco Villa",
+    "country": "MX",
+    "lat": 18.74304,
+    "lng": -102.2492
+  },
+  {
+    "name": "General Zuazua",
+    "country": "MX",
+    "lat": 25.89491,
+    "lng": -100.108
+  },
+  {
+    "name": "General Simón Bolívar",
+    "country": "MX",
+    "lat": 24.68771,
+    "lng": -103.22572
+  },
+  {
+    "name": "General Cepeda",
+    "country": "MX",
+    "lat": 25.37767,
+    "lng": -101.47571
+  },
+  {
+    "name": "General Calixto Contreras",
+    "country": "MX",
+    "lat": 24.42957,
+    "lng": -104.04575
+  },
+  {
+    "name": "General Andrés Figueroa",
+    "country": "MX",
+    "lat": 20.3,
+    "lng": -103.60728
+  },
+  {
+    "name": "General Lázaro Cárdenas",
+    "country": "MX",
+    "lat": 20.56192,
+    "lng": -100.24492
+  },
+  {
+    "name": "General Juan José Ríos",
+    "country": "MX",
+    "lat": 24.32639,
+    "lng": -103.40568
+  },
+  {
+    "name": "General Ignacio Zaragoza",
+    "country": "MX",
+    "lat": 21.88136,
+    "lng": -102.46454
+  },
+  {
+    "name": "General Ángel Flores (La Palma)",
+    "country": "MX",
+    "lat": 24.81917,
+    "lng": -107.65667
+  },
+  {
+    "name": "General Lázaro Cárdenas (El Colorado)",
+    "country": "MX",
+    "lat": 20.56389,
+    "lng": -100.24389
+  },
+  {
+    "name": "General Felipe Ángeles (Los Ángeles)",
+    "country": "MX",
+    "lat": 19.8975,
+    "lng": -98.92611
+  },
+  {
+    "name": "Genaro Estrada",
+    "country": "MX",
+    "lat": 25.93611,
+    "lng": -108.39639
+  },
+  {
+    "name": "Geovillas Laureles del Campanario",
+    "country": "MX",
+    "lat": 21.33056,
+    "lng": -101.92361
+  },
+  {
+    "name": "General Juan José Baz (San José del Corral)",
+    "country": "MX",
+    "lat": 18.82167,
+    "lng": -96.81806
+  },
+  {
+    "name": "General Lauro G. Caloca (El Rascón)",
+    "country": "MX",
+    "lat": 22.37806,
+    "lng": -102.0575
+  },
+  {
+    "name": "General Alatriste (San Joaquín)",
+    "country": "MX",
+    "lat": 18.84028,
+    "lng": -96.79361
+  },
+  {
+    "name": "General Luis Felipe Domínguez Suárez",
+    "country": "MX",
+    "lat": 17.65639,
+    "lng": -91.53667
+  },
+  {
+    "name": "Gelang Patah",
+    "country": "MY",
+    "lat": 1.4484,
+    "lng": 103.5873
+  },
+  {
+    "name": "Gerisek",
+    "country": "MY",
+    "lat": 2.2097,
+    "lng": 102.7095
+  },
+  {
+    "name": "Gedangsa",
+    "country": "MY",
+    "lat": 3.73333,
+    "lng": 101.4
+  },
+  {
+    "name": "Gerik",
+    "country": "MY",
+    "lat": 5.41667,
+    "lng": 101.13333
+  },
+  {
+    "name": "Gemencheh",
+    "country": "MY",
+    "lat": 2.5331,
+    "lng": 102.3989
+  },
+  {
+    "name": "Gemas",
+    "country": "MY",
+    "lat": 2.5832,
+    "lng": 102.6117
+  },
+  {
+    "name": "George Town",
+    "country": "MY",
+    "lat": 5.41123,
+    "lng": 100.33543
+  },
+  {
+    "name": "Gelung Pepuyu",
+    "country": "MY",
+    "lat": 4.36792,
+    "lng": 100.8201
+  },
+  {
+    "name": "Gezawa",
+    "country": "NG",
+    "lat": 12.10157,
+    "lng": 8.75029
+  },
+  {
+    "name": "Gembu",
+    "country": "NG",
+    "lat": 6.72556,
+    "lng": 11.25652
+  },
+  {
+    "name": "Gella",
+    "country": "NG",
+    "lat": 10.15738,
+    "lng": 13.30004
+  },
+  {
+    "name": "Geidam",
+    "country": "NG",
+    "lat": 12.89439,
+    "lng": 11.92649
+  },
+  {
+    "name": "Gerwen",
+    "country": "NL",
+    "lat": 51.49,
+    "lng": 5.5625
+  },
+  {
+    "name": "Genoenhuis",
+    "country": "NL",
+    "lat": 51.40917,
+    "lng": 5.53889
+  },
+  {
+    "name": "Gennep",
+    "country": "NL",
+    "lat": 51.69833,
+    "lng": 5.97361
+  },
+  {
+    "name": "Genemuiden",
+    "country": "NL",
+    "lat": 52.62333,
+    "lng": 6.04028
+  },
+  {
+    "name": "Gendt",
+    "country": "NL",
+    "lat": 51.8775,
+    "lng": 5.97083
+  },
+  {
+    "name": "Gendringen",
+    "country": "NL",
+    "lat": 51.87333,
+    "lng": 6.37639
+  },
+  {
+    "name": "Genderen",
+    "country": "NL",
+    "lat": 51.73583,
+    "lng": 5.0875
+  },
+  {
+    "name": "Gemonde",
+    "country": "NL",
+    "lat": 51.61833,
+    "lng": 5.35694
+  },
+  {
+    "name": "Gemert",
+    "country": "NL",
+    "lat": 51.55583,
+    "lng": 5.69028
+  },
+  {
+    "name": "Geleen",
+    "country": "NL",
+    "lat": 50.97417,
+    "lng": 5.82917
+  },
+  {
+    "name": "Geldrop",
+    "country": "NL",
+    "lat": 51.42167,
+    "lng": 5.55972
+  },
+  {
+    "name": "Geldermalsen-West",
+    "country": "NL",
+    "lat": 51.87968,
+    "lng": 5.28015
+  },
+  {
+    "name": "Geldermalsen",
+    "country": "NL",
+    "lat": 51.88083,
+    "lng": 5.28889
+  },
+  {
+    "name": "Geitenkamp",
+    "country": "NL",
+    "lat": 52.00379,
+    "lng": 5.93862
+  },
+  {
+    "name": "Geffen",
+    "country": "NL",
+    "lat": 51.74,
+    "lng": 5.46389
+  },
+  {
+    "name": "Geertruidenberg",
+    "country": "NL",
+    "lat": 51.70167,
+    "lng": 4.85694
+  },
+  {
+    "name": "Geenhoven",
+    "country": "NL",
+    "lat": 51.35935,
+    "lng": 5.46021
+  },
+  {
+    "name": "Geilo",
+    "country": "NO",
+    "lat": 60.53369,
+    "lng": 8.20539
+  },
+  {
+    "name": "Georgetown",
+    "country": "NZ",
+    "lat": -46.41842,
+    "lng": 168.36009
+  },
+  {
+    "name": "Geraldine",
+    "country": "NZ",
+    "lat": -44.09061,
+    "lng": 171.24458
+  },
+  {
+    "name": "Genaro Herrera",
+    "country": "PE",
+    "lat": -4.90741,
+    "lng": -73.66779
+  },
+  {
+    "name": "Getulio",
+    "country": "PH",
+    "lat": 10.747,
+    "lng": 122.666
+  },
+  {
+    "name": "Gerona",
+    "country": "PH",
+    "lat": 15.6065,
+    "lng": 120.5978
+  },
+  {
+    "name": "General Trias",
+    "country": "PH",
+    "lat": 14.38694,
+    "lng": 120.88167
+  },
+  {
+    "name": "General Tinio",
+    "country": "PH",
+    "lat": 15.35075,
+    "lng": 121.04773
+  },
+  {
+    "name": "General Santos",
+    "country": "PH",
+    "lat": 6.11278,
+    "lng": 125.17167
+  },
+  {
+    "name": "General Nakar",
+    "country": "PH",
+    "lat": 14.76365,
+    "lng": 121.63559
+  },
+  {
+    "name": "General Mamerto Natividad",
+    "country": "PH",
+    "lat": 15.6025,
+    "lng": 121.0515
+  },
+  {
+    "name": "General MacArthur",
+    "country": "PH",
+    "lat": 11.24639,
+    "lng": 125.53944
+  },
+  {
+    "name": "General Luna",
+    "country": "PH",
+    "lat": 15.7306,
+    "lng": 121.1791
+  },
+  {
+    "name": "General Luna",
+    "country": "PH",
+    "lat": 13.6866,
+    "lng": 122.1709
+  },
+  {
+    "name": "General Luna",
+    "country": "PH",
+    "lat": 9.78375,
+    "lng": 126.15657
+  },
+  {
+    "name": "General Emilio Aguinaldo",
+    "country": "PH",
+    "lat": 14.18417,
+    "lng": 120.79583
+  },
+  {
+    "name": "General Salipada K. Pendatun",
+    "country": "PH",
+    "lat": 6.82626,
+    "lng": 124.72171
+  },
+  {
+    "name": "Geva Binyamin",
+    "country": "PS",
+    "lat": 31.85031,
+    "lng": 35.27405
+  },
+  {
+    "name": "Gemunde",
+    "country": "PT",
+    "lat": 41.26766,
+    "lng": -8.64515
+  },
+  {
+    "name": "General José Eduvigis Díaz",
+    "country": "PY",
+    "lat": -27.20153,
+    "lng": -58.3691
+  },
+  {
+    "name": "General Higinio Morínigo",
+    "country": "PY",
+    "lat": -25.95,
+    "lng": -55.91667
+  },
+  {
+    "name": "General Elizardo Aquino",
+    "country": "PY",
+    "lat": -24.44548,
+    "lng": -56.89942
+  },
+  {
+    "name": "General José María Delgado",
+    "country": "PY",
+    "lat": -27.09046,
+    "lng": -56.52474
+  },
+  {
+    "name": "General Artigas",
+    "country": "PY",
+    "lat": -26.93461,
+    "lng": -56.22214
+  },
+  {
+    "name": "General Eugenio A. Garay",
+    "country": "PY",
+    "lat": -20.51667,
+    "lng": -62.13333
+  },
+  {
+    "name": "General Berthelot",
+    "country": "RO",
+    "lat": 45.61667,
+    "lng": 22.88333
+  },
+  {
+    "name": "Gepiu",
+    "country": "RO",
+    "lat": 46.93034,
+    "lng": 21.79016
+  },
+  {
+    "name": "George Enescu",
+    "country": "RO",
+    "lat": 48.03333,
+    "lng": 26.48333
+  },
+  {
+    "name": "Geoagiu",
+    "country": "RO",
+    "lat": 45.91667,
+    "lng": 23.2
+  },
+  {
+    "name": "Gemeni",
+    "country": "RO",
+    "lat": 44.17265,
+    "lng": 23.08251
+  },
+  {
+    "name": "Gemenele",
+    "country": "RO",
+    "lat": 45.28333,
+    "lng": 27.61667
+  },
+  {
+    "name": "Gemenea Brătulești",
+    "country": "RO",
+    "lat": 45.10839,
+    "lng": 25.23155
+  },
+  {
+    "name": "Gelu",
+    "country": "RO",
+    "lat": 46.00591,
+    "lng": 21.06002
+  },
+  {
+    "name": "Geamăna",
+    "country": "RO",
+    "lat": 44.82005,
+    "lng": 24.89109
+  },
+  {
+    "name": "Geaca",
+    "country": "RO",
+    "lat": 46.86667,
+    "lng": 24.1
+  },
+  {
+    "name": "Gereykhanovskoye",
+    "country": "RU",
+    "lat": 41.7011,
+    "lng": 48.28113
+  },
+  {
+    "name": "Gerzel’-Aul",
+    "country": "RU",
+    "lat": 43.24728,
+    "lng": 46.40249
+  },
+  {
+    "name": "Gerpegezh",
+    "country": "RU",
+    "lat": 43.37369,
+    "lng": 43.65235
+  },
+  {
+    "name": "Germenchuk",
+    "country": "RU",
+    "lat": 43.1857,
+    "lng": 45.921
+  },
+  {
+    "name": "Germenchik",
+    "country": "RU",
+    "lat": 43.59389,
+    "lng": 43.76611
+  },
+  {
+    "name": "Gergebil’",
+    "country": "RU",
+    "lat": 42.50472,
+    "lng": 47.06611
+  },
+  {
+    "name": "Georgiyevskoye",
+    "country": "RU",
+    "lat": 58.73187,
+    "lng": 45.02554
+  },
+  {
+    "name": "Georgiyevskaya",
+    "country": "RU",
+    "lat": 44.11139,
+    "lng": 43.49222
+  },
+  {
+    "name": "Georgiyevsk",
+    "country": "RU",
+    "lat": 44.1494,
+    "lng": 43.47019
+  },
+  {
+    "name": "Georgiyevka",
+    "country": "RU",
+    "lat": 53.27438,
+    "lng": 50.99848
+  },
+  {
+    "name": "Gelendzhik",
+    "country": "RU",
+    "lat": 44.58014,
+    "lng": 38.06646
+  },
+  {
+    "name": "Gekhi",
+    "country": "RU",
+    "lat": 43.16354,
+    "lng": 45.47238
+  },
+  {
+    "name": "Gedzhukh",
+    "country": "RU",
+    "lat": 42.12786,
+    "lng": 48.06474
+  },
+  {
+    "name": "Gerga",
+    "country": "RU",
+    "lat": 42.34645,
+    "lng": 47.96333
+  },
+  {
+    "name": "Gebeit",
+    "country": "SD",
+    "lat": 21.06667,
+    "lng": 36.31667
+  },
+  {
+    "name": "Geneina",
+    "country": "SD",
+    "lat": 13.45262,
+    "lng": 22.44725
+  },
+  {
+    "name": "Gereida",
+    "country": "SD",
+    "lat": 11.27543,
+    "lng": 25.14026
+  },
+  {
+    "name": "Getinge",
+    "country": "SE",
+    "lat": 56.81667,
+    "lng": 12.73333
+  },
+  {
+    "name": "Genarp",
+    "country": "SE",
+    "lat": 55.59907,
+    "lng": 13.3982
+  },
+  {
+    "name": "Gemla",
+    "country": "SE",
+    "lat": 56.86753,
+    "lng": 14.64379
+  },
+  {
+    "name": "Geylang",
+    "country": "SG",
+    "lat": 1.31953,
+    "lng": 103.88689
+  },
+  {
+    "name": "Georgetown",
+    "country": "SH",
+    "lat": -7.92861,
+    "lng": -14.41194
+  },
+  {
+    "name": "Gerlachov",
+    "country": "SK",
+    "lat": 49.31963,
+    "lng": 21.11582
+  },
+  {
+    "name": "Gelnica",
+    "country": "SK",
+    "lat": 48.85584,
+    "lng": 20.93713
+  },
+  {
+    "name": "Gebiley",
+    "country": "SO",
+    "lat": 9.70028,
+    "lng": 43.62444
+  },
+  {
+    "name": "Gedik",
+    "country": "TR",
+    "lat": 36.91548,
+    "lng": 31.08494
+  },
+  {
+    "name": "Geyikpınar",
+    "country": "TR",
+    "lat": 38.31759,
+    "lng": 41.82065
+  },
+  {
+    "name": "Geyikli",
+    "country": "TR",
+    "lat": 39.80472,
+    "lng": 26.2075
+  },
+  {
+    "name": "Gevaş",
+    "country": "TR",
+    "lat": 38.2921,
+    "lng": 43.10189
+  },
+  {
+    "name": "Gesi",
+    "country": "TR",
+    "lat": 38.7918,
+    "lng": 35.65923
+  },
+  {
+    "name": "Germencik",
+    "country": "TR",
+    "lat": 37.87056,
+    "lng": 27.60283
+  },
+  {
+    "name": "Geriş",
+    "country": "TR",
+    "lat": 36.96213,
+    "lng": 31.73409
+  },
+  {
+    "name": "Gerali",
+    "country": "TR",
+    "lat": 37.90096,
+    "lng": 28.91219
+  },
+  {
+    "name": "Gerdibi",
+    "country": "TR",
+    "lat": 37.51111,
+    "lng": 35.15528
+  },
+  {
+    "name": "Gercüş",
+    "country": "TR",
+    "lat": 37.56249,
+    "lng": 41.37753
+  },
+  {
+    "name": "Gercebahşiş",
+    "country": "TR",
+    "lat": 36.14842,
+    "lng": 32.88184
+  },
+  {
+    "name": "Gencek",
+    "country": "TR",
+    "lat": 37.44984,
+    "lng": 31.54588
+  },
+  {
+    "name": "Genç",
+    "country": "TR",
+    "lat": 38.74773,
+    "lng": 40.55343
+  },
+  {
+    "name": "Gemerek",
+    "country": "TR",
+    "lat": 39.18342,
+    "lng": 36.07189
+  },
+  {
+    "name": "Gelinkaya",
+    "country": "TR",
+    "lat": 37.41732,
+    "lng": 41.2695
+  },
+  {
+    "name": "Gelendost",
+    "country": "TR",
+    "lat": 38.12083,
+    "lng": 31.01528
+  },
+  {
+    "name": "Gelembe",
+    "country": "TR",
+    "lat": 39.17872,
+    "lng": 27.84848
+  },
+  {
+    "name": "Gediz",
+    "country": "TR",
+    "lat": 38.99389,
+    "lng": 29.39131
+  },
+  {
+    "name": "Gedikler",
+    "country": "TR",
+    "lat": 39.08229,
+    "lng": 38.80346
+  },
+  {
+    "name": "Gedikbaşı",
+    "country": "TR",
+    "lat": 39.48939,
+    "lng": 38.24743
+  },
+  {
+    "name": "Geçitli",
+    "country": "TR",
+    "lat": 37.58669,
+    "lng": 43.56163
+  },
+  {
+    "name": "Geçitli",
+    "country": "TR",
+    "lat": 36.95377,
+    "lng": 35.62755
+  },
+  {
+    "name": "Gebiz",
+    "country": "TR",
+    "lat": 37.10417,
+    "lng": 30.93778
+  },
+  {
+    "name": "Gerger",
+    "country": "TR",
+    "lat": 38.02807,
+    "lng": 39.03418
+  },
+  {
+    "name": "Geyve",
+    "country": "TR",
+    "lat": 40.5075,
+    "lng": 30.2925
+  },
+  {
+    "name": "Gerze",
+    "country": "TR",
+    "lat": 41.80361,
+    "lng": 35.20111
+  },
+  {
+    "name": "Gerede",
+    "country": "TR",
+    "lat": 40.80083,
+    "lng": 32.19694
+  },
+  {
+    "name": "Geriş",
+    "country": "TR",
+    "lat": 41.56833,
+    "lng": 32.43568
+  },
+  {
+    "name": "Gemlik",
+    "country": "TR",
+    "lat": 40.43094,
+    "lng": 29.15969
+  },
+  {
+    "name": "Gelibolu",
+    "country": "TR",
+    "lat": 40.40836,
+    "lng": 26.67174
+  },
+  {
+    "name": "Gediksaray",
+    "country": "TR",
+    "lat": 40.44529,
+    "lng": 35.62627
+  },
+  {
+    "name": "Gebze",
+    "country": "TR",
+    "lat": 40.80276,
+    "lng": 29.43068
+  },
+  {
+    "name": "Gerenkova",
+    "country": "TR",
+    "lat": 37.85282,
+    "lng": 27.74242
+  },
+  {
+    "name": "Geita",
+    "country": "TZ",
+    "lat": -2.8725,
+    "lng": 32.2325
+  },
+  {
+    "name": "Geiro",
+    "country": "TZ",
+    "lat": -6.15,
+    "lng": 36.86667
+  },
+  {
+    "name": "Geroyskoye",
+    "country": "UA",
+    "lat": 45.13857,
+    "lng": 33.74675
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 31.03296,
+    "lng": -85.86382
+  },
+  {
+    "name": "Georgiana",
+    "country": "US",
+    "lat": 31.6371,
+    "lng": -86.74192
+  },
+  {
+    "name": "Gentry",
+    "country": "US",
+    "lat": 36.26758,
+    "lng": -94.48466
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 38.90483,
+    "lng": -77.06248
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 38.69011,
+    "lng": -75.38547
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 28.73972,
+    "lng": -81.11506
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 31.98326,
+    "lng": -81.22733
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 31.88461,
+    "lng": -85.10743
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 39.97531,
+    "lng": -87.63585
+  },
+  {
+    "name": "Germantown",
+    "country": "US",
+    "lat": 38.55366,
+    "lng": -89.53842
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 39.39172,
+    "lng": -85.71998
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 38.29451,
+    "lng": -85.97552
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 38.2098,
+    "lng": -84.55883
+  },
+  {
+    "name": "Germantown",
+    "country": "US",
+    "lat": 39.17316,
+    "lng": -77.27165
+  },
+  {
+    "name": "Gerald",
+    "country": "US",
+    "lat": 38.39977,
+    "lng": -91.33071
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 39.66201,
+    "lng": -82.43349
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 38.86451,
+    "lng": -83.90409
+  },
+  {
+    "name": "Germantown",
+    "country": "US",
+    "lat": 39.62617,
+    "lng": -84.36939
+  },
+  {
+    "name": "Geary",
+    "country": "US",
+    "lat": 35.63116,
+    "lng": -98.31729
+  },
+  {
+    "name": "Geronimo",
+    "country": "US",
+    "lat": 34.48119,
+    "lng": -98.38311
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 39.9376,
+    "lng": -76.08329
+  },
+  {
+    "name": "Gettysburg",
+    "country": "US",
+    "lat": 39.83093,
+    "lng": -77.2311
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 33.37683,
+    "lng": -79.2945
+  },
+  {
+    "name": "Germantown",
+    "country": "US",
+    "lat": 35.08676,
+    "lng": -89.81009
+  },
+  {
+    "name": "George West",
+    "country": "US",
+    "lat": 28.3325,
+    "lng": -98.11751
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 30.63269,
+    "lng": -97.67723
+  },
+  {
+    "name": "Geronimo",
+    "country": "US",
+    "lat": 29.663,
+    "lng": -97.96695
+  },
+  {
+    "name": "Genoa",
+    "country": "US",
+    "lat": 41.51811,
+    "lng": -83.35909
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 41.25565,
+    "lng": -73.43484
+  },
+  {
+    "name": "George",
+    "country": "US",
+    "lat": 43.34386,
+    "lng": -96.00224
+  },
+  {
+    "name": "Geneseo",
+    "country": "US",
+    "lat": 41.44809,
+    "lng": -90.15428
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 41.88753,
+    "lng": -88.30535
+  },
+  {
+    "name": "Genoa",
+    "country": "US",
+    "lat": 42.09725,
+    "lng": -88.69287
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 42.13975,
+    "lng": -89.82873
+  },
+  {
+    "name": "Germantown Hills",
+    "country": "US",
+    "lat": 40.76643,
+    "lng": -89.46787
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 40.59199,
+    "lng": -84.95719
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 40.7406,
+    "lng": -86.50473
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 41.72949,
+    "lng": -86.22834
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 40.52695,
+    "lng": -97.59588
+  },
+  {
+    "name": "Geneseo",
+    "country": "US",
+    "lat": 42.7959,
+    "lng": -77.81695
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 42.86896,
+    "lng": -76.97774
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 41.80505,
+    "lng": -80.94815
+  },
+  {
+    "name": "Geneva-on-the-Lake",
+    "country": "US",
+    "lat": 41.8595,
+    "lng": -80.95398
+  },
+  {
+    "name": "Genoa",
+    "country": "US",
+    "lat": 40.78284,
+    "lng": -81.46651
+  },
+  {
+    "name": "Geistown",
+    "country": "US",
+    "lat": 40.29091,
+    "lng": -78.86891
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 41.2273,
+    "lng": -75.86881
+  },
+  {
+    "name": "Germantown",
+    "country": "US",
+    "lat": 40.04344,
+    "lng": -75.18018
+  },
+  {
+    "name": "Gettysburg",
+    "country": "US",
+    "lat": 45.01165,
+    "lng": -99.95567
+  },
+  {
+    "name": "Genoa City",
+    "country": "US",
+    "lat": 42.49835,
+    "lng": -88.32815
+  },
+  {
+    "name": "Germantown",
+    "country": "US",
+    "lat": 43.22862,
+    "lng": -88.11037
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 38.90684,
+    "lng": -120.83855
+  },
+  {
+    "name": "Genesee",
+    "country": "US",
+    "lat": 39.68582,
+    "lng": -105.27277
+  },
+  {
+    "name": "Georgetown",
+    "country": "US",
+    "lat": 39.7061,
+    "lng": -105.6975
+  },
+  {
+    "name": "Genola",
+    "country": "US",
+    "lat": 39.99634,
+    "lng": -111.84327
+  },
+  {
+    "name": "Gerber",
+    "country": "US",
+    "lat": 40.05627,
+    "lng": -122.15027
+  },
+  {
+    "name": "Gering",
+    "country": "US",
+    "lat": 41.8258,
+    "lng": -103.6605
+  },
+  {
+    "name": "Gearhart",
+    "country": "US",
+    "lat": 46.02427,
+    "lng": -123.91125
+  },
+  {
+    "name": "Gervais",
+    "country": "US",
+    "lat": 45.10818,
+    "lng": -122.8976
+  },
+  {
+    "name": "Geneva",
+    "country": "US",
+    "lat": 48.74567,
+    "lng": -122.40183
+  },
+  {
+    "name": "Georgia Avenue / Walter Reed",
+    "country": "US",
+    "lat": 38.98256,
+    "lng": -77.0263
+  },
+  {
+    "name": "General Enrique Martínez",
+    "country": "UY",
+    "lat": -33.20388,
+    "lng": -53.80524
+  },
+  {
+    "name": "Georgetown",
+    "country": "VC",
+    "lat": 13.28054,
+    "lng": -61.1185
+  },
+  {
+    "name": "Geysdorp",
+    "country": "ZA",
+    "lat": -26.537,
+    "lng": 25.30251
+  },
+  {
+    "name": "Germiston",
+    "country": "ZA",
+    "lat": -26.23481,
+    "lng": 28.17665
+  },
+  {
+    "name": "George",
+    "country": "ZA",
+    "lat": -33.963,
+    "lng": 22.46173
+  },
+  {
+    "name": "Genadendal",
+    "country": "ZA",
+    "lat": -34.03779,
+    "lng": 19.56224
+  },
+  {
+    "name": "Gemsbokspruit",
+    "country": "ZA",
+    "lat": -25.40339,
+    "lng": 28.87862
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Hjortshøj",
+    "country": "DK",
+    "lat": 56.24811,
+    "lng": 10.26533
+  },
+  {
+    "name": "Hjordkær",
+    "country": "DK",
+    "lat": 55.02658,
+    "lng": 9.30509
+  },
+  {
+    "name": "Hjørring",
+    "country": "DK",
+    "lat": 57.46417,
+    "lng": 9.98229
+  },
+  {
+    "name": "Hjallerup",
+    "country": "DK",
+    "lat": 57.16466,
+    "lng": 10.14571
+  },
+  {
+    "name": "Hjelset",
+    "country": "NO",
+    "lat": 62.7805,
+    "lng": 7.49277
+  },
+  {
+    "name": "Hjelmelandsvågen",
+    "country": "NO",
+    "lat": 59.23692,
+    "lng": 6.17907
+  },
+  {
+    "name": "Hjärup",
+    "country": "SE",
+    "lat": 55.6688,
+    "lng": 13.13931
+  },
+  {
+    "name": "Hjuvik",
+    "country": "SE",
+    "lat": 57.70167,
+    "lng": 11.71639
+  },
+  {
+    "name": "Hjo",
+    "country": "SE",
+    "lat": 58.30133,
+    "lng": 14.28784
+  },
+  {
+    "name": "Hjärnarp",
+    "country": "SE",
+    "lat": 56.31667,
+    "lng": 12.91667
+  }
+]

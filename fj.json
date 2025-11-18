@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Fjerritslev",
+    "country": "DK",
+    "lat": 57.08822,
+    "lng": 9.26622
+  },
+  {
+    "name": "Fjellfoten",
+    "country": "NO",
+    "lat": 60.08967,
+    "lng": 11.47222
+  },
+  {
+    "name": "Fjerdingby",
+    "country": "NO",
+    "lat": 59.92626,
+    "lng": 11.06527
+  },
+  {
+    "name": "Fjugesta",
+    "country": "SE",
+    "lat": 59.17375,
+    "lng": 14.87227
+  },
+  {
+    "name": "Fjärås kyrkby",
+    "country": "SE",
+    "lat": 57.45913,
+    "lng": 12.17508
+  },
+  {
+    "name": "Fjälkinge",
+    "country": "SE",
+    "lat": 56.04364,
+    "lng": 14.27562
+  }
+]

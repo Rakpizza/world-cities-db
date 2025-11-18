@@ -1,0 +1,6098 @@
+[
+  {
+    "name": "Guz̄arah",
+    "country": "AF",
+    "lat": 34.21223,
+    "lng": 62.21235
+  },
+  {
+    "name": "Gurra e Vogël",
+    "country": "AL",
+    "lat": 41.53611,
+    "lng": 19.99083
+  },
+  {
+    "name": "Guri i Zi",
+    "country": "AL",
+    "lat": 42.045,
+    "lng": 19.57472
+  },
+  {
+    "name": "Gugark",
+    "country": "AM",
+    "lat": 40.8046,
+    "lng": 44.54025
+  },
+  {
+    "name": "Guaraní",
+    "country": "AR",
+    "lat": -27.52323,
+    "lng": -55.16077
+  },
+  {
+    "name": "Gualeguaychú",
+    "country": "AR",
+    "lat": -33.00777,
+    "lng": -58.51836
+  },
+  {
+    "name": "Gualeguay",
+    "country": "AR",
+    "lat": -33.14091,
+    "lng": -59.31257
+  },
+  {
+    "name": "Guernica",
+    "country": "AR",
+    "lat": -34.9162,
+    "lng": -58.38111
+  },
+  {
+    "name": "Guatraché",
+    "country": "AR",
+    "lat": -37.67073,
+    "lng": -63.53576
+  },
+  {
+    "name": "Guatimozín",
+    "country": "AR",
+    "lat": -33.46371,
+    "lng": -62.43822
+  },
+  {
+    "name": "Guaminí",
+    "country": "AR",
+    "lat": -37.01381,
+    "lng": -62.41858
+  },
+  {
+    "name": "Guachipas",
+    "country": "AR",
+    "lat": -25.52247,
+    "lng": -65.50932
+  },
+  {
+    "name": "Guttaring",
+    "country": "AT",
+    "lat": 46.88536,
+    "lng": 14.51071
+  },
+  {
+    "name": "Gutenstein",
+    "country": "AT",
+    "lat": 47.876,
+    "lng": 15.88881
+  },
+  {
+    "name": "Gutenbrunn",
+    "country": "AT",
+    "lat": 48.3652,
+    "lng": 15.11899
+  },
+  {
+    "name": "Gutau",
+    "country": "AT",
+    "lat": 48.41724,
+    "lng": 14.61285
+  },
+  {
+    "name": "Gurk",
+    "country": "AT",
+    "lat": 46.87389,
+    "lng": 14.29167
+  },
+  {
+    "name": "Guntramsdorf",
+    "country": "AT",
+    "lat": 48.04687,
+    "lng": 16.31384
+  },
+  {
+    "name": "Guntersdorf",
+    "country": "AT",
+    "lat": 48.65,
+    "lng": 16.05
+  },
+  {
+    "name": "Gunskirchen",
+    "country": "AT",
+    "lat": 48.13333,
+    "lng": 13.95
+  },
+  {
+    "name": "Gundersdorf",
+    "country": "AT",
+    "lat": 46.95,
+    "lng": 15.23333
+  },
+  {
+    "name": "Gumpoldskirchen",
+    "country": "AT",
+    "lat": 48.04538,
+    "lng": 16.2771
+  },
+  {
+    "name": "Gugging",
+    "country": "AT",
+    "lat": 48.31385,
+    "lng": 16.24852
+  },
+  {
+    "name": "Guildford",
+    "country": "AU",
+    "lat": -31.9,
+    "lng": 115.96667
+  },
+  {
+    "name": "Guyra",
+    "country": "AU",
+    "lat": -30.2168,
+    "lng": 151.66785
+  },
+  {
+    "name": "Gunnedah",
+    "country": "AU",
+    "lat": -30.98065,
+    "lng": 150.25838
+  },
+  {
+    "name": "Gundaroo",
+    "country": "AU",
+    "lat": -35.03333,
+    "lng": 149.25
+  },
+  {
+    "name": "Gundagai",
+    "country": "AU",
+    "lat": -35.06352,
+    "lng": 148.10365
+  },
+  {
+    "name": "Gulgong",
+    "country": "AU",
+    "lat": -32.36253,
+    "lng": 149.53201
+  },
+  {
+    "name": "Gulmarrad",
+    "country": "AU",
+    "lat": -29.487,
+    "lng": 153.23341
+  },
+  {
+    "name": "Gunbalanya",
+    "country": "AU",
+    "lat": -12.32474,
+    "lng": 133.05087
+  },
+  {
+    "name": "Gunn",
+    "country": "AU",
+    "lat": -12.48765,
+    "lng": 130.99322
+  },
+  {
+    "name": "Gulliver",
+    "country": "AU",
+    "lat": -19.28814,
+    "lng": 146.77691
+  },
+  {
+    "name": "Gulfview Heights",
+    "country": "AU",
+    "lat": -34.79545,
+    "lng": 138.66937
+  },
+  {
+    "name": "Gungahlin",
+    "country": "AU",
+    "lat": -35.18674,
+    "lng": 149.13619
+  },
+  {
+    "name": "Gumdale",
+    "country": "AU",
+    "lat": -27.49188,
+    "lng": 153.15315
+  },
+  {
+    "name": "Guildford West",
+    "country": "AU",
+    "lat": -33.84939,
+    "lng": 150.96475
+  },
+  {
+    "name": "Gullegem",
+    "country": "BE",
+    "lat": 50.84301,
+    "lng": 3.20466
+  },
+  {
+    "name": "Guigoven",
+    "country": "BE",
+    "lat": 50.83925,
+    "lng": 5.40039
+  },
+  {
+    "name": "Gurkovo",
+    "country": "BG",
+    "lat": 42.66667,
+    "lng": 25.8
+  },
+  {
+    "name": "Gulyantsi",
+    "country": "BG",
+    "lat": 43.64109,
+    "lng": 24.69368
+  },
+  {
+    "name": "Guilmaro",
+    "country": "BJ",
+    "lat": 10.56583,
+    "lng": 1.72444
+  },
+  {
+    "name": "Gustavia",
+    "country": "BL",
+    "lat": 17.89618,
+    "lng": -62.84978
+  },
+  {
+    "name": "Guayaramerín",
+    "country": "BO",
+    "lat": -10.8258,
+    "lng": -65.3581
+  },
+  {
+    "name": "Guanay",
+    "country": "BO",
+    "lat": -15.49756,
+    "lng": -67.88332
+  },
+  {
+    "name": "Gurupá",
+    "country": "BR",
+    "lat": -1.405,
+    "lng": -51.64
+  },
+  {
+    "name": "Gurjão",
+    "country": "BR",
+    "lat": -7.24852,
+    "lng": -36.49358
+  },
+  {
+    "name": "Gurinhém",
+    "country": "BR",
+    "lat": -7.12389,
+    "lng": -35.42444
+  },
+  {
+    "name": "Guimarães",
+    "country": "BR",
+    "lat": -2.13306,
+    "lng": -44.60111
+  },
+  {
+    "name": "Guaribas",
+    "country": "BR",
+    "lat": -9.39547,
+    "lng": -43.69293
+  },
+  {
+    "name": "Guaramiranga",
+    "country": "BR",
+    "lat": -4.26333,
+    "lng": -38.93306
+  },
+  {
+    "name": "Guaraciaba do Norte",
+    "country": "BR",
+    "lat": -4.16694,
+    "lng": -40.7475
+  },
+  {
+    "name": "Guarabira",
+    "country": "BR",
+    "lat": -6.85472,
+    "lng": -35.49
+  },
+  {
+    "name": "Guaraí",
+    "country": "BR",
+    "lat": -8.83417,
+    "lng": -48.51028
+  },
+  {
+    "name": "Guamaré",
+    "country": "BR",
+    "lat": -5.1075,
+    "lng": -36.32028
+  },
+  {
+    "name": "Guajará",
+    "country": "BR",
+    "lat": -2.96667,
+    "lng": -57.66667
+  },
+  {
+    "name": "Guaiúba",
+    "country": "BR",
+    "lat": -4.03972,
+    "lng": -38.63722
+  },
+  {
+    "name": "Guadalupe",
+    "country": "BR",
+    "lat": -6.79092,
+    "lng": -43.57064
+  },
+  {
+    "name": "Guzolândia",
+    "country": "BR",
+    "lat": -20.64972,
+    "lng": -50.66194
+  },
+  {
+    "name": "Gurupi",
+    "country": "BR",
+    "lat": -11.72917,
+    "lng": -49.06861
+  },
+  {
+    "name": "Gurinhatã",
+    "country": "BR",
+    "lat": -19.21333,
+    "lng": -49.78639
+  },
+  {
+    "name": "Guiricema",
+    "country": "BR",
+    "lat": -21.00778,
+    "lng": -42.71778
+  },
+  {
+    "name": "Guiratinga",
+    "country": "BR",
+    "lat": -16.34534,
+    "lng": -53.76177
+  },
+  {
+    "name": "Guimarânia",
+    "country": "BR",
+    "lat": -18.84389,
+    "lng": -46.79306
+  },
+  {
+    "name": "Guidoval",
+    "country": "BR",
+    "lat": -21.15194,
+    "lng": -42.79667
+  },
+  {
+    "name": "Guia Lopes da Laguna",
+    "country": "BR",
+    "lat": -21.45778,
+    "lng": -56.11417
+  },
+  {
+    "name": "Guaxupé",
+    "country": "BR",
+    "lat": -21.30528,
+    "lng": -46.71278
+  },
+  {
+    "name": "Guatapará",
+    "country": "BR",
+    "lat": -21.49608,
+    "lng": -48.03491
+  },
+  {
+    "name": "Guatambú",
+    "country": "BR",
+    "lat": -27.13194,
+    "lng": -52.78722
+  },
+  {
+    "name": "Guarulhos",
+    "country": "BR",
+    "lat": -23.46278,
+    "lng": -46.53333
+  },
+  {
+    "name": "Guarujá do Sul",
+    "country": "BR",
+    "lat": -26.38482,
+    "lng": -53.52589
+  },
+  {
+    "name": "Guarujá",
+    "country": "BR",
+    "lat": -23.99306,
+    "lng": -46.25639
+  },
+  {
+    "name": "Guarinos",
+    "country": "BR",
+    "lat": -14.73167,
+    "lng": -49.70167
+  },
+  {
+    "name": "Guariba",
+    "country": "BR",
+    "lat": -21.36,
+    "lng": -48.22833
+  },
+  {
+    "name": "Guareí",
+    "country": "BR",
+    "lat": -23.37278,
+    "lng": -48.18417
+  },
+  {
+    "name": "Guarda-Mor",
+    "country": "BR",
+    "lat": -17.77083,
+    "lng": -47.09833
+  },
+  {
+    "name": "Guaratuba",
+    "country": "BR",
+    "lat": -25.88278,
+    "lng": -48.57472
+  },
+  {
+    "name": "Guaratinguetá",
+    "country": "BR",
+    "lat": -22.81639,
+    "lng": -45.1925
+  },
+  {
+    "name": "Guaratinga",
+    "country": "BR",
+    "lat": -16.58197,
+    "lng": -39.78117
+  },
+  {
+    "name": "Guararema",
+    "country": "BR",
+    "lat": -23.415,
+    "lng": -46.035
+  },
+  {
+    "name": "Guararapes",
+    "country": "BR",
+    "lat": -21.26083,
+    "lng": -50.64278
+  },
+  {
+    "name": "Guarará",
+    "country": "BR",
+    "lat": -21.73194,
+    "lng": -43.0375
+  },
+  {
+    "name": "Guaraqueçaba",
+    "country": "BR",
+    "lat": -25.30667,
+    "lng": -48.32889
+  },
+  {
+    "name": "Guarapuava",
+    "country": "BR",
+    "lat": -25.39048,
+    "lng": -51.46541
+  },
+  {
+    "name": "Guarapari",
+    "country": "BR",
+    "lat": -20.67182,
+    "lng": -40.50196
+  },
+  {
+    "name": "Guarantã",
+    "country": "BR",
+    "lat": -21.895,
+    "lng": -49.58972
+  },
+  {
+    "name": "Guarani d'Oeste",
+    "country": "BR",
+    "lat": -20.07472,
+    "lng": -50.33944
+  },
+  {
+    "name": "Guarani das Missões",
+    "country": "BR",
+    "lat": -28.14083,
+    "lng": -54.55806
+  },
+  {
+    "name": "Guaraniaçu",
+    "country": "BR",
+    "lat": -25.10083,
+    "lng": -52.87806
+  },
+  {
+    "name": "Guarani",
+    "country": "BR",
+    "lat": -21.35222,
+    "lng": -43.04694
+  },
+  {
+    "name": "Guaranésia",
+    "country": "BR",
+    "lat": -21.29917,
+    "lng": -46.8025
+  },
+  {
+    "name": "Guaramirim",
+    "country": "BR",
+    "lat": -26.47306,
+    "lng": -49.00278
+  },
+  {
+    "name": "Guaraciama",
+    "country": "BR",
+    "lat": -17.01389,
+    "lng": -43.67306
+  },
+  {
+    "name": "Guaraciaba",
+    "country": "BR",
+    "lat": -26.59917,
+    "lng": -53.51806
+  },
+  {
+    "name": "Guaraciaba",
+    "country": "BR",
+    "lat": -20.57083,
+    "lng": -43.0075
+  },
+  {
+    "name": "Guaraci",
+    "country": "BR",
+    "lat": -22.97306,
+    "lng": -51.64972
+  },
+  {
+    "name": "Guaraci",
+    "country": "BR",
+    "lat": -20.49861,
+    "lng": -48.94472
+  },
+  {
+    "name": "Guaraçaí",
+    "country": "BR",
+    "lat": -21.02833,
+    "lng": -51.20667
+  },
+  {
+    "name": "Guará",
+    "country": "BR",
+    "lat": -20.42833,
+    "lng": -47.82417
+  },
+  {
+    "name": "Guará",
+    "country": "BR",
+    "lat": -15.80976,
+    "lng": -47.97202
+  },
+  {
+    "name": "Guaporema",
+    "country": "BR",
+    "lat": -23.34306,
+    "lng": -52.77861
+  },
+  {
+    "name": "Guaporé",
+    "country": "BR",
+    "lat": -28.84556,
+    "lng": -51.89028
+  },
+  {
+    "name": "Guapó",
+    "country": "BR",
+    "lat": -16.83056,
+    "lng": -49.53194
+  },
+  {
+    "name": "Guapirama",
+    "country": "BR",
+    "lat": -23.51611,
+    "lng": -50.03972
+  },
+  {
+    "name": "Guapimirim",
+    "country": "BR",
+    "lat": -22.53722,
+    "lng": -42.98194
+  },
+  {
+    "name": "Guapiara",
+    "country": "BR",
+    "lat": -24.185,
+    "lng": -48.53278
+  },
+  {
+    "name": "Guapiaçu",
+    "country": "BR",
+    "lat": -20.795,
+    "lng": -49.22028
+  },
+  {
+    "name": "Guapé",
+    "country": "BR",
+    "lat": -20.76167,
+    "lng": -45.9175
+  },
+  {
+    "name": "Guanhães",
+    "country": "BR",
+    "lat": -18.775,
+    "lng": -42.9325
+  },
+  {
+    "name": "Guanambi",
+    "country": "BR",
+    "lat": -14.22333,
+    "lng": -42.78139
+  },
+  {
+    "name": "Guamiranga",
+    "country": "BR",
+    "lat": -25.19139,
+    "lng": -50.80472
+  },
+  {
+    "name": "Guajeru",
+    "country": "BR",
+    "lat": -14.54722,
+    "lng": -41.94028
+  },
+  {
+    "name": "Guairaçá",
+    "country": "BR",
+    "lat": -22.93444,
+    "lng": -52.68556
+  },
+  {
+    "name": "Guaíra",
+    "country": "BR",
+    "lat": -24.08204,
+    "lng": -54.24622
+  },
+  {
+    "name": "Guaíra",
+    "country": "BR",
+    "lat": -20.31833,
+    "lng": -48.31056
+  },
+  {
+    "name": "Guaimbê",
+    "country": "BR",
+    "lat": -21.91,
+    "lng": -49.89667
+  },
+  {
+    "name": "Guaiçara",
+    "country": "BR",
+    "lat": -21.62194,
+    "lng": -49.79861
+  },
+  {
+    "name": "Guaianases",
+    "country": "BR",
+    "lat": -23.54333,
+    "lng": -46.41083
+  },
+  {
+    "name": "Guaçuí",
+    "country": "BR",
+    "lat": -20.77556,
+    "lng": -41.67944
+  },
+  {
+    "name": "Guabiju",
+    "country": "BR",
+    "lat": -28.54083,
+    "lng": -51.69028
+  },
+  {
+    "name": "Guaíba",
+    "country": "BR",
+    "lat": -30.11389,
+    "lng": -51.325
+  },
+  {
+    "name": "Guajará",
+    "country": "BR",
+    "lat": -7.54583,
+    "lng": -72.58361
+  },
+  {
+    "name": "Guajará Mirim",
+    "country": "BR",
+    "lat": -10.78356,
+    "lng": -65.33552
+  },
+  {
+    "name": "Guabiruba",
+    "country": "BR",
+    "lat": -27.08595,
+    "lng": -48.96765
+  },
+  {
+    "name": "Guaraíta",
+    "country": "BR",
+    "lat": -15.61417,
+    "lng": -50.02389
+  },
+  {
+    "name": "Guarani de Goiás",
+    "country": "BR",
+    "lat": -13.93583,
+    "lng": -46.48028
+  },
+  {
+    "name": "Guarantã do Norte",
+    "country": "BR",
+    "lat": -9.95051,
+    "lng": -54.90822
+  },
+  {
+    "name": "Gumare",
+    "country": "BW",
+    "lat": -19.36917,
+    "lng": 22.16167
+  },
+  {
+    "name": "Guinea Grass",
+    "country": "BZ",
+    "lat": 17.96704,
+    "lng": -88.59837
+  },
+  {
+    "name": "Guelph",
+    "country": "CA",
+    "lat": 43.54594,
+    "lng": -80.25599
+  },
+  {
+    "name": "Guildford",
+    "country": "CA",
+    "lat": 49.19167,
+    "lng": -122.8
+  },
+  {
+    "name": "Guildwood",
+    "country": "CA",
+    "lat": 43.75262,
+    "lng": -79.19486
+  },
+  {
+    "name": "Gunzwil",
+    "country": "CH",
+    "lat": 47.21072,
+    "lng": 8.17932
+  },
+  {
+    "name": "Gunzgen",
+    "country": "CH",
+    "lat": 47.31375,
+    "lng": 7.83102
+  },
+  {
+    "name": "Guggisberg",
+    "country": "CH",
+    "lat": 46.76756,
+    "lng": 7.32946
+  },
+  {
+    "name": "Gutenswil",
+    "country": "CH",
+    "lat": 47.38387,
+    "lng": 8.71763
+  },
+  {
+    "name": "Guiembé",
+    "country": "CI",
+    "lat": 9.23298,
+    "lng": -5.71277
+  },
+  {
+    "name": "Guizreu",
+    "country": "CI",
+    "lat": 7.65907,
+    "lng": -8.14087
+  },
+  {
+    "name": "Guitrozon",
+    "country": "CI",
+    "lat": 6.75012,
+    "lng": -7.3714
+  },
+  {
+    "name": "Guitry",
+    "country": "CI",
+    "lat": 5.51952,
+    "lng": -5.24038
+  },
+  {
+    "name": "Guiré",
+    "country": "CI",
+    "lat": 5.5165,
+    "lng": -6.58983
+  },
+  {
+    "name": "Guinkin",
+    "country": "CI",
+    "lat": 6.5667,
+    "lng": -7.72277
+  },
+  {
+    "name": "Guin Houyé",
+    "country": "CI",
+    "lat": 7.24613,
+    "lng": -8.24044
+  },
+  {
+    "name": "Guinguerini",
+    "country": "CI",
+    "lat": 9.53333,
+    "lng": -6.6
+  },
+  {
+    "name": "Gunglo Zia",
+    "country": "CI",
+    "lat": 6.82062,
+    "lng": -7.24392
+  },
+  {
+    "name": "Guinglo",
+    "country": "CI",
+    "lat": 6.89055,
+    "lng": -7.48794
+  },
+  {
+    "name": "Guingleu",
+    "country": "CI",
+    "lat": 7.03658,
+    "lng": -8.26408
+  },
+  {
+    "name": "Guiméyo",
+    "country": "CI",
+    "lat": 5.83072,
+    "lng": -6.30877
+  },
+  {
+    "name": "Guiguidou",
+    "country": "CI",
+    "lat": 5.77128,
+    "lng": -5.05354
+  },
+  {
+    "name": "Guiglo",
+    "country": "CI",
+    "lat": 6.54368,
+    "lng": -7.4935
+  },
+  {
+    "name": "Guiellé",
+    "country": "CI",
+    "lat": 6.58955,
+    "lng": -8.37482
+  },
+  {
+    "name": "Guibouo",
+    "country": "CI",
+    "lat": 6.51283,
+    "lng": -6.69075
+  },
+  {
+    "name": "Guibobli",
+    "country": "CI",
+    "lat": 6.61108,
+    "lng": -8.21224
+  },
+  {
+    "name": "Guibéroua",
+    "country": "CI",
+    "lat": 6.23869,
+    "lng": -6.17147
+  },
+  {
+    "name": "Guiamapleu",
+    "country": "CI",
+    "lat": 6.65357,
+    "lng": -8.32742
+  },
+  {
+    "name": "Guiaguien",
+    "country": "CI",
+    "lat": 7.16742,
+    "lng": -8.045
+  },
+  {
+    "name": "Guézon",
+    "country": "CI",
+    "lat": 6.74177,
+    "lng": -7.11742
+  },
+  {
+    "name": "Guézon",
+    "country": "CI",
+    "lat": 6.56696,
+    "lng": -7.70203
+  },
+  {
+    "name": "Guézem",
+    "country": "CI",
+    "lat": 6.26489,
+    "lng": -6.19138
+  },
+  {
+    "name": "Guézanénoufla",
+    "country": "CI",
+    "lat": 6.82103,
+    "lng": -5.7775
+  },
+  {
+    "name": "Guéyo",
+    "country": "CI",
+    "lat": 5.6882,
+    "lng": -6.0712
+  },
+  {
+    "name": "Guéyéguhé",
+    "country": "CI",
+    "lat": 6.60505,
+    "lng": -6.85223
+  },
+  {
+    "name": "Guéyédé",
+    "country": "CI",
+    "lat": 6.55356,
+    "lng": -8.54326
+  },
+  {
+    "name": "Guéya",
+    "country": "CI",
+    "lat": 6.55368,
+    "lng": -7.95722
+  },
+  {
+    "name": "Guétuzon II",
+    "country": "CI",
+    "lat": 6.75146,
+    "lng": -6.92283
+  },
+  {
+    "name": "Guéssiguié Un",
+    "country": "CI",
+    "lat": 5.73853,
+    "lng": -4.2355
+  },
+  {
+    "name": "Guessihio",
+    "country": "CI",
+    "lat": 6.10722,
+    "lng": -6.00722
+  },
+  {
+    "name": "Guéssabo",
+    "country": "CI",
+    "lat": 6.73668,
+    "lng": -6.95487
+  },
+  {
+    "name": "Guériafla",
+    "country": "CI",
+    "lat": 7.42289,
+    "lng": -5.82871
+  },
+  {
+    "name": "Guépaouo",
+    "country": "CI",
+    "lat": 6.47268,
+    "lng": -5.70615
+  },
+  {
+    "name": "Guenzou",
+    "country": "CI",
+    "lat": 10.10742,
+    "lng": -7.83834
+  },
+  {
+    "name": "Guenndé",
+    "country": "CI",
+    "lat": 7.8554,
+    "lng": -3.09155
+  },
+  {
+    "name": "Guémou",
+    "country": "CI",
+    "lat": 9.42925,
+    "lng": -6.56007
+  },
+  {
+    "name": "Guéidepleu",
+    "country": "CI",
+    "lat": 6.72561,
+    "lng": -8.23572
+  },
+  {
+    "name": "Guéhouyé",
+    "country": "CI",
+    "lat": 6.80515,
+    "lng": -8.27746
+  },
+  {
+    "name": "Guéhiébli",
+    "country": "CI",
+    "lat": 6.89479,
+    "lng": -7.43139
+  },
+  {
+    "name": "Guedjigbeu I",
+    "country": "CI",
+    "lat": 6.78827,
+    "lng": -6.77324
+  },
+  {
+    "name": "Guéoulé",
+    "country": "CI",
+    "lat": 7.59893,
+    "lng": -7.90071
+  },
+  {
+    "name": "Guintéguéla",
+    "country": "CI",
+    "lat": 8.29044,
+    "lng": -7.30927
+  },
+  {
+    "name": "Guimbo Ndolikro",
+    "country": "CI",
+    "lat": 7.22389,
+    "lng": -4.55944
+  },
+  {
+    "name": "Guiguia",
+    "country": "CI",
+    "lat": 5.97732,
+    "lng": -5.92709
+  },
+  {
+    "name": "Guianlé",
+    "country": "CI",
+    "lat": 7.33822,
+    "lng": -7.59795
+  },
+  {
+    "name": "Guiapleu",
+    "country": "CI",
+    "lat": 7.29437,
+    "lng": -7.67469
+  },
+  {
+    "name": "Guéhou",
+    "country": "CI",
+    "lat": 5.97037,
+    "lng": -5.32193
+  },
+  {
+    "name": "Guéménédou",
+    "country": "CI",
+    "lat": 6.21385,
+    "lng": -6.02202
+  },
+  {
+    "name": "Guimbo",
+    "country": "CI",
+    "lat": 6.89292,
+    "lng": -4.3468
+  },
+  {
+    "name": "Guézon-Gbéan",
+    "country": "CI",
+    "lat": 7.29348,
+    "lng": -7.30629
+  },
+  {
+    "name": "Guinglo-Ville",
+    "country": "CI",
+    "lat": 7.18774,
+    "lng": -7.40883
+  },
+  {
+    "name": "Guékpé",
+    "country": "CI",
+    "lat": 7.20211,
+    "lng": -7.39358
+  },
+  {
+    "name": "Guinglo-Gbéan",
+    "country": "CI",
+    "lat": 7.27103,
+    "lng": -7.32255
+  },
+  {
+    "name": "Guézon-Tahouaké",
+    "country": "CI",
+    "lat": 7.0761,
+    "lng": -7.18719
+  },
+  {
+    "name": "Guédiboua",
+    "country": "CI",
+    "lat": 6.73463,
+    "lng": -6.52825
+  },
+  {
+    "name": "Guienzoukro",
+    "country": "CI",
+    "lat": 7.92246,
+    "lng": -5.49834
+  },
+  {
+    "name": "Guidiguis",
+    "country": "CM",
+    "lat": 10.13366,
+    "lng": 14.70748
+  },
+  {
+    "name": "Guider",
+    "country": "CM",
+    "lat": 9.9333,
+    "lng": 13.94671
+  },
+  {
+    "name": "Guma",
+    "country": "CN",
+    "lat": 37.59929,
+    "lng": 78.27545
+  },
+  {
+    "name": "Gujangbagh",
+    "country": "CN",
+    "lat": 37.10927,
+    "lng": 79.93433
+  },
+  {
+    "name": "Gudong",
+    "country": "CN",
+    "lat": 25.34165,
+    "lng": 98.48297
+  },
+  {
+    "name": "Guandou",
+    "country": "CN",
+    "lat": 31.37829,
+    "lng": 118.39759
+  },
+  {
+    "name": "Gusong",
+    "country": "CN",
+    "lat": 28.3133,
+    "lng": 105.2377
+  },
+  {
+    "name": "Gutian",
+    "country": "CN",
+    "lat": 26.58701,
+    "lng": 118.73581
+  },
+  {
+    "name": "Gulü",
+    "country": "CN",
+    "lat": 32.74389,
+    "lng": 114.97611
+  },
+  {
+    "name": "Guhan",
+    "country": "CN",
+    "lat": 36.53547,
+    "lng": 113.02528
+  },
+  {
+    "name": "Guanghe Chengguanzhen",
+    "country": "CN",
+    "lat": 35.48153,
+    "lng": 103.57604
+  },
+  {
+    "name": "Guwei",
+    "country": "CN",
+    "lat": 34.71034,
+    "lng": 110.6571
+  },
+  {
+    "name": "Guhuai",
+    "country": "CN",
+    "lat": 32.9586,
+    "lng": 114.6255
+  },
+  {
+    "name": "Gutao",
+    "country": "CN",
+    "lat": 37.2025,
+    "lng": 112.17806
+  },
+  {
+    "name": "Guanshan",
+    "country": "CN",
+    "lat": 37.8081,
+    "lng": 113.597
+  },
+  {
+    "name": "Guang’an",
+    "country": "CN",
+    "lat": 30.47413,
+    "lng": 106.63696
+  },
+  {
+    "name": "Guantao",
+    "country": "CN",
+    "lat": 36.5405,
+    "lng": 115.28132
+  },
+  {
+    "name": "Guankou",
+    "country": "CN",
+    "lat": 28.15861,
+    "lng": 113.62709
+  },
+  {
+    "name": "Gujiang",
+    "country": "CN",
+    "lat": 35.49399,
+    "lng": 111.55334
+  },
+  {
+    "name": "Guangyuan",
+    "country": "CN",
+    "lat": 32.44201,
+    "lng": 105.823
+  },
+  {
+    "name": "Guangze",
+    "country": "CN",
+    "lat": 27.54347,
+    "lng": 117.33161
+  },
+  {
+    "name": "Guzhen Chengguanzhen",
+    "country": "CN",
+    "lat": 33.31056,
+    "lng": 117.31056
+  },
+  {
+    "name": "Guyuan",
+    "country": "CN",
+    "lat": 36.00667,
+    "lng": 106.28083
+  },
+  {
+    "name": "Guye",
+    "country": "CN",
+    "lat": 39.74083,
+    "lng": 118.45069
+  },
+  {
+    "name": "Guyang",
+    "country": "CN",
+    "lat": 28.61385,
+    "lng": 109.93253
+  },
+  {
+    "name": "Guxian",
+    "country": "CN",
+    "lat": 36.7341,
+    "lng": 120.22558
+  },
+  {
+    "name": "Guxi",
+    "country": "CN",
+    "lat": 30.33026,
+    "lng": 105.87208
+  },
+  {
+    "name": "Gushi Chengguanzhen",
+    "country": "CN",
+    "lat": 32.16208,
+    "lng": 115.66989
+  },
+  {
+    "name": "Gupi",
+    "country": "CN",
+    "lat": 34.11389,
+    "lng": 117.88278
+  },
+  {
+    "name": "Guozhen",
+    "country": "CN",
+    "lat": 34.36591,
+    "lng": 107.35904
+  },
+  {
+    "name": "Guoyang Chengguanzhen",
+    "country": "CN",
+    "lat": 33.5055,
+    "lng": 116.2308
+  },
+  {
+    "name": "Guofu",
+    "country": "CN",
+    "lat": 28.85,
+    "lng": 106.60139
+  },
+  {
+    "name": "Gunan",
+    "country": "CN",
+    "lat": 29.0231,
+    "lng": 106.648
+  },
+  {
+    "name": "Gulin",
+    "country": "CN",
+    "lat": 28.04223,
+    "lng": 105.81038
+  },
+  {
+    "name": "Guli",
+    "country": "CN",
+    "lat": 28.88162,
+    "lng": 120.03308
+  },
+  {
+    "name": "Gulaobei",
+    "country": "CN",
+    "lat": 30.51941,
+    "lng": 111.42664
+  },
+  {
+    "name": "Gulang",
+    "country": "CN",
+    "lat": 37.46657,
+    "lng": 102.89428
+  },
+  {
+    "name": "Guiyang",
+    "country": "CN",
+    "lat": 26.58333,
+    "lng": 106.71667
+  },
+  {
+    "name": "Guiyang Chengguanzhen",
+    "country": "CN",
+    "lat": 25.73333,
+    "lng": 112.74589
+  },
+  {
+    "name": "Guixi",
+    "country": "CN",
+    "lat": 30.33355,
+    "lng": 107.34545
+  },
+  {
+    "name": "Guishan",
+    "country": "CN",
+    "lat": 24.05027,
+    "lng": 102.00018
+  },
+  {
+    "name": "Guiren",
+    "country": "CN",
+    "lat": 33.66972,
+    "lng": 118.18889
+  },
+  {
+    "name": "Guiping",
+    "country": "CN",
+    "lat": 23.39483,
+    "lng": 110.07434
+  },
+  {
+    "name": "Guilin",
+    "country": "CN",
+    "lat": 25.28022,
+    "lng": 110.29639
+  },
+  {
+    "name": "Guidong Chengguanzhen",
+    "country": "CN",
+    "lat": 26.07903,
+    "lng": 113.94062
+  },
+  {
+    "name": "Guigang",
+    "country": "CN",
+    "lat": 23.11603,
+    "lng": 109.59472
+  },
+  {
+    "name": "Gufeng",
+    "country": "CN",
+    "lat": 26.90833,
+    "lng": 118.98194
+  },
+  {
+    "name": "Gucheng Chengguanzhen",
+    "country": "CN",
+    "lat": 32.26604,
+    "lng": 111.63476
+  },
+  {
+    "name": "Guanzhuang",
+    "country": "CN",
+    "lat": 36.26333,
+    "lng": 119.19389
+  },
+  {
+    "name": "Guanyin",
+    "country": "CN",
+    "lat": 29.09926,
+    "lng": 104.39416
+  },
+  {
+    "name": "Guanyang",
+    "country": "CN",
+    "lat": 31.34219,
+    "lng": 109.90523
+  },
+  {
+    "name": "Guancheng",
+    "country": "CN",
+    "lat": 36.48031,
+    "lng": 115.4351
+  },
+  {
+    "name": "Guantou",
+    "country": "CN",
+    "lat": 26.13593,
+    "lng": 119.56162
+  },
+  {
+    "name": "Guanting",
+    "country": "CN",
+    "lat": 33.81652,
+    "lng": 104.53227
+  },
+  {
+    "name": "Guanhu",
+    "country": "CN",
+    "lat": 34.42528,
+    "lng": 117.99528
+  },
+  {
+    "name": "Guangzong",
+    "country": "CN",
+    "lat": 37.07378,
+    "lng": 115.13927
+  },
+  {
+    "name": "Guangzhou",
+    "country": "CN",
+    "lat": 23.11667,
+    "lng": 113.25
+  },
+  {
+    "name": "Guanyang",
+    "country": "CN",
+    "lat": 25.4916,
+    "lng": 111.15541
+  },
+  {
+    "name": "Guangshun",
+    "country": "CN",
+    "lat": 29.37483,
+    "lng": 105.52653
+  },
+  {
+    "name": "Guangshui",
+    "country": "CN",
+    "lat": 31.6199,
+    "lng": 113.9978
+  },
+  {
+    "name": "Guangrao",
+    "country": "CN",
+    "lat": 37.05286,
+    "lng": 118.3991
+  },
+  {
+    "name": "Guangping",
+    "country": "CN",
+    "lat": 36.47896,
+    "lng": 114.9431
+  },
+  {
+    "name": "Guangming",
+    "country": "CN",
+    "lat": 28.3102,
+    "lng": 102.41189
+  },
+  {
+    "name": "Guandu",
+    "country": "CN",
+    "lat": 30.95589,
+    "lng": 109.84697
+  },
+  {
+    "name": "Guandu",
+    "country": "CN",
+    "lat": 30.08101,
+    "lng": 106.42897
+  },
+  {
+    "name": "Guandu",
+    "country": "CN",
+    "lat": 28.56833,
+    "lng": 106.10255
+  },
+  {
+    "name": "Gu’an",
+    "country": "CN",
+    "lat": 39.43662,
+    "lng": 116.3034
+  },
+  {
+    "name": "Gushu",
+    "country": "CN",
+    "lat": 31.56055,
+    "lng": 118.48147
+  },
+  {
+    "name": "Guanshan",
+    "country": "CN",
+    "lat": 33.79833,
+    "lng": 117.86639
+  },
+  {
+    "name": "Guoliang",
+    "country": "CN",
+    "lat": 29.76569,
+    "lng": 105.92205
+  },
+  {
+    "name": "Guansheng",
+    "country": "CN",
+    "lat": 29.57779,
+    "lng": 105.43754
+  },
+  {
+    "name": "Guangpu",
+    "country": "CN",
+    "lat": 29.33567,
+    "lng": 106.14521
+  },
+  {
+    "name": "Gucheng",
+    "country": "CN",
+    "lat": 34.48111,
+    "lng": 105.16528
+  },
+  {
+    "name": "Guochuan",
+    "country": "CN",
+    "lat": 34.6838,
+    "lng": 105.81
+  },
+  {
+    "name": "Gupo",
+    "country": "CN",
+    "lat": 34.625,
+    "lng": 105.27861
+  },
+  {
+    "name": "Gushu",
+    "country": "CN",
+    "lat": 22.59398,
+    "lng": 113.83911
+  },
+  {
+    "name": "Guangcun",
+    "country": "CN",
+    "lat": 19.64186,
+    "lng": 109.3545
+  },
+  {
+    "name": "Gulu",
+    "country": "CN",
+    "lat": 31.3301,
+    "lng": 109.43991
+  },
+  {
+    "name": "Gulian",
+    "country": "CN",
+    "lat": 52.95186,
+    "lng": 122.34126
+  },
+  {
+    "name": "Gufu",
+    "country": "CN",
+    "lat": 31.36208,
+    "lng": 110.72918
+  },
+  {
+    "name": "Guzhan",
+    "country": "CN",
+    "lat": 34.69461,
+    "lng": 103.2966
+  },
+  {
+    "name": "Guohe",
+    "country": "CN",
+    "lat": 33.35113,
+    "lng": 105.14871
+  },
+  {
+    "name": "Guyang",
+    "country": "CN",
+    "lat": 32.13538,
+    "lng": 119.44209
+  },
+  {
+    "name": "Gulou",
+    "country": "CN",
+    "lat": 40.36997,
+    "lng": 116.83352
+  },
+  {
+    "name": "Guanmian",
+    "country": "CN",
+    "lat": 31.55171,
+    "lng": 108.67039
+  },
+  {
+    "name": "Guojia",
+    "country": "CN",
+    "lat": 31.29528,
+    "lng": 108.48104
+  },
+  {
+    "name": "Gucheng",
+    "country": "CN",
+    "lat": 28.84856,
+    "lng": 121.1161
+  },
+  {
+    "name": "Guocun",
+    "country": "CN",
+    "lat": 30.56618,
+    "lng": 108.16933
+  },
+  {
+    "name": "Guanzhou",
+    "country": "CN",
+    "lat": 28.41559,
+    "lng": 109.01843
+  },
+  {
+    "name": "Guanzhuang",
+    "country": "CN",
+    "lat": 28.50781,
+    "lng": 109.01139
+  },
+  {
+    "name": "Guanqing",
+    "country": "CN",
+    "lat": 28.61946,
+    "lng": 108.68674
+  },
+  {
+    "name": "Guoyuan Xincun",
+    "country": "CN",
+    "lat": 39.22187,
+    "lng": 117.13018
+  },
+  {
+    "name": "Gulu",
+    "country": "CN",
+    "lat": 29.83885,
+    "lng": 106.7426
+  },
+  {
+    "name": "Gulou",
+    "country": "CN",
+    "lat": 30.17599,
+    "lng": 106.17168
+  },
+  {
+    "name": "Gulong",
+    "country": "CN",
+    "lat": 29.70472,
+    "lng": 106.00383
+  },
+  {
+    "name": "Guchang",
+    "country": "CN",
+    "lat": 29.48684,
+    "lng": 105.58863
+  },
+  {
+    "name": "Guhua",
+    "country": "CN",
+    "lat": 28.89003,
+    "lng": 107.33568
+  },
+  {
+    "name": "Guitang",
+    "country": "CN",
+    "lat": 28.13996,
+    "lng": 113.04246
+  },
+  {
+    "name": "Guanba",
+    "country": "CN",
+    "lat": 28.80194,
+    "lng": 106.80589
+  },
+  {
+    "name": "Guangzhoulu",
+    "country": "CN",
+    "lat": 38.49915,
+    "lng": 102.16809
+  },
+  {
+    "name": "Gulou",
+    "country": "CN",
+    "lat": 36.44414,
+    "lng": 115.96418
+  },
+  {
+    "name": "Gumudi",
+    "country": "CN",
+    "lat": 43.95486,
+    "lng": 87.67309
+  },
+  {
+    "name": "Guangrao",
+    "country": "CN",
+    "lat": 37.25969,
+    "lng": 118.46345
+  },
+  {
+    "name": "Gulebage",
+    "country": "CN",
+    "lat": 38.41269,
+    "lng": 77.23028
+  },
+  {
+    "name": "Gucheng",
+    "country": "CN",
+    "lat": 36.95347,
+    "lng": 118.76246
+  },
+  {
+    "name": "Guojia",
+    "country": "CN",
+    "lat": 34.97276,
+    "lng": 105.55838
+  },
+  {
+    "name": "Guoye",
+    "country": "CN",
+    "lat": 33.64738,
+    "lng": 104.43562
+  },
+  {
+    "name": "Guangxing",
+    "country": "CN",
+    "lat": 29.05577,
+    "lng": 106.55549
+  },
+  {
+    "name": "Guanglu",
+    "country": "CN",
+    "lat": 39.17522,
+    "lng": 122.3779
+  },
+  {
+    "name": "Guangyang",
+    "country": "CN",
+    "lat": 39.52126,
+    "lng": 116.70213
+  },
+  {
+    "name": "Guangming",
+    "country": "CN",
+    "lat": 22.56171,
+    "lng": 113.90463
+  },
+  {
+    "name": "Guanlong",
+    "country": "CN",
+    "lat": 22.58777,
+    "lng": 113.94398
+  },
+  {
+    "name": "Gumudi",
+    "country": "CN",
+    "lat": 43.96319,
+    "lng": 87.62558
+  },
+  {
+    "name": "Guancheng",
+    "country": "CN",
+    "lat": 34.74081,
+    "lng": 113.67601
+  },
+  {
+    "name": "Gutiérrez",
+    "country": "CO",
+    "lat": 4.25472,
+    "lng": -74.0025
+  },
+  {
+    "name": "Guayatá",
+    "country": "CO",
+    "lat": 4.96417,
+    "lng": -73.4875
+  },
+  {
+    "name": "Guayabetal",
+    "country": "CO",
+    "lat": 4.21472,
+    "lng": -73.81719
+  },
+  {
+    "name": "Guayabal de Síquima",
+    "country": "CO",
+    "lat": 4.87739,
+    "lng": -74.46744
+  },
+  {
+    "name": "Guavatá",
+    "country": "CO",
+    "lat": 5.95502,
+    "lng": -73.70018
+  },
+  {
+    "name": "Guática",
+    "country": "CO",
+    "lat": 5.31569,
+    "lng": -75.79826
+  },
+  {
+    "name": "Guateque",
+    "country": "CO",
+    "lat": 5.00619,
+    "lng": -73.47274
+  },
+  {
+    "name": "Guatavita",
+    "country": "CO",
+    "lat": 4.93658,
+    "lng": -73.83314
+  },
+  {
+    "name": "Guataquí",
+    "country": "CO",
+    "lat": 4.51573,
+    "lng": -74.78935
+  },
+  {
+    "name": "Guatapé",
+    "country": "CO",
+    "lat": 6.23429,
+    "lng": -75.16335
+  },
+  {
+    "name": "Guasca",
+    "country": "CO",
+    "lat": 4.86601,
+    "lng": -73.87748
+  },
+  {
+    "name": "Guarne",
+    "country": "CO",
+    "lat": 6.28046,
+    "lng": -75.44354
+  },
+  {
+    "name": "Guaranda",
+    "country": "CO",
+    "lat": 8.46746,
+    "lng": -74.53617
+  },
+  {
+    "name": "Guapotá",
+    "country": "CO",
+    "lat": 6.30798,
+    "lng": -73.3202
+  },
+  {
+    "name": "Guapí",
+    "country": "CO",
+    "lat": 2.57082,
+    "lng": -77.88542
+  },
+  {
+    "name": "Guamo",
+    "country": "CO",
+    "lat": 4.03078,
+    "lng": -74.9701
+  },
+  {
+    "name": "Guamal",
+    "country": "CO",
+    "lat": 9.14334,
+    "lng": -74.22384
+  },
+  {
+    "name": "Guamal",
+    "country": "CO",
+    "lat": 3.88043,
+    "lng": -73.76566
+  },
+  {
+    "name": "Gualmatán",
+    "country": "CO",
+    "lat": 0.91992,
+    "lng": -77.56738
+  },
+  {
+    "name": "Guaitarilla",
+    "country": "CO",
+    "lat": 1.13103,
+    "lng": -77.54815
+  },
+  {
+    "name": "Guaduas",
+    "country": "CO",
+    "lat": 5.06692,
+    "lng": -74.59499
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CO",
+    "lat": 6.81449,
+    "lng": -75.24063
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CO",
+    "lat": 6.2464,
+    "lng": -73.41833
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CO",
+    "lat": 2.0248,
+    "lng": -75.75589
+  },
+  {
+    "name": "Guachucal",
+    "country": "CO",
+    "lat": 0.96093,
+    "lng": -77.73161
+  },
+  {
+    "name": "Guachetá",
+    "country": "CO",
+    "lat": 5.38425,
+    "lng": -73.68617
+  },
+  {
+    "name": "Guachené",
+    "country": "CO",
+    "lat": 3.13333,
+    "lng": -76.3927
+  },
+  {
+    "name": "Guachavés",
+    "country": "CO",
+    "lat": 1.2224,
+    "lng": -77.67766
+  },
+  {
+    "name": "Guacarí",
+    "country": "CO",
+    "lat": 3.76383,
+    "lng": -76.33292
+  },
+  {
+    "name": "Guacamayas",
+    "country": "CO",
+    "lat": 6.46243,
+    "lng": -72.50465
+  },
+  {
+    "name": "Guaca",
+    "country": "CO",
+    "lat": 6.87621,
+    "lng": -72.85594
+  },
+  {
+    "name": "Guadalajara de Buga",
+    "country": "CO",
+    "lat": 3.90089,
+    "lng": -76.29783
+  },
+  {
+    "name": "Guayabal",
+    "country": "CO",
+    "lat": 5.03103,
+    "lng": -74.88683
+  },
+  {
+    "name": "Guápiles",
+    "country": "CR",
+    "lat": 10.21682,
+    "lng": -83.78483
+  },
+  {
+    "name": "Guadalupe",
+    "country": "CR",
+    "lat": 9.94805,
+    "lng": -84.05665
+  },
+  {
+    "name": "Guácimo",
+    "country": "CR",
+    "lat": 10.2129,
+    "lng": -83.68793
+  },
+  {
+    "name": "Guisa",
+    "country": "CU",
+    "lat": 20.25494,
+    "lng": -76.5393
+  },
+  {
+    "name": "Guayos",
+    "country": "CU",
+    "lat": 22.04956,
+    "lng": -79.46106
+  },
+  {
+    "name": "Guara",
+    "country": "CU",
+    "lat": 22.81,
+    "lng": -82.20306
+  },
+  {
+    "name": "Guantánamo",
+    "country": "CU",
+    "lat": 20.14444,
+    "lng": -75.20917
+  },
+  {
+    "name": "Guane",
+    "country": "CU",
+    "lat": 22.20179,
+    "lng": -84.08484
+  },
+  {
+    "name": "Guanajay",
+    "country": "CU",
+    "lat": 22.92616,
+    "lng": -82.68687
+  },
+  {
+    "name": "Guanabo",
+    "country": "CU",
+    "lat": 23.16831,
+    "lng": -82.13737
+  },
+  {
+    "name": "Guanabacoa",
+    "country": "CU",
+    "lat": 23.12518,
+    "lng": -82.30067
+  },
+  {
+    "name": "Guáimaro",
+    "country": "CU",
+    "lat": 21.05222,
+    "lng": -77.3499
+  },
+  {
+    "name": "Guxhagen",
+    "country": "DE",
+    "lat": 51.2,
+    "lng": 9.48333
+  },
+  {
+    "name": "Guttau",
+    "country": "DE",
+    "lat": 51.25904,
+    "lng": 14.56132
+  },
+  {
+    "name": "Gutenstetten",
+    "country": "DE",
+    "lat": 49.61667,
+    "lng": 10.63333
+  },
+  {
+    "name": "Gutenberg",
+    "country": "DE",
+    "lat": 51.5471,
+    "lng": 11.97181
+  },
+  {
+    "name": "Gutenberg",
+    "country": "DE",
+    "lat": 49.88333,
+    "lng": 7.8
+  },
+  {
+    "name": "Gutach im Breisgau",
+    "country": "DE",
+    "lat": 48.11667,
+    "lng": 7.98333
+  },
+  {
+    "name": "Gutach",
+    "country": "DE",
+    "lat": 48.24844,
+    "lng": 8.21293
+  },
+  {
+    "name": "Gusterath",
+    "country": "DE",
+    "lat": 49.7,
+    "lng": 6.71667
+  },
+  {
+    "name": "Gusenburg",
+    "country": "DE",
+    "lat": 49.63333,
+    "lng": 6.9
+  },
+  {
+    "name": "Gunzenhausen",
+    "country": "DE",
+    "lat": 49.11663,
+    "lng": 10.75971
+  },
+  {
+    "name": "Guntersblum",
+    "country": "DE",
+    "lat": 49.7975,
+    "lng": 8.34556
+  },
+  {
+    "name": "Gundremmingen",
+    "country": "DE",
+    "lat": 48.5,
+    "lng": 10.4
+  },
+  {
+    "name": "Gundersheim",
+    "country": "DE",
+    "lat": 49.69611,
+    "lng": 8.2025
+  },
+  {
+    "name": "Gundelsheim",
+    "country": "DE",
+    "lat": 49.93708,
+    "lng": 10.9199
+  },
+  {
+    "name": "Gundelsheim",
+    "country": "DE",
+    "lat": 49.2833,
+    "lng": 9.16037
+  },
+  {
+    "name": "Gundelfingen",
+    "country": "DE",
+    "lat": 48.55347,
+    "lng": 10.37223
+  },
+  {
+    "name": "Gundelfingen",
+    "country": "DE",
+    "lat": 48.04246,
+    "lng": 7.8657
+  },
+  {
+    "name": "Gumtow",
+    "country": "DE",
+    "lat": 52.98333,
+    "lng": 12.25
+  },
+  {
+    "name": "Gummersbach",
+    "country": "DE",
+    "lat": 51.02608,
+    "lng": 7.56473
+  },
+  {
+    "name": "Gudow",
+    "country": "DE",
+    "lat": 53.55556,
+    "lng": 10.77021
+  },
+  {
+    "name": "Guderhandviertel",
+    "country": "DE",
+    "lat": 53.54919,
+    "lng": 9.6096
+  },
+  {
+    "name": "Gudensberg",
+    "country": "DE",
+    "lat": 51.17706,
+    "lng": 9.36748
+  },
+  {
+    "name": "Guben",
+    "country": "DE",
+    "lat": 51.94993,
+    "lng": 14.7055
+  },
+  {
+    "name": "Gutenzell-Hürbel",
+    "country": "DE",
+    "lat": 48.11667,
+    "lng": 9.98333
+  },
+  {
+    "name": "Gundsømagle",
+    "country": "DK",
+    "lat": 55.73565,
+    "lng": 12.15158
+  },
+  {
+    "name": "Guderup",
+    "country": "DK",
+    "lat": 54.98978,
+    "lng": 9.87174
+  },
+  {
+    "name": "Guerra",
+    "country": "DO",
+    "lat": 18.55892,
+    "lng": -69.70103
+  },
+  {
+    "name": "Guaymate",
+    "country": "DO",
+    "lat": 18.58793,
+    "lng": -68.97867
+  },
+  {
+    "name": "Guayabo Dulce",
+    "country": "DO",
+    "lat": 18.65,
+    "lng": -69.28333
+  },
+  {
+    "name": "Guayabal",
+    "country": "DO",
+    "lat": 18.5981,
+    "lng": -71.64184
+  },
+  {
+    "name": "Guatapanal",
+    "country": "DO",
+    "lat": 19.50705,
+    "lng": -70.91713
+  },
+  {
+    "name": "Guananico",
+    "country": "DO",
+    "lat": 19.72693,
+    "lng": -70.92294
+  },
+  {
+    "name": "Guerara",
+    "country": "DZ",
+    "lat": 32.79211,
+    "lng": 4.49949
+  },
+  {
+    "name": "Guemar",
+    "country": "DZ",
+    "lat": 33.48529,
+    "lng": 6.79693
+  },
+  {
+    "name": "Guelma",
+    "country": "DZ",
+    "lat": 36.46214,
+    "lng": 7.42608
+  },
+  {
+    "name": "Guambaló",
+    "country": "EC",
+    "lat": -1.38807,
+    "lng": -78.53221
+  },
+  {
+    "name": "Guaytacama",
+    "country": "EC",
+    "lat": -0.82498,
+    "lng": -78.64158
+  },
+  {
+    "name": "Guizhaguiña",
+    "country": "EC",
+    "lat": -3.69333,
+    "lng": -79.55152
+  },
+  {
+    "name": "Guayquichuma",
+    "country": "EC",
+    "lat": -3.82259,
+    "lng": -79.57445
+  },
+  {
+    "name": "Guayaquil",
+    "country": "EC",
+    "lat": -2.19616,
+    "lng": -79.88621
+  },
+  {
+    "name": "Guasuntos",
+    "country": "EC",
+    "lat": -2.2324,
+    "lng": -78.81334
+  },
+  {
+    "name": "Guasaganda Centro",
+    "country": "EC",
+    "lat": -0.80287,
+    "lng": -79.16001
+  },
+  {
+    "name": "Guaranda",
+    "country": "EC",
+    "lat": -1.59106,
+    "lng": -78.99903
+  },
+  {
+    "name": "Guanujo",
+    "country": "EC",
+    "lat": -1.56046,
+    "lng": -79.00888
+  },
+  {
+    "name": "Guano",
+    "country": "EC",
+    "lat": -1.60689,
+    "lng": -78.63726
+  },
+  {
+    "name": "Guanazán",
+    "country": "EC",
+    "lat": -3.45935,
+    "lng": -79.4921
+  },
+  {
+    "name": "Guanando",
+    "country": "EC",
+    "lat": -1.54566,
+    "lng": -78.54385
+  },
+  {
+    "name": "Guamote",
+    "country": "EC",
+    "lat": -1.93499,
+    "lng": -78.71043
+  },
+  {
+    "name": "Gualel",
+    "country": "EC",
+    "lat": -3.77022,
+    "lng": -79.3756
+  },
+  {
+    "name": "Guale",
+    "country": "EC",
+    "lat": -1.63004,
+    "lng": -80.23922
+  },
+  {
+    "name": "Gualaquiza",
+    "country": "EC",
+    "lat": -3.40352,
+    "lng": -78.58148
+  },
+  {
+    "name": "Gualaceo",
+    "country": "EC",
+    "lat": -2.89418,
+    "lng": -78.77907
+  },
+  {
+    "name": "Guadalupe",
+    "country": "EC",
+    "lat": -3.84664,
+    "lng": -78.88896
+  },
+  {
+    "name": "Guabo",
+    "country": "EC",
+    "lat": -3.24401,
+    "lng": -79.82874
+  },
+  {
+    "name": "Guillena",
+    "country": "ES",
+    "lat": 37.54262,
+    "lng": -6.05626
+  },
+  {
+    "name": "Guía de Isora",
+    "country": "ES",
+    "lat": 28.21154,
+    "lng": -16.77947
+  },
+  {
+    "name": "Guia",
+    "country": "ES",
+    "lat": 28.13974,
+    "lng": -15.63294
+  },
+  {
+    "name": "Guarromán",
+    "country": "ES",
+    "lat": 38.18282,
+    "lng": -3.68697
+  },
+  {
+    "name": "Guaro",
+    "country": "ES",
+    "lat": 36.6563,
+    "lng": -4.83433
+  },
+  {
+    "name": "Guareña",
+    "country": "ES",
+    "lat": 38.85952,
+    "lng": -6.09987
+  },
+  {
+    "name": "Guardamar del Segura",
+    "country": "ES",
+    "lat": 38.09031,
+    "lng": -0.65556
+  },
+  {
+    "name": "Gualchos",
+    "country": "ES",
+    "lat": 36.74467,
+    "lng": -3.39079
+  },
+  {
+    "name": "Guadix",
+    "country": "ES",
+    "lat": 37.29932,
+    "lng": -3.13922
+  },
+  {
+    "name": "Guadassuar",
+    "country": "ES",
+    "lat": 39.18663,
+    "lng": -0.47859
+  },
+  {
+    "name": "Guadasequies",
+    "country": "ES",
+    "lat": 38.92539,
+    "lng": -0.48585
+  },
+  {
+    "name": "Guadamur",
+    "country": "ES",
+    "lat": 39.81178,
+    "lng": -4.14885
+  },
+  {
+    "name": "Guadalupe",
+    "country": "ES",
+    "lat": 39.4508,
+    "lng": -5.32588
+  },
+  {
+    "name": "Guadalmez",
+    "country": "ES",
+    "lat": 38.72665,
+    "lng": -4.97104
+  },
+  {
+    "name": "Guadalcázar",
+    "country": "ES",
+    "lat": 37.75738,
+    "lng": -4.94387
+  },
+  {
+    "name": "Guadalcanal",
+    "country": "ES",
+    "lat": 38.1,
+    "lng": -5.81667
+  },
+  {
+    "name": "Guadahortuna",
+    "country": "ES",
+    "lat": 37.55711,
+    "lng": -3.39859
+  },
+  {
+    "name": "Gutierre-Muñoz",
+    "country": "ES",
+    "lat": 40.98295,
+    "lng": -4.63839
+  },
+  {
+    "name": "Gusendos de los Oteros",
+    "country": "ES",
+    "lat": 42.37818,
+    "lng": -5.43088
+  },
+  {
+    "name": "Gurrea de Gállego",
+    "country": "ES",
+    "lat": 42.01541,
+    "lng": -0.7615
+  },
+  {
+    "name": "Guntín",
+    "country": "ES",
+    "lat": 42.88702,
+    "lng": -7.69259
+  },
+  {
+    "name": "Guitiriz",
+    "country": "ES",
+    "lat": 43.18169,
+    "lng": -7.89656
+  },
+  {
+    "name": "Guissona",
+    "country": "ES",
+    "lat": 41.78333,
+    "lng": 1.3
+  },
+  {
+    "name": "Guisando",
+    "country": "ES",
+    "lat": 40.22225,
+    "lng": -5.1395
+  },
+  {
+    "name": "Guirguillano",
+    "country": "ES",
+    "lat": 42.71725,
+    "lng": -1.87798
+  },
+  {
+    "name": "Guimerà",
+    "country": "ES",
+    "lat": 41.5645,
+    "lng": 1.18528
+  },
+  {
+    "name": "Guils de Cerdanya",
+    "country": "ES",
+    "lat": 42.4474,
+    "lng": 1.88012
+  },
+  {
+    "name": "Guijuelo",
+    "country": "ES",
+    "lat": 40.55757,
+    "lng": -5.67067
+  },
+  {
+    "name": "Guijo de Santa Bárbara",
+    "country": "ES",
+    "lat": 40.1541,
+    "lng": -5.65414
+  },
+  {
+    "name": "Guijo de Granadilla",
+    "country": "ES",
+    "lat": 40.19351,
+    "lng": -6.16339
+  },
+  {
+    "name": "Guijo de Galisteo",
+    "country": "ES",
+    "lat": 40.09383,
+    "lng": -6.41007
+  },
+  {
+    "name": "Guijo de Coria",
+    "country": "ES",
+    "lat": 40.10098,
+    "lng": -6.46383
+  },
+  {
+    "name": "Guijo de Ávila",
+    "country": "ES",
+    "lat": 40.53078,
+    "lng": -5.6397
+  },
+  {
+    "name": "Guaza de Campos",
+    "country": "ES",
+    "lat": 42.13365,
+    "lng": -4.90949
+  },
+  {
+    "name": "Guardo",
+    "country": "ES",
+    "lat": 42.78966,
+    "lng": -4.84823
+  },
+  {
+    "name": "Guardiola de Berguedà",
+    "country": "ES",
+    "lat": 42.2349,
+    "lng": 1.87716
+  },
+  {
+    "name": "Gualta",
+    "country": "ES",
+    "lat": 42.02953,
+    "lng": 3.10312
+  },
+  {
+    "name": "Guadramiro",
+    "country": "ES",
+    "lat": 41.01703,
+    "lng": -6.49369
+  },
+  {
+    "name": "Guadarrama",
+    "country": "ES",
+    "lat": 40.6727,
+    "lng": -4.08949
+  },
+  {
+    "name": "Guadalix de la Sierra",
+    "country": "ES",
+    "lat": 40.78496,
+    "lng": -3.69347
+  },
+  {
+    "name": "Guadalaviar",
+    "country": "ES",
+    "lat": 40.38824,
+    "lng": -1.71803
+  },
+  {
+    "name": "Guadalajara",
+    "country": "ES",
+    "lat": 40.62862,
+    "lng": -3.16185
+  },
+  {
+    "name": "Gurb",
+    "country": "ES",
+    "lat": 41.95419,
+    "lng": 2.23537
+  },
+  {
+    "name": "Guindalera",
+    "country": "ES",
+    "lat": 40.43633,
+    "lng": -3.66658
+  },
+  {
+    "name": "Gurbetē",
+    "country": "ET",
+    "lat": 11.35599,
+    "lng": 36.95449
+  },
+  {
+    "name": "Guder",
+    "country": "ET",
+    "lat": 8.97054,
+    "lng": 37.76117
+  },
+  {
+    "name": "Gutin",
+    "country": "ET",
+    "lat": 9.56561,
+    "lng": 36.63569
+  },
+  {
+    "name": "Gununo",
+    "country": "ET",
+    "lat": 6.92471,
+    "lng": 37.65263
+  },
+  {
+    "name": "Gumböle",
+    "country": "FI",
+    "lat": 60.21948,
+    "lng": 24.61684
+  },
+  {
+    "name": "Guyancourt",
+    "country": "FR",
+    "lat": 48.77334,
+    "lng": 2.07393
+  },
+  {
+    "name": "Gurgy",
+    "country": "FR",
+    "lat": 47.86712,
+    "lng": 3.56341
+  },
+  {
+    "name": "Gundershoffen",
+    "country": "FR",
+    "lat": 48.90648,
+    "lng": 7.66096
+  },
+  {
+    "name": "Gumbrechtshoffen",
+    "country": "FR",
+    "lat": 48.9058,
+    "lng": 7.62915
+  },
+  {
+    "name": "Gujan-Mestras",
+    "country": "FR",
+    "lat": 44.636,
+    "lng": -1.06815
+  },
+  {
+    "name": "Guîtres",
+    "country": "FR",
+    "lat": 45.04143,
+    "lng": -0.18644
+  },
+  {
+    "name": "Guissény",
+    "country": "FR",
+    "lat": 48.63418,
+    "lng": -4.4091
+  },
+  {
+    "name": "Guise",
+    "country": "FR",
+    "lat": 49.90055,
+    "lng": 3.62801
+  },
+  {
+    "name": "Guiscriff",
+    "country": "FR",
+    "lat": 48.04974,
+    "lng": -3.64491
+  },
+  {
+    "name": "Guiscard",
+    "country": "FR",
+    "lat": 49.6566,
+    "lng": 3.05127
+  },
+  {
+    "name": "Guipry",
+    "country": "FR",
+    "lat": 47.82529,
+    "lng": -1.8422
+  },
+  {
+    "name": "Guipel",
+    "country": "FR",
+    "lat": 48.29824,
+    "lng": -1.72141
+  },
+  {
+    "name": "Guipavas",
+    "country": "FR",
+    "lat": 48.43411,
+    "lng": -4.40197
+  },
+  {
+    "name": "Guingamp",
+    "country": "FR",
+    "lat": 48.56259,
+    "lng": -3.15289
+  },
+  {
+    "name": "Guînes",
+    "country": "FR",
+    "lat": 50.86708,
+    "lng": 1.87025
+  },
+  {
+    "name": "Guilvinec",
+    "country": "FR",
+    "lat": 47.79731,
+    "lng": -4.28462
+  },
+  {
+    "name": "Guilliers",
+    "country": "FR",
+    "lat": 48.04271,
+    "lng": -2.40505
+  },
+  {
+    "name": "Guillestre",
+    "country": "FR",
+    "lat": 44.6595,
+    "lng": 6.64948
+  },
+  {
+    "name": "Guillac",
+    "country": "FR",
+    "lat": 47.91096,
+    "lng": -2.46651
+  },
+  {
+    "name": "Guilherand-Granges",
+    "country": "FR",
+    "lat": 44.93278,
+    "lng": 4.87372
+  },
+  {
+    "name": "Guilers",
+    "country": "FR",
+    "lat": 48.42702,
+    "lng": -4.55978
+  },
+  {
+    "name": "Guignicourt",
+    "country": "FR",
+    "lat": 49.43714,
+    "lng": 3.96755
+  },
+  {
+    "name": "Guignes",
+    "country": "FR",
+    "lat": 48.63333,
+    "lng": 2.8
+  },
+  {
+    "name": "Guignen",
+    "country": "FR",
+    "lat": 47.92092,
+    "lng": -1.86298
+  },
+  {
+    "name": "Guiclan",
+    "country": "FR",
+    "lat": 48.55065,
+    "lng": -3.96177
+  },
+  {
+    "name": "Guichen",
+    "country": "FR",
+    "lat": 47.96813,
+    "lng": -1.79576
+  },
+  {
+    "name": "Guichainville",
+    "country": "FR",
+    "lat": 49.00139,
+    "lng": 1.19305
+  },
+  {
+    "name": "Guewenheim",
+    "country": "FR",
+    "lat": 47.75283,
+    "lng": 7.09253
+  },
+  {
+    "name": "Gueux",
+    "country": "FR",
+    "lat": 49.25048,
+    "lng": 3.91024
+  },
+  {
+    "name": "Gueugnon",
+    "country": "FR",
+    "lat": 46.60357,
+    "lng": 4.06286
+  },
+  {
+    "name": "Guéthary",
+    "country": "FR",
+    "lat": 43.42419,
+    "lng": -1.60901
+  },
+  {
+    "name": "Guesnain",
+    "country": "FR",
+    "lat": 50.35,
+    "lng": 3.15
+  },
+  {
+    "name": "Guerville",
+    "country": "FR",
+    "lat": 48.94388,
+    "lng": 1.73429
+  },
+  {
+    "name": "Guern",
+    "country": "FR",
+    "lat": 48.03044,
+    "lng": -3.09196
+  },
+  {
+    "name": "Guermantes",
+    "country": "FR",
+    "lat": 48.85303,
+    "lng": 2.70495
+  },
+  {
+    "name": "Guerlesquin",
+    "country": "FR",
+    "lat": 48.5173,
+    "lng": -3.58895
+  },
+  {
+    "name": "Guérigny",
+    "country": "FR",
+    "lat": 47.08703,
+    "lng": 3.20182
+  },
+  {
+    "name": "Guéret",
+    "country": "FR",
+    "lat": 46.17185,
+    "lng": 1.87166
+  },
+  {
+    "name": "Guéreins",
+    "country": "FR",
+    "lat": 46.10346,
+    "lng": 4.77275
+  },
+  {
+    "name": "Guérard",
+    "country": "FR",
+    "lat": 48.82086,
+    "lng": 2.95969
+  },
+  {
+    "name": "Guérande",
+    "country": "FR",
+    "lat": 47.32829,
+    "lng": -2.42934
+  },
+  {
+    "name": "Guer",
+    "country": "FR",
+    "lat": 47.90404,
+    "lng": -2.12031
+  },
+  {
+    "name": "Guenrouet",
+    "country": "FR",
+    "lat": 47.51939,
+    "lng": -1.95679
+  },
+  {
+    "name": "Guénin",
+    "country": "FR",
+    "lat": 47.90731,
+    "lng": -2.98032
+  },
+  {
+    "name": "Guengat",
+    "country": "FR",
+    "lat": 48.0421,
+    "lng": -4.2055
+  },
+  {
+    "name": "Guénange",
+    "country": "FR",
+    "lat": 49.29945,
+    "lng": 6.20535
+  },
+  {
+    "name": "Guémené-sur-Scorff",
+    "country": "FR",
+    "lat": 48.06791,
+    "lng": -3.20456
+  },
+  {
+    "name": "Guémené-Penfao",
+    "country": "FR",
+    "lat": 47.63043,
+    "lng": -1.8327
+  },
+  {
+    "name": "Guémar",
+    "country": "FR",
+    "lat": 48.18869,
+    "lng": 7.39706
+  },
+  {
+    "name": "Guégon",
+    "country": "FR",
+    "lat": 47.93788,
+    "lng": -2.56491
+  },
+  {
+    "name": "Guécélard",
+    "country": "FR",
+    "lat": 47.87626,
+    "lng": 0.12928
+  },
+  {
+    "name": "Guebwiller",
+    "country": "FR",
+    "lat": 47.91667,
+    "lng": 7.2
+  },
+  {
+    "name": "Guarbecque",
+    "country": "FR",
+    "lat": 50.61162,
+    "lng": 2.48895
+  },
+  {
+    "name": "Guidel-Plage",
+    "country": "FR",
+    "lat": 47.76768,
+    "lng": -3.5218
+  },
+  {
+    "name": "Gurnard",
+    "country": "GB",
+    "lat": 50.76057,
+    "lng": -1.32411
+  },
+  {
+    "name": "Gunnislake",
+    "country": "GB",
+    "lat": 50.52441,
+    "lng": -4.21333
+  },
+  {
+    "name": "Gunness",
+    "country": "GB",
+    "lat": 53.5908,
+    "lng": -0.72834
+  },
+  {
+    "name": "Gullane",
+    "country": "GB",
+    "lat": 56.03652,
+    "lng": -2.82829
+  },
+  {
+    "name": "Guiseley",
+    "country": "GB",
+    "lat": 53.87561,
+    "lng": -1.71232
+  },
+  {
+    "name": "Guisborough",
+    "country": "GB",
+    "lat": 54.53478,
+    "lng": -1.05606
+  },
+  {
+    "name": "Guilsfield",
+    "country": "GB",
+    "lat": 52.69634,
+    "lng": -3.15712
+  },
+  {
+    "name": "Guildford",
+    "country": "GB",
+    "lat": 51.23536,
+    "lng": -0.57427
+  },
+  {
+    "name": "Guilden Sutton",
+    "country": "GB",
+    "lat": 53.20809,
+    "lng": -2.82984
+  },
+  {
+    "name": "Gurjaani",
+    "country": "GE",
+    "lat": 41.74384,
+    "lng": 45.80246
+  },
+  {
+    "name": "Gulripshi",
+    "country": "GE",
+    "lat": 42.93057,
+    "lng": 41.10257
+  },
+  {
+    "name": "Gudauta",
+    "country": "GE",
+    "lat": 43.10191,
+    "lng": 40.62245
+  },
+  {
+    "name": "Gudauri",
+    "country": "GE",
+    "lat": 42.47797,
+    "lng": 44.47616
+  },
+  {
+    "name": "Gunjur Kuta",
+    "country": "GM",
+    "lat": 13.53333,
+    "lng": -14.11667
+  },
+  {
+    "name": "Gunjur",
+    "country": "GM",
+    "lat": 13.52278,
+    "lng": -16.02778
+  },
+  {
+    "name": "Gunjur",
+    "country": "GM",
+    "lat": 13.20194,
+    "lng": -16.73389
+  },
+  {
+    "name": "Gueckedou",
+    "country": "GN",
+    "lat": 8.56744,
+    "lng": -10.1336
+  },
+  {
+    "name": "Guazacapán",
+    "country": "GT",
+    "lat": 14.07417,
+    "lng": -90.41667
+  },
+  {
+    "name": "Guanagazapa",
+    "country": "GT",
+    "lat": 14.22598,
+    "lng": -90.64332
+  },
+  {
+    "name": "Gualán",
+    "country": "GT",
+    "lat": 15.11952,
+    "lng": -89.35721
+  },
+  {
+    "name": "Guastatoya",
+    "country": "GT",
+    "lat": 14.85442,
+    "lng": -90.06991
+  },
+  {
+    "name": "Guatemala City",
+    "country": "GT",
+    "lat": 14.64072,
+    "lng": -90.51327
+  },
+  {
+    "name": "Guayape",
+    "country": "HN",
+    "lat": 14.71667,
+    "lng": -86.83333
+  },
+  {
+    "name": "Guarizama",
+    "country": "HN",
+    "lat": 14.91667,
+    "lng": -86.33333
+  },
+  {
+    "name": "Guanaja",
+    "country": "HN",
+    "lat": 16.44186,
+    "lng": -85.88717
+  },
+  {
+    "name": "Gualjoco",
+    "country": "HN",
+    "lat": 14.9599,
+    "lng": -88.23735
+  },
+  {
+    "name": "Gualaco",
+    "country": "HN",
+    "lat": 15.02521,
+    "lng": -86.07076
+  },
+  {
+    "name": "Guaimitas",
+    "country": "HN",
+    "lat": 15.5,
+    "lng": -87.71667
+  },
+  {
+    "name": "Guaimaca",
+    "country": "HN",
+    "lat": 14.53333,
+    "lng": -86.81667
+  },
+  {
+    "name": "Guacamaya",
+    "country": "HN",
+    "lat": 15.02044,
+    "lng": -88.15025
+  },
+  {
+    "name": "Gunja",
+    "country": "HR",
+    "lat": 44.88766,
+    "lng": 18.82575
+  },
+  {
+    "name": "Gundinci",
+    "country": "HR",
+    "lat": 45.15833,
+    "lng": 18.49139
+  },
+  {
+    "name": "Gubacsipuszta",
+    "country": "HU",
+    "lat": 47.43117,
+    "lng": 19.14119
+  },
+  {
+    "name": "Gubacs",
+    "country": "HU",
+    "lat": 47.43105,
+    "lng": 19.0945
+  },
+  {
+    "name": "Gubacsidűlő",
+    "country": "HU",
+    "lat": 47.44904,
+    "lng": 19.09419
+  },
+  {
+    "name": "Gunung Tua",
+    "country": "ID",
+    "lat": 1.51274,
+    "lng": 99.62628
+  },
+  {
+    "name": "Gunungsitoli",
+    "country": "ID",
+    "lat": 1.2888,
+    "lng": 97.6143
+  },
+  {
+    "name": "Gunungwungkal",
+    "country": "ID",
+    "lat": -6.5662,
+    "lng": 110.9891
+  },
+  {
+    "name": "Gunung Sugih",
+    "country": "ID",
+    "lat": -4.9753,
+    "lng": 105.21396
+  },
+  {
+    "name": "Gunungmenang",
+    "country": "ID",
+    "lat": -3.1799,
+    "lng": 104.03347
+  },
+  {
+    "name": "Gunungmegang Dalam",
+    "country": "ID",
+    "lat": -3.44968,
+    "lng": 103.8699
+  },
+  {
+    "name": "Gunungkencana",
+    "country": "ID",
+    "lat": -6.5721,
+    "lng": 106.0742
+  },
+  {
+    "name": "Gunungbatubesar",
+    "country": "ID",
+    "lat": -2.6211,
+    "lng": 116.2931
+  },
+  {
+    "name": "Gunem",
+    "country": "ID",
+    "lat": -6.807,
+    "lng": 111.4656
+  },
+  {
+    "name": "Gulukguluk",
+    "country": "ID",
+    "lat": -7.0546,
+    "lng": 113.6754
+  },
+  {
+    "name": "Gununganyar",
+    "country": "ID",
+    "lat": -7.3409,
+    "lng": 112.7821
+  },
+  {
+    "name": "Gunung Kendil",
+    "country": "ID",
+    "lat": -7.33167,
+    "lng": 110.40417
+  },
+  {
+    "name": "Gubengairlangga",
+    "country": "ID",
+    "lat": -7.2729,
+    "lng": 112.7573
+  },
+  {
+    "name": "Guguk",
+    "country": "ID",
+    "lat": -0.1389,
+    "lng": 100.5526
+  },
+  {
+    "name": "Gunung Talang",
+    "country": "ID",
+    "lat": -0.90566,
+    "lng": 100.62709
+  },
+  {
+    "name": "Gudang",
+    "country": "ID",
+    "lat": -7.307,
+    "lng": 107.7967
+  },
+  {
+    "name": "Gununglimbangan",
+    "country": "ID",
+    "lat": -7.1016,
+    "lng": 107.9841
+  },
+  {
+    "name": "Gupakan",
+    "country": "ID",
+    "lat": -6.9997,
+    "lng": 112.5089
+  },
+  {
+    "name": "Guay",
+    "country": "ID",
+    "lat": -2.5033,
+    "lng": 139.8099
+  },
+  {
+    "name": "Guruafin",
+    "country": "ID",
+    "lat": 0.10144,
+    "lng": 127.43402
+  },
+  {
+    "name": "Guhāla",
+    "country": "IN",
+    "lat": 27.69079,
+    "lng": 75.63612
+  },
+  {
+    "name": "Guskhara",
+    "country": "IN",
+    "lat": 23.49276,
+    "lng": 87.73484
+  },
+  {
+    "name": "Guruvāyūr",
+    "country": "IN",
+    "lat": 10.5943,
+    "lng": 76.0411
+  },
+  {
+    "name": "Gurur",
+    "country": "IN",
+    "lat": 20.68124,
+    "lng": 81.40086
+  },
+  {
+    "name": "Guru Har Sahāi",
+    "country": "IN",
+    "lat": 30.70862,
+    "lng": 74.40407
+  },
+  {
+    "name": "Gursarāi",
+    "country": "IN",
+    "lat": 25.61677,
+    "lng": 79.18053
+  },
+  {
+    "name": "Gursahāiganj",
+    "country": "IN",
+    "lat": 27.11518,
+    "lng": 79.73174
+  },
+  {
+    "name": "Gurmatkāl",
+    "country": "IN",
+    "lat": 16.86773,
+    "lng": 77.39088
+  },
+  {
+    "name": "Gurh",
+    "country": "IN",
+    "lat": 24.50265,
+    "lng": 81.50037
+  },
+  {
+    "name": "Gurugram",
+    "country": "IN",
+    "lat": 28.4601,
+    "lng": 77.02635
+  },
+  {
+    "name": "Gurdaspur",
+    "country": "IN",
+    "lat": 32.03933,
+    "lng": 75.40318
+  },
+  {
+    "name": "Gunupur",
+    "country": "IN",
+    "lat": 19.0804,
+    "lng": 83.80879
+  },
+  {
+    "name": "Guntur",
+    "country": "IN",
+    "lat": 16.29974,
+    "lng": 80.45729
+  },
+  {
+    "name": "Guntakal",
+    "country": "IN",
+    "lat": 15.17112,
+    "lng": 77.36244
+  },
+  {
+    "name": "Gunnaur",
+    "country": "IN",
+    "lat": 28.23995,
+    "lng": 78.43994
+  },
+  {
+    "name": "Gundlupēt",
+    "country": "IN",
+    "lat": 11.81004,
+    "lng": 76.69027
+  },
+  {
+    "name": "Gundardehi",
+    "country": "IN",
+    "lat": 20.94617,
+    "lng": 81.28924
+  },
+  {
+    "name": "Guna",
+    "country": "IN",
+    "lat": 24.64691,
+    "lng": 77.3113
+  },
+  {
+    "name": "Gummidipundi",
+    "country": "IN",
+    "lat": 13.40765,
+    "lng": 80.10879
+  },
+  {
+    "name": "Gumlā",
+    "country": "IN",
+    "lat": 23.04268,
+    "lng": 84.54429
+  },
+  {
+    "name": "Gumia",
+    "country": "IN",
+    "lat": 23.7975,
+    "lng": 85.82523
+  },
+  {
+    "name": "Gulmarg",
+    "country": "IN",
+    "lat": 34.05363,
+    "lng": 74.38188
+  },
+  {
+    "name": "Guledagudda",
+    "country": "IN",
+    "lat": 16.05025,
+    "lng": 75.78997
+  },
+  {
+    "name": "Gulāothi",
+    "country": "IN",
+    "lat": 28.58938,
+    "lng": 77.79318
+  },
+  {
+    "name": "Gulābpura",
+    "country": "IN",
+    "lat": 25.90448,
+    "lng": 74.66025
+  },
+  {
+    "name": "Guirim",
+    "country": "IN",
+    "lat": 15.57552,
+    "lng": 73.80722
+  },
+  {
+    "name": "Guhāgar",
+    "country": "IN",
+    "lat": 17.48415,
+    "lng": 73.19289
+  },
+  {
+    "name": "Gudlavalleru",
+    "country": "IN",
+    "lat": 16.35,
+    "lng": 81.05
+  },
+  {
+    "name": "Gudiyatham",
+    "country": "IN",
+    "lat": 12.94601,
+    "lng": 78.87377
+  },
+  {
+    "name": "Gudivāda",
+    "country": "IN",
+    "lat": 16.43547,
+    "lng": 80.99555
+  },
+  {
+    "name": "Gudibanda",
+    "country": "IN",
+    "lat": 13.67099,
+    "lng": 77.70414
+  },
+  {
+    "name": "Gudāri",
+    "country": "IN",
+    "lat": 19.34762,
+    "lng": 83.78128
+  },
+  {
+    "name": "Gudalur",
+    "country": "IN",
+    "lat": 11.52073,
+    "lng": 76.48141
+  },
+  {
+    "name": "Gudalur",
+    "country": "IN",
+    "lat": 9.67826,
+    "lng": 77.24951
+  },
+  {
+    "name": "Gubbi",
+    "country": "IN",
+    "lat": 13.31216,
+    "lng": 76.94102
+  },
+  {
+    "name": "Gua",
+    "country": "IN",
+    "lat": 22.21361,
+    "lng": 85.38774
+  },
+  {
+    "name": "Guwahati",
+    "country": "IN",
+    "lat": 26.1844,
+    "lng": 91.7458
+  },
+  {
+    "name": "Gurdaha",
+    "country": "IN",
+    "lat": 22.73472,
+    "lng": 88.75944
+  },
+  {
+    "name": "Gulgam",
+    "country": "IN",
+    "lat": 34.55005,
+    "lng": 74.21729
+  },
+  {
+    "name": "Guntur",
+    "country": "IN",
+    "lat": 17.9962,
+    "lng": 79.64449
+  },
+  {
+    "name": "Gunpuram",
+    "country": "IN",
+    "lat": 18.61089,
+    "lng": 78.19409
+  },
+  {
+    "name": "Guntupalle",
+    "country": "IN",
+    "lat": 16.56794,
+    "lng": 80.54758
+  },
+  {
+    "name": "Gundupālaiyam",
+    "country": "IN",
+    "lat": 11.94096,
+    "lng": 79.80294
+  },
+  {
+    "name": "Gutlong Gaon",
+    "country": "IN",
+    "lat": 26.6534,
+    "lng": 92.81613
+  },
+  {
+    "name": "Gunghasa",
+    "country": "IN",
+    "lat": 23.8618,
+    "lng": 86.17772
+  },
+  {
+    "name": "Guspini",
+    "country": "IT",
+    "lat": 39.53954,
+    "lng": 8.63502
+  },
+  {
+    "name": "Guasila",
+    "country": "IT",
+    "lat": 39.5598,
+    "lng": 9.04404
+  },
+  {
+    "name": "Guardia Piemontese",
+    "country": "IT",
+    "lat": 39.46572,
+    "lng": 15.9997
+  },
+  {
+    "name": "Guardavalle",
+    "country": "IT",
+    "lat": 38.5051,
+    "lng": 16.50669
+  },
+  {
+    "name": "Guamaggiore",
+    "country": "IT",
+    "lat": 39.56849,
+    "lng": 9.07391
+  },
+  {
+    "name": "Gussola",
+    "country": "IT",
+    "lat": 45.01165,
+    "lng": 10.34894
+  },
+  {
+    "name": "Gussago",
+    "country": "IT",
+    "lat": 45.58358,
+    "lng": 10.15717
+  },
+  {
+    "name": "Guilmi",
+    "country": "IT",
+    "lat": 41.99653,
+    "lng": 14.47882
+  },
+  {
+    "name": "Guiglia",
+    "country": "IT",
+    "lat": 44.42432,
+    "lng": 10.96125
+  },
+  {
+    "name": "Guidonia",
+    "country": "IT",
+    "lat": 41.99232,
+    "lng": 12.71876
+  },
+  {
+    "name": "Guidizzolo",
+    "country": "IT",
+    "lat": 45.32056,
+    "lng": 10.57801
+  },
+  {
+    "name": "Guglionesi",
+    "country": "IT",
+    "lat": 41.92093,
+    "lng": 14.916
+  },
+  {
+    "name": "Gubbio",
+    "country": "IT",
+    "lat": 43.34996,
+    "lng": 12.57309
+  },
+  {
+    "name": "Guazzora",
+    "country": "IT",
+    "lat": 45.01392,
+    "lng": 8.84822
+  },
+  {
+    "name": "Guazzino",
+    "country": "IT",
+    "lat": 43.21276,
+    "lng": 11.78209
+  },
+  {
+    "name": "Guasticce",
+    "country": "IT",
+    "lat": 43.59805,
+    "lng": 10.40865
+  },
+  {
+    "name": "Guastalla",
+    "country": "IT",
+    "lat": 44.91172,
+    "lng": 10.66186
+  },
+  {
+    "name": "Guardistallo",
+    "country": "IT",
+    "lat": 43.31408,
+    "lng": 10.62944
+  },
+  {
+    "name": "Guardia Sanframondi",
+    "country": "IT",
+    "lat": 41.2564,
+    "lng": 14.59851
+  },
+  {
+    "name": "Guardiaregia",
+    "country": "IT",
+    "lat": 41.43436,
+    "lng": 14.54344
+  },
+  {
+    "name": "Guardia Perticara",
+    "country": "IT",
+    "lat": 40.36167,
+    "lng": 16.09845
+  },
+  {
+    "name": "Guardia Lombardi",
+    "country": "IT",
+    "lat": 40.95177,
+    "lng": 15.20878
+  },
+  {
+    "name": "Guardialfiera",
+    "country": "IT",
+    "lat": 41.80423,
+    "lng": 14.79293
+  },
+  {
+    "name": "Guardiagrele",
+    "country": "IT",
+    "lat": 42.19406,
+    "lng": 14.21939
+  },
+  {
+    "name": "Guardea",
+    "country": "IT",
+    "lat": 42.6237,
+    "lng": 12.29928
+  },
+  {
+    "name": "Guarda Veneta",
+    "country": "IT",
+    "lat": 44.98188,
+    "lng": 11.80178
+  },
+  {
+    "name": "Guardamiglio",
+    "country": "IT",
+    "lat": 45.10742,
+    "lng": 9.68481
+  },
+  {
+    "name": "Guarcino",
+    "country": "IT",
+    "lat": 41.79917,
+    "lng": 13.31439
+  },
+  {
+    "name": "Gualtieri",
+    "country": "IT",
+    "lat": 44.89736,
+    "lng": 10.6286
+  },
+  {
+    "name": "Gualdo Tadino",
+    "country": "IT",
+    "lat": 43.22941,
+    "lng": 12.77862
+  },
+  {
+    "name": "Gualdo Cattaneo",
+    "country": "IT",
+    "lat": 42.91228,
+    "lng": 12.55666
+  },
+  {
+    "name": "Guagnano",
+    "country": "IT",
+    "lat": 40.40123,
+    "lng": 17.94902
+  },
+  {
+    "name": "Guidonia Montecelio",
+    "country": "IT",
+    "lat": 41.99362,
+    "lng": 12.72238
+  },
+  {
+    "name": "Gudo Visconti",
+    "country": "IT",
+    "lat": 45.37407,
+    "lng": 9.00014
+  },
+  {
+    "name": "Gualdo",
+    "country": "IT",
+    "lat": 43.06585,
+    "lng": 13.34328
+  },
+  {
+    "name": "Guanzate",
+    "country": "IT",
+    "lat": 45.72758,
+    "lng": 9.01984
+  },
+  {
+    "name": "Gualtieri Sicaminò",
+    "country": "IT",
+    "lat": 38.16267,
+    "lng": 15.31699
+  },
+  {
+    "name": "Guarene",
+    "country": "IT",
+    "lat": 44.74004,
+    "lng": 8.03514
+  },
+  {
+    "name": "Gurro",
+    "country": "IT",
+    "lat": 46.08498,
+    "lng": 8.56772
+  },
+  {
+    "name": "Guardabosone",
+    "country": "IT",
+    "lat": 45.70187,
+    "lng": 8.24932
+  },
+  {
+    "name": "Guardavalle Marina",
+    "country": "IT",
+    "lat": 38.47957,
+    "lng": 16.57656
+  },
+  {
+    "name": "Guidomandri Marina",
+    "country": "IT",
+    "lat": 38.04528,
+    "lng": 15.46303
+  },
+  {
+    "name": "Guinzano",
+    "country": "IT",
+    "lat": 45.25678,
+    "lng": 9.15869
+  },
+  {
+    "name": "Gushikawa",
+    "country": "JP",
+    "lat": 26.35937,
+    "lng": 127.86735
+  },
+  {
+    "name": "Gujō",
+    "country": "JP",
+    "lat": 35.73691,
+    "lng": 136.95852
+  },
+  {
+    "name": "Gul’cha",
+    "country": "KG",
+    "lat": 40.3138,
+    "lng": 73.44418
+  },
+  {
+    "name": "Guryongpo",
+    "country": "KR",
+    "lat": 35.98994,
+    "lng": 129.55377
+  },
+  {
+    "name": "Guri-si",
+    "country": "KR",
+    "lat": 37.5986,
+    "lng": 127.1394
+  },
+  {
+    "name": "Gunsan",
+    "country": "KR",
+    "lat": 35.97861,
+    "lng": 126.71139
+  },
+  {
+    "name": "Gunpo",
+    "country": "KR",
+    "lat": 37.3675,
+    "lng": 126.94694
+  },
+  {
+    "name": "Gumi",
+    "country": "KR",
+    "lat": 36.1136,
+    "lng": 128.336
+  },
+  {
+    "name": "Gunbuk",
+    "country": "KR",
+    "lat": 36.33055,
+    "lng": 127.53366
+  },
+  {
+    "name": "Gunseo",
+    "country": "KR",
+    "lat": 36.27887,
+    "lng": 127.52689
+  },
+  {
+    "name": "Gunbuk",
+    "country": "KR",
+    "lat": 36.1678,
+    "lng": 127.5274
+  },
+  {
+    "name": "Gujeong",
+    "country": "KR",
+    "lat": 37.71904,
+    "lng": 128.8799
+  },
+  {
+    "name": "Gunnam",
+    "country": "KR",
+    "lat": 35.24032,
+    "lng": 126.4528
+  },
+  {
+    "name": "Gunseo",
+    "country": "KR",
+    "lat": 35.25851,
+    "lng": 126.47516
+  },
+  {
+    "name": "Gurim",
+    "country": "KR",
+    "lat": 35.4536,
+    "lng": 127.10232
+  },
+  {
+    "name": "Gun Bay",
+    "country": "KY",
+    "lat": 19.31077,
+    "lng": -81.09202
+  },
+  {
+    "name": "Gulbene",
+    "country": "LV",
+    "lat": 57.17767,
+    "lng": 26.75291
+  },
+  {
+    "name": "Gueznaia",
+    "country": "MA",
+    "lat": 35.70211,
+    "lng": -5.89044
+  },
+  {
+    "name": "Guisser",
+    "country": "MA",
+    "lat": 32.76645,
+    "lng": -7.49818
+  },
+  {
+    "name": "Guercif",
+    "country": "MA",
+    "lat": 34.22568,
+    "lng": -3.35361
+  },
+  {
+    "name": "Guenfouda",
+    "country": "MA",
+    "lat": 34.48361,
+    "lng": -2.04562
+  },
+  {
+    "name": "Guelmim",
+    "country": "MA",
+    "lat": 28.98696,
+    "lng": -10.05738
+  },
+  {
+    "name": "Gueltat Zemmour",
+    "country": "MA",
+    "lat": 25.14276,
+    "lng": -12.37168
+  },
+  {
+    "name": "Gusinje",
+    "country": "ME",
+    "lat": 42.56194,
+    "lng": 19.83389
+  },
+  {
+    "name": "Gurgurnica",
+    "country": "MK",
+    "lat": 41.84508,
+    "lng": 21.10538
+  },
+  {
+    "name": "Guerou",
+    "country": "MR",
+    "lat": 17.07754,
+    "lng": -12.03869
+  },
+  {
+    "name": "Gudja",
+    "country": "MT",
+    "lat": 35.85055,
+    "lng": 14.50593
+  },
+  {
+    "name": "Guraidhoo",
+    "country": "MV",
+    "lat": 2.32473,
+    "lng": 73.31846
+  },
+  {
+    "name": "Guraidhoo",
+    "country": "MV",
+    "lat": 3.90045,
+    "lng": 73.46623
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 24.0823,
+    "lng": -98.23258
+  },
+  {
+    "name": "Gustavo Adolfo Madero",
+    "country": "MX",
+    "lat": 19.49392,
+    "lng": -99.11075
+  },
+  {
+    "name": "Guillermo Zúñiga",
+    "country": "MX",
+    "lat": 24.01982,
+    "lng": -99.1927
+  },
+  {
+    "name": "Gutiérrez Zamora",
+    "country": "MX",
+    "lat": 21.36806,
+    "lng": -97.79842
+  },
+  {
+    "name": "Gutiérrez Zamora",
+    "country": "MX",
+    "lat": 20.45347,
+    "lng": -97.08588
+  },
+  {
+    "name": "Guixé",
+    "country": "MX",
+    "lat": 16.46991,
+    "lng": -96.70271
+  },
+  {
+    "name": "Guaytalpa",
+    "country": "MX",
+    "lat": 18.21546,
+    "lng": -93.03163
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 15.60657,
+    "lng": -92.06277
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 14.80387,
+    "lng": -92.25107
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 24.89396,
+    "lng": -99.47115
+  },
+  {
+    "name": "Guadalupe Tlachco",
+    "country": "MX",
+    "lat": 19.32852,
+    "lng": -98.11044
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 18.8156,
+    "lng": -96.92444
+  },
+  {
+    "name": "Guadalupe Santa Ana",
+    "country": "MX",
+    "lat": 18.0914,
+    "lng": -98.12079
+  },
+  {
+    "name": "Guadalupe Hidalgo",
+    "country": "MX",
+    "lat": 17.1495,
+    "lng": -96.81109
+  },
+  {
+    "name": "Guadalupe Grijalva",
+    "country": "MX",
+    "lat": 15.69899,
+    "lng": -92.16414
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 14.98033,
+    "lng": -92.33938
+  },
+  {
+    "name": "Guadalupe Etla",
+    "country": "MX",
+    "lat": 17.17268,
+    "lng": -96.81022
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 16.89627,
+    "lng": -95.84981
+  },
+  {
+    "name": "Guatacalca",
+    "country": "MX",
+    "lat": 18.16661,
+    "lng": -92.97838
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 20.03748,
+    "lng": -98.26864
+  },
+  {
+    "name": "Guadalupe Texcalac",
+    "country": "MX",
+    "lat": 19.43839,
+    "lng": -98.07806
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 16.62693,
+    "lng": -93.33474
+  },
+  {
+    "name": "Guaquitepec",
+    "country": "MX",
+    "lat": 16.98017,
+    "lng": -92.28795
+  },
+  {
+    "name": "Guadalupe Sarabia",
+    "country": "MX",
+    "lat": 19.53096,
+    "lng": -97.42752
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 19.2911,
+    "lng": -97.3429
+  },
+  {
+    "name": "Guadalupe Libertad",
+    "country": "MX",
+    "lat": 19.18789,
+    "lng": -97.38744
+  },
+  {
+    "name": "Guadalupe Enríquez",
+    "country": "MX",
+    "lat": 18.89374,
+    "lng": -97.58759
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 19.54167,
+    "lng": -97.27789
+  },
+  {
+    "name": "Guillermo Prieto",
+    "country": "MX",
+    "lat": 18.16077,
+    "lng": -94.27658
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 20.16827,
+    "lng": -96.91429
+  },
+  {
+    "name": "Gutiérrez Zamora",
+    "country": "MX",
+    "lat": 19.72417,
+    "lng": -97.215
+  },
+  {
+    "name": "Guadalupe Cachi",
+    "country": "MX",
+    "lat": 19.60111,
+    "lng": -99.825
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 24.2994,
+    "lng": -107.27088
+  },
+  {
+    "name": "Gustavo Díaz Ordaz",
+    "country": "MX",
+    "lat": 25.26723,
+    "lng": -108.09559
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 21.70106,
+    "lng": -101.61778
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 32.28924,
+    "lng": -115.10534
+  },
+  {
+    "name": "Guadalupe de Tambula",
+    "country": "MX",
+    "lat": 20.86645,
+    "lng": -100.5762
+  },
+  {
+    "name": "Guerrero",
+    "country": "MX",
+    "lat": 28.30884,
+    "lng": -100.37877
+  },
+  {
+    "name": "Guatimapé",
+    "country": "MX",
+    "lat": 24.8071,
+    "lng": -104.92026
+  },
+  {
+    "name": "Guasavito",
+    "country": "MX",
+    "lat": 25.55258,
+    "lng": -108.43505
+  },
+  {
+    "name": "Guasave",
+    "country": "MX",
+    "lat": 25.56792,
+    "lng": -108.46949
+  },
+  {
+    "name": "Guanajuato",
+    "country": "MX",
+    "lat": 21.01858,
+    "lng": -101.2591
+  },
+  {
+    "name": "Guanajuatillo",
+    "country": "MX",
+    "lat": 22.71376,
+    "lng": -102.14281
+  },
+  {
+    "name": "Guanaceví",
+    "country": "MX",
+    "lat": 25.93212,
+    "lng": -105.95534
+  },
+  {
+    "name": "Guamúchil",
+    "country": "MX",
+    "lat": 25.4587,
+    "lng": -108.07732
+  },
+  {
+    "name": "Guadalupe y Calvo",
+    "country": "MX",
+    "lat": 26.09518,
+    "lng": -106.96465
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 31.53396,
+    "lng": -107.73835
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 28.33304,
+    "lng": -105.42775
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 24.44676,
+    "lng": -104.12336
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 21.67972,
+    "lng": -105.3275
+  },
+  {
+    "name": "Guadalupe Septién",
+    "country": "MX",
+    "lat": 20.52715,
+    "lng": -100.11372
+  },
+  {
+    "name": "Guadalupe de Paso Blanco",
+    "country": "MX",
+    "lat": 20.75498,
+    "lng": -101.40345
+  },
+  {
+    "name": "Guadalupe de Lerma",
+    "country": "MX",
+    "lat": 20.34077,
+    "lng": -102.3609
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 31.38946,
+    "lng": -106.10171
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 25.67678,
+    "lng": -100.25646
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 22.74678,
+    "lng": -102.5188
+  },
+  {
+    "name": "Guadalupe de Rivera",
+    "country": "MX",
+    "lat": 20.60499,
+    "lng": -101.46745
+  },
+  {
+    "name": "Guadalcázar",
+    "country": "MX",
+    "lat": 22.61804,
+    "lng": -100.39936
+  },
+  {
+    "name": "Guadalajara",
+    "country": "MX",
+    "lat": 20.67738,
+    "lng": -103.34749
+  },
+  {
+    "name": "Guachochi",
+    "country": "MX",
+    "lat": 26.81906,
+    "lng": -107.06903
+  },
+  {
+    "name": "Guachinango",
+    "country": "MX",
+    "lat": 20.57576,
+    "lng": -104.38152
+  },
+  {
+    "name": "Guaymitas",
+    "country": "MX",
+    "lat": 27.11028,
+    "lng": -109.43833
+  },
+  {
+    "name": "Guerrero",
+    "country": "MX",
+    "lat": 28.54795,
+    "lng": -107.48648
+  },
+  {
+    "name": "Guadalupe de Atlas",
+    "country": "MX",
+    "lat": 22.26653,
+    "lng": -102.03118
+  },
+  {
+    "name": "Guerrero Negro",
+    "country": "MX",
+    "lat": 27.96005,
+    "lng": -114.05589
+  },
+  {
+    "name": "Guadalupe",
+    "country": "MX",
+    "lat": 21.71644,
+    "lng": -100.97645
+  },
+  {
+    "name": "Guadalupe del Monte",
+    "country": "MX",
+    "lat": 20.55688,
+    "lng": -100.64064
+  },
+  {
+    "name": "Guándaro",
+    "country": "MX",
+    "lat": 20.19201,
+    "lng": -101.87398
+  },
+  {
+    "name": "Guacamayas",
+    "country": "MX",
+    "lat": 18.01932,
+    "lng": -102.21225
+  },
+  {
+    "name": "Guadalupe Buenavista",
+    "country": "MX",
+    "lat": 19.61194,
+    "lng": -100.1272
+  },
+  {
+    "name": "Guayameo",
+    "country": "MX",
+    "lat": 18.30407,
+    "lng": -101.26167
+  },
+  {
+    "name": "Guayalejo",
+    "country": "MX",
+    "lat": 22.38306,
+    "lng": -98.48306
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 19.55472,
+    "lng": -96.96056
+  },
+  {
+    "name": "Guadalupe Zaragoza",
+    "country": "MX",
+    "lat": 19.35833,
+    "lng": -98.5375
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 16.75611,
+    "lng": -98.18167
+  },
+  {
+    "name": "Gunyo Poniente (San José Gunyo)",
+    "country": "MX",
+    "lat": 20.11149,
+    "lng": -99.83861
+  },
+  {
+    "name": "Guadalupe Minerva",
+    "country": "MX",
+    "lat": 20.12583,
+    "lng": -98.71389
+  },
+  {
+    "name": "Guásimas (De Belem)",
+    "country": "MX",
+    "lat": 27.88583,
+    "lng": -110.58167
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 16.405,
+    "lng": -92.5525
+  },
+  {
+    "name": "Guadalupe Totoltepec",
+    "country": "MX",
+    "lat": 19.34833,
+    "lng": -99.56417
+  },
+  {
+    "name": "Guadalupe Coté",
+    "country": "MX",
+    "lat": 19.61075,
+    "lng": -99.98499
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 19.55972,
+    "lng": -97.66
+  },
+  {
+    "name": "Guadalupe Hidalgo",
+    "country": "MX",
+    "lat": 19.22611,
+    "lng": -98.1875
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 22.16333,
+    "lng": -101.07
+  },
+  {
+    "name": "Guadalupe Calderón",
+    "country": "MX",
+    "lat": 18.96611,
+    "lng": -97.85833
+  },
+  {
+    "name": "Guadalupe Victoria",
+    "country": "MX",
+    "lat": 19.10444,
+    "lng": -97.60556
+  },
+  {
+    "name": "Guadalupe Morelos",
+    "country": "MX",
+    "lat": 19.02556,
+    "lng": -97.80417
+  },
+  {
+    "name": "Gua Musang",
+    "country": "MY",
+    "lat": 4.88441,
+    "lng": 101.96857
+  },
+  {
+    "name": "Gurun",
+    "country": "MY",
+    "lat": 5.81717,
+    "lng": 100.47381
+  },
+  {
+    "name": "Guar Chempedak",
+    "country": "MY",
+    "lat": 5.85846,
+    "lng": 100.45928
+  },
+  {
+    "name": "Gunong",
+    "country": "MY",
+    "lat": 6.19011,
+    "lng": 100.34135
+  },
+  {
+    "name": "Gurúè",
+    "country": "MZ",
+    "lat": -15.46694,
+    "lng": 36.97778
+  },
+  {
+    "name": "Guidan Roumdji",
+    "country": "NE",
+    "lat": 13.6576,
+    "lng": 6.69567
+  },
+  {
+    "name": "Guyuk",
+    "country": "NG",
+    "lat": 9.90663,
+    "lng": 11.92753
+  },
+  {
+    "name": "Gusau",
+    "country": "NG",
+    "lat": 12.17024,
+    "lng": 6.66412
+  },
+  {
+    "name": "Guri",
+    "country": "NG",
+    "lat": 12.7281,
+    "lng": 10.41989
+  },
+  {
+    "name": "Gummi",
+    "country": "NG",
+    "lat": 12.14484,
+    "lng": 5.11776
+  },
+  {
+    "name": "Gumel",
+    "country": "NG",
+    "lat": 12.6269,
+    "lng": 9.38807
+  },
+  {
+    "name": "Gulma",
+    "country": "NG",
+    "lat": 12.64231,
+    "lng": 4.35545
+  },
+  {
+    "name": "Gulak",
+    "country": "NG",
+    "lat": 10.8053,
+    "lng": 13.45824
+  },
+  {
+    "name": "Gujba",
+    "country": "NG",
+    "lat": 11.49959,
+    "lng": 11.93396
+  },
+  {
+    "name": "Gudumbali",
+    "country": "NG",
+    "lat": 12.94284,
+    "lng": 13.17831
+  },
+  {
+    "name": "Gubio",
+    "country": "NG",
+    "lat": 12.49749,
+    "lng": 12.78089
+  },
+  {
+    "name": "Guttecoven",
+    "country": "NL",
+    "lat": 51.015,
+    "lng": 5.81806
+  },
+  {
+    "name": "Gulpen",
+    "country": "NL",
+    "lat": 50.81583,
+    "lng": 5.88889
+  },
+  {
+    "name": "Gulden Bodem",
+    "country": "NL",
+    "lat": 51.99428,
+    "lng": 5.8908
+  },
+  {
+    "name": "Gullhaug",
+    "country": "NO",
+    "lat": 59.5013,
+    "lng": 10.25224
+  },
+  {
+    "name": "Gulariyā",
+    "country": "NP",
+    "lat": 28.2058,
+    "lng": 81.34532
+  },
+  {
+    "name": "Guzmán",
+    "country": "PA",
+    "lat": 8.52264,
+    "lng": -80.58554
+  },
+  {
+    "name": "Guayabito",
+    "country": "PA",
+    "lat": 8.54994,
+    "lng": -80.01271
+  },
+  {
+    "name": "Guayabal",
+    "country": "PA",
+    "lat": 8.61788,
+    "lng": -82.57915
+  },
+  {
+    "name": "Guarumal",
+    "country": "PA",
+    "lat": 8.34787,
+    "lng": -82.52977
+  },
+  {
+    "name": "Guarumal",
+    "country": "PA",
+    "lat": 7.79886,
+    "lng": -81.25846
+  },
+  {
+    "name": "Guararé Arriba",
+    "country": "PA",
+    "lat": 7.80798,
+    "lng": -80.35919
+  },
+  {
+    "name": "Guararé",
+    "country": "PA",
+    "lat": 7.8198,
+    "lng": -80.2809
+  },
+  {
+    "name": "Gualaca",
+    "country": "PA",
+    "lat": 8.53006,
+    "lng": -82.29971
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PA",
+    "lat": 8.86064,
+    "lng": -79.81184
+  },
+  {
+    "name": "Guacá Arriba",
+    "country": "PA",
+    "lat": 8.53952,
+    "lng": -82.49408
+  },
+  {
+    "name": "Guabito",
+    "country": "PA",
+    "lat": 9.49437,
+    "lng": -82.61152
+  },
+  {
+    "name": "Guabal",
+    "country": "PA",
+    "lat": 8.57466,
+    "lng": -82.5373
+  },
+  {
+    "name": "Guayabito",
+    "country": "PA",
+    "lat": 8.53956,
+    "lng": -81.48209
+  },
+  {
+    "name": "Guadalupito",
+    "country": "PE",
+    "lat": -8.95028,
+    "lng": -78.62278
+  },
+  {
+    "name": "Guzmango",
+    "country": "PE",
+    "lat": -7.385,
+    "lng": -78.89636
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PE",
+    "lat": -7.25,
+    "lng": -79.48333
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PE",
+    "lat": -13.986,
+    "lng": -75.77281
+  },
+  {
+    "name": "Guyong",
+    "country": "PH",
+    "lat": 14.8361,
+    "lng": 120.97844
+  },
+  {
+    "name": "Guyam Malaki",
+    "country": "PH",
+    "lat": 14.1525,
+    "lng": 120.86111
+  },
+  {
+    "name": "Gutalac",
+    "country": "PH",
+    "lat": 7.9825,
+    "lng": 122.40472
+  },
+  {
+    "name": "Gutad",
+    "country": "PH",
+    "lat": 14.9274,
+    "lng": 120.4894
+  },
+  {
+    "name": "Guruyan",
+    "country": "PH",
+    "lat": 12.73889,
+    "lng": 123.93917
+  },
+  {
+    "name": "Gupitan",
+    "country": "PH",
+    "lat": 7.77583,
+    "lng": 125.64056
+  },
+  {
+    "name": "Gumian",
+    "country": "PH",
+    "lat": 14.71006,
+    "lng": 121.61867
+  },
+  {
+    "name": "Gumaus",
+    "country": "PH",
+    "lat": 14.3103,
+    "lng": 122.7229
+  },
+  {
+    "name": "Gumalang",
+    "country": "PH",
+    "lat": 7.20833,
+    "lng": 125.40361
+  },
+  {
+    "name": "Gumaca",
+    "country": "PH",
+    "lat": 13.921,
+    "lng": 122.1002
+  },
+  {
+    "name": "Gulod",
+    "country": "PH",
+    "lat": 13.87514,
+    "lng": 120.63359
+  },
+  {
+    "name": "Guiwanon",
+    "country": "PH",
+    "lat": 11.1975,
+    "lng": 123.708
+  },
+  {
+    "name": "Guiuan",
+    "country": "PH",
+    "lat": 11.03088,
+    "lng": 125.72342
+  },
+  {
+    "name": "Guisijan",
+    "country": "PH",
+    "lat": 11.0932,
+    "lng": 122.0461
+  },
+  {
+    "name": "Guisguis",
+    "country": "PH",
+    "lat": 15.7928,
+    "lng": 119.9766
+  },
+  {
+    "name": "Guisguis",
+    "country": "PH",
+    "lat": 13.8738,
+    "lng": 121.5189
+  },
+  {
+    "name": "Guiset East",
+    "country": "PH",
+    "lat": 16.06667,
+    "lng": 120.68333
+  },
+  {
+    "name": "Guirang",
+    "country": "PH",
+    "lat": 11.35,
+    "lng": 125.11667
+  },
+  {
+    "name": "Guipos",
+    "country": "PH",
+    "lat": 7.7161,
+    "lng": 123.3219
+  },
+  {
+    "name": "Guiong",
+    "country": "PH",
+    "lat": 6.41861,
+    "lng": 122.02583
+  },
+  {
+    "name": "Guintubhan",
+    "country": "PH",
+    "lat": 10.2074,
+    "lng": 122.9627
+  },
+  {
+    "name": "Guinticgan",
+    "country": "PH",
+    "lat": 11.5641,
+    "lng": 123.1236
+  },
+  {
+    "name": "Guinisiliban",
+    "country": "PH",
+    "lat": 9.09639,
+    "lng": 124.78278
+  },
+  {
+    "name": "Guinsang-an",
+    "country": "PH",
+    "lat": 6.46499,
+    "lng": 124.68491
+  },
+  {
+    "name": "Guinsadan",
+    "country": "PH",
+    "lat": 16.9642,
+    "lng": 120.868
+  },
+  {
+    "name": "Guinobatan",
+    "country": "PH",
+    "lat": 13.1913,
+    "lng": 123.5987
+  },
+  {
+    "name": "Guinlo",
+    "country": "PH",
+    "lat": 10.8009,
+    "lng": 119.4383
+  },
+  {
+    "name": "Guindulman",
+    "country": "PH",
+    "lat": 9.7629,
+    "lng": 124.4878
+  },
+  {
+    "name": "Guindarohan",
+    "country": "PH",
+    "lat": 10.26111,
+    "lng": 123.76556
+  },
+  {
+    "name": "Guindapunan",
+    "country": "PH",
+    "lat": 11.30278,
+    "lng": 124.70583
+  },
+  {
+    "name": "Guinoaliuan",
+    "country": "PH",
+    "lat": 11.6576,
+    "lng": 122.3851
+  },
+  {
+    "name": "Guinayangan, Fourth District of Quezon",
+    "country": "PH",
+    "lat": 13.9002,
+    "lng": 122.44808
+  },
+  {
+    "name": "Guinabsan",
+    "country": "PH",
+    "lat": 8.8975,
+    "lng": 125.41611
+  },
+  {
+    "name": "Guinacotan",
+    "country": "PH",
+    "lat": 14.1569,
+    "lng": 122.868
+  },
+  {
+    "name": "Guimbal",
+    "country": "PH",
+    "lat": 10.6633,
+    "lng": 122.3228
+  },
+  {
+    "name": "Guimba",
+    "country": "PH",
+    "lat": 15.6605,
+    "lng": 120.7683
+  },
+  {
+    "name": "Guiljungan",
+    "country": "PH",
+    "lat": 9.9805,
+    "lng": 122.6742
+  },
+  {
+    "name": "Guiling",
+    "country": "PH",
+    "lat": 15.84295,
+    "lng": 120.61513
+  },
+  {
+    "name": "Guijalo",
+    "country": "PH",
+    "lat": 13.7373,
+    "lng": 123.868
+  },
+  {
+    "name": "Guihulñgan",
+    "country": "PH",
+    "lat": 10.11947,
+    "lng": 123.27287
+  },
+  {
+    "name": "Guihing Proper",
+    "country": "PH",
+    "lat": 6.68444,
+    "lng": 125.3525
+  },
+  {
+    "name": "Guiguinto",
+    "country": "PH",
+    "lat": 14.83333,
+    "lng": 120.88333
+  },
+  {
+    "name": "Guiddam",
+    "country": "PH",
+    "lat": 18.33493,
+    "lng": 121.46617
+  },
+  {
+    "name": "Guibodangan",
+    "country": "PH",
+    "lat": 10.11521,
+    "lng": 123.49376
+  },
+  {
+    "name": "Gueset",
+    "country": "PH",
+    "lat": 15.95,
+    "lng": 120.63333
+  },
+  {
+    "name": "Gubat",
+    "country": "PH",
+    "lat": 12.92056,
+    "lng": 124.12306
+  },
+  {
+    "name": "Guba",
+    "country": "PH",
+    "lat": 10.3131,
+    "lng": 123.2667
+  },
+  {
+    "name": "Guagua",
+    "country": "PH",
+    "lat": 14.9653,
+    "lng": 120.6325
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PH",
+    "lat": 11.00444,
+    "lng": 124.01389
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PH",
+    "lat": 10.45447,
+    "lng": 123.3732
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PH",
+    "lat": 10.1165,
+    "lng": 123.6072
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PH",
+    "lat": 9.7236,
+    "lng": 123.4018
+  },
+  {
+    "name": "Guadalupe",
+    "country": "PH",
+    "lat": 8.58278,
+    "lng": 125.70806
+  },
+  {
+    "name": "Guiniculalay",
+    "country": "PH",
+    "lat": 7.65611,
+    "lng": 123.39139
+  },
+  {
+    "name": "Gubaan",
+    "country": "PH",
+    "lat": 7.9748,
+    "lng": 123.564
+  },
+  {
+    "name": "Gulod",
+    "country": "PH",
+    "lat": 14.3449,
+    "lng": 121.2177
+  },
+  {
+    "name": "Gujrat",
+    "country": "PK",
+    "lat": 32.5742,
+    "lng": 74.07542
+  },
+  {
+    "name": "Gujranwala",
+    "country": "PK",
+    "lat": 32.15567,
+    "lng": 74.18705
+  },
+  {
+    "name": "Gujar Khan",
+    "country": "PK",
+    "lat": 33.25411,
+    "lng": 73.30433
+  },
+  {
+    "name": "Gulishah Kach",
+    "country": "PK",
+    "lat": 32.67087,
+    "lng": 70.33917
+  },
+  {
+    "name": "Guzów",
+    "country": "PL",
+    "lat": 52.11626,
+    "lng": 20.33672
+  },
+  {
+    "name": "Gubin",
+    "country": "PL",
+    "lat": 51.94956,
+    "lng": 14.72837
+  },
+  {
+    "name": "Guánica",
+    "country": "PR",
+    "lat": 17.97163,
+    "lng": -66.90795
+  },
+  {
+    "name": "Guayabal",
+    "country": "PR",
+    "lat": 18.08135,
+    "lng": -66.50128
+  },
+  {
+    "name": "Guayama",
+    "country": "PR",
+    "lat": 17.98413,
+    "lng": -66.11378
+  },
+  {
+    "name": "Guayanilla",
+    "country": "PR",
+    "lat": 18.01913,
+    "lng": -66.79184
+  },
+  {
+    "name": "Guaynabo",
+    "country": "PR",
+    "lat": 18.35745,
+    "lng": -66.111
+  },
+  {
+    "name": "Gurabo",
+    "country": "PR",
+    "lat": 18.2544,
+    "lng": -65.97294
+  },
+  {
+    "name": "Guia",
+    "country": "PT",
+    "lat": 37.12959,
+    "lng": -8.29963
+  },
+  {
+    "name": "Gulpilhares",
+    "country": "PT",
+    "lat": 41.08292,
+    "lng": -8.62679
+  },
+  {
+    "name": "Guisande",
+    "country": "PT",
+    "lat": 41.48264,
+    "lng": -8.44564
+  },
+  {
+    "name": "Gueifães",
+    "country": "PT",
+    "lat": 41.21667,
+    "lng": -8.6
+  },
+  {
+    "name": "Guimarães",
+    "country": "PT",
+    "lat": 41.44443,
+    "lng": -8.29619
+  },
+  {
+    "name": "Guifões",
+    "country": "PT",
+    "lat": 41.19748,
+    "lng": -8.66899
+  },
+  {
+    "name": "Gueral",
+    "country": "PT",
+    "lat": 41.45859,
+    "lng": -8.62946
+  },
+  {
+    "name": "Guarda",
+    "country": "PT",
+    "lat": 40.53754,
+    "lng": -7.26631
+  },
+  {
+    "name": "Gualtar",
+    "country": "PT",
+    "lat": 41.56502,
+    "lng": -8.38549
+  },
+  {
+    "name": "Guajayvi",
+    "country": "PY",
+    "lat": -24.53333,
+    "lng": -56.40392
+  },
+  {
+    "name": "Guarambaré",
+    "country": "PY",
+    "lat": -25.49096,
+    "lng": -57.45567
+  },
+  {
+    "name": "Guşoeni",
+    "country": "RO",
+    "lat": 44.73333,
+    "lng": 24.11667
+  },
+  {
+    "name": "Guruieni",
+    "country": "RO",
+    "lat": 44.05845,
+    "lng": 25.39656
+  },
+  {
+    "name": "Gurghiu",
+    "country": "RO",
+    "lat": 46.76667,
+    "lng": 24.85
+  },
+  {
+    "name": "Gurbediu",
+    "country": "RO",
+    "lat": 46.79379,
+    "lng": 21.8648
+  },
+  {
+    "name": "Gurbăneşti",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 26.7
+  },
+  {
+    "name": "Gurba",
+    "country": "RO",
+    "lat": 46.46756,
+    "lng": 21.78789
+  },
+  {
+    "name": "Gura Vulcanei",
+    "country": "RO",
+    "lat": 45.02442,
+    "lng": 25.39596
+  },
+  {
+    "name": "Gura Viţioarei",
+    "country": "RO",
+    "lat": 45.15,
+    "lng": 26.03333
+  },
+  {
+    "name": "Gura Văii",
+    "country": "RO",
+    "lat": 46.33333,
+    "lng": 26.73333
+  },
+  {
+    "name": "Gura Văii",
+    "country": "RO",
+    "lat": 46.27234,
+    "lng": 26.82604
+  },
+  {
+    "name": "Gura Văii",
+    "country": "RO",
+    "lat": 44.66732,
+    "lng": 22.55646
+  },
+  {
+    "name": "Gura Vadului",
+    "country": "RO",
+    "lat": 45.05,
+    "lng": 26.46667
+  },
+  {
+    "name": "Gura Teghii",
+    "country": "RO",
+    "lat": 45.48333,
+    "lng": 26.41667
+  },
+  {
+    "name": "Gura Şuţii",
+    "country": "RO",
+    "lat": 44.75,
+    "lng": 25.51667
+  },
+  {
+    "name": "Gura Suhașului",
+    "country": "RO",
+    "lat": 45.08803,
+    "lng": 24.29886
+  },
+  {
+    "name": "Gura Râului",
+    "country": "RO",
+    "lat": 45.73333,
+    "lng": 23.98333
+  },
+  {
+    "name": "Gura Putnei",
+    "country": "RO",
+    "lat": 47.89951,
+    "lng": 25.5951
+  },
+  {
+    "name": "Gura Padinii",
+    "country": "RO",
+    "lat": 43.75704,
+    "lng": 24.31615
+  },
+  {
+    "name": "Gura Ocniței",
+    "country": "RO",
+    "lat": 44.94166,
+    "lng": 25.56846
+  },
+  {
+    "name": "Gura Ialomiței",
+    "country": "RO",
+    "lat": 44.71608,
+    "lng": 27.7531
+  },
+  {
+    "name": "Gura Humorului",
+    "country": "RO",
+    "lat": 47.55,
+    "lng": 25.9
+  },
+  {
+    "name": "Gurahonţ",
+    "country": "RO",
+    "lat": 46.26667,
+    "lng": 22.35
+  },
+  {
+    "name": "Gura Foii",
+    "country": "RO",
+    "lat": 44.75,
+    "lng": 25.28333
+  },
+  {
+    "name": "Gura Căluiu",
+    "country": "RO",
+    "lat": 44.45903,
+    "lng": 24.03547
+  },
+  {
+    "name": "Gura Caliţei",
+    "country": "RO",
+    "lat": 45.58333,
+    "lng": 27.01667
+  },
+  {
+    "name": "Gura Beliei",
+    "country": "RO",
+    "lat": 45.21064,
+    "lng": 25.64946
+  },
+  {
+    "name": "Gulia",
+    "country": "RO",
+    "lat": 47.41203,
+    "lng": 26.60854
+  },
+  {
+    "name": "Gulia",
+    "country": "RO",
+    "lat": 44.54687,
+    "lng": 25.87304
+  },
+  {
+    "name": "Gugești",
+    "country": "RO",
+    "lat": 46.76342,
+    "lng": 27.9005
+  },
+  {
+    "name": "Gugeşti",
+    "country": "RO",
+    "lat": 45.56667,
+    "lng": 27.13333
+  },
+  {
+    "name": "Gurasada",
+    "country": "RO",
+    "lat": 45.95483,
+    "lng": 22.59491
+  },
+  {
+    "name": "Gudurica",
+    "country": "RS",
+    "lat": 45.16816,
+    "lng": 21.44264
+  },
+  {
+    "name": "Gus’-Zheleznyy",
+    "country": "RU",
+    "lat": 55.05811,
+    "lng": 41.16556
+  },
+  {
+    "name": "Gus’-Khrustal’nyy",
+    "country": "RU",
+    "lat": 55.61171,
+    "lng": 40.65023
+  },
+  {
+    "name": "Gusevskiy",
+    "country": "RU",
+    "lat": 55.66199,
+    "lng": 40.56267
+  },
+  {
+    "name": "Gusev",
+    "country": "RU",
+    "lat": 54.59222,
+    "lng": 22.19972
+  },
+  {
+    "name": "Gur’yevsk",
+    "country": "RU",
+    "lat": 54.77323,
+    "lng": 20.60521
+  },
+  {
+    "name": "Gurbuki",
+    "country": "RU",
+    "lat": 42.61128,
+    "lng": 47.60067
+  },
+  {
+    "name": "Gunib",
+    "country": "RU",
+    "lat": 42.38689,
+    "lng": 46.961
+  },
+  {
+    "name": "Gundorovskiy",
+    "country": "RU",
+    "lat": 46.78047,
+    "lng": 41.8968
+  },
+  {
+    "name": "Gundelen",
+    "country": "RU",
+    "lat": 43.5975,
+    "lng": 43.17194
+  },
+  {
+    "name": "Gumrak",
+    "country": "RU",
+    "lat": 48.78255,
+    "lng": 44.3824
+  },
+  {
+    "name": "Gul’kevichi",
+    "country": "RU",
+    "lat": 45.35383,
+    "lng": 40.69465
+  },
+  {
+    "name": "Gukovo",
+    "country": "RU",
+    "lat": 48.06212,
+    "lng": 39.9355
+  },
+  {
+    "name": "Gudermes",
+    "country": "RU",
+    "lat": 43.35082,
+    "lng": 46.10095
+  },
+  {
+    "name": "Gubskaya",
+    "country": "RU",
+    "lat": 44.31639,
+    "lng": 40.63583
+  },
+  {
+    "name": "Gubkin",
+    "country": "RU",
+    "lat": 51.28375,
+    "lng": 37.5351
+  },
+  {
+    "name": "Gubden",
+    "country": "RU",
+    "lat": 42.56808,
+    "lng": 47.56579
+  },
+  {
+    "name": "Gubakha",
+    "country": "RU",
+    "lat": 58.83862,
+    "lng": 57.55325
+  },
+  {
+    "name": "Gur’yevsk",
+    "country": "RU",
+    "lat": 54.28409,
+    "lng": 85.94806
+  },
+  {
+    "name": "Gubkinskiy",
+    "country": "RU",
+    "lat": 64.434,
+    "lng": 76.50261
+  },
+  {
+    "name": "Gusinoye Ozero",
+    "country": "RU",
+    "lat": 51.11444,
+    "lng": 106.26139
+  },
+  {
+    "name": "Gusinoozyorsk",
+    "country": "RU",
+    "lat": 51.28333,
+    "lng": 106.5
+  },
+  {
+    "name": "Guran",
+    "country": "RU",
+    "lat": 54.76127,
+    "lng": 100.64399
+  },
+  {
+    "name": "Gusum",
+    "country": "SE",
+    "lat": 58.2688,
+    "lng": 16.49894
+  },
+  {
+    "name": "Gustavsberg",
+    "country": "SE",
+    "lat": 59.32684,
+    "lng": 18.38975
+  },
+  {
+    "name": "Gustav Adolf",
+    "country": "SE",
+    "lat": 56.01667,
+    "lng": 14.25
+  },
+  {
+    "name": "Gunnebo",
+    "country": "SE",
+    "lat": 57.71667,
+    "lng": 16.53333
+  },
+  {
+    "name": "Gullspång",
+    "country": "SE",
+    "lat": 58.98615,
+    "lng": 14.09644
+  },
+  {
+    "name": "Gullbrandstorp",
+    "country": "SE",
+    "lat": 56.7,
+    "lng": 12.73333
+  },
+  {
+    "name": "Guinguinéo",
+    "country": "SN",
+    "lat": 14.26667,
+    "lng": -15.95
+  },
+  {
+    "name": "Guéoul",
+    "country": "SN",
+    "lat": 15.48333,
+    "lng": -16.35
+  },
+  {
+    "name": "Guédé",
+    "country": "SN",
+    "lat": 16.53839,
+    "lng": -14.80412
+  },
+  {
+    "name": "Guédiawaye",
+    "country": "SN",
+    "lat": 14.77446,
+    "lng": -17.40212
+  },
+  {
+    "name": "Guadalupe",
+    "country": "ST",
+    "lat": 0.37917,
+    "lng": 6.6375
+  },
+  {
+    "name": "Guazapa",
+    "country": "SV",
+    "lat": 13.87694,
+    "lng": -89.17306
+  },
+  {
+    "name": "Guaymango",
+    "country": "SV",
+    "lat": 13.75028,
+    "lng": -89.84222
+  },
+  {
+    "name": "Guatajiagua",
+    "country": "SV",
+    "lat": 13.66667,
+    "lng": -88.2
+  },
+  {
+    "name": "Guéréda",
+    "country": "TD",
+    "lat": 14.51667,
+    "lng": 22.08333
+  },
+  {
+    "name": "Guelendeng",
+    "country": "TD",
+    "lat": 10.91762,
+    "lng": 15.55011
+  },
+  {
+    "name": "Guérin-Kouka",
+    "country": "TG",
+    "lat": 9.69056,
+    "lng": 0.61139
+  },
+  {
+    "name": "Gumdag",
+    "country": "TM",
+    "lat": 39.20611,
+    "lng": 54.59056
+  },
+  {
+    "name": "Gubadag",
+    "country": "TM",
+    "lat": 42.07948,
+    "lng": 59.94964
+  },
+  {
+    "name": "Guanshan",
+    "country": "TW",
+    "lat": 23.04778,
+    "lng": 121.16278
+  },
+  {
+    "name": "Gurzuf",
+    "country": "UA",
+    "lat": 44.54624,
+    "lng": 34.27841
+  },
+  {
+    "name": "Gulu",
+    "country": "UG",
+    "lat": 2.77457,
+    "lng": 32.29899
+  },
+  {
+    "name": "Guin",
+    "country": "US",
+    "lat": 33.96566,
+    "lng": -87.91475
+  },
+  {
+    "name": "Gulf Shores",
+    "country": "US",
+    "lat": 30.24604,
+    "lng": -87.70082
+  },
+  {
+    "name": "Guntersville",
+    "country": "US",
+    "lat": 34.35823,
+    "lng": -86.29446
+  },
+  {
+    "name": "Gurdon",
+    "country": "US",
+    "lat": 33.92094,
+    "lng": -93.15406
+  },
+  {
+    "name": "Gulf Breeze",
+    "country": "US",
+    "lat": 30.35714,
+    "lng": -87.16386
+  },
+  {
+    "name": "Gulf Gate Estates",
+    "country": "US",
+    "lat": 27.25173,
+    "lng": -82.51471
+  },
+  {
+    "name": "Gulfport",
+    "country": "US",
+    "lat": 27.74836,
+    "lng": -82.70343
+  },
+  {
+    "name": "Gumlog",
+    "country": "US",
+    "lat": 34.49177,
+    "lng": -83.09654
+  },
+  {
+    "name": "Guyton",
+    "country": "US",
+    "lat": 32.3363,
+    "lng": -81.3915
+  },
+  {
+    "name": "Guthrie",
+    "country": "US",
+    "lat": 36.64838,
+    "lng": -87.16639
+  },
+  {
+    "name": "Gueydan",
+    "country": "US",
+    "lat": 30.02604,
+    "lng": -92.50847
+  },
+  {
+    "name": "Guilford",
+    "country": "US",
+    "lat": 39.33483,
+    "lng": -76.61802
+  },
+  {
+    "name": "Gulf Hills",
+    "country": "US",
+    "lat": 30.43048,
+    "lng": -88.84225
+  },
+  {
+    "name": "Gulf Park Estates",
+    "country": "US",
+    "lat": 30.39187,
+    "lng": -88.76114
+  },
+  {
+    "name": "Gulfport",
+    "country": "US",
+    "lat": 30.36742,
+    "lng": -89.09282
+  },
+  {
+    "name": "Guntown",
+    "country": "US",
+    "lat": 34.44316,
+    "lng": -88.65978
+  },
+  {
+    "name": "Guthrie",
+    "country": "US",
+    "lat": 35.87894,
+    "lng": -97.42532
+  },
+  {
+    "name": "Guilford Siding",
+    "country": "US",
+    "lat": 39.86537,
+    "lng": -77.61249
+  },
+  {
+    "name": "Gun Barrel City",
+    "country": "US",
+    "lat": 32.33459,
+    "lng": -96.15136
+  },
+  {
+    "name": "Gunter",
+    "country": "US",
+    "lat": 33.44789,
+    "lng": -96.74749
+  },
+  {
+    "name": "Gunter",
+    "country": "US",
+    "lat": 32.86873,
+    "lng": -95.62968
+  },
+  {
+    "name": "Guilford",
+    "country": "US",
+    "lat": 41.28899,
+    "lng": -72.68176
+  },
+  {
+    "name": "Guthrie Center",
+    "country": "US",
+    "lat": 41.67721,
+    "lng": -94.5033
+  },
+  {
+    "name": "Guttenberg",
+    "country": "US",
+    "lat": 42.78582,
+    "lng": -91.09957
+  },
+  {
+    "name": "Gurnee",
+    "country": "US",
+    "lat": 42.3703,
+    "lng": -87.90202
+  },
+  {
+    "name": "Gulivoire Park",
+    "country": "US",
+    "lat": 41.61338,
+    "lng": -86.24528
+  },
+  {
+    "name": "Guttenberg",
+    "country": "US",
+    "lat": 40.79205,
+    "lng": -74.00375
+  },
+  {
+    "name": "Guildhall",
+    "country": "US",
+    "lat": 44.56506,
+    "lng": -71.55981
+  },
+  {
+    "name": "Guadalupe",
+    "country": "US",
+    "lat": 33.37088,
+    "lng": -111.96292
+  },
+  {
+    "name": "Guadalupe",
+    "country": "US",
+    "lat": 34.97164,
+    "lng": -120.57184
+  },
+  {
+    "name": "Guerneville",
+    "country": "US",
+    "lat": 38.50186,
+    "lng": -122.99611
+  },
+  {
+    "name": "Gustine",
+    "country": "US",
+    "lat": 37.25772,
+    "lng": -120.99882
+  },
+  {
+    "name": "Gunnison",
+    "country": "US",
+    "lat": 38.54582,
+    "lng": -106.92532
+  },
+  {
+    "name": "Guymon",
+    "country": "US",
+    "lat": 36.6828,
+    "lng": -101.48155
+  },
+  {
+    "name": "Guthrie",
+    "country": "US",
+    "lat": 33.62064,
+    "lng": -100.32289
+  },
+  {
+    "name": "Gunnison",
+    "country": "US",
+    "lat": 39.15524,
+    "lng": -111.81826
+  },
+  {
+    "name": "Guernsey",
+    "country": "US",
+    "lat": 42.26969,
+    "lng": -104.74163
+  },
+  {
+    "name": "Guilford Center",
+    "country": "US",
+    "lat": 41.28156,
+    "lng": -72.67619
+  },
+  {
+    "name": "Guilford",
+    "country": "US",
+    "lat": 39.91541,
+    "lng": -77.60105
+  },
+  {
+    "name": "Gunbarrel",
+    "country": "US",
+    "lat": 40.06335,
+    "lng": -105.17107
+  },
+  {
+    "name": "Guichón",
+    "country": "UY",
+    "lat": -32.35846,
+    "lng": -57.19778
+  },
+  {
+    "name": "Gurlan",
+    "country": "UZ",
+    "lat": 41.84123,
+    "lng": 60.39268
+  },
+  {
+    "name": "Guliston",
+    "country": "UZ",
+    "lat": 40.49536,
+    "lng": 68.77542
+  },
+  {
+    "name": "Guayabal",
+    "country": "VE",
+    "lat": 8.00077,
+    "lng": -67.39732
+  },
+  {
+    "name": "Guatire",
+    "country": "VE",
+    "lat": 10.474,
+    "lng": -66.54241
+  },
+  {
+    "name": "Guasipati",
+    "country": "VE",
+    "lat": 7.47702,
+    "lng": -61.89666
+  },
+  {
+    "name": "Guarenas",
+    "country": "VE",
+    "lat": 10.47027,
+    "lng": -66.61934
+  },
+  {
+    "name": "Guaraque",
+    "country": "VE",
+    "lat": 8.15405,
+    "lng": -71.73562
+  },
+  {
+    "name": "Guanta",
+    "country": "VE",
+    "lat": 10.23453,
+    "lng": -64.59708
+  },
+  {
+    "name": "Guanarito",
+    "country": "VE",
+    "lat": 8.69625,
+    "lng": -69.20832
+  },
+  {
+    "name": "Guanare",
+    "country": "VE",
+    "lat": 9.03934,
+    "lng": -69.73364
+  },
+  {
+    "name": "Guama",
+    "country": "VE",
+    "lat": 10.26638,
+    "lng": -68.81986
+  },
+  {
+    "name": "Guadarrama",
+    "country": "VE",
+    "lat": 8.53508,
+    "lng": -68.04923
+  },
+  {
+    "name": "Guacara",
+    "country": "VE",
+    "lat": 10.22609,
+    "lng": -67.877
+  },
+  {
+    "name": "Guasdualito",
+    "country": "VE",
+    "lat": 7.24241,
+    "lng": -70.73235
+  }
+]

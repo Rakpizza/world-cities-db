@@ -1,0 +1,2228 @@
+[
+  {
+    "name": "Fushë-Muhurr",
+    "country": "AL",
+    "lat": 41.67972,
+    "lng": 20.33139
+  },
+  {
+    "name": "Fushë-Lurë",
+    "country": "AL",
+    "lat": 41.80611,
+    "lng": 20.23194
+  },
+  {
+    "name": "Fushë-Çidhnë",
+    "country": "AL",
+    "lat": 41.76056,
+    "lng": 20.34111
+  },
+  {
+    "name": "Fushë-Bulqizë",
+    "country": "AL",
+    "lat": 41.52194,
+    "lng": 20.28222
+  },
+  {
+    "name": "Fushë-Arrëz",
+    "country": "AL",
+    "lat": 42.06222,
+    "lng": 20.01667
+  },
+  {
+    "name": "Funarë",
+    "country": "AL",
+    "lat": 41.19639,
+    "lng": 20.05972
+  },
+  {
+    "name": "Fushëkuqe",
+    "country": "AL",
+    "lat": 41.65028,
+    "lng": 19.62
+  },
+  {
+    "name": "Fushë-Krujë",
+    "country": "AL",
+    "lat": 41.47833,
+    "lng": 19.71778
+  },
+  {
+    "name": "Funes",
+    "country": "AR",
+    "lat": -32.91568,
+    "lng": -60.80995
+  },
+  {
+    "name": "Fußach",
+    "country": "AT",
+    "lat": 47.47933,
+    "lng": 9.66278
+  },
+  {
+    "name": "Fuschl am See",
+    "country": "AT",
+    "lat": 47.8,
+    "lng": 13.3
+  },
+  {
+    "name": "Furth an der Triesting",
+    "country": "AT",
+    "lat": 47.97326,
+    "lng": 15.97326
+  },
+  {
+    "name": "Furth bei Göttweig",
+    "country": "AT",
+    "lat": 48.37385,
+    "lng": 15.61408
+  },
+  {
+    "name": "Fulpmes",
+    "country": "AT",
+    "lat": 47.15202,
+    "lng": 11.34922
+  },
+  {
+    "name": "Fullarton",
+    "country": "AU",
+    "lat": -34.951,
+    "lng": 138.629
+  },
+  {
+    "name": "Fulham Gardens",
+    "country": "AU",
+    "lat": -34.91483,
+    "lng": 138.51324
+  },
+  {
+    "name": "Fulham",
+    "country": "AU",
+    "lat": -34.92737,
+    "lng": 138.51368
+  },
+  {
+    "name": "Funilândia",
+    "country": "BR",
+    "lat": -19.3675,
+    "lng": -44.05611
+  },
+  {
+    "name": "Fundão",
+    "country": "BR",
+    "lat": -19.93408,
+    "lng": -40.40473
+  },
+  {
+    "name": "Fundy Bay",
+    "country": "CA",
+    "lat": 44.741,
+    "lng": -66.76041
+  },
+  {
+    "name": "Fungurume",
+    "country": "CD",
+    "lat": -10.61771,
+    "lng": 26.32107
+  },
+  {
+    "name": "Fully",
+    "country": "CH",
+    "lat": 46.13851,
+    "lng": 7.11468
+  },
+  {
+    "name": "Fulenbach",
+    "country": "CH",
+    "lat": 47.27103,
+    "lng": 7.83136
+  },
+  {
+    "name": "Futaleufú",
+    "country": "CL",
+    "lat": -43.18492,
+    "lng": -71.86722
+  },
+  {
+    "name": "Fundong",
+    "country": "CM",
+    "lat": 6.28,
+    "lng": 10.283
+  },
+  {
+    "name": "Fuyun",
+    "country": "CN",
+    "lat": 46.9919,
+    "lng": 89.52115
+  },
+  {
+    "name": "Funan Chengguanzhen",
+    "country": "CN",
+    "lat": 32.63678,
+    "lng": 115.61494
+  },
+  {
+    "name": "Fusui",
+    "country": "CN",
+    "lat": 22.63944,
+    "lng": 107.9075
+  },
+  {
+    "name": "Fuding",
+    "country": "CN",
+    "lat": 27.32734,
+    "lng": 120.21399
+  },
+  {
+    "name": "Fuyu",
+    "country": "CN",
+    "lat": 30.15,
+    "lng": 116.11667
+  },
+  {
+    "name": "Fuqing",
+    "country": "CN",
+    "lat": 25.7294,
+    "lng": 119.37469
+  },
+  {
+    "name": "Fucheng",
+    "country": "CN",
+    "lat": 35.3725,
+    "lng": 103.70556
+  },
+  {
+    "name": "Fu’an",
+    "country": "CN",
+    "lat": 27.09131,
+    "lng": 119.64446
+  },
+  {
+    "name": "Fuzhuang",
+    "country": "CN",
+    "lat": 39.26611,
+    "lng": 117.93444
+  },
+  {
+    "name": "Fuzhou",
+    "country": "CN",
+    "lat": 27.95999,
+    "lng": 116.33333
+  },
+  {
+    "name": "Fuzhou",
+    "country": "CN",
+    "lat": 26.06139,
+    "lng": 119.30611
+  },
+  {
+    "name": "Fujia",
+    "country": "CN",
+    "lat": 33.81889,
+    "lng": 105.95361
+  },
+  {
+    "name": "Fuyong",
+    "country": "CN",
+    "lat": 22.67214,
+    "lng": 113.81519
+  },
+  {
+    "name": "Fuyang",
+    "country": "CN",
+    "lat": 32.9,
+    "lng": 115.81667
+  },
+  {
+    "name": "Fuyang",
+    "country": "CN",
+    "lat": 30.05333,
+    "lng": 119.95194
+  },
+  {
+    "name": "Fuchuan",
+    "country": "CN",
+    "lat": 24.8139,
+    "lng": 111.29079
+  },
+  {
+    "name": "Furong",
+    "country": "CN",
+    "lat": 26.45,
+    "lng": 114.76667
+  },
+  {
+    "name": "Fuping",
+    "country": "CN",
+    "lat": 38.84999,
+    "lng": 114.19321
+  },
+  {
+    "name": "Funing",
+    "country": "CN",
+    "lat": 39.88405,
+    "lng": 119.2361
+  },
+  {
+    "name": "Fulu",
+    "country": "CN",
+    "lat": 30.65422,
+    "lng": 107.96832
+  },
+  {
+    "name": "Fuling",
+    "country": "CN",
+    "lat": 29.70997,
+    "lng": 107.39391
+  },
+  {
+    "name": "Fuliang",
+    "country": "CN",
+    "lat": 29.37639,
+    "lng": 117.24667
+  },
+  {
+    "name": "Fushi",
+    "country": "CN",
+    "lat": 29.18382,
+    "lng": 105.00114
+  },
+  {
+    "name": "Fuji",
+    "country": "CN",
+    "lat": 29.14819,
+    "lng": 105.37391
+  },
+  {
+    "name": "Fugou Chengguanzhen",
+    "country": "CN",
+    "lat": 34.06667,
+    "lng": 114.38333
+  },
+  {
+    "name": "Fufeng",
+    "country": "CN",
+    "lat": 34.36051,
+    "lng": 107.87348
+  },
+  {
+    "name": "Fucheng",
+    "country": "CN",
+    "lat": 37.86811,
+    "lng": 116.16001
+  },
+  {
+    "name": "Fubao",
+    "country": "CN",
+    "lat": 28.76905,
+    "lng": 106.07667
+  },
+  {
+    "name": "Fucheng",
+    "country": "CN",
+    "lat": 36.14684,
+    "lng": 112.23351
+  },
+  {
+    "name": "Fulilu",
+    "country": "CN",
+    "lat": 36.10168,
+    "lng": 103.61573
+  },
+  {
+    "name": "Fulu",
+    "country": "CN",
+    "lat": 29.60831,
+    "lng": 106.13454
+  },
+  {
+    "name": "Fuguo",
+    "country": "CN",
+    "lat": 29.69947,
+    "lng": 106.04721
+  },
+  {
+    "name": "Fuyu",
+    "country": "CN",
+    "lat": 44.98336,
+    "lng": 126.03386
+  },
+  {
+    "name": "Fuyuan",
+    "country": "CN",
+    "lat": 48.36346,
+    "lng": 134.29843
+  },
+  {
+    "name": "Fuyu",
+    "country": "CN",
+    "lat": 47.79494,
+    "lng": 124.45773
+  },
+  {
+    "name": "Fuyu",
+    "country": "CN",
+    "lat": 45.18333,
+    "lng": 124.81667
+  },
+  {
+    "name": "Fuxin",
+    "country": "CN",
+    "lat": 42.01556,
+    "lng": 121.65889
+  },
+  {
+    "name": "Fusong",
+    "country": "CN",
+    "lat": 42.32484,
+    "lng": 127.27421
+  },
+  {
+    "name": "Fushun",
+    "country": "CN",
+    "lat": 41.88669,
+    "lng": 123.94363
+  },
+  {
+    "name": "Fujin",
+    "country": "CN",
+    "lat": 47.24723,
+    "lng": 132.02957
+  },
+  {
+    "name": "Fula’erji",
+    "country": "CN",
+    "lat": 47.20923,
+    "lng": 123.62873
+  },
+  {
+    "name": "Fuzhou",
+    "country": "CN",
+    "lat": 26.07711,
+    "lng": 119.29153
+  },
+  {
+    "name": "Fuying",
+    "country": "CN",
+    "lat": 28.8626,
+    "lng": 120.7193
+  },
+  {
+    "name": "Futian",
+    "country": "CN",
+    "lat": 31.22201,
+    "lng": 109.71068
+  },
+  {
+    "name": "Fuping",
+    "country": "CN",
+    "lat": 30.77198,
+    "lng": 107.88003
+  },
+  {
+    "name": "Fuxing",
+    "country": "CN",
+    "lat": 29.81905,
+    "lng": 106.55714
+  },
+  {
+    "name": "Fushou",
+    "country": "CN",
+    "lat": 29.27214,
+    "lng": 107.07415
+  },
+  {
+    "name": "Furong Beilu",
+    "country": "CN",
+    "lat": 28.23707,
+    "lng": 112.98076
+  },
+  {
+    "name": "Fudong",
+    "country": "CN",
+    "lat": 23.12319,
+    "lng": 100.00014
+  },
+  {
+    "name": "Fubang",
+    "country": "CN",
+    "lat": 22.90418,
+    "lng": 99.80286
+  },
+  {
+    "name": "Fuhuan",
+    "country": "CN",
+    "lat": 28.83379,
+    "lng": 106.75535
+  },
+  {
+    "name": "Fuxing",
+    "country": "CN",
+    "lat": 36.62913,
+    "lng": 114.45589
+  },
+  {
+    "name": "Fuyongzhen",
+    "country": "CN",
+    "lat": 22.66813,
+    "lng": 113.81392
+  },
+  {
+    "name": "Futian",
+    "country": "CN",
+    "lat": 22.52192,
+    "lng": 114.05617
+  },
+  {
+    "name": "Futian Residential District",
+    "country": "CN",
+    "lat": 22.52484,
+    "lng": 114.06459
+  },
+  {
+    "name": "Fuhua",
+    "country": "CN",
+    "lat": 22.58783,
+    "lng": 113.89124
+  },
+  {
+    "name": "Fubao",
+    "country": "CN",
+    "lat": 22.51917,
+    "lng": 114.04818
+  },
+  {
+    "name": "Fusagasugá",
+    "country": "CO",
+    "lat": 4.33646,
+    "lng": -74.36378
+  },
+  {
+    "name": "Funza",
+    "country": "CO",
+    "lat": 4.71638,
+    "lng": -74.21195
+  },
+  {
+    "name": "Funes",
+    "country": "CO",
+    "lat": 1.00075,
+    "lng": -77.44918
+  },
+  {
+    "name": "Fundación",
+    "country": "CO",
+    "lat": 10.52066,
+    "lng": -74.18504
+  },
+  {
+    "name": "Fuente de Oro",
+    "country": "CO",
+    "lat": 3.46263,
+    "lng": -73.62162
+  },
+  {
+    "name": "Fulnek",
+    "country": "CZ",
+    "lat": 49.71238,
+    "lng": 17.90319
+  },
+  {
+    "name": "Fußgönheim",
+    "country": "DE",
+    "lat": 49.46111,
+    "lng": 8.29222
+  },
+  {
+    "name": "Furtwangen",
+    "country": "DE",
+    "lat": 48.05156,
+    "lng": 8.20715
+  },
+  {
+    "name": "Furth im Wald",
+    "country": "DE",
+    "lat": 49.30955,
+    "lng": 12.84156
+  },
+  {
+    "name": "Furth",
+    "country": "DE",
+    "lat": 48.40616,
+    "lng": 12.38121
+  },
+  {
+    "name": "Fuldatal",
+    "country": "DE",
+    "lat": 51.38333,
+    "lng": 9.56667
+  },
+  {
+    "name": "Fulda",
+    "country": "DE",
+    "lat": 50.55162,
+    "lng": 9.67518
+  },
+  {
+    "name": "Fuhlsbüttel",
+    "country": "DE",
+    "lat": 53.63459,
+    "lng": 10.01608
+  },
+  {
+    "name": "Fuchsstadt",
+    "country": "DE",
+    "lat": 50.10825,
+    "lng": 9.9337
+  },
+  {
+    "name": "Fuchsmühl",
+    "country": "DE",
+    "lat": 49.92265,
+    "lng": 12.14582
+  },
+  {
+    "name": "Fuglebjerg",
+    "country": "DK",
+    "lat": 55.30604,
+    "lng": 11.54766
+  },
+  {
+    "name": "Fundación",
+    "country": "DO",
+    "lat": 18.28668,
+    "lng": -71.18147
+  },
+  {
+    "name": "Fuwwah",
+    "country": "EG",
+    "lat": 31.20365,
+    "lng": 30.54908
+  },
+  {
+    "name": "Fuerte del Rey",
+    "country": "ES",
+    "lat": 37.87492,
+    "lng": -3.88389
+  },
+  {
+    "name": "Fuente Vaqueros",
+    "country": "ES",
+    "lat": 37.22019,
+    "lng": -3.78294
+  },
+  {
+    "name": "Fuente-Tójar",
+    "country": "ES",
+    "lat": 37.51095,
+    "lng": -4.14631
+  },
+  {
+    "name": "Fuentes de León",
+    "country": "ES",
+    "lat": 38.06866,
+    "lng": -6.53884
+  },
+  {
+    "name": "Fuentes de Andalucía",
+    "country": "ES",
+    "lat": 37.46409,
+    "lng": -5.34615
+  },
+  {
+    "name": "Fuentes",
+    "country": "ES",
+    "lat": 39.96667,
+    "lng": -2.01667
+  },
+  {
+    "name": "Fuenterrobles",
+    "country": "ES",
+    "lat": 39.58333,
+    "lng": -1.35
+  },
+  {
+    "name": "Fuente Palmera",
+    "country": "ES",
+    "lat": 37.70494,
+    "lng": -5.09965
+  },
+  {
+    "name": "Fuente Obejuna",
+    "country": "ES",
+    "lat": 38.26667,
+    "lng": -5.41667
+  },
+  {
+    "name": "Fuentelespino de Moya",
+    "country": "ES",
+    "lat": 39.91667,
+    "lng": -1.46667
+  },
+  {
+    "name": "Fuentelespino de Haro",
+    "country": "ES",
+    "lat": 39.68934,
+    "lng": -2.66869
+  },
+  {
+    "name": "Fuente la Lancha",
+    "country": "ES",
+    "lat": 38.41667,
+    "lng": -5.03333
+  },
+  {
+    "name": "Fuenteheridos",
+    "country": "ES",
+    "lat": 37.90545,
+    "lng": -6.66108
+  },
+  {
+    "name": "Fuente el Fresno",
+    "country": "ES",
+    "lat": 39.22839,
+    "lng": -3.77487
+  },
+  {
+    "name": "Fuente de Piedra",
+    "country": "ES",
+    "lat": 37.13526,
+    "lng": -4.73
+  },
+  {
+    "name": "Fuente de Pedro Naharro",
+    "country": "ES",
+    "lat": 39.92438,
+    "lng": -3.00916
+  },
+  {
+    "name": "Fuente del Maestre",
+    "country": "ES",
+    "lat": 38.52656,
+    "lng": -6.44782
+  },
+  {
+    "name": "Fuente de Cantos",
+    "country": "ES",
+    "lat": 38.25,
+    "lng": -6.3
+  },
+  {
+    "name": "Fuentealbilla",
+    "country": "ES",
+    "lat": 39.26667,
+    "lng": -1.55
+  },
+  {
+    "name": "Fuente-Álamo de Murcia",
+    "country": "ES",
+    "lat": 37.72389,
+    "lng": -1.16972
+  },
+  {
+    "name": "Fuente-Álamo",
+    "country": "ES",
+    "lat": 38.69288,
+    "lng": -1.43158
+  },
+  {
+    "name": "Fuensanta de Martos",
+    "country": "ES",
+    "lat": 37.64756,
+    "lng": -3.90846
+  },
+  {
+    "name": "Fuensanta",
+    "country": "ES",
+    "lat": 39.23333,
+    "lng": -2.06667
+  },
+  {
+    "name": "Fuenllana",
+    "country": "ES",
+    "lat": 38.7559,
+    "lng": -2.95814
+  },
+  {
+    "name": "Fuenlabrada de los Montes",
+    "country": "ES",
+    "lat": 39.13288,
+    "lng": -4.93513
+  },
+  {
+    "name": "Fuengirola",
+    "country": "ES",
+    "lat": 36.53998,
+    "lng": -4.62473
+  },
+  {
+    "name": "Fuencaliente de la Palma",
+    "country": "ES",
+    "lat": 28.49236,
+    "lng": -17.84529
+  },
+  {
+    "name": "Fuencaliente",
+    "country": "ES",
+    "lat": 39.18624,
+    "lng": -4.02576
+  },
+  {
+    "name": "Fuencaliente",
+    "country": "ES",
+    "lat": 38.40602,
+    "lng": -4.30492
+  },
+  {
+    "name": "Fustiñana",
+    "country": "ES",
+    "lat": 42.02087,
+    "lng": -1.48526
+  },
+  {
+    "name": "Funes",
+    "country": "ES",
+    "lat": 42.31562,
+    "lng": -1.80017
+  },
+  {
+    "name": "Fulleda",
+    "country": "ES",
+    "lat": 41.46334,
+    "lng": 1.02395
+  },
+  {
+    "name": "Fuertescusa",
+    "country": "ES",
+    "lat": 40.47552,
+    "lng": -2.1762
+  },
+  {
+    "name": "Fuentidueña de Tajo",
+    "country": "ES",
+    "lat": 40.11574,
+    "lng": -3.15718
+  },
+  {
+    "name": "Fuentidueña",
+    "country": "ES",
+    "lat": 41.44226,
+    "lng": -3.97899
+  },
+  {
+    "name": "Fuentestrún",
+    "country": "ES",
+    "lat": 41.87466,
+    "lng": -2.08283
+  },
+  {
+    "name": "Fuentespreadas",
+    "country": "ES",
+    "lat": 41.32627,
+    "lng": -5.62798
+  },
+  {
+    "name": "Fuentespina",
+    "country": "ES",
+    "lat": 41.63079,
+    "lng": -3.68475
+  },
+  {
+    "name": "Fuentespalda",
+    "country": "ES",
+    "lat": 40.80666,
+    "lng": 0.06517
+  },
+  {
+    "name": "Fuentesoto",
+    "country": "ES",
+    "lat": 41.45664,
+    "lng": -3.91835
+  },
+  {
+    "name": "Fuentesecas",
+    "country": "ES",
+    "lat": 41.63077,
+    "lng": -5.47252
+  },
+  {
+    "name": "Fuentes de Valdepero",
+    "country": "ES",
+    "lat": 42.07532,
+    "lng": -4.5005
+  },
+  {
+    "name": "Fuentes de Rubielos",
+    "country": "ES",
+    "lat": 40.16667,
+    "lng": -0.61667
+  },
+  {
+    "name": "Fuentes de Ropel",
+    "country": "ES",
+    "lat": 42.00377,
+    "lng": -5.54532
+  },
+  {
+    "name": "Fuentes de Oñoro",
+    "country": "ES",
+    "lat": 40.59102,
+    "lng": -6.81144
+  },
+  {
+    "name": "Fuentes de Nava",
+    "country": "ES",
+    "lat": 42.08333,
+    "lng": -4.78333
+  },
+  {
+    "name": "Fuentes de Magaña",
+    "country": "ES",
+    "lat": 41.93521,
+    "lng": -2.1795
+  },
+  {
+    "name": "Fuentes de Jiloca",
+    "country": "ES",
+    "lat": 41.22859,
+    "lng": -1.53616
+  },
+  {
+    "name": "Fuentes de Ebro",
+    "country": "ES",
+    "lat": 41.5125,
+    "lng": -0.63159
+  },
+  {
+    "name": "Fuentes de Carbajal",
+    "country": "ES",
+    "lat": 42.17776,
+    "lng": -5.44606
+  },
+  {
+    "name": "Fuentes de Béjar",
+    "country": "ES",
+    "lat": 40.50815,
+    "lng": -5.6927
+  },
+  {
+    "name": "Fuentes de Ayódar",
+    "country": "ES",
+    "lat": 40.03333,
+    "lng": -0.41667
+  },
+  {
+    "name": "Fuentes de Año",
+    "country": "ES",
+    "lat": 41.01769,
+    "lng": -4.89907
+  },
+  {
+    "name": "Fuentes Claras",
+    "country": "ES",
+    "lat": 40.86375,
+    "lng": -1.32266
+  },
+  {
+    "name": "Fuentes Calientes",
+    "country": "ES",
+    "lat": 40.7,
+    "lng": -0.96667
+  },
+  {
+    "name": "Fuentesaúco de Fuentidueña",
+    "country": "ES",
+    "lat": 41.42445,
+    "lng": -4.06215
+  },
+  {
+    "name": "Fuentesaúco",
+    "country": "ES",
+    "lat": 41.23043,
+    "lng": -5.49722
+  },
+  {
+    "name": "Fuenterroble de Salvatierra",
+    "country": "ES",
+    "lat": 40.56466,
+    "lng": -5.73379
+  },
+  {
+    "name": "Fuentepinilla",
+    "country": "ES",
+    "lat": 41.56683,
+    "lng": -2.76288
+  },
+  {
+    "name": "Fuentepiñel",
+    "country": "ES",
+    "lat": 41.39892,
+    "lng": -4.04295
+  },
+  {
+    "name": "Fuentepelayo",
+    "country": "ES",
+    "lat": 41.22249,
+    "lng": -4.1757
+  },
+  {
+    "name": "Fuentenovilla",
+    "country": "ES",
+    "lat": 40.36248,
+    "lng": -3.09102
+  },
+  {
+    "name": "Fuentenebro",
+    "country": "ES",
+    "lat": 41.52873,
+    "lng": -3.75449
+  },
+  {
+    "name": "Fuentemolinos",
+    "country": "ES",
+    "lat": 41.60477,
+    "lng": -3.85005
+  },
+  {
+    "name": "Fuentelviejo",
+    "country": "ES",
+    "lat": 40.52637,
+    "lng": -2.9843
+  },
+  {
+    "name": "Fuentelsaz de Soria",
+    "country": "ES",
+    "lat": 41.86586,
+    "lng": -2.41525
+  },
+  {
+    "name": "Fuentelsaz",
+    "country": "ES",
+    "lat": 41.07359,
+    "lng": -1.83108
+  },
+  {
+    "name": "Fuentelisendo",
+    "country": "ES",
+    "lat": 41.62274,
+    "lng": -3.90129
+  },
+  {
+    "name": "Fuentelencina",
+    "country": "ES",
+    "lat": 40.51781,
+    "lng": -2.88226
+  },
+  {
+    "name": "Fuentelcésped",
+    "country": "ES",
+    "lat": 41.59162,
+    "lng": -3.64064
+  },
+  {
+    "name": "Fuente la Reina",
+    "country": "ES",
+    "lat": 40.06667,
+    "lng": -0.6
+  },
+  {
+    "name": "Fuentelapeña",
+    "country": "ES",
+    "lat": 41.25144,
+    "lng": -5.38325
+  },
+  {
+    "name": "Fuentelahiguera de Albatages",
+    "country": "ES",
+    "lat": 40.78312,
+    "lng": -3.30492
+  },
+  {
+    "name": "Fuenteguinaldo",
+    "country": "ES",
+    "lat": 40.42876,
+    "lng": -6.67528
+  },
+  {
+    "name": "Fuente Encalada",
+    "country": "ES",
+    "lat": 42.11011,
+    "lng": -5.99622
+  },
+  {
+    "name": "Fuente el Sol",
+    "country": "ES",
+    "lat": 41.17603,
+    "lng": -4.9343
+  },
+  {
+    "name": "Fuente el Saz",
+    "country": "ES",
+    "lat": 40.63215,
+    "lng": -3.51146
+  },
+  {
+    "name": "Fuente el Olmo de Fuentidueña",
+    "country": "ES",
+    "lat": 41.37929,
+    "lng": -4.00086
+  },
+  {
+    "name": "Fuente de Santa Cruz",
+    "country": "ES",
+    "lat": 41.20972,
+    "lng": -4.6353
+  },
+  {
+    "name": "Fuentecén",
+    "country": "ES",
+    "lat": 41.62852,
+    "lng": -3.86867
+  },
+  {
+    "name": "Fuentecantos",
+    "country": "ES",
+    "lat": 41.84929,
+    "lng": -2.42846
+  },
+  {
+    "name": "Fuentecambrón",
+    "country": "ES",
+    "lat": 41.50579,
+    "lng": -3.32872
+  },
+  {
+    "name": "Fuentebureba",
+    "country": "ES",
+    "lat": 42.634,
+    "lng": -3.2351
+  },
+  {
+    "name": "Fuentearmegil",
+    "country": "ES",
+    "lat": 41.71496,
+    "lng": -3.18362
+  },
+  {
+    "name": "Fuensalida",
+    "country": "ES",
+    "lat": 40.05288,
+    "lng": -4.20718
+  },
+  {
+    "name": "Fuensaldaña",
+    "country": "ES",
+    "lat": 41.70617,
+    "lng": -4.76547
+  },
+  {
+    "name": "Fuenmayor",
+    "country": "ES",
+    "lat": 42.46729,
+    "lng": -2.56153
+  },
+  {
+    "name": "Fuenlabrada",
+    "country": "ES",
+    "lat": 40.28419,
+    "lng": -3.79415
+  },
+  {
+    "name": "Fuenferrada",
+    "country": "ES",
+    "lat": 40.86923,
+    "lng": -1.01179
+  },
+  {
+    "name": "Fuendetodos",
+    "country": "ES",
+    "lat": 41.34245,
+    "lng": -0.95988
+  },
+  {
+    "name": "Fuendejalón",
+    "country": "ES",
+    "lat": 41.7605,
+    "lng": -1.47213
+  },
+  {
+    "name": "Fuencemillán",
+    "country": "ES",
+    "lat": 40.92063,
+    "lng": -3.09818
+  },
+  {
+    "name": "Fuencarral",
+    "country": "ES",
+    "lat": 40.5,
+    "lng": -3.68333
+  },
+  {
+    "name": "Fuembellida",
+    "country": "ES",
+    "lat": 40.75589,
+    "lng": -1.99861
+  },
+  {
+    "name": "Fuencarral-El Pardo",
+    "country": "ES",
+    "lat": 40.4984,
+    "lng": -3.7314
+  },
+  {
+    "name": "Fuente del Berro",
+    "country": "ES",
+    "lat": 40.42478,
+    "lng": -3.66379
+  },
+  {
+    "name": "Funyan Bīra",
+    "country": "ET",
+    "lat": 9.4025,
+    "lng": 42.3175
+  },
+  {
+    "name": "Fuglafjørður",
+    "country": "FO",
+    "lat": 62.24398,
+    "lng": -6.81395
+  },
+  {
+    "name": "Fuveau",
+    "country": "FR",
+    "lat": 43.45578,
+    "lng": 5.56149
+  },
+  {
+    "name": "Fussy",
+    "country": "FR",
+    "lat": 47.14372,
+    "lng": 2.42953
+  },
+  {
+    "name": "Furiani",
+    "country": "FR",
+    "lat": 42.65847,
+    "lng": 9.41446
+  },
+  {
+    "name": "Furdenheim",
+    "country": "FR",
+    "lat": 48.61129,
+    "lng": 7.561
+  },
+  {
+    "name": "Fumel",
+    "country": "FR",
+    "lat": 44.49898,
+    "lng": 0.96725
+  },
+  {
+    "name": "Fumay",
+    "country": "FR",
+    "lat": 49.99132,
+    "lng": 4.70771
+  },
+  {
+    "name": "Fublaines",
+    "country": "FR",
+    "lat": 48.93816,
+    "lng": 2.93655
+  },
+  {
+    "name": "Fulwood",
+    "country": "GB",
+    "lat": 53.35,
+    "lng": -1.55
+  },
+  {
+    "name": "Full Sutton",
+    "country": "GB",
+    "lat": 53.98869,
+    "lng": -0.86758
+  },
+  {
+    "name": "Fulham",
+    "country": "GB",
+    "lat": 51.48026,
+    "lng": -0.1993
+  },
+  {
+    "name": "Fulford",
+    "country": "GB",
+    "lat": 53.93333,
+    "lng": -1.06667
+  },
+  {
+    "name": "Fulbourn",
+    "country": "GB",
+    "lat": 52.18283,
+    "lng": 0.22046
+  },
+  {
+    "name": "Furnace Green",
+    "country": "GB",
+    "lat": 51.10742,
+    "lng": -0.16889
+  },
+  {
+    "name": "Furzedown",
+    "country": "GB",
+    "lat": 51.42456,
+    "lng": -0.14656
+  },
+  {
+    "name": "Furze Platt",
+    "country": "GB",
+    "lat": 51.53985,
+    "lng": -0.73696
+  },
+  {
+    "name": "Fulacunda",
+    "country": "GW",
+    "lat": 11.77665,
+    "lng": -15.17177
+  },
+  {
+    "name": "Fuk Loi",
+    "country": "HK",
+    "lat": 22.37405,
+    "lng": 114.11352
+  },
+  {
+    "name": "Fu Cheong Estate",
+    "country": "HK",
+    "lat": 22.32891,
+    "lng": 114.15399
+  },
+  {
+    "name": "Fung Wah Estate",
+    "country": "HK",
+    "lat": 22.26079,
+    "lng": 114.23137
+  },
+  {
+    "name": "Fullview Garden",
+    "country": "HK",
+    "lat": 22.26251,
+    "lng": 114.25191
+  },
+  {
+    "name": "Fu Shan Estate",
+    "country": "HK",
+    "lat": 22.34278,
+    "lng": 114.20865
+  },
+  {
+    "name": "Fu Keung Court",
+    "country": "HK",
+    "lat": 22.34034,
+    "lng": 114.18453
+  },
+  {
+    "name": "Fung Tak Estate",
+    "country": "HK",
+    "lat": 22.34432,
+    "lng": 114.20087
+  },
+  {
+    "name": "Fužine",
+    "country": "HR",
+    "lat": 45.30528,
+    "lng": 14.71556
+  },
+  {
+    "name": "Funtana",
+    "country": "HR",
+    "lat": 45.17472,
+    "lng": 13.605
+  },
+  {
+    "name": "Fulchur",
+    "country": "IN",
+    "lat": 21.43705,
+    "lng": 80.2045
+  },
+  {
+    "name": "Fulkumari",
+    "country": "IN",
+    "lat": 23.52296,
+    "lng": 91.50479
+  },
+  {
+    "name": "Fuscaldo",
+    "country": "IT",
+    "lat": 39.41421,
+    "lng": 16.02839
+  },
+  {
+    "name": "Furtei",
+    "country": "IT",
+    "lat": 39.56253,
+    "lng": 8.94773
+  },
+  {
+    "name": "Furci Siculo",
+    "country": "IT",
+    "lat": 37.96159,
+    "lng": 15.37763
+  },
+  {
+    "name": "Futani",
+    "country": "IT",
+    "lat": 40.15156,
+    "lng": 15.32366
+  },
+  {
+    "name": "Fusine",
+    "country": "IT",
+    "lat": 46.37589,
+    "lng": 12.12547
+  },
+  {
+    "name": "Fusine",
+    "country": "IT",
+    "lat": 46.14949,
+    "lng": 9.74975
+  },
+  {
+    "name": "Fusignano",
+    "country": "IT",
+    "lat": 44.46656,
+    "lng": 11.95636
+  },
+  {
+    "name": "Furore",
+    "country": "IT",
+    "lat": 40.62061,
+    "lng": 14.54904
+  },
+  {
+    "name": "Furci",
+    "country": "IT",
+    "lat": 42.00746,
+    "lng": 14.58802
+  },
+  {
+    "name": "Fuorigrotta",
+    "country": "IT",
+    "lat": 40.83333,
+    "lng": 14.2
+  },
+  {
+    "name": "Fumone",
+    "country": "IT",
+    "lat": 41.73461,
+    "lng": 13.27015
+  },
+  {
+    "name": "Fumane",
+    "country": "IT",
+    "lat": 45.5416,
+    "lng": 10.88548
+  },
+  {
+    "name": "Fucecchio",
+    "country": "IT",
+    "lat": 43.73292,
+    "lng": 10.79749
+  },
+  {
+    "name": "Fubine",
+    "country": "IT",
+    "lat": 44.96305,
+    "lng": 8.42814
+  },
+  {
+    "name": "Funes - Villnoess",
+    "country": "IT",
+    "lat": 46.64282,
+    "lng": 11.67828
+  },
+  {
+    "name": "Fuipiano Valle Imagna",
+    "country": "IT",
+    "lat": 45.85428,
+    "lng": 9.52845
+  },
+  {
+    "name": "Furnari",
+    "country": "IT",
+    "lat": 38.10436,
+    "lng": 15.12358
+  },
+  {
+    "name": "Fulgatore-Torretta",
+    "country": "IT",
+    "lat": 37.94977,
+    "lng": 12.69303
+  },
+  {
+    "name": "Fuorni",
+    "country": "IT",
+    "lat": 40.64063,
+    "lng": 14.84925
+  },
+  {
+    "name": "Furato",
+    "country": "IT",
+    "lat": 45.51468,
+    "lng": 8.88063
+  },
+  {
+    "name": "Fuqū‘",
+    "country": "JO",
+    "lat": 31.36805,
+    "lng": 35.7022
+  },
+  {
+    "name": "Futtsu",
+    "country": "JP",
+    "lat": 35.3108,
+    "lng": 139.81877
+  },
+  {
+    "name": "Furukawamen",
+    "country": "JP",
+    "lat": 33.24253,
+    "lng": 129.6501
+  },
+  {
+    "name": "Funagoshi",
+    "country": "JP",
+    "lat": 36.10533,
+    "lng": 133.00928
+  },
+  {
+    "name": "Funagatōge",
+    "country": "JP",
+    "lat": 32.91667,
+    "lng": 132.83333
+  },
+  {
+    "name": "Funabashi",
+    "country": "JP",
+    "lat": 36.7053,
+    "lng": 137.311
+  },
+  {
+    "name": "Fukuyama",
+    "country": "JP",
+    "lat": 34.48333,
+    "lng": 133.36667
+  },
+  {
+    "name": "Fukuroi",
+    "country": "JP",
+    "lat": 34.75,
+    "lng": 137.91667
+  },
+  {
+    "name": "Fukura",
+    "country": "JP",
+    "lat": 34.25765,
+    "lng": 134.71535
+  },
+  {
+    "name": "Fukuoka",
+    "country": "JP",
+    "lat": 33.6,
+    "lng": 130.41667
+  },
+  {
+    "name": "Fukumitsu",
+    "country": "JP",
+    "lat": 36.55751,
+    "lng": 136.86945
+  },
+  {
+    "name": "Fukui-shi",
+    "country": "JP",
+    "lat": 36.06443,
+    "lng": 136.22257
+  },
+  {
+    "name": "Fukuechō",
+    "country": "JP",
+    "lat": 32.69732,
+    "lng": 128.84561
+  },
+  {
+    "name": "Fukuchiyama",
+    "country": "JP",
+    "lat": 35.3,
+    "lng": 135.11667
+  },
+  {
+    "name": "Fukiage-fujimi",
+    "country": "JP",
+    "lat": 36.1,
+    "lng": 139.45
+  },
+  {
+    "name": "Fuke",
+    "country": "JP",
+    "lat": 34.31581,
+    "lng": 135.14713
+  },
+  {
+    "name": "Fukayachō",
+    "country": "JP",
+    "lat": 36.2,
+    "lng": 139.28333
+  },
+  {
+    "name": "Fujisawa",
+    "country": "JP",
+    "lat": 35.34926,
+    "lng": 139.47666
+  },
+  {
+    "name": "Fujisato",
+    "country": "JP",
+    "lat": 35.05638,
+    "lng": 136.7447
+  },
+  {
+    "name": "Fujioka",
+    "country": "JP",
+    "lat": 36.25,
+    "lng": 139.65
+  },
+  {
+    "name": "Fujioka",
+    "country": "JP",
+    "lat": 36.24624,
+    "lng": 139.07204
+  },
+  {
+    "name": "Fujinomiya",
+    "country": "JP",
+    "lat": 35.21667,
+    "lng": 138.61667
+  },
+  {
+    "name": "Fujieda",
+    "country": "JP",
+    "lat": 34.86667,
+    "lng": 138.26667
+  },
+  {
+    "name": "Fuji",
+    "country": "JP",
+    "lat": 35.16667,
+    "lng": 138.68333
+  },
+  {
+    "name": "Fudaba",
+    "country": "JP",
+    "lat": 33.45,
+    "lng": 133.2
+  },
+  {
+    "name": "Fuchūchō",
+    "country": "JP",
+    "lat": 34.5735,
+    "lng": 133.23513
+  },
+  {
+    "name": "Fussa",
+    "country": "JP",
+    "lat": 35.73667,
+    "lng": 139.32361
+  },
+  {
+    "name": "Fukaura",
+    "country": "JP",
+    "lat": 40.64131,
+    "lng": 139.93202
+  },
+  {
+    "name": "Furukuchi",
+    "country": "JP",
+    "lat": 38.73583,
+    "lng": 140.13833
+  },
+  {
+    "name": "Furukawa",
+    "country": "JP",
+    "lat": 38.57167,
+    "lng": 140.95556
+  },
+  {
+    "name": "Funehikimachi-funehiki",
+    "country": "JP",
+    "lat": 37.44722,
+    "lng": 140.5771
+  },
+  {
+    "name": "Funaishikawa",
+    "country": "JP",
+    "lat": 36.46667,
+    "lng": 140.56667
+  },
+  {
+    "name": "Funagata",
+    "country": "JP",
+    "lat": 38.68889,
+    "lng": 140.31944
+  },
+  {
+    "name": "Fukushima",
+    "country": "JP",
+    "lat": 37.75,
+    "lng": 140.46667
+  },
+  {
+    "name": "Fukawa",
+    "country": "JP",
+    "lat": 35.85,
+    "lng": 140.15
+  },
+  {
+    "name": "Fujita",
+    "country": "JP",
+    "lat": 37.8781,
+    "lng": 140.55332
+  },
+  {
+    "name": "Fujishiro",
+    "country": "JP",
+    "lat": 35.91667,
+    "lng": 140.11667
+  },
+  {
+    "name": "Fudai",
+    "country": "JP",
+    "lat": 40.0,
+    "lng": 141.88333
+  },
+  {
+    "name": "Furubira",
+    "country": "JP",
+    "lat": 43.27333,
+    "lng": 140.6375
+  },
+  {
+    "name": "Furano",
+    "country": "JP",
+    "lat": 43.35,
+    "lng": 142.38333
+  },
+  {
+    "name": "Funama",
+    "country": "JP",
+    "lat": 43.29028,
+    "lng": 140.60056
+  },
+  {
+    "name": "Fukushima",
+    "country": "JP",
+    "lat": 41.48031,
+    "lng": 140.25267
+  },
+  {
+    "name": "Fukagawa",
+    "country": "JP",
+    "lat": 43.70806,
+    "lng": 142.03917
+  },
+  {
+    "name": "Fujisaki",
+    "country": "JP",
+    "lat": 40.65314,
+    "lng": 140.49961
+  },
+  {
+    "name": "Fujimino",
+    "country": "JP",
+    "lat": 35.90196,
+    "lng": 139.52489
+  },
+  {
+    "name": "Fujiidera",
+    "country": "JP",
+    "lat": 34.5676,
+    "lng": 135.5974
+  },
+  {
+    "name": "Fujikawaguchiko",
+    "country": "JP",
+    "lat": 35.48933,
+    "lng": 138.68832
+  },
+  {
+    "name": "Furudate",
+    "country": "JP",
+    "lat": 40.52934,
+    "lng": 141.30553
+  },
+  {
+    "name": "Furukamaya",
+    "country": "JP",
+    "lat": 41.51132,
+    "lng": 140.96255
+  },
+  {
+    "name": "Fuyugi",
+    "country": "JP",
+    "lat": 36.09644,
+    "lng": 139.74531
+  },
+  {
+    "name": "Funado",
+    "country": "JP",
+    "lat": 35.79406,
+    "lng": 139.68111
+  },
+  {
+    "name": "Fujimi",
+    "country": "JP",
+    "lat": 35.90087,
+    "lng": 138.25041
+  },
+  {
+    "name": "Fuki",
+    "country": "JP",
+    "lat": 34.62996,
+    "lng": 135.69643
+  },
+  {
+    "name": "Fujikoto",
+    "country": "JP",
+    "lat": 40.28079,
+    "lng": 140.26257
+  },
+  {
+    "name": "Fujiyoshida",
+    "country": "JP",
+    "lat": 35.44032,
+    "lng": 138.79586
+  },
+  {
+    "name": "Fushimi",
+    "country": "JP",
+    "lat": 35.11426,
+    "lng": 138.89742
+  },
+  {
+    "name": "Futaba",
+    "country": "JP",
+    "lat": 35.60463,
+    "lng": 139.72225
+  },
+  {
+    "name": "Funabori",
+    "country": "JP",
+    "lat": 35.6821,
+    "lng": 139.86641
+  },
+  {
+    "name": "Furuya-hongō",
+    "country": "JP",
+    "lat": 35.90527,
+    "lng": 139.54034
+  },
+  {
+    "name": "Fujimino",
+    "country": "JP",
+    "lat": 35.86142,
+    "lng": 139.51532
+  },
+  {
+    "name": "Funabashi",
+    "country": "JP",
+    "lat": 35.72045,
+    "lng": 140.01148
+  },
+  {
+    "name": "Fuji-yoshida",
+    "country": "JP",
+    "lat": 35.48486,
+    "lng": 138.81123
+  },
+  {
+    "name": "Fuchū",
+    "country": "JP",
+    "lat": 35.67452,
+    "lng": 139.48216
+  },
+  {
+    "name": "Fujimi",
+    "country": "JP",
+    "lat": 35.84815,
+    "lng": 139.55521
+  },
+  {
+    "name": "Fukaya",
+    "country": "JP",
+    "lat": 36.1771,
+    "lng": 139.26029
+  },
+  {
+    "name": "Fuefuki",
+    "country": "JP",
+    "lat": 35.63526,
+    "lng": 138.63853
+  },
+  {
+    "name": "Fukutsu",
+    "country": "JP",
+    "lat": 33.783,
+    "lng": 130.49114
+  },
+  {
+    "name": "Fusō",
+    "country": "JP",
+    "lat": 35.35782,
+    "lng": 136.90983
+  },
+  {
+    "name": "Fuchū",
+    "country": "JP",
+    "lat": 34.38793,
+    "lng": 132.51001
+  },
+  {
+    "name": "Funyula",
+    "country": "KE",
+    "lat": 0.27878,
+    "lng": 34.11869
+  },
+  {
+    "name": "Further Ground",
+    "country": "KY",
+    "lat": 19.34149,
+    "lng": -81.19896
+  },
+  {
+    "name": "Fuvahmulah",
+    "country": "MV",
+    "lat": -0.29878,
+    "lng": 73.42403
+  },
+  {
+    "name": "Funadhoo",
+    "country": "MV",
+    "lat": 6.15091,
+    "lng": 73.29013
+  },
+  {
+    "name": "Fuentezuelas",
+    "country": "MX",
+    "lat": 20.55611,
+    "lng": -99.9824
+  },
+  {
+    "name": "Fuentes del Valle",
+    "country": "MX",
+    "lat": 19.6325,
+    "lng": -99.13861
+  },
+  {
+    "name": "Funtua",
+    "country": "NG",
+    "lat": 11.52351,
+    "lng": 7.31174
+  },
+  {
+    "name": "Fugar",
+    "country": "NG",
+    "lat": 7.09076,
+    "lng": 6.49828
+  },
+  {
+    "name": "Fufu",
+    "country": "NG",
+    "lat": 8.44838,
+    "lng": 4.72077
+  },
+  {
+    "name": "Fufore",
+    "country": "NG",
+    "lat": 9.22175,
+    "lng": 12.64975
+  },
+  {
+    "name": "Furao",
+    "country": "PH",
+    "lat": 17.03466,
+    "lng": 121.79689
+  },
+  {
+    "name": "Fuerte",
+    "country": "PH",
+    "lat": 17.53418,
+    "lng": 120.3695
+  },
+  {
+    "name": "Fuig",
+    "country": "PR",
+    "lat": 17.98774,
+    "lng": -66.91601
+  },
+  {
+    "name": "Fuzeta",
+    "country": "PT",
+    "lat": 37.05429,
+    "lng": -7.74699
+  },
+  {
+    "name": "Funchal",
+    "country": "PT",
+    "lat": 32.66568,
+    "lng": -16.92547
+  },
+  {
+    "name": "Fundão",
+    "country": "PT",
+    "lat": 40.14025,
+    "lng": -7.50135
+  },
+  {
+    "name": "Furnas",
+    "country": "PT",
+    "lat": 37.77567,
+    "lng": -25.31035
+  },
+  {
+    "name": "Fulgencio Yegros",
+    "country": "PY",
+    "lat": -26.45565,
+    "lng": -56.40368
+  },
+  {
+    "name": "Fuerte Olimpo",
+    "country": "PY",
+    "lat": -21.04153,
+    "lng": -57.87377
+  },
+  {
+    "name": "Fuwayriţ",
+    "country": "QA",
+    "lat": 26.02565,
+    "lng": 51.36971
+  },
+  {
+    "name": "Furtunești",
+    "country": "RO",
+    "lat": 45.4594,
+    "lng": 26.3976
+  },
+  {
+    "name": "Furculești",
+    "country": "RO",
+    "lat": 43.87202,
+    "lng": 25.14285
+  },
+  {
+    "name": "Furcenii Noi",
+    "country": "RO",
+    "lat": 45.81118,
+    "lng": 27.33954
+  },
+  {
+    "name": "Fundu Răcăciuni",
+    "country": "RO",
+    "lat": 46.35864,
+    "lng": 26.88987
+  },
+  {
+    "name": "Fundu Moldovei",
+    "country": "RO",
+    "lat": 47.53333,
+    "lng": 25.4
+  },
+  {
+    "name": "Fundulea",
+    "country": "RO",
+    "lat": 44.46667,
+    "lng": 26.51667
+  },
+  {
+    "name": "Fundeni",
+    "country": "RO",
+    "lat": 45.54123,
+    "lng": 27.54056
+  },
+  {
+    "name": "Fundeni",
+    "country": "RO",
+    "lat": 45.29141,
+    "lng": 26.88028
+  },
+  {
+    "name": "Fundeni",
+    "country": "RO",
+    "lat": 44.45892,
+    "lng": 26.16565
+  },
+  {
+    "name": "Fundeni",
+    "country": "RO",
+    "lat": 44.38333,
+    "lng": 26.35
+  },
+  {
+    "name": "Fundata",
+    "country": "RO",
+    "lat": 45.45,
+    "lng": 25.3
+  },
+  {
+    "name": "Fulga de Sus",
+    "country": "RO",
+    "lat": 44.89769,
+    "lng": 26.44831
+  },
+  {
+    "name": "Fulga de Jos",
+    "country": "RO",
+    "lat": 44.88152,
+    "lng": 26.44258
+  },
+  {
+    "name": "Futog",
+    "country": "RS",
+    "lat": 45.23874,
+    "lng": 19.71416
+  },
+  {
+    "name": "Furmanov",
+    "country": "RU",
+    "lat": 57.25417,
+    "lng": 41.11122
+  },
+  {
+    "name": "Furulund",
+    "country": "SE",
+    "lat": 57.71667,
+    "lng": 12.13333
+  },
+  {
+    "name": "Furulund",
+    "country": "SE",
+    "lat": 55.7738,
+    "lng": 13.09022
+  },
+  {
+    "name": "Fua'amotu",
+    "country": "TO",
+    "lat": -21.26403,
+    "lng": -175.13902
+  },
+  {
+    "name": "Funafuti",
+    "country": "TV",
+    "lat": -8.52425,
+    "lng": 179.19417
+  },
+  {
+    "name": "Furmanivka",
+    "country": "UA",
+    "lat": 45.63562,
+    "lng": 29.2349
+  },
+  {
+    "name": "Fultondale",
+    "country": "US",
+    "lat": 33.60483,
+    "lng": -86.79388
+  },
+  {
+    "name": "Fuller Heights",
+    "country": "US",
+    "lat": 27.90919,
+    "lng": -81.99814
+  },
+  {
+    "name": "Fussels Corner",
+    "country": "US",
+    "lat": 28.05419,
+    "lng": -81.86064
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 36.50423,
+    "lng": -88.87423
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 39.15094,
+    "lng": -76.92303
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 38.84671,
+    "lng": -91.94796
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 34.27399,
+    "lng": -88.40921
+  },
+  {
+    "name": "Fuquay-Varina",
+    "country": "US",
+    "lat": 35.58432,
+    "lng": -78.80001
+  },
+  {
+    "name": "Fulshear",
+    "country": "US",
+    "lat": 29.68996,
+    "lng": -95.89968
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 28.0614,
+    "lng": -97.0411
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 41.86725,
+    "lng": -90.15957
+  },
+  {
+    "name": "Fulda",
+    "country": "US",
+    "lat": 43.87052,
+    "lng": -95.60029
+  },
+  {
+    "name": "Fullerton",
+    "country": "US",
+    "lat": 41.36335,
+    "lng": -97.96923
+  },
+  {
+    "name": "Fulton",
+    "country": "US",
+    "lat": 43.32285,
+    "lng": -76.41716
+  },
+  {
+    "name": "Fullerton",
+    "country": "US",
+    "lat": 40.63176,
+    "lng": -75.47324
+  },
+  {
+    "name": "Fullerton",
+    "country": "US",
+    "lat": 33.87029,
+    "lng": -117.92534
+  },
+  {
+    "name": "Funny River",
+    "country": "US",
+    "lat": 60.50194,
+    "lng": -150.76222
+  }
+]
